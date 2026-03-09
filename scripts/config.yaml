@@ -33,10 +33,25 @@ world_news:
       url: "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best"
       category: "world-news"
 
-openai:
-  model: "gpt-4o-mini"
+ai:
+  provider: "deepseek"
+  base_url: "https://api.deepseek.com"
+  model: "deepseek-chat"
   max_summary_length: 200
   language: "zh-CN"
+  # 如需切换其他兼容 OpenAI 格式的 API，修改 provider / base_url / model 即可
+  # 例如 OpenAI:
+  #   provider: "openai"
+  #   base_url: "https://api.openai.com/v1"
+  #   model: "gpt-4o-mini"
+  # 例如 Moonshot (月之暗面):
+  #   provider: "moonshot"
+  #   base_url: "https://api.moonshot.cn/v1"
+  #   model: "moonshot-v1-8k"
+  # 例如 Zhipu (智谱):
+  #   provider: "zhipu"
+  #   base_url: "https://open.bigmodel.cn/api/paas/v4"
+  #   model: "glm-4-flash"
 
 cleanup:
   max_age_days: 7

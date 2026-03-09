@@ -81,9 +81,10 @@ def strip_html(text: str) -> str:
 
 
 def summarize_with_ai(client: OpenAI, title: str, content: str, config: dict) -> dict:
-    """Use OpenAI to generate a Chinese summary and extract tags."""
-    model = config.get("openai", {}).get("model", "gpt-4o-mini")
-    max_len = config.get("openai", {}).get("max_summary_length", 200)
+    """Use AI (DeepSeek/OpenAI/etc.) to generate a Chinese summary and extract tags."""
+    ai_config = config.get("ai", {})
+    model = ai_config.get("model", "deepseek-chat")
+    max_len = ai_config.get("max_summary_length", 200)
 
     content_preview = content[:2000]
 
@@ -190,10 +191,12 @@ def process_news(config: dict, category_key: str, output_subdir: str):
         logger.info(f"No sources configured for {category_key}")
         return
 
-    openai_key = os.environ.get("OPENAI_API_KEY", "")
-    client = OpenAI(api_key=openai_key) if openai_key else None
+    ai_config = config.get("ai", {})
+    api_key = os.environ.get("AI_API_KEY", "") or os.environ.get("OPENAI_API_KEY", "")
+    base_url = ai_config.get("base_url", "https://api.deepseek.com")
+    client = OpenAI(api_key=api_key, base_url=base_url) if api_key else None
     if not client:
-        logger.warning("OPENAI_API_KEY not set; using raw content without AI summarization")
+        logger.warning("AI_API_KEY not set; using raw content without AI summarization")
 
     output_dir = CONTENT_DIR / output_subdir
     all_entries = []

@@ -35,7 +35,7 @@ npm run build
    base: '/news-hub',
    ```
 3. 在仓库 Settings > Secrets and variables > Actions 中添加：
-   - `OPENAI_API_KEY`：你的 OpenAI API Key
+   - `AI_API_KEY`：你的 AI API Key（默认使用 DeepSeek，也支持 OpenAI 等兼容接口）
 4. 在仓库 Settings > Pages 中将 Source 设为 **GitHub Actions**
 5. 推送代码到 GitHub，Actions 会自动构建部署
 
@@ -69,7 +69,7 @@ tags: ['标签1', '标签2']
 
 - `ai_news.sources`：AI 新闻的 RSS 源列表
 - `world_news.sources`：世界新闻的 RSS 源列表
-- `openai.model`：使用的 AI 模型（默认 `gpt-4o-mini`，成本较低）
+- `ai.provider` / `ai.base_url` / `ai.model`：AI 服务配置（默认 DeepSeek，也支持 OpenAI、Moonshot、智谱等）
 - `cleanup.max_age_days`：自动清理超过 N 天的旧新闻
 
 ## 项目结构
@@ -98,6 +98,6 @@ news-hub/
 
 - [Astro](https://astro.build/) - 静态站点生成器
 - [feedparser](https://feedparser.readthedocs.io/) - RSS 解析
-- [OpenAI API](https://platform.openai.com/) - AI 摘要生成
+- [DeepSeek API](https://platform.deepseek.com/) - AI 摘要生成（也支持 OpenAI 等兼容接口）
 - GitHub Actions - CI/CD
 - GitHub Pages - 静态托管

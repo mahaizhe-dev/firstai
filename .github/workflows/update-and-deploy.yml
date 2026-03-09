@@ -41,7 +41,7 @@ jobs:
 
       - name: Fetch news and generate content
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
         run: python scripts/fetch_news.py
 
       - name: Commit updated content
