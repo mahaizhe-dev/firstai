@@ -1,0 +1,52 @@
+---
+interface Props {
+  tabs: { label: string; href: string; active?: boolean }[];
+}
+
+const { tabs } = Astro.props;
+---
+
+<div class="tab-bar">
+  {tabs.map((tab) => (
+    <a href={tab.href} class:list={['tab', { active: tab.active }]}>
+      {tab.label}
+    </a>
+  ))}
+</div>
+
+<style>
+  .tab-bar {
+    display: flex;
+    gap: 0;
+    border-bottom: 1px solid var(--color-border);
+    margin-bottom: 16px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .tab-bar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .tab {
+    flex-shrink: 0;
+    padding: 10px 18px;
+    font-size: 0.9375rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+  }
+
+  .tab:hover {
+    color: var(--color-text);
+  }
+
+  .tab.active {
+    color: var(--color-accent);
+    border-bottom-color: var(--color-accent);
+  }
+</style>

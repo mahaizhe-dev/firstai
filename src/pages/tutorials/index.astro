@@ -1,0 +1,41 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import TabBar from '../../components/TabBar.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import { getCollection } from 'astro:content';
+
+const tutorials = (await getCollection('ai-tutorials'))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+
+const tabs = [
+  { label: '最新资讯', href: '/firstai/ai/', active: false },
+  { label: '工具教程', href: '/firstai/tutorials/', active: true },
+];
+---
+
+<Layout title="AI 工具教程" description="AI 工具新手入门教程与使用指南">
+  <Header />
+  <main class="container">
+    <h1 class="page-title">AI 工具教程</h1>
+    <TabBar tabs={tabs} />
+
+    {tutorials.length > 0 ? (
+      tutorials.map((tut) => (
+        <NewsCard
+          title={tut.data.title}
+          description={tut.data.description}
+          href={`/firstai/tutorials/${tut.id}/`}
+          date={tut.data.pubDate}
+          tags={[tut.data.tool, ...tut.data.tags]}
+          variant="tutorial"
+        />
+      ))
+    ) : (
+      <div class="empty-state">
+        <p>暂无教程</p>
+        <p>你可以在 src/content/ai-tutorials/ 目录添加 Markdown 教程</p>
+      </div>
+    )}
+  </main>
+</Layout>

@@ -1,0 +1,141 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import NewsCard from '../components/NewsCard.astro';
+import { getCollection } from 'astro:content';
+
+const aiNews = (await getCollection('ai-news'))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 3);
+
+const worldNews = (await getCollection('world-news'))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 3);
+
+const tutorials = (await getCollection('ai-tutorials'))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 2);
+---
+
+<Layout title="首页" description="个人资讯站 - AI前沿动态与世界局势新闻">
+  <Header />
+  <main class="container">
+    <section class="section">
+      <div class="section-header">
+        <h2 class="section-title">AI 前沿</h2>
+        <a href="/firstai/ai/" class="section-more">查看全部 &rarr;</a>
+      </div>
+      {aiNews.length > 0 ? (
+        aiNews.map((post) => (
+          <NewsCard
+            title={post.data.title}
+            description={post.data.description}
+            href={`/firstai/ai/${post.id}/`}
+            date={post.data.pubDate}
+            source={post.data.source}
+            tags={post.data.tags}
+            variant="ai"
+          />
+        ))
+      ) : (
+        <div class="empty-hint">暂无 AI 新闻，等待下次自动更新</div>
+      )}
+
+      {tutorials.length > 0 && (
+        <div class="tutorial-preview">
+          <div class="section-header" style="margin-top: 8px;">
+            <h3 class="subsection-title">工具教程</h3>
+            <a href="/firstai/tutorials/" class="section-more">更多教程 &rarr;</a>
+          </div>
+          {tutorials.map((tut) => (
+            <NewsCard
+              title={tut.data.title}
+              description={tut.data.description}
+              href={`/firstai/tutorials/${tut.id}/`}
+              date={tut.data.pubDate}
+              tags={tut.data.tags}
+              variant="tutorial"
+            />
+          ))}
+        </div>
+      )}
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <h2 class="section-title">世界局势</h2>
+        <a href="/firstai/world/" class="section-more">查看全部 &rarr;</a>
+      </div>
+      {worldNews.length > 0 ? (
+        worldNews.map((post) => (
+          <NewsCard
+            title={post.data.title}
+            description={post.data.description}
+            href={`/firstai/world/${post.id}/`}
+            date={post.data.pubDate}
+            source={post.data.source}
+            tags={post.data.tags}
+            variant="world"
+          />
+        ))
+      ) : (
+        <div class="empty-hint">暂无世界新闻，等待下次自动更新</div>
+      )}
+    </section>
+
+    <footer class="footer">
+      <p>个人资讯站 &middot; 内容自动聚合 &middot; 仅供参考</p>
+    </footer>
+  </main>
+</Layout>
+
+<style>
+  .section {
+    margin-bottom: 32px;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    padding-top: 12px;
+  }
+
+  .section-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--color-text);
+  }
+
+  .subsection-title {
+    font-size: 1.0625rem;
+    font-weight: 600;
+    color: var(--color-text);
+  }
+
+  .section-more {
+    font-size: 0.8125rem;
+    color: var(--color-accent);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .empty-hint {
+    padding: 32px 16px;
+    text-align: center;
+    color: var(--color-text-secondary);
+    font-size: 0.875rem;
+    background: var(--color-bg-secondary);
+    border-radius: var(--radius);
+  }
+
+  .footer {
+    text-align: center;
+    padding: 32px 0;
+    font-size: 0.75rem;
+    color: var(--color-text-secondary);
+    border-top: 1px solid var(--color-border);
+    margin-top: 20px;
+  }
+</style>

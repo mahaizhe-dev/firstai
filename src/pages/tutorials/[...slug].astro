@@ -1,0 +1,64 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const tutorials = await getCollection('ai-tutorials');
+  return tutorials.map((tut) => ({
+    params: { slug: tut.id },
+    props: { tut },
+  }));
+}
+
+const { tut } = Astro.props;
+const { Content } = await render(tut);
+
+const formattedDate = tut.data.pubDate.toLocaleDateString('zh-CN', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const difficultyLabels: Record<string, string> = {
+  beginner: '入门',
+  intermediate: '进阶',
+  advanced: '高级',
+};
+---
+
+<Layout title={tut.data.title} description={tut.data.description}>
+  <Header />
+  <main class="container">
+    <a href="/firstai/tutorials/" class="back-link">&larr; 返回教程列表</a>
+    <article class="detail">
+      <h1>{tut.data.title}</h1>
+      <div class="meta">
+        <span class="tool-badge">{tut.data.tool}</span>
+        <span class="difficulty">{difficultyLabels[tut.data.difficulty] ?? tut.data.difficulty}</span>
+        <span>{formattedDate}</span>
+      </div>
+      <div class="content">
+        <Content />
+      </div>
+    </article>
+  </main>
+</Layout>
+
+<style>
+  .tool-badge {
+    background: var(--color-tutorial-tag-bg);
+    color: var(--color-tutorial-tag-text);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 0.8125rem;
+  }
+
+  .difficulty {
+    background: var(--color-bg-secondary);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.8125rem;
+  }
+</style>

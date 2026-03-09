@@ -1,0 +1,42 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('ai-news');
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+const formattedDate = post.data.pubDate.toLocaleDateString('zh-CN', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+
+<Layout title={post.data.title} description={post.data.description}>
+  <Header />
+  <main class="container">
+    <a href="/firstai/ai/" class="back-link">&larr; 返回 AI 前沿</a>
+    <article class="detail">
+      <h1>{post.data.title}</h1>
+      <div class="meta">
+        <span>{post.data.source}</span>
+        <span>{formattedDate}</span>
+        {post.data.sourceUrl && (
+          <a href={post.data.sourceUrl} target="_blank" rel="noopener">原文链接</a>
+        )}
+      </div>
+      <div class="content">
+        <Content />
+      </div>
+    </article>
+  </main>
+</Layout>

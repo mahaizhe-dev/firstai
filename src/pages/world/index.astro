@@ -1,0 +1,35 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import { getCollection } from 'astro:content';
+
+const allNews = (await getCollection('world-news'))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+---
+
+<Layout title="世界局势" description="全球时政要闻与国际局势分析">
+  <Header />
+  <main class="container">
+    <h1 class="page-title">世界局势</h1>
+
+    {allNews.length > 0 ? (
+      allNews.map((post) => (
+        <NewsCard
+          title={post.data.title}
+          description={post.data.description}
+          href={`/firstai/world/${post.id}/`}
+          date={post.data.pubDate}
+          source={post.data.source}
+          tags={[...(post.data.region ? [post.data.region] : []), ...post.data.tags]}
+          variant="world"
+        />
+      ))
+    ) : (
+      <div class="empty-state">
+        <p>暂无世界新闻</p>
+        <p>等待下次自动更新，或手动触发 GitHub Actions</p>
+      </div>
+    )}
+  </main>
+</Layout>
