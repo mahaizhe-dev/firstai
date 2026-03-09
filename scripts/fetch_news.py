@@ -80,25 +80,33 @@ def strip_html(text: str) -> str:
     return text
 
 
-def summarize_with_ai(client: OpenAI, title: str, content: str, config: dict) -> dict:
-    """Use AI (DeepSeek/OpenAI/etc.) to generate a Chinese summary and extract tags."""
+def summarize_with_ai(client: OpenAI, title: str, content: str, config: dict, regions: list[str] | None = None) -> dict:
+    """Use AI (DeepSeek/OpenAI/etc.) to generate a Chinese summary, extract tags, and classify region."""
     ai_config = config.get("ai", {})
     model = ai_config.get("model", "deepseek-chat")
     max_len = ai_config.get("max_summary_length", 200)
 
     content_preview = content[:2000]
 
-    prompt = f"""你是一位专业的新闻编辑。请根据以下新闻标题和内容，完成两项任务：
+    region_instruction = ""
+    if regions:
+        region_list = "、".join(regions)
+        region_instruction = f"\n3. 将此新闻归类到以下分栏之一：{region_list}\n"
+
+    region_format = ""
+    if regions:
+        region_format = "\n分栏：<分栏名称>"
+
+    prompt = f"""你是一位专业的新闻编辑。请根据以下新闻标题和内容，完成以下任务：
 
 1. 用简洁的中文写一段摘要（{max_len}字以内）
-2. 提取 2-4 个相关标签关键词
-
+2. 提取 2-4 个相关标签关键词{region_instruction}
 新闻标题：{title}
 新闻内容：{content_preview}
 
 请严格按照以下格式输出，不要添加其他内容：
 摘要：<摘要内容>
-标签：<标签1>,<标签2>,<标签3>"""
+标签：<标签1>,<标签2>,<标签3>{region_format}"""
 
     try:
         response = client.chat.completions.create(
@@ -111,6 +119,7 @@ def summarize_with_ai(client: OpenAI, title: str, content: str, config: dict) ->
 
         summary = ""
         tags = []
+        region = None
         for line in reply.split("\n"):
             line = line.strip()
             if line.startswith("摘要：") or line.startswith("摘要:"):
@@ -118,15 +127,19 @@ def summarize_with_ai(client: OpenAI, title: str, content: str, config: dict) ->
             elif line.startswith("标签：") or line.startswith("标签:"):
                 raw_tags = line.split("：", 1)[-1].split(":", 1)[-1].strip()
                 tags = [t.strip().strip("#") for t in raw_tags.split(",") if t.strip()]
+            elif line.startswith("分栏：") or line.startswith("分栏:"):
+                region = line.split("：", 1)[-1].split(":", 1)[-1].strip()
+                if regions and region not in regions:
+                    region = regions[-1]
 
         if not summary:
             summary = reply[:max_len]
-        return {"summary": summary, "tags": tags}
+        return {"summary": summary, "tags": tags, "region": region}
 
     except Exception as e:
         logger.warning(f"AI summarization failed for '{title}': {e}")
         fallback_summary = strip_html(content)[:max_len]
-        return {"summary": fallback_summary or title, "tags": []}
+        return {"summary": fallback_summary or title, "tags": [], "region": None}
 
 
 def write_markdown(
@@ -223,18 +236,24 @@ def process_news(config: dict, category_key: str, output_subdir: str):
 
     logger.info(f"Processing {len(all_entries)} entries for {category_key}")
 
+    regions = category_config.get("regions")
+
     for entry in all_entries:
         if client:
-            ai_result = summarize_with_ai(client, entry["title"], entry["raw_content"], config)
+            ai_result = summarize_with_ai(client, entry["title"], entry["raw_content"], config, regions=regions)
             description = ai_result["summary"]
             tags = ai_result["tags"]
+            region = ai_result.get("region")
         else:
             description = entry["raw_content"][:200] or entry["title"]
             tags = []
+            region = regions[-1] if regions else None
+
+        if regions and not region:
+            region = regions[-1]
 
         body_text = entry["raw_content"] if entry["raw_content"] else description
         slug = slugify(entry["title"]) or hashlib.md5(entry["title"].encode()).hexdigest()[:12]
-        region = "国际" if output_subdir == "world-news" else None
 
         write_markdown(
             output_dir=output_dir,

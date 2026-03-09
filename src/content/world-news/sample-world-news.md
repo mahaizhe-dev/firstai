@@ -4,7 +4,7 @@ description: '二十国集团领导人峰会在巴西举行，各国就经济政
 pubDate: 2026-03-07
 source: 'BBC中文'
 sourceUrl: 'https://www.bbc.com/zhongwen'
-region: '国际'
+region: '综合'
 tags: ['G20', '经济', '气候']
 ---
 

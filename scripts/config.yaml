@@ -18,7 +18,7 @@ ai_news:
       category: "ai-news"
 
 world_news:
-  max_items: 20
+  max_items: 30
   sources:
     - name: "BBC中文"
       url: "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"
@@ -32,6 +32,11 @@ world_news:
     - name: "Reuters"
       url: "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best"
       category: "world-news"
+  regions:
+    - "俄乌战争"
+    - "中东战争"
+    - "中国外交"
+    - "综合"
 
 ai:
   provider: "deepseek"

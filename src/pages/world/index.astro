@@ -1,11 +1,14 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
+import TabBar from '../../components/TabBar.astro';
 import NewsCard from '../../components/NewsCard.astro';
 import { getCollection } from 'astro:content';
 
 const allNews = (await getCollection('world-news'))
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+
+const regions = ['全部', '俄乌战争', '中东战争', '中国外交', '综合'];
 ---
 
 <Layout title="世界局势" description="全球时政要闻与国际局势分析">
@@ -13,23 +16,110 @@ const allNews = (await getCollection('world-news'))
   <main class="container">
     <h1 class="page-title">世界局势</h1>
 
-    {allNews.length > 0 ? (
-      allNews.map((post) => (
-        <NewsCard
-          title={post.data.title}
-          description={post.data.description}
-          href={`/firstai/world/${post.id}/`}
-          date={post.data.pubDate}
-          source={post.data.source}
-          tags={[...(post.data.region ? [post.data.region] : []), ...post.data.tags]}
-          variant="world"
-        />
-      ))
-    ) : (
-      <div class="empty-state">
-        <p>暂无世界新闻</p>
-        <p>等待下次自动更新，或手动触发 GitHub Actions</p>
-      </div>
-    )}
+    <div class="region-tabs">
+      {regions.map((r) => (
+        <button class:list={['region-tab', { active: r === '全部' }]} data-region={r}>
+          {r}
+        </button>
+      ))}
+    </div>
+
+    <div id="news-list">
+      {allNews.length > 0 ? (
+        allNews.map((post) => (
+          <div class="news-item" data-region={post.data.region || '综合'}>
+            <NewsCard
+              title={post.data.title}
+              description={post.data.description}
+              href={`/firstai/world/${post.id}/`}
+              date={post.data.pubDate}
+              source={post.data.source}
+              tags={[...(post.data.region ? [post.data.region] : []), ...post.data.tags]}
+              variant="world"
+            />
+          </div>
+        ))
+      ) : (
+        <div class="empty-state">
+          <p>暂无世界新闻</p>
+          <p>等待下次自动更新，或手动触发 GitHub Actions</p>
+        </div>
+      )}
+    </div>
+
+    <div id="empty-filter" class="empty-state" style="display:none;">
+      <p>该分栏暂无新闻</p>
+    </div>
   </main>
 </Layout>
+
+<style>
+  .region-tabs {
+    display: flex;
+    gap: 0;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    border-bottom: 1px solid var(--color-border);
+    margin-bottom: 16px;
+  }
+
+  .region-tabs::-webkit-scrollbar {
+    display: none;
+  }
+
+  .region-tab {
+    flex-shrink: 0;
+    padding: 10px 18px;
+    font-size: 0.9375rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    font-family: inherit;
+  }
+
+  .region-tab:hover {
+    color: var(--color-text);
+  }
+
+  .region-tab.active {
+    color: var(--color-accent);
+    border-bottom-color: var(--color-accent);
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const tabs = document.querySelectorAll<HTMLButtonElement>('.region-tab');
+    const items = document.querySelectorAll<HTMLElement>('.news-item');
+    const emptyMsg = document.getElementById('empty-filter');
+
+    tabs.forEach((tab) => {
+      tab.addEventListener('click', () => {
+        tabs.forEach((t) => t.classList.remove('active'));
+        tab.classList.add('active');
+
+        const region = tab.dataset.region;
+        let visibleCount = 0;
+
+        items.forEach((item) => {
+          if (region === '全部' || item.dataset.region === region) {
+            item.style.display = '';
+            visibleCount++;
+          } else {
+            item.style.display = 'none';
+          }
+        });
+
+        if (emptyMsg) {
+          emptyMsg.style.display = visibleCount === 0 ? '' : 'none';
+        }
+      });
+    });
+  });
+</script>
