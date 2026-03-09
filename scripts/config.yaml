@@ -38,6 +38,22 @@ world_news:
     - "中国外交"
     - "综合"
 
+history_news:
+  max_items: 15
+  sources:
+    - name: "Archaeology Magazine"
+      url: "https://www.archaeology.org/feed"
+      category: "history-news"
+    - name: "Live Science"
+      url: "https://www.livescience.com/feeds/all"
+      category: "history-news"
+    - name: "Hacker News"
+      url: "https://hnrss.org/newest?q=archaeology+OR+ancient+OR+historical+discovery"
+      category: "history-news"
+    - name: "Science Daily"
+      url: "https://www.sciencedaily.com/rss/top/science.xml"
+      category: "history-news"
+
 ai:
   provider: "deepseek"
   base_url: "https://api.deepseek.com"

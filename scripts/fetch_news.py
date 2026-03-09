@@ -306,6 +306,9 @@ def main():
     logger.info("--- Fetching World News ---")
     process_news(config, "world_news", "world-news")
 
+    logger.info("--- Fetching History News ---")
+    process_news(config, "history_news", "history-news")
+
     logger.info("--- Cleaning Up Old Files ---")
     cleanup_old_files(config)
 

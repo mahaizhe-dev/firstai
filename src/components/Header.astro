@@ -15,6 +15,9 @@ const currentPath = Astro.url.pathname;
       <a href="/firstai/world/" class:list={['nav-link', { active: currentPath.includes('/world') }]}>
         <span class="nav-dot world"></span> World
       </a>
+      <a href="/firstai/history/" class:list={['nav-link', { active: currentPath.includes('/history') }]}>
+        <span class="nav-dot history"></span> History
+      </a>
     </nav>
   </div>
   <div class="header-glow"></div>
@@ -110,6 +113,7 @@ const currentPath = Astro.url.pathname;
 
   .nav-dot.ai { background: var(--color-accent); }
   .nav-dot.world { background: #f59e0b; }
+  .nav-dot.history { background: #a855f7; }
 
   .nav-link:hover {
     color: var(--color-text);
@@ -136,5 +140,9 @@ const currentPath = Astro.url.pathname;
 
   .nav-link.active .nav-dot.world {
     box-shadow: 0 0 8px rgba(245, 158, 11, 0.6);
+  }
+
+  .nav-link.active .nav-dot.history {
+    box-shadow: 0 0 8px rgba(168, 85, 247, 0.6);
   }
 </style>

@@ -15,6 +15,10 @@ const worldNews = (await getCollection('world-news'))
 const tutorials = (await getCollection('ai-tutorials'))
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
   .slice(0, 2);
+
+const historyNews = (await getCollection('history-news'))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 3);
 ---
 
 <Layout title="首页" description="个人资讯站 - AI前沿动态与世界局势新闻">
@@ -96,6 +100,31 @@ const tutorials = (await getCollection('ai-tutorials'))
         ))
       ) : (
         <div class="empty-hint">暂无世界新闻，等待下次自动更新</div>
+      )}
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <span class="section-icon history-icon"></span>
+          考古与历史
+        </h2>
+        <a href="/firstai/history/" class="section-more">查看全部 &rarr;</a>
+      </div>
+      {historyNews.length > 0 ? (
+        historyNews.map((post) => (
+          <NewsCard
+            title={post.data.title}
+            description={post.data.description}
+            href={`/firstai/history/${post.id}/`}
+            date={post.data.pubDate}
+            source={post.data.source}
+            tags={post.data.tags}
+            variant="history"
+          />
+        ))
+      ) : (
+        <div class="empty-hint">暂无考古与历史新闻，等待下次自动更新</div>
       )}
     </section>
 
@@ -199,6 +228,7 @@ const tutorials = (await getCollection('ai-tutorials'))
   .ai-icon { background: var(--color-gradient); }
   .world-icon { background: var(--color-gradient-warm); }
   .tut-icon { background: var(--color-gradient-green); }
+  .history-icon { background: var(--color-gradient-purple); }
 
   .subsection-title {
     display: flex;

@@ -21,6 +21,9 @@
   --color-tutorial-tag-text: #34d399;
   --color-world-tag-bg: rgba(245, 158, 11, 0.12);
   --color-world-tag-text: #fbbf24;
+  --color-history-tag-bg: rgba(168, 85, 247, 0.12);
+  --color-history-tag-text: #c084fc;
+  --color-gradient-purple: linear-gradient(135deg, #a855f7, #6366f1);
   --radius: 10px;
   --radius-sm: 6px;
   --max-width: 720px;
@@ -46,6 +49,9 @@
     --color-tutorial-tag-text: #059669;
     --color-world-tag-bg: rgba(245, 158, 11, 0.08);
     --color-world-tag-text: #d97706;
+    --color-history-tag-bg: rgba(168, 85, 247, 0.08);
+    --color-history-tag-text: #a855f7;
+    --color-gradient-purple: linear-gradient(135deg, #a855f7, #6366f1);
   }
 }
 

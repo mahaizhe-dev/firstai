@@ -6,7 +6,7 @@ interface Props {
   date: Date;
   source?: string;
   tags?: string[];
-  variant?: 'ai' | 'world' | 'tutorial';
+  variant?: 'ai' | 'world' | 'tutorial' | 'history';
 }
 
 const { title, description, href, date, source, tags = [], variant = 'ai' } = Astro.props;
@@ -84,6 +84,10 @@ const formatDate = (d: Date) => {
 
   .card.tutorial .card-accent {
     background: var(--color-gradient-green);
+  }
+
+  .card.history .card-accent {
+    background: var(--color-gradient-purple);
   }
 
   .card:hover .card-accent {
@@ -182,5 +186,11 @@ const formatDate = (d: Date) => {
     background: var(--color-tutorial-tag-bg);
     color: var(--color-tutorial-tag-text);
     border: 1px solid rgba(16, 185, 129, 0.15);
+  }
+
+  .tag.history {
+    background: var(--color-history-tag-bg);
+    color: var(--color-history-tag-text);
+    border: 1px solid rgba(168, 85, 247, 0.15);
   }
 </style>

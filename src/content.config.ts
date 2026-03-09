@@ -42,4 +42,17 @@ const worldNews = defineCollection({
   }),
 });
 
-export const collections = { 'ai-news': aiNews, 'ai-tutorials': aiTutorials, 'world-news': worldNews };
+const historyNews = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/history-news' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    pubDate: z.coerce.date(),
+    source: z.string(),
+    sourceUrl: z.string().url().optional(),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
+export const collections = { 'ai-news': aiNews, 'ai-tutorials': aiTutorials, 'world-news': worldNews, 'history-news': historyNews };
