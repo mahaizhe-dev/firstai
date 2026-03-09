@@ -1,0 +1,10 @@
+---
+title: 'If you are selling an AI Software product, read this'
+description: 'Everyone you are selling to has access to Gemini, ChatGPT, or Claude.If its a problem worth paying money to fix, they have already tried to solve their problem with one of these tools. They may alread'
+pubDate: 2026-03-09T14:21:49
+source: 'Hacker News'
+sourceUrl: 'https://news.ycombinator.com/item?id=47309479'
+tags: []
+---
+
+Everyone you are selling to has access to Gemini, ChatGPT, or Claude.If its a problem worth paying money to fix, they have already tried to solve their problem with one of these tools. They may already be using these tools (along with some automation tools) for a partial solution.They have seen how it works, or doesn't work. They have some sense of the limitations of these tools.Example: If you make a claim of "Run your blog on autopilot" you have to show me how you have solved the common issues that appear when trying to write a blog using AI. People have tried to create blogs with AI with ample, hand-written context and many writing samples. Don't tell me you've fixed this issue I could not fix - *show me* : An example, case study - anything like that. I want to read a real blog that your AI wrote (in this example.)There is a tendency in AI marketing to gloss over the existing pain points/limitations of AI. I'm sure some of these common limitations are solvable - maybe with smart prompting or orchestration - but it's tiring to see so many landing pages/pitches hinge on "Just trust me bro" I'm sure you can wire up automations to make it all work, but if the quality isn't there with me manually using a chatbot, why would it be there with your tool?I share this because this is what your potential customers are thinking.Your product will always be judged against what the general chatbots can do. If you truly can get better results, prove it. If you are pitching automation or workflows around existing results, be clear about that (some people may be happy with that offering.) Comments URL: https://news.ycombinator.com/item?id=47309479 Points: 1 # Comments: 0
