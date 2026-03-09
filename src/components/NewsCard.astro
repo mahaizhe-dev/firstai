@@ -17,23 +17,15 @@ const formatDate = (d: Date) => {
   const hours = Math.floor(diff / (1000 * 60 * 60));
   const days = Math.floor(hours / 24);
 
-  if (hours < 1) return 'now';
-  if (hours < 24) return `${hours}h`;
-  if (days < 7) return `${days}d`;
+  if (hours < 1) return '刚刚';
+  if (hours < 24) return `${hours}h ago`;
+  if (days < 7) return `${days}d ago`;
   return d.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' });
-};
-
-const variantIndicator: Record<string, string> = {
-  ai: 'AI',
-  world: 'W',
-  tutorial: 'T',
 };
 ---
 
 <a href={href} class:list={['card', variant]}>
-  <div class="card-indicator">
-    <span class:list={['indicator-dot', variant]}></span>
-  </div>
+  <div class="card-accent"></div>
   <div class="card-body">
     <div class="card-header">
       {variant === 'tutorial' && <span class="badge">TUTORIAL</span>}
@@ -55,80 +47,84 @@ const variantIndicator: Record<string, string> = {
 <style>
   .card {
     display: flex;
-    gap: 12px;
-    background: var(--color-card-bg);
+    position: relative;
+    background: var(--color-bg-card);
     border: 1px solid var(--color-border);
     border-radius: var(--radius);
-    padding: 14px 16px;
+    padding: 0;
     text-decoration: none;
     color: inherit;
-    transition: all 0.15s ease;
-    margin-bottom: 8px;
+    transition: all 0.25s ease;
+    margin-bottom: 10px;
+    overflow: hidden;
   }
 
   .card:hover {
-    border-color: var(--color-accent);
-    background: var(--color-accent-glow);
+    border-color: var(--color-border-hover);
+    box-shadow:
+      0 4px 24px var(--color-card-shadow),
+      0 0 0 1px var(--color-border-hover);
+    transform: translateY(-1px);
   }
 
-  .card-indicator {
+  .card-accent {
+    width: 3px;
     flex-shrink: 0;
-    padding-top: 6px;
+    border-radius: 3px 0 0 3px;
+    transition: width 0.2s ease;
   }
 
-  .indicator-dot {
-    display: block;
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: var(--color-text-secondary);
+  .card.ai .card-accent {
+    background: var(--color-gradient);
   }
 
-  .indicator-dot.ai {
-    background: var(--color-accent);
+  .card.world .card-accent {
+    background: var(--color-gradient-warm);
   }
 
-  .indicator-dot.world {
-    background: #f59e0b;
+  .card.tutorial .card-accent {
+    background: var(--color-gradient-green);
   }
 
-  .indicator-dot.tutorial {
-    background: #10b981;
+  .card:hover .card-accent {
+    width: 4px;
   }
 
   .card-body {
     flex: 1;
     min-width: 0;
+    padding: 14px 16px;
   }
 
   .card-header {
     display: flex;
     align-items: center;
     gap: 8px;
-    margin-bottom: 4px;
+    margin-bottom: 6px;
     font-size: 0.6875rem;
     font-family: var(--font-mono);
     letter-spacing: 0.02em;
   }
 
   .badge {
-    padding: 1px 6px;
-    border-radius: 3px;
+    padding: 2px 7px;
+    border-radius: 4px;
     font-weight: 600;
     font-size: 0.625rem;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.08em;
     background: var(--color-tutorial-tag-bg);
     color: var(--color-tutorial-tag-text);
+    border: 1px solid rgba(16, 185, 129, 0.2);
   }
 
   .source {
-    color: var(--color-text-secondary);
+    color: var(--color-accent-2);
     font-weight: 500;
   }
 
   .date {
     color: var(--color-text-secondary);
-    opacity: 0.6;
+    opacity: 0.7;
   }
 
   .card-title {
@@ -152,7 +148,7 @@ const variantIndicator: Record<string, string> = {
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    margin-bottom: 8px;
+    margin-bottom: 10px;
   }
 
   .tags {
@@ -162,8 +158,8 @@ const variantIndicator: Record<string, string> = {
   }
 
   .tag {
-    padding: 1px 6px;
-    border-radius: 3px;
+    padding: 2px 8px;
+    border-radius: 4px;
     font-size: 0.6875rem;
     font-weight: 500;
     font-family: var(--font-mono);
@@ -173,15 +169,18 @@ const variantIndicator: Record<string, string> = {
   .tag.ai {
     background: var(--color-tag-bg);
     color: var(--color-tag-text);
+    border: 1px solid rgba(99, 102, 241, 0.15);
   }
 
   .tag.world {
     background: var(--color-world-tag-bg);
     color: var(--color-world-tag-text);
+    border: 1px solid rgba(245, 158, 11, 0.15);
   }
 
   .tag.tutorial {
     background: var(--color-tutorial-tag-bg);
     color: var(--color-tutorial-tag-text);
+    border: 1px solid rgba(16, 185, 129, 0.15);
   }
 </style>
