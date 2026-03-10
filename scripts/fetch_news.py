@@ -4,6 +4,7 @@ RSS 新闻抓取 + OpenAI 摘要生成脚本
 自动从配置的 RSS 源获取新闻，生成中文摘要，写入 Markdown 文件。
 """
 
+import json
 import os
 import re
 import sys
@@ -23,12 +24,36 @@ logger = logging.getLogger(__name__)
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 CONTENT_DIR = PROJECT_ROOT / "src" / "content"
+DEDUP_FILE = SCRIPT_DIR / ".fetched_articles.json"
 
 
 def load_config() -> dict:
     config_path = SCRIPT_DIR / "config.yaml"
     with open(config_path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
+
+
+def load_dedup_registry() -> dict:
+    """Load the dedup registry that tracks previously fetched articles."""
+    if DEDUP_FILE.exists():
+        try:
+            data = json.loads(DEDUP_FILE.read_text(encoding="utf-8"))
+            if isinstance(data, dict) and "articles" in data:
+                return data
+        except (json.JSONDecodeError, KeyError):
+            logger.warning("Dedup registry corrupted, starting fresh")
+    return {"articles": {}, "last_updated": None}
+
+
+def save_dedup_registry(registry: dict):
+    registry["last_updated"] = datetime.now(timezone.utc).isoformat()
+    DEDUP_FILE.write_text(json.dumps(registry, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def article_fingerprint(url: str, title: str) -> str:
+    """Generate a unique fingerprint for an article using URL + title."""
+    raw = f"{url.strip().lower()}|{title.strip().lower()}"
+    return hashlib.sha256(raw.encode("utf-8")).hexdigest()[:16]
 
 
 def slugify(text: str) -> str:
@@ -40,13 +65,11 @@ def slugify(text: str) -> str:
     return text[:60]
 
 
-def make_unique_slug(base_slug: str, output_dir: Path) -> str:
-    slug = base_slug
-    counter = 1
-    while (output_dir / f"{slug}.md").exists():
-        slug = f"{base_slug}-{counter}"
-        counter += 1
-    return slug
+def make_unique_slug(base_slug: str, output_dir: Path) -> str | None:
+    """Return the slug if no file exists, or None if a file with this slug already exists (skip duplicate)."""
+    if (output_dir / f"{base_slug}.md").exists():
+        return None
+    return base_slug
 
 
 def parse_pub_date(entry) -> datetime:
@@ -153,9 +176,12 @@ def write_markdown(
     tags: list[str],
     body: str,
     region: str | None = None,
-):
+) -> bool:
+    """Write a markdown file. Returns False if slug already exists (skipped)."""
     output_dir.mkdir(parents=True, exist_ok=True)
     slug = make_unique_slug(slug, output_dir)
+    if slug is None:
+        return False
     filepath = output_dir / f"{slug}.md"
 
     tag_list = ", ".join(f"'{t}'" for t in tags)
@@ -178,6 +204,7 @@ def write_markdown(
     content = "\n".join(frontmatter_lines) + "\n\n" + body + "\n"
     filepath.write_text(content, encoding="utf-8")
     logger.info(f"  Written: {filepath.name}")
+    return True
 
 
 def fetch_feed(source: dict) -> list[dict]:
@@ -194,8 +221,8 @@ def fetch_feed(source: dict) -> list[dict]:
         return []
 
 
-def process_news(config: dict, category_key: str, output_subdir: str):
-    """Process all sources for a given category."""
+def process_news(config: dict, category_key: str, output_subdir: str, dedup_registry: dict):
+    """Process all sources for a given category, skipping already-fetched articles."""
     category_config = config.get(category_key, {})
     sources = category_config.get("sources", [])
     max_items = category_config.get("max_items", 20)
@@ -223,22 +250,40 @@ def process_news(config: dict, category_key: str, output_subdir: str):
             pub_date = parse_pub_date(entry)
             raw_content = strip_html(get_entry_content(entry))
 
+            fp = article_fingerprint(link, title)
+            if fp in dedup_registry["articles"]:
+                continue
+
             all_entries.append({
                 "title": title,
                 "link": link,
                 "pub_date": pub_date,
                 "raw_content": raw_content,
                 "source_name": source["name"],
+                "fingerprint": fp,
             })
 
     all_entries.sort(key=lambda x: x["pub_date"], reverse=True)
     all_entries = all_entries[:max_items]
 
-    logger.info(f"Processing {len(all_entries)} entries for {category_key}")
+    new_count = 0
+    skipped_count = 0
+    logger.info(f"Found {len(all_entries)} new entries for {category_key}")
 
     regions = category_config.get("regions")
 
     for entry in all_entries:
+        slug = slugify(entry["title"]) or hashlib.md5(entry["title"].encode()).hexdigest()[:12]
+
+        if (output_dir / f"{slug}.md").exists():
+            logger.info(f"  Skipped (file exists): {slug}")
+            dedup_registry["articles"][entry["fingerprint"]] = {
+                "title": entry["title"],
+                "fetched_at": datetime.now(timezone.utc).isoformat(),
+            }
+            skipped_count += 1
+            continue
+
         if client:
             ai_result = summarize_with_ai(client, entry["title"], entry["raw_content"], config, regions=regions)
             description = ai_result["summary"]
@@ -253,9 +298,8 @@ def process_news(config: dict, category_key: str, output_subdir: str):
             region = regions[-1]
 
         body_text = entry["raw_content"] if entry["raw_content"] else description
-        slug = slugify(entry["title"]) or hashlib.md5(entry["title"].encode()).hexdigest()[:12]
 
-        write_markdown(
+        written = write_markdown(
             output_dir=output_dir,
             slug=slug,
             title=entry["title"],
@@ -268,9 +312,20 @@ def process_news(config: dict, category_key: str, output_subdir: str):
             region=region,
         )
 
+        if written:
+            dedup_registry["articles"][entry["fingerprint"]] = {
+                "title": entry["title"],
+                "fetched_at": datetime.now(timezone.utc).isoformat(),
+            }
+            new_count += 1
+        else:
+            skipped_count += 1
 
-def cleanup_old_files(config: dict):
-    """Remove news files older than max_age_days (skip protected directories)."""
+    logger.info(f"  {category_key}: {new_count} new, {skipped_count} skipped")
+
+
+def cleanup_old_files(config: dict, dedup_registry: dict):
+    """Remove news files older than max_age_days and prune stale dedup entries."""
     cleanup_config = config.get("cleanup", {})
     max_age = cleanup_config.get("max_age_days", 7)
     protected = set(cleanup_config.get("protected_dirs", []))
@@ -295,23 +350,43 @@ def cleanup_old_files(config: dict):
             except Exception as e:
                 logger.warning(f"  Error processing {md_file.name}: {e}")
 
+    dedup_cutoff = datetime.now(timezone.utc) - timedelta(days=max_age + 1)
+    stale_keys = []
+    for fp, info in dedup_registry["articles"].items():
+        try:
+            fetched_at = date_parser.parse(info.get("fetched_at", ""))
+            if fetched_at.tzinfo is None:
+                fetched_at = fetched_at.replace(tzinfo=timezone.utc)
+            if fetched_at < dedup_cutoff:
+                stale_keys.append(fp)
+        except (ValueError, TypeError):
+            stale_keys.append(fp)
+    for key in stale_keys:
+        del dedup_registry["articles"][key]
+    if stale_keys:
+        logger.info(f"  Pruned {len(stale_keys)} stale entries from dedup registry")
+
 
 def main():
     logger.info("=== News Fetch Script Started ===")
     config = load_config()
+    dedup_registry = load_dedup_registry()
+    logger.info(f"Dedup registry loaded: {len(dedup_registry['articles'])} known articles")
 
     logger.info("--- Fetching AI News ---")
-    process_news(config, "ai_news", "ai-news")
+    process_news(config, "ai_news", "ai-news", dedup_registry)
 
     logger.info("--- Fetching World News ---")
-    process_news(config, "world_news", "world-news")
+    process_news(config, "world_news", "world-news", dedup_registry)
 
     logger.info("--- Fetching History News ---")
-    process_news(config, "history_news", "history-news")
+    process_news(config, "history_news", "history-news", dedup_registry)
 
     logger.info("--- Cleaning Up Old Files ---")
-    cleanup_old_files(config)
+    cleanup_old_files(config, dedup_registry)
 
+    save_dedup_registry(dedup_registry)
+    logger.info(f"Dedup registry saved: {len(dedup_registry['articles'])} articles tracked")
     logger.info("=== Done ===")
 
 
