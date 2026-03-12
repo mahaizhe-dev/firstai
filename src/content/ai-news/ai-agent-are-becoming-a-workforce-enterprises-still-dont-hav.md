@@ -1,0 +1,10 @@
+---
+title: 'AI agent are becoming a workforce. Enterprises still don''t have an OS'
+description: 'If AI Agents Become a Workforce, What Is the Enterprise OS?Something interesting is starting to happen inside companies.AI agents are no longer just answering questions.They analyze data, trigger work'
+pubDate: 2026-03-12T14:07:51
+source: 'Hacker News'
+sourceUrl: 'https://news.ycombinator.com/item?id=47350724'
+tags: []
+---
+
+If AI Agents Become a Workforce, What Is the Enterprise OS?Something interesting is starting to happen inside companies.AI agents are no longer just answering questions.They analyze data, trigger workflows, call APIs, coordinate tools, and sometimes even initiate actions across systems.In other words, they are beginning to behave like a new type of workforce.But enterprises are still managing them with tools designed for a different world.Traditional enterprise software assumes a simple model:humans decide software executesAI agents blur that boundary.They can initiate work, coordinate systems, and operate across multiple platforms. At scale, the enterprise starts to resemble a distributed computing environment.And distributed systems usually need an operating system.But organizations don’t really have one.They have applications, automation tools, AI frameworks, and dashboards — but no true system layer coordinating governance, decisions, execution, and learning across the whole organization.So this raises an interesting question.If AI agents continue expanding as part of the operational workforce, what is the *operating system of the enterprise?*One possible way to think about it is a new category:*Enterprise Evolution Operating System (EEOS)*A system layer that coordinates:governance decision execution evolutionSo the organization itself becomes a continuously improving system.We’re exploring this idea through an open architecture project:https://github.com/Saafree-Inc/saafree-docsCurious how others think about this.If AI agents become part of the workforce, what would the operating system of the enterprise actually look like? Comments URL: https://news.ycombinator.com/item?id=47350724 Points: 1 # Comments: 3
