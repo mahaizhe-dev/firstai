@@ -1,0 +1,10 @@
+---
+title: 'Show HN: Feedster, an RSS/feed reader focused on discovery and agent integration'
+description: 'Hey HN,I built Feedster for a few reasons:1. I want to spend more time reading people''s blogs, long form content, even more traditional digital publications and less time on social media.2. RSS reader'
+pubDate: 2026-03-06T17:56:41
+source: 'Hacker News'
+sourceUrl: 'https://feedster.co'
+tags: []
+---
+
+Hey HN,I built Feedster for a few reasons:1. I want to spend more time reading people's blogs, long form content, even more traditional digital publications and less time on social media.2. RSS readers have typically felt a lot like Apple Mail circa 2010... Unread counts for every feed, everything in its own discrete view, no means for easily discovering new stuff. Not necessarily a bad thing, but it does make reading content feel like _work_ which is directly opposing goal number 1.3. No one has really rethought the shape of RSS in quite some time (Google Reader is probably the biggest re-think here that I can remember). It's typically been a client that downloads posts from various feeds on the internet. This is simple and it works, but what if there was a different shape that was more communal, more editorial, and was web-based?4. I haven't seen any RSS-powered AI agent workflows and I wanted to experiment with what that might look like. To start, I built a hosted MCP server that users can authenticate to and give their agents read-only access to their Feedster channels and feeds. I plan to add more functionality here, as it would be very cool to have an agent do a search on Feedster and find other feeds you might be interested in and add them to your channels automatically. Or dump a giant OPML file of feeds into an agent and have it auto add them to your account and categorize them into different channels for you.You can read more about the background on my blog here: https://p.atrick.org/2026/03/05/introducing-feedsterThanks for checking it out, any feedback or discussion is appreciated. Comments URL: https://news.ycombinator.com/item?id=47278573 Points: 3 # Comments: 0
