@@ -1,0 +1,10 @@
+---
+title: 'Show HN: Scryer – Visual architecture modeling for AI agents'
+description: 'I''ve been working on this desktop tool (FSL license, free for commercial use) for the past month because I now spend more time in a terminal prompting Claude Code instead of using a code editor. It ge'
+pubDate: 2026-03-16T13:00:07
+source: 'Hacker News'
+sourceUrl: 'https://github.com/aklos/scryer'
+tags: []
+---
+
+I've been working on this desktop tool (FSL license, free for commercial use) for the past month because I now spend more time in a terminal prompting Claude Code instead of using a code editor. It generally works quite well if I ask the right questions, but I still often find a lot of dead code, stubs, or poor architectural choices when I finish a session, and understanding the codebase itself can be jarring after making major changes through vibecoding.The idea for Scryer is to provide a visual surface using C4 model diagrams to share with an AI so that we both understand the actual state of a codebase, and how proposed changes would affect it. It's basically model-driven development (like UML) but adapted for the LLM era. Because of that, I think using opinionated C4 (https://c4model.com/) is the best approach:- It's simple enough to understand without putting the developer into a coma- There's just enough context to guide the AI coherently- Doesn't try to replace code, but defines structural guardrails and scopeAlso, I've included some newer agent-oriented methodologies like "always/ask/never" contracts (which have turned out to be very useful), task decomposition, MCP + ACP connections, etc.This is very experimental and early, so it's quite rough around the edges, but I'm already using it in my own dev workflow and I hope you guys check it out. I honestly think this might be the year of MDE/MDD - as we abstract away the code layer, software architecture fundamentals are becoming more important than ever. Comments URL: https://news.ycombinator.com/item?id=47398427 Points: 2 # Comments: 0
