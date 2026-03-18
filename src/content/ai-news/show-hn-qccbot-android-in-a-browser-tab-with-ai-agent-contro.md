@@ -1,0 +1,10 @@
+---
+title: 'Show HN: QCCBot – Android in a browser tab, with AI agent control'
+description: 'Eight months ago I watched a friend manage three walls of phones for his cross-border e-commerce operation — charging, swapping IPs, constantly worrying about bans. I asked myself: do people actually '
+pubDate: 2026-03-18T07:02:00
+source: 'Hacker News'
+sourceUrl: 'https://news.ycombinator.com/item?id=47422425'
+tags: []
+---
+
+Eight months ago I watched a friend manage three walls of phones for his cross-border e-commerce operation — charging, swapping IPs, constantly worrying about bans. I asked myself: do people actually want the boxes, or just the Android environment inside? We built QCCBot to answer that. Full Android instances running on ARM servers, streamed to a browser. Open a tab, you get a phone. No hardware, no cables, no charging 100 machines on rotation. We have real users now — cross-border e-commerce, TikTok ops, app testing, remote work. Honestly, our users found the use cases before we did. What we're building toward next: AI agents that don't just view the Android environment — they operate inside it. Open apps, execute tasks, monitor state, report back. No human in the loop for routine operations. The infrastructure piece we just shipped: • Task execution API (OpenAPI) • Script template store (~30 templates, pick a behavior and deploy it) • AgentV2 running in private deployment • ADB-based agent control via OpenClaw integration Current honest limitations: • Streaming latency is still a work in progress • Fingerprint simulation isn't perfect • Full autonomous operation is still being built out • We got roasted by power users when we redesigned the UI (fair) We've collected more scars than features. Still early. But real users are telling us what sucks every day — that's worth more than praise. Try it: qccbot.com Happy to go deep on the ARM virtualization approach, the agent control layer, or the streaming architecture. Also genuinely interested in whether anyone building AI agents has hit the "need a persistent mobile environment" problem. Comments URL: https://news.ycombinator.com/item?id=47422425 Points: 4 # Comments: 0
