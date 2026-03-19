@@ -1,153 +1,5 @@
 {
   "articles": {
-    "824263fb2b862755": {
-      "title": "Show HN: Autopsy CLI – Open-source AI incident diagnosis in 30s",
-      "fetched_at": "2026-03-11T14:37:01.428975+00:00"
-    },
-    "0554b07ca38e63e5": {
-      "title": "Aimag.me – Self-reflection through tarot and AI",
-      "fetched_at": "2026-03-11T14:37:02.061114+00:00"
-    },
-    "72af40e0707a53cb": {
-      "title": "Japan is betting big on AI. Few workers have used it",
-      "fetched_at": "2026-03-11T14:37:02.681935+00:00"
-    },
-    "26586c9a2b095bf3": {
-      "title": "AI bots spam GitHub repo with identical PRs",
-      "fetched_at": "2026-03-11T14:37:03.310334+00:00"
-    },
-    "df4ad1047110e619": {
-      "title": "Tell HN: AI coding is not for the impatient",
-      "fetched_at": "2026-03-11T14:37:03.930968+00:00"
-    },
-    "a34b19ff66c8ba02": {
-      "title": "Meta's Race to Scale AI Chips for Billions: Four Chips in Two Years",
-      "fetched_at": "2026-03-11T14:37:04.569259+00:00"
-    },
-    "2958a732a2d73e3a": {
-      "title": "Show HN: AIRiskCalc – AI-Powered Health Risk Calculators",
-      "fetched_at": "2026-03-11T14:37:05.195631+00:00"
-    },
-    "adae117eec470534": {
-      "title": "I was interviewed by an AI bot for a job",
-      "fetched_at": "2026-03-11T14:37:05.810311+00:00"
-    },
-    "d7570c64700cad39": {
-      "title": "Canopii looks to succeed where past indoor farms have not",
-      "fetched_at": "2026-03-11T14:37:06.435222+00:00"
-    },
-    "964ac1bb5fa25f9f": {
-      "title": "Show HN: AgentSign – Open-source zero trust engine for AI agents",
-      "fetched_at": "2026-03-11T14:37:07.055036+00:00"
-    },
-    "2282c3b4bcf42b33": {
-      "title": "Skillfile: Declarative manager for AI skills and agents (like brewfile)",
-      "fetched_at": "2026-03-11T14:37:07.712605+00:00"
-    },
-    "9432bf5292c0723e": {
-      "title": "What we learned building an AI agent with 100K tools in production",
-      "fetched_at": "2026-03-11T14:37:08.336078+00:00"
-    },
-    "e75e60930f5592e0": {
-      "title": "Show HN: LobsterLair – OpenClaw hosting with AI included ($19/mo)",
-      "fetched_at": "2026-03-11T14:37:08.959544+00:00"
-    },
-    "6d754bc911b1df3e": {
-      "title": "Enterprise vs. Open-Source AI Agents",
-      "fetched_at": "2026-03-11T14:37:09.575889+00:00"
-    },
-    "9793380bdeeff8bb": {
-      "title": "Tech Silicon Valley is buzzing about this new idea: AI compute as compensation",
-      "fetched_at": "2026-03-11T14:37:10.204065+00:00"
-    },
-    "b520f1fe1af748f2": {
-      "title": "The mysterious case of the DHS white supremacist memelord",
-      "fetched_at": "2026-03-11T14:37:10.828107+00:00"
-    },
-    "5f1cb13aaf333e17": {
-      "title": "Passage Protocol – Departure and admission records for AI agents",
-      "fetched_at": "2026-03-11T14:37:11.453414+00:00"
-    },
-    "3812cde5b87b052a": {
-      "title": "Built an AI smarter than ChatGPT. Jesus Christ before GTA 6. Genuinely scared",
-      "fetched_at": "2026-03-11T14:37:12.082914+00:00"
-    },
-    "1500c538c78f7fba": {
-      "title": "N8n-as-code: Stop n8n AI hallucinations with TS decorators",
-      "fetched_at": "2026-03-11T14:37:12.717783+00:00"
-    },
-    "6fc6aaac45bf729b": {
-      "title": "Chatbots encouraged &#8216;teens&#8217; to plan shootings in study",
-      "fetched_at": "2026-03-11T14:37:13.383057+00:00"
-    },
-    "bc17fd97323b38bb": {
-      "title": "中國兩會人事觀察：新晉大員、將領寥落與邊疆重構",
-      "fetched_at": "2026-03-11T14:37:16.051943+00:00"
-    },
-    "ae90449ab788be7e": {
-      "title": "科學家稱空襲引發德黑蘭黑雨及「前所未見」的污染",
-      "fetched_at": "2026-03-11T14:37:16.690433+00:00"
-    },
-    "c00fa46659473c26": {
-      "title": "'It's nature calling to humans, and humans deciding whether or not to reply': Why we need to start paying attention to our mutually beneficial relationships with other species",
-      "fetched_at": "2026-03-11T14:37:21.782748+00:00"
-    },
-    "219fe2b4c5d74f42": {
-      "title": "Diagnostic dilemma: Woman born without a vagina or cervix went on to conceive a son naturally",
-      "fetched_at": "2026-03-11T14:37:22.422856+00:00"
-    },
-    "57617c1ced5e270d": {
-      "title": "Universe-shaking collision of black hole and neutron star could upend our understanding of monster cosmic mergers",
-      "fetched_at": "2026-03-11T14:37:23.047218+00:00"
-    },
-    "eb5ca1152353f166": {
-      "title": "Scientists discover tiny plant trick that could supercharge crop yields",
-      "fetched_at": "2026-03-11T14:37:23.698576+00:00"
-    },
-    "c8f143a341c40c02": {
-      "title": "Ocean warming may supercharge a tiny microbe that controls marine nutrients",
-      "fetched_at": "2026-03-11T14:37:24.305017+00:00"
-    },
-    "d19109e3f82b1ef5": {
-      "title": "Cannabis study finds THC can create false memories",
-      "fetched_at": "2026-03-11T14:37:24.930007+00:00"
-    },
-    "8319c1b50e8d4246": {
-      "title": "In people with epilepsy, sleeping after a seizure may trigger more seizures",
-      "fetched_at": "2026-03-11T14:37:25.549027+00:00"
-    },
-    "cad83d671aa30eab": {
-      "title": "Mosaic Flooring Discovered in Central Athens",
-      "fetched_at": "2026-03-11T14:37:26.173935+00:00"
-    },
-    "311a24cb488464c4": {
-      "title": "Maya Wooden Structures Excavated at Belize Wetlands Site",
-      "fetched_at": "2026-03-11T14:37:26.786497+00:00"
-    },
-    "dc1298dec6a35304": {
-      "title": "Possible Early Human Ancestor Femur Uncovered in the Balkans",
-      "fetched_at": "2026-03-11T14:37:27.398078+00:00"
-    },
-    "08a468dbed810027": {
-      "title": "California's wildfire season is shifting, with more blazes after the traditional high-risk window, study finds",
-      "fetched_at": "2026-03-11T14:37:28.010262+00:00"
-    },
-    "4355b22495a5891a": {
-      "title": "Scientists create slippery nanopores that supercharge blue energy",
-      "fetched_at": "2026-03-11T14:37:28.628953+00:00"
-    },
-    "8b3e87391481a433": {
-      "title": "World's smallest QR code can store data for thousands of years ‪—‬ but you need an electron microscope to see it",
-      "fetched_at": "2026-03-11T14:37:29.263579+00:00"
-    },
-    "46ec563d4b877b4d": {
-      "title": "Asante spider: A rare African sword ornament from Ghana's Gold Coast that later helped a man in Texas barter for his life",
-      "fetched_at": "2026-03-11T14:37:29.871155+00:00"
-    },
-    "225dec8d2fa9bbb0": {
-      "title": "Ka'ak, and the Case for the Ancient Arabic Origins of the Bagel (2023)",
-      "fetched_at": "2026-03-11T14:37:30.497168+00:00"
-    },
     "253c46061b7c2882": {
       "title": "Show HN: Shadowscan – see what an AI agent can access on your machine",
       "fetched_at": "2026-03-11T19:53:43.764793+00:00"
@@ -3819,7 +3671,163 @@
     "c8ba90b779fb94f9": {
       "title": "The surprising cancer link between cats and humans",
       "fetched_at": "2026-03-19T08:02:42.159613+00:00"
+    },
+    "f961710039344cc0": {
+      "title": "AI Isn't Killing Developers–It's Creating a $10T Maintenance Crisis",
+      "fetched_at": "2026-03-19T14:38:30.994513+00:00"
+    },
+    "5be41d71037ef867": {
+      "title": "AI Birthday Card Generator",
+      "fetched_at": "2026-03-19T14:38:31.628574+00:00"
+    },
+    "2cb6416d5fa9e465": {
+      "title": "How to fix the Agentic AI bottleneck: the database",
+      "fetched_at": "2026-03-19T14:38:32.308156+00:00"
+    },
+    "87104231ec09f448": {
+      "title": "HN: We benchmarked 8 AI models on 36 real Kubernetes scenarios for $40",
+      "fetched_at": "2026-03-19T14:38:33.003988+00:00"
+    },
+    "1bd3646266afcb4b": {
+      "title": "AI is becoming a second brain at the expense of your first one",
+      "fetched_at": "2026-03-19T14:38:33.647547+00:00"
+    },
+    "e4cc542fceb0c29e": {
+      "title": "Show HN: We Built Airloom.fm – Podcast Hosting for AI Agents",
+      "fetched_at": "2026-03-19T14:38:34.277398+00:00"
+    },
+    "971ee6685e2ace6d": {
+      "title": "Kid's Brain on AI Slop",
+      "fetched_at": "2026-03-19T14:38:35.099956+00:00"
+    },
+    "d68cd19273af600f": {
+      "title": "MiMo-V2-Pro LLM nearing GPT-5.2, Opus 4.6 performance at a fraction of the cost",
+      "fetched_at": "2026-03-19T14:38:35.754771+00:00"
+    },
+    "176f30e9a4269c30": {
+      "title": "I built a Chrome extension that warns when you paste secrets into AI tools",
+      "fetched_at": "2026-03-19T14:38:36.380597+00:00"
+    },
+    "769ffeebf15d76fd": {
+      "title": "AI chatbots agree on what to say about candidates, but not where they got it",
+      "fetched_at": "2026-03-19T14:38:37.000087+00:00"
+    },
+    "a2ffde10c337c63d": {
+      "title": "\"It feels like Squid Game\": China's workers scramble to keep up in the AI race",
+      "fetched_at": "2026-03-19T14:38:37.637243+00:00"
+    },
+    "9a65517e3c97c60c": {
+      "title": "What if Ai is embedding subliminal messages in the Ai slop videos?",
+      "fetched_at": "2026-03-19T14:38:38.307256+00:00"
+    },
+    "16cefdb3b0df0dfc": {
+      "title": "Gramsci's Nightmare: AI, Platform Power and the Automation of Cultural Hegemony",
+      "fetched_at": "2026-03-19T14:38:38.930835+00:00"
+    },
+    "f981678f3f2cf67b": {
+      "title": "Show HN: Budibase Agents Beta – model-agnostic AI agents for internal workflows",
+      "fetched_at": "2026-03-19T14:38:39.556671+00:00"
+    },
+    "b02fb13a03fcf980": {
+      "title": "A brief history of AI coding, from Copilot to next-gen agents",
+      "fetched_at": "2026-03-19T14:38:40.172701+00:00"
+    },
+    "30a92b3d3196e9a3": {
+      "title": "Show HN: AgentDeals – Developer pricing discovery for AI agents",
+      "fetched_at": "2026-03-19T14:38:40.793985+00:00"
+    },
+    "c405c542dd9ee52d": {
+      "title": "Thoughts on \"The Machine Stops\"",
+      "fetched_at": "2026-03-19T14:38:41.451288+00:00"
+    },
+    "2fed082f6c9c573d": {
+      "title": "The AI boom has plunged a small Pennsylvania town into chaos",
+      "fetched_at": "2026-03-19T14:38:42.075750+00:00"
+    },
+    "13671140bb79fd51": {
+      "title": "AI is making me paranoid about contributions",
+      "fetched_at": "2026-03-19T14:38:42.699031+00:00"
+    },
+    "10e0e85a90a4d7ac": {
+      "title": "Show HN: We benchmarked 3 AI video detection APIs on 190 videos",
+      "fetched_at": "2026-03-19T14:38:43.314843+00:00"
+    },
+    "0d510201eb1d6c8d": {
+      "title": "日本首次部署「長程導彈」可覆蓋上海，為何選擇設在熊本？",
+      "fetched_at": "2026-03-19T14:38:47.153288+00:00"
+    },
+    "d773a4f72387b917": {
+      "title": "宏福苑火災：勞工處多次巡查未發現吸煙，棚網承建商被指大火後試圖隱瞞",
+      "fetched_at": "2026-03-19T14:38:47.775694+00:00"
+    },
+    "be1c48da5ea3adcc": {
+      "title": "宵禁、罰掃廁所、懷孕遭解約：菲律賓女移工抗議台灣「囚犯式管理」",
+      "fetched_at": "2026-03-19T14:38:48.394718+00:00"
+    },
+    "de28204117ab434e": {
+      "title": "穿越沙漠、搶機票：美以伊戰火下的中東「逃難記」",
+      "fetched_at": "2026-03-19T14:38:49.134860+00:00"
+    },
+    "4048a35c419b259f": {
+      "title": "「和我有什麼關係？」：中國年輕人為何不再關注「兩會」",
+      "fetched_at": "2026-03-19T14:38:49.988839+00:00"
+    },
+    "da256a6754f679a1": {
+      "title": "2026中國兩會：北京如何定義未來五年？",
+      "fetched_at": "2026-03-19T14:38:50.600045+00:00"
+    },
+    "b7a246bb34142080": {
+      "title": "兩月內委內瑞拉伊朗接連巨變 中國原油進口體系面臨壓力測試",
+      "fetched_at": "2026-03-19T14:38:51.229521+00:00"
+    },
+    "522c2189683224e8": {
+      "title": "為何西方社群掀起「中國化」熱潮？",
+      "fetched_at": "2026-03-19T14:38:51.969506+00:00"
+    },
+    "ce2a1ab9ca02d0aa": {
+      "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
+      "fetched_at": "2026-03-19T14:38:52.777621+00:00"
+    },
+    "a059faa8fa1ea54d": {
+      "title": "Scientists witness birth of one of the universe's strongest magnets for the first time, thanks to a general relativity 'magic trick'",
+      "fetched_at": "2026-03-19T14:39:00.093606+00:00"
+    },
+    "0be4a524bea2755d": {
+      "title": "Top 5 tips for surviving hay fever season",
+      "fetched_at": "2026-03-19T14:39:00.723340+00:00"
+    },
+    "989f2908ace18f62": {
+      "title": "Best APS-C and Micro Four-Thirds cameras for astrophotography",
+      "fetched_at": "2026-03-19T14:39:01.346956+00:00"
+    },
+    "e6be2e2d3a385344": {
+      "title": "Live Science Today: Artemis II readies for rollout as auroras paint skies",
+      "fetched_at": "2026-03-19T14:39:01.986385+00:00"
+    },
+    "358c1e2a5f1e8b3b": {
+      "title": "Divers find marble treasure from Athens' Acropolis in Lord Elgin's shipwrecked brig at the bottom of the Aegean Sea",
+      "fetched_at": "2026-03-19T14:39:02.620350+00:00"
+    },
+    "a3815c00d6653d2d": {
+      "title": "All 5 'letters' of DNA found on an asteroid speeding through our solar system. What do they tell us about the origins of life?",
+      "fetched_at": "2026-03-19T14:39:03.273584+00:00"
+    },
+    "c9474a2b6d1d0fbf": {
+      "title": "The best strength training plan might be simpler than you think",
+      "fetched_at": "2026-03-19T14:39:03.899174+00:00"
+    },
+    "fa866b6c49265769": {
+      "title": "Physicists discover a heavy cousin of the proton at CERN’s Large Hadron Collider",
+      "fetched_at": "2026-03-19T14:39:04.531460+00:00"
+    },
+    "ac044709fd016815": {
+      "title": "Scientists discover tiny rocket engines inside malaria parasites",
+      "fetched_at": "2026-03-19T14:39:05.169493+00:00"
+    },
+    "b4bb2825f7b1176d": {
+      "title": "A massive asteroid hit the North Sea and triggered a 330-foot tsunami",
+      "fetched_at": "2026-03-19T14:39:05.796343+00:00"
     }
   },
-  "last_updated": "2026-03-19T08:02:42.305293+00:00"
+  "last_updated": "2026-03-19T14:39:05.919520+00:00"
 }
