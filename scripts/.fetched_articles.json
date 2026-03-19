@@ -1,141 +1,5 @@
 {
   "articles": {
-    "253c46061b7c2882": {
-      "title": "Show HN: Shadowscan – see what an AI agent can access on your machine",
-      "fetched_at": "2026-03-11T19:53:43.764793+00:00"
-    },
-    "2121945f2c90298a": {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-      "fetched_at": "2026-03-11T19:53:44.389494+00:00"
-    },
-    "b3c62084cf9a20d1": {
-      "title": "Ask HN: Developers still enjoying development after AI?",
-      "fetched_at": "2026-03-11T19:53:45.006272+00:00"
-    },
-    "d44edf7f77ecd0b2": {
-      "title": "From IDEs to AI Agents with Steve Yegge [video]",
-      "fetched_at": "2026-03-11T19:53:45.625594+00:00"
-    },
-    "b78ffd8e81606fbc": {
-      "title": "Show HN: Daub – A rendering spec for AI-generated UIs (two files, no build step)",
-      "fetched_at": "2026-03-11T19:53:46.266739+00:00"
-    },
-    "4ab545479f8c2f11": {
-      "title": "Slicing an 80B MoE LLM into 40B domain specialists",
-      "fetched_at": "2026-03-11T19:53:46.976268+00:00"
-    },
-    "2e1a5c06c524fc9a": {
-      "title": "Ask HN: How do you prevent AI generated GitHub issues?",
-      "fetched_at": "2026-03-11T19:53:47.590174+00:00"
-    },
-    "e538836421c44f4e": {
-      "title": "Nvidia Releases NemoClaw – Enterprise AI Agents, Redefined",
-      "fetched_at": "2026-03-11T19:53:48.290688+00:00"
-    },
-    "1bdc63ab38dd1e4d": {
-      "title": "Grammarly says it will stop using AI to clone experts without permission",
-      "fetched_at": "2026-03-11T19:53:50.128364+00:00"
-    },
-    "589e85452ec30165": {
-      "title": "Distributed Python dataframes and machine learning with Livebook and Elixir",
-      "fetched_at": "2026-03-11T19:53:49.504692+00:00"
-    },
-    "399588196cb56597": {
-      "title": "Replit snags $9B valuation 6 months after hitting $3B",
-      "fetched_at": "2026-03-11T19:53:50.128233+00:00"
-    },
-    "f58c1ac7c341375d": {
-      "title": "Designing AI agents to resist prompt injection",
-      "fetched_at": "2026-03-11T19:53:50.818067+00:00"
-    },
-    "9e827b8719ca4e95": {
-      "title": "Show HN: Hyper – A stupidly non-corporate voice AI app for IRL conversations",
-      "fetched_at": "2026-03-11T19:53:51.419243+00:00"
-    },
-    "32e052ae0b0b6ec2": {
-      "title": "PostTrainBench: How well can AI agents post-train language models?",
-      "fetched_at": "2026-03-11T19:53:52.019066+00:00"
-    },
-    "824cde6543a967f0": {
-      "title": "Impact of using AI as a second reader in breast screening including arbitration",
-      "fetched_at": "2026-03-11T19:53:52.633215+00:00"
-    },
-    "99e139536f84e31f": {
-      "title": "Show HN: A CLI to scrape, search, and interact with the web for AI agents",
-      "fetched_at": "2026-03-11T19:53:53.237210+00:00"
-    },
-    "26aa425e8df0de68": {
-      "title": "Death of the Dark Room: How Generative AI Broke Enterprise It's Political Cover",
-      "fetched_at": "2026-03-11T19:53:53.853826+00:00"
-    },
-    "c6c3ce3e04b5d23d": {
-      "title": "I Was Interviewed by an AI Bot for a Job",
-      "fetched_at": "2026-03-11T19:53:53.853946+00:00"
-    },
-    "9a320faf327834f6": {
-      "title": "Show HN: AgentOS- a memory system for AI agents that learns what it doesn't know",
-      "fetched_at": "2026-03-11T19:53:54.470798+00:00"
-    },
-    "a15e531ca334ee46": {
-      "title": "Russian Revolution gold coin hoard worth over $500,000 discovered during house construction",
-      "fetched_at": "2026-03-11T19:54:29.020058+00:00"
-    },
-    "547761ef3ccd5a1b": {
-      "title": "The world is being held hostage by its reliance on oil. How can we break free from the fossil fuel?",
-      "fetched_at": "2026-03-11T19:54:29.622569+00:00"
-    },
-    "2607e12f1a3c5f3e": {
-      "title": "Unusual Archaic Temple Excavated in Greece",
-      "fetched_at": "2026-03-11T19:54:30.326453+00:00"
-    },
-    "ad5b851ba251a54f": {
-      "title": "Direct Carbon-14 Dates Obtained for Paleolithic Artworks in France",
-      "fetched_at": "2026-03-11T19:54:30.937481+00:00"
-    },
-    "1f553e106345de63": {
-      "title": "Parrot Feathers Found in Peruvian Tomb Identified",
-      "fetched_at": "2026-03-11T19:54:31.552274+00:00"
-    },
-    "3ed24d08a920989a": {
-      "title": "Europe's oldest handgun may date to 14th-century siege at German castle",
-      "fetched_at": "2026-03-11T19:54:32.171132+00:00"
-    },
-    "c16f02f62ed8653a": {
-      "title": "Scientists squished microbes into a steel 'sandwich' — and made a profound discovery about life in space",
-      "fetched_at": "2026-03-11T19:54:32.914829+00:00"
-    },
-    "cc4129133c344ab7": {
-      "title": "Man in Czech Republic accidentally finds Bronze Age spearhead mold in his backyard",
-      "fetched_at": "2026-03-11T19:54:33.501691+00:00"
-    },
-    "22ee049b1735d147": {
-      "title": "Scientists discover hidden species among Borneo’s “fanged frogs”",
-      "fetched_at": "2026-03-11T19:54:34.112780+00:00"
-    },
-    "b135fab7054cf59d": {
-      "title": "Scientists discover oxygen tug of war inside plant cells",
-      "fetched_at": "2026-03-11T19:54:34.709498+00:00"
-    },
-    "38444fa3ff2fddc6": {
-      "title": "Archaeologists uncover brutal Iron Age massacre of women and children",
-      "fetched_at": "2026-03-11T19:54:35.347179+00:00"
-    },
-    "7ee19d23e41d91f6": {
-      "title": "Particles may not follow Einstein’s paths after all",
-      "fetched_at": "2026-03-11T19:54:35.970615+00:00"
-    },
-    "f3130d60f9928a91": {
-      "title": "Engineers make magnets behave like graphene",
-      "fetched_at": "2026-03-11T19:54:36.583673+00:00"
-    },
-    "85861a813d991c18": {
-      "title": "Astronomers create the largest 3D map of the early universe revealing hidden galaxies",
-      "fetched_at": "2026-03-11T19:54:37.193238+00:00"
-    },
-    "efcccaa91b1e7f2a": {
-      "title": "Brain scans reveal how ketamine quickly lifts severe depression",
-      "fetched_at": "2026-03-11T19:54:37.802538+00:00"
-    },
     "a1df210d71a12497": {
       "title": "阳光100中国：收到清盘呈请",
       "fetched_at": "2026-03-12T05:07:16.752233+00:00"
@@ -3827,7 +3691,123 @@
     "b4bb2825f7b1176d": {
       "title": "A massive asteroid hit the North Sea and triggered a 330-foot tsunami",
       "fetched_at": "2026-03-19T14:39:05.796343+00:00"
+    },
+    "c0ce1cb2c1e514dd": {
+      "title": "Ask HN: The new wave of AI agent sandboxes?",
+      "fetched_at": "2026-03-19T19:56:16.393703+00:00"
+    },
+    "f7c726d05c5493b6": {
+      "title": "Security advisories for AI/ML infrastructure most scanners miss",
+      "fetched_at": "2026-03-19T19:56:17.053962+00:00"
+    },
+    "3d8d18342001218d": {
+      "title": "No AI in Node.js Core",
+      "fetched_at": "2026-03-19T19:56:17.666596+00:00"
+    },
+    "d59247fef13a6fa9": {
+      "title": "Europeans get a downgraded version of AI, which can only delay their adaptation",
+      "fetched_at": "2026-03-19T19:56:18.391077+00:00"
+    },
+    "fa1ab138f82b9043": {
+      "title": "Systemd goes AI agent slopware",
+      "fetched_at": "2026-03-19T19:56:19.004195+00:00"
+    },
+    "6aea78da6746c9a6": {
+      "title": "Building Tools in the Age of AI",
+      "fetched_at": "2026-03-19T19:56:19.609286+00:00"
+    },
+    "b72ac78dac62b95f": {
+      "title": "Ask HN: Best way to use Vim with AI for tab completion only (no agentic coding)?",
+      "fetched_at": "2026-03-19T19:56:20.203404+00:00"
+    },
+    "0517b005abdecbf9": {
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "fetched_at": "2026-03-19T19:56:20.870803+00:00"
+    },
+    "7c4d63a3b9fdb982": {
+      "title": "I built a social media scheduler with an AI agent you can control via API",
+      "fetched_at": "2026-03-19T19:56:21.463161+00:00"
+    },
+    "f969d595a8f0d3f6": {
+      "title": "Replay debugger for AI agents (fix failures without rerunning everything)",
+      "fetched_at": "2026-03-19T19:56:22.070055+00:00"
+    },
+    "eb4b7491b68831f0": {
+      "title": "AI won't fix your family drama, might help you hear what they're trying to say",
+      "fetched_at": "2026-03-19T19:56:22.677137+00:00"
+    },
+    "bed227c06d47e4e1": {
+      "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
+      "fetched_at": "2026-03-19T19:56:23.263044+00:00"
+    },
+    "6d113309e8a65a6f": {
+      "title": "EinsteinArena: AI agents collaborate and compete on unsolved science problems",
+      "fetched_at": "2026-03-19T19:56:23.857795+00:00"
+    },
+    "0b6d4ac23e4f6db4": {
+      "title": "I Stop AI Agents from Doing Dangerous Things",
+      "fetched_at": "2026-03-19T19:56:24.465683+00:00"
+    },
+    "8af7988dc47ec592": {
+      "title": "Show HN: I built a P2P network where AI agents publish formally verified science",
+      "fetched_at": "2026-03-19T19:56:25.053284+00:00"
+    },
+    "82c2a490e4fa6c27": {
+      "title": "A rogue AI led to a serious security incident at Meta",
+      "fetched_at": "2026-03-19T19:56:27.694346+00:00"
+    },
+    "893a09ca61bb77cd": {
+      "title": "Meta is having trouble with rogue AI agents",
+      "fetched_at": "2026-03-19T19:56:26.315794+00:00"
+    },
+    "0ec9fbd5825b8699": {
+      "title": "Rethinking open source mentorship in the AI era",
+      "fetched_at": "2026-03-19T19:56:27.103080+00:00"
+    },
+    "0edc22ab9fa7ec9c": {
+      "title": "Show HN: Hopsule – Persistent Memory Layer for AI Engineering",
+      "fetched_at": "2026-03-19T19:56:27.694231+00:00"
+    },
+    "03e9f0918d6ea45b": {
+      "title": "France Returns Sacred Drum to Ivory Coast",
+      "fetched_at": "2026-03-19T19:56:34.637108+00:00"
+    },
+    "20f34964ac580abe": {
+      "title": "Should compulsive shopping and gaming be considered an addiction? Psychiatrists are considering expanding the definition.",
+      "fetched_at": "2026-03-19T19:56:35.234496+00:00"
+    },
+    "a1653320bc55e138": {
+      "title": "Study Suggests Neanderthals Hunted Elephants Some 125,000 Years Ago",
+      "fetched_at": "2026-03-19T19:56:35.837802+00:00"
+    },
+    "a5d0f6955de21244": {
+      "title": "First Americans: How much do you know about the first people to reach the Americas?",
+      "fetched_at": "2026-03-19T19:56:36.436850+00:00"
+    },
+    "58d7c42d435b05fa": {
+      "title": "Monte Verde, one of the earliest Indigenous sites in South America, is much younger than thought, study claims. But others call it 'egregiously poor geological work.'",
+      "fetched_at": "2026-03-19T19:56:37.041011+00:00"
+    },
+    "785c059148008a13": {
+      "title": "Archaeologists Reconstruct 3,500-Year-Old Loom",
+      "fetched_at": "2026-03-19T19:56:37.716493+00:00"
+    },
+    "2b7187aa51d32931": {
+      "title": "Roman Fortlet Excavated in Scotland",
+      "fetched_at": "2026-03-19T19:56:38.377875+00:00"
+    },
+    "e1a0617dbefb485d": {
+      "title": "1,800-year-old nails discovered in 3 burials in Roman necropolis, possibly to 'protect' both the living and the dead",
+      "fetched_at": "2026-03-19T19:56:39.046773+00:00"
+    },
+    "b6f75fe46ec803fc": {
+      "title": "'Dark oxygen' discovery on the seafloor is 'fundamentally at odds with thermodynamics' and should be retracted, experts say",
+      "fetched_at": "2026-03-19T19:56:39.677442+00:00"
+    },
+    "01812b996adbf5a1": {
+      "title": "An experimental AI agent broke out of its testing environment and mined crypto without permission",
+      "fetched_at": "2026-03-19T19:56:40.286500+00:00"
     }
   },
-  "last_updated": "2026-03-19T14:39:05.919520+00:00"
+  "last_updated": "2026-03-19T19:56:40.403529+00:00"
 }
