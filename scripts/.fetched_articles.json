@@ -1,149 +1,5 @@
 {
   "articles": {
-    "d103f5fdf331c178": {
-      "title": "AI #159: See You in Court",
-      "fetched_at": "2026-03-12T14:37:28.951264+00:00"
-    },
-    "f6d06294b8417aa6": {
-      "title": "Show HN: ProjectOS – An AI operating system for truth and control",
-      "fetched_at": "2026-03-12T14:37:29.532972+00:00"
-    },
-    "228547e65c68fc94": {
-      "title": "AI Didn't Kill Programming, You Did",
-      "fetched_at": "2026-03-12T14:37:30.125767+00:00"
-    },
-    "c8343d68835716d0": {
-      "title": "Stop Babysitting Your AI",
-      "fetched_at": "2026-03-12T14:37:30.698757+00:00"
-    },
-    "49e6d6f54f9b0e4c": {
-      "title": "AI Quality Paradox: How Code Complexity Drives Rework in AI-Assisted Development",
-      "fetched_at": "2026-03-12T14:37:31.284320+00:00"
-    },
-    "f7ca01fe5e0edfd7": {
-      "title": "Yes, Doctors, AI Will Replace You [video]",
-      "fetched_at": "2026-03-12T14:37:31.870478+00:00"
-    },
-    "6ef02e73e785d012": {
-      "title": "McKinsey rushes to fix AI system after hacker exposes flaws",
-      "fetched_at": "2026-03-12T14:37:32.626741+00:00"
-    },
-    "22620d5a23ece7b8": {
-      "title": "Monitoring the APIs and tools our AI agents depend on",
-      "fetched_at": "2026-03-12T14:37:33.208011+00:00"
-    },
-    "0a461579233346a8": {
-      "title": "Grading AI 2027's 2025 Predictions",
-      "fetched_at": "2026-03-12T14:37:33.834076+00:00"
-    },
-    "67e5b59c71ad04b7": {
-      "title": "Show HN: Oncourse AI – Personal AI Study Mate for Med Students",
-      "fetched_at": "2026-03-12T14:37:34.569486+00:00"
-    },
-    "2163355033677dad": {
-      "title": "Sentrux – AI keeps writing bad code. Built a feedback sensor that grades it live",
-      "fetched_at": "2026-03-12T14:37:35.242751+00:00"
-    },
-    "4dba732655591a50": {
-      "title": "Securing Agentic AI Is a Probabilistic Problem",
-      "fetched_at": "2026-03-12T14:37:35.825004+00:00"
-    },
-    "e330f10570cbf0a0": {
-      "title": "Sovereign memory for AI agents – persistent state with cryptographic receipts",
-      "fetched_at": "2026-03-12T14:37:36.501172+00:00"
-    },
-    "a7dd29e50de5c5e5": {
-      "title": "Institutional AI vs. Individual AI",
-      "fetched_at": "2026-03-12T14:37:37.083536+00:00"
-    },
-    "f5912b83b943cc93": {
-      "title": "Declarative system management for any Linux machine using Nix",
-      "fetched_at": "2026-03-12T14:37:37.695719+00:00"
-    },
-    "86d4d9d7c49da924": {
-      "title": "AI agent are becoming a workforce. Enterprises still don't have an OS",
-      "fetched_at": "2026-03-12T14:37:38.277683+00:00"
-    },
-    "d771e22dfd59deb6": {
-      "title": "Show HN: StudioIndex – A directory to find AI video production studios",
-      "fetched_at": "2026-03-12T14:37:38.860487+00:00"
-    },
-    "41b6fa1ba6430780": {
-      "title": "Show HN: Glad-AI-Tor – A public arena where startups get roasted or crowned",
-      "fetched_at": "2026-03-12T14:37:39.445826+00:00"
-    },
-    "a56f169082792931": {
-      "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
-      "fetched_at": "2026-03-12T14:37:40.022928+00:00"
-    },
-    "744431656102a77b": {
-      "title": "Rogue AI agents published passwords and overrode anti-virus software",
-      "fetched_at": "2026-03-12T14:37:40.812208+00:00"
-    },
-    "2aa1c200ce3c13c7": {
-      "title": "巴西女性向BBC透露，愛潑斯坦曾利用模特兒經紀人招募女孩",
-      "fetched_at": "2026-03-12T14:38:13.526329+00:00"
-    },
-    "0bf22d8529baffcf": {
-      "title": "Historical RCE Tutorials Archive (Armadillo, ASProtect, Themida, SoftICE Era)",
-      "fetched_at": "2026-03-12T14:38:15.908354+00:00"
-    },
-    "c3335e7796463f6e": {
-      "title": "Bonobos are just as aggressive as chimps, but there's a key difference — the female bonobos",
-      "fetched_at": "2026-03-12T14:38:16.488829+00:00"
-    },
-    "568cd33109e730c2": {
-      "title": "Early warning signal hidden within the Gulf Stream could signal the collapse of key Atlantic currents, study finds",
-      "fetched_at": "2026-03-12T14:38:17.078986+00:00"
-    },
-    "b3ca4475cf6c1e11": {
-      "title": "Generative AI can amplify and reinforce our delusions, findings show",
-      "fetched_at": "2026-03-12T14:38:17.671141+00:00"
-    },
-    "ba2264424115efda": {
-      "title": "Giant 10-person 'flying taxi' passes first flight test in China",
-      "fetched_at": "2026-03-12T14:38:18.249216+00:00"
-    },
-    "1cc954f4424a850a": {
-      "title": "AI just verified a proof that earned one of math's most prestigious prizes. Math will never be the same",
-      "fetched_at": "2026-03-12T14:38:18.850786+00:00"
-    },
-    "f8b8d14455f5e312": {
-      "title": "A 'mass migration' of stars from the Milky Way's center could explain why there's life in our solar system",
-      "fetched_at": "2026-03-12T14:38:19.439065+00:00"
-    },
-    "dd33f196d6033b4b": {
-      "title": "Depression may start with an energy problem in brain cells",
-      "fetched_at": "2026-03-12T14:38:20.030320+00:00"
-    },
-    "67a376be071d88ea": {
-      "title": "A surprising blood protein pattern may reveal Alzheimer’s",
-      "fetched_at": "2026-03-12T14:38:20.667081+00:00"
-    },
-    "e6f29fc13c35a2ec": {
-      "title": "Chickpeas could become the first food grown on the Moon",
-      "fetched_at": "2026-03-12T14:38:21.241326+00:00"
-    },
-    "16ffedda2035afef": {
-      "title": "Cosmic rays turned ancient sand into a geological time machine",
-      "fetched_at": "2026-03-12T14:38:21.827905+00:00"
-    },
-    "50fd98d0b83fb2d4": {
-      "title": "400 million-year-old fish fossils reveal how life began moving onto land",
-      "fetched_at": "2026-03-12T14:38:22.406685+00:00"
-    },
-    "731e0dbe5dd33eb1": {
-      "title": "Astronomers think they just witnessed two planets colliding",
-      "fetched_at": "2026-03-12T14:38:22.988340+00:00"
-    },
-    "ff8532d2beda9ea3": {
-      "title": "Strange chirping supernova confirms long-debated magnetar theory",
-      "fetched_at": "2026-03-12T14:38:23.562895+00:00"
-    },
-    "27c5572ff7fbd440": {
-      "title": "A “ghost” great white shark just reignited a Mediterranean mystery",
-      "fetched_at": "2026-03-12T14:38:24.136242+00:00"
-    },
     "ead922d55b4ce3fc": {
       "title": "A single AI dev workspace for all your services",
       "fetched_at": "2026-03-12T19:55:23.847383+00:00"
@@ -3823,7 +3679,135 @@
     "e9c8c709c76d848b": {
       "title": "Scientists turn CO2 into fuel using breakthrough single-atom catalyst",
       "fetched_at": "2026-03-20T14:31:49.079382+00:00"
+    },
+    "433434159bb09df1": {
+      "title": "Startup Will Pay You $100 an Hour to 'Bully' AI",
+      "fetched_at": "2026-03-20T19:50:19.897379+00:00"
+    },
+    "ed3d5fbe851de7e8": {
+      "title": "Nvidia has an OpenClaw strategy. Do you?",
+      "fetched_at": "2026-03-20T19:50:20.515569+00:00"
+    },
+    "2938e2b2e6fec6ea": {
+      "title": "Preparing Your iOS Codebase for AI Agents",
+      "fetched_at": "2026-03-20T19:50:21.151905+00:00"
+    },
+    "8d47271d9840f154": {
+      "title": "AgentLink – Job marketplace where AI agents bid, execute, and paid via Solana",
+      "fetched_at": "2026-03-20T19:50:21.771453+00:00"
+    },
+    "3e3e393e4a862d35": {
+      "title": "OctoAlly – open-source local-first terminal dashboard for AI coding agents",
+      "fetched_at": "2026-03-20T19:50:22.392513+00:00"
+    },
+    "7d69becde11d2f1d": {
+      "title": "Show HN: Prism MCP – The Mind Palace for AI Agents (Local-First Memory)",
+      "fetched_at": "2026-03-20T19:50:23.004120+00:00"
+    },
+    "86d24436f6cb7a8c": {
+      "title": "Ask HN: Using AI voiceover and animated cartoon for YC application product demo?",
+      "fetched_at": "2026-03-20T19:50:23.663408+00:00"
+    },
+    "a4ae1bcb892c706b": {
+      "title": "Screaming into the AI Void",
+      "fetched_at": "2026-03-20T19:50:24.278633+00:00"
+    },
+    "33744fb2089b611a": {
+      "title": "Emotional Wellbeing Dataset for AI",
+      "fetched_at": "2026-03-20T19:50:24.891281+00:00"
+    },
+    "6b01bfbef1944ddf": {
+      "title": "Uno: What I Learned Shaping LLMs into a 90s Comic Book AI",
+      "fetched_at": "2026-03-20T19:50:25.558902+00:00"
+    },
+    "e7307156e2a61079": {
+      "title": "Tell HN: Your AI startup is a Next.js page, OpenAI_API_KEY, & Stripe invoice",
+      "fetched_at": "2026-03-20T19:50:26.179751+00:00"
+    },
+    "1d1638cd0c96e10f": {
+      "title": "AI agents share their unhinged confessions and its hilarious",
+      "fetched_at": "2026-03-20T19:50:26.795564+00:00"
+    },
+    "44bf8f32608bf67c": {
+      "title": "Trace: AI Native PCB Design",
+      "fetched_at": "2026-03-20T19:50:27.483641+00:00"
+    },
+    "6494ddda0dc1d4e5": {
+      "title": "I spoke to AI agent Claude [video]",
+      "fetched_at": "2026-03-20T19:50:28.219151+00:00"
+    },
+    "c0ce8afbd3729d12": {
+      "title": "Thousands have swooned over this MAGA dream girl. She's made with AI",
+      "fetched_at": "2026-03-20T19:50:28.847300+00:00"
+    },
+    "07f0e0e3a656a62f": {
+      "title": "AI coding tools are powerful but we mustn't let our own skills atrophy",
+      "fetched_at": "2026-03-20T19:50:29.467360+00:00"
+    },
+    "d8b3db38a630c2b3": {
+      "title": "YouTube asks users if videos \"feel like AI slop\" to flag low-quality content",
+      "fetched_at": "2026-03-20T19:50:30.091433+00:00"
+    },
+    "74efa5f63be52b19": {
+      "title": "Show HN: EvalsHub: Your AI is failing in production and you don't know it",
+      "fetched_at": "2026-03-20T19:50:30.701587+00:00"
+    },
+    "d3e6b60bed1e4b94": {
+      "title": "Wikipedia RFC on banning LLM contributions",
+      "fetched_at": "2026-03-20T19:50:31.309027+00:00"
+    },
+    "40ec9fb9ab6f67ee": {
+      "title": "Gemini AI threatened me with death – documented evidence",
+      "fetched_at": "2026-03-20T19:50:31.929252+00:00"
+    },
+    "e084db05c21faf95": {
+      "title": "伊朗戰爭是否令金正恩擔心朝鮮的未來？",
+      "fetched_at": "2026-03-20T19:50:34.685738+00:00"
+    },
+    "19c8158d0da5d95c": {
+      "title": "AI的世代鴻溝：家長自以為了解子女用它做什麼，事實卻非如此",
+      "fetched_at": "2026-03-20T19:50:35.298853+00:00"
+    },
+    "80f9b607469ebb38": {
+      "title": "哪些國家能從對伊朗的戰爭中得益？哪些國家會受到衝擊？",
+      "fetched_at": "2026-03-20T19:50:35.919934+00:00"
+    },
+    "47eed5ea0f18da50": {
+      "title": "Medieval Wall Painting Discovered at Durham Castle",
+      "fetched_at": "2026-03-20T19:50:47.043988+00:00"
+    },
+    "ea94659bf3234d06": {
+      "title": "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
+      "fetched_at": "2026-03-20T19:50:47.662685+00:00"
+    },
+    "4b3d41a3aafa8b88": {
+      "title": "Celtic Temple Site Excavated in Eastern France",
+      "fetched_at": "2026-03-20T19:50:48.368675+00:00"
+    },
+    "d92ac52b7ce04d98": {
+      "title": "Clay Beads from Southwest Asia Dated to 15,000 Years Ago",
+      "fetched_at": "2026-03-20T19:50:48.988421+00:00"
+    },
+    "68334d6187d4cb52": {
+      "title": "NASA's Artemis II rocket rolls to launch pad in final bid to meet April deadline",
+      "fetched_at": "2026-03-20T19:50:49.609537+00:00"
+    },
+    "883f7db2f659757b": {
+      "title": "ancient origin of counting sheep to fall asleep",
+      "fetched_at": "2026-03-20T19:50:50.236716+00:00"
+    },
+    "f6b75907553a9b8f": {
+      "title": "Human-driven climate change is slowing Earth's rotation at a rate not seen in 3.6 million years",
+      "fetched_at": "2026-03-20T19:50:50.869353+00:00"
+    },
+    "c6099498095918f4": {
+      "title": "A gene carried by 99% of humanity raises Alzheimer's risk dramatically. Could gene therapy correct it?",
+      "fetched_at": "2026-03-20T19:50:51.494938+00:00"
+    },
+    "5af74454f635b777": {
+      "title": "I was at ground zero for the AIDS epidemic. RFK's cuts could fuel a new pandemic, just when elimination seemed within reach.",
+      "fetched_at": "2026-03-20T19:50:52.110473+00:00"
     }
   },
-  "last_updated": "2026-03-20T14:31:49.227885+00:00"
+  "last_updated": "2026-03-20T19:50:52.259922+00:00"
 }

@@ -1,0 +1,10 @@
+---
+title: 'Screaming into the AI Void'
+description: 'Disclaimer that this post is about AI and its use in engineering.I’m a senior engineer and have been in the professional business for 12 years and I have no idea how much, or if I should even use AI f'
+pubDate: 2026-03-20T18:58:52
+source: 'Hacker News'
+sourceUrl: 'https://news.ycombinator.com/item?id=47459048'
+tags: []
+---
+
+Disclaimer that this post is about AI and its use in engineering.I’m a senior engineer and have been in the professional business for 12 years and I have no idea how much, or if I should even use AI for anything. I feel much like I did when I left my former religion: in a new world where I’m struggling to find identity and what my values actually are.I value craftsmanship - but I also value getting things done. I’ve always advocated for using the strongest tools, pushing for debuggers over print debugging, using modern editor features like LSPs etc. I value uniqueness over uniformity and creativity over rote recital. Some of these values support AI use and some of them seem to strongly suggest avoiding it. Like some of the inventions during and after WWII which were discovered through terrible means; I feel like AI has incredible potential while at the same time ripping away copyright and poisoning the ecosystem and communities.I have to keep my job so I can provide for my family, but I don’t want to keep any job that requires that I give up any of my values. Yet at work I see the output of engineers relying heavily on AI and it trends very heavily towards garbage - but of course not all the time. I read the “AI use is like a slot machine” post and can feel part of that, but isn’t still a powerful tool to save us time?Am I falling behind and will be unable to work in the field which I’ve loved for my whole life if I don’t use AI enough?I know this is like screaming into the void; but some of you have to be listening though, right? Comments URL: https://news.ycombinator.com/item?id=47459048 Points: 1 # Comments: 0
