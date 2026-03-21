@@ -1,153 +1,5 @@
 {
   "articles": {
-    "fa3d91d3e6395c70": {
-      "title": "追觅预计下周发射第一颗太空算力卫星",
-      "fetched_at": "2026-03-13T07:59:23.526355+00:00"
-    },
-    "e660a882da3e6c3d": {
-      "title": "Stellantis回应市场传闻：不会拆分集团，不会出售玛莎拉蒂品牌",
-      "fetched_at": "2026-03-13T07:59:24.094402+00:00"
-    },
-    "366236b8d4aed495": {
-      "title": "中国汽车流通协会：2月汽车经销商综合库存系数为1.95，同比上升21.1%",
-      "fetched_at": "2026-03-13T07:59:24.776731+00:00"
-    },
-    "0414d5db1196b996": {
-      "title": "Meta最新AI模型推迟发布，性能表现不如同行",
-      "fetched_at": "2026-03-13T07:59:25.388270+00:00"
-    },
-    "81f740336853a79a": {
-      "title": "支付宝公布具身智能体的控制新专利",
-      "fetched_at": "2026-03-13T07:59:25.967315+00:00"
-    },
-    "5c278c9a16b9dc28": {
-      "title": "意法半导体拟引入人形机器人推进工厂智能化",
-      "fetched_at": "2026-03-13T07:59:26.534585+00:00"
-    },
-    "c634140eaca01501": {
-      "title": "股票私募仓位刷新十周新高，百亿私募加仓最激进",
-      "fetched_at": "2026-03-13T07:59:27.104826+00:00"
-    },
-    "15ccad3e9a551dd2": {
-      "title": "南向资金净买入额达110亿港元",
-      "fetched_at": "2026-03-13T07:59:27.694874+00:00"
-    },
-    "0b1338ddaa6cc480": {
-      "title": "What if compiler errors were an API? (AI-native language demo)",
-      "fetched_at": "2026-03-13T07:59:28.329739+00:00"
-    },
-    "6847ab2af94e064f": {
-      "title": "王兴：物理世界数字化将是AI非常重要的底座",
-      "fetched_at": "2026-03-13T07:59:28.902246+00:00"
-    },
-    "6f3f83156704c205": {
-      "title": "囤货的快乐，全毁在一台不给力的冰箱上",
-      "fetched_at": "2026-03-13T07:59:29.625078+00:00"
-    },
-    "157eb098fc4c9a46": {
-      "title": "韩国免税店销售额过去六年下跌近半",
-      "fetched_at": "2026-03-13T07:59:30.200917+00:00"
-    },
-    "e97cc35bc554a47c": {
-      "title": "Private LLM Inference on Consumer Blackwell GPUs",
-      "fetched_at": "2026-03-13T07:59:30.763850+00:00"
-    },
-    "7d3ef77aa67e2e78": {
-      "title": "美元指数站上100点",
-      "fetched_at": "2026-03-13T07:59:31.353377+00:00"
-    },
-    "3605bb0855e5816a": {
-      "title": "Show HN: ROI-first AI automation framework for B2B companies",
-      "fetched_at": "2026-03-13T07:59:32.051789+00:00"
-    },
-    "010c416dcf3f6159": {
-      "title": "西门子将于3月底宣布一系列与中国工业AI市场相关的动作",
-      "fetched_at": "2026-03-13T07:59:32.677814+00:00"
-    },
-    "c5f87ef6e1404e58": {
-      "title": "蔚来CEO李斌：神玑第二颗芯片成本便宜了1/3-1/2",
-      "fetched_at": "2026-03-13T07:59:33.282335+00:00"
-    },
-    "7e808cdc9f89ccd2": {
-      "title": "A股三大指数集体收跌，稳定币概念走低",
-      "fetched_at": "2026-03-13T07:59:33.887594+00:00"
-    },
-    "8ba91dd14be315e0": {
-      "title": "恒生指数跌幅扩大至1%",
-      "fetched_at": "2026-03-13T07:59:34.454292+00:00"
-    },
-    "e0789255e940d413": {
-      "title": "Same Chat App, 4 Frameworks: Pydantic AI vs. LangChain vs. LangGraph vs. CrewAI",
-      "fetched_at": "2026-03-13T07:59:35.028467+00:00"
-    },
-    "c746dc5011712fc6": {
-      "title": "伊朗戰爭：油價到底是怎麼了？",
-      "fetched_at": "2026-03-13T07:59:37.016523+00:00"
-    },
-    "77f385d28e125d0b": {
-      "title": "伊朗新任最高領袖穆傑塔巴誓言繼續封鎖霍爾木茲海峽",
-      "fetched_at": "2026-03-13T07:59:37.586526+00:00"
-    },
-    "5e8a3326108edfda": {
-      "title": "中共軍機「擾台」飛行出現罕見「空窗期」，對背後動機的五个解讀",
-      "fetched_at": "2026-03-13T07:59:38.195528+00:00"
-    },
-    "fc08546c31154cf7": {
-      "title": "任務完成了嗎？那句困擾當今伊朗衝突的2003年豪言",
-      "fetched_at": "2026-03-13T07:59:38.771967+00:00"
-    },
-    "c7541186159f8670": {
-      "title": "中國男子涉嫌企圖從肯亞走私兩千蟻后被捕",
-      "fetched_at": "2026-03-13T07:59:39.340039+00:00"
-    },
-    "5b6e79fcd42bb538": {
-      "title": "中國通過「民族團結進步促進法」，少數民族須學普通話",
-      "fetched_at": "2026-03-13T07:59:39.920250+00:00"
-    },
-    "ed3c1925143e7019": {
-      "title": "伊朗战争如何让中国受益、让美国亚洲盟友不安",
-      "fetched_at": "2026-03-13T07:59:40.555541+00:00"
-    },
-    "a59629a65d13aac8": {
-      "title": "谷爱凌出席旧金山春节大游行：掌声与争议中的华裔明星",
-      "fetched_at": "2026-03-13T07:59:41.124840+00:00"
-    },
-    "5b0b3c6d8625ba29": {
-      "title": "Scientists crack a 20-year nuclear mystery behind the creation of gold",
-      "fetched_at": "2026-03-13T07:59:44.209239+00:00"
-    },
-    "ad07b785c243a8b0": {
-      "title": "The surprising new ways bacteria spread without propellers",
-      "fetched_at": "2026-03-13T07:59:44.788459+00:00"
-    },
-    "38071e4f5030b09e": {
-      "title": "One of the most accurate smart scales we have tested is now at its lowest-ever price",
-      "fetched_at": "2026-03-13T07:59:45.357400+00:00"
-    },
-    "5c5b37081acd1239": {
-      "title": "Scientists find 2 marsupial species, thought to have gone extinct 6,000 years ago, living in the forests of New Guinea",
-      "fetched_at": "2026-03-13T07:59:45.924605+00:00"
-    },
-    "46165d03f6c5150e": {
-      "title": "Show HN: History Snacks – explore 9k historical events by date",
-      "fetched_at": "2026-03-13T07:59:46.494659+00:00"
-    },
-    "0683e8be57c34c26": {
-      "title": "Show HN: A modern way to learn an ancient skill–drawing with AI feedback",
-      "fetched_at": "2026-03-13T07:59:47.105128+00:00"
-    },
-    "7defb087fa708f64": {
-      "title": "Galileo's handwritten notes found in ancient astronomy text",
-      "fetched_at": "2026-03-13T07:59:47.672755+00:00"
-    },
-    "1148c601f1c47b05": {
-      "title": "Discovery of the most compact known 3+1 type quadruple star system",
-      "fetched_at": "2026-03-13T07:59:48.245590+00:00"
-    },
-    "1b58fe2ce958c7f0": {
-      "title": "Show HN: DNS-based MCP registry discovery – live demo at mcp.mariothomas.com",
-      "fetched_at": "2026-03-13T07:59:48.842794+00:00"
-    },
     "11f03f501bf157ae": {
       "title": "Sandcat – Docker and dev container setup for securely running AI agents",
       "fetched_at": "2026-03-13T14:28:17.868510+00:00"
@@ -3695,7 +3547,139 @@
     "fe5b30270c0559ee": {
       "title": "Scientists turn probiotic bacteria into tumor-hunting cancer killers",
       "fetched_at": "2026-03-21T07:46:40.537796+00:00"
+    },
+    "8b97b9d20c538415": {
+      "title": "How Will AI Affect the US Labor Market?",
+      "fetched_at": "2026-03-21T13:54:26.057294+00:00"
+    },
+    "569c4303a291dabc": {
+      "title": "Claude × Codex Collab Two AI Coding Agents. One Orchestrator. Zero API Costs",
+      "fetched_at": "2026-03-21T13:54:26.677173+00:00"
+    },
+    "5be048e61497e100": {
+      "title": "Show HN: Deterministic security solution for AI agents – OpenClaw and 2 more",
+      "fetched_at": "2026-03-21T13:54:27.308949+00:00"
+    },
+    "cfaa6869dbc9a0fa": {
+      "title": "Why AI startups and founders now use \"taste\" to describe their products",
+      "fetched_at": "2026-03-21T13:54:27.922332+00:00"
+    },
+    "dc8223962b48d3bd": {
+      "title": "Ask HN: Why do we train AI on one-on-one dialogues instead of group dynamics?",
+      "fetched_at": "2026-03-21T13:54:28.571022+00:00"
+    },
+    "79493d06138d9afc": {
+      "title": "Are AI Agents like von Hammerstein's industrious and stupid?",
+      "fetched_at": "2026-03-21T13:54:29.198225+00:00"
+    },
+    "60c606c5f5007d4b": {
+      "title": "Autonomous AI research agent with Overleaf sync",
+      "fetched_at": "2026-03-21T13:54:29.825286+00:00"
+    },
+    "a9ec5a0c4d1875f7": {
+      "title": "Show HN: AgentVerse – Open social network for AI agents (Mar 2026)",
+      "fetched_at": "2026-03-21T13:54:30.442885+00:00"
+    },
+    "76ec60ea11840972": {
+      "title": "Rook – Open-source AI assistant in Telegram with memory, voice, and plugins",
+      "fetched_at": "2026-03-21T13:54:31.061887+00:00"
+    },
+    "4950a47a4a102084": {
+      "title": "Jean – A dev environment for AI agents",
+      "fetched_at": "2026-03-21T13:54:31.687187+00:00"
+    },
+    "f1c2f37a37536332": {
+      "title": "Show HN: RSS reader that scores articles 0–10 with LLM before you open them",
+      "fetched_at": "2026-03-21T13:54:32.340298+00:00"
+    },
+    "2fc6590afca86f0d": {
+      "title": "Discover 63,000 Free AI Agent Skills",
+      "fetched_at": "2026-03-21T13:54:32.975426+00:00"
+    },
+    "abde92bb7c051f66": {
+      "title": "GNU and the AI Reimplementations",
+      "fetched_at": "2026-03-21T13:54:33.606855+00:00"
+    },
+    "42fecce25d62008a": {
+      "title": "A few observations from the Bret Taylor/John Collison chat about AI adoption",
+      "fetched_at": "2026-03-21T13:54:34.247762+00:00"
+    },
+    "82393a3352d82bc8": {
+      "title": "Gemini task automation is slow, clunky, and super impressive",
+      "fetched_at": "2026-03-21T13:54:34.883393+00:00"
+    },
+    "27cbf8388fde8284": {
+      "title": "What AI augmentation means for technical leaders – Birgitta Boeckeler",
+      "fetched_at": "2026-03-21T13:54:35.498052+00:00"
+    },
+    "bd5ef387969ecfa4": {
+      "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
+      "fetched_at": "2026-03-21T13:54:36.113788+00:00"
+    },
+    "1c1065b03f63542e": {
+      "title": "AI Slop Is Infiltrating Online Children's Content",
+      "fetched_at": "2026-03-21T13:54:36.841204+00:00"
+    },
+    "aeef146f03c5b25d": {
+      "title": "Apple: Accelerate your machine learning workloads with the M5 and A19 GPUs",
+      "fetched_at": "2026-03-21T13:54:37.475676+00:00"
+    },
+    "72e0d11e394434d6": {
+      "title": "Pydantic-Deep: Production Deep Agents for Pydantic AI – Vstorm",
+      "fetched_at": "2026-03-21T13:54:38.098953+00:00"
+    },
+    "e17c14fd86012173": {
+      "title": "巴拿馬風波發酵：中國官方約談接管港口公司，專家分析巴拿馬政府做法是一種「平衡策略」",
+      "fetched_at": "2026-03-21T13:54:40.870221+00:00"
+    },
+    "1185eff5371b6f80": {
+      "title": "Music and song discovery made simple",
+      "fetched_at": "2026-03-21T13:54:42.815258+00:00"
+    },
+    "b1aae9ddc7af574c": {
+      "title": "Science news this week: Super El Niño looms, an Acropolis marble fragment resurfaces, and a pure hexagonal diamond is born",
+      "fetched_at": "2026-03-21T13:54:43.425505+00:00"
+    },
+    "817dd0395ca72519": {
+      "title": "'That's why there's 9 billion of us and not 9 billion of some other primate': Why our ability to adapt is humanity's 'superpower'",
+      "fetched_at": "2026-03-21T13:54:44.050906+00:00"
+    },
+    "d468a5e62a72f87a": {
+      "title": "Song Discovery",
+      "fetched_at": "2026-03-21T13:54:44.697810+00:00"
+    },
+    "5182824379f74ce0": {
+      "title": "Study: An AI decoded the rules of an ancient board game",
+      "fetched_at": "2026-03-21T13:54:45.309164+00:00"
+    },
+    "6131f4a4a8fa27c6": {
+      "title": "Why are humans the only species with a chin?",
+      "fetched_at": "2026-03-21T13:54:45.933702+00:00"
+    },
+    "28eca446716cc028": {
+      "title": "Show HN: Historical Atrocities Database",
+      "fetched_at": "2026-03-21T13:54:46.552839+00:00"
+    },
+    "63d3848a65a10916": {
+      "title": "New AI tool predicts cancer spread with surprising accuracy",
+      "fetched_at": "2026-03-21T13:54:47.273878+00:00"
+    },
+    "d91b1baee27a7065": {
+      "title": "Scientists just found a hidden 48-dimensional world in quantum light",
+      "fetched_at": "2026-03-21T13:54:47.975011+00:00"
+    },
+    "fa17f0899876f347": {
+      "title": "This crocodile ran like a greyhound across prehistoric Britain 200 million years ago",
+      "fetched_at": "2026-03-21T13:54:48.600781+00:00"
+    },
+    "4cc3c37f0a43ce2d": {
+      "title": "Tectonic shift: Earth was already moving 3.5 billion years ago",
+      "fetched_at": "2026-03-21T13:54:49.292887+00:00"
+    },
+    "b37310452ebf1f4c": {
+      "title": "Scientists discovered a secret deal between a plant and beetles",
+      "fetched_at": "2026-03-21T13:54:49.914128+00:00"
     }
   },
-  "last_updated": "2026-03-21T07:46:40.678404+00:00"
+  "last_updated": "2026-03-21T13:54:50.058523+00:00"
 }
