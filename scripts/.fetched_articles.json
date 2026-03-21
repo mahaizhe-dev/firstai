@@ -1,117 +1,5 @@
 {
   "articles": {
-    "11f03f501bf157ae": {
-      "title": "Sandcat – Docker and dev container setup for securely running AI agents",
-      "fetched_at": "2026-03-13T14:28:17.868510+00:00"
-    },
-    "dd4c6553d63baf3f": {
-      "title": "Show HN: Every AI tool claims to be revolutionary. We built a place to test it",
-      "fetched_at": "2026-03-13T14:28:18.539085+00:00"
-    },
-    "06b59208221fbd3b": {
-      "title": "AI Software Tells Cops to Arrest the Wrong Guy",
-      "fetched_at": "2026-03-13T14:28:19.111770+00:00"
-    },
-    "92b03d349f31ef8a": {
-      "title": "Meta to Deploy Four New In-House Chips to Handle AI",
-      "fetched_at": "2026-03-13T14:28:19.689048+00:00"
-    },
-    "1db13b7cb7e5f561": {
-      "title": "Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine",
-      "fetched_at": "2026-03-13T14:28:20.391678+00:00"
-    },
-    "bc7d5cec534ce49f": {
-      "title": "Show HN: Argus – AI agent that investigates infra anomalies and proposes fixes",
-      "fetched_at": "2026-03-13T14:28:21.048897+00:00"
-    },
-    "dcc81f54a12a2ed9": {
-      "title": "Why AI Chatbots Agree with You Even When You're Wrong",
-      "fetched_at": "2026-03-13T14:28:21.731266+00:00"
-    },
-    "a026bad3cdab8743": {
-      "title": "Waabi’s AI Powers Autonomous Trucks on Local Streets",
-      "fetched_at": "2026-03-13T14:28:22.306672+00:00"
-    },
-    "855a38cf46341c8a": {
-      "title": "AntroCode – A zero-dependency, single-file local AI client(DeepSeek UI)",
-      "fetched_at": "2026-03-13T14:28:22.915041+00:00"
-    },
-    "e584aa1bd777dc1d": {
-      "title": "Grammarly pulls AI author-impersonation tool after backlash",
-      "fetched_at": "2026-03-13T14:28:23.502943+00:00"
-    },
-    "94f5da0fed915f98": {
-      "title": "Lutris now built with Claude AI, developer decides to hide it after backlash",
-      "fetched_at": "2026-03-13T14:28:24.078152+00:00"
-    },
-    "6a30a7d8e45dde15": {
-      "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-      "fetched_at": "2026-03-13T14:28:24.648200+00:00"
-    },
-    "cd37312070d2abd1": {
-      "title": "TelsonBase a self-hosted governance for autonomous AI agents (Apache 2.0)",
-      "fetched_at": "2026-03-13T14:28:25.359703+00:00"
-    },
-    "5602108c4fb13fc6": {
-      "title": "I accidentally built the data layer for AI agents while fixing file transfer",
-      "fetched_at": "2026-03-13T14:28:25.928906+00:00"
-    },
-    "f41eb6bf40d41507": {
-      "title": "Disallow usage of generative AI to write code",
-      "fetched_at": "2026-03-13T14:28:26.504518+00:00"
-    },
-    "63595580cabeb844": {
-      "title": "Collection of E-Commerce Skills for AI agents",
-      "fetched_at": "2026-03-13T14:28:27.078596+00:00"
-    },
-    "ec10de0327a90c90": {
-      "title": "A Beginner's Guide to Safe LLM-Assisted Development",
-      "fetched_at": "2026-03-13T14:28:27.671364+00:00"
-    },
-    "1473043b146c468a": {
-      "title": "Agent.json – robots.txt for AI agent-to-website communication",
-      "fetched_at": "2026-03-13T14:28:28.266104+00:00"
-    },
-    "fcf4fe32872b5604": {
-      "title": "AI policy's new power center",
-      "fetched_at": "2026-03-13T14:28:28.851307+00:00"
-    },
-    "74a5f130ecfe8786": {
-      "title": "Amid xAI co-founder exits, Elon Musk hires key engineers from AI startup Cursor",
-      "fetched_at": "2026-03-13T14:28:29.416208+00:00"
-    },
-    "cd9fb0e80d1c2b68": {
-      "title": "中共軍機「擾台」飛行出現罕見「空窗期」，對背後動機的五個解讀",
-      "fetched_at": "2026-03-13T14:28:31.598266+00:00"
-    },
-    "dccfe3c2460f966a": {
-      "title": "「對農民有點兒太虧了」：20元人民幣何以引爆中國養老金的討論",
-      "fetched_at": "2026-03-13T14:28:32.165568+00:00"
-    },
-    "cc721db68ec90c22": {
-      "title": "Sørvágsvatn: The lake that 'floats' above the ocean thanks to a unique optical illusion",
-      "fetched_at": "2026-03-13T14:28:35.634921+00:00"
-    },
-    "48da1f9a2bef20e6": {
-      "title": "Computing power is no longer the AI bottleneck — it's energy production",
-      "fetched_at": "2026-03-13T14:28:36.233005+00:00"
-    },
-    "0300d4e300e09421": {
-      "title": "1,900-year-old double Scythian burial in Ukraine contains toxic red mineral",
-      "fetched_at": "2026-03-13T14:28:36.906142+00:00"
-    },
-    "6632cc410c922723": {
-      "title": "Internet Intro – hand-curated discovery site for independent web projects",
-      "fetched_at": "2026-03-13T14:28:37.485691+00:00"
-    },
-    "0ab12f4e7efbb520": {
-      "title": "Monty Python Got It Wrong About Medieval Disease",
-      "fetched_at": "2026-03-13T14:28:38.053249+00:00"
-    },
-    "921644ce77f8d22a": {
-      "title": "AI hallucinations work both ways, study shows — using chatbots can amplify and reinforce our own delusions",
-      "fetched_at": "2026-03-13T14:28:38.667849+00:00"
-    },
     "54aa3317a1f36eb6": {
       "title": "The biggest AI stories of the year (so far)",
       "fetched_at": "2026-03-13T19:47:23.886831+00:00"
@@ -3679,7 +3567,111 @@
     "b37310452ebf1f4c": {
       "title": "Scientists discovered a secret deal between a plant and beetles",
       "fetched_at": "2026-03-21T13:54:49.914128+00:00"
+    },
+    "85796b31fb854396": {
+      "title": "A circuit breaker for AI agents that fires before the wrong action executes",
+      "fetched_at": "2026-03-21T19:03:04.891563+00:00"
+    },
+    "2161dcb8f9f2099e": {
+      "title": "AI, Human Cognition and Knowledge Collapse [pdf]",
+      "fetched_at": "2026-03-21T19:03:05.607283+00:00"
+    },
+    "bef93864b2b4b415": {
+      "title": "SHOW HN: I built AI Product Photography tool for ecom stores",
+      "fetched_at": "2026-03-21T19:03:06.235674+00:00"
+    },
+    "c727a3aed3d6b3c3": {
+      "title": "Show HN: Free online calculators built with AI",
+      "fetched_at": "2026-03-21T19:03:06.864029+00:00"
+    },
+    "46d7cabfbc2a3409": {
+      "title": "Anthropic Denies It Could Sabotage AI Tools During War",
+      "fetched_at": "2026-03-21T19:03:07.472529+00:00"
+    },
+    "f439c72da8bacb44": {
+      "title": "I Tried DoorDash's Tasks App and Saw the Bleak Future of AI Gig Work",
+      "fetched_at": "2026-03-21T19:03:08.173212+00:00"
+    },
+    "ec2931b2cbf4f3aa": {
+      "title": "The AI Eval Tax: The Hidden Cost Every Agent Team Is Paying",
+      "fetched_at": "2026-03-21T19:03:08.966437+00:00"
+    },
+    "512b306f4eaf47bf": {
+      "title": "NOMAD – offline survival server with AI, Wikipedia, maps, and more",
+      "fetched_at": "2026-03-21T19:03:09.596188+00:00"
+    },
+    "b3b0e9a180da9a4f": {
+      "title": "Is the Future of AI Local?",
+      "fetched_at": "2026-03-21T19:03:10.222748+00:00"
+    },
+    "3a2c53eeb9b30802": {
+      "title": "Manipulating AI memory for profit: The rise of AI Recommendation Poisoning",
+      "fetched_at": "2026-03-21T19:03:10.923416+00:00"
+    },
+    "788cbc6b8bafce22": {
+      "title": "Practical AI Coding Techniques",
+      "fetched_at": "2026-03-21T19:03:11.534823+00:00"
+    },
+    "5c2f678a83e29fee": {
+      "title": "Human bias reminders can make AI decisions seem more acceptable, study finds",
+      "fetched_at": "2026-03-21T19:03:12.228974+00:00"
+    },
+    "eedf53e12f67511b": {
+      "title": "TraceLens – Paste an OpenTelemetry trace, get AI root cause analysis",
+      "fetched_at": "2026-03-21T19:03:12.974349+00:00"
+    },
+    "fd5d5c53281efa47": {
+      "title": "Grammarly cloned me for free; another AI company offered $2k to do the same",
+      "fetched_at": "2026-03-21T19:03:13.821789+00:00"
+    },
+    "1f17b24e56aadbeb": {
+      "title": "Do We Need a Programming Language Built Just for AI Agents?",
+      "fetched_at": "2026-03-21T19:03:14.442363+00:00"
+    },
+    "6939ffc8cb85ba12": {
+      "title": "Nvidia Vera CPU in Detail: High Perf Chip Takes Aim at Broader AI Server Market",
+      "fetched_at": "2026-03-21T19:03:15.064434+00:00"
+    },
+    "e474c8f05dd063fd": {
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "fetched_at": "2026-03-21T19:03:15.681272+00:00"
+    },
+    "89a75a1856e3d304": {
+      "title": "Jamie Dimon: AI 'will eliminate jobs,' but people with skills get opportunities",
+      "fetched_at": "2026-03-21T19:03:16.293525+00:00"
+    },
+    "fcc0f5cbffaaa652": {
+      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+      "fetched_at": "2026-03-21T19:03:16.956668+00:00"
+    },
+    "d0b22df939009ef2": {
+      "title": "A2i – A simple feed to keep up with AI drops",
+      "fetched_at": "2026-03-21T19:03:17.572176+00:00"
+    },
+    "9a9c8819dd35de0a": {
+      "title": "哪些船隻仍在通過霍爾木茲海峽？",
+      "fetched_at": "2026-03-21T19:03:21.308267+00:00"
+    },
+    "fc08546c31154cf7": {
+      "title": "任務完成了嗎？那句困擾當今伊朗衝突的2003年豪言",
+      "fetched_at": "2026-03-21T19:03:21.930163+00:00"
+    },
+    "767e9eb6012daac9": {
+      "title": "Physicists created an electron 'catapult' that moves particles at 'extraordinary' speed",
+      "fetched_at": "2026-03-21T19:03:23.969854+00:00"
+    },
+    "67da0cd69d461a47": {
+      "title": "Computing quiz: Can you match these 'ancient' devices to their pictures?",
+      "fetched_at": "2026-03-21T19:03:24.592243+00:00"
+    },
+    "5b0b3c6d8625ba29": {
+      "title": "Scientists crack a 20-year nuclear mystery behind the creation of gold",
+      "fetched_at": "2026-03-21T19:03:25.238943+00:00"
+    },
+    "ad07b785c243a8b0": {
+      "title": "The surprising new ways bacteria spread without propellers",
+      "fetched_at": "2026-03-21T19:03:25.858484+00:00"
     }
   },
-  "last_updated": "2026-03-21T13:54:50.058523+00:00"
+  "last_updated": "2026-03-21T19:03:26.004058+00:00"
 }
