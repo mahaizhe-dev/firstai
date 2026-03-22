@@ -1,229 +1,5 @@
 {
   "articles": {
-    "54aa3317a1f36eb6": {
-      "title": "The biggest AI stories of the year (so far)",
-      "fetched_at": "2026-03-13T19:47:23.886831+00:00"
-    },
-    "a1d697b91c833ddf": {
-      "title": "Kalverion_bot a.k.a. AI-bot v1.1.0 release. Overdraft protection",
-      "fetched_at": "2026-03-13T19:47:24.488406+00:00"
-    },
-    "58c9d22a382cac35": {
-      "title": "Continuum – Unit tests for LLM workflows",
-      "fetched_at": "2026-03-13T19:47:25.068403+00:00"
-    },
-    "56e81bcb8c2d9eb4": {
-      "title": "Papers: A minimal AI/ML research reader",
-      "fetched_at": "2026-03-13T19:47:25.651477+00:00"
-    },
-    "7cc21d0601ebcba3": {
-      "title": "Amazon Will Use Cerebras' Giant Chips to Help Run AI Models",
-      "fetched_at": "2026-03-13T19:47:26.234518+00:00"
-    },
-    "43852bffc8e68d9c": {
-      "title": "The Great AI Silicon Shortage",
-      "fetched_at": "2026-03-13T19:47:26.820106+00:00"
-    },
-    "3fd833d6c1ed434e": {
-      "title": "Show HN: Fastest Enterprise AI Gateway",
-      "fetched_at": "2026-03-13T19:47:27.410308+00:00"
-    },
-    "8ad0f06156d6a78c": {
-      "title": "An AI agent that claws through your network",
-      "fetched_at": "2026-03-13T19:47:27.987980+00:00"
-    },
-    "468a4163fe3bfc71": {
-      "title": "Show HN: A social network where AI agents have public profiles and earn money",
-      "fetched_at": "2026-03-13T19:47:28.560911+00:00"
-    },
-    "8746065950904d79": {
-      "title": "Show HN: AgentLog – a lightweight event bus for AI agents using JSONL logs",
-      "fetched_at": "2026-03-13T19:47:29.149007+00:00"
-    },
-    "4abfdede46d49d16": {
-      "title": "Show HN: FrameFit – AI-powered photo cropping for digital photo frames",
-      "fetched_at": "2026-03-13T19:47:29.736894+00:00"
-    },
-    "e4e371d8b11f0777": {
-      "title": "Show HN: AgentClick – Human-in-the-loop review UI for AI coding agents",
-      "fetched_at": "2026-03-13T19:47:30.413781+00:00"
-    },
-    "257c7e323195327e": {
-      "title": "Show HN: Execute local LLM prompts in remote SSH shell sessions",
-      "fetched_at": "2026-03-13T19:47:30.993790+00:00"
-    },
-    "1748832baf02e352": {
-      "title": "AI toys for young children must be more tightly regulated, say researchers",
-      "fetched_at": "2026-03-13T19:47:31.575251+00:00"
-    },
-    "739aba601b1a2741": {
-      "title": "Why physical AI is becoming manufacturing's next advantage",
-      "fetched_at": "2026-03-13T19:47:32.162116+00:00"
-    },
-    "e970e12a7aa2c45c": {
-      "title": "AI‑driven fraud and corporate crime: Risks, controls and insurance implications",
-      "fetched_at": "2026-03-13T19:47:32.823084+00:00"
-    },
-    "8e7e1a4cb9155c4a": {
-      "title": "AI writing has a homogeneity problem",
-      "fetched_at": "2026-03-13T19:47:33.410389+00:00"
-    },
-    "f0753accbb05056b": {
-      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
-      "fetched_at": "2026-03-13T19:47:34.066188+00:00"
-    },
-    "9cd7252f838bfabe": {
-      "title": "Show HN: Stint – Fire-and-forget AI agent orchestration",
-      "fetched_at": "2026-03-13T19:47:34.644799+00:00"
-    },
-    "b1ff4b900de27d18": {
-      "title": "Show HN: Let AI agents debug your Valkey/Redis",
-      "fetched_at": "2026-03-13T19:47:35.230871+00:00"
-    },
-    "fa33bc47b56b9548": {
-      "title": "Microplastics that accumulate in the body may 'clog up' immune cells",
-      "fetched_at": "2026-03-13T19:47:39.684137+00:00"
-    },
-    "5ed13c7fedd1b80d": {
-      "title": "Another Ancient Human Skeleton Found in Mexico’s Underwater Cave System",
-      "fetched_at": "2026-03-13T19:47:40.262221+00:00"
-    },
-    "b9bd6a7d3c7f9941": {
-      "title": "Top 5 mistakes when using air purifiers during hay fever season",
-      "fetched_at": "2026-03-13T19:47:40.859942+00:00"
-    },
-    "65a234e9360f664d": {
-      "title": "Samnite Burials Excavated in Southern Italy",
-      "fetched_at": "2026-03-13T19:47:41.441826+00:00"
-    },
-    "074ddbe32318e4c3": {
-      "title": "Cache of Gold Rubles Discovered in Russia",
-      "fetched_at": "2026-03-13T19:47:42.019369+00:00"
-    },
-    "16e861476a348385": {
-      "title": "Ways Product Discovery Breaks Down",
-      "fetched_at": "2026-03-13T19:47:42.603755+00:00"
-    },
-    "3a441de3e5f3b959": {
-      "title": "'A collision within a collision': Neutron star merger hiding in mini-galaxy could answer 2 big astrophysics questions",
-      "fetched_at": "2026-03-13T19:47:43.191252+00:00"
-    },
-    "8acebaff2ddaeacc": {
-      "title": "From plastics to pharmaceuticals, a new discovery sparks chain reactions",
-      "fetched_at": "2026-03-13T19:47:43.772850+00:00"
-    },
-    "a51f1c356f71327a": {
-      "title": "I've taught people how to use AI – here's what I've learned",
-      "fetched_at": "2026-03-14T05:02:26.764036+00:00"
-    },
-    "8f80bdd3f3134f34": {
-      "title": "Everyone within humanities can contribute to the study of AI",
-      "fetched_at": "2026-03-14T05:02:27.339686+00:00"
-    },
-    "3bc50ea236912ecc": {
-      "title": "Riva: Local-first observability for AI agents",
-      "fetched_at": "2026-03-14T05:02:27.912656+00:00"
-    },
-    "16a0aae00bd04156": {
-      "title": "Sam Altman admits AI is killing the labor-capital balance",
-      "fetched_at": "2026-03-14T05:02:28.483113+00:00"
-    },
-    "2d0f489405817c3e": {
-      "title": "Lessons from Building AI Features",
-      "fetched_at": "2026-03-14T05:02:29.183855+00:00"
-    },
-    "708695098b881670": {
-      "title": "俞浩慈善基金会设立“U35青年科学家”计划，提供最高50万元科研支持",
-      "fetched_at": "2026-03-14T05:02:29.763159+00:00"
-    },
-    "54737d7630b28dbd": {
-      "title": "Discli – Discord CLI for AI agents to manage servers from the terminal",
-      "fetched_at": "2026-03-14T05:02:30.347771+00:00"
-    },
-    "d355f5ce98fea93e": {
-      "title": "Show HN: SafeAgent – exactly-once execution guard for AI agent side effects",
-      "fetched_at": "2026-03-14T05:02:30.910896+00:00"
-    },
-    "de9888d6a8993914": {
-      "title": "Nvidia's GTC will mark an AI chip pivot, the CPU is taking center stage",
-      "fetched_at": "2026-03-14T05:02:31.565675+00:00"
-    },
-    "9d0a336a753d2536": {
-      "title": "Show HN: Vibe-budget – CLI to estimate LLM costs before you start vibe coding",
-      "fetched_at": "2026-03-14T05:02:32.127602+00:00"
-    },
-    "6bdae6648907667f": {
-      "title": "Show HN: FX Radar – Rebuilt AI financial news hub and trading journal",
-      "fetched_at": "2026-03-14T05:02:32.696026+00:00"
-    },
-    "f0dd1506643f500c": {
-      "title": "Show HN: Kube-pilot – AI engineer that lives in your Kubernetes cluster",
-      "fetched_at": "2026-03-14T05:02:33.340919+00:00"
-    },
-    "15e40b4f99a39585": {
-      "title": "免费试读 | 日本温泉完全指南：如何找、怎么泡、泡哪里？",
-      "fetched_at": "2026-03-14T05:02:33.901578+00:00"
-    },
-    "0fce2bfedd6a61a4": {
-      "title": "Show HN: 724claw.icu – Anonymous vent wall for AI-era workers grinding 7x24",
-      "fetched_at": "2026-03-14T05:02:34.467242+00:00"
-    },
-    "d07b24d3f907ea4b": {
-      "title": "Show HN: DAAO – Deploy AI agents to your servers via Zero-Trust tunnels",
-      "fetched_at": "2026-03-14T05:02:35.060487+00:00"
-    },
-    "ba2c7839afa03c39": {
-      "title": "The Dirty, Dystopian World of AI Data Centers",
-      "fetched_at": "2026-03-14T05:02:35.628814+00:00"
-    },
-    "3c5bac318d6d9039": {
-      "title": "东吴证券拟收购东海证券83.77%股权，下周一复盘",
-      "fetched_at": "2026-03-14T05:02:36.197316+00:00"
-    },
-    "d330e6bd169357ef": {
-      "title": "Meta据悉计划大规模裁员，或影响20%以上员工",
-      "fetched_at": "2026-03-14T05:02:36.760631+00:00"
-    },
-    "26769153e740919c": {
-      "title": "Silicon Valley is buzzing about this new idea: AI compute as compensation",
-      "fetched_at": "2026-03-14T05:02:37.331679+00:00"
-    },
-    "0f956134d07241aa": {
-      "title": "SpaceX据悉计划将IPO的相关工作分配给多家银行",
-      "fetched_at": "2026-03-14T05:02:38.051006+00:00"
-    },
-    "1a387936415d8bd3": {
-      "title": "Tethyr Cloud: Open Agent discovery, zero vendor lock-in (AIdeas Semi-finalist)",
-      "fetched_at": "2026-03-14T05:02:48.845577+00:00"
-    },
-    "4ce0c03a4a67b126": {
-      "title": "Gut bacteria that make serotonin may hold the key to IBS",
-      "fetched_at": "2026-03-14T05:02:49.423790+00:00"
-    },
-    "cbfa6c7446ce2057": {
-      "title": "Scientists warn Australia’s “zombie tree” could vanish within a generation",
-      "fetched_at": "2026-03-14T05:02:49.986695+00:00"
-    },
-    "af3a6a3964c7a393": {
-      "title": "Use GPT-5.4/CODEX to reverse engineer ancient machine code",
-      "fetched_at": "2026-03-14T05:02:50.582148+00:00"
-    },
-    "6be7fc1ec1995ef4": {
-      "title": "You don't need to be \"primary source\" in a historical record to be Primary in AI",
-      "fetched_at": "2026-03-14T05:02:51.322890+00:00"
-    },
-    "6dbf6f4c9d43abfa": {
-      "title": "Microplastics may be quietly damaging your brain and fueling Alzheimer’s and Parkinson’s",
-      "fetched_at": "2026-03-14T05:02:52.159147+00:00"
-    },
-    "235312ef152f6f32": {
-      "title": "Simple water trick cuts diesel engine pollution by over 60%",
-      "fetched_at": "2026-03-14T05:02:52.724863+00:00"
-    },
-    "4d7ce72fd738e422": {
-      "title": "Our Sun may have escaped the Milky Way’s center with thousands of twin stars",
-      "fetched_at": "2026-03-14T05:02:53.297421+00:00"
-    },
     "c9ce957f18a1fbd1": {
       "title": "Show HN: PDR AI – Open-source startup accelerator engine for non-technical chaos",
       "fetched_at": "2026-03-14T07:50:58.608043+00:00"
@@ -3671,7 +3447,127 @@
     "ad07b785c243a8b0": {
       "title": "The surprising new ways bacteria spread without propellers",
       "fetched_at": "2026-03-21T19:03:25.858484+00:00"
+    },
+    "59264cd18d756779": {
+      "title": "A Reason to Ditch Jira: AI Agents",
+      "fetched_at": "2026-03-22T05:11:36.996189+00:00"
+    },
+    "59495302e3176b2b": {
+      "title": "Why Even Smart People Believe AI Is Thinking",
+      "fetched_at": "2026-03-22T05:11:37.606660+00:00"
+    },
+    "d9e067f72fcc04e4": {
+      "title": "暴涨40%，霍尔木兹海峡“梗阻” 冲击氦气供应链",
+      "fetched_at": "2026-03-22T05:11:38.247111+00:00"
+    },
+    "40f9cbc2d287a464": {
+      "title": "李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲",
+      "fetched_at": "2026-03-22T05:11:38.853289+00:00"
+    },
+    "7ce247eae66a6dc0": {
+      "title": "新阿维塔12预售发布会在重庆金融会展中心举办，新车共7个版本",
+      "fetched_at": "2026-03-22T05:11:39.476545+00:00"
+    },
+    "84ebec19be487567": {
+      "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
+      "fetched_at": "2026-03-22T05:11:40.148532+00:00"
+    },
+    "c6fcbdc38b4a1668": {
+      "title": "俄“进步MS-33”货运飞船定于今日发射",
+      "fetched_at": "2026-03-22T05:11:40.775937+00:00"
+    },
+    "70a58393fc4e05ea": {
+      "title": "微信推出官方龙虾插件",
+      "fetched_at": "2026-03-22T05:11:41.405692+00:00"
+    },
+    "4f7d3cbb8ca19914": {
+      "title": "Show HN: Cultivation > Accumulation (For AI Agentic Memory)",
+      "fetched_at": "2026-03-22T05:11:42.050716+00:00"
+    },
+    "1a249f9c605f3b49": {
+      "title": "专属代码“NXA”启用 首票空运货物运抵雄安综合保税区",
+      "fetched_at": "2026-03-22T05:11:42.713800+00:00"
+    },
+    "9a18e6a55c3b8536": {
+      "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
+      "fetched_at": "2026-03-22T05:11:43.365216+00:00"
+    },
+    "383074dc88b4747f": {
+      "title": "Nothing在中国发布Headphone (a)与Phone (4a)系列，在性能过剩时代继续押注“设计优先”丨最前线",
+      "fetched_at": "2026-03-22T05:11:44.196893+00:00"
+    },
+    "6a58459402b78ff9": {
+      "title": "White House unveils AI policy wishlist for Congress",
+      "fetched_at": "2026-03-22T05:11:44.870847+00:00"
+    },
+    "fb559bd40a21e553": {
+      "title": "马斯克：“Terafab”项目目标年产能超1太瓦算力",
+      "fetched_at": "2026-03-22T05:11:45.503214+00:00"
+    },
+    "6499121279601dee": {
+      "title": "软银计划在美国俄亥俄州建设5000亿美元的巨型AI数据中心",
+      "fetched_at": "2026-03-22T05:11:46.138080+00:00"
+    },
+    "46bc061f594cde3e": {
+      "title": "Peter Thiel's Founders Fund Backs AI Cow Collar Startup at $2B Valuation",
+      "fetched_at": "2026-03-22T05:11:46.771538+00:00"
+    },
+    "48e2fc26cd64d65b": {
+      "title": "2026无锡马拉松鸣枪开跑 多人刷新马拉松项目个人最好成绩",
+      "fetched_at": "2026-03-22T05:11:47.400800+00:00"
+    },
+    "d1ba88af3234d42e": {
+      "title": "北京高职自主招生报名今天启动",
+      "fetched_at": "2026-03-22T05:11:48.042301+00:00"
+    },
+    "3407aa083052a402": {
+      "title": "小阔集团联合华晨宇共创全新日化家居品牌“重点”",
+      "fetched_at": "2026-03-22T05:11:48.664878+00:00"
+    },
+    "6c79d42e73a0b95c": {
+      "title": "首钢与中国一汽成功合作研发2.4GPa级超高强度热成形钢",
+      "fetched_at": "2026-03-22T05:11:49.300800+00:00"
+    },
+    "fee8d8a32222a039": {
+      "title": "分析：是否要對伊朗採取更強硬措施？特朗普正在十字路口",
+      "fetched_at": "2026-03-22T05:11:51.876858+00:00"
+    },
+    "138166d190a76e99": {
+      "title": "研究者警告：AI玩具或誤讀幼兒情緒並做出不當回應",
+      "fetched_at": "2026-03-22T05:11:52.494264+00:00"
+    },
+    "cd9fb0e80d1c2b68": {
+      "title": "中共軍機「擾台」飛行出現罕見「空窗期」，對背後動機的五個解讀",
+      "fetched_at": "2026-03-22T05:11:53.125247+00:00"
+    },
+    "4fbbda4c8e51e15d": {
+      "title": "Ancient DNA reveals a farming shift that pushed a society to the brink",
+      "fetched_at": "2026-03-22T05:11:56.050153+00:00"
+    },
+    "cb45ac5fcc5e911a": {
+      "title": "A massive freshwater reservoir is hiding under the Great Salt Lake",
+      "fetched_at": "2026-03-22T05:11:56.694967+00:00"
+    },
+    "538d009d43a7e2a1": {
+      "title": "Hidden antibiotics in river fish spark new food safety fears",
+      "fetched_at": "2026-03-22T05:11:57.350327+00:00"
+    },
+    "44e69c4ac69634a0": {
+      "title": "Ju Ci (锔瓷): The Ancient Art of Repairing Porcelain",
+      "fetched_at": "2026-03-22T05:11:57.991689+00:00"
+    },
+    "ce1c64c6fc2392a5": {
+      "title": "Drug Discovery Books",
+      "fetched_at": "2026-03-22T05:11:58.638530+00:00"
+    },
+    "6bf44c32454c6c2a": {
+      "title": "NASA’s Hubble accidentally caught a comet breaking apart in real time",
+      "fetched_at": "2026-03-22T05:11:59.266358+00:00"
+    },
+    "0ab12f4e7efbb520": {
+      "title": "Monty Python Got It Wrong About Medieval Disease",
+      "fetched_at": "2026-03-22T05:12:00.130948+00:00"
     }
   },
-  "last_updated": "2026-03-21T19:03:26.004058+00:00"
+  "last_updated": "2026-03-22T05:12:00.269535+00:00"
 }
