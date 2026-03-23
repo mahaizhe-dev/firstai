@@ -1,121 +1,5 @@
 {
   "articles": {
-    "bdf1ccdcda3abec0": {
-      "title": "Show HN: Dumped Wix, my AEC consultancy's storefront is now an AI Edge",
-      "fetched_at": "2026-03-15T13:59:26.644723+00:00"
-    },
-    "b4dc3b32c6d3eda0": {
-      "title": "Show HN: I built two AI entities with shared memory and a portable identity spec",
-      "fetched_at": "2026-03-15T13:59:27.385332+00:00"
-    },
-    "2d6484cd0c298f58": {
-      "title": "Hacked data shines light on homeland security's AI surveillance ambitions",
-      "fetched_at": "2026-03-15T13:59:27.979961+00:00"
-    },
-    "1a0dbdd578c1dd1c": {
-      "title": "AI coding agents accidentally introduced vulnerable dependencies",
-      "fetched_at": "2026-03-15T13:59:28.630782+00:00"
-    },
-    "20866fd7c85d7a5f": {
-      "title": "EU strips AI, chips and quantum from industrial plan aimed at countering China",
-      "fetched_at": "2026-03-15T13:59:29.255411+00:00"
-    },
-    "2a32e3b545a44c53": {
-      "title": "Ouroboros: AI research loop that rewrites methodology with lineage logs",
-      "fetched_at": "2026-03-15T13:59:29.889518+00:00"
-    },
-    "38fae96e827fe83f": {
-      "title": "UK government publishes guidance on AI coding assistants",
-      "fetched_at": "2026-03-15T13:59:30.506226+00:00"
-    },
-    "c87eaee9b1d681bb": {
-      "title": "Ask HN: How do you search things like YouTube and Reddit from before the AI slop",
-      "fetched_at": "2026-03-15T13:59:31.170511+00:00"
-    },
-    "170c9784477e3b75": {
-      "title": "New study raises concerns about AI chatbots fueling delusional thinking",
-      "fetched_at": "2026-03-15T13:59:31.906759+00:00"
-    },
-    "c33ed72a29d32796": {
-      "title": "Coffeezilla – Investigating AI Deepfakes [video]",
-      "fetched_at": "2026-03-15T13:59:32.579864+00:00"
-    },
-    "b4ea0ea2532fac8d": {
-      "title": "Show HN: I logged 38 days of LLM forecasts to study behavior",
-      "fetched_at": "2026-03-15T13:59:33.201636+00:00"
-    },
-    "d5e8ef58bd166a5e": {
-      "title": "Tech boss uses AI and ChatGPT to create cancer vaccine for his dying dog",
-      "fetched_at": "2026-03-15T13:59:33.201764+00:00"
-    },
-    "89f01d0834b3e638": {
-      "title": "Show HN: Agentic Docs Templates, keep AI coding agents disciplined",
-      "fetched_at": "2026-03-15T13:59:33.808114+00:00"
-    },
-    "667769495ced9bc8": {
-      "title": "I put my AI on a PIP. It worked",
-      "fetched_at": "2026-03-15T13:59:34.413179+00:00"
-    },
-    "2a3e8c9584d37ac8": {
-      "title": "Show HN: Grantex–Open authorization protocol for AI agents-like OAuth for agents",
-      "fetched_at": "2026-03-15T13:59:35.004579+00:00"
-    },
-    "6a3e9a42fcdc6b0d": {
-      "title": "Show HN: AgentMailr – dedicated email inboxes for AI agents",
-      "fetched_at": "2026-03-15T13:59:35.612042+00:00"
-    },
-    "fa52dd720bbeb22f": {
-      "title": "A Visual Introduction to Machine Learning (2015)",
-      "fetched_at": "2026-03-15T13:59:36.231461+00:00"
-    },
-    "fc48b5041ecaafa3": {
-      "title": "Show HN: Calendly alternative where LLM decides which slots to show",
-      "fetched_at": "2026-03-15T13:59:36.847082+00:00"
-    },
-    "74b26869c49f5b4e": {
-      "title": "In the AI age, nothing is forgotten",
-      "fetched_at": "2026-03-15T13:59:37.440711+00:00"
-    },
-    "191e04fb885ebfaf": {
-      "title": "AI Sovereignty Is a Myth",
-      "fetched_at": "2026-03-15T13:59:38.201302+00:00"
-    },
-    "d4c4733cc680de5a": {
-      "title": "The government is very serious about UFOs. So why are researchers being stymied?",
-      "fetched_at": "2026-03-15T13:59:43.799170+00:00"
-    },
-    "bc990571800a4855": {
-      "title": "In physics first, Chinese scientists create rare 'hexagonal diamond' that's harder than natural diamond",
-      "fetched_at": "2026-03-15T13:59:44.387060+00:00"
-    },
-    "25f88e6ae8326a90": {
-      "title": "Hubble and Euclid capture the final act of a dying star — and it's glorious: Space photo of the week",
-      "fetched_at": "2026-03-15T13:59:45.034995+00:00"
-    },
-    "045c2a36405c16f4": {
-      "title": "Amazfit T-Rex Ultra 2 early review: One of the best-value outdoor smartwatches released this year",
-      "fetched_at": "2026-03-15T13:59:45.711326+00:00"
-    },
-    "b1ad81452213e6ca": {
-      "title": "Will the Indus Valley script ever be deciphered?",
-      "fetched_at": "2026-03-15T13:59:46.328771+00:00"
-    },
-    "835ae33af6e939f4": {
-      "title": "Astronomers just found the source of the brightest fast radio burst ever",
-      "fetched_at": "2026-03-15T13:59:46.933138+00:00"
-    },
-    "06bff018cb005db8": {
-      "title": "Scientists discover hidden water beneath Mars that could have supported life",
-      "fetched_at": "2026-03-15T13:59:47.532809+00:00"
-    },
-    "a197a9bfd52f3516": {
-      "title": "The financial crisis that quietly stunted a generation",
-      "fetched_at": "2026-03-15T13:59:48.137773+00:00"
-    },
-    "11bc4d279f4775c1": {
-      "title": "Crops irrigated with wastewater store drugs in their leaves",
-      "fetched_at": "2026-03-15T13:59:49.044642+00:00"
-    },
     "0a88d963afaa5a0f": {
       "title": "AI creates more developer jobs",
       "fetched_at": "2026-03-15T19:18:46.852548+00:00"
@@ -3631,7 +3515,135 @@
     "d942c3d799e0af89": {
       "title": "NASA launches twin spacecraft to solve the mystery of Mars’ lost atmosphere",
       "fetched_at": "2026-03-23T08:38:26.454387+00:00"
+    },
+    "08dad297fabd6243": {
+      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
+      "fetched_at": "2026-03-23T15:39:54.252421+00:00"
+    },
+    "45429492dab05671": {
+      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
+      "fetched_at": "2026-03-23T15:39:54.843536+00:00"
+    },
+    "4de0d0a5f20fd3cb": {
+      "title": "Confronting the CEO of the AI company that impersonated me",
+      "fetched_at": "2026-03-23T15:39:55.426144+00:00"
+    },
+    "457bcc9a17980510": {
+      "title": "三花智控：拟开展不超过35亿元资产池业务",
+      "fetched_at": "2026-03-23T15:39:56.016266+00:00"
+    },
+    "668d386aed51ebee": {
+      "title": "三花智控：2025年净利润40.63亿元，同比增长31.10%",
+      "fetched_at": "2026-03-23T15:39:56.596396+00:00"
+    },
+    "181b98e4499c38bd": {
+      "title": "永励精密3月30日北交所首发上会",
+      "fetched_at": "2026-03-23T15:39:57.191448+00:00"
+    },
+    "6160df9b47e38991": {
+      "title": "热门中概股美股盘前多数上涨，小鹏汽车涨超5%",
+      "fetched_at": "2026-03-23T15:39:57.803888+00:00"
+    },
+    "3a2ac57ddeb39749": {
+      "title": "美股大型科技股盘前普涨，英伟达涨超2%",
+      "fetched_at": "2026-03-23T15:39:58.381724+00:00"
+    },
+    "cdb88ba1b22c655f": {
+      "title": "泰福泵业：筹划控制权变更事项，股票停牌",
+      "fetched_at": "2026-03-23T15:39:58.966004+00:00"
+    },
+    "4e8b200004eab2e0": {
+      "title": "丽江股份：2025年净利润同比增长1.24%，拟每10股派3.50元",
+      "fetched_at": "2026-03-23T15:39:59.552669+00:00"
+    },
+    "7a9a20efd875b140": {
+      "title": "OpenAI要求谷歌将ChatGPT列为默认搜索引擎之一",
+      "fetched_at": "2026-03-23T15:40:00.134198+00:00"
+    },
+    "84154489fb0b9d7c": {
+      "title": "*ST亿通：股东王振洪拟减持不超2.99%股份",
+      "fetched_at": "2026-03-23T15:40:00.718459+00:00"
+    },
+    "b9b6b197ce730813": {
+      "title": "杭州先为达生物科技股份有限公司-B向港交所提交上市申请书",
+      "fetched_at": "2026-03-23T15:40:01.292866+00:00"
+    },
+    "3f0222c1ea1f2f5e": {
+      "title": "OpenAI聘请前Meta高管Dave Dugan为全球广告解决方案副总裁",
+      "fetched_at": "2026-03-23T15:40:02.039566+00:00"
+    },
+    "fea7538ff007cc33": {
+      "title": "碧桂园：预计2025年利润为10亿元-22亿元",
+      "fetched_at": "2026-03-23T15:40:02.620471+00:00"
+    },
+    "fed5d4723c25e039": {
+      "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
+      "fetched_at": "2026-03-23T15:40:03.223558+00:00"
+    },
+    "a0baf3b36fd3fcd1": {
+      "title": "剂泰科技港股IPO获中国证监会备案",
+      "fetched_at": "2026-03-23T15:40:03.912121+00:00"
+    },
+    "09a2f48f1b31eaf8": {
+      "title": "均胜电子：拟回购不超1551万股H股，占已发行H股总数的10%",
+      "fetched_at": "2026-03-23T15:40:04.495707+00:00"
+    },
+    "fa014a1243c1e012": {
+      "title": "藏格矿业：拟以2亿-4亿元回购股份",
+      "fetched_at": "2026-03-23T15:40:05.217688+00:00"
+    },
+    "0b4a5aa12c63963d": {
+      "title": "剂泰科技港股IPO获中国证监会备案",
+      "fetched_at": "2026-03-23T15:40:05.217809+00:00"
+    },
+    "5f9e3ebffd0b25eb": {
+      "title": "韓團BTS回歸：全球矚目背後有何文化與經濟意義？",
+      "fetched_at": "2026-03-23T15:40:08.387821+00:00"
+    },
+    "1cd5f8ec3b2274dc": {
+      "title": "Watch sperm whale headbutt another for no apparent reason",
+      "fetched_at": "2026-03-23T15:40:18.063142+00:00"
+    },
+    "10baf8e3aff2843b": {
+      "title": "'Space archaeology' reveals first dynamic history of a giant spiral galaxy",
+      "fetched_at": "2026-03-23T15:40:18.655219+00:00"
+    },
+    "59e9f0e0a46e456a": {
+      "title": "The ancient reason there are 60 minutes in an hour",
+      "fetched_at": "2026-03-23T15:40:19.227290+00:00"
+    },
+    "085b19bd2d0101a1": {
+      "title": "Live Science Today: Earth hits record energy imbalance, Hawaii floods and NASA prepares for Artemis II launch",
+      "fetched_at": "2026-03-23T15:40:19.803532+00:00"
+    },
+    "d7313158265a1d10": {
+      "title": "Viruses in the gut may help prevent blood sugar spikes, mouse study hints",
+      "fetched_at": "2026-03-23T15:40:20.384469+00:00"
+    },
+    "0a35a20d4087a540": {
+      "title": "Urfa Man: An 11,500-year-old life-size statue of a man holding his penis",
+      "fetched_at": "2026-03-23T15:40:21.009045+00:00"
+    },
+    "3643d74ace0843e7": {
+      "title": "MCP Registry – Open-source discovery layer for 20 Model Context Protocol servers",
+      "fetched_at": "2026-03-23T15:40:21.594795+00:00"
+    },
+    "a330efd8be7febf6": {
+      "title": "A new twist on matter? Strange 'Half-Mӧbius' molecule has rare properties chemists have never seen before",
+      "fetched_at": "2026-03-23T15:40:22.174347+00:00"
+    },
+    "65fa9775f349e06a": {
+      "title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
+      "fetched_at": "2026-03-23T15:40:22.756669+00:00"
+    },
+    "7f7c42f3517acceb": {
+      "title": "Most people get food’s environmental impact completely wrong, study finds",
+      "fetched_at": "2026-03-23T15:40:23.361793+00:00"
+    },
+    "30b39a7feb96a3c6": {
+      "title": "Top 18 health and fitness deals to snap up at Amazon ahead of the Big Spring Sale",
+      "fetched_at": "2026-03-23T15:40:24.073313+00:00"
     }
   },
-  "last_updated": "2026-03-23T08:38:26.592968+00:00"
+  "last_updated": "2026-03-23T15:40:24.223714+00:00"
 }
