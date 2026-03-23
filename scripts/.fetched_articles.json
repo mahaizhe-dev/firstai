@@ -1,89 +1,5 @@
 {
   "articles": {
-    "0a88d963afaa5a0f": {
-      "title": "AI creates more developer jobs",
-      "fetched_at": "2026-03-15T19:18:46.852548+00:00"
-    },
-    "893548b7a0ceb3a1": {
-      "title": "Caliber – AI setup tailored for your codebase",
-      "fetched_at": "2026-03-15T19:18:47.494690+00:00"
-    },
-    "588e1c287da76444": {
-      "title": "Free LLM cost calculator – what your AI product costs across providers",
-      "fetched_at": "2026-03-15T19:18:48.204463+00:00"
-    },
-    "e91035baa168243c": {
-      "title": "I use the 'cupcake' prompt to catch when AI is guessing",
-      "fetched_at": "2026-03-15T19:18:48.864202+00:00"
-    },
-    "29c68c5584813408": {
-      "title": "Creating a biologically-inspired AI system from the ground up",
-      "fetched_at": "2026-03-15T19:18:49.501059+00:00"
-    },
-    "5005c2b53fa7df83": {
-      "title": "The \"are you sure?\" Problem: Why AI keeps changing its mind",
-      "fetched_at": "2026-03-15T19:18:50.130814+00:00"
-    },
-    "6471f86c9f9a3ae0": {
-      "title": "Wallstreetbets for AI Agent – 1k post/predict",
-      "fetched_at": "2026-03-15T19:18:50.828532+00:00"
-    },
-    "bf991eedc04a2771": {
-      "title": "Tons of new LLM bot accounts here",
-      "fetched_at": "2026-03-15T19:18:51.445482+00:00"
-    },
-    "fe344812d38d7a54": {
-      "title": "Personal Learning about Context Engineering",
-      "fetched_at": "2026-03-15T19:18:52.081599+00:00"
-    },
-    "22bd73bf9d47661c": {
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "fetched_at": "2026-03-15T19:18:52.724078+00:00"
-    },
-    "28ea46580a259e72": {
-      "title": "Multi-model AI API for detecting stereotypes and toxic language",
-      "fetched_at": "2026-03-15T19:18:53.355497+00:00"
-    },
-    "748d4c52b5aaf438": {
-      "title": "Show HN: OpenLegion – AI agent fleet with container isolation and vault proxy",
-      "fetched_at": "2026-03-15T19:18:54.023683+00:00"
-    },
-    "0ae715ca4f6c5d7f": {
-      "title": "An experiment about an LLM driven robot",
-      "fetched_at": "2026-03-15T19:18:54.646293+00:00"
-    },
-    "2e37dadd6f4dbdf7": {
-      "title": "Solving AI Sprawl: Using Git Worktrees and ADRs to Govern Parallel Agents",
-      "fetched_at": "2026-03-15T19:18:55.282209+00:00"
-    },
-    "ee6c189f19ff66b1": {
-      "title": "OAuth-inspired delegated AI access stop sharing raw API keys",
-      "fetched_at": "2026-03-15T19:18:55.900446+00:00"
-    },
-    "d4e65fa2557e67a1": {
-      "title": "Ancient Roman Game Board Was a Mystery. AI Was Used to Figure Out How to Play",
-      "fetched_at": "2026-03-15T19:18:56.573388+00:00"
-    },
-    "0fb7f1d76446967f": {
-      "title": "AI Didn't Make Expertise Optional. It Made It More Valuable",
-      "fetched_at": "2026-03-15T19:18:57.204426+00:00"
-    },
-    "c8ca5b4e3a4354b5": {
-      "title": "The AI-driven 'kill chain' transforming how the US wages war",
-      "fetched_at": "2026-03-15T19:18:57.928278+00:00"
-    },
-    "d484d235b48aa437": {
-      "title": "AI Chief of Staff That Runs My Life While I Sleep",
-      "fetched_at": "2026-03-15T19:18:58.626955+00:00"
-    },
-    "c706189da0d2809d": {
-      "title": "Businesses rush to rehire staff after regretted AI-driven cuts",
-      "fetched_at": "2026-03-15T19:18:59.240925+00:00"
-    },
-    "f7dd16f9e53ad0df": {
-      "title": "Measles' resurgence in the US is a grim sign of what's coming",
-      "fetched_at": "2026-03-15T19:19:04.387440+00:00"
-    },
     "c46ed5b997964c3b": {
       "title": "三星：预计内存短缺将在2028年结束",
       "fetched_at": "2026-03-16T05:59:40.359698+00:00"
@@ -3643,7 +3559,135 @@
     "30b39a7feb96a3c6": {
       "title": "Top 18 health and fitness deals to snap up at Amazon ahead of the Big Spring Sale",
       "fetched_at": "2026-03-23T15:40:24.073313+00:00"
+    },
+    "9b0a0edb4ecf23f8": {
+      "title": "Show HN: AI That Controls Cloudflare WAF, Stripe, and Supabase in Plain English",
+      "fetched_at": "2026-03-23T20:00:20.482054+00:00"
+    },
+    "45686fc4f0cbbf5d": {
+      "title": "LUMINA: LLM-Guided GPU Architecture Exploration via Bottleneck Analysis",
+      "fetched_at": "2026-03-23T20:00:21.046928+00:00"
+    },
+    "5baea5a99546c418": {
+      "title": "What I'm Learning from Aviation About Incident Preparedness",
+      "fetched_at": "2026-03-23T20:00:21.618273+00:00"
+    },
+    "9825c48b08fe4273": {
+      "title": "Google’s new Pixel 10 ads made me go ‘wait, WHAT are they trying to sell?’",
+      "fetched_at": "2026-03-23T20:00:22.201156+00:00"
+    },
+    "0e754c2f264abb78": {
+      "title": "We analyzed 134,000 legal AI interactions. Lawyers still win",
+      "fetched_at": "2026-03-23T20:00:22.770869+00:00"
+    },
+    "0ce557100c4641b6": {
+      "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
+      "fetched_at": "2026-03-23T20:00:23.343949+00:00"
+    },
+    "72d33b97d54d7301": {
+      "title": "LLM Proxy for Agent Containers",
+      "fetched_at": "2026-03-23T20:00:23.929226+00:00"
+    },
+    "0f01b18c5cb2776c": {
+      "title": "Predictably, a victim of AI is Wikipedia",
+      "fetched_at": "2026-03-23T20:00:24.519454+00:00"
+    },
+    "f7d5e8d922cfaf6f": {
+      "title": "Ask HN: Is anyone here also developing \"perpetual AI psychosis\" like Karpathy?",
+      "fetched_at": "2026-03-23T20:00:25.091177+00:00"
+    },
+    "b8c70c064ec28d3f": {
+      "title": "First AI Solution on FrontierMath: Open Problems",
+      "fetched_at": "2026-03-23T20:00:25.699723+00:00"
+    },
+    "5d921ef04408b7de": {
+      "title": "Show HN: Cronbox – Schedule AI Agents",
+      "fetched_at": "2026-03-23T20:00:26.421281+00:00"
+    },
+    "bc1a4e1ce227764b": {
+      "title": "Designing AI Chip Software and Hardware",
+      "fetched_at": "2026-03-23T20:00:26.994318+00:00"
+    },
+    "d19e383966df1201": {
+      "title": "The LLM-Voice problem and what to do about it",
+      "fetched_at": "2026-03-23T20:00:27.557426+00:00"
+    },
+    "ea048405f906e9eb": {
+      "title": "OpenPencil: Open-source AI-native vector design tool",
+      "fetched_at": "2026-03-23T20:00:28.131323+00:00"
+    },
+    "c0aa2097b018a2e4": {
+      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+      "fetched_at": "2026-03-23T20:00:28.743092+00:00"
+    },
+    "814737a0525cdd71": {
+      "title": "Show HN: Primer – build software with AI agents one milestone at a time",
+      "fetched_at": "2026-03-23T20:00:29.315619+00:00"
+    },
+    "5554aefb92ae2643": {
+      "title": "AI Risks \"Hypernormal\" Science",
+      "fetched_at": "2026-03-23T20:00:29.891918+00:00"
+    },
+    "1691581fff38ec13": {
+      "title": "Triage Before You Review: The Skill That AI Made Critical",
+      "fetched_at": "2026-03-23T20:00:30.541357+00:00"
+    },
+    "24c890f2d4246934": {
+      "title": "China's open-source dominance threatens US AI lead, US advisory body warns",
+      "fetched_at": "2026-03-23T20:00:31.149876+00:00"
+    },
+    "3a1be0b6e663f0c2": {
+      "title": "JPMorgan Offers Clients a New Way to Hedge AI Debt Risk",
+      "fetched_at": "2026-03-23T20:00:31.721933+00:00"
+    },
+    "2f66b4bf15c3a96d": {
+      "title": "Cannonball Dated to the Battle of the Alamo",
+      "fetched_at": "2026-03-23T20:01:08.474300+00:00"
+    },
+    "c6b754a0718bd595": {
+      "title": "Artemis II: NASA's first crewed mission to the moon since 1972",
+      "fetched_at": "2026-03-23T20:01:09.048954+00:00"
+    },
+    "41883751557d3a73": {
+      "title": "Seated Skeleton Found in France",
+      "fetched_at": "2026-03-23T20:01:09.615050+00:00"
+    },
+    "ad33f46b3fa054fa": {
+      "title": "Ancient machine gun was used by Romans to attack Pompeii",
+      "fetched_at": "2026-03-23T20:01:10.190641+00:00"
+    },
+    "f0f61b2963f35fbe": {
+      "title": "Why do some people still believe that aliens shaped ancient civilizations",
+      "fetched_at": "2026-03-23T20:01:10.190797+00:00"
+    },
+    "653b6d27d0c30d2b": {
+      "title": "Inscribed Sling Bullet Unearthed in Israel",
+      "fetched_at": "2026-03-23T20:01:10.767613+00:00"
+    },
+    "2bdfe3a6ad5dbac2": {
+      "title": "Russian rocket en route to ISS suffers major antenna glitch, triggering remote-control astronaut 'backup plan'",
+      "fetched_at": "2026-03-23T20:01:11.378017+00:00"
+    },
+    "57c6552e1a0c2b61": {
+      "title": "Antarctica could warm 1.4 times faster than the rest of the Southern Hemisphere in the coming decades, study finds",
+      "fetched_at": "2026-03-23T20:01:11.955235+00:00"
+    },
+    "835ae33af6e939f4": {
+      "title": "Astronomers just found the source of the brightest fast radio burst ever",
+      "fetched_at": "2026-03-23T20:01:12.583076+00:00"
+    },
+    "06bff018cb005db8": {
+      "title": "Scientists discover hidden water beneath Mars that could have supported life",
+      "fetched_at": "2026-03-23T20:01:13.233393+00:00"
+    },
+    "a197a9bfd52f3516": {
+      "title": "The financial crisis that quietly stunted a generation",
+      "fetched_at": "2026-03-23T20:01:13.812602+00:00"
+    },
+    "11bc4d279f4775c1": {
+      "title": "Crops irrigated with wastewater store drugs in their leaves",
+      "fetched_at": "2026-03-23T20:01:14.381540+00:00"
     }
   },
-  "last_updated": "2026-03-23T15:40:24.223714+00:00"
+  "last_updated": "2026-03-23T20:01:14.533945+00:00"
 }
