@@ -1,113 +1,5 @@
 {
   "articles": {
-    "7d9aafa418ab6e97": {
-      "title": "Show HN: Handrive – Free P2P file transfer with 40 MCP tools for AI automation",
-      "fetched_at": "2026-03-16T19:58:36.276499+00:00"
-    },
-    "0d8fd13878378748": {
-      "title": "AI Tool Center",
-      "fetched_at": "2026-03-16T19:58:36.868670+00:00"
-    },
-    "df59f41f68844057": {
-      "title": "Apple's Cheap AI Bet Could Pay Off Big",
-      "fetched_at": "2026-03-16T19:58:37.440862+00:00"
-    },
-    "e7afdce8fad3a18a": {
-      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "fetched_at": "2026-03-16T19:58:38.024566+00:00"
-    },
-    "5e0b4f194980154a": {
-      "title": "LLM Agent Framework for Simulating Personalized User Tweeting Behavior",
-      "fetched_at": "2026-03-16T19:58:38.605262+00:00"
-    },
-    "e7f34410e15bc6e7": {
-      "title": "Show HN: Aelitium – Git-style verification for LLM outputs",
-      "fetched_at": "2026-03-16T19:58:39.252698+00:00"
-    },
-    "476feb4ed67cfb6c": {
-      "title": "Ask HN: Okara's new AI CMO: Will this solve the marketing problem?",
-      "fetched_at": "2026-03-16T19:58:39.839824+00:00"
-    },
-    "6ce60f028600bc62": {
-      "title": "Google scraps AI search feature that crowdsourced amateur medical advice",
-      "fetched_at": "2026-03-16T19:58:40.418241+00:00"
-    },
-    "481ef0857853c702": {
-      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-      "fetched_at": "2026-03-16T19:58:40.989845+00:00"
-    },
-    "d7726ed1f4bd6d2e": {
-      "title": "Show HN: LLM Memory Storage that scales, easily integrates, and is smart",
-      "fetched_at": "2026-03-16T19:58:41.603506+00:00"
-    },
-    "40caf3e8029d34c7": {
-      "title": "Lines of Code as a Productivity Metric in the AI Era",
-      "fetched_at": "2026-03-16T19:58:42.181114+00:00"
-    },
-    "d141685b2580f232": {
-      "title": "Show HN: Stop renting AI – run AI workers on your own dedicated node",
-      "fetched_at": "2026-03-16T19:58:42.764646+00:00"
-    },
-    "2e9284020d5d9773": {
-      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-      "fetched_at": "2026-03-16T19:58:43.360676+00:00"
-    },
-    "26591ebd2933421b": {
-      "title": "AI campus gender wars ahead",
-      "fetched_at": "2026-03-16T19:58:44.181825+00:00"
-    },
-    "40670c866a965b3f": {
-      "title": "Show HN: Mnemosphere – AI chat for the intellectually ambitious",
-      "fetched_at": "2026-03-16T19:58:44.761218+00:00"
-    },
-    "76d6985c7083b152": {
-      "title": "Show HN: AgentPen – macOS dashboard for managing OpenClaw AI agents",
-      "fetched_at": "2026-03-16T19:58:45.440239+00:00"
-    },
-    "7d15fbd153967d04": {
-      "title": "Nvidia DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
-      "fetched_at": "2026-03-16T19:58:46.021205+00:00"
-    },
-    "5f0be0b17803b482": {
-      "title": "AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed",
-      "fetched_at": "2026-03-16T19:58:46.632746+00:00"
-    },
-    "5215168052df20f6": {
-      "title": "Polaris – A fact-checking API for AI agents",
-      "fetched_at": "2026-03-16T19:58:47.260113+00:00"
-    },
-    "e3aec9f389a48183": {
-      "title": "Building a fractions tutor led us to an architecture for controlling AI",
-      "fetched_at": "2026-03-16T19:58:47.853912+00:00"
-    },
-    "b79d10b8b951c27b": {
-      "title": "Firearm Fragments Found in Germany May Date to Castle Siege",
-      "fetched_at": "2026-03-16T19:58:51.503613+00:00"
-    },
-    "fa34d74ba2e058dc": {
-      "title": "'Super El Niño' could push global temperatures to unprecedented highs, forecasters say",
-      "fetched_at": "2026-03-16T19:58:52.083491+00:00"
-    },
-    "314e6cadc0c45cb8": {
-      "title": "Scurvy Detected on 2,000-Year-Old Remains from the Philippines",
-      "fetched_at": "2026-03-16T19:58:52.679425+00:00"
-    },
-    "b7a3d9f8d89d0468": {
-      "title": "Thousands of Ostracons Unearthed in Egypt",
-      "fetched_at": "2026-03-16T19:58:53.435552+00:00"
-    },
-    "db745a9d3580aac0": {
-      "title": "Mental Model Discovery",
-      "fetched_at": "2026-03-16T19:58:54.030118+00:00"
-    },
-    "aff9b721172b62d2": {
-      "title": "How plants moved from sea to land and changed Earth forever",
-      "fetched_at": "2026-03-16T19:58:54.601438+00:00"
-    },
-    "b80cfbd51ec638bd": {
-      "title": "Prevent MCP Context Bloating with Dynamic Tool Discovery",
-      "fetched_at": "2026-03-16T19:58:55.186831+00:00"
-    },
     "c2d5c179b705ef02": {
       "title": "TypeScript's rise in the AI era: Insights from Anders Hejlsberg (2025)",
       "fetched_at": "2026-03-17T05:13:54.868359+00:00"
@@ -3747,7 +3639,119 @@
     "32a9c61c709a9ada": {
       "title": "Life rebounded shockingly fast after the asteroid that killed the dinosaurs",
       "fetched_at": "2026-03-24T15:46:37.187199+00:00"
+    },
+    "0a985adae8e98f97": {
+      "title": "Writing an LLM from scratch, part 32g – Interventions: weight tying",
+      "fetched_at": "2026-03-24T20:01:03.447384+00:00"
+    },
+    "72108be284415d4f": {
+      "title": "Ask HN: Constrained LLM Games",
+      "fetched_at": "2026-03-24T20:01:04.119484+00:00"
+    },
+    "b4b2fbbac9026e25": {
+      "title": "Arm is releasing the first in-house chip in its 35-year history",
+      "fetched_at": "2026-03-24T20:01:04.685541+00:00"
+    },
+    "3b107af12579857c": {
+      "title": "Show HN: Nekoni – local AI agent accessible from your phone, no cloud",
+      "fetched_at": "2026-03-24T20:01:05.252570+00:00"
+    },
+    "764b24d992ec5f97": {
+      "title": "SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems",
+      "fetched_at": "2026-03-24T20:01:05.822980+00:00"
+    },
+    "18f4a3c54734ec28": {
+      "title": "Image Generation and Upgraded AI Coding with Mojo",
+      "fetched_at": "2026-03-24T20:01:06.391319+00:00"
+    },
+    "21c5115750614f6b": {
+      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+      "fetched_at": "2026-03-24T20:01:06.959594+00:00"
+    },
+    "83964d09c4a49db7": {
+      "title": "Show HN: AI Roundtable – Let 200 models debate your question",
+      "fetched_at": "2026-03-24T20:01:07.619266+00:00"
+    },
+    "dd562b55d2113572": {
+      "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
+      "fetched_at": "2026-03-24T20:01:08.189930+00:00"
+    },
+    "48c0a622ab6ef052": {
+      "title": "Telling Your AI Agent It's an Expert Makes It Less Accurate",
+      "fetched_at": "2026-03-24T20:01:08.753738+00:00"
+    },
+    "ec0737e00214f6ff": {
+      "title": "Show HN: TrailTool – open-source CLI for querying CloudTrail data with AI agents",
+      "fetched_at": "2026-03-24T20:01:09.318234+00:00"
+    },
+    "dba7c60c2c7066e5": {
+      "title": "Norway wealth fund moves towards some AI-driven decisions with humans in control",
+      "fetched_at": "2026-03-24T20:01:09.924517+00:00"
+    },
+    "edd40fc6a1ad34c5": {
+      "title": "Show HN: Clarity – An AI Slack coach for better work communication",
+      "fetched_at": "2026-03-24T20:01:10.482184+00:00"
+    },
+    "298fb1a4176f2970": {
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "fetched_at": "2026-03-24T20:01:11.050648+00:00"
+    },
+    "73c10392fa37cb46": {
+      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
+      "fetched_at": "2026-03-24T20:01:11.611687+00:00"
+    },
+    "9089610bb6b6b3ab": {
+      "title": "Should religious AI chatbots be treated differently from all others?",
+      "fetched_at": "2026-03-24T20:01:12.186777+00:00"
+    },
+    "4ed6ce1d5f2ba70f": {
+      "title": "Cognitive OS – Prediction-error learning layer for AI agents",
+      "fetched_at": "2026-03-24T20:01:12.811818+00:00"
+    },
+    "29dc7b3afdd8c63d": {
+      "title": "Yes, AI is intelligent. Prove me wrong",
+      "fetched_at": "2026-03-24T20:01:13.379185+00:00"
+    },
+    "10f1e5bc1672c4d4": {
+      "title": "Gmail AI Productivity Hacks",
+      "fetched_at": "2026-03-24T20:01:13.956482+00:00"
+    },
+    "d53fe183ef338703": {
+      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+      "fetched_at": "2026-03-24T20:01:14.517021+00:00"
+    },
+    "97b555c49e6fdc94": {
+      "title": "Study Tracks Arrival of Bow and Arrow in North America",
+      "fetched_at": "2026-03-24T20:01:18.236980+00:00"
+    },
+    "7a1267f4337ab864": {
+      "title": "Well-Preserved Medieval Town Identified in Poland",
+      "fetched_at": "2026-03-24T20:01:18.809589+00:00"
+    },
+    "aea58344fae9b4f8": {
+      "title": "Cannonball-size meteorite crashes through roof of Texas home as multiple 'fireballs' rain down on the US",
+      "fetched_at": "2026-03-24T20:01:19.403906+00:00"
+    },
+    "6fd09062059f9e19": {
+      "title": "Neanderthals May Have Used Birch Tar to Treat Wounds",
+      "fetched_at": "2026-03-24T20:01:19.969218+00:00"
+    },
+    "9604a86260065a6c": {
+      "title": "Iran war has already released a staggering amount of CO2 — and the destruction of schools, homes and buildings is the biggest source",
+      "fetched_at": "2026-03-24T20:01:20.540617+00:00"
+    },
+    "13fbd607194c3466": {
+      "title": "A rare active volcano on Mars may be causing the whole planet to spin faster",
+      "fetched_at": "2026-03-24T20:01:21.104988+00:00"
+    },
+    "85677fd7dd25b63d": {
+      "title": "Scientists discover what really happens during sourdough fermentation",
+      "fetched_at": "2026-03-24T20:01:21.683625+00:00"
+    },
+    "5baad379850e12f2": {
+      "title": "The smell of Egyptian mummies is revealing 2,000-year-old secrets",
+      "fetched_at": "2026-03-24T20:01:22.249232+00:00"
     }
   },
-  "last_updated": "2026-03-24T15:46:37.311931+00:00"
+  "last_updated": "2026-03-24T20:01:22.391519+00:00"
 }
