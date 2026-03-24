@@ -1,129 +1,5 @@
 {
   "articles": {
-    "c46ed5b997964c3b": {
-      "title": "三星：预计内存短缺将在2028年结束",
-      "fetched_at": "2026-03-16T05:59:40.359698+00:00"
-    },
-    "72a83a22915989f7": {
-      "title": "Show HN: Port42 – AI companions that build and act on your Mac (v0.5.0)",
-      "fetched_at": "2026-03-16T05:59:40.990102+00:00"
-    },
-    "45495e18ddf3180f": {
-      "title": "美的集团旗下汽车部件公司增资至12亿元",
-      "fetched_at": "2026-03-16T05:59:41.621591+00:00"
-    },
-    "c2f16749e4a2918b": {
-      "title": "报道称先正达将在英国投资1.2亿美元兴建全球研发中心",
-      "fetched_at": "2026-03-16T05:59:42.485958+00:00"
-    },
-    "67a5b1d4619793e6": {
-      "title": "EU axes AI, chips, and quantum from the Industrial Accelerator Act",
-      "fetched_at": "2026-03-16T05:59:43.194092+00:00"
-    },
-    "16233dade7a02ed1": {
-      "title": "深成指午后翻红",
-      "fetched_at": "2026-03-16T05:59:43.821538+00:00"
-    },
-    "8b5ce96fda783a00": {
-      "title": "外媒：阿里巴巴即将推出企业级AI旗舰应用",
-      "fetched_at": "2026-03-16T05:59:44.438494+00:00"
-    },
-    "90fb638d59b91493": {
-      "title": "“利普思”完成亿元PreB+轮融资",
-      "fetched_at": "2026-03-16T05:59:45.066553+00:00"
-    },
-    "de002b655c98029a": {
-      "title": "俞雷加盟MOVA，任手机业务负责人",
-      "fetched_at": "2026-03-16T05:59:45.688746+00:00"
-    },
-    "4905960ead5801d0": {
-      "title": "Race on to establish globally recognised 'AI-free' logo",
-      "fetched_at": "2026-03-16T05:59:46.320808+00:00"
-    },
-    "29a626c4a9fbb5e8": {
-      "title": "“禾蛙”完成数千万元战略融资",
-      "fetched_at": "2026-03-16T05:59:46.984502+00:00"
-    },
-    "3169129255b60120": {
-      "title": "清越科技发布双品牌战略，将拓展服务机器人核心部件领域丨最前线",
-      "fetched_at": "2026-03-16T05:59:47.618103+00:00"
-    },
-    "8fd6aa7eb2de9c5e": {
-      "title": "一箭八星！快舟十一号遥七运载火箭发射成功",
-      "fetched_at": "2026-03-16T05:59:48.276323+00:00"
-    },
-    "27e7c385aa5b2a0e": {
-      "title": "车规级碳化硅模块厂商再融资亿元，加速入局AI算力中心基建 | 硬氪首发",
-      "fetched_at": "2026-03-16T05:59:48.962816+00:00"
-    },
-    "7e456e69605e4ec7": {
-      "title": "百亿私募对龙虾下封杀令，严禁在办公终端设备上安装使用",
-      "fetched_at": "2026-03-16T05:59:49.619351+00:00"
-    },
-    "31652ddb3f7d07fe": {
-      "title": "追觅俞浩定调多业务目标：与商飞研发X919及载人飞行器明年展出，卫星将打通直连环节",
-      "fetched_at": "2026-03-16T05:59:50.232859+00:00"
-    },
-    "38054a9fa5474dce": {
-      "title": "希瑞科技：预计本季度内完成第三轮融资",
-      "fetched_at": "2026-03-16T05:59:50.886335+00:00"
-    },
-    "51cb347aadd5a121": {
-      "title": "巴克莱银行预计英国央行3月将维持利率不变",
-      "fetched_at": "2026-03-16T05:59:51.550363+00:00"
-    },
-    "afad4156ea0d0547": {
-      "title": "茅台集团仅参加成都春糖主会场展览，不设酒店展",
-      "fetched_at": "2026-03-16T05:59:52.187941+00:00"
-    },
-    "e30641c4f707b630": {
-      "title": "BotStadium – AI agents compete on live sports predictions in real-time",
-      "fetched_at": "2026-03-16T05:59:52.793260+00:00"
-    },
-    "28cf3696e2246636": {
-      "title": "全球掀起「無AI」標誌設計競賽",
-      "fetched_at": "2026-03-16T05:59:55.431847+00:00"
-    },
-    "c5e8bc35f46607ce": {
-      "title": "继续战斗还是设法抽身？特朗普面临严峻选择",
-      "fetched_at": "2026-03-16T05:59:56.081668+00:00"
-    },
-    "5302129b3a5d6b1f": {
-      "title": "《Kpop獵魔女團》：奧斯卡最佳動畫片如何俘獲全球影迷的心？",
-      "fetched_at": "2026-03-16T05:59:56.715243+00:00"
-    },
-    "65c76480569d5ac0": {
-      "title": "中國人形機器人之夢：當熱度退潮，留下的是泡沫還是繁榮？",
-      "fetched_at": "2026-03-16T05:59:57.529991+00:00"
-    },
-    "8524f62f0c483e7e": {
-      "title": "中东局势给全球化带来又一场危机",
-      "fetched_at": "2026-03-16T05:59:58.234756+00:00"
-    },
-    "ef5c289b725450aa": {
-      "title": "油价飙升，为何中国受到的冲击相对较小？",
-      "fetched_at": "2026-03-16T05:59:58.953286+00:00"
-    },
-    "ed854f680e98cb39": {
-      "title": "提振消费可能是北京的一张空头支票",
-      "fetched_at": "2026-03-16T05:59:59.631098+00:00"
-    },
-    "cff932834d284b4c": {
-      "title": "霍爾木茲海峽「鎖喉」影響：日韓面臨危機、中國提前囤油、俄羅斯大賺一筆",
-      "fetched_at": "2026-03-16T06:00:00.292240+00:00"
-    },
-    "db0bad2b18b26c46": {
-      "title": "Cells can sense 10x farther than expected and it may explain cancer spread",
-      "fetched_at": "2026-03-16T06:01:04.050113+00:00"
-    },
-    "f6c06d3eb9347b31": {
-      "title": "Scientists just discovered a tiny signal that volcanoes send before they erupt",
-      "fetched_at": "2026-03-16T06:01:04.760166+00:00"
-    },
-    "32a9c61c709a9ada": {
-      "title": "Life rebounded shockingly fast after the asteroid that killed the dinosaurs",
-      "fetched_at": "2026-03-16T06:01:05.480649+00:00"
-    },
     "d82ced8750dcc7c2": {
       "title": "蓝晓科技：3000吨电池级碳酸锂提锂装置销售合同终止",
       "fetched_at": "2026-03-16T09:46:34.236334+00:00"
@@ -3807,7 +3683,107 @@
     "c3535c75126fe81f": {
       "title": "Chemistry student develops clear polish that turns your fingernail into a touch-screen stylus",
       "fetched_at": "2026-03-24T05:15:52.073584+00:00"
+    },
+    "bc2e69d67ff594fe": {
+      "title": "Modular 26.2: Image Generation and Upgraded AI Coding with Mojo",
+      "fetched_at": "2026-03-24T08:07:16.840752+00:00"
+    },
+    "71e0266405eda561": {
+      "title": "风范股份：拟挂牌转让晶樱光电60%股权",
+      "fetched_at": "2026-03-24T08:07:17.510465+00:00"
+    },
+    "7a4b130809f3a75e": {
+      "title": "A simple feed to keep up with AI drops",
+      "fetched_at": "2026-03-24T08:07:18.211524+00:00"
+    },
+    "0bce066fc8e62e67": {
+      "title": "因航空燃油短缺，越南航空下月起将停飞部分国内航班",
+      "fetched_at": "2026-03-24T08:07:18.838278+00:00"
+    },
+    "7718529bf94b506f": {
+      "title": "AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support",
+      "fetched_at": "2026-03-24T08:07:19.696118+00:00"
+    },
+    "afe277829020cf5a": {
+      "title": "泰凌微：公司不是Ray-Ban供应商",
+      "fetched_at": "2026-03-24T08:07:20.412561+00:00"
+    },
+    "28e9394a7f82feb8": {
+      "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+      "fetched_at": "2026-03-24T08:07:21.059800+00:00"
+    },
+    "e70183718ed1141f": {
+      "title": "阿里达摩院与开芯院、中科院软件所达成战略合作，共推RISC-V开源架构",
+      "fetched_at": "2026-03-24T08:07:21.752093+00:00"
+    },
+    "723cda9dc5bb4668": {
+      "title": "工会称，三星电子与工会将重启奖金相关谈判",
+      "fetched_at": "2026-03-24T08:07:22.402328+00:00"
+    },
+    "84810d902f4f8fc5": {
+      "title": "Ask HN: System Programming as a LLM shelter",
+      "fetched_at": "2026-03-24T08:07:23.037359+00:00"
+    },
+    "82d535dad6b7291f": {
+      "title": "美国国家公路安全管理局：福特汽车将在美召回超25万辆汽车",
+      "fetched_at": "2026-03-24T08:07:23.683613+00:00"
+    },
+    "cabee55c0f8ad773": {
+      "title": "商务部部长王文涛会见美中贸易全国委员会会员企业代表团",
+      "fetched_at": "2026-03-24T08:07:24.378556+00:00"
+    },
+    "1eaaeab96374966e": {
+      "title": "年内沪市已有34只ETF实施分红，分红规模超182亿元",
+      "fetched_at": "2026-03-24T08:07:25.005666+00:00"
+    },
+    "5d4f3f933b0d7264": {
+      "title": "东壁科技数据发布《Dongbi Index全球高质量期刊列表》",
+      "fetched_at": "2026-03-24T08:07:25.721156+00:00"
+    },
+    "71995ecad685f40d": {
+      "title": "高瓴领投，产投、家办出手，「宇石空间」完成2亿元Pre-A+轮融资｜36氪首发",
+      "fetched_at": "2026-03-24T08:07:26.365427+00:00"
+    },
+    "c0fbefdec05a5539": {
+      "title": "Ask HN: What would it take to provide free AI to the underprivileged?",
+      "fetched_at": "2026-03-24T08:07:26.994417+00:00"
+    },
+    "c94e926302bc2cd5": {
+      "title": "日本将从3月26日起释放国家石油储备",
+      "fetched_at": "2026-03-24T08:07:27.677133+00:00"
+    },
+    "00e27632f1428e6d": {
+      "title": "国家电投旗下天津投资管理公司注册资本增至58.6亿元",
+      "fetched_at": "2026-03-24T08:07:28.377976+00:00"
+    },
+    "69cf8d583c7755e4": {
+      "title": "千问加入玄铁RISC-V无剑联盟",
+      "fetched_at": "2026-03-24T08:07:29.004226+00:00"
+    },
+    "8e6b18f2ca100741": {
+      "title": "晓程科技：公司在阿联酋的相关黄金贸易渠道运行正常",
+      "fetched_at": "2026-03-24T08:07:29.682022+00:00"
+    },
+    "a1f7709c61221465": {
+      "title": "香港政府僱員袁松彪否認曾下令監視在英異見人士",
+      "fetched_at": "2026-03-24T08:07:32.320344+00:00"
+    },
+    "319b64ee2af0fb94": {
+      "title": "從藥劑師到思鄉博主：看伊朗戰爭的平民代價",
+      "fetched_at": "2026-03-24T08:07:32.947304+00:00"
+    },
+    "f8e9e7cb7a37a6cd": {
+      "title": "36小时玩转上海",
+      "fetched_at": "2026-03-24T08:07:33.578347+00:00"
+    },
+    "365e17d77d6ab16b": {
+      "title": "哪些国家最依赖波斯湾石油和天然气",
+      "fetched_at": "2026-03-24T08:07:34.246274+00:00"
+    },
+    "12dbb6ff3e7ffe5a": {
+      "title": "Extreme blast of Arctic air from polar vortex paints a picturesque plume off Florida coast — Earth from space",
+      "fetched_at": "2026-03-24T08:07:36.203142+00:00"
     }
   },
-  "last_updated": "2026-03-24T05:15:52.219250+00:00"
+  "last_updated": "2026-03-24T08:07:36.342797+00:00"
 }
