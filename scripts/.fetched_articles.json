@@ -1,233 +1,5 @@
 {
   "articles": {
-    "e89228dfca187c86": {
-      "title": "We Wasted 4 Weeks on a $1k/Month AI Agent",
-      "fetched_at": "2026-03-17T20:01:29.107362+00:00"
-    },
-    "342c54a3fbf100fe": {
-      "title": "Egnram: Persistent memory system for AI coding agents",
-      "fetched_at": "2026-03-17T20:01:29.698229+00:00"
-    },
-    "47368775b8d17315": {
-      "title": "`Mr AI' Peter Thiel Lectures about Antichrist in Rome",
-      "fetched_at": "2026-03-17T20:01:30.273015+00:00"
-    },
-    "cb1463d2ebbc7c85": {
-      "title": "Show HN: Sulcus Reactive AI Memory",
-      "fetched_at": "2026-03-17T20:01:30.853101+00:00"
-    },
-    "ee5a48947d2399f0": {
-      "title": "Nvidia's DLSS 5 uses generative AI to boost photorealism in video games",
-      "fetched_at": "2026-03-17T20:01:30.853236+00:00"
-    },
-    "56d647f7e0928ddd": {
-      "title": "Comprehension Debt – the hidden cost of AI generated code",
-      "fetched_at": "2026-03-17T20:01:31.421917+00:00"
-    },
-    "c88c1d52f349365e": {
-      "title": "Examining Expanding Role of Synthetic Data Throughout AI Development Pipeline (2025)",
-      "fetched_at": "2026-03-17T20:01:31.993519+00:00"
-    },
-    "12c69a9d620bfdb3": {
-      "title": "You're Not Behind on AI. You're Overwhelmed by It",
-      "fetched_at": "2026-03-17T20:01:32.594403+00:00"
-    },
-    "c15d36d91d3600ab": {
-      "title": "A Synthesis of LLM Evaluation",
-      "fetched_at": "2026-03-17T20:01:33.191894+00:00"
-    },
-    "bfb7af3e038734dd": {
-      "title": "Ask HN: Has anyone gotten AI agents to make money autonomously?",
-      "fetched_at": "2026-03-17T20:01:33.754540+00:00"
-    },
-    "969b4fb2969b4bdb": {
-      "title": "Stop throwing AI at developers and hoping for magic",
-      "fetched_at": "2026-03-17T20:01:34.323382+00:00"
-    },
-    "4f0a084d67082d38": {
-      "title": "Sulcus – Reactive triggers for AI agent memory, governing itself",
-      "fetched_at": "2026-03-17T20:01:34.891701+00:00"
-    },
-    "47e6754251f686bd": {
-      "title": "Show HN: Soul Protocol – an open standard for portable AI identity",
-      "fetched_at": "2026-03-17T20:01:35.467318+00:00"
-    },
-    "56322aa1d6137ed3": {
-      "title": "OpenAI courts private equity to join enterprise AI venture",
-      "fetched_at": "2026-03-17T20:01:36.035547+00:00"
-    },
-    "6b7e3576feae2746": {
-      "title": "Toaster Settings: AI Agents and Classical French Cooking Techniques [video]",
-      "fetched_at": "2026-03-17T20:01:36.603672+00:00"
-    },
-    "bb9aa929de571461": {
-      "title": "Consent.txt – compile one AI policy into robots.txt, AIPREF, and headers",
-      "fetched_at": "2026-03-17T20:01:37.173774+00:00"
-    },
-    "bac45f54203610db": {
-      "title": "Designing an AI Gateway and Durable Workflow System",
-      "fetched_at": "2026-03-17T20:01:37.736524+00:00"
-    },
-    "06bcf3777e4570de": {
-      "title": "Show HN: A complete, containerized data engineering learning platform",
-      "fetched_at": "2026-03-17T20:01:38.372026+00:00"
-    },
-    "d9c1057a950c676e": {
-      "title": "Search Quality Assurance with AI as a Judge",
-      "fetched_at": "2026-03-17T20:01:39.070294+00:00"
-    },
-    "cc2b3ae052fdaa4a": {
-      "title": "The Pentagon is developing alternatives to Anthropic, report says",
-      "fetched_at": "2026-03-17T20:01:39.649092+00:00"
-    },
-    "2d511a7befabae94": {
-      "title": "Medieval Gate Excavated in The Hague",
-      "fetched_at": "2026-03-17T20:01:44.208760+00:00"
-    },
-    "3837465df3079a7e": {
-      "title": "Shipwreck Examined on Canada’s Sable Island",
-      "fetched_at": "2026-03-17T20:01:44.781489+00:00"
-    },
-    "e79f83a1e5b58111": {
-      "title": "Bronze Age Spearhead Mold Recovered in Czech Republic",
-      "fetched_at": "2026-03-17T20:01:45.354744+00:00"
-    },
-    "d30f0e888bf39f85": {
-      "title": "Watch out-of-this-world space documentaries for less with this Paramount+ deal",
-      "fetched_at": "2026-03-17T20:01:45.923574+00:00"
-    },
-    "e885fead3d12d7f2": {
-      "title": "Top 16 health and fitness deals to snap up at Amazon ahead of the Big Spring Sale",
-      "fetched_at": "2026-03-17T20:01:46.497408+00:00"
-    },
-    "76a30b3aec465709": {
-      "title": "奇瑞汽车：2025年公司拥有人应占利润同比增加34.6%",
-      "fetched_at": "2026-03-18T05:20:07.623158+00:00"
-    },
-    "65c75c02b75f88ff": {
-      "title": "Commandments of AI (Mindfulness)",
-      "fetched_at": "2026-03-18T05:20:08.311772+00:00"
-    },
-    "47c2dc1211c8da20": {
-      "title": "Knowledge workers managing AI show collapsed productivity, not just a plateau",
-      "fetched_at": "2026-03-18T05:20:08.918016+00:00"
-    },
-    "90401cc12bdc34d6": {
-      "title": "阿里巴巴港股午后短线拉升，现涨近2%",
-      "fetched_at": "2026-03-18T05:20:09.534834+00:00"
-    },
-    "d9c3929e0e45892b": {
-      "title": "AI – Assassinating Intelligence",
-      "fetched_at": "2026-03-18T05:20:10.130361+00:00"
-    },
-    "1a702c3de8e5ed78": {
-      "title": "Show HN: Llmtop – Htop for LLM Inference Clusters (vLLM, SGLang, Ollama, llama)",
-      "fetched_at": "2026-03-18T05:20:10.742354+00:00"
-    },
-    "d990d21206d3285a": {
-      "title": "紫光股份：公司发布的800G CPO硅光交换机产品已具备量产与商用交付能力",
-      "fetched_at": "2026-03-18T05:20:11.366076+00:00"
-    },
-    "19de1131d29ecc0e": {
-      "title": "电投产融：公司尚未涉及可控核聚变技术领域",
-      "fetched_at": "2026-03-18T05:20:11.970649+00:00"
-    },
-    "0b29a6cfda658108": {
-      "title": "Rust-accelerated reinforcement learning, 140x faster than Python",
-      "fetched_at": "2026-03-18T05:20:12.616349+00:00"
-    },
-    "a9e4c8fd55af212b": {
-      "title": "阿里云AI算力和存储产品最高涨价34%",
-      "fetched_at": "2026-03-18T05:20:13.212255+00:00"
-    },
-    "a5c61a571e0d72d6": {
-      "title": "“地瓜机器人”完成1.2亿美元B1轮融资",
-      "fetched_at": "2026-03-18T05:20:13.803123+00:00"
-    },
-    "c32c1a93231148e9": {
-      "title": "AI coordinates with your friends' AI so nobody has to",
-      "fetched_at": "2026-03-18T05:20:14.391894+00:00"
-    },
-    "2d19e9a03b6731c0": {
-      "title": "吉利汽车：2025年度营收3452亿元，同比增长25%",
-      "fetched_at": "2026-03-18T05:20:14.977884+00:00"
-    },
-    "fc5798b0058254e7": {
-      "title": "湖北交投建设集团注册资金增至65亿元",
-      "fetched_at": "2026-03-18T05:20:15.566953+00:00"
-    },
-    "efd284414012e64b": {
-      "title": "My Claude Code setup you definitely shouldn't use. It's AI Overkill",
-      "fetched_at": "2026-03-18T05:20:16.161056+00:00"
-    },
-    "3cbc87fd410ed615": {
-      "title": "半日主力资金加仓电子、通信股，抛售电力设备股",
-      "fetched_at": "2026-03-18T05:20:16.820853+00:00"
-    },
-    "5c117c51e5c68774": {
-      "title": "CEO策划“自问自答”蹭热点获罚210万，英集芯回应：暂不清楚是否会导致高管变更",
-      "fetched_at": "2026-03-18T05:20:17.419700+00:00"
-    },
-    "79670fb6c2084ba2": {
-      "title": "杨植麟GTC 2026演讲：首次完整披露Kimi模型技术路线图",
-      "fetched_at": "2026-03-18T05:20:18.038965+00:00"
-    },
-    "ca23fac7373bc482": {
-      "title": "Bonanza or Bubble? Where AI Goes from Here",
-      "fetched_at": "2026-03-18T05:20:18.630034+00:00"
-    },
-    "279ad8ba1d758a36": {
-      "title": "恒指午间休盘跌0.17%，恒生科技指数跌0.81%",
-      "fetched_at": "2026-03-18T05:20:19.224059+00:00"
-    },
-    "ab592ed7794a5de2": {
-      "title": "特朗普政府的男性为何都爱“穿大鞋”？",
-      "fetched_at": "2026-03-18T05:20:21.972100+00:00"
-    },
-    "0c27b528f1bc8208": {
-      "title": "以色列再次击杀伊朗高层领导人，这有用吗？",
-      "fetched_at": "2026-03-18T05:20:22.581267+00:00"
-    },
-    "53419b3a1b099679": {
-      "title": "關於派軍艦前往霍爾木茲海峽，美國盟友和中國說了什麼？",
-      "fetched_at": "2026-03-18T05:20:23.206267+00:00"
-    },
-    "ebcb08e8fe583d21": {
-      "title": "特朗普的下一个目标：“拿下古巴”",
-      "fetched_at": "2026-03-18T05:20:23.811076+00:00"
-    },
-    "f082fa0b3a42fa1f": {
-      "title": "分析：最高安全官員拉里賈尼遇襲身亡加深伊朗核心領導層危機",
-      "fetched_at": "2026-03-18T05:20:24.609486+00:00"
-    },
-    "6e8a45c3230b9de4": {
-      "title": "中国AI“养龙虾”热潮引发官方警惕",
-      "fetched_at": "2026-03-18T05:20:25.289452+00:00"
-    },
-    "14a69be575b6ac53": {
-      "title": "欧洲为何不愿在伊朗问题上帮助特朗普？",
-      "fetched_at": "2026-03-18T05:20:25.911882+00:00"
-    },
-    "a29949ca53f26af3": {
-      "title": "中国就Meta收购Manus处罚相关人员",
-      "fetched_at": "2026-03-18T05:20:26.509321+00:00"
-    },
-    "6e831f9afd47c5e6": {
-      "title": "雅虎香港宣佈結束新聞業務僅保留郵件及搜索 否認有政治壓力",
-      "fetched_at": "2026-03-18T05:20:27.136159+00:00"
-    },
-    "5a624ce6ba8ede7f": {
-      "title": "伊朗战事搅动中美关系，峰会推迟对谁更加不利？",
-      "fetched_at": "2026-03-18T05:20:27.739685+00:00"
-    },
-    "c3e3c681060483ef": {
-      "title": "Scientists just discovered bull sharks have friends",
-      "fetched_at": "2026-03-18T05:20:33.671475+00:00"
-    },
-    "e7cf0d619134630c": {
-      "title": "JWST reveals a strange sulfur world unlike any planet we know",
-      "fetched_at": "2026-03-18T05:20:34.273601+00:00"
-    },
     "467377403c937bf2": {
       "title": "AI won't make you rich. But fixing bugs in AI slopware will",
       "fetched_at": "2026-03-18T08:03:44.238452+00:00"
@@ -3943,7 +3715,135 @@
     "621e921749d360d1": {
       "title": "Rare supernova from 10 billion years ago may reveal the secret of dark energy",
       "fetched_at": "2026-03-25T19:57:50.541419+00:00"
+    },
+    "fd90b31162244ae3": {
+      "title": "沪深两市成交额突破1.5万亿",
+      "fetched_at": "2026-03-26T05:50:52.887952+00:00"
+    },
+    "66f650a2286a17a2": {
+      "title": "业绩快报丨古茗2025年售出饮品19亿杯，“下沉之王”质效双增",
+      "fetched_at": "2026-03-26T05:50:53.506596+00:00"
+    },
+    "39309061795db781": {
+      "title": "LiteLLM Supply Chain Attack: Defense in Depth Is the Only AI Security Strategy",
+      "fetched_at": "2026-03-26T05:50:54.144969+00:00"
+    },
+    "73206e46cd25822c": {
+      "title": "淘天集团推出“AI生产力计划”，向实习生全员开放",
+      "fetched_at": "2026-03-26T05:50:54.771186+00:00"
+    },
+    "247d77229b063570": {
+      "title": "现货白银短线跳水跌超1%",
+      "fetched_at": "2026-03-26T05:50:55.384290+00:00"
+    },
+    "ac266524efdc31de": {
+      "title": "恒生科技指数跌3%",
+      "fetched_at": "2026-03-26T05:50:56.056031+00:00"
+    },
+    "956b2c97e758c94a": {
+      "title": "A股三大股指午后均跌超1%",
+      "fetched_at": "2026-03-26T05:50:56.681539+00:00"
+    },
+    "48c3d6387bdd80a3": {
+      "title": "韩国宣布紧急回购5万亿韩元国债以稳定债券市场",
+      "fetched_at": "2026-03-26T05:50:57.480433+00:00"
+    },
+    "33d6815467e3a953": {
+      "title": "AI Arbitrator",
+      "fetched_at": "2026-03-26T05:50:58.282123+00:00"
+    },
+    "9d70d31feac19f0e": {
+      "title": "Show HN: I built a lawyer game with AI",
+      "fetched_at": "2026-03-26T05:50:58.971774+00:00"
+    },
+    "b573d5cc07ffca96": {
+      "title": "报告：2025年国内消费级AI/AR市场销量增幅109%，雷鸟夺冠",
+      "fetched_at": "2026-03-26T05:50:59.755238+00:00"
+    },
+    "77256734b1c1a884": {
+      "title": "Show HN: Prompt Guard–MitM proxy that blocks secrets before they reach AI APIs",
+      "fetched_at": "2026-03-26T05:51:00.389922+00:00"
+    },
+    "ba0535ec8d492914": {
+      "title": "我国电子营业执照日均应用量突破120万次",
+      "fetched_at": "2026-03-26T05:51:01.000901+00:00"
+    },
+    "df574986562b8351": {
+      "title": "Show HN: Agent Kernel – Three Markdown files that make any AI agent stateful",
+      "fetched_at": "2026-03-26T05:51:01.628592+00:00"
+    },
+    "62f7740cc03f39d3": {
+      "title": "特步国际：2025年净利润13.72亿元，同比增长10.8%",
+      "fetched_at": "2026-03-26T05:51:02.240956+00:00"
+    },
+    "89e69f1803cb16fc": {
+      "title": "MOVA AI咖啡生态旗下六轴协作机器人咖啡机X10-Ultra开启商业化运营",
+      "fetched_at": "2026-03-26T05:51:02.859864+00:00"
+    },
+    "2de77f95d86a62bf": {
+      "title": "橘宜集团：2025年收入突破43亿元，同比增长22%",
+      "fetched_at": "2026-03-26T05:51:03.483194+00:00"
+    },
+    "ccca05f23aac301d": {
+      "title": "OpenAI backs AI \"bot army\" startup Isara ($94M, $650M valuation)",
+      "fetched_at": "2026-03-26T05:51:04.121375+00:00"
+    },
+    "c011cc689f64ea38": {
+      "title": "天合光能淮安科技公司注册资本增至约28.5亿元",
+      "fetched_at": "2026-03-26T05:51:04.743277+00:00"
+    },
+    "0f0849fda5efb305": {
+      "title": "速卖通英国站爆发：李宁大涨300%，3成亚马逊用户转向速卖通",
+      "fetched_at": "2026-03-26T05:51:05.364145+00:00"
+    },
+    "f994ca7bf788a347": {
+      "title": "聯合國大會投票將非洲奴隸貿易列為「最嚴重的反人類罪行」",
+      "fetched_at": "2026-03-26T05:51:08.007910+00:00"
+    },
+    "a5eeaab01a01ec8b": {
+      "title": "明陽集團計劃：中國公司在高地港口計劃被英國政府阻止",
+      "fetched_at": "2026-03-26T05:51:08.641457+00:00"
+    },
+    "134beb6add7f5991": {
+      "title": "TikTok上最新的时髦养生法：多喝热水",
+      "fetched_at": "2026-03-26T05:51:09.486828+00:00"
+    },
+    "4ece591842379d80": {
+      "title": "能源短缺叠加美元飙升，亚洲经济面临“双重绞杀”",
+      "fetched_at": "2026-03-26T05:51:10.103913+00:00"
+    },
+    "b81d8bfcc34f14b5": {
+      "title": "“社交媒体成瘾”诉讼：Meta和YouTube被判有责",
+      "fetched_at": "2026-03-26T05:51:10.720798+00:00"
+    },
+    "0d100224fdf34ffa": {
+      "title": "伊朗战事搅局对华博弈，美国战略重心再度偏移",
+      "fetched_at": "2026-03-26T05:51:11.336524+00:00"
+    },
+    "28e177f3b776191c": {
+      "title": "從阿桑奇前律師到92歲法官，馬杜羅案審理法律戰中有哪些關鍵人物？",
+      "fetched_at": "2026-03-26T05:51:11.967788+00:00"
+    },
+    "649a74c2cb01e0ef": {
+      "title": "伊朗战争给普京带来重大利好",
+      "fetched_at": "2026-03-26T05:51:12.607454+00:00"
+    },
+    "3b2782593cc2a43b": {
+      "title": "梅拉尼娅携人形机器人现身白宫，提倡拟人化AI投入教育",
+      "fetched_at": "2026-03-26T05:51:13.231230+00:00"
+    },
+    "8b4dbd25641c7f13": {
+      "title": "'Space Archaeology' Reveals First Dynamic History of a Giant Spiral Galaxy",
+      "fetched_at": "2026-03-26T05:51:17.205897+00:00"
+    },
+    "1f42b9378cb490cd": {
+      "title": "Scientists open a million-year-old time capsule beneath New Zealand",
+      "fetched_at": "2026-03-26T05:51:17.923636+00:00"
+    },
+    "96bb57c4f3e02f21": {
+      "title": "Ancient DNA reveals 4000 years of grapevine diversity and viticulture in France",
+      "fetched_at": "2026-03-26T05:51:18.796810+00:00"
     }
   },
-  "last_updated": "2026-03-25T19:57:50.688289+00:00"
+  "last_updated": "2026-03-26T05:51:18.947644+00:00"
 }
