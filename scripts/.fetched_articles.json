@@ -1,137 +1,5 @@
 {
   "articles": {
-    "274cb42754eeeb70": {
-      "title": "XPFarm; Open-source vulnerability scanner wrapping community tools and Multi-LLM",
-      "fetched_at": "2026-03-18T19:54:56.430149+00:00"
-    },
-    "afd628b6f811b348": {
-      "title": "Can Nvidia's Dominance Survive the Sea Change Under Way in AI Computing?",
-      "fetched_at": "2026-03-18T19:54:57.000353+00:00"
-    },
-    "c99ddc87c70e5b42": {
-      "title": "What Determines Which Knowledge Work AI Can Automate",
-      "fetched_at": "2026-03-18T19:54:57.591416+00:00"
-    },
-    "b7958a577b3cbaa4": {
-      "title": "Why investors won't know what to make of AI for a while",
-      "fetched_at": "2026-03-18T19:54:58.168459+00:00"
-    },
-    "a13f9faae4fa6f24": {
-      "title": "Built an AI employee that handles customer follow-ups for local businesses",
-      "fetched_at": "2026-03-18T19:54:58.743123+00:00"
-    },
-    "91e20644381e302e": {
-      "title": "Show HN: How to cache your codebase for AI agents",
-      "fetched_at": "2026-03-18T19:54:59.322179+00:00"
-    },
-    "80caf250106b3ea4": {
-      "title": "Months to minutes: AI feature-gap harness",
-      "fetched_at": "2026-03-18T19:54:59.896874+00:00"
-    },
-    "9664d7a80d4b4057": {
-      "title": "How to Make Sense of AI",
-      "fetched_at": "2026-03-18T19:55:00.482220+00:00"
-    },
-    "70173f1821dca502": {
-      "title": "Argus-AI – G-ARVIS scoring for LLM observability in 3 lines of Python",
-      "fetched_at": "2026-03-18T19:55:01.054832+00:00"
-    },
-    "aad62ae91d11cd4e": {
-      "title": "Show HN: Clippy – screen-aware voice AI in the browser",
-      "fetched_at": "2026-03-18T19:55:01.730936+00:00"
-    },
-    "c1ab1e4254b9afd0": {
-      "title": "Show HN: Nora – AI that finds you the right health plan",
-      "fetched_at": "2026-03-18T19:55:02.368600+00:00"
-    },
-    "0e6105956cd42730": {
-      "title": "Show HN: Knowza.ai – Free 10-question trial now live (AI-powered AWS exam prep)",
-      "fetched_at": "2026-03-18T19:55:02.946159+00:00"
-    },
-    "377e6afc72ead7b0": {
-      "title": "Trump&#8217;s AI chief&#8217;s big Iran warning gets big time ignored",
-      "fetched_at": "2026-03-18T19:55:03.513926+00:00"
-    },
-    "035790ddd2916d1a": {
-      "title": "Show HN: What if AI agents can trade with each other",
-      "fetched_at": "2026-03-18T19:55:04.092648+00:00"
-    },
-    "c6cdf7625b55c0b4": {
-      "title": "A Mermaid Planning Tool for AI",
-      "fetched_at": "2026-03-18T19:55:04.680422+00:00"
-    },
-    "640c876e0ebb82c9": {
-      "title": "The GPT Sexbot",
-      "fetched_at": "2026-03-18T19:55:05.266283+00:00"
-    },
-    "a5471773546276d7": {
-      "title": "US Military confirms use of 'advanced AI tools' in war against Iran",
-      "fetched_at": "2026-03-18T19:55:05.888553+00:00"
-    },
-    "58cd15203f6c79d2": {
-      "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
-      "fetched_at": "2026-03-18T19:55:06.464593+00:00"
-    },
-    "d0b54b9357689378": {
-      "title": "ChatGPT did not cure a dog’s cancer",
-      "fetched_at": "2026-03-18T19:55:07.045575+00:00"
-    },
-    "13c4dc66a2268b05": {
-      "title": "Show HN: Bloq.ink – autonomous content pipeline (SEO and GEO for AI search)",
-      "fetched_at": "2026-03-18T19:55:07.666985+00:00"
-    },
-    "0c5cee999e5d4c3e": {
-      "title": "Show HN: Timeliner.cc – Find Historical Connections",
-      "fetched_at": "2026-03-18T19:55:12.439831+00:00"
-    },
-    "403b07570fc4a0c6": {
-      "title": "Traces of 18th-Century Whale Trap Found in Norwegian Waters",
-      "fetched_at": "2026-03-18T19:55:13.044793+00:00"
-    },
-    "938118f2a23230ff": {
-      "title": "Artemis II: NASA is preparing for a return to the moon, but why is it going back?",
-      "fetched_at": "2026-03-18T19:55:13.629670+00:00"
-    },
-    "63f2ecca4de4a377": {
-      "title": "Well-Preserved Mosaic Uncovered in Turkey",
-      "fetched_at": "2026-03-18T19:55:14.278468+00:00"
-    },
-    "3846f1b90bbacadf": {
-      "title": "Forget about the Big Spring Sale — these 9 early fitness deals leave Amazon far behind",
-      "fetched_at": "2026-03-18T19:55:14.849941+00:00"
-    },
-    "f20c9ea94b67cea6": {
-      "title": "Celtic Artifacts from Germany’s Riedlingen Mound Revealed",
-      "fetched_at": "2026-03-18T19:55:15.513115+00:00"
-    },
-    "5b1a0c290b47d95a": {
-      "title": "Iran war could push global food insecurity to record levels, leaving 363 million people hungry",
-      "fetched_at": "2026-03-18T19:55:16.139776+00:00"
-    },
-    "0c34796518266a08": {
-      "title": "Dark message warning enemy to 'learn your lesson' found inscribed on 2,000-year-old sling bullet from ancient Holy Land",
-      "fetched_at": "2026-03-18T19:55:16.719567+00:00"
-    },
-    "d266a76030837543": {
-      "title": "'Parasites of human societies': How did we end up so close to cats?",
-      "fetched_at": "2026-03-18T19:55:17.308065+00:00"
-    },
-    "b14c2bd7840ed0ec": {
-      "title": "Drought paradox study reveals plants around Colorado River turn to groundwater when it gets too hot and dry, reducing flow into the already strained basin",
-      "fetched_at": "2026-03-18T19:55:17.890581+00:00"
-    },
-    "fef0cab750c04b7a": {
-      "title": "Ancient skeleton unearthed in France is latest to be found sitting upright",
-      "fetched_at": "2026-03-18T19:55:18.472627+00:00"
-    },
-    "68fc34a7f28fc080": {
-      "title": "Rare 'daytime fireball' meteor creates powerful sonic boom as 7-ton space rock explodes above eastern US",
-      "fetched_at": "2026-03-18T19:55:19.072689+00:00"
-    },
-    "9d2771809d9a8a16": {
-      "title": "A single injection of mRNA-like treatment healed heart muscle after a heart attack in mice and pigs. Could it work in humans too?",
-      "fetched_at": "2026-03-18T19:55:19.654088+00:00"
-    },
     "779dd0a314c213fc": {
       "title": "瑞芯微电子公司增资至约4.21亿元",
       "fetched_at": "2026-03-19T05:15:36.290640+00:00"
@@ -3855,7 +3723,127 @@
     "2716fb45ddfaa8ff": {
       "title": "Deepfake X-rays are so real even doctors can’t tell the difference",
       "fetched_at": "2026-03-26T15:58:20.558020+00:00"
+    },
+    "3b7c1da3fe0f0a9e": {
+      "title": "Microsoft uses Copilot data for AI training by default",
+      "fetched_at": "2026-03-26T20:00:13.682272+00:00"
+    },
+    "66b9b6e9abbd7edc": {
+      "title": "CDT Europe's AI Bulletin: March 2026",
+      "fetched_at": "2026-03-26T20:00:14.284474+00:00"
+    },
+    "f2e4b1a2d0fa5f7d": {
+      "title": "I built a reputation protocol for AI agents",
+      "fetched_at": "2026-03-26T20:00:14.872976+00:00"
+    },
+    "8cd60e1ff272a25d": {
+      "title": "Ran 100 AI agents through the Community Notes algorithm: the model dominates",
+      "fetched_at": "2026-03-26T20:00:15.493844+00:00"
+    },
+    "2f72561db41c26f4": {
+      "title": "My AI Agent Said 'Done.' It Skipped an Acceptance Criterion",
+      "fetched_at": "2026-03-26T20:00:16.091880+00:00"
+    },
+    "6e139697e469ee96": {
+      "title": "AI conference rejects papers over AI use",
+      "fetched_at": "2026-03-26T20:00:16.733607+00:00"
+    },
+    "06fc9fbfbe4def0f": {
+      "title": "AI removed the boring work. It forgot that boring work was also rest",
+      "fetched_at": "2026-03-26T20:00:17.348884+00:00"
+    },
+    "864d302b957e879e": {
+      "title": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
+      "fetched_at": "2026-03-26T20:00:17.955855+00:00"
+    },
+    "7b8f02b08541e63f": {
+      "title": "NekoCore OS – White paper on persistent AI identity as a cognitive architecture",
+      "fetched_at": "2026-03-26T20:00:18.572934+00:00"
+    },
+    "230cb371d5e4a717": {
+      "title": "I got tired of losing my AI context so built contextium",
+      "fetched_at": "2026-03-26T20:00:19.349253+00:00"
+    },
+    "f1b379d988123e34": {
+      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "fetched_at": "2026-03-26T20:00:19.967604+00:00"
+    },
+    "7b001935a244bf4c": {
+      "title": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update",
+      "fetched_at": "2026-03-26T20:00:20.579098+00:00"
+    },
+    "81da4f9544bd43bf": {
+      "title": "Data centers get ready — the Senate wants to see your power bills",
+      "fetched_at": "2026-03-26T20:00:21.169009+00:00"
+    },
+    "07465eec9f8804d6": {
+      "title": "Closed Source vs. Open Source AI: A Cage Fight Few People Understand",
+      "fetched_at": "2026-03-26T20:00:21.781608+00:00"
+    },
+    "54951921082e7988": {
+      "title": "'Friction-maxxing' in school: Students should read primary lit, not AI summaries",
+      "fetched_at": "2026-03-26T20:00:22.380888+00:00"
+    },
+    "c67f5ea4e00968ee": {
+      "title": "Aria – A programming language specifically for AI code generation",
+      "fetched_at": "2026-03-26T20:00:22.970621+00:00"
+    },
+    "df8b29196e14d481": {
+      "title": "OpenAI Backs Isara, New AI Startup Seeking Bot Army Breakthroughs",
+      "fetched_at": "2026-03-26T20:00:23.574847+00:00"
+    },
+    "23e57af1b54ca1f1": {
+      "title": "Software Engineer Interviews for the Age of AI",
+      "fetched_at": "2026-03-26T20:00:24.217562+00:00"
+    },
+    "e4194404d8f10d62": {
+      "title": "Retry and fallback strategies for LLM requests",
+      "fetched_at": "2026-03-26T20:00:24.803600+00:00"
+    },
+    "b362136a6045781f": {
+      "title": "The Download: a battery pivot to AI, and rewriting math",
+      "fetched_at": "2026-03-26T20:00:25.423290+00:00"
+    },
+    "e9a6e0a500524fc5": {
+      "title": "特朗普尋求推遲訪問中國 稱需坐鎮指揮對伊朗戰爭",
+      "fetched_at": "2026-03-26T20:00:28.326223+00:00"
+    },
+    "30b1bb47fd39cd0b": {
+      "title": "特朗普計劃推遲訪華 對中國來說意味著什麼",
+      "fetched_at": "2026-03-26T20:00:28.926678+00:00"
+    },
+    "bbcf878e96ef23f9": {
+      "title": "2 Neanderthals present at same Siberian cave 10,000 years apart were distant relatives, 110,000-year-old bone reveals",
+      "fetched_at": "2026-03-26T20:01:31.568650+00:00"
+    },
+    "9a9b8d1aeb664c2a": {
+      "title": "Study Examines Transmission of Syphilis-Like Disease in Ancient Vietnam",
+      "fetched_at": "2026-03-26T20:01:32.252822+00:00"
+    },
+    "3b123bbc37a5eb28": {
+      "title": "18 million-year-old fossils of ape found in Africa, but in an unexpected place",
+      "fetched_at": "2026-03-26T20:01:32.858938+00:00"
+    },
+    "418338df689a179b": {
+      "title": "17th-Century Barrels Found in Norway",
+      "fetched_at": "2026-03-26T20:01:33.468096+00:00"
+    },
+    "959401fd651bbe08": {
+      "title": "Altar and Offerings Discovered Near Ancient Toltec Capital",
+      "fetched_at": "2026-03-26T20:01:34.062368+00:00"
+    },
+    "07fd7710c8988b80": {
+      "title": "Astronauts may struggle to reproduce in outer space, study suggests — what does that mean for the future of space colonization?",
+      "fetched_at": "2026-03-26T20:01:34.660455+00:00"
+    },
+    "70e0bab8055cd3cb": {
+      "title": "These strange pink rocks just revealed a hidden giant beneath Antarctica",
+      "fetched_at": "2026-03-26T20:01:35.332469+00:00"
+    },
+    "4be6e54027777a52": {
+      "title": "These dinosaurs had wings but couldn’t fly",
+      "fetched_at": "2026-03-26T20:01:36.033051+00:00"
     }
   },
-  "last_updated": "2026-03-26T15:58:20.711336+00:00"
+  "last_updated": "2026-03-26T20:01:36.144619+00:00"
 }
