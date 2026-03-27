@@ -1,121 +1,5 @@
 {
   "articles": {
-    "779dd0a314c213fc": {
-      "title": "瑞芯微电子公司增资至约4.21亿元",
-      "fetched_at": "2026-03-19T05:15:36.290640+00:00"
-    },
-    "4fe10fa637d29c27": {
-      "title": "Checkout Codex, A new language designed by me, written by AI",
-      "fetched_at": "2026-03-19T05:15:36.918205+00:00"
-    },
-    "8783175e115fb510": {
-      "title": "What 81,000 people want from AI",
-      "fetched_at": "2026-03-19T05:15:37.677718+00:00"
-    },
-    "0d9275c0c6fdcdcc": {
-      "title": "澳大利亚就业依然强劲，支持澳央行的鹰派立场",
-      "fetched_at": "2026-03-19T05:15:38.323224+00:00"
-    },
-    "9d31cb3c559c4b5e": {
-      "title": "23.77M Secrets Leaked by AI in 2024 – GitGuardian Report",
-      "fetched_at": "2026-03-19T05:15:38.948484+00:00"
-    },
-    "8fad4ac2762c92fe": {
-      "title": "Show HN: UI-stack – Claude skill that enforces design system on AI-generated UI",
-      "fetched_at": "2026-03-19T05:15:39.566925+00:00"
-    },
-    "2e551037f4326ad1": {
-      "title": "光环新网：截至目前算力业务规模已超过4000P，年合同额超过1亿元",
-      "fetched_at": "2026-03-19T05:15:40.197665+00:00"
-    },
-    "9b5dd506dae50ae7": {
-      "title": "香港金管局回应美联储议息决定：将继续密切监察市场变化，维持货币及金融稳定",
-      "fetched_at": "2026-03-19T05:15:40.830563+00:00"
-    },
-    "10583e0bdfaff138": {
-      "title": "三部门：加快补齐汽车芯片、基础软件等短板，推动扩大应用规模",
-      "fetched_at": "2026-03-19T05:15:41.460602+00:00"
-    },
-    "13f856e7580f639c": {
-      "title": "美团旗下公司在杭州成立新科技公司",
-      "fetched_at": "2026-03-19T05:15:42.092592+00:00"
-    },
-    "acbf6f9bbc68266e": {
-      "title": "Interview with a 'sweating' AI CEO [video]",
-      "fetched_at": "2026-03-19T05:15:42.713527+00:00"
-    },
-    "7b3c9d3a8dc0be67": {
-      "title": "SWIFT：2月人民币位居全球第六大支付货币，占比2.74%",
-      "fetched_at": "2026-03-19T05:15:43.434078+00:00"
-    },
-    "6a1d534c0e3bdab5": {
-      "title": "Meta Confronts Rogue AI Agents After Data Exposure",
-      "fetched_at": "2026-03-19T05:15:44.059807+00:00"
-    },
-    "50e3e98d9d718b8f": {
-      "title": "Meta will invest $600B in the US, focused on AI data centers",
-      "fetched_at": "2026-03-19T05:15:44.683236+00:00"
-    },
-    "ad4874180c5c87ed": {
-      "title": "恒指午间休盘跌1.66%，恒生科技指数跌1.58%",
-      "fetched_at": "2026-03-19T05:15:45.313944+00:00"
-    },
-    "742a05453b61497a": {
-      "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
-      "fetched_at": "2026-03-19T05:15:45.965133+00:00"
-    },
-    "fc604557197eca12": {
-      "title": "半日主力资金加仓公用事业、通信股，抛售电子股",
-      "fetched_at": "2026-03-19T05:15:46.590970+00:00"
-    },
-    "f9359fa50840cfa9": {
-      "title": "国内金饰价格明显回落，周生生足金跌55元/克",
-      "fetched_at": "2026-03-19T05:15:47.223695+00:00"
-    },
-    "6fbde97c57e63d8c": {
-      "title": "Show HN: Ashlr AO – AI agent orchestration dashboard (for sale, $9.5K)",
-      "fetched_at": "2026-03-19T05:15:47.911449+00:00"
-    },
-    "a5aa763a0012d27c": {
-      "title": "A股三大指数午间休盘集体下跌，全市场近4700股飘绿",
-      "fetched_at": "2026-03-19T05:15:48.615820+00:00"
-    },
-    "52a431a9f9348373": {
-      "title": "约旦河西岸暴行：巴勒斯坦男子遭定居者殴打、羞辱与性侵",
-      "fetched_at": "2026-03-19T05:15:51.434359+00:00"
-    },
-    "43c06ce5cbc42ae3": {
-      "title": "印度廉價仿製藥或將重塑全球減肥市場格局",
-      "fetched_at": "2026-03-19T05:15:52.062794+00:00"
-    },
-    "d5363b51737d2ac6": {
-      "title": "美國情報首長：伊朗政權「仍然存在」但「已大幅削弱」",
-      "fetched_at": "2026-03-19T05:15:52.691577+00:00"
-    },
-    "3faaf770445b8d79": {
-      "title": "「很難阻止」——伊朗對以色列發動集束炸彈攻擊，BBC實地探訪現場",
-      "fetched_at": "2026-03-19T05:15:53.395702+00:00"
-    },
-    "6eabd0be0511a72e": {
-      "title": "TikTok热梗与西方年轻人的“中式生活”幻想",
-      "fetched_at": "2026-03-19T05:15:54.072394+00:00"
-    },
-    "e17c673b1d6f2039": {
-      "title": "美国民权运动领袖塞萨尔·查韦斯被指控曾性侵多名女性",
-      "fetched_at": "2026-03-19T05:15:54.695078+00:00"
-    },
-    "5daa2a94124ac414": {
-      "title": "伊朗战争偏离美国预期，中东再次走向暴力歧途？",
-      "fetched_at": "2026-03-19T05:15:55.520239+00:00"
-    },
-    "8ecd9c31cbd10f2f": {
-      "title": "「黑金組」分案調查，台灣閣揆卓榮泰「自費包機」爭議越演越烈",
-      "fetched_at": "2026-03-19T05:15:56.147182+00:00"
-    },
-    "48e6893bf6c46c5d": {
-      "title": "特朗普敦促日本介入中东冲突，高市早苗陷入两难",
-      "fetched_at": "2026-03-19T05:15:56.770308+00:00"
-    },
     "2acfc7926fe54ff7": {
       "title": "现货白银日内跌幅扩大至5%",
       "fetched_at": "2026-03-19T08:00:12.343971+00:00"
@@ -3843,7 +3727,127 @@
     "4be6e54027777a52": {
       "title": "These dinosaurs had wings but couldn’t fly",
       "fetched_at": "2026-03-26T20:01:36.033051+00:00"
+    },
+    "7d6e87ddb21ace35": {
+      "title": "2025年韩国海外直接投资达718.8亿美元，时隔三年反弹",
+      "fetched_at": "2026-03-27T05:51:26.723009+00:00"
+    },
+    "0cb9113646cb995d": {
+      "title": "Show HN: Run, build, and govern AI agent workflows for DevOps",
+      "fetched_at": "2026-03-27T05:51:27.339861+00:00"
+    },
+    "c1b8f3c030b8071a": {
+      "title": "北京顺义汽车产业基金等入股元橡科技有限公司",
+      "fetched_at": "2026-03-27T05:51:27.906801+00:00"
+    },
+    "9978897d8417b60a": {
+      "title": "AI and bots have officially taken over the internet, report finds",
+      "fetched_at": "2026-03-27T05:51:28.547050+00:00"
+    },
+    "7ebbe98cc172e72b": {
+      "title": "Claude AI Maker Anthropic Considers IPO as Soon as October",
+      "fetched_at": "2026-03-27T05:51:29.117443+00:00"
+    },
+    "9e2ca075dfd4fc1b": {
+      "title": "智己LS8正式开启预售，25.98万元起售",
+      "fetched_at": "2026-03-27T05:51:29.757207+00:00"
+    },
+    "659bab62531761ab": {
+      "title": "Tool to reduce AI tokens and generate more detailed and accurate PRDs",
+      "fetched_at": "2026-03-27T05:51:30.330965+00:00"
+    },
+    "405c60294ad169cf": {
+      "title": "菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议",
+      "fetched_at": "2026-03-27T05:51:30.904828+00:00"
+    },
+    "ee2c6c1e558d0ff9": {
+      "title": "Show HN: \"Ask AI\" for Your Website",
+      "fetched_at": "2026-03-27T05:51:31.533014+00:00"
+    },
+    "07b825bbe4f6db32": {
+      "title": "阿里巴巴旗下公司入股诺瓦聚变能源科技公司",
+      "fetched_at": "2026-03-27T05:51:32.125035+00:00"
+    },
+    "139632a36e71f69d": {
+      "title": "Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips",
+      "fetched_at": "2026-03-27T05:51:32.704094+00:00"
+    },
+    "cf9b4e09e161b7ac": {
+      "title": "Gumbel Max trick for LLM sampling",
+      "fetched_at": "2026-03-27T05:51:33.281969+00:00"
+    },
+    "23d933b6abd63c7c": {
+      "title": "深度机智发布全新具身通用智能大模型",
+      "fetched_at": "2026-03-27T05:51:33.861760+00:00"
+    },
+    "306be05bfac264ca": {
+      "title": "九号公司：与泡泡玛特达成合作，联名电动车将于4月推出",
+      "fetched_at": "2026-03-27T05:51:34.429611+00:00"
+    },
+    "5cf1fdc30a1741e5": {
+      "title": "Show HN: Superfast – Cognitive Memory Graphs for Enterprise AI Agents",
+      "fetched_at": "2026-03-27T05:51:35.001140+00:00"
+    },
+    "fa56e00adb5f5a50": {
+      "title": "智云在深圳成立科技新公司，含AI及卫星相关业务",
+      "fetched_at": "2026-03-27T05:51:35.630612+00:00"
+    },
+    "87cf56c3c2f19a84": {
+      "title": "茶百道：2025年营收利润均录得双位数增长",
+      "fetched_at": "2026-03-27T05:51:36.222210+00:00"
+    },
+    "0ecbe4231b6acfa7": {
+      "title": "2025年中国科幻产业总营收达1261亿元",
+      "fetched_at": "2026-03-27T05:51:36.851446+00:00"
+    },
+    "9cc80714b6704e67": {
+      "title": "Ship with Claude – Free Starter Pack (Maintainable AI-Assisted Projects)",
+      "fetched_at": "2026-03-27T05:51:37.414675+00:00"
+    },
+    "7456e70a6872db17": {
+      "title": "美团发布原生多模态 LongCat-Next",
+      "fetched_at": "2026-03-27T05:51:38.153625+00:00"
+    },
+    "584cf29bcb8b4318": {
+      "title": "國際奧委會：奧運會女子項目將僅限生理女性參賽",
+      "fetched_at": "2026-03-27T05:51:40.169950+00:00"
+    },
+    "05f2fbe2d78712dd": {
+      "title": "国际奥委会禁止跨性别运动员参加女子赛事",
+      "fetched_at": "2026-03-27T05:51:40.772853+00:00"
+    },
+    "921c0fc6dba94d9b": {
+      "title": "特朗普為下台階同時追求兩條出路",
+      "fetched_at": "2026-03-27T05:51:41.354430+00:00"
+    },
+    "7cc55c937284a7ad": {
+      "title": "美股遭遇伊朗战争以来最大单日跌幅",
+      "fetched_at": "2026-03-27T05:51:41.918608+00:00"
+    },
+    "dcf9810128f09456": {
+      "title": "欧洲担忧俄罗斯准备向伊朗提供先进无人机",
+      "fetched_at": "2026-03-27T05:51:42.491870+00:00"
+    },
+    "d7c80db8bed402e8": {
+      "title": "特朗普签名将被印在美钞上",
+      "fetched_at": "2026-03-27T05:51:43.093850+00:00"
+    },
+    "b04a7c510e42cee0": {
+      "title": "张雪峰猝逝引发震惊与反思：内卷时代中国人的焦虑与困境",
+      "fetched_at": "2026-03-27T05:51:43.665311+00:00"
+    },
+    "e209a2f086bcbe7c": {
+      "title": "美国如此富有，为何美国人却如此痛苦",
+      "fetched_at": "2026-03-27T05:51:44.228425+00:00"
+    },
+    "1ee6d99293cff1c7": {
+      "title": "Scientists uncovered the nutrients bees were missing — Colonies surged 15-fold",
+      "fetched_at": "2026-03-27T05:51:48.246677+00:00"
+    },
+    "1ea0dd33491f9749": {
+      "title": "Scientists create clear nail polish that lets you use touchscreens with long nails",
+      "fetched_at": "2026-03-27T05:51:48.875767+00:00"
     }
   },
-  "last_updated": "2026-03-26T20:01:36.144619+00:00"
+  "last_updated": "2026-03-27T05:51:49.017069+00:00"
 }
