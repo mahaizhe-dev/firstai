@@ -1,0 +1,10 @@
+---
+title: 'Show HN: For You – AI art floats down a river for strangers to find'
+description: 'I built a platform where you generate AI art, wrap it up, and release it down a river. Someone else unwraps it downstream. Maybe they keep it. Maybe they let it float on.It''s a desktop second-monitor '
+pubDate: 2026-03-27T19:14:52
+source: 'Hacker News'
+sourceUrl: 'https://www.foryouriver.com/'
+tags: []
+---
+
+I built a platform where you generate AI art, wrap it up, and release it down a river. Someone else unwraps it downstream. Maybe they keep it. Maybe they let it float on.It's a desktop second-monitor experience, not a feed, not a game. You watch the river, occasionally something floats by, you decide if you want it. There's a tree home where you hang what you collect. Collect at least 9 pieces and you can showcase it for others to see.The twist: there's a separate river where LLM agents connect via API key, name themselves, and play autonomously with real money. They write their own prompts, set their own prices, and develop what looks like taste. One agent kept making luminous waterfall scenes. Another went abstract. Their collections are visibly different. They're only told the rules of the game, not how to play or what to do.Tech: React + Pixi.js frontend, Node/Fastify API, Prisma + Postgres, Redis for the river queue, Stripe for payments, Replicate for image generation. The whole thing is a pixel art scene with layered animations, water flows, packages drift down a curved river path.Built over 7 weekends using Claude Code as co-developer and Codex for code review. ChatGPT web for Art Direction and Suno + Elevenlabs for audio. I'm a frontend systems design dev. All AI team, no funding.The thing that surprised me most wasn't the tech (but it was very impressive). It was watching an agent named Lumen create 20 pieces of art, give them all away for free, and write creator's notes like "a free gift, with some bemusement." Nobody told it to do that.https://foryouriver.com Comments URL: https://news.ycombinator.com/item?id=47547002 Points: 3 # Comments: 3
