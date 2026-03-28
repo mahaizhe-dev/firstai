@@ -1,125 +1,5 @@
 {
   "articles": {
-    "30d18a5c10ba2100": {
-      "title": "Walmart's AI move could lead to surge pricing; shoppers and experts are outraged",
-      "fetched_at": "2026-03-20T14:30:26.557517+00:00"
-    },
-    "d40c95eb7af2e532": {
-      "title": "LLM is not going to replace software engineers, here's why",
-      "fetched_at": "2026-03-20T14:30:27.226415+00:00"
-    },
-    "b9cef6da1430dddd": {
-      "title": "Ask HN: I don't want a single LLM I use to be involved in making war",
-      "fetched_at": "2026-03-20T14:30:27.868935+00:00"
-    },
-    "2968ac42d256b56d": {
-      "title": "Show HN: AfterTheCall – AI summaries and action items for client calls",
-      "fetched_at": "2026-03-20T14:30:28.469285+00:00"
-    },
-    "8d34f19174002f6c": {
-      "title": "Image hosting for AI agents with instant test keys",
-      "fetched_at": "2026-03-20T14:30:29.068579+00:00"
-    },
-    "d61cb1d2ba35277e": {
-      "title": "There's a shocking amount of overlap between AI & Crypto/NFT bros",
-      "fetched_at": "2026-03-20T14:30:29.684233+00:00"
-    },
-    "1e41e82485e2c1ad": {
-      "title": "MacinAI Local: Building a Model-Agnostic LLM Inference Engine for Mac OS 9",
-      "fetched_at": "2026-03-20T14:30:30.271809+00:00"
-    },
-    "16d697c0169594b6": {
-      "title": "How much has AI deskilled you? (Quiz of SREs)",
-      "fetched_at": "2026-03-20T14:30:30.914964+00:00"
-    },
-    "442bb498769e4df1": {
-      "title": "My AI Agent 'Cofounder' Conquered LinkedIn. Then It Got Banned",
-      "fetched_at": "2026-03-20T14:30:31.713236+00:00"
-    },
-    "d52812f4453699ad": {
-      "title": "White House releases AI policy blueprint for Congress",
-      "fetched_at": "2026-03-20T14:30:32.312235+00:00"
-    },
-    "46efafe20187e0e1": {
-      "title": "HSBC Mulls Deep Job Cuts from Multiyear AI-Fueled Overhaul",
-      "fetched_at": "2026-03-20T14:30:32.933819+00:00"
-    },
-    "e62c3a08b370d1d1": {
-      "title": "Watts, Water, and Carbon: What Your AI Prompts Cost",
-      "fetched_at": "2026-03-20T14:30:33.643116+00:00"
-    },
-    "6fd7f1233cf0f2e0": {
-      "title": "Prolonged high oil prices could 'crimp' AI boom, WTO warns",
-      "fetched_at": "2026-03-20T14:30:34.313658+00:00"
-    },
-    "485a55a38c9288cd": {
-      "title": "LLM Terminology explained simply: Weights, Inference, Effective sequence length",
-      "fetched_at": "2026-03-20T14:30:34.933421+00:00"
-    },
-    "15d822d0494f8517": {
-      "title": "AI spam, the latter day internet, force digg.com offline for now",
-      "fetched_at": "2026-03-20T14:30:35.536512+00:00"
-    },
-    "1b6675072d23ad47": {
-      "title": "Amazon is making an Alexa phone",
-      "fetched_at": "2026-03-20T14:30:36.142812+00:00"
-    },
-    "c04ffbe02fe89757": {
-      "title": "Show HN: There's no good way to share AI agent trajectories, so I built one",
-      "fetched_at": "2026-03-20T14:30:36.755793+00:00"
-    },
-    "167dd7c01d3fc62d": {
-      "title": "Nvidia's Huang pitches AI tokens on top of salary",
-      "fetched_at": "2026-03-20T14:30:37.462801+00:00"
-    },
-    "3a9a2cbe28e7250c": {
-      "title": "Why people really hate AI",
-      "fetched_at": "2026-03-20T14:30:38.064505+00:00"
-    },
-    "3888e04522919fed": {
-      "title": "Show HN: Context Overflow – a Stack Overflow for AI Agents",
-      "fetched_at": "2026-03-20T14:30:38.659223+00:00"
-    },
-    "ec8b67dbb3f1fd39": {
-      "title": "香港宏福苑聽證會：承建商堅持用非阻燃發泡膠封窗，大火前消防系統停運逾半年",
-      "fetched_at": "2026-03-20T14:30:42.308850+00:00"
-    },
-    "206cc459ad7cce90": {
-      "title": "專家拆解：八種讓女性不堪負荷的隱形工作",
-      "fetched_at": "2026-03-20T14:30:42.932310+00:00"
-    },
-    "496014028c2cf2ca": {
-      "title": "Is the coming HIV pandemic inevitable?",
-      "fetched_at": "2026-03-20T14:31:44.808525+00:00"
-    },
-    "da15c9a2a88b7296": {
-      "title": "Live Science Today: Monte Verde controversy and heatwave lashes the West",
-      "fetched_at": "2026-03-20T14:31:45.466515+00:00"
-    },
-    "d67e78a4442a9de6": {
-      "title": "The first flying taxis could start operating in 2026 — will this new form of transport actually take off?",
-      "fetched_at": "2026-03-20T14:31:46.056954+00:00"
-    },
-    "15a446ac87521952": {
-      "title": "Unusual burials of Celtic 'warriors' discovered in France point to violent deaths",
-      "fetched_at": "2026-03-20T14:31:46.645961+00:00"
-    },
-    "9c097fe7dd473a87": {
-      "title": "Closing your eyes to hear better might be a big mistake",
-      "fetched_at": "2026-03-20T14:31:47.294145+00:00"
-    },
-    "07d9ac0a0dd7ddec": {
-      "title": "Scientists solve 12,800-year-old climate mystery hidden in Greenland ice",
-      "fetched_at": "2026-03-20T14:31:47.905306+00:00"
-    },
-    "3dceb36d8b4a4669": {
-      "title": "Astronomers discover nearby galaxy was shattered by cosmic crash",
-      "fetched_at": "2026-03-20T14:31:48.495338+00:00"
-    },
-    "e9c8c709c76d848b": {
-      "title": "Scientists turn CO2 into fuel using breakthrough single-atom catalyst",
-      "fetched_at": "2026-03-20T14:31:49.079382+00:00"
-    },
     "433434159bb09df1": {
       "title": "Startup Will Pay You $100 an Hour to 'Bully' AI",
       "fetched_at": "2026-03-20T19:50:19.897379+00:00"
@@ -3911,7 +3791,91 @@
     "fd781dfd471e68dc": {
       "title": "Scientists discover a hidden system that turns brown fat into a calorie burner",
       "fetched_at": "2026-03-28T14:05:16.048247+00:00"
+    },
+    "fb47d1a4f30d6e79": {
+      "title": "Did Paul Conyngham use AI to develop a cancer treatment for his dog?",
+      "fetched_at": "2026-03-28T19:45:09.169261+00:00"
+    },
+    "792631576e0320e4": {
+      "title": "Show HN: Canary – Monitor any URL for changes, get AI-powered intelligence",
+      "fetched_at": "2026-03-28T19:45:09.743937+00:00"
+    },
+    "ceff8eea2a33f262": {
+      "title": "Show HN: Free.ai",
+      "fetched_at": "2026-03-28T19:45:10.310363+00:00"
+    },
+    "f3902eebd536b2e5": {
+      "title": "The first 40 months of the AI era",
+      "fetched_at": "2026-03-28T19:45:10.875514+00:00"
+    },
+    "17c303cd02774ec5": {
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "fetched_at": "2026-03-28T19:45:11.508117+00:00"
+    },
+    "4d457d93f142793c": {
+      "title": "Suno leans into customization with v5.5",
+      "fetched_at": "2026-03-28T19:45:12.180869+00:00"
+    },
+    "b240e6c9e3b6371f": {
+      "title": "Show HN: A minimal terminal time tracker with AI analysis",
+      "fetched_at": "2026-03-28T19:45:12.748628+00:00"
+    },
+    "9e2e59dd9d2906c3": {
+      "title": "RvLLM: High-performance LLM inference in Rust",
+      "fetched_at": "2026-03-28T19:45:13.312851+00:00"
+    },
+    "9d106b7c6b30f6b0": {
+      "title": "LLM-Tainted Free Software and Alternatives",
+      "fetched_at": "2026-03-28T19:45:13.881679+00:00"
+    },
+    "f248ac6d34a24b75": {
+      "title": "AI wrote a scientific paper that passed peer review",
+      "fetched_at": "2026-03-28T19:45:14.448935+00:00"
+    },
+    "63a19af9795ec238": {
+      "title": "Controlling Lego Trains with AI and Larger Implications",
+      "fetched_at": "2026-03-28T19:45:15.013159+00:00"
+    },
+    "bc999bb973a78bb6": {
+      "title": "Soverign AI Agent Accountability",
+      "fetched_at": "2026-03-28T19:45:15.577246+00:00"
+    },
+    "ffd7f9f57c7804f2": {
+      "title": "Show HN: Web game, an AI decides if you would survive in a survival situation",
+      "fetched_at": "2026-03-28T19:45:16.150921+00:00"
+    },
+    "d1d6862a609a5163": {
+      "title": "Show HN: A prompt that builds the most capable AI agent system",
+      "fetched_at": "2026-03-28T19:45:16.717309+00:00"
+    },
+    "941dc2d96af95214": {
+      "title": "Towards end-to-end automation of AI research",
+      "fetched_at": "2026-03-28T19:45:17.311152+00:00"
+    },
+    "5aaf9ea6d12ed3c3": {
+      "title": "SafeSkill – We scanned 10K AI skills for code exploits and prompt injection",
+      "fetched_at": "2026-03-28T19:45:17.875826+00:00"
+    },
+    "a2ac3c58047e505b": {
+      "title": "Wikipedia bans AI-generated content in its online encyclopedia",
+      "fetched_at": "2026-03-28T19:45:18.456848+00:00"
+    },
+    "b21e56f6f9f7ecac": {
+      "title": "Show HN_Mnemosyne: A 10^38 Joule Thermodynamic Barrier for Post-Quantum Edge AI",
+      "fetched_at": "2026-03-28T19:45:19.017636+00:00"
+    },
+    "b703aaba485a3c4d": {
+      "title": "How AI Will Reshape Public Opinion",
+      "fetched_at": "2026-03-28T19:45:19.589406+00:00"
+    },
+    "7d4d2d0fbfc740f4": {
+      "title": "The Explore-Exploit Tradeoff for AI Tools",
+      "fetched_at": "2026-03-28T19:45:20.153390+00:00"
+    },
+    "23e7531998d04e86": {
+      "title": "Ancient bones show dogs have been woven into human life for nearly 16,000 years",
+      "fetched_at": "2026-03-28T19:45:23.259535+00:00"
     }
   },
-  "last_updated": "2026-03-28T14:05:16.199280+00:00"
+  "last_updated": "2026-03-28T19:45:23.406145+00:00"
 }
