@@ -1,89 +1,5 @@
 {
   "articles": {
-    "9c3fe04883e274a8": {
-      "title": "南向资金净卖出额达200亿港元",
-      "fetched_at": "2026-03-20T07:58:59.175863+00:00"
-    },
-    "8b2265f13ac07bdb": {
-      "title": "山大电力：目前公司暂未涉及AI数据中心领域",
-      "fetched_at": "2026-03-20T07:58:59.935319+00:00"
-    },
-    "5ae05213730e407e": {
-      "title": "南向资金净卖出额达150亿港元",
-      "fetched_at": "2026-03-20T07:59:00.516808+00:00"
-    },
-    "5ff8c6e6c4dd8117": {
-      "title": "Does an LLM Trained on Epstein's Voice Make Better Deals?",
-      "fetched_at": "2026-03-20T07:59:01.098818+00:00"
-    },
-    "81242b89bc282dc4": {
-      "title": "国家医保局：按病种付费分组方案3.0版预计今年7月发布",
-      "fetched_at": "2026-03-20T07:59:01.686374+00:00"
-    },
-    "fa669e4051b837b1": {
-      "title": "字节超60亿美元出售沐瞳科技，进一步聚焦AI战略",
-      "fetched_at": "2026-03-20T07:59:02.360903+00:00"
-    },
-    "7d6bccfbac6223d6": {
-      "title": "海利生物：控股子公司可吸收胶原膜获越南医疗器械注册证",
-      "fetched_at": "2026-03-20T07:59:02.935390+00:00"
-    },
-    "5bcf6d0b8eb67108": {
-      "title": "Best Resource AI",
-      "fetched_at": "2026-03-20T07:59:03.518225+00:00"
-    },
-    "72363d9030687118": {
-      "title": "Show HN: Memoria – Snapshot, branch, and rollback for AI agent memory",
-      "fetched_at": "2026-03-20T07:59:04.197436+00:00"
-    },
-    "b51cff6b5c0019de": {
-      "title": "市场监管总局：正推进外卖平台服务行业市场竞争状况调查评估工作",
-      "fetched_at": "2026-03-20T07:59:04.787413+00:00"
-    },
-    "62dc19d9a2c40e48": {
-      "title": "联想：F25/26财年第三财季天禧AI在联想AI PC、AI手机的平均用户周活率分别达42%和61%",
-      "fetched_at": "2026-03-20T07:59:05.365759+00:00"
-    },
-    "eb7024b45f3f7b72": {
-      "title": "特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元",
-      "fetched_at": "2026-03-20T07:59:06.081042+00:00"
-    },
-    "49f45d17a0952a82": {
-      "title": "Show HN: I built an AI agent that does marketing for my apps",
-      "fetched_at": "2026-03-20T07:59:06.748518+00:00"
-    },
-    "44116a093c7ec94b": {
-      "title": "南向资金净卖出额达100亿港元",
-      "fetched_at": "2026-03-20T07:59:06.748643+00:00"
-    },
-    "be58e4ed39bbe7ef": {
-      "title": "西贝旗下湖南西贝凤兰餐饮管理公司高管变更",
-      "fetched_at": "2026-03-20T07:59:07.337930+00:00"
-    },
-    "8f930aecfa4211f1": {
-      "title": "Why Your AI Agent Needs a Proxy",
-      "fetched_at": "2026-03-20T07:59:07.983388+00:00"
-    },
-    "e382e7e2707970cf": {
-      "title": "信通电子：目前没有算电协同方面的项目，对该业务会保持密切关注",
-      "fetched_at": "2026-03-20T07:59:08.644835+00:00"
-    },
-    "93b165554c3a1b88": {
-      "title": "卧安机器人全资子公司等投资成立科技新公司",
-      "fetched_at": "2026-03-20T07:59:09.235593+00:00"
-    },
-    "b5468713f1af7216": {
-      "title": "日本计划到2030年引入AI机器人用于安保、废弃物处理等场景",
-      "fetched_at": "2026-03-20T07:59:09.836547+00:00"
-    },
-    "b011c55a5fb4055b": {
-      "title": "恒生科技指数跌幅扩大至3%",
-      "fetched_at": "2026-03-20T07:59:10.501185+00:00"
-    },
-    "7ebc98970f9a6a17": {
-      "title": "解碼特朗普貼文：美國與以色列在伊朗戰爭上步調一致嗎？",
-      "fetched_at": "2026-03-20T07:59:14.093180+00:00"
-    },
     "30d18a5c10ba2100": {
       "title": "Walmart's AI move could lead to surge pricing; shoppers and experts are outraged",
       "fetched_at": "2026-03-20T14:30:26.557517+00:00"
@@ -3871,7 +3787,131 @@
     "04a89834a9c470f6": {
       "title": "喜临门：控股子公司1亿元资金被非法划转 9亿元账户被保护性冻结",
       "fetched_at": "2026-03-28T07:56:50.211897+00:00"
+    },
+    "26488d52a2bd5b10": {
+      "title": "TikTok&#8217;s policy for AI ads isn&#8217;t working",
+      "fetched_at": "2026-03-28T14:02:36.945801+00:00"
+    },
+    "097b1a9cbffd9c25": {
+      "title": "Show HN: OpenChat – Syncing conversations across AI providers",
+      "fetched_at": "2026-03-28T14:02:37.584691+00:00"
+    },
+    "fc35a42b32205800": {
+      "title": "TLA+ in support of AI code generation",
+      "fetched_at": "2026-03-28T14:02:38.681218+00:00"
+    },
+    "5baf0f45a35d6807": {
+      "title": "Lyria 3 Pro – AI Music Generator from Text Prompts",
+      "fetched_at": "2026-03-28T14:02:39.277965+00:00"
+    },
+    "05b9f0711392cbc1": {
+      "title": "AI struggles more with philosophy than math or reasoning – data shows",
+      "fetched_at": "2026-03-28T14:02:39.880084+00:00"
+    },
+    "b31d27464d694e2f": {
+      "title": "Value Drifts: Tracing Value Alignment During LLM Post-Training",
+      "fetched_at": "2026-03-28T14:02:40.540029+00:00"
+    },
+    "e9d07016e3585a36": {
+      "title": "I am selling my AI image app",
+      "fetched_at": "2026-03-28T14:02:41.124958+00:00"
+    },
+    "bd915e93f9161656": {
+      "title": "The Decadelong Feud Shaping the Future of AI",
+      "fetched_at": "2026-03-28T14:02:41.724379+00:00"
+    },
+    "046e68b54797c490": {
+      "title": "When AI Takes My Job (Whenaitakesmyjob.work)",
+      "fetched_at": "2026-03-28T14:02:42.316565+00:00"
+    },
+    "8904e2c91989a20a": {
+      "title": "Social media is populist and polarising; AI may be the opposite",
+      "fetched_at": "2026-03-28T14:02:42.916648+00:00"
+    },
+    "6c8e797afd0f4f04": {
+      "title": "AI Can Fuel Overconfidence in Bad Relationship Decisions",
+      "fetched_at": "2026-03-28T14:02:43.504154+00:00"
+    },
+    "d22fcfe81a758f19": {
+      "title": "The rise of 'social offloading'–when AI replaces your boss's empathy",
+      "fetched_at": "2026-03-28T14:02:44.140370+00:00"
+    },
+    "a9eeb03192e524eb": {
+      "title": "Why OpenAI killed Sora",
+      "fetched_at": "2026-03-28T14:02:44.939195+00:00"
+    },
+    "e0df192c2cea4592": {
+      "title": "Visuali (Updated): A workspace to create and edit with AI on a infinite canvas",
+      "fetched_at": "2026-03-28T14:02:45.531411+00:00"
+    },
+    "b9469ac1c4e49a88": {
+      "title": "Fired from Warhorse Studios and Replaced with AI",
+      "fetched_at": "2026-03-28T14:02:46.134345+00:00"
+    },
+    "8fb28d251828af6b": {
+      "title": "Semiont: Build a Knowledge Base Collaboratively with AI",
+      "fetched_at": "2026-03-28T14:02:46.751661+00:00"
+    },
+    "41a132cd50331d23": {
+      "title": "From the TI-57 to AI: A Veteran's Methodology for \"Not Vibe Coding\"",
+      "fetched_at": "2026-03-28T14:02:47.394117+00:00"
+    },
+    "657a37a5cd12e8f6": {
+      "title": "Machine Learning for Android Engineers",
+      "fetched_at": "2026-03-28T14:02:47.989057+00:00"
+    },
+    "5e8bbb02b8faf17c": {
+      "title": "7-Eleven将在日本推出手机下单门店取货服务",
+      "fetched_at": "2026-03-28T14:02:48.596688+00:00"
+    },
+    "66fdc527c587b0b1": {
+      "title": "Alex Karp says only trade workers and neurodivergents will survive in the AI era",
+      "fetched_at": "2026-03-28T14:02:49.252796+00:00"
+    },
+    "b319a119cfeae504": {
+      "title": "「沒人幫忙媽媽會瘋掉」——台灣放寬外傭門檻，能解救誰？",
+      "fetched_at": "2026-03-28T14:02:51.748787+00:00"
+    },
+    "9000b7ffd3986214": {
+      "title": "Top 5 health and fitness products to buy during spring sales (and 2 to skip)",
+      "fetched_at": "2026-03-28T14:05:10.224377+00:00"
+    },
+    "4167aadd4b1daaea": {
+      "title": "A gut microbe linked to the Mediterranean diet boosts muscle strength in mice",
+      "fetched_at": "2026-03-28T14:05:10.823851+00:00"
+    },
+    "7028b1fd05f0cafc": {
+      "title": "Science news this week: NASA announces nuclear rocket, space reproduction proves difficult, and why weed gives people the munchies",
+      "fetched_at": "2026-03-28T14:05:11.433078+00:00"
+    },
+    "74c52105230d3e78": {
+      "title": "How to catch the full 'Pink Moon' in April followed by a 'Blue Moon' in May",
+      "fetched_at": "2026-03-28T14:05:12.053471+00:00"
+    },
+    "58666ea3ac19a122": {
+      "title": "Why does cannabis give people 'the munchies'?",
+      "fetched_at": "2026-03-28T14:05:12.674810+00:00"
+    },
+    "b428952f3f70b601": {
+      "title": "This new carbon material could make carbon capture far more affordable",
+      "fetched_at": "2026-03-28T14:05:13.286728+00:00"
+    },
+    "ce36b9d86a380aa9": {
+      "title": "After 20 years, scientists finally explain the Crab Pulsar’s strange “zebra stripes”",
+      "fetched_at": "2026-03-28T14:05:13.963236+00:00"
+    },
+    "48c95934297e6ba5": {
+      "title": "Popular sugar substitute linked to brain damage and stroke risk",
+      "fetched_at": "2026-03-28T14:05:14.620663+00:00"
+    },
+    "6faaf279396f19c5": {
+      "title": "Scientists discover why your appetite suddenly disappears when you’re sick",
+      "fetched_at": "2026-03-28T14:05:15.447074+00:00"
+    },
+    "fd781dfd471e68dc": {
+      "title": "Scientists discover a hidden system that turns brown fat into a calorie burner",
+      "fetched_at": "2026-03-28T14:05:16.048247+00:00"
     }
   },
-  "last_updated": "2026-03-28T07:56:53.707185+00:00"
+  "last_updated": "2026-03-28T14:05:16.199280+00:00"
 }
