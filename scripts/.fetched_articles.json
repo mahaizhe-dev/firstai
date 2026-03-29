@@ -1,93 +1,5 @@
 {
   "articles": {
-    "4d7a47032df13c48": {
-      "title": "马斯克：Optimus+PV将是首个冯诺依曼探测器",
-      "fetched_at": "2026-03-21T07:46:23.683335+00:00"
-    },
-    "a805963b178b5dad": {
-      "title": "Man pleads guilty to $8M AI-generated music scheme",
-      "fetched_at": "2026-03-21T07:46:24.334695+00:00"
-    },
-    "83bae1d5266b49c4": {
-      "title": "Getlamina.ai – Tools for Building",
-      "fetched_at": "2026-03-21T07:46:25.110501+00:00"
-    },
-    "69d8a5cbe7cf6efe": {
-      "title": "Been There, Done That – A History of Replacing Schools with AI",
-      "fetched_at": "2026-03-21T07:46:25.692123+00:00"
-    },
-    "68d7d02fa87dd8f4": {
-      "title": "雷军官宣：XiaomiMiMo首周限免开放",
-      "fetched_at": "2026-03-21T07:46:26.292673+00:00"
-    },
-    "fd66ec7fabd994b4": {
-      "title": "百度网盘GenFlow全新升级，融合OpenClaw，支持多人AI协作",
-      "fetched_at": "2026-03-21T07:46:26.877420+00:00"
-    },
-    "2ed6c1643ad4038a": {
-      "title": "美药管局在全美召回近9万瓶儿童布洛芬药物",
-      "fetched_at": "2026-03-21T07:46:27.458284+00:00"
-    },
-    "a8abbc67fc38256a": {
-      "title": "DIY AI-powered robot arm",
-      "fetched_at": "2026-03-21T07:46:28.060037+00:00"
-    },
-    "3b2b30d1efd544d5": {
-      "title": "Show HN: Elastik – treating LLM as an HTTP client in less than 200 lines of code",
-      "fetched_at": "2026-03-21T07:46:28.724882+00:00"
-    },
-    "7350ad87625fdd20": {
-      "title": "KuraiMusik – A 24/7 AI Radio Orchestrated with AI, Python and Liquidsoap",
-      "fetched_at": "2026-03-21T07:46:29.307047+00:00"
-    },
-    "da12236284b781bb": {
-      "title": "Is AI Making Us Stupid? Cal Newport Is Worried",
-      "fetched_at": "2026-03-21T07:46:29.909552+00:00"
-    },
-    "55dc96338f986804": {
-      "title": "Show HN: Use AI to find customers who have intent to buy your product",
-      "fetched_at": "2026-03-21T07:46:30.583246+00:00"
-    },
-    "83488b635411d0d4": {
-      "title": "Ask HN: Are AI mandates a good idea?",
-      "fetched_at": "2026-03-21T07:46:31.156287+00:00"
-    },
-    "f49bd345081a7019": {
-      "title": "软银计划在俄亥俄建设5000亿美元的巨型AI数据中心",
-      "fetched_at": "2026-03-21T07:46:31.728812+00:00"
-    },
-    "9355885fbf4129ef": {
-      "title": "苹果CEO库克：新款Mac吸引了创纪录的首购客户",
-      "fetched_at": "2026-03-21T07:46:32.475333+00:00"
-    },
-    "5c322e3a19aef4a1": {
-      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
-      "fetched_at": "2026-03-21T07:46:33.078576+00:00"
-    },
-    "505766385ed44591": {
-      "title": "华泰证券：油、气处理量下降导致硫磺供给缺口，多方面冲击化工及金属",
-      "fetched_at": "2026-03-21T07:46:33.656069+00:00"
-    },
-    "13cdf996bb39e866": {
-      "title": "9点1氪：傅盛凌晨开撕周鸿祎称“被欠1个亿”，360回应；字节跳动413亿元卖掉沐瞳科技；伊朗战事持续或致油价升至180美元",
-      "fetched_at": "2026-03-21T07:46:34.232467+00:00"
-    },
-    "85ee0a43607f9ef5": {
-      "title": "马斯克被裁定在440亿美元收购案的欺诈诉讼中对Twitter股东负责",
-      "fetched_at": "2026-03-21T07:46:34.822239+00:00"
-    },
-    "15ebc409c430368e": {
-      "title": "美股三大指数集体收跌，小鹏汽车跌超8%",
-      "fetched_at": "2026-03-21T07:46:35.396672+00:00"
-    },
-    "de27b65a88e4cd41": {
-      "title": "伊朗戰爭激化：中國有何盤算？如何影響習特會談？",
-      "fetched_at": "2026-03-21T07:46:37.952749+00:00"
-    },
-    "fe5b30270c0559ee": {
-      "title": "Scientists turn probiotic bacteria into tumor-hunting cancer killers",
-      "fetched_at": "2026-03-21T07:46:40.537796+00:00"
-    },
     "8b97b9d20c538415": {
       "title": "How Will AI Affect the US Labor Market?",
       "fetched_at": "2026-03-21T13:54:26.057294+00:00"
@@ -3731,7 +3643,95 @@
     "9c097fe7dd473a87": {
       "title": "Closing your eyes to hear better might be a big mistake",
       "fetched_at": "2026-03-29T05:53:43.273617+00:00"
+    },
+    "a2dd4d5db9e7e73e": {
+      "title": "上海二手房单日成交1585套创近5年新高，业内人士：市场在明显回暖",
+      "fetched_at": "2026-03-29T08:01:54.379180+00:00"
+    },
+    "c5e2da6e4f2dd7d1": {
+      "title": "中国石油：2025年净利润同比下降4.5%，拟每股派发现金红利0.25元",
+      "fetched_at": "2026-03-29T08:01:55.016701+00:00"
+    },
+    "9701cc0a73addbb4": {
+      "title": "Ask HN: Non-AI, engineering blogs? 2026",
+      "fetched_at": "2026-03-29T08:01:55.638486+00:00"
+    },
+    "c19e94aac0c35ff6": {
+      "title": "Show HN: Liter-LLM, Universal LLM client in Rust with bindings for 11 languages",
+      "fetched_at": "2026-03-29T08:01:56.249389+00:00"
+    },
+    "03ff41213fd57c90": {
+      "title": "华创证券：四重维度透视中国宽基指数的“中游制造”成色",
+      "fetched_at": "2026-03-29T08:01:56.866387+00:00"
+    },
+    "e99eda7d562cdb7d": {
+      "title": "Iran's propaganda machine trolls Trump",
+      "fetched_at": "2026-03-29T08:01:57.541949+00:00"
+    },
+    "4dcc0ec60c16ff0d": {
+      "title": "上交所：着力构建“长钱长投”生态，聚力增强市场内在韧性",
+      "fetched_at": "2026-03-29T08:01:58.167590+00:00"
+    },
+    "d442a93010eee9cb": {
+      "title": "宇树科技王兴兴：具身智能GPT时刻大概还需两到三年",
+      "fetched_at": "2026-03-29T08:01:58.771949+00:00"
+    },
+    "923b6f2c99426d77": {
+      "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
+      "fetched_at": "2026-03-29T08:01:59.390722+00:00"
+    },
+    "480dddcd0e52c6fc": {
+      "title": "外卖平台Just Eat母公司：目标在2030年前实现年订单量增长20%",
+      "fetched_at": "2026-03-29T08:02:00.002353+00:00"
+    },
+    "84589412c43389ad": {
+      "title": "Ask HN: Why isn't using AI in production considered stupid?",
+      "fetched_at": "2026-03-29T08:02:00.606665+00:00"
+    },
+    "442fcee3ba205511": {
+      "title": "本周泡泡玛特获南向资金净买入超36亿港元",
+      "fetched_at": "2026-03-29T08:02:01.306505+00:00"
+    },
+    "0e8bf68abe5661e3": {
+      "title": "Mr. Chatterbox is an LLM trained exclusively on Victorian-era British texts",
+      "fetched_at": "2026-03-29T08:02:01.978336+00:00"
+    },
+    "dc7f048355ad0c94": {
+      "title": "印度拟新建100个机场和200个直升机停机坪",
+      "fetched_at": "2026-03-29T08:02:02.607748+00:00"
+    },
+    "5833d50dfddc43c4": {
+      "title": "AI Hot Takes from a Platform Engineer / SRE",
+      "fetched_at": "2026-03-29T08:02:03.255847+00:00"
+    },
+    "ae469edb35b188bb": {
+      "title": "澳大利亚摩根士丹利科技、媒体与通信（TMT）业务主管已辞职",
+      "fetched_at": "2026-03-29T08:02:03.885495+00:00"
+    },
+    "0b4f51cd43250843": {
+      "title": "Can AI Exit Vim?",
+      "fetched_at": "2026-03-29T08:02:04.510735+00:00"
+    },
+    "6830f621502843d1": {
+      "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
+      "fetched_at": "2026-03-29T08:02:05.237797+00:00"
+    },
+    "120db4e7796d7af7": {
+      "title": "Show HN: Anamnesis – Open-source 4D strategic memory engine for AI agents",
+      "fetched_at": "2026-03-29T08:02:05.866755+00:00"
+    },
+    "0c7033540a8db4c9": {
+      "title": "Ask HN: How are you keeping AI coding agents from burning money?",
+      "fetched_at": "2026-03-29T08:02:06.513683+00:00"
+    },
+    "5dcdcc775e6258f6": {
+      "title": "我與母親逃離了朝鮮，如今害怕她會被中國遣返",
+      "fetched_at": "2026-03-29T08:02:09.200553+00:00"
+    },
+    "6d97594b3c884777": {
+      "title": "國際奧委會：奧運女子項目將僅限生理女性參賽",
+      "fetched_at": "2026-03-29T08:02:09.810117+00:00"
     }
   },
-  "last_updated": "2026-03-29T05:53:43.413602+00:00"
+  "last_updated": "2026-03-29T08:02:18.216463+00:00"
 }
