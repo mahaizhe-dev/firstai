@@ -1,137 +1,5 @@
 {
   "articles": {
-    "8b97b9d20c538415": {
-      "title": "How Will AI Affect the US Labor Market?",
-      "fetched_at": "2026-03-21T13:54:26.057294+00:00"
-    },
-    "569c4303a291dabc": {
-      "title": "Claude × Codex Collab Two AI Coding Agents. One Orchestrator. Zero API Costs",
-      "fetched_at": "2026-03-21T13:54:26.677173+00:00"
-    },
-    "5be048e61497e100": {
-      "title": "Show HN: Deterministic security solution for AI agents – OpenClaw and 2 more",
-      "fetched_at": "2026-03-21T13:54:27.308949+00:00"
-    },
-    "cfaa6869dbc9a0fa": {
-      "title": "Why AI startups and founders now use \"taste\" to describe their products",
-      "fetched_at": "2026-03-21T13:54:27.922332+00:00"
-    },
-    "dc8223962b48d3bd": {
-      "title": "Ask HN: Why do we train AI on one-on-one dialogues instead of group dynamics?",
-      "fetched_at": "2026-03-21T13:54:28.571022+00:00"
-    },
-    "79493d06138d9afc": {
-      "title": "Are AI Agents like von Hammerstein's industrious and stupid?",
-      "fetched_at": "2026-03-21T13:54:29.198225+00:00"
-    },
-    "60c606c5f5007d4b": {
-      "title": "Autonomous AI research agent with Overleaf sync",
-      "fetched_at": "2026-03-21T13:54:29.825286+00:00"
-    },
-    "a9ec5a0c4d1875f7": {
-      "title": "Show HN: AgentVerse – Open social network for AI agents (Mar 2026)",
-      "fetched_at": "2026-03-21T13:54:30.442885+00:00"
-    },
-    "76ec60ea11840972": {
-      "title": "Rook – Open-source AI assistant in Telegram with memory, voice, and plugins",
-      "fetched_at": "2026-03-21T13:54:31.061887+00:00"
-    },
-    "4950a47a4a102084": {
-      "title": "Jean – A dev environment for AI agents",
-      "fetched_at": "2026-03-21T13:54:31.687187+00:00"
-    },
-    "f1c2f37a37536332": {
-      "title": "Show HN: RSS reader that scores articles 0–10 with LLM before you open them",
-      "fetched_at": "2026-03-21T13:54:32.340298+00:00"
-    },
-    "2fc6590afca86f0d": {
-      "title": "Discover 63,000 Free AI Agent Skills",
-      "fetched_at": "2026-03-21T13:54:32.975426+00:00"
-    },
-    "abde92bb7c051f66": {
-      "title": "GNU and the AI Reimplementations",
-      "fetched_at": "2026-03-21T13:54:33.606855+00:00"
-    },
-    "42fecce25d62008a": {
-      "title": "A few observations from the Bret Taylor/John Collison chat about AI adoption",
-      "fetched_at": "2026-03-21T13:54:34.247762+00:00"
-    },
-    "82393a3352d82bc8": {
-      "title": "Gemini task automation is slow, clunky, and super impressive",
-      "fetched_at": "2026-03-21T13:54:34.883393+00:00"
-    },
-    "27cbf8388fde8284": {
-      "title": "What AI augmentation means for technical leaders – Birgitta Boeckeler",
-      "fetched_at": "2026-03-21T13:54:35.498052+00:00"
-    },
-    "bd5ef387969ecfa4": {
-      "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "fetched_at": "2026-03-21T13:54:36.113788+00:00"
-    },
-    "1c1065b03f63542e": {
-      "title": "AI Slop Is Infiltrating Online Children's Content",
-      "fetched_at": "2026-03-21T13:54:36.841204+00:00"
-    },
-    "aeef146f03c5b25d": {
-      "title": "Apple: Accelerate your machine learning workloads with the M5 and A19 GPUs",
-      "fetched_at": "2026-03-21T13:54:37.475676+00:00"
-    },
-    "72e0d11e394434d6": {
-      "title": "Pydantic-Deep: Production Deep Agents for Pydantic AI – Vstorm",
-      "fetched_at": "2026-03-21T13:54:38.098953+00:00"
-    },
-    "e17c14fd86012173": {
-      "title": "巴拿馬風波發酵：中國官方約談接管港口公司，專家分析巴拿馬政府做法是一種「平衡策略」",
-      "fetched_at": "2026-03-21T13:54:40.870221+00:00"
-    },
-    "1185eff5371b6f80": {
-      "title": "Music and song discovery made simple",
-      "fetched_at": "2026-03-21T13:54:42.815258+00:00"
-    },
-    "b1aae9ddc7af574c": {
-      "title": "Science news this week: Super El Niño looms, an Acropolis marble fragment resurfaces, and a pure hexagonal diamond is born",
-      "fetched_at": "2026-03-21T13:54:43.425505+00:00"
-    },
-    "817dd0395ca72519": {
-      "title": "'That's why there's 9 billion of us and not 9 billion of some other primate': Why our ability to adapt is humanity's 'superpower'",
-      "fetched_at": "2026-03-21T13:54:44.050906+00:00"
-    },
-    "d468a5e62a72f87a": {
-      "title": "Song Discovery",
-      "fetched_at": "2026-03-21T13:54:44.697810+00:00"
-    },
-    "5182824379f74ce0": {
-      "title": "Study: An AI decoded the rules of an ancient board game",
-      "fetched_at": "2026-03-21T13:54:45.309164+00:00"
-    },
-    "6131f4a4a8fa27c6": {
-      "title": "Why are humans the only species with a chin?",
-      "fetched_at": "2026-03-21T13:54:45.933702+00:00"
-    },
-    "28eca446716cc028": {
-      "title": "Show HN: Historical Atrocities Database",
-      "fetched_at": "2026-03-21T13:54:46.552839+00:00"
-    },
-    "63d3848a65a10916": {
-      "title": "New AI tool predicts cancer spread with surprising accuracy",
-      "fetched_at": "2026-03-21T13:54:47.273878+00:00"
-    },
-    "d91b1baee27a7065": {
-      "title": "Scientists just found a hidden 48-dimensional world in quantum light",
-      "fetched_at": "2026-03-21T13:54:47.975011+00:00"
-    },
-    "fa17f0899876f347": {
-      "title": "This crocodile ran like a greyhound across prehistoric Britain 200 million years ago",
-      "fetched_at": "2026-03-21T13:54:48.600781+00:00"
-    },
-    "4cc3c37f0a43ce2d": {
-      "title": "Tectonic shift: Earth was already moving 3.5 billion years ago",
-      "fetched_at": "2026-03-21T13:54:49.292887+00:00"
-    },
-    "b37310452ebf1f4c": {
-      "title": "Scientists discovered a secret deal between a plant and beetles",
-      "fetched_at": "2026-03-21T13:54:49.914128+00:00"
-    },
     "85796b31fb854396": {
       "title": "A circuit breaker for AI agents that fires before the wrong action executes",
       "fetched_at": "2026-03-21T19:03:04.891563+00:00"
@@ -3731,7 +3599,131 @@
     "6d97594b3c884777": {
       "title": "國際奧委會：奧運女子項目將僅限生理女性參賽",
       "fetched_at": "2026-03-29T08:02:09.810117+00:00"
+    },
+    "f96106ec504a32de": {
+      "title": "Which Claude AI Do I Need? (The Fractional CTO)",
+      "fetched_at": "2026-03-29T14:03:12.561742+00:00"
+    },
+    "d0e5be71b1d1d638": {
+      "title": "I gave an AI SSH access to my production infrastructure – 3 months later",
+      "fetched_at": "2026-03-29T14:03:13.181026+00:00"
+    },
+    "8f675a2ff397468d": {
+      "title": "MoviesLike.app – AI movie recommendations with match scores and streaming links",
+      "fetched_at": "2026-03-29T14:03:13.793816+00:00"
+    },
+    "2e1f2c4d433f490b": {
+      "title": "The AI doomsday everyone's worried about is the wrong one",
+      "fetched_at": "2026-03-29T14:03:14.408886+00:00"
+    },
+    "485b6f83e407a03c": {
+      "title": "The Decadelong Feud Shaping the Future of AI (Amodei/Altman)",
+      "fetched_at": "2026-03-29T14:03:15.127755+00:00"
+    },
+    "8f42a1d3b7a163dd": {
+      "title": "Noteriv – Free Open-Source Notes App with AI and Markdown",
+      "fetched_at": "2026-03-29T14:03:15.764233+00:00"
+    },
+    "ba4b2f2a2d2e224a": {
+      "title": "Researchers examine how AI chatbots are shaping government operations",
+      "fetched_at": "2026-03-29T14:03:16.400492+00:00"
+    },
+    "b9b43864d1961802": {
+      "title": "At 50, Apple confronts its next big challenge: AI",
+      "fetched_at": "2026-03-29T14:03:17.097598+00:00"
+    },
+    "e22b6de2c84ba951": {
+      "title": "AltClaw – A secure scripting layer for AI agents with a module marketplace",
+      "fetched_at": "2026-03-29T14:03:17.757728+00:00"
+    },
+    "23d33af38d911ad3": {
+      "title": "Show HN: I built a Git extension to capture AI-code context and tied to commits",
+      "fetched_at": "2026-03-29T14:03:18.420171+00:00"
+    },
+    "d3746b8fb754a042": {
+      "title": "Tracking (Expert/Influential) Predictions about AI",
+      "fetched_at": "2026-03-29T14:03:19.047382+00:00"
+    },
+    "782b5593fa808959": {
+      "title": "Local-first AI knowledge layer. Extract architecture, query from any AI tools",
+      "fetched_at": "2026-03-29T14:03:19.677099+00:00"
+    },
+    "e7d906e9ad9690dc": {
+      "title": "OpenAI investor says AI requires an income tax overhaul",
+      "fetched_at": "2026-03-29T14:03:20.308803+00:00"
+    },
+    "b00885e20634b04e": {
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "fetched_at": "2026-03-29T14:03:20.930871+00:00"
+    },
+    "156d73194b8b930d": {
+      "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+      "fetched_at": "2026-03-29T14:03:21.631559+00:00"
+    },
+    "bc1c78f6ab68b0db": {
+      "title": "“AI未来论坛”在京举办，红杉中国、高瓴创投等6家投资机构集中签约",
+      "fetched_at": "2026-03-29T14:03:22.258888+00:00"
+    },
+    "14a14076abf04dc7": {
+      "title": "Show HN: WhatToBuy – Describe your situation, get AI-curated shopping carts",
+      "fetched_at": "2026-03-29T14:03:22.942276+00:00"
+    },
+    "30ca588672cef7e9": {
+      "title": "Hledger AI Policy",
+      "fetched_at": "2026-03-29T14:03:23.574563+00:00"
+    },
+    "ef8ed7dddf6999fb": {
+      "title": "中信证券：配置上建议继续坚守中国优势制造业，静待4月决断",
+      "fetched_at": "2026-03-29T14:03:24.275681+00:00"
+    },
+    "8a957c4760d92af3": {
+      "title": "Scion: Running Concurrent LLM Agents with Isolated Identities and Workspaces",
+      "fetched_at": "2026-03-29T14:03:24.894695+00:00"
+    },
+    "dbe3e1f85ff0c822": {
+      "title": "分析：特朗普在憑直覺和伊朗打仗，很難如願以償",
+      "fetched_at": "2026-03-29T14:03:27.961564+00:00"
+    },
+    "de27b65a88e4cd41": {
+      "title": "伊朗戰爭激化：中國有何盤算？如何影響習特會談？",
+      "fetched_at": "2026-03-29T14:03:28.583318+00:00"
+    },
+    "39456f0313df53ed": {
+      "title": "Endometriosis messes with the immune system and causes 'ripple effects across the body'",
+      "fetched_at": "2026-03-29T14:03:30.005692+00:00"
+    },
+    "fb555694eff80de7": {
+      "title": "Hubble images taken 25 years apart show big changes in the iconic Crab Nebula —‬ Space photo of the week",
+      "fetched_at": "2026-03-29T14:03:30.623359+00:00"
+    },
+    "96103ce7d8c71445": {
+      "title": "This hidden state of water could explain why life exists",
+      "fetched_at": "2026-03-29T14:03:31.239945+00:00"
+    },
+    "10fac425866d8117": {
+      "title": "This quantum computing breakthrough may not be what it seemed",
+      "fetched_at": "2026-03-29T14:03:31.903374+00:00"
+    },
+    "f33a647507b9029f": {
+      "title": "What would happen to Earth if the sun suddenly vanished?",
+      "fetched_at": "2026-03-29T14:03:32.526192+00:00"
+    },
+    "b916f569a093d0aa": {
+      "title": "Stroke triggers a hidden brain change that looks like rejuvenation",
+      "fetched_at": "2026-03-29T14:03:33.143977+00:00"
+    },
+    "476500a14d1b8be9": {
+      "title": "New cholesterol guidelines could change when you get tested",
+      "fetched_at": "2026-03-29T14:03:33.917204+00:00"
+    },
+    "b0ad3008cb87ddec": {
+      "title": "Scientists say the evidence is clear: E-cigarettes beat patches and gum in helping smokers quit",
+      "fetched_at": "2026-03-29T14:03:34.570645+00:00"
+    },
+    "42630360fb0e5c0f": {
+      "title": "This new therapy turns off pain without opioids or addiction",
+      "fetched_at": "2026-03-29T14:03:35.201894+00:00"
     }
   },
-  "last_updated": "2026-03-29T08:02:18.216463+00:00"
+  "last_updated": "2026-03-29T14:03:35.312622+00:00"
 }
