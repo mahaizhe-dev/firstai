@@ -1,89 +1,5 @@
 {
   "articles": {
-    "1323de852920d446": {
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-      "fetched_at": "2026-03-22T19:05:44.293251+00:00"
-    },
-    "effcccda4949e432": {
-      "title": "Show HN: A Markdown file that turns your AI agent into an autonomous researcher",
-      "fetched_at": "2026-03-22T19:05:44.877472+00:00"
-    },
-    "4b2fccbcdde93cd7": {
-      "title": "What Young Workers Are Doing to AI-Proof Themselves",
-      "fetched_at": "2026-03-22T19:05:45.480285+00:00"
-    },
-    "772e233f2c0583bf": {
-      "title": "I'm 11 and trained a custom MoE LLM for $1",
-      "fetched_at": "2026-03-22T19:05:46.106646+00:00"
-    },
-    "6dc066397949be84": {
-      "title": "Show HN: A BOINC project where AI designs and runs experiments autonomously",
-      "fetched_at": "2026-03-22T19:05:46.716878+00:00"
-    },
-    "dc0227d34424d652": {
-      "title": "Show HN: AI agent for reading fast and learning new language",
-      "fetched_at": "2026-03-22T19:05:47.310418+00:00"
-    },
-    "3c59b9b073af2145": {
-      "title": "Ga. Court Order Included AI-Hallucinated Cases from Prosecutor's Proposed Order",
-      "fetched_at": "2026-03-22T19:05:48.016198+00:00"
-    },
-    "ee7bea8c4047a685": {
-      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-      "fetched_at": "2026-03-22T19:05:48.599427+00:00"
-    },
-    "e5133c774caba8cf": {
-      "title": "Crimson Desert dev apologizes for use of AI art",
-      "fetched_at": "2026-03-22T19:05:49.277230+00:00"
-    },
-    "2add59cd6822fab1": {
-      "title": "Even an AI Needs a Diary",
-      "fetched_at": "2026-03-22T19:05:49.868565+00:00"
-    },
-    "21fc35bebb0af138": {
-      "title": "Show HN: AI Prompts for DPC Practice Ops – one found $18.6K/mo in billing leaks",
-      "fetched_at": "2026-03-22T19:05:50.459490+00:00"
-    },
-    "e07bb84e6163724e": {
-      "title": "80% of School Is a Waste of Time – Will AI Change It?",
-      "fetched_at": "2026-03-22T19:05:51.069948+00:00"
-    },
-    "73ff5c2073173e53": {
-      "title": "How to train AI on your writing style",
-      "fetched_at": "2026-03-22T19:05:51.677207+00:00"
-    },
-    "25ef65e09a52cbd9": {
-      "title": "AI blurs line between tool&collaborator: expands frontier of theoretical physics",
-      "fetched_at": "2026-03-22T19:05:52.293780+00:00"
-    },
-    "be8eaa84ea3ab0b3": {
-      "title": "AI tools like ChatGPT make learning easier–and more persuasive, study finds",
-      "fetched_at": "2026-03-22T19:05:52.882224+00:00"
-    },
-    "65351efebc2b4d5b": {
-      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-      "fetched_at": "2026-03-22T19:05:53.465212+00:00"
-    },
-    "0ae7fb734f4eba0a": {
-      "title": "SOC.Workflows – structured AI investigation workflows for Everyone",
-      "fetched_at": "2026-03-22T19:05:54.059276+00:00"
-    },
-    "594408317084d0c6": {
-      "title": "AI's Elephant in the Room",
-      "fetched_at": "2026-03-22T19:05:54.719066+00:00"
-    },
-    "a265e35d6b6bf9a0": {
-      "title": "Show HN: FlowState Dev memory that persists across AI conversations (MCP+SQLite)",
-      "fetched_at": "2026-03-22T19:05:55.385620+00:00"
-    },
-    "4eb37ee3a4bcbe00": {
-      "title": "Show HN: Bossa – Persistent filesystem memory for AI agents via MCP or CLI",
-      "fetched_at": "2026-03-22T19:05:55.994239+00:00"
-    },
-    "02d7a1856f991409": {
-      "title": "Why do some people still believe that aliens shaped ancient civilizations?",
-      "fetched_at": "2026-03-22T19:06:01.211718+00:00"
-    },
     "a14d8f563c9ed3b8": {
       "title": "A股三大指数均跌超3%",
       "fetched_at": "2026-03-23T05:47:16.237829+00:00"
@@ -3611,7 +3527,107 @@
     "0b6e7389b93e32de": {
       "title": "Monster black holes are silencing star formation across the universe",
       "fetched_at": "2026-03-30T15:55:56.567309+00:00"
+    },
+    "a9fe5e7094220153": {
+      "title": "Show HN: I built a simpler way to follow research papers–AI summaries and emails",
+      "fetched_at": "2026-03-30T20:04:32.159947+00:00"
+    },
+    "1c6ea16ffc510400": {
+      "title": "Novel environments, no precedents or plagiarism possible. Humans 100%, AI <1%",
+      "fetched_at": "2026-03-30T20:04:32.722573+00:00"
+    },
+    "179a980ddb7c0ba3": {
+      "title": "Show HN: NewsMarvin – AI news from 71 sources, classified by Claude Haiku",
+      "fetched_at": "2026-03-30T20:04:33.311995+00:00"
+    },
+    "eb4b5e1e13fafa6a": {
+      "title": "Wikipedia, AI, maps, and education tools running on your own hardware",
+      "fetched_at": "2026-03-30T20:04:33.882144+00:00"
+    },
+    "52403be9571eeef4": {
+      "title": "Create Context Graph: Scaffold AI agents with context graph memory in seconds",
+      "fetched_at": "2026-03-30T20:04:34.446085+00:00"
+    },
+    "3b8f549b19a41340": {
+      "title": "Show HN: Memoir – persistent memory for AI coding tools via MCP",
+      "fetched_at": "2026-03-30T20:04:35.009400+00:00"
+    },
+    "a0257fcabaef2d61": {
+      "title": "Bernie Sanders, AOC announce AI data center moratorium bill [video]",
+      "fetched_at": "2026-03-30T20:04:35.572376+00:00"
+    },
+    "3d829cdb24081350": {
+      "title": "Show HN: AI Playlist Generator for YouTube",
+      "fetched_at": "2026-03-30T20:04:36.142965+00:00"
+    },
+    "53fb90e66cdf876b": {
+      "title": "Why AI is not killing the cybersecurity industry, but expanding it exponentially",
+      "fetched_at": "2026-03-30T20:04:36.710606+00:00"
+    },
+    "be7a7ecae2f24a8c": {
+      "title": "Who or what is sending AI spam via the SF encyclopedia feedback form?",
+      "fetched_at": "2026-03-30T20:04:37.311486+00:00"
+    },
+    "5f0be0b17803b482": {
+      "title": "AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed",
+      "fetched_at": "2026-03-30T20:04:37.877591+00:00"
+    },
+    "0f2b2b0bc3a47a12": {
+      "title": "Handling Sensitive Data in LLM Systems (2025)",
+      "fetched_at": "2026-03-30T20:04:38.451266+00:00"
+    },
+    "ef759fefd0745625": {
+      "title": "What do coders do after AI?",
+      "fetched_at": "2026-03-30T20:04:39.015582+00:00"
+    },
+    "9b8c00d238360cf0": {
+      "title": "An Alternative Trajectory for Generative AI",
+      "fetched_at": "2026-03-30T20:04:39.581552+00:00"
+    },
+    "5222be3fc93dbc02": {
+      "title": "Lots of AI SRE, no AI incident management",
+      "fetched_at": "2026-03-30T20:04:40.147260+00:00"
+    },
+    "80eff818472833fe": {
+      "title": "The Odd–and Oddly Human–Work of Teaching AI to Talk",
+      "fetched_at": "2026-03-30T20:04:40.712612+00:00"
+    },
+    "0a8a35991ca57564": {
+      "title": "How to Make AI Serve the Public",
+      "fetched_at": "2026-03-30T20:04:41.277490+00:00"
+    },
+    "7a9d1178029b4071": {
+      "title": "Show HN: Stm32-MCP – let AI build, flash, & communicate with hardware",
+      "fetched_at": "2026-03-30T20:04:41.872814+00:00"
+    },
+    "14e20453c170a716": {
+      "title": "ADK for Java 1.0.0: Building the Future of AI Agents in Java",
+      "fetched_at": "2026-03-30T20:04:42.494301+00:00"
+    },
+    "23f8db375bab344a": {
+      "title": "Show HN: An extremly fast AI-native file manager written in Rust for macOS",
+      "fetched_at": "2026-03-30T20:04:43.089996+00:00"
+    },
+    "af63423b2ac3e048": {
+      "title": "Pinot Noir Grape Seed Found in Medieval Pit in France",
+      "fetched_at": "2026-03-30T20:04:47.593371+00:00"
+    },
+    "f6374569eab15399": {
+      "title": "Study Tracks Genetic Lineages of Europe’s Last Neanderthals",
+      "fetched_at": "2026-03-30T20:04:48.156956+00:00"
+    },
+    "26cc689a16de4fee": {
+      "title": "Coral Buildings in the South Pacific Dated",
+      "fetched_at": "2026-03-30T20:04:48.724873+00:00"
+    },
+    "1bf4f55299777e85": {
+      "title": "This 67,800-year-old handprint is the oldest art ever found",
+      "fetched_at": "2026-03-30T20:04:49.299020+00:00"
+    },
+    "2b245e30ed318d06": {
+      "title": "Webb Telescope spots “impossible” atmosphere on ancient super Earth",
+      "fetched_at": "2026-03-30T20:04:49.866836+00:00"
     }
   },
-  "last_updated": "2026-03-30T15:55:56.712094+00:00"
+  "last_updated": "2026-03-30T20:04:50.013255+00:00"
 }
