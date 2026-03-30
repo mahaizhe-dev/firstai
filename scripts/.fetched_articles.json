@@ -1,241 +1,5 @@
 {
   "articles": {
-    "850e8418868b65bb": {
-      "title": "2025年我国非常规水利用量超250亿立方米",
-      "fetched_at": "2026-03-22T07:52:08.612027+00:00"
-    },
-    "0b381f2c42014cf5": {
-      "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
-      "fetched_at": "2026-03-22T07:52:09.225895+00:00"
-    },
-    "542110d58351b305": {
-      "title": "An AI agent's performance review should be the operator's behavior",
-      "fetched_at": "2026-03-22T07:52:09.841653+00:00"
-    },
-    "190c7c6fb3c71ced": {
-      "title": "Show HN: Peam – AI that knows your website",
-      "fetched_at": "2026-03-22T07:52:10.434756+00:00"
-    },
-    "5e4be76576985a88": {
-      "title": "Deep-dive into the deployment of an on-premise low-privileged LLM server",
-      "fetched_at": "2026-03-22T07:52:11.040164+00:00"
-    },
-    "68d3b319bad85d00": {
-      "title": "大众旗下Scout计划在美打造独立品牌",
-      "fetched_at": "2026-03-22T07:52:11.636360+00:00"
-    },
-    "d98015a4479a82cf": {
-      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
-      "fetched_at": "2026-03-22T07:52:12.229070+00:00"
-    },
-    "17c05f043ab6f321": {
-      "title": "Show HN: OnlyBots – A store for AI agents to buy sexy lobster pics",
-      "fetched_at": "2026-03-22T07:52:12.826728+00:00"
-    },
-    "0bda79758d9d3666": {
-      "title": "潘功胜：将稳步推动金融业的高水平开放",
-      "fetched_at": "2026-03-22T07:52:13.416088+00:00"
-    },
-    "53b8f1e6c7185d4e": {
-      "title": "Adapting to AI: Reflections on Productivity",
-      "fetched_at": "2026-03-22T07:52:14.140491+00:00"
-    },
-    "9dda596da2c818e9": {
-      "title": "用十年手机相册，记录颐和园的日夜春秋",
-      "fetched_at": "2026-03-22T07:52:14.733602+00:00"
-    },
-    "25b06b9b56f57dc8": {
-      "title": "全球首个脑机接口创新产品获得医保编码",
-      "fetched_at": "2026-03-22T07:52:15.351524+00:00"
-    },
-    "9c767e4cf19590bb": {
-      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
-      "fetched_at": "2026-03-22T07:52:15.938483+00:00"
-    },
-    "8c6e64500d80ec08": {
-      "title": "966.56万吨！四川发现世界第二大轻稀土矿",
-      "fetched_at": "2026-03-22T07:52:16.551361+00:00"
-    },
-    "467c864fd2c08fc7": {
-      "title": "Synaphe – A type-safe language for hybrid AI and quantum computing",
-      "fetched_at": "2026-03-22T07:52:17.391822+00:00"
-    },
-    "534105d1256d39ca": {
-      "title": "Quantum mechanics simulation Python library for research and learning",
-      "fetched_at": "2026-03-22T07:52:18.003478+00:00"
-    },
-    "45385b1624ec0eff": {
-      "title": "潘功胜：运用多种工具保持流动性充裕",
-      "fetched_at": "2026-03-22T07:52:18.588248+00:00"
-    },
-    "eb717fb94f7efad6": {
-      "title": "Show HN: TMA1 – Local-first observability for LLM agents",
-      "fetched_at": "2026-03-22T07:52:19.175592+00:00"
-    },
-    "a58cb2fe2146d9ab": {
-      "title": "Show HN: Yeet – Throw AI tasks at hardware and walk away (Nomad and OpenShell)",
-      "fetched_at": "2026-03-22T07:52:19.779318+00:00"
-    },
-    "8cacf9db729efc66": {
-      "title": "Bitcoin mining difficulty drops 7.8% as miner exodus accelerates amid AI pivot",
-      "fetched_at": "2026-03-22T07:52:20.396184+00:00"
-    },
-    "f2aa3e00722aa9fe": {
-      "title": "三人被控向中國走私輝達晶片 涉美國及台灣公民",
-      "fetched_at": "2026-03-22T07:52:23.558319+00:00"
-    },
-    "4ce0c03a4a67b126": {
-      "title": "Gut bacteria that make serotonin may hold the key to IBS",
-      "fetched_at": "2026-03-22T07:52:25.286525+00:00"
-    },
-    "cbfa6c7446ce2057": {
-      "title": "Scientists warn Australia’s “zombie tree” could vanish within a generation",
-      "fetched_at": "2026-03-22T07:52:25.877330+00:00"
-    },
-    "6dbf6f4c9d43abfa": {
-      "title": "Microplastics may be quietly damaging your brain and fueling Alzheimer’s and Parkinson’s",
-      "fetched_at": "2026-03-22T07:52:26.522316+00:00"
-    },
-    "235312ef152f6f32": {
-      "title": "Simple water trick cuts diesel engine pollution by over 60%",
-      "fetched_at": "2026-03-22T07:52:27.159234+00:00"
-    },
-    "4d7ce72fd738e422": {
-      "title": "Our Sun may have escaped the Milky Way’s center with thousands of twin stars",
-      "fetched_at": "2026-03-22T07:52:27.777567+00:00"
-    },
-    "3da0514509d16359": {
-      "title": "AI is becoming a utility: tokens are the new electricity",
-      "fetched_at": "2026-03-22T13:55:08.407865+00:00"
-    },
-    "47bec0458170a004": {
-      "title": "Revise – An AI Editor for Documents",
-      "fetched_at": "2026-03-22T13:55:09.060897+00:00"
-    },
-    "d24ccb1e80b484c3": {
-      "title": "Bitelogix: AI-Powered Calorie Tracker That Learns Your Habits",
-      "fetched_at": "2026-03-22T13:55:09.647581+00:00"
-    },
-    "9a22125bc483371f": {
-      "title": "华晨宇进军日化家居赛道，与小阔集团共同创立品牌「重点」｜项目报道",
-      "fetched_at": "2026-03-22T13:55:10.241143+00:00"
-    },
-    "fcfebef8ef9d0971": {
-      "title": "My favorite thing to do with AI doesn't have a label",
-      "fetched_at": "2026-03-22T13:55:10.833991+00:00"
-    },
-    "35eaeb9713ca896c": {
-      "title": "15 years of building a lucid dreaming device: from EEG to machine vision",
-      "fetched_at": "2026-03-22T13:55:11.420869+00:00"
-    },
-    "8180082e5f0e570c": {
-      "title": "用AI让游戏更好玩，只是腾讯关心的第二个问题",
-      "fetched_at": "2026-03-22T13:55:12.030096+00:00"
-    },
-    "10a71b9b96e09553": {
-      "title": "I spend the last 6 month Learning How to automate my boring Tasks with",
-      "fetched_at": "2026-03-22T13:55:12.618990+00:00"
-    },
-    "9235eb0bd19b2243": {
-      "title": "Security analysts warn of 'expanded attack surface' as AI agents become default",
-      "fetched_at": "2026-03-22T13:55:13.212996+00:00"
-    },
-    "b340d66b8fb3292c": {
-      "title": "Steve-eval – getting AI to write like me",
-      "fetched_at": "2026-03-22T13:55:13.833677+00:00"
-    },
-    "9a423122601c8c23": {
-      "title": "Achieving Zero Bugs: Rust, Specs, and AI Coding",
-      "fetched_at": "2026-03-22T13:55:14.420430+00:00"
-    },
-    "f7cbd47a6a1b023b": {
-      "title": "Ask HN:35,0 CS background, built real apps with AI, need suggestion",
-      "fetched_at": "2026-03-22T13:55:15.008052+00:00"
-    },
-    "237095c8db041657": {
-      "title": "CERN eggheads burn AI into silicon to stem data deluge",
-      "fetched_at": "2026-03-22T13:55:15.589869+00:00"
-    },
-    "233ab209e7ef8431": {
-      "title": "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
-      "fetched_at": "2026-03-22T13:55:16.178726+00:00"
-    },
-    "08c40f0dd7fcd759": {
-      "title": "Context Use – turn your data exports into portable AI memories",
-      "fetched_at": "2026-03-22T13:55:16.764258+00:00"
-    },
-    "1c0b01ae083de107": {
-      "title": "How I use AI as a software developer and a founder",
-      "fetched_at": "2026-03-22T13:55:17.346481+00:00"
-    },
-    "9a9e89163086f72e": {
-      "title": "AI was everywhere at gaming’s big developer conference — except the games",
-      "fetched_at": "2026-03-22T13:55:17.961315+00:00"
-    },
-    "272dae4c676e9f9c": {
-      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-      "fetched_at": "2026-03-22T13:55:18.549085+00:00"
-    },
-    "0c8ad01d3f0a4aa0": {
-      "title": "Building a local AI monitoring system without cloud – feedback?",
-      "fetched_at": "2026-03-22T13:55:19.186178+00:00"
-    },
-    "859aa09434327c93": {
-      "title": "Ask HN: How are you securing LLM code agents?",
-      "fetched_at": "2026-03-22T13:55:19.773114+00:00"
-    },
-    "3902034ac1506c0d": {
-      "title": "防彈少年團回歸，中國「限韓令」陰影依舊未散",
-      "fetched_at": "2026-03-22T13:55:22.241139+00:00"
-    },
-    "89063d6b003a9a32": {
-      "title": "A secret weapon to fight carbon emissions was just discovered: Beavers",
-      "fetched_at": "2026-03-22T13:55:24.625227+00:00"
-    },
-    "c90051b73cfa6ade": {
-      "title": "Decorative Patterns of the Ancient World (1930)",
-      "fetched_at": "2026-03-22T13:55:25.207523+00:00"
-    },
-    "e0f607e3be65f001": {
-      "title": "Rare star spotted in its original galaxy could answer a key question about the ingredients of life: Space photo of the week",
-      "fetched_at": "2026-03-22T13:55:25.808309+00:00"
-    },
-    "46ed7b8664a95671": {
-      "title": "Why do animals have different pupil shapes?",
-      "fetched_at": "2026-03-22T13:55:26.388040+00:00"
-    },
-    "c61f542a15b27057": {
-      "title": "Why mosquitoes always find you and how they decide to attack",
-      "fetched_at": "2026-03-22T13:55:26.977706+00:00"
-    },
-    "db081666b7c7b9c8": {
-      "title": "Beavers are turning rivers into powerful carbon sinks",
-      "fetched_at": "2026-03-22T13:55:27.552397+00:00"
-    },
-    "44c9362d76c72c2c": {
-      "title": "Predicting home electricity usage from historical patterns in Home Assistant",
-      "fetched_at": "2026-03-22T13:55:28.140722+00:00"
-    },
-    "1bf4f55299777e85": {
-      "title": "This 67,800-year-old handprint is the oldest art ever found",
-      "fetched_at": "2026-03-22T13:55:28.720797+00:00"
-    },
-    "990497a524e70709": {
-      "title": "Friction without contact discovered as magnetic forces break a 300-year-old law",
-      "fetched_at": "2026-03-22T13:55:29.296647+00:00"
-    },
-    "2b245e30ed318d06": {
-      "title": "Webb Telescope spots “impossible” atmosphere on ancient super Earth",
-      "fetched_at": "2026-03-22T13:55:29.873729+00:00"
-    },
-    "043fe3402995dac9": {
-      "title": "A lab mistake at Cambridge reveals a powerful new way to modify drug molecules",
-      "fetched_at": "2026-03-22T13:55:30.476915+00:00"
-    },
-    "05e172aafbaf72f2": {
-      "title": "Scientists discover ancient DNA “switches” hidden in plants for 400 million years",
-      "fetched_at": "2026-03-22T13:55:31.085259+00:00"
-    },
     "1323de852920d446": {
       "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
       "fetched_at": "2026-03-22T19:05:44.293251+00:00"
@@ -3727,7 +3491,127 @@
     "670508342ee1f655": {
       "title": "Magellan: AI agents for autonomous cross-disciplinary scientific discovery",
       "fetched_at": "2026-03-30T06:17:43.556378+00:00"
+    },
+    "4f145cb4599aa15e": {
+      "title": "AI giants tried to storm the last human stronghold: the math olympiads",
+      "fetched_at": "2026-03-30T15:55:32.696053+00:00"
+    },
+    "62cd3e64a1983d85": {
+      "title": "Show HN: ClamBot – AI agent that runs all LLM-generated code in a WASM sandbox",
+      "fetched_at": "2026-03-30T15:55:33.465229+00:00"
+    },
+    "540ba710dd15b9f8": {
+      "title": "Google Unveils AppFunctions to Connect AI Agents and Android Apps",
+      "fetched_at": "2026-03-30T15:55:34.113780+00:00"
+    },
+    "b4b3c21153710e3e": {
+      "title": "Java AI Ecosystem Guide",
+      "fetched_at": "2026-03-30T15:55:34.737079+00:00"
+    },
+    "45ceec4f74bccb53": {
+      "title": "MSFT AI slop infecting GitHub – Copilot is now injecting ads into pull requests",
+      "fetched_at": "2026-03-30T15:55:35.379553+00:00"
+    },
+    "c71499c8ac3f4c1d": {
+      "title": "Show HN: Leo News – AI newsbots with different political perspectives",
+      "fetched_at": "2026-03-30T15:55:36.012366+00:00"
+    },
+    "b1314d06f6362a11": {
+      "title": "Screamer – The fastest free speech to text AI in the world",
+      "fetched_at": "2026-03-30T15:55:36.710173+00:00"
+    },
+    "da540611bbaf99d7": {
+      "title": "Solo.io launches agentevals to solve agentic AI's \"biggest unsolved problem\"",
+      "fetched_at": "2026-03-30T15:55:37.343431+00:00"
+    },
+    "44d416503988076d": {
+      "title": "Free eBook: Runtime Intelligence – The New AI Architecture (Manning)",
+      "fetched_at": "2026-03-30T15:55:37.980553+00:00"
+    },
+    "ce6994234ff90587": {
+      "title": "Okta&#8217;s CEO is betting big on AI agent identity",
+      "fetched_at": "2026-03-30T15:55:38.612197+00:00"
+    },
+    "68c7d8b84e535187": {
+      "title": "Show HN: AI Spotlight for Your Computer (natural language search for files)",
+      "fetched_at": "2026-03-30T15:55:39.447707+00:00"
+    },
+    "e982a876c6290bab": {
+      "title": "Prompt Helix – Ask AI about any webpage without copy-pasting context",
+      "fetched_at": "2026-03-30T15:55:40.094314+00:00"
+    },
+    "b994c839df5146a8": {
+      "title": "The Anatomy of an LLM Benchmark",
+      "fetched_at": "2026-03-30T15:55:40.787575+00:00"
+    },
+    "f7efc6371d40b31c": {
+      "title": "Zero Ambient Authority: The Principle That Should Govern Every AI Agent",
+      "fetched_at": "2026-03-30T15:55:41.422921+00:00"
+    },
+    "8dc8a4d6147963f1": {
+      "title": "Same LLM, Different Agent: What Changes When You Specialize for CI",
+      "fetched_at": "2026-03-30T15:55:42.076550+00:00"
+    },
+    "52e533a6e71f6ad9": {
+      "title": "Apple Pivots Its AI Strategy to App Store, Search-Like Platform Approach",
+      "fetched_at": "2026-03-30T15:55:42.715915+00:00"
+    },
+    "b1ac15923c019d64": {
+      "title": "Show HN: Building a GPT from scratch: What I learned and why it mattered",
+      "fetched_at": "2026-03-30T15:55:43.336973+00:00"
+    },
+    "f9ec392f3f8bfff6": {
+      "title": "Why Every AI Scores Below 1% on ARC-AGI-3: A Structural Explanation",
+      "fetched_at": "2026-03-30T15:55:43.969930+00:00"
+    },
+    "aca2f88863b7379b": {
+      "title": "What Happens When You Tell AI Agents the Rules but Don't Enforce Them",
+      "fetched_at": "2026-03-30T15:55:44.587619+00:00"
+    },
+    "d653e5b3372a0397": {
+      "title": "Vibe check: AI may replace SaaS (but not for a while)",
+      "fetched_at": "2026-03-30T15:55:45.277813+00:00"
+    },
+    "81908a32ec0b3159": {
+      "title": "螞蟻寵物黑市蘊含生態危機 220美元一隻的蟻后如何成為中國非洲走私熱點",
+      "fetched_at": "2026-03-30T15:55:48.203029+00:00"
+    },
+    "2ea49c54db5db066": {
+      "title": "消息称FBI调取民主党议员旧调查文件，涉疑似中国间谍",
+      "fetched_at": "2026-03-30T15:55:48.814874+00:00"
+    },
+    "9577ad5d615d1731": {
+      "title": "'We are getting very, very close': NASA makes final Artemis II preparations as expectation grows for Wednesday launch",
+      "fetched_at": "2026-03-30T15:55:51.920782+00:00"
+    },
+    "0e7fa176b8b693b5": {
+      "title": "Farthest, fastest and most diverse: 6 major records the Artemis II astronauts will smash as NASA returns to the moon",
+      "fetched_at": "2026-03-30T15:55:52.669392+00:00"
+    },
+    "82fefc322ac2a2d0": {
+      "title": "Tudor Heart: A Renaissance gold necklace featuring a French-English pun on the love between Henry VIII and his first wife, Katherine of Aragon",
+      "fetched_at": "2026-03-30T15:55:53.299523+00:00"
+    },
+    "9791b92a5993fa7c": {
+      "title": "Resurrecting Sinistar: A Cyber-Archaeology Documentary [video]",
+      "fetched_at": "2026-03-30T15:55:53.925164+00:00"
+    },
+    "6bd8e7d32987ed01": {
+      "title": "Some dinosaurs could rise up like giants — until they grew too big",
+      "fetched_at": "2026-03-30T15:55:54.551443+00:00"
+    },
+    "92c4357013fadad8": {
+      "title": "Simple therapies beat drugs for knee arthritis pain relief",
+      "fetched_at": "2026-03-30T15:55:55.171076+00:00"
+    },
+    "5a7a329975f01018": {
+      "title": "Webb telescope spots mysterious explosion that defies known physics",
+      "fetched_at": "2026-03-30T15:55:55.789536+00:00"
+    },
+    "0b6e7389b93e32de": {
+      "title": "Monster black holes are silencing star formation across the universe",
+      "fetched_at": "2026-03-30T15:55:56.567309+00:00"
     }
   },
-  "last_updated": "2026-03-30T06:17:43.695748+00:00"
+  "last_updated": "2026-03-30T15:55:56.712094+00:00"
 }
