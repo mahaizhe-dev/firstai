@@ -1,133 +1,5 @@
 {
   "articles": {
-    "08dad297fabd6243": {
-      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
-      "fetched_at": "2026-03-23T15:39:54.252421+00:00"
-    },
-    "45429492dab05671": {
-      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
-      "fetched_at": "2026-03-23T15:39:54.843536+00:00"
-    },
-    "4de0d0a5f20fd3cb": {
-      "title": "Confronting the CEO of the AI company that impersonated me",
-      "fetched_at": "2026-03-23T15:39:55.426144+00:00"
-    },
-    "457bcc9a17980510": {
-      "title": "三花智控：拟开展不超过35亿元资产池业务",
-      "fetched_at": "2026-03-23T15:39:56.016266+00:00"
-    },
-    "668d386aed51ebee": {
-      "title": "三花智控：2025年净利润40.63亿元，同比增长31.10%",
-      "fetched_at": "2026-03-23T15:39:56.596396+00:00"
-    },
-    "181b98e4499c38bd": {
-      "title": "永励精密3月30日北交所首发上会",
-      "fetched_at": "2026-03-23T15:39:57.191448+00:00"
-    },
-    "6160df9b47e38991": {
-      "title": "热门中概股美股盘前多数上涨，小鹏汽车涨超5%",
-      "fetched_at": "2026-03-23T15:39:57.803888+00:00"
-    },
-    "3a2ac57ddeb39749": {
-      "title": "美股大型科技股盘前普涨，英伟达涨超2%",
-      "fetched_at": "2026-03-23T15:39:58.381724+00:00"
-    },
-    "cdb88ba1b22c655f": {
-      "title": "泰福泵业：筹划控制权变更事项，股票停牌",
-      "fetched_at": "2026-03-23T15:39:58.966004+00:00"
-    },
-    "4e8b200004eab2e0": {
-      "title": "丽江股份：2025年净利润同比增长1.24%，拟每10股派3.50元",
-      "fetched_at": "2026-03-23T15:39:59.552669+00:00"
-    },
-    "7a9a20efd875b140": {
-      "title": "OpenAI要求谷歌将ChatGPT列为默认搜索引擎之一",
-      "fetched_at": "2026-03-23T15:40:00.134198+00:00"
-    },
-    "84154489fb0b9d7c": {
-      "title": "*ST亿通：股东王振洪拟减持不超2.99%股份",
-      "fetched_at": "2026-03-23T15:40:00.718459+00:00"
-    },
-    "b9b6b197ce730813": {
-      "title": "杭州先为达生物科技股份有限公司-B向港交所提交上市申请书",
-      "fetched_at": "2026-03-23T15:40:01.292866+00:00"
-    },
-    "3f0222c1ea1f2f5e": {
-      "title": "OpenAI聘请前Meta高管Dave Dugan为全球广告解决方案副总裁",
-      "fetched_at": "2026-03-23T15:40:02.039566+00:00"
-    },
-    "fea7538ff007cc33": {
-      "title": "碧桂园：预计2025年利润为10亿元-22亿元",
-      "fetched_at": "2026-03-23T15:40:02.620471+00:00"
-    },
-    "fed5d4723c25e039": {
-      "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
-      "fetched_at": "2026-03-23T15:40:03.223558+00:00"
-    },
-    "a0baf3b36fd3fcd1": {
-      "title": "剂泰科技港股IPO获中国证监会备案",
-      "fetched_at": "2026-03-23T15:40:03.912121+00:00"
-    },
-    "09a2f48f1b31eaf8": {
-      "title": "均胜电子：拟回购不超1551万股H股，占已发行H股总数的10%",
-      "fetched_at": "2026-03-23T15:40:04.495707+00:00"
-    },
-    "fa014a1243c1e012": {
-      "title": "藏格矿业：拟以2亿-4亿元回购股份",
-      "fetched_at": "2026-03-23T15:40:05.217688+00:00"
-    },
-    "0b4a5aa12c63963d": {
-      "title": "剂泰科技港股IPO获中国证监会备案",
-      "fetched_at": "2026-03-23T15:40:05.217809+00:00"
-    },
-    "5f9e3ebffd0b25eb": {
-      "title": "韓團BTS回歸：全球矚目背後有何文化與經濟意義？",
-      "fetched_at": "2026-03-23T15:40:08.387821+00:00"
-    },
-    "1cd5f8ec3b2274dc": {
-      "title": "Watch sperm whale headbutt another for no apparent reason",
-      "fetched_at": "2026-03-23T15:40:18.063142+00:00"
-    },
-    "10baf8e3aff2843b": {
-      "title": "'Space archaeology' reveals first dynamic history of a giant spiral galaxy",
-      "fetched_at": "2026-03-23T15:40:18.655219+00:00"
-    },
-    "59e9f0e0a46e456a": {
-      "title": "The ancient reason there are 60 minutes in an hour",
-      "fetched_at": "2026-03-23T15:40:19.227290+00:00"
-    },
-    "085b19bd2d0101a1": {
-      "title": "Live Science Today: Earth hits record energy imbalance, Hawaii floods and NASA prepares for Artemis II launch",
-      "fetched_at": "2026-03-23T15:40:19.803532+00:00"
-    },
-    "d7313158265a1d10": {
-      "title": "Viruses in the gut may help prevent blood sugar spikes, mouse study hints",
-      "fetched_at": "2026-03-23T15:40:20.384469+00:00"
-    },
-    "0a35a20d4087a540": {
-      "title": "Urfa Man: An 11,500-year-old life-size statue of a man holding his penis",
-      "fetched_at": "2026-03-23T15:40:21.009045+00:00"
-    },
-    "3643d74ace0843e7": {
-      "title": "MCP Registry – Open-source discovery layer for 20 Model Context Protocol servers",
-      "fetched_at": "2026-03-23T15:40:21.594795+00:00"
-    },
-    "a330efd8be7febf6": {
-      "title": "A new twist on matter? Strange 'Half-Mӧbius' molecule has rare properties chemists have never seen before",
-      "fetched_at": "2026-03-23T15:40:22.174347+00:00"
-    },
-    "65fa9775f349e06a": {
-      "title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
-      "fetched_at": "2026-03-23T15:40:22.756669+00:00"
-    },
-    "7f7c42f3517acceb": {
-      "title": "Most people get food’s environmental impact completely wrong, study finds",
-      "fetched_at": "2026-03-23T15:40:23.361793+00:00"
-    },
-    "30b39a7feb96a3c6": {
-      "title": "Top 18 health and fitness deals to snap up at Amazon ahead of the Big Spring Sale",
-      "fetched_at": "2026-03-23T15:40:24.073313+00:00"
-    },
     "9b0a0edb4ecf23f8": {
       "title": "Show HN: AI That Controls Cloudflare WAF, Stripe, and Supabase in Plain English",
       "fetched_at": "2026-03-23T20:00:20.482054+00:00"
@@ -3639,7 +3511,107 @@
     "222e193da32edc03": {
       "title": "This floating time crystal breaks Newton’s third law of motion",
       "fetched_at": "2026-03-31T09:44:57.842042+00:00"
+    },
+    "75b6e2d93e795000": {
+      "title": "Art schools are being torn apart by AI",
+      "fetched_at": "2026-03-31T15:52:52.191271+00:00"
+    },
+    "e3b5465487a0df61": {
+      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+      "fetched_at": "2026-03-31T15:52:52.812186+00:00"
+    },
+    "78ccc0e04c47f6a5": {
+      "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+      "fetched_at": "2026-03-31T15:52:53.435792+00:00"
+    },
+    "2c09a632096eedea": {
+      "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
+      "fetched_at": "2026-03-31T15:52:54.212625+00:00"
+    },
+    "0516bab639939116": {
+      "title": "vivo发布X300系列两款机型，主打专业影像和均衡参数丨最前线",
+      "fetched_at": "2026-03-31T15:52:54.841889+00:00"
+    },
+    "5e800c395fa85c3c": {
+      "title": "宁德时代：控股股东拟无偿捐赠500万股公司股份",
+      "fetched_at": "2026-03-31T15:52:55.466627+00:00"
+    },
+    "41d2f44bf70a89be": {
+      "title": "时隔 5 年的大更新：AirPods Max 2 首发体验",
+      "fetched_at": "2026-03-31T15:52:56.093808+00:00"
+    },
+    "4adabb8d53b315e0": {
+      "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
+      "fetched_at": "2026-03-31T15:52:56.727142+00:00"
+    },
+    "174e982490fa5c17": {
+      "title": "With its new app store, Ring bets on AI to go beyond home security",
+      "fetched_at": "2026-03-31T15:52:57.345961+00:00"
+    },
+    "f82753dbeab12b33": {
+      "title": "德明利：预计一季度净利润31.5亿元–36.5亿元",
+      "fetched_at": "2026-03-31T15:52:57.985735+00:00"
+    },
+    "0f2cbd8c1dd1257e": {
+      "title": "广汽集团：优湃能源拟约19.2亿元转让昆仑蓝钻12%股权",
+      "fetched_at": "2026-03-31T15:52:58.595322+00:00"
+    },
+    "b29f8669ea5ce117": {
+      "title": "沃伦·巴菲特：股票市场估值仍然缺乏吸引力",
+      "fetched_at": "2026-03-31T15:52:59.202668+00:00"
+    },
+    "2541c239aff94de2": {
+      "title": "热门中概股美股盘前多数走强，名创优品涨超8%",
+      "fetched_at": "2026-03-31T15:52:59.814282+00:00"
+    },
+    "4bf93ee19be95533": {
+      "title": "美股大型科技股盘前普涨，英伟达涨超1%",
+      "fetched_at": "2026-03-31T15:53:00.451001+00:00"
+    },
+    "1f4ceb870ccf7837": {
+      "title": "理想汽车OTA8.4版本更新",
+      "fetched_at": "2026-03-31T15:53:01.076052+00:00"
+    },
+    "4bffc5528fb21340": {
+      "title": "东方电气：2025年净利润38.31亿元，同比增长31.11%",
+      "fetched_at": "2026-03-31T15:53:01.739589+00:00"
+    },
+    "200705383d3402ae": {
+      "title": "粉笔：2025年营收26.77亿元，经调整净利润为2.81亿元",
+      "fetched_at": "2026-03-31T15:53:02.432245+00:00"
+    },
+    "2adb228d174d3c62": {
+      "title": "巴菲特：仍参与伯克希尔哈撒韦的投资决策，近期有一笔“小额买入”",
+      "fetched_at": "2026-03-31T15:53:03.120265+00:00"
+    },
+    "3aa1d12903757446": {
+      "title": "智元与香港中文大学达成战略合作，共建具身智能产学研联合平台",
+      "fetched_at": "2026-03-31T15:53:03.726916+00:00"
+    },
+    "675ce0cc4f869613": {
+      "title": "诚邦股份：拟定增募资不超1亿元",
+      "fetched_at": "2026-03-31T15:53:04.348795+00:00"
+    },
+    "b3be7ff177043f96": {
+      "title": "為何海灣國家尚未報復伊朗？",
+      "fetched_at": "2026-03-31T15:53:07.166748+00:00"
+    },
+    "e9d724d037655fcd": {
+      "title": "On the trail of ancient art, deep in the Sahara",
+      "fetched_at": "2026-03-31T15:53:11.932257+00:00"
+    },
+    "e658c6ed5ca0e97b": {
+      "title": "AI sheds light on an ancient gaming mystery",
+      "fetched_at": "2026-03-31T15:53:12.650721+00:00"
+    },
+    "b47abe650aa8bd8c": {
+      "title": "Artemis II launch: NASA prepares for Wednesday launch of historic space mission",
+      "fetched_at": "2026-03-31T15:53:13.264241+00:00"
+    },
+    "fe9735609d232ad6": {
+      "title": "OWASP PTK 9.8.0 with auto-discovery for bug bounty",
+      "fetched_at": "2026-03-31T15:53:13.923768+00:00"
     }
   },
-  "last_updated": "2026-03-31T09:44:57.978240+00:00"
+  "last_updated": "2026-03-31T15:53:14.064804+00:00"
 }
