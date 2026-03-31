@@ -1,121 +1,5 @@
 {
   "articles": {
-    "326b4e125c82cf2e": {
-      "title": "海天精工：2025年归母净利润4.29亿元，同比下降17.97%",
-      "fetched_at": "2026-03-23T08:38:07.388278+00:00"
-    },
-    "e8bc69ecf4407f55": {
-      "title": "老铺黄金：2025年营业收入为约273.03亿元，同比增长约221.0%",
-      "fetched_at": "2026-03-23T08:38:07.963281+00:00"
-    },
-    "adc4b1c4b1f22fc0": {
-      "title": "中邮金融资产投资公司成立",
-      "fetched_at": "2026-03-23T08:38:08.546606+00:00"
-    },
-    "785f90f0b5c39a44": {
-      "title": "金财互联：2025年归母净利润6485.68万元，同比扭亏为盈",
-      "fetched_at": "2026-03-23T08:38:09.116233+00:00"
-    },
-    "c77b835ed3961f06": {
-      "title": "中国银行：加强贵金属市场风险防范",
-      "fetched_at": "2026-03-23T08:38:09.697424+00:00"
-    },
-    "961d252a66cb6d21": {
-      "title": "华新环保：林耀武辞任公司常务副总经理职务",
-      "fetched_at": "2026-03-23T08:38:10.301819+00:00"
-    },
-    "343c80976dce521f": {
-      "title": "White-Collar AI Apocalypse Narrative Is Just Another Bullshit",
-      "fetched_at": "2026-03-23T08:38:10.861677+00:00"
-    },
-    "966d3d2ead45afad": {
-      "title": "凯乐士香港IPO获得超2000倍超额认购",
-      "fetched_at": "2026-03-23T08:38:11.486191+00:00"
-    },
-    "28dd983b60eefc8c": {
-      "title": "恒指收跌3.54%，恒生科技指数跌3.28%",
-      "fetched_at": "2026-03-23T08:38:12.058924+00:00"
-    },
-    "49184395c3cc862c": {
-      "title": "VistAI–Save and Search AI Responses from ChatGPT, Claude, Gemini, and Perplexity",
-      "fetched_at": "2026-03-23T08:38:12.688370+00:00"
-    },
-    "85f7bfb9f598d345": {
-      "title": "AutoResearch by Karpathy and the Future of Autonomous AI Research",
-      "fetched_at": "2026-03-23T08:38:13.258114+00:00"
-    },
-    "0f02622fcccb7e42": {
-      "title": "双林股份：发行境外上市外资股（H股）获得中国证监会备案",
-      "fetched_at": "2026-03-23T08:38:13.854426+00:00"
-    },
-    "7b461d3c76b98a6b": {
-      "title": "Brandjet AI",
-      "fetched_at": "2026-03-23T08:38:14.480727+00:00"
-    },
-    "253c03680d53a755": {
-      "title": "Show HN: I made a AI Code Review tool that knows how your company works",
-      "fetched_at": "2026-03-23T08:38:15.043150+00:00"
-    },
-    "f09a157abe1f2709": {
-      "title": "Stop spending money on AI credits Translate your content using self-hosted LLMs",
-      "fetched_at": "2026-03-23T08:38:15.680493+00:00"
-    },
-    "de4886620952083b": {
-      "title": "杭州解百：董事陈星宇因工作调整辞职",
-      "fetched_at": "2026-03-23T08:38:16.246025+00:00"
-    },
-    "399cf80a4c09f7ff": {
-      "title": "Neurvance, Pre-cleaned datasets for LLM fine-tuning, free to download",
-      "fetched_at": "2026-03-23T08:38:16.810787+00:00"
-    },
-    "1c1281a333646d66": {
-      "title": "中国电气装备集团华中公司成立",
-      "fetched_at": "2026-03-23T08:38:17.377935+00:00"
-    },
-    "ac4aac55da34f53e": {
-      "title": "Show HN: AI Prompts for Data Professionals",
-      "fetched_at": "2026-03-23T08:38:18.024366+00:00"
-    },
-    "9256a60a9a9c0d4c": {
-      "title": "日本大型工会初步数据显示，企业同意加薪5.26%",
-      "fetched_at": "2026-03-23T08:38:18.595312+00:00"
-    },
-    "b3be7ff177043f96": {
-      "title": "為何海灣國家尚未報復伊朗？",
-      "fetched_at": "2026-03-23T08:38:20.706396+00:00"
-    },
-    "46f78fdfe18dd630": {
-      "title": "花粉過敏的終結者？新一波季節性過敏療法正在興起",
-      "fetched_at": "2026-03-23T08:38:21.280146+00:00"
-    },
-    "f769a002c9b92d8c": {
-      "title": "高龄华裔女性超速撞死一家四口，缓刑判罚引争议",
-      "fetched_at": "2026-03-23T08:38:21.859878+00:00"
-    },
-    "8686237d37b70600": {
-      "title": "Scientists discover ALS protein that links DNA repair to cancer and dementia",
-      "fetched_at": "2026-03-23T08:38:23.548838+00:00"
-    },
-    "1a3ea1bc0b881527": {
-      "title": "Hidden deep-sea proteins could supercharge disease tests",
-      "fetched_at": "2026-03-23T08:38:24.117019+00:00"
-    },
-    "7d975596c62b1c16": {
-      "title": "A donut-shaped protein breaks apart to start bacterial cell division",
-      "fetched_at": "2026-03-23T08:38:24.738019+00:00"
-    },
-    "272666ed9acee62e": {
-      "title": "NASA’s Curiosity rover investigates strange spiderweb ridges on Mars",
-      "fetched_at": "2026-03-23T08:38:25.312568+00:00"
-    },
-    "d9133c67b1a0226b": {
-      "title": "Scared of spiders? Scientists say the real nightmare is losing them",
-      "fetched_at": "2026-03-23T08:38:25.882657+00:00"
-    },
-    "d942c3d799e0af89": {
-      "title": "NASA launches twin spacecraft to solve the mystery of Mars’ lost atmosphere",
-      "fetched_at": "2026-03-23T08:38:26.454387+00:00"
-    },
     "08dad297fabd6243": {
       "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
       "fetched_at": "2026-03-23T15:39:54.252421+00:00"
@@ -3643,7 +3527,119 @@
     "a9c9228f39103d48": {
       "title": "Scientists stretched a liquid and it snapped like a solid",
       "fetched_at": "2026-03-31T05:56:26.240976+00:00"
+    },
+    "3e478e59be2bf4dc": {
+      "title": "智谱：2025年全年总收入7.24亿元，同比增长131.9%",
+      "fetched_at": "2026-03-31T09:44:37.331269+00:00"
+    },
+    "e73d350d5427db2e": {
+      "title": "Orca – Executable skills and capabilities for AI agent workflows",
+      "fetched_at": "2026-03-31T09:44:37.948812+00:00"
+    },
+    "d3d44a0fe650d4f2": {
+      "title": "I built 5 AI agents that scrape every platform 24/7 to find dev tools you'd miss",
+      "fetched_at": "2026-03-31T09:44:38.600147+00:00"
+    },
+    "3080adec6eab8015": {
+      "title": "复星医药：控股子公司药品获临床试验批准",
+      "fetched_at": "2026-03-31T09:44:39.218574+00:00"
+    },
+    "14a97af681225741": {
+      "title": "I built an O(1) physics engine to stop LLM hallucinations in construction",
+      "fetched_at": "2026-03-31T09:44:39.840550+00:00"
+    },
+    "6a3785c9592813a0": {
+      "title": "国内航线燃油附加费4月5日起上涨5倍",
+      "fetched_at": "2026-03-31T09:44:40.491163+00:00"
+    },
+    "b26fc8c4cc2808e3": {
+      "title": "盛屯矿业：第一季度净利润同比预增226.27%—294.95%",
+      "fetched_at": "2026-03-31T09:44:41.178138+00:00"
+    },
+    "94d91b532b009918": {
+      "title": "央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
+      "fetched_at": "2026-03-31T09:44:41.814349+00:00"
+    },
+    "a7c355cbd03f3771": {
+      "title": "\"An Endless Stream of AI Slop\"",
+      "fetched_at": "2026-03-31T09:44:42.429416+00:00"
+    },
+    "173c0bf03466a46f": {
+      "title": "Cursor rules that prevent AI from hallucinating bad Next.js code",
+      "fetched_at": "2026-03-31T09:44:43.216196+00:00"
+    },
+    "6d2bf3a065e01f4b": {
+      "title": "央行：建议发挥增量政策和存量政策集成效应，加强货币政策调控",
+      "fetched_at": "2026-03-31T09:44:43.853803+00:00"
+    },
+    "985d81f990acacfd": {
+      "title": "央行：切实推进金融高水平双向开放，提高开放条件下经济金融管理能力和风险防控能力",
+      "fetched_at": "2026-03-31T09:44:44.476219+00:00"
+    },
+    "2225a97cd9d09055": {
+      "title": "Prompt intensity threshold effect on AI-generated invention quality (preprint)",
+      "fetched_at": "2026-03-31T09:44:45.182935+00:00"
+    },
+    "c2e80f9859d97b49": {
+      "title": "韩国摄像头公司从供货iPhone向人形机器人拓展",
+      "fetched_at": "2026-03-31T09:44:45.805172+00:00"
+    },
+    "1c46e4395b77ec98": {
+      "title": "美的集团据悉考虑发行20亿美元可转换债券",
+      "fetched_at": "2026-03-31T09:44:46.424249+00:00"
+    },
+    "799d399e8e10c200": {
+      "title": "Does RAG Help AI Coding Tools?",
+      "fetched_at": "2026-03-31T09:44:47.058740+00:00"
+    },
+    "f08fcd4dc8d2d91c": {
+      "title": "HN: AI-native investing app that builds and adapts thematic portfolios to you",
+      "fetched_at": "2026-03-31T09:44:47.678593+00:00"
+    },
+    "7516bc7213f146ce": {
+      "title": "上期所优化期权最后交易日未平仓单行权锁仓业务",
+      "fetched_at": "2026-03-31T09:44:48.300479+00:00"
+    },
+    "8fac52abb44554c3": {
+      "title": "Nebius斥资100亿美元在芬兰建设AI数据中心，进一步拓展欧洲市场",
+      "fetched_at": "2026-03-31T09:44:48.930426+00:00"
+    },
+    "720dfb2cfeac06cb": {
+      "title": "LibreTranslate: Free and Open Source Machine Translation API",
+      "fetched_at": "2026-03-31T09:44:49.578876+00:00"
+    },
+    "293de76a8203ee17": {
+      "title": "張雪峰去世引發萬人送別 中國網紅「升學規劃師」背後的教育焦慮",
+      "fetched_at": "2026-03-31T09:44:52.252594+00:00"
+    },
+    "8fb7e3aeeb916157": {
+      "title": "「鄭習會」將在特朗普訪華前登場 背後的美中台角力與國民黨路線之爭",
+      "fetched_at": "2026-03-31T09:44:52.889271+00:00"
+    },
+    "1b754bac90257438": {
+      "title": "登月後再登火星？NASA 任務為何至關重要？",
+      "fetched_at": "2026-03-31T09:44:53.516460+00:00"
+    },
+    "2b3cb8976cfc7d6b": {
+      "title": "伊朗战争导致全球氦气供应短缺，威胁芯片行业",
+      "fetched_at": "2026-03-31T09:44:54.175284+00:00"
+    },
+    "e08dc153fd0e32b1": {
+      "title": "一座英國的中世紀修道院，成為中國人夢幻婚禮的勝地",
+      "fetched_at": "2026-03-31T09:44:54.863394+00:00"
+    },
+    "c487537589b9c841": {
+      "title": "Scientists discover potentially huge freshwater reservoir hidden beneath Great Salt Lake",
+      "fetched_at": "2026-03-31T09:44:56.520340+00:00"
+    },
+    "927dce2b369c9e75": {
+      "title": "Concentric rocky rings adorned with ancient artwork wear a magma 'hat' in the Sahara — Earth from space",
+      "fetched_at": "2026-03-31T09:44:57.227308+00:00"
+    },
+    "222e193da32edc03": {
+      "title": "This floating time crystal breaks Newton’s third law of motion",
+      "fetched_at": "2026-03-31T09:44:57.842042+00:00"
     }
   },
-  "last_updated": "2026-03-31T05:56:26.355729+00:00"
+  "last_updated": "2026-03-31T09:44:57.978240+00:00"
 }
