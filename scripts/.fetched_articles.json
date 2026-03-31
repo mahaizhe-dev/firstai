@@ -1,133 +1,5 @@
 {
   "articles": {
-    "9b0a0edb4ecf23f8": {
-      "title": "Show HN: AI That Controls Cloudflare WAF, Stripe, and Supabase in Plain English",
-      "fetched_at": "2026-03-23T20:00:20.482054+00:00"
-    },
-    "45686fc4f0cbbf5d": {
-      "title": "LUMINA: LLM-Guided GPU Architecture Exploration via Bottleneck Analysis",
-      "fetched_at": "2026-03-23T20:00:21.046928+00:00"
-    },
-    "5baea5a99546c418": {
-      "title": "What I'm Learning from Aviation About Incident Preparedness",
-      "fetched_at": "2026-03-23T20:00:21.618273+00:00"
-    },
-    "9825c48b08fe4273": {
-      "title": "Google’s new Pixel 10 ads made me go ‘wait, WHAT are they trying to sell?’",
-      "fetched_at": "2026-03-23T20:00:22.201156+00:00"
-    },
-    "0e754c2f264abb78": {
-      "title": "We analyzed 134,000 legal AI interactions. Lawyers still win",
-      "fetched_at": "2026-03-23T20:00:22.770869+00:00"
-    },
-    "0ce557100c4641b6": {
-      "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
-      "fetched_at": "2026-03-23T20:00:23.343949+00:00"
-    },
-    "72d33b97d54d7301": {
-      "title": "LLM Proxy for Agent Containers",
-      "fetched_at": "2026-03-23T20:00:23.929226+00:00"
-    },
-    "0f01b18c5cb2776c": {
-      "title": "Predictably, a victim of AI is Wikipedia",
-      "fetched_at": "2026-03-23T20:00:24.519454+00:00"
-    },
-    "f7d5e8d922cfaf6f": {
-      "title": "Ask HN: Is anyone here also developing \"perpetual AI psychosis\" like Karpathy?",
-      "fetched_at": "2026-03-23T20:00:25.091177+00:00"
-    },
-    "b8c70c064ec28d3f": {
-      "title": "First AI Solution on FrontierMath: Open Problems",
-      "fetched_at": "2026-03-23T20:00:25.699723+00:00"
-    },
-    "5d921ef04408b7de": {
-      "title": "Show HN: Cronbox – Schedule AI Agents",
-      "fetched_at": "2026-03-23T20:00:26.421281+00:00"
-    },
-    "bc1a4e1ce227764b": {
-      "title": "Designing AI Chip Software and Hardware",
-      "fetched_at": "2026-03-23T20:00:26.994318+00:00"
-    },
-    "d19e383966df1201": {
-      "title": "The LLM-Voice problem and what to do about it",
-      "fetched_at": "2026-03-23T20:00:27.557426+00:00"
-    },
-    "ea048405f906e9eb": {
-      "title": "OpenPencil: Open-source AI-native vector design tool",
-      "fetched_at": "2026-03-23T20:00:28.131323+00:00"
-    },
-    "c0aa2097b018a2e4": {
-      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-      "fetched_at": "2026-03-23T20:00:28.743092+00:00"
-    },
-    "814737a0525cdd71": {
-      "title": "Show HN: Primer – build software with AI agents one milestone at a time",
-      "fetched_at": "2026-03-23T20:00:29.315619+00:00"
-    },
-    "5554aefb92ae2643": {
-      "title": "AI Risks \"Hypernormal\" Science",
-      "fetched_at": "2026-03-23T20:00:29.891918+00:00"
-    },
-    "1691581fff38ec13": {
-      "title": "Triage Before You Review: The Skill That AI Made Critical",
-      "fetched_at": "2026-03-23T20:00:30.541357+00:00"
-    },
-    "24c890f2d4246934": {
-      "title": "China's open-source dominance threatens US AI lead, US advisory body warns",
-      "fetched_at": "2026-03-23T20:00:31.149876+00:00"
-    },
-    "3a1be0b6e663f0c2": {
-      "title": "JPMorgan Offers Clients a New Way to Hedge AI Debt Risk",
-      "fetched_at": "2026-03-23T20:00:31.721933+00:00"
-    },
-    "2f66b4bf15c3a96d": {
-      "title": "Cannonball Dated to the Battle of the Alamo",
-      "fetched_at": "2026-03-23T20:01:08.474300+00:00"
-    },
-    "c6b754a0718bd595": {
-      "title": "Artemis II: NASA's first crewed mission to the moon since 1972",
-      "fetched_at": "2026-03-23T20:01:09.048954+00:00"
-    },
-    "41883751557d3a73": {
-      "title": "Seated Skeleton Found in France",
-      "fetched_at": "2026-03-23T20:01:09.615050+00:00"
-    },
-    "ad33f46b3fa054fa": {
-      "title": "Ancient machine gun was used by Romans to attack Pompeii",
-      "fetched_at": "2026-03-23T20:01:10.190641+00:00"
-    },
-    "f0f61b2963f35fbe": {
-      "title": "Why do some people still believe that aliens shaped ancient civilizations",
-      "fetched_at": "2026-03-23T20:01:10.190797+00:00"
-    },
-    "653b6d27d0c30d2b": {
-      "title": "Inscribed Sling Bullet Unearthed in Israel",
-      "fetched_at": "2026-03-23T20:01:10.767613+00:00"
-    },
-    "2bdfe3a6ad5dbac2": {
-      "title": "Russian rocket en route to ISS suffers major antenna glitch, triggering remote-control astronaut 'backup plan'",
-      "fetched_at": "2026-03-23T20:01:11.378017+00:00"
-    },
-    "57c6552e1a0c2b61": {
-      "title": "Antarctica could warm 1.4 times faster than the rest of the Southern Hemisphere in the coming decades, study finds",
-      "fetched_at": "2026-03-23T20:01:11.955235+00:00"
-    },
-    "835ae33af6e939f4": {
-      "title": "Astronomers just found the source of the brightest fast radio burst ever",
-      "fetched_at": "2026-03-23T20:01:12.583076+00:00"
-    },
-    "06bff018cb005db8": {
-      "title": "Scientists discover hidden water beneath Mars that could have supported life",
-      "fetched_at": "2026-03-23T20:01:13.233393+00:00"
-    },
-    "a197a9bfd52f3516": {
-      "title": "The financial crisis that quietly stunted a generation",
-      "fetched_at": "2026-03-23T20:01:13.812602+00:00"
-    },
-    "11bc4d279f4775c1": {
-      "title": "Crops irrigated with wastewater store drugs in their leaves",
-      "fetched_at": "2026-03-23T20:01:14.381540+00:00"
-    },
     "115ed3cb234afc86": {
       "title": "GPT from GPT: de novo microgpt",
       "fetched_at": "2026-03-24T05:15:21.516779+00:00"
@@ -3611,7 +3483,151 @@
     "fe9735609d232ad6": {
       "title": "OWASP PTK 9.8.0 with auto-discovery for bug bounty",
       "fetched_at": "2026-03-31T15:53:13.923768+00:00"
+    },
+    "cea64307bab5ae77": {
+      "title": "Yupp.ai shuts down less than a year after launching with $33M from a16z crypto’s Chris Dixon",
+      "fetched_at": "2026-03-31T20:03:13.618100+00:00"
+    },
+    "3ea4130785cd8275": {
+      "title": "Should AI First Do No Harm?",
+      "fetched_at": "2026-03-31T20:03:14.246214+00:00"
+    },
+    "30b5134dec18a3f2": {
+      "title": "A Taxonomy of AI Agents",
+      "fetched_at": "2026-03-31T20:03:14.908064+00:00"
+    },
+    "3c9617cc99af5303": {
+      "title": "Does AI work feel a bit too habit-forming?",
+      "fetched_at": "2026-03-31T20:03:15.533841+00:00"
+    },
+    "4818e1df8fe991f1": {
+      "title": "Agentic AI Engineering Workflows for iOS in 2026",
+      "fetched_at": "2026-03-31T20:03:16.153135+00:00"
+    },
+    "7e6db18dd5dbde44": {
+      "title": "Google Gemini may adapt AI answers to match user tone: Report",
+      "fetched_at": "2026-03-31T20:03:16.765396+00:00"
+    },
+    "47a66f3cd68ba849": {
+      "title": "Sauver: An open-source, local AI agent that fights email slop",
+      "fetched_at": "2026-03-31T20:03:17.388901+00:00"
+    },
+    "46a156bf805912f0": {
+      "title": "Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology",
+      "fetched_at": "2026-03-31T20:03:18.026905+00:00"
+    },
+    "a933f65ebcf22d40": {
+      "title": "Show HN: ModelAtlas – Find AI models that HuggingFace search can't",
+      "fetched_at": "2026-03-31T20:03:18.731402+00:00"
+    },
+    "e66248fc4ca9f013": {
+      "title": "Employers Beware: Uptick in BIPA Lawsuits Targeting AI Note-Taking Software",
+      "fetched_at": "2026-03-31T20:03:19.353188+00:00"
+    },
+    "80183b832cf38c52": {
+      "title": "Jailbroken, open-source, pre-built iOS 26 virtual machine",
+      "fetched_at": "2026-03-31T20:03:19.977869+00:00"
+    },
+    "b8a33170569c6f71": {
+      "title": "A survey of how companies are buying AI professional services",
+      "fetched_at": "2026-03-31T20:03:20.598196+00:00"
+    },
+    "23f1bf991218c9cf": {
+      "title": "SwarmSync– We built the transaction layer for autonomous AI Commerce",
+      "fetched_at": "2026-03-31T20:03:21.277672+00:00"
+    },
+    "0da551797286e2c8": {
+      "title": "Ask HN: Is there any founder building non AI startup in 2026?",
+      "fetched_at": "2026-03-31T20:03:21.902434+00:00"
+    },
+    "236cdd073500d3c5": {
+      "title": "Leaked Memo Suggests Red Hat's Chugging the AI Kool-Aid",
+      "fetched_at": "2026-03-31T20:03:22.976065+00:00"
+    },
+    "fa7b5ea9105adf63": {
+      "title": "Sprintra – Persistent memory for AI coding agents (MCP-native)",
+      "fetched_at": "2026-03-31T20:03:23.633375+00:00"
+    },
+    "a435e257a2220130": {
+      "title": "Ask HN: How to Break into AI Engineering (Revisited)",
+      "fetched_at": "2026-03-31T20:03:24.263391+00:00"
+    },
+    "770c7863591e9771": {
+      "title": "Claude Code fork that works with any OpenAI-compatible LLM",
+      "fetched_at": "2026-03-31T20:03:24.896234+00:00"
+    },
+    "a1c13795454a6940": {
+      "title": "Show HN: AI Engineering AI-native Self-learning course repo",
+      "fetched_at": "2026-03-31T20:03:25.531986+00:00"
+    },
+    "9818973001512bf0": {
+      "title": "Ask HN: Has anyone benchmarked skill availability impact on LLM performance?",
+      "fetched_at": "2026-03-31T20:03:26.145997+00:00"
+    },
+    "5f9e3ebffd0b25eb": {
+      "title": "韓團BTS回歸：全球矚目背後有何文化與經濟意義？",
+      "fetched_at": "2026-03-31T20:03:29.060443+00:00"
+    },
+    "3f3c44e975b805dc": {
+      "title": "'80% chance of a go,' launch weather officer says at NASA's Artemis II prelaunch conference",
+      "fetched_at": "2026-03-31T20:03:30.338902+00:00"
+    },
+    "bf5763e569b568a0": {
+      "title": "Artifacts Repatriated to Peru",
+      "fetched_at": "2026-03-31T20:03:30.944086+00:00"
+    },
+    "8c6175270b8dde98": {
+      "title": "'It blew my mind': Long-lost ice-age ecosystem, including fossils of lion-size armadillo and giant ground sloth, discovered in Texas 'water cave'",
+      "fetched_at": "2026-03-31T20:03:31.566040+00:00"
+    },
+    "db229077e677e4b6": {
+      "title": "Medieval Populations Mixed on the Mediterranean Island of Ibiza",
+      "fetched_at": "2026-03-31T20:03:32.235490+00:00"
+    },
+    "89e69163fa77ed55": {
+      "title": "China's huge push to reduce air pollution had an unexpected consequence in the Arctic",
+      "fetched_at": "2026-03-31T20:03:32.864263+00:00"
+    },
+    "b0df33d469b32394": {
+      "title": "Wine and Frankincense Identified in Roman Incense Burner",
+      "fetched_at": "2026-03-31T20:03:33.489354+00:00"
+    },
+    "6b511db39b20024c": {
+      "title": "New Thoughts on Norwegian Iron Age Mound",
+      "fetched_at": "2026-03-31T20:03:34.111633+00:00"
+    },
+    "24da03775c7427cb": {
+      "title": "Scientists have discovered an 'Achilles' heel' in deadly superbugs",
+      "fetched_at": "2026-03-31T20:03:34.747712+00:00"
+    },
+    "08405e84673993bb": {
+      "title": "Snag this Paramount+ deal and get a bird's-eye view of the world with these amazing documentaries — but be quick, it ends today!",
+      "fetched_at": "2026-03-31T20:03:35.444991+00:00"
+    },
+    "7d2e238ae0382050": {
+      "title": "Quantum computers need just 10,000 qubits — not the millions we assumed — to break the world's most secure encryption algorithms",
+      "fetched_at": "2026-03-31T20:03:36.064832+00:00"
+    },
+    "5e28f18e5acb6985": {
+      "title": "Artemis II timeline: 12 key steps that will take NASA astronauts to the moon and back",
+      "fetched_at": "2026-03-31T20:03:36.708584+00:00"
+    },
+    "e1d94681afac0777": {
+      "title": "Artemis II launch LIVE: NASA prepares for Wednesday launch of historic space mission",
+      "fetched_at": "2026-03-31T20:03:37.338197+00:00"
+    },
+    "48de27a4ca0d7d6e": {
+      "title": "Pig semen component could deliver chemotherapy to hard-to-reach eye cancer, mouse study suggests",
+      "fetched_at": "2026-03-31T20:03:37.976044+00:00"
+    },
+    "65fa9775f349e06a": {
+      "title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
+      "fetched_at": "2026-03-31T20:03:38.616385+00:00"
+    },
+    "7f7c42f3517acceb": {
+      "title": "Most people get food’s environmental impact completely wrong, study finds",
+      "fetched_at": "2026-03-31T20:03:39.271972+00:00"
     }
   },
-  "last_updated": "2026-03-31T15:53:14.064804+00:00"
+  "last_updated": "2026-03-31T20:03:39.413389+00:00"
 }
