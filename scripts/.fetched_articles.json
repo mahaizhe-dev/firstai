@@ -1,117 +1,5 @@
 {
   "articles": {
-    "0a985adae8e98f97": {
-      "title": "Writing an LLM from scratch, part 32g – Interventions: weight tying",
-      "fetched_at": "2026-03-24T20:01:03.447384+00:00"
-    },
-    "72108be284415d4f": {
-      "title": "Ask HN: Constrained LLM Games",
-      "fetched_at": "2026-03-24T20:01:04.119484+00:00"
-    },
-    "b4b2fbbac9026e25": {
-      "title": "Arm is releasing the first in-house chip in its 35-year history",
-      "fetched_at": "2026-03-24T20:01:04.685541+00:00"
-    },
-    "3b107af12579857c": {
-      "title": "Show HN: Nekoni – local AI agent accessible from your phone, no cloud",
-      "fetched_at": "2026-03-24T20:01:05.252570+00:00"
-    },
-    "764b24d992ec5f97": {
-      "title": "SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems",
-      "fetched_at": "2026-03-24T20:01:05.822980+00:00"
-    },
-    "18f4a3c54734ec28": {
-      "title": "Image Generation and Upgraded AI Coding with Mojo",
-      "fetched_at": "2026-03-24T20:01:06.391319+00:00"
-    },
-    "21c5115750614f6b": {
-      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
-      "fetched_at": "2026-03-24T20:01:06.959594+00:00"
-    },
-    "83964d09c4a49db7": {
-      "title": "Show HN: AI Roundtable – Let 200 models debate your question",
-      "fetched_at": "2026-03-24T20:01:07.619266+00:00"
-    },
-    "dd562b55d2113572": {
-      "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
-      "fetched_at": "2026-03-24T20:01:08.189930+00:00"
-    },
-    "48c0a622ab6ef052": {
-      "title": "Telling Your AI Agent It's an Expert Makes It Less Accurate",
-      "fetched_at": "2026-03-24T20:01:08.753738+00:00"
-    },
-    "ec0737e00214f6ff": {
-      "title": "Show HN: TrailTool – open-source CLI for querying CloudTrail data with AI agents",
-      "fetched_at": "2026-03-24T20:01:09.318234+00:00"
-    },
-    "dba7c60c2c7066e5": {
-      "title": "Norway wealth fund moves towards some AI-driven decisions with humans in control",
-      "fetched_at": "2026-03-24T20:01:09.924517+00:00"
-    },
-    "edd40fc6a1ad34c5": {
-      "title": "Show HN: Clarity – An AI Slack coach for better work communication",
-      "fetched_at": "2026-03-24T20:01:10.482184+00:00"
-    },
-    "298fb1a4176f2970": {
-      "title": "OpenAI adds open source tools to help developers build for teen safety",
-      "fetched_at": "2026-03-24T20:01:11.050648+00:00"
-    },
-    "73c10392fa37cb46": {
-      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
-      "fetched_at": "2026-03-24T20:01:11.611687+00:00"
-    },
-    "9089610bb6b6b3ab": {
-      "title": "Should religious AI chatbots be treated differently from all others?",
-      "fetched_at": "2026-03-24T20:01:12.186777+00:00"
-    },
-    "4ed6ce1d5f2ba70f": {
-      "title": "Cognitive OS – Prediction-error learning layer for AI agents",
-      "fetched_at": "2026-03-24T20:01:12.811818+00:00"
-    },
-    "29dc7b3afdd8c63d": {
-      "title": "Yes, AI is intelligent. Prove me wrong",
-      "fetched_at": "2026-03-24T20:01:13.379185+00:00"
-    },
-    "10f1e5bc1672c4d4": {
-      "title": "Gmail AI Productivity Hacks",
-      "fetched_at": "2026-03-24T20:01:13.956482+00:00"
-    },
-    "d53fe183ef338703": {
-      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-      "fetched_at": "2026-03-24T20:01:14.517021+00:00"
-    },
-    "97b555c49e6fdc94": {
-      "title": "Study Tracks Arrival of Bow and Arrow in North America",
-      "fetched_at": "2026-03-24T20:01:18.236980+00:00"
-    },
-    "7a1267f4337ab864": {
-      "title": "Well-Preserved Medieval Town Identified in Poland",
-      "fetched_at": "2026-03-24T20:01:18.809589+00:00"
-    },
-    "aea58344fae9b4f8": {
-      "title": "Cannonball-size meteorite crashes through roof of Texas home as multiple 'fireballs' rain down on the US",
-      "fetched_at": "2026-03-24T20:01:19.403906+00:00"
-    },
-    "6fd09062059f9e19": {
-      "title": "Neanderthals May Have Used Birch Tar to Treat Wounds",
-      "fetched_at": "2026-03-24T20:01:19.969218+00:00"
-    },
-    "9604a86260065a6c": {
-      "title": "Iran war has already released a staggering amount of CO2 — and the destruction of schools, homes and buildings is the biggest source",
-      "fetched_at": "2026-03-24T20:01:20.540617+00:00"
-    },
-    "13fbd607194c3466": {
-      "title": "A rare active volcano on Mars may be causing the whole planet to spin faster",
-      "fetched_at": "2026-03-24T20:01:21.104988+00:00"
-    },
-    "85677fd7dd25b63d": {
-      "title": "Scientists discover what really happens during sourdough fermentation",
-      "fetched_at": "2026-03-24T20:01:21.683625+00:00"
-    },
-    "5baad379850e12f2": {
-      "title": "The smell of Egyptian mummies is revealing 2,000-year-old secrets",
-      "fetched_at": "2026-03-24T20:01:22.249232+00:00"
-    },
     "9162c6c066405b79": {
       "title": "港股泡泡玛特午后跌超14%",
       "fetched_at": "2026-03-25T05:16:15.780831+00:00"
@@ -3535,7 +3423,135 @@
     "2c13f50adc35a2b3": {
       "title": "Coffee at night may increase risky behavior, especially in women",
       "fetched_at": "2026-04-01T15:58:24.292804+00:00"
+    },
+    "441d419cb60ab69e": {
+      "title": "YC-backed AI startup can now prescribe psychiatric drugs, first in world",
+      "fetched_at": "2026-04-01T20:06:25.654733+00:00"
+    },
+    "9ccb5cf7efbc123d": {
+      "title": "Show HN: Roadie – An open-source KVM that lets AI control your phone",
+      "fetched_at": "2026-04-01T20:06:26.245308+00:00"
+    },
+    "3699325ca01b8fbe": {
+      "title": "Fujitsu One Compression (LLM Quantization)",
+      "fetched_at": "2026-04-01T20:06:26.813006+00:00"
+    },
+    "6c533aadc789a98a": {
+      "title": "What Retail AI and Compute Infrastructure Looks Like in 2026",
+      "fetched_at": "2026-04-01T20:06:27.425610+00:00"
+    },
+    "8cebaaa6508490af": {
+      "title": "Show HN: 4D business analysis with parallel AI agents (AofA-inspired)",
+      "fetched_at": "2026-04-01T20:06:27.998192+00:00"
+    },
+    "b1a2f14a74cf2cbf": {
+      "title": "Bluesky Is Made with AI",
+      "fetched_at": "2026-04-01T20:06:28.565339+00:00"
+    },
+    "60c951ee34ff5600": {
+      "title": "Show HN: Auto sketch prompt and AI renderings for architects",
+      "fetched_at": "2026-04-01T20:06:29.203399+00:00"
+    },
+    "c2fe4392e48bf8ba": {
+      "title": "Show HN: Modern AI assisted goals and performance management",
+      "fetched_at": "2026-04-01T20:06:29.774949+00:00"
+    },
+    "eb60f0743c9fae6d": {
+      "title": "FreeMediaHeckYeah AI",
+      "fetched_at": "2026-04-01T20:06:30.473692+00:00"
+    },
+    "8e39922f918633fe": {
+      "title": "The Axios NPM compromise and the missing trust layer for AI coding agents",
+      "fetched_at": "2026-04-01T20:06:31.047919+00:00"
+    },
+    "a29daed5175ce0fc": {
+      "title": "Ask HN: What would you like to see in an AI agent?",
+      "fetched_at": "2026-04-01T20:06:31.616219+00:00"
+    },
+    "7d57406aeb5f4af3": {
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "fetched_at": "2026-04-01T20:06:32.214261+00:00"
+    },
+    "2562cda21b45dc02": {
+      "title": "I replaced one AI agent with a mesh of specialists. Here's what changed",
+      "fetched_at": "2026-04-01T20:06:32.790568+00:00"
+    },
+    "25dff0913fe20217": {
+      "title": "AI Let Me Be the Engineer I've Always Wanted to Be",
+      "fetched_at": "2026-04-01T20:06:33.356555+00:00"
+    },
+    "f0173ddd28ff8f74": {
+      "title": "Show HN: ComputerPoker.ai – Learn GTO tournament poker strategy vs. GTO bots",
+      "fetched_at": "2026-04-01T20:06:33.922351+00:00"
+    },
+    "ac420d1d6b576d20": {
+      "title": "Go Ahead and Use AI. It Will Only Help Me Dominate You",
+      "fetched_at": "2026-04-01T20:06:34.526179+00:00"
+    },
+    "3bf3c72326629101": {
+      "title": "The AI Marketing BS Index",
+      "fetched_at": "2026-04-01T20:06:35.088825+00:00"
+    },
+    "1860b57b4be1285f": {
+      "title": "California's \"Trusted AI\" Order Is a Blueprint for a Censorship Weapon",
+      "fetched_at": "2026-04-01T20:06:35.703386+00:00"
+    },
+    "540a44683986c195": {
+      "title": "Mercury 2, a diffusion LLM, outperforms StepFun 3.5 Flash on OpenClaw tasks",
+      "fetched_at": "2026-04-01T20:06:36.273513+00:00"
+    },
+    "6c4b924cae5cad06": {
+      "title": "AI companies charge you 60% more based on your language, BPE tokens",
+      "fetched_at": "2026-04-01T20:06:36.843585+00:00"
+    },
+    "b6a8b6806bf0991a": {
+      "title": "AI駕駛無人戰機：拆解未來戰場的攻防新技術",
+      "fetched_at": "2026-04-01T20:06:38.735744+00:00"
+    },
+    "65c76480569d5ac0": {
+      "title": "中國人形機器人之夢：當熱度退潮，留下的是泡沫還是繁榮？",
+      "fetched_at": "2026-04-01T20:06:39.302828+00:00"
+    },
+    "0b066c9dbe23054b": {
+      "title": "Astronauts can face 'nearly lethal doses' of solar radiation — so why launch Artemis II during the sun's peak of activity? Space scientist Patricia Reiff explains.",
+      "fetched_at": "2026-04-01T20:06:45.040674+00:00"
+    },
+    "11d9ef21929e9cc9": {
+      "title": "An Archaeology-Inspired Database",
+      "fetched_at": "2026-04-01T20:06:45.606364+00:00"
+    },
+    "49fa15aa2cb401e0": {
+      "title": "Aegean Underwater Archaeological Sites Surveyed",
+      "fetched_at": "2026-04-01T20:06:46.197645+00:00"
+    },
+    "d48d0d3f85f61267": {
+      "title": "Neanderthals from Denisova Cave Were Related",
+      "fetched_at": "2026-04-01T20:06:46.909690+00:00"
+    },
+    "f266c315de523293": {
+      "title": "Tasmanian Tigers Identified in Northern Australian Rock Art",
+      "fetched_at": "2026-04-01T20:06:47.475690+00:00"
+    },
+    "a63d6f0bac2a8670": {
+      "title": "Shipwrecks Found Near Ancient Port City Off Libyan Coast",
+      "fetched_at": "2026-04-01T20:06:48.043154+00:00"
+    },
+    "268de06613aad6ed": {
+      "title": "Artemis II launch LIVE: Crew buckled inside Orion capsule as engineers make final prelaunch checks",
+      "fetched_at": "2026-04-01T20:06:48.612187+00:00"
+    },
+    "3b9b03e97e5f516b": {
+      "title": "Supercomputers just solved a 50-year-old mystery about giant stars",
+      "fetched_at": "2026-04-01T20:06:49.182211+00:00"
+    },
+    "99ad44f471a445a3": {
+      "title": "Scientists found a rhino in the Arctic and it changes everything",
+      "fetched_at": "2026-04-01T20:06:49.766085+00:00"
+    },
+    "d3beee4e880e159c": {
+      "title": "Insulin pills may soon replace daily injections",
+      "fetched_at": "2026-04-01T20:06:50.334345+00:00"
     }
   },
-  "last_updated": "2026-04-01T15:58:24.447051+00:00"
+  "last_updated": "2026-04-01T20:06:50.475320+00:00"
 }
