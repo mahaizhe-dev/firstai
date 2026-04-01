@@ -1,125 +1,5 @@
 {
   "articles": {
-    "115ed3cb234afc86": {
-      "title": "GPT from GPT: de novo microgpt",
-      "fetched_at": "2026-03-24T05:15:21.516779+00:00"
-    },
-    "f2958503fc1abf2c": {
-      "title": "涂鸦智能发布TuyaClaw，为全网首批支持微信ClawBot",
-      "fetched_at": "2026-03-24T05:15:22.223013+00:00"
-    },
-    "283253e7079be5a1": {
-      "title": "SK海力士拟从ASML韩国公司购买极紫外光刻机",
-      "fetched_at": "2026-03-24T05:15:22.847135+00:00"
-    },
-    "49eea56c5c68bd78": {
-      "title": "Ask HN: AI companies' bots are making my server slow, what do you do?",
-      "fetched_at": "2026-03-24T05:15:23.469522+00:00"
-    },
-    "ffe30724326acb3c": {
-      "title": "Alibaba Unveils New Chip Design to Meet Surging Demand for AI",
-      "fetched_at": "2026-03-24T05:15:24.149616+00:00"
-    },
-    "a1bfdaef31dcb868": {
-      "title": "2025年我国化妆品市场规模超万亿元，国货占比近六成",
-      "fetched_at": "2026-03-24T05:15:24.771269+00:00"
-    },
-    "e7e4f77dbc015138": {
-      "title": "Sovereign AI OS and SAMN Introduction",
-      "fetched_at": "2026-03-24T05:15:25.426530+00:00"
-    },
-    "5168f411b8713d0b": {
-      "title": "成都出台公积金新政，最高贷款额度提升至120万元",
-      "fetched_at": "2026-03-24T05:15:26.061911+00:00"
-    },
-    "37e662e8792c2137": {
-      "title": "OpenAI开更优条件吸引PE，与Anthropic竞争企业AI",
-      "fetched_at": "2026-03-24T05:15:26.714958+00:00"
-    },
-    "8a1ccfb4dadcf815": {
-      "title": "花旗集团任命两位新的基础设施融资部门联席主管",
-      "fetched_at": "2026-03-24T05:15:27.339814+00:00"
-    },
-    "1c0fcbe6357c974c": {
-      "title": "Show HN: Locro – Fast and accurate local OCR through Chrome's screen_ai",
-      "fetched_at": "2026-03-24T05:15:27.975775+00:00"
-    },
-    "9277c7ad43929f61": {
-      "title": "深交所：嘉实原油LOF3月24日下午开市起至收市实施临时停牌",
-      "fetched_at": "2026-03-24T05:15:28.606971+00:00"
-    },
-    "29ca3d351a88fc19": {
-      "title": "华硕预告第二季将大幅调高PC售价，最高涨幅上看三成",
-      "fetched_at": "2026-03-24T05:15:29.294324+00:00"
-    },
-    "a448e2bf63590909": {
-      "title": "深交所：原油LOF易方达3月24日下午开市起至收市实施临时停牌",
-      "fetched_at": "2026-03-24T05:15:29.959376+00:00"
-    },
-    "0d1d04527a41f693": {
-      "title": "Blackburn AI Bill Repeals Section 230, Expands AI Liability, Age Verification",
-      "fetched_at": "2026-03-24T05:15:30.672546+00:00"
-    },
-    "e4a547b267f28935": {
-      "title": "中环领先半导体公司增资至约53.9亿元",
-      "fetched_at": "2026-03-24T05:15:31.321868+00:00"
-    },
-    "830f2d5528b2dff5": {
-      "title": "蜜雪集团：2025年营收335.6亿元，同比增长35.2%",
-      "fetched_at": "2026-03-24T05:15:31.969859+00:00"
-    },
-    "ad2cda10aa8df662": {
-      "title": "今年前两月上合示范区对上合组织其他成员国进出口增长17.6%",
-      "fetched_at": "2026-03-24T05:15:32.609246+00:00"
-    },
-    "cd23e5a340dd9b66": {
-      "title": "PwC will say goodbye to staff who aren't convinced about AI",
-      "fetched_at": "2026-03-24T05:15:33.410854+00:00"
-    },
-    "e39980f9ce422429": {
-      "title": "阿里巴巴旗下公司同日成立2家新数据科技公司",
-      "fetched_at": "2026-03-24T05:15:34.032234+00:00"
-    },
-    "9d2ff70be8f779a6": {
-      "title": "分析：戰爭持續越久，美國和伊朗就會更加陷入欲罷不能的境地",
-      "fetched_at": "2026-03-24T05:15:36.934353+00:00"
-    },
-    "e542fb98e8f213e5": {
-      "title": "拉瓜迪亚惊魂：乘客回忆加航客机事故瞬间",
-      "fetched_at": "2026-03-24T05:15:37.563767+00:00"
-    },
-    "a33ddcd858d26320": {
-      "title": "纽约拉瓜迪亚机场客机与消防车相撞，目前我们所知的",
-      "fetched_at": "2026-03-24T05:15:38.182224+00:00"
-    },
-    "fd9c121c6accbb08": {
-      "title": "中国官方调控油价，限制涨幅减轻用油负担",
-      "fetched_at": "2026-03-24T05:15:38.971750+00:00"
-    },
-    "0b19a991478ef207": {
-      "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
-      "fetched_at": "2026-03-24T05:15:39.621715+00:00"
-    },
-    "15efc0a180ff4189": {
-      "title": "無論身在何方，總有一碗湯給你溫暖",
-      "fetched_at": "2026-03-24T05:15:40.239378+00:00"
-    },
-    "d92f2aed4e3e386a": {
-      "title": "台湾国防预算僵局背后，国民党选择华盛顿还是北京？",
-      "fetched_at": "2026-03-24T05:15:40.876753+00:00"
-    },
-    "90b0d9f86b9975bb": {
-      "title": "谈还是继续打？特朗普与伊朗说法不一",
-      "fetched_at": "2026-03-24T05:15:41.499196+00:00"
-    },
-    "24f79f52eca5c4cb": {
-      "title": "Women over 50 lost 35% more weight with this surprising combo",
-      "fetched_at": "2026-03-24T05:15:51.430836+00:00"
-    },
-    "c3535c75126fe81f": {
-      "title": "Chemistry student develops clear polish that turns your fingernail into a touch-screen stylus",
-      "fetched_at": "2026-03-24T05:15:52.073584+00:00"
-    },
     "bc2e69d67ff594fe": {
       "title": "Modular 26.2: Image Generation and Upgraded AI Coding with Mojo",
       "fetched_at": "2026-03-24T08:07:16.840752+00:00"
@@ -3627,7 +3507,139 @@
     "7f7c42f3517acceb": {
       "title": "Most people get food’s environmental impact completely wrong, study finds",
       "fetched_at": "2026-03-31T20:03:39.271972+00:00"
+    },
+    "9b5e4ce7460b04b0": {
+      "title": "36氪首发 | 半导体设备老兵创业晶圆键合公司，元禾璞华领投新一轮融资",
+      "fetched_at": "2026-04-01T06:12:34.867276+00:00"
+    },
+    "f1b06a388a33730c": {
+      "title": "美国纽约市宣布撤销政府设备使用TikTok禁令",
+      "fetched_at": "2026-04-01T06:12:35.490600+00:00"
+    },
+    "075477073396af59": {
+      "title": "When AI Fails",
+      "fetched_at": "2026-04-01T06:12:36.105471+00:00"
+    },
+    "4013a29290a82f0c": {
+      "title": "韩国航空公司大幅上调燃油附加费",
+      "fetched_at": "2026-04-01T06:12:36.732088+00:00"
+    },
+    "c501b5996df7b028": {
+      "title": "阿布扎比投资控股集团以22.5亿美元收购美国一天然气基础设施公司全部股权",
+      "fetched_at": "2026-04-01T06:12:37.355610+00:00"
+    },
+    "517fa259f4b22eef": {
+      "title": "Better Blog AI | Automated Blog publishing to any CMS",
+      "fetched_at": "2026-04-01T06:12:37.999104+00:00"
+    },
+    "bd85c568edaec102": {
+      "title": "法国3月份新车注册量同比增长12.9%",
+      "fetched_at": "2026-04-01T06:12:38.622560+00:00"
+    },
+    "6ee6a3fdfce1a241": {
+      "title": "沪深两市成交额超1.5万亿元",
+      "fetched_at": "2026-04-01T06:12:39.255480+00:00"
+    },
+    "352edad50742f797": {
+      "title": "从急救困局到AI预警，如何守住心血管疾病的“最后战场”？",
+      "fetched_at": "2026-04-01T06:12:39.931263+00:00"
+    },
+    "01eb3156155d0d55": {
+      "title": "三星生物制剂2.8亿美元收购葛兰素史克美国工厂",
+      "fetched_at": "2026-04-01T06:12:40.547647+00:00"
+    },
+    "76166885553ffd7d": {
+      "title": "全球首条万台级人形机器人自动化产线在广东正式启用",
+      "fetched_at": "2026-04-01T06:12:41.165802+00:00"
+    },
+    "5a5608ad1d1da808": {
+      "title": "海南离岛免税“即购即提”“担保即提”实施三周年，购物金额超100亿元",
+      "fetched_at": "2026-04-01T06:12:41.782371+00:00"
+    },
+    "48c530b4efc03797": {
+      "title": "The AI Industry, Unloved",
+      "fetched_at": "2026-04-01T06:12:42.427511+00:00"
+    },
+    "9f5518ab27d9f407": {
+      "title": "如祺出行：2025年公司总收入大增114.6%，毛利增长395.3%",
+      "fetched_at": "2026-04-01T06:12:43.040684+00:00"
+    },
+    "dd9d7e0b51463f5a": {
+      "title": "Show HN: Browserbeam – a browser API built for AI agents",
+      "fetched_at": "2026-04-01T06:12:43.665824+00:00"
+    },
+    "40a1978e1065c5d7": {
+      "title": "You can generate flowcharts through AI chat now",
+      "fetched_at": "2026-04-01T06:12:44.314170+00:00"
+    },
+    "8e964a16af87ddd4": {
+      "title": "Perplexity AI Machine Accused of Sharing Data with Meta, Google",
+      "fetched_at": "2026-04-01T06:12:44.949639+00:00"
+    },
+    "84df2068ea53935b": {
+      "title": "Show HN: Calx – track and compile corrections humans make with AI agents",
+      "fetched_at": "2026-04-01T06:12:45.572654+00:00"
+    },
+    "5cd5b8f8aec60a6c": {
+      "title": "We built a 60-page ERP knowledge base in 24 hours using AI",
+      "fetched_at": "2026-04-01T06:12:46.201346+00:00"
+    },
+    "8d69347f5b92a944": {
+      "title": "拉普拉斯澄清：截至目前公司并未取得相关订单",
+      "fetched_at": "2026-04-01T06:12:46.856206+00:00"
+    },
+    "07e39ad7a62c4872": {
+      "title": "特朗普稱很快且無需協議結束伊朗戰事，美方地面部隊仍在集結",
+      "fetched_at": "2026-04-01T06:12:49.591148+00:00"
+    },
+    "d709738b02ab2911": {
+      "title": "普京强化互联网管控，俄罗斯转向伊朗模式？",
+      "fetched_at": "2026-04-01T06:12:50.211225+00:00"
+    },
+    "4d351bfdc4b51b6b": {
+      "title": "中國禁止將空置住房改為「骨灰公寓」",
+      "fetched_at": "2026-04-01T06:12:51.036249+00:00"
+    },
+    "72962c09f27ef6ce": {
+      "title": "特朗普真的实现了伊朗“政权更迭”吗？",
+      "fetched_at": "2026-04-01T06:12:51.761035+00:00"
+    },
+    "b92a832d1ca85434": {
+      "title": "美国参议员敦促台湾增加军费开支，北京表示抗议",
+      "fetched_at": "2026-04-01T06:12:52.377368+00:00"
+    },
+    "be286f29e021fe40": {
+      "title": "不想買還是買不起？——香港青年置業率持續下降",
+      "fetched_at": "2026-04-01T06:12:52.983881+00:00"
+    },
+    "9514d28ab7bc5f2a": {
+      "title": "特朗普为何积极推动美国“重返月球”",
+      "fetched_at": "2026-04-01T06:12:53.605739+00:00"
+    },
+    "4abc442ade51eb3d": {
+      "title": "How squid survived Earth’s biggest extinction and took over the oceans",
+      "fetched_at": "2026-04-01T06:12:55.748076+00:00"
+    },
+    "acafa8dcf40d8d84": {
+      "title": "NASA’s asteroid Bennu sample reveals a hidden chemical patchwork",
+      "fetched_at": "2026-04-01T06:12:56.366554+00:00"
+    },
+    "7353c448054871dc": {
+      "title": "Artemis II launch LIVE: What do astronauts do the night before a launch?",
+      "fetched_at": "2026-04-01T06:12:56.992481+00:00"
+    },
+    "8238d91033e9a361": {
+      "title": "Hardly anyone uses this surprisingly simple blood pressure fix",
+      "fetched_at": "2026-04-01T06:12:57.602647+00:00"
+    },
+    "f4de6b0b5f68c972": {
+      "title": "Your DNA is constantly moving—and it may explain cancer",
+      "fetched_at": "2026-04-01T06:12:58.415972+00:00"
+    },
+    "59e9f0e0a46e456a": {
+      "title": "The ancient reason there are 60 minutes in an hour",
+      "fetched_at": "2026-04-01T06:12:59.038238+00:00"
     }
   },
-  "last_updated": "2026-03-31T20:03:39.413389+00:00"
+  "last_updated": "2026-04-01T06:12:59.180764+00:00"
 }
