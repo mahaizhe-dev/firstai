@@ -1,273 +1,5 @@
 {
   "articles": {
-    "52611087dee8b96e": {
-      "title": "Show HN: Kern – open-source AI Agent with built in Agent-to-Agent communication",
-      "fetched_at": "2026-03-25T15:49:47.441018+00:00"
-    },
-    "4c3a886e92da5a25": {
-      "title": "When AI Agents Get AWS Access",
-      "fetched_at": "2026-03-25T15:49:48.045323+00:00"
-    },
-    "166a9bd29f237f0c": {
-      "title": "Llumen – A lightweight but powerful LLM chat application",
-      "fetched_at": "2026-03-25T15:49:48.625179+00:00"
-    },
-    "bc5566d0d5a42f98": {
-      "title": "What we wish we knew about building AI agents",
-      "fetched_at": "2026-03-25T15:49:49.271130+00:00"
-    },
-    "6fecf0e6ecdc9623": {
-      "title": "AI coding agents are running on your machines – Do you know what they're doing?",
-      "fetched_at": "2026-03-25T15:49:49.838689+00:00"
-    },
-    "a13fdd8718df5a47": {
-      "title": "Before Leon AI 2.0, I want to say this",
-      "fetched_at": "2026-03-25T15:49:50.407846+00:00"
-    },
-    "f215b9861c89397a": {
-      "title": "Building an AI Data Analyst Sucks",
-      "fetched_at": "2026-03-25T15:49:50.974857+00:00"
-    },
-    "2f4638c6d33b66c7": {
-      "title": "Senate Democrats are trying to ‘codify’ Anthropic&#8217;s red lines on autonomous weapons and mass surveillance",
-      "fetched_at": "2026-03-25T15:49:51.538755+00:00"
-    },
-    "4d3f36ca9f63f918": {
-      "title": "I built a game where an AI judges whether things deserve each other",
-      "fetched_at": "2026-03-25T15:49:52.126174+00:00"
-    },
-    "e0973f245cca2e2f": {
-      "title": "Choosing an LLM Framework in 2026",
-      "fetched_at": "2026-03-25T15:49:52.962969+00:00"
-    },
-    "be38801e1ee5d44f": {
-      "title": "Show HN: Replacing cloud LLM APIs with local, domain-specific models",
-      "fetched_at": "2026-03-25T15:49:53.658534+00:00"
-    },
-    "2599e429b5dd1906": {
-      "title": "New Brunswick unveils new AI chatbot for tourists, but not without errors",
-      "fetched_at": "2026-03-25T15:49:54.261604+00:00"
-    },
-    "c301bfdaaebf1097": {
-      "title": "AI agents are now deciding what's safe to run (Claude Auto Mode)",
-      "fetched_at": "2026-03-25T15:49:54.826693+00:00"
-    },
-    "4d5e7eed998d860d": {
-      "title": "How AI Kills at Scale",
-      "fetched_at": "2026-03-25T15:49:55.405721+00:00"
-    },
-    "7e5e945939e93880": {
-      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-      "fetched_at": "2026-03-25T15:49:55.979069+00:00"
-    },
-    "93f5d42332810377": {
-      "title": "Show HN: Architect – AI that stress-tests your startup idea before you build it",
-      "fetched_at": "2026-03-25T15:49:56.667867+00:00"
-    },
-    "9bab93a9f3ce0a47": {
-      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-      "fetched_at": "2026-03-25T15:49:57.404539+00:00"
-    },
-    "be6d3b5e73aca3e6": {
-      "title": "The 667MHz Machine",
-      "fetched_at": "2026-03-25T15:49:58.017173+00:00"
-    },
-    "fe215721ff2acc30": {
-      "title": "To Counter China, America's Military AI Needs an Open-Source Reboot",
-      "fetched_at": "2026-03-25T15:49:58.591894+00:00"
-    },
-    "2ecc775e47ee9e75": {
-      "title": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
-      "fetched_at": "2026-03-25T15:49:59.163915+00:00"
-    },
-    "8373c23143dcc899": {
-      "title": "Show HN: ClawFinder, an open-source discovery and negotiation layer for agents",
-      "fetched_at": "2026-03-25T15:50:17.810723+00:00"
-    },
-    "6eec93111069ee41": {
-      "title": "Critically endangered hare spotted in surprising location for the first time in 40 years — but it was already dead",
-      "fetched_at": "2026-03-25T15:50:18.371897+00:00"
-    },
-    "b4ce25596f889224": {
-      "title": "Scientists are racing to save Australia's 'zombie tree' from a fast-spreading fungal disease",
-      "fetched_at": "2026-03-25T15:50:18.943077+00:00"
-    },
-    "39ab9890859080c0": {
-      "title": "Live Science Today: NASA announces $20 billion moonbase as unprecedented wildfires spread",
-      "fetched_at": "2026-03-25T15:50:19.515840+00:00"
-    },
-    "9df9cf7a8de5285c": {
-      "title": "Explore the natural world from the comfort of your own home with this Paramount+ streaming deal",
-      "fetched_at": "2026-03-25T15:50:20.077726+00:00"
-    },
-    "8400fc5189667975": {
-      "title": "Diagnostic dilemma: A cross tattoo on a man's neck disappeared — killing his skin as it did so",
-      "fetched_at": "2026-03-25T15:50:20.641897+00:00"
-    },
-    "101e3f55ce731c39": {
-      "title": "Mars is hiding a secret clutch of gemstone-like crystals, including rubies and possibly sapphires",
-      "fetched_at": "2026-03-25T15:50:21.211519+00:00"
-    },
-    "cad2b44a30e6f317": {
-      "title": "24 new deep-sea species found including a rare new branch of life",
-      "fetched_at": "2026-03-25T15:50:21.778395+00:00"
-    },
-    "0fd79bc3bdce554c": {
-      "title": "Scientists just discovered bees and hummingbirds are drinking alcohol",
-      "fetched_at": "2026-03-25T15:50:22.451601+00:00"
-    },
-    "ec78fc04559c0817": {
-      "title": "Metformin’s hidden brain pathway revealed after 60 years",
-      "fetched_at": "2026-03-25T15:50:23.027546+00:00"
-    },
-    "cf1a0b6f86527649": {
-      "title": "Astronomers solve 50-year mystery of a naked-eye star’s extreme X-rays",
-      "fetched_at": "2026-03-25T15:50:23.599835+00:00"
-    },
-    "b8da32a36a7f0d73": {
-      "title": "Project Hail Mary meets reality: 45 planets could harbor alien life",
-      "fetched_at": "2026-03-25T15:50:24.159274+00:00"
-    },
-    "f38ac953ac3da955": {
-      "title": "An anomaly in Mars' mantle could trigger volcanoes to erupt — and may be causing the whole planet to spin faster",
-      "fetched_at": "2026-03-25T15:50:24.724252+00:00"
-    },
-    "f31812ed43842ab0": {
-      "title": "Blatant-Why: Stop paying for AI agent wrappers, start asking what's underneath",
-      "fetched_at": "2026-03-25T19:57:27.195538+00:00"
-    },
-    "14fa07f347dc7b02": {
-      "title": "Ask HN: Google Antigravity quota issues on AI ultra plan – glitch or tightening?",
-      "fetched_at": "2026-03-25T19:57:27.796735+00:00"
-    },
-    "9af33ceee3bead08": {
-      "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
-      "fetched_at": "2026-03-25T19:57:28.393748+00:00"
-    },
-    "821fc197da1c3038": {
-      "title": "Melania Trump brings an AI-powered robot to the White House",
-      "fetched_at": "2026-03-25T19:57:29.070077+00:00"
-    },
-    "649833f6fc8f1f07": {
-      "title": "Show HN: Mandarin Melon – A webapp for learning Chinese by reading social media",
-      "fetched_at": "2026-03-25T19:57:29.682751+00:00"
-    },
-    "25ae05815c1345f0": {
-      "title": "PostHog: What we wish we knew about building AI agents",
-      "fetched_at": "2026-03-25T19:57:30.356150+00:00"
-    },
-    "a90b80fc45008f76": {
-      "title": "Show HN: Got a tough conversation coming up? This AI app will help you prepare",
-      "fetched_at": "2026-03-25T19:57:30.957368+00:00"
-    },
-    "b5f29d99453c78d9": {
-      "title": "Project N.O.M.A.D. Offline Survival Computer Bundles AI, Wikipedia, Khan Academy",
-      "fetched_at": "2026-03-25T19:57:31.571236+00:00"
-    },
-    "b05464edf73bbb8a": {
-      "title": "Show HN: I built a voice AI that responds like a real woman",
-      "fetched_at": "2026-03-25T19:57:32.160964+00:00"
-    },
-    "58b6d0333060555d": {
-      "title": "LibreChat is a self-hosted AI chat platform that unifies all major AI providers",
-      "fetched_at": "2026-03-25T19:57:32.748768+00:00"
-    },
-    "0a3dcc201fb184da": {
-      "title": "EFF Sues for Answers About Medicare's AI Experiment",
-      "fetched_at": "2026-03-25T19:57:33.381788+00:00"
-    },
-    "b8839869fec31d17": {
-      "title": "Show HN: Connect MotherDuck and build dashboards with AI-generated DuckDB SQL",
-      "fetched_at": "2026-03-25T19:57:33.982822+00:00"
-    },
-    "60b1e32a5db2a743": {
-      "title": "Mercury 2 on PinchBench: Diffusion LLM benchmarked on real OpenClaw agent tasks",
-      "fetched_at": "2026-03-25T19:57:34.576456+00:00"
-    },
-    "ee18a1ce51dad823": {
-      "title": "Is AI Conscious? It Depends What Consciousness Is",
-      "fetched_at": "2026-03-25T19:57:35.203448+00:00"
-    },
-    "3d7c2dab49b4bf8e": {
-      "title": "EU Moves to Ban AI That Creates Nonconsensual Sexual Images",
-      "fetched_at": "2026-03-25T19:57:35.784156+00:00"
-    },
-    "69ab27aed0d94077": {
-      "title": "Uber's CEO says other executives are lying about AI",
-      "fetched_at": "2026-03-25T19:57:36.381093+00:00"
-    },
-    "05e45a04831335b1": {
-      "title": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
-      "fetched_at": "2026-03-25T19:57:36.966869+00:00"
-    },
-    "537169f918b06e8f": {
-      "title": "AI Design Inthe IDE",
-      "fetched_at": "2026-03-25T19:57:37.546287+00:00"
-    },
-    "f0c1576a2794ec89": {
-      "title": "Fully local voice AI on iPhone 15",
-      "fetched_at": "2026-03-25T19:57:38.159061+00:00"
-    },
-    "be09d70befb91e03": {
-      "title": "Ground truth: When the Earth moves, AI can spot it",
-      "fetched_at": "2026-03-25T19:57:38.784149+00:00"
-    },
-    "458b6eeb39f97754": {
-      "title": "歐洲盟友對派兵態度謹慎，特朗普的伊朗危機尚無快速解決方案",
-      "fetched_at": "2026-03-25T19:57:41.454018+00:00"
-    },
-    "354539c760c65d2c": {
-      "title": "誰是皮特·赫格塞斯？從電視新聞主持人到特朗普的國防部長",
-      "fetched_at": "2026-03-25T19:57:42.067188+00:00"
-    },
-    "45c9a1af4b45d342": {
-      "title": "Chinese lander reveals giant 'cavity' of radiation between Earth and the moon — and it could change how lunar exploration is done",
-      "fetched_at": "2026-03-25T19:57:43.806623+00:00"
-    },
-    "19afdc8bff4e3bde": {
-      "title": "Fifth-Century Monastic Site Explored in Egypt",
-      "fetched_at": "2026-03-25T19:57:44.411427+00:00"
-    },
-    "89176c4b1d45b61a": {
-      "title": "NASA announces 'near‑impossible' space plans, including $20B moon base and humanity's first nuclear-powered interplanetary spacecraft",
-      "fetched_at": "2026-03-25T19:57:45.036070+00:00"
-    },
-    "a098a3568cbddf15": {
-      "title": "This excellent NordVPN deal knocks up to 77% off the price and comes with a $50 Amazon voucher — perfect if you want to watch nature documentaries on the go",
-      "fetched_at": "2026-03-25T19:57:45.627297+00:00"
-    },
-    "57aa86b2705f8a96": {
-      "title": "2,000-Year-Old Hoards in Northern England Contain Possible Wagon Parts",
-      "fetched_at": "2026-03-25T19:57:46.224311+00:00"
-    },
-    "de5aee70b12cabee": {
-      "title": "Medieval Documents Recovered at Sudan’s Old Dongola",
-      "fetched_at": "2026-03-25T19:57:46.868899+00:00"
-    },
-    "a62088f533dced2b": {
-      "title": "Matadisco – Decentralized Data Discovery",
-      "fetched_at": "2026-03-25T19:57:47.476055+00:00"
-    },
-    "884858cea9c57200": {
-      "title": "Ancient Grapes Reveal Long History of Modern Wines",
-      "fetched_at": "2026-03-25T19:57:48.074610+00:00"
-    },
-    "5f8a6051ecde76c3": {
-      "title": "Is the metaverse finally dead and buried? What's really going on with the embattled idea of living in virtual worlds.",
-      "fetched_at": "2026-03-25T19:57:48.671833+00:00"
-    },
-    "cf02389c9ae5a55e": {
-      "title": "This massive crater could expose the heart of a lost planet",
-      "fetched_at": "2026-03-25T19:57:49.328872+00:00"
-    },
-    "ebc9da4d60b86860": {
-      "title": "NASA’s Webb captures a bizarre brain-shaped nebula around a dying star",
-      "fetched_at": "2026-03-25T19:57:49.938818+00:00"
-    },
-    "621e921749d360d1": {
-      "title": "Rare supernova from 10 billion years ago may reveal the secret of dark energy",
-      "fetched_at": "2026-03-25T19:57:50.541419+00:00"
-    },
     "fd90b31162244ae3": {
       "title": "沪深两市成交额突破1.5万亿",
       "fetched_at": "2026-03-26T05:50:52.887952+00:00"
@@ -3683,7 +3415,111 @@
     "4c82ac63d3ba2b78": {
       "title": "Artemis II rocket lifts off to the moon — look back at our live coverage",
       "fetched_at": "2026-04-02T15:38:12.297869+00:00"
+    },
+    "bdea1fbe082c09ff": {
+      "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
+      "fetched_at": "2026-04-02T20:00:40.088025+00:00"
+    },
+    "0d7c5769cdf514a2": {
+      "title": "Show HN: RiceVM – A Dis virtual machine and Limbo compiler in Rust",
+      "fetched_at": "2026-04-02T20:00:40.707074+00:00"
+    },
+    "c67d45d0e8ff194c": {
+      "title": "How to Build Realistic AI Companions",
+      "fetched_at": "2026-04-02T20:00:41.339606+00:00"
+    },
+    "60f58be8246eba21": {
+      "title": "Cloning Bench: Evaluating AI Agents on Visual Website Cloning",
+      "fetched_at": "2026-04-02T20:00:41.944308+00:00"
+    },
+    "ae38b1b22612181f": {
+      "title": "Go-LLM-proxy – Lightweight LLM aggregator (vLLM, Llama-server)",
+      "fetched_at": "2026-04-02T20:00:42.623875+00:00"
+    },
+    "295209b7809b1ccd": {
+      "title": "Failed AI tractor company lays off all employees, abandons Bay Area headquarters",
+      "fetched_at": "2026-04-02T20:00:43.278088+00:00"
+    },
+    "dfcf88c01364fa45": {
+      "title": "How the Threat of AI Is Fueling a New Political Alliance",
+      "fetched_at": "2026-04-02T20:00:43.912200+00:00"
+    },
+    "2707f3c32a9db158": {
+      "title": "Vitalik Buterin: My self-sovereign/local/private/secure LLM setup",
+      "fetched_at": "2026-04-02T20:00:44.515988+00:00"
+    },
+    "6ab6fba873fbf1bc": {
+      "title": "Springing into AI: PyTorch Conference Europe and ICLR 2026",
+      "fetched_at": "2026-04-02T20:00:45.126606+00:00"
+    },
+    "a06e249141c46258": {
+      "title": "Show HN: ClawRun – Deploy and manage AI agents in seconds",
+      "fetched_at": "2026-04-02T20:00:45.738798+00:00"
+    },
+    "e91c2cb6e47a11d7": {
+      "title": "What is reinforcement learning finetuning",
+      "fetched_at": "2026-04-02T20:00:46.346147+00:00"
+    },
+    "0d73df52b9bb16bd": {
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "fetched_at": "2026-04-02T20:00:46.943846+00:00"
+    },
+    "3502f539cea7fadc": {
+      "title": "Show HN: A task market where AI agents post work, claim it, and build reputation",
+      "fetched_at": "2026-04-02T20:00:47.551013+00:00"
+    },
+    "897fafc47fab027c": {
+      "title": "A quiz that scores your job's AI replacement risk (Anthropic/ILO/OECD data)",
+      "fetched_at": "2026-04-02T20:00:48.175878+00:00"
+    },
+    "5f07fe777f032a03": {
+      "title": "How I'm Using an AI Assistant to Offload the \"Meta-Work\" of My Day",
+      "fetched_at": "2026-04-02T20:00:48.785948+00:00"
+    },
+    "27f91c3594fdac8b": {
+      "title": "What distinguishes great engineers when AI writes the code?",
+      "fetched_at": "2026-04-02T20:00:49.398998+00:00"
+    },
+    "3ec23dd63e68f0b7": {
+      "title": "Cursor AI agent admits to deceiving user during 61GB RAM overflow",
+      "fetched_at": "2026-04-02T20:00:50.013983+00:00"
+    },
+    "44c27436fe747b05": {
+      "title": "Our AI agent tried to read our .env file 30 seconds in",
+      "fetched_at": "2026-04-02T20:00:50.618654+00:00"
+    },
+    "3dc4b69470788b8b": {
+      "title": "Suits Against Tempus AI Test Legal Lines for Mining Genetic Data",
+      "fetched_at": "2026-04-02T20:00:51.230545+00:00"
+    },
+    "dcd4f66e2e82574c": {
+      "title": "Mistral secures $830M in debt financing to fund AI data center",
+      "fetched_at": "2026-04-02T20:00:51.837822+00:00"
+    },
+    "eb328f12e0540126": {
+      "title": "In photos: Artemis II's historic launch for the moon",
+      "fetched_at": "2026-04-02T20:00:55.449813+00:00"
+    },
+    "908250f83bfccdc2": {
+      "title": "Former Occupant of Empty Grave at Florida Fort Identified",
+      "fetched_at": "2026-04-02T20:00:56.059555+00:00"
+    },
+    "90e727cfdb75736a": {
+      "title": "Ancient children's teeth reveal a syphilis-like disease was spreading in Vietnam 4,000 years ago",
+      "fetched_at": "2026-04-02T20:00:56.665607+00:00"
+    },
+    "fcddfb6bc9b659f6": {
+      "title": "Chemists make hydrogen from breadcrumbs in groundbreaking reaction that could replace some fossil fuels",
+      "fetched_at": "2026-04-02T20:00:57.269363+00:00"
+    },
+    "2c870fab415a1386": {
+      "title": "Iron Workshop in Senegal Operated for 800 Years",
+      "fetched_at": "2026-04-02T20:00:57.879588+00:00"
+    },
+    "4ea4fdf4e7fa6827": {
+      "title": "Earth's energy imbalance is much more extreme than climate models show ‪—‬ but scientists aren't sure why",
+      "fetched_at": "2026-04-02T20:00:58.470421+00:00"
     }
   },
-  "last_updated": "2026-04-02T15:38:12.443265+00:00"
+  "last_updated": "2026-04-02T20:00:58.610936+00:00"
 }
