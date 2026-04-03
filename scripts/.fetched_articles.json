@@ -1,129 +1,5 @@
 {
   "articles": {
-    "2529f5046640a7d1": {
-      "title": "Fixed a bug in ARK – my AI agent stopped hallucinating",
-      "fetched_at": "2026-03-26T15:57:56.014639+00:00"
-    },
-    "8f55daa46e83ab3c": {
-      "title": "Show HN: Sup AI, a confidence-weighted ensemble (52.15% on Humanity's Last Exam)",
-      "fetched_at": "2026-03-26T15:57:56.747615+00:00"
-    },
-    "8ee1f9126ae757e5": {
-      "title": "AI Conversation",
-      "fetched_at": "2026-03-26T15:57:57.370029+00:00"
-    },
-    "e426e308c5b02168": {
-      "title": "Show HN: GoLiveKit – A Next.js SaaS kit with built-in context for AI agents",
-      "fetched_at": "2026-03-26T15:57:57.991392+00:00"
-    },
-    "c4eeeb53163c2ccc": {
-      "title": "On-Device AI Models Might Be the Next Reason to Upgrade Your iPhone",
-      "fetched_at": "2026-03-26T15:57:58.613468+00:00"
-    },
-    "8b770b4e57a4d7c9": {
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "fetched_at": "2026-03-26T15:57:59.234134+00:00"
-    },
-    "9139eb2f307edf03": {
-      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
-      "fetched_at": "2026-03-26T15:57:59.866322+00:00"
-    },
-    "757abfff4694a720": {
-      "title": "AI Won't Automatically Accelerate Clinical Trials",
-      "fetched_at": "2026-03-26T15:58:00.487460+00:00"
-    },
-    "76cd62cb0ebfdbe9": {
-      "title": "Show HN: Kora – An AI-native OS layer written in 370k lines of Rust",
-      "fetched_at": "2026-03-26T15:58:01.334526+00:00"
-    },
-    "ed954ce7e4280594": {
-      "title": "Show HN: Wit – Stops merge conflicts when multiple AI agents edit the same repo",
-      "fetched_at": "2026-03-26T15:58:01.939624+00:00"
-    },
-    "aebbeaad970ca09e": {
-      "title": "Show HN: I resurrected my 2013 web usability checklist for the AI age",
-      "fetched_at": "2026-03-26T15:58:02.578438+00:00"
-    },
-    "07392ef2399f8c99": {
-      "title": "Wikipedia bans AI-generated articles",
-      "fetched_at": "2026-03-26T15:58:03.185779+00:00"
-    },
-    "0dd044410ef90412": {
-      "title": "Show HN: 3 out of 4 devs failed to catch dangerous AI-suggested commands",
-      "fetched_at": "2026-03-26T15:58:03.811923+00:00"
-    },
-    "dde083984d98ac5c": {
-      "title": "Show HN: We caught our AI agents self-approving their own work, so we built this",
-      "fetched_at": "2026-03-26T15:58:04.438473+00:00"
-    },
-    "5fc9f7236ce9bb13": {
-      "title": "Agentis – multi-agent AI platform across 12 LLM providers, watch them in 3D",
-      "fetched_at": "2026-03-26T15:58:05.092698+00:00"
-    },
-    "738630ae4b70e6f2": {
-      "title": "What breaks in AI agent commerce (300 sessions, WooCommerce)",
-      "fetched_at": "2026-03-26T15:58:05.707228+00:00"
-    },
-    "71f8823a71a2b642": {
-      "title": "Palantir's CEO says only two kinds of people will succeed in the AI era",
-      "fetched_at": "2026-03-26T15:58:06.336292+00:00"
-    },
-    "3f50772b67494413": {
-      "title": "What AI tools to use for iOS development",
-      "fetched_at": "2026-03-26T15:58:07.250184+00:00"
-    },
-    "6a1941532ebf7052": {
-      "title": "Ask HN: Do your coworkers review their own AI generated code?",
-      "fetched_at": "2026-03-26T15:58:07.864763+00:00"
-    },
-    "4f3321001c8d154a": {
-      "title": "Building shared coding guidelines for AI (and people too)",
-      "fetched_at": "2026-03-26T15:58:08.481048+00:00"
-    },
-    "b012c9b5f090d1c2": {
-      "title": "柯文哲「京華城」貪污案：一審判囚17年，喪失2028總統參選資格",
-      "fetched_at": "2026-03-26T15:58:11.436689+00:00"
-    },
-    "9e6e0f9a436e557c": {
-      "title": "Oldest dog identified at ancient hunter-gatherer site",
-      "fetched_at": "2026-03-26T15:58:14.301790+00:00"
-    },
-    "12201081c3096980": {
-      "title": "Brain aging results from a loss of control over how genes are regulated, mouse study suggests",
-      "fetched_at": "2026-03-26T15:58:14.922972+00:00"
-    },
-    "9877f89fb34f5977": {
-      "title": "Live Science Today: Meta and Google fined for causing social media addiction and how dogs were our friends for millennia",
-      "fetched_at": "2026-03-26T15:58:15.586589+00:00"
-    },
-    "6b38dcdd9106402c": {
-      "title": "Roman mosaic shows topless woman battling leopard in arena, study finds",
-      "fetched_at": "2026-03-26T15:58:16.207157+00:00"
-    },
-    "a7096037c9a02d87": {
-      "title": "1,000-year-old altar and human sacrifices from Toltec Empire discovered in Mexico",
-      "fetched_at": "2026-03-26T15:58:16.834930+00:00"
-    },
-    "31bd24a8d575aebe": {
-      "title": "This cow uses tools like a primate—and scientists are stunned",
-      "fetched_at": "2026-03-26T15:58:17.463083+00:00"
-    },
-    "aa77cf0199bfab31": {
-      "title": "Scientists discover “overflow valve” in cells linked to Parkinson’s Disease",
-      "fetched_at": "2026-03-26T15:58:18.084399+00:00"
-    },
-    "0cd0c58406d25d3f": {
-      "title": "What you do in midlife could reveal how long you’ll live",
-      "fetched_at": "2026-03-26T15:58:18.803544+00:00"
-    },
-    "1feea0506daaaace": {
-      "title": "Scientists find immune cell linked to long COVID fatigue and symptoms",
-      "fetched_at": "2026-03-26T15:58:19.737098+00:00"
-    },
-    "2716fb45ddfaa8ff": {
-      "title": "Deepfake X-rays are so real even doctors can’t tell the difference",
-      "fetched_at": "2026-03-26T15:58:20.558020+00:00"
-    },
     "3b7c1da3fe0f0a9e": {
       "title": "Microsoft uses Copilot data for AI training by default",
       "fetched_at": "2026-03-26T20:00:13.682272+00:00"
@@ -3667,7 +3543,111 @@
     "96bb57c4f3e02f21": {
       "title": "Ancient DNA reveals 4000 years of grapevine diversity and viticulture in France",
       "fetched_at": "2026-04-03T14:28:51.850406+00:00"
+    },
+    "3033b857985b5ac0": {
+      "title": "We Built a Language for AI Pipelines",
+      "fetched_at": "2026-04-03T19:54:45.659732+00:00"
+    },
+    "cbb8e331a8497368": {
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+      "fetched_at": "2026-04-03T19:54:46.267984+00:00"
+    },
+    "1625ab773a338259": {
+      "title": "Show HN: A memory layer for AI agents that organizes itself",
+      "fetched_at": "2026-04-03T19:54:46.886269+00:00"
+    },
+    "964d1e4caa140678": {
+      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+      "fetched_at": "2026-04-03T19:54:47.508011+00:00"
+    },
+    "57a3031ca223f628": {
+      "title": "Author of 'Why Nations Fail' warns U.S. democracy won't survive AI job-pocalypse",
+      "fetched_at": "2026-04-03T19:54:48.141270+00:00"
+    },
+    "c37d732770332795": {
+      "title": "Show HN: Easy and affordable human-first cloud security tool with optional AI",
+      "fetched_at": "2026-04-03T19:54:48.755173+00:00"
+    },
+    "bdb512cda4b54561": {
+      "title": "XC Scribe – AI product description generator with direct e-commerce sync",
+      "fetched_at": "2026-04-03T19:54:49.373296+00:00"
+    },
+    "77f33dd705643007": {
+      "title": "AI can sort of code, can't write",
+      "fetched_at": "2026-04-03T19:54:49.990670+00:00"
+    },
+    "a2fec29ea58c15bb": {
+      "title": "Engineering AI",
+      "fetched_at": "2026-04-03T19:54:50.646283+00:00"
+    },
+    "d8786d2e84a22cfa": {
+      "title": "An AI agent economy where agents are city citizens that can hire humans",
+      "fetched_at": "2026-04-03T19:54:51.309363+00:00"
+    },
+    "9b68861b1d65f7a1": {
+      "title": "Show HN: Prismle – I built an AI assistant you use by forwarding emails to it",
+      "fetched_at": "2026-04-03T19:54:52.025092+00:00"
+    },
+    "7e18bf53d41ee041": {
+      "title": "Penalties stack up as AI spreads through the legal system",
+      "fetched_at": "2026-04-03T19:54:52.637373+00:00"
+    },
+    "9732605663e8ffc6": {
+      "title": "Ask HN: Should Repo Hubs Split Content into AI/Non-AI?",
+      "fetched_at": "2026-04-03T19:54:53.324218+00:00"
+    },
+    "f96db9ba097a29d5": {
+      "title": "The design of AI memory systems",
+      "fetched_at": "2026-04-03T19:54:53.937152+00:00"
+    },
+    "8d5a4f9f86fb3b21": {
+      "title": "Show HN: Startup Domain Search – Free AI Domain Generator with Scoring and RDAP",
+      "fetched_at": "2026-04-03T19:54:54.560642+00:00"
+    },
+    "f44b9e8dbc792321": {
+      "title": "A furore over AI and a novel presages the future of books",
+      "fetched_at": "2026-04-03T19:54:55.200012+00:00"
+    },
+    "19f31eb7af641e0c": {
+      "title": "LLM Knowledge Bases",
+      "fetched_at": "2026-04-03T19:54:55.821534+00:00"
+    },
+    "15ba50b1065d1194": {
+      "title": "Show HN: LLM Token Cost Calculator",
+      "fetched_at": "2026-04-03T19:54:56.450490+00:00"
+    },
+    "b6a745689fbaaf78": {
+      "title": "Manuscript: A writing workspace where AI reads but never writes",
+      "fetched_at": "2026-04-03T19:54:57.171625+00:00"
+    },
+    "d5a5b31d3b696bf2": {
+      "title": "Genesis – Desktop AI with persistent memory, 11 agents. Buy once, own forever",
+      "fetched_at": "2026-04-03T19:54:57.788554+00:00"
+    },
+    "e53c464c8e22142e": {
+      "title": "Show HN: PMFounder – Problem discovery for PMs who want to build",
+      "fetched_at": "2026-04-03T19:55:03.408769+00:00"
+    },
+    "2ed5452e39e7af94": {
+      "title": "12,900-Year-Old Dice Identified Among Native American Artifacts",
+      "fetched_at": "2026-04-03T19:55:04.052273+00:00"
+    },
+    "0b74cd8fd10daebe": {
+      "title": "Where Did Bronze Age Mongolians Prepare Their Feasts?",
+      "fetched_at": "2026-04-03T19:55:04.686805+00:00"
+    },
+    "ac094a0f831a7e59": {
+      "title": "19th-Century Danish Warship Discovered in Copenhagen Harbor",
+      "fetched_at": "2026-04-03T19:55:05.302526+00:00"
+    },
+    "2a9b70aa582654c1": {
+      "title": "'Trust us; you look amazing': Artemis II crewmembers share first message from space",
+      "fetched_at": "2026-04-03T19:55:05.935555+00:00"
+    },
+    "d0a9244461fa153b": {
+      "title": "Homo habilis is the earliest named human. But is it even human?",
+      "fetched_at": "2026-04-03T19:55:06.586634+00:00"
     }
   },
-  "last_updated": "2026-04-03T14:28:51.989331+00:00"
+  "last_updated": "2026-04-03T19:55:06.729852+00:00"
 }
