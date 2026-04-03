@@ -1,37 +1,5 @@
 {
   "articles": {
-    "e0f828d2c76775b3": {
-      "title": "柯文哲「京華城」貪污案：一審判囚17年、褫奪公權6年",
-      "fetched_at": "2026-03-26T08:36:12.666157+00:00"
-    },
-    "57072f26c3e3e1fa": {
-      "title": "分析：伊朗拒絕與美國談判，反映不信任",
-      "fetched_at": "2026-03-26T08:36:13.283045+00:00"
-    },
-    "cfcbc39d1f249ab6": {
-      "title": "伊朗外長：我們沒有和美國談判",
-      "fetched_at": "2026-03-26T08:36:13.924187+00:00"
-    },
-    "c1abebd54d801b3c": {
-      "title": "社交媒體成癮案：Meta和YouTube被裁定需為傷害年輕人負責",
-      "fetched_at": "2026-03-26T08:36:14.573126+00:00"
-    },
-    "4b0ab141e5a4895e": {
-      "title": "Vivid dreams may be the secret to deeper, more restful sleep",
-      "fetched_at": "2026-03-26T08:36:18.005884+00:00"
-    },
-    "ec4134c59ca86913": {
-      "title": "Scientists found a bug that generates its own heat in freezing cold",
-      "fetched_at": "2026-03-26T08:36:18.640014+00:00"
-    },
-    "c3e3c681060483ef": {
-      "title": "Scientists just discovered bull sharks have friends",
-      "fetched_at": "2026-03-26T08:36:19.307693+00:00"
-    },
-    "e7cf0d619134630c": {
-      "title": "JWST reveals a strange sulfur world unlike any planet we know",
-      "fetched_at": "2026-03-26T08:36:19.931478+00:00"
-    },
     "2529f5046640a7d1": {
       "title": "Fixed a bug in ARK – my AI agent stopped hallucinating",
       "fetched_at": "2026-03-26T15:57:56.014639+00:00"
@@ -3559,7 +3527,147 @@
     "4e3f9b0b42c7548b": {
       "title": "特朗普「關稅戰」一週年： 全球經濟如何在四個方面被改變",
       "fetched_at": "2026-04-03T08:36:09.415796+00:00"
+    },
+    "a8e4bc07e3d4452d": {
+      "title": "Show HN: Ckpt – Automatic checkpoints for AI coding sessions with per-step undo",
+      "fetched_at": "2026-04-03T14:28:25.881460+00:00"
+    },
+    "67877b71a8ae6d19": {
+      "title": "The Shell Is the Most Underrated Interface in AI",
+      "fetched_at": "2026-04-03T14:28:26.502620+00:00"
+    },
+    "57743bd522086cbe": {
+      "title": "Nations priced out of Big AI are building with frugal models",
+      "fetched_at": "2026-04-03T14:28:27.147888+00:00"
+    },
+    "e8afbd36a6b5132e": {
+      "title": "The Facebook insider building content moderation for the AI era",
+      "fetched_at": "2026-04-03T14:28:27.770853+00:00"
+    },
+    "06f92e0580c1932d": {
+      "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
+      "fetched_at": "2026-04-03T14:28:28.389064+00:00"
+    },
+    "c631cbf50c204ea0": {
+      "title": "Show HN: Sleek – analytics tool with AI chat, public link and realtime tracking",
+      "fetched_at": "2026-04-03T14:28:29.104205+00:00"
+    },
+    "8fc45646adf41cdf": {
+      "title": "Show HN: The Comments Owl for HN browser extension now hides obvious \"AI\" items",
+      "fetched_at": "2026-04-03T14:28:29.727725+00:00"
+    },
+    "a3a35047dd7d3343": {
+      "title": "Ask HN: Whether there is LLM or other strong NLP behind Hacker News?",
+      "fetched_at": "2026-04-03T14:28:30.353674+00:00"
+    },
+    "7735c9f935274090": {
+      "title": "What if AI just makes us work harder?",
+      "fetched_at": "2026-04-03T14:28:30.978678+00:00"
+    },
+    "84df8301c97044f8": {
+      "title": "Show HN: OpenCode Pollinations Plugin –AI & tool layer with freetier control",
+      "fetched_at": "2026-04-03T14:28:31.678010+00:00"
+    },
+    "b12fed5e1394a342": {
+      "title": "千里科技发布2025财报：全年实现营业收入99.99亿元，同比增长42.13%",
+      "fetched_at": "2026-04-03T14:28:32.309561+00:00"
+    },
+    "0abab20bbd3b18de": {
+      "title": "Ask HN: What Happened to Canirun.ai?",
+      "fetched_at": "2026-04-03T14:28:32.935810+00:00"
+    },
+    "62cafad980c5cfae": {
+      "title": "AI-2027 forecasters move their timelines 1.5 years earlier",
+      "fetched_at": "2026-04-03T14:28:33.563166+00:00"
+    },
+    "879a768982751d71": {
+      "title": "Fourwords, a free open human and machine friendly global positioning standard",
+      "fetched_at": "2026-04-03T14:28:34.223757+00:00"
+    },
+    "3d12a336e3f99b3c": {
+      "title": "The AI that learned when to fire itself",
+      "fetched_at": "2026-04-03T14:28:34.843915+00:00"
+    },
+    "c457bfb6be5c0684": {
+      "title": "兴发集团：2025年度净利润14.92亿元，同比下降6.83%",
+      "fetched_at": "2026-04-03T14:28:35.496215+00:00"
+    },
+    "e7c629f0e512c9d0": {
+      "title": "Apple’s best product ever",
+      "fetched_at": "2026-04-03T14:28:36.188117+00:00"
+    },
+    "73cc94181466e2ac": {
+      "title": "智己汽车官宣刘翔成为品牌代言人",
+      "fetched_at": "2026-04-03T14:28:36.815641+00:00"
+    },
+    "4fa050f62a7e2532": {
+      "title": "美国2月非农就业人数修正至减少13.3万人",
+      "fetched_at": "2026-04-03T14:28:37.444172+00:00"
+    },
+    "29df72621e9a5482": {
+      "title": "强一股份：一季度净利同比预增655%-762%",
+      "fetched_at": "2026-04-03T14:28:38.095099+00:00"
+    },
+    "99648438f1bd2935": {
+      "title": "馬興瑞落馬：習時代「技術官僚」代表隕落，一屆中共政治局三名委員被查",
+      "fetched_at": "2026-04-03T14:28:41.241783+00:00"
+    },
+    "52a06ca4a2955a1b": {
+      "title": "Scientists mapped all the nerves of the clitoris for the first time",
+      "fetched_at": "2026-04-03T14:28:43.436379+00:00"
+    },
+    "a9b61d958365bd94": {
+      "title": "Rare 'sungrazer' comet MAPS will shine superbright on Saturday ‪—‬ if it survives a dangerous encounter with our star",
+      "fetched_at": "2026-04-03T14:28:44.140656+00:00"
+    },
+    "0c8f1ee0a55a95e3": {
+      "title": "IBM quantum processor achieves highest fidelity calculations for the longest period of time on record",
+      "fetched_at": "2026-04-03T14:28:44.762126+00:00"
+    },
+    "3f26f345ed137aaa": {
+      "title": "The 10 best running shoe deals, as chosen by an experienced runner",
+      "fetched_at": "2026-04-03T14:28:45.407000+00:00"
+    },
+    "04125abe7fcb250d": {
+      "title": "A new tweak to Einstein's relativity could transform our understanding of the Big Bang",
+      "fetched_at": "2026-04-03T14:28:46.042635+00:00"
+    },
+    "9adac56aba303818": {
+      "title": "This tiny claw in a 500-million-year-old fossil just rewrote the origin of spiders",
+      "fetched_at": "2026-04-03T14:28:46.691033+00:00"
+    },
+    "3dd3df201263ef44": {
+      "title": "This 5-day diet helped Crohn’s patients feel better fast",
+      "fetched_at": "2026-04-03T14:28:47.306516+00:00"
+    },
+    "cac77e878131d015": {
+      "title": "Deafness reversed: One injection restores hearing in just weeks",
+      "fetched_at": "2026-04-03T14:28:47.981950+00:00"
+    },
+    "3c7a995fa7f0fbcb": {
+      "title": "Ancient bees found nesting inside fossil bones in rare cave discovery",
+      "fetched_at": "2026-04-03T14:28:48.641026+00:00"
+    },
+    "6a5f0af62f119e05": {
+      "title": "A gene mutation may trap the brain in the wrong reality in schizophrenia patients",
+      "fetched_at": "2026-04-03T14:28:49.273483+00:00"
+    },
+    "38d23d6122708489": {
+      "title": "Strange “elephant skin” rocks reveal ancient life in the dark ocean",
+      "fetched_at": "2026-04-03T14:28:49.900289+00:00"
+    },
+    "c4b7b7f2ec6dc048": {
+      "title": "Scientists discover why flu and COVID hit older adults so hard",
+      "fetched_at": "2026-04-03T14:28:50.552252+00:00"
+    },
+    "8b4dbd25641c7f13": {
+      "title": "'Space Archaeology' Reveals First Dynamic History of a Giant Spiral Galaxy",
+      "fetched_at": "2026-04-03T14:28:51.179879+00:00"
+    },
+    "96bb57c4f3e02f21": {
+      "title": "Ancient DNA reveals 4000 years of grapevine diversity and viticulture in France",
+      "fetched_at": "2026-04-03T14:28:51.850406+00:00"
     }
   },
-  "last_updated": "2026-04-03T08:36:10.796916+00:00"
+  "last_updated": "2026-04-03T14:28:51.989331+00:00"
 }
