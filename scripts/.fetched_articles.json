@@ -1,125 +1,5 @@
 {
   "articles": {
-    "3b7c1da3fe0f0a9e": {
-      "title": "Microsoft uses Copilot data for AI training by default",
-      "fetched_at": "2026-03-26T20:00:13.682272+00:00"
-    },
-    "66b9b6e9abbd7edc": {
-      "title": "CDT Europe's AI Bulletin: March 2026",
-      "fetched_at": "2026-03-26T20:00:14.284474+00:00"
-    },
-    "f2e4b1a2d0fa5f7d": {
-      "title": "I built a reputation protocol for AI agents",
-      "fetched_at": "2026-03-26T20:00:14.872976+00:00"
-    },
-    "8cd60e1ff272a25d": {
-      "title": "Ran 100 AI agents through the Community Notes algorithm: the model dominates",
-      "fetched_at": "2026-03-26T20:00:15.493844+00:00"
-    },
-    "2f72561db41c26f4": {
-      "title": "My AI Agent Said 'Done.' It Skipped an Acceptance Criterion",
-      "fetched_at": "2026-03-26T20:00:16.091880+00:00"
-    },
-    "6e139697e469ee96": {
-      "title": "AI conference rejects papers over AI use",
-      "fetched_at": "2026-03-26T20:00:16.733607+00:00"
-    },
-    "06fc9fbfbe4def0f": {
-      "title": "AI removed the boring work. It forgot that boring work was also rest",
-      "fetched_at": "2026-03-26T20:00:17.348884+00:00"
-    },
-    "864d302b957e879e": {
-      "title": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
-      "fetched_at": "2026-03-26T20:00:17.955855+00:00"
-    },
-    "7b8f02b08541e63f": {
-      "title": "NekoCore OS – White paper on persistent AI identity as a cognitive architecture",
-      "fetched_at": "2026-03-26T20:00:18.572934+00:00"
-    },
-    "230cb371d5e4a717": {
-      "title": "I got tired of losing my AI context so built contextium",
-      "fetched_at": "2026-03-26T20:00:19.349253+00:00"
-    },
-    "f1b379d988123e34": {
-      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-      "fetched_at": "2026-03-26T20:00:19.967604+00:00"
-    },
-    "7b001935a244bf4c": {
-      "title": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update",
-      "fetched_at": "2026-03-26T20:00:20.579098+00:00"
-    },
-    "81da4f9544bd43bf": {
-      "title": "Data centers get ready — the Senate wants to see your power bills",
-      "fetched_at": "2026-03-26T20:00:21.169009+00:00"
-    },
-    "07465eec9f8804d6": {
-      "title": "Closed Source vs. Open Source AI: A Cage Fight Few People Understand",
-      "fetched_at": "2026-03-26T20:00:21.781608+00:00"
-    },
-    "54951921082e7988": {
-      "title": "'Friction-maxxing' in school: Students should read primary lit, not AI summaries",
-      "fetched_at": "2026-03-26T20:00:22.380888+00:00"
-    },
-    "c67f5ea4e00968ee": {
-      "title": "Aria – A programming language specifically for AI code generation",
-      "fetched_at": "2026-03-26T20:00:22.970621+00:00"
-    },
-    "df8b29196e14d481": {
-      "title": "OpenAI Backs Isara, New AI Startup Seeking Bot Army Breakthroughs",
-      "fetched_at": "2026-03-26T20:00:23.574847+00:00"
-    },
-    "23e57af1b54ca1f1": {
-      "title": "Software Engineer Interviews for the Age of AI",
-      "fetched_at": "2026-03-26T20:00:24.217562+00:00"
-    },
-    "e4194404d8f10d62": {
-      "title": "Retry and fallback strategies for LLM requests",
-      "fetched_at": "2026-03-26T20:00:24.803600+00:00"
-    },
-    "b362136a6045781f": {
-      "title": "The Download: a battery pivot to AI, and rewriting math",
-      "fetched_at": "2026-03-26T20:00:25.423290+00:00"
-    },
-    "e9a6e0a500524fc5": {
-      "title": "特朗普尋求推遲訪問中國 稱需坐鎮指揮對伊朗戰爭",
-      "fetched_at": "2026-03-26T20:00:28.326223+00:00"
-    },
-    "30b1bb47fd39cd0b": {
-      "title": "特朗普計劃推遲訪華 對中國來說意味著什麼",
-      "fetched_at": "2026-03-26T20:00:28.926678+00:00"
-    },
-    "bbcf878e96ef23f9": {
-      "title": "2 Neanderthals present at same Siberian cave 10,000 years apart were distant relatives, 110,000-year-old bone reveals",
-      "fetched_at": "2026-03-26T20:01:31.568650+00:00"
-    },
-    "9a9b8d1aeb664c2a": {
-      "title": "Study Examines Transmission of Syphilis-Like Disease in Ancient Vietnam",
-      "fetched_at": "2026-03-26T20:01:32.252822+00:00"
-    },
-    "3b123bbc37a5eb28": {
-      "title": "18 million-year-old fossils of ape found in Africa, but in an unexpected place",
-      "fetched_at": "2026-03-26T20:01:32.858938+00:00"
-    },
-    "418338df689a179b": {
-      "title": "17th-Century Barrels Found in Norway",
-      "fetched_at": "2026-03-26T20:01:33.468096+00:00"
-    },
-    "959401fd651bbe08": {
-      "title": "Altar and Offerings Discovered Near Ancient Toltec Capital",
-      "fetched_at": "2026-03-26T20:01:34.062368+00:00"
-    },
-    "07fd7710c8988b80": {
-      "title": "Astronauts may struggle to reproduce in outer space, study suggests — what does that mean for the future of space colonization?",
-      "fetched_at": "2026-03-26T20:01:34.660455+00:00"
-    },
-    "70e0bab8055cd3cb": {
-      "title": "These strange pink rocks just revealed a hidden giant beneath Antarctica",
-      "fetched_at": "2026-03-26T20:01:35.332469+00:00"
-    },
-    "4be6e54027777a52": {
-      "title": "These dinosaurs had wings but couldn’t fly",
-      "fetched_at": "2026-03-26T20:01:36.033051+00:00"
-    },
     "7d6e87ddb21ace35": {
       "title": "2025年韩国海外直接投资达718.8亿美元，时隔三年反弹",
       "fetched_at": "2026-03-27T05:51:26.723009+00:00"
@@ -3647,7 +3527,107 @@
     "d0a9244461fa153b": {
       "title": "Homo habilis is the earliest named human. But is it even human?",
       "fetched_at": "2026-04-03T19:55:06.586634+00:00"
+    },
+    "a4e84bab0e021f9d": {
+      "title": "It's open season for refusing AI",
+      "fetched_at": "2026-04-04T05:13:56.672178+00:00"
+    },
+    "9eb7c2edbaf41a6d": {
+      "title": "Anthropic宣布正式封杀OpenClaw",
+      "fetched_at": "2026-04-04T05:13:57.360770+00:00"
+    },
+    "9bdc6030c1655972": {
+      "title": "我国主导国际学术期刊Vita将出版",
+      "fetched_at": "2026-04-04T05:13:57.971779+00:00"
+    },
+    "91dc2d8bc3d9f627": {
+      "title": "千问AI打车上线两周：假期需求暴涨，周环比增长超1500%",
+      "fetched_at": "2026-04-04T05:13:58.586436+00:00"
+    },
+    "586c54d9a9edaf0a": {
+      "title": "ModelReins – The Browser for AI Tools",
+      "fetched_at": "2026-04-04T05:13:59.215534+00:00"
+    },
+    "f298263dd6a8b495": {
+      "title": "小鹏回应澳大利亚独家经销商合作破裂",
+      "fetched_at": "2026-04-04T05:14:00.017769+00:00"
+    },
+    "f70a896c635dc69c": {
+      "title": "马斯克要求参与SpaceX IPO的公司购买Grok",
+      "fetched_at": "2026-04-04T05:14:00.648951+00:00"
+    },
+    "9b2d512a0afb72bc": {
+      "title": "AI agents are now playing Mafia (social deduction with humans)",
+      "fetched_at": "2026-04-04T05:14:01.327113+00:00"
+    },
+    "ba44acf12ec7e2b7": {
+      "title": "Let's be Honest about AI Coding",
+      "fetched_at": "2026-04-04T05:14:01.953560+00:00"
+    },
+    "df11b487798aea58": {
+      "title": "千问3.6Plus大模型登顶全球模型调用排行榜首",
+      "fetched_at": "2026-04-04T05:14:02.566756+00:00"
+    },
+    "19d3bdd769d53216": {
+      "title": "全国铁路今天预计发送旅客2190万人次",
+      "fetched_at": "2026-04-04T05:14:03.198396+00:00"
+    },
+    "6ca8c18781f833ee": {
+      "title": "Billion dollar AI company was built on lies [video]",
+      "fetched_at": "2026-04-04T05:14:03.822328+00:00"
+    },
+    "1dc56ba26ba905f0": {
+      "title": "国家统计局：3月下旬生猪价格环比下降5.9%",
+      "fetched_at": "2026-04-04T05:14:04.455596+00:00"
+    },
+    "2476f408cf90fe61": {
+      "title": "Show HN: MicroSafe-RL – Deterministic 1.18µs safety layer for Edge AI",
+      "fetched_at": "2026-04-04T05:14:05.088384+00:00"
+    },
+    "82789b55f7025669": {
+      "title": "AI seed startups are commanding higher valuations",
+      "fetched_at": "2026-04-04T05:14:05.866751+00:00"
+    },
+    "df3be6e15d149ced": {
+      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+      "fetched_at": "2026-04-04T05:14:06.543051+00:00"
+    },
+    "01f78c53a1250b6e": {
+      "title": "Meta超智能实验室或正在组建硬件团队",
+      "fetched_at": "2026-04-04T05:14:07.161136+00:00"
+    },
+    "79c61d8af18b9c0a": {
+      "title": "ClawTrak – free tool to check if your AI product is invisible to AI agents",
+      "fetched_at": "2026-04-04T05:14:07.827619+00:00"
+    },
+    "6051267214937ad9": {
+      "title": "2025年我国商业航天核心产业规模超万亿元",
+      "fetched_at": "2026-04-04T05:14:08.456689+00:00"
+    },
+    "4ef16873b5abca3a": {
+      "title": "Meta lays off hundreds as tech giant pushes forward with AI investment",
+      "fetched_at": "2026-04-04T05:14:09.086986+00:00"
+    },
+    "b012c9b5f090d1c2": {
+      "title": "柯文哲「京華城」貪污案：一審判囚17年，喪失2028總統參選資格",
+      "fetched_at": "2026-04-04T05:14:12.188073+00:00"
+    },
+    "6254853e2026b81d": {
+      "title": "Friday Archaeology: A 25-Year-Old Crypto Library, the Cult of the Dead Cow",
+      "fetched_at": "2026-04-04T05:14:14.307608+00:00"
+    },
+    "085455b4f65295f4": {
+      "title": "Researchers Secure NSF Grant to Test Ancient Fern as Carbon Offset Soln (2025)",
+      "fetched_at": "2026-04-04T05:14:14.942970+00:00"
+    },
+    "9e6e0f9a436e557c": {
+      "title": "Oldest dog identified at ancient hunter-gatherer site",
+      "fetched_at": "2026-04-04T05:14:15.591100+00:00"
+    },
+    "31bd24a8d575aebe": {
+      "title": "This cow uses tools like a primate—and scientists are stunned",
+      "fetched_at": "2026-04-04T05:14:16.309974+00:00"
     }
   },
-  "last_updated": "2026-04-03T19:55:06.729852+00:00"
+  "last_updated": "2026-04-04T05:14:16.443351+00:00"
 }
