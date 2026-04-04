@@ -1,125 +1,5 @@
 {
   "articles": {
-    "7d6e87ddb21ace35": {
-      "title": "2025年韩国海外直接投资达718.8亿美元，时隔三年反弹",
-      "fetched_at": "2026-03-27T05:51:26.723009+00:00"
-    },
-    "0cb9113646cb995d": {
-      "title": "Show HN: Run, build, and govern AI agent workflows for DevOps",
-      "fetched_at": "2026-03-27T05:51:27.339861+00:00"
-    },
-    "c1b8f3c030b8071a": {
-      "title": "北京顺义汽车产业基金等入股元橡科技有限公司",
-      "fetched_at": "2026-03-27T05:51:27.906801+00:00"
-    },
-    "9978897d8417b60a": {
-      "title": "AI and bots have officially taken over the internet, report finds",
-      "fetched_at": "2026-03-27T05:51:28.547050+00:00"
-    },
-    "7ebbe98cc172e72b": {
-      "title": "Claude AI Maker Anthropic Considers IPO as Soon as October",
-      "fetched_at": "2026-03-27T05:51:29.117443+00:00"
-    },
-    "9e2ca075dfd4fc1b": {
-      "title": "智己LS8正式开启预售，25.98万元起售",
-      "fetched_at": "2026-03-27T05:51:29.757207+00:00"
-    },
-    "659bab62531761ab": {
-      "title": "Tool to reduce AI tokens and generate more detailed and accurate PRDs",
-      "fetched_at": "2026-03-27T05:51:30.330965+00:00"
-    },
-    "405c60294ad169cf": {
-      "title": "菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议",
-      "fetched_at": "2026-03-27T05:51:30.904828+00:00"
-    },
-    "ee2c6c1e558d0ff9": {
-      "title": "Show HN: \"Ask AI\" for Your Website",
-      "fetched_at": "2026-03-27T05:51:31.533014+00:00"
-    },
-    "07b825bbe4f6db32": {
-      "title": "阿里巴巴旗下公司入股诺瓦聚变能源科技公司",
-      "fetched_at": "2026-03-27T05:51:32.125035+00:00"
-    },
-    "139632a36e71f69d": {
-      "title": "Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips",
-      "fetched_at": "2026-03-27T05:51:32.704094+00:00"
-    },
-    "cf9b4e09e161b7ac": {
-      "title": "Gumbel Max trick for LLM sampling",
-      "fetched_at": "2026-03-27T05:51:33.281969+00:00"
-    },
-    "23d933b6abd63c7c": {
-      "title": "深度机智发布全新具身通用智能大模型",
-      "fetched_at": "2026-03-27T05:51:33.861760+00:00"
-    },
-    "306be05bfac264ca": {
-      "title": "九号公司：与泡泡玛特达成合作，联名电动车将于4月推出",
-      "fetched_at": "2026-03-27T05:51:34.429611+00:00"
-    },
-    "5cf1fdc30a1741e5": {
-      "title": "Show HN: Superfast – Cognitive Memory Graphs for Enterprise AI Agents",
-      "fetched_at": "2026-03-27T05:51:35.001140+00:00"
-    },
-    "fa56e00adb5f5a50": {
-      "title": "智云在深圳成立科技新公司，含AI及卫星相关业务",
-      "fetched_at": "2026-03-27T05:51:35.630612+00:00"
-    },
-    "87cf56c3c2f19a84": {
-      "title": "茶百道：2025年营收利润均录得双位数增长",
-      "fetched_at": "2026-03-27T05:51:36.222210+00:00"
-    },
-    "0ecbe4231b6acfa7": {
-      "title": "2025年中国科幻产业总营收达1261亿元",
-      "fetched_at": "2026-03-27T05:51:36.851446+00:00"
-    },
-    "9cc80714b6704e67": {
-      "title": "Ship with Claude – Free Starter Pack (Maintainable AI-Assisted Projects)",
-      "fetched_at": "2026-03-27T05:51:37.414675+00:00"
-    },
-    "7456e70a6872db17": {
-      "title": "美团发布原生多模态 LongCat-Next",
-      "fetched_at": "2026-03-27T05:51:38.153625+00:00"
-    },
-    "584cf29bcb8b4318": {
-      "title": "國際奧委會：奧運會女子項目將僅限生理女性參賽",
-      "fetched_at": "2026-03-27T05:51:40.169950+00:00"
-    },
-    "05f2fbe2d78712dd": {
-      "title": "国际奥委会禁止跨性别运动员参加女子赛事",
-      "fetched_at": "2026-03-27T05:51:40.772853+00:00"
-    },
-    "921c0fc6dba94d9b": {
-      "title": "特朗普為下台階同時追求兩條出路",
-      "fetched_at": "2026-03-27T05:51:41.354430+00:00"
-    },
-    "7cc55c937284a7ad": {
-      "title": "美股遭遇伊朗战争以来最大单日跌幅",
-      "fetched_at": "2026-03-27T05:51:41.918608+00:00"
-    },
-    "dcf9810128f09456": {
-      "title": "欧洲担忧俄罗斯准备向伊朗提供先进无人机",
-      "fetched_at": "2026-03-27T05:51:42.491870+00:00"
-    },
-    "d7c80db8bed402e8": {
-      "title": "特朗普签名将被印在美钞上",
-      "fetched_at": "2026-03-27T05:51:43.093850+00:00"
-    },
-    "b04a7c510e42cee0": {
-      "title": "张雪峰猝逝引发震惊与反思：内卷时代中国人的焦虑与困境",
-      "fetched_at": "2026-03-27T05:51:43.665311+00:00"
-    },
-    "e209a2f086bcbe7c": {
-      "title": "美国如此富有，为何美国人却如此痛苦",
-      "fetched_at": "2026-03-27T05:51:44.228425+00:00"
-    },
-    "1ee6d99293cff1c7": {
-      "title": "Scientists uncovered the nutrients bees were missing — Colonies surged 15-fold",
-      "fetched_at": "2026-03-27T05:51:48.246677+00:00"
-    },
-    "1ea0dd33491f9749": {
-      "title": "Scientists create clear nail polish that lets you use touchscreens with long nails",
-      "fetched_at": "2026-03-27T05:51:48.875767+00:00"
-    },
     "ce0848b55d519de0": {
       "title": "从单季到全年盈利，知乎迎来估值重估",
       "fetched_at": "2026-03-27T08:08:52.849231+00:00"
@@ -3627,7 +3507,91 @@
     "31bd24a8d575aebe": {
       "title": "This cow uses tools like a primate—and scientists are stunned",
       "fetched_at": "2026-04-04T05:14:16.309974+00:00"
+    },
+    "4ce4005ce5ae7e4d": {
+      "title": "浙江嘉兴港首次实现重大件设备直通欧洲",
+      "fetched_at": "2026-04-04T07:59:44.513952+00:00"
+    },
+    "cd250dabf73aeec8": {
+      "title": "中国有色金属工业协会硅业分会赴包头开展硅产业深度调研",
+      "fetched_at": "2026-04-04T07:59:45.142768+00:00"
+    },
+    "aaf33595c47c5762": {
+      "title": "Swift package AI inference engine generated from Rust crate",
+      "fetched_at": "2026-04-04T07:59:45.779928+00:00"
+    },
+    "8a2610b8a643a295": {
+      "title": "Show HN: GraphReFly – Reactive graph protocol for human and LLM co-operation",
+      "fetched_at": "2026-04-04T07:59:46.420374+00:00"
+    },
+    "62f186ffbb6e5ac4": {
+      "title": "华泰证券：近期二级市场持续回调，各板块内估值稳健、分派率较高的项目，或有短期交易机会",
+      "fetched_at": "2026-04-04T07:59:47.053990+00:00"
+    },
+    "45cfec954bd4d3d6": {
+      "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
+      "fetched_at": "2026-04-04T07:59:47.707010+00:00"
+    },
+    "583e26f938ff7d7c": {
+      "title": "金饰价格一夜又跌11元",
+      "fetched_at": "2026-04-04T07:59:48.348880+00:00"
+    },
+    "bca86e2a48b239b4": {
+      "title": "一群00后极客和这家机器人公司共处72小时",
+      "fetched_at": "2026-04-04T07:59:48.972371+00:00"
+    },
+    "db5de1db5d5df3bc": {
+      "title": "马航集团去年净利翻番：今年将新增两个中国航点",
+      "fetched_at": "2026-04-04T07:59:49.616808+00:00"
+    },
+    "18c190ba62a23254": {
+      "title": "湾区高铁旅游专列开行，2400名香港旅客畅游内地",
+      "fetched_at": "2026-04-04T07:59:50.243623+00:00"
+    },
+    "9961f73b9a015cc3": {
+      "title": "Show HN: AI Dev Board – Job Board for AI Developers with a Full REST API",
+      "fetched_at": "2026-04-04T07:59:50.946814+00:00"
+    },
+    "48f814365935dd68": {
+      "title": "能源供应趋紧，韩国鼓励非高峰使用公共交通",
+      "fetched_at": "2026-04-04T07:59:51.590089+00:00"
+    },
+    "d99b1e3d7e0d13b9": {
+      "title": "Thoughts on AI and Research [pdf]",
+      "fetched_at": "2026-04-04T07:59:52.221956+00:00"
+    },
+    "3e9287e2ede37729": {
+      "title": "Pre-1900 LLM tries to solve Relativity",
+      "fetched_at": "2026-04-04T07:59:52.858033+00:00"
+    },
+    "f056a3c4e8f9d357": {
+      "title": "美国3月标普全球服务业PMI终值为49.8",
+      "fetched_at": "2026-04-04T07:59:53.469983+00:00"
+    },
+    "0c056eb39ba54a46": {
+      "title": "Ask HN: What's the most repetitive thing you do with AI that you wish it just re",
+      "fetched_at": "2026-04-04T07:59:54.087342+00:00"
+    },
+    "03894af75c45ec40": {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "fetched_at": "2026-04-04T07:59:54.810062+00:00"
+    },
+    "faf295a9f807eabe": {
+      "title": "意大利央行下调未来三年经济增长预期",
+      "fetched_at": "2026-04-04T07:59:55.432897+00:00"
+    },
+    "41ef981d6799c125": {
+      "title": "Extracting System Prompt and Model Identity from Telegram's AI. It's Qwen 3.5",
+      "fetched_at": "2026-04-04T07:59:56.134844+00:00"
+    },
+    "5eacd0e1a9da4a99": {
+      "title": "中金：黄金投资需求和价格或均存向上修复空间",
+      "fetched_at": "2026-04-04T07:59:56.822865+00:00"
+    },
+    "30b1bb47fd39cd0b": {
+      "title": "特朗普計劃推遲訪華 對中國來說意味著什麼",
+      "fetched_at": "2026-04-04T07:59:59.815593+00:00"
     }
   },
-  "last_updated": "2026-04-04T05:14:16.443351+00:00"
+  "last_updated": "2026-04-04T08:00:03.688163+00:00"
 }
