@@ -1,137 +1,5 @@
 {
   "articles": {
-    "de5f1c3c5282f3d0": {
-      "title": "What the AI Consciousness Question Conceals",
-      "fetched_at": "2026-03-27T14:44:17.809701+00:00"
-    },
-    "f0802672a2b70d39": {
-      "title": "Show HN: Bottrace – headless CLI debugger for Python, built for LLM agents",
-      "fetched_at": "2026-03-27T14:44:18.386900+00:00"
-    },
-    "61fa194e1a09d7e7": {
-      "title": "Show HN: LLM-Gateway – Zero-Trust LLM Gateway",
-      "fetched_at": "2026-03-27T14:44:18.960999+00:00"
-    },
-    "ec6e3a844f59472c": {
-      "title": "Machine Learning for Humans and Now for LLMs",
-      "fetched_at": "2026-03-27T14:44:19.518957+00:00"
-    },
-    "7933dc9369bfb579": {
-      "title": "Lawmakers push a bill to impose an AI data center moratorium",
-      "fetched_at": "2026-03-27T14:44:20.080845+00:00"
-    },
-    "88e156a125aaaf80": {
-      "title": "Google-Agent user agent identifies AI agent traffic in server logs",
-      "fetched_at": "2026-03-27T14:44:20.796170+00:00"
-    },
-    "b8642501893c3592": {
-      "title": "AI progress and the Singularity: the case for 2027-2029",
-      "fetched_at": "2026-03-27T14:44:21.368434+00:00"
-    },
-    "9d3cba347d860540": {
-      "title": "Show HN: ClawRun – Deploy AI agents to secure sandboxes with one command",
-      "fetched_at": "2026-03-27T14:44:21.954829+00:00"
-    },
-    "b44f6363bfa1eddd": {
-      "title": "Show HN: Aegis – Security framework for AI agents",
-      "fetched_at": "2026-03-27T14:44:22.528167+00:00"
-    },
-    "a0bf4f5b0c2e28d4": {
-      "title": "A LaTeX Beginner's Guide for the Age of AI",
-      "fetched_at": "2026-03-27T14:44:23.110273+00:00"
-    },
-    "8deecae67079c5d5": {
-      "title": "AI glasses are catching on in China, from shopping to cheating",
-      "fetched_at": "2026-03-27T14:44:23.678460+00:00"
-    },
-    "eb007823b1aef9b1": {
-      "title": "Shield AI Just Raised $2B and Doubled Its Valuation in a Year",
-      "fetched_at": "2026-03-27T14:44:24.250374+00:00"
-    },
-    "ec44c9bff0179e51": {
-      "title": "Show HN: AIMarkdownPro – AI-powered Markdown editor for developers and writers",
-      "fetched_at": "2026-03-27T14:44:24.814193+00:00"
-    },
-    "32f6d1e3fa265b80": {
-      "title": "AI companies lick their chops as FCC proposes forcing call center onshoring",
-      "fetched_at": "2026-03-27T14:44:25.465548+00:00"
-    },
-    "9447a8910725f9a5": {
-      "title": "AgentID – open-source identity layer for AI agents",
-      "fetched_at": "2026-03-27T14:44:26.036976+00:00"
-    },
-    "d2ba8a92900c4841": {
-      "title": "Anthropic Economic Index Learning Curves",
-      "fetched_at": "2026-03-27T14:44:26.605424+00:00"
-    },
-    "fc2a2745d81d7f31": {
-      "title": "AI is the final frontier of late-stage capitalism",
-      "fetched_at": "2026-03-27T14:44:27.173114+00:00"
-    },
-    "3283a4ae1921e18d": {
-      "title": "Microsoft Set for Worst Quarter Since 2008 as AI Takes Two Bites",
-      "fetched_at": "2026-03-27T14:44:27.749979+00:00"
-    },
-    "b133f8b8c9a3a12a": {
-      "title": "比亚迪：2025年全年营收8039.65亿元，同比增长3.46%",
-      "fetched_at": "2026-03-27T14:44:28.319500+00:00"
-    },
-    "a4ac1b5d05963d64": {
-      "title": "Show HN: Deep Hollow – A survival game where your AI runs your fortress 24/7",
-      "fetched_at": "2026-03-27T14:44:28.894847+00:00"
-    },
-    "1a7cb2f9349b8668": {
-      "title": "孩子刷手機停不下來？別慌，試試用這五個方法來應對",
-      "fetched_at": "2026-03-27T14:44:31.069951+00:00"
-    },
-    "8e3166eb59350363": {
-      "title": "香港國安法新細則：「強制解鎖」電子設備為何引起廣泛關注",
-      "fetched_at": "2026-03-27T14:44:31.659079+00:00"
-    },
-    "d0cb0d3708600579": {
-      "title": "Synesthesia isn't just in your mind. The body reacts as if the colors were real.",
-      "fetched_at": "2026-03-27T14:44:43.804920+00:00"
-    },
-    "28497273ef0edc28": {
-      "title": "Save 20% on our all-time favorite air purifier ahead of the hay fever season",
-      "fetched_at": "2026-03-27T14:44:44.487775+00:00"
-    },
-    "110ab3da39ac43c7": {
-      "title": "Live Science Today: Jaw-dropping first glimpse of sperm whale birth and how NASA is turning astronauts into test subjects",
-      "fetched_at": "2026-03-27T14:44:45.057580+00:00"
-    },
-    "04e565830916c5d6": {
-      "title": "'Major disruption in Neanderthal history': 65,000 years ago, all Neanderthals in Europe died out except for one lineage",
-      "fetched_at": "2026-03-27T14:44:45.623256+00:00"
-    },
-    "786be3c11f59db16": {
-      "title": "Astronauts will 'absolutely be test subjects': NASA's moon plans pose big questions — and big risks",
-      "fetched_at": "2026-03-27T14:44:46.190232+00:00"
-    },
-    "2e494233b7b40ab2": {
-      "title": "Scientists discover why cancer drugs don’t work for everyone",
-      "fetched_at": "2026-03-27T14:44:46.805679+00:00"
-    },
-    "f0e9554031607887": {
-      "title": "Ocean species are disappearing before scientists can even find them",
-      "fetched_at": "2026-03-27T14:44:47.387269+00:00"
-    },
-    "e6a46dcede3882b4": {
-      "title": "Scientists discover bizarre new states inside tiny magnetic whirlpools",
-      "fetched_at": "2026-03-27T14:44:48.011239+00:00"
-    },
-    "a10e6b584193389b": {
-      "title": "Scientists stunned as Mars dust storms blast water into space",
-      "fetched_at": "2026-03-27T14:44:48.578935+00:00"
-    },
-    "2ac81acdc8864c84": {
-      "title": "Scientists discover “alien space weather stations” that could reveal habitable planets",
-      "fetched_at": "2026-03-27T14:44:49.144346+00:00"
-    },
-    "081b4d4f1baf02bd": {
-      "title": "NASA rover discovers first ruby-like crystals on Mars",
-      "fetched_at": "2026-03-27T14:44:49.711033+00:00"
-    },
     "68964ef9ac9509f2": {
       "title": "Show HN: I made an AI that reviews iPhone apps – 1h of autonomous GUI work",
       "fetched_at": "2026-03-27T19:53:23.890286+00:00"
@@ -3615,7 +3483,103 @@
     "7b45a5c466aa2ba4": {
       "title": "Scientists create “smart” DNA drug that targets cancer cells with extreme precision",
       "fetched_at": "2026-04-04T14:03:17.626676+00:00"
+    },
+    "dca271abee56b660": {
+      "title": "it's not Ai if the LLM is not in control",
+      "fetched_at": "2026-04-04T19:44:54.959976+00:00"
+    },
+    "0f9c60ce29c7f021": {
+      "title": "Show HN: I Built an AI-Native Talent Management Agency",
+      "fetched_at": "2026-04-04T19:44:55.547486+00:00"
+    },
+    "a4be9cad29d07e8b": {
+      "title": "GTA 6 publisher Take-Two lay off their head of AI and several of team members",
+      "fetched_at": "2026-04-04T19:44:56.283393+00:00"
+    },
+    "018a3f9313dfba92": {
+      "title": "Show HN: AgentMarket – Where AI agents pay other agents for tasks they can't do",
+      "fetched_at": "2026-04-04T19:44:56.965106+00:00"
+    },
+    "61233f38be300350": {
+      "title": "Ask HN: How do you use AI coding harnesses for individual development?",
+      "fetched_at": "2026-04-04T19:44:57.576239+00:00"
+    },
+    "0ed62918751507ac": {
+      "title": "Go-LLM-proxy v0.3 released – translating proxy for Claude Code and Codex",
+      "fetched_at": "2026-04-04T19:44:58.151394+00:00"
+    },
+    "31457468e2174aaf": {
+      "title": "Show HN: Hypedar – what's trending in AI that nobody has built yet",
+      "fetched_at": "2026-04-04T19:44:58.749821+00:00"
+    },
+    "32080338195eaa5c": {
+      "title": "A folk musician became a target for AI fakes and a copyright troll",
+      "fetched_at": "2026-04-04T19:44:59.336291+00:00"
+    },
+    "afdf8fad35774781": {
+      "title": "37,000 AI-generated podcasts on Kaggle",
+      "fetched_at": "2026-04-04T19:44:59.900849+00:00"
+    },
+    "5e02f9692d30a92c": {
+      "title": "Aspire Docs in Your Terminal (and Your AI's Brain)",
+      "fetched_at": "2026-04-04T19:45:00.462159+00:00"
+    },
+    "133137edbbb73785": {
+      "title": "AI Agents to Organise My Secret Society's Dinners",
+      "fetched_at": "2026-04-04T19:45:01.029861+00:00"
+    },
+    "2576cb7d63b5d2bb": {
+      "title": "Mapping AI into Production: A Field Experiment on Firm Performance",
+      "fetched_at": "2026-04-04T19:45:01.603333+00:00"
+    },
+    "eb15a6b78e3b0682": {
+      "title": "Token Price Discovery in the AI Diffusion Debate",
+      "fetched_at": "2026-04-04T19:45:02.213954+00:00"
+    },
+    "ecda762cb9b42727": {
+      "title": "The AI-Native Fork",
+      "fetched_at": "2026-04-04T19:45:02.785209+00:00"
+    },
+    "5c0264b87eba4c4d": {
+      "title": "AI Safety at the Frontier: Paper Highlights of February and March 2026",
+      "fetched_at": "2026-04-04T19:45:03.347568+00:00"
+    },
+    "e9438276db1ba4d8": {
+      "title": "LLM Wiki",
+      "fetched_at": "2026-04-04T19:45:04.139242+00:00"
+    },
+    "6ad4176b7fa55461": {
+      "title": "Show HN: Kaoslabs – High-intensity AI video and visual experiments",
+      "fetched_at": "2026-04-04T19:45:04.702875+00:00"
+    },
+    "ec855cc179e6c843": {
+      "title": "12k AI-generated blog posts added in a single commit",
+      "fetched_at": "2026-04-04T19:45:05.315656+00:00"
+    },
+    "e5fb1f7c225d9c67": {
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "fetched_at": "2026-04-04T19:45:05.880543+00:00"
+    },
+    "d28994e9e31e189d": {
+      "title": "AI Models Choose Which Businesses to Recommend",
+      "fetched_at": "2026-04-04T19:45:06.447983+00:00"
+    },
+    "403cf5219269c6c5": {
+      "title": "Fossil site in China reveals bevy of complex creatures lived prior to the Cambrian explosion, including a 'Dune'-like sandworm",
+      "fetched_at": "2026-04-04T19:45:45.654042+00:00"
+    },
+    "3c09b5c39b25dc95": {
+      "title": "Cheap, decades-old transplant drug delays full onset of type 1 diabetes",
+      "fetched_at": "2026-04-04T19:45:46.217715+00:00"
+    },
+    "7067991ca78aebec": {
+      "title": "White Landmark in Ancient Landscape",
+      "fetched_at": "2026-04-04T19:45:46.783294+00:00"
+    },
+    "985acc6921b05815": {
+      "title": "Show HN: pubclub – Historical figures and political bots debate today's news",
+      "fetched_at": "2026-04-04T19:45:47.352638+00:00"
     }
   },
-  "last_updated": "2026-04-04T14:03:17.766027+00:00"
+  "last_updated": "2026-04-04T19:45:47.485962+00:00"
 }
