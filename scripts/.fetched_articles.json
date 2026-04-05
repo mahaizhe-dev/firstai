@@ -1,89 +1,5 @@
 {
   "articles": {
-    "26488d52a2bd5b10": {
-      "title": "TikTok&#8217;s policy for AI ads isn&#8217;t working",
-      "fetched_at": "2026-03-28T14:02:36.945801+00:00"
-    },
-    "097b1a9cbffd9c25": {
-      "title": "Show HN: OpenChat – Syncing conversations across AI providers",
-      "fetched_at": "2026-03-28T14:02:37.584691+00:00"
-    },
-    "fc35a42b32205800": {
-      "title": "TLA+ in support of AI code generation",
-      "fetched_at": "2026-03-28T14:02:38.681218+00:00"
-    },
-    "5baf0f45a35d6807": {
-      "title": "Lyria 3 Pro – AI Music Generator from Text Prompts",
-      "fetched_at": "2026-03-28T14:02:39.277965+00:00"
-    },
-    "05b9f0711392cbc1": {
-      "title": "AI struggles more with philosophy than math or reasoning – data shows",
-      "fetched_at": "2026-03-28T14:02:39.880084+00:00"
-    },
-    "b31d27464d694e2f": {
-      "title": "Value Drifts: Tracing Value Alignment During LLM Post-Training",
-      "fetched_at": "2026-03-28T14:02:40.540029+00:00"
-    },
-    "e9d07016e3585a36": {
-      "title": "I am selling my AI image app",
-      "fetched_at": "2026-03-28T14:02:41.124958+00:00"
-    },
-    "bd915e93f9161656": {
-      "title": "The Decadelong Feud Shaping the Future of AI",
-      "fetched_at": "2026-03-28T14:02:41.724379+00:00"
-    },
-    "046e68b54797c490": {
-      "title": "When AI Takes My Job (Whenaitakesmyjob.work)",
-      "fetched_at": "2026-03-28T14:02:42.316565+00:00"
-    },
-    "8904e2c91989a20a": {
-      "title": "Social media is populist and polarising; AI may be the opposite",
-      "fetched_at": "2026-03-28T14:02:42.916648+00:00"
-    },
-    "6c8e797afd0f4f04": {
-      "title": "AI Can Fuel Overconfidence in Bad Relationship Decisions",
-      "fetched_at": "2026-03-28T14:02:43.504154+00:00"
-    },
-    "d22fcfe81a758f19": {
-      "title": "The rise of 'social offloading'–when AI replaces your boss's empathy",
-      "fetched_at": "2026-03-28T14:02:44.140370+00:00"
-    },
-    "a9eeb03192e524eb": {
-      "title": "Why OpenAI killed Sora",
-      "fetched_at": "2026-03-28T14:02:44.939195+00:00"
-    },
-    "e0df192c2cea4592": {
-      "title": "Visuali (Updated): A workspace to create and edit with AI on a infinite canvas",
-      "fetched_at": "2026-03-28T14:02:45.531411+00:00"
-    },
-    "b9469ac1c4e49a88": {
-      "title": "Fired from Warhorse Studios and Replaced with AI",
-      "fetched_at": "2026-03-28T14:02:46.134345+00:00"
-    },
-    "8fb28d251828af6b": {
-      "title": "Semiont: Build a Knowledge Base Collaboratively with AI",
-      "fetched_at": "2026-03-28T14:02:46.751661+00:00"
-    },
-    "41a132cd50331d23": {
-      "title": "From the TI-57 to AI: A Veteran's Methodology for \"Not Vibe Coding\"",
-      "fetched_at": "2026-03-28T14:02:47.394117+00:00"
-    },
-    "657a37a5cd12e8f6": {
-      "title": "Machine Learning for Android Engineers",
-      "fetched_at": "2026-03-28T14:02:47.989057+00:00"
-    },
-    "5e8bbb02b8faf17c": {
-      "title": "7-Eleven将在日本推出手机下单门店取货服务",
-      "fetched_at": "2026-03-28T14:02:48.596688+00:00"
-    },
-    "66fdc527c587b0b1": {
-      "title": "Alex Karp says only trade workers and neurodivergents will survive in the AI era",
-      "fetched_at": "2026-03-28T14:02:49.252796+00:00"
-    },
-    "b319a119cfeae504": {
-      "title": "「沒人幫忙媽媽會瘋掉」——台灣放寬外傭門檻，能解救誰？",
-      "fetched_at": "2026-03-28T14:02:51.748787+00:00"
-    },
     "9000b7ffd3986214": {
       "title": "Top 5 health and fitness products to buy during spring sales (and 2 to skip)",
       "fetched_at": "2026-03-28T14:05:10.224377+00:00"
@@ -3495,7 +3411,119 @@
     "e07f6f69ea386fa4": {
       "title": "The Oxygen Apocalpyse: how bacteria used a spin diode to wipe out ancient life",
       "fetched_at": "2026-04-05T08:05:18.455607+00:00"
+    },
+    "a1634131ed6041a1": {
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "fetched_at": "2026-04-05T14:04:24.202230+00:00"
+    },
+    "c0b53e83cf18dc51": {
+      "title": "AI facial analysis that runs in the browser (no uploads, 17 metrics)",
+      "fetched_at": "2026-04-05T14:04:24.818400+00:00"
+    },
+    "cb871748527ca96e": {
+      "title": "Show HN: Cabinet – Kb+LLM (Like Paperclip+Obsidian)",
+      "fetched_at": "2026-04-05T14:04:25.445689+00:00"
+    },
+    "cd80fb112536a93a": {
+      "title": "Myth of the AI Oracle",
+      "fetched_at": "2026-04-05T14:04:26.081260+00:00"
+    },
+    "a48bc5cda344b053": {
+      "title": "Revised: 6-Gate AI Pipeline for RSpec-to-Minitest Migration",
+      "fetched_at": "2026-04-05T14:04:26.739482+00:00"
+    },
+    "f58dd0f159ec226e": {
+      "title": "Show HN: AI-agent instructions to restore Claude Pro/Max in OpenCode",
+      "fetched_at": "2026-04-05T14:04:27.374308+00:00"
+    },
+    "c6f60f007885c4e8": {
+      "title": "Eight years of wanting, three months of building with AI",
+      "fetched_at": "2026-04-05T14:04:28.011313+00:00"
+    },
+    "f7d1139b8a363049": {
+      "title": "Andrej Karpathy on X: LLM Knowledge Bases",
+      "fetched_at": "2026-04-05T14:04:28.623678+00:00"
+    },
+    "8cc3e62c109fe9c1": {
+      "title": "Job title of the moment: \"AI relationship engineer\"",
+      "fetched_at": "2026-04-05T14:04:29.345474+00:00"
+    },
+    "2cf4c39967104333": {
+      "title": "Grammarly’s sloppelganger saga",
+      "fetched_at": "2026-04-05T14:04:29.964448+00:00"
+    },
+    "e1cf0dcce999439f": {
+      "title": "A Machine Became a Metaphor",
+      "fetched_at": "2026-04-05T14:04:30.586360+00:00"
+    },
+    "73c540c1e1951fbd": {
+      "title": "Ask HN: I built WhyOps: A decision-aware observability for AI agents. Thoughts?",
+      "fetched_at": "2026-04-05T14:04:31.213715+00:00"
+    },
+    "35cfef557310464b": {
+      "title": "Growing a better world together with AI",
+      "fetched_at": "2026-04-05T14:04:31.864199+00:00"
+    },
+    "86e8d8aab886a397": {
+      "title": "清明假期第二天 湖南客流1301.83万人次",
+      "fetched_at": "2026-04-05T14:04:32.516757+00:00"
+    },
+    "45934a1223002c7e": {
+      "title": "福田汽车：一季度福田重卡销量超4.4万辆 同比增长近40%",
+      "fetched_at": "2026-04-05T14:04:33.133961+00:00"
+    },
+    "8af77966e160c11c": {
+      "title": "民政部：清明假期第二天各地祭扫活动平稳有序",
+      "fetched_at": "2026-04-05T14:04:33.762056+00:00"
+    },
+    "b8adde0af26decb0": {
+      "title": "4月5日全社会跨区域人员流动量预计超2.6亿人次",
+      "fetched_at": "2026-04-05T14:04:34.387816+00:00"
+    },
+    "30157547bf2314cb": {
+      "title": "Show HN: Vektor – local-first associative memory for AI agents",
+      "fetched_at": "2026-04-05T14:04:35.011175+00:00"
+    },
+    "e2315c3db8e1ae6e": {
+      "title": "机构最新调研路线图出炉，迈瑞医疗最获关注",
+      "fetched_at": "2026-04-05T14:04:35.646590+00:00"
+    },
+    "709f50678fb82f24": {
+      "title": "胖东来再回应“鸡蛋被检出角黄素”",
+      "fetched_at": "2026-04-05T14:04:36.260867+00:00"
+    },
+    "e120209989be567c": {
+      "title": "日本法律大改革：離婚夫妻可共享子女監護權 終結百年「單一親權制」",
+      "fetched_at": "2026-04-05T14:04:39.286529+00:00"
+    },
+    "1e60785122baa845": {
+      "title": "The Todd Group: Open-Source Drug Discovery",
+      "fetched_at": "2026-04-05T14:04:46.067337+00:00"
+    },
+    "db3e4396372089c1": {
+      "title": "Antarctica hides huge caches of gold, silver, copper and iron. As the ice melts, countries may race to harvest them.",
+      "fetched_at": "2026-04-05T14:04:46.738536+00:00"
+    },
+    "76f36a4282698cf0": {
+      "title": "Shroud of Turin, claimed to be Jesus' burial cloth, contaminated with carrot and red coral DNA",
+      "fetched_at": "2026-04-05T14:04:47.367796+00:00"
+    },
+    "c7030301eb49c7af": {
+      "title": "NASA telescope uncovers new mystery in supernova first spotted by Chinese astronomers 2,000 years ago —‬ Space photo of the week",
+      "fetched_at": "2026-04-05T14:04:48.044481+00:00"
+    },
+    "f0151b096f81a753": {
+      "title": "What happened to the Minoan civilization?",
+      "fetched_at": "2026-04-05T14:04:48.678567+00:00"
+    },
+    "643d4dda9dc4ecfc": {
+      "title": "Scientists found a protein that drives brain aging — and how to stop it",
+      "fetched_at": "2026-04-05T14:04:49.299805+00:00"
+    },
+    "73b6d3fa0c1514a3": {
+      "title": "Buried Roman sanctuary discovered beneath Frankfurt hints at shocking rituals",
+      "fetched_at": "2026-04-05T14:04:49.925804+00:00"
     }
   },
-  "last_updated": "2026-04-05T08:05:18.583456+00:00"
+  "last_updated": "2026-04-05T14:04:50.063345+00:00"
 }
