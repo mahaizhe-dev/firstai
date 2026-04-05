@@ -1,129 +1,5 @@
 {
   "articles": {
-    "9000b7ffd3986214": {
-      "title": "Top 5 health and fitness products to buy during spring sales (and 2 to skip)",
-      "fetched_at": "2026-03-28T14:05:10.224377+00:00"
-    },
-    "4167aadd4b1daaea": {
-      "title": "A gut microbe linked to the Mediterranean diet boosts muscle strength in mice",
-      "fetched_at": "2026-03-28T14:05:10.823851+00:00"
-    },
-    "7028b1fd05f0cafc": {
-      "title": "Science news this week: NASA announces nuclear rocket, space reproduction proves difficult, and why weed gives people the munchies",
-      "fetched_at": "2026-03-28T14:05:11.433078+00:00"
-    },
-    "74c52105230d3e78": {
-      "title": "How to catch the full 'Pink Moon' in April followed by a 'Blue Moon' in May",
-      "fetched_at": "2026-03-28T14:05:12.053471+00:00"
-    },
-    "58666ea3ac19a122": {
-      "title": "Why does cannabis give people 'the munchies'?",
-      "fetched_at": "2026-03-28T14:05:12.674810+00:00"
-    },
-    "b428952f3f70b601": {
-      "title": "This new carbon material could make carbon capture far more affordable",
-      "fetched_at": "2026-03-28T14:05:13.286728+00:00"
-    },
-    "ce36b9d86a380aa9": {
-      "title": "After 20 years, scientists finally explain the Crab Pulsar’s strange “zebra stripes”",
-      "fetched_at": "2026-03-28T14:05:13.963236+00:00"
-    },
-    "48c95934297e6ba5": {
-      "title": "Popular sugar substitute linked to brain damage and stroke risk",
-      "fetched_at": "2026-03-28T14:05:14.620663+00:00"
-    },
-    "6faaf279396f19c5": {
-      "title": "Scientists discover why your appetite suddenly disappears when you’re sick",
-      "fetched_at": "2026-03-28T14:05:15.447074+00:00"
-    },
-    "fd781dfd471e68dc": {
-      "title": "Scientists discover a hidden system that turns brown fat into a calorie burner",
-      "fetched_at": "2026-03-28T14:05:16.048247+00:00"
-    },
-    "fb47d1a4f30d6e79": {
-      "title": "Did Paul Conyngham use AI to develop a cancer treatment for his dog?",
-      "fetched_at": "2026-03-28T19:45:09.169261+00:00"
-    },
-    "792631576e0320e4": {
-      "title": "Show HN: Canary – Monitor any URL for changes, get AI-powered intelligence",
-      "fetched_at": "2026-03-28T19:45:09.743937+00:00"
-    },
-    "ceff8eea2a33f262": {
-      "title": "Show HN: Free.ai",
-      "fetched_at": "2026-03-28T19:45:10.310363+00:00"
-    },
-    "f3902eebd536b2e5": {
-      "title": "The first 40 months of the AI era",
-      "fetched_at": "2026-03-28T19:45:10.875514+00:00"
-    },
-    "17c303cd02774ec5": {
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "fetched_at": "2026-03-28T19:45:11.508117+00:00"
-    },
-    "4d457d93f142793c": {
-      "title": "Suno leans into customization with v5.5",
-      "fetched_at": "2026-03-28T19:45:12.180869+00:00"
-    },
-    "b240e6c9e3b6371f": {
-      "title": "Show HN: A minimal terminal time tracker with AI analysis",
-      "fetched_at": "2026-03-28T19:45:12.748628+00:00"
-    },
-    "9e2e59dd9d2906c3": {
-      "title": "RvLLM: High-performance LLM inference in Rust",
-      "fetched_at": "2026-03-28T19:45:13.312851+00:00"
-    },
-    "9d106b7c6b30f6b0": {
-      "title": "LLM-Tainted Free Software and Alternatives",
-      "fetched_at": "2026-03-28T19:45:13.881679+00:00"
-    },
-    "f248ac6d34a24b75": {
-      "title": "AI wrote a scientific paper that passed peer review",
-      "fetched_at": "2026-03-28T19:45:14.448935+00:00"
-    },
-    "63a19af9795ec238": {
-      "title": "Controlling Lego Trains with AI and Larger Implications",
-      "fetched_at": "2026-03-28T19:45:15.013159+00:00"
-    },
-    "bc999bb973a78bb6": {
-      "title": "Soverign AI Agent Accountability",
-      "fetched_at": "2026-03-28T19:45:15.577246+00:00"
-    },
-    "ffd7f9f57c7804f2": {
-      "title": "Show HN: Web game, an AI decides if you would survive in a survival situation",
-      "fetched_at": "2026-03-28T19:45:16.150921+00:00"
-    },
-    "d1d6862a609a5163": {
-      "title": "Show HN: A prompt that builds the most capable AI agent system",
-      "fetched_at": "2026-03-28T19:45:16.717309+00:00"
-    },
-    "941dc2d96af95214": {
-      "title": "Towards end-to-end automation of AI research",
-      "fetched_at": "2026-03-28T19:45:17.311152+00:00"
-    },
-    "5aaf9ea6d12ed3c3": {
-      "title": "SafeSkill – We scanned 10K AI skills for code exploits and prompt injection",
-      "fetched_at": "2026-03-28T19:45:17.875826+00:00"
-    },
-    "a2ac3c58047e505b": {
-      "title": "Wikipedia bans AI-generated content in its online encyclopedia",
-      "fetched_at": "2026-03-28T19:45:18.456848+00:00"
-    },
-    "b21e56f6f9f7ecac": {
-      "title": "Show HN_Mnemosyne: A 10^38 Joule Thermodynamic Barrier for Post-Quantum Edge AI",
-      "fetched_at": "2026-03-28T19:45:19.017636+00:00"
-    },
-    "b703aaba485a3c4d": {
-      "title": "How AI Will Reshape Public Opinion",
-      "fetched_at": "2026-03-28T19:45:19.589406+00:00"
-    },
-    "7d4d2d0fbfc740f4": {
-      "title": "The Explore-Exploit Tradeoff for AI Tools",
-      "fetched_at": "2026-03-28T19:45:20.153390+00:00"
-    },
-    "23e7531998d04e86": {
-      "title": "Ancient bones show dogs have been woven into human life for nearly 16,000 years",
-      "fetched_at": "2026-03-28T19:45:23.259535+00:00"
-    },
     "2e305f46975842be": {
       "title": "华尔街平均奖金升至近25万美元的历史新高，但不及纽约市预期",
       "fetched_at": "2026-03-29T05:53:22.291520+00:00"
@@ -3523,7 +3399,111 @@
     "73b6d3fa0c1514a3": {
       "title": "Buried Roman sanctuary discovered beneath Frankfurt hints at shocking rituals",
       "fetched_at": "2026-04-05T14:04:49.925804+00:00"
+    },
+    "f37c7db1560e3771": {
+      "title": "Securing AI infrastructure to prevent backdoors and sabotage",
+      "fetched_at": "2026-04-05T19:49:58.141577+00:00"
+    },
+    "3f320a052f7f99af": {
+      "title": "AI Cuts MRI Scan Time from 23 to 9 Minutes at Amsterdam Cancer Center",
+      "fetched_at": "2026-04-05T19:49:58.791706+00:00"
+    },
+    "9623b4747a4f55ec": {
+      "title": "Overwritten.site – Giving everyone an AI agent pointed at my live website",
+      "fetched_at": "2026-04-05T19:49:59.416585+00:00"
+    },
+    "6f1300d8378bdc28": {
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "fetched_at": "2026-04-05T19:50:00.110277+00:00"
+    },
+    "2d00ce05fc82b041": {
+      "title": "Why aren't LLM's trained on their own Chain Of Thought?",
+      "fetched_at": "2026-04-05T19:50:00.729870+00:00"
+    },
+    "36d51ea27c0fcc81": {
+      "title": "Agent v0 Open-source multi-agent AI orchestration terminal",
+      "fetched_at": "2026-04-05T19:50:01.359495+00:00"
+    },
+    "9e9214c0138d9df1": {
+      "title": "The AI Is Not Learning from You",
+      "fetched_at": "2026-04-05T19:50:01.994763+00:00"
+    },
+    "0021fbae825dcb54": {
+      "title": "LMMs-Lab Writer: AI-native LaTeX editor. Git built-in, open source",
+      "fetched_at": "2026-04-05T19:50:02.624761+00:00"
+    },
+    "0e3d9b507de80826": {
+      "title": "Show HN: A branching notebook runtime for AI and humans(written in Rust)",
+      "fetched_at": "2026-04-05T19:50:03.320870+00:00"
+    },
+    "a40b0b319835239a": {
+      "title": "Show HN: Sigil – A new programming language for AI agents",
+      "fetched_at": "2026-04-05T19:50:03.945509+00:00"
+    },
+    "952811b6d3a21a8b": {
+      "title": "LLM inference load balancer optimized for AMD Radeon VII GPUs",
+      "fetched_at": "2026-04-05T19:50:04.561671+00:00"
+    },
+    "2528ac0fe7fd470f": {
+      "title": "Gstack for Learning Chinese",
+      "fetched_at": "2026-04-05T19:50:05.188332+00:00"
+    },
+    "7c21a208e3524f8a": {
+      "title": "Onepilot – Deploy AI coding agents to remote servers from your iPhone",
+      "fetched_at": "2026-04-05T19:50:05.805491+00:00"
+    },
+    "de54f8b479198af3": {
+      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "fetched_at": "2026-04-05T19:50:06.419733+00:00"
+    },
+    "d1dcb3ce073aba46": {
+      "title": "AI Is Rewiring World's Most Prolific Film Industry",
+      "fetched_at": "2026-04-05T19:50:07.034686+00:00"
+    },
+    "1488e7c3e666b06a": {
+      "title": "Ask HN: LLM-Based Spam Filter",
+      "fetched_at": "2026-04-05T19:50:07.661384+00:00"
+    },
+    "b16d51020698a758": {
+      "title": "Marc Andreessen on why \"this time is different\" in AI",
+      "fetched_at": "2026-04-05T19:50:08.296246+00:00"
+    },
+    "8a2928387b011f08": {
+      "title": "Building an AI Image Creator Skill for Claude Code",
+      "fetched_at": "2026-04-05T19:50:08.931356+00:00"
+    },
+    "31eb5a958aeaf7d8": {
+      "title": "Ask HN: Folks with disabilities, what is it like in this LLM/scraper age?",
+      "fetched_at": "2026-04-05T19:50:09.572988+00:00"
+    },
+    "6c4e08c2e34958a9": {
+      "title": "Ask HN: Where are all the disruptive software that AI promised?",
+      "fetched_at": "2026-04-05T19:50:10.254320+00:00"
+    },
+    "6c3bfd26de2a0a61": {
+      "title": "法籍華裔毒販囚禁20年後被執行死刑 巴黎「震驚」",
+      "fetched_at": "2026-04-05T19:50:13.693489+00:00"
+    },
+    "1cdadd5afd8606bb": {
+      "title": "日本允離婚夫妻共享子女監護權 終結百年「單一親權制」",
+      "fetched_at": "2026-04-05T19:50:14.366837+00:00"
+    },
+    "e88e4e48043efc1d": {
+      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
+      "fetched_at": "2026-04-05T19:50:15.024033+00:00"
+    },
+    "919d8cd241d6cf05": {
+      "title": "'This generation's moment': How the Artemis missions will reframe humanity's relationship with the moon",
+      "fetched_at": "2026-04-05T19:50:18.515805+00:00"
+    },
+    "b90df6f9ba6bc336": {
+      "title": "MCPNest – A discovery platform for 5k MCP servers",
+      "fetched_at": "2026-04-05T19:50:19.138965+00:00"
+    },
+    "2e6023f18f0faf66": {
+      "title": "Diabetes rates are lower in high-altitude environments ‪‪—‬ and scientists may have discovered why",
+      "fetched_at": "2026-04-05T19:50:19.748511+00:00"
     }
   },
-  "last_updated": "2026-04-05T14:04:50.063345+00:00"
+  "last_updated": "2026-04-05T19:50:19.891901+00:00"
 }
