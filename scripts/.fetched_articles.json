@@ -1,217 +1,5 @@
 {
   "articles": {
-    "a2dd4d5db9e7e73e": {
-      "title": "上海二手房单日成交1585套创近5年新高，业内人士：市场在明显回暖",
-      "fetched_at": "2026-03-29T08:01:54.379180+00:00"
-    },
-    "c5e2da6e4f2dd7d1": {
-      "title": "中国石油：2025年净利润同比下降4.5%，拟每股派发现金红利0.25元",
-      "fetched_at": "2026-03-29T08:01:55.016701+00:00"
-    },
-    "9701cc0a73addbb4": {
-      "title": "Ask HN: Non-AI, engineering blogs? 2026",
-      "fetched_at": "2026-03-29T08:01:55.638486+00:00"
-    },
-    "c19e94aac0c35ff6": {
-      "title": "Show HN: Liter-LLM, Universal LLM client in Rust with bindings for 11 languages",
-      "fetched_at": "2026-03-29T08:01:56.249389+00:00"
-    },
-    "03ff41213fd57c90": {
-      "title": "华创证券：四重维度透视中国宽基指数的“中游制造”成色",
-      "fetched_at": "2026-03-29T08:01:56.866387+00:00"
-    },
-    "e99eda7d562cdb7d": {
-      "title": "Iran's propaganda machine trolls Trump",
-      "fetched_at": "2026-03-29T08:01:57.541949+00:00"
-    },
-    "4dcc0ec60c16ff0d": {
-      "title": "上交所：着力构建“长钱长投”生态，聚力增强市场内在韧性",
-      "fetched_at": "2026-03-29T08:01:58.167590+00:00"
-    },
-    "d442a93010eee9cb": {
-      "title": "宇树科技王兴兴：具身智能GPT时刻大概还需两到三年",
-      "fetched_at": "2026-03-29T08:01:58.771949+00:00"
-    },
-    "923b6f2c99426d77": {
-      "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
-      "fetched_at": "2026-03-29T08:01:59.390722+00:00"
-    },
-    "480dddcd0e52c6fc": {
-      "title": "外卖平台Just Eat母公司：目标在2030年前实现年订单量增长20%",
-      "fetched_at": "2026-03-29T08:02:00.002353+00:00"
-    },
-    "84589412c43389ad": {
-      "title": "Ask HN: Why isn't using AI in production considered stupid?",
-      "fetched_at": "2026-03-29T08:02:00.606665+00:00"
-    },
-    "442fcee3ba205511": {
-      "title": "本周泡泡玛特获南向资金净买入超36亿港元",
-      "fetched_at": "2026-03-29T08:02:01.306505+00:00"
-    },
-    "0e8bf68abe5661e3": {
-      "title": "Mr. Chatterbox is an LLM trained exclusively on Victorian-era British texts",
-      "fetched_at": "2026-03-29T08:02:01.978336+00:00"
-    },
-    "dc7f048355ad0c94": {
-      "title": "印度拟新建100个机场和200个直升机停机坪",
-      "fetched_at": "2026-03-29T08:02:02.607748+00:00"
-    },
-    "5833d50dfddc43c4": {
-      "title": "AI Hot Takes from a Platform Engineer / SRE",
-      "fetched_at": "2026-03-29T08:02:03.255847+00:00"
-    },
-    "ae469edb35b188bb": {
-      "title": "澳大利亚摩根士丹利科技、媒体与通信（TMT）业务主管已辞职",
-      "fetched_at": "2026-03-29T08:02:03.885495+00:00"
-    },
-    "0b4f51cd43250843": {
-      "title": "Can AI Exit Vim?",
-      "fetched_at": "2026-03-29T08:02:04.510735+00:00"
-    },
-    "6830f621502843d1": {
-      "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
-      "fetched_at": "2026-03-29T08:02:05.237797+00:00"
-    },
-    "120db4e7796d7af7": {
-      "title": "Show HN: Anamnesis – Open-source 4D strategic memory engine for AI agents",
-      "fetched_at": "2026-03-29T08:02:05.866755+00:00"
-    },
-    "0c7033540a8db4c9": {
-      "title": "Ask HN: How are you keeping AI coding agents from burning money?",
-      "fetched_at": "2026-03-29T08:02:06.513683+00:00"
-    },
-    "5dcdcc775e6258f6": {
-      "title": "我與母親逃離了朝鮮，如今害怕她會被中國遣返",
-      "fetched_at": "2026-03-29T08:02:09.200553+00:00"
-    },
-    "6d97594b3c884777": {
-      "title": "國際奧委會：奧運女子項目將僅限生理女性參賽",
-      "fetched_at": "2026-03-29T08:02:09.810117+00:00"
-    },
-    "f96106ec504a32de": {
-      "title": "Which Claude AI Do I Need? (The Fractional CTO)",
-      "fetched_at": "2026-03-29T14:03:12.561742+00:00"
-    },
-    "d0e5be71b1d1d638": {
-      "title": "I gave an AI SSH access to my production infrastructure – 3 months later",
-      "fetched_at": "2026-03-29T14:03:13.181026+00:00"
-    },
-    "8f675a2ff397468d": {
-      "title": "MoviesLike.app – AI movie recommendations with match scores and streaming links",
-      "fetched_at": "2026-03-29T14:03:13.793816+00:00"
-    },
-    "2e1f2c4d433f490b": {
-      "title": "The AI doomsday everyone's worried about is the wrong one",
-      "fetched_at": "2026-03-29T14:03:14.408886+00:00"
-    },
-    "485b6f83e407a03c": {
-      "title": "The Decadelong Feud Shaping the Future of AI (Amodei/Altman)",
-      "fetched_at": "2026-03-29T14:03:15.127755+00:00"
-    },
-    "8f42a1d3b7a163dd": {
-      "title": "Noteriv – Free Open-Source Notes App with AI and Markdown",
-      "fetched_at": "2026-03-29T14:03:15.764233+00:00"
-    },
-    "ba4b2f2a2d2e224a": {
-      "title": "Researchers examine how AI chatbots are shaping government operations",
-      "fetched_at": "2026-03-29T14:03:16.400492+00:00"
-    },
-    "b9b43864d1961802": {
-      "title": "At 50, Apple confronts its next big challenge: AI",
-      "fetched_at": "2026-03-29T14:03:17.097598+00:00"
-    },
-    "e22b6de2c84ba951": {
-      "title": "AltClaw – A secure scripting layer for AI agents with a module marketplace",
-      "fetched_at": "2026-03-29T14:03:17.757728+00:00"
-    },
-    "23d33af38d911ad3": {
-      "title": "Show HN: I built a Git extension to capture AI-code context and tied to commits",
-      "fetched_at": "2026-03-29T14:03:18.420171+00:00"
-    },
-    "d3746b8fb754a042": {
-      "title": "Tracking (Expert/Influential) Predictions about AI",
-      "fetched_at": "2026-03-29T14:03:19.047382+00:00"
-    },
-    "782b5593fa808959": {
-      "title": "Local-first AI knowledge layer. Extract architecture, query from any AI tools",
-      "fetched_at": "2026-03-29T14:03:19.677099+00:00"
-    },
-    "e7d906e9ad9690dc": {
-      "title": "OpenAI investor says AI requires an income tax overhaul",
-      "fetched_at": "2026-03-29T14:03:20.308803+00:00"
-    },
-    "b00885e20634b04e": {
-      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "fetched_at": "2026-03-29T14:03:20.930871+00:00"
-    },
-    "156d73194b8b930d": {
-      "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
-      "fetched_at": "2026-03-29T14:03:21.631559+00:00"
-    },
-    "bc1c78f6ab68b0db": {
-      "title": "“AI未来论坛”在京举办，红杉中国、高瓴创投等6家投资机构集中签约",
-      "fetched_at": "2026-03-29T14:03:22.258888+00:00"
-    },
-    "14a14076abf04dc7": {
-      "title": "Show HN: WhatToBuy – Describe your situation, get AI-curated shopping carts",
-      "fetched_at": "2026-03-29T14:03:22.942276+00:00"
-    },
-    "30ca588672cef7e9": {
-      "title": "Hledger AI Policy",
-      "fetched_at": "2026-03-29T14:03:23.574563+00:00"
-    },
-    "ef8ed7dddf6999fb": {
-      "title": "中信证券：配置上建议继续坚守中国优势制造业，静待4月决断",
-      "fetched_at": "2026-03-29T14:03:24.275681+00:00"
-    },
-    "8a957c4760d92af3": {
-      "title": "Scion: Running Concurrent LLM Agents with Isolated Identities and Workspaces",
-      "fetched_at": "2026-03-29T14:03:24.894695+00:00"
-    },
-    "dbe3e1f85ff0c822": {
-      "title": "分析：特朗普在憑直覺和伊朗打仗，很難如願以償",
-      "fetched_at": "2026-03-29T14:03:27.961564+00:00"
-    },
-    "de27b65a88e4cd41": {
-      "title": "伊朗戰爭激化：中國有何盤算？如何影響習特會談？",
-      "fetched_at": "2026-03-29T14:03:28.583318+00:00"
-    },
-    "39456f0313df53ed": {
-      "title": "Endometriosis messes with the immune system and causes 'ripple effects across the body'",
-      "fetched_at": "2026-03-29T14:03:30.005692+00:00"
-    },
-    "fb555694eff80de7": {
-      "title": "Hubble images taken 25 years apart show big changes in the iconic Crab Nebula —‬ Space photo of the week",
-      "fetched_at": "2026-03-29T14:03:30.623359+00:00"
-    },
-    "96103ce7d8c71445": {
-      "title": "This hidden state of water could explain why life exists",
-      "fetched_at": "2026-03-29T14:03:31.239945+00:00"
-    },
-    "10fac425866d8117": {
-      "title": "This quantum computing breakthrough may not be what it seemed",
-      "fetched_at": "2026-03-29T14:03:31.903374+00:00"
-    },
-    "f33a647507b9029f": {
-      "title": "What would happen to Earth if the sun suddenly vanished?",
-      "fetched_at": "2026-03-29T14:03:32.526192+00:00"
-    },
-    "b916f569a093d0aa": {
-      "title": "Stroke triggers a hidden brain change that looks like rejuvenation",
-      "fetched_at": "2026-03-29T14:03:33.143977+00:00"
-    },
-    "476500a14d1b8be9": {
-      "title": "New cholesterol guidelines could change when you get tested",
-      "fetched_at": "2026-03-29T14:03:33.917204+00:00"
-    },
-    "b0ad3008cb87ddec": {
-      "title": "Scientists say the evidence is clear: E-cigarettes beat patches and gum in helping smokers quit",
-      "fetched_at": "2026-03-29T14:03:34.570645+00:00"
-    },
-    "42630360fb0e5c0f": {
-      "title": "This new therapy turns off pain without opioids or addiction",
-      "fetched_at": "2026-03-29T14:03:35.201894+00:00"
-    },
     "59fded49e756a5bf": {
       "title": "AI Isn't Lightening Workloads. It's Making Them More Intense",
       "fetched_at": "2026-03-29T19:48:00.727270+00:00"
@@ -3519,7 +3307,115 @@
     "48c95934297e6ba5": {
       "title": "Popular sugar substitute linked to brain damage and stroke risk",
       "fetched_at": "2026-04-06T06:17:56.148688+00:00"
+    },
+    "2b552bb152779c9b": {
+      "title": "The Federal Government Is Rushing Toward AI: Three Cautionary Tales",
+      "fetched_at": "2026-04-06T14:38:01.588621+00:00"
+    },
+    "0f768381e6f21927": {
+      "title": "Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K",
+      "fetched_at": "2026-04-06T14:38:02.213134+00:00"
+    },
+    "1a27c71c0628bd69": {
+      "title": "AI Inference Cost Crisis 2026: Why Your AI Bill Is Exploding",
+      "fetched_at": "2026-04-06T14:38:02.836267+00:00"
+    },
+    "fa800511d8011a48": {
+      "title": "When Virality Is the Message: The New Age of AI Propaganda",
+      "fetched_at": "2026-04-06T14:38:03.583229+00:00"
+    },
+    "fc4665a2038e2943": {
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "fetched_at": "2026-04-06T14:38:04.228191+00:00"
+    },
+    "6aceaeeac35d385b": {
+      "title": "Can AI responses be influenced? The SEO industry is trying",
+      "fetched_at": "2026-04-06T14:38:04.853252+00:00"
+    },
+    "b1582b232bc60be2": {
+      "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
+      "fetched_at": "2026-04-06T14:38:05.507222+00:00"
+    },
+    "e77c05b53b4d1abd": {
+      "title": "We open-sourced an AI-native operating model (CC, 6 languages)",
+      "fetched_at": "2026-04-06T14:38:06.119965+00:00"
+    },
+    "f470f61ca9af5fab": {
+      "title": "Is.team – AI agents and humans on the same project board",
+      "fetched_at": "2026-04-06T14:38:06.758664+00:00"
+    },
+    "211bf01d03839fb8": {
+      "title": "Adam Curtis Fears AI Is a Hungry Ghost",
+      "fetched_at": "2026-04-06T14:38:07.378428+00:00"
+    },
+    "016facfa0a2da4f9": {
+      "title": "Benchmark-Dependent Output Dynamics in LLM Prompt Compression",
+      "fetched_at": "2026-04-06T14:38:08.001972+00:00"
+    },
+    "0a97f6d5fd0841fb": {
+      "title": "Ask HN: How are you orchestrating multi-agent AI workflows in production?",
+      "fetched_at": "2026-04-06T14:38:08.623144+00:00"
+    },
+    "f46c220429a72393": {
+      "title": "Pscale – Logarithmic compression for LLM knowledge bases",
+      "fetched_at": "2026-04-06T14:38:09.333041+00:00"
+    },
+    "5df0a495e9ad6023": {
+      "title": "I Woke Up Not Knowing Who I Was – Building an AI Robot Brain [video]",
+      "fetched_at": "2026-04-06T14:38:09.958330+00:00"
+    },
+    "3c802fd3e7e64f7a": {
+      "title": "Scanned 28 major websites for AI agent readiness – results are embarrassing",
+      "fetched_at": "2026-04-06T14:38:10.606104+00:00"
+    },
+    "19a2c948c7f4f798": {
+      "title": "I let an AI run my startup for 35 days – 315 sessions, $0 revenue",
+      "fetched_at": "2026-04-06T14:38:11.229353+00:00"
+    },
+    "8cd93bd9f5202425": {
+      "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
+      "fetched_at": "2026-04-06T14:38:11.844609+00:00"
+    },
+    "6ff4be5232e78336": {
+      "title": "Token-Aware LLM Load Balancer route by inflight tokens,not connections",
+      "fetched_at": "2026-04-06T14:38:12.461622+00:00"
+    },
+    "9b95f3bc2f26c66f": {
+      "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
+      "fetched_at": "2026-04-06T14:38:13.093279+00:00"
+    },
+    "62e97ff657c7aef8": {
+      "title": "Real-time poker engine with emotion-driven AI bots",
+      "fetched_at": "2026-04-06T14:38:13.755269+00:00"
+    },
+    "1176bebfa9bcaf0a": {
+      "title": "分析：特朗普宣稱飛行員救援行動勝利，但美國在伊朗面臨的威脅揮之不去",
+      "fetched_at": "2026-04-06T14:38:16.084691+00:00"
+    },
+    "3a439a588dcaaa3b": {
+      "title": "還原在伊朗偏遠地區墜機的美軍軍官被救過程",
+      "fetched_at": "2026-04-06T14:38:16.707520+00:00"
+    },
+    "225181208de19605": {
+      "title": "阿提米絲大量「發帖」秀圖：這是科學之旅還是度假？",
+      "fetched_at": "2026-04-06T14:38:17.329929+00:00"
+    },
+    "9a2c295ad83ee5ff": {
+      "title": "'They could spend 4 or 5 hours per day underwater': How humans adapted to the most challenging environments",
+      "fetched_at": "2026-04-06T14:38:18.933277+00:00"
+    },
+    "0d4095940433ec95": {
+      "title": "We went to Finland to hear about the new 'sand battery' that will turn stored renewable energy back into power for the electrical grid",
+      "fetched_at": "2026-04-06T14:38:19.581241+00:00"
+    },
+    "feab097284b052fc": {
+      "title": "The hungriest black holes in the universe are running out of food, survey of 8,000 cosmic monsters reveals",
+      "fetched_at": "2026-04-06T14:38:20.209088+00:00"
+    },
+    "663f9d09097c78da": {
+      "title": "Beadnet dress: A 4,500-year-old ancient Egyptian funeral 'gown' that was in vogue during the Old Kingdom",
+      "fetched_at": "2026-04-06T14:38:20.834337+00:00"
     }
   },
-  "last_updated": "2026-04-06T06:17:56.281260+00:00"
+  "last_updated": "2026-04-06T14:38:20.970230+00:00"
 }
