@@ -1,105 +1,5 @@
 {
   "articles": {
-    "59fded49e756a5bf": {
-      "title": "AI Isn't Lightening Workloads. It's Making Them More Intense",
-      "fetched_at": "2026-03-29T19:48:00.727270+00:00"
-    },
-    "f4d18e00deb15fa2": {
-      "title": "'Fruit Love Island': AI-generated TikTok parody of reality series goes viral",
-      "fetched_at": "2026-03-29T19:48:01.299445+00:00"
-    },
-    "4672693bda86e55a": {
-      "title": "Senior journalist claims to use AI for fact-checking",
-      "fetched_at": "2026-03-29T19:48:01.886885+00:00"
-    },
-    "f24d3e45000128ee": {
-      "title": "Google Released Lyria 3 Pro to Google AI Studio",
-      "fetched_at": "2026-03-29T19:48:02.460207+00:00"
-    },
-    "971ba68334482223": {
-      "title": "Personal AI Development Environment",
-      "fetched_at": "2026-03-29T19:48:03.035277+00:00"
-    },
-    "56c47c991f166778": {
-      "title": "Alex Karp says only two kinds of people will succeed in the AI era",
-      "fetched_at": "2026-03-29T19:48:03.612112+00:00"
-    },
-    "2a8b3e9a21511432": {
-      "title": "Open-source ZK proofs for ML inference – verify AI decisions cryptographically",
-      "fetched_at": "2026-03-29T19:48:04.207327+00:00"
-    },
-    "791e3b02f4625b50": {
-      "title": "Show HN: Find My Co-Founder – founder DNA assessment with AI match report",
-      "fetched_at": "2026-03-29T19:48:04.842178+00:00"
-    },
-    "9d796912af5853e1": {
-      "title": "Security awareness in LLM agents: the NDAI zone case",
-      "fetched_at": "2026-03-29T19:48:05.414138+00:00"
-    },
-    "6c3ab17a3dc36616": {
-      "title": "Intel Core Ultra Series 3 VPro: 18A AI PCs Debut with Dtect Security Updates",
-      "fetched_at": "2026-03-29T19:48:05.988105+00:00"
-    },
-    "521c1db29b6fbc08": {
-      "title": "Bob Dylan opened a new Patreon page to share AI content",
-      "fetched_at": "2026-03-29T19:48:06.571689+00:00"
-    },
-    "959518043f34b611": {
-      "title": "Pluribus – MCP and REST memory layer for AI agents (durable, shared, enforced)",
-      "fetched_at": "2026-03-29T19:48:07.170296+00:00"
-    },
-    "40da603b67accb5f": {
-      "title": "AI Won't Fix Your Org Chart",
-      "fetched_at": "2026-03-29T19:48:07.828568+00:00"
-    },
-    "8bb8db3ed41e039e": {
-      "title": "Gestalt – AI PC builder that compares Amazon vs. eBay prices in real time",
-      "fetched_at": "2026-03-29T19:48:08.397796+00:00"
-    },
-    "5636700664ec0967": {
-      "title": "Show HN: DeepRepo – AI architecture diagrams from GitHub repos",
-      "fetched_at": "2026-03-29T19:48:08.971563+00:00"
-    },
-    "4e086f7fcb4039f3": {
-      "title": "AI Is Not About to Become Sentient",
-      "fetched_at": "2026-03-29T19:48:09.558064+00:00"
-    },
-    "d90e7fd07d36b666": {
-      "title": "Show HN: AgentLens – Chrome DevTools for AI Agents (open-source, self-hosted)",
-      "fetched_at": "2026-03-29T19:48:10.220447+00:00"
-    },
-    "0d0d51aa891333bd": {
-      "title": "100% Interception of Multi-Turn Jailbreaks on GPT-4o-Mini and Gemini",
-      "fetched_at": "2026-03-29T19:48:10.854727+00:00"
-    },
-    "2816789b115b1258": {
-      "title": "AI software for smart glasses wins £1M prize for helping people with dementia",
-      "fetched_at": "2026-03-29T19:48:11.431081+00:00"
-    },
-    "cc911bc5086b3da6": {
-      "title": "An open-source tool for designing homes using AI",
-      "fetched_at": "2026-03-29T19:48:12.004266+00:00"
-    },
-    "f8fe5eb6c7d01687": {
-      "title": "Saturn's chaotic atmosphere revealed in most comprehensive view yet by James Webb and Hubble telescopes",
-      "fetched_at": "2026-03-29T19:48:48.410465+00:00"
-    },
-    "d40188383dd2e446": {
-      "title": "AI systems are enabling mass surveillance in the US, and there is no national law that 'meaningfully limits' the use of this data",
-      "fetched_at": "2026-03-29T19:48:48.990891+00:00"
-    },
-    "63d3848a65a10916": {
-      "title": "New AI tool predicts cancer spread with surprising accuracy",
-      "fetched_at": "2026-03-29T19:48:49.579042+00:00"
-    },
-    "d91b1baee27a7065": {
-      "title": "Scientists just found a hidden 48-dimensional world in quantum light",
-      "fetched_at": "2026-03-29T19:48:50.159582+00:00"
-    },
-    "fa17f0899876f347": {
-      "title": "This crocodile ran like a greyhound across prehistoric Britain 200 million years ago",
-      "fetched_at": "2026-03-29T19:48:50.740302+00:00"
-    },
     "77450008c41eb098": {
       "title": "现货黄金突破4530美元/盎司",
       "fetched_at": "2026-03-30T06:17:21.281984+00:00"
@@ -3415,7 +3315,139 @@
     "663f9d09097c78da": {
       "title": "Beadnet dress: A 4,500-year-old ancient Egyptian funeral 'gown' that was in vogue during the Old Kingdom",
       "fetched_at": "2026-04-06T14:38:20.834337+00:00"
+    },
+    "343d4a40565db4a0": {
+      "title": "Social media content creator platform powered by AI",
+      "fetched_at": "2026-04-06T20:03:02.926966+00:00"
+    },
+    "1c5f7bc0a60e13bc": {
+      "title": "AI agents over SSH from your phone. Starting to think this is where dev is going",
+      "fetched_at": "2026-04-06T20:03:03.528384+00:00"
+    },
+    "85b28a9aa011a67c": {
+      "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
+      "fetched_at": "2026-04-06T20:03:04.126024+00:00"
+    },
+    "67ec7d2d7556bf5c": {
+      "title": "Ask HN: First Step to Utopia – how can we turn normies into AI power users?",
+      "fetched_at": "2026-04-06T20:03:04.741754+00:00"
+    },
+    "bbffeb3123eb527d": {
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "fetched_at": "2026-04-06T20:03:05.331833+00:00"
+    },
+    "6bf30a3aa450f5e2": {
+      "title": "Open AI to give up to $100k and up to $1M in API credits",
+      "fetched_at": "2026-04-06T20:03:05.943731+00:00"
+    },
+    "288137c6eb059592": {
+      "title": "Building an AI Companion with Perfect Memory",
+      "fetched_at": "2026-04-06T20:03:06.541544+00:00"
+    },
+    "f72bbb1da34f2e04": {
+      "title": "AI helps add 10k more photos to OldNYC",
+      "fetched_at": "2026-04-06T20:03:07.153540+00:00"
+    },
+    "ae09b3df296e996f": {
+      "title": "The Sales Learning Curve (2006)",
+      "fetched_at": "2026-04-06T20:03:07.913661+00:00"
+    },
+    "c531aa284544d6be": {
+      "title": "Show HN: Sandbox AI Agents with Full macOS",
+      "fetched_at": "2026-04-06T20:03:08.519547+00:00"
+    },
+    "899909495ab96796": {
+      "title": "Stop scattering your AI agent skills across projects",
+      "fetched_at": "2026-04-06T20:03:09.127163+00:00"
+    },
+    "ee79f8610964a105": {
+      "title": "You're Building AI Agents on Layers That Won't Exist in 18 Months [video]",
+      "fetched_at": "2026-04-06T20:03:09.731417+00:00"
+    },
+    "e2bcd0809efef715": {
+      "title": "Show HN: EvalLens – Open-source tool to evaluate structured LLM outputs",
+      "fetched_at": "2026-04-06T20:03:10.422283+00:00"
+    },
+    "9aa7ca8b2a5b98dc": {
+      "title": "Iran threatens ‘Stargate’ AI data centers",
+      "fetched_at": "2026-04-06T20:03:11.018142+00:00"
+    },
+    "a39c8e33eefd1813": {
+      "title": "The Genie Out of the Bottle – What Happens When AI Grants Your Wishes",
+      "fetched_at": "2026-04-06T20:03:11.663524+00:00"
+    },
+    "785bf1247f12c50e": {
+      "title": "We built adaptive follow ups into our Voice Mock Interviews at Four-Leaf.ai",
+      "fetched_at": "2026-04-06T20:03:12.249846+00:00"
+    },
+    "5a21150fd8833f90": {
+      "title": "‎Google AI Edge Eloquent App",
+      "fetched_at": "2026-04-06T20:03:12.859905+00:00"
+    },
+    "7ecb4171453ec855": {
+      "title": "The AI writing witchhunt is pointless",
+      "fetched_at": "2026-04-06T20:03:13.461378+00:00"
+    },
+    "901c969f68bcf6ec": {
+      "title": "USB-Clawd and a Mini Fax Machine",
+      "fetched_at": "2026-04-06T20:03:14.136692+00:00"
+    },
+    "46c87bae3a261568": {
+      "title": "Three Memory Architectures for AI Companions: Pgvector, Scratchpad, Filesystem",
+      "fetched_at": "2026-04-06T20:03:14.750581+00:00"
+    },
+    "dbe3e1f85ff0c822": {
+      "title": "分析：特朗普在憑直覺和伊朗打仗，很難如願以償",
+      "fetched_at": "2026-04-06T20:03:21.795007+00:00"
+    },
+    "de27b65a88e4cd41": {
+      "title": "伊朗戰爭激化：中國有何盤算？如何影響習特會談？",
+      "fetched_at": "2026-04-06T20:03:22.402185+00:00"
+    },
+    "15410290417a2229": {
+      "title": "Canada Repatriates Historic Items to Turkey",
+      "fetched_at": "2026-04-06T20:03:24.194964+00:00"
+    },
+    "95f6913adcfe1051": {
+      "title": "New Dates Push Back Occupation of Mohenjo-Daro",
+      "fetched_at": "2026-04-06T20:03:24.801178+00:00"
+    },
+    "19ded2766b6af0f7": {
+      "title": "Submerged Harbor Structures Examined Off Greece’s Southern Coastline",
+      "fetched_at": "2026-04-06T20:03:25.385880+00:00"
+    },
+    "cfce778a9acb61d1": {
+      "title": "AI-written code can beat humans at biomedical analysis, some studies find. What does that mean for the field?",
+      "fetched_at": "2026-04-06T20:03:25.980565+00:00"
+    },
+    "b774d6fd35f7ddb8": {
+      "title": "JitAPI – An MCP server for dynamic tool discovery (34x fewer tokens)",
+      "fetched_at": "2026-04-06T20:03:26.593029+00:00"
+    },
+    "ccfdd805c87af4f9": {
+      "title": "Artemis II moon flyby begins: How to watch and what to know",
+      "fetched_at": "2026-04-06T20:03:27.198606+00:00"
+    },
+    "736f8908ddcad6dd": {
+      "title": "'A cure on the horizon': Are we finally close to ending type 1 diabetes?",
+      "fetched_at": "2026-04-06T20:03:27.798482+00:00"
+    },
+    "b916f569a093d0aa": {
+      "title": "Stroke triggers a hidden brain change that looks like rejuvenation",
+      "fetched_at": "2026-04-06T20:03:28.410177+00:00"
+    },
+    "476500a14d1b8be9": {
+      "title": "New cholesterol guidelines could change when you get tested",
+      "fetched_at": "2026-04-06T20:03:29.003367+00:00"
+    },
+    "42630360fb0e5c0f": {
+      "title": "This new therapy turns off pain without opioids or addiction",
+      "fetched_at": "2026-04-06T20:03:29.583579+00:00"
+    },
+    "10fac425866d8117": {
+      "title": "This quantum computing breakthrough may not be what it seemed",
+      "fetched_at": "2026-04-06T20:03:30.176610+00:00"
     }
   },
-  "last_updated": "2026-04-06T14:38:20.970230+00:00"
+  "last_updated": "2026-04-06T20:03:30.315584+00:00"
 }
