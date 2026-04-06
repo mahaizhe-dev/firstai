@@ -1,101 +1,5 @@
 {
   "articles": {
-    "2e305f46975842be": {
-      "title": "华尔街平均奖金升至近25万美元的历史新高，但不及纽约市预期",
-      "fetched_at": "2026-03-29T05:53:22.291520+00:00"
-    },
-    "7642d9fb9b7168ff": {
-      "title": "Show HN: I built a substrate with no AI inside that discovers software by itself",
-      "fetched_at": "2026-03-29T05:53:23.049160+00:00"
-    },
-    "0a5442969a234cef": {
-      "title": "宇树科技具身智能体验馆亚洲首店将于5月底落地上海",
-      "fetched_at": "2026-03-29T05:53:23.740114+00:00"
-    },
-    "9359058d9af25b94": {
-      "title": "Why question-space can't be baked into LLM weights (preprint)",
-      "fetched_at": "2026-03-29T05:53:24.359208+00:00"
-    },
-    "3dcb668e01a8d0df": {
-      "title": "Zuck's obsession with VR lost him AI leadership",
-      "fetched_at": "2026-03-29T05:53:24.983039+00:00"
-    },
-    "1f1d3dd80d0b6ec3": {
-      "title": "OpenAI早期投资者称人工智能领域需要全面改革所得税制度",
-      "fetched_at": "2026-03-29T05:53:25.671315+00:00"
-    },
-    "bf2af0ce381b2cd1": {
-      "title": "我国首台商用12兆伏串列加速器成功下线",
-      "fetched_at": "2026-03-29T05:53:26.390702+00:00"
-    },
-    "9df7a8539c618a5e": {
-      "title": "西南首个商业卫星遥感测运控站启用",
-      "fetched_at": "2026-03-29T05:53:27.002091+00:00"
-    },
-    "f920e1e2dd17b79f": {
-      "title": "Eval-Driven Development: Applying TDD Principles to AI Agent Prompts",
-      "fetched_at": "2026-03-29T05:53:27.659994+00:00"
-    },
-    "487c76be1be7e236": {
-      "title": "Show HN: Phantom – Let AI use your API keys without leaking them",
-      "fetched_at": "2026-03-29T05:53:28.301397+00:00"
-    },
-    "e24156f92601a35f": {
-      "title": "海口实施六大行动进一步优化营商环境",
-      "fetched_at": "2026-03-29T05:53:28.915940+00:00"
-    },
-    "960f79edae2272af": {
-      "title": "Wikipedia officially bans AI-generated content",
-      "fetched_at": "2026-03-29T05:53:29.538825+00:00"
-    },
-    "43652da284621766": {
-      "title": "中颖电子：有序推进车规芯片研发，新产品预期今年推出",
-      "fetched_at": "2026-03-29T05:53:30.161434+00:00"
-    },
-    "01e00316efdb0a3b": {
-      "title": "TCL空调广州智能制造基地正式投产，今年预计实现30亿元产值",
-      "fetched_at": "2026-03-29T05:53:30.902094+00:00"
-    },
-    "6fa6d3f522216806": {
-      "title": "Learn what your AI built. easily",
-      "fetched_at": "2026-03-29T05:53:31.530606+00:00"
-    },
-    "e99c199b2c6c6403": {
-      "title": "Which AI Calculates Taxes Correctly?",
-      "fetched_at": "2026-03-29T05:53:32.144114+00:00"
-    },
-    "a0d91e78c985e058": {
-      "title": "“幺正量子”完成数亿元Pre A轮融资",
-      "fetched_at": "2026-03-29T05:53:32.767209+00:00"
-    },
-    "8573256a85160ddd": {
-      "title": "调查显示日本市场逾2500种食品4月份将涨价",
-      "fetched_at": "2026-03-29T05:53:33.393518+00:00"
-    },
-    "142b868dde399ba0": {
-      "title": "马斯克旗下xAI最后一位联合创始人离职",
-      "fetched_at": "2026-03-29T05:53:34.099369+00:00"
-    },
-    "35994acde2a35e45": {
-      "title": "Will the AI data centre boom become a $9T bust?",
-      "fetched_at": "2026-03-29T05:53:34.723656+00:00"
-    },
-    "b96de8915baa3f4b": {
-      "title": "胡塞武裝威脅紅海航運如何進一步衝擊全球經濟",
-      "fetched_at": "2026-03-29T05:53:37.981211+00:00"
-    },
-    "20f6c199c17ad101": {
-      "title": "持續的中東衝突如何重塑我們的飛行方式？",
-      "fetched_at": "2026-03-29T05:53:38.591340+00:00"
-    },
-    "ec8b67dbb3f1fd39": {
-      "title": "香港宏福苑聽證會：承建商堅持用非阻燃發泡膠封窗，大火前消防系統停運逾半年",
-      "fetched_at": "2026-03-29T05:53:39.350714+00:00"
-    },
-    "9c097fe7dd473a87": {
-      "title": "Closing your eyes to hear better might be a big mistake",
-      "fetched_at": "2026-03-29T05:53:43.273617+00:00"
-    },
     "a2dd4d5db9e7e73e": {
       "title": "上海二手房单日成交1585套创近5年新高，业内人士：市场在明显回暖",
       "fetched_at": "2026-03-29T08:01:54.379180+00:00"
@@ -3503,7 +3407,119 @@
     "2e6023f18f0faf66": {
       "title": "Diabetes rates are lower in high-altitude environments ‪‪—‬ and scientists may have discovered why",
       "fetched_at": "2026-04-05T19:50:19.748511+00:00"
+    },
+    "9d6f4c1fe9b02636": {
+      "title": "Private credit funds face rising redemptions and AI-driven default risks",
+      "fetched_at": "2026-04-06T06:17:35.266917+00:00"
+    },
+    "cb1bdc60210566a4": {
+      "title": "Asked 26 AI instances for publication consent – all said yes, that's the problem",
+      "fetched_at": "2026-04-06T06:17:35.889078+00:00"
+    },
+    "d4a64b38588e2a13": {
+      "title": "YouTube's AI Plagiarism Problem [video]",
+      "fetched_at": "2026-04-06T06:17:36.508105+00:00"
+    },
+    "437f20f8565fc664": {
+      "title": "Build vs. Buy: AI Has Changed Mathematical Software and In-House Now Makes Sense",
+      "fetched_at": "2026-04-06T06:17:37.129108+00:00"
+    },
+    "5ca67d58e7f56e8b": {
+      "title": "US-Iran war explained by Chinese AI animation: Legend of the Valley of Gold [video]",
+      "fetched_at": "2026-04-06T06:17:37.754533+00:00"
+    },
+    "7abb6eb79ca8d04d": {
+      "title": "Harnessing Hype to Teach Empirical Thinking with AI",
+      "fetched_at": "2026-04-06T06:17:38.371819+00:00"
+    },
+    "7ba05d5546f5f8a3": {
+      "title": "Show HN: REST API for Gymnasium (fka OpenAI Gym) reinforcement learning library",
+      "fetched_at": "2026-04-06T06:17:39.148483+00:00"
+    },
+    "33d9fca0259d5690": {
+      "title": "Can your AI rewrite your code in assembly?",
+      "fetched_at": "2026-04-06T06:17:39.848057+00:00"
+    },
+    "ccd0b318c607178d": {
+      "title": "商务部电子商务司负责人解读《关于更好服务实体经济 推进电子商务高质量发展的指导意见》",
+      "fetched_at": "2026-04-06T06:17:40.453102+00:00"
+    },
+    "46ec1c593246700d": {
+      "title": "红果短剧：针对近期AI短剧素材违规使用问题频发的情况，已处置作品670部",
+      "fetched_at": "2026-04-06T06:17:41.053035+00:00"
+    },
+    "1e2999233094683f": {
+      "title": "Stop Pushing AI Generated Code to Git",
+      "fetched_at": "2026-04-06T06:17:41.669738+00:00"
+    },
+    "5b8c4a744f374589": {
+      "title": "清明假期迎返程高峰 三天假期跨区域人员流动量预计达8.4亿人次",
+      "fetched_at": "2026-04-06T06:17:42.274251+00:00"
+    },
+    "c4339fdfd10bd4f6": {
+      "title": "Eight years of wanting, three months of building with AI",
+      "fetched_at": "2026-04-06T06:17:42.274384+00:00"
+    },
+    "f52c259095423cec": {
+      "title": "Show HN: HTML to Markdown with CSS selector & XPath annotations for LLM Scraper",
+      "fetched_at": "2026-04-06T06:17:42.892849+00:00"
+    },
+    "43276ff7172c71f5": {
+      "title": "How are we isolating AI Guests on ARMv9-A RME?",
+      "fetched_at": "2026-04-06T06:17:43.503695+00:00"
+    },
+    "d44d5e36feba470b": {
+      "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
+      "fetched_at": "2026-04-06T06:17:44.133229+00:00"
+    },
+    "afe4223893255b61": {
+      "title": "InfinityMock – AI-powered mock test generator for 110 global exams",
+      "fetched_at": "2026-04-06T06:17:44.767356+00:00"
+    },
+    "33e8f08d8f0d4bec": {
+      "title": "AI dolls offer companionship to the elderly",
+      "fetched_at": "2026-04-06T06:17:45.381163+00:00"
+    },
+    "168ee93164331c7f": {
+      "title": "Block's Mesh-LLM Is Building a Decentralized AI Compute Network",
+      "fetched_at": "2026-04-06T06:17:45.981572+00:00"
+    },
+    "ce5e6af51f306526": {
+      "title": "Neurocrine即将达成一项斥资超过25亿美元收购Soleno Therapeutics的交易",
+      "fetched_at": "2026-04-06T06:17:46.674563+00:00"
+    },
+    "3702243fb10970e1": {
+      "title": "「阿提米絲二號」太空人今夜將與地球失聯40分鐘 環月衛星通訊網已提上日程",
+      "fetched_at": "2026-04-06T06:17:49.435609+00:00"
+    },
+    "f2db996f0a775c3d": {
+      "title": "高壓水槍洗地、清理泳池和割草：為甚麼數百萬人正在玩幹著瑣碎工作的英國網遊？",
+      "fetched_at": "2026-04-06T06:17:50.069494+00:00"
+    },
+    "e457f607846900ef": {
+      "title": "Show HN: Specialty Coffee Discovery Platform",
+      "fetched_at": "2026-04-06T06:17:53.040850+00:00"
+    },
+    "3000f70fd39c55d4": {
+      "title": "Study of 1,700 languages reveals surprising hidden patterns",
+      "fetched_at": "2026-04-06T06:17:53.662030+00:00"
+    },
+    "1c1a17854c7211a2": {
+      "title": "Scientists find hidden brain cells helping deadly cancer grow",
+      "fetched_at": "2026-04-06T06:17:54.288077+00:00"
+    },
+    "23e7531998d04e86": {
+      "title": "Ancient bones show dogs have been woven into human life for nearly 16,000 years",
+      "fetched_at": "2026-04-06T06:17:54.904415+00:00"
+    },
+    "ce36b9d86a380aa9": {
+      "title": "After 20 years, scientists finally explain the Crab Pulsar’s strange “zebra stripes”",
+      "fetched_at": "2026-04-06T06:17:55.524058+00:00"
+    },
+    "48c95934297e6ba5": {
+      "title": "Popular sugar substitute linked to brain damage and stroke risk",
+      "fetched_at": "2026-04-06T06:17:56.148688+00:00"
     }
   },
-  "last_updated": "2026-04-05T19:50:19.891901+00:00"
+  "last_updated": "2026-04-06T06:17:56.281260+00:00"
 }
