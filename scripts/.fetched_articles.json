@@ -1,105 +1,5 @@
 {
   "articles": {
-    "a9fe5e7094220153": {
-      "title": "Show HN: I built a simpler way to follow research papers–AI summaries and emails",
-      "fetched_at": "2026-03-30T20:04:32.159947+00:00"
-    },
-    "1c6ea16ffc510400": {
-      "title": "Novel environments, no precedents or plagiarism possible. Humans 100%, AI <1%",
-      "fetched_at": "2026-03-30T20:04:32.722573+00:00"
-    },
-    "179a980ddb7c0ba3": {
-      "title": "Show HN: NewsMarvin – AI news from 71 sources, classified by Claude Haiku",
-      "fetched_at": "2026-03-30T20:04:33.311995+00:00"
-    },
-    "eb4b5e1e13fafa6a": {
-      "title": "Wikipedia, AI, maps, and education tools running on your own hardware",
-      "fetched_at": "2026-03-30T20:04:33.882144+00:00"
-    },
-    "52403be9571eeef4": {
-      "title": "Create Context Graph: Scaffold AI agents with context graph memory in seconds",
-      "fetched_at": "2026-03-30T20:04:34.446085+00:00"
-    },
-    "3b8f549b19a41340": {
-      "title": "Show HN: Memoir – persistent memory for AI coding tools via MCP",
-      "fetched_at": "2026-03-30T20:04:35.009400+00:00"
-    },
-    "a0257fcabaef2d61": {
-      "title": "Bernie Sanders, AOC announce AI data center moratorium bill [video]",
-      "fetched_at": "2026-03-30T20:04:35.572376+00:00"
-    },
-    "3d829cdb24081350": {
-      "title": "Show HN: AI Playlist Generator for YouTube",
-      "fetched_at": "2026-03-30T20:04:36.142965+00:00"
-    },
-    "53fb90e66cdf876b": {
-      "title": "Why AI is not killing the cybersecurity industry, but expanding it exponentially",
-      "fetched_at": "2026-03-30T20:04:36.710606+00:00"
-    },
-    "be7a7ecae2f24a8c": {
-      "title": "Who or what is sending AI spam via the SF encyclopedia feedback form?",
-      "fetched_at": "2026-03-30T20:04:37.311486+00:00"
-    },
-    "5f0be0b17803b482": {
-      "title": "AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed",
-      "fetched_at": "2026-03-30T20:04:37.877591+00:00"
-    },
-    "0f2b2b0bc3a47a12": {
-      "title": "Handling Sensitive Data in LLM Systems (2025)",
-      "fetched_at": "2026-03-30T20:04:38.451266+00:00"
-    },
-    "ef759fefd0745625": {
-      "title": "What do coders do after AI?",
-      "fetched_at": "2026-03-30T20:04:39.015582+00:00"
-    },
-    "9b8c00d238360cf0": {
-      "title": "An Alternative Trajectory for Generative AI",
-      "fetched_at": "2026-03-30T20:04:39.581552+00:00"
-    },
-    "5222be3fc93dbc02": {
-      "title": "Lots of AI SRE, no AI incident management",
-      "fetched_at": "2026-03-30T20:04:40.147260+00:00"
-    },
-    "80eff818472833fe": {
-      "title": "The Odd–and Oddly Human–Work of Teaching AI to Talk",
-      "fetched_at": "2026-03-30T20:04:40.712612+00:00"
-    },
-    "0a8a35991ca57564": {
-      "title": "How to Make AI Serve the Public",
-      "fetched_at": "2026-03-30T20:04:41.277490+00:00"
-    },
-    "7a9d1178029b4071": {
-      "title": "Show HN: Stm32-MCP – let AI build, flash, & communicate with hardware",
-      "fetched_at": "2026-03-30T20:04:41.872814+00:00"
-    },
-    "14e20453c170a716": {
-      "title": "ADK for Java 1.0.0: Building the Future of AI Agents in Java",
-      "fetched_at": "2026-03-30T20:04:42.494301+00:00"
-    },
-    "23f8db375bab344a": {
-      "title": "Show HN: An extremly fast AI-native file manager written in Rust for macOS",
-      "fetched_at": "2026-03-30T20:04:43.089996+00:00"
-    },
-    "af63423b2ac3e048": {
-      "title": "Pinot Noir Grape Seed Found in Medieval Pit in France",
-      "fetched_at": "2026-03-30T20:04:47.593371+00:00"
-    },
-    "f6374569eab15399": {
-      "title": "Study Tracks Genetic Lineages of Europe’s Last Neanderthals",
-      "fetched_at": "2026-03-30T20:04:48.156956+00:00"
-    },
-    "26cc689a16de4fee": {
-      "title": "Coral Buildings in the South Pacific Dated",
-      "fetched_at": "2026-03-30T20:04:48.724873+00:00"
-    },
-    "1bf4f55299777e85": {
-      "title": "This 67,800-year-old handprint is the oldest art ever found",
-      "fetched_at": "2026-03-30T20:04:49.299020+00:00"
-    },
-    "2b245e30ed318d06": {
-      "title": "Webb Telescope spots “impossible” atmosphere on ancient super Earth",
-      "fetched_at": "2026-03-30T20:04:49.866836+00:00"
-    },
     "b40b8e496984684f": {
       "title": "支付宝发布支付集成Skill",
       "fetched_at": "2026-03-31T05:56:01.559027+00:00"
@@ -3555,7 +3455,123 @@
     "a0ddc99e980c8361": {
       "title": "Physicists moved volatile antimatter by truck for the first time ever — paving the way for groundbreaking new research",
       "fetched_at": "2026-04-07T16:15:16.001924+00:00"
+    },
+    "88ee7c96f4eb1a11": {
+      "title": "How We Built a Slop-Proof AI Engineering Workflow",
+      "fetched_at": "2026-04-07T20:04:56.363216+00:00"
+    },
+    "a396e744911fd08c": {
+      "title": "InariWatch – AI monitoring that fixes production errors and ships the PR",
+      "fetched_at": "2026-04-07T20:04:56.991300+00:00"
+    },
+    "ced1d6aa904c4485": {
+      "title": "Writing an LLM from scratch, part 32i – Interventions: what is in the noise?",
+      "fetched_at": "2026-04-07T20:04:57.607035+00:00"
+    },
+    "ce4cc2783e201040": {
+      "title": "Show HN: Visualize token entropy in a tiny in-browser LLM",
+      "fetched_at": "2026-04-07T20:04:58.241672+00:00"
+    },
+    "b3b54e45d37e480c": {
+      "title": "AI agents are scrambling power users' brains",
+      "fetched_at": "2026-04-07T20:04:58.864927+00:00"
+    },
+    "a5f0e6b45ba42d3f": {
+      "title": "Interview Helper – Real-time AI translation",
+      "fetched_at": "2026-04-07T20:04:59.487933+00:00"
+    },
+    "0eaf09e9e7f89253": {
+      "title": "The Cognitive Costs of AI",
+      "fetched_at": "2026-04-07T20:05:00.114818+00:00"
+    },
+    "737b27742232f8dc": {
+      "title": "Show HN: Kronaxis Router – Don't pay frontier prices when a local LLM is enough",
+      "fetched_at": "2026-04-07T20:05:00.751704+00:00"
+    },
+    "a1a8f7788cba01b6": {
+      "title": "What AI is Doing to the Workforce [video]",
+      "fetched_at": "2026-04-07T20:05:01.378394+00:00"
+    },
+    "979fc2220acca613": {
+      "title": "Where are we converging with all AI companies running the same business model",
+      "fetched_at": "2026-04-07T20:05:01.988028+00:00"
+    },
+    "e2d29c293445d080": {
+      "title": "Give Your AI Eyes: Introducing Chrome DevTools MCP",
+      "fetched_at": "2026-04-07T20:05:02.617900+00:00"
+    },
+    "24ed4fdff6cbd7f7": {
+      "title": "Show HN: I built an AI coding agent 50% cheaper than Claude Code (same prompts)",
+      "fetched_at": "2026-04-07T20:05:03.248865+00:00"
+    },
+    "dd5977fc17789a71": {
+      "title": "Spacebot: Agentic AI system where LLM process has a dedicated role, OpenClaw alt",
+      "fetched_at": "2026-04-07T20:05:03.889538+00:00"
+    },
+    "bffcf6bbf53bd9b5": {
+      "title": "China is winning one AI race, the US another – but either might pull ahead",
+      "fetched_at": "2026-04-07T20:05:04.508289+00:00"
+    },
+    "c63f6d79f1f8811b": {
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "fetched_at": "2026-04-07T20:05:05.207550+00:00"
+    },
+    "7ce9818ba05b5646": {
+      "title": "AI modeling techniques for vision-based occupancy determination",
+      "fetched_at": "2026-04-07T20:05:05.823930+00:00"
+    },
+    "26294a0e536bd5e1": {
+      "title": "Skilled older workers turn to AI training to stay afloat",
+      "fetched_at": "2026-04-07T20:05:06.451788+00:00"
+    },
+    "383cacc3a1222832": {
+      "title": "If-pal: play Zork (and other games) with an AI gen alpha companion",
+      "fetched_at": "2026-04-07T20:05:07.084798+00:00"
+    },
+    "a827b858d1d9e992": {
+      "title": "A graph of Trump's contradictions that builds itself using a local LLM",
+      "fetched_at": "2026-04-07T20:05:07.798310+00:00"
+    },
+    "5102bc57d7795015": {
+      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+      "fetched_at": "2026-04-07T20:05:08.415034+00:00"
+    },
+    "cade1c9186aeca19": {
+      "title": "'They are literally everywhere': The shocking story of how forever chemicals polluted the world",
+      "fetched_at": "2026-04-07T20:05:15.485074+00:00"
+    },
+    "e57bd57f5d3d6bbd": {
+      "title": "Midden Island Identified in Fiji Archipelago",
+      "fetched_at": "2026-04-07T20:05:16.113202+00:00"
+    },
+    "69919b955a22e3fa": {
+      "title": "Ancient Papyrus Reveals New Lines of Greek Philosophy",
+      "fetched_at": "2026-04-07T20:05:16.747365+00:00"
+    },
+    "7cf4128119da033c": {
+      "title": "DNA reveals ancestry of man buried in Stone Age monument in Spain, but his religion remains a mystery",
+      "fetched_at": "2026-04-07T20:05:17.368933+00:00"
+    },
+    "17e7910f9dfcb85f": {
+      "title": "'So much magic': Artemis II shares first images from the far side of the moon, including new 'Earthset' and total eclipse in space",
+      "fetched_at": "2026-04-07T20:05:18.109782+00:00"
+    },
+    "6bd8e7d32987ed01": {
+      "title": "Some dinosaurs could rise up like giants — until they grew too big",
+      "fetched_at": "2026-04-07T20:05:18.740774+00:00"
+    },
+    "92c4357013fadad8": {
+      "title": "Simple therapies beat drugs for knee arthritis pain relief",
+      "fetched_at": "2026-04-07T20:05:19.552952+00:00"
+    },
+    "5a7a329975f01018": {
+      "title": "Webb telescope spots mysterious explosion that defies known physics",
+      "fetched_at": "2026-04-07T20:05:20.266015+00:00"
+    },
+    "0b6e7389b93e32de": {
+      "title": "Monster black holes are silencing star formation across the universe",
+      "fetched_at": "2026-04-07T20:05:20.893686+00:00"
     }
   },
-  "last_updated": "2026-04-07T16:15:16.141841+00:00"
+  "last_updated": "2026-04-07T20:05:21.037107+00:00"
 }
