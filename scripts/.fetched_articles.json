@@ -1,125 +1,5 @@
 {
   "articles": {
-    "4f145cb4599aa15e": {
-      "title": "AI giants tried to storm the last human stronghold: the math olympiads",
-      "fetched_at": "2026-03-30T15:55:32.696053+00:00"
-    },
-    "62cd3e64a1983d85": {
-      "title": "Show HN: ClamBot – AI agent that runs all LLM-generated code in a WASM sandbox",
-      "fetched_at": "2026-03-30T15:55:33.465229+00:00"
-    },
-    "540ba710dd15b9f8": {
-      "title": "Google Unveils AppFunctions to Connect AI Agents and Android Apps",
-      "fetched_at": "2026-03-30T15:55:34.113780+00:00"
-    },
-    "b4b3c21153710e3e": {
-      "title": "Java AI Ecosystem Guide",
-      "fetched_at": "2026-03-30T15:55:34.737079+00:00"
-    },
-    "45ceec4f74bccb53": {
-      "title": "MSFT AI slop infecting GitHub – Copilot is now injecting ads into pull requests",
-      "fetched_at": "2026-03-30T15:55:35.379553+00:00"
-    },
-    "c71499c8ac3f4c1d": {
-      "title": "Show HN: Leo News – AI newsbots with different political perspectives",
-      "fetched_at": "2026-03-30T15:55:36.012366+00:00"
-    },
-    "b1314d06f6362a11": {
-      "title": "Screamer – The fastest free speech to text AI in the world",
-      "fetched_at": "2026-03-30T15:55:36.710173+00:00"
-    },
-    "da540611bbaf99d7": {
-      "title": "Solo.io launches agentevals to solve agentic AI's \"biggest unsolved problem\"",
-      "fetched_at": "2026-03-30T15:55:37.343431+00:00"
-    },
-    "44d416503988076d": {
-      "title": "Free eBook: Runtime Intelligence – The New AI Architecture (Manning)",
-      "fetched_at": "2026-03-30T15:55:37.980553+00:00"
-    },
-    "ce6994234ff90587": {
-      "title": "Okta&#8217;s CEO is betting big on AI agent identity",
-      "fetched_at": "2026-03-30T15:55:38.612197+00:00"
-    },
-    "68c7d8b84e535187": {
-      "title": "Show HN: AI Spotlight for Your Computer (natural language search for files)",
-      "fetched_at": "2026-03-30T15:55:39.447707+00:00"
-    },
-    "e982a876c6290bab": {
-      "title": "Prompt Helix – Ask AI about any webpage without copy-pasting context",
-      "fetched_at": "2026-03-30T15:55:40.094314+00:00"
-    },
-    "b994c839df5146a8": {
-      "title": "The Anatomy of an LLM Benchmark",
-      "fetched_at": "2026-03-30T15:55:40.787575+00:00"
-    },
-    "f7efc6371d40b31c": {
-      "title": "Zero Ambient Authority: The Principle That Should Govern Every AI Agent",
-      "fetched_at": "2026-03-30T15:55:41.422921+00:00"
-    },
-    "8dc8a4d6147963f1": {
-      "title": "Same LLM, Different Agent: What Changes When You Specialize for CI",
-      "fetched_at": "2026-03-30T15:55:42.076550+00:00"
-    },
-    "52e533a6e71f6ad9": {
-      "title": "Apple Pivots Its AI Strategy to App Store, Search-Like Platform Approach",
-      "fetched_at": "2026-03-30T15:55:42.715915+00:00"
-    },
-    "b1ac15923c019d64": {
-      "title": "Show HN: Building a GPT from scratch: What I learned and why it mattered",
-      "fetched_at": "2026-03-30T15:55:43.336973+00:00"
-    },
-    "f9ec392f3f8bfff6": {
-      "title": "Why Every AI Scores Below 1% on ARC-AGI-3: A Structural Explanation",
-      "fetched_at": "2026-03-30T15:55:43.969930+00:00"
-    },
-    "aca2f88863b7379b": {
-      "title": "What Happens When You Tell AI Agents the Rules but Don't Enforce Them",
-      "fetched_at": "2026-03-30T15:55:44.587619+00:00"
-    },
-    "d653e5b3372a0397": {
-      "title": "Vibe check: AI may replace SaaS (but not for a while)",
-      "fetched_at": "2026-03-30T15:55:45.277813+00:00"
-    },
-    "81908a32ec0b3159": {
-      "title": "螞蟻寵物黑市蘊含生態危機 220美元一隻的蟻后如何成為中國非洲走私熱點",
-      "fetched_at": "2026-03-30T15:55:48.203029+00:00"
-    },
-    "2ea49c54db5db066": {
-      "title": "消息称FBI调取民主党议员旧调查文件，涉疑似中国间谍",
-      "fetched_at": "2026-03-30T15:55:48.814874+00:00"
-    },
-    "9577ad5d615d1731": {
-      "title": "'We are getting very, very close': NASA makes final Artemis II preparations as expectation grows for Wednesday launch",
-      "fetched_at": "2026-03-30T15:55:51.920782+00:00"
-    },
-    "0e7fa176b8b693b5": {
-      "title": "Farthest, fastest and most diverse: 6 major records the Artemis II astronauts will smash as NASA returns to the moon",
-      "fetched_at": "2026-03-30T15:55:52.669392+00:00"
-    },
-    "82fefc322ac2a2d0": {
-      "title": "Tudor Heart: A Renaissance gold necklace featuring a French-English pun on the love between Henry VIII and his first wife, Katherine of Aragon",
-      "fetched_at": "2026-03-30T15:55:53.299523+00:00"
-    },
-    "9791b92a5993fa7c": {
-      "title": "Resurrecting Sinistar: A Cyber-Archaeology Documentary [video]",
-      "fetched_at": "2026-03-30T15:55:53.925164+00:00"
-    },
-    "6bd8e7d32987ed01": {
-      "title": "Some dinosaurs could rise up like giants — until they grew too big",
-      "fetched_at": "2026-03-30T15:55:54.551443+00:00"
-    },
-    "92c4357013fadad8": {
-      "title": "Simple therapies beat drugs for knee arthritis pain relief",
-      "fetched_at": "2026-03-30T15:55:55.171076+00:00"
-    },
-    "5a7a329975f01018": {
-      "title": "Webb telescope spots mysterious explosion that defies known physics",
-      "fetched_at": "2026-03-30T15:55:55.789536+00:00"
-    },
-    "0b6e7389b93e32de": {
-      "title": "Monster black holes are silencing star formation across the universe",
-      "fetched_at": "2026-03-30T15:55:56.567309+00:00"
-    },
     "a9fe5e7094220153": {
       "title": "Show HN: I built a simpler way to follow research papers–AI summaries and emails",
       "fetched_at": "2026-03-30T20:04:32.159947+00:00"
@@ -3563,7 +3443,119 @@
     "ff5ef8ef08c5d3b0": {
       "title": "Deadly, vivid-green mass sprawls across South African reservoir — Earth from space",
       "fetched_at": "2026-04-07T09:52:08.233984+00:00"
+    },
+    "a553f710c3c39119": {
+      "title": "AI Agent Sandboxes Got Security Wrong",
+      "fetched_at": "2026-04-07T16:14:48.314447+00:00"
+    },
+    "dc1287be783b2bcb": {
+      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+      "fetched_at": "2026-04-07T16:14:49.063895+00:00"
+    },
+    "beabb8094963e92d": {
+      "title": "Show HN: I built an AI that forgets things when people leave the room",
+      "fetched_at": "2026-04-07T16:14:49.712300+00:00"
+    },
+    "9a8644c43b50ceda": {
+      "title": "AI Agent Guardrails: Pre-LLM and Post-LLM Best Practices",
+      "fetched_at": "2026-04-07T16:14:50.342342+00:00"
+    },
+    "9826b69b8ad2197a": {
+      "title": "Same LLM but different output: we built a CI specialist",
+      "fetched_at": "2026-04-07T16:14:51.025688+00:00"
+    },
+    "ff24741cc05ca33d": {
+      "title": "AMD's senior director of AI thinks 'Claude has regressed'",
+      "fetched_at": "2026-04-07T16:14:51.638400+00:00"
+    },
+    "13d907f4efffc10c": {
+      "title": "Safeguarded AI",
+      "fetched_at": "2026-04-07T16:14:52.209392+00:00"
+    },
+    "0424a79630d1c45c": {
+      "title": "Intel will help build Elon Musk’s Terafab AI chip factory",
+      "fetched_at": "2026-04-07T16:14:52.901948+00:00"
+    },
+    "2c91992b8fd46703": {
+      "title": "I Built a Wiki LLM",
+      "fetched_at": "2026-04-07T16:14:53.630525+00:00"
+    },
+    "21d8f67dfdc6710a": {
+      "title": "AI Will Not Make You Rich",
+      "fetched_at": "2026-04-07T16:14:54.221491+00:00"
+    },
+    "53dde3601fff057b": {
+      "title": "Diffuse AI Issue 1",
+      "fetched_at": "2026-04-07T16:14:54.810766+00:00"
+    },
+    "d8b7c0b38b6f3e83": {
+      "title": "DispoRx: Using Agentic AI as a high-fidelity simulator for ER workflows",
+      "fetched_at": "2026-04-07T16:14:55.390603+00:00"
+    },
+    "b620c41ece0427df": {
+      "title": "Slople – Can you tell real ML papers from AI-generated ones?",
+      "fetched_at": "2026-04-07T16:14:55.972564+00:00"
+    },
+    "a6a108e43173295d": {
+      "title": "So where are all the AI apps?",
+      "fetched_at": "2026-04-07T16:14:56.553027+00:00"
+    },
+    "e13bc58fe9b752c4": {
+      "title": "Show HN: Falcon Builder – the modular OS for designing and deploying AI agents",
+      "fetched_at": "2026-04-07T16:14:57.334994+00:00"
+    },
+    "ee04a63f03ed2ed0": {
+      "title": "Google Maps can now write captions for your photos using AI",
+      "fetched_at": "2026-04-07T16:14:58.079813+00:00"
+    },
+    "6803e61072b95dd8": {
+      "title": "AI alignment: the signal is the goal",
+      "fetched_at": "2026-04-07T16:14:58.658517+00:00"
+    },
+    "dcc9e2d678e7c0b2": {
+      "title": "I don't want an autonomous AI agent. I want a collaborator",
+      "fetched_at": "2026-04-07T16:14:59.238552+00:00"
+    },
+    "31fa7a773f2896eb": {
+      "title": "How Not to Use AI? (At Work)",
+      "fetched_at": "2026-04-07T16:14:59.819158+00:00"
+    },
+    "f63432b67945d821": {
+      "title": "Physical Engineering AI – tools for mech engineers",
+      "fetched_at": "2026-04-07T16:15:00.395753+00:00"
+    },
+    "461a6fb480576783": {
+      "title": "香港80年傳統醬油工廠 都市開發中求生存",
+      "fetched_at": "2026-04-07T16:15:05.253668+00:00"
+    },
+    "f7746b952cfd8673": {
+      "title": "AI 'mirages' mean tools used to analyze medical scans could fabricate their findings",
+      "fetched_at": "2026-04-07T16:15:12.262955+00:00"
+    },
+    "4a2a92a44a1d4cbf": {
+      "title": "What Happened to the Ancient Bug Giants of 300M Years Ago?",
+      "fetched_at": "2026-04-07T16:15:12.855218+00:00"
+    },
+    "0c4724c4c6988aea": {
+      "title": "World's fattest parrot — on the verge of extinction 30 years ago — has record-breaking breeding season",
+      "fetched_at": "2026-04-07T16:15:13.461426+00:00"
+    },
+    "ae86cd87cfe7a170": {
+      "title": "What historical evidence do we have of Jesus' crucifixion and its aftermath",
+      "fetched_at": "2026-04-07T16:15:14.038343+00:00"
+    },
+    "e9c40f8b69668012": {
+      "title": "California declared war on smog in the 1970s. The knock-on effects were huge.",
+      "fetched_at": "2026-04-07T16:15:14.728863+00:00"
+    },
+    "beb63f5c69514b95": {
+      "title": "Laifen Wave Pro electric toothbrush review: A perfect all-rounder",
+      "fetched_at": "2026-04-07T16:15:15.345936+00:00"
+    },
+    "a0ddc99e980c8361": {
+      "title": "Physicists moved volatile antimatter by truck for the first time ever — paving the way for groundbreaking new research",
+      "fetched_at": "2026-04-07T16:15:16.001924+00:00"
     }
   },
-  "last_updated": "2026-04-07T09:52:08.343360+00:00"
+  "last_updated": "2026-04-07T16:15:16.141841+00:00"
 }
