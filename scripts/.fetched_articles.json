@@ -1,105 +1,5 @@
 {
   "articles": {
-    "75b6e2d93e795000": {
-      "title": "Art schools are being torn apart by AI",
-      "fetched_at": "2026-03-31T15:52:52.191271+00:00"
-    },
-    "e3b5465487a0df61": {
-      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-      "fetched_at": "2026-03-31T15:52:52.812186+00:00"
-    },
-    "78ccc0e04c47f6a5": {
-      "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
-      "fetched_at": "2026-03-31T15:52:53.435792+00:00"
-    },
-    "2c09a632096eedea": {
-      "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
-      "fetched_at": "2026-03-31T15:52:54.212625+00:00"
-    },
-    "0516bab639939116": {
-      "title": "vivo发布X300系列两款机型，主打专业影像和均衡参数丨最前线",
-      "fetched_at": "2026-03-31T15:52:54.841889+00:00"
-    },
-    "5e800c395fa85c3c": {
-      "title": "宁德时代：控股股东拟无偿捐赠500万股公司股份",
-      "fetched_at": "2026-03-31T15:52:55.466627+00:00"
-    },
-    "41d2f44bf70a89be": {
-      "title": "时隔 5 年的大更新：AirPods Max 2 首发体验",
-      "fetched_at": "2026-03-31T15:52:56.093808+00:00"
-    },
-    "4adabb8d53b315e0": {
-      "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
-      "fetched_at": "2026-03-31T15:52:56.727142+00:00"
-    },
-    "174e982490fa5c17": {
-      "title": "With its new app store, Ring bets on AI to go beyond home security",
-      "fetched_at": "2026-03-31T15:52:57.345961+00:00"
-    },
-    "f82753dbeab12b33": {
-      "title": "德明利：预计一季度净利润31.5亿元–36.5亿元",
-      "fetched_at": "2026-03-31T15:52:57.985735+00:00"
-    },
-    "0f2cbd8c1dd1257e": {
-      "title": "广汽集团：优湃能源拟约19.2亿元转让昆仑蓝钻12%股权",
-      "fetched_at": "2026-03-31T15:52:58.595322+00:00"
-    },
-    "b29f8669ea5ce117": {
-      "title": "沃伦·巴菲特：股票市场估值仍然缺乏吸引力",
-      "fetched_at": "2026-03-31T15:52:59.202668+00:00"
-    },
-    "2541c239aff94de2": {
-      "title": "热门中概股美股盘前多数走强，名创优品涨超8%",
-      "fetched_at": "2026-03-31T15:52:59.814282+00:00"
-    },
-    "4bf93ee19be95533": {
-      "title": "美股大型科技股盘前普涨，英伟达涨超1%",
-      "fetched_at": "2026-03-31T15:53:00.451001+00:00"
-    },
-    "1f4ceb870ccf7837": {
-      "title": "理想汽车OTA8.4版本更新",
-      "fetched_at": "2026-03-31T15:53:01.076052+00:00"
-    },
-    "4bffc5528fb21340": {
-      "title": "东方电气：2025年净利润38.31亿元，同比增长31.11%",
-      "fetched_at": "2026-03-31T15:53:01.739589+00:00"
-    },
-    "200705383d3402ae": {
-      "title": "粉笔：2025年营收26.77亿元，经调整净利润为2.81亿元",
-      "fetched_at": "2026-03-31T15:53:02.432245+00:00"
-    },
-    "2adb228d174d3c62": {
-      "title": "巴菲特：仍参与伯克希尔哈撒韦的投资决策，近期有一笔“小额买入”",
-      "fetched_at": "2026-03-31T15:53:03.120265+00:00"
-    },
-    "3aa1d12903757446": {
-      "title": "智元与香港中文大学达成战略合作，共建具身智能产学研联合平台",
-      "fetched_at": "2026-03-31T15:53:03.726916+00:00"
-    },
-    "675ce0cc4f869613": {
-      "title": "诚邦股份：拟定增募资不超1亿元",
-      "fetched_at": "2026-03-31T15:53:04.348795+00:00"
-    },
-    "b3be7ff177043f96": {
-      "title": "為何海灣國家尚未報復伊朗？",
-      "fetched_at": "2026-03-31T15:53:07.166748+00:00"
-    },
-    "e9d724d037655fcd": {
-      "title": "On the trail of ancient art, deep in the Sahara",
-      "fetched_at": "2026-03-31T15:53:11.932257+00:00"
-    },
-    "e658c6ed5ca0e97b": {
-      "title": "AI sheds light on an ancient gaming mystery",
-      "fetched_at": "2026-03-31T15:53:12.650721+00:00"
-    },
-    "b47abe650aa8bd8c": {
-      "title": "Artemis II launch: NASA prepares for Wednesday launch of historic space mission",
-      "fetched_at": "2026-03-31T15:53:13.264241+00:00"
-    },
-    "fe9735609d232ad6": {
-      "title": "OWASP PTK 9.8.0 with auto-discovery for bug bounty",
-      "fetched_at": "2026-03-31T15:53:13.923768+00:00"
-    },
     "cea64307bab5ae77": {
       "title": "Yupp.ai shuts down less than a year after launching with $33M from a16z crypto’s Chris Dixon",
       "fetched_at": "2026-03-31T20:03:13.618100+00:00"
@@ -3659,7 +3559,115 @@
     "05744202edfd1f6b": {
       "title": "Diagnostic dilemma: Woman's 'biologically implausible' infection led her to sneeze 'worms' out of her nose",
       "fetched_at": "2026-04-08T12:55:45.202887+00:00"
+    },
+    "9f007a62d8480d7e": {
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "fetched_at": "2026-04-08T19:01:10.464137+00:00"
+    },
+    "f1ceb5de3757b2c6": {
+      "title": "Meta is reentering the AI race with a new model called Muse Spark",
+      "fetched_at": "2026-04-08T19:01:11.084334+00:00"
+    },
+    "a54a610d3c618ae5": {
+      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+      "fetched_at": "2026-04-08T19:01:11.719215+00:00"
+    },
+    "3f012d925061da72": {
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "fetched_at": "2026-04-08T19:01:12.351393+00:00"
+    },
+    "cb1c20bdeec216bb": {
+      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+      "fetched_at": "2026-04-08T19:01:13.061844+00:00"
+    },
+    "791133c47cf1068d": {
+      "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "fetched_at": "2026-04-08T19:01:13.871204+00:00"
+    },
+    "c7409d03ad524621": {
+      "title": "The vibes are off at OpenAI",
+      "fetched_at": "2026-04-08T19:01:14.483723+00:00"
+    },
+    "a5cd076afc746e7a": {
+      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "fetched_at": "2026-04-08T19:01:15.100919+00:00"
+    },
+    "411cfabcb5f39cc8": {
+      "title": "热门中概股盘前集体走强，阿里巴巴涨近7%",
+      "fetched_at": "2026-04-08T19:01:15.718998+00:00"
+    },
+    "9c6bd70aa7cd12ef": {
+      "title": "氪星晚报｜星巴克中国发布“千店千面”战略；TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心；谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
+      "fetched_at": "2026-04-08T19:01:16.352530+00:00"
+    },
+    "5801e31543f22874": {
+      "title": "荣信文化：控股股东、实控人及一致行动人拟合计减持不超3%公司股份",
+      "fetched_at": "2026-04-08T19:01:16.987464+00:00"
+    },
+    "674d95b032ed6f2f": {
+      "title": "春兴精工：拟转让印度春兴100%股权",
+      "fetched_at": "2026-04-08T19:01:17.732116+00:00"
+    },
+    "8278188ba183a5a4": {
+      "title": "寒武纪：333.49万股限售股将于2026年4月16日上市流通",
+      "fetched_at": "2026-04-08T19:01:18.513945+00:00"
+    },
+    "70a96fe46b04dd1f": {
+      "title": "小红书：平台每天有3900万用户产生商品求购行为",
+      "fetched_at": "2026-04-08T19:01:19.133687+00:00"
+    },
+    "7b7353d0af46c775": {
+      "title": "回望日系手机的「加拉帕戈斯」时代",
+      "fetched_at": "2026-04-08T19:01:19.748312+00:00"
+    },
+    "a36571f2678a3498": {
+      "title": "我们寻找迎风而立的人｜2026年「36Under36」 征集开始",
+      "fetched_at": "2026-04-08T19:01:20.368760+00:00"
+    },
+    "af5745e759ee631e": {
+      "title": "Type-C 接口最大的问题，是看起来已经「统一」了",
+      "fetched_at": "2026-04-08T19:01:21.010208+00:00"
+    },
+    "8c0e31765298c97e": {
+      "title": "谈谈 Windows 的视觉风格与交互演变",
+      "fetched_at": "2026-04-08T19:01:21.666179+00:00"
+    },
+    "b87cb4ca0f7b1d00": {
+      "title": "🎁 福利派 | 少数派首款超薄钢化膜今日开售",
+      "fetched_at": "2026-04-08T19:01:22.285159+00:00"
+    },
+    "0b0d233f314bd3f1": {
+      "title": "36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
+      "fetched_at": "2026-04-08T19:01:22.956369+00:00"
+    },
+    "da7a642f29db80df": {
+      "title": "Keratin may act as a 'brake' for skin inflammation, pointing to potential treatments",
+      "fetched_at": "2026-04-08T19:01:28.997580+00:00"
+    },
+    "51403937c691fc1b": {
+      "title": "How to see Comet PanSTARRS as it brightens in the night sky this week",
+      "fetched_at": "2026-04-08T19:01:29.630855+00:00"
+    },
+    "b9c7b38f5a8a971f": {
+      "title": "Scientists say we’ve been wrong about what makes sprinters fast",
+      "fetched_at": "2026-04-08T19:01:30.256440+00:00"
+    },
+    "710bc8bd64425877": {
+      "title": "Something just hit the Moon and left a bright new scar",
+      "fetched_at": "2026-04-08T19:01:31.094358+00:00"
+    },
+    "0362a31eca0557a4": {
+      "title": "Did a black hole just explode? This “impossible” particle may be the evidence",
+      "fetched_at": "2026-04-08T19:01:31.714334+00:00"
+    },
+    "1857a696e9eef692": {
+      "title": "Scientists just uncovered the secret behind nature’s “proton highway”",
+      "fetched_at": "2026-04-08T19:01:32.341924+00:00"
+    },
+    "112aea6ad450790a": {
+      "title": "The world’s “oldest octopus” was never an octopus",
+      "fetched_at": "2026-04-08T19:01:32.962667+00:00"
     }
   },
-  "last_updated": "2026-04-08T12:55:45.333988+00:00"
+  "last_updated": "2026-04-08T19:01:33.106140+00:00"
 }
