@@ -1,117 +1,5 @@
 {
   "articles": {
-    "3e478e59be2bf4dc": {
-      "title": "智谱：2025年全年总收入7.24亿元，同比增长131.9%",
-      "fetched_at": "2026-03-31T09:44:37.331269+00:00"
-    },
-    "e73d350d5427db2e": {
-      "title": "Orca – Executable skills and capabilities for AI agent workflows",
-      "fetched_at": "2026-03-31T09:44:37.948812+00:00"
-    },
-    "d3d44a0fe650d4f2": {
-      "title": "I built 5 AI agents that scrape every platform 24/7 to find dev tools you'd miss",
-      "fetched_at": "2026-03-31T09:44:38.600147+00:00"
-    },
-    "3080adec6eab8015": {
-      "title": "复星医药：控股子公司药品获临床试验批准",
-      "fetched_at": "2026-03-31T09:44:39.218574+00:00"
-    },
-    "14a97af681225741": {
-      "title": "I built an O(1) physics engine to stop LLM hallucinations in construction",
-      "fetched_at": "2026-03-31T09:44:39.840550+00:00"
-    },
-    "6a3785c9592813a0": {
-      "title": "国内航线燃油附加费4月5日起上涨5倍",
-      "fetched_at": "2026-03-31T09:44:40.491163+00:00"
-    },
-    "b26fc8c4cc2808e3": {
-      "title": "盛屯矿业：第一季度净利润同比预增226.27%—294.95%",
-      "fetched_at": "2026-03-31T09:44:41.178138+00:00"
-    },
-    "94d91b532b009918": {
-      "title": "央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
-      "fetched_at": "2026-03-31T09:44:41.814349+00:00"
-    },
-    "a7c355cbd03f3771": {
-      "title": "\"An Endless Stream of AI Slop\"",
-      "fetched_at": "2026-03-31T09:44:42.429416+00:00"
-    },
-    "173c0bf03466a46f": {
-      "title": "Cursor rules that prevent AI from hallucinating bad Next.js code",
-      "fetched_at": "2026-03-31T09:44:43.216196+00:00"
-    },
-    "6d2bf3a065e01f4b": {
-      "title": "央行：建议发挥增量政策和存量政策集成效应，加强货币政策调控",
-      "fetched_at": "2026-03-31T09:44:43.853803+00:00"
-    },
-    "985d81f990acacfd": {
-      "title": "央行：切实推进金融高水平双向开放，提高开放条件下经济金融管理能力和风险防控能力",
-      "fetched_at": "2026-03-31T09:44:44.476219+00:00"
-    },
-    "2225a97cd9d09055": {
-      "title": "Prompt intensity threshold effect on AI-generated invention quality (preprint)",
-      "fetched_at": "2026-03-31T09:44:45.182935+00:00"
-    },
-    "c2e80f9859d97b49": {
-      "title": "韩国摄像头公司从供货iPhone向人形机器人拓展",
-      "fetched_at": "2026-03-31T09:44:45.805172+00:00"
-    },
-    "1c46e4395b77ec98": {
-      "title": "美的集团据悉考虑发行20亿美元可转换债券",
-      "fetched_at": "2026-03-31T09:44:46.424249+00:00"
-    },
-    "799d399e8e10c200": {
-      "title": "Does RAG Help AI Coding Tools?",
-      "fetched_at": "2026-03-31T09:44:47.058740+00:00"
-    },
-    "f08fcd4dc8d2d91c": {
-      "title": "HN: AI-native investing app that builds and adapts thematic portfolios to you",
-      "fetched_at": "2026-03-31T09:44:47.678593+00:00"
-    },
-    "7516bc7213f146ce": {
-      "title": "上期所优化期权最后交易日未平仓单行权锁仓业务",
-      "fetched_at": "2026-03-31T09:44:48.300479+00:00"
-    },
-    "8fac52abb44554c3": {
-      "title": "Nebius斥资100亿美元在芬兰建设AI数据中心，进一步拓展欧洲市场",
-      "fetched_at": "2026-03-31T09:44:48.930426+00:00"
-    },
-    "720dfb2cfeac06cb": {
-      "title": "LibreTranslate: Free and Open Source Machine Translation API",
-      "fetched_at": "2026-03-31T09:44:49.578876+00:00"
-    },
-    "293de76a8203ee17": {
-      "title": "張雪峰去世引發萬人送別 中國網紅「升學規劃師」背後的教育焦慮",
-      "fetched_at": "2026-03-31T09:44:52.252594+00:00"
-    },
-    "8fb7e3aeeb916157": {
-      "title": "「鄭習會」將在特朗普訪華前登場 背後的美中台角力與國民黨路線之爭",
-      "fetched_at": "2026-03-31T09:44:52.889271+00:00"
-    },
-    "1b754bac90257438": {
-      "title": "登月後再登火星？NASA 任務為何至關重要？",
-      "fetched_at": "2026-03-31T09:44:53.516460+00:00"
-    },
-    "2b3cb8976cfc7d6b": {
-      "title": "伊朗战争导致全球氦气供应短缺，威胁芯片行业",
-      "fetched_at": "2026-03-31T09:44:54.175284+00:00"
-    },
-    "e08dc153fd0e32b1": {
-      "title": "一座英國的中世紀修道院，成為中國人夢幻婚禮的勝地",
-      "fetched_at": "2026-03-31T09:44:54.863394+00:00"
-    },
-    "c487537589b9c841": {
-      "title": "Scientists discover potentially huge freshwater reservoir hidden beneath Great Salt Lake",
-      "fetched_at": "2026-03-31T09:44:56.520340+00:00"
-    },
-    "927dce2b369c9e75": {
-      "title": "Concentric rocky rings adorned with ancient artwork wear a magma 'hat' in the Sahara — Earth from space",
-      "fetched_at": "2026-03-31T09:44:57.227308+00:00"
-    },
-    "222e193da32edc03": {
-      "title": "This floating time crystal breaks Newton’s third law of motion",
-      "fetched_at": "2026-03-31T09:44:57.842042+00:00"
-    },
     "75b6e2d93e795000": {
       "title": "Art schools are being torn apart by AI",
       "fetched_at": "2026-03-31T15:52:52.191271+00:00"
@@ -3575,7 +3463,111 @@
     "6b435087851bd360": {
       "title": "Scientists solve 30-year mystery of a hidden nutrient that protects the brain and fights cancer",
       "fetched_at": "2026-04-08T06:01:36.675287+00:00"
+    },
+    "62b2676b63fae02e": {
+      "title": "星巴克中国发布“千店千面”战略",
+      "fetched_at": "2026-04-08T09:52:14.088814+00:00"
+    },
+    "5959b8e44f50c284": {
+      "title": "2连板通鼎互联：光纤产品短期价格波动的可持续性具有不确定性",
+      "fetched_at": "2026-04-08T09:52:14.829437+00:00"
+    },
+    "fd6885fcbf2dba5b": {
+      "title": "三安光电：副董事长兼总经理林科闯被留置",
+      "fetched_at": "2026-04-08T09:52:15.412126+00:00"
+    },
+    "ca549b62b54e7c78": {
+      "title": "江淮汽车：2026年3月产销量同比均下降",
+      "fetched_at": "2026-04-08T09:52:15.995403+00:00"
+    },
+    "083b0a7b737c6810": {
+      "title": "谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
+      "fetched_at": "2026-04-08T09:52:16.589985+00:00"
+    },
+    "3b60822bb1759c5f": {
+      "title": "中安科：公司目前主营业务是以安保运营服务为主，无算力相关业务",
+      "fetched_at": "2026-04-08T09:52:17.207438+00:00"
+    },
+    "0bce8d7f61458098": {
+      "title": "准油股份：股票交易异常波动 提示多项风险",
+      "fetched_at": "2026-04-08T09:52:17.783502+00:00"
+    },
+    "18a367dce65a88a4": {
+      "title": "振华股份：生产经营活动正常，未发现需要澄清或回应的媒体报道或市场传闻",
+      "fetched_at": "2026-04-08T09:52:18.421751+00:00"
+    },
+    "cb78f7e803de5efb": {
+      "title": "阿里电商 AI 新动向：围绕 Token 重构电商，组织迎来新一轮调整｜独家",
+      "fetched_at": "2026-04-08T09:52:19.009293+00:00"
+    },
+    "14b1374c37a75222": {
+      "title": "山东黄金：控股股东及一致行动人增持金额5至10亿元计划完成",
+      "fetched_at": "2026-04-08T09:52:19.622491+00:00"
+    },
+    "7a09c98c04db23d0": {
+      "title": "宗申动力：公司和张雪机车没有相关合作",
+      "fetched_at": "2026-04-08T09:52:20.201461+00:00"
+    },
+    "12a3e0c6ff98e1cb": {
+      "title": "三一能源装备公司注册资本增至约3.2亿元",
+      "fetched_at": "2026-04-08T09:52:20.786991+00:00"
+    },
+    "8a69121d942ee7c8": {
+      "title": "天华新能：预计一季度归母净利润同比增长27517.53%-32120.45%",
+      "fetched_at": "2026-04-08T09:52:21.373923+00:00"
+    },
+    "da3ebe0b4573f32f": {
+      "title": "4家集采相关药企被列入违规名单",
+      "fetched_at": "2026-04-08T09:52:22.015147+00:00"
+    },
+    "d8020ea93f5e7a3a": {
+      "title": "久之洋：公司自主研发的星载光纤放大器已应用于中国星网，暂未用于千帆星座",
+      "fetched_at": "2026-04-08T09:52:22.605916+00:00"
+    },
+    "a4f7323ed2044387": {
+      "title": "阿里宣布AI相关组织调整，升级通义大模型事业部",
+      "fetched_at": "2026-04-08T09:52:23.190319+00:00"
+    },
+    "16f55a65fcfb6fcf": {
+      "title": "三安光电：公司可提供用于光模块的激光器等产品，目前高速产品已实现批量出货",
+      "fetched_at": "2026-04-08T09:52:23.774028+00:00"
+    },
+    "cb9484badabd15c2": {
+      "title": "Stellantis正与中国零跑汽车深入洽谈合作开发欧宝纯电动车",
+      "fetched_at": "2026-04-08T09:52:24.349195+00:00"
+    },
+    "a70d48acc8b22076": {
+      "title": "华新环保：预计一季度归母净利润同比增长192.94%-211.25%",
+      "fetched_at": "2026-04-08T09:52:24.945534+00:00"
+    },
+    "5394f6dbf00be944": {
+      "title": "希腊宣布禁止15岁以下人群使用社交媒体",
+      "fetched_at": "2026-04-08T09:52:25.578538+00:00"
+    },
+    "4199f53e09cb00f1": {
+      "title": "「鄭習會」前夕：鄭麗文罕有點名日本11次，能換來什麼？",
+      "fetched_at": "2026-04-08T09:52:27.771995+00:00"
+    },
+    "130ab12d3f3d82c8": {
+      "title": "美伊最後一刻同意停火兩週 德黑蘭披露十點談判計劃含解除制裁和放棄核武",
+      "fetched_at": "2026-04-08T09:52:28.399960+00:00"
+    },
+    "9a8293450ea2d298": {
+      "title": "「阿提米絲二號」能否證明人類即將實現再次登月",
+      "fetched_at": "2026-04-08T09:52:28.994341+00:00"
+    },
+    "b612744076f2d7c5": {
+      "title": "雄安新區十年：領導人「個人設想」、洪水爭議與「疏解」暗戰",
+      "fetched_at": "2026-04-08T09:52:29.587119+00:00"
+    },
+    "b6972e1d775340db": {
+      "title": "'In every continent where humans are present, water bankruptcy is manifesting itself': Exiled Iranian scientist Kaveh Madani on our desperate need to preserve our most precious resource",
+      "fetched_at": "2026-04-08T09:52:31.469225+00:00"
+    },
+    "a3a5c22b4c6d0281": {
+      "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
+      "fetched_at": "2026-04-08T09:52:32.285672+00:00"
     }
   },
-  "last_updated": "2026-04-08T06:01:36.808292+00:00"
+  "last_updated": "2026-04-08T09:52:32.416261+00:00"
 }
