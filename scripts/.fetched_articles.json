@@ -1,149 +1,5 @@
 {
   "articles": {
-    "cea64307bab5ae77": {
-      "title": "Yupp.ai shuts down less than a year after launching with $33M from a16z crypto’s Chris Dixon",
-      "fetched_at": "2026-03-31T20:03:13.618100+00:00"
-    },
-    "3ea4130785cd8275": {
-      "title": "Should AI First Do No Harm?",
-      "fetched_at": "2026-03-31T20:03:14.246214+00:00"
-    },
-    "30b5134dec18a3f2": {
-      "title": "A Taxonomy of AI Agents",
-      "fetched_at": "2026-03-31T20:03:14.908064+00:00"
-    },
-    "3c9617cc99af5303": {
-      "title": "Does AI work feel a bit too habit-forming?",
-      "fetched_at": "2026-03-31T20:03:15.533841+00:00"
-    },
-    "4818e1df8fe991f1": {
-      "title": "Agentic AI Engineering Workflows for iOS in 2026",
-      "fetched_at": "2026-03-31T20:03:16.153135+00:00"
-    },
-    "7e6db18dd5dbde44": {
-      "title": "Google Gemini may adapt AI answers to match user tone: Report",
-      "fetched_at": "2026-03-31T20:03:16.765396+00:00"
-    },
-    "47a66f3cd68ba849": {
-      "title": "Sauver: An open-source, local AI agent that fights email slop",
-      "fetched_at": "2026-03-31T20:03:17.388901+00:00"
-    },
-    "46a156bf805912f0": {
-      "title": "Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology",
-      "fetched_at": "2026-03-31T20:03:18.026905+00:00"
-    },
-    "a933f65ebcf22d40": {
-      "title": "Show HN: ModelAtlas – Find AI models that HuggingFace search can't",
-      "fetched_at": "2026-03-31T20:03:18.731402+00:00"
-    },
-    "e66248fc4ca9f013": {
-      "title": "Employers Beware: Uptick in BIPA Lawsuits Targeting AI Note-Taking Software",
-      "fetched_at": "2026-03-31T20:03:19.353188+00:00"
-    },
-    "80183b832cf38c52": {
-      "title": "Jailbroken, open-source, pre-built iOS 26 virtual machine",
-      "fetched_at": "2026-03-31T20:03:19.977869+00:00"
-    },
-    "b8a33170569c6f71": {
-      "title": "A survey of how companies are buying AI professional services",
-      "fetched_at": "2026-03-31T20:03:20.598196+00:00"
-    },
-    "23f1bf991218c9cf": {
-      "title": "SwarmSync– We built the transaction layer for autonomous AI Commerce",
-      "fetched_at": "2026-03-31T20:03:21.277672+00:00"
-    },
-    "0da551797286e2c8": {
-      "title": "Ask HN: Is there any founder building non AI startup in 2026?",
-      "fetched_at": "2026-03-31T20:03:21.902434+00:00"
-    },
-    "236cdd073500d3c5": {
-      "title": "Leaked Memo Suggests Red Hat's Chugging the AI Kool-Aid",
-      "fetched_at": "2026-03-31T20:03:22.976065+00:00"
-    },
-    "fa7b5ea9105adf63": {
-      "title": "Sprintra – Persistent memory for AI coding agents (MCP-native)",
-      "fetched_at": "2026-03-31T20:03:23.633375+00:00"
-    },
-    "a435e257a2220130": {
-      "title": "Ask HN: How to Break into AI Engineering (Revisited)",
-      "fetched_at": "2026-03-31T20:03:24.263391+00:00"
-    },
-    "770c7863591e9771": {
-      "title": "Claude Code fork that works with any OpenAI-compatible LLM",
-      "fetched_at": "2026-03-31T20:03:24.896234+00:00"
-    },
-    "a1c13795454a6940": {
-      "title": "Show HN: AI Engineering AI-native Self-learning course repo",
-      "fetched_at": "2026-03-31T20:03:25.531986+00:00"
-    },
-    "9818973001512bf0": {
-      "title": "Ask HN: Has anyone benchmarked skill availability impact on LLM performance?",
-      "fetched_at": "2026-03-31T20:03:26.145997+00:00"
-    },
-    "5f9e3ebffd0b25eb": {
-      "title": "韓團BTS回歸：全球矚目背後有何文化與經濟意義？",
-      "fetched_at": "2026-03-31T20:03:29.060443+00:00"
-    },
-    "3f3c44e975b805dc": {
-      "title": "'80% chance of a go,' launch weather officer says at NASA's Artemis II prelaunch conference",
-      "fetched_at": "2026-03-31T20:03:30.338902+00:00"
-    },
-    "bf5763e569b568a0": {
-      "title": "Artifacts Repatriated to Peru",
-      "fetched_at": "2026-03-31T20:03:30.944086+00:00"
-    },
-    "8c6175270b8dde98": {
-      "title": "'It blew my mind': Long-lost ice-age ecosystem, including fossils of lion-size armadillo and giant ground sloth, discovered in Texas 'water cave'",
-      "fetched_at": "2026-03-31T20:03:31.566040+00:00"
-    },
-    "db229077e677e4b6": {
-      "title": "Medieval Populations Mixed on the Mediterranean Island of Ibiza",
-      "fetched_at": "2026-03-31T20:03:32.235490+00:00"
-    },
-    "89e69163fa77ed55": {
-      "title": "China's huge push to reduce air pollution had an unexpected consequence in the Arctic",
-      "fetched_at": "2026-03-31T20:03:32.864263+00:00"
-    },
-    "b0df33d469b32394": {
-      "title": "Wine and Frankincense Identified in Roman Incense Burner",
-      "fetched_at": "2026-03-31T20:03:33.489354+00:00"
-    },
-    "6b511db39b20024c": {
-      "title": "New Thoughts on Norwegian Iron Age Mound",
-      "fetched_at": "2026-03-31T20:03:34.111633+00:00"
-    },
-    "24da03775c7427cb": {
-      "title": "Scientists have discovered an 'Achilles' heel' in deadly superbugs",
-      "fetched_at": "2026-03-31T20:03:34.747712+00:00"
-    },
-    "08405e84673993bb": {
-      "title": "Snag this Paramount+ deal and get a bird's-eye view of the world with these amazing documentaries — but be quick, it ends today!",
-      "fetched_at": "2026-03-31T20:03:35.444991+00:00"
-    },
-    "7d2e238ae0382050": {
-      "title": "Quantum computers need just 10,000 qubits — not the millions we assumed — to break the world's most secure encryption algorithms",
-      "fetched_at": "2026-03-31T20:03:36.064832+00:00"
-    },
-    "5e28f18e5acb6985": {
-      "title": "Artemis II timeline: 12 key steps that will take NASA astronauts to the moon and back",
-      "fetched_at": "2026-03-31T20:03:36.708584+00:00"
-    },
-    "e1d94681afac0777": {
-      "title": "Artemis II launch LIVE: NASA prepares for Wednesday launch of historic space mission",
-      "fetched_at": "2026-03-31T20:03:37.338197+00:00"
-    },
-    "48de27a4ca0d7d6e": {
-      "title": "Pig semen component could deliver chemotherapy to hard-to-reach eye cancer, mouse study suggests",
-      "fetched_at": "2026-03-31T20:03:37.976044+00:00"
-    },
-    "65fa9775f349e06a": {
-      "title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
-      "fetched_at": "2026-03-31T20:03:38.616385+00:00"
-    },
-    "7f7c42f3517acceb": {
-      "title": "Most people get food’s environmental impact completely wrong, study finds",
-      "fetched_at": "2026-03-31T20:03:39.271972+00:00"
-    },
     "9b5e4ce7460b04b0": {
       "title": "36氪首发 | 半导体设备老兵创业晶圆键合公司，元禾璞华领投新一轮融资",
       "fetched_at": "2026-04-01T06:12:34.867276+00:00"
@@ -3667,7 +3523,111 @@
     "112aea6ad450790a": {
       "title": "The world’s “oldest octopus” was never an octopus",
       "fetched_at": "2026-04-08T19:01:32.962667+00:00"
+    },
+    "28f07cb0af0375ab": {
+      "title": "美联储拟拓展银行和信用社转移资金的方式",
+      "fetched_at": "2026-04-09T01:10:01.986519+00:00"
+    },
+    "6653031f59194b5c": {
+      "title": "36氪专访 | 前小米高管王腾的下一站：从睡眠入手，抓住AI硬件十年一遇的创业窗口",
+      "fetched_at": "2026-04-09T01:10:02.610469+00:00"
+    },
+    "e320666db7f8f283": {
+      "title": "华泰证券：海外供应链稳定性或受冲击，国内精细品/新材料全球份额有望提升",
+      "fetched_at": "2026-04-09T01:10:03.232570+00:00"
+    },
+    "26f1f38b9e5b8da7": {
+      "title": "联想控股：出售东航物流11.29%股份",
+      "fetched_at": "2026-04-09T01:10:03.897466+00:00"
+    },
+    "545a45ba79ac661b": {
+      "title": "花旗集团称人工智能助力加快开户流程与系统升级",
+      "fetched_at": "2026-04-09T01:10:04.510820+00:00"
+    },
+    "b7d07f3e75d274bd": {
+      "title": "一季度券商核心业务强势可期，预计净利润将保持稳健增长",
+      "fetched_at": "2026-04-09T01:10:05.121123+00:00"
+    },
+    "92e63586b493870d": {
+      "title": "Japan lessens privacy laws to become \"The easiest county to develop AI in\"",
+      "fetched_at": "2026-04-09T01:10:05.781222+00:00"
+    },
+    "fc358359ea94a51a": {
+      "title": "中信证券：看好国内洁净室领先企业",
+      "fetched_at": "2026-04-09T01:10:06.402886+00:00"
+    },
+    "b4dc297d2b28dc55": {
+      "title": "Show HN: BakaBags, a tsundere AI that roasts yours Solana wallets",
+      "fetched_at": "2026-04-09T01:10:07.172663+00:00"
+    },
+    "48700ac2b45165e8": {
+      "title": "韩国十大金融控股公司去年总利润增长12.4%，创历史新高",
+      "fetched_at": "2026-04-09T01:10:07.918180+00:00"
+    },
+    "88abbd701b5902ff": {
+      "title": "两市融资余额增加161.31亿元",
+      "fetched_at": "2026-04-09T01:10:08.539741+00:00"
+    },
+    "c74bf736b2f3ae62": {
+      "title": "华西证券：电力设备需求旺盛，看好海外业务有望取得突破的出海企业",
+      "fetched_at": "2026-04-09T01:10:09.152911+00:00"
+    },
+    "a8f96b9c3b4dcd92": {
+      "title": "深交所：港股通标的证券名单调入希迪智驾，今起生效",
+      "fetched_at": "2026-04-09T01:10:09.773000+00:00"
+    },
+    "ac3db0c73c13cef4": {
+      "title": "美国或放宽卫星频谱使用的功率限制，利好SpaceX",
+      "fetched_at": "2026-04-09T01:10:10.405163+00:00"
+    },
+    "d6225bc0e9e9d13a": {
+      "title": "迪士尼据悉计划裁员至多1000人",
+      "fetched_at": "2026-04-09T01:10:11.025768+00:00"
+    },
+    "d1104f388b1e3372": {
+      "title": "Ask HN: Advice for college grads starting careers in the AI era?",
+      "fetched_at": "2026-04-09T01:10:11.655007+00:00"
+    },
+    "873844dccc0a3153": {
+      "title": "Meta新超级智能团队的首个AI模型亮相，转向闭源",
+      "fetched_at": "2026-04-09T01:10:12.301721+00:00"
+    },
+    "5d76957ccfd82bf4": {
+      "title": "银河证券：3月车市销量温和复苏，市场进入新车密集发布期",
+      "fetched_at": "2026-04-09T01:10:12.936839+00:00"
+    },
+    "05e4cb30ff591797": {
+      "title": "“降成本”显效，上市银行净息差企稳",
+      "fetched_at": "2026-04-09T01:10:13.546624+00:00"
+    },
+    "0113ffff0faebde1": {
+      "title": "中信建投：乘用车出口持续超预期，智驾及机器人布局正当时",
+      "fetched_at": "2026-04-09T01:10:14.217887+00:00"
+    },
+    "cee2493c29ca9788": {
+      "title": "伊朗官员称北京施压伊朗接受与美国停火协议",
+      "fetched_at": "2026-04-09T01:10:17.185692+00:00"
+    },
+    "a81a3ee824115a00": {
+      "title": "'No one knows what they are': Researchers discover new type of cell that's seen only during pregnancy",
+      "fetched_at": "2026-04-09T01:10:50.787170+00:00"
+    },
+    "214e8d0604be05f4": {
+      "title": "16th-century silver coin discovered near Strait of Magellan marks the spot of a doomed Spanish colony",
+      "fetched_at": "2026-04-09T01:10:51.447212+00:00"
+    },
+    "77fc70cf1b68238a": {
+      "title": "Possible Church Walls Found Under Cathedral in Belgium",
+      "fetched_at": "2026-04-09T01:10:52.076143+00:00"
+    },
+    "3a3299d7f7b8e947": {
+      "title": "220,000-Year-Old Quarry Site in South Africa Studied",
+      "fetched_at": "2026-04-09T01:10:52.693893+00:00"
+    },
+    "e9d724d037655fcd": {
+      "title": "On the trail of ancient art, deep in the Sahara",
+      "fetched_at": "2026-04-09T01:10:53.316588+00:00"
     }
   },
-  "last_updated": "2026-04-08T19:01:33.106140+00:00"
+  "last_updated": "2026-04-09T01:10:53.454986+00:00"
 }
