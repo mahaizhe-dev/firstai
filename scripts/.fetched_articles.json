@@ -1,153 +1,5 @@
 {
   "articles": {
-    "9bc523e6286f8449": {
-      "title": "Test AND Fix your AI created code No work on your part",
-      "fetched_at": "2026-04-01T15:57:56.566505+00:00"
-    },
-    "c36f5a674711ab66": {
-      "title": "Which Design Doc Did AI Write?",
-      "fetched_at": "2026-04-01T15:57:57.151091+00:00"
-    },
-    "d1274ed5af77c621": {
-      "title": "NoriPep-7: AI powered peptides for the agentic era",
-      "fetched_at": "2026-04-01T15:57:57.751547+00:00"
-    },
-    "1280b972c4d0a313": {
-      "title": "Nvm, pyenv, and yarn are slowing down your AI coding harness",
-      "fetched_at": "2026-04-01T15:57:58.409194+00:00"
-    },
-    "148ff4def9e13f5c": {
-      "title": "Darce – AI coding agent for your terminal, any model, 14 kB",
-      "fetched_at": "2026-04-01T15:57:59.005684+00:00"
-    },
-    "0a73e64d87bece45": {
-      "title": "EU AI Act Enforcement in August 2026. What That Means for Your LLM Pipeline",
-      "fetched_at": "2026-04-01T15:57:59.675446+00:00"
-    },
-    "999ed506edea4c52": {
-      "title": "Busting the AI Youth Unemployment Myth",
-      "fetched_at": "2026-04-01T15:58:00.399166+00:00"
-    },
-    "26358c07c8da1845": {
-      "title": "AI Agents and WebMCP: Tools as Self-Loading Skills",
-      "fetched_at": "2026-04-01T15:58:00.990507+00:00"
-    },
-    "142ce56a8a57cb88": {
-      "title": "AI Agent Achieves 2100 Turns Without Drift or Loss of Coherence [pdf]",
-      "fetched_at": "2026-04-01T15:58:01.581846+00:00"
-    },
-    "df314a3319c42e1b": {
-      "title": "I hate customer-service chatbots: Consumer-AI relationship off to rocky start",
-      "fetched_at": "2026-04-01T15:58:02.191048+00:00"
-    },
-    "205cddec7a961641": {
-      "title": "How LLMs Got Good: Humility, Tools, and Reinforcement Learning",
-      "fetched_at": "2026-04-01T15:58:02.783423+00:00"
-    },
-    "3d97f7f573a209d7": {
-      "title": "AI Panic and the Long History of Bad Predictions",
-      "fetched_at": "2026-04-01T15:58:03.387130+00:00"
-    },
-    "43ae6d8a02b86796": {
-      "title": "The Day AI Died – and Nobody Noticed",
-      "fetched_at": "2026-04-01T15:58:03.975879+00:00"
-    },
-    "1764b473c220018a": {
-      "title": "How to pick the right pricing model for your AI agent",
-      "fetched_at": "2026-04-01T15:58:04.575250+00:00"
-    },
-    "b86f6c5e0df6f1ff": {
-      "title": "Portkey open-sources its AI gateway after processing 2T tokens a day",
-      "fetched_at": "2026-04-01T15:58:05.162287+00:00"
-    },
-    "875cebc2f25d75bc": {
-      "title": "CockroachDB has just dropped a bunch of AI-ready features",
-      "fetched_at": "2026-04-01T15:58:05.750692+00:00"
-    },
-    "1048ca02f14165db": {
-      "title": "Show HN: Made a small multiplayer game with AI",
-      "fetched_at": "2026-04-01T15:58:06.589017+00:00"
-    },
-    "82c54dd295611f88": {
-      "title": "No H100? No Problem. Why I Built ML Patron for Autonomous AI Research",
-      "fetched_at": "2026-04-01T15:58:07.228484+00:00"
-    },
-    "3ec3d521aa8ee7bb": {
-      "title": "Mesh – one room for your AI agents (open source)",
-      "fetched_at": "2026-04-01T15:58:07.834637+00:00"
-    },
-    "90aefc147bc03847": {
-      "title": "An AI Reads the Web: A Deep Dive into Claude Code's WebFetchTool",
-      "fetched_at": "2026-04-01T15:58:08.502019+00:00"
-    },
-    "68d5c4e5878c033d": {
-      "title": "伊朗戰爭添風險 亞洲外勞糾結應否繼續在波斯灣「拼命」",
-      "fetched_at": "2026-04-01T15:58:11.024260+00:00"
-    },
-    "8ffef0492dab26b6": {
-      "title": "報告和目擊者指伊朗安全部隊在戰爭期間使用兒童",
-      "fetched_at": "2026-04-01T15:58:11.620908+00:00"
-    },
-    "8a99ab58b05cc701": {
-      "title": "不要让年轻人为不必要的战争送命",
-      "fetched_at": "2026-04-01T15:58:12.195307+00:00"
-    },
-    "9d2ff70be8f779a6": {
-      "title": "分析：戰爭持續越久，美國和伊朗就會更加陷入欲罷不能的境地",
-      "fetched_at": "2026-04-01T15:58:12.795278+00:00"
-    },
-    "0b19a991478ef207": {
-      "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
-      "fetched_at": "2026-04-01T15:58:13.380814+00:00"
-    },
-    "6e48c2d3adc3f941": {
-      "title": "Grounded Discovery Labs – a system for engineering discovery",
-      "fetched_at": "2026-04-01T15:58:17.630054+00:00"
-    },
-    "c21516a71b472517": {
-      "title": "Farting comet seen reversing its spin for the first time ever —‬ and it may soon 'self-destruct'",
-      "fetched_at": "2026-04-01T15:58:18.223300+00:00"
-    },
-    "e76804a0ecefc369": {
-      "title": "Extreme wildfires, droughts and storms could happen even under moderate global warming, study finds",
-      "fetched_at": "2026-04-01T15:58:18.816752+00:00"
-    },
-    "9b38d98b7149c074": {
-      "title": "Diagnostic dilemma: Teenager's hives turned out to be caused by rare water allergy",
-      "fetched_at": "2026-04-01T15:58:19.444937+00:00"
-    },
-    "13ac257d877451f5": {
-      "title": "Scientists found a baby dinosaur hidden in rock and it is surprisingly cute",
-      "fetched_at": "2026-04-01T15:58:20.039262+00:00"
-    },
-    "b5a798609d4fa36d": {
-      "title": "How to watch NASA's historic Artemis II launch for the moon",
-      "fetched_at": "2026-04-01T15:58:20.756062+00:00"
-    },
-    "128ccd1ae5338b7c": {
-      "title": "Millions start work too early. This drug helps them stay awake",
-      "fetched_at": "2026-04-01T15:58:21.341483+00:00"
-    },
-    "1be03f2456579d73": {
-      "title": "Scientists discover hidden “winds” inside cells that could explain cancer spread",
-      "fetched_at": "2026-04-01T15:58:21.935250+00:00"
-    },
-    "13e1b25c10a717a2": {
-      "title": "Scientists open 40-year-old salmon and find a surprising sign of ocean recovery",
-      "fetched_at": "2026-04-01T15:58:22.513749+00:00"
-    },
-    "d9b84df9f307850e": {
-      "title": "Scientists just found DNA “supergenes” that speed up evolution",
-      "fetched_at": "2026-04-01T15:58:23.091011+00:00"
-    },
-    "5190a4b1066d80fe": {
-      "title": "Artemis II launch LIVE: NASA rocket is now being loaded with fuel for historic moon mission",
-      "fetched_at": "2026-04-01T15:58:23.683867+00:00"
-    },
-    "2c13f50adc35a2b3": {
-      "title": "Coffee at night may increase risky behavior, especially in women",
-      "fetched_at": "2026-04-01T15:58:24.292804+00:00"
-    },
     "441d419cb60ab69e": {
       "title": "YC-backed AI startup can now prescribe psychiatric drugs, first in world",
       "fetched_at": "2026-04-01T20:06:25.654733+00:00"
@@ -3767,7 +3619,119 @@
     "8b991750f27e005f": {
       "title": "Ancient farmers accidentally created aggressive “warrior” wheat",
       "fetched_at": "2026-04-09T12:58:01.150803+00:00"
+    },
+    "e2b182757b79a4c0": {
+      "title": "Instant 1.0, a backend for AI-coded apps",
+      "fetched_at": "2026-04-09T18:47:08.369011+00:00"
+    },
+    "3119fefc235ca294": {
+      "title": "Google and Intel deepen AI infrastructure partnership",
+      "fetched_at": "2026-04-09T18:47:08.938334+00:00"
+    },
+    "5a566268d751f779": {
+      "title": "HookProbe – Open-source AI IDs that runs on a $75 Raspberry Pi",
+      "fetched_at": "2026-04-09T18:47:09.582963+00:00"
+    },
+    "abb6c48120b4870d": {
+      "title": "Context Engineering for AI Coding Agents",
+      "fetched_at": "2026-04-09T18:47:10.235968+00:00"
+    },
+    "6ba278cfeee32dda": {
+      "title": "Guinndex. AI-agent called 3k Irish pubs to map the price of a pint of Guinness",
+      "fetched_at": "2026-04-09T18:47:10.804933+00:00"
+    },
+    "1f6765cedc8c267a": {
+      "title": "Tried the HappyHorse AI video model recently, better than I expected",
+      "fetched_at": "2026-04-09T18:47:11.469006+00:00"
+    },
+    "3180679de8d229c6": {
+      "title": "Summalytics – Privacy-first analytics with AI traffic and visibility",
+      "fetched_at": "2026-04-09T18:47:12.091449+00:00"
+    },
+    "b1008d43621d22d3": {
+      "title": "Cyberpunk Legend Neal Stephenson: The Real Threat Isn't AI–It's Us [video]",
+      "fetched_at": "2026-04-09T18:47:12.656650+00:00"
+    },
+    "4d86c57a17f6145e": {
+      "title": "Show HN: Open-source, machine-bound licensing with a single POST request",
+      "fetched_at": "2026-04-09T18:47:13.217628+00:00"
+    },
+    "91d6021bbd778d82": {
+      "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
+      "fetched_at": "2026-04-09T18:47:13.780349+00:00"
+    },
+    "43a57ea1343482b1": {
+      "title": "AI agents can now open business bank accounts",
+      "fetched_at": "2026-04-09T18:47:14.564075+00:00"
+    },
+    "ffcd1636497b7f66": {
+      "title": "What's breaking in your LLM gateway in production?",
+      "fetched_at": "2026-04-09T18:47:15.132205+00:00"
+    },
+    "26e2f54f47e7d00c": {
+      "title": "We tested \"stateful AI.\" It couldn't prove its own history",
+      "fetched_at": "2026-04-09T18:47:15.780451+00:00"
+    },
+    "729eff48fcdb5129": {
+      "title": "A full AI intelligence layer on WhatsApp – Opero.so",
+      "fetched_at": "2026-04-09T18:47:16.351532+00:00"
+    },
+    "fb7c7cbef099b2e1": {
+      "title": "Enterprise AI does not have a model problem. It has an adoption problem",
+      "fetched_at": "2026-04-09T18:47:16.918732+00:00"
+    },
+    "232ba8b296f98d03": {
+      "title": "Show HN: AIMock – One Mock Server for Your AI Stack",
+      "fetched_at": "2026-04-09T18:47:17.482908+00:00"
+    },
+    "b95533676d46dee9": {
+      "title": "The 200k Ghost: Instruction Degradation in Long-Context LLM Sessions",
+      "fetched_at": "2026-04-09T18:47:18.093072+00:00"
+    },
+    "da25e1335d4556cb": {
+      "title": "Show HN: PageFly – Personal Knowledge OS Inspired by Karpathy's LLM Wiki",
+      "fetched_at": "2026-04-09T18:47:18.664525+00:00"
+    },
+    "376bdcd9dd262d1a": {
+      "title": "MIT Just Found the Cause of the AI Bubble",
+      "fetched_at": "2026-04-09T18:47:19.329940+00:00"
+    },
+    "a33bca6c6d894c0f": {
+      "title": "Level 5 – Weekly live demos from advanced AI users",
+      "fetched_at": "2026-04-09T18:47:19.908530+00:00"
+    },
+    "8fb713ebef39302a": {
+      "title": "Chimpanzees in Uganda are locked in a deadly 'civil war' after their group split apart — and scientists don't know why",
+      "fetched_at": "2026-04-09T18:47:24.344315+00:00"
+    },
+    "e34b33b86a10441b": {
+      "title": "James Webb telescope spots 'stingray' galaxy system that could solve the mystery of 'little red dots'",
+      "fetched_at": "2026-04-09T18:47:24.911786+00:00"
+    },
+    "11c97d2ee8232f37": {
+      "title": "Sociotechnical Archaeology",
+      "fetched_at": "2026-04-09T18:47:25.485540+00:00"
+    },
+    "8cd890dbcfa20620": {
+      "title": "'RIP, Comet MAPS': Watch the superbright sungrazer become a 'headless wonder' after being ripped apart by the sun",
+      "fetched_at": "2026-04-09T18:47:26.056408+00:00"
+    },
+    "4286beffc718d4dd": {
+      "title": "There's an issue with the Artemis II heat shield, but NASA isn't worried. Here's why.",
+      "fetched_at": "2026-04-09T18:47:26.056563+00:00"
+    },
+    "0f32d9d908bcdec9": {
+      "title": "Scientists just found a hidden “drain” inside the human brain",
+      "fetched_at": "2026-04-09T18:47:26.638015+00:00"
+    },
+    "fa8bd5163db61ba1": {
+      "title": "Your brain can trick you into liking artificial sweeteners",
+      "fetched_at": "2026-04-09T18:47:27.288202+00:00"
+    },
+    "490229cfb6c92591": {
+      "title": "Brain study reveals hidden link between autism and ADHD",
+      "fetched_at": "2026-04-09T18:47:27.853286+00:00"
     }
   },
-  "last_updated": "2026-04-09T12:58:01.262834+00:00"
+  "last_updated": "2026-04-09T18:47:28.002375+00:00"
 }
