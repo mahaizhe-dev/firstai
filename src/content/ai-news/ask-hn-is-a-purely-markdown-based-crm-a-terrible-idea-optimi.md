@@ -1,0 +1,10 @@
+---
+title: 'Ask HN: Is a purely Markdown-based CRM a terrible idea? Optimized for LLM agents'
+description: 'I’ve been brainstorming an unconventional architecture for a CRM and I want to know if I''m onto something or just reinventing a flat-file database poorlyThe idea: Drop the relational DB. Everything is'
+pubDate: 2026-04-10T17:22:40
+source: 'Hacker News'
+sourceUrl: 'https://news.ycombinator.com/item?id=47721153'
+tags: []
+---
+
+I’ve been brainstorming an unconventional architecture for a CRM and I want to know if I'm onto something or just reinventing a flat-file database poorlyThe idea: Drop the relational DB. Everything is a Markdown fileLeads, contacts, email threads, client tech specs, and even system configs are stored as .md files (likely with YAML frontmatter for metadata). Redis is used purely as an indexing layer to map and search these files quicklyWhy do this? Because the primary consumer of this system isn't a human interacting with a complex GUI; it's an autonomous LLM agent.LLM Native: Markdown is the most digestible format for LLMs. Instead of forcing the agent to write complex SQL queries to understand a client's history, it just reads a directory of plain text files.Easy Replication: Scaling or backing up the "database" is as simple as rsync-ing a directory.The "Alive" System: Inside this architecture lives a background LLM agent. When the system is idle, the agent reads these files, updates summaries, categorizes clients, schedules follow-ups, and builds a "memory" text file.The Architecture:Storage Layer: Local file system with Markdown filesIndex Layer: Redis (updates its index when a file is modified)Brain: LLM Agent that reads/writes files and acts as the system OSThe obvious red flags: I know there are immediate issues here: file locks when the agent and a human try to edit at the same time, concurrency bottlenecks, OS inode limits at scale, and a complete lack of ACID compliance.But for an AI first company where the agent is the backend, does a text-first architecture make more sense than a traditional RDBMS? Comments URL: https://news.ycombinator.com/item?id=47721153 Points: 1 # Comments: 1

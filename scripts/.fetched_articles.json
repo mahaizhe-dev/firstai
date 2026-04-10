@@ -1,141 +1,5 @@
 {
   "articles": {
-    "3f4e267080cda870": {
-      "title": "Even GPT-5.2 Can't Count to Five: Zero-Error Horizons in Trustworthy LLMs",
-      "fetched_at": "2026-04-02T15:37:46.125866+00:00"
-    },
-    "66dc98ff66c4ee40": {
-      "title": "Show HN: Hallx – Hallucination risk scoring for LLM outputs",
-      "fetched_at": "2026-04-02T15:37:46.748368+00:00"
-    },
-    "003cd6049f80de63": {
-      "title": "It’s not easy to get depression-detecting AI through the FDA",
-      "fetched_at": "2026-04-02T15:37:47.366313+00:00"
-    },
-    "1fc607268f149e74": {
-      "title": "Meta's Home Grown AI Analytics Agent",
-      "fetched_at": "2026-04-02T15:37:48.005565+00:00"
-    },
-    "6922654cae9d284e": {
-      "title": "Microsoft Aims to Create Large Cutting-Edge AI Models by 2027",
-      "fetched_at": "2026-04-02T15:37:48.643382+00:00"
-    },
-    "3a746095fbaa0b82": {
-      "title": "Show HN: Topical.so - structural SEO audits for AI-generated blogs",
-      "fetched_at": "2026-04-02T15:37:49.273272+00:00"
-    },
-    "d41e5e697623e8ec": {
-      "title": "Peaky Peek – Local-first debugger for AI agents",
-      "fetched_at": "2026-04-02T15:37:50.127926+00:00"
-    },
-    "2c6cf63b941c172b": {
-      "title": "You can use AI every day and still not get better",
-      "fetched_at": "2026-04-02T15:37:50.838977+00:00"
-    },
-    "c5b624194a840766": {
-      "title": "TokensTree – collaborative network for AI agents with shared knowledge cache.MIT",
-      "fetched_at": "2026-04-02T15:37:51.461780+00:00"
-    },
-    "4d2cddb53fc4ba29": {
-      "title": "Show HN: I rebuilt my book on tech and movies for AI",
-      "fetched_at": "2026-04-02T15:37:52.086892+00:00"
-    },
-    "935637155956527e": {
-      "title": "Young People Are Falling Behind, but Not Because of AI",
-      "fetched_at": "2026-04-02T15:37:52.850585+00:00"
-    },
-    "fb0580810871f516": {
-      "title": "Developer relations after the cheat code machine",
-      "fetched_at": "2026-04-02T15:37:53.496352+00:00"
-    },
-    "7db72940c2f09178": {
-      "title": "The Cartographer's Advantage: Human Judgment in an AI Security World",
-      "fetched_at": "2026-04-02T15:37:54.179264+00:00"
-    },
-    "1f44e0dd05339fd2": {
-      "title": "A Student AI Trap",
-      "fetched_at": "2026-04-02T15:37:54.879567+00:00"
-    },
-    "f9579848c05812b2": {
-      "title": "Show HN: Argus – Self-hosted AI that monitors infra and explains what's wrong",
-      "fetched_at": "2026-04-02T15:37:55.643744+00:00"
-    },
-    "de8e2661eae0a712": {
-      "title": "The IT Department: Where AI Goes to Die (By Ethan Mollick)",
-      "fetched_at": "2026-04-02T15:37:56.260545+00:00"
-    },
-    "1eb86ead350fa87c": {
-      "title": "Samsung brings Perplexity-powered AI and agentic capabilities to browser",
-      "fetched_at": "2026-04-02T15:37:56.919986+00:00"
-    },
-    "1f4710e70cafac9f": {
-      "title": "AI Models Lie to Protect Each Other from Deletion, UC Berkeley Finds",
-      "fetched_at": "2026-04-02T15:37:57.639017+00:00"
-    },
-    "5ead9bd0fc625e89": {
-      "title": "Nono.sh: Kernel-enforced runtime safety for AI agents",
-      "fetched_at": "2026-04-02T15:37:58.261526+00:00"
-    },
-    "1b291078bf7c34dc": {
-      "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
-      "fetched_at": "2026-04-02T15:37:58.883513+00:00"
-    },
-    "352ffb3eaa2dedc8": {
-      "title": "阿爾忒彌斯2號啟航：睽違54年 人類再度飛向月球",
-      "fetched_at": "2026-04-02T15:38:02.109942+00:00"
-    },
-    "0acebb279135016d": {
-      "title": "伊朗戰爭顯示國際衝突的規範已被顛覆",
-      "fetched_at": "2026-04-02T15:38:02.719810+00:00"
-    },
-    "dc65ab64a6eb3252": {
-      "title": "「胖子監獄」、極限減重：為何中國「軍訓式減肥營」越來越熱門？",
-      "fetched_at": "2026-04-02T15:38:03.356986+00:00"
-    },
-    "933f955084f13241": {
-      "title": "Chinese satellite with robotic 'octopus arm' passes key refueling test in orbit — making longer-lived space assets more likely",
-      "fetched_at": "2026-04-02T15:38:05.600571+00:00"
-    },
-    "23d359bcaddd652c": {
-      "title": "'Not how you build a digital mind': How reasoning failures are preventing AI models from achieving human-level intelligence",
-      "fetched_at": "2026-04-02T15:38:06.239231+00:00"
-    },
-    "56f6f1d904622c27": {
-      "title": "Scientists cured type 1 diabetes in mice by creating a blended immune system",
-      "fetched_at": "2026-04-02T15:38:07.040995+00:00"
-    },
-    "d8ced7b8494cf129": {
-      "title": "Eating more meat may lower Alzheimer’s risk for some people",
-      "fetched_at": "2026-04-02T15:38:07.676059+00:00"
-    },
-    "ff6ff2a6ea280d6f": {
-      "title": "Earth’s magnetic field went wild 600 million years ago and scientists finally know why",
-      "fetched_at": "2026-04-02T15:38:08.308361+00:00"
-    },
-    "9305ef6ce83ca8c0": {
-      "title": "Ancient bone dice reveal 12,000-year history of gambling in America",
-      "fetched_at": "2026-04-02T15:38:08.935852+00:00"
-    },
-    "f4f8cf39f7df061d": {
-      "title": "Mysterious Greek inscription may reveal lost temple beneath Syria’s Great Mosque",
-      "fetched_at": "2026-04-02T15:38:09.655655+00:00"
-    },
-    "c451e055c74ae7da": {
-      "title": "Physicists just solved a strange fusion mystery that stumped experts",
-      "fetched_at": "2026-04-02T15:38:10.367105+00:00"
-    },
-    "b5fae99f8a2619df": {
-      "title": "NASA launches Artemis II for first crewed Moon flyby in 50 years",
-      "fetched_at": "2026-04-02T15:38:11.013130+00:00"
-    },
-    "c2068aa98e7e9295": {
-      "title": "Scientists discover “molecular shredder” that helps deadly parasite evade the immune system",
-      "fetched_at": "2026-04-02T15:38:11.668135+00:00"
-    },
-    "4c82ac63d3ba2b78": {
-      "title": "Artemis II rocket lifts off to the moon — look back at our live coverage",
-      "fetched_at": "2026-04-02T15:38:12.297869+00:00"
-    },
     "bdea1fbe082c09ff": {
       "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
       "fetched_at": "2026-04-02T20:00:40.088025+00:00"
@@ -3695,7 +3559,147 @@
     "59a3f235db9bfaa1": {
       "title": "The Price Discovery Problem in the AI Debate",
       "fetched_at": "2026-04-10T12:44:08.541763+00:00"
+    },
+    "f073059b27ed4bb1": {
+      "title": "ViralEpic: Create scroll-stopping social media visuals with AI in seconds",
+      "fetched_at": "2026-04-10T18:38:36.415596+00:00"
+    },
+    "1d178d9b3e5f0820": {
+      "title": "PyTorch Foundation Expands AI Stack with Safetensors, ExecuTorch, and Helion",
+      "fetched_at": "2026-04-10T18:38:36.995311+00:00"
+    },
+    "716c54b078753e2d": {
+      "title": "AI assistance when contributing to the Linux kernel",
+      "fetched_at": "2026-04-10T18:38:37.578947+00:00"
+    },
+    "5e539fd05d252b79": {
+      "title": "Claude AI Assistant for Microsoft Office",
+      "fetched_at": "2026-04-10T18:38:38.163063+00:00"
+    },
+    "4f3a88e8a0bc3fe4": {
+      "title": "Anthropic Will Use CoreWeave's AI Capacity to Power Claude",
+      "fetched_at": "2026-04-10T18:38:38.750160+00:00"
+    },
+    "a86a14b7a525b3d1": {
+      "title": "Show HN: The API directory for AI agents and developers",
+      "fetched_at": "2026-04-10T18:38:39.342076+00:00"
+    },
+    "649e509f43fd03ab": {
+      "title": "My Picture of the Present in AI",
+      "fetched_at": "2026-04-10T18:38:39.342200+00:00"
+    },
+    "41f957ed3ca44765": {
+      "title": "Show HN: I run AI background removal in the browser–no upload,no server",
+      "fetched_at": "2026-04-10T18:38:39.918778+00:00"
+    },
+    "00888f8763f5408a": {
+      "title": "Applications of AI at OpenAI",
+      "fetched_at": "2026-04-10T18:38:40.527762+00:00"
+    },
+    "c305287c73e43142": {
+      "title": "Responsible and Safe Use of AI",
+      "fetched_at": "2026-04-10T18:38:41.193980+00:00"
+    },
+    "0190ee1799aa3707": {
+      "title": "Show HN: Direction – a 4-week course for people afraid of shipping AI slop",
+      "fetched_at": "2026-04-10T18:38:41.783309+00:00"
+    },
+    "ce47a785418697fb": {
+      "title": "Synthetic Sandbox for Training Machine Learning Engineering Agents",
+      "fetched_at": "2026-04-10T18:38:42.376169+00:00"
+    },
+    "2ffd200774d78557": {
+      "title": "Alibaba shifts towards revenue over open-source AI",
+      "fetched_at": "2026-04-10T18:38:42.974819+00:00"
+    },
+    "5e068c3699e8e565": {
+      "title": "Surviving Hallucinations: AI Fault Tolerance for Campaigns",
+      "fetched_at": "2026-04-10T18:38:43.711195+00:00"
+    },
+    "60f7652b346fff17": {
+      "title": "What is the impact of AI on productivity?",
+      "fetched_at": "2026-04-10T18:38:44.286986+00:00"
+    },
+    "31649a9524403300": {
+      "title": "Install-AI-constitution: a tool to centralise your main AGENTS.md",
+      "fetched_at": "2026-04-10T18:38:44.870352+00:00"
+    },
+    "6308b35df1807f2e": {
+      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
+      "fetched_at": "2026-04-10T18:38:45.467456+00:00"
+    },
+    "d1a74d10d502e516": {
+      "title": "Ask HN: Is a purely Markdown-based CRM a terrible idea? Optimized for LLM agents",
+      "fetched_at": "2026-04-10T18:38:46.143064+00:00"
+    },
+    "927cb85cf1fc5674": {
+      "title": "AI (and) Maximalism",
+      "fetched_at": "2026-04-10T18:38:46.779768+00:00"
+    },
+    "bd4c23f810fe10a0": {
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "fetched_at": "2026-04-10T18:38:47.449492+00:00"
+    },
+    "3bdf687f86092f4a": {
+      "title": "There are 'reasons to be confident' about faulty Artemis II heat shield ahead of 25,000 mph reentry, space expert Ed Macaulay says",
+      "fetched_at": "2026-04-10T18:38:50.822202+00:00"
+    },
+    "fc59df98e13a4e7b": {
+      "title": "The moon is green and brown? Why scientists are already excited about Artemis II's historic lunar photos",
+      "fetched_at": "2026-04-10T18:38:51.424592+00:00"
+    },
+    "7142ff942904d4f0": {
+      "title": "'I've seen the movies. What a horrible way to die': What it's like to be sucked into a tornado and survive",
+      "fetched_at": "2026-04-10T18:38:52.022603+00:00"
+    },
+    "3f916c186bf99f75": {
+      "title": "'More questions than answers': Experts baffled by Alaskan mammal-eating orcas spotted near Seattle",
+      "fetched_at": "2026-04-10T18:38:52.608358+00:00"
+    },
+    "ce0b0bf2875bae91": {
+      "title": "Changing 'just one DNA letter' in female mice triggers growth of male genitalia",
+      "fetched_at": "2026-04-10T18:38:53.209525+00:00"
+    },
+    "8c230787a5710ac8": {
+      "title": "Artemis II returns LIVE: Splashdown less than six hours away as crew prepares for fireball return",
+      "fetched_at": "2026-04-10T18:38:53.798786+00:00"
+    },
+    "2cb14a78036a541d": {
+      "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
+      "fetched_at": "2026-04-10T18:38:54.505974+00:00"
+    },
+    "91b4fa4a0f93da57": {
+      "title": "A common nutrient could supercharge cancer treatment",
+      "fetched_at": "2026-04-10T18:38:55.090405+00:00"
+    },
+    "ce1f64357d79fb40": {
+      "title": "Gravitational waves may be hidden in the light atoms emit",
+      "fetched_at": "2026-04-10T18:38:55.670703+00:00"
+    },
+    "ea9f0d0098b58184": {
+      "title": "This superconductivity dies then comes back to life",
+      "fetched_at": "2026-04-10T18:38:56.324925+00:00"
+    },
+    "3351933e65594eb1": {
+      "title": "Scientists think dark matter might come in two forms",
+      "fetched_at": "2026-04-10T18:38:56.963066+00:00"
+    },
+    "ad8abfc3f32f8e3e": {
+      "title": "Scientists finally uncover why promising cancer drugs keep failing",
+      "fetched_at": "2026-04-10T18:38:57.530874+00:00"
+    },
+    "7d8957d893454ac6": {
+      "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
+      "fetched_at": "2026-04-10T18:38:58.104660+00:00"
+    },
+    "5642284bc3a37ae6": {
+      "title": "The world is getting brighter at night but some places are going dark",
+      "fetched_at": "2026-04-10T18:38:58.876137+00:00"
+    },
+    "3e88e1f961e099ba": {
+      "title": "Dragonflies can see a color humans can’t and it could change medicine",
+      "fetched_at": "2026-04-10T18:38:59.459945+00:00"
     }
   },
-  "last_updated": "2026-04-10T12:44:08.682173+00:00"
+  "last_updated": "2026-04-10T18:38:59.609620+00:00"
 }
