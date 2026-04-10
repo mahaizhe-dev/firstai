@@ -1,157 +1,5 @@
 {
   "articles": {
-    "a125218a96e0284b": {
-      "title": "韩国交易所启动SIDECAR机制，暂停KOSDAQ程序化卖出",
-      "fetched_at": "2026-04-02T05:50:36.793418+00:00"
-    },
-    "0153a77273e024a1": {
-      "title": "现货黄金向下跌破4650美元",
-      "fetched_at": "2026-04-02T05:50:37.389943+00:00"
-    },
-    "459bf0c54197f851": {
-      "title": "Will AI Eventually Thrive Outside the Moat?",
-      "fetched_at": "2026-04-02T05:50:38.027804+00:00"
-    },
-    "487f83399276401e": {
-      "title": "r/programming bans all discussion of LLM programming",
-      "fetched_at": "2026-04-02T05:50:38.658441+00:00"
-    },
-    "84dc0d3f56463263": {
-      "title": "现货铂金跌幅超3%",
-      "fetched_at": "2026-04-02T05:50:39.245205+00:00"
-    },
-    "cad8fb24c5a45ec8": {
-      "title": "港仔机器人与NVTHK订立战略合作协议，共同开发机器人RWA融资商业模式",
-      "fetched_at": "2026-04-02T05:50:39.826001+00:00"
-    },
-    "b1a906b003194d06": {
-      "title": "伯克希尔·哈撒韦公司据悉聘请银行发行日元债券",
-      "fetched_at": "2026-04-02T05:50:40.448561+00:00"
-    },
-    "4b35cf2ebc8d2eb6": {
-      "title": "科学家实现DNA安全加密实景测试",
-      "fetched_at": "2026-04-02T05:50:41.065083+00:00"
-    },
-    "c5a5fad260389dbe": {
-      "title": "Show HN: An SSR Java framework for real-time user interfaces and AI agents",
-      "fetched_at": "2026-04-02T05:50:41.657296+00:00"
-    },
-    "ced77a801ff02524": {
-      "title": "韩国锌业启动美国田纳西州74亿美元精炼厂建设项目",
-      "fetched_at": "2026-04-02T05:50:42.635011+00:00"
-    },
-    "57070aad0e734e3f": {
-      "title": "恒宇信通应收账款增加引质疑，最新回应",
-      "fetched_at": "2026-04-02T05:50:43.217978+00:00"
-    },
-    "f62585051a3bbad5": {
-      "title": "Embracing AI with Claude's C Compiler",
-      "fetched_at": "2026-04-02T05:50:43.804754+00:00"
-    },
-    "5fabd6b2782b06c0": {
-      "title": "恒生指数跌破25000点",
-      "fetched_at": "2026-04-02T05:50:44.395281+00:00"
-    },
-    "ffa35f7ed4ae93f9": {
-      "title": "创业板指跌超2%",
-      "fetched_at": "2026-04-02T05:50:45.002569+00:00"
-    },
-    "56b5adf7709f2abf": {
-      "title": "安科生物：2026年曲妥珠单抗销售目标仍是收入及利润大幅增长",
-      "fetched_at": "2026-04-02T05:50:45.632806+00:00"
-    },
-    "a6ed93d153976bde": {
-      "title": "金科地产集团增资至约105.9亿元",
-      "fetched_at": "2026-04-02T05:50:46.239500+00:00"
-    },
-    "7c009f23e233b161": {
-      "title": "飞天茅台原箱批价涨至1730元/瓶，i茅台再度“收紧”抢购规则",
-      "fetched_at": "2026-04-02T05:50:46.829888+00:00"
-    },
-    "6dde213b37e02783": {
-      "title": "阿里发布千问新一代大语言模型Qwen3.6-Plus",
-      "fetched_at": "2026-04-02T05:50:47.422040+00:00"
-    },
-    "6952d6dda5706737": {
-      "title": "丰田汽车公司将面向日本市场销售美国制造的Tundra和Highlander车型",
-      "fetched_at": "2026-04-02T05:50:47.997522+00:00"
-    },
-    "482ad9bcfb6f16b1": {
-      "title": "百度健康发布“有医助理”",
-      "fetched_at": "2026-04-02T05:50:48.626838+00:00"
-    },
-    "ad0b6c1c2064d265": {
-      "title": "特朗普再提退出北約：這對同盟前景有何啟示",
-      "fetched_at": "2026-04-02T05:50:51.519253+00:00"
-    },
-    "461dc78b096291b9": {
-      "title": "特朗普称对伊朗战争“即将结束”，未给出明确时间表",
-      "fetched_at": "2026-04-02T05:50:52.089851+00:00"
-    },
-    "ed3a9ed88120ebc3": {
-      "title": "美情报机构评估称伊朗目前无意进行实质性谈判",
-      "fetched_at": "2026-04-02T05:50:52.665160+00:00"
-    },
-    "1f0854fb0a334abe": {
-      "title": "中國試圖在伊朗戰爭中扮演和平調解者，這會奏效嗎？",
-      "fetched_at": "2026-04-02T05:50:53.271265+00:00"
-    },
-    "fe5332a07d7499e2": {
-      "title": "他为所有人赢得了出生公民权，他的后代却一度不知其人",
-      "fetched_at": "2026-04-02T05:50:53.964643+00:00"
-    },
-    "d69a28b69bd76ab5": {
-      "title": "阿尔忒弥斯2号启航，人类重返月球",
-      "fetched_at": "2026-04-02T05:50:54.565331+00:00"
-    },
-    "c07250e3d21cb544": {
-      "title": "「香港故事」展館重開：淡化港英歷史不提「六四」，六年改造重樹敘事",
-      "fetched_at": "2026-04-02T05:50:55.145244+00:00"
-    },
-    "e6c23ed4bf619da2": {
-      "title": "武汉多辆萝卜快跑出租车突然“宕机”，乘客被困",
-      "fetched_at": "2026-04-02T05:50:55.722891+00:00"
-    },
-    "844aedb61a077086": {
-      "title": "柬埔寨洗钱、电诈集团关键人物李雄被押解回中国",
-      "fetched_at": "2026-04-02T05:50:56.359041+00:00"
-    },
-    "62272f61b0231327": {
-      "title": "壓力對皮膚有什麼影響——以及你能怎麼做？",
-      "fetched_at": "2026-04-02T05:50:56.964992+00:00"
-    },
-    "a21d8e2bfe0e8ed1": {
-      "title": "特朗普称美国将在两到三周内结束伊朗战争",
-      "fetched_at": "2026-04-02T05:50:57.595998+00:00"
-    },
-    "4f5566b1b1028801": {
-      "title": "不要让年轻人为老年人的战争送命",
-      "fetched_at": "2026-04-02T05:50:58.212426+00:00"
-    },
-    "a8170f604459b1b4": {
-      "title": "Native Americans invented dice and games of chance more than 12,000 years ago, archaeological study reveals",
-      "fetched_at": "2026-04-02T05:51:01.371534+00:00"
-    },
-    "791e38cbfd1fd953": {
-      "title": "What’s hiding inside colon cancer could change treatment",
-      "fetched_at": "2026-04-02T05:51:01.961129+00:00"
-    },
-    "ce2bc9a72fca308a": {
-      "title": "Scientists discover bizarre termite that looks like a tiny sperm whale",
-      "fetched_at": "2026-04-02T05:51:02.565756+00:00"
-    },
-    "0dd5331e878ddcc5": {
-      "title": "Artemis II blasts off: Humans are on their way back to the moon",
-      "fetched_at": "2026-04-02T05:51:03.143914+00:00"
-    },
-    "59a3f235db9bfaa1": {
-      "title": "The Price Discovery Problem in the AI Debate",
-      "fetched_at": "2026-04-02T05:51:03.734618+00:00"
-    },
-    "acec8bb091850835": {
-      "title": "Artemis II launch LIVE: Artemis II rocket lifts off to the moon",
-      "fetched_at": "2026-04-02T05:51:04.453255+00:00"
-    },
     "0a24f1c217513a24": {
       "title": "2连板北大医药：公司不存在创新药业务",
       "fetched_at": "2026-04-02T09:39:38.063691+00:00"
@@ -3723,7 +3571,135 @@
     "13e10c89db164de9": {
       "title": "Kiln Discovered at Thomas Jefferson’s Monticello",
       "fetched_at": "2026-04-10T01:20:41.888298+00:00"
+    },
+    "e60c7b599fa49de9": {
+      "title": "MiniMax上线音乐生成模型Music 2.6",
+      "fetched_at": "2026-04-10T07:14:31.282282+00:00"
+    },
+    "906239aa6d350423": {
+      "title": "Show HN: Pixel-by-pixel comparison of AI models rebuilding your UI designs",
+      "fetched_at": "2026-04-10T07:14:31.964462+00:00"
+    },
+    "e7b8a8e06c8cdefb": {
+      "title": "How HN: $2/Day AI – How we run an autonomous agent on a hard budget",
+      "fetched_at": "2026-04-10T07:14:32.744193+00:00"
+    },
+    "9e3fefded9bcfce4": {
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "fetched_at": "2026-04-10T07:14:33.369527+00:00"
+    },
+    "5c921da3514eeee8": {
+      "title": "A股三大指数集体收涨，沪深京三市约4000股飘红",
+      "fetched_at": "2026-04-10T07:14:34.068145+00:00"
+    },
+    "0ea7fdeabdddb282": {
+      "title": "毛利率下滑，客户高度集中，天秦装备回应",
+      "fetched_at": "2026-04-10T07:14:34.680272+00:00"
+    },
+    "3d115250f012b45a": {
+      "title": "Gen Z workers are intentionally sabotaging their company's AI rollout",
+      "fetched_at": "2026-04-10T07:14:35.374684+00:00"
+    },
+    "3c56a5c403117d7e": {
+      "title": "AI news gave me anxiety so I built a site where every AI story says don't panic",
+      "fetched_at": "2026-04-10T07:14:36.024254+00:00"
+    },
+    "7d62a8f28839aef6": {
+      "title": "量子科技赛道一季度融资总额超去年全年",
+      "fetched_at": "2026-04-10T07:14:36.657945+00:00"
+    },
+    "96c4f638ed6c9136": {
+      "title": "Are You Managing Your AI, or Is Your AI Managing You?",
+      "fetched_at": "2026-04-10T07:14:37.274669+00:00"
+    },
+    "81209debb9faf376": {
+      "title": "18亿港元，香港特区政府出手补贴燃油成本",
+      "fetched_at": "2026-04-10T07:14:37.881688+00:00"
+    },
+    "03d3463aa9f4d98d": {
+      "title": "沪深两市成交额超2万亿元",
+      "fetched_at": "2026-04-10T07:14:38.593485+00:00"
+    },
+    "1448b388e08c5c4d": {
+      "title": "小鹏与福耀联合发布AI调光隐私玻璃，首块量产交付",
+      "fetched_at": "2026-04-10T07:14:39.327195+00:00"
+    },
+    "e6418d29755d9b56": {
+      "title": "中信证券AH股大涨",
+      "fetched_at": "2026-04-10T07:14:40.047958+00:00"
+    },
+    "8c94132d6409ccdc": {
+      "title": "汉王科技发布Clear7锦鲤电纸书",
+      "fetched_at": "2026-04-10T07:14:40.659180+00:00"
+    },
+    "afe4ce2f5c4a2ef3": {
+      "title": "The tool that won't let AI say anything it can't cite",
+      "fetched_at": "2026-04-10T07:14:41.312820+00:00"
+    },
+    "14e0eb2261d52c98": {
+      "title": "生态环境部：拟自2027年起，禁止生产以HCFC-22为制冷剂的多联式空调（热泵）机组产品",
+      "fetched_at": "2026-04-10T07:14:41.945533+00:00"
+    },
+    "9e787f94221b5714": {
+      "title": "中康科技推出医生超级助理MedMate",
+      "fetched_at": "2026-04-10T07:14:42.615224+00:00"
+    },
+    "a8805c1696be6e4b": {
+      "title": "多重利好叠加，一季度我国汽车出口增长强劲",
+      "fetched_at": "2026-04-10T07:14:43.218273+00:00"
+    },
+    "7f686635d24ed436": {
+      "title": "Transparency and knowledge exchange in AI-assisted data analysis code generation",
+      "fetched_at": "2026-04-10T07:14:44.022685+00:00"
+    },
+    "f97d0dbfcf0b49c5": {
+      "title": "美國在伊朗的戰爭目標實現了嗎？",
+      "fetched_at": "2026-04-10T07:14:46.351822+00:00"
+    },
+    "3523d6424a718698": {
+      "title": "「鄭習會」：國共領袖握手13秒，鄭麗文倡「制度性解決方案」，講話未畢直播被切斷",
+      "fetched_at": "2026-04-10T07:14:46.981601+00:00"
+    },
+    "68b7186c63ad33cc": {
+      "title": "高度依賴空調的新加坡等東南亞國家承受能源危機考驗",
+      "fetched_at": "2026-04-10T07:14:47.908991+00:00"
+    },
+    "e91dc409128f5865": {
+      "title": "分析：無論停火與否，中東仍在重組地緣政治格局",
+      "fetched_at": "2026-04-10T07:14:48.562808+00:00"
+    },
+    "d08e11165fc948be": {
+      "title": "欧洲人不再对特朗普卑躬屈膝",
+      "fetched_at": "2026-04-10T07:14:49.326897+00:00"
+    },
+    "0b795034117f8e85": {
+      "title": "北约会成为伊朗战争的另一个牺牲品吗？",
+      "fetched_at": "2026-04-10T07:14:49.966455+00:00"
+    },
+    "a01fa50764094ac1": {
+      "title": "美国无所不能神话破灭？脆弱的停火协议削弱其全球公信力",
+      "fetched_at": "2026-04-10T07:14:50.581764+00:00"
+    },
+    "88cc210bab617ffc": {
+      "title": "习近平会见国民党主席郑丽文，塑造稳定和平形象",
+      "fetched_at": "2026-04-10T07:14:51.200030+00:00"
+    },
+    "12fbc692af39309d": {
+      "title": "你的胆固醇水平健康吗？",
+      "fetched_at": "2026-04-10T07:14:51.910813+00:00"
+    },
+    "c25a5cdab91a08b5": {
+      "title": "梅拉尼娅否认与爱泼斯坦有任何关系",
+      "fetched_at": "2026-04-10T07:14:52.606874+00:00"
+    },
+    "b6a8b6806bf0991a": {
+      "title": "AI駕駛無人戰機：拆解未來戰場的攻防新技術",
+      "fetched_at": "2026-04-10T07:14:53.237157+00:00"
+    },
+    "65c76480569d5ac0": {
+      "title": "中國人形機器人之夢：當熱度退潮，留下的是泡沫還是繁榮？",
+      "fetched_at": "2026-04-10T07:14:53.842803+00:00"
     }
   },
-  "last_updated": "2026-04-10T01:20:42.026131+00:00"
+  "last_updated": "2026-04-10T07:14:54.857838+00:00"
 }
