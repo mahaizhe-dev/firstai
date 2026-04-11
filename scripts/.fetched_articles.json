@@ -1,89 +1,5 @@
 {
   "articles": {
-    "fc96b76d24d4149c": {
-      "title": "乘联分会：2026年1-2月汽车行业利润435亿元，同比下降30%",
-      "fetched_at": "2026-04-03T08:35:54.114085+00:00"
-    },
-    "6197c1b1a033c647": {
-      "title": "乘联会：3月1-31日全国乘用车市场零售165.7万辆，同比下降15%",
-      "fetched_at": "2026-04-03T08:35:54.762907+00:00"
-    },
-    "60206cb4910cf145": {
-      "title": "乘联会：3月全国乘用车新能源市场零售78.4万辆，同比下降21%",
-      "fetched_at": "2026-04-03T08:35:55.492064+00:00"
-    },
-    "8f5973f7ef921f38": {
-      "title": "优思益：公司已无力进行相关售后及客诉服务，整体处于崩溃边缘",
-      "fetched_at": "2026-04-03T08:35:56.112300+00:00"
-    },
-    "640d7951bb419ebc": {
-      "title": "博众精工：截至3月31日在手订单同比增长163.78%",
-      "fetched_at": "2026-04-03T08:35:56.728268+00:00"
-    },
-    "33887e469023c1f1": {
-      "title": "两部门：引导供销合作社再生资源回收企业规范锂电池回收、贮存等关键环节，加强与锂电池综合利用企业合作",
-      "fetched_at": "2026-04-03T08:35:57.477830+00:00"
-    },
-    "18c3f734a746eeb4": {
-      "title": "乐惠国际：向特定对象发行股票申请获上交所受理",
-      "fetched_at": "2026-04-03T08:35:58.156990+00:00"
-    },
-    "ec9f3e8a1c6438d3": {
-      "title": "6连板津药药业：公司股价短期内大幅连续上涨，存在快速下跌风险",
-      "fetched_at": "2026-04-03T08:35:58.838192+00:00"
-    },
-    "fe60cd3955dc98dc": {
-      "title": "微信小游戏升级2026年IAP激励计划",
-      "fetched_at": "2026-04-03T08:35:59.460084+00:00"
-    },
-    "a30cb5b957e4031a": {
-      "title": "马斯克：下一次星舰飞行以及V3飞船和助推器的首飞，预计还需4至6周时间",
-      "fetched_at": "2026-04-03T08:36:00.075965+00:00"
-    },
-    "801146b816ce59a4": {
-      "title": "京东方A：获得不超过50亿元回购贷款承诺函",
-      "fetched_at": "2026-04-03T08:36:00.895059+00:00"
-    },
-    "70a8130d7857e902": {
-      "title": "阿斯顿·马丁在美召回3937辆汽车",
-      "fetched_at": "2026-04-03T08:36:01.516814+00:00"
-    },
-    "d06664eca217e4a0": {
-      "title": "*ST精伦：股票触及交易类强制退市，4月7日起停牌",
-      "fetched_at": "2026-04-03T08:36:02.175613+00:00"
-    },
-    "e198f863907fefc5": {
-      "title": "“叠序宇宙”获千万级融资",
-      "fetched_at": "2026-04-03T08:36:02.856277+00:00"
-    },
-    "8e1a20b73726f878": {
-      "title": "和林微纳：重新向香港联交所递交H股发行及上市的申请",
-      "fetched_at": "2026-04-03T08:36:03.499265+00:00"
-    },
-    "f710c67aabb6ec50": {
-      "title": "钱江生化：朱燕刚辞任公司董事长等职务",
-      "fetched_at": "2026-04-03T08:36:04.131283+00:00"
-    },
-    "d463232b6c8afe36": {
-      "title": "滴滴出行、北京汽车研究总院共同成立桔汽科技公司",
-      "fetched_at": "2026-04-03T08:36:04.747836+00:00"
-    },
-    "064c13f4b075a9cb": {
-      "title": "事关数字虚拟人信息服务，国家网信办公开征求意见",
-      "fetched_at": "2026-04-03T08:36:05.445996+00:00"
-    },
-    "b69c8100c088ae26": {
-      "title": "TME CONNECT无线高保真音频直传技术正式发布，在QQ音乐平台首发上线",
-      "fetched_at": "2026-04-03T08:36:06.076871+00:00"
-    },
-    "4362be03a56e5e07": {
-      "title": "通用汽车一季度在华零售销量约35万辆",
-      "fetched_at": "2026-04-03T08:36:06.710125+00:00"
-    },
-    "4e3f9b0b42c7548b": {
-      "title": "特朗普「關稅戰」一週年： 全球經濟如何在四個方面被改變",
-      "fetched_at": "2026-04-03T08:36:09.415796+00:00"
-    },
     "a8e4bc07e3d4452d": {
       "title": "Show HN: Ckpt – Automatic checkpoints for AI coding sessions with per-step undo",
       "fetched_at": "2026-04-03T14:28:25.881460+00:00"
@@ -3639,7 +3555,115 @@
     "d312aa08fe6c7ab4": {
       "title": "'Welcome home, Integrity': Artemis II crew safely returned to Earth after 'bullseye landing' to cap historic moon mission",
       "fetched_at": "2026-04-11T06:48:49.949663+00:00"
+    },
+    "cf20d1319235f02c": {
+      "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
+      "fetched_at": "2026-04-11T12:33:24.070374+00:00"
+    },
+    "858b300cc14c4c42": {
+      "title": "I built a pure WGSL LLM engine to run Llama on my Snapdragon laptop GPU",
+      "fetched_at": "2026-04-11T12:33:24.674499+00:00"
+    },
+    "aa42a824771cf50b": {
+      "title": "AI Datacenters Are Becoming Strategic Targets",
+      "fetched_at": "2026-04-11T12:33:25.270299+00:00"
+    },
+    "26d2c28b19267aea": {
+      "title": "We Built Every Employee at Ramp Their Own AI Coworker",
+      "fetched_at": "2026-04-11T12:33:26.001871+00:00"
+    },
+    "61a0c622287a3bcc": {
+      "title": "Why I'm Quitting Physics (and moving to AI) [video]",
+      "fetched_at": "2026-04-11T12:33:26.682710+00:00"
+    },
+    "5606ea7a3ae6df29": {
+      "title": "Researchers used AI to analyze 400k Reddit posts, revealing GLP-1 side effects",
+      "fetched_at": "2026-04-11T12:33:27.300231+00:00"
+    },
+    "ab2f033ab88cbd53": {
+      "title": "AI 2027 Tracker",
+      "fetched_at": "2026-04-11T12:33:27.910094+00:00"
+    },
+    "945ac18371148f15": {
+      "title": "Show HN: MoodSense AI (ML and FastAPI and Gradio, Deployed on Hugging Face)",
+      "fetched_at": "2026-04-11T12:33:28.543332+00:00"
+    },
+    "93eb235bcad4851d": {
+      "title": "Show HN: MoodSense AI – mood detection and recommendations from text",
+      "fetched_at": "2026-04-11T12:33:29.160827+00:00"
+    },
+    "926fb0a0671b11b2": {
+      "title": "Nvidia Nemotron-3 Super AI model [video]",
+      "fetched_at": "2026-04-11T12:33:29.804084+00:00"
+    },
+    "501e8e276b1cc734": {
+      "title": "Apfel Chat – Private on Device AI That Works in Airplane Mode (MIT)",
+      "fetched_at": "2026-04-11T12:33:30.406825+00:00"
+    },
+    "6aa5ac0e9e64a19b": {
+      "title": "AI-powered English pronunciation practice",
+      "fetched_at": "2026-04-11T12:33:31.049072+00:00"
+    },
+    "e658c6ed5ca0e97b": {
+      "title": "AI sheds light on an ancient gaming mystery",
+      "fetched_at": "2026-04-11T12:33:31.652369+00:00"
+    },
+    "d8a858dabdad586c": {
+      "title": "Startup Wants You to Pay Up to Talk with AI Versions of Human Experts",
+      "fetched_at": "2026-04-11T12:33:32.263129+00:00"
+    },
+    "d6659a603322e51f": {
+      "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
+      "fetched_at": "2026-04-11T12:33:32.870284+00:00"
+    },
+    "16c7b96c808aa1d8": {
+      "title": "Self-hosted GitHub Wrapped – weekly AI report deployed to GitHub Pages",
+      "fetched_at": "2026-04-11T12:33:33.469724+00:00"
+    },
+    "728a1981409f8928": {
+      "title": "The New Feudalism: AI Reshaping Power, Labor; Case for Self-Reliant Communities",
+      "fetched_at": "2026-04-11T12:33:34.075674+00:00"
+    },
+    "ef8c2cce3d41612c": {
+      "title": "Architecture, patterns and internals of Anthropic's AI coding agent",
+      "fetched_at": "2026-04-11T12:33:34.672248+00:00"
+    },
+    "a99f057e343afaea": {
+      "title": "AI and Tech brief: Ireland ascendant",
+      "fetched_at": "2026-04-11T12:33:35.278379+00:00"
+    },
+    "5cb659379a358477": {
+      "title": "Stopping to think about the AI context",
+      "fetched_at": "2026-04-11T12:33:35.934901+00:00"
+    },
+    "2974c49922b595d1": {
+      "title": "AI for breakup texts? How 'sycophantic' chatbots are messing with our ability to handle difficult social situations.",
+      "fetched_at": "2026-04-11T12:33:40.484997+00:00"
+    },
+    "412dd77bc3705b34": {
+      "title": "Science news this week: Artemis II splashes down, the world's fattest parrot bounces back, and the Shroud of Turin is contaminated",
+      "fetched_at": "2026-04-11T12:33:41.075989+00:00"
+    },
+    "c3a413d5021eee44": {
+      "title": "Antibacterial Herbs: Ancient Remedies, Modern Science",
+      "fetched_at": "2026-04-11T12:33:41.673438+00:00"
+    },
+    "69ad8ca2b35cea09": {
+      "title": "10 Artemis II photos that define humanity's return to the moon",
+      "fetched_at": "2026-04-11T12:33:42.293170+00:00"
+    },
+    "d0b2069e042ccf61": {
+      "title": "Do the microbes in your gut influence what foods you like?",
+      "fetched_at": "2026-04-11T12:33:42.920145+00:00"
+    },
+    "498a5a22a9391e7a": {
+      "title": "SpaceX Starship could slash travel time to Uranus in half",
+      "fetched_at": "2026-04-11T12:33:43.527387+00:00"
+    },
+    "9ed0fd75a5c3168b": {
+      "title": "New microwave frying technique could make french fries much healthier",
+      "fetched_at": "2026-04-11T12:33:44.219551+00:00"
     }
   },
-  "last_updated": "2026-04-11T06:48:50.087532+00:00"
+  "last_updated": "2026-04-11T12:33:44.358981+00:00"
 }
