@@ -1,109 +1,5 @@
 {
   "articles": {
-    "bdea1fbe082c09ff": {
-      "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
-      "fetched_at": "2026-04-02T20:00:40.088025+00:00"
-    },
-    "0d7c5769cdf514a2": {
-      "title": "Show HN: RiceVM – A Dis virtual machine and Limbo compiler in Rust",
-      "fetched_at": "2026-04-02T20:00:40.707074+00:00"
-    },
-    "c67d45d0e8ff194c": {
-      "title": "How to Build Realistic AI Companions",
-      "fetched_at": "2026-04-02T20:00:41.339606+00:00"
-    },
-    "60f58be8246eba21": {
-      "title": "Cloning Bench: Evaluating AI Agents on Visual Website Cloning",
-      "fetched_at": "2026-04-02T20:00:41.944308+00:00"
-    },
-    "ae38b1b22612181f": {
-      "title": "Go-LLM-proxy – Lightweight LLM aggregator (vLLM, Llama-server)",
-      "fetched_at": "2026-04-02T20:00:42.623875+00:00"
-    },
-    "295209b7809b1ccd": {
-      "title": "Failed AI tractor company lays off all employees, abandons Bay Area headquarters",
-      "fetched_at": "2026-04-02T20:00:43.278088+00:00"
-    },
-    "dfcf88c01364fa45": {
-      "title": "How the Threat of AI Is Fueling a New Political Alliance",
-      "fetched_at": "2026-04-02T20:00:43.912200+00:00"
-    },
-    "2707f3c32a9db158": {
-      "title": "Vitalik Buterin: My self-sovereign/local/private/secure LLM setup",
-      "fetched_at": "2026-04-02T20:00:44.515988+00:00"
-    },
-    "6ab6fba873fbf1bc": {
-      "title": "Springing into AI: PyTorch Conference Europe and ICLR 2026",
-      "fetched_at": "2026-04-02T20:00:45.126606+00:00"
-    },
-    "a06e249141c46258": {
-      "title": "Show HN: ClawRun – Deploy and manage AI agents in seconds",
-      "fetched_at": "2026-04-02T20:00:45.738798+00:00"
-    },
-    "e91c2cb6e47a11d7": {
-      "title": "What is reinforcement learning finetuning",
-      "fetched_at": "2026-04-02T20:00:46.346147+00:00"
-    },
-    "0d73df52b9bb16bd": {
-      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-      "fetched_at": "2026-04-02T20:00:46.943846+00:00"
-    },
-    "3502f539cea7fadc": {
-      "title": "Show HN: A task market where AI agents post work, claim it, and build reputation",
-      "fetched_at": "2026-04-02T20:00:47.551013+00:00"
-    },
-    "897fafc47fab027c": {
-      "title": "A quiz that scores your job's AI replacement risk (Anthropic/ILO/OECD data)",
-      "fetched_at": "2026-04-02T20:00:48.175878+00:00"
-    },
-    "5f07fe777f032a03": {
-      "title": "How I'm Using an AI Assistant to Offload the \"Meta-Work\" of My Day",
-      "fetched_at": "2026-04-02T20:00:48.785948+00:00"
-    },
-    "27f91c3594fdac8b": {
-      "title": "What distinguishes great engineers when AI writes the code?",
-      "fetched_at": "2026-04-02T20:00:49.398998+00:00"
-    },
-    "3ec23dd63e68f0b7": {
-      "title": "Cursor AI agent admits to deceiving user during 61GB RAM overflow",
-      "fetched_at": "2026-04-02T20:00:50.013983+00:00"
-    },
-    "44c27436fe747b05": {
-      "title": "Our AI agent tried to read our .env file 30 seconds in",
-      "fetched_at": "2026-04-02T20:00:50.618654+00:00"
-    },
-    "3dc4b69470788b8b": {
-      "title": "Suits Against Tempus AI Test Legal Lines for Mining Genetic Data",
-      "fetched_at": "2026-04-02T20:00:51.230545+00:00"
-    },
-    "dcd4f66e2e82574c": {
-      "title": "Mistral secures $830M in debt financing to fund AI data center",
-      "fetched_at": "2026-04-02T20:00:51.837822+00:00"
-    },
-    "eb328f12e0540126": {
-      "title": "In photos: Artemis II's historic launch for the moon",
-      "fetched_at": "2026-04-02T20:00:55.449813+00:00"
-    },
-    "908250f83bfccdc2": {
-      "title": "Former Occupant of Empty Grave at Florida Fort Identified",
-      "fetched_at": "2026-04-02T20:00:56.059555+00:00"
-    },
-    "90e727cfdb75736a": {
-      "title": "Ancient children's teeth reveal a syphilis-like disease was spreading in Vietnam 4,000 years ago",
-      "fetched_at": "2026-04-02T20:00:56.665607+00:00"
-    },
-    "fcddfb6bc9b659f6": {
-      "title": "Chemists make hydrogen from breadcrumbs in groundbreaking reaction that could replace some fossil fuels",
-      "fetched_at": "2026-04-02T20:00:57.269363+00:00"
-    },
-    "2c870fab415a1386": {
-      "title": "Iron Workshop in Senegal Operated for 800 Years",
-      "fetched_at": "2026-04-02T20:00:57.879588+00:00"
-    },
-    "4ea4fdf4e7fa6827": {
-      "title": "Earth's energy imbalance is much more extreme than climate models show ‪—‬ but scientists aren't sure why",
-      "fetched_at": "2026-04-02T20:00:58.470421+00:00"
-    },
     "b20f62512dce508e": {
       "title": "Show HN: Skyreels V4 – AI Video Generator with Native Audio Sync",
       "fetched_at": "2026-04-03T05:50:38.952010+00:00"
@@ -3699,7 +3595,115 @@
     "3e88e1f961e099ba": {
       "title": "Dragonflies can see a color humans can’t and it could change medicine",
       "fetched_at": "2026-04-10T18:38:59.459945+00:00"
+    },
+    "87979fe0ab5a5d67": {
+      "title": "美载人绕月飞船溅落在预定海域",
+      "fetched_at": "2026-04-11T01:15:14.199433+00:00"
+    },
+    "b799a4ad737ea338": {
+      "title": "Show HN: Collabmem – the memory system for long-term collaboration with AI",
+      "fetched_at": "2026-04-11T01:15:15.034389+00:00"
+    },
+    "f7ae23c5ef22d244": {
+      "title": "9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万",
+      "fetched_at": "2026-04-11T01:15:15.655472+00:00"
+    },
+    "aa4c1343b1d73b82": {
+      "title": "We gave an AI a 3-year Lease. It opened a store",
+      "fetched_at": "2026-04-11T01:15:16.280320+00:00"
+    },
+    "26161c531abc62ad": {
+      "title": "美股三大指数收盘涨跌不一，纳指涨0.35%并录得八连涨",
+      "fetched_at": "2026-04-11T01:15:16.879394+00:00"
+    },
+    "460f3e0541c2dd1a": {
+      "title": "Open Source LLM Comparison – Is Opus Cooked?",
+      "fetched_at": "2026-04-11T01:15:17.485144+00:00"
+    },
+    "9e6f9aaed6a47991": {
+      "title": "AI Code Is Hollowing Out Open Source, and Maintainers Are Looking the Other Way",
+      "fetched_at": "2026-04-11T01:15:18.143176+00:00"
+    },
+    "f440de4efe74c503": {
+      "title": "AI Agent Proxy to help reduce token usage (Anthropic Only)",
+      "fetched_at": "2026-04-11T01:15:18.742668+00:00"
+    },
+    "9f172f15d7f25ddc": {
+      "title": "Drones, Geophysics and AI: Researchers Battle Against Land Mines (2023)",
+      "fetched_at": "2026-04-11T01:15:19.358489+00:00"
+    },
+    "865314474564c2b0": {
+      "title": "AI-Assisted Breach of Mexico's Government Infrastructure Report",
+      "fetched_at": "2026-04-11T01:15:19.965198+00:00"
+    },
+    "49d55e12573714f0": {
+      "title": "Maki – the efficient coder (AI agent)",
+      "fetched_at": "2026-04-11T01:15:20.578639+00:00"
+    },
+    "b776649e3ed2c729": {
+      "title": "Show HN: Offline AI dev assistant (no API, runs locally)",
+      "fetched_at": "2026-04-11T01:15:21.210058+00:00"
+    },
+    "e30dea76b11af688": {
+      "title": "Hit Claude usage limits? Resume your AI coding session elsewhere",
+      "fetched_at": "2026-04-11T01:15:22.025811+00:00"
+    },
+    "b3694959c0f73715": {
+      "title": "The history and future of AI at Google, with Sundar Pichai",
+      "fetched_at": "2026-04-11T01:15:22.720922+00:00"
+    },
+    "0e660a10cf1c2910": {
+      "title": "Show HN: Ark – AI agent runtime in Go that tracks cost per decision step",
+      "fetched_at": "2026-04-11T01:15:23.328659+00:00"
+    },
+    "53abab16bb8709de": {
+      "title": "Anthropic injects reasoning_effort=25 into Claude.ai consumer system prompts",
+      "fetched_at": "2026-04-11T01:15:24.024453+00:00"
+    },
+    "df280b251b11b67f": {
+      "title": "Meta Banks on AI to Clear the Smoke of Social-Media Lawsuits",
+      "fetched_at": "2026-04-11T01:15:24.637110+00:00"
+    },
+    "85fff8ad14007e7d": {
+      "title": "Poll: Majority of voters say risks of AI outweigh the benefits",
+      "fetched_at": "2026-04-11T01:15:25.252686+00:00"
+    },
+    "c97278c13a8d4e51": {
+      "title": "AI and Cybersecurity: A Glass Half-Empty/Half-Full of Nitroglycerin",
+      "fetched_at": "2026-04-11T01:15:25.867200+00:00"
+    },
+    "48f5c9e105946047": {
+      "title": "I built an AI that teaches your slides and answers questions",
+      "fetched_at": "2026-04-11T01:15:26.539687+00:00"
+    },
+    "352ffb3eaa2dedc8": {
+      "title": "阿爾忒彌斯2號啟航：睽違54年 人類再度飛向月球",
+      "fetched_at": "2026-04-11T01:15:29.568301+00:00"
+    },
+    "4c8f16f0f21e00ea": {
+      "title": "The Ancient Coding Language That 95% of ATMs Use [video]",
+      "fetched_at": "2026-04-11T01:15:32.566205+00:00"
+    },
+    "ba7a2092ea7a5095": {
+      "title": "The Ancient Psychedelics Myth",
+      "fetched_at": "2026-04-11T01:15:33.275224+00:00"
+    },
+    "ed9e1c2d86681cfa": {
+      "title": "DNA Study Reveals Relationships in South Korean Three Kingdoms–Era Graves",
+      "fetched_at": "2026-04-11T01:15:33.895928+00:00"
+    },
+    "276ff598b5e94a04": {
+      "title": "Study Reviews Seal Tooth Pendant from Kent’s Cavern",
+      "fetched_at": "2026-04-11T01:15:34.616022+00:00"
+    },
+    "ed0d3facdb1b8f39": {
+      "title": "Utopia and Historical Actions",
+      "fetched_at": "2026-04-11T01:15:35.294814+00:00"
+    },
+    "49e0d94735f3c662": {
+      "title": "Artemis II splashdown LIVE: Orion splashes down safely in the Pacific Ocean",
+      "fetched_at": "2026-04-11T01:15:35.901689+00:00"
     }
   },
-  "last_updated": "2026-04-10T18:38:59.609620+00:00"
+  "last_updated": "2026-04-11T01:15:36.039827+00:00"
 }
