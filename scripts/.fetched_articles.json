@@ -1,105 +1,5 @@
 {
   "articles": {
-    "a4e84bab0e021f9d": {
-      "title": "It's open season for refusing AI",
-      "fetched_at": "2026-04-04T05:13:56.672178+00:00"
-    },
-    "9eb7c2edbaf41a6d": {
-      "title": "Anthropic宣布正式封杀OpenClaw",
-      "fetched_at": "2026-04-04T05:13:57.360770+00:00"
-    },
-    "9bdc6030c1655972": {
-      "title": "我国主导国际学术期刊Vita将出版",
-      "fetched_at": "2026-04-04T05:13:57.971779+00:00"
-    },
-    "91dc2d8bc3d9f627": {
-      "title": "千问AI打车上线两周：假期需求暴涨，周环比增长超1500%",
-      "fetched_at": "2026-04-04T05:13:58.586436+00:00"
-    },
-    "586c54d9a9edaf0a": {
-      "title": "ModelReins – The Browser for AI Tools",
-      "fetched_at": "2026-04-04T05:13:59.215534+00:00"
-    },
-    "f298263dd6a8b495": {
-      "title": "小鹏回应澳大利亚独家经销商合作破裂",
-      "fetched_at": "2026-04-04T05:14:00.017769+00:00"
-    },
-    "f70a896c635dc69c": {
-      "title": "马斯克要求参与SpaceX IPO的公司购买Grok",
-      "fetched_at": "2026-04-04T05:14:00.648951+00:00"
-    },
-    "9b2d512a0afb72bc": {
-      "title": "AI agents are now playing Mafia (social deduction with humans)",
-      "fetched_at": "2026-04-04T05:14:01.327113+00:00"
-    },
-    "ba44acf12ec7e2b7": {
-      "title": "Let's be Honest about AI Coding",
-      "fetched_at": "2026-04-04T05:14:01.953560+00:00"
-    },
-    "df11b487798aea58": {
-      "title": "千问3.6Plus大模型登顶全球模型调用排行榜首",
-      "fetched_at": "2026-04-04T05:14:02.566756+00:00"
-    },
-    "19d3bdd769d53216": {
-      "title": "全国铁路今天预计发送旅客2190万人次",
-      "fetched_at": "2026-04-04T05:14:03.198396+00:00"
-    },
-    "6ca8c18781f833ee": {
-      "title": "Billion dollar AI company was built on lies [video]",
-      "fetched_at": "2026-04-04T05:14:03.822328+00:00"
-    },
-    "1dc56ba26ba905f0": {
-      "title": "国家统计局：3月下旬生猪价格环比下降5.9%",
-      "fetched_at": "2026-04-04T05:14:04.455596+00:00"
-    },
-    "2476f408cf90fe61": {
-      "title": "Show HN: MicroSafe-RL – Deterministic 1.18µs safety layer for Edge AI",
-      "fetched_at": "2026-04-04T05:14:05.088384+00:00"
-    },
-    "82789b55f7025669": {
-      "title": "AI seed startups are commanding higher valuations",
-      "fetched_at": "2026-04-04T05:14:05.866751+00:00"
-    },
-    "df3be6e15d149ced": {
-      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-      "fetched_at": "2026-04-04T05:14:06.543051+00:00"
-    },
-    "01f78c53a1250b6e": {
-      "title": "Meta超智能实验室或正在组建硬件团队",
-      "fetched_at": "2026-04-04T05:14:07.161136+00:00"
-    },
-    "79c61d8af18b9c0a": {
-      "title": "ClawTrak – free tool to check if your AI product is invisible to AI agents",
-      "fetched_at": "2026-04-04T05:14:07.827619+00:00"
-    },
-    "6051267214937ad9": {
-      "title": "2025年我国商业航天核心产业规模超万亿元",
-      "fetched_at": "2026-04-04T05:14:08.456689+00:00"
-    },
-    "4ef16873b5abca3a": {
-      "title": "Meta lays off hundreds as tech giant pushes forward with AI investment",
-      "fetched_at": "2026-04-04T05:14:09.086986+00:00"
-    },
-    "b012c9b5f090d1c2": {
-      "title": "柯文哲「京華城」貪污案：一審判囚17年，喪失2028總統參選資格",
-      "fetched_at": "2026-04-04T05:14:12.188073+00:00"
-    },
-    "6254853e2026b81d": {
-      "title": "Friday Archaeology: A 25-Year-Old Crypto Library, the Cult of the Dead Cow",
-      "fetched_at": "2026-04-04T05:14:14.307608+00:00"
-    },
-    "085455b4f65295f4": {
-      "title": "Researchers Secure NSF Grant to Test Ancient Fern as Carbon Offset Soln (2025)",
-      "fetched_at": "2026-04-04T05:14:14.942970+00:00"
-    },
-    "9e6e0f9a436e557c": {
-      "title": "Oldest dog identified at ancient hunter-gatherer site",
-      "fetched_at": "2026-04-04T05:14:15.591100+00:00"
-    },
-    "31bd24a8d575aebe": {
-      "title": "This cow uses tools like a primate—and scientists are stunned",
-      "fetched_at": "2026-04-04T05:14:16.309974+00:00"
-    },
     "4ce4005ce5ae7e4d": {
       "title": "浙江嘉兴港首次实现重大件设备直通欧洲",
       "fetched_at": "2026-04-04T07:59:44.513952+00:00"
@@ -3623,7 +3523,95 @@
     "c4b7b7f2ec6dc048": {
       "title": "Scientists discover why flu and COVID hit older adults so hard",
       "fetched_at": "2026-04-12T01:25:07.565906+00:00"
+    },
+    "916560cdfca0ce15": {
+      "title": "上海二手房单日成交1632套：连续打破5年峰值纪录 高端房源成交占比提升",
+      "fetched_at": "2026-04-12T07:02:44.062700+00:00"
+    },
+    "fbd749af18291fe7": {
+      "title": "Ask HN: Do you trust AI agents with API keys / private keys?",
+      "fetched_at": "2026-04-12T07:02:44.662560+00:00"
+    },
+    "294d0f01c2eafbaa": {
+      "title": "The AI Layoff Trap",
+      "fetched_at": "2026-04-12T07:02:45.332076+00:00"
+    },
+    "56058e5758bc31fd": {
+      "title": "自然资源部：一季度我国办理不动产“带押过户”9万笔",
+      "fetched_at": "2026-04-12T07:02:45.937155+00:00"
+    },
+    "ac17daed51c8ce8d": {
+      "title": "Frugal AI for Education",
+      "fetched_at": "2026-04-12T07:02:46.535378+00:00"
+    },
+    "44c3690d3309cb60": {
+      "title": "日本3月机床订单额增长28% 海外订单增40%",
+      "fetched_at": "2026-04-12T07:02:47.172519+00:00"
+    },
+    "4197c08971de6ab7": {
+      "title": "Code Mode: Let Your AI Write Programs, Not Just Call Tools",
+      "fetched_at": "2026-04-12T07:02:47.783826+00:00"
+    },
+    "39e0abb615537f6d": {
+      "title": "Science Communication and the Hype Machine",
+      "fetched_at": "2026-04-12T07:02:48.571932+00:00"
+    },
+    "72e93b4a46851656": {
+      "title": "联合国环境署呼吁推动航天活动可持续发展",
+      "fetched_at": "2026-04-12T07:02:49.168317+00:00"
+    },
+    "7ea15f6d3a2eb240": {
+      "title": "Show HN: I visualized how AI agent systems accidentally become org charts",
+      "fetched_at": "2026-04-12T07:02:49.779322+00:00"
+    },
+    "5678e09c7cd8f641": {
+      "title": "乘联分会崔东树：预计2026年汽车总批发量3480万辆 同比增长1%",
+      "fetched_at": "2026-04-12T07:02:50.408071+00:00"
+    },
+    "831724eb5e67356b": {
+      "title": "Intel Arc Pro B70 Brings 32GB VRAM to Local AI for $949",
+      "fetched_at": "2026-04-12T07:02:51.060399+00:00"
+    },
+    "61470dca39c44454": {
+      "title": "Graft – Go AI Agent Framework with Temporal/Hatchet/Trigger.dev Support",
+      "fetched_at": "2026-04-12T07:02:51.693797+00:00"
+    },
+    "f99081633c7c7c80": {
+      "title": "India's TCS tops estimates, says new AI models did not dent services demand",
+      "fetched_at": "2026-04-12T07:02:52.305977+00:00"
+    },
+    "b5fd306e59219cfe": {
+      "title": "俄罗斯黑海沿岸区域超130只海豚死亡",
+      "fetched_at": "2026-04-12T07:02:52.942790+00:00"
+    },
+    "91a321702b89db57": {
+      "title": "海南自贸港全球产业招商大会低空经济专场将于14日举办",
+      "fetched_at": "2026-04-12T07:02:53.544153+00:00"
+    },
+    "f7109f0d218d501f": {
+      "title": "Gen Z's fading AI hype",
+      "fetched_at": "2026-04-12T07:02:54.202393+00:00"
+    },
+    "0719b83443af9a7a": {
+      "title": "长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上",
+      "fetched_at": "2026-04-12T07:02:54.825016+00:00"
+    },
+    "6f7123e31d02fe0b": {
+      "title": "Strong feeling: we are in a folded AI reality",
+      "fetched_at": "2026-04-12T07:02:55.564227+00:00"
+    },
+    "7a99b84c83b2e0a7": {
+      "title": "Catalog of AI Knowledge Retrieval, Memory and RAG Systems",
+      "fetched_at": "2026-04-12T07:02:56.253291+00:00"
+    },
+    "cfbf18555942700b": {
+      "title": "美伊馬拉松和談失敗 萬斯從巴基斯坦「空手而回」",
+      "fetched_at": "2026-04-12T07:02:59.420768+00:00"
+    },
+    "76896438f6cad614": {
+      "title": "鄭麗文訪陸尾聲 中共台辦公佈兩岸交流「十項措施」",
+      "fetched_at": "2026-04-12T07:03:00.016766+00:00"
     }
   },
-  "last_updated": "2026-04-12T01:25:07.702089+00:00"
+  "last_updated": "2026-04-12T07:03:02.523705+00:00"
 }
