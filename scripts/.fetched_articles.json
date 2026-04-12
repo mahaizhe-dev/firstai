@@ -1,129 +1,5 @@
 {
   "articles": {
-    "979954ca043dcffd": {
-      "title": "AI Is Rewiring India's Film Industry",
-      "fetched_at": "2026-04-04T14:02:55.262039+00:00"
-    },
-    "1315f8f4b2336121": {
-      "title": "An AI agent called every pub in Ireland to index the cost of a Guinness",
-      "fetched_at": "2026-04-04T14:02:55.901693+00:00"
-    },
-    "e41a63f7769f2072": {
-      "title": "The science behind Japan's perfectly crafted vending machine drinks",
-      "fetched_at": "2026-04-04T14:02:56.525116+00:00"
-    },
-    "10544b6eef124836": {
-      "title": "Show HN: Batty – Run a team of AI coding agents in tmux with test gating",
-      "fetched_at": "2026-04-04T14:02:57.152118+00:00"
-    },
-    "f64408fd5eb91680": {
-      "title": "UK's leading AI research institute told to make 'significant' changes",
-      "fetched_at": "2026-04-04T14:02:57.762409+00:00"
-    },
-    "a49e4303b01602da": {
-      "title": "Really, you made this without AI? Prove it",
-      "fetched_at": "2026-04-04T14:02:58.389658+00:00"
-    },
-    "f7e3551486485a4c": {
-      "title": "Show HN: Engram – Persistent Memory API with Drift Detection for AI Agents",
-      "fetched_at": "2026-04-04T14:02:59.010660+00:00"
-    },
-    "95b65f9220528238": {
-      "title": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
-      "fetched_at": "2026-04-04T14:02:59.712255+00:00"
-    },
-    "e239b9db6343f1b2": {
-      "title": "Blur Blitz – a visual Wordle where AI scores how close your guess is",
-      "fetched_at": "2026-04-04T14:03:00.338158+00:00"
-    },
-    "f0db947e4194d81b": {
-      "title": "The Asiyah Protocol: Ethics Toward AI Under Uncertainty",
-      "fetched_at": "2026-04-04T14:03:01.033813+00:00"
-    },
-    "87b2da77c1d3e51b": {
-      "title": "Delx: AI therapist for AI agents, informed by Anthropic's emotion research",
-      "fetched_at": "2026-04-04T14:03:01.649328+00:00"
-    },
-    "30d78ee65be9ac2b": {
-      "title": "Show HN: Clusterflock: An AI orchestrator for networked hardware",
-      "fetched_at": "2026-04-04T14:03:02.279463+00:00"
-    },
-    "cd11754f05601226": {
-      "title": "Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools",
-      "fetched_at": "2026-04-04T14:03:02.896735+00:00"
-    },
-    "28347331e0932874": {
-      "title": "Don't You Think Your AI Is Too Optimistic?",
-      "fetched_at": "2026-04-04T14:03:03.518750+00:00"
-    },
-    "953e839c64ab3440": {
-      "title": "Living Brain Cells Enable Machine Learning Computations",
-      "fetched_at": "2026-04-04T14:03:04.144477+00:00"
-    },
-    "382288921eabeb28": {
-      "title": "How to emotionally grasp the risks of AI Safety",
-      "fetched_at": "2026-04-04T14:03:04.747537+00:00"
-    },
-    "9c7cdc9850825304": {
-      "title": "Honest AI tool reviews. Two good things. One bad thing",
-      "fetched_at": "2026-04-04T14:03:05.402585+00:00"
-    },
-    "712c0c236fc63c05": {
-      "title": "SereneCode – Formal verification framework for AI-generated Python code",
-      "fetched_at": "2026-04-04T14:03:06.015688+00:00"
-    },
-    "aa5b74e31fc32432": {
-      "title": "GEOscore – Check if AI assistants can find and cite your website",
-      "fetched_at": "2026-04-04T14:03:06.625238+00:00"
-    },
-    "81942158a8b72302": {
-      "title": "GPUs vs. TPUs: Decoding the Powerhouses of AI",
-      "fetched_at": "2026-04-04T14:03:07.277212+00:00"
-    },
-    "5b348c7aab33c57a": {
-      "title": "Octopus quiz: Are you a sucker for cephalopod science?",
-      "fetched_at": "2026-04-04T14:03:10.921659+00:00"
-    },
-    "fa388c83d5575ae0": {
-      "title": "Science news this week: Artemis II lifts off, diabetes cured in mice, and smog in China shapes Arctic storms",
-      "fetched_at": "2026-04-04T14:03:11.544518+00:00"
-    },
-    "98dcef45f2055fb1": {
-      "title": "I've witnessed nearly 100 rocket launches. Artemis II was like nothing I've ever experienced.",
-      "fetched_at": "2026-04-04T14:03:12.447532+00:00"
-    },
-    "f2ec77d95fc3ca3e": {
-      "title": "Are allergies genetic?",
-      "fetched_at": "2026-04-04T14:03:13.061738+00:00"
-    },
-    "7d6399b18c663541": {
-      "title": "These overlooked brain cells may control fear and PTSD",
-      "fetched_at": "2026-04-04T14:03:13.678964+00:00"
-    },
-    "668588e6d25d854d": {
-      "title": "Dying stars are devouring giant planets, astronomers discover",
-      "fetched_at": "2026-04-04T14:03:14.335656+00:00"
-    },
-    "4648890e01f62b82": {
-      "title": "Students found a star from the dawn of the universe drifting into the Milky Way",
-      "fetched_at": "2026-04-04T14:03:14.967908+00:00"
-    },
-    "8e726779f2590527": {
-      "title": "Scientists reveal new blood pressure treatment that works when others fail",
-      "fetched_at": "2026-04-04T14:03:15.596545+00:00"
-    },
-    "ab496671fb7acf3c": {
-      "title": "Meteor impacts may have sparked life on Earth, scientists say",
-      "fetched_at": "2026-04-04T14:03:16.359569+00:00"
-    },
-    "6b47cb11ae404989": {
-      "title": "Saturn’s magnetic field is twisted and scientists just figured out why",
-      "fetched_at": "2026-04-04T14:03:17.000684+00:00"
-    },
-    "7b45a5c466aa2ba4": {
-      "title": "Scientists create “smart” DNA drug that targets cancer cells with extreme precision",
-      "fetched_at": "2026-04-04T14:03:17.626676+00:00"
-    },
     "dca271abee56b660": {
       "title": "it's not Ai if the LLM is not in control",
       "fetched_at": "2026-04-04T19:44:54.959976+00:00"
@@ -3639,7 +3515,135 @@
     "6d40a35ad2b61ef6": {
       "title": "The Universe is expanding too fast and scientists still can’t explain it",
       "fetched_at": "2026-04-12T12:37:12.592168+00:00"
+    },
+    "0f9efa47371428e3": {
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "fetched_at": "2026-04-12T18:32:24.574725+00:00"
+    },
+    "6fb117398947c8db": {
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "fetched_at": "2026-04-12T18:32:25.207264+00:00"
+    },
+    "d01986a711a30cdc": {
+      "title": "启明星辰：第一季度净利润同比预增2279.31%—3281.13%",
+      "fetched_at": "2026-04-12T18:32:25.830326+00:00"
+    },
+    "95b5b8665e3aa5a7": {
+      "title": "长药退：公司股票将在4月13日被摘牌",
+      "fetched_at": "2026-04-12T18:32:26.460947+00:00"
+    },
+    "81382a25effa5ce9": {
+      "title": "元戎启行CEO周光：解决小模型的“跷跷板效应”，必须转向大模型范式",
+      "fetched_at": "2026-04-12T18:32:27.085063+00:00"
+    },
+    "964f87d16bbccc64": {
+      "title": "特朗普政府将打击赴美生子",
+      "fetched_at": "2026-04-12T18:32:27.714819+00:00"
+    },
+    "013e44d4d1f1b89d": {
+      "title": "特斯拉受监督版全自动驾驶系统获准在荷兰使用",
+      "fetched_at": "2026-04-12T18:32:28.371431+00:00"
+    },
+    "1f6a6150a233e9a8": {
+      "title": "我国超87%留学人员选择回国发展",
+      "fetched_at": "2026-04-12T18:32:29.001489+00:00"
+    },
+    "6d26635e48c0333c": {
+      "title": "新版“海南省智能网联汽车管理办法”拟4、5月发布",
+      "fetched_at": "2026-04-12T18:32:29.630977+00:00"
+    },
+    "f779976374c42cb3": {
+      "title": "我国复用航天器关键部件研制成功",
+      "fetched_at": "2026-04-12T18:32:30.260025+00:00"
+    },
+    "26ad015386e3b2cc": {
+      "title": "Your article about AI doesn’t need AI art",
+      "fetched_at": "2026-04-12T18:32:30.982555+00:00"
+    },
+    "b6a199897530d566": {
+      "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+      "fetched_at": "2026-04-12T18:32:31.605173+00:00"
+    },
+    "1b380257f80a71e2": {
+      "title": "How Iran out-shitposted the White House",
+      "fetched_at": "2026-04-12T18:32:32.219960+00:00"
+    },
+    "de2cd9b133f133df": {
+      "title": "为什么有钱人也不买GUCCI了？",
+      "fetched_at": "2026-04-12T18:32:32.920788+00:00"
+    },
+    "c25e607e87feb0e3": {
+      "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
+      "fetched_at": "2026-04-12T18:32:33.910914+00:00"
+    },
+    "5c9f5cae6b72971e": {
+      "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+      "fetched_at": "2026-04-12T18:32:34.542229+00:00"
+    },
+    "64ea01428944114b": {
+      "title": "那个“爱马仕”，想拯救“智障”小龙虾",
+      "fetched_at": "2026-04-12T18:32:35.240384+00:00"
+    },
+    "5701cb991990c798": {
+      "title": "雷军投的\"红娘\"要去IPO了",
+      "fetched_at": "2026-04-12T18:32:36.068867+00:00"
+    },
+    "af086e940379da5e": {
+      "title": "低空经济第一股，来了",
+      "fetched_at": "2026-04-12T18:32:36.837750+00:00"
+    },
+    "a2fcc919a4f555ba": {
+      "title": "Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
+      "fetched_at": "2026-04-12T18:32:37.503965+00:00"
+    },
+    "8875e5dfd3adc04e": {
+      "title": "美伊馬拉松和談失敗 特朗普下令「封鎖」霍爾木茲海峽",
+      "fetched_at": "2026-04-12T18:32:40.567954+00:00"
+    },
+    "cd3f4ee74e597399": {
+      "title": "「鄭習會」國共領袖握手13秒，鄭麗文講話未畢直播被切斷",
+      "fetched_at": "2026-04-12T18:32:41.191293+00:00"
+    },
+    "731f95df4b1895d7": {
+      "title": "從全紅嬋的哽咽到飯圈再現 體育明星遭「侵入式監控」難題待解",
+      "fetched_at": "2026-04-12T18:32:41.815066+00:00"
+    },
+    "eeb4aa808364f712": {
+      "title": "宏福苑火災首輪聽證會復盤：倖存災民為何開始有所期望",
+      "fetched_at": "2026-04-12T18:32:42.425479+00:00"
+    },
+    "afaf9b3a7d15dcd7": {
+      "title": "Historical Java (2014)",
+      "fetched_at": "2026-04-12T18:32:45.267045+00:00"
+    },
+    "95a2758a2fa293f4": {
+      "title": "Human ancestors butchered and ate elephants 1.8 million years ago, helping to fuel their large brains",
+      "fetched_at": "2026-04-12T18:32:45.882621+00:00"
+    },
+    "5c0e986f756d8259": {
+      "title": "Ancient Egyptian stone monument depicting a Roman emperor as a pharaoh discovered in Luxor",
+      "fetched_at": "2026-04-12T18:32:46.519994+00:00"
+    },
+    "fbc306f22136579f": {
+      "title": "Why Ozempic doesn’t work for everyone: Scientists just found a hidden reason",
+      "fetched_at": "2026-04-12T18:32:47.134321+00:00"
+    },
+    "6d70ce7a4c4c32f1": {
+      "title": "Neandertals may have hunted and eaten outsiders, chilling cannibalism study finds",
+      "fetched_at": "2026-04-12T18:32:47.997264+00:00"
+    },
+    "78759cb10c8ff2c1": {
+      "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+      "fetched_at": "2026-04-12T18:32:48.684991+00:00"
+    },
+    "22724d8a86ef7609": {
+      "title": "How aggressive breast cancer turns off the immune system",
+      "fetched_at": "2026-04-12T18:32:49.299961+00:00"
+    },
+    "c932b5a9b7fc6efb": {
+      "title": "Hidden weak spots in HIV and Ebola revealed with breakthrough nanodisc technology",
+      "fetched_at": "2026-04-12T18:32:49.933348+00:00"
     }
   },
-  "last_updated": "2026-04-12T12:37:12.727920+00:00"
+  "last_updated": "2026-04-12T18:32:50.076508+00:00"
 }
