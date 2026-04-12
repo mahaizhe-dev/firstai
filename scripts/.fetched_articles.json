@@ -1,109 +1,5 @@
 {
   "articles": {
-    "3033b857985b5ac0": {
-      "title": "We Built a Language for AI Pipelines",
-      "fetched_at": "2026-04-03T19:54:45.659732+00:00"
-    },
-    "cbb8e331a8497368": {
-      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-      "fetched_at": "2026-04-03T19:54:46.267984+00:00"
-    },
-    "1625ab773a338259": {
-      "title": "Show HN: A memory layer for AI agents that organizes itself",
-      "fetched_at": "2026-04-03T19:54:46.886269+00:00"
-    },
-    "964d1e4caa140678": {
-      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
-      "fetched_at": "2026-04-03T19:54:47.508011+00:00"
-    },
-    "57a3031ca223f628": {
-      "title": "Author of 'Why Nations Fail' warns U.S. democracy won't survive AI job-pocalypse",
-      "fetched_at": "2026-04-03T19:54:48.141270+00:00"
-    },
-    "c37d732770332795": {
-      "title": "Show HN: Easy and affordable human-first cloud security tool with optional AI",
-      "fetched_at": "2026-04-03T19:54:48.755173+00:00"
-    },
-    "bdb512cda4b54561": {
-      "title": "XC Scribe – AI product description generator with direct e-commerce sync",
-      "fetched_at": "2026-04-03T19:54:49.373296+00:00"
-    },
-    "77f33dd705643007": {
-      "title": "AI can sort of code, can't write",
-      "fetched_at": "2026-04-03T19:54:49.990670+00:00"
-    },
-    "a2fec29ea58c15bb": {
-      "title": "Engineering AI",
-      "fetched_at": "2026-04-03T19:54:50.646283+00:00"
-    },
-    "d8786d2e84a22cfa": {
-      "title": "An AI agent economy where agents are city citizens that can hire humans",
-      "fetched_at": "2026-04-03T19:54:51.309363+00:00"
-    },
-    "9b68861b1d65f7a1": {
-      "title": "Show HN: Prismle – I built an AI assistant you use by forwarding emails to it",
-      "fetched_at": "2026-04-03T19:54:52.025092+00:00"
-    },
-    "7e18bf53d41ee041": {
-      "title": "Penalties stack up as AI spreads through the legal system",
-      "fetched_at": "2026-04-03T19:54:52.637373+00:00"
-    },
-    "9732605663e8ffc6": {
-      "title": "Ask HN: Should Repo Hubs Split Content into AI/Non-AI?",
-      "fetched_at": "2026-04-03T19:54:53.324218+00:00"
-    },
-    "f96db9ba097a29d5": {
-      "title": "The design of AI memory systems",
-      "fetched_at": "2026-04-03T19:54:53.937152+00:00"
-    },
-    "8d5a4f9f86fb3b21": {
-      "title": "Show HN: Startup Domain Search – Free AI Domain Generator with Scoring and RDAP",
-      "fetched_at": "2026-04-03T19:54:54.560642+00:00"
-    },
-    "f44b9e8dbc792321": {
-      "title": "A furore over AI and a novel presages the future of books",
-      "fetched_at": "2026-04-03T19:54:55.200012+00:00"
-    },
-    "19f31eb7af641e0c": {
-      "title": "LLM Knowledge Bases",
-      "fetched_at": "2026-04-03T19:54:55.821534+00:00"
-    },
-    "15ba50b1065d1194": {
-      "title": "Show HN: LLM Token Cost Calculator",
-      "fetched_at": "2026-04-03T19:54:56.450490+00:00"
-    },
-    "b6a745689fbaaf78": {
-      "title": "Manuscript: A writing workspace where AI reads but never writes",
-      "fetched_at": "2026-04-03T19:54:57.171625+00:00"
-    },
-    "d5a5b31d3b696bf2": {
-      "title": "Genesis – Desktop AI with persistent memory, 11 agents. Buy once, own forever",
-      "fetched_at": "2026-04-03T19:54:57.788554+00:00"
-    },
-    "e53c464c8e22142e": {
-      "title": "Show HN: PMFounder – Problem discovery for PMs who want to build",
-      "fetched_at": "2026-04-03T19:55:03.408769+00:00"
-    },
-    "2ed5452e39e7af94": {
-      "title": "12,900-Year-Old Dice Identified Among Native American Artifacts",
-      "fetched_at": "2026-04-03T19:55:04.052273+00:00"
-    },
-    "0b74cd8fd10daebe": {
-      "title": "Where Did Bronze Age Mongolians Prepare Their Feasts?",
-      "fetched_at": "2026-04-03T19:55:04.686805+00:00"
-    },
-    "ac094a0f831a7e59": {
-      "title": "19th-Century Danish Warship Discovered in Copenhagen Harbor",
-      "fetched_at": "2026-04-03T19:55:05.302526+00:00"
-    },
-    "2a9b70aa582654c1": {
-      "title": "'Trust us; you look amazing': Artemis II crewmembers share first message from space",
-      "fetched_at": "2026-04-03T19:55:05.935555+00:00"
-    },
-    "d0a9244461fa153b": {
-      "title": "Homo habilis is the earliest named human. But is it even human?",
-      "fetched_at": "2026-04-03T19:55:06.586634+00:00"
-    },
     "a4e84bab0e021f9d": {
       "title": "It's open season for refusing AI",
       "fetched_at": "2026-04-04T05:13:56.672178+00:00"
@@ -3631,7 +3527,103 @@
     "84377fafabb7ee64": {
       "title": "Scientists finally crack mystery of rare COVID vaccine blood clots",
       "fetched_at": "2026-04-11T18:28:56.057559+00:00"
+    },
+    "cfc08536a862f787": {
+      "title": "NeoBaby Phoebe Gates wants her $185M AI startup Phia to succeed",
+      "fetched_at": "2026-04-12T01:24:44.230347+00:00"
+    },
+    "bc70973887f78863": {
+      "title": "台风“森拉克”已加强为强台风级 逐渐靠近美国关岛附近",
+      "fetched_at": "2026-04-12T01:24:44.860121+00:00"
+    },
+    "016fa5948b75f74d": {
+      "title": "After the Attack on Sam Altman's Home, Will AI CEOs Go on the Offensive?",
+      "fetched_at": "2026-04-12T01:24:45.485101+00:00"
+    },
+    "d9bc897956a4e1af": {
+      "title": "AI Job Loss Tracker",
+      "fetched_at": "2026-04-12T01:24:46.168452+00:00"
+    },
+    "62f5dd84c69d8e0c": {
+      "title": "Hungary 2026 – Chat with 1k AI-simulated voters before the election",
+      "fetched_at": "2026-04-12T01:24:46.798581+00:00"
+    },
+    "c5bed1be49cd99b4": {
+      "title": "Forecasting the economic effects of AI",
+      "fetched_at": "2026-04-12T01:24:47.419701+00:00"
+    },
+    "85e5781d5a4cc7e0": {
+      "title": "Predict-Rlm: The LLM Runtime That Lets Models Write Their Own Control Flow",
+      "fetched_at": "2026-04-12T01:24:48.053895+00:00"
+    },
+    "6e64287f0a43c074": {
+      "title": "AI will test governments on jobs, training, and public trust",
+      "fetched_at": "2026-04-12T01:24:48.679444+00:00"
+    },
+    "f22abd80eb85fbf9": {
+      "title": "Can AI be a 'child of God'? Inside Anthropic's meeting with Christian leaders",
+      "fetched_at": "2026-04-12T01:24:49.338331+00:00"
+    },
+    "740caf6e5870d2d2": {
+      "title": "How to Switch AI Chatbots and Why You Might Want To",
+      "fetched_at": "2026-04-12T01:24:49.972585+00:00"
+    },
+    "b17139d460572c03": {
+      "title": "Tinker: Play with AI, bring your ideas to life",
+      "fetched_at": "2026-04-12T01:24:50.594300+00:00"
+    },
+    "a49db48c57fb95b1": {
+      "title": "Bessent Urgently Summons Bank CEOs over Anthropic's New AI",
+      "fetched_at": "2026-04-12T01:24:51.225155+00:00"
+    },
+    "a6fd7b1ec8d3a3ab": {
+      "title": "AI for Systems: Using LLMs to Optimize Database Query Execution",
+      "fetched_at": "2026-04-12T01:24:51.850782+00:00"
+    },
+    "c87eab6fd6eba0be": {
+      "title": "Democratic AI to serve the public – OneProject.org",
+      "fetched_at": "2026-04-12T01:24:52.566544+00:00"
+    },
+    "741336959f84bfa4": {
+      "title": "AI Is Tipping the Scales Toward Hackers After Mythos Release",
+      "fetched_at": "2026-04-12T01:24:53.269743+00:00"
+    },
+    "d8ff3de38dd75232": {
+      "title": "Transaction-level provenance for AI art certificate/signed/license on every sale",
+      "fetched_at": "2026-04-12T01:24:53.926742+00:00"
+    },
+    "2cd5f717954a5a50": {
+      "title": "AI still can't figure out PowerPoint",
+      "fetched_at": "2026-04-12T01:24:54.543943+00:00"
+    },
+    "a692d3695d8367f3": {
+      "title": "Tell HN: See the AI Doc",
+      "fetched_at": "2026-04-12T01:24:55.229177+00:00"
+    },
+    "f74838288dd439c8": {
+      "title": "Ask HN: Will AI Redefine Programming?",
+      "fetched_at": "2026-04-12T01:24:55.847686+00:00"
+    },
+    "369d2b2006543cb0": {
+      "title": "The Little Book of Deep Learning",
+      "fetched_at": "2026-04-12T01:24:56.472599+00:00"
+    },
+    "9adac56aba303818": {
+      "title": "This tiny claw in a 500-million-year-old fossil just rewrote the origin of spiders",
+      "fetched_at": "2026-04-12T01:25:05.618349+00:00"
+    },
+    "cac77e878131d015": {
+      "title": "Deafness reversed: One injection restores hearing in just weeks",
+      "fetched_at": "2026-04-12T01:25:06.302276+00:00"
+    },
+    "38d23d6122708489": {
+      "title": "Strange “elephant skin” rocks reveal ancient life in the dark ocean",
+      "fetched_at": "2026-04-12T01:25:06.923980+00:00"
+    },
+    "c4b7b7f2ec6dc048": {
+      "title": "Scientists discover why flu and COVID hit older adults so hard",
+      "fetched_at": "2026-04-12T01:25:07.565906+00:00"
     }
   },
-  "last_updated": "2026-04-11T18:28:56.162931+00:00"
+  "last_updated": "2026-04-12T01:25:07.702089+00:00"
 }
