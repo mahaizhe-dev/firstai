@@ -1,89 +1,5 @@
 {
   "articles": {
-    "4ce4005ce5ae7e4d": {
-      "title": "浙江嘉兴港首次实现重大件设备直通欧洲",
-      "fetched_at": "2026-04-04T07:59:44.513952+00:00"
-    },
-    "cd250dabf73aeec8": {
-      "title": "中国有色金属工业协会硅业分会赴包头开展硅产业深度调研",
-      "fetched_at": "2026-04-04T07:59:45.142768+00:00"
-    },
-    "aaf33595c47c5762": {
-      "title": "Swift package AI inference engine generated from Rust crate",
-      "fetched_at": "2026-04-04T07:59:45.779928+00:00"
-    },
-    "8a2610b8a643a295": {
-      "title": "Show HN: GraphReFly – Reactive graph protocol for human and LLM co-operation",
-      "fetched_at": "2026-04-04T07:59:46.420374+00:00"
-    },
-    "62f186ffbb6e5ac4": {
-      "title": "华泰证券：近期二级市场持续回调，各板块内估值稳健、分派率较高的项目，或有短期交易机会",
-      "fetched_at": "2026-04-04T07:59:47.053990+00:00"
-    },
-    "45cfec954bd4d3d6": {
-      "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
-      "fetched_at": "2026-04-04T07:59:47.707010+00:00"
-    },
-    "583e26f938ff7d7c": {
-      "title": "金饰价格一夜又跌11元",
-      "fetched_at": "2026-04-04T07:59:48.348880+00:00"
-    },
-    "bca86e2a48b239b4": {
-      "title": "一群00后极客和这家机器人公司共处72小时",
-      "fetched_at": "2026-04-04T07:59:48.972371+00:00"
-    },
-    "db5de1db5d5df3bc": {
-      "title": "马航集团去年净利翻番：今年将新增两个中国航点",
-      "fetched_at": "2026-04-04T07:59:49.616808+00:00"
-    },
-    "18c190ba62a23254": {
-      "title": "湾区高铁旅游专列开行，2400名香港旅客畅游内地",
-      "fetched_at": "2026-04-04T07:59:50.243623+00:00"
-    },
-    "9961f73b9a015cc3": {
-      "title": "Show HN: AI Dev Board – Job Board for AI Developers with a Full REST API",
-      "fetched_at": "2026-04-04T07:59:50.946814+00:00"
-    },
-    "48f814365935dd68": {
-      "title": "能源供应趋紧，韩国鼓励非高峰使用公共交通",
-      "fetched_at": "2026-04-04T07:59:51.590089+00:00"
-    },
-    "d99b1e3d7e0d13b9": {
-      "title": "Thoughts on AI and Research [pdf]",
-      "fetched_at": "2026-04-04T07:59:52.221956+00:00"
-    },
-    "3e9287e2ede37729": {
-      "title": "Pre-1900 LLM tries to solve Relativity",
-      "fetched_at": "2026-04-04T07:59:52.858033+00:00"
-    },
-    "f056a3c4e8f9d357": {
-      "title": "美国3月标普全球服务业PMI终值为49.8",
-      "fetched_at": "2026-04-04T07:59:53.469983+00:00"
-    },
-    "0c056eb39ba54a46": {
-      "title": "Ask HN: What's the most repetitive thing you do with AI that you wish it just re",
-      "fetched_at": "2026-04-04T07:59:54.087342+00:00"
-    },
-    "03894af75c45ec40": {
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "fetched_at": "2026-04-04T07:59:54.810062+00:00"
-    },
-    "faf295a9f807eabe": {
-      "title": "意大利央行下调未来三年经济增长预期",
-      "fetched_at": "2026-04-04T07:59:55.432897+00:00"
-    },
-    "41ef981d6799c125": {
-      "title": "Extracting System Prompt and Model Identity from Telegram's AI. It's Qwen 3.5",
-      "fetched_at": "2026-04-04T07:59:56.134844+00:00"
-    },
-    "5eacd0e1a9da4a99": {
-      "title": "中金：黄金投资需求和价格或均存向上修复空间",
-      "fetched_at": "2026-04-04T07:59:56.822865+00:00"
-    },
-    "30b1bb47fd39cd0b": {
-      "title": "特朗普計劃推遲訪華 對中國來說意味著什麼",
-      "fetched_at": "2026-04-04T07:59:59.815593+00:00"
-    },
     "979954ca043dcffd": {
       "title": "AI Is Rewiring India's Film Industry",
       "fetched_at": "2026-04-04T14:02:55.262039+00:00"
@@ -3611,7 +3527,119 @@
     "76896438f6cad614": {
       "title": "鄭麗文訪陸尾聲 中共台辦公佈兩岸交流「十項措施」",
       "fetched_at": "2026-04-12T07:03:00.016766+00:00"
+    },
+    "a5b8c6fb340f8211": {
+      "title": "Why AI Sucks at Front End",
+      "fetched_at": "2026-04-12T12:36:17.914037+00:00"
+    },
+    "c677c80e1c35fc38": {
+      "title": "LLM Wiki Skill: Build a Second Brain with Claude Code and Obsidian",
+      "fetched_at": "2026-04-12T12:36:18.587817+00:00"
+    },
+    "ae660c932ca5bcb2": {
+      "title": "HubVanta AI",
+      "fetched_at": "2026-04-12T12:36:19.207934+00:00"
+    },
+    "627a63932685a241": {
+      "title": "The AI code wars are heating up",
+      "fetched_at": "2026-04-12T12:36:19.842812+00:00"
+    },
+    "f3804f04438abff3": {
+      "title": "Show HN: Android AI agent-assistant operating your apps (no adb,PC,root,etc.)",
+      "fetched_at": "2026-04-12T12:36:20.485873+00:00"
+    },
+    "7439bb190ebcd87e": {
+      "title": "Nb – Notebook CLI designed for both humans and AI agents",
+      "fetched_at": "2026-04-12T12:36:21.212887+00:00"
+    },
+    "5e5993a000f1497a": {
+      "title": "The Abstraction Fallacy: Why AI Can Simulate but Not Instantiate Consciousness",
+      "fetched_at": "2026-04-12T12:36:21.993065+00:00"
+    },
+    "7182368b7712184e": {
+      "title": "Decision Passport verifiable AI decision records",
+      "fetched_at": "2026-04-12T12:36:22.652881+00:00"
+    },
+    "5815f430297a7628": {
+      "title": "I built an LLM Wiki and RAG solution: here's a demo for a security KB",
+      "fetched_at": "2026-04-12T12:36:23.277525+00:00"
+    },
+    "771baf4471a6a1b1": {
+      "title": "Strong Model First or Weak Model First? A Cost Study for Multi-Step LLM Agents",
+      "fetched_at": "2026-04-12T12:36:23.895059+00:00"
+    },
+    "fb0a8a56c5bda9b3": {
+      "title": "Running AI Agents in a Sandbox",
+      "fetched_at": "2026-04-12T12:36:24.510818+00:00"
+    },
+    "f484ba96923622f0": {
+      "title": "星元晶算发布1nm芯片路线图",
+      "fetched_at": "2026-04-12T12:36:25.198119+00:00"
+    },
+    "63c1c56d731693ea": {
+      "title": "轻舟智航于骞：智能汽车的AI能力已完成三次关键进化，2026年迈入超人智能的新阶段",
+      "fetched_at": "2026-04-12T12:36:25.922072+00:00"
+    },
+    "e35e83e1035c6dd1": {
+      "title": "我是如何进行文件管理的",
+      "fetched_at": "2026-04-12T12:36:26.731349+00:00"
+    },
+    "c29002563e08ce7f": {
+      "title": "Happy Horse AI",
+      "fetched_at": "2026-04-12T12:36:27.340113+00:00"
+    },
+    "036432e0ca442aae": {
+      "title": "粤桂股份：第一季度净利润同比预增67.72%—98.53%",
+      "fetched_at": "2026-04-12T12:36:27.968747+00:00"
+    },
+    "22bd73bf9d47661c": {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "fetched_at": "2026-04-12T12:36:28.808091+00:00"
+    },
+    "faa32f7cbaf24af8": {
+      "title": "The Federal Government Is Rushing Toward AI",
+      "fetched_at": "2026-04-12T12:36:29.440506+00:00"
+    },
+    "e5b45dc7e90e514f": {
+      "title": "I gave my AI shell access and felt uneasy – so I sandboxed it",
+      "fetched_at": "2026-04-12T12:36:30.066867+00:00"
+    },
+    "0c5c3b9cc3ce16fd": {
+      "title": "荣耀机器人“闪电”“元气仔”出征北京亦庄马拉松",
+      "fetched_at": "2026-04-12T12:36:30.682431+00:00"
+    },
+    "9f03f5e146055785": {
+      "title": "梅拉尼婭·特朗普的演說讓愛潑斯坦危機再次成為焦點",
+      "fetched_at": "2026-04-12T12:36:33.115728+00:00"
+    },
+    "1473b96a6b9f4db2": {
+      "title": "鄭麗文結束訪陸北京發對台「十項措施」 台北批「一中框架化」",
+      "fetched_at": "2026-04-12T12:36:33.743268+00:00"
+    },
+    "4f8675d6421ea5de": {
+      "title": "美伊馬拉松和談失敗 萬斯帶著「最後提議」離開巴基斯坦",
+      "fetched_at": "2026-04-12T12:36:34.365801+00:00"
+    },
+    "c952460d8605856d": {
+      "title": "阿提米絲二號繞月任務取得巨大成功，真正的挑戰尚在前面",
+      "fetched_at": "2026-04-12T12:36:35.016056+00:00"
+    },
+    "bccc66f7f7504e3e": {
+      "title": "'Human minds shouldn't have to go through' this: Artemis II crew recalls unreal moment when Earth disappeared — Space photo of the week",
+      "fetched_at": "2026-04-12T12:37:10.371471+00:00"
+    },
+    "00aa313f7a4fc40d": {
+      "title": "Does the moon look the same from everywhere on Earth?",
+      "fetched_at": "2026-04-12T12:37:11.041272+00:00"
+    },
+    "ef8a4a87149cc19e": {
+      "title": "Life on Mars? Tiny cells just survived shock waves and toxic soil",
+      "fetched_at": "2026-04-12T12:37:11.816831+00:00"
+    },
+    "6d40a35ad2b61ef6": {
+      "title": "The Universe is expanding too fast and scientists still can’t explain it",
+      "fetched_at": "2026-04-12T12:37:12.592168+00:00"
     }
   },
-  "last_updated": "2026-04-12T07:03:02.523705+00:00"
+  "last_updated": "2026-04-12T12:37:12.727920+00:00"
 }
