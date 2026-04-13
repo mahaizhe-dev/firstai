@@ -1,117 +1,5 @@
 {
   "articles": {
-    "a1634131ed6041a1": {
-      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-      "fetched_at": "2026-04-05T14:04:24.202230+00:00"
-    },
-    "c0b53e83cf18dc51": {
-      "title": "AI facial analysis that runs in the browser (no uploads, 17 metrics)",
-      "fetched_at": "2026-04-05T14:04:24.818400+00:00"
-    },
-    "cb871748527ca96e": {
-      "title": "Show HN: Cabinet – Kb+LLM (Like Paperclip+Obsidian)",
-      "fetched_at": "2026-04-05T14:04:25.445689+00:00"
-    },
-    "cd80fb112536a93a": {
-      "title": "Myth of the AI Oracle",
-      "fetched_at": "2026-04-05T14:04:26.081260+00:00"
-    },
-    "a48bc5cda344b053": {
-      "title": "Revised: 6-Gate AI Pipeline for RSpec-to-Minitest Migration",
-      "fetched_at": "2026-04-05T14:04:26.739482+00:00"
-    },
-    "f58dd0f159ec226e": {
-      "title": "Show HN: AI-agent instructions to restore Claude Pro/Max in OpenCode",
-      "fetched_at": "2026-04-05T14:04:27.374308+00:00"
-    },
-    "c6f60f007885c4e8": {
-      "title": "Eight years of wanting, three months of building with AI",
-      "fetched_at": "2026-04-05T14:04:28.011313+00:00"
-    },
-    "f7d1139b8a363049": {
-      "title": "Andrej Karpathy on X: LLM Knowledge Bases",
-      "fetched_at": "2026-04-05T14:04:28.623678+00:00"
-    },
-    "8cc3e62c109fe9c1": {
-      "title": "Job title of the moment: \"AI relationship engineer\"",
-      "fetched_at": "2026-04-05T14:04:29.345474+00:00"
-    },
-    "2cf4c39967104333": {
-      "title": "Grammarly’s sloppelganger saga",
-      "fetched_at": "2026-04-05T14:04:29.964448+00:00"
-    },
-    "e1cf0dcce999439f": {
-      "title": "A Machine Became a Metaphor",
-      "fetched_at": "2026-04-05T14:04:30.586360+00:00"
-    },
-    "73c540c1e1951fbd": {
-      "title": "Ask HN: I built WhyOps: A decision-aware observability for AI agents. Thoughts?",
-      "fetched_at": "2026-04-05T14:04:31.213715+00:00"
-    },
-    "35cfef557310464b": {
-      "title": "Growing a better world together with AI",
-      "fetched_at": "2026-04-05T14:04:31.864199+00:00"
-    },
-    "86e8d8aab886a397": {
-      "title": "清明假期第二天 湖南客流1301.83万人次",
-      "fetched_at": "2026-04-05T14:04:32.516757+00:00"
-    },
-    "45934a1223002c7e": {
-      "title": "福田汽车：一季度福田重卡销量超4.4万辆 同比增长近40%",
-      "fetched_at": "2026-04-05T14:04:33.133961+00:00"
-    },
-    "8af77966e160c11c": {
-      "title": "民政部：清明假期第二天各地祭扫活动平稳有序",
-      "fetched_at": "2026-04-05T14:04:33.762056+00:00"
-    },
-    "b8adde0af26decb0": {
-      "title": "4月5日全社会跨区域人员流动量预计超2.6亿人次",
-      "fetched_at": "2026-04-05T14:04:34.387816+00:00"
-    },
-    "30157547bf2314cb": {
-      "title": "Show HN: Vektor – local-first associative memory for AI agents",
-      "fetched_at": "2026-04-05T14:04:35.011175+00:00"
-    },
-    "e2315c3db8e1ae6e": {
-      "title": "机构最新调研路线图出炉，迈瑞医疗最获关注",
-      "fetched_at": "2026-04-05T14:04:35.646590+00:00"
-    },
-    "709f50678fb82f24": {
-      "title": "胖东来再回应“鸡蛋被检出角黄素”",
-      "fetched_at": "2026-04-05T14:04:36.260867+00:00"
-    },
-    "e120209989be567c": {
-      "title": "日本法律大改革：離婚夫妻可共享子女監護權 終結百年「單一親權制」",
-      "fetched_at": "2026-04-05T14:04:39.286529+00:00"
-    },
-    "1e60785122baa845": {
-      "title": "The Todd Group: Open-Source Drug Discovery",
-      "fetched_at": "2026-04-05T14:04:46.067337+00:00"
-    },
-    "db3e4396372089c1": {
-      "title": "Antarctica hides huge caches of gold, silver, copper and iron. As the ice melts, countries may race to harvest them.",
-      "fetched_at": "2026-04-05T14:04:46.738536+00:00"
-    },
-    "76f36a4282698cf0": {
-      "title": "Shroud of Turin, claimed to be Jesus' burial cloth, contaminated with carrot and red coral DNA",
-      "fetched_at": "2026-04-05T14:04:47.367796+00:00"
-    },
-    "c7030301eb49c7af": {
-      "title": "NASA telescope uncovers new mystery in supernova first spotted by Chinese astronomers 2,000 years ago —‬ Space photo of the week",
-      "fetched_at": "2026-04-05T14:04:48.044481+00:00"
-    },
-    "f0151b096f81a753": {
-      "title": "What happened to the Minoan civilization?",
-      "fetched_at": "2026-04-05T14:04:48.678567+00:00"
-    },
-    "643d4dda9dc4ecfc": {
-      "title": "Scientists found a protein that drives brain aging — and how to stop it",
-      "fetched_at": "2026-04-05T14:04:49.299805+00:00"
-    },
-    "73b6d3fa0c1514a3": {
-      "title": "Buried Roman sanctuary discovered beneath Frankfurt hints at shocking rituals",
-      "fetched_at": "2026-04-05T14:04:49.925804+00:00"
-    },
     "f37c7db1560e3771": {
       "title": "Securing AI infrastructure to prevent backdoors and sabotage",
       "fetched_at": "2026-04-05T19:49:58.141577+00:00"
@@ -3667,7 +3555,139 @@
     "90cf1859e8e33026": {
       "title": "Neanderthals may have hunted and eaten outsiders, chilling cannibalism study finds",
       "fetched_at": "2026-04-13T12:59:44.712629+00:00"
+    },
+    "e70bebf0f67d06e8": {
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "fetched_at": "2026-04-13T18:59:35.093283+00:00"
+    },
+    "097b351516f95e80": {
+      "title": "AI ran into the cold hard reality of the legal profession",
+      "fetched_at": "2026-04-13T18:59:35.728897+00:00"
+    },
+    "49087c47fc44811a": {
+      "title": "AI Frontier Model Tracker with API",
+      "fetched_at": "2026-04-13T18:59:36.358730+00:00"
+    },
+    "6acd70f2ee57423c": {
+      "title": "Building a Robust Documentation Agent with DigitalOcean Gradient AI Platform",
+      "fetched_at": "2026-04-13T18:59:37.013631+00:00"
+    },
+    "83f7659c2c408348": {
+      "title": "We're Using So Much AI That Computing Firepower Is Running Out",
+      "fetched_at": "2026-04-13T18:59:37.633691+00:00"
+    },
+    "7169246fb33f15fd": {
+      "title": "Z.ai doubles it's coding plan prices",
+      "fetched_at": "2026-04-13T18:59:38.353658+00:00"
+    },
+    "de3aeb828a456eba": {
+      "title": "Should Men Be Ashamed of Their AI Girlfriends?",
+      "fetched_at": "2026-04-13T18:59:38.976080+00:00"
+    },
+    "892a12f001cfc3b6": {
+      "title": "The Wayback Machine and the Quest for Deleted Fics",
+      "fetched_at": "2026-04-13T18:59:39.618897+00:00"
+    },
+    "7ee96ae7209318d6": {
+      "title": "AI Agents for Economics Research",
+      "fetched_at": "2026-04-13T18:59:40.233282+00:00"
+    },
+    "28f77e2d2eff1a96": {
+      "title": "AI, Gods, and Selves: Effective Illusions [video]",
+      "fetched_at": "2026-04-13T18:59:40.866252+00:00"
+    },
+    "ebe96a70d85c2248": {
+      "title": "Training AI models doesn't emit that much",
+      "fetched_at": "2026-04-13T18:59:41.493549+00:00"
+    },
+    "12c44d4b0b83ae97": {
+      "title": "Evaluating Netflix Show Synopses with LLM-as-a-Judge",
+      "fetched_at": "2026-04-13T18:59:42.113609+00:00"
+    },
+    "3ff4a866d756cf99": {
+      "title": "AI Stupid Level: Independent monitoring fluctuations in AI model performance",
+      "fetched_at": "2026-04-13T18:59:42.771225+00:00"
+    },
+    "9cab79e02bc4518e": {
+      "title": "Ask HN: What do you think are the best legal ways to slow/stop AI development?",
+      "fetched_at": "2026-04-13T18:59:43.394303+00:00"
+    },
+    "e945eb4bb3edacd3": {
+      "title": "Google engineering appears to have the same AI adoption footprint as John Deere",
+      "fetched_at": "2026-04-13T18:59:44.007623+00:00"
+    },
+    "130d27239940bae2": {
+      "title": "Claude Steals Spotlight at HumanX AI Conference",
+      "fetched_at": "2026-04-13T18:59:44.650466+00:00"
+    },
+    "452cbb4528f17458": {
+      "title": "AI chatbots misdiagnose in over 80% of early medical cases, study finds",
+      "fetched_at": "2026-04-13T18:59:45.290201+00:00"
+    },
+    "d87d8150df984b4a": {
+      "title": "Exposed: The Dirty Little Secret of AI (On a 1979 PDP-11) [video]",
+      "fetched_at": "2026-04-13T18:59:46.053414+00:00"
+    },
+    "271d45c3da648c63": {
+      "title": "The Three Realities of AI",
+      "fetched_at": "2026-04-13T18:59:46.745907+00:00"
+    },
+    "de8bca773e9a9e8e": {
+      "title": "Meta creating AI version of Mark Zuckerberg so staff can talk to the boss",
+      "fetched_at": "2026-04-13T18:59:47.376404+00:00"
+    },
+    "ce2a1ab9ca02d0aa": {
+      "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
+      "fetched_at": "2026-04-13T18:59:50.673064+00:00"
+    },
+    "119268edd1f92fe0": {
+      "title": "Homo erectus' tools include stunning geodes and fossils, possibly as a way to connect with the cosmos, study finds",
+      "fetched_at": "2026-04-13T18:59:53.775311+00:00"
+    },
+    "c9afc44bd31aa53f": {
+      "title": "From Fossil to Fact: The Denisova Discovery as Science in Action [pdf]",
+      "fetched_at": "2026-04-13T18:59:54.396894+00:00"
+    },
+    "d4350eba98503830": {
+      "title": "'Really, really weird': Physicists entangle two moving atoms for the first time, validating 'spooky' quantum theory",
+      "fetched_at": "2026-04-13T18:59:55.022105+00:00"
+    },
+    "f7c0807169bafdf7": {
+      "title": "'I have not processed what we just did': Artemis II astronauts share all in first news conference since splashdown",
+      "fetched_at": "2026-04-13T18:59:55.715170+00:00"
+    },
+    "361560b084f9df2e": {
+      "title": "Sacred Water Complex Unearthed in North Sinai",
+      "fetched_at": "2026-04-13T18:59:56.451903+00:00"
+    },
+    "f466cf92371a01c5": {
+      "title": "Open Letter Opposing the Paramount-Warner Bros. Discovery Merger",
+      "fetched_at": "2026-04-13T18:59:57.083614+00:00"
+    },
+    "aee372c1a5154db7": {
+      "title": "Sperm quality is at its peak in the summer, study finds",
+      "fetched_at": "2026-04-13T18:59:57.713141+00:00"
+    },
+    "cba24063d9e1432e": {
+      "title": "'Our historical condition is a peculiar mixture of omniscience and impotence'",
+      "fetched_at": "2026-04-13T18:59:58.342839+00:00"
+    },
+    "943d8284fcdb59f0": {
+      "title": "New toothpaste stops gum disease without killing good bacteria",
+      "fetched_at": "2026-04-13T18:59:58.960450+00:00"
+    },
+    "dfbd7b516b4be5a2": {
+      "title": "Gray whales are entering San Francisco Bay and many aren’t surviving",
+      "fetched_at": "2026-04-13T18:59:59.706729+00:00"
+    },
+    "529b2b0fc620e859": {
+      "title": "Light makes plants stronger but also holds them back",
+      "fetched_at": "2026-04-13T19:00:00.332862+00:00"
+    },
+    "f80924e4eaf0a8b6": {
+      "title": "'Welcome home, Integrity': Artemis II crew return to Earth after 'bullseye landing' caps historic moon mission",
+      "fetched_at": "2026-04-13T19:00:01.035300+00:00"
     }
   },
-  "last_updated": "2026-04-13T12:59:44.852262+00:00"
+  "last_updated": "2026-04-13T19:00:01.182981+00:00"
 }
