@@ -1,101 +1,5 @@
 {
   "articles": {
-    "dca271abee56b660": {
-      "title": "it's not Ai if the LLM is not in control",
-      "fetched_at": "2026-04-04T19:44:54.959976+00:00"
-    },
-    "0f9c60ce29c7f021": {
-      "title": "Show HN: I Built an AI-Native Talent Management Agency",
-      "fetched_at": "2026-04-04T19:44:55.547486+00:00"
-    },
-    "a4be9cad29d07e8b": {
-      "title": "GTA 6 publisher Take-Two lay off their head of AI and several of team members",
-      "fetched_at": "2026-04-04T19:44:56.283393+00:00"
-    },
-    "018a3f9313dfba92": {
-      "title": "Show HN: AgentMarket – Where AI agents pay other agents for tasks they can't do",
-      "fetched_at": "2026-04-04T19:44:56.965106+00:00"
-    },
-    "61233f38be300350": {
-      "title": "Ask HN: How do you use AI coding harnesses for individual development?",
-      "fetched_at": "2026-04-04T19:44:57.576239+00:00"
-    },
-    "0ed62918751507ac": {
-      "title": "Go-LLM-proxy v0.3 released – translating proxy for Claude Code and Codex",
-      "fetched_at": "2026-04-04T19:44:58.151394+00:00"
-    },
-    "31457468e2174aaf": {
-      "title": "Show HN: Hypedar – what's trending in AI that nobody has built yet",
-      "fetched_at": "2026-04-04T19:44:58.749821+00:00"
-    },
-    "32080338195eaa5c": {
-      "title": "A folk musician became a target for AI fakes and a copyright troll",
-      "fetched_at": "2026-04-04T19:44:59.336291+00:00"
-    },
-    "afdf8fad35774781": {
-      "title": "37,000 AI-generated podcasts on Kaggle",
-      "fetched_at": "2026-04-04T19:44:59.900849+00:00"
-    },
-    "5e02f9692d30a92c": {
-      "title": "Aspire Docs in Your Terminal (and Your AI's Brain)",
-      "fetched_at": "2026-04-04T19:45:00.462159+00:00"
-    },
-    "133137edbbb73785": {
-      "title": "AI Agents to Organise My Secret Society's Dinners",
-      "fetched_at": "2026-04-04T19:45:01.029861+00:00"
-    },
-    "2576cb7d63b5d2bb": {
-      "title": "Mapping AI into Production: A Field Experiment on Firm Performance",
-      "fetched_at": "2026-04-04T19:45:01.603333+00:00"
-    },
-    "eb15a6b78e3b0682": {
-      "title": "Token Price Discovery in the AI Diffusion Debate",
-      "fetched_at": "2026-04-04T19:45:02.213954+00:00"
-    },
-    "ecda762cb9b42727": {
-      "title": "The AI-Native Fork",
-      "fetched_at": "2026-04-04T19:45:02.785209+00:00"
-    },
-    "5c0264b87eba4c4d": {
-      "title": "AI Safety at the Frontier: Paper Highlights of February and March 2026",
-      "fetched_at": "2026-04-04T19:45:03.347568+00:00"
-    },
-    "e9438276db1ba4d8": {
-      "title": "LLM Wiki",
-      "fetched_at": "2026-04-04T19:45:04.139242+00:00"
-    },
-    "6ad4176b7fa55461": {
-      "title": "Show HN: Kaoslabs – High-intensity AI video and visual experiments",
-      "fetched_at": "2026-04-04T19:45:04.702875+00:00"
-    },
-    "ec855cc179e6c843": {
-      "title": "12k AI-generated blog posts added in a single commit",
-      "fetched_at": "2026-04-04T19:45:05.315656+00:00"
-    },
-    "e5fb1f7c225d9c67": {
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "fetched_at": "2026-04-04T19:45:05.880543+00:00"
-    },
-    "d28994e9e31e189d": {
-      "title": "AI Models Choose Which Businesses to Recommend",
-      "fetched_at": "2026-04-04T19:45:06.447983+00:00"
-    },
-    "403cf5219269c6c5": {
-      "title": "Fossil site in China reveals bevy of complex creatures lived prior to the Cambrian explosion, including a 'Dune'-like sandworm",
-      "fetched_at": "2026-04-04T19:45:45.654042+00:00"
-    },
-    "3c09b5c39b25dc95": {
-      "title": "Cheap, decades-old transplant drug delays full onset of type 1 diabetes",
-      "fetched_at": "2026-04-04T19:45:46.217715+00:00"
-    },
-    "7067991ca78aebec": {
-      "title": "White Landmark in Ancient Landscape",
-      "fetched_at": "2026-04-04T19:45:46.783294+00:00"
-    },
-    "985acc6921b05815": {
-      "title": "Show HN: pubclub – Historical figures and political bots debate today's news",
-      "fetched_at": "2026-04-04T19:45:47.352638+00:00"
-    },
     "d3a422d27a5b3165": {
       "title": "TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks (2023)",
       "fetched_at": "2026-04-05T05:54:49.141479+00:00"
@@ -3643,7 +3547,115 @@
     "c932b5a9b7fc6efb": {
       "title": "Hidden weak spots in HIV and Ebola revealed with breakthrough nanodisc technology",
       "fetched_at": "2026-04-12T18:32:49.933348+00:00"
+    },
+    "0290422c8ceff31b": {
+      "title": "央行4月13日公开市场开展5亿元7天期逆回购操作",
+      "fetched_at": "2026-04-13T01:26:26.495314+00:00"
+    },
+    "bf1f67862d766539": {
+      "title": "恒指开盘跌0.71%，恒生科技指数跌0.69%",
+      "fetched_at": "2026-04-13T01:26:27.089953+00:00"
+    },
+    "c35806193f4b1b3a": {
+      "title": "30多家企业组队，专攻汽车“卡脖子”材料问题",
+      "fetched_at": "2026-04-13T01:26:27.700472+00:00"
+    },
+    "7671bcd115a59e1b": {
+      "title": "4月13日人民币对美元中间价调贬3个基点",
+      "fetched_at": "2026-04-13T01:26:28.478406+00:00"
+    },
+    "d6f43665f94e2b40": {
+      "title": "钛能化学：磷酸铁产品已批量供货",
+      "fetched_at": "2026-04-13T01:26:29.068638+00:00"
+    },
+    "c0855dbc313f932c": {
+      "title": "万马科技：液冷服务器机柜业务尚处于前期阶段，目前仅实现少量出货",
+      "fetched_at": "2026-04-13T01:26:29.675508+00:00"
+    },
+    "4ae5bd1712a8cc81": {
+      "title": "Externalization in LLM Agents",
+      "fetched_at": "2026-04-13T01:26:30.272000+00:00"
+    },
+    "3d159da32e0ac43c": {
+      "title": "Show HN: A virtual office where you watch your AI agents code",
+      "fetched_at": "2026-04-13T01:26:30.881733+00:00"
+    },
+    "5d174bc2bc98dbf1": {
+      "title": "An Interview with Asana Founder Dustin Moskovitz about AI, SaaS, and Safety",
+      "fetched_at": "2026-04-13T01:26:31.482756+00:00"
+    },
+    "ea79b7464bff73c6": {
+      "title": "UNICUS完成数百万美金新一轮融资",
+      "fetched_at": "2026-04-13T01:26:32.085153+00:00"
+    },
+    "de376fc3a01874a7": {
+      "title": "中信期货：预计二、三季度猪周期仍处下行，四季度有望筑底回暖",
+      "fetched_at": "2026-04-13T01:26:32.692696+00:00"
+    },
+    "cf68f6c79cbcc71a": {
+      "title": "36氪首发｜港中文博士和前大疆智能制造负责人创业，要做AI时代的“个性化乐高”",
+      "fetched_at": "2026-04-13T01:26:33.388893+00:00"
+    },
+    "b391d043cba250ef": {
+      "title": "Amazon vs. Perplexity AI: ACLU's Amicus Brief",
+      "fetched_at": "2026-04-13T01:26:34.005832+00:00"
+    },
+    "4d18675cb07be2fa": {
+      "title": "荣耀与字节跳动接洽“豆包手机”合作",
+      "fetched_at": "2026-04-13T01:26:34.618991+00:00"
+    },
+    "d2bfddfffd4a04ee": {
+      "title": "两市融资余额增加53.31亿元",
+      "fetched_at": "2026-04-13T01:26:35.348768+00:00"
+    },
+    "4c9de4bdeaadbc29": {
+      "title": "机构：全球DRAM平均价格涨幅将于二季度放缓至30%-50%",
+      "fetched_at": "2026-04-13T01:26:35.950216+00:00"
+    },
+    "4d534f13fcc95c6c": {
+      "title": "Specs over Vibes: Consistent AI Results Ft. Mark Freeman",
+      "fetched_at": "2026-04-13T01:26:36.591366+00:00"
+    },
+    "72fa46fa131a47a1": {
+      "title": "现货白银跌近3%",
+      "fetched_at": "2026-04-13T01:26:37.273905+00:00"
+    },
+    "ee4a468bcf84dd7a": {
+      "title": "Most AI travel apps don't help you travel",
+      "fetched_at": "2026-04-13T01:26:37.885406+00:00"
+    },
+    "3c4163622bbb954e": {
+      "title": "腾达科技：对304材质进行价格下调",
+      "fetched_at": "2026-04-13T01:26:38.501032+00:00"
+    },
+    "6cf5a024aa7b336d": {
+      "title": "中东战争导致中国物价上涨",
+      "fetched_at": "2026-04-13T01:26:41.607555+00:00"
+    },
+    "6613a8da05b25cca": {
+      "title": "狗狗電視節目蓬勃發展，但牠們真的在看嗎？",
+      "fetched_at": "2026-04-13T01:26:42.221631+00:00"
+    },
+    "1265a7be1ddf85c3": {
+      "title": "BBC採訪了為伊朗製作病毒式樂高風AI影片的男子，專家稱這是強力政治宣傳手段",
+      "fetched_at": "2026-04-13T01:26:42.825434+00:00"
+    },
+    "2542b341e1d114a5": {
+      "title": "DNA forensics is transforming studies of ancient manuscripts",
+      "fetched_at": "2026-04-13T01:26:44.506941+00:00"
+    },
+    "7d6399b18c663541": {
+      "title": "These overlooked brain cells may control fear and PTSD",
+      "fetched_at": "2026-04-13T01:26:45.127661+00:00"
+    },
+    "668588e6d25d854d": {
+      "title": "Dying stars are devouring giant planets, astronomers discover",
+      "fetched_at": "2026-04-13T01:26:45.725217+00:00"
+    },
+    "8e726779f2590527": {
+      "title": "Scientists reveal new blood pressure treatment that works when others fail",
+      "fetched_at": "2026-04-13T01:26:46.330686+00:00"
     }
   },
-  "last_updated": "2026-04-12T18:32:50.076508+00:00"
+  "last_updated": "2026-04-13T01:26:46.465912+00:00"
 }
