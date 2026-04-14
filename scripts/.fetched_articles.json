@@ -1,109 +1,5 @@
 {
   "articles": {
-    "f37c7db1560e3771": {
-      "title": "Securing AI infrastructure to prevent backdoors and sabotage",
-      "fetched_at": "2026-04-05T19:49:58.141577+00:00"
-    },
-    "3f320a052f7f99af": {
-      "title": "AI Cuts MRI Scan Time from 23 to 9 Minutes at Amsterdam Cancer Center",
-      "fetched_at": "2026-04-05T19:49:58.791706+00:00"
-    },
-    "9623b4747a4f55ec": {
-      "title": "Overwritten.site – Giving everyone an AI agent pointed at my live website",
-      "fetched_at": "2026-04-05T19:49:59.416585+00:00"
-    },
-    "6f1300d8378bdc28": {
-      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-      "fetched_at": "2026-04-05T19:50:00.110277+00:00"
-    },
-    "2d00ce05fc82b041": {
-      "title": "Why aren't LLM's trained on their own Chain Of Thought?",
-      "fetched_at": "2026-04-05T19:50:00.729870+00:00"
-    },
-    "36d51ea27c0fcc81": {
-      "title": "Agent v0 Open-source multi-agent AI orchestration terminal",
-      "fetched_at": "2026-04-05T19:50:01.359495+00:00"
-    },
-    "9e9214c0138d9df1": {
-      "title": "The AI Is Not Learning from You",
-      "fetched_at": "2026-04-05T19:50:01.994763+00:00"
-    },
-    "0021fbae825dcb54": {
-      "title": "LMMs-Lab Writer: AI-native LaTeX editor. Git built-in, open source",
-      "fetched_at": "2026-04-05T19:50:02.624761+00:00"
-    },
-    "0e3d9b507de80826": {
-      "title": "Show HN: A branching notebook runtime for AI and humans(written in Rust)",
-      "fetched_at": "2026-04-05T19:50:03.320870+00:00"
-    },
-    "a40b0b319835239a": {
-      "title": "Show HN: Sigil – A new programming language for AI agents",
-      "fetched_at": "2026-04-05T19:50:03.945509+00:00"
-    },
-    "952811b6d3a21a8b": {
-      "title": "LLM inference load balancer optimized for AMD Radeon VII GPUs",
-      "fetched_at": "2026-04-05T19:50:04.561671+00:00"
-    },
-    "2528ac0fe7fd470f": {
-      "title": "Gstack for Learning Chinese",
-      "fetched_at": "2026-04-05T19:50:05.188332+00:00"
-    },
-    "7c21a208e3524f8a": {
-      "title": "Onepilot – Deploy AI coding agents to remote servers from your iPhone",
-      "fetched_at": "2026-04-05T19:50:05.805491+00:00"
-    },
-    "de54f8b479198af3": {
-      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "fetched_at": "2026-04-05T19:50:06.419733+00:00"
-    },
-    "d1dcb3ce073aba46": {
-      "title": "AI Is Rewiring World's Most Prolific Film Industry",
-      "fetched_at": "2026-04-05T19:50:07.034686+00:00"
-    },
-    "1488e7c3e666b06a": {
-      "title": "Ask HN: LLM-Based Spam Filter",
-      "fetched_at": "2026-04-05T19:50:07.661384+00:00"
-    },
-    "b16d51020698a758": {
-      "title": "Marc Andreessen on why \"this time is different\" in AI",
-      "fetched_at": "2026-04-05T19:50:08.296246+00:00"
-    },
-    "8a2928387b011f08": {
-      "title": "Building an AI Image Creator Skill for Claude Code",
-      "fetched_at": "2026-04-05T19:50:08.931356+00:00"
-    },
-    "31eb5a958aeaf7d8": {
-      "title": "Ask HN: Folks with disabilities, what is it like in this LLM/scraper age?",
-      "fetched_at": "2026-04-05T19:50:09.572988+00:00"
-    },
-    "6c4e08c2e34958a9": {
-      "title": "Ask HN: Where are all the disruptive software that AI promised?",
-      "fetched_at": "2026-04-05T19:50:10.254320+00:00"
-    },
-    "6c3bfd26de2a0a61": {
-      "title": "法籍華裔毒販囚禁20年後被執行死刑 巴黎「震驚」",
-      "fetched_at": "2026-04-05T19:50:13.693489+00:00"
-    },
-    "1cdadd5afd8606bb": {
-      "title": "日本允離婚夫妻共享子女監護權 終結百年「單一親權制」",
-      "fetched_at": "2026-04-05T19:50:14.366837+00:00"
-    },
-    "e88e4e48043efc1d": {
-      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
-      "fetched_at": "2026-04-05T19:50:15.024033+00:00"
-    },
-    "919d8cd241d6cf05": {
-      "title": "'This generation's moment': How the Artemis missions will reframe humanity's relationship with the moon",
-      "fetched_at": "2026-04-05T19:50:18.515805+00:00"
-    },
-    "b90df6f9ba6bc336": {
-      "title": "MCPNest – A discovery platform for 5k MCP servers",
-      "fetched_at": "2026-04-05T19:50:19.138965+00:00"
-    },
-    "2e6023f18f0faf66": {
-      "title": "Diabetes rates are lower in high-altitude environments ‪‪—‬ and scientists may have discovered why",
-      "fetched_at": "2026-04-05T19:50:19.748511+00:00"
-    },
     "9d6f4c1fe9b02636": {
       "title": "Private credit funds face rising redemptions and AI-driven default risks",
       "fetched_at": "2026-04-06T06:17:35.266917+00:00"
@@ -3687,7 +3583,127 @@
     "f80924e4eaf0a8b6": {
       "title": "'Welcome home, Integrity': Artemis II crew return to Earth after 'bullseye landing' caps historic moon mission",
       "fetched_at": "2026-04-13T19:00:01.035300+00:00"
+    },
+    "230b79446cf6b298": {
+      "title": "央行今日开展10亿元7天逆回购操作",
+      "fetched_at": "2026-04-14T01:24:46.994100+00:00"
+    },
+    "255a7cf33f6845c8": {
+      "title": "恒指开盘涨1.05%，恒生科技指数涨1.37%",
+      "fetched_at": "2026-04-14T01:24:47.564325+00:00"
+    },
+    "c9dc83c6aa749da6": {
+      "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
+      "fetched_at": "2026-04-14T01:24:48.136253+00:00"
+    },
+    "ab309109cfb4f1f9": {
+      "title": "越疆完成A股IPO辅导验收",
+      "fetched_at": "2026-04-14T01:24:48.719262+00:00"
+    },
+    "40289429bc6d5c48": {
+      "title": "人民币兑美元中间价报6.8593",
+      "fetched_at": "2026-04-14T01:24:49.284717+00:00"
+    },
+    "6b3f7721aed46627": {
+      "title": "AI Can Now Control Your Mac OS",
+      "fetched_at": "2026-04-14T01:24:49.843534+00:00"
+    },
+    "fc636fc4a1ddfca2": {
+      "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+      "fetched_at": "2026-04-14T01:24:50.405880+00:00"
+    },
+    "0047ddb71ab58d7a": {
+      "title": "现货白银向上触及76美元/盎司",
+      "fetched_at": "2026-04-14T01:24:50.988926+00:00"
+    },
+    "e4b323ed4aed0e0b": {
+      "title": "联邦快递CFO将于货运业务分拆后卸任",
+      "fetched_at": "2026-04-14T01:24:51.559889+00:00"
+    },
+    "da30aa1383fb7089": {
+      "title": "“庞伯特”完成近2亿元A轮系列融资",
+      "fetched_at": "2026-04-14T01:24:52.187229+00:00"
+    },
+    "b45f1dd41fc02a63": {
+      "title": "AI Code Reviews for GitLab – custom agents – powered by Ollama",
+      "fetched_at": "2026-04-14T01:24:52.754801+00:00"
+    },
+    "0cd7ce0e3602de0a": {
+      "title": "雪佛龙通过资产置换巩固委内瑞拉重油业务主导地位",
+      "fetched_at": "2026-04-14T01:24:53.326043+00:00"
+    },
+    "7eff0117c73d6b7b": {
+      "title": "两市融资余额增加160.13亿元",
+      "fetched_at": "2026-04-14T01:24:53.944556+00:00"
+    },
+    "671356f3d096d065": {
+      "title": "Beyond Constraint: The Case for Ethical Entrainment in AI",
+      "fetched_at": "2026-04-14T01:24:54.508338+00:00"
+    },
+    "52785ec884600f37": {
+      "title": "LVMH集团第一季度收入下滑6%",
+      "fetched_at": "2026-04-14T01:24:55.077895+00:00"
+    },
+    "37cc1abb55bdafe5": {
+      "title": "德国汉莎航空飞行员因劳资纠纷罢工两天",
+      "fetched_at": "2026-04-14T01:24:55.649954+00:00"
+    },
+    "da871c95754d75bd": {
+      "title": "对标OpenClaw，微软拟为Copilot开发新功能",
+      "fetched_at": "2026-04-14T01:24:56.210555+00:00"
+    },
+    "c8537064ded26823": {
+      "title": "一季度业绩陆续出炉，多家行业龙头公司亮相",
+      "fetched_at": "2026-04-14T01:24:56.791352+00:00"
+    },
+    "1f30609503d587c8": {
+      "title": "亚马逊卫星联网项目Leo发布航空天线",
+      "fetched_at": "2026-04-14T01:24:57.357769+00:00"
+    },
+    "539db1bbdf1c60e8": {
+      "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
+      "fetched_at": "2026-04-14T01:24:57.930887+00:00"
+    },
+    "e301f2bce9c299fd": {
+      "title": "美伊谈判：伊朗提议暂停核活动最长五年",
+      "fetched_at": "2026-04-14T01:25:00.053760+00:00"
+    },
+    "29742ac58c6e8ccd": {
+      "title": "這個風景如畫的美國小鎮住滿了警察家庭，中間還潛伏著一名連環殺手",
+      "fetched_at": "2026-04-14T01:25:00.619019+00:00"
+    },
+    "e73783e41ac71ca1": {
+      "title": "Stone Age tombs in Scotland reveal 'webs of descent' among male relatives",
+      "fetched_at": "2026-04-14T01:25:02.618322+00:00"
+    },
+    "5cc05006f64248f1": {
+      "title": "'Oslo patient' likely cured of HIV after getting stem cell transplant from his brother, who is genetically resistant to the virus",
+      "fetched_at": "2026-04-14T01:25:03.185525+00:00"
+    },
+    "700cc22a8d243875": {
+      "title": "A.I. and the Crisis of Capitalism: A Historical Approach – John Cassidy [video]",
+      "fetched_at": "2026-04-14T01:25:03.752013+00:00"
+    },
+    "9ab83a55a87af00c": {
+      "title": "Antiseptic-tolerant germs spread through the air in hospitals, early study hints",
+      "fetched_at": "2026-04-14T01:25:04.344911+00:00"
+    },
+    "28714f51989e02c6": {
+      "title": "Lost Ancient Automatic Weapon Fired at Pompeii?",
+      "fetched_at": "2026-04-14T01:25:04.935593+00:00"
+    },
+    "1b6b9fc9fee0f097": {
+      "title": "Tracking Neanderthal Turtle Hunters",
+      "fetched_at": "2026-04-14T01:25:05.570653+00:00"
+    },
+    "643d4dda9dc4ecfc": {
+      "title": "Scientists found a protein that drives brain aging — and how to stop it",
+      "fetched_at": "2026-04-14T01:25:06.137266+00:00"
+    },
+    "73b6d3fa0c1514a3": {
+      "title": "Buried Roman sanctuary discovered beneath Frankfurt hints at shocking rituals",
+      "fetched_at": "2026-04-14T01:25:06.719835+00:00"
     }
   },
-  "last_updated": "2026-04-13T19:00:01.182981+00:00"
+  "last_updated": "2026-04-14T01:25:06.858954+00:00"
 }
