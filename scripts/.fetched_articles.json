@@ -1,117 +1,5 @@
 {
   "articles": {
-    "9d6f4c1fe9b02636": {
-      "title": "Private credit funds face rising redemptions and AI-driven default risks",
-      "fetched_at": "2026-04-06T06:17:35.266917+00:00"
-    },
-    "cb1bdc60210566a4": {
-      "title": "Asked 26 AI instances for publication consent – all said yes, that's the problem",
-      "fetched_at": "2026-04-06T06:17:35.889078+00:00"
-    },
-    "d4a64b38588e2a13": {
-      "title": "YouTube's AI Plagiarism Problem [video]",
-      "fetched_at": "2026-04-06T06:17:36.508105+00:00"
-    },
-    "437f20f8565fc664": {
-      "title": "Build vs. Buy: AI Has Changed Mathematical Software and In-House Now Makes Sense",
-      "fetched_at": "2026-04-06T06:17:37.129108+00:00"
-    },
-    "5ca67d58e7f56e8b": {
-      "title": "US-Iran war explained by Chinese AI animation: Legend of the Valley of Gold [video]",
-      "fetched_at": "2026-04-06T06:17:37.754533+00:00"
-    },
-    "7abb6eb79ca8d04d": {
-      "title": "Harnessing Hype to Teach Empirical Thinking with AI",
-      "fetched_at": "2026-04-06T06:17:38.371819+00:00"
-    },
-    "7ba05d5546f5f8a3": {
-      "title": "Show HN: REST API for Gymnasium (fka OpenAI Gym) reinforcement learning library",
-      "fetched_at": "2026-04-06T06:17:39.148483+00:00"
-    },
-    "33d9fca0259d5690": {
-      "title": "Can your AI rewrite your code in assembly?",
-      "fetched_at": "2026-04-06T06:17:39.848057+00:00"
-    },
-    "ccd0b318c607178d": {
-      "title": "商务部电子商务司负责人解读《关于更好服务实体经济 推进电子商务高质量发展的指导意见》",
-      "fetched_at": "2026-04-06T06:17:40.453102+00:00"
-    },
-    "46ec1c593246700d": {
-      "title": "红果短剧：针对近期AI短剧素材违规使用问题频发的情况，已处置作品670部",
-      "fetched_at": "2026-04-06T06:17:41.053035+00:00"
-    },
-    "1e2999233094683f": {
-      "title": "Stop Pushing AI Generated Code to Git",
-      "fetched_at": "2026-04-06T06:17:41.669738+00:00"
-    },
-    "5b8c4a744f374589": {
-      "title": "清明假期迎返程高峰 三天假期跨区域人员流动量预计达8.4亿人次",
-      "fetched_at": "2026-04-06T06:17:42.274251+00:00"
-    },
-    "c4339fdfd10bd4f6": {
-      "title": "Eight years of wanting, three months of building with AI",
-      "fetched_at": "2026-04-06T06:17:42.274384+00:00"
-    },
-    "f52c259095423cec": {
-      "title": "Show HN: HTML to Markdown with CSS selector & XPath annotations for LLM Scraper",
-      "fetched_at": "2026-04-06T06:17:42.892849+00:00"
-    },
-    "43276ff7172c71f5": {
-      "title": "How are we isolating AI Guests on ARMv9-A RME?",
-      "fetched_at": "2026-04-06T06:17:43.503695+00:00"
-    },
-    "d44d5e36feba470b": {
-      "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
-      "fetched_at": "2026-04-06T06:17:44.133229+00:00"
-    },
-    "afe4223893255b61": {
-      "title": "InfinityMock – AI-powered mock test generator for 110 global exams",
-      "fetched_at": "2026-04-06T06:17:44.767356+00:00"
-    },
-    "33e8f08d8f0d4bec": {
-      "title": "AI dolls offer companionship to the elderly",
-      "fetched_at": "2026-04-06T06:17:45.381163+00:00"
-    },
-    "168ee93164331c7f": {
-      "title": "Block's Mesh-LLM Is Building a Decentralized AI Compute Network",
-      "fetched_at": "2026-04-06T06:17:45.981572+00:00"
-    },
-    "ce5e6af51f306526": {
-      "title": "Neurocrine即将达成一项斥资超过25亿美元收购Soleno Therapeutics的交易",
-      "fetched_at": "2026-04-06T06:17:46.674563+00:00"
-    },
-    "3702243fb10970e1": {
-      "title": "「阿提米絲二號」太空人今夜將與地球失聯40分鐘 環月衛星通訊網已提上日程",
-      "fetched_at": "2026-04-06T06:17:49.435609+00:00"
-    },
-    "f2db996f0a775c3d": {
-      "title": "高壓水槍洗地、清理泳池和割草：為甚麼數百萬人正在玩幹著瑣碎工作的英國網遊？",
-      "fetched_at": "2026-04-06T06:17:50.069494+00:00"
-    },
-    "e457f607846900ef": {
-      "title": "Show HN: Specialty Coffee Discovery Platform",
-      "fetched_at": "2026-04-06T06:17:53.040850+00:00"
-    },
-    "3000f70fd39c55d4": {
-      "title": "Study of 1,700 languages reveals surprising hidden patterns",
-      "fetched_at": "2026-04-06T06:17:53.662030+00:00"
-    },
-    "1c1a17854c7211a2": {
-      "title": "Scientists find hidden brain cells helping deadly cancer grow",
-      "fetched_at": "2026-04-06T06:17:54.288077+00:00"
-    },
-    "23e7531998d04e86": {
-      "title": "Ancient bones show dogs have been woven into human life for nearly 16,000 years",
-      "fetched_at": "2026-04-06T06:17:54.904415+00:00"
-    },
-    "ce36b9d86a380aa9": {
-      "title": "After 20 years, scientists finally explain the Crab Pulsar’s strange “zebra stripes”",
-      "fetched_at": "2026-04-06T06:17:55.524058+00:00"
-    },
-    "48c95934297e6ba5": {
-      "title": "Popular sugar substitute linked to brain damage and stroke risk",
-      "fetched_at": "2026-04-06T06:17:56.148688+00:00"
-    },
     "2b552bb152779c9b": {
       "title": "The Federal Government Is Rushing Toward AI: Three Cautionary Tales",
       "fetched_at": "2026-04-06T14:38:01.588621+00:00"
@@ -3703,7 +3591,139 @@
     "73b6d3fa0c1514a3": {
       "title": "Buried Roman sanctuary discovered beneath Frankfurt hints at shocking rituals",
       "fetched_at": "2026-04-14T01:25:06.719835+00:00"
+    },
+    "e8aa9c5a8a5cd596": {
+      "title": "中国汽车流通协会：3月汽车经销商库存系数为1.76，环比下降9.7%",
+      "fetched_at": "2026-04-14T07:17:17.212524+00:00"
+    },
+    "6ab302d00a7c05e5": {
+      "title": "横店东磁：正在积极关注BBU领域并与相关客户接洽中",
+      "fetched_at": "2026-04-14T07:17:17.835894+00:00"
+    },
+    "405d6350c06caf4a": {
+      "title": "Show HN: Nous – A compiled language for self-healing AI agents",
+      "fetched_at": "2026-04-14T07:17:18.516208+00:00"
+    },
+    "9ef9af66a6d36f18": {
+      "title": "Nvidia AIStore – scalable storage for AI applications",
+      "fetched_at": "2026-04-14T07:17:19.191518+00:00"
+    },
+    "19fdd7e65ec63434": {
+      "title": "A股三大指数集体收涨，沪指重返4000点上方",
+      "fetched_at": "2026-04-14T07:17:19.900853+00:00"
+    },
+    "7caaa1acae3e04d6": {
+      "title": "湖南能源集团等在长沙新设先进制造产业基金，出资额50亿元",
+      "fetched_at": "2026-04-14T07:17:20.531586+00:00"
+    },
+    "0fcfe637bbb7a575": {
+      "title": "全球首个自动驾驶移动空间路线4月20日试运营",
+      "fetched_at": "2026-04-14T07:17:21.154388+00:00"
+    },
+    "2d28678bd7490594": {
+      "title": "BP发布首季交易更新：石油交易表现卓越，净债务预计上升",
+      "fetched_at": "2026-04-14T07:17:21.776860+00:00"
+    },
+    "5431fa7f88b6974a": {
+      "title": "韩3月ICT出口额超435亿美元创新高",
+      "fetched_at": "2026-04-14T07:17:22.384960+00:00"
+    },
+    "53a5ca6193b017a0": {
+      "title": "美团发布AI产品“小团健康管家”",
+      "fetched_at": "2026-04-14T07:17:23.000989+00:00"
+    },
+    "061d517b923b307f": {
+      "title": "Seedance 2.0全面开放API服务",
+      "fetched_at": "2026-04-14T07:17:23.635558+00:00"
+    },
+    "fd24c115c510b373": {
+      "title": "Show HN: Burrow – Runtime Security for AI Agents",
+      "fetched_at": "2026-04-14T07:17:24.254261+00:00"
+    },
+    "171333433cd7aa4f": {
+      "title": "Ascend – open-source Job board and Claude AI prep plans for FAANG/YC interviews",
+      "fetched_at": "2026-04-14T07:17:24.877917+00:00"
+    },
+    "6df108842ff95103": {
+      "title": "国开行一季度发放绿色贷款超1500亿元",
+      "fetched_at": "2026-04-14T07:17:25.504624+00:00"
+    },
+    "d5fc48a2f91cee95": {
+      "title": "Zuckerbot is coming: Meta is building an AI version of Mark Zuckerberg",
+      "fetched_at": "2026-04-14T07:17:26.123937+00:00"
+    },
+    "83cef37499c38ed0": {
+      "title": "沪深京三市成交额突破2万亿",
+      "fetched_at": "2026-04-14T07:17:26.751072+00:00"
+    },
+    "a8232bdba38ef367": {
+      "title": "诺和诺德宣布与OpenAI建立战略合作伙伴关系",
+      "fetched_at": "2026-04-14T07:17:27.545402+00:00"
+    },
+    "2e67d52f1dae26c7": {
+      "title": "Show HN: SCP – A protocol that drops LLM API calls to zero in 60fps physics loop",
+      "fetched_at": "2026-04-14T07:17:28.337458+00:00"
+    },
+    "14ad84ca95fc72b2": {
+      "title": "机构：近期住房租金阶段性回升",
+      "fetched_at": "2026-04-14T07:17:28.953751+00:00"
+    },
+    "73f12c8f60a2a93b": {
+      "title": "Generative AI in Banking: Top Use Cases and Benefits",
+      "fetched_at": "2026-04-14T07:17:29.632517+00:00"
+    },
+    "bedd94cf00c108fc": {
+      "title": "恆大集資詐騙案深圳開審 許家印「認罪悔罪」",
+      "fetched_at": "2026-04-14T07:17:32.738084+00:00"
+    },
+    "fe87e6eea7352d8a": {
+      "title": "菲律賓指控中國漁民在南海傾倒氰化物",
+      "fetched_at": "2026-04-14T07:17:33.340954+00:00"
+    },
+    "29b3f5acc8947600": {
+      "title": "到底有多少船隻正在冒險穿越霍爾木茲海峽？",
+      "fetched_at": "2026-04-14T07:17:33.994109+00:00"
+    },
+    "988982fcbe903cb9": {
+      "title": "量子運算：歐洲有望獲勝的一場科技競賽？",
+      "fetched_at": "2026-04-14T07:17:34.723411+00:00"
+    },
+    "2b709dbff5c1f760": {
+      "title": "民粹主义“巫师”奥尔班是如何失去魔力的",
+      "fetched_at": "2026-04-14T07:17:35.339623+00:00"
+    },
+    "ab84e806d3586b3d": {
+      "title": "新冠病毒新變種「蟬」有多令人擔憂？兒童是否更容易感染？",
+      "fetched_at": "2026-04-14T07:17:35.962120+00:00"
+    },
+    "a83703f60da384c2": {
+      "title": "封锁伊朗船只：特朗普与德黑兰谁更能承受经济痛苦？",
+      "fetched_at": "2026-04-14T07:17:36.598291+00:00"
+    },
+    "914a9346b6a08aee": {
+      "title": "马来西亚推出电动汽车新规，中国车企受影响",
+      "fetched_at": "2026-04-14T07:17:37.403833+00:00"
+    },
+    "80b9fc23f3455142": {
+      "title": "中东战争催化电网转型：能源危机中世界愈发依赖中国",
+      "fetched_at": "2026-04-14T07:17:38.034894+00:00"
+    },
+    "f133079ddceb83ef": {
+      "title": "重回世界大战时代",
+      "fetched_at": "2026-04-14T07:17:38.662236+00:00"
+    },
+    "29f272a7ade7676a": {
+      "title": "言行反复无常、激烈极端：特朗普“疯”了吗？",
+      "fetched_at": "2026-04-14T07:17:39.346449+00:00"
+    },
+    "e88e4e48043efc1d": {
+      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
+      "fetched_at": "2026-04-14T07:17:39.963950+00:00"
+    },
+    "e9bec34b031811db": {
+      "title": "Mini lake meets snowy rim of Canada's oldest ice mass — Earth from space",
+      "fetched_at": "2026-04-14T07:17:42.630934+00:00"
     }
   },
-  "last_updated": "2026-04-14T01:25:06.858954+00:00"
+  "last_updated": "2026-04-14T07:17:42.736002+00:00"
 }
