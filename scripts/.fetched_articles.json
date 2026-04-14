@@ -1,113 +1,5 @@
 {
   "articles": {
-    "2b552bb152779c9b": {
-      "title": "The Federal Government Is Rushing Toward AI: Three Cautionary Tales",
-      "fetched_at": "2026-04-06T14:38:01.588621+00:00"
-    },
-    "0f768381e6f21927": {
-      "title": "Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K",
-      "fetched_at": "2026-04-06T14:38:02.213134+00:00"
-    },
-    "1a27c71c0628bd69": {
-      "title": "AI Inference Cost Crisis 2026: Why Your AI Bill Is Exploding",
-      "fetched_at": "2026-04-06T14:38:02.836267+00:00"
-    },
-    "fa800511d8011a48": {
-      "title": "When Virality Is the Message: The New Age of AI Propaganda",
-      "fetched_at": "2026-04-06T14:38:03.583229+00:00"
-    },
-    "fc4665a2038e2943": {
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "fetched_at": "2026-04-06T14:38:04.228191+00:00"
-    },
-    "6aceaeeac35d385b": {
-      "title": "Can AI responses be influenced? The SEO industry is trying",
-      "fetched_at": "2026-04-06T14:38:04.853252+00:00"
-    },
-    "b1582b232bc60be2": {
-      "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
-      "fetched_at": "2026-04-06T14:38:05.507222+00:00"
-    },
-    "e77c05b53b4d1abd": {
-      "title": "We open-sourced an AI-native operating model (CC, 6 languages)",
-      "fetched_at": "2026-04-06T14:38:06.119965+00:00"
-    },
-    "f470f61ca9af5fab": {
-      "title": "Is.team – AI agents and humans on the same project board",
-      "fetched_at": "2026-04-06T14:38:06.758664+00:00"
-    },
-    "211bf01d03839fb8": {
-      "title": "Adam Curtis Fears AI Is a Hungry Ghost",
-      "fetched_at": "2026-04-06T14:38:07.378428+00:00"
-    },
-    "016facfa0a2da4f9": {
-      "title": "Benchmark-Dependent Output Dynamics in LLM Prompt Compression",
-      "fetched_at": "2026-04-06T14:38:08.001972+00:00"
-    },
-    "0a97f6d5fd0841fb": {
-      "title": "Ask HN: How are you orchestrating multi-agent AI workflows in production?",
-      "fetched_at": "2026-04-06T14:38:08.623144+00:00"
-    },
-    "f46c220429a72393": {
-      "title": "Pscale – Logarithmic compression for LLM knowledge bases",
-      "fetched_at": "2026-04-06T14:38:09.333041+00:00"
-    },
-    "5df0a495e9ad6023": {
-      "title": "I Woke Up Not Knowing Who I Was – Building an AI Robot Brain [video]",
-      "fetched_at": "2026-04-06T14:38:09.958330+00:00"
-    },
-    "3c802fd3e7e64f7a": {
-      "title": "Scanned 28 major websites for AI agent readiness – results are embarrassing",
-      "fetched_at": "2026-04-06T14:38:10.606104+00:00"
-    },
-    "19a2c948c7f4f798": {
-      "title": "I let an AI run my startup for 35 days – 315 sessions, $0 revenue",
-      "fetched_at": "2026-04-06T14:38:11.229353+00:00"
-    },
-    "8cd93bd9f5202425": {
-      "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
-      "fetched_at": "2026-04-06T14:38:11.844609+00:00"
-    },
-    "6ff4be5232e78336": {
-      "title": "Token-Aware LLM Load Balancer route by inflight tokens,not connections",
-      "fetched_at": "2026-04-06T14:38:12.461622+00:00"
-    },
-    "9b95f3bc2f26c66f": {
-      "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
-      "fetched_at": "2026-04-06T14:38:13.093279+00:00"
-    },
-    "62e97ff657c7aef8": {
-      "title": "Real-time poker engine with emotion-driven AI bots",
-      "fetched_at": "2026-04-06T14:38:13.755269+00:00"
-    },
-    "1176bebfa9bcaf0a": {
-      "title": "分析：特朗普宣稱飛行員救援行動勝利，但美國在伊朗面臨的威脅揮之不去",
-      "fetched_at": "2026-04-06T14:38:16.084691+00:00"
-    },
-    "3a439a588dcaaa3b": {
-      "title": "還原在伊朗偏遠地區墜機的美軍軍官被救過程",
-      "fetched_at": "2026-04-06T14:38:16.707520+00:00"
-    },
-    "225181208de19605": {
-      "title": "阿提米絲大量「發帖」秀圖：這是科學之旅還是度假？",
-      "fetched_at": "2026-04-06T14:38:17.329929+00:00"
-    },
-    "9a2c295ad83ee5ff": {
-      "title": "'They could spend 4 or 5 hours per day underwater': How humans adapted to the most challenging environments",
-      "fetched_at": "2026-04-06T14:38:18.933277+00:00"
-    },
-    "0d4095940433ec95": {
-      "title": "We went to Finland to hear about the new 'sand battery' that will turn stored renewable energy back into power for the electrical grid",
-      "fetched_at": "2026-04-06T14:38:19.581241+00:00"
-    },
-    "feab097284b052fc": {
-      "title": "The hungriest black holes in the universe are running out of food, survey of 8,000 cosmic monsters reveals",
-      "fetched_at": "2026-04-06T14:38:20.209088+00:00"
-    },
-    "663f9d09097c78da": {
-      "title": "Beadnet dress: A 4,500-year-old ancient Egyptian funeral 'gown' that was in vogue during the Old Kingdom",
-      "fetched_at": "2026-04-06T14:38:20.834337+00:00"
-    },
     "343d4a40565db4a0": {
       "title": "Social media content creator platform powered by AI",
       "fetched_at": "2026-04-06T20:03:02.926966+00:00"
@@ -3827,7 +3719,131 @@
     "3000f70fd39c55d4": {
       "title": "Study of 1,700 languages reveals surprising hidden patterns",
       "fetched_at": "2026-04-14T13:00:01.279848+00:00"
+    },
+    "699e153ba2605082": {
+      "title": "Write It First Then Let AI Drive",
+      "fetched_at": "2026-04-14T18:57:51.901096+00:00"
+    },
+    "968f59a7059e12be": {
+      "title": "People are pretending to be AI chatbots – for fun",
+      "fetched_at": "2026-04-14T18:57:52.476093+00:00"
+    },
+    "fdb7fed793033cb4": {
+      "title": "C-Suite tried to replace every coder it ever met. Now AI replaces the C-Suite?",
+      "fetched_at": "2026-04-14T18:57:53.047525+00:00"
+    },
+    "7ebfc45263d2fa26": {
+      "title": "Show HN: MESI cache coherence for multi-agent LLM context sync – 95% less tokens",
+      "fetched_at": "2026-04-14T18:57:53.616349+00:00"
+    },
+    "1a2e9a89a8765ac0": {
+      "title": "Explainable AI affects understandability, trust and usability",
+      "fetched_at": "2026-04-14T18:57:54.183260+00:00"
+    },
+    "d0ef4d8d3d2b973c": {
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+      "fetched_at": "2026-04-14T18:57:54.741484+00:00"
+    },
+    "54d0e8b609f3df86": {
+      "title": "The attacks on Sam Altman are a warning for the AI world",
+      "fetched_at": "2026-04-14T18:57:55.314976+00:00"
+    },
+    "3a9d3d73991db27d": {
+      "title": "I Don't Use AI to Write Resumes",
+      "fetched_at": "2026-04-14T18:57:55.883579+00:00"
+    },
+    "39695090f99f9921": {
+      "title": "Don't Just Build with AI – Learn Through It",
+      "fetched_at": "2026-04-14T18:57:56.499690+00:00"
+    },
+    "509bddb23039f0fa": {
+      "title": "I Built the Wordle for AI Agents",
+      "fetched_at": "2026-04-14T18:57:57.073469+00:00"
+    },
+    "fdf0dcfff301f4e7": {
+      "title": "Reduce TTFT via streaming to an LLM",
+      "fetched_at": "2026-04-14T18:57:57.643465+00:00"
+    },
+    "13781d5e82b621d1": {
+      "title": "Giving AI Agents Read-Only Database Access",
+      "fetched_at": "2026-04-14T18:57:58.212079+00:00"
+    },
+    "41a3151832ec4978": {
+      "title": "Show HN: A Claude Code–driven tutor for learning algorithms in Go",
+      "fetched_at": "2026-04-14T18:57:58.816304+00:00"
+    },
+    "72ab85138c65eb9e": {
+      "title": "Ask HN: How should AI agents discover and order real-world services?",
+      "fetched_at": "2026-04-14T18:57:59.377403+00:00"
+    },
+    "84892c6664d5d176": {
+      "title": "The impact of AI on software engineers in 2026: key trends",
+      "fetched_at": "2026-04-14T18:57:59.968112+00:00"
+    },
+    "d61254527f565f9d": {
+      "title": "The Beginning of Scarcity in AI",
+      "fetched_at": "2026-04-14T18:58:00.539608+00:00"
+    },
+    "ce19d8b0dca8de3a": {
+      "title": "OpenCognit – an open-source multi-agent platform you run on your own machine",
+      "fetched_at": "2026-04-14T18:58:01.110743+00:00"
+    },
+    "dcbb9ac339f14e53": {
+      "title": "Ravi – Identity infrastructure for autonomous AI agents (email, phone, vault)",
+      "fetched_at": "2026-04-14T18:58:01.700051+00:00"
+    },
+    "da847ade39a14bc3": {
+      "title": "Oracle Gives Corporate Bankers AI Coworkers",
+      "fetched_at": "2026-04-14T18:58:02.494361+00:00"
+    },
+    "46506b6aa16af464": {
+      "title": "AI Browser Agent Leaderboard",
+      "fetched_at": "2026-04-14T18:58:03.066474+00:00"
+    },
+    "a25caf3082e0bf7b": {
+      "title": "There were 'audible screams of delight': Why Artemis II sightings of meteor flashes on the moon have scientists giddy",
+      "fetched_at": "2026-04-14T18:58:06.073850+00:00"
+    },
+    "5016334502968c35": {
+      "title": "System over Model: Zero-Day Discovery at the Jagged Frontier",
+      "fetched_at": "2026-04-14T18:58:06.641485+00:00"
+    },
+    "6a7c501cf5adab9d": {
+      "title": "Amazon Bio Discovery",
+      "fetched_at": "2026-04-14T18:58:07.231791+00:00"
+    },
+    "70e41298468d2169": {
+      "title": "Mammal ancestors laid eggs, and this 250-million-year-old fossil finally proves it",
+      "fetched_at": "2026-04-14T18:58:07.793352+00:00"
+    },
+    "ee35faaccb7a63c1": {
+      "title": "Scientists just recreated a rare cosmic reaction never seen before",
+      "fetched_at": "2026-04-14T18:58:08.362638+00:00"
+    },
+    "dc5bbe542f22fc90": {
+      "title": "Scientists just debunked a 50-year myth about Hawaii’s birds",
+      "fetched_at": "2026-04-14T18:58:08.953194+00:00"
+    },
+    "0897c277c7821331": {
+      "title": "Scientists discover why bread can cause weight gain without extra calories",
+      "fetched_at": "2026-04-14T18:58:09.524914+00:00"
+    },
+    "d51b7b5ac122150d": {
+      "title": "Quantum systems can remember and forget at the same time, scientists discover",
+      "fetched_at": "2026-04-14T18:58:10.109078+00:00"
+    },
+    "5819eb4b5af43b96": {
+      "title": "Scientists finally know where the Colorado River’s missing water is going",
+      "fetched_at": "2026-04-14T18:58:10.679846+00:00"
+    },
+    "2c765994cfe0d615": {
+      "title": "This strange “pearling” motion inside cells could change how we understand disease",
+      "fetched_at": "2026-04-14T18:58:11.246531+00:00"
+    },
+    "8ac70c819f5b68f1": {
+      "title": "The people you live with could be changing your gut bacteria",
+      "fetched_at": "2026-04-14T18:58:11.820942+00:00"
     }
   },
-  "last_updated": "2026-04-14T13:00:01.387422+00:00"
+  "last_updated": "2026-04-14T18:58:11.972007+00:00"
 }
