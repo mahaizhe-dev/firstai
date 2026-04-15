@@ -1,153 +1,5 @@
 {
   "articles": {
-    "5b8dc040ed5f03d8": {
-      "title": "利安隆：目前润滑油添加剂尚未扩产",
-      "fetched_at": "2026-04-07T05:58:30.580570+00:00"
-    },
-    "d3dcf2bf0be445d2": {
-      "title": "欣天科技：公司射频产品主要应用于通信基站端，并非手机端",
-      "fetched_at": "2026-04-07T05:58:31.184445+00:00"
-    },
-    "8d8b73fa29a9468e": {
-      "title": "QitOS – A research-first framework for building serious LLM agents",
-      "fetched_at": "2026-04-07T05:58:31.861003+00:00"
-    },
-    "90b8e82fc70defb0": {
-      "title": "大商所乙二醇期货涨停",
-      "fetched_at": "2026-04-07T05:58:32.590749+00:00"
-    },
-    "edab4bc89685a663": {
-      "title": "震安科技：目前暂未与华为、比亚迪、大疆等企业开展深度合作",
-      "fetched_at": "2026-04-07T05:58:33.201719+00:00"
-    },
-    "53280effa7621602": {
-      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-      "fetched_at": "2026-04-07T05:58:33.809327+00:00"
-    },
-    "3f53b50aad5da3a3": {
-      "title": "“首形科技”获新一轮数亿元A1轮融资",
-      "fetched_at": "2026-04-07T05:58:34.446670+00:00"
-    },
-    "f0d7a605bfd650ad": {
-      "title": "Businesses scramble to get noticed by AI search",
-      "fetched_at": "2026-04-07T05:58:35.039434+00:00"
-    },
-    "9241c8ba05797cf1": {
-      "title": "三大指数集体翻绿",
-      "fetched_at": "2026-04-07T05:58:35.637264+00:00"
-    },
-    "de23f970360e666c": {
-      "title": "莱珀妮回应中国市场涨价传闻：仅部分产品调整",
-      "fetched_at": "2026-04-07T05:58:36.301081+00:00"
-    },
-    "9e5e0b73a37830a0": {
-      "title": "CarriFit – Free AI Calorie Counter",
-      "fetched_at": "2026-04-07T05:58:36.899152+00:00"
-    },
-    "078924876bf14d7b": {
-      "title": "Addyosmani/agent-skills: Prod-grade skills for AI coding agents",
-      "fetched_at": "2026-04-07T05:58:37.513616+00:00"
-    },
-    "ea3d354e9a8c62a8": {
-      "title": "监控系统出现漏洞，300多人被带走？海康威视回应：假的",
-      "fetched_at": "2026-04-07T05:58:38.166709+00:00"
-    },
-    "11d4f23e1650171e": {
-      "title": "AI Agent Traps",
-      "fetched_at": "2026-04-07T05:58:38.936978+00:00"
-    },
-    "78b6ab44818d8a6e": {
-      "title": "领益智造：已为国内外头部客户供应折叠屏终端硬件",
-      "fetched_at": "2026-04-07T05:58:39.545516+00:00"
-    },
-    "f8eb97490ff8db08": {
-      "title": "10年期日本国债收益率达新高",
-      "fetched_at": "2026-04-07T05:58:40.186436+00:00"
-    },
-    "42a57793ffb622cd": {
-      "title": "江波龙：存储行业处于高景气周期，公司发展趋势符合行业情况",
-      "fetched_at": "2026-04-07T05:58:40.794051+00:00"
-    },
-    "f7f8353730a8d215": {
-      "title": "ClearSpec – Turn vague goals into specs that AI agents can execute",
-      "fetched_at": "2026-04-07T05:58:41.410526+00:00"
-    },
-    "19c40d8469b6300a": {
-      "title": "Are We Augmented by AI Yet?",
-      "fetched_at": "2026-04-07T05:58:42.013795+00:00"
-    },
-    "4bc958fe5f408e2f": {
-      "title": "市场消息：英国考虑对银行使用的AI模型进行标准化测试",
-      "fetched_at": "2026-04-07T05:58:42.742374+00:00"
-    },
-    "4a13ac2508175002": {
-      "title": "BBC走進被摧毀的柬埔寨詐騙園區 裡面曾有澳洲中國巴西的「警察局」",
-      "fetched_at": "2026-04-07T05:58:45.492480+00:00"
-    },
-    "64ba67f93e229504": {
-      "title": "特朗普的战争正把伊朗变成一个世界强国",
-      "fetched_at": "2026-04-07T05:58:46.090924+00:00"
-    },
-    "a52c057745d0feab": {
-      "title": "一场无声的反抗：中国民众为何哀悼张雪峰",
-      "fetched_at": "2026-04-07T05:58:46.697091+00:00"
-    },
-    "4d9777ec679e5f61": {
-      "title": "深入伊朗腹地援救美军士兵：一场与时间赛跑的惊险行动",
-      "fetched_at": "2026-04-07T05:58:47.308773+00:00"
-    },
-    "7709f4962afe3157": {
-      "title": "特朗普进一步升级对伊朗的威胁，这里是六大要点",
-      "fetched_at": "2026-04-07T05:58:47.951110+00:00"
-    },
-    "68aa7c27d665b610": {
-      "title": "中东战争引发能源冲击，中国展现韧性",
-      "fetched_at": "2026-04-07T05:58:48.538808+00:00"
-    },
-    "95532c9633c32371": {
-      "title": "Happiness is a maintenance problem, not a discovery problem",
-      "fetched_at": "2026-04-07T05:58:50.448520+00:00"
-    },
-    "9cc2bed1620573e6": {
-      "title": "Earth’s most powerful ocean current didn’t form the way we thought",
-      "fetched_at": "2026-04-07T05:58:51.090639+00:00"
-    },
-    "661eaab8aba1c5d5": {
-      "title": "Scientists found a “lost world” of animals that shouldn’t exist yet",
-      "fetched_at": "2026-04-07T05:58:51.854684+00:00"
-    },
-    "05a2e62830773c26": {
-      "title": "Scientists discover the “Goldilocks” secret behind life on Earth",
-      "fetched_at": "2026-04-07T05:58:52.445954+00:00"
-    },
-    "b5c8cd66026e9f9d": {
-      "title": "This “forbidden” exoplanet has an atmosphere scientists can’t explain",
-      "fetched_at": "2026-04-07T05:58:53.114844+00:00"
-    },
-    "1a39a53590a2e683": {
-      "title": "The Artemis II astronauts have just flown farther from Earth than any humans in history",
-      "fetched_at": "2026-04-07T05:58:53.765268+00:00"
-    },
-    "7fb81f7a615fc6db": {
-      "title": "The brain might not create consciousness after all",
-      "fetched_at": "2026-04-07T05:58:54.369587+00:00"
-    },
-    "78185703ce35b63e": {
-      "title": "Scientists discover hidden brain switch that tells you to stop eating",
-      "fetched_at": "2026-04-07T05:58:55.057191+00:00"
-    },
-    "77f7519ada2d9d7f": {
-      "title": "These bizarre new tarantulas turn mating into a fight for survival",
-      "fetched_at": "2026-04-07T05:58:55.654106+00:00"
-    },
-    "0fd62a9ef5b19cf3": {
-      "title": "Scientists may have found a way to keep your bones strong for life",
-      "fetched_at": "2026-04-07T05:58:56.272865+00:00"
-    },
-    "3a9535a0ea4b3781": {
-      "title": "Scientists may finally detect hidden ripples in spacetime",
-      "fetched_at": "2026-04-07T05:58:56.869610+00:00"
-    },
     "aebf33b0f8ce42c4": {
       "title": "ST中珠：陈旭因工作调整辞任董事长",
       "fetched_at": "2026-04-07T09:51:40.835729+00:00"
@@ -3823,7 +3675,131 @@
     "ff209dc7be36723f": {
       "title": "Roman Emperor Identified on Karnak Stele",
       "fetched_at": "2026-04-15T01:21:31.608950+00:00"
+    },
+    "b6c8d6ec04ccc4f6": {
+      "title": "The only technology that died more times than VR is AI",
+      "fetched_at": "2026-04-15T07:17:00.906864+00:00"
+    },
+    "57a77a2386322fa9": {
+      "title": "My AI-Assisted Workflow",
+      "fetched_at": "2026-04-15T07:17:01.531830+00:00"
+    },
+    "27a3ff3c425bf826": {
+      "title": "Building trust in the AI era with privacy-led UX",
+      "fetched_at": "2026-04-15T07:17:02.143913+00:00"
+    },
+    "8681aca3992f6e5d": {
+      "title": "A股三大指数收盘涨跌不一",
+      "fetched_at": "2026-04-15T07:17:02.766090+00:00"
+    },
+    "629766f2eac496ec": {
+      "title": "The Death of an AI Whistleblower",
+      "fetched_at": "2026-04-15T07:17:03.388262+00:00"
+    },
+    "4488da0cb6d7c9c4": {
+      "title": "传抖音电商将迎调整，成立红果电商，官方暂无回应",
+      "fetched_at": "2026-04-15T07:17:04.001986+00:00"
+    },
+    "6240abaa52c5378e": {
+      "title": "长春城投建设投资集团注册资本增至56亿元",
+      "fetched_at": "2026-04-15T07:17:04.629081+00:00"
+    },
+    "8356cd32fcdc401e": {
+      "title": "阿里ATH事业群发布首款AI开发工具秒悟",
+      "fetched_at": "2026-04-15T07:17:05.364896+00:00"
+    },
+    "a727dfe127d0c925": {
+      "title": "速卖通：2026年帮2000个中国品牌实现出海规模翻倍",
+      "fetched_at": "2026-04-15T07:17:05.992381+00:00"
+    },
+    "522038685928601b": {
+      "title": "Stellantis第一季度合并出货量为140万台，同比增长12%",
+      "fetched_at": "2026-04-15T07:17:06.607727+00:00"
+    },
+    "318c0e886af7f679": {
+      "title": "小米汽车公布降噪处理新专利",
+      "fetched_at": "2026-04-15T07:17:07.346273+00:00"
+    },
+    "d471c57c881e08bd": {
+      "title": "爱马仕第一季度总收入为40.7亿欧元，销售额同比增长5.6%",
+      "fetched_at": "2026-04-15T07:17:07.958953+00:00"
+    },
+    "07c3013530f53846": {
+      "title": "奈飞公司CEO与美国影院行业负责人举行会谈，双方未来或将合作？",
+      "fetched_at": "2026-04-15T07:17:08.598323+00:00"
+    },
+    "8e8e58065e79071d": {
+      "title": "深成指、创业板指均跌超1%",
+      "fetched_at": "2026-04-15T07:17:09.206543+00:00"
+    },
+    "eff9d9f41cc5856a": {
+      "title": "沪深两市成交额连续第6个交易日突破2万亿元",
+      "fetched_at": "2026-04-15T07:17:09.872806+00:00"
+    },
+    "a1fe7f57bd81dd92": {
+      "title": "广汽集团旗下公司成立智行科技公司",
+      "fetched_at": "2026-04-15T07:17:10.553687+00:00"
+    },
+    "24781fed603ab20b": {
+      "title": "Generative AI in 2016 [video]",
+      "fetched_at": "2026-04-15T07:17:11.167495+00:00"
+    },
+    "ca36951d8337c68e": {
+      "title": "惠丰钻石：5月1日起，对工业金刚石产品价格进行8%-12%结构性上调",
+      "fetched_at": "2026-04-15T07:17:11.875319+00:00"
+    },
+    "f20555b670583078": {
+      "title": "国家铁路局：一季度全国铁路累计完成旅客发送量同比增长5.5%",
+      "fetched_at": "2026-04-15T07:17:12.498874+00:00"
+    },
+    "e6ec099cc2d2ffa6": {
+      "title": "报告：东南亚电商2025年GMV突破万亿",
+      "fetched_at": "2026-04-15T07:17:13.149188+00:00"
+    },
+    "435b5bf84315454e": {
+      "title": "香港歌手張敬軒任保安局導師並為過去言行道歉：為何引起公眾兩極反應",
+      "fetched_at": "2026-04-15T07:17:16.305061+00:00"
+    },
+    "bab8fbcf6345dab3": {
+      "title": "巴黎男子花100歐元抽中價值逾百萬的畢卡索名畫",
+      "fetched_at": "2026-04-15T07:17:17.004450+00:00"
+    },
+    "8ca8c50fb20a00e8": {
+      "title": "英國新學校午餐計劃禁止油炸食品",
+      "fetched_at": "2026-04-15T07:17:17.629677+00:00"
+    },
+    "2ef3e9ec386121c6": {
+      "title": "IMF警告中东战争将拖慢全球经济增长",
+      "fetched_at": "2026-04-15T07:17:18.239865+00:00"
+    },
+    "888dcc8b9b05bfe7": {
+      "title": "貝森特接受BBC採訪表示：為了免受伊朗長期安全威脅，「一點痛苦」是值得的",
+      "fetched_at": "2026-04-15T07:17:18.856411+00:00"
+    },
+    "409268b0eb5a1889": {
+      "title": "他倒戈击败了欧尔班，但这意味着真正的变革吗？",
+      "fetched_at": "2026-04-15T07:17:19.557486+00:00"
+    },
+    "4f679b16397fd8f0": {
+      "title": "民粹主义“魔术师”欧尔班是如何失去魔力的",
+      "fetched_at": "2026-04-15T07:17:20.166329+00:00"
+    },
+    "ab0100280ddbd94d": {
+      "title": "习近平就伊朗战争发声，特朗普访华前中美关系再遇挑战",
+      "fetched_at": "2026-04-15T07:17:20.798797+00:00"
+    },
+    "7e001219e44bf3f0": {
+      "title": "我考察了中国人工智能发展，美国无法赢得这场竞赛",
+      "fetched_at": "2026-04-15T07:17:21.434144+00:00"
+    },
+    "da37d0e233a3dd08": {
+      "title": "中国出台新规阻止外国公司对华“脱钩”",
+      "fetched_at": "2026-04-15T07:17:22.135572+00:00"
+    },
+    "fa2cef8655353bd5": {
+      "title": "与教宗良十四世论战，特朗普这次的对手“不好惹”",
+      "fetched_at": "2026-04-15T07:17:22.854659+00:00"
     }
   },
-  "last_updated": "2026-04-15T01:21:31.715587+00:00"
+  "last_updated": "2026-04-15T07:17:24.217097+00:00"
 }
