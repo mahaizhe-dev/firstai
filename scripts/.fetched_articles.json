@@ -1,137 +1,5 @@
 {
   "articles": {
-    "343d4a40565db4a0": {
-      "title": "Social media content creator platform powered by AI",
-      "fetched_at": "2026-04-06T20:03:02.926966+00:00"
-    },
-    "1c5f7bc0a60e13bc": {
-      "title": "AI agents over SSH from your phone. Starting to think this is where dev is going",
-      "fetched_at": "2026-04-06T20:03:03.528384+00:00"
-    },
-    "85b28a9aa011a67c": {
-      "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
-      "fetched_at": "2026-04-06T20:03:04.126024+00:00"
-    },
-    "67ec7d2d7556bf5c": {
-      "title": "Ask HN: First Step to Utopia – how can we turn normies into AI power users?",
-      "fetched_at": "2026-04-06T20:03:04.741754+00:00"
-    },
-    "bbffeb3123eb527d": {
-      "title": "Google quietly launched an AI dictation app that works offline",
-      "fetched_at": "2026-04-06T20:03:05.331833+00:00"
-    },
-    "6bf30a3aa450f5e2": {
-      "title": "Open AI to give up to $100k and up to $1M in API credits",
-      "fetched_at": "2026-04-06T20:03:05.943731+00:00"
-    },
-    "288137c6eb059592": {
-      "title": "Building an AI Companion with Perfect Memory",
-      "fetched_at": "2026-04-06T20:03:06.541544+00:00"
-    },
-    "f72bbb1da34f2e04": {
-      "title": "AI helps add 10k more photos to OldNYC",
-      "fetched_at": "2026-04-06T20:03:07.153540+00:00"
-    },
-    "ae09b3df296e996f": {
-      "title": "The Sales Learning Curve (2006)",
-      "fetched_at": "2026-04-06T20:03:07.913661+00:00"
-    },
-    "c531aa284544d6be": {
-      "title": "Show HN: Sandbox AI Agents with Full macOS",
-      "fetched_at": "2026-04-06T20:03:08.519547+00:00"
-    },
-    "899909495ab96796": {
-      "title": "Stop scattering your AI agent skills across projects",
-      "fetched_at": "2026-04-06T20:03:09.127163+00:00"
-    },
-    "ee79f8610964a105": {
-      "title": "You're Building AI Agents on Layers That Won't Exist in 18 Months [video]",
-      "fetched_at": "2026-04-06T20:03:09.731417+00:00"
-    },
-    "e2bcd0809efef715": {
-      "title": "Show HN: EvalLens – Open-source tool to evaluate structured LLM outputs",
-      "fetched_at": "2026-04-06T20:03:10.422283+00:00"
-    },
-    "9aa7ca8b2a5b98dc": {
-      "title": "Iran threatens ‘Stargate’ AI data centers",
-      "fetched_at": "2026-04-06T20:03:11.018142+00:00"
-    },
-    "a39c8e33eefd1813": {
-      "title": "The Genie Out of the Bottle – What Happens When AI Grants Your Wishes",
-      "fetched_at": "2026-04-06T20:03:11.663524+00:00"
-    },
-    "785bf1247f12c50e": {
-      "title": "We built adaptive follow ups into our Voice Mock Interviews at Four-Leaf.ai",
-      "fetched_at": "2026-04-06T20:03:12.249846+00:00"
-    },
-    "5a21150fd8833f90": {
-      "title": "‎Google AI Edge Eloquent App",
-      "fetched_at": "2026-04-06T20:03:12.859905+00:00"
-    },
-    "7ecb4171453ec855": {
-      "title": "The AI writing witchhunt is pointless",
-      "fetched_at": "2026-04-06T20:03:13.461378+00:00"
-    },
-    "901c969f68bcf6ec": {
-      "title": "USB-Clawd and a Mini Fax Machine",
-      "fetched_at": "2026-04-06T20:03:14.136692+00:00"
-    },
-    "46c87bae3a261568": {
-      "title": "Three Memory Architectures for AI Companions: Pgvector, Scratchpad, Filesystem",
-      "fetched_at": "2026-04-06T20:03:14.750581+00:00"
-    },
-    "dbe3e1f85ff0c822": {
-      "title": "分析：特朗普在憑直覺和伊朗打仗，很難如願以償",
-      "fetched_at": "2026-04-06T20:03:21.795007+00:00"
-    },
-    "de27b65a88e4cd41": {
-      "title": "伊朗戰爭激化：中國有何盤算？如何影響習特會談？",
-      "fetched_at": "2026-04-06T20:03:22.402185+00:00"
-    },
-    "15410290417a2229": {
-      "title": "Canada Repatriates Historic Items to Turkey",
-      "fetched_at": "2026-04-06T20:03:24.194964+00:00"
-    },
-    "95f6913adcfe1051": {
-      "title": "New Dates Push Back Occupation of Mohenjo-Daro",
-      "fetched_at": "2026-04-06T20:03:24.801178+00:00"
-    },
-    "19ded2766b6af0f7": {
-      "title": "Submerged Harbor Structures Examined Off Greece’s Southern Coastline",
-      "fetched_at": "2026-04-06T20:03:25.385880+00:00"
-    },
-    "cfce778a9acb61d1": {
-      "title": "AI-written code can beat humans at biomedical analysis, some studies find. What does that mean for the field?",
-      "fetched_at": "2026-04-06T20:03:25.980565+00:00"
-    },
-    "b774d6fd35f7ddb8": {
-      "title": "JitAPI – An MCP server for dynamic tool discovery (34x fewer tokens)",
-      "fetched_at": "2026-04-06T20:03:26.593029+00:00"
-    },
-    "ccfdd805c87af4f9": {
-      "title": "Artemis II moon flyby begins: How to watch and what to know",
-      "fetched_at": "2026-04-06T20:03:27.198606+00:00"
-    },
-    "736f8908ddcad6dd": {
-      "title": "'A cure on the horizon': Are we finally close to ending type 1 diabetes?",
-      "fetched_at": "2026-04-06T20:03:27.798482+00:00"
-    },
-    "b916f569a093d0aa": {
-      "title": "Stroke triggers a hidden brain change that looks like rejuvenation",
-      "fetched_at": "2026-04-06T20:03:28.410177+00:00"
-    },
-    "476500a14d1b8be9": {
-      "title": "New cholesterol guidelines could change when you get tested",
-      "fetched_at": "2026-04-06T20:03:29.003367+00:00"
-    },
-    "42630360fb0e5c0f": {
-      "title": "This new therapy turns off pain without opioids or addiction",
-      "fetched_at": "2026-04-06T20:03:29.583579+00:00"
-    },
-    "10fac425866d8117": {
-      "title": "This quantum computing breakthrough may not be what it seemed",
-      "fetched_at": "2026-04-06T20:03:30.176610+00:00"
-    },
     "5b8dc040ed5f03d8": {
       "title": "利安隆：目前润滑油添加剂尚未扩产",
       "fetched_at": "2026-04-07T05:58:30.580570+00:00"
@@ -3843,7 +3711,119 @@
     "8ac70c819f5b68f1": {
       "title": "The people you live with could be changing your gut bacteria",
       "fetched_at": "2026-04-14T18:58:11.820942+00:00"
+    },
+    "a2fca7eb9a301def": {
+      "title": "人民币兑美元中间价调升11个基点",
+      "fetched_at": "2026-04-15T01:21:11.616601+00:00"
+    },
+    "6860ae5b78c272c1": {
+      "title": "华西证券：看好锂电产业链高景气度趋势",
+      "fetched_at": "2026-04-15T01:21:12.469975+00:00"
+    },
+    "21a0fed964bdd2d2": {
+      "title": "美联储主席提名人沃什披露夫妻资产总额逾1.9亿美元，实际还远远不止",
+      "fetched_at": "2026-04-15T01:21:13.218309+00:00"
+    },
+    "046f896e9c29f901": {
+      "title": "财政部将于4月在香港发行155亿元人民币国债",
+      "fetched_at": "2026-04-15T01:21:13.862949+00:00"
+    },
+    "6834eba6257bac66": {
+      "title": "紧抓基本面掘金市场机遇，两大板块最受机构青睐",
+      "fetched_at": "2026-04-15T01:21:14.483355+00:00"
+    },
+    "a425fc4430ce348b": {
+      "title": "欧盟计划削减电力税并加快推广清洁能源",
+      "fetched_at": "2026-04-15T01:21:15.116817+00:00"
+    },
+    "c0cce827b331bd0a": {
+      "title": "Show HN: An edge MCP file system with a 50ms undo button for AI agents",
+      "fetched_at": "2026-04-15T01:21:15.739733+00:00"
+    },
+    "781449090debfefd": {
+      "title": "台光电、台耀、联茂等高阶CCL供应商集体调价，涨幅至高达40%",
+      "fetched_at": "2026-04-15T01:21:16.360810+00:00"
+    },
+    "bac1fea94823a674": {
+      "title": "一季度A股IPO市场“量质齐升”，未来产业踊跃“报考”",
+      "fetched_at": "2026-04-15T01:21:16.991254+00:00"
+    },
+    "de57c58a61fffaf8": {
+      "title": "光合创投完成开年最大VC募集",
+      "fetched_at": "2026-04-15T01:21:17.608710+00:00"
+    },
+    "3a14892468e0bf38": {
+      "title": "华泰证券：风电齿轮箱供需向好，产业链或迎来发展机遇",
+      "fetched_at": "2026-04-15T01:21:18.224264+00:00"
+    },
+    "fc8c1c64817c45be": {
+      "title": "Show HN: AI connects your health data after a supplement nearly killed me racing",
+      "fetched_at": "2026-04-15T01:21:18.881058+00:00"
+    },
+    "891b91797e669214": {
+      "title": "特斯拉高管称上海工厂将为擎天柱机器人量产提供“金钥匙”",
+      "fetched_at": "2026-04-15T01:21:19.511851+00:00"
+    },
+    "eed7a3318cfa8684": {
+      "title": "业绩亮眼股价承压，上市券商将多措并举推动价值回归",
+      "fetched_at": "2026-04-15T01:21:20.128562+00:00"
+    },
+    "76e461f974d5e062": {
+      "title": "中信证券：看好铜板块在2026年第二季度重回市场配置主线",
+      "fetched_at": "2026-04-15T01:21:20.756792+00:00"
+    },
+    "dbdee7133787bbc9": {
+      "title": "两市融资余额较上日增加163.45亿元",
+      "fetched_at": "2026-04-15T01:21:21.406987+00:00"
+    },
+    "d8750dee4fa2052d": {
+      "title": "韩国3月进口物价同比劲升18.4%，创逾三年最高涨幅",
+      "fetched_at": "2026-04-15T01:21:22.063686+00:00"
+    },
+    "e5ee1fda562bd8b0": {
+      "title": "债基大额赎回频现，帮忙资金或“卡点”撤离",
+      "fetched_at": "2026-04-15T01:21:22.696694+00:00"
+    },
+    "668980f37f75f25d": {
+      "title": "光通信进入可持续景气周期，产业链多环节成长空间打开",
+      "fetched_at": "2026-04-15T01:21:23.549255+00:00"
+    },
+    "fc03a293a38f647a": {
+      "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
+      "fetched_at": "2026-04-15T01:21:24.170869+00:00"
+    },
+    "452c46322c1bb1a9": {
+      "title": "香港首個五年規劃：北京下達KPI還是「責無旁貸」的社會主義融合？",
+      "fetched_at": "2026-04-15T01:21:26.143210+00:00"
+    },
+    "27419b2fc00b0035": {
+      "title": "习近平对伊朗战争表态，隐晦批评美国",
+      "fetched_at": "2026-04-15T01:21:26.757161+00:00"
+    },
+    "3a439a588dcaaa3b": {
+      "title": "還原在伊朗偏遠地區墜機的美軍軍官被救過程",
+      "fetched_at": "2026-04-15T01:21:27.411526+00:00"
+    },
+    "feed6b044594bb20": {
+      "title": "Triassic croc relative from Ghost Ranch, New Mexico finally identified after nearly 80 years in museum basement",
+      "fetched_at": "2026-04-15T01:21:28.968877+00:00"
+    },
+    "cc16dd10d4c61eae": {
+      "title": "Data Discovery – plain-English to discovering and acquiring data using AI",
+      "fetched_at": "2026-04-15T01:21:29.592535+00:00"
+    },
+    "40b8731ec91cfe25": {
+      "title": "Stele Fragments from South Korea’s Wolseong Palace Reunited",
+      "fetched_at": "2026-04-15T01:21:30.216331+00:00"
+    },
+    "6024bda1c1e370f8": {
+      "title": "Aqueduct Uncovered at Roman Army Camp in Slovakia",
+      "fetched_at": "2026-04-15T01:21:30.982785+00:00"
+    },
+    "ff209dc7be36723f": {
+      "title": "Roman Emperor Identified on Karnak Stele",
+      "fetched_at": "2026-04-15T01:21:31.608950+00:00"
     }
   },
-  "last_updated": "2026-04-14T18:58:11.972007+00:00"
+  "last_updated": "2026-04-15T01:21:31.715587+00:00"
 }
