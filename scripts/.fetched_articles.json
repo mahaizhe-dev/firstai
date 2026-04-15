@@ -1,117 +1,5 @@
 {
   "articles": {
-    "a553f710c3c39119": {
-      "title": "AI Agent Sandboxes Got Security Wrong",
-      "fetched_at": "2026-04-07T16:14:48.314447+00:00"
-    },
-    "dc1287be783b2bcb": {
-      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-      "fetched_at": "2026-04-07T16:14:49.063895+00:00"
-    },
-    "beabb8094963e92d": {
-      "title": "Show HN: I built an AI that forgets things when people leave the room",
-      "fetched_at": "2026-04-07T16:14:49.712300+00:00"
-    },
-    "9a8644c43b50ceda": {
-      "title": "AI Agent Guardrails: Pre-LLM and Post-LLM Best Practices",
-      "fetched_at": "2026-04-07T16:14:50.342342+00:00"
-    },
-    "9826b69b8ad2197a": {
-      "title": "Same LLM but different output: we built a CI specialist",
-      "fetched_at": "2026-04-07T16:14:51.025688+00:00"
-    },
-    "ff24741cc05ca33d": {
-      "title": "AMD's senior director of AI thinks 'Claude has regressed'",
-      "fetched_at": "2026-04-07T16:14:51.638400+00:00"
-    },
-    "13d907f4efffc10c": {
-      "title": "Safeguarded AI",
-      "fetched_at": "2026-04-07T16:14:52.209392+00:00"
-    },
-    "0424a79630d1c45c": {
-      "title": "Intel will help build Elon Musk’s Terafab AI chip factory",
-      "fetched_at": "2026-04-07T16:14:52.901948+00:00"
-    },
-    "2c91992b8fd46703": {
-      "title": "I Built a Wiki LLM",
-      "fetched_at": "2026-04-07T16:14:53.630525+00:00"
-    },
-    "21d8f67dfdc6710a": {
-      "title": "AI Will Not Make You Rich",
-      "fetched_at": "2026-04-07T16:14:54.221491+00:00"
-    },
-    "53dde3601fff057b": {
-      "title": "Diffuse AI Issue 1",
-      "fetched_at": "2026-04-07T16:14:54.810766+00:00"
-    },
-    "d8b7c0b38b6f3e83": {
-      "title": "DispoRx: Using Agentic AI as a high-fidelity simulator for ER workflows",
-      "fetched_at": "2026-04-07T16:14:55.390603+00:00"
-    },
-    "b620c41ece0427df": {
-      "title": "Slople – Can you tell real ML papers from AI-generated ones?",
-      "fetched_at": "2026-04-07T16:14:55.972564+00:00"
-    },
-    "a6a108e43173295d": {
-      "title": "So where are all the AI apps?",
-      "fetched_at": "2026-04-07T16:14:56.553027+00:00"
-    },
-    "e13bc58fe9b752c4": {
-      "title": "Show HN: Falcon Builder – the modular OS for designing and deploying AI agents",
-      "fetched_at": "2026-04-07T16:14:57.334994+00:00"
-    },
-    "ee04a63f03ed2ed0": {
-      "title": "Google Maps can now write captions for your photos using AI",
-      "fetched_at": "2026-04-07T16:14:58.079813+00:00"
-    },
-    "6803e61072b95dd8": {
-      "title": "AI alignment: the signal is the goal",
-      "fetched_at": "2026-04-07T16:14:58.658517+00:00"
-    },
-    "dcc9e2d678e7c0b2": {
-      "title": "I don't want an autonomous AI agent. I want a collaborator",
-      "fetched_at": "2026-04-07T16:14:59.238552+00:00"
-    },
-    "31fa7a773f2896eb": {
-      "title": "How Not to Use AI? (At Work)",
-      "fetched_at": "2026-04-07T16:14:59.819158+00:00"
-    },
-    "f63432b67945d821": {
-      "title": "Physical Engineering AI – tools for mech engineers",
-      "fetched_at": "2026-04-07T16:15:00.395753+00:00"
-    },
-    "461a6fb480576783": {
-      "title": "香港80年傳統醬油工廠 都市開發中求生存",
-      "fetched_at": "2026-04-07T16:15:05.253668+00:00"
-    },
-    "f7746b952cfd8673": {
-      "title": "AI 'mirages' mean tools used to analyze medical scans could fabricate their findings",
-      "fetched_at": "2026-04-07T16:15:12.262955+00:00"
-    },
-    "4a2a92a44a1d4cbf": {
-      "title": "What Happened to the Ancient Bug Giants of 300M Years Ago?",
-      "fetched_at": "2026-04-07T16:15:12.855218+00:00"
-    },
-    "0c4724c4c6988aea": {
-      "title": "World's fattest parrot — on the verge of extinction 30 years ago — has record-breaking breeding season",
-      "fetched_at": "2026-04-07T16:15:13.461426+00:00"
-    },
-    "ae86cd87cfe7a170": {
-      "title": "What historical evidence do we have of Jesus' crucifixion and its aftermath",
-      "fetched_at": "2026-04-07T16:15:14.038343+00:00"
-    },
-    "e9c40f8b69668012": {
-      "title": "California declared war on smog in the 1970s. The knock-on effects were huge.",
-      "fetched_at": "2026-04-07T16:15:14.728863+00:00"
-    },
-    "beb63f5c69514b95": {
-      "title": "Laifen Wave Pro electric toothbrush review: A perfect all-rounder",
-      "fetched_at": "2026-04-07T16:15:15.345936+00:00"
-    },
-    "a0ddc99e980c8361": {
-      "title": "Physicists moved volatile antimatter by truck for the first time ever — paving the way for groundbreaking new research",
-      "fetched_at": "2026-04-07T16:15:16.001924+00:00"
-    },
     "88ee7c96f4eb1a11": {
       "title": "How We Built a Slop-Proof AI Engineering Workflow",
       "fetched_at": "2026-04-07T20:04:56.363216+00:00"
@@ -3815,7 +3703,147 @@
     "375c7a7d27ffb93f": {
       "title": "Scientists discover “cleaner ants” that groom giant ants in Arizona desert",
       "fetched_at": "2026-04-15T12:59:26.564771+00:00"
+    },
+    "cd5333069c024aae": {
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "fetched_at": "2026-04-15T18:59:14.012999+00:00"
+    },
+    "9043f144b32bc883": {
+      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+      "fetched_at": "2026-04-15T18:59:14.650511+00:00"
+    },
+    "cf36edb55be017a4": {
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "fetched_at": "2026-04-15T18:59:15.323190+00:00"
+    },
+    "eae112c502879735": {
+      "title": "Jane Street Signs $6B AI Cloud Agreement with CoreWeave",
+      "fetched_at": "2026-04-15T18:59:15.948711+00:00"
+    },
+    "c694f58078d538bd": {
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "fetched_at": "2026-04-15T18:59:16.658889+00:00"
+    },
+    "cb59f59672961cd9": {
+      "title": "AI papers published in 2026 worth reading",
+      "fetched_at": "2026-04-15T18:59:17.315253+00:00"
+    },
+    "f4b098f32140ab26": {
+      "title": "Google rolls out a native Gemini app for Mac",
+      "fetched_at": "2026-04-15T18:59:17.938832+00:00"
+    },
+    "bf8d2267a02053d3": {
+      "title": "Before he wrote AI 2027, he predicted the world in 2026. How did he do?",
+      "fetched_at": "2026-04-15T18:59:18.564409+00:00"
+    },
+    "6e8cddc1d5457261": {
+      "title": "Shoe brand Allbirds says it will become an AI company, sending shares soaring",
+      "fetched_at": "2026-04-15T18:59:19.191191+00:00"
+    },
+    "a5adb062f09fa3d5": {
+      "title": "AI-Assisted Cognition Endangers Human Development",
+      "fetched_at": "2026-04-15T18:59:19.808375+00:00"
+    },
+    "e90dca976ee38b34": {
+      "title": "AI Is an Amplifier. What Are You Amplifying?",
+      "fetched_at": "2026-04-15T18:59:20.428238+00:00"
+    },
+    "bf5cda5b190b29a5": {
+      "title": "Google launches a Gemini AI app on Mac",
+      "fetched_at": "2026-04-15T18:59:21.193426+00:00"
+    },
+    "406e1a04c8b6cb71": {
+      "title": "The tech jobs bust is real. Don't blame AI (yet)",
+      "fetched_at": "2026-04-15T18:59:21.825894+00:00"
+    },
+    "a2b2245f46b9a554": {
+      "title": "For Its Next Act, Allbirds Makes an Unlikely Pivot from Shoes to AI",
+      "fetched_at": "2026-04-15T18:59:22.501192+00:00"
+    },
+    "dd84dfbc06d2554c": {
+      "title": "The musician-turned-biotech-founder waiting to fundraise",
+      "fetched_at": "2026-04-15T18:59:23.125438+00:00"
+    },
+    "c02d28f4df635d18": {
+      "title": "Stopping the Meta AI director's \"OpenClaw failure with an out-of-band killswitch",
+      "fetched_at": "2026-04-15T18:59:23.732300+00:00"
+    },
+    "fd1b43e6d2e13907": {
+      "title": "HuggingFace launches pre-compiled machine learning kernels repository",
+      "fetched_at": "2026-04-15T18:59:24.394121+00:00"
+    },
+    "e8d3e1a4ad5f64e1": {
+      "title": "Show HN: Multi-Agent Orchestration on Top of Vercel AI SDK (TypeScript, Next.js)",
+      "fetched_at": "2026-04-15T18:59:25.009179+00:00"
+    },
+    "6d70f74e517c658f": {
+      "title": "I ran 90 queries through 8 AI models. 86% of findings were unique to one",
+      "fetched_at": "2026-04-15T18:59:25.663360+00:00"
+    },
+    "5a260afff561ac9d": {
+      "title": "Show HN Deskdrop: An Android Keyboard with Local AI Support (Ollama, LM Studio)",
+      "fetched_at": "2026-04-15T18:59:26.287782+00:00"
+    },
+    "474e6a3b9f018561": {
+      "title": "IMF：油價與戰爭或拖累全球經濟增長",
+      "fetched_at": "2026-04-15T18:59:28.601887+00:00"
+    },
+    "28819fc5d4e5d8be": {
+      "title": "貝森特接受BBC採訪：為了免受伊朗長期安全威脅，「一點痛苦」是值得的",
+      "fetched_at": "2026-04-15T18:59:29.217173+00:00"
+    },
+    "bd772e4b189f2fcd": {
+      "title": "'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding",
+      "fetched_at": "2026-04-15T18:59:30.838980+00:00"
+    },
+    "35671600a7eeed99": {
+      "title": "'Human evolution didn't slow down; we were just missing the signal': Large DNA study reveals natural selection led to more redheads and less male-pattern baldness",
+      "fetched_at": "2026-04-15T18:59:31.473736+00:00"
+    },
+    "711c20d9a7b5906b": {
+      "title": "Artemis II quiz: Is your knowledge of NASA's historic moon mission out of this world?",
+      "fetched_at": "2026-04-15T18:59:32.092657+00:00"
+    },
+    "27cdec80cc87d159": {
+      "title": "New study confirms lobsters feel pain, driving scientists to call for a ban on boiling them alive",
+      "fetched_at": "2026-04-15T18:59:32.714175+00:00"
+    },
+    "5f8818e5f03e8007": {
+      "title": "This humanoid robot does all your housework for you ‪—‬ and its makers say it's ready for your home",
+      "fetched_at": "2026-04-15T18:59:33.420270+00:00"
+    },
+    "9370778b2a0f3703": {
+      "title": "Ancient process that created rare earth elements discovered — and it could help us locate desperately needed deposits",
+      "fetched_at": "2026-04-15T18:59:34.065424+00:00"
+    },
+    "d1c1f209271d4e61": {
+      "title": "Strange mammal ancestor laid huge, leathery eggs —‬ and it was key to surviving the world's worst mass extinction",
+      "fetched_at": "2026-04-15T18:59:34.678950+00:00"
+    },
+    "14c46d6be9e840f0": {
+      "title": "Discovery of Agents, Workloads, and Named Entities IETF Mailing List",
+      "fetched_at": "2026-04-15T18:59:35.299017+00:00"
+    },
+    "b4c7798863b34632": {
+      "title": "Ancient Excel bug comes out of retirement for active attacks",
+      "fetched_at": "2026-04-15T18:59:35.932526+00:00"
+    },
+    "623ead8753206977": {
+      "title": "A crushed fossil revealed a dinosaur that shouldn’t have existed",
+      "fetched_at": "2026-04-15T18:59:36.618192+00:00"
+    },
+    "090bc70714b9e252": {
+      "title": "This 31-foot “terror croc” ate dinosaurs. Now it’s back",
+      "fetched_at": "2026-04-15T18:59:37.242411+00:00"
+    },
+    "c6bdc69780890bf2": {
+      "title": "The surprising reason you’re so productive one day and not the next",
+      "fetched_at": "2026-04-15T18:59:38.324070+00:00"
+    },
+    "3b54dad38d6b128a": {
+      "title": "Scientists think alien life might be hiding in patterns",
+      "fetched_at": "2026-04-15T18:59:38.954718+00:00"
     }
   },
-  "last_updated": "2026-04-15T12:59:26.715193+00:00"
+  "last_updated": "2026-04-15T18:59:39.108230+00:00"
 }
