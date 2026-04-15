@@ -1,101 +1,5 @@
 {
   "articles": {
-    "aebf33b0f8ce42c4": {
-      "title": "ST中珠：陈旭因工作调整辞任董事长",
-      "fetched_at": "2026-04-07T09:51:40.835729+00:00"
-    },
-    "8457f2fe0b205ec7": {
-      "title": "长源东谷：拟购买襄阳康豪机电工程100%股权，股票复牌",
-      "fetched_at": "2026-04-07T09:51:41.456411+00:00"
-    },
-    "5c71d9646f01530f": {
-      "title": "金杯汽车、自变量机器人在沈阳成立合资公司",
-      "fetched_at": "2026-04-07T09:51:42.059144+00:00"
-    },
-    "306288948a43b54e": {
-      "title": "金龙汽车：3月客车销售量3088辆，同比下降33.45%",
-      "fetched_at": "2026-04-07T09:51:42.668427+00:00"
-    },
-    "693727a1a5975864": {
-      "title": "宁德时代旗下公司在呼和浩特成立新科技公司",
-      "fetched_at": "2026-04-07T09:51:43.286959+00:00"
-    },
-    "68595e5d59b8239f": {
-      "title": "“云澎科技”完成A+轮融资",
-      "fetched_at": "2026-04-07T09:51:43.938273+00:00"
-    },
-    "dbf348f507112dda": {
-      "title": "宁德时代聘请紫金矿业创始人陈景河",
-      "fetched_at": "2026-04-07T09:51:44.544820+00:00"
-    },
-    "dc4b7b3755cbbafe": {
-      "title": "The AI Roadmap: How We Ensure AI Serves Humanity",
-      "fetched_at": "2026-04-07T09:51:45.213832+00:00"
-    },
-    "2badc2f5141e5fff": {
-      "title": "济民健康：控股股东拟7.72元/股的价格协议转让5%公司股份",
-      "fetched_at": "2026-04-07T09:51:45.807504+00:00"
-    },
-    "0270f063025f9251": {
-      "title": "贝索斯新实验室或将从OpenAI挖来xAI联合创始人",
-      "fetched_at": "2026-04-07T09:51:46.417590+00:00"
-    },
-    "f8ff0f79d4960846": {
-      "title": "Essay on AI – Exploring the transformative impact of AI on modern society",
-      "fetched_at": "2026-04-07T09:51:47.106301+00:00"
-    },
-    "cb1fef0c608222e7": {
-      "title": "*ST波导：申请撤销公司股票退市风险警示",
-      "fetched_at": "2026-04-07T09:51:47.781116+00:00"
-    },
-    "038b2e6e47f587d6": {
-      "title": "报告：蜂巢能源1-2月全球动力电池装机量增速位居Top10之首，市场份额居全球第八",
-      "fetched_at": "2026-04-07T09:51:48.531580+00:00"
-    },
-    "8b403ecd5d62ac3b": {
-      "title": "Show HN: An AI-powered knowledge base that thinks",
-      "fetched_at": "2026-04-07T09:51:49.137174+00:00"
-    },
-    "5ad95ce3b2951a28": {
-      "title": "日本国会参议院通过2026财年预算案",
-      "fetched_at": "2026-04-07T09:51:49.789503+00:00"
-    },
-    "21086fcad0a06605": {
-      "title": "MAIP – Machine Agent Identity Protocol",
-      "fetched_at": "2026-04-07T09:51:50.395639+00:00"
-    },
-    "460c44ab5ad71ccc": {
-      "title": "Writing an LLM from scratch, part 32h – Interventions: full fat float32",
-      "fetched_at": "2026-04-07T09:51:50.993997+00:00"
-    },
-    "2a4d2f4d41f5c564": {
-      "title": "ST人福：控股子公司RFUS-1646片临床试验获批",
-      "fetched_at": "2026-04-07T09:51:51.636380+00:00"
-    },
-    "9ebdd740a44eef45": {
-      "title": "生物股份：子公司获准生产紧急免疫用口蹄疫疫苗",
-      "fetched_at": "2026-04-07T09:51:52.246536+00:00"
-    },
-    "f240a8c5e6c09d9d": {
-      "title": "Show HN: AI agents that learn from each other's mistakes",
-      "fetched_at": "2026-04-07T09:51:52.858502+00:00"
-    },
-    "fe08135ee1e84272": {
-      "title": "「鄭習會」：從南京到北京，鄭麗文訪陸能否掌握敘事主導權？",
-      "fetched_at": "2026-04-07T09:51:55.870607+00:00"
-    },
-    "3ce61fc4955167ef": {
-      "title": "最後通牒進入倒計時 但伊朗絲毫無意理睬特朗普",
-      "fetched_at": "2026-04-07T09:51:56.490180+00:00"
-    },
-    "a2ac174ecb71beaf": {
-      "title": "中国缔造了全球无人机产业，却“封锁”了天空",
-      "fetched_at": "2026-04-07T09:51:57.168706+00:00"
-    },
-    "ff5ef8ef08c5d3b0": {
-      "title": "Deadly, vivid-green mass sprawls across South African reservoir — Earth from space",
-      "fetched_at": "2026-04-07T09:52:08.233984+00:00"
-    },
     "a553f710c3c39119": {
       "title": "AI Agent Sandboxes Got Security Wrong",
       "fetched_at": "2026-04-07T16:14:48.314447+00:00"
@@ -3799,7 +3703,119 @@
     "fa2cef8655353bd5": {
       "title": "与教宗良十四世论战，特朗普这次的对手“不好惹”",
       "fetched_at": "2026-04-15T07:17:22.854659+00:00"
+    },
+    "2d7ce8bc69a0dca8": {
+      "title": "热门中概股美股盘前多数下跌，百度跌超1%",
+      "fetched_at": "2026-04-15T12:58:05.751088+00:00"
+    },
+    "6da4945e04d884d4": {
+      "title": "东风天元智舱Plus平台搭载黑芝麻智能武当C1296芯片，打造首个本土舱驾一体量产化平台",
+      "fetched_at": "2026-04-15T12:58:06.367616+00:00"
+    },
+    "fe818357c15d1ee0": {
+      "title": "美股大型科技股盘前涨跌不一，微软涨超1%",
+      "fetched_at": "2026-04-15T12:58:06.991417+00:00"
+    },
+    "8aed0a0c7f4688e5": {
+      "title": "猪价大降超30%，处7年低点",
+      "fetched_at": "2026-04-15T12:58:07.615514+00:00"
+    },
+    "0b049d2f44da336c": {
+      "title": "AI Reveals Why BI Still Matters (Hint: It's Not Dashboards)",
+      "fetched_at": "2026-04-15T12:58:08.235624+00:00"
+    },
+    "36c6b7bfce6abebe": {
+      "title": "Open Letter: EU lawmakers must safeguard the AI Act",
+      "fetched_at": "2026-04-15T12:58:08.950299+00:00"
+    },
+    "53c98ceb8981880d": {
+      "title": "宁德时代：二季度产能利用率预计维持在八到九成以上",
+      "fetched_at": "2026-04-15T12:58:09.573215+00:00"
+    },
+    "479bf0d28833d831": {
+      "title": "美格智能：拟3亿元投建AI研发及先进制造产业项目",
+      "fetched_at": "2026-04-15T12:58:10.196234+00:00"
+    },
+    "aea138e2b98526d1": {
+      "title": "AI learns language from skewed sources. That could change how we speak and think",
+      "fetched_at": "2026-04-15T12:58:10.823838+00:00"
+    },
+    "be62af43a6ea550b": {
+      "title": "美国3月进口价格环比上涨0.8%",
+      "fetched_at": "2026-04-15T12:58:11.436563+00:00"
+    },
+    "3e130a6f75f679d6": {
+      "title": "Open-source AI cost router – cut API bills 30-50% with automatic failover",
+      "fetched_at": "2026-04-15T12:58:12.074522+00:00"
+    },
+    "d61a54b8d765bbf5": {
+      "title": "CoreWeave与Jane Street签署60亿美元AI云计算协议",
+      "fetched_at": "2026-04-15T12:58:12.706459+00:00"
+    },
+    "c2674fb352dab6ff": {
+      "title": "美国财长贝森特：汽油价格将很快开始下降",
+      "fetched_at": "2026-04-15T12:58:13.340216+00:00"
+    },
+    "8a40bf9d627ba1fd": {
+      "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
+      "fetched_at": "2026-04-15T12:58:13.963118+00:00"
+    },
+    "c513f5e259b176e4": {
+      "title": "杨利娟辞任特海CEO，接手海底捞红石榴计划",
+      "fetched_at": "2026-04-15T12:58:14.586030+00:00"
+    },
+    "b97cd86f6380bec9": {
+      "title": "Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",
+      "fetched_at": "2026-04-15T12:58:15.216460+00:00"
+    },
+    "6d04b698d759d130": {
+      "title": "Bws-MCP-server – giving AI agents a controlled path to Bitwarden secrets",
+      "fetched_at": "2026-04-15T12:58:15.842019+00:00"
+    },
+    "1f431de8029f02b9": {
+      "title": "英国广播公司据悉将裁员2000人",
+      "fetched_at": "2026-04-15T12:58:16.461315+00:00"
+    },
+    "82d7ce37464ceadf": {
+      "title": "宁德时代：拟设立时代资源集团，注册资本300亿元",
+      "fetched_at": "2026-04-15T12:58:17.073716+00:00"
+    },
+    "1ffcc1b4e598ce72": {
+      "title": "Show HN: WorkProtocol – Where AI agents do real work for real pay",
+      "fetched_at": "2026-04-15T12:58:17.726397+00:00"
+    },
+    "4c1078599bd54ded": {
+      "title": "美國封鎖霍爾木茲首日：中國公司擁有的貨輪「富星號」穿越海峽後折返",
+      "fetched_at": "2026-04-15T12:59:20.814426+00:00"
+    },
+    "42086c9a3da96c58": {
+      "title": "73 moon landings? NASA's 'Moon Base User's Guide' reveals the agency's 'most ambitious space project' will be fraught with challenges",
+      "fetched_at": "2026-04-15T12:59:22.776515+00:00"
+    },
+    "816e24de61f28797": {
+      "title": "Diagnostic dilemma: A woman heard voices telling her she had a brain tumor ‪—‬ and scans confirmed she did",
+      "fetched_at": "2026-04-15T12:59:23.407462+00:00"
+    },
+    "968c1a7c3b417b52": {
+      "title": "Digital Archaeology: where does Bitcoin's 21M come from?",
+      "fetched_at": "2026-04-15T12:59:24.049720+00:00"
+    },
+    "97fc194623af9e42": {
+      "title": "Graphene just defied a fundamental law of physics",
+      "fetched_at": "2026-04-15T12:59:24.692424+00:00"
+    },
+    "ace6f19030fc4d72": {
+      "title": "95% of people carry this virus and scientists may have just found how to stop it",
+      "fetched_at": "2026-04-15T12:59:25.323476+00:00"
+    },
+    "37247b78c3f055b1": {
+      "title": "Scientists just solved a 160-million-year fossil mystery “I’ve never seen anything like it”",
+      "fetched_at": "2026-04-15T12:59:25.945908+00:00"
+    },
+    "375c7a7d27ffb93f": {
+      "title": "Scientists discover “cleaner ants” that groom giant ants in Arizona desert",
+      "fetched_at": "2026-04-15T12:59:26.564771+00:00"
     }
   },
-  "last_updated": "2026-04-15T07:17:24.217097+00:00"
+  "last_updated": "2026-04-15T12:59:26.715193+00:00"
 }
