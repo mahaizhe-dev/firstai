@@ -1,121 +1,5 @@
 {
   "articles": {
-    "88ee7c96f4eb1a11": {
-      "title": "How We Built a Slop-Proof AI Engineering Workflow",
-      "fetched_at": "2026-04-07T20:04:56.363216+00:00"
-    },
-    "a396e744911fd08c": {
-      "title": "InariWatch – AI monitoring that fixes production errors and ships the PR",
-      "fetched_at": "2026-04-07T20:04:56.991300+00:00"
-    },
-    "ced1d6aa904c4485": {
-      "title": "Writing an LLM from scratch, part 32i – Interventions: what is in the noise?",
-      "fetched_at": "2026-04-07T20:04:57.607035+00:00"
-    },
-    "ce4cc2783e201040": {
-      "title": "Show HN: Visualize token entropy in a tiny in-browser LLM",
-      "fetched_at": "2026-04-07T20:04:58.241672+00:00"
-    },
-    "b3b54e45d37e480c": {
-      "title": "AI agents are scrambling power users' brains",
-      "fetched_at": "2026-04-07T20:04:58.864927+00:00"
-    },
-    "a5f0e6b45ba42d3f": {
-      "title": "Interview Helper – Real-time AI translation",
-      "fetched_at": "2026-04-07T20:04:59.487933+00:00"
-    },
-    "0eaf09e9e7f89253": {
-      "title": "The Cognitive Costs of AI",
-      "fetched_at": "2026-04-07T20:05:00.114818+00:00"
-    },
-    "737b27742232f8dc": {
-      "title": "Show HN: Kronaxis Router – Don't pay frontier prices when a local LLM is enough",
-      "fetched_at": "2026-04-07T20:05:00.751704+00:00"
-    },
-    "a1a8f7788cba01b6": {
-      "title": "What AI is Doing to the Workforce [video]",
-      "fetched_at": "2026-04-07T20:05:01.378394+00:00"
-    },
-    "979fc2220acca613": {
-      "title": "Where are we converging with all AI companies running the same business model",
-      "fetched_at": "2026-04-07T20:05:01.988028+00:00"
-    },
-    "e2d29c293445d080": {
-      "title": "Give Your AI Eyes: Introducing Chrome DevTools MCP",
-      "fetched_at": "2026-04-07T20:05:02.617900+00:00"
-    },
-    "24ed4fdff6cbd7f7": {
-      "title": "Show HN: I built an AI coding agent 50% cheaper than Claude Code (same prompts)",
-      "fetched_at": "2026-04-07T20:05:03.248865+00:00"
-    },
-    "dd5977fc17789a71": {
-      "title": "Spacebot: Agentic AI system where LLM process has a dedicated role, OpenClaw alt",
-      "fetched_at": "2026-04-07T20:05:03.889538+00:00"
-    },
-    "bffcf6bbf53bd9b5": {
-      "title": "China is winning one AI race, the US another – but either might pull ahead",
-      "fetched_at": "2026-04-07T20:05:04.508289+00:00"
-    },
-    "c63f6d79f1f8811b": {
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "fetched_at": "2026-04-07T20:05:05.207550+00:00"
-    },
-    "7ce9818ba05b5646": {
-      "title": "AI modeling techniques for vision-based occupancy determination",
-      "fetched_at": "2026-04-07T20:05:05.823930+00:00"
-    },
-    "26294a0e536bd5e1": {
-      "title": "Skilled older workers turn to AI training to stay afloat",
-      "fetched_at": "2026-04-07T20:05:06.451788+00:00"
-    },
-    "383cacc3a1222832": {
-      "title": "If-pal: play Zork (and other games) with an AI gen alpha companion",
-      "fetched_at": "2026-04-07T20:05:07.084798+00:00"
-    },
-    "a827b858d1d9e992": {
-      "title": "A graph of Trump's contradictions that builds itself using a local LLM",
-      "fetched_at": "2026-04-07T20:05:07.798310+00:00"
-    },
-    "5102bc57d7795015": {
-      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
-      "fetched_at": "2026-04-07T20:05:08.415034+00:00"
-    },
-    "cade1c9186aeca19": {
-      "title": "'They are literally everywhere': The shocking story of how forever chemicals polluted the world",
-      "fetched_at": "2026-04-07T20:05:15.485074+00:00"
-    },
-    "e57bd57f5d3d6bbd": {
-      "title": "Midden Island Identified in Fiji Archipelago",
-      "fetched_at": "2026-04-07T20:05:16.113202+00:00"
-    },
-    "69919b955a22e3fa": {
-      "title": "Ancient Papyrus Reveals New Lines of Greek Philosophy",
-      "fetched_at": "2026-04-07T20:05:16.747365+00:00"
-    },
-    "7cf4128119da033c": {
-      "title": "DNA reveals ancestry of man buried in Stone Age monument in Spain, but his religion remains a mystery",
-      "fetched_at": "2026-04-07T20:05:17.368933+00:00"
-    },
-    "17e7910f9dfcb85f": {
-      "title": "'So much magic': Artemis II shares first images from the far side of the moon, including new 'Earthset' and total eclipse in space",
-      "fetched_at": "2026-04-07T20:05:18.109782+00:00"
-    },
-    "6bd8e7d32987ed01": {
-      "title": "Some dinosaurs could rise up like giants — until they grew too big",
-      "fetched_at": "2026-04-07T20:05:18.740774+00:00"
-    },
-    "92c4357013fadad8": {
-      "title": "Simple therapies beat drugs for knee arthritis pain relief",
-      "fetched_at": "2026-04-07T20:05:19.552952+00:00"
-    },
-    "5a7a329975f01018": {
-      "title": "Webb telescope spots mysterious explosion that defies known physics",
-      "fetched_at": "2026-04-07T20:05:20.266015+00:00"
-    },
-    "0b6e7389b93e32de": {
-      "title": "Monster black holes are silencing star formation across the universe",
-      "fetched_at": "2026-04-07T20:05:20.893686+00:00"
-    },
     "6d430fbd9ef05fb4": {
       "title": "Optinum – finds the blind spots AI coding agents systematically miss in PR tests",
       "fetched_at": "2026-04-08T06:00:26.096020+00:00"
@@ -3843,7 +3727,119 @@
     "3b54dad38d6b128a": {
       "title": "Scientists think alien life might be hiding in patterns",
       "fetched_at": "2026-04-15T18:59:38.954718+00:00"
+    },
+    "1034df2a0d1a80e9": {
+      "title": "恒指开盘涨0.68%，恒生科技指数涨1.31%",
+      "fetched_at": "2026-04-16T01:26:42.273952+00:00"
+    },
+    "7f1963bc60519c5a": {
+      "title": "人民币对美元中间价调贬34个基点",
+      "fetched_at": "2026-04-16T01:26:42.916948+00:00"
+    },
+    "8fd25d5f8fe4ee93": {
+      "title": "韩国：第一季度来韩外国游客达476万人次，中国游客约占三分之一",
+      "fetched_at": "2026-04-16T01:26:43.613310+00:00"
+    },
+    "b0b6d99a11cf74ce": {
+      "title": "车企账期整体性回落，行业主动告别“内卷”、修复供应链生态",
+      "fetched_at": "2026-04-16T01:26:44.233708+00:00"
+    },
+    "9258725a3836b304": {
+      "title": "东风汽车正式发布“天元智舱”系列平台",
+      "fetched_at": "2026-04-16T01:26:44.856246+00:00"
+    },
+    "87a908bf2e938805": {
+      "title": "3月中国快递发展指数同比增长2.4%",
+      "fetched_at": "2026-04-16T01:26:45.487610+00:00"
+    },
+    "4ee944ef1cb85644": {
+      "title": "外国持有美国国债规模创一年来最大增幅并创纪录新高",
+      "fetched_at": "2026-04-16T01:26:46.107702+00:00"
+    },
+    "0f09ee2b69889b4a": {
+      "title": "中信证券：稀土管制开启中国高端陶瓷历史机遇期",
+      "fetched_at": "2026-04-16T01:26:46.730590+00:00"
+    },
+    "3803173321c45d8e": {
+      "title": "EU AI Act: curated tools, official sources, templates, and OSS",
+      "fetched_at": "2026-04-16T01:26:47.358873+00:00"
+    },
+    "c7c9e0794bdd9f85": {
+      "title": "医药行业迎政策东风，相关板块或正步入长期配置窗口",
+      "fetched_at": "2026-04-16T01:26:47.984895+00:00"
+    },
+    "8481ac6d26b18754": {
+      "title": "特朗普签发多项输油管道许可，以促进美加之间的石油运输",
+      "fetched_at": "2026-04-16T01:26:48.611020+00:00"
+    },
+    "49063104eed48823": {
+      "title": "Adobe推出可操作Claude的创意工具AI助手",
+      "fetched_at": "2026-04-16T01:26:49.241004+00:00"
+    },
+    "bf46aaebdf7597fc": {
+      "title": "中信证券：坚定看好存储产业趋势，核心推荐存储原厂及贴近原厂的设计公司",
+      "fetched_at": "2026-04-16T01:26:50.117932+00:00"
+    },
+    "6991ae845cd739d1": {
+      "title": "Amazon AI Cancelling Webcomics",
+      "fetched_at": "2026-04-16T01:26:50.749780+00:00"
+    },
+    "2379952abc009fe0": {
+      "title": "港股通标的证券名单调整，调入禾赛-W",
+      "fetched_at": "2026-04-16T01:26:51.380477+00:00"
+    },
+    "537eba348b30b1c7": {
+      "title": "印度航空报告年度亏损超24亿美元，寻求股东支持",
+      "fetched_at": "2026-04-16T01:26:52.014571+00:00"
+    },
+    "079f8197a652050a": {
+      "title": "The Great AI Layoff Boomerang. 55% of companies regret their AI-drven layoffs",
+      "fetched_at": "2026-04-16T01:26:52.653291+00:00"
+    },
+    "feaeac1d1784af11": {
+      "title": "两市融资余额增加101.82亿元",
+      "fetched_at": "2026-04-16T01:26:53.309990+00:00"
+    },
+    "72fe569e2732ee2d": {
+      "title": "公募南下布局提速，年内已有47只港股新基金成立",
+      "fetched_at": "2026-04-16T01:26:54.030168+00:00"
+    },
+    "100c7ce21dd6b382": {
+      "title": "Aggregated interviews on how YC W26 founders build internal AI employees",
+      "fetched_at": "2026-04-16T01:26:54.656184+00:00"
+    },
+    "073b1bf07731b436": {
+      "title": "少女如何定義自我的驚人現實",
+      "fetched_at": "2026-04-16T01:26:57.537615+00:00"
+    },
+    "dabc356a138f8fcb": {
+      "title": "中国多年来如何对伊朗进行军事援助",
+      "fetched_at": "2026-04-16T01:26:58.269346+00:00"
+    },
+    "461a6fb480576783": {
+      "title": "香港80年傳統醬油工廠 都市開發中求生存",
+      "fetched_at": "2026-04-16T01:26:58.891349+00:00"
+    },
+    "9d64b231d5037e3e": {
+      "title": "Evaluating Agents for Scientific Discovery",
+      "fetched_at": "2026-04-16T01:27:00.855070+00:00"
+    },
+    "d48ff04a4968b210": {
+      "title": "Discovery of genetic switch could help turn rice into a perennial crop",
+      "fetched_at": "2026-04-16T01:27:01.607823+00:00"
+    },
+    "773bfb607a36cafb": {
+      "title": "Tombs Yield Clues to Neolithic Family Structure",
+      "fetched_at": "2026-04-16T01:27:02.239196+00:00"
+    },
+    "28510d9b7235a6b8": {
+      "title": "Who Suffered During a Plague Outbreak?",
+      "fetched_at": "2026-04-16T01:27:02.900159+00:00"
+    },
+    "2b35249dada0a5e9": {
+      "title": "Undetonated Mortar Shell Recovered from Scotland’s Culloden Battlefield",
+      "fetched_at": "2026-04-16T01:27:03.512363+00:00"
     }
   },
-  "last_updated": "2026-04-15T18:59:39.108230+00:00"
+  "last_updated": "2026-04-16T01:27:03.659246+00:00"
 }
