@@ -1,133 +1,5 @@
 {
   "articles": {
-    "28d3b61c7fbe99eb": {
-      "title": "Autonomous Rocket Landing with Reinforcement Learning (YouTube)",
-      "fetched_at": "2026-04-09T07:09:36.182881+00:00"
-    },
-    "8f742c1124816355": {
-      "title": "A股三大指数集体收跌，券商股下挫",
-      "fetched_at": "2026-04-09T07:09:36.774354+00:00"
-    },
-    "a0654cf9bf33607d": {
-      "title": "后视摄像头存在故障，通用在美召回超27万辆汽车",
-      "fetched_at": "2026-04-09T07:09:37.367809+00:00"
-    },
-    "59edf0d197faf4ef": {
-      "title": "Show HN: An API that catches what your LLM confidently got wrong",
-      "fetched_at": "2026-04-09T07:09:37.948493+00:00"
-    },
-    "6ca18203bb53c05e": {
-      "title": "The silent coup: How AI captured Westminster",
-      "fetched_at": "2026-04-09T07:09:38.531719+00:00"
-    },
-    "4c9ce915ab9d2437": {
-      "title": "宝马氢能扁平化储存系统2028年量产",
-      "fetched_at": "2026-04-09T07:09:39.118854+00:00"
-    },
-    "a13476c648f8ef4b": {
-      "title": "由于业绩不佳，柒和伊控股推迟美国便利店业务上市计划",
-      "fetched_at": "2026-04-09T07:09:39.702565+00:00"
-    },
-    "e2787f392eb06c0f": {
-      "title": "哈啰出行在太原成立网络科技新公司",
-      "fetched_at": "2026-04-09T07:09:40.345142+00:00"
-    },
-    "620bdc4b85c0ff90": {
-      "title": "Uni-1 AI – Advanced AI Platform for Content Generation",
-      "fetched_at": "2026-04-09T07:09:40.929819+00:00"
-    },
-    "d7a66327b5eef156": {
-      "title": "AI Cybersecurity After Mythos: The Jagged Frontier",
-      "fetched_at": "2026-04-09T07:09:41.548795+00:00"
-    },
-    "94057cce864ee451": {
-      "title": "五粮液在四川成立数智营销公司",
-      "fetched_at": "2026-04-09T07:09:42.194956+00:00"
-    },
-    "4330605b026019be": {
-      "title": "PrismAudio AI – AI-Powered Audio Enhancement Tool",
-      "fetched_at": "2026-04-09T07:09:42.766625+00:00"
-    },
-    "86609de52413e091": {
-      "title": "起亚将2030年电动汽车销售目标下调约20%",
-      "fetched_at": "2026-04-09T07:09:43.360020+00:00"
-    },
-    "2746b1d6ebb7cc13": {
-      "title": "三星电子、SK海力士据悉转向三至五年长期供应协议模式",
-      "fetched_at": "2026-04-09T07:09:43.963517+00:00"
-    },
-    "ad76f752c561f872": {
-      "title": "Central Pattana拟投资30亿美元，在泰国扩大综合体开发",
-      "fetched_at": "2026-04-09T07:09:44.550221+00:00"
-    },
-    "20097bdb173d0d14": {
-      "title": "报告：预估2026年中国人形机器人市场产量将年增94%",
-      "fetched_at": "2026-04-09T07:09:45.125077+00:00"
-    },
-    "27a2daba160ad242": {
-      "title": "Process Manager for Autonomous AI Agents",
-      "fetched_at": "2026-04-09T07:09:45.706227+00:00"
-    },
-    "540ac5dc257dd5c3": {
-      "title": "日本考虑再释放合20天需求量的石油储备",
-      "fetched_at": "2026-04-09T07:09:46.284736+00:00"
-    },
-    "51c1e6bbbada6d90": {
-      "title": "One Engineer, One AI, One Week: Cloudflare Just Rebuilt Next.js",
-      "fetched_at": "2026-04-09T07:09:46.868448+00:00"
-    },
-    "41378b3bd8790964": {
-      "title": "“阿迈特医疗”获超2亿元D轮融资",
-      "fetched_at": "2026-04-09T07:09:47.446695+00:00"
-    },
-    "1a8487a14da97e37": {
-      "title": "為什麼與美國達成停火協議令伊朗強硬派感到不安？",
-      "fetched_at": "2026-04-09T07:09:50.061038+00:00"
-    },
-    "7ecd80983e5bd4cd": {
-      "title": "韓團BTS讓數百萬人認識K-pop，但如今卻夾在韓國與世界之間",
-      "fetched_at": "2026-04-09T07:09:50.655673+00:00"
-    },
-    "871300a7ec84e3c2": {
-      "title": "伊朗战争对经济的损害比你想象的更严重",
-      "fetched_at": "2026-04-09T07:09:51.249277+00:00"
-    },
-    "a65694bd3e7a43a7": {
-      "title": "美伊停火协议前景不明，黎巴嫩和海湾国家遭受攻击",
-      "fetched_at": "2026-04-09T07:09:51.838879+00:00"
-    },
-    "11ae3a83f90eee3f": {
-      "title": "美伊达成临时停火，特朗普的战争目标实现了吗？",
-      "fetched_at": "2026-04-09T07:09:52.434537+00:00"
-    },
-    "879c7b93ff12ae61": {
-      "title": "中国如何建立起规模庞大的天然气储备",
-      "fetched_at": "2026-04-09T07:09:53.085829+00:00"
-    },
-    "b179bf296529e44f": {
-      "title": "美伊停火台前幕後 14日談判的焦點將是什麼",
-      "fetched_at": "2026-04-09T07:09:53.703151+00:00"
-    },
-    "80713bd23dc2e845": {
-      "title": "企業為何爭先恐後在AI搜尋中爭位？",
-      "fetched_at": "2026-04-09T07:09:54.284182+00:00"
-    },
-    "ce51a54854e22e5d": {
-      "title": "中美在不同AI賽道上領先 但誰都可能最終超前",
-      "fetched_at": "2026-04-09T07:09:54.877767+00:00"
-    },
-    "86c4ee87857d6973": {
-      "title": "宏福苑火災首輪聽證會復盤：重要證據浮出水面，倖存災民為何開始有所期望",
-      "fetched_at": "2026-04-09T07:09:55.450937+00:00"
-    },
-    "8048fc2f0c6683bb": {
-      "title": "陷入停摆的水稻大国：中东战争冲击全球粮食供应",
-      "fetched_at": "2026-04-09T07:09:56.030384+00:00"
-    },
-    "2f45eeb3022d5d17": {
-      "title": "Science history: Doctor hypothesizes that 'transmissible proteins' can cause disease, contradicting a 'central dogma' of molecular biology — April 9, 1982",
-      "fetched_at": "2026-04-09T07:09:58.672045+00:00"
-    },
     "1b2acac23ed1b9ed": {
       "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
       "fetched_at": "2026-04-09T12:57:34.011810+00:00"
@@ -3739,7 +3611,131 @@
     "19cf3c305f825b30": {
       "title": "Shipwrecks Mapped in the Bay of Gibraltar",
       "fetched_at": "2026-04-17T01:24:47.954379+00:00"
+    },
+    "7d99f93fb8d1f61e": {
+      "title": "南向资金净买入额达100亿港元",
+      "fetched_at": "2026-04-17T07:18:14.093346+00:00"
+    },
+    "9a07e54325bfe162": {
+      "title": "禾赛发布全球首款6D全彩激光雷达",
+      "fetched_at": "2026-04-17T07:18:14.763111+00:00"
+    },
+    "e41b0c0ea18b4c13": {
+      "title": "拓璞数控港股IPO获中国证监会备案",
+      "fetched_at": "2026-04-17T07:18:15.395042+00:00"
+    },
+    "d397398df650cd85": {
+      "title": "AI images are being used in insurance scams",
+      "fetched_at": "2026-04-17T07:18:16.018046+00:00"
+    },
+    "de91e01c005e04a5": {
+      "title": "A股三大指数收盘涨跌不一，源杰科技登顶A股新股王",
+      "fetched_at": "2026-04-17T07:18:16.742288+00:00"
+    },
+    "74f292a94a08144c": {
+      "title": "Treating enterprise AI as an operating layer",
+      "fetched_at": "2026-04-17T07:18:17.406603+00:00"
+    },
+    "818aa87fe77d4442": {
+      "title": "Ask HN: What are the machine requirements for a LLM like Llama-3.1-8B?",
+      "fetched_at": "2026-04-17T07:18:18.034270+00:00"
+    },
+    "037268148096f2b9": {
+      "title": "Engram – context spine for AI coding agents, 88% proven token savings",
+      "fetched_at": "2026-04-17T07:18:18.653566+00:00"
+    },
+    "412f277dec4995a3": {
+      "title": "豪掷200亿美元，OpenAI据称将与Cerebras达成重磅协议",
+      "fetched_at": "2026-04-17T07:18:19.413786+00:00"
+    },
+    "7c93572744fec14e": {
+      "title": "瑞幸已为即享咖啡小罐子登记作品著作权",
+      "fetched_at": "2026-04-17T07:18:20.082755+00:00"
+    },
+    "b15f85e3f71a0619": {
+      "title": "追觅科技受邀出席国家商务部中意企委会圆桌会，作为中方企业代表发言",
+      "fetched_at": "2026-04-17T07:18:20.684789+00:00"
+    },
+    "5e4f9e4ca4bc9e86": {
+      "title": "I'm tired about hearing about AI startups",
+      "fetched_at": "2026-04-17T07:18:21.313374+00:00"
+    },
+    "9746690cf5e094e4": {
+      "title": "机构：受存储价格大幅上涨冲击低端市场影响，2025年下半年ODM/IDH智能手机出货量同比下滑10%",
+      "fetched_at": "2026-04-17T07:18:21.947788+00:00"
+    },
+    "a509142bbc733aa5": {
+      "title": "北证50涨超5%",
+      "fetched_at": "2026-04-17T07:18:22.569276+00:00"
+    },
+    "0cf7919abea6947a": {
+      "title": "沪深两市成交额突破2万亿元",
+      "fetched_at": "2026-04-17T07:18:22.569402+00:00"
+    },
+    "fb048b90f4917e07": {
+      "title": "Show HN: Agent Armor, a Rust runtime for enforcing policies on AI agent actions",
+      "fetched_at": "2026-04-17T07:18:23.220376+00:00"
+    },
+    "b654254742e7693d": {
+      "title": "Is AI a tool or are you?",
+      "fetched_at": "2026-04-17T07:18:23.862349+00:00"
+    },
+    "64f31ea7303f33bd": {
+      "title": "特斯拉在台招聘工程师：要求具备先进制程芯片经验",
+      "fetched_at": "2026-04-17T07:18:24.490314+00:00"
+    },
+    "5a9315970518f77e": {
+      "title": "我国科学家找到了大脑皮层的起源",
+      "fetched_at": "2026-04-17T07:18:25.105819+00:00"
+    },
+    "063a8e844575c2ae": {
+      "title": "SpaceX最快或6月上市，谷歌或从SpaceX上市获巨额收益",
+      "fetched_at": "2026-04-17T07:18:25.788389+00:00"
+    },
+    "ad6eb5d69421fb21": {
+      "title": "阿提米絲二號宇航員： 「出發時我們是朋友，回來時成了最好的朋友」",
+      "fetched_at": "2026-04-17T07:18:28.778563+00:00"
+    },
+    "56d54d73ca4221d6": {
+      "title": "日本外交藍皮書將中國「降級」，高市早苗又提「修憲」時程：中日關係何去何從?",
+      "fetched_at": "2026-04-17T07:18:29.387210+00:00"
+    },
+    "89c54ee8da68e5a5": {
+      "title": "揭开比特币最大谜团：谁是中本聪？",
+      "fetched_at": "2026-04-17T07:18:29.992479+00:00"
+    },
+    "f9cf89d16d35da25": {
+      "title": "特朗普推動的黎巴嫩停火令以色列驚訝",
+      "fetched_at": "2026-04-17T07:18:30.608910+00:00"
+    },
+    "dd6264a1c5b77ce2": {
+      "title": "中国为何不会对伊朗施压？意愿有限，能力不足",
+      "fetched_at": "2026-04-17T07:18:31.254610+00:00"
+    },
+    "4f9fc7fb892500b9": {
+      "title": "耶稣“梗图”、威胁和战争：重重压力之下的特朗普",
+      "fetched_at": "2026-04-17T07:18:31.871719+00:00"
+    },
+    "1234d50b39dda192": {
+      "title": "從兩乘高鐵到共產情誼 盤點越南領導人蘇林訪華四大看點",
+      "fetched_at": "2026-04-17T07:18:32.472145+00:00"
+    },
+    "630e3cb2c9487dfc": {
+      "title": "危重病人被30家医院急诊室拒收：韩国的医疗危机",
+      "fetched_at": "2026-04-17T07:18:33.095321+00:00"
+    },
+    "23554754fce334f1": {
+      "title": "燕麦有多健康？",
+      "fetched_at": "2026-04-17T07:18:33.700974+00:00"
+    },
+    "710bc8bd64425877": {
+      "title": "Something just hit the Moon and left a bright new scar",
+      "fetched_at": "2026-04-17T07:18:39.691511+00:00"
+    },
+    "1857a696e9eef692": {
+      "title": "Scientists just uncovered the secret behind nature’s “proton highway”",
+      "fetched_at": "2026-04-17T07:18:40.318391+00:00"
     }
   },
-  "last_updated": "2026-04-17T01:24:48.100415+00:00"
+  "last_updated": "2026-04-17T07:18:40.465173+00:00"
 }
