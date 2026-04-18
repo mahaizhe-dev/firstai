@@ -1,125 +1,5 @@
 {
   "articles": {
-    "cd29d7ff1b269e57": {
-      "title": "美国3月CPI同比上升3.3%",
-      "fetched_at": "2026-04-10T12:43:48.644496+00:00"
-    },
-    "73d725f5e4dfbd4d": {
-      "title": "South Africa's VALR Launches AI Service for Humans and AI Agents",
-      "fetched_at": "2026-04-10T12:43:49.240775+00:00"
-    },
-    "54e3386328ab4fb1": {
-      "title": "香港金管局余伟文：即使将来再发牌照，整体牌照数量也会很有限",
-      "fetched_at": "2026-04-10T12:43:49.811448+00:00"
-    },
-    "f601a2bbffcfa188": {
-      "title": "Anthropic同意租用CoreWeave的AI算力以支持Claude",
-      "fetched_at": "2026-04-10T12:43:50.377898+00:00"
-    },
-    "586a800b00f8094e": {
-      "title": "ST新动力：股东因涉嫌公司持股变动信息披露违法违规被证监会立案",
-      "fetched_at": "2026-04-10T12:43:51.130841+00:00"
-    },
-    "e57676da3557195d": {
-      "title": "Llama LLM Network Feture",
-      "fetched_at": "2026-04-10T12:43:51.696006+00:00"
-    },
-    "eb28b502b7ec5c87": {
-      "title": "骄成超声：拟定增募资不超13.44亿元，用于半导体先进超声设备研发及产业化项目等",
-      "fetched_at": "2026-04-10T12:43:52.337735+00:00"
-    },
-    "ed11cd7aac9a385f": {
-      "title": "My Picture of the Present in AI",
-      "fetched_at": "2026-04-10T12:43:52.904149+00:00"
-    },
-    "87c5f9cb851ce76b": {
-      "title": "Show HN: LLM-wiki LLM-compiled knowledge bases with multi-agent research v0.0.20",
-      "fetched_at": "2026-04-10T12:43:53.475730+00:00"
-    },
-    "ff14999db9909ea8": {
-      "title": "交通运输部安委办约谈中国铁建股份有限公司",
-      "fetched_at": "2026-04-10T12:43:54.047928+00:00"
-    },
-    "f1d3c6a753d5fdfe": {
-      "title": "Fear and loathing at OpenAI",
-      "fetched_at": "2026-04-10T12:43:54.631498+00:00"
-    },
-    "70596a627a4423af": {
-      "title": "北交所本周对2起证券异常交易行为采取自律监管措施",
-      "fetched_at": "2026-04-10T12:43:55.197483+00:00"
-    },
-    "c478eb07ff53b959": {
-      "title": "AI-Powered Policing",
-      "fetched_at": "2026-04-10T12:43:55.760982+00:00"
-    },
-    "e0d169e61443c4c4": {
-      "title": "中央网信办、国家铁路局联合约谈7家涉火车票销售第三方平台：不得用自动化程序高频抢票",
-      "fetched_at": "2026-04-10T12:43:56.324057+00:00"
-    },
-    "b353c2346525b3cb": {
-      "title": "Nezha: Run multiple AI coding agents across projects (Claude Code and Codex)",
-      "fetched_at": "2026-04-10T12:43:56.891391+00:00"
-    },
-    "d984be768b54faf5": {
-      "title": "明牌珠宝：拟转让卡利罗公司100%股权，预计转让价格2亿元—3亿元",
-      "fetched_at": "2026-04-10T12:43:57.458404+00:00"
-    },
-    "2207511eed88a641": {
-      "title": "Show HN: Apfel-Chat – Private, Local, Native AI Chat (MIT)",
-      "fetched_at": "2026-04-10T12:43:58.028292+00:00"
-    },
-    "68e3deae37c0fcbd": {
-      "title": "通源石油：2025年净利润3661.95万元，同比下降34.19%",
-      "fetched_at": "2026-04-10T12:43:58.586944+00:00"
-    },
-    "949b9bbab6b1b423": {
-      "title": "乘联分会：3月国内狭义乘用车市场零售销量达164.8万辆，同比下降15%",
-      "fetched_at": "2026-04-10T12:43:59.150659+00:00"
-    },
-    "46880ace19289254": {
-      "title": "广安爱众：董事李常兵被立案调查并实施留置",
-      "fetched_at": "2026-04-10T12:43:59.859515+00:00"
-    },
-    "db3e28f65357b7a3": {
-      "title": "國共領袖時隔十年會晤「鄭習會」握手達13秒",
-      "fetched_at": "2026-04-10T12:44:01.919800+00:00"
-    },
-    "01c241ec4d921e67": {
-      "title": "王毅罕見訪朝引發特金會猜測 分析指北京目標是「維持平衡」",
-      "fetched_at": "2026-04-10T12:44:02.488301+00:00"
-    },
-    "e057a942de48917d": {
-      "title": "從全紅嬋的哽咽到網暴和飯圈再現 體育明星遭「侵入式監控」難題待解",
-      "fetched_at": "2026-04-10T12:44:03.058693+00:00"
-    },
-    "1f0854fb0a334abe": {
-      "title": "中國試圖在伊朗戰爭中扮演和平調解者，這會奏效嗎？",
-      "fetched_at": "2026-04-10T12:44:03.624184+00:00"
-    },
-    "c07250e3d21cb544": {
-      "title": "「香港故事」展館重開：淡化港英歷史不提「六四」，六年改造重樹敘事",
-      "fetched_at": "2026-04-10T12:44:04.214402+00:00"
-    },
-    "4efcc5ca976abe49": {
-      "title": "Aoshima: Japan's tiny 'Cat Island' where felines hugely outnumber humans",
-      "fetched_at": "2026-04-10T12:44:05.980191+00:00"
-    },
-    "24bfb9605f30bdd1": {
-      "title": "Artemis II returns LIVE: NASA prepares for Artemis II crew's perilous return to Earth at record-breaking speeds",
-      "fetched_at": "2026-04-10T12:44:06.665545+00:00"
-    },
-    "a7c6e6b8b2959a6c": {
-      "title": "AI war games almost always escalate to nuclear strikes, simulation shows",
-      "fetched_at": "2026-04-10T12:44:07.318216+00:00"
-    },
-    "791e38cbfd1fd953": {
-      "title": "What’s hiding inside colon cancer could change treatment",
-      "fetched_at": "2026-04-10T12:44:07.960030+00:00"
-    },
-    "59a3f235db9bfaa1": {
-      "title": "The Price Discovery Problem in the AI Debate",
-      "fetched_at": "2026-04-10T12:44:08.541763+00:00"
-    },
     "f073059b27ed4bb1": {
       "title": "ViralEpic: Create scroll-stopping social media visuals with AI in seconds",
       "fetched_at": "2026-04-10T18:38:36.415596+00:00"
@@ -3739,7 +3619,123 @@
     "496d15586402e4de": {
       "title": "Did King Arthur really exist?",
       "fetched_at": "2026-04-18T12:37:08.766850+00:00"
+    },
+    "c6acd1a7bb22912c": {
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "fetched_at": "2026-04-18T18:32:05.247231+00:00"
+    },
+    "95df8d325eb7a11a": {
+      "title": "The App Store is booming again, and AI may be why",
+      "fetched_at": "2026-04-18T18:32:05.989193+00:00"
+    },
+    "00308ee24137d512": {
+      "title": "亚洲开发银行行长：货币和财政纪律是抵御重大外部冲击的最佳缓冲",
+      "fetched_at": "2026-04-18T18:32:06.663532+00:00"
+    },
+    "6280f43b71142a10": {
+      "title": "海航控股去年净利19.8亿元扭亏为盈，四家子公司实现盈利",
+      "fetched_at": "2026-04-18T18:32:07.277766+00:00"
+    },
+    "be5e263570a8272b": {
+      "title": "美国能源部将释放第三批战略石油储备",
+      "fetched_at": "2026-04-18T18:32:07.966961+00:00"
+    },
+    "a3fd2c07eea75d2d": {
+      "title": "我国首座海上移动式多功能措施平台“增产一号”交付",
+      "fetched_at": "2026-04-18T18:32:08.751169+00:00"
+    },
+    "15b13f2048f68be9": {
+      "title": "你好，我是一名「火腿」",
+      "fetched_at": "2026-04-18T18:32:09.524935+00:00"
+    },
+    "514d2604c9219304": {
+      "title": "智元机器人，要做AI大模型平台和开放生态",
+      "fetched_at": "2026-04-18T18:32:10.167935+00:00"
+    },
+    "c47aacbc76db6354": {
+      "title": "OpenAI’s former Sora boss is leaving",
+      "fetched_at": "2026-04-18T18:32:10.789700+00:00"
+    },
+    "9b88e472e985c181": {
+      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+      "fetched_at": "2026-04-18T18:32:11.403318+00:00"
+    },
+    "cfffe578df87d17c": {
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "fetched_at": "2026-04-18T18:32:12.043220+00:00"
+    },
+    "edc169bf5fdb5d4f": {
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "fetched_at": "2026-04-18T18:32:12.664713+00:00"
+    },
+    "14bfb613e27530a3": {
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "fetched_at": "2026-04-18T18:32:13.460468+00:00"
+    },
+    "5d5a4e894bb5701c": {
+      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+      "fetched_at": "2026-04-18T18:32:14.089653+00:00"
+    },
+    "2485032a0b199523": {
+      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+      "fetched_at": "2026-04-18T18:32:14.789385+00:00"
+    },
+    "0307a980f50a4221": {
+      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+      "fetched_at": "2026-04-18T18:32:15.513171+00:00"
+    },
+    "434ac8a87dea9d69": {
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "fetched_at": "2026-04-18T18:32:16.131465+00:00"
+    },
+    "8c445e0727133acc": {
+      "title": "The ‘AI is inevitable’ trap",
+      "fetched_at": "2026-04-18T18:32:16.839135+00:00"
+    },
+    "1515a3eec98adb17": {
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "fetched_at": "2026-04-18T18:32:17.452474+00:00"
+    },
+    "bfd43b9339145a1a": {
+      "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
+      "fetched_at": "2026-04-18T18:32:18.084489+00:00"
+    },
+    "f97d0dbfcf0b49c5": {
+      "title": "美國在伊朗的戰爭目標實現了嗎？",
+      "fetched_at": "2026-04-18T18:32:20.609464+00:00"
+    },
+    "65c76480569d5ac0": {
+      "title": "中國人形機器人之夢：當熱度退潮，留下的是泡沫還是繁榮？",
+      "fetched_at": "2026-04-18T18:32:21.232441+00:00"
+    },
+    "d037e9c50a839ebc": {
+      "title": "700-year-old mummy from Bolivia contains earliest confirmed evidence of strep throat bacteria in the Americas",
+      "fetched_at": "2026-04-18T18:32:22.754020+00:00"
+    },
+    "583a86d26c7454c1": {
+      "title": "New pain-relief opioid could be much less addictive than morphine, rodent study finds",
+      "fetched_at": "2026-04-18T18:32:23.380180+00:00"
+    },
+    "dbbebc0dc146f81d": {
+      "title": "Experimental drug doubles one-year survival in pancreatic cancer",
+      "fetched_at": "2026-04-18T18:32:24.056722+00:00"
+    },
+    "c614acf9e5897531": {
+      "title": "Black hole jets measured for first time and rival the power of 10,000 suns",
+      "fetched_at": "2026-04-18T18:32:24.684277+00:00"
+    },
+    "caf4795deeb62266": {
+      "title": "What caffeine does to ants could change pest control",
+      "fetched_at": "2026-04-18T18:32:25.314876+00:00"
+    },
+    "75e800472228dcb5": {
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "fetched_at": "2026-04-18T18:32:25.946287+00:00"
+    },
+    "081e8c74110fa37c": {
+      "title": "Total solar eclipse led to seismic quiet for cities within its path",
+      "fetched_at": "2026-04-18T18:32:26.568693+00:00"
     }
   },
-  "last_updated": "2026-04-18T12:37:08.912792+00:00"
+  "last_updated": "2026-04-18T18:32:26.676586+00:00"
 }
