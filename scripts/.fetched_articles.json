@@ -1,117 +1,5 @@
 {
   "articles": {
-    "e2b182757b79a4c0": {
-      "title": "Instant 1.0, a backend for AI-coded apps",
-      "fetched_at": "2026-04-09T18:47:08.369011+00:00"
-    },
-    "3119fefc235ca294": {
-      "title": "Google and Intel deepen AI infrastructure partnership",
-      "fetched_at": "2026-04-09T18:47:08.938334+00:00"
-    },
-    "5a566268d751f779": {
-      "title": "HookProbe – Open-source AI IDs that runs on a $75 Raspberry Pi",
-      "fetched_at": "2026-04-09T18:47:09.582963+00:00"
-    },
-    "abb6c48120b4870d": {
-      "title": "Context Engineering for AI Coding Agents",
-      "fetched_at": "2026-04-09T18:47:10.235968+00:00"
-    },
-    "6ba278cfeee32dda": {
-      "title": "Guinndex. AI-agent called 3k Irish pubs to map the price of a pint of Guinness",
-      "fetched_at": "2026-04-09T18:47:10.804933+00:00"
-    },
-    "1f6765cedc8c267a": {
-      "title": "Tried the HappyHorse AI video model recently, better than I expected",
-      "fetched_at": "2026-04-09T18:47:11.469006+00:00"
-    },
-    "3180679de8d229c6": {
-      "title": "Summalytics – Privacy-first analytics with AI traffic and visibility",
-      "fetched_at": "2026-04-09T18:47:12.091449+00:00"
-    },
-    "b1008d43621d22d3": {
-      "title": "Cyberpunk Legend Neal Stephenson: The Real Threat Isn't AI–It's Us [video]",
-      "fetched_at": "2026-04-09T18:47:12.656650+00:00"
-    },
-    "4d86c57a17f6145e": {
-      "title": "Show HN: Open-source, machine-bound licensing with a single POST request",
-      "fetched_at": "2026-04-09T18:47:13.217628+00:00"
-    },
-    "91d6021bbd778d82": {
-      "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
-      "fetched_at": "2026-04-09T18:47:13.780349+00:00"
-    },
-    "43a57ea1343482b1": {
-      "title": "AI agents can now open business bank accounts",
-      "fetched_at": "2026-04-09T18:47:14.564075+00:00"
-    },
-    "ffcd1636497b7f66": {
-      "title": "What's breaking in your LLM gateway in production?",
-      "fetched_at": "2026-04-09T18:47:15.132205+00:00"
-    },
-    "26e2f54f47e7d00c": {
-      "title": "We tested \"stateful AI.\" It couldn't prove its own history",
-      "fetched_at": "2026-04-09T18:47:15.780451+00:00"
-    },
-    "729eff48fcdb5129": {
-      "title": "A full AI intelligence layer on WhatsApp – Opero.so",
-      "fetched_at": "2026-04-09T18:47:16.351532+00:00"
-    },
-    "fb7c7cbef099b2e1": {
-      "title": "Enterprise AI does not have a model problem. It has an adoption problem",
-      "fetched_at": "2026-04-09T18:47:16.918732+00:00"
-    },
-    "232ba8b296f98d03": {
-      "title": "Show HN: AIMock – One Mock Server for Your AI Stack",
-      "fetched_at": "2026-04-09T18:47:17.482908+00:00"
-    },
-    "b95533676d46dee9": {
-      "title": "The 200k Ghost: Instruction Degradation in Long-Context LLM Sessions",
-      "fetched_at": "2026-04-09T18:47:18.093072+00:00"
-    },
-    "da25e1335d4556cb": {
-      "title": "Show HN: PageFly – Personal Knowledge OS Inspired by Karpathy's LLM Wiki",
-      "fetched_at": "2026-04-09T18:47:18.664525+00:00"
-    },
-    "376bdcd9dd262d1a": {
-      "title": "MIT Just Found the Cause of the AI Bubble",
-      "fetched_at": "2026-04-09T18:47:19.329940+00:00"
-    },
-    "a33bca6c6d894c0f": {
-      "title": "Level 5 – Weekly live demos from advanced AI users",
-      "fetched_at": "2026-04-09T18:47:19.908530+00:00"
-    },
-    "8fb713ebef39302a": {
-      "title": "Chimpanzees in Uganda are locked in a deadly 'civil war' after their group split apart — and scientists don't know why",
-      "fetched_at": "2026-04-09T18:47:24.344315+00:00"
-    },
-    "e34b33b86a10441b": {
-      "title": "James Webb telescope spots 'stingray' galaxy system that could solve the mystery of 'little red dots'",
-      "fetched_at": "2026-04-09T18:47:24.911786+00:00"
-    },
-    "11c97d2ee8232f37": {
-      "title": "Sociotechnical Archaeology",
-      "fetched_at": "2026-04-09T18:47:25.485540+00:00"
-    },
-    "8cd890dbcfa20620": {
-      "title": "'RIP, Comet MAPS': Watch the superbright sungrazer become a 'headless wonder' after being ripped apart by the sun",
-      "fetched_at": "2026-04-09T18:47:26.056408+00:00"
-    },
-    "4286beffc718d4dd": {
-      "title": "There's an issue with the Artemis II heat shield, but NASA isn't worried. Here's why.",
-      "fetched_at": "2026-04-09T18:47:26.056563+00:00"
-    },
-    "0f32d9d908bcdec9": {
-      "title": "Scientists just found a hidden “drain” inside the human brain",
-      "fetched_at": "2026-04-09T18:47:26.638015+00:00"
-    },
-    "fa8bd5163db61ba1": {
-      "title": "Your brain can trick you into liking artificial sweeteners",
-      "fetched_at": "2026-04-09T18:47:27.288202+00:00"
-    },
-    "490229cfb6c92591": {
-      "title": "Brain study reveals hidden link between autism and ADHD",
-      "fetched_at": "2026-04-09T18:47:27.853286+00:00"
-    },
     "c94b3cabaec5a8fe": {
       "title": "人民币兑美元中间价报6.8654",
       "fetched_at": "2026-04-10T01:20:21.184775+00:00"
@@ -3775,7 +3663,143 @@
     "26b6b59e77ca53a1": {
       "title": "Some polar bears are adapting to their melting habitat. Will it be enough to save the iconic species?",
       "fetched_at": "2026-04-17T18:42:31.137683+00:00"
+    },
+    "d53aeedb638cdc4f": {
+      "title": "9点1氪丨霍尔木兹海峡完全开放；雷军称未来几年不会做十万元以内车型；四大一线城市房价全涨",
+      "fetched_at": "2026-04-18T01:17:58.661516+00:00"
+    },
+    "419f21e96e63ce5a": {
+      "title": "Madison Square Garden's Surveillance Machine",
+      "fetched_at": "2026-04-18T01:17:59.289405+00:00"
+    },
+    "47492a8f1f8355ca": {
+      "title": "大华股份：2025年营收超327亿元，2026年一季度业绩稳健增长",
+      "fetched_at": "2026-04-18T01:17:59.914627+00:00"
+    },
+    "1ae0436077371a76": {
+      "title": "Show HN - TokensAI – Mint for AI Usage",
+      "fetched_at": "2026-04-18T01:18:00.543960+00:00"
+    },
+    "12898bac67fb4859": {
+      "title": "海康威视一季度营收增长11.78% 净利润同比增长36.42%",
+      "fetched_at": "2026-04-18T01:18:01.207077+00:00"
+    },
+    "69d51db81cebd4a2": {
+      "title": "Steno – Compressed memory with RAG for AI agents",
+      "fetched_at": "2026-04-18T01:18:01.885881+00:00"
+    },
+    "61ac0edc0a3364b4": {
+      "title": "Do I Stop Learning Coding? DSA?",
+      "fetched_at": "2026-04-18T01:18:02.520866+00:00"
+    },
+    "b669bce725f29c4c": {
+      "title": "Show HN: Agentic Dev – AI dev-tools news, curated daily by Claude",
+      "fetched_at": "2026-04-18T01:18:03.148069+00:00"
+    },
+    "ce7f1c618d8e4f7d": {
+      "title": "Vibecheck: AI Web Design Slop Fingerprinter",
+      "fetched_at": "2026-04-18T01:18:03.767605+00:00"
+    },
+    "fdfd9b1cf4f34029": {
+      "title": "Stop using naive RAG – adding relationships to AI context",
+      "fetched_at": "2026-04-18T01:18:04.398141+00:00"
+    },
+    "27b28dc4ee18b7d4": {
+      "title": "Shuttered startups are selling old Slack chats and emails to AI companies",
+      "fetched_at": "2026-04-18T01:18:05.024762+00:00"
+    },
+    "4acc2f88b7e8bcd7": {
+      "title": "Show HN: AI agents should browse your site, not call your API",
+      "fetched_at": "2026-04-18T01:18:05.732283+00:00"
+    },
+    "431858d509497d62": {
+      "title": "Show HN: Cogveo–Schedule AI agents to run Python on your files and email results",
+      "fetched_at": "2026-04-18T01:18:06.357912+00:00"
+    },
+    "5d467cc33fa8269b": {
+      "title": "Cerebras Files for IPO as Demand Surges for More Efficient AI Chips",
+      "fetched_at": "2026-04-18T01:18:07.003795+00:00"
+    },
+    "704d457fa2d839e5": {
+      "title": "How an LLM becomes more coherent as we train it",
+      "fetched_at": "2026-04-18T01:18:07.631799+00:00"
+    },
+    "6007d6308c176876": {
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "fetched_at": "2026-04-18T01:18:08.259973+00:00"
+    },
+    "3ded9a40fb2ea30c": {
+      "title": "\"Am I Crazy?\" [Wading Through AI – Episode 3] [video]",
+      "fetched_at": "2026-04-18T01:18:08.887830+00:00"
+    },
+    "80fea1ee020f0720": {
+      "title": "Littlebird raises $11M for its AI-assisted 'recall' tool",
+      "fetched_at": "2026-04-18T01:18:09.523991+00:00"
+    },
+    "1ee00180248568c7": {
+      "title": "Update: EntropyLoop is now the first AI native MCP'd Quantum RNG",
+      "fetched_at": "2026-04-18T01:18:10.140885+00:00"
+    },
+    "fa577eb3d3e56a98": {
+      "title": "The AI Rewrite Dilemma",
+      "fetched_at": "2026-04-18T01:18:10.814687+00:00"
+    },
+    "4829e42a15b3d197": {
+      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+      "fetched_at": "2026-04-18T01:18:16.843854+00:00"
+    },
+    "a4022c8eff3643d2": {
+      "title": "Archaeologists discover perfectly circular ancient Egyptian temple that may have been used for sacred water rituals",
+      "fetched_at": "2026-04-18T01:18:17.483786+00:00"
+    },
+    "8e9f0ddc54cd9a89": {
+      "title": "Shakespeare's 'missing' London house mapped with new discovery",
+      "fetched_at": "2026-04-18T01:18:18.114402+00:00"
+    },
+    "39377b4a9af0b634": {
+      "title": "Charcoal Analysis Suggests Any Wood Would Do for Early Hominins",
+      "fetched_at": "2026-04-18T01:18:18.733687+00:00"
+    },
+    "2c21b96e00e35de9": {
+      "title": "Hairless Dogs Identified at Wari Site in Peru",
+      "fetched_at": "2026-04-18T01:18:19.361672+00:00"
+    },
+    "db82a72314bfe926": {
+      "title": "Exact Location of Shakespeare’s London House Found",
+      "fetched_at": "2026-04-18T01:18:20.023066+00:00"
+    },
+    "fa9c542be2c82d05": {
+      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
+      "fetched_at": "2026-04-18T01:18:20.647323+00:00"
+    },
+    "59c769a84bb31416": {
+      "title": "Your DNA has a secret “second code” that decides which genes get silenced",
+      "fetched_at": "2026-04-18T01:18:21.275196+00:00"
+    },
+    "612135fb8f5501ed": {
+      "title": "The hidden tradeoff behind today’s most popular weight loss drugs",
+      "fetched_at": "2026-04-18T01:18:21.898191+00:00"
+    },
+    "90fdb61af6b44320": {
+      "title": "Scientists discover spice synergy that boosts anti-inflammation 100x",
+      "fetched_at": "2026-04-18T01:18:22.526008+00:00"
+    },
+    "4e0fd8db89914c40": {
+      "title": "Humans reached Australia 60,000 years ago, new DNA study reveals",
+      "fetched_at": "2026-04-18T01:18:23.152039+00:00"
+    },
+    "919b71459b572694": {
+      "title": "This “rotten egg” brain gas could be the key to fighting Alzheimer’s disease",
+      "fetched_at": "2026-04-18T01:18:23.806298+00:00"
+    },
+    "69e85a8bd92f8407": {
+      "title": "Your brain could help solve autism and most people don’t know it",
+      "fetched_at": "2026-04-18T01:18:24.422540+00:00"
+    },
+    "8b991750f27e005f": {
+      "title": "Ancient farmers accidentally created aggressive “warrior” wheat",
+      "fetched_at": "2026-04-18T01:18:25.053585+00:00"
     }
   },
-  "last_updated": "2026-04-17T18:42:31.223732+00:00"
+  "last_updated": "2026-04-18T01:18:25.202529+00:00"
 }
