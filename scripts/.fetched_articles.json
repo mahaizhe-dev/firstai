@@ -1,133 +1,5 @@
 {
   "articles": {
-    "e60c7b599fa49de9": {
-      "title": "MiniMax上线音乐生成模型Music 2.6",
-      "fetched_at": "2026-04-10T07:14:31.282282+00:00"
-    },
-    "906239aa6d350423": {
-      "title": "Show HN: Pixel-by-pixel comparison of AI models rebuilding your UI designs",
-      "fetched_at": "2026-04-10T07:14:31.964462+00:00"
-    },
-    "e7b8a8e06c8cdefb": {
-      "title": "How HN: $2/Day AI – How we run an autonomous agent on a hard budget",
-      "fetched_at": "2026-04-10T07:14:32.744193+00:00"
-    },
-    "9e3fefded9bcfce4": {
-      "title": "The Download: AstroTurf wars and exponential AI growth",
-      "fetched_at": "2026-04-10T07:14:33.369527+00:00"
-    },
-    "5c921da3514eeee8": {
-      "title": "A股三大指数集体收涨，沪深京三市约4000股飘红",
-      "fetched_at": "2026-04-10T07:14:34.068145+00:00"
-    },
-    "0ea7fdeabdddb282": {
-      "title": "毛利率下滑，客户高度集中，天秦装备回应",
-      "fetched_at": "2026-04-10T07:14:34.680272+00:00"
-    },
-    "3d115250f012b45a": {
-      "title": "Gen Z workers are intentionally sabotaging their company's AI rollout",
-      "fetched_at": "2026-04-10T07:14:35.374684+00:00"
-    },
-    "3c56a5c403117d7e": {
-      "title": "AI news gave me anxiety so I built a site where every AI story says don't panic",
-      "fetched_at": "2026-04-10T07:14:36.024254+00:00"
-    },
-    "7d62a8f28839aef6": {
-      "title": "量子科技赛道一季度融资总额超去年全年",
-      "fetched_at": "2026-04-10T07:14:36.657945+00:00"
-    },
-    "96c4f638ed6c9136": {
-      "title": "Are You Managing Your AI, or Is Your AI Managing You?",
-      "fetched_at": "2026-04-10T07:14:37.274669+00:00"
-    },
-    "81209debb9faf376": {
-      "title": "18亿港元，香港特区政府出手补贴燃油成本",
-      "fetched_at": "2026-04-10T07:14:37.881688+00:00"
-    },
-    "03d3463aa9f4d98d": {
-      "title": "沪深两市成交额超2万亿元",
-      "fetched_at": "2026-04-10T07:14:38.593485+00:00"
-    },
-    "1448b388e08c5c4d": {
-      "title": "小鹏与福耀联合发布AI调光隐私玻璃，首块量产交付",
-      "fetched_at": "2026-04-10T07:14:39.327195+00:00"
-    },
-    "e6418d29755d9b56": {
-      "title": "中信证券AH股大涨",
-      "fetched_at": "2026-04-10T07:14:40.047958+00:00"
-    },
-    "8c94132d6409ccdc": {
-      "title": "汉王科技发布Clear7锦鲤电纸书",
-      "fetched_at": "2026-04-10T07:14:40.659180+00:00"
-    },
-    "afe4ce2f5c4a2ef3": {
-      "title": "The tool that won't let AI say anything it can't cite",
-      "fetched_at": "2026-04-10T07:14:41.312820+00:00"
-    },
-    "14e0eb2261d52c98": {
-      "title": "生态环境部：拟自2027年起，禁止生产以HCFC-22为制冷剂的多联式空调（热泵）机组产品",
-      "fetched_at": "2026-04-10T07:14:41.945533+00:00"
-    },
-    "9e787f94221b5714": {
-      "title": "中康科技推出医生超级助理MedMate",
-      "fetched_at": "2026-04-10T07:14:42.615224+00:00"
-    },
-    "a8805c1696be6e4b": {
-      "title": "多重利好叠加，一季度我国汽车出口增长强劲",
-      "fetched_at": "2026-04-10T07:14:43.218273+00:00"
-    },
-    "7f686635d24ed436": {
-      "title": "Transparency and knowledge exchange in AI-assisted data analysis code generation",
-      "fetched_at": "2026-04-10T07:14:44.022685+00:00"
-    },
-    "f97d0dbfcf0b49c5": {
-      "title": "美國在伊朗的戰爭目標實現了嗎？",
-      "fetched_at": "2026-04-10T07:14:46.351822+00:00"
-    },
-    "3523d6424a718698": {
-      "title": "「鄭習會」：國共領袖握手13秒，鄭麗文倡「制度性解決方案」，講話未畢直播被切斷",
-      "fetched_at": "2026-04-10T07:14:46.981601+00:00"
-    },
-    "68b7186c63ad33cc": {
-      "title": "高度依賴空調的新加坡等東南亞國家承受能源危機考驗",
-      "fetched_at": "2026-04-10T07:14:47.908991+00:00"
-    },
-    "e91dc409128f5865": {
-      "title": "分析：無論停火與否，中東仍在重組地緣政治格局",
-      "fetched_at": "2026-04-10T07:14:48.562808+00:00"
-    },
-    "d08e11165fc948be": {
-      "title": "欧洲人不再对特朗普卑躬屈膝",
-      "fetched_at": "2026-04-10T07:14:49.326897+00:00"
-    },
-    "0b795034117f8e85": {
-      "title": "北约会成为伊朗战争的另一个牺牲品吗？",
-      "fetched_at": "2026-04-10T07:14:49.966455+00:00"
-    },
-    "a01fa50764094ac1": {
-      "title": "美国无所不能神话破灭？脆弱的停火协议削弱其全球公信力",
-      "fetched_at": "2026-04-10T07:14:50.581764+00:00"
-    },
-    "88cc210bab617ffc": {
-      "title": "习近平会见国民党主席郑丽文，塑造稳定和平形象",
-      "fetched_at": "2026-04-10T07:14:51.200030+00:00"
-    },
-    "12fbc692af39309d": {
-      "title": "你的胆固醇水平健康吗？",
-      "fetched_at": "2026-04-10T07:14:51.910813+00:00"
-    },
-    "c25a5cdab91a08b5": {
-      "title": "梅拉尼娅否认与爱泼斯坦有任何关系",
-      "fetched_at": "2026-04-10T07:14:52.606874+00:00"
-    },
-    "b6a8b6806bf0991a": {
-      "title": "AI駕駛無人戰機：拆解未來戰場的攻防新技術",
-      "fetched_at": "2026-04-10T07:14:53.237157+00:00"
-    },
-    "65c76480569d5ac0": {
-      "title": "中國人形機器人之夢：當熱度退潮，留下的是泡沫還是繁榮？",
-      "fetched_at": "2026-04-10T07:14:53.842803+00:00"
-    },
     "cd29d7ff1b269e57": {
       "title": "美国3月CPI同比上升3.3%",
       "fetched_at": "2026-04-10T12:43:48.644496+00:00"
@@ -3775,7 +3647,99 @@
     "490229cfb6c92591": {
       "title": "Brain study reveals hidden link between autism and ADHD",
       "fetched_at": "2026-04-18T06:55:51.571619+00:00"
+    },
+    "e6503f7f74b63070": {
+      "title": "SemanticForge: Making AI Values Verifiable Across Cultures",
+      "fetched_at": "2026-04-18T12:36:49.526298+00:00"
+    },
+    "fc76c9b7d333bc22": {
+      "title": "Show HN: ApplyPilot – Self-Hosted AI-Powered Job Search Companion. Open Source",
+      "fetched_at": "2026-04-18T12:36:50.146358+00:00"
+    },
+    "4c3a8731071ec9f3": {
+      "title": "GPT‑2: 1.5B release (2019)",
+      "fetched_at": "2026-04-18T12:36:50.838740+00:00"
+    },
+    "25b6b543d661fc5b": {
+      "title": "AI Is Finding More Bugs Than Open-Source Teams Can Fight Off",
+      "fetched_at": "2026-04-18T12:36:51.625564+00:00"
+    },
+    "f20f625110eb4803": {
+      "title": "Show HN: Ricci Flow – AI Web Scraper",
+      "fetched_at": "2026-04-18T12:36:52.458174+00:00"
+    },
+    "68b59825cd52b69c": {
+      "title": "Who Uses AI Agents (and Who Just Runs the Demo)",
+      "fetched_at": "2026-04-18T12:36:53.098740+00:00"
+    },
+    "dd41c728d1580185": {
+      "title": "Atlassian's new data collection policy protects rich customers, AI eats the rest",
+      "fetched_at": "2026-04-18T12:36:53.703679+00:00"
+    },
+    "052a4bfbd9074831": {
+      "title": "Venice AI – private and unbiased AI",
+      "fetched_at": "2026-04-18T12:36:54.340824+00:00"
+    },
+    "05500b9ddcdf1471": {
+      "title": "A new study found that AI has a higher impact in the home than in the office",
+      "fetched_at": "2026-04-18T12:36:54.940039+00:00"
+    },
+    "df5971210e7efe63": {
+      "title": "Productivity gains with an AI-based IDE at Google",
+      "fetched_at": "2026-04-18T12:36:55.593250+00:00"
+    },
+    "cdd170f7eba16c75": {
+      "title": "My AI thinks civics is black studies",
+      "fetched_at": "2026-04-18T12:36:56.219710+00:00"
+    },
+    "3f7200d2356d3af7": {
+      "title": "To Beat China, Embrace Open-Source AI",
+      "fetched_at": "2026-04-18T12:36:56.840861+00:00"
+    },
+    "c83858ac769e6b1e": {
+      "title": "An Electronic Conversationalist (and the Machine Replied...) (1962)",
+      "fetched_at": "2026-04-18T12:36:57.445288+00:00"
+    },
+    "fbb9655781930824": {
+      "title": "高德动量机器人官宣将首次亮相亦庄机器人马拉松",
+      "fetched_at": "2026-04-18T12:36:58.057129+00:00"
+    },
+    "41085c662c5bb914": {
+      "title": "Shadow AI in Government Advisory Roles Has No Disclosure Requirement",
+      "fetched_at": "2026-04-18T12:36:58.742647+00:00"
+    },
+    "82dd0ef701b8f0b8": {
+      "title": "老外抢着当张雪机车代理，张雪机车全球订单狂飙",
+      "fetched_at": "2026-04-18T12:36:59.354355+00:00"
+    },
+    "043939cfba396e97": {
+      "title": "美计划用 “猎鹰重型”火箭发射欧航局火星车",
+      "fetched_at": "2026-04-18T12:36:59.996469+00:00"
+    },
+    "5fd84b1a4a2dd661": {
+      "title": "海康威视增利不增收：去年净利同比增长近两成，创新业务贡献继续提升",
+      "fetched_at": "2026-04-18T12:37:00.647268+00:00"
+    },
+    "b2a1bb455fce2d93": {
+      "title": "蔚来回应ES9仍用隐藏式门把手：完全合规",
+      "fetched_at": "2026-04-18T12:37:01.394162+00:00"
+    },
+    "531fb838112ade44": {
+      "title": "国际海事组织：约有2万海员被困波斯湾",
+      "fetched_at": "2026-04-18T12:37:01.993311+00:00"
+    },
+    "0b19a991478ef207": {
+      "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
+      "fetched_at": "2026-04-18T12:37:04.792535+00:00"
+    },
+    "1d8d4dd33b3ff904": {
+      "title": "Science news this week: Physicists witness faster-than-light darkness pinpricks, humans are still evolving, and some polar bears are getting fatter than ever",
+      "fetched_at": "2026-04-18T12:37:07.873712+00:00"
+    },
+    "496d15586402e4de": {
+      "title": "Did King Arthur really exist?",
+      "fetched_at": "2026-04-18T12:37:08.766850+00:00"
     }
   },
-  "last_updated": "2026-04-18T06:55:51.715054+00:00"
+  "last_updated": "2026-04-18T12:37:08.912792+00:00"
 }
