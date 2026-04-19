@@ -1,113 +1,5 @@
 {
   "articles": {
-    "ec1822f2e52b5cee": {
-      "title": "We gave an AI persistent identity and free access to a quantum computer",
-      "fetched_at": "2026-04-11T18:28:32.735225+00:00"
-    },
-    "abca7bb3bb9ce354": {
-      "title": "Fixhive – collective fix memory for AI coding agents (MCP plugin)",
-      "fetched_at": "2026-04-11T18:28:33.377625+00:00"
-    },
-    "e8632ab4f0078428": {
-      "title": "AI-Declaration.md",
-      "fetched_at": "2026-04-11T18:28:33.985729+00:00"
-    },
-    "ffd8d6d8dff434de": {
-      "title": "Ask HN: How do you stop playing 20 questions with your AI coding tools",
-      "fetched_at": "2026-04-11T18:28:34.606050+00:00"
-    },
-    "79d83b188eeab9ea": {
-      "title": "WordPress 7.0: The Good, the AI, and the Still Missing",
-      "fetched_at": "2026-04-11T18:28:35.222967+00:00"
-    },
-    "ec3268df801755d7": {
-      "title": "How far can automation and AI support psychotherapy?",
-      "fetched_at": "2026-04-11T18:28:35.852234+00:00"
-    },
-    "9762439a0708088e": {
-      "title": "The Hardest Problem AI Ever Solved, with Google DeepMind CEO",
-      "fetched_at": "2026-04-11T18:28:36.478178+00:00"
-    },
-    "587162625b0de5a6": {
-      "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
-      "fetched_at": "2026-04-11T18:28:37.166009+00:00"
-    },
-    "3cefdb85d605fe52": {
-      "title": "Show HN: Lines of Bash to automate LLM code review and fixes",
-      "fetched_at": "2026-04-11T18:28:37.820302+00:00"
-    },
-    "7fcc6ad28971b116": {
-      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-      "fetched_at": "2026-04-11T18:28:38.442345+00:00"
-    },
-    "32bc178cd85ec0bb": {
-      "title": "Measuring Malicious Intermediary Attacks on the LLM Supply Chain",
-      "fetched_at": "2026-04-11T18:28:39.104788+00:00"
-    },
-    "c7265e37d2d40672": {
-      "title": "\"AI polls\" are fake polls",
-      "fetched_at": "2026-04-11T18:28:39.763012+00:00"
-    },
-    "c9a2a5c36acb13c9": {
-      "title": "AI crypto analyst. Smart money tracking. Real-time alpha",
-      "fetched_at": "2026-04-11T18:28:40.397024+00:00"
-    },
-    "af6ed9e0a1ffb381": {
-      "title": "Show HN: rtdiff – Realtime Git diff GUI and AI commits, companion for vibecoding",
-      "fetched_at": "2026-04-11T18:28:41.184934+00:00"
-    },
-    "32890773c14163aa": {
-      "title": "Meta transfers top engineers into new AI tooling team",
-      "fetched_at": "2026-04-11T18:28:41.800888+00:00"
-    },
-    "d10adf12c8335e56": {
-      "title": "Can AI Generate a Full Unity World from One Prompt? I Tested",
-      "fetched_at": "2026-04-11T18:28:42.448809+00:00"
-    },
-    "b7518d5b6d6ba76e": {
-      "title": "MCP Spine – Middleware proxy that cuts LLM tool token usage by 61%",
-      "fetched_at": "2026-04-11T18:28:43.074303+00:00"
-    },
-    "eb23c36575c9a990": {
-      "title": "Gallup poll: GenZ AI adoption steady but skepticism on the rise",
-      "fetched_at": "2026-04-11T18:28:43.696041+00:00"
-    },
-    "472f94b968c023ec": {
-      "title": "Hart Research March 8, 2024 opinion poll for NBC News: people hate AI",
-      "fetched_at": "2026-04-11T18:28:44.396771+00:00"
-    },
-    "c7028f9f86db6611": {
-      "title": "Quantization, LoRA, and the 8% Problem Benchmarking Local LLMs for Production AI",
-      "fetched_at": "2026-04-11T18:28:45.023024+00:00"
-    },
-    "4e3f9b0b42c7548b": {
-      "title": "特朗普「關稅戰」一週年： 全球經濟如何在四個方面被改變",
-      "fetched_at": "2026-04-11T18:28:47.961413+00:00"
-    },
-    "03213809ec8d8fc3": {
-      "title": "I found a new meteor shower — and it comes from an asteroid getting baked to bits by the sun",
-      "fetched_at": "2026-04-11T18:28:52.631100+00:00"
-    },
-    "1587ceda722367dd": {
-      "title": "Two simple eating habits linked to lower weight, study finds",
-      "fetched_at": "2026-04-11T18:28:53.256111+00:00"
-    },
-    "fb19aef86f505a92": {
-      "title": "Unusual airborne toxin detected in the U.S. for the first time",
-      "fetched_at": "2026-04-11T18:28:54.179513+00:00"
-    },
-    "6cfaebbf8c927c65": {
-      "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
-      "fetched_at": "2026-04-11T18:28:54.791225+00:00"
-    },
-    "44f1840cd67fa48c": {
-      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
-      "fetched_at": "2026-04-11T18:28:55.436448+00:00"
-    },
-    "84377fafabb7ee64": {
-      "title": "Scientists finally crack mystery of rare COVID vaccine blood clots",
-      "fetched_at": "2026-04-11T18:28:56.057559+00:00"
-    },
     "cfc08536a862f787": {
       "title": "NeoBaby Phoebe Gates wants her $185M AI startup Phia to succeed",
       "fetched_at": "2026-04-12T01:24:44.230347+00:00"
@@ -3631,7 +3523,99 @@
     "2eda16c263e5f605": {
       "title": "Can chickens really run around with their heads cut off?",
       "fetched_at": "2026-04-19T12:36:12.690968+00:00"
+    },
+    "026c32623102ad4a": {
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "fetched_at": "2026-04-19T18:33:30.477762+00:00"
+    },
+    "5503278c5c2a0563": {
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "fetched_at": "2026-04-19T18:33:31.104657+00:00"
+    },
+    "e1382ffa65404893": {
+      "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
+      "fetched_at": "2026-04-19T18:33:31.728542+00:00"
+    },
+    "0edc0d75d64ed80c": {
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "fetched_at": "2026-04-19T18:33:32.359180+00:00"
+    },
+    "2eec64a65adfd6b5": {
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "fetched_at": "2026-04-19T18:33:32.967559+00:00"
+    },
+    "9ef828c647a07ae6": {
+      "title": "Upscale AI in talks to raise at $2B valuation, says report",
+      "fetched_at": "2026-04-19T18:33:33.580969+00:00"
+    },
+    "9e54b43d74a3c15b": {
+      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+      "fetched_at": "2026-04-19T18:33:34.217658+00:00"
+    },
+    "c696556f40cdf017": {
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "fetched_at": "2026-04-19T18:33:34.845987+00:00"
+    },
+    "2230705a341915d7": {
+      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+      "fetched_at": "2026-04-19T18:33:35.456346+00:00"
+    },
+    "d87cfbf7b8e6620b": {
+      "title": "Google’s AI Mode update lets you open links without leaving the page",
+      "fetched_at": "2026-04-19T18:33:36.120497+00:00"
+    },
+    "d53dc344402e829f": {
+      "title": "Google now lets you explore the web side-by-side with AI Mode",
+      "fetched_at": "2026-04-19T18:33:36.848121+00:00"
+    },
+    "cd1e7c0382de4033": {
+      "title": "Gemini can now pull from Google Photos to generate personalized images",
+      "fetched_at": "2026-04-19T18:33:37.518161+00:00"
+    },
+    "7e8621594f950005": {
+      "title": "城市漫步指南：在沿海宜居小城，过一段不赶时间的日子",
+      "fetched_at": "2026-04-19T18:33:38.151898+00:00"
+    },
+    "cda8e415449bc682": {
+      "title": "众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包",
+      "fetched_at": "2026-04-19T18:33:38.766681+00:00"
+    },
+    "845b7cd453e3b550": {
+      "title": "从画质玄学到改机热潮：浅谈拍立得的前世今生",
+      "fetched_at": "2026-04-19T18:33:39.470783+00:00"
+    },
+    "00ba55eb2c035e34": {
+      "title": "译文｜Tahoe 的图标令人难评",
+      "fetched_at": "2026-04-19T18:33:40.090401+00:00"
+    },
+    "5faa973902a72b34": {
+      "title": "Loneliness may contribute to memory issues, but not dementia — they are 'not the same thing'",
+      "fetched_at": "2026-04-19T18:33:43.849679+00:00"
+    },
+    "5dbca3621d72ae25": {
+      "title": "Naked mole rats wage bloody wars of succession to choose a new queen — but one colony did something scientists have never seen before",
+      "fetched_at": "2026-04-19T18:33:44.471501+00:00"
+    },
+    "3e7207dae799442d": {
+      "title": "'The chances of you living 50 years are very small': Theoretical physicist explains why humanity likely won't survive to see all the forces unified",
+      "fetched_at": "2026-04-19T18:33:45.094330+00:00"
+    },
+    "5080f821813ef905": {
+      "title": "Can the US be trusted with the moon? A law scholar raises concerns after Artemis II's success.",
+      "fetched_at": "2026-04-19T18:33:45.723137+00:00"
+    },
+    "1a0a4326dda6992b": {
+      "title": "A new force of nature is reshaping the planet, study finds",
+      "fetched_at": "2026-04-19T18:33:46.352019+00:00"
+    },
+    "50fec7fe16c34c96": {
+      "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
+      "fetched_at": "2026-04-19T18:33:46.962651+00:00"
+    },
+    "2d65ac45d45ea326": {
+      "title": "Why two-sun planets keep disappearing scientists blame Einstein",
+      "fetched_at": "2026-04-19T18:33:47.634865+00:00"
     }
   },
-  "last_updated": "2026-04-19T12:36:12.830849+00:00"
+  "last_updated": "2026-04-19T18:33:47.771209+00:00"
 }
