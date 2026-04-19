@@ -1,105 +1,5 @@
 {
   "articles": {
-    "dbd60c48ceb385a1": {
-      "title": "崔东树：3月的A00级电动车剧烈萎缩带来均价的上升，2026年销量增长压力较大",
-      "fetched_at": "2026-04-11T06:48:29.683372+00:00"
-    },
-    "7c40ce66cb2a9526": {
-      "title": "A3: Kubernetes for autonomous AI agent fleets",
-      "fetched_at": "2026-04-11T06:48:30.411396+00:00"
-    },
-    "d3adde92d5060a05": {
-      "title": "Ramp Up AI Skills",
-      "fetched_at": "2026-04-11T06:48:31.033027+00:00"
-    },
-    "4ba7247db2cb80a2": {
-      "title": "Show HN: RelayFreeLLM — Free AI Gateway with Auto-Failover (Updates)",
-      "fetched_at": "2026-04-11T06:48:31.890527+00:00"
-    },
-    "fd9db22003cf98b2": {
-      "title": "中信证券：流动性冲击扰动，互联网板块关注业绩韧性与AI主线",
-      "fetched_at": "2026-04-11T06:48:32.521296+00:00"
-    },
-    "3e9973f809aeeb99": {
-      "title": "奥特曼家被炸了！",
-      "fetched_at": "2026-04-11T06:48:33.157320+00:00"
-    },
-    "a672ca977423bfb2": {
-      "title": "Hindsight – A design spec for self-improving LLM agents",
-      "fetched_at": "2026-04-11T06:48:33.854525+00:00"
-    },
-    "5be51f0e78a11755": {
-      "title": "闪迪公司将于2026年4月20日起纳入纳斯达克100指数",
-      "fetched_at": "2026-04-11T06:48:34.476661+00:00"
-    },
-    "257bc9c2cef65aa1": {
-      "title": "滴滴自动驾驶张博：聚焦安全和体验，推动自动驾驶全球化落地",
-      "fetched_at": "2026-04-11T06:48:35.093139+00:00"
-    },
-    "9880cdec37433ee7": {
-      "title": "康斯特：压力传感器产品暂未向半导体、新材料等行业客户推广",
-      "fetched_at": "2026-04-11T06:48:35.719910+00:00"
-    },
-    "f8a2706d1c4279ee": {
-      "title": "蔚来李斌：高阶智驾芯片神玑NX9031与蔚来世界模型上车乐道L90",
-      "fetched_at": "2026-04-11T06:48:36.420478+00:00"
-    },
-    "bfe2edb9d0cacc8c": {
-      "title": "日本投入160亿美元，力推初创企业Rapidus进军人工智能芯片领域",
-      "fetched_at": "2026-04-11T06:48:37.038107+00:00"
-    },
-    "7bc2cd449b11bce1": {
-      "title": "郑州出台8条楼市新政",
-      "fetched_at": "2026-04-11T06:48:37.662657+00:00"
-    },
-    "25c3f50c26097e60": {
-      "title": "我国首个海上注碳增气技术示范应用项目启动",
-      "fetched_at": "2026-04-11T06:48:38.298951+00:00"
-    },
-    "e32e9a69f5124a21": {
-      "title": "蔚来董事长李斌：建议尽快推动电芯标准化和芯片归一化",
-      "fetched_at": "2026-04-11T06:48:38.910549+00:00"
-    },
-    "e40672c4c2fefdb7": {
-      "title": "IBM将支付1700万美元解决美国政府对DEI的调查",
-      "fetched_at": "2026-04-11T06:48:39.558557+00:00"
-    },
-    "4eff58c0ba198390": {
-      "title": "Slately AI - All The Top Tier Models In One Place",
-      "fetched_at": "2026-04-11T06:48:40.175966+00:00"
-    },
-    "e20c9583fbd37f8b": {
-      "title": "北向资金一季度持股情况公布，12个行业环比获加仓",
-      "fetched_at": "2026-04-11T06:48:40.806572+00:00"
-    },
-    "e6363b3a50553e15": {
-      "title": "Unleashing the Advantage of Quantum AI",
-      "fetched_at": "2026-04-11T06:48:41.431762+00:00"
-    },
-    "dd01def0c48d3793": {
-      "title": "We're heading for an AI-fueled 'dementia crisis,' brain scientist warns",
-      "fetched_at": "2026-04-11T06:48:42.044050+00:00"
-    },
-    "6c8c20fe18ab7c72": {
-      "title": "'I'm at a loss for words': Artemis II mission comes home to joy and cheers after historic 10-day mission",
-      "fetched_at": "2026-04-11T06:48:47.354989+00:00"
-    },
-    "fadec65092c892bb": {
-      "title": "'Blips' led Australian backyard astronomers to a world-first planetary discovery",
-      "fetched_at": "2026-04-11T06:48:47.998034+00:00"
-    },
-    "6c3d34d5bb2eb202": {
-      "title": "Relics of an ancient sandstorm on Mars point to Earth-like winds",
-      "fetched_at": "2026-04-11T06:48:48.699470+00:00"
-    },
-    "c0915b68c57ec07c": {
-      "title": "Coin Found in Chile Accords with Account of Spanish Colony's Foundation",
-      "fetched_at": "2026-04-11T06:48:49.330568+00:00"
-    },
-    "d312aa08fe6c7ab4": {
-      "title": "'Welcome home, Integrity': Artemis II crew safely returned to Earth after 'bullseye landing' to cap historic moon mission",
-      "fetched_at": "2026-04-11T06:48:49.949663+00:00"
-    },
     "cf20d1319235f02c": {
       "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
       "fetched_at": "2026-04-11T12:33:24.070374+00:00"
@@ -3583,7 +3483,163 @@
     "093b6ea6aee4d8d5": {
       "title": "Music discovery that works like flipping through record store bins",
       "fetched_at": "2026-04-19T01:27:35.357026+00:00"
+    },
+    "aa29a938ed9db6f5": {
+      "title": "The Truth About AI Disruption",
+      "fetched_at": "2026-04-19T07:05:54.953726+00:00"
+    },
+    "3305a3fe07acafe1": {
+      "title": "Compound AI: The architecture for safe, scalable autonomy",
+      "fetched_at": "2026-04-19T07:05:55.553515+00:00"
+    },
+    "d2d4c270b8bd7053": {
+      "title": "沙特能源公司与沙特电力采购公司签署购电协议",
+      "fetched_at": "2026-04-19T07:05:56.271962+00:00"
+    },
+    "bc34d5e0a39bc4d3": {
+      "title": "五一假期售票开始以来 ，12306已拒绝“抢票软件”出票105.6万张",
+      "fetched_at": "2026-04-19T07:05:56.887908+00:00"
+    },
+    "6cc6faeb4e640172": {
+      "title": "GitHub – Merit-Systems/Echo: The User Pays AI SDK",
+      "fetched_at": "2026-04-19T07:05:57.524107+00:00"
+    },
+    "c389c35ef3c3b13f": {
+      "title": "香港明天将公布新一批重点引进企业",
+      "fetched_at": "2026-04-19T07:05:58.145065+00:00"
+    },
+    "5d6fca5609b9d568": {
+      "title": "荣耀包揽北京亦庄人形机器人半马前六，新能安电池助力荣耀元气仔斩获“最佳步态控制奖”",
+      "fetched_at": "2026-04-19T07:05:58.759264+00:00"
+    },
+    "c12fbd1c5f2cea93": {
+      "title": "Show HN: AgentKey – Access governance for AI agents",
+      "fetched_at": "2026-04-19T07:05:59.409928+00:00"
+    },
+    "c07bee9efd887784": {
+      "title": "我国摧毁特大假酒网络",
+      "fetched_at": "2026-04-19T07:06:00.043133+00:00"
+    },
+    "73934614e9a754e8": {
+      "title": "三星停产两大内存",
+      "fetched_at": "2026-04-19T07:06:00.643475+00:00"
+    },
+    "29bd68fcd2daa228": {
+      "title": "东升宇航完成新一轮融资",
+      "fetched_at": "2026-04-19T07:06:01.269966+00:00"
+    },
+    "97cac9e38627b72a": {
+      "title": "First trailer released for western starring AI version of Val Kilmer",
+      "fetched_at": "2026-04-19T07:06:01.880621+00:00"
+    },
+    "0ae68c6f63f0156a": {
+      "title": "年内26只FOF募集规模超10亿元",
+      "fetched_at": "2026-04-19T07:06:02.555589+00:00"
+    },
+    "951175b3b5b35e08": {
+      "title": "Thiel-backed startup develops AI to adjudicate the truth of journalism",
+      "fetched_at": "2026-04-19T07:06:03.169712+00:00"
+    },
+    "689f93224230eac6": {
+      "title": "AI answers break down, and what each one looks like",
+      "fetched_at": "2026-04-19T07:06:03.821403+00:00"
+    },
+    "e24858aeca66b4e5": {
+      "title": "五家AIC去年净赚超184亿元",
+      "fetched_at": "2026-04-19T07:06:04.457855+00:00"
+    },
+    "7b69246ed2102e6c": {
+      "title": "第二人生获数千万融资，加码全彩3D打印与世界大模型",
+      "fetched_at": "2026-04-19T07:06:05.080396+00:00"
+    },
+    "68fca5fc3b834721": {
+      "title": "油价上涨催生丹麦“电车热”",
+      "fetched_at": "2026-04-19T07:06:05.821641+00:00"
+    },
+    "67ac210627790893": {
+      "title": "The Match Act Is the Missing Piece in America's AI Export Control Strategy",
+      "fetched_at": "2026-04-19T07:06:06.432873+00:00"
+    },
+    "b44b24bcb027c218": {
+      "title": "Show HN: Website that recommends outfit using weather and AI",
+      "fetched_at": "2026-04-19T07:06:07.051372+00:00"
+    },
+    "fffc0f086e9b7305": {
+      "title": "中國汽車製造商獲新專利：語音控制「車載廁所」",
+      "fetched_at": "2026-04-19T07:06:10.425049+00:00"
+    },
+    "755cbb32b8e77b86": {
+      "title": "在全球眾多掌權者眼裡，伊朗戰爭影響都有什麼",
+      "fetched_at": "2026-04-19T07:06:11.055465+00:00"
+    },
+    "d42a71b565ccdc34": {
+      "title": "缺工、失聯、種族歧視：一場印度移工爭議，揭開台灣的三重困境",
+      "fetched_at": "2026-04-19T07:06:11.730179+00:00"
+    },
+    "70df281bf9200984": {
+      "title": "霍爾木茲海峽開了又關 輪船報告遭伊朗槍擊",
+      "fetched_at": "2026-04-19T07:06:12.341989+00:00"
+    },
+    "b898e0e3c37dec00": {
+      "title": "阿提米絲二號宇航員： 「出發時是朋友，回來時成了最好的朋友」",
+      "fetched_at": "2026-04-19T07:06:12.960420+00:00"
+    },
+    "9daf61955a5b01e8": {
+      "title": "日本外交藍皮書將中國「降級」，中日關係何去何從?",
+      "fetched_at": "2026-04-19T07:06:13.575941+00:00"
+    },
+    "77f474f236786b3e": {
+      "title": "BBC記者經陸路前往德黑蘭 脆弱停火協議下的伊朗現場採訪記",
+      "fetched_at": "2026-04-19T07:06:14.192530+00:00"
+    },
+    "9ef7ca924489711d": {
+      "title": "美國封鎖霍爾木茲首日：中國公司貨輪「富星號」穿越海峽後折返",
+      "fetched_at": "2026-04-19T07:06:14.889994+00:00"
+    },
+    "1a53f6f6ab64a7bd": {
+      "title": "香港五年規劃：北京下達KPI還是「責無旁貸」的社會主義融合？",
+      "fetched_at": "2026-04-19T07:06:15.507882+00:00"
+    },
+    "3bdf687f86092f4a": {
+      "title": "There are 'reasons to be confident' about faulty Artemis II heat shield ahead of 25,000 mph reentry, space expert Ed Macaulay says",
+      "fetched_at": "2026-04-19T07:06:19.439144+00:00"
+    },
+    "2cb14a78036a541d": {
+      "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
+      "fetched_at": "2026-04-19T07:06:20.074604+00:00"
+    },
+    "91b4fa4a0f93da57": {
+      "title": "A common nutrient could supercharge cancer treatment",
+      "fetched_at": "2026-04-19T07:06:20.738495+00:00"
+    },
+    "ce1f64357d79fb40": {
+      "title": "Gravitational waves may be hidden in the light atoms emit",
+      "fetched_at": "2026-04-19T07:06:21.403078+00:00"
+    },
+    "ea9f0d0098b58184": {
+      "title": "This superconductivity dies then comes back to life",
+      "fetched_at": "2026-04-19T07:06:22.050141+00:00"
+    },
+    "3351933e65594eb1": {
+      "title": "Scientists think dark matter might come in two forms",
+      "fetched_at": "2026-04-19T07:06:22.663567+00:00"
+    },
+    "ad8abfc3f32f8e3e": {
+      "title": "Scientists finally uncover why promising cancer drugs keep failing",
+      "fetched_at": "2026-04-19T07:06:23.410128+00:00"
+    },
+    "7d8957d893454ac6": {
+      "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
+      "fetched_at": "2026-04-19T07:06:24.007958+00:00"
+    },
+    "5642284bc3a37ae6": {
+      "title": "The world is getting brighter at night but some places are going dark",
+      "fetched_at": "2026-04-19T07:06:24.625439+00:00"
+    },
+    "3e88e1f961e099ba": {
+      "title": "Dragonflies can see a color humans can’t and it could change medicine",
+      "fetched_at": "2026-04-19T07:06:25.247036+00:00"
     }
   },
-  "last_updated": "2026-04-19T01:27:35.493730+00:00"
+  "last_updated": "2026-04-19T07:06:25.388952+00:00"
 }
