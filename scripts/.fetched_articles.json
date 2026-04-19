@@ -1,113 +1,5 @@
 {
   "articles": {
-    "cf20d1319235f02c": {
-      "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
-      "fetched_at": "2026-04-11T12:33:24.070374+00:00"
-    },
-    "858b300cc14c4c42": {
-      "title": "I built a pure WGSL LLM engine to run Llama on my Snapdragon laptop GPU",
-      "fetched_at": "2026-04-11T12:33:24.674499+00:00"
-    },
-    "aa42a824771cf50b": {
-      "title": "AI Datacenters Are Becoming Strategic Targets",
-      "fetched_at": "2026-04-11T12:33:25.270299+00:00"
-    },
-    "26d2c28b19267aea": {
-      "title": "We Built Every Employee at Ramp Their Own AI Coworker",
-      "fetched_at": "2026-04-11T12:33:26.001871+00:00"
-    },
-    "61a0c622287a3bcc": {
-      "title": "Why I'm Quitting Physics (and moving to AI) [video]",
-      "fetched_at": "2026-04-11T12:33:26.682710+00:00"
-    },
-    "5606ea7a3ae6df29": {
-      "title": "Researchers used AI to analyze 400k Reddit posts, revealing GLP-1 side effects",
-      "fetched_at": "2026-04-11T12:33:27.300231+00:00"
-    },
-    "ab2f033ab88cbd53": {
-      "title": "AI 2027 Tracker",
-      "fetched_at": "2026-04-11T12:33:27.910094+00:00"
-    },
-    "945ac18371148f15": {
-      "title": "Show HN: MoodSense AI (ML and FastAPI and Gradio, Deployed on Hugging Face)",
-      "fetched_at": "2026-04-11T12:33:28.543332+00:00"
-    },
-    "93eb235bcad4851d": {
-      "title": "Show HN: MoodSense AI – mood detection and recommendations from text",
-      "fetched_at": "2026-04-11T12:33:29.160827+00:00"
-    },
-    "926fb0a0671b11b2": {
-      "title": "Nvidia Nemotron-3 Super AI model [video]",
-      "fetched_at": "2026-04-11T12:33:29.804084+00:00"
-    },
-    "501e8e276b1cc734": {
-      "title": "Apfel Chat – Private on Device AI That Works in Airplane Mode (MIT)",
-      "fetched_at": "2026-04-11T12:33:30.406825+00:00"
-    },
-    "6aa5ac0e9e64a19b": {
-      "title": "AI-powered English pronunciation practice",
-      "fetched_at": "2026-04-11T12:33:31.049072+00:00"
-    },
-    "e658c6ed5ca0e97b": {
-      "title": "AI sheds light on an ancient gaming mystery",
-      "fetched_at": "2026-04-11T12:33:31.652369+00:00"
-    },
-    "d8a858dabdad586c": {
-      "title": "Startup Wants You to Pay Up to Talk with AI Versions of Human Experts",
-      "fetched_at": "2026-04-11T12:33:32.263129+00:00"
-    },
-    "d6659a603322e51f": {
-      "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
-      "fetched_at": "2026-04-11T12:33:32.870284+00:00"
-    },
-    "16c7b96c808aa1d8": {
-      "title": "Self-hosted GitHub Wrapped – weekly AI report deployed to GitHub Pages",
-      "fetched_at": "2026-04-11T12:33:33.469724+00:00"
-    },
-    "728a1981409f8928": {
-      "title": "The New Feudalism: AI Reshaping Power, Labor; Case for Self-Reliant Communities",
-      "fetched_at": "2026-04-11T12:33:34.075674+00:00"
-    },
-    "ef8c2cce3d41612c": {
-      "title": "Architecture, patterns and internals of Anthropic's AI coding agent",
-      "fetched_at": "2026-04-11T12:33:34.672248+00:00"
-    },
-    "a99f057e343afaea": {
-      "title": "AI and Tech brief: Ireland ascendant",
-      "fetched_at": "2026-04-11T12:33:35.278379+00:00"
-    },
-    "5cb659379a358477": {
-      "title": "Stopping to think about the AI context",
-      "fetched_at": "2026-04-11T12:33:35.934901+00:00"
-    },
-    "2974c49922b595d1": {
-      "title": "AI for breakup texts? How 'sycophantic' chatbots are messing with our ability to handle difficult social situations.",
-      "fetched_at": "2026-04-11T12:33:40.484997+00:00"
-    },
-    "412dd77bc3705b34": {
-      "title": "Science news this week: Artemis II splashes down, the world's fattest parrot bounces back, and the Shroud of Turin is contaminated",
-      "fetched_at": "2026-04-11T12:33:41.075989+00:00"
-    },
-    "c3a413d5021eee44": {
-      "title": "Antibacterial Herbs: Ancient Remedies, Modern Science",
-      "fetched_at": "2026-04-11T12:33:41.673438+00:00"
-    },
-    "69ad8ca2b35cea09": {
-      "title": "10 Artemis II photos that define humanity's return to the moon",
-      "fetched_at": "2026-04-11T12:33:42.293170+00:00"
-    },
-    "d0b2069e042ccf61": {
-      "title": "Do the microbes in your gut influence what foods you like?",
-      "fetched_at": "2026-04-11T12:33:42.920145+00:00"
-    },
-    "498a5a22a9391e7a": {
-      "title": "SpaceX Starship could slash travel time to Uranus in half",
-      "fetched_at": "2026-04-11T12:33:43.527387+00:00"
-    },
-    "9ed0fd75a5c3168b": {
-      "title": "New microwave frying technique could make french fries much healthier",
-      "fetched_at": "2026-04-11T12:33:44.219551+00:00"
-    },
     "ec1822f2e52b5cee": {
       "title": "We gave an AI persistent identity and free access to a quantum computer",
       "fetched_at": "2026-04-11T18:28:32.735225+00:00"
@@ -3639,7 +3531,107 @@
     "3e88e1f961e099ba": {
       "title": "Dragonflies can see a color humans can’t and it could change medicine",
       "fetched_at": "2026-04-19T07:06:25.247036+00:00"
+    },
+    "afc648ea134304a5": {
+      "title": "联翔股份：预计2025年净亏损1080万元至1550万元 公司股票可能在年报披露后被实施退市风险警示",
+      "fetched_at": "2026-04-19T12:35:54.055556+00:00"
+    },
+    "76be6896925b6d86": {
+      "title": "东方环宇：2025年归母净利润同比增长9.43%，拟10派9元",
+      "fetched_at": "2026-04-19T12:35:54.638342+00:00"
+    },
+    "b4d02588be771551": {
+      "title": "力源信息：第一季度净利润同比增长241%",
+      "fetched_at": "2026-04-19T12:35:55.380583+00:00"
+    },
+    "7f43cdaef11efcec": {
+      "title": "万达电影：4月20日起证券简称变更为“儒意电影”",
+      "fetched_at": "2026-04-19T12:35:55.962517+00:00"
+    },
+    "65151808940ccaf4": {
+      "title": "天迈科技：筹划收购芬能自动化100%股权 预计构成重大资产重组明起停牌",
+      "fetched_at": "2026-04-19T12:35:56.556823+00:00"
+    },
+    "67dbdaa165c211ca": {
+      "title": "科氪 | 荣耀齐天大圣队机器人“闪电”夺冠 领跑2026亦庄人形机器人马拉松赛场",
+      "fetched_at": "2026-04-19T12:35:57.176155+00:00"
+    },
+    "e107df419a7374a9": {
+      "title": "东方证券：拟收购上海证券100%股权，4月20日起停牌",
+      "fetched_at": "2026-04-19T12:35:57.834352+00:00"
+    },
+    "3c33217d16f09826": {
+      "title": "匠心家居：持续关注美国相关税收及退税政策，目前具体适用情况及对公司的实际影响仍存在不确定性",
+      "fetched_at": "2026-04-19T12:35:58.554661+00:00"
+    },
+    "432c2dcf04c2f988": {
+      "title": "特斯拉将自动驾驶出租车服务扩展至达拉斯和休斯顿",
+      "fetched_at": "2026-04-19T12:35:59.191109+00:00"
+    },
+    "35c4230724fff097": {
+      "title": "AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题",
+      "fetched_at": "2026-04-19T12:35:59.784682+00:00"
+    },
+    "2297679a4551a0a7": {
+      "title": "北京产权交易所去年交易规模超10万亿元",
+      "fetched_at": "2026-04-19T12:36:00.376203+00:00"
+    },
+    "2628a956f880e65a": {
+      "title": "36氪首发 | 前华为工程师创业，实现临时键合载板存量循环，龙头客户已验证",
+      "fetched_at": "2026-04-19T12:36:00.976487+00:00"
+    },
+    "bb4ec41c0e62c5a1": {
+      "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
+      "fetched_at": "2026-04-19T12:36:01.579729+00:00"
+    },
+    "0f6489d1085b30f3": {
+      "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
+      "fetched_at": "2026-04-19T12:36:02.181367+00:00"
+    },
+    "bc31edb1adbbb83d": {
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "fetched_at": "2026-04-19T12:36:02.968523+00:00"
+    },
+    "2b130b7621bf52d9": {
+      "title": "求购长征火箭老股份额；求购多家机器人公司老股份额｜资情留言板第182期",
+      "fetched_at": "2026-04-19T12:36:03.563810+00:00"
+    },
+    "1cd11c525ec46900": {
+      "title": "「日清」换高周转，钱大妈筑牢生鲜护城河",
+      "fetched_at": "2026-04-19T12:36:04.163335+00:00"
+    },
+    "caa1030768f3e8fb": {
+      "title": "科氪 | 享刻智能：不追人形机器人，深耕餐饮场景做具身智能落地派",
+      "fetched_at": "2026-04-19T12:36:04.777754+00:00"
+    },
+    "cb058a1f4ea08a1e": {
+      "title": "TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验",
+      "fetched_at": "2026-04-19T12:36:05.371670+00:00"
+    },
+    "e553d8f60a23f705": {
+      "title": "来一杯不翻车的自信：手冲咖啡入门指北",
+      "fetched_at": "2026-04-19T12:36:05.968121+00:00"
+    },
+    "dfc7547527381c73": {
+      "title": "切爾諾貝利的最後婚禮：這對新人在核災難發生時正喜結連理",
+      "fetched_at": "2026-04-19T12:36:08.969854+00:00"
+    },
+    "d44e2e3200896e85": {
+      "title": "頂住仇恨浪潮，韓國女性作家的暢銷書正在崛起",
+      "fetched_at": "2026-04-19T12:36:09.550284+00:00"
+    },
+    "3fc9c8b939f587b3": {
+      "title": "Lyrid meteor shower 2026: See spring's first rain of 'shooting stars' peak in moonless skies",
+      "fetched_at": "2026-04-19T12:36:11.499727+00:00"
+    },
+    "1c621c2a57171912": {
+      "title": "Largest-ever 3D map of the universe shows 47 million galaxies, from the Milky Way to 'cosmic noon' — Space photo of the week",
+      "fetched_at": "2026-04-19T12:36:12.097774+00:00"
+    },
+    "2eda16c263e5f605": {
+      "title": "Can chickens really run around with their heads cut off?",
+      "fetched_at": "2026-04-19T12:36:12.690968+00:00"
     }
   },
-  "last_updated": "2026-04-19T07:06:25.388952+00:00"
+  "last_updated": "2026-04-19T12:36:12.830849+00:00"
 }
