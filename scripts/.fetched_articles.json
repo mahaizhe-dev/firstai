@@ -1,253 +1,5 @@
 {
   "articles": {
-    "f073059b27ed4bb1": {
-      "title": "ViralEpic: Create scroll-stopping social media visuals with AI in seconds",
-      "fetched_at": "2026-04-10T18:38:36.415596+00:00"
-    },
-    "1d178d9b3e5f0820": {
-      "title": "PyTorch Foundation Expands AI Stack with Safetensors, ExecuTorch, and Helion",
-      "fetched_at": "2026-04-10T18:38:36.995311+00:00"
-    },
-    "716c54b078753e2d": {
-      "title": "AI assistance when contributing to the Linux kernel",
-      "fetched_at": "2026-04-10T18:38:37.578947+00:00"
-    },
-    "5e539fd05d252b79": {
-      "title": "Claude AI Assistant for Microsoft Office",
-      "fetched_at": "2026-04-10T18:38:38.163063+00:00"
-    },
-    "4f3a88e8a0bc3fe4": {
-      "title": "Anthropic Will Use CoreWeave's AI Capacity to Power Claude",
-      "fetched_at": "2026-04-10T18:38:38.750160+00:00"
-    },
-    "a86a14b7a525b3d1": {
-      "title": "Show HN: The API directory for AI agents and developers",
-      "fetched_at": "2026-04-10T18:38:39.342076+00:00"
-    },
-    "649e509f43fd03ab": {
-      "title": "My Picture of the Present in AI",
-      "fetched_at": "2026-04-10T18:38:39.342200+00:00"
-    },
-    "41f957ed3ca44765": {
-      "title": "Show HN: I run AI background removal in the browser–no upload,no server",
-      "fetched_at": "2026-04-10T18:38:39.918778+00:00"
-    },
-    "00888f8763f5408a": {
-      "title": "Applications of AI at OpenAI",
-      "fetched_at": "2026-04-10T18:38:40.527762+00:00"
-    },
-    "c305287c73e43142": {
-      "title": "Responsible and Safe Use of AI",
-      "fetched_at": "2026-04-10T18:38:41.193980+00:00"
-    },
-    "0190ee1799aa3707": {
-      "title": "Show HN: Direction – a 4-week course for people afraid of shipping AI slop",
-      "fetched_at": "2026-04-10T18:38:41.783309+00:00"
-    },
-    "ce47a785418697fb": {
-      "title": "Synthetic Sandbox for Training Machine Learning Engineering Agents",
-      "fetched_at": "2026-04-10T18:38:42.376169+00:00"
-    },
-    "2ffd200774d78557": {
-      "title": "Alibaba shifts towards revenue over open-source AI",
-      "fetched_at": "2026-04-10T18:38:42.974819+00:00"
-    },
-    "5e068c3699e8e565": {
-      "title": "Surviving Hallucinations: AI Fault Tolerance for Campaigns",
-      "fetched_at": "2026-04-10T18:38:43.711195+00:00"
-    },
-    "60f7652b346fff17": {
-      "title": "What is the impact of AI on productivity?",
-      "fetched_at": "2026-04-10T18:38:44.286986+00:00"
-    },
-    "31649a9524403300": {
-      "title": "Install-AI-constitution: a tool to centralise your main AGENTS.md",
-      "fetched_at": "2026-04-10T18:38:44.870352+00:00"
-    },
-    "6308b35df1807f2e": {
-      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
-      "fetched_at": "2026-04-10T18:38:45.467456+00:00"
-    },
-    "d1a74d10d502e516": {
-      "title": "Ask HN: Is a purely Markdown-based CRM a terrible idea? Optimized for LLM agents",
-      "fetched_at": "2026-04-10T18:38:46.143064+00:00"
-    },
-    "927cb85cf1fc5674": {
-      "title": "AI (and) Maximalism",
-      "fetched_at": "2026-04-10T18:38:46.779768+00:00"
-    },
-    "bd4c23f810fe10a0": {
-      "title": "OpenJDK Interim Policy on Generative AI",
-      "fetched_at": "2026-04-10T18:38:47.449492+00:00"
-    },
-    "3bdf687f86092f4a": {
-      "title": "There are 'reasons to be confident' about faulty Artemis II heat shield ahead of 25,000 mph reentry, space expert Ed Macaulay says",
-      "fetched_at": "2026-04-10T18:38:50.822202+00:00"
-    },
-    "fc59df98e13a4e7b": {
-      "title": "The moon is green and brown? Why scientists are already excited about Artemis II's historic lunar photos",
-      "fetched_at": "2026-04-10T18:38:51.424592+00:00"
-    },
-    "7142ff942904d4f0": {
-      "title": "'I've seen the movies. What a horrible way to die': What it's like to be sucked into a tornado and survive",
-      "fetched_at": "2026-04-10T18:38:52.022603+00:00"
-    },
-    "3f916c186bf99f75": {
-      "title": "'More questions than answers': Experts baffled by Alaskan mammal-eating orcas spotted near Seattle",
-      "fetched_at": "2026-04-10T18:38:52.608358+00:00"
-    },
-    "ce0b0bf2875bae91": {
-      "title": "Changing 'just one DNA letter' in female mice triggers growth of male genitalia",
-      "fetched_at": "2026-04-10T18:38:53.209525+00:00"
-    },
-    "8c230787a5710ac8": {
-      "title": "Artemis II returns LIVE: Splashdown less than six hours away as crew prepares for fireball return",
-      "fetched_at": "2026-04-10T18:38:53.798786+00:00"
-    },
-    "2cb14a78036a541d": {
-      "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
-      "fetched_at": "2026-04-10T18:38:54.505974+00:00"
-    },
-    "91b4fa4a0f93da57": {
-      "title": "A common nutrient could supercharge cancer treatment",
-      "fetched_at": "2026-04-10T18:38:55.090405+00:00"
-    },
-    "ce1f64357d79fb40": {
-      "title": "Gravitational waves may be hidden in the light atoms emit",
-      "fetched_at": "2026-04-10T18:38:55.670703+00:00"
-    },
-    "ea9f0d0098b58184": {
-      "title": "This superconductivity dies then comes back to life",
-      "fetched_at": "2026-04-10T18:38:56.324925+00:00"
-    },
-    "3351933e65594eb1": {
-      "title": "Scientists think dark matter might come in two forms",
-      "fetched_at": "2026-04-10T18:38:56.963066+00:00"
-    },
-    "ad8abfc3f32f8e3e": {
-      "title": "Scientists finally uncover why promising cancer drugs keep failing",
-      "fetched_at": "2026-04-10T18:38:57.530874+00:00"
-    },
-    "7d8957d893454ac6": {
-      "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
-      "fetched_at": "2026-04-10T18:38:58.104660+00:00"
-    },
-    "5642284bc3a37ae6": {
-      "title": "The world is getting brighter at night but some places are going dark",
-      "fetched_at": "2026-04-10T18:38:58.876137+00:00"
-    },
-    "3e88e1f961e099ba": {
-      "title": "Dragonflies can see a color humans can’t and it could change medicine",
-      "fetched_at": "2026-04-10T18:38:59.459945+00:00"
-    },
-    "87979fe0ab5a5d67": {
-      "title": "美载人绕月飞船溅落在预定海域",
-      "fetched_at": "2026-04-11T01:15:14.199433+00:00"
-    },
-    "b799a4ad737ea338": {
-      "title": "Show HN: Collabmem – the memory system for long-term collaboration with AI",
-      "fetched_at": "2026-04-11T01:15:15.034389+00:00"
-    },
-    "f7ae23c5ef22d244": {
-      "title": "9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万",
-      "fetched_at": "2026-04-11T01:15:15.655472+00:00"
-    },
-    "aa4c1343b1d73b82": {
-      "title": "We gave an AI a 3-year Lease. It opened a store",
-      "fetched_at": "2026-04-11T01:15:16.280320+00:00"
-    },
-    "26161c531abc62ad": {
-      "title": "美股三大指数收盘涨跌不一，纳指涨0.35%并录得八连涨",
-      "fetched_at": "2026-04-11T01:15:16.879394+00:00"
-    },
-    "460f3e0541c2dd1a": {
-      "title": "Open Source LLM Comparison – Is Opus Cooked?",
-      "fetched_at": "2026-04-11T01:15:17.485144+00:00"
-    },
-    "9e6f9aaed6a47991": {
-      "title": "AI Code Is Hollowing Out Open Source, and Maintainers Are Looking the Other Way",
-      "fetched_at": "2026-04-11T01:15:18.143176+00:00"
-    },
-    "f440de4efe74c503": {
-      "title": "AI Agent Proxy to help reduce token usage (Anthropic Only)",
-      "fetched_at": "2026-04-11T01:15:18.742668+00:00"
-    },
-    "9f172f15d7f25ddc": {
-      "title": "Drones, Geophysics and AI: Researchers Battle Against Land Mines (2023)",
-      "fetched_at": "2026-04-11T01:15:19.358489+00:00"
-    },
-    "865314474564c2b0": {
-      "title": "AI-Assisted Breach of Mexico's Government Infrastructure Report",
-      "fetched_at": "2026-04-11T01:15:19.965198+00:00"
-    },
-    "49d55e12573714f0": {
-      "title": "Maki – the efficient coder (AI agent)",
-      "fetched_at": "2026-04-11T01:15:20.578639+00:00"
-    },
-    "b776649e3ed2c729": {
-      "title": "Show HN: Offline AI dev assistant (no API, runs locally)",
-      "fetched_at": "2026-04-11T01:15:21.210058+00:00"
-    },
-    "e30dea76b11af688": {
-      "title": "Hit Claude usage limits? Resume your AI coding session elsewhere",
-      "fetched_at": "2026-04-11T01:15:22.025811+00:00"
-    },
-    "b3694959c0f73715": {
-      "title": "The history and future of AI at Google, with Sundar Pichai",
-      "fetched_at": "2026-04-11T01:15:22.720922+00:00"
-    },
-    "0e660a10cf1c2910": {
-      "title": "Show HN: Ark – AI agent runtime in Go that tracks cost per decision step",
-      "fetched_at": "2026-04-11T01:15:23.328659+00:00"
-    },
-    "53abab16bb8709de": {
-      "title": "Anthropic injects reasoning_effort=25 into Claude.ai consumer system prompts",
-      "fetched_at": "2026-04-11T01:15:24.024453+00:00"
-    },
-    "df280b251b11b67f": {
-      "title": "Meta Banks on AI to Clear the Smoke of Social-Media Lawsuits",
-      "fetched_at": "2026-04-11T01:15:24.637110+00:00"
-    },
-    "85fff8ad14007e7d": {
-      "title": "Poll: Majority of voters say risks of AI outweigh the benefits",
-      "fetched_at": "2026-04-11T01:15:25.252686+00:00"
-    },
-    "c97278c13a8d4e51": {
-      "title": "AI and Cybersecurity: A Glass Half-Empty/Half-Full of Nitroglycerin",
-      "fetched_at": "2026-04-11T01:15:25.867200+00:00"
-    },
-    "48f5c9e105946047": {
-      "title": "I built an AI that teaches your slides and answers questions",
-      "fetched_at": "2026-04-11T01:15:26.539687+00:00"
-    },
-    "352ffb3eaa2dedc8": {
-      "title": "阿爾忒彌斯2號啟航：睽違54年 人類再度飛向月球",
-      "fetched_at": "2026-04-11T01:15:29.568301+00:00"
-    },
-    "4c8f16f0f21e00ea": {
-      "title": "The Ancient Coding Language That 95% of ATMs Use [video]",
-      "fetched_at": "2026-04-11T01:15:32.566205+00:00"
-    },
-    "ba7a2092ea7a5095": {
-      "title": "The Ancient Psychedelics Myth",
-      "fetched_at": "2026-04-11T01:15:33.275224+00:00"
-    },
-    "ed9e1c2d86681cfa": {
-      "title": "DNA Study Reveals Relationships in South Korean Three Kingdoms–Era Graves",
-      "fetched_at": "2026-04-11T01:15:33.895928+00:00"
-    },
-    "276ff598b5e94a04": {
-      "title": "Study Reviews Seal Tooth Pendant from Kent’s Cavern",
-      "fetched_at": "2026-04-11T01:15:34.616022+00:00"
-    },
-    "ed0d3facdb1b8f39": {
-      "title": "Utopia and Historical Actions",
-      "fetched_at": "2026-04-11T01:15:35.294814+00:00"
-    },
-    "49e0d94735f3c662": {
-      "title": "Artemis II splashdown LIVE: Orion splashes down safely in the Pacific Ocean",
-      "fetched_at": "2026-04-11T01:15:35.901689+00:00"
-    },
     "dbd60c48ceb385a1": {
       "title": "崔东树：3月的A00级电动车剧烈萎缩带来均价的上升，2026年销量增长压力较大",
       "fetched_at": "2026-04-11T06:48:29.683372+00:00"
@@ -3735,7 +3487,103 @@
     "081e8c74110fa37c": {
       "title": "Total solar eclipse led to seismic quiet for cities within its path",
       "fetched_at": "2026-04-18T18:32:26.568693+00:00"
+    },
+    "01e2c24d542435e2": {
+      "title": "“闪电”完成2026人形机器人半马",
+      "fetched_at": "2026-04-19T01:27:16.737564+00:00"
+    },
+    "5e3ea3a1446e4105": {
+      "title": "宇树称打破人类1500米世界纪录",
+      "fetched_at": "2026-04-19T01:27:17.375544+00:00"
+    },
+    "f1df76769cfbf0dd": {
+      "title": "燃油成本飙升冲击航空业 多家航司上调费用并削减航线",
+      "fetched_at": "2026-04-19T01:27:18.029379+00:00"
+    },
+    "54cff59a5b478049": {
+      "title": "C3安全大会成立多项AI安全生态联盟，华为、阿里云、ABB等参与",
+      "fetched_at": "2026-04-19T01:27:18.701240+00:00"
+    },
+    "e5e697756070a5d1": {
+      "title": "AI chip startup Cerebras files for IPO",
+      "fetched_at": "2026-04-19T01:27:19.328708+00:00"
+    },
+    "9de447849c7fdb45": {
+      "title": "AI-Assisted Coding: Why a Distinguished Engineer Stopped Reading Code",
+      "fetched_at": "2026-04-19T01:27:19.956338+00:00"
+    },
+    "8d9f6097ac63a924": {
+      "title": "BenchJack – an open-source hackability scanner for AI agent benchmarks",
+      "fetched_at": "2026-04-19T01:27:20.579449+00:00"
+    },
+    "8ffbc0d73837a344": {
+      "title": "Operational Readiness Criteria for Tool-Using LLM Agents",
+      "fetched_at": "2026-04-19T01:27:21.205600+00:00"
+    },
+    "3a321ad2145edc6c": {
+      "title": "AI as Economic Warfare",
+      "fetched_at": "2026-04-19T01:27:21.833982+00:00"
+    },
+    "cbe8be4428b0d387": {
+      "title": "Objection: An AI judge for investigating media claims",
+      "fetched_at": "2026-04-19T01:27:22.470258+00:00"
+    },
+    "72483f3c080dff44": {
+      "title": "AI writes code 100x faster – why hasn't productivity?",
+      "fetched_at": "2026-04-19T01:27:23.126052+00:00"
+    },
+    "9c5262150b4ddb2f": {
+      "title": "Meshcore: Architecture for a Decentralized P2P LLM Inference Network",
+      "fetched_at": "2026-04-19T01:27:23.835353+00:00"
+    },
+    "021b9cc6b430c399": {
+      "title": "Singapore Tourism Board Launches AI-Powered Robodog Guides at Sentosa",
+      "fetched_at": "2026-04-19T01:27:24.452553+00:00"
+    },
+    "bb378cd44c845e45": {
+      "title": "Ask HN: Can you show me some useful AI-written programs?",
+      "fetched_at": "2026-04-19T01:27:25.134995+00:00"
+    },
+    "f609eb61a9725e01": {
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "fetched_at": "2026-04-19T01:27:25.761798+00:00"
+    },
+    "9dedc6a0298d9803": {
+      "title": "Mapping India's homegrown AI ecosystem – 110 apps, 22 languages, 28 sectors",
+      "fetched_at": "2026-04-19T01:27:26.483884+00:00"
+    },
+    "2e345e3b5c50e23d": {
+      "title": "Show HN: How Are You-elderly fall detection app I built solo with AI in 6 months",
+      "fetched_at": "2026-04-19T01:27:27.241364+00:00"
+    },
+    "30322a036e94826e": {
+      "title": "The RAM shortage could last years",
+      "fetched_at": "2026-04-19T01:27:27.860730+00:00"
+    },
+    "08ff639f02d0f632": {
+      "title": "Observability Stack – AI First?",
+      "fetched_at": "2026-04-19T01:27:28.552148+00:00"
+    },
+    "bdbf7d6b40c44ca3": {
+      "title": "Show HN: Reliably Incorrect – explore LLM reliability with data visualizations",
+      "fetched_at": "2026-04-19T01:27:29.249137+00:00"
+    },
+    "01c241ec4d921e67": {
+      "title": "王毅罕見訪朝引發特金會猜測 分析指北京目標是「維持平衡」",
+      "fetched_at": "2026-04-19T01:27:32.270478+00:00"
+    },
+    "028299cf0b84c6b4": {
+      "title": "Opentargets-py – Python SDK for the Open Targets drug discovery database",
+      "fetched_at": "2026-04-19T01:27:34.083469+00:00"
+    },
+    "902380c4f12e7622": {
+      "title": "$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy",
+      "fetched_at": "2026-04-19T01:27:34.725746+00:00"
+    },
+    "093b6ea6aee4d8d5": {
+      "title": "Music discovery that works like flipping through record store bins",
+      "fetched_at": "2026-04-19T01:27:35.357026+00:00"
     }
   },
-  "last_updated": "2026-04-18T18:32:26.676586+00:00"
+  "last_updated": "2026-04-19T01:27:35.493730+00:00"
 }
