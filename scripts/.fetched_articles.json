@@ -1,117 +1,5 @@
 {
   "articles": {
-    "a5b8c6fb340f8211": {
-      "title": "Why AI Sucks at Front End",
-      "fetched_at": "2026-04-12T12:36:17.914037+00:00"
-    },
-    "c677c80e1c35fc38": {
-      "title": "LLM Wiki Skill: Build a Second Brain with Claude Code and Obsidian",
-      "fetched_at": "2026-04-12T12:36:18.587817+00:00"
-    },
-    "ae660c932ca5bcb2": {
-      "title": "HubVanta AI",
-      "fetched_at": "2026-04-12T12:36:19.207934+00:00"
-    },
-    "627a63932685a241": {
-      "title": "The AI code wars are heating up",
-      "fetched_at": "2026-04-12T12:36:19.842812+00:00"
-    },
-    "f3804f04438abff3": {
-      "title": "Show HN: Android AI agent-assistant operating your apps (no adb,PC,root,etc.)",
-      "fetched_at": "2026-04-12T12:36:20.485873+00:00"
-    },
-    "7439bb190ebcd87e": {
-      "title": "Nb – Notebook CLI designed for both humans and AI agents",
-      "fetched_at": "2026-04-12T12:36:21.212887+00:00"
-    },
-    "5e5993a000f1497a": {
-      "title": "The Abstraction Fallacy: Why AI Can Simulate but Not Instantiate Consciousness",
-      "fetched_at": "2026-04-12T12:36:21.993065+00:00"
-    },
-    "7182368b7712184e": {
-      "title": "Decision Passport verifiable AI decision records",
-      "fetched_at": "2026-04-12T12:36:22.652881+00:00"
-    },
-    "5815f430297a7628": {
-      "title": "I built an LLM Wiki and RAG solution: here's a demo for a security KB",
-      "fetched_at": "2026-04-12T12:36:23.277525+00:00"
-    },
-    "771baf4471a6a1b1": {
-      "title": "Strong Model First or Weak Model First? A Cost Study for Multi-Step LLM Agents",
-      "fetched_at": "2026-04-12T12:36:23.895059+00:00"
-    },
-    "fb0a8a56c5bda9b3": {
-      "title": "Running AI Agents in a Sandbox",
-      "fetched_at": "2026-04-12T12:36:24.510818+00:00"
-    },
-    "f484ba96923622f0": {
-      "title": "星元晶算发布1nm芯片路线图",
-      "fetched_at": "2026-04-12T12:36:25.198119+00:00"
-    },
-    "63c1c56d731693ea": {
-      "title": "轻舟智航于骞：智能汽车的AI能力已完成三次关键进化，2026年迈入超人智能的新阶段",
-      "fetched_at": "2026-04-12T12:36:25.922072+00:00"
-    },
-    "e35e83e1035c6dd1": {
-      "title": "我是如何进行文件管理的",
-      "fetched_at": "2026-04-12T12:36:26.731349+00:00"
-    },
-    "c29002563e08ce7f": {
-      "title": "Happy Horse AI",
-      "fetched_at": "2026-04-12T12:36:27.340113+00:00"
-    },
-    "036432e0ca442aae": {
-      "title": "粤桂股份：第一季度净利润同比预增67.72%—98.53%",
-      "fetched_at": "2026-04-12T12:36:27.968747+00:00"
-    },
-    "22bd73bf9d47661c": {
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "fetched_at": "2026-04-12T12:36:28.808091+00:00"
-    },
-    "faa32f7cbaf24af8": {
-      "title": "The Federal Government Is Rushing Toward AI",
-      "fetched_at": "2026-04-12T12:36:29.440506+00:00"
-    },
-    "e5b45dc7e90e514f": {
-      "title": "I gave my AI shell access and felt uneasy – so I sandboxed it",
-      "fetched_at": "2026-04-12T12:36:30.066867+00:00"
-    },
-    "0c5c3b9cc3ce16fd": {
-      "title": "荣耀机器人“闪电”“元气仔”出征北京亦庄马拉松",
-      "fetched_at": "2026-04-12T12:36:30.682431+00:00"
-    },
-    "9f03f5e146055785": {
-      "title": "梅拉尼婭·特朗普的演說讓愛潑斯坦危機再次成為焦點",
-      "fetched_at": "2026-04-12T12:36:33.115728+00:00"
-    },
-    "1473b96a6b9f4db2": {
-      "title": "鄭麗文結束訪陸北京發對台「十項措施」 台北批「一中框架化」",
-      "fetched_at": "2026-04-12T12:36:33.743268+00:00"
-    },
-    "4f8675d6421ea5de": {
-      "title": "美伊馬拉松和談失敗 萬斯帶著「最後提議」離開巴基斯坦",
-      "fetched_at": "2026-04-12T12:36:34.365801+00:00"
-    },
-    "c952460d8605856d": {
-      "title": "阿提米絲二號繞月任務取得巨大成功，真正的挑戰尚在前面",
-      "fetched_at": "2026-04-12T12:36:35.016056+00:00"
-    },
-    "bccc66f7f7504e3e": {
-      "title": "'Human minds shouldn't have to go through' this: Artemis II crew recalls unreal moment when Earth disappeared — Space photo of the week",
-      "fetched_at": "2026-04-12T12:37:10.371471+00:00"
-    },
-    "00aa313f7a4fc40d": {
-      "title": "Does the moon look the same from everywhere on Earth?",
-      "fetched_at": "2026-04-12T12:37:11.041272+00:00"
-    },
-    "ef8a4a87149cc19e": {
-      "title": "Life on Mars? Tiny cells just survived shock waves and toxic soil",
-      "fetched_at": "2026-04-12T12:37:11.816831+00:00"
-    },
-    "6d40a35ad2b61ef6": {
-      "title": "The Universe is expanding too fast and scientists still can’t explain it",
-      "fetched_at": "2026-04-12T12:37:12.592168+00:00"
-    },
     "0f9efa47371428e3": {
       "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
       "fetched_at": "2026-04-12T18:32:24.574725+00:00"
@@ -3671,7 +3559,99 @@
     "c68fe8fcde5a91b0": {
       "title": "Embedded Rust discovery guide for the official Rust ESP32-C3 board",
       "fetched_at": "2026-04-20T07:49:58.147226+00:00"
+    },
+    "265790da75620a23": {
+      "title": "中国人民银行行长潘功胜会见国际金融机构负责人",
+      "fetched_at": "2026-04-20T13:03:36.264218+00:00"
+    },
+    "94aa057613abc461": {
+      "title": "热门中概股美股盘前多数下跌，理想汽车涨超1%",
+      "fetched_at": "2026-04-20T13:03:36.896121+00:00"
+    },
+    "4e561949eeda18f0": {
+      "title": "5 days No AI. An AI detox challenge",
+      "fetched_at": "2026-04-20T13:03:37.557336+00:00"
+    },
+    "85b29e8c4a5430e1": {
+      "title": "美股大型科技股盘前普跌，英特尔跌超1%",
+      "fetched_at": "2026-04-20T13:03:38.163751+00:00"
+    },
+    "a839fb44e0aa255c": {
+      "title": "Show HN: Lightflare – Self-hosted AI agent server for teams",
+      "fetched_at": "2026-04-20T13:03:38.788375+00:00"
+    },
+    "8ead0426a925d2fb": {
+      "title": "空悬企业时驾科技获头部车企MPV车型独家定点 | 早期项目",
+      "fetched_at": "2026-04-20T13:03:39.468340+00:00"
+    },
+    "1854b668e1acb207": {
+      "title": "江天化学：一季度净利润1288.71万元，同比增长1473.96%",
+      "fetched_at": "2026-04-20T13:03:40.381088+00:00"
+    },
+    "a4b90b6b8d100eb2": {
+      "title": "SCE Core – a state-evolution engine for explainable AI reasoning",
+      "fetched_at": "2026-04-20T13:03:41.002957+00:00"
+    },
+    "bb0f0d1a0f2d013d": {
+      "title": "The 'Google for AI Agents' Is Coming – and It's Being Built Outside Big Tech",
+      "fetched_at": "2026-04-20T13:03:41.702765+00:00"
+    },
+    "e5f4708aeac620f5": {
+      "title": "Build AI evals from real failures",
+      "fetched_at": "2026-04-20T13:03:42.332806+00:00"
+    },
+    "3217299d54745b38": {
+      "title": "广东：要用好产业引导基金，加大对集成电路、具身智能、算电协同等领域的投资",
+      "fetched_at": "2026-04-20T13:03:43.075141+00:00"
+    },
+    "dc8134ef2411494c": {
+      "title": "泰和科技：一季度净利润8603.26万元，同比增长202.43%",
+      "fetched_at": "2026-04-20T13:03:43.736902+00:00"
+    },
+    "b19f545c21695fad": {
+      "title": "Is anyone else bothered that AI agents can basically do what they want?",
+      "fetched_at": "2026-04-20T13:03:44.459882+00:00"
+    },
+    "5b86217ee113e218": {
+      "title": "Atlassian Enables Default Data Collection to Train AI",
+      "fetched_at": "2026-04-20T13:03:45.086103+00:00"
+    },
+    "251aa95add154c50": {
+      "title": "Strategy斥资25.4亿美元增持比特币，持仓量逾81万枚",
+      "fetched_at": "2026-04-20T13:03:45.730316+00:00"
+    },
+    "a8313cf8905aefb6": {
+      "title": "Show HN: Search Without AI, a Chrome Extension to Clean Up Google Search",
+      "fetched_at": "2026-04-20T13:03:46.437535+00:00"
+    },
+    "b342945ce1caadf5": {
+      "title": "中国移动：一季度净利润293亿元，同比下降4.2%",
+      "fetched_at": "2026-04-20T13:03:47.199926+00:00"
+    },
+    "1db4dcdccabffab2": {
+      "title": "AI Code review doesn't catch AI-written security probs",
+      "fetched_at": "2026-04-20T13:03:47.850316+00:00"
+    },
+    "7531cac4c3d65ab9": {
+      "title": "Is it too late to build a \"Spotify for art\" in the age of AI?",
+      "fetched_at": "2026-04-20T13:03:48.473764+00:00"
+    },
+    "75d0687e5414cd28": {
+      "title": "雪天盐业：一季度净利润1486.75万元，同比下降55.47%",
+      "fetched_at": "2026-04-20T13:03:49.098967+00:00"
+    },
+    "49d5c7bdacff75c8": {
+      "title": "AI醫生：聊天機器人給的健康建議能被相信嗎？",
+      "fetched_at": "2026-04-20T13:03:51.410348+00:00"
+    },
+    "bf749f778ceea1fb": {
+      "title": "藝術受審——雕塑家高兟被捕，凸顯中國審查制度的新極端",
+      "fetched_at": "2026-04-20T13:03:52.034419+00:00"
+    },
+    "58dfece75c86c99e": {
+      "title": "Altar to Sol: A rare 1,900-year-old monument dedicated to the Roman god of light and used in a secret underground ritual",
+      "fetched_at": "2026-04-20T13:03:54.264983+00:00"
     }
   },
-  "last_updated": "2026-04-20T07:49:58.283907+00:00"
+  "last_updated": "2026-04-20T13:03:54.407677+00:00"
 }
