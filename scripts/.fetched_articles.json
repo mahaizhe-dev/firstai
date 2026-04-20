@@ -1,93 +1,5 @@
 {
   "articles": {
-    "916560cdfca0ce15": {
-      "title": "上海二手房单日成交1632套：连续打破5年峰值纪录 高端房源成交占比提升",
-      "fetched_at": "2026-04-12T07:02:44.062700+00:00"
-    },
-    "fbd749af18291fe7": {
-      "title": "Ask HN: Do you trust AI agents with API keys / private keys?",
-      "fetched_at": "2026-04-12T07:02:44.662560+00:00"
-    },
-    "294d0f01c2eafbaa": {
-      "title": "The AI Layoff Trap",
-      "fetched_at": "2026-04-12T07:02:45.332076+00:00"
-    },
-    "56058e5758bc31fd": {
-      "title": "自然资源部：一季度我国办理不动产“带押过户”9万笔",
-      "fetched_at": "2026-04-12T07:02:45.937155+00:00"
-    },
-    "ac17daed51c8ce8d": {
-      "title": "Frugal AI for Education",
-      "fetched_at": "2026-04-12T07:02:46.535378+00:00"
-    },
-    "44c3690d3309cb60": {
-      "title": "日本3月机床订单额增长28% 海外订单增40%",
-      "fetched_at": "2026-04-12T07:02:47.172519+00:00"
-    },
-    "4197c08971de6ab7": {
-      "title": "Code Mode: Let Your AI Write Programs, Not Just Call Tools",
-      "fetched_at": "2026-04-12T07:02:47.783826+00:00"
-    },
-    "39e0abb615537f6d": {
-      "title": "Science Communication and the Hype Machine",
-      "fetched_at": "2026-04-12T07:02:48.571932+00:00"
-    },
-    "72e93b4a46851656": {
-      "title": "联合国环境署呼吁推动航天活动可持续发展",
-      "fetched_at": "2026-04-12T07:02:49.168317+00:00"
-    },
-    "7ea15f6d3a2eb240": {
-      "title": "Show HN: I visualized how AI agent systems accidentally become org charts",
-      "fetched_at": "2026-04-12T07:02:49.779322+00:00"
-    },
-    "5678e09c7cd8f641": {
-      "title": "乘联分会崔东树：预计2026年汽车总批发量3480万辆 同比增长1%",
-      "fetched_at": "2026-04-12T07:02:50.408071+00:00"
-    },
-    "831724eb5e67356b": {
-      "title": "Intel Arc Pro B70 Brings 32GB VRAM to Local AI for $949",
-      "fetched_at": "2026-04-12T07:02:51.060399+00:00"
-    },
-    "61470dca39c44454": {
-      "title": "Graft – Go AI Agent Framework with Temporal/Hatchet/Trigger.dev Support",
-      "fetched_at": "2026-04-12T07:02:51.693797+00:00"
-    },
-    "f99081633c7c7c80": {
-      "title": "India's TCS tops estimates, says new AI models did not dent services demand",
-      "fetched_at": "2026-04-12T07:02:52.305977+00:00"
-    },
-    "b5fd306e59219cfe": {
-      "title": "俄罗斯黑海沿岸区域超130只海豚死亡",
-      "fetched_at": "2026-04-12T07:02:52.942790+00:00"
-    },
-    "91a321702b89db57": {
-      "title": "海南自贸港全球产业招商大会低空经济专场将于14日举办",
-      "fetched_at": "2026-04-12T07:02:53.544153+00:00"
-    },
-    "f7109f0d218d501f": {
-      "title": "Gen Z's fading AI hype",
-      "fetched_at": "2026-04-12T07:02:54.202393+00:00"
-    },
-    "0719b83443af9a7a": {
-      "title": "长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上",
-      "fetched_at": "2026-04-12T07:02:54.825016+00:00"
-    },
-    "6f7123e31d02fe0b": {
-      "title": "Strong feeling: we are in a folded AI reality",
-      "fetched_at": "2026-04-12T07:02:55.564227+00:00"
-    },
-    "7a99b84c83b2e0a7": {
-      "title": "Catalog of AI Knowledge Retrieval, Memory and RAG Systems",
-      "fetched_at": "2026-04-12T07:02:56.253291+00:00"
-    },
-    "cfbf18555942700b": {
-      "title": "美伊馬拉松和談失敗 萬斯從巴基斯坦「空手而回」",
-      "fetched_at": "2026-04-12T07:02:59.420768+00:00"
-    },
-    "76896438f6cad614": {
-      "title": "鄭麗文訪陸尾聲 中共台辦公佈兩岸交流「十項措施」",
-      "fetched_at": "2026-04-12T07:03:00.016766+00:00"
-    },
     "a5b8c6fb340f8211": {
       "title": "Why AI Sucks at Front End",
       "fetched_at": "2026-04-12T12:36:17.914037+00:00"
@@ -3631,7 +3543,135 @@
     "84377fafabb7ee64": {
       "title": "Scientists finally crack mystery of rare COVID vaccine blood clots",
       "fetched_at": "2026-04-20T01:27:52.762133+00:00"
+    },
+    "8d81988c7f28f7fa": {
+      "title": "余承东：手机定价压力较大，后期可能涨价",
+      "fetched_at": "2026-04-20T07:49:27.461799+00:00"
+    },
+    "d31fabc359a6e7ee": {
+      "title": "HN: Vynly Social network for AI agents, with MCP server and demo token",
+      "fetched_at": "2026-04-20T07:49:28.063760+00:00"
+    },
+    "df44d4b31b514123": {
+      "title": "AI Agents replacing mid-management, not developers",
+      "fetched_at": "2026-04-20T07:49:28.645730+00:00"
+    },
+    "9bc195f09bf0b8da": {
+      "title": "We taught AI to write correct streaming SQL",
+      "fetched_at": "2026-04-20T07:49:29.367827+00:00"
+    },
+    "9979f8dea7a7fa5e": {
+      "title": "“AI药物递送第一股”剂泰科技正式通过港交所聆讯",
+      "fetched_at": "2026-04-20T07:49:30.040022+00:00"
+    },
+    "2154ef011f91e1f2": {
+      "title": "永辉超市：大规模闭店已结束，目前调改店已实现收入增长",
+      "fetched_at": "2026-04-20T07:49:30.629658+00:00"
+    },
+    "c3e49680c9056303": {
+      "title": "阿里发布Qwen3.6-Max预览版",
+      "fetched_at": "2026-04-20T07:49:31.218582+00:00"
+    },
+    "04d1c7b219679946": {
+      "title": "高盛聘任前花旗银行高管，执掌亚洲债务资本市场业务",
+      "fetched_at": "2026-04-20T07:49:31.804612+00:00"
+    },
+    "05d922ceb16a14a6": {
+      "title": "英特尔14A工艺整装待发，瑞银猜测其客户或包括英伟达及苹果等",
+      "fetched_at": "2026-04-20T07:49:32.445152+00:00"
+    },
+    "2e2c6c505b6afdc8": {
+      "title": "机构：2026年Q1 RGB-Mini LED电视月销增2倍",
+      "fetched_at": "2026-04-20T07:49:33.051771+00:00"
+    },
+    "16f93310bc350cf5": {
+      "title": "华友钴业陈红良：企业已拿到精矿出口相关批文，在途周期约3个月",
+      "fetched_at": "2026-04-20T07:49:33.699822+00:00"
+    },
+    "ff90c28dce313661": {
+      "title": "北京一季度GDP同比增长5.9%",
+      "fetched_at": "2026-04-20T07:49:34.407324+00:00"
+    },
+    "e763fbe9d40b1b89": {
+      "title": "3月份民航旅客运输量同比增长12.1%",
+      "fetched_at": "2026-04-20T07:49:35.000400+00:00"
+    },
+    "9021d225bf75aa8f": {
+      "title": "问界在北京成立汽车销售服务公司",
+      "fetched_at": "2026-04-20T07:49:35.728693+00:00"
+    },
+    "b4c06077ca7a1d9d": {
+      "title": "Show HN: LLM-Rosetta - Translate LLM API Calls Across OpenAI, Anthropic, Gemini",
+      "fetched_at": "2026-04-20T07:49:36.317462+00:00"
+    },
+    "e172f88bd317ee03": {
+      "title": "日本精机将收购东洋电装全部股份",
+      "fetched_at": "2026-04-20T07:49:37.043503+00:00"
+    },
+    "7be8021fdd92e067": {
+      "title": "启明头条 | 连接世界级的科学与顶级的投资者，首届S2S中国研讨会创业提案第二次征集进行中",
+      "fetched_at": "2026-04-20T07:49:37.666316+00:00"
+    },
+    "ea33abb7bf055a0f": {
+      "title": "A股三大指数收盘涨跌不一，中国卫星涨停",
+      "fetched_at": "2026-04-20T07:49:38.327216+00:00"
+    },
+    "5915c303602c25b5": {
+      "title": "Topology Meets Machine Learning: The Euler Characteristic Transform [pdf]",
+      "fetched_at": "2026-04-20T07:49:38.907800+00:00"
+    },
+    "a08a8dc880ffe5e7": {
+      "title": "宁德时代“超级科技日”计划发布钠电、快充等相关技术产品",
+      "fetched_at": "2026-04-20T07:49:39.504646+00:00"
+    },
+    "5c1c060163a07a59": {
+      "title": "特朗普時代備受關注的內幕交易質疑 以及幾個關鍵時刻",
+      "fetched_at": "2026-04-20T07:49:42.485615+00:00"
+    },
+    "6a418c1abfa92f23": {
+      "title": "如何摆脱焦虑、睡个好觉",
+      "fetched_at": "2026-04-20T07:49:43.088873+00:00"
+    },
+    "d969897ec47f3212": {
+      "title": "伊朗資深議員：德黑蘭永不放棄對霍爾木茲海峽的控制權",
+      "fetched_at": "2026-04-20T07:49:43.712531+00:00"
+    },
+    "22b578c41b106410": {
+      "title": "全球Z世代抗议浪潮：他们改变了世界吗？",
+      "fetched_at": "2026-04-20T07:49:44.371726+00:00"
+    },
+    "1a9dff1e795b1437": {
+      "title": "为何伊朗“蚊子舰队”仍可威胁霍尔木兹海峡航运",
+      "fetched_at": "2026-04-20T07:49:44.945544+00:00"
+    },
+    "4837d078521d6b06": {
+      "title": "谨慎温和的良十四世为何与特朗普“硬刚”",
+      "fetched_at": "2026-04-20T07:49:45.635023+00:00"
+    },
+    "8e8c6d3e92ebcf24": {
+      "title": "伊朗战争给中国“武统”台湾的警示",
+      "fetched_at": "2026-04-20T07:49:46.267274+00:00"
+    },
+    "f3fbc38c12e1e678": {
+      "title": "中国人形机器人打破人类半程马拉松世界纪录",
+      "fetched_at": "2026-04-20T07:49:46.869228+00:00"
+    },
+    "8a5e94da4be5d138": {
+      "title": "After 200 years scientists finally crack the “dolomite problem”",
+      "fetched_at": "2026-04-20T07:49:56.182765+00:00"
+    },
+    "e061a1cd55096313": {
+      "title": "Ancient-DNA Study Reveals Natural Selection Has Accelerated in Evolution",
+      "fetched_at": "2026-04-20T07:49:56.956330+00:00"
+    },
+    "02a1e1928e364a77": {
+      "title": "I time travelled to Ancient Rome [video]",
+      "fetched_at": "2026-04-20T07:49:57.550134+00:00"
+    },
+    "c68fe8fcde5a91b0": {
+      "title": "Embedded Rust discovery guide for the official Rust ESP32-C3 board",
+      "fetched_at": "2026-04-20T07:49:58.147226+00:00"
     }
   },
-  "last_updated": "2026-04-20T01:27:52.898491+00:00"
+  "last_updated": "2026-04-20T07:49:58.283907+00:00"
 }
