@@ -1,33 +1,5 @@
 {
   "articles": {
-    "2bf6a028667faea9": {
-      "title": "AI creates jobs. Simplicity destroys jobs",
-      "fetched_at": "2026-04-14T12:59:09.807603+00:00"
-    },
-    "2c8325754a1a5fb2": {
-      "title": "英搏尔：一季度净利润5674.38万元，同比增长430.8%",
-      "fetched_at": "2026-04-14T12:59:10.411458+00:00"
-    },
-    "36d374db1421a712": {
-      "title": "Forensic analysis of 37GB data loss caused by Cursor AI Agent",
-      "fetched_at": "2026-04-14T12:59:11.071589+00:00"
-    },
-    "46fdccb6ace77ce4": {
-      "title": "“蓝点触控”完成超亿元C+轮融资",
-      "fetched_at": "2026-04-14T12:59:11.672818+00:00"
-    },
-    "5c2aec1127d7c611": {
-      "title": "热门中概股美股盘前涨跌互现，百度涨超1%",
-      "fetched_at": "2026-04-14T12:59:12.265983+00:00"
-    },
-    "831e84279ce3e27c": {
-      "title": "美股大型科技股盘前普涨，甲骨文涨超5%",
-      "fetched_at": "2026-04-14T12:59:12.870523+00:00"
-    },
-    "e3545440ad749db7": {
-      "title": "Linux 7.0 debuts as Linus Torvalds ponders AI's bug-finding powers",
-      "fetched_at": "2026-04-14T12:59:13.463695+00:00"
-    },
     "e744708ab512ef69": {
       "title": "芭田股份：一季度净利润同比预增46.47%—75.77%",
       "fetched_at": "2026-04-14T12:59:14.065251+00:00"
@@ -3679,7 +3651,135 @@
     "529b2b0fc620e859": {
       "title": "Light makes plants stronger but also holds them back",
       "fetched_at": "2026-04-22T07:19:33.003426+00:00"
+    },
+    "0d83ec375120f17d": {
+      "title": "10天6板沃格光电：第一季度净亏损5110.30万元",
+      "fetched_at": "2026-04-22T12:58:53.105254+00:00"
+    },
+    "1ed5f93a70b7fac3": {
+      "title": "Google claims to have all the answers for enterprise AI agent sprawl",
+      "fetched_at": "2026-04-22T12:58:53.671866+00:00"
+    },
+    "c96af6e4582ca315": {
+      "title": "热门中概股美股盘前涨跌不一，小鹏集团跌超1%",
+      "fetched_at": "2026-04-22T12:58:54.315663+00:00"
+    },
+    "dfac28ed4130d912": {
+      "title": "美股大型科技股盘前普涨，谷歌涨超1%",
+      "fetched_at": "2026-04-22T12:58:54.945397+00:00"
+    },
+    "4e6e0c05122d30e3": {
+      "title": "谷歌云AI使用量达到每分钟160亿Tokens",
+      "fetched_at": "2026-04-22T12:58:55.509819+00:00"
+    },
+    "8bed6d66bd8571de": {
+      "title": "*ST创兴：预计触及财务类终止上市情形",
+      "fetched_at": "2026-04-22T12:58:56.102455+00:00"
+    },
+    "22e0723934d1f156": {
+      "title": "Show HN: Sift – save AI tokens in Codex/Claude by summarizing command output",
+      "fetched_at": "2026-04-22T12:58:56.694286+00:00"
+    },
+    "a910352cc1689e87": {
+      "title": "Alby AI Transport",
+      "fetched_at": "2026-04-22T12:58:57.259351+00:00"
+    },
+    "09057af013ddfd8a": {
+      "title": "Show HN: Galen – a structured layer between humans and AI",
+      "fetched_at": "2026-04-22T12:58:57.842877+00:00"
+    },
+    "52e8372d50e79299": {
+      "title": "迎驾贡酒：2025年归母净利润同比下降23.31%，拟10派15元",
+      "fetched_at": "2026-04-22T12:58:58.407912+00:00"
+    },
+    "c2b47c8ee5b7acb8": {
+      "title": "Show HN: Rapunzel – a tree-style terminal for AI agents",
+      "fetched_at": "2026-04-22T12:58:58.982096+00:00"
+    },
+    "8de6cf718bbfba50": {
+      "title": "Show HN: Cai – Local AI Action Layer for macOS (Free, MIT, MLX)",
+      "fetched_at": "2026-04-22T12:58:59.549452+00:00"
+    },
+    "61ed37a5694345f9": {
+      "title": "圆通速递：一季度归母净利润13.78亿元，同比增长60.76%",
+      "fetched_at": "2026-04-22T12:59:00.123596+00:00"
+    },
+    "d62e0afe445c89a6": {
+      "title": "What makes gpt-image-2 so good? Is the architecture of the training sets?",
+      "fetched_at": "2026-04-22T12:59:00.728301+00:00"
+    },
+    "96596e2220966aa3": {
+      "title": "Google unveils chips for AI training and inference in latest shot at Nvidia",
+      "fetched_at": "2026-04-22T12:59:01.301500+00:00"
+    },
+    "0dacf3e0241c8303": {
+      "title": "谷歌云发布用于人工智能的新型TPU芯片",
+      "fetched_at": "2026-04-22T12:59:01.866356+00:00"
+    },
+    "936f237eb5117a45": {
+      "title": "谷歌云推出7.5亿美元基金，助力合作伙伴加速智能体人工智能开发",
+      "fetched_at": "2026-04-22T12:59:02.463333+00:00"
+    },
+    "8a9d89577f3a6a05": {
+      "title": "七一二：控股子公司拟向北交所公开发行股票并上市",
+      "fetched_at": "2026-04-22T12:59:03.058134+00:00"
+    },
+    "db7b18a9c0dd7cf8": {
+      "title": "AI needs a strong data fabric to deliver business value",
+      "fetched_at": "2026-04-22T12:59:03.710349+00:00"
+    },
+    "ac388c08b36d3072": {
+      "title": "甲骨文扩大与谷歌云的合作关系",
+      "fetched_at": "2026-04-22T12:59:04.274927+00:00"
+    },
+    "6f46f52df9b63e42": {
+      "title": "「去看回我以前的家」 香港宏福苑首批回家執拾居民的追悼與道別",
+      "fetched_at": "2026-04-22T12:59:05.850972+00:00"
+    },
+    "ab84e806d3586b3d": {
+      "title": "新冠病毒新變種「蟬」有多令人擔憂？兒童是否更容易感染？",
+      "fetched_at": "2026-04-22T12:59:06.422263+00:00"
+    },
+    "e88e4e48043efc1d": {
+      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
+      "fetched_at": "2026-04-22T12:59:07.006561+00:00"
+    },
+    "5539dc3aee4cf14a": {
+      "title": "Diagnostic dilemma: A teen's classic diabetes symptoms didn't improve with treatment — revealing she also had a much rarer syndrome",
+      "fetched_at": "2026-04-22T12:59:09.204775+00:00"
+    },
+    "846ec696a608e3f3": {
+      "title": "Scientists stunned as JWST finds ice clouds on a giant alien planet",
+      "fetched_at": "2026-04-22T12:59:09.780287+00:00"
+    },
+    "cd96bac232605aa0": {
+      "title": "DNA reveals a hidden pitviper species in China",
+      "fetched_at": "2026-04-22T12:59:10.342571+00:00"
+    },
+    "494761c241b5e738": {
+      "title": "This “quantum” material fooled scientists and revealed something new",
+      "fetched_at": "2026-04-22T12:59:10.918818+00:00"
+    },
+    "3f7ab0e8ed3d602f": {
+      "title": "This donut-shaped discovery just shattered a 150-year math rule",
+      "fetched_at": "2026-04-22T12:59:11.492717+00:00"
+    },
+    "44070ac3270038c0": {
+      "title": "Ancient DNA reveals a hidden Neanderthal group frozen in time",
+      "fetched_at": "2026-04-22T12:59:12.059895+00:00"
+    },
+    "d4f7010fab18f8db": {
+      "title": "“Baffling” new snake species in Myanmar looks like multiple species at once",
+      "fetched_at": "2026-04-22T12:59:12.679007+00:00"
+    },
+    "e9bec34b031811db": {
+      "title": "Mini lake meets snowy rim of Canada's oldest ice mass — Earth from space",
+      "fetched_at": "2026-04-22T12:59:13.249243+00:00"
+    },
+    "e73783e41ac71ca1": {
+      "title": "Stone Age tombs in Scotland reveal 'webs of descent' among male relatives",
+      "fetched_at": "2026-04-22T12:59:13.833246+00:00"
     }
   },
-  "last_updated": "2026-04-22T07:19:33.120313+00:00"
+  "last_updated": "2026-04-22T12:59:13.985207+00:00"
 }
