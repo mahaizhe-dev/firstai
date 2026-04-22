@@ -1,257 +1,5 @@
 {
   "articles": {
-    "230b79446cf6b298": {
-      "title": "央行今日开展10亿元7天逆回购操作",
-      "fetched_at": "2026-04-14T01:24:46.994100+00:00"
-    },
-    "255a7cf33f6845c8": {
-      "title": "恒指开盘涨1.05%，恒生科技指数涨1.37%",
-      "fetched_at": "2026-04-14T01:24:47.564325+00:00"
-    },
-    "c9dc83c6aa749da6": {
-      "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
-      "fetched_at": "2026-04-14T01:24:48.136253+00:00"
-    },
-    "ab309109cfb4f1f9": {
-      "title": "越疆完成A股IPO辅导验收",
-      "fetched_at": "2026-04-14T01:24:48.719262+00:00"
-    },
-    "40289429bc6d5c48": {
-      "title": "人民币兑美元中间价报6.8593",
-      "fetched_at": "2026-04-14T01:24:49.284717+00:00"
-    },
-    "6b3f7721aed46627": {
-      "title": "AI Can Now Control Your Mac OS",
-      "fetched_at": "2026-04-14T01:24:49.843534+00:00"
-    },
-    "fc636fc4a1ddfca2": {
-      "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
-      "fetched_at": "2026-04-14T01:24:50.405880+00:00"
-    },
-    "0047ddb71ab58d7a": {
-      "title": "现货白银向上触及76美元/盎司",
-      "fetched_at": "2026-04-14T01:24:50.988926+00:00"
-    },
-    "e4b323ed4aed0e0b": {
-      "title": "联邦快递CFO将于货运业务分拆后卸任",
-      "fetched_at": "2026-04-14T01:24:51.559889+00:00"
-    },
-    "da30aa1383fb7089": {
-      "title": "“庞伯特”完成近2亿元A轮系列融资",
-      "fetched_at": "2026-04-14T01:24:52.187229+00:00"
-    },
-    "b45f1dd41fc02a63": {
-      "title": "AI Code Reviews for GitLab – custom agents – powered by Ollama",
-      "fetched_at": "2026-04-14T01:24:52.754801+00:00"
-    },
-    "0cd7ce0e3602de0a": {
-      "title": "雪佛龙通过资产置换巩固委内瑞拉重油业务主导地位",
-      "fetched_at": "2026-04-14T01:24:53.326043+00:00"
-    },
-    "7eff0117c73d6b7b": {
-      "title": "两市融资余额增加160.13亿元",
-      "fetched_at": "2026-04-14T01:24:53.944556+00:00"
-    },
-    "671356f3d096d065": {
-      "title": "Beyond Constraint: The Case for Ethical Entrainment in AI",
-      "fetched_at": "2026-04-14T01:24:54.508338+00:00"
-    },
-    "52785ec884600f37": {
-      "title": "LVMH集团第一季度收入下滑6%",
-      "fetched_at": "2026-04-14T01:24:55.077895+00:00"
-    },
-    "37cc1abb55bdafe5": {
-      "title": "德国汉莎航空飞行员因劳资纠纷罢工两天",
-      "fetched_at": "2026-04-14T01:24:55.649954+00:00"
-    },
-    "da871c95754d75bd": {
-      "title": "对标OpenClaw，微软拟为Copilot开发新功能",
-      "fetched_at": "2026-04-14T01:24:56.210555+00:00"
-    },
-    "c8537064ded26823": {
-      "title": "一季度业绩陆续出炉，多家行业龙头公司亮相",
-      "fetched_at": "2026-04-14T01:24:56.791352+00:00"
-    },
-    "1f30609503d587c8": {
-      "title": "亚马逊卫星联网项目Leo发布航空天线",
-      "fetched_at": "2026-04-14T01:24:57.357769+00:00"
-    },
-    "539db1bbdf1c60e8": {
-      "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
-      "fetched_at": "2026-04-14T01:24:57.930887+00:00"
-    },
-    "e301f2bce9c299fd": {
-      "title": "美伊谈判：伊朗提议暂停核活动最长五年",
-      "fetched_at": "2026-04-14T01:25:00.053760+00:00"
-    },
-    "29742ac58c6e8ccd": {
-      "title": "這個風景如畫的美國小鎮住滿了警察家庭，中間還潛伏著一名連環殺手",
-      "fetched_at": "2026-04-14T01:25:00.619019+00:00"
-    },
-    "e73783e41ac71ca1": {
-      "title": "Stone Age tombs in Scotland reveal 'webs of descent' among male relatives",
-      "fetched_at": "2026-04-14T01:25:02.618322+00:00"
-    },
-    "5cc05006f64248f1": {
-      "title": "'Oslo patient' likely cured of HIV after getting stem cell transplant from his brother, who is genetically resistant to the virus",
-      "fetched_at": "2026-04-14T01:25:03.185525+00:00"
-    },
-    "700cc22a8d243875": {
-      "title": "A.I. and the Crisis of Capitalism: A Historical Approach – John Cassidy [video]",
-      "fetched_at": "2026-04-14T01:25:03.752013+00:00"
-    },
-    "9ab83a55a87af00c": {
-      "title": "Antiseptic-tolerant germs spread through the air in hospitals, early study hints",
-      "fetched_at": "2026-04-14T01:25:04.344911+00:00"
-    },
-    "28714f51989e02c6": {
-      "title": "Lost Ancient Automatic Weapon Fired at Pompeii?",
-      "fetched_at": "2026-04-14T01:25:04.935593+00:00"
-    },
-    "1b6b9fc9fee0f097": {
-      "title": "Tracking Neanderthal Turtle Hunters",
-      "fetched_at": "2026-04-14T01:25:05.570653+00:00"
-    },
-    "643d4dda9dc4ecfc": {
-      "title": "Scientists found a protein that drives brain aging — and how to stop it",
-      "fetched_at": "2026-04-14T01:25:06.137266+00:00"
-    },
-    "73b6d3fa0c1514a3": {
-      "title": "Buried Roman sanctuary discovered beneath Frankfurt hints at shocking rituals",
-      "fetched_at": "2026-04-14T01:25:06.719835+00:00"
-    },
-    "e8aa9c5a8a5cd596": {
-      "title": "中国汽车流通协会：3月汽车经销商库存系数为1.76，环比下降9.7%",
-      "fetched_at": "2026-04-14T07:17:17.212524+00:00"
-    },
-    "6ab302d00a7c05e5": {
-      "title": "横店东磁：正在积极关注BBU领域并与相关客户接洽中",
-      "fetched_at": "2026-04-14T07:17:17.835894+00:00"
-    },
-    "405d6350c06caf4a": {
-      "title": "Show HN: Nous – A compiled language for self-healing AI agents",
-      "fetched_at": "2026-04-14T07:17:18.516208+00:00"
-    },
-    "9ef9af66a6d36f18": {
-      "title": "Nvidia AIStore – scalable storage for AI applications",
-      "fetched_at": "2026-04-14T07:17:19.191518+00:00"
-    },
-    "19fdd7e65ec63434": {
-      "title": "A股三大指数集体收涨，沪指重返4000点上方",
-      "fetched_at": "2026-04-14T07:17:19.900853+00:00"
-    },
-    "7caaa1acae3e04d6": {
-      "title": "湖南能源集团等在长沙新设先进制造产业基金，出资额50亿元",
-      "fetched_at": "2026-04-14T07:17:20.531586+00:00"
-    },
-    "0fcfe637bbb7a575": {
-      "title": "全球首个自动驾驶移动空间路线4月20日试运营",
-      "fetched_at": "2026-04-14T07:17:21.154388+00:00"
-    },
-    "2d28678bd7490594": {
-      "title": "BP发布首季交易更新：石油交易表现卓越，净债务预计上升",
-      "fetched_at": "2026-04-14T07:17:21.776860+00:00"
-    },
-    "5431fa7f88b6974a": {
-      "title": "韩3月ICT出口额超435亿美元创新高",
-      "fetched_at": "2026-04-14T07:17:22.384960+00:00"
-    },
-    "53a5ca6193b017a0": {
-      "title": "美团发布AI产品“小团健康管家”",
-      "fetched_at": "2026-04-14T07:17:23.000989+00:00"
-    },
-    "061d517b923b307f": {
-      "title": "Seedance 2.0全面开放API服务",
-      "fetched_at": "2026-04-14T07:17:23.635558+00:00"
-    },
-    "fd24c115c510b373": {
-      "title": "Show HN: Burrow – Runtime Security for AI Agents",
-      "fetched_at": "2026-04-14T07:17:24.254261+00:00"
-    },
-    "171333433cd7aa4f": {
-      "title": "Ascend – open-source Job board and Claude AI prep plans for FAANG/YC interviews",
-      "fetched_at": "2026-04-14T07:17:24.877917+00:00"
-    },
-    "6df108842ff95103": {
-      "title": "国开行一季度发放绿色贷款超1500亿元",
-      "fetched_at": "2026-04-14T07:17:25.504624+00:00"
-    },
-    "d5fc48a2f91cee95": {
-      "title": "Zuckerbot is coming: Meta is building an AI version of Mark Zuckerberg",
-      "fetched_at": "2026-04-14T07:17:26.123937+00:00"
-    },
-    "83cef37499c38ed0": {
-      "title": "沪深京三市成交额突破2万亿",
-      "fetched_at": "2026-04-14T07:17:26.751072+00:00"
-    },
-    "a8232bdba38ef367": {
-      "title": "诺和诺德宣布与OpenAI建立战略合作伙伴关系",
-      "fetched_at": "2026-04-14T07:17:27.545402+00:00"
-    },
-    "2e67d52f1dae26c7": {
-      "title": "Show HN: SCP – A protocol that drops LLM API calls to zero in 60fps physics loop",
-      "fetched_at": "2026-04-14T07:17:28.337458+00:00"
-    },
-    "14ad84ca95fc72b2": {
-      "title": "机构：近期住房租金阶段性回升",
-      "fetched_at": "2026-04-14T07:17:28.953751+00:00"
-    },
-    "73f12c8f60a2a93b": {
-      "title": "Generative AI in Banking: Top Use Cases and Benefits",
-      "fetched_at": "2026-04-14T07:17:29.632517+00:00"
-    },
-    "bedd94cf00c108fc": {
-      "title": "恆大集資詐騙案深圳開審 許家印「認罪悔罪」",
-      "fetched_at": "2026-04-14T07:17:32.738084+00:00"
-    },
-    "fe87e6eea7352d8a": {
-      "title": "菲律賓指控中國漁民在南海傾倒氰化物",
-      "fetched_at": "2026-04-14T07:17:33.340954+00:00"
-    },
-    "29b3f5acc8947600": {
-      "title": "到底有多少船隻正在冒險穿越霍爾木茲海峽？",
-      "fetched_at": "2026-04-14T07:17:33.994109+00:00"
-    },
-    "988982fcbe903cb9": {
-      "title": "量子運算：歐洲有望獲勝的一場科技競賽？",
-      "fetched_at": "2026-04-14T07:17:34.723411+00:00"
-    },
-    "2b709dbff5c1f760": {
-      "title": "民粹主义“巫师”奥尔班是如何失去魔力的",
-      "fetched_at": "2026-04-14T07:17:35.339623+00:00"
-    },
-    "ab84e806d3586b3d": {
-      "title": "新冠病毒新變種「蟬」有多令人擔憂？兒童是否更容易感染？",
-      "fetched_at": "2026-04-14T07:17:35.962120+00:00"
-    },
-    "a83703f60da384c2": {
-      "title": "封锁伊朗船只：特朗普与德黑兰谁更能承受经济痛苦？",
-      "fetched_at": "2026-04-14T07:17:36.598291+00:00"
-    },
-    "914a9346b6a08aee": {
-      "title": "马来西亚推出电动汽车新规，中国车企受影响",
-      "fetched_at": "2026-04-14T07:17:37.403833+00:00"
-    },
-    "80b9fc23f3455142": {
-      "title": "中东战争催化电网转型：能源危机中世界愈发依赖中国",
-      "fetched_at": "2026-04-14T07:17:38.034894+00:00"
-    },
-    "f133079ddceb83ef": {
-      "title": "重回世界大战时代",
-      "fetched_at": "2026-04-14T07:17:38.662236+00:00"
-    },
-    "29f272a7ade7676a": {
-      "title": "言行反复无常、激烈极端：特朗普“疯”了吗？",
-      "fetched_at": "2026-04-14T07:17:39.346449+00:00"
-    },
-    "e88e4e48043efc1d": {
-      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
-      "fetched_at": "2026-04-14T07:17:39.963950+00:00"
-    },
-    "e9bec34b031811db": {
-      "title": "Mini lake meets snowy rim of Canada's oldest ice mass — Earth from space",
-      "fetched_at": "2026-04-14T07:17:42.630934+00:00"
-    },
     "2bf6a028667faea9": {
       "title": "AI creates jobs. Simplicity destroys jobs",
       "fetched_at": "2026-04-14T12:59:09.807603+00:00"
@@ -3799,7 +3547,139 @@
     "90cf1859e8e33026": {
       "title": "Neanderthals may have hunted and eaten outsiders, chilling cannibalism study finds",
       "fetched_at": "2026-04-22T01:23:18.331808+00:00"
+    },
+    "0b459fa59bc8734d": {
+      "title": "Meta employees are upset over AI training based on their work computer usage",
+      "fetched_at": "2026-04-22T07:19:08.895955+00:00"
+    },
+    "537738041371133b": {
+      "title": "“中科天塔”完成近亿元A+轮融资",
+      "fetched_at": "2026-04-22T07:19:09.577654+00:00"
+    },
+    "f7866f2dbaf6a796": {
+      "title": "Meta拟追踪美员工点击及击键数据训练AI，官方称数据不用于绩效评估",
+      "fetched_at": "2026-04-22T07:19:10.157719+00:00"
+    },
+    "ee37a731c067f944": {
+      "title": "Roundtables: Unveiling the Things That Matter in AI",
+      "fetched_at": "2026-04-22T07:19:10.742254+00:00"
+    },
+    "639064327c4baf7a": {
+      "title": "36氪研究院 | 2026年中国银发经济产业研究报告",
+      "fetched_at": "2026-04-22T07:19:11.333427+00:00"
+    },
+    "90418673d2e0a4bf": {
+      "title": "A股三大指数集体收涨，CPO概念领涨",
+      "fetched_at": "2026-04-22T07:19:11.909421+00:00"
+    },
+    "b4cfd3c674863236": {
+      "title": "沪深两市成交额突破2.5万亿元",
+      "fetched_at": "2026-04-22T07:19:12.491698+00:00"
+    },
+    "d78a82e6e7225ca2": {
+      "title": "Geo Content Writer: a backlog-first system for AI visibility content",
+      "fetched_at": "2026-04-22T07:19:13.076941+00:00"
+    },
+    "0e1ac501d9120e2d": {
+      "title": "机构：千问AI眼镜线上市场份额达53%，持续位居市场第一",
+      "fetched_at": "2026-04-22T07:19:13.662397+00:00"
+    },
+    "7e905dfe53adeb39": {
+      "title": "农业农村部：今日全国农产品批发市场猪肉平均价格为14.68元/公斤，比昨天下降0.7%",
+      "fetched_at": "2026-04-22T07:19:14.245262+00:00"
+    },
+    "89bf68edcd30f287": {
+      "title": "Show HN: GPT-Image-2 Prompts",
+      "fetched_at": "2026-04-22T07:19:14.821658+00:00"
+    },
+    "c06d0497c568df47": {
+      "title": "宝洁公司已成功注册WHITELOCK商标",
+      "fetched_at": "2026-04-22T07:19:15.449466+00:00"
+    },
+    "ef0d82098104c1a3": {
+      "title": "Zappa: An AI powered mitmproxy",
+      "fetched_at": "2026-04-22T07:19:16.025850+00:00"
+    },
+    "285210323f5abf86": {
+      "title": "英国3月CPI同比上涨3.3%",
+      "fetched_at": "2026-04-22T07:19:16.617917+00:00"
+    },
+    "26a0eba0557013b2": {
+      "title": "韩国预计到2040年用电量将增长近30%",
+      "fetched_at": "2026-04-22T07:19:17.200631+00:00"
+    },
+    "f26e51157e747c03": {
+      "title": "Agents with Taste – How to transfer taste into an AI",
+      "fetched_at": "2026-04-22T07:19:18.078883+00:00"
+    },
+    "a78cdfa7b6b0e53e": {
+      "title": "沪深两市成交额突破2万亿",
+      "fetched_at": "2026-04-22T07:19:18.667471+00:00"
+    },
+    "0180cf6fcd692d64": {
+      "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
+      "fetched_at": "2026-04-22T07:19:19.245703+00:00"
+    },
+    "a495c740fc82fb77": {
+      "title": "“清听声学”完成B+轮数亿元融资",
+      "fetched_at": "2026-04-22T07:19:19.841400+00:00"
+    },
+    "427f7d3e5823f0f7": {
+      "title": "Fast Image AI White Background",
+      "fetched_at": "2026-04-22T07:19:20.420420+00:00"
+    },
+    "d87a6c70ee13babd": {
+      "title": "戰爭陰影下的就業、通脹和消費 伊朗各行業大規模裁員",
+      "fetched_at": "2026-04-22T07:19:24.346560+00:00"
+    },
+    "d690797bfb02ec86": {
+      "title": "日本放寬武器出口規定，打破二戰後和平主義路線",
+      "fetched_at": "2026-04-22T07:19:24.933055+00:00"
+    },
+    "fb18403a3386b9bc": {
+      "title": "伊朗戰事迫使航班改道，機票價格飆升近25%",
+      "fetched_at": "2026-04-22T07:19:25.515675+00:00"
+    },
+    "23b7d1196fd0658f": {
+      "title": "卷心菜有多健康？",
+      "fetched_at": "2026-04-22T07:19:26.096284+00:00"
+    },
+    "9af098b73692ca32": {
+      "title": "伊朗与特朗普“谈不拢”的关键症结：信任",
+      "fetched_at": "2026-04-22T07:19:26.686270+00:00"
+    },
+    "dee9a5bc3528c5f3": {
+      "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
+      "fetched_at": "2026-04-22T07:19:27.278427+00:00"
+    },
+    "5c0879c1278632dd": {
+      "title": "無煙世代：英國有望對2008年後出生者實施終身禁煙",
+      "fetched_at": "2026-04-22T07:19:27.858464+00:00"
+    },
+    "06962e300cfc9cdb": {
+      "title": "特朗普延长与伊朗的停火协议",
+      "fetched_at": "2026-04-22T07:19:28.502984+00:00"
+    },
+    "502ebcb9aa9f408b": {
+      "title": "全球动荡穷国遭殃，但富国也无法幸免",
+      "fetched_at": "2026-04-22T07:19:29.322362+00:00"
+    },
+    "17a14ed582d1edec": {
+      "title": "哈佛与爱泼斯坦：学术、金钱和权势的“互惠互利”",
+      "fetched_at": "2026-04-22T07:19:29.907258+00:00"
+    },
+    "943d8284fcdb59f0": {
+      "title": "New toothpaste stops gum disease without killing good bacteria",
+      "fetched_at": "2026-04-22T07:19:31.826043+00:00"
+    },
+    "dfbd7b516b4be5a2": {
+      "title": "Gray whales are entering San Francisco Bay and many aren’t surviving",
+      "fetched_at": "2026-04-22T07:19:32.410692+00:00"
+    },
+    "529b2b0fc620e859": {
+      "title": "Light makes plants stronger but also holds them back",
+      "fetched_at": "2026-04-22T07:19:33.003426+00:00"
     }
   },
-  "last_updated": "2026-04-22T01:23:18.474115+00:00"
+  "last_updated": "2026-04-22T07:19:33.120313+00:00"
 }
