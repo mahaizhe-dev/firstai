@@ -1,137 +1,5 @@
 {
   "articles": {
-    "e70bebf0f67d06e8": {
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-      "fetched_at": "2026-04-13T18:59:35.093283+00:00"
-    },
-    "097b351516f95e80": {
-      "title": "AI ran into the cold hard reality of the legal profession",
-      "fetched_at": "2026-04-13T18:59:35.728897+00:00"
-    },
-    "49087c47fc44811a": {
-      "title": "AI Frontier Model Tracker with API",
-      "fetched_at": "2026-04-13T18:59:36.358730+00:00"
-    },
-    "6acd70f2ee57423c": {
-      "title": "Building a Robust Documentation Agent with DigitalOcean Gradient AI Platform",
-      "fetched_at": "2026-04-13T18:59:37.013631+00:00"
-    },
-    "83f7659c2c408348": {
-      "title": "We're Using So Much AI That Computing Firepower Is Running Out",
-      "fetched_at": "2026-04-13T18:59:37.633691+00:00"
-    },
-    "7169246fb33f15fd": {
-      "title": "Z.ai doubles it's coding plan prices",
-      "fetched_at": "2026-04-13T18:59:38.353658+00:00"
-    },
-    "de3aeb828a456eba": {
-      "title": "Should Men Be Ashamed of Their AI Girlfriends?",
-      "fetched_at": "2026-04-13T18:59:38.976080+00:00"
-    },
-    "892a12f001cfc3b6": {
-      "title": "The Wayback Machine and the Quest for Deleted Fics",
-      "fetched_at": "2026-04-13T18:59:39.618897+00:00"
-    },
-    "7ee96ae7209318d6": {
-      "title": "AI Agents for Economics Research",
-      "fetched_at": "2026-04-13T18:59:40.233282+00:00"
-    },
-    "28f77e2d2eff1a96": {
-      "title": "AI, Gods, and Selves: Effective Illusions [video]",
-      "fetched_at": "2026-04-13T18:59:40.866252+00:00"
-    },
-    "ebe96a70d85c2248": {
-      "title": "Training AI models doesn't emit that much",
-      "fetched_at": "2026-04-13T18:59:41.493549+00:00"
-    },
-    "12c44d4b0b83ae97": {
-      "title": "Evaluating Netflix Show Synopses with LLM-as-a-Judge",
-      "fetched_at": "2026-04-13T18:59:42.113609+00:00"
-    },
-    "3ff4a866d756cf99": {
-      "title": "AI Stupid Level: Independent monitoring fluctuations in AI model performance",
-      "fetched_at": "2026-04-13T18:59:42.771225+00:00"
-    },
-    "9cab79e02bc4518e": {
-      "title": "Ask HN: What do you think are the best legal ways to slow/stop AI development?",
-      "fetched_at": "2026-04-13T18:59:43.394303+00:00"
-    },
-    "e945eb4bb3edacd3": {
-      "title": "Google engineering appears to have the same AI adoption footprint as John Deere",
-      "fetched_at": "2026-04-13T18:59:44.007623+00:00"
-    },
-    "130d27239940bae2": {
-      "title": "Claude Steals Spotlight at HumanX AI Conference",
-      "fetched_at": "2026-04-13T18:59:44.650466+00:00"
-    },
-    "452cbb4528f17458": {
-      "title": "AI chatbots misdiagnose in over 80% of early medical cases, study finds",
-      "fetched_at": "2026-04-13T18:59:45.290201+00:00"
-    },
-    "d87d8150df984b4a": {
-      "title": "Exposed: The Dirty Little Secret of AI (On a 1979 PDP-11) [video]",
-      "fetched_at": "2026-04-13T18:59:46.053414+00:00"
-    },
-    "271d45c3da648c63": {
-      "title": "The Three Realities of AI",
-      "fetched_at": "2026-04-13T18:59:46.745907+00:00"
-    },
-    "de8bca773e9a9e8e": {
-      "title": "Meta creating AI version of Mark Zuckerberg so staff can talk to the boss",
-      "fetched_at": "2026-04-13T18:59:47.376404+00:00"
-    },
-    "ce2a1ab9ca02d0aa": {
-      "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
-      "fetched_at": "2026-04-13T18:59:50.673064+00:00"
-    },
-    "119268edd1f92fe0": {
-      "title": "Homo erectus' tools include stunning geodes and fossils, possibly as a way to connect with the cosmos, study finds",
-      "fetched_at": "2026-04-13T18:59:53.775311+00:00"
-    },
-    "c9afc44bd31aa53f": {
-      "title": "From Fossil to Fact: The Denisova Discovery as Science in Action [pdf]",
-      "fetched_at": "2026-04-13T18:59:54.396894+00:00"
-    },
-    "d4350eba98503830": {
-      "title": "'Really, really weird': Physicists entangle two moving atoms for the first time, validating 'spooky' quantum theory",
-      "fetched_at": "2026-04-13T18:59:55.022105+00:00"
-    },
-    "f7c0807169bafdf7": {
-      "title": "'I have not processed what we just did': Artemis II astronauts share all in first news conference since splashdown",
-      "fetched_at": "2026-04-13T18:59:55.715170+00:00"
-    },
-    "361560b084f9df2e": {
-      "title": "Sacred Water Complex Unearthed in North Sinai",
-      "fetched_at": "2026-04-13T18:59:56.451903+00:00"
-    },
-    "f466cf92371a01c5": {
-      "title": "Open Letter Opposing the Paramount-Warner Bros. Discovery Merger",
-      "fetched_at": "2026-04-13T18:59:57.083614+00:00"
-    },
-    "aee372c1a5154db7": {
-      "title": "Sperm quality is at its peak in the summer, study finds",
-      "fetched_at": "2026-04-13T18:59:57.713141+00:00"
-    },
-    "cba24063d9e1432e": {
-      "title": "'Our historical condition is a peculiar mixture of omniscience and impotence'",
-      "fetched_at": "2026-04-13T18:59:58.342839+00:00"
-    },
-    "943d8284fcdb59f0": {
-      "title": "New toothpaste stops gum disease without killing good bacteria",
-      "fetched_at": "2026-04-13T18:59:58.960450+00:00"
-    },
-    "dfbd7b516b4be5a2": {
-      "title": "Gray whales are entering San Francisco Bay and many aren’t surviving",
-      "fetched_at": "2026-04-13T18:59:59.706729+00:00"
-    },
-    "529b2b0fc620e859": {
-      "title": "Light makes plants stronger but also holds them back",
-      "fetched_at": "2026-04-13T19:00:00.332862+00:00"
-    },
-    "f80924e4eaf0a8b6": {
-      "title": "'Welcome home, Integrity': Artemis II crew return to Earth after 'bullseye landing' caps historic moon mission",
-      "fetched_at": "2026-04-13T19:00:01.035300+00:00"
-    },
     "230b79446cf6b298": {
       "title": "央行今日开展10亿元7天逆回购操作",
       "fetched_at": "2026-04-14T01:24:46.994100+00:00"
@@ -3807,7 +3675,131 @@
     "a90066f445d1154a": {
       "title": "Scientists discover skincare compound that kills drug-resistant bacteria",
       "fetched_at": "2026-04-21T18:56:29.400946+00:00"
+    },
+    "66ac8c32a4218617": {
+      "title": "恒指开盘跌0.69%，恒生科技指数跌1.02%",
+      "fetched_at": "2026-04-22T01:22:57.936053+00:00"
+    },
+    "4de76bf16b6e1338": {
+      "title": "I'm Sick of AI Everything",
+      "fetched_at": "2026-04-22T01:22:58.500537+00:00"
+    },
+    "8bc0e9cb96a9883a": {
+      "title": "4月22日人民币对美元中间价调贬41个基点",
+      "fetched_at": "2026-04-22T01:22:59.072563+00:00"
+    },
+    "cb4bf05774095a08": {
+      "title": "Google WeatherNext 2 – Our most accurate AI weather forecasting technology",
+      "fetched_at": "2026-04-22T01:22:59.643672+00:00"
+    },
+    "4991075d491d505a": {
+      "title": "Show HN: PayClaw – Give your AI agent a wallet it can spend",
+      "fetched_at": "2026-04-22T01:23:00.227873+00:00"
+    },
+    "4907171ba5f92269": {
+      "title": "一季度我国邮政行业寄递业务量同比增长4.5%",
+      "fetched_at": "2026-04-22T01:23:00.795228+00:00"
+    },
+    "d86a6b9406c51bce": {
+      "title": "鲍斯股份：冷媒压缩机业务板块产品销售占比较少，暂不涉及液冷类产品",
+      "fetched_at": "2026-04-22T01:23:01.430396+00:00"
+    },
+    "4f4dc561b170f727": {
+      "title": "甘咨询：一季度ESG咨询、绿色建筑认证等领域无相关订单落地",
+      "fetched_at": "2026-04-22T01:23:02.008357+00:00"
+    },
+    "0923bdd34c67403a": {
+      "title": "两市融资余额增加64.03亿元",
+      "fetched_at": "2026-04-22T01:23:02.578640+00:00"
+    },
+    "f278aee96d5bb561": {
+      "title": "韩国现代重工签署价值5148亿韩元的销售和供应合同",
+      "fetched_at": "2026-04-22T01:23:03.149237+00:00"
+    },
+    "33cb68e8af873962": {
+      "title": "美联储主席候选人沃什多次强调独立性，但对利率路径含糊其辞",
+      "fetched_at": "2026-04-22T01:23:03.717419+00:00"
+    },
+    "306406291d839df7": {
+      "title": "SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化",
+      "fetched_at": "2026-04-22T01:23:04.535438+00:00"
+    },
+    "7e328774d3888881": {
+      "title": "证监会主席吴清：加大力度支持北京科技创新和产业创新深度融合，推动科创板、创业板等改革在京落地见效",
+      "fetched_at": "2026-04-22T01:23:05.112896+00:00"
+    },
+    "a389de6dfc834b0b": {
+      "title": "Voxyflow – An AI companion that plans, codes, and ships with you",
+      "fetched_at": "2026-04-22T01:23:05.675047+00:00"
+    },
+    "23b4f540cb47ce08": {
+      "title": "Keurig与雀巢续签协议，延续星巴克咖啡分销合作",
+      "fetched_at": "2026-04-22T01:23:06.250052+00:00"
+    },
+    "caafaa099c84f4ca": {
+      "title": "AI Server Demand to Drive Memory Contract Price Increases in 2Q26",
+      "fetched_at": "2026-04-22T01:23:06.812046+00:00"
+    },
+    "7beb6ee7db2cbf21": {
+      "title": "英维克：目前趋势来看，电子散热业务2026年增速会加快",
+      "fetched_at": "2026-04-22T01:23:07.379109+00:00"
+    },
+    "f5f49844f56dfda8": {
+      "title": "航旅纵横：App各项功能已恢复正常",
+      "fetched_at": "2026-04-22T01:23:07.950104+00:00"
+    },
+    "9ac9aed310dbd0f2": {
+      "title": "押注AAV体内CAR-T，「西湖云谷智药」即将启动IIT研究",
+      "fetched_at": "2026-04-22T01:23:08.526966+00:00"
+    },
+    "66495a894bcbf7ec": {
+      "title": "中信证券：运动鞋服仍将是兼具高景气和清晰格局的优质消费赛道",
+      "fetched_at": "2026-04-22T01:23:09.192579+00:00"
+    },
+    "2b0a7164a8a491f3": {
+      "title": "习近平呼吁霍尔木兹海峡重新开放",
+      "fetched_at": "2026-04-22T01:23:11.468774+00:00"
+    },
+    "81cd4f486ff6e6d8": {
+      "title": "這就是德國納粹獨裁者希特勒的牙齒嗎？",
+      "fetched_at": "2026-04-22T01:23:12.065324+00:00"
+    },
+    "8fdd39b676bb5991": {
+      "title": "库克将卸任苹果首席执行官，硬件工程主管特纳斯接班",
+      "fetched_at": "2026-04-22T01:23:12.735374+00:00"
+    },
+    "717dbd83214d57fc": {
+      "title": "CT Scans Reveal Details Inside Egyptian Mummies",
+      "fetched_at": "2026-04-22T01:23:14.242996+00:00"
+    },
+    "f8ffb1c56c89cb98": {
+      "title": "Scarlet Fever Bacterium Detected in 700-Year-Old Tooth",
+      "fetched_at": "2026-04-22T01:23:14.815049+00:00"
+    },
+    "90b4e2e725e7f978": {
+      "title": "Roman-Era Tomb Excavated in Upper Egypt",
+      "fetched_at": "2026-04-22T01:23:15.400187+00:00"
+    },
+    "9ef20359185c9a00": {
+      "title": "Scientists were wrong about lifespan. Your genes matter way more than we thought",
+      "fetched_at": "2026-04-22T01:23:15.968755+00:00"
+    },
+    "26700994242196a2": {
+      "title": "Black hole wakes after 100 million years and erupts like a cosmic volcano",
+      "fetched_at": "2026-04-22T01:23:16.536788+00:00"
+    },
+    "51c8b81bc56ce295": {
+      "title": "Forget daily pills. This shot works when blood pressure meds fail",
+      "fetched_at": "2026-04-22T01:23:17.201802+00:00"
+    },
+    "8a4bf46de3409da0": {
+      "title": "Stanford scientists discover “natural Ozempic” without side effects",
+      "fetched_at": "2026-04-22T01:23:17.766596+00:00"
+    },
+    "90cf1859e8e33026": {
+      "title": "Neanderthals may have hunted and eaten outsiders, chilling cannibalism study finds",
+      "fetched_at": "2026-04-22T01:23:18.331808+00:00"
     }
   },
-  "last_updated": "2026-04-21T18:56:29.510914+00:00"
+  "last_updated": "2026-04-22T01:23:18.474115+00:00"
 }
