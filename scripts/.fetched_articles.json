@@ -1,205 +1,5 @@
 {
   "articles": {
-    "e744708ab512ef69": {
-      "title": "芭田股份：一季度净利润同比预增46.47%—75.77%",
-      "fetched_at": "2026-04-14T12:59:14.065251+00:00"
-    },
-    "de78413f3541cfb5": {
-      "title": "瑞芯微：2025年净利润10.4亿元，同比增长74.82%",
-      "fetched_at": "2026-04-14T12:59:14.651310+00:00"
-    },
-    "60e464228d8a91c3": {
-      "title": "Show HN: Manex Hub – private AI research memory, on-device",
-      "fetched_at": "2026-04-14T12:59:15.254120+00:00"
-    },
-    "e5036b0a82bd4ec6": {
-      "title": "Show HN: Get Hired with AI, a free book I wrote on using LLMs for a job search",
-      "fetched_at": "2026-04-14T12:59:16.080494+00:00"
-    },
-    "e7e58de099b1130c": {
-      "title": "Durable Objects in Dynamic Workers: Give each AI-generated app its own database",
-      "fetched_at": "2026-04-14T12:59:16.676960+00:00"
-    },
-    "d451d05d409012bc": {
-      "title": "美国3月生产者价格指数环比增长0.5%",
-      "fetched_at": "2026-04-14T12:59:17.280435+00:00"
-    },
-    "74bd81a3cafe795b": {
-      "title": "CorePage: I built an AI start page to replace my tabs (notes, news, tools, chat)",
-      "fetched_at": "2026-04-14T12:59:17.886301+00:00"
-    },
-    "43cb08470c3eae69": {
-      "title": "Show HN: Scryptian – A lightweight, local AI bar for Windows (Python and Ollama)",
-      "fetched_at": "2026-04-14T12:59:18.531805+00:00"
-    },
-    "1570a9d6425f2c1f": {
-      "title": "Show HN: Which AI model is best for real data analysis?",
-      "fetched_at": "2026-04-14T12:59:19.130245+00:00"
-    },
-    "fc87e3cb717239e9": {
-      "title": "城发环境：2025年净利润12.36亿元，同比增长8.29%",
-      "fetched_at": "2026-04-14T12:59:19.733135+00:00"
-    },
-    "44ccc8270b87fbb6": {
-      "title": "Show HN: PolyMind – AI-Powered Real-Time Prediction Market Alerts",
-      "fetched_at": "2026-04-14T12:59:20.324682+00:00"
-    },
-    "86b8668a33baf609": {
-      "title": "Mapping Deception: Replicating an AI Honesty Benchmark",
-      "fetched_at": "2026-04-14T12:59:20.988953+00:00"
-    },
-    "d9c880b74a277437": {
-      "title": "Tradclaw: an open source AI mom for agentic parenting",
-      "fetched_at": "2026-04-14T12:59:21.582585+00:00"
-    },
-    "ea370fe48e396a31": {
-      "title": "國共領袖時隔十年會晤 台灣民眾怎麼看？",
-      "fetched_at": "2026-04-14T12:59:55.971572+00:00"
-    },
-    "785831c543c58d2d": {
-      "title": "美中角力：誰在登月競賽中領先？",
-      "fetched_at": "2026-04-14T12:59:56.564309+00:00"
-    },
-    "2924813b908f5a84": {
-      "title": "教宗不想跟特朗普「爭辯」——美梵首腦就伊朗問題隔空表態",
-      "fetched_at": "2026-04-14T12:59:57.173712+00:00"
-    },
-    "89092c80c648e806": {
-      "title": "Physicists just witnessed pinpricks of darkness moving faster than the speed of light ‪—‬ without breaking the laws of relativity",
-      "fetched_at": "2026-04-14T13:00:00.058844+00:00"
-    },
-    "3903dadcb40a0bb0": {
-      "title": "Track Historical GitHub Repo Metrics in Slack and Git",
-      "fetched_at": "2026-04-14T13:00:00.663793+00:00"
-    },
-    "3000f70fd39c55d4": {
-      "title": "Study of 1,700 languages reveals surprising hidden patterns",
-      "fetched_at": "2026-04-14T13:00:01.279848+00:00"
-    },
-    "699e153ba2605082": {
-      "title": "Write It First Then Let AI Drive",
-      "fetched_at": "2026-04-14T18:57:51.901096+00:00"
-    },
-    "968f59a7059e12be": {
-      "title": "People are pretending to be AI chatbots – for fun",
-      "fetched_at": "2026-04-14T18:57:52.476093+00:00"
-    },
-    "fdb7fed793033cb4": {
-      "title": "C-Suite tried to replace every coder it ever met. Now AI replaces the C-Suite?",
-      "fetched_at": "2026-04-14T18:57:53.047525+00:00"
-    },
-    "7ebfc45263d2fa26": {
-      "title": "Show HN: MESI cache coherence for multi-agent LLM context sync – 95% less tokens",
-      "fetched_at": "2026-04-14T18:57:53.616349+00:00"
-    },
-    "1a2e9a89a8765ac0": {
-      "title": "Explainable AI affects understandability, trust and usability",
-      "fetched_at": "2026-04-14T18:57:54.183260+00:00"
-    },
-    "d0ef4d8d3d2b973c": {
-      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-      "fetched_at": "2026-04-14T18:57:54.741484+00:00"
-    },
-    "54d0e8b609f3df86": {
-      "title": "The attacks on Sam Altman are a warning for the AI world",
-      "fetched_at": "2026-04-14T18:57:55.314976+00:00"
-    },
-    "3a9d3d73991db27d": {
-      "title": "I Don't Use AI to Write Resumes",
-      "fetched_at": "2026-04-14T18:57:55.883579+00:00"
-    },
-    "39695090f99f9921": {
-      "title": "Don't Just Build with AI – Learn Through It",
-      "fetched_at": "2026-04-14T18:57:56.499690+00:00"
-    },
-    "509bddb23039f0fa": {
-      "title": "I Built the Wordle for AI Agents",
-      "fetched_at": "2026-04-14T18:57:57.073469+00:00"
-    },
-    "fdf0dcfff301f4e7": {
-      "title": "Reduce TTFT via streaming to an LLM",
-      "fetched_at": "2026-04-14T18:57:57.643465+00:00"
-    },
-    "13781d5e82b621d1": {
-      "title": "Giving AI Agents Read-Only Database Access",
-      "fetched_at": "2026-04-14T18:57:58.212079+00:00"
-    },
-    "41a3151832ec4978": {
-      "title": "Show HN: A Claude Code–driven tutor for learning algorithms in Go",
-      "fetched_at": "2026-04-14T18:57:58.816304+00:00"
-    },
-    "72ab85138c65eb9e": {
-      "title": "Ask HN: How should AI agents discover and order real-world services?",
-      "fetched_at": "2026-04-14T18:57:59.377403+00:00"
-    },
-    "84892c6664d5d176": {
-      "title": "The impact of AI on software engineers in 2026: key trends",
-      "fetched_at": "2026-04-14T18:57:59.968112+00:00"
-    },
-    "d61254527f565f9d": {
-      "title": "The Beginning of Scarcity in AI",
-      "fetched_at": "2026-04-14T18:58:00.539608+00:00"
-    },
-    "ce19d8b0dca8de3a": {
-      "title": "OpenCognit – an open-source multi-agent platform you run on your own machine",
-      "fetched_at": "2026-04-14T18:58:01.110743+00:00"
-    },
-    "dcbb9ac339f14e53": {
-      "title": "Ravi – Identity infrastructure for autonomous AI agents (email, phone, vault)",
-      "fetched_at": "2026-04-14T18:58:01.700051+00:00"
-    },
-    "da847ade39a14bc3": {
-      "title": "Oracle Gives Corporate Bankers AI Coworkers",
-      "fetched_at": "2026-04-14T18:58:02.494361+00:00"
-    },
-    "46506b6aa16af464": {
-      "title": "AI Browser Agent Leaderboard",
-      "fetched_at": "2026-04-14T18:58:03.066474+00:00"
-    },
-    "a25caf3082e0bf7b": {
-      "title": "There were 'audible screams of delight': Why Artemis II sightings of meteor flashes on the moon have scientists giddy",
-      "fetched_at": "2026-04-14T18:58:06.073850+00:00"
-    },
-    "5016334502968c35": {
-      "title": "System over Model: Zero-Day Discovery at the Jagged Frontier",
-      "fetched_at": "2026-04-14T18:58:06.641485+00:00"
-    },
-    "6a7c501cf5adab9d": {
-      "title": "Amazon Bio Discovery",
-      "fetched_at": "2026-04-14T18:58:07.231791+00:00"
-    },
-    "70e41298468d2169": {
-      "title": "Mammal ancestors laid eggs, and this 250-million-year-old fossil finally proves it",
-      "fetched_at": "2026-04-14T18:58:07.793352+00:00"
-    },
-    "ee35faaccb7a63c1": {
-      "title": "Scientists just recreated a rare cosmic reaction never seen before",
-      "fetched_at": "2026-04-14T18:58:08.362638+00:00"
-    },
-    "dc5bbe542f22fc90": {
-      "title": "Scientists just debunked a 50-year myth about Hawaii’s birds",
-      "fetched_at": "2026-04-14T18:58:08.953194+00:00"
-    },
-    "0897c277c7821331": {
-      "title": "Scientists discover why bread can cause weight gain without extra calories",
-      "fetched_at": "2026-04-14T18:58:09.524914+00:00"
-    },
-    "d51b7b5ac122150d": {
-      "title": "Quantum systems can remember and forget at the same time, scientists discover",
-      "fetched_at": "2026-04-14T18:58:10.109078+00:00"
-    },
-    "5819eb4b5af43b96": {
-      "title": "Scientists finally know where the Colorado River’s missing water is going",
-      "fetched_at": "2026-04-14T18:58:10.679846+00:00"
-    },
-    "2c765994cfe0d615": {
-      "title": "This strange “pearling” motion inside cells could change how we understand disease",
-      "fetched_at": "2026-04-14T18:58:11.246531+00:00"
-    },
-    "8ac70c819f5b68f1": {
-      "title": "The people you live with could be changing your gut bacteria",
-      "fetched_at": "2026-04-14T18:58:11.820942+00:00"
-    },
     "a2fca7eb9a301def": {
       "title": "人民币兑美元中间价调升11个基点",
       "fetched_at": "2026-04-15T01:21:11.616601+00:00"
@@ -3779,7 +3579,115 @@
     "e73783e41ac71ca1": {
       "title": "Stone Age tombs in Scotland reveal 'webs of descent' among male relatives",
       "fetched_at": "2026-04-22T12:59:13.833246+00:00"
+    },
+    "f8ebdcade9881cd4": {
+      "title": "Project Ace Sony AI [video]",
+      "fetched_at": "2026-04-22T18:57:37.725533+00:00"
+    },
+    "ac6f9bacecc8ce35": {
+      "title": "Anthropic investigates unauthorized access to unreleased Mythos cybersecurity AI",
+      "fetched_at": "2026-04-22T18:57:38.299700+00:00"
+    },
+    "a1be34f1f9adfa3f": {
+      "title": "AI and Teaching – The Brave New World",
+      "fetched_at": "2026-04-22T18:57:38.859523+00:00"
+    },
+    "f922e166a1cd002d": {
+      "title": "AI Is Like SEO",
+      "fetched_at": "2026-04-22T18:57:39.427146+00:00"
+    },
+    "bd1edfd3d664805e": {
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "fetched_at": "2026-04-22T18:57:39.994696+00:00"
+    },
+    "dc4503ef45841d90": {
+      "title": "AI Tool Calls Should Fail at Compile Time, Not in Production",
+      "fetched_at": "2026-04-22T18:57:40.562181+00:00"
+    },
+    "cc45395431d82135": {
+      "title": "Andon Cafe – A cafe in Stockholm run by AI",
+      "fetched_at": "2026-04-22T18:57:41.125898+00:00"
+    },
+    "df0761c2f2d386d9": {
+      "title": "Lazarus: How North Korea uses AI to industrialize attacks on developers",
+      "fetched_at": "2026-04-22T18:57:41.691328+00:00"
+    },
+    "9ba015bf47b4ece3": {
+      "title": "Show HN: Trainly – Free 72-hour audit of your AI agent's production traces",
+      "fetched_at": "2026-04-22T18:57:42.260813+00:00"
+    },
+    "870816a655830fe0": {
+      "title": "AI-powered robot beats elite table tennis players",
+      "fetched_at": "2026-04-22T18:57:42.829507+00:00"
+    },
+    "d6092f3cefe722a6": {
+      "title": "The AI-Native Interview",
+      "fetched_at": "2026-04-22T18:57:43.403491+00:00"
+    },
+    "aa56497efce2b5d4": {
+      "title": "GPT-Proxy Backdoor in NPM and PyPI Turns Servers into Chinese LLM Relays",
+      "fetched_at": "2026-04-22T18:57:43.968311+00:00"
+    },
+    "f5ef79369521ea40": {
+      "title": "Show HN: Dead Simple Email – Email API for AI Agents",
+      "fetched_at": "2026-04-22T18:57:44.559513+00:00"
+    },
+    "9d71e21e5148c65e": {
+      "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+      "fetched_at": "2026-04-22T18:57:45.179030+00:00"
+    },
+    "889ec4fe08d7e618": {
+      "title": "Google says 75% of its new code is AI written",
+      "fetched_at": "2026-04-22T18:57:45.749939+00:00"
+    },
+    "91fced1c6b13a42a": {
+      "title": "When the AI Cloud Comes for Texas Water",
+      "fetched_at": "2026-04-22T18:57:46.323725+00:00"
+    },
+    "2bf6f52f97e47b52": {
+      "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+      "fetched_at": "2026-04-22T18:57:46.883412+00:00"
+    },
+    "435577de5ba964f5": {
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "fetched_at": "2026-04-22T18:57:47.446775+00:00"
+    },
+    "7773003686964067": {
+      "title": "Why Gen AI Isn't Quite Cost-Effective at Creating 3D Game Worlds",
+      "fetched_at": "2026-04-22T18:57:48.021371+00:00"
+    },
+    "77b3f3d32a89f7b3": {
+      "title": "What if we start to draw inspiration from nature's greatest machine?",
+      "fetched_at": "2026-04-22T18:57:48.595054+00:00"
+    },
+    "4e86c9c20c285890": {
+      "title": "Artemis moon landing could face long delay while NASA waits for next-generation spacesuits",
+      "fetched_at": "2026-04-22T18:58:53.084529+00:00"
+    },
+    "eda0b44237d40f28": {
+      "title": "Gene therapy improves hearing in 90% of patients with inherited deafness in largest trial of its kind",
+      "fetched_at": "2026-04-22T18:58:53.704023+00:00"
+    },
+    "bd0d9235bf91488e": {
+      "title": "Oil spills from Iran war may contaminate water and food supply and threaten protected wildlife refuge",
+      "fetched_at": "2026-04-22T18:58:54.355826+00:00"
+    },
+    "453b8d0f6b48e381": {
+      "title": "NASA's Curiosity rover finds a surprising number of giant 'dragon scales' littered across Mars",
+      "fetched_at": "2026-04-22T18:58:54.922145+00:00"
+    },
+    "c122c36caabf09f2": {
+      "title": "Watch an AI-powered table tennis robot beat elite players",
+      "fetched_at": "2026-04-22T18:58:55.486776+00:00"
+    },
+    "7bd478b9debe822c": {
+      "title": "Earth quiz: What do you know about our planet's most amazing features?",
+      "fetched_at": "2026-04-22T18:58:56.048683+00:00"
+    },
+    "648b8afd1fdd5d40": {
+      "title": "Ancient DNA reveals a lost population near Paris replaced by strangers",
+      "fetched_at": "2026-04-22T18:58:56.609738+00:00"
     }
   },
-  "last_updated": "2026-04-22T12:59:13.985207+00:00"
+  "last_updated": "2026-04-22T18:58:56.754959+00:00"
 }
