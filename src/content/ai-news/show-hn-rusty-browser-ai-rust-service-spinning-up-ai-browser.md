@@ -1,0 +1,10 @@
+---
+title: 'Show HN: Rusty Browser – AI rust service spinning up AI browsers'
+description: 'project: https://github.com/dashn9/rusty-browserFinished working on a browser automation system via natural language and API calls.This is how it''s different than the likes Vercel browser, browser use'
+pubDate: 2026-04-23T17:21:32
+source: 'Hacker News'
+sourceUrl: 'https://news.ycombinator.com/item?id=47878503'
+tags: []
+---
+
+project: https://github.com/dashn9/rusty-browserFinished working on a browser automation system via natural language and API calls.This is how it's different than the likes Vercel browser, browser use, stage hand. e.t.c.Handles identity / proxy management for you.Handles server management with the aid of github.com/dashn9/serverless-flux enabling serverless browser computing. Spin as much AI browser process as possible. Extremely useful for startups and companies that wants to keep this internal.Has less memory footprint and much faster (for obvious reasons - which is RUST!!!).Works extremely well with faster, cheaper models. I'm always actively testing and developing with smaller models and will continue to do so, they are quite underestimated but tremendously capable.High token efficiency. We don't dump full HTMLs in like browser use, also, I shifted away from screenshot, instead using a visual diff tree which works incredibly wellYou just plugin your service account / AMI key (currently supports GCP, AWS) and in less than 30 seconds you are done with the setup. It downscales and upscales based on your demand. Once you are done. auto descales to the min servers you've set.it's here: https://github.com/dashn9/rusty-browserOther projects that enable for Rusty function are:(Serverless management and deployment)[Flux: https://github.com/dashn9/serverless-flux ](Browser automation, BiDi and CDP)[Rustenium: https://github.com/dashn9/rustenium ](Browser automation, BiDi and CDP)[Rustenium Identity: https://github.com/dashn9/rustenium-identity ]All contributions and advice and support are appreciated. Comments URL: https://news.ycombinator.com/item?id=47878503 Points: 1 # Comments: 0

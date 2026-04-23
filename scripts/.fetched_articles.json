@@ -1,37 +1,5 @@
 {
   "articles": {
-    "4c1078599bd54ded": {
-      "title": "美國封鎖霍爾木茲首日：中國公司擁有的貨輪「富星號」穿越海峽後折返",
-      "fetched_at": "2026-04-15T12:59:20.814426+00:00"
-    },
-    "42086c9a3da96c58": {
-      "title": "73 moon landings? NASA's 'Moon Base User's Guide' reveals the agency's 'most ambitious space project' will be fraught with challenges",
-      "fetched_at": "2026-04-15T12:59:22.776515+00:00"
-    },
-    "816e24de61f28797": {
-      "title": "Diagnostic dilemma: A woman heard voices telling her she had a brain tumor ‪—‬ and scans confirmed she did",
-      "fetched_at": "2026-04-15T12:59:23.407462+00:00"
-    },
-    "968c1a7c3b417b52": {
-      "title": "Digital Archaeology: where does Bitcoin's 21M come from?",
-      "fetched_at": "2026-04-15T12:59:24.049720+00:00"
-    },
-    "97fc194623af9e42": {
-      "title": "Graphene just defied a fundamental law of physics",
-      "fetched_at": "2026-04-15T12:59:24.692424+00:00"
-    },
-    "ace6f19030fc4d72": {
-      "title": "95% of people carry this virus and scientists may have just found how to stop it",
-      "fetched_at": "2026-04-15T12:59:25.323476+00:00"
-    },
-    "37247b78c3f055b1": {
-      "title": "Scientists just solved a 160-million-year fossil mystery “I’ve never seen anything like it”",
-      "fetched_at": "2026-04-15T12:59:25.945908+00:00"
-    },
-    "375c7a7d27ffb93f": {
-      "title": "Scientists discover “cleaner ants” that groom giant ants in Arizona desert",
-      "fetched_at": "2026-04-15T12:59:26.564771+00:00"
-    },
     "cd5333069c024aae": {
       "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
       "fetched_at": "2026-04-15T18:59:14.012999+00:00"
@@ -3771,7 +3739,127 @@
     "35659a2cb3f7da58": {
       "title": "Advanced AI-powered table-tennis-playing robot can match up to the professionals — watch it in action",
       "fetched_at": "2026-04-23T12:59:02.230734+00:00"
+    },
+    "5742131d59fcabd7": {
+      "title": "You're about to feel the AI money squeeze",
+      "fetched_at": "2026-04-23T18:54:01.421886+00:00"
+    },
+    "567e7172a552aa1c": {
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’",
+      "fetched_at": "2026-04-23T18:54:02.079161+00:00"
+    },
+    "9efd580536217df9": {
+      "title": "Show HN: AgentSearch – Self-hosted search and MCP for AI agents, no API keys",
+      "fetched_at": "2026-04-23T18:54:02.656569+00:00"
+    },
+    "80bfaac77c7eaabf": {
+      "title": "Anthropic&#8217;s Mythos breach was humiliating",
+      "fetched_at": "2026-04-23T18:54:03.251853+00:00"
+    },
+    "03c26382519b2440": {
+      "title": "GPT-5.5 System Card [pdf]",
+      "fetched_at": "2026-04-23T18:54:03.833013+00:00"
+    },
+    "37dfaecfc22624c8": {
+      "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
+      "fetched_at": "2026-04-23T18:54:04.416834+00:00"
+    },
+    "b1d188cde331e38e": {
+      "title": "CubeSandbox: Instant, Concurrent, Secure and Lightweight Sandbox for AI Agents",
+      "fetched_at": "2026-04-23T18:54:05.009084+00:00"
+    },
+    "c9c7b76260e16eb6": {
+      "title": "Sean Duffy Wants $10B for AI Air Traffic Control Software",
+      "fetched_at": "2026-04-23T18:54:05.617738+00:00"
+    },
+    "d8563ea0dc79a4aa": {
+      "title": "Tutor AI",
+      "fetched_at": "2026-04-23T18:54:06.208935+00:00"
+    },
+    "46108a5380806393": {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "fetched_at": "2026-04-23T18:54:06.799037+00:00"
+    },
+    "f2e0eb7a742b44ca": {
+      "title": "GPT-5.5",
+      "fetched_at": "2026-04-23T18:54:07.461039+00:00"
+    },
+    "6b6fdb218ed4d239": {
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "fetched_at": "2026-04-23T18:54:08.056410+00:00"
+    },
+    "24fe71e64720e3f4": {
+      "title": "Onyx Pro, a local desktop utility for re-evaluating AI IDEs",
+      "fetched_at": "2026-04-23T18:54:08.653369+00:00"
+    },
+    "2257e34d15e9975d": {
+      "title": "Tesla's $25B spending plan tests investor faith in unproven AI bets",
+      "fetched_at": "2026-04-23T18:54:09.236452+00:00"
+    },
+    "c17006d150f86284": {
+      "title": "Software stocks plunge on ServiceNow, IBM results as AI fears escalate",
+      "fetched_at": "2026-04-23T18:54:09.841438+00:00"
+    },
+    "2dc2b0bb525148ed": {
+      "title": "Show HN: Ungate – use Claude and GPT subscriptions in Cursor without API costs",
+      "fetched_at": "2026-04-23T18:54:10.411866+00:00"
+    },
+    "47e7c88f2d76fb7d": {
+      "title": "Show HN: Rusty Browser – AI rust service spinning up AI browsers",
+      "fetched_at": "2026-04-23T18:54:11.060431+00:00"
+    },
+    "a21d41ecb2abbb85": {
+      "title": "Ask HN: How much AI slop do you deal with at work?",
+      "fetched_at": "2026-04-23T18:54:11.654468+00:00"
+    },
+    "60e57f74ebb0f760": {
+      "title": "America's Largest Landowner Is Using AI to Digitize the Forest",
+      "fetched_at": "2026-04-23T18:54:12.245795+00:00"
+    },
+    "a8f52be8bd4bc196": {
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
+      "fetched_at": "2026-04-23T18:54:12.826801+00:00"
+    },
+    "90d36319e5bc7c5e": {
+      "title": "The Ancient Roots of the Crab Walk",
+      "fetched_at": "2026-04-23T18:54:17.585896+00:00"
+    },
+    "09731ca569ef32f9": {
+      "title": "'Kraken' octopus that lived at the time of the dinosaurs was a 62-foot-long apex predator of the ocean",
+      "fetched_at": "2026-04-23T18:54:18.159581+00:00"
+    },
+    "530b56533ffd6b23": {
+      "title": "Ancient Philosophy, in Plain English",
+      "fetched_at": "2026-04-23T18:54:18.740795+00:00"
+    },
+    "f8f888e2de652777": {
+      "title": "What did ancient humans do at night?",
+      "fetched_at": "2026-04-23T18:54:19.314141+00:00"
+    },
+    "87bf45e5f44f0572": {
+      "title": "Artemis II heat shield aced its blistering reentry, ghostly underwater photo reveals",
+      "fetched_at": "2026-04-23T18:54:19.900229+00:00"
+    },
+    "25261aac95036203": {
+      "title": "Welsh castle's hidden cave was once home to ancient hippo",
+      "fetched_at": "2026-04-23T18:54:20.490832+00:00"
+    },
+    "1508aac491c085ad": {
+      "title": "Scientists invent artificial neurons that 'talk' to real brain cells, paving way to better brain implants",
+      "fetched_at": "2026-04-23T18:54:21.079401+00:00"
+    },
+    "6d06984d80b8a240": {
+      "title": "'What are the odds': Superbright comet and exploding fireball meteor form near-perfect X over European castle",
+      "fetched_at": "2026-04-23T18:54:21.668901+00:00"
+    },
+    "a411408d1014318a": {
+      "title": "AI just discovered new physics in the fourth state of matter",
+      "fetched_at": "2026-04-23T18:54:22.241380+00:00"
+    },
+    "d3882e9590fd3aca": {
+      "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
+      "fetched_at": "2026-04-23T18:54:22.837508+00:00"
     }
   },
-  "last_updated": "2026-04-23T12:59:02.376121+00:00"
+  "last_updated": "2026-04-23T18:54:22.987487+00:00"
 }
