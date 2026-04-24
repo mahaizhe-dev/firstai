@@ -1,117 +1,5 @@
 {
   "articles": {
-    "3f9ae0293a0688ec": {
-      "title": "Canva’s AI assistant can now call various tools to make designs for you",
-      "fetched_at": "2026-04-16T13:03:03.468275+00:00"
-    },
-    "e6caf8524794de78": {
-      "title": "亚马逊支持的X-Energy计划IPO融资8亿美元",
-      "fetched_at": "2026-04-16T13:03:04.039370+00:00"
-    },
-    "3f0232abb0de33b7": {
-      "title": "热门中概股美股盘前普涨，百度涨超4%",
-      "fetched_at": "2026-04-16T13:03:04.617017+00:00"
-    },
-    "9b157d0415d2b404": {
-      "title": "美股大型科技股盘前涨跌不一，微软涨超1%",
-      "fetched_at": "2026-04-16T13:03:04.617142+00:00"
-    },
-    "1c42a6c1a11bb4eb": {
-      "title": "Next Time You Order a Dairy Queen Blizzard, You May Be Talking to AI",
-      "fetched_at": "2026-04-16T13:03:05.181615+00:00"
-    },
-    "aa3bbbc9100d2f78": {
-      "title": "亚马逊未能驳回加州的反垄断诉讼",
-      "fetched_at": "2026-04-16T13:03:05.772943+00:00"
-    },
-    "a6c6f56905d32182": {
-      "title": "Ask HN: How to program with IDE and LLM on CPU locally?",
-      "fetched_at": "2026-04-16T13:03:06.441476+00:00"
-    },
-    "c51b076ee2c9eb2a": {
-      "title": "Which AI Image Generator Has the Best Character Consistency",
-      "fetched_at": "2026-04-16T13:03:07.005621+00:00"
-    },
-    "baad93660bf93757": {
-      "title": "美国4月份费城联邦储备银行制造业指数升至26.7，预估为10",
-      "fetched_at": "2026-04-16T13:03:07.572892+00:00"
-    },
-    "5b144121d0320dcd": {
-      "title": "美国上周首次申领失业救济人数为20.7万人，预估为21.3万人",
-      "fetched_at": "2026-04-16T13:03:08.155692+00:00"
-    },
-    "ce2086a685a7bd3c": {
-      "title": "This simulation startup wants to be the Cursor for physical AI",
-      "fetched_at": "2026-04-16T13:03:08.892388+00:00"
-    },
-    "ff3877688225a6a7": {
-      "title": "3连板*ST观典：股票短期内涨幅较大，明起停牌核查",
-      "fetched_at": "2026-04-16T13:03:09.464287+00:00"
-    },
-    "9da40e47c8cf91d5": {
-      "title": "Journalists champion Wayback Machine after news publishers limit archiving",
-      "fetched_at": "2026-04-16T13:03:10.033005+00:00"
-    },
-    "fb54575c8b6f5092": {
-      "title": "Show HN: Formal – LLM-driven property checker backed by Lean 4 and Mathlib",
-      "fetched_at": "2026-04-16T13:03:10.678976+00:00"
-    },
-    "95a841ee09dd36ac": {
-      "title": "Cal AI has been removed from the App Store",
-      "fetched_at": "2026-04-16T13:03:11.245362+00:00"
-    },
-    "170646701dc7f307": {
-      "title": "Killing Slack Was the Only Way to Make AI Accurate",
-      "fetched_at": "2026-04-16T13:03:11.811393+00:00"
-    },
-    "1daff748773b3506": {
-      "title": "春光集团披露招股书，拟于近期在深市发行新股并上市",
-      "fetched_at": "2026-04-16T13:03:12.442102+00:00"
-    },
-    "25891cf5b61de25e": {
-      "title": "熊猫乳品：2025年归母净利润同比增长5.38%，拟10派6元",
-      "fetched_at": "2026-04-16T13:03:13.003300+00:00"
-    },
-    "7ac0fe3266c5ad22": {
-      "title": "Extract any website's design system as AI-ready tokens (Claude plugin and CLI)",
-      "fetched_at": "2026-04-16T13:03:14.395910+00:00"
-    },
-    "ca1dd207aea8cb14": {
-      "title": "Show HN: Ilha – a UI library that fits in an AI context window",
-      "fetched_at": "2026-04-16T13:03:14.959966+00:00"
-    },
-    "fddbb056e051ac6a": {
-      "title": "美伊衝突接下來會如何發展：四種可能情境",
-      "fetched_at": "2026-04-16T13:03:17.010044+00:00"
-    },
-    "79852eb6699ddb65": {
-      "title": "鰻魚：億萬寶貝——揭秘香港黑社會如何走私「海上的可卡因」",
-      "fetched_at": "2026-04-16T13:03:17.612536+00:00"
-    },
-    "bd1fa10c828245ab": {
-      "title": "Hackers used AI to steal hundreds of millions of Mexican government and private citizen records in one of the largest cybersecurity breaches ever",
-      "fetched_at": "2026-04-16T13:03:20.036178+00:00"
-    },
-    "e595ccb781f75f8a": {
-      "title": "The first black hole ever discovered is spewing 'dancing jets' at half the speed of light",
-      "fetched_at": "2026-04-16T13:03:20.682196+00:00"
-    },
-    "002eb4dba0e3fbff": {
-      "title": "Stephen Hawking's black hole information paradox could be solved — if the universe has 7 dimensions",
-      "fetched_at": "2026-04-16T13:03:21.250196+00:00"
-    },
-    "c97a23753b713a43": {
-      "title": "MIT scientists just found a hidden problem slowing the ozone comeback",
-      "fetched_at": "2026-04-16T13:03:21.825940+00:00"
-    },
-    "08d61c3636a2af4e": {
-      "title": "Scientists discover hidden ocean methane source that could worsen global warming",
-      "fetched_at": "2026-04-16T13:03:22.397980+00:00"
-    },
-    "d59c700e023bd0b7": {
-      "title": "Scientists thought this was a young T. rex. They were wrong",
-      "fetched_at": "2026-04-16T13:03:22.969228+00:00"
-    },
     "16aaae23b5458bba": {
       "title": "The Quantity Trap: The Dangerous Disconnect Between AI Supply and User Demand",
       "fetched_at": "2026-04-16T18:56:59.339864+00:00"
@@ -3875,7 +3763,131 @@
     "8a46f8f4d84578cb": {
       "title": "Scientists find perfect fossils in rust beneath Australian farmland",
       "fetched_at": "2026-04-24T12:57:34.830620+00:00"
+    },
+    "be15148b21eaed9a": {
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "fetched_at": "2026-04-24T18:35:59.498623+00:00"
+    },
+    "7adbefdcde138876": {
+      "title": "LLM research on Hacker News is drying up",
+      "fetched_at": "2026-04-24T18:36:00.062671+00:00"
+    },
+    "d7cd122ffd4b4906": {
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "fetched_at": "2026-04-24T18:36:00.631406+00:00"
+    },
+    "68240c9fae88fbaf": {
+      "title": "Ask HN: How are you evaluating AI apps and CLI?",
+      "fetched_at": "2026-04-24T18:36:01.202657+00:00"
+    },
+    "6fdb245d3921e045": {
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "fetched_at": "2026-04-24T18:36:01.768870+00:00"
+    },
+    "133106f1ca349075": {
+      "title": "AI discovered 20 of 23 recent zero-days in OpenSSL",
+      "fetched_at": "2026-04-24T18:36:02.335890+00:00"
+    },
+    "3308e6f0ec3ffef0": {
+      "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+      "fetched_at": "2026-04-24T18:36:02.898978+00:00"
+    },
+    "c2e25aece1226c9e": {
+      "title": "AI smart glasses will help visually impaired runners take on the London Marathon",
+      "fetched_at": "2026-04-24T18:36:03.476373+00:00"
+    },
+    "af295ba069b46218": {
+      "title": "Show HN: Harmonic Progression Podcast on Humans, AI and Tech News",
+      "fetched_at": "2026-04-24T18:36:04.044215+00:00"
+    },
+    "5a1f237e526ff275": {
+      "title": "Honolulu's Airport Has AI Theme Songs. The Internet Is Divided",
+      "fetched_at": "2026-04-24T18:36:04.610742+00:00"
+    },
+    "76847791eae226cd": {
+      "title": "Aperture beta: better controls for the AI agent era",
+      "fetched_at": "2026-04-24T18:36:05.175594+00:00"
+    },
+    "0df1b7ba13172af7": {
+      "title": "85% of enterprises are running AI agents. Only 5% trust them enough to ship",
+      "fetched_at": "2026-04-24T18:36:05.748166+00:00"
+    },
+    "69a7b00efed83481": {
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "fetched_at": "2026-04-24T18:36:06.316982+00:00"
+    },
+    "a755584b32a113aa": {
+      "title": "Show HN: Signova AI – DocuSign alternative for $7",
+      "fetched_at": "2026-04-24T18:36:06.936680+00:00"
+    },
+    "b6e721f20892125c": {
+      "title": "AI Field Notes on the DGX Spark",
+      "fetched_at": "2026-04-24T18:36:07.501084+00:00"
+    },
+    "3e5dd0e3c1f2f007": {
+      "title": "How Project Maven taught the military to love AI",
+      "fetched_at": "2026-04-24T18:36:08.148537+00:00"
+    },
+    "418ae61036f5f1fb": {
+      "title": "Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
+      "fetched_at": "2026-04-24T18:36:08.772744+00:00"
+    },
+    "8168deac4119367b": {
+      "title": "AI models, power, politics, and performance",
+      "fetched_at": "2026-04-24T18:36:09.345738+00:00"
+    },
+    "23d468c2dd1f892f": {
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "fetched_at": "2026-04-24T18:36:09.913001+00:00"
+    },
+    "026b035a15824c38": {
+      "title": "AI Progress doesn't feel as fast as we're told",
+      "fetched_at": "2026-04-24T18:36:10.476861+00:00"
+    },
+    "ea9af64ab33df9c5": {
+      "title": "Building a massive dam between Alaska and Russia could prevent AMOC collapse, scientists say",
+      "fetched_at": "2026-04-24T18:36:25.334867+00:00"
+    },
+    "8154d70fcead1fe2": {
+      "title": "'Brain-eating' amoebas are nearly always fatal. New treatments may change that.",
+      "fetched_at": "2026-04-24T18:36:25.901746+00:00"
+    },
+    "68e956080244d003": {
+      "title": "Thríhnúkagígur: The only volcano on Earth where you can descend into a magma chamber",
+      "fetched_at": "2026-04-24T18:36:26.469358+00:00"
+    },
+    "72fdb3ac01c2d4cb": {
+      "title": "New York City is at major risk of flooding that could leave 4.4 million people exposed to extreme damage, study finds",
+      "fetched_at": "2026-04-24T18:36:27.057581+00:00"
+    },
+    "832512a5444e71b2": {
+      "title": "'A completely new reality': Bolder measures are needed to prevent extreme water shortages in cities like Phoenix and Las Vegas that depend on the Colorado River",
+      "fetched_at": "2026-04-24T18:36:27.645067+00:00"
+    },
+    "3884fd38f2d45065": {
+      "title": "El Niño could be here by May, new forecast reveals —‬ here's what it means for summer weather",
+      "fetched_at": "2026-04-24T18:36:28.208871+00:00"
+    },
+    "d7c59b89ccc9b4b8": {
+      "title": "NASA scientist says a \"fifth force\" may be hiding in our solar system",
+      "fetched_at": "2026-04-24T18:36:28.779206+00:00"
+    },
+    "6348a18557f40c34": {
+      "title": "Astronomers may have found a strange new kind of cosmic explosion",
+      "fetched_at": "2026-04-24T18:36:29.353088+00:00"
+    },
+    "3fdb6b6ea9f42579": {
+      "title": "Scientists warn about golden oyster mushrooms sold in Florida markets",
+      "fetched_at": "2026-04-24T18:36:30.013089+00:00"
+    },
+    "c5134851f34cebf0": {
+      "title": "'A measurable, enormous global impact': Astronaut Chris Hadfield on why the true power of Artemis II could take decades to hit",
+      "fetched_at": "2026-04-24T18:36:30.776366+00:00"
+    },
+    "3b10980b3530fda9": {
+      "title": "Scientists build specialist 'AGI processor' that they believe will power the next wave of AI agents",
+      "fetched_at": "2026-04-24T18:36:31.348213+00:00"
     }
   },
-  "last_updated": "2026-04-24T12:57:34.935807+00:00"
+  "last_updated": "2026-04-24T18:36:31.501013+00:00"
 }
