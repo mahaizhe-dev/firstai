@@ -1,129 +1,5 @@
 {
   "articles": {
-    "7d99f93fb8d1f61e": {
-      "title": "南向资金净买入额达100亿港元",
-      "fetched_at": "2026-04-17T07:18:14.093346+00:00"
-    },
-    "9a07e54325bfe162": {
-      "title": "禾赛发布全球首款6D全彩激光雷达",
-      "fetched_at": "2026-04-17T07:18:14.763111+00:00"
-    },
-    "e41b0c0ea18b4c13": {
-      "title": "拓璞数控港股IPO获中国证监会备案",
-      "fetched_at": "2026-04-17T07:18:15.395042+00:00"
-    },
-    "d397398df650cd85": {
-      "title": "AI images are being used in insurance scams",
-      "fetched_at": "2026-04-17T07:18:16.018046+00:00"
-    },
-    "de91e01c005e04a5": {
-      "title": "A股三大指数收盘涨跌不一，源杰科技登顶A股新股王",
-      "fetched_at": "2026-04-17T07:18:16.742288+00:00"
-    },
-    "74f292a94a08144c": {
-      "title": "Treating enterprise AI as an operating layer",
-      "fetched_at": "2026-04-17T07:18:17.406603+00:00"
-    },
-    "818aa87fe77d4442": {
-      "title": "Ask HN: What are the machine requirements for a LLM like Llama-3.1-8B?",
-      "fetched_at": "2026-04-17T07:18:18.034270+00:00"
-    },
-    "037268148096f2b9": {
-      "title": "Engram – context spine for AI coding agents, 88% proven token savings",
-      "fetched_at": "2026-04-17T07:18:18.653566+00:00"
-    },
-    "412f277dec4995a3": {
-      "title": "豪掷200亿美元，OpenAI据称将与Cerebras达成重磅协议",
-      "fetched_at": "2026-04-17T07:18:19.413786+00:00"
-    },
-    "7c93572744fec14e": {
-      "title": "瑞幸已为即享咖啡小罐子登记作品著作权",
-      "fetched_at": "2026-04-17T07:18:20.082755+00:00"
-    },
-    "b15f85e3f71a0619": {
-      "title": "追觅科技受邀出席国家商务部中意企委会圆桌会，作为中方企业代表发言",
-      "fetched_at": "2026-04-17T07:18:20.684789+00:00"
-    },
-    "5e4f9e4ca4bc9e86": {
-      "title": "I'm tired about hearing about AI startups",
-      "fetched_at": "2026-04-17T07:18:21.313374+00:00"
-    },
-    "9746690cf5e094e4": {
-      "title": "机构：受存储价格大幅上涨冲击低端市场影响，2025年下半年ODM/IDH智能手机出货量同比下滑10%",
-      "fetched_at": "2026-04-17T07:18:21.947788+00:00"
-    },
-    "a509142bbc733aa5": {
-      "title": "北证50涨超5%",
-      "fetched_at": "2026-04-17T07:18:22.569276+00:00"
-    },
-    "0cf7919abea6947a": {
-      "title": "沪深两市成交额突破2万亿元",
-      "fetched_at": "2026-04-17T07:18:22.569402+00:00"
-    },
-    "fb048b90f4917e07": {
-      "title": "Show HN: Agent Armor, a Rust runtime for enforcing policies on AI agent actions",
-      "fetched_at": "2026-04-17T07:18:23.220376+00:00"
-    },
-    "b654254742e7693d": {
-      "title": "Is AI a tool or are you?",
-      "fetched_at": "2026-04-17T07:18:23.862349+00:00"
-    },
-    "64f31ea7303f33bd": {
-      "title": "特斯拉在台招聘工程师：要求具备先进制程芯片经验",
-      "fetched_at": "2026-04-17T07:18:24.490314+00:00"
-    },
-    "5a9315970518f77e": {
-      "title": "我国科学家找到了大脑皮层的起源",
-      "fetched_at": "2026-04-17T07:18:25.105819+00:00"
-    },
-    "063a8e844575c2ae": {
-      "title": "SpaceX最快或6月上市，谷歌或从SpaceX上市获巨额收益",
-      "fetched_at": "2026-04-17T07:18:25.788389+00:00"
-    },
-    "ad6eb5d69421fb21": {
-      "title": "阿提米絲二號宇航員： 「出發時我們是朋友，回來時成了最好的朋友」",
-      "fetched_at": "2026-04-17T07:18:28.778563+00:00"
-    },
-    "56d54d73ca4221d6": {
-      "title": "日本外交藍皮書將中國「降級」，高市早苗又提「修憲」時程：中日關係何去何從?",
-      "fetched_at": "2026-04-17T07:18:29.387210+00:00"
-    },
-    "89c54ee8da68e5a5": {
-      "title": "揭开比特币最大谜团：谁是中本聪？",
-      "fetched_at": "2026-04-17T07:18:29.992479+00:00"
-    },
-    "f9cf89d16d35da25": {
-      "title": "特朗普推動的黎巴嫩停火令以色列驚訝",
-      "fetched_at": "2026-04-17T07:18:30.608910+00:00"
-    },
-    "dd6264a1c5b77ce2": {
-      "title": "中国为何不会对伊朗施压？意愿有限，能力不足",
-      "fetched_at": "2026-04-17T07:18:31.254610+00:00"
-    },
-    "4f9fc7fb892500b9": {
-      "title": "耶稣“梗图”、威胁和战争：重重压力之下的特朗普",
-      "fetched_at": "2026-04-17T07:18:31.871719+00:00"
-    },
-    "1234d50b39dda192": {
-      "title": "從兩乘高鐵到共產情誼 盤點越南領導人蘇林訪華四大看點",
-      "fetched_at": "2026-04-17T07:18:32.472145+00:00"
-    },
-    "630e3cb2c9487dfc": {
-      "title": "危重病人被30家医院急诊室拒收：韩国的医疗危机",
-      "fetched_at": "2026-04-17T07:18:33.095321+00:00"
-    },
-    "23554754fce334f1": {
-      "title": "燕麦有多健康？",
-      "fetched_at": "2026-04-17T07:18:33.700974+00:00"
-    },
-    "710bc8bd64425877": {
-      "title": "Something just hit the Moon and left a bright new scar",
-      "fetched_at": "2026-04-17T07:18:39.691511+00:00"
-    },
-    "1857a696e9eef692": {
-      "title": "Scientists just uncovered the secret behind nature’s “proton highway”",
-      "fetched_at": "2026-04-17T07:18:40.318391+00:00"
-    },
     "3caea12a00485140": {
       "title": "热门中概股美股盘前多数走强，拼多多涨超3%",
       "fetched_at": "2026-04-17T12:54:06.348580+00:00"
@@ -3875,7 +3751,95 @@
     "e500110406918380": {
       "title": "Ancient DNA reveals pervasive directional selection across West Eurasia",
       "fetched_at": "2026-04-25T07:01:57.253161+00:00"
+    },
+    "9d734b68611d1977": {
+      "title": "卡尔动力发布KargoBot Inside",
+      "fetched_at": "2026-04-25T12:38:05.377400+00:00"
+    },
+    "a7945ee05aa17de6": {
+      "title": "Show HN: Enlist AI: Sub-second interview coaching with persistence",
+      "fetched_at": "2026-04-25T12:38:05.997603+00:00"
+    },
+    "1bc76ed4bd0167b6": {
+      "title": "From $200 to $30: Five Layers of LLM Cost Optimization",
+      "fetched_at": "2026-04-25T12:38:06.631964+00:00"
+    },
+    "6c3670a22ac1045a": {
+      "title": "Crafting an AI-Driven Workflow System [video]",
+      "fetched_at": "2026-04-25T12:38:07.644562+00:00"
+    },
+    "06706f2496f8460f": {
+      "title": "Show HN: Harnessing LLM-Prompt Mutation to Build Smart,Automated Fuzz Drivers",
+      "fetched_at": "2026-04-25T12:38:08.275761+00:00"
+    },
+    "f750a31be0c6930b": {
+      "title": "SAP just made the opposite bet from every other enterprise platform on AI agents",
+      "fetched_at": "2026-04-25T12:38:08.907522+00:00"
+    },
+    "5593d4ca8eff638f": {
+      "title": "GPT 5.5 flags accounts for \"potential high-risk cybersecurity\"",
+      "fetched_at": "2026-04-25T12:38:09.528477+00:00"
+    },
+    "121226ba526fdd33": {
+      "title": "Lambda Calculus Benchmark for AI",
+      "fetched_at": "2026-04-25T12:38:10.146353+00:00"
+    },
+    "eeddea7627e93c8b": {
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "fetched_at": "2026-04-25T12:38:10.844627+00:00"
+    },
+    "22618c21a7a6a4dc": {
+      "title": "Amália- Open Source Large Language Model (LLM) for European Portuguese",
+      "fetched_at": "2026-04-25T12:38:11.471538+00:00"
+    },
+    "c0af0f29ed5acd15": {
+      "title": "Happy Horse AI",
+      "fetched_at": "2026-04-25T12:38:12.113885+00:00"
+    },
+    "7b816c926e14e3d3": {
+      "title": "South Korean workers learn AI after work, outpacing their companies",
+      "fetched_at": "2026-04-25T12:38:12.775685+00:00"
+    },
+    "02e586ad8d6cf96f": {
+      "title": "Intel soars on signs AI boom for CPUs is here",
+      "fetched_at": "2026-04-25T12:38:13.414120+00:00"
+    },
+    "b1d108e344f9564b": {
+      "title": "Cafestol/kahweol concentrations in workplace machine coffee vs. other brewing",
+      "fetched_at": "2026-04-25T12:38:14.038377+00:00"
+    },
+    "89588e02034611e5": {
+      "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
+      "fetched_at": "2026-04-25T12:38:14.657567+00:00"
+    },
+    "ac35c734f5ace22f": {
+      "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
+      "fetched_at": "2026-04-25T12:38:15.262953+00:00"
+    },
+    "fad018a9219398f2": {
+      "title": "掌控专注力，你需要做的和没必要做的",
+      "fetched_at": "2026-04-25T12:38:15.876402+00:00"
+    },
+    "d42bf881ad365037": {
+      "title": "Rust open-source headless browser for AI agents and web scraping",
+      "fetched_at": "2026-04-25T12:38:16.503385+00:00"
+    },
+    "af42535e5085150a": {
+      "title": "A fun 5 minute take on AI in business",
+      "fetched_at": "2026-04-25T12:38:17.126253+00:00"
+    },
+    "cfaa6bf979641f6e": {
+      "title": "Agentic AI for Hormuz Shock Modelling",
+      "fetched_at": "2026-04-25T12:38:17.740798+00:00"
+    },
+    "4c2dd967b51af88a": {
+      "title": "Science news this week: Atlantic current edges closer to collapse, scientists make artificial-neuron breakthrough, and a copy of the \"Iliad\" is found inside an Egyptian mummy",
+      "fetched_at": "2026-04-25T12:38:24.377661+00:00"
+    },
+    "027ae6159e5358d9": {
+      "title": "Why are some constellations visible for only part of the year?",
+      "fetched_at": "2026-04-25T12:38:25.002672+00:00"
     }
   },
-  "last_updated": "2026-04-25T07:01:57.354401+00:00"
+  "last_updated": "2026-04-25T12:38:25.110364+00:00"
 }
