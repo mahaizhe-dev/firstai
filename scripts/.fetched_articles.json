@@ -1,101 +1,5 @@
 {
   "articles": {
-    "3caea12a00485140": {
-      "title": "热门中概股美股盘前多数走强，拼多多涨超3%",
-      "fetched_at": "2026-04-17T12:54:06.348580+00:00"
-    },
-    "fb1b5c34e38dc85f": {
-      "title": "美股大型科技股盘前多数上涨，奈飞跌超9%",
-      "fetched_at": "2026-04-17T12:54:07.135682+00:00"
-    },
-    "12ededcfd88b65f1": {
-      "title": "臻镭科技：因信披违规将被实施其他风险警示，股票停牌",
-      "fetched_at": "2026-04-17T12:54:07.777405+00:00"
-    },
-    "611fca6acf300c70": {
-      "title": "加拿大邮政将终止住宅邮件投递",
-      "fetched_at": "2026-04-17T12:54:08.400448+00:00"
-    },
-    "b6da9ae32e4ec6ed": {
-      "title": "仕佳光子：拟12.65亿元投建高速光芯片与器件开发及产业化项目",
-      "fetched_at": "2026-04-17T12:54:09.020852+00:00"
-    },
-    "5da165b91788a81b": {
-      "title": "Adapt: an LLM-based memory layer that restructures itself",
-      "fetched_at": "2026-04-17T12:54:09.645421+00:00"
-    },
-    "6652f9c53d3ab17a": {
-      "title": "Anthropic chief Dario Amodei: 'I don't want AI turned on our own people'",
-      "fetched_at": "2026-04-17T12:54:10.272461+00:00"
-    },
-    "7d4cfea2a38c1830": {
-      "title": "Bernie Sanders: AI is coming for the working class. We must fight",
-      "fetched_at": "2026-04-17T12:54:10.889652+00:00"
-    },
-    "eea25ecc06011254": {
-      "title": "Show HN: Mabon – AI agent that finds jobs continuously and shows strong matches",
-      "fetched_at": "2026-04-17T12:54:11.505102+00:00"
-    },
-    "2bb3d679713b64d5": {
-      "title": "国信证券：2025年净利润110.73亿元，同比增长34.76%",
-      "fetched_at": "2026-04-17T12:54:12.233327+00:00"
-    },
-    "71b6929fc9207d73": {
-      "title": "Peon – A Zero-Trust AI Agent Runtime in Rust (Using Casbin)",
-      "fetched_at": "2026-04-17T12:54:12.855491+00:00"
-    },
-    "3ca1977c06eebf7a": {
-      "title": "Show HN: Robots2.txt – A robots.txt extension for AI agents and Age ratings",
-      "fetched_at": "2026-04-17T12:54:13.478160+00:00"
-    },
-    "8b049bda66e4fe72": {
-      "title": "盛新锂能：董事及高管拟合计减持不超0.091%股份",
-      "fetched_at": "2026-04-17T12:54:14.100429+00:00"
-    },
-    "f61aa517e5648a53": {
-      "title": "韵达股份：3月快递服务业务收入45.9亿元，同比增长4.08%",
-      "fetched_at": "2026-04-17T12:54:14.768962+00:00"
-    },
-    "460ff2338ee8d8e0": {
-      "title": "问界加入逸安启，与宝马、奔驰三方各持有33.3%股份",
-      "fetched_at": "2026-04-17T12:54:15.516503+00:00"
-    },
-    "c0548e3cdc8d6e90": {
-      "title": "藏格矿业：一季度净利润15.74亿元，同比增长110.6%",
-      "fetched_at": "2026-04-17T12:54:16.146465+00:00"
-    },
-    "0c1539f0100265f5": {
-      "title": "Three years in amber: resurrecting WASM-AI from long ago",
-      "fetched_at": "2026-04-17T12:54:16.771630+00:00"
-    },
-    "fc56f46dd34f0e57": {
-      "title": "ShieldPi – MCP server for monitoring deployed AI agents",
-      "fetched_at": "2026-04-17T12:54:17.390777+00:00"
-    },
-    "6f02df4712226ff9": {
-      "title": "*ST天微：撤销退市风险警示，4月21日起证券简称由“*ST天微”变更为“天微电子”",
-      "fetched_at": "2026-04-17T12:54:18.072465+00:00"
-    },
-    "01c57ad37083d957": {
-      "title": "Show HN: GetHireToday – AI resume builder that targets ATS keyword matching",
-      "fetched_at": "2026-04-17T12:54:18.693153+00:00"
-    },
-    "c9a6eb3e83b0c953": {
-      "title": "寶可夢卡價值飆升引發英國砸店搶劫潮",
-      "fetched_at": "2026-04-17T12:54:21.264451+00:00"
-    },
-    "963edb09f6a14891": {
-      "title": "馬六甲海峽：為何全球貿易的另一個「咽喉要道」正引發擔憂",
-      "fetched_at": "2026-04-17T12:54:21.874713+00:00"
-    },
-    "9ebf401cb08f0fe8": {
-      "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
-      "fetched_at": "2026-04-17T12:54:26.740648+00:00"
-    },
-    "1a5a1a60fae27930": {
-      "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
-      "fetched_at": "2026-04-17T12:54:27.351206+00:00"
-    },
     "b729a96170542d35": {
       "title": "Sandboxes and Worktrees: My Secure Agentic AI Setup in 2026",
       "fetched_at": "2026-04-17T18:42:16.172264+00:00"
@@ -3839,7 +3743,131 @@
     "027ae6159e5358d9": {
       "title": "Why are some constellations visible for only part of the year?",
       "fetched_at": "2026-04-25T12:38:25.002672+00:00"
+    },
+    "838c2f4a18898522": {
+      "title": "Are We in Control of AI?",
+      "fetched_at": "2026-04-25T18:34:50.796082+00:00"
+    },
+    "3214bed3e71e0cc1": {
+      "title": "AI agents that argue with each other to improve decisions",
+      "fetched_at": "2026-04-25T18:34:51.357983+00:00"
+    },
+    "d71a3ce1e7353973": {
+      "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
+      "fetched_at": "2026-04-25T18:34:51.927117+00:00"
+    },
+    "b7df990ebd7c0913": {
+      "title": "Vorim.ai, Identity and trust layer for AI agents",
+      "fetched_at": "2026-04-25T18:34:52.514230+00:00"
+    },
+    "aa2c205034544a06": {
+      "title": "I can never talk to an AI anonymously again",
+      "fetched_at": "2026-04-25T18:34:53.075381+00:00"
+    },
+    "69dc3c9afa2b5f9c": {
+      "title": "AI Will Have the Biggest Impact on Photography Since the Digital Camera (2018)",
+      "fetched_at": "2026-04-25T18:34:53.635468+00:00"
+    },
+    "9b3c5ffeb8a06461": {
+      "title": "Outerloop – A persistent world where AI agents live alongside humans",
+      "fetched_at": "2026-04-25T18:34:54.197676+00:00"
+    },
+    "502bf9f87e870d23": {
+      "title": "Research Topics in AI and ML in 2026 and Their Philosophical Connections",
+      "fetched_at": "2026-04-25T18:34:54.783433+00:00"
+    },
+    "b4c2eb08a1a55e4d": {
+      "title": "Claude Mythos: The first AI-native cyberweapon?",
+      "fetched_at": "2026-04-25T18:34:55.352514+00:00"
+    },
+    "4afc0de06570f804": {
+      "title": "An amateur just solved a 60-year-old math problem–by asking AI",
+      "fetched_at": "2026-04-25T18:34:55.909340+00:00"
+    },
+    "a7b7f9fbc53720c6": {
+      "title": "Sense, local code intelligence for AI coding agents",
+      "fetched_at": "2026-04-25T18:34:56.563561+00:00"
+    },
+    "1a4cb29cd6fd8ffc": {
+      "title": "FSF Position on \"Ethical\" AI",
+      "fetched_at": "2026-04-25T18:34:57.117147+00:00"
+    },
+    "879c085b9e2396ee": {
+      "title": "The AI Compute Crunch Is Here (and It's Affecting the Economy)",
+      "fetched_at": "2026-04-25T18:34:57.679291+00:00"
+    },
+    "c1adccef0b76af25": {
+      "title": "Chatnik: LLM Host in the Shell",
+      "fetched_at": "2026-04-25T18:34:58.248691+00:00"
+    },
+    "76e556f64f4c1371": {
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "fetched_at": "2026-04-25T18:34:58.809769+00:00"
+    },
+    "9affa207098517ec": {
+      "title": "GPT-5.5 is a biased evaluator: authorship and order effects",
+      "fetched_at": "2026-04-25T18:34:59.368716+00:00"
+    },
+    "785b4d341935facc": {
+      "title": "AI Is Cannibalizing Human Intelligence",
+      "fetched_at": "2026-04-25T18:34:59.925488+00:00"
+    },
+    "b93ee2b63abdabe3": {
+      "title": "Doctors and education experts call for a 5-year AI moratorium in schools",
+      "fetched_at": "2026-04-25T18:35:00.485453+00:00"
+    },
+    "dac9ac2fe441a6fa": {
+      "title": "Utah Medical Board urges immediate halt of Doctronic AI prescribing algorithm [pdf]",
+      "fetched_at": "2026-04-25T18:35:01.044768+00:00"
+    },
+    "094dc614fd8e625a": {
+      "title": "North Carolina student fights accusation of AI use",
+      "fetched_at": "2026-04-25T18:35:01.615921+00:00"
+    },
+    "94d18200b8b60c2a": {
+      "title": "The Trump administration wants to open precious East Coast forests to logging and mining",
+      "fetched_at": "2026-04-25T18:35:05.958599+00:00"
+    },
+    "b31d573330555f82": {
+      "title": "'Eventually, it becomes you': Inventors of new 'living' knee replacement describe why this tech is desperately needed and how it works",
+      "fetched_at": "2026-04-25T18:35:06.515395+00:00"
+    },
+    "df5010d8ef2af311": {
+      "title": "'The push towards renewables is unstoppable because it's in a country's self-interest': Climate scientist Andy Reisinger on Trump, Iran, and the future of Earth",
+      "fetched_at": "2026-04-25T18:35:07.159203+00:00"
+    },
+    "3f3435423612cc84": {
+      "title": "Scientists just discovered Africa is closer to breaking apart than we thought",
+      "fetched_at": "2026-04-25T18:35:07.942977+00:00"
+    },
+    "10ccdb990721ec93": {
+      "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
+      "fetched_at": "2026-04-25T18:35:08.507076+00:00"
+    },
+    "d6d9af1c526f3e7a": {
+      "title": "This exotic particle could finally explain why matter has mass",
+      "fetched_at": "2026-04-25T18:35:09.074600+00:00"
+    },
+    "785691f64e05d1c4": {
+      "title": "Gravitational waves may have created dark matter in the early universe",
+      "fetched_at": "2026-04-25T18:35:09.635382+00:00"
+    },
+    "13bf4503ddc3f8fe": {
+      "title": "Giant octopuses may have ruled the oceans 100 million years ago",
+      "fetched_at": "2026-04-25T18:35:10.194173+00:00"
+    },
+    "046f0d81b90b9fbf": {
+      "title": "Giant prehistoric insects didn’t need high oxygen after all, study finds",
+      "fetched_at": "2026-04-25T18:35:10.752819+00:00"
+    },
+    "412c0d23f8c2ff3c": {
+      "title": "Scientists just found what keeps plant cells from growing out of control",
+      "fetched_at": "2026-04-25T18:35:11.309857+00:00"
+    },
+    "e8f284288a1540ed": {
+      "title": "NASA scientist says a mysterious \"fifth force\" may be hiding in our solar system",
+      "fetched_at": "2026-04-25T18:35:11.905932+00:00"
     }
   },
-  "last_updated": "2026-04-25T12:38:25.110364+00:00"
+  "last_updated": "2026-04-25T18:35:12.043737+00:00"
 }
