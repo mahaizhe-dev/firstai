@@ -1,97 +1,5 @@
 {
   "articles": {
-    "e6503f7f74b63070": {
-      "title": "SemanticForge: Making AI Values Verifiable Across Cultures",
-      "fetched_at": "2026-04-18T12:36:49.526298+00:00"
-    },
-    "fc76c9b7d333bc22": {
-      "title": "Show HN: ApplyPilot – Self-Hosted AI-Powered Job Search Companion. Open Source",
-      "fetched_at": "2026-04-18T12:36:50.146358+00:00"
-    },
-    "4c3a8731071ec9f3": {
-      "title": "GPT‑2: 1.5B release (2019)",
-      "fetched_at": "2026-04-18T12:36:50.838740+00:00"
-    },
-    "25b6b543d661fc5b": {
-      "title": "AI Is Finding More Bugs Than Open-Source Teams Can Fight Off",
-      "fetched_at": "2026-04-18T12:36:51.625564+00:00"
-    },
-    "f20f625110eb4803": {
-      "title": "Show HN: Ricci Flow – AI Web Scraper",
-      "fetched_at": "2026-04-18T12:36:52.458174+00:00"
-    },
-    "68b59825cd52b69c": {
-      "title": "Who Uses AI Agents (and Who Just Runs the Demo)",
-      "fetched_at": "2026-04-18T12:36:53.098740+00:00"
-    },
-    "dd41c728d1580185": {
-      "title": "Atlassian's new data collection policy protects rich customers, AI eats the rest",
-      "fetched_at": "2026-04-18T12:36:53.703679+00:00"
-    },
-    "052a4bfbd9074831": {
-      "title": "Venice AI – private and unbiased AI",
-      "fetched_at": "2026-04-18T12:36:54.340824+00:00"
-    },
-    "05500b9ddcdf1471": {
-      "title": "A new study found that AI has a higher impact in the home than in the office",
-      "fetched_at": "2026-04-18T12:36:54.940039+00:00"
-    },
-    "df5971210e7efe63": {
-      "title": "Productivity gains with an AI-based IDE at Google",
-      "fetched_at": "2026-04-18T12:36:55.593250+00:00"
-    },
-    "cdd170f7eba16c75": {
-      "title": "My AI thinks civics is black studies",
-      "fetched_at": "2026-04-18T12:36:56.219710+00:00"
-    },
-    "3f7200d2356d3af7": {
-      "title": "To Beat China, Embrace Open-Source AI",
-      "fetched_at": "2026-04-18T12:36:56.840861+00:00"
-    },
-    "c83858ac769e6b1e": {
-      "title": "An Electronic Conversationalist (and the Machine Replied...) (1962)",
-      "fetched_at": "2026-04-18T12:36:57.445288+00:00"
-    },
-    "fbb9655781930824": {
-      "title": "高德动量机器人官宣将首次亮相亦庄机器人马拉松",
-      "fetched_at": "2026-04-18T12:36:58.057129+00:00"
-    },
-    "41085c662c5bb914": {
-      "title": "Shadow AI in Government Advisory Roles Has No Disclosure Requirement",
-      "fetched_at": "2026-04-18T12:36:58.742647+00:00"
-    },
-    "82dd0ef701b8f0b8": {
-      "title": "老外抢着当张雪机车代理，张雪机车全球订单狂飙",
-      "fetched_at": "2026-04-18T12:36:59.354355+00:00"
-    },
-    "043939cfba396e97": {
-      "title": "美计划用 “猎鹰重型”火箭发射欧航局火星车",
-      "fetched_at": "2026-04-18T12:36:59.996469+00:00"
-    },
-    "5fd84b1a4a2dd661": {
-      "title": "海康威视增利不增收：去年净利同比增长近两成，创新业务贡献继续提升",
-      "fetched_at": "2026-04-18T12:37:00.647268+00:00"
-    },
-    "b2a1bb455fce2d93": {
-      "title": "蔚来回应ES9仍用隐藏式门把手：完全合规",
-      "fetched_at": "2026-04-18T12:37:01.394162+00:00"
-    },
-    "531fb838112ade44": {
-      "title": "国际海事组织：约有2万海员被困波斯湾",
-      "fetched_at": "2026-04-18T12:37:01.993311+00:00"
-    },
-    "0b19a991478ef207": {
-      "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
-      "fetched_at": "2026-04-18T12:37:04.792535+00:00"
-    },
-    "1d8d4dd33b3ff904": {
-      "title": "Science news this week: Physicists witness faster-than-light darkness pinpricks, humans are still evolving, and some polar bears are getting fatter than ever",
-      "fetched_at": "2026-04-18T12:37:07.873712+00:00"
-    },
-    "496d15586402e4de": {
-      "title": "Did King Arthur really exist?",
-      "fetched_at": "2026-04-18T12:37:08.766850+00:00"
-    },
     "c6acd1a7bb22912c": {
       "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
       "fetched_at": "2026-04-18T18:32:05.247231+00:00"
@@ -3747,7 +3655,111 @@
     "0f877a5fcebd3343": {
       "title": "Aggressive “hulk” lizards are wiping out millions of years of evolution",
       "fetched_at": "2026-04-26T07:15:59.216840+00:00"
+    },
+    "f149b6447afc214b": {
+      "title": "EsoBench: Learning a Novel Esolang via Iterative Execution Feedback",
+      "fetched_at": "2026-04-26T12:39:39.360973+00:00"
+    },
+    "4431a3a0e8fe40cc": {
+      "title": "Show HN: Ctxbrew – Ship and Use LLM-friendly library context",
+      "fetched_at": "2026-04-26T12:39:39.925345+00:00"
+    },
+    "0f3f80b7cdb5fda5": {
+      "title": "Is it worth parallelizing your GitLab/GitHub pipeline? (Not yet another AI post)",
+      "fetched_at": "2026-04-26T12:39:40.493206+00:00"
+    },
+    "d2376219babc75c7": {
+      "title": "My site \"Works on My Machine\" didn't work on my machine for two days",
+      "fetched_at": "2026-04-26T12:39:41.060087+00:00"
+    },
+    "9d94a58183e0c30e": {
+      "title": "I stopped building onboarding and built AI infrastructure instead",
+      "fetched_at": "2026-04-26T12:39:41.637917+00:00"
+    },
+    "a5720badf42981ae": {
+      "title": ". LLMs Can't Count: A Hallucination Taxonomy Across GPT, Gemini, and Claude",
+      "fetched_at": "2026-04-26T12:39:42.203927+00:00"
+    },
+    "191bba5978dc0e0a": {
+      "title": "WAB Web Agent Bridge -An Open-Source OS for AI Agents",
+      "fetched_at": "2026-04-26T12:39:42.817300+00:00"
+    },
+    "eaaf7e98b92cc2ff": {
+      "title": "Chat GPT wrote your code, what else is missing?",
+      "fetched_at": "2026-04-26T12:39:43.386774+00:00"
+    },
+    "5eb6fda7c9ccc96d": {
+      "title": "AI, Vikings and Magic Swords",
+      "fetched_at": "2026-04-26T12:39:43.960903+00:00"
+    },
+    "19feb5441a73bb18": {
+      "title": "Vacant House Shark: A B-movie created with AI featuring sharks and kung fu [video]",
+      "fetched_at": "2026-04-26T12:39:44.524379+00:00"
+    },
+    "e99a71c43a505298": {
+      "title": "ST西发：法院裁定受理重整 股票将被实施退市风险警示",
+      "fetched_at": "2026-04-26T12:39:45.220876+00:00"
+    },
+    "4e66e7113fe4a205": {
+      "title": "Could creativy in LLM emerge by reframing language?",
+      "fetched_at": "2026-04-26T12:39:45.790258+00:00"
+    },
+    "494b4f50cff8b2b5": {
+      "title": "矽电股份：与兆驰股份子公司签署3.35亿元Mini/MicroLED测试分选设备合同",
+      "fetched_at": "2026-04-26T12:39:46.362449+00:00"
+    },
+    "1dcc424304fced25": {
+      "title": "Thinking Outside the Box: New Attack Surfaces in Sandboxed AI Agents",
+      "fetched_at": "2026-04-26T12:39:46.935370+00:00"
+    },
+    "38b4c9daa6a738ff": {
+      "title": "Singapore's Foreign Minister Builds an AI \"Second Brain\" Using NanoClaw",
+      "fetched_at": "2026-04-26T12:39:47.502234+00:00"
+    },
+    "74623fbdd1a202ae": {
+      "title": "安波福发布“中国定义”核心战略",
+      "fetched_at": "2026-04-26T12:39:48.067061+00:00"
+    },
+    "fe8b1b9fd671ff8e": {
+      "title": "75% of US health systems are using AI. Only 18% of that deployment is governed",
+      "fetched_at": "2026-04-26T12:39:48.670240+00:00"
+    },
+    "41b050717e8c5c40": {
+      "title": "中信尼雅：股票可能被实施退市风险警示",
+      "fetched_at": "2026-04-26T12:39:49.233396+00:00"
+    },
+    "39f31ef9ab410cbd": {
+      "title": "巨人网络��2025年营收超50亿元，同比增长72.69%",
+      "fetched_at": "2026-04-26T12:39:49.798812+00:00"
+    },
+    "079c2d0234341593": {
+      "title": "Will AI Drive Wages Down or Up? [video]",
+      "fetched_at": "2026-04-26T12:39:50.478602+00:00"
+    },
+    "a406d726259f8e33": {
+      "title": "Astronomers just mapped one of the largest structures in the universe, long hidden behind the Milky Way's 'Zone of Avoidance'",
+      "fetched_at": "2026-04-26T12:39:54.687667+00:00"
+    },
+    "5016334502968c35": {
+      "title": "System over Model: Zero-Day Discovery at the Jagged Frontier",
+      "fetched_at": "2026-04-26T12:39:55.256326+00:00"
+    },
+    "d0f385339b891d74": {
+      "title": "Hubble revisits stunning Trifid Nebula after 30 years, and spots a growing jet of energy — Space photo of the week",
+      "fetched_at": "2026-04-26T12:39:55.830013+00:00"
+    },
+    "509fe1e63f9366b3": {
+      "title": "Why do cats and dogs shake their heads?",
+      "fetched_at": "2026-04-26T12:39:56.565789+00:00"
+    },
+    "d4ae3119c58c01d9": {
+      "title": "Blood vessels found in T. rex bones are rewriting dinosaur science",
+      "fetched_at": "2026-04-26T12:39:57.215720+00:00"
+    },
+    "f5bfe7c0bc85bd58": {
+      "title": "DNA research just rewrote the origin of human species",
+      "fetched_at": "2026-04-26T12:39:57.778696+00:00"
     }
   },
-  "last_updated": "2026-04-26T07:15:59.353948+00:00"
+  "last_updated": "2026-04-26T12:39:57.918419+00:00"
 }
