@@ -1,121 +1,5 @@
 {
   "articles": {
-    "c6acd1a7bb22912c": {
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "fetched_at": "2026-04-18T18:32:05.247231+00:00"
-    },
-    "95df8d325eb7a11a": {
-      "title": "The App Store is booming again, and AI may be why",
-      "fetched_at": "2026-04-18T18:32:05.989193+00:00"
-    },
-    "00308ee24137d512": {
-      "title": "亚洲开发银行行长：货币和财政纪律是抵御重大外部冲击的最佳缓冲",
-      "fetched_at": "2026-04-18T18:32:06.663532+00:00"
-    },
-    "6280f43b71142a10": {
-      "title": "海航控股去年净利19.8亿元扭亏为盈，四家子公司实现盈利",
-      "fetched_at": "2026-04-18T18:32:07.277766+00:00"
-    },
-    "be5e263570a8272b": {
-      "title": "美国能源部将释放第三批战略石油储备",
-      "fetched_at": "2026-04-18T18:32:07.966961+00:00"
-    },
-    "a3fd2c07eea75d2d": {
-      "title": "我国首座海上移动式多功能措施平台“增产一号”交付",
-      "fetched_at": "2026-04-18T18:32:08.751169+00:00"
-    },
-    "15b13f2048f68be9": {
-      "title": "你好，我是一名「火腿」",
-      "fetched_at": "2026-04-18T18:32:09.524935+00:00"
-    },
-    "514d2604c9219304": {
-      "title": "智元机器人，要做AI大模型平台和开放生态",
-      "fetched_at": "2026-04-18T18:32:10.167935+00:00"
-    },
-    "c47aacbc76db6354": {
-      "title": "OpenAI’s former Sora boss is leaving",
-      "fetched_at": "2026-04-18T18:32:10.789700+00:00"
-    },
-    "9b88e472e985c181": {
-      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
-      "fetched_at": "2026-04-18T18:32:11.403318+00:00"
-    },
-    "cfffe578df87d17c": {
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "fetched_at": "2026-04-18T18:32:12.043220+00:00"
-    },
-    "edc169bf5fdb5d4f": {
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "fetched_at": "2026-04-18T18:32:12.664713+00:00"
-    },
-    "14bfb613e27530a3": {
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "fetched_at": "2026-04-18T18:32:13.460468+00:00"
-    },
-    "5d5a4e894bb5701c": {
-      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-      "fetched_at": "2026-04-18T18:32:14.089653+00:00"
-    },
-    "2485032a0b199523": {
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "fetched_at": "2026-04-18T18:32:14.789385+00:00"
-    },
-    "0307a980f50a4221": {
-      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-      "fetched_at": "2026-04-18T18:32:15.513171+00:00"
-    },
-    "434ac8a87dea9d69": {
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "fetched_at": "2026-04-18T18:32:16.131465+00:00"
-    },
-    "8c445e0727133acc": {
-      "title": "The ‘AI is inevitable’ trap",
-      "fetched_at": "2026-04-18T18:32:16.839135+00:00"
-    },
-    "1515a3eec98adb17": {
-      "title": "Are we tokenmaxxing our way to nowhere?",
-      "fetched_at": "2026-04-18T18:32:17.452474+00:00"
-    },
-    "bfd43b9339145a1a": {
-      "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
-      "fetched_at": "2026-04-18T18:32:18.084489+00:00"
-    },
-    "f97d0dbfcf0b49c5": {
-      "title": "美國在伊朗的戰爭目標實現了嗎？",
-      "fetched_at": "2026-04-18T18:32:20.609464+00:00"
-    },
-    "65c76480569d5ac0": {
-      "title": "中國人形機器人之夢：當熱度退潮，留下的是泡沫還是繁榮？",
-      "fetched_at": "2026-04-18T18:32:21.232441+00:00"
-    },
-    "d037e9c50a839ebc": {
-      "title": "700-year-old mummy from Bolivia contains earliest confirmed evidence of strep throat bacteria in the Americas",
-      "fetched_at": "2026-04-18T18:32:22.754020+00:00"
-    },
-    "583a86d26c7454c1": {
-      "title": "New pain-relief opioid could be much less addictive than morphine, rodent study finds",
-      "fetched_at": "2026-04-18T18:32:23.380180+00:00"
-    },
-    "dbbebc0dc146f81d": {
-      "title": "Experimental drug doubles one-year survival in pancreatic cancer",
-      "fetched_at": "2026-04-18T18:32:24.056722+00:00"
-    },
-    "c614acf9e5897531": {
-      "title": "Black hole jets measured for first time and rival the power of 10,000 suns",
-      "fetched_at": "2026-04-18T18:32:24.684277+00:00"
-    },
-    "caf4795deeb62266": {
-      "title": "What caffeine does to ants could change pest control",
-      "fetched_at": "2026-04-18T18:32:25.314876+00:00"
-    },
-    "75e800472228dcb5": {
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "fetched_at": "2026-04-18T18:32:25.946287+00:00"
-    },
-    "081e8c74110fa37c": {
-      "title": "Total solar eclipse led to seismic quiet for cities within its path",
-      "fetched_at": "2026-04-18T18:32:26.568693+00:00"
-    },
     "01e2c24d542435e2": {
       "title": "“闪电”完成2026人形机器人半马",
       "fetched_at": "2026-04-19T01:27:16.737564+00:00"
@@ -3759,7 +3643,107 @@
     "f5bfe7c0bc85bd58": {
       "title": "DNA research just rewrote the origin of human species",
       "fetched_at": "2026-04-26T12:39:57.778696+00:00"
+    },
+    "527ef1d96878ee3f": {
+      "title": "Can your AI solve this? Be honest",
+      "fetched_at": "2026-04-26T18:35:49.418474+00:00"
+    },
+    "30253da82c83ac48": {
+      "title": "Ask HN: How do you use AI at your regulated, restrictive company?",
+      "fetched_at": "2026-04-26T18:35:50.082757+00:00"
+    },
+    "f225099d32963d18": {
+      "title": "Self-Learning Master's Curriculum for AI",
+      "fetched_at": "2026-04-26T18:35:50.730252+00:00"
+    },
+    "95d8d6fc6ed599d9": {
+      "title": "WordPress AI Features Are Coming. Nobody Is Talking About Cost for Your Users",
+      "fetched_at": "2026-04-26T18:35:51.349626+00:00"
+    },
+    "491a7ef40bce7b9e": {
+      "title": "U.S. Treasury Investors' Bet on AI",
+      "fetched_at": "2026-04-26T18:35:51.973095+00:00"
+    },
+    "817fab271629bc28": {
+      "title": "Generative AI and Entrepreneurship∗ [pdf]",
+      "fetched_at": "2026-04-26T18:35:52.604759+00:00"
+    },
+    "8797ec331a3c5e9f": {
+      "title": "Does AI still feel like too much work to you?",
+      "fetched_at": "2026-04-26T18:35:53.237552+00:00"
+    },
+    "13b36c7c5a7c771e": {
+      "title": "AI made writing code fast. Understanding it is still slow",
+      "fetched_at": "2026-04-26T18:35:53.946671+00:00"
+    },
+    "bddb0787a0b2325e": {
+      "title": "The disappearing AI middle class",
+      "fetched_at": "2026-04-26T18:35:54.637515+00:00"
+    },
+    "bd133a0ed069eed1": {
+      "title": "AI doom warnings are getting louder. Are they realistic?",
+      "fetched_at": "2026-04-26T18:35:55.266552+00:00"
+    },
+    "4af67dccf5234f45": {
+      "title": "Namastex.ai NPM Packages Hit with TeamPCP-Style CanisterWorm Malware",
+      "fetched_at": "2026-04-26T18:35:55.936803+00:00"
+    },
+    "85ed1e5d05cfb06c": {
+      "title": "Show HN: Parlor Jarvis – Realtime AI (audio+screen in, voice out) & multilingual",
+      "fetched_at": "2026-04-26T18:35:56.556764+00:00"
+    },
+    "4996b3caf17bfab4": {
+      "title": "GPT cannot even count beans correctly",
+      "fetched_at": "2026-04-26T18:35:57.188530+00:00"
+    },
+    "bf57077bf41471c9": {
+      "title": "Proposed New Test of AI Capabilities:)",
+      "fetched_at": "2026-04-26T18:35:57.936153+00:00"
+    },
+    "88532edca8b88ba2": {
+      "title": "Seemingly Conscious AI Risks",
+      "fetched_at": "2026-04-26T18:35:58.563104+00:00"
+    },
+    "8f06589f5ff36812": {
+      "title": "I scanned 1M domains and found the web's AI instruction layer",
+      "fetched_at": "2026-04-26T18:35:59.191879+00:00"
+    },
+    "8c724238e0b60fa2": {
+      "title": "Invincat – terminal AI coding agent with tiered, auditable long-term memory",
+      "fetched_at": "2026-04-26T18:35:59.829028+00:00"
+    },
+    "91d9420fa1d185f0": {
+      "title": "AI Reverses the Political Logic of the Internet",
+      "fetched_at": "2026-04-26T18:36:00.447705+00:00"
+    },
+    "0f83c7a59bd8b82f": {
+      "title": "LLM Anxiety",
+      "fetched_at": "2026-04-26T18:36:01.071929+00:00"
+    },
+    "a58060bf18818d1b": {
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "fetched_at": "2026-04-26T18:36:01.684230+00:00"
+    },
+    "996a8b8e1044bdc4": {
+      "title": "从反体制先锋到中共吉祥物：鲁迅被谁磨平了棱角？",
+      "fetched_at": "2026-04-26T18:36:34.788992+00:00"
+    },
+    "0b19a991478ef207": {
+      "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
+      "fetched_at": "2026-04-26T18:36:35.415330+00:00"
+    },
+    "0ee3efa36fc67555": {
+      "title": "Antarctica's sea ice suddenly started shrinking a decade ago — and deep-diving robots are revealing why",
+      "fetched_at": "2026-04-26T18:36:52.044151+00:00"
+    },
+    "17e2d3667335d33b": {
+      "title": "How likely are you to find a message in a bottle?",
+      "fetched_at": "2026-04-26T18:36:52.663096+00:00"
+    },
+    "1dc05779753eaa14": {
+      "title": "Mezcal worm in a bottle DNA test reveals a surprise",
+      "fetched_at": "2026-04-26T18:36:53.279255+00:00"
     }
   },
-  "last_updated": "2026-04-26T12:39:57.918419+00:00"
+  "last_updated": "2026-04-26T18:36:53.383762+00:00"
 }
