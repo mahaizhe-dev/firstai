@@ -1,101 +1,5 @@
 {
   "articles": {
-    "05704a70d03d2e0c": {
-      "title": "Show HN: PrivaKit – A zero-upload AI workspace in the browser via WebGPU",
-      "fetched_at": "2026-04-18T06:55:32.893995+00:00"
-    },
-    "1a707ebb310bf5ed": {
-      "title": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
-      "fetched_at": "2026-04-18T06:55:33.509945+00:00"
-    },
-    "62046287bf8924eb": {
-      "title": "Study: The Logic Behind AI's Judgments of People",
-      "fetched_at": "2026-04-18T06:55:34.160915+00:00"
-    },
-    "1ae6ce4656a45d3d": {
-      "title": "Zuckerberg Is Dangerously Close to Cracking Google's Money Machine",
-      "fetched_at": "2026-04-18T06:55:34.766961+00:00"
-    },
-    "92b002c6dbd6b893": {
-      "title": "Many anti-AI arguments are conservative arguments",
-      "fetched_at": "2026-04-18T06:55:35.384798+00:00"
-    },
-    "f3df1a3c139ced93": {
-      "title": "京东回应被处罚：全面接受并坚决拥护监管要求，保障食品安全和品质",
-      "fetched_at": "2026-04-18T06:55:36.048652+00:00"
-    },
-    "9fecb53228821122": {
-      "title": "Meta计划于5月20日启动今年首轮大规模裁员",
-      "fetched_at": "2026-04-18T06:55:36.645996+00:00"
-    },
-    "fd094416e02f8233": {
-      "title": "迈瑞医疗：2026年利润率预计会有小幅下降，但下降幅度将显著收窄",
-      "fetched_at": "2026-04-18T06:55:37.249804+00:00"
-    },
-    "73c34d82e25837ff": {
-      "title": "绿城水务董事长黄东海被立案调查，公司称经营不受重大影响",
-      "fetched_at": "2026-04-18T06:55:37.927346+00:00"
-    },
-    "52b53f397bef5484": {
-      "title": "The Digital Ouija Effect – Emergent Behavior in AI Models",
-      "fetched_at": "2026-04-18T06:55:38.547391+00:00"
-    },
-    "95924120b12549d9": {
-      "title": "国内首台，10MeV超紧凑医用回旋加速器研制成功",
-      "fetched_at": "2026-04-18T06:55:39.224126+00:00"
-    },
-    "68dbe4c1809db6e8": {
-      "title": "伯克希尔CEO阿贝尔出售前投资组合经理库姆斯管理的股票",
-      "fetched_at": "2026-04-18T06:55:39.953661+00:00"
-    },
-    "49baa42db1d8c260": {
-      "title": "Google Told to Share Search Data with AI Rivals in EU Proposal",
-      "fetched_at": "2026-04-18T06:55:40.553797+00:00"
-    },
-    "c10692712d622082": {
-      "title": "中信证券：看好激光器芯片龙头公司未来发展潜力",
-      "fetched_at": "2026-04-18T06:55:41.160014+00:00"
-    },
-    "4959638e24aa5a6d": {
-      "title": "智元稚晖君谈特斯拉：相比于我们有点落后 先阶段性享受领跑快乐",
-      "fetched_at": "2026-04-18T06:55:41.876892+00:00"
-    },
-    "c50b1014f994766d": {
-      "title": "上海航交所：沿海散货综合运价指数止跌回稳",
-      "fetched_at": "2026-04-18T06:55:42.504484+00:00"
-    },
-    "7232ad724f26be66": {
-      "title": "LLM wiki daemon with per-wiki filesystem isolation",
-      "fetched_at": "2026-04-18T06:55:43.144241+00:00"
-    },
-    "b211ea6cffad8f3f": {
-      "title": "FF：获4500万美元新融资",
-      "fetched_at": "2026-04-18T06:55:43.916737+00:00"
-    },
-    "55731aa868d57962": {
-      "title": "猪价有望逐步企稳回升 全年或将呈现“前低后高、窄幅波动”特征",
-      "fetched_at": "2026-04-18T06:55:44.517852+00:00"
-    },
-    "eb16460aead7ab57": {
-      "title": "马斯克：从物理学第一原理出发，重新设计了锂提炼工艺",
-      "fetched_at": "2026-04-18T06:55:45.168767+00:00"
-    },
-    "e451e4475f80a989": {
-      "title": "Science history: Doctor autopsies the brain of a man who couldn't speak — and reveals the seat of spoken language — April 18, 1861",
-      "fetched_at": "2026-04-18T06:55:49.595668+00:00"
-    },
-    "0f32d9d908bcdec9": {
-      "title": "Scientists just found a hidden “drain” inside the human brain",
-      "fetched_at": "2026-04-18T06:55:50.305074+00:00"
-    },
-    "fa8bd5163db61ba1": {
-      "title": "Your brain can trick you into liking artificial sweeteners",
-      "fetched_at": "2026-04-18T06:55:50.910123+00:00"
-    },
-    "490229cfb6c92591": {
-      "title": "Brain study reveals hidden link between autism and ADHD",
-      "fetched_at": "2026-04-18T06:55:51.571619+00:00"
-    },
     "e6503f7f74b63070": {
       "title": "SemanticForge: Making AI Values Verifiable Across Cultures",
       "fetched_at": "2026-04-18T12:36:49.526298+00:00"
@@ -3731,7 +3635,119 @@
     "1a5a1a60fae27930": {
       "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
       "fetched_at": "2026-04-26T01:30:23.200236+00:00"
+    },
+    "3e78c8f2d3f37f9f": {
+      "title": "陈茂波：今年以来香港新股集资额继续位列全球首位",
+      "fetched_at": "2026-04-26T07:15:38.902975+00:00"
+    },
+    "36ee3afe3405a1e2": {
+      "title": "Airprompt – SSH into your Mac from your phone for AI agent prompts",
+      "fetched_at": "2026-04-26T07:15:39.509148+00:00"
+    },
+    "8896dbea516ca8ce": {
+      "title": "Blueprint: AI Hardware Design",
+      "fetched_at": "2026-04-26T07:15:40.104975+00:00"
+    },
+    "e84108bd0a5911c5": {
+      "title": "The reporters at this news site are AI bots. OpenAI's super PAC is funding it",
+      "fetched_at": "2026-04-26T07:15:40.830484+00:00"
+    },
+    "35523f79dd844a21": {
+      "title": "乘联分会崔东树：1-3月中国汽车进口10万辆，同比增3%",
+      "fetched_at": "2026-04-26T07:15:41.487789+00:00"
+    },
+    "d4c2ea3e9e4bc636": {
+      "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+      "fetched_at": "2026-04-26T07:15:42.140581+00:00"
+    },
+    "80c8dcd96f5e45f2": {
+      "title": "去年全国大型演唱会票房295.58亿",
+      "fetched_at": "2026-04-26T07:15:42.741179+00:00"
+    },
+    "a847fe4916d57c7d": {
+      "title": "Show HN: Implit – Catch fake AI-generated dependencies",
+      "fetched_at": "2026-04-26T07:15:43.423667+00:00"
+    },
+    "339bc54792096bff": {
+      "title": "申万宏源：市场超跌反弹后震荡休整或将延续，二季度关注5月关键事件验证",
+      "fetched_at": "2026-04-26T07:15:44.024323+00:00"
+    },
+    "4c38272f10a8fd73": {
+      "title": "京东启动AI硬件孵化计划",
+      "fetched_at": "2026-04-26T07:15:44.626272+00:00"
+    },
+    "50e770d22796bde8": {
+      "title": "Stt.ai MCP Server",
+      "fetched_at": "2026-04-26T07:15:45.226585+00:00"
+    },
+    "ba276803ca15a592": {
+      "title": "长三角海铁联运提前14天突破百万标箱，同比增长11.3%",
+      "fetched_at": "2026-04-26T07:15:45.829592+00:00"
+    },
+    "f4b9dd94012278cd": {
+      "title": "国信证券：结构上结合行业拥挤度均衡配置，重视科技成长主线、战略资源、以及白酒地产",
+      "fetched_at": "2026-04-26T07:15:46.429653+00:00"
+    },
+    "275d9b27401fea65": {
+      "title": "I asked my local LLM to add 23 numbers and got seven wrong answers",
+      "fetched_at": "2026-04-26T07:15:47.020430+00:00"
+    },
+    "36251e1bfff1de11": {
+      "title": "Show HN: Track official AI company news and blogs in your Chrome side panel",
+      "fetched_at": "2026-04-26T07:15:47.628613+00:00"
+    },
+    "6d5bff7c719d7fe1": {
+      "title": "申万宏源：一季度公募持仓聚焦科技硬件，增配能源安全产业链",
+      "fetched_at": "2026-04-26T07:15:48.228906+00:00"
+    },
+    "50cf8ede96c881d4": {
+      "title": "中国长安汽车发布“海纳百川”计划2.0",
+      "fetched_at": "2026-04-26T07:15:48.823244+00:00"
+    },
+    "488e2972dad2b65d": {
+      "title": "Dataland, the first museum of AI arts, sets opening date and first exhibition",
+      "fetched_at": "2026-04-26T07:15:49.423235+00:00"
+    },
+    "6d5e4e4837552a27": {
+      "title": "美国太空军披露“金穹”合同细节：SpaceX、安杜里尔等12家公司获32亿美元订单",
+      "fetched_at": "2026-04-26T07:15:50.084198+00:00"
+    },
+    "c1569cb09e3cd9ee": {
+      "title": "破解行李中转难题 民航新版指南明确全新保障模式",
+      "fetched_at": "2026-04-26T07:15:50.690453+00:00"
+    },
+    "e756d8462b9f066a": {
+      "title": "圖輯：華盛頓宴會廳驟響槍聲，晚宴現場陷入混亂",
+      "fetched_at": "2026-04-26T07:15:53.537183+00:00"
+    },
+    "939c408688d5eeef": {
+      "title": "白宮記者晚宴槍擊案：31歲男子被捕、特勤人員中彈——我們還知道什麼？",
+      "fetched_at": "2026-04-26T07:15:54.247579+00:00"
+    },
+    "f557306d886ed2eb": {
+      "title": "BBC記者親歷槍擊現場——當槍聲響起時，宴會廳裡的情景是怎麼樣的？",
+      "fetched_at": "2026-04-26T07:15:54.846713+00:00"
+    },
+    "4a37978cd59a5999": {
+      "title": "伊朗戰爭：特朗普取消美國特使赴巴基斯坦會談行程",
+      "fetched_at": "2026-04-26T07:15:55.451896+00:00"
+    },
+    "7b274f4189cf2476": {
+      "title": "中國車企比亞迪：沒有美國市場，亦能蓬勃發展",
+      "fetched_at": "2026-04-26T07:15:56.141882+00:00"
+    },
+    "37cd3a7e1fc92623": {
+      "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
+      "fetched_at": "2026-04-26T07:15:58.012281+00:00"
+    },
+    "071e5b68fbe4a2ce": {
+      "title": "Fish oil may be hurting your brain, new study finds",
+      "fetched_at": "2026-04-26T07:15:58.617831+00:00"
+    },
+    "0f877a5fcebd3343": {
+      "title": "Aggressive “hulk” lizards are wiping out millions of years of evolution",
+      "fetched_at": "2026-04-26T07:15:59.216840+00:00"
     }
   },
-  "last_updated": "2026-04-26T01:30:23.338303+00:00"
+  "last_updated": "2026-04-26T07:15:59.353948+00:00"
 }
