@@ -1,105 +1,5 @@
 {
   "articles": {
-    "afc648ea134304a5": {
-      "title": "联翔股份：预计2025年净亏损1080万元至1550万元 公司股票可能在年报披露后被实施退市风险警示",
-      "fetched_at": "2026-04-19T12:35:54.055556+00:00"
-    },
-    "76be6896925b6d86": {
-      "title": "东方环宇：2025年归母净利润同比增长9.43%，拟10派9元",
-      "fetched_at": "2026-04-19T12:35:54.638342+00:00"
-    },
-    "b4d02588be771551": {
-      "title": "力源信息：第一季度净利润同比增长241%",
-      "fetched_at": "2026-04-19T12:35:55.380583+00:00"
-    },
-    "7f43cdaef11efcec": {
-      "title": "万达电影：4月20日起证券简称变更为“儒意电影”",
-      "fetched_at": "2026-04-19T12:35:55.962517+00:00"
-    },
-    "65151808940ccaf4": {
-      "title": "天迈科技：筹划收购芬能自动化100%股权 预计构成重大资产重组明起停牌",
-      "fetched_at": "2026-04-19T12:35:56.556823+00:00"
-    },
-    "67dbdaa165c211ca": {
-      "title": "科氪 | 荣耀齐天大圣队机器人“闪电”夺冠 领跑2026亦庄人形机器人马拉松赛场",
-      "fetched_at": "2026-04-19T12:35:57.176155+00:00"
-    },
-    "e107df419a7374a9": {
-      "title": "东方证券：拟收购上海证券100%股权，4月20日起停牌",
-      "fetched_at": "2026-04-19T12:35:57.834352+00:00"
-    },
-    "3c33217d16f09826": {
-      "title": "匠心家居：持续关注美国相关税收及退税政策，目前具体适用情况及对公司的实际影响仍存在不确定性",
-      "fetched_at": "2026-04-19T12:35:58.554661+00:00"
-    },
-    "432c2dcf04c2f988": {
-      "title": "特斯拉将自动驾驶出租车服务扩展至达拉斯和休斯顿",
-      "fetched_at": "2026-04-19T12:35:59.191109+00:00"
-    },
-    "35c4230724fff097": {
-      "title": "AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题",
-      "fetched_at": "2026-04-19T12:35:59.784682+00:00"
-    },
-    "2297679a4551a0a7": {
-      "title": "北京产权交易所去年交易规模超10万亿元",
-      "fetched_at": "2026-04-19T12:36:00.376203+00:00"
-    },
-    "2628a956f880e65a": {
-      "title": "36氪首发 | 前华为工程师创业，实现临时键合载板存量循环，龙头客户已验证",
-      "fetched_at": "2026-04-19T12:36:00.976487+00:00"
-    },
-    "bb4ec41c0e62c5a1": {
-      "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
-      "fetched_at": "2026-04-19T12:36:01.579729+00:00"
-    },
-    "0f6489d1085b30f3": {
-      "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
-      "fetched_at": "2026-04-19T12:36:02.181367+00:00"
-    },
-    "bc31edb1adbbb83d": {
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "fetched_at": "2026-04-19T12:36:02.968523+00:00"
-    },
-    "2b130b7621bf52d9": {
-      "title": "求购长征火箭老股份额；求购多家机器人公司老股份额｜资情留言板第182期",
-      "fetched_at": "2026-04-19T12:36:03.563810+00:00"
-    },
-    "1cd11c525ec46900": {
-      "title": "「日清」换高周转，钱大妈筑牢生鲜护城河",
-      "fetched_at": "2026-04-19T12:36:04.163335+00:00"
-    },
-    "caa1030768f3e8fb": {
-      "title": "科氪 | 享刻智能：不追人形机器人，深耕餐饮场景做具身智能落地派",
-      "fetched_at": "2026-04-19T12:36:04.777754+00:00"
-    },
-    "cb058a1f4ea08a1e": {
-      "title": "TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验",
-      "fetched_at": "2026-04-19T12:36:05.371670+00:00"
-    },
-    "e553d8f60a23f705": {
-      "title": "来一杯不翻车的自信：手冲咖啡入门指北",
-      "fetched_at": "2026-04-19T12:36:05.968121+00:00"
-    },
-    "dfc7547527381c73": {
-      "title": "切爾諾貝利的最後婚禮：這對新人在核災難發生時正喜結連理",
-      "fetched_at": "2026-04-19T12:36:08.969854+00:00"
-    },
-    "d44e2e3200896e85": {
-      "title": "頂住仇恨浪潮，韓國女性作家的暢銷書正在崛起",
-      "fetched_at": "2026-04-19T12:36:09.550284+00:00"
-    },
-    "3fc9c8b939f587b3": {
-      "title": "Lyrid meteor shower 2026: See spring's first rain of 'shooting stars' peak in moonless skies",
-      "fetched_at": "2026-04-19T12:36:11.499727+00:00"
-    },
-    "1c621c2a57171912": {
-      "title": "Largest-ever 3D map of the universe shows 47 million galaxies, from the Milky Way to 'cosmic noon' — Space photo of the week",
-      "fetched_at": "2026-04-19T12:36:12.097774+00:00"
-    },
-    "2eda16c263e5f605": {
-      "title": "Can chickens really run around with their heads cut off?",
-      "fetched_at": "2026-04-19T12:36:12.690968+00:00"
-    },
     "026c32623102ad4a": {
       "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
       "fetched_at": "2026-04-19T18:33:30.477762+00:00"
@@ -3719,7 +3619,123 @@
     "47c260da1e8a2ff1": {
       "title": "特朗普转发反中国及印度移民言论引发批评",
       "fetched_at": "2026-04-27T08:03:42.586446+00:00"
+    },
+    "ad89aea4328cdfe2": {
+      "title": "Show HN: DAG-chat – DAG-based AI chat app with branch and merge",
+      "fetched_at": "2026-04-27T13:15:38.754146+00:00"
+    },
+    "ef0ca7993d823e29": {
+      "title": "北京银行：科技金融贷款“十四五”期间增长178%",
+      "fetched_at": "2026-04-27T13:15:39.376519+00:00"
+    },
+    "d2e3528d915e995f": {
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "fetched_at": "2026-04-27T13:15:39.988203+00:00"
+    },
+    "cb813e51166d64d8": {
+      "title": "AI Chatbots: Last Week Tonight with John Oliver [video]",
+      "fetched_at": "2026-04-27T13:15:40.603108+00:00"
+    },
+    "c9499ceb412a488d": {
+      "title": "Tokenmaxxing and the search for AI metrics that matter",
+      "fetched_at": "2026-04-27T13:15:41.267806+00:00"
+    },
+    "d46aa50a701d7567": {
+      "title": "Ubuntu Linux Will Begin Landing AI Features Throughout the Next Year",
+      "fetched_at": "2026-04-27T13:15:41.865407+00:00"
+    },
+    "073010e0ec6e92fa": {
+      "title": "热门中概股美股盘前普跌，阿里巴巴跌超2%",
+      "fetched_at": "2026-04-27T13:15:42.469159+00:00"
+    },
+    "6396360cf87ab17a": {
+      "title": "美股大型科技股盘前多数下跌，苹果跌超1%",
+      "fetched_at": "2026-04-27T13:15:43.075301+00:00"
+    },
+    "a2d4d65c28babdf3": {
+      "title": "AI will boost the gig economy platform by making freelancers more valuable",
+      "fetched_at": "2026-04-27T13:15:43.666129+00:00"
+    },
+    "8a2eff3dde113079": {
+      "title": "Memory Is the Machine",
+      "fetched_at": "2026-04-27T13:15:44.277214+00:00"
+    },
+    "bf8a3b5da06c8cff": {
+      "title": "万兴科技：2025年营收15.3亿元，归母净利减亏44.2%",
+      "fetched_at": "2026-04-27T13:15:45.085854+00:00"
+    },
+    "b3a32bae524259b9": {
+      "title": "Cyborg Technical Writers – Augmented, Not Replaced, by AI",
+      "fetched_at": "2026-04-27T13:15:45.690407+00:00"
+    },
+    "7d9c8ac0cdc98ba4": {
+      "title": "The AI-free site builder for genius founders",
+      "fetched_at": "2026-04-27T13:15:46.306488+00:00"
+    },
+    "ea5fe04250dfd2ec": {
+      "title": "盒马升级大区制，设立AI委员会",
+      "fetched_at": "2026-04-27T13:15:46.917263+00:00"
+    },
+    "ca3fc8d65c41e238": {
+      "title": "千里科技：第一季度营收23.61亿元，同比增长31.37%",
+      "fetched_at": "2026-04-27T13:15:47.625406+00:00"
+    },
+    "24bf3a615c1ca95c": {
+      "title": "Show HN: AISA – Conversational AI Skills Assessment Based on the LLM Interaction",
+      "fetched_at": "2026-04-27T13:15:48.237992+00:00"
+    },
+    "0f22863acb1caf55": {
+      "title": "China blocks Meta's $2B acquisition of AI startup Manus",
+      "fetched_at": "2026-04-27T13:15:48.836132+00:00"
+    },
+    "e5842e5728d196f5": {
+      "title": "We Will Be Driving Autonomously Long Before Any AI Is Liable for Generated Code",
+      "fetched_at": "2026-04-27T13:15:49.445063+00:00"
+    },
+    "72e5c632c6212b26": {
+      "title": "菜鸟拟发行公募 REITs，持续加大智慧物流建设",
+      "fetched_at": "2026-04-27T13:15:50.244921+00:00"
+    },
+    "2b190ad97a984df1": {
+      "title": "AI's Feeding Frenzy Killed My Sites (2023)",
+      "fetched_at": "2026-04-27T13:15:50.844731+00:00"
+    },
+    "4b7fbe68161ec20b": {
+      "title": "安踏：一個正挑戰耐克與阿迪達斯的中國運動品牌",
+      "fetched_at": "2026-04-27T13:15:53.252468+00:00"
+    },
+    "9daf61955a5b01e8": {
+      "title": "日本外交藍皮書將中國「降級」，中日關係何去何從?",
+      "fetched_at": "2026-04-27T13:15:53.857513+00:00"
+    },
+    "1a53f6f6ab64a7bd": {
+      "title": "香港五年規劃：北京下達KPI還是「責無旁貸」的社會主義融合？",
+      "fetched_at": "2026-04-27T13:15:54.461923+00:00"
+    },
+    "d31f731ed921cf90": {
+      "title": "How everything you do is being monitored in an AI-fuelled 'surveillance capitalism system' that's ramping up aggressively",
+      "fetched_at": "2026-04-27T13:16:11.876328+00:00"
+    },
+    "37953f53e95ca36c": {
+      "title": "Mystery of golden orb found in depths of ocean off Alaska finally solved: 'Everyone was like, What the heck? What is that?'",
+      "fetched_at": "2026-04-27T13:16:12.488392+00:00"
+    },
+    "53aa8cbfb41f378d": {
+      "title": "Some fungi can influence the weather ‪—‬ and now we know how they do it",
+      "fetched_at": "2026-04-27T13:16:13.078920+00:00"
+    },
+    "898f0c83d8ad521e": {
+      "title": "Miniature camelid effigy: A silver llama with a wry smile that the Inca crafted 600 years ago",
+      "fetched_at": "2026-04-27T13:16:13.820502+00:00"
+    },
+    "a32a83547817bf3c": {
+      "title": "Pesticide exposure linked to 150% higher cancer risk in major study",
+      "fetched_at": "2026-04-27T13:16:14.451571+00:00"
+    },
+    "5979b45d4128864d": {
+      "title": "The shocking origin of human eyes traces back to an ancient “cyclops”",
+      "fetched_at": "2026-04-27T13:16:15.158898+00:00"
     }
   },
-  "last_updated": "2026-04-27T08:03:43.779426+00:00"
+  "last_updated": "2026-04-27T13:16:15.304979+00:00"
 }
