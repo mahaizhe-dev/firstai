@@ -1,101 +1,5 @@
 {
   "articles": {
-    "01e2c24d542435e2": {
-      "title": "“闪电”完成2026人形机器人半马",
-      "fetched_at": "2026-04-19T01:27:16.737564+00:00"
-    },
-    "5e3ea3a1446e4105": {
-      "title": "宇树称打破人类1500米世界纪录",
-      "fetched_at": "2026-04-19T01:27:17.375544+00:00"
-    },
-    "f1df76769cfbf0dd": {
-      "title": "燃油成本飙升冲击航空业 多家航司上调费用并削减航线",
-      "fetched_at": "2026-04-19T01:27:18.029379+00:00"
-    },
-    "54cff59a5b478049": {
-      "title": "C3安全大会成立多项AI安全生态联盟，华为、阿里云、ABB等参与",
-      "fetched_at": "2026-04-19T01:27:18.701240+00:00"
-    },
-    "e5e697756070a5d1": {
-      "title": "AI chip startup Cerebras files for IPO",
-      "fetched_at": "2026-04-19T01:27:19.328708+00:00"
-    },
-    "9de447849c7fdb45": {
-      "title": "AI-Assisted Coding: Why a Distinguished Engineer Stopped Reading Code",
-      "fetched_at": "2026-04-19T01:27:19.956338+00:00"
-    },
-    "8d9f6097ac63a924": {
-      "title": "BenchJack – an open-source hackability scanner for AI agent benchmarks",
-      "fetched_at": "2026-04-19T01:27:20.579449+00:00"
-    },
-    "8ffbc0d73837a344": {
-      "title": "Operational Readiness Criteria for Tool-Using LLM Agents",
-      "fetched_at": "2026-04-19T01:27:21.205600+00:00"
-    },
-    "3a321ad2145edc6c": {
-      "title": "AI as Economic Warfare",
-      "fetched_at": "2026-04-19T01:27:21.833982+00:00"
-    },
-    "cbe8be4428b0d387": {
-      "title": "Objection: An AI judge for investigating media claims",
-      "fetched_at": "2026-04-19T01:27:22.470258+00:00"
-    },
-    "72483f3c080dff44": {
-      "title": "AI writes code 100x faster – why hasn't productivity?",
-      "fetched_at": "2026-04-19T01:27:23.126052+00:00"
-    },
-    "9c5262150b4ddb2f": {
-      "title": "Meshcore: Architecture for a Decentralized P2P LLM Inference Network",
-      "fetched_at": "2026-04-19T01:27:23.835353+00:00"
-    },
-    "021b9cc6b430c399": {
-      "title": "Singapore Tourism Board Launches AI-Powered Robodog Guides at Sentosa",
-      "fetched_at": "2026-04-19T01:27:24.452553+00:00"
-    },
-    "bb378cd44c845e45": {
-      "title": "Ask HN: Can you show me some useful AI-written programs?",
-      "fetched_at": "2026-04-19T01:27:25.134995+00:00"
-    },
-    "f609eb61a9725e01": {
-      "title": "Tesla brings its robotaxi service to Dallas and Houston",
-      "fetched_at": "2026-04-19T01:27:25.761798+00:00"
-    },
-    "9dedc6a0298d9803": {
-      "title": "Mapping India's homegrown AI ecosystem – 110 apps, 22 languages, 28 sectors",
-      "fetched_at": "2026-04-19T01:27:26.483884+00:00"
-    },
-    "2e345e3b5c50e23d": {
-      "title": "Show HN: How Are You-elderly fall detection app I built solo with AI in 6 months",
-      "fetched_at": "2026-04-19T01:27:27.241364+00:00"
-    },
-    "30322a036e94826e": {
-      "title": "The RAM shortage could last years",
-      "fetched_at": "2026-04-19T01:27:27.860730+00:00"
-    },
-    "08ff639f02d0f632": {
-      "title": "Observability Stack – AI First?",
-      "fetched_at": "2026-04-19T01:27:28.552148+00:00"
-    },
-    "bdbf7d6b40c44ca3": {
-      "title": "Show HN: Reliably Incorrect – explore LLM reliability with data visualizations",
-      "fetched_at": "2026-04-19T01:27:29.249137+00:00"
-    },
-    "01c241ec4d921e67": {
-      "title": "王毅罕見訪朝引發特金會猜測 分析指北京目標是「維持平衡」",
-      "fetched_at": "2026-04-19T01:27:32.270478+00:00"
-    },
-    "028299cf0b84c6b4": {
-      "title": "Opentargets-py – Python SDK for the Open Targets drug discovery database",
-      "fetched_at": "2026-04-19T01:27:34.083469+00:00"
-    },
-    "902380c4f12e7622": {
-      "title": "$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy",
-      "fetched_at": "2026-04-19T01:27:34.725746+00:00"
-    },
-    "093b6ea6aee4d8d5": {
-      "title": "Music discovery that works like flipping through record store bins",
-      "fetched_at": "2026-04-19T01:27:35.357026+00:00"
-    },
     "aa29a938ed9db6f5": {
       "title": "The Truth About AI Disruption",
       "fetched_at": "2026-04-19T07:05:54.953726+00:00"
@@ -3743,7 +3647,123 @@
     "1dc05779753eaa14": {
       "title": "Mezcal worm in a bottle DNA test reveals a surprise",
       "fetched_at": "2026-04-26T18:36:53.279255+00:00"
+    },
+    "d031c2fd180b8543": {
+      "title": "国家统计局：一季度规模以上工业企业利润较快增长",
+      "fetched_at": "2026-04-27T01:44:47.121728+00:00"
+    },
+    "31f4f536147a4241": {
+      "title": "国家统计局：1-3月份全国规模以上工业企业利润增长15.5%",
+      "fetched_at": "2026-04-27T01:44:47.688936+00:00"
+    },
+    "d62be3da3aeac86e": {
+      "title": "SpaceX warns probes into abusive AI imagery could cause headaches for IPO",
+      "fetched_at": "2026-04-27T01:44:48.255076+00:00"
+    },
+    "db92454b64f54e27": {
+      "title": "A股三大指数开盘涨跌不一，白酒股走弱",
+      "fetched_at": "2026-04-27T01:44:48.899885+00:00"
+    },
+    "2bb192960fba2c30": {
+      "title": "央行今日开展2185亿元人民币7天期逆回购操作",
+      "fetched_at": "2026-04-27T01:44:49.503996+00:00"
+    },
+    "30df16a15a70b741": {
+      "title": "恒指平开，恒生科技指数开盘涨0.56%",
+      "fetched_at": "2026-04-27T01:44:50.148100+00:00"
+    },
+    "9bac11c1c18feacb": {
+      "title": "人民币兑美元中间价报6.8579",
+      "fetched_at": "2026-04-27T01:44:50.749159+00:00"
+    },
+    "d252baa981eabc02": {
+      "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
+      "fetched_at": "2026-04-27T01:44:51.329522+00:00"
+    },
+    "87821e2cda87d991": {
+      "title": "Aether – A GCP-Native Framework to Terminate LLM Agent Drift",
+      "fetched_at": "2026-04-27T01:44:51.900789+00:00"
+    },
+    "e64f33375007fd5b": {
+      "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
+      "fetched_at": "2026-04-27T01:44:52.477755+00:00"
+    },
+    "3d339b2f9cbf7208": {
+      "title": "星动纪元完成超2亿美元新一轮融资",
+      "fetched_at": "2026-04-27T01:44:53.042867+00:00"
+    },
+    "de6440f085b0bb46": {
+      "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
+      "fetched_at": "2026-04-27T01:44:53.616806+00:00"
+    },
+    "7386f63a27c853c1": {
+      "title": "汽车零部件企业“人形机器人”布局持续加码",
+      "fetched_at": "2026-04-27T01:44:54.187129+00:00"
+    },
+    "35ba27b92106f032": {
+      "title": "中信证券：上市银行一季度收入和盈利增速延续上行趋势，预计全年趋势延续",
+      "fetched_at": "2026-04-27T01:44:54.757993+00:00"
+    },
+    "08bf5ec58e08ce63": {
+      "title": "瞄准政策风口，企业积极布局卫星互联网新基建",
+      "fetched_at": "2026-04-27T01:44:55.434255+00:00"
+    },
+    "f04e28f6702c0080": {
+      "title": "中信证券：支付清算层和基础模型层具备较强投资确定性",
+      "fetched_at": "2026-04-27T01:44:56.009366+00:00"
+    },
+    "6a3fbc04039f3250": {
+      "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
+      "fetched_at": "2026-04-27T01:44:56.578944+00:00"
+    },
+    "3f66f39afb819818": {
+      "title": "业绩排名压力与长期价值投资难权衡，部分基金经理调仓策略面临“言行背离”困境",
+      "fetched_at": "2026-04-27T01:44:57.148226+00:00"
+    },
+    "44354bd7752c488e": {
+      "title": "两市融资余额减少112.38亿元",
+      "fetched_at": "2026-04-27T01:44:57.722433+00:00"
+    },
+    "dde4e6c3a050e509": {
+      "title": "需求能见度提升，光模块景气持续性超预期",
+      "fetched_at": "2026-04-27T01:44:58.318627+00:00"
+    },
+    "066fbe728e21c5a5": {
+      "title": "战略性悬而未决：美伊之间既非战争又非和平的尴尬僵局",
+      "fetched_at": "2026-04-27T01:45:00.620624+00:00"
+    },
+    "799fa3ff3ae69df2": {
+      "title": "「剛開始交往的時候，我因擔心分手而不告知男友我的年齡」",
+      "fetched_at": "2026-04-27T01:45:01.293158+00:00"
+    },
+    "03c65cd14adf701e": {
+      "title": "白宫记者晚宴枪击事件：特朗普三年内三遇险境",
+      "fetched_at": "2026-04-27T01:45:01.862411+00:00"
+    },
+    "734ac244bd373dc8": {
+      "title": "More ancient Linux device support faces the chop",
+      "fetched_at": "2026-04-27T01:45:05.917854+00:00"
+    },
+    "c270672f26f43d8e": {
+      "title": "Science news this week: Atlantic current edges closer to collapse, scientists make artificial-neuron breakthrough, and a copy of the 'Iliad' is found inside an Egyptian mummy",
+      "fetched_at": "2026-04-27T01:45:05.918016+00:00"
+    },
+    "c614acf9e5897531": {
+      "title": "Black hole jets measured for first time and rival the power of 10,000 suns",
+      "fetched_at": "2026-04-27T01:45:06.484953+00:00"
+    },
+    "caf4795deeb62266": {
+      "title": "What caffeine does to ants could change pest control",
+      "fetched_at": "2026-04-27T01:45:07.053241+00:00"
+    },
+    "75e800472228dcb5": {
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "fetched_at": "2026-04-27T01:45:07.642938+00:00"
+    },
+    "081e8c74110fa37c": {
+      "title": "Total solar eclipse led to seismic quiet for cities within its path",
+      "fetched_at": "2026-04-27T01:45:08.236708+00:00"
     }
   },
-  "last_updated": "2026-04-26T18:36:53.383762+00:00"
+  "last_updated": "2026-04-27T01:45:08.381502+00:00"
 }
