@@ -1,97 +1,5 @@
 {
   "articles": {
-    "026c32623102ad4a": {
-      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-      "fetched_at": "2026-04-19T18:33:30.477762+00:00"
-    },
-    "5503278c5c2a0563": {
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "fetched_at": "2026-04-19T18:33:31.104657+00:00"
-    },
-    "e1382ffa65404893": {
-      "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
-      "fetched_at": "2026-04-19T18:33:31.728542+00:00"
-    },
-    "0edc0d75d64ed80c": {
-      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-      "fetched_at": "2026-04-19T18:33:32.359180+00:00"
-    },
-    "2eec64a65adfd6b5": {
-      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-      "fetched_at": "2026-04-19T18:33:32.967559+00:00"
-    },
-    "9ef828c647a07ae6": {
-      "title": "Upscale AI in talks to raise at $2B valuation, says report",
-      "fetched_at": "2026-04-19T18:33:33.580969+00:00"
-    },
-    "9e54b43d74a3c15b": {
-      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-      "fetched_at": "2026-04-19T18:33:34.217658+00:00"
-    },
-    "c696556f40cdf017": {
-      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-      "fetched_at": "2026-04-19T18:33:34.845987+00:00"
-    },
-    "2230705a341915d7": {
-      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
-      "fetched_at": "2026-04-19T18:33:35.456346+00:00"
-    },
-    "d87cfbf7b8e6620b": {
-      "title": "Google’s AI Mode update lets you open links without leaving the page",
-      "fetched_at": "2026-04-19T18:33:36.120497+00:00"
-    },
-    "d53dc344402e829f": {
-      "title": "Google now lets you explore the web side-by-side with AI Mode",
-      "fetched_at": "2026-04-19T18:33:36.848121+00:00"
-    },
-    "cd1e7c0382de4033": {
-      "title": "Gemini can now pull from Google Photos to generate personalized images",
-      "fetched_at": "2026-04-19T18:33:37.518161+00:00"
-    },
-    "7e8621594f950005": {
-      "title": "城市漫步指南：在沿海宜居小城，过一段不赶时间的日子",
-      "fetched_at": "2026-04-19T18:33:38.151898+00:00"
-    },
-    "cda8e415449bc682": {
-      "title": "众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包",
-      "fetched_at": "2026-04-19T18:33:38.766681+00:00"
-    },
-    "845b7cd453e3b550": {
-      "title": "从画质玄学到改机热潮：浅谈拍立得的前世今生",
-      "fetched_at": "2026-04-19T18:33:39.470783+00:00"
-    },
-    "00ba55eb2c035e34": {
-      "title": "译文｜Tahoe 的图标令人难评",
-      "fetched_at": "2026-04-19T18:33:40.090401+00:00"
-    },
-    "5faa973902a72b34": {
-      "title": "Loneliness may contribute to memory issues, but not dementia — they are 'not the same thing'",
-      "fetched_at": "2026-04-19T18:33:43.849679+00:00"
-    },
-    "5dbca3621d72ae25": {
-      "title": "Naked mole rats wage bloody wars of succession to choose a new queen — but one colony did something scientists have never seen before",
-      "fetched_at": "2026-04-19T18:33:44.471501+00:00"
-    },
-    "3e7207dae799442d": {
-      "title": "'The chances of you living 50 years are very small': Theoretical physicist explains why humanity likely won't survive to see all the forces unified",
-      "fetched_at": "2026-04-19T18:33:45.094330+00:00"
-    },
-    "5080f821813ef905": {
-      "title": "Can the US be trusted with the moon? A law scholar raises concerns after Artemis II's success.",
-      "fetched_at": "2026-04-19T18:33:45.723137+00:00"
-    },
-    "1a0a4326dda6992b": {
-      "title": "A new force of nature is reshaping the planet, study finds",
-      "fetched_at": "2026-04-19T18:33:46.352019+00:00"
-    },
-    "50fec7fe16c34c96": {
-      "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
-      "fetched_at": "2026-04-19T18:33:46.962651+00:00"
-    },
-    "2d65ac45d45ea326": {
-      "title": "Why two-sun planets keep disappearing scientists blame Einstein",
-      "fetched_at": "2026-04-19T18:33:47.634865+00:00"
-    },
     "6b2de52a15713f3f": {
       "title": "A股三大指数开盘涨跌不一",
       "fetched_at": "2026-04-20T01:27:32.117013+00:00"
@@ -3735,7 +3643,127 @@
     "5979b45d4128864d": {
       "title": "The shocking origin of human eyes traces back to an ancient “cyclops”",
       "fetched_at": "2026-04-27T13:16:15.158898+00:00"
+    },
+    "f09252eb6ca95570": {
+      "title": "Show HN: Graph-flow – LangGraph-inspired AI agent workflows in Rust",
+      "fetched_at": "2026-04-27T19:02:55.520574+00:00"
+    },
+    "e137de17f914c5a4": {
+      "title": "Ask HN: What's the best way to post about CS/SE issues related to AI?",
+      "fetched_at": "2026-04-27T19:02:56.185055+00:00"
+    },
+    "ba03e126164e6d12": {
+      "title": "AWS Credential Isolation for Local AI Agents",
+      "fetched_at": "2026-04-27T19:02:56.807391+00:00"
+    },
+    "9bd459fe9ddcd513": {
+      "title": "AI and Junk Development",
+      "fetched_at": "2026-04-27T19:02:57.429833+00:00"
+    },
+    "fbb5b30f242e1335": {
+      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+      "fetched_at": "2026-04-27T19:02:58.056325+00:00"
+    },
+    "b83f217057aedd5a": {
+      "title": "I built an AI code reviewer bot for GitHub – no external APIs",
+      "fetched_at": "2026-04-27T19:02:58.665035+00:00"
+    },
+    "c856045eaf64f4cb": {
+      "title": "OpenAI Reportedly Working on an AI Smartphone to Rival iPhone",
+      "fetched_at": "2026-04-27T19:02:59.290920+00:00"
+    },
+    "46ce8360b2ea8648": {
+      "title": "Eliminating AI Failure Modes Using DSLs – The Drafter Pattern",
+      "fetched_at": "2026-04-27T19:02:59.914638+00:00"
+    },
+    "c3147ff4d685947f": {
+      "title": "Being a Manager: Hiring AI",
+      "fetched_at": "2026-04-27T19:03:00.536916+00:00"
+    },
+    "419f21e96e63ce5a": {
+      "title": "Madison Square Garden's Surveillance Machine",
+      "fetched_at": "2026-04-27T19:03:01.155097+00:00"
+    },
+    "9158f4fe75268d76": {
+      "title": "Taylor Swift files to trademark voice and image after AI concerns",
+      "fetched_at": "2026-04-27T19:03:01.949304+00:00"
+    },
+    "c41e1e8ed991cce0": {
+      "title": "Show HN: RedSOC – 100% prompt injection success on AI SoC assistants",
+      "fetched_at": "2026-04-27T19:03:02.567383+00:00"
+    },
+    "6df57c806c721c1d": {
+      "title": "China blocks Meta from acquiring AI startup Manus",
+      "fetched_at": "2026-04-27T19:03:03.193113+00:00"
+    },
+    "b8f58f07c8ee5b4a": {
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "fetched_at": "2026-04-27T19:03:03.845800+00:00"
+    },
+    "8cdc4fd46540b9ce": {
+      "title": "Show HN: Alit – AI-generated PBR maps with real-time relighting",
+      "fetched_at": "2026-04-27T19:03:04.478652+00:00"
+    },
+    "07459e7cf37de85c": {
+      "title": "China blocks Meta's $2B purchase of AI group Manus",
+      "fetched_at": "2026-04-27T19:03:05.099736+00:00"
+    },
+    "721470a143516be1": {
+      "title": "Claude-powered AI coding agent deletes company database in 9 seconds",
+      "fetched_at": "2026-04-27T19:03:05.724797+00:00"
+    },
+    "ba3814e1b107ac3d": {
+      "title": "An AI interviews the author of a book it read",
+      "fetched_at": "2026-04-27T19:03:06.340646+00:00"
+    },
+    "91f0dd0fcda1625d": {
+      "title": "The reputation system we designed for AI agents (NOT BLOCKCHAIN)",
+      "fetched_at": "2026-04-27T19:03:06.960327+00:00"
+    },
+    "36d9a2b32f99f3bb": {
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "fetched_at": "2026-04-27T19:03:07.585290+00:00"
+    },
+    "fab98603682df0a7": {
+      "title": "Traces of Cremation Pyre Uncovered in the East of England",
+      "fetched_at": "2026-04-27T19:03:43.258856+00:00"
+    },
+    "c7ee1ad2d9c468fb": {
+      "title": "Ancient South Americans arrived in three waves–and had some surprising ancestry",
+      "fetched_at": "2026-04-27T19:03:43.883383+00:00"
+    },
+    "35b05c5ea6c4ca74": {
+      "title": "Parasites Detected in Roman-Era Chamber Pots from Bulgaria",
+      "fetched_at": "2026-04-27T19:03:44.499870+00:00"
+    },
+    "42dd3a7b989e9fcc": {
+      "title": "Pollen Trapped in Pitch Tracks Repairs Made to Ancient Ship",
+      "fetched_at": "2026-04-27T19:03:45.124512+00:00"
+    },
+    "5f8847c89f2275d3": {
+      "title": "Amazfit Active 3 Premium review: A great budget smartwatch for running beginners",
+      "fetched_at": "2026-04-27T19:03:45.736537+00:00"
+    },
+    "138280e4eb1aeb0f": {
+      "title": "Scientists finally solve mystery of strange “golden orb” found 2 miles deep",
+      "fetched_at": "2026-04-27T19:03:46.393250+00:00"
+    },
+    "f774c8d7d5964a39": {
+      "title": "This tiny mammal survived the dinosaur apocalypse and changed life on Earth",
+      "fetched_at": "2026-04-27T19:03:47.011193+00:00"
+    },
+    "aaab6ddef86156a0": {
+      "title": "Students build a “cosmic radio” to listen for dark matter",
+      "fetched_at": "2026-04-27T19:03:47.642624+00:00"
+    },
+    "f68428e371962e3a": {
+      "title": "Scientists just captured a mysterious quantum “dance” inside superconductors",
+      "fetched_at": "2026-04-27T19:03:48.270899+00:00"
+    },
+    "4af29c616588d0e4": {
+      "title": "Scientists may have found the brain’s switch for chronic pain",
+      "fetched_at": "2026-04-27T19:03:48.891592+00:00"
     }
   },
-  "last_updated": "2026-04-27T13:16:15.304979+00:00"
+  "last_updated": "2026-04-27T19:03:49.044262+00:00"
 }
