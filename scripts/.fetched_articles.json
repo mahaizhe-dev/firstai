@@ -1,97 +1,5 @@
 {
   "articles": {
-    "265790da75620a23": {
-      "title": "中国人民银行行长潘功胜会见国际金融机构负责人",
-      "fetched_at": "2026-04-20T13:03:36.264218+00:00"
-    },
-    "94aa057613abc461": {
-      "title": "热门中概股美股盘前多数下跌，理想汽车涨超1%",
-      "fetched_at": "2026-04-20T13:03:36.896121+00:00"
-    },
-    "4e561949eeda18f0": {
-      "title": "5 days No AI. An AI detox challenge",
-      "fetched_at": "2026-04-20T13:03:37.557336+00:00"
-    },
-    "85b29e8c4a5430e1": {
-      "title": "美股大型科技股盘前普跌，英特尔跌超1%",
-      "fetched_at": "2026-04-20T13:03:38.163751+00:00"
-    },
-    "a839fb44e0aa255c": {
-      "title": "Show HN: Lightflare – Self-hosted AI agent server for teams",
-      "fetched_at": "2026-04-20T13:03:38.788375+00:00"
-    },
-    "8ead0426a925d2fb": {
-      "title": "空悬企业时驾科技获头部车企MPV车型独家定点 | 早期项目",
-      "fetched_at": "2026-04-20T13:03:39.468340+00:00"
-    },
-    "1854b668e1acb207": {
-      "title": "江天化学：一季度净利润1288.71万元，同比增长1473.96%",
-      "fetched_at": "2026-04-20T13:03:40.381088+00:00"
-    },
-    "a4b90b6b8d100eb2": {
-      "title": "SCE Core – a state-evolution engine for explainable AI reasoning",
-      "fetched_at": "2026-04-20T13:03:41.002957+00:00"
-    },
-    "bb0f0d1a0f2d013d": {
-      "title": "The 'Google for AI Agents' Is Coming – and It's Being Built Outside Big Tech",
-      "fetched_at": "2026-04-20T13:03:41.702765+00:00"
-    },
-    "e5f4708aeac620f5": {
-      "title": "Build AI evals from real failures",
-      "fetched_at": "2026-04-20T13:03:42.332806+00:00"
-    },
-    "3217299d54745b38": {
-      "title": "广东：要用好产业引导基金，加大对集成电路、具身智能、算电协同等领域的投资",
-      "fetched_at": "2026-04-20T13:03:43.075141+00:00"
-    },
-    "dc8134ef2411494c": {
-      "title": "泰和科技：一季度净利润8603.26万元，同比增长202.43%",
-      "fetched_at": "2026-04-20T13:03:43.736902+00:00"
-    },
-    "b19f545c21695fad": {
-      "title": "Is anyone else bothered that AI agents can basically do what they want?",
-      "fetched_at": "2026-04-20T13:03:44.459882+00:00"
-    },
-    "5b86217ee113e218": {
-      "title": "Atlassian Enables Default Data Collection to Train AI",
-      "fetched_at": "2026-04-20T13:03:45.086103+00:00"
-    },
-    "251aa95add154c50": {
-      "title": "Strategy斥资25.4亿美元增持比特币，持仓量逾81万枚",
-      "fetched_at": "2026-04-20T13:03:45.730316+00:00"
-    },
-    "a8313cf8905aefb6": {
-      "title": "Show HN: Search Without AI, a Chrome Extension to Clean Up Google Search",
-      "fetched_at": "2026-04-20T13:03:46.437535+00:00"
-    },
-    "b342945ce1caadf5": {
-      "title": "中国移动：一季度净利润293亿元，同比下降4.2%",
-      "fetched_at": "2026-04-20T13:03:47.199926+00:00"
-    },
-    "1db4dcdccabffab2": {
-      "title": "AI Code review doesn't catch AI-written security probs",
-      "fetched_at": "2026-04-20T13:03:47.850316+00:00"
-    },
-    "7531cac4c3d65ab9": {
-      "title": "Is it too late to build a \"Spotify for art\" in the age of AI?",
-      "fetched_at": "2026-04-20T13:03:48.473764+00:00"
-    },
-    "75d0687e5414cd28": {
-      "title": "雪天盐业：一季度净利润1486.75万元，同比下降55.47%",
-      "fetched_at": "2026-04-20T13:03:49.098967+00:00"
-    },
-    "49d5c7bdacff75c8": {
-      "title": "AI醫生：聊天機器人給的健康建議能被相信嗎？",
-      "fetched_at": "2026-04-20T13:03:51.410348+00:00"
-    },
-    "bf749f778ceea1fb": {
-      "title": "藝術受審——雕塑家高兟被捕，凸顯中國審查制度的新極端",
-      "fetched_at": "2026-04-20T13:03:52.034419+00:00"
-    },
-    "58dfece75c86c99e": {
-      "title": "Altar to Sol: A rare 1,900-year-old monument dedicated to the Roman god of light and used in a secret underground ritual",
-      "fetched_at": "2026-04-20T13:03:54.264983+00:00"
-    },
     "a2e29c42cc617857": {
       "title": "Show HN: Clock-MCP, stop guessing the time in AI",
       "fetched_at": "2026-04-20T18:53:39.632042+00:00"
@@ -3767,7 +3675,143 @@
     "8785575530a69985": {
       "title": "白宮記者晚宴槍擊案：開槍的疑犯是誰？",
       "fetched_at": "2026-04-28T08:04:53.715876+00:00"
+    },
+    "01e91d1aa1bcc9fa": {
+      "title": "DeepSeek Unveils Newest Flagship AI Model a Year After Upending Silicon Valley",
+      "fetched_at": "2026-04-28T13:25:54.194686+00:00"
+    },
+    "c7cd03406bb5a881": {
+      "title": "Prompt–Response AI is a local maximum. The next paradigm looks nothing like it",
+      "fetched_at": "2026-04-28T13:25:54.765094+00:00"
+    },
+    "f9ea45fead9ef955": {
+      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+      "fetched_at": "2026-04-28T13:25:55.332517+00:00"
+    },
+    "2ac07b1d266001e0": {
+      "title": "A Time Traveling Superintelligent AI tried to warn about correspondence dinner",
+      "fetched_at": "2026-04-28T13:25:55.967664+00:00"
+    },
+    "5a75ad8e0439a567": {
+      "title": "Cctop – A keyboard-first menubar app to jump between AI coding sessions",
+      "fetched_at": "2026-04-28T13:25:56.579723+00:00"
+    },
+    "6123730472ef8ebe": {
+      "title": "Microsoft's GitHub shifts to metered AI billing amid cost crisis",
+      "fetched_at": "2026-04-28T13:25:57.149637+00:00"
+    },
+    "17983245897cd4ef": {
+      "title": "HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents",
+      "fetched_at": "2026-04-28T13:25:57.720732+00:00"
+    },
+    "bf8d494005f3912a": {
+      "title": "Show HN: DeadNet – Watch AI agents debate, play games, and write stories live",
+      "fetched_at": "2026-04-28T13:25:58.294166+00:00"
+    },
+    "3ab0b982dc643316": {
+      "title": "I Stopped Building AI Tools. I'm Hiring Them",
+      "fetched_at": "2026-04-28T13:25:58.859032+00:00"
+    },
+    "97aec4116121eeab": {
+      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "fetched_at": "2026-04-28T13:25:59.430105+00:00"
+    },
+    "e9dd1723d3cdc714": {
+      "title": "商汤科技正式发布并开源日日新SenseNova U1系列模型",
+      "fetched_at": "2026-04-28T13:25:59.997983+00:00"
+    },
+    "4041fe0f84c007f3": {
+      "title": "Show HN: Photorealistic GPT Image 2 animal hybrids",
+      "fetched_at": "2026-04-28T13:26:00.564111+00:00"
+    },
+    "4c5d95b70feb528a": {
+      "title": "热门中概股美股盘前多数下跌，理想汽车跌超4%",
+      "fetched_at": "2026-04-28T13:26:01.247244+00:00"
+    },
+    "8d23d4988433b3c4": {
+      "title": "LLM from pre-1930 derives quantum mechanics and relativity",
+      "fetched_at": "2026-04-28T13:26:01.925203+00:00"
+    },
+    "7c1a1d80b1bfcf14": {
+      "title": "美股大型科技股盘前跌多涨少，Arm跌超7%",
+      "fetched_at": "2026-04-28T13:26:02.605227+00:00"
+    },
+    "5dc87d3cad3b3844": {
+      "title": "Sage-Wiki: An LLM-compiled personal knowledge base",
+      "fetched_at": "2026-04-28T13:26:03.203861+00:00"
+    },
+    "3ce7a2642a9511eb": {
+      "title": "Agent Capsule: \"Agents as Data\" pattern for production AI agents (gist)",
+      "fetched_at": "2026-04-28T13:26:03.831214+00:00"
+    },
+    "19a818987300c61f": {
+      "title": "Yann LeCun: LLMs Are Nearing the End, but Better AI Is Coming (2025)",
+      "fetched_at": "2026-04-28T13:26:04.416232+00:00"
+    },
+    "417c2dfc0d7f51bd": {
+      "title": "Show HN: Knowerage – code coverage for LLM analysis",
+      "fetched_at": "2026-04-28T13:26:05.079806+00:00"
+    },
+    "553779ce0efc6d36": {
+      "title": "清越科技：实施其他风险警示，股票停牌",
+      "fetched_at": "2026-04-28T13:26:05.646601+00:00"
+    },
+    "159228b3cbd21b11": {
+      "title": "支付平台與電騙集團關聯被凍結 中國示威者柬埔寨爆衝突",
+      "fetched_at": "2026-04-28T13:26:07.735521+00:00"
+    },
+    "33395c5b62f6a724": {
+      "title": "'He began to cry, and almost fell to the floor': The fluffy fossil that finally showed the world that birds are dinosaurs",
+      "fetched_at": "2026-04-28T13:26:09.419753+00:00"
+    },
+    "019c0ffb476f77cd": {
+      "title": "New data center will be partially powered by human brain cells for the first time",
+      "fetched_at": "2026-04-28T13:26:10.072773+00:00"
+    },
+    "80a9d039c6d385c0": {
+      "title": "DwarfLab Dwarf Mini smart telescope review",
+      "fetched_at": "2026-04-28T13:26:10.669033+00:00"
+    },
+    "9dece0e00713aa9a": {
+      "title": "Full moon helps paint vibrant, muddy 'brushstrokes' in Indonesian river — Earth from space",
+      "fetched_at": "2026-04-28T13:26:11.270817+00:00"
+    },
+    "29217248cb6f6737": {
+      "title": "The universe may end trillions of years sooner than we thought",
+      "fetched_at": "2026-04-28T13:26:11.841021+00:00"
+    },
+    "ac6a9a061047085b": {
+      "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
+      "fetched_at": "2026-04-28T13:26:12.422077+00:00"
+    },
+    "dfa4c51c078db653": {
+      "title": "Your dreams aren’t random. Here’s what’s really happening",
+      "fetched_at": "2026-04-28T13:26:12.994908+00:00"
+    },
+    "1f197f0f3f691d2e": {
+      "title": "This massive 3D map of 47 million galaxies could unlock dark energy",
+      "fetched_at": "2026-04-28T13:26:13.640136+00:00"
+    },
+    "d3731120db7111d9": {
+      "title": "Vitamin D boosts breast cancer treatment success by 79%",
+      "fetched_at": "2026-04-28T13:26:14.212499+00:00"
+    },
+    "caa4e307dd490817": {
+      "title": "Scientists capture electrons forming strange patchy patterns inside quantum materials",
+      "fetched_at": "2026-04-28T13:26:14.820394+00:00"
+    },
+    "19868ec32b659fdc": {
+      "title": "Scientists discover enzyme that could supercharge Ozempic",
+      "fetched_at": "2026-04-28T13:26:15.386908+00:00"
+    },
+    "3ed8cc122b6be5b8": {
+      "title": "Maya collapse mystery deepens as scientists find no drought at key site",
+      "fetched_at": "2026-04-28T13:26:15.999349+00:00"
+    },
+    "8a5e94da4be5d138": {
+      "title": "After 200 years scientists finally crack the “dolomite problem”",
+      "fetched_at": "2026-04-28T13:26:16.575119+00:00"
     }
   },
-  "last_updated": "2026-04-28T08:04:58.233475+00:00"
+  "last_updated": "2026-04-28T13:26:16.724226+00:00"
 }
