@@ -1,109 +1,5 @@
 {
   "articles": {
-    "a2e29c42cc617857": {
-      "title": "Show HN: Clock-MCP, stop guessing the time in AI",
-      "fetched_at": "2026-04-20T18:53:39.632042+00:00"
-    },
-    "a41855f26eca9ab0": {
-      "title": "Personal AI Safety: The Default Settings Will Not Save You",
-      "fetched_at": "2026-04-20T18:53:40.249408+00:00"
-    },
-    "f14f9f36d82a407a": {
-      "title": "Everything is AI now – does this kill the excitment of software development?",
-      "fetched_at": "2026-04-20T18:53:40.869791+00:00"
-    },
-    "b286fb0f7a8dff1e": {
-      "title": "Freedom of Information Request – Chat GPT Conversations – UK Science Secretary",
-      "fetched_at": "2026-04-20T18:53:41.523494+00:00"
-    },
-    "586b4ad05ef94698": {
-      "title": "HaleES: An enforcement-first architecture for reliable AI agent operations",
-      "fetched_at": "2026-04-20T18:53:42.156713+00:00"
-    },
-    "73278e45738aa178": {
-      "title": "Ask HN: How do you respond to blog posts that seem AI assisted?",
-      "fetched_at": "2026-04-20T18:53:42.828372+00:00"
-    },
-    "a9a51fc1562e2893": {
-      "title": "MODA: $25 of LLM-graded labels beat 1.5M purchase labels for fashion search",
-      "fetched_at": "2026-04-20T18:53:43.481292+00:00"
-    },
-    "bdb938c801d9c6f2": {
-      "title": "Building a LLM honeyport that monitors all 65535 ports",
-      "fetched_at": "2026-04-20T18:53:44.100679+00:00"
-    },
-    "c939795d8b12c8c2": {
-      "title": "Show HN: Glimpse – A native macOS Markdown viewer with on-device AI",
-      "fetched_at": "2026-04-20T18:53:44.708626+00:00"
-    },
-    "d6809634506c6a92": {
-      "title": "A History of Erasures Learning to Write Like Leylâ Erbil",
-      "fetched_at": "2026-04-20T18:53:45.329816+00:00"
-    },
-    "4f8a0b01bccacf22": {
-      "title": "GitHub Copilot's new policy for AI training is a governance wake-up call",
-      "fetched_at": "2026-04-20T18:53:45.938444+00:00"
-    },
-    "f21ef74f62e3a21d": {
-      "title": "Show HN: AI Coding Agent Guardrails enforced at runtime",
-      "fetched_at": "2026-04-20T18:53:46.561969+00:00"
-    },
-    "d028ae2245e1d2a3": {
-      "title": "Google Eyes New Chips to Speed Up AI Results, Challenging Nvidia",
-      "fetched_at": "2026-04-20T18:53:47.190823+00:00"
-    },
-    "d4a1e612e39c952a": {
-      "title": "Show HN: Seltz – The fastest, high quality, search API for AI agents",
-      "fetched_at": "2026-04-20T18:53:47.811588+00:00"
-    },
-    "004c9d43dd83e71c": {
-      "title": "The Download: murderous 'mirror' bacteria, and Chinese workers fighting AI doub",
-      "fetched_at": "2026-04-20T18:53:48.447884+00:00"
-    },
-    "e700576d132077a1": {
-      "title": "The AI engineering stack we built internally – on the platform we ship",
-      "fetched_at": "2026-04-20T18:53:49.065938+00:00"
-    },
-    "55c1a2d3960a8044": {
-      "title": "Fortnite developers can make AI characters now — just don&#8217;t try to date them",
-      "fetched_at": "2026-04-20T18:53:49.698494+00:00"
-    },
-    "53349af5e2a437c9": {
-      "title": "Labor Automation Forecasting Hub on Metaculus Measures Impact of AI on Labor",
-      "fetched_at": "2026-04-20T18:53:50.328498+00:00"
-    },
-    "c4e39afa4cce2eef": {
-      "title": "Show HN: Enlist AI: A tool that turns any job description into a study plan",
-      "fetched_at": "2026-04-20T18:53:50.963191+00:00"
-    },
-    "3fbd4510edf55910": {
-      "title": "Random thoughts while gazing at the misty AI Frontier",
-      "fetched_at": "2026-04-20T18:53:51.594511+00:00"
-    },
-    "1473b96a6b9f4db2": {
-      "title": "鄭麗文結束訪陸北京發對台「十項措施」 台北批「一中框架化」",
-      "fetched_at": "2026-04-20T18:53:54.038938+00:00"
-    },
-    "6dd9d414e673fc4e": {
-      "title": "A giant 'shadow' has been creeping across Mars for 50 years — and scientists aren't sure why",
-      "fetched_at": "2026-04-20T18:53:55.185737+00:00"
-    },
-    "8d4d9a74401b9a8c": {
-      "title": "Bruce the parrot is missing his upper beak —‬ but that hasn't stopped him from becoming an undefeated jousting champion",
-      "fetched_at": "2026-04-20T18:53:55.816724+00:00"
-    },
-    "4d50e10ea0eac21b": {
-      "title": "Scientists identify main cause of extreme nausea and vomiting in pregnancy",
-      "fetched_at": "2026-04-20T18:53:56.490161+00:00"
-    },
-    "ef8a4a87149cc19e": {
-      "title": "Life on Mars? Tiny cells just survived shock waves and toxic soil",
-      "fetched_at": "2026-04-20T18:53:57.109321+00:00"
-    },
-    "6d40a35ad2b61ef6": {
-      "title": "The Universe is expanding too fast and scientists still can’t explain it",
-      "fetched_at": "2026-04-20T18:53:57.727140+00:00"
-    },
     "d80c170366842e84": {
       "title": "恒指开盘涨0.31%，胜宏科技上市首日高开57.23%",
       "fetched_at": "2026-04-21T01:24:18.447189+00:00"
@@ -3811,7 +3707,119 @@
     "8a5e94da4be5d138": {
       "title": "After 200 years scientists finally crack the “dolomite problem”",
       "fetched_at": "2026-04-28T13:26:16.575119+00:00"
+    },
+    "4358c4774ffccced": {
+      "title": "The AI Product Era You're Building for Might Be Over – Arcturus Labs",
+      "fetched_at": "2026-04-28T19:17:43.142564+00:00"
+    },
+    "3da652d0e6eea083": {
+      "title": "GPT 5.5: The System Card",
+      "fetched_at": "2026-04-28T19:17:44.042443+00:00"
+    },
+    "ead6230a9b9087c4": {
+      "title": "GPT-5.5: Capabilities and Reactions",
+      "fetched_at": "2026-04-28T19:17:44.603414+00:00"
+    },
+    "e09ff1b90c5a6b2d": {
+      "title": "Why JSON Schema matters more than ever in the age of generative AI",
+      "fetched_at": "2026-04-28T19:17:45.170662+00:00"
+    },
+    "6e0a21513877efc1": {
+      "title": "Show HN: SlopIt – A dead-simple CMS for your AI agent",
+      "fetched_at": "2026-04-28T19:17:45.732727+00:00"
+    },
+    "1fb0d77b8039e0c1": {
+      "title": "Learning to Orchestrate Agents in Natural Language with the Conductor",
+      "fetched_at": "2026-04-28T19:17:46.303811+00:00"
+    },
+    "51970d6134916aa4": {
+      "title": "Sparse AI: Better hardware could turn zeros into AI heroes",
+      "fetched_at": "2026-04-28T19:17:46.865197+00:00"
+    },
+    "44d2c8d3d10e18b6": {
+      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+      "fetched_at": "2026-04-28T19:17:47.431859+00:00"
+    },
+    "415f1adc93b33c21": {
+      "title": "Monitoring LLM behavior: Drift, retries, and refusal patterns",
+      "fetched_at": "2026-04-28T19:17:48.002713+00:00"
+    },
+    "7e8f3ec2f8403a38": {
+      "title": "Cognotik – A platform for building specialized AI apps, not another chat client",
+      "fetched_at": "2026-04-28T19:17:48.569475+00:00"
+    },
+    "3876d60a0a357dec": {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "fetched_at": "2026-04-28T19:17:49.131481+00:00"
+    },
+    "4969d02a3a00a619": {
+      "title": "Show HN: Algotutor – Practice Go with spaced repetition in your AI agent",
+      "fetched_at": "2026-04-28T19:17:49.705602+00:00"
+    },
+    "f82baa86bd2832de": {
+      "title": "AI writes 97% of our code. Strong engineers still matter",
+      "fetched_at": "2026-04-28T19:17:50.273223+00:00"
+    },
+    "26ad7db78b7924e2": {
+      "title": "How AI is reshaping workflows and redefining jobs",
+      "fetched_at": "2026-04-28T19:17:50.842256+00:00"
+    },
+    "f01b292507759843": {
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "fetched_at": "2026-04-28T19:17:51.424408+00:00"
+    },
+    "062afff87110b3b6": {
+      "title": "The Feedback Loop in AI SDLC",
+      "fetched_at": "2026-04-28T19:17:51.996050+00:00"
+    },
+    "1d3a7821a6215615": {
+      "title": "Claude.ai is unavailable",
+      "fetched_at": "2026-04-28T19:17:52.563975+00:00"
+    },
+    "ad217bf8c80a0a42": {
+      "title": "Canonical's approach to AI is refreshingly thoughtful-Microsoft should take note",
+      "fetched_at": "2026-04-28T19:17:53.131871+00:00"
+    },
+    "8d06b9762f32ccb9": {
+      "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
+      "fetched_at": "2026-04-28T19:17:53.695959+00:00"
+    },
+    "13fb707a59db13da": {
+      "title": "Phaser: Create 2D games for the web – free, open source, and AI-ready",
+      "fetched_at": "2026-04-28T19:17:54.619231+00:00"
+    },
+    "9950903e6e7ed024": {
+      "title": "New AI algorithms are 95% better at showing how the universe changes over time",
+      "fetched_at": "2026-04-28T19:17:57.663472+00:00"
+    },
+    "a5b07d4809c98444": {
+      "title": "Preeclampsia could be treated with 'blood filtering' therapy, early study hints",
+      "fetched_at": "2026-04-28T19:17:58.240650+00:00"
+    },
+    "87d3e64af0042d4c": {
+      "title": "'Their greatest challenge since they stared down the asteroid': Paleontologist Steve Brusatte on why birds are facing their biggest existential threat since the dino-killing asteroid",
+      "fetched_at": "2026-04-28T19:17:58.807610+00:00"
+    },
+    "5387a4dceb0e48c1": {
+      "title": "Remains of Byzantine Plague Victims Studied",
+      "fetched_at": "2026-04-28T19:17:59.389160+00:00"
+    },
+    "99d1c1750055bab0": {
+      "title": "Sanskrit Seal Refers to Sacred Shiva Text",
+      "fetched_at": "2026-04-28T19:17:59.995853+00:00"
+    },
+    "19d89ad5f1b494cd": {
+      "title": "Drilling has begun at our sacred site Pe' Sla, setting a dangerous precedent for Indigenous lands across the country. It must be stopped.",
+      "fetched_at": "2026-04-28T19:18:00.563714+00:00"
+    },
+    "816de0fac9cb132c": {
+      "title": "NASA Curiosity rover finds mysterious life linked molecules on mars",
+      "fetched_at": "2026-04-28T19:18:01.142976+00:00"
+    },
+    "a553ecc55c2a98d1": {
+      "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
+      "fetched_at": "2026-04-28T19:18:01.712537+00:00"
     }
   },
-  "last_updated": "2026-04-28T13:26:16.724226+00:00"
+  "last_updated": "2026-04-28T19:18:01.861191+00:00"
 }
