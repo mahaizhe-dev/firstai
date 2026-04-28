@@ -1,117 +1,5 @@
 {
   "articles": {
-    "6b2de52a15713f3f": {
-      "title": "A股三大指数开盘涨跌不一",
-      "fetched_at": "2026-04-20T01:27:32.117013+00:00"
-    },
-    "4530a860ca3239d7": {
-      "title": "央行公开市场开展5亿元7天期逆回购操作",
-      "fetched_at": "2026-04-20T01:27:32.698970+00:00"
-    },
-    "c47fb183a4ede2cc": {
-      "title": "恒指开盘涨0.17%，恒生科技指数涨0.34%",
-      "fetched_at": "2026-04-20T01:27:33.278606+00:00"
-    },
-    "9cdb1e8d6a9be0c9": {
-      "title": "人民币兑美元中间价报6.8648，下调26点",
-      "fetched_at": "2026-04-20T01:27:33.979499+00:00"
-    },
-    "039c491b359a56b8": {
-      "title": "Show HN: Modular – drop AI features into your app with two function calls",
-      "fetched_at": "2026-04-20T01:27:34.564585+00:00"
-    },
-    "97fd9f8c324c3634": {
-      "title": "摩根士丹利：预计中国股市到年底将有约5-10%的温和上行空间",
-      "fetched_at": "2026-04-20T01:27:35.177087+00:00"
-    },
-    "01c9c6f042088e4e": {
-      "title": "华泰证券：关注新能源链、出口链等拥挤度不高的景气方向",
-      "fetched_at": "2026-04-20T01:27:35.794738+00:00"
-    },
-    "bd81b38c6a2849a5": {
-      "title": "氢能产业迈向规模化发展阶段，四大行业上市公司加速“跑马圈地”",
-      "fetched_at": "2026-04-20T01:27:36.378268+00:00"
-    },
-    "b1f60fc198912c2f": {
-      "title": "银河证券：消费板块估值处于历史偏低水平，建议关注农林牧渔等方向",
-      "fetched_at": "2026-04-20T01:27:37.115536+00:00"
-    },
-    "769c2b7048befea7": {
-      "title": "4月LPR报价出炉：5年期和1年期利率均维持不变",
-      "fetched_at": "2026-04-20T01:27:37.706184+00:00"
-    },
-    "efbd945e413f63ed": {
-      "title": "36氪首发｜「东犁退休俱乐部」完成亿元级B轮融资，为300万活力银发族打造“线上+线下”社交生活方式",
-      "fetched_at": "2026-04-20T01:27:38.336768+00:00"
-    },
-    "f0a00a111017b852": {
-      "title": "机器人ToB规模化提速，数据短板仍是核心卡点",
-      "fetched_at": "2026-04-20T01:27:38.928975+00:00"
-    },
-    "7834098e4c73807b": {
-      "title": "深交所：将诺比侃调入港股通标的证券名单",
-      "fetched_at": "2026-04-20T01:27:39.558451+00:00"
-    },
-    "101a53f8874dd9fb": {
-      "title": "中信建投：关注推理算力和商业航天发展机遇",
-      "fetched_at": "2026-04-20T01:27:40.179551+00:00"
-    },
-    "c63d6a151c064abc": {
-      "title": "工信部等部门召开光伏行业座谈会",
-      "fetched_at": "2026-04-20T01:27:40.794763+00:00"
-    },
-    "3361b17e1b85862d": {
-      "title": "两市融资余额增加21.69亿元",
-      "fetched_at": "2026-04-20T01:27:41.397669+00:00"
-    },
-    "b294b6bc046eff67": {
-      "title": "美国航空驳斥与美联航的合并谈判",
-      "fetched_at": "2026-04-20T01:27:41.974251+00:00"
-    },
-    "a828ac3c973b4573": {
-      "title": "华泰证券：强业绩线索中，电池、电力链拥挤度不高仍可参与",
-      "fetched_at": "2026-04-20T01:27:42.557505+00:00"
-    },
-    "fcdc6f5fa329fffb": {
-      "title": "中信证券：AI推动激光器芯片量价齐升，关注国产新机遇",
-      "fetched_at": "2026-04-20T01:27:43.132398+00:00"
-    },
-    "3b69cfb537e29cf1": {
-      "title": "政策周期业绩三重共振，高景气赛道公募持仓集中度抬升",
-      "fetched_at": "2026-04-20T01:27:43.711761+00:00"
-    },
-    "8eb7baaf7e1f58db": {
-      "title": "「龍蝦熱」催生的中國「一人公司」：一場低成本的大規模試驗？",
-      "fetched_at": "2026-04-20T01:27:46.358634+00:00"
-    },
-    "62af2c5c114f1be5": {
-      "title": "伊朗已拥有堪比核武器的威慑手段：霍尔木兹海峡",
-      "fetched_at": "2026-04-20T01:27:46.936208+00:00"
-    },
-    "4e3f9b0b42c7548b": {
-      "title": "特朗普「關稅戰」一週年： 全球經濟如何在四個方面被改變",
-      "fetched_at": "2026-04-20T01:27:47.520456+00:00"
-    },
-    "1587ceda722367dd": {
-      "title": "Two simple eating habits linked to lower weight, study finds",
-      "fetched_at": "2026-04-20T01:27:50.323475+00:00"
-    },
-    "fb19aef86f505a92": {
-      "title": "Unusual airborne toxin detected in the U.S. for the first time",
-      "fetched_at": "2026-04-20T01:27:50.908239+00:00"
-    },
-    "6cfaebbf8c927c65": {
-      "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
-      "fetched_at": "2026-04-20T01:27:51.494707+00:00"
-    },
-    "44f1840cd67fa48c": {
-      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
-      "fetched_at": "2026-04-20T01:27:52.077468+00:00"
-    },
-    "84377fafabb7ee64": {
-      "title": "Scientists finally crack mystery of rare COVID vaccine blood clots",
-      "fetched_at": "2026-04-20T01:27:52.762133+00:00"
-    },
     "8d81988c7f28f7fa": {
       "title": "余承东：手机定价压力较大，后期可能涨价",
       "fetched_at": "2026-04-20T07:49:27.461799+00:00"
@@ -3763,7 +3651,127 @@
     "4af29c616588d0e4": {
       "title": "Scientists may have found the brain’s switch for chronic pain",
       "fetched_at": "2026-04-27T19:03:48.891592+00:00"
+    },
+    "28f90c5dd7990667": {
+      "title": "How AI Will Reshape Computer Systems by 2035",
+      "fetched_at": "2026-04-28T01:51:49.721410+00:00"
+    },
+    "d77fde2540f25cb0": {
+      "title": "Show HN: Lightport – open-source AI gateway",
+      "fetched_at": "2026-04-28T01:51:50.343790+00:00"
+    },
+    "a16d0a76ae7c5968": {
+      "title": "宁德核电项目二期工程5号机组核岛安装开工",
+      "fetched_at": "2026-04-28T01:51:50.953911+00:00"
+    },
+    "82a6308c02981bb0": {
+      "title": "是否考虑布局上游电芯？阳光电源回应",
+      "fetched_at": "2026-04-28T01:51:51.579325+00:00"
+    },
+    "80505da39fb3f484": {
+      "title": "阳光电源：未来三年储能的整体装机规模会增加，预计增速在30%—50%之间",
+      "fetched_at": "2026-04-28T01:51:52.193518+00:00"
+    },
+    "0564129a2f73ac65": {
+      "title": "央行今日开展435亿元7天期逆回购操作",
+      "fetched_at": "2026-04-28T01:51:52.799782+00:00"
+    },
+    "5938ba85d02c876d": {
+      "title": "A股三大指数集体低开，药明康德涨超9%",
+      "fetched_at": "2026-04-28T01:51:53.398166+00:00"
+    },
+    "b5b38f4bc07af18f": {
+      "title": "恒指开盘跌0.43%，宁德时代跌超6%",
+      "fetched_at": "2026-04-28T01:51:54.002853+00:00"
+    },
+    "e76de351a75e85b1": {
+      "title": "4月28日人民币对美元中间价调贬10个基点",
+      "fetched_at": "2026-04-28T01:51:54.622275+00:00"
+    },
+    "6c1da1b19dcbce80": {
+      "title": "韩国散户“扫货”中国PCB龙头",
+      "fetched_at": "2026-04-28T01:51:55.258688+00:00"
+    },
+    "b4ef9ee314f340c6": {
+      "title": "“昇视唯盛”完成数千万元A+轮融资",
+      "fetched_at": "2026-04-28T01:51:55.867173+00:00"
+    },
+    "f285660daec1e9bf": {
+      "title": "全球首艘万车级双燃料汽车运输船即将交付",
+      "fetched_at": "2026-04-28T01:51:56.486456+00:00"
+    },
+    "da4e2ae12c538bfa": {
+      "title": "市场消息：OpenAI在冲刺IPO的关键阶段未达核心营收及用户目标",
+      "fetched_at": "2026-04-28T01:51:57.147270+00:00"
+    },
+    "c56ef1122d14cfbd": {
+      "title": "五一视界SimOne4.0先行版正式发布，已完成与英伟达产品深度融合",
+      "fetched_at": "2026-04-28T01:51:57.753229+00:00"
+    },
+    "8776698cb9054ad0": {
+      "title": "宁德时代50亿美元股票配售据悉获得超过150名投资者认购",
+      "fetched_at": "2026-04-28T01:51:58.359327+00:00"
+    },
+    "b2d2a28f23448c48": {
+      "title": "日本航空将测试用人形机器人在机场搬货，以应对人手短缺",
+      "fetched_at": "2026-04-28T01:51:58.978246+00:00"
+    },
+    "039521dd00ff3663": {
+      "title": "两市融资余额增加155.42亿元",
+      "fetched_at": "2026-04-28T01:51:59.623728+00:00"
+    },
+    "d805b6cf013fb6e3": {
+      "title": "深交所：港股通标的证券名单调入迈威生物-B",
+      "fetched_at": "2026-04-28T01:52:00.226050+00:00"
+    },
+    "90f68fd2d6f83959": {
+      "title": "派拉蒙寻求FCC批准中东资本大幅持股",
+      "fetched_at": "2026-04-28T01:52:00.847059+00:00"
+    },
+    "9181db752fbba272": {
+      "title": "台积电：正以“二倍速”推进扩产计划",
+      "fetched_at": "2026-04-28T01:52:01.465399+00:00"
+    },
+    "699d1e88cb98c8d0": {
+      "title": "中国要求Meta解除对Manus的收购",
+      "fetched_at": "2026-04-28T01:52:04.633517+00:00"
+    },
+    "ae3a37172d4a85d6": {
+      "title": "如果沒有美國，北約還靠得住嗎？",
+      "fetched_at": "2026-04-28T01:52:05.252970+00:00"
+    },
+    "ce5f43a6b168477d": {
+      "title": "伊朗战争令中国经济承压，广西数千名工人讨薪抗议",
+      "fetched_at": "2026-04-28T01:52:05.866451+00:00"
+    },
+    "178835dee60d01b0": {
+      "title": "CertHound – open-source SSL/TLS certificate discovery and auto-renewal agent",
+      "fetched_at": "2026-04-28T01:52:15.130564+00:00"
+    },
+    "809c476c3c598cdf": {
+      "title": "NASA rover uncovers rock with 7 new organic molecules on Mars — the 'most diverse collection' ever seen",
+      "fetched_at": "2026-04-28T01:52:15.761145+00:00"
+    },
+    "f1de96a9900e0b3a": {
+      "title": "The origin of human eyes traces back to an ancient \"cyclops\"",
+      "fetched_at": "2026-04-28T01:52:16.397103+00:00"
+    },
+    "3d58377fe48a63e8": {
+      "title": "Neanderthals' brains weren't to blame for their demise, new study suggests",
+      "fetched_at": "2026-04-28T01:52:17.021750+00:00"
+    },
+    "1a0a4326dda6992b": {
+      "title": "A new force of nature is reshaping the planet, study finds",
+      "fetched_at": "2026-04-28T01:52:17.720691+00:00"
+    },
+    "50fec7fe16c34c96": {
+      "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
+      "fetched_at": "2026-04-28T01:52:18.338442+00:00"
+    },
+    "2d65ac45d45ea326": {
+      "title": "Why two-sun planets keep disappearing scientists blame Einstein",
+      "fetched_at": "2026-04-28T01:52:18.961238+00:00"
     }
   },
-  "last_updated": "2026-04-27T19:03:49.044262+00:00"
+  "last_updated": "2026-04-28T01:52:19.108045+00:00"
 }
