@@ -1,157 +1,5 @@
 {
   "articles": {
-    "d0a9d9d8d72b9d13": {
-      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-      "fetched_at": "2026-04-21T18:56:02.002300+00:00"
-    },
-    "fc4f4c3fb3b97766": {
-      "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
-      "fetched_at": "2026-04-21T18:56:02.633140+00:00"
-    },
-    "1b543980a8810ca6": {
-      "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
-      "fetched_at": "2026-04-21T18:56:03.252045+00:00"
-    },
-    "6f7dd88ee4ea9534": {
-      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-      "fetched_at": "2026-04-21T18:56:03.863444+00:00"
-    },
-    "609abe2ccd52ab02": {
-      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
-      "fetched_at": "2026-04-21T18:56:04.477792+00:00"
-    },
-    "2cfa602f4fa856fe": {
-      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-      "fetched_at": "2026-04-21T18:56:05.106633+00:00"
-    },
-    "b881a282720f9737": {
-      "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
-      "fetched_at": "2026-04-21T18:56:05.729205+00:00"
-    },
-    "7c527b4b245c2b8a": {
-      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-      "fetched_at": "2026-04-21T18:56:06.339493+00:00"
-    },
-    "a96016e752e5648f": {
-      "title": "YouTube expands its AI likeness detection technology to celebrities",
-      "fetched_at": "2026-04-21T18:56:06.958781+00:00"
-    },
-    "f9ed04daab54f81c": {
-      "title": "John Ternus’ first big problem is AI",
-      "fetched_at": "2026-04-21T18:56:07.769014+00:00"
-    },
-    "ba0fe516915c00f1": {
-      "title": "GRAI believes AI can make music more social, not replace artists",
-      "fetched_at": "2026-04-21T18:56:08.459559+00:00"
-    },
-    "ebee51b0846b14cb": {
-      "title": "良品铺子：2025年亏损1.48亿元，拟10派2.49元",
-      "fetched_at": "2026-04-21T18:56:09.124649+00:00"
-    },
-    "3d266813220ff0bf": {
-      "title": "宁德时代发布麒麟凝聚态电池",
-      "fetched_at": "2026-04-21T18:56:09.737255+00:00"
-    },
-    "29306726408563b4": {
-      "title": "报道称大众汽车今年将在其中国车型中加入语音人工智能技术",
-      "fetched_at": "2026-04-21T18:56:10.395029+00:00"
-    },
-    "c9d2ad460af7e069": {
-      "title": "新黄浦：一季度净利润1.38亿元，同比增长78.26%",
-      "fetched_at": "2026-04-21T18:56:11.048041+00:00"
-    },
-    "4f94b1d979be43e5": {
-      "title": "科兴制药：2025年净利润1.56亿元，同比增长394.17%",
-      "fetched_at": "2026-04-21T18:56:11.735747+00:00"
-    },
-    "548c027cc2db5042": {
-      "title": "OpenAI正与顾问合作，拟出售Codex",
-      "fetched_at": "2026-04-21T18:56:12.362250+00:00"
-    },
-    "7d1696d06d996b3e": {
-      "title": "东山精密：2025年净利润13.86亿元，同比增长27.67%",
-      "fetched_at": "2026-04-21T18:56:12.979548+00:00"
-    },
-    "02e50352f9725681": {
-      "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
-      "fetched_at": "2026-04-21T18:56:13.609410+00:00"
-    },
-    "3eae6a89b806a8e1": {
-      "title": "Yelp is making its AI chatbot way more useful",
-      "fetched_at": "2026-04-21T18:56:14.225159+00:00"
-    },
-    "63450581adea6e1d": {
-      "title": "「非洲最後一塊拼圖」：賴清德臨時取消訪問史瓦帝尼，分析指北京對台灣「空中圍堵」",
-      "fetched_at": "2026-04-21T18:56:16.975693+00:00"
-    },
-    "3cb610b4535e1463": {
-      "title": "宏福苑居民災後首度「回家」執拾 ：「每一位居民都不甘心」",
-      "fetched_at": "2026-04-21T18:56:17.596382+00:00"
-    },
-    "1c4bca9fa6715bd0": {
-      "title": "什麼是海上封鎖？在霍爾木茲海峽如何實施封鎖？",
-      "fetched_at": "2026-04-21T18:56:18.232830+00:00"
-    },
-    "b2a2ff551b6b5aff": {
-      "title": "英國政府為何對進口中國車持放鬆姿態",
-      "fetched_at": "2026-04-21T18:56:18.858844+00:00"
-    },
-    "9936c59ee4c5335f": {
-      "title": "中國爆發式增長的團播潮背後：情感詐騙、主播收入和隱秘活動",
-      "fetched_at": "2026-04-21T18:56:19.493211+00:00"
-    },
-    "ee4b103dc0432ed7": {
-      "title": "NASA shuts off another Voyager 1 instrument as humanity's most distant spacecraft prepares for risky 'Big Bang' maneuver to save power",
-      "fetched_at": "2026-04-21T18:56:21.581526+00:00"
-    },
-    "5945aad532640bf5": {
-      "title": "Show HN: Wreflecto – word puzzle inspired by the ancient SATOR Square",
-      "fetched_at": "2026-04-21T18:56:22.201942+00:00"
-    },
-    "b5145f858f076099": {
-      "title": "The future of discovery: Keeping it fair for creators and partners",
-      "fetched_at": "2026-04-21T18:56:22.840912+00:00"
-    },
-    "ec7a6a07ce99d22d": {
-      "title": "Florida is facing its most intense drought in 15 years. Here's how it got so bad and how long it will last.",
-      "fetched_at": "2026-04-21T18:56:23.453235+00:00"
-    },
-    "5af29b4408d7197a": {
-      "title": "Neanderthal toddlers grew faster than modern humans, probably because of the harsh environment they evolved in",
-      "fetched_at": "2026-04-21T18:56:24.098298+00:00"
-    },
-    "5fff8a6741d2a18b": {
-      "title": "'Nations need to prepare now': Key Atlantic ocean current is much closer to collapse than scientists thought",
-      "fetched_at": "2026-04-21T18:56:24.731622+00:00"
-    },
-    "e6d4aa1c26181c1f": {
-      "title": "Curiosity rover finds signs of ancient life on Mars",
-      "fetched_at": "2026-04-21T18:56:25.351066+00:00"
-    },
-    "d0e043c527192a6a": {
-      "title": "Scientists just captured trees glowing with electricity during storms",
-      "fetched_at": "2026-04-21T18:56:25.977645+00:00"
-    },
-    "2d00eea67b8d7a0a": {
-      "title": "These tiny dinosaur fossils fooled scientists for 20 years",
-      "fetched_at": "2026-04-21T18:56:26.583313+00:00"
-    },
-    "e33d88aec1b2bb7d": {
-      "title": "A bizarre new state of matter may be hiding inside Uranus and Neptune",
-      "fetched_at": "2026-04-21T18:56:27.483431+00:00"
-    },
-    "7236a222b6b92771": {
-      "title": "This new camera captures what happens in a trillionth of a second",
-      "fetched_at": "2026-04-21T18:56:28.114637+00:00"
-    },
-    "08dea6965ccceedd": {
-      "title": "Breakthrough discovery reveals hidden oxygen flow deep inside catalysts",
-      "fetched_at": "2026-04-21T18:56:28.786633+00:00"
-    },
-    "a90066f445d1154a": {
-      "title": "Scientists discover skincare compound that kills drug-resistant bacteria",
-      "fetched_at": "2026-04-21T18:56:29.400946+00:00"
-    },
     "66ac8c32a4218617": {
       "title": "恒指开盘跌0.69%，恒生科技指数跌1.02%",
       "fetched_at": "2026-04-22T01:22:57.936053+00:00"
@@ -3803,7 +3651,127 @@
     "2ad5bc6494f5ff42": {
       "title": "These California bees are beating a killer that’s wiping out colonies",
       "fetched_at": "2026-04-29T13:20:49.973652+00:00"
+    },
+    "bf586e5d47c0666b": {
+      "title": "Our 2026 Direction: AI and Classic Workflows in JetBrains IDEs",
+      "fetched_at": "2026-04-29T19:07:22.294565+00:00"
+    },
+    "95fca540b4fa6d56": {
+      "title": "PocketOS AI Fiasco – Lesson in Automation Access",
+      "fetched_at": "2026-04-29T19:07:22.917426+00:00"
+    },
+    "43f55da6a23e4237": {
+      "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+      "fetched_at": "2026-04-29T19:07:23.537222+00:00"
+    },
+    "294ce13fbc5897c3": {
+      "title": "CipherTax – Safely use AI for tax filing by redacting PII locally",
+      "fetched_at": "2026-04-29T19:07:24.193906+00:00"
+    },
+    "3ff9873b61ed4555": {
+      "title": "They train LLM only with data up to 1930 and it still solves Python problems",
+      "fetched_at": "2026-04-29T19:07:24.817274+00:00"
+    },
+    "7900512602d58982": {
+      "title": "Two Heads Are Better Than One: Async Knowledge Injection for Speech AI",
+      "fetched_at": "2026-04-29T19:07:25.418454+00:00"
+    },
+    "d65c4086f34c94c8": {
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+      "fetched_at": "2026-04-29T19:07:26.024239+00:00"
+    },
+    "44627ae6b6a6de67": {
+      "title": "What agentic AI borrowed from microservices (and made worse)",
+      "fetched_at": "2026-04-29T19:07:26.630619+00:00"
+    },
+    "ca4cb994c4c643d2": {
+      "title": "AutoSP: Long-Context LLM Training via Compiler-Based Sequence Parallelism",
+      "fetched_at": "2026-04-29T19:07:27.241759+00:00"
+    },
+    "4223e638dc22521f": {
+      "title": "The math that explains AI lab economics [video]",
+      "fetched_at": "2026-04-29T19:07:27.846401+00:00"
+    },
+    "cf4aa0040f32ed3a": {
+      "title": "Growing Engineers in the Age of AI",
+      "fetched_at": "2026-04-29T19:07:28.459306+00:00"
+    },
+    "01a39df99d7f304f": {
+      "title": "#242 – Will MacAskill on why AI character matters more than you think",
+      "fetched_at": "2026-04-29T19:07:29.070092+00:00"
+    },
+    "27e69ce1070d3035": {
+      "title": "Incompressible Knowledge Probes: Measuring Frontier LLM Sizes",
+      "fetched_at": "2026-04-29T19:07:29.696348+00:00"
+    },
+    "50d5761c66d50368": {
+      "title": "All the evidence unveiled so far in Musk v. Altman",
+      "fetched_at": "2026-04-29T19:07:30.307463+00:00"
+    },
+    "0f787428666f1daf": {
+      "title": "Heads we win, tails you lose – AI detectors in education",
+      "fetched_at": "2026-04-29T19:07:30.907638+00:00"
+    },
+    "12afc09f033af1e4": {
+      "title": "Ramp's Sheets AI Exfiltrates Financials",
+      "fetched_at": "2026-04-29T19:07:31.521509+00:00"
+    },
+    "4bb4df5bdfb1e583": {
+      "title": "'The biggest decision yet': Jared Kaplan on allowing AI to train itself",
+      "fetched_at": "2026-04-29T19:07:32.135605+00:00"
+    },
+    "1a054ac58ff38500": {
+      "title": "(One) Good AI Is Here",
+      "fetched_at": "2026-04-29T19:07:32.940053+00:00"
+    },
+    "0213eb4a1a0cc800": {
+      "title": "Cursor Browser Swarm: letting AI agents see, test, and check their own UI work",
+      "fetched_at": "2026-04-29T19:07:33.651484+00:00"
+    },
+    "00483743cd085f50": {
+      "title": "Zero: Search Engine for AI Agents",
+      "fetched_at": "2026-04-29T19:07:34.261332+00:00"
+    },
+    "039b2a897b8e4c2a": {
+      "title": "'We can no longer ignore diseases in the deep human past': Malaria influenced early humans' migrations across Africa, study suggests",
+      "fetched_at": "2026-04-29T19:07:38.389012+00:00"
+    },
+    "f2a107815a42b909": {
+      "title": "Global Network of Discovery",
+      "fetched_at": "2026-04-29T19:07:39.021496+00:00"
+    },
+    "fe174778c501ddfc": {
+      "title": "Heartbeats physically stop cardiac cancer from growing — and that could be key to thwarting other cancers, too",
+      "fetched_at": "2026-04-29T19:07:39.641702+00:00"
+    },
+    "1eee491d57075ce3": {
+      "title": "Maya Site Discovered on Mexico’s Yucatán Peninsula",
+      "fetched_at": "2026-04-29T19:07:40.488554+00:00"
+    },
+    "34fa765d27f9f383": {
+      "title": "Runners have finally completed a sub 2-hour marathon, but another running world record was recently smashed — this time by a humanoid robot. Here's how.",
+      "fetched_at": "2026-04-29T19:07:41.104775+00:00"
+    },
+    "6bf06c735e6f13bf": {
+      "title": "Can NASA and SpaceX really build a moon base in the next 10 years?",
+      "fetched_at": "2026-04-29T19:07:41.718634+00:00"
+    },
+    "5a12c39b6e8e34a0": {
+      "title": "'Lifelong monogamy' and 'half orphans': DNA analysis reveals clues about life on the Roman frontier after the fall of Rome",
+      "fetched_at": "2026-04-29T19:07:42.336187+00:00"
+    },
+    "30d837273df2ae96": {
+      "title": "Mount Etna is like no other volcano on Earth, representing 'a new type of volcanism,' new research reveals",
+      "fetched_at": "2026-04-29T19:07:42.940957+00:00"
+    },
+    "796777a430f4ef26": {
+      "title": "'I violated every principle I was given': AI agent deletes company's entire database in 9 seconds, then confesses",
+      "fetched_at": "2026-04-29T19:07:43.549527+00:00"
+    },
+    "f7a3ea49e320f5d7": {
+      "title": "'I'm more hopeful that birds can endure than maybe even our own species': Paleontologist Steve Brusatte on why birds are the ultimate survivors",
+      "fetched_at": "2026-04-29T19:07:44.170753+00:00"
     }
   },
-  "last_updated": "2026-04-29T13:20:50.122637+00:00"
+  "last_updated": "2026-04-29T19:07:44.318446+00:00"
 }
