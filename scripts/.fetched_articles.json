@@ -1,97 +1,5 @@
 {
   "articles": {
-    "eb337ae266feada4": {
-      "title": "OPPO刘作虎：今年行业新机普遍大幅涨价，OPPO 面临不小成本压力",
-      "fetched_at": "2026-04-21T12:58:09.422040+00:00"
-    },
-    "76aef4758354d626": {
-      "title": "热门中概股美股盘前多数下跌，哔哩哔哩跌超3%",
-      "fetched_at": "2026-04-21T12:58:10.080185+00:00"
-    },
-    "b40fbe1998f5c01d": {
-      "title": "美股大型科技股盘前多数上涨，亚马逊涨超2%",
-      "fetched_at": "2026-04-21T12:58:10.664386+00:00"
-    },
-    "548d8024e9b7861e": {
-      "title": "Context.ai – SoC 2 Type II Report by Delve",
-      "fetched_at": "2026-04-21T12:58:11.256797+00:00"
-    },
-    "bf8442821a609881": {
-      "title": "光线传媒：一季度净利润2327.56万元，同比下降98.85%",
-      "fetched_at": "2026-04-21T12:58:11.836897+00:00"
-    },
-    "6fc44fedeec2ffaf": {
-      "title": "三博脑科：2025年净利润8418.28万元，同比下降19.85%",
-      "fetched_at": "2026-04-21T12:58:12.420666+00:00"
-    },
-    "b314b4e5de62423f": {
-      "title": "唯捷创芯：股东及其一致行动人拟减持不超2%公司股份",
-      "fetched_at": "2026-04-21T12:58:13.027933+00:00"
-    },
-    "6b39eaf711f1f92f": {
-      "title": "Show HN: Graph Compose – Temporal workflows with visual builder, SDK, and AI",
-      "fetched_at": "2026-04-21T12:58:13.640079+00:00"
-    },
-    "580729314f11947c": {
-      "title": "一季度广东实现地区生产总值同比增长4.6%",
-      "fetched_at": "2026-04-21T12:58:14.253500+00:00"
-    },
-    "30107d3422706e09": {
-      "title": "美国3月零售销售环比升1.7%",
-      "fetched_at": "2026-04-21T12:58:14.924056+00:00"
-    },
-    "e2c0d1de4992667a": {
-      "title": "Xkcd 2510 (2021 AD) describes LLM generated code",
-      "fetched_at": "2026-04-21T12:58:15.521506+00:00"
-    },
-    "78d8abb56a1303b6": {
-      "title": "长电科技：2025年先进封装营收创历史新高",
-      "fetched_at": "2026-04-21T12:58:16.112217+00:00"
-    },
-    "ba5eaaae374a962d": {
-      "title": "Show HN: Flight Risk: Can you break an AI agent?",
-      "fetched_at": "2026-04-21T12:58:16.682895+00:00"
-    },
-    "4467fe9c59d30f97": {
-      "title": "紫金矿业：一季度净利润200.79亿元，同比增长97.5%",
-      "fetched_at": "2026-04-21T12:58:17.257983+00:00"
-    },
-    "1ed3a2ebd2c7cddf": {
-      "title": "大众集团2026年将推出超20款新车，2030年实现50款车型交付",
-      "fetched_at": "2026-04-21T12:58:17.841579+00:00"
-    },
-    "e9b6e184fcd9a399": {
-      "title": "全志科技：一季度净利润2.03亿元，同比增长121.77%",
-      "fetched_at": "2026-04-21T12:58:18.428613+00:00"
-    },
-    "dd2b5aa7308e8223": {
-      "title": "Nodus – Never lose AI answers again",
-      "fetched_at": "2026-04-21T12:58:19.031002+00:00"
-    },
-    "42b526d911f4c36f": {
-      "title": "陆家嘴：一季度净利润1.99亿元，同比下降68.41%",
-      "fetched_at": "2026-04-21T12:58:19.611311+00:00"
-    },
-    "55357ea977533814": {
-      "title": "Show HN: I made an AI fitness coach that actually makes sure you reach the goal",
-      "fetched_at": "2026-04-21T12:58:20.202027+00:00"
-    },
-    "82c37cc53d2739ea": {
-      "title": "Mercury: I found an AI agent that refuses to do things",
-      "fetched_at": "2026-04-21T12:58:20.821297+00:00"
-    },
-    "e8070825adb570c8": {
-      "title": "「最後一塊拼圖」：賴清德臨時取消訪問史瓦帝尼，台灣的非洲唯一邦交國再成兩岸角力焦點",
-      "fetched_at": "2026-04-21T12:58:24.426212+00:00"
-    },
-    "c22a491b84268b5c": {
-      "title": "'We're the best servants anyone could dream of!': AI superintelligence has no need to enslave humans because we're already bowing to it",
-      "fetched_at": "2026-04-21T12:58:29.817219+00:00"
-    },
-    "606ebb7e4759dda8": {
-      "title": "New blood test aims to spot liver scarring before it paves the way to cancer",
-      "fetched_at": "2026-04-21T12:58:30.401632+00:00"
-    },
     "d0a9d9d8d72b9d13": {
       "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
       "fetched_at": "2026-04-21T18:56:02.002300+00:00"
@@ -3767,7 +3675,135 @@
     "731f95df4b1895d7": {
       "title": "從全紅嬋的哽咽到飯圈再現 體育明星遭「侵入式監控」難題待解",
       "fetched_at": "2026-04-29T07:58:49.020011+00:00"
+    },
+    "348ed352c05e6a08": {
+      "title": "Linear Algebra for Computer Vision, Robotics, and Machine Learning [pdf]",
+      "fetched_at": "2026-04-29T13:20:26.718845+00:00"
+    },
+    "5494110a8d1ce594": {
+      "title": "The uncomfortable truth about AI and the American worker",
+      "fetched_at": "2026-04-29T13:20:27.321497+00:00"
+    },
+    "8bc8ea89705136f4": {
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
+      "fetched_at": "2026-04-29T13:20:27.964440+00:00"
+    },
+    "13d3803e15cfbfb0": {
+      "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
+      "fetched_at": "2026-04-29T13:20:28.554743+00:00"
+    },
+    "81d5ed09cff63692": {
+      "title": "Coding Was Never the Hard Part: What I Wish Every Business Leader Knew About AI",
+      "fetched_at": "2026-04-29T13:20:29.169254+00:00"
+    },
+    "f8e5b4446d9b971d": {
+      "title": "Four engineers with 10 years of experience on staying relevant in the AI era",
+      "fetched_at": "2026-04-29T13:20:29.767604+00:00"
+    },
+    "2562a7c82d596dae": {
+      "title": "Show HN: Prxhub – open registry so AI agents stop re-running the same research",
+      "fetched_at": "2026-04-29T13:20:30.362740+00:00"
+    },
+    "30972654065c5dc3": {
+      "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+      "fetched_at": "2026-04-29T13:20:30.957909+00:00"
+    },
+    "6e2504bede89c97b": {
+      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "fetched_at": "2026-04-29T13:20:31.596866+00:00"
+    },
+    "a113307fc0b7369b": {
+      "title": "南方航空：公司及控股子公司拟向空客合计购买137架A320NEO系列飞机",
+      "fetched_at": "2026-04-29T13:20:32.256352+00:00"
+    },
+    "59766e7188e7f06c": {
+      "title": "AI Chatbots – Last Week Tonight [video]",
+      "fetched_at": "2026-04-29T13:20:32.859446+00:00"
+    },
+    "94a42b9394b6bf35": {
+      "title": "片仔癀：一季度净利润7.43亿元，同比下降25.64%",
+      "fetched_at": "2026-04-29T13:20:33.485976+00:00"
+    },
+    "21c27c9e36cff21c": {
+      "title": "热门中概股美股盘前涨跌不一，蔚来涨超4%",
+      "fetched_at": "2026-04-29T13:20:34.111201+00:00"
+    },
+    "c5a9d6dc4b953f5b": {
+      "title": "Megent – Firewall for AI Agents",
+      "fetched_at": "2026-04-29T13:20:34.708587+00:00"
+    },
+    "c96808f0838a3ac1": {
+      "title": "美股大型科技股盘前普跌，苹果跌超1%",
+      "fetched_at": "2026-04-29T13:20:35.314366+00:00"
+    },
+    "4c99b4c3ae9ca535": {
+      "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+      "fetched_at": "2026-04-29T13:20:35.925577+00:00"
+    },
+    "aaa67112fd47115e": {
+      "title": "三花智控：一季度净利润9.28亿元，同比增长2.68%",
+      "fetched_at": "2026-04-29T13:20:36.537929+00:00"
+    },
+    "aa20d135a2fa5f95": {
+      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+      "fetched_at": "2026-04-29T13:20:37.147334+00:00"
+    },
+    "507047b7ce8cfbec": {
+      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+      "fetched_at": "2026-04-29T13:20:37.750249+00:00"
+    },
+    "72881d05ac7e112f": {
+      "title": "中金公司：一季度净利润35.77亿元，同比增长75.19%",
+      "fetched_at": "2026-04-29T13:20:38.339187+00:00"
+    },
+    "a5aa2272fc122da4": {
+      "title": "《穿Prada的惡魔2》陷種族歧視爭議：亞洲首映受關注，有專家稱這是能影響一代人的「嚴肅問題」",
+      "fetched_at": "2026-04-29T13:20:41.016777+00:00"
+    },
+    "e3651e2467e86423": {
+      "title": "面临内外双重压力，伊朗就和谈发出矛盾信号",
+      "fetched_at": "2026-04-29T13:20:41.632377+00:00"
+    },
+    "0d641879cc46f188": {
+      "title": "《邁克爾・傑克遜》：註定引起爭議的話題電影",
+      "fetched_at": "2026-04-29T13:20:42.215573+00:00"
+    },
+    "667debd9185aacb0": {
+      "title": "'It cuts both ways': Positive tipping points can restore wreaked ecosystems — we just need to trigger them, Earth system scientist Tim Lenton says",
+      "fetched_at": "2026-04-29T13:20:44.973242+00:00"
+    },
+    "df3143229df804dc": {
+      "title": "Breakthrough in experimental light-powered quantum computers could mean scaling them up is now far more viable",
+      "fetched_at": "2026-04-29T13:20:45.582393+00:00"
+    },
+    "e8d2d8b05d80cbb6": {
+      "title": "Diagnostic dilemma: Rectal exam stabilized man's irregular heartbeat",
+      "fetched_at": "2026-04-29T13:20:46.192811+00:00"
+    },
+    "536c72dfbd5ba990": {
+      "title": "Scientists just found a chilling way life may have begun",
+      "fetched_at": "2026-04-29T13:20:46.802508+00:00"
+    },
+    "4498d72ff9ffafba": {
+      "title": "50-foot ancient snake discovered in India may be one of the largest ever",
+      "fetched_at": "2026-04-29T13:20:47.528447+00:00"
+    },
+    "7423b5f0b1948242": {
+      "title": "A one-in-a-million supernova seen five times could reveal the Universe’s true speed",
+      "fetched_at": "2026-04-29T13:20:48.143600+00:00"
+    },
+    "e6323b4c5d3d2848": {
+      "title": "Scientists just found the Milky Way’s edge and it’s closer than expected",
+      "fetched_at": "2026-04-29T13:20:48.753653+00:00"
+    },
+    "f388ebc1137f7db6": {
+      "title": "95% success rate: This new trick lures termites straight to their death",
+      "fetched_at": "2026-04-29T13:20:49.366254+00:00"
+    },
+    "2ad5bc6494f5ff42": {
+      "title": "These California bees are beating a killer that’s wiping out colonies",
+      "fetched_at": "2026-04-29T13:20:49.973652+00:00"
     }
   },
-  "last_updated": "2026-04-29T07:58:50.132102+00:00"
+  "last_updated": "2026-04-29T13:20:50.122637+00:00"
 }
