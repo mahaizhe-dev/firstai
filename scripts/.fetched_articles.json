@@ -1,137 +1,5 @@
 {
   "articles": {
-    "0b459fa59bc8734d": {
-      "title": "Meta employees are upset over AI training based on their work computer usage",
-      "fetched_at": "2026-04-22T07:19:08.895955+00:00"
-    },
-    "537738041371133b": {
-      "title": "“中科天塔”完成近亿元A+轮融资",
-      "fetched_at": "2026-04-22T07:19:09.577654+00:00"
-    },
-    "f7866f2dbaf6a796": {
-      "title": "Meta拟追踪美员工点击及击键数据训练AI，官方称数据不用于绩效评估",
-      "fetched_at": "2026-04-22T07:19:10.157719+00:00"
-    },
-    "ee37a731c067f944": {
-      "title": "Roundtables: Unveiling the Things That Matter in AI",
-      "fetched_at": "2026-04-22T07:19:10.742254+00:00"
-    },
-    "639064327c4baf7a": {
-      "title": "36氪研究院 | 2026年中国银发经济产业研究报告",
-      "fetched_at": "2026-04-22T07:19:11.333427+00:00"
-    },
-    "90418673d2e0a4bf": {
-      "title": "A股三大指数集体收涨，CPO概念领涨",
-      "fetched_at": "2026-04-22T07:19:11.909421+00:00"
-    },
-    "b4cfd3c674863236": {
-      "title": "沪深两市成交额突破2.5万亿元",
-      "fetched_at": "2026-04-22T07:19:12.491698+00:00"
-    },
-    "d78a82e6e7225ca2": {
-      "title": "Geo Content Writer: a backlog-first system for AI visibility content",
-      "fetched_at": "2026-04-22T07:19:13.076941+00:00"
-    },
-    "0e1ac501d9120e2d": {
-      "title": "机构：千问AI眼镜线上市场份额达53%，持续位居市场第一",
-      "fetched_at": "2026-04-22T07:19:13.662397+00:00"
-    },
-    "7e905dfe53adeb39": {
-      "title": "农业农村部：今日全国农产品批发市场猪肉平均价格为14.68元/公斤，比昨天下降0.7%",
-      "fetched_at": "2026-04-22T07:19:14.245262+00:00"
-    },
-    "89bf68edcd30f287": {
-      "title": "Show HN: GPT-Image-2 Prompts",
-      "fetched_at": "2026-04-22T07:19:14.821658+00:00"
-    },
-    "c06d0497c568df47": {
-      "title": "宝洁公司已成功注册WHITELOCK商标",
-      "fetched_at": "2026-04-22T07:19:15.449466+00:00"
-    },
-    "ef0d82098104c1a3": {
-      "title": "Zappa: An AI powered mitmproxy",
-      "fetched_at": "2026-04-22T07:19:16.025850+00:00"
-    },
-    "285210323f5abf86": {
-      "title": "英国3月CPI同比上涨3.3%",
-      "fetched_at": "2026-04-22T07:19:16.617917+00:00"
-    },
-    "26a0eba0557013b2": {
-      "title": "韩国预计到2040年用电量将增长近30%",
-      "fetched_at": "2026-04-22T07:19:17.200631+00:00"
-    },
-    "f26e51157e747c03": {
-      "title": "Agents with Taste – How to transfer taste into an AI",
-      "fetched_at": "2026-04-22T07:19:18.078883+00:00"
-    },
-    "a78cdfa7b6b0e53e": {
-      "title": "沪深两市成交额突破2万亿",
-      "fetched_at": "2026-04-22T07:19:18.667471+00:00"
-    },
-    "0180cf6fcd692d64": {
-      "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
-      "fetched_at": "2026-04-22T07:19:19.245703+00:00"
-    },
-    "a495c740fc82fb77": {
-      "title": "“清听声学”完成B+轮数亿元融资",
-      "fetched_at": "2026-04-22T07:19:19.841400+00:00"
-    },
-    "427f7d3e5823f0f7": {
-      "title": "Fast Image AI White Background",
-      "fetched_at": "2026-04-22T07:19:20.420420+00:00"
-    },
-    "d87a6c70ee13babd": {
-      "title": "戰爭陰影下的就業、通脹和消費 伊朗各行業大規模裁員",
-      "fetched_at": "2026-04-22T07:19:24.346560+00:00"
-    },
-    "d690797bfb02ec86": {
-      "title": "日本放寬武器出口規定，打破二戰後和平主義路線",
-      "fetched_at": "2026-04-22T07:19:24.933055+00:00"
-    },
-    "fb18403a3386b9bc": {
-      "title": "伊朗戰事迫使航班改道，機票價格飆升近25%",
-      "fetched_at": "2026-04-22T07:19:25.515675+00:00"
-    },
-    "23b7d1196fd0658f": {
-      "title": "卷心菜有多健康？",
-      "fetched_at": "2026-04-22T07:19:26.096284+00:00"
-    },
-    "9af098b73692ca32": {
-      "title": "伊朗与特朗普“谈不拢”的关键症结：信任",
-      "fetched_at": "2026-04-22T07:19:26.686270+00:00"
-    },
-    "dee9a5bc3528c5f3": {
-      "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
-      "fetched_at": "2026-04-22T07:19:27.278427+00:00"
-    },
-    "5c0879c1278632dd": {
-      "title": "無煙世代：英國有望對2008年後出生者實施終身禁煙",
-      "fetched_at": "2026-04-22T07:19:27.858464+00:00"
-    },
-    "06962e300cfc9cdb": {
-      "title": "特朗普延长与伊朗的停火协议",
-      "fetched_at": "2026-04-22T07:19:28.502984+00:00"
-    },
-    "502ebcb9aa9f408b": {
-      "title": "全球动荡穷国遭殃，但富国也无法幸免",
-      "fetched_at": "2026-04-22T07:19:29.322362+00:00"
-    },
-    "17a14ed582d1edec": {
-      "title": "哈佛与爱泼斯坦：学术、金钱和权势的“互惠互利”",
-      "fetched_at": "2026-04-22T07:19:29.907258+00:00"
-    },
-    "943d8284fcdb59f0": {
-      "title": "New toothpaste stops gum disease without killing good bacteria",
-      "fetched_at": "2026-04-22T07:19:31.826043+00:00"
-    },
-    "dfbd7b516b4be5a2": {
-      "title": "Gray whales are entering San Francisco Bay and many aren’t surviving",
-      "fetched_at": "2026-04-22T07:19:32.410692+00:00"
-    },
-    "529b2b0fc620e859": {
-      "title": "Light makes plants stronger but also holds them back",
-      "fetched_at": "2026-04-22T07:19:33.003426+00:00"
-    },
     "0d83ec375120f17d": {
       "title": "10天6板沃格光电：第一季度净亏损5110.30万元",
       "fetched_at": "2026-04-22T12:58:53.105254+00:00"
@@ -3783,7 +3651,151 @@
     "7236a222b6b92771": {
       "title": "This new camera captures what happens in a trillionth of a second",
       "fetched_at": "2026-04-30T01:53:38.955947+00:00"
+    },
+    "865a8278351db021": {
+      "title": "S佳通：因涉嫌信息披露违法违规，证监会决定对公司立案",
+      "fetched_at": "2026-04-30T08:01:38.441559+00:00"
+    },
+    "bd2a4e10f951e756": {
+      "title": "现货黄金向上触及4600美元/盎司",
+      "fetched_at": "2026-04-30T08:01:39.053655+00:00"
+    },
+    "87470cf3ec70dfe1": {
+      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+      "fetched_at": "2026-04-30T08:01:39.675002+00:00"
+    },
+    "0a46bacc88f928f7": {
+      "title": "LLM 0.32a0 is a major backwards-compatible refactor",
+      "fetched_at": "2026-04-30T08:01:40.290599+00:00"
+    },
+    "f1f46f95e3adac1c": {
+      "title": "亚马逊云科技推出桌面AI助手Amazon Quick",
+      "fetched_at": "2026-04-30T08:01:40.913348+00:00"
+    },
+    "a19a0d69216e88ff": {
+      "title": "国调基金二期入股海古德",
+      "fetched_at": "2026-04-30T08:01:41.558409+00:00"
+    },
+    "dd4e5d4cbfb93208": {
+      "title": "沧州大化：聚海分公司生产装置计划停产检修20天",
+      "fetched_at": "2026-04-30T08:01:42.182561+00:00"
+    },
+    "9a5deb3d3eed61ad": {
+      "title": "联发科一季度毛利率为46.3%，同比下滑1.8个百分点",
+      "fetched_at": "2026-04-30T08:01:42.935522+00:00"
+    },
+    "dfd4b7f58702dc94": {
+      "title": "Thoughts on WebAssembly as a Stack Machine",
+      "fetched_at": "2026-04-30T08:01:43.623903+00:00"
+    },
+    "2b6fa61ef6285f28": {
+      "title": "不谈空话，谈合作丨这场AI+产业对接会只聊落地",
+      "fetched_at": "2026-04-30T08:01:44.281079+00:00"
+    },
+    "9b7b14f3b872ad8a": {
+      "title": "Beyond 80/20: High-Entropy Minority Tokens Drive Effective RL for LLM Reasoning",
+      "fetched_at": "2026-04-30T08:01:44.896338+00:00"
+    },
+    "c0eae8c87112149f": {
+      "title": "工信部：一季度我国软件业务收入34920亿元，同比增长11.6%",
+      "fetched_at": "2026-04-30T08:01:45.508798+00:00"
+    },
+    "90222233aea91748": {
+      "title": "VS Code now enables Git AI co-authoring by default",
+      "fetched_at": "2026-04-30T08:01:46.128008+00:00"
+    },
+    "91303dd3f26c2d2e": {
+      "title": "AI Slopocalypse 2027",
+      "fetched_at": "2026-04-30T08:01:46.743846+00:00"
+    },
+    "b153f2e73414c3d4": {
+      "title": "Ask HN: Anyone using AI agents for active learning sprints? Here's my setup",
+      "fetched_at": "2026-04-30T08:01:47.367192+00:00"
+    },
+    "1376c46cd16864c7": {
+      "title": "A股三大指数收盘涨跌不一，寒武纪涨停",
+      "fetched_at": "2026-04-30T08:01:47.984564+00:00"
+    },
+    "2850ceebed7d209c": {
+      "title": "沪深两市成交额突破2.5万亿元",
+      "fetched_at": "2026-04-30T08:01:48.616546+00:00"
+    },
+    "4c08d45e5d927538": {
+      "title": "五一假期将至，用 iPhone 轻松搞定假日出行",
+      "fetched_at": "2026-04-30T08:01:49.245323+00:00"
+    },
+    "fe221d9971fd96d5": {
+      "title": "南向资金净买入额达100亿港元",
+      "fetched_at": "2026-04-30T08:01:49.245449+00:00"
+    },
+    "c06dc89a8968befd": {
+      "title": "阿里云等在广东横琴成立数梦时空智联科技公司",
+      "fetched_at": "2026-04-30T08:01:49.875330+00:00"
+    },
+    "0c10d3bd78e48f4c": {
+      "title": "三星繼承權之爭內幕：被忽視的長子和身陷囹圄的巨頭",
+      "fetched_at": "2026-04-30T08:01:52.355200+00:00"
+    },
+    "852802b7ceabb26e": {
+      "title": "這11種癌症在年輕人中增加，科學家首次找到原因線索",
+      "fetched_at": "2026-04-30T08:01:52.972202+00:00"
+    },
+    "18dc0294af81f38b": {
+      "title": "李连杰谈人生中意义重大的10件事",
+      "fetched_at": "2026-04-30T08:01:53.583774+00:00"
+    },
+    "334d1cf918f1f1aa": {
+      "title": "美國前FBI局長科米的貼文讓其遭起訴，但專家懷疑政府能否勝訴",
+      "fetched_at": "2026-04-30T08:01:54.210250+00:00"
+    },
+    "d383bb1c9ffb7886": {
+      "title": "白宫国宴宾客名单的秘密：受邀对象映射出怎样的美国？",
+      "fetched_at": "2026-04-30T08:01:54.838284+00:00"
+    },
+    "ed564c8a21330af4": {
+      "title": "“美国人显然没有战略”：德国总理言论激怒特朗普",
+      "fetched_at": "2026-04-30T08:01:55.458400+00:00"
+    },
+    "8d9442261a99f6c0": {
+      "title": "是时候认真清洗你的保温杯了",
+      "fetched_at": "2026-04-30T08:01:56.080692+00:00"
+    },
+    "2d8afc5ec9cdd63a": {
+      "title": "豆腐有多健康？",
+      "fetched_at": "2026-04-30T08:01:56.710527+00:00"
+    },
+    "21e8cac56e7d94bf": {
+      "title": "Scientists reveal the best exercise for knee arthritis pain relief",
+      "fetched_at": "2026-04-30T08:01:59.597649+00:00"
+    },
+    "4c5b5f90f2fc0b43": {
+      "title": "This AI knew the answers but didn’t understand the questions",
+      "fetched_at": "2026-04-30T08:02:00.204445+00:00"
+    },
+    "502db866a82f768e": {
+      "title": "A photon was teleported across 270 meters in stunning quantum breakthrough",
+      "fetched_at": "2026-04-30T08:02:00.823242+00:00"
+    },
+    "9f5956f284782150": {
+      "title": "A hidden map in your nose could explain how smell works",
+      "fetched_at": "2026-04-30T08:02:01.468850+00:00"
+    },
+    "3ed9c0348562066c": {
+      "title": "First-ever 3D view shows how killer T cells destroy cancer",
+      "fetched_at": "2026-04-30T08:02:02.100107+00:00"
+    },
+    "56c314ff4c7781af": {
+      "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
+      "fetched_at": "2026-04-30T08:02:02.733932+00:00"
+    },
+    "27c3f3ad84f43c94": {
+      "title": "Humanoid robots have outpaced human runners in the half-marathon, beating the world record ‪—‬ here are the secrets to this astonishing feat",
+      "fetched_at": "2026-04-30T08:02:03.365416+00:00"
+    },
+    "b06e64d0ee12b352": {
+      "title": "Bronze Age mines discovered in Spain may explain Scandinavian metal mystery",
+      "fetched_at": "2026-04-30T08:02:03.986324+00:00"
     }
   },
-  "last_updated": "2026-04-30T01:53:39.068716+00:00"
+  "last_updated": "2026-04-30T08:02:04.092171+00:00"
 }
