@@ -1,133 +1,5 @@
 {
   "articles": {
-    "0d83ec375120f17d": {
-      "title": "10天6板沃格光电：第一季度净亏损5110.30万元",
-      "fetched_at": "2026-04-22T12:58:53.105254+00:00"
-    },
-    "1ed5f93a70b7fac3": {
-      "title": "Google claims to have all the answers for enterprise AI agent sprawl",
-      "fetched_at": "2026-04-22T12:58:53.671866+00:00"
-    },
-    "c96af6e4582ca315": {
-      "title": "热门中概股美股盘前涨跌不一，小鹏集团跌超1%",
-      "fetched_at": "2026-04-22T12:58:54.315663+00:00"
-    },
-    "dfac28ed4130d912": {
-      "title": "美股大型科技股盘前普涨，谷歌涨超1%",
-      "fetched_at": "2026-04-22T12:58:54.945397+00:00"
-    },
-    "4e6e0c05122d30e3": {
-      "title": "谷歌云AI使用量达到每分钟160亿Tokens",
-      "fetched_at": "2026-04-22T12:58:55.509819+00:00"
-    },
-    "8bed6d66bd8571de": {
-      "title": "*ST创兴：预计触及财务类终止上市情形",
-      "fetched_at": "2026-04-22T12:58:56.102455+00:00"
-    },
-    "22e0723934d1f156": {
-      "title": "Show HN: Sift – save AI tokens in Codex/Claude by summarizing command output",
-      "fetched_at": "2026-04-22T12:58:56.694286+00:00"
-    },
-    "a910352cc1689e87": {
-      "title": "Alby AI Transport",
-      "fetched_at": "2026-04-22T12:58:57.259351+00:00"
-    },
-    "09057af013ddfd8a": {
-      "title": "Show HN: Galen – a structured layer between humans and AI",
-      "fetched_at": "2026-04-22T12:58:57.842877+00:00"
-    },
-    "52e8372d50e79299": {
-      "title": "迎驾贡酒：2025年归母净利润同比下降23.31%，拟10派15元",
-      "fetched_at": "2026-04-22T12:58:58.407912+00:00"
-    },
-    "c2b47c8ee5b7acb8": {
-      "title": "Show HN: Rapunzel – a tree-style terminal for AI agents",
-      "fetched_at": "2026-04-22T12:58:58.982096+00:00"
-    },
-    "8de6cf718bbfba50": {
-      "title": "Show HN: Cai – Local AI Action Layer for macOS (Free, MIT, MLX)",
-      "fetched_at": "2026-04-22T12:58:59.549452+00:00"
-    },
-    "61ed37a5694345f9": {
-      "title": "圆通速递：一季度归母净利润13.78亿元，同比增长60.76%",
-      "fetched_at": "2026-04-22T12:59:00.123596+00:00"
-    },
-    "d62e0afe445c89a6": {
-      "title": "What makes gpt-image-2 so good? Is the architecture of the training sets?",
-      "fetched_at": "2026-04-22T12:59:00.728301+00:00"
-    },
-    "96596e2220966aa3": {
-      "title": "Google unveils chips for AI training and inference in latest shot at Nvidia",
-      "fetched_at": "2026-04-22T12:59:01.301500+00:00"
-    },
-    "0dacf3e0241c8303": {
-      "title": "谷歌云发布用于人工智能的新型TPU芯片",
-      "fetched_at": "2026-04-22T12:59:01.866356+00:00"
-    },
-    "936f237eb5117a45": {
-      "title": "谷歌云推出7.5亿美元基金，助力合作伙伴加速智能体人工智能开发",
-      "fetched_at": "2026-04-22T12:59:02.463333+00:00"
-    },
-    "8a9d89577f3a6a05": {
-      "title": "七一二：控股子公司拟向北交所公开发行股票并上市",
-      "fetched_at": "2026-04-22T12:59:03.058134+00:00"
-    },
-    "db7b18a9c0dd7cf8": {
-      "title": "AI needs a strong data fabric to deliver business value",
-      "fetched_at": "2026-04-22T12:59:03.710349+00:00"
-    },
-    "ac388c08b36d3072": {
-      "title": "甲骨文扩大与谷歌云的合作关系",
-      "fetched_at": "2026-04-22T12:59:04.274927+00:00"
-    },
-    "6f46f52df9b63e42": {
-      "title": "「去看回我以前的家」 香港宏福苑首批回家執拾居民的追悼與道別",
-      "fetched_at": "2026-04-22T12:59:05.850972+00:00"
-    },
-    "ab84e806d3586b3d": {
-      "title": "新冠病毒新變種「蟬」有多令人擔憂？兒童是否更容易感染？",
-      "fetched_at": "2026-04-22T12:59:06.422263+00:00"
-    },
-    "e88e4e48043efc1d": {
-      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
-      "fetched_at": "2026-04-22T12:59:07.006561+00:00"
-    },
-    "5539dc3aee4cf14a": {
-      "title": "Diagnostic dilemma: A teen's classic diabetes symptoms didn't improve with treatment — revealing she also had a much rarer syndrome",
-      "fetched_at": "2026-04-22T12:59:09.204775+00:00"
-    },
-    "846ec696a608e3f3": {
-      "title": "Scientists stunned as JWST finds ice clouds on a giant alien planet",
-      "fetched_at": "2026-04-22T12:59:09.780287+00:00"
-    },
-    "cd96bac232605aa0": {
-      "title": "DNA reveals a hidden pitviper species in China",
-      "fetched_at": "2026-04-22T12:59:10.342571+00:00"
-    },
-    "494761c241b5e738": {
-      "title": "This “quantum” material fooled scientists and revealed something new",
-      "fetched_at": "2026-04-22T12:59:10.918818+00:00"
-    },
-    "3f7ab0e8ed3d602f": {
-      "title": "This donut-shaped discovery just shattered a 150-year math rule",
-      "fetched_at": "2026-04-22T12:59:11.492717+00:00"
-    },
-    "44070ac3270038c0": {
-      "title": "Ancient DNA reveals a hidden Neanderthal group frozen in time",
-      "fetched_at": "2026-04-22T12:59:12.059895+00:00"
-    },
-    "d4f7010fab18f8db": {
-      "title": "“Baffling” new snake species in Myanmar looks like multiple species at once",
-      "fetched_at": "2026-04-22T12:59:12.679007+00:00"
-    },
-    "e9bec34b031811db": {
-      "title": "Mini lake meets snowy rim of Canada's oldest ice mass — Earth from space",
-      "fetched_at": "2026-04-22T12:59:13.249243+00:00"
-    },
-    "e73783e41ac71ca1": {
-      "title": "Stone Age tombs in Scotland reveal 'webs of descent' among male relatives",
-      "fetched_at": "2026-04-22T12:59:13.833246+00:00"
-    },
     "f8ebdcade9881cd4": {
       "title": "Project Ace Sony AI [video]",
       "fetched_at": "2026-04-22T18:57:37.725533+00:00"
@@ -3795,7 +3667,119 @@
     "b06e64d0ee12b352": {
       "title": "Bronze Age mines discovered in Spain may explain Scandinavian metal mystery",
       "fetched_at": "2026-04-30T08:02:03.986324+00:00"
+    },
+    "ee685153295a9850": {
+      "title": "CHERI memory safety mitigates LLM-discovered vulnerability in FreeBSD",
+      "fetched_at": "2026-04-30T13:18:19.894036+00:00"
+    },
+    "42fadebbf294fcdc": {
+      "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
+      "fetched_at": "2026-04-30T13:18:20.517618+00:00"
+    },
+    "44bbd14cf751549e": {
+      "title": "A Licensure Framework for Autonomous Clinical AI",
+      "fetched_at": "2026-04-30T13:18:21.131109+00:00"
+    },
+    "9133d19908decdc6": {
+      "title": "Stripe launches Link for AI agents",
+      "fetched_at": "2026-04-30T13:18:21.760491+00:00"
+    },
+    "c7861056d7c4db02": {
+      "title": "Meta will beam sunlight from space to power AI data centers",
+      "fetched_at": "2026-04-30T13:18:22.382056+00:00"
+    },
+    "525c9e98c5d7f5b6": {
+      "title": "AI's: 100 days to irreversible systemic system collapse?",
+      "fetched_at": "2026-04-30T13:18:23.006724+00:00"
+    },
+    "5b38ded1f23d040d": {
+      "title": "Paste the description of your AI system, get your EU AI Act obligations in 60s",
+      "fetched_at": "2026-04-30T13:18:23.710699+00:00"
+    },
+    "740370c9f1afd852": {
+      "title": "山推工程机械股份有限公司向港交所提交上市申请书",
+      "fetched_at": "2026-04-30T13:18:24.343088+00:00"
+    },
+    "1c3add16d1925c2e": {
+      "title": "热门中概股美股盘前涨跌不一，蔚来跌超1%",
+      "fetched_at": "2026-04-30T13:18:24.984271+00:00"
+    },
+    "151aad3bb3d1f380": {
+      "title": "Contributor Poker and Zig's AI Ban",
+      "fetched_at": "2026-04-30T13:18:25.610691+00:00"
+    },
+    "1131b3c8a858566a": {
+      "title": "美股大型科技股盘前涨多跌少，谷歌涨超7%",
+      "fetched_at": "2026-04-30T13:18:26.235051+00:00"
+    },
+    "e202882bdfaf80d6": {
+      "title": "AI Has Made Memory Chips One of the World’s Most Profitable Products",
+      "fetched_at": "2026-04-30T13:18:26.856351+00:00"
+    },
+    "2470300efcae35aa": {
+      "title": "美国一季度经济增长低于市场预期",
+      "fetched_at": "2026-04-30T13:18:27.543764+00:00"
+    },
+    "9a0054866828d13a": {
+      "title": "智度股份：两家海外子公司涉诉事项仍在司法程序中，陆宏达已辞任公司董事长、董事",
+      "fetched_at": "2026-04-30T13:18:28.174148+00:00"
+    },
+    "ca10a801a49c34f6": {
+      "title": "The Data Layer Tax for Robot Learning",
+      "fetched_at": "2026-04-30T13:18:28.793309+00:00"
+    },
+    "99dec5ef82271ae6": {
+      "title": "安车检测：2025年归母净亏损1.78亿元",
+      "fetched_at": "2026-04-30T13:18:29.416492+00:00"
+    },
+    "08e6a15ac247c39f": {
+      "title": "美国上周首次申领失业救济人数为18.9万人",
+      "fetched_at": "2026-04-30T13:18:30.117334+00:00"
+    },
+    "f624eba44580894f": {
+      "title": "META公司计划通过发行债券筹集至多250亿美元的资金",
+      "fetched_at": "2026-04-30T13:18:30.881565+00:00"
+    },
+    "d9e1df7cc1c8a228": {
+      "title": "Agenda‑Intelligence.md: a protocol that turns AI news summarizers into analysts",
+      "fetched_at": "2026-04-30T13:18:31.557920+00:00"
+    },
+    "a8ff840c53fdb5f0": {
+      "title": "欧洲央行：维持三大关键利率不变，符合市场预期",
+      "fetched_at": "2026-04-30T13:18:32.200034+00:00"
+    },
+    "5be8f87425c844ce": {
+      "title": "2026高雄「亞洲同志運動會」：中國大陸選手為何全數被拒入境",
+      "fetched_at": "2026-04-30T13:18:35.223953+00:00"
+    },
+    "a7beab47b2b876a3": {
+      "title": "台灣如何陷於中美角力之間？",
+      "fetched_at": "2026-04-30T13:18:35.837609+00:00"
+    },
+    "dee9a5bc3528c5f3": {
+      "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
+      "fetched_at": "2026-04-30T13:18:36.453221+00:00"
+    },
+    "5c0879c1278632dd": {
+      "title": "無煙世代：英國有望對2008年後出生者實施終身禁煙",
+      "fetched_at": "2026-04-30T13:18:37.074249+00:00"
+    },
+    "e166aa26948377b1": {
+      "title": "'The detectors never stopped beeping!' Nearly 3,000 coins discovered in field are Norway's largest Viking hoard on record",
+      "fetched_at": "2026-04-30T13:18:39.110075+00:00"
+    },
+    "e5d89c8231c6e7b0": {
+      "title": "ZWO Seestar S30 Pro smart telescope review",
+      "fetched_at": "2026-04-30T13:18:39.743885+00:00"
+    },
+    "14adacff08067ec2": {
+      "title": "'Two lives hang in the balance': Risky surgery in the womb saved baby from deadly disorder at just 25 weeks gestation",
+      "fetched_at": "2026-04-30T13:18:40.363080+00:00"
+    },
+    "2befcc95ab0c386d": {
+      "title": "Google AI breakthrough means chatbots use six times less memory during conversations without compromising performance",
+      "fetched_at": "2026-04-30T13:18:40.987668+00:00"
     }
   },
-  "last_updated": "2026-04-30T08:02:04.092171+00:00"
+  "last_updated": "2026-04-30T13:18:41.138612+00:00"
 }
