@@ -1,113 +1,5 @@
 {
   "articles": {
-    "f8ebdcade9881cd4": {
-      "title": "Project Ace Sony AI [video]",
-      "fetched_at": "2026-04-22T18:57:37.725533+00:00"
-    },
-    "ac6f9bacecc8ce35": {
-      "title": "Anthropic investigates unauthorized access to unreleased Mythos cybersecurity AI",
-      "fetched_at": "2026-04-22T18:57:38.299700+00:00"
-    },
-    "a1be34f1f9adfa3f": {
-      "title": "AI and Teaching – The Brave New World",
-      "fetched_at": "2026-04-22T18:57:38.859523+00:00"
-    },
-    "f922e166a1cd002d": {
-      "title": "AI Is Like SEO",
-      "fetched_at": "2026-04-22T18:57:39.427146+00:00"
-    },
-    "bd1edfd3d664805e": {
-      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
-      "fetched_at": "2026-04-22T18:57:39.994696+00:00"
-    },
-    "dc4503ef45841d90": {
-      "title": "AI Tool Calls Should Fail at Compile Time, Not in Production",
-      "fetched_at": "2026-04-22T18:57:40.562181+00:00"
-    },
-    "cc45395431d82135": {
-      "title": "Andon Cafe – A cafe in Stockholm run by AI",
-      "fetched_at": "2026-04-22T18:57:41.125898+00:00"
-    },
-    "df0761c2f2d386d9": {
-      "title": "Lazarus: How North Korea uses AI to industrialize attacks on developers",
-      "fetched_at": "2026-04-22T18:57:41.691328+00:00"
-    },
-    "9ba015bf47b4ece3": {
-      "title": "Show HN: Trainly – Free 72-hour audit of your AI agent's production traces",
-      "fetched_at": "2026-04-22T18:57:42.260813+00:00"
-    },
-    "870816a655830fe0": {
-      "title": "AI-powered robot beats elite table tennis players",
-      "fetched_at": "2026-04-22T18:57:42.829507+00:00"
-    },
-    "d6092f3cefe722a6": {
-      "title": "The AI-Native Interview",
-      "fetched_at": "2026-04-22T18:57:43.403491+00:00"
-    },
-    "aa56497efce2b5d4": {
-      "title": "GPT-Proxy Backdoor in NPM and PyPI Turns Servers into Chinese LLM Relays",
-      "fetched_at": "2026-04-22T18:57:43.968311+00:00"
-    },
-    "f5ef79369521ea40": {
-      "title": "Show HN: Dead Simple Email – Email API for AI Agents",
-      "fetched_at": "2026-04-22T18:57:44.559513+00:00"
-    },
-    "9d71e21e5148c65e": {
-      "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
-      "fetched_at": "2026-04-22T18:57:45.179030+00:00"
-    },
-    "889ec4fe08d7e618": {
-      "title": "Google says 75% of its new code is AI written",
-      "fetched_at": "2026-04-22T18:57:45.749939+00:00"
-    },
-    "91fced1c6b13a42a": {
-      "title": "When the AI Cloud Comes for Texas Water",
-      "fetched_at": "2026-04-22T18:57:46.323725+00:00"
-    },
-    "2bf6f52f97e47b52": {
-      "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
-      "fetched_at": "2026-04-22T18:57:46.883412+00:00"
-    },
-    "435577de5ba964f5": {
-      "title": "Google turns Chrome into an AI co-worker for the workplace",
-      "fetched_at": "2026-04-22T18:57:47.446775+00:00"
-    },
-    "7773003686964067": {
-      "title": "Why Gen AI Isn't Quite Cost-Effective at Creating 3D Game Worlds",
-      "fetched_at": "2026-04-22T18:57:48.021371+00:00"
-    },
-    "77b3f3d32a89f7b3": {
-      "title": "What if we start to draw inspiration from nature's greatest machine?",
-      "fetched_at": "2026-04-22T18:57:48.595054+00:00"
-    },
-    "4e86c9c20c285890": {
-      "title": "Artemis moon landing could face long delay while NASA waits for next-generation spacesuits",
-      "fetched_at": "2026-04-22T18:58:53.084529+00:00"
-    },
-    "eda0b44237d40f28": {
-      "title": "Gene therapy improves hearing in 90% of patients with inherited deafness in largest trial of its kind",
-      "fetched_at": "2026-04-22T18:58:53.704023+00:00"
-    },
-    "bd0d9235bf91488e": {
-      "title": "Oil spills from Iran war may contaminate water and food supply and threaten protected wildlife refuge",
-      "fetched_at": "2026-04-22T18:58:54.355826+00:00"
-    },
-    "453b8d0f6b48e381": {
-      "title": "NASA's Curiosity rover finds a surprising number of giant 'dragon scales' littered across Mars",
-      "fetched_at": "2026-04-22T18:58:54.922145+00:00"
-    },
-    "c122c36caabf09f2": {
-      "title": "Watch an AI-powered table tennis robot beat elite players",
-      "fetched_at": "2026-04-22T18:58:55.486776+00:00"
-    },
-    "7bd478b9debe822c": {
-      "title": "Earth quiz: What do you know about our planet's most amazing features?",
-      "fetched_at": "2026-04-22T18:58:56.048683+00:00"
-    },
-    "648b8afd1fdd5d40": {
-      "title": "Ancient DNA reveals a lost population near Paris replaced by strangers",
-      "fetched_at": "2026-04-22T18:58:56.609738+00:00"
-    },
     "ad58034dc905525e": {
       "title": "A股三大指数集体高开，半导体板块领涨",
       "fetched_at": "2026-04-23T01:28:03.216042+00:00"
@@ -3779,7 +3671,131 @@
     "2befcc95ab0c386d": {
       "title": "Google AI breakthrough means chatbots use six times less memory during conversations without compromising performance",
       "fetched_at": "2026-04-30T13:18:40.987668+00:00"
+    },
+    "1ef4b0665dcb601c": {
+      "title": "Terminal AI Coding Agents Comparison Table",
+      "fetched_at": "2026-04-30T19:04:46.621555+00:00"
+    },
+    "fa1c8b942ac3b401": {
+      "title": "What we learned at YC's AI alumni event: running AI-native companies",
+      "fetched_at": "2026-04-30T19:04:47.433662+00:00"
+    },
+    "4a807bf76dd643a8": {
+      "title": "The Human Creativity Benchmark – Evaluating Generative AI in Creative Work",
+      "fetched_at": "2026-04-30T19:04:48.073235+00:00"
+    },
+    "f8a359762e9584e7": {
+      "title": "ReadBetweenTheWalls – AI Jargon Translator",
+      "fetched_at": "2026-04-30T19:04:48.711158+00:00"
+    },
+    "8bb660fd8316ee49": {
+      "title": "AI Infrastructure–Not Models–Will Define the Next Decade of AI",
+      "fetched_at": "2026-04-30T19:04:49.318579+00:00"
+    },
+    "1c22f69d032587af": {
+      "title": "The LLM Is Not a Junior Engineer",
+      "fetched_at": "2026-04-30T19:04:49.920077+00:00"
+    },
+    "7a9d9bdea4f50e5c": {
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "fetched_at": "2026-04-30T19:04:50.500704+00:00"
+    },
+    "109c0bfc58f63a24": {
+      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+      "fetched_at": "2026-04-30T19:04:51.134471+00:00"
+    },
+    "a34197fe9e773463": {
+      "title": "Albert: A model-agnostic AI coding CLI with provider fallback",
+      "fetched_at": "2026-04-30T19:04:51.791254+00:00"
+    },
+    "1e05f3b4fc88712f": {
+      "title": "GPT-5.5 is the second model to complete AISI multi-step cyber-attack simulation",
+      "fetched_at": "2026-04-30T19:04:52.384017+00:00"
+    },
+    "3ca73463090709f2": {
+      "title": "Benchmarking Local LLM/Harness Combinations",
+      "fetched_at": "2026-04-30T19:04:52.989328+00:00"
+    },
+    "18100a558089283f": {
+      "title": "Anthropic wants to be the AWS of agentic AI",
+      "fetched_at": "2026-04-30T19:04:53.585261+00:00"
+    },
+    "7e13520377896f4d": {
+      "title": "Ukraine Bets on Battlefield AI",
+      "fetched_at": "2026-04-30T19:04:54.184508+00:00"
+    },
+    "f5b03ae770a8f2c1": {
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "fetched_at": "2026-04-30T19:04:54.772463+00:00"
+    },
+    "9641c21d20674546": {
+      "title": "AI On-Call Engineer That Fixes Prod While I Sleep",
+      "fetched_at": "2026-04-30T19:04:55.364355+00:00"
+    },
+    "333f37449692dd1f": {
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "fetched_at": "2026-04-30T19:04:55.953686+00:00"
+    },
+    "4331218b91b14234": {
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "fetched_at": "2026-04-30T19:04:56.720883+00:00"
+    },
+    "879d010a3565e4c3": {
+      "title": "KKR Preparing New AI Firm Worth $10B Led by Ex-Amazon Web Chief",
+      "fetched_at": "2026-04-30T19:04:57.317402+00:00"
+    },
+    "d15f792e526e557d": {
+      "title": "AI breakthrough means chatbots use six times less memory during conversations",
+      "fetched_at": "2026-04-30T19:04:57.922908+00:00"
+    },
+    "6d9780747bb15868": {
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "fetched_at": "2026-04-30T19:04:58.562569+00:00"
+    },
+    "6f46f52df9b63e42": {
+      "title": "「去看回我以前的家」 香港宏福苑首批回家執拾居民的追悼與道別",
+      "fetched_at": "2026-04-30T19:05:01.561315+00:00"
+    },
+    "e88e4e48043efc1d": {
+      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
+      "fetched_at": "2026-04-30T19:05:02.172111+00:00"
+    },
+    "e1aef366ba668393": {
+      "title": "Weapons of the world quiz: Can you identify these historical objects of war?",
+      "fetched_at": "2026-04-30T19:05:06.884210+00:00"
+    },
+    "7114384c65607b5e": {
+      "title": "Cutting Through the Mythos: What AI Vulnerability Discovery Means for OT",
+      "fetched_at": "2026-04-30T19:05:07.496368+00:00"
+    },
+    "38f35bf92675a044": {
+      "title": "Thoughts on Historical Language Models and Talkie-1930",
+      "fetched_at": "2026-04-30T19:05:08.172505+00:00"
+    },
+    "ca4561a438b9b006": {
+      "title": "Octopus 'krakens' as large as semi-trucks stalked ancient seas",
+      "fetched_at": "2026-04-30T19:05:08.768827+00:00"
+    },
+    "846ec696a608e3f3": {
+      "title": "Scientists stunned as JWST finds ice clouds on a giant alien planet",
+      "fetched_at": "2026-04-30T19:05:09.379159+00:00"
+    },
+    "cd96bac232605aa0": {
+      "title": "DNA reveals a hidden pitviper species in China",
+      "fetched_at": "2026-04-30T19:05:09.978980+00:00"
+    },
+    "494761c241b5e738": {
+      "title": "This “quantum” material fooled scientists and revealed something new",
+      "fetched_at": "2026-04-30T19:05:10.582123+00:00"
+    },
+    "3f7ab0e8ed3d602f": {
+      "title": "This donut-shaped discovery just shattered a 150-year math rule",
+      "fetched_at": "2026-04-30T19:05:11.175262+00:00"
+    },
+    "d4f7010fab18f8db": {
+      "title": "“Baffling” new snake species in Myanmar looks like multiple species at once",
+      "fetched_at": "2026-04-30T19:05:11.780627+00:00"
     }
   },
-  "last_updated": "2026-04-30T13:18:41.138612+00:00"
+  "last_updated": "2026-04-30T19:05:11.932952+00:00"
 }
