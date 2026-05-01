@@ -1,121 +1,5 @@
 {
   "articles": {
-    "0d618dcbfb7566bb": {
-      "title": "闪送开源CLI，为同城即时速递行业首家",
-      "fetched_at": "2026-04-23T07:21:13.949731+00:00"
-    },
-    "6017ad4713933de4": {
-      "title": "刹车功能或丧失，大众在美召回18853辆汽车",
-      "fetched_at": "2026-04-23T07:21:14.556216+00:00"
-    },
-    "7f0b6daf35d8d305": {
-      "title": "千寻位置正式发布“具身时空大脑”产品集",
-      "fetched_at": "2026-04-23T07:21:15.148269+00:00"
-    },
-    "d4e0ceef4f75687f": {
-      "title": "Ask HN: Is the ongoing AI research driving LLM models to be better?",
-      "fetched_at": "2026-04-23T07:21:15.771948+00:00"
-    },
-    "6264b049dd2c8e31": {
-      "title": "正泰电器获评AAA主体信用评级",
-      "fetched_at": "2026-04-23T07:21:16.453245+00:00"
-    },
-    "daee92a37c039cd7": {
-      "title": "A股三大指数集体收跌，全市场超4000股下跌",
-      "fetched_at": "2026-04-23T07:21:17.262179+00:00"
-    },
-    "7a3ac0f950815cde": {
-      "title": "本田汽车业务将于2026年底退出韩国市场",
-      "fetched_at": "2026-04-23T07:21:17.860524+00:00"
-    },
-    "685b131c26427b2c": {
-      "title": "马斯克确认特斯拉HW3芯片无法支持无监督FSD",
-      "fetched_at": "2026-04-23T07:21:18.660752+00:00"
-    },
-    "c0b4bba0426d71b4": {
-      "title": "Show HN: Vibeyard – An open-source IDE for managing AI coding agents",
-      "fetched_at": "2026-04-23T07:21:19.312244+00:00"
-    },
-    "ff81cbab60f07031": {
-      "title": "Hey I made a AI Native personal workspace for the desktop worker",
-      "fetched_at": "2026-04-23T07:21:20.159980+00:00"
-    },
-    "8413d9593af2da99": {
-      "title": "沪深两市成交额连续第3个交易日突破2.5万亿",
-      "fetched_at": "2026-04-23T07:21:20.763407+00:00"
-    },
-    "0784a3fb3fccb60a": {
-      "title": "工信部：一季度移动互联网累计流量达1044亿GB，同比增长19.1%",
-      "fetched_at": "2026-04-23T07:21:21.374129+00:00"
-    },
-    "3103de86d0620c45": {
-      "title": "中船汉光回应业绩下滑：原材料涨价对成本有一定影响，向下游传导涨价有难度",
-      "fetched_at": "2026-04-23T07:21:21.965452+00:00"
-    },
-    "67e6122eed2d7a17": {
-      "title": "大麦娱乐联合阿里通义发布全球首个潮玩创作者AI设计平台“妙呀”",
-      "fetched_at": "2026-04-23T07:21:22.563067+00:00"
-    },
-    "11b5a942593a8a2a": {
-      "title": "工信部：一季度电信业务收入累计完成4394亿元，同比下降1.8%",
-      "fetched_at": "2026-04-23T07:21:23.159418+00:00"
-    },
-    "0d1c804c04245fa8": {
-      "title": "国家能源局：截至3月底全国累计发电装机容量39.6亿千瓦，同比增长15.5%",
-      "fetched_at": "2026-04-23T07:21:23.769354+00:00"
-    },
-    "aa16c598b29dad69": {
-      "title": "Anthropic二级市场估值升至万亿美元，超越OpenAI",
-      "fetched_at": "2026-04-23T07:21:24.362684+00:00"
-    },
-    "0f213d526ba7a98a": {
-      "title": "Aisbf – AI Service Broker Framework (BETA) unified proxy and intelligent router",
-      "fetched_at": "2026-04-23T07:21:24.963648+00:00"
-    },
-    "b56bfa382221e7bc": {
-      "title": "I programmed an AI in 6502 assembly",
-      "fetched_at": "2026-04-23T07:21:25.572315+00:00"
-    },
-    "7097382464ff58aa": {
-      "title": "雷诺集团一季度营收125.3亿欧元，同比增长7.3%",
-      "fetched_at": "2026-04-23T07:21:26.174357+00:00"
-    },
-    "f5a558c9d141a3bc": {
-      "title": "索馬利蘭: 「非洲之角」的大國博弈與台灣能源佈局背後的美中角力",
-      "fetched_at": "2026-04-23T07:21:29.077650+00:00"
-    },
-    "7dda48b2dec187d7": {
-      "title": "强大到“比核弹还糟糕”的AI：Mythos拉响网络安全警报",
-      "fetched_at": "2026-04-23T07:21:29.829048+00:00"
-    },
-    "3a81ed2dcfe1bbdc": {
-      "title": "中國一遊客死於英國村莊，警方稱「可能曾捲入衝突」",
-      "fetched_at": "2026-04-23T07:21:30.549425+00:00"
-    },
-    "6bce697e54d00bea": {
-      "title": "中國挺過了特朗普關稅，但現在伊朗戰爭的影響來了",
-      "fetched_at": "2026-04-23T07:21:31.140626+00:00"
-    },
-    "c31e3d44940590da": {
-      "title": "反特朗普主义团结了欧洲",
-      "fetched_at": "2026-04-23T07:21:31.730194+00:00"
-    },
-    "3fd4af14c1616650": {
-      "title": "日本对地震已“习以为常”，但如果特大地震发生呢？",
-      "fetched_at": "2026-04-23T07:21:32.396964+00:00"
-    },
-    "7303c9e33f6cd110": {
-      "title": "Scientists discover hidden forces are warping Earth deep beneath the surface",
-      "fetched_at": "2026-04-23T07:21:34.127600+00:00"
-    },
-    "8e7b3d0adbfb0d51": {
-      "title": "This ancient crocodile relative grew up on four legs then walked on two",
-      "fetched_at": "2026-04-23T07:21:34.733059+00:00"
-    },
-    "3d5daa2ce5af5e49": {
-      "title": "289-million-year-old mummified reptile reveals how breathing began on land",
-      "fetched_at": "2026-04-23T07:21:35.345545+00:00"
-    },
     "63d520ed44f45b5e": {
       "title": "华谊兄弟：法院决定启动预重整并指定临时管理人",
       "fetched_at": "2026-04-23T12:58:22.635213+00:00"
@@ -3743,7 +3627,135 @@
     "7d5af22e3cec4d93": {
       "title": "Viking Coin Hoard Discovered in Norway",
       "fetched_at": "2026-05-01T01:56:01.578623+00:00"
+    },
+    "d37ed2369b53bfe0": {
+      "title": "云深处科技完成IPO辅导",
+      "fetched_at": "2026-05-01T07:59:47.627531+00:00"
+    },
+    "ab62d5f84afaae85": {
+      "title": "小鹏集团4月共交付新车31011台",
+      "fetched_at": "2026-05-01T07:59:48.221458+00:00"
+    },
+    "4d83ad5dec29d0d0": {
+      "title": "苹果称印度反垄断机构越权，双方争端愈演愈烈",
+      "fetched_at": "2026-05-01T07:59:48.871670+00:00"
+    },
+    "0e44e7095ad1d590": {
+      "title": "界面财联社入股小红书关联公司",
+      "fetched_at": "2026-05-01T07:59:49.445044+00:00"
+    },
+    "3dd3fd5dd88eb22e": {
+      "title": "'Completely horrible': UK job hunters share frustration with AI interviews",
+      "fetched_at": "2026-05-01T07:59:50.055765+00:00"
+    },
+    "94af80e1de441657": {
+      "title": "Ask HN: Bedrock,Vertex AI etc. Support Anthropic Models",
+      "fetched_at": "2026-05-01T07:59:50.641221+00:00"
+    },
+    "109e7aeb635813ea": {
+      "title": "29家高股息且高增长公司连续派现",
+      "fetched_at": "2026-05-01T07:59:51.341562+00:00"
+    },
+    "a51ebc46c29ae19c": {
+      "title": "The AI supply crunch is here",
+      "fetched_at": "2026-05-01T07:59:51.917487+00:00"
+    },
+    "2caefa1465d5e233": {
+      "title": "A股年度派现金额创历史新高",
+      "fetched_at": "2026-05-01T07:59:52.488544+00:00"
+    },
+    "ff43fe303e2feba7": {
+      "title": "Reunderstanding the Power of AI Through Reverse Engineering",
+      "fetched_at": "2026-05-01T07:59:53.061736+00:00"
+    },
+    "7152d7441936f4d3": {
+      "title": "2026五一档档期总票房破亿",
+      "fetched_at": "2026-05-01T07:59:53.634470+00:00"
+    },
+    "47cf4c31adc4dcf7": {
+      "title": "杭州为具身智能机器人立法，今起施行",
+      "fetched_at": "2026-05-01T07:59:54.294767+00:00"
+    },
+    "fd554cdcff5a3f4e": {
+      "title": "今日铁路运输迎高峰，预计97万人次出京",
+      "fetched_at": "2026-05-01T07:59:54.866098+00:00"
+    },
+    "55f0aa75c1d2e0db": {
+      "title": "上汽乘用车4月零售超7.8万辆，同比增长15.5%",
+      "fetched_at": "2026-05-01T07:59:55.484244+00:00"
+    },
+    "940bc0b1aea643f7": {
+      "title": "鸿蒙智行4月交付32759台，同比增长18.9%",
+      "fetched_at": "2026-05-01T07:59:56.066443+00:00"
+    },
+    "d20e56ea6c5caf89": {
+      "title": "岚图汽车4月交付15146辆，同比增长51%",
+      "fetched_at": "2026-05-01T07:59:56.649167+00:00"
+    },
+    "1487885e141090bf": {
+      "title": "蔚来公司4月交付29,356台，同比增长22.8%",
+      "fetched_at": "2026-05-01T07:59:57.226262+00:00"
+    },
+    "46450b066eb6ad70": {
+      "title": "北京人形将发布天工Omni机器人",
+      "fetched_at": "2026-05-01T07:59:57.802266+00:00"
+    },
+    "5b190d967dfa720c": {
+      "title": "腾讯已入股游戏科学，持股24%",
+      "fetched_at": "2026-05-01T07:59:58.382234+00:00"
+    },
+    "238b9b616189c5d7": {
+      "title": "AI Tips and Tricks",
+      "fetched_at": "2026-05-01T07:59:58.988719+00:00"
+    },
+    "727a7751a709b336": {
+      "title": "AI科技如何協助「無精症」男性 解決不孕症",
+      "fetched_at": "2026-05-01T08:00:01.910627+00:00"
+    },
+    "8df4ecee6e94d4bf": {
+      "title": "美國歌手「小甜甜」布蘭妮在加州被控酒駕",
+      "fetched_at": "2026-05-01T08:00:02.488823+00:00"
+    },
+    "9048565401e262fa": {
+      "title": "中國取消對非洲國家關稅，但有一個國家除外",
+      "fetched_at": "2026-05-01T08:00:03.112822+00:00"
+    },
+    "f0b013b37e68e9bb": {
+      "title": "緬甸軍方稱昂山素季已轉為「居家軟禁」",
+      "fetched_at": "2026-05-01T08:00:03.710505+00:00"
+    },
+    "87df032fd7015b95": {
+      "title": "《穿Prada的惡魔2》歧視亞裔爭議發酵 台港觀眾怎麼看？",
+      "fetched_at": "2026-05-01T08:00:04.340110+00:00"
+    },
+    "0e79ab12ab80a87e": {
+      "title": "Why drinking more water didn’t prevent kidney stones",
+      "fetched_at": "2026-05-01T08:00:20.647373+00:00"
+    },
+    "fb22fb99951d6e79": {
+      "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
+      "fetched_at": "2026-05-01T08:00:21.222604+00:00"
+    },
+    "8994d4fc83fab8bd": {
+      "title": "AI discovery reveals DNA isn’t locked away in cells after all",
+      "fetched_at": "2026-05-01T08:00:21.817399+00:00"
+    },
+    "0260b8070b148e24": {
+      "title": "Surprising obesity discovery rewrites decades of fat metabolism science",
+      "fetched_at": "2026-05-01T08:00:22.396121+00:00"
+    },
+    "8cb04549f07dc5b9": {
+      "title": "Scientists finally explain how the Twelve Apostles rose from the ocean",
+      "fetched_at": "2026-05-01T08:00:23.067844+00:00"
+    },
+    "0f43397d8465e6d0": {
+      "title": "Hidden ocean heat is creeping toward Antarctica’s fragile ice shelves",
+      "fetched_at": "2026-05-01T08:00:23.639091+00:00"
+    },
+    "4f3e349509d076bb": {
+      "title": "This simple fatty acid could restore failing vision",
+      "fetched_at": "2026-05-01T08:00:24.226680+00:00"
     }
   },
-  "last_updated": "2026-05-01T01:56:01.690572+00:00"
+  "last_updated": "2026-05-01T08:00:24.364730+00:00"
 }
