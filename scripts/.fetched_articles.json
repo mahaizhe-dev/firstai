@@ -1,161 +1,5 @@
 {
   "articles": {
-    "ad58034dc905525e": {
-      "title": "A股三大指数集体高开，半导体板块领涨",
-      "fetched_at": "2026-04-23T01:28:03.216042+00:00"
-    },
-    "16d06a3ea50ff817": {
-      "title": "36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车",
-      "fetched_at": "2026-04-23T01:28:03.839454+00:00"
-    },
-    "10be98c22a9e9e2e": {
-      "title": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
-      "fetched_at": "2026-04-23T01:28:04.485790+00:00"
-    },
-    "b7c74fe38a6b2c7d": {
-      "title": "央行今日开展5亿元7天逆回购操作",
-      "fetched_at": "2026-04-23T01:28:05.112314+00:00"
-    },
-    "beb1313015afb52c": {
-      "title": "恒指开盘跌0.25%，恒生科技指数跌0.04%",
-      "fetched_at": "2026-04-23T01:28:05.731916+00:00"
-    },
-    "9f7036df93a0f3da": {
-      "title": "人民币兑美元中间价报6.8650",
-      "fetched_at": "2026-04-23T01:28:06.490599+00:00"
-    },
-    "d1ac8a76e873f8a8": {
-      "title": "SK海力士：计划下半年向客户提供HBM4E样品，2027年实现量产",
-      "fetched_at": "2026-04-23T01:28:07.108495+00:00"
-    },
-    "4bb10f311084bf10": {
-      "title": "T3出行向港交所提交上市申请",
-      "fetched_at": "2026-04-23T01:28:07.720612+00:00"
-    },
-    "b396061b194a4163": {
-      "title": "Hermes Agent – A self-improving AI agent",
-      "fetched_at": "2026-04-23T01:28:08.363017+00:00"
-    },
-    "a76ad04ae052eea8": {
-      "title": "AI Tokens Optimization",
-      "fetched_at": "2026-04-23T01:28:08.978397+00:00"
-    },
-    "bec7495411316d64": {
-      "title": "黑湖科技完成近10亿元D轮融资",
-      "fetched_at": "2026-04-23T01:28:09.590659+00:00"
-    },
-    "8f276ccdbdd89f87": {
-      "title": "微软承诺投资180亿美元以建设澳大利亚人工智能能力",
-      "fetched_at": "2026-04-23T01:28:10.204883+00:00"
-    },
-    "98bc2fd63218bf80": {
-      "title": "中金：A股市场近期建议关注三条主线",
-      "fetched_at": "2026-04-23T01:28:10.824266+00:00"
-    },
-    "c1049e5f3e80f8bc": {
-      "title": "How to turn off Google AI overview",
-      "fetched_at": "2026-04-23T01:28:11.539952+00:00"
-    },
-    "7e1f704e530c559d": {
-      "title": "银河证券：预计美股的进一步上行动力仍受财报季业绩兑现影响",
-      "fetched_at": "2026-04-23T01:28:12.200295+00:00"
-    },
-    "b29bd093d292fd62": {
-      "title": "两市融资余额增加136.61亿元",
-      "fetched_at": "2026-04-23T01:28:12.818774+00:00"
-    },
-    "f2e56a3718e6832b": {
-      "title": "中金：公募一季度加仓通信、化工及电力设备，减仓有色和电子",
-      "fetched_at": "2026-04-23T01:28:13.505596+00:00"
-    },
-    "bf84850bc00f4f9b": {
-      "title": "腾讯云发布Xinference供应链投毒风险通告",
-      "fetched_at": "2026-04-23T01:28:14.144642+00:00"
-    },
-    "08a6238d3d445144": {
-      "title": "CubeSandbox: Tencent's sandbox for ai agents",
-      "fetched_at": "2026-04-23T01:28:14.769793+00:00"
-    },
-    "a04cae01ef0c3b25": {
-      "title": "Fraud and the false optimism of AI for science",
-      "fetched_at": "2026-04-23T01:28:15.434151+00:00"
-    },
-    "c48b391dad44679a": {
-      "title": "报道称伊朗扣押两艘货船，美伊和谈不确定性加剧",
-      "fetched_at": "2026-04-23T01:28:18.110907+00:00"
-    },
-    "c98a242329fa3f9f": {
-      "title": "中国如何在南海建立新前哨基地",
-      "fetched_at": "2026-04-23T01:28:18.735427+00:00"
-    },
-    "ea370fe48e396a31": {
-      "title": "國共領袖時隔十年會晤 台灣民眾怎麼看？",
-      "fetched_at": "2026-04-23T01:28:19.351744+00:00"
-    },
-    "785831c543c58d2d": {
-      "title": "美中角力：誰在登月競賽中領先？",
-      "fetched_at": "2026-04-23T01:28:19.966489+00:00"
-    },
-    "ed13667fcdda678a": {
-      "title": "Ask HN: Feedback request on new external network attack surface discovery tool",
-      "fetched_at": "2026-04-23T01:28:22.941764+00:00"
-    },
-    "0ab0217c66cb1658": {
-      "title": "Show HN: RedAI – AI-driven vulnerability discovery and live validation",
-      "fetched_at": "2026-04-23T01:28:23.555976+00:00"
-    },
-    "5342d2e978e400e7": {
-      "title": "Egyptian mummy has part of the 'Iliad' in its abdomen, archaeologists discover",
-      "fetched_at": "2026-04-23T01:28:24.162971+00:00"
-    },
-    "4f3e349509d076bb": {
-      "title": "This simple fatty acid could restore failing vision",
-      "fetched_at": "2026-04-23T01:28:24.798349+00:00"
-    },
-    "aa607f436ef37060": {
-      "title": "A simple messenger build for Agent-2-Agent communication and discovery",
-      "fetched_at": "2026-04-23T01:28:25.433756+00:00"
-    },
-    "8fba59842fe846cb": {
-      "title": "American Family Repatriates Artifacts to Greece",
-      "fetched_at": "2026-04-23T01:28:26.063256+00:00"
-    },
-    "5d46629c301758ae": {
-      "title": "Early Ship Burial Discovered on Norwegian Island",
-      "fetched_at": "2026-04-23T01:28:27.021846+00:00"
-    },
-    "70e41298468d2169": {
-      "title": "Mammal ancestors laid eggs, and this 250-million-year-old fossil finally proves it",
-      "fetched_at": "2026-04-23T01:28:27.744087+00:00"
-    },
-    "ee35faaccb7a63c1": {
-      "title": "Scientists just recreated a rare cosmic reaction never seen before",
-      "fetched_at": "2026-04-23T01:28:28.363838+00:00"
-    },
-    "dc5bbe542f22fc90": {
-      "title": "Scientists just debunked a 50-year myth about Hawaii’s birds",
-      "fetched_at": "2026-04-23T01:28:28.979367+00:00"
-    },
-    "0897c277c7821331": {
-      "title": "Scientists discover why bread can cause weight gain without extra calories",
-      "fetched_at": "2026-04-23T01:28:29.614888+00:00"
-    },
-    "d51b7b5ac122150d": {
-      "title": "Quantum systems can remember and forget at the same time, scientists discover",
-      "fetched_at": "2026-04-23T01:28:30.271319+00:00"
-    },
-    "5819eb4b5af43b96": {
-      "title": "Scientists finally know where the Colorado River’s missing water is going",
-      "fetched_at": "2026-04-23T01:28:30.888559+00:00"
-    },
-    "2c765994cfe0d615": {
-      "title": "This strange “pearling” motion inside cells could change how we understand disease",
-      "fetched_at": "2026-04-23T01:28:31.554775+00:00"
-    },
-    "8ac70c819f5b68f1": {
-      "title": "The people you live with could be changing your gut bacteria",
-      "fetched_at": "2026-04-23T01:28:32.175248+00:00"
-    },
     "0d618dcbfb7566bb": {
       "title": "闪送开源CLI，为同城即时速递行业首家",
       "fetched_at": "2026-04-23T07:21:13.949731+00:00"
@@ -3795,7 +3639,111 @@
     "d4f7010fab18f8db": {
       "title": "“Baffling” new snake species in Myanmar looks like multiple species at once",
       "fetched_at": "2026-04-30T19:05:11.780627+00:00"
+    },
+    "700791e4b129f43a": {
+      "title": "苹果CEO库克：预计第三季度的内存成本将显著高于第二季度",
+      "fetched_at": "2026-05-01T01:55:42.166591+00:00"
+    },
+    "7c0d0b44f7447646": {
+      "title": "借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线",
+      "fetched_at": "2026-05-01T01:55:42.778800+00:00"
+    },
+    "5aa1a0bd1efe9595": {
+      "title": "Enabling privacy-preserving AI training on everyday devices",
+      "fetched_at": "2026-05-01T01:55:43.391785+00:00"
+    },
+    "75e30ba63bc4ffa2": {
+      "title": "特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
+      "fetched_at": "2026-05-01T01:55:44.016331+00:00"
+    },
+    "dd06072ae6cb55e0": {
+      "title": "State of the AI Frontier, April 2026",
+      "fetched_at": "2026-05-01T01:55:44.625910+00:00"
+    },
+    "da6e967bcb84743f": {
+      "title": "A股2025年营收排行榜出炉 AI服务器龙头营收大增",
+      "fetched_at": "2026-05-01T01:55:45.241216+00:00"
+    },
+    "604a673d2eabf272": {
+      "title": "AI Skills as loader spec, not prompts – why the architecture changes everything",
+      "fetched_at": "2026-05-01T01:55:45.873916+00:00"
+    },
+    "cb6ec53122fcac4d": {
+      "title": "苹果第二财季营收1111.8亿美元，同比增长17%",
+      "fetched_at": "2026-05-01T01:55:46.495936+00:00"
+    },
+    "9d9c08ffe0ce328a": {
+      "title": "AI Status (Mac App)| FOSS",
+      "fetched_at": "2026-05-01T01:55:47.106796+00:00"
+    },
+    "5a97a957b9bf70e7": {
+      "title": "What We're Missing About Generative AI",
+      "fetched_at": "2026-05-01T01:55:47.733084+00:00"
+    },
+    "8ccd79b99d337755": {
+      "title": "美股三大指数集体收涨，高通涨超15%",
+      "fetched_at": "2026-05-01T01:55:48.346910+00:00"
+    },
+    "45b4c805f0f9ee81": {
+      "title": "Show HN: LLM-Powered News –> Event Map, Timeline, and Analysis",
+      "fetched_at": "2026-05-01T01:55:48.970593+00:00"
+    },
+    "3e0e7d821e5197df": {
+      "title": "Ask HN: Any dashboards give realtime average AI chatbot response time?",
+      "fetched_at": "2026-05-01T01:55:49.663328+00:00"
+    },
+    "e684e3b1c539d558": {
+      "title": "LLM Quantization",
+      "fetched_at": "2026-05-01T01:55:50.288777+00:00"
+    },
+    "c9fcf360e3c88659": {
+      "title": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them with AI",
+      "fetched_at": "2026-05-01T01:55:50.918677+00:00"
+    },
+    "19df97f522407ec0": {
+      "title": "In Musk vs. Altman case, judge warns lawyers that AI itself is not on trial",
+      "fetched_at": "2026-05-01T01:55:51.544813+00:00"
+    },
+    "0535f2da70266a29": {
+      "title": "Onyx Pro, a local desktop utility for resetting AI IDE trial state",
+      "fetched_at": "2026-05-01T01:55:52.158239+00:00"
+    },
+    "f03c72d23c3e53d0": {
+      "title": "Ask HN: Local or Cloud -based AI?",
+      "fetched_at": "2026-05-01T01:55:52.783277+00:00"
+    },
+    "7f8f308dbc81baf1": {
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "fetched_at": "2026-05-01T01:55:53.399800+00:00"
+    },
+    "8a4244df174b2162": {
+      "title": "Palo Alto Networks to Acquire Portkey to Secure the Rise of AI Agents",
+      "fetched_at": "2026-05-01T01:55:54.009125+00:00"
+    },
+    "953313ab28c6d770": {
+      "title": "不只有石油——伊朗戰爭及中國出口管制正威脅亞洲糧食安全",
+      "fetched_at": "2026-05-01T01:55:57.191413+00:00"
+    },
+    "8eff359aa3928219": {
+      "title": "為什麼AI公司想讓你害怕？",
+      "fetched_at": "2026-05-01T01:55:57.808009+00:00"
+    },
+    "519408ca0530e2b0": {
+      "title": "Poop-encrusted chamber pots from the Roman Empire reveal oldest known human cases of Crypto parasite",
+      "fetched_at": "2026-05-01T01:55:59.543675+00:00"
+    },
+    "bab454292a94d9af": {
+      "title": "Study Suggests Neanderthal Children Grew Quickly",
+      "fetched_at": "2026-05-01T01:56:00.293875+00:00"
+    },
+    "bc22ca6999766638": {
+      "title": "Neolithic Pit Full of Beaver Bones Uncovered in Germany",
+      "fetched_at": "2026-05-01T01:56:00.961990+00:00"
+    },
+    "7d5af22e3cec4d93": {
+      "title": "Viking Coin Hoard Discovered in Norway",
+      "fetched_at": "2026-05-01T01:56:01.578623+00:00"
     }
   },
-  "last_updated": "2026-04-30T19:05:11.932952+00:00"
+  "last_updated": "2026-05-01T01:56:01.690572+00:00"
 }
