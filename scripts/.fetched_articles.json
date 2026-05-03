@@ -1,129 +1,5 @@
 {
   "articles": {
-    "838c2f4a18898522": {
-      "title": "Are We in Control of AI?",
-      "fetched_at": "2026-04-25T18:34:50.796082+00:00"
-    },
-    "3214bed3e71e0cc1": {
-      "title": "AI agents that argue with each other to improve decisions",
-      "fetched_at": "2026-04-25T18:34:51.357983+00:00"
-    },
-    "d71a3ce1e7353973": {
-      "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
-      "fetched_at": "2026-04-25T18:34:51.927117+00:00"
-    },
-    "b7df990ebd7c0913": {
-      "title": "Vorim.ai, Identity and trust layer for AI agents",
-      "fetched_at": "2026-04-25T18:34:52.514230+00:00"
-    },
-    "aa2c205034544a06": {
-      "title": "I can never talk to an AI anonymously again",
-      "fetched_at": "2026-04-25T18:34:53.075381+00:00"
-    },
-    "69dc3c9afa2b5f9c": {
-      "title": "AI Will Have the Biggest Impact on Photography Since the Digital Camera (2018)",
-      "fetched_at": "2026-04-25T18:34:53.635468+00:00"
-    },
-    "9b3c5ffeb8a06461": {
-      "title": "Outerloop – A persistent world where AI agents live alongside humans",
-      "fetched_at": "2026-04-25T18:34:54.197676+00:00"
-    },
-    "502bf9f87e870d23": {
-      "title": "Research Topics in AI and ML in 2026 and Their Philosophical Connections",
-      "fetched_at": "2026-04-25T18:34:54.783433+00:00"
-    },
-    "b4c2eb08a1a55e4d": {
-      "title": "Claude Mythos: The first AI-native cyberweapon?",
-      "fetched_at": "2026-04-25T18:34:55.352514+00:00"
-    },
-    "4afc0de06570f804": {
-      "title": "An amateur just solved a 60-year-old math problem–by asking AI",
-      "fetched_at": "2026-04-25T18:34:55.909340+00:00"
-    },
-    "a7b7f9fbc53720c6": {
-      "title": "Sense, local code intelligence for AI coding agents",
-      "fetched_at": "2026-04-25T18:34:56.563561+00:00"
-    },
-    "1a4cb29cd6fd8ffc": {
-      "title": "FSF Position on \"Ethical\" AI",
-      "fetched_at": "2026-04-25T18:34:57.117147+00:00"
-    },
-    "879c085b9e2396ee": {
-      "title": "The AI Compute Crunch Is Here (and It's Affecting the Economy)",
-      "fetched_at": "2026-04-25T18:34:57.679291+00:00"
-    },
-    "c1adccef0b76af25": {
-      "title": "Chatnik: LLM Host in the Shell",
-      "fetched_at": "2026-04-25T18:34:58.248691+00:00"
-    },
-    "76e556f64f4c1371": {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "fetched_at": "2026-04-25T18:34:58.809769+00:00"
-    },
-    "9affa207098517ec": {
-      "title": "GPT-5.5 is a biased evaluator: authorship and order effects",
-      "fetched_at": "2026-04-25T18:34:59.368716+00:00"
-    },
-    "785b4d341935facc": {
-      "title": "AI Is Cannibalizing Human Intelligence",
-      "fetched_at": "2026-04-25T18:34:59.925488+00:00"
-    },
-    "b93ee2b63abdabe3": {
-      "title": "Doctors and education experts call for a 5-year AI moratorium in schools",
-      "fetched_at": "2026-04-25T18:35:00.485453+00:00"
-    },
-    "dac9ac2fe441a6fa": {
-      "title": "Utah Medical Board urges immediate halt of Doctronic AI prescribing algorithm [pdf]",
-      "fetched_at": "2026-04-25T18:35:01.044768+00:00"
-    },
-    "094dc614fd8e625a": {
-      "title": "North Carolina student fights accusation of AI use",
-      "fetched_at": "2026-04-25T18:35:01.615921+00:00"
-    },
-    "94d18200b8b60c2a": {
-      "title": "The Trump administration wants to open precious East Coast forests to logging and mining",
-      "fetched_at": "2026-04-25T18:35:05.958599+00:00"
-    },
-    "b31d573330555f82": {
-      "title": "'Eventually, it becomes you': Inventors of new 'living' knee replacement describe why this tech is desperately needed and how it works",
-      "fetched_at": "2026-04-25T18:35:06.515395+00:00"
-    },
-    "df5010d8ef2af311": {
-      "title": "'The push towards renewables is unstoppable because it's in a country's self-interest': Climate scientist Andy Reisinger on Trump, Iran, and the future of Earth",
-      "fetched_at": "2026-04-25T18:35:07.159203+00:00"
-    },
-    "3f3435423612cc84": {
-      "title": "Scientists just discovered Africa is closer to breaking apart than we thought",
-      "fetched_at": "2026-04-25T18:35:07.942977+00:00"
-    },
-    "10ccdb990721ec93": {
-      "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
-      "fetched_at": "2026-04-25T18:35:08.507076+00:00"
-    },
-    "d6d9af1c526f3e7a": {
-      "title": "This exotic particle could finally explain why matter has mass",
-      "fetched_at": "2026-04-25T18:35:09.074600+00:00"
-    },
-    "785691f64e05d1c4": {
-      "title": "Gravitational waves may have created dark matter in the early universe",
-      "fetched_at": "2026-04-25T18:35:09.635382+00:00"
-    },
-    "13bf4503ddc3f8fe": {
-      "title": "Giant octopuses may have ruled the oceans 100 million years ago",
-      "fetched_at": "2026-04-25T18:35:10.194173+00:00"
-    },
-    "046f0d81b90b9fbf": {
-      "title": "Giant prehistoric insects didn’t need high oxygen after all, study finds",
-      "fetched_at": "2026-04-25T18:35:10.752819+00:00"
-    },
-    "412c0d23f8c2ff3c": {
-      "title": "Scientists just found what keeps plant cells from growing out of control",
-      "fetched_at": "2026-04-25T18:35:11.309857+00:00"
-    },
-    "e8f284288a1540ed": {
-      "title": "NASA scientist says a mysterious \"fifth force\" may be hiding in our solar system",
-      "fetched_at": "2026-04-25T18:35:11.905932+00:00"
-    },
     "646d8c99c21c63a9": {
       "title": "湖南AI中心落地湘江新区",
       "fetched_at": "2026-04-26T01:30:05.479516+00:00"
@@ -3671,7 +3547,135 @@
     "4e8098dcaa28f4d9": {
       "title": "Did Japan have female samurai?",
       "fetched_at": "2026-05-03T12:43:10.092769+00:00"
+    },
+    "d82ba4d441280af8": {
+      "title": "Writing the loss function: AI, feeds, and the engagement optimizer",
+      "fetched_at": "2026-05-03T18:41:46.850283+00:00"
+    },
+    "42caf91093f4a665": {
+      "title": "The Croupier – AI-powered candidate discovery and ranking for recruiting teams",
+      "fetched_at": "2026-05-03T18:41:47.468287+00:00"
+    },
+    "af613962476aaacc": {
+      "title": "Separating what AI does well from what code does well",
+      "fetched_at": "2026-05-03T18:41:48.087961+00:00"
+    },
+    "c99197b10acb3d17": {
+      "title": "Public Runtime for Convera for LLM's",
+      "fetched_at": "2026-05-03T18:41:48.694103+00:00"
+    },
+    "f7d549344e3ee6dc": {
+      "title": "MCP-x-Mac-Seed – An AI agent that discovers Mac apps and writes its own tools",
+      "fetched_at": "2026-05-03T18:41:49.305958+00:00"
+    },
+    "d3134c2434a14441": {
+      "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+      "fetched_at": "2026-05-03T18:41:50.007744+00:00"
+    },
+    "744ba8bc4934fdd0": {
+      "title": "Elon Musk Says AI 'Smarter Than Humans' Next Year During OpenAI Testimony",
+      "fetched_at": "2026-05-03T18:41:50.605762+00:00"
+    },
+    "5274d8bd9d4bb96b": {
+      "title": "The Oscars just banned AI from winning acting and writing awards",
+      "fetched_at": "2026-05-03T18:41:51.204999+00:00"
+    },
+    "535b638973ba1d36": {
+      "title": "Most Companies Aren't Anywhere Near Ready for AI",
+      "fetched_at": "2026-05-03T18:41:51.792437+00:00"
+    },
+    "5d8b2daeca7e9fb5": {
+      "title": "Show HN: MegaLLM – Universal LLM client for any OpenAI-compatible API",
+      "fetched_at": "2026-05-03T18:41:52.386913+00:00"
+    },
+    "ef5971350846d023": {
+      "title": "How many e's are in the word seventeen [video] (AI hallucination)",
+      "fetched_at": "2026-05-03T18:41:52.981906+00:00"
+    },
+    "dd3551ab859926dd": {
+      "title": "Eliza effect at work: Avoiding emotional attachment to AI coworkers",
+      "fetched_at": "2026-05-03T18:41:53.585504+00:00"
+    },
+    "0230f4341e314f74": {
+      "title": "Can Investors Trust AI Sales Figures?",
+      "fetched_at": "2026-05-03T18:41:54.188427+00:00"
+    },
+    "7ed2053f958c479d": {
+      "title": "On AI-Created Art: An Interview with Adam Clegg",
+      "fetched_at": "2026-05-03T18:41:54.788777+00:00"
+    },
+    "9f844a985a20f3c2": {
+      "title": "AI chatbot fraud: the 'gift card' subcription that may cost you dear",
+      "fetched_at": "2026-05-03T18:41:55.377879+00:00"
+    },
+    "41a3cf91ce3bb2c4": {
+      "title": "Do you think AI Agents need an identity?",
+      "fetched_at": "2026-05-03T18:41:55.968444+00:00"
+    },
+    "e853a2ee5ca58f71": {
+      "title": "SmartTune CLI – APM/BF/PX4 Log Analysis for AI Agents",
+      "fetched_at": "2026-05-03T18:41:56.579130+00:00"
+    },
+    "9ddd1d556c0d03af": {
+      "title": "Tape16: A modern tape machine DAW",
+      "fetched_at": "2026-05-03T18:41:57.178128+00:00"
+    },
+    "e6975051e8c34e9c": {
+      "title": "Show HN: Llmconfig – configfile and CLI for local LLM",
+      "fetched_at": "2026-05-03T18:41:57.777441+00:00"
+    },
+    "7ee422ac53a91be8": {
+      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "fetched_at": "2026-05-03T18:41:58.377954+00:00"
+    },
+    "b7c2e8331711c345": {
+      "title": "'Sacrifice zones' around critical mineral mines are rife with pollution, child workers and birth defects",
+      "fetched_at": "2026-05-03T18:42:13.266675+00:00"
+    },
+    "f372e84a36c00d2d": {
+      "title": "Scientists just discovered what coffee is really doing to your gut and brain",
+      "fetched_at": "2026-05-03T18:42:13.880919+00:00"
+    },
+    "9b302fa51760b98e": {
+      "title": "Show HN: SSL certificate discovery from CT logs",
+      "fetched_at": "2026-05-03T18:42:14.484285+00:00"
+    },
+    "1d7a60f2852a2c42": {
+      "title": "Malaria didn’t just kill early humans, it shaped who we became",
+      "fetched_at": "2026-05-03T18:42:15.089002+00:00"
+    },
+    "2534ab1b3927858e": {
+      "title": "The creepy feeling in old buildings might have a surprising cause",
+      "fetched_at": "2026-05-03T18:42:15.714189+00:00"
+    },
+    "c4bd1552a70a08be": {
+      "title": "Universal Bug Discovery Algorithm",
+      "fetched_at": "2026-05-03T18:42:16.316913+00:00"
+    },
+    "f91a7f78f351966c": {
+      "title": "Physicists just found a tiny flaw in time itself",
+      "fetched_at": "2026-05-03T18:42:17.057658+00:00"
+    },
+    "b76d37c22192b410": {
+      "title": "Scientists found the brain doesn’t start blank, it starts full",
+      "fetched_at": "2026-05-03T18:42:17.662963+00:00"
+    },
+    "8cde84fcec0ec0ce": {
+      "title": "Are your memories real? Physicists revisit the Boltzmann brain paradox",
+      "fetched_at": "2026-05-03T18:42:18.264724+00:00"
+    },
+    "df28f5b4b26f5502": {
+      "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
+      "fetched_at": "2026-05-03T18:42:18.850009+00:00"
+    },
+    "620cc8e377f1d508": {
+      "title": "Scientists stunned as pink katydid transforms into green camouflage",
+      "fetched_at": "2026-05-03T18:42:19.462975+00:00"
+    },
+    "e500110406918380": {
+      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia",
+      "fetched_at": "2026-05-03T18:42:20.152181+00:00"
     }
   },
-  "last_updated": "2026-05-03T12:43:10.204168+00:00"
+  "last_updated": "2026-05-03T18:42:20.299059+00:00"
 }
