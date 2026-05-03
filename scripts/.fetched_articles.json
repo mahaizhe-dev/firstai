@@ -1,93 +1,5 @@
 {
   "articles": {
-    "8e586c607c04f0dc": {
-      "title": "本田在华研发转向中方主导",
-      "fetched_at": "2026-04-25T07:01:37.538746+00:00"
-    },
-    "92fa2e0b6dee835b": {
-      "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
-      "fetched_at": "2026-04-25T07:01:38.152760+00:00"
-    },
-    "5427e2340adbc7ac": {
-      "title": "五菱与华为乾崑签署深化战略合作协议，华境S 5月8日正式上市",
-      "fetched_at": "2026-04-25T07:01:38.780687+00:00"
-    },
-    "299dc86da4e9d363": {
-      "title": "司美格鲁肽专利到期月余未见“国产首证”，多家申报企业称审批因数据保护期“暂缓”",
-      "fetched_at": "2026-04-25T07:01:39.413980+00:00"
-    },
-    "b527df36e71d51c5": {
-      "title": "市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核",
-      "fetched_at": "2026-04-25T07:01:40.115026+00:00"
-    },
-    "fac8f97d90f1bc73": {
-      "title": "AMD Ryzen AI Max+ AI PCs Deliver Exceptional Intelligence Right on Your Desk",
-      "fetched_at": "2026-04-25T07:01:40.737813+00:00"
-    },
-    "5a6f24ceef7e9664": {
-      "title": "GPT-5.5 Prompting Guide",
-      "fetched_at": "2026-04-25T07:01:41.366243+00:00"
-    },
-    "ca40ef9136f21a88": {
-      "title": "In visit to Brown, Jaron Lanier says people are thinking about AI all wrong",
-      "fetched_at": "2026-04-25T07:01:41.999475+00:00"
-    },
-    "4bd71a5fff9868c8": {
-      "title": "亚洲首个盐穴储氢工程投产运行",
-      "fetched_at": "2026-04-25T07:01:42.639292+00:00"
-    },
-    "66ceb809249e71ef": {
-      "title": "首个全国产控制系统水光互补项目今天投运",
-      "fetched_at": "2026-04-25T07:01:43.260281+00:00"
-    },
-    "c6bd42b24f8270d3": {
-      "title": "天猫618推家电\"送装一体\"，覆盖全国95%区域",
-      "fetched_at": "2026-04-25T07:01:43.888891+00:00"
-    },
-    "ffedd0b297b761f1": {
-      "title": "GitHub Copilot: GPT-5.5 7.5x more expensive under promotional pricing than 5.4",
-      "fetched_at": "2026-04-25T07:01:44.526047+00:00"
-    },
-    "f2b52b15e6c5a139": {
-      "title": "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
-      "fetched_at": "2026-04-25T07:01:45.253107+00:00"
-    },
-    "3ad80757b62fb8f4": {
-      "title": "Show HN: Built an AI that maps 17 facial dimensions and shows what to improve",
-      "fetched_at": "2026-04-25T07:01:45.872943+00:00"
-    },
-    "7392056bb484fc6c": {
-      "title": "美图立方视觉艺术中心开工，预计2028年投入使用",
-      "fetched_at": "2026-04-25T07:01:46.490552+00:00"
-    },
-    "8fad1ba63c01ba82": {
-      "title": "阿塞拜疆主权财富基金第一季度抛售约22吨黄金，十多年来首次减持",
-      "fetched_at": "2026-04-25T07:01:47.113374+00:00"
-    },
-    "0fa9862ca2be9434": {
-      "title": "Frontman is an open-source AI coding agent that lives in the browser",
-      "fetched_at": "2026-04-25T07:01:47.728326+00:00"
-    },
-    "02313b8e61e49642": {
-      "title": "A pipeline that forces AI to justify decisions before acting (I'm a florist)",
-      "fetched_at": "2026-04-25T07:01:48.367429+00:00"
-    },
-    "a30e10dffa39e64a": {
-      "title": "I just beat AI traders with math",
-      "fetched_at": "2026-04-25T07:01:48.986699+00:00"
-    },
-    "a7c93a755dff2aa9": {
-      "title": "Show HN: Bunny Agent – Build Coding Agent SaaS via Native AI SDK UI",
-      "fetched_at": "2026-04-25T07:01:49.601477+00:00"
-    },
-    "e17c909134d05b39": {
-      "title": "Science history: Chernobyl nuclear power plant melts down, bringing the world to the brink of disaster — April 26, 1986",
-      "fetched_at": "2026-04-25T07:01:56.518654+00:00"
-    },
-    "e500110406918380": {
-      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia",
-      "fetched_at": "2026-04-25T07:01:57.253161+00:00"
-    },
     "9d734b68611d1977": {
       "title": "卡尔动力发布KargoBot Inside",
       "fetched_at": "2026-04-25T12:38:05.377400+00:00"
@@ -3639,7 +3551,115 @@
     "8a46f8f4d84578cb": {
       "title": "Scientists find perfect fossils in rust beneath Australian farmland",
       "fetched_at": "2026-05-03T01:48:47.139858+00:00"
+    },
+    "37ca6f748c01cf97": {
+      "title": "第四届链博会哥斯达黎加推介会成功举办",
+      "fetched_at": "2026-05-03T07:45:37.482561+00:00"
+    },
+    "f5db7caeafe6f58e": {
+      "title": "Learning Pseudorandom Numbers with Transformers",
+      "fetched_at": "2026-05-03T07:45:38.052763+00:00"
+    },
+    "9f6f4c1fd75e9cfc": {
+      "title": "Cajal – Local AI that writes peer-reviewed papers with simulated peer review",
+      "fetched_at": "2026-05-03T07:45:38.626725+00:00"
+    },
+    "5715711675570069": {
+      "title": "The Human Line Project: Documenting AI Chatbot Harm",
+      "fetched_at": "2026-05-03T07:45:39.197155+00:00"
+    },
+    "a0f5cebf60f52033": {
+      "title": "Musk vs. Altman week 1: Elon Musk says he was duped, warns AI could kill us all",
+      "fetched_at": "2026-05-03T07:45:39.765710+00:00"
+    },
+    "622291922b69a44e": {
+      "title": "A股2025年销售毛利率排行榜：医药生物+计算机两大行业霸榜",
+      "fetched_at": "2026-05-03T07:45:40.399607+00:00"
+    },
+    "858919215396c002": {
+      "title": "Musk's AI told me people were coming to kill me (BBC)",
+      "fetched_at": "2026-05-03T07:45:40.969370+00:00"
+    },
+    "2a6680d5340ebb94": {
+      "title": "Arknet – decentralized AI inference, fair launch, one binary",
+      "fetched_at": "2026-05-03T07:45:41.537777+00:00"
+    },
+    "858c48a9d459db82": {
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "fetched_at": "2026-05-03T07:45:42.108118+00:00"
+    },
+    "5af708fb0080eabe": {
+      "title": "The AI coding tool config problem is getting worse, not better",
+      "fetched_at": "2026-05-03T07:45:42.806780+00:00"
+    },
+    "9da749a6575f571e": {
+      "title": "江苏扬州：人才5年内在市区购买新建商品住房 “人才安家券”最高抵扣200万元首付款",
+      "fetched_at": "2026-05-03T07:45:43.369003+00:00"
+    },
+    "48abb283a0a1d6c0": {
+      "title": "Artisan (YC W24) uses AI to rip off \"This is Fine\" artist for ad",
+      "fetched_at": "2026-05-03T07:45:43.963949+00:00"
+    },
+    "70a67df1c6031d0a": {
+      "title": "福州地铁客流连创新高",
+      "fetched_at": "2026-05-03T07:45:44.587745+00:00"
+    },
+    "726e4c2ac606ebf9": {
+      "title": "铁路12306回应热门车次开售即售罄",
+      "fetched_at": "2026-05-03T07:45:45.163237+00:00"
+    },
+    "28e1591571da77c3": {
+      "title": "I Wrote Ultralearning. This Is What I'd Change Because of AI",
+      "fetched_at": "2026-05-03T07:45:45.792593+00:00"
+    },
+    "81e7ba9ead31bfec": {
+      "title": "Show HN: UIGen – Runtime front end for any OpenAPI spec with AI skills",
+      "fetched_at": "2026-05-03T07:45:46.358861+00:00"
+    },
+    "8308d90ce40781aa": {
+      "title": "全球单机容量最大漂浮式海上风电平台安装完成",
+      "fetched_at": "2026-05-03T07:45:46.930746+00:00"
+    },
+    "9cf04e35200c8b01": {
+      "title": "“开市客北京”已申请注销公司",
+      "fetched_at": "2026-05-03T07:45:47.807063+00:00"
+    },
+    "28716ac591288e7e": {
+      "title": "Quantum Machine Learning: A Pragmatic Guide for Classical ML Engineers",
+      "fetched_at": "2026-05-03T07:45:48.380668+00:00"
+    },
+    "1aa5fcdcf0eea682": {
+      "title": "义龙庆高速公路首座隧道双幅贯通",
+      "fetched_at": "2026-05-03T07:45:49.014051+00:00"
+    },
+    "aa498b385cd4777f": {
+      "title": "伊朗戰爭意外增強了烏克蘭的實力，俄烏距離停火協議是否更進一步？",
+      "fetched_at": "2026-05-03T07:45:51.143143+00:00"
+    },
+    "60d3095c6693b40d": {
+      "title": "台灣總統賴清德指責中國導致行程取消數日後，宣佈抵達史瓦帝尼進行國是訪問",
+      "fetched_at": "2026-05-03T07:45:51.747344+00:00"
+    },
+    "3f40805991589229": {
+      "title": "「地球上最嚴酷的地方之一」：1960年代試圖重塑世界的綠色「烏托邦」",
+      "fetched_at": "2026-05-03T07:45:52.313262+00:00"
+    },
+    "d3ca3b0c2ec1a269": {
+      "title": "Running Shoes Have Evolved – From Ancient Greece to Record-Breaking Marathons",
+      "fetched_at": "2026-05-03T07:45:54.019387+00:00"
+    },
+    "c2f06854248211e5": {
+      "title": "Ancient amber reveals a true bug equipped with claws, a highly unusual feature",
+      "fetched_at": "2026-05-03T07:45:54.640185+00:00"
+    },
+    "236dbc5993bed22d": {
+      "title": "Warner Bros. Discovery shareholders approve Paramount acquisition",
+      "fetched_at": "2026-05-03T07:45:55.208305+00:00"
+    },
+    "632b2282d3f65c67": {
+      "title": "Show HN: Historical Python source documentation, from 1.0.1 through 2.0c1",
+      "fetched_at": "2026-05-03T07:45:55.778892+00:00"
     }
   },
-  "last_updated": "2026-05-03T01:48:47.246199+00:00"
+  "last_updated": "2026-05-03T07:45:55.918735+00:00"
 }
