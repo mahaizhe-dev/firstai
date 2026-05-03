@@ -1,129 +1,5 @@
 {
   "articles": {
-    "644d670ff8f32c06": {
-      "title": "黑芝麻智能发布FAD天衍L3级自动驾驶平台",
-      "fetched_at": "2026-04-25T01:20:34.366452+00:00"
-    },
-    "a972d832e937908a": {
-      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
-      "fetched_at": "2026-04-25T01:20:34.998629+00:00"
-    },
-    "029c185ddb077ed2": {
-      "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
-      "fetched_at": "2026-04-25T01:20:35.630686+00:00"
-    },
-    "97330e737b17f6a1": {
-      "title": "美股三大指数收盘涨跌不一，英特尔涨超23%",
-      "fetched_at": "2026-04-25T01:20:36.256165+00:00"
-    },
-    "747ba922b63350ac": {
-      "title": "White House Memo on Adversarial Distillation of American AI Models [pdf]",
-      "fetched_at": "2026-04-25T01:20:36.867048+00:00"
-    },
-    "966745b2e0e8ec1c": {
-      "title": "Fast-AI-detector: a fast local CLI for detecting AI-generated text",
-      "fetched_at": "2026-04-25T01:20:37.481354+00:00"
-    },
-    "3da0aa330a991663": {
-      "title": "Alex Bores' AI Policy Framework for Congress [pdf]",
-      "fetched_at": "2026-04-25T01:20:38.098754+00:00"
-    },
-    "fadf866fef5d3bcc": {
-      "title": "Lumitime Automata – The Most Amazing Digital Clock Is a Machine [video]",
-      "fetched_at": "2026-04-25T01:20:38.719729+00:00"
-    },
-    "c6a4290e5b564fd2": {
-      "title": "Giving AI Agents Database Access Is Way Harder Than It Looks",
-      "fetched_at": "2026-04-25T01:20:39.342282+00:00"
-    },
-    "97f146197f849748": {
-      "title": "The xAI exodus: Meet the people who have left Musk's AI company",
-      "fetched_at": "2026-04-25T01:20:39.964456+00:00"
-    },
-    "592f2f81dfe397c1": {
-      "title": "Study: Does the brain work like an LLM in predicting words?",
-      "fetched_at": "2026-04-25T01:20:40.603099+00:00"
-    },
-    "5036703cca50af33": {
-      "title": "GPT 5.5 sets new record in proofreading benchmark",
-      "fetched_at": "2026-04-25T01:20:41.247951+00:00"
-    },
-    "b9d0ca920a4cc3e2": {
-      "title": "After call from Beijing, China's auto industry races to embed AI in everything",
-      "fetched_at": "2026-04-25T01:20:41.865504+00:00"
-    },
-    "dee8c13833d9f0b7": {
-      "title": "Replacing probabilistic AI with deterministic math and Dafny formal verification",
-      "fetched_at": "2026-04-25T01:20:42.492942+00:00"
-    },
-    "555a63a66c7866c3": {
-      "title": "The Space Between Humans, AI, and the Work We've Been Avoiding",
-      "fetched_at": "2026-04-25T01:20:43.110264+00:00"
-    },
-    "e096fbf6975f55dd": {
-      "title": "Editable 3D models with code or AI in Roblox",
-      "fetched_at": "2026-04-25T01:20:43.728418+00:00"
-    },
-    "e9051ed230b23f25": {
-      "title": "What Is an Enterprise Learning Management System?",
-      "fetched_at": "2026-04-25T01:20:44.348051+00:00"
-    },
-    "d5031b5dc835a6d7": {
-      "title": "What AI Needs That $700B Can't Buy",
-      "fetched_at": "2026-04-25T01:20:44.982926+00:00"
-    },
-    "d766f07d94cff7be": {
-      "title": "Show HN: I built a CLI that turns your codebase into clean LLM input",
-      "fetched_at": "2026-04-25T01:20:45.612197+00:00"
-    },
-    "f11fb42b89435018": {
-      "title": "OpenAI Pres. Greg Brockman on GPT-5.5 \"Spud\", Model Moats and 'Compute Economy'",
-      "fetched_at": "2026-04-25T01:20:46.420801+00:00"
-    },
-    "fddbb056e051ac6a": {
-      "title": "美伊衝突接下來會如何發展：四種可能情境",
-      "fetched_at": "2026-04-25T01:20:49.745945+00:00"
-    },
-    "79852eb6699ddb65": {
-      "title": "鰻魚：億萬寶貝——揭秘香港黑社會如何走私「海上的可卡因」",
-      "fetched_at": "2026-04-25T01:20:50.373485+00:00"
-    },
-    "c2f06854248211e5": {
-      "title": "Ancient amber reveals a true bug equipped with claws, a highly unusual feature",
-      "fetched_at": "2026-04-25T01:20:57.507040+00:00"
-    },
-    "c8a66c21eabd5a05": {
-      "title": "2,000-Year-Old Remains of Domestic Chickens Identified in South Korea",
-      "fetched_at": "2026-04-25T01:20:58.142809+00:00"
-    },
-    "193f01363946e36a": {
-      "title": "Statue of Athena Found in Turkey",
-      "fetched_at": "2026-04-25T01:20:58.779969+00:00"
-    },
-    "5245925ba75ef9f6": {
-      "title": "How Has Malaria Shaped Human Populations?",
-      "fetched_at": "2026-04-25T01:20:59.397560+00:00"
-    },
-    "236dbc5993bed22d": {
-      "title": "Warner Bros. Discovery shareholders approve Paramount acquisition",
-      "fetched_at": "2026-04-25T01:21:00.052069+00:00"
-    },
-    "632b2282d3f65c67": {
-      "title": "Show HN: Historical Python source documentation, from 1.0.1 through 2.0c1",
-      "fetched_at": "2026-04-25T01:21:00.678850+00:00"
-    },
-    "c97a23753b713a43": {
-      "title": "MIT scientists just found a hidden problem slowing the ozone comeback",
-      "fetched_at": "2026-04-25T01:21:01.294145+00:00"
-    },
-    "08d61c3636a2af4e": {
-      "title": "Scientists discover hidden ocean methane source that could worsen global warming",
-      "fetched_at": "2026-04-25T01:21:01.913733+00:00"
-    },
-    "d59c700e023bd0b7": {
-      "title": "Scientists thought this was a young T. rex. They were wrong",
-      "fetched_at": "2026-04-25T01:21:02.616989+00:00"
-    },
     "8e586c607c04f0dc": {
       "title": "本田在华研发转向中方主导",
       "fetched_at": "2026-04-25T07:01:37.538746+00:00"
@@ -3667,7 +3543,103 @@
     "6442286c757ba47b": {
       "title": "Ancient mass grave reveals how a pandemic wiped out a city 1,500 years ago",
       "fetched_at": "2026-05-02T18:42:15.280924+00:00"
+    },
+    "6443debca73afc26": {
+      "title": "今日全国铁路预计发送旅客1855万人次",
+      "fetched_at": "2026-05-03T01:48:29.758052+00:00"
+    },
+    "f2acc45d87d70c32": {
+      "title": "2026五一档新片票房破4亿",
+      "fetched_at": "2026-05-03T01:48:30.346162+00:00"
+    },
+    "9cf8197f6f7f37c3": {
+      "title": "广汽国际：1—4月出口量同比增长133.9%",
+      "fetched_at": "2026-05-03T01:48:30.941149+00:00"
+    },
+    "12107cf554e7440b": {
+      "title": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
+      "fetched_at": "2026-05-03T01:48:31.516570+00:00"
+    },
+    "55a6efbbb7426900": {
+      "title": "In real-world test, an AI model did better than doctors at diagnosing patients",
+      "fetched_at": "2026-05-03T01:48:32.104524+00:00"
+    },
+    "b2b24a574d128bfd": {
+      "title": "AI is locking people out. At Scale",
+      "fetched_at": "2026-05-03T01:48:32.688552+00:00"
+    },
+    "8bd2ac0d4d48d643": {
+      "title": "VueBuds integrate low-res cameras and visual AI as a smart glasses alternative",
+      "fetched_at": "2026-05-03T01:48:33.268706+00:00"
+    },
+    "2c55e1e58ebf2ab3": {
+      "title": "AI Wrote the Code. Can Your Enterprise Ship It?",
+      "fetched_at": "2026-05-03T01:48:33.847122+00:00"
+    },
+    "42fbbcfa7ba1a1a0": {
+      "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
+      "fetched_at": "2026-05-03T01:48:34.435869+00:00"
+    },
+    "6bab0ac8ab5c1468": {
+      "title": "AI agents are briefly overhyped",
+      "fetched_at": "2026-05-03T01:48:35.025697+00:00"
+    },
+    "087265fe3797af95": {
+      "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+      "fetched_at": "2026-05-03T01:48:35.652632+00:00"
+    },
+    "e2828c865584d162": {
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "fetched_at": "2026-05-03T01:48:36.233385+00:00"
+    },
+    "64f85b49e7d53f14": {
+      "title": "CISA, NSA & Five Eyes publishes guide on how to safely deploy AI agents",
+      "fetched_at": "2026-05-03T01:48:36.822270+00:00"
+    },
+    "ddbeff2a2c484c17": {
+      "title": "Show HN: Rotato – Node.js proxy that rotates LLM API keys on 429 errors",
+      "fetched_at": "2026-05-03T01:48:37.406413+00:00"
+    },
+    "d936bfe788ba78ec": {
+      "title": "Show HN: A marketplace for LLM-powered webapps earning on token margins",
+      "fetched_at": "2026-05-03T01:48:38.002371+00:00"
+    },
+    "b45fc5e889e0b66c": {
+      "title": "Automate Anything with Python and AI",
+      "fetched_at": "2026-05-03T01:48:38.577717+00:00"
+    },
+    "e74d6e0ae826ac02": {
+      "title": "Narrow by Design: The Case for Composable AI Teams",
+      "fetched_at": "2026-05-03T01:48:39.181691+00:00"
+    },
+    "6e54882c18029063": {
+      "title": "Show HN: I built a dev workspace with AI as backbone",
+      "fetched_at": "2026-05-03T01:48:39.762751+00:00"
+    },
+    "a0680946c60658af": {
+      "title": "Preliminary Findings on AI Automation from Worker Evaluations",
+      "fetched_at": "2026-05-03T01:48:40.352292+00:00"
+    },
+    "83c19d7d5fccd64b": {
+      "title": "English councils to trial Google AI tool to speed up planning decisions",
+      "fetched_at": "2026-05-03T01:48:40.938965+00:00"
+    },
+    "1c1286ab9d0de80d": {
+      "title": "Trump's border wall expansion just bulldozed an ancient tribal site",
+      "fetched_at": "2026-05-03T01:48:45.398148+00:00"
+    },
+    "6348a18557f40c34": {
+      "title": "Astronomers may have found a strange new kind of cosmic explosion",
+      "fetched_at": "2026-05-03T01:48:45.983443+00:00"
+    },
+    "81b7b86f00d1494b": {
+      "title": "Stunning 132 million-year-old dinosaur tracks are rewriting history",
+      "fetched_at": "2026-05-03T01:48:46.558607+00:00"
+    },
+    "8a46f8f4d84578cb": {
+      "title": "Scientists find perfect fossils in rust beneath Australian farmland",
+      "fetched_at": "2026-05-03T01:48:47.139858+00:00"
     }
   },
-  "last_updated": "2026-05-02T18:42:15.389469+00:00"
+  "last_updated": "2026-05-03T01:48:47.246199+00:00"
 }
