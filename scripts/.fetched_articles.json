@@ -1,93 +1,5 @@
 {
   "articles": {
-    "9d734b68611d1977": {
-      "title": "卡尔动力发布KargoBot Inside",
-      "fetched_at": "2026-04-25T12:38:05.377400+00:00"
-    },
-    "a7945ee05aa17de6": {
-      "title": "Show HN: Enlist AI: Sub-second interview coaching with persistence",
-      "fetched_at": "2026-04-25T12:38:05.997603+00:00"
-    },
-    "1bc76ed4bd0167b6": {
-      "title": "From $200 to $30: Five Layers of LLM Cost Optimization",
-      "fetched_at": "2026-04-25T12:38:06.631964+00:00"
-    },
-    "6c3670a22ac1045a": {
-      "title": "Crafting an AI-Driven Workflow System [video]",
-      "fetched_at": "2026-04-25T12:38:07.644562+00:00"
-    },
-    "06706f2496f8460f": {
-      "title": "Show HN: Harnessing LLM-Prompt Mutation to Build Smart,Automated Fuzz Drivers",
-      "fetched_at": "2026-04-25T12:38:08.275761+00:00"
-    },
-    "f750a31be0c6930b": {
-      "title": "SAP just made the opposite bet from every other enterprise platform on AI agents",
-      "fetched_at": "2026-04-25T12:38:08.907522+00:00"
-    },
-    "5593d4ca8eff638f": {
-      "title": "GPT 5.5 flags accounts for \"potential high-risk cybersecurity\"",
-      "fetched_at": "2026-04-25T12:38:09.528477+00:00"
-    },
-    "121226ba526fdd33": {
-      "title": "Lambda Calculus Benchmark for AI",
-      "fetched_at": "2026-04-25T12:38:10.146353+00:00"
-    },
-    "eeddea7627e93c8b": {
-      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-      "fetched_at": "2026-04-25T12:38:10.844627+00:00"
-    },
-    "22618c21a7a6a4dc": {
-      "title": "Amália- Open Source Large Language Model (LLM) for European Portuguese",
-      "fetched_at": "2026-04-25T12:38:11.471538+00:00"
-    },
-    "c0af0f29ed5acd15": {
-      "title": "Happy Horse AI",
-      "fetched_at": "2026-04-25T12:38:12.113885+00:00"
-    },
-    "7b816c926e14e3d3": {
-      "title": "South Korean workers learn AI after work, outpacing their companies",
-      "fetched_at": "2026-04-25T12:38:12.775685+00:00"
-    },
-    "02e586ad8d6cf96f": {
-      "title": "Intel soars on signs AI boom for CPUs is here",
-      "fetched_at": "2026-04-25T12:38:13.414120+00:00"
-    },
-    "b1d108e344f9564b": {
-      "title": "Cafestol/kahweol concentrations in workplace machine coffee vs. other brewing",
-      "fetched_at": "2026-04-25T12:38:14.038377+00:00"
-    },
-    "89588e02034611e5": {
-      "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
-      "fetched_at": "2026-04-25T12:38:14.657567+00:00"
-    },
-    "ac35c734f5ace22f": {
-      "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
-      "fetched_at": "2026-04-25T12:38:15.262953+00:00"
-    },
-    "fad018a9219398f2": {
-      "title": "掌控专注力，你需要做的和没必要做的",
-      "fetched_at": "2026-04-25T12:38:15.876402+00:00"
-    },
-    "d42bf881ad365037": {
-      "title": "Rust open-source headless browser for AI agents and web scraping",
-      "fetched_at": "2026-04-25T12:38:16.503385+00:00"
-    },
-    "af42535e5085150a": {
-      "title": "A fun 5 minute take on AI in business",
-      "fetched_at": "2026-04-25T12:38:17.126253+00:00"
-    },
-    "cfaa6bf979641f6e": {
-      "title": "Agentic AI for Hormuz Shock Modelling",
-      "fetched_at": "2026-04-25T12:38:17.740798+00:00"
-    },
-    "4c2dd967b51af88a": {
-      "title": "Science news this week: Atlantic current edges closer to collapse, scientists make artificial-neuron breakthrough, and a copy of the \"Iliad\" is found inside an Egyptian mummy",
-      "fetched_at": "2026-04-25T12:38:24.377661+00:00"
-    },
-    "027ae6159e5358d9": {
-      "title": "Why are some constellations visible for only part of the year?",
-      "fetched_at": "2026-04-25T12:38:25.002672+00:00"
-    },
     "838c2f4a18898522": {
       "title": "Are We in Control of AI?",
       "fetched_at": "2026-04-25T18:34:50.796082+00:00"
@@ -3659,7 +3571,107 @@
     "632b2282d3f65c67": {
       "title": "Show HN: Historical Python source documentation, from 1.0.1 through 2.0c1",
       "fetched_at": "2026-05-03T07:45:55.778892+00:00"
+    },
+    "23a95b6444f155be": {
+      "title": "Where's the New AI Infrastructure?",
+      "fetched_at": "2026-05-03T12:42:51.923786+00:00"
+    },
+    "77b157bb7551a668": {
+      "title": "Show HN: ShadowBrokers – AI trade signals for retail traders",
+      "fetched_at": "2026-05-03T12:42:52.513157+00:00"
+    },
+    "d1966e479365af90": {
+      "title": "Show HN: Flop Map – a 3D globe of every known AI compute cluster",
+      "fetched_at": "2026-05-03T12:42:53.102581+00:00"
+    },
+    "c61c66d925c38677": {
+      "title": "Why AI Agents are either the best or worst thing we've ever built [video]",
+      "fetched_at": "2026-05-03T12:42:53.728492+00:00"
+    },
+    "006a7293b2b702e6": {
+      "title": "Will human minds still be special in an age of AI?",
+      "fetched_at": "2026-05-03T12:42:54.338752+00:00"
+    },
+    "ed814403d2bc45cd": {
+      "title": "AI music is flooding streaming services — but who wants it?",
+      "fetched_at": "2026-05-03T12:42:54.929292+00:00"
+    },
+    "ea4caeff76f95415": {
+      "title": "Madagascar: AI Trainers – Arte.tv Documentary [video]",
+      "fetched_at": "2026-05-03T12:42:55.529033+00:00"
+    },
+    "a9fd404d366d766f": {
+      "title": "AI's Supply Crunch Is Here",
+      "fetched_at": "2026-05-03T12:42:56.137061+00:00"
+    },
+    "4a2b1e4d11203b9d": {
+      "title": "Ask HN: Can I trust GitHub not to use my code for LLM training?",
+      "fetched_at": "2026-05-03T12:42:56.741004+00:00"
+    },
+    "aa7cce87fa68cf1c": {
+      "title": "Startups challenge Apple over curbs on AI 'vibe coding' apps",
+      "fetched_at": "2026-05-03T12:42:57.340074+00:00"
+    },
+    "614e8d5add8f7734": {
+      "title": "What are tarpit ideas in the AI era?",
+      "fetched_at": "2026-05-03T12:42:57.941985+00:00"
+    },
+    "743dd6b17612002a": {
+      "title": "Shares in Japanese toilet maker Toto soar on AI-related pivot",
+      "fetched_at": "2026-05-03T12:42:58.621046+00:00"
+    },
+    "20e39024385cb72e": {
+      "title": "Migrating 6000 React tests using AI Agents and ASTs",
+      "fetched_at": "2026-05-03T12:42:59.217042+00:00"
+    },
+    "5acb79fbdf5b2344": {
+      "title": "Three full-stack data platforms in a weekend: Fabric and Azure AI Foundry",
+      "fetched_at": "2026-05-03T12:42:59.808712+00:00"
+    },
+    "3b3485e7cbcdfe8d": {
+      "title": "Mnemory – Persistent memory for AI agents",
+      "fetched_at": "2026-05-03T12:43:00.413854+00:00"
+    },
+    "d0eb1d0494f841e1": {
+      "title": "Codeonix: Python task automation for your desktop – with AI, 14 triggers",
+      "fetched_at": "2026-05-03T12:43:01.022865+00:00"
+    },
+    "0b8660f063ed3ef7": {
+      "title": "韩国市值超万亿韩元企业破400家创新高",
+      "fetched_at": "2026-05-03T12:43:01.624239+00:00"
+    },
+    "ec90595192ba300f": {
+      "title": "Why CFOs Need a Consensus Hardening Protocol for AI Decisions",
+      "fetched_at": "2026-05-03T12:43:02.216317+00:00"
+    },
+    "845b7d2cbcd63c89": {
+      "title": "越南1-4月咖啡出口量同比增长16%，至81万吨",
+      "fetched_at": "2026-05-03T12:43:02.811568+00:00"
+    },
+    "3277d4c20e224c86": {
+      "title": "三星继承人已付清12万亿韩元遗产税",
+      "fetched_at": "2026-05-03T12:43:03.416506+00:00"
+    },
+    "b491fe9fe12521f4": {
+      "title": "根除子宮頸癌成為全球目標 澳洲科學家如何領先？",
+      "fetched_at": "2026-05-03T12:43:06.387832+00:00"
+    },
+    "452b8acc4ff6f81f": {
+      "title": "分析：伊朗戰爭意外增強了烏克蘭的實力，俄烏距離停火協議是否更進一步",
+      "fetched_at": "2026-05-03T12:43:06.988742+00:00"
+    },
+    "8b39a8d089fbb689": {
+      "title": "The Eta Aquariid meteor shower peaks this week: How to see 'shooting stars' dropped by Halley's Comet",
+      "fetched_at": "2026-05-03T12:43:08.912195+00:00"
+    },
+    "40fc1f67aeaad667": {
+      "title": "Scientists detect an enormous halo around the iconic Sombrero Galaxy — Space photo of the week",
+      "fetched_at": "2026-05-03T12:43:09.498070+00:00"
+    },
+    "4e8098dcaa28f4d9": {
+      "title": "Did Japan have female samurai?",
+      "fetched_at": "2026-05-03T12:43:10.092769+00:00"
     }
   },
-  "last_updated": "2026-05-03T07:45:55.918735+00:00"
+  "last_updated": "2026-05-03T12:43:10.204168+00:00"
 }
