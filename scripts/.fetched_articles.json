@@ -1,105 +1,5 @@
 {
   "articles": {
-    "527ef1d96878ee3f": {
-      "title": "Can your AI solve this? Be honest",
-      "fetched_at": "2026-04-26T18:35:49.418474+00:00"
-    },
-    "30253da82c83ac48": {
-      "title": "Ask HN: How do you use AI at your regulated, restrictive company?",
-      "fetched_at": "2026-04-26T18:35:50.082757+00:00"
-    },
-    "f225099d32963d18": {
-      "title": "Self-Learning Master's Curriculum for AI",
-      "fetched_at": "2026-04-26T18:35:50.730252+00:00"
-    },
-    "95d8d6fc6ed599d9": {
-      "title": "WordPress AI Features Are Coming. Nobody Is Talking About Cost for Your Users",
-      "fetched_at": "2026-04-26T18:35:51.349626+00:00"
-    },
-    "491a7ef40bce7b9e": {
-      "title": "U.S. Treasury Investors' Bet on AI",
-      "fetched_at": "2026-04-26T18:35:51.973095+00:00"
-    },
-    "817fab271629bc28": {
-      "title": "Generative AI and Entrepreneurship∗ [pdf]",
-      "fetched_at": "2026-04-26T18:35:52.604759+00:00"
-    },
-    "8797ec331a3c5e9f": {
-      "title": "Does AI still feel like too much work to you?",
-      "fetched_at": "2026-04-26T18:35:53.237552+00:00"
-    },
-    "13b36c7c5a7c771e": {
-      "title": "AI made writing code fast. Understanding it is still slow",
-      "fetched_at": "2026-04-26T18:35:53.946671+00:00"
-    },
-    "bddb0787a0b2325e": {
-      "title": "The disappearing AI middle class",
-      "fetched_at": "2026-04-26T18:35:54.637515+00:00"
-    },
-    "bd133a0ed069eed1": {
-      "title": "AI doom warnings are getting louder. Are they realistic?",
-      "fetched_at": "2026-04-26T18:35:55.266552+00:00"
-    },
-    "4af67dccf5234f45": {
-      "title": "Namastex.ai NPM Packages Hit with TeamPCP-Style CanisterWorm Malware",
-      "fetched_at": "2026-04-26T18:35:55.936803+00:00"
-    },
-    "85ed1e5d05cfb06c": {
-      "title": "Show HN: Parlor Jarvis – Realtime AI (audio+screen in, voice out) & multilingual",
-      "fetched_at": "2026-04-26T18:35:56.556764+00:00"
-    },
-    "4996b3caf17bfab4": {
-      "title": "GPT cannot even count beans correctly",
-      "fetched_at": "2026-04-26T18:35:57.188530+00:00"
-    },
-    "bf57077bf41471c9": {
-      "title": "Proposed New Test of AI Capabilities:)",
-      "fetched_at": "2026-04-26T18:35:57.936153+00:00"
-    },
-    "88532edca8b88ba2": {
-      "title": "Seemingly Conscious AI Risks",
-      "fetched_at": "2026-04-26T18:35:58.563104+00:00"
-    },
-    "8f06589f5ff36812": {
-      "title": "I scanned 1M domains and found the web's AI instruction layer",
-      "fetched_at": "2026-04-26T18:35:59.191879+00:00"
-    },
-    "8c724238e0b60fa2": {
-      "title": "Invincat – terminal AI coding agent with tiered, auditable long-term memory",
-      "fetched_at": "2026-04-26T18:35:59.829028+00:00"
-    },
-    "91d9420fa1d185f0": {
-      "title": "AI Reverses the Political Logic of the Internet",
-      "fetched_at": "2026-04-26T18:36:00.447705+00:00"
-    },
-    "0f83c7a59bd8b82f": {
-      "title": "LLM Anxiety",
-      "fetched_at": "2026-04-26T18:36:01.071929+00:00"
-    },
-    "a58060bf18818d1b": {
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "fetched_at": "2026-04-26T18:36:01.684230+00:00"
-    },
-    "996a8b8e1044bdc4": {
-      "title": "从反体制先锋到中共吉祥物：鲁迅被谁磨平了棱角？",
-      "fetched_at": "2026-04-26T18:36:34.788992+00:00"
-    },
-    "0b19a991478ef207": {
-      "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
-      "fetched_at": "2026-04-26T18:36:35.415330+00:00"
-    },
-    "0ee3efa36fc67555": {
-      "title": "Antarctica's sea ice suddenly started shrinking a decade ago — and deep-diving robots are revealing why",
-      "fetched_at": "2026-04-26T18:36:52.044151+00:00"
-    },
-    "17e2d3667335d33b": {
-      "title": "How likely are you to find a message in a bottle?",
-      "fetched_at": "2026-04-26T18:36:52.663096+00:00"
-    },
-    "1dc05779753eaa14": {
-      "title": "Mezcal worm in a bottle DNA test reveals a surprise",
-      "fetched_at": "2026-04-26T18:36:53.279255+00:00"
-    },
     "d031c2fd180b8543": {
       "title": "国家统计局：一季度规模以上工业企业利润较快增长",
       "fetched_at": "2026-04-27T01:44:47.121728+00:00"
@@ -3683,7 +3583,139 @@
     "0f877a5fcebd3343": {
       "title": "Aggressive “hulk” lizards are wiping out millions of years of evolution",
       "fetched_at": "2026-05-04T13:20:51.935153+00:00"
+    },
+    "d9517997b879f70f": {
+      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+      "fetched_at": "2026-05-04T19:12:06.059914+00:00"
+    },
+    "1e5b8d8372c10c12": {
+      "title": "Show HN: NoReporter – AI-only newsroom, $1/year",
+      "fetched_at": "2026-05-04T19:12:06.684175+00:00"
+    },
+    "125fe52240d71093": {
+      "title": "Google Is a Full Stack AI Player, and Is Playing Well",
+      "fetched_at": "2026-05-04T19:12:07.298754+00:00"
+    },
+    "a1d7a1f202e65f17": {
+      "title": "The AI rush is hitting a bottleneck",
+      "fetched_at": "2026-05-04T19:12:07.934617+00:00"
+    },
+    "f3e863dae897fd8e": {
+      "title": "Long Lake agrees to acquire Amex GBT in AI bet",
+      "fetched_at": "2026-05-04T19:12:08.565249+00:00"
+    },
+    "636f814507f0d0fe": {
+      "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
+      "fetched_at": "2026-05-04T19:12:09.352931+00:00"
+    },
+    "5c8c3cf4e038787b": {
+      "title": "AI Has Made Memory Chips One of the Most Profitable Products",
+      "fetched_at": "2026-05-04T19:12:09.977737+00:00"
+    },
+    "011912e0444d4217": {
+      "title": "QueryShield – secure SQL proxy for AI agents (NL→SQL, AST safety, RLS)",
+      "fetched_at": "2026-05-04T19:12:10.601570+00:00"
+    },
+    "3916f00215e345b3": {
+      "title": "I built this because people upload sensitive documents to random AI tools",
+      "fetched_at": "2026-05-04T19:12:11.243817+00:00"
+    },
+    "40e0b238e0cc806b": {
+      "title": "Darwinian Specialization in AI",
+      "fetched_at": "2026-05-04T19:12:11.877669+00:00"
+    },
+    "783b86a3afa8e70c": {
+      "title": "AI slop video is being used as an attack ad in a contentious Kentucky primary",
+      "fetched_at": "2026-05-04T19:12:12.508163+00:00"
+    },
+    "6dc28e0e86d1ddf2": {
+      "title": "Exploring LLM biases to manipulate AI search overview",
+      "fetched_at": "2026-05-04T19:12:13.133401+00:00"
+    },
+    "f1eebbd116fbef2d": {
+      "title": "A thermodynamic trust layer cutting LLM hallucinations by 52%",
+      "fetched_at": "2026-05-04T19:12:13.789883+00:00"
+    },
+    "a0ba6a5428edfe95": {
+      "title": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
+      "fetched_at": "2026-05-04T19:12:14.405343+00:00"
+    },
+    "c2a6259b76b6ade6": {
+      "title": "Clone Talking – Real-Time Voice Conversations with AI Persona Clones",
+      "fetched_at": "2026-05-04T19:12:15.034531+00:00"
+    },
+    "6faa789de898306a": {
+      "title": "Making Fuel from Thin Air: The Magical Methane Machine",
+      "fetched_at": "2026-05-04T19:12:15.687772+00:00"
+    },
+    "3d5be9209c3016fd": {
+      "title": "Future of Work with AI Agents",
+      "fetched_at": "2026-05-04T19:12:16.312733+00:00"
+    },
+    "7fad52c7997daa6f": {
+      "title": "Tailoring AI solutions for health care needs",
+      "fetched_at": "2026-05-04T19:12:16.946264+00:00"
+    },
+    "c6165ac48f344a69": {
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "fetched_at": "2026-05-04T19:12:17.566199+00:00"
+    },
+    "68a12b1818b19d6b": {
+      "title": "The creator of Roomba is back with a furry robot companion",
+      "fetched_at": "2026-05-04T19:12:18.184341+00:00"
+    },
+    "659c39ebc156d80e": {
+      "title": "漢他病毒：大西洋郵輪疑爆疫情，三人死亡",
+      "fetched_at": "2026-05-04T19:12:20.935924+00:00"
+    },
+    "19b367689c9db472": {
+      "title": "3 cruise ship passengers are dead, and hantavirus is the suspected culprit: What to know",
+      "fetched_at": "2026-05-04T19:12:22.848385+00:00"
+    },
+    "b831e4a60f3dcbd4": {
+      "title": "Kx Systems: A Historical Need for Speed (2020)",
+      "fetched_at": "2026-05-04T19:12:23.592876+00:00"
+    },
+    "603b084009507ad6": {
+      "title": "'Lamb of God' Coins Issued by Desperate English King Found in Denmark",
+      "fetched_at": "2026-05-04T19:12:24.222615+00:00"
+    },
+    "6fa8175bc09498d8": {
+      "title": "Were Neanderthals Able to Hunt Elephants? The Proof Is in an Ancient Bone",
+      "fetched_at": "2026-05-04T19:12:24.841829+00:00"
+    },
+    "0f7fc58f10367652": {
+      "title": "This simple amino acid supplement greatly reduces Alzheimer’s damage",
+      "fetched_at": "2026-05-04T19:12:25.580428+00:00"
+    },
+    "30c1966eb0dc6c19": {
+      "title": "Scientists turn plastic waste into clean hydrogen fuel using sunlight",
+      "fetched_at": "2026-05-04T19:12:26.232038+00:00"
+    },
+    "803eac0c70270d27": {
+      "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
+      "fetched_at": "2026-05-04T19:12:26.858192+00:00"
+    },
+    "26b06af75f8bed63": {
+      "title": "The da Vinci bloodline is unlocking the genius’s genetic secrets",
+      "fetched_at": "2026-05-04T19:12:27.571122+00:00"
+    },
+    "a5ccfa39e06a101f": {
+      "title": "Scientists reveal creatine’s hidden power beyond muscle gains",
+      "fetched_at": "2026-05-04T19:12:28.193968+00:00"
+    },
+    "f8128dce573c1cba": {
+      "title": "This simple blood test might detect depression before symptoms appear",
+      "fetched_at": "2026-05-04T19:12:28.813267+00:00"
+    },
+    "5016334502968c35": {
+      "title": "System over Model: Zero-Day Discovery at the Jagged Frontier",
+      "fetched_at": "2026-05-04T19:12:29.432771+00:00"
+    },
+    "d4ae3119c58c01d9": {
+      "title": "Blood vessels found in T. rex bones are rewriting dinosaur science",
+      "fetched_at": "2026-05-04T19:12:30.051315+00:00"
     }
   },
-  "last_updated": "2026-05-04T13:20:52.083618+00:00"
+  "last_updated": "2026-05-04T19:12:30.194335+00:00"
 }
