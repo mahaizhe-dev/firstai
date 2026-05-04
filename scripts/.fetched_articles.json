@@ -1,93 +1,5 @@
 {
   "articles": {
-    "646d8c99c21c63a9": {
-      "title": "湖南AI中心落地湘江新区",
-      "fetched_at": "2026-04-26T01:30:05.479516+00:00"
-    },
-    "5fae2fba0c173a50": {
-      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
-      "fetched_at": "2026-04-26T01:30:06.171554+00:00"
-    },
-    "26496b0c77d4d274": {
-      "title": "Multiple AI Models in One Platform",
-      "fetched_at": "2026-04-26T01:30:06.763959+00:00"
-    },
-    "bb25eabf1bba8672": {
-      "title": "Zephyr Agent: Add AI chat to any website",
-      "fetched_at": "2026-04-26T01:30:07.367391+00:00"
-    },
-    "18865fc9c3223574": {
-      "title": "DeepSeek-V4-Pro模型API官宣限时2.5折优惠",
-      "fetched_at": "2026-04-26T01:30:08.056924+00:00"
-    },
-    "90ed525108a1b768": {
-      "title": "The Race to Make the Most In-Demand Machine",
-      "fetched_at": "2026-04-26T01:30:08.663963+00:00"
-    },
-    "486cce90dcae6708": {
-      "title": "Google unveils way to train AI models across distributed data centers",
-      "fetched_at": "2026-04-26T01:30:09.312872+00:00"
-    },
-    "6271f5cd08003095": {
-      "title": "AI cannot plan",
-      "fetched_at": "2026-04-26T01:30:09.920091+00:00"
-    },
-    "53ae29631b337557": {
-      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
-      "fetched_at": "2026-04-26T01:30:10.566070+00:00"
-    },
-    "087231c6bdc17761": {
-      "title": "What Managerial Economics can tell us about AI and Software Development",
-      "fetched_at": "2026-04-26T01:30:11.198779+00:00"
-    },
-    "6aaf8f8c8dfb34ec": {
-      "title": "Show HN: A privacy first companion AI",
-      "fetched_at": "2026-04-26T01:30:11.804499+00:00"
-    },
-    "ca5b68a7866462c9": {
-      "title": "Show HN: LLM-wiki – One command Karpathy's wiki with QMD search for Claude/Codex",
-      "fetched_at": "2026-04-26T01:30:12.441854+00:00"
-    },
-    "a75e8209f6400485": {
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "fetched_at": "2026-04-26T01:30:13.045805+00:00"
-    },
-    "c94516f9d8c56617": {
-      "title": "MCP Spine – Middleware proxy for LLM tool calls with security and token control",
-      "fetched_at": "2026-04-26T01:30:13.655631+00:00"
-    },
-    "ccfcacb76f8da2e3": {
-      "title": "Our Survey on Creativity, Writing, and Reading in the Age of AI",
-      "fetched_at": "2026-04-26T01:30:14.342197+00:00"
-    },
-    "f61fad743004defa": {
-      "title": "The AI industry is discovering that the public hates it",
-      "fetched_at": "2026-04-26T01:30:14.945469+00:00"
-    },
-    "0ea7b8635f6a4007": {
-      "title": "Memory in the Age of AI Agents",
-      "fetched_at": "2026-04-26T01:30:15.578479+00:00"
-    },
-    "8bcb267418d7732c": {
-      "title": "Maine’s governor vetoes data center moratorium",
-      "fetched_at": "2026-04-26T01:30:16.184168+00:00"
-    },
-    "4b85f0167b7b0598": {
-      "title": "Blog prize for big questions about AI",
-      "fetched_at": "2026-04-26T01:30:16.804245+00:00"
-    },
-    "ff9360712083be14": {
-      "title": "Show HN: Routiium – self-hosted LLM gateway with a tool-result guard",
-      "fetched_at": "2026-04-26T01:30:17.412993+00:00"
-    },
-    "963edb09f6a14891": {
-      "title": "馬六甲海峽：為何全球貿易的另一個「咽喉要道」正引發擔憂",
-      "fetched_at": "2026-04-26T01:30:20.182198+00:00"
-    },
-    "1a5a1a60fae27930": {
-      "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
-      "fetched_at": "2026-04-26T01:30:23.200236+00:00"
-    },
     "3e78c8f2d3f37f9f": {
       "title": "陈茂波：今年以来香港新股集资额继续位列全球首位",
       "fetched_at": "2026-04-26T07:15:38.902975+00:00"
@@ -3675,7 +3587,103 @@
     "e500110406918380": {
       "title": "Ancient DNA reveals pervasive directional selection across West Eurasia",
       "fetched_at": "2026-05-03T18:42:20.152181+00:00"
+    },
+    "4ddee4a97c8547df": {
+      "title": "恒生科技指数涨3%，升破5000点关口",
+      "fetched_at": "2026-05-04T01:48:41.090003+00:00"
+    },
+    "f84c204f606999cf": {
+      "title": "恒生科技指数高开高走，涨幅扩大至2%",
+      "fetched_at": "2026-05-04T01:48:41.777636+00:00"
+    },
+    "952c2beac80e9e32": {
+      "title": "三星电子任命新的视觉显示业务负责人",
+      "fetched_at": "2026-05-04T01:48:42.392179+00:00"
+    },
+    "f0cc156dbbcdba32": {
+      "title": "恒指开盘涨1.4%，恒生科技指数涨1.58%",
+      "fetched_at": "2026-05-04T01:48:43.122547+00:00"
+    },
+    "7758e0db71b63f40": {
+      "title": "东阳光药甘精胰岛素获FDA批准",
+      "fetched_at": "2026-05-04T01:48:43.747868+00:00"
+    },
+    "1771510c675f0c31": {
+      "title": "游戏驿站提出近560亿美元收购eBay",
+      "fetched_at": "2026-05-04T01:48:44.424073+00:00"
+    },
+    "b1c181aabfafda2e": {
+      "title": "Do AI Detectors Work Well Enough to Trust?",
+      "fetched_at": "2026-05-04T01:48:45.050632+00:00"
+    },
+    "ae7e26935419c30b": {
+      "title": "Know thyself: LLM schema for personal memory",
+      "fetched_at": "2026-05-04T01:48:45.685860+00:00"
+    },
+    "349a04899c167ef6": {
+      "title": "H4ckf0r0day/obscura: The headless browser for AI agents and web scraping",
+      "fetched_at": "2026-05-04T01:48:46.310935+00:00"
+    },
+    "cbf02f7e074a6961": {
+      "title": "Show HN: Stigmem – open-source federated knowledge fabric for AI agents (v1.0)",
+      "fetched_at": "2026-05-04T01:48:46.956162+00:00"
+    },
+    "6baf2b6780495666": {
+      "title": "Next-Token Predictor Is An AI's Job, Not Its Species",
+      "fetched_at": "2026-05-04T01:48:47.571814+00:00"
+    },
+    "85717dad94cc85ab": {
+      "title": "Sato – AI desktop companion for macOS with multi-provider support",
+      "fetched_at": "2026-05-04T01:48:48.200221+00:00"
+    },
+    "bfea477b0c227b44": {
+      "title": "Building a daily AI news brief in 325 lines of Python",
+      "fetched_at": "2026-05-04T01:48:48.836966+00:00"
+    },
+    "b8dfcba242bac0df": {
+      "title": "UAE Plans to Run 50% of Government on Agentic AI Within Two Years",
+      "fetched_at": "2026-05-04T01:48:49.482495+00:00"
+    },
+    "61baa6250d52e97e": {
+      "title": "AI for Teams: Team-in-the-Loop",
+      "fetched_at": "2026-05-04T01:48:50.167147+00:00"
+    },
+    "9c02a2adaa28c67b": {
+      "title": "Duralang – decorator makes every LangChain LLM/tool/MCP call a Temporal Activity",
+      "fetched_at": "2026-05-04T01:48:50.781143+00:00"
+    },
+    "07f7c0a248dcef7e": {
+      "title": "Most Companies Aren't Anywhere Near Ready for AI",
+      "fetched_at": "2026-05-04T01:48:50.781274+00:00"
+    },
+    "4e618bd65dc21a83": {
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "fetched_at": "2026-05-04T01:48:51.610578+00:00"
+    },
+    "2185b47a0b065fd5": {
+      "title": "Professor's bold prediction: AI could help cure all diseases within a decade",
+      "fetched_at": "2026-05-04T01:48:52.235856+00:00"
+    },
+    "53c433abb889fcd9": {
+      "title": "University Professors Disturbed to Find Their Lectures Chopped Up into AI Slop",
+      "fetched_at": "2026-05-04T01:48:52.865390+00:00"
+    },
+    "10ccdb990721ec93": {
+      "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
+      "fetched_at": "2026-05-04T01:48:57.537871+00:00"
+    },
+    "d6d9af1c526f3e7a": {
+      "title": "This exotic particle could finally explain why matter has mass",
+      "fetched_at": "2026-05-04T01:48:58.160865+00:00"
+    },
+    "785691f64e05d1c4": {
+      "title": "Gravitational waves may have created dark matter in the early universe",
+      "fetched_at": "2026-05-04T01:48:58.819211+00:00"
+    },
+    "046f0d81b90b9fbf": {
+      "title": "Giant prehistoric insects didn’t need high oxygen after all, study finds",
+      "fetched_at": "2026-05-04T01:48:59.511035+00:00"
     }
   },
-  "last_updated": "2026-05-03T18:42:20.299059+00:00"
+  "last_updated": "2026-05-04T01:48:59.645044+00:00"
 }
