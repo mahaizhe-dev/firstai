@@ -1,109 +1,5 @@
 {
   "articles": {
-    "f149b6447afc214b": {
-      "title": "EsoBench: Learning a Novel Esolang via Iterative Execution Feedback",
-      "fetched_at": "2026-04-26T12:39:39.360973+00:00"
-    },
-    "4431a3a0e8fe40cc": {
-      "title": "Show HN: Ctxbrew – Ship and Use LLM-friendly library context",
-      "fetched_at": "2026-04-26T12:39:39.925345+00:00"
-    },
-    "0f3f80b7cdb5fda5": {
-      "title": "Is it worth parallelizing your GitLab/GitHub pipeline? (Not yet another AI post)",
-      "fetched_at": "2026-04-26T12:39:40.493206+00:00"
-    },
-    "d2376219babc75c7": {
-      "title": "My site \"Works on My Machine\" didn't work on my machine for two days",
-      "fetched_at": "2026-04-26T12:39:41.060087+00:00"
-    },
-    "9d94a58183e0c30e": {
-      "title": "I stopped building onboarding and built AI infrastructure instead",
-      "fetched_at": "2026-04-26T12:39:41.637917+00:00"
-    },
-    "a5720badf42981ae": {
-      "title": ". LLMs Can't Count: A Hallucination Taxonomy Across GPT, Gemini, and Claude",
-      "fetched_at": "2026-04-26T12:39:42.203927+00:00"
-    },
-    "191bba5978dc0e0a": {
-      "title": "WAB Web Agent Bridge -An Open-Source OS for AI Agents",
-      "fetched_at": "2026-04-26T12:39:42.817300+00:00"
-    },
-    "eaaf7e98b92cc2ff": {
-      "title": "Chat GPT wrote your code, what else is missing?",
-      "fetched_at": "2026-04-26T12:39:43.386774+00:00"
-    },
-    "5eb6fda7c9ccc96d": {
-      "title": "AI, Vikings and Magic Swords",
-      "fetched_at": "2026-04-26T12:39:43.960903+00:00"
-    },
-    "19feb5441a73bb18": {
-      "title": "Vacant House Shark: A B-movie created with AI featuring sharks and kung fu [video]",
-      "fetched_at": "2026-04-26T12:39:44.524379+00:00"
-    },
-    "e99a71c43a505298": {
-      "title": "ST西发：法院裁定受理重整 股票将被实施退市风险警示",
-      "fetched_at": "2026-04-26T12:39:45.220876+00:00"
-    },
-    "4e66e7113fe4a205": {
-      "title": "Could creativy in LLM emerge by reframing language?",
-      "fetched_at": "2026-04-26T12:39:45.790258+00:00"
-    },
-    "494b4f50cff8b2b5": {
-      "title": "矽电股份：与兆驰股份子公司签署3.35亿元Mini/MicroLED测试分选设备合同",
-      "fetched_at": "2026-04-26T12:39:46.362449+00:00"
-    },
-    "1dcc424304fced25": {
-      "title": "Thinking Outside the Box: New Attack Surfaces in Sandboxed AI Agents",
-      "fetched_at": "2026-04-26T12:39:46.935370+00:00"
-    },
-    "38b4c9daa6a738ff": {
-      "title": "Singapore's Foreign Minister Builds an AI \"Second Brain\" Using NanoClaw",
-      "fetched_at": "2026-04-26T12:39:47.502234+00:00"
-    },
-    "74623fbdd1a202ae": {
-      "title": "安波福发布“中国定义”核心战略",
-      "fetched_at": "2026-04-26T12:39:48.067061+00:00"
-    },
-    "fe8b1b9fd671ff8e": {
-      "title": "75% of US health systems are using AI. Only 18% of that deployment is governed",
-      "fetched_at": "2026-04-26T12:39:48.670240+00:00"
-    },
-    "41b050717e8c5c40": {
-      "title": "中信尼雅：股票可能被实施退市风险警示",
-      "fetched_at": "2026-04-26T12:39:49.233396+00:00"
-    },
-    "39f31ef9ab410cbd": {
-      "title": "巨人网络��2025年营收超50亿元，同比增长72.69%",
-      "fetched_at": "2026-04-26T12:39:49.798812+00:00"
-    },
-    "079c2d0234341593": {
-      "title": "Will AI Drive Wages Down or Up? [video]",
-      "fetched_at": "2026-04-26T12:39:50.478602+00:00"
-    },
-    "a406d726259f8e33": {
-      "title": "Astronomers just mapped one of the largest structures in the universe, long hidden behind the Milky Way's 'Zone of Avoidance'",
-      "fetched_at": "2026-04-26T12:39:54.687667+00:00"
-    },
-    "5016334502968c35": {
-      "title": "System over Model: Zero-Day Discovery at the Jagged Frontier",
-      "fetched_at": "2026-04-26T12:39:55.256326+00:00"
-    },
-    "d0f385339b891d74": {
-      "title": "Hubble revisits stunning Trifid Nebula after 30 years, and spots a growing jet of energy — Space photo of the week",
-      "fetched_at": "2026-04-26T12:39:55.830013+00:00"
-    },
-    "509fe1e63f9366b3": {
-      "title": "Why do cats and dogs shake their heads?",
-      "fetched_at": "2026-04-26T12:39:56.565789+00:00"
-    },
-    "d4ae3119c58c01d9": {
-      "title": "Blood vessels found in T. rex bones are rewriting dinosaur science",
-      "fetched_at": "2026-04-26T12:39:57.215720+00:00"
-    },
-    "f5bfe7c0bc85bd58": {
-      "title": "DNA research just rewrote the origin of human species",
-      "fetched_at": "2026-04-26T12:39:57.778696+00:00"
-    },
     "527ef1d96878ee3f": {
       "title": "Can your AI solve this? Be honest",
       "fetched_at": "2026-04-26T18:35:49.418474+00:00"
@@ -3679,7 +3575,115 @@
     "890f7962604220fe": {
       "title": "Evolution isn’t random. Scientists find the same genes used for 120 million years",
       "fetched_at": "2026-05-04T08:15:27.648928+00:00"
+    },
+    "095773dd6b8979d0": {
+      "title": "五月，适合想清楚一件事｜幕启",
+      "fetched_at": "2026-05-04T13:19:53.651102+00:00"
+    },
+    "3815d40b610e77a1": {
+      "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
+      "fetched_at": "2026-05-04T13:19:54.358791+00:00"
+    },
+    "d277f1dd90c6e19c": {
+      "title": "全球最大汽车滚装船首靠上海港",
+      "fetched_at": "2026-05-04T13:19:54.975605+00:00"
+    },
+    "5eaa56154b914652": {
+      "title": "陈发树一季度新进伊利股份，持股市值近16亿元",
+      "fetched_at": "2026-05-04T13:19:55.698976+00:00"
+    },
+    "86d083e81dd664b6": {
+      "title": "印度数据中心公司Yotta：公司在IPO前寻求60亿美元的估值",
+      "fetched_at": "2026-05-04T13:19:56.331423+00:00"
+    },
+    "532f5763c6d012cc": {
+      "title": "港交所拟重启黄金期货交易",
+      "fetched_at": "2026-05-04T13:19:56.952630+00:00"
+    },
+    "ca8449182cba579d": {
+      "title": "韩国3月网购销售额突破25万亿韩元创新高，特斯拉需求激增",
+      "fetched_at": "2026-05-04T13:19:57.576165+00:00"
+    },
+    "81e1ccb102c191d8": {
+      "title": "豆包将在免费模式外新增付费订阅，官方回应",
+      "fetched_at": "2026-05-04T13:19:58.196936+00:00"
+    },
+    "3cde289f6b0789ed": {
+      "title": "精锻科技：当前公司机器人业务尚未形成销售收入",
+      "fetched_at": "2026-05-04T13:19:58.820195+00:00"
+    },
+    "3dbb48986ce4789c": {
+      "title": "恒指午间休盘涨1.7%，恒生科技指数涨2.86%",
+      "fetched_at": "2026-05-04T13:19:59.506251+00:00"
+    },
+    "5e2379340139e0b7": {
+      "title": "一季度末股东户数下降公司排行：16家公司降逾40%",
+      "fetched_at": "2026-05-04T13:20:00.131032+00:00"
+    },
+    "ddae77a2f3335977": {
+      "title": "恒生科技指数涨近4%，小米集团涨逾10%",
+      "fetched_at": "2026-05-04T13:20:00.749130+00:00"
+    },
+    "526bf479670240e0": {
+      "title": "现代起亚4月份美国销量同比下降2.1%，混动车销量创新高",
+      "fetched_at": "2026-05-04T13:20:01.376513+00:00"
+    },
+    "d164627abf3f3787": {
+      "title": "国开行一季度发放专项转贷款285.4亿元支持外贸小微企业发展",
+      "fetched_at": "2026-05-04T13:20:02.009904+00:00"
+    },
+    "b1ecea42b1c47274": {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "fetched_at": "2026-05-04T13:20:02.622899+00:00"
+    },
+    "fc64856467483c0d": {
+      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+      "fetched_at": "2026-05-04T13:20:03.246125+00:00"
+    },
+    "bb694375e37e48d2": {
+      "title": "假期出门太折磨？我的 23 条经验帮你规划惬意旅行",
+      "fetched_at": "2026-05-04T13:20:03.868592+00:00"
+    },
+    "afb50eeed706aa9b": {
+      "title": "科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表",
+      "fetched_at": "2026-05-04T13:20:04.478495+00:00"
+    },
+    "39fd361e74daa306": {
+      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
+      "fetched_at": "2026-05-04T13:20:05.114282+00:00"
+    },
+    "75ab2835f1bd8e21": {
+      "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+      "fetched_at": "2026-05-04T13:20:05.753124+00:00"
+    },
+    "39b23e0e5121057c": {
+      "title": "秘密抵達、事後宣布——賴清德突圍出訪史瓦帝尼，台灣扳回一城了嗎？",
+      "fetched_at": "2026-05-04T13:20:08.406245+00:00"
+    },
+    "a4227520846513c2": {
+      "title": "賴清德訪問史瓦帝尼：兩岸角力下的外交動向",
+      "fetched_at": "2026-05-04T13:20:09.028987+00:00"
+    },
+    "eea16c26ff69728f": {
+      "title": "Centuries-old Christian Nubian murals inspire gorgeous fashion reconstructions",
+      "fetched_at": "2026-05-04T13:20:49.370958+00:00"
+    },
+    "48c5573d817f80c0": {
+      "title": "Athena bowl: A silver and gold vessel of the goddess and her owl, buried in a German forest 2,000 years ago",
+      "fetched_at": "2026-05-04T13:20:49.999563+00:00"
+    },
+    "37cd3a7e1fc92623": {
+      "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
+      "fetched_at": "2026-05-04T13:20:50.675492+00:00"
+    },
+    "071e5b68fbe4a2ce": {
+      "title": "Fish oil may be hurting your brain, new study finds",
+      "fetched_at": "2026-05-04T13:20:51.313589+00:00"
+    },
+    "0f877a5fcebd3343": {
+      "title": "Aggressive “hulk” lizards are wiping out millions of years of evolution",
+      "fetched_at": "2026-05-04T13:20:51.935153+00:00"
     }
   },
-  "last_updated": "2026-05-04T08:15:27.750178+00:00"
+  "last_updated": "2026-05-04T13:20:52.083618+00:00"
 }
