@@ -1,205 +1,5 @@
 {
   "articles": {
-    "ad89aea4328cdfe2": {
-      "title": "Show HN: DAG-chat – DAG-based AI chat app with branch and merge",
-      "fetched_at": "2026-04-27T13:15:38.754146+00:00"
-    },
-    "ef0ca7993d823e29": {
-      "title": "北京银行：科技金融贷款“十四五”期间增长178%",
-      "fetched_at": "2026-04-27T13:15:39.376519+00:00"
-    },
-    "d2e3528d915e995f": {
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "fetched_at": "2026-04-27T13:15:39.988203+00:00"
-    },
-    "cb813e51166d64d8": {
-      "title": "AI Chatbots: Last Week Tonight with John Oliver [video]",
-      "fetched_at": "2026-04-27T13:15:40.603108+00:00"
-    },
-    "c9499ceb412a488d": {
-      "title": "Tokenmaxxing and the search for AI metrics that matter",
-      "fetched_at": "2026-04-27T13:15:41.267806+00:00"
-    },
-    "d46aa50a701d7567": {
-      "title": "Ubuntu Linux Will Begin Landing AI Features Throughout the Next Year",
-      "fetched_at": "2026-04-27T13:15:41.865407+00:00"
-    },
-    "073010e0ec6e92fa": {
-      "title": "热门中概股美股盘前普跌，阿里巴巴跌超2%",
-      "fetched_at": "2026-04-27T13:15:42.469159+00:00"
-    },
-    "6396360cf87ab17a": {
-      "title": "美股大型科技股盘前多数下跌，苹果跌超1%",
-      "fetched_at": "2026-04-27T13:15:43.075301+00:00"
-    },
-    "a2d4d65c28babdf3": {
-      "title": "AI will boost the gig economy platform by making freelancers more valuable",
-      "fetched_at": "2026-04-27T13:15:43.666129+00:00"
-    },
-    "8a2eff3dde113079": {
-      "title": "Memory Is the Machine",
-      "fetched_at": "2026-04-27T13:15:44.277214+00:00"
-    },
-    "bf8a3b5da06c8cff": {
-      "title": "万兴科技：2025年营收15.3亿元，归母净利减亏44.2%",
-      "fetched_at": "2026-04-27T13:15:45.085854+00:00"
-    },
-    "b3a32bae524259b9": {
-      "title": "Cyborg Technical Writers – Augmented, Not Replaced, by AI",
-      "fetched_at": "2026-04-27T13:15:45.690407+00:00"
-    },
-    "7d9c8ac0cdc98ba4": {
-      "title": "The AI-free site builder for genius founders",
-      "fetched_at": "2026-04-27T13:15:46.306488+00:00"
-    },
-    "ea5fe04250dfd2ec": {
-      "title": "盒马升级大区制，设立AI委员会",
-      "fetched_at": "2026-04-27T13:15:46.917263+00:00"
-    },
-    "ca3fc8d65c41e238": {
-      "title": "千里科技：第一季度营收23.61亿元，同比增长31.37%",
-      "fetched_at": "2026-04-27T13:15:47.625406+00:00"
-    },
-    "24bf3a615c1ca95c": {
-      "title": "Show HN: AISA – Conversational AI Skills Assessment Based on the LLM Interaction",
-      "fetched_at": "2026-04-27T13:15:48.237992+00:00"
-    },
-    "0f22863acb1caf55": {
-      "title": "China blocks Meta's $2B acquisition of AI startup Manus",
-      "fetched_at": "2026-04-27T13:15:48.836132+00:00"
-    },
-    "e5842e5728d196f5": {
-      "title": "We Will Be Driving Autonomously Long Before Any AI Is Liable for Generated Code",
-      "fetched_at": "2026-04-27T13:15:49.445063+00:00"
-    },
-    "72e5c632c6212b26": {
-      "title": "菜鸟拟发行公募 REITs，持续加大智慧物流建设",
-      "fetched_at": "2026-04-27T13:15:50.244921+00:00"
-    },
-    "2b190ad97a984df1": {
-      "title": "AI's Feeding Frenzy Killed My Sites (2023)",
-      "fetched_at": "2026-04-27T13:15:50.844731+00:00"
-    },
-    "4b7fbe68161ec20b": {
-      "title": "安踏：一個正挑戰耐克與阿迪達斯的中國運動品牌",
-      "fetched_at": "2026-04-27T13:15:53.252468+00:00"
-    },
-    "9daf61955a5b01e8": {
-      "title": "日本外交藍皮書將中國「降級」，中日關係何去何從?",
-      "fetched_at": "2026-04-27T13:15:53.857513+00:00"
-    },
-    "1a53f6f6ab64a7bd": {
-      "title": "香港五年規劃：北京下達KPI還是「責無旁貸」的社會主義融合？",
-      "fetched_at": "2026-04-27T13:15:54.461923+00:00"
-    },
-    "d31f731ed921cf90": {
-      "title": "How everything you do is being monitored in an AI-fuelled 'surveillance capitalism system' that's ramping up aggressively",
-      "fetched_at": "2026-04-27T13:16:11.876328+00:00"
-    },
-    "37953f53e95ca36c": {
-      "title": "Mystery of golden orb found in depths of ocean off Alaska finally solved: 'Everyone was like, What the heck? What is that?'",
-      "fetched_at": "2026-04-27T13:16:12.488392+00:00"
-    },
-    "53aa8cbfb41f378d": {
-      "title": "Some fungi can influence the weather ‪—‬ and now we know how they do it",
-      "fetched_at": "2026-04-27T13:16:13.078920+00:00"
-    },
-    "898f0c83d8ad521e": {
-      "title": "Miniature camelid effigy: A silver llama with a wry smile that the Inca crafted 600 years ago",
-      "fetched_at": "2026-04-27T13:16:13.820502+00:00"
-    },
-    "a32a83547817bf3c": {
-      "title": "Pesticide exposure linked to 150% higher cancer risk in major study",
-      "fetched_at": "2026-04-27T13:16:14.451571+00:00"
-    },
-    "5979b45d4128864d": {
-      "title": "The shocking origin of human eyes traces back to an ancient “cyclops”",
-      "fetched_at": "2026-04-27T13:16:15.158898+00:00"
-    },
-    "f09252eb6ca95570": {
-      "title": "Show HN: Graph-flow – LangGraph-inspired AI agent workflows in Rust",
-      "fetched_at": "2026-04-27T19:02:55.520574+00:00"
-    },
-    "e137de17f914c5a4": {
-      "title": "Ask HN: What's the best way to post about CS/SE issues related to AI?",
-      "fetched_at": "2026-04-27T19:02:56.185055+00:00"
-    },
-    "ba03e126164e6d12": {
-      "title": "AWS Credential Isolation for Local AI Agents",
-      "fetched_at": "2026-04-27T19:02:56.807391+00:00"
-    },
-    "9bd459fe9ddcd513": {
-      "title": "AI and Junk Development",
-      "fetched_at": "2026-04-27T19:02:57.429833+00:00"
-    },
-    "fbb5b30f242e1335": {
-      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "fetched_at": "2026-04-27T19:02:58.056325+00:00"
-    },
-    "b83f217057aedd5a": {
-      "title": "I built an AI code reviewer bot for GitHub – no external APIs",
-      "fetched_at": "2026-04-27T19:02:58.665035+00:00"
-    },
-    "c856045eaf64f4cb": {
-      "title": "OpenAI Reportedly Working on an AI Smartphone to Rival iPhone",
-      "fetched_at": "2026-04-27T19:02:59.290920+00:00"
-    },
-    "46ce8360b2ea8648": {
-      "title": "Eliminating AI Failure Modes Using DSLs – The Drafter Pattern",
-      "fetched_at": "2026-04-27T19:02:59.914638+00:00"
-    },
-    "c3147ff4d685947f": {
-      "title": "Being a Manager: Hiring AI",
-      "fetched_at": "2026-04-27T19:03:00.536916+00:00"
-    },
-    "419f21e96e63ce5a": {
-      "title": "Madison Square Garden's Surveillance Machine",
-      "fetched_at": "2026-04-27T19:03:01.155097+00:00"
-    },
-    "9158f4fe75268d76": {
-      "title": "Taylor Swift files to trademark voice and image after AI concerns",
-      "fetched_at": "2026-04-27T19:03:01.949304+00:00"
-    },
-    "c41e1e8ed991cce0": {
-      "title": "Show HN: RedSOC – 100% prompt injection success on AI SoC assistants",
-      "fetched_at": "2026-04-27T19:03:02.567383+00:00"
-    },
-    "6df57c806c721c1d": {
-      "title": "China blocks Meta from acquiring AI startup Manus",
-      "fetched_at": "2026-04-27T19:03:03.193113+00:00"
-    },
-    "b8f58f07c8ee5b4a": {
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "fetched_at": "2026-04-27T19:03:03.845800+00:00"
-    },
-    "8cdc4fd46540b9ce": {
-      "title": "Show HN: Alit – AI-generated PBR maps with real-time relighting",
-      "fetched_at": "2026-04-27T19:03:04.478652+00:00"
-    },
-    "07459e7cf37de85c": {
-      "title": "China blocks Meta's $2B purchase of AI group Manus",
-      "fetched_at": "2026-04-27T19:03:05.099736+00:00"
-    },
-    "721470a143516be1": {
-      "title": "Claude-powered AI coding agent deletes company database in 9 seconds",
-      "fetched_at": "2026-04-27T19:03:05.724797+00:00"
-    },
-    "ba3814e1b107ac3d": {
-      "title": "An AI interviews the author of a book it read",
-      "fetched_at": "2026-04-27T19:03:06.340646+00:00"
-    },
-    "91f0dd0fcda1625d": {
-      "title": "The reputation system we designed for AI agents (NOT BLOCKCHAIN)",
-      "fetched_at": "2026-04-27T19:03:06.960327+00:00"
-    },
-    "36d9a2b32f99f3bb": {
-      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-      "fetched_at": "2026-04-27T19:03:07.585290+00:00"
-    },
-    "fab98603682df0a7": {
-      "title": "Traces of Cremation Pyre Uncovered in the East of England",
-      "fetched_at": "2026-04-27T19:03:43.258856+00:00"
-    },
     "c7ee1ad2d9c468fb": {
       "title": "Ancient South Americans arrived in three waves–and had some surprising ancestry",
       "fetched_at": "2026-04-27T19:03:43.883383+00:00"
@@ -3795,7 +3595,99 @@
     "2df54ddf56b2cbaa": {
       "title": "Canadian 'emoji' lake vanishes after dramatic, landslide-like collapse — Earth from space",
       "fetched_at": "2026-05-05T13:08:39.733432+00:00"
+    },
+    "c8c2094942cac86f": {
+      "title": "Blackstone, KKR in Talks with Google to Bring AI Models to Portfolio Firms",
+      "fetched_at": "2026-05-05T19:03:25.923430+00:00"
+    },
+    "77c9d00ddbb85439": {
+      "title": "Stop trying to review AI's code faster: bet on rollback instead",
+      "fetched_at": "2026-05-05T19:03:26.535571+00:00"
+    },
+    "8f221466f413f1c2": {
+      "title": "The AI Cost of Admission",
+      "fetched_at": "2026-05-05T19:03:27.158405+00:00"
+    },
+    "dc1f2905d2ad677f": {
+      "title": "Show HN: AHD – an open-source linter and eval framework for AI-generated UI",
+      "fetched_at": "2026-05-05T19:03:27.759929+00:00"
+    },
+    "8c22bba39cefd313": {
+      "title": "A Theory of Generalization in Deep Learning",
+      "fetched_at": "2026-05-05T19:03:28.361727+00:00"
+    },
+    "0f017987bff6fe8c": {
+      "title": "Math long resisted a digital disruption. AI is poised to change that",
+      "fetched_at": "2026-05-05T19:03:28.984051+00:00"
+    },
+    "5ebb4a9c740332b3": {
+      "title": "UNIMATRIx – A Society of AI Agents",
+      "fetched_at": "2026-05-05T19:03:29.595226+00:00"
+    },
+    "4586d6997f35b560": {
+      "title": "US Government Expands Vetting of Frontier AI Models for Security Risks",
+      "fetched_at": "2026-05-05T19:03:30.204628+00:00"
+    },
+    "7c38611e2604ddcb": {
+      "title": "Show HN: AI-DLC-UML (AI-Driven Development Life Cycle with UML Modeling)",
+      "fetched_at": "2026-05-05T19:03:30.818029+00:00"
+    },
+    "755b1af6cccc3c3e": {
+      "title": "AI Generated Content Broke the Social Contract",
+      "fetched_at": "2026-05-05T19:03:31.437441+00:00"
+    },
+    "5899b9dc6f2c995f": {
+      "title": "Coinbase cuts headcount by 14% citing AI acceleration",
+      "fetched_at": "2026-05-05T19:03:32.063890+00:00"
+    },
+    "1a15bf2ad46b17df": {
+      "title": "US moves further into AI oversight, will test Google, Microsoft and xAI models",
+      "fetched_at": "2026-05-05T19:03:32.744651+00:00"
+    },
+    "66f556d20df37766": {
+      "title": "SubQ: Sub-quadratic LLM built for 12M-token context",
+      "fetched_at": "2026-05-05T19:03:33.362886+00:00"
+    },
+    "c924bc251be9967a": {
+      "title": "Embodied AI with Claude, Raspberry Pi and Arduino",
+      "fetched_at": "2026-05-05T19:03:33.980456+00:00"
+    },
+    "35701edbccec989f": {
+      "title": "Ask HN: Is there a term for feeling sad about forced AI adoption?",
+      "fetched_at": "2026-05-05T19:03:34.587983+00:00"
+    },
+    "32136dbf6efcf4f0": {
+      "title": "Ask HN: Should I continue this project ? (Being able to change AI harness)",
+      "fetched_at": "2026-05-05T19:03:35.217728+00:00"
+    },
+    "3522dab42f336f79": {
+      "title": "Show HN: AgentSearch-Self-hosted search API for AI agents and optional Tor stack",
+      "fetched_at": "2026-05-05T19:03:35.832794+00:00"
+    },
+    "e537fd943c0554d7": {
+      "title": "ServiceNow just unveiled an AI workforce that can run your company",
+      "fetched_at": "2026-05-05T19:03:36.481123+00:00"
+    },
+    "8fc1102083c5957e": {
+      "title": "U.S. ramps up frontier AI testing as White House pivots toward safety",
+      "fetched_at": "2026-05-05T19:03:37.105541+00:00"
+    },
+    "8f16f7361c828459": {
+      "title": "Apple to let users choose rival AI models across iOS 27 features",
+      "fetched_at": "2026-05-05T19:03:37.718798+00:00"
+    },
+    "665b65f31b5fdcb4": {
+      "title": "Infants from Roman York Buried in Rare Purple Textiles",
+      "fetched_at": "2026-05-05T19:03:42.050098+00:00"
+    },
+    "811ee1beb09ae450": {
+      "title": "'I was not looking for this': Scientist accidentally finds shortcut to Mars that could slash travel time in half",
+      "fetched_at": "2026-05-05T19:03:42.671646+00:00"
+    },
+    "f675a39d7157beee": {
+      "title": "Why Ancient Egyptian Honey Remains Edible After 3k Years",
+      "fetched_at": "2026-05-05T19:03:43.304230+00:00"
     }
   },
-  "last_updated": "2026-05-05T13:08:39.842526+00:00"
+  "last_updated": "2026-05-05T19:03:43.410449+00:00"
 }
