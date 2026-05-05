@@ -1,117 +1,5 @@
 {
   "articles": {
-    "f3a9c166dd56e9ec": {
-      "title": "滴滴“五一”发放近4亿元司机补贴，打车优惠活动上线全国超200城",
-      "fetched_at": "2026-04-27T08:03:23.299905+00:00"
-    },
-    "4cab53765d92e09d": {
-      "title": "韦德布什预测特斯拉和SpaceX明年合并概率达80-90%",
-      "fetched_at": "2026-04-27T08:03:23.924340+00:00"
-    },
-    "ffd2406c0e131055": {
-      "title": "剑桥科技：第一季度净利润1.18亿元，同比增长276.44%",
-      "fetched_at": "2026-04-27T08:03:24.595983+00:00"
-    },
-    "3255fdb3caca4f18": {
-      "title": "多家美国廉价航空公司寻求政府资金纾困",
-      "fetched_at": "2026-04-27T08:03:25.257468+00:00"
-    },
-    "112442e78576f6b1": {
-      "title": "Azure/AWS Credits – YC AI Stack",
-      "fetched_at": "2026-04-27T08:03:25.877623+00:00"
-    },
-    "be6e8c5ca8ba3c7d": {
-      "title": "国际能源署：石油储备释放规模或达330万桶/日",
-      "fetched_at": "2026-04-27T08:03:26.497838+00:00"
-    },
-    "d7aa7a6d881cb201": {
-      "title": "日产汽车3月全球销售额同比下降7%",
-      "fetched_at": "2026-04-27T08:03:27.115867+00:00"
-    },
-    "3908a12d214071f1": {
-      "title": "212越野车发布越野生态系列METTA，与京东汽车达成战略合作",
-      "fetched_at": "2026-04-27T08:03:27.755715+00:00"
-    },
-    "15783b089c702451": {
-      "title": "摩尔线程在北京新设科技公司",
-      "fetched_at": "2026-04-27T08:03:28.378594+00:00"
-    },
-    "cb8e99c642eedc99": {
-      "title": "国家航天局召开商业航天高质量发展企业圆桌会议",
-      "fetched_at": "2026-04-27T08:03:29.075540+00:00"
-    },
-    "c374063d2e5e2f0f": {
-      "title": "巴斯夫上调塑料用抗氧剂及光稳定剂价格，最高涨幅达25%",
-      "fetched_at": "2026-04-27T08:03:29.688238+00:00"
-    },
-    "ffb3be8cb3e03625": {
-      "title": "新巨丰：公司无菌包装产品暂未涉及半导体、生物医药等领域",
-      "fetched_at": "2026-04-27T08:03:30.313855+00:00"
-    },
-    "4262edac17c857aa": {
-      "title": "国家能源局：正在研究制定2026年新能源消纳工作方案",
-      "fetched_at": "2026-04-27T08:03:30.924894+00:00"
-    },
-    "2a8ee4e1cd3d65fb": {
-      "title": "Sci-Hub launches Sci-Bot an AI-powered research assistant",
-      "fetched_at": "2026-04-27T08:03:31.549899+00:00"
-    },
-    "b0b7171647e7d046": {
-      "title": "网易有道云笔记推出“LLM Wiki”技能套件",
-      "fetched_at": "2026-04-27T08:03:32.178899+00:00"
-    },
-    "a9c12fbf45d0ae68": {
-      "title": "A股三大指数收盘涨跌不一，芯片产业链爆发",
-      "fetched_at": "2026-04-27T08:03:32.800780+00:00"
-    },
-    "b0d508f956c74aa3": {
-      "title": "上交所向正弦电气下发监管工作函",
-      "fetched_at": "2026-04-27T08:03:33.419039+00:00"
-    },
-    "30a478e4691cf909": {
-      "title": "Apple already won the AI race: Your favorite AI will be gone soon",
-      "fetched_at": "2026-04-27T08:03:34.052570+00:00"
-    },
-    "664bfa98aa2b1006": {
-      "title": "国家能源局：多用户绿电直连相关政策将于近期发布",
-      "fetched_at": "2026-04-27T08:03:34.738216+00:00"
-    },
-    "0829d86dc24e1b4e": {
-      "title": "DeepSeek V4 is a display of Huawei AI chip's capabilities",
-      "fetched_at": "2026-04-27T08:03:35.354581+00:00"
-    },
-    "4e96a8482860d496": {
-      "title": "「非凡的時間膠囊」：走進有750年歷史的英國牛津大學中世紀圖書館",
-      "fetched_at": "2026-04-27T08:03:38.122035+00:00"
-    },
-    "51c6c7bdb3c53b10": {
-      "title": "DeepSeek发表新模型，开源令中国AI企业扩大影响力",
-      "fetched_at": "2026-04-27T08:03:38.733440+00:00"
-    },
-    "929f97a753d206a2": {
-      "title": "科爾・托馬斯・艾倫：在白宮記者晚宴開槍的疑犯是誰？",
-      "fetched_at": "2026-04-27T08:03:39.350007+00:00"
-    },
-    "40f54444460292a5": {
-      "title": "美國代理司法部長：白宮記者晚宴槍擊疑犯「很可能」是以特朗普和其他官員為攻擊目標",
-      "fetched_at": "2026-04-27T08:03:39.965373+00:00"
-    },
-    "5cd6654e6f7ad2ea": {
-      "title": "“我可没有崩溃失态”：特朗普回忆白宫记者晚宴枪击事件",
-      "fetched_at": "2026-04-27T08:03:40.653432+00:00"
-    },
-    "d2a03d3178404ac0": {
-      "title": "白宫记者晚宴枪手是谁？我们了解到以下信息",
-      "fetched_at": "2026-04-27T08:03:41.276460+00:00"
-    },
-    "c580aa351226f0ec": {
-      "title": "枪声和混乱：还原白宫记者晚宴枪击案现场",
-      "fetched_at": "2026-04-27T08:03:41.911299+00:00"
-    },
-    "47c260da1e8a2ff1": {
-      "title": "特朗普转发反中国及印度移民言论引发批评",
-      "fetched_at": "2026-04-27T08:03:42.586446+00:00"
-    },
     "ad89aea4328cdfe2": {
       "title": "Show HN: DAG-chat – DAG-based AI chat app with branch and merge",
       "fetched_at": "2026-04-27T13:15:38.754146+00:00"
@@ -3819,7 +3707,95 @@
     "734ac244bd373dc8": {
       "title": "More ancient Linux device support faces the chop",
       "fetched_at": "2026-05-05T07:52:57.776024+00:00"
+    },
+    "c5695aa1fa478314": {
+      "title": "What's Blocking AI from Going Beyond Chatbots?",
+      "fetched_at": "2026-05-05T13:08:17.100846+00:00"
+    },
+    "db4e35e01e033456": {
+      "title": "BWVI – A CLI tool that gives AI agents structured design decision-making",
+      "fetched_at": "2026-05-05T13:08:17.836531+00:00"
+    },
+    "c7bf085fd41d6e87": {
+      "title": "Coinbase cuts 14% of its workforce, says AI is changing how work gets done",
+      "fetched_at": "2026-05-05T13:08:18.464436+00:00"
+    },
+    "0b16e1f03a03e43e": {
+      "title": "AI Product Graveyard",
+      "fetched_at": "2026-05-05T13:08:19.098897+00:00"
+    },
+    "2268c1dfbe39c8e9": {
+      "title": "A folder of Obsidian notes that's been my AI chief of staff for 7 weeks",
+      "fetched_at": "2026-05-05T13:08:19.720293+00:00"
+    },
+    "52fe1d84e7ec2ef1": {
+      "title": "Show HN: An AI generated, online art exhibition",
+      "fetched_at": "2026-05-05T13:08:20.354382+00:00"
+    },
+    "ee058b04a5db8c0f": {
+      "title": "Spawn and monitor swarms of local AI agents from an iPhone",
+      "fetched_at": "2026-05-05T13:08:20.970604+00:00"
+    },
+    "cfbddb7920c813d7": {
+      "title": "Tokentoll – Static analysis that catches LLM cost changes in code review",
+      "fetched_at": "2026-05-05T13:08:21.587538+00:00"
+    },
+    "76fa3626cccbe942": {
+      "title": "Opposition to AI Data Centers Is a 'Bipartisan Issue'",
+      "fetched_at": "2026-05-05T13:08:22.209661+00:00"
+    },
+    "77791d7165fcf7c1": {
+      "title": "How AI Works Under the Hood: LLMs Explained with Code",
+      "fetched_at": "2026-05-05T13:08:22.836771+00:00"
+    },
+    "81b66081886d3f9a": {
+      "title": "AI Agents Don't Sleep. That's the Problem.",
+      "fetched_at": "2026-05-05T13:08:23.459376+00:00"
+    },
+    "f06051289ed5eebe": {
+      "title": "Ask HN: Are you optimizing content for AI Search (GEO) vs. traditional",
+      "fetched_at": "2026-05-05T13:08:24.074211+00:00"
+    },
+    "e08e6be1efc22802": {
+      "title": "AI's Big Messaging Pivot",
+      "fetched_at": "2026-05-05T13:08:24.702548+00:00"
+    },
+    "db05b89495b15d57": {
+      "title": "AI data centers appear to be creating their own microclimates",
+      "fetched_at": "2026-05-05T13:08:25.333184+00:00"
+    },
+    "fb05483f3fb4abc3": {
+      "title": "Datapoint 2200: the machine laid the foundation for PC from Apple and IBM",
+      "fetched_at": "2026-05-05T13:08:25.952316+00:00"
+    },
+    "dba341a2c9e4f861": {
+      "title": "AI firms should face 'minimum wage for robots' to limit job cuts, says tech boss",
+      "fetched_at": "2026-05-05T13:08:26.589490+00:00"
+    },
+    "8fd2a35ba0df8487": {
+      "title": "New AI-Powered Age Assurance Measures [Meta]",
+      "fetched_at": "2026-05-05T13:08:27.200030+00:00"
+    },
+    "7d11c09e00962f21": {
+      "title": "Why ADHD Is the Cheat Code of the AI Era",
+      "fetched_at": "2026-05-05T13:08:27.809974+00:00"
+    },
+    "ff448a531ffaad54": {
+      "title": "Cerebras targets $26.6B valuation in US IPO as AI chip demand surges",
+      "fetched_at": "2026-05-05T13:08:28.469528+00:00"
+    },
+    "0eb4c45174c1ffa5": {
+      "title": "A bill banning AI companions for kids could usher in widespread ID checks online",
+      "fetched_at": "2026-05-05T13:08:29.098046+00:00"
+    },
+    "cdedee4d63337e5d": {
+      "title": "美國報告：中國東航空難肇因為燃料供應被切斷",
+      "fetched_at": "2026-05-05T13:08:32.016639+00:00"
+    },
+    "2df54ddf56b2cbaa": {
+      "title": "Canadian 'emoji' lake vanishes after dramatic, landslide-like collapse — Earth from space",
+      "fetched_at": "2026-05-05T13:08:39.733432+00:00"
     }
   },
-  "last_updated": "2026-05-05T07:52:57.911357+00:00"
+  "last_updated": "2026-05-05T13:08:39.842526+00:00"
 }
