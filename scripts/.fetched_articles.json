@@ -1,41 +1,5 @@
 {
   "articles": {
-    "c7ee1ad2d9c468fb": {
-      "title": "Ancient South Americans arrived in three waves–and had some surprising ancestry",
-      "fetched_at": "2026-04-27T19:03:43.883383+00:00"
-    },
-    "35b05c5ea6c4ca74": {
-      "title": "Parasites Detected in Roman-Era Chamber Pots from Bulgaria",
-      "fetched_at": "2026-04-27T19:03:44.499870+00:00"
-    },
-    "42dd3a7b989e9fcc": {
-      "title": "Pollen Trapped in Pitch Tracks Repairs Made to Ancient Ship",
-      "fetched_at": "2026-04-27T19:03:45.124512+00:00"
-    },
-    "5f8847c89f2275d3": {
-      "title": "Amazfit Active 3 Premium review: A great budget smartwatch for running beginners",
-      "fetched_at": "2026-04-27T19:03:45.736537+00:00"
-    },
-    "138280e4eb1aeb0f": {
-      "title": "Scientists finally solve mystery of strange “golden orb” found 2 miles deep",
-      "fetched_at": "2026-04-27T19:03:46.393250+00:00"
-    },
-    "f774c8d7d5964a39": {
-      "title": "This tiny mammal survived the dinosaur apocalypse and changed life on Earth",
-      "fetched_at": "2026-04-27T19:03:47.011193+00:00"
-    },
-    "aaab6ddef86156a0": {
-      "title": "Students build a “cosmic radio” to listen for dark matter",
-      "fetched_at": "2026-04-27T19:03:47.642624+00:00"
-    },
-    "f68428e371962e3a": {
-      "title": "Scientists just captured a mysterious quantum “dance” inside superconductors",
-      "fetched_at": "2026-04-27T19:03:48.270899+00:00"
-    },
-    "4af29c616588d0e4": {
-      "title": "Scientists may have found the brain’s switch for chronic pain",
-      "fetched_at": "2026-04-27T19:03:48.891592+00:00"
-    },
     "28f90c5dd7990667": {
       "title": "How AI Will Reshape Computer Systems by 2035",
       "fetched_at": "2026-04-28T01:51:49.721410+00:00"
@@ -3687,7 +3651,155 @@
     "f675a39d7157beee": {
       "title": "Why Ancient Egyptian Honey Remains Edible After 3k Years",
       "fetched_at": "2026-05-05T19:03:43.304230+00:00"
+    },
+    "32df71c3b560470b": {
+      "title": "科创50指数涨超7%",
+      "fetched_at": "2026-05-06T01:48:27.518611+00:00"
+    },
+    "a782524a6700034f": {
+      "title": "中国4月RatingDog服务业PMI 52.6",
+      "fetched_at": "2026-05-06T01:48:28.122583+00:00"
+    },
+    "91add9d009461da9": {
+      "title": "OpenAI delivers low-latency voice AI at scale",
+      "fetched_at": "2026-05-06T01:48:28.859738+00:00"
+    },
+    "8b32031e2e09c051": {
+      "title": "海光信息涨超18%续创历史新高，总市值突破8000亿",
+      "fetched_at": "2026-05-06T01:48:29.514205+00:00"
+    },
+    "fe003310ab65a795": {
+      "title": "Show HN: How I Separate Signal from Noise in the AI Firehose",
+      "fetched_at": "2026-05-06T01:48:30.303421+00:00"
+    },
+    "183ebd955b0834fd": {
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "fetched_at": "2026-05-06T01:48:30.911595+00:00"
+    },
+    "4d268dd137a664c6": {
+      "title": "“北赛泓升”完成A+轮融资",
+      "fetched_at": "2026-05-06T01:48:31.554804+00:00"
+    },
+    "d0f283cd98ac42ca": {
+      "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
+      "fetched_at": "2026-05-06T01:48:32.171804+00:00"
+    },
+    "c1299afd9f7ac56e": {
+      "title": "Ask HN: Ten Yrs from now, when only AI codes, what's the stack?",
+      "fetched_at": "2026-05-06T01:48:32.781227+00:00"
+    },
+    "c3faf70632964347": {
+      "title": "A股三大指数集体高开，五粮液跌超6%",
+      "fetched_at": "2026-05-06T01:48:33.385586+00:00"
+    },
+    "86993e94eb8b3e5b": {
+      "title": "恒指开盘涨0.51%，恒生科技指数涨0.85%",
+      "fetched_at": "2026-05-06T01:48:34.055396+00:00"
+    },
+    "55d4376b4774b64a": {
+      "title": "5月6日人民币对美元中间价调升66个基点",
+      "fetched_at": "2026-05-06T01:48:34.684154+00:00"
+    },
+    "7b8aee54fc6f85dc": {
+      "title": "AI and That Guy at the Bar",
+      "fetched_at": "2026-05-06T01:48:35.333216+00:00"
+    },
+    "a5a0e30686af233a": {
+      "title": "小米汽车：新一代SU7上市仅48天，锁单已超过80000台",
+      "fetched_at": "2026-05-06T01:48:35.999410+00:00"
+    },
+    "bd62b725e62f3745": {
+      "title": "Rivian称投入数亿美元自研芯片",
+      "fetched_at": "2026-05-06T01:48:37.032463+00:00"
+    },
+    "8098528dfd9c5e89": {
+      "title": "An AI use policy generator that outputs a deployable managed-settings.json",
+      "fetched_at": "2026-05-06T01:48:37.632780+00:00"
+    },
+    "1417318efd2b9947": {
+      "title": "现货白银日内涨幅扩大至2%",
+      "fetched_at": "2026-05-06T01:48:38.387010+00:00"
+    },
+    "c6da725ba396cead": {
+      "title": "港股通标的证券名单调入可孚医疗、经纬天地（新）",
+      "fetched_at": "2026-05-06T01:48:39.006004+00:00"
+    },
+    "0d8c252e8b1cef13": {
+      "title": "两市融资余额减少167.42亿元",
+      "fetched_at": "2026-05-06T01:48:39.610506+00:00"
+    },
+    "ca06cb4d1b80c8b2": {
+      "title": "中信证券：一季度电子行业基金配置略有回落，超配比例仍处历史高位",
+      "fetched_at": "2026-05-06T01:48:40.223741+00:00"
+    },
+    "8da6720218ee388c": {
+      "title": "中國發布東海海底科研報告 展示「軍民融合」戰略巨大彈性",
+      "fetched_at": "2026-05-06T01:48:43.166256+00:00"
+    },
+    "2cfaff153d8cb97b": {
+      "title": "美国称中国购买伊朗石油无异于资助全球恐怖主义",
+      "fetched_at": "2026-05-06T01:48:43.784866+00:00"
+    },
+    "78b24de9b717d381": {
+      "title": "「她是亞洲人，我們不考慮她」菲律賓百老匯瑰寶麗婭·薩隆加的打拼經歷",
+      "fetched_at": "2026-05-06T01:48:44.423210+00:00"
+    },
+    "376899a7b9ea6af3": {
+      "title": "中国在伊朗战争中“两头下注”，寻求多重利益平衡",
+      "fetched_at": "2026-05-06T01:48:45.037508+00:00"
+    },
+    "32bdb51e0dad423d": {
+      "title": "湖南浏阳烟花厂爆炸致26人死亡61人受伤",
+      "fetched_at": "2026-05-06T01:48:45.677208+00:00"
+    },
+    "1a53f6f6ab64a7bd": {
+      "title": "香港五年規劃：北京下達KPI還是「責無旁貸」的社會主義融合？",
+      "fetched_at": "2026-05-06T01:48:46.291846+00:00"
+    },
+    "3efcc2da884808a2": {
+      "title": "Both very low and very high heart rates may be linked to higher stroke risk, study says",
+      "fetched_at": "2026-05-06T01:48:49.170694+00:00"
+    },
+    "e9222f672301ef9e": {
+      "title": "Webb space telescope reveals a scorching “super-Earth” that looks like Mercury",
+      "fetched_at": "2026-05-06T01:48:49.891143+00:00"
+    },
+    "fd190bfde1d95a0c": {
+      "title": "Icy object beyond Pluto has an atmosphere that shouldn't exist, study suggests",
+      "fetched_at": "2026-05-06T01:48:50.510620+00:00"
+    },
+    "3ccbd6ddde75500f": {
+      "title": "AI lets chemists design molecules by simply describing them",
+      "fetched_at": "2026-05-06T01:48:51.135469+00:00"
+    },
+    "0e4018294c5e04da": {
+      "title": "Scientists boost strawberry flavor and nutrition without changing growth",
+      "fetched_at": "2026-05-06T01:48:51.748493+00:00"
+    },
+    "c74a12db4a705e99": {
+      "title": "Bay of Cadiz Wreck Identified as Italian Ship Sunk by Francis Drake",
+      "fetched_at": "2026-05-06T01:48:52.370396+00:00"
+    },
+    "61f430ac8ab2e44d": {
+      "title": "Earliest Evidence of Cereal Processing in the Canary Islands Uncovered",
+      "fetched_at": "2026-05-06T01:48:53.113836+00:00"
+    },
+    "be19f9068d4da594": {
+      "title": "This tiny outer Solar System world has an atmosphere. It shouldn’t",
+      "fetched_at": "2026-05-06T01:48:53.723589+00:00"
+    },
+    "de476c2584541dc4": {
+      "title": "A 75-million-year-old fossil reveals a shocking tyrannosaur secret",
+      "fetched_at": "2026-05-06T01:48:54.342185+00:00"
+    },
+    "6fca7ee09e0196ff": {
+      "title": "4,000-year-old tablets reveal magic spells, kings feared, and a beer receipt",
+      "fetched_at": "2026-05-06T01:48:54.957992+00:00"
+    },
+    "15c1e482c99ae62e": {
+      "title": "Hantavirus infects at least 2 on cruise ship, while 5 others fall ill: Here's what we know",
+      "fetched_at": "2026-05-06T01:48:55.576070+00:00"
     }
   },
-  "last_updated": "2026-05-05T19:03:43.410449+00:00"
+  "last_updated": "2026-05-06T01:48:55.714264+00:00"
 }
