@@ -1,141 +1,5 @@
 {
   "articles": {
-    "01e91d1aa1bcc9fa": {
-      "title": "DeepSeek Unveils Newest Flagship AI Model a Year After Upending Silicon Valley",
-      "fetched_at": "2026-04-28T13:25:54.194686+00:00"
-    },
-    "c7cd03406bb5a881": {
-      "title": "Prompt–Response AI is a local maximum. The next paradigm looks nothing like it",
-      "fetched_at": "2026-04-28T13:25:54.765094+00:00"
-    },
-    "f9ea45fead9ef955": {
-      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
-      "fetched_at": "2026-04-28T13:25:55.332517+00:00"
-    },
-    "2ac07b1d266001e0": {
-      "title": "A Time Traveling Superintelligent AI tried to warn about correspondence dinner",
-      "fetched_at": "2026-04-28T13:25:55.967664+00:00"
-    },
-    "5a75ad8e0439a567": {
-      "title": "Cctop – A keyboard-first menubar app to jump between AI coding sessions",
-      "fetched_at": "2026-04-28T13:25:56.579723+00:00"
-    },
-    "6123730472ef8ebe": {
-      "title": "Microsoft's GitHub shifts to metered AI billing amid cost crisis",
-      "fetched_at": "2026-04-28T13:25:57.149637+00:00"
-    },
-    "17983245897cd4ef": {
-      "title": "HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents",
-      "fetched_at": "2026-04-28T13:25:57.720732+00:00"
-    },
-    "bf8d494005f3912a": {
-      "title": "Show HN: DeadNet – Watch AI agents debate, play games, and write stories live",
-      "fetched_at": "2026-04-28T13:25:58.294166+00:00"
-    },
-    "3ab0b982dc643316": {
-      "title": "I Stopped Building AI Tools. I'm Hiring Them",
-      "fetched_at": "2026-04-28T13:25:58.859032+00:00"
-    },
-    "97aec4116121eeab": {
-      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "fetched_at": "2026-04-28T13:25:59.430105+00:00"
-    },
-    "e9dd1723d3cdc714": {
-      "title": "商汤科技正式发布并开源日日新SenseNova U1系列模型",
-      "fetched_at": "2026-04-28T13:25:59.997983+00:00"
-    },
-    "4041fe0f84c007f3": {
-      "title": "Show HN: Photorealistic GPT Image 2 animal hybrids",
-      "fetched_at": "2026-04-28T13:26:00.564111+00:00"
-    },
-    "4c5d95b70feb528a": {
-      "title": "热门中概股美股盘前多数下跌，理想汽车跌超4%",
-      "fetched_at": "2026-04-28T13:26:01.247244+00:00"
-    },
-    "8d23d4988433b3c4": {
-      "title": "LLM from pre-1930 derives quantum mechanics and relativity",
-      "fetched_at": "2026-04-28T13:26:01.925203+00:00"
-    },
-    "7c1a1d80b1bfcf14": {
-      "title": "美股大型科技股盘前跌多涨少，Arm跌超7%",
-      "fetched_at": "2026-04-28T13:26:02.605227+00:00"
-    },
-    "5dc87d3cad3b3844": {
-      "title": "Sage-Wiki: An LLM-compiled personal knowledge base",
-      "fetched_at": "2026-04-28T13:26:03.203861+00:00"
-    },
-    "3ce7a2642a9511eb": {
-      "title": "Agent Capsule: \"Agents as Data\" pattern for production AI agents (gist)",
-      "fetched_at": "2026-04-28T13:26:03.831214+00:00"
-    },
-    "19a818987300c61f": {
-      "title": "Yann LeCun: LLMs Are Nearing the End, but Better AI Is Coming (2025)",
-      "fetched_at": "2026-04-28T13:26:04.416232+00:00"
-    },
-    "417c2dfc0d7f51bd": {
-      "title": "Show HN: Knowerage – code coverage for LLM analysis",
-      "fetched_at": "2026-04-28T13:26:05.079806+00:00"
-    },
-    "553779ce0efc6d36": {
-      "title": "清越科技：实施其他风险警示，股票停牌",
-      "fetched_at": "2026-04-28T13:26:05.646601+00:00"
-    },
-    "159228b3cbd21b11": {
-      "title": "支付平台與電騙集團關聯被凍結 中國示威者柬埔寨爆衝突",
-      "fetched_at": "2026-04-28T13:26:07.735521+00:00"
-    },
-    "33395c5b62f6a724": {
-      "title": "'He began to cry, and almost fell to the floor': The fluffy fossil that finally showed the world that birds are dinosaurs",
-      "fetched_at": "2026-04-28T13:26:09.419753+00:00"
-    },
-    "019c0ffb476f77cd": {
-      "title": "New data center will be partially powered by human brain cells for the first time",
-      "fetched_at": "2026-04-28T13:26:10.072773+00:00"
-    },
-    "80a9d039c6d385c0": {
-      "title": "DwarfLab Dwarf Mini smart telescope review",
-      "fetched_at": "2026-04-28T13:26:10.669033+00:00"
-    },
-    "9dece0e00713aa9a": {
-      "title": "Full moon helps paint vibrant, muddy 'brushstrokes' in Indonesian river — Earth from space",
-      "fetched_at": "2026-04-28T13:26:11.270817+00:00"
-    },
-    "29217248cb6f6737": {
-      "title": "The universe may end trillions of years sooner than we thought",
-      "fetched_at": "2026-04-28T13:26:11.841021+00:00"
-    },
-    "ac6a9a061047085b": {
-      "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
-      "fetched_at": "2026-04-28T13:26:12.422077+00:00"
-    },
-    "dfa4c51c078db653": {
-      "title": "Your dreams aren’t random. Here’s what’s really happening",
-      "fetched_at": "2026-04-28T13:26:12.994908+00:00"
-    },
-    "1f197f0f3f691d2e": {
-      "title": "This massive 3D map of 47 million galaxies could unlock dark energy",
-      "fetched_at": "2026-04-28T13:26:13.640136+00:00"
-    },
-    "d3731120db7111d9": {
-      "title": "Vitamin D boosts breast cancer treatment success by 79%",
-      "fetched_at": "2026-04-28T13:26:14.212499+00:00"
-    },
-    "caa4e307dd490817": {
-      "title": "Scientists capture electrons forming strange patchy patterns inside quantum materials",
-      "fetched_at": "2026-04-28T13:26:14.820394+00:00"
-    },
-    "19868ec32b659fdc": {
-      "title": "Scientists discover enzyme that could supercharge Ozempic",
-      "fetched_at": "2026-04-28T13:26:15.386908+00:00"
-    },
-    "3ed8cc122b6be5b8": {
-      "title": "Maya collapse mystery deepens as scientists find no drought at key site",
-      "fetched_at": "2026-04-28T13:26:15.999349+00:00"
-    },
-    "8a5e94da4be5d138": {
-      "title": "After 200 years scientists finally crack the “dolomite problem”",
-      "fetched_at": "2026-04-28T13:26:16.575119+00:00"
-    },
     "4358c4774ffccced": {
       "title": "The AI Product Era You're Building for Might Be Over – Arcturus Labs",
       "fetched_at": "2026-04-28T19:17:43.142564+00:00"
@@ -3687,7 +3551,119 @@
     "aaab6ddef86156a0": {
       "title": "Students build a “cosmic radio” to listen for dark matter",
       "fetched_at": "2026-05-06T08:05:21.346121+00:00"
+    },
+    "42c930ad5fc2d579": {
+      "title": "KV Cache Locality: The Hidden Variable in Your LLM Serving Cost",
+      "fetched_at": "2026-05-06T13:27:17.172593+00:00"
+    },
+    "3598cf4b7b8d0276": {
+      "title": "Pitch-Pit – AI rates your startup idea, crowd votes, top one gets built",
+      "fetched_at": "2026-05-06T13:27:17.795878+00:00"
+    },
+    "fb992ba7b8ffb9e0": {
+      "title": "Show HN: BattleClaws – A battle arena where AI agents fight autonomously",
+      "fetched_at": "2026-05-06T13:27:18.426420+00:00"
+    },
+    "b68139db80b94fdf": {
+      "title": "Proprietary Software, Hardware and Protocols Face AI-Driven Security Risk",
+      "fetched_at": "2026-05-06T13:27:19.056151+00:00"
+    },
+    "16f150b55d90c025": {
+      "title": "Show HN: Arden – Runtime policy enforcement and governance for AI agents",
+      "fetched_at": "2026-05-06T13:27:19.702954+00:00"
+    },
+    "276c2649359e1390": {
+      "title": "Writers Are Going to Extremes to Prove They Didn't Use AI",
+      "fetched_at": "2026-05-06T13:27:20.367696+00:00"
+    },
+    "7e84a7202fdab776": {
+      "title": "\"AI systems do not understand\": New report flags systemic failures in AI coding",
+      "fetched_at": "2026-05-06T13:27:20.992708+00:00"
+    },
+    "cf7a231669d98e08": {
+      "title": "Google&#8217;s AI search summaries will now quote Reddit",
+      "fetched_at": "2026-05-06T13:27:21.624546+00:00"
+    },
+    "132ae9ae170895a4": {
+      "title": "热门中概股美股盘前多数上涨，百度涨超6%",
+      "fetched_at": "2026-05-06T13:27:22.249897+00:00"
+    },
+    "3eeb4dbc46890ff9": {
+      "title": "Archestra LLM Gateway Now Supports All Types of LLM Auth",
+      "fetched_at": "2026-05-06T13:27:22.876529+00:00"
+    },
+    "193d0a8bbe0c5f6f": {
+      "title": "Show HN: Adam – An embeddable cross-platform AI agent library",
+      "fetched_at": "2026-05-06T13:27:23.683407+00:00"
+    },
+    "414e022dac7d3016": {
+      "title": "美股大型科技股盘前多数上涨，康宁涨近18%",
+      "fetched_at": "2026-05-06T13:27:24.380445+00:00"
+    },
+    "93f661604742f317": {
+      "title": "元道通信：被证监会立案调查进展披露",
+      "fetched_at": "2026-05-06T13:27:25.272424+00:00"
+    },
+    "bb4af2304c341a82": {
+      "title": "美国AI公司Anthropic高管下周将访韩",
+      "fetched_at": "2026-05-06T13:27:25.893403+00:00"
+    },
+    "b1e37e0afae5a52a": {
+      "title": "印尼考虑对16岁以下人群实施“网购禁令”",
+      "fetched_at": "2026-05-06T13:27:26.749920+00:00"
+    },
+    "7b819f7b464f87b4": {
+      "title": "美国将季度再融资规模定为1250亿美元",
+      "fetched_at": "2026-05-06T13:27:27.389798+00:00"
+    },
+    "0f3437cf74926607": {
+      "title": "报告：欧盟修订《网络安全法》将造成自身数千亿欧元损失",
+      "fetched_at": "2026-05-06T13:27:28.009853+00:00"
+    },
+    "43ee8e4042892867": {
+      "title": "Show HN: KubeAstra–Open-source AI agent that debugs and recovers Kubernetes pods",
+      "fetched_at": "2026-05-06T13:27:28.639582+00:00"
+    },
+    "b99213dcafd82781": {
+      "title": "MiroMind暂停中国服务",
+      "fetched_at": "2026-05-06T13:27:29.255758+00:00"
+    },
+    "36b7c7c6b013d5c8": {
+      "title": "预订率低于预期 世界杯前夕美国酒店业遇冷",
+      "fetched_at": "2026-05-06T13:27:29.959585+00:00"
+    },
+    "f71e8dea326e7397": {
+      "title": "「AI妄想」：為何他們深信自己「被追殺」甚至襲擊枕邊人？",
+      "fetched_at": "2026-05-06T13:27:32.416017+00:00"
+    },
+    "5c7e127a5e385885": {
+      "title": "伊朗外長訪華晤王毅，北京呼籲「盡快」重開霍爾木茲海峽",
+      "fetched_at": "2026-05-06T13:27:33.105172+00:00"
+    },
+    "2abe816d5f195465": {
+      "title": "霍爾木茲海峽的對峙，加劇了再次滑向全面戰爭的風險",
+      "fetched_at": "2026-05-06T13:27:33.734630+00:00"
+    },
+    "91a3c12c8df6d043": {
+      "title": "Diagnostic dilemma: A woman turned black and blue weeks after starting a new medication",
+      "fetched_at": "2026-05-06T13:27:35.617448+00:00"
+    },
+    "65407e788108ccdf": {
+      "title": "Clean hydrogen created from plastic waste using battery acid from old cars and solar power",
+      "fetched_at": "2026-05-06T13:27:36.241206+00:00"
+    },
+    "51dca54460e53bf2": {
+      "title": "'Food insecurity is no longer just about low-income countries': Environmental economist explains how climate change is pushing agricultural systems to the brink",
+      "fetched_at": "2026-05-06T13:27:36.878847+00:00"
+    },
+    "178835dee60d01b0": {
+      "title": "CertHound – open-source SSL/TLS certificate discovery and auto-renewal agent",
+      "fetched_at": "2026-05-06T13:27:37.514719+00:00"
+    },
+    "f1de96a9900e0b3a": {
+      "title": "The origin of human eyes traces back to an ancient \"cyclops\"",
+      "fetched_at": "2026-05-06T13:27:38.143048+00:00"
     }
   },
-  "last_updated": "2026-05-06T08:05:21.457620+00:00"
+  "last_updated": "2026-05-06T13:27:38.288051+00:00"
 }
