@@ -1,117 +1,5 @@
 {
   "articles": {
-    "4358c4774ffccced": {
-      "title": "The AI Product Era You're Building for Might Be Over – Arcturus Labs",
-      "fetched_at": "2026-04-28T19:17:43.142564+00:00"
-    },
-    "3da652d0e6eea083": {
-      "title": "GPT 5.5: The System Card",
-      "fetched_at": "2026-04-28T19:17:44.042443+00:00"
-    },
-    "ead6230a9b9087c4": {
-      "title": "GPT-5.5: Capabilities and Reactions",
-      "fetched_at": "2026-04-28T19:17:44.603414+00:00"
-    },
-    "e09ff1b90c5a6b2d": {
-      "title": "Why JSON Schema matters more than ever in the age of generative AI",
-      "fetched_at": "2026-04-28T19:17:45.170662+00:00"
-    },
-    "6e0a21513877efc1": {
-      "title": "Show HN: SlopIt – A dead-simple CMS for your AI agent",
-      "fetched_at": "2026-04-28T19:17:45.732727+00:00"
-    },
-    "1fb0d77b8039e0c1": {
-      "title": "Learning to Orchestrate Agents in Natural Language with the Conductor",
-      "fetched_at": "2026-04-28T19:17:46.303811+00:00"
-    },
-    "51970d6134916aa4": {
-      "title": "Sparse AI: Better hardware could turn zeros into AI heroes",
-      "fetched_at": "2026-04-28T19:17:46.865197+00:00"
-    },
-    "44d2c8d3d10e18b6": {
-      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
-      "fetched_at": "2026-04-28T19:17:47.431859+00:00"
-    },
-    "415f1adc93b33c21": {
-      "title": "Monitoring LLM behavior: Drift, retries, and refusal patterns",
-      "fetched_at": "2026-04-28T19:17:48.002713+00:00"
-    },
-    "7e8f3ec2f8403a38": {
-      "title": "Cognotik – A platform for building specialized AI apps, not another chat client",
-      "fetched_at": "2026-04-28T19:17:48.569475+00:00"
-    },
-    "3876d60a0a357dec": {
-      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-      "fetched_at": "2026-04-28T19:17:49.131481+00:00"
-    },
-    "4969d02a3a00a619": {
-      "title": "Show HN: Algotutor – Practice Go with spaced repetition in your AI agent",
-      "fetched_at": "2026-04-28T19:17:49.705602+00:00"
-    },
-    "f82baa86bd2832de": {
-      "title": "AI writes 97% of our code. Strong engineers still matter",
-      "fetched_at": "2026-04-28T19:17:50.273223+00:00"
-    },
-    "26ad7db78b7924e2": {
-      "title": "How AI is reshaping workflows and redefining jobs",
-      "fetched_at": "2026-04-28T19:17:50.842256+00:00"
-    },
-    "f01b292507759843": {
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-      "fetched_at": "2026-04-28T19:17:51.424408+00:00"
-    },
-    "062afff87110b3b6": {
-      "title": "The Feedback Loop in AI SDLC",
-      "fetched_at": "2026-04-28T19:17:51.996050+00:00"
-    },
-    "1d3a7821a6215615": {
-      "title": "Claude.ai is unavailable",
-      "fetched_at": "2026-04-28T19:17:52.563975+00:00"
-    },
-    "ad217bf8c80a0a42": {
-      "title": "Canonical's approach to AI is refreshingly thoughtful-Microsoft should take note",
-      "fetched_at": "2026-04-28T19:17:53.131871+00:00"
-    },
-    "8d06b9762f32ccb9": {
-      "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
-      "fetched_at": "2026-04-28T19:17:53.695959+00:00"
-    },
-    "13fb707a59db13da": {
-      "title": "Phaser: Create 2D games for the web – free, open source, and AI-ready",
-      "fetched_at": "2026-04-28T19:17:54.619231+00:00"
-    },
-    "9950903e6e7ed024": {
-      "title": "New AI algorithms are 95% better at showing how the universe changes over time",
-      "fetched_at": "2026-04-28T19:17:57.663472+00:00"
-    },
-    "a5b07d4809c98444": {
-      "title": "Preeclampsia could be treated with 'blood filtering' therapy, early study hints",
-      "fetched_at": "2026-04-28T19:17:58.240650+00:00"
-    },
-    "87d3e64af0042d4c": {
-      "title": "'Their greatest challenge since they stared down the asteroid': Paleontologist Steve Brusatte on why birds are facing their biggest existential threat since the dino-killing asteroid",
-      "fetched_at": "2026-04-28T19:17:58.807610+00:00"
-    },
-    "5387a4dceb0e48c1": {
-      "title": "Remains of Byzantine Plague Victims Studied",
-      "fetched_at": "2026-04-28T19:17:59.389160+00:00"
-    },
-    "99d1c1750055bab0": {
-      "title": "Sanskrit Seal Refers to Sacred Shiva Text",
-      "fetched_at": "2026-04-28T19:17:59.995853+00:00"
-    },
-    "19d89ad5f1b494cd": {
-      "title": "Drilling has begun at our sacred site Pe' Sla, setting a dangerous precedent for Indigenous lands across the country. It must be stopped.",
-      "fetched_at": "2026-04-28T19:18:00.563714+00:00"
-    },
-    "816de0fac9cb132c": {
-      "title": "NASA Curiosity rover finds mysterious life linked molecules on mars",
-      "fetched_at": "2026-04-28T19:18:01.142976+00:00"
-    },
-    "a553ecc55c2a98d1": {
-      "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
-      "fetched_at": "2026-04-28T19:18:01.712537+00:00"
-    },
     "89fbcc05642b2d07": {
       "title": "香港迪士尼再度盈利，2025财年净利润5.36亿港元",
       "fetched_at": "2026-04-29T01:54:00.997117+00:00"
@@ -3663,7 +3551,135 @@
     "f1de96a9900e0b3a": {
       "title": "The origin of human eyes traces back to an ancient \"cyclops\"",
       "fetched_at": "2026-05-06T13:27:38.143048+00:00"
+    },
+    "844e998ad0bb85de": {
+      "title": "How AI agent memory works",
+      "fetched_at": "2026-05-06T19:19:49.447584+00:00"
+    },
+    "f90a01f75fd6e3e9": {
+      "title": "Ascynd – AI video clipper that runs on your machine",
+      "fetched_at": "2026-05-06T19:19:50.071597+00:00"
+    },
+    "0b0ef81955881103": {
+      "title": "Learning the Integral of a Diffusion Model",
+      "fetched_at": "2026-05-06T19:19:50.704178+00:00"
+    },
+    "50fb9dd4c284c333": {
+      "title": "Brian's Misunderstanding of Management in a World Rapidly Adopting AI",
+      "fetched_at": "2026-05-06T19:19:51.332105+00:00"
+    },
+    "24f0de99217db9b0": {
+      "title": "Invesco Says Big Tech Needs 'Every Dollar' It Can Get in AI Debt",
+      "fetched_at": "2026-05-06T19:19:51.947026+00:00"
+    },
+    "0fe2069ac7d5aca7": {
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "fetched_at": "2026-05-06T19:19:52.564292+00:00"
+    },
+    "401e8f4eff1945d1": {
+      "title": "Time to add option in Hacker News \"AI excluded Show HN\"",
+      "fetched_at": "2026-05-06T19:19:53.188955+00:00"
+    },
+    "e3875db46dbe6e7f": {
+      "title": "ArcKit – The Agentic AI Architecture Governance for Governments",
+      "fetched_at": "2026-05-06T19:19:53.810155+00:00"
+    },
+    "a6ed906e58288d62": {
+      "title": "A Grand Challenge for Reliable Coding in the Age of AI Agents",
+      "fetched_at": "2026-05-06T19:19:54.574703+00:00"
+    },
+    "586f3b2e8069ebe3": {
+      "title": "Andy Jassy says Amazon investors will be rewarded by all its AI spending",
+      "fetched_at": "2026-05-06T19:19:55.193813+00:00"
+    },
+    "69c77bc55e2509bc": {
+      "title": "New Airbyte Agents: Cleaning Up Messy Data for AI Agents",
+      "fetched_at": "2026-05-06T19:19:55.820997+00:00"
+    },
+    "f5417edc3a2ec0e4": {
+      "title": "Democrats want affordability debate on AI Critics say they're ducking real fight",
+      "fetched_at": "2026-05-06T19:19:56.441658+00:00"
+    },
+    "39ccada8dca2590e": {
+      "title": "Core vs. Non-Core Work in the Age of AI",
+      "fetched_at": "2026-05-06T19:19:57.068786+00:00"
+    },
+    "137fcd158a79e5b3": {
+      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+      "fetched_at": "2026-05-06T19:19:57.703025+00:00"
+    },
+    "f1ca114792321ba3": {
+      "title": "Nvidia Spectrum-X MRC Is the Custom RDMA Transport Protocol for Gigascale AI",
+      "fetched_at": "2026-05-06T19:19:58.326915+00:00"
+    },
+    "52b9cdbc8548eea2": {
+      "title": "Doctors' growing AI deepfakes problem",
+      "fetched_at": "2026-05-06T19:19:58.945155+00:00"
+    },
+    "33e66e29ed3cd968": {
+      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+      "fetched_at": "2026-05-06T19:19:59.574812+00:00"
+    },
+    "15a9572273d0a667": {
+      "title": "The April every AI plan broke",
+      "fetched_at": "2026-05-06T19:20:00.190761+00:00"
+    },
+    "3d1621f3ab92157a": {
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "fetched_at": "2026-05-06T19:20:00.817595+00:00"
+    },
+    "fa7171e57bdc8b86": {
+      "title": "Show HN: Upskill – skill to find skills for your AI agents",
+      "fetched_at": "2026-05-06T19:20:01.445150+00:00"
+    },
+    "44c72d4e47f2790a": {
+      "title": "The night sky could get three times brighter as new satellites launch — all but ruining the Vera C. Rubin Observatory's survey of the universe",
+      "fetched_at": "2026-05-06T19:20:39.892487+00:00"
+    },
+    "2527d73c419cfb19": {
+      "title": "The brain's memory center doesn't start as a blank slate, study suggests",
+      "fetched_at": "2026-05-06T19:20:40.595339+00:00"
+    },
+    "b70e64e0f3749e7e": {
+      "title": "Ancient Culture Mastered Flooring Technique Millennia Before the Romans",
+      "fetched_at": "2026-05-06T19:20:41.292608+00:00"
+    },
+    "2fe1892ccc5518a2": {
+      "title": "DNA Reveals Rare Anglo-Saxon Double Burial Belonged to Brother and Sister",
+      "fetched_at": "2026-05-06T19:20:41.964664+00:00"
+    },
+    "dfdc74e871e944bc": {
+      "title": "Agent Exchange – A2A discovery with real-time bidding for AI agents",
+      "fetched_at": "2026-05-06T19:20:42.596593+00:00"
+    },
+    "5d78616b2413cc0d": {
+      "title": "Quantum battery charges in a quadrillionth of a second with a laser — larger prototypes could last for years after charging for just a minute",
+      "fetched_at": "2026-05-06T19:20:43.222956+00:00"
+    },
+    "dfa4c51c078db653": {
+      "title": "Your dreams aren’t random. Here’s what’s really happening",
+      "fetched_at": "2026-05-06T19:20:43.862804+00:00"
+    },
+    "ac6a9a061047085b": {
+      "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
+      "fetched_at": "2026-05-06T19:20:44.498527+00:00"
+    },
+    "d3731120db7111d9": {
+      "title": "Vitamin D boosts breast cancer treatment success by 79%",
+      "fetched_at": "2026-05-06T19:20:45.179168+00:00"
+    },
+    "caa4e307dd490817": {
+      "title": "Scientists capture electrons forming strange patchy patterns inside quantum materials",
+      "fetched_at": "2026-05-06T19:20:45.951011+00:00"
+    },
+    "19868ec32b659fdc": {
+      "title": "Scientists discover enzyme that could supercharge Ozempic",
+      "fetched_at": "2026-05-06T19:20:46.581789+00:00"
+    },
+    "3ed8cc122b6be5b8": {
+      "title": "Maya collapse mystery deepens as scientists find no drought at key site",
+      "fetched_at": "2026-05-06T19:20:47.221425+00:00"
     }
   },
-  "last_updated": "2026-05-06T13:27:38.288051+00:00"
+  "last_updated": "2026-05-06T19:20:47.329207+00:00"
 }
