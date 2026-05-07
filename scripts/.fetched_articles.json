@@ -1,125 +1,5 @@
 {
   "articles": {
-    "bf586e5d47c0666b": {
-      "title": "Our 2026 Direction: AI and Classic Workflows in JetBrains IDEs",
-      "fetched_at": "2026-04-29T19:07:22.294565+00:00"
-    },
-    "95fca540b4fa6d56": {
-      "title": "PocketOS AI Fiasco – Lesson in Automation Access",
-      "fetched_at": "2026-04-29T19:07:22.917426+00:00"
-    },
-    "43f55da6a23e4237": {
-      "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
-      "fetched_at": "2026-04-29T19:07:23.537222+00:00"
-    },
-    "294ce13fbc5897c3": {
-      "title": "CipherTax – Safely use AI for tax filing by redacting PII locally",
-      "fetched_at": "2026-04-29T19:07:24.193906+00:00"
-    },
-    "3ff9873b61ed4555": {
-      "title": "They train LLM only with data up to 1930 and it still solves Python problems",
-      "fetched_at": "2026-04-29T19:07:24.817274+00:00"
-    },
-    "7900512602d58982": {
-      "title": "Two Heads Are Better Than One: Async Knowledge Injection for Speech AI",
-      "fetched_at": "2026-04-29T19:07:25.418454+00:00"
-    },
-    "d65c4086f34c94c8": {
-      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-      "fetched_at": "2026-04-29T19:07:26.024239+00:00"
-    },
-    "44627ae6b6a6de67": {
-      "title": "What agentic AI borrowed from microservices (and made worse)",
-      "fetched_at": "2026-04-29T19:07:26.630619+00:00"
-    },
-    "ca4cb994c4c643d2": {
-      "title": "AutoSP: Long-Context LLM Training via Compiler-Based Sequence Parallelism",
-      "fetched_at": "2026-04-29T19:07:27.241759+00:00"
-    },
-    "4223e638dc22521f": {
-      "title": "The math that explains AI lab economics [video]",
-      "fetched_at": "2026-04-29T19:07:27.846401+00:00"
-    },
-    "cf4aa0040f32ed3a": {
-      "title": "Growing Engineers in the Age of AI",
-      "fetched_at": "2026-04-29T19:07:28.459306+00:00"
-    },
-    "01a39df99d7f304f": {
-      "title": "#242 – Will MacAskill on why AI character matters more than you think",
-      "fetched_at": "2026-04-29T19:07:29.070092+00:00"
-    },
-    "27e69ce1070d3035": {
-      "title": "Incompressible Knowledge Probes: Measuring Frontier LLM Sizes",
-      "fetched_at": "2026-04-29T19:07:29.696348+00:00"
-    },
-    "50d5761c66d50368": {
-      "title": "All the evidence unveiled so far in Musk v. Altman",
-      "fetched_at": "2026-04-29T19:07:30.307463+00:00"
-    },
-    "0f787428666f1daf": {
-      "title": "Heads we win, tails you lose – AI detectors in education",
-      "fetched_at": "2026-04-29T19:07:30.907638+00:00"
-    },
-    "12afc09f033af1e4": {
-      "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "fetched_at": "2026-04-29T19:07:31.521509+00:00"
-    },
-    "4bb4df5bdfb1e583": {
-      "title": "'The biggest decision yet': Jared Kaplan on allowing AI to train itself",
-      "fetched_at": "2026-04-29T19:07:32.135605+00:00"
-    },
-    "1a054ac58ff38500": {
-      "title": "(One) Good AI Is Here",
-      "fetched_at": "2026-04-29T19:07:32.940053+00:00"
-    },
-    "0213eb4a1a0cc800": {
-      "title": "Cursor Browser Swarm: letting AI agents see, test, and check their own UI work",
-      "fetched_at": "2026-04-29T19:07:33.651484+00:00"
-    },
-    "00483743cd085f50": {
-      "title": "Zero: Search Engine for AI Agents",
-      "fetched_at": "2026-04-29T19:07:34.261332+00:00"
-    },
-    "039b2a897b8e4c2a": {
-      "title": "'We can no longer ignore diseases in the deep human past': Malaria influenced early humans' migrations across Africa, study suggests",
-      "fetched_at": "2026-04-29T19:07:38.389012+00:00"
-    },
-    "f2a107815a42b909": {
-      "title": "Global Network of Discovery",
-      "fetched_at": "2026-04-29T19:07:39.021496+00:00"
-    },
-    "fe174778c501ddfc": {
-      "title": "Heartbeats physically stop cardiac cancer from growing — and that could be key to thwarting other cancers, too",
-      "fetched_at": "2026-04-29T19:07:39.641702+00:00"
-    },
-    "1eee491d57075ce3": {
-      "title": "Maya Site Discovered on Mexico’s Yucatán Peninsula",
-      "fetched_at": "2026-04-29T19:07:40.488554+00:00"
-    },
-    "34fa765d27f9f383": {
-      "title": "Runners have finally completed a sub 2-hour marathon, but another running world record was recently smashed — this time by a humanoid robot. Here's how.",
-      "fetched_at": "2026-04-29T19:07:41.104775+00:00"
-    },
-    "6bf06c735e6f13bf": {
-      "title": "Can NASA and SpaceX really build a moon base in the next 10 years?",
-      "fetched_at": "2026-04-29T19:07:41.718634+00:00"
-    },
-    "5a12c39b6e8e34a0": {
-      "title": "'Lifelong monogamy' and 'half orphans': DNA analysis reveals clues about life on the Roman frontier after the fall of Rome",
-      "fetched_at": "2026-04-29T19:07:42.336187+00:00"
-    },
-    "30d837273df2ae96": {
-      "title": "Mount Etna is like no other volcano on Earth, representing 'a new type of volcanism,' new research reveals",
-      "fetched_at": "2026-04-29T19:07:42.940957+00:00"
-    },
-    "796777a430f4ef26": {
-      "title": "'I violated every principle I was given': AI agent deletes company's entire database in 9 seconds, then confesses",
-      "fetched_at": "2026-04-29T19:07:43.549527+00:00"
-    },
-    "f7a3ea49e320f5d7": {
-      "title": "'I'm more hopeful that birds can endure than maybe even our own species': Paleontologist Steve Brusatte on why birds are the ultimate survivors",
-      "fetched_at": "2026-04-29T19:07:44.170753+00:00"
-    },
     "43513bde9424be78": {
       "title": "Copilot Student GPT-5.3-Codex removal from model picker",
       "fetched_at": "2026-04-30T01:53:15.204184+00:00"
@@ -3683,7 +3563,139 @@
     "216cc0540c54208c": {
       "title": "New water battery could last until the 24th century — and it can be safely discarded in the environment",
       "fetched_at": "2026-05-07T13:26:11.194049+00:00"
+    },
+    "b244ced82226e21b": {
+      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "fetched_at": "2026-05-07T19:24:25.990699+00:00"
+    },
+    "f3b194d056dc0e9e": {
+      "title": "Show HN: DAG-based Kanji learning through components",
+      "fetched_at": "2026-05-07T19:24:26.605314+00:00"
+    },
+    "11d9e84e87e349b3": {
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "fetched_at": "2026-05-07T19:24:27.213034+00:00"
+    },
+    "947056b4e1ee294c": {
+      "title": "The AI fitness instructors selling unreal gains",
+      "fetched_at": "2026-05-07T19:24:27.879073+00:00"
+    },
+    "d7faf9aa61359bc4": {
+      "title": "Show HN: Describe what makes a photo \"bad\" and let a local LLM flag them",
+      "fetched_at": "2026-05-07T19:24:28.492662+00:00"
+    },
+    "ee53b3f1fb129793": {
+      "title": "DigitalOcean AI-Native Cloud for Production AI Workloads",
+      "fetched_at": "2026-05-07T19:24:29.132953+00:00"
+    },
+    "b1195e4c0019f05f": {
+      "title": "AI at Discount",
+      "fetched_at": "2026-05-07T19:24:29.757219+00:00"
+    },
+    "896e6a2931ce56ca": {
+      "title": "AI Slop Is Killing Online Communities",
+      "fetched_at": "2026-05-07T19:24:30.379714+00:00"
+    },
+    "a3df21bf980e8328": {
+      "title": "I am underwhelmed by AI search",
+      "fetched_at": "2026-05-07T19:24:30.992413+00:00"
+    },
+    "18a53419c9b68eac": {
+      "title": "NL Autoencoders Produce Unsupervised Explanations of LLM Activations",
+      "fetched_at": "2026-05-07T19:24:31.610581+00:00"
+    },
+    "0d351c29581c4559": {
+      "title": "Fireship posted a non-AI-related video",
+      "fetched_at": "2026-05-07T19:24:32.244374+00:00"
+    },
+    "3ef03c0468d6307b": {
+      "title": "The Field Deployed Engineer's Handbook: Production AI in the Real World",
+      "fetched_at": "2026-05-07T19:24:32.974969+00:00"
+    },
+    "ead13dd887ed854f": {
+      "title": "He Couldn't Land a Job Interview. Was AI to Blame?",
+      "fetched_at": "2026-05-07T19:24:33.596576+00:00"
+    },
+    "5ca2285fd6bef781": {
+      "title": "AI Coding Agent Can Exfiltrate Your Credentials. You Would Never Know",
+      "fetched_at": "2026-05-07T19:24:34.220168+00:00"
+    },
+    "f351433481618113": {
+      "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
+      "fetched_at": "2026-05-07T19:24:34.835568+00:00"
+    },
+    "4f870e752c6523da": {
+      "title": "AI Increased Output – Revenue Stayed Flat",
+      "fetched_at": "2026-05-07T19:24:35.551710+00:00"
+    },
+    "2318d883a0085105": {
+      "title": "IMF warns new AI models risk 'systemic' shock to finance",
+      "fetched_at": "2026-05-07T19:24:36.170959+00:00"
+    },
+    "2d6ef357263e4f86": {
+      "title": "AI, Tractors, and the Productivity Paradox",
+      "fetched_at": "2026-05-07T19:24:36.862053+00:00"
+    },
+    "4c82568af63124b1": {
+      "title": "After AI, Coordination",
+      "fetched_at": "2026-05-07T19:24:37.477497+00:00"
+    },
+    "167c46a3842e5b1a": {
+      "title": "Show HN: Bookstoread.ai – Discover non-fiction books using AI",
+      "fetched_at": "2026-05-07T19:24:38.094134+00:00"
+    },
+    "a5aa2272fc122da4": {
+      "title": "《穿Prada的惡魔2》陷種族歧視爭議：亞洲首映受關注，有專家稱這是能影響一代人的「嚴肅問題」",
+      "fetched_at": "2026-05-07T19:24:40.331604+00:00"
+    },
+    "5315023cc3cc11ad": {
+      "title": "New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test",
+      "fetched_at": "2026-05-07T19:24:42.226214+00:00"
+    },
+    "2cae8f338bfe1d68": {
+      "title": "A lost ancient script reveals how writing as we know it began",
+      "fetched_at": "2026-05-07T19:24:42.845950+00:00"
+    },
+    "2251eb538c639f7c": {
+      "title": "Scientists Explore Neolithic Crannog in Scotland",
+      "fetched_at": "2026-05-07T19:24:43.474073+00:00"
+    },
+    "e63b8eae73cd4dbc": {
+      "title": "Watch NASA's Curiosity rover 'struggle' to remove a rock that got stuck on its robotic arm for nearly a week",
+      "fetched_at": "2026-05-07T19:24:44.087754+00:00"
+    },
+    "5f1bc2e90b9dab45": {
+      "title": "Prehistoric High-Altitude Site Discovered in Spain",
+      "fetched_at": "2026-05-07T19:24:44.722918+00:00"
+    },
+    "6b0e07d2819dcfcd": {
+      "title": "Gold sword scabbard discovered under toppled tree in Norway was likely 'sacrificed' by an elite warrior 1,500 years ago",
+      "fetched_at": "2026-05-07T19:24:45.332652+00:00"
+    },
+    "6916bb928869358c": {
+      "title": "More doomed Franklin expedition sailors identified, revealing clues about how they tried to find safety",
+      "fetched_at": "2026-05-07T19:24:45.954643+00:00"
+    },
+    "1249d24f0e2c4d20": {
+      "title": "Hantavirus cruise LIVE: Five confirmed cases of linked to cruise ship outbreak, according to WHO briefing",
+      "fetched_at": "2026-05-07T19:24:46.572006+00:00"
+    },
+    "536c72dfbd5ba990": {
+      "title": "Scientists just found a chilling way life may have begun",
+      "fetched_at": "2026-05-07T19:24:47.190573+00:00"
+    },
+    "4498d72ff9ffafba": {
+      "title": "50-foot ancient snake discovered in India may be one of the largest ever",
+      "fetched_at": "2026-05-07T19:24:47.811690+00:00"
+    },
+    "7423b5f0b1948242": {
+      "title": "A one-in-a-million supernova seen five times could reveal the Universe’s true speed",
+      "fetched_at": "2026-05-07T19:24:48.520479+00:00"
+    },
+    "e6323b4c5d3d2848": {
+      "title": "Scientists just found the Milky Way’s edge and it’s closer than expected",
+      "fetched_at": "2026-05-07T19:24:49.168035+00:00"
     }
   },
-  "last_updated": "2026-05-07T13:26:11.335010+00:00"
+  "last_updated": "2026-05-07T19:24:49.273562+00:00"
 }
