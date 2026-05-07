@@ -1,133 +1,5 @@
 {
   "articles": {
-    "348ed352c05e6a08": {
-      "title": "Linear Algebra for Computer Vision, Robotics, and Machine Learning [pdf]",
-      "fetched_at": "2026-04-29T13:20:26.718845+00:00"
-    },
-    "5494110a8d1ce594": {
-      "title": "The uncomfortable truth about AI and the American worker",
-      "fetched_at": "2026-04-29T13:20:27.321497+00:00"
-    },
-    "8bc8ea89705136f4": {
-      "title": "Firestorm Labs raises $82M to take drone factories into the field",
-      "fetched_at": "2026-04-29T13:20:27.964440+00:00"
-    },
-    "13d3803e15cfbfb0": {
-      "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
-      "fetched_at": "2026-04-29T13:20:28.554743+00:00"
-    },
-    "81d5ed09cff63692": {
-      "title": "Coding Was Never the Hard Part: What I Wish Every Business Leader Knew About AI",
-      "fetched_at": "2026-04-29T13:20:29.169254+00:00"
-    },
-    "f8e5b4446d9b971d": {
-      "title": "Four engineers with 10 years of experience on staying relevant in the AI era",
-      "fetched_at": "2026-04-29T13:20:29.767604+00:00"
-    },
-    "2562a7c82d596dae": {
-      "title": "Show HN: Prxhub – open registry so AI agents stop re-running the same research",
-      "fetched_at": "2026-04-29T13:20:30.362740+00:00"
-    },
-    "30972654065c5dc3": {
-      "title": "Taylor Swift deepfakes are pushing scams on TikTok",
-      "fetched_at": "2026-04-29T13:20:30.957909+00:00"
-    },
-    "6e2504bede89c97b": {
-      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-      "fetched_at": "2026-04-29T13:20:31.596866+00:00"
-    },
-    "a113307fc0b7369b": {
-      "title": "南方航空：公司及控股子公司拟向空客合计购买137架A320NEO系列飞机",
-      "fetched_at": "2026-04-29T13:20:32.256352+00:00"
-    },
-    "59766e7188e7f06c": {
-      "title": "AI Chatbots – Last Week Tonight [video]",
-      "fetched_at": "2026-04-29T13:20:32.859446+00:00"
-    },
-    "94a42b9394b6bf35": {
-      "title": "片仔癀：一季度净利润7.43亿元，同比下降25.64%",
-      "fetched_at": "2026-04-29T13:20:33.485976+00:00"
-    },
-    "21c27c9e36cff21c": {
-      "title": "热门中概股美股盘前涨跌不一，蔚来涨超4%",
-      "fetched_at": "2026-04-29T13:20:34.111201+00:00"
-    },
-    "c5a9d6dc4b953f5b": {
-      "title": "Megent – Firewall for AI Agents",
-      "fetched_at": "2026-04-29T13:20:34.708587+00:00"
-    },
-    "c96808f0838a3ac1": {
-      "title": "美股大型科技股盘前普跌，苹果跌超1%",
-      "fetched_at": "2026-04-29T13:20:35.314366+00:00"
-    },
-    "4c99b4c3ae9ca535": {
-      "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
-      "fetched_at": "2026-04-29T13:20:35.925577+00:00"
-    },
-    "aaa67112fd47115e": {
-      "title": "三花智控：一季度净利润9.28亿元，同比增长2.68%",
-      "fetched_at": "2026-04-29T13:20:36.537929+00:00"
-    },
-    "aa20d135a2fa5f95": {
-      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "fetched_at": "2026-04-29T13:20:37.147334+00:00"
-    },
-    "507047b7ce8cfbec": {
-      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "fetched_at": "2026-04-29T13:20:37.750249+00:00"
-    },
-    "72881d05ac7e112f": {
-      "title": "中金公司：一季度净利润35.77亿元，同比增长75.19%",
-      "fetched_at": "2026-04-29T13:20:38.339187+00:00"
-    },
-    "a5aa2272fc122da4": {
-      "title": "《穿Prada的惡魔2》陷種族歧視爭議：亞洲首映受關注，有專家稱這是能影響一代人的「嚴肅問題」",
-      "fetched_at": "2026-04-29T13:20:41.016777+00:00"
-    },
-    "e3651e2467e86423": {
-      "title": "面临内外双重压力，伊朗就和谈发出矛盾信号",
-      "fetched_at": "2026-04-29T13:20:41.632377+00:00"
-    },
-    "0d641879cc46f188": {
-      "title": "《邁克爾・傑克遜》：註定引起爭議的話題電影",
-      "fetched_at": "2026-04-29T13:20:42.215573+00:00"
-    },
-    "667debd9185aacb0": {
-      "title": "'It cuts both ways': Positive tipping points can restore wreaked ecosystems — we just need to trigger them, Earth system scientist Tim Lenton says",
-      "fetched_at": "2026-04-29T13:20:44.973242+00:00"
-    },
-    "df3143229df804dc": {
-      "title": "Breakthrough in experimental light-powered quantum computers could mean scaling them up is now far more viable",
-      "fetched_at": "2026-04-29T13:20:45.582393+00:00"
-    },
-    "e8d2d8b05d80cbb6": {
-      "title": "Diagnostic dilemma: Rectal exam stabilized man's irregular heartbeat",
-      "fetched_at": "2026-04-29T13:20:46.192811+00:00"
-    },
-    "536c72dfbd5ba990": {
-      "title": "Scientists just found a chilling way life may have begun",
-      "fetched_at": "2026-04-29T13:20:46.802508+00:00"
-    },
-    "4498d72ff9ffafba": {
-      "title": "50-foot ancient snake discovered in India may be one of the largest ever",
-      "fetched_at": "2026-04-29T13:20:47.528447+00:00"
-    },
-    "7423b5f0b1948242": {
-      "title": "A one-in-a-million supernova seen five times could reveal the Universe’s true speed",
-      "fetched_at": "2026-04-29T13:20:48.143600+00:00"
-    },
-    "e6323b4c5d3d2848": {
-      "title": "Scientists just found the Milky Way’s edge and it’s closer than expected",
-      "fetched_at": "2026-04-29T13:20:48.753653+00:00"
-    },
-    "f388ebc1137f7db6": {
-      "title": "95% success rate: This new trick lures termites straight to their death",
-      "fetched_at": "2026-04-29T13:20:49.366254+00:00"
-    },
-    "2ad5bc6494f5ff42": {
-      "title": "These California bees are beating a killer that’s wiping out colonies",
-      "fetched_at": "2026-04-29T13:20:49.973652+00:00"
-    },
     "bf586e5d47c0666b": {
       "title": "Our 2026 Direction: AI and Classic Workflows in JetBrains IDEs",
       "fetched_at": "2026-04-29T19:07:22.294565+00:00"
@@ -3707,7 +3579,111 @@
     "bed7bcc9b63f7a16": {
       "title": "MIT scientists discover millions of “silent synapses” in the adult brain",
       "fetched_at": "2026-05-07T08:12:52.749638+00:00"
+    },
+    "42b079bfebc74c76": {
+      "title": "AgentWrit, a Go broker for task-scoped AI agent credentials",
+      "fetched_at": "2026-05-07T13:25:50.776442+00:00"
+    },
+    "d9b49835e4333ab9": {
+      "title": "Consuming too much AI can be bad. Data on 'tokenmaxxing' reveals a better way",
+      "fetched_at": "2026-05-07T13:25:51.362102+00:00"
+    },
+    "44896bdfa7954933": {
+      "title": "The Mirror Is Part of the Machine",
+      "fetched_at": "2026-05-07T13:25:51.946102+00:00"
+    },
+    "eae2db12235ef290": {
+      "title": "AI in B2B Sales: How Managed Loops Are Replacing CRM Services",
+      "fetched_at": "2026-05-07T13:25:52.521819+00:00"
+    },
+    "0ad77e1698cf04eb": {
+      "title": "LLM-driven security reports disrupt coordinated disclosure",
+      "fetched_at": "2026-05-07T13:25:53.103749+00:00"
+    },
+    "742be5d4c2fcdfcb": {
+      "title": "AI Needs Better Metaphors",
+      "fetched_at": "2026-05-07T13:25:53.677343+00:00"
+    },
+    "ac08bad98f93b13d": {
+      "title": "Writting AI evals is not the point",
+      "fetched_at": "2026-05-07T13:25:54.259972+00:00"
+    },
+    "31bbef26f944c0e6": {
+      "title": "Neuralink：正研发一种能够到达大脑任何区域的手术机器人",
+      "fetched_at": "2026-05-07T13:25:54.852014+00:00"
+    },
+    "b071d75ee91d1ed0": {
+      "title": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试",
+      "fetched_at": "2026-05-07T13:25:55.503764+00:00"
+    },
+    "e01e27fcfae181d1": {
+      "title": "WTI原油期货向下跌破90美元/桶",
+      "fetched_at": "2026-05-07T13:25:56.085269+00:00"
+    },
+    "255f802f5e7a17a8": {
+      "title": "热门中概股美股盘前涨跌不一，阿里巴巴涨超1%",
+      "fetched_at": "2026-05-07T13:25:56.663764+00:00"
+    },
+    "ab852428a20f9700": {
+      "title": "Ten simple rules for optimal and careful use of generative AI in science m",
+      "fetched_at": "2026-05-07T13:25:57.274915+00:00"
+    },
+    "d9a8271084781a08": {
+      "title": "美股大型科技股盘前普涨，谷歌涨超1%",
+      "fetched_at": "2026-05-07T13:25:57.851343+00:00"
+    },
+    "f50e7a637eca766d": {
+      "title": "An AI powered track recommendation app for DJs",
+      "fetched_at": "2026-05-07T13:25:58.449187+00:00"
+    },
+    "834ce3e0e991e823": {
+      "title": "LLM Inference Series: 4. KV caching, a deeper look",
+      "fetched_at": "2026-05-07T13:25:59.038853+00:00"
+    },
+    "d6e65a76cc4dc3ec": {
+      "title": "Show HN: Tokid – Token-native IDs for LLM-facing systems",
+      "fetched_at": "2026-05-07T13:25:59.613545+00:00"
+    },
+    "53fdc8efd0c989e4": {
+      "title": "去哪儿：飞赴巴西里约热内卢搜索量环比上周增近2倍",
+      "fetched_at": "2026-05-07T13:26:00.198562+00:00"
+    },
+    "834e6d267364e6c8": {
+      "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+      "fetched_at": "2026-05-07T13:26:00.803829+00:00"
+    },
+    "b705f1ca54fb046a": {
+      "title": "Show HN: Mex – persistent memory for AI coding agents (~60% token reduction)",
+      "fetched_at": "2026-05-07T13:26:01.377849+00:00"
+    },
+    "4881a7054c9d88d8": {
+      "title": "Ask HN: Learning path for aspiring software developer (my nephew)",
+      "fetched_at": "2026-05-07T13:26:02.046991+00:00"
+    },
+    "2a4855e502d18b6f": {
+      "title": "魏鳳和、李尚福被判死緩 中國兩任前國防部長因貪污腐敗下獄",
+      "fetched_at": "2026-05-07T13:26:04.611141+00:00"
+    },
+    "42d188a30c23c2d5": {
+      "title": "老鼠、選票與科學：拆解台北「安鼠之亂」背後的治理危機",
+      "fetched_at": "2026-05-07T13:26:05.192738+00:00"
+    },
+    "731f95df4b1895d7": {
+      "title": "從全紅嬋的哽咽到飯圈再現 體育明星遭「侵入式監控」難題待解",
+      "fetched_at": "2026-05-07T13:26:05.767029+00:00"
+    },
+    "01e253c29fdb7d16": {
+      "title": "'Almost tragicomical': Coins minted to protect the English from the Vikings ended up as Viking jewelry, experts discover",
+      "fetched_at": "2026-05-07T13:26:10.039130+00:00"
+    },
+    "59665540e407d9a4": {
+      "title": "Andes virus — the only hantavirus that can spread between people — identified as culprit on cruise ship",
+      "fetched_at": "2026-05-07T13:26:10.625051+00:00"
+    },
+    "216cc0540c54208c": {
+      "title": "New water battery could last until the 24th century — and it can be safely discarded in the environment",
+      "fetched_at": "2026-05-07T13:26:11.194049+00:00"
     }
   },
-  "last_updated": "2026-05-07T08:12:52.890974+00:00"
+  "last_updated": "2026-05-07T13:26:11.335010+00:00"
 }
