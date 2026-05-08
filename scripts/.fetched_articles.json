@@ -1,117 +1,5 @@
 {
   "articles": {
-    "ee685153295a9850": {
-      "title": "CHERI memory safety mitigates LLM-discovered vulnerability in FreeBSD",
-      "fetched_at": "2026-04-30T13:18:19.894036+00:00"
-    },
-    "42fadebbf294fcdc": {
-      "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
-      "fetched_at": "2026-04-30T13:18:20.517618+00:00"
-    },
-    "44bbd14cf751549e": {
-      "title": "A Licensure Framework for Autonomous Clinical AI",
-      "fetched_at": "2026-04-30T13:18:21.131109+00:00"
-    },
-    "9133d19908decdc6": {
-      "title": "Stripe launches Link for AI agents",
-      "fetched_at": "2026-04-30T13:18:21.760491+00:00"
-    },
-    "c7861056d7c4db02": {
-      "title": "Meta will beam sunlight from space to power AI data centers",
-      "fetched_at": "2026-04-30T13:18:22.382056+00:00"
-    },
-    "525c9e98c5d7f5b6": {
-      "title": "AI's: 100 days to irreversible systemic system collapse?",
-      "fetched_at": "2026-04-30T13:18:23.006724+00:00"
-    },
-    "5b38ded1f23d040d": {
-      "title": "Paste the description of your AI system, get your EU AI Act obligations in 60s",
-      "fetched_at": "2026-04-30T13:18:23.710699+00:00"
-    },
-    "740370c9f1afd852": {
-      "title": "山推工程机械股份有限公司向港交所提交上市申请书",
-      "fetched_at": "2026-04-30T13:18:24.343088+00:00"
-    },
-    "1c3add16d1925c2e": {
-      "title": "热门中概股美股盘前涨跌不一，蔚来跌超1%",
-      "fetched_at": "2026-04-30T13:18:24.984271+00:00"
-    },
-    "151aad3bb3d1f380": {
-      "title": "Contributor Poker and Zig's AI Ban",
-      "fetched_at": "2026-04-30T13:18:25.610691+00:00"
-    },
-    "1131b3c8a858566a": {
-      "title": "美股大型科技股盘前涨多跌少，谷歌涨超7%",
-      "fetched_at": "2026-04-30T13:18:26.235051+00:00"
-    },
-    "e202882bdfaf80d6": {
-      "title": "AI Has Made Memory Chips One of the World’s Most Profitable Products",
-      "fetched_at": "2026-04-30T13:18:26.856351+00:00"
-    },
-    "2470300efcae35aa": {
-      "title": "美国一季度经济增长低于市场预期",
-      "fetched_at": "2026-04-30T13:18:27.543764+00:00"
-    },
-    "9a0054866828d13a": {
-      "title": "智度股份：两家海外子公司涉诉事项仍在司法程序中，陆宏达已辞任公司董事长、董事",
-      "fetched_at": "2026-04-30T13:18:28.174148+00:00"
-    },
-    "ca10a801a49c34f6": {
-      "title": "The Data Layer Tax for Robot Learning",
-      "fetched_at": "2026-04-30T13:18:28.793309+00:00"
-    },
-    "99dec5ef82271ae6": {
-      "title": "安车检测：2025年归母净亏损1.78亿元",
-      "fetched_at": "2026-04-30T13:18:29.416492+00:00"
-    },
-    "08e6a15ac247c39f": {
-      "title": "美国上周首次申领失业救济人数为18.9万人",
-      "fetched_at": "2026-04-30T13:18:30.117334+00:00"
-    },
-    "f624eba44580894f": {
-      "title": "META公司计划通过发行债券筹集至多250亿美元的资金",
-      "fetched_at": "2026-04-30T13:18:30.881565+00:00"
-    },
-    "d9e1df7cc1c8a228": {
-      "title": "Agenda‑Intelligence.md: a protocol that turns AI news summarizers into analysts",
-      "fetched_at": "2026-04-30T13:18:31.557920+00:00"
-    },
-    "a8ff840c53fdb5f0": {
-      "title": "欧洲央行：维持三大关键利率不变，符合市场预期",
-      "fetched_at": "2026-04-30T13:18:32.200034+00:00"
-    },
-    "5be8f87425c844ce": {
-      "title": "2026高雄「亞洲同志運動會」：中國大陸選手為何全數被拒入境",
-      "fetched_at": "2026-04-30T13:18:35.223953+00:00"
-    },
-    "a7beab47b2b876a3": {
-      "title": "台灣如何陷於中美角力之間？",
-      "fetched_at": "2026-04-30T13:18:35.837609+00:00"
-    },
-    "dee9a5bc3528c5f3": {
-      "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
-      "fetched_at": "2026-04-30T13:18:36.453221+00:00"
-    },
-    "5c0879c1278632dd": {
-      "title": "無煙世代：英國有望對2008年後出生者實施終身禁煙",
-      "fetched_at": "2026-04-30T13:18:37.074249+00:00"
-    },
-    "e166aa26948377b1": {
-      "title": "'The detectors never stopped beeping!' Nearly 3,000 coins discovered in field are Norway's largest Viking hoard on record",
-      "fetched_at": "2026-04-30T13:18:39.110075+00:00"
-    },
-    "e5d89c8231c6e7b0": {
-      "title": "ZWO Seestar S30 Pro smart telescope review",
-      "fetched_at": "2026-04-30T13:18:39.743885+00:00"
-    },
-    "14adacff08067ec2": {
-      "title": "'Two lives hang in the balance': Risky surgery in the womb saved baby from deadly disorder at just 25 weeks gestation",
-      "fetched_at": "2026-04-30T13:18:40.363080+00:00"
-    },
-    "2befcc95ab0c386d": {
-      "title": "Google AI breakthrough means chatbots use six times less memory during conversations without compromising performance",
-      "fetched_at": "2026-04-30T13:18:40.987668+00:00"
-    },
     "1ef4b0665dcb601c": {
       "title": "Terminal AI Coding Agents Comparison Table",
       "fetched_at": "2026-04-30T19:04:46.621555+00:00"
@@ -3823,7 +3711,131 @@
     "55e529f930a258d5": {
       "title": "Hantavirus cruise LIVE: Cruise passengers monitored in several US states as CDC sets lowest emergency response",
       "fetched_at": "2026-05-08T13:06:34.272257+00:00"
+    },
+    "d2fd36ceea79631b": {
+      "title": "All the latest updates on AI data centers",
+      "fetched_at": "2026-05-08T19:02:23.218258+00:00"
+    },
+    "f2fe0844ff949458": {
+      "title": "IatroBench: Pre-Registered Evidence of Iatrogenic Harm from AI Safety Measures",
+      "fetched_at": "2026-05-08T19:02:23.818888+00:00"
+    },
+    "8377d70f0a09900f": {
+      "title": "Trusted Remote Execution: Policy-Enforced Scripts for AI Agents and Humans",
+      "fetched_at": "2026-05-08T19:02:24.415242+00:00"
+    },
+    "cae6e7b34757a190": {
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "fetched_at": "2026-05-08T19:02:25.004879+00:00"
+    },
+    "2c5ab0c486a30fea": {
+      "title": "SafeSandbox – infinite undo for AI coding agents (Cursor, Claude Code, Codex)",
+      "fetched_at": "2026-05-08T19:02:25.608828+00:00"
+    },
+    "f743f2a73c777b4b": {
+      "title": "Show HN: Openloom – Turn Loom links into transcripts and frames an LLM can watch",
+      "fetched_at": "2026-05-08T19:02:26.208051+00:00"
+    },
+    "0c58d8ac80a3ee96": {
+      "title": "Trump jumps from 'anything goes' to 'strict regulation' AI policy",
+      "fetched_at": "2026-05-08T19:02:26.799673+00:00"
+    },
+    "0dc3e64ba9c9cafa": {
+      "title": "A New Engineering Metric for the AI-Transformation Age",
+      "fetched_at": "2026-05-08T19:02:27.439113+00:00"
+    },
+    "bc7cd86628e2119f": {
+      "title": "I've been using Empirical as my memory layer across AI tools",
+      "fetched_at": "2026-05-08T19:02:28.032294+00:00"
+    },
+    "193e33ad0b5a5493": {
+      "title": "Novel macro signals for AI-related job loss?",
+      "fetched_at": "2026-05-08T19:02:28.662247+00:00"
+    },
+    "6811d89699e605ad": {
+      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "fetched_at": "2026-05-08T19:02:29.262542+00:00"
+    },
+    "0841fd54f983240f": {
+      "title": "One keypress is all it takes to compromise four AI coding tools",
+      "fetched_at": "2026-05-08T19:02:29.856034+00:00"
+    },
+    "92d677f5e574d76d": {
+      "title": "How to learn to code in the age of AI",
+      "fetched_at": "2026-05-08T19:02:30.470733+00:00"
+    },
+    "c88359187b6f9e06": {
+      "title": "Show HN: Build a custom AI in under 60 seconds (demo video)",
+      "fetched_at": "2026-05-08T19:02:31.106307+00:00"
+    },
+    "adda2f1603bf37d2": {
+      "title": "IMF Warns That Evolving AI Threat Could Upend Financial Markets",
+      "fetched_at": "2026-05-08T19:02:31.703278+00:00"
+    },
+    "5d6f07ef0fce3571": {
+      "title": "Data centers at sea: Panthalassa nets $140M for wave-powered AI",
+      "fetched_at": "2026-05-08T19:02:32.297243+00:00"
+    },
+    "9d05e32bf57eea4a": {
+      "title": "AI Native Flights Search",
+      "fetched_at": "2026-05-08T19:02:32.892153+00:00"
+    },
+    "675f864f344e3859": {
+      "title": "We Spent 10 Days Touring Chinese AI Labs. Here's What We Saw",
+      "fetched_at": "2026-05-08T19:02:33.501351+00:00"
+    },
+    "e99b7007e79409ae": {
+      "title": "Show HN: PostDew – LinkedIn posts that don't sound like AI",
+      "fetched_at": "2026-05-08T19:02:34.111873+00:00"
+    },
+    "8ec67c38a2d48f1d": {
+      "title": "US Border Spending Spurs Boom in AI-Infused Surveillance",
+      "fetched_at": "2026-05-08T19:02:34.779174+00:00"
+    },
+    "44ddb57621676da3": {
+      "title": "1,500-Year-Old Gold Ornament Discovered in Southern Norway",
+      "fetched_at": "2026-05-08T19:02:38.657484+00:00"
+    },
+    "731e8e5e95e32728": {
+      "title": "Neanderthals May Have Used Rhino Teeth as Tools",
+      "fetched_at": "2026-05-08T19:02:39.260473+00:00"
+    },
+    "e8ab422e2e7c1437": {
+      "title": "Some gene therapies no longer require clinical trials, thanks to new FDA rule. Is this safe, and who will it help?",
+      "fetched_at": "2026-05-08T19:02:39.874634+00:00"
+    },
+    "d08eaeece0e5af65": {
+      "title": "US government declassifies nearly 200 UAP files, including strange sightings from Apollo astronauts",
+      "fetched_at": "2026-05-08T19:02:40.536448+00:00"
+    },
+    "66297068272b3a02": {
+      "title": "Flowering plants transformed into 'hopeful monsters' in 9 dire bursts across evolutionary time, study finds",
+      "fetched_at": "2026-05-08T19:02:41.137505+00:00"
+    },
+    "214c3def75f7f524": {
+      "title": "Live 'quantum network' being tested in New York — overcoming key hurdles could bring us closer to an 'unhackable' internet",
+      "fetched_at": "2026-05-08T19:02:41.729826+00:00"
+    },
+    "682d0607e8351315": {
+      "title": "Hantavirus cruise LIVE: Cruise passengers monitored in at least 5 US states as American passengers set to receive repatriation flight",
+      "fetched_at": "2026-05-08T19:02:42.342997+00:00"
+    },
+    "21e8cac56e7d94bf": {
+      "title": "Scientists reveal the best exercise for knee arthritis pain relief",
+      "fetched_at": "2026-05-08T19:02:42.934106+00:00"
+    },
+    "4c5b5f90f2fc0b43": {
+      "title": "This AI knew the answers but didn’t understand the questions",
+      "fetched_at": "2026-05-08T19:02:43.770103+00:00"
+    },
+    "502db866a82f768e": {
+      "title": "A photon was teleported across 270 meters in stunning quantum breakthrough",
+      "fetched_at": "2026-05-08T19:02:44.365568+00:00"
+    },
+    "56c314ff4c7781af": {
+      "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
+      "fetched_at": "2026-05-08T19:02:45.005318+00:00"
     }
   },
-  "last_updated": "2026-05-08T13:06:34.375092+00:00"
+  "last_updated": "2026-05-08T19:02:45.122558+00:00"
 }
