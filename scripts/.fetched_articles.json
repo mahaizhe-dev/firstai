@@ -1,149 +1,5 @@
 {
   "articles": {
-    "865a8278351db021": {
-      "title": "S佳通：因涉嫌信息披露违法违规，证监会决定对公司立案",
-      "fetched_at": "2026-04-30T08:01:38.441559+00:00"
-    },
-    "bd2a4e10f951e756": {
-      "title": "现货黄金向上触及4600美元/盎司",
-      "fetched_at": "2026-04-30T08:01:39.053655+00:00"
-    },
-    "87470cf3ec70dfe1": {
-      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "fetched_at": "2026-04-30T08:01:39.675002+00:00"
-    },
-    "0a46bacc88f928f7": {
-      "title": "LLM 0.32a0 is a major backwards-compatible refactor",
-      "fetched_at": "2026-04-30T08:01:40.290599+00:00"
-    },
-    "f1f46f95e3adac1c": {
-      "title": "亚马逊云科技推出桌面AI助手Amazon Quick",
-      "fetched_at": "2026-04-30T08:01:40.913348+00:00"
-    },
-    "a19a0d69216e88ff": {
-      "title": "国调基金二期入股海古德",
-      "fetched_at": "2026-04-30T08:01:41.558409+00:00"
-    },
-    "dd4e5d4cbfb93208": {
-      "title": "沧州大化：聚海分公司生产装置计划停产检修20天",
-      "fetched_at": "2026-04-30T08:01:42.182561+00:00"
-    },
-    "9a5deb3d3eed61ad": {
-      "title": "联发科一季度毛利率为46.3%，同比下滑1.8个百分点",
-      "fetched_at": "2026-04-30T08:01:42.935522+00:00"
-    },
-    "dfd4b7f58702dc94": {
-      "title": "Thoughts on WebAssembly as a Stack Machine",
-      "fetched_at": "2026-04-30T08:01:43.623903+00:00"
-    },
-    "2b6fa61ef6285f28": {
-      "title": "不谈空话，谈合作丨这场AI+产业对接会只聊落地",
-      "fetched_at": "2026-04-30T08:01:44.281079+00:00"
-    },
-    "9b7b14f3b872ad8a": {
-      "title": "Beyond 80/20: High-Entropy Minority Tokens Drive Effective RL for LLM Reasoning",
-      "fetched_at": "2026-04-30T08:01:44.896338+00:00"
-    },
-    "c0eae8c87112149f": {
-      "title": "工信部：一季度我国软件业务收入34920亿元，同比增长11.6%",
-      "fetched_at": "2026-04-30T08:01:45.508798+00:00"
-    },
-    "90222233aea91748": {
-      "title": "VS Code now enables Git AI co-authoring by default",
-      "fetched_at": "2026-04-30T08:01:46.128008+00:00"
-    },
-    "91303dd3f26c2d2e": {
-      "title": "AI Slopocalypse 2027",
-      "fetched_at": "2026-04-30T08:01:46.743846+00:00"
-    },
-    "b153f2e73414c3d4": {
-      "title": "Ask HN: Anyone using AI agents for active learning sprints? Here's my setup",
-      "fetched_at": "2026-04-30T08:01:47.367192+00:00"
-    },
-    "1376c46cd16864c7": {
-      "title": "A股三大指数收盘涨跌不一，寒武纪涨停",
-      "fetched_at": "2026-04-30T08:01:47.984564+00:00"
-    },
-    "2850ceebed7d209c": {
-      "title": "沪深两市成交额突破2.5万亿元",
-      "fetched_at": "2026-04-30T08:01:48.616546+00:00"
-    },
-    "4c08d45e5d927538": {
-      "title": "五一假期将至，用 iPhone 轻松搞定假日出行",
-      "fetched_at": "2026-04-30T08:01:49.245323+00:00"
-    },
-    "fe221d9971fd96d5": {
-      "title": "南向资金净买入额达100亿港元",
-      "fetched_at": "2026-04-30T08:01:49.245449+00:00"
-    },
-    "c06dc89a8968befd": {
-      "title": "阿里云等在广东横琴成立数梦时空智联科技公司",
-      "fetched_at": "2026-04-30T08:01:49.875330+00:00"
-    },
-    "0c10d3bd78e48f4c": {
-      "title": "三星繼承權之爭內幕：被忽視的長子和身陷囹圄的巨頭",
-      "fetched_at": "2026-04-30T08:01:52.355200+00:00"
-    },
-    "852802b7ceabb26e": {
-      "title": "這11種癌症在年輕人中增加，科學家首次找到原因線索",
-      "fetched_at": "2026-04-30T08:01:52.972202+00:00"
-    },
-    "18dc0294af81f38b": {
-      "title": "李连杰谈人生中意义重大的10件事",
-      "fetched_at": "2026-04-30T08:01:53.583774+00:00"
-    },
-    "334d1cf918f1f1aa": {
-      "title": "美國前FBI局長科米的貼文讓其遭起訴，但專家懷疑政府能否勝訴",
-      "fetched_at": "2026-04-30T08:01:54.210250+00:00"
-    },
-    "d383bb1c9ffb7886": {
-      "title": "白宫国宴宾客名单的秘密：受邀对象映射出怎样的美国？",
-      "fetched_at": "2026-04-30T08:01:54.838284+00:00"
-    },
-    "ed564c8a21330af4": {
-      "title": "“美国人显然没有战略”：德国总理言论激怒特朗普",
-      "fetched_at": "2026-04-30T08:01:55.458400+00:00"
-    },
-    "8d9442261a99f6c0": {
-      "title": "是时候认真清洗你的保温杯了",
-      "fetched_at": "2026-04-30T08:01:56.080692+00:00"
-    },
-    "2d8afc5ec9cdd63a": {
-      "title": "豆腐有多健康？",
-      "fetched_at": "2026-04-30T08:01:56.710527+00:00"
-    },
-    "21e8cac56e7d94bf": {
-      "title": "Scientists reveal the best exercise for knee arthritis pain relief",
-      "fetched_at": "2026-04-30T08:01:59.597649+00:00"
-    },
-    "4c5b5f90f2fc0b43": {
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "fetched_at": "2026-04-30T08:02:00.204445+00:00"
-    },
-    "502db866a82f768e": {
-      "title": "A photon was teleported across 270 meters in stunning quantum breakthrough",
-      "fetched_at": "2026-04-30T08:02:00.823242+00:00"
-    },
-    "9f5956f284782150": {
-      "title": "A hidden map in your nose could explain how smell works",
-      "fetched_at": "2026-04-30T08:02:01.468850+00:00"
-    },
-    "3ed9c0348562066c": {
-      "title": "First-ever 3D view shows how killer T cells destroy cancer",
-      "fetched_at": "2026-04-30T08:02:02.100107+00:00"
-    },
-    "56c314ff4c7781af": {
-      "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
-      "fetched_at": "2026-04-30T08:02:02.733932+00:00"
-    },
-    "27c3f3ad84f43c94": {
-      "title": "Humanoid robots have outpaced human runners in the half-marathon, beating the world record ‪—‬ here are the secrets to this astonishing feat",
-      "fetched_at": "2026-04-30T08:02:03.365416+00:00"
-    },
-    "b06e64d0ee12b352": {
-      "title": "Bronze Age mines discovered in Spain may explain Scandinavian metal mystery",
-      "fetched_at": "2026-04-30T08:02:03.986324+00:00"
-    },
     "ee685153295a9850": {
       "title": "CHERI memory safety mitigates LLM-discovered vulnerability in FreeBSD",
       "fetched_at": "2026-04-30T13:18:19.894036+00:00"
@@ -3843,7 +3699,131 @@
     "cbf595b7683175f7": {
       "title": "Early data links Wegovy to risk of 'eye stroke' — here's what to know",
       "fetched_at": "2026-05-08T07:14:15.129175+00:00"
+    },
+    "bccee582aaa5cbbc": {
+      "title": "亚马逊北弗吉尼亚数据中心云服务中断问题已基本解决",
+      "fetched_at": "2026-05-08T13:06:11.527344+00:00"
+    },
+    "94704be5eb178b84": {
+      "title": "高盛：美国数据中心用电需求或在两年内翻倍",
+      "fetched_at": "2026-05-08T13:06:12.145056+00:00"
+    },
+    "61dd860ef62e256f": {
+      "title": "Phishing Arena – multi-agent LLM tournament to study adversarial email security",
+      "fetched_at": "2026-05-08T13:06:12.774077+00:00"
+    },
+    "53473508e08669b5": {
+      "title": "温州宏丰：白银价格受宏观经济等多重因素共同影响价格波动幅度较大，未来可能给业绩带来一定的不确定性",
+      "fetched_at": "2026-05-08T13:06:13.466625+00:00"
+    },
+    "bcc9aec41380b315": {
+      "title": "热门中概股美股盘前多数上涨，百度涨超5%",
+      "fetched_at": "2026-05-08T13:06:14.115162+00:00"
+    },
+    "4f61ce60f7c04ab0": {
+      "title": "美股大型科技股盘前多数上涨，英伟达涨超1%",
+      "fetched_at": "2026-05-08T13:06:14.745878+00:00"
+    },
+    "640b8485fd8adb4c": {
+      "title": "What Is an AI Control Plane",
+      "fetched_at": "2026-05-08T13:06:15.395213+00:00"
+    },
+    "0a722eb4ee610791": {
+      "title": "2连板北投科技：主营业务收入构成不涉及人工智能等相关热门概念",
+      "fetched_at": "2026-05-08T13:06:16.013741+00:00"
+    },
+    "d25871727e524d5d": {
+      "title": "美国4月失业率为4.3%",
+      "fetched_at": "2026-05-08T13:06:16.644935+00:00"
+    },
+    "82a843db7428fbf6": {
+      "title": "海光DCU完成与混元Hy3 preview大模型的深度适配",
+      "fetched_at": "2026-05-08T13:06:17.294312+00:00"
+    },
+    "77d3ea92bbf7abfc": {
+      "title": "元道通信：公司可能被实施重大违法强制退市",
+      "fetched_at": "2026-05-08T13:06:18.033024+00:00"
+    },
+    "6cde37b6f5f57cc4": {
+      "title": "Show HN: NanoCorp – Create autonomous companies run by AI",
+      "fetched_at": "2026-05-08T13:06:18.668120+00:00"
+    },
+    "58a0cdcc73d74ec6": {
+      "title": "How dangerous is Anthropic's Mythos AI? - Bruce Schneier",
+      "fetched_at": "2026-05-08T13:06:19.292227+00:00"
+    },
+    "21bab5893fa27966": {
+      "title": "深交所本周共对160起证券异常交易行为采取了自律监管措施",
+      "fetched_at": "2026-05-08T13:06:19.911594+00:00"
+    },
+    "a8b2958c633eac1e": {
+      "title": "The Impact of AI-Generated Text on the Internet",
+      "fetched_at": "2026-05-08T13:06:20.531095+00:00"
+    },
+    "dba22402a8db8913": {
+      "title": "蓝思科技：股东拟向永州市慈善总会无偿捐赠390.02万股",
+      "fetched_at": "2026-05-08T13:06:21.147385+00:00"
+    },
+    "5ac886ef991d7fce": {
+      "title": "Show HN: Rfp.ai – answer RFPs from approved docs, with source citations",
+      "fetched_at": "2026-05-08T13:06:21.783742+00:00"
+    },
+    "1a88c9e949388f55": {
+      "title": "Benchmarking AI agent retrieval strategies on Kubernetes bug fixes",
+      "fetched_at": "2026-05-08T13:06:22.504781+00:00"
+    },
+    "f1d25321f4ef3250": {
+      "title": "Building an Open Source 7MB AI Terminal with Agents and Code Editor (Rust/Tauri)",
+      "fetched_at": "2026-05-08T13:06:23.133287+00:00"
+    },
+    "5f861842e20fc068": {
+      "title": "Gnome Surface next-generation AI desktop platform built with GirCore-SkiaSharp",
+      "fetched_at": "2026-05-08T13:06:23.746397+00:00"
+    },
+    "bdb1f71907ddd109": {
+      "title": "台灣醫美巨頭愛爾麗涉「系統性偷拍」，數以百計女性憂私密影片外流",
+      "fetched_at": "2026-05-08T13:06:26.969547+00:00"
+    },
+    "41cacbb52a502f0c": {
+      "title": "前線的機器人：令人不安的戰爭未來",
+      "fetched_at": "2026-05-08T13:06:27.591325+00:00"
+    },
+    "ce8318a8bdaad028": {
+      "title": "俄羅斯閱兵：「勝利日」無坦克，顯示烏克蘭戰爭進展未如計劃",
+      "fetched_at": "2026-05-08T13:06:28.217203+00:00"
+    },
+    "905db38657ed169a": {
+      "title": "北京视美国为“跛脚的巨人”：习特会特朗普处境被动？",
+      "fetched_at": "2026-05-08T13:06:28.833373+00:00"
+    },
+    "17e45650f4d93469": {
+      "title": "500-year-old gold dental bridge is earliest known oral care of its kind in Scotland — and it likely held a fake tooth",
+      "fetched_at": "2026-05-08T13:06:30.514457+00:00"
+    },
+    "955e770422722ba6": {
+      "title": "Live quantum network test in New York overcomes 2 key hurdles in creating an 'unhackable' internet",
+      "fetched_at": "2026-05-08T13:06:31.110405+00:00"
+    },
+    "ee15c7fda1480ac8": {
+      "title": "Mangroves clean up $8.7 billion of nitrogen pollution every year, study finds",
+      "fetched_at": "2026-05-08T13:06:31.716647+00:00"
+    },
+    "4534780af69b3049": {
+      "title": "A common constipation drug shows surprising power to protect kidneys",
+      "fetched_at": "2026-05-08T13:06:32.336244+00:00"
+    },
+    "18c1e1b41adfe10d": {
+      "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
+      "fetched_at": "2026-05-08T13:06:33.036578+00:00"
+    },
+    "38cf93c822c3f56c": {
+      "title": "Scientists make stunning discovery that could change our understanding of the Universe",
+      "fetched_at": "2026-05-08T13:06:33.645600+00:00"
+    },
+    "55e529f930a258d5": {
+      "title": "Hantavirus cruise LIVE: Cruise passengers monitored in several US states as CDC sets lowest emergency response",
+      "fetched_at": "2026-05-08T13:06:34.272257+00:00"
     }
   },
-  "last_updated": "2026-05-08T07:14:15.229525+00:00"
+  "last_updated": "2026-05-08T13:06:34.375092+00:00"
 }
