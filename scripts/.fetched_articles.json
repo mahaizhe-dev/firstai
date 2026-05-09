@@ -1,133 +1,5 @@
 {
   "articles": {
-    "d37ed2369b53bfe0": {
-      "title": "云深处科技完成IPO辅导",
-      "fetched_at": "2026-05-01T07:59:47.627531+00:00"
-    },
-    "ab62d5f84afaae85": {
-      "title": "小鹏集团4月共交付新车31011台",
-      "fetched_at": "2026-05-01T07:59:48.221458+00:00"
-    },
-    "4d83ad5dec29d0d0": {
-      "title": "苹果称印度反垄断机构越权，双方争端愈演愈烈",
-      "fetched_at": "2026-05-01T07:59:48.871670+00:00"
-    },
-    "0e44e7095ad1d590": {
-      "title": "界面财联社入股小红书关联公司",
-      "fetched_at": "2026-05-01T07:59:49.445044+00:00"
-    },
-    "3dd3fd5dd88eb22e": {
-      "title": "'Completely horrible': UK job hunters share frustration with AI interviews",
-      "fetched_at": "2026-05-01T07:59:50.055765+00:00"
-    },
-    "94af80e1de441657": {
-      "title": "Ask HN: Bedrock,Vertex AI etc. Support Anthropic Models",
-      "fetched_at": "2026-05-01T07:59:50.641221+00:00"
-    },
-    "109e7aeb635813ea": {
-      "title": "29家高股息且高增长公司连续派现",
-      "fetched_at": "2026-05-01T07:59:51.341562+00:00"
-    },
-    "a51ebc46c29ae19c": {
-      "title": "The AI supply crunch is here",
-      "fetched_at": "2026-05-01T07:59:51.917487+00:00"
-    },
-    "2caefa1465d5e233": {
-      "title": "A股年度派现金额创历史新高",
-      "fetched_at": "2026-05-01T07:59:52.488544+00:00"
-    },
-    "ff43fe303e2feba7": {
-      "title": "Reunderstanding the Power of AI Through Reverse Engineering",
-      "fetched_at": "2026-05-01T07:59:53.061736+00:00"
-    },
-    "7152d7441936f4d3": {
-      "title": "2026五一档档期总票房破亿",
-      "fetched_at": "2026-05-01T07:59:53.634470+00:00"
-    },
-    "47cf4c31adc4dcf7": {
-      "title": "杭州为具身智能机器人立法，今起施行",
-      "fetched_at": "2026-05-01T07:59:54.294767+00:00"
-    },
-    "fd554cdcff5a3f4e": {
-      "title": "今日铁路运输迎高峰，预计97万人次出京",
-      "fetched_at": "2026-05-01T07:59:54.866098+00:00"
-    },
-    "55f0aa75c1d2e0db": {
-      "title": "上汽乘用车4月零售超7.8万辆，同比增长15.5%",
-      "fetched_at": "2026-05-01T07:59:55.484244+00:00"
-    },
-    "940bc0b1aea643f7": {
-      "title": "鸿蒙智行4月交付32759台，同比增长18.9%",
-      "fetched_at": "2026-05-01T07:59:56.066443+00:00"
-    },
-    "d20e56ea6c5caf89": {
-      "title": "岚图汽车4月交付15146辆，同比增长51%",
-      "fetched_at": "2026-05-01T07:59:56.649167+00:00"
-    },
-    "1487885e141090bf": {
-      "title": "蔚来公司4月交付29,356台，同比增长22.8%",
-      "fetched_at": "2026-05-01T07:59:57.226262+00:00"
-    },
-    "46450b066eb6ad70": {
-      "title": "北京人形将发布天工Omni机器人",
-      "fetched_at": "2026-05-01T07:59:57.802266+00:00"
-    },
-    "5b190d967dfa720c": {
-      "title": "腾讯已入股游戏科学，持股24%",
-      "fetched_at": "2026-05-01T07:59:58.382234+00:00"
-    },
-    "238b9b616189c5d7": {
-      "title": "AI Tips and Tricks",
-      "fetched_at": "2026-05-01T07:59:58.988719+00:00"
-    },
-    "727a7751a709b336": {
-      "title": "AI科技如何協助「無精症」男性 解決不孕症",
-      "fetched_at": "2026-05-01T08:00:01.910627+00:00"
-    },
-    "8df4ecee6e94d4bf": {
-      "title": "美國歌手「小甜甜」布蘭妮在加州被控酒駕",
-      "fetched_at": "2026-05-01T08:00:02.488823+00:00"
-    },
-    "9048565401e262fa": {
-      "title": "中國取消對非洲國家關稅，但有一個國家除外",
-      "fetched_at": "2026-05-01T08:00:03.112822+00:00"
-    },
-    "f0b013b37e68e9bb": {
-      "title": "緬甸軍方稱昂山素季已轉為「居家軟禁」",
-      "fetched_at": "2026-05-01T08:00:03.710505+00:00"
-    },
-    "87df032fd7015b95": {
-      "title": "《穿Prada的惡魔2》歧視亞裔爭議發酵 台港觀眾怎麼看？",
-      "fetched_at": "2026-05-01T08:00:04.340110+00:00"
-    },
-    "0e79ab12ab80a87e": {
-      "title": "Why drinking more water didn’t prevent kidney stones",
-      "fetched_at": "2026-05-01T08:00:20.647373+00:00"
-    },
-    "fb22fb99951d6e79": {
-      "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
-      "fetched_at": "2026-05-01T08:00:21.222604+00:00"
-    },
-    "8994d4fc83fab8bd": {
-      "title": "AI discovery reveals DNA isn’t locked away in cells after all",
-      "fetched_at": "2026-05-01T08:00:21.817399+00:00"
-    },
-    "0260b8070b148e24": {
-      "title": "Surprising obesity discovery rewrites decades of fat metabolism science",
-      "fetched_at": "2026-05-01T08:00:22.396121+00:00"
-    },
-    "8cb04549f07dc5b9": {
-      "title": "Scientists finally explain how the Twelve Apostles rose from the ocean",
-      "fetched_at": "2026-05-01T08:00:23.067844+00:00"
-    },
-    "0f43397d8465e6d0": {
-      "title": "Hidden ocean heat is creeping toward Antarctica’s fragile ice shelves",
-      "fetched_at": "2026-05-01T08:00:23.639091+00:00"
-    },
-    "4f3e349509d076bb": {
-      "title": "This simple fatty acid could restore failing vision",
-      "fetched_at": "2026-05-01T08:00:24.226680+00:00"
-    },
     "ccf62262fd3e85ec": {
       "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
       "fetched_at": "2026-05-01T12:53:11.773588+00:00"
@@ -3839,7 +3711,115 @@
     "ca4561a438b9b006": {
       "title": "Octopus 'krakens' as large as semi-trucks stalked ancient seas",
       "fetched_at": "2026-05-09T07:30:54.189893+00:00"
+    },
+    "439bb60e984c45ca": {
+      "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
+      "fetched_at": "2026-05-09T12:51:28.495597+00:00"
+    },
+    "157e32c9f2bcdb82": {
+      "title": "保时捷宣布精简三家子公司，重新聚焦核心业务",
+      "fetched_at": "2026-05-09T12:51:29.070213+00:00"
+    },
+    "e7a4c56a0b3c839d": {
+      "title": "员工人均奖金达610万人民币？SK海力士回应",
+      "fetched_at": "2026-05-09T12:51:29.658440+00:00"
+    },
+    "c780d1e70ad82f25": {
+      "title": "美银：美股和黄金今年或将连续第四年录得两位数涨幅",
+      "fetched_at": "2026-05-09T12:51:30.245767+00:00"
+    },
+    "40e61bef20f2f307": {
+      "title": "硫磺价格年内涨幅约8成，下游钛白粉、磷肥企业多措并举控成本",
+      "fetched_at": "2026-05-09T12:51:30.880608+00:00"
+    },
+    "a1c240853534f8c0": {
+      "title": "光帆带摄像头AI耳机本月开售",
+      "fetched_at": "2026-05-09T12:51:31.532989+00:00"
+    },
+    "4ea649a07f5f5b6c": {
+      "title": "荣耀在宁波成立新公司，注册资本100万",
+      "fetched_at": "2026-05-09T12:51:32.123279+00:00"
+    },
+    "751ae512290eacc5": {
+      "title": "天虹元服务上线",
+      "fetched_at": "2026-05-09T12:51:32.707952+00:00"
+    },
+    "9fcccc820390adea": {
+      "title": "Deepseek和阿里谈崩了？市场人士回应",
+      "fetched_at": "2026-05-09T12:51:33.300850+00:00"
+    },
+    "b1e50dd0c756471f": {
+      "title": "字节跳动据悉计划将AI基础设施支出增加25%",
+      "fetched_at": "2026-05-09T12:51:33.879333+00:00"
+    },
+    "ccfb363342fc74aa": {
+      "title": "涉及新兴领域等方面，市场监管总局批准发布一批重要国家标准",
+      "fetched_at": "2026-05-09T12:51:34.488210+00:00"
+    },
+    "80a3cca231393d10": {
+      "title": "蔚来否认被约谈，称纯属谣言",
+      "fetched_at": "2026-05-09T12:51:35.099348+00:00"
+    },
+    "284e6a19fb939a48": {
+      "title": "商务部：全球经济亟需新增长动能，APEC贸易部长会议筹备展现各方务实合作态度",
+      "fetched_at": "2026-05-09T12:51:35.703493+00:00"
+    },
+    "03db8b8b4be275ce": {
+      "title": "当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感",
+      "fetched_at": "2026-05-09T12:51:36.292718+00:00"
+    },
+    "6626ce9d79e8ff55": {
+      "title": "AI开始接管年轻人的「精神自留地」",
+      "fetched_at": "2026-05-09T12:51:36.895413+00:00"
+    },
+    "0535a4b32e242aea": {
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "fetched_at": "2026-05-09T12:51:37.496095+00:00"
+    },
+    "993e8dd0f620d4d5": {
+      "title": "Intel’s comeback story is even wilder than it seems",
+      "fetched_at": "2026-05-09T12:51:38.085452+00:00"
+    },
+    "bb1e9f76dfaf1708": {
+      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "fetched_at": "2026-05-09T12:51:38.701598+00:00"
+    },
+    "f75348355b07833c": {
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "fetched_at": "2026-05-09T12:51:39.321275+00:00"
+    },
+    "3f273db2ec33dfd7": {
+      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+      "fetched_at": "2026-05-09T12:51:39.910975+00:00"
+    },
+    "cda28e62c1a44b98": {
+      "title": "BBC調查：朝鮮為俄羅斯出戰陣亡了多少士兵？",
+      "fetched_at": "2026-05-09T12:51:42.748957+00:00"
+    },
+    "953313ab28c6d770": {
+      "title": "不只有石油——伊朗戰爭及中國出口管制正威脅亞洲糧食安全",
+      "fetched_at": "2026-05-09T12:51:43.327922+00:00"
+    },
+    "3ba7a17b72f3ec22": {
+      "title": "Science news this week: The latest on the cruise ship hantavirus infections, a shortcut to Mars, and a fast-charging quantum battery",
+      "fetched_at": "2026-05-09T12:51:45.860172+00:00"
+    },
+    "e93cbea91e1f8a6e": {
+      "title": "'Feuding tech bros' go head to head in legal showdown. But what does it mean for the future of AI?",
+      "fetched_at": "2026-05-09T12:51:46.439116+00:00"
+    },
+    "80001f690adf558d": {
+      "title": "If humans are getting smarter, why are our brains shrinking?",
+      "fetched_at": "2026-05-09T12:51:47.021823+00:00"
+    },
+    "1a523cc4bad47b9d": {
+      "title": "Hantavirus cruise: Cruise passengers monitored in at least 5 US states as American passengers set to receive repatriation flight",
+      "fetched_at": "2026-05-09T12:51:47.718294+00:00"
+    },
+    "519408ca0530e2b0": {
+      "title": "Poop-encrusted chamber pots from the Roman Empire reveal oldest known human cases of Crypto parasite",
+      "fetched_at": "2026-05-09T12:51:48.308976+00:00"
     }
   },
-  "last_updated": "2026-05-09T07:30:54.333030+00:00"
+  "last_updated": "2026-05-09T12:51:48.451764+00:00"
 }
