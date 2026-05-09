@@ -1,113 +1,5 @@
 {
   "articles": {
-    "ccf62262fd3e85ec": {
-      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-      "fetched_at": "2026-05-01T12:53:11.773588+00:00"
-    },
-    "9b9fd8c7bb020b59": {
-      "title": "追觅造车，从“火箭”开始",
-      "fetched_at": "2026-05-01T12:53:12.413800+00:00"
-    },
-    "8ba3a680ad0aa226": {
-      "title": "苹果现金战略重大转向",
-      "fetched_at": "2026-05-01T12:53:13.111544+00:00"
-    },
-    "4f1395300bd06aa3": {
-      "title": "美银：全球超大规模云计算企业2027年AI资本开支或达1万亿美元",
-      "fetched_at": "2026-05-01T12:53:13.731661+00:00"
-    },
-    "4e83f57d0bd6f8fe": {
-      "title": "苹果美股盘前涨近3%",
-      "fetched_at": "2026-05-01T12:53:14.344260+00:00"
-    },
-    "bdad54144177169f": {
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "fetched_at": "2026-05-01T12:53:14.984855+00:00"
-    },
-    "b15e1dbfe1a86b78": {
-      "title": "美股总市值首次突破75万亿美元 创历史新高",
-      "fetched_at": "2026-05-01T12:53:15.619014+00:00"
-    },
-    "a88baae0979a4f55": {
-      "title": "极氪4月交付新车31787辆，同比增长132%",
-      "fetched_at": "2026-05-01T12:53:16.308492+00:00"
-    },
-    "c21be5d0fed3cc96": {
-      "title": "36氪首发｜国内首家落地“筷子夹”塔架回收技术的商业航天公司，完成5亿元融资",
-      "fetched_at": "2026-05-01T12:53:16.940416+00:00"
-    },
-    "c3854d25b4de75dd": {
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-      "fetched_at": "2026-05-01T12:53:17.565472+00:00"
-    },
-    "7ee96f298199d4f3": {
-      "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
-      "fetched_at": "2026-05-01T12:53:18.172439+00:00"
-    },
-    "be8c76124ef99d01": {
-      "title": "Apple was surprised by AI-driven demand for Macs",
-      "fetched_at": "2026-05-01T12:53:18.798979+00:00"
-    },
-    "e08b9a5d5ebee5be": {
-      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-      "fetched_at": "2026-05-01T12:53:19.472030+00:00"
-    },
-    "a5a5d0eb46adce47": {
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "fetched_at": "2026-05-01T12:53:20.088601+00:00"
-    },
-    "627b401d0cd9a027": {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "fetched_at": "2026-05-01T12:53:20.708091+00:00"
-    },
-    "19c74ddd44898ed1": {
-      "title": "Meta is running get-rich-quick ads for its AI tools",
-      "fetched_at": "2026-05-01T12:53:21.333896+00:00"
-    },
-    "acc84ebaace0f34f": {
-      "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
-      "fetched_at": "2026-05-01T12:53:21.960165+00:00"
-    },
-    "2cfd2ebbccfd062e": {
-      "title": "Gemini is rolling out to cars with Google built-in",
-      "fetched_at": "2026-05-01T12:53:22.665304+00:00"
-    },
-    "2d5ccf3b6e7bcdb8": {
-      "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
-      "fetched_at": "2026-05-01T12:53:23.284291+00:00"
-    },
-    "dedda0b0846a4672": {
-      "title": "X announces a rebuilt ad platform powered by AI",
-      "fetched_at": "2026-05-01T12:53:23.905956+00:00"
-    },
-    "2cb5b9c6fcff92b9": {
-      "title": "中國力推「電動卡車」 市佔率年成長超過一倍",
-      "fetched_at": "2026-05-01T12:53:26.227493+00:00"
-    },
-    "f5a558c9d141a3bc": {
-      "title": "索馬利蘭: 「非洲之角」的大國博弈與台灣能源佈局背後的美中角力",
-      "fetched_at": "2026-05-01T12:53:26.930300+00:00"
-    },
-    "f6fbca53ee3ba1b9": {
-      "title": "'If astrological compatibility exists, its effects should be observable': TL;DR — it's not",
-      "fetched_at": "2026-05-01T12:53:28.593092+00:00"
-    },
-    "4bfc52dbe6056427": {
-      "title": "Full moon alert: May's Flower 'micromoon' will look extra small tonight, with a rare Blue Moon following",
-      "fetched_at": "2026-05-01T12:53:29.297323+00:00"
-    },
-    "7303c9e33f6cd110": {
-      "title": "Scientists discover hidden forces are warping Earth deep beneath the surface",
-      "fetched_at": "2026-05-01T12:53:29.918916+00:00"
-    },
-    "8e7b3d0adbfb0d51": {
-      "title": "This ancient crocodile relative grew up on four legs then walked on two",
-      "fetched_at": "2026-05-01T12:53:30.552906+00:00"
-    },
-    "3d5daa2ce5af5e49": {
-      "title": "289-million-year-old mummified reptile reveals how breathing began on land",
-      "fetched_at": "2026-05-01T12:53:31.176942+00:00"
-    },
     "0487b43f01d70282": {
       "title": "I wrote a beginner friendly guide to integrating AI into projects",
       "fetched_at": "2026-05-01T18:55:37.693930+00:00"
@@ -3819,7 +3711,119 @@
     "519408ca0530e2b0": {
       "title": "Poop-encrusted chamber pots from the Roman Empire reveal oldest known human cases of Crypto parasite",
       "fetched_at": "2026-05-09T12:51:48.308976+00:00"
+    },
+    "a21a5df387c8fba1": {
+      "title": "Turkey unveils new missile, AI touts as able to hit US mainland",
+      "fetched_at": "2026-05-09T18:42:42.277426+00:00"
+    },
+    "ac84d5fec081254c": {
+      "title": "Heuristic Learning",
+      "fetched_at": "2026-05-09T18:42:42.862548+00:00"
+    },
+    "ca361eae275e4ca2": {
+      "title": "Strategic advice from LLM's is \"trendslop\", say researchers",
+      "fetched_at": "2026-05-09T18:42:43.440634+00:00"
+    },
+    "72e7782e0f6cdec2": {
+      "title": "Show HN: How-to-Train-Your-GPT",
+      "fetched_at": "2026-05-09T18:42:44.028372+00:00"
+    },
+    "a62bbb482a583f27": {
+      "title": "AI wants direct access to your data",
+      "fetched_at": "2026-05-09T18:42:44.601868+00:00"
+    },
+    "c5244d34f528511e": {
+      "title": "Go Players Disempower Themselves to AI",
+      "fetched_at": "2026-05-09T18:42:45.209079+00:00"
+    },
+    "5c3cb69ef8b098e6": {
+      "title": "AI doesn't know – it guesses. What if meaning lived outside the model?",
+      "fetched_at": "2026-05-09T18:42:45.973095+00:00"
+    },
+    "cad475b350a394c5": {
+      "title": "The Soul in the Machine",
+      "fetched_at": "2026-05-09T18:42:46.626556+00:00"
+    },
+    "36135d4dad47e30d": {
+      "title": "Gartner: AI layoffs don't create returns, they just create vacancies",
+      "fetched_at": "2026-05-09T18:42:47.204797+00:00"
+    },
+    "9249d83706f490c4": {
+      "title": "A soccer simulator played by AI Agents",
+      "fetched_at": "2026-05-09T18:42:47.785584+00:00"
+    },
+    "3758aaeef2e9b637": {
+      "title": "Open-source experiment: collaborative AI cognition through wiki pages",
+      "fetched_at": "2026-05-09T18:42:48.376059+00:00"
+    },
+    "73271e0951b57cfc": {
+      "title": "Show HN: My AI agents bully each other to prevent context drift",
+      "fetched_at": "2026-05-09T18:42:48.957420+00:00"
+    },
+    "ef871a37f8bc3df9": {
+      "title": "Using perspective lines to identify AI generated photos",
+      "fetched_at": "2026-05-09T18:42:49.540154+00:00"
+    },
+    "0c95a9f19dacb2c5": {
+      "title": "Show HN: Armorer – A secure local control plane to sandbox AI agents in Docker",
+      "fetched_at": "2026-05-09T18:42:50.117244+00:00"
+    },
+    "2798a385a0d5e228": {
+      "title": "Learning on the Shop Floor",
+      "fetched_at": "2026-05-09T18:42:50.744425+00:00"
+    },
+    "9ecd3d7f6e79765b": {
+      "title": "Adola: Reducing LLM input tokens by 70%",
+      "fetched_at": "2026-05-09T18:42:51.336779+00:00"
+    },
+    "051a8e027fa0e25c": {
+      "title": "How are folks affordably self-training in AI?",
+      "fetched_at": "2026-05-09T18:42:51.918628+00:00"
+    },
+    "df76f63b9c5532bb": {
+      "title": "SubQ: A New LLM with a 12M Token Context That Rivals Claude and ChatGPT",
+      "fetched_at": "2026-05-09T18:42:52.501619+00:00"
+    },
+    "903fd8de2cbfa2cb": {
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "fetched_at": "2026-05-09T18:42:53.077570+00:00"
+    },
+    "253495ff12397c5e": {
+      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+      "fetched_at": "2026-05-09T18:42:53.669970+00:00"
+    },
+    "7e9ac959bbd76707": {
+      "title": "Pregnancy quiz: Can you deliver on the science of growing babies?",
+      "fetched_at": "2026-05-09T18:42:58.903774+00:00"
+    },
+    "6a8356b4f3d99251": {
+      "title": "Physicists discover quantum particles that break the rules of reality",
+      "fetched_at": "2026-05-09T18:42:59.492220+00:00"
+    },
+    "d75c747a960080da": {
+      "title": "Scientists say this simple music trick can boost workout endurance by 20%",
+      "fetched_at": "2026-05-09T18:43:00.068277+00:00"
+    },
+    "6238a4bcc16dd684": {
+      "title": "New chemical kills 95% of termites without harming humans",
+      "fetched_at": "2026-05-09T18:43:00.644120+00:00"
+    },
+    "8d52b921ebb6022a": {
+      "title": "Deep diving fur seals experience delayed heart surges after returning to land",
+      "fetched_at": "2026-05-09T18:43:01.347267+00:00"
+    },
+    "0a17dbd305015aee": {
+      "title": "Ice age humans in China crafted surprisingly advanced stone tools 146,000 years ago",
+      "fetched_at": "2026-05-09T18:43:01.928236+00:00"
+    },
+    "2c90f3f135d91d88": {
+      "title": "Hantavirus cruise: WHO Director-General will travel to Tenerife for disembarkment; repatriation flights planned on Sunday and Monday",
+      "fetched_at": "2026-05-09T18:43:02.513513+00:00"
+    },
+    "fb22fb99951d6e79": {
+      "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
+      "fetched_at": "2026-05-09T18:43:03.087672+00:00"
     }
   },
-  "last_updated": "2026-05-09T12:51:48.451764+00:00"
+  "last_updated": "2026-05-09T18:43:03.232388+00:00"
 }
