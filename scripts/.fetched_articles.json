@@ -1,129 +1,5 @@
 {
   "articles": {
-    "1ef4b0665dcb601c": {
-      "title": "Terminal AI Coding Agents Comparison Table",
-      "fetched_at": "2026-04-30T19:04:46.621555+00:00"
-    },
-    "fa1c8b942ac3b401": {
-      "title": "What we learned at YC's AI alumni event: running AI-native companies",
-      "fetched_at": "2026-04-30T19:04:47.433662+00:00"
-    },
-    "4a807bf76dd643a8": {
-      "title": "The Human Creativity Benchmark – Evaluating Generative AI in Creative Work",
-      "fetched_at": "2026-04-30T19:04:48.073235+00:00"
-    },
-    "f8a359762e9584e7": {
-      "title": "ReadBetweenTheWalls – AI Jargon Translator",
-      "fetched_at": "2026-04-30T19:04:48.711158+00:00"
-    },
-    "8bb660fd8316ee49": {
-      "title": "AI Infrastructure–Not Models–Will Define the Next Decade of AI",
-      "fetched_at": "2026-04-30T19:04:49.318579+00:00"
-    },
-    "1c22f69d032587af": {
-      "title": "The LLM Is Not a Junior Engineer",
-      "fetched_at": "2026-04-30T19:04:49.920077+00:00"
-    },
-    "7a9d9bdea4f50e5c": {
-      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "fetched_at": "2026-04-30T19:04:50.500704+00:00"
-    },
-    "109c0bfc58f63a24": {
-      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
-      "fetched_at": "2026-04-30T19:04:51.134471+00:00"
-    },
-    "a34197fe9e773463": {
-      "title": "Albert: A model-agnostic AI coding CLI with provider fallback",
-      "fetched_at": "2026-04-30T19:04:51.791254+00:00"
-    },
-    "1e05f3b4fc88712f": {
-      "title": "GPT-5.5 is the second model to complete AISI multi-step cyber-attack simulation",
-      "fetched_at": "2026-04-30T19:04:52.384017+00:00"
-    },
-    "3ca73463090709f2": {
-      "title": "Benchmarking Local LLM/Harness Combinations",
-      "fetched_at": "2026-04-30T19:04:52.989328+00:00"
-    },
-    "18100a558089283f": {
-      "title": "Anthropic wants to be the AWS of agentic AI",
-      "fetched_at": "2026-04-30T19:04:53.585261+00:00"
-    },
-    "7e13520377896f4d": {
-      "title": "Ukraine Bets on Battlefield AI",
-      "fetched_at": "2026-04-30T19:04:54.184508+00:00"
-    },
-    "f5b03ae770a8f2c1": {
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "fetched_at": "2026-04-30T19:04:54.772463+00:00"
-    },
-    "9641c21d20674546": {
-      "title": "AI On-Call Engineer That Fixes Prod While I Sleep",
-      "fetched_at": "2026-04-30T19:04:55.364355+00:00"
-    },
-    "333f37449692dd1f": {
-      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-      "fetched_at": "2026-04-30T19:04:55.953686+00:00"
-    },
-    "4331218b91b14234": {
-      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-      "fetched_at": "2026-04-30T19:04:56.720883+00:00"
-    },
-    "879d010a3565e4c3": {
-      "title": "KKR Preparing New AI Firm Worth $10B Led by Ex-Amazon Web Chief",
-      "fetched_at": "2026-04-30T19:04:57.317402+00:00"
-    },
-    "d15f792e526e557d": {
-      "title": "AI breakthrough means chatbots use six times less memory during conversations",
-      "fetched_at": "2026-04-30T19:04:57.922908+00:00"
-    },
-    "6d9780747bb15868": {
-      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
-      "fetched_at": "2026-04-30T19:04:58.562569+00:00"
-    },
-    "6f46f52df9b63e42": {
-      "title": "「去看回我以前的家」 香港宏福苑首批回家執拾居民的追悼與道別",
-      "fetched_at": "2026-04-30T19:05:01.561315+00:00"
-    },
-    "e88e4e48043efc1d": {
-      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
-      "fetched_at": "2026-04-30T19:05:02.172111+00:00"
-    },
-    "e1aef366ba668393": {
-      "title": "Weapons of the world quiz: Can you identify these historical objects of war?",
-      "fetched_at": "2026-04-30T19:05:06.884210+00:00"
-    },
-    "7114384c65607b5e": {
-      "title": "Cutting Through the Mythos: What AI Vulnerability Discovery Means for OT",
-      "fetched_at": "2026-04-30T19:05:07.496368+00:00"
-    },
-    "38f35bf92675a044": {
-      "title": "Thoughts on Historical Language Models and Talkie-1930",
-      "fetched_at": "2026-04-30T19:05:08.172505+00:00"
-    },
-    "ca4561a438b9b006": {
-      "title": "Octopus 'krakens' as large as semi-trucks stalked ancient seas",
-      "fetched_at": "2026-04-30T19:05:08.768827+00:00"
-    },
-    "846ec696a608e3f3": {
-      "title": "Scientists stunned as JWST finds ice clouds on a giant alien planet",
-      "fetched_at": "2026-04-30T19:05:09.379159+00:00"
-    },
-    "cd96bac232605aa0": {
-      "title": "DNA reveals a hidden pitviper species in China",
-      "fetched_at": "2026-04-30T19:05:09.978980+00:00"
-    },
-    "494761c241b5e738": {
-      "title": "This “quantum” material fooled scientists and revealed something new",
-      "fetched_at": "2026-04-30T19:05:10.582123+00:00"
-    },
-    "3f7ab0e8ed3d602f": {
-      "title": "This donut-shaped discovery just shattered a 150-year math rule",
-      "fetched_at": "2026-04-30T19:05:11.175262+00:00"
-    },
-    "d4f7010fab18f8db": {
-      "title": "“Baffling” new snake species in Myanmar looks like multiple species at once",
-      "fetched_at": "2026-04-30T19:05:11.780627+00:00"
-    },
     "700791e4b129f43a": {
       "title": "苹果CEO库克：预计第三季度的内存成本将显著高于第二季度",
       "fetched_at": "2026-05-01T01:55:42.166591+00:00"
@@ -3835,7 +3711,127 @@
     "56c314ff4c7781af": {
       "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
       "fetched_at": "2026-05-08T19:02:45.005318+00:00"
+    },
+    "8e5f05c8101644eb": {
+      "title": "Ask Hacker News: AI music with feedback",
+      "fetched_at": "2026-05-09T01:51:25.854560+00:00"
+    },
+    "c6b65fba013eb0f9": {
+      "title": "科兴生物补发财报：2025上半年实现销售额1.303亿美元，同比增1.2%",
+      "fetched_at": "2026-05-09T01:51:26.458977+00:00"
+    },
+    "ba4d63332a07a4d4": {
+      "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
+      "fetched_at": "2026-05-09T01:51:27.389647+00:00"
+    },
+    "194adef8e5a96b8e": {
+      "title": "How to Work and Compound with AI",
+      "fetched_at": "2026-05-09T01:51:28.005630+00:00"
+    },
+    "376fd3cf8ca9465b": {
+      "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+      "fetched_at": "2026-05-09T01:51:28.646631+00:00"
+    },
+    "90ccb24a318ea319": {
+      "title": "AI's Circular Psychosis",
+      "fetched_at": "2026-05-09T01:51:29.271778+00:00"
+    },
+    "ae9f5330d28c7b1f": {
+      "title": "AI Hard Drive Shortage Making It More Expensive, Harder to Archive the Internet",
+      "fetched_at": "2026-05-09T01:51:29.877008+00:00"
+    },
+    "2bd589e086e7af80": {
+      "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
+      "fetched_at": "2026-05-09T01:51:30.538328+00:00"
+    },
+    "bec5a4d44ed9b1be": {
+      "title": "海辰储能王鹏程：订单已排至2027年，供不应求",
+      "fetched_at": "2026-05-09T01:51:31.149956+00:00"
+    },
+    "6b6203866d1ec42c": {
+      "title": "阿波罗和黑石等机构考虑参与博通近350亿美元融资",
+      "fetched_at": "2026-05-09T01:51:31.755515+00:00"
+    },
+    "19b35a2506822feb": {
+      "title": "英特尔与苹果据悉达成初步协议，将为后者设备制造芯片",
+      "fetched_at": "2026-05-09T01:51:32.351349+00:00"
+    },
+    "4b4a71fd73529354": {
+      "title": "美股三大指数集体收盘涨，英特尔涨超13%",
+      "fetched_at": "2026-05-09T01:51:32.970997+00:00"
+    },
+    "cdbd0ef63d2ee46e": {
+      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
+      "fetched_at": "2026-05-09T01:51:33.631904+00:00"
+    },
+    "f6f9d4b4b7e5cefe": {
+      "title": "Show HN: Nexa-gauge – Cache/cost-aware graph-based eval for LLM and RAG",
+      "fetched_at": "2026-05-09T01:51:34.237735+00:00"
+    },
+    "3fe9e2237b2e47e8": {
+      "title": "People Hate AI Art",
+      "fetched_at": "2026-05-09T01:51:34.845411+00:00"
+    },
+    "e71da33397131339": {
+      "title": "Accelerator Applicant's AI System Makes Faux Pau; Critical of Accelerator Model",
+      "fetched_at": "2026-05-09T01:51:35.460804+00:00"
+    },
+    "85e04397e17b6a85": {
+      "title": "AI Canasta Scoring App",
+      "fetched_at": "2026-05-09T01:51:36.069935+00:00"
+    },
+    "47fa4782b0a83180": {
+      "title": "Playing Around with OpenAI's GPT Realtime Voice API",
+      "fetched_at": "2026-05-09T01:51:36.679778+00:00"
+    },
+    "04473b64c1f27ffa": {
+      "title": "Show HN: AI-native tech assessments (end of LeetCode)",
+      "fetched_at": "2026-05-09T01:51:37.272895+00:00"
+    },
+    "7697de3139c7ecb5": {
+      "title": "Ask HN: What are the most joyful AI projects you've seen?",
+      "fetched_at": "2026-05-09T01:51:37.878927+00:00"
+    },
+    "6a1c4862e62038ee": {
+      "title": "懸浮物體與閃光：五角大樓的UFO解密檔案披露了什麼？",
+      "fetched_at": "2026-05-09T01:51:40.871109+00:00"
+    },
+    "9b6555d128a733a9": {
+      "title": "英國地方選舉工黨慘敗，首相施紀賢受逼宮壓力堅拒辭職",
+      "fetched_at": "2026-05-09T01:51:41.511932+00:00"
+    },
+    "5be8f87425c844ce": {
+      "title": "2026高雄「亞洲同志運動會」：中國大陸選手為何全數被拒入境",
+      "fetched_at": "2026-05-09T01:51:42.109874+00:00"
+    },
+    "dee9a5bc3528c5f3": {
+      "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
+      "fetched_at": "2026-05-09T01:51:42.897462+00:00"
+    },
+    "3499520a046605b6": {
+      "title": "Study Suggests Korea’s Ancient Dogs Differed from Other East Asian Canines",
+      "fetched_at": "2026-05-09T01:51:44.803983+00:00"
+    },
+    "2ee693ef09a85183": {
+      "title": "New obesity discovery rewrites decades of fat science",
+      "fetched_at": "2026-05-09T01:51:45.417035+00:00"
+    },
+    "e166aa26948377b1": {
+      "title": "'The detectors never stopped beeping!' Nearly 3,000 coins discovered in field are Norway's largest Viking hoard on record",
+      "fetched_at": "2026-05-09T01:51:46.020524+00:00"
+    },
+    "e5d89c8231c6e7b0": {
+      "title": "ZWO Seestar S30 Pro smart telescope review",
+      "fetched_at": "2026-05-09T01:51:46.650037+00:00"
+    },
+    "14adacff08067ec2": {
+      "title": "'Two lives hang in the balance': Risky surgery in the womb saved baby from deadly disorder at just 25 weeks gestation",
+      "fetched_at": "2026-05-09T01:51:47.243342+00:00"
+    },
+    "2befcc95ab0c386d": {
+      "title": "Google AI breakthrough means chatbots use six times less memory during conversations without compromising performance",
+      "fetched_at": "2026-05-09T01:51:47.922151+00:00"
     }
   },
-  "last_updated": "2026-05-08T19:02:45.122558+00:00"
+  "last_updated": "2026-05-09T01:51:48.063790+00:00"
 }
