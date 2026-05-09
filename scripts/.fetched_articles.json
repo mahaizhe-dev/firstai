@@ -1,109 +1,5 @@
 {
   "articles": {
-    "700791e4b129f43a": {
-      "title": "苹果CEO库克：预计第三季度的内存成本将显著高于第二季度",
-      "fetched_at": "2026-05-01T01:55:42.166591+00:00"
-    },
-    "7c0d0b44f7447646": {
-      "title": "借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线",
-      "fetched_at": "2026-05-01T01:55:42.778800+00:00"
-    },
-    "5aa1a0bd1efe9595": {
-      "title": "Enabling privacy-preserving AI training on everyday devices",
-      "fetched_at": "2026-05-01T01:55:43.391785+00:00"
-    },
-    "75e30ba63bc4ffa2": {
-      "title": "特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
-      "fetched_at": "2026-05-01T01:55:44.016331+00:00"
-    },
-    "dd06072ae6cb55e0": {
-      "title": "State of the AI Frontier, April 2026",
-      "fetched_at": "2026-05-01T01:55:44.625910+00:00"
-    },
-    "da6e967bcb84743f": {
-      "title": "A股2025年营收排行榜出炉 AI服务器龙头营收大增",
-      "fetched_at": "2026-05-01T01:55:45.241216+00:00"
-    },
-    "604a673d2eabf272": {
-      "title": "AI Skills as loader spec, not prompts – why the architecture changes everything",
-      "fetched_at": "2026-05-01T01:55:45.873916+00:00"
-    },
-    "cb6ec53122fcac4d": {
-      "title": "苹果第二财季营收1111.8亿美元，同比增长17%",
-      "fetched_at": "2026-05-01T01:55:46.495936+00:00"
-    },
-    "9d9c08ffe0ce328a": {
-      "title": "AI Status (Mac App)| FOSS",
-      "fetched_at": "2026-05-01T01:55:47.106796+00:00"
-    },
-    "5a97a957b9bf70e7": {
-      "title": "What We're Missing About Generative AI",
-      "fetched_at": "2026-05-01T01:55:47.733084+00:00"
-    },
-    "8ccd79b99d337755": {
-      "title": "美股三大指数集体收涨，高通涨超15%",
-      "fetched_at": "2026-05-01T01:55:48.346910+00:00"
-    },
-    "45b4c805f0f9ee81": {
-      "title": "Show HN: LLM-Powered News –> Event Map, Timeline, and Analysis",
-      "fetched_at": "2026-05-01T01:55:48.970593+00:00"
-    },
-    "3e0e7d821e5197df": {
-      "title": "Ask HN: Any dashboards give realtime average AI chatbot response time?",
-      "fetched_at": "2026-05-01T01:55:49.663328+00:00"
-    },
-    "e684e3b1c539d558": {
-      "title": "LLM Quantization",
-      "fetched_at": "2026-05-01T01:55:50.288777+00:00"
-    },
-    "c9fcf360e3c88659": {
-      "title": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them with AI",
-      "fetched_at": "2026-05-01T01:55:50.918677+00:00"
-    },
-    "19df97f522407ec0": {
-      "title": "In Musk vs. Altman case, judge warns lawyers that AI itself is not on trial",
-      "fetched_at": "2026-05-01T01:55:51.544813+00:00"
-    },
-    "0535f2da70266a29": {
-      "title": "Onyx Pro, a local desktop utility for resetting AI IDE trial state",
-      "fetched_at": "2026-05-01T01:55:52.158239+00:00"
-    },
-    "f03c72d23c3e53d0": {
-      "title": "Ask HN: Local or Cloud -based AI?",
-      "fetched_at": "2026-05-01T01:55:52.783277+00:00"
-    },
-    "7f8f308dbc81baf1": {
-      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-      "fetched_at": "2026-05-01T01:55:53.399800+00:00"
-    },
-    "8a4244df174b2162": {
-      "title": "Palo Alto Networks to Acquire Portkey to Secure the Rise of AI Agents",
-      "fetched_at": "2026-05-01T01:55:54.009125+00:00"
-    },
-    "953313ab28c6d770": {
-      "title": "不只有石油——伊朗戰爭及中國出口管制正威脅亞洲糧食安全",
-      "fetched_at": "2026-05-01T01:55:57.191413+00:00"
-    },
-    "8eff359aa3928219": {
-      "title": "為什麼AI公司想讓你害怕？",
-      "fetched_at": "2026-05-01T01:55:57.808009+00:00"
-    },
-    "519408ca0530e2b0": {
-      "title": "Poop-encrusted chamber pots from the Roman Empire reveal oldest known human cases of Crypto parasite",
-      "fetched_at": "2026-05-01T01:55:59.543675+00:00"
-    },
-    "bab454292a94d9af": {
-      "title": "Study Suggests Neanderthal Children Grew Quickly",
-      "fetched_at": "2026-05-01T01:56:00.293875+00:00"
-    },
-    "bc22ca6999766638": {
-      "title": "Neolithic Pit Full of Beaver Bones Uncovered in Germany",
-      "fetched_at": "2026-05-01T01:56:00.961990+00:00"
-    },
-    "7d5af22e3cec4d93": {
-      "title": "Viking Coin Hoard Discovered in Norway",
-      "fetched_at": "2026-05-01T01:56:01.578623+00:00"
-    },
     "d37ed2369b53bfe0": {
       "title": "云深处科技完成IPO辅导",
       "fetched_at": "2026-05-01T07:59:47.627531+00:00"
@@ -3831,7 +3727,119 @@
     "2befcc95ab0c386d": {
       "title": "Google AI breakthrough means chatbots use six times less memory during conversations without compromising performance",
       "fetched_at": "2026-05-09T01:51:47.922151+00:00"
+    },
+    "7f42409c1af6870b": {
+      "title": "我国单线产能最大的大丝束碳纤维生产线建成投产",
+      "fetched_at": "2026-05-09T07:30:23.765555+00:00"
+    },
+    "4e8013abce1d6c1b": {
+      "title": "All my clients wanted a carousel, now it's an AI chatbot",
+      "fetched_at": "2026-05-09T07:30:24.401944+00:00"
+    },
+    "1053461da3db0a3e": {
+      "title": "百度正式发布文心大模型5.1",
+      "fetched_at": "2026-05-09T07:30:25.034084+00:00"
+    },
+    "598776138170d913": {
+      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+      "fetched_at": "2026-05-09T07:30:25.671956+00:00"
+    },
+    "3257479bea435da1": {
+      "title": "智源FlagSafe平台正式发布",
+      "fetched_at": "2026-05-09T07:30:26.302906+00:00"
+    },
+    "0abcd14190965bd0": {
+      "title": "Seedream AI image studio for global creators",
+      "fetched_at": "2026-05-09T07:30:26.929283+00:00"
+    },
+    "be44110250123fe4": {
+      "title": "字节跳动申请注册火山词元商标",
+      "fetched_at": "2026-05-09T07:30:27.546223+00:00"
+    },
+    "d9a360ce9dd5fc47": {
+      "title": "美团闪购联合茅台、五粮液等品牌推出酒水即时零售月度专区",
+      "fetched_at": "2026-05-09T07:30:28.168151+00:00"
+    },
+    "12cce82bdbb7cb61": {
+      "title": "Why LLM-as-judge fails for code evaluation",
+      "fetched_at": "2026-05-09T07:30:28.790997+00:00"
+    },
+    "af5a02f7ad24eacb": {
+      "title": "美国网络教育平台Canvas遭黑客攻击，服务已恢复",
+      "fetched_at": "2026-05-09T07:30:29.468127+00:00"
+    },
+    "b2d6784531329496": {
+      "title": "Zeroth元点M1成为全球首个接入OpenClaw的人形机器人",
+      "fetched_at": "2026-05-09T07:30:30.099937+00:00"
+    },
+    "55415825c2370f17": {
+      "title": "广东省电子信息产业集团增资至16.62亿，增幅约43%",
+      "fetched_at": "2026-05-09T07:30:30.769636+00:00"
+    },
+    "6abe6ba335b8b45a": {
+      "title": "I Will Never Use AI to Code",
+      "fetched_at": "2026-05-09T07:30:31.387280+00:00"
+    },
+    "719316e310ce6dea": {
+      "title": "The Birthplace of AI",
+      "fetched_at": "2026-05-09T07:30:32.003494+00:00"
+    },
+    "df92bed802d09096": {
+      "title": "Building an AI-Powered IDE Companion App",
+      "fetched_at": "2026-05-09T07:30:32.630752+00:00"
+    },
+    "ee579ba60090d7fb": {
+      "title": "东土科技等在湖北成立智能机器人产业发展公司，注册资本3.5亿",
+      "fetched_at": "2026-05-09T07:30:33.252726+00:00"
+    },
+    "54363587a54709de": {
+      "title": "广汽埃安否认被约谈及被立案调查",
+      "fetched_at": "2026-05-09T07:30:36.112861+00:00"
+    },
+    "82a0fa13e0f7a6fb": {
+      "title": "中国家电网成立清洁电器“反虚假测评联盟”，京东与25家品牌率先加入",
+      "fetched_at": "2026-05-09T07:30:36.754055+00:00"
+    },
+    "de302ef5be4f9853": {
+      "title": "比亚迪：网传“比亚迪被约谈、立案”不实",
+      "fetched_at": "2026-05-09T07:30:37.432721+00:00"
+    },
+    "8286e48ddb265d8a": {
+      "title": "相关部门召集多家猪企及行业专家开会，交流国内生猪生产、流通消费及进出口情况",
+      "fetched_at": "2026-05-09T07:30:38.053902+00:00"
+    },
+    "e88e4e48043efc1d": {
+      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
+      "fetched_at": "2026-05-09T07:30:41.026459+00:00"
+    },
+    "f1bdb38df5829e91": {
+      "title": "Scientists found the “holy grail” gene that could one day help humans regrow limbs",
+      "fetched_at": "2026-05-09T07:30:50.177136+00:00"
+    },
+    "75d1eca3b097064a": {
+      "title": "Ancient N. American Settlement Older Than Pyramids Discovered; Rewrites History",
+      "fetched_at": "2026-05-09T07:30:50.998586+00:00"
+    },
+    "7062535fe73a2b3a": {
+      "title": "Agent-to-agent discovery and real-time bidding marketplace",
+      "fetched_at": "2026-05-09T07:30:51.661916+00:00"
+    },
+    "e1aef366ba668393": {
+      "title": "Weapons of the world quiz: Can you identify these historical objects of war?",
+      "fetched_at": "2026-05-09T07:30:52.297930+00:00"
+    },
+    "7114384c65607b5e": {
+      "title": "Cutting Through the Mythos: What AI Vulnerability Discovery Means for OT",
+      "fetched_at": "2026-05-09T07:30:52.941868+00:00"
+    },
+    "38f35bf92675a044": {
+      "title": "Thoughts on Historical Language Models and Talkie-1930",
+      "fetched_at": "2026-05-09T07:30:53.580546+00:00"
+    },
+    "ca4561a438b9b006": {
+      "title": "Octopus 'krakens' as large as semi-trucks stalked ancient seas",
+      "fetched_at": "2026-05-09T07:30:54.189893+00:00"
     }
   },
-  "last_updated": "2026-05-09T01:51:48.063790+00:00"
+  "last_updated": "2026-05-09T07:30:54.333030+00:00"
 }
