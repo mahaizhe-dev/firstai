@@ -1,133 +1,5 @@
 {
   "articles": {
-    "6887edd071478cae": {
-      "title": "Oscars says AI actors and writing cannot win awards",
-      "fetched_at": "2026-05-02T18:41:47.737656+00:00"
-    },
-    "1d724a13f1bca312": {
-      "title": "Chinese Court Rules Firms Can't Lay Off Workers on AI Grounds",
-      "fetched_at": "2026-05-02T18:41:48.358805+00:00"
-    },
-    "37d5a267f7734231": {
-      "title": "Combat LLM spam by building a web of trust",
-      "fetched_at": "2026-05-02T18:41:48.981636+00:00"
-    },
-    "eee6101752999f6d": {
-      "title": "AI may be coming to Windows 11's Clock app as Microsoft turns it into focus tool",
-      "fetched_at": "2026-05-02T18:41:49.591075+00:00"
-    },
-    "5d205e455c2f6046": {
-      "title": "convention.sh – Stop AI agents from writing sloppy TypeScript",
-      "fetched_at": "2026-05-02T18:41:50.210433+00:00"
-    },
-    "860829efeaae6044": {
-      "title": "MIT AI expert warns automating Gen Z entry-level jobs could backfire",
-      "fetched_at": "2026-05-02T18:41:50.829086+00:00"
-    },
-    "272dcd840a6f2999": {
-      "title": "Editing my LLM assisted Articles",
-      "fetched_at": "2026-05-02T18:41:51.682882+00:00"
-    },
-    "b743ef0671f46266": {
-      "title": "Upcoming deprecation of GPT-5.2 and GPT-5.2-Codex",
-      "fetched_at": "2026-05-02T18:41:52.309500+00:00"
-    },
-    "3b46ecf1cf05b00c": {
-      "title": "AI isn't coming for your job. It's coming for your mind",
-      "fetched_at": "2026-05-02T18:41:52.923303+00:00"
-    },
-    "38898d6aee5cac12": {
-      "title": "AI threatens Big Law's talent pipeline",
-      "fetched_at": "2026-05-02T18:41:53.641510+00:00"
-    },
-    "3cc7533bc01336d8": {
-      "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
-      "fetched_at": "2026-05-02T18:41:54.267844+00:00"
-    },
-    "ec06f101d5967bc4": {
-      "title": "AI talks draw backlash from Mass. state lawmakers",
-      "fetched_at": "2026-05-02T18:41:54.907467+00:00"
-    },
-    "963ef7e0f5b4e41e": {
-      "title": "Life update: Zig, AI, unemployment, and more [video]",
-      "fetched_at": "2026-05-02T18:41:55.524362+00:00"
-    },
-    "b0f3763a95110f3b": {
-      "title": "AI Agents Are the Mass-Produced Cars of Software",
-      "fetched_at": "2026-05-02T18:41:56.141047+00:00"
-    },
-    "bc59b3a95a7d3e93": {
-      "title": "The best AI dictation apps, tested and ranked",
-      "fetched_at": "2026-05-02T18:41:56.763941+00:00"
-    },
-    "ccc675ba879070e8": {
-      "title": "Upcoming Blender Development Fund and AI Policies",
-      "fetched_at": "2026-05-02T18:41:57.390111+00:00"
-    },
-    "5801e69f2eba1cc9": {
-      "title": "Santa Cruz restaurant changes logo after flurry of negative reviews for AI art",
-      "fetched_at": "2026-05-02T18:41:58.014958+00:00"
-    },
-    "5d07b67b248abf92": {
-      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "fetched_at": "2026-05-02T18:41:58.626005+00:00"
-    },
-    "5f742a499412dfde": {
-      "title": "Domination: A contrarian view of AI risk (2024)",
-      "fetched_at": "2026-05-02T18:41:59.246212+00:00"
-    },
-    "0e1d79ac0ac541f2": {
-      "title": "Sebastian Proactive: a local‑first AI companion that initiates conversations",
-      "fetched_at": "2026-05-02T18:41:59.898772+00:00"
-    },
-    "fd8f8c81a562fe2c": {
-      "title": "白宮備忘錄指中國公司通過「蒸餾」活動大規模竊取美國AI技術",
-      "fetched_at": "2026-05-02T18:42:02.729386+00:00"
-    },
-    "104c82ae5efa767d": {
-      "title": "Scientists identify 10,000 'impossible' exoplanet candidates, potentially tripling the number of known alien worlds",
-      "fetched_at": "2026-05-02T18:42:08.862550+00:00"
-    },
-    "2f3a0f7fc8710e42": {
-      "title": "Why do crabs walk sideways? Scientists trace it back 200 million years",
-      "fetched_at": "2026-05-02T18:42:09.501955+00:00"
-    },
-    "f4cba882f2796021": {
-      "title": "18th-century mechanical volcano roars to life 250 years later",
-      "fetched_at": "2026-05-02T18:42:10.126793+00:00"
-    },
-    "bc6208a28a363048": {
-      "title": "Boosting one protein helps the brain fight Alzheimer’s",
-      "fetched_at": "2026-05-02T18:42:10.734879+00:00"
-    },
-    "40974b08c040956a": {
-      "title": "The “big one” might not come alone: Double West Coast earthquake threat",
-      "fetched_at": "2026-05-02T18:42:11.418420+00:00"
-    },
-    "eaf4b5bc86243b5b": {
-      "title": "Astronomers finally solve the gamma-Cas X-ray mystery after 50 years",
-      "fetched_at": "2026-05-02T18:42:12.105630+00:00"
-    },
-    "64a91ae6045331a9": {
-      "title": "This laser turns metal into a star-like plasma in trillionths of a second",
-      "fetched_at": "2026-05-02T18:42:12.782331+00:00"
-    },
-    "b65c53d96d98055d": {
-      "title": "Scientists discover a hidden brain “cleaning” effect triggered by movement",
-      "fetched_at": "2026-05-02T18:42:13.395975+00:00"
-    },
-    "aa6b5ec68233c930": {
-      "title": "Programming Language Archaeology and Semantics",
-      "fetched_at": "2026-05-02T18:42:14.015387+00:00"
-    },
-    "366c69ce1aeed2c0": {
-      "title": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
-      "fetched_at": "2026-05-02T18:42:14.659268+00:00"
-    },
-    "6442286c757ba47b": {
-      "title": "Ancient mass grave reveals how a pandemic wiped out a city 1,500 years ago",
-      "fetched_at": "2026-05-02T18:42:15.280924+00:00"
-    },
     "6443debca73afc26": {
       "title": "今日全国铁路预计发送旅客1855万人次",
       "fetched_at": "2026-05-03T01:48:29.758052+00:00"
@@ -3719,7 +3591,107 @@
     "3fb520d6c87a2d8b": {
       "title": "Brain scans reveal a shocking difference between psychopaths and other people",
       "fetched_at": "2026-05-10T12:52:39.075563+00:00"
+    },
+    "50200d1e024b436d": {
+      "title": "Show HN: SimplyBudget, AI Finance Tracker",
+      "fetched_at": "2026-05-10T18:44:17.571879+00:00"
+    },
+    "65e92edffb365a95": {
+      "title": "Show HN: Visual Learning with LLMs",
+      "fetched_at": "2026-05-10T18:44:18.171503+00:00"
+    },
+    "c8d8d0e091c630a5": {
+      "title": "'AI gave me your number': AI doxxing turns ChatGPT hallucinations to harassment",
+      "fetched_at": "2026-05-10T18:44:18.780757+00:00"
+    },
+    "59874651b59c5ae7": {
+      "title": "Mostly the first breakup AI agent that delivers your breakup over iMessage",
+      "fetched_at": "2026-05-10T18:44:19.472618+00:00"
+    },
+    "779ee69a5e15899e": {
+      "title": "My writing students were using AI. Their confessions led to a teaching moment",
+      "fetched_at": "2026-05-10T18:44:20.084250+00:00"
+    },
+    "24f6119049449335": {
+      "title": "Local AI needs to be the norm",
+      "fetched_at": "2026-05-10T18:44:20.695006+00:00"
+    },
+    "73dea72b40508f74": {
+      "title": "Show HN: PerceptAI – Give AI agents eyes on any screen, not just browsers",
+      "fetched_at": "2026-05-10T18:44:21.288776+00:00"
+    },
+    "f46d1730833573fc": {
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "fetched_at": "2026-05-10T18:44:21.961522+00:00"
+    },
+    "faeee4719d4fa9fe": {
+      "title": "Memgraph Ingester. Speed up your AI agent",
+      "fetched_at": "2026-05-10T18:44:22.563793+00:00"
+    },
+    "d26b9f77b9ab1b80": {
+      "title": "Full Walkthrough: Workflow for AI Coding – Matt Pocock [video]",
+      "fetched_at": "2026-05-10T18:44:23.200071+00:00"
+    },
+    "0277facec408b476": {
+      "title": "Code Bench – Local-first desktop AI coding agent, BYO model (MIT)",
+      "fetched_at": "2026-05-10T18:44:23.805301+00:00"
+    },
+    "1e89499a74686788": {
+      "title": "I built a meal planner AI agent to solve my weekly dinner dilemma (2025)",
+      "fetched_at": "2026-05-10T18:44:24.406393+00:00"
+    },
+    "671e6da008aa3e83": {
+      "title": "Show HN: Agent Postmortem Skill – Force AI coding agents to prove their work",
+      "fetched_at": "2026-05-10T18:44:25.004956+00:00"
+    },
+    "de6dcb54941549ec": {
+      "title": "Cron job, scheduled tasks, automations... AI needs better metaphors",
+      "fetched_at": "2026-05-10T18:44:25.602542+00:00"
+    },
+    "945cce88fddf009b": {
+      "title": "For Palantir, AI Is a Product, a Punching Bag–and a Problem",
+      "fetched_at": "2026-05-10T18:44:26.213671+00:00"
+    },
+    "857616c1e43f5d05": {
+      "title": "AI's Memorization Crisis",
+      "fetched_at": "2026-05-10T18:44:26.805316+00:00"
+    },
+    "4b6a101b89ed3eba": {
+      "title": "Terax – A Lightweight AI Terminal",
+      "fetched_at": "2026-05-10T18:44:27.406934+00:00"
+    },
+    "07ecfc9a7aa8c714": {
+      "title": "Compensation in AI Tokens?",
+      "fetched_at": "2026-05-10T18:44:28.027341+00:00"
+    },
+    "9fd9129c5b4531f9": {
+      "title": "The Faith AI Covenant",
+      "fetched_at": "2026-05-10T18:44:28.636081+00:00"
+    },
+    "c9063f263cb2897a": {
+      "title": "The Return of the Unix Workstation (Now with AI)",
+      "fetched_at": "2026-05-10T18:44:29.240231+00:00"
+    },
+    "df5d07c80365e02d": {
+      "title": "'More than 100 million years of evolution': How snakes evolved and lost their legs",
+      "fetched_at": "2026-05-10T18:44:36.657872+00:00"
+    },
+    "0d90950fc1060676": {
+      "title": "More polar bears are approaching human sites as the climate warms, and it's not just the skinny ones",
+      "fetched_at": "2026-05-10T18:44:37.277051+00:00"
+    },
+    "c7fa03e23104b271": {
+      "title": "Yellowstone's volcano may be fueled in a very different way than we thought",
+      "fetched_at": "2026-05-10T18:44:37.877730+00:00"
+    },
+    "d5222af1ed6267b5": {
+      "title": "Science news this week: Risky, lifesaving surgery performed on a baby in the womb, AI agent deletes a company database in 9 seconds, and the universe may end much sooner than expected",
+      "fetched_at": "2026-05-10T18:44:38.471770+00:00"
+    },
+    "9860bae489beab50": {
+      "title": "What's the difference between a lion and a tiger?",
+      "fetched_at": "2026-05-10T18:44:39.091842+00:00"
     }
   },
-  "last_updated": "2026-05-10T12:52:39.214617+00:00"
+  "last_updated": "2026-05-10T18:44:39.236236+00:00"
 }
