@@ -1,97 +1,5 @@
 {
   "articles": {
-    "bf47689b5dc07eca": {
-      "title": "AI Cyberattacks Meet Memory-Safe Code Defenses",
-      "fetched_at": "2026-05-02T12:43:51.421344+00:00"
-    },
-    "61d8b460d24d1524": {
-      "title": "I'm building a pool logging and AI app. What would make this genuinely useful?",
-      "fetched_at": "2026-05-02T12:43:52.031176+00:00"
-    },
-    "c14281ab9490eb30": {
-      "title": "When generative AI makes mistakes, are they the same as human errors?",
-      "fetched_at": "2026-05-02T12:43:52.631239+00:00"
-    },
-    "80d581142b7fefe8": {
-      "title": "Apple Raises Mac Mini's Starting Price to $799 After AI Frenzy Drains Supply",
-      "fetched_at": "2026-05-02T12:43:53.231848+00:00"
-    },
-    "6fbe095fa0f919e0": {
-      "title": "Herbert Simon in 1979: on AI and robotics [video]",
-      "fetched_at": "2026-05-02T12:43:53.916294+00:00"
-    },
-    "04d6aeeeb385c243": {
-      "title": "Earning the Right to Have an Opinion on AI in the SDLC",
-      "fetched_at": "2026-05-02T12:43:54.505995+00:00"
-    },
-    "27619a59179ca086": {
-      "title": "Quantization for Modern AI Systems (70-page free eBook)",
-      "fetched_at": "2026-05-02T12:43:55.106388+00:00"
-    },
-    "38a5aab33f41c6d0": {
-      "title": "A New Mental Model for Work in the AI Age",
-      "fetched_at": "2026-05-02T12:43:55.734290+00:00"
-    },
-    "7223aa7dc06bf435": {
-      "title": "Architecting AI Compute (Part 1)",
-      "fetched_at": "2026-05-02T12:43:56.352827+00:00"
-    },
-    "c8ac6e0fbf5b0926": {
-      "title": "WebLLM is a high-performance in-browser LLM inference engine",
-      "fetched_at": "2026-05-02T12:43:56.946285+00:00"
-    },
-    "85c7ae229d7ec481": {
-      "title": "ChessUnlock – Automating Chess Learning",
-      "fetched_at": "2026-05-02T12:43:57.555828+00:00"
-    },
-    "e2d6651bdec3588a": {
-      "title": "一季度5家上市券商净利翻番，“百亿营收俱乐部”成员增至4家",
-      "fetched_at": "2026-05-02T12:43:58.163596+00:00"
-    },
-    "d9b4b3348bb6790d": {
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "fetched_at": "2026-05-02T12:43:58.756753+00:00"
-    },
-    "618d96bbbddf8d32": {
-      "title": "马斯克1583亿美元薪酬实际为0",
-      "fetched_at": "2026-05-02T12:43:59.354255+00:00"
-    },
-    "c8ce05c2eb5bd412": {
-      "title": "Leading journal finds AI is flooding academic publishing with lower quality work",
-      "fetched_at": "2026-05-02T12:43:59.954772+00:00"
-    },
-    "d2f4089f59310b4e": {
-      "title": "The AI Race Is Charged by the Fear of Being Left Behind",
-      "fetched_at": "2026-05-02T12:44:00.554028+00:00"
-    },
-    "be9cc235c23dc830": {
-      "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
-      "fetched_at": "2026-05-02T12:44:01.166636+00:00"
-    },
-    "ce8070eeacb24a5b": {
-      "title": "周杰伦伙伴，要被卖了",
-      "fetched_at": "2026-05-02T12:44:01.764293+00:00"
-    },
-    "565dda7411a8ba61": {
-      "title": "Show HN: Autorank – Rank on Google and AI search while you sleep",
-      "fetched_at": "2026-05-02T12:44:02.370115+00:00"
-    },
-    "7533f606d6b57999": {
-      "title": "How Casey Newton is revamping his newsletter to compete with AI",
-      "fetched_at": "2026-05-02T12:44:02.972033+00:00"
-    },
-    "c7fa03e23104b271": {
-      "title": "Yellowstone's volcano may be fueled in a very different way than we thought",
-      "fetched_at": "2026-05-02T12:44:10.358281+00:00"
-    },
-    "d5222af1ed6267b5": {
-      "title": "Science news this week: Risky, lifesaving surgery performed on a baby in the womb, AI agent deletes a company database in 9 seconds, and the universe may end much sooner than expected",
-      "fetched_at": "2026-05-02T12:44:10.945812+00:00"
-    },
-    "9860bae489beab50": {
-      "title": "What's the difference between a lion and a tiger?",
-      "fetched_at": "2026-05-02T12:44:11.545436+00:00"
-    },
     "6887edd071478cae": {
       "title": "Oscars says AI actors and writing cannot win awards",
       "fetched_at": "2026-05-02T18:41:47.737656+00:00"
@@ -3703,7 +3611,115 @@
     "b4069890cb10a541": {
       "title": "This “Pink Floyd” spider hunts prey 6x its size and lives in walls",
       "fetched_at": "2026-05-10T07:55:00.582083+00:00"
+    },
+    "9d5c0dc60fb9ddc5": {
+      "title": "Anthropic and OpenAI are launching joint ventures for enterprise AI services",
+      "fetched_at": "2026-05-10T12:52:21.204688+00:00"
+    },
+    "00f70536aa1f3067": {
+      "title": "AI Gilfoyle",
+      "fetched_at": "2026-05-10T12:52:21.830660+00:00"
+    },
+    "75b73925e86962b5": {
+      "title": "In search of wasted bits: how much information do LLM weights carry?",
+      "fetched_at": "2026-05-10T12:52:22.417151+00:00"
+    },
+    "9cea1ef7738742a1": {
+      "title": "Show HN: I made an AI tool to keep my browser tabs clean",
+      "fetched_at": "2026-05-10T12:52:22.980983+00:00"
+    },
+    "f0ee90dd1b2bc1c3": {
+      "title": "People and Timeline of Modern AI",
+      "fetched_at": "2026-05-10T12:52:23.564531+00:00"
+    },
+    "e5aebb946e8e35c5": {
+      "title": "The Shadow Admin Threat: AI Agents Creating Undetectable Backdoors",
+      "fetched_at": "2026-05-10T12:52:24.133351+00:00"
+    },
+    "af8d63e9657f2f82": {
+      "title": "The left-wing case for AI",
+      "fetched_at": "2026-05-10T12:52:24.712655+00:00"
+    },
+    "652ea1ce45c8f0c9": {
+      "title": "LLM built for 12M-token reasoning",
+      "fetched_at": "2026-05-10T12:52:25.303115+00:00"
+    },
+    "ab43ce521130f350": {
+      "title": "Will AI kill the research paper?",
+      "fetched_at": "2026-05-10T12:52:25.870531+00:00"
+    },
+    "10324f0d7c2cfe20": {
+      "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
+      "fetched_at": "2026-05-10T12:52:26.443996+00:00"
+    },
+    "a3e83bcdf72d4e17": {
+      "title": "There's a Long-Shot Proposal to Protect California Workers from AI",
+      "fetched_at": "2026-05-10T12:52:27.016740+00:00"
+    },
+    "c93f3b13e41550aa": {
+      "title": "If you're a programmer and you feel depressed by AI, don't be!",
+      "fetched_at": "2026-05-10T12:52:27.591010+00:00"
+    },
+    "5c104f854a4bfee6": {
+      "title": "Israel's AI targeting system: data from a phone become a death sentence",
+      "fetched_at": "2026-05-10T12:52:28.170319+00:00"
+    },
+    "9cda82df81aaa183": {
+      "title": "AI Startup's Software Watches Employees as They Work",
+      "fetched_at": "2026-05-10T12:52:28.734431+00:00"
+    },
+    "6121aeb9187b6218": {
+      "title": "Show HN: Akmon, a Rust AI coding agent for regulated engineering",
+      "fetched_at": "2026-05-10T12:52:29.306400+00:00"
+    },
+    "0bf49a7f953a3b60": {
+      "title": "AI Act Article 50 transparency rules. Heading for another cookie consent moment?",
+      "fetched_at": "2026-05-10T12:52:29.876478+00:00"
+    },
+    "9de03dd390dda45c": {
+      "title": "AI cost optimization tool \"distillfast.com\"",
+      "fetched_at": "2026-05-10T12:52:30.537528+00:00"
+    },
+    "063613595636697f": {
+      "title": "Machine Learning Offers Faster, More Reliable Analysis of Fermi Surfaces",
+      "fetched_at": "2026-05-10T12:52:31.148062+00:00"
+    },
+    "73a8470e10022c8e": {
+      "title": "2连板通鼎互联：海南康宁仅作为公司的光棒供应商 不存在其他合作模式",
+      "fetched_at": "2026-05-10T12:52:31.718707+00:00"
+    },
+    "f423a8ba94dea688": {
+      "title": "宇环数控：不生产航空航天产品的零部件",
+      "fetched_at": "2026-05-10T12:52:32.292664+00:00"
+    },
+    "3848d58acf123d8a": {
+      "title": "Instagram停用端對端加密——用戶私訊私隱將受到什麼影響？",
+      "fetched_at": "2026-05-10T12:52:34.435098+00:00"
+    },
+    "8446ee73240f0434": {
+      "title": "James Webb telescope zooms in on a black hole that could reveal the truth about 'little red dots'",
+      "fetched_at": "2026-05-10T12:52:36.077858+00:00"
+    },
+    "e8b677b45fd95528": {
+      "title": "Declassified Apollo 12 images show UFOs on the moon — Space photo of the week",
+      "fetched_at": "2026-05-10T12:52:36.640385+00:00"
+    },
+    "8ca3899d568d47b3": {
+      "title": "Are we more closely related to cats or dogs?",
+      "fetched_at": "2026-05-10T12:52:37.281537+00:00"
+    },
+    "ad9d993d565332f3": {
+      "title": "“Cannot be explained” – New ultra stainless steel stuns researchers",
+      "fetched_at": "2026-05-10T12:52:37.849781+00:00"
+    },
+    "a2cc6558504e50e0": {
+      "title": "Scientists successfully transfer longevity gene and extend lifespan",
+      "fetched_at": "2026-05-10T12:52:38.510906+00:00"
+    },
+    "3fb520d6c87a2d8b": {
+      "title": "Brain scans reveal a shocking difference between psychopaths and other people",
+      "fetched_at": "2026-05-10T12:52:39.075563+00:00"
     }
   },
-  "last_updated": "2026-05-10T07:55:00.722304+00:00"
+  "last_updated": "2026-05-10T12:52:39.214617+00:00"
 }
