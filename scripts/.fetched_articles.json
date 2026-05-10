@@ -1,257 +1,5 @@
 {
   "articles": {
-    "0487b43f01d70282": {
-      "title": "I wrote a beginner friendly guide to integrating AI into projects",
-      "fetched_at": "2026-05-01T18:55:37.693930+00:00"
-    },
-    "a9c3e6c5a771fe42": {
-      "title": "Ask HN: Where is my UX after all those billions spent on LLM codegen?",
-      "fetched_at": "2026-05-01T18:55:38.278381+00:00"
-    },
-    "9c0e0261408bf12e": {
-      "title": "Women sue the men who used their Instagram feeds to create AI porn influencers",
-      "fetched_at": "2026-05-01T18:55:38.846107+00:00"
-    },
-    "60f7fa278a2e79e8": {
-      "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
-      "fetched_at": "2026-05-01T18:55:39.409561+00:00"
-    },
-    "30bf3732907c978a": {
-      "title": "AI as Infrastructure",
-      "fetched_at": "2026-05-01T18:55:39.980159+00:00"
-    },
-    "dcef083b53ef7159": {
-      "title": "Top AI companies agree to work with Pentagon on secret data",
-      "fetched_at": "2026-05-01T18:55:40.545444+00:00"
-    },
-    "adc5c7d4ff0224b1": {
-      "title": "Musk Warns of Killer AI, While He and Silicon Valley Cash in on AI That Kills",
-      "fetched_at": "2026-05-01T18:55:41.111666+00:00"
-    },
-    "9e6c6c0b333ff81b": {
-      "title": "LLM-eval-kit: Distributed LLM evaluation framework (v0.3.0)",
-      "fetched_at": "2026-05-01T18:55:41.742377+00:00"
-    },
-    "bd238dcc66b50e41": {
-      "title": "Pentagon reaches agreements with top AI companies, but not Anthropic",
-      "fetched_at": "2026-05-01T18:55:42.306461+00:00"
-    },
-    "1178a46bfbad861f": {
-      "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
-      "fetched_at": "2026-05-01T18:55:42.875762+00:00"
-    },
-    "3564dc5a118fc7f0": {
-      "title": "Show HN: AI CAD Harness",
-      "fetched_at": "2026-05-01T18:55:43.529591+00:00"
-    },
-    "d5572d919ec67051": {
-      "title": "MetaModel – AI builds structured, formula-driven apps from plain English",
-      "fetched_at": "2026-05-01T18:55:44.096782+00:00"
-    },
-    "004183a8058d112b": {
-      "title": "Mayo Clinic AI helps specialists detect pancreatic cancer up to 3 years early",
-      "fetched_at": "2026-05-01T18:55:44.666367+00:00"
-    },
-    "b34276bdc4489c1d": {
-      "title": "AI Uses Less Water Than the Public Thinks",
-      "fetched_at": "2026-05-01T18:55:45.230882+00:00"
-    },
-    "67445389b424da05": {
-      "title": "Ailom: How AI Permanently Makes Everything Less Meaningful",
-      "fetched_at": "2026-05-01T18:55:46.020674+00:00"
-    },
-    "2851d4688089299c": {
-      "title": "AI model did better than ER doctors at diagnosing patients",
-      "fetched_at": "2026-05-01T18:55:46.599947+00:00"
-    },
-    "04992220239acabd": {
-      "title": "Analyzing GPT-5.5 and Opus 4.7 with ARC-AGI-3",
-      "fetched_at": "2026-05-01T18:55:47.168369+00:00"
-    },
-    "8abb50feb258f148": {
-      "title": "Tangled – combat LLM spam by building a web of trust",
-      "fetched_at": "2026-05-01T18:55:47.733733+00:00"
-    },
-    "7c4d42ebf467eb78": {
-      "title": "Beyond Bigger Models: Recursion as the Next Scaling Axis in AI [video]",
-      "fetched_at": "2026-05-01T18:55:48.302941+00:00"
-    },
-    "1eb01e37f4dacc09": {
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "fetched_at": "2026-05-01T18:55:48.867930+00:00"
-    },
-    "fe4e37b4818af1de": {
-      "title": "'One of the most rapid transitions that I've seen': NOAA forecaster on how this year's El Niño could shatter records",
-      "fetched_at": "2026-05-01T18:56:02.271451+00:00"
-    },
-    "577c39589446cd1f": {
-      "title": "City birds appear to like men more than women, but experts have no idea why",
-      "fetched_at": "2026-05-01T18:56:02.840797+00:00"
-    },
-    "88734ff1a77db12b": {
-      "title": "'If astrological compatibility exists, its effects should be observable': How one study of 20 million people shows star signs have no influence on romantic compatibility",
-      "fetched_at": "2026-05-01T18:56:02.840961+00:00"
-    },
-    "264fd8fe5fc801a0": {
-      "title": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
-      "fetched_at": "2026-05-01T18:56:03.419034+00:00"
-    },
-    "b4069890cb10a541": {
-      "title": "This “Pink Floyd” spider hunts prey 6x its size and lives in walls",
-      "fetched_at": "2026-05-01T18:56:04.009170+00:00"
-    },
-    "87f3f56284b0032a": {
-      "title": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics",
-      "fetched_at": "2026-05-01T18:56:04.576741+00:00"
-    },
-    "cc6429f47688847d": {
-      "title": "This new aluminum could replace rare metals and cut costs dramatically",
-      "fetched_at": "2026-05-01T18:56:05.145850+00:00"
-    },
-    "27f02be58a4831bc": {
-      "title": "Skeleton Study Reveals Life on the Frontier After the Fall of Rome",
-      "fetched_at": "2026-05-01T18:56:05.725781+00:00"
-    },
-    "44dde50ec9d1b2e5": {
-      "title": "A used SpaceX rocket is on a collision course with the moon",
-      "fetched_at": "2026-05-01T18:56:06.389090+00:00"
-    },
-    "57c09b174a4cb66c": {
-      "title": "'It cuts both ways': Positive tipping points can restore wrecked ecosystems — we just need to trigger them, Earth system scientist Tim Lenton says",
-      "fetched_at": "2026-05-01T18:56:06.959733+00:00"
-    },
-    "c14fecce16de35e3": {
-      "title": "受美国拖欠会费等因素影响，世贸组织计划削减10%预算",
-      "fetched_at": "2026-05-02T01:44:37.682510+00:00"
-    },
-    "79d19fdb581a68c4": {
-      "title": "五角大楼与七家AI巨头签约，Anthropic遭排除",
-      "fetched_at": "2026-05-02T01:44:38.410609+00:00"
-    },
-    "a5035ab1adb68bd5": {
-      "title": "辉瑞与Arvinas公司乳腺癌新药获得美国FDA批准",
-      "fetched_at": "2026-05-02T01:44:38.991451+00:00"
-    },
-    "1726dc04ab97bd0c": {
-      "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
-      "fetched_at": "2026-05-02T01:44:39.572236+00:00"
-    },
-    "6988b54058875ee8": {
-      "title": "沃什执掌美联储后交易难度或上升",
-      "fetched_at": "2026-05-02T01:44:40.164681+00:00"
-    },
-    "f9a7b911af2690ef": {
-      "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-      "fetched_at": "2026-05-02T01:44:40.738092+00:00"
-    },
-    "e19a8fe774764985": {
-      "title": "Show HN: MemHub, Turn Your GPT/Claude/Gemini History into LLM-Wiki Mindmap",
-      "fetched_at": "2026-05-02T01:44:41.322696+00:00"
-    },
-    "b4570d3b373db8bf": {
-      "title": "美股三大指数收盘涨跌不一，大型科技股多数上涨",
-      "fetched_at": "2026-05-02T01:44:41.900677+00:00"
-    },
-    "cd28179837c702bd": {
-      "title": "Finny – AI trading agent that runs in your terminal",
-      "fetched_at": "2026-05-02T01:44:42.476075+00:00"
-    },
-    "e99cac60122b4e60": {
-      "title": "So, About That AI Bubble",
-      "fetched_at": "2026-05-02T01:44:43.135234+00:00"
-    },
-    "6e8e5e53ef28396a": {
-      "title": "Show HN: TTS Studio: AI-Powered Text-to-Speech Tool",
-      "fetched_at": "2026-05-02T01:44:43.716840+00:00"
-    },
-    "0fb9bc31f78492cb": {
-      "title": "AI Companies Can't Regulate Themselves. They Should Regulate Each Other",
-      "fetched_at": "2026-05-02T01:44:44.293272+00:00"
-    },
-    "8712b25d352387dc": {
-      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "fetched_at": "2026-05-02T01:44:44.865286+00:00"
-    },
-    "b78a810da94369cf": {
-      "title": "AI models that consider user's feeling are more likely to make errors",
-      "fetched_at": "2026-05-02T01:44:45.434415+00:00"
-    },
-    "09eec0aad4343909": {
-      "title": "Does threatening an AI agent's existence make it a better gambler?",
-      "fetched_at": "2026-05-02T01:44:46.009182+00:00"
-    },
-    "288ec4fea5cf42f5": {
-      "title": "Friday Studio AI runtime: Turn prompts, skills, & tools into reliable config",
-      "fetched_at": "2026-05-02T01:44:46.584565+00:00"
-    },
-    "1f49279a45aa45a7": {
-      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-      "fetched_at": "2026-05-02T01:44:47.167110+00:00"
-    },
-    "a6b11cbaddc067e5": {
-      "title": "AI doesn't replace us, but commodizes us",
-      "fetched_at": "2026-05-02T01:44:47.746407+00:00"
-    },
-    "b8aeba8353248218": {
-      "title": "AI actors and writers will be ineligible for Oscars",
-      "fetched_at": "2026-05-02T01:44:48.385035+00:00"
-    },
-    "ab713b42c7b3b2f9": {
-      "title": "GitHub Copilot: Upcoming Deprecation of GPT-5.2 and GPT-5.2-Codex",
-      "fetched_at": "2026-05-02T01:44:48.965155+00:00"
-    },
-    "000631cfdef74b10": {
-      "title": "美國決定從德國撤軍5000人，特朗普與默茨爭拗升溫",
-      "fetched_at": "2026-05-02T01:44:52.689237+00:00"
-    },
-    "e0c1da41f8e85583": {
-      "title": "紅光療法熱潮：LED光療真的能改善皮膚嗎？",
-      "fetched_at": "2026-05-02T01:44:53.266550+00:00"
-    },
-    "9835467c49bfb9b8": {
-      "title": "昂山素季「居家軟禁」：中國與緬甸政府的盤算是什麼？",
-      "fetched_at": "2026-05-02T01:44:53.856801+00:00"
-    },
-    "a4b572cb4e4387c6": {
-      "title": "美伊霍爾木茲相互鎖喉中國「意外」受到關注，特朗普訪華會再度延期嗎？",
-      "fetched_at": "2026-05-02T01:44:54.435599+00:00"
-    },
-    "2b00d057bf085bc2": {
-      "title": "Neolithic Bread Wheat Identified in the South Caucasus",
-      "fetched_at": "2026-05-02T01:44:56.577106+00:00"
-    },
-    "63dcf9308df1727c": {
-      "title": "Researchers Analyze Roman Keepsake From Hadrian’s Wall",
-      "fetched_at": "2026-05-02T01:44:57.277101+00:00"
-    },
-    "90d36319e5bc7c5e": {
-      "title": "The Ancient Roots of the Crab Walk",
-      "fetched_at": "2026-05-02T01:44:57.949600+00:00"
-    },
-    "530b56533ffd6b23": {
-      "title": "Ancient Philosophy, in Plain English",
-      "fetched_at": "2026-05-02T01:44:58.552235+00:00"
-    },
-    "f8f888e2de652777": {
-      "title": "What did ancient humans do at night?",
-      "fetched_at": "2026-05-02T01:44:59.135152+00:00"
-    },
-    "25261aac95036203": {
-      "title": "Welsh castle's hidden cave was once home to ancient hippo",
-      "fetched_at": "2026-05-02T01:44:59.760107+00:00"
-    },
-    "a411408d1014318a": {
-      "title": "AI just discovered new physics in the fourth state of matter",
-      "fetched_at": "2026-05-02T01:45:00.605729+00:00"
-    },
-    "d3882e9590fd3aca": {
-      "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
-      "fetched_at": "2026-05-02T01:45:01.210364+00:00"
-    },
-    "6adeb8f9829556a5": {
-      "title": "For the first time, scientists pinpoint the brain cells behind depression",
-      "fetched_at": "2026-05-02T01:45:01.803036+00:00"
-    },
     "78583f3ef1644afd": {
       "title": "日本央行前行长黑田东彦称2%的通胀目标已实现",
       "fetched_at": "2026-05-02T07:18:08.478384+00:00"
@@ -3823,7 +3571,95 @@
     "fb22fb99951d6e79": {
       "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
       "fetched_at": "2026-05-09T18:43:03.087672+00:00"
+    },
+    "c7603144490349a0": {
+      "title": "AI creates a fearsome cold-war-style dilemma",
+      "fetched_at": "2026-05-10T01:51:18.865097+00:00"
+    },
+    "fc5da0a2b9822287": {
+      "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+      "fetched_at": "2026-05-10T01:51:19.603769+00:00"
+    },
+    "8f50a8b8472a21bc": {
+      "title": "新修订《婚姻登记条例》施行一年 全国建成户外颁证点1330个",
+      "fetched_at": "2026-05-10T01:51:20.235840+00:00"
+    },
+    "bc2e21b2c06a838d": {
+      "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+      "fetched_at": "2026-05-10T01:51:20.869154+00:00"
+    },
+    "5f17438064f5f839": {
+      "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+      "fetched_at": "2026-05-10T01:51:21.494107+00:00"
+    },
+    "3dba705c09b73b31": {
+      "title": "港交所：前四个月IPO集资金额为1514亿港元 同比上升604%",
+      "fetched_at": "2026-05-10T01:51:22.191527+00:00"
+    },
+    "af298a3e0a95c611": {
+      "title": "Mark Zuckerberg Told 8k Employees Their Layoffs Are a Line Item in AI Bill",
+      "fetched_at": "2026-05-10T01:51:22.809431+00:00"
+    },
+    "31e984a0703a92cf": {
+      "title": "24/7 AI-powered radio station. Generates music, writes hosted breaks,speaks them",
+      "fetched_at": "2026-05-10T01:51:23.470065+00:00"
+    },
+    "1174c98db6bb2bf4": {
+      "title": "React-AI-stream – back end-agnostic SSE streaming hook for React",
+      "fetched_at": "2026-05-10T01:51:24.207586+00:00"
+    },
+    "389a60ea765442af": {
+      "title": "I built an AI to stress-test my thinking",
+      "fetched_at": "2026-05-10T01:51:24.843168+00:00"
+    },
+    "157c282df0c59e97": {
+      "title": "ToolOps: One Decorator Away from Production-Ready AI Agents",
+      "fetched_at": "2026-05-10T01:51:25.472578+00:00"
+    },
+    "ef735a94cd83e633": {
+      "title": "McDonald's is taking away your fountain machine. Burger King not so much.",
+      "fetched_at": "2026-05-10T01:51:26.102795+00:00"
+    },
+    "9cdb9427047353b9": {
+      "title": "Stale Gov.uk pages are feeding AI overviews old data and Brits are believing it",
+      "fetched_at": "2026-05-10T01:51:26.786690+00:00"
+    },
+    "718b0b6e6196751b": {
+      "title": "Upending assumptions about learning, inspired by an AI phenomenon",
+      "fetched_at": "2026-05-10T01:51:27.433834+00:00"
+    },
+    "ffa196956e25e3f7": {
+      "title": "Mississippi's Air Quality Is Worsening Amid AI Data Center Boom, Report Finds",
+      "fetched_at": "2026-05-10T01:51:28.054749+00:00"
+    },
+    "64a1dbf772b91489": {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "fetched_at": "2026-05-10T01:51:28.727660+00:00"
+    },
+    "4730e70469ced157": {
+      "title": "Feedback on my local-first AI assistant project?",
+      "fetched_at": "2026-05-10T01:51:29.359277+00:00"
+    },
+    "2d63365e69504c0c": {
+      "title": "Consumer AI's ARPU Problem",
+      "fetched_at": "2026-05-10T01:51:30.028244+00:00"
+    },
+    "5905ebd721b1c917": {
+      "title": "Can I Copyright a Song I Made with AI?",
+      "fetched_at": "2026-05-10T01:51:30.646690+00:00"
+    },
+    "b3a275ff43d50565": {
+      "title": "Show HN: AI Design Taste – Design.md Generator",
+      "fetched_at": "2026-05-10T01:51:31.267750+00:00"
+    },
+    "2cb5b9c6fcff92b9": {
+      "title": "中國力推「電動卡車」 市佔率年成長超過一倍",
+      "fetched_at": "2026-05-10T01:51:33.723844+00:00"
+    },
+    "4bfc52dbe6056427": {
+      "title": "Full moon alert: May's Flower 'micromoon' will look extra small tonight, with a rare Blue Moon following",
+      "fetched_at": "2026-05-10T01:51:35.514038+00:00"
     }
   },
-  "last_updated": "2026-05-09T18:43:03.232388+00:00"
+  "last_updated": "2026-05-10T01:51:35.617411+00:00"
 }
