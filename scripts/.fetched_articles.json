@@ -1,101 +1,5 @@
 {
   "articles": {
-    "6443debca73afc26": {
-      "title": "今日全国铁路预计发送旅客1855万人次",
-      "fetched_at": "2026-05-03T01:48:29.758052+00:00"
-    },
-    "f2acc45d87d70c32": {
-      "title": "2026五一档新片票房破4亿",
-      "fetched_at": "2026-05-03T01:48:30.346162+00:00"
-    },
-    "9cf8197f6f7f37c3": {
-      "title": "广汽国际：1—4月出口量同比增长133.9%",
-      "fetched_at": "2026-05-03T01:48:30.941149+00:00"
-    },
-    "12107cf554e7440b": {
-      "title": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
-      "fetched_at": "2026-05-03T01:48:31.516570+00:00"
-    },
-    "55a6efbbb7426900": {
-      "title": "In real-world test, an AI model did better than doctors at diagnosing patients",
-      "fetched_at": "2026-05-03T01:48:32.104524+00:00"
-    },
-    "b2b24a574d128bfd": {
-      "title": "AI is locking people out. At Scale",
-      "fetched_at": "2026-05-03T01:48:32.688552+00:00"
-    },
-    "8bd2ac0d4d48d643": {
-      "title": "VueBuds integrate low-res cameras and visual AI as a smart glasses alternative",
-      "fetched_at": "2026-05-03T01:48:33.268706+00:00"
-    },
-    "2c55e1e58ebf2ab3": {
-      "title": "AI Wrote the Code. Can Your Enterprise Ship It?",
-      "fetched_at": "2026-05-03T01:48:33.847122+00:00"
-    },
-    "42fbbcfa7ba1a1a0": {
-      "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-      "fetched_at": "2026-05-03T01:48:34.435869+00:00"
-    },
-    "6bab0ac8ab5c1468": {
-      "title": "AI agents are briefly overhyped",
-      "fetched_at": "2026-05-03T01:48:35.025697+00:00"
-    },
-    "087265fe3797af95": {
-      "title": "Voice-AI-for-Beginners – A curated learning path for developers",
-      "fetched_at": "2026-05-03T01:48:35.652632+00:00"
-    },
-    "e2828c865584d162": {
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "fetched_at": "2026-05-03T01:48:36.233385+00:00"
-    },
-    "64f85b49e7d53f14": {
-      "title": "CISA, NSA & Five Eyes publishes guide on how to safely deploy AI agents",
-      "fetched_at": "2026-05-03T01:48:36.822270+00:00"
-    },
-    "ddbeff2a2c484c17": {
-      "title": "Show HN: Rotato – Node.js proxy that rotates LLM API keys on 429 errors",
-      "fetched_at": "2026-05-03T01:48:37.406413+00:00"
-    },
-    "d936bfe788ba78ec": {
-      "title": "Show HN: A marketplace for LLM-powered webapps earning on token margins",
-      "fetched_at": "2026-05-03T01:48:38.002371+00:00"
-    },
-    "b45fc5e889e0b66c": {
-      "title": "Automate Anything with Python and AI",
-      "fetched_at": "2026-05-03T01:48:38.577717+00:00"
-    },
-    "e74d6e0ae826ac02": {
-      "title": "Narrow by Design: The Case for Composable AI Teams",
-      "fetched_at": "2026-05-03T01:48:39.181691+00:00"
-    },
-    "6e54882c18029063": {
-      "title": "Show HN: I built a dev workspace with AI as backbone",
-      "fetched_at": "2026-05-03T01:48:39.762751+00:00"
-    },
-    "a0680946c60658af": {
-      "title": "Preliminary Findings on AI Automation from Worker Evaluations",
-      "fetched_at": "2026-05-03T01:48:40.352292+00:00"
-    },
-    "83c19d7d5fccd64b": {
-      "title": "English councils to trial Google AI tool to speed up planning decisions",
-      "fetched_at": "2026-05-03T01:48:40.938965+00:00"
-    },
-    "1c1286ab9d0de80d": {
-      "title": "Trump's border wall expansion just bulldozed an ancient tribal site",
-      "fetched_at": "2026-05-03T01:48:45.398148+00:00"
-    },
-    "6348a18557f40c34": {
-      "title": "Astronomers may have found a strange new kind of cosmic explosion",
-      "fetched_at": "2026-05-03T01:48:45.983443+00:00"
-    },
-    "81b7b86f00d1494b": {
-      "title": "Stunning 132 million-year-old dinosaur tracks are rewriting history",
-      "fetched_at": "2026-05-03T01:48:46.558607+00:00"
-    },
-    "8a46f8f4d84578cb": {
-      "title": "Scientists find perfect fossils in rust beneath Australian farmland",
-      "fetched_at": "2026-05-03T01:48:47.139858+00:00"
-    },
     "37ca6f748c01cf97": {
       "title": "第四届链博会哥斯达黎加推介会成功举办",
       "fetched_at": "2026-05-03T07:45:37.482561+00:00"
@@ -3691,7 +3595,123 @@
     "9860bae489beab50": {
       "title": "What's the difference between a lion and a tiger?",
       "fetched_at": "2026-05-10T18:44:39.091842+00:00"
+    },
+    "c27ca459da2a2bb9": {
+      "title": "Stack of 500: 500 Production-Tested AI Prompts",
+      "fetched_at": "2026-05-11T02:00:01.250203+00:00"
+    },
+    "4c5531779da7924c": {
+      "title": "SK海力士涨幅扩大至12%",
+      "fetched_at": "2026-05-11T02:00:01.925602+00:00"
+    },
+    "3caebae0249eb17b": {
+      "title": "“星锐医药”完成近4000万美元B+轮融资",
+      "fetched_at": "2026-05-11T02:00:02.554225+00:00"
+    },
+    "f530557e8c271626": {
+      "title": "“Uncharted Dynamics”完成数百万美元种子轮融资",
+      "fetched_at": "2026-05-11T02:00:03.237463+00:00"
+    },
+    "675ede733858f45a": {
+      "title": "国家统计局：4月份CPI环比上涨主要受能源和出行服务价格上涨影响",
+      "fetched_at": "2026-05-11T02:00:03.859578+00:00"
+    },
+    "ace8ce9658919965": {
+      "title": "国家统计局：4月份全国居民消费价格同比上涨1.2%",
+      "fetched_at": "2026-05-11T02:00:04.486402+00:00"
+    },
+    "ea3921368f4ede92": {
+      "title": "A股三大指数集体高开，沪指突破4200点",
+      "fetched_at": "2026-05-11T02:00:05.108169+00:00"
+    },
+    "1fc94290e5134ddd": {
+      "title": "恒指开盘跌0.31%，恒生科技指数跌0.48%",
+      "fetched_at": "2026-05-11T02:00:05.729375+00:00"
+    },
+    "f617b896882958b2": {
+      "title": "5月11日人民币对美元中间价调升35个基点",
+      "fetched_at": "2026-05-11T02:00:06.358011+00:00"
+    },
+    "9fd562e01ee7d669": {
+      "title": "网传为苹果三折屏手机提供微马达？金龙机电：不属实",
+      "fetched_at": "2026-05-11T02:00:06.974254+00:00"
+    },
+    "36d17d91b2166010": {
+      "title": "美国总统特朗普将对中国进行国事访问",
+      "fetched_at": "2026-05-11T02:00:07.589667+00:00"
+    },
+    "43886c46fda2de1c": {
+      "title": "SAP宣布完成对主数据管理软件提供商Reltio的收购",
+      "fetched_at": "2026-05-11T02:00:08.222336+00:00"
+    },
+    "24fecde31216959a": {
+      "title": "报道称OpenAI允许员工出售价值至多3000万美元的股票",
+      "fetched_at": "2026-05-11T02:00:08.856643+00:00"
+    },
+    "7e6f5bec8a8f17d3": {
+      "title": "中指研究院：1—4月全国法拍房源挂拍27.2万套，同比微增0.8%",
+      "fetched_at": "2026-05-11T02:00:09.635922+00:00"
+    },
+    "f6d0b8f0df97377b": {
+      "title": "两市融资余额增加158.05亿元",
+      "fetched_at": "2026-05-11T02:00:10.265550+00:00"
+    },
+    "8cb21ae567edb779": {
+      "title": "Make America AI-Ready",
+      "fetched_at": "2026-05-11T02:00:10.886959+00:00"
+    },
+    "3f3774f725edd426": {
+      "title": "东吴证券：国产算力趋势不可逆，AI信创产业正形成五大核心主线",
+      "fetched_at": "2026-05-11T02:00:11.506957+00:00"
+    },
+    "256bc08a738d217a": {
+      "title": "阿波罗洽谈出售30亿美元私人信贷基金",
+      "fetched_at": "2026-05-11T02:00:12.134341+00:00"
+    },
+    "eb915b121737a698": {
+      "title": "Budi – local-first AI coding cost tracker (Rust, tails local logs, no proxy)",
+      "fetched_at": "2026-05-11T02:00:12.750075+00:00"
+    },
+    "9aee025c3917c546": {
+      "title": "中信证券：预计垃圾焚烧发电行业未来仍能保持高景气度与业绩稳健增长",
+      "fetched_at": "2026-05-11T02:00:13.367494+00:00"
+    },
+    "e93c18cbff21b5cc": {
+      "title": "伊朗战争、贸易、台湾：习特会将谈些什么？",
+      "fetched_at": "2026-05-11T02:00:15.538022+00:00"
+    },
+    "e1171eca4d80d5f1": {
+      "title": "從「何劍」到台灣 盤點特朗普訪華啟程前中美輿論場上的「叫板」熱點",
+      "fetched_at": "2026-05-11T02:00:16.242706+00:00"
+    },
+    "404c266689b18f6e": {
+      "title": "受能源成本上涨影响，中国4月进出口额均创历史新高",
+      "fetched_at": "2026-05-11T02:00:16.866333+00:00"
+    },
+    "a0d6d5534aba4b1a": {
+      "title": "TrackMoose, a music discovery tool that blends up to 100 artists",
+      "fetched_at": "2026-05-11T02:00:38.996743+00:00"
+    },
+    "104c82ae5efa767d": {
+      "title": "Scientists identify 10,000 'impossible' exoplanet candidates, potentially tripling the number of known alien worlds",
+      "fetched_at": "2026-05-11T02:00:39.616613+00:00"
+    },
+    "f4cba882f2796021": {
+      "title": "18th-century mechanical volcano roars to life 250 years later",
+      "fetched_at": "2026-05-11T02:00:40.234776+00:00"
+    },
+    "bc6208a28a363048": {
+      "title": "Boosting one protein helps the brain fight Alzheimer’s",
+      "fetched_at": "2026-05-11T02:00:40.866803+00:00"
+    },
+    "40974b08c040956a": {
+      "title": "The “big one” might not come alone: Double West Coast earthquake threat",
+      "fetched_at": "2026-05-11T02:00:41.480505+00:00"
+    },
+    "eaf4b5bc86243b5b": {
+      "title": "Astronomers finally solve the gamma-Cas X-ray mystery after 50 years",
+      "fetched_at": "2026-05-11T02:00:42.094200+00:00"
     }
   },
-  "last_updated": "2026-05-10T18:44:39.236236+00:00"
+  "last_updated": "2026-05-11T02:00:42.233047+00:00"
 }
