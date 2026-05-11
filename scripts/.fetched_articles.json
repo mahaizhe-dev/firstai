@@ -1,233 +1,5 @@
 {
   "articles": {
-    "23a95b6444f155be": {
-      "title": "Where's the New AI Infrastructure?",
-      "fetched_at": "2026-05-03T12:42:51.923786+00:00"
-    },
-    "77b157bb7551a668": {
-      "title": "Show HN: ShadowBrokers – AI trade signals for retail traders",
-      "fetched_at": "2026-05-03T12:42:52.513157+00:00"
-    },
-    "d1966e479365af90": {
-      "title": "Show HN: Flop Map – a 3D globe of every known AI compute cluster",
-      "fetched_at": "2026-05-03T12:42:53.102581+00:00"
-    },
-    "c61c66d925c38677": {
-      "title": "Why AI Agents are either the best or worst thing we've ever built [video]",
-      "fetched_at": "2026-05-03T12:42:53.728492+00:00"
-    },
-    "006a7293b2b702e6": {
-      "title": "Will human minds still be special in an age of AI?",
-      "fetched_at": "2026-05-03T12:42:54.338752+00:00"
-    },
-    "ed814403d2bc45cd": {
-      "title": "AI music is flooding streaming services — but who wants it?",
-      "fetched_at": "2026-05-03T12:42:54.929292+00:00"
-    },
-    "ea4caeff76f95415": {
-      "title": "Madagascar: AI Trainers – Arte.tv Documentary [video]",
-      "fetched_at": "2026-05-03T12:42:55.529033+00:00"
-    },
-    "a9fd404d366d766f": {
-      "title": "AI's Supply Crunch Is Here",
-      "fetched_at": "2026-05-03T12:42:56.137061+00:00"
-    },
-    "4a2b1e4d11203b9d": {
-      "title": "Ask HN: Can I trust GitHub not to use my code for LLM training?",
-      "fetched_at": "2026-05-03T12:42:56.741004+00:00"
-    },
-    "aa7cce87fa68cf1c": {
-      "title": "Startups challenge Apple over curbs on AI 'vibe coding' apps",
-      "fetched_at": "2026-05-03T12:42:57.340074+00:00"
-    },
-    "614e8d5add8f7734": {
-      "title": "What are tarpit ideas in the AI era?",
-      "fetched_at": "2026-05-03T12:42:57.941985+00:00"
-    },
-    "743dd6b17612002a": {
-      "title": "Shares in Japanese toilet maker Toto soar on AI-related pivot",
-      "fetched_at": "2026-05-03T12:42:58.621046+00:00"
-    },
-    "20e39024385cb72e": {
-      "title": "Migrating 6000 React tests using AI Agents and ASTs",
-      "fetched_at": "2026-05-03T12:42:59.217042+00:00"
-    },
-    "5acb79fbdf5b2344": {
-      "title": "Three full-stack data platforms in a weekend: Fabric and Azure AI Foundry",
-      "fetched_at": "2026-05-03T12:42:59.808712+00:00"
-    },
-    "3b3485e7cbcdfe8d": {
-      "title": "Mnemory – Persistent memory for AI agents",
-      "fetched_at": "2026-05-03T12:43:00.413854+00:00"
-    },
-    "d0eb1d0494f841e1": {
-      "title": "Codeonix: Python task automation for your desktop – with AI, 14 triggers",
-      "fetched_at": "2026-05-03T12:43:01.022865+00:00"
-    },
-    "0b8660f063ed3ef7": {
-      "title": "韩国市值超万亿韩元企业破400家创新高",
-      "fetched_at": "2026-05-03T12:43:01.624239+00:00"
-    },
-    "ec90595192ba300f": {
-      "title": "Why CFOs Need a Consensus Hardening Protocol for AI Decisions",
-      "fetched_at": "2026-05-03T12:43:02.216317+00:00"
-    },
-    "845b7d2cbcd63c89": {
-      "title": "越南1-4月咖啡出口量同比增长16%，至81万吨",
-      "fetched_at": "2026-05-03T12:43:02.811568+00:00"
-    },
-    "3277d4c20e224c86": {
-      "title": "三星继承人已付清12万亿韩元遗产税",
-      "fetched_at": "2026-05-03T12:43:03.416506+00:00"
-    },
-    "b491fe9fe12521f4": {
-      "title": "根除子宮頸癌成為全球目標 澳洲科學家如何領先？",
-      "fetched_at": "2026-05-03T12:43:06.387832+00:00"
-    },
-    "452b8acc4ff6f81f": {
-      "title": "分析：伊朗戰爭意外增強了烏克蘭的實力，俄烏距離停火協議是否更進一步",
-      "fetched_at": "2026-05-03T12:43:06.988742+00:00"
-    },
-    "8b39a8d089fbb689": {
-      "title": "The Eta Aquariid meteor shower peaks this week: How to see 'shooting stars' dropped by Halley's Comet",
-      "fetched_at": "2026-05-03T12:43:08.912195+00:00"
-    },
-    "40fc1f67aeaad667": {
-      "title": "Scientists detect an enormous halo around the iconic Sombrero Galaxy — Space photo of the week",
-      "fetched_at": "2026-05-03T12:43:09.498070+00:00"
-    },
-    "4e8098dcaa28f4d9": {
-      "title": "Did Japan have female samurai?",
-      "fetched_at": "2026-05-03T12:43:10.092769+00:00"
-    },
-    "d82ba4d441280af8": {
-      "title": "Writing the loss function: AI, feeds, and the engagement optimizer",
-      "fetched_at": "2026-05-03T18:41:46.850283+00:00"
-    },
-    "42caf91093f4a665": {
-      "title": "The Croupier – AI-powered candidate discovery and ranking for recruiting teams",
-      "fetched_at": "2026-05-03T18:41:47.468287+00:00"
-    },
-    "af613962476aaacc": {
-      "title": "Separating what AI does well from what code does well",
-      "fetched_at": "2026-05-03T18:41:48.087961+00:00"
-    },
-    "c99197b10acb3d17": {
-      "title": "Public Runtime for Convera for LLM's",
-      "fetched_at": "2026-05-03T18:41:48.694103+00:00"
-    },
-    "f7d549344e3ee6dc": {
-      "title": "MCP-x-Mac-Seed – An AI agent that discovers Mac apps and writes its own tools",
-      "fetched_at": "2026-05-03T18:41:49.305958+00:00"
-    },
-    "d3134c2434a14441": {
-      "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
-      "fetched_at": "2026-05-03T18:41:50.007744+00:00"
-    },
-    "744ba8bc4934fdd0": {
-      "title": "Elon Musk Says AI 'Smarter Than Humans' Next Year During OpenAI Testimony",
-      "fetched_at": "2026-05-03T18:41:50.605762+00:00"
-    },
-    "5274d8bd9d4bb96b": {
-      "title": "The Oscars just banned AI from winning acting and writing awards",
-      "fetched_at": "2026-05-03T18:41:51.204999+00:00"
-    },
-    "535b638973ba1d36": {
-      "title": "Most Companies Aren't Anywhere Near Ready for AI",
-      "fetched_at": "2026-05-03T18:41:51.792437+00:00"
-    },
-    "5d8b2daeca7e9fb5": {
-      "title": "Show HN: MegaLLM – Universal LLM client for any OpenAI-compatible API",
-      "fetched_at": "2026-05-03T18:41:52.386913+00:00"
-    },
-    "ef5971350846d023": {
-      "title": "How many e's are in the word seventeen [video] (AI hallucination)",
-      "fetched_at": "2026-05-03T18:41:52.981906+00:00"
-    },
-    "dd3551ab859926dd": {
-      "title": "Eliza effect at work: Avoiding emotional attachment to AI coworkers",
-      "fetched_at": "2026-05-03T18:41:53.585504+00:00"
-    },
-    "0230f4341e314f74": {
-      "title": "Can Investors Trust AI Sales Figures?",
-      "fetched_at": "2026-05-03T18:41:54.188427+00:00"
-    },
-    "7ed2053f958c479d": {
-      "title": "On AI-Created Art: An Interview with Adam Clegg",
-      "fetched_at": "2026-05-03T18:41:54.788777+00:00"
-    },
-    "9f844a985a20f3c2": {
-      "title": "AI chatbot fraud: the 'gift card' subcription that may cost you dear",
-      "fetched_at": "2026-05-03T18:41:55.377879+00:00"
-    },
-    "41a3cf91ce3bb2c4": {
-      "title": "Do you think AI Agents need an identity?",
-      "fetched_at": "2026-05-03T18:41:55.968444+00:00"
-    },
-    "e853a2ee5ca58f71": {
-      "title": "SmartTune CLI – APM/BF/PX4 Log Analysis for AI Agents",
-      "fetched_at": "2026-05-03T18:41:56.579130+00:00"
-    },
-    "9ddd1d556c0d03af": {
-      "title": "Tape16: A modern tape machine DAW",
-      "fetched_at": "2026-05-03T18:41:57.178128+00:00"
-    },
-    "e6975051e8c34e9c": {
-      "title": "Show HN: Llmconfig – configfile and CLI for local LLM",
-      "fetched_at": "2026-05-03T18:41:57.777441+00:00"
-    },
-    "7ee422ac53a91be8": {
-      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "fetched_at": "2026-05-03T18:41:58.377954+00:00"
-    },
-    "b7c2e8331711c345": {
-      "title": "'Sacrifice zones' around critical mineral mines are rife with pollution, child workers and birth defects",
-      "fetched_at": "2026-05-03T18:42:13.266675+00:00"
-    },
-    "f372e84a36c00d2d": {
-      "title": "Scientists just discovered what coffee is really doing to your gut and brain",
-      "fetched_at": "2026-05-03T18:42:13.880919+00:00"
-    },
-    "9b302fa51760b98e": {
-      "title": "Show HN: SSL certificate discovery from CT logs",
-      "fetched_at": "2026-05-03T18:42:14.484285+00:00"
-    },
-    "1d7a60f2852a2c42": {
-      "title": "Malaria didn’t just kill early humans, it shaped who we became",
-      "fetched_at": "2026-05-03T18:42:15.089002+00:00"
-    },
-    "2534ab1b3927858e": {
-      "title": "The creepy feeling in old buildings might have a surprising cause",
-      "fetched_at": "2026-05-03T18:42:15.714189+00:00"
-    },
-    "c4bd1552a70a08be": {
-      "title": "Universal Bug Discovery Algorithm",
-      "fetched_at": "2026-05-03T18:42:16.316913+00:00"
-    },
-    "f91a7f78f351966c": {
-      "title": "Physicists just found a tiny flaw in time itself",
-      "fetched_at": "2026-05-03T18:42:17.057658+00:00"
-    },
-    "b76d37c22192b410": {
-      "title": "Scientists found the brain doesn’t start blank, it starts full",
-      "fetched_at": "2026-05-03T18:42:17.662963+00:00"
-    },
-    "8cde84fcec0ec0ce": {
-      "title": "Are your memories real? Physicists revisit the Boltzmann brain paradox",
-      "fetched_at": "2026-05-03T18:42:18.264724+00:00"
-    },
-    "df28f5b4b26f5502": {
-      "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
-      "fetched_at": "2026-05-03T18:42:18.850009+00:00"
-    },
-    "620cc8e377f1d508": {
-      "title": "Scientists stunned as pink katydid transforms into green camouflage",
-      "fetched_at": "2026-05-03T18:42:19.462975+00:00"
-    },
-    "e500110406918380": {
-      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia",
-      "fetched_at": "2026-05-03T18:42:20.152181+00:00"
-    },
     "4ddee4a97c8547df": {
       "title": "恒生科技指数涨3%，升破5000点关口",
       "fetched_at": "2026-05-04T01:48:41.090003+00:00"
@@ -3719,7 +3491,143 @@
     "1c1286ab9d0de80d": {
       "title": "Trump's border wall expansion just bulldozed an ancient tribal site",
       "fetched_at": "2026-05-11T08:57:03.925097+00:00"
+    },
+    "f6b2af88ad728761": {
+      "title": "Agentic AI vs. AI Agents: The Governance Shift",
+      "fetched_at": "2026-05-11T19:26:30.201935+00:00"
+    },
+    "b2e3067294e4c59e": {
+      "title": "Nvidia embraces AI investor, topping $40B in equity bets 2026",
+      "fetched_at": "2026-05-11T19:26:30.847096+00:00"
+    },
+    "15bf5c85b9234155": {
+      "title": "Will AI Produce the Next Great Divergence?",
+      "fetched_at": "2026-05-11T19:26:31.457136+00:00"
+    },
+    "7ebdb632e5f2d59a": {
+      "title": "Using LLM in the shebang line of a script",
+      "fetched_at": "2026-05-11T19:26:32.088828+00:00"
+    },
+    "c251e801735e13d7": {
+      "title": "AI versus Microservices",
+      "fetched_at": "2026-05-11T19:26:32.710027+00:00"
+    },
+    "afb495c334fcf15e": {
+      "title": "Banks try to offload AI data-centre debt as exposure mounts",
+      "fetched_at": "2026-05-11T19:26:33.323664+00:00"
+    },
+    "c7f804d9cbf2b0d8": {
+      "title": "Natural-language messages between LLM agents are an architectural anti-pattern",
+      "fetched_at": "2026-05-11T19:26:33.928655+00:00"
+    },
+    "0b452a51f4e3f029": {
+      "title": "Anthropic,OpenAI meet religious leaders to discuss faith and AI",
+      "fetched_at": "2026-05-11T19:26:34.554485+00:00"
+    },
+    "41af757e624e0708": {
+      "title": "Learning to Discover at Test Time",
+      "fetched_at": "2026-05-11T19:26:35.172878+00:00"
+    },
+    "29d6f84d55daca9d": {
+      "title": "Ask HN: Why do people hate using AI so much?",
+      "fetched_at": "2026-05-11T19:26:35.791627+00:00"
+    },
+    "71896a3b51eb182a": {
+      "title": "Best AI Tools for Social Media in 2026 (Ranked and Reviewed)",
+      "fetched_at": "2026-05-11T19:26:36.426648+00:00"
+    },
+    "0db1bd05ff652f23": {
+      "title": "Flipping the bozo bit on flips the learning off",
+      "fetched_at": "2026-05-11T19:26:37.146419+00:00"
+    },
+    "7f60eb14e500cf6e": {
+      "title": "Transform articles into LinkedIn and Twitter posts with AI",
+      "fetched_at": "2026-05-11T19:26:37.759054+00:00"
+    },
+    "32b1b15d11710cd3": {
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "fetched_at": "2026-05-11T19:26:38.376961+00:00"
+    },
+    "50a3257618d5e158": {
+      "title": "Daybreak Frontier AI for cyber defenders",
+      "fetched_at": "2026-05-11T19:26:38.998736+00:00"
+    },
+    "9d3d2a695f037da8": {
+      "title": "AI eats software: Top investor dumps Microsoft shares",
+      "fetched_at": "2026-05-11T19:26:39.618050+00:00"
+    },
+    "f2e7f35ce20ef86e": {
+      "title": "Show HN: AaaS – to build and deploy business AI agents to messaging apps in NL",
+      "fetched_at": "2026-05-11T19:26:40.235555+00:00"
+    },
+    "936c33ce7375adc7": {
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "fetched_at": "2026-05-11T19:26:40.862369+00:00"
+    },
+    "5181dd5dbda9344d": {
+      "title": "MartinLoop – budget caps and audit trails for AI coding agents",
+      "fetched_at": "2026-05-11T19:26:41.493029+00:00"
+    },
+    "26f4b9f4cad8fc8d": {
+      "title": "Update hints at four separate Steam Machine models and a reservation system",
+      "fetched_at": "2026-05-11T19:26:42.115045+00:00"
+    },
+    "7b22d4e628600934": {
+      "title": "大衛·艾登堡爵士百歲：BBC紀錄片宗師如何塑造了「綠色好萊塢」",
+      "fetched_at": "2026-05-11T19:26:44.713858+00:00"
+    },
+    "ea130297af200e98": {
+      "title": "美國會否改口「反對」台獨？特朗普訪華前夕台灣陷「菜單焦慮」",
+      "fetched_at": "2026-05-11T19:26:45.338415+00:00"
+    },
+    "f3432baf5a08b824": {
+      "title": "Reanalysis of Northern Australian Stone Tools Pushes Back Heat Treatments by 20,000 Years",
+      "fetched_at": "2026-05-11T19:26:46.678898+00:00"
+    },
+    "0e15269e7ffc1c8b": {
+      "title": "Roman Mosaic Uncovered in Turkey’s Black Sea Region",
+      "fetched_at": "2026-05-11T19:26:47.303131+00:00"
+    },
+    "57d3ebfc592ed43f": {
+      "title": "Remains of Additional Sailors from Doomed Franklin Expedition Identified",
+      "fetched_at": "2026-05-11T19:26:47.920087+00:00"
+    },
+    "0f243a3a51a79c84": {
+      "title": "New 'trick' fixes major flaw in neutral-atom quantum computers — inching us closer to a superpowerful system",
+      "fetched_at": "2026-05-11T19:26:48.591044+00:00"
+    },
+    "1baebc62d8af72b2": {
+      "title": "A 2025 Alaskan tsunami was one of the largest on record, new research finds",
+      "fetched_at": "2026-05-11T19:26:49.217292+00:00"
+    },
+    "b9ff57b7d5fbab22": {
+      "title": "Lion's head pendant: An ancient Egyptian board game piece that was later repurposed into a magical religious object with baboons",
+      "fetched_at": "2026-05-11T19:26:49.833040+00:00"
+    },
+    "d8cc1166f6488781": {
+      "title": "NASA’s Psyche probe is about to slingshot around Mars at 12,000 mph",
+      "fetched_at": "2026-05-11T19:26:50.453208+00:00"
+    },
+    "8c3fe2512a586e01": {
+      "title": "NASA’s Curiosity rover accidentally pulled a rock out of Mars",
+      "fetched_at": "2026-05-11T19:26:51.144011+00:00"
+    },
+    "9ed558305e9ef4ef": {
+      "title": "Scientists say Dante’s Inferno described an asteroid impact 500 years before modern science",
+      "fetched_at": "2026-05-11T19:26:51.769477+00:00"
+    },
+    "f8883a03da48d047": {
+      "title": "Researchers say AI chatbots may blur the line between reality and delusion",
+      "fetched_at": "2026-05-11T19:26:52.391827+00:00"
+    },
+    "3dd882e683953407": {
+      "title": "This 800-year-old Chinese exercise helps lower blood pressure naturally",
+      "fetched_at": "2026-05-11T19:26:53.012028+00:00"
+    },
+    "a9abdb977421eaa3": {
+      "title": "Hantavirus LIVE: American passengers from cruise head to specialized facilities in Nebraska",
+      "fetched_at": "2026-05-11T19:26:53.625397+00:00"
     }
   },
-  "last_updated": "2026-05-11T08:57:04.060874+00:00"
+  "last_updated": "2026-05-11T19:26:53.774901+00:00"
 }
