@@ -1,137 +1,5 @@
 {
   "articles": {
-    "d9517997b879f70f": {
-      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
-      "fetched_at": "2026-05-04T19:12:06.059914+00:00"
-    },
-    "1e5b8d8372c10c12": {
-      "title": "Show HN: NoReporter – AI-only newsroom, $1/year",
-      "fetched_at": "2026-05-04T19:12:06.684175+00:00"
-    },
-    "125fe52240d71093": {
-      "title": "Google Is a Full Stack AI Player, and Is Playing Well",
-      "fetched_at": "2026-05-04T19:12:07.298754+00:00"
-    },
-    "a1d7a1f202e65f17": {
-      "title": "The AI rush is hitting a bottleneck",
-      "fetched_at": "2026-05-04T19:12:07.934617+00:00"
-    },
-    "f3e863dae897fd8e": {
-      "title": "Long Lake agrees to acquire Amex GBT in AI bet",
-      "fetched_at": "2026-05-04T19:12:08.565249+00:00"
-    },
-    "636f814507f0d0fe": {
-      "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
-      "fetched_at": "2026-05-04T19:12:09.352931+00:00"
-    },
-    "5c8c3cf4e038787b": {
-      "title": "AI Has Made Memory Chips One of the Most Profitable Products",
-      "fetched_at": "2026-05-04T19:12:09.977737+00:00"
-    },
-    "011912e0444d4217": {
-      "title": "QueryShield – secure SQL proxy for AI agents (NL→SQL, AST safety, RLS)",
-      "fetched_at": "2026-05-04T19:12:10.601570+00:00"
-    },
-    "3916f00215e345b3": {
-      "title": "I built this because people upload sensitive documents to random AI tools",
-      "fetched_at": "2026-05-04T19:12:11.243817+00:00"
-    },
-    "40e0b238e0cc806b": {
-      "title": "Darwinian Specialization in AI",
-      "fetched_at": "2026-05-04T19:12:11.877669+00:00"
-    },
-    "783b86a3afa8e70c": {
-      "title": "AI slop video is being used as an attack ad in a contentious Kentucky primary",
-      "fetched_at": "2026-05-04T19:12:12.508163+00:00"
-    },
-    "6dc28e0e86d1ddf2": {
-      "title": "Exploring LLM biases to manipulate AI search overview",
-      "fetched_at": "2026-05-04T19:12:13.133401+00:00"
-    },
-    "f1eebbd116fbef2d": {
-      "title": "A thermodynamic trust layer cutting LLM hallucinations by 52%",
-      "fetched_at": "2026-05-04T19:12:13.789883+00:00"
-    },
-    "a0ba6a5428edfe95": {
-      "title": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
-      "fetched_at": "2026-05-04T19:12:14.405343+00:00"
-    },
-    "c2a6259b76b6ade6": {
-      "title": "Clone Talking – Real-Time Voice Conversations with AI Persona Clones",
-      "fetched_at": "2026-05-04T19:12:15.034531+00:00"
-    },
-    "6faa789de898306a": {
-      "title": "Making Fuel from Thin Air: The Magical Methane Machine",
-      "fetched_at": "2026-05-04T19:12:15.687772+00:00"
-    },
-    "3d5be9209c3016fd": {
-      "title": "Future of Work with AI Agents",
-      "fetched_at": "2026-05-04T19:12:16.312733+00:00"
-    },
-    "7fad52c7997daa6f": {
-      "title": "Tailoring AI solutions for health care needs",
-      "fetched_at": "2026-05-04T19:12:16.946264+00:00"
-    },
-    "c6165ac48f344a69": {
-      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-      "fetched_at": "2026-05-04T19:12:17.566199+00:00"
-    },
-    "68a12b1818b19d6b": {
-      "title": "The creator of Roomba is back with a furry robot companion",
-      "fetched_at": "2026-05-04T19:12:18.184341+00:00"
-    },
-    "659c39ebc156d80e": {
-      "title": "漢他病毒：大西洋郵輪疑爆疫情，三人死亡",
-      "fetched_at": "2026-05-04T19:12:20.935924+00:00"
-    },
-    "19b367689c9db472": {
-      "title": "3 cruise ship passengers are dead, and hantavirus is the suspected culprit: What to know",
-      "fetched_at": "2026-05-04T19:12:22.848385+00:00"
-    },
-    "b831e4a60f3dcbd4": {
-      "title": "Kx Systems: A Historical Need for Speed (2020)",
-      "fetched_at": "2026-05-04T19:12:23.592876+00:00"
-    },
-    "603b084009507ad6": {
-      "title": "'Lamb of God' Coins Issued by Desperate English King Found in Denmark",
-      "fetched_at": "2026-05-04T19:12:24.222615+00:00"
-    },
-    "6fa8175bc09498d8": {
-      "title": "Were Neanderthals Able to Hunt Elephants? The Proof Is in an Ancient Bone",
-      "fetched_at": "2026-05-04T19:12:24.841829+00:00"
-    },
-    "0f7fc58f10367652": {
-      "title": "This simple amino acid supplement greatly reduces Alzheimer’s damage",
-      "fetched_at": "2026-05-04T19:12:25.580428+00:00"
-    },
-    "30c1966eb0dc6c19": {
-      "title": "Scientists turn plastic waste into clean hydrogen fuel using sunlight",
-      "fetched_at": "2026-05-04T19:12:26.232038+00:00"
-    },
-    "803eac0c70270d27": {
-      "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
-      "fetched_at": "2026-05-04T19:12:26.858192+00:00"
-    },
-    "26b06af75f8bed63": {
-      "title": "The da Vinci bloodline is unlocking the genius’s genetic secrets",
-      "fetched_at": "2026-05-04T19:12:27.571122+00:00"
-    },
-    "a5ccfa39e06a101f": {
-      "title": "Scientists reveal creatine’s hidden power beyond muscle gains",
-      "fetched_at": "2026-05-04T19:12:28.193968+00:00"
-    },
-    "f8128dce573c1cba": {
-      "title": "This simple blood test might detect depression before symptoms appear",
-      "fetched_at": "2026-05-04T19:12:28.813267+00:00"
-    },
-    "5016334502968c35": {
-      "title": "System over Model: Zero-Day Discovery at the Jagged Frontier",
-      "fetched_at": "2026-05-04T19:12:29.432771+00:00"
-    },
-    "d4ae3119c58c01d9": {
-      "title": "Blood vessels found in T. rex bones are rewriting dinosaur science",
-      "fetched_at": "2026-05-04T19:12:30.051315+00:00"
-    },
     "148f7e1c6e8a297b": {
       "title": "剂泰科技寻求通过香港IPO募资21.1亿港元",
       "fetched_at": "2026-05-05T01:49:21.137665+00:00"
@@ -3747,7 +3615,135 @@
     "ef4e2da08c06f5f1": {
       "title": "Hantavirus LIVE: American passengers from cruise reach specialized facilities in Nebraska as WHO chief says 'we expect more cases.'",
       "fetched_at": "2026-05-12T13:50:49.133986+00:00"
+    },
+    "4d54719495cbcd7f": {
+      "title": "Show HN: Ralph Workflow - Simple Agent-Agnostic AI Orchestrator based on Ralph.",
+      "fetched_at": "2026-05-12T19:26:46.486061+00:00"
+    },
+    "d8097120b729311d": {
+      "title": "AI Agents Under EU Law",
+      "fetched_at": "2026-05-12T19:26:47.117747+00:00"
+    },
+    "ac9d87bcf3880097": {
+      "title": "US Bank CEO on AI Popularity in the Workforce",
+      "fetched_at": "2026-05-12T19:26:47.762958+00:00"
+    },
+    "3757e8c1db2400bf": {
+      "title": "Why is Anthropic's training data disclosure AI-generated?",
+      "fetched_at": "2026-05-12T19:26:48.384219+00:00"
+    },
+    "c7057203e36b165d": {
+      "title": "Show HN: Prempti – Guardrails and observability for AI coding agents",
+      "fetched_at": "2026-05-12T19:26:49.014068+00:00"
+    },
+    "fb6ae5168535e501": {
+      "title": "Show HN: Send Cold Emails with AI Agents",
+      "fetched_at": "2026-05-12T19:26:49.641141+00:00"
+    },
+    "fa572de65a9aa599": {
+      "title": "Paperclip The human control plane for AI labor",
+      "fetched_at": "2026-05-12T19:26:50.261917+00:00"
+    },
+    "85a975ba3a11fb0e": {
+      "title": "AI isn't paying off in the way companies think according to Gartner study",
+      "fetched_at": "2026-05-12T19:26:51.086689+00:00"
+    },
+    "c7837b8beecdd078": {
+      "title": "AI in the rare disease news desert",
+      "fetched_at": "2026-05-12T19:26:51.720207+00:00"
+    },
+    "615ebbc38700ea5b": {
+      "title": "Parent sues Palo Alto Unified after son is accused of using AI on essay",
+      "fetched_at": "2026-05-12T19:26:52.382978+00:00"
+    },
+    "142af532d5a4a731": {
+      "title": "The Main Path to Creative AI",
+      "fetched_at": "2026-05-12T19:26:53.009597+00:00"
+    },
+    "d8cd1eb8173f8d35": {
+      "title": "Building a Local AI Workspace Inside VS Code",
+      "fetched_at": "2026-05-12T19:26:53.633900+00:00"
+    },
+    "061139dde616727d": {
+      "title": "Company behind GLiNER model released open source model for running LLM guardrail",
+      "fetched_at": "2026-05-12T19:26:54.255664+00:00"
+    },
+    "a478a855cae4e2f0": {
+      "title": "AI Is Starting to Build Better AI (Recursive self-improvement)",
+      "fetched_at": "2026-05-12T19:26:54.871790+00:00"
+    },
+    "8579189f8eff291c": {
+      "title": "AI overlay that stays invisible to screen recorders",
+      "fetched_at": "2026-05-12T19:26:55.501169+00:00"
+    },
+    "ce4b1698c35aa597": {
+      "title": "Are LLM Useful for Solo Founders",
+      "fetched_at": "2026-05-12T19:26:56.157768+00:00"
+    },
+    "31b16d9a5768fd1d": {
+      "title": "Show HN: I submitted 316 AI-generated PRs to open source",
+      "fetched_at": "2026-05-12T19:26:56.780607+00:00"
+    },
+    "4103ecd10797b586": {
+      "title": "Using LLM in the shebang line of a script",
+      "fetched_at": "2026-05-12T19:26:56.780722+00:00"
+    },
+    "0f77499c96f30515": {
+      "title": "Red Hat bets AgentOps can close the gap between AI experiments and production",
+      "fetched_at": "2026-05-12T19:26:57.417532+00:00"
+    },
+    "5e6ab567f1ca3bff": {
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "fetched_at": "2026-05-12T19:26:58.028730+00:00"
+    },
+    "429e6b6bd8243e7a": {
+      "title": "Did Ancient Civilizations Have Organized Crime?",
+      "fetched_at": "2026-05-12T19:27:02.954414+00:00"
+    },
+    "e134bc04a51404aa": {
+      "title": "Prehistoric Midden Excavated in Northern Sri Lanka",
+      "fetched_at": "2026-05-12T19:27:03.589162+00:00"
+    },
+    "d2ac217111ee0562": {
+      "title": "Prowl: Learning Through Discovery",
+      "fetched_at": "2026-05-12T19:27:04.211965+00:00"
+    },
+    "5d8ec999ad10aa21": {
+      "title": "New Dates Obtained for Stone Tools in East Asia",
+      "fetched_at": "2026-05-12T19:27:04.855587+00:00"
+    },
+    "51d1341626412a95": {
+      "title": "Physicists find evidence that the universe isn't perfectly uniform — potentially unraveling a 100-year-old model of cosmology",
+      "fetched_at": "2026-05-12T19:27:05.545022+00:00"
+    },
+    "1c4e8bd5750083d9": {
+      "title": "Copper Part from Illicit 19th-Century Still Discovered in Scotland",
+      "fetched_at": "2026-05-12T19:27:06.168976+00:00"
+    },
+    "ef57c1eccdfb9242": {
+      "title": "'A combination of amazement and horror': Hitchhiker fish hide in manta ray buttholes",
+      "fetched_at": "2026-05-12T19:27:06.812895+00:00"
+    },
+    "00304d3f4ed1e2f2": {
+      "title": "Eruption blows hole in sun's atmosphere, unleashing solar flare and potentially triggering northern lights",
+      "fetched_at": "2026-05-12T19:27:07.434855+00:00"
+    },
+    "8c71f4dd54d85e39": {
+      "title": "What Were Ancient Greco-Roman Curse Tablets?",
+      "fetched_at": "2026-05-12T19:27:08.170959+00:00"
+    },
+    "ad4dc45212247e51": {
+      "title": "Once-in-a-century 'super' El Niño in the cards as ocean temperatures reach near record highs in April",
+      "fetched_at": "2026-05-12T19:27:08.908546+00:00"
+    },
+    "a929704fdddde420": {
+      "title": "'Speculation' and 'egregious failure': 30 researchers publish scathing critiques of study that questioned date of early human occupation of Monte Verde in Chile",
+      "fetched_at": "2026-05-12T19:27:09.532382+00:00"
+    },
+    "de2d11eafc96049a": {
+      "title": "Shimmering silver 'sunglint' obscures Hawaii as hurricane approaches — Earth from space",
+      "fetched_at": "2026-05-12T19:27:10.239523+00:00"
     }
   },
-  "last_updated": "2026-05-12T13:50:49.240170+00:00"
+  "last_updated": "2026-05-12T19:27:10.346145+00:00"
 }
