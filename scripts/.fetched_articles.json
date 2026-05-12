@@ -1,101 +1,5 @@
 {
   "articles": {
-    "4ddee4a97c8547df": {
-      "title": "恒生科技指数涨3%，升破5000点关口",
-      "fetched_at": "2026-05-04T01:48:41.090003+00:00"
-    },
-    "f84c204f606999cf": {
-      "title": "恒生科技指数高开高走，涨幅扩大至2%",
-      "fetched_at": "2026-05-04T01:48:41.777636+00:00"
-    },
-    "952c2beac80e9e32": {
-      "title": "三星电子任命新的视觉显示业务负责人",
-      "fetched_at": "2026-05-04T01:48:42.392179+00:00"
-    },
-    "f0cc156dbbcdba32": {
-      "title": "恒指开盘涨1.4%，恒生科技指数涨1.58%",
-      "fetched_at": "2026-05-04T01:48:43.122547+00:00"
-    },
-    "7758e0db71b63f40": {
-      "title": "东阳光药甘精胰岛素获FDA批准",
-      "fetched_at": "2026-05-04T01:48:43.747868+00:00"
-    },
-    "1771510c675f0c31": {
-      "title": "游戏驿站提出近560亿美元收购eBay",
-      "fetched_at": "2026-05-04T01:48:44.424073+00:00"
-    },
-    "b1c181aabfafda2e": {
-      "title": "Do AI Detectors Work Well Enough to Trust?",
-      "fetched_at": "2026-05-04T01:48:45.050632+00:00"
-    },
-    "ae7e26935419c30b": {
-      "title": "Know thyself: LLM schema for personal memory",
-      "fetched_at": "2026-05-04T01:48:45.685860+00:00"
-    },
-    "349a04899c167ef6": {
-      "title": "H4ckf0r0day/obscura: The headless browser for AI agents and web scraping",
-      "fetched_at": "2026-05-04T01:48:46.310935+00:00"
-    },
-    "cbf02f7e074a6961": {
-      "title": "Show HN: Stigmem – open-source federated knowledge fabric for AI agents (v1.0)",
-      "fetched_at": "2026-05-04T01:48:46.956162+00:00"
-    },
-    "6baf2b6780495666": {
-      "title": "Next-Token Predictor Is An AI's Job, Not Its Species",
-      "fetched_at": "2026-05-04T01:48:47.571814+00:00"
-    },
-    "85717dad94cc85ab": {
-      "title": "Sato – AI desktop companion for macOS with multi-provider support",
-      "fetched_at": "2026-05-04T01:48:48.200221+00:00"
-    },
-    "bfea477b0c227b44": {
-      "title": "Building a daily AI news brief in 325 lines of Python",
-      "fetched_at": "2026-05-04T01:48:48.836966+00:00"
-    },
-    "b8dfcba242bac0df": {
-      "title": "UAE Plans to Run 50% of Government on Agentic AI Within Two Years",
-      "fetched_at": "2026-05-04T01:48:49.482495+00:00"
-    },
-    "61baa6250d52e97e": {
-      "title": "AI for Teams: Team-in-the-Loop",
-      "fetched_at": "2026-05-04T01:48:50.167147+00:00"
-    },
-    "9c02a2adaa28c67b": {
-      "title": "Duralang – decorator makes every LangChain LLM/tool/MCP call a Temporal Activity",
-      "fetched_at": "2026-05-04T01:48:50.781143+00:00"
-    },
-    "07f7c0a248dcef7e": {
-      "title": "Most Companies Aren't Anywhere Near Ready for AI",
-      "fetched_at": "2026-05-04T01:48:50.781274+00:00"
-    },
-    "4e618bd65dc21a83": {
-      "title": "‘This is fine’ creator says AI startup stole his art",
-      "fetched_at": "2026-05-04T01:48:51.610578+00:00"
-    },
-    "2185b47a0b065fd5": {
-      "title": "Professor's bold prediction: AI could help cure all diseases within a decade",
-      "fetched_at": "2026-05-04T01:48:52.235856+00:00"
-    },
-    "53c433abb889fcd9": {
-      "title": "University Professors Disturbed to Find Their Lectures Chopped Up into AI Slop",
-      "fetched_at": "2026-05-04T01:48:52.865390+00:00"
-    },
-    "10ccdb990721ec93": {
-      "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
-      "fetched_at": "2026-05-04T01:48:57.537871+00:00"
-    },
-    "d6d9af1c526f3e7a": {
-      "title": "This exotic particle could finally explain why matter has mass",
-      "fetched_at": "2026-05-04T01:48:58.160865+00:00"
-    },
-    "785691f64e05d1c4": {
-      "title": "Gravitational waves may have created dark matter in the early universe",
-      "fetched_at": "2026-05-04T01:48:58.819211+00:00"
-    },
-    "046f0d81b90b9fbf": {
-      "title": "Giant prehistoric insects didn’t need high oxygen after all, study finds",
-      "fetched_at": "2026-05-04T01:48:59.511035+00:00"
-    },
     "b3dd6528c16d6dd8": {
       "title": "Does AI lead us back to a beautiful document based waterfall approach? [video]",
       "fetched_at": "2026-05-04T08:15:02.096130+00:00"
@@ -3627,7 +3531,151 @@
     "a9abdb977421eaa3": {
       "title": "Hantavirus LIVE: American passengers from cruise head to specialized facilities in Nebraska",
       "fetched_at": "2026-05-11T19:26:53.625397+00:00"
+    },
+    "afa12c5d0f3f79ab": {
+      "title": "太阳能：已与多家算力企业沟通对接，尝试开展绿电直连项目合作",
+      "fetched_at": "2026-05-12T01:56:40.685537+00:00"
+    },
+    "7b4516427ac18fe9": {
+      "title": "娃哈哈旗下嘉兴拉萨天津三地公司更名宏胜",
+      "fetched_at": "2026-05-12T01:56:41.306823+00:00"
+    },
+    "6c1a79b1923ba889": {
+      "title": "微软给OpenAI的营收分成付款目前上限设为380亿美元",
+      "fetched_at": "2026-05-12T01:56:41.898212+00:00"
+    },
+    "30fbd5df1fa5cced": {
+      "title": "The Morse Code Hack That Made an AI Agent Spend $200k [video]",
+      "fetched_at": "2026-05-12T01:56:42.573572+00:00"
+    },
+    "d934b69f3dada94b": {
+      "title": "AI vs. Open Source, Part 1: The Empty Grant",
+      "fetched_at": "2026-05-12T01:56:43.175243+00:00"
+    },
+    "d8229092aa791f8d": {
+      "title": "A faithful LLM-wiki implementation with Wikipedia-style web browsing",
+      "fetched_at": "2026-05-12T01:56:43.766258+00:00"
+    },
+    "4d153008ed1d7cf3": {
+      "title": "A股三大指数集体高开，光模块概念继续走强",
+      "fetched_at": "2026-05-12T01:56:44.366567+00:00"
+    },
+    "a69af03c7c6f9a04": {
+      "title": "A throbbing heart at the thought of AI",
+      "fetched_at": "2026-05-12T01:56:44.973935+00:00"
+    },
+    "4c7a9261644a4b52": {
+      "title": "央行公开市场开展5亿元7天期逆回购操作",
+      "fetched_at": "2026-05-12T01:56:44.974084+00:00"
+    },
+    "f5f9f812ce509eba": {
+      "title": "恒指开盘涨0.34%，快手涨超9%",
+      "fetched_at": "2026-05-12T01:56:45.638237+00:00"
+    },
+    "bfc8632638973b22": {
+      "title": "人民币对美元中间价调升41个基点",
+      "fetched_at": "2026-05-12T01:56:46.297946+00:00"
+    },
+    "961886a46a94cc73": {
+      "title": "格林美：公司每年消纳处理中国10%的退役锂电池",
+      "fetched_at": "2026-05-12T01:56:46.921333+00:00"
+    },
+    "9e4bbda48ea3bca1": {
+      "title": "The new Shai-Hulud worm threatens to wipe your machine if you revoke its token",
+      "fetched_at": "2026-05-12T01:56:47.687272+00:00"
+    },
+    "a558a4c0dd655093": {
+      "title": "中信证券：预计供需利好共振有望推动锂价在未来2-3个月上涨至25万元/吨",
+      "fetched_at": "2026-05-12T01:56:48.324380+00:00"
+    },
+    "117765c8eaafaf71": {
+      "title": "AI拉动覆铜板需求激增，国产高端材料迎导入窗口",
+      "fetched_at": "2026-05-12T01:56:48.922064+00:00"
+    },
+    "5f21baab8247c65c": {
+      "title": "黑石推出住宅建筑商贷款平台，拟每年支持逾5万套新房建设",
+      "fetched_at": "2026-05-12T01:56:49.528245+00:00"
+    },
+    "ace971ba7657409e": {
+      "title": "中金公司：预计未来两月PPI和CPI同比仍有上行空间",
+      "fetched_at": "2026-05-12T01:56:50.135158+00:00"
+    },
+    "eb4fb2bcebcee752": {
+      "title": "Can you help reconcile my first/second-hand LLM Experience with HN's Experience?",
+      "fetched_at": "2026-05-12T01:56:50.724921+00:00"
+    },
+    "d9feec8f7a6d36df": {
+      "title": "A股资产备受基金青睐，“专业买手”连续加仓6个月",
+      "fetched_at": "2026-05-12T01:56:51.330376+00:00"
+    },
+    "8fcfc948248cef89": {
+      "title": "传媒大亨拜伦·艾伦将以1.2亿美元收购BuzzFeed多数股权",
+      "fetched_at": "2026-05-12T01:56:51.930112+00:00"
+    },
+    "66561fbf96ff51a6": {
+      "title": "16位商界领袖将陪同特朗普访华，他们是谁？",
+      "fetched_at": "2026-05-12T01:56:54.824175+00:00"
+    },
+    "4e35252d0290c7ec": {
+      "title": "你的心率沒有你想的那麽平穩，而它揭示了什麼健康狀況？",
+      "fetched_at": "2026-05-12T01:56:55.434923+00:00"
+    },
+    "d0779004c90c91d8": {
+      "title": "伊朗战争、贸易、台湾：“习特会”将谈些什么？",
+      "fetched_at": "2026-05-12T01:56:55.435092+00:00"
+    },
+    "fd6f229e42e4eaa2": {
+      "title": "中等国家为何对“习特会”感到担忧？",
+      "fetched_at": "2026-05-12T01:56:56.055135+00:00"
+    },
+    "37e68b268f13e5a2": {
+      "title": "'Insect apocalypse' is already fueling malnutrition in some regions, first-of-its-kind study reveals",
+      "fetched_at": "2026-05-12T01:57:02.824044+00:00"
+    },
+    "59c6ee3f66ef508d": {
+      "title": "Hantavirus LIVE: American passengers from cruise reach specialized facilities in Nebraska; 2 being treated at Emory",
+      "fetched_at": "2026-05-12T01:57:03.442903+00:00"
+    },
+    "b7c2e8331711c345": {
+      "title": "'Sacrifice zones' around critical mineral mines are rife with pollution, child workers and birth defects",
+      "fetched_at": "2026-05-12T01:57:04.072418+00:00"
+    },
+    "f372e84a36c00d2d": {
+      "title": "Scientists just discovered what coffee is really doing to your gut and brain",
+      "fetched_at": "2026-05-12T01:57:04.685193+00:00"
+    },
+    "1d7a60f2852a2c42": {
+      "title": "Malaria didn’t just kill early humans, it shaped who we became",
+      "fetched_at": "2026-05-12T01:57:05.329780+00:00"
+    },
+    "2534ab1b3927858e": {
+      "title": "The creepy feeling in old buildings might have a surprising cause",
+      "fetched_at": "2026-05-12T01:57:05.998694+00:00"
+    },
+    "8b39a8d089fbb689": {
+      "title": "The Eta Aquariid meteor shower peaks this week: How to see 'shooting stars' dropped by Halley's Comet",
+      "fetched_at": "2026-05-12T01:57:06.633698+00:00"
+    },
+    "40fc1f67aeaad667": {
+      "title": "Scientists detect an enormous halo around the iconic Sombrero Galaxy — Space photo of the week",
+      "fetched_at": "2026-05-12T01:57:07.238460+00:00"
+    },
+    "f91a7f78f351966c": {
+      "title": "Physicists just found a tiny flaw in time itself",
+      "fetched_at": "2026-05-12T01:57:07.834588+00:00"
+    },
+    "4e8098dcaa28f4d9": {
+      "title": "Did Japan have female samurai?",
+      "fetched_at": "2026-05-12T01:57:08.450553+00:00"
+    },
+    "8cde84fcec0ec0ce": {
+      "title": "Are your memories real? Physicists revisit the Boltzmann brain paradox",
+      "fetched_at": "2026-05-12T01:57:09.045217+00:00"
+    },
+    "df28f5b4b26f5502": {
+      "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
+      "fetched_at": "2026-05-12T01:57:09.631858+00:00"
     }
   },
-  "last_updated": "2026-05-11T19:26:53.774901+00:00"
+  "last_updated": "2026-05-12T01:57:09.772011+00:00"
 }
