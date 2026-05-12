@@ -1,113 +1,5 @@
 {
   "articles": {
-    "b3dd6528c16d6dd8": {
-      "title": "Does AI lead us back to a beautiful document based waterfall approach? [video]",
-      "fetched_at": "2026-05-04T08:15:02.096130+00:00"
-    },
-    "40a9dca5e531647b": {
-      "title": "恒指收涨1.24%，恒生科技指数涨2.16%",
-      "fetched_at": "2026-05-04T08:15:02.681036+00:00"
-    },
-    "5c787145c5b7d52c": {
-      "title": "Eight LLM agents wrote 1.7M words; two refused, even when ordered",
-      "fetched_at": "2026-05-04T08:15:03.276381+00:00"
-    },
-    "7001463e90d73d16": {
-      "title": "MathNet:30k competition math problems for AI mathematical reasoning benchmarking",
-      "fetched_at": "2026-05-04T08:15:03.871343+00:00"
-    },
-    "19334533db94fd00": {
-      "title": "Key Components of a Linux Distribution for AI Agents",
-      "fetched_at": "2026-05-04T08:15:04.480378+00:00"
-    },
-    "696ccf1d1cb040b2": {
-      "title": "Show HN: My \"home rig\" for iterative attribute-weighted LLM benchmarking",
-      "fetched_at": "2026-05-04T08:15:05.056257+00:00"
-    },
-    "f1664cdc23f09eda": {
-      "title": "“五一”假期第四天，全社会跨区域人员流动量预计超2.9亿人次",
-      "fetched_at": "2026-05-04T08:15:05.654990+00:00"
-    },
-    "eb9293061e55bf2d": {
-      "title": "2026年五一档电影票房破6亿元",
-      "fetched_at": "2026-05-04T08:15:06.240584+00:00"
-    },
-    "e6d0f22a8dd55c29": {
-      "title": "Specialised Intelligence Platform for the Business and Economics of AI",
-      "fetched_at": "2026-05-04T08:15:06.821899+00:00"
-    },
-    "40e0eb52996d92dd": {
-      "title": "iOrchestra.ai prompt to hardware mass production platform YC looks for [video]",
-      "fetched_at": "2026-05-04T08:15:07.468560+00:00"
-    },
-    "258550e7edb99149": {
-      "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
-      "fetched_at": "2026-05-04T08:15:08.060183+00:00"
-    },
-    "71a8b4753e2f97ec": {
-      "title": "比特币一度升破8万美元，触及逾三个月高位",
-      "fetched_at": "2026-05-04T08:15:08.668412+00:00"
-    },
-    "2705fe4007a110f6": {
-      "title": "韩国KOSPI指数收盘上涨5.12%，刷新历史新高",
-      "fetched_at": "2026-05-04T08:15:09.326821+00:00"
-    },
-    "f4bfc241f9a78e2a": {
-      "title": "巴克莱预计美联储将在2026年维持利率不变",
-      "fetched_at": "2026-05-04T08:15:09.915316+00:00"
-    },
-    "7ad766967240c2e2": {
-      "title": "AI Coding Models You Can Run Locally on Consumer Hardware",
-      "fetched_at": "2026-05-04T08:15:10.493249+00:00"
-    },
-    "242004423f2e0ffb": {
-      "title": "SK海力士股价涨幅扩大至12%",
-      "fetched_at": "2026-05-04T08:15:11.135579+00:00"
-    },
-    "260d23c06cc82f16": {
-      "title": "Evolving the Android and Chrome Vulnerability Reward Programs for the AI Era",
-      "fetched_at": "2026-05-04T08:15:11.719955+00:00"
-    },
-    "25ac65ddec8912d5": {
-      "title": "22家公司境外业务收入超过千亿元",
-      "fetched_at": "2026-05-04T08:15:12.377582+00:00"
-    },
-    "6bc02ab64ea0aaab": {
-      "title": "Show HN: See how much you spend per AI agent",
-      "fetched_at": "2026-05-04T08:15:12.962075+00:00"
-    },
-    "55dd1a6c4b0f87e4": {
-      "title": "The AI Revolution Hollywood Feared Is Happening – In India",
-      "fetched_at": "2026-05-04T08:15:13.550981+00:00"
-    },
-    "4bb4fe6e50b251bb": {
-      "title": "「迷幻蘑菇」可能有助戒煙？",
-      "fetched_at": "2026-05-04T08:15:16.333661+00:00"
-    },
-    "efd23ff0b090a842": {
-      "title": "中國人在台灣講脫口秀 「粉紅中配」走進台灣喜劇圈",
-      "fetched_at": "2026-05-04T08:15:16.933324+00:00"
-    },
-    "d81539f0ed8f3cfb": {
-      "title": "美國中期選舉：選民將以經濟表現評判特朗普，目前形勢如何？",
-      "fetched_at": "2026-05-04T08:15:17.537325+00:00"
-    },
-    "b15d4cb536ceb7e3": {
-      "title": "伊朗稱美國已回應最新的和平提案",
-      "fetched_at": "2026-05-04T08:15:18.117158+00:00"
-    },
-    "60b79e802631d962": {
-      "title": "美國共和黨高層：削減駐德美軍將向俄羅斯發出錯誤訊號",
-      "fetched_at": "2026-05-04T08:15:18.695587+00:00"
-    },
-    "963edb09f6a14891": {
-      "title": "馬六甲海峽：為何全球貿易的另一個「咽喉要道」正引發擔憂",
-      "fetched_at": "2026-05-04T08:15:19.306167+00:00"
-    },
-    "890f7962604220fe": {
-      "title": "Evolution isn’t random. Scientists find the same genes used for 120 million years",
-      "fetched_at": "2026-05-04T08:15:27.648928+00:00"
-    },
     "095773dd6b8979d0": {
       "title": "五月，适合想清楚一件事｜幕启",
       "fetched_at": "2026-05-04T13:19:53.651102+00:00"
@@ -3675,7 +3567,179 @@
     "df28f5b4b26f5502": {
       "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
       "fetched_at": "2026-05-12T01:57:09.631858+00:00"
+    },
+    "1df10007b481b183": {
+      "title": "节能风电：经核查，股东张家玮并非演员张凌赫",
+      "fetched_at": "2026-05-12T08:23:01.778191+00:00"
+    },
+    "acd1e00e0a8ec5e4": {
+      "title": "湖州市数据科技集团增资至10亿，增幅400%",
+      "fetched_at": "2026-05-12T08:23:02.406748+00:00"
+    },
+    "972ca785d78c04af": {
+      "title": "恒指收跌0.22%，恒生科技指数跌0.7%",
+      "fetched_at": "2026-05-12T08:23:03.069307+00:00"
+    },
+    "c0b5a2a3e213abb4": {
+      "title": "韩国拟到2030年培育500家出口额超1000万美元中小企业",
+      "fetched_at": "2026-05-12T08:23:03.692530+00:00"
+    },
+    "e55107341401619e": {
+      "title": "The Great Reset: Navigating a Turbulent Post-AI World",
+      "fetched_at": "2026-05-12T08:23:04.313414+00:00"
+    },
+    "99f18b93dd1ed286": {
+      "title": "松下机电拟转让车载用电机和冷却风扇电机业务",
+      "fetched_at": "2026-05-12T08:23:04.945775+00:00"
+    },
+    "a0c01f2af08c3136": {
+      "title": "Waymo将在美召回3791辆汽车",
+      "fetched_at": "2026-05-12T08:23:05.574999+00:00"
+    },
+    "c005f19ba4091be1": {
+      "title": "马云一米八在江苏成立水产食品公司，注册资本1000万",
+      "fetched_at": "2026-05-12T08:23:06.259311+00:00"
+    },
+    "07019d1727227d11": {
+      "title": "LLM Hallucinations in the Wild",
+      "fetched_at": "2026-05-12T08:23:06.889864+00:00"
+    },
+    "bb930df8dd3ffff1": {
+      "title": "外交部：中美经贸关系的本质是互利共赢",
+      "fetched_at": "2026-05-12T08:23:07.507768+00:00"
+    },
+    "c81c3ace1618aaca": {
+      "title": "Microsoft researchers find AI models and agents can't handle long-running tasks",
+      "fetched_at": "2026-05-12T08:23:08.130643+00:00"
+    },
+    "828a97ecc8f82fd4": {
+      "title": "I Think I Figured Out What an AI IDE Looks Like",
+      "fetched_at": "2026-05-12T08:23:08.759996+00:00"
+    },
+    "e0ac3dc23c901579": {
+      "title": "网易有道发布ThinkFlow平台，实现全链路Token可视化",
+      "fetched_at": "2026-05-12T08:23:09.434313+00:00"
+    },
+    "4c972039c7da08b3": {
+      "title": "北京怀柔股权投资引导基金登记成立，出资额约10亿",
+      "fetched_at": "2026-05-12T08:23:10.075246+00:00"
+    },
+    "d047c6d2946399a9": {
+      "title": "谷歌称首次发现利用AI开发“零日漏洞”攻击工具",
+      "fetched_at": "2026-05-12T08:23:10.703393+00:00"
+    },
+    "3e3a8696b0bcfc8a": {
+      "title": "网易云音乐全面接入DeepSeek-V4",
+      "fetched_at": "2026-05-12T08:23:11.318939+00:00"
+    },
+    "054de86686260148": {
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "fetched_at": "2026-05-12T08:23:12.013960+00:00"
+    },
+    "25aa3787a2c82f07": {
+      "title": "连云港市农发融资担保公司增资至30亿，增幅1400%",
+      "fetched_at": "2026-05-12T08:23:12.893918+00:00"
+    },
+    "8c5d4bfdb03ece33": {
+      "title": "中央网信办：平台发布短视频必选6类标签",
+      "fetched_at": "2026-05-12T08:23:13.519910+00:00"
+    },
+    "ebe98e1b19a01d03": {
+      "title": "Kamy- PDF and e-signature API for AI agents (now on Cursor Directory)",
+      "fetched_at": "2026-05-12T08:23:14.333981+00:00"
+    },
+    "3fe1ddb2920e2d5b": {
+      "title": "「八年貿易戰」後特朗普再訪華：打破舊平衡，還是重構新底線？",
+      "fetched_at": "2026-05-12T08:23:17.952569+00:00"
+    },
+    "1b0ce49d79862dab": {
+      "title": "「我帶登山客上了印尼火山，然後它爆發了」",
+      "fetched_at": "2026-05-12T08:23:18.565912+00:00"
+    },
+    "ac894a11f66e36a6": {
+      "title": "世界銀行前行長表示：中國應停止囤積糧食、化肥",
+      "fetched_at": "2026-05-12T08:23:19.180647+00:00"
+    },
+    "b5da5f1fc7bb3e2b": {
+      "title": "习近平或就对台军售问题向特朗普施压",
+      "fetched_at": "2026-05-12T08:23:19.879651+00:00"
+    },
+    "18227f61f39c1707": {
+      "title": "特習會如何為未來數年的兩大強權國家關係定調",
+      "fetched_at": "2026-05-12T08:23:20.499378+00:00"
+    },
+    "1d0b4d6d89cca5e8": {
+      "title": "中阿射电望远镜项目搁浅背后：当中美之争殃及南美星空",
+      "fetched_at": "2026-05-12T08:23:21.114643+00:00"
+    },
+    "2a9b603bd5b8753c": {
+      "title": "为什么中国人不像美国人那样惧怕人工智能",
+      "fetched_at": "2026-05-12T08:23:21.751499+00:00"
+    },
+    "4b6f79624d4ffcc1": {
+      "title": "特朗普访华在即，北京对经贸冲突升级风险严阵以待",
+      "fetched_at": "2026-05-12T08:23:22.371560+00:00"
+    },
+    "6f800a1c53c0428d": {
+      "title": "1万美元换情报：美国国会助理披露疑似中国间谍招募手法",
+      "fetched_at": "2026-05-12T08:23:22.988781+00:00"
+    },
+    "d8ef472cd14c1e5f": {
+      "title": "Stunning fossil discovery challenges the origins of animal life",
+      "fetched_at": "2026-05-12T08:23:30.225679+00:00"
+    },
+    "d74a44fed23e16f9": {
+      "title": "Scientists discover hidden chemical signature that could reveal alien life",
+      "fetched_at": "2026-05-12T08:23:30.843009+00:00"
+    },
+    "50fb45cbd9206e05": {
+      "title": "NASA’s Hubble reveals a giant chaotic planet nursery unlike anything seen before",
+      "fetched_at": "2026-05-12T08:23:31.471945+00:00"
+    },
+    "0a93b35ae3157f0e": {
+      "title": "Ancient Secrets",
+      "fetched_at": "2026-05-12T08:23:32.088772+00:00"
+    },
+    "3fb60c3bf2d39730": {
+      "title": "James Webb telescope reveals the clearest map ever of the Universe’s cosmic web",
+      "fetched_at": "2026-05-12T08:23:32.708549+00:00"
+    },
+    "5c2e8310e3e53801": {
+      "title": "Met Introduces Hi-Def 3D Scans of Dozens of Historical Art Objects",
+      "fetched_at": "2026-05-12T08:23:33.328331+00:00"
+    },
+    "a960c16cc89884b7": {
+      "title": "Surprise X-Ray Discovery May Explain Red Dots in Early Universe",
+      "fetched_at": "2026-05-12T08:23:33.958750+00:00"
+    },
+    "113f7750a27517ca": {
+      "title": "A supervolcano nearly wiped out humanity 74,000 years ago, but humans did something incredible",
+      "fetched_at": "2026-05-12T08:23:34.581133+00:00"
+    },
+    "3e31adaf3a7c3d89": {
+      "title": "Show Hacker News– Built a discovery tool for the public domain– seek feedback",
+      "fetched_at": "2026-05-12T08:23:35.263461+00:00"
+    },
+    "45ea407694ab85bd": {
+      "title": "Scientists put a tiny lump of metal in two places at once in record-breaking quantum experiment",
+      "fetched_at": "2026-05-12T08:23:35.888153+00:00"
+    },
+    "42caf91093f4a665": {
+      "title": "The Croupier – AI-powered candidate discovery and ranking for recruiting teams",
+      "fetched_at": "2026-05-12T08:23:36.776249+00:00"
+    },
+    "9b302fa51760b98e": {
+      "title": "Show HN: SSL certificate discovery from CT logs",
+      "fetched_at": "2026-05-12T08:23:37.400073+00:00"
+    },
+    "c4bd1552a70a08be": {
+      "title": "Universal Bug Discovery Algorithm",
+      "fetched_at": "2026-05-12T08:23:38.215102+00:00"
+    },
+    "d3ca3b0c2ec1a269": {
+      "title": "Running Shoes Have Evolved – From Ancient Greece to Record-Breaking Marathons",
+      "fetched_at": "2026-05-12T08:23:38.849298+00:00"
     }
   },
-  "last_updated": "2026-05-12T01:57:09.772011+00:00"
+  "last_updated": "2026-05-12T08:23:38.952501+00:00"
 }
