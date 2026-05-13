@@ -1,121 +1,5 @@
 {
   "articles": {
-    "56dcfdb113709693": {
-      "title": "欧盟官员：能源价格飙升推高欧盟通胀",
-      "fetched_at": "2026-05-05T07:52:37.186611+00:00"
-    },
-    "85ae6e86caaa938f": {
-      "title": "AI psychosis is real, and you probably have it",
-      "fetched_at": "2026-05-05T07:52:37.811362+00:00"
-    },
-    "1fafe5284d717c97": {
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "fetched_at": "2026-05-05T07:52:38.435686+00:00"
-    },
-    "60997d1734a34d76": {
-      "title": "RAG vs. Fine-Tuning: Which AI Strategy Saves Your Team Time and Budget",
-      "fetched_at": "2026-05-05T07:52:39.063869+00:00"
-    },
-    "8e9b29024c8dbbe3": {
-      "title": "Counting wires and insulators on poles using AI (using open-source Revdoku)",
-      "fetched_at": "2026-05-05T07:52:39.692017+00:00"
-    },
-    "0b2f6f443436fbce": {
-      "title": "汇丰控股：一季度收入同比增加6%至186亿美元",
-      "fetched_at": "2026-05-05T07:52:40.301646+00:00"
-    },
-    "d2845cb93f6364dc": {
-      "title": "Browser extension that hooks fetch() to track Claude.ai token usage",
-      "fetched_at": "2026-05-05T07:52:40.919035+00:00"
-    },
-    "53f11227bbb6f839": {
-      "title": "On-Device AI Coming to React Native with Gemma and React Native Executorch",
-      "fetched_at": "2026-05-05T07:52:41.540154+00:00"
-    },
-    "af98a749bf3514b5": {
-      "title": "五一假期全国铁路累计发送旅客超1亿人次",
-      "fetched_at": "2026-05-05T07:52:42.153532+00:00"
-    },
-    "13b02f14acd8c674": {
-      "title": "AI business and the issue of context drift",
-      "fetched_at": "2026-05-05T07:52:42.777626+00:00"
-    },
-    "6528c70fcd9a6ed9": {
-      "title": "AI is 'creating an enormous number of jobs'",
-      "fetched_at": "2026-05-05T07:52:43.395919+00:00"
-    },
-    "9df92ef5b4b515f1": {
-      "title": "80次出价成交较二级市场溢价超9% ST华谊0.06%股权由横琴天晟拍得",
-      "fetched_at": "2026-05-05T07:52:44.041297+00:00"
-    },
-    "3098efdc170159dc": {
-      "title": "华泰证券与印尼BNI启动战略合作",
-      "fetched_at": "2026-05-05T07:52:44.673804+00:00"
-    },
-    "46e2e573135f22f8": {
-      "title": "Cost of AI-Driven Development",
-      "fetched_at": "2026-05-05T07:52:45.303481+00:00"
-    },
-    "3704bcb168675d45": {
-      "title": "国药太极在研生物药司美格鲁肽亮相广交会开启全球招商",
-      "fetched_at": "2026-05-05T07:52:45.926110+00:00"
-    },
-    "275b70218003b1c9": {
-      "title": "Show HN: SongShift, an advanced, AI-powered song conversion service",
-      "fetched_at": "2026-05-05T07:52:46.580155+00:00"
-    },
-    "fbef30e72b0df3fb": {
-      "title": "OpenAI Raises $4B for 'The Deployment Company' to Help Businesses Leverage AI",
-      "fetched_at": "2026-05-05T07:52:47.206819+00:00"
-    },
-    "5f61a699528abb99": {
-      "title": "Show HN: Retroguard – Verifiably secure AI guardrails",
-      "fetched_at": "2026-05-05T07:52:47.858723+00:00"
-    },
-    "2a2520e5be2bb2cd": {
-      "title": "2026年五一档档期票房破7亿元",
-      "fetched_at": "2026-05-05T07:52:48.482897+00:00"
-    },
-    "f0a4e93cb74e369d": {
-      "title": "The week my AI assistant deleted my production model (and made it better)",
-      "fetched_at": "2026-05-05T07:52:49.107875+00:00"
-    },
-    "b0935488cef837a8": {
-      "title": "「房間裏的大象」——歐洲各國謀求團結，但特朗普「陰霾不散」",
-      "fetched_at": "2026-05-05T07:52:51.641917+00:00"
-    },
-    "5a99f3d095a10ed5": {
-      "title": "特朗普的霍爾木茲海峽「自由計劃」會如何保護船隻通行",
-      "fetched_at": "2026-05-05T07:52:52.251634+00:00"
-    },
-    "8f1a5023685c3712": {
-      "title": "什麼是AI蒸餾：一項關鍵技術為何成為美中科技競爭的新戰場",
-      "fetched_at": "2026-05-05T07:52:52.872847+00:00"
-    },
-    "50ff7023e263cb2b": {
-      "title": "吳宜澤斯諾克世錦賽奪冠，中國選手連續兩年問鼎",
-      "fetched_at": "2026-05-05T07:52:53.502506+00:00"
-    },
-    "07c58605fa72cd88": {
-      "title": "Open Source Lyrik: reproducing Mythos discovery findings for $0.75 on public API",
-      "fetched_at": "2026-05-05T07:52:55.119966+00:00"
-    },
-    "3e650178d6c1ac44": {
-      "title": "Why is event discovery still so fragmented?",
-      "fetched_at": "2026-05-05T07:52:55.732478+00:00"
-    },
-    "443a539c7e1b46ee": {
-      "title": "Mysterious green rocks in Pyrenees cave hint that prehistoric people were working copper there for 4,000 years",
-      "fetched_at": "2026-05-05T07:52:56.418277+00:00"
-    },
-    "42ea9f8d2be4a017": {
-      "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
-      "fetched_at": "2026-05-05T07:52:57.047476+00:00"
-    },
-    "734ac244bd373dc8": {
-      "title": "More ancient Linux device support faces the chop",
-      "fetched_at": "2026-05-05T07:52:57.776024+00:00"
-    },
     "c5695aa1fa478314": {
       "title": "What's Blocking AI from Going Beyond Chatbots?",
       "fetched_at": "2026-05-05T13:08:17.100846+00:00"
@@ -3759,7 +3643,139 @@
     "26b06af75f8bed63": {
       "title": "The da Vinci bloodline is unlocking the genius’s genetic secrets",
       "fetched_at": "2026-05-13T02:01:34.304168+00:00"
+    },
+    "2d7ac3c5beb0ac1a": {
+      "title": "日本三井住友金融集团第四财季净利润大增350%，全年业绩创历史新高",
+      "fetched_at": "2026-05-13T08:32:26.942340+00:00"
+    },
+    "4e3f52228ec67cbf": {
+      "title": "Scott Galloway: Sam Altman and Elon Musk Are Lying About AI [video]",
+      "fetched_at": "2026-05-13T08:32:27.576623+00:00"
+    },
+    "bb9a5ac0a8486bca": {
+      "title": "中国中车集团增资至约245.1亿",
+      "fetched_at": "2026-05-13T08:32:28.313179+00:00"
+    },
+    "3f2a3bdb6402a6a6": {
+      "title": "腾讯刘炽平：腾讯没有大裁员计划",
+      "fetched_at": "2026-05-13T08:32:28.955197+00:00"
+    },
+    "f14cf1261840f922": {
+      "title": "沙利文：百度一镜拿下数字人市场份额、产品实力双第一",
+      "fetched_at": "2026-05-13T08:32:29.601762+00:00"
+    },
+    "720adde2ac69b644": {
+      "title": "恒指收涨0.15%，恒生科技指数涨0.46%",
+      "fetched_at": "2026-05-13T08:32:30.220173+00:00"
+    },
+    "f1b7765e2f064185": {
+      "title": "中美在韩国举行经贸磋商",
+      "fetched_at": "2026-05-13T08:32:30.845711+00:00"
+    },
+    "e8b6e71d4791757b": {
+      "title": "西门子启动70亿美元新一轮股票回购计划",
+      "fetched_at": "2026-05-13T08:32:31.519452+00:00"
+    },
+    "54a71a13415aa873": {
+      "title": "泡泡玛特在天津成立新商贸公司，注册资本100万",
+      "fetched_at": "2026-05-13T08:32:32.134465+00:00"
+    },
+    "96364dc78c1ef2a9": {
+      "title": "Bun is being ported to Rust using Claude. Here's a code review using GPT",
+      "fetched_at": "2026-05-13T08:32:32.917867+00:00"
+    },
+    "d5170271b29fcef4": {
+      "title": "泰国财长称未来一到两年经济增长有望超过3%",
+      "fetched_at": "2026-05-13T08:32:33.682719+00:00"
+    },
+    "68ec219abb7cf1a3": {
+      "title": "机器人公司岚江科技扩建8000平米生产基地，整体产能翻倍",
+      "fetched_at": "2026-05-13T08:32:34.316275+00:00"
+    },
+    "81369b537e770a2a": {
+      "title": "Show HN: Recursant, a mesh-based control plane for AI agents",
+      "fetched_at": "2026-05-13T08:32:34.945372+00:00"
+    },
+    "23af9acba83dff9a": {
+      "title": "西贝在北京成立新餐饮文化公司",
+      "fetched_at": "2026-05-13T08:32:35.569287+00:00"
+    },
+    "d11a5798f5cb9658": {
+      "title": "软银因所持OpenAI股权增值，入账利润达120亿美元",
+      "fetched_at": "2026-05-13T08:32:36.206959+00:00"
+    },
+    "885c2cd83d3df2a8": {
+      "title": "中科曙光发布高端全闪存存储",
+      "fetched_at": "2026-05-13T08:32:36.848984+00:00"
+    },
+    "31d9f5b14ed644b0": {
+      "title": "林俊旸创业，新公司估值约20亿美金",
+      "fetched_at": "2026-05-13T08:32:37.478420+00:00"
+    },
+    "13d65b26d51b780b": {
+      "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
+      "fetched_at": "2026-05-13T08:32:38.101601+00:00"
+    },
+    "ac54011a38694041": {
+      "title": "邯郸市共享智造股权投资基金登记成立，出资额10亿",
+      "fetched_at": "2026-05-13T08:32:38.725277+00:00"
+    },
+    "b450dc2790b52823": {
+      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+      "fetched_at": "2026-05-13T08:32:39.335076+00:00"
+    },
+    "7b6d136e26050aab": {
+      "title": "特朗普再度訪華，直面更強勢崛起的中國",
+      "fetched_at": "2026-05-13T08:32:42.008007+00:00"
+    },
+    "06430e6c193168aa": {
+      "title": "歷任美國總統訪華：國事以外的時刻",
+      "fetched_at": "2026-05-13T08:32:42.632679+00:00"
+    },
+    "31502b86ee482f1e": {
+      "title": "被控充當中國代理人，美國加州阿卡迪亞市長認罪辭職",
+      "fetched_at": "2026-05-13T08:32:43.246447+00:00"
+    },
+    "b222948cd154472c": {
+      "title": "“习特会”前瞻：中美各有难题，会谈预期降低",
+      "fetched_at": "2026-05-13T08:32:43.869538+00:00"
+    },
+    "0383f65973d52eb8": {
+      "title": "加州阿卡迪亚市市长对充当中国代理人指控认罪",
+      "fetched_at": "2026-05-13T08:32:44.483484+00:00"
+    },
+    "aa585a180d02b933": {
+      "title": "黄仁勋“最后一刻”获邀随特朗普访华",
+      "fetched_at": "2026-05-13T08:32:45.183346+00:00"
+    },
+    "d69f854ad6599a0b": {
+      "title": "中国曾寻求获取Anthropic最新技术但遭拒绝",
+      "fetched_at": "2026-05-13T08:32:45.850398+00:00"
+    },
+    "0a6422c135597684": {
+      "title": "中国远没有表面上看起来强大，这才是问题所在",
+      "fetched_at": "2026-05-13T08:32:46.476690+00:00"
+    },
+    "d6db3e9089b7ffc0": {
+      "title": "中国寻求AI技术自主，削弱华盛顿制衡北京筹码",
+      "fetched_at": "2026-05-13T08:32:47.097983+00:00"
+    },
+    "1dde235f360525da": {
+      "title": "Estrogen in both the male and female brain shapes responses to trauma, study suggests",
+      "fetched_at": "2026-05-13T08:33:21.368656+00:00"
+    },
+    "47afbf118b417117": {
+      "title": "NASA just released 12,000 more Artemis II photos ‪—‬ here are a dozen of our favorites",
+      "fetched_at": "2026-05-13T08:33:21.980196+00:00"
+    },
+    "b831e4a60f3dcbd4": {
+      "title": "Kx Systems: A Historical Need for Speed (2020)",
+      "fetched_at": "2026-05-13T08:33:22.609311+00:00"
+    },
+    "6fa8175bc09498d8": {
+      "title": "Were Neanderthals Able to Hunt Elephants? The Proof Is in an Ancient Bone",
+      "fetched_at": "2026-05-13T08:33:23.227159+00:00"
     }
   },
-  "last_updated": "2026-05-13T02:01:34.409708+00:00"
+  "last_updated": "2026-05-13T08:33:23.329831+00:00"
 }
