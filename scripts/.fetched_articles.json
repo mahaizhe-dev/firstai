@@ -1,93 +1,5 @@
 {
   "articles": {
-    "c5695aa1fa478314": {
-      "title": "What's Blocking AI from Going Beyond Chatbots?",
-      "fetched_at": "2026-05-05T13:08:17.100846+00:00"
-    },
-    "db4e35e01e033456": {
-      "title": "BWVI – A CLI tool that gives AI agents structured design decision-making",
-      "fetched_at": "2026-05-05T13:08:17.836531+00:00"
-    },
-    "c7bf085fd41d6e87": {
-      "title": "Coinbase cuts 14% of its workforce, says AI is changing how work gets done",
-      "fetched_at": "2026-05-05T13:08:18.464436+00:00"
-    },
-    "0b16e1f03a03e43e": {
-      "title": "AI Product Graveyard",
-      "fetched_at": "2026-05-05T13:08:19.098897+00:00"
-    },
-    "2268c1dfbe39c8e9": {
-      "title": "A folder of Obsidian notes that's been my AI chief of staff for 7 weeks",
-      "fetched_at": "2026-05-05T13:08:19.720293+00:00"
-    },
-    "52fe1d84e7ec2ef1": {
-      "title": "Show HN: An AI generated, online art exhibition",
-      "fetched_at": "2026-05-05T13:08:20.354382+00:00"
-    },
-    "ee058b04a5db8c0f": {
-      "title": "Spawn and monitor swarms of local AI agents from an iPhone",
-      "fetched_at": "2026-05-05T13:08:20.970604+00:00"
-    },
-    "cfbddb7920c813d7": {
-      "title": "Tokentoll – Static analysis that catches LLM cost changes in code review",
-      "fetched_at": "2026-05-05T13:08:21.587538+00:00"
-    },
-    "76fa3626cccbe942": {
-      "title": "Opposition to AI Data Centers Is a 'Bipartisan Issue'",
-      "fetched_at": "2026-05-05T13:08:22.209661+00:00"
-    },
-    "77791d7165fcf7c1": {
-      "title": "How AI Works Under the Hood: LLMs Explained with Code",
-      "fetched_at": "2026-05-05T13:08:22.836771+00:00"
-    },
-    "81b66081886d3f9a": {
-      "title": "AI Agents Don't Sleep. That's the Problem.",
-      "fetched_at": "2026-05-05T13:08:23.459376+00:00"
-    },
-    "f06051289ed5eebe": {
-      "title": "Ask HN: Are you optimizing content for AI Search (GEO) vs. traditional",
-      "fetched_at": "2026-05-05T13:08:24.074211+00:00"
-    },
-    "e08e6be1efc22802": {
-      "title": "AI's Big Messaging Pivot",
-      "fetched_at": "2026-05-05T13:08:24.702548+00:00"
-    },
-    "db05b89495b15d57": {
-      "title": "AI data centers appear to be creating their own microclimates",
-      "fetched_at": "2026-05-05T13:08:25.333184+00:00"
-    },
-    "fb05483f3fb4abc3": {
-      "title": "Datapoint 2200: the machine laid the foundation for PC from Apple and IBM",
-      "fetched_at": "2026-05-05T13:08:25.952316+00:00"
-    },
-    "dba341a2c9e4f861": {
-      "title": "AI firms should face 'minimum wage for robots' to limit job cuts, says tech boss",
-      "fetched_at": "2026-05-05T13:08:26.589490+00:00"
-    },
-    "8fd2a35ba0df8487": {
-      "title": "New AI-Powered Age Assurance Measures [Meta]",
-      "fetched_at": "2026-05-05T13:08:27.200030+00:00"
-    },
-    "7d11c09e00962f21": {
-      "title": "Why ADHD Is the Cheat Code of the AI Era",
-      "fetched_at": "2026-05-05T13:08:27.809974+00:00"
-    },
-    "ff448a531ffaad54": {
-      "title": "Cerebras targets $26.6B valuation in US IPO as AI chip demand surges",
-      "fetched_at": "2026-05-05T13:08:28.469528+00:00"
-    },
-    "0eb4c45174c1ffa5": {
-      "title": "A bill banning AI companions for kids could usher in widespread ID checks online",
-      "fetched_at": "2026-05-05T13:08:29.098046+00:00"
-    },
-    "cdedee4d63337e5d": {
-      "title": "美國報告：中國東航空難肇因為燃料供應被切斷",
-      "fetched_at": "2026-05-05T13:08:32.016639+00:00"
-    },
-    "2df54ddf56b2cbaa": {
-      "title": "Canadian 'emoji' lake vanishes after dramatic, landslide-like collapse — Earth from space",
-      "fetched_at": "2026-05-05T13:08:39.733432+00:00"
-    },
     "c8c2094942cac86f": {
       "title": "Blackstone, KKR in Talks with Google to Bring AI Models to Portfolio Firms",
       "fetched_at": "2026-05-05T19:03:25.923430+00:00"
@@ -3775,7 +3687,131 @@
     "6fa8175bc09498d8": {
       "title": "Were Neanderthals Able to Hunt Elephants? The Proof Is in an Ancient Bone",
       "fetched_at": "2026-05-13T08:33:23.227159+00:00"
+    },
+    "bc071ed83caa1ea1": {
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "fetched_at": "2026-05-13T14:03:28.610110+00:00"
+    },
+    "710ac2aa267613f2": {
+      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+      "fetched_at": "2026-05-13T14:03:29.230382+00:00"
+    },
+    "44c4326fc295a7e3": {
+      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+      "fetched_at": "2026-05-13T14:03:29.852544+00:00"
+    },
+    "5c301500579e0ed6": {
+      "title": "Alexa is moving into Amazon.com",
+      "fetched_at": "2026-05-13T14:03:30.465570+00:00"
+    },
+    "8e17ca0323bb2c26": {
+      "title": "热门中概股美股盘前多数下跌，阿里巴巴跌超3%",
+      "fetched_at": "2026-05-13T14:03:31.085181+00:00"
+    },
+    "2802f60d7ef0e1fe": {
+      "title": "山东赫达：澄清实控人减持、质押及美国工厂等不实传闻",
+      "fetched_at": "2026-05-13T14:03:31.750201+00:00"
+    },
+    "940ba0779a5528ad": {
+      "title": "美股大型科技股盘前涨跌不一，美光科技涨超4%",
+      "fetched_at": "2026-05-13T14:03:32.543488+00:00"
+    },
+    "1f6a8460f81dda68": {
+      "title": "日本4月企业破产数达883家，同比增加6.6%",
+      "fetched_at": "2026-05-13T14:03:33.221718+00:00"
+    },
+    "5a71850298d42eb2": {
+      "title": "仁智股份：实控人筹划控制权变更事项，股票停牌",
+      "fetched_at": "2026-05-13T14:03:33.831460+00:00"
+    },
+    "ca601dc57953702b": {
+      "title": "快克智能：先进封装TCB热压键合设备正与几家客户推进打样验证工作 未形成收入",
+      "fetched_at": "2026-05-13T14:03:34.456352+00:00"
+    },
+    "c29925f67b40e86c": {
+      "title": "三七互娱：2026年第一季度拟每10股派现2.10元",
+      "fetched_at": "2026-05-13T14:03:35.073863+00:00"
+    },
+    "1c2db392e9b5e041": {
+      "title": "美国4月PPI同比增长6%，为2022年12月以来新高 超市场预期",
+      "fetched_at": "2026-05-13T14:03:35.980101+00:00"
+    },
+    "47c77e3609397ad4": {
+      "title": "截至4月30日累计有868款生成式人工智能服务完成备案",
+      "fetched_at": "2026-05-13T14:03:36.606251+00:00"
+    },
+    "cc37fc16e9844388": {
+      "title": "欧佩克将2026年全球经济增长预测维持在3.1%",
+      "fetched_at": "2026-05-13T14:03:37.227486+00:00"
+    },
+    "33e0d6ff0ff0126b": {
+      "title": "中国巨石：拟投资44.31亿元建设年产5万吨电子纱暨3.2亿米电子布生产线项目",
+      "fetched_at": "2026-05-13T14:03:37.836249+00:00"
+    },
+    "362fc27da9c16cb6": {
+      "title": "恩捷股份：终止购买中科华联100%股份事项",
+      "fetched_at": "2026-05-13T14:03:38.537557+00:00"
+    },
+    "f62968385665439f": {
+      "title": "德福科技：股东拓阵基金及其一致行动人拟合计减持不超3%股份",
+      "fetched_at": "2026-05-13T14:03:39.150032+00:00"
+    },
+    "89e5e2acc1814e7c": {
+      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+      "fetched_at": "2026-05-13T14:03:39.936982+00:00"
+    },
+    "cfb39c940bfea3f7": {
+      "title": "印度将黄金进口关税上调一倍以上",
+      "fetched_at": "2026-05-13T14:03:40.542403+00:00"
+    },
+    "205f1f5c92816bd7": {
+      "title": "佰维存储：重新递交H股发行上市申请",
+      "fetched_at": "2026-05-13T14:03:41.163900+00:00"
+    },
+    "1f707cd364686ddf": {
+      "title": "黃仁勳馬斯克等十餘位美國公司高管隨特朗普訪華",
+      "fetched_at": "2026-05-13T14:03:43.713877+00:00"
+    },
+    "3eb2b59aaea513a3": {
+      "title": "沈伯洋參選台北市長，其「獨派」色彩會否帶來外溢效應？",
+      "fetched_at": "2026-05-13T14:03:44.319984+00:00"
+    },
+    "ed376066d7a4e7d3": {
+      "title": "特朗普訪華前夕 台灣立法院通過「閹割版」對美軍購案背後的內外角力",
+      "fetched_at": "2026-05-13T14:03:44.955334+00:00"
+    },
+    "b0935488cef837a8": {
+      "title": "「房間裏的大象」——歐洲各國謀求團結，但特朗普「陰霾不散」",
+      "fetched_at": "2026-05-13T14:03:45.584019+00:00"
+    },
+    "8f1a5023685c3712": {
+      "title": "什麼是AI蒸餾：一項關鍵技術為何成為美中科技競爭的新戰場",
+      "fetched_at": "2026-05-13T14:03:46.200414+00:00"
+    },
+    "cfceaf5308210417": {
+      "title": "Diagnostic dilemma: An infant's brown eyes turned indigo after COVID antiviral treatment",
+      "fetched_at": "2026-05-13T14:03:47.735855+00:00"
+    },
+    "a8c191a9ee3aa120": {
+      "title": "AI self-replication hacks 'no longer purely theoretical,' study finds —‬ ‪but experts say it's too soon to panic",
+      "fetched_at": "2026-05-13T14:03:48.370483+00:00"
+    },
+    "39e5712402510477": {
+      "title": "New 'trick' fixes major flaw with lasers in neutral-atom quantum computers — inching us closer to more powerful systems",
+      "fetched_at": "2026-05-13T14:03:49.050518+00:00"
+    },
+    "d58e0dfb9259638e": {
+      "title": "Hantavirus updates: American doctor on cruise speaks out from quarantine; unrelated potential case appears in Illinois",
+      "fetched_at": "2026-05-13T14:03:49.679518+00:00"
+    },
+    "443a539c7e1b46ee": {
+      "title": "Mysterious green rocks in Pyrenees cave hint that prehistoric people were working copper there for 4,000 years",
+      "fetched_at": "2026-05-13T14:03:50.302289+00:00"
+    },
+    "42ea9f8d2be4a017": {
+      "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
+      "fetched_at": "2026-05-13T14:03:50.924726+00:00"
     }
   },
-  "last_updated": "2026-05-13T08:33:23.329831+00:00"
+  "last_updated": "2026-05-13T14:03:51.034706+00:00"
 }
