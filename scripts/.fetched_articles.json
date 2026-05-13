@@ -1,97 +1,5 @@
 {
   "articles": {
-    "c8c2094942cac86f": {
-      "title": "Blackstone, KKR in Talks with Google to Bring AI Models to Portfolio Firms",
-      "fetched_at": "2026-05-05T19:03:25.923430+00:00"
-    },
-    "77c9d00ddbb85439": {
-      "title": "Stop trying to review AI's code faster: bet on rollback instead",
-      "fetched_at": "2026-05-05T19:03:26.535571+00:00"
-    },
-    "8f221466f413f1c2": {
-      "title": "The AI Cost of Admission",
-      "fetched_at": "2026-05-05T19:03:27.158405+00:00"
-    },
-    "dc1f2905d2ad677f": {
-      "title": "Show HN: AHD – an open-source linter and eval framework for AI-generated UI",
-      "fetched_at": "2026-05-05T19:03:27.759929+00:00"
-    },
-    "8c22bba39cefd313": {
-      "title": "A Theory of Generalization in Deep Learning",
-      "fetched_at": "2026-05-05T19:03:28.361727+00:00"
-    },
-    "0f017987bff6fe8c": {
-      "title": "Math long resisted a digital disruption. AI is poised to change that",
-      "fetched_at": "2026-05-05T19:03:28.984051+00:00"
-    },
-    "5ebb4a9c740332b3": {
-      "title": "UNIMATRIx – A Society of AI Agents",
-      "fetched_at": "2026-05-05T19:03:29.595226+00:00"
-    },
-    "4586d6997f35b560": {
-      "title": "US Government Expands Vetting of Frontier AI Models for Security Risks",
-      "fetched_at": "2026-05-05T19:03:30.204628+00:00"
-    },
-    "7c38611e2604ddcb": {
-      "title": "Show HN: AI-DLC-UML (AI-Driven Development Life Cycle with UML Modeling)",
-      "fetched_at": "2026-05-05T19:03:30.818029+00:00"
-    },
-    "755b1af6cccc3c3e": {
-      "title": "AI Generated Content Broke the Social Contract",
-      "fetched_at": "2026-05-05T19:03:31.437441+00:00"
-    },
-    "5899b9dc6f2c995f": {
-      "title": "Coinbase cuts headcount by 14% citing AI acceleration",
-      "fetched_at": "2026-05-05T19:03:32.063890+00:00"
-    },
-    "1a15bf2ad46b17df": {
-      "title": "US moves further into AI oversight, will test Google, Microsoft and xAI models",
-      "fetched_at": "2026-05-05T19:03:32.744651+00:00"
-    },
-    "66f556d20df37766": {
-      "title": "SubQ: Sub-quadratic LLM built for 12M-token context",
-      "fetched_at": "2026-05-05T19:03:33.362886+00:00"
-    },
-    "c924bc251be9967a": {
-      "title": "Embodied AI with Claude, Raspberry Pi and Arduino",
-      "fetched_at": "2026-05-05T19:03:33.980456+00:00"
-    },
-    "35701edbccec989f": {
-      "title": "Ask HN: Is there a term for feeling sad about forced AI adoption?",
-      "fetched_at": "2026-05-05T19:03:34.587983+00:00"
-    },
-    "32136dbf6efcf4f0": {
-      "title": "Ask HN: Should I continue this project ? (Being able to change AI harness)",
-      "fetched_at": "2026-05-05T19:03:35.217728+00:00"
-    },
-    "3522dab42f336f79": {
-      "title": "Show HN: AgentSearch-Self-hosted search API for AI agents and optional Tor stack",
-      "fetched_at": "2026-05-05T19:03:35.832794+00:00"
-    },
-    "e537fd943c0554d7": {
-      "title": "ServiceNow just unveiled an AI workforce that can run your company",
-      "fetched_at": "2026-05-05T19:03:36.481123+00:00"
-    },
-    "8fc1102083c5957e": {
-      "title": "U.S. ramps up frontier AI testing as White House pivots toward safety",
-      "fetched_at": "2026-05-05T19:03:37.105541+00:00"
-    },
-    "8f16f7361c828459": {
-      "title": "Apple to let users choose rival AI models across iOS 27 features",
-      "fetched_at": "2026-05-05T19:03:37.718798+00:00"
-    },
-    "665b65f31b5fdcb4": {
-      "title": "Infants from Roman York Buried in Rare Purple Textiles",
-      "fetched_at": "2026-05-05T19:03:42.050098+00:00"
-    },
-    "811ee1beb09ae450": {
-      "title": "'I was not looking for this': Scientist accidentally finds shortcut to Mars that could slash travel time in half",
-      "fetched_at": "2026-05-05T19:03:42.671646+00:00"
-    },
-    "f675a39d7157beee": {
-      "title": "Why Ancient Egyptian Honey Remains Edible After 3k Years",
-      "fetched_at": "2026-05-05T19:03:43.304230+00:00"
-    },
     "32df71c3b560470b": {
       "title": "科创50指数涨超7%",
       "fetched_at": "2026-05-06T01:48:27.518611+00:00"
@@ -3811,7 +3719,147 @@
     "42ea9f8d2be4a017": {
       "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
       "fetched_at": "2026-05-13T14:03:50.924726+00:00"
+    },
+    "addecd08462d491f": {
+      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "fetched_at": "2026-05-13T19:29:19.553106+00:00"
+    },
+    "4a15a7b7f8c66bbf": {
+      "title": "AI-Powered File Organization Breaks Barriers with Natural Language Control",
+      "fetched_at": "2026-05-13T19:29:20.171326+00:00"
+    },
+    "046684da39093c7d": {
+      "title": "Show HN: Ravan – Free streaming for AI-generated instrumental music",
+      "fetched_at": "2026-05-13T19:29:20.785658+00:00"
+    },
+    "bbd40bb10ab21a4d": {
+      "title": "EditLens: Quantifying the extent of AI editing in text",
+      "fetched_at": "2026-05-13T19:29:21.405824+00:00"
+    },
+    "719907711c20383a": {
+      "title": "What drawing lines on football pitch taught me about future of human-AI collab",
+      "fetched_at": "2026-05-13T19:29:22.082137+00:00"
+    },
+    "90dd65ebf893aa48": {
+      "title": "Red Hat's skill packs give AI agents 20 years of institutional memory",
+      "fetched_at": "2026-05-13T19:29:22.701567+00:00"
+    },
+    "4c2cc689e342544d": {
+      "title": "Reading the Gerlich AI/critical thinking paper more closely",
+      "fetched_at": "2026-05-13T19:29:23.313386+00:00"
+    },
+    "fda187bfaf2dafaa": {
+      "title": "Scanread.ai – Free OCR for images, PDFs, and handwriting in 100 languages",
+      "fetched_at": "2026-05-13T19:29:23.936271+00:00"
+    },
+    "00cda7ead9f6c187": {
+      "title": "Build a Basic AI Agent from Scratch",
+      "fetched_at": "2026-05-13T19:29:24.573097+00:00"
+    },
+    "6d4f06025468d7c4": {
+      "title": "Tinyhumansai/openhuman: Your Personal AI super intelligence",
+      "fetched_at": "2026-05-13T19:29:25.195456+00:00"
+    },
+    "4aac3cfed8a8826b": {
+      "title": "Apple Working on Plan to Allow AI Agent Apps on the App Store",
+      "fetched_at": "2026-05-13T19:29:25.816915+00:00"
+    },
+    "98b25287554b1842": {
+      "title": "Why People Hate AI-Generated Text (and How to Fix It)",
+      "fetched_at": "2026-05-13T19:29:26.431287+00:00"
+    },
+    "982346db091e46d6": {
+      "title": "AI layoffs are here. This is how you keep your job. [video][6 mins]",
+      "fetched_at": "2026-05-13T19:29:27.043390+00:00"
+    },
+    "3df1b24fe5a1fb11": {
+      "title": "Arborium is AI slopware and should not be trusted",
+      "fetched_at": "2026-05-13T19:29:27.657826+00:00"
+    },
+    "9743566b6641a55e": {
+      "title": "Predicting Rare LLM Failures with 30× Fewer Rollouts",
+      "fetched_at": "2026-05-13T19:29:28.363107+00:00"
+    },
+    "6a0fa163e1c74548": {
+      "title": "Stalin.ai · Glorious Workforce Optimization Engine",
+      "fetched_at": "2026-05-13T19:29:28.988479+00:00"
+    },
+    "5237f7f186c841c0": {
+      "title": "Free Patronus – On-device firewall to monitor and control AI traffic",
+      "fetched_at": "2026-05-13T19:29:29.600743+00:00"
+    },
+    "02ec1ce8e97a645e": {
+      "title": "Show HN: Truly Typed – A writing app for the AI era",
+      "fetched_at": "2026-05-13T19:29:30.408294+00:00"
+    },
+    "6b40609d2be6263b": {
+      "title": "World Models: Things That Matter in AI",
+      "fetched_at": "2026-05-13T19:29:31.022996+00:00"
+    },
+    "6fd2902ab68c3cdf": {
+      "title": "AI Engineer Talks",
+      "fetched_at": "2026-05-13T19:29:31.656438+00:00"
+    },
+    "8ff714c8f4ec88bf": {
+      "title": "Why Was the Discovery of the Jet Stream Mostly Ignored? (2018)",
+      "fetched_at": "2026-05-13T19:29:36.073293+00:00"
+    },
+    "c0dca2e95ace075b": {
+      "title": "SpaceX prepares to launch next-generation Starship, the tallest and most powerful rocket ever built",
+      "fetched_at": "2026-05-13T19:29:36.694636+00:00"
+    },
+    "1294d1fba342a7b6": {
+      "title": "'We're less prepared for contagious pathogens': The US has degraded its ability to track and squash outbreaks, Emory epidemiologist says",
+      "fetched_at": "2026-05-13T19:29:37.314141+00:00"
+    },
+    "6431cb5ea03de486": {
+      "title": "'Exceptional' drilled tooth reveals Neanderthals practiced dentistry in Siberia 60,000 years ago",
+      "fetched_at": "2026-05-13T19:29:37.937907+00:00"
+    },
+    "b054b8b03748d407": {
+      "title": "Early Gold Dental Bridge Examined",
+      "fetched_at": "2026-05-13T19:29:38.562425+00:00"
+    },
+    "5efb703b1f701840": {
+      "title": "Exascale Training of Generative Model with Historical Priors for Data Reduction",
+      "fetched_at": "2026-05-13T19:29:39.228664+00:00"
+    },
+    "f03bfc81f2818c5d": {
+      "title": "The Milky Way ate a galaxy called Loki, and scientists think they found its bones",
+      "fetched_at": "2026-05-13T19:29:39.855951+00:00"
+    },
+    "9fba0df8c6069792": {
+      "title": "Ceremonial Structures Investigated at Peru’s Cerro de la Horca",
+      "fetched_at": "2026-05-13T19:29:40.475255+00:00"
+    },
+    "d0372a4461472c8e": {
+      "title": "Pollution may fuel depression, anxiety and other mental health problems, emerging research suggests",
+      "fetched_at": "2026-05-13T19:29:41.098175+00:00"
+    },
+    "7d64d3ee42fcab18": {
+      "title": "Sony FE 200-600mm f/5.6-6.3 G OSS review",
+      "fetched_at": "2026-05-13T19:29:41.712029+00:00"
+    },
+    "3fcfc7adb676c660": {
+      "title": "Homo erectus genetic material sequenced for the first time, and it shows 'deep genetic links' with modern humans",
+      "fetched_at": "2026-05-13T19:29:42.321813+00:00"
+    },
+    "d338c337f4904e3a": {
+      "title": "Tracking historical progress against slavery and forced labor",
+      "fetched_at": "2026-05-13T19:29:42.940211+00:00"
+    },
+    "e186d6e23da117e5": {
+      "title": "Scientists finally solve the 100-year mystery behind tough tires",
+      "fetched_at": "2026-05-13T19:29:43.545963+00:00"
+    },
+    "1d3b7a30449f9721": {
+      "title": "Halley’s comet may be named after the wrong person",
+      "fetched_at": "2026-05-13T19:29:44.186036+00:00"
+    },
+    "3ee39b8119e438bd": {
+      "title": "Humans returned to Britain 500 years earlier than scientists thought after the last ice age",
+      "fetched_at": "2026-05-13T19:29:44.833845+00:00"
     }
   },
-  "last_updated": "2026-05-13T14:03:51.034706+00:00"
+  "last_updated": "2026-05-13T19:29:44.982504+00:00"
 }
