@@ -1,109 +1,5 @@
 {
   "articles": {
-    "148f7e1c6e8a297b": {
-      "title": "剂泰科技寻求通过香港IPO募资21.1亿港元",
-      "fetched_at": "2026-05-05T01:49:21.137665+00:00"
-    },
-    "60b8f35dfae7a705": {
-      "title": "Show HN: A tiny C program where an LLM rewires its DAG while running",
-      "fetched_at": "2026-05-05T01:49:21.739592+00:00"
-    },
-    "75562e7dc0945166": {
-      "title": "Ctx – Persistent Memory for Claude Code, Cursor, and AI Coding Tools",
-      "fetched_at": "2026-05-05T01:49:22.321062+00:00"
-    },
-    "23e761061dfc1578": {
-      "title": "The em dashes ( –) – The unsaid AI SLOP Tax",
-      "fetched_at": "2026-05-05T01:49:22.895314+00:00"
-    },
-    "6aa7f63277ca7049": {
-      "title": "Blink – AI Assistant. A Knowledge Destination",
-      "fetched_at": "2026-05-05T01:49:23.482302+00:00"
-    },
-    "ff5f0eea97548708": {
-      "title": "马斯克就推特持股披露诉讼与美证监会达成和解",
-      "fetched_at": "2026-05-05T01:49:24.063942+00:00"
-    },
-    "a2ba0b7c46837fe0": {
-      "title": "AI Companies Learn the Word No",
-      "fetched_at": "2026-05-05T01:49:24.647950+00:00"
-    },
-    "b56e6a8347281ba9": {
-      "title": "An imperative language for AI workload orchestration: Terradev CLI v4.0.11",
-      "fetched_at": "2026-05-05T01:49:25.221165+00:00"
-    },
-    "983ab340fd8d614c": {
-      "title": "抖音集团副总裁：网传所谓红果短剧收费的消息不实",
-      "fetched_at": "2026-05-05T01:49:25.801549+00:00"
-    },
-    "ce04a7de88151513": {
-      "title": "White House may vet new AI models before public release",
-      "fetched_at": "2026-05-05T01:49:26.385124+00:00"
-    },
-    "3989b896ddc7f590": {
-      "title": "Anthropic and FIS Are Building an AI Agent to Help Banks Police Financial Crimes",
-      "fetched_at": "2026-05-05T01:49:26.963598+00:00"
-    },
-    "84f1114f9e3e1579": {
-      "title": "AgentShield – spending firewall for AI agents",
-      "fetched_at": "2026-05-05T01:49:27.545808+00:00"
-    },
-    "9e1344472174489e": {
-      "title": "Stripped an AI agent down to a bash loop – No Framework",
-      "fetched_at": "2026-05-05T01:49:28.126913+00:00"
-    },
-    "fbfab49cee98fc9f": {
-      "title": "Why AI rarely says \"I don't know\"",
-      "fetched_at": "2026-05-05T01:49:28.712229+00:00"
-    },
-    "dcaec4170d437283": {
-      "title": "8Veda – AI-powered news intelligence. Bias-indexed. Neutral",
-      "fetched_at": "2026-05-05T01:49:29.309877+00:00"
-    },
-    "b8ff3e72610b7518": {
-      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-      "fetched_at": "2026-05-05T01:49:29.884869+00:00"
-    },
-    "0f6d79fa60892749": {
-      "title": "Ask HN: Where are you getting your AI news from?",
-      "fetched_at": "2026-05-05T01:49:30.479291+00:00"
-    },
-    "4fc8880cff4e4b33": {
-      "title": "Powerful AI finds 100 hidden planets in NASA data including extreme worlds",
-      "fetched_at": "2026-05-05T01:49:31.093142+00:00"
-    },
-    "9e4fbb8a45ac9dc5": {
-      "title": "Show HN: AI that responds in Star Wars crawl style",
-      "fetched_at": "2026-05-05T01:49:31.677914+00:00"
-    },
-    "498b32abe4bc2716": {
-      "title": "HyperFrames lets AI agents compose videos by writing HTML, CSS and JavaScript",
-      "fetched_at": "2026-05-05T01:49:32.253459+00:00"
-    },
-    "d12b4b13c9d1279d": {
-      "title": "香港後國安法時代：當大學不再是「保護傘」，夾縫中的學生還能做什麼？",
-      "fetched_at": "2026-05-05T01:49:34.827540+00:00"
-    },
-    "0b19a991478ef207": {
-      "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
-      "fetched_at": "2026-05-05T01:49:35.489681+00:00"
-    },
-    "1dde235f360525da": {
-      "title": "Estrogen in both the male and female brain shapes responses to trauma, study suggests",
-      "fetched_at": "2026-05-05T01:49:38.505898+00:00"
-    },
-    "47afbf118b417117": {
-      "title": "NASA just released 12,000 more Artemis II photos ‪—‬ here are a dozen of our favorites",
-      "fetched_at": "2026-05-05T01:49:39.087703+00:00"
-    },
-    "b9cb9c0f9c14573b": {
-      "title": "U.S. Repatriates Looted Objects to India",
-      "fetched_at": "2026-05-05T01:49:39.661006+00:00"
-    },
-    "f483a5b2e6934bdd": {
-      "title": "Las Playas Intaglio Damaged by Border Wall Construction in Arizona",
-      "fetched_at": "2026-05-05T01:49:40.242455+00:00"
-    },
     "56dcfdb113709693": {
       "title": "欧盟官员：能源价格飙升推高欧盟通胀",
       "fetched_at": "2026-05-05T07:52:37.186611+00:00"
@@ -3743,7 +3639,127 @@
     "de2d11eafc96049a": {
       "title": "Shimmering silver 'sunglint' obscures Hawaii as hurricane approaches — Earth from space",
       "fetched_at": "2026-05-12T19:27:10.239523+00:00"
+    },
+    "08397fd732836f8f": {
+      "title": "前4个月粤港澳大湾区内地9市外贸连续保持两位数增长",
+      "fetched_at": "2026-05-13T02:01:12.285387+00:00"
+    },
+    "bfec7723293e4b0f": {
+      "title": "李彦宏：“自我进化”包含智能体、人类个体、企业组织的自我进化",
+      "fetched_at": "2026-05-13T02:01:12.909898+00:00"
+    },
+    "5f77d5c6849dc2d8": {
+      "title": "宇树科技已注册多款机器人商标",
+      "fetched_at": "2026-05-13T02:01:13.547561+00:00"
+    },
+    "3e850b725bb08f7b": {
+      "title": "TikTok在印尼、美国、日本三国官宣生活服务品牌TikTok GO",
+      "fetched_at": "2026-05-13T02:01:14.187557+00:00"
+    },
+    "d70934c52513bb48": {
+      "title": "Revisiting \"No Silver Bullets\" in the Age of AI",
+      "fetched_at": "2026-05-13T02:01:14.828307+00:00"
+    },
+    "9f09e691f6b77e60": {
+      "title": "沪深两市成交额突破5000亿元",
+      "fetched_at": "2026-05-13T02:01:15.449443+00:00"
+    },
+    "ad5e3e7364e2ab1d": {
+      "title": "Ask HN: Is your kids Alexa now have conversational AI?",
+      "fetched_at": "2026-05-13T02:01:16.069628+00:00"
+    },
+    "fecdcd1c1516f4f7": {
+      "title": "36氪专访 | 安克创新eufy Make负责人：众筹超4000万美金后，还在红海寻找缝隙",
+      "fetched_at": "2026-05-13T02:01:16.731002+00:00"
+    },
+    "7a34990763d43dd8": {
+      "title": "AI agents can self-replicate. Who is building for the human side?",
+      "fetched_at": "2026-05-13T02:01:17.351285+00:00"
+    },
+    "aebb5aee211219f0": {
+      "title": "A股三大指数集体低开，半导体板块领跌",
+      "fetched_at": "2026-05-13T02:01:17.972901+00:00"
+    },
+    "e4a166861253e548": {
+      "title": "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构",
+      "fetched_at": "2026-05-13T02:01:18.700161+00:00"
+    },
+    "48653678235b3373": {
+      "title": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+      "fetched_at": "2026-05-13T02:01:19.332563+00:00"
+    },
+    "7cb0ce759671864d": {
+      "title": "How AI Killed a 133-Year-Old Princeton Tradition",
+      "fetched_at": "2026-05-13T02:01:20.016506+00:00"
+    },
+    "02ccd213a08a3f20": {
+      "title": "央行今日开展5亿元7天逆回购操作",
+      "fetched_at": "2026-05-13T02:01:20.693705+00:00"
+    },
+    "21807779d935f962": {
+      "title": "恒指开盘涨0.08%，恒生科技指数跌0.3%",
+      "fetched_at": "2026-05-13T02:01:21.306351+00:00"
+    },
+    "9cb120752361a626": {
+      "title": "The New York Times Got Caught Using AI Hallucinations in Its Reporting",
+      "fetched_at": "2026-05-13T02:01:21.939691+00:00"
+    },
+    "6b4ccfd08ae840d0": {
+      "title": "人民币兑美元中间价报6.8431",
+      "fetched_at": "2026-05-13T02:01:22.567308+00:00"
+    },
+    "f8d1fe6bdf82df8c": {
+      "title": "Sensor Tower收购AppMagic",
+      "fetched_at": "2026-05-13T02:01:23.300616+00:00"
+    },
+    "9a66d4fb855e056d": {
+      "title": "Atlas: An LLM inference engine written from scratch in Rust and CUDA",
+      "fetched_at": "2026-05-13T02:01:23.927594+00:00"
+    },
+    "1dfb44f56dcad5a0": {
+      "title": "AI shouldn't have a meter. Unlimited tokens. Forever",
+      "fetched_at": "2026-05-13T02:01:24.570423+00:00"
+    },
+    "4c62cd344a053da4": {
+      "title": "BBC調查：患癌兒童被利用眾籌數百萬美元，但從未獲得治療善款",
+      "fetched_at": "2026-05-13T02:01:27.271137+00:00"
+    },
+    "e2e1b84136d79159": {
+      "title": "109年前的「聖母顯靈」預言了蘇聯解體？葡萄牙小鎮法蒂瑪成為天主教聖地的故事",
+      "fetched_at": "2026-05-13T02:01:27.941173+00:00"
+    },
+    "496e1098c3020dda": {
+      "title": "中国愈发将特朗普治下的美国视为一个衰落的帝国",
+      "fetched_at": "2026-05-13T02:01:28.569984+00:00"
+    },
+    "fc72a84a90c31454": {
+      "title": "A rare cancer-fighting plant compound has been decoded",
+      "fetched_at": "2026-05-13T02:01:30.504444+00:00"
+    },
+    "9e80c82a0cdf6857": {
+      "title": "Scientists discover a weak spot shared by polio and common cold viruses",
+      "fetched_at": "2026-05-13T02:01:31.150017+00:00"
+    },
+    "1d7bd5e9e2bf3bbd": {
+      "title": "New drugs could wipe out the “zombie cells” linked to cancer and aging",
+      "fetched_at": "2026-05-13T02:01:31.762995+00:00"
+    },
+    "6c29de6da52ffce7": {
+      "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
+      "fetched_at": "2026-05-13T02:01:32.373248+00:00"
+    },
+    "e2d6db70d7a89db7": {
+      "title": "Hantavirus outbreaks could become more likely as virus-carrying rodents expand their range, model finds",
+      "fetched_at": "2026-05-13T02:01:33.026916+00:00"
+    },
+    "0f7fc58f10367652": {
+      "title": "This simple amino acid supplement greatly reduces Alzheimer’s damage",
+      "fetched_at": "2026-05-13T02:01:33.692523+00:00"
+    },
+    "26b06af75f8bed63": {
+      "title": "The da Vinci bloodline is unlocking the genius’s genetic secrets",
+      "fetched_at": "2026-05-13T02:01:34.304168+00:00"
     }
   },
-  "last_updated": "2026-05-12T19:27:10.346145+00:00"
+  "last_updated": "2026-05-13T02:01:34.409708+00:00"
 }
