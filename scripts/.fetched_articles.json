@@ -1,133 +1,5 @@
 {
   "articles": {
-    "844e998ad0bb85de": {
-      "title": "How AI agent memory works",
-      "fetched_at": "2026-05-06T19:19:49.447584+00:00"
-    },
-    "f90a01f75fd6e3e9": {
-      "title": "Ascynd – AI video clipper that runs on your machine",
-      "fetched_at": "2026-05-06T19:19:50.071597+00:00"
-    },
-    "0b0ef81955881103": {
-      "title": "Learning the Integral of a Diffusion Model",
-      "fetched_at": "2026-05-06T19:19:50.704178+00:00"
-    },
-    "50fb9dd4c284c333": {
-      "title": "Brian's Misunderstanding of Management in a World Rapidly Adopting AI",
-      "fetched_at": "2026-05-06T19:19:51.332105+00:00"
-    },
-    "24f0de99217db9b0": {
-      "title": "Invesco Says Big Tech Needs 'Every Dollar' It Can Get in AI Debt",
-      "fetched_at": "2026-05-06T19:19:51.947026+00:00"
-    },
-    "0fe2069ac7d5aca7": {
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "fetched_at": "2026-05-06T19:19:52.564292+00:00"
-    },
-    "401e8f4eff1945d1": {
-      "title": "Time to add option in Hacker News \"AI excluded Show HN\"",
-      "fetched_at": "2026-05-06T19:19:53.188955+00:00"
-    },
-    "e3875db46dbe6e7f": {
-      "title": "ArcKit – The Agentic AI Architecture Governance for Governments",
-      "fetched_at": "2026-05-06T19:19:53.810155+00:00"
-    },
-    "a6ed906e58288d62": {
-      "title": "A Grand Challenge for Reliable Coding in the Age of AI Agents",
-      "fetched_at": "2026-05-06T19:19:54.574703+00:00"
-    },
-    "586f3b2e8069ebe3": {
-      "title": "Andy Jassy says Amazon investors will be rewarded by all its AI spending",
-      "fetched_at": "2026-05-06T19:19:55.193813+00:00"
-    },
-    "69c77bc55e2509bc": {
-      "title": "New Airbyte Agents: Cleaning Up Messy Data for AI Agents",
-      "fetched_at": "2026-05-06T19:19:55.820997+00:00"
-    },
-    "f5417edc3a2ec0e4": {
-      "title": "Democrats want affordability debate on AI Critics say they're ducking real fight",
-      "fetched_at": "2026-05-06T19:19:56.441658+00:00"
-    },
-    "39ccada8dca2590e": {
-      "title": "Core vs. Non-Core Work in the Age of AI",
-      "fetched_at": "2026-05-06T19:19:57.068786+00:00"
-    },
-    "137fcd158a79e5b3": {
-      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
-      "fetched_at": "2026-05-06T19:19:57.703025+00:00"
-    },
-    "f1ca114792321ba3": {
-      "title": "Nvidia Spectrum-X MRC Is the Custom RDMA Transport Protocol for Gigascale AI",
-      "fetched_at": "2026-05-06T19:19:58.326915+00:00"
-    },
-    "52b9cdbc8548eea2": {
-      "title": "Doctors' growing AI deepfakes problem",
-      "fetched_at": "2026-05-06T19:19:58.945155+00:00"
-    },
-    "33e66e29ed3cd968": {
-      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-      "fetched_at": "2026-05-06T19:19:59.574812+00:00"
-    },
-    "15a9572273d0a667": {
-      "title": "The April every AI plan broke",
-      "fetched_at": "2026-05-06T19:20:00.190761+00:00"
-    },
-    "3d1621f3ab92157a": {
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "fetched_at": "2026-05-06T19:20:00.817595+00:00"
-    },
-    "fa7171e57bdc8b86": {
-      "title": "Show HN: Upskill – skill to find skills for your AI agents",
-      "fetched_at": "2026-05-06T19:20:01.445150+00:00"
-    },
-    "44c72d4e47f2790a": {
-      "title": "The night sky could get three times brighter as new satellites launch — all but ruining the Vera C. Rubin Observatory's survey of the universe",
-      "fetched_at": "2026-05-06T19:20:39.892487+00:00"
-    },
-    "2527d73c419cfb19": {
-      "title": "The brain's memory center doesn't start as a blank slate, study suggests",
-      "fetched_at": "2026-05-06T19:20:40.595339+00:00"
-    },
-    "b70e64e0f3749e7e": {
-      "title": "Ancient Culture Mastered Flooring Technique Millennia Before the Romans",
-      "fetched_at": "2026-05-06T19:20:41.292608+00:00"
-    },
-    "2fe1892ccc5518a2": {
-      "title": "DNA Reveals Rare Anglo-Saxon Double Burial Belonged to Brother and Sister",
-      "fetched_at": "2026-05-06T19:20:41.964664+00:00"
-    },
-    "dfdc74e871e944bc": {
-      "title": "Agent Exchange – A2A discovery with real-time bidding for AI agents",
-      "fetched_at": "2026-05-06T19:20:42.596593+00:00"
-    },
-    "5d78616b2413cc0d": {
-      "title": "Quantum battery charges in a quadrillionth of a second with a laser — larger prototypes could last for years after charging for just a minute",
-      "fetched_at": "2026-05-06T19:20:43.222956+00:00"
-    },
-    "dfa4c51c078db653": {
-      "title": "Your dreams aren’t random. Here’s what’s really happening",
-      "fetched_at": "2026-05-06T19:20:43.862804+00:00"
-    },
-    "ac6a9a061047085b": {
-      "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
-      "fetched_at": "2026-05-06T19:20:44.498527+00:00"
-    },
-    "d3731120db7111d9": {
-      "title": "Vitamin D boosts breast cancer treatment success by 79%",
-      "fetched_at": "2026-05-06T19:20:45.179168+00:00"
-    },
-    "caa4e307dd490817": {
-      "title": "Scientists capture electrons forming strange patchy patterns inside quantum materials",
-      "fetched_at": "2026-05-06T19:20:45.951011+00:00"
-    },
-    "19868ec32b659fdc": {
-      "title": "Scientists discover enzyme that could supercharge Ozempic",
-      "fetched_at": "2026-05-06T19:20:46.581789+00:00"
-    },
-    "3ed8cc122b6be5b8": {
-      "title": "Maya collapse mystery deepens as scientists find no drought at key site",
-      "fetched_at": "2026-05-06T19:20:47.221425+00:00"
-    },
     "5ba226fabe7b25f0": {
       "title": "现货白银日内涨幅扩大至1%",
       "fetched_at": "2026-05-07T01:52:21.440382+00:00"
@@ -3839,7 +3711,131 @@
     "948156e82e83c256": {
       "title": "Anthropic moral dev said AI overcorrection could address historical injustices",
       "fetched_at": "2026-05-14T13:27:57.822113+00:00"
+    },
+    "70077c9e0dd7e003": {
+      "title": "Safety‑First AI Architecture",
+      "fetched_at": "2026-05-14T19:26:37.302502+00:00"
+    },
+    "9422a167702ba8d1": {
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "fetched_at": "2026-05-14T19:26:37.916562+00:00"
+    },
+    "34c667a72d0714e1": {
+      "title": "Reject AI Prophecies, Free the Future",
+      "fetched_at": "2026-05-14T19:26:38.536908+00:00"
+    },
+    "bd2dc08f7bf416e6": {
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "fetched_at": "2026-05-14T19:26:39.157799+00:00"
+    },
+    "6b368c15c301700a": {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "fetched_at": "2026-05-14T19:26:39.782410+00:00"
+    },
+    "8f4a1a0f6fa7b640": {
+      "title": "2028: Two scenarios for global AI leadership",
+      "fetched_at": "2026-05-14T19:26:40.404615+00:00"
+    },
+    "7e31e9ff9444e1a8": {
+      "title": "The AI Layoff Bill Is Coming Due, and CTOs Are Going to Pay It Twice",
+      "fetched_at": "2026-05-14T19:26:41.026663+00:00"
+    },
+    "3ac8ad075fea64b1": {
+      "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+      "fetched_at": "2026-05-14T19:26:41.710629+00:00"
+    },
+    "ec601ecb9f814bc5": {
+      "title": "The AI Zombification of Universities",
+      "fetched_at": "2026-05-14T19:26:42.330225+00:00"
+    },
+    "0a4bbdee92f33bba": {
+      "title": "OracleGPT: Thought Experiment on an AI Powered Executive",
+      "fetched_at": "2026-05-14T19:26:42.945363+00:00"
+    },
+    "9e22d72b2773b11a": {
+      "title": "AI is making me dumb",
+      "fetched_at": "2026-05-14T19:26:43.571219+00:00"
+    },
+    "56240346c394509b": {
+      "title": "You Don't Align an AI, You Align with It",
+      "fetched_at": "2026-05-14T19:26:44.261221+00:00"
+    },
+    "42e88c0518dc3ffd": {
+      "title": "Micron unveils a 256 GB memory module destined for AI servers",
+      "fetched_at": "2026-05-14T19:26:44.904383+00:00"
+    },
+    "1e3f8ea03c21f7df": {
+      "title": "Digital arson spree by 'AI Bonnie and Clyde' raises fears over autonomous tech",
+      "fetched_at": "2026-05-14T19:26:45.520643+00:00"
+    },
+    "770ba9b3a32b2bbb": {
+      "title": "Using Chinese AI models to get a degree",
+      "fetched_at": "2026-05-14T19:26:46.372789+00:00"
+    },
+    "94abd0be2e36a03e": {
+      "title": "Benchmarks for AI Models and Agents on CAD Tasks",
+      "fetched_at": "2026-05-14T19:26:47.074828+00:00"
+    },
+    "e065d6e3bfde1918": {
+      "title": "Building low-latency voice agents in 3 lines of code with GPT Realtime 2 and AG2",
+      "fetched_at": "2026-05-14T19:26:47.698586+00:00"
+    },
+    "8e211fbbbfc92953": {
+      "title": "WhatsApp launches private 'incognito' conversations with its AI chatbot",
+      "fetched_at": "2026-05-14T19:26:48.418157+00:00"
+    },
+    "72de9fb3bca5978a": {
+      "title": "One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds",
+      "fetched_at": "2026-05-14T19:26:49.129258+00:00"
+    },
+    "50f198be389ca66c": {
+      "title": "Use this map to find the data centers in your backyard",
+      "fetched_at": "2026-05-14T19:26:49.765842+00:00"
+    },
+    "b101b9b19b5de7fc": {
+      "title": "特朗普訪華獲奉承與盛大歡迎，但棘手問題依然未解決",
+      "fetched_at": "2026-05-14T19:26:52.104262+00:00"
+    },
+    "f71e8dea326e7397": {
+      "title": "「AI妄想」：為何他們深信自己「被追殺」甚至襲擊枕邊人？",
+      "fetched_at": "2026-05-14T19:26:52.725610+00:00"
+    },
+    "d7675170607b2b5c": {
+      "title": "Neolithic Farmers in Poland Fertilized Their Fields",
+      "fetched_at": "2026-05-14T19:26:54.515553+00:00"
+    },
+    "06b83f7f5b93850d": {
+      "title": "Scythian Tomb Unearthed in Moldova",
+      "fetched_at": "2026-05-14T19:26:55.153693+00:00"
+    },
+    "72f895daa518ed93": {
+      "title": "'There are 4 people in those pixels': Earth-based telescope snapped Artemis II crew orbiting the moon",
+      "fetched_at": "2026-05-14T19:26:55.787655+00:00"
+    },
+    "a9d5f53732668529": {
+      "title": "A pill can stop people from developing COVID after being exposed to the virus, trial finds",
+      "fetched_at": "2026-05-14T19:26:56.425029+00:00"
+    },
+    "bc5737a57bed842c": {
+      "title": "High-status Roman woman was buried in a lead coffin with jet hairpins and exotic resins, archaeologists find",
+      "fetched_at": "2026-05-14T19:26:57.177229+00:00"
+    },
+    "0db281bf54ae051e": {
+      "title": "After 100 years, scientists finally uncover hidden rule behind cosmic rays",
+      "fetched_at": "2026-05-14T19:26:57.927453+00:00"
+    },
+    "a5db7d2d2d48b4ad": {
+      "title": "Giant “stealth” magma surge triggered thousands of earthquakes beneath Atlantic island",
+      "fetched_at": "2026-05-14T19:26:58.552939+00:00"
+    },
+    "a63cec3f74150788": {
+      "title": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones",
+      "fetched_at": "2026-05-14T19:26:59.273699+00:00"
+    },
+    "154405509fc6b6cd": {
+      "title": "Giant squid discovery uncovers a hidden deep-sea world off Australia",
+      "fetched_at": "2026-05-14T19:26:59.916488+00:00"
     }
   },
-  "last_updated": "2026-05-14T13:27:57.974075+00:00"
+  "last_updated": "2026-05-14T19:27:00.040440+00:00"
 }
