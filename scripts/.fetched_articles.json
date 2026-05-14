@@ -1,117 +1,5 @@
 {
   "articles": {
-    "42c930ad5fc2d579": {
-      "title": "KV Cache Locality: The Hidden Variable in Your LLM Serving Cost",
-      "fetched_at": "2026-05-06T13:27:17.172593+00:00"
-    },
-    "3598cf4b7b8d0276": {
-      "title": "Pitch-Pit – AI rates your startup idea, crowd votes, top one gets built",
-      "fetched_at": "2026-05-06T13:27:17.795878+00:00"
-    },
-    "fb992ba7b8ffb9e0": {
-      "title": "Show HN: BattleClaws – A battle arena where AI agents fight autonomously",
-      "fetched_at": "2026-05-06T13:27:18.426420+00:00"
-    },
-    "b68139db80b94fdf": {
-      "title": "Proprietary Software, Hardware and Protocols Face AI-Driven Security Risk",
-      "fetched_at": "2026-05-06T13:27:19.056151+00:00"
-    },
-    "16f150b55d90c025": {
-      "title": "Show HN: Arden – Runtime policy enforcement and governance for AI agents",
-      "fetched_at": "2026-05-06T13:27:19.702954+00:00"
-    },
-    "276c2649359e1390": {
-      "title": "Writers Are Going to Extremes to Prove They Didn't Use AI",
-      "fetched_at": "2026-05-06T13:27:20.367696+00:00"
-    },
-    "7e84a7202fdab776": {
-      "title": "\"AI systems do not understand\": New report flags systemic failures in AI coding",
-      "fetched_at": "2026-05-06T13:27:20.992708+00:00"
-    },
-    "cf7a231669d98e08": {
-      "title": "Google&#8217;s AI search summaries will now quote Reddit",
-      "fetched_at": "2026-05-06T13:27:21.624546+00:00"
-    },
-    "132ae9ae170895a4": {
-      "title": "热门中概股美股盘前多数上涨，百度涨超6%",
-      "fetched_at": "2026-05-06T13:27:22.249897+00:00"
-    },
-    "3eeb4dbc46890ff9": {
-      "title": "Archestra LLM Gateway Now Supports All Types of LLM Auth",
-      "fetched_at": "2026-05-06T13:27:22.876529+00:00"
-    },
-    "193d0a8bbe0c5f6f": {
-      "title": "Show HN: Adam – An embeddable cross-platform AI agent library",
-      "fetched_at": "2026-05-06T13:27:23.683407+00:00"
-    },
-    "414e022dac7d3016": {
-      "title": "美股大型科技股盘前多数上涨，康宁涨近18%",
-      "fetched_at": "2026-05-06T13:27:24.380445+00:00"
-    },
-    "93f661604742f317": {
-      "title": "元道通信：被证监会立案调查进展披露",
-      "fetched_at": "2026-05-06T13:27:25.272424+00:00"
-    },
-    "bb4af2304c341a82": {
-      "title": "美国AI公司Anthropic高管下周将访韩",
-      "fetched_at": "2026-05-06T13:27:25.893403+00:00"
-    },
-    "b1e37e0afae5a52a": {
-      "title": "印尼考虑对16岁以下人群实施“网购禁令”",
-      "fetched_at": "2026-05-06T13:27:26.749920+00:00"
-    },
-    "7b819f7b464f87b4": {
-      "title": "美国将季度再融资规模定为1250亿美元",
-      "fetched_at": "2026-05-06T13:27:27.389798+00:00"
-    },
-    "0f3437cf74926607": {
-      "title": "报告：欧盟修订《网络安全法》将造成自身数千亿欧元损失",
-      "fetched_at": "2026-05-06T13:27:28.009853+00:00"
-    },
-    "43ee8e4042892867": {
-      "title": "Show HN: KubeAstra–Open-source AI agent that debugs and recovers Kubernetes pods",
-      "fetched_at": "2026-05-06T13:27:28.639582+00:00"
-    },
-    "b99213dcafd82781": {
-      "title": "MiroMind暂停中国服务",
-      "fetched_at": "2026-05-06T13:27:29.255758+00:00"
-    },
-    "36b7c7c6b013d5c8": {
-      "title": "预订率低于预期 世界杯前夕美国酒店业遇冷",
-      "fetched_at": "2026-05-06T13:27:29.959585+00:00"
-    },
-    "f71e8dea326e7397": {
-      "title": "「AI妄想」：為何他們深信自己「被追殺」甚至襲擊枕邊人？",
-      "fetched_at": "2026-05-06T13:27:32.416017+00:00"
-    },
-    "5c7e127a5e385885": {
-      "title": "伊朗外長訪華晤王毅，北京呼籲「盡快」重開霍爾木茲海峽",
-      "fetched_at": "2026-05-06T13:27:33.105172+00:00"
-    },
-    "2abe816d5f195465": {
-      "title": "霍爾木茲海峽的對峙，加劇了再次滑向全面戰爭的風險",
-      "fetched_at": "2026-05-06T13:27:33.734630+00:00"
-    },
-    "91a3c12c8df6d043": {
-      "title": "Diagnostic dilemma: A woman turned black and blue weeks after starting a new medication",
-      "fetched_at": "2026-05-06T13:27:35.617448+00:00"
-    },
-    "65407e788108ccdf": {
-      "title": "Clean hydrogen created from plastic waste using battery acid from old cars and solar power",
-      "fetched_at": "2026-05-06T13:27:36.241206+00:00"
-    },
-    "51dca54460e53bf2": {
-      "title": "'Food insecurity is no longer just about low-income countries': Environmental economist explains how climate change is pushing agricultural systems to the brink",
-      "fetched_at": "2026-05-06T13:27:36.878847+00:00"
-    },
-    "178835dee60d01b0": {
-      "title": "CertHound – open-source SSL/TLS certificate discovery and auto-renewal agent",
-      "fetched_at": "2026-05-06T13:27:37.514719+00:00"
-    },
-    "f1de96a9900e0b3a": {
-      "title": "The origin of human eyes traces back to an ancient \"cyclops\"",
-      "fetched_at": "2026-05-06T13:27:38.143048+00:00"
-    },
     "844e998ad0bb85de": {
       "title": "How AI agent memory works",
       "fetched_at": "2026-05-06T19:19:49.447584+00:00"
@@ -3847,7 +3735,111 @@
     "f675a39d7157beee": {
       "title": "Why Ancient Egyptian Honey Remains Edible After 3k Years",
       "fetched_at": "2026-05-14T08:26:45.952622+00:00"
+    },
+    "bc4ccc821cf693b9": {
+      "title": "Microsoft's AI system tops Anthropic's Mythos on cybersecurity benchmark",
+      "fetched_at": "2026-05-14T13:27:37.797103+00:00"
+    },
+    "687e891dea3faaf7": {
+      "title": "Show HN: AIMX – Self-hosted, open-source email server designed for AI agents",
+      "fetched_at": "2026-05-14T13:27:38.380151+00:00"
+    },
+    "30b1e7cb85a92393": {
+      "title": "热门中概股美股盘前普跌，小鹏集团跌超4%，",
+      "fetched_at": "2026-05-14T13:27:38.958675+00:00"
+    },
+    "4b94cf0ae102fcab": {
+      "title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
+      "fetched_at": "2026-05-14T13:27:39.533206+00:00"
+    },
+    "fb0dae5694e60569": {
+      "title": "5连板蒙娜丽莎：无半导体材料业务，参股公司珠海晶瓷非英伟达供应商",
+      "fetched_at": "2026-05-14T13:27:40.121563+00:00"
+    },
+    "781a9cfad4994458": {
+      "title": "We used an AI as a controlled probe of our alert documentation",
+      "fetched_at": "2026-05-14T13:27:40.710901+00:00"
+    },
+    "82f1181e1de1723f": {
+      "title": "Data Brokers Push Back Against California AI Audit Requirements",
+      "fetched_at": "2026-05-14T13:27:41.306410+00:00"
+    },
+    "07bf48ade3c0e209": {
+      "title": "美国上周首次申领失业救济人数为21.1万",
+      "fetched_at": "2026-05-14T13:27:41.916128+00:00"
+    },
+    "91782a4883f7037d": {
+      "title": "富祥药业：证券简称变更为“富祥股份”",
+      "fetched_at": "2026-05-14T13:27:42.500298+00:00"
+    },
+    "b0d11c7c68b32e96": {
+      "title": "AI Alliance Launches Project Tapestry to Build Sovereign AI with Yann LeCun",
+      "fetched_at": "2026-05-14T13:27:43.098384+00:00"
+    },
+    "c7fb7ccdd43e73e1": {
+      "title": "Do Job Postings Show Early Labor-Market Effects of AI?",
+      "fetched_at": "2026-05-14T13:27:43.712523+00:00"
+    },
+    "096876af1083ef90": {
+      "title": "Cube: Wrapping Benchmarks Once, Unlocking Agentic AI for Everyone",
+      "fetched_at": "2026-05-14T13:27:44.301422+00:00"
+    },
+    "05a9d6f252186ae8": {
+      "title": "韩国无水氢氟酸商或将对三星、SK海力士提价， 6至7月或大幅上涨",
+      "fetched_at": "2026-05-14T13:27:44.879870+00:00"
+    },
+    "7e8d0453f8004790": {
+      "title": "仁度生物：实控人拟变更为海鲸药业，股票复牌",
+      "fetched_at": "2026-05-14T13:27:45.468148+00:00"
+    },
+    "b30f35179eb76b19": {
+      "title": "What happens when you post a real Monet and say it's AI?",
+      "fetched_at": "2026-05-14T13:27:46.056853+00:00"
+    },
+    "f39340d96e2cf412": {
+      "title": "印度禁食糖出口至9月底，保障国内供应",
+      "fetched_at": "2026-05-14T13:27:46.662357+00:00"
+    },
+    "577e1b65d7ac6c7d": {
+      "title": "Show HN: Asciidia – LLM Crafting Game",
+      "fetched_at": "2026-05-14T13:27:47.239986+00:00"
+    },
+    "f4990406c7a8ce06": {
+      "title": "浙江人形联合施耐德电气首发具身智能化工实验场景解决方案",
+      "fetched_at": "2026-05-14T13:27:47.832639+00:00"
+    },
+    "6028620a4cd4b4bc": {
+      "title": "爱普股份：拟1.08亿元收购控股子公司爱普配料49%股权",
+      "fetched_at": "2026-05-14T13:27:48.732834+00:00"
+    },
+    "c17b2bf01e061bab": {
+      "title": "SicariusGuard – Solana token safety oracle for AI agents (MCP server)",
+      "fetched_at": "2026-05-14T13:27:49.322414+00:00"
+    },
+    "3578e2ae04f5f864": {
+      "title": "紅毯、國宴、會談、台灣、黃仁勳：特朗普重返北京後的幾大關鍵時刻",
+      "fetched_at": "2026-05-14T13:27:52.305602+00:00"
+    },
+    "dc09c2af52594c06": {
+      "title": "特朗普訪華：中美元首會談逾2小時 結束後同遊天壇",
+      "fetched_at": "2026-05-14T13:27:52.882110+00:00"
+    },
+    "01929640c217c6dc": {
+      "title": "林志玲擔任台灣「文策院」董事為何引發激辯？",
+      "fetched_at": "2026-05-14T13:27:53.464691+00:00"
+    },
+    "e08434805f4807fd": {
+      "title": "We tested the 'first self-cleaning air purifier' and it's a pet owner's dream",
+      "fetched_at": "2026-05-14T13:27:56.650377+00:00"
+    },
+    "7e98c90b9163ea70": {
+      "title": "'Extreme' crystal that formed in 1945 nuclear bomb test is unlike anything scientists have seen",
+      "fetched_at": "2026-05-14T13:27:57.241806+00:00"
+    },
+    "948156e82e83c256": {
+      "title": "Anthropic moral dev said AI overcorrection could address historical injustices",
+      "fetched_at": "2026-05-14T13:27:57.822113+00:00"
     }
   },
-  "last_updated": "2026-05-14T08:26:46.097686+00:00"
+  "last_updated": "2026-05-14T13:27:57.974075+00:00"
 }
