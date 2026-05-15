@@ -1,145 +1,5 @@
 {
   "articles": {
-    "ea1f49da4d4a0844": {
-      "title": "恒指收涨1.57%，恒生科技指数涨3.06%",
-      "fetched_at": "2026-05-07T08:12:27.317485+00:00"
-    },
-    "8cba02b6eb01bba0": {
-      "title": "15 things I learnt launching AI projects in Government (4-part blog post)",
-      "fetched_at": "2026-05-07T08:12:28.075898+00:00"
-    },
-    "d162414bb35331ed": {
-      "title": "中国央行连续18个月扩大黄金储备",
-      "fetched_at": "2026-05-07T08:12:28.681128+00:00"
-    },
-    "1ed93c82f990dd8e": {
-      "title": "港交所计划未来数月推出黄金期货",
-      "fetched_at": "2026-05-07T08:12:29.475837+00:00"
-    },
-    "f83fc35359ff46f8": {
-      "title": "盟固利：达州磷酸铁锂产线有望在2027年拿到客户订单",
-      "fetched_at": "2026-05-07T08:12:30.056199+00:00"
-    },
-    "2ab0da9b80708eb8": {
-      "title": "上港集团：预计4月母港集装箱吞吐量同比增长7.8%",
-      "fetched_at": "2026-05-07T08:12:30.708409+00:00"
-    },
-    "4e980ca3c2b289c5": {
-      "title": "盟固利：预计公司NCA系列产品2026年销量将进一步提高",
-      "fetched_at": "2026-05-07T08:12:31.296891+00:00"
-    },
-    "09d29ba07b5794ab": {
-      "title": "豪恩汽电：获头部新能源汽车品牌智能驾驶雷达感知系统产品定点",
-      "fetched_at": "2026-05-07T08:12:31.879212+00:00"
-    },
-    "20c36e50f898321e": {
-      "title": "Ask HN: Do you understand all the code written by AI in your company?",
-      "fetched_at": "2026-05-07T08:12:32.550267+00:00"
-    },
-    "ae17267ffad3f552": {
-      "title": "The Comparator in Clinical AI",
-      "fetched_at": "2026-05-07T08:12:33.136934+00:00"
-    },
-    "b1c08e476ac930ea": {
-      "title": "八部门：加强符合儿童生长发育特征及提高儿童用药依从性的中药改良型新药研发",
-      "fetched_at": "2026-05-07T08:12:33.719963+00:00"
-    },
-    "693c69c807ca177d": {
-      "title": "“鹰瞰智翼”完成Pre-A轮数千万元融资",
-      "fetched_at": "2026-05-07T08:12:34.296134+00:00"
-    },
-    "32607300d488112d": {
-      "title": "Why arguing with a confused LLM makes things worse",
-      "fetched_at": "2026-05-07T08:12:34.872763+00:00"
-    },
-    "595b9f1fc9c9756e": {
-      "title": "Symposium makes Rust dependencies actionable for AI agents",
-      "fetched_at": "2026-05-07T08:12:35.453373+00:00"
-    },
-    "d5eb00f9d8d87e90": {
-      "title": "Create Context Graph: Scaffold AI Agents with Graph Memory",
-      "fetched_at": "2026-05-07T08:12:36.151426+00:00"
-    },
-    "95c78ce76547936f": {
-      "title": "韩国券商大幅上调SK海力士及三星目标价，较最新股价高出逾80%",
-      "fetched_at": "2026-05-07T08:12:36.738244+00:00"
-    },
-    "da13f06e5a26fc64": {
-      "title": "Show HN: Appctl LLM tools for apps you have",
-      "fetched_at": "2026-05-07T08:12:37.323780+00:00"
-    },
-    "ff9f23868ffbfdbd": {
-      "title": "Would Lojban Enable AI (2005)",
-      "fetched_at": "2026-05-07T08:12:37.906005+00:00"
-    },
-    "73d07e6a294e995a": {
-      "title": "制动液可能含有可见沉淀物，通用在美召回40440辆汽车",
-      "fetched_at": "2026-05-07T08:12:38.490356+00:00"
-    },
-    "0189af180bc8656e": {
-      "title": "How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs",
-      "fetched_at": "2026-05-07T08:12:39.100937+00:00"
-    },
-    "67bb24d9cb0300f2": {
-      "title": "機器人互相廝殺時代來臨？烏克蘭戰場預告令人不安的未來戰爭",
-      "fetched_at": "2026-05-07T08:12:42.127363+00:00"
-    },
-    "413e488d628fb5d9": {
-      "title": "OpenAI前董事：馬斯克主動捐精 兩人已有四個孩子",
-      "fetched_at": "2026-05-07T08:12:42.729771+00:00"
-    },
-    "5499d46ffd994105": {
-      "title": "美國伊朗可能達成終戰協議 油價股市作出快速反應",
-      "fetched_at": "2026-05-07T08:12:43.320843+00:00"
-    },
-    "7ddd8719d062dccf": {
-      "title": "特朗普称美国已“赢得”战争，伊朗说法不同",
-      "fetched_at": "2026-05-07T08:12:43.893911+00:00"
-    },
-    "b3df111402a4cc0d": {
-      "title": "特朗普将访问一个早已不再仰视美国的中国",
-      "fetched_at": "2026-05-07T08:12:44.478423+00:00"
-    },
-    "6231297651c3f268": {
-      "title": "你应该担心汉坦病毒吗？",
-      "fetched_at": "2026-05-07T08:12:45.059429+00:00"
-    },
-    "6b95ef63bc6a3fc9": {
-      "title": "台湾与乌克兰强化非官方军事联系",
-      "fetched_at": "2026-05-07T08:12:45.638557+00:00"
-    },
-    "c4547d8fa54b72eb": {
-      "title": "Scientists accidentally discover DNA that breaks the rules of life",
-      "fetched_at": "2026-05-07T08:12:48.618426+00:00"
-    },
-    "d444140cfea2c657": {
-      "title": "People once risked everything just to keep their hats on",
-      "fetched_at": "2026-05-07T08:12:49.200671+00:00"
-    },
-    "b10cefec90de7a82": {
-      "title": "Your DNA may predict your future success more than your upbringing",
-      "fetched_at": "2026-05-07T08:12:49.783426+00:00"
-    },
-    "a76cffe499a5604c": {
-      "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
-      "fetched_at": "2026-05-07T08:12:50.386240+00:00"
-    },
-    "4baac3061859593d": {
-      "title": "This town found clean energy deep inside old coal mines",
-      "fetched_at": "2026-05-07T08:12:50.971160+00:00"
-    },
-    "9c7f68ef76e874f7": {
-      "title": "Blue Origin’s new moon lander just survived extreme space testing on Earth",
-      "fetched_at": "2026-05-07T08:12:51.555241+00:00"
-    },
-    "f4607249c074e222": {
-      "title": "NASA just tested a powerful new thruster that could send humans to Mars",
-      "fetched_at": "2026-05-07T08:12:52.146530+00:00"
-    },
-    "bed7bcc9b63f7a16": {
-      "title": "MIT scientists discover millions of “silent synapses” in the adult brain",
-      "fetched_at": "2026-05-07T08:12:52.749638+00:00"
-    },
     "42b079bfebc74c76": {
       "title": "AgentWrit, a Go broker for task-scoped AI agent credentials",
       "fetched_at": "2026-05-07T13:25:50.776442+00:00"
@@ -3827,7 +3687,139 @@
     "dfdc74e871e944bc": {
       "title": "Agent Exchange – A2A discovery with real-time bidding for AI agents",
       "fetched_at": "2026-05-15T02:02:37.077250+00:00"
+    },
+    "eb3fbba560f97f36": {
+      "title": "OpenAI首席财务官：公司或将筹集更多资金，未来可能考虑通过公开市场融资",
+      "fetched_at": "2026-05-15T08:36:53.964407+00:00"
+    },
+    "c6cd8d39ee2d5d2c": {
+      "title": "OpenAI推出Codex移动端 iOS和安卓全套餐用户可用",
+      "fetched_at": "2026-05-15T08:36:54.577080+00:00"
+    },
+    "4b26d25e9bb4c28b": {
+      "title": "天猫进军家装市场，推出行业首个AI家装操作平台“天猫设计家”",
+      "fetched_at": "2026-05-15T08:36:55.203815+00:00"
+    },
+    "4f492d971a926f6d": {
+      "title": "澳门：一季度GDP修订数值为1075.6亿澳门元，按年实质增长7.1%",
+      "fetched_at": "2026-05-15T08:36:55.821980+00:00"
+    },
+    "98b5e1ef1a3ce0b9": {
+      "title": "中国证监会发布《衍生品交易监督管理办法（试行）》",
+      "fetched_at": "2026-05-15T08:36:56.453711+00:00"
+    },
+    "298be7bd5b17649c": {
+      "title": "毅华新能源与维桢新材料联合研发MOFs-聚合物复合固态电池",
+      "fetched_at": "2026-05-15T08:36:57.090528+00:00"
+    },
+    "8d1c2d7ded484cec": {
+      "title": "汇成股份：因关联交易违规，公司及相关人员遭安徽证监局监管",
+      "fetched_at": "2026-05-15T08:36:57.751793+00:00"
+    },
+    "4497b100a5adb402": {
+      "title": "Kog AI – Building a Real-Time Inference Stack on AMD Instinct GPUs [video]",
+      "fetched_at": "2026-05-15T08:36:58.371694+00:00"
+    },
+    "17961fb8ae7beaeb": {
+      "title": "滨江集团：互动易回复不规范 收到浙江证监局警示函",
+      "fetched_at": "2026-05-15T08:36:59.095421+00:00"
+    },
+    "0a87eaa03837cc86": {
+      "title": "白云机场：4月旅客吞吐量同比增长6.94%",
+      "fetched_at": "2026-05-15T08:36:59.774042+00:00"
+    },
+    "f8c041ff4cd246c3": {
+      "title": "恒指收跌1.62%，恒生科技指数跌2.66%",
+      "fetched_at": "2026-05-15T08:37:00.399398+00:00"
+    },
+    "51dac64b18b68f36": {
+      "title": "广东：鼓励上市企业开展产业链上下游关键环节并购重组 打造大市值上市企业",
+      "fetched_at": "2026-05-15T08:37:01.068100+00:00"
+    },
+    "c21533d3596deb6f": {
+      "title": "美国政府披露特朗普Q1交易：买入英伟达、苹果 减持微软、亚马逊",
+      "fetched_at": "2026-05-15T08:37:01.690583+00:00"
+    },
+    "c9713e3318871504": {
+      "title": "香港：4月初步访港旅客为421.73万人次，按年升10%",
+      "fetched_at": "2026-05-15T08:37:02.370210+00:00"
+    },
+    "50fc6697c9bf6f87": {
+      "title": "Ask HN: Im a back end dev, how do you go from designing the UI with AI?",
+      "fetched_at": "2026-05-15T08:37:03.109747+00:00"
+    },
+    "e0c618a840993c15": {
+      "title": "外交部：中方愿同英方保持密切交往和对话",
+      "fetched_at": "2026-05-15T08:37:03.724396+00:00"
+    },
+    "881ac7e511df1403": {
+      "title": "中欧汽车产业深化新能源领域合作，总投资超80亿元",
+      "fetched_at": "2026-05-15T08:37:04.342976+00:00"
+    },
+    "a736f4b2a227fc64": {
+      "title": "港交所IPO募资额暴增571%",
+      "fetched_at": "2026-05-15T08:37:05.035962+00:00"
+    },
+    "7c65290936852b43": {
+      "title": "台积电宣布出售世界先进8.1%股权",
+      "fetched_at": "2026-05-15T08:37:05.735107+00:00"
+    },
+    "82626680e172d1cd": {
+      "title": "澳洲法官限令特斯拉7月底前完成对其集体诉讼的调查取证",
+      "fetched_at": "2026-05-15T08:37:06.343969+00:00"
+    },
+    "8a20b5b5cff5f327": {
+      "title": "「海上浮動軍火庫」船隻據報遭伊朗扣押",
+      "fetched_at": "2026-05-15T08:37:08.712693+00:00"
+    },
+    "dd8fbdb6460d7985": {
+      "title": "「國事訪問+」退場：從接機到私人交流，特朗普訪華的三個禮賓細節",
+      "fetched_at": "2026-05-15T08:37:09.349839+00:00"
+    },
+    "a73df67e74e8bb39": {
+      "title": "间谍活动、制裁、网络攻击：中美幕后冲突不断",
+      "fetched_at": "2026-05-15T08:37:09.966757+00:00"
+    },
+    "b22337921254cf6a": {
+      "title": "特朗普示好，习近平强硬：“习特会”折射中美新均势",
+      "fetched_at": "2026-05-15T08:37:10.604328+00:00"
+    },
+    "c262170db65ae6b3": {
+      "title": "17名美國商界領袖隨特朗普訪華，尚未有大合同浮出水面",
+      "fetched_at": "2026-05-15T08:37:11.231474+00:00"
+    },
+    "8e65b3c513df7b55": {
+      "title": "比薩斜塔為什麼不會倒下？",
+      "fetched_at": "2026-05-15T08:37:11.911387+00:00"
+    },
+    "5fab58c681c1add3": {
+      "title": "从肢体语言看习近平与特朗普的迥异风格",
+      "fetched_at": "2026-05-15T08:37:12.553747+00:00"
+    },
+    "862a338dd9960ff0": {
+      "title": "习近平对特朗普明确表示：台湾问题是中美关系重中之重",
+      "fetched_at": "2026-05-15T08:37:13.187556+00:00"
+    },
+    "d6495e6450b74e8c": {
+      "title": "中国民众如何评价特朗普：“挺残暴的”、“不友好”",
+      "fetched_at": "2026-05-15T08:37:13.904775+00:00"
+    },
+    "59477ca2fd357a70": {
+      "title": "Visual Chronology of Science and Discovery (2025)",
+      "fetched_at": "2026-05-15T08:37:15.866887+00:00"
+    },
+    "7a8da742edc26b45": {
+      "title": "A grad student’s wild idea sparks a major aging breakthrough",
+      "fetched_at": "2026-05-15T08:37:16.492146+00:00"
+    },
+    "65f4ecefc10e4923": {
+      "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
+      "fetched_at": "2026-05-15T08:37:17.130045+00:00"
+    },
+    "1922a990bd0b8c73": {
+      "title": "Scientists discover a mysterious asteroid breaking apart near the Sun",
+      "fetched_at": "2026-05-15T08:37:17.759817+00:00"
     }
   },
-  "last_updated": "2026-05-15T02:02:37.216638+00:00"
+  "last_updated": "2026-05-15T08:37:17.901848+00:00"
 }
