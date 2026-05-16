@@ -1,137 +1,5 @@
 {
   "articles": {
-    "b244ced82226e21b": {
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "fetched_at": "2026-05-07T19:24:25.990699+00:00"
-    },
-    "f3b194d056dc0e9e": {
-      "title": "Show HN: DAG-based Kanji learning through components",
-      "fetched_at": "2026-05-07T19:24:26.605314+00:00"
-    },
-    "11d9e84e87e349b3": {
-      "title": "Bumble is getting rid of the swipe, CEO says",
-      "fetched_at": "2026-05-07T19:24:27.213034+00:00"
-    },
-    "947056b4e1ee294c": {
-      "title": "The AI fitness instructors selling unreal gains",
-      "fetched_at": "2026-05-07T19:24:27.879073+00:00"
-    },
-    "d7faf9aa61359bc4": {
-      "title": "Show HN: Describe what makes a photo \"bad\" and let a local LLM flag them",
-      "fetched_at": "2026-05-07T19:24:28.492662+00:00"
-    },
-    "ee53b3f1fb129793": {
-      "title": "DigitalOcean AI-Native Cloud for Production AI Workloads",
-      "fetched_at": "2026-05-07T19:24:29.132953+00:00"
-    },
-    "b1195e4c0019f05f": {
-      "title": "AI at Discount",
-      "fetched_at": "2026-05-07T19:24:29.757219+00:00"
-    },
-    "896e6a2931ce56ca": {
-      "title": "AI Slop Is Killing Online Communities",
-      "fetched_at": "2026-05-07T19:24:30.379714+00:00"
-    },
-    "a3df21bf980e8328": {
-      "title": "I am underwhelmed by AI search",
-      "fetched_at": "2026-05-07T19:24:30.992413+00:00"
-    },
-    "18a53419c9b68eac": {
-      "title": "NL Autoencoders Produce Unsupervised Explanations of LLM Activations",
-      "fetched_at": "2026-05-07T19:24:31.610581+00:00"
-    },
-    "0d351c29581c4559": {
-      "title": "Fireship posted a non-AI-related video",
-      "fetched_at": "2026-05-07T19:24:32.244374+00:00"
-    },
-    "3ef03c0468d6307b": {
-      "title": "The Field Deployed Engineer's Handbook: Production AI in the Real World",
-      "fetched_at": "2026-05-07T19:24:32.974969+00:00"
-    },
-    "ead13dd887ed854f": {
-      "title": "He Couldn't Land a Job Interview. Was AI to Blame?",
-      "fetched_at": "2026-05-07T19:24:33.596576+00:00"
-    },
-    "5ca2285fd6bef781": {
-      "title": "AI Coding Agent Can Exfiltrate Your Credentials. You Would Never Know",
-      "fetched_at": "2026-05-07T19:24:34.220168+00:00"
-    },
-    "f351433481618113": {
-      "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
-      "fetched_at": "2026-05-07T19:24:34.835568+00:00"
-    },
-    "4f870e752c6523da": {
-      "title": "AI Increased Output – Revenue Stayed Flat",
-      "fetched_at": "2026-05-07T19:24:35.551710+00:00"
-    },
-    "2318d883a0085105": {
-      "title": "IMF warns new AI models risk 'systemic' shock to finance",
-      "fetched_at": "2026-05-07T19:24:36.170959+00:00"
-    },
-    "2d6ef357263e4f86": {
-      "title": "AI, Tractors, and the Productivity Paradox",
-      "fetched_at": "2026-05-07T19:24:36.862053+00:00"
-    },
-    "4c82568af63124b1": {
-      "title": "After AI, Coordination",
-      "fetched_at": "2026-05-07T19:24:37.477497+00:00"
-    },
-    "167c46a3842e5b1a": {
-      "title": "Show HN: Bookstoread.ai – Discover non-fiction books using AI",
-      "fetched_at": "2026-05-07T19:24:38.094134+00:00"
-    },
-    "a5aa2272fc122da4": {
-      "title": "《穿Prada的惡魔2》陷種族歧視爭議：亞洲首映受關注，有專家稱這是能影響一代人的「嚴肅問題」",
-      "fetched_at": "2026-05-07T19:24:40.331604+00:00"
-    },
-    "5315023cc3cc11ad": {
-      "title": "New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test",
-      "fetched_at": "2026-05-07T19:24:42.226214+00:00"
-    },
-    "2cae8f338bfe1d68": {
-      "title": "A lost ancient script reveals how writing as we know it began",
-      "fetched_at": "2026-05-07T19:24:42.845950+00:00"
-    },
-    "2251eb538c639f7c": {
-      "title": "Scientists Explore Neolithic Crannog in Scotland",
-      "fetched_at": "2026-05-07T19:24:43.474073+00:00"
-    },
-    "e63b8eae73cd4dbc": {
-      "title": "Watch NASA's Curiosity rover 'struggle' to remove a rock that got stuck on its robotic arm for nearly a week",
-      "fetched_at": "2026-05-07T19:24:44.087754+00:00"
-    },
-    "5f1bc2e90b9dab45": {
-      "title": "Prehistoric High-Altitude Site Discovered in Spain",
-      "fetched_at": "2026-05-07T19:24:44.722918+00:00"
-    },
-    "6b0e07d2819dcfcd": {
-      "title": "Gold sword scabbard discovered under toppled tree in Norway was likely 'sacrificed' by an elite warrior 1,500 years ago",
-      "fetched_at": "2026-05-07T19:24:45.332652+00:00"
-    },
-    "6916bb928869358c": {
-      "title": "More doomed Franklin expedition sailors identified, revealing clues about how they tried to find safety",
-      "fetched_at": "2026-05-07T19:24:45.954643+00:00"
-    },
-    "1249d24f0e2c4d20": {
-      "title": "Hantavirus cruise LIVE: Five confirmed cases of linked to cruise ship outbreak, according to WHO briefing",
-      "fetched_at": "2026-05-07T19:24:46.572006+00:00"
-    },
-    "536c72dfbd5ba990": {
-      "title": "Scientists just found a chilling way life may have begun",
-      "fetched_at": "2026-05-07T19:24:47.190573+00:00"
-    },
-    "4498d72ff9ffafba": {
-      "title": "50-foot ancient snake discovered in India may be one of the largest ever",
-      "fetched_at": "2026-05-07T19:24:47.811690+00:00"
-    },
-    "7423b5f0b1948242": {
-      "title": "A one-in-a-million supernova seen five times could reveal the Universe’s true speed",
-      "fetched_at": "2026-05-07T19:24:48.520479+00:00"
-    },
-    "e6323b4c5d3d2848": {
-      "title": "Scientists just found the Milky Way’s edge and it’s closer than expected",
-      "fetched_at": "2026-05-07T19:24:49.168035+00:00"
-    },
     "6c182d15e5f3bbb7": {
       "title": "小米汽车高层调整：副总裁于立国兼任海外业务筹备组组长",
       "fetched_at": "2026-05-08T01:57:47.368481+00:00"
@@ -3967,7 +3835,103 @@
     "2478a0dd38ffcd2c": {
       "title": "'Membership in WHO is critical': America is no longer at the helm of international outbreak responses, Emory epidemiologist says",
       "fetched_at": "2026-05-15T19:14:58.767716+00:00"
+    },
+    "328a6bb3f1222982": {
+      "title": "商业航天迎来发展黄金期 融资客净买入12只概念股",
+      "fetched_at": "2026-05-16T01:54:45.946080+00:00"
+    },
+    "7aba25d05f399b2f": {
+      "title": "I built a machine that can make you rich with math [video]",
+      "fetched_at": "2026-05-16T01:54:46.577800+00:00"
+    },
+    "d073231787d72a40": {
+      "title": "Show HN: Nexa-Gauge – LLM eval framework, now with self-hosted model support",
+      "fetched_at": "2026-05-16T01:54:47.201146+00:00"
+    },
+    "2c00def275bfd572": {
+      "title": "美股三大指数均收跌超1%，标普500指数实现周线七连涨",
+      "fetched_at": "2026-05-16T01:54:47.817536+00:00"
+    },
+    "478f24c619d072f4": {
+      "title": "SpaceX据悉最早将于6月11日确定首次公开发行价格",
+      "fetched_at": "2026-05-16T01:54:48.435606+00:00"
+    },
+    "805a171dc9790e40": {
+      "title": "Symposia AI",
+      "fetched_at": "2026-05-16T01:54:49.060314+00:00"
+    },
+    "3d9747cf4f7ac049": {
+      "title": "Jane Street's approach to AI adoption throughout their SDLC [video]",
+      "fetched_at": "2026-05-16T01:54:49.685098+00:00"
+    },
+    "251a0f0c212ba74e": {
+      "title": "A Compression Tool for LLM Reads. Est. 60-95% Fewer Tokens",
+      "fetched_at": "2026-05-16T01:54:50.331065+00:00"
+    },
+    "d2d949b47f6d21c3": {
+      "title": "美联储：沃什正式就任前鲍威尔将暂任“临时主席”",
+      "fetched_at": "2026-05-16T01:54:50.963378+00:00"
+    },
+    "b9fd736225d78aea": {
+      "title": "高瓴增持英伟达、英特尔、台积电、Lumentum",
+      "fetched_at": "2026-05-16T01:54:51.578144+00:00"
+    },
+    "313db89ad3a685de": {
+      "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
+      "fetched_at": "2026-05-16T01:54:52.202026+00:00"
+    },
+    "8639d2a9bc7256ef": {
+      "title": "Gaps in AI Development Closing 2.1B in Pain",
+      "fetched_at": "2026-05-16T01:54:52.829387+00:00"
+    },
+    "0547bfb95fc04f2b": {
+      "title": "Ken Liu on AI and Freedom",
+      "fetched_at": "2026-05-16T01:54:53.461493+00:00"
+    },
+    "a594173c6e6eef78": {
+      "title": "Amazon pressured one of its teams to develop an AI game: Project Trident",
+      "fetched_at": "2026-05-16T01:54:54.098765+00:00"
+    },
+    "b75f64a8bad4202f": {
+      "title": "Conscience-Performance Risk in AI Governance Language",
+      "fetched_at": "2026-05-16T01:54:54.772358+00:00"
+    },
+    "430983b8381e6502": {
+      "title": "ExploitGym: Can AI agents turn bugs into exploits?",
+      "fetched_at": "2026-05-16T01:54:55.458459+00:00"
+    },
+    "7b0a6992b1c6b93f": {
+      "title": "Ghost Job Detector – AI that decodes fake job posts and HR lies",
+      "fetched_at": "2026-05-16T01:54:56.091550+00:00"
+    },
+    "e76ea324bbd069e4": {
+      "title": "Adobe Latest Target in Wave of Lawsuits over AI Voice Training",
+      "fetched_at": "2026-05-16T01:54:56.736962+00:00"
+    },
+    "03765d621d5eb755": {
+      "title": "Big Tech goes beyond Wall Street for AI borrowing",
+      "fetched_at": "2026-05-16T01:54:57.370139+00:00"
+    },
+    "7ac948ffccc0227d": {
+      "title": "Git is unprepared for the AI coding tsunami",
+      "fetched_at": "2026-05-16T01:54:58.004676+00:00"
+    },
+    "fc32f86708719842": {
+      "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
+      "fetched_at": "2026-05-16T01:55:01.049309+00:00"
+    },
+    "303bae9c32cc07a3": {
+      "title": "Show HN: Agentic product discovery for AI apps and shopping agents",
+      "fetched_at": "2026-05-16T01:55:06.163259+00:00"
+    },
+    "014dd01f93b2f0ba": {
+      "title": "Kairos: The ancient Greek art of knowing when to act",
+      "fetched_at": "2026-05-16T01:55:06.808696+00:00"
+    },
+    "b284914c403b3371": {
+      "title": "Earth is flying through ancient supernova dust",
+      "fetched_at": "2026-05-16T01:55:07.445804+00:00"
     }
   },
-  "last_updated": "2026-05-15T19:14:58.923845+00:00"
+  "last_updated": "2026-05-16T01:55:07.527103+00:00"
 }
