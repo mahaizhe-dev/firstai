@@ -1,289 +1,5 @@
 {
   "articles": {
-    "6c182d15e5f3bbb7": {
-      "title": "小米汽车高层调整：副总裁于立国兼任海外业务筹备组组长",
-      "fetched_at": "2026-05-08T01:57:47.368481+00:00"
-    },
-    "18bfadd06f85b38d": {
-      "title": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接，铜线已无法满足需求",
-      "fetched_at": "2026-05-08T01:57:48.009191+00:00"
-    },
-    "44b693ed2351bdd3": {
-      "title": "创业板指拉升翻红，开盘一度跌超1%",
-      "fetched_at": "2026-05-08T01:57:48.638281+00:00"
-    },
-    "d11ae4a759fe2904": {
-      "title": "Upper bound for AI output is based on your taste/exposure",
-      "fetched_at": "2026-05-08T01:57:49.266447+00:00"
-    },
-    "18b5f1ad7b65e117": {
-      "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
-      "fetched_at": "2026-05-08T01:57:49.899547+00:00"
-    },
-    "ffa9e1d066378453": {
-      "title": "兰州未来创新产业发展基金成立，注册资本约2亿",
-      "fetched_at": "2026-05-08T01:57:50.519012+00:00"
-    },
-    "7e70607638ff78e8": {
-      "title": "AI Contributions to CPAN: The Copyright Question",
-      "fetched_at": "2026-05-08T01:57:51.144984+00:00"
-    },
-    "be73ee1fda2035b1": {
-      "title": "中信建投：看好地产板块内三个细分方向",
-      "fetched_at": "2026-05-08T01:57:51.809220+00:00"
-    },
-    "91009729d81df241": {
-      "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
-      "fetched_at": "2026-05-08T01:57:52.447176+00:00"
-    },
-    "c481643d1759551d": {
-      "title": "A股三大指数集体低开，半导体、光模块概念领跌",
-      "fetched_at": "2026-05-08T01:57:53.078506+00:00"
-    },
-    "ab56d883e7c32fe9": {
-      "title": "央行公开市场开展5亿元7天期逆回购操作",
-      "fetched_at": "2026-05-08T01:57:53.711010+00:00"
-    },
-    "505adb55baf8f7c8": {
-      "title": "恒指开盘跌1%，恒生科技指数跌0.81%",
-      "fetched_at": "2026-05-08T01:57:54.364908+00:00"
-    },
-    "1a88a9f13d70f516": {
-      "title": "人民币对美元中间价调贬15个基点",
-      "fetched_at": "2026-05-08T01:57:54.993455+00:00"
-    },
-    "0b67377eec7cab72": {
-      "title": "OpenAI推出“可信联系人”安全功能",
-      "fetched_at": "2026-05-08T01:57:55.619524+00:00"
-    },
-    "d35f5c2628323695": {
-      "title": "Anthropic旗下Mythos模型打乱白宫人工智能战略",
-      "fetched_at": "2026-05-08T01:57:56.278921+00:00"
-    },
-    "f5306acea344535f": {
-      "title": "特朗普计划邀请英伟达等公司CEO一同访华，受邀名单竞争激烈",
-      "fetched_at": "2026-05-08T01:57:56.908401+00:00"
-    },
-    "e01094b21ca63ff8": {
-      "title": "芯片需求强劲，韩国3月经常帐顺差373亿美元创历史新高",
-      "fetched_at": "2026-05-08T01:57:57.539253+00:00"
-    },
-    "d3512ea64c65c383": {
-      "title": "中信证券：绿色燃料产业迎来战略发展机遇期，建议聚焦三大主线",
-      "fetched_at": "2026-05-08T01:57:58.171764+00:00"
-    },
-    "982f7e68ed008db2": {
-      "title": "GPT-5.5 Price Increase: What It Costs",
-      "fetched_at": "2026-05-08T01:57:58.814413+00:00"
-    },
-    "53c54d3c337d6d3f": {
-      "title": "Netflix tests its own AI-powered voice search",
-      "fetched_at": "2026-05-08T01:57:59.443792+00:00"
-    },
-    "ba926531167df63d": {
-      "title": "中国两名前国防部长被判处死缓",
-      "fetched_at": "2026-05-08T01:58:02.612691+00:00"
-    },
-    "d47d6e3f6c4f5ca7": {
-      "title": "伊朗战争和能源短缺帮助中国提升在亚洲影响力",
-      "fetched_at": "2026-05-08T01:58:03.244242+00:00"
-    },
-    "285d5d01c366ed55": {
-      "title": "倫敦香港經貿辦案：衛志樑、袁松彪為中國情報部門工作，違反英國國安法罪成",
-      "fetched_at": "2026-05-08T01:58:03.884013+00:00"
-    },
-    "cbb0988dca06cecc": {
-      "title": "Scientists find natural compounds that hit COVID-19 from every angle",
-      "fetched_at": "2026-05-08T01:58:24.651452+00:00"
-    },
-    "99634ee60440989d": {
-      "title": "Eating eggs could cut Alzheimer’s risk by 27%",
-      "fetched_at": "2026-05-08T01:58:25.272280+00:00"
-    },
-    "6437f8c915058ec6": {
-      "title": "Intact Roman Grave Unearthed in Croatia",
-      "fetched_at": "2026-05-08T01:58:25.902250+00:00"
-    },
-    "2a604e9b5c1931c0": {
-      "title": "Webb space telescope finds a giant galaxy that doesn’t spin",
-      "fetched_at": "2026-05-08T01:58:26.521372+00:00"
-    },
-    "151ea87b720a9243": {
-      "title": "This strange planet pair shouldn’t exist, but it does",
-      "fetched_at": "2026-05-08T01:58:27.139333+00:00"
-    },
-    "627ea31ab74d69ba": {
-      "title": "Hantavirus cruise LIVE: Cruise passengers being monitored in several US states as CDC prepares official guidance",
-      "fetched_at": "2026-05-08T01:58:27.753147+00:00"
-    },
-    "1d34ccf5a45bb762": {
-      "title": "'Extremely rare' English coins meant to ward off Vikings found in Denmark — because the Vikings wore them as jewelry",
-      "fetched_at": "2026-05-08T01:58:28.464755+00:00"
-    },
-    "039b2a897b8e4c2a": {
-      "title": "'We can no longer ignore diseases in the deep human past': Malaria influenced early humans' migrations across Africa, study suggests",
-      "fetched_at": "2026-05-08T01:58:29.103182+00:00"
-    },
-    "f2a107815a42b909": {
-      "title": "Global Network of Discovery",
-      "fetched_at": "2026-05-08T01:58:29.737370+00:00"
-    },
-    "fe174778c501ddfc": {
-      "title": "Heartbeats physically stop cardiac cancer from growing — and that could be key to thwarting other cancers, too",
-      "fetched_at": "2026-05-08T01:58:30.370696+00:00"
-    },
-    "6bf06c735e6f13bf": {
-      "title": "Can NASA and SpaceX really build a moon base in the next 10 years?",
-      "fetched_at": "2026-05-08T01:58:30.995700+00:00"
-    },
-    "5a12c39b6e8e34a0": {
-      "title": "'Lifelong monogamy' and 'half orphans': DNA analysis reveals clues about life on the Roman frontier after the fall of Rome",
-      "fetched_at": "2026-05-08T01:58:31.623652+00:00"
-    },
-    "84638f9daf35d8d9": {
-      "title": "千问AI眼镜升级主动服务能力",
-      "fetched_at": "2026-05-08T07:13:47.327233+00:00"
-    },
-    "967465969b5b5945": {
-      "title": "武汉光谷建设投资公司增资至50亿，增幅约114%",
-      "fetched_at": "2026-05-08T07:13:47.940857+00:00"
-    },
-    "1f09f8f8cc59cd11": {
-      "title": "报告：超四成消费者使用AI工具对比保险产品",
-      "fetched_at": "2026-05-08T07:13:48.626637+00:00"
-    },
-    "d361fef9b0723664": {
-      "title": "调查：美国4月非农就业人数可能仅增加6.2万人",
-      "fetched_at": "2026-05-08T07:13:49.314421+00:00"
-    },
-    "2ab29e63ae98c930": {
-      "title": "油价今晚要上调，加满一箱92号汽油将多花12.5元",
-      "fetched_at": "2026-05-08T07:13:49.943699+00:00"
-    },
-    "d14fe3da1f4b67eb": {
-      "title": "A股三大指数集体收跌，沐曦股份跌7%",
-      "fetched_at": "2026-05-08T07:13:50.536179+00:00"
-    },
-    "e4d3fec96b678769": {
-      "title": "Moodle – open-source Learning Management System",
-      "fetched_at": "2026-05-08T07:13:51.218714+00:00"
-    },
-    "323155de1273bd3b": {
-      "title": "沪深两市成交额连续第3个交易日突破3万亿",
-      "fetched_at": "2026-05-08T07:13:51.839896+00:00"
-    },
-    "8f4912b13f295801": {
-      "title": "广东天农集团股份有限公司向港交所提交上市申请书",
-      "fetched_at": "2026-05-08T07:13:52.442752+00:00"
-    },
-    "1efb09e9451599a1": {
-      "title": "The room, not the words in it. My AI harness",
-      "fetched_at": "2026-05-08T07:13:53.046082+00:00"
-    },
-    "dd66b2d76fb60b6a": {
-      "title": "AI-Native Hedge Funds Are Possible and Profitable Just Not the Next Unicorn",
-      "fetched_at": "2026-05-08T07:13:53.637803+00:00"
-    },
-    "56a3eaf87e527da9": {
-      "title": "任天堂将Switch 2在日售价提高至59980日元",
-      "fetched_at": "2026-05-08T07:13:54.250347+00:00"
-    },
-    "6d31f598b6899764": {
-      "title": "Why the Future of AI Depends on Smaller Models",
-      "fetched_at": "2026-05-08T07:13:55.032073+00:00"
-    },
-    "7d70b95bd2f41367": {
-      "title": "SubQ: Sub-quadratic LLM built for 12M-token reasoning",
-      "fetched_at": "2026-05-08T07:13:55.634427+00:00"
-    },
-    "b40a6b4fdbe79590": {
-      "title": "Fortinet：2026年第一季度营收18.5亿美元，同比增长20%",
-      "fetched_at": "2026-05-08T07:13:56.229455+00:00"
-    },
-    "ff00bd1e5e88d4fd": {
-      "title": "Why does AI like goblins and Japan so much?",
-      "fetched_at": "2026-05-08T07:13:56.818627+00:00"
-    },
-    "27dac32774206244": {
-      "title": "哈啰出行在丽江成立网络科技公司",
-      "fetched_at": "2026-05-08T07:13:57.403951+00:00"
-    },
-    "57132cea2e2f2521": {
-      "title": "沪深两市成交额连续第10个交易日突破2.5万亿元",
-      "fetched_at": "2026-05-08T07:13:58.002915+00:00"
-    },
-    "2213d2a11ae2dfb9": {
-      "title": "“未来智能”完成亿元级A+轮融资，与传音合作打造下一代AI Agent硬件",
-      "fetched_at": "2026-05-08T07:13:58.617270+00:00"
-    },
-    "0a971cef2db3d2f2": {
-      "title": "华尔街传奇投资人：AI牛市还能再持续一两年，已加码布局",
-      "fetched_at": "2026-05-08T07:13:59.218751+00:00"
-    },
-    "032f5da3cc2ec4f4": {
-      "title": "「跳出機器人思維」：用科學回答人工智慧是否讓你變笨，以及解決辦法",
-      "fetched_at": "2026-05-08T07:14:01.584852+00:00"
-    },
-    "6248555c5915ba21": {
-      "title": "染疫郵輪部分乘客已返回各國，我們應該擔心感染漢他病毒嗎?",
-      "fetched_at": "2026-05-08T07:14:02.190135+00:00"
-    },
-    "1efae537d2eed4d8": {
-      "title": "日本和平主義崩解？數十年來最大反戰示威爆發",
-      "fetched_at": "2026-05-08T07:14:02.785304+00:00"
-    },
-    "98ce1294c73d8093": {
-      "title": "中资电池厂风波：匈牙利还会继续与中国交好吗？",
-      "fetched_at": "2026-05-08T07:14:03.404449+00:00"
-    },
-    "b256fabc69c066f7": {
-      "title": "足球世界盃：央視轉播權為何難以敲定？中國人還會熬夜看球嗎？",
-      "fetched_at": "2026-05-08T07:14:03.990484+00:00"
-    },
-    "284d5face6d757f2": {
-      "title": "各国卫生官员追踪汉坦病毒接触者，预测疫情只会有限传播",
-      "fetched_at": "2026-05-08T07:14:04.611642+00:00"
-    },
-    "d45a735821268320": {
-      "title": "东航空难调查：数据显示飞机俯冲前驾驶舱内曾发生争斗",
-      "fetched_at": "2026-05-08T07:14:05.215051+00:00"
-    },
-    "38cbdfb503064bf6": {
-      "title": "梁朝伟：喜欢待在舒适区，与导演契合最重要",
-      "fetched_at": "2026-05-08T07:14:05.812650+00:00"
-    },
-    "167c7ada5ff9533a": {
-      "title": "美国继续向海湾国家大举军售，导弹库存引发担忧",
-      "fetched_at": "2026-05-08T07:14:06.429610+00:00"
-    },
-    "44fff775e13fb656": {
-      "title": "AI衝擊教育：中國家長怕孩子成了「科舉被廢後的秀才」",
-      "fetched_at": "2026-05-08T07:14:07.029551+00:00"
-    },
-    "9936c59ee4c5335f": {
-      "title": "中國爆發式增長的團播潮背後：情感詐騙、主播收入和隱秘活動",
-      "fetched_at": "2026-05-08T07:14:07.628636+00:00"
-    },
-    "4a0a94d9800511ff": {
-      "title": "Interstellar comet 3I/ATLAS contains strange water never seen in our solar system",
-      "fetched_at": "2026-05-08T07:14:12.445324+00:00"
-    },
-    "f8505079f5c35cf0": {
-      "title": "The Universe’s biggest black holes may be forged in violent mergers",
-      "fetched_at": "2026-05-08T07:14:13.182049+00:00"
-    },
-    "4b8595e29f2f1fee": {
-      "title": "AniTroves – An anime database with a custom LLM-based discovery hub",
-      "fetched_at": "2026-05-08T07:14:13.780007+00:00"
-    },
-    "031758b635284c11": {
-      "title": "What scientists found inside coral reefs could change the future of medicine",
-      "fetched_at": "2026-05-08T07:14:14.382859+00:00"
-    },
-    "cbf595b7683175f7": {
-      "title": "Early data links Wegovy to risk of 'eye stroke' — here's what to know",
-      "fetched_at": "2026-05-08T07:14:15.129175+00:00"
-    },
     "bccee582aaa5cbbc": {
       "title": "亚马逊北弗吉尼亚数据中心云服务中断问题已基本解决",
       "fetched_at": "2026-05-08T13:06:11.527344+00:00"
@@ -3931,7 +3647,119 @@
     "b284914c403b3371": {
       "title": "Earth is flying through ancient supernova dust",
       "fetched_at": "2026-05-16T01:55:07.445804+00:00"
+    },
+    "80b1ff3dd98997c1": {
+      "title": "电影《给阿嬷的情书》观影人次破1000万",
+      "fetched_at": "2026-05-16T07:48:16.991326+00:00"
+    },
+    "a878404cfdb1427c": {
+      "title": "Experience Layer for AI",
+      "fetched_at": "2026-05-16T07:48:17.609696+00:00"
+    },
+    "c3aafe9ce81df4b4": {
+      "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+      "fetched_at": "2026-05-16T07:48:18.299736+00:00"
+    },
+    "742cfd4b99dfe125": {
+      "title": "Goodbye Travel Agents, Hello AI Agents",
+      "fetched_at": "2026-05-16T07:48:18.921793+00:00"
+    },
+    "01ad0979c1d3eee2": {
+      "title": "最高涨价200元，贵州茅台宣布公斤茅台等四款产品提价",
+      "fetched_at": "2026-05-16T07:48:19.590714+00:00"
+    },
+    "598d068d6fb6b1b1": {
+      "title": "The Download: deepfake porn's stolen bodies and AI sharing private numbers",
+      "fetched_at": "2026-05-16T07:48:20.230769+00:00"
+    },
+    "3a822decec55a17e": {
+      "title": "SpaceX拟推万亿火星薪酬方案，马斯克回应：旨在确保公司专注于多行星生活愿景",
+      "fetched_at": "2026-05-16T07:48:20.841337+00:00"
+    },
+    "68e2c49a6f6341b3": {
+      "title": "蜜雪冰城：蜜桃四季春销量环比前日增长接近140%",
+      "fetched_at": "2026-05-16T07:48:21.465331+00:00"
+    },
+    "6f649ce245418a2a": {
+      "title": "中国机电商会率团访问美国洛杉矶",
+      "fetched_at": "2026-05-16T07:48:22.206181+00:00"
+    },
+    "5ce52417e734b935": {
+      "title": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
+      "fetched_at": "2026-05-16T07:48:22.822295+00:00"
+    },
+    "ceb8d38b8d4f4892": {
+      "title": "海信与印尼国家投资部门战略合作签约",
+      "fetched_at": "2026-05-16T07:48:23.446665+00:00"
+    },
+    "8ee0d454c6f43148": {
+      "title": "华为鸿蒙智行首款旗舰级MPV智界V9上市",
+      "fetched_at": "2026-05-16T07:48:24.073730+00:00"
+    },
+    "1b2aa2aa7f9da516": {
+      "title": "乐道L80上市，售价24.28万起",
+      "fetched_at": "2026-05-16T07:48:24.852773+00:00"
+    },
+    "f08d99a2d57d4a04": {
+      "title": "虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态",
+      "fetched_at": "2026-05-16T07:48:25.470910+00:00"
+    },
+    "634b75f34bcf7456": {
+      "title": "Tyouson – AI Practice tests for exams (www.tyouson.com)",
+      "fetched_at": "2026-05-16T07:48:26.097717+00:00"
+    },
+    "90ebbe18f0be2e94": {
+      "title": "波音：已获200架中国意向订单初步承诺",
+      "fetched_at": "2026-05-16T07:48:26.765365+00:00"
+    },
+    "cdbe7660fb286c2a": {
+      "title": "Frosthyon: AI assistant for 3D and general workflows",
+      "fetched_at": "2026-05-16T07:48:27.390239+00:00"
+    },
+    "037eef1ef09649d6": {
+      "title": "Who's composing music for my washing machine?",
+      "fetched_at": "2026-05-16T07:48:28.016338+00:00"
+    },
+    "56fb5208db2ed6ed": {
+      "title": "Ask HN: Share concrete examples of benefits from AI usage",
+      "fetched_at": "2026-05-16T07:48:28.667062+00:00"
+    },
+    "cfde24e13d97a57b": {
+      "title": "Show HN: AI that audits your codebase in 60 seconds",
+      "fetched_at": "2026-05-16T07:48:29.291039+00:00"
+    },
+    "1e79d2200f80c2e9": {
+      "title": "MAGA運動中的中國批評者如何看待特朗普的北京之行",
+      "fetched_at": "2026-05-16T07:48:32.051952+00:00"
+    },
+    "709a89e3e39936d7": {
+      "title": "特朗普與習近平舉行峰會數小時後，告誡台灣不要宣布獨立",
+      "fetched_at": "2026-05-16T07:48:32.675462+00:00"
+    },
+    "8e6caaf26b3d1ee1": {
+      "title": "从对抗到和解：特朗普学会跟中国打交道？",
+      "fetched_at": "2026-05-16T07:48:33.315727+00:00"
+    },
+    "992f28ec5d2e7d69": {
+      "title": "“建设性战略稳定”：习近平重新定义中美关系",
+      "fetched_at": "2026-05-16T07:48:33.936109+00:00"
+    },
+    "fddb9d0e4b834ba2": {
+      "title": "“习特会”为中国网民提供笑料：在荒诞和残酷中寻找幽默",
+      "fetched_at": "2026-05-16T07:48:34.554941+00:00"
+    },
+    "05b38df2f1717374": {
+      "title": "Who are the Japanese? DNA discovery rewrites history",
+      "fetched_at": "2026-05-16T07:49:08.200314+00:00"
+    },
+    "5315023cc3cc11ad": {
+      "title": "New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test",
+      "fetched_at": "2026-05-16T07:49:08.833510+00:00"
+    },
+    "e63b8eae73cd4dbc": {
+      "title": "Watch NASA's Curiosity rover 'struggle' to remove a rock that got stuck on its robotic arm for nearly a week",
+      "fetched_at": "2026-05-16T07:49:09.455699+00:00"
     }
   },
-  "last_updated": "2026-05-16T01:55:07.527103+00:00"
+  "last_updated": "2026-05-16T07:49:09.593838+00:00"
 }
