@@ -1,129 +1,5 @@
 {
   "articles": {
-    "bccee582aaa5cbbc": {
-      "title": "亚马逊北弗吉尼亚数据中心云服务中断问题已基本解决",
-      "fetched_at": "2026-05-08T13:06:11.527344+00:00"
-    },
-    "94704be5eb178b84": {
-      "title": "高盛：美国数据中心用电需求或在两年内翻倍",
-      "fetched_at": "2026-05-08T13:06:12.145056+00:00"
-    },
-    "61dd860ef62e256f": {
-      "title": "Phishing Arena – multi-agent LLM tournament to study adversarial email security",
-      "fetched_at": "2026-05-08T13:06:12.774077+00:00"
-    },
-    "53473508e08669b5": {
-      "title": "温州宏丰：白银价格受宏观经济等多重因素共同影响价格波动幅度较大，未来可能给业绩带来一定的不确定性",
-      "fetched_at": "2026-05-08T13:06:13.466625+00:00"
-    },
-    "bcc9aec41380b315": {
-      "title": "热门中概股美股盘前多数上涨，百度涨超5%",
-      "fetched_at": "2026-05-08T13:06:14.115162+00:00"
-    },
-    "4f61ce60f7c04ab0": {
-      "title": "美股大型科技股盘前多数上涨，英伟达涨超1%",
-      "fetched_at": "2026-05-08T13:06:14.745878+00:00"
-    },
-    "640b8485fd8adb4c": {
-      "title": "What Is an AI Control Plane",
-      "fetched_at": "2026-05-08T13:06:15.395213+00:00"
-    },
-    "0a722eb4ee610791": {
-      "title": "2连板北投科技：主营业务收入构成不涉及人工智能等相关热门概念",
-      "fetched_at": "2026-05-08T13:06:16.013741+00:00"
-    },
-    "d25871727e524d5d": {
-      "title": "美国4月失业率为4.3%",
-      "fetched_at": "2026-05-08T13:06:16.644935+00:00"
-    },
-    "82a843db7428fbf6": {
-      "title": "海光DCU完成与混元Hy3 preview大模型的深度适配",
-      "fetched_at": "2026-05-08T13:06:17.294312+00:00"
-    },
-    "77d3ea92bbf7abfc": {
-      "title": "元道通信：公司可能被实施重大违法强制退市",
-      "fetched_at": "2026-05-08T13:06:18.033024+00:00"
-    },
-    "6cde37b6f5f57cc4": {
-      "title": "Show HN: NanoCorp – Create autonomous companies run by AI",
-      "fetched_at": "2026-05-08T13:06:18.668120+00:00"
-    },
-    "58a0cdcc73d74ec6": {
-      "title": "How dangerous is Anthropic's Mythos AI? - Bruce Schneier",
-      "fetched_at": "2026-05-08T13:06:19.292227+00:00"
-    },
-    "21bab5893fa27966": {
-      "title": "深交所本周共对160起证券异常交易行为采取了自律监管措施",
-      "fetched_at": "2026-05-08T13:06:19.911594+00:00"
-    },
-    "a8b2958c633eac1e": {
-      "title": "The Impact of AI-Generated Text on the Internet",
-      "fetched_at": "2026-05-08T13:06:20.531095+00:00"
-    },
-    "dba22402a8db8913": {
-      "title": "蓝思科技：股东拟向永州市慈善总会无偿捐赠390.02万股",
-      "fetched_at": "2026-05-08T13:06:21.147385+00:00"
-    },
-    "5ac886ef991d7fce": {
-      "title": "Show HN: Rfp.ai – answer RFPs from approved docs, with source citations",
-      "fetched_at": "2026-05-08T13:06:21.783742+00:00"
-    },
-    "1a88c9e949388f55": {
-      "title": "Benchmarking AI agent retrieval strategies on Kubernetes bug fixes",
-      "fetched_at": "2026-05-08T13:06:22.504781+00:00"
-    },
-    "f1d25321f4ef3250": {
-      "title": "Building an Open Source 7MB AI Terminal with Agents and Code Editor (Rust/Tauri)",
-      "fetched_at": "2026-05-08T13:06:23.133287+00:00"
-    },
-    "5f861842e20fc068": {
-      "title": "Gnome Surface next-generation AI desktop platform built with GirCore-SkiaSharp",
-      "fetched_at": "2026-05-08T13:06:23.746397+00:00"
-    },
-    "bdb1f71907ddd109": {
-      "title": "台灣醫美巨頭愛爾麗涉「系統性偷拍」，數以百計女性憂私密影片外流",
-      "fetched_at": "2026-05-08T13:06:26.969547+00:00"
-    },
-    "41cacbb52a502f0c": {
-      "title": "前線的機器人：令人不安的戰爭未來",
-      "fetched_at": "2026-05-08T13:06:27.591325+00:00"
-    },
-    "ce8318a8bdaad028": {
-      "title": "俄羅斯閱兵：「勝利日」無坦克，顯示烏克蘭戰爭進展未如計劃",
-      "fetched_at": "2026-05-08T13:06:28.217203+00:00"
-    },
-    "905db38657ed169a": {
-      "title": "北京视美国为“跛脚的巨人”：习特会特朗普处境被动？",
-      "fetched_at": "2026-05-08T13:06:28.833373+00:00"
-    },
-    "17e45650f4d93469": {
-      "title": "500-year-old gold dental bridge is earliest known oral care of its kind in Scotland — and it likely held a fake tooth",
-      "fetched_at": "2026-05-08T13:06:30.514457+00:00"
-    },
-    "955e770422722ba6": {
-      "title": "Live quantum network test in New York overcomes 2 key hurdles in creating an 'unhackable' internet",
-      "fetched_at": "2026-05-08T13:06:31.110405+00:00"
-    },
-    "ee15c7fda1480ac8": {
-      "title": "Mangroves clean up $8.7 billion of nitrogen pollution every year, study finds",
-      "fetched_at": "2026-05-08T13:06:31.716647+00:00"
-    },
-    "4534780af69b3049": {
-      "title": "A common constipation drug shows surprising power to protect kidneys",
-      "fetched_at": "2026-05-08T13:06:32.336244+00:00"
-    },
-    "18c1e1b41adfe10d": {
-      "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
-      "fetched_at": "2026-05-08T13:06:33.036578+00:00"
-    },
-    "38cf93c822c3f56c": {
-      "title": "Scientists make stunning discovery that could change our understanding of the Universe",
-      "fetched_at": "2026-05-08T13:06:33.645600+00:00"
-    },
-    "55e529f930a258d5": {
-      "title": "Hantavirus cruise LIVE: Cruise passengers monitored in several US states as CDC sets lowest emergency response",
-      "fetched_at": "2026-05-08T13:06:34.272257+00:00"
-    },
     "d2fd36ceea79631b": {
       "title": "All the latest updates on AI data centers",
       "fetched_at": "2026-05-08T19:02:23.218258+00:00"
@@ -3875,7 +3751,115 @@
     "f8505079f5c35cf0": {
       "title": "The Universe’s biggest black holes may be forged in violent mergers",
       "fetched_at": "2026-05-16T12:56:12.036799+00:00"
+    },
+    "fead3766128f3f66": {
+      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "fetched_at": "2026-05-16T18:46:46.499481+00:00"
+    },
+    "5a456e3fec5f2fc2": {
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "fetched_at": "2026-05-16T18:46:47.181746+00:00"
+    },
+    "704d60782f1e1cec": {
+      "title": "阿里健康正式发布医学AI助手“氢离子”",
+      "fetched_at": "2026-05-16T18:46:47.798874+00:00"
+    },
+    "5ceda3b1a3081747": {
+      "title": "马斯克称他不会出售任何SpaceX股票",
+      "fetched_at": "2026-05-16T18:46:48.424340+00:00"
+    },
+    "2181f1da37537dd9": {
+      "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+      "fetched_at": "2026-05-16T18:46:49.076954+00:00"
+    },
+    "777e9394ea389126": {
+      "title": "为什么我觉得好的东西，媒体评测却给了低分？",
+      "fetched_at": "2026-05-16T18:46:49.703443+00:00"
+    },
+    "8d40cbefe046ecc2": {
+      "title": "国内品牌金饰克价跌破1400元",
+      "fetched_at": "2026-05-16T18:46:50.333405+00:00"
+    },
+    "4d6c2a7b2b4ae2bf": {
+      "title": "FF获2500万美元新融资",
+      "fetched_at": "2026-05-16T18:46:50.975860+00:00"
+    },
+    "ba051c6d5fc04be7": {
+      "title": "SpaceX批准“1拆5”拆股方案，所有C类股将转换为A类股",
+      "fetched_at": "2026-05-16T18:46:51.600655+00:00"
+    },
+    "467debbd78739b2f": {
+      "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
+      "fetched_at": "2026-05-16T18:46:52.236225+00:00"
+    },
+    "dc5b8c77ddf845b5": {
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "fetched_at": "2026-05-16T18:46:52.866350+00:00"
+    },
+    "7982e76df457632f": {
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "fetched_at": "2026-05-16T18:46:53.494428+00:00"
+    },
+    "b3d3498eb5d78e9c": {
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "fetched_at": "2026-05-16T18:46:54.117950+00:00"
+    },
+    "2ad9d6bf7b92dfab": {
+      "title": "OpenAI now wants ChatGPT to access your bank accounts",
+      "fetched_at": "2026-05-16T18:46:54.753858+00:00"
+    },
+    "5b3d29d2dee26257": {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "fetched_at": "2026-05-16T18:46:55.377887+00:00"
+    },
+    "63571f61e2677780": {
+      "title": "理想出牌：全新L9上市，45.98万元起｜最前线",
+      "fetched_at": "2026-05-16T18:46:56.099915+00:00"
+    },
+    "f8f20f9013ac9234": {
+      "title": "The promises and pitfalls of personalized health",
+      "fetched_at": "2026-05-16T18:46:56.727856+00:00"
+    },
+    "b41a7776ca229e11": {
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+      "fetched_at": "2026-05-16T18:46:57.368525+00:00"
+    },
+    "9b2ad652dc9b4b05": {
+      "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
+      "fetched_at": "2026-05-16T18:46:58.123094+00:00"
+    },
+    "3a9d55fad3e5d4e6": {
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "fetched_at": "2026-05-16T18:46:58.744537+00:00"
+    },
+    "65f9aa78020942bb": {
+      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "fetched_at": "2026-05-16T18:47:07.479760+00:00"
+    },
+    "4700672f342c99b6": {
+      "title": "8-year-old African American boy from Colonial Maryland found buried with white Colonists, and it's unclear if he was enslaved",
+      "fetched_at": "2026-05-16T18:47:08.104953+00:00"
+    },
+    "f542b95663b1c1b3": {
+      "title": "What counts as 'close contact'? Why the risk of hantavirus transmission is tricky to define",
+      "fetched_at": "2026-05-16T18:47:08.851098+00:00"
+    },
+    "f14996447c0ec39f": {
+      "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
+      "fetched_at": "2026-05-16T18:47:09.476254+00:00"
+    },
+    "d7477ada7bafd8a2": {
+      "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
+      "fetched_at": "2026-05-16T18:47:10.110859+00:00"
+    },
+    "b913a5170fc18906": {
+      "title": "Stunning fossil discovery in Ethiopia rewrites human origins",
+      "fetched_at": "2026-05-16T18:47:10.740726+00:00"
+    },
+    "fb6ec4a00aa3d7f4": {
+      "title": "Scientists discover hidden “brakes” that stop massive earthquakes",
+      "fetched_at": "2026-05-16T18:47:11.355734+00:00"
     }
   },
-  "last_updated": "2026-05-16T12:56:12.189064+00:00"
+  "last_updated": "2026-05-16T18:47:11.467306+00:00"
 }
