@@ -1,249 +1,5 @@
 {
   "articles": {
-    "d2fd36ceea79631b": {
-      "title": "All the latest updates on AI data centers",
-      "fetched_at": "2026-05-08T19:02:23.218258+00:00"
-    },
-    "f2fe0844ff949458": {
-      "title": "IatroBench: Pre-Registered Evidence of Iatrogenic Harm from AI Safety Measures",
-      "fetched_at": "2026-05-08T19:02:23.818888+00:00"
-    },
-    "8377d70f0a09900f": {
-      "title": "Trusted Remote Execution: Policy-Enforced Scripts for AI Agents and Humans",
-      "fetched_at": "2026-05-08T19:02:24.415242+00:00"
-    },
-    "cae6e7b34757a190": {
-      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "fetched_at": "2026-05-08T19:02:25.004879+00:00"
-    },
-    "2c5ab0c486a30fea": {
-      "title": "SafeSandbox – infinite undo for AI coding agents (Cursor, Claude Code, Codex)",
-      "fetched_at": "2026-05-08T19:02:25.608828+00:00"
-    },
-    "f743f2a73c777b4b": {
-      "title": "Show HN: Openloom – Turn Loom links into transcripts and frames an LLM can watch",
-      "fetched_at": "2026-05-08T19:02:26.208051+00:00"
-    },
-    "0c58d8ac80a3ee96": {
-      "title": "Trump jumps from 'anything goes' to 'strict regulation' AI policy",
-      "fetched_at": "2026-05-08T19:02:26.799673+00:00"
-    },
-    "0dc3e64ba9c9cafa": {
-      "title": "A New Engineering Metric for the AI-Transformation Age",
-      "fetched_at": "2026-05-08T19:02:27.439113+00:00"
-    },
-    "bc7cd86628e2119f": {
-      "title": "I've been using Empirical as my memory layer across AI tools",
-      "fetched_at": "2026-05-08T19:02:28.032294+00:00"
-    },
-    "193e33ad0b5a5493": {
-      "title": "Novel macro signals for AI-related job loss?",
-      "fetched_at": "2026-05-08T19:02:28.662247+00:00"
-    },
-    "6811d89699e605ad": {
-      "title": "AI Is Breaking Two Vulnerability Cultures",
-      "fetched_at": "2026-05-08T19:02:29.262542+00:00"
-    },
-    "0841fd54f983240f": {
-      "title": "One keypress is all it takes to compromise four AI coding tools",
-      "fetched_at": "2026-05-08T19:02:29.856034+00:00"
-    },
-    "92d677f5e574d76d": {
-      "title": "How to learn to code in the age of AI",
-      "fetched_at": "2026-05-08T19:02:30.470733+00:00"
-    },
-    "c88359187b6f9e06": {
-      "title": "Show HN: Build a custom AI in under 60 seconds (demo video)",
-      "fetched_at": "2026-05-08T19:02:31.106307+00:00"
-    },
-    "adda2f1603bf37d2": {
-      "title": "IMF Warns That Evolving AI Threat Could Upend Financial Markets",
-      "fetched_at": "2026-05-08T19:02:31.703278+00:00"
-    },
-    "5d6f07ef0fce3571": {
-      "title": "Data centers at sea: Panthalassa nets $140M for wave-powered AI",
-      "fetched_at": "2026-05-08T19:02:32.297243+00:00"
-    },
-    "9d05e32bf57eea4a": {
-      "title": "AI Native Flights Search",
-      "fetched_at": "2026-05-08T19:02:32.892153+00:00"
-    },
-    "675f864f344e3859": {
-      "title": "We Spent 10 Days Touring Chinese AI Labs. Here's What We Saw",
-      "fetched_at": "2026-05-08T19:02:33.501351+00:00"
-    },
-    "e99b7007e79409ae": {
-      "title": "Show HN: PostDew – LinkedIn posts that don't sound like AI",
-      "fetched_at": "2026-05-08T19:02:34.111873+00:00"
-    },
-    "8ec67c38a2d48f1d": {
-      "title": "US Border Spending Spurs Boom in AI-Infused Surveillance",
-      "fetched_at": "2026-05-08T19:02:34.779174+00:00"
-    },
-    "44ddb57621676da3": {
-      "title": "1,500-Year-Old Gold Ornament Discovered in Southern Norway",
-      "fetched_at": "2026-05-08T19:02:38.657484+00:00"
-    },
-    "731e8e5e95e32728": {
-      "title": "Neanderthals May Have Used Rhino Teeth as Tools",
-      "fetched_at": "2026-05-08T19:02:39.260473+00:00"
-    },
-    "e8ab422e2e7c1437": {
-      "title": "Some gene therapies no longer require clinical trials, thanks to new FDA rule. Is this safe, and who will it help?",
-      "fetched_at": "2026-05-08T19:02:39.874634+00:00"
-    },
-    "d08eaeece0e5af65": {
-      "title": "US government declassifies nearly 200 UAP files, including strange sightings from Apollo astronauts",
-      "fetched_at": "2026-05-08T19:02:40.536448+00:00"
-    },
-    "66297068272b3a02": {
-      "title": "Flowering plants transformed into 'hopeful monsters' in 9 dire bursts across evolutionary time, study finds",
-      "fetched_at": "2026-05-08T19:02:41.137505+00:00"
-    },
-    "214c3def75f7f524": {
-      "title": "Live 'quantum network' being tested in New York — overcoming key hurdles could bring us closer to an 'unhackable' internet",
-      "fetched_at": "2026-05-08T19:02:41.729826+00:00"
-    },
-    "682d0607e8351315": {
-      "title": "Hantavirus cruise LIVE: Cruise passengers monitored in at least 5 US states as American passengers set to receive repatriation flight",
-      "fetched_at": "2026-05-08T19:02:42.342997+00:00"
-    },
-    "21e8cac56e7d94bf": {
-      "title": "Scientists reveal the best exercise for knee arthritis pain relief",
-      "fetched_at": "2026-05-08T19:02:42.934106+00:00"
-    },
-    "4c5b5f90f2fc0b43": {
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "fetched_at": "2026-05-08T19:02:43.770103+00:00"
-    },
-    "502db866a82f768e": {
-      "title": "A photon was teleported across 270 meters in stunning quantum breakthrough",
-      "fetched_at": "2026-05-08T19:02:44.365568+00:00"
-    },
-    "56c314ff4c7781af": {
-      "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
-      "fetched_at": "2026-05-08T19:02:45.005318+00:00"
-    },
-    "8e5f05c8101644eb": {
-      "title": "Ask Hacker News: AI music with feedback",
-      "fetched_at": "2026-05-09T01:51:25.854560+00:00"
-    },
-    "c6b65fba013eb0f9": {
-      "title": "科兴生物补发财报：2025上半年实现销售额1.303亿美元，同比增1.2%",
-      "fetched_at": "2026-05-09T01:51:26.458977+00:00"
-    },
-    "ba4d63332a07a4d4": {
-      "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
-      "fetched_at": "2026-05-09T01:51:27.389647+00:00"
-    },
-    "194adef8e5a96b8e": {
-      "title": "How to Work and Compound with AI",
-      "fetched_at": "2026-05-09T01:51:28.005630+00:00"
-    },
-    "376fd3cf8ca9465b": {
-      "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
-      "fetched_at": "2026-05-09T01:51:28.646631+00:00"
-    },
-    "90ccb24a318ea319": {
-      "title": "AI's Circular Psychosis",
-      "fetched_at": "2026-05-09T01:51:29.271778+00:00"
-    },
-    "ae9f5330d28c7b1f": {
-      "title": "AI Hard Drive Shortage Making It More Expensive, Harder to Archive the Internet",
-      "fetched_at": "2026-05-09T01:51:29.877008+00:00"
-    },
-    "2bd589e086e7af80": {
-      "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
-      "fetched_at": "2026-05-09T01:51:30.538328+00:00"
-    },
-    "bec5a4d44ed9b1be": {
-      "title": "海辰储能王鹏程：订单已排至2027年，供不应求",
-      "fetched_at": "2026-05-09T01:51:31.149956+00:00"
-    },
-    "6b6203866d1ec42c": {
-      "title": "阿波罗和黑石等机构考虑参与博通近350亿美元融资",
-      "fetched_at": "2026-05-09T01:51:31.755515+00:00"
-    },
-    "19b35a2506822feb": {
-      "title": "英特尔与苹果据悉达成初步协议，将为后者设备制造芯片",
-      "fetched_at": "2026-05-09T01:51:32.351349+00:00"
-    },
-    "4b4a71fd73529354": {
-      "title": "美股三大指数集体收盘涨，英特尔涨超13%",
-      "fetched_at": "2026-05-09T01:51:32.970997+00:00"
-    },
-    "cdbd0ef63d2ee46e": {
-      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-      "fetched_at": "2026-05-09T01:51:33.631904+00:00"
-    },
-    "f6f9d4b4b7e5cefe": {
-      "title": "Show HN: Nexa-gauge – Cache/cost-aware graph-based eval for LLM and RAG",
-      "fetched_at": "2026-05-09T01:51:34.237735+00:00"
-    },
-    "3fe9e2237b2e47e8": {
-      "title": "People Hate AI Art",
-      "fetched_at": "2026-05-09T01:51:34.845411+00:00"
-    },
-    "e71da33397131339": {
-      "title": "Accelerator Applicant's AI System Makes Faux Pau; Critical of Accelerator Model",
-      "fetched_at": "2026-05-09T01:51:35.460804+00:00"
-    },
-    "85e04397e17b6a85": {
-      "title": "AI Canasta Scoring App",
-      "fetched_at": "2026-05-09T01:51:36.069935+00:00"
-    },
-    "47fa4782b0a83180": {
-      "title": "Playing Around with OpenAI's GPT Realtime Voice API",
-      "fetched_at": "2026-05-09T01:51:36.679778+00:00"
-    },
-    "04473b64c1f27ffa": {
-      "title": "Show HN: AI-native tech assessments (end of LeetCode)",
-      "fetched_at": "2026-05-09T01:51:37.272895+00:00"
-    },
-    "7697de3139c7ecb5": {
-      "title": "Ask HN: What are the most joyful AI projects you've seen?",
-      "fetched_at": "2026-05-09T01:51:37.878927+00:00"
-    },
-    "6a1c4862e62038ee": {
-      "title": "懸浮物體與閃光：五角大樓的UFO解密檔案披露了什麼？",
-      "fetched_at": "2026-05-09T01:51:40.871109+00:00"
-    },
-    "9b6555d128a733a9": {
-      "title": "英國地方選舉工黨慘敗，首相施紀賢受逼宮壓力堅拒辭職",
-      "fetched_at": "2026-05-09T01:51:41.511932+00:00"
-    },
-    "5be8f87425c844ce": {
-      "title": "2026高雄「亞洲同志運動會」：中國大陸選手為何全數被拒入境",
-      "fetched_at": "2026-05-09T01:51:42.109874+00:00"
-    },
-    "dee9a5bc3528c5f3": {
-      "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
-      "fetched_at": "2026-05-09T01:51:42.897462+00:00"
-    },
-    "3499520a046605b6": {
-      "title": "Study Suggests Korea’s Ancient Dogs Differed from Other East Asian Canines",
-      "fetched_at": "2026-05-09T01:51:44.803983+00:00"
-    },
-    "2ee693ef09a85183": {
-      "title": "New obesity discovery rewrites decades of fat science",
-      "fetched_at": "2026-05-09T01:51:45.417035+00:00"
-    },
-    "e166aa26948377b1": {
-      "title": "'The detectors never stopped beeping!' Nearly 3,000 coins discovered in field are Norway's largest Viking hoard on record",
-      "fetched_at": "2026-05-09T01:51:46.020524+00:00"
-    },
-    "e5d89c8231c6e7b0": {
-      "title": "ZWO Seestar S30 Pro smart telescope review",
-      "fetched_at": "2026-05-09T01:51:46.650037+00:00"
-    },
-    "14adacff08067ec2": {
-      "title": "'Two lives hang in the balance': Risky surgery in the womb saved baby from deadly disorder at just 25 weeks gestation",
-      "fetched_at": "2026-05-09T01:51:47.243342+00:00"
-    },
-    "2befcc95ab0c386d": {
-      "title": "Google AI breakthrough means chatbots use six times less memory during conversations without compromising performance",
-      "fetched_at": "2026-05-09T01:51:47.922151+00:00"
-    },
     "7f42409c1af6870b": {
       "title": "我国单线产能最大的大丝束碳纤维生产线建成投产",
       "fetched_at": "2026-05-09T07:30:23.765555+00:00"
@@ -3859,7 +3615,107 @@
     "fb6ec4a00aa3d7f4": {
       "title": "Scientists discover hidden “brakes” that stop massive earthquakes",
       "fetched_at": "2026-05-16T18:47:11.355734+00:00"
+    },
+    "a7a71304195fd8cd": {
+      "title": "法拉第未来宣布获得2500万美元融资",
+      "fetched_at": "2026-05-17T01:57:06.677766+00:00"
+    },
+    "95a9b8b78e4699ac": {
+      "title": "知乎CEO周源：AI时代真实创作者价值不可替代",
+      "fetched_at": "2026-05-17T01:57:07.304559+00:00"
+    },
+    "512b0bd1eeee5892": {
+      "title": "48022桌需退款，这家网红店出了什么事？",
+      "fetched_at": "2026-05-17T01:57:08.118166+00:00"
+    },
+    "3b42ea296dd649bc": {
+      "title": "印度股市市值蒸发9240亿美元，错失人工智能浪潮",
+      "fetched_at": "2026-05-17T01:57:08.740682+00:00"
+    },
+    "183b46874c765717": {
+      "title": "蔚来：已在全国建成8870座充换电站",
+      "fetched_at": "2026-05-17T01:57:09.350076+00:00"
+    },
+    "a36509dc4fe5b5e1": {
+      "title": "盖茨基金会不再持有微软股票",
+      "fetched_at": "2026-05-17T01:57:09.997468+00:00"
+    },
+    "45cc2a3cdd1ee01a": {
+      "title": "伊朗宣布5月19日起恢复股票市场交易",
+      "fetched_at": "2026-05-17T01:57:10.609703+00:00"
+    },
+    "e6d703648de772e2": {
+      "title": "中国汽车专利公开量全球领先，新能源领域年均增长率17.1%",
+      "fetched_at": "2026-05-17T01:57:11.234166+00:00"
+    },
+    "8b142d5aa9e25c1f": {
+      "title": "The haves and have nots of the AI gold rush",
+      "fetched_at": "2026-05-17T01:57:11.851483+00:00"
+    },
+    "97eda01bb1254faa": {
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "fetched_at": "2026-05-17T01:57:12.474256+00:00"
+    },
+    "10b2ccf0ffd1dadc": {
+      "title": "AI research papers are getting better, and it’s a big problem for scientists",
+      "fetched_at": "2026-05-17T01:57:13.091931+00:00"
+    },
+    "cde2ad42b0961558": {
+      "title": "36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏",
+      "fetched_at": "2026-05-17T01:57:13.741402+00:00"
+    },
+    "bb43cea780ccdcf2": {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "fetched_at": "2026-05-17T01:57:14.356105+00:00"
+    },
+    "3a1f8d78b06a08c5": {
+      "title": "装了啥：编辑部用什么转写音视频内容？",
+      "fetched_at": "2026-05-17T01:57:14.982926+00:00"
+    },
+    "6f68104456dcdee1": {
+      "title": "[会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看",
+      "fetched_at": "2026-05-17T01:57:15.610010+00:00"
+    },
+    "f68048d51705e96b": {
+      "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
+      "fetched_at": "2026-05-17T01:57:16.320240+00:00"
+    },
+    "ac1beecbe8a7b305": {
+      "title": "快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验",
+      "fetched_at": "2026-05-17T01:57:16.943469+00:00"
+    },
+    "a710f9239f7fe0fd": {
+      "title": "长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家",
+      "fetched_at": "2026-05-17T01:57:17.581409+00:00"
+    },
+    "5beb85c115846c29": {
+      "title": "你真的需要墨水屏设备吗？",
+      "fetched_at": "2026-05-17T01:57:18.207833+00:00"
+    },
+    "0f9bf71e486f6051": {
+      "title": "36氪首发｜航天发动机核心部件厂商获投，国内唯一具备核心部件一站式制造能力的民营企业",
+      "fetched_at": "2026-05-17T01:57:18.839476+00:00"
+    },
+    "bdb1f71907ddd109": {
+      "title": "台灣醫美巨頭愛爾麗涉「系統性偷拍」，數以百計女性憂私密影片外流",
+      "fetched_at": "2026-05-17T01:57:21.569928+00:00"
+    },
+    "41cacbb52a502f0c": {
+      "title": "前線的機器人：令人不安的戰爭未來",
+      "fetched_at": "2026-05-17T01:57:22.197639+00:00"
+    },
+    "4534780af69b3049": {
+      "title": "A common constipation drug shows surprising power to protect kidneys",
+      "fetched_at": "2026-05-17T01:57:24.424552+00:00"
+    },
+    "18c1e1b41adfe10d": {
+      "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
+      "fetched_at": "2026-05-17T01:57:25.088598+00:00"
+    },
+    "38cf93c822c3f56c": {
+      "title": "Scientists make stunning discovery that could change our understanding of the Universe",
+      "fetched_at": "2026-05-17T01:57:25.703216+00:00"
     }
   },
-  "last_updated": "2026-05-16T18:47:11.467306+00:00"
+  "last_updated": "2026-05-17T01:57:25.806084+00:00"
 }
