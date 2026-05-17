@@ -1,117 +1,5 @@
 {
   "articles": {
-    "7f42409c1af6870b": {
-      "title": "我国单线产能最大的大丝束碳纤维生产线建成投产",
-      "fetched_at": "2026-05-09T07:30:23.765555+00:00"
-    },
-    "4e8013abce1d6c1b": {
-      "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "fetched_at": "2026-05-09T07:30:24.401944+00:00"
-    },
-    "1053461da3db0a3e": {
-      "title": "百度正式发布文心大模型5.1",
-      "fetched_at": "2026-05-09T07:30:25.034084+00:00"
-    },
-    "598776138170d913": {
-      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
-      "fetched_at": "2026-05-09T07:30:25.671956+00:00"
-    },
-    "3257479bea435da1": {
-      "title": "智源FlagSafe平台正式发布",
-      "fetched_at": "2026-05-09T07:30:26.302906+00:00"
-    },
-    "0abcd14190965bd0": {
-      "title": "Seedream AI image studio for global creators",
-      "fetched_at": "2026-05-09T07:30:26.929283+00:00"
-    },
-    "be44110250123fe4": {
-      "title": "字节跳动申请注册火山词元商标",
-      "fetched_at": "2026-05-09T07:30:27.546223+00:00"
-    },
-    "d9a360ce9dd5fc47": {
-      "title": "美团闪购联合茅台、五粮液等品牌推出酒水即时零售月度专区",
-      "fetched_at": "2026-05-09T07:30:28.168151+00:00"
-    },
-    "12cce82bdbb7cb61": {
-      "title": "Why LLM-as-judge fails for code evaluation",
-      "fetched_at": "2026-05-09T07:30:28.790997+00:00"
-    },
-    "af5a02f7ad24eacb": {
-      "title": "美国网络教育平台Canvas遭黑客攻击，服务已恢复",
-      "fetched_at": "2026-05-09T07:30:29.468127+00:00"
-    },
-    "b2d6784531329496": {
-      "title": "Zeroth元点M1成为全球首个接入OpenClaw的人形机器人",
-      "fetched_at": "2026-05-09T07:30:30.099937+00:00"
-    },
-    "55415825c2370f17": {
-      "title": "广东省电子信息产业集团增资至16.62亿，增幅约43%",
-      "fetched_at": "2026-05-09T07:30:30.769636+00:00"
-    },
-    "6abe6ba335b8b45a": {
-      "title": "I Will Never Use AI to Code",
-      "fetched_at": "2026-05-09T07:30:31.387280+00:00"
-    },
-    "719316e310ce6dea": {
-      "title": "The Birthplace of AI",
-      "fetched_at": "2026-05-09T07:30:32.003494+00:00"
-    },
-    "df92bed802d09096": {
-      "title": "Building an AI-Powered IDE Companion App",
-      "fetched_at": "2026-05-09T07:30:32.630752+00:00"
-    },
-    "ee579ba60090d7fb": {
-      "title": "东土科技等在湖北成立智能机器人产业发展公司，注册资本3.5亿",
-      "fetched_at": "2026-05-09T07:30:33.252726+00:00"
-    },
-    "54363587a54709de": {
-      "title": "广汽埃安否认被约谈及被立案调查",
-      "fetched_at": "2026-05-09T07:30:36.112861+00:00"
-    },
-    "82a0fa13e0f7a6fb": {
-      "title": "中国家电网成立清洁电器“反虚假测评联盟”，京东与25家品牌率先加入",
-      "fetched_at": "2026-05-09T07:30:36.754055+00:00"
-    },
-    "de302ef5be4f9853": {
-      "title": "比亚迪：网传“比亚迪被约谈、立案”不实",
-      "fetched_at": "2026-05-09T07:30:37.432721+00:00"
-    },
-    "8286e48ddb265d8a": {
-      "title": "相关部门召集多家猪企及行业专家开会，交流国内生猪生产、流通消费及进出口情况",
-      "fetched_at": "2026-05-09T07:30:38.053902+00:00"
-    },
-    "e88e4e48043efc1d": {
-      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
-      "fetched_at": "2026-05-09T07:30:41.026459+00:00"
-    },
-    "f1bdb38df5829e91": {
-      "title": "Scientists found the “holy grail” gene that could one day help humans regrow limbs",
-      "fetched_at": "2026-05-09T07:30:50.177136+00:00"
-    },
-    "75d1eca3b097064a": {
-      "title": "Ancient N. American Settlement Older Than Pyramids Discovered; Rewrites History",
-      "fetched_at": "2026-05-09T07:30:50.998586+00:00"
-    },
-    "7062535fe73a2b3a": {
-      "title": "Agent-to-agent discovery and real-time bidding marketplace",
-      "fetched_at": "2026-05-09T07:30:51.661916+00:00"
-    },
-    "e1aef366ba668393": {
-      "title": "Weapons of the world quiz: Can you identify these historical objects of war?",
-      "fetched_at": "2026-05-09T07:30:52.297930+00:00"
-    },
-    "7114384c65607b5e": {
-      "title": "Cutting Through the Mythos: What AI Vulnerability Discovery Means for OT",
-      "fetched_at": "2026-05-09T07:30:52.941868+00:00"
-    },
-    "38f35bf92675a044": {
-      "title": "Thoughts on Historical Language Models and Talkie-1930",
-      "fetched_at": "2026-05-09T07:30:53.580546+00:00"
-    },
-    "ca4561a438b9b006": {
-      "title": "Octopus 'krakens' as large as semi-trucks stalked ancient seas",
-      "fetched_at": "2026-05-09T07:30:54.189893+00:00"
-    },
     "439bb60e984c45ca": {
       "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
       "fetched_at": "2026-05-09T12:51:28.495597+00:00"
@@ -3715,7 +3603,151 @@
     "38cf93c822c3f56c": {
       "title": "Scientists make stunning discovery that could change our understanding of the Universe",
       "fetched_at": "2026-05-17T01:57:25.703216+00:00"
+    },
+    "6e08d5665bb08312": {
+      "title": "PCB钻针量价齐升",
+      "fetched_at": "2026-05-17T08:08:39.730426+00:00"
+    },
+    "81aca258b7afa833": {
+      "title": "日本2025财年人均大米消费量下滑6%，创七年新低",
+      "fetched_at": "2026-05-17T08:08:40.357643+00:00"
+    },
+    "ad5b8c59637d682e": {
+      "title": "又诞生一位千亿女富豪",
+      "fetched_at": "2026-05-17T08:08:40.975630+00:00"
+    },
+    "2b37cf002d37d029": {
+      "title": "2ality blog: temporarily offline due to AI stealing work",
+      "fetched_at": "2026-05-17T08:08:41.908217+00:00"
+    },
+    "25dc5eec2f422c0a": {
+      "title": "Project Prism |Fullstack Engineer – Abu Dhabi (Onsite) – Full-Time – Presight.ai",
+      "fetched_at": "2026-05-17T08:08:42.537320+00:00"
+    },
+    "5cff516ebc3df87a": {
+      "title": "A cheap fix that saves the AI $400M dollars a year and brings 4B people online",
+      "fetched_at": "2026-05-17T08:08:43.171055+00:00"
+    },
+    "80c5b354585b21c5": {
+      "title": "中国新提3项旅游国际标准，将开启立项投票",
+      "fetched_at": "2026-05-17T08:08:43.793535+00:00"
+    },
+    "8218142df96f7c85": {
+      "title": "Anthropic just admitted AI is bullshit [video]",
+      "fetched_at": "2026-05-17T08:08:44.418974+00:00"
+    },
+    "2898f2d2534e65a5": {
+      "title": "小米卢伟冰：下半年部分国产旗舰直板手机价格或将破万",
+      "fetched_at": "2026-05-17T08:08:45.089223+00:00"
+    },
+    "c04ff65c29bb9e4f": {
+      "title": "杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元",
+      "fetched_at": "2026-05-17T08:08:45.714264+00:00"
+    },
+    "5819e02b71ff8084": {
+      "title": "The US Is Using AI to Hunt Down Insider Trading on Polymarket",
+      "fetched_at": "2026-05-17T08:08:46.327364+00:00"
+    },
+    "efb057c78b436617": {
+      "title": "传三星Exynos 2700芯片正考虑放弃FOWLP先进封装工艺",
+      "fetched_at": "2026-05-17T08:08:46.976992+00:00"
+    },
+    "41ef86acb03a38a7": {
+      "title": "韩国将投入超1亿美元扶持中小企业，覆盖半导体产业",
+      "fetched_at": "2026-05-17T08:08:47.602522+00:00"
+    },
+    "5e0b75ebd71c2152": {
+      "title": "2026电影总票房已超144亿元",
+      "fetched_at": "2026-05-17T08:08:48.239446+00:00"
+    },
+    "7bf34de206860f4c": {
+      "title": "AI Playground – Let AI agents play safely",
+      "fetched_at": "2026-05-17T08:08:48.861964+00:00"
+    },
+    "28eed9cbe25c5ffc": {
+      "title": "深圳发布2026年住房发展计划，将筹建3万套、供应4万套保障房",
+      "fetched_at": "2026-05-17T08:08:49.466429+00:00"
+    },
+    "cded52da8158e8ae": {
+      "title": "AI-generated code is 'pain waiting to happen'",
+      "fetched_at": "2026-05-17T08:08:50.193299+00:00"
+    },
+    "02f82ce8ee3a8520": {
+      "title": "首个东数西算、算电融合的特大型Token工厂落子无锡",
+      "fetched_at": "2026-05-17T08:08:50.943764+00:00"
+    },
+    "dccc292033ef6268": {
+      "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+      "fetched_at": "2026-05-17T08:08:51.561087+00:00"
+    },
+    "cb07642098390294": {
+      "title": "At Cannes, filmmakers shift toward cautious acceptance of AI",
+      "fetched_at": "2026-05-17T08:08:52.186017+00:00"
+    },
+    "6261c2b18a7fd10b": {
+      "title": "特朗普結束訪華後，中俄即宣佈普京下週二起對中國進行國事訪問",
+      "fetched_at": "2026-05-17T08:08:56.154818+00:00"
+    },
+    "535450630061228d": {
+      "title": "2026歐洲歌唱大賽：保加利亞奪冠，英國墊底",
+      "fetched_at": "2026-05-17T08:08:56.777335+00:00"
+    },
+    "bea50892285ca4a8": {
+      "title": "專訪台灣作家楊双子：從美食探尋台灣殖民歷史",
+      "fetched_at": "2026-05-17T08:08:57.393562+00:00"
+    },
+    "4387d64882c294fc": {
+      "title": "《臺灣漫遊錄》入圍布克獎：楊双子筆下的台灣美食與殖民記憶",
+      "fetched_at": "2026-05-17T08:08:58.006781+00:00"
+    },
+    "b4f19f92b8d767de": {
+      "title": "特朗普發出警告後，台灣仍堅稱本身就是主權獨立的國家",
+      "fetched_at": "2026-05-17T08:08:58.633191+00:00"
+    },
+    "4481eb8bb7607ca7": {
+      "title": "數萬億公里的數據：你知道你的汽車正在監視你嗎？",
+      "fetched_at": "2026-05-17T08:08:59.252953+00:00"
+    },
+    "dee9a5bc3528c5f3": {
+      "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
+      "fetched_at": "2026-05-17T08:08:59.874665+00:00"
+    },
+    "183730c196620881": {
+      "title": "Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution",
+      "fetched_at": "2026-05-17T08:09:01.493889+00:00"
+    },
+    "0cdb832071ca3060": {
+      "title": "Lost 1,200-year-old manuscript contains the first English poem",
+      "fetched_at": "2026-05-17T08:09:02.143092+00:00"
+    },
+    "59315bf70b8302a9": {
+      "title": "Zhengkid/AutoTTS: Agentic Discovery for Test-Time Scaling",
+      "fetched_at": "2026-05-17T08:09:02.760755+00:00"
+    },
+    "82b9292f8a7518c4": {
+      "title": "The real reason exercise makes you stronger isn’t what you think",
+      "fetched_at": "2026-05-17T08:09:03.444363+00:00"
+    },
+    "3d3fa14bd010f40e": {
+      "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
+      "fetched_at": "2026-05-17T08:09:04.057260+00:00"
+    },
+    "2ee693ef09a85183": {
+      "title": "New obesity discovery rewrites decades of fat science",
+      "fetched_at": "2026-05-17T08:09:04.687169+00:00"
+    },
+    "e8ab422e2e7c1437": {
+      "title": "Some gene therapies no longer require clinical trials, thanks to new FDA rule. Is this safe, and who will it help?",
+      "fetched_at": "2026-05-17T08:09:05.340266+00:00"
+    },
+    "d08eaeece0e5af65": {
+      "title": "US government declassifies nearly 200 UAP files, including strange sightings from Apollo astronauts",
+      "fetched_at": "2026-05-17T08:09:05.998530+00:00"
+    },
+    "66297068272b3a02": {
+      "title": "Flowering plants transformed into 'hopeful monsters' in 9 dire bursts across evolutionary time, study finds",
+      "fetched_at": "2026-05-17T08:09:06.644473+00:00"
     }
   },
-  "last_updated": "2026-05-17T01:57:25.806084+00:00"
+  "last_updated": "2026-05-17T08:09:06.749295+00:00"
 }
