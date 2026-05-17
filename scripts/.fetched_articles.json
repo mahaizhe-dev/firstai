@@ -1,113 +1,5 @@
 {
   "articles": {
-    "439bb60e984c45ca": {
-      "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
-      "fetched_at": "2026-05-09T12:51:28.495597+00:00"
-    },
-    "157e32c9f2bcdb82": {
-      "title": "保时捷宣布精简三家子公司，重新聚焦核心业务",
-      "fetched_at": "2026-05-09T12:51:29.070213+00:00"
-    },
-    "e7a4c56a0b3c839d": {
-      "title": "员工人均奖金达610万人民币？SK海力士回应",
-      "fetched_at": "2026-05-09T12:51:29.658440+00:00"
-    },
-    "c780d1e70ad82f25": {
-      "title": "美银：美股和黄金今年或将连续第四年录得两位数涨幅",
-      "fetched_at": "2026-05-09T12:51:30.245767+00:00"
-    },
-    "40e61bef20f2f307": {
-      "title": "硫磺价格年内涨幅约8成，下游钛白粉、磷肥企业多措并举控成本",
-      "fetched_at": "2026-05-09T12:51:30.880608+00:00"
-    },
-    "a1c240853534f8c0": {
-      "title": "光帆带摄像头AI耳机本月开售",
-      "fetched_at": "2026-05-09T12:51:31.532989+00:00"
-    },
-    "4ea649a07f5f5b6c": {
-      "title": "荣耀在宁波成立新公司，注册资本100万",
-      "fetched_at": "2026-05-09T12:51:32.123279+00:00"
-    },
-    "751ae512290eacc5": {
-      "title": "天虹元服务上线",
-      "fetched_at": "2026-05-09T12:51:32.707952+00:00"
-    },
-    "9fcccc820390adea": {
-      "title": "Deepseek和阿里谈崩了？市场人士回应",
-      "fetched_at": "2026-05-09T12:51:33.300850+00:00"
-    },
-    "b1e50dd0c756471f": {
-      "title": "字节跳动据悉计划将AI基础设施支出增加25%",
-      "fetched_at": "2026-05-09T12:51:33.879333+00:00"
-    },
-    "ccfb363342fc74aa": {
-      "title": "涉及新兴领域等方面，市场监管总局批准发布一批重要国家标准",
-      "fetched_at": "2026-05-09T12:51:34.488210+00:00"
-    },
-    "80a3cca231393d10": {
-      "title": "蔚来否认被约谈，称纯属谣言",
-      "fetched_at": "2026-05-09T12:51:35.099348+00:00"
-    },
-    "284e6a19fb939a48": {
-      "title": "商务部：全球经济亟需新增长动能，APEC贸易部长会议筹备展现各方务实合作态度",
-      "fetched_at": "2026-05-09T12:51:35.703493+00:00"
-    },
-    "03db8b8b4be275ce": {
-      "title": "当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感",
-      "fetched_at": "2026-05-09T12:51:36.292718+00:00"
-    },
-    "6626ce9d79e8ff55": {
-      "title": "AI开始接管年轻人的「精神自留地」",
-      "fetched_at": "2026-05-09T12:51:36.895413+00:00"
-    },
-    "0535a4b32e242aea": {
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "fetched_at": "2026-05-09T12:51:37.496095+00:00"
-    },
-    "993e8dd0f620d4d5": {
-      "title": "Intel’s comeback story is even wilder than it seems",
-      "fetched_at": "2026-05-09T12:51:38.085452+00:00"
-    },
-    "bb1e9f76dfaf1708": {
-      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-      "fetched_at": "2026-05-09T12:51:38.701598+00:00"
-    },
-    "f75348355b07833c": {
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "fetched_at": "2026-05-09T12:51:39.321275+00:00"
-    },
-    "3f273db2ec33dfd7": {
-      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
-      "fetched_at": "2026-05-09T12:51:39.910975+00:00"
-    },
-    "cda28e62c1a44b98": {
-      "title": "BBC調查：朝鮮為俄羅斯出戰陣亡了多少士兵？",
-      "fetched_at": "2026-05-09T12:51:42.748957+00:00"
-    },
-    "953313ab28c6d770": {
-      "title": "不只有石油——伊朗戰爭及中國出口管制正威脅亞洲糧食安全",
-      "fetched_at": "2026-05-09T12:51:43.327922+00:00"
-    },
-    "3ba7a17b72f3ec22": {
-      "title": "Science news this week: The latest on the cruise ship hantavirus infections, a shortcut to Mars, and a fast-charging quantum battery",
-      "fetched_at": "2026-05-09T12:51:45.860172+00:00"
-    },
-    "e93cbea91e1f8a6e": {
-      "title": "'Feuding tech bros' go head to head in legal showdown. But what does it mean for the future of AI?",
-      "fetched_at": "2026-05-09T12:51:46.439116+00:00"
-    },
-    "80001f690adf558d": {
-      "title": "If humans are getting smarter, why are our brains shrinking?",
-      "fetched_at": "2026-05-09T12:51:47.021823+00:00"
-    },
-    "1a523cc4bad47b9d": {
-      "title": "Hantavirus cruise: Cruise passengers monitored in at least 5 US states as American passengers set to receive repatriation flight",
-      "fetched_at": "2026-05-09T12:51:47.718294+00:00"
-    },
-    "519408ca0530e2b0": {
-      "title": "Poop-encrusted chamber pots from the Roman Empire reveal oldest known human cases of Crypto parasite",
-      "fetched_at": "2026-05-09T12:51:48.308976+00:00"
-    },
     "a21a5df387c8fba1": {
       "title": "Turkey unveils new missile, AI touts as able to hit US mainland",
       "fetched_at": "2026-05-09T18:42:42.277426+00:00"
@@ -3747,7 +3639,107 @@
     "66297068272b3a02": {
       "title": "Flowering plants transformed into 'hopeful monsters' in 9 dire bursts across evolutionary time, study finds",
       "fetched_at": "2026-05-17T08:09:06.644473+00:00"
+    },
+    "3ed23e3a49cd1e28": {
+      "title": "Learning-focused CTFs are Facing a Restructure",
+      "fetched_at": "2026-05-17T12:53:23.420241+00:00"
+    },
+    "1083acbd2aea97db": {
+      "title": "WorkClarity – Free AI tools fo freelancers",
+      "fetched_at": "2026-05-17T12:53:24.052445+00:00"
+    },
+    "c62b9a0d1e67b5fd": {
+      "title": "Tearing apart an x-ray machine I got from the government",
+      "fetched_at": "2026-05-17T12:53:24.700919+00:00"
+    },
+    "48432875397ff12c": {
+      "title": "I don't think AI will make your processes go faster",
+      "fetched_at": "2026-05-17T12:53:25.321666+00:00"
+    },
+    "4d3af5b05e2c114f": {
+      "title": "Chatbots at the drive-thru are just the beginning",
+      "fetched_at": "2026-05-17T12:53:25.942809+00:00"
+    },
+    "8917f9299b89ac87": {
+      "title": "科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？",
+      "fetched_at": "2026-05-17T12:53:26.950136+00:00"
+    },
+    "eaacd71c965cb34b": {
+      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "fetched_at": "2026-05-17T12:53:27.568801+00:00"
+    },
+    "037d7a6c157b0ac2": {
+      "title": "Kaiden: Workstation AI Sandbox Desktop Application",
+      "fetched_at": "2026-05-17T12:53:28.180397+00:00"
+    },
+    "8a2f954ba4999aba": {
+      "title": "Mnemonicai – AI that learns from your company's work, not your docs",
+      "fetched_at": "2026-05-17T12:53:28.800769+00:00"
+    },
+    "c8750b2a5d0b35c4": {
+      "title": "AI in Finance: What Is Working Today",
+      "fetched_at": "2026-05-17T12:53:29.423973+00:00"
+    },
+    "5e6960b56f5b05f0": {
+      "title": "American Jobs with AI Exposure Are Starting to Disappear, Data Show",
+      "fetched_at": "2026-05-17T12:53:30.049295+00:00"
+    },
+    "f0927969fa6bbb7a": {
+      "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
+      "fetched_at": "2026-05-17T12:53:30.662839+00:00"
+    },
+    "b0f4f7701b9063d3": {
+      "title": "Why our AI agent needed a causal graph, not just a RAG database",
+      "fetched_at": "2026-05-17T12:53:31.276380+00:00"
+    },
+    "6888a05762e69ae4": {
+      "title": "Review: The Unaccountability Machine, by Dan Davies",
+      "fetched_at": "2026-05-17T12:53:31.990590+00:00"
+    },
+    "9d8766836eb52574": {
+      "title": "长鑫科技：预计上半年营收1100-1200亿元",
+      "fetched_at": "2026-05-17T12:53:32.736850+00:00"
+    },
+    "abb05ebe9c29c7c1": {
+      "title": "My Thoughts on AI, Part 1: Fears, Opinions, and Mental Journey",
+      "fetched_at": "2026-05-17T12:53:33.437762+00:00"
+    },
+    "d543615779cdc87d": {
+      "title": "星巴克宣布在美关闭多个地区办公室",
+      "fetched_at": "2026-05-17T12:53:34.074509+00:00"
+    },
+    "f32bcd68349aae46": {
+      "title": "Fellow Artists, I'm Begging You to Pull Your Heads Out of the Sand About AI",
+      "fetched_at": "2026-05-17T12:53:34.693406+00:00"
+    },
+    "34a8e3b1b7017fea": {
+      "title": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+      "fetched_at": "2026-05-17T12:53:35.321284+00:00"
+    },
+    "0d9eb32003e98e3a": {
+      "title": "阿根廷牛肉消费量降至20年来最低水平",
+      "fetched_at": "2026-05-17T12:53:36.163294+00:00"
+    },
+    "fd3c4ae6c4e9c800": {
+      "title": "民主剛果再爆發伊波拉疫情，WHO列國際公共衛生緊急事件",
+      "fetched_at": "2026-05-17T12:53:38.889552+00:00"
+    },
+    "e88e4e48043efc1d": {
+      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
+      "fetched_at": "2026-05-17T12:53:39.505396+00:00"
+    },
+    "b59145f08b66b718": {
+      "title": "'We kept finding large, circular mass graves' in the Sahara predating the ancient Egyptians, archaeologists report",
+      "fetched_at": "2026-05-17T12:53:41.259381+00:00"
+    },
+    "306f84a3db1eb653": {
+      "title": "Webb and Hubble sink deep into the dazzling Whirlpool Galaxy — Space photo of the week",
+      "fetched_at": "2026-05-17T12:53:41.877508+00:00"
+    },
+    "45fb80177d94e30a": {
+      "title": "Why aren't brain transplants possible?",
+      "fetched_at": "2026-05-17T12:53:42.497154+00:00"
     }
   },
-  "last_updated": "2026-05-17T08:09:06.749295+00:00"
+  "last_updated": "2026-05-17T12:53:42.602698+00:00"
 }
