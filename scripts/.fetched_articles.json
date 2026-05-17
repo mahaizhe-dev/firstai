@@ -1,117 +1,5 @@
 {
   "articles": {
-    "a21a5df387c8fba1": {
-      "title": "Turkey unveils new missile, AI touts as able to hit US mainland",
-      "fetched_at": "2026-05-09T18:42:42.277426+00:00"
-    },
-    "ac84d5fec081254c": {
-      "title": "Heuristic Learning",
-      "fetched_at": "2026-05-09T18:42:42.862548+00:00"
-    },
-    "ca361eae275e4ca2": {
-      "title": "Strategic advice from LLM's is \"trendslop\", say researchers",
-      "fetched_at": "2026-05-09T18:42:43.440634+00:00"
-    },
-    "72e7782e0f6cdec2": {
-      "title": "Show HN: How-to-Train-Your-GPT",
-      "fetched_at": "2026-05-09T18:42:44.028372+00:00"
-    },
-    "a62bbb482a583f27": {
-      "title": "AI wants direct access to your data",
-      "fetched_at": "2026-05-09T18:42:44.601868+00:00"
-    },
-    "c5244d34f528511e": {
-      "title": "Go Players Disempower Themselves to AI",
-      "fetched_at": "2026-05-09T18:42:45.209079+00:00"
-    },
-    "5c3cb69ef8b098e6": {
-      "title": "AI doesn't know – it guesses. What if meaning lived outside the model?",
-      "fetched_at": "2026-05-09T18:42:45.973095+00:00"
-    },
-    "cad475b350a394c5": {
-      "title": "The Soul in the Machine",
-      "fetched_at": "2026-05-09T18:42:46.626556+00:00"
-    },
-    "36135d4dad47e30d": {
-      "title": "Gartner: AI layoffs don't create returns, they just create vacancies",
-      "fetched_at": "2026-05-09T18:42:47.204797+00:00"
-    },
-    "9249d83706f490c4": {
-      "title": "A soccer simulator played by AI Agents",
-      "fetched_at": "2026-05-09T18:42:47.785584+00:00"
-    },
-    "3758aaeef2e9b637": {
-      "title": "Open-source experiment: collaborative AI cognition through wiki pages",
-      "fetched_at": "2026-05-09T18:42:48.376059+00:00"
-    },
-    "73271e0951b57cfc": {
-      "title": "Show HN: My AI agents bully each other to prevent context drift",
-      "fetched_at": "2026-05-09T18:42:48.957420+00:00"
-    },
-    "ef871a37f8bc3df9": {
-      "title": "Using perspective lines to identify AI generated photos",
-      "fetched_at": "2026-05-09T18:42:49.540154+00:00"
-    },
-    "0c95a9f19dacb2c5": {
-      "title": "Show HN: Armorer – A secure local control plane to sandbox AI agents in Docker",
-      "fetched_at": "2026-05-09T18:42:50.117244+00:00"
-    },
-    "2798a385a0d5e228": {
-      "title": "Learning on the Shop Floor",
-      "fetched_at": "2026-05-09T18:42:50.744425+00:00"
-    },
-    "9ecd3d7f6e79765b": {
-      "title": "Adola: Reducing LLM input tokens by 70%",
-      "fetched_at": "2026-05-09T18:42:51.336779+00:00"
-    },
-    "051a8e027fa0e25c": {
-      "title": "How are folks affordably self-training in AI?",
-      "fetched_at": "2026-05-09T18:42:51.918628+00:00"
-    },
-    "df76f63b9c5532bb": {
-      "title": "SubQ: A New LLM with a 12M Token Context That Rivals Claude and ChatGPT",
-      "fetched_at": "2026-05-09T18:42:52.501619+00:00"
-    },
-    "903fd8de2cbfa2cb": {
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "fetched_at": "2026-05-09T18:42:53.077570+00:00"
-    },
-    "253495ff12397c5e": {
-      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
-      "fetched_at": "2026-05-09T18:42:53.669970+00:00"
-    },
-    "7e9ac959bbd76707": {
-      "title": "Pregnancy quiz: Can you deliver on the science of growing babies?",
-      "fetched_at": "2026-05-09T18:42:58.903774+00:00"
-    },
-    "6a8356b4f3d99251": {
-      "title": "Physicists discover quantum particles that break the rules of reality",
-      "fetched_at": "2026-05-09T18:42:59.492220+00:00"
-    },
-    "d75c747a960080da": {
-      "title": "Scientists say this simple music trick can boost workout endurance by 20%",
-      "fetched_at": "2026-05-09T18:43:00.068277+00:00"
-    },
-    "6238a4bcc16dd684": {
-      "title": "New chemical kills 95% of termites without harming humans",
-      "fetched_at": "2026-05-09T18:43:00.644120+00:00"
-    },
-    "8d52b921ebb6022a": {
-      "title": "Deep diving fur seals experience delayed heart surges after returning to land",
-      "fetched_at": "2026-05-09T18:43:01.347267+00:00"
-    },
-    "0a17dbd305015aee": {
-      "title": "Ice age humans in China crafted surprisingly advanced stone tools 146,000 years ago",
-      "fetched_at": "2026-05-09T18:43:01.928236+00:00"
-    },
-    "2c90f3f135d91d88": {
-      "title": "Hantavirus cruise: WHO Director-General will travel to Tenerife for disembarkment; repatriation flights planned on Sunday and Monday",
-      "fetched_at": "2026-05-09T18:43:02.513513+00:00"
-    },
-    "fb22fb99951d6e79": {
-      "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
-      "fetched_at": "2026-05-09T18:43:03.087672+00:00"
-    },
     "c7603144490349a0": {
       "title": "AI creates a fearsome cold-war-style dilemma",
       "fetched_at": "2026-05-10T01:51:18.865097+00:00"
@@ -3739,7 +3627,107 @@
     "45fb80177d94e30a": {
       "title": "Why aren't brain transplants possible?",
       "fetched_at": "2026-05-17T12:53:42.497154+00:00"
+    },
+    "742be5d4c2fcdfcb": {
+      "title": "AI Needs Better Metaphors",
+      "fetched_at": "2026-05-17T18:52:09.144537+00:00"
+    },
+    "01115c2ff83dcce1": {
+      "title": "Ask HN: How are you maintaining codebases and managing AI context for them?",
+      "fetched_at": "2026-05-17T18:52:09.715294+00:00"
+    },
+    "8118861ca1c7cc8b": {
+      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "fetched_at": "2026-05-17T18:52:10.281670+00:00"
+    },
+    "8fe862aad36cadaf": {
+      "title": "University of Arizona students boo Eric Schmidt's AI cheerleading",
+      "fetched_at": "2026-05-17T18:52:10.904606+00:00"
+    },
+    "e0ce03a0f3f5c2c1": {
+      "title": "The AI water issue is fake",
+      "fetched_at": "2026-05-17T18:52:11.467340+00:00"
+    },
+    "40a7a5ffe746e052": {
+      "title": "With Its IPO Done, Cerebras Can Get Back to Pushing the AI Envelope",
+      "fetched_at": "2026-05-17T18:52:12.035697+00:00"
+    },
+    "49e2423525fcbb4f": {
+      "title": "Polis – a Markdown protocol for AI agent teams that get better over time",
+      "fetched_at": "2026-05-17T18:52:12.606200+00:00"
+    },
+    "152ed27b8f2ac4f6": {
+      "title": "LinkedIn user hides AI prompt injection in bio to force recruitment spam",
+      "fetched_at": "2026-05-17T18:52:13.231555+00:00"
+    },
+    "cf9d7f665eafaedc": {
+      "title": "ProcureOS – AI procurement for small businesses replacing Excel and WhatsApp",
+      "fetched_at": "2026-05-17T18:52:13.799705+00:00"
+    },
+    "2169786941ff7778": {
+      "title": "Aethr – local-first AI coding workflows with steering",
+      "fetched_at": "2026-05-17T18:52:14.366673+00:00"
+    },
+    "b83fc0c1e42e59d6": {
+      "title": "AI chatbots are giving out people's real phone numbers",
+      "fetched_at": "2026-05-17T18:52:14.934443+00:00"
+    },
+    "788264a809624fc8": {
+      "title": "For $1.3M/month, OpenClaw founder runs 100 AI agents that code and find bugs",
+      "fetched_at": "2026-05-17T18:52:15.500877+00:00"
+    },
+    "22514af24f644511": {
+      "title": "Your AI Frustration Is My Opportunity",
+      "fetched_at": "2026-05-17T18:52:16.057480+00:00"
+    },
+    "73cf1f2c46c08682": {
+      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+      "fetched_at": "2026-05-17T18:52:16.057624+00:00"
+    },
+    "51ec85a48c66d4a4": {
+      "title": "Human-Like Document AI",
+      "fetched_at": "2026-05-17T18:52:16.626414+00:00"
+    },
+    "e4f4dddb64a45a3a": {
+      "title": "What AI Did to My College Class",
+      "fetched_at": "2026-05-17T18:52:17.246931+00:00"
+    },
+    "cf047acf84f983ee": {
+      "title": "A chat-less interface to collaborate with LLM agents directly from your files",
+      "fetched_at": "2026-05-17T18:52:17.962121+00:00"
+    },
+    "4c638591e4e1d1d4": {
+      "title": "Engineering a Safer World: Risk Modelling – and Safety Engineering? – For AI Lo",
+      "fetched_at": "2026-05-17T18:52:18.539784+00:00"
+    },
+    "176445fdba70a3c4": {
+      "title": "Getting Matured Through Learning",
+      "fetched_at": "2026-05-17T18:52:19.111992+00:00"
+    },
+    "d1a1cb2e6029b13e": {
+      "title": "Rethinking the Luddites in the Age of AI",
+      "fetched_at": "2026-05-17T18:52:19.703593+00:00"
+    },
+    "953313ab28c6d770": {
+      "title": "不只有石油——伊朗戰爭及中國出口管制正威脅亞洲糧食安全",
+      "fetched_at": "2026-05-17T18:52:21.778950+00:00"
+    },
+    "575bc2eb1a81d7e2": {
+      "title": "'Last titan' of Thailand discovered, and it's the longest-necked dinosaur on record from Southeast Asia",
+      "fetched_at": "2026-05-17T18:52:23.955360+00:00"
+    },
+    "5fae1c0e8da02c74": {
+      "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
+      "fetched_at": "2026-05-17T18:52:24.598895+00:00"
+    },
+    "3ba7a17b72f3ec22": {
+      "title": "Science news this week: The latest on the cruise ship hantavirus infections, a shortcut to Mars, and a fast-charging quantum battery",
+      "fetched_at": "2026-05-17T18:52:25.490738+00:00"
+    },
+    "e93cbea91e1f8a6e": {
+      "title": "'Feuding tech bros' go head to head in legal showdown. But what does it mean for the future of AI?",
+      "fetched_at": "2026-05-17T18:52:26.065116+00:00"
     }
   },
-  "last_updated": "2026-05-17T12:53:42.602698+00:00"
+  "last_updated": "2026-05-17T18:52:26.209642+00:00"
 }
