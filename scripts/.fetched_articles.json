@@ -1,105 +1,5 @@
 {
   "articles": {
-    "50200d1e024b436d": {
-      "title": "Show HN: SimplyBudget, AI Finance Tracker",
-      "fetched_at": "2026-05-10T18:44:17.571879+00:00"
-    },
-    "65e92edffb365a95": {
-      "title": "Show HN: Visual Learning with LLMs",
-      "fetched_at": "2026-05-10T18:44:18.171503+00:00"
-    },
-    "c8d8d0e091c630a5": {
-      "title": "'AI gave me your number': AI doxxing turns ChatGPT hallucinations to harassment",
-      "fetched_at": "2026-05-10T18:44:18.780757+00:00"
-    },
-    "59874651b59c5ae7": {
-      "title": "Mostly the first breakup AI agent that delivers your breakup over iMessage",
-      "fetched_at": "2026-05-10T18:44:19.472618+00:00"
-    },
-    "779ee69a5e15899e": {
-      "title": "My writing students were using AI. Their confessions led to a teaching moment",
-      "fetched_at": "2026-05-10T18:44:20.084250+00:00"
-    },
-    "24f6119049449335": {
-      "title": "Local AI needs to be the norm",
-      "fetched_at": "2026-05-10T18:44:20.695006+00:00"
-    },
-    "73dea72b40508f74": {
-      "title": "Show HN: PerceptAI – Give AI agents eyes on any screen, not just browsers",
-      "fetched_at": "2026-05-10T18:44:21.288776+00:00"
-    },
-    "f46d1730833573fc": {
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "fetched_at": "2026-05-10T18:44:21.961522+00:00"
-    },
-    "faeee4719d4fa9fe": {
-      "title": "Memgraph Ingester. Speed up your AI agent",
-      "fetched_at": "2026-05-10T18:44:22.563793+00:00"
-    },
-    "d26b9f77b9ab1b80": {
-      "title": "Full Walkthrough: Workflow for AI Coding – Matt Pocock [video]",
-      "fetched_at": "2026-05-10T18:44:23.200071+00:00"
-    },
-    "0277facec408b476": {
-      "title": "Code Bench – Local-first desktop AI coding agent, BYO model (MIT)",
-      "fetched_at": "2026-05-10T18:44:23.805301+00:00"
-    },
-    "1e89499a74686788": {
-      "title": "I built a meal planner AI agent to solve my weekly dinner dilemma (2025)",
-      "fetched_at": "2026-05-10T18:44:24.406393+00:00"
-    },
-    "671e6da008aa3e83": {
-      "title": "Show HN: Agent Postmortem Skill – Force AI coding agents to prove their work",
-      "fetched_at": "2026-05-10T18:44:25.004956+00:00"
-    },
-    "de6dcb54941549ec": {
-      "title": "Cron job, scheduled tasks, automations... AI needs better metaphors",
-      "fetched_at": "2026-05-10T18:44:25.602542+00:00"
-    },
-    "945cce88fddf009b": {
-      "title": "For Palantir, AI Is a Product, a Punching Bag–and a Problem",
-      "fetched_at": "2026-05-10T18:44:26.213671+00:00"
-    },
-    "857616c1e43f5d05": {
-      "title": "AI's Memorization Crisis",
-      "fetched_at": "2026-05-10T18:44:26.805316+00:00"
-    },
-    "4b6a101b89ed3eba": {
-      "title": "Terax – A Lightweight AI Terminal",
-      "fetched_at": "2026-05-10T18:44:27.406934+00:00"
-    },
-    "07ecfc9a7aa8c714": {
-      "title": "Compensation in AI Tokens?",
-      "fetched_at": "2026-05-10T18:44:28.027341+00:00"
-    },
-    "9fd9129c5b4531f9": {
-      "title": "The Faith AI Covenant",
-      "fetched_at": "2026-05-10T18:44:28.636081+00:00"
-    },
-    "c9063f263cb2897a": {
-      "title": "The Return of the Unix Workstation (Now with AI)",
-      "fetched_at": "2026-05-10T18:44:29.240231+00:00"
-    },
-    "df5d07c80365e02d": {
-      "title": "'More than 100 million years of evolution': How snakes evolved and lost their legs",
-      "fetched_at": "2026-05-10T18:44:36.657872+00:00"
-    },
-    "0d90950fc1060676": {
-      "title": "More polar bears are approaching human sites as the climate warms, and it's not just the skinny ones",
-      "fetched_at": "2026-05-10T18:44:37.277051+00:00"
-    },
-    "c7fa03e23104b271": {
-      "title": "Yellowstone's volcano may be fueled in a very different way than we thought",
-      "fetched_at": "2026-05-10T18:44:37.877730+00:00"
-    },
-    "d5222af1ed6267b5": {
-      "title": "Science news this week: Risky, lifesaving surgery performed on a baby in the womb, AI agent deletes a company database in 9 seconds, and the universe may end much sooner than expected",
-      "fetched_at": "2026-05-10T18:44:38.471770+00:00"
-    },
-    "9860bae489beab50": {
-      "title": "What's the difference between a lion and a tiger?",
-      "fetched_at": "2026-05-10T18:44:39.091842+00:00"
-    },
     "c27ca459da2a2bb9": {
       "title": "Stack of 500: 500 Production-Tested AI Prompts",
       "fetched_at": "2026-05-11T02:00:01.250203+00:00"
@@ -3739,7 +3639,139 @@
     "fe20206d921e1a02": {
       "title": "Scientists reversed liver aging with young gut bacteria in stunning study",
       "fetched_at": "2026-05-18T14:52:10.249446+00:00"
+    },
+    "01c68338cbdeaffc": {
+      "title": "Ask HN: What engineering tasks still resist AI assistance?",
+      "fetched_at": "2026-05-18T19:22:19.330939+00:00"
+    },
+    "7b1d30ca45bf4f56": {
+      "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome",
+      "fetched_at": "2026-05-18T19:22:19.974931+00:00"
+    },
+    "17c7deddb99a3705": {
+      "title": "Optimizing Code with AI",
+      "fetched_at": "2026-05-18T19:22:20.658067+00:00"
+    },
+    "c3ffa17a2bb60ba8": {
+      "title": "Distribution Fine Tuning (DFT): A post training step that fixes LLM writing",
+      "fetched_at": "2026-05-18T19:22:21.289616+00:00"
+    },
+    "9f71bea9bdcaee03": {
+      "title": "Knowledge Graphs for AI Coding Assistants",
+      "fetched_at": "2026-05-18T19:22:22.077833+00:00"
+    },
+    "adc5c7d4ff0224b1": {
+      "title": "Musk Warns of Killer AI, While He and Silicon Valley Cash in on AI That Kills",
+      "fetched_at": "2026-05-18T19:22:22.713920+00:00"
+    },
+    "adce3cfe9b55f8a9": {
+      "title": "Game Theory in the Age of AI",
+      "fetched_at": "2026-05-18T19:22:23.369321+00:00"
+    },
+    "ad0ddf5e08d00347": {
+      "title": "Musk v. Altman proved that AI is led by the wrong people",
+      "fetched_at": "2026-05-18T19:22:24.010704+00:00"
+    },
+    "613add4a31b5ceab": {
+      "title": "Show HN: Beacon - The open-source layer for local AI agent visibility",
+      "fetched_at": "2026-05-18T19:22:24.638324+00:00"
+    },
+    "7a7641ee3cab8e56": {
+      "title": "Grief in the AI Age",
+      "fetched_at": "2026-05-18T19:22:25.262314+00:00"
+    },
+    "997c149e0ed29bbd": {
+      "title": "Americans Oppose AI Data Centers in Their Area",
+      "fetched_at": "2026-05-18T19:22:25.874714+00:00"
+    },
+    "1b8cd6554e195568": {
+      "title": "India missed out on AI and now its run as market darling may be over",
+      "fetched_at": "2026-05-18T19:22:26.493885+00:00"
+    },
+    "4a2e3d5cabca65a8": {
+      "title": "Show HN: An LLM that's better at writing",
+      "fetched_at": "2026-05-18T19:22:27.137945+00:00"
+    },
+    "ec138ce6b5564994": {
+      "title": "Agentic AI Runtime Security and Self-Defense (2025)",
+      "fetched_at": "2026-05-18T19:22:27.804411+00:00"
+    },
+    "4b61b4fb8fd8e631": {
+      "title": "The Efficiency Moat: Why China Is Beating the U.S. on AI and Everything Else",
+      "fetched_at": "2026-05-18T19:22:28.420791+00:00"
+    },
+    "db6b4b2040fce3d0": {
+      "title": "Decart AI's $300M Round Is a Positive Signal for Israeli AI",
+      "fetched_at": "2026-05-18T19:22:29.055745+00:00"
+    },
+    "e20c67a779ddbfad": {
+      "title": "Zero – the new programming language for AI – is basically Rust",
+      "fetched_at": "2026-05-18T19:22:29.673908+00:00"
+    },
+    "bf8ff611cd872417": {
+      "title": "Joule Index – AI benchmark for cost and Energy",
+      "fetched_at": "2026-05-18T19:22:30.291946+00:00"
+    },
+    "df7f548bc4dcecdf": {
+      "title": "Tag – Local-first trust and governance layer for AI agents|no cloud, no account",
+      "fetched_at": "2026-05-18T19:22:30.915252+00:00"
+    },
+    "a7251ff0753673bd": {
+      "title": "Russia Claims Ukraine Is Using AI Drones That Lock onto Faces and Heat Signature",
+      "fetched_at": "2026-05-18T19:22:31.528852+00:00"
+    },
+    "454c38b4c451ea62": {
+      "title": "950-year-old burial of a pet dingo is first clear archaeological evidence of humans ritually 'feeding' a grave anywhere in the world",
+      "fetched_at": "2026-05-18T19:22:39.122090+00:00"
+    },
+    "a322c16e6d9451cc": {
+      "title": "Plaster Wall from Tut's Tomb Revealed",
+      "fetched_at": "2026-05-18T19:22:39.771209+00:00"
+    },
+    "3c43f047e7385afe": {
+      "title": "Deadly Ebola outbreak is a public health emergency of international concern, WHO declares",
+      "fetched_at": "2026-05-18T19:22:40.488805+00:00"
+    },
+    "3ea989b26827cfee": {
+      "title": "Neanderthal Dentistry Dates Back 60,000 Years",
+      "fetched_at": "2026-05-18T19:22:41.150363+00:00"
+    },
+    "45f609504c1e8f46": {
+      "title": "Signs That AI-Assisted Vulnerability Discovery Is Reshaping Disclosure Volumes",
+      "fetched_at": "2026-05-18T19:22:41.786645+00:00"
+    },
+    "7fb469f82e1600df": {
+      "title": "New Details Emerge About Pompeii Victim",
+      "fetched_at": "2026-05-18T19:22:42.406762+00:00"
+    },
+    "330e2740e3bd35f2": {
+      "title": "'Truly significant': James Webb telescope reveals largest-ever map of the universe's hidden megastructures",
+      "fetched_at": "2026-05-18T19:22:43.029181+00:00"
+    },
+    "02ff59517efa90e7": {
+      "title": "Daunian kyathos: A 2,700-year-old ceramic cup from Italy decorated with an exuberant-looking, bug-eyed fellow",
+      "fetched_at": "2026-05-18T19:22:43.641153+00:00"
+    },
+    "8446ee73240f0434": {
+      "title": "James Webb telescope zooms in on a black hole that could reveal the truth about 'little red dots'",
+      "fetched_at": "2026-05-18T19:22:44.266818+00:00"
+    },
+    "e8b677b45fd95528": {
+      "title": "Declassified Apollo 12 images show UFOs on the moon — Space photo of the week",
+      "fetched_at": "2026-05-18T19:22:44.900175+00:00"
+    },
+    "ad9d993d565332f3": {
+      "title": "“Cannot be explained” – New ultra stainless steel stuns researchers",
+      "fetched_at": "2026-05-18T19:22:45.527987+00:00"
+    },
+    "a2cc6558504e50e0": {
+      "title": "Scientists successfully transfer longevity gene and extend lifespan",
+      "fetched_at": "2026-05-18T19:22:46.161668+00:00"
+    },
+    "3fb520d6c87a2d8b": {
+      "title": "Brain scans reveal a shocking difference between psychopaths and other people",
+      "fetched_at": "2026-05-18T19:22:46.783668+00:00"
     }
   },
-  "last_updated": "2026-05-18T14:52:10.389631+00:00"
+  "last_updated": "2026-05-18T19:22:46.894541+00:00"
 }
