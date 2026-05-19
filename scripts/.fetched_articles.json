@@ -1,141 +1,5 @@
 {
   "articles": {
-    "f6b2af88ad728761": {
-      "title": "Agentic AI vs. AI Agents: The Governance Shift",
-      "fetched_at": "2026-05-11T19:26:30.201935+00:00"
-    },
-    "b2e3067294e4c59e": {
-      "title": "Nvidia embraces AI investor, topping $40B in equity bets 2026",
-      "fetched_at": "2026-05-11T19:26:30.847096+00:00"
-    },
-    "15bf5c85b9234155": {
-      "title": "Will AI Produce the Next Great Divergence?",
-      "fetched_at": "2026-05-11T19:26:31.457136+00:00"
-    },
-    "7ebdb632e5f2d59a": {
-      "title": "Using LLM in the shebang line of a script",
-      "fetched_at": "2026-05-11T19:26:32.088828+00:00"
-    },
-    "c251e801735e13d7": {
-      "title": "AI versus Microservices",
-      "fetched_at": "2026-05-11T19:26:32.710027+00:00"
-    },
-    "afb495c334fcf15e": {
-      "title": "Banks try to offload AI data-centre debt as exposure mounts",
-      "fetched_at": "2026-05-11T19:26:33.323664+00:00"
-    },
-    "c7f804d9cbf2b0d8": {
-      "title": "Natural-language messages between LLM agents are an architectural anti-pattern",
-      "fetched_at": "2026-05-11T19:26:33.928655+00:00"
-    },
-    "0b452a51f4e3f029": {
-      "title": "Anthropic,OpenAI meet religious leaders to discuss faith and AI",
-      "fetched_at": "2026-05-11T19:26:34.554485+00:00"
-    },
-    "41af757e624e0708": {
-      "title": "Learning to Discover at Test Time",
-      "fetched_at": "2026-05-11T19:26:35.172878+00:00"
-    },
-    "29d6f84d55daca9d": {
-      "title": "Ask HN: Why do people hate using AI so much?",
-      "fetched_at": "2026-05-11T19:26:35.791627+00:00"
-    },
-    "71896a3b51eb182a": {
-      "title": "Best AI Tools for Social Media in 2026 (Ranked and Reviewed)",
-      "fetched_at": "2026-05-11T19:26:36.426648+00:00"
-    },
-    "0db1bd05ff652f23": {
-      "title": "Flipping the bozo bit on flips the learning off",
-      "fetched_at": "2026-05-11T19:26:37.146419+00:00"
-    },
-    "7f60eb14e500cf6e": {
-      "title": "Transform articles into LinkedIn and Twitter posts with AI",
-      "fetched_at": "2026-05-11T19:26:37.759054+00:00"
-    },
-    "32b1b15d11710cd3": {
-      "title": "Digg tries again, this time as an AI news aggregator",
-      "fetched_at": "2026-05-11T19:26:38.376961+00:00"
-    },
-    "50a3257618d5e158": {
-      "title": "Daybreak Frontier AI for cyber defenders",
-      "fetched_at": "2026-05-11T19:26:38.998736+00:00"
-    },
-    "9d3d2a695f037da8": {
-      "title": "AI eats software: Top investor dumps Microsoft shares",
-      "fetched_at": "2026-05-11T19:26:39.618050+00:00"
-    },
-    "f2e7f35ce20ef86e": {
-      "title": "Show HN: AaaS – to build and deploy business AI agents to messaging apps in NL",
-      "fetched_at": "2026-05-11T19:26:40.235555+00:00"
-    },
-    "936c33ce7375adc7": {
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
-      "fetched_at": "2026-05-11T19:26:40.862369+00:00"
-    },
-    "5181dd5dbda9344d": {
-      "title": "MartinLoop – budget caps and audit trails for AI coding agents",
-      "fetched_at": "2026-05-11T19:26:41.493029+00:00"
-    },
-    "26f4b9f4cad8fc8d": {
-      "title": "Update hints at four separate Steam Machine models and a reservation system",
-      "fetched_at": "2026-05-11T19:26:42.115045+00:00"
-    },
-    "7b22d4e628600934": {
-      "title": "大衛·艾登堡爵士百歲：BBC紀錄片宗師如何塑造了「綠色好萊塢」",
-      "fetched_at": "2026-05-11T19:26:44.713858+00:00"
-    },
-    "ea130297af200e98": {
-      "title": "美國會否改口「反對」台獨？特朗普訪華前夕台灣陷「菜單焦慮」",
-      "fetched_at": "2026-05-11T19:26:45.338415+00:00"
-    },
-    "f3432baf5a08b824": {
-      "title": "Reanalysis of Northern Australian Stone Tools Pushes Back Heat Treatments by 20,000 Years",
-      "fetched_at": "2026-05-11T19:26:46.678898+00:00"
-    },
-    "0e15269e7ffc1c8b": {
-      "title": "Roman Mosaic Uncovered in Turkey’s Black Sea Region",
-      "fetched_at": "2026-05-11T19:26:47.303131+00:00"
-    },
-    "57d3ebfc592ed43f": {
-      "title": "Remains of Additional Sailors from Doomed Franklin Expedition Identified",
-      "fetched_at": "2026-05-11T19:26:47.920087+00:00"
-    },
-    "0f243a3a51a79c84": {
-      "title": "New 'trick' fixes major flaw in neutral-atom quantum computers — inching us closer to a superpowerful system",
-      "fetched_at": "2026-05-11T19:26:48.591044+00:00"
-    },
-    "1baebc62d8af72b2": {
-      "title": "A 2025 Alaskan tsunami was one of the largest on record, new research finds",
-      "fetched_at": "2026-05-11T19:26:49.217292+00:00"
-    },
-    "b9ff57b7d5fbab22": {
-      "title": "Lion's head pendant: An ancient Egyptian board game piece that was later repurposed into a magical religious object with baboons",
-      "fetched_at": "2026-05-11T19:26:49.833040+00:00"
-    },
-    "d8cc1166f6488781": {
-      "title": "NASA’s Psyche probe is about to slingshot around Mars at 12,000 mph",
-      "fetched_at": "2026-05-11T19:26:50.453208+00:00"
-    },
-    "8c3fe2512a586e01": {
-      "title": "NASA’s Curiosity rover accidentally pulled a rock out of Mars",
-      "fetched_at": "2026-05-11T19:26:51.144011+00:00"
-    },
-    "9ed558305e9ef4ef": {
-      "title": "Scientists say Dante’s Inferno described an asteroid impact 500 years before modern science",
-      "fetched_at": "2026-05-11T19:26:51.769477+00:00"
-    },
-    "f8883a03da48d047": {
-      "title": "Researchers say AI chatbots may blur the line between reality and delusion",
-      "fetched_at": "2026-05-11T19:26:52.391827+00:00"
-    },
-    "3dd882e683953407": {
-      "title": "This 800-year-old Chinese exercise helps lower blood pressure naturally",
-      "fetched_at": "2026-05-11T19:26:53.012028+00:00"
-    },
-    "a9abdb977421eaa3": {
-      "title": "Hantavirus LIVE: American passengers from cruise head to specialized facilities in Nebraska",
-      "fetched_at": "2026-05-11T19:26:53.625397+00:00"
-    },
     "afa12c5d0f3f79ab": {
       "title": "太阳能：已与多家算力企业沟通对接，尝试开展绿电直连项目合作",
       "fetched_at": "2026-05-12T01:56:40.685537+00:00"
@@ -3907,7 +3771,107 @@
     "21a343f9ebeca85d": {
       "title": "950-year-old burial of a pet dingo reveals unique archaeological evidence of humans ritually 'feeding' a grave",
       "fetched_at": "2026-05-19T14:33:21.755300+00:00"
+    },
+    "1340e844d5013129": {
+      "title": "A brief investigation into the GPT-5.5 regression claims",
+      "fetched_at": "2026-05-19T19:41:01.030557+00:00"
+    },
+    "f71de93c21521050": {
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "fetched_at": "2026-05-19T19:41:01.665066+00:00"
+    },
+    "49bf63b3accbeff9": {
+      "title": "AI-written story published in Granta, wins major literary prize",
+      "fetched_at": "2026-05-19T19:41:02.295030+00:00"
+    },
+    "90299e3bacb82d3f": {
+      "title": "The Relevance of BPMN in the Age of AI",
+      "fetched_at": "2026-05-19T19:41:02.880900+00:00"
+    },
+    "fe29efd2c1b050c3": {
+      "title": "We Got Lost in AI",
+      "fetched_at": "2026-05-19T19:41:03.495987+00:00"
+    },
+    "d4f950bd93db0706": {
+      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+      "fetched_at": "2026-05-19T19:41:04.086892+00:00"
+    },
+    "9d027c34dc126194": {
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "fetched_at": "2026-05-19T19:41:04.704424+00:00"
+    },
+    "4ea176dcc3a99d64": {
+      "title": "The State of Statefulness in AI Agents",
+      "fetched_at": "2026-05-19T19:41:05.322345+00:00"
+    },
+    "eb9ee95290d87715": {
+      "title": "Big Tech's AI Trap",
+      "fetched_at": "2026-05-19T19:41:05.944218+00:00"
+    },
+    "533af31c540b9edd": {
+      "title": "Likely AI-generated short story won a major prize",
+      "fetched_at": "2026-05-19T19:41:06.626733+00:00"
+    },
+    "3ffb992a5a9a646a": {
+      "title": "The Trouble with Emotion AI",
+      "fetched_at": "2026-05-19T19:41:07.264623+00:00"
+    },
+    "3685ceeaab576c16": {
+      "title": "Mistral AI Python package compromised on PyPI [2026-05-12]",
+      "fetched_at": "2026-05-19T19:41:07.872688+00:00"
+    },
+    "f4cf4f22dda9b6c0": {
+      "title": "Show HN: Search 67K .AI domains by AI-extracted tags and descriptions",
+      "fetched_at": "2026-05-19T19:41:08.487215+00:00"
+    },
+    "4164ff3f4eb78156": {
+      "title": "AI slop is flooding maths YouTube [video]",
+      "fetched_at": "2026-05-19T19:41:09.094350+00:00"
+    },
+    "15fefbb80521df56": {
+      "title": "Stop 'tokenmaxxing' and deploy AI sensibly instead",
+      "fetched_at": "2026-05-19T19:41:09.704088+00:00"
+    },
+    "5b20131164209e3a": {
+      "title": "Evaluating job search ranking with LLM judged NDCG",
+      "fetched_at": "2026-05-19T19:41:10.291941+00:00"
+    },
+    "a482aed0d4ddbd04": {
+      "title": "Standard Chartered to replace 'lower-value human capital' with AI",
+      "fetched_at": "2026-05-19T19:41:10.908195+00:00"
+    },
+    "4a16107f07f2a968": {
+      "title": "What Happened in There? A Tamper-Evident Audit Trail for AI Agents",
+      "fetched_at": "2026-05-19T19:41:11.511368+00:00"
+    },
+    "05c4192521849c5f": {
+      "title": "AI and Democracy: Mapping the Intersections",
+      "fetched_at": "2026-05-19T19:41:12.111169+00:00"
+    },
+    "71f9a3196c5b2fd2": {
+      "title": "Intentional Amnesia: Why I Wipe My AI Agents' Memories Every 15 Minutes",
+      "fetched_at": "2026-05-19T19:41:12.727198+00:00"
+    },
+    "132b50c23b43c1c9": {
+      "title": "Deadly, highly venomous box jellyfish discovered near Singapore is a newfound species",
+      "fetched_at": "2026-05-19T19:41:16.562514+00:00"
+    },
+    "9b1e48386da0487c": {
+      "title": "4,500-Year-Old Alcoholic Beverages Identified in Poland",
+      "fetched_at": "2026-05-19T19:41:17.159002+00:00"
+    },
+    "0638a4db707fda2b": {
+      "title": "DNA Study Targets Maryland’s First Colonists",
+      "fetched_at": "2026-05-19T19:41:17.756174+00:00"
+    },
+    "4600b1e352332571": {
+      "title": "Poll: What do you think of PMOS, the new name for PCOS?",
+      "fetched_at": "2026-05-19T19:41:18.349833+00:00"
+    },
+    "77cc67adba03104f": {
+      "title": "Ancient Stadium of Perge Was Remodeled for Roman Entertainments",
+      "fetched_at": "2026-05-19T19:41:18.969192+00:00"
     }
   },
-  "last_updated": "2026-05-19T14:33:21.904167+00:00"
+  "last_updated": "2026-05-19T19:41:19.090213+00:00"
 }
