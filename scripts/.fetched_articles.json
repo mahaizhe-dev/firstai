@@ -1,101 +1,5 @@
 {
   "articles": {
-    "ee5e2391f6b79c7b": {
-      "title": "沪农商行：顾贤斌辞任公司副行长职务",
-      "fetched_at": "2026-05-11T08:56:44.443775+00:00"
-    },
-    "5015e7b6fe410414": {
-      "title": "AI data centers face increasing complaints about inaudible but 'felt' infrasound",
-      "fetched_at": "2026-05-11T08:56:45.080843+00:00"
-    },
-    "2564f7d130c79d40": {
-      "title": "中巨芯：股东远致富海拟减持不超2.89%股份",
-      "fetched_at": "2026-05-11T08:56:45.702927+00:00"
-    },
-    "e8d6a6b697d70066": {
-      "title": "An AI‑enabled device code phishing campaign",
-      "fetched_at": "2026-05-11T08:56:46.330580+00:00"
-    },
-    "a054d72b18857ebb": {
-      "title": "Big Tech's $725B AI spending spree sends free cash flow to a decade low",
-      "fetched_at": "2026-05-11T08:56:46.952937+00:00"
-    },
-    "b2f4dac96713d770": {
-      "title": "共享微出行平台Neutron申请美股IPO，拟募资2.5亿美元",
-      "fetched_at": "2026-05-11T08:56:47.583287+00:00"
-    },
-    "b88c32813a3de1a3": {
-      "title": "九号机器人在珠海横琴成立供应链管理公司",
-      "fetched_at": "2026-05-11T08:56:48.196963+00:00"
-    },
-    "f63679f09556df94": {
-      "title": "仙坛股份：4月鸡肉产品销售收入5.32亿元，环比增长15.9%",
-      "fetched_at": "2026-05-11T08:56:48.927801+00:00"
-    },
-    "65e01c5f4baea5ce": {
-      "title": "Show HN: AI Tool for Batch-Generating Multi-Platform Marketing Content",
-      "fetched_at": "2026-05-11T08:56:49.568212+00:00"
-    },
-    "df01d9cdb2233a7c": {
-      "title": "The AI That Took a Sunday Off",
-      "fetched_at": "2026-05-11T08:56:50.188870+00:00"
-    },
-    "dc069a0ea151308a": {
-      "title": "恒指收涨0.05%，恒生科技指数涨0.07%",
-      "fetched_at": "2026-05-11T08:56:50.817138+00:00"
-    },
-    "e022beeb4735d235": {
-      "title": "Meet the academics refusing to use generative AI",
-      "fetched_at": "2026-05-11T08:56:51.435519+00:00"
-    },
-    "3a55e5f811495382": {
-      "title": "三只羊旗下合肥助农运营管理公司拟注销",
-      "fetched_at": "2026-05-11T08:56:52.053919+00:00"
-    },
-    "0eb0148218c63fa9": {
-      "title": "厦门象屿：公开发行不超100亿元公司债券获证监会同意注册批复",
-      "fetched_at": "2026-05-11T08:56:52.768251+00:00"
-    },
-    "e8c66f3a75f0a77b": {
-      "title": "北陆药业：获得碘佛醇注射液药品注册证书",
-      "fetched_at": "2026-05-11T08:56:53.384105+00:00"
-    },
-    "d9cebcaae3787fe6": {
-      "title": "施紀賢英國首相地位岌岌可危 工黨權力爭奪戰的七個可能",
-      "fetched_at": "2026-05-11T08:56:55.855691+00:00"
-    },
-    "79783312fe629c5d": {
-      "title": "特朗普訪華前瞻：貿易、科技、台灣和伊朗四大焦點，美中各自希望得到什麼",
-      "fetched_at": "2026-05-11T08:56:56.544284+00:00"
-    },
-    "2ea17518d96dd1ad": {
-      "title": "从“美国斩杀线”看中国人危险的自大情绪",
-      "fetched_at": "2026-05-11T08:56:58.721274+00:00"
-    },
-    "68d5887e0f54a8f9": {
-      "title": "全球关税被裁定违法，特朗普访华前谈判筹码被削弱",
-      "fetched_at": "2026-05-11T08:56:59.348252+00:00"
-    },
-    "436ce640e92508c4": {
-      "title": "特朗普稱伊朗終戰提案「完全不可接受」，油價再度上漲",
-      "fetched_at": "2026-05-11T08:56:59.972202+00:00"
-    },
-    "fc679eee96b59fdb": {
-      "title": "习近平是如何对解放军领导层失去信任的",
-      "fetched_at": "2026-05-11T08:57:00.608258+00:00"
-    },
-    "121bf535719756a3": {
-      "title": "化學元素週期表會有完成的一天嗎？",
-      "fetched_at": "2026-05-11T08:57:01.253455+00:00"
-    },
-    "6f27968ecc2f47f3": {
-      "title": "台湾立法院批准250亿美元特别预算，向美国采购武器",
-      "fetched_at": "2026-05-11T08:57:01.956149+00:00"
-    },
-    "1c1286ab9d0de80d": {
-      "title": "Trump's border wall expansion just bulldozed an ancient tribal site",
-      "fetched_at": "2026-05-11T08:57:03.925097+00:00"
-    },
     "f6b2af88ad728761": {
       "title": "Agentic AI vs. AI Agents: The Governance Shift",
       "fetched_at": "2026-05-11T19:26:30.201935+00:00"
@@ -3883,7 +3787,127 @@
     "650073233b4fe01c": {
       "title": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
       "fetched_at": "2026-05-19T08:56:44.228682+00:00"
+    },
+    "d026244d3303c255": {
+      "title": "Show HN: RoBrain – Shared memory for AI agents, with rejected alternatives",
+      "fetched_at": "2026-05-19T14:33:00.405666+00:00"
+    },
+    "34df1ae929c32bff": {
+      "title": "Powertracker, 29 GW of announced AI capacity mapped to host counties",
+      "fetched_at": "2026-05-19T14:33:01.038969+00:00"
+    },
+    "71981ee9159e8ad5": {
+      "title": "Forward-Looking Laziness: What Changes When AI Writes 95% of the Code",
+      "fetched_at": "2026-05-19T14:33:01.690964+00:00"
+    },
+    "e005e1b7584d0376": {
+      "title": "Parag Agrawal's AI startup wants to pay publishers when AI agents use their work",
+      "fetched_at": "2026-05-19T14:33:02.302430+00:00"
+    },
+    "b45ecf43e3d4bde2": {
+      "title": "AI's Missing Pricing Tier",
+      "fetched_at": "2026-05-19T14:33:02.931393+00:00"
+    },
+    "f66bc7a3775e43ca": {
+      "title": "Cheap cloud AI was never going to last. The off-ramp wasn't built for everyone",
+      "fetched_at": "2026-05-19T14:33:03.613845+00:00"
+    },
+    "ca22fc7b4ed73a9b": {
+      "title": "Show HN: Askbyemail.com – Send an email, get AI answer or summary (no signup)",
+      "fetched_at": "2026-05-19T14:33:04.241545+00:00"
+    },
+    "b4b1f68734a5f351": {
+      "title": "AI Agents Reason over Enterprise Data",
+      "fetched_at": "2026-05-19T14:33:04.861608+00:00"
+    },
+    "619b8db332532ddb": {
+      "title": "Show HN: Orbit – delegate a backlog to your AI agent and trust what comes back",
+      "fetched_at": "2026-05-19T14:33:05.527155+00:00"
+    },
+    "e45473bba53d4188": {
+      "title": "'It is incredible': How AI is transforming mathematics",
+      "fetched_at": "2026-05-19T14:33:06.165278+00:00"
+    },
+    "244f35fc9389c89e": {
+      "title": "How do you reduce LLM spam in PR reviews?",
+      "fetched_at": "2026-05-19T14:33:06.791424+00:00"
+    },
+    "971ffda91a237e79": {
+      "title": "Going full AI engineer, not touching code anymore",
+      "fetched_at": "2026-05-19T14:33:07.423809+00:00"
+    },
+    "85e3ccc68262d31e": {
+      "title": "Show HN: Circuit Breaker – runtime cost ceilings for AI agents",
+      "fetched_at": "2026-05-19T14:33:08.078876+00:00"
+    },
+    "5bd7fed55860141c": {
+      "title": "AI Makes Adding Features Faster – So Why Not Add Just One More?",
+      "fetched_at": "2026-05-19T14:33:08.765235+00:00"
+    },
+    "70c3ce9617654cb6": {
+      "title": "Show HN: - MagesticAI – Spec-driven development with AI agents",
+      "fetched_at": "2026-05-19T14:33:09.395889+00:00"
+    },
+    "4771bc25dba97597": {
+      "title": "Context improves AI coding agent instruction-following by 49% (GitHub and paper)",
+      "fetched_at": "2026-05-19T14:33:10.016638+00:00"
+    },
+    "a434147a2ab20427": {
+      "title": "Who's behind Facebook's hateful AI slop about the UK? They may be in South Asia",
+      "fetched_at": "2026-05-19T14:33:10.643947+00:00"
+    },
+    "d86e199eccc59c4b": {
+      "title": "Ask HN: Is there any problem using multi-LLM",
+      "fetched_at": "2026-05-19T14:33:11.268555+00:00"
+    },
+    "75aec7c18cc7909f": {
+      "title": "Standard Chartered to cut more than 7k jobs as it steps up AI use",
+      "fetched_at": "2026-05-19T14:33:11.899775+00:00"
+    },
+    "9513f8c5d063939b": {
+      "title": "AIllowpages – Free AI tools search engine with 2500 tools, zero ads",
+      "fetched_at": "2026-05-19T14:33:12.534841+00:00"
+    },
+    "be262a05f07ab6d7": {
+      "title": "解讀「中美建設性戰略穩定關係」：習近平新詞反映兩國關係現實境遇",
+      "fetched_at": "2026-05-19T14:33:14.683524+00:00"
+    },
+    "e6797b0db17b0455": {
+      "title": "VaultDeals – scores PC game deals A+ to C+ against all-time historical lows",
+      "fetched_at": "2026-05-19T14:33:16.663956+00:00"
+    },
+    "729f9b74730955be": {
+      "title": "Withings Body Scan smart scale review: Premium health insights, premium price",
+      "fetched_at": "2026-05-19T14:33:17.317586+00:00"
+    },
+    "41f6754dfbb8e418": {
+      "title": "Audit: Vuln-discovery agent reimplementing the Cloudflare Project Glasswing",
+      "fetched_at": "2026-05-19T14:33:17.945692+00:00"
+    },
+    "f52b5cabe4dcc21e": {
+      "title": "Celestron Outland X 10x25 binocular review",
+      "fetched_at": "2026-05-19T14:33:18.559802+00:00"
+    },
+    "2d5cbfd7531142d2": {
+      "title": "World's first 'native' color lidar will let robots and self-driving cars map the world in full color 3D",
+      "fetched_at": "2026-05-19T14:33:19.179904+00:00"
+    },
+    "bdbc644c4a6da578": {
+      "title": "Scientists were wrong about this “rule-breaking” particle",
+      "fetched_at": "2026-05-19T14:33:19.835624+00:00"
+    },
+    "186635d8944d2d7e": {
+      "title": "Global warming is accelerating 5,000 times faster than rice can evolve",
+      "fetched_at": "2026-05-19T14:33:20.508888+00:00"
+    },
+    "ecb05ba6f8474614": {
+      "title": "Rare graves reveal a lost world of Bronze Age Europe hidden for 3,000 years",
+      "fetched_at": "2026-05-19T14:33:21.133088+00:00"
+    },
+    "21a343f9ebeca85d": {
+      "title": "950-year-old burial of a pet dingo reveals unique archaeological evidence of humans ritually 'feeding' a grave",
+      "fetched_at": "2026-05-19T14:33:21.755300+00:00"
     }
   },
-  "last_updated": "2026-05-19T08:56:44.344905+00:00"
+  "last_updated": "2026-05-19T14:33:21.904167+00:00"
 }
