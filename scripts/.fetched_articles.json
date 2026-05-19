@@ -1,25 +1,5 @@
 {
   "articles": {
-    "0a9412d244c8ba66": {
-      "title": "键凯科技：股东吴凯庭拟减持不超3%股份",
-      "fetched_at": "2026-05-11T08:56:41.140503+00:00"
-    },
-    "99f2e400dfc1a8fb": {
-      "title": "Timebook – Time tracking and invoicing your AI agent can use",
-      "fetched_at": "2026-05-11T08:56:41.761205+00:00"
-    },
-    "561d5e6bca562232": {
-      "title": "Lastest – Visaul Verification of AI Developmetn",
-      "fetched_at": "2026-05-11T08:56:42.454653+00:00"
-    },
-    "cf023db38fdfb20d": {
-      "title": "欧洲央行科赫尔：若通胀前景未见改善，将调整利率",
-      "fetched_at": "2026-05-11T08:56:43.117612+00:00"
-    },
-    "8decf5241f64600d": {
-      "title": "ST兴化：兴化集团拟以4000万元至7000万元增持公司股份",
-      "fetched_at": "2026-05-11T08:56:43.745386+00:00"
-    },
     "ee5e2391f6b79c7b": {
       "title": "沪农商行：顾贤斌辞任公司副行长职务",
       "fetched_at": "2026-05-11T08:56:44.443775+00:00"
@@ -3767,7 +3747,143 @@
     "0d90950fc1060676": {
       "title": "More polar bears are approaching human sites as the climate warms, and it's not just the skinny ones",
       "fetched_at": "2026-05-19T02:09:22.370021+00:00"
+    },
+    "1bf0b89c7ad8ca34": {
+      "title": "富士康旗下成都精密电子公司增资至约11.3亿美元",
+      "fetched_at": "2026-05-19T08:56:18.915739+00:00"
+    },
+    "12a88ad556b085e5": {
+      "title": "Crypto Jesus tried to sell me an AI religion",
+      "fetched_at": "2026-05-19T08:56:19.580438+00:00"
+    },
+    "a59b3c683de8625c": {
+      "title": "数篷科技发布首款面向个人用户的AI沙箱产品“艾灵坞”",
+      "fetched_at": "2026-05-19T08:56:20.199268+00:00"
+    },
+    "8816fd4ae8f276f7": {
+      "title": "新加坡光学镜头制造商MetaOptics赴美IPO",
+      "fetched_at": "2026-05-19T08:56:20.816237+00:00"
+    },
+    "0a09300234d30773": {
+      "title": "eXo MCP server: expose workplace tools to AI agents with OAuth",
+      "fetched_at": "2026-05-19T08:56:21.494656+00:00"
+    },
+    "142e7179e1bcbc69": {
+      "title": "Show HN: AI Coding Engineers that evolve with you",
+      "fetched_at": "2026-05-19T08:56:22.110697+00:00"
+    },
+    "6ca0996f4c3d82fb": {
+      "title": "日本电机巨头尼得科拟缩小纯电动汽车驱动装置业务规模",
+      "fetched_at": "2026-05-19T08:56:22.795929+00:00"
+    },
+    "e041cad7a6ef33aa": {
+      "title": "坤彩科技：珠光粉板块产能利用率约80%左右",
+      "fetched_at": "2026-05-19T08:56:23.496406+00:00"
+    },
+    "ad710e01bbc548bd": {
+      "title": "Anthropic shuts the EU out of its most advanced cyber AI model",
+      "fetched_at": "2026-05-19T08:56:24.107001+00:00"
+    },
+    "aaaa204ce321229c": {
+      "title": "华大九天：产品已经被大规模应用于存储芯片的设计和制造中",
+      "fetched_at": "2026-05-19T08:56:24.719390+00:00"
+    },
+    "62d32afcbfc38d72": {
+      "title": "京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",
+      "fetched_at": "2026-05-19T08:56:25.329606+00:00"
+    },
+    "e4d0c5ce16ef7e05": {
+      "title": "东方国信：中标了中国电信Token工厂项目标包一15%的份额，未触及法定披露标准",
+      "fetched_at": "2026-05-19T08:56:25.957795+00:00"
+    },
+    "cb88b078f3447910": {
+      "title": "Generations of AI applications: conversational, delegative, and collaborative",
+      "fetched_at": "2026-05-19T08:56:26.573816+00:00"
+    },
+    "a091643ab06d0441": {
+      "title": "电动车需求增长不及预期，斯巴鲁调整电动化战略",
+      "fetched_at": "2026-05-19T08:56:27.201649+00:00"
+    },
+    "e951e29e9132ccc8": {
+      "title": "英特尔被传敦促PC厂商转用18A高端芯片",
+      "fetched_at": "2026-05-19T08:56:27.821416+00:00"
+    },
+    "c02a4e88b691e4fe": {
+      "title": "LLM Wiki app Chunker – transform documents into navigable knowledge trees",
+      "fetched_at": "2026-05-19T08:56:28.447175+00:00"
+    },
+    "3ae763f004a1dab7": {
+      "title": "市场监管总局：“四新经济”个体工商户超4000万户",
+      "fetched_at": "2026-05-19T08:56:29.064083+00:00"
+    },
+    "f6acc1488e508ee8": {
+      "title": "SpaceX即将成为马斯克旗下第二家上市公司，特斯拉可能遭边缘化",
+      "fetched_at": "2026-05-19T08:56:29.676530+00:00"
+    },
+    "82d14ffbfeafd815": {
+      "title": "市场监管总局：将推动海外反垄断合规服务平台投入运行",
+      "fetched_at": "2026-05-19T08:56:30.478300+00:00"
+    },
+    "4f3a83ac3d964f6d": {
+      "title": "长江存储启动IPO辅导",
+      "fetched_at": "2026-05-19T08:56:31.095329+00:00"
+    },
+    "c28cc0a7c69329f7": {
+      "title": "為何人們對斯沃琪的Royal Pop系列如此瘋狂？",
+      "fetched_at": "2026-05-19T08:56:34.616346+00:00"
+    },
+    "09856f87eeaabfb1": {
+      "title": "文革發動60週年：那十年，中國經歷了什麼？",
+      "fetched_at": "2026-05-19T08:56:35.236377+00:00"
+    },
+    "7a5309f9ce3ac3d5": {
+      "title": "中俄關係：真正維繫兩國關係的是什麼？",
+      "fetched_at": "2026-05-19T08:56:35.879069+00:00"
+    },
+    "8a9855bacd3b9a3c": {
+      "title": "特朗普稱因波斯灣國家請求，取消對伊朗新一波攻擊",
+      "fetched_at": "2026-05-19T08:56:36.482947+00:00"
+    },
+    "f80cd5a9b264e12d": {
+      "title": "美国封锁下，伊朗的能源出口如何继续流向中国",
+      "fetched_at": "2026-05-19T08:56:37.094628+00:00"
+    },
+    "804719fe507c34c4": {
+      "title": "“人工智能世纪审判”马斯克败诉，这意味着什么？",
+      "fetched_at": "2026-05-19T08:56:37.709548+00:00"
+    },
+    "ca9c7282460efc1f": {
+      "title": "普京訪華：中俄關係現在有多緊密",
+      "fetched_at": "2026-05-19T08:56:38.422228+00:00"
+    },
+    "3473aed4d992f463": {
+      "title": "美国衰落中国崛起？没这么简单",
+      "fetched_at": "2026-05-19T08:56:39.094398+00:00"
+    },
+    "c6c25a172899bd86": {
+      "title": "中国AI短剧热潮背后：失业焦虑与技术狂欢",
+      "fetched_at": "2026-05-19T08:56:39.709830+00:00"
+    },
+    "2b10768330ae0e62": {
+      "title": "民主死于平庸打工人？",
+      "fetched_at": "2026-05-19T08:56:40.316661+00:00"
+    },
+    "381e822876e928d3": {
+      "title": "Bright-blue 'potash ponds' shine alongside a dark-green river in Utah — Earth from space",
+      "fetched_at": "2026-05-19T08:56:42.373314+00:00"
+    },
+    "b95ac4715be971e8": {
+      "title": "A strange ripple in spacetime could be the first fingerprint of dark matter",
+      "fetched_at": "2026-05-19T08:56:42.987754+00:00"
+    },
+    "62a3731aaa4b0c93": {
+      "title": "String theory suddenly emerged from simple physics rules",
+      "fetched_at": "2026-05-19T08:56:43.608195+00:00"
+    },
+    "650073233b4fe01c": {
+      "title": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
+      "fetched_at": "2026-05-19T08:56:44.228682+00:00"
     }
   },
-  "last_updated": "2026-05-19T02:09:22.475496+00:00"
+  "last_updated": "2026-05-19T08:56:44.344905+00:00"
 }
