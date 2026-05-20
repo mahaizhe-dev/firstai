@@ -1,133 +1,5 @@
 {
   "articles": {
-    "4d54719495cbcd7f": {
-      "title": "Show HN: Ralph Workflow - Simple Agent-Agnostic AI Orchestrator based on Ralph.",
-      "fetched_at": "2026-05-12T19:26:46.486061+00:00"
-    },
-    "d8097120b729311d": {
-      "title": "AI Agents Under EU Law",
-      "fetched_at": "2026-05-12T19:26:47.117747+00:00"
-    },
-    "ac9d87bcf3880097": {
-      "title": "US Bank CEO on AI Popularity in the Workforce",
-      "fetched_at": "2026-05-12T19:26:47.762958+00:00"
-    },
-    "3757e8c1db2400bf": {
-      "title": "Why is Anthropic's training data disclosure AI-generated?",
-      "fetched_at": "2026-05-12T19:26:48.384219+00:00"
-    },
-    "c7057203e36b165d": {
-      "title": "Show HN: Prempti – Guardrails and observability for AI coding agents",
-      "fetched_at": "2026-05-12T19:26:49.014068+00:00"
-    },
-    "fb6ae5168535e501": {
-      "title": "Show HN: Send Cold Emails with AI Agents",
-      "fetched_at": "2026-05-12T19:26:49.641141+00:00"
-    },
-    "fa572de65a9aa599": {
-      "title": "Paperclip The human control plane for AI labor",
-      "fetched_at": "2026-05-12T19:26:50.261917+00:00"
-    },
-    "85a975ba3a11fb0e": {
-      "title": "AI isn't paying off in the way companies think according to Gartner study",
-      "fetched_at": "2026-05-12T19:26:51.086689+00:00"
-    },
-    "c7837b8beecdd078": {
-      "title": "AI in the rare disease news desert",
-      "fetched_at": "2026-05-12T19:26:51.720207+00:00"
-    },
-    "615ebbc38700ea5b": {
-      "title": "Parent sues Palo Alto Unified after son is accused of using AI on essay",
-      "fetched_at": "2026-05-12T19:26:52.382978+00:00"
-    },
-    "142af532d5a4a731": {
-      "title": "The Main Path to Creative AI",
-      "fetched_at": "2026-05-12T19:26:53.009597+00:00"
-    },
-    "d8cd1eb8173f8d35": {
-      "title": "Building a Local AI Workspace Inside VS Code",
-      "fetched_at": "2026-05-12T19:26:53.633900+00:00"
-    },
-    "061139dde616727d": {
-      "title": "Company behind GLiNER model released open source model for running LLM guardrail",
-      "fetched_at": "2026-05-12T19:26:54.255664+00:00"
-    },
-    "a478a855cae4e2f0": {
-      "title": "AI Is Starting to Build Better AI (Recursive self-improvement)",
-      "fetched_at": "2026-05-12T19:26:54.871790+00:00"
-    },
-    "8579189f8eff291c": {
-      "title": "AI overlay that stays invisible to screen recorders",
-      "fetched_at": "2026-05-12T19:26:55.501169+00:00"
-    },
-    "ce4b1698c35aa597": {
-      "title": "Are LLM Useful for Solo Founders",
-      "fetched_at": "2026-05-12T19:26:56.157768+00:00"
-    },
-    "31b16d9a5768fd1d": {
-      "title": "Show HN: I submitted 316 AI-generated PRs to open source",
-      "fetched_at": "2026-05-12T19:26:56.780607+00:00"
-    },
-    "4103ecd10797b586": {
-      "title": "Using LLM in the shebang line of a script",
-      "fetched_at": "2026-05-12T19:26:56.780722+00:00"
-    },
-    "0f77499c96f30515": {
-      "title": "Red Hat bets AgentOps can close the gap between AI experiments and production",
-      "fetched_at": "2026-05-12T19:26:57.417532+00:00"
-    },
-    "5e6ab567f1ca3bff": {
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "fetched_at": "2026-05-12T19:26:58.028730+00:00"
-    },
-    "429e6b6bd8243e7a": {
-      "title": "Did Ancient Civilizations Have Organized Crime?",
-      "fetched_at": "2026-05-12T19:27:02.954414+00:00"
-    },
-    "e134bc04a51404aa": {
-      "title": "Prehistoric Midden Excavated in Northern Sri Lanka",
-      "fetched_at": "2026-05-12T19:27:03.589162+00:00"
-    },
-    "d2ac217111ee0562": {
-      "title": "Prowl: Learning Through Discovery",
-      "fetched_at": "2026-05-12T19:27:04.211965+00:00"
-    },
-    "5d8ec999ad10aa21": {
-      "title": "New Dates Obtained for Stone Tools in East Asia",
-      "fetched_at": "2026-05-12T19:27:04.855587+00:00"
-    },
-    "51d1341626412a95": {
-      "title": "Physicists find evidence that the universe isn't perfectly uniform — potentially unraveling a 100-year-old model of cosmology",
-      "fetched_at": "2026-05-12T19:27:05.545022+00:00"
-    },
-    "1c4e8bd5750083d9": {
-      "title": "Copper Part from Illicit 19th-Century Still Discovered in Scotland",
-      "fetched_at": "2026-05-12T19:27:06.168976+00:00"
-    },
-    "ef57c1eccdfb9242": {
-      "title": "'A combination of amazement and horror': Hitchhiker fish hide in manta ray buttholes",
-      "fetched_at": "2026-05-12T19:27:06.812895+00:00"
-    },
-    "00304d3f4ed1e2f2": {
-      "title": "Eruption blows hole in sun's atmosphere, unleashing solar flare and potentially triggering northern lights",
-      "fetched_at": "2026-05-12T19:27:07.434855+00:00"
-    },
-    "8c71f4dd54d85e39": {
-      "title": "What Were Ancient Greco-Roman Curse Tablets?",
-      "fetched_at": "2026-05-12T19:27:08.170959+00:00"
-    },
-    "ad4dc45212247e51": {
-      "title": "Once-in-a-century 'super' El Niño in the cards as ocean temperatures reach near record highs in April",
-      "fetched_at": "2026-05-12T19:27:08.908546+00:00"
-    },
-    "a929704fdddde420": {
-      "title": "'Speculation' and 'egregious failure': 30 researchers publish scathing critiques of study that questioned date of early human occupation of Monte Verde in Chile",
-      "fetched_at": "2026-05-12T19:27:09.532382+00:00"
-    },
-    "de2d11eafc96049a": {
-      "title": "Shimmering silver 'sunglint' obscures Hawaii as hurricane approaches — Earth from space",
-      "fetched_at": "2026-05-12T19:27:10.239523+00:00"
-    },
     "08397fd732836f8f": {
       "title": "前4个月粤港澳大湾区内地9市外贸连续保持两位数增长",
       "fetched_at": "2026-05-13T02:01:12.285387+00:00"
@@ -3847,7 +3719,135 @@
     "d74a44fed23e16f9": {
       "title": "Scientists discover hidden chemical signature that could reveal alien life",
       "fetched_at": "2026-05-20T14:33:59.377535+00:00"
+    },
+    "15b2cd3905fe1ea4": {
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "fetched_at": "2026-05-20T20:00:53.608401+00:00"
+    },
+    "a5d754f75a6dc793": {
+      "title": "AI should feel like a keyboard shortcut, not a website",
+      "fetched_at": "2026-05-20T20:00:54.176216+00:00"
+    },
+    "d372cd65fea85882": {
+      "title": "San Francisco turns to AI to save whales from ship strikes as deaths soar",
+      "fetched_at": "2026-05-20T20:00:54.745233+00:00"
+    },
+    "d0f979b8cf58d3cb": {
+      "title": "AI atlas reveals hidden whole-body-damage caused by obesity",
+      "fetched_at": "2026-05-20T20:00:55.308946+00:00"
+    },
+    "cdb7fc08df20efff": {
+      "title": "Training SID-1 to beat GPT-5 at search with 1k+ QPS RL",
+      "fetched_at": "2026-05-20T20:00:55.872028+00:00"
+    },
+    "e66fce22b57e1641": {
+      "title": "AI robot is now a Buddhist monk",
+      "fetched_at": "2026-05-20T20:00:56.450789+00:00"
+    },
+    "5111a64d46eaf473": {
+      "title": "Advanced AI models bring government to 'reflection point,' CIA official says",
+      "fetched_at": "2026-05-20T20:00:57.032334+00:00"
+    },
+    "c879a3459828c6de": {
+      "title": "Singapore inks AI deals with Google",
+      "fetched_at": "2026-05-20T20:00:57.628332+00:00"
+    },
+    "36215af389d13490": {
+      "title": "If an LLM is too expensive it won't be next year",
+      "fetched_at": "2026-05-20T20:00:58.204992+00:00"
+    },
+    "49306a7dd8e1a520": {
+      "title": "What will better AI mean?",
+      "fetched_at": "2026-05-20T20:00:58.786652+00:00"
+    },
+    "873a0043ccf2a48b": {
+      "title": "Why Compiled AI Makes AI Enterprise Ready",
+      "fetched_at": "2026-05-20T20:00:59.356557+00:00"
+    },
+    "472984f577eebc8c": {
+      "title": "AI Inference Costs: The Wake-Up Call for 2026 and 2027",
+      "fetched_at": "2026-05-20T20:00:59.963428+00:00"
+    },
+    "57cd7d87283a76f8": {
+      "title": "The AI people have been right a lot",
+      "fetched_at": "2026-05-20T20:01:00.537109+00:00"
+    },
+    "ceabe873535a6fdd": {
+      "title": "Show HN: I made a tool for learning scales, chords, and how to combine them",
+      "fetched_at": "2026-05-20T20:01:01.109135+00:00"
+    },
+    "b9d7a3a0ec08a2f7": {
+      "title": "An AI announcer mispronounced and skipped names during a graduation",
+      "fetched_at": "2026-05-20T20:01:01.672834+00:00"
+    },
+    "b78cb4696f6c91ae": {
+      "title": "Vibe coding is coming to your phone",
+      "fetched_at": "2026-05-20T20:01:02.289635+00:00"
+    },
+    "31ceb78af964f0c5": {
+      "title": "Show HN: Trainy, an AI team that fires you",
+      "fetched_at": "2026-05-20T20:01:02.941510+00:00"
+    },
+    "f2cafbf53a240f92": {
+      "title": "Lawyer for Guy Who Sued Women Who Called Him 'Psycho' Caught Using AI",
+      "fetched_at": "2026-05-20T20:01:03.594347+00:00"
+    },
+    "613f45275715fce4": {
+      "title": "The Alaska Permanent Fund as Loose Precedent for AI Data Center 'UBI' Payments",
+      "fetched_at": "2026-05-20T20:01:04.170411+00:00"
+    },
+    "a3664baadc8a4ec0": {
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "fetched_at": "2026-05-20T20:01:04.746215+00:00"
+    },
+    "effd4b173e9fd01f": {
+      "title": "「特習會」引發台灣「菜單焦慮」 美國會否改口「反對台獨」？",
+      "fetched_at": "2026-05-20T20:01:06.565914+00:00"
+    },
+    "28ac0373fe91db6b": {
+      "title": "Scurvy-plagued whalers' remains discovered at 'Corpse Point' in Svalbard",
+      "fetched_at": "2026-05-20T20:01:09.262853+00:00"
+    },
+    "ef59618d986a376e": {
+      "title": "Mercury Detected in Medieval Lepers’ Dental Calculus",
+      "fetched_at": "2026-05-20T20:01:09.866255+00:00"
+    },
+    "4340b2457c312be0": {
+      "title": "Human Remains Found on the Plain of Jars in Laos",
+      "fetched_at": "2026-05-20T20:01:10.499580+00:00"
+    },
+    "f5f597eb1d123eb2": {
+      "title": "Common asthma drug helps fight hard-to-treat cancers, including aggressive breast cancers, early study finds",
+      "fetched_at": "2026-05-20T20:01:11.066000+00:00"
+    },
+    "93912ba6c926ada1": {
+      "title": "Did the Layout of the Roman Forum Impact Political Speech?",
+      "fetched_at": "2026-05-20T20:01:11.634354+00:00"
+    },
+    "f519fa8cdedc3ba3": {
+      "title": "Physicists confirm 'negative time' is real by asking the atoms themselves",
+      "fetched_at": "2026-05-20T20:01:12.207207+00:00"
+    },
+    "a25586620c734504": {
+      "title": "The Appalachian Mountains hold enough lithium to make 500 billion cellphones, researchers discover",
+      "fetched_at": "2026-05-20T20:01:12.781790+00:00"
+    },
+    "c6301ead1ab8381f": {
+      "title": "Scientists say this algae could remove microplastics from drinking water",
+      "fetched_at": "2026-05-20T20:01:13.341436+00:00"
+    },
+    "8580710c4059b96a": {
+      "title": "This strange giant dinosaur may change what we know about Jurassic titans",
+      "fetched_at": "2026-05-20T20:01:13.914460+00:00"
+    },
+    "50fb45cbd9206e05": {
+      "title": "NASA’s Hubble reveals a giant chaotic planet nursery unlike anything seen before",
+      "fetched_at": "2026-05-20T20:01:14.490647+00:00"
+    },
+    "3fb60c3bf2d39730": {
+      "title": "James Webb telescope reveals the clearest map ever of the Universe’s cosmic web",
+      "fetched_at": "2026-05-20T20:01:15.091343+00:00"
     }
   },
-  "last_updated": "2026-05-20T14:33:59.487709+00:00"
+  "last_updated": "2026-05-20T20:01:15.244025+00:00"
 }
