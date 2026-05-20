@@ -1,121 +1,5 @@
 {
   "articles": {
-    "947924069a040b5f": {
-      "title": "In Trump administration battle over AI, U.S. spy agencies seek more power",
-      "fetched_at": "2026-05-12T13:50:28.538928+00:00"
-    },
-    "8630b836f02df6bd": {
-      "title": "My offline AI-assisted Linux development machine",
-      "fetched_at": "2026-05-12T13:50:29.171390+00:00"
-    },
-    "89dc464d80a9d812": {
-      "title": "Show HN: Automatic Git snapshots while AI agents edit your repo",
-      "fetched_at": "2026-05-12T13:50:29.796359+00:00"
-    },
-    "3c81d476882291a4": {
-      "title": "AI coders are carrying half-open laptops through airports, offices, & ice rinks",
-      "fetched_at": "2026-05-12T13:50:30.435352+00:00"
-    },
-    "fea3246eb6590a52": {
-      "title": "Show HN: Browser-native replay of an AI agent governance incident",
-      "fetched_at": "2026-05-12T13:50:31.064930+00:00"
-    },
-    "540f596a3e064a61": {
-      "title": "AI and Injection Molding",
-      "fetched_at": "2026-05-12T13:50:31.828688+00:00"
-    },
-    "26e8f0c5416814e2": {
-      "title": "CME to Create Futures Market for Computing Power Backing AI",
-      "fetched_at": "2026-05-12T13:50:32.453559+00:00"
-    },
-    "f372c8ae704514d5": {
-      "title": "Analyze LLM-generated posts: reasoning and rhetoric",
-      "fetched_at": "2026-05-12T13:50:33.149445+00:00"
-    },
-    "3b0c1e8b63659086": {
-      "title": "Silent-Bench: cryptographic audit of LLM gateways (47.96% vs. 1.89%)",
-      "fetched_at": "2026-05-12T13:50:33.775387+00:00"
-    },
-    "d27d51c4743bf486": {
-      "title": "Dessn raises $6M for its production focused design tool",
-      "fetched_at": "2026-05-12T13:50:34.416784+00:00"
-    },
-    "42d273643ed547dd": {
-      "title": "牵头打造的全国统一电力交易App上线？中电联全面否认",
-      "fetched_at": "2026-05-12T13:50:35.046465+00:00"
-    },
-    "d7ec794af0997ae5": {
-      "title": "万科A：就220亿股东借款与深铁集团签署补充协议",
-      "fetched_at": "2026-05-12T13:50:35.667367+00:00"
-    },
-    "577801df98e4e8f1": {
-      "title": "Show HN: Voice gender classifier for European voice AI (1MB, ONNX, 4ms)",
-      "fetched_at": "2026-05-12T13:50:36.335255+00:00"
-    },
-    "911c6b895520b9e4": {
-      "title": "热门中概股美股盘前多数上涨，腾讯音乐涨超6%",
-      "fetched_at": "2026-05-12T13:50:36.961798+00:00"
-    },
-    "d4bedee83aa41c7a": {
-      "title": "Conduct Named SAP Strategic AI Partner for SAP Cloud ERP Transformation",
-      "fetched_at": "2026-05-12T13:50:37.603391+00:00"
-    },
-    "c23d724bc8b0aaca": {
-      "title": "美股大型科技股盘前普跌，英特尔跌超3%",
-      "fetched_at": "2026-05-12T13:50:38.258889+00:00"
-    },
-    "db07e752ba9c535a": {
-      "title": "4连板宝鼎科技：目前未有高速覆铜板M7和M9产品销售",
-      "fetched_at": "2026-05-12T13:50:38.901872+00:00"
-    },
-    "1120488f49c25c3b": {
-      "title": "Show HN: AI to Arse – Chrome text replacer for the new age",
-      "fetched_at": "2026-05-12T13:50:39.518623+00:00"
-    },
-    "ba12d1fb31db6d8d": {
-      "title": "Why You Shouldn't Treat AI Agents Like Employees",
-      "fetched_at": "2026-05-12T13:50:40.150121+00:00"
-    },
-    "5e1ef9994ceaf66b": {
-      "title": "Three teams shipped the same fix for AI agents losing cross-repo context",
-      "fetched_at": "2026-05-12T13:50:40.788513+00:00"
-    },
-    "effd4b173e9fd01f": {
-      "title": "「特習會」引發台灣「菜單焦慮」 美國會否改口「反對台獨」？",
-      "fetched_at": "2026-05-12T13:50:43.412996+00:00"
-    },
-    "3b7edd9d2be5f96c": {
-      "title": "特朗普訪華焦點分析：美中希望從「習特會」贏得什麼？",
-      "fetched_at": "2026-05-12T13:50:44.038980+00:00"
-    },
-    "904fe678c45011fc": {
-      "title": "各國如何應對漢他病毒？",
-      "fetched_at": "2026-05-12T13:50:44.655252+00:00"
-    },
-    "efd23ff0b090a842": {
-      "title": "中國人在台灣講脫口秀 「粉紅中配」走進台灣喜劇圈",
-      "fetched_at": "2026-05-12T13:50:45.273281+00:00"
-    },
-    "b2f71d86e22de434": {
-      "title": "Microplastics absorb heat in the atmosphere and contribute to global warming — as if they weren't bad enough",
-      "fetched_at": "2026-05-12T13:50:47.262909+00:00"
-    },
-    "5dcc4b815984d87e": {
-      "title": "'The name was inaccurate': PCOS gets a new name after years-long effort",
-      "fetched_at": "2026-05-12T13:50:47.878017+00:00"
-    },
-    "c6301ead1ab8381f": {
-      "title": "Scientists say this algae could remove microplastics from drinking water",
-      "fetched_at": "2026-05-12T13:50:48.502386+00:00"
-    },
-    "8580710c4059b96a": {
-      "title": "This strange giant dinosaur may change what we know about Jurassic titans",
-      "fetched_at": "2026-05-12T13:50:49.133818+00:00"
-    },
-    "ef4e2da08c06f5f1": {
-      "title": "Hantavirus LIVE: American passengers from cruise reach specialized facilities in Nebraska as WHO chief says 'we expect more cases.'",
-      "fetched_at": "2026-05-12T13:50:49.133986+00:00"
-    },
     "4d54719495cbcd7f": {
       "title": "Show HN: Ralph Workflow - Simple Agent-Agnostic AI Orchestrator based on Ralph.",
       "fetched_at": "2026-05-12T19:26:46.486061+00:00"
@@ -3799,7 +3683,171 @@
     "25e87ea3c02f0933": {
       "title": "Humpback whale breaks migration record with 15,000 kilometer ocean journey",
       "fetched_at": "2026-05-20T08:52:09.665412+00:00"
+    },
+    "78b1a721513b07d2": {
+      "title": "Show HN: Free AI headshots from one selfie, no signup",
+      "fetched_at": "2026-05-20T14:33:29.393011+00:00"
+    },
+    "2da702297b9638e0": {
+      "title": "It&#8217;s make or break time for AI labeling systems",
+      "fetched_at": "2026-05-20T14:33:30.024245+00:00"
+    },
+    "ed014e8452be2789": {
+      "title": "Reconciling Enterprise AI Revenue",
+      "fetched_at": "2026-05-20T14:33:30.795112+00:00"
+    },
+    "a47ffea33918e203": {
+      "title": "A Machine to Confess To",
+      "fetched_at": "2026-05-20T14:33:31.452476+00:00"
+    },
+    "7f8187a8670b5c9e": {
+      "title": "TokenScale – AI API pricing in words you know (The Hobbit = $0.06)",
+      "fetched_at": "2026-05-20T14:33:32.141986+00:00"
+    },
+    "3ba4f80b410b3ecc": {
+      "title": "Can a Mediterranean Island Nation Turn AI into a Basic Public Right?",
+      "fetched_at": "2026-05-20T14:33:32.774774+00:00"
+    },
+    "26671766c54607b7": {
+      "title": "Ollama Doesn't Know Its GPU Is on Another Machine",
+      "fetched_at": "2026-05-20T14:33:33.671493+00:00"
+    },
+    "12887fa0daaadbaa": {
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "fetched_at": "2026-05-20T14:33:34.300885+00:00"
+    },
+    "dccf8935133c62ac": {
+      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
+      "fetched_at": "2026-05-20T14:33:34.927140+00:00"
+    },
+    "ca12210136b4f6b7": {
+      "title": "OCL Nexus Local – Open-source local compute fabric for AI agents",
+      "fetched_at": "2026-05-20T14:33:35.545905+00:00"
+    },
+    "92999ac5d1b56291": {
+      "title": "You can't whisper at an AI agent",
+      "fetched_at": "2026-05-20T14:33:36.170149+00:00"
+    },
+    "881acdd0430d5cd2": {
+      "title": "Samaris OS: A Bootable Linux-Based OS with React UI, Rust Daemons and Local AI",
+      "fetched_at": "2026-05-20T14:33:36.854157+00:00"
+    },
+    "8244294d23e4d4e0": {
+      "title": "Token Saver for AI Tools",
+      "fetched_at": "2026-05-20T14:33:37.471575+00:00"
+    },
+    "ec82ef81137c8fb0": {
+      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
+      "fetched_at": "2026-05-20T14:33:38.093457+00:00"
+    },
+    "21d942ea0bec51d3": {
+      "title": "AI Makes Mistakes; Process Design Matters More",
+      "fetched_at": "2026-05-20T14:33:38.712278+00:00"
+    },
+    "a00b279d5a60cffd": {
+      "title": "Aperion Shield: local guardrail that blocks destructive AI coding agent ops",
+      "fetched_at": "2026-05-20T14:33:39.342067+00:00"
+    },
+    "0377375050338a0e": {
+      "title": "Does Your Startup Need an AI Data Analyst?",
+      "fetched_at": "2026-05-20T14:33:40.027151+00:00"
+    },
+    "de387cc9a4582357": {
+      "title": "How Much of the Internet Is AI Slop?",
+      "fetched_at": "2026-05-20T14:33:40.667991+00:00"
+    },
+    "b69aa3083661a5a9": {
+      "title": "Execs admit AI makes them value human workers less",
+      "fetched_at": "2026-05-20T14:33:41.309471+00:00"
+    },
+    "3df9c07f34186701": {
+      "title": "LLM INQUISITOR: Evaluating how AI models handle long, realistic tasks",
+      "fetched_at": "2026-05-20T14:33:41.938617+00:00"
+    },
+    "3f8f48069bfd84ea": {
+      "title": "普京晤習近平：美俄元首「前後腳訪華」隱含的外交訊號",
+      "fetched_at": "2026-05-20T14:33:45.079264+00:00"
+    },
+    "5127f1bc41e19cb3": {
+      "title": "從「定義台獨」到「有所收斂」的演說：賴清德如何論述台灣主權？",
+      "fetched_at": "2026-05-20T14:33:45.709982+00:00"
+    },
+    "eea1259c813dc621": {
+      "title": "《臺灣漫遊錄》奪布克文學獎：楊双子筆下的台灣美食與殖民記憶",
+      "fetched_at": "2026-05-20T14:33:46.334217+00:00"
+    },
+    "18eb0c2cd35666e7": {
+      "title": "特朗普前腳離開，普京後腳抵京：兩場訪問背後的中國外交密碼",
+      "fetched_at": "2026-05-20T14:33:46.964214+00:00"
+    },
+    "df75b10c8049f0ce": {
+      "title": "《中俄睦鄰友好合作條約》繼續生效 專家指普京仍謀求與中美三分天下",
+      "fetched_at": "2026-05-20T14:33:47.618690+00:00"
+    },
+    "3fe1ddb2920e2d5b": {
+      "title": "「八年貿易戰」後特朗普再訪華：打破舊平衡，還是重構新底線？",
+      "fetched_at": "2026-05-20T14:33:48.240344+00:00"
+    },
+    "214f543f92fdc224": {
+      "title": "Celestron AstroMaster LT 70AZ review",
+      "fetched_at": "2026-05-20T14:33:50.128843+00:00"
+    },
+    "63ec39816dba7178": {
+      "title": "Diagnostic dilemma: Biopsy triggered 'spontaneous regression' of woman's arm tumor",
+      "fetched_at": "2026-05-20T14:33:50.883254+00:00"
+    },
+    "2d6c47eaa862de6f": {
+      "title": "800-year-old notebook and fancy silk toilet paper discovered in medieval latrine in Germany",
+      "fetched_at": "2026-05-20T14:33:51.535830+00:00"
+    },
+    "40c51ddafd51f416": {
+      "title": "China installs world's largest floating wind turbine in deep water test — it generates enough energy to power 4,200 homes annually",
+      "fetched_at": "2026-05-20T14:33:52.157289+00:00"
+    },
+    "9dc55eec70085c40": {
+      "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
+      "fetched_at": "2026-05-20T14:33:52.836398+00:00"
+    },
+    "325c7bfadd321c11": {
+      "title": "More young people are getting colorectal cancer — here's what scientists think might be happening",
+      "fetched_at": "2026-05-20T14:33:53.541642+00:00"
+    },
+    "6caace47876999ba": {
+      "title": "'The system is likely to reach a breaking point': Major Italian volcano is speeding toward a transition, and a major eruption could be on the way",
+      "fetched_at": "2026-05-20T14:33:54.161873+00:00"
+    },
+    "a9d1ddd8e573a6c0": {
+      "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
+      "fetched_at": "2026-05-20T14:33:54.795053+00:00"
+    },
+    "a9dff3c622b6dcf0": {
+      "title": "Scientists discover massive natural hydrogen source beneath Canada",
+      "fetched_at": "2026-05-20T14:33:55.419765+00:00"
+    },
+    "8a39fbe71fd27eec": {
+      "title": "Scientists use light to create tiny molecules that could transform medicine",
+      "fetched_at": "2026-05-20T14:33:56.042603+00:00"
+    },
+    "003cbf0f9f1da144": {
+      "title": "Scientists found a giant magnetic “twist” hidden inside the Milky Way",
+      "fetched_at": "2026-05-20T14:33:56.750207+00:00"
+    },
+    "eb17beb01bd3f322": {
+      "title": "Britain’s 11,000-year-old “oldest northerner” was a 3-year-old girl, DNA reveals",
+      "fetched_at": "2026-05-20T14:33:57.386126+00:00"
+    },
+    "94f12a712035cba3": {
+      "title": "Deadly, highly venomous box jellyfish discovered in Singapore is a newfound species",
+      "fetched_at": "2026-05-20T14:33:58.010783+00:00"
+    },
+    "d8ef472cd14c1e5f": {
+      "title": "Stunning fossil discovery challenges the origins of animal life",
+      "fetched_at": "2026-05-20T14:33:58.749345+00:00"
+    },
+    "d74a44fed23e16f9": {
+      "title": "Scientists discover hidden chemical signature that could reveal alien life",
+      "fetched_at": "2026-05-20T14:33:59.377535+00:00"
     }
   },
-  "last_updated": "2026-05-20T08:52:09.809671+00:00"
+  "last_updated": "2026-05-20T14:33:59.487709+00:00"
 }
