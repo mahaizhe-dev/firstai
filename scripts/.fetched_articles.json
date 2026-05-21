@@ -1,145 +1,5 @@
 {
   "articles": {
-    "addecd08462d491f": {
-      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-      "fetched_at": "2026-05-13T19:29:19.553106+00:00"
-    },
-    "4a15a7b7f8c66bbf": {
-      "title": "AI-Powered File Organization Breaks Barriers with Natural Language Control",
-      "fetched_at": "2026-05-13T19:29:20.171326+00:00"
-    },
-    "046684da39093c7d": {
-      "title": "Show HN: Ravan – Free streaming for AI-generated instrumental music",
-      "fetched_at": "2026-05-13T19:29:20.785658+00:00"
-    },
-    "bbd40bb10ab21a4d": {
-      "title": "EditLens: Quantifying the extent of AI editing in text",
-      "fetched_at": "2026-05-13T19:29:21.405824+00:00"
-    },
-    "719907711c20383a": {
-      "title": "What drawing lines on football pitch taught me about future of human-AI collab",
-      "fetched_at": "2026-05-13T19:29:22.082137+00:00"
-    },
-    "90dd65ebf893aa48": {
-      "title": "Red Hat's skill packs give AI agents 20 years of institutional memory",
-      "fetched_at": "2026-05-13T19:29:22.701567+00:00"
-    },
-    "4c2cc689e342544d": {
-      "title": "Reading the Gerlich AI/critical thinking paper more closely",
-      "fetched_at": "2026-05-13T19:29:23.313386+00:00"
-    },
-    "fda187bfaf2dafaa": {
-      "title": "Scanread.ai – Free OCR for images, PDFs, and handwriting in 100 languages",
-      "fetched_at": "2026-05-13T19:29:23.936271+00:00"
-    },
-    "00cda7ead9f6c187": {
-      "title": "Build a Basic AI Agent from Scratch",
-      "fetched_at": "2026-05-13T19:29:24.573097+00:00"
-    },
-    "6d4f06025468d7c4": {
-      "title": "Tinyhumansai/openhuman: Your Personal AI super intelligence",
-      "fetched_at": "2026-05-13T19:29:25.195456+00:00"
-    },
-    "4aac3cfed8a8826b": {
-      "title": "Apple Working on Plan to Allow AI Agent Apps on the App Store",
-      "fetched_at": "2026-05-13T19:29:25.816915+00:00"
-    },
-    "98b25287554b1842": {
-      "title": "Why People Hate AI-Generated Text (and How to Fix It)",
-      "fetched_at": "2026-05-13T19:29:26.431287+00:00"
-    },
-    "982346db091e46d6": {
-      "title": "AI layoffs are here. This is how you keep your job. [video][6 mins]",
-      "fetched_at": "2026-05-13T19:29:27.043390+00:00"
-    },
-    "3df1b24fe5a1fb11": {
-      "title": "Arborium is AI slopware and should not be trusted",
-      "fetched_at": "2026-05-13T19:29:27.657826+00:00"
-    },
-    "9743566b6641a55e": {
-      "title": "Predicting Rare LLM Failures with 30× Fewer Rollouts",
-      "fetched_at": "2026-05-13T19:29:28.363107+00:00"
-    },
-    "6a0fa163e1c74548": {
-      "title": "Stalin.ai · Glorious Workforce Optimization Engine",
-      "fetched_at": "2026-05-13T19:29:28.988479+00:00"
-    },
-    "5237f7f186c841c0": {
-      "title": "Free Patronus – On-device firewall to monitor and control AI traffic",
-      "fetched_at": "2026-05-13T19:29:29.600743+00:00"
-    },
-    "02ec1ce8e97a645e": {
-      "title": "Show HN: Truly Typed – A writing app for the AI era",
-      "fetched_at": "2026-05-13T19:29:30.408294+00:00"
-    },
-    "6b40609d2be6263b": {
-      "title": "World Models: Things That Matter in AI",
-      "fetched_at": "2026-05-13T19:29:31.022996+00:00"
-    },
-    "6fd2902ab68c3cdf": {
-      "title": "AI Engineer Talks",
-      "fetched_at": "2026-05-13T19:29:31.656438+00:00"
-    },
-    "8ff714c8f4ec88bf": {
-      "title": "Why Was the Discovery of the Jet Stream Mostly Ignored? (2018)",
-      "fetched_at": "2026-05-13T19:29:36.073293+00:00"
-    },
-    "c0dca2e95ace075b": {
-      "title": "SpaceX prepares to launch next-generation Starship, the tallest and most powerful rocket ever built",
-      "fetched_at": "2026-05-13T19:29:36.694636+00:00"
-    },
-    "1294d1fba342a7b6": {
-      "title": "'We're less prepared for contagious pathogens': The US has degraded its ability to track and squash outbreaks, Emory epidemiologist says",
-      "fetched_at": "2026-05-13T19:29:37.314141+00:00"
-    },
-    "6431cb5ea03de486": {
-      "title": "'Exceptional' drilled tooth reveals Neanderthals practiced dentistry in Siberia 60,000 years ago",
-      "fetched_at": "2026-05-13T19:29:37.937907+00:00"
-    },
-    "b054b8b03748d407": {
-      "title": "Early Gold Dental Bridge Examined",
-      "fetched_at": "2026-05-13T19:29:38.562425+00:00"
-    },
-    "5efb703b1f701840": {
-      "title": "Exascale Training of Generative Model with Historical Priors for Data Reduction",
-      "fetched_at": "2026-05-13T19:29:39.228664+00:00"
-    },
-    "f03bfc81f2818c5d": {
-      "title": "The Milky Way ate a galaxy called Loki, and scientists think they found its bones",
-      "fetched_at": "2026-05-13T19:29:39.855951+00:00"
-    },
-    "9fba0df8c6069792": {
-      "title": "Ceremonial Structures Investigated at Peru’s Cerro de la Horca",
-      "fetched_at": "2026-05-13T19:29:40.475255+00:00"
-    },
-    "d0372a4461472c8e": {
-      "title": "Pollution may fuel depression, anxiety and other mental health problems, emerging research suggests",
-      "fetched_at": "2026-05-13T19:29:41.098175+00:00"
-    },
-    "7d64d3ee42fcab18": {
-      "title": "Sony FE 200-600mm f/5.6-6.3 G OSS review",
-      "fetched_at": "2026-05-13T19:29:41.712029+00:00"
-    },
-    "3fcfc7adb676c660": {
-      "title": "Homo erectus genetic material sequenced for the first time, and it shows 'deep genetic links' with modern humans",
-      "fetched_at": "2026-05-13T19:29:42.321813+00:00"
-    },
-    "d338c337f4904e3a": {
-      "title": "Tracking historical progress against slavery and forced labor",
-      "fetched_at": "2026-05-13T19:29:42.940211+00:00"
-    },
-    "e186d6e23da117e5": {
-      "title": "Scientists finally solve the 100-year mystery behind tough tires",
-      "fetched_at": "2026-05-13T19:29:43.545963+00:00"
-    },
-    "1d3b7a30449f9721": {
-      "title": "Halley’s comet may be named after the wrong person",
-      "fetched_at": "2026-05-13T19:29:44.186036+00:00"
-    },
-    "3ee39b8119e438bd": {
-      "title": "Humans returned to Britain 500 years earlier than scientists thought after the last ice age",
-      "fetched_at": "2026-05-13T19:29:44.833845+00:00"
-    },
     "3fb323ba67bb19d5": {
       "title": "深证成指、创业板指双双跌逾1%",
       "fetched_at": "2026-05-14T02:03:48.610752+00:00"
@@ -3843,7 +3703,115 @@
     "9041e1296e22130a": {
       "title": "Scientists discover a strange “inside-out” planetary system that shouldn’t exist",
       "fetched_at": "2026-05-21T14:38:40.165402+00:00"
+    },
+    "386b3d8fe9fa6962": {
+      "title": "Show HN: AI Audiobook Narrator",
+      "fetched_at": "2026-05-21T19:42:03.541192+00:00"
+    },
+    "6aa7f63277ca7049": {
+      "title": "Blink – AI Assistant. A Knowledge Destination",
+      "fetched_at": "2026-05-21T19:42:04.232877+00:00"
+    },
+    "df6b0f2f75f4b3ad": {
+      "title": "Show HN: Dhrive – Prompt to a native iOS app, built locally with your own AI CLI",
+      "fetched_at": "2026-05-21T19:42:04.884014+00:00"
+    },
+    "76de96e0ba16e0eb": {
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "fetched_at": "2026-05-21T19:42:05.655225+00:00"
+    },
+    "bb0b742e81e43a33": {
+      "title": "Show HN: Coherence – drift detector for AI-driven repos",
+      "fetched_at": "2026-05-21T19:42:06.305283+00:00"
+    },
+    "573af239e3b8c09a": {
+      "title": "The AI has come for my code",
+      "fetched_at": "2026-05-21T19:42:06.961793+00:00"
+    },
+    "8eba0faf61b51119": {
+      "title": "Show HN: Synrix: hardware-verified memory routing for edge AI agents",
+      "fetched_at": "2026-05-21T19:42:07.602417+00:00"
+    },
+    "72c11d8763ea73df": {
+      "title": "Starbucks scraps AI inventory tool across North America",
+      "fetched_at": "2026-05-21T19:42:08.288582+00:00"
+    },
+    "c503c46e96070c14": {
+      "title": "SpaceX IPO filing lays bare losses and Musk control as it stakes future on AI",
+      "fetched_at": "2026-05-21T19:42:08.926972+00:00"
+    },
+    "0d2bdbcece5ed9ba": {
+      "title": "Pope Leo launches an AI commission days before he releases a papal letter",
+      "fetched_at": "2026-05-21T19:42:09.580998+00:00"
+    },
+    "dc603b432fe96627": {
+      "title": "Show HN: AI readiness toolkit: AI two-minute CODE maturity check",
+      "fetched_at": "2026-05-21T19:42:10.222882+00:00"
+    },
+    "3907b5c087d08f57": {
+      "title": "AI token streaming isn't about SSE vs. WebSockets",
+      "fetched_at": "2026-05-21T19:42:10.860723+00:00"
+    },
+    "4189833dd12af1d0": {
+      "title": "Apple Music's AI stance: \"Technology should amplify artists, not replace them\"",
+      "fetched_at": "2026-05-21T19:42:11.506379+00:00"
+    },
+    "6c9bf45c985bbc96": {
+      "title": "Assay – validation layer for AI agents that touch money",
+      "fetched_at": "2026-05-21T19:42:12.274175+00:00"
+    },
+    "6fedcbb6fc62a4a2": {
+      "title": "Tanya Janca on AI Slop, Vibe Coding, & the Future of AppSec",
+      "fetched_at": "2026-05-21T19:42:12.923064+00:00"
+    },
+    "28ed6ac08e7870d8": {
+      "title": "Fixing LLM Writing with Distribution Fine Tuning",
+      "fetched_at": "2026-05-21T19:42:13.622030+00:00"
+    },
+    "c82f19f3201db8a0": {
+      "title": "Ask HN: What is an optimal game theoretic response to AI adoption?",
+      "fetched_at": "2026-05-21T19:42:14.264252+00:00"
+    },
+    "8b06e1112026b2cd": {
+      "title": "Ask HN: What AI prompts have you found most reliable for actual work?",
+      "fetched_at": "2026-05-21T19:42:14.901690+00:00"
+    },
+    "9d5eb104256087d1": {
+      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+      "fetched_at": "2026-05-21T19:42:15.543467+00:00"
+    },
+    "044518f875ff1401": {
+      "title": "White House postpones AI executive order signing ceremony",
+      "fetched_at": "2026-05-21T19:42:16.217127+00:00"
+    },
+    "ecf710ad123f04d3": {
+      "title": "'I have no doubt that life is out there': Why radio astronomers are convinced alien contact is only a matter of time",
+      "fetched_at": "2026-05-21T19:42:21.277146+00:00"
+    },
+    "f863c907c9b22f4a": {
+      "title": "19th-Century Portuguese Dental Bridge Examined",
+      "fetched_at": "2026-05-21T19:42:21.911436+00:00"
+    },
+    "23cba5e5f2abe05a": {
+      "title": "1,500-Year-Old Burials Uncovered in Mexico",
+      "fetched_at": "2026-05-21T19:42:22.544468+00:00"
+    },
+    "31c756025880f803": {
+      "title": "A multi-agent system for automating scientific discovery",
+      "fetched_at": "2026-05-21T19:42:23.200595+00:00"
+    },
+    "407153bba9659ed9": {
+      "title": "Spain’s Neanderthals Preferred Seasonal Shellfish",
+      "fetched_at": "2026-05-21T19:42:23.856294+00:00"
+    },
+    "f3895fd8a09fb961": {
+      "title": "Great Pyramid of Giza is remarkably resilient to earthquakes —‬ and it's due to the ancient Egyptians' 'extraordinary' engineering knowledge",
+      "fetched_at": "2026-05-21T19:42:24.512665+00:00"
+    },
+    "150ccc96bc8bd417": {
+      "title": "China's real-life 'transformer' mech is a giant humanoid robot that can switch from bounding on 4 legs to walking on 2",
+      "fetched_at": "2026-05-21T19:42:25.192507+00:00"
     }
   },
-  "last_updated": "2026-05-21T14:38:40.285687+00:00"
+  "last_updated": "2026-05-21T19:42:25.276491+00:00"
 }
