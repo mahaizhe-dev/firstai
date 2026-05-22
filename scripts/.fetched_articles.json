@@ -1,165 +1,5 @@
 {
   "articles": {
-    "7fc903d691a3d26c": {
-      "title": "“汇特信息”完成千万级Pre-A轮融资",
-      "fetched_at": "2026-05-14T08:26:16.874649+00:00"
-    },
-    "08e49af88c7c2d6a": {
-      "title": "甘李药业：赖脯胰岛素注射液获欧盟委员会上市许可",
-      "fetched_at": "2026-05-14T08:26:17.483211+00:00"
-    },
-    "efca0e0fe7141f0d": {
-      "title": "Show HN: I built an AI travel camera because I was tired of Google Lens",
-      "fetched_at": "2026-05-14T08:26:18.228144+00:00"
-    },
-    "c30d38d2c107d8d8": {
-      "title": "Show HN: AGEF, an open evidence format for AI agent sessions",
-      "fetched_at": "2026-05-14T08:26:18.957873+00:00"
-    },
-    "4a025d845b2e0308": {
-      "title": "恒指平收，恒生科技指数跌0.35%",
-      "fetched_at": "2026-05-14T08:26:19.590764+00:00"
-    },
-    "1b939ebaa4615c9e": {
-      "title": "People Would Rather Have Nuclear Power Plants in Their Area Than AI Data Centers",
-      "fetched_at": "2026-05-14T08:26:20.210918+00:00"
-    },
-    "60c52ac6e426c91a": {
-      "title": "Ask HN: I've been using AI for 3 years,I've lost the ability to think for myself",
-      "fetched_at": "2026-05-14T08:26:20.827455+00:00"
-    },
-    "7bc37173b53f9c3d": {
-      "title": "达实智能：目前公司AIoT平台及AI应用业务整体规模仍相对较小",
-      "fetched_at": "2026-05-14T08:26:21.457734+00:00"
-    },
-    "151aadb989594273": {
-      "title": "Gloop – A Self-Modifying AI Agent and TS Library",
-      "fetched_at": "2026-05-14T08:26:22.074573+00:00"
-    },
-    "11e48b87943981d9": {
-      "title": "Dissatisfied: Three-fourths of AI customer service rollouts are a letdown",
-      "fetched_at": "2026-05-14T08:26:22.835077+00:00"
-    },
-    "e8b73aa22a877e48": {
-      "title": "State media control shapes LLM behaviour by influencing training data",
-      "fetched_at": "2026-05-14T08:26:23.477455+00:00"
-    },
-    "0cdd269818fab996": {
-      "title": "What features are missing in current AI agent frameworks?",
-      "fetched_at": "2026-05-14T08:26:24.097264+00:00"
-    },
-    "0a9df0e01f5ba006": {
-      "title": "Tenstorrent Unveils Galaxy AI Platform Targeting Scale and Efficiency",
-      "fetched_at": "2026-05-14T08:26:24.708422+00:00"
-    },
-    "415a87578c78fc6d": {
-      "title": "视源股份在广州成立健康管理公司，注册资本1亿",
-      "fetched_at": "2026-05-14T08:26:25.354193+00:00"
-    },
-    "e4db66b58221ee8b": {
-      "title": "Fastest small LLM at 1 KB context is the slowest at 1 MB",
-      "fetched_at": "2026-05-14T08:26:26.031100+00:00"
-    },
-    "b8d4e31acd5923e1": {
-      "title": "千里智驾CEO辟谣离职传闻",
-      "fetched_at": "2026-05-14T08:26:26.668592+00:00"
-    },
-    "df4aeb8ff341ce10": {
-      "title": "AI Search Visibility: The Practical Guide to Generative Engine Optimization",
-      "fetched_at": "2026-05-14T08:26:27.300910+00:00"
-    },
-    "14c56ac7c42e87ef": {
-      "title": "华瑞股份：暂无重组借壳或资产注入计划",
-      "fetched_at": "2026-05-14T08:26:27.944632+00:00"
-    },
-    "71a2c360b651230d": {
-      "title": "商务部：中方愿同美方一道不断拉长合作清单",
-      "fetched_at": "2026-05-14T08:26:28.557038+00:00"
-    },
-    "b6651e8fafb900bc": {
-      "title": "用 Obsidian Web Clipper，让豆瓣种草更容易",
-      "fetched_at": "2026-05-14T08:26:29.192041+00:00"
-    },
-    "d6bfbe7c66e0bcab": {
-      "title": "紅毯、會談、台灣、黃仁勳：特朗普重返北京的几大關鍵點",
-      "fetched_at": "2026-05-14T08:26:31.592703+00:00"
-    },
-    "34e84643caa3f898": {
-      "title": "印度孟買「西瓜命案」？一家四口死亡原因仍令人困惑",
-      "fetched_at": "2026-05-14T08:26:32.209531+00:00"
-    },
-    "860bab35bd1f1e68": {
-      "title": "习近平正在谋划对美国的最终胜利",
-      "fetched_at": "2026-05-14T08:26:32.831212+00:00"
-    },
-    "f98ddd412510b055": {
-      "title": "一名美國公民在紐約運作中國海外「秘密警察站」而被定罪",
-      "fetched_at": "2026-05-14T08:26:33.624401+00:00"
-    },
-    "f40089f0087ccb6a": {
-      "title": "热情表象下，习近平与特朗普之间的对抗与博弈",
-      "fetched_at": "2026-05-14T08:26:34.260750+00:00"
-    },
-    "553f5648a40e720d": {
-      "title": "特朗普時隔九年再度訪華，中國年輕一代的「美國夢」在褪色嗎？",
-      "fetched_at": "2026-05-14T08:26:34.926935+00:00"
-    },
-    "b5fd78e730756517": {
-      "title": "首脑峰会之际，中美文化交流陷入冰河期",
-      "fetched_at": "2026-05-14T08:26:35.608943+00:00"
-    },
-    "08aa7e301cca21af": {
-      "title": "为什么说习近平手握王牌、不需要与特朗普达成协议",
-      "fetched_at": "2026-05-14T08:26:36.223382+00:00"
-    },
-    "07271dd6635ff0be": {
-      "title": "说教者、哲人圣君：习近平如何与外国领导人打交道",
-      "fetched_at": "2026-05-14T08:26:36.922182+00:00"
-    },
-    "d9dc7e23e0b0efc9": {
-      "title": "现场图集：特朗普与习近平举行峰会",
-      "fetched_at": "2026-05-14T08:26:37.555779+00:00"
-    },
-    "f86a784ce91492fb": {
-      "title": "中国“棋局”：从尼克松到特朗普",
-      "fetched_at": "2026-05-14T08:26:38.186488+00:00"
-    },
-    "1a53f6f6ab64a7bd": {
-      "title": "香港五年規劃：北京下達KPI還是「責無旁貸」的社會主義融合？",
-      "fetched_at": "2026-05-14T08:26:38.792591+00:00"
-    },
-    "cf8ec11549108e45": {
-      "title": "How Consumers Adoption of Online Streaming Affects Music Consumption & Discovery",
-      "fetched_at": "2026-05-14T08:26:41.586282+00:00"
-    },
-    "14d0bd19f3911321": {
-      "title": "Scientists discover hidden math secret inside Chinese money plant leaves",
-      "fetched_at": "2026-05-14T08:26:42.197364+00:00"
-    },
-    "e5147ef83e4bd64f": {
-      "title": "Scientists discover the strange way CO2 cools part of Earth’s atmosphere",
-      "fetched_at": "2026-05-14T08:26:42.866713+00:00"
-    },
-    "0879add7b610d9c5": {
-      "title": "Deadly “red sky” solar storm from 800 years ago discovered in ancient trees",
-      "fetched_at": "2026-05-14T08:26:43.472375+00:00"
-    },
-    "32af1ff7c6c3e879": {
-      "title": "Who are the Japanese? Huge DNA discovery rewrites history",
-      "fetched_at": "2026-05-14T08:26:44.090619+00:00"
-    },
-    "e4120f636f257f1a": {
-      "title": "Earth is flying through ancient supernova debris and scientists found the evidence in Antarctic ice",
-      "fetched_at": "2026-05-14T08:26:44.706256+00:00"
-    },
-    "ea82ce5dcac95eaf": {
-      "title": "500 Lines or Less: An Archaeology-Inspired Database",
-      "fetched_at": "2026-05-14T08:26:45.336326+00:00"
-    },
-    "f675a39d7157beee": {
-      "title": "Why Ancient Egyptian Honey Remains Edible After 3k Years",
-      "fetched_at": "2026-05-14T08:26:45.952622+00:00"
-    },
     "bc4ccc821cf693b9": {
       "title": "Microsoft's AI system tops Anthropic's Mythos on cybersecurity benchmark",
       "fetched_at": "2026-05-14T13:27:37.797103+00:00"
@@ -3815,7 +3655,143 @@
     "e2b4a88b5ba5429c": {
       "title": "Scientists discover deadly, highly venomous box jellyfish near Singapore's 'Island of Death Behind'",
       "fetched_at": "2026-05-22T02:09:40.051649+00:00"
+    },
+    "3cc78ece761e90a6": {
+      "title": "马来西亚6月1日起推社交媒体监管新政：限制16岁以下用户使用",
+      "fetched_at": "2026-05-22T08:52:25.348876+00:00"
+    },
+    "d3c3fafddb62ea99": {
+      "title": "Lucy – pay-per-task AI agent in USDC, no subscription (A2A/MCP/x402)",
+      "fetched_at": "2026-05-22T08:52:26.009661+00:00"
+    },
+    "1f8e19aed3d7b560": {
+      "title": "优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车",
+      "fetched_at": "2026-05-22T08:52:26.667468+00:00"
+    },
+    "b57746465d7e0da9": {
+      "title": "老虎证券、富途控股美股盘前跌幅进一步扩大",
+      "fetched_at": "2026-05-22T08:52:27.339964+00:00"
+    },
+    "ecd494bbef1ec27b": {
+      "title": "零点有数联合中国人寿推出“真AI宠”宠物保险科技平台",
+      "fetched_at": "2026-05-22T08:52:28.000949+00:00"
+    },
+    "0eabce4163c32204": {
+      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
+      "fetched_at": "2026-05-22T08:52:28.656961+00:00"
+    },
+    "f8f339e3dcf3e483": {
+      "title": "AI dev tools: Cost, ROI, and budgeting for 2026",
+      "fetched_at": "2026-05-22T08:52:29.316888+00:00"
+    },
+    "3d2caababb6c0dec": {
+      "title": "圣晖集成：控股子公司中标约2.23亿元项目",
+      "fetched_at": "2026-05-22T08:52:29.971769+00:00"
+    },
+    "70a401ebcfe2cf43": {
+      "title": "阳光诺和：STC009注射液临床试验申请获受理",
+      "fetched_at": "2026-05-22T08:52:30.634275+00:00"
+    },
+    "53c631c3a786a179": {
+      "title": "Spotify and UMG announce licensing deal to allow AI covers",
+      "fetched_at": "2026-05-22T08:52:31.302887+00:00"
+    },
+    "d054cd32fa7d8f19": {
+      "title": "中国证监会拟对老虎、富途、长桥依法严厉处罚",
+      "fetched_at": "2026-05-22T08:52:31.982176+00:00"
+    },
+    "fe8380e3d3ad4176": {
+      "title": "证监会：禁止互联网平台在境内为境外机构非法跨境经营提供营销宣传、证券期货开户通道等便利",
+      "fetched_at": "2026-05-22T08:52:32.643924+00:00"
+    },
+    "a6c819922b6fce42": {
+      "title": "证监会：严禁境外机构以任何形式在境内非法提供开户和交易服务，并设置2年集中整治期清理非法存量业务",
+      "fetched_at": "2026-05-22T08:52:33.298350+00:00"
+    },
+    "831e1d4f1060c60c": {
+      "title": "恒指收涨0.86%，联想集团涨超19%",
+      "fetched_at": "2026-05-22T08:52:33.952455+00:00"
+    },
+    "d2cf695f73895d8b": {
+      "title": "能落地的请留下，讲故事的请离场",
+      "fetched_at": "2026-05-22T08:52:34.627767+00:00"
+    },
+    "6992e2b378eb96c5": {
+      "title": "圣阳���份：公司在AIDC数据中心领域尚未与美国客户达成合作",
+      "fetched_at": "2026-05-22T08:52:35.387598+00:00"
+    },
+    "13557918176fd141": {
+      "title": "Trump pulls back AI order over fears it could slow US technology",
+      "fetched_at": "2026-05-22T08:52:36.104569+00:00"
+    },
+    "a30d927961087752": {
+      "title": "杭州银行增资至72.5亿，增幅约22%",
+      "fetched_at": "2026-05-22T08:52:36.763860+00:00"
+    },
+    "2649415a4c350791": {
+      "title": "马应龙：子公司获得溴芬酸钠滴眼液药品注册证书",
+      "fetched_at": "2026-05-22T08:52:37.526676+00:00"
+    },
+    "c4340c105ffdeaa7": {
+      "title": "韩国邮政拟加码AI数据中心和欧美地产投资",
+      "fetched_at": "2026-05-22T08:52:38.183944+00:00"
+    },
+    "08722d848274042d": {
+      "title": "「我愛世界盃，但價格實在太離譜」：門票價暴漲五倍，球迷什麼反應？",
+      "fetched_at": "2026-05-22T08:52:41.857474+00:00"
+    },
+    "c9a07380b9acaf34": {
+      "title": "法航與空中巴士被裁定須為2009年空難過失殺人負責",
+      "fetched_at": "2026-05-22T08:52:42.513220+00:00"
+    },
+    "ec61ffc31d195af6": {
+      "title": "美國起訴卡斯特羅後，古巴局勢的三種可能",
+      "fetched_at": "2026-05-22T08:52:43.213090+00:00"
+    },
+    "8a127843ceb342f6": {
+      "title": "亞馬遜英國負責人：別再因失業問題責怪年輕人",
+      "fetched_at": "2026-05-22T08:52:44.009923+00:00"
+    },
+    "dfe26f438316f317": {
+      "title": "访华商界领袖“各怀心事”，中美博弈下的跨国公司困局",
+      "fetched_at": "2026-05-22T08:52:44.853297+00:00"
+    },
+    "a71c241daeb13045": {
+      "title": "芒果有多健康？",
+      "fetched_at": "2026-05-22T08:52:45.512895+00:00"
+    },
+    "6ac4a7d2a5cf23b3": {
+      "title": "文革幸存者、《鸿：三代中国女人的故事》主人公逝世",
+      "fetched_at": "2026-05-22T08:52:46.170653+00:00"
+    },
+    "6867452305da42e0": {
+      "title": "伊朗战争引发供应危机，台湾被迫摆脱“塑料依赖症”？",
+      "fetched_at": "2026-05-22T08:52:46.831626+00:00"
+    },
+    "f1d003f42673ff9f": {
+      "title": "谁是伊朗如今真正的统治者？革命卫队“兄弟连”",
+      "fetched_at": "2026-05-22T08:52:47.492575+00:00"
+    },
+    "32c24ad3fa71527e": {
+      "title": "「文化大革命」60週年：從幾大關鍵詞看這場十年文化浩劫",
+      "fetched_at": "2026-05-22T08:52:48.336654+00:00"
+    },
+    "3f74ee93569ae9a9": {
+      "title": "Ancient asteroid craters may have sparked Earth’s oxygen-producing life",
+      "fetched_at": "2026-05-22T08:52:50.638591+00:00"
+    },
+    "79b3f18380f9d4fa": {
+      "title": "“Zombie cells” aren’t always bad and that could transform anti-aging medicine",
+      "fetched_at": "2026-05-22T08:52:51.439952+00:00"
+    },
+    "82b0c072cf1e9521": {
+      "title": "Scientists discover towering red auroras reaching deep into space above Japan",
+      "fetched_at": "2026-05-22T08:52:52.106637+00:00"
+    },
+    "26d81408bc333858": {
+      "title": "James Webb discovers a rare giant planet with surprisingly Earth-like temperatures",
+      "fetched_at": "2026-05-22T08:52:52.761784+00:00"
     }
   },
-  "last_updated": "2026-05-22T02:09:40.191042+00:00"
+  "last_updated": "2026-05-22T08:52:52.866497+00:00"
 }
