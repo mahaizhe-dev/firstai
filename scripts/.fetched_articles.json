@@ -1,149 +1,5 @@
 {
   "articles": {
-    "06492946a880b500": {
-      "title": "Ask HN: How are you using AI?",
-      "fetched_at": "2026-05-15T13:26:48.414164+00:00"
-    },
-    "16600f9d676d83a5": {
-      "title": "Revswap.ai: Trade Dollars with other startups. Book it as revenue",
-      "fetched_at": "2026-05-15T13:26:49.131817+00:00"
-    },
-    "ba397ff1a3a769ee": {
-      "title": "Show HN: PileaX – AI Chat and note and book Library, all-in-one KnowledgeBase",
-      "fetched_at": "2026-05-15T13:26:49.700585+00:00"
-    },
-    "5200b014ceda69e1": {
-      "title": "AI Writing Hits a Ceiling",
-      "fetched_at": "2026-05-15T13:26:50.265035+00:00"
-    },
-    "a5cfe58523743465": {
-      "title": "#1 on the leading AI memory benchmark using a smaller, cheaper model",
-      "fetched_at": "2026-05-15T13:26:50.840513+00:00"
-    },
-    "05bae0ee17f461d7": {
-      "title": "Big Tech groups launch global borrowing spree to fund AI expansion",
-      "fetched_at": "2026-05-15T13:26:51.418585+00:00"
-    },
-    "d0e3d5eb5cb916cf": {
-      "title": "Most Meaningful Dates on the Web and for an LLM",
-      "fetched_at": "2026-05-15T13:26:52.019742+00:00"
-    },
-    "9f1848098d6913bd": {
-      "title": "AI Fusion Photography",
-      "fetched_at": "2026-05-15T13:26:52.592334+00:00"
-    },
-    "784e7815fa1f298a": {
-      "title": "热门中概股美股盘前集体走弱，阿里巴巴跌超3%",
-      "fetched_at": "2026-05-15T13:26:53.162428+00:00"
-    },
-    "c4452daf23783341": {
-      "title": "Show HN: Vouch, I scanned 50 AI-coded repos with my own scanner",
-      "fetched_at": "2026-05-15T13:26:53.730700+00:00"
-    },
-    "ca21ffd19a109f72": {
-      "title": "美股大型科技股盘前普跌，英特尔跌超5%",
-      "fetched_at": "2026-05-15T13:26:54.312843+00:00"
-    },
-    "354f5610787ac57c": {
-      "title": "先锋新材：公司及相关当事人收到《行政处罚事先告知书》",
-      "fetched_at": "2026-05-15T13:26:54.878073+00:00"
-    },
-    "1f896df1512960bd": {
-      "title": "The AI-Native Developer",
-      "fetched_at": "2026-05-15T13:26:55.450545+00:00"
-    },
-    "934e610a68de30ef": {
-      "title": "Cerebras CEO: AI chip demand is 'not speculative', IPO price doubles",
-      "fetched_at": "2026-05-15T13:26:56.019835+00:00"
-    },
-    "fc8684743e686402": {
-      "title": "巨力索具：因涉嫌信息披露误导性陈述违法违规被证监会立案",
-      "fetched_at": "2026-05-15T13:26:56.665446+00:00"
-    },
-    "0a6082279814938b": {
-      "title": "招商轮船：子公司拟追加8.03亿元增持安通控股股份",
-      "fetched_at": "2026-05-15T13:26:57.366470+00:00"
-    },
-    "105d4158204f1091": {
-      "title": "AI Did Not",
-      "fetched_at": "2026-05-15T13:26:57.968461+00:00"
-    },
-    "95a265f36ef19ec2": {
-      "title": "'I didn't want to be the guinea pig': inside tech's AI-fueled manager purge",
-      "fetched_at": "2026-05-15T13:26:58.707365+00:00"
-    },
-    "1fc97932910027da": {
-      "title": "麦肯锡推行人工智能时代薪酬改革，削减合伙人现金分红比例",
-      "fetched_at": "2026-05-15T13:26:59.276916+00:00"
-    },
-    "4247a99cd199d131": {
-      "title": "长春高新：子公司GenSci161注射液获美国FDA批准开展临床试验",
-      "fetched_at": "2026-05-15T13:26:59.849454+00:00"
-    },
-    "be07844934e13d28": {
-      "title": "特朗普訪華結果分析：美國盯著3B，中國盯著3T，誰佔了上風？",
-      "fetched_at": "2026-05-15T13:27:01.839524+00:00"
-    },
-    "f1cb63ad5a1fadca": {
-      "title": "習近平帶特朗普參觀中南海 強調這種安排「極為罕見」",
-      "fetched_at": "2026-05-15T13:27:02.413417+00:00"
-    },
-    "5333d4d389edaf8a": {
-      "title": "17名美國商界領袖隨特朗普訪華，尚未有大訂單浮出水面",
-      "fetched_at": "2026-05-15T13:27:02.986311+00:00"
-    },
-    "5499d46ffd994105": {
-      "title": "美國伊朗可能達成終戰協議 油價股市作出快速反應",
-      "fetched_at": "2026-05-15T13:27:03.558695+00:00"
-    },
-    "ed0d3facdb1b8f39": {
-      "title": "Utopia and Historical Actions",
-      "fetched_at": "2026-05-15T13:27:05.499695+00:00"
-    },
-    "f758d71941db0d0c": {
-      "title": "Antarctica’s sudden sea ice loss is one of the most extreme and confusing events in the modern climate record. Scientists now know why it's happening.",
-      "fetched_at": "2026-05-15T13:27:06.065509+00:00"
-    },
-    "8353064a3bcab567": {
-      "title": "Withings ScanWatch 2 review: A stunningly elegant, health-focused ECG smartwatch",
-      "fetched_at": "2026-05-15T13:27:06.627902+00:00"
-    },
-    "57585276c5406f7b": {
-      "title": "Don Juan Pond: Antarctica's salty, syrupy lake that never freezes, even when it's minus 58 F",
-      "fetched_at": "2026-05-15T13:27:07.271993+00:00"
-    },
-    "5af27c408a950baa": {
-      "title": "Show HN: Sanjaya – Academic paper discovery and extraction (OpenAlex/Scrapy)",
-      "fetched_at": "2026-05-15T13:27:07.845290+00:00"
-    },
-    "08cc514611a18b62": {
-      "title": "'I heard gasps' and 'oh my God': Artemis II astronauts reveal inside story of their mind-bending solar eclipse",
-      "fetched_at": "2026-05-15T13:27:08.406326+00:00"
-    },
-    "883c525a1796c4dd": {
-      "title": "Scientists discover giant “last titan” dinosaur, Southeast Asia’s largest ever",
-      "fetched_at": "2026-05-15T13:27:09.058289+00:00"
-    },
-    "4be59062f2e5f1b1": {
-      "title": "The brain’s “feel good” chemical may be secretly fueling tinnitus",
-      "fetched_at": "2026-05-15T13:27:09.625860+00:00"
-    },
-    "593d23776eb0a681": {
-      "title": "Mars may have once had an ocean and this chaotic valley is a big clue",
-      "fetched_at": "2026-05-15T13:27:10.294368+00:00"
-    },
-    "af03e7eda576d2d3": {
-      "title": "NASA’s Roman Space Telescope could reveal millions of invisible neutron stars",
-      "fetched_at": "2026-05-15T13:27:10.868779+00:00"
-    },
-    "c4547d8fa54b72eb": {
-      "title": "Scientists accidentally discover DNA that breaks the rules of life",
-      "fetched_at": "2026-05-15T13:27:11.473371+00:00"
-    },
-    "d444140cfea2c657": {
-      "title": "People once risked everything just to keep their hats on",
-      "fetched_at": "2026-05-15T13:27:12.047123+00:00"
-    },
     "d2eaa34e8ff300ad": {
       "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
       "fetched_at": "2026-05-15T19:14:41.813234+00:00"
@@ -3859,7 +3715,127 @@
     "00dfe5a1145f9df1": {
       "title": "Scientists discover giant sea predator Tylosaurus rex that terrorized ancient oceans",
       "fetched_at": "2026-05-23T12:57:28.252438+00:00"
+    },
+    "eadca176670768dd": {
+      "title": "SafeDB MCP – safer read-only database access for AI agents",
+      "fetched_at": "2026-05-23T18:53:48.503154+00:00"
+    },
+    "f3aef2eeddfda3e4": {
+      "title": "D. Murray: I see dangers of AI firsthand – as people make doppelgangers of me",
+      "fetched_at": "2026-05-23T18:53:49.154424+00:00"
+    },
+    "2222b6cc270d566d": {
+      "title": "Bespoke AI Curriculum to Become AI Operator",
+      "fetched_at": "2026-05-23T18:53:49.760312+00:00"
+    },
+    "da51ecb033dc4d67": {
+      "title": "Orbit – Route every AI query to the right model automatically (NPM SDK)",
+      "fetched_at": "2026-05-23T18:53:50.405045+00:00"
+    },
+    "8929722eec7aae20": {
+      "title": "AI super-apps are remaking China's internet",
+      "fetched_at": "2026-05-23T18:53:51.018730+00:00"
+    },
+    "795118df166ad263": {
+      "title": "JetBrains Is Selling Independence as the Rest of AI Coding Picks Sides",
+      "fetched_at": "2026-05-23T18:53:51.640587+00:00"
+    },
+    "44896bdfa7954933": {
+      "title": "The Mirror Is Part of the Machine",
+      "fetched_at": "2026-05-23T18:53:52.253313+00:00"
+    },
+    "bfbdd4bfb1712699": {
+      "title": "Zuck defends monitoring employees to win AI race in purported leaked audio",
+      "fetched_at": "2026-05-23T18:53:52.871234+00:00"
+    },
+    "04fe04d4a4ba6c4b": {
+      "title": "Show HN: Memory for LLM apps that cuts input tokens up to 80% (avg 68%)",
+      "fetched_at": "2026-05-23T18:53:53.486212+00:00"
+    },
+    "75fbce412e2ae918": {
+      "title": "mvm – a fast virtual machine for Go",
+      "fetched_at": "2026-05-23T18:53:54.108478+00:00"
+    },
+    "f3b4c0a12e0f6559": {
+      "title": "Show HN: AI Chess Coach",
+      "fetched_at": "2026-05-23T18:53:54.722082+00:00"
+    },
+    "48819c281d53e167": {
+      "title": "The first benchmark to test AI agent's video editing capability",
+      "fetched_at": "2026-05-23T18:53:55.349549+00:00"
+    },
+    "dcf114d6b41da70c": {
+      "title": "Simulating Why One AI Always Wins: Formal Theory of the Singleton Attractor",
+      "fetched_at": "2026-05-23T18:53:55.981088+00:00"
+    },
+    "ae995c9002f43fc0": {
+      "title": "Ask HN: How can you have fun doing corporate dev work in the age of AI tools?",
+      "fetched_at": "2026-05-23T18:53:56.662635+00:00"
+    },
+    "ff47a2af144f8cdd": {
+      "title": "AI Mistakes Are Infuriating Gamers as Developers Seek Savings",
+      "fetched_at": "2026-05-23T18:53:57.295842+00:00"
+    },
+    "da25b495a0fecbb7": {
+      "title": "Google's AI Search Is So Broken It Can 'Disregard' What You're Looking For",
+      "fetched_at": "2026-05-23T18:53:57.915459+00:00"
+    },
+    "e79ca6e2b272a4a9": {
+      "title": "Polish Nobel literature laureate admits to using AI",
+      "fetched_at": "2026-05-23T18:53:58.644250+00:00"
+    },
+    "0baccf1ab49d4344": {
+      "title": "The AI Slot Machine Is Draining My Creativity",
+      "fetched_at": "2026-05-23T18:53:59.259385+00:00"
+    },
+    "425a683a8de17a42": {
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "fetched_at": "2026-05-23T18:53:59.865700+00:00"
+    },
+    "3ce6649cf0fac75c": {
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "fetched_at": "2026-05-23T18:54:00.471321+00:00"
+    },
+    "dd8fbdb6460d7985": {
+      "title": "「國事訪問+」退場：從接機到私人交流，特朗普訪華的三個禮賓細節",
+      "fetched_at": "2026-05-23T18:54:03.905275+00:00"
+    },
+    "f9835a4d21ccbf0c": {
+      "title": "Show HN: Solana Index Historical Solana Token Balance",
+      "fetched_at": "2026-05-23T18:54:09.726473+00:00"
+    },
+    "b26815d5d92f4f6e": {
+      "title": "DNA sequencing is rewriting our understanding of historic outbreaks, but it can't tell the whole story",
+      "fetched_at": "2026-05-23T18:54:10.364459+00:00"
+    },
+    "3dbcefdda1466f22": {
+      "title": "AI-generated images are making it impossible to distinguish truth from fiction. We need laws and AI watermarks to protect our shared reality.",
+      "fetched_at": "2026-05-23T18:54:11.036267+00:00"
+    },
+    "039fec6f17807e2e": {
+      "title": "Scientists discover the perfect temperature to keep mangoes fresh much longer",
+      "fetched_at": "2026-05-23T18:54:11.659292+00:00"
+    },
+    "918df3c147f97b81": {
+      "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
+      "fetched_at": "2026-05-23T18:54:12.274942+00:00"
+    },
+    "4d863457406f25f1": {
+      "title": "NASA’s Psyche spacecraft captures stunning Mars images during high-speed flyby",
+      "fetched_at": "2026-05-23T18:54:12.905481+00:00"
+    },
+    "16261aaa861be111": {
+      "title": "NASA stunned as strange solar radio burst lasts 19 days",
+      "fetched_at": "2026-05-23T18:54:13.527369+00:00"
+    },
+    "0079dd79fb9db1bf": {
+      "title": "The planet may become too hot for rice to be cultivated in many areas it currently exists",
+      "fetched_at": "2026-05-23T18:54:14.158121+00:00"
+    },
+    "7a8da742edc26b45": {
+      "title": "A grad student’s wild idea sparks a major aging breakthrough",
+      "fetched_at": "2026-05-23T18:54:14.773408+00:00"
     }
   },
-  "last_updated": "2026-05-23T12:57:28.373656+00:00"
+  "last_updated": "2026-05-23T18:54:14.879382+00:00"
 }
