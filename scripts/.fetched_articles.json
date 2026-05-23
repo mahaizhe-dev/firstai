@@ -1,137 +1,5 @@
 {
   "articles": {
-    "eb3fbba560f97f36": {
-      "title": "OpenAI首席财务官：公司或将筹集更多资金，未来可能考虑通过公开市场融资",
-      "fetched_at": "2026-05-15T08:36:53.964407+00:00"
-    },
-    "c6cd8d39ee2d5d2c": {
-      "title": "OpenAI推出Codex移动端 iOS和安卓全套餐用户可用",
-      "fetched_at": "2026-05-15T08:36:54.577080+00:00"
-    },
-    "4b26d25e9bb4c28b": {
-      "title": "天猫进军家装市场，推出行业首个AI家装操作平台“天猫设计家”",
-      "fetched_at": "2026-05-15T08:36:55.203815+00:00"
-    },
-    "4f492d971a926f6d": {
-      "title": "澳门：一季度GDP修订数值为1075.6亿澳门元，按年实质增长7.1%",
-      "fetched_at": "2026-05-15T08:36:55.821980+00:00"
-    },
-    "98b5e1ef1a3ce0b9": {
-      "title": "中国证监会发布《衍生品交易监督管理办法（试行）》",
-      "fetched_at": "2026-05-15T08:36:56.453711+00:00"
-    },
-    "298be7bd5b17649c": {
-      "title": "毅华新能源与维桢新材料联合研发MOFs-聚合物复合固态电池",
-      "fetched_at": "2026-05-15T08:36:57.090528+00:00"
-    },
-    "8d1c2d7ded484cec": {
-      "title": "汇成股份：因关联交易违规，公司及相关人员遭安徽证监局监管",
-      "fetched_at": "2026-05-15T08:36:57.751793+00:00"
-    },
-    "4497b100a5adb402": {
-      "title": "Kog AI – Building a Real-Time Inference Stack on AMD Instinct GPUs [video]",
-      "fetched_at": "2026-05-15T08:36:58.371694+00:00"
-    },
-    "17961fb8ae7beaeb": {
-      "title": "滨江集团：互动易回复不规范 收到浙江证监局警示函",
-      "fetched_at": "2026-05-15T08:36:59.095421+00:00"
-    },
-    "0a87eaa03837cc86": {
-      "title": "白云机场：4月旅客吞吐量同比增长6.94%",
-      "fetched_at": "2026-05-15T08:36:59.774042+00:00"
-    },
-    "f8c041ff4cd246c3": {
-      "title": "恒指收跌1.62%，恒生科技指数跌2.66%",
-      "fetched_at": "2026-05-15T08:37:00.399398+00:00"
-    },
-    "51dac64b18b68f36": {
-      "title": "广东：鼓励上市企业开展产业链上下游关键环节并购重组 打造大市值上市企业",
-      "fetched_at": "2026-05-15T08:37:01.068100+00:00"
-    },
-    "c21533d3596deb6f": {
-      "title": "美国政府披露特朗普Q1交易：买入英伟达、苹果 减持微软、亚马逊",
-      "fetched_at": "2026-05-15T08:37:01.690583+00:00"
-    },
-    "c9713e3318871504": {
-      "title": "香港：4月初步访港旅客为421.73万人次，按年升10%",
-      "fetched_at": "2026-05-15T08:37:02.370210+00:00"
-    },
-    "50fc6697c9bf6f87": {
-      "title": "Ask HN: Im a back end dev, how do you go from designing the UI with AI?",
-      "fetched_at": "2026-05-15T08:37:03.109747+00:00"
-    },
-    "e0c618a840993c15": {
-      "title": "外交部：中方愿同英方保持密切交往和对话",
-      "fetched_at": "2026-05-15T08:37:03.724396+00:00"
-    },
-    "881ac7e511df1403": {
-      "title": "中欧汽车产业深化新能源领域合作，总投资超80亿元",
-      "fetched_at": "2026-05-15T08:37:04.342976+00:00"
-    },
-    "a736f4b2a227fc64": {
-      "title": "港交所IPO募资额暴增571%",
-      "fetched_at": "2026-05-15T08:37:05.035962+00:00"
-    },
-    "7c65290936852b43": {
-      "title": "台积电宣布出售世界先进8.1%股权",
-      "fetched_at": "2026-05-15T08:37:05.735107+00:00"
-    },
-    "82626680e172d1cd": {
-      "title": "澳洲法官限令特斯拉7月底前完成对其集体诉讼的调查取证",
-      "fetched_at": "2026-05-15T08:37:06.343969+00:00"
-    },
-    "8a20b5b5cff5f327": {
-      "title": "「海上浮動軍火庫」船隻據報遭伊朗扣押",
-      "fetched_at": "2026-05-15T08:37:08.712693+00:00"
-    },
-    "dd8fbdb6460d7985": {
-      "title": "「國事訪問+」退場：從接機到私人交流，特朗普訪華的三個禮賓細節",
-      "fetched_at": "2026-05-15T08:37:09.349839+00:00"
-    },
-    "a73df67e74e8bb39": {
-      "title": "间谍活动、制裁、网络攻击：中美幕后冲突不断",
-      "fetched_at": "2026-05-15T08:37:09.966757+00:00"
-    },
-    "b22337921254cf6a": {
-      "title": "特朗普示好，习近平强硬：“习特会”折射中美新均势",
-      "fetched_at": "2026-05-15T08:37:10.604328+00:00"
-    },
-    "c262170db65ae6b3": {
-      "title": "17名美國商界領袖隨特朗普訪華，尚未有大合同浮出水面",
-      "fetched_at": "2026-05-15T08:37:11.231474+00:00"
-    },
-    "8e65b3c513df7b55": {
-      "title": "比薩斜塔為什麼不會倒下？",
-      "fetched_at": "2026-05-15T08:37:11.911387+00:00"
-    },
-    "5fab58c681c1add3": {
-      "title": "从肢体语言看习近平与特朗普的迥异风格",
-      "fetched_at": "2026-05-15T08:37:12.553747+00:00"
-    },
-    "862a338dd9960ff0": {
-      "title": "习近平对特朗普明确表示：台湾问题是中美关系重中之重",
-      "fetched_at": "2026-05-15T08:37:13.187556+00:00"
-    },
-    "d6495e6450b74e8c": {
-      "title": "中国民众如何评价特朗普：“挺残暴的”、“不友好”",
-      "fetched_at": "2026-05-15T08:37:13.904775+00:00"
-    },
-    "59477ca2fd357a70": {
-      "title": "Visual Chronology of Science and Discovery (2025)",
-      "fetched_at": "2026-05-15T08:37:15.866887+00:00"
-    },
-    "7a8da742edc26b45": {
-      "title": "A grad student’s wild idea sparks a major aging breakthrough",
-      "fetched_at": "2026-05-15T08:37:16.492146+00:00"
-    },
-    "65f4ecefc10e4923": {
-      "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
-      "fetched_at": "2026-05-15T08:37:17.130045+00:00"
-    },
-    "1922a990bd0b8c73": {
-      "title": "Scientists discover a mysterious asteroid breaking apart near the Sun",
-      "fetched_at": "2026-05-15T08:37:17.759817+00:00"
-    },
     "06492946a880b500": {
       "title": "Ask HN: How are you using AI?",
       "fetched_at": "2026-05-15T13:26:48.414164+00:00"
@@ -3879,7 +3747,119 @@
     "a63cec3f74150788": {
       "title": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones",
       "fetched_at": "2026-05-23T08:04:43.917962+00:00"
+    },
+    "5688a8305565d0bb": {
+      "title": "Herdr: A tmux-like terminal multiplexer for AI coding agents",
+      "fetched_at": "2026-05-23T12:57:06.640724+00:00"
+    },
+    "5910a23818727fdc": {
+      "title": "MediaUse Makes FIFA 2026 Programmable for AI Agents (No Vision)",
+      "fetched_at": "2026-05-23T12:57:07.229499+00:00"
+    },
+    "c56d02d7fe3ea3b4": {
+      "title": "OpenClaw: Own Personal AI Assistant. Any OS. Any Platform",
+      "fetched_at": "2026-05-23T12:57:07.819015+00:00"
+    },
+    "7c45e2ef9d435c09": {
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "fetched_at": "2026-05-23T12:57:08.398878+00:00"
+    },
+    "54cbd4af20f10587": {
+      "title": "Scaling Creativity in the Age of AI",
+      "fetched_at": "2026-05-23T12:57:08.984384+00:00"
+    },
+    "76dd1bab8a60b46d": {
+      "title": "The Download: coding's future, the 'Steroid Olympics,' and AI-driven science",
+      "fetched_at": "2026-05-23T12:57:09.571545+00:00"
+    },
+    "1a3bdb663dc1442d": {
+      "title": "Google’s new anything-to-anything AI model is wild",
+      "fetched_at": "2026-05-23T12:57:10.160814+00:00"
+    },
+    "cad9cbd202f84cf3": {
+      "title": "AI doesn't divide developers – it just reveals them",
+      "fetched_at": "2026-05-23T12:57:10.737822+00:00"
+    },
+    "55a5c80b6d5ba1f8": {
+      "title": "Cool New AI Meetup",
+      "fetched_at": "2026-05-23T12:57:11.323123+00:00"
+    },
+    "09d816cafac8b219": {
+      "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+      "fetched_at": "2026-05-23T12:57:11.920223+00:00"
+    },
+    "0fc08a9e9813ab6c": {
+      "title": "Ask HN: Where AI Researchers Congregate?",
+      "fetched_at": "2026-05-23T12:57:12.498277+00:00"
+    },
+    "f249e7781cf758db": {
+      "title": "The AI Superstars Who Say a 'Vibe Slop' Crisis Is Coming",
+      "fetched_at": "2026-05-23T12:57:13.179176+00:00"
+    },
+    "d36b1bd7696bb324": {
+      "title": "Show HN: Directionally bad – a newsletter about risks of AI centralization",
+      "fetched_at": "2026-05-23T12:57:13.760836+00:00"
+    },
+    "91e511b5c500fe0e": {
+      "title": "丰田汽车公司向美国国家公路交通安全管理局提交召回申请，涉及43566辆美国在售车辆",
+      "fetched_at": "2026-05-23T12:57:14.340608+00:00"
+    },
+    "80a91d956fad3c37": {
+      "title": "Did Google's AI agents build an operating system for $916?",
+      "fetched_at": "2026-05-23T12:57:14.948137+00:00"
+    },
+    "d8dc3b317eededc6": {
+      "title": "The AI Great Leap Forward (A Warning)",
+      "fetched_at": "2026-05-23T12:57:15.542234+00:00"
+    },
+    "22566c345d5a3518": {
+      "title": "海关总署：对铁路、公路运输方式进口煤炭检验实施采信管理",
+      "fetched_at": "2026-05-23T12:57:16.116525+00:00"
+    },
+    "01896341004fbe73": {
+      "title": "老虎国际：未有“拒不配合监管”等言论，2023年起已全停内地开户营销",
+      "fetched_at": "2026-05-23T12:57:16.690824+00:00"
+    },
+    "af2374e546a57683": {
+      "title": "AMD's Lemonade SDK for AI Promotes macOS to GA Status, ROCm 7.13 Integrated",
+      "fetched_at": "2026-05-23T12:57:17.265933+00:00"
+    },
+    "de7f31973610b4f4": {
+      "title": "Embedded acoustic AI with <16ms latency running on 8MB RAM",
+      "fetched_at": "2026-05-23T12:57:17.943398+00:00"
+    },
+    "2dbf8517655c3a4f": {
+      "title": "中國山西煤礦爆炸據報至少90死，我們目前已知道什麼？",
+      "fetched_at": "2026-05-23T12:57:20.512641+00:00"
+    },
+    "b31ed0753f0cc1cc": {
+      "title": "Optimal summit window for Matterhorn from 50 years of historical data and pandas",
+      "fetched_at": "2026-05-23T12:57:24.712336+00:00"
+    },
+    "79af2da7f9dd2c2e": {
+      "title": "How ancient builders made the Great Pyramid of Giza nearly earthquake-proof",
+      "fetched_at": "2026-05-23T12:57:25.291226+00:00"
+    },
+    "8963eaee6af93beb": {
+      "title": "Levoit Sprout Evaporative Humidifier review: A great addition to nurseries and toddlers’ rooms",
+      "fetched_at": "2026-05-23T12:57:25.866209+00:00"
+    },
+    "9a6b25d1961477f3": {
+      "title": "Science news this week: Laotian 'death jar', climate change threatens rice crops, and an asthma drug treats tough cancer",
+      "fetched_at": "2026-05-23T12:57:26.443637+00:00"
+    },
+    "24bbee180d8fe02b": {
+      "title": "How hot is Earth's core?",
+      "fetched_at": "2026-05-23T12:57:27.065193+00:00"
+    },
+    "b5e6a81a415ee4ae": {
+      "title": "Legends of the Ancient Web (2017)",
+      "fetched_at": "2026-05-23T12:57:27.633937+00:00"
+    },
+    "00dfe5a1145f9df1": {
+      "title": "Scientists discover giant sea predator Tylosaurus rex that terrorized ancient oceans",
+      "fetched_at": "2026-05-23T12:57:28.252438+00:00"
     }
   },
-  "last_updated": "2026-05-23T08:04:44.055926+00:00"
+  "last_updated": "2026-05-23T12:57:28.373656+00:00"
 }
