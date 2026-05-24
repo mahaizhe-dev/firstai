@@ -1,113 +1,5 @@
 {
   "articles": {
-    "fead3766128f3f66": {
-      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-      "fetched_at": "2026-05-16T18:46:46.499481+00:00"
-    },
-    "5a456e3fec5f2fc2": {
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "fetched_at": "2026-05-16T18:46:47.181746+00:00"
-    },
-    "704d60782f1e1cec": {
-      "title": "阿里健康正式发布医学AI助手“氢离子”",
-      "fetched_at": "2026-05-16T18:46:47.798874+00:00"
-    },
-    "5ceda3b1a3081747": {
-      "title": "马斯克称他不会出售任何SpaceX股票",
-      "fetched_at": "2026-05-16T18:46:48.424340+00:00"
-    },
-    "2181f1da37537dd9": {
-      "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
-      "fetched_at": "2026-05-16T18:46:49.076954+00:00"
-    },
-    "777e9394ea389126": {
-      "title": "为什么我觉得好的东西，媒体评测却给了低分？",
-      "fetched_at": "2026-05-16T18:46:49.703443+00:00"
-    },
-    "8d40cbefe046ecc2": {
-      "title": "国内品牌金饰克价跌破1400元",
-      "fetched_at": "2026-05-16T18:46:50.333405+00:00"
-    },
-    "4d6c2a7b2b4ae2bf": {
-      "title": "FF获2500万美元新融资",
-      "fetched_at": "2026-05-16T18:46:50.975860+00:00"
-    },
-    "ba051c6d5fc04be7": {
-      "title": "SpaceX批准“1拆5”拆股方案，所有C类股将转换为A类股",
-      "fetched_at": "2026-05-16T18:46:51.600655+00:00"
-    },
-    "467debbd78739b2f": {
-      "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
-      "fetched_at": "2026-05-16T18:46:52.236225+00:00"
-    },
-    "dc5b8c77ddf845b5": {
-      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-      "fetched_at": "2026-05-16T18:46:52.866350+00:00"
-    },
-    "7982e76df457632f": {
-      "title": "ArXiv will ban researchers who upload papers full of AI slop",
-      "fetched_at": "2026-05-16T18:46:53.494428+00:00"
-    },
-    "b3d3498eb5d78e9c": {
-      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-      "fetched_at": "2026-05-16T18:46:54.117950+00:00"
-    },
-    "2ad9d6bf7b92dfab": {
-      "title": "OpenAI now wants ChatGPT to access your bank accounts",
-      "fetched_at": "2026-05-16T18:46:54.753858+00:00"
-    },
-    "5b3d29d2dee26257": {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "fetched_at": "2026-05-16T18:46:55.377887+00:00"
-    },
-    "63571f61e2677780": {
-      "title": "理想出牌：全新L9上市，45.98万元起｜最前线",
-      "fetched_at": "2026-05-16T18:46:56.099915+00:00"
-    },
-    "f8f20f9013ac9234": {
-      "title": "The promises and pitfalls of personalized health",
-      "fetched_at": "2026-05-16T18:46:56.727856+00:00"
-    },
-    "b41a7776ca229e11": {
-      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-      "fetched_at": "2026-05-16T18:46:57.368525+00:00"
-    },
-    "9b2ad652dc9b4b05": {
-      "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
-      "fetched_at": "2026-05-16T18:46:58.123094+00:00"
-    },
-    "3a9d55fad3e5d4e6": {
-      "title": "Osaurus brings both local and cloud AI models to your Mac",
-      "fetched_at": "2026-05-16T18:46:58.744537+00:00"
-    },
-    "65f9aa78020942bb": {
-      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-      "fetched_at": "2026-05-16T18:47:07.479760+00:00"
-    },
-    "4700672f342c99b6": {
-      "title": "8-year-old African American boy from Colonial Maryland found buried with white Colonists, and it's unclear if he was enslaved",
-      "fetched_at": "2026-05-16T18:47:08.104953+00:00"
-    },
-    "f542b95663b1c1b3": {
-      "title": "What counts as 'close contact'? Why the risk of hantavirus transmission is tricky to define",
-      "fetched_at": "2026-05-16T18:47:08.851098+00:00"
-    },
-    "f14996447c0ec39f": {
-      "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
-      "fetched_at": "2026-05-16T18:47:09.476254+00:00"
-    },
-    "d7477ada7bafd8a2": {
-      "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
-      "fetched_at": "2026-05-16T18:47:10.110859+00:00"
-    },
-    "b913a5170fc18906": {
-      "title": "Stunning fossil discovery in Ethiopia rewrites human origins",
-      "fetched_at": "2026-05-16T18:47:10.740726+00:00"
-    },
-    "fb6ec4a00aa3d7f4": {
-      "title": "Scientists discover hidden “brakes” that stop massive earthquakes",
-      "fetched_at": "2026-05-16T18:47:11.355734+00:00"
-    },
     "a7a71304195fd8cd": {
       "title": "法拉第未来宣布获得2500万美元融资",
       "fetched_at": "2026-05-17T01:57:06.677766+00:00"
@@ -3731,7 +3623,107 @@
     "ea6dfbda1ef20275": {
       "title": "Scientists discover atoms suddenly spinning backward in quantum experiment",
       "fetched_at": "2026-05-24T12:57:50.419684+00:00"
+    },
+    "94e80880cf978e72": {
+      "title": "Google CEO Sundar Pichai says booing graduates will shape AI's future",
+      "fetched_at": "2026-05-24T18:59:07.962783+00:00"
+    },
+    "8507429ee37c4a1d": {
+      "title": "Show HN: TalkTimer, a micro-SaaS run by an AI agent team",
+      "fetched_at": "2026-05-24T18:59:08.585650+00:00"
+    },
+    "5bd149dfd139f268": {
+      "title": "Show HN: Trickster's Table – 20 free trick-taking card games with AI opponents",
+      "fetched_at": "2026-05-24T18:59:09.213158+00:00"
+    },
+    "3524f8697052fde1": {
+      "title": "Read Trump's unsigned AI executive order",
+      "fetched_at": "2026-05-24T18:59:09.835812+00:00"
+    },
+    "80b70ae1d9f4a122": {
+      "title": "Venture Capitalist John Doerr Says AI Is the Biggest Tech 'Tsunami'",
+      "fetched_at": "2026-05-24T18:59:10.457559+00:00"
+    },
+    "a708a5203705d870": {
+      "title": "AI Can't Care",
+      "fetched_at": "2026-05-24T18:59:11.089024+00:00"
+    },
+    "a7eed46c856ad5fa": {
+      "title": "Find where your AI coding tokens went: local TUI for Codex/Claude logs",
+      "fetched_at": "2026-05-24T18:59:11.713288+00:00"
+    },
+    "5361444610a8ad35": {
+      "title": "Ask HN: What is your daily AI stack?",
+      "fetched_at": "2026-05-24T18:59:12.331894+00:00"
+    },
+    "7d4924b7050c0662": {
+      "title": "Neuro; An AOT-compiled language for AI workloads built on LLVM 20",
+      "fetched_at": "2026-05-24T18:59:12.986886+00:00"
+    },
+    "818799f7ab23ba35": {
+      "title": "Resyl – AI memory that ties your notes to people instead of folders (Android)",
+      "fetched_at": "2026-05-24T18:59:13.600388+00:00"
+    },
+    "e88fca3e9c563261": {
+      "title": "Preventing AI agents from executing destructive terminal commands",
+      "fetched_at": "2026-05-24T18:59:14.224833+00:00"
+    },
+    "bf58f5c80127a830": {
+      "title": "Advancing Mathematics Research with AI-Driven Formal Proof Search",
+      "fetched_at": "2026-05-24T18:59:14.847597+00:00"
+    },
+    "6c3ba37bf133573a": {
+      "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
+      "fetched_at": "2026-05-24T18:59:15.470357+00:00"
+    },
+    "9cf1da0eba0fac6b": {
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "fetched_at": "2026-05-24T18:59:16.106498+00:00"
+    },
+    "80b44efcc2cfabae": {
+      "title": "Ask HN: Why do people seem to generally hate AI?",
+      "fetched_at": "2026-05-24T18:59:16.730440+00:00"
+    },
+    "8a4477e5496cc8a3": {
+      "title": "Resonance, randomness, and negotiated meaning for AI-assisted tarot divination",
+      "fetched_at": "2026-05-24T18:59:17.351380+00:00"
+    },
+    "3996d5423d0a7546": {
+      "title": "AI MOD Music Remastering at 32-bit 96 kHz",
+      "fetched_at": "2026-05-24T18:59:17.964649+00:00"
+    },
+    "e9febf554e6ae11e": {
+      "title": "Show HN: Strudel – Generate commit messages via Apple's on-device LLM",
+      "fetched_at": "2026-05-24T18:59:18.584672+00:00"
+    },
+    "cf2f7e35dc5fc15e": {
+      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "fetched_at": "2026-05-24T18:59:19.212035+00:00"
+    },
+    "bc6c45f62b4eb3cd": {
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "fetched_at": "2026-05-24T18:59:19.900572+00:00"
+    },
+    "2889e75786a6bcad": {
+      "title": "特朗普訪華落幕：美中各取所需，台灣、關稅等未解之事走向何方？",
+      "fetched_at": "2026-05-24T18:59:22.384549+00:00"
+    },
+    "9936c59ee4c5335f": {
+      "title": "中國爆發式增長的團播潮背後：情感詐騙、主播收入和隱秘活動",
+      "fetched_at": "2026-05-24T18:59:22.999473+00:00"
+    },
+    "158fa18d68d7757c": {
+      "title": "Catapult the cow! 6 medieval castles that were never conquered",
+      "fetched_at": "2026-05-24T18:59:26.707878+00:00"
+    },
+    "8213c7fbcac08cbf": {
+      "title": "'We can identify these really early, before the clinical diagnosis': Epigenetic markers may help explain why Native Hawaiians are aging faster",
+      "fetched_at": "2026-05-24T18:59:27.319755+00:00"
+    },
+    "05b38df2f1717374": {
+      "title": "Who are the Japanese? DNA discovery rewrites history",
+      "fetched_at": "2026-05-24T18:59:27.944944+00:00"
     }
   },
-  "last_updated": "2026-05-24T12:57:50.568885+00:00"
+  "last_updated": "2026-05-24T18:59:28.052861+00:00"
 }
