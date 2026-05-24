@@ -1,209 +1,5 @@
 {
   "articles": {
-    "d2eaa34e8ff300ad": {
-      "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
-      "fetched_at": "2026-05-15T19:14:41.813234+00:00"
-    },
-    "e3577ebda2e9d3c2": {
-      "title": "I Was Drowning Running 14 Markets Alone. So I Built a $0.41/Day AI Employee",
-      "fetched_at": "2026-05-15T19:14:42.379539+00:00"
-    },
-    "da6123c4fb1a0529": {
-      "title": "AI_glue – drop-in audit and governance for OpenAI and Anthropic apps",
-      "fetched_at": "2026-05-15T19:14:42.961857+00:00"
-    },
-    "b7d65f7b6f8a150b": {
-      "title": "Show HN: AI movies and dystopian/utopian futures",
-      "fetched_at": "2026-05-15T19:14:43.525571+00:00"
-    },
-    "dfe5dc869c8e259e": {
-      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-      "fetched_at": "2026-05-15T19:14:44.253169+00:00"
-    },
-    "d7bcf63c715ba137": {
-      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "fetched_at": "2026-05-15T19:14:44.817931+00:00"
-    },
-    "8d8bb2fc93015b10": {
-      "title": "Linus Torvalds declares AI-fueled code surges as the new normal",
-      "fetched_at": "2026-05-15T19:14:45.389193+00:00"
-    },
-    "956a3c516f347047": {
-      "title": "EY retracts study after researchers discover AI hallucinations",
-      "fetched_at": "2026-05-15T19:14:46.056473+00:00"
-    },
-    "cd37f7c53c2630f0": {
-      "title": "From PDFs to AI-ready structured data: a deep dive (2024)",
-      "fetched_at": "2026-05-15T19:14:46.617272+00:00"
-    },
-    "c4a1aba72dbe3b8d": {
-      "title": "Peter Norvig Joins $4B Effort to Build Self-Improving AI at 'Recursive'",
-      "fetched_at": "2026-05-15T19:14:47.191547+00:00"
-    },
-    "3c8dc38a03c2e353": {
-      "title": "Anthropic Raising $30B More as AI Labs Absorb Majority of VC Funding",
-      "fetched_at": "2026-05-15T19:14:47.760126+00:00"
-    },
-    "e07acbce2206dbf8": {
-      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-      "fetched_at": "2026-05-15T19:14:48.325760+00:00"
-    },
-    "db6e6590999b69b3": {
-      "title": "Ten Red Flags to Investigate When Evaluating AI Pentesting Vendors",
-      "fetched_at": "2026-05-15T19:14:48.895645+00:00"
-    },
-    "7893c16a8556ff03": {
-      "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
-      "fetched_at": "2026-05-15T19:14:49.466226+00:00"
-    },
-    "9dc45eccf7032c9d": {
-      "title": "The Download: China's AI drama factory and the WHO's missing health targets",
-      "fetched_at": "2026-05-15T19:14:50.047806+00:00"
-    },
-    "473135c63df84e43": {
-      "title": "If a machine can think, why can it not also feel?",
-      "fetched_at": "2026-05-15T19:14:50.635923+00:00"
-    },
-    "4f01c8e358564529": {
-      "title": "Google updates its spam rules to include attempts to 'manipulate' AI",
-      "fetched_at": "2026-05-15T19:14:51.210057+00:00"
-    },
-    "e0dc8c17eb184f3b": {
-      "title": "Does Trump Mobile know how many stripes are on the American flag?",
-      "fetched_at": "2026-05-15T19:14:51.774703+00:00"
-    },
-    "4850e60086403622": {
-      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-      "fetched_at": "2026-05-15T19:14:51.774840+00:00"
-    },
-    "9502631687978e6b": {
-      "title": "Mayo Clinic Is Using AI to Listen to Emergency Room Visits",
-      "fetched_at": "2026-05-15T19:14:52.346631+00:00"
-    },
-    "42d188a30c23c2d5": {
-      "title": "老鼠、選票與科學：拆解台北「安鼠之亂」背後的治理危機",
-      "fetched_at": "2026-05-15T19:14:54.569416+00:00"
-    },
-    "9a131b74b1701df4": {
-      "title": "Satellite Imagery Reveals Monumental Tombs in Sudan's Atbai Desert",
-      "fetched_at": "2026-05-15T19:14:55.940445+00:00"
-    },
-    "9d2ea1678e0813d6": {
-      "title": "Lost Notebook Found in Medieval Toilet",
-      "fetched_at": "2026-05-15T19:14:56.498270+00:00"
-    },
-    "b7a7b39ccf4fe2de": {
-      "title": "Mysterious Ancient Tunnel Discovered Beneath Jerusalem Streets",
-      "fetched_at": "2026-05-15T19:14:57.070050+00:00"
-    },
-    "191315659db2b96f": {
-      "title": "'The biggest El Niño event since the 1870s': 'Super' El Niño is now the most likely scenario by the end of this year ‪—‬ and the humanitarian cost could be huge",
-      "fetched_at": "2026-05-15T19:14:57.642295+00:00"
-    },
-    "5b379b98adc3b838": {
-      "title": "AI chatbots are turbocharging violence against women and girls: We urgently need to regulate them",
-      "fetched_at": "2026-05-15T19:14:58.204015+00:00"
-    },
-    "2478a0dd38ffcd2c": {
-      "title": "'Membership in WHO is critical': America is no longer at the helm of international outbreak responses, Emory epidemiologist says",
-      "fetched_at": "2026-05-15T19:14:58.767716+00:00"
-    },
-    "328a6bb3f1222982": {
-      "title": "商业航天迎来发展黄金期 融资客净买入12只概念股",
-      "fetched_at": "2026-05-16T01:54:45.946080+00:00"
-    },
-    "7aba25d05f399b2f": {
-      "title": "I built a machine that can make you rich with math [video]",
-      "fetched_at": "2026-05-16T01:54:46.577800+00:00"
-    },
-    "d073231787d72a40": {
-      "title": "Show HN: Nexa-Gauge – LLM eval framework, now with self-hosted model support",
-      "fetched_at": "2026-05-16T01:54:47.201146+00:00"
-    },
-    "2c00def275bfd572": {
-      "title": "美股三大指数均收跌超1%，标普500指数实现周线七连涨",
-      "fetched_at": "2026-05-16T01:54:47.817536+00:00"
-    },
-    "478f24c619d072f4": {
-      "title": "SpaceX据悉最早将于6月11日确定首次公开发行价格",
-      "fetched_at": "2026-05-16T01:54:48.435606+00:00"
-    },
-    "805a171dc9790e40": {
-      "title": "Symposia AI",
-      "fetched_at": "2026-05-16T01:54:49.060314+00:00"
-    },
-    "3d9747cf4f7ac049": {
-      "title": "Jane Street's approach to AI adoption throughout their SDLC [video]",
-      "fetched_at": "2026-05-16T01:54:49.685098+00:00"
-    },
-    "251a0f0c212ba74e": {
-      "title": "A Compression Tool for LLM Reads. Est. 60-95% Fewer Tokens",
-      "fetched_at": "2026-05-16T01:54:50.331065+00:00"
-    },
-    "d2d949b47f6d21c3": {
-      "title": "美联储：沃什正式就任前鲍威尔将暂任“临时主席”",
-      "fetched_at": "2026-05-16T01:54:50.963378+00:00"
-    },
-    "b9fd736225d78aea": {
-      "title": "高瓴增持英伟达、英特尔、台积电、Lumentum",
-      "fetched_at": "2026-05-16T01:54:51.578144+00:00"
-    },
-    "313db89ad3a685de": {
-      "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
-      "fetched_at": "2026-05-16T01:54:52.202026+00:00"
-    },
-    "8639d2a9bc7256ef": {
-      "title": "Gaps in AI Development Closing 2.1B in Pain",
-      "fetched_at": "2026-05-16T01:54:52.829387+00:00"
-    },
-    "0547bfb95fc04f2b": {
-      "title": "Ken Liu on AI and Freedom",
-      "fetched_at": "2026-05-16T01:54:53.461493+00:00"
-    },
-    "a594173c6e6eef78": {
-      "title": "Amazon pressured one of its teams to develop an AI game: Project Trident",
-      "fetched_at": "2026-05-16T01:54:54.098765+00:00"
-    },
-    "b75f64a8bad4202f": {
-      "title": "Conscience-Performance Risk in AI Governance Language",
-      "fetched_at": "2026-05-16T01:54:54.772358+00:00"
-    },
-    "430983b8381e6502": {
-      "title": "ExploitGym: Can AI agents turn bugs into exploits?",
-      "fetched_at": "2026-05-16T01:54:55.458459+00:00"
-    },
-    "7b0a6992b1c6b93f": {
-      "title": "Ghost Job Detector – AI that decodes fake job posts and HR lies",
-      "fetched_at": "2026-05-16T01:54:56.091550+00:00"
-    },
-    "e76ea324bbd069e4": {
-      "title": "Adobe Latest Target in Wave of Lawsuits over AI Voice Training",
-      "fetched_at": "2026-05-16T01:54:56.736962+00:00"
-    },
-    "03765d621d5eb755": {
-      "title": "Big Tech goes beyond Wall Street for AI borrowing",
-      "fetched_at": "2026-05-16T01:54:57.370139+00:00"
-    },
-    "7ac948ffccc0227d": {
-      "title": "Git is unprepared for the AI coding tsunami",
-      "fetched_at": "2026-05-16T01:54:58.004676+00:00"
-    },
-    "fc32f86708719842": {
-      "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
-      "fetched_at": "2026-05-16T01:55:01.049309+00:00"
-    },
-    "303bae9c32cc07a3": {
-      "title": "Show HN: Agentic product discovery for AI apps and shopping agents",
-      "fetched_at": "2026-05-16T01:55:06.163259+00:00"
-    },
-    "014dd01f93b2f0ba": {
-      "title": "Kairos: The ancient Greek art of knowing when to act",
-      "fetched_at": "2026-05-16T01:55:06.808696+00:00"
-    },
-    "b284914c403b3371": {
-      "title": "Earth is flying through ancient supernova dust",
-      "fetched_at": "2026-05-16T01:55:07.445804+00:00"
-    },
     "80b1ff3dd98997c1": {
       "title": "电影《给阿嬷的情书》观影人次破1000万",
       "fetched_at": "2026-05-16T07:48:16.991326+00:00"
@@ -3835,7 +3631,115 @@
     "7a8da742edc26b45": {
       "title": "A grad student’s wild idea sparks a major aging breakthrough",
       "fetched_at": "2026-05-23T18:54:14.773408+00:00"
+    },
+    "684a009294b9307d": {
+      "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
+      "fetched_at": "2026-05-24T02:05:12.588006+00:00"
+    },
+    "3e23c516505f48d0": {
+      "title": "Characterization of machine learning compilers for LLM inference on NVIDIA GPUs",
+      "fetched_at": "2026-05-24T02:05:13.199828+00:00"
+    },
+    "201d1c3e33f19445": {
+      "title": "Shannon Got AI This Far. Kolmogorov Shows Where It Stops",
+      "fetched_at": "2026-05-24T02:05:13.895225+00:00"
+    },
+    "147379e97feaa7a5": {
+      "title": "“天韵相机”项目负责人：香港航天员操作港研仪器意义重大",
+      "fetched_at": "2026-05-24T02:05:14.570239+00:00"
+    },
+    "2795961041c885c6": {
+      "title": "A simple AI agent in Java",
+      "fetched_at": "2026-05-24T02:05:15.311658+00:00"
+    },
+    "4b5a50fd9c2edb59": {
+      "title": "Scan any codebase in 3s, then verify what your AI builds",
+      "fetched_at": "2026-05-24T02:05:15.935150+00:00"
+    },
+    "3627e81a4dd017df": {
+      "title": "我国中东部局地降雨量或破纪录 华南江南多地将现高温",
+      "fetched_at": "2026-05-24T02:05:16.656947+00:00"
+    },
+    "5d692c01acd19c27": {
+      "title": "Joe Rogan accidentally exposed AI in four words [video][12 mins]",
+      "fetched_at": "2026-05-24T02:05:17.279842+00:00"
+    },
+    "e59f23c28b290321": {
+      "title": "AMD宣布下一代EPYC CPU进入量产",
+      "fetched_at": "2026-05-24T02:05:17.988647+00:00"
+    },
+    "475e81457b534154": {
+      "title": "AI didn't kill your junior pipeline. You did",
+      "fetched_at": "2026-05-24T02:05:18.823700+00:00"
+    },
+    "abeb74f2a998f9a1": {
+      "title": "AI Headshot Generator – Preview Before You Pay, $4.99 One-Time",
+      "fetched_at": "2026-05-24T02:05:19.448467+00:00"
+    },
+    "4fc8fbae0a1d8b26": {
+      "title": "Maxtoken: A Unified Framework for Unbounded AI Output",
+      "fetched_at": "2026-05-24T02:05:20.090022+00:00"
+    },
+    "57933b67f10f9531": {
+      "title": "Bateschess – Chess Analytics Feeding Stockfish Evals into LLM's",
+      "fetched_at": "2026-05-24T02:05:20.709917+00:00"
+    },
+    "5cd887d90b38599a": {
+      "title": "The unlikely Vatican-Anthropic relationship that's reshaping AI ethics debate",
+      "fetched_at": "2026-05-24T02:05:21.326999+00:00"
+    },
+    "552832c793de555b": {
+      "title": "When does learning from data work (math starting from basic probability)",
+      "fetched_at": "2026-05-24T02:05:22.043874+00:00"
+    },
+    "4c95109099065303": {
+      "title": "Jeremy Scott gets cheer after ripping up AI-written commencement speech",
+      "fetched_at": "2026-05-24T02:05:22.728153+00:00"
+    },
+    "aa59d4a961742b8c": {
+      "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
+      "fetched_at": "2026-05-24T02:05:23.424369+00:00"
+    },
+    "79c94ec58f2cb103": {
+      "title": "AI-fix: type one word after a failed command and it fixes it",
+      "fetched_at": "2026-05-24T02:05:24.055774+00:00"
+    },
+    "aa5ba22fe40d1a03": {
+      "title": "AI Governance 2026: I Almost Quit over This Shit (and Why You Might Too)",
+      "fetched_at": "2026-05-24T02:05:24.682761+00:00"
+    },
+    "630ae33d1b1608f7": {
+      "title": "Show HN: Fruitsy, a slot machine game",
+      "fetched_at": "2026-05-24T02:05:25.298224+00:00"
+    },
+    "be07844934e13d28": {
+      "title": "特朗普訪華結果分析：美國盯著3B，中國盯著3T，誰佔了上風？",
+      "fetched_at": "2026-05-24T02:05:28.187434+00:00"
+    },
+    "f1cb63ad5a1fadca": {
+      "title": "習近平帶特朗普參觀中南海 強調這種安排「極為罕見」",
+      "fetched_at": "2026-05-24T02:05:28.854541+00:00"
+    },
+    "7565bae7b8b584bc": {
+      "title": "Discovery Platform for Startups",
+      "fetched_at": "2026-05-24T02:05:33.659166+00:00"
+    },
+    "883c525a1796c4dd": {
+      "title": "Scientists discover giant “last titan” dinosaur, Southeast Asia’s largest ever",
+      "fetched_at": "2026-05-24T02:05:34.288788+00:00"
+    },
+    "4be59062f2e5f1b1": {
+      "title": "The brain’s “feel good” chemical may be secretly fueling tinnitus",
+      "fetched_at": "2026-05-24T02:05:34.910525+00:00"
+    },
+    "593d23776eb0a681": {
+      "title": "Mars may have once had an ocean and this chaotic valley is a big clue",
+      "fetched_at": "2026-05-24T02:05:35.532730+00:00"
+    },
+    "af03e7eda576d2d3": {
+      "title": "NASA’s Roman Space Telescope could reveal millions of invisible neutron stars",
+      "fetched_at": "2026-05-24T02:05:36.154393+00:00"
     }
   },
-  "last_updated": "2026-05-23T18:54:14.879382+00:00"
+  "last_updated": "2026-05-24T02:05:36.256746+00:00"
 }
