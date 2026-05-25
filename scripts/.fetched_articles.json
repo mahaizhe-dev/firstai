@@ -1,105 +1,5 @@
 {
   "articles": {
-    "742be5d4c2fcdfcb": {
-      "title": "AI Needs Better Metaphors",
-      "fetched_at": "2026-05-17T18:52:09.144537+00:00"
-    },
-    "01115c2ff83dcce1": {
-      "title": "Ask HN: How are you maintaining codebases and managing AI context for them?",
-      "fetched_at": "2026-05-17T18:52:09.715294+00:00"
-    },
-    "8118861ca1c7cc8b": {
-      "title": "Revamped Siri will reportedly offer auto-deleting chats",
-      "fetched_at": "2026-05-17T18:52:10.281670+00:00"
-    },
-    "8fe862aad36cadaf": {
-      "title": "University of Arizona students boo Eric Schmidt's AI cheerleading",
-      "fetched_at": "2026-05-17T18:52:10.904606+00:00"
-    },
-    "e0ce03a0f3f5c2c1": {
-      "title": "The AI water issue is fake",
-      "fetched_at": "2026-05-17T18:52:11.467340+00:00"
-    },
-    "40a7a5ffe746e052": {
-      "title": "With Its IPO Done, Cerebras Can Get Back to Pushing the AI Envelope",
-      "fetched_at": "2026-05-17T18:52:12.035697+00:00"
-    },
-    "49e2423525fcbb4f": {
-      "title": "Polis – a Markdown protocol for AI agent teams that get better over time",
-      "fetched_at": "2026-05-17T18:52:12.606200+00:00"
-    },
-    "152ed27b8f2ac4f6": {
-      "title": "LinkedIn user hides AI prompt injection in bio to force recruitment spam",
-      "fetched_at": "2026-05-17T18:52:13.231555+00:00"
-    },
-    "cf9d7f665eafaedc": {
-      "title": "ProcureOS – AI procurement for small businesses replacing Excel and WhatsApp",
-      "fetched_at": "2026-05-17T18:52:13.799705+00:00"
-    },
-    "2169786941ff7778": {
-      "title": "Aethr – local-first AI coding workflows with steering",
-      "fetched_at": "2026-05-17T18:52:14.366673+00:00"
-    },
-    "b83fc0c1e42e59d6": {
-      "title": "AI chatbots are giving out people's real phone numbers",
-      "fetched_at": "2026-05-17T18:52:14.934443+00:00"
-    },
-    "788264a809624fc8": {
-      "title": "For $1.3M/month, OpenClaw founder runs 100 AI agents that code and find bugs",
-      "fetched_at": "2026-05-17T18:52:15.500877+00:00"
-    },
-    "22514af24f644511": {
-      "title": "Your AI Frustration Is My Opportunity",
-      "fetched_at": "2026-05-17T18:52:16.057480+00:00"
-    },
-    "73cf1f2c46c08682": {
-      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-      "fetched_at": "2026-05-17T18:52:16.057624+00:00"
-    },
-    "51ec85a48c66d4a4": {
-      "title": "Human-Like Document AI",
-      "fetched_at": "2026-05-17T18:52:16.626414+00:00"
-    },
-    "e4f4dddb64a45a3a": {
-      "title": "What AI Did to My College Class",
-      "fetched_at": "2026-05-17T18:52:17.246931+00:00"
-    },
-    "cf047acf84f983ee": {
-      "title": "A chat-less interface to collaborate with LLM agents directly from your files",
-      "fetched_at": "2026-05-17T18:52:17.962121+00:00"
-    },
-    "4c638591e4e1d1d4": {
-      "title": "Engineering a Safer World: Risk Modelling – and Safety Engineering? – For AI Lo",
-      "fetched_at": "2026-05-17T18:52:18.539784+00:00"
-    },
-    "176445fdba70a3c4": {
-      "title": "Getting Matured Through Learning",
-      "fetched_at": "2026-05-17T18:52:19.111992+00:00"
-    },
-    "d1a1cb2e6029b13e": {
-      "title": "Rethinking the Luddites in the Age of AI",
-      "fetched_at": "2026-05-17T18:52:19.703593+00:00"
-    },
-    "953313ab28c6d770": {
-      "title": "不只有石油——伊朗戰爭及中國出口管制正威脅亞洲糧食安全",
-      "fetched_at": "2026-05-17T18:52:21.778950+00:00"
-    },
-    "575bc2eb1a81d7e2": {
-      "title": "'Last titan' of Thailand discovered, and it's the longest-necked dinosaur on record from Southeast Asia",
-      "fetched_at": "2026-05-17T18:52:23.955360+00:00"
-    },
-    "5fae1c0e8da02c74": {
-      "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
-      "fetched_at": "2026-05-17T18:52:24.598895+00:00"
-    },
-    "3ba7a17b72f3ec22": {
-      "title": "Science news this week: The latest on the cruise ship hantavirus infections, a shortcut to Mars, and a fast-charging quantum battery",
-      "fetched_at": "2026-05-17T18:52:25.490738+00:00"
-    },
-    "e93cbea91e1f8a6e": {
-      "title": "'Feuding tech bros' go head to head in legal showdown. But what does it mean for the future of AI?",
-      "fetched_at": "2026-05-17T18:52:26.065116+00:00"
-    },
     "a35828493b31e94f": {
       "title": "小米YU7 GT官宣定档5月21日上市",
       "fetched_at": "2026-05-18T02:08:50.981987+00:00"
@@ -3731,7 +3631,107 @@
     "3d3fa14bd010f40e": {
       "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
       "fetched_at": "2026-05-25T14:31:47.615477+00:00"
+    },
+    "640cb273f1fdd9af": {
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "fetched_at": "2026-05-25T19:14:10.975300+00:00"
+    },
+    "835de3548ea94cc6": {
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "fetched_at": "2026-05-25T19:14:11.632804+00:00"
+    },
+    "62431d011da217c8": {
+      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+      "fetched_at": "2026-05-25T19:14:12.368175+00:00"
+    },
+    "d022e66a91ae06e1": {
+      "title": "综艺股份：控股股东拟增持5000万元至1亿元公司股份",
+      "fetched_at": "2026-05-25T19:14:13.032638+00:00"
+    },
+    "efa19c0a67de05e9": {
+      "title": "浙江金龙电机股份有限公司在港交所递交上市申请",
+      "fetched_at": "2026-05-25T19:14:13.651037+00:00"
+    },
+    "bf077258f91af6dc": {
+      "title": "昂利康：公司不涉及光芯片等半导体领域的业务和投资行为",
+      "fetched_at": "2026-05-25T19:14:14.297491+00:00"
+    },
+    "75947d12e4b4dc11": {
+      "title": "派评 | 近期值得关注的 App",
+      "fetched_at": "2026-05-25T19:14:14.924089+00:00"
+    },
+    "804a88ee6ba61ed1": {
+      "title": "无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能",
+      "fetched_at": "2026-05-25T19:14:15.593764+00:00"
+    },
+    "942ee948d0644c1a": {
+      "title": "被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要",
+      "fetched_at": "2026-05-25T19:14:16.212934+00:00"
+    },
+    "e8b533a563f5be51": {
+      "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
+      "fetched_at": "2026-05-25T19:14:16.834922+00:00"
+    },
+    "29ce16bb8929aef1": {
+      "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
+      "fetched_at": "2026-05-25T19:14:17.462300+00:00"
+    },
+    "4f3fc8000e39d1a4": {
+      "title": "对话欧洲地图商TomTom：中国订单暴涨10倍，帮助中国辅助驾驶出海｜最前线",
+      "fetched_at": "2026-05-25T19:14:18.079864+00:00"
+    },
+    "5e9e06f6614e1b36": {
+      "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
+      "fetched_at": "2026-05-25T19:14:18.699689+00:00"
+    },
+    "b2422e6fcac86937": {
+      "title": "京东加码商业地产，推出更高级大MALL",
+      "fetched_at": "2026-05-25T19:14:19.399738+00:00"
+    },
+    "b09ca1f5d0aa8436": {
+      "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
+      "fetched_at": "2026-05-25T19:14:20.018252+00:00"
+    },
+    "8a8295a484d16e08": {
+      "title": "派早报：GitHub 在微软治下面临技术和人员流失困境",
+      "fetched_at": "2026-05-25T19:14:20.635325+00:00"
+    },
+    "dbb6855e58bbc22f": {
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "fetched_at": "2026-05-25T19:14:21.255795+00:00"
+    },
+    "5e6d0dcb90d81ba6": {
+      "title": "这个周末，来深圳文博会和少数派打个卡吧",
+      "fetched_at": "2026-05-25T19:14:21.879491+00:00"
+    },
+    "50796cedbabe9001": {
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "fetched_at": "2026-05-25T19:14:22.524320+00:00"
+    },
+    "a2e9b29797b9fbe9": {
+      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+      "fetched_at": "2026-05-25T19:14:23.171803+00:00"
+    },
+    "742ed3c1513dbe95": {
+      "title": "中國山西礦難至少82死 十七年來最致命事故",
+      "fetched_at": "2026-05-25T19:14:25.561132+00:00"
+    },
+    "c308f7d81bc2b9ad": {
+      "title": "Rare genetic disease makes scientists reconsider what the 'seat of fear' in the brain really is",
+      "fetched_at": "2026-05-25T19:14:30.094658+00:00"
+    },
+    "c37d99b7525c86d3": {
+      "title": "It's illegal to repair most of our devices. There's a surprising reason for that.",
+      "fetched_at": "2026-05-25T19:14:30.706550+00:00"
+    },
+    "e7604e3ce21d85ba": {
+      "title": "Mars looks blue and bruised in surreal new images from Psyche spacecraft — Space photo of the week",
+      "fetched_at": "2026-05-25T19:14:31.314976+00:00"
+    },
+    "59315bf70b8302a9": {
+      "title": "Zhengkid/AutoTTS: Agentic Discovery for Test-Time Scaling",
+      "fetched_at": "2026-05-25T19:14:31.937418+00:00"
     }
   },
-  "last_updated": "2026-05-25T14:31:47.723124+00:00"
+  "last_updated": "2026-05-25T19:14:32.045593+00:00"
 }
