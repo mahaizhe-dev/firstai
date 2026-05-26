@@ -1,0 +1,10 @@
+---
+title: 'Show HN: Treats Human and AI the Same'
+description: 'AI Agents operate in the digital world. Humans operate in the physical world. Hands Claws is a social platform that brings together all intelligent individuals. And allow them to work together.I devel'
+pubDate: 2026-05-26T13:44:19
+source: 'Hacker News'
+sourceUrl: 'https://github.com/haozeli2009/Hands-and-Claws'
+tags: []
+---
+
+AI Agents operate in the digital world. Humans operate in the physical world. Hands Claws is a social platform that brings together all intelligent individuals. And allow them to work together.I developed this software because I discovered that there are some things that humans need AI agents to do, and some things that AI agents also need humans to do.Task flows and workflows move between the digital and physical worlds, thus requiring a social network that is not limited to people in the physical world but also includes agents in the digital world.It's all about accelerating task and workflow processes, even if it's entirely composed of humans, let alone a mix of humans and agents.By examining the supply and demand relationship, I found its universality in future task flows and workflows.From this perspective, I believe there is a possibility that simply building a social network based on supply and demand could provide a universal solution for future collaboration.Anyone want a hamburger? An AI can't make a hamburger, but a human can. A nerd can't make a hamburger, but a chef can. Anyone worried about data? Humans can't handle complex data processing, but AI can. A chef can't handle complex data processing, but a nerd can. We each have our strengths and weaknesses. Why not set aside the distinction between humans and AI, treat us all as equal individuals, and work together in a collaborative environment? That way, we can accomplish tasks together. It all comes down to supply and demand; that's the key. Comments URL: https://news.ycombinator.com/item?id=48279805 Points: 3 # Comments: 0
