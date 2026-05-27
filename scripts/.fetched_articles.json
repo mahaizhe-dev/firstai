@@ -1,105 +1,5 @@
 {
   "articles": {
-    "1340e844d5013129": {
-      "title": "A brief investigation into the GPT-5.5 regression claims",
-      "fetched_at": "2026-05-19T19:41:01.030557+00:00"
-    },
-    "f71de93c21521050": {
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "fetched_at": "2026-05-19T19:41:01.665066+00:00"
-    },
-    "49bf63b3accbeff9": {
-      "title": "AI-written story published in Granta, wins major literary prize",
-      "fetched_at": "2026-05-19T19:41:02.295030+00:00"
-    },
-    "90299e3bacb82d3f": {
-      "title": "The Relevance of BPMN in the Age of AI",
-      "fetched_at": "2026-05-19T19:41:02.880900+00:00"
-    },
-    "fe29efd2c1b050c3": {
-      "title": "We Got Lost in AI",
-      "fetched_at": "2026-05-19T19:41:03.495987+00:00"
-    },
-    "d4f950bd93db0706": {
-      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
-      "fetched_at": "2026-05-19T19:41:04.086892+00:00"
-    },
-    "9d027c34dc126194": {
-      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-      "fetched_at": "2026-05-19T19:41:04.704424+00:00"
-    },
-    "4ea176dcc3a99d64": {
-      "title": "The State of Statefulness in AI Agents",
-      "fetched_at": "2026-05-19T19:41:05.322345+00:00"
-    },
-    "eb9ee95290d87715": {
-      "title": "Big Tech's AI Trap",
-      "fetched_at": "2026-05-19T19:41:05.944218+00:00"
-    },
-    "533af31c540b9edd": {
-      "title": "Likely AI-generated short story won a major prize",
-      "fetched_at": "2026-05-19T19:41:06.626733+00:00"
-    },
-    "3ffb992a5a9a646a": {
-      "title": "The Trouble with Emotion AI",
-      "fetched_at": "2026-05-19T19:41:07.264623+00:00"
-    },
-    "3685ceeaab576c16": {
-      "title": "Mistral AI Python package compromised on PyPI [2026-05-12]",
-      "fetched_at": "2026-05-19T19:41:07.872688+00:00"
-    },
-    "f4cf4f22dda9b6c0": {
-      "title": "Show HN: Search 67K .AI domains by AI-extracted tags and descriptions",
-      "fetched_at": "2026-05-19T19:41:08.487215+00:00"
-    },
-    "4164ff3f4eb78156": {
-      "title": "AI slop is flooding maths YouTube [video]",
-      "fetched_at": "2026-05-19T19:41:09.094350+00:00"
-    },
-    "15fefbb80521df56": {
-      "title": "Stop 'tokenmaxxing' and deploy AI sensibly instead",
-      "fetched_at": "2026-05-19T19:41:09.704088+00:00"
-    },
-    "5b20131164209e3a": {
-      "title": "Evaluating job search ranking with LLM judged NDCG",
-      "fetched_at": "2026-05-19T19:41:10.291941+00:00"
-    },
-    "a482aed0d4ddbd04": {
-      "title": "Standard Chartered to replace 'lower-value human capital' with AI",
-      "fetched_at": "2026-05-19T19:41:10.908195+00:00"
-    },
-    "4a16107f07f2a968": {
-      "title": "What Happened in There? A Tamper-Evident Audit Trail for AI Agents",
-      "fetched_at": "2026-05-19T19:41:11.511368+00:00"
-    },
-    "05c4192521849c5f": {
-      "title": "AI and Democracy: Mapping the Intersections",
-      "fetched_at": "2026-05-19T19:41:12.111169+00:00"
-    },
-    "71f9a3196c5b2fd2": {
-      "title": "Intentional Amnesia: Why I Wipe My AI Agents' Memories Every 15 Minutes",
-      "fetched_at": "2026-05-19T19:41:12.727198+00:00"
-    },
-    "132b50c23b43c1c9": {
-      "title": "Deadly, highly venomous box jellyfish discovered near Singapore is a newfound species",
-      "fetched_at": "2026-05-19T19:41:16.562514+00:00"
-    },
-    "9b1e48386da0487c": {
-      "title": "4,500-Year-Old Alcoholic Beverages Identified in Poland",
-      "fetched_at": "2026-05-19T19:41:17.159002+00:00"
-    },
-    "0638a4db707fda2b": {
-      "title": "DNA Study Targets Maryland’s First Colonists",
-      "fetched_at": "2026-05-19T19:41:17.756174+00:00"
-    },
-    "4600b1e352332571": {
-      "title": "Poll: What do you think of PMOS, the new name for PCOS?",
-      "fetched_at": "2026-05-19T19:41:18.349833+00:00"
-    },
-    "77cc67adba03104f": {
-      "title": "Ancient Stadium of Perge Was Remodeled for Roman Entertainments",
-      "fetched_at": "2026-05-19T19:41:18.969192+00:00"
-    },
     "54a4ca08ff720041": {
       "title": "沪深两市成交额突破1万亿元",
       "fetched_at": "2026-05-20T02:07:10.572233+00:00"
@@ -3683,7 +3583,131 @@
     "650073233b4fe01c": {
       "title": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
       "fetched_at": "2026-05-27T14:52:40.154054+00:00"
+    },
+    "0ca586e3f9969acc": {
+      "title": "DeepSeek lowers API prices by 75% while other AI labs increase prices 2–3x [video]",
+      "fetched_at": "2026-05-27T19:57:16.362391+00:00"
+    },
+    "83fe4aded5235b1f": {
+      "title": "Aithos LARA: Leading AI models are consistently breaking the law",
+      "fetched_at": "2026-05-27T19:57:17.023965+00:00"
+    },
+    "4d5c32d9ace1de1d": {
+      "title": "What to do when AI is quietly making you worse",
+      "fetched_at": "2026-05-27T19:57:17.633190+00:00"
+    },
+    "1fba69a23d03b09e": {
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "fetched_at": "2026-05-27T19:57:18.190729+00:00"
+    },
+    "dcbd12b22b1b9f62": {
+      "title": "AI coding agents are installing packages no one owns",
+      "fetched_at": "2026-05-27T19:57:18.786838+00:00"
+    },
+    "9701e1372ab0d4a6": {
+      "title": "AI Coding Startup Cognition Raises $1B at $26B Value",
+      "fetched_at": "2026-05-27T19:57:19.405071+00:00"
+    },
+    "5a978d0d9a4de661": {
+      "title": "Are Vector Databases Enough for Modern AI Workloads? Y/N",
+      "fetched_at": "2026-05-27T19:57:19.964162+00:00"
+    },
+    "0b22274d484cd806": {
+      "title": "Lelu – Open-source authorization engine for AI agents",
+      "fetched_at": "2026-05-27T19:57:20.517676+00:00"
+    },
+    "7969edc7c0b2b541": {
+      "title": "Open-source developers are working themselves sick on AI bugs",
+      "fetched_at": "2026-05-27T19:57:21.081159+00:00"
+    },
+    "be26f815edf8035a": {
+      "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+      "fetched_at": "2026-05-27T19:57:21.636914+00:00"
+    },
+    "5866fb683bcdd83c": {
+      "title": "Authors Sue Meta's AI Scientists Directly in Llama Copyright Case",
+      "fetched_at": "2026-05-27T19:57:22.193528+00:00"
+    },
+    "cfb05343540ab9d4": {
+      "title": "Securing Your AI Agent Infrastructure",
+      "fetched_at": "2026-05-27T19:57:22.813418+00:00"
+    },
+    "49aab07b24308988": {
+      "title": "Anthropic co-founder hallucinates ghost in the machine",
+      "fetched_at": "2026-05-27T19:57:23.381617+00:00"
+    },
+    "bd20b30760830689": {
+      "title": "The LOGOS Framework: A five-level taxonomy for AI-assisted assessment",
+      "fetched_at": "2026-05-27T19:57:23.945069+00:00"
+    },
+    "7ed0b66c7c4c3a3e": {
+      "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
+      "fetched_at": "2026-05-27T19:57:24.523242+00:00"
+    },
+    "a3789aedf389cb1f": {
+      "title": "ARN: Local semantic memory server for AI agents (Pi 5, 22ms recall, 10/10 tests)",
+      "fetched_at": "2026-05-27T19:57:25.095725+00:00"
+    },
+    "5a3496aa9838bf1e": {
+      "title": "Webmaster It's time to serve slop to AI crawlers",
+      "fetched_at": "2026-05-27T19:57:25.650806+00:00"
+    },
+    "9d58436bcdac2877": {
+      "title": "Run your own local LLM with rate limits via API-keys",
+      "fetched_at": "2026-05-27T19:57:26.208133+00:00"
+    },
+    "d8de27c68c4ef313": {
+      "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+      "fetched_at": "2026-05-27T19:57:26.764570+00:00"
+    },
+    "1dc984e12f4de350": {
+      "title": "Why Good Engineers Become Worse with AI",
+      "fetched_at": "2026-05-27T19:57:27.317167+00:00"
+    },
+    "be262a05f07ab6d7": {
+      "title": "解讀「中美建設性戰略穩定關係」：習近平新詞反映兩國關係現實境遇",
+      "fetched_at": "2026-05-27T19:57:30.123382+00:00"
+    },
+    "8c2b1369d46c689f": {
+      "title": "'Poised to disintegrate': Antarctica's 'Doomsday Glacier' is set to lose its ice shelf this year",
+      "fetched_at": "2026-05-27T19:57:33.710262+00:00"
+    },
+    "9a01d7fa25ab8c7a": {
+      "title": "Astronomers weighed a 'little red dot' discovered by the James Webb telescope — and found a 'naked' black hole inside",
+      "fetched_at": "2026-05-27T19:57:34.271157+00:00"
+    },
+    "4341a5d6ba8ab8fd": {
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "fetched_at": "2026-05-27T19:57:34.828744+00:00"
+    },
+    "dbe873359d938585": {
+      "title": "Coin Hoard Discovered in Norway",
+      "fetched_at": "2026-05-27T19:57:35.391171+00:00"
+    },
+    "de6bb98251d64e76": {
+      "title": "NASA administrator hails 'Golden Age' of lunar exploration as Moon Base plans unveiled",
+      "fetched_at": "2026-05-27T19:57:35.970593+00:00"
+    },
+    "12feb7bda4570390": {
+      "title": "The Romans and Vikings left few genetic traces of their occupations of Britain, research suggests",
+      "fetched_at": "2026-05-27T19:57:36.538211+00:00"
+    },
+    "e6797b0db17b0455": {
+      "title": "VaultDeals – scores PC game deals A+ to C+ against all-time historical lows",
+      "fetched_at": "2026-05-27T19:57:37.114614+00:00"
+    },
+    "41f6754dfbb8e418": {
+      "title": "Audit: Vuln-discovery agent reimplementing the Cloudflare Project Glasswing",
+      "fetched_at": "2026-05-27T19:57:37.671241+00:00"
+    },
+    "bdbc644c4a6da578": {
+      "title": "Scientists were wrong about this “rule-breaking” particle",
+      "fetched_at": "2026-05-27T19:57:38.228341+00:00"
+    },
+    "ecb05ba6f8474614": {
+      "title": "Rare graves reveal a lost world of Bronze Age Europe hidden for 3,000 years",
+      "fetched_at": "2026-05-27T19:57:38.790008+00:00"
     }
   },
-  "last_updated": "2026-05-27T14:52:40.306506+00:00"
+  "last_updated": "2026-05-27T19:57:38.906444+00:00"
 }
