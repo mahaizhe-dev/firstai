@@ -1,169 +1,5 @@
 {
   "articles": {
-    "78b1a721513b07d2": {
-      "title": "Show HN: Free AI headshots from one selfie, no signup",
-      "fetched_at": "2026-05-20T14:33:29.393011+00:00"
-    },
-    "2da702297b9638e0": {
-      "title": "It&#8217;s make or break time for AI labeling systems",
-      "fetched_at": "2026-05-20T14:33:30.024245+00:00"
-    },
-    "ed014e8452be2789": {
-      "title": "Reconciling Enterprise AI Revenue",
-      "fetched_at": "2026-05-20T14:33:30.795112+00:00"
-    },
-    "a47ffea33918e203": {
-      "title": "A Machine to Confess To",
-      "fetched_at": "2026-05-20T14:33:31.452476+00:00"
-    },
-    "7f8187a8670b5c9e": {
-      "title": "TokenScale – AI API pricing in words you know (The Hobbit = $0.06)",
-      "fetched_at": "2026-05-20T14:33:32.141986+00:00"
-    },
-    "3ba4f80b410b3ecc": {
-      "title": "Can a Mediterranean Island Nation Turn AI into a Basic Public Right?",
-      "fetched_at": "2026-05-20T14:33:32.774774+00:00"
-    },
-    "26671766c54607b7": {
-      "title": "Ollama Doesn't Know Its GPU Is on Another Machine",
-      "fetched_at": "2026-05-20T14:33:33.671493+00:00"
-    },
-    "12887fa0daaadbaa": {
-      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "fetched_at": "2026-05-20T14:33:34.300885+00:00"
-    },
-    "dccf8935133c62ac": {
-      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
-      "fetched_at": "2026-05-20T14:33:34.927140+00:00"
-    },
-    "ca12210136b4f6b7": {
-      "title": "OCL Nexus Local – Open-source local compute fabric for AI agents",
-      "fetched_at": "2026-05-20T14:33:35.545905+00:00"
-    },
-    "92999ac5d1b56291": {
-      "title": "You can't whisper at an AI agent",
-      "fetched_at": "2026-05-20T14:33:36.170149+00:00"
-    },
-    "881acdd0430d5cd2": {
-      "title": "Samaris OS: A Bootable Linux-Based OS with React UI, Rust Daemons and Local AI",
-      "fetched_at": "2026-05-20T14:33:36.854157+00:00"
-    },
-    "8244294d23e4d4e0": {
-      "title": "Token Saver for AI Tools",
-      "fetched_at": "2026-05-20T14:33:37.471575+00:00"
-    },
-    "ec82ef81137c8fb0": {
-      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-      "fetched_at": "2026-05-20T14:33:38.093457+00:00"
-    },
-    "21d942ea0bec51d3": {
-      "title": "AI Makes Mistakes; Process Design Matters More",
-      "fetched_at": "2026-05-20T14:33:38.712278+00:00"
-    },
-    "a00b279d5a60cffd": {
-      "title": "Aperion Shield: local guardrail that blocks destructive AI coding agent ops",
-      "fetched_at": "2026-05-20T14:33:39.342067+00:00"
-    },
-    "0377375050338a0e": {
-      "title": "Does Your Startup Need an AI Data Analyst?",
-      "fetched_at": "2026-05-20T14:33:40.027151+00:00"
-    },
-    "de387cc9a4582357": {
-      "title": "How Much of the Internet Is AI Slop?",
-      "fetched_at": "2026-05-20T14:33:40.667991+00:00"
-    },
-    "b69aa3083661a5a9": {
-      "title": "Execs admit AI makes them value human workers less",
-      "fetched_at": "2026-05-20T14:33:41.309471+00:00"
-    },
-    "3df9c07f34186701": {
-      "title": "LLM INQUISITOR: Evaluating how AI models handle long, realistic tasks",
-      "fetched_at": "2026-05-20T14:33:41.938617+00:00"
-    },
-    "3f8f48069bfd84ea": {
-      "title": "普京晤習近平：美俄元首「前後腳訪華」隱含的外交訊號",
-      "fetched_at": "2026-05-20T14:33:45.079264+00:00"
-    },
-    "5127f1bc41e19cb3": {
-      "title": "從「定義台獨」到「有所收斂」的演說：賴清德如何論述台灣主權？",
-      "fetched_at": "2026-05-20T14:33:45.709982+00:00"
-    },
-    "eea1259c813dc621": {
-      "title": "《臺灣漫遊錄》奪布克文學獎：楊双子筆下的台灣美食與殖民記憶",
-      "fetched_at": "2026-05-20T14:33:46.334217+00:00"
-    },
-    "18eb0c2cd35666e7": {
-      "title": "特朗普前腳離開，普京後腳抵京：兩場訪問背後的中國外交密碼",
-      "fetched_at": "2026-05-20T14:33:46.964214+00:00"
-    },
-    "df75b10c8049f0ce": {
-      "title": "《中俄睦鄰友好合作條約》繼續生效 專家指普京仍謀求與中美三分天下",
-      "fetched_at": "2026-05-20T14:33:47.618690+00:00"
-    },
-    "3fe1ddb2920e2d5b": {
-      "title": "「八年貿易戰」後特朗普再訪華：打破舊平衡，還是重構新底線？",
-      "fetched_at": "2026-05-20T14:33:48.240344+00:00"
-    },
-    "214f543f92fdc224": {
-      "title": "Celestron AstroMaster LT 70AZ review",
-      "fetched_at": "2026-05-20T14:33:50.128843+00:00"
-    },
-    "63ec39816dba7178": {
-      "title": "Diagnostic dilemma: Biopsy triggered 'spontaneous regression' of woman's arm tumor",
-      "fetched_at": "2026-05-20T14:33:50.883254+00:00"
-    },
-    "2d6c47eaa862de6f": {
-      "title": "800-year-old notebook and fancy silk toilet paper discovered in medieval latrine in Germany",
-      "fetched_at": "2026-05-20T14:33:51.535830+00:00"
-    },
-    "40c51ddafd51f416": {
-      "title": "China installs world's largest floating wind turbine in deep water test — it generates enough energy to power 4,200 homes annually",
-      "fetched_at": "2026-05-20T14:33:52.157289+00:00"
-    },
-    "9dc55eec70085c40": {
-      "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
-      "fetched_at": "2026-05-20T14:33:52.836398+00:00"
-    },
-    "325c7bfadd321c11": {
-      "title": "More young people are getting colorectal cancer — here's what scientists think might be happening",
-      "fetched_at": "2026-05-20T14:33:53.541642+00:00"
-    },
-    "6caace47876999ba": {
-      "title": "'The system is likely to reach a breaking point': Major Italian volcano is speeding toward a transition, and a major eruption could be on the way",
-      "fetched_at": "2026-05-20T14:33:54.161873+00:00"
-    },
-    "a9d1ddd8e573a6c0": {
-      "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
-      "fetched_at": "2026-05-20T14:33:54.795053+00:00"
-    },
-    "a9dff3c622b6dcf0": {
-      "title": "Scientists discover massive natural hydrogen source beneath Canada",
-      "fetched_at": "2026-05-20T14:33:55.419765+00:00"
-    },
-    "8a39fbe71fd27eec": {
-      "title": "Scientists use light to create tiny molecules that could transform medicine",
-      "fetched_at": "2026-05-20T14:33:56.042603+00:00"
-    },
-    "003cbf0f9f1da144": {
-      "title": "Scientists found a giant magnetic “twist” hidden inside the Milky Way",
-      "fetched_at": "2026-05-20T14:33:56.750207+00:00"
-    },
-    "eb17beb01bd3f322": {
-      "title": "Britain’s 11,000-year-old “oldest northerner” was a 3-year-old girl, DNA reveals",
-      "fetched_at": "2026-05-20T14:33:57.386126+00:00"
-    },
-    "94f12a712035cba3": {
-      "title": "Deadly, highly venomous box jellyfish discovered in Singapore is a newfound species",
-      "fetched_at": "2026-05-20T14:33:58.010783+00:00"
-    },
-    "d8ef472cd14c1e5f": {
-      "title": "Stunning fossil discovery challenges the origins of animal life",
-      "fetched_at": "2026-05-20T14:33:58.749345+00:00"
-    },
-    "d74a44fed23e16f9": {
-      "title": "Scientists discover hidden chemical signature that could reveal alien life",
-      "fetched_at": "2026-05-20T14:33:59.377535+00:00"
-    },
     "15b2cd3905fe1ea4": {
       "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
       "fetched_at": "2026-05-20T20:00:53.608401+00:00"
@@ -3707,7 +3543,143 @@
     "9c9dda76c3adfe57": {
       "title": "Scientists discover hidden gut-brain circuit that triggers protein cravings",
       "fetched_at": "2026-05-28T09:43:04.000221+00:00"
+    },
+    "d1bd5ddf7ff8edb3": {
+      "title": "Top grossing law firm Kirkland & Ellis set aside $500M to create own AI platform",
+      "fetched_at": "2026-05-28T15:24:37.844834+00:00"
+    },
+    "8ce90ed46d3fb6ae": {
+      "title": "Data pipelines powering generative AI systems rooted in invasions of privacy",
+      "fetched_at": "2026-05-28T15:24:38.417920+00:00"
+    },
+    "c71ae8e5fb44e297": {
+      "title": "Show HN: AI Skill to port PostgreSQL extensions to MySQL",
+      "fetched_at": "2026-05-28T15:24:39.175410+00:00"
+    },
+    "c7e75f58f25d79b3": {
+      "title": "Wix cuts 20% of workforce in AI and currency restructuring",
+      "fetched_at": "2026-05-28T15:24:39.781327+00:00"
+    },
+    "7d405963738b7e58": {
+      "title": "Celebrities are telling women to use more AI or be 'left behind.'",
+      "fetched_at": "2026-05-28T15:24:40.345652+00:00"
+    },
+    "d0e16c13753835f7": {
+      "title": "Incognito Chat with Meta AI: a private way to chat with AI",
+      "fetched_at": "2026-05-28T15:24:40.919843+00:00"
+    },
+    "1a587f77c1fab163": {
+      "title": "IBM and Red Hat Commit $5B to Redefine the Future of Open Source in the AI Era",
+      "fetched_at": "2026-05-28T15:24:41.549144+00:00"
+    },
+    "7c4bb5a17c86247a": {
+      "title": "Ask HN: Why is problem solving in math still important in the AI age?",
+      "fetched_at": "2026-05-28T15:24:42.122391+00:00"
+    },
+    "298423cbe4db45ca": {
+      "title": "Spotify CEO defends AI music, wants you to stop calling it 'slop'",
+      "fetched_at": "2026-05-28T15:24:42.690113+00:00"
+    },
+    "ea5a4f3268f00476": {
+      "title": "AI Didn't Create These Problems. It Just Stopped Routing Around Them",
+      "fetched_at": "2026-05-28T15:24:43.364188+00:00"
+    },
+    "2b43705253484901": {
+      "title": "Occupy Wall Street co-founder built an on-device AI for activists",
+      "fetched_at": "2026-05-28T15:24:43.944854+00:00"
+    },
+    "ed6967988a1fbb66": {
+      "title": "A funny thing happened on the way to teaching advanced AI core frontier tech",
+      "fetched_at": "2026-05-28T15:24:44.522019+00:00"
+    },
+    "1d10a65050f97c35": {
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "fetched_at": "2026-05-28T15:24:45.092699+00:00"
+    },
+    "bd045662665f6fa6": {
+      "title": "AI Marketing and Growth Specilaist",
+      "fetched_at": "2026-05-28T15:24:45.695065+00:00"
+    },
+    "3d0736f92609acf5": {
+      "title": "Learning from Ava:Lessons from Trustworthy AI for Policy and Dev Research",
+      "fetched_at": "2026-05-28T15:24:46.262982+00:00"
+    },
+    "bc21c57b7162c1b6": {
+      "title": "These new iOS 27 renders hint at Siri’s big redesign",
+      "fetched_at": "2026-05-28T15:24:46.874518+00:00"
+    },
+    "d7ed21d00bbef642": {
+      "title": "Why Google's AI can't spell Google (or anything else)",
+      "fetched_at": "2026-05-28T15:24:47.450201+00:00"
+    },
+    "7374be7bb804d5c3": {
+      "title": "Wix laying off about 20% of its workforce. CEO cites AI, exchange rates",
+      "fetched_at": "2026-05-28T15:24:48.160240+00:00"
+    },
+    "00d9938acad866cd": {
+      "title": "RSI is the new AGI — and it’s just as hard to pin down",
+      "fetched_at": "2026-05-28T15:24:48.723497+00:00"
+    },
+    "cfc427a75bfba818": {
+      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "fetched_at": "2026-05-28T15:24:49.291927+00:00"
+    },
+    "5f7df1c718bdbbf2": {
+      "title": "Colour Memory: MCP server with 40 historical colour archives",
+      "fetched_at": "2026-05-28T15:24:52.663987+00:00"
+    },
+    "06fc1a28163f1a25": {
+      "title": "'It's being promoted like there's absolutely no risk': Why some experts say melatonin should be considered a drug rather than a supplement",
+      "fetched_at": "2026-05-28T15:24:53.237288+00:00"
+    },
+    "975ffdab1c98aa6b": {
+      "title": "AnthropoSprawl: Timeline map of historical photos from pastvu.com",
+      "fetched_at": "2026-05-28T15:24:53.801137+00:00"
+    },
+    "04d294b612d5cc20": {
+      "title": "Celestron NexStar 6SE review",
+      "fetched_at": "2026-05-28T15:24:54.458287+00:00"
+    },
+    "2aea955526677d0a": {
+      "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
+      "fetched_at": "2026-05-28T15:24:55.034053+00:00"
+    },
+    "b9f2a7a4fc1eee71": {
+      "title": "Controversial 'JuMBO' planets discovered by James Webb telescope may not be an illusion after all",
+      "fetched_at": "2026-05-28T15:24:55.608468+00:00"
+    },
+    "6650922f04c3c6c4": {
+      "title": "Scottish wrens may be evolving into new species through island gigantism",
+      "fetched_at": "2026-05-28T15:24:56.181540+00:00"
+    },
+    "d05e83bdae53782f": {
+      "title": "Forget LASIK: Safer, cheaper vision correction without lasers or surgery",
+      "fetched_at": "2026-05-28T15:24:56.943908+00:00"
+    },
+    "c60fabebf8b52080": {
+      "title": "A 100-year-old piano mystery has finally been solved",
+      "fetched_at": "2026-05-28T15:24:57.513148+00:00"
+    },
+    "ced9a79c9259bc1e": {
+      "title": "Lost for 150,000 years: Rainforest discovery upends human history",
+      "fetched_at": "2026-05-28T15:24:58.078068+00:00"
+    },
+    "277100c1049d9fae": {
+      "title": "Scientists use DNA from poop to save the world’s rarest marsupial",
+      "fetched_at": "2026-05-28T15:24:58.652928+00:00"
+    },
+    "a686f6c36ee1607a": {
+      "title": "T. rex’s tiny arms may have evolved for a surprisingly brutal reason",
+      "fetched_at": "2026-05-28T15:24:59.226485+00:00"
+    },
+    "25e87ea3c02f0933": {
+      "title": "Humpback whale breaks migration record with 15,000 kilometer ocean journey",
+      "fetched_at": "2026-05-28T15:24:59.800826+00:00"
+    },
+    "8e522da6e2a2ff02": {
+      "title": "Era: From Nature publication to catalyzing Computational Discovery",
+      "fetched_at": "2026-05-28T15:25:00.377021+00:00"
     }
   },
-  "last_updated": "2026-05-28T09:43:04.147358+00:00"
+  "last_updated": "2026-05-28T15:25:00.521588+00:00"
 }
