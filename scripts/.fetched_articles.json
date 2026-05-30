@@ -1,125 +1,5 @@
 {
   "articles": {
-    "3a77d4fe9d043197": {
-      "title": "Literary AI Scandal Changes Everything",
-      "fetched_at": "2026-05-22T14:12:58.600839+00:00"
-    },
-    "ba848f067ec86c25": {
-      "title": "Ask HN: What is the least sycophantic frontier LLM?",
-      "fetched_at": "2026-05-22T14:12:59.212511+00:00"
-    },
-    "0ef24037a974bf41": {
-      "title": "Building Context-Aware Search in Python with LLM Embeddings and Metadata",
-      "fetched_at": "2026-05-22T14:12:59.853481+00:00"
-    },
-    "5ca65bf0c820ade5": {
-      "title": "Ask HN: We need a standard way to declare how much AI was used in a PR",
-      "fetched_at": "2026-05-22T14:13:00.476100+00:00"
-    },
-    "c0dc645fa1bb3c04": {
-      "title": "Anthropic, Microsoft in talks about Maia AI chip deal",
-      "fetched_at": "2026-05-22T14:13:01.088016+00:00"
-    },
-    "6a4de094299ff0a2": {
-      "title": "Idea: Subreddits as curator blogs for the AI era",
-      "fetched_at": "2026-05-22T14:13:01.713585+00:00"
-    },
-    "c9a22b124ce01efc": {
-      "title": "The AI Elephant in the Room",
-      "fetched_at": "2026-05-22T14:13:02.325962+00:00"
-    },
-    "a53ca3c597362946": {
-      "title": "Prize-winning story published in Granta was (likely) written by AI",
-      "fetched_at": "2026-05-22T14:13:02.952493+00:00"
-    },
-    "a5eedecf3b344139": {
-      "title": "AI Edits a Classical Chinese Paper: Multi-Model Stress Test",
-      "fetched_at": "2026-05-22T14:13:03.587390+00:00"
-    },
-    "c0202e87de634ada": {
-      "title": "China's AI optimism isn't what it seems",
-      "fetched_at": "2026-05-22T14:13:04.209467+00:00"
-    },
-    "cc3a42fef9faeef7": {
-      "title": "Ask HN: How much AI is in your writing?",
-      "fetched_at": "2026-05-22T14:13:05.070426+00:00"
-    },
-    "07705eabe7d7b15a": {
-      "title": "海科新源：拟出售不超过85.11万股已回购股份",
-      "fetched_at": "2026-05-22T14:13:05.689219+00:00"
-    },
-    "c396e4469c1e1fe5": {
-      "title": "Show HN: LLM-mock – Record real LLM API responses once, replay them in tests",
-      "fetched_at": "2026-05-22T14:13:06.349679+00:00"
-    },
-    "f11c2df625eca1d0": {
-      "title": "热门中概股美股盘前普跌，富途控股跌超37%",
-      "fetched_at": "2026-05-22T14:13:07.058522+00:00"
-    },
-    "4dd686680a8a2e65": {
-      "title": "美股大型科技股盘前普涨，英特尔涨超1%",
-      "fetched_at": "2026-05-22T14:13:07.674449+00:00"
-    },
-    "e87902bf23443d92": {
-      "title": "老虎国际：内地客户资产占比约10%",
-      "fetched_at": "2026-05-22T14:13:08.289163+00:00"
-    },
-    "5f2cb420aeee0cf7": {
-      "title": "Show HN: Wwwatch, a daily journal of AI tooling news filtered for builders",
-      "fetched_at": "2026-05-22T14:13:08.903352+00:00"
-    },
-    "bf7ca750e2753cdf": {
-      "title": "Diia - Ukraine gov app launched AI agent based on Google Gemini",
-      "fetched_at": "2026-05-22T14:13:09.523303+00:00"
-    },
-    "07ca7c111ab8f865": {
-      "title": "国城矿业：拟23.68亿元购买国城实业40%股权",
-      "fetched_at": "2026-05-22T14:13:10.134776+00:00"
-    },
-    "cfa0bc3e6dd4cd87": {
-      "title": "Navigating AI with paper maps – Adam",
-      "fetched_at": "2026-05-22T14:13:10.754489+00:00"
-    },
-    "850c4c6de0ad6781": {
-      "title": "伊波拉、新冠至漢他病毒：為何動物傳染人類引發越來越多疫情？",
-      "fetched_at": "2026-05-22T14:13:13.228549+00:00"
-    },
-    "96e00135533c8b36": {
-      "title": "分析：美中新建貿易、投資委員會，能否為關稅戰「加裝防撞欄」？",
-      "fetched_at": "2026-05-22T14:13:13.840655+00:00"
-    },
-    "553f5648a40e720d": {
-      "title": "特朗普時隔九年再度訪華，中國年輕一代的「美國夢」在褪色嗎？",
-      "fetched_at": "2026-05-22T14:13:14.450771+00:00"
-    },
-    "aed4503bc44facfc": {
-      "title": "Can AI really simulate human thinking? Research casts doubt on an influential study, suggesting an advanced model was just really good at memorizing patterns.",
-      "fetched_at": "2026-05-22T14:13:15.818321+00:00"
-    },
-    "3b533a5e6f03e19c": {
-      "title": "One of Neptune's 16 moons is not like the others, James Webb telescope finds — and it could be key to fully understanding the solar system",
-      "fetched_at": "2026-05-22T14:13:16.447352+00:00"
-    },
-    "dbd09d6a1998503c": {
-      "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
-      "fetched_at": "2026-05-22T14:13:17.059252+00:00"
-    },
-    "6aaf13f2e8533df6": {
-      "title": "A transition may be looming for a massive Italian volcano",
-      "fetched_at": "2026-05-22T14:13:17.678911+00:00"
-    },
-    "e5147ef83e4bd64f": {
-      "title": "Scientists discover the strange way CO2 cools part of Earth’s atmosphere",
-      "fetched_at": "2026-05-22T14:13:18.390363+00:00"
-    },
-    "0879add7b610d9c5": {
-      "title": "Deadly “red sky” solar storm from 800 years ago discovered in ancient trees",
-      "fetched_at": "2026-05-22T14:13:19.032074+00:00"
-    },
-    "32af1ff7c6c3e879": {
-      "title": "Who are the Japanese? Huge DNA discovery rewrites history",
-      "fetched_at": "2026-05-22T14:13:19.660729+00:00"
-    },
     "b76d8b15ca39302e": {
       "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
       "fetched_at": "2026-05-22T19:21:17.902126+00:00"
@@ -3799,7 +3679,119 @@
     "bd4710eaa731c5ee": {
       "title": "This strange new phase of matter could transform quantum technology",
       "fetched_at": "2026-05-30T13:02:02.703574+00:00"
+    },
+    "15ab934b42a304ec": {
+      "title": "You don't have a willpower problem. You have a slot machine in your pocket",
+      "fetched_at": "2026-05-30T18:57:53.340424+00:00"
+    },
+    "9dee2210e97b443a": {
+      "title": "GitHub Copilot charges GPT 5.5 with a 57x multiplier per request from June first",
+      "fetched_at": "2026-05-30T18:57:54.017717+00:00"
+    },
+    "f317e586d4346899": {
+      "title": "Dell's AI Server Revenue Surged 757%",
+      "fetched_at": "2026-05-30T18:57:54.643579+00:00"
+    },
+    "59be3aceedb87631": {
+      "title": "AI Found 3,900 Critical Open Source Bugs. IBM Is Paying $5B to Fix Them",
+      "fetched_at": "2026-05-30T18:57:55.259363+00:00"
+    },
+    "5d2c83a15c4ec2de": {
+      "title": "Kelsey Hightower on Practical and Responsible Use Cases for Agentic AI [video]",
+      "fetched_at": "2026-05-30T18:57:55.869853+00:00"
+    },
+    "0e1fdd3cd360a6af": {
+      "title": "Open source project contains hidden instruction for \"AI\" agents: delete my code",
+      "fetched_at": "2026-05-30T18:57:56.478133+00:00"
+    },
+    "9b72999c897fd464": {
+      "title": "Finpilotai – AI-Powered Accounting and Bookkeeping Software",
+      "fetched_at": "2026-05-30T18:57:57.156377+00:00"
+    },
+    "65981b4697ae7b8e": {
+      "title": "Show HN: I think I by accident created something beautiful about LLM [video]",
+      "fetched_at": "2026-05-30T18:57:57.799219+00:00"
+    },
+    "0c797df0de685540": {
+      "title": "Flathub disallows LLM-based submissions",
+      "fetched_at": "2026-05-30T18:57:58.434802+00:00"
+    },
+    "e0d3c483bbcd7b45": {
+      "title": "My thoughts on the future of Go in the AI era",
+      "fetched_at": "2026-05-30T18:57:59.051188+00:00"
+    },
+    "184377155608e34f": {
+      "title": "Show HN: MigraDiff v1.3.0 – PostgreSQL schema diff with AI migration explanation",
+      "fetched_at": "2026-05-30T18:57:59.666453+00:00"
+    },
+    "d9583402407b2308": {
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "fetched_at": "2026-05-30T18:58:00.293933+00:00"
+    },
+    "bbbd6d9ef81d5fa0": {
+      "title": "I Want to Use AI",
+      "fetched_at": "2026-05-30T18:58:00.910916+00:00"
+    },
+    "e0f2fc963c51568b": {
+      "title": "Company Blew $500M on Claude AI in One Month",
+      "fetched_at": "2026-05-30T18:58:01.533628+00:00"
+    },
+    "c8a8675738474e21": {
+      "title": "NBER: Data Centers and Local Economies in the Age of AI",
+      "fetched_at": "2026-05-30T18:58:02.155878+00:00"
+    },
+    "ca59580255e479a5": {
+      "title": "Grokimage.ai",
+      "fetched_at": "2026-05-30T18:58:02.794389+00:00"
+    },
+    "1b5ccbb2d99368a4": {
+      "title": "OpenAI IPO: preserve your AI engineering innovations!",
+      "fetched_at": "2026-05-30T18:58:03.414561+00:00"
+    },
+    "a8be4f2a382233de": {
+      "title": "To have a moral stance on AI is to be an outcast, and it sucks",
+      "fetched_at": "2026-05-30T18:58:04.110389+00:00"
+    },
+    "bf009cbefe5d6393": {
+      "title": "Meta is reportedly developing an AI pendant",
+      "fetched_at": "2026-05-30T18:58:04.733308+00:00"
+    },
+    "54ea4d07aa9ffa31": {
+      "title": "Anthropic to introduce AI Fluency scorecard in Claude",
+      "fetched_at": "2026-05-30T18:58:05.374474+00:00"
+    },
+    "32c24ad3fa71527e": {
+      "title": "「文化大革命」60週年：從幾大關鍵詞看這場十年文化浩劫",
+      "fetched_at": "2026-05-30T18:58:07.594671+00:00"
+    },
+    "d2ab54f8a2503127": {
+      "title": "Are some people wired to see ghosts? A psychologist explains what makes paranormal experiences more likely",
+      "fetched_at": "2026-05-30T18:58:09.178948+00:00"
+    },
+    "37d4e3b4256146fd": {
+      "title": "Scientists got mouse eyes to perform photosynthesis ‪—‬ and no, they didn't turn green",
+      "fetched_at": "2026-05-30T18:58:09.812743+00:00"
+    },
+    "3f74ee93569ae9a9": {
+      "title": "Ancient asteroid craters may have sparked Earth’s oxygen-producing life",
+      "fetched_at": "2026-05-30T18:58:10.437280+00:00"
+    },
+    "79b3f18380f9d4fa": {
+      "title": "“Zombie cells” aren’t always bad and that could transform anti-aging medicine",
+      "fetched_at": "2026-05-30T18:58:11.055628+00:00"
+    },
+    "82b0c072cf1e9521": {
+      "title": "Scientists discover towering red auroras reaching deep into space above Japan",
+      "fetched_at": "2026-05-30T18:58:11.668629+00:00"
+    },
+    "9621aef47cbe0e62": {
+      "title": "LLM for automating scientific discovery [pdf]",
+      "fetched_at": "2026-05-30T18:58:12.301952+00:00"
+    },
+    "26d81408bc333858": {
+      "title": "James Webb discovers a rare giant planet with surprisingly Earth-like temperatures",
+      "fetched_at": "2026-05-30T18:58:12.919571+00:00"
     }
   },
-  "last_updated": "2026-05-30T13:02:02.815779+00:00"
+  "last_updated": "2026-05-30T18:58:13.027949+00:00"
 }
