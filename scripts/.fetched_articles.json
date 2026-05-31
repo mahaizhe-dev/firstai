@@ -1,93 +1,5 @@
 {
   "articles": {
-    "7cf32bf718e15d42": {
-      "title": "DeepSeek-V4-Pro API永久降价",
-      "fetched_at": "2026-05-23T08:04:26.662865+00:00"
-    },
-    "c21d8a4721e334ca": {
-      "title": "国家数据局：“数据要素×”行动推动数据基础设施建设运营加快",
-      "fetched_at": "2026-05-23T08:04:27.387782+00:00"
-    },
-    "ada75f3b82c11898": {
-      "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
-      "fetched_at": "2026-05-23T08:04:28.010711+00:00"
-    },
-    "811e70c7e0ad4d4b": {
-      "title": "屈臣氏计划下半年赴中国香港、伦敦两地上市",
-      "fetched_at": "2026-05-23T08:04:28.635687+00:00"
-    },
-    "816607c8bd1906fd": {
-      "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-      "fetched_at": "2026-05-23T08:04:29.340645+00:00"
-    },
-    "2ca56234d01cdfe6": {
-      "title": "对话王小川：离开通用人工智能的主干道之后",
-      "fetched_at": "2026-05-23T08:04:30.182924+00:00"
-    },
-    "2f1793caebc4d34d": {
-      "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
-      "fetched_at": "2026-05-23T08:04:30.811828+00:00"
-    },
-    "2cab77d2d5adbc42": {
-      "title": "康斯特回应是否与SpaceX扩大合作，称单一用户影响有限",
-      "fetched_at": "2026-05-23T08:04:31.443560+00:00"
-    },
-    "24aadc4813e88b2e": {
-      "title": "2026全国电影总票房破150亿",
-      "fetched_at": "2026-05-23T08:04:32.068363+00:00"
-    },
-    "427b7221c74c53d4": {
-      "title": "香港国际机场二号客运大楼将启用，15家航空公司分批进驻",
-      "fetched_at": "2026-05-23T08:04:32.686500+00:00"
-    },
-    "c71bcbff41f2e70f": {
-      "title": "美国调整移民政策，申请绿卡须返回本国递交申请",
-      "fetched_at": "2026-05-23T08:04:33.319350+00:00"
-    },
-    "c8b7acc619573b7e": {
-      "title": "美国消费者信心指数跌至历史新低",
-      "fetched_at": "2026-05-23T08:04:33.941478+00:00"
-    },
-    "f7b79b9ed442fb36": {
-      "title": "中信证券：中国制罐企业有望获得更多全球市场拓展空间，逐步构建全球产能布局",
-      "fetched_at": "2026-05-23T08:04:34.592221+00:00"
-    },
-    "acfc56ba6a6cb1ad": {
-      "title": "供需格局持续重构，铝价后市上行可期",
-      "fetched_at": "2026-05-23T08:04:35.303842+00:00"
-    },
-    "894439cfecd63e12": {
-      "title": "富途：已回购约1.6亿美元美国存托股份",
-      "fetched_at": "2026-05-23T08:04:35.962098+00:00"
-    },
-    "343897cdb5bde292": {
-      "title": "商务部：1-4月全国吸收外资2876.9亿元人民币",
-      "fetched_at": "2026-05-23T08:04:36.580879+00:00"
-    },
-    "443474a5288dd903": {
-      "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
-      "fetched_at": "2026-05-23T08:04:37.276169+00:00"
-    },
-    "a3621a3a9c601aa5": {
-      "title": "SpaceX IPO将包含散户配售",
-      "fetched_at": "2026-05-23T08:04:37.910554+00:00"
-    },
-    "5dfd852d5508521e": {
-      "title": "护航政府债券发行，MLF操作重回净投放",
-      "fetched_at": "2026-05-23T08:04:38.531100+00:00"
-    },
-    "1e0659db4b427ba4": {
-      "title": "星巴克叫停AI库存自动盘点工具：上线9个月，错误频出",
-      "fetched_at": "2026-05-23T08:04:39.140780+00:00"
-    },
-    "0db281bf54ae051e": {
-      "title": "After 100 years, scientists finally uncover hidden rule behind cosmic rays",
-      "fetched_at": "2026-05-23T08:04:43.258220+00:00"
-    },
-    "a63cec3f74150788": {
-      "title": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones",
-      "fetched_at": "2026-05-23T08:04:43.917962+00:00"
-    },
     "5688a8305565d0bb": {
       "title": "Herdr: A tmux-like terminal multiplexer for AI coding agents",
       "fetched_at": "2026-05-23T12:57:06.640724+00:00"
@@ -3683,7 +3595,127 @@
     "dbd09d6a1998503c": {
       "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
       "fetched_at": "2026-05-31T02:14:05.348491+00:00"
+    },
+    "1f30287f1e074fdb": {
+      "title": "AI Dark Output: The Visible Cost of Invisible Output",
+      "fetched_at": "2026-05-31T08:33:11.809822+00:00"
+    },
+    "c0695b77a7796ce9": {
+      "title": "印度储备银行4月美元净空头头寸降至953亿美元",
+      "fetched_at": "2026-05-31T08:33:12.433738+00:00"
+    },
+    "fba7bf0eb5a72a3e": {
+      "title": "AI slop is hard to fork",
+      "fetched_at": "2026-05-31T08:33:13.103864+00:00"
+    },
+    "3cbe47a0f4039787": {
+      "title": "3C认证实施规则迎来新调整，移动电源新增多项安全测试",
+      "fetched_at": "2026-05-31T08:33:13.773348+00:00"
+    },
+    "5afb674283206cfb": {
+      "title": "嘉美包装：要约收购期限届满，股票自6月1日起停牌",
+      "fetched_at": "2026-05-31T08:33:14.407430+00:00"
+    },
+    "bcaeb07cc9a51184": {
+      "title": "宝鼎科技：公司未与英伟达有过接触或业务合作，目前未有高速覆铜板M7和M9产品销售",
+      "fetched_at": "2026-05-31T08:33:15.031855+00:00"
+    },
+    "98b4b1b970409bd8": {
+      "title": "百诚医药：终止筹划控制权变更事项，股票复牌",
+      "fetched_at": "2026-05-31T08:33:15.662831+00:00"
+    },
+    "5721e3c884fb1986": {
+      "title": "申万宏源：短期结构分化走向极致，市场再突破仍需蓄力",
+      "fetched_at": "2026-05-31T08:33:16.310548+00:00"
+    },
+    "8854ad6c515f1cc3": {
+      "title": "UC Berkeley Law blanket AI ban since summer 2026",
+      "fetched_at": "2026-05-31T08:33:16.923922+00:00"
+    },
+    "3c8031b61ec8820b": {
+      "title": "All useful document at my company is now AI generated",
+      "fetched_at": "2026-05-31T08:33:17.546596+00:00"
+    },
+    "ab68e38d4c7dcd0b": {
+      "title": "韩国外汇委员会：韩国将于7月6日启动韩元全天候外汇交易",
+      "fetched_at": "2026-05-31T08:33:18.184320+00:00"
+    },
+    "8f850ff813cefdb1": {
+      "title": "本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6",
+      "fetched_at": "2026-05-31T08:33:18.813373+00:00"
+    },
+    "8989c9c29c8c22b8": {
+      "title": "深圳800元养老消费券来了",
+      "fetched_at": "2026-05-31T08:33:19.444970+00:00"
+    },
+    "94466f9919580ba8": {
+      "title": "Show HN: GoodSender – the email API for makers and AI agents",
+      "fetched_at": "2026-05-31T08:33:20.079641+00:00"
+    },
+    "9aff57142a0ba751": {
+      "title": "17股上榜本周南向资金成交活跃股名单",
+      "fetched_at": "2026-05-31T08:33:20.734361+00:00"
+    },
+    "18979153c38fe695": {
+      "title": "A Complexity Theory of AI Value Accrual",
+      "fetched_at": "2026-05-31T08:33:21.367023+00:00"
+    },
+    "d5694ffe16c62940": {
+      "title": "美团披露公益数据：6.2亿用户助力建成超5000座乡村儿童操场",
+      "fetched_at": "2026-05-31T08:33:21.992053+00:00"
+    },
+    "417c7c283f87557c": {
+      "title": "我国儿童新药连续五年增长，2025年批准138个",
+      "fetched_at": "2026-05-31T08:33:22.615885+00:00"
+    },
+    "d8ccc1fdac7bbe26": {
+      "title": "A standard for building production AI agents (+ installable Claude Code skills)",
+      "fetched_at": "2026-05-31T08:33:23.360285+00:00"
+    },
+    "6497f52097ec3fa3": {
+      "title": "银轮股份：为数据中心用大马力发电机组配套大型冷却模块已量产",
+      "fetched_at": "2026-05-31T08:33:24.015839+00:00"
+    },
+    "b4daa71820bae7c8": {
+      "title": "日本防務大臣香格里拉對話會上否認新軍國主義，並批評中國「龐大武器庫」",
+      "fetched_at": "2026-05-31T08:33:26.777426+00:00"
+    },
+    "a2a594babce1e713": {
+      "title": "法拉利寄望首款純電車Luce迎戰中國品牌，卻引來批評",
+      "fetched_at": "2026-05-31T08:33:27.423504+00:00"
+    },
+    "a675b05a37b2bfb0": {
+      "title": "美英澳三國防長宣佈共同研發無人潛航器",
+      "fetched_at": "2026-05-31T08:33:28.073607+00:00"
+    },
+    "a5e2744446aa8ad3": {
+      "title": "醫生稱報告顯示特朗普健康狀況極佳，美國總統體檢是否已成公關活動",
+      "fetched_at": "2026-05-31T08:33:28.682506+00:00"
+    },
+    "e7c756b3f32a9a95": {
+      "title": "中国驱逐一名《纽约时报》记者，美国吊销新华社记者签证",
+      "fetched_at": "2026-05-31T08:33:29.313512+00:00"
+    },
+    "588866b69211acdd": {
+      "title": "Ebola outbreak in Central Africa will be a nightmare to contain, experts warn",
+      "fetched_at": "2026-05-31T08:33:31.287465+00:00"
+    },
+    "97b599b00d9dc07b": {
+      "title": "Landmark finding that showed brains of kids with ADHD mature later was actually a mirage in the data, new research finds",
+      "fetched_at": "2026-05-31T08:33:31.914169+00:00"
+    },
+    "03628fd1ccef074a": {
+      "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
+      "fetched_at": "2026-05-31T08:33:32.529546+00:00"
+    },
+    "91c460e1df0b5881": {
+      "title": "Scientists discover a strange hidden state in “sandwich” molecules",
+      "fetched_at": "2026-05-31T08:33:33.148886+00:00"
+    },
+    "6e1e7140956d2f25": {
+      "title": "Einstein’s “wormhole” may actually reveal a hidden mirror of time",
+      "fetched_at": "2026-05-31T08:33:33.867294+00:00"
     }
   },
-  "last_updated": "2026-05-31T02:14:05.459735+00:00"
+  "last_updated": "2026-05-31T08:33:33.970647+00:00"
 }
