@@ -1,125 +1,5 @@
 {
   "articles": {
-    "eadca176670768dd": {
-      "title": "SafeDB MCP – safer read-only database access for AI agents",
-      "fetched_at": "2026-05-23T18:53:48.503154+00:00"
-    },
-    "f3aef2eeddfda3e4": {
-      "title": "D. Murray: I see dangers of AI firsthand – as people make doppelgangers of me",
-      "fetched_at": "2026-05-23T18:53:49.154424+00:00"
-    },
-    "2222b6cc270d566d": {
-      "title": "Bespoke AI Curriculum to Become AI Operator",
-      "fetched_at": "2026-05-23T18:53:49.760312+00:00"
-    },
-    "da51ecb033dc4d67": {
-      "title": "Orbit – Route every AI query to the right model automatically (NPM SDK)",
-      "fetched_at": "2026-05-23T18:53:50.405045+00:00"
-    },
-    "8929722eec7aae20": {
-      "title": "AI super-apps are remaking China's internet",
-      "fetched_at": "2026-05-23T18:53:51.018730+00:00"
-    },
-    "795118df166ad263": {
-      "title": "JetBrains Is Selling Independence as the Rest of AI Coding Picks Sides",
-      "fetched_at": "2026-05-23T18:53:51.640587+00:00"
-    },
-    "44896bdfa7954933": {
-      "title": "The Mirror Is Part of the Machine",
-      "fetched_at": "2026-05-23T18:53:52.253313+00:00"
-    },
-    "bfbdd4bfb1712699": {
-      "title": "Zuck defends monitoring employees to win AI race in purported leaked audio",
-      "fetched_at": "2026-05-23T18:53:52.871234+00:00"
-    },
-    "04fe04d4a4ba6c4b": {
-      "title": "Show HN: Memory for LLM apps that cuts input tokens up to 80% (avg 68%)",
-      "fetched_at": "2026-05-23T18:53:53.486212+00:00"
-    },
-    "75fbce412e2ae918": {
-      "title": "mvm – a fast virtual machine for Go",
-      "fetched_at": "2026-05-23T18:53:54.108478+00:00"
-    },
-    "f3b4c0a12e0f6559": {
-      "title": "Show HN: AI Chess Coach",
-      "fetched_at": "2026-05-23T18:53:54.722082+00:00"
-    },
-    "48819c281d53e167": {
-      "title": "The first benchmark to test AI agent's video editing capability",
-      "fetched_at": "2026-05-23T18:53:55.349549+00:00"
-    },
-    "dcf114d6b41da70c": {
-      "title": "Simulating Why One AI Always Wins: Formal Theory of the Singleton Attractor",
-      "fetched_at": "2026-05-23T18:53:55.981088+00:00"
-    },
-    "ae995c9002f43fc0": {
-      "title": "Ask HN: How can you have fun doing corporate dev work in the age of AI tools?",
-      "fetched_at": "2026-05-23T18:53:56.662635+00:00"
-    },
-    "ff47a2af144f8cdd": {
-      "title": "AI Mistakes Are Infuriating Gamers as Developers Seek Savings",
-      "fetched_at": "2026-05-23T18:53:57.295842+00:00"
-    },
-    "da25b495a0fecbb7": {
-      "title": "Google's AI Search Is So Broken It Can 'Disregard' What You're Looking For",
-      "fetched_at": "2026-05-23T18:53:57.915459+00:00"
-    },
-    "e79ca6e2b272a4a9": {
-      "title": "Polish Nobel literature laureate admits to using AI",
-      "fetched_at": "2026-05-23T18:53:58.644250+00:00"
-    },
-    "0baccf1ab49d4344": {
-      "title": "The AI Slot Machine Is Draining My Creativity",
-      "fetched_at": "2026-05-23T18:53:59.259385+00:00"
-    },
-    "425a683a8de17a42": {
-      "title": "Ferrari is using IBM’s AI to create F1 superfans",
-      "fetched_at": "2026-05-23T18:53:59.865700+00:00"
-    },
-    "3ce6649cf0fac75c": {
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "fetched_at": "2026-05-23T18:54:00.471321+00:00"
-    },
-    "dd8fbdb6460d7985": {
-      "title": "「國事訪問+」退場：從接機到私人交流，特朗普訪華的三個禮賓細節",
-      "fetched_at": "2026-05-23T18:54:03.905275+00:00"
-    },
-    "f9835a4d21ccbf0c": {
-      "title": "Show HN: Solana Index Historical Solana Token Balance",
-      "fetched_at": "2026-05-23T18:54:09.726473+00:00"
-    },
-    "b26815d5d92f4f6e": {
-      "title": "DNA sequencing is rewriting our understanding of historic outbreaks, but it can't tell the whole story",
-      "fetched_at": "2026-05-23T18:54:10.364459+00:00"
-    },
-    "3dbcefdda1466f22": {
-      "title": "AI-generated images are making it impossible to distinguish truth from fiction. We need laws and AI watermarks to protect our shared reality.",
-      "fetched_at": "2026-05-23T18:54:11.036267+00:00"
-    },
-    "039fec6f17807e2e": {
-      "title": "Scientists discover the perfect temperature to keep mangoes fresh much longer",
-      "fetched_at": "2026-05-23T18:54:11.659292+00:00"
-    },
-    "918df3c147f97b81": {
-      "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
-      "fetched_at": "2026-05-23T18:54:12.274942+00:00"
-    },
-    "4d863457406f25f1": {
-      "title": "NASA’s Psyche spacecraft captures stunning Mars images during high-speed flyby",
-      "fetched_at": "2026-05-23T18:54:12.905481+00:00"
-    },
-    "16261aaa861be111": {
-      "title": "NASA stunned as strange solar radio burst lasts 19 days",
-      "fetched_at": "2026-05-23T18:54:13.527369+00:00"
-    },
-    "0079dd79fb9db1bf": {
-      "title": "The planet may become too hot for rice to be cultivated in many areas it currently exists",
-      "fetched_at": "2026-05-23T18:54:14.158121+00:00"
-    },
-    "7a8da742edc26b45": {
-      "title": "A grad student’s wild idea sparks a major aging breakthrough",
-      "fetched_at": "2026-05-23T18:54:14.773408+00:00"
-    },
     "684a009294b9307d": {
       "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
       "fetched_at": "2026-05-24T02:05:12.588006+00:00"
@@ -3707,7 +3587,127 @@
     "6118f2412297f378": {
       "title": "Intermittent fasting triggers surprising changes in the brain",
       "fetched_at": "2026-05-31T13:11:39.876156+00:00"
+    },
+    "4edf5034d82ecb64": {
+      "title": "Making sense of the debate over AI psychosis",
+      "fetched_at": "2026-05-31T19:00:52.186646+00:00"
+    },
+    "0e34b143ffbc7b3d": {
+      "title": "思林杰：股东拟合计减持不超6%股份",
+      "fetched_at": "2026-05-31T19:00:52.814502+00:00"
+    },
+    "b80caf4c0976b084": {
+      "title": "艾德生物：筹划控制权变更事项，股票停牌",
+      "fetched_at": "2026-05-31T19:00:53.440146+00:00"
+    },
+    "38798e980ab96c2d": {
+      "title": "风华高科：不涉及英伟达认证及暂停接单传闻不实",
+      "fetched_at": "2026-05-31T19:00:54.061789+00:00"
+    },
+    "909539c92422cf66": {
+      "title": "华金证券：6月A股继续震荡偏强，科技主线不变",
+      "fetched_at": "2026-05-31T19:00:54.696555+00:00"
+    },
+    "f561610facd79201": {
+      "title": "浙大网新：ZH12数据中心第3个模块签署服务合同，预计总收入4.48亿元",
+      "fetched_at": "2026-05-31T19:00:55.308493+00:00"
+    },
+    "7d30926e5f73082b": {
+      "title": "软银承诺斥资750亿欧元在法国建设人工智能设施",
+      "fetched_at": "2026-05-31T19:00:55.926560+00:00"
+    },
+    "f89bbb9fa631998a": {
+      "title": "收获进度18.18%，全国冬小麦机收进度逐步加快",
+      "fetched_at": "2026-05-31T19:00:56.575280+00:00"
+    },
+    "4ccfa0a4c6cfc775": {
+      "title": "前4个月我国软件业务收入46686亿元，同比增长10.9%",
+      "fetched_at": "2026-05-31T19:00:57.192931+00:00"
+    },
+    "754f327b4151e2c7": {
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "fetched_at": "2026-05-31T19:00:57.829067+00:00"
+    },
+    "811d5811d8fcb61d": {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "fetched_at": "2026-05-31T19:00:58.460193+00:00"
+    },
+    "5cd0e0a78d503486": {
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "fetched_at": "2026-05-31T19:00:59.151062+00:00"
+    },
+    "c33e4cbabd6df275": {
+      "title": "Jony Ive’s funky Ferrari",
+      "fetched_at": "2026-05-31T19:00:59.777690+00:00"
+    },
+    "8a4d160a655d8dc6": {
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "fetched_at": "2026-05-31T19:01:00.447354+00:00"
+    },
+    "0736b969bbd90e39": {
+      "title": "This AI startup will clean your home for free to train future robots",
+      "fetched_at": "2026-05-31T19:01:01.163675+00:00"
+    },
+    "d6b2de604ae0978a": {
+      "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
+      "fetched_at": "2026-05-31T19:01:01.795690+00:00"
+    },
+    "f0b72829cd02eeca": {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "fetched_at": "2026-05-31T19:01:02.514905+00:00"
+    },
+    "4380f7558dbd6e42": {
+      "title": "Adobe’s conversational AI agent is a mediocre design intern",
+      "fetched_at": "2026-05-31T19:01:03.162365+00:00"
+    },
+    "74129989a27b4178": {
+      "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
+      "fetched_at": "2026-05-31T19:01:03.801102+00:00"
+    },
+    "0890eae2b6b8e3ab": {
+      "title": "住久了没意思（三）：打造能好好放松的卧室",
+      "fetched_at": "2026-05-31T19:01:04.426236+00:00"
+    },
+    "a3b4c0435b4b0814": {
+      "title": "'We were being bullied in our own home': How 'authoritarian' HOAs are contributing to the insect apocalypse",
+      "fetched_at": "2026-05-31T19:02:39.924849+00:00"
+    },
+    "28ff360e3fd1e127": {
+      "title": "Bronze Age 5-year-old's skull found in Uzbekistan is the oldest known evidence of surgery in Central Asia",
+      "fetched_at": "2026-05-31T19:02:40.532436+00:00"
+    },
+    "c3007109fc2103ca": {
+      "title": "Edging Toward Japan: The Japanese discovery of the colour blue (2025)",
+      "fetched_at": "2026-05-31T19:02:41.135055+00:00"
+    },
+    "541dc007c604b37f": {
+      "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
+      "fetched_at": "2026-05-31T19:02:41.740223+00:00"
+    },
+    "3024c8bffc3b93de": {
+      "title": "New solar desalination breakthrough makes fresh water without toxic brine",
+      "fetched_at": "2026-05-31T19:02:42.345871+00:00"
+    },
+    "82456643966b2efc": {
+      "title": "The ocean's health may depend on a tiny microbe inside fish",
+      "fetched_at": "2026-05-31T19:02:43.125489+00:00"
+    },
+    "b31ed0753f0cc1cc": {
+      "title": "Optimal summit window for Matterhorn from 50 years of historical data and pandas",
+      "fetched_at": "2026-05-31T19:02:43.788884+00:00"
+    },
+    "79af2da7f9dd2c2e": {
+      "title": "How ancient builders made the Great Pyramid of Giza nearly earthquake-proof",
+      "fetched_at": "2026-05-31T19:02:44.503044+00:00"
+    },
+    "b5e6a81a415ee4ae": {
+      "title": "Legends of the Ancient Web (2017)",
+      "fetched_at": "2026-05-31T19:02:45.127084+00:00"
+    },
+    "00dfe5a1145f9df1": {
+      "title": "Scientists discover giant sea predator Tylosaurus rex that terrorized ancient oceans",
+      "fetched_at": "2026-05-31T19:02:45.723342+00:00"
     }
   },
-  "last_updated": "2026-05-31T13:11:40.013729+00:00"
+  "last_updated": "2026-05-31T19:02:45.832264+00:00"
 }
