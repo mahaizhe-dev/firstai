@@ -1,0 +1,10 @@
+---
+title: 'Show HN: My tiny project MyTube Newsletter – daily AI digest of YouTube subs'
+description: 'This is technically a Show HN for MyTube Newsletter — an email digest of new videos from the YouTube channels you subscribe to, AI-summarized. But the tech isn''t very interesting. I''d rather talk abou'
+pubDate: 2026-05-31T12:30:40
+source: 'Hacker News'
+sourceUrl: 'https://news.ycombinator.com/item?id=48345189'
+tags: []
+---
+
+This is technically a Show HN for MyTube Newsletter — an email digest of new videos from the YouTube channels you subscribe to, AI-summarized. But the tech isn't very interesting. I'd rather talk about why I shipped it.Like many other developers, I have a huge backlog of projects I want to do but never get around to. I have a much smaller list of half-finished or "finished" projects that never see the light of day. This time around I'm hoping to take a project from not just code-complete and deployed but also with basic monetization and at least a minimal attempt at marketing. In the spirit of that, I purposely picked something small in scope.At the start of the year, I was aiming to do at least one of these every month, but as you can see it's end of May and this is still my first project of the year. In fact, I fell into a similar trap of "it works for me, so it's done" and procrastinated on telling anyone about it for a month. Oh well, better late than never.The motivation for this project specifically is that I've been watching YouTube videos less and less, and even when I do, I've already been doing this manually — opening YouTube, grabbing the transcript, sending it to an LLM. Felt absurd not to just have it delivered on a daily schedule and crush the FOMO.Curious to hear: - If you've shipped a small finished thing recently, what unstuck you? - Why do your half-finished projects stay half-finished? - Anyone else been manually transcripting + AI-summarizing YouTube videos? I figured I wasn't alone, but I'd love to know.The product: https://mytubenewsletter.com $9.99/mo (15 summaries/day) or $19.99/mo (40/day), 7-day trial. Comments URL: https://news.ycombinator.com/item?id=48345189 Points: 1 # Comments: 0
