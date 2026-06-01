@@ -1,117 +1,5 @@
 {
   "articles": {
-    "be3f2569c2e03fba": {
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "fetched_at": "2026-05-24T12:57:31.484997+00:00"
-    },
-    "d95851e6a09f61ac": {
-      "title": "The guide to RL environments: building and scaling them in the LLM era",
-      "fetched_at": "2026-05-24T12:57:32.302600+00:00"
-    },
-    "3998bd9af486a500": {
-      "title": "AI Proves Mathematicians Wrong",
-      "fetched_at": "2026-05-24T12:57:32.869403+00:00"
-    },
-    "8e9e4ecd33693632": {
-      "title": "I built a free AI travel planner for budget Europe trips",
-      "fetched_at": "2026-05-24T12:57:33.438371+00:00"
-    },
-    "d9a350369db54f05": {
-      "title": "Our AI just got better",
-      "fetched_at": "2026-05-24T12:57:34.105607+00:00"
-    },
-    "fe268c82b775af63": {
-      "title": "Integral Intelligence: a Catholic view of the AI debate",
-      "fetched_at": "2026-05-24T12:57:34.960843+00:00"
-    },
-    "9c09b99bbcc797e1": {
-      "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-      "fetched_at": "2026-05-24T12:57:35.553832+00:00"
-    },
-    "a7714d039fe5e18d": {
-      "title": "Pi-Mojo – A Mojo Port of Pi AI Agent Toolkit",
-      "fetched_at": "2026-05-24T12:57:36.119055+00:00"
-    },
-    "63b7ca1d25a5e739": {
-      "title": "Autotrader – paper trading AI agent for Indian equities",
-      "fetched_at": "2026-05-24T12:57:36.693238+00:00"
-    },
-    "f043515f6fb91d46": {
-      "title": "The invisible fabric of AI: chips aren't a US-China war, but a 30-country chain",
-      "fetched_at": "2026-05-24T12:57:37.301975+00:00"
-    },
-    "9e4062d9632b3dcf": {
-      "title": "功效洗护市场，跑不出下一个完美日记",
-      "fetched_at": "2026-05-24T12:57:37.881256+00:00"
-    },
-    "8ac3594e98e0afae": {
-      "title": "珀莱雅收购花知晓，但美妆界的“安踏”还没诞生",
-      "fetched_at": "2026-05-24T12:57:38.499249+00:00"
-    },
-    "18e88939a28daf99": {
-      "title": "Responsible Work with AI",
-      "fetched_at": "2026-05-24T12:57:39.064827+00:00"
-    },
-    "4566f7ecf11aafeb": {
-      "title": "The AI Existential Crisis: Western AI Agents Will Win Commerce",
-      "fetched_at": "2026-05-24T12:57:39.639596+00:00"
-    },
-    "2574a83827548e5c": {
-      "title": "Orchestration problems hurt legal AI",
-      "fetched_at": "2026-05-24T12:57:40.200811+00:00"
-    },
-    "cd9fab9a7c672f1c": {
-      "title": "AI Stock Is the Ultimate Set-It-and-Forget-It Buy for Long-Term Investors",
-      "fetched_at": "2026-05-24T12:57:40.767879+00:00"
-    },
-    "9851a96e1c19edcc": {
-      "title": "South Korea's deputy PM says AI wealth must benefit the public",
-      "fetched_at": "2026-05-24T12:57:41.338717+00:00"
-    },
-    "3f142d150225dd81": {
-      "title": "Physicists create hybrid light-matter particles to replace electrons in AI cmpt",
-      "fetched_at": "2026-05-24T12:57:41.910070+00:00"
-    },
-    "49469c097295e335": {
-      "title": "State Explosion Security Problem in AI-Era Software Supply Chains",
-      "fetched_at": "2026-05-24T12:57:42.504678+00:00"
-    },
-    "164bab29f55a2762": {
-      "title": "ShannonBase: The Lightweight Semantic Layer for Enterprise AI SQL",
-      "fetched_at": "2026-05-24T12:57:43.073728+00:00"
-    },
-    "709a89e3e39936d7": {
-      "title": "特朗普與習近平舉行峰會數小時後，告誡台灣不要宣布獨立",
-      "fetched_at": "2026-05-24T12:57:45.380727+00:00"
-    },
-    "89d7cc6cb3e7982a": {
-      "title": "China launches 'human artificial embryos' to space in bid to see whether reproduction is possible off-world",
-      "fetched_at": "2026-05-24T12:57:46.900879+00:00"
-    },
-    "19c61a3450a29df7": {
-      "title": "NASA spacecraft beams back blue images of Mars on its way to a metal asteroid — Space photo of the week",
-      "fetched_at": "2026-05-24T12:57:47.481283+00:00"
-    },
-    "484a7340ad906bb0": {
-      "title": "How did animals survive the asteroid that killed the dinosaurs?",
-      "fetched_at": "2026-05-24T12:57:48.119204+00:00"
-    },
-    "847e9869d10a78c2": {
-      "title": "Scientists discover the oldest wooden tools ever used by humans",
-      "fetched_at": "2026-05-24T12:57:48.687833+00:00"
-    },
-    "ee494ab819ec4b44": {
-      "title": "AI scans 400,000 Reddit posts and finds hidden Ozempic side effects",
-      "fetched_at": "2026-05-24T12:57:49.264693+00:00"
-    },
-    "b488ca35b69ecee6": {
-      "title": "Scientists may have found the source of the most powerful neutrino ever detected",
-      "fetched_at": "2026-05-24T12:57:49.833977+00:00"
-    },
-    "ea6dfbda1ef20275": {
-      "title": "Scientists discover atoms suddenly spinning backward in quantum experiment",
-      "fetched_at": "2026-05-24T12:57:50.419684+00:00"
-    },
     "94e80880cf978e72": {
       "title": "Google CEO Sundar Pichai says booing graduates will shape AI's future",
       "fetched_at": "2026-05-24T18:59:07.962783+00:00"
@@ -3735,7 +3623,123 @@
     "7565bae7b8b584bc": {
       "title": "Discovery Platform for Startups",
       "fetched_at": "2026-06-01T11:06:51.640656+00:00"
+    },
+    "377718a0f59e7f3e": {
+      "title": "AI code automation meets sabotage and strict governance",
+      "fetched_at": "2026-06-01T17:14:03.825630+00:00"
+    },
+    "49ff1e2239eb98a5": {
+      "title": "Productivity Effects Across Generations of AI Coding Tools",
+      "fetched_at": "2026-06-01T17:14:04.386743+00:00"
+    },
+    "ac4dd73df51b8072": {
+      "title": "Responsible Disclosure in the Age of AI: A Call for Urgent Action [pdf]",
+      "fetched_at": "2026-06-01T17:14:04.980479+00:00"
+    },
+    "4cc0e3080262b709": {
+      "title": "Elon x Dwarkesh / Collison: A 20-min breakdown of Musk's biggest claims about AI [video]",
+      "fetched_at": "2026-06-01T17:14:05.616631+00:00"
+    },
+    "d4ab3bcc9789500b": {
+      "title": "GPT-5.5 (Azure) down on OpenRouter",
+      "fetched_at": "2026-06-01T17:14:06.175671+00:00"
+    },
+    "6693056d08be5cc1": {
+      "title": "Tiny GPT in Go. Optimised for Understanding. Trained on Jules Verne Books",
+      "fetched_at": "2026-06-01T17:14:06.736992+00:00"
+    },
+    "aeb656ea7022ac63": {
+      "title": "What Four Hours of Focused Human-AI Engineering Ships",
+      "fetched_at": "2026-06-01T17:14:07.323402+00:00"
+    },
+    "8f08e74ecc31a8d5": {
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "fetched_at": "2026-06-01T17:14:07.883404+00:00"
+    },
+    "e5d11a5c1b078a4a": {
+      "title": "Anthropic has officially filed to go public",
+      "fetched_at": "2026-06-01T17:14:08.443842+00:00"
+    },
+    "ed3d71a2d91e51b4": {
+      "title": "Anthropic files to go public",
+      "fetched_at": "2026-06-01T17:14:09.005597+00:00"
+    },
+    "181b58d29f43aa0a": {
+      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "fetched_at": "2026-06-01T17:14:09.640925+00:00"
+    },
+    "107f5df7560a7a7f": {
+      "title": "We gave an AI agent eyes. It didn't even use them",
+      "fetched_at": "2026-06-01T17:14:10.202779+00:00"
+    },
+    "6771d8c1df2414fe": {
+      "title": "AI Savings Misses 'Should Be Making Executives Uncomfortable,' Bain Says",
+      "fetched_at": "2026-06-01T17:14:10.758871+00:00"
+    },
+    "7dc73ff56855221e": {
+      "title": "I ran a few local LLM models on my MacBook Air M3, these are the results",
+      "fetched_at": "2026-06-01T17:14:11.314475+00:00"
+    },
+    "c4796fae9dead476": {
+      "title": "Cops Are Spying on People Who Criticize AI Data Centers Online",
+      "fetched_at": "2026-06-01T17:14:11.872906+00:00"
+    },
+    "436e6aa55f615e26": {
+      "title": "OpenAI hit with lawsuit by Florida AG over AI risks",
+      "fetched_at": "2026-06-01T17:14:12.429339+00:00"
+    },
+    "6bbf865d94863856": {
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "fetched_at": "2026-06-01T17:14:12.987744+00:00"
+    },
+    "1b245ad0969efd16": {
+      "title": "Scholarship in the Age of AI",
+      "fetched_at": "2026-06-01T17:14:13.548677+00:00"
+    },
+    "3fd4a93c8944dc9b": {
+      "title": "A native macOS app for AI agents that run on local machine",
+      "fetched_at": "2026-06-01T17:14:14.106659+00:00"
+    },
+    "06444e0d06c16211": {
+      "title": "Plots, love letters and remedies: The medieval secrets being revealed by AI",
+      "fetched_at": "2026-06-01T17:14:14.670254+00:00"
+    },
+    "fc32f86708719842": {
+      "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
+      "fetched_at": "2026-06-01T17:14:18.049013+00:00"
+    },
+    "42d188a30c23c2d5": {
+      "title": "老鼠、選票與科學：拆解台北「安鼠之亂」背後的治理危機",
+      "fetched_at": "2026-06-01T17:14:18.610527+00:00"
+    },
+    "bbd17b05c99a506a": {
+      "title": "Heading a soccer ball just once is enough to raise levels of proteins associated with brain damage",
+      "fetched_at": "2026-06-01T17:14:20.845877+00:00"
+    },
+    "587775a859ac9b24": {
+      "title": "Scientists reveal the origin of the Euphrates — a river that fed the 'cradle of civilization'",
+      "fetched_at": "2026-06-01T17:14:21.409493+00:00"
+    },
+    "04f1f2f5a90f077e": {
+      "title": "Your kitchen sponge is releasing microplastics every time you wash dishes",
+      "fetched_at": "2026-06-01T17:14:21.964624+00:00"
+    },
+    "bad08bb94f5e2706": {
+      "title": "Scientists discover inherited traits that break Mendel’s Laws of genetics",
+      "fetched_at": "2026-06-01T17:14:22.529040+00:00"
+    },
+    "e924995722f5fcef": {
+      "title": "Hubble captures M88 on a perilous journey that could change it forever",
+      "fetched_at": "2026-06-01T17:14:23.138017+00:00"
+    },
+    "6841c3d3395dd77f": {
+      "title": "NASA’s Roman telescope could reveal 100,000 hidden worlds",
+      "fetched_at": "2026-06-01T17:14:23.719525+00:00"
+    },
+    "abd01aca4aef827a": {
+      "title": "What is jet lag, and how can you avoid it?",
+      "fetched_at": "2026-06-01T17:14:24.286890+00:00"
     }
   },
-  "last_updated": "2026-06-01T11:06:51.758942+00:00"
+  "last_updated": "2026-06-01T17:14:24.404284+00:00"
 }
