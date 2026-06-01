@@ -1,105 +1,5 @@
 {
   "articles": {
-    "94e80880cf978e72": {
-      "title": "Google CEO Sundar Pichai says booing graduates will shape AI's future",
-      "fetched_at": "2026-05-24T18:59:07.962783+00:00"
-    },
-    "8507429ee37c4a1d": {
-      "title": "Show HN: TalkTimer, a micro-SaaS run by an AI agent team",
-      "fetched_at": "2026-05-24T18:59:08.585650+00:00"
-    },
-    "5bd149dfd139f268": {
-      "title": "Show HN: Trickster's Table – 20 free trick-taking card games with AI opponents",
-      "fetched_at": "2026-05-24T18:59:09.213158+00:00"
-    },
-    "3524f8697052fde1": {
-      "title": "Read Trump's unsigned AI executive order",
-      "fetched_at": "2026-05-24T18:59:09.835812+00:00"
-    },
-    "80b70ae1d9f4a122": {
-      "title": "Venture Capitalist John Doerr Says AI Is the Biggest Tech 'Tsunami'",
-      "fetched_at": "2026-05-24T18:59:10.457559+00:00"
-    },
-    "a708a5203705d870": {
-      "title": "AI Can't Care",
-      "fetched_at": "2026-05-24T18:59:11.089024+00:00"
-    },
-    "a7eed46c856ad5fa": {
-      "title": "Find where your AI coding tokens went: local TUI for Codex/Claude logs",
-      "fetched_at": "2026-05-24T18:59:11.713288+00:00"
-    },
-    "5361444610a8ad35": {
-      "title": "Ask HN: What is your daily AI stack?",
-      "fetched_at": "2026-05-24T18:59:12.331894+00:00"
-    },
-    "7d4924b7050c0662": {
-      "title": "Neuro; An AOT-compiled language for AI workloads built on LLVM 20",
-      "fetched_at": "2026-05-24T18:59:12.986886+00:00"
-    },
-    "818799f7ab23ba35": {
-      "title": "Resyl – AI memory that ties your notes to people instead of folders (Android)",
-      "fetched_at": "2026-05-24T18:59:13.600388+00:00"
-    },
-    "e88fca3e9c563261": {
-      "title": "Preventing AI agents from executing destructive terminal commands",
-      "fetched_at": "2026-05-24T18:59:14.224833+00:00"
-    },
-    "bf58f5c80127a830": {
-      "title": "Advancing Mathematics Research with AI-Driven Formal Proof Search",
-      "fetched_at": "2026-05-24T18:59:14.847597+00:00"
-    },
-    "6c3ba37bf133573a": {
-      "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
-      "fetched_at": "2026-05-24T18:59:15.470357+00:00"
-    },
-    "9cf1da0eba0fac6b": {
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "fetched_at": "2026-05-24T18:59:16.106498+00:00"
-    },
-    "80b44efcc2cfabae": {
-      "title": "Ask HN: Why do people seem to generally hate AI?",
-      "fetched_at": "2026-05-24T18:59:16.730440+00:00"
-    },
-    "8a4477e5496cc8a3": {
-      "title": "Resonance, randomness, and negotiated meaning for AI-assisted tarot divination",
-      "fetched_at": "2026-05-24T18:59:17.351380+00:00"
-    },
-    "3996d5423d0a7546": {
-      "title": "AI MOD Music Remastering at 32-bit 96 kHz",
-      "fetched_at": "2026-05-24T18:59:17.964649+00:00"
-    },
-    "e9febf554e6ae11e": {
-      "title": "Show HN: Strudel – Generate commit messages via Apple's on-device LLM",
-      "fetched_at": "2026-05-24T18:59:18.584672+00:00"
-    },
-    "cf2f7e35dc5fc15e": {
-      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "fetched_at": "2026-05-24T18:59:19.212035+00:00"
-    },
-    "bc6c45f62b4eb3cd": {
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "fetched_at": "2026-05-24T18:59:19.900572+00:00"
-    },
-    "2889e75786a6bcad": {
-      "title": "特朗普訪華落幕：美中各取所需，台灣、關稅等未解之事走向何方？",
-      "fetched_at": "2026-05-24T18:59:22.384549+00:00"
-    },
-    "9936c59ee4c5335f": {
-      "title": "中國爆發式增長的團播潮背後：情感詐騙、主播收入和隱秘活動",
-      "fetched_at": "2026-05-24T18:59:22.999473+00:00"
-    },
-    "158fa18d68d7757c": {
-      "title": "Catapult the cow! 6 medieval castles that were never conquered",
-      "fetched_at": "2026-05-24T18:59:26.707878+00:00"
-    },
-    "8213c7fbcac08cbf": {
-      "title": "'We can identify these really early, before the clinical diagnosis': Epigenetic markers may help explain why Native Hawaiians are aging faster",
-      "fetched_at": "2026-05-24T18:59:27.319755+00:00"
-    },
-    "05b38df2f1717374": {
-      "title": "Who are the Japanese? DNA discovery rewrites history",
-      "fetched_at": "2026-05-24T18:59:27.944944+00:00"
-    },
     "801ddede92e06877": {
       "title": "“蓝点触控”完成C++轮数亿元人民币融资",
       "fetched_at": "2026-05-25T02:13:38.575596+00:00"
@@ -3739,7 +3639,143 @@
     "abd01aca4aef827a": {
       "title": "What is jet lag, and how can you avoid it?",
       "fetched_at": "2026-06-01T17:14:24.286890+00:00"
+    },
+    "9c71f4f003e4ae55": {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "fetched_at": "2026-06-01T21:19:43.716419+00:00"
+    },
+    "81ae93e15f8e22d4": {
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "fetched_at": "2026-06-01T21:19:44.436391+00:00"
+    },
+    "5ce0ea4916f221b3": {
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "fetched_at": "2026-06-01T21:19:45.032611+00:00"
+    },
+    "f58b2d6fda1d5899": {
+      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+      "fetched_at": "2026-06-01T21:19:45.622476+00:00"
+    },
+    "04b270cecad356df": {
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "fetched_at": "2026-06-01T21:19:46.226667+00:00"
+    },
+    "d26a6633f0a74aad": {
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "fetched_at": "2026-06-01T21:19:46.226835+00:00"
+    },
+    "fb4ea716a831a5cb": {
+      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "fetched_at": "2026-06-01T21:19:46.845331+00:00"
+    },
+    "03385cb436e942b6": {
+      "title": "AI is blowing up music. How should the Grammys handle it?",
+      "fetched_at": "2026-06-01T21:19:47.458939+00:00"
+    },
+    "28361c981b4b1b8d": {
+      "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+      "fetched_at": "2026-06-01T21:19:48.059001+00:00"
+    },
+    "8a89d5f3186b2ad7": {
+      "title": "存量公募基金今起调整基准，业内人士：不会引发基金调仓",
+      "fetched_at": "2026-06-01T21:19:48.660058+00:00"
+    },
+    "9a9c12b991f4403c": {
+      "title": "霍尼韦尔宣布其自动化业务与航空航天业务将分别启用新品牌标识",
+      "fetched_at": "2026-06-01T21:19:49.280390+00:00"
+    },
+    "d46b510560225447": {
+      "title": "热门中概股美股盘前涨跌不一，哔哩哔哩涨超4%",
+      "fetched_at": "2026-06-01T21:19:49.896377+00:00"
+    },
+    "7da7854ef5e514c4": {
+      "title": "美股大型科技股盘前涨跌不一，Arm涨超10%",
+      "fetched_at": "2026-06-01T21:19:50.498747+00:00"
+    },
+    "796a0394fbe2ec20": {
+      "title": "奇瑞汽车：5月总销量23.19万辆，同比增长20.7%",
+      "fetched_at": "2026-06-01T21:19:51.111921+00:00"
+    },
+    "672a4083777a49e1": {
+      "title": "Quantinuum现预计IPO发行价为每股53至55美元，筹集至多14.6亿美元",
+      "fetched_at": "2026-06-01T21:19:51.701181+00:00"
+    },
+    "ee1a7b348234ee5e": {
+      "title": "美国软件公司Hyland宣布与微软合作，以支持代理式企业的发展",
+      "fetched_at": "2026-06-01T21:19:52.313752+00:00"
+    },
+    "49c433643312cd6c": {
+      "title": "BP向韩国GS Energy出售Browse LNG项目5%股份",
+      "fetched_at": "2026-06-01T21:19:52.932445+00:00"
+    },
+    "30044908d403b68d": {
+      "title": "有研复材：拟投资1.5亿元建设先进金属基复合材料产业化项目",
+      "fetched_at": "2026-06-01T21:19:53.532542+00:00"
+    },
+    "ef892bd6279e0971": {
+      "title": "上海：发展壮大一批新兴支柱产业，超前布局未来产业",
+      "fetched_at": "2026-06-01T21:19:54.138856+00:00"
+    },
+    "93be08052fa88ccb": {
+      "title": "深蓝汽车5月全球销量33243辆，同比增长30%",
+      "fetched_at": "2026-06-01T21:19:54.734756+00:00"
+    },
+    "55916ed47a727e54": {
+      "title": "Astronauts could use lightning-like plasma jets to kill germs on the moon and Mars, demo hints",
+      "fetched_at": "2026-06-01T21:19:58.800736+00:00"
+    },
+    "8c37e64036952d6d": {
+      "title": "The AI tool discovery problem",
+      "fetched_at": "2026-06-01T21:19:59.422602+00:00"
+    },
+    "5779b43b79b6eb61": {
+      "title": "First whole-genome sequence of a Greenland shark holds clues to their extreme longevity",
+      "fetched_at": "2026-06-01T21:20:00.022701+00:00"
+    },
+    "8187ea19e7d5a03a": {
+      "title": "Pottery Discovered in the Philippines Marks Trade With Chinese Merchants",
+      "fetched_at": "2026-06-01T21:20:00.635182+00:00"
+    },
+    "156d88558ec2e3f9": {
+      "title": "Automate pattern discovery with Topics, now generally available",
+      "fetched_at": "2026-06-01T21:20:01.248782+00:00"
+    },
+    "f5f7f4599c2a4124": {
+      "title": "Why Do Some Bones Decay Faster Than Others?",
+      "fetched_at": "2026-06-01T21:20:01.848869+00:00"
+    },
+    "15ee02a3c198af21": {
+      "title": "Discovery vs. Tokenmaxxing",
+      "fetched_at": "2026-06-01T21:20:02.440298+00:00"
+    },
+    "9e99ed291e69edfa": {
+      "title": "The Last Dynasty: Ancient Egypt from Alexander the Great to Cleopatra",
+      "fetched_at": "2026-06-01T21:20:03.086579+00:00"
+    },
+    "8f90b23ba9368227": {
+      "title": "Discovery of midbrain rhythm could indicate a bio-signature of consciousness",
+      "fetched_at": "2026-06-01T21:20:03.671497+00:00"
+    },
+    "847e9869d10a78c2": {
+      "title": "Scientists discover the oldest wooden tools ever used by humans",
+      "fetched_at": "2026-06-01T21:20:04.288251+00:00"
+    },
+    "ee494ab819ec4b44": {
+      "title": "AI scans 400,000 Reddit posts and finds hidden Ozempic side effects",
+      "fetched_at": "2026-06-01T21:20:04.877998+00:00"
+    },
+    "b488ca35b69ecee6": {
+      "title": "Scientists may have found the source of the most powerful neutrino ever detected",
+      "fetched_at": "2026-06-01T21:20:05.476516+00:00"
+    },
+    "ea6dfbda1ef20275": {
+      "title": "Scientists discover atoms suddenly spinning backward in quantum experiment",
+      "fetched_at": "2026-06-01T21:20:06.093470+00:00"
+    },
+    "d7c36fac398c56f6": {
+      "title": "The Random Camera Shop Discovery That Inspired Star Wars' Lightsaber Design",
+      "fetched_at": "2026-06-01T21:20:06.686266+00:00"
     }
   },
-  "last_updated": "2026-06-01T17:14:24.404284+00:00"
+  "last_updated": "2026-06-01T21:20:06.829605+00:00"
 }
