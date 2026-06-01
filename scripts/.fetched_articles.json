@@ -1,113 +1,5 @@
 {
   "articles": {
-    "19e5582c301d7d09": {
-      "title": "Ask HN: I mapped 6,494 AI engines into a taxonomy – anyone else tried this?",
-      "fetched_at": "2026-05-24T08:14:43.192579+00:00"
-    },
-    "79807c2b15a3c05e": {
-      "title": "东北超首轮比赛10万人次涌入",
-      "fetched_at": "2026-05-24T08:14:43.769830+00:00"
-    },
-    "2a93e38f40499095": {
-      "title": "巴基斯坦总理夏巴兹在杭州出席中巴企业投资大会",
-      "fetched_at": "2026-05-24T08:14:44.344036+00:00"
-    },
-    "b2003c55460a2ef0": {
-      "title": "China behind in LLM race but it can still win in AI, ex-Tencent AI lead says",
-      "fetched_at": "2026-05-24T08:14:44.928737+00:00"
-    },
-    "0ddf6737e7b49d5b": {
-      "title": "Newsom signs order aimed at tackling AI job displacement",
-      "fetched_at": "2026-05-24T08:14:45.507482+00:00"
-    },
-    "9215171ed68921ab": {
-      "title": "商务部部长王文涛会见联合国贸发会议代理秘书长马雷诺",
-      "fetched_at": "2026-05-24T08:14:46.081311+00:00"
-    },
-    "39916a7f7c0f81bc": {
-      "title": "How AI is redefining Software Engineering",
-      "fetched_at": "2026-05-24T08:14:46.711012+00:00"
-    },
-    "d66af9b901a53ead": {
-      "title": "Hiro, AI job matching with real visa sponsorship data (550K jobs)",
-      "fetched_at": "2026-05-24T08:14:47.371236+00:00"
-    },
-    "92c4c9c0a196603e": {
-      "title": "韩国：三星电子、SK海力士等前五大企业出口额占整体出口比重超四成",
-      "fetched_at": "2026-05-24T08:14:48.049834+00:00"
-    },
-    "f38062d6d404882b": {
-      "title": "For developers without design skills, how do you leverage AI for front end dev?",
-      "fetched_at": "2026-05-24T08:14:48.638096+00:00"
-    },
-    "79e37c85b6176afe": {
-      "title": "The anatomy of AI power in 2026",
-      "fetched_at": "2026-05-24T08:14:49.229061+00:00"
-    },
-    "f0e2f2b910d5f62d": {
-      "title": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
-      "fetched_at": "2026-05-24T08:14:49.803269+00:00"
-    },
-    "a64f56b923f7703f": {
-      "title": "“高中签率”新股 储能BMS龙头来了",
-      "fetched_at": "2026-05-24T08:14:50.394325+00:00"
-    },
-    "ffbbcd8aa7e14781": {
-      "title": "Turned ArXiv into an AI-Agent-Friendly Interface (No Browser Vision Needed)",
-      "fetched_at": "2026-05-24T08:14:50.988370+00:00"
-    },
-    "dec5f826af02e14d": {
-      "title": "浙江下达养老托育专项2026年中央基建投资资金",
-      "fetched_at": "2026-05-24T08:14:51.635816+00:00"
-    },
-    "eaf67cb839f62e66": {
-      "title": "capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具",
-      "fetched_at": "2026-05-24T08:14:52.207951+00:00"
-    },
-    "ea440dc26c62c72a": {
-      "title": "周鸿祎谈马斯克大尺度预言：十年后人类都不开车了？",
-      "fetched_at": "2026-05-24T08:14:52.785885+00:00"
-    },
-    "549f0290462ed473": {
-      "title": "韩国4月中东原油进口同比下滑37%",
-      "fetched_at": "2026-05-24T08:14:53.664147+00:00"
-    },
-    "bc9720f1a1d193fe": {
-      "title": "芬兰大学说新型AI聊天机器人有助抵抗错误健康信息",
-      "fetched_at": "2026-05-24T08:14:54.571114+00:00"
-    },
-    "82382e839046fe61": {
-      "title": "一季度韩国前五大企业出口占比达44%",
-      "fetched_at": "2026-05-24T08:14:55.181783+00:00"
-    },
-    "ec85427d877dcf5e": {
-      "title": "足球世界盃2026：值得關注的黑馬球隊",
-      "fetched_at": "2026-05-24T08:14:58.054889+00:00"
-    },
-    "1903fa918bf09003": {
-      "title": "在日本離婚導致父母與子女分離，法律改革能否終結單獨監護的情況？",
-      "fetched_at": "2026-05-24T08:14:58.637842+00:00"
-    },
-    "dbebb2440d6c6247": {
-      "title": "白宮附近槍擊案：嫌疑人與特勤局特工交火被擊斃",
-      "fetched_at": "2026-05-24T08:14:59.236473+00:00"
-    },
-    "7cb252c78dade77b": {
-      "title": "中國山西煤礦爆炸據報至少82死，我們目前已知道什麼？",
-      "fetched_at": "2026-05-24T08:14:59.814702+00:00"
-    },
-    "fc32f86708719842": {
-      "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
-      "fetched_at": "2026-05-24T08:15:00.395572+00:00"
-    },
-    "42d188a30c23c2d5": {
-      "title": "老鼠、選票與科學：拆解台北「安鼠之亂」背後的治理危機",
-      "fetched_at": "2026-05-24T08:15:00.973359+00:00"
-    },
-    "d7c36fac398c56f6": {
-      "title": "The Random Camera Shop Discovery That Inspired Star Wars' Lightsaber Design",
-      "fetched_at": "2026-05-24T08:15:05.796170+00:00"
-    },
     "be3f2569c2e03fba": {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
       "fetched_at": "2026-05-24T12:57:31.484997+00:00"
@@ -3715,7 +3607,135 @@
     "16261aaa861be111": {
       "title": "NASA stunned as strange solar radio burst lasts 19 days",
       "fetched_at": "2026-06-01T02:35:28.583501+00:00"
+    },
+    "1b3eb18b20e4cda2": {
+      "title": "Show HN: An interactive fiction game about PR reviews, AI agents, team dynamics",
+      "fetched_at": "2026-06-01T11:06:18.683955+00:00"
+    },
+    "d4c23eee846800a3": {
+      "title": "五粮液：首次回购公司股份119万股，成交总金额约1亿元",
+      "fetched_at": "2026-06-01T11:06:19.335835+00:00"
+    },
+    "535e031faeae2030": {
+      "title": "AI Agent Discovery via DNS",
+      "fetched_at": "2026-06-01T11:06:19.948546+00:00"
+    },
+    "5ab94ea9adc77c49": {
+      "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
+      "fetched_at": "2026-06-01T11:06:20.622328+00:00"
+    },
+    "2e4045a4a0950e97": {
+      "title": "Human-Centered Reinforcement Learning [pdf]",
+      "fetched_at": "2026-06-01T11:06:21.255750+00:00"
+    },
+    "cfaff634a598b03a": {
+      "title": "创新医疗：拟5000万元—1亿元回购股份",
+      "fetched_at": "2026-06-01T11:06:21.883325+00:00"
+    },
+    "bd286ed938c2085b": {
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商",
+      "fetched_at": "2026-06-01T11:06:22.509470+00:00"
+    },
+    "babad3aabc5ed706": {
+      "title": "When Background AI Agents Become a Security Boundary Problem",
+      "fetched_at": "2026-06-01T11:06:23.123753+00:00"
+    },
+    "17735adde6a2585d": {
+      "title": "Nvidia announces new AI chip for personal computers",
+      "fetched_at": "2026-06-01T11:06:23.776093+00:00"
+    },
+    "46d94b1cbc9d3b93": {
+      "title": "比亚迪5月汽车销量38.3万辆",
+      "fetched_at": "2026-06-01T11:06:24.421977+00:00"
+    },
+    "0078d81443ba67d8": {
+      "title": "今年盛夏，WAVES之夜会浪的一群年轻人",
+      "fetched_at": "2026-06-01T11:06:25.053268+00:00"
+    },
+    "7b8169400a675758": {
+      "title": "机构今日买入东山精密等27股，卖出华能国际1.99亿元",
+      "fetched_at": "2026-06-01T11:06:25.681272+00:00"
+    },
+    "23b8fd2ca8ca42c3": {
+      "title": "鼎龙科技：拟投资1000万元认购守正基金部分股权",
+      "fetched_at": "2026-06-01T11:06:26.314310+00:00"
+    },
+    "3f690fb809e9bd94": {
+      "title": "康方生物获南向资金净买入27.07亿港元",
+      "fetched_at": "2026-06-01T11:06:26.949903+00:00"
+    },
+    "86536d97c63a03e0": {
+      "title": "牧原股份：选举曹治年为董事长",
+      "fetched_at": "2026-06-01T11:06:27.571906+00:00"
+    },
+    "817999d29931b601": {
+      "title": "多家全国性银行今年不再报送数据，房地产贷款集中度管理进一步“放松”",
+      "fetched_at": "2026-06-01T11:06:28.211092+00:00"
+    },
+    "45909362e5d99b8b": {
+      "title": "派评 | 近期值得关注的 App",
+      "fetched_at": "2026-06-01T11:06:28.211235+00:00"
+    },
+    "0a486b69123576b0": {
+      "title": "我国正式发布非化石能源电力消费核算指南",
+      "fetched_at": "2026-06-01T11:06:28.834296+00:00"
+    },
+    "d7d1da4cc96d18ba": {
+      "title": "“秋水半导体”连续完成Pre-A及A轮融资",
+      "fetched_at": "2026-06-01T11:06:29.594188+00:00"
+    },
+    "06b05ff6f3d0267a": {
+      "title": "Netflix Wiz creates app to slash AI bills, then open sources it",
+      "fetched_at": "2026-06-01T11:06:30.297595+00:00"
+    },
+    "28110600aa78cd00": {
+      "title": "澳門十歲男童致命交通意外，為何引發社會公憤與集體哀悼",
+      "fetched_at": "2026-06-01T11:06:32.945859+00:00"
+    },
+    "90385e093d7e43f7": {
+      "title": "金正恩為何從未談及其母親",
+      "fetched_at": "2026-06-01T11:06:33.562504+00:00"
+    },
+    "fa6758adb9a1f19a": {
+      "title": "「就像一具腐爛的屍體」：澳洲農民與鼠疫奮戰",
+      "fetched_at": "2026-06-01T11:06:34.174303+00:00"
+    },
+    "beeaa3180f222c00": {
+      "title": "秘密隧道與非法勞工：中國煤難令人想起黑暗的過去",
+      "fetched_at": "2026-06-01T11:06:34.915241+00:00"
+    },
+    "383a769e74f16c7d": {
+      "title": "徐春莺“渗透”案：台湾政治与国安漩涡中的“陆配”",
+      "fetched_at": "2026-06-01T11:06:35.544918+00:00"
+    },
+    "ac660ae54873b111": {
+      "title": "中国药物研发崛起，业内人士担心对美国生物技术构成威胁",
+      "fetched_at": "2026-06-01T11:06:36.167393+00:00"
+    },
+    "1ef6291c012bd77c": {
+      "title": "台湾谴责中国驱逐《纽约时报》记者",
+      "fetched_at": "2026-06-01T11:06:36.915674+00:00"
+    },
+    "478262ae4eb885ef": {
+      "title": "日本收紧经营管理签证，外籍餐饮业主陷入困境",
+      "fetched_at": "2026-06-01T11:06:37.579890+00:00"
+    },
+    "266be5b758ebb90b": {
+      "title": "国际干预行动皆陷僵局，特朗普撞上“现实之墙”",
+      "fetched_at": "2026-06-01T11:06:38.209914+00:00"
+    },
+    "a4f2051552a3afea": {
+      "title": "Gessel gold hoard: A 3,300-year-old stash of gleaming treasures that's one of the largest Bronze Age hoards from Europe",
+      "fetched_at": "2026-06-01T11:06:50.395629+00:00"
+    },
+    "a12bb7697655a5b0": {
+      "title": "The forgotten organ that could predict how long you live",
+      "fetched_at": "2026-06-01T11:06:51.022383+00:00"
+    },
+    "7565bae7b8b584bc": {
+      "title": "Discovery Platform for Startups",
+      "fetched_at": "2026-06-01T11:06:51.640656+00:00"
     }
   },
-  "last_updated": "2026-06-01T02:35:28.716921+00:00"
+  "last_updated": "2026-06-01T11:06:51.758942+00:00"
 }
