@@ -1,105 +1,5 @@
 {
   "articles": {
-    "640cb273f1fdd9af": {
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "fetched_at": "2026-05-25T19:14:10.975300+00:00"
-    },
-    "835de3548ea94cc6": {
-      "title": "The pope’s AI encyclical isn’t really about AI",
-      "fetched_at": "2026-05-25T19:14:11.632804+00:00"
-    },
-    "62431d011da217c8": {
-      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-      "fetched_at": "2026-05-25T19:14:12.368175+00:00"
-    },
-    "d022e66a91ae06e1": {
-      "title": "综艺股份：控股股东拟增持5000万元至1亿元公司股份",
-      "fetched_at": "2026-05-25T19:14:13.032638+00:00"
-    },
-    "efa19c0a67de05e9": {
-      "title": "浙江金龙电机股份有限公司在港交所递交上市申请",
-      "fetched_at": "2026-05-25T19:14:13.651037+00:00"
-    },
-    "bf077258f91af6dc": {
-      "title": "昂利康：公司不涉及光芯片等半导体领域的业务和投资行为",
-      "fetched_at": "2026-05-25T19:14:14.297491+00:00"
-    },
-    "75947d12e4b4dc11": {
-      "title": "派评 | 近期值得关注的 App",
-      "fetched_at": "2026-05-25T19:14:14.924089+00:00"
-    },
-    "804a88ee6ba61ed1": {
-      "title": "无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能",
-      "fetched_at": "2026-05-25T19:14:15.593764+00:00"
-    },
-    "942ee948d0644c1a": {
-      "title": "被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要",
-      "fetched_at": "2026-05-25T19:14:16.212934+00:00"
-    },
-    "e8b533a563f5be51": {
-      "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
-      "fetched_at": "2026-05-25T19:14:16.834922+00:00"
-    },
-    "29ce16bb8929aef1": {
-      "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
-      "fetched_at": "2026-05-25T19:14:17.462300+00:00"
-    },
-    "4f3fc8000e39d1a4": {
-      "title": "对话欧洲地图商TomTom：中国订单暴涨10倍，帮助中国辅助驾驶出海｜最前线",
-      "fetched_at": "2026-05-25T19:14:18.079864+00:00"
-    },
-    "5e9e06f6614e1b36": {
-      "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
-      "fetched_at": "2026-05-25T19:14:18.699689+00:00"
-    },
-    "b2422e6fcac86937": {
-      "title": "京东加码商业地产，推出更高级大MALL",
-      "fetched_at": "2026-05-25T19:14:19.399738+00:00"
-    },
-    "b09ca1f5d0aa8436": {
-      "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
-      "fetched_at": "2026-05-25T19:14:20.018252+00:00"
-    },
-    "8a8295a484d16e08": {
-      "title": "派早报：GitHub 在微软治下面临技术和人员流失困境",
-      "fetched_at": "2026-05-25T19:14:20.635325+00:00"
-    },
-    "dbb6855e58bbc22f": {
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "fetched_at": "2026-05-25T19:14:21.255795+00:00"
-    },
-    "5e6d0dcb90d81ba6": {
-      "title": "这个周末，来深圳文博会和少数派打个卡吧",
-      "fetched_at": "2026-05-25T19:14:21.879491+00:00"
-    },
-    "50796cedbabe9001": {
-      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-      "fetched_at": "2026-05-25T19:14:22.524320+00:00"
-    },
-    "a2e9b29797b9fbe9": {
-      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-      "fetched_at": "2026-05-25T19:14:23.171803+00:00"
-    },
-    "742ed3c1513dbe95": {
-      "title": "中國山西礦難至少82死 十七年來最致命事故",
-      "fetched_at": "2026-05-25T19:14:25.561132+00:00"
-    },
-    "c308f7d81bc2b9ad": {
-      "title": "Rare genetic disease makes scientists reconsider what the 'seat of fear' in the brain really is",
-      "fetched_at": "2026-05-25T19:14:30.094658+00:00"
-    },
-    "c37d99b7525c86d3": {
-      "title": "It's illegal to repair most of our devices. There's a surprising reason for that.",
-      "fetched_at": "2026-05-25T19:14:30.706550+00:00"
-    },
-    "e7604e3ce21d85ba": {
-      "title": "Mars looks blue and bruised in surreal new images from Psyche spacecraft — Space photo of the week",
-      "fetched_at": "2026-05-25T19:14:31.314976+00:00"
-    },
-    "59315bf70b8302a9": {
-      "title": "Zhengkid/AutoTTS: Agentic Discovery for Test-Time Scaling",
-      "fetched_at": "2026-05-25T19:14:31.937418+00:00"
-    },
     "102408bb493c5e37": {
       "title": "​沪深两市成交额突破1万亿元",
       "fetched_at": "2026-05-26T02:04:31.214274+00:00"
@@ -3779,7 +3679,107 @@
     "529b78bf784fe0d4": {
       "title": "Adorable tiny blue octopus found nearly 6,000 feet beneath the Galápagos",
       "fetched_at": "2026-06-02T15:56:55.109661+00:00"
+    },
+    "9e5bce54e6b3b330": {
+      "title": "The CDP Is the AI",
+      "fetched_at": "2026-06-02T20:33:25.582761+00:00"
+    },
+    "118695fc54018038": {
+      "title": "RSS is back AI agents are reading it",
+      "fetched_at": "2026-06-02T20:33:26.208899+00:00"
+    },
+    "7562130da839775b": {
+      "title": "I built a React and MDX workspace so AI agents stop generating giant HTML files",
+      "fetched_at": "2026-06-02T20:33:26.833333+00:00"
+    },
+    "76169fdc6f660a7d": {
+      "title": "Show HN: Jolli AI – Local-First AI Memory for Claude Code, Codex, and Gemini CLI",
+      "fetched_at": "2026-06-02T20:33:27.452264+00:00"
+    },
+    "96f010356760ca51": {
+      "title": "Uber caps employee AI spending after blowing through budget in four months",
+      "fetched_at": "2026-06-02T20:33:34.053224+00:00"
+    },
+    "416f05dda80791c1": {
+      "title": "The AI Trap We're Walking Into",
+      "fetched_at": "2026-06-02T20:33:28.804151+00:00"
+    },
+    "943fdcdf36c643c6": {
+      "title": "AI Budget Is Growing. Your Returns Aren't",
+      "fetched_at": "2026-06-02T20:33:29.486553+00:00"
+    },
+    "db38b8954ee61cb7": {
+      "title": "Project Tapestry: The Path to Frontier Sovereign AI",
+      "fetched_at": "2026-06-02T20:33:30.110750+00:00"
+    },
+    "def5d0dafd593883": {
+      "title": "I wrote a book about refusing to claim authorship of an AI \"million dollar\"proof",
+      "fetched_at": "2026-06-02T20:33:30.771428+00:00"
+    },
+    "f9b0aa1decd3ea5c": {
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
+      "fetched_at": "2026-06-02T20:33:31.393595+00:00"
+    },
+    "662c0c69ee48ac12": {
+      "title": "Show HN: Building an Unique Braille Loader for My AI Startup",
+      "fetched_at": "2026-06-02T20:33:32.087621+00:00"
+    },
+    "d7ff64c14fe38c94": {
+      "title": "Google rolls out fake call detection to protect against AI impersonation scams",
+      "fetched_at": "2026-06-02T20:33:32.717934+00:00"
+    },
+    "de0fc806ce061da1": {
+      "title": "Trump signs an executive order to vet top AI models for national security risks",
+      "fetched_at": "2026-06-02T20:33:33.416890+00:00"
+    },
+    "71d11f7cdf8036da": {
+      "title": "Karpathy's LLM teaching corpus, rendered as a designed HTML wiki",
+      "fetched_at": "2026-06-02T20:33:34.053090+00:00"
+    },
+    "169649585f7b1c61": {
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "fetched_at": "2026-06-02T20:33:34.684983+00:00"
+    },
+    "58bb7414e6ca7ba2": {
+      "title": "People are flooding AI chatbots with health questions. Microsoft Mayo Clinic",
+      "fetched_at": "2026-06-02T20:33:35.413935+00:00"
+    },
+    "e17263bc4e72cecf": {
+      "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
+      "fetched_at": "2026-06-02T20:33:36.118941+00:00"
+    },
+    "2f554f7a219e959b": {
+      "title": "Microsoft Wants to 'Make People Addicted' to Its New AI Assistant",
+      "fetched_at": "2026-06-02T20:33:36.747930+00:00"
+    },
+    "788e3b6abc6a1aa8": {
+      "title": "Agent Control Specification: Portable Runtime Governance for AI Agents",
+      "fetched_at": "2026-06-02T20:33:37.377547+00:00"
+    },
+    "bea50892285ca4a8": {
+      "title": "專訪台灣作家楊双子：從美食探尋台灣殖民歷史",
+      "fetched_at": "2026-06-02T20:33:40.219444+00:00"
+    },
+    "72b4348006861cd9": {
+      "title": "Paleolithic Rock Art Confirmed in Wales",
+      "fetched_at": "2026-06-02T20:33:44.349646+00:00"
+    },
+    "cbc5df6e24aae645": {
+      "title": "Evidence of Surgery 4,000 Years Ago Uncovered in Central Asia",
+      "fetched_at": "2026-06-02T20:33:44.969196+00:00"
+    },
+    "ef376b49ee42d90d": {
+      "title": "This prehistoric fish may explain how animals first walked on Earth",
+      "fetched_at": "2026-06-02T20:33:45.592787+00:00"
+    },
+    "5ca889c68bf9b92b": {
+      "title": "100-million-year-old bug had crab-like claws unlike any known insect",
+      "fetched_at": "2026-06-02T20:33:46.222082+00:00"
+    },
+    "61643b55e58f8b66": {
+      "title": "Scientists discover why some DNA-doubled cells refuse to die",
+      "fetched_at": "2026-06-02T20:33:46.842274+00:00"
     }
   },
-  "last_updated": "2026-06-02T15:56:55.253636+00:00"
+  "last_updated": "2026-06-02T20:33:46.953374+00:00"
 }
