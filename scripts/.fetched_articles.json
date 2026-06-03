@@ -1,105 +1,5 @@
 {
   "articles": {
-    "102408bb493c5e37": {
-      "title": "​沪深两市成交额突破1万亿元",
-      "fetched_at": "2026-05-26T02:04:31.214274+00:00"
-    },
-    "20acd0a22b5ba6dd": {
-      "title": "Silvercorp Metals Inc.向港交所提交上市申请",
-      "fetched_at": "2026-05-26T02:04:31.819664+00:00"
-    },
-    "d45063cb58a91285": {
-      "title": "深成指跌超1%",
-      "fetched_at": "2026-05-26T02:04:32.407409+00:00"
-    },
-    "b4f4d2d5db4f7c9c": {
-      "title": "AI SEO: compare with your competitor",
-      "fetched_at": "2026-05-26T02:04:32.996648+00:00"
-    },
-    "6dc0d6edd0f7dfa9": {
-      "title": "This big university system is embracing AI. Students and faculty aren't on board",
-      "fetched_at": "2026-05-26T02:04:33.598315+00:00"
-    },
-    "f056297d1720fc53": {
-      "title": "现货白银下跌3%",
-      "fetched_at": "2026-05-26T02:04:34.188416+00:00"
-    },
-    "1550ac26ca694931": {
-      "title": "今年我国养老机器人市场规模将破百亿元",
-      "fetched_at": "2026-05-26T02:04:34.780091+00:00"
-    },
-    "8a886d3eb5226030": {
-      "title": "科创板IPO“折戟”4个月后，亚电科技再谋上市",
-      "fetched_at": "2026-05-26T02:04:35.401920+00:00"
-    },
-    "de0c574294a9145b": {
-      "title": "腾讯应用宝Mac版正式开启公测",
-      "fetched_at": "2026-05-26T02:04:36.019320+00:00"
-    },
-    "2232dfe18a694592": {
-      "title": "中指研究院：核心城市5月二手房成交继续放量",
-      "fetched_at": "2026-05-26T02:04:36.633953+00:00"
-    },
-    "848cbd2748c60f3f": {
-      "title": "央行今日开展2490亿元7天期逆回购操作",
-      "fetched_at": "2026-05-26T02:04:37.258343+00:00"
-    },
-    "d0f356567c169a16": {
-      "title": "对话云鲸CEO张峻彬：理解人性，告别天真",
-      "fetched_at": "2026-05-26T02:04:37.866869+00:00"
-    },
-    "645e8908aba839f8": {
-      "title": "A股三大指数集体低开，先进封装概念走强",
-      "fetched_at": "2026-05-26T02:04:38.487164+00:00"
-    },
-    "b948e80ee27a3818": {
-      "title": "Show HN: HN Audio to video AI generator",
-      "fetched_at": "2026-05-26T02:04:39.076696+00:00"
-    },
-    "9b04d9233ed04ec9": {
-      "title": "恒指开盘涨0.06%，恒生科技指数涨1.9%",
-      "fetched_at": "2026-05-26T02:04:39.960489+00:00"
-    },
-    "d083d36a903e49ce": {
-      "title": "工信部：前4个月电信业务收入累计完成5941亿元，同比下降1.7%",
-      "fetched_at": "2026-05-26T02:04:40.567726+00:00"
-    },
-    "9a875ac3cdcefa20": {
-      "title": "巴西央行连续十一周上调今年通胀预期",
-      "fetched_at": "2026-05-26T02:04:41.211919+00:00"
-    },
-    "c736f54f4752a4d6": {
-      "title": "芭田股份：近期磷矿及肥料产品随行就市小幅调高价格",
-      "fetched_at": "2026-05-26T02:04:41.822253+00:00"
-    },
-    "2cb09c67c85731d2": {
-      "title": "“桥田智能”完成A+轮亿元级融资",
-      "fetched_at": "2026-05-26T02:04:42.463383+00:00"
-    },
-    "30e32d7c3b2d2081": {
-      "title": "三星非芯片部门工会申请禁令，试图阻止奖金投票",
-      "fetched_at": "2026-05-26T02:04:43.073801+00:00"
-    },
-    "2570b3ebd231cc81": {
-      "title": "教宗良十四世挑战硅谷，警告人工智能风险",
-      "fetched_at": "2026-05-26T02:04:45.594416+00:00"
-    },
-    "cb9d8bf83a48db19": {
-      "title": "亚洲多国货币贬值，加剧经济紧张",
-      "fetched_at": "2026-05-26T02:04:46.205542+00:00"
-    },
-    "0e3cc38473f5152d": {
-      "title": "人在死後會被記住什麼？現在思考你的遺產可能對你有益",
-      "fetched_at": "2026-05-26T02:04:46.799913+00:00"
-    },
-    "8533c0e1d46b4575": {
-      "title": "Toxic plant on Ming dynasty-era surgical tools may be world’s oldest chemical evidence of topical anesthetic",
-      "fetched_at": "2026-05-26T02:04:49.553249+00:00"
-    },
-    "5fae1c0e8da02c74": {
-      "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
-      "fetched_at": "2026-05-26T02:04:50.188626+00:00"
-    },
     "6eeeb3a8847a7305": {
       "title": "小米集团：第一季度营收991.4亿元",
       "fetched_at": "2026-05-26T09:33:22.060272+00:00"
@@ -3779,7 +3679,119 @@
     "61643b55e58f8b66": {
       "title": "Scientists discover why some DNA-doubled cells refuse to die",
       "fetched_at": "2026-06-02T20:33:46.842274+00:00"
+    },
+    "1162a3411542b1d5": {
+      "title": "Show HN: SeaTicket – AI agent that resolve issues from GitHub, email and forums",
+      "fetched_at": "2026-06-03T02:40:50.562859+00:00"
+    },
+    "c1d6d7158adf46cb": {
+      "title": "腾讯AI产业应用大会在即，即将发布系列智能体应用新品",
+      "fetched_at": "2026-06-03T02:40:51.186253+00:00"
+    },
+    "048d6a262da98dd7": {
+      "title": "I left the Alan Turing Institute to join 'game-changer' AI lab",
+      "fetched_at": "2026-06-03T02:40:51.824576+00:00"
+    },
+    "b2725cd23b3fa860": {
+      "title": "创业板指盘中涨近3%，创历史新高",
+      "fetched_at": "2026-06-03T02:40:52.451185+00:00"
+    },
+    "6357e6fb59ce5352": {
+      "title": "Running an AI-native engineering org – Claude",
+      "fetched_at": "2026-06-03T02:40:53.121954+00:00"
+    },
+    "9a6810886d9af763": {
+      "title": "长三角铁路端午假期5天预计发送旅客1745万人次",
+      "fetched_at": "2026-06-03T02:40:53.758623+00:00"
+    },
+    "95096381c7a37b4f": {
+      "title": "Ask HN: Feedback on an AI-driven \"Life RPG\" for real-world skill building?",
+      "fetched_at": "2026-06-03T02:40:54.391974+00:00"
+    },
+    "0cb51b354680383c": {
+      "title": "微信将推出一款AI智能体？腾讯人士回应",
+      "fetched_at": "2026-06-03T02:40:55.033285+00:00"
+    },
+    "25699535bf4b4777": {
+      "title": "Free daily AI brief from your Garmin data (Gemini and GitHub Actions)",
+      "fetched_at": "2026-06-03T02:40:55.662243+00:00"
+    },
+    "a0654d02f26848ba": {
+      "title": "联讯仪器股价突破2000元大关",
+      "fetched_at": "2026-06-03T02:40:56.299118+00:00"
+    },
+    "730d1668f276a061": {
+      "title": "“星源智”完成新一轮融资",
+      "fetched_at": "2026-06-03T02:40:57.009236+00:00"
+    },
+    "6ec5a21d1efbb992": {
+      "title": "创业板指日内涨幅扩大至2%",
+      "fetched_at": "2026-06-03T02:40:57.630797+00:00"
+    },
+    "828273c7dab42ea4": {
+      "title": "中国5月RatingDog服务业PMI 54.4",
+      "fetched_at": "2026-06-03T02:40:58.257989+00:00"
+    },
+    "8db9d4705334e1e2": {
+      "title": "Google is paying Play Store developers for code to train its AI",
+      "fetched_at": "2026-06-03T02:40:58.884086+00:00"
+    },
+    "da669541366b167d": {
+      "title": "创业板指涨超1%",
+      "fetched_at": "2026-06-03T02:40:58.884216+00:00"
+    },
+    "b4f14fe7274f2cb7": {
+      "title": "央行6月3日7天期逆回购操作量为零",
+      "fetched_at": "2026-06-03T02:40:59.507686+00:00"
+    },
+    "a675750bb4cc644b": {
+      "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+      "fetched_at": "2026-06-03T02:41:00.151076+00:00"
+    },
+    "ae81a5d319ab490a": {
+      "title": "A股三大指数开盘涨跌不一，贵金属板块下挫",
+      "fetched_at": "2026-06-03T02:41:00.791410+00:00"
+    },
+    "fda03054b9284064": {
+      "title": "Ask HN: Does using non-English languages affect LLM output quality?",
+      "fetched_at": "2026-06-03T02:41:01.408291+00:00"
+    },
+    "b80d444c579e7a21": {
+      "title": "恒指开盘跌0.33%，恒生科技指数跌0.7%",
+      "fetched_at": "2026-06-03T02:41:02.023031+00:00"
+    },
+    "769e368a68bdbf0f": {
+      "title": "关于出生公民权，爱尔兰和德国带来的不同启示",
+      "fetched_at": "2026-06-03T02:41:05.358946+00:00"
+    },
+    "89f93197610d4ef7": {
+      "title": "李宁与库里签约，进军美国运动服装市场",
+      "fetched_at": "2026-06-03T02:41:05.985585+00:00"
+    },
+    "7a29c8e6efc57a8a": {
+      "title": "沉迷白日夢的人 生活在兩個平行世界裡",
+      "fetched_at": "2026-06-03T02:41:06.620129+00:00"
+    },
+    "6a193ab8fc2e0fd8": {
+      "title": "科技公司大裁员，人工智能是原因还是借口？",
+      "fetched_at": "2026-06-03T02:41:07.246806+00:00"
+    },
+    "742ed3c1513dbe95": {
+      "title": "中國山西礦難至少82死 十七年來最致命事故",
+      "fetched_at": "2026-06-03T02:41:07.873998+00:00"
+    },
+    "17cc26492f45d230": {
+      "title": "'It was very very good': Ötzi the Iceman's body is covered in ancient yeast — and scientists just used it to make a sourdough",
+      "fetched_at": "2026-06-03T02:41:11.280140+00:00"
+    },
+    "983f13784042180d": {
+      "title": "Physicists achieve 'perfect randomness' for the first time ever",
+      "fetched_at": "2026-06-03T02:41:11.944366+00:00"
+    },
+    "705630e4100943e6": {
+      "title": "Funeral Cache Discovered in Egypt at Heliopolis",
+      "fetched_at": "2026-06-03T02:41:12.585434+00:00"
     }
   },
-  "last_updated": "2026-06-02T20:33:46.953374+00:00"
+  "last_updated": "2026-06-03T02:41:12.721678+00:00"
 }
