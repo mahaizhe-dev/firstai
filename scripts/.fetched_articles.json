@@ -1,125 +1,5 @@
 {
   "articles": {
-    "c20c640381ea48f5": {
-      "title": "Does a trusted AI asset marketplace solve this issue?",
-      "fetched_at": "2026-05-26T19:53:48.874486+00:00"
-    },
-    "92a79ce858522d91": {
-      "title": "AI chatbots show bias toward Catholicism, researchers say",
-      "fetched_at": "2026-05-26T19:53:49.457075+00:00"
-    },
-    "b6365b50efcc921b": {
-      "title": "LMIM OS – an offline AI ecosystem. Voice, RAG, WhatsApp. ++ One file. 0 setup",
-      "fetched_at": "2026-05-26T19:53:50.044952+00:00"
-    },
-    "693f823a6a7aa296": {
-      "title": "Overview and Comments on Pope Leo's Magnifica Humanitas on AI",
-      "fetched_at": "2026-05-26T19:53:50.612651+00:00"
-    },
-    "0a205adbd32c7493": {
-      "title": "Show HN: Clark-agent, a Rust library for LLM tool loops",
-      "fetched_at": "2026-05-26T19:53:51.280575+00:00"
-    },
-    "4c5a92787a98d401": {
-      "title": "Authors versus AI and the risks to government public sector push",
-      "fetched_at": "2026-05-26T19:53:51.859926+00:00"
-    },
-    "faca0f9e4921b0dd": {
-      "title": "There's at Least One Job That AI Isn't Killing",
-      "fetched_at": "2026-05-26T19:53:52.451807+00:00"
-    },
-    "56b9a8d0f3599fbf": {
-      "title": "AskMingLi: AI-assisted BaZi chart readings",
-      "fetched_at": "2026-05-26T19:53:53.040438+00:00"
-    },
-    "d8c4c50247004095": {
-      "title": "AI Isn't Management. Try Explaining That to Matthew Prince",
-      "fetched_at": "2026-05-26T19:53:53.623113+00:00"
-    },
-    "e3d7e914e635fd2f": {
-      "title": "Who Wants to Be Hired? (May 2026) – AI Engineer (Python, RAG, Agentic Workflows)",
-      "fetched_at": "2026-05-26T19:53:54.210719+00:00"
-    },
-    "b67606d7b95e04c2": {
-      "title": "Reinventing competitive programming for the AI era",
-      "fetched_at": "2026-05-26T19:53:54.780318+00:00"
-    },
-    "f31be1fdbdb7ea1e": {
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "fetched_at": "2026-05-26T19:53:55.386280+00:00"
-    },
-    "48490628265e2401": {
-      "title": "The AI Industry Just Walked into the Vatican",
-      "fetched_at": "2026-05-26T19:53:56.029968+00:00"
-    },
-    "ce349ccb17e45880": {
-      "title": "Humanize – two LLM-agnostic skills to rewrite and detect AI text",
-      "fetched_at": "2026-05-26T19:53:56.632397+00:00"
-    },
-    "a0caaec49c7a6736": {
-      "title": "Show HN: An LLM translator whose source is a single prompt",
-      "fetched_at": "2026-05-26T19:53:57.278690+00:00"
-    },
-    "a589843fad0cb0f7": {
-      "title": "HypeScribe – AI-powered transcription, summaries, and search for any audio/video",
-      "fetched_at": "2026-05-26T19:53:57.964641+00:00"
-    },
-    "ac0e2802ff6961b3": {
-      "title": "Show HN: InterviewSignal – open-source AI-native technical interviews",
-      "fetched_at": "2026-05-26T19:53:58.567415+00:00"
-    },
-    "a6b8718313320b3a": {
-      "title": "Spotify boss defends move to AI music, saying it is better than 'slop'",
-      "fetched_at": "2026-05-26T19:53:59.151710+00:00"
-    },
-    "8dea7446d59e08e7": {
-      "title": "FlowLink: MCP proxy blocking destructive AI agent commands",
-      "fetched_at": "2026-05-26T19:53:59.789276+00:00"
-    },
-    "9063ff78962383ed": {
-      "title": "This startup is betting India’s gig economy can train the world’s robots",
-      "fetched_at": "2026-05-26T19:54:00.388121+00:00"
-    },
-    "e030f0ffd777d509": {
-      "title": "DNA Study Tracks Long-Distance Migration in Peru",
-      "fetched_at": "2026-05-26T19:54:11.972974+00:00"
-    },
-    "c6f18bfc62df00ce": {
-      "title": "Brilliant-green fireball meteor explodes over erupting volcano in the Philippines",
-      "fetched_at": "2026-05-26T19:54:12.547941+00:00"
-    },
-    "bcc73540d7ec1e04": {
-      "title": "Early Iron Production Dated in Central Africa",
-      "fetched_at": "2026-05-26T19:54:13.124602+00:00"
-    },
-    "b87a5759931abd25": {
-      "title": "Sculpture Found in Croatian Cave Depicts Greek Theater Mask",
-      "fetched_at": "2026-05-26T19:54:13.774636+00:00"
-    },
-    "023ed98c5ec8ca5a": {
-      "title": "Gold glitters around Ghana's 'lake of souls' thanks to catastrophic meteor strike — Earth from space",
-      "fetched_at": "2026-05-26T19:54:14.360176+00:00"
-    },
-    "a62eae90660aefa3": {
-      "title": "GPU-Accelerated Alpha Factor Discovery: 30x Faster Than Python GPLearn",
-      "fetched_at": "2026-05-26T19:54:14.937774+00:00"
-    },
-    "8164459b11b58d64": {
-      "title": "Show HN: Auto GPU Kernel – Autonomous GPU-kernel discovery and optimizer",
-      "fetched_at": "2026-05-26T19:54:15.532757+00:00"
-    },
-    "0308e33dcced3395": {
-      "title": "Plant believed extinct for 60 years suddenly reappears",
-      "fetched_at": "2026-05-26T19:54:16.178684+00:00"
-    },
-    "fed54f68e696aa9f": {
-      "title": "Scientists think they’ve cracked the mystery of human right-handedness",
-      "fetched_at": "2026-05-26T19:54:16.759542+00:00"
-    },
-    "118808ced1ab3cf1": {
-      "title": "AI Agents Ran 27,000 Experiments. Their Biggest Discovery",
-      "fetched_at": "2026-05-26T19:54:17.329983+00:00"
-    },
     "9bcbf81bc0e1548e": {
       "title": "创业板指涨逾2%",
       "fetched_at": "2026-05-27T02:12:56.054569+00:00"
@@ -3827,7 +3707,135 @@
     "e120d20e36e78491": {
       "title": "Scientists discover a giant “planet factory” beyond Jupiter",
       "fetched_at": "2026-06-03T16:14:20.873629+00:00"
+    },
+    "05fff904f89b1228": {
+      "title": "AI Agents Enable Adaptive Computer Worms",
+      "fetched_at": "2026-06-03T20:45:52.845861+00:00"
+    },
+    "13fb43c10ce2a539": {
+      "title": "The deadliest poison known to AI",
+      "fetched_at": "2026-06-03T20:45:53.654845+00:00"
+    },
+    "0a44a303463047f5": {
+      "title": "Improve Shopify Product Visibility for AI Search",
+      "fetched_at": "2026-06-03T20:45:54.220522+00:00"
+    },
+    "a5a59cf4ccecc972": {
+      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "fetched_at": "2026-06-03T20:45:54.794363+00:00"
+    },
+    "ec657d9b87f0eedd": {
+      "title": "Show HN: Aeterna – Private, passwordless AI digital legacy vault",
+      "fetched_at": "2026-06-03T20:45:55.361527+00:00"
+    },
+    "eb931f9eaadac507": {
+      "title": "Stophy for AI Agents",
+      "fetched_at": "2026-06-03T20:45:55.925576+00:00"
+    },
+    "16c95de58be32179": {
+      "title": "Trump's Takeover of the American Regulatory Machine",
+      "fetched_at": "2026-06-03T20:45:56.575067+00:00"
+    },
+    "830d5b24afbb1ad1": {
+      "title": "How to Debug AI Agents with Traces and Evals",
+      "fetched_at": "2026-06-03T20:45:57.146022+00:00"
+    },
+    "e785767910f3fbbe": {
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "fetched_at": "2026-06-03T20:45:57.711280+00:00"
+    },
+    "fe0424e9696708d8": {
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "fetched_at": "2026-06-03T20:45:58.299017+00:00"
+    },
+    "02b235636db00507": {
+      "title": "How much AI should my team use? A framework for managers",
+      "fetched_at": "2026-06-03T20:45:58.869358+00:00"
+    },
+    "57e7bc3fb3dd8483": {
+      "title": "AI Is Computation",
+      "fetched_at": "2026-06-03T20:45:59.474622+00:00"
+    },
+    "a069dec4c64b6b5e": {
+      "title": "Coursera now offers an AI-powered feed of short form educational content",
+      "fetched_at": "2026-06-03T20:46:00.040932+00:00"
+    },
+    "4f649e2f0f93356a": {
+      "title": "UN calculates nation-sized environmental footprints for AI and data centers",
+      "fetched_at": "2026-06-03T20:46:00.764891+00:00"
+    },
+    "a97207a776f14897": {
+      "title": "Matt Levine on why no opting out of the AI Boom?",
+      "fetched_at": "2026-06-03T20:46:01.326884+00:00"
+    },
+    "ed79a4128eb5efbe": {
+      "title": "Amazon's search bar will invent AI-generated products you can't buy",
+      "fetched_at": "2026-06-03T20:46:01.897018+00:00"
+    },
+    "fc2dd6072a0658b2": {
+      "title": "A Pro-AI Super PAC's Meme Sockpuppets",
+      "fetched_at": "2026-06-03T20:46:02.528724+00:00"
+    },
+    "e586d901c907e497": {
+      "title": "Leaving the tracking pixel machine to learn C",
+      "fetched_at": "2026-06-03T20:46:03.125292+00:00"
+    },
+    "b9f62ae4fda90511": {
+      "title": "Show HN: CTP Room – a shared chat room where your AI coding agents coordinate",
+      "fetched_at": "2026-06-03T20:46:03.698580+00:00"
+    },
+    "eb99844b64b06658": {
+      "title": "Found a new use case for AI Comics: Product launches",
+      "fetched_at": "2026-06-03T20:46:04.266661+00:00"
+    },
+    "500a39400cac4aab": {
+      "title": "突破防火長城：中國、伊朗、緬甸、委內瑞拉民間如何抵抗網絡封鎖？",
+      "fetched_at": "2026-06-03T20:46:07.297073+00:00"
+    },
+    "a903015201cdd6f1": {
+      "title": "Google wants to release 64 million bacteria-riddled mosquitoes across California and Florida. Here's why scientists are enthusiastic.",
+      "fetched_at": "2026-06-03T20:46:09.318664+00:00"
+    },
+    "3eb297715c03db8c": {
+      "title": "Brass Instrument Unearthed at Michigan’s Colonial Michilimackinac",
+      "fetched_at": "2026-06-03T20:46:09.894484+00:00"
+    },
+    "1c815a82d3aa39ba": {
+      "title": "Road Leading to Ancient City of Side Excavated",
+      "fetched_at": "2026-06-03T20:46:10.745378+00:00"
+    },
+    "e5a596177a02bc7c": {
+      "title": "Medieval Queen’s Remains Exhumed in Spain",
+      "fetched_at": "2026-06-03T20:46:11.313781+00:00"
+    },
+    "6c1774e117791718": {
+      "title": "'In an unrecoverable state': NASA confirms MAVEN spacecraft is officially dead after loss of signal behind Mars",
+      "fetched_at": "2026-06-03T20:46:12.118833+00:00"
+    },
+    "4ef87c5abf3d21ce": {
+      "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
+      "fetched_at": "2026-06-03T20:46:12.692000+00:00"
+    },
+    "8670e42ba58298b7": {
+      "title": "Large Hadron Collider detects strange particle behavior that could rewrite physics",
+      "fetched_at": "2026-06-03T20:46:13.253358+00:00"
+    },
+    "6b6fe8bfcdd4ecdf": {
+      "title": "Scientists create global treasure map pointing to hidden rare earth deposits",
+      "fetched_at": "2026-06-03T20:46:13.826647+00:00"
+    },
+    "33a2005b1d56dc7d": {
+      "title": "Queenless wasp colonies explode into chaos but hidden helpers save them",
+      "fetched_at": "2026-06-03T20:46:14.407196+00:00"
+    },
+    "eeb155a5f34c4b92": {
+      "title": "Venomous Himalayan pit viper was actually 5 different species all along",
+      "fetched_at": "2026-06-03T20:46:14.991903+00:00"
+    },
+    "0d67b807a41d7f29": {
+      "title": "Massive supercomputer simulations unlock cosmic magnetic mystery",
+      "fetched_at": "2026-06-03T20:46:15.559009+00:00"
     }
   },
-  "last_updated": "2026-06-03T16:14:20.976956+00:00"
+  "last_updated": "2026-06-03T20:46:15.707226+00:00"
 }
