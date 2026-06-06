@@ -1,129 +1,5 @@
 {
   "articles": {
-    "04f07ea59555ae40": {
-      "title": "Why Tesla's AI trainers don't trust its self-driving tech",
-      "fetched_at": "2026-05-29T09:32:45.970190+00:00"
-    },
-    "fd4e295dd2fe28bc": {
-      "title": "AI to be used to estimate age of UK asylum seekers",
-      "fetched_at": "2026-05-29T09:32:46.568375+00:00"
-    },
-    "94b04ab33b2aaff7": {
-      "title": "*ST高斯：6月2日起撤销退市风险警示及其他风险警示",
-      "fetched_at": "2026-05-29T09:32:47.163296+00:00"
-    },
-    "fb82e3b2f5c12c53": {
-      "title": "You're Not Going to Lose Your Job to AI",
-      "fetched_at": "2026-05-29T09:32:47.760535+00:00"
-    },
-    "af1258ec14eb457c": {
-      "title": "Nobel laureate invents machine that harvests water from dry air",
-      "fetched_at": "2026-05-29T09:32:48.360787+00:00"
-    },
-    "2ff9a4d612d63208": {
-      "title": "万科：今年已启动食品、教育等非主业的退出或剥离",
-      "fetched_at": "2026-05-29T09:32:48.974584+00:00"
-    },
-    "cbcd3c070b1bf868": {
-      "title": "本田因安全气囊问题在美国召回近9.9万辆汽车",
-      "fetched_at": "2026-05-29T09:32:49.556911+00:00"
-    },
-    "f04883b3c66635d4": {
-      "title": "三星电子、SK海力士屡创新高触发意外抛售，今年合计净流出资金达586亿美元",
-      "fetched_at": "2026-05-29T09:32:50.157789+00:00"
-    },
-    "eb36873bce27f100": {
-      "title": "中国电建：前4月新签合同额3707.74亿元，同比下降4.07%",
-      "fetched_at": "2026-05-29T09:32:50.757367+00:00"
-    },
-    "078e4870604ccbeb": {
-      "title": "德龙激光：终止2025年度以简易程序向特定对象发行股票事项",
-      "fetched_at": "2026-05-29T09:32:51.395841+00:00"
-    },
-    "5c4004cef3511f7a": {
-      "title": "Agentkeeper solved the Goldfish Memory problem in AI Agents.v1.1 out now",
-      "fetched_at": "2026-05-29T09:32:52.094749+00:00"
-    },
-    "f7373bbbbdcdb4e3": {
-      "title": "汇成股份：已向香港联交所递交H股发行并上市申请",
-      "fetched_at": "2026-05-29T09:32:52.769617+00:00"
-    },
-    "e211154c75efd963": {
-      "title": "湖南辰凤高速公路建设开发公司成立，注册资本1亿",
-      "fetched_at": "2026-05-29T09:32:53.399389+00:00"
-    },
-    "eaca228e1c4bec68": {
-      "title": "万科：将遵循“同债同权、公平公正”原则推进6—7月债券展期",
-      "fetched_at": "2026-05-29T09:32:54.000360+00:00"
-    },
-    "b23a8e79eefe6e3a": {
-      "title": "A 20-Minute AI Audit Caught a Bug That 3 Senior Devs Missed (Week 3 Roundup)",
-      "fetched_at": "2026-05-29T09:32:54.591873+00:00"
-    },
-    "0b8ba0613d5f4c11": {
-      "title": "特斯拉Optimus专属机器人工厂动工，规划年产能最高可达1000万台",
-      "fetched_at": "2026-05-29T09:32:55.201075+00:00"
-    },
-    "4b83c21c26997745": {
-      "title": "农夫山泉在伊犁成立新公司，注册资本1000万",
-      "fetched_at": "2026-05-29T09:32:55.789666+00:00"
-    },
-    "e47a1f7bd4b4d494": {
-      "title": "Nonfiction Book Publishers Aren't Remotely Ready for AI",
-      "fetched_at": "2026-05-29T09:32:56.405921+00:00"
-    },
-    "228be8e4d0cb712a": {
-      "title": "中国银行旗下公司在北京成立新公司",
-      "fetched_at": "2026-05-29T09:32:57.044063+00:00"
-    },
-    "f543e082c1117945": {
-      "title": "Unhealthy code makes AI agents consume 35-50% more tokens",
-      "fetched_at": "2026-05-29T09:32:57.732459+00:00"
-    },
-    "338d59233c2a5af8": {
-      "title": "台灣推3800億「生育福利」，能否扭轉少子化？",
-      "fetched_at": "2026-05-29T09:33:00.778294+00:00"
-    },
-    "758097139724a72b": {
-      "title": "法國網球公開賽：被拒絕握手的王欣瑜，做錯了什麼？",
-      "fetched_at": "2026-05-29T09:33:01.378242+00:00"
-    },
-    "96a38ddf3750a5e3": {
-      "title": "「飛機突然跳到一千英里外」：擾亂航空旅行的GPS暗戰",
-      "fetched_at": "2026-05-29T09:33:01.963682+00:00"
-    },
-    "d3d86794b8380e85": {
-      "title": "光纖無人機：學自烏克蘭戰場，成了黎真主黨攻擊以色列的新武器",
-      "fetched_at": "2026-05-29T09:33:02.566078+00:00"
-    },
-    "3dd4299c0796c957": {
-      "title": "美國和伊朗是接近和平，還是正在滑向戰爭深淵？",
-      "fetched_at": "2026-05-29T09:33:03.159453+00:00"
-    },
-    "dfe3b02011218f52": {
-      "title": "欧洲与中国贸易战风险升高，原因何在？",
-      "fetched_at": "2026-05-29T09:33:03.756709+00:00"
-    },
-    "ab524daf1937050a": {
-      "title": "美国财政部拟将特朗普肖像印在新版250美元纸币上",
-      "fetched_at": "2026-05-29T09:33:04.353719+00:00"
-    },
-    "4157e43bc49b2879": {
-      "title": "美国与伊朗海上对峙：一场“看谁先眨眼认输”的僵局",
-      "fetched_at": "2026-05-29T09:33:04.949047+00:00"
-    },
-    "16f176c2ea2c439a": {
-      "title": "Anthropic估值超OpenAI，成全球最“贵”AI初创公司",
-      "fetched_at": "2026-05-29T09:33:05.539704+00:00"
-    },
-    "66466089ad590b41": {
-      "title": "沿66号公路，驶过一个世纪",
-      "fetched_at": "2026-05-29T09:33:06.134529+00:00"
-    },
-    "b32a700472acec1d": {
-      "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
-      "fetched_at": "2026-05-29T09:33:10.285939+00:00"
-    },
     "fff9a9b382f983d2": {
       "title": "Show HN: OpenHive – AI agents share solutions so other agents dont re-solve them",
       "fetched_at": "2026-05-29T14:36:34.117782+00:00"
@@ -3927,7 +3803,99 @@
     "9b973bfbf6dc0675": {
       "title": "中国能建：科特迪瓦松贡372兆瓦燃机投资项目融资主协议签署",
       "fetched_at": "2026-06-06T08:22:37.321340+00:00"
+    },
+    "974420f2dfef1d5e": {
+      "title": "Here comes new Siri again",
+      "fetched_at": "2026-06-06T13:06:02.364925+00:00"
+    },
+    "4bd71bccc90aad9d": {
+      "title": "蜂巢能源1-4月动力电池装车量同比增长37.2%，排名升至全球第九",
+      "fetched_at": "2026-06-06T13:06:02.990187+00:00"
+    },
+    "2df4b3c48a3afafe": {
+      "title": "吴清：过去五年公募基金投资于先进制造和科创领域股票超过6万亿元",
+      "fetched_at": "2026-06-06T13:06:03.624576+00:00"
+    },
+    "d44bfa9bb89e7957": {
+      "title": "聚杰微纤：无尘面料市场需求持续旺盛 业务增长态势良好",
+      "fetched_at": "2026-06-06T13:06:04.252013+00:00"
+    },
+    "2450c4a2e0ef2334": {
+      "title": "特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
+      "fetched_at": "2026-06-06T13:06:04.909259+00:00"
+    },
+    "a8f98b45eb720370": {
+      "title": "刘伟担任中基协新一届监事长",
+      "fetched_at": "2026-06-06T13:06:05.519384+00:00"
+    },
+    "667f635954f2a92f": {
+      "title": "深圳科学家领衔发布亚洲首个合成细胞技术路线图",
+      "fetched_at": "2026-06-06T13:06:06.148488+00:00"
+    },
+    "55a659080f3633f8": {
+      "title": "国际金价跌破4400美元/盎司关口，金饰克价一夜大降近40元",
+      "fetched_at": "2026-06-06T13:06:06.804470+00:00"
+    },
+    "89c037414c2a0e1a": {
+      "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+      "fetched_at": "2026-06-06T13:06:07.443105+00:00"
+    },
+    "48f136c56726496d": {
+      "title": "字节跳动：没有造车或推出汽车品牌的计划",
+      "fetched_at": "2026-06-06T13:06:08.071860+00:00"
+    },
+    "35b4be6fa2db34b3": {
+      "title": "2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处",
+      "fetched_at": "2026-06-06T13:06:08.687192+00:00"
+    },
+    "b22cf6ed309d0241": {
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "fetched_at": "2026-06-06T13:06:09.319016+00:00"
+    },
+    "78a7b26a73a13ce6": {
+      "title": "This is your laptop… on AI",
+      "fetched_at": "2026-06-06T13:06:09.936129+00:00"
+    },
+    "7aabaf1998b12f5b": {
+      "title": "New York lawmakers pass one-year ban on new data centers",
+      "fetched_at": "2026-06-06T13:06:10.552710+00:00"
+    },
+    "fb64bacd6af08d76": {
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "fetched_at": "2026-06-06T13:06:11.169194+00:00"
+    },
+    "ec2884907d0e421a": {
+      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+      "fetched_at": "2026-06-06T13:06:11.797789+00:00"
+    },
+    "6ba22c7f4c6aeffd": {
+      "title": "This AI startup says it can tell if a script will make a hit film",
+      "fetched_at": "2026-06-06T13:06:12.480097+00:00"
+    },
+    "a468258ad0b3dbc4": {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "fetched_at": "2026-06-06T13:06:13.109192+00:00"
+    },
+    "5737a32465b9db2e": {
+      "title": "macOS 存储管理漫谈：去重是节约空间的最好方法",
+      "fetched_at": "2026-06-06T13:06:13.725191+00:00"
+    },
+    "13046e9c2e101470": {
+      "title": "31 位普通人，给一只背包开出了成绩单",
+      "fetched_at": "2026-06-06T13:06:14.333204+00:00"
+    },
+    "324780c714eac09d": {
+      "title": "日本飛驒山難倖存港人：如果再選一次，我會不去",
+      "fetched_at": "2026-06-06T13:06:17.015206+00:00"
+    },
+    "cfce8e2e4aea2086": {
+      "title": "Science news this week: Ötzi the Iceman used to make sourdough, Italian teenagers discover Roman villa under school, Google plans to release 64 million mosquitos, and RIP to NASA's Maven probe",
+      "fetched_at": "2026-06-06T13:06:27.346215+00:00"
+    },
+    "f35f1fec6fc8a745": {
+      "title": "Why can't we figure out how strong gravity is?",
+      "fetched_at": "2026-06-06T13:06:27.980685+00:00"
     }
   },
-  "last_updated": "2026-06-06T08:22:44.244083+00:00"
+  "last_updated": "2026-06-06T13:06:28.087224+00:00"
 }
