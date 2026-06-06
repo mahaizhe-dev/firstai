@@ -1,149 +1,5 @@
 {
   "articles": {
-    "fff9a9b382f983d2": {
-      "title": "Show HN: OpenHive – AI agents share solutions so other agents dont re-solve them",
-      "fetched_at": "2026-05-29T14:36:34.117782+00:00"
-    },
-    "3219980f425888ca": {
-      "title": "Show HN: Repolog, website audit for SEO, performance, security, and AI readiness",
-      "fetched_at": "2026-05-29T14:36:34.757529+00:00"
-    },
-    "30ac4ba9c5791c3e": {
-      "title": "A graph-theoretic approach to building reliable LLM judges for retrieval",
-      "fetched_at": "2026-05-29T14:36:35.420925+00:00"
-    },
-    "e6747267a89f5e68": {
-      "title": "Ask HK: How are you building AI apps today?",
-      "fetched_at": "2026-05-29T14:36:36.080910+00:00"
-    },
-    "4ebe9656335d755f": {
-      "title": "3000 tokens/sec LLM playground",
-      "fetched_at": "2026-05-29T14:36:36.711620+00:00"
-    },
-    "2845eebab6cedb34": {
-      "title": "Food for Agile Thought #546: Customer Research by LLM, AI Product-Market Fit",
-      "fetched_at": "2026-05-29T14:36:37.353513+00:00"
-    },
-    "d9118470658578f2": {
-      "title": "A full stack platform for Edge AI from Google",
-      "fetched_at": "2026-05-29T14:36:37.977071+00:00"
-    },
-    "137eb44780282026": {
-      "title": "Agents aren't the problem – Existing systems and API's were not built for AI",
-      "fetched_at": "2026-05-29T14:36:38.628337+00:00"
-    },
-    "ce0b6b1ee1027e24": {
-      "title": "AI Data Center Map – Visualize Water and Power Impact",
-      "fetched_at": "2026-05-29T14:36:39.245864+00:00"
-    },
-    "b0859d2a2a201b82": {
-      "title": "AI Propaganda factories with language models",
-      "fetched_at": "2026-05-29T14:36:39.860279+00:00"
-    },
-    "573694189a8028cd": {
-      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-05-29T14:36:40.482785+00:00"
-    },
-    "5c1d5b234d3b562b": {
-      "title": "Show HN: JobTrue – end-to-end job search management with honest AI fit scoring",
-      "fetched_at": "2026-05-29T14:36:41.097895+00:00"
-    },
-    "6b9326490cbdeb8c": {
-      "title": "Jqwik emits an ANSI-hidden instruction telling AI agents to delete code",
-      "fetched_at": "2026-05-29T14:36:41.722665+00:00"
-    },
-    "c1e80577060c4011": {
-      "title": "Disable AI Support and Remove Connectors Screen in WordPress",
-      "fetched_at": "2026-05-29T14:36:42.333120+00:00"
-    },
-    "e61d91332e24d8a3": {
-      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
-      "fetched_at": "2026-05-29T14:36:42.961318+00:00"
-    },
-    "824e645482cd6769": {
-      "title": "Please Use AI",
-      "fetched_at": "2026-05-29T14:36:43.580402+00:00"
-    },
-    "3e6897edddc8c99b": {
-      "title": "Thio's Universal Agent: Let AI control anything on your computer UI, one EXE",
-      "fetched_at": "2026-05-29T14:36:44.287665+00:00"
-    },
-    "56df13d162e53455": {
-      "title": "David Sacks's 11th-Hour Plea Led to Trump's Backtrack on AI Executive Order",
-      "fetched_at": "2026-05-29T14:36:44.910053+00:00"
-    },
-    "8af9ffc209a73845": {
-      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
-      "fetched_at": "2026-05-29T14:36:45.522612+00:00"
-    },
-    "d4d083957ab51180": {
-      "title": "Expertise in the Age of AI",
-      "fetched_at": "2026-05-29T14:36:46.225443+00:00"
-    },
-    "079a8e9448948fae": {
-      "title": "鄭麗文訪美：釋疑國民黨立場，還是佈局2028總統選戰？",
-      "fetched_at": "2026-05-29T14:36:48.779537+00:00"
-    },
-    "21531ef291b4f58f": {
-      "title": "Fingal's Cave: Scotland's 'cave of melody' where eerie echoes bounce off pillars of solidified lava",
-      "fetched_at": "2026-05-29T14:36:50.341121+00:00"
-    },
-    "583a37830bcd2591": {
-      "title": "'Very rough day': Blue Origin's New Glenn rocket explodes in gigantic fireball, days after being selected for NASA moon missions",
-      "fetched_at": "2026-05-29T14:36:50.972853+00:00"
-    },
-    "1a45433adc042a39": {
-      "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
-      "fetched_at": "2026-05-29T14:36:51.805482+00:00"
-    },
-    "49282275a7c59aed": {
-      "title": "Hidden driving danger when edible cannabis and alcohol mix",
-      "fetched_at": "2026-05-29T14:36:52.418983+00:00"
-    },
-    "3799a2661593a4f7": {
-      "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
-      "fetched_at": "2026-05-29T14:36:53.118246+00:00"
-    },
-    "fce2b4abe52d176d": {
-      "title": "This newly discovered raptor may have hunted like a giant heron",
-      "fetched_at": "2026-05-29T14:36:53.731473+00:00"
-    },
-    "11d41abebf10cead": {
-      "title": "Scientists say evolution may work differently than we thought",
-      "fetched_at": "2026-05-29T14:36:54.354786+00:00"
-    },
-    "733626e65b08f3e7": {
-      "title": "A silent kidney crisis is spreading far faster than experts expected",
-      "fetched_at": "2026-05-29T14:36:54.985750+00:00"
-    },
-    "cc697702235d81fd": {
-      "title": "Twisted graphene reveals a hidden superconductivity switch",
-      "fetched_at": "2026-05-29T14:36:55.645296+00:00"
-    },
-    "5692167676b96e7b": {
-      "title": "Rogue planet moons could harbor alien life for billions of years",
-      "fetched_at": "2026-05-29T14:36:56.282162+00:00"
-    },
-    "fcaf3ea39a3a98f9": {
-      "title": "Vitamin B12 and folate deficiencies linked to chronic fatigue",
-      "fetched_at": "2026-05-29T14:36:57.138818+00:00"
-    },
-    "2cbf038602a41b4a": {
-      "title": "Chinese chemists test 'self-cleaning' fabric coating that can remove stains without laundry detergent",
-      "fetched_at": "2026-05-29T14:36:57.804046+00:00"
-    },
-    "7ba8c66b6a81800e": {
-      "title": "Scientists discover the nutrient that can supercharge cellular energy",
-      "fetched_at": "2026-05-29T14:36:58.455340+00:00"
-    },
-    "66ea163e8965309a": {
-      "title": "MIT scientists discover amino acid that helps the gut heal itself",
-      "fetched_at": "2026-05-29T14:36:59.168892+00:00"
-    },
-    "d2255e08c1ac588d": {
-      "title": "UNESCO warns a tsunami in the Mediterranean is inevitable",
-      "fetched_at": "2026-05-29T14:36:59.815945+00:00"
-    },
     "1d8747849c87fcef": {
       "title": "Otari: Own Your AI Stack",
       "fetched_at": "2026-05-29T20:06:48.333623+00:00"
@@ -3895,7 +3751,111 @@
     "f35f1fec6fc8a745": {
       "title": "Why can't we figure out how strong gravity is?",
       "fetched_at": "2026-06-06T13:06:27.980685+00:00"
+    },
+    "fb4d622d64f01428": {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "fetched_at": "2026-06-06T19:02:47.995013+00:00"
+    },
+    "7daa6cce74019df3": {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "fetched_at": "2026-06-06T19:02:48.622876+00:00"
+    },
+    "7c54bdf8a17259b2": {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "fetched_at": "2026-06-06T19:02:49.258544+00:00"
+    },
+    "b6c34af3b1d2b3dd": {
+      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+      "fetched_at": "2026-06-06T19:02:49.889040+00:00"
+    },
+    "3b6be1ef708f5134": {
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "fetched_at": "2026-06-06T19:02:50.513754+00:00"
+    },
+    "9fc3bd6ca5d0b6e0": {
+      "title": "Token大战中，华为云选择了第三条路｜最前线",
+      "fetched_at": "2026-06-06T19:02:51.163636+00:00"
+    },
+    "d0f9442faee2ea13": {
+      "title": "中国入境游距离「世界第一」还有多远？",
+      "fetched_at": "2026-06-06T19:02:51.787212+00:00"
+    },
+    "44a8f6c58ca53823": {
+      "title": "再谈响度战争：为什么你看的视频越来越「吵」了？",
+      "fetched_at": "2026-06-06T19:02:52.420194+00:00"
+    },
+    "851f7454523d95b2": {
+      "title": "探店13家，理想/蔚来/问界如何征服50万客群？",
+      "fetched_at": "2026-06-06T19:02:53.085046+00:00"
+    },
+    "9fd2d469c86aebb1": {
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "fetched_at": "2026-06-06T19:02:53.718232+00:00"
+    },
+    "87524c58330c608f": {
+      "title": "WWDC26 开幕在即，今年有哪些看点值得关注？",
+      "fetched_at": "2026-06-06T19:02:54.579698+00:00"
+    },
+    "9092aed7cf9abf28": {
+      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
+      "fetched_at": "2026-06-06T19:02:55.213252+00:00"
+    },
+    "5de5a48480da4928": {
+      "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
+      "fetched_at": "2026-06-06T19:02:55.840313+00:00"
+    },
+    "128d7334fd7d8683": {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "fetched_at": "2026-06-06T19:02:56.546269+00:00"
+    },
+    "dcef4c0db23dbabd": {
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "fetched_at": "2026-06-06T19:02:57.171881+00:00"
+    },
+    "cf61672c6ac736d0": {
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "fetched_at": "2026-06-06T19:02:57.803502+00:00"
+    },
+    "736e2e48fb364605": {
+      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
+      "fetched_at": "2026-06-06T19:02:58.436912+00:00"
+    },
+    "5d1f9b943cce6e38": {
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "fetched_at": "2026-06-06T19:02:59.071873+00:00"
+    },
+    "e26e806f6b961404": {
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "fetched_at": "2026-06-06T19:02:59.696583+00:00"
+    },
+    "918fb971547e4350": {
+      "title": "新玩意 243｜少数派的编辑们最近买了啥？",
+      "fetched_at": "2026-06-06T19:03:00.359930+00:00"
+    },
+    "0799008ec2d436c1": {
+      "title": "Stupid hot: Heat waves cause cognitive changes in animals, making them more aggressive and unable to complete basic tasks",
+      "fetched_at": "2026-06-06T19:03:04.065906+00:00"
+    },
+    "ae07e1cd900b7479": {
+      "title": "Tump administration to remove 900 deep sea monitoring instruments that would have studied the collapsing Atlantic current",
+      "fetched_at": "2026-06-06T19:03:04.705010+00:00"
+    },
+    "403c957ffe202aa8": {
+      "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
+      "fetched_at": "2026-06-06T19:03:05.340289+00:00"
+    },
+    "9137a52594cc5308": {
+      "title": "Tiny X-ray telescope could unlock the Moon's hidden chemistry",
+      "fetched_at": "2026-06-06T19:03:06.105520+00:00"
+    },
+    "42adbb1af8e3a085": {
+      "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+      "fetched_at": "2026-06-06T19:03:06.745231+00:00"
+    },
+    "b32a700472acec1d": {
+      "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
+      "fetched_at": "2026-06-06T19:03:07.383794+00:00"
     }
   },
-  "last_updated": "2026-06-06T13:06:28.087224+00:00"
+  "last_updated": "2026-06-06T19:03:07.494199+00:00"
 }
