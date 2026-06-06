@@ -1,149 +1,5 @@
 {
   "articles": {
-    "c6becd7195f3b5d5": {
-      "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
-      "fetched_at": "2026-05-28T20:03:54.423517+00:00"
-    },
-    "8a75ca65cb762ae6": {
-      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-      "fetched_at": "2026-05-28T20:03:54.994976+00:00"
-    },
-    "0cc3b157d8b31124": {
-      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
-      "fetched_at": "2026-05-28T20:03:55.558498+00:00"
-    },
-    "2ba19dcff929fbc9": {
-      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-      "fetched_at": "2026-05-28T20:03:56.134982+00:00"
-    },
-    "270554b1b1e0e42d": {
-      "title": "Claude’s new model is more ‘honest’ when it messes up",
-      "fetched_at": "2026-05-28T20:03:56.702766+00:00"
-    },
-    "98152472e0488e44": {
-      "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-      "fetched_at": "2026-05-28T20:03:57.279375+00:00"
-    },
-    "c204d06f4562086f": {
-      "title": "YouTube takes baby steps to being a real podcast app",
-      "fetched_at": "2026-05-28T20:03:57.853346+00:00"
-    },
-    "0d8634bf1fcd109d": {
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
-      "fetched_at": "2026-05-28T20:03:58.419452+00:00"
-    },
-    "c7c8afd911074f50": {
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "fetched_at": "2026-05-28T20:03:59.033551+00:00"
-    },
-    "db88cfd9ac367b02": {
-      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
-      "fetched_at": "2026-05-28T20:03:59.604433+00:00"
-    },
-    "6c18a2e322dbbbd8": {
-      "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
-      "fetched_at": "2026-05-28T20:04:00.272977+00:00"
-    },
-    "fa2e43addb08f2d3": {
-      "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
-      "fetched_at": "2026-05-28T20:04:00.843737+00:00"
-    },
-    "6f4344070e6f0557": {
-      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
-      "fetched_at": "2026-05-28T20:04:01.411266+00:00"
-    },
-    "cf307c95e3bc8b92": {
-      "title": "Visa invests in Replit to power agentic payments for developers",
-      "fetched_at": "2026-05-28T20:04:01.997691+00:00"
-    },
-    "5b9dc3f258b924b7": {
-      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
-      "fetched_at": "2026-05-28T20:04:02.564049+00:00"
-    },
-    "0d3e52e3de34d983": {
-      "title": "北京科锐澄清：与特斯拉采购协议仅为意向性约定 存在重大不确定性",
-      "fetched_at": "2026-05-28T20:04:03.133075+00:00"
-    },
-    "8aae21bc6a390f62": {
-      "title": "热门中概股美股盘前多数下跌，理想汽车跌超3%",
-      "fetched_at": "2026-05-28T20:04:03.708948+00:00"
-    },
-    "184649e30d900140": {
-      "title": "美股大型科技股盘前涨跌不一，Meta涨近1%",
-      "fetched_at": "2026-05-28T20:04:04.293974+00:00"
-    },
-    "322c23035a9195ce": {
-      "title": "美国4月核心PCE环比增长0.2%",
-      "fetched_at": "2026-05-28T20:04:04.865110+00:00"
-    },
-    "44dd95f7e1988704": {
-      "title": "日本数百种面粉类产品将于8月涨价",
-      "fetched_at": "2026-05-28T20:04:05.433276+00:00"
-    },
-    "eea1259c813dc621": {
-      "title": "《臺灣漫遊錄》奪布克文學獎：楊双子筆下的台灣美食與殖民記憶",
-      "fetched_at": "2026-05-28T20:04:07.906619+00:00"
-    },
-    "3f8f48069bfd84ea": {
-      "title": "普京晤習近平：美俄元首「前後腳訪華」隱含的外交訊號",
-      "fetched_at": "2026-05-28T20:04:08.493010+00:00"
-    },
-    "5127f1bc41e19cb3": {
-      "title": "從「定義台獨」到「有所收斂」的演說：賴清德如何論述台灣主權？",
-      "fetched_at": "2026-05-28T20:04:09.060543+00:00"
-    },
-    "18eb0c2cd35666e7": {
-      "title": "特朗普前腳離開，普京後腳抵京：兩場訪問背後的中國外交密碼",
-      "fetched_at": "2026-05-28T20:04:09.634203+00:00"
-    },
-    "3fe1ddb2920e2d5b": {
-      "title": "「八年貿易戰」後特朗普再訪華：打破舊平衡，還是重構新底線？",
-      "fetched_at": "2026-05-28T20:04:10.204519+00:00"
-    },
-    "811c1e1fc69cef83": {
-      "title": "Monumental Tomb Uncovered in Southern Turkey",
-      "fetched_at": "2026-05-28T20:04:11.655074+00:00"
-    },
-    "1cb7b867ec532814": {
-      "title": "Scientists Evaluate Sámi Burial in Finland",
-      "fetched_at": "2026-05-28T20:04:12.228758+00:00"
-    },
-    "7da57de3f5dce1e7": {
-      "title": "A single day of attacks on Iranian oil refineries released as much sulfur dioxide as a volcanic eruption",
-      "fetched_at": "2026-05-28T20:04:12.807791+00:00"
-    },
-    "45737e5d21124e15": {
-      "title": "Chemists create 'water armor' that prevents stains and germs from sticking to clothing ‪",
-      "fetched_at": "2026-05-28T20:04:13.378258+00:00"
-    },
-    "cd48d4381b4db969": {
-      "title": "James Webb telescope discovers 'naked' black hole that somehow formed before its own galaxy",
-      "fetched_at": "2026-05-28T20:04:14.024832+00:00"
-    },
-    "9dc55eec70085c40": {
-      "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
-      "fetched_at": "2026-05-28T20:04:14.596161+00:00"
-    },
-    "a9d1ddd8e573a6c0": {
-      "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
-      "fetched_at": "2026-05-28T20:04:15.159640+00:00"
-    },
-    "a9dff3c622b6dcf0": {
-      "title": "Scientists discover massive natural hydrogen source beneath Canada",
-      "fetched_at": "2026-05-28T20:04:15.733914+00:00"
-    },
-    "8a39fbe71fd27eec": {
-      "title": "Scientists use light to create tiny molecules that could transform medicine",
-      "fetched_at": "2026-05-28T20:04:16.318473+00:00"
-    },
-    "003cbf0f9f1da144": {
-      "title": "Scientists found a giant magnetic “twist” hidden inside the Milky Way",
-      "fetched_at": "2026-05-28T20:04:16.915031+00:00"
-    },
-    "eb17beb01bd3f322": {
-      "title": "Britain’s 11,000-year-old “oldest northerner” was a 3-year-old girl, DNA reveals",
-      "fetched_at": "2026-05-28T20:04:17.481851+00:00"
-    },
     "29e767d85272f4f2": {
       "title": "网络安全公司SentinelOne将裁员约8%，加大对AI等领域投资",
       "fetched_at": "2026-05-29T02:04:04.602894+00:00"
@@ -3991,7 +3847,123 @@
     "1708d3db6f7f4535": {
       "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
       "fetched_at": "2026-06-05T19:30:22.316753+00:00"
+    },
+    "9e2d006300afbcba": {
+      "title": "Why sophrosyne, an ancient Greek virtue, matters more than ever in the age of AI",
+      "fetched_at": "2026-06-06T02:02:24.102870+00:00"
+    },
+    "8bc93c109765ed0e": {
+      "title": "Rethinking the Value of Generated Tests for LLM Software Engineering Agents",
+      "fetched_at": "2026-06-06T02:02:24.726415+00:00"
+    },
+    "ac56b0160fc7aae2": {
+      "title": "SpaceX IPO已获得2倍认购资金",
+      "fetched_at": "2026-06-06T02:02:25.357474+00:00"
+    },
+    "8d8459f923788bb3": {
+      "title": "花旗维持对美联储年内降息3次的预测",
+      "fetched_at": "2026-06-06T02:02:25.979870+00:00"
+    },
+    "ed1269805f32861f": {
+      "title": "SpaceX与谷歌达成每月9.2亿美元的云服务协议",
+      "fetched_at": "2026-06-06T02:02:26.612431+00:00"
+    },
+    "22789f20948301e0": {
+      "title": "美股三大指数收盘集体下跌，纳指跌超4%",
+      "fetched_at": "2026-06-06T02:02:27.239795+00:00"
+    },
+    "2ea2edf1ff0adec8": {
+      "title": "Unlocking Non-Uniform KV Cache for Efficient Multi-Turn LLM Serving",
+      "fetched_at": "2026-06-06T02:02:28.016807+00:00"
+    },
+    "fe78de3e0366086a": {
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "fetched_at": "2026-06-06T02:02:28.650985+00:00"
+    },
+    "f8c34fb9dd927a5c": {
+      "title": "The smart TV in your living room is a node in the AI scraping economy",
+      "fetched_at": "2026-06-06T02:02:29.279220+00:00"
+    },
+    "0c0158a4b85afc68": {
+      "title": "She won a religious exemption from using AI at work",
+      "fetched_at": "2026-06-06T02:02:29.936683+00:00"
+    },
+    "1d9140e7dbf57d96": {
+      "title": "ToTra – open-source LLM gateway with GDPR/EU AI Act compliance",
+      "fetched_at": "2026-06-06T02:02:30.563493+00:00"
+    },
+    "47e83548b2ca6a1f": {
+      "title": "Using an AI coding agent with oracle-based testing to build a game emulator",
+      "fetched_at": "2026-06-06T02:02:31.206099+00:00"
+    },
+    "45d8c4730a290f4d": {
+      "title": "Investment leaders share views on AI job displacement as next big risk (2021)",
+      "fetched_at": "2026-06-06T02:02:31.830074+00:00"
+    },
+    "9e8bbebdcad4c2f4": {
+      "title": "SillyTavern: LLM Front End for Power Users",
+      "fetched_at": "2026-06-06T02:02:32.536306+00:00"
+    },
+    "d9e145c1145cfa89": {
+      "title": "Tell HN: AI software development workflow, stack-ranked from HN discussion",
+      "fetched_at": "2026-06-06T02:02:33.166467+00:00"
+    },
+    "1dab6a9112aefa24": {
+      "title": "AI is the major driver of innovation in Canada and around the world",
+      "fetched_at": "2026-06-06T02:02:33.793643+00:00"
+    },
+    "786468d3b8828f03": {
+      "title": "Model alleges retailer used AI to generate likeness under 'minor edits' clause",
+      "fetched_at": "2026-06-06T02:02:34.424263+00:00"
+    },
+    "eedd1b5c93bec461": {
+      "title": "Anthropic warns Claude AI is building itself faster than expected",
+      "fetched_at": "2026-06-06T02:02:35.046125+00:00"
+    },
+    "e17a973e77b15523": {
+      "title": "Understand how you build with AI",
+      "fetched_at": "2026-06-06T02:02:35.862379+00:00"
+    },
+    "145be1551c0a368d": {
+      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+      "fetched_at": "2026-06-06T02:02:36.507656+00:00"
+    },
+    "65ff11705c6bbdf7": {
+      "title": "World's largest scorpion had 6-inch pincers, and prowled UK land and waters 415 million years ago",
+      "fetched_at": "2026-06-06T02:02:41.351008+00:00"
+    },
+    "ea4a03287d4690e7": {
+      "title": "Signs of Respiratory Illness Found on 5,000-Year-Old Children's Bones in Spain",
+      "fetched_at": "2026-06-06T02:02:41.983051+00:00"
+    },
+    "06cc4fcc7c3c9510": {
+      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+      "fetched_at": "2026-06-06T02:02:42.600045+00:00"
+    },
+    "1de3c2be1e710cdb": {
+      "title": "The biggest collagen study yet reveals what actually works",
+      "fetched_at": "2026-06-06T02:02:43.226294+00:00"
+    },
+    "2aea955526677d0a": {
+      "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
+      "fetched_at": "2026-06-06T02:02:43.844012+00:00"
+    },
+    "6650922f04c3c6c4": {
+      "title": "Scottish wrens may be evolving into new species through island gigantism",
+      "fetched_at": "2026-06-06T02:02:44.472598+00:00"
+    },
+    "d05e83bdae53782f": {
+      "title": "Forget LASIK: Safer, cheaper vision correction without lasers or surgery",
+      "fetched_at": "2026-06-06T02:02:45.094191+00:00"
+    },
+    "c60fabebf8b52080": {
+      "title": "A 100-year-old piano mystery has finally been solved",
+      "fetched_at": "2026-06-06T02:02:45.747530+00:00"
+    },
+    "9c9dda76c3adfe57": {
+      "title": "Scientists discover hidden gut-brain circuit that triggers protein cravings",
+      "fetched_at": "2026-06-06T02:02:46.367575+00:00"
     }
   },
-  "last_updated": "2026-06-05T19:30:22.430816+00:00"
+  "last_updated": "2026-06-06T02:02:46.451073+00:00"
 }
