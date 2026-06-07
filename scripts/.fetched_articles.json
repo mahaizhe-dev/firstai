@@ -1,265 +1,5 @@
 {
   "articles": {
-    "1d8747849c87fcef": {
-      "title": "Otari: Own Your AI Stack",
-      "fetched_at": "2026-05-29T20:06:48.333623+00:00"
-    },
-    "3293a426fa1df1c5": {
-      "title": "QEMU may allow AI-generated contributions in non-critical areas",
-      "fetched_at": "2026-05-29T20:06:48.950742+00:00"
-    },
-    "c7639a21dbaa3fda": {
-      "title": "Show HN: 3 of Minutes of AI Anime Based on Korean Comics [video]",
-      "fetched_at": "2026-05-29T20:06:49.611533+00:00"
-    },
-    "726ade7b824c0421": {
-      "title": "I Built RuntimeWire: A One-Person, Mostly-Autonomous AI Newsroom",
-      "fetched_at": "2026-05-29T20:06:50.335430+00:00"
-    },
-    "f91552ab6b4eb8bc": {
-      "title": "AI and the Courts – A Cautionary Tale",
-      "fetched_at": "2026-05-29T20:06:51.005425+00:00"
-    },
-    "cafeaac871b602b2": {
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "fetched_at": "2026-05-29T20:06:51.623589+00:00"
-    },
-    "688b0e371e20a2e5": {
-      "title": "Ronny Chieng's 'Fuck AI' Speech Met with Cheers from Harvard Graduates",
-      "fetched_at": "2026-05-29T20:06:52.252263+00:00"
-    },
-    "aed214ae03b6b786": {
-      "title": "CVE-Bench: testing LLM agents on real-world vulnerability patches",
-      "fetched_at": "2026-05-29T20:06:52.905175+00:00"
-    },
-    "71812007c0fd5f02": {
-      "title": "So you've heard these AI terms and nodded along; let's fix that",
-      "fetched_at": "2026-05-29T20:06:53.525986+00:00"
-    },
-    "1261149130baa678": {
-      "title": "How to become the AI-native hire every company wants",
-      "fetched_at": "2026-05-29T20:06:54.143966+00:00"
-    },
-    "a82f76bf564e166a": {
-      "title": "AI Researchers Have Never Entered the Black Box.we Did",
-      "fetched_at": "2026-05-29T20:06:54.752717+00:00"
-    },
-    "21a7427620c72f26": {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "fetched_at": "2026-05-29T20:06:54.752842+00:00"
-    },
-    "25dd0a0b6afd4072": {
-      "title": "APL's Surprising Learning Curve (2017) [video]",
-      "fetched_at": "2026-05-29T20:06:55.368142+00:00"
-    },
-    "127ee40f1d917e3f": {
-      "title": "Vidai – AI Gateway Written in Rust Community Edition Released",
-      "fetched_at": "2026-05-29T20:06:55.971917+00:00"
-    },
-    "efc5158b68f97662": {
-      "title": "ChatPaper: Explore and AI Chat with the Academic Papers",
-      "fetched_at": "2026-05-29T20:06:56.658484+00:00"
-    },
-    "fd9de7b55bf0974d": {
-      "title": "ARM Open Sources AI-Powered Security Code Review",
-      "fetched_at": "2026-05-29T20:06:57.303137+00:00"
-    },
-    "e9a0c5c76aad4ef9": {
-      "title": "DDS Vibe Academy – 47 free AI coding masterclasses, built by AI agents",
-      "fetched_at": "2026-05-29T20:06:57.950711+00:00"
-    },
-    "ea049513824c2d34": {
-      "title": "AI will be used to estimate age of asylum seekers from next year",
-      "fetched_at": "2026-05-29T20:06:58.584623+00:00"
-    },
-    "4167b855068b2cc7": {
-      "title": "Hybrid local and cloud LLM stack for regulated financial document processing?",
-      "fetched_at": "2026-05-29T20:06:59.200409+00:00"
-    },
-    "797b57b66b2b0420": {
-      "title": "What happens when companies become too AI-pilled?",
-      "fetched_at": "2026-05-29T20:06:59.825738+00:00"
-    },
-    "441167c1dc86f122": {
-      "title": "Colombian Emeralds Identified in Panama Burials",
-      "fetched_at": "2026-05-29T20:07:03.397960+00:00"
-    },
-    "b83905f19c48af85": {
-      "title": "Reservoirs Found in Historic Red Sea Port City",
-      "fetched_at": "2026-05-29T20:07:04.015097+00:00"
-    },
-    "9e14b44e48cf3f84": {
-      "title": "250,000-Year-Old Neanderthal Teeth Analyzed",
-      "fetched_at": "2026-05-29T20:07:04.668506+00:00"
-    },
-    "bcae36b91a9721c0": {
-      "title": "Jewelry Hoard Unearthed in Saudi Arabia",
-      "fetched_at": "2026-05-29T20:07:05.288647+00:00"
-    },
-    "f892943429592ce4": {
-      "title": "Tests that measure 'biological age' aren't helpful for tracking your health, scientists say",
-      "fetched_at": "2026-05-29T20:07:05.895744+00:00"
-    },
-    "0d06785af7475587": {
-      "title": "Japan hits 6G key milestone with high-frequency speeds topping 100 Gbps",
-      "fetched_at": "2026-05-29T20:07:06.609782+00:00"
-    },
-    "af59ffe646853d86": {
-      "title": "War has brought Iran's water crisis to a breaking point: 'Things will collapse unless there is meaningful structural change'",
-      "fetched_at": "2026-05-29T20:07:07.227776+00:00"
-    },
-    "993be9ab8c98ef35": {
-      "title": "OpenAI's internal AI model just solved an 80-year-old math problem ‪—‬ and mathematicians verified it",
-      "fetched_at": "2026-05-29T20:07:07.854751+00:00"
-    },
-    "1177ddad78c7df4f": {
-      "title": "'I would never have guessed it': Unexpected effect is squeezing Mars' atmosphere like toothpaste, experts say",
-      "fetched_at": "2026-05-29T20:07:08.473096+00:00"
-    },
-    "a723696b211ac060": {
-      "title": "Scientists solve 320-million-year mystery of reptile bone armor",
-      "fetched_at": "2026-05-29T20:07:09.076921+00:00"
-    },
-    "76e93b9a47b225bb": {
-      "title": "New quantum sensor could count individual photons and hunt dark matter",
-      "fetched_at": "2026-05-29T20:07:09.692930+00:00"
-    },
-    "af43536220c10ca9": {
-      "title": "Meta计划今年下半年售出1000万台可穿戴设备",
-      "fetched_at": "2026-05-30T01:58:06.948932+00:00"
-    },
-    "5f95b628b02eb6e2": {
-      "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
-      "fetched_at": "2026-05-30T01:58:07.572380+00:00"
-    },
-    "081bf58dff6f8fad": {
-      "title": "Aedis – An open-source macroeconomic framework for the AI transition Body",
-      "fetched_at": "2026-05-30T01:58:08.213244+00:00"
-    },
-    "668f930956a8c370": {
-      "title": "丰田汽车计划11月在巴西开设新工厂",
-      "fetched_at": "2026-05-30T01:58:08.863900+00:00"
-    },
-    "4f3eca77a568aab6": {
-      "title": "百胜据悉与LongRange就出售必胜客独家洽谈",
-      "fetched_at": "2026-05-30T01:58:09.501897+00:00"
-    },
-    "bed4ca2c0fc3b7d9": {
-      "title": "MiniMax启动A股上市辅导",
-      "fetched_at": "2026-05-30T01:58:10.130281+00:00"
-    },
-    "2e24829f86f30ba5": {
-      "title": "What a 98-Year Old Children's Book Teaches Us About AI",
-      "fetched_at": "2026-05-30T01:58:10.838321+00:00"
-    },
-    "1468125cf3ed7a55": {
-      "title": "美股三大股指集体收涨，戴尔大涨近33%创最大单日涨幅",
-      "fetched_at": "2026-05-30T01:58:11.461136+00:00"
-    },
-    "74fcbaed2000c87f": {
-      "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
-      "fetched_at": "2026-05-30T01:58:12.203633+00:00"
-    },
-    "45058e91fbee9f66": {
-      "title": "最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策",
-      "fetched_at": "2026-05-30T01:58:12.840440+00:00"
-    },
-    "1ec30e4da1ffec3c": {
-      "title": "Tokens or Humans? The New AI Cost Trade-Off Reshaping Corporate Budgets [video]",
-      "fetched_at": "2026-05-30T01:58:13.462438+00:00"
-    },
-    "1d4a2d2c45b0400f": {
-      "title": "Software Architecture After AI",
-      "fetched_at": "2026-05-30T01:58:14.080256+00:00"
-    },
-    "7eaf205fdc2fe566": {
-      "title": "China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms",
-      "fetched_at": "2026-05-30T01:58:14.695846+00:00"
-    },
-    "f7fa702f11da9522": {
-      "title": "21 days, $5K, 7 AI agents: how a non-programmer built a talent marketplace",
-      "fetched_at": "2026-05-30T01:58:15.331712+00:00"
-    },
-    "720ba5bb00c78c07": {
-      "title": "Flathub bans AI-generated apps and submissions",
-      "fetched_at": "2026-05-30T01:58:16.042094+00:00"
-    },
-    "92e3e449e5c4e5ea": {
-      "title": "Machine First: Why AEO Is Not SEO 2.0",
-      "fetched_at": "2026-05-30T01:58:16.743720+00:00"
-    },
-    "b765a55abc59104b": {
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "fetched_at": "2026-05-30T01:58:17.367993+00:00"
-    },
-    "2bc8c4de5281bc59": {
-      "title": "GPT 5.5 Bro [video]",
-      "fetched_at": "2026-05-30T01:58:18.003414+00:00"
-    },
-    "b9317b62d698e7f9": {
-      "title": "Where AI coding spend goes: 48% code, 40% thinking",
-      "fetched_at": "2026-05-30T01:58:18.627660+00:00"
-    },
-    "37e2e67b0b8f3548": {
-      "title": "Why AI can't match human creative work",
-      "fetched_at": "2026-05-30T01:58:19.243665+00:00"
-    },
-    "cb642e7c739570eb": {
-      "title": "特朗普稱不樂見「台獨」，台灣民眾怎麼看？",
-      "fetched_at": "2026-05-30T01:59:52.564506+00:00"
-    },
-    "29ddf8010bc6dd42": {
-      "title": "Skeletal remains of Queen Elisenda, one of the most powerful rulers in medieval Europe, unearthed in Barcelona — along with several others who bore unexplained stab wounds",
-      "fetched_at": "2026-05-30T01:59:54.716632+00:00"
-    },
-    "2c12378896fb0228": {
-      "title": "OldPhilly: Mapping historical photos from the Philadelphia City Archive",
-      "fetched_at": "2026-05-30T01:59:55.349980+00:00"
-    },
-    "31c756025880f803": {
-      "title": "A multi-agent system for automating scientific discovery",
-      "fetched_at": "2026-05-30T01:59:55.963781+00:00"
-    },
-    "8ae9704dbfcff26e": {
-      "title": "Friend or foul? Exploring the ancient bond between pigeons and people",
-      "fetched_at": "2026-05-30T01:59:56.588989+00:00"
-    },
-    "a38cf849d6b17942": {
-      "title": "Show HN: A searchable archive of 500 historical medical curiosities",
-      "fetched_at": "2026-05-30T01:59:57.215801+00:00"
-    },
-    "b0afefb082c37617": {
-      "title": "Childhood junk food may rewire the brain for life",
-      "fetched_at": "2026-05-30T01:59:57.838087+00:00"
-    },
-    "674d877973508c97": {
-      "title": "Common pesticide linked to hidden brain damage, scientists warn",
-      "fetched_at": "2026-05-30T01:59:58.563677+00:00"
-    },
-    "21e4acc1f582e460": {
-      "title": "Scientists discover strange “narwhal” waves that trap light beyond known limits",
-      "fetched_at": "2026-05-30T01:59:59.191120+00:00"
-    },
-    "02c5a247ce8c62c2": {
-      "title": "Physicists finally solve the strange mystery of “breathing” lasers",
-      "fetched_at": "2026-05-30T01:59:59.924307+00:00"
-    },
-    "2900aa0242146174": {
-      "title": "Jupiter’s lightning may be 100x more powerful than Earth’s",
-      "fetched_at": "2026-05-30T02:00:00.550842+00:00"
-    },
-    "9041e1296e22130a": {
-      "title": "Scientists discover a strange “inside-out” planetary system that shouldn’t exist",
-      "fetched_at": "2026-05-30T02:00:01.177357+00:00"
-    },
-    "a23ee26527af6591": {
-      "title": "Atlassian's MCP server: no RFC 9728 discovery path resolves",
-      "fetched_at": "2026-05-30T02:00:01.807300+00:00"
-    },
-    "ada65f801586c863": {
-      "title": "Bubbles: Blog Post Discovery",
-      "fetched_at": "2026-05-30T02:00:02.429358+00:00"
-    },
     "f3916bcc4e0ce21c": {
       "title": "广汽资本完成对领伟创新投资",
       "fetched_at": "2026-05-30T08:14:27.308772+00:00"
@@ -3855,7 +3595,139 @@
     "b32a700472acec1d": {
       "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
       "fetched_at": "2026-06-06T19:03:07.383794+00:00"
+    },
+    "fa7fcc8d63e3d099": {
+      "title": "广州南沙与深圳宝安拟启动住房公积金异地使用",
+      "fetched_at": "2026-06-07T02:29:37.499176+00:00"
+    },
+    "207b263797407754": {
+      "title": "比特币升破61000美元，日内涨0.34%",
+      "fetched_at": "2026-06-07T02:29:38.141510+00:00"
+    },
+    "9a9b8e7509900091": {
+      "title": "韩国投资者持续买入中国硬科技",
+      "fetched_at": "2026-06-07T02:29:38.723569+00:00"
+    },
+    "c135c742990db679": {
+      "title": "Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments",
+      "fetched_at": "2026-06-07T02:29:39.320137+00:00"
+    },
+    "d558badb9ede3dc7": {
+      "title": "我国乘用车12年胖了近400公斤 我国新能源车要减肥了",
+      "fetched_at": "2026-06-07T02:29:39.891432+00:00"
+    },
+    "78b44a4fb00ef00d": {
+      "title": "Ask HN: Where do you get the latest updates about AI?",
+      "fetched_at": "2026-06-07T02:29:40.564730+00:00"
+    },
+    "58f4fe990c205202": {
+      "title": "When Can Amazon Block an Agentic AI Service?–Amazon vs. Perplexity",
+      "fetched_at": "2026-06-07T02:29:41.161913+00:00"
+    },
+    "bcca4f4259c5b00d": {
+      "title": "国开行：前4月发放4406亿元贷款支持基础设施建设",
+      "fetched_at": "2026-06-07T02:29:41.738575+00:00"
+    },
+    "12ded5636923365e": {
+      "title": "2026年全国统一高考今天开考",
+      "fetched_at": "2026-06-07T02:29:42.358233+00:00"
+    },
+    "d3d10ee4a54692db": {
+      "title": "Ultra-High-Speed Cutting for High-Performance Difficult-to-Machine Composites",
+      "fetched_at": "2026-06-07T02:29:42.942169+00:00"
+    },
+    "8434907d8649cb51": {
+      "title": "包钢股份：成功研发并批量生产超高强稀土耐磨钢",
+      "fetched_at": "2026-06-07T02:29:43.524316+00:00"
+    },
+    "4cbe7b6a0bc663ce": {
+      "title": "我国清洁低碳氢煤混烧技术取得重大突破",
+      "fetched_at": "2026-06-07T02:29:44.091804+00:00"
+    },
+    "ee0157db8e6d73b7": {
+      "title": "AI Criticism",
+      "fetched_at": "2026-06-07T02:29:44.684537+00:00"
+    },
+    "0bfa9f9161ab0ce8": {
+      "title": "Show HN: Persist – an AI agent that follows up accrued channels till they reply",
+      "fetched_at": "2026-06-07T02:29:45.291635+00:00"
+    },
+    "778a4dee90118e6f": {
+      "title": "Is AI Anxiety Causing the Vibecession? An Investigation",
+      "fetched_at": "2026-06-07T02:29:45.865539+00:00"
+    },
+    "32beb4615f80603d": {
+      "title": "AI is the greatest money-wasting scheme humanity has ever invented",
+      "fetched_at": "2026-06-07T02:29:46.449587+00:00"
+    },
+    "95209d943f614967": {
+      "title": "You can't detect your way out of catastrophic LLM failure",
+      "fetched_at": "2026-06-07T02:29:47.027686+00:00"
+    },
+    "b42c1bf8d2d95664": {
+      "title": "AI Can now control your desktop",
+      "fetched_at": "2026-06-07T02:29:47.612147+00:00"
+    },
+    "6565a19b7d6bcb5f": {
+      "title": "GitHub Copilot: GPT-5.2 and GPT-5.2-Codex deprecated",
+      "fetched_at": "2026-06-07T02:29:48.194561+00:00"
+    },
+    "95e95a29ced48203": {
+      "title": "Why Aren't We Measuring How AI Affects Humans?",
+      "fetched_at": "2026-06-07T02:29:48.854650+00:00"
+    },
+    "079a8e9448948fae": {
+      "title": "鄭麗文訪美：釋疑國民黨立場，還是佈局2028總統選戰？",
+      "fetched_at": "2026-06-07T02:29:51.144056+00:00"
+    },
+    "4af236ceacc3e067": {
+      "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
+      "fetched_at": "2026-06-07T02:29:53.406714+00:00"
+    },
+    "69a8404594ac63a1": {
+      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+      "fetched_at": "2026-06-07T02:29:53.982997+00:00"
+    },
+    "b8a19bd2c67da355": {
+      "title": "Show HN: Website chat for product discovery instead of support",
+      "fetched_at": "2026-06-07T02:29:54.593359+00:00"
+    },
+    "49282275a7c59aed": {
+      "title": "Hidden driving danger when edible cannabis and alcohol mix",
+      "fetched_at": "2026-06-07T02:29:55.167932+00:00"
+    },
+    "3799a2661593a4f7": {
+      "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
+      "fetched_at": "2026-06-07T02:29:55.827772+00:00"
+    },
+    "fce2b4abe52d176d": {
+      "title": "This newly discovered raptor may have hunted like a giant heron",
+      "fetched_at": "2026-06-07T02:29:56.525085+00:00"
+    },
+    "11d41abebf10cead": {
+      "title": "Scientists say evolution may work differently than we thought",
+      "fetched_at": "2026-06-07T02:29:57.104295+00:00"
+    },
+    "733626e65b08f3e7": {
+      "title": "A silent kidney crisis is spreading far faster than experts expected",
+      "fetched_at": "2026-06-07T02:29:57.692178+00:00"
+    },
+    "1a45433adc042a39": {
+      "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
+      "fetched_at": "2026-06-07T02:29:58.264738+00:00"
+    },
+    "cc697702235d81fd": {
+      "title": "Twisted graphene reveals a hidden superconductivity switch",
+      "fetched_at": "2026-06-07T02:29:58.858917+00:00"
+    },
+    "5692167676b96e7b": {
+      "title": "Rogue planet moons could harbor alien life for billions of years",
+      "fetched_at": "2026-06-07T02:29:59.551651+00:00"
+    },
+    "fcaf3ea39a3a98f9": {
+      "title": "Vitamin B12 and folate deficiencies linked to chronic fatigue",
+      "fetched_at": "2026-06-07T02:30:00.135170+00:00"
     }
   },
-  "last_updated": "2026-06-06T19:03:07.494199+00:00"
+  "last_updated": "2026-06-07T02:30:00.291151+00:00"
 }
