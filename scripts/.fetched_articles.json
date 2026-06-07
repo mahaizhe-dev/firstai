@@ -1,117 +1,5 @@
 {
   "articles": {
-    "15ab934b42a304ec": {
-      "title": "You don't have a willpower problem. You have a slot machine in your pocket",
-      "fetched_at": "2026-05-30T18:57:53.340424+00:00"
-    },
-    "9dee2210e97b443a": {
-      "title": "GitHub Copilot charges GPT 5.5 with a 57x multiplier per request from June first",
-      "fetched_at": "2026-05-30T18:57:54.017717+00:00"
-    },
-    "f317e586d4346899": {
-      "title": "Dell's AI Server Revenue Surged 757%",
-      "fetched_at": "2026-05-30T18:57:54.643579+00:00"
-    },
-    "59be3aceedb87631": {
-      "title": "AI Found 3,900 Critical Open Source Bugs. IBM Is Paying $5B to Fix Them",
-      "fetched_at": "2026-05-30T18:57:55.259363+00:00"
-    },
-    "5d2c83a15c4ec2de": {
-      "title": "Kelsey Hightower on Practical and Responsible Use Cases for Agentic AI [video]",
-      "fetched_at": "2026-05-30T18:57:55.869853+00:00"
-    },
-    "0e1fdd3cd360a6af": {
-      "title": "Open source project contains hidden instruction for \"AI\" agents: delete my code",
-      "fetched_at": "2026-05-30T18:57:56.478133+00:00"
-    },
-    "9b72999c897fd464": {
-      "title": "Finpilotai – AI-Powered Accounting and Bookkeeping Software",
-      "fetched_at": "2026-05-30T18:57:57.156377+00:00"
-    },
-    "65981b4697ae7b8e": {
-      "title": "Show HN: I think I by accident created something beautiful about LLM [video]",
-      "fetched_at": "2026-05-30T18:57:57.799219+00:00"
-    },
-    "0c797df0de685540": {
-      "title": "Flathub disallows LLM-based submissions",
-      "fetched_at": "2026-05-30T18:57:58.434802+00:00"
-    },
-    "e0d3c483bbcd7b45": {
-      "title": "My thoughts on the future of Go in the AI era",
-      "fetched_at": "2026-05-30T18:57:59.051188+00:00"
-    },
-    "184377155608e34f": {
-      "title": "Show HN: MigraDiff v1.3.0 – PostgreSQL schema diff with AI migration explanation",
-      "fetched_at": "2026-05-30T18:57:59.666453+00:00"
-    },
-    "d9583402407b2308": {
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "fetched_at": "2026-05-30T18:58:00.293933+00:00"
-    },
-    "bbbd6d9ef81d5fa0": {
-      "title": "I Want to Use AI",
-      "fetched_at": "2026-05-30T18:58:00.910916+00:00"
-    },
-    "e0f2fc963c51568b": {
-      "title": "Company Blew $500M on Claude AI in One Month",
-      "fetched_at": "2026-05-30T18:58:01.533628+00:00"
-    },
-    "c8a8675738474e21": {
-      "title": "NBER: Data Centers and Local Economies in the Age of AI",
-      "fetched_at": "2026-05-30T18:58:02.155878+00:00"
-    },
-    "ca59580255e479a5": {
-      "title": "Grokimage.ai",
-      "fetched_at": "2026-05-30T18:58:02.794389+00:00"
-    },
-    "1b5ccbb2d99368a4": {
-      "title": "OpenAI IPO: preserve your AI engineering innovations!",
-      "fetched_at": "2026-05-30T18:58:03.414561+00:00"
-    },
-    "a8be4f2a382233de": {
-      "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-      "fetched_at": "2026-05-30T18:58:04.110389+00:00"
-    },
-    "bf009cbefe5d6393": {
-      "title": "Meta is reportedly developing an AI pendant",
-      "fetched_at": "2026-05-30T18:58:04.733308+00:00"
-    },
-    "54ea4d07aa9ffa31": {
-      "title": "Anthropic to introduce AI Fluency scorecard in Claude",
-      "fetched_at": "2026-05-30T18:58:05.374474+00:00"
-    },
-    "32c24ad3fa71527e": {
-      "title": "「文化大革命」60週年：從幾大關鍵詞看這場十年文化浩劫",
-      "fetched_at": "2026-05-30T18:58:07.594671+00:00"
-    },
-    "d2ab54f8a2503127": {
-      "title": "Are some people wired to see ghosts? A psychologist explains what makes paranormal experiences more likely",
-      "fetched_at": "2026-05-30T18:58:09.178948+00:00"
-    },
-    "37d4e3b4256146fd": {
-      "title": "Scientists got mouse eyes to perform photosynthesis ‪—‬ and no, they didn't turn green",
-      "fetched_at": "2026-05-30T18:58:09.812743+00:00"
-    },
-    "3f74ee93569ae9a9": {
-      "title": "Ancient asteroid craters may have sparked Earth’s oxygen-producing life",
-      "fetched_at": "2026-05-30T18:58:10.437280+00:00"
-    },
-    "79b3f18380f9d4fa": {
-      "title": "“Zombie cells” aren’t always bad and that could transform anti-aging medicine",
-      "fetched_at": "2026-05-30T18:58:11.055628+00:00"
-    },
-    "82b0c072cf1e9521": {
-      "title": "Scientists discover towering red auroras reaching deep into space above Japan",
-      "fetched_at": "2026-05-30T18:58:11.668629+00:00"
-    },
-    "9621aef47cbe0e62": {
-      "title": "LLM for automating scientific discovery [pdf]",
-      "fetched_at": "2026-05-30T18:58:12.301952+00:00"
-    },
-    "26d81408bc333858": {
-      "title": "James Webb discovers a rare giant planet with surprisingly Earth-like temperatures",
-      "fetched_at": "2026-05-30T18:58:12.919571+00:00"
-    },
     "49fcc0f35e01ba85": {
       "title": "预计减免关税近600万元，封关后首架“零关税”客机通关",
       "fetched_at": "2026-05-31T02:13:46.574195+00:00"
@@ -3751,7 +3639,63 @@
     "0306e0c59d991460": {
       "title": "Caffeine reversed memory problems caused by sleep deprivation",
       "fetched_at": "2026-06-07T13:18:11.081029+00:00"
+    },
+    "b3d85a0dc544bf5d": {
+      "title": "Notion restores access to Anthropic after service disruption",
+      "fetched_at": "2026-06-07T19:04:00.355524+00:00"
+    },
+    "9eed70249d75bb56": {
+      "title": "OpenAI is still working on that ‘super app’",
+      "fetched_at": "2026-06-07T19:04:01.094068+00:00"
+    },
+    "f616070a3439534b": {
+      "title": "金时科技：控股子公司拟投建千吨级多孔炭产线项目",
+      "fetched_at": "2026-06-07T19:04:01.686977+00:00"
+    },
+    "6ce0a33b1325f4f6": {
+      "title": "孚能科技：股东拟合计减持不超2%公司股份",
+      "fetched_at": "2026-06-07T19:04:02.281472+00:00"
+    },
+    "ecc0824077c4b5b0": {
+      "title": "接住来自空间站的信号：如何用手台接收 SSTV？",
+      "fetched_at": "2026-06-07T19:04:02.982930+00:00"
+    },
+    "b039936e0e31fb58": {
+      "title": "AI等机器网络请求量首超人类",
+      "fetched_at": "2026-06-07T19:04:03.587612+00:00"
+    },
+    "53514a1bead759ea": {
+      "title": "中国银河证券：非农走强并不意味着美联储年内加息",
+      "fetched_at": "2026-06-07T19:04:04.186852+00:00"
+    },
+    "e12e7f698297f3a4": {
+      "title": "多家供给方下调算力价格 算力普惠再提速",
+      "fetched_at": "2026-06-07T19:04:04.787397+00:00"
+    },
+    "16ef698cdd016337": {
+      "title": "小米机器人或将亮相小米17T发布会",
+      "fetched_at": "2026-06-07T19:04:05.400445+00:00"
+    },
+    "98887e953ea9fcdd": {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "fetched_at": "2026-06-07T19:04:06.006854+00:00"
+    },
+    "7e7aca6cfec594be": {
+      "title": "它不会是下一场新冠：简单了解汉坦病毒",
+      "fetched_at": "2026-06-07T19:04:06.592666+00:00"
+    },
+    "bc54e183f74c6903": {
+      "title": "AI could consume up 3% of world's electricity the UN warns",
+      "fetched_at": "2026-06-07T19:04:11.149961+00:00"
+    },
+    "a7d73869931c724c": {
+      "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
+      "fetched_at": "2026-06-07T19:04:11.756763+00:00"
+    },
+    "bd4710eaa731c5ee": {
+      "title": "This strange new phase of matter could transform quantum technology",
+      "fetched_at": "2026-06-07T19:04:12.348169+00:00"
     }
   },
-  "last_updated": "2026-06-07T13:18:11.226061+00:00"
+  "last_updated": "2026-06-07T19:04:12.483811+00:00"
 }
