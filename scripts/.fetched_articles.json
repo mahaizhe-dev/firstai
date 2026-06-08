@@ -1,109 +1,5 @@
 {
   "articles": {
-    "534b4ed3592cc0fb": {
-      "title": "AI content is great if you know it's AI",
-      "fetched_at": "2026-05-31T13:11:13.119359+00:00"
-    },
-    "a82c73e5d60e2e9b": {
-      "title": "Ask HN: Anyone missing the human aspect of pre AI?",
-      "fetched_at": "2026-05-31T13:11:13.726234+00:00"
-    },
-    "db22d04f2e3c4386": {
-      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "fetched_at": "2026-05-31T13:11:14.325013+00:00"
-    },
-    "7ccd891bab4141c2": {
-      "title": "Show HN: My tiny project MyTube Newsletter – daily AI digest of YouTube subs",
-      "fetched_at": "2026-05-31T13:11:14.934146+00:00"
-    },
-    "1cdcbf4fb4e0e028": {
-      "title": "AI Agents Plunged the Tech World into Chaos",
-      "fetched_at": "2026-05-31T13:11:15.622318+00:00"
-    },
-    "e29bf89d34ac2a42": {
-      "title": "Creating got easier. Meaning got harder (AI and volume creation)",
-      "fetched_at": "2026-05-31T13:11:16.241991+00:00"
-    },
-    "057387b5e77b7d40": {
-      "title": "Reinforcement learning in language models recruits a functional welfare axis",
-      "fetched_at": "2026-05-31T13:11:16.853937+00:00"
-    },
-    "bcc74e8a7d8dde2b": {
-      "title": "SpaceX Has Two AI Compute Stories; Only One Generates Revenue",
-      "fetched_at": "2026-05-31T13:11:17.505375+00:00"
-    },
-    "e224b800ca5407ea": {
-      "title": "People Getting Falsely Accused of Using AI to Write",
-      "fetched_at": "2026-05-31T13:11:18.178379+00:00"
-    },
-    "5e348495369a7641": {
-      "title": "The Impact of AI-Assisted Development on Software Security",
-      "fetched_at": "2026-05-31T13:11:18.762831+00:00"
-    },
-    "a567dccdac6e2a15": {
-      "title": "Curated list of AI apps for visual creation",
-      "fetched_at": "2026-05-31T13:11:19.403860+00:00"
-    },
-    "a391b0dd0760dade": {
-      "title": "AI Agent that at inference time updates it's harness and model weights",
-      "fetched_at": "2026-05-31T13:11:20.011636+00:00"
-    },
-    "1edcf5e748a84e0c": {
-      "title": "Show HN: Free cloud-based tool for managing AI agents across multiple hosts",
-      "fetched_at": "2026-05-31T13:11:20.638028+00:00"
-    },
-    "f88e6b97cd921f19": {
-      "title": "Unlimited free AI tools and more, live demo. watch now [video]",
-      "fetched_at": "2026-05-31T13:11:21.279739+00:00"
-    },
-    "01299a72ffc6e7b6": {
-      "title": "Why AI isn't showing up on your bottom line",
-      "fetched_at": "2026-05-31T13:11:21.955058+00:00"
-    },
-    "d396ec49ca75c5ee": {
-      "title": "Unity AI Suite",
-      "fetched_at": "2026-05-31T13:11:22.556223+00:00"
-    },
-    "2a6150a9915f2b5e": {
-      "title": "Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes",
-      "fetched_at": "2026-05-31T13:11:23.166588+00:00"
-    },
-    "1b528665d8a39f90": {
-      "title": "Show HN: Overslash – an auth gateway for AI Agents",
-      "fetched_at": "2026-05-31T13:11:23.781686+00:00"
-    },
-    "bcd5b2751854055b": {
-      "title": "Russia Revives WWI Dazzle Camouflage to Evade Ukrainian AI Drones–Does It Work?",
-      "fetched_at": "2026-05-31T13:11:24.384079+00:00"
-    },
-    "058046cebcc9526d": {
-      "title": "How to Think About AI in Your Product",
-      "fetched_at": "2026-05-31T13:11:24.972212+00:00"
-    },
-    "a5d326f13ae14103": {
-      "title": "James Webb spots the most chemically primitive galaxy in the ancient universe",
-      "fetched_at": "2026-05-31T13:11:36.343912+00:00"
-    },
-    "2ddf5356f60d49e8": {
-      "title": "'Astonishing': James Webb telescope spots the most chemically primitive galaxy in the ancient universe",
-      "fetched_at": "2026-05-31T13:11:36.949201+00:00"
-    },
-    "c4b8ecf3e9cc6cbb": {
-      "title": "Astronomers gaze into the 'Crystal Ball Nebula' and see a vision of our dying sun — Space photo of the week",
-      "fetched_at": "2026-05-31T13:11:37.633335+00:00"
-    },
-    "21aefff719dbc2a2": {
-      "title": "How many generations of humans have there been?",
-      "fetched_at": "2026-05-31T13:11:38.505012+00:00"
-    },
-    "73a553fad7dca486": {
-      "title": "The secret to pigeons’ incredible navigation was hiding in their liver",
-      "fetched_at": "2026-05-31T13:11:39.291934+00:00"
-    },
-    "6118f2412297f378": {
-      "title": "Intermittent fasting triggers surprising changes in the brain",
-      "fetched_at": "2026-05-31T13:11:39.876156+00:00"
-    },
     "4edf5034d82ecb64": {
       "title": "Making sense of the debate over AI psychosis",
       "fetched_at": "2026-05-31T19:00:52.186646+00:00"
@@ -3683,7 +3579,127 @@
     "706fa35040a8ddee": {
       "title": "AI could consume up to 3% of world's electricity the UN warns",
       "fetched_at": "2026-06-08T10:14:59.028985+00:00"
+    },
+    "bd53aa5a82f5d3cf": {
+      "title": "AI and the invisible newcomer in open source",
+      "fetched_at": "2026-06-08T15:24:35.814699+00:00"
+    },
+    "ff7bab0f61b4fbd0": {
+      "title": "Amid a flood of AI advances astrophysicists are questioning soul of their field",
+      "fetched_at": "2026-06-08T15:24:36.561776+00:00"
+    },
+    "f87f2b9767d8b0e3": {
+      "title": "Meta AI Instagram Hack Wasn't About Authentication. It Was About Authorization",
+      "fetched_at": "2026-06-08T15:24:37.211998+00:00"
+    },
+    "88a765afde1d39b0": {
+      "title": "\"a game of court intrigue where AI simulates the various courtiers\"",
+      "fetched_at": "2026-06-08T15:24:37.833057+00:00"
+    },
+    "f9d015280c7a47c5": {
+      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+      "fetched_at": "2026-06-08T15:24:38.453924+00:00"
+    },
+    "eea5f93c13469085": {
+      "title": "AI costs are rising, but proving value is still a challenge",
+      "fetched_at": "2026-06-08T15:24:39.076492+00:00"
+    },
+    "4f7bc416283fb903": {
+      "title": "There should have been an op-ed here but you filed AI slop",
+      "fetched_at": "2026-06-08T15:24:39.717246+00:00"
+    },
+    "2a6ca78bc2dbfe58": {
+      "title": "AI \"content creators\" are getting harder to spot",
+      "fetched_at": "2026-06-08T15:24:39.717355+00:00"
+    },
+    "4097d5a5b960d5fe": {
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "fetched_at": "2026-06-08T15:24:40.375575+00:00"
+    },
+    "a3ee1c95eec9f528": {
+      "title": "How AI is reshaping discovery in maths and physics",
+      "fetched_at": "2026-06-08T15:24:40.990785+00:00"
+    },
+    "168a2dfa650d1cd8": {
+      "title": "Show HN: RiskKernel – a kill switch and budgets for runaway AI agents",
+      "fetched_at": "2026-06-08T15:24:41.618384+00:00"
+    },
+    "bea2832e057ea6ca": {
+      "title": "OpenEvidence: An AI Copilot for Doctors",
+      "fetched_at": "2026-06-08T15:24:42.244086+00:00"
+    },
+    "d0ae002e9f39643e": {
+      "title": "AI is masking America's \"post-literate\" workforce",
+      "fetched_at": "2026-06-08T15:24:42.867632+00:00"
+    },
+    "4a657fb7a845f4dd": {
+      "title": "AI CostGuard – Local-first runtime safety layer for AI agents",
+      "fetched_at": "2026-06-08T15:24:43.523968+00:00"
+    },
+    "aca4fd2173626944": {
+      "title": "AI Can Reverse-Engineer Hardware. I Can't Turn Off My Own Alarm",
+      "fetched_at": "2026-06-08T15:24:44.214038+00:00"
+    },
+    "5e9b92d22c597892": {
+      "title": "Artists`re making antislop to rebel against AI:It's been rammed down our throats",
+      "fetched_at": "2026-06-08T15:24:44.970959+00:00"
+    },
+    "9a56660f62acc3b1": {
+      "title": "Show HN: GitHub Copilot port of Anthropic's AI vulnerability discovery harness",
+      "fetched_at": "2026-06-08T15:24:45.616875+00:00"
+    },
+    "dab81577cae42310": {
+      "title": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
+      "fetched_at": "2026-06-08T15:24:46.241590+00:00"
+    },
+    "76545d434f8bece1": {
+      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "fetched_at": "2026-06-08T15:24:46.854683+00:00"
+    },
+    "717134a64c7c3e79": {
+      "title": "Poor Man's Time Machine: Lazy Evaluation in JavaScript and Haskell",
+      "fetched_at": "2026-06-08T15:24:47.491964+00:00"
+    },
+    "c19f031973d34709": {
+      "title": "韓國選舉「缺票」抗議延燒 票站職員重組事發經過",
+      "fetched_at": "2026-06-08T15:24:49.815884+00:00"
+    },
+    "3f9246dfd7b686e1": {
+      "title": "情誼還是籌碼？習近平出訪朝鮮，能否在俄朝關係中重奪主導地位？",
+      "fetched_at": "2026-06-08T15:24:50.445475+00:00"
+    },
+    "57fcec2f6cd2c692": {
+      "title": "習近平抵達平壤 時隔七年中國領導人再度訪朝",
+      "fetched_at": "2026-06-08T15:24:51.085616+00:00"
+    },
+    "6bda826e17a818b6": {
+      "title": "Doctors need to understand patients' lived experiences to treat them well — but medical schools may stop requiring that training",
+      "fetched_at": "2026-06-08T15:24:52.774634+00:00"
+    },
+    "d25d71200f3e48af": {
+      "title": "This yeast-based 3D printed biomaterial could one day replace your wallpaper and drapes",
+      "fetched_at": "2026-06-08T15:24:53.378025+00:00"
+    },
+    "cf78dcf04ff87381": {
+      "title": "Scientists discover the brain chemical that helps you break bad habits",
+      "fetched_at": "2026-06-08T15:24:54.005116+00:00"
+    },
+    "4f6120d3750c4029": {
+      "title": "What is space-time? A mystery at the heart of reality",
+      "fetched_at": "2026-06-08T15:24:54.624486+00:00"
+    },
+    "2f81969cfa33b432": {
+      "title": "Scientists may have debunked one of humanity's oldest habits",
+      "fetched_at": "2026-06-08T15:24:55.240674+00:00"
+    },
+    "abaefa7a0c0439a2": {
+      "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
+      "fetched_at": "2026-06-08T15:24:55.864213+00:00"
+    },
+    "a074a05c5014d5c3": {
+      "title": "Look up tonight: Jupiter and Venus will almost touch in one of 2026's best skywatching events",
+      "fetched_at": "2026-06-08T15:24:56.509488+00:00"
     }
   },
-  "last_updated": "2026-06-08T10:14:59.133003+00:00"
+  "last_updated": "2026-06-08T15:24:56.612734+00:00"
 }
