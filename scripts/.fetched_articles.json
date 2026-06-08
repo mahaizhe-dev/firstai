@@ -1,125 +1,5 @@
 {
   "articles": {
-    "1f30287f1e074fdb": {
-      "title": "AI Dark Output: The Visible Cost of Invisible Output",
-      "fetched_at": "2026-05-31T08:33:11.809822+00:00"
-    },
-    "c0695b77a7796ce9": {
-      "title": "印度储备银行4月美元净空头头寸降至953亿美元",
-      "fetched_at": "2026-05-31T08:33:12.433738+00:00"
-    },
-    "fba7bf0eb5a72a3e": {
-      "title": "AI slop is hard to fork",
-      "fetched_at": "2026-05-31T08:33:13.103864+00:00"
-    },
-    "3cbe47a0f4039787": {
-      "title": "3C认证实施规则迎来新调整，移动电源新增多项安全测试",
-      "fetched_at": "2026-05-31T08:33:13.773348+00:00"
-    },
-    "5afb674283206cfb": {
-      "title": "嘉美包装：要约收购期限届满，股票自6月1日起停牌",
-      "fetched_at": "2026-05-31T08:33:14.407430+00:00"
-    },
-    "bcaeb07cc9a51184": {
-      "title": "宝鼎科技：公司未与英伟达有过接触或业务合作，目前未有高速覆铜板M7和M9产品销售",
-      "fetched_at": "2026-05-31T08:33:15.031855+00:00"
-    },
-    "98b4b1b970409bd8": {
-      "title": "百诚医药：终止筹划控制权变更事项，股票复牌",
-      "fetched_at": "2026-05-31T08:33:15.662831+00:00"
-    },
-    "5721e3c884fb1986": {
-      "title": "申万宏源：短期结构分化走向极致，市场再突破仍需蓄力",
-      "fetched_at": "2026-05-31T08:33:16.310548+00:00"
-    },
-    "8854ad6c515f1cc3": {
-      "title": "UC Berkeley Law blanket AI ban since summer 2026",
-      "fetched_at": "2026-05-31T08:33:16.923922+00:00"
-    },
-    "3c8031b61ec8820b": {
-      "title": "All useful document at my company is now AI generated",
-      "fetched_at": "2026-05-31T08:33:17.546596+00:00"
-    },
-    "ab68e38d4c7dcd0b": {
-      "title": "韩国外汇委员会：韩国将于7月6日启动韩元全天候外汇交易",
-      "fetched_at": "2026-05-31T08:33:18.184320+00:00"
-    },
-    "8f850ff813cefdb1": {
-      "title": "本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6",
-      "fetched_at": "2026-05-31T08:33:18.813373+00:00"
-    },
-    "8989c9c29c8c22b8": {
-      "title": "深圳800元养老消费券来了",
-      "fetched_at": "2026-05-31T08:33:19.444970+00:00"
-    },
-    "94466f9919580ba8": {
-      "title": "Show HN: GoodSender – the email API for makers and AI agents",
-      "fetched_at": "2026-05-31T08:33:20.079641+00:00"
-    },
-    "9aff57142a0ba751": {
-      "title": "17股上榜本周南向资金成交活跃股名单",
-      "fetched_at": "2026-05-31T08:33:20.734361+00:00"
-    },
-    "18979153c38fe695": {
-      "title": "A Complexity Theory of AI Value Accrual",
-      "fetched_at": "2026-05-31T08:33:21.367023+00:00"
-    },
-    "d5694ffe16c62940": {
-      "title": "美团披露公益数据：6.2亿用户助力建成超5000座乡村儿童操场",
-      "fetched_at": "2026-05-31T08:33:21.992053+00:00"
-    },
-    "417c7c283f87557c": {
-      "title": "我国儿童新药连续五年增长，2025年批准138个",
-      "fetched_at": "2026-05-31T08:33:22.615885+00:00"
-    },
-    "d8ccc1fdac7bbe26": {
-      "title": "A standard for building production AI agents (+ installable Claude Code skills)",
-      "fetched_at": "2026-05-31T08:33:23.360285+00:00"
-    },
-    "6497f52097ec3fa3": {
-      "title": "银轮股份：为数据中心用大马力发电机组配套大型冷却模块已量产",
-      "fetched_at": "2026-05-31T08:33:24.015839+00:00"
-    },
-    "b4daa71820bae7c8": {
-      "title": "日本防務大臣香格里拉對話會上否認新軍國主義，並批評中國「龐大武器庫」",
-      "fetched_at": "2026-05-31T08:33:26.777426+00:00"
-    },
-    "a2a594babce1e713": {
-      "title": "法拉利寄望首款純電車Luce迎戰中國品牌，卻引來批評",
-      "fetched_at": "2026-05-31T08:33:27.423504+00:00"
-    },
-    "a675b05a37b2bfb0": {
-      "title": "美英澳三國防長宣佈共同研發無人潛航器",
-      "fetched_at": "2026-05-31T08:33:28.073607+00:00"
-    },
-    "a5e2744446aa8ad3": {
-      "title": "醫生稱報告顯示特朗普健康狀況極佳，美國總統體檢是否已成公關活動",
-      "fetched_at": "2026-05-31T08:33:28.682506+00:00"
-    },
-    "e7c756b3f32a9a95": {
-      "title": "中国驱逐一名《纽约时报》记者，美国吊销新华社记者签证",
-      "fetched_at": "2026-05-31T08:33:29.313512+00:00"
-    },
-    "588866b69211acdd": {
-      "title": "Ebola outbreak in Central Africa will be a nightmare to contain, experts warn",
-      "fetched_at": "2026-05-31T08:33:31.287465+00:00"
-    },
-    "97b599b00d9dc07b": {
-      "title": "Landmark finding that showed brains of kids with ADHD mature later was actually a mirage in the data, new research finds",
-      "fetched_at": "2026-05-31T08:33:31.914169+00:00"
-    },
-    "03628fd1ccef074a": {
-      "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
-      "fetched_at": "2026-05-31T08:33:32.529546+00:00"
-    },
-    "91c460e1df0b5881": {
-      "title": "Scientists discover a strange hidden state in “sandwich” molecules",
-      "fetched_at": "2026-05-31T08:33:33.148886+00:00"
-    },
-    "6e1e7140956d2f25": {
-      "title": "Einstein’s “wormhole” may actually reveal a hidden mirror of time",
-      "fetched_at": "2026-05-31T08:33:33.867294+00:00"
-    },
     "534b4ed3592cc0fb": {
       "title": "AI content is great if you know it's AI",
       "fetched_at": "2026-05-31T13:11:13.119359+00:00"
@@ -3691,7 +3571,119 @@
     "7c1550e001bfa61a": {
       "title": "Small-molecule binding-site discovery using silyl ether-enabled chemoproteomics",
       "fetched_at": "2026-06-08T02:34:41.224599+00:00"
+    },
+    "862ea63925b2aec4": {
+      "title": "药明康德：6月8日斥资1.10亿元回购91.26万股",
+      "fetched_at": "2026-06-08T10:14:23.811345+00:00"
+    },
+    "994c31911cdc6897": {
+      "title": "2连板神剑股份：发现个别媒体近期对公司子公司嘉业航空相关业务进行报道，与公司披露数据不符",
+      "fetched_at": "2026-06-08T10:14:24.452964+00:00"
+    },
+    "847bba98fb4e7ffc": {
+      "title": "国家数据局：培育一批数据标注龙头企业、独角兽企业、瞪羚企业 壮大数据标注产业",
+      "fetched_at": "2026-06-08T10:14:25.084799+00:00"
+    },
+    "0bf08e0f22f74701": {
+      "title": "国家数据局：创新行业高质量数据集商业模式，探索词元交易等新型交易模式",
+      "fetched_at": "2026-06-08T10:14:25.736363+00:00"
+    },
+    "d8d9433cc4cef59e": {
+      "title": "黑石拟出售所持逾20亿美元私募投资基金份额",
+      "fetched_at": "2026-06-08T10:14:26.395113+00:00"
+    },
+    "589030a7ec156275": {
+      "title": "马斯克唱多美光，目前产能远不及芯片实际需求",
+      "fetched_at": "2026-06-08T10:14:27.012156+00:00"
+    },
+    "8b6ae2bae2f042cc": {
+      "title": "上周新增IPO企业受理8家",
+      "fetched_at": "2026-06-08T10:14:27.637633+00:00"
+    },
+    "87ffd06758c427d3": {
+      "title": "英国首相斯塔默斥资5.33亿美元投资人工智能芯片，支持“主权计算”",
+      "fetched_at": "2026-06-08T10:14:28.269143+00:00"
+    },
+    "a9b0568d548c5fc5": {
+      "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
+      "fetched_at": "2026-06-08T10:14:29.047637+00:00"
+    },
+    "e8699cb19d4546e8": {
+      "title": "天津港：拟购买二集司100%股权和汇盛公司100%股权，股票停牌",
+      "fetched_at": "2026-06-08T10:14:29.658584+00:00"
+    },
+    "428217254455091f": {
+      "title": "优利德：股东询价转让定价为73.09元/股",
+      "fetched_at": "2026-06-08T10:14:30.332890+00:00"
+    },
+    "2a82fcc9a7acb9ad": {
+      "title": "中天火箭：股票交易异常波动，不存在应披露未披露事项",
+      "fetched_at": "2026-06-08T10:14:31.011212+00:00"
+    },
+    "1f16db925ee827ab": {
+      "title": "阿里巴巴升级大模型组织架构，成立Token Foundry事业部",
+      "fetched_at": "2026-06-08T10:14:31.624957+00:00"
+    },
+    "d5fff6ebfcb0880c": {
+      "title": "上海：截至6月8日新增6款已完成登记的生成式人工智能服务",
+      "fetched_at": "2026-06-08T10:14:32.247776+00:00"
+    },
+    "e51bda69bb8234a6": {
+      "title": "粤芯半导体创业板IPO将于6月15日上会",
+      "fetched_at": "2026-06-08T10:14:32.877887+00:00"
+    },
+    "cee4eef1a5c78987": {
+      "title": "中望软件：尚未涉足物理AI相关技术体系及商业化落地",
+      "fetched_at": "2026-06-08T10:14:33.505513+00:00"
+    },
+    "19dd869b15fb074f": {
+      "title": "中煤电力在四川成立综合能源公司，注册资本1亿",
+      "fetched_at": "2026-06-08T10:14:34.119145+00:00"
+    },
+    "2dc1d87d0ff90391": {
+      "title": "英国首相斯塔默拟禁止16岁以下青少年使用“有害”社交媒体",
+      "fetched_at": "2026-06-08T10:14:34.749934+00:00"
+    },
+    "3a2c0f1998419b78": {
+      "title": "东鹏控股：控股股东及其一致行动人承诺十二个月内不减持公司股份",
+      "fetched_at": "2026-06-08T10:14:35.373837+00:00"
+    },
+    "5a3ff03a7139e267": {
+      "title": "光迅科技：拟用3.48亿元募集资金置换1.67亿元自筹资金",
+      "fetched_at": "2026-06-08T10:14:35.997165+00:00"
+    },
+    "39b9d3633dd8c53a": {
+      "title": "「伊萬卡，回家去！」特朗普家族項目引發阿爾巴尼亞民眾抗議",
+      "fetched_at": "2026-06-08T10:14:38.268013+00:00"
+    },
+    "fd30bf71232e3081": {
+      "title": "友誼還是博弈：為什麼習近平要訪問朝鮮？",
+      "fetched_at": "2026-06-08T10:14:38.981752+00:00"
+    },
+    "5a41451359b24bf6": {
+      "title": "为什么没人关心世界杯了？",
+      "fetched_at": "2026-06-08T10:14:39.607007+00:00"
+    },
+    "6aac39a33526fe53": {
+      "title": "全世界球迷都在玩的墨西哥「人浪」，你真的了解嗎？",
+      "fetched_at": "2026-06-08T10:14:40.231187+00:00"
+    },
+    "e2385e4a3abac4df": {
+      "title": "埃博拉疫情在东非蔓延，中国会挺身而出吗？",
+      "fetched_at": "2026-06-08T10:14:40.847484+00:00"
+    },
+    "96c595cf51869ec3": {
+      "title": "“这一切都是为了什么？”：伊朗民众陷入幻灭和绝望",
+      "fetched_at": "2026-06-08T10:14:41.460494+00:00"
+    },
+    "dc42f07b92ead92b": {
+      "title": "Roman bath clog: The world's oldest shower shoes were found at a fort along Hadrian's Wall",
+      "fetched_at": "2026-06-08T10:14:58.402729+00:00"
+    },
+    "706fa35040a8ddee": {
+      "title": "AI could consume up to 3% of world's electricity the UN warns",
+      "fetched_at": "2026-06-08T10:14:59.028985+00:00"
     }
   },
-  "last_updated": "2026-06-08T02:34:41.357272+00:00"
+  "last_updated": "2026-06-08T10:14:59.133003+00:00"
 }
