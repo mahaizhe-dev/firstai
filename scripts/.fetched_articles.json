@@ -1,105 +1,5 @@
 {
   "articles": {
-    "49fcc0f35e01ba85": {
-      "title": "预计减免关税近600万元，封关后首架“零关税”客机通关",
-      "fetched_at": "2026-05-31T02:13:46.574195+00:00"
-    },
-    "53c42e34c59f7b1c": {
-      "title": "智元机器人合伙人姚卯青：今年上半年智元海外收入占比已近20%",
-      "fetched_at": "2026-05-31T02:13:47.202283+00:00"
-    },
-    "8866ee20fbfe7549": {
-      "title": "The AI Boom Is Coming to Your Backyard [video]",
-      "fetched_at": "2026-05-31T02:13:47.814528+00:00"
-    },
-    "2d0433ac0c09e34e": {
-      "title": "Show HN: I made a Gemma 4 Mac app that names screenshots with local AI",
-      "fetched_at": "2026-05-31T02:13:48.508602+00:00"
-    },
-    "37a1de40d390ca36": {
-      "title": "欧洲央行管委佩雷拉：必须尽早应对通胀",
-      "fetched_at": "2026-05-31T02:13:49.224574+00:00"
-    },
-    "e298b78aed30069f": {
-      "title": "小米技术：MiMo-V2.5实现五大核心突破，降价后仍能实现收支平衡",
-      "fetched_at": "2026-05-31T02:13:49.846913+00:00"
-    },
-    "0d406ebfc459fd95": {
-      "title": "丰田回应将中止雷克萨斯下一代纯电轿车开发",
-      "fetched_at": "2026-05-31T02:13:50.470607+00:00"
-    },
-    "b5b7c1b5524497ec": {
-      "title": "How to protect your AI endpoints with Vercel BotID",
-      "fetched_at": "2026-05-31T02:13:51.092164+00:00"
-    },
-    "5bb5d4d57448dfbe": {
-      "title": "我国成功发射卫星互联网技术试验卫星",
-      "fetched_at": "2026-05-31T02:13:51.721223+00:00"
-    },
-    "1340ebeb4b39f144": {
-      "title": "Classrooms lean into analog learning in the AI era",
-      "fetched_at": "2026-05-31T02:13:52.334021+00:00"
-    },
-    "ad68c9fbbc1297cb": {
-      "title": "Dell, Snowflake, and Ford show how the AI boom is spreading: Alpha Check",
-      "fetched_at": "2026-05-31T02:13:52.961931+00:00"
-    },
-    "39978731b7725565": {
-      "title": "Keep AI Weird",
-      "fetched_at": "2026-05-31T02:13:53.608229+00:00"
-    },
-    "7f50da8c2e68d222": {
-      "title": "AI Hardware",
-      "fetched_at": "2026-05-31T02:13:54.242726+00:00"
-    },
-    "f02bb4b4cb9d6fa9": {
-      "title": "Show HN: HermesBench – workflow reliability evals for personal AI agents",
-      "fetched_at": "2026-05-31T02:13:54.858242+00:00"
-    },
-    "fb5b7450f1468557": {
-      "title": "Ask HN: Students, What Impact Is AI Having on Your Education?",
-      "fetched_at": "2026-05-31T02:13:55.485192+00:00"
-    },
-    "8a3cd45a1b8afdf5": {
-      "title": "Starbucks Abandons Borked AI Inventory Tool That Couldn't Count",
-      "fetched_at": "2026-05-31T02:13:56.107696+00:00"
-    },
-    "ba55f8aeb462ccef": {
-      "title": "DeepSWE: More and cheaper intelligence from maxed GPT 5.5 than maxed Opus 4.8",
-      "fetched_at": "2026-05-31T02:13:56.763987+00:00"
-    },
-    "9b0bdd9756a8f865": {
-      "title": "Show HN: Thaw – Git branch for a running LLM (fork agents, skip prefill)",
-      "fetched_at": "2026-05-31T02:13:57.391599+00:00"
-    },
-    "ebafe722903e80dd": {
-      "title": "Why Deep Learning Works Even Though It Shouldn't",
-      "fetched_at": "2026-05-31T02:13:58.021381+00:00"
-    },
-    "fa444810dc9a6e55": {
-      "title": "Show HN: AI command review drill for engineers and vibe coders",
-      "fetched_at": "2026-05-31T02:13:58.703282+00:00"
-    },
-    "98944d05a32cde8f": {
-      "title": "美國「失控」的小費文化是否正在向海外蔓延？",
-      "fetched_at": "2026-05-31T02:14:01.319166+00:00"
-    },
-    "96e00135533c8b36": {
-      "title": "分析：美中新建貿易、投資委員會，能否為關稅戰「加裝防撞欄」？",
-      "fetched_at": "2026-05-31T02:14:01.927434+00:00"
-    },
-    "553f5648a40e720d": {
-      "title": "特朗普時隔九年再度訪華，中國年輕一代的「美國夢」在褪色嗎？",
-      "fetched_at": "2026-05-31T02:14:02.557129+00:00"
-    },
-    "4913062a3a38b7b6": {
-      "title": "1M Ancient Greek fragments soon to be translated with the help of AI",
-      "fetched_at": "2026-05-31T02:14:04.716152+00:00"
-    },
-    "dbd09d6a1998503c": {
-      "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
-      "fetched_at": "2026-05-31T02:14:05.348491+00:00"
-    },
     "1f30287f1e074fdb": {
       "title": "AI Dark Output: The Visible Cost of Invisible Output",
       "fetched_at": "2026-05-31T08:33:11.809822+00:00"
@@ -3695,7 +3595,103 @@
     "bd4710eaa731c5ee": {
       "title": "This strange new phase of matter could transform quantum technology",
       "fetched_at": "2026-06-07T19:04:12.348169+00:00"
+    },
+    "09c1c82c07d434a0": {
+      "title": "月之暗面据悉寻求以300亿美元的估值融资至多20亿美元",
+      "fetched_at": "2026-06-08T02:34:21.586038+00:00"
+    },
+    "d1ed1993bd9e0674": {
+      "title": "东方甄选在杭州成立新网络科技公司，注册资本500万",
+      "fetched_at": "2026-06-08T02:34:22.159278+00:00"
+    },
+    "877e73083b829dcf": {
+      "title": "住建部：“十五五”时期将继续建设改造城市地下管网约77万公里",
+      "fetched_at": "2026-06-08T02:34:22.738871+00:00"
+    },
+    "ad21414e9c64a7fa": {
+      "title": "住建部：各地将细化本地区城市更新的目标指标、任务措施",
+      "fetched_at": "2026-06-08T02:34:23.343091+00:00"
+    },
+    "de38ee011659bff7": {
+      "title": "The coming rise of anti-AI populism",
+      "fetched_at": "2026-06-08T02:34:23.929224+00:00"
+    },
+    "5cc42a5d6f8aaf51": {
+      "title": "“绿色康成”完成数千万元pre-A轮融资",
+      "fetched_at": "2026-06-08T02:34:24.573544+00:00"
+    },
+    "9cb3b3725b5a3114": {
+      "title": "南向资金净买入额达20亿港元",
+      "fetched_at": "2026-06-08T02:34:24.573658+00:00"
+    },
+    "0fc1d6e54a08f06e": {
+      "title": "京东旅行上线“宠物出行”专区",
+      "fetched_at": "2026-06-08T02:34:25.170304+00:00"
+    },
+    "d4c067c95638ba42": {
+      "title": "韩国宣布针对性措施遏制韩元跌势，并抑制投机行为",
+      "fetched_at": "2026-06-08T02:34:25.738830+00:00"
+    },
+    "fe329d301cb1b640": {
+      "title": "恒生指数日内跌幅扩大至2%",
+      "fetched_at": "2026-06-08T02:34:26.317106+00:00"
+    },
+    "94c34a46dbb823e8": {
+      "title": "Show HN: Preseason.ai – Open-source benchmark of devtool choices, ranked by LLM",
+      "fetched_at": "2026-06-08T02:34:27.001882+00:00"
+    },
+    "aa64f31eb18f6d25": {
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "fetched_at": "2026-06-08T02:34:27.581211+00:00"
+    },
+    "73ed46239fc7cd4f": {
+      "title": "A股三大指数集体低开，半导体板块跌幅居前",
+      "fetched_at": "2026-06-08T02:34:28.189797+00:00"
+    },
+    "b788d0c0da5deb2e": {
+      "title": "恒指开盘跌1.52%，恒生科技指数跌2.43%",
+      "fetched_at": "2026-06-08T02:34:28.825019+00:00"
+    },
+    "92a1761efe7428aa": {
+      "title": "6月8日人民币对美元中间价调贬41个基点",
+      "fetched_at": "2026-06-08T02:34:29.393130+00:00"
+    },
+    "1d3719ea5ffe3759": {
+      "title": "消息称三星晶圆代工事业部最快Q3扭亏为盈",
+      "fetched_at": "2026-06-08T02:34:29.968195+00:00"
+    },
+    "f19e361fd9f8f7a2": {
+      "title": "日经225指数跌幅扩大至4%",
+      "fetched_at": "2026-06-08T02:34:30.564253+00:00"
+    },
+    "b44cf3b5f55dbfc7": {
+      "title": "“题渊科技”完成近千万元天使轮融资",
+      "fetched_at": "2026-06-08T02:34:31.134981+00:00"
+    },
+    "4499f66a7cf839f3": {
+      "title": "全国小麦收获进度过六成",
+      "fetched_at": "2026-06-08T02:34:31.722039+00:00"
+    },
+    "d2fe23a99350fedb": {
+      "title": "深交所：深港通下的港股通标的调入鸣鸣很忙、智谱等6股",
+      "fetched_at": "2026-06-08T02:34:32.301472+00:00"
+    },
+    "16bb6e8ce25130a5": {
+      "title": "中国要求企业出海前接受国安审查，构建经济堡垒",
+      "fetched_at": "2026-06-08T02:34:34.367634+00:00"
+    },
+    "963984f78fa929e6": {
+      "title": "「幼態臉」、「精靈耳」與「天鵝頸」 台灣人為何開始到上海「跨境醫美」?",
+      "fetched_at": "2026-06-08T02:34:34.955892+00:00"
+    },
+    "32c24ad3fa71527e": {
+      "title": "「文化大革命」60週年：從幾大關鍵詞看這場十年文化浩劫",
+      "fetched_at": "2026-06-08T02:34:35.551242+00:00"
+    },
+    "7c1550e001bfa61a": {
+      "title": "Small-molecule binding-site discovery using silyl ether-enabled chemoproteomics",
+      "fetched_at": "2026-06-08T02:34:41.224599+00:00"
     }
   },
-  "last_updated": "2026-06-07T19:04:12.483811+00:00"
+  "last_updated": "2026-06-08T02:34:41.357272+00:00"
 }
