@@ -1,121 +1,5 @@
 {
   "articles": {
-    "28f48c393da220fe": {
-      "title": "“微光医疗”完成数亿元融资",
-      "fetched_at": "2026-06-01T02:35:07.494309+00:00"
-    },
-    "17be386089f860b3": {
-      "title": "恒生指数涨幅扩大至1%",
-      "fetched_at": "2026-06-01T02:35:08.067955+00:00"
-    },
-    "26f767d1e116ba23": {
-      "title": "创业板指涨逾1%，上涨个股近4200只",
-      "fetched_at": "2026-06-01T02:35:08.692320+00:00"
-    },
-    "d3d19b4953e81c0b": {
-      "title": "上海：实施优质企业培优、中小企业育强、小微企业成长的梯度激励政策，推动跨境电商、直播电商创新发展",
-      "fetched_at": "2026-06-01T02:35:09.296973+00:00"
-    },
-    "63069fa75b78bc0f": {
-      "title": "Dialing In the Ghost in the Machine: LLMs for guitar tones",
-      "fetched_at": "2026-06-01T02:35:09.890285+00:00"
-    },
-    "e9fe453d6ee1fd57": {
-      "title": "硬氪观察 | 苹果代工厂开造人形机器人，一场豪赌未来的产能大迁移",
-      "fetched_at": "2026-06-01T02:35:10.477188+00:00"
-    },
-    "696bcd646033fcf2": {
-      "title": "科技记者古尔曼：苹果更轻薄的Vision Air头显预计2028年末或2029年发布",
-      "fetched_at": "2026-06-01T02:35:11.183150+00:00"
-    },
-    "369d03830adf8c72": {
-      "title": "上海：到2030年，服务业增加值达到6万亿元左右",
-      "fetched_at": "2026-06-01T02:35:11.752193+00:00"
-    },
-    "9c853d44a84a1800": {
-      "title": "鸿蒙智行：5月交付46122台，环比增长41%",
-      "fetched_at": "2026-06-01T02:35:12.321534+00:00"
-    },
-    "696c529d1c414dc2": {
-      "title": "北证50涨超3%，多股涨超10%",
-      "fetched_at": "2026-06-01T02:35:12.901290+00:00"
-    },
-    "0c25927602cca29e": {
-      "title": "沪深两市成交额连续第245个交易日突破1万亿元",
-      "fetched_at": "2026-06-01T02:35:13.475575+00:00"
-    },
-    "1bb171668ce67aa3": {
-      "title": "创业板指涨幅扩大至1%",
-      "fetched_at": "2026-06-01T02:35:14.041035+00:00"
-    },
-    "59f9b04e840444bd": {
-      "title": "国务院：国家支持投资者按照市场化原则开展对外投资活动，积极参与国际合作竞争",
-      "fetched_at": "2026-06-01T02:35:14.609569+00:00"
-    },
-    "0be76fd4de61f0dc": {
-      "title": "国务院：国家主动对接国际高标准经济贸易规则，推进高质量共建“一带一路”",
-      "fetched_at": "2026-06-01T02:35:15.234139+00:00"
-    },
-    "f3ff90ca7c8b2b35": {
-      "title": "《国务院关于对外投资的规定》公布",
-      "fetched_at": "2026-06-01T02:35:15.807778+00:00"
-    },
-    "7b39c003200b3a03": {
-      "title": "“世纪合并”落空，雅诗兰黛松了一口气",
-      "fetched_at": "2026-06-01T02:35:16.395624+00:00"
-    },
-    "238f6c65fce87e03": {
-      "title": "How bosses should talk about AI",
-      "fetched_at": "2026-06-01T02:35:16.973233+00:00"
-    },
-    "a8e0a1b6c2c23054": {
-      "title": "中国5月RatingDog制造业PMI 51.8",
-      "fetched_at": "2026-06-01T02:35:17.552382+00:00"
-    },
-    "56bf4ac3d4cb1afa": {
-      "title": "Unlawful by design: Exposing the human rights costs of generative AI",
-      "fetched_at": "2026-06-01T02:35:18.120521+00:00"
-    },
-    "5c596cf6c1fc8708": {
-      "title": "恒生科技指数涨幅扩大至2%",
-      "fetched_at": "2026-06-01T02:35:18.692389+00:00"
-    },
-    "d79b1bf90e35cc70": {
-      "title": "苏林批评世界充斥强权竞争，越南在美中之间寻找出路",
-      "fetched_at": "2026-06-01T02:35:20.923184+00:00"
-    },
-    "70c9adc4b386e253": {
-      "title": "普京如何成為形象操控大師？",
-      "fetched_at": "2026-06-01T02:35:21.495999+00:00"
-    },
-    "f9835a4d21ccbf0c": {
-      "title": "Show HN: Solana Index Historical Solana Token Balance",
-      "fetched_at": "2026-06-01T02:35:24.754391+00:00"
-    },
-    "b26815d5d92f4f6e": {
-      "title": "DNA sequencing is rewriting our understanding of historic outbreaks, but it can't tell the whole story",
-      "fetched_at": "2026-06-01T02:35:25.326717+00:00"
-    },
-    "3dbcefdda1466f22": {
-      "title": "AI-generated images are making it impossible to distinguish truth from fiction. We need laws and AI watermarks to protect our shared reality.",
-      "fetched_at": "2026-06-01T02:35:25.977020+00:00"
-    },
-    "039fec6f17807e2e": {
-      "title": "Scientists discover the perfect temperature to keep mangoes fresh much longer",
-      "fetched_at": "2026-06-01T02:35:26.547874+00:00"
-    },
-    "918df3c147f97b81": {
-      "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
-      "fetched_at": "2026-06-01T02:35:27.111722+00:00"
-    },
-    "4d863457406f25f1": {
-      "title": "NASA’s Psyche spacecraft captures stunning Mars images during high-speed flyby",
-      "fetched_at": "2026-06-01T02:35:27.760404+00:00"
-    },
-    "16261aaa861be111": {
-      "title": "NASA stunned as strange solar radio burst lasts 19 days",
-      "fetched_at": "2026-06-01T02:35:28.583501+00:00"
-    },
     "1b3eb18b20e4cda2": {
       "title": "Show HN: An interactive fiction game about PR reviews, AI agents, team dynamics",
       "fetched_at": "2026-06-01T11:06:18.683955+00:00"
@@ -3807,7 +3691,135 @@
     "3024c8bffc3b93de": {
       "title": "New solar desalination breakthrough makes fresh water without toxic brine",
       "fetched_at": "2026-06-09T01:58:24.727474+00:00"
+    },
+    "dcdf6ce12abb0657": {
+      "title": "天康生物：5月生猪销售收入同比下降15.07%",
+      "fetched_at": "2026-06-09T08:57:20.637157+00:00"
+    },
+    "e242d849d7a4dca7": {
+      "title": "1—5月全国期货市场累计成交额同比增长40.13%",
+      "fetched_at": "2026-06-09T08:57:21.236091+00:00"
+    },
+    "09ecb1e3e6bcf0a2": {
+      "title": "沈阳低空科技公司成立，注册资本1亿",
+      "fetched_at": "2026-06-09T08:57:21.904500+00:00"
+    },
+    "6494eefe8e5ed69e": {
+      "title": "朱雀二号改进型遥六运载火箭发射成功",
+      "fetched_at": "2026-06-09T08:57:22.526357+00:00"
+    },
+    "b37eac3f07a9886a": {
+      "title": "罗牛山：5月生猪销售收入同比增长1.06%",
+      "fetched_at": "2026-06-09T08:57:23.159563+00:00"
+    },
+    "15f4305f4799055b": {
+      "title": "海螺材料科技增资至5.8亿，增幅约33%",
+      "fetched_at": "2026-06-09T08:57:23.767252+00:00"
+    },
+    "3c4d5cb4e497e51a": {
+      "title": "海思科：创新药HSK51155片临床试验申请获受理",
+      "fetched_at": "2026-06-09T08:57:24.355785+00:00"
+    },
+    "9d6a9ae38b19ad5a": {
+      "title": "中证协启动证券行业AI应用案例征集，涵盖六大类场景",
+      "fetched_at": "2026-06-09T08:57:24.969362+00:00"
+    },
+    "66f84038406b77d9": {
+      "title": "杨国福旗下海南供应链管理公司增资至2亿，增幅19900%",
+      "fetched_at": "2026-06-09T08:57:25.573982+00:00"
+    },
+    "114349044f9666d8": {
+      "title": "“GIM”获超亿元天使轮融资",
+      "fetched_at": "2026-06-09T08:57:26.332812+00:00"
+    },
+    "4d050b15739abb7b": {
+      "title": "香港金管局总裁余伟文：跨境理财通3.0暂无落地时间表，额度、产品等多维度拓展空间可期",
+      "fetched_at": "2026-06-09T08:57:26.959534+00:00"
+    },
+    "b29395a641a44531": {
+      "title": "中投公司人事变动：刘浩凌不再担任相关职务，吴迎春履新副总经理",
+      "fetched_at": "2026-06-09T08:57:27.643875+00:00"
+    },
+    "52f04cf395071b11": {
+      "title": "华东医药：子公司医疗器械变更注册申请获受理",
+      "fetched_at": "2026-06-09T08:57:28.266087+00:00"
+    },
+    "285c930b9485f361": {
+      "title": "Apple rebuilt its on-device AI stack at WWDC 2026",
+      "fetched_at": "2026-06-09T08:57:28.989746+00:00"
+    },
+    "ffe08783ea212110": {
+      "title": "物产环能等在浙江成立新供应链公司，注册资本1亿",
+      "fetched_at": "2026-06-09T08:57:29.635521+00:00"
+    },
+    "28fd1b63c1fcba47": {
+      "title": "恒指收盘跌0.37%，恒生科技指数涨0.29%",
+      "fetched_at": "2026-06-09T08:57:30.230284+00:00"
+    },
+    "a3dd71d51c0a953c": {
+      "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
+      "fetched_at": "2026-06-09T08:57:30.842546+00:00"
+    },
+    "39a42e6dd5f5f492": {
+      "title": "Show HN: Knowcast – A Simple AI Explanation Video Generator",
+      "fetched_at": "2026-06-09T08:57:31.441707+00:00"
+    },
+    "1d66b394a1e6d739": {
+      "title": "Chip Capacity Constraints Put a Governor on AI Spending Growth",
+      "fetched_at": "2026-06-09T08:57:32.047401+00:00"
+    },
+    "894fc9408d4b1d9a": {
+      "title": "飞猪：端午假期入境游预订量同比增长超6倍",
+      "fetched_at": "2026-06-09T08:57:32.703006+00:00"
+    },
+    "d7c508c0e59d7a3d": {
+      "title": "人形機械人會走向戰場嗎？",
+      "fetched_at": "2026-06-09T08:57:35.198941+00:00"
+    },
+    "bc7928a51f0dc697": {
+      "title": "2026足球世界盃賽程海報 點擊這裡免費下載",
+      "fetched_at": "2026-06-09T08:57:35.826174+00:00"
+    },
+    "94979bcfab4cff46": {
+      "title": "生育率为何下降？也许与你的手机有关系",
+      "fetched_at": "2026-06-09T08:57:36.426240+00:00"
+    },
+    "4b7009dfa20097d0": {
+      "title": "台湾庙宇里的锐舞派对",
+      "fetched_at": "2026-06-09T08:57:37.020324+00:00"
+    },
+    "d46f731140a50608": {
+      "title": "英國首相要求蘋果谷歌禁止兒童手機訪問裸露影像",
+      "fetched_at": "2026-06-09T08:57:37.633550+00:00"
+    },
+    "73a41673e57c664e": {
+      "title": "美国再陷中东军事泥潭，特朗普难以脱身的伊朗困局",
+      "fetched_at": "2026-06-09T08:57:38.235727+00:00"
+    },
+    "4fb9697281b3ad33": {
+      "title": "中国企业在社交媒体上兜售朝鲜劳工制造产品",
+      "fetched_at": "2026-06-09T08:57:38.837262+00:00"
+    },
+    "1f913e513496deca": {
+      "title": "习近平与金正恩会面，寻求重塑对平壤影响力",
+      "fetched_at": "2026-06-09T08:57:39.436087+00:00"
+    },
+    "b05a375e4805ad02": {
+      "title": "桃子有多健康？",
+      "fetched_at": "2026-06-09T08:57:40.053641+00:00"
+    },
+    "aa2086e09bc5e3fe": {
+      "title": "Doctors need to understand patients' lived experiences to treat them well — but medical schools may stop requiring that training",
+      "fetched_at": "2026-06-09T08:57:41.303780+00:00"
+    },
+    "9567e0044516d4e6": {
+      "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
+      "fetched_at": "2026-06-09T08:57:41.981020+00:00"
+    },
+    "d860dc3df869de1f": {
+      "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
+      "fetched_at": "2026-06-09T08:57:42.810748+00:00"
     }
   },
-  "last_updated": "2026-06-09T01:58:24.830752+00:00"
+  "last_updated": "2026-06-09T08:57:42.948960+00:00"
 }
