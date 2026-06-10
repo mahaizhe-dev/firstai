@@ -1,129 +1,5 @@
 {
   "articles": {
-    "53c840c3b978672b": {
-      "title": "Meta AI Support System Prompt",
-      "fetched_at": "2026-06-02T15:56:28.271794+00:00"
-    },
-    "65ac5cb7df754c38": {
-      "title": "The Next Frontier of Visual AI Is Code",
-      "fetched_at": "2026-06-02T15:56:28.848660+00:00"
-    },
-    "dfcbb238a0808e1f": {
-      "title": "AI-Generated Papers in the NeurIPS 2026 Position Paper Track",
-      "fetched_at": "2026-06-02T15:56:29.433098+00:00"
-    },
-    "6c0036262fafbd59": {
-      "title": "AI Grifters Are Making Anti-Data Center Slop with AI",
-      "fetched_at": "2026-06-02T15:56:30.117352+00:00"
-    },
-    "eb31480dac729c17": {
-      "title": "Americans don't know how to fight AI. So they're fighting data centers",
-      "fetched_at": "2026-06-02T15:56:30.694508+00:00"
-    },
-    "2a185b6a78764f82": {
-      "title": "Philly cops admit they're tracking \"First Amendment activity\" critical of AI",
-      "fetched_at": "2026-06-02T15:56:31.413746+00:00"
-    },
-    "2e2ebbde44411afb": {
-      "title": "Anthropic faces AI spending backlash before IPO",
-      "fetched_at": "2026-06-02T15:56:31.987613+00:00"
-    },
-    "825c72884bda3e18": {
-      "title": "The future of creator businesses isn't more AI features",
-      "fetched_at": "2026-06-02T15:56:32.569012+00:00"
-    },
-    "da738dc289ba8b15": {
-      "title": "Phraseum – a puzzle game for learning languages through collocations and phrases",
-      "fetched_at": "2026-06-02T15:56:33.156260+00:00"
-    },
-    "6e73417537056fbc": {
-      "title": "Show HN: Piqc – GPU waste scanner for LLM inference clusters",
-      "fetched_at": "2026-06-02T15:56:33.768511+00:00"
-    },
-    "5ad26bfe83b74516": {
-      "title": "Dressed/Daily – AI picks your outfit from your wardrobe based on today's weather",
-      "fetched_at": "2026-06-02T15:56:34.355524+00:00"
-    },
-    "c8132ec3af70b772": {
-      "title": "Show HN: LocalSheets, a single-file spreadsheet with a local-only AI panel",
-      "fetched_at": "2026-06-02T15:56:34.936707+00:00"
-    },
-    "2ade3a1965bb72f1": {
-      "title": "AI Workflows Need Topological Sort",
-      "fetched_at": "2026-06-02T15:56:35.535146+00:00"
-    },
-    "b4ed5701541f92a3": {
-      "title": "Local AI handwriting recognition is usable now",
-      "fetched_at": "2026-06-02T15:56:36.276008+00:00"
-    },
-    "d3ec9743a2cbeb05": {
-      "title": "AI Breaks Out of the Cloud: Computex 2026's Big Chip Demand Signal",
-      "fetched_at": "2026-06-02T15:56:36.861946+00:00"
-    },
-    "eb5aa9f188ba6fe0": {
-      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
-      "fetched_at": "2026-06-02T15:56:37.441265+00:00"
-    },
-    "b2bffc4f9460b25a": {
-      "title": "We wanted to understand what the new \"AI enablement\" job is",
-      "fetched_at": "2026-06-02T15:56:38.018232+00:00"
-    },
-    "9978ef9caec92a01": {
-      "title": "Show HN: We built an LLM inference engine in pure Python – no PyTorch, no Triton",
-      "fetched_at": "2026-06-02T15:56:38.583599+00:00"
-    },
-    "527dc377170f12f2": {
-      "title": "SiteGround Faces Backlash After Installing AI Plugin on Customer Sites",
-      "fetched_at": "2026-06-02T15:56:39.275331+00:00"
-    },
-    "464cd25c4d4f6ca2": {
-      "title": "Open-source real company briefs to practice AI-native building and get hired",
-      "fetched_at": "2026-06-02T15:56:39.894986+00:00"
-    },
-    "c412bd1022cdee71": {
-      "title": "黎家盈：首位香港太空人被寄望激發民族主義浪潮",
-      "fetched_at": "2026-06-02T15:56:47.255766+00:00"
-    },
-    "af4e680afe941317": {
-      "title": "China launches new Long March 12B rocket, reportedly without any safety warning",
-      "fetched_at": "2026-06-02T15:56:49.708456+00:00"
-    },
-    "649ccca77ffe96c0": {
-      "title": "The Discovery Problem Is Bigger Than Search",
-      "fetched_at": "2026-06-02T15:56:50.287257+00:00"
-    },
-    "ef69344fe1c78616": {
-      "title": "Screamer: Fast Subnet Discovery Without Scanning Every Host",
-      "fetched_at": "2026-06-02T15:56:51.020867+00:00"
-    },
-    "4575948b5f094f00": {
-      "title": "SIGMA 60-600mm f/4.5-6.3 DG DN OS Sport lens review",
-      "fetched_at": "2026-06-02T15:56:51.595465+00:00"
-    },
-    "39438c5b18b8d231": {
-      "title": "17,000-year-old stripes of red in a Welsh cave are the oldest rock art in the UK, study finds",
-      "fetched_at": "2026-06-02T15:56:52.179662+00:00"
-    },
-    "b62506a250e477b6": {
-      "title": "A single protein may be holding back CAR T cancer therapy",
-      "fetched_at": "2026-06-02T15:56:52.756009+00:00"
-    },
-    "ead0f3cbdaa515e0": {
-      "title": "This blood-feeding fly sacrifices its sight after finding a host",
-      "fetched_at": "2026-06-02T15:56:53.355189+00:00"
-    },
-    "e3fdf706d9d386b3": {
-      "title": "A stellar “Rosetta stone” reveals the source of mysterious cosmic signals",
-      "fetched_at": "2026-06-02T15:56:53.930551+00:00"
-    },
-    "2f2ebabac4f97e36": {
-      "title": "Your brain starts making social decisions before you do",
-      "fetched_at": "2026-06-02T15:56:54.522159+00:00"
-    },
-    "529b78bf784fe0d4": {
-      "title": "Adorable tiny blue octopus found nearly 6,000 feet beneath the Galápagos",
-      "fetched_at": "2026-06-02T15:56:55.109661+00:00"
-    },
     "9e5bce54e6b3b330": {
       "title": "The CDP Is the AI",
       "fetched_at": "2026-06-02T20:33:25.582761+00:00"
@@ -3787,7 +3663,135 @@
     "1a7b363c8125cb08": {
       "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
       "fetched_at": "2026-06-10T14:50:30.150440+00:00"
+    },
+    "97e18fe4d4c31805": {
+      "title": "What Investment Data Implies about the AI Transition",
+      "fetched_at": "2026-06-10T20:08:53.670424+00:00"
+    },
+    "51cee85ef53d81e8": {
+      "title": "AI is eating the AI Engineering Loop",
+      "fetched_at": "2026-06-10T20:08:54.315766+00:00"
+    },
+    "9fb5b2d49efa0af5": {
+      "title": "Thrindex – memory OS for AI agents (ranks, compresses and evolves agents memory)",
+      "fetched_at": "2026-06-10T20:08:54.925091+00:00"
+    },
+    "9318a765ec476ccc": {
+      "title": "The Jqwik Anti-AI Affair",
+      "fetched_at": "2026-06-10T20:08:55.547443+00:00"
+    },
+    "b7e533cf351ec545": {
+      "title": "Quick: An internal hosting platform for the AI era",
+      "fetched_at": "2026-06-10T20:08:56.171512+00:00"
+    },
+    "16df4742dc982c67": {
+      "title": "If you build apps with AI tools, this is .uh concerning",
+      "fetched_at": "2026-06-10T20:08:56.791152+00:00"
+    },
+    "e2bf3770c025111b": {
+      "title": "Ring-0 AI Interview Copilot",
+      "fetched_at": "2026-06-10T20:08:57.441811+00:00"
+    },
+    "a544b28cceac89da": {
+      "title": "PR reviews were broken. AI just made it worse",
+      "fetched_at": "2026-06-10T20:08:58.064611+00:00"
+    },
+    "d1851fed4d78d5e6": {
+      "title": "The History of AI and Chatbots with Dr. Richard Wallace [video]",
+      "fetched_at": "2026-06-10T20:08:58.671508+00:00"
+    },
+    "68d39b6068b44ae6": {
+      "title": "British media will be able to prevent content from feeding Google AI search",
+      "fetched_at": "2026-06-10T20:08:59.294794+00:00"
+    },
+    "ecabda0ef77f506b": {
+      "title": "'AI-pilled' firms spend $7,500 per employee each month on AI",
+      "fetched_at": "2026-06-10T20:08:59.924992+00:00"
+    },
+    "ce8e00386ce54b75": {
+      "title": "Do AI agents need cryptographically verifiable decision receipts?",
+      "fetched_at": "2026-06-10T20:09:00.533422+00:00"
+    },
+    "f0e6d56e654620fd": {
+      "title": "Humans in the LLM Loop",
+      "fetched_at": "2026-06-10T20:09:01.149940+00:00"
+    },
+    "bd55222b30a6125b": {
+      "title": "Zero-boilerplate bridge between ML models and AI agents",
+      "fetched_at": "2026-06-10T20:09:01.767082+00:00"
+    },
+    "bf186130fb1dc158": {
+      "title": "Apple's interface monopoly wins in consumer AI with competing",
+      "fetched_at": "2026-06-10T20:09:02.391644+00:00"
+    },
+    "4b03c9b618803760": {
+      "title": "Frontier AI: what you need to know",
+      "fetched_at": "2026-06-10T20:09:03.016297+00:00"
+    },
+    "f90bace1b29a6d2c": {
+      "title": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay",
+      "fetched_at": "2026-06-10T20:09:03.631389+00:00"
+    },
+    "59d181b25f46080a": {
+      "title": "Claude Fable won’t answer basic biology questions",
+      "fetched_at": "2026-06-10T20:09:04.252135+00:00"
+    },
+    "5f606c37d25a7ee6": {
+      "title": "LinkedIn's AI content boom is creating a credibility problem for founders",
+      "fetched_at": "2026-06-10T20:09:04.907220+00:00"
+    },
+    "9597266ccfc6682d": {
+      "title": "We ran autonomous AI agents on live brokerage account for a day (it lost money)",
+      "fetched_at": "2026-06-10T20:09:05.610249+00:00"
+    },
+    "e14f249aaee58f13": {
+      "title": "分析：特朗普需要結束這場戰爭，但伊朗不會退讓",
+      "fetched_at": "2026-06-10T20:09:07.602831+00:00"
+    },
+    "3641e11308954ad1": {
+      "title": "Scientists were excited about a blood test for many cancers — but it failed a big trial. Here's what to know.",
+      "fetched_at": "2026-06-10T20:09:09.426849+00:00"
+    },
+    "2b95e426bbdef513": {
+      "title": "See the 'crawling,' ball-shaped robot that rolled around the moon during Japan's historic first landing",
+      "fetched_at": "2026-06-10T20:09:10.041173+00:00"
+    },
+    "c48700413382ddb0": {
+      "title": "A day after discovery, Meta pulls facial recognition code from its smart glasses",
+      "fetched_at": "2026-06-10T20:09:10.653902+00:00"
+    },
+    "a8230e74050c5f36": {
+      "title": "Five Additional Letters Identified in Ancient Anatolian Language",
+      "fetched_at": "2026-06-10T20:09:11.268609+00:00"
+    },
+    "10d465d9a397d7d5": {
+      "title": "In a first, scientists translated an entire viral genome so a quantum computer could read and analyze it",
+      "fetched_at": "2026-06-10T20:09:11.908946+00:00"
+    },
+    "69da8bf6e2c52187": {
+      "title": "Headless Neolithic Skeletons Uncovered in Slovakia",
+      "fetched_at": "2026-06-10T20:09:12.521673+00:00"
+    },
+    "01ca588cb7ca84d4": {
+      "title": "'Geminid Symphony' and 'Galactic Gandalf': See the breathtaking views of our home galaxy from the 2026 Milky Way Photographer of the Year contest",
+      "fetched_at": "2026-06-10T20:09:13.166876+00:00"
+    },
+    "873adb212236245c": {
+      "title": "Genetically modified worms can now produce and deliver drugs inside a living body, scientists say",
+      "fetched_at": "2026-06-10T20:09:13.793490+00:00"
+    },
+    "62164f1740c83e16": {
+      "title": "Mysterious 'cold blob' in the Atlantic is a sign of the Gulf Stream weakening — and that's bad news for the US East Coast",
+      "fetched_at": "2026-06-10T20:09:14.417909+00:00"
+    },
+    "a7f377c45c9754c3": {
+      "title": "LinkedIn wants to own B2B creator discovery with new creator marketplace",
+      "fetched_at": "2026-06-10T20:09:15.038691+00:00"
+    },
+    "7eca47361fa43b28": {
+      "title": "2 long-vanished 'super Earths' once orbited near Neptune in our outer solar system, new study hints",
+      "fetched_at": "2026-06-10T20:09:15.666060+00:00"
     }
   },
-  "last_updated": "2026-06-10T14:50:30.260650+00:00"
+  "last_updated": "2026-06-10T20:09:15.773400+00:00"
 }
