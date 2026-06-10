@@ -1,121 +1,5 @@
 {
   "articles": {
-    "ec55a44d337b2c6c": {
-      "title": "中煤能源集团在武汉成立新能源公司，注册资本6500万",
-      "fetched_at": "2026-06-02T10:01:43.590353+00:00"
-    },
-    "6039571ecad20c3b": {
-      "title": "威龙股份：股东杨光第及其一致行动人拟合计减持不超3%股份",
-      "fetched_at": "2026-06-02T10:01:44.224689+00:00"
-    },
-    "35064e5980b24e08": {
-      "title": "红星发展：股价异常波动，一季度营收、净利润双降",
-      "fetched_at": "2026-06-02T10:01:44.807012+00:00"
-    },
-    "35758115f41858d5": {
-      "title": "好达电子科创板IPO审核状态变更为“已受理”",
-      "fetched_at": "2026-06-02T10:01:45.429680+00:00"
-    },
-    "5ca70130af54f219": {
-      "title": "联发科承诺扩大招聘，以助力向新的人工智能业务领域推进",
-      "fetched_at": "2026-06-02T10:01:46.016846+00:00"
-    },
-    "7b5ff15a210658d3": {
-      "title": "欧元区5月通胀率预计升至3.2%",
-      "fetched_at": "2026-06-02T10:01:46.654107+00:00"
-    },
-    "39702fecf18c80e2": {
-      "title": "赛富时对Anthropic持股市值升至50亿美元",
-      "fetched_at": "2026-06-02T10:01:47.245106+00:00"
-    },
-    "01c06ca215452fdb": {
-      "title": "香港证监会敦促持牌机构防范AI驱动的新兴网络威胁",
-      "fetched_at": "2026-06-02T10:01:47.837859+00:00"
-    },
-    "213bad396434f643": {
-      "title": "曹操出行在上海成立新科技公司，注册资本5000万",
-      "fetched_at": "2026-06-02T10:01:48.422161+00:00"
-    },
-    "3e7fadbb452b7090": {
-      "title": "三菱重工与Preferred Networks将合作开发AI技术",
-      "fetched_at": "2026-06-02T10:01:49.005362+00:00"
-    },
-    "eba4878294209fc1": {
-      "title": "文化和旅游部：2025年国内居民出游花费6.30万亿元，同比增长9.5%",
-      "fetched_at": "2026-06-02T10:01:49.591588+00:00"
-    },
-    "8f68fd1db1acc43e": {
-      "title": "艾德生物：筹划公司控制权变更事项，股票继续停牌",
-      "fetched_at": "2026-06-02T10:01:50.171818+00:00"
-    },
-    "618ea94f8e6fc1e1": {
-      "title": "2026暑期档电影票房破亿",
-      "fetched_at": "2026-06-02T10:01:50.760638+00:00"
-    },
-    "dbf15f86d39ac114": {
-      "title": "零一万物与正大集团达成合作",
-      "fetched_at": "2026-06-02T10:01:51.341952+00:00"
-    },
-    "9907963a797288f8": {
-      "title": "美团在竞争中看清自己",
-      "fetched_at": "2026-06-02T10:01:51.921897+00:00"
-    },
-    "e5b54f2876508b5f": {
-      "title": "13天8板达实智能：不涉及液冷及机器人相关元器件的生产、制造等",
-      "fetched_at": "2026-06-02T10:01:52.496810+00:00"
-    },
-    "1932b37ed654bbdf": {
-      "title": "中远海能：全资子公司投资64.45亿元建造4艘LNG船舶",
-      "fetched_at": "2026-06-02T10:01:53.085609+00:00"
-    },
-    "e30eb205e0c9bb34": {
-      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
-      "fetched_at": "2026-06-02T10:01:53.799690+00:00"
-    },
-    "aa5d4dc9fd1636c4": {
-      "title": "国务院：支持新能源汽车、智能家电、绿色建材下乡",
-      "fetched_at": "2026-06-02T10:01:54.396692+00:00"
-    },
-    "cf3cf0a1f0e2235e": {
-      "title": "国务院：有序推进农业农村领域低空经济发展",
-      "fetched_at": "2026-06-02T10:01:54.981375+00:00"
-    },
-    "e201dca4e113e0ca": {
-      "title": "美國佛羅里達州起訴OpenAI，指控其容許ChatGPT協助和教唆大規模槍擊案",
-      "fetched_at": "2026-06-02T10:01:58.230278+00:00"
-    },
-    "489ac43fa4b5e20c": {
-      "title": "47°C高溫下「早晨和夜晚已不復存在」：印度最炎熱地區的一天",
-      "fetched_at": "2026-06-02T10:01:58.835197+00:00"
-    },
-    "0b41e9a3ff150d6c": {
-      "title": "日本人口五年间减少逾300万，发生了什么？",
-      "fetched_at": "2026-06-02T10:01:59.514361+00:00"
-    },
-    "e14f249aaee58f13": {
-      "title": "分析：特朗普需要結束這場戰爭，但伊朗不會退讓",
-      "fetched_at": "2026-06-02T10:02:00.089591+00:00"
-    },
-    "e3e015549a01ae72": {
-      "title": "报告称中国军方多年来一直寻求获得英伟达芯片",
-      "fetched_at": "2026-06-02T10:02:00.672732+00:00"
-    },
-    "b4f33c0bbd829749": {
-      "title": "中国尝试利用人工智能预测异见倾向",
-      "fetched_at": "2026-06-02T10:02:01.252278+00:00"
-    },
-    "cee8dcabf989d3a1": {
-      "title": "喝牛奶真的能让骨骼更强壮吗？",
-      "fetched_at": "2026-06-02T10:02:01.944738+00:00"
-    },
-    "6bbc0872339c17eb": {
-      "title": "'Animals were imprisoned in jails where humans were incarcerated': The bizarre trials of the Late Middle Ages — and surprising lack of criminal cats",
-      "fetched_at": "2026-06-02T10:02:04.016510+00:00"
-    },
-    "95c96d2f5f5b1e20": {
-      "title": "Rusty, orange water 'bleeds' across brilliant Bolivian lagoon — Earth from space",
-      "fetched_at": "2026-06-02T10:02:04.607992+00:00"
-    },
     "53c840c3b978672b": {
       "title": "Meta AI Support System Prompt",
       "fetched_at": "2026-06-02T15:56:28.271794+00:00"
@@ -3811,7 +3695,99 @@
     "3912701c69540ea3": {
       "title": "Earth's first animals barely evolved until sex changed everything",
       "fetched_at": "2026-06-10T09:38:47.821224+00:00"
+    },
+    "d4bf03c871a6c5a3": {
+      "title": "Can Socratic dialogue cut through AI \"bullshit\"?",
+      "fetched_at": "2026-06-10T14:50:13.637241+00:00"
+    },
+    "c3e0de3e7d9c4593": {
+      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "fetched_at": "2026-06-10T14:50:14.245445+00:00"
+    },
+    "a2dbfa6edd7303ce": {
+      "title": "Economists Weigh in on the Future of Work and AI",
+      "fetched_at": "2026-06-10T14:50:14.850605+00:00"
+    },
+    "81c8c72f32b11f16": {
+      "title": "Security scanners for AI agent skills agree no better than chance",
+      "fetched_at": "2026-06-10T14:50:15.481643+00:00"
+    },
+    "83e8c9c70e1c61c7": {
+      "title": "Manifesto for Agentic Teams – reorganizing engineering around AI agents",
+      "fetched_at": "2026-06-10T14:50:16.109587+00:00"
+    },
+    "7333c69b5d0dea0f": {
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "fetched_at": "2026-06-10T14:50:16.750118+00:00"
+    },
+    "9ce235f02892675a": {
+      "title": "Ronny Chieng Told Harvard Grads to 'Destroy AI.' They Cheered",
+      "fetched_at": "2026-06-10T14:50:17.375746+00:00"
+    },
+    "c75084a8ccef97a7": {
+      "title": "Show HN: A curated collection of simple datasets for machine learning",
+      "fetched_at": "2026-06-10T14:50:18.009862+00:00"
+    },
+    "fced7681f8b7020e": {
+      "title": "I'm launching Tech Influence Watch as AI follows crypto into politics",
+      "fetched_at": "2026-06-10T14:50:18.648242+00:00"
+    },
+    "79a0247c8fb2f321": {
+      "title": "AtlasForgeX – AI-powered living business intelligence network",
+      "fetched_at": "2026-06-10T14:50:19.267866+00:00"
+    },
+    "8a07959b4fcfe556": {
+      "title": "Our workplace LLM mass delusion",
+      "fetched_at": "2026-06-10T14:50:19.889287+00:00"
+    },
+    "26b93974b73eb472": {
+      "title": "Show HN: Track top AI companies and get daily AI news",
+      "fetched_at": "2026-06-10T14:50:20.535273+00:00"
+    },
+    "98fb4813beb9e9c4": {
+      "title": "Singular Learning Theory: AI learns like ice melts",
+      "fetched_at": "2026-06-10T14:50:21.187946+00:00"
+    },
+    "9f2bc9bad2597e92": {
+      "title": "AI, Jobs, and the Next Generation",
+      "fetched_at": "2026-06-10T14:50:21.808595+00:00"
+    },
+    "6a2a246eeae81507": {
+      "title": "Give AI a body – An isolated Linux environment for LLMs",
+      "fetched_at": "2026-06-10T14:50:22.508475+00:00"
+    },
+    "1f8cfcda8c425397": {
+      "title": "Lua.ex: Sandboxed Lua 5.3 on the Beam, Built for AI Agents · Lua.ex",
+      "fetched_at": "2026-06-10T14:50:23.134320+00:00"
+    },
+    "b7934a5c4f6facf2": {
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "fetched_at": "2026-06-10T14:50:23.760799+00:00"
+    },
+    "8af88463e4b3df4b": {
+      "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
+      "fetched_at": "2026-06-10T14:50:24.377659+00:00"
+    },
+    "32e8b0b17c5d7252": {
+      "title": "Built a Chrome extension to give AI exact UI context instead of screenshots",
+      "fetched_at": "2026-06-10T14:50:25.009722+00:00"
+    },
+    "a68202f19c2fb4bb": {
+      "title": "In-browser AI image detection",
+      "fetched_at": "2026-06-10T14:50:25.650001+00:00"
+    },
+    "bebe973c316fc0d4": {
+      "title": "Scientists discover giant, fan-shaped structure deep beneath the East Antarctic Ice Sheet",
+      "fetched_at": "2026-06-10T14:50:28.887392+00:00"
+    },
+    "726dbec1f6c9745c": {
+      "title": "Diagnostic dilemma: Man who donated his body after death had rare 'triple penis'",
+      "fetched_at": "2026-06-10T14:50:29.525775+00:00"
+    },
+    "1a7b363c8125cb08": {
+      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
+      "fetched_at": "2026-06-10T14:50:30.150440+00:00"
     }
   },
-  "last_updated": "2026-06-10T09:38:47.926929+00:00"
+  "last_updated": "2026-06-10T14:50:30.260650+00:00"
 }
