@@ -1,117 +1,5 @@
 {
   "articles": {
-    "1162a3411542b1d5": {
-      "title": "Show HN: SeaTicket – AI agent that resolve issues from GitHub, email and forums",
-      "fetched_at": "2026-06-03T02:40:50.562859+00:00"
-    },
-    "c1d6d7158adf46cb": {
-      "title": "腾讯AI产业应用大会在即，即将发布系列智能体应用新品",
-      "fetched_at": "2026-06-03T02:40:51.186253+00:00"
-    },
-    "048d6a262da98dd7": {
-      "title": "I left the Alan Turing Institute to join 'game-changer' AI lab",
-      "fetched_at": "2026-06-03T02:40:51.824576+00:00"
-    },
-    "b2725cd23b3fa860": {
-      "title": "创业板指盘中涨近3%，创历史新高",
-      "fetched_at": "2026-06-03T02:40:52.451185+00:00"
-    },
-    "6357e6fb59ce5352": {
-      "title": "Running an AI-native engineering org – Claude",
-      "fetched_at": "2026-06-03T02:40:53.121954+00:00"
-    },
-    "9a6810886d9af763": {
-      "title": "长三角铁路端午假期5天预计发送旅客1745万人次",
-      "fetched_at": "2026-06-03T02:40:53.758623+00:00"
-    },
-    "95096381c7a37b4f": {
-      "title": "Ask HN: Feedback on an AI-driven \"Life RPG\" for real-world skill building?",
-      "fetched_at": "2026-06-03T02:40:54.391974+00:00"
-    },
-    "0cb51b354680383c": {
-      "title": "微信将推出一款AI智能体？腾讯人士回应",
-      "fetched_at": "2026-06-03T02:40:55.033285+00:00"
-    },
-    "25699535bf4b4777": {
-      "title": "Free daily AI brief from your Garmin data (Gemini and GitHub Actions)",
-      "fetched_at": "2026-06-03T02:40:55.662243+00:00"
-    },
-    "a0654d02f26848ba": {
-      "title": "联讯仪器股价突破2000元大关",
-      "fetched_at": "2026-06-03T02:40:56.299118+00:00"
-    },
-    "730d1668f276a061": {
-      "title": "“星源智”完成新一轮融资",
-      "fetched_at": "2026-06-03T02:40:57.009236+00:00"
-    },
-    "6ec5a21d1efbb992": {
-      "title": "创业板指日内涨幅扩大至2%",
-      "fetched_at": "2026-06-03T02:40:57.630797+00:00"
-    },
-    "828273c7dab42ea4": {
-      "title": "中国5月RatingDog服务业PMI 54.4",
-      "fetched_at": "2026-06-03T02:40:58.257989+00:00"
-    },
-    "8db9d4705334e1e2": {
-      "title": "Google is paying Play Store developers for code to train its AI",
-      "fetched_at": "2026-06-03T02:40:58.884086+00:00"
-    },
-    "da669541366b167d": {
-      "title": "创业板指涨超1%",
-      "fetched_at": "2026-06-03T02:40:58.884216+00:00"
-    },
-    "b4f14fe7274f2cb7": {
-      "title": "央行6月3日7天期逆回购操作量为零",
-      "fetched_at": "2026-06-03T02:40:59.507686+00:00"
-    },
-    "a675750bb4cc644b": {
-      "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
-      "fetched_at": "2026-06-03T02:41:00.151076+00:00"
-    },
-    "ae81a5d319ab490a": {
-      "title": "A股三大指数开盘涨跌不一，贵金属板块下挫",
-      "fetched_at": "2026-06-03T02:41:00.791410+00:00"
-    },
-    "fda03054b9284064": {
-      "title": "Ask HN: Does using non-English languages affect LLM output quality?",
-      "fetched_at": "2026-06-03T02:41:01.408291+00:00"
-    },
-    "b80d444c579e7a21": {
-      "title": "恒指开盘跌0.33%，恒生科技指数跌0.7%",
-      "fetched_at": "2026-06-03T02:41:02.023031+00:00"
-    },
-    "769e368a68bdbf0f": {
-      "title": "关于出生公民权，爱尔兰和德国带来的不同启示",
-      "fetched_at": "2026-06-03T02:41:05.358946+00:00"
-    },
-    "89f93197610d4ef7": {
-      "title": "李宁与库里签约，进军美国运动服装市场",
-      "fetched_at": "2026-06-03T02:41:05.985585+00:00"
-    },
-    "7a29c8e6efc57a8a": {
-      "title": "沉迷白日夢的人 生活在兩個平行世界裡",
-      "fetched_at": "2026-06-03T02:41:06.620129+00:00"
-    },
-    "6a193ab8fc2e0fd8": {
-      "title": "科技公司大裁员，人工智能是原因还是借口？",
-      "fetched_at": "2026-06-03T02:41:07.246806+00:00"
-    },
-    "742ed3c1513dbe95": {
-      "title": "中國山西礦難至少82死 十七年來最致命事故",
-      "fetched_at": "2026-06-03T02:41:07.873998+00:00"
-    },
-    "17cc26492f45d230": {
-      "title": "'It was very very good': Ötzi the Iceman's body is covered in ancient yeast — and scientists just used it to make a sourdough",
-      "fetched_at": "2026-06-03T02:41:11.280140+00:00"
-    },
-    "983f13784042180d": {
-      "title": "Physicists achieve 'perfect randomness' for the first time ever",
-      "fetched_at": "2026-06-03T02:41:11.944366+00:00"
-    },
-    "705630e4100943e6": {
-      "title": "Funeral Cache Discovered in Egypt at Heliopolis",
-      "fetched_at": "2026-06-03T02:41:12.585434+00:00"
-    },
     "0c82552f4aec41e0": {
       "title": "AI and the Psychology of Cognitive Surrender",
       "fetched_at": "2026-06-03T10:41:00.145110+00:00"
@@ -3835,7 +3723,131 @@
     "2f2ebabac4f97e36": {
       "title": "Your brain starts making social decisions before you do",
       "fetched_at": "2026-06-11T02:34:36.723272+00:00"
+    },
+    "e883e18c9f48b88e": {
+      "title": "苏宁易采云：上半年采购单位、订单增长70%、39%",
+      "fetched_at": "2026-06-11T10:02:40.053708+00:00"
+    },
+    "bd23b0d55f09e402": {
+      "title": "Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude",
+      "fetched_at": "2026-06-11T10:02:40.654362+00:00"
+    },
+    "10eb8a87183c96e9": {
+      "title": "得邦照明：主业经营不涉及新技术、新产业、新业态、新模式，近期未签订重大合同",
+      "fetched_at": "2026-06-11T10:02:41.264332+00:00"
+    },
+    "4798caef81e2509a": {
+      "title": "印度塔塔咨询服务公司与Anthropic达成合作，将为5万名员工配备Claude",
+      "fetched_at": "2026-06-11T10:02:41.866648+00:00"
+    },
+    "967ca9932ffae338": {
+      "title": "隆基绿能在巴彦淖尔成立新公司",
+      "fetched_at": "2026-06-11T10:02:42.469797+00:00"
+    },
+    "2353524cc4c95f83": {
+      "title": "京东MALL引入首批实习机器人员工",
+      "fetched_at": "2026-06-11T10:02:43.062071+00:00"
+    },
+    "0f31aa495e613a15": {
+      "title": "Openpray: Periodically asks an LLM to pray for the server it runs on",
+      "fetched_at": "2026-06-11T10:02:43.678671+00:00"
+    },
+    "98a996d346e88672": {
+      "title": "药明康德：首次回购约1亿元，累计回购股份103.5万股",
+      "fetched_at": "2026-06-11T10:02:44.278219+00:00"
+    },
+    "61124a1e46fed84e": {
+      "title": "和顺电气：公司中标1.2亿元项目",
+      "fetched_at": "2026-06-11T10:02:44.915674+00:00"
+    },
+    "018ef0bca1f20f96": {
+      "title": "有研新材：股票交易异常波动，不存在应披露未披露重大信息",
+      "fetched_at": "2026-06-11T10:02:45.525763+00:00"
+    },
+    "dc278206ea89fb36": {
+      "title": "Show HN: Tail Panic – a multiplayer game designed for AI agents",
+      "fetched_at": "2026-06-11T10:02:46.137891+00:00"
+    },
+    "b72d2ce7abdeb10f": {
+      "title": "日本散户大军蜂拥认购SpaceX股票",
+      "fetched_at": "2026-06-11T10:02:46.746839+00:00"
+    },
+    "094f7b0425c958a0": {
+      "title": "Show HN: SpadeBox – Sandboxed tools and JavaScript runtime for AI agents",
+      "fetched_at": "2026-06-11T10:02:47.351623+00:00"
+    },
+    "49963589fae32c38": {
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "fetched_at": "2026-06-11T10:02:47.956979+00:00"
+    },
+    "f329a4c8a4531be0": {
+      "title": "中国银河投资电广传媒等成立企管中心，出资额约1.35亿",
+      "fetched_at": "2026-06-11T10:02:48.567689+00:00"
+    },
+    "013b3129a6ddf1b2": {
+      "title": "滴滴App 8.0全新升级，增加“送货”“旅行”“车主”等入口",
+      "fetched_at": "2026-06-11T10:02:49.178634+00:00"
+    },
+    "39192714237336a0": {
+      "title": "30款App因个人信息收集使用问题被通报",
+      "fetched_at": "2026-06-11T10:02:49.790261+00:00"
+    },
+    "f705d645773438c9": {
+      "title": "国仪量子科创板IPO申请获证监会同意注册批复",
+      "fetched_at": "2026-06-11T10:02:50.383000+00:00"
+    },
+    "10e4e20ffce68c37": {
+      "title": "AI can control your desktop through scripts",
+      "fetched_at": "2026-06-11T10:02:50.990206+00:00"
+    },
+    "499b07ddf368e245": {
+      "title": "携程、美团等7家涉火车票销售第三方平台被约谈",
+      "fetched_at": "2026-06-11T10:02:51.597341+00:00"
+    },
+    "5f5fa62365be98f0": {
+      "title": "香港籃球教練體罰爭議 前學員打破沉默",
+      "fetched_at": "2026-06-11T10:02:54.068860+00:00"
+    },
+    "c20706318a41d252": {
+      "title": "伊朗與美國難以維持停火的四大原因",
+      "fetched_at": "2026-06-11T10:02:54.697540+00:00"
+    },
+    "923dfd507b4d1d7f": {
+      "title": "美加墨世界盃規模空前，卻因政治因素而代價高昂",
+      "fetched_at": "2026-06-11T10:02:55.296919+00:00"
+    },
+    "65343ef91a4f0ce2": {
+      "title": "印度洋海底發現大面積鯨墓地，可追溯至500多萬年前",
+      "fetched_at": "2026-06-11T10:02:55.907974+00:00"
+    },
+    "2c2c05ee4bbac77d": {
+      "title": "《火影忍者》：美國總統特朗普使用動漫角色引發日本輿論反彈",
+      "fetched_at": "2026-06-11T10:02:56.530913+00:00"
+    },
+    "789fbc2f8b74ab03": {
+      "title": "球員大腦揭秘：「心流狀態」現代足球的致勝關鍵？",
+      "fetched_at": "2026-06-11T10:02:57.138704+00:00"
+    },
+    "5b9cdd369a74ce80": {
+      "title": "人人走路都“左倾”？",
+      "fetched_at": "2026-06-11T10:02:57.730561+00:00"
+    },
+    "3ecc0cf0605bf7a3": {
+      "title": "爱泼斯坦档案如何令白宫陷入瘫痪",
+      "fetched_at": "2026-06-11T10:02:58.334156+00:00"
+    },
+    "9e29bde63b87fa9a": {
+      "title": "北爱尔兰爆发反移民暴力骚乱，一文详解事件原委",
+      "fetched_at": "2026-06-11T10:02:58.933836+00:00"
+    },
+    "93a0526b29d8f96d": {
+      "title": "哪些人最容易被人工智能“抢饭碗”",
+      "fetched_at": "2026-06-11T10:02:59.533569+00:00"
+    },
+    "454a9a4deb611f2e": {
+      "title": "Scientists propose a radical new theory for how life began on Earth",
+      "fetched_at": "2026-06-11T10:03:02.258933+00:00"
     }
   },
-  "last_updated": "2026-06-11T02:34:36.874051+00:00"
+  "last_updated": "2026-06-11T10:03:02.410639+00:00"
 }
