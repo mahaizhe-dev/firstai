@@ -1,105 +1,5 @@
 {
   "articles": {
-    "9e5bce54e6b3b330": {
-      "title": "The CDP Is the AI",
-      "fetched_at": "2026-06-02T20:33:25.582761+00:00"
-    },
-    "118695fc54018038": {
-      "title": "RSS is back AI agents are reading it",
-      "fetched_at": "2026-06-02T20:33:26.208899+00:00"
-    },
-    "7562130da839775b": {
-      "title": "I built a React and MDX workspace so AI agents stop generating giant HTML files",
-      "fetched_at": "2026-06-02T20:33:26.833333+00:00"
-    },
-    "76169fdc6f660a7d": {
-      "title": "Show HN: Jolli AI – Local-First AI Memory for Claude Code, Codex, and Gemini CLI",
-      "fetched_at": "2026-06-02T20:33:27.452264+00:00"
-    },
-    "96f010356760ca51": {
-      "title": "Uber caps employee AI spending after blowing through budget in four months",
-      "fetched_at": "2026-06-02T20:33:34.053224+00:00"
-    },
-    "416f05dda80791c1": {
-      "title": "The AI Trap We're Walking Into",
-      "fetched_at": "2026-06-02T20:33:28.804151+00:00"
-    },
-    "943fdcdf36c643c6": {
-      "title": "AI Budget Is Growing. Your Returns Aren't",
-      "fetched_at": "2026-06-02T20:33:29.486553+00:00"
-    },
-    "db38b8954ee61cb7": {
-      "title": "Project Tapestry: The Path to Frontier Sovereign AI",
-      "fetched_at": "2026-06-02T20:33:30.110750+00:00"
-    },
-    "def5d0dafd593883": {
-      "title": "I wrote a book about refusing to claim authorship of an AI \"million dollar\"proof",
-      "fetched_at": "2026-06-02T20:33:30.771428+00:00"
-    },
-    "f9b0aa1decd3ea5c": {
-      "title": "Microsoft Build 2026: The 7 biggest announcements",
-      "fetched_at": "2026-06-02T20:33:31.393595+00:00"
-    },
-    "662c0c69ee48ac12": {
-      "title": "Show HN: Building an Unique Braille Loader for My AI Startup",
-      "fetched_at": "2026-06-02T20:33:32.087621+00:00"
-    },
-    "d7ff64c14fe38c94": {
-      "title": "Google rolls out fake call detection to protect against AI impersonation scams",
-      "fetched_at": "2026-06-02T20:33:32.717934+00:00"
-    },
-    "de0fc806ce061da1": {
-      "title": "Trump signs an executive order to vet top AI models for national security risks",
-      "fetched_at": "2026-06-02T20:33:33.416890+00:00"
-    },
-    "71d11f7cdf8036da": {
-      "title": "Karpathy's LLM teaching corpus, rendered as a designed HTML wiki",
-      "fetched_at": "2026-06-02T20:33:34.053090+00:00"
-    },
-    "169649585f7b1c61": {
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "fetched_at": "2026-06-02T20:33:34.684983+00:00"
-    },
-    "58bb7414e6ca7ba2": {
-      "title": "People are flooding AI chatbots with health questions. Microsoft Mayo Clinic",
-      "fetched_at": "2026-06-02T20:33:35.413935+00:00"
-    },
-    "e17263bc4e72cecf": {
-      "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
-      "fetched_at": "2026-06-02T20:33:36.118941+00:00"
-    },
-    "2f554f7a219e959b": {
-      "title": "Microsoft Wants to 'Make People Addicted' to Its New AI Assistant",
-      "fetched_at": "2026-06-02T20:33:36.747930+00:00"
-    },
-    "788e3b6abc6a1aa8": {
-      "title": "Agent Control Specification: Portable Runtime Governance for AI Agents",
-      "fetched_at": "2026-06-02T20:33:37.377547+00:00"
-    },
-    "bea50892285ca4a8": {
-      "title": "專訪台灣作家楊双子：從美食探尋台灣殖民歷史",
-      "fetched_at": "2026-06-02T20:33:40.219444+00:00"
-    },
-    "72b4348006861cd9": {
-      "title": "Paleolithic Rock Art Confirmed in Wales",
-      "fetched_at": "2026-06-02T20:33:44.349646+00:00"
-    },
-    "cbc5df6e24aae645": {
-      "title": "Evidence of Surgery 4,000 Years Ago Uncovered in Central Asia",
-      "fetched_at": "2026-06-02T20:33:44.969196+00:00"
-    },
-    "ef376b49ee42d90d": {
-      "title": "This prehistoric fish may explain how animals first walked on Earth",
-      "fetched_at": "2026-06-02T20:33:45.592787+00:00"
-    },
-    "5ca889c68bf9b92b": {
-      "title": "100-million-year-old bug had crab-like claws unlike any known insect",
-      "fetched_at": "2026-06-02T20:33:46.222082+00:00"
-    },
-    "61643b55e58f8b66": {
-      "title": "Scientists discover why some DNA-doubled cells refuse to die",
-      "fetched_at": "2026-06-02T20:33:46.842274+00:00"
-    },
     "1162a3411542b1d5": {
       "title": "Show HN: SeaTicket – AI agent that resolve issues from GitHub, email and forums",
       "fetched_at": "2026-06-03T02:40:50.562859+00:00"
@@ -3791,7 +3691,151 @@
     "7eca47361fa43b28": {
       "title": "2 long-vanished 'super Earths' once orbited near Neptune in our outer solar system, new study hints",
       "fetched_at": "2026-06-10T20:09:15.666060+00:00"
+    },
+    "9cff63c9782bd452": {
+      "title": "Scarcity is driving AI innovation outside Silicon Valley",
+      "fetched_at": "2026-06-11T02:34:12.785097+00:00"
+    },
+    "35c3549358dd2787": {
+      "title": "长春市：近年来一汽产销出现下滑，未来或将面临央企战略重组的压力",
+      "fetched_at": "2026-06-11T02:34:13.351941+00:00"
+    },
+    "86f993669c68c4cf": {
+      "title": "沪深两市成交额突破1万亿",
+      "fetched_at": "2026-06-11T02:34:13.918513+00:00"
+    },
+    "8a481211e452dbb7": {
+      "title": "We Used Agentic AI to Fix Kong Gateway's Flakiest Tests",
+      "fetched_at": "2026-06-11T02:34:14.494146+00:00"
+    },
+    "151f6b68fd21d310": {
+      "title": "今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "fetched_at": "2026-06-11T02:34:15.060877+00:00"
+    },
+    "9def031166828959": {
+      "title": "钉钉换帅，92年技术极客陈宇森接任钉钉CEO",
+      "fetched_at": "2026-06-11T02:34:15.629257+00:00"
+    },
+    "cef62f9d89de7fa5": {
+      "title": "智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景",
+      "fetched_at": "2026-06-11T02:34:16.202253+00:00"
+    },
+    "ebc3e01b2bf3c463": {
+      "title": "创业板指涨超1%",
+      "fetched_at": "2026-06-11T02:34:16.772560+00:00"
+    },
+    "126ea9ea70fc73d5": {
+      "title": "深证成指转涨",
+      "fetched_at": "2026-06-11T02:34:17.413691+00:00"
+    },
+    "79be7de26556b54b": {
+      "title": "小米推出AI 编程助手MiMo Code",
+      "fetched_at": "2026-06-11T02:34:17.987004+00:00"
+    },
+    "703db1ef99962a8f": {
+      "title": "OpenAI考虑大幅降价，以期在与Anthropic的用户争夺战中占据有利地位",
+      "fetched_at": "2026-06-11T02:34:18.573458+00:00"
+    },
+    "45f935137cd5cb07": {
+      "title": "恒指、恒生科技指数转涨",
+      "fetched_at": "2026-06-11T02:34:19.137440+00:00"
+    },
+    "09475fceaec40cfd": {
+      "title": "A股三大指数集体低开，能源股领涨",
+      "fetched_at": "2026-06-11T02:34:19.710292+00:00"
+    },
+    "b191a2d58af0e145": {
+      "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+      "fetched_at": "2026-06-11T02:34:20.284628+00:00"
+    },
+    "6ad8de4f0b5fe788": {
+      "title": "央行今日开展1885亿元7天逆回购操作",
+      "fetched_at": "2026-06-11T02:34:20.879025+00:00"
+    },
+    "50f1daebf5bcb0b1": {
+      "title": "恒指开盘跌0.11%，恒生科技指数跌0.2%",
+      "fetched_at": "2026-06-11T02:34:21.445676+00:00"
+    },
+    "f5e625cdd3385b98": {
+      "title": "Fruit Machine (Homosexuality Test)",
+      "fetched_at": "2026-06-11T02:34:22.020130+00:00"
+    },
+    "0cc0a97861345ef8": {
+      "title": "甲骨文CFO：公司积压订单达6380亿美元，体现市场对AI基建和云服务的需求旺盛",
+      "fetched_at": "2026-06-11T02:34:22.589269+00:00"
+    },
+    "de014a8c60798522": {
+      "title": "人民币兑美元中间价报6.8150",
+      "fetched_at": "2026-06-11T02:34:23.166351+00:00"
+    },
+    "f125eede9fcf9ceb": {
+      "title": "How AI Agents Reshape Knowledge Work",
+      "fetched_at": "2026-06-11T02:34:23.741402+00:00"
+    },
+    "d6c3e834643ab856": {
+      "title": "香港宏福苑大火追责：检方对七人和两家公司提出指控",
+      "fetched_at": "2026-06-11T02:34:26.130849+00:00"
+    },
+    "26a30a27aae4068e": {
+      "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但你又可以怎麼樣？」",
+      "fetched_at": "2026-06-11T02:34:26.707145+00:00"
+    },
+    "21d2ee89454dd6e3": {
+      "title": "特朗普称谈判“拖得太久”，美国对伊朗发动新一轮空袭",
+      "fetched_at": "2026-06-11T02:34:27.277424+00:00"
+    },
+    "978bf753dd9e1ea6": {
+      "title": "亿万富翁的财富正以史上最快速度增长",
+      "fetched_at": "2026-06-11T02:34:27.854576+00:00"
+    },
+    "6fb69403117d5365": {
+      "title": "一部描繪潮汕華僑的中國電影《給阿嬤的情書》為何大賣",
+      "fetched_at": "2026-06-11T02:34:28.478421+00:00"
+    },
+    "d9bf0c248260fe61": {
+      "title": "《嘆春風》與中國「男色經濟」：女性慾望如何變成一門生意？",
+      "fetched_at": "2026-06-11T02:34:29.072649+00:00"
+    },
+    "cb40cb2e0df12a5f": {
+      "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
+      "fetched_at": "2026-06-11T02:34:31.524349+00:00"
+    },
+    "58f53684111051bd": {
+      "title": "I've Solved Content Discovery Conditions May Apply",
+      "fetched_at": "2026-06-11T02:34:32.097684+00:00"
+    },
+    "2472064f2c35d591": {
+      "title": "Scientists discover 5 million-year-old whale graveyard stretching for hundreds of miles in the Indian Ocean",
+      "fetched_at": "2026-06-11T02:34:32.675383+00:00"
+    },
+    "c6644ae3b58abd3d": {
+      "title": "Artificial turf contains 400 chemicals tied to cancer and hormone disruption. But is it unsafe?",
+      "fetched_at": "2026-06-11T02:34:33.242242+00:00"
+    },
+    "331adcc84ab5d539": {
+      "title": "Callisto, Jupiter's Ancient Moon",
+      "fetched_at": "2026-06-11T02:34:33.826566+00:00"
+    },
+    "b377f6821225ef1a": {
+      "title": "This 'crawling' robot rolled around the moon and took a historic photo",
+      "fetched_at": "2026-06-11T02:34:34.433976+00:00"
+    },
+    "b62506a250e477b6": {
+      "title": "A single protein may be holding back CAR T cancer therapy",
+      "fetched_at": "2026-06-11T02:34:35.009981+00:00"
+    },
+    "ead0f3cbdaa515e0": {
+      "title": "This blood-feeding fly sacrifices its sight after finding a host",
+      "fetched_at": "2026-06-11T02:34:35.588981+00:00"
+    },
+    "e3fdf706d9d386b3": {
+      "title": "A stellar “Rosetta stone” reveals the source of mysterious cosmic signals",
+      "fetched_at": "2026-06-11T02:34:36.151365+00:00"
+    },
+    "2f2ebabac4f97e36": {
+      "title": "Your brain starts making social decisions before you do",
+      "fetched_at": "2026-06-11T02:34:36.723272+00:00"
     }
   },
-  "last_updated": "2026-06-10T20:09:15.773400+00:00"
+  "last_updated": "2026-06-11T02:34:36.874051+00:00"
 }
