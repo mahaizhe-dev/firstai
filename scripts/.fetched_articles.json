@@ -1,133 +1,5 @@
 {
   "articles": {
-    "05fff904f89b1228": {
-      "title": "AI Agents Enable Adaptive Computer Worms",
-      "fetched_at": "2026-06-03T20:45:52.845861+00:00"
-    },
-    "13fb43c10ce2a539": {
-      "title": "The deadliest poison known to AI",
-      "fetched_at": "2026-06-03T20:45:53.654845+00:00"
-    },
-    "0a44a303463047f5": {
-      "title": "Improve Shopify Product Visibility for AI Search",
-      "fetched_at": "2026-06-03T20:45:54.220522+00:00"
-    },
-    "a5a59cf4ccecc972": {
-      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "fetched_at": "2026-06-03T20:45:54.794363+00:00"
-    },
-    "ec657d9b87f0eedd": {
-      "title": "Show HN: Aeterna – Private, passwordless AI digital legacy vault",
-      "fetched_at": "2026-06-03T20:45:55.361527+00:00"
-    },
-    "eb931f9eaadac507": {
-      "title": "Stophy for AI Agents",
-      "fetched_at": "2026-06-03T20:45:55.925576+00:00"
-    },
-    "16c95de58be32179": {
-      "title": "Trump's Takeover of the American Regulatory Machine",
-      "fetched_at": "2026-06-03T20:45:56.575067+00:00"
-    },
-    "830d5b24afbb1ad1": {
-      "title": "How to Debug AI Agents with Traces and Evals",
-      "fetched_at": "2026-06-03T20:45:57.146022+00:00"
-    },
-    "e785767910f3fbbe": {
-      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-      "fetched_at": "2026-06-03T20:45:57.711280+00:00"
-    },
-    "fe0424e9696708d8": {
-      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-      "fetched_at": "2026-06-03T20:45:58.299017+00:00"
-    },
-    "02b235636db00507": {
-      "title": "How much AI should my team use? A framework for managers",
-      "fetched_at": "2026-06-03T20:45:58.869358+00:00"
-    },
-    "57e7bc3fb3dd8483": {
-      "title": "AI Is Computation",
-      "fetched_at": "2026-06-03T20:45:59.474622+00:00"
-    },
-    "a069dec4c64b6b5e": {
-      "title": "Coursera now offers an AI-powered feed of short form educational content",
-      "fetched_at": "2026-06-03T20:46:00.040932+00:00"
-    },
-    "4f649e2f0f93356a": {
-      "title": "UN calculates nation-sized environmental footprints for AI and data centers",
-      "fetched_at": "2026-06-03T20:46:00.764891+00:00"
-    },
-    "a97207a776f14897": {
-      "title": "Matt Levine on why no opting out of the AI Boom?",
-      "fetched_at": "2026-06-03T20:46:01.326884+00:00"
-    },
-    "ed79a4128eb5efbe": {
-      "title": "Amazon's search bar will invent AI-generated products you can't buy",
-      "fetched_at": "2026-06-03T20:46:01.897018+00:00"
-    },
-    "fc2dd6072a0658b2": {
-      "title": "A Pro-AI Super PAC's Meme Sockpuppets",
-      "fetched_at": "2026-06-03T20:46:02.528724+00:00"
-    },
-    "e586d901c907e497": {
-      "title": "Leaving the tracking pixel machine to learn C",
-      "fetched_at": "2026-06-03T20:46:03.125292+00:00"
-    },
-    "b9f62ae4fda90511": {
-      "title": "Show HN: CTP Room – a shared chat room where your AI coding agents coordinate",
-      "fetched_at": "2026-06-03T20:46:03.698580+00:00"
-    },
-    "eb99844b64b06658": {
-      "title": "Found a new use case for AI Comics: Product launches",
-      "fetched_at": "2026-06-03T20:46:04.266661+00:00"
-    },
-    "500a39400cac4aab": {
-      "title": "突破防火長城：中國、伊朗、緬甸、委內瑞拉民間如何抵抗網絡封鎖？",
-      "fetched_at": "2026-06-03T20:46:07.297073+00:00"
-    },
-    "a903015201cdd6f1": {
-      "title": "Google wants to release 64 million bacteria-riddled mosquitoes across California and Florida. Here's why scientists are enthusiastic.",
-      "fetched_at": "2026-06-03T20:46:09.318664+00:00"
-    },
-    "3eb297715c03db8c": {
-      "title": "Brass Instrument Unearthed at Michigan’s Colonial Michilimackinac",
-      "fetched_at": "2026-06-03T20:46:09.894484+00:00"
-    },
-    "1c815a82d3aa39ba": {
-      "title": "Road Leading to Ancient City of Side Excavated",
-      "fetched_at": "2026-06-03T20:46:10.745378+00:00"
-    },
-    "e5a596177a02bc7c": {
-      "title": "Medieval Queen’s Remains Exhumed in Spain",
-      "fetched_at": "2026-06-03T20:46:11.313781+00:00"
-    },
-    "6c1774e117791718": {
-      "title": "'In an unrecoverable state': NASA confirms MAVEN spacecraft is officially dead after loss of signal behind Mars",
-      "fetched_at": "2026-06-03T20:46:12.118833+00:00"
-    },
-    "4ef87c5abf3d21ce": {
-      "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
-      "fetched_at": "2026-06-03T20:46:12.692000+00:00"
-    },
-    "8670e42ba58298b7": {
-      "title": "Large Hadron Collider detects strange particle behavior that could rewrite physics",
-      "fetched_at": "2026-06-03T20:46:13.253358+00:00"
-    },
-    "6b6fe8bfcdd4ecdf": {
-      "title": "Scientists create global treasure map pointing to hidden rare earth deposits",
-      "fetched_at": "2026-06-03T20:46:13.826647+00:00"
-    },
-    "33a2005b1d56dc7d": {
-      "title": "Queenless wasp colonies explode into chaos but hidden helpers save them",
-      "fetched_at": "2026-06-03T20:46:14.407196+00:00"
-    },
-    "eeb155a5f34c4b92": {
-      "title": "Venomous Himalayan pit viper was actually 5 different species all along",
-      "fetched_at": "2026-06-03T20:46:14.991903+00:00"
-    },
-    "0d67b807a41d7f29": {
-      "title": "Massive supercomputer simulations unlock cosmic magnetic mystery",
-      "fetched_at": "2026-06-03T20:46:15.559009+00:00"
-    },
     "6c00aaa4b0aa5038": {
       "title": "今夏国家电网最大用电负荷将超13亿千瓦，同比增约6%",
       "fetched_at": "2026-06-04T02:36:17.031098+00:00"
@@ -3803,7 +3675,147 @@
     "708b457ec66ee99e": {
       "title": "El Niño is officially here, and will be among the strongest ever recorded, NOAA announces",
       "fetched_at": "2026-06-11T20:08:42.994547+00:00"
+    },
+    "57d95d82d3047cff": {
+      "title": "“空山慈”完成A轮融资",
+      "fetched_at": "2026-06-12T02:29:03.241603+00:00"
+    },
+    "f0ff908ac8f5b6b4": {
+      "title": "全国最大半潜式综合性网箱养殖平台将投产",
+      "fetched_at": "2026-06-12T02:29:03.861479+00:00"
+    },
+    "ac8e2716daf6a347": {
+      "title": "恒生科技指数日内涨幅扩大至2%",
+      "fetched_at": "2026-06-12T02:29:04.485096+00:00"
+    },
+    "eea1a2f7e1bc6aea": {
+      "title": "Show HN: Approve an AI agent's wire with Face ID,then watch a forged one fail",
+      "fetched_at": "2026-06-12T02:29:05.125207+00:00"
+    },
+    "f72ca738b5a90d8e": {
+      "title": "Chaining LLM and web bugs to Admin",
+      "fetched_at": "2026-06-12T02:29:05.767069+00:00"
+    },
+    "8e98b7b1af56dddb": {
+      "title": "茅台董事长陈华：只要满足条件会尽可能多投料，多生产基酒",
+      "fetched_at": "2026-06-12T02:29:06.401386+00:00"
+    },
+    "8f849dc1c141ee55": {
+      "title": "广州：拟支持香港赛马会从化马场、广州国际赛马发展中心建设，支持开展常规赛事计划",
+      "fetched_at": "2026-06-12T02:29:07.027881+00:00"
+    },
+    "0db7eb29909ee2d3": {
+      "title": "Built SwiPR – swipe-to-review GitHub PRs with AI context",
+      "fetched_at": "2026-06-12T02:29:07.656651+00:00"
+    },
+    "dbdb5e19a15c81ef": {
+      "title": "The Nerdy Escorts Cashing in on Silicon Valley's AI Boom",
+      "fetched_at": "2026-06-12T02:29:08.299779+00:00"
+    },
+    "e5e50baf3e698dc6": {
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "fetched_at": "2026-06-12T02:29:08.932607+00:00"
+    },
+    "b4b718638ec3a38a": {
+      "title": "今年以来广东外贸进出口连续5个月保持两位数增长",
+      "fetched_at": "2026-06-12T02:29:09.564719+00:00"
+    },
+    "e4ac8ebd6bdca16a": {
+      "title": "李家超：香港首份五年规划有望于第三季度末出炉",
+      "fetched_at": "2026-06-12T02:29:10.198027+00:00"
+    },
+    "42f092a8e69e4d76": {
+      "title": "Copyright – Right Answer for Open Source Code, Wrong Answer for Open Source AI?",
+      "fetched_at": "2026-06-12T02:29:10.821934+00:00"
+    },
+    "b1819f86f70af843": {
+      "title": "79% on LongMemEval: How We Beat Full-Context GPT-4 with a Local SQLite Database",
+      "fetched_at": "2026-06-12T02:29:11.436984+00:00"
+    },
+    "9c846e0c239fbc73": {
+      "title": "Dealership revoked offer to buy back customer's BMW, blaming wayward AI chatbot",
+      "fetched_at": "2026-06-12T02:29:12.061945+00:00"
+    },
+    "11531d00f63ae99a": {
+      "title": "Ask HN: What computer are you using for AI coding tools?",
+      "fetched_at": "2026-06-12T02:29:12.684793+00:00"
+    },
+    "63f564a63186efc3": {
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "fetched_at": "2026-06-12T02:29:13.315212+00:00"
+    },
+    "07dd49270ddc0be1": {
+      "title": "A股三大指数集体高开，半导体板块大涨",
+      "fetched_at": "2026-06-12T02:29:13.940122+00:00"
+    },
+    "7a92b3b3e32bf278": {
+      "title": "6月12日人民币对美元中间价调升41个基点",
+      "fetched_at": "2026-06-12T02:29:14.561587+00:00"
+    },
+    "d557b9631c7928c1": {
+      "title": "央行6月12日公开市场开展3930亿元7天期逆回购操作",
+      "fetched_at": "2026-06-12T02:29:15.175154+00:00"
+    },
+    "f754363933643e34": {
+      "title": "泰國當局判處兩維吾爾人死刑 BBC記者回憶當年的曼谷四面佛爆炸案",
+      "fetched_at": "2026-06-12T02:29:18.067291+00:00"
+    },
+    "1ba7dc2d803af58a": {
+      "title": "世界盃墨西哥揭幕：夏奇拉熱鬧開唱，場外數百人抗議",
+      "fetched_at": "2026-06-12T02:29:18.742610+00:00"
+    },
+    "45607fb0e5bf6faf": {
+      "title": "香港反修例示威七週年：政府推出「正向教育」活動，當年被捕的年輕人會買賬嗎？",
+      "fetched_at": "2026-06-12T02:29:19.373058+00:00"
+    },
+    "4c7935ff6cf5ab37": {
+      "title": "为什么人形机器人离不开中国零部件",
+      "fetched_at": "2026-06-12T02:29:19.987382+00:00"
+    },
+    "25b084da1ad3f735": {
+      "title": "「我感覺更輕鬆，更開放」：誰說老年人不宜做心理治療",
+      "fetched_at": "2026-06-12T02:29:20.629069+00:00"
+    },
+    "c8e4dcf06e95a1b5": {
+      "title": "Ancient squirrel poop from Arctic permafrost contains DNA from mammoths, bison, horses and big cats",
+      "fetched_at": "2026-06-12T02:29:22.352708+00:00"
+    },
+    "e8e65626afced785": {
+      "title": "Venus will disappear behind the Moon in a rare June sky event",
+      "fetched_at": "2026-06-12T02:29:23.025133+00:00"
+    },
+    "3ed32fbe095d6d37": {
+      "title": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
+      "fetched_at": "2026-06-12T02:29:23.657376+00:00"
+    },
+    "cf53156b2ae0f546": {
+      "title": "This new diabetes pill burns fat without the downsides of Ozempic",
+      "fetched_at": "2026-06-12T02:29:24.279074+00:00"
+    },
+    "310494db1fc7aacf": {
+      "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
+      "fetched_at": "2026-06-12T02:29:24.900564+00:00"
+    },
+    "93a1767042a40103": {
+      "title": "New discovery upends an 80-year-old theory of turbulence",
+      "fetched_at": "2026-06-12T02:29:25.532825+00:00"
+    },
+    "f9c7bc772ea56adc": {
+      "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
+      "fetched_at": "2026-06-12T02:29:26.196141+00:00"
+    },
+    "f23dd4beee631362": {
+      "title": "Scientists discovered something surprising about french fries and diabetes",
+      "fetched_at": "2026-06-12T02:29:26.803759+00:00"
+    },
+    "4de9dca99e291107": {
+      "title": "Scientists confirm a deep earthquake that shouldn't exist",
+      "fetched_at": "2026-06-12T02:29:27.447627+00:00"
+    },
+    "4589f2886cd95587": {
+      "title": "Brain scans reveal two distinct types of autism",
+      "fetched_at": "2026-06-12T02:29:28.071168+00:00"
     }
   },
-  "last_updated": "2026-06-11T20:08:43.142022+00:00"
+  "last_updated": "2026-06-12T02:29:28.177555+00:00"
 }
