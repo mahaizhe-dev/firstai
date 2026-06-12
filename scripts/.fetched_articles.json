@@ -1,101 +1,5 @@
 {
   "articles": {
-    "b2bebf14f2918969": {
-      "title": "AI as a Context Compiler",
-      "fetched_at": "2026-06-04T14:32:05.081059+00:00"
-    },
-    "03b6f27d376d60df": {
-      "title": "Hackers Asked Meta AI for Passwords. Meta AI Said Yes",
-      "fetched_at": "2026-06-04T14:32:05.713787+00:00"
-    },
-    "0bb69213bab7e7d2": {
-      "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
-      "fetched_at": "2026-06-04T14:32:06.351029+00:00"
-    },
-    "d6cd9a54deaee45f": {
-      "title": "What Bun Can Tell Us About AI, Open Source and Anthropic",
-      "fetched_at": "2026-06-04T14:32:06.977733+00:00"
-    },
-    "e543abfd999fdc2f": {
-      "title": "Sangam Tamil literature search engine with AI explanations",
-      "fetched_at": "2026-06-04T14:32:07.609025+00:00"
-    },
-    "c155e33e87eab776": {
-      "title": "First clinical pregnancy following AI-based sperm detection and recovery",
-      "fetched_at": "2026-06-04T14:32:08.243479+00:00"
-    },
-    "404a469b1f8b0978": {
-      "title": "Top AI CEOs Call for Law Protecting Against Biological Weapons",
-      "fetched_at": "2026-06-04T14:32:08.926971+00:00"
-    },
-    "5a8486dd22d15403": {
-      "title": "Let us filter AI slop, you cowards",
-      "fetched_at": "2026-06-04T14:32:09.655997+00:00"
-    },
-    "4f06f6f6c341b424": {
-      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
-      "fetched_at": "2026-06-04T14:32:10.282428+00:00"
-    },
-    "23275d4eecc481dc": {
-      "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
-      "fetched_at": "2026-06-04T14:32:10.902695+00:00"
-    },
-    "1fbcf209ca7c414b": {
-      "title": "Teradata CEO to staff: You're not getting a raise. We're spending on AI instead",
-      "fetched_at": "2026-06-04T14:32:11.522998+00:00"
-    },
-    "ededa89b4e390bd4": {
-      "title": "Design and engineering solve different problems; AI is forgetting that",
-      "fetched_at": "2026-06-04T14:32:12.168474+00:00"
-    },
-    "98bab41fb2667205": {
-      "title": "Less than 4% Australians trust AI companies",
-      "fetched_at": "2026-06-04T14:32:12.804717+00:00"
-    },
-    "fc61a4882d02c250": {
-      "title": "Show HN: Hello Inbox – Your AI Email Deliverability Expert, Available 24/7",
-      "fetched_at": "2026-06-04T14:32:13.454026+00:00"
-    },
-    "48e7110bc83bb171": {
-      "title": "Pairing AI with Optical Device to Correct Distorted Light for Sharper Imaging",
-      "fetched_at": "2026-06-04T14:32:14.083378+00:00"
-    },
-    "eeac3a7e0743ef93": {
-      "title": "Ask HN: What happens when humans become as dumb as AI?",
-      "fetched_at": "2026-06-04T14:32:14.709798+00:00"
-    },
-    "ad68b8bca3930d3a": {
-      "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-      "fetched_at": "2026-06-04T14:32:15.367726+00:00"
-    },
-    "688cc6aba433bc33": {
-      "title": "Docs AI that routes context with a nano model instead of a vector DB",
-      "fetched_at": "2026-06-04T14:32:15.985360+00:00"
-    },
-    "b742550c0ebd4b2b": {
-      "title": "Being a Human Engineer in the AI Era",
-      "fetched_at": "2026-06-04T14:32:16.637150+00:00"
-    },
-    "5e0b4c2c7b73afd1": {
-      "title": "Researchers show how AI-powered worms could wreak havoc on the internet",
-      "fetched_at": "2026-06-04T14:32:17.314641+00:00"
-    },
-    "1672d8fa74af4e44": {
-      "title": "NASA公佈永久月球基地多項細節，美中登月競爭日趨白熱化",
-      "fetched_at": "2026-06-04T14:32:20.826994+00:00"
-    },
-    "867ede4b0af11247": {
-      "title": "Celestron StarSense Explorer LT 70AZ review",
-      "fetched_at": "2026-06-04T14:34:36.665608+00:00"
-    },
-    "f165849d3b9076d4": {
-      "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
-      "fetched_at": "2026-06-04T14:34:37.293336+00:00"
-    },
-    "250b51201b0783f7": {
-      "title": "Scientists discover ancient single-celled ancestors still live on in your blood",
-      "fetched_at": "2026-06-04T14:34:37.918380+00:00"
-    },
     "21745e40fdd83055": {
       "title": "Ask HN: Good books/resources for learning SQL?",
       "fetched_at": "2026-06-04T19:53:10.069858+00:00"
@@ -3855,7 +3759,115 @@
     "ebc2e44546fcceae": {
       "title": "NASA's Webb detects methane and strange chemistry on interstellar comet 3I/ATLAS",
       "fetched_at": "2026-06-12T14:31:35.054563+00:00"
+    },
+    "cf36bf0db7e2aa23": {
+      "title": "GatekeeperAI – self-hosted governance platform for AI apps your team is building",
+      "fetched_at": "2026-06-12T19:50:23.343377+00:00"
+    },
+    "99ab22287dd1c98c": {
+      "title": "The 98% Problem: A Survey of Harness Engineering for AI Agents",
+      "fetched_at": "2026-06-12T19:50:23.921581+00:00"
+    },
+    "d1e2aad1de3b427a": {
+      "title": "We Can Live with AI, but Not Like This",
+      "fetched_at": "2026-06-12T19:50:24.485156+00:00"
+    },
+    "8b5a41236c8e2f44": {
+      "title": "Cortex – Agent-Native Knowledge OS on Markdown (Karpathy's LLM Wiki, via MCP)",
+      "fetched_at": "2026-06-12T19:50:25.049450+00:00"
+    },
+    "18629b5d381a8cc2": {
+      "title": "A Fake Bug Report Hijacks Your AI Coding Agent – and Nothing Catches It",
+      "fetched_at": "2026-06-12T19:50:25.610751+00:00"
+    },
+    "22b10dd2263265ef": {
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "fetched_at": "2026-06-12T19:50:26.184642+00:00"
+    },
+    "54975e85e6940627": {
+      "title": "Ask HN: What happens when AI-voice becomes good enough?",
+      "fetched_at": "2026-06-12T19:50:26.749898+00:00"
+    },
+    "18d13d31f08fa69d": {
+      "title": "Show HN: Vilvona AI – Self-Hosted AI Assistant with Tamil and Hindi UI",
+      "fetched_at": "2026-06-12T19:50:27.313241+00:00"
+    },
+    "762be73c28146b8b": {
+      "title": "Run local agentic AI on the Mac using MLX (WWDC 2026) [video]",
+      "fetched_at": "2026-06-12T19:50:27.883435+00:00"
+    },
+    "ae6cd3ae41a2d2b8": {
+      "title": "Four ways AI is making your life more expensive",
+      "fetched_at": "2026-06-12T19:50:28.452099+00:00"
+    },
+    "eef89c6c37f32bd7": {
+      "title": "The machine can't be held accountable. You still can",
+      "fetched_at": "2026-06-12T19:50:29.020727+00:00"
+    },
+    "2bc98fefdf28e7a3": {
+      "title": "AI juries",
+      "fetched_at": "2026-06-12T19:50:29.584445+00:00"
+    },
+    "b1e3bab272953823": {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "fetched_at": "2026-06-12T19:50:30.153886+00:00"
+    },
+    "a4d6f83e05a31699": {
+      "title": "Ad on the HN front page? Gauntlet AI?",
+      "fetched_at": "2026-06-12T19:50:30.718284+00:00"
+    },
+    "0e9249851b66ab68": {
+      "title": "Show HN: Nenya – A lightweight, highly secure AI API Gateway/Proxy written in Go",
+      "fetched_at": "2026-06-12T19:50:31.294290+00:00"
+    },
+    "bfdee7099ae129b8": {
+      "title": "Laid off from Meta, so a few of us built the safest AI-assisted cheating tool",
+      "fetched_at": "2026-06-12T19:50:31.858363+00:00"
+    },
+    "356f3b3cd275665f": {
+      "title": "Show HN: Sifty – Windows cleanup CLI/TUI with local-only AI",
+      "fetched_at": "2026-06-12T19:50:32.426770+00:00"
+    },
+    "90133badbb3b3ad5": {
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "fetched_at": "2026-06-12T19:50:32.994680+00:00"
+    },
+    "0ce1c03b9c06d3d2": {
+      "title": "Show HN: Open infrastructure for Argentina's AI-run companies (36 NPM packages)",
+      "fetched_at": "2026-06-12T19:50:33.559467+00:00"
+    },
+    "bdc789607174509b": {
+      "title": "Show HN: AI Chat App on Durable Streams and Tanstack DB",
+      "fetched_at": "2026-06-12T19:50:34.131736+00:00"
+    },
+    "05e4919be3873657": {
+      "title": "Genetic Study Offers Clues to Survival in the Peruvian Andes",
+      "fetched_at": "2026-06-12T19:50:42.194447+00:00"
+    },
+    "ffbbc9ff520f5bed": {
+      "title": "World's rarest great ape decimated by 4 days of extreme rain, with 7% of population lost to cyclone",
+      "fetched_at": "2026-06-12T19:50:42.766335+00:00"
+    },
+    "9c7325146e7f633f": {
+      "title": "Fossils show ancient primates had grooming claws as well as nails (2018)",
+      "fetched_at": "2026-06-12T19:50:43.333160+00:00"
+    },
+    "de7e9b449b5b10d0": {
+      "title": "'I was really amazed': On the edge of the Milky Way, a dwarf galaxy is being ripped in half by its big sibling",
+      "fetched_at": "2026-06-12T19:50:43.902473+00:00"
+    },
+    "99ff86bcaa57f260": {
+      "title": "Show HN: IP Crawl, the best public webcam discovery tool",
+      "fetched_at": "2026-06-12T19:50:44.521765+00:00"
+    },
+    "b256b0e8dd0b509a": {
+      "title": "One day after discovery, Meta pulls facial recognition from its smart glasses",
+      "fetched_at": "2026-06-12T19:50:45.118471+00:00"
+    },
+    "5471f9d059d96d11": {
+      "title": "Historical Data Engineering Toolkit",
+      "fetched_at": "2026-06-12T19:50:45.687636+00:00"
     }
   },
-  "last_updated": "2026-06-12T14:31:35.158987+00:00"
+  "last_updated": "2026-06-12T19:50:45.839714+00:00"
 }
