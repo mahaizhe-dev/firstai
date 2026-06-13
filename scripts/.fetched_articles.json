@@ -1,145 +1,5 @@
 {
   "articles": {
-    "21745e40fdd83055": {
-      "title": "Ask HN: Good books/resources for learning SQL?",
-      "fetched_at": "2026-06-04T19:53:10.069858+00:00"
-    },
-    "470940ed0b624c69": {
-      "title": "My Humble AI Market Prediction",
-      "fetched_at": "2026-06-04T19:53:10.660114+00:00"
-    },
-    "5ea21fe8055e6d00": {
-      "title": "Reverse-engineering Apple's and Fastly's LLM-built anti-bot systems",
-      "fetched_at": "2026-06-04T19:53:11.271580+00:00"
-    },
-    "2eed51996f14e89b": {
-      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-      "fetched_at": "2026-06-04T19:53:11.872078+00:00"
-    },
-    "e819c08a9529b1f1": {
-      "title": "Enterprises start questioning the return on AI investments",
-      "fetched_at": "2026-06-04T19:53:12.481905+00:00"
-    },
-    "0b99f238fc3c25c5": {
-      "title": "Show HN: Nexus, ask AI about sensitive spreadsheets locally",
-      "fetched_at": "2026-06-04T19:53:13.078664+00:00"
-    },
-    "6349240ef9c77458": {
-      "title": "Show HN: Digger Solo – Local AI File Explorer",
-      "fetched_at": "2026-06-04T19:53:13.665429+00:00"
-    },
-    "ec75cd70b5e14f72": {
-      "title": "LLM-Guided Runtime Parameter Optimization for Energy-Efficient Model Inference",
-      "fetched_at": "2026-06-04T19:53:14.262763+00:00"
-    },
-    "ae3f1354f4e78f75": {
-      "title": "I built a native MAC AI app with lifetime access instead of another subscription",
-      "fetched_at": "2026-06-04T19:53:15.004039+00:00"
-    },
-    "ca5486f42e7abd77": {
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "fetched_at": "2026-06-04T19:53:15.618708+00:00"
-    },
-    "3c910e54d4df1649": {
-      "title": "Nvidia snaps up Kumo AI in latest acquisition",
-      "fetched_at": "2026-06-04T19:53:16.206078+00:00"
-    },
-    "7060eec2363b7bfb": {
-      "title": "Manifold topological deep learning for biomedical data",
-      "fetched_at": "2026-06-04T19:53:16.933655+00:00"
-    },
-    "ee8734e657b058c1": {
-      "title": "A narrowing window to understand AI",
-      "fetched_at": "2026-06-04T19:53:17.535028+00:00"
-    },
-    "dadb7bc96abf3b27": {
-      "title": "Xkcd-mural – in-browser AI builds a mural with elements from strips you read",
-      "fetched_at": "2026-06-04T19:53:18.137143+00:00"
-    },
-    "7152b0315b621d30": {
-      "title": "I patented voiding GPT-5.2, Claude Opus 4.6, Gemini 3.5 Flash. Try it",
-      "fetched_at": "2026-06-04T19:53:18.735762+00:00"
-    },
-    "2f064ed6b4415ba4": {
-      "title": "Adrianco's Retort: measure how reliable, fast and expensive your LLM is",
-      "fetched_at": "2026-06-04T19:53:19.372591+00:00"
-    },
-    "c4159f9cd4a8edce": {
-      "title": "The real-world cost of AI",
-      "fetched_at": "2026-06-04T19:53:20.049714+00:00"
-    },
-    "f5318ea7a3a68bd0": {
-      "title": "Show HN: FirstDraft – AI workers that claim Jira tickets and open PRs",
-      "fetched_at": "2026-06-04T19:53:20.646060+00:00"
-    },
-    "fc21c35ab50389c3": {
-      "title": "Show HN: Revaiso – AI writing in Google Docs as native suggestions",
-      "fetched_at": "2026-06-04T19:53:21.240728+00:00"
-    },
-    "bba93b2faceed114": {
-      "title": "Show HN: Moss, an AI-led programming language experiment",
-      "fetched_at": "2026-06-04T19:53:21.821957+00:00"
-    },
-    "50644ef6d6dde722": {
-      "title": "Italian teenagers discover 1,800-year-old Roman luxury house underneath their high school gym",
-      "fetched_at": "2026-06-04T19:54:29.856753+00:00"
-    },
-    "4d42eb1ad8b93811": {
-      "title": "Satellite images reveals mangroves rebounding worldwide — but here's why they could still 'drown'",
-      "fetched_at": "2026-06-04T19:54:30.438895+00:00"
-    },
-    "b3108bfa4d0e48c4": {
-      "title": "James Webb telescope detects most distant dormant black hole, invisible in all wavelengths and weighing as much as 6 billion suns",
-      "fetched_at": "2026-06-04T19:54:31.036939+00:00"
-    },
-    "d5e85c567ab9f356": {
-      "title": "Historical AI characters simulating brain, emotional and cognitive states",
-      "fetched_at": "2026-06-04T19:54:31.709215+00:00"
-    },
-    "53d5d9e9d737f590": {
-      "title": "Glass Bottle Found in England May Have Held Egyptian Kohl",
-      "fetched_at": "2026-06-04T19:54:32.451007+00:00"
-    },
-    "a7502d38834df7dc": {
-      "title": "Microsoft's new quantum chip is 1,000 times more reliable than its predecessor — but why is this new chip so controversial?",
-      "fetched_at": "2026-06-04T19:54:33.054228+00:00"
-    },
-    "d69a98cd661d7f40": {
-      "title": "Mysterious repeating radio signal traced to 'vampire' star that's slowly eating its companion",
-      "fetched_at": "2026-06-04T19:54:33.664126+00:00"
-    },
-    "4335b699bc8148ac": {
-      "title": "Anina: The discovery infrastructure for the next iconic brands",
-      "fetched_at": "2026-06-04T19:54:34.268137+00:00"
-    },
-    "a06aafd8780be523": {
-      "title": "First shipwrecks linked to real pirates of the Caribbean found in Bahamas",
-      "fetched_at": "2026-06-04T19:54:34.930379+00:00"
-    },
-    "8db0a6a23f7e158c": {
-      "title": "Archaeologists study the International Space Station and Everest to figure out 'how humans adapt in this impossible place where we have no business going'",
-      "fetched_at": "2026-06-04T19:54:35.694070+00:00"
-    },
-    "5d536c3eb590ede3": {
-      "title": "'Cannibal' CME from rare 'anti-Hale' sunspot will slam into Earth today, bringing auroras to 23 US states",
-      "fetched_at": "2026-06-04T19:54:36.287736+00:00"
-    },
-    "ad0f0bb75276c777": {
-      "title": "Europe's largest Copper Age tomb: children's bones show ancient health crisis",
-      "fetched_at": "2026-06-04T19:54:36.882923+00:00"
-    },
-    "339ac261d08e5418": {
-      "title": "The Fullers of Ancient Rome",
-      "fetched_at": "2026-06-04T19:54:37.468739+00:00"
-    },
-    "fc19a12df5dcfe2a": {
-      "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
-      "fetched_at": "2026-06-04T19:54:38.077409+00:00"
-    },
-    "9b07b89fc9499a00": {
-      "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
-      "fetched_at": "2026-06-04T19:54:38.677448+00:00"
-    },
     "727ce901a713fe19": {
       "title": "沪深两市成交额突破1万亿元",
       "fetched_at": "2026-06-05T02:11:13.217135+00:00"
@@ -3867,7 +3727,103 @@
     "5471f9d059d96d11": {
       "title": "Historical Data Engineering Toolkit",
       "fetched_at": "2026-06-12T19:50:45.687636+00:00"
+    },
+    "7256a6e5b515362b": {
+      "title": "交易员对美元看涨程度升至逾一年来最高水平",
+      "fetched_at": "2026-06-13T02:10:07.398622+00:00"
+    },
+    "5d2dac4d739fb32b": {
+      "title": "一季度全球前十大晶圆代工商营收季增3.7%",
+      "fetched_at": "2026-06-13T02:10:07.984751+00:00"
+    },
+    "39723418a288897f": {
+      "title": "Meta's months-old AI unit is a soul-crushing gulag",
+      "fetched_at": "2026-06-13T02:10:08.556968+00:00"
+    },
+    "6ce54ed36c3c7dd3": {
+      "title": "SentinelMCP – An open-source firewall for AI agents that use MCP",
+      "fetched_at": "2026-06-13T02:10:09.138652+00:00"
+    },
+    "a8361833874f25e8": {
+      "title": "甲骨文赢得3.96亿美元联邦人力资源现代化合同",
+      "fetched_at": "2026-06-13T02:10:09.727549+00:00"
+    },
+    "6702ff5dc77d27cc": {
+      "title": "美司法部批准派拉蒙收购华纳兄弟探索，称该交易不会损害竞争",
+      "fetched_at": "2026-06-13T02:10:10.316309+00:00"
+    },
+    "9669d53f045b4795": {
+      "title": "网易云音乐：近期回购近730万股，回购总额9.67亿港元",
+      "fetched_at": "2026-06-13T02:10:10.898874+00:00"
+    },
+    "84a383322c4bf1b3": {
+      "title": "Show HN: AccInt – a Work Model for AI coding agents",
+      "fetched_at": "2026-06-13T02:10:11.472464+00:00"
+    },
+    "85d9371241a7055e": {
+      "title": "具身智能行业5月融资额环比降近六成",
+      "fetched_at": "2026-06-13T02:10:12.042699+00:00"
+    },
+    "74144579196bc22f": {
+      "title": "Saasm (Software as a Slot Machine)",
+      "fetched_at": "2026-06-13T02:10:12.638026+00:00"
+    },
+    "708ceb67861d3f08": {
+      "title": "特朗普政府禁止境外主体获取Anthropic旗下最强人工智能模型",
+      "fetched_at": "2026-06-13T02:10:13.212840+00:00"
+    },
+    "7a8339b373351431": {
+      "title": "Has AI Killed How-To Nonfiction?",
+      "fetched_at": "2026-06-13T02:10:13.801042+00:00"
+    },
+    "48ac5a1b6969f8fd": {
+      "title": "美多州总检察长联合调查OpenAI",
+      "fetched_at": "2026-06-13T02:10:14.387637+00:00"
+    },
+    "7d9e1cff455ee562": {
+      "title": "5月份中国电商物流指数继续回升，总业务量同比增长超20%",
+      "fetched_at": "2026-06-13T02:10:14.979123+00:00"
+    },
+    "f847f791e2d6e7f2": {
+      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+      "fetched_at": "2026-06-13T02:10:15.566911+00:00"
+    },
+    "f4dd951cb64e18d0": {
+      "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+      "fetched_at": "2026-06-13T02:10:16.164552+00:00"
+    },
+    "c1c3df2c8365388e": {
+      "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+      "fetched_at": "2026-06-13T02:10:16.756300+00:00"
+    },
+    "957bf112ab0e0638": {
+      "title": "美股三大指数收盘集体上涨，SpaceX上市首日涨超19%",
+      "fetched_at": "2026-06-13T02:10:17.334239+00:00"
+    },
+    "4028323746ddb602": {
+      "title": "How to prepare for interview in the new AI era",
+      "fetched_at": "2026-06-13T02:10:17.955849+00:00"
+    },
+    "755839462523e580": {
+      "title": "The social consequences of AI delegation",
+      "fetched_at": "2026-06-13T02:10:18.541164+00:00"
+    },
+    "feb52a39e6c8681a": {
+      "title": "Learn and validate historical data modeling patterns",
+      "fetched_at": "2026-06-13T02:10:23.428844+00:00"
+    },
+    "e7e3fccc79e17d2a": {
+      "title": "Artists Returned to Remote Cave Chamber in Spain for Thousands of Years",
+      "fetched_at": "2026-06-13T02:10:24.010792+00:00"
+    },
+    "2d6e9feb492c3cda": {
+      "title": "Celtic Tomb Unearthed in Germany",
+      "fetched_at": "2026-06-13T02:10:24.586002+00:00"
+    },
+    "fabf97f7cda0ee92": {
+      "title": "Neolithic Figurines Uncovered in Northeastern Anatolia",
+      "fetched_at": "2026-06-13T02:10:25.179287+00:00"
     }
   },
-  "last_updated": "2026-06-12T19:50:45.839714+00:00"
+  "last_updated": "2026-06-13T02:10:25.236703+00:00"
 }
