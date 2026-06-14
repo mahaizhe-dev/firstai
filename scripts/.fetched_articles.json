@@ -1,281 +1,5 @@
 {
   "articles": {
-    "edc739879f09f7ff": {
-      "title": "An imperative command-line-interface for AI workload orchestration",
-      "fetched_at": "2026-06-05T19:29:49.721699+00:00"
-    },
-    "ac771993e534d5fc": {
-      "title": "Show HN: TuringLLM – a LLM-powered Universal Turing machine",
-      "fetched_at": "2026-06-05T19:29:50.341325+00:00"
-    },
-    "6d0b1d1bd279f095": {
-      "title": "Apple Silicon's on-device AI bet hasn't moved – only the chip range that runs it",
-      "fetched_at": "2026-06-05T19:29:51.060212+00:00"
-    },
-    "40027606e81d2629": {
-      "title": "Nvidia DGX Spark GB10 – AI Models and Guide with vLLM and Autonomous Script",
-      "fetched_at": "2026-06-05T19:29:51.687993+00:00"
-    },
-    "424a03ed7d192e26": {
-      "title": "Show HN: Busbar – every LLM behind one URL, in a single Rust binary",
-      "fetched_at": "2026-06-05T19:29:52.338999+00:00"
-    },
-    "0422788252385093": {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "fetched_at": "2026-06-05T19:29:52.964131+00:00"
-    },
-    "f7e48b6d66a4e673": {
-      "title": "UK orders Google to allow publishers to opt out of AI scraping",
-      "fetched_at": "2026-06-05T19:29:53.590685+00:00"
-    },
-    "2fd66b7b205c88a1": {
-      "title": "Employees aren't resisting AI – they're resisting fear",
-      "fetched_at": "2026-06-05T19:29:54.217408+00:00"
-    },
-    "704f478833074fca": {
-      "title": "AI enthusiasts race against time, AI skeptics race against entropy",
-      "fetched_at": "2026-06-05T19:29:54.844868+00:00"
-    },
-    "a7c1c5fc1e428c36": {
-      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
-      "fetched_at": "2026-06-05T19:29:55.463130+00:00"
-    },
-    "41c752afc4e15cc7": {
-      "title": "Miasma Worm Targets AI Coding Agents via GitHub Repos",
-      "fetched_at": "2026-06-05T19:29:56.091919+00:00"
-    },
-    "0c32d95eb71237d3": {
-      "title": "Show HN: Audit any AI/data pairing with Veritrooper",
-      "fetched_at": "2026-06-05T19:29:56.813399+00:00"
-    },
-    "3f55a5287e5b3b0b": {
-      "title": "Meta putting up tents across the US to house AI servers",
-      "fetched_at": "2026-06-05T19:29:57.427546+00:00"
-    },
-    "d813bdb14353b4b7": {
-      "title": "TanStack AI",
-      "fetched_at": "2026-06-05T19:29:58.053994+00:00"
-    },
-    "e5625e50e13a493f": {
-      "title": "Which AI agents send Accept: text/Markdown?",
-      "fetched_at": "2026-06-05T19:29:58.682009+00:00"
-    },
-    "ca82256b1dacd320": {
-      "title": "How much value is AI creating?",
-      "fetched_at": "2026-06-05T19:29:59.317099+00:00"
-    },
-    "edeb61a83b846c40": {
-      "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
-      "fetched_at": "2026-06-05T19:29:59.950248+00:00"
-    },
-    "b32f4c2ceb2cf6ea": {
-      "title": "The most interesting startups right now want to get you off your phone",
-      "fetched_at": "2026-06-05T19:30:00.832597+00:00"
-    },
-    "7f38f43e91337052": {
-      "title": "Anthropic proposes a global slowdown of AI development",
-      "fetched_at": "2026-06-05T19:30:01.464698+00:00"
-    },
-    "98c39ce13f49f860": {
-      "title": "The Download: AI hacking beyond Mythos, and chatbots' impact on our brains",
-      "fetched_at": "2026-06-05T19:30:02.102247+00:00"
-    },
-    "9f9ec3ae1312a8ea": {
-      "title": "中國整治爆紅微短劇中的軟色情、暴力和拜金內容",
-      "fetched_at": "2026-06-05T19:30:05.184141+00:00"
-    },
-    "c4c7c5fc39bf9b1b": {
-      "title": "習近平時隔近七年訪問朝鮮，將與金正恩會面",
-      "fetched_at": "2026-06-05T19:30:05.810484+00:00"
-    },
-    "4c35dea4c3432c17": {
-      "title": "FIFA世界盃2026：賽程、分組、開賽時間與場館一覽",
-      "fetched_at": "2026-06-05T19:30:06.439559+00:00"
-    },
-    "71deca884d119bff": {
-      "title": "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄?",
-      "fetched_at": "2026-06-05T19:30:07.083145+00:00"
-    },
-    "f44827f19430e946": {
-      "title": "中國男裝女穿潮：為何更多女性轉向購買男裝？",
-      "fetched_at": "2026-06-05T19:30:07.717932+00:00"
-    },
-    "f34de2295f283f78": {
-      "title": "Show HN: Relic, a tiny coding agent for ancient and constrained systems",
-      "fetched_at": "2026-06-05T19:30:13.379081+00:00"
-    },
-    "4ba09fde25174051": {
-      "title": "Show HN: Fooglemap – a map for local restaurant discovery",
-      "fetched_at": "2026-06-05T19:30:14.017357+00:00"
-    },
-    "d099dfb7875f2db2": {
-      "title": "Coming El Niño will be the strongest ever recorded, new forecast predicts",
-      "fetched_at": "2026-06-05T19:30:14.643023+00:00"
-    },
-    "604102b05deedb8b": {
-      "title": "Possible Early Saw Technology Uncovered in Japan",
-      "fetched_at": "2026-06-05T19:30:15.276221+00:00"
-    },
-    "b3496be2934be602": {
-      "title": "Ancient Egyptian Capital City Investigated",
-      "fetched_at": "2026-06-05T19:30:15.920229+00:00"
-    },
-    "138949f4bcebfe77": {
-      "title": "NASA astronauts briefly shelter in 'safe haven' procedure following worsening leaks on International Space Station",
-      "fetched_at": "2026-06-05T19:30:16.547170+00:00"
-    },
-    "5ae76268afb0ca08": {
-      "title": "Flu drugs might fight cognitive decline seen in HIV, early study hints",
-      "fetched_at": "2026-06-05T19:30:17.249760+00:00"
-    },
-    "0b5d8701ddea8c20": {
-      "title": "Venus and Jupiter are about to almost touch in the sky in one of 2026's best skywatching events",
-      "fetched_at": "2026-06-05T19:30:17.880430+00:00"
-    },
-    "2a835c088a344ded": {
-      "title": "Some 'extinct' volcanoes may just be going through a growth spurt, before they 'wake up in this catastrophic stage,' emerging research suggests",
-      "fetched_at": "2026-06-05T19:30:18.513542+00:00"
-    },
-    "cfd2e4e531d7851d": {
-      "title": "AI-designed universal coronavirus vaccine passes first human trial",
-      "fetched_at": "2026-06-05T19:30:19.158338+00:00"
-    },
-    "2b8684f130fde13d": {
-      "title": "Octopuses use mirrors to find food they cannot see",
-      "fetched_at": "2026-06-05T19:30:19.794199+00:00"
-    },
-    "e207daaf6ac48c51": {
-      "title": "Hidden supermassive black hole pairs may finally have a visible signal",
-      "fetched_at": "2026-06-05T19:30:20.427020+00:00"
-    },
-    "4ed58846fee7cac0": {
-      "title": "Magnetic fields may be the secret behind binary star formation",
-      "fetched_at": "2026-06-05T19:30:21.041126+00:00"
-    },
-    "0b9c8529afcaa81b": {
-      "title": "Scientists discover a hidden quantum world inside cobalt",
-      "fetched_at": "2026-06-05T19:30:21.667941+00:00"
-    },
-    "1708d3db6f7f4535": {
-      "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
-      "fetched_at": "2026-06-05T19:30:22.316753+00:00"
-    },
-    "9e2d006300afbcba": {
-      "title": "Why sophrosyne, an ancient Greek virtue, matters more than ever in the age of AI",
-      "fetched_at": "2026-06-06T02:02:24.102870+00:00"
-    },
-    "8bc93c109765ed0e": {
-      "title": "Rethinking the Value of Generated Tests for LLM Software Engineering Agents",
-      "fetched_at": "2026-06-06T02:02:24.726415+00:00"
-    },
-    "ac56b0160fc7aae2": {
-      "title": "SpaceX IPO已获得2倍认购资金",
-      "fetched_at": "2026-06-06T02:02:25.357474+00:00"
-    },
-    "8d8459f923788bb3": {
-      "title": "花旗维持对美联储年内降息3次的预测",
-      "fetched_at": "2026-06-06T02:02:25.979870+00:00"
-    },
-    "ed1269805f32861f": {
-      "title": "SpaceX与谷歌达成每月9.2亿美元的云服务协议",
-      "fetched_at": "2026-06-06T02:02:26.612431+00:00"
-    },
-    "22789f20948301e0": {
-      "title": "美股三大指数收盘集体下跌，纳指跌超4%",
-      "fetched_at": "2026-06-06T02:02:27.239795+00:00"
-    },
-    "2ea2edf1ff0adec8": {
-      "title": "Unlocking Non-Uniform KV Cache for Efficient Multi-Turn LLM Serving",
-      "fetched_at": "2026-06-06T02:02:28.016807+00:00"
-    },
-    "fe78de3e0366086a": {
-      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-      "fetched_at": "2026-06-06T02:02:28.650985+00:00"
-    },
-    "f8c34fb9dd927a5c": {
-      "title": "The smart TV in your living room is a node in the AI scraping economy",
-      "fetched_at": "2026-06-06T02:02:29.279220+00:00"
-    },
-    "0c0158a4b85afc68": {
-      "title": "She won a religious exemption from using AI at work",
-      "fetched_at": "2026-06-06T02:02:29.936683+00:00"
-    },
-    "1d9140e7dbf57d96": {
-      "title": "ToTra – open-source LLM gateway with GDPR/EU AI Act compliance",
-      "fetched_at": "2026-06-06T02:02:30.563493+00:00"
-    },
-    "47e83548b2ca6a1f": {
-      "title": "Using an AI coding agent with oracle-based testing to build a game emulator",
-      "fetched_at": "2026-06-06T02:02:31.206099+00:00"
-    },
-    "45d8c4730a290f4d": {
-      "title": "Investment leaders share views on AI job displacement as next big risk (2021)",
-      "fetched_at": "2026-06-06T02:02:31.830074+00:00"
-    },
-    "9e8bbebdcad4c2f4": {
-      "title": "SillyTavern: LLM Front End for Power Users",
-      "fetched_at": "2026-06-06T02:02:32.536306+00:00"
-    },
-    "d9e145c1145cfa89": {
-      "title": "Tell HN: AI software development workflow, stack-ranked from HN discussion",
-      "fetched_at": "2026-06-06T02:02:33.166467+00:00"
-    },
-    "1dab6a9112aefa24": {
-      "title": "AI is the major driver of innovation in Canada and around the world",
-      "fetched_at": "2026-06-06T02:02:33.793643+00:00"
-    },
-    "786468d3b8828f03": {
-      "title": "Model alleges retailer used AI to generate likeness under 'minor edits' clause",
-      "fetched_at": "2026-06-06T02:02:34.424263+00:00"
-    },
-    "eedd1b5c93bec461": {
-      "title": "Anthropic warns Claude AI is building itself faster than expected",
-      "fetched_at": "2026-06-06T02:02:35.046125+00:00"
-    },
-    "e17a973e77b15523": {
-      "title": "Understand how you build with AI",
-      "fetched_at": "2026-06-06T02:02:35.862379+00:00"
-    },
-    "145be1551c0a368d": {
-      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "fetched_at": "2026-06-06T02:02:36.507656+00:00"
-    },
-    "65ff11705c6bbdf7": {
-      "title": "World's largest scorpion had 6-inch pincers, and prowled UK land and waters 415 million years ago",
-      "fetched_at": "2026-06-06T02:02:41.351008+00:00"
-    },
-    "ea4a03287d4690e7": {
-      "title": "Signs of Respiratory Illness Found on 5,000-Year-Old Children's Bones in Spain",
-      "fetched_at": "2026-06-06T02:02:41.983051+00:00"
-    },
-    "06cc4fcc7c3c9510": {
-      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
-      "fetched_at": "2026-06-06T02:02:42.600045+00:00"
-    },
-    "1de3c2be1e710cdb": {
-      "title": "The biggest collagen study yet reveals what actually works",
-      "fetched_at": "2026-06-06T02:02:43.226294+00:00"
-    },
-    "2aea955526677d0a": {
-      "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
-      "fetched_at": "2026-06-06T02:02:43.844012+00:00"
-    },
-    "6650922f04c3c6c4": {
-      "title": "Scottish wrens may be evolving into new species through island gigantism",
-      "fetched_at": "2026-06-06T02:02:44.472598+00:00"
-    },
-    "d05e83bdae53782f": {
-      "title": "Forget LASIK: Safer, cheaper vision correction without lasers or surgery",
-      "fetched_at": "2026-06-06T02:02:45.094191+00:00"
-    },
-    "c60fabebf8b52080": {
-      "title": "A 100-year-old piano mystery has finally been solved",
-      "fetched_at": "2026-06-06T02:02:45.747530+00:00"
-    },
-    "9c9dda76c3adfe57": {
-      "title": "Scientists discover hidden gut-brain circuit that triggers protein cravings",
-      "fetched_at": "2026-06-06T02:02:46.367575+00:00"
-    },
     "42a3fb02eb1ae6fd": {
       "title": "2026年第二批医保参照药预沟通论证顺利实施",
       "fetched_at": "2026-06-06T08:22:25.014284+00:00"
@@ -3755,7 +3479,87 @@
     "896f59262ea80249": {
       "title": "Dark energy survives major challenge as universe keeps accelerating",
       "fetched_at": "2026-06-13T19:06:01.483849+00:00"
+    },
+    "b1b841371f6f0f51": {
+      "title": "我国首次开展蔬菜纯电农机实地综合测评",
+      "fetched_at": "2026-06-14T02:33:23.080806+00:00"
+    },
+    "a508935687d52e43": {
+      "title": "金价近乎翻倍，豪华表成了“炼金”原料",
+      "fetched_at": "2026-06-14T02:33:23.658967+00:00"
+    },
+    "9b02103e66436d52": {
+      "title": "ClawMoat, runtime containment for AI agents after Fable 5",
+      "fetched_at": "2026-06-14T02:33:24.223598+00:00"
+    },
+    "45c45f822f8f3bdb": {
+      "title": "Ask HN: Which cheap Chinese LLM are you using?",
+      "fetched_at": "2026-06-14T02:33:24.786654+00:00"
+    },
+    "f099cd62ad70f676": {
+      "title": "联合国专家：国际社会应采取实际行动应对气候变化",
+      "fetched_at": "2026-06-14T02:33:25.355321+00:00"
+    },
+    "bc6c8a1ec3aea4ea": {
+      "title": "Lime 2.0 – Zero Human Auth for AI Agents",
+      "fetched_at": "2026-06-14T02:33:25.922194+00:00"
+    },
+    "361d0cbae90b93f8": {
+      "title": "The Missing Infrastructure Between AI Agents and the EVM",
+      "fetched_at": "2026-06-14T02:33:26.487903+00:00"
+    },
+    "07cf1b1a7699c993": {
+      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "fetched_at": "2026-06-14T02:33:27.057215+00:00"
+    },
+    "e5b195501ec31f34": {
+      "title": "'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
+      "fetched_at": "2026-06-14T02:33:27.619731+00:00"
+    },
+    "4ab229d88b034523": {
+      "title": "第10届南博会现场签约超257亿元能源项目",
+      "fetched_at": "2026-06-14T02:33:28.182109+00:00"
+    },
+    "167671c39a0fdc76": {
+      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+      "fetched_at": "2026-06-14T02:33:28.753564+00:00"
+    },
+    "4feef27c831e9ba9": {
+      "title": "There is no such thing as an AI 'artist'",
+      "fetched_at": "2026-06-14T02:33:29.322278+00:00"
+    },
+    "821c5d403b95b1e4": {
+      "title": "The AI supply chain is a software supply chain with new failure modes",
+      "fetched_at": "2026-06-14T02:33:29.900894+00:00"
+    },
+    "63ed7e1988f22b63": {
+      "title": "Fable 5: They switched off my AI mid-build. The timeline is the story",
+      "fetched_at": "2026-06-14T02:33:30.479950+00:00"
+    },
+    "f3d83de4dd129393": {
+      "title": "Policy on the AI Exponential",
+      "fetched_at": "2026-06-14T02:33:31.038067+00:00"
+    },
+    "dcfe848493e3746b": {
+      "title": "We're combatting AI scams with security, legislation and more",
+      "fetched_at": "2026-06-14T02:33:31.610247+00:00"
+    },
+    "cec6e87ef2e9c899": {
+      "title": "Google fires sueball at alleged Chinese phishers over AI-powered fraud ops",
+      "fetched_at": "2026-06-14T02:33:32.177151+00:00"
+    },
+    "a03e8dc7fa5e5566": {
+      "title": "AI agent on GitHub gives recipe for blueberry pie",
+      "fetched_at": "2026-06-14T02:33:32.749569+00:00"
+    },
+    "23f59325670aa261": {
+      "title": "Ask HN: How to get access to GPT cyber or glasswing as a solo dev?",
+      "fetched_at": "2026-06-14T02:33:33.317555+00:00"
+    },
+    "89f1e17c4e535e47": {
+      "title": "QodFlow – a Kanban board AI agents can drive via MCP",
+      "fetched_at": "2026-06-14T02:33:33.886019+00:00"
     }
   },
-  "last_updated": "2026-06-13T19:06:01.585870+00:00"
+  "last_updated": "2026-06-14T02:33:37.214814+00:00"
 }
