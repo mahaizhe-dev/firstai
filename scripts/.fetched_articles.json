@@ -1,61 +1,5 @@
 {
   "articles": {
-    "b3d85a0dc544bf5d": {
-      "title": "Notion restores access to Anthropic after service disruption",
-      "fetched_at": "2026-06-07T19:04:00.355524+00:00"
-    },
-    "9eed70249d75bb56": {
-      "title": "OpenAI is still working on that ‘super app’",
-      "fetched_at": "2026-06-07T19:04:01.094068+00:00"
-    },
-    "f616070a3439534b": {
-      "title": "金时科技：控股子公司拟投建千吨级多孔炭产线项目",
-      "fetched_at": "2026-06-07T19:04:01.686977+00:00"
-    },
-    "6ce0a33b1325f4f6": {
-      "title": "孚能科技：股东拟合计减持不超2%公司股份",
-      "fetched_at": "2026-06-07T19:04:02.281472+00:00"
-    },
-    "ecc0824077c4b5b0": {
-      "title": "接住来自空间站的信号：如何用手台接收 SSTV？",
-      "fetched_at": "2026-06-07T19:04:02.982930+00:00"
-    },
-    "b039936e0e31fb58": {
-      "title": "AI等机器网络请求量首超人类",
-      "fetched_at": "2026-06-07T19:04:03.587612+00:00"
-    },
-    "53514a1bead759ea": {
-      "title": "中国银河证券：非农走强并不意味着美联储年内加息",
-      "fetched_at": "2026-06-07T19:04:04.186852+00:00"
-    },
-    "e12e7f698297f3a4": {
-      "title": "多家供给方下调算力价格 算力普惠再提速",
-      "fetched_at": "2026-06-07T19:04:04.787397+00:00"
-    },
-    "16ef698cdd016337": {
-      "title": "小米机器人或将亮相小米17T发布会",
-      "fetched_at": "2026-06-07T19:04:05.400445+00:00"
-    },
-    "98887e953ea9fcdd": {
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "fetched_at": "2026-06-07T19:04:06.006854+00:00"
-    },
-    "7e7aca6cfec594be": {
-      "title": "它不会是下一场新冠：简单了解汉坦病毒",
-      "fetched_at": "2026-06-07T19:04:06.592666+00:00"
-    },
-    "bc54e183f74c6903": {
-      "title": "AI could consume up 3% of world's electricity the UN warns",
-      "fetched_at": "2026-06-07T19:04:11.149961+00:00"
-    },
-    "a7d73869931c724c": {
-      "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
-      "fetched_at": "2026-06-07T19:04:11.756763+00:00"
-    },
-    "bd4710eaa731c5ee": {
-      "title": "This strange new phase of matter could transform quantum technology",
-      "fetched_at": "2026-06-07T19:04:12.348169+00:00"
-    },
     "09c1c82c07d434a0": {
       "title": "月之暗面据悉寻求以300亿美元的估值融资至多20亿美元",
       "fetched_at": "2026-06-08T02:34:21.586038+00:00"
@@ -3683,7 +3627,119 @@
     "4afd733911cd6ae3": {
       "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
       "fetched_at": "2026-06-15T16:53:46.628810+00:00"
+    },
+    "a4ba6dcbaa7af15d": {
+      "title": "Show HN: Transpilatron – an AI tool that converts Python code into C binaries",
+      "fetched_at": "2026-06-15T20:43:21.657480+00:00"
+    },
+    "aece2a00402debf6": {
+      "title": "Show HN: Does a vibe leak? Fine-tuning an LLM on an attitude it never states",
+      "fetched_at": "2026-06-15T20:43:22.278933+00:00"
+    },
+    "c43fe50f3be78ba3": {
+      "title": "Kedgr – AI code scanner that never stores your source code",
+      "fetched_at": "2026-06-15T20:43:22.904876+00:00"
+    },
+    "89ba8da4c667e094": {
+      "title": "AI and Amateurism",
+      "fetched_at": "2026-06-15T20:43:23.522055+00:00"
+    },
+    "bd58a9aed6592ebe": {
+      "title": "Price drop notice from Google re. One/AI service",
+      "fetched_at": "2026-06-15T20:43:24.133596+00:00"
+    },
+    "ad38f0d6f6ac3912": {
+      "title": "My Take on Gen AI Content",
+      "fetched_at": "2026-06-15T20:43:24.760014+00:00"
+    },
+    "21c6c9d7de2ec989": {
+      "title": "For centuries, math has been a human endeavor. Does AI mean it's over?",
+      "fetched_at": "2026-06-15T20:43:25.387288+00:00"
+    },
+    "e8eeeef850daf1fd": {
+      "title": "Will Siri AI kill AI as a service?",
+      "fetched_at": "2026-06-15T20:43:26.010905+00:00"
+    },
+    "27327111a43e1069": {
+      "title": "AI Image Generation from CFML in One Function Call",
+      "fetched_at": "2026-06-15T20:43:26.624339+00:00"
+    },
+    "c0ed46545b15a42b": {
+      "title": "AI-referred US shoppers browse longer, spend more per visit",
+      "fetched_at": "2026-06-15T20:43:27.240166+00:00"
+    },
+    "92e33189308a8abd": {
+      "title": "File systems are the new primitive for AI agents",
+      "fetched_at": "2026-06-15T20:43:27.847293+00:00"
+    },
+    "7907a9fa68730c39": {
+      "title": "AgentBack: AI-native API/MCP framework for agents",
+      "fetched_at": "2026-06-15T20:43:28.467626+00:00"
+    },
+    "e70d12fa00361fb4": {
+      "title": "Cartesia AI releases SOTA TTS and ASR models",
+      "fetched_at": "2026-06-15T20:43:29.093206+00:00"
+    },
+    "790e4eed07a57dc7": {
+      "title": "PDFs are one of the biggest bottlenecks in AI workflows",
+      "fetched_at": "2026-06-15T20:43:29.714403+00:00"
+    },
+    "3697d744aa28405e": {
+      "title": "AI's Brokenomics",
+      "fetched_at": "2026-06-15T20:43:30.325152+00:00"
+    },
+    "869f4ad710ac23cf": {
+      "title": "Prtokens – See how much AI agent tokens cost a PR",
+      "fetched_at": "2026-06-15T20:43:30.942899+00:00"
+    },
+    "290ae013b8f915af": {
+      "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
+      "fetched_at": "2026-06-15T20:43:31.557611+00:00"
+    },
+    "628a42cb5195e446": {
+      "title": "FBI disrupts AI-powered phishing service using a million URLs",
+      "fetched_at": "2026-06-15T20:43:32.187941+00:00"
+    },
+    "aaa26e5eb8576f99": {
+      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+      "fetched_at": "2026-06-15T20:43:32.807280+00:00"
+    },
+    "598e0cb65057d0a4": {
+      "title": "Human-approval layer for AI agents and Zapier workflows",
+      "fetched_at": "2026-06-15T20:43:33.417472+00:00"
+    },
+    "e062486e02c45346": {
+      "title": "中國房地產巨頭退潮途中 國資如何對待當年的政府「包稅人」",
+      "fetched_at": "2026-06-15T20:43:35.742002+00:00"
+    },
+    "889f7eb56d561112": {
+      "title": "Atacama Desert’s center dried out 20 million years earlier than previously thought — before the Andes formed",
+      "fetched_at": "2026-06-15T20:43:37.794871+00:00"
+    },
+    "2e80f1efde433938": {
+      "title": "Etruscan Wine Makers Cloned a Single Grape Variety for Hundreds of Years",
+      "fetched_at": "2026-06-15T20:43:38.400714+00:00"
+    },
+    "b145a1a200efd7df": {
+      "title": "Possible Statue of Artemis Found in Bulgaria",
+      "fetched_at": "2026-06-15T20:43:39.015474+00:00"
+    },
+    "0ff25ac32fc02f72": {
+      "title": "Diagnostic dilemma: Brain scans following a man's hospital visit for leg weakness revealed a surprising finding",
+      "fetched_at": "2026-06-15T20:43:39.640180+00:00"
+    },
+    "baa99fd60bdda5b4": {
+      "title": "'Melted in a pot somewhere': Vikings used Islamic silver coins to make their early pennies, study finds",
+      "fetched_at": "2026-06-15T20:43:40.259750+00:00"
+    },
+    "53126d7bb6577300": {
+      "title": "Unusual Artifacts Found in Medieval Siberian Burial",
+      "fetched_at": "2026-06-15T20:43:40.885951+00:00"
+    },
+    "5234761dc4eeb7e1": {
+      "title": "NASA's experimental X-59 jet breaks sound barrier twice, reaching Mach 1.4 in step toward 'quiet supersonic' technology",
+      "fetched_at": "2026-06-15T20:43:41.508672+00:00"
     }
   },
-  "last_updated": "2026-06-15T16:53:46.732996+00:00"
+  "last_updated": "2026-06-15T20:43:41.619726+00:00"
 }
