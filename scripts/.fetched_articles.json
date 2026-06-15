@@ -1,117 +1,5 @@
 {
   "articles": {
-    "0cf1b72202d7c394": {
-      "title": "AI and the Pitfalls of Innovation",
-      "fetched_at": "2026-06-07T13:17:50.978669+00:00"
-    },
-    "100b87e9bf3f93a0": {
-      "title": "Government to buy AI chips to stop tech companies fleeing Britain",
-      "fetched_at": "2026-06-07T13:17:51.594616+00:00"
-    },
-    "94550ea598baed15": {
-      "title": "AI ‘content creators’ are getting harder to spot",
-      "fetched_at": "2026-06-07T13:17:52.228102+00:00"
-    },
-    "3620e159e33e55fb": {
-      "title": "Discover Your Destiny with AI Palm Reading",
-      "fetched_at": "2026-06-07T13:17:52.858377+00:00"
-    },
-    "5ad23408a5b1f0f0": {
-      "title": "Stack Overflow didn't just help AI learn to code",
-      "fetched_at": "2026-06-07T13:17:53.483134+00:00"
-    },
-    "380cf84ef044640c": {
-      "title": "Show HN: Version Control for AI Agents",
-      "fetched_at": "2026-06-07T13:17:54.128075+00:00"
-    },
-    "93f2139c0e9360c0": {
-      "title": "AI needs shame, not taste",
-      "fetched_at": "2026-06-07T13:17:54.763577+00:00"
-    },
-    "f4215062c0527d74": {
-      "title": "ESMFold 2 has the highest throughput on Tenstorrent AI processors",
-      "fetched_at": "2026-06-07T13:17:55.388866+00:00"
-    },
-    "351793e8a2df3d10": {
-      "title": "The breakneck AI boom is fueling anti-tech extremism",
-      "fetched_at": "2026-06-07T13:17:56.010379+00:00"
-    },
-    "d0dfd799606ecb1a": {
-      "title": "泰坦股份：公司电子布织机仍处于研发阶段，不会对公司近期经营业绩产生任何影响",
-      "fetched_at": "2026-06-07T13:17:56.634839+00:00"
-    },
-    "4990e997db4a6d60": {
-      "title": "Automated QA and Testing with AI",
-      "fetched_at": "2026-06-07T13:17:57.259560+00:00"
-    },
-    "690cc6128a1a3824": {
-      "title": "An AI Story Just Won the Commonwealth Short Story Prize",
-      "fetched_at": "2026-06-07T13:17:57.881580+00:00"
-    },
-    "bb9f44577859a4e8": {
-      "title": "东诚药业：注射用甲磺酸萘莫司他上市许可申请获受理",
-      "fetched_at": "2026-06-07T13:17:58.501486+00:00"
-    },
-    "1b22fde1044c4fb3": {
-      "title": "Klarna CMO created an AI \"venting machine\" of himself",
-      "fetched_at": "2026-06-07T13:17:59.131603+00:00"
-    },
-    "835ead9d6a07539b": {
-      "title": "Show HN: Best setup local LLM found for a 5090 (llama.cpp fork + turboquant)",
-      "fetched_at": "2026-06-07T13:17:59.808607+00:00"
-    },
-    "b0a3d9b9e8bff7a6": {
-      "title": "What we know about the plan to give Americans an equity stake in AI",
-      "fetched_at": "2026-06-07T13:18:00.443973+00:00"
-    },
-    "b87e7bc518a69870": {
-      "title": "新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨",
-      "fetched_at": "2026-06-07T13:18:01.068722+00:00"
-    },
-    "76ca7fc56bda2f6c": {
-      "title": "AI Memory Fails Spectacularly: 95% Error Rate Unveiled",
-      "fetched_at": "2026-06-07T13:18:01.678888+00:00"
-    },
-    "6b7f9f02c8cf272c": {
-      "title": "SourceHut Disrupted by LLM Crawlers",
-      "fetched_at": "2026-06-07T13:18:02.417936+00:00"
-    },
-    "d1e870663ac8139a": {
-      "title": "派瑞股份：公司股票被实施其他风险警示 6月9日起简称变更为“ST派瑞”",
-      "fetched_at": "2026-06-07T13:18:03.051667+00:00"
-    },
-    "e062486e02c45346": {
-      "title": "中國房地產巨頭退潮途中 國資如何對待當年的政府「包稅人」",
-      "fetched_at": "2026-06-07T13:18:05.967784+00:00"
-    },
-    "e01ead1b7c57623c": {
-      "title": "「鮮血凝成的友誼」：中國與朝鮮愛恨交織的關係",
-      "fetched_at": "2026-06-07T13:18:06.608810+00:00"
-    },
-    "39a5bbcf23b25de1": {
-      "title": "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄？",
-      "fetched_at": "2026-06-07T13:18:06.608940+00:00"
-    },
-    "b02f311c8ccbaf18": {
-      "title": "'Crystals' of space-time could be the origins of certain rare black holes, theoretical study hints",
-      "fetched_at": "2026-06-07T13:18:08.538254+00:00"
-    },
-    "29c8e8c0f5c2a01a": {
-      "title": "Kaleidoscopic meteorite could be a piece of a 'lost world' from the early solar system — Space photo of the week",
-      "fetched_at": "2026-06-07T13:18:09.165311+00:00"
-    },
-    "f52845b699a234a4": {
-      "title": "What's the deepest cave in the world?",
-      "fetched_at": "2026-06-07T13:18:09.828869+00:00"
-    },
-    "9a74cbf404bb940f": {
-      "title": "Trump administration to remove 900 deep sea monitoring instruments that would have studied the collapsing Atlantic current",
-      "fetched_at": "2026-06-07T13:18:10.463199+00:00"
-    },
-    "0306e0c59d991460": {
-      "title": "Caffeine reversed memory problems caused by sleep deprivation",
-      "fetched_at": "2026-06-07T13:18:11.081029+00:00"
-    },
     "b3d85a0dc544bf5d": {
       "title": "Notion restores access to Anthropic after service disruption",
       "fetched_at": "2026-06-07T19:04:00.355524+00:00"
@@ -3675,7 +3563,127 @@
     "2302b5816d162cfa": {
       "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
       "fetched_at": "2026-06-15T11:43:17.643811+00:00"
+    },
+    "d67b9bc5976a7101": {
+      "title": "Ask HN: How are you enabling your employees to do AI dev in the cloud?",
+      "fetched_at": "2026-06-15T16:53:24.944616+00:00"
+    },
+    "1cc5ca3b8af82f14": {
+      "title": "AI Cures Organizational Dementia",
+      "fetched_at": "2026-06-15T16:53:25.554883+00:00"
+    },
+    "88cb65c35045e22d": {
+      "title": "Show HN: 100Hires MCP, 130 tools to run an ATS through LLM. Is 130 too many?",
+      "fetched_at": "2026-06-15T16:53:26.176542+00:00"
+    },
+    "3540698f9880b955": {
+      "title": "AI language models have favorite names, and we mapped them",
+      "fetched_at": "2026-06-15T16:53:26.807522+00:00"
+    },
+    "d0b8d4b81657a627": {
+      "title": "Show HN: Offline AI assistant for Android (PDFs, Wikipedia, more)",
+      "fetched_at": "2026-06-15T16:53:27.446372+00:00"
+    },
+    "94657025b279ebb9": {
+      "title": "First Steps Toward Automated AI Research",
+      "fetched_at": "2026-06-15T16:53:28.072930+00:00"
+    },
+    "741c19084ce9be4e": {
+      "title": "Show HN: AI traders you author, argue with and coach",
+      "fetched_at": "2026-06-15T16:53:28.703308+00:00"
+    },
+    "8fb43f5674cdd601": {
+      "title": "IBM and Norway's sovereign fund CEO: Is AI a bubble?",
+      "fetched_at": "2026-06-15T16:53:29.326453+00:00"
+    },
+    "a97cacbe8ac4f919": {
+      "title": "We are living in the dial-up era of AI",
+      "fetched_at": "2026-06-15T16:53:29.956469+00:00"
+    },
+    "cbecbff28ff5f548": {
+      "title": "Building an AI skill marketplace for GTM teams",
+      "fetched_at": "2026-06-15T16:53:30.588615+00:00"
+    },
+    "9fb871627b1eb55b": {
+      "title": "Sovereign AI is not just about building a national AI model",
+      "fetched_at": "2026-06-15T16:53:31.218032+00:00"
+    },
+    "c9cc2f8dac23ba5e": {
+      "title": "Show HN: We polled 2,122 Americans on AI and regulation, and built a visualizer",
+      "fetched_at": "2026-06-15T16:53:31.854595+00:00"
+    },
+    "4e407d94bdaa8159": {
+      "title": "AI Slop Has Taken over LinkedIn",
+      "fetched_at": "2026-06-15T16:53:32.481897+00:00"
+    },
+    "bea7efa77666e48c": {
+      "title": "GPT-5 Nano Vulnerability test results you should know before deploying",
+      "fetched_at": "2026-06-15T16:53:33.107459+00:00"
+    },
+    "c3f85245a2641d7d": {
+      "title": "AI GPUs probably live longer than three years",
+      "fetched_at": "2026-06-15T16:53:33.734139+00:00"
+    },
+    "c06c55c26edad445": {
+      "title": "AI Won't Fix a Company That Can't Ship",
+      "fetched_at": "2026-06-15T16:53:34.354055+00:00"
+    },
+    "e4b824679d2e177c": {
+      "title": "Growing the Cloudflare AI Team with Talent from Ensemble AI",
+      "fetched_at": "2026-06-15T16:53:34.975878+00:00"
+    },
+    "7e42f644165af104": {
+      "title": "Fun with an indecisive AI coding agent",
+      "fetched_at": "2026-06-15T16:53:35.600751+00:00"
+    },
+    "349c5619aea0f1ff": {
+      "title": "AI is saving office workers hours but stealing some time via 'botsitting'",
+      "fetched_at": "2026-06-15T16:53:36.232764+00:00"
+    },
+    "4a3233b7adf0f895": {
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "fetched_at": "2026-06-15T16:53:36.840461+00:00"
+    },
+    "bb7c13f7f5de7272": {
+      "title": "Olé, olé, olé, olé：一首令人難忘的世界盃打氣歌曲需要什麼？",
+      "fetched_at": "2026-06-15T16:53:39.755152+00:00"
+    },
+    "7278821682218392": {
+      "title": "「男友使命召喚」：特魯多回應為凱蒂·佩芮缺席世界盃加拿大比賽",
+      "fetched_at": "2026-06-15T16:53:40.370024+00:00"
+    },
+    "22180874f3490380": {
+      "title": "重慶虐狗風波：集會抗議被清場，中國立法反虐待動物有多難？",
+      "fetched_at": "2026-06-15T16:53:40.999025+00:00"
+    },
+    "3e0c2e6f6e9600fb": {
+      "title": "'I never thought we'd see one alive': Elusive goblin shark captured on camera for the first time",
+      "fetched_at": "2026-06-15T16:53:42.855194+00:00"
+    },
+    "3ac0df2c4e1d0bcc": {
+      "title": "'They are trying to tame nature': China is building the world's biggest dam in an earthquake-prone region of Tibet",
+      "fetched_at": "2026-06-15T16:53:43.487512+00:00"
+    },
+    "cb56e7cc3dbe761c": {
+      "title": "Hundreds of hidden earthquakes discovered beneath Antarctica — and they're happening in a very odd location",
+      "fetched_at": "2026-06-15T16:53:44.112593+00:00"
+    },
+    "2a411fd0d7441456": {
+      "title": "This strange material can become strong or fall apart in seconds",
+      "fetched_at": "2026-06-15T16:53:44.753662+00:00"
+    },
+    "c04da929d5014414": {
+      "title": "Scientists turned red lettuce green and something surprising happened",
+      "fetched_at": "2026-06-15T16:53:45.388461+00:00"
+    },
+    "06ba0bce848955f3": {
+      "title": "'Political motivations' of Inca emperor led to the sacrifice of 3 children on a snow-capped volcano over 500 years ago, study suggests",
+      "fetched_at": "2026-06-15T16:53:46.010645+00:00"
+    },
+    "4afd733911cd6ae3": {
+      "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
+      "fetched_at": "2026-06-15T16:53:46.628810+00:00"
     }
   },
-  "last_updated": "2026-06-15T11:43:17.751184+00:00"
+  "last_updated": "2026-06-15T16:53:46.732996+00:00"
 }
