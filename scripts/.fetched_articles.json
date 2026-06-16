@@ -1,121 +1,5 @@
 {
   "articles": {
-    "213972e22c2f9ca1": {
-      "title": "Lean – Two Claude Code skills that stop the AI from over-engineering",
-      "fetched_at": "2026-06-08T19:59:34.745674+00:00"
-    },
-    "a3ba44a11cf387c1": {
-      "title": "HPE ProLiant Compute DL394 Gen12 Brings Nvidia Vera CPU to Agentic AI",
-      "fetched_at": "2026-06-08T19:59:35.314414+00:00"
-    },
-    "8a8859aee5277a46": {
-      "title": "DebugDuck – A desktop rubber duck with local AI",
-      "fetched_at": "2026-06-08T19:59:35.887718+00:00"
-    },
-    "972f0037a3204bc2": {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "fetched_at": "2026-06-08T19:59:36.464291+00:00"
-    },
-    "99f6f1364d7bd887": {
-      "title": "Show HN: I Built an LLM Engine, That Test LLM on Boolean Logic",
-      "fetched_at": "2026-06-08T19:59:37.108034+00:00"
-    },
-    "a2f7d5a96f2078ca": {
-      "title": "Ask HN: Why won't you be replaced by AI?",
-      "fetched_at": "2026-06-08T19:59:37.696038+00:00"
-    },
-    "a823a5f8d01cf006": {
-      "title": "Show HN: Guarden – Authorization for AI agent actions powered by OPA",
-      "fetched_at": "2026-06-08T19:59:38.333719+00:00"
-    },
-    "8ca55fb90a932a86": {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "fetched_at": "2026-06-08T19:59:38.924478+00:00"
-    },
-    "0e4a4aa69bf018e6": {
-      "title": "What Is AI Doing to Math?",
-      "fetched_at": "2026-06-08T19:59:39.502130+00:00"
-    },
-    "9950c8837b585682": {
-      "title": "You are here on the AI change curve",
-      "fetched_at": "2026-06-08T19:59:40.068607+00:00"
-    },
-    "18d66a1c30535036": {
-      "title": "SlashDB ver. 2.2 /w DuckDB, advanced filter and AI",
-      "fetched_at": "2026-06-08T19:59:40.649809+00:00"
-    },
-    "127d506f1f8685ed": {
-      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-      "fetched_at": "2026-06-08T19:59:41.218498+00:00"
-    },
-    "af0696ea2d081fa8": {
-      "title": "Apple Core AI Framework",
-      "fetched_at": "2026-06-08T19:59:41.788116+00:00"
-    },
-    "ebf1001918559113": {
-      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "fetched_at": "2026-06-08T19:59:42.387192+00:00"
-    },
-    "bb0c57fc948c04a9": {
-      "title": "Ask HN: Options for critical thinking and learning outside work?",
-      "fetched_at": "2026-06-08T19:59:43.125371+00:00"
-    },
-    "ee7d959c7979ceba": {
-      "title": "Experience using AI software to prove Euler sum results [pdf]",
-      "fetched_at": "2026-06-08T19:59:43.710277+00:00"
-    },
-    "ad98f780eef7d04c": {
-      "title": "Show HN: AST-guard – Fast, zero-cost structural checks for LLM code execution",
-      "fetched_at": "2026-06-08T19:59:44.297874+00:00"
-    },
-    "612dc3778b143882": {
-      "title": "Why Isn't AI Taking Our Jobs?",
-      "fetched_at": "2026-06-08T19:59:44.883575+00:00"
-    },
-    "c5d19d667150dbb5": {
-      "title": "Apple’s Image Playground doesn’t suck anymore",
-      "fetched_at": "2026-06-08T19:59:45.449817+00:00"
-    },
-    "498d7851ef072c55": {
-      "title": "Apple’s Photos app is getting new AI editing features",
-      "fetched_at": "2026-06-08T19:59:46.021917+00:00"
-    },
-    "7eb0e849b3020e54": {
-      "title": "Greco-Roman Cemetery Excavated in Northern Egypt",
-      "fetched_at": "2026-06-08T19:59:49.379827+00:00"
-    },
-    "f607d5fef5b26c4a": {
-      "title": "Archaeologists Explore Villa Beneath High School in Rome",
-      "fetched_at": "2026-06-08T19:59:49.950817+00:00"
-    },
-    "7d4b771c9a36e71a": {
-      "title": "Thanks to natural selection, Indigenous Andeans may digest potatoes better than anyone else in the world, study finds",
-      "fetched_at": "2026-06-08T19:59:50.526842+00:00"
-    },
-    "dadab2ea3babfd8a": {
-      "title": "'A disease anywhere can be a disease everywhere tomorrow morning': Public health expert on Ebola and the threat of future outbreaks",
-      "fetched_at": "2026-06-08T19:59:51.097663+00:00"
-    },
-    "6ed6ea6eddd5706a": {
-      "title": "Sea ice loss in the Arctic has triggered a critical tipping point that's destroying the food chain",
-      "fetched_at": "2026-06-08T19:59:51.729187+00:00"
-    },
-    "fd5f3abc2ea505d2": {
-      "title": "Ultra-rare meteorite could be evidence of a lost planet that once orbited near Earth — Space photo of the week",
-      "fetched_at": "2026-06-08T19:59:52.306624+00:00"
-    },
-    "8d5660c287cb2514": {
-      "title": "Flesh-eating screwworm found in Texas cows and dog. Are humans at risk?",
-      "fetched_at": "2026-06-08T19:59:52.878572+00:00"
-    },
-    "73a553fad7dca486": {
-      "title": "The secret to pigeons’ incredible navigation was hiding in their liver",
-      "fetched_at": "2026-06-08T19:59:53.511359+00:00"
-    },
-    "6118f2412297f378": {
-      "title": "Intermittent fasting triggers surprising changes in the brain",
-      "fetched_at": "2026-06-08T19:59:54.076134+00:00"
-    },
     "a56c5985879fd2e9": {
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
       "fetched_at": "2026-06-09T01:58:03.359463+00:00"
@@ -3767,7 +3651,139 @@
     "b2db634eb9705f97": {
       "title": "FreeBSD AI-Assisted Vulnerability Discovery Project Launch",
       "fetched_at": "2026-06-16T16:22:46.712306+00:00"
+    },
+    "6232a9632f1b5c45": {
+      "title": "SAMF- Deterministic Moscow guardrails for LLM multi-agent loops",
+      "fetched_at": "2026-06-16T20:35:27.419109+00:00"
+    },
+    "a91df06ec57668df": {
+      "title": "Did AI write this article?",
+      "fetched_at": "2026-06-16T20:35:28.036401+00:00"
+    },
+    "dd4384d763ee3b98": {
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "fetched_at": "2026-06-16T20:35:28.652226+00:00"
+    },
+    "2aeaab0a2196c5ad": {
+      "title": "Lexar Wants to Offload Local AI Models to SSD Amid the RAMpocalypse",
+      "fetched_at": "2026-06-16T20:35:29.300908+00:00"
+    },
+    "1be731c51f0f5b6e": {
+      "title": "Optimizing a C collision detection 100x with an LLM",
+      "fetched_at": "2026-06-16T20:35:29.922233+00:00"
+    },
+    "feb8f77bf95947b6": {
+      "title": "Show HN: I'm 15, built an AI that watches your screen and acts before you ask",
+      "fetched_at": "2026-06-16T20:35:30.547548+00:00"
+    },
+    "774fcfaf5a8d6037": {
+      "title": "AI is potentially a Dunning-Kruger effect amplifier",
+      "fetched_at": "2026-06-16T20:35:31.166529+00:00"
+    },
+    "5bb0f566917eeb03": {
+      "title": "We built an agent that runs our AI data platform",
+      "fetched_at": "2026-06-16T20:35:31.789263+00:00"
+    },
+    "25698d2b62f40f7d": {
+      "title": "Tyler Cowen: A Dangerous Turn in AI Regulation",
+      "fetched_at": "2026-06-16T20:35:32.426248+00:00"
+    },
+    "80ced823a94c4b13": {
+      "title": "AI Consciousness:The Delusionals and the Philosopher's Bench",
+      "fetched_at": "2026-06-16T20:35:33.083361+00:00"
+    },
+    "4a0d6b745da200ea": {
+      "title": "Lutnick's Letter to Anthropic Warned of Curbs on Top AI Models",
+      "fetched_at": "2026-06-16T20:35:33.703938+00:00"
+    },
+    "b5d4625715eba124": {
+      "title": "Hillock – Local, brain-inspired AI memory using SQLite and HDC",
+      "fetched_at": "2026-06-16T20:35:34.315717+00:00"
+    },
+    "dcbb624606745279": {
+      "title": "OpalAI Got Two NASA Contracts to Build AI for Wildfire Intelligence",
+      "fetched_at": "2026-06-16T20:35:34.926849+00:00"
+    },
+    "013828a155d989ea": {
+      "title": "MambAdapter: Lightweight Mamba-Based Adapters for Transfer Learning",
+      "fetched_at": "2026-06-16T20:35:35.553823+00:00"
+    },
+    "bcf914a33a7b1cdc": {
+      "title": "Leviathan Waking – On Anthropic/USG, and a new era in AI governance",
+      "fetched_at": "2026-06-16T20:35:36.167401+00:00"
+    },
+    "c58f97e807130937": {
+      "title": "A technical guide to building your own learning loop",
+      "fetched_at": "2026-06-16T20:35:36.789240+00:00"
+    },
+    "37f04b3d2c8874a5": {
+      "title": "AI and brain-computer interface allow speechless ALS patient to work full-time",
+      "fetched_at": "2026-06-16T20:35:37.396060+00:00"
+    },
+    "78deefd87ce2b279": {
+      "title": "The Anthropic Fable saga proves: we have opened the AI Pandora's box. What now?",
+      "fetched_at": "2026-06-16T20:35:38.008563+00:00"
+    },
+    "f56406ba735dba8f": {
+      "title": "I took the le chaton fat AI model meme a step further by making a model",
+      "fetched_at": "2026-06-16T20:35:38.625331+00:00"
+    },
+    "311f4bbc7022c077": {
+      "title": "Ask HN: How do you make LLM generated text believable?",
+      "fetched_at": "2026-06-16T20:35:39.249975+00:00"
+    },
+    "c19f031973d34709": {
+      "title": "韓國選舉「缺票」抗議延燒 票站職員重組事發經過",
+      "fetched_at": "2026-06-16T20:35:42.783441+00:00"
+    },
+    "3f9246dfd7b686e1": {
+      "title": "情誼還是籌碼？習近平出訪朝鮮，能否在俄朝關係中重奪主導地位？",
+      "fetched_at": "2026-06-16T20:35:43.402471+00:00"
+    },
+    "6d4065907dc319d1": {
+      "title": "5,000-year-old burial of man with battered skull found in kiln in Germany — and he may have been a human sacrifice",
+      "fetched_at": "2026-06-16T20:35:45.200695+00:00"
+    },
+    "db448e9b2a50dbae": {
+      "title": "How to see Venus vanish behind the moon during the day Wednesday — without any special equipment",
+      "fetched_at": "2026-06-16T20:35:45.814108+00:00"
+    },
+    "7951e31d19adbe6d": {
+      "title": "Intact Roman Sculptures Unearthed in Israel",
+      "fetched_at": "2026-06-16T20:35:46.430854+00:00"
+    },
+    "03a0b42dca268bae": {
+      "title": "Second Intact Etruscan Tomb Discovered in Italy’s San Giuliano Necropolis",
+      "fetched_at": "2026-06-16T20:35:47.045398+00:00"
+    },
+    "1fe855a163fbaf74": {
+      "title": "Preserved Potatoes Discovered in Inca Site in Southern Peru",
+      "fetched_at": "2026-06-16T20:35:47.665997+00:00"
+    },
+    "e57ecf1b7a0276a2": {
+      "title": "A Texas-size chunk of winter sea ice is missing from Antarctica — and it's probably not coming back",
+      "fetched_at": "2026-06-16T20:35:48.285634+00:00"
+    },
+    "5c70c3bdced65a57": {
+      "title": "Wreck of World War II Japanese 'hellship' that sank with more than 1,000 Allied POWs on board discovered off the Philippines",
+      "fetched_at": "2026-06-16T20:35:48.911094+00:00"
+    },
+    "cf78dcf04ff87381": {
+      "title": "Scientists discover the brain chemical that helps you break bad habits",
+      "fetched_at": "2026-06-16T20:35:49.536951+00:00"
+    },
+    "4f6120d3750c4029": {
+      "title": "What is space-time? A mystery at the heart of reality",
+      "fetched_at": "2026-06-16T20:35:50.156365+00:00"
+    },
+    "2f81969cfa33b432": {
+      "title": "Scientists may have debunked one of humanity's oldest habits",
+      "fetched_at": "2026-06-16T20:35:50.780016+00:00"
+    },
+    "abaefa7a0c0439a2": {
+      "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
+      "fetched_at": "2026-06-16T20:35:51.394780+00:00"
     }
   },
-  "last_updated": "2026-06-16T16:22:46.815579+00:00"
+  "last_updated": "2026-06-16T20:35:51.509365+00:00"
 }
