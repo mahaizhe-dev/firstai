@@ -1,125 +1,5 @@
 {
   "articles": {
-    "bd53aa5a82f5d3cf": {
-      "title": "AI and the invisible newcomer in open source",
-      "fetched_at": "2026-06-08T15:24:35.814699+00:00"
-    },
-    "ff7bab0f61b4fbd0": {
-      "title": "Amid a flood of AI advances astrophysicists are questioning soul of their field",
-      "fetched_at": "2026-06-08T15:24:36.561776+00:00"
-    },
-    "f87f2b9767d8b0e3": {
-      "title": "Meta AI Instagram Hack Wasn't About Authentication. It Was About Authorization",
-      "fetched_at": "2026-06-08T15:24:37.211998+00:00"
-    },
-    "88a765afde1d39b0": {
-      "title": "\"a game of court intrigue where AI simulates the various courtiers\"",
-      "fetched_at": "2026-06-08T15:24:37.833057+00:00"
-    },
-    "f9d015280c7a47c5": {
-      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
-      "fetched_at": "2026-06-08T15:24:38.453924+00:00"
-    },
-    "eea5f93c13469085": {
-      "title": "AI costs are rising, but proving value is still a challenge",
-      "fetched_at": "2026-06-08T15:24:39.076492+00:00"
-    },
-    "4f7bc416283fb903": {
-      "title": "There should have been an op-ed here but you filed AI slop",
-      "fetched_at": "2026-06-08T15:24:39.717246+00:00"
-    },
-    "2a6ca78bc2dbfe58": {
-      "title": "AI \"content creators\" are getting harder to spot",
-      "fetched_at": "2026-06-08T15:24:39.717355+00:00"
-    },
-    "4097d5a5b960d5fe": {
-      "title": "LLM Research Papers: The 2026 List (January to May)",
-      "fetched_at": "2026-06-08T15:24:40.375575+00:00"
-    },
-    "a3ee1c95eec9f528": {
-      "title": "How AI is reshaping discovery in maths and physics",
-      "fetched_at": "2026-06-08T15:24:40.990785+00:00"
-    },
-    "168a2dfa650d1cd8": {
-      "title": "Show HN: RiskKernel – a kill switch and budgets for runaway AI agents",
-      "fetched_at": "2026-06-08T15:24:41.618384+00:00"
-    },
-    "bea2832e057ea6ca": {
-      "title": "OpenEvidence: An AI Copilot for Doctors",
-      "fetched_at": "2026-06-08T15:24:42.244086+00:00"
-    },
-    "d0ae002e9f39643e": {
-      "title": "AI is masking America's \"post-literate\" workforce",
-      "fetched_at": "2026-06-08T15:24:42.867632+00:00"
-    },
-    "4a657fb7a845f4dd": {
-      "title": "AI CostGuard – Local-first runtime safety layer for AI agents",
-      "fetched_at": "2026-06-08T15:24:43.523968+00:00"
-    },
-    "aca4fd2173626944": {
-      "title": "AI Can Reverse-Engineer Hardware. I Can't Turn Off My Own Alarm",
-      "fetched_at": "2026-06-08T15:24:44.214038+00:00"
-    },
-    "5e9b92d22c597892": {
-      "title": "Artists`re making antislop to rebel against AI:It's been rammed down our throats",
-      "fetched_at": "2026-06-08T15:24:44.970959+00:00"
-    },
-    "9a56660f62acc3b1": {
-      "title": "Show HN: GitHub Copilot port of Anthropic's AI vulnerability discovery harness",
-      "fetched_at": "2026-06-08T15:24:45.616875+00:00"
-    },
-    "dab81577cae42310": {
-      "title": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
-      "fetched_at": "2026-06-08T15:24:46.241590+00:00"
-    },
-    "76545d434f8bece1": {
-      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
-      "fetched_at": "2026-06-08T15:24:46.854683+00:00"
-    },
-    "717134a64c7c3e79": {
-      "title": "Poor Man's Time Machine: Lazy Evaluation in JavaScript and Haskell",
-      "fetched_at": "2026-06-08T15:24:47.491964+00:00"
-    },
-    "c19f031973d34709": {
-      "title": "韓國選舉「缺票」抗議延燒 票站職員重組事發經過",
-      "fetched_at": "2026-06-08T15:24:49.815884+00:00"
-    },
-    "3f9246dfd7b686e1": {
-      "title": "情誼還是籌碼？習近平出訪朝鮮，能否在俄朝關係中重奪主導地位？",
-      "fetched_at": "2026-06-08T15:24:50.445475+00:00"
-    },
-    "57fcec2f6cd2c692": {
-      "title": "習近平抵達平壤 時隔七年中國領導人再度訪朝",
-      "fetched_at": "2026-06-08T15:24:51.085616+00:00"
-    },
-    "6bda826e17a818b6": {
-      "title": "Doctors need to understand patients' lived experiences to treat them well — but medical schools may stop requiring that training",
-      "fetched_at": "2026-06-08T15:24:52.774634+00:00"
-    },
-    "d25d71200f3e48af": {
-      "title": "This yeast-based 3D printed biomaterial could one day replace your wallpaper and drapes",
-      "fetched_at": "2026-06-08T15:24:53.378025+00:00"
-    },
-    "cf78dcf04ff87381": {
-      "title": "Scientists discover the brain chemical that helps you break bad habits",
-      "fetched_at": "2026-06-08T15:24:54.005116+00:00"
-    },
-    "4f6120d3750c4029": {
-      "title": "What is space-time? A mystery at the heart of reality",
-      "fetched_at": "2026-06-08T15:24:54.624486+00:00"
-    },
-    "2f81969cfa33b432": {
-      "title": "Scientists may have debunked one of humanity's oldest habits",
-      "fetched_at": "2026-06-08T15:24:55.240674+00:00"
-    },
-    "abaefa7a0c0439a2": {
-      "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
-      "fetched_at": "2026-06-08T15:24:55.864213+00:00"
-    },
-    "a074a05c5014d5c3": {
-      "title": "Look up tonight: Jupiter and Venus will almost touch in one of 2026's best skywatching events",
-      "fetched_at": "2026-06-08T15:24:56.509488+00:00"
-    },
     "213972e22c2f9ca1": {
       "title": "Lean – Two Claude Code skills that stop the AI from over-engineering",
       "fetched_at": "2026-06-08T19:59:34.745674+00:00"
@@ -3755,7 +3635,139 @@
     "06f9064374b50aa8": {
       "title": "Dangerously hot and humid: Rising temperatures in the US make outdoor exercise hazardous",
       "fetched_at": "2026-06-16T10:52:05.262331+00:00"
+    },
+    "fa3231dfe67b3b64": {
+      "title": "The AI Hype – Too Costly – Alternative Rock, Original Lyrics",
+      "fetched_at": "2026-06-16T16:22:23.635604+00:00"
+    },
+    "10ca51f31ca5dfd1": {
+      "title": "SearchGate – An AI Content Blocker",
+      "fetched_at": "2026-06-16T16:22:24.255102+00:00"
+    },
+    "2c83a689b9a7095e": {
+      "title": "FT Alphaville's AI Prediction World Cup",
+      "fetched_at": "2026-06-16T16:22:24.874884+00:00"
+    },
+    "24567f437bca36ea": {
+      "title": "The Era of AI Malaise",
+      "fetched_at": "2026-06-16T16:22:25.504613+00:00"
+    },
+    "98339ea700fac7e2": {
+      "title": "Why AI Will Accelerate Health Care Inflation",
+      "fetched_at": "2026-06-16T16:22:26.125864+00:00"
+    },
+    "8c2d020b41e0c639": {
+      "title": "Chainguard's new Athena coalition uses AI to fix open-source flaws",
+      "fetched_at": "2026-06-16T16:22:26.750677+00:00"
+    },
+    "26133f7313da4533": {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "fetched_at": "2026-06-16T16:22:27.382955+00:00"
+    },
+    "03feffd902449d25": {
+      "title": "Publishers to bill AI firms for unwanted scraping or take them to court",
+      "fetched_at": "2026-06-16T16:22:28.000739+00:00"
+    },
+    "911274e9b8d0584c": {
+      "title": "A look into Ubuntu Core 26: Building a local AI inference appliance",
+      "fetched_at": "2026-06-16T16:22:28.643021+00:00"
+    },
+    "689b19aaf37767b2": {
+      "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
+      "fetched_at": "2026-06-16T16:22:29.255534+00:00"
+    },
+    "02f86396537cb340": {
+      "title": "Local AI Is Not Ready for Coding. Yet?",
+      "fetched_at": "2026-06-16T16:22:29.873396+00:00"
+    },
+    "8564a1cc42a611bf": {
+      "title": "Show HN: An AI resume tool that never invents experience you didn't have",
+      "fetched_at": "2026-06-16T16:22:30.496086+00:00"
+    },
+    "0d765278bb16619e": {
+      "title": "After AI Takes Everything",
+      "fetched_at": "2026-06-16T16:22:31.130655+00:00"
+    },
+    "e2793183ba3013cb": {
+      "title": "Show HN: AI vs. AI – code and reviews only count if they survive an attack",
+      "fetched_at": "2026-06-16T16:22:31.750374+00:00"
+    },
+    "1cc72dbd65faa967": {
+      "title": "Show HN: Infer0 – do AI apps need subscriptions?",
+      "fetched_at": "2026-06-16T16:22:32.376620+00:00"
+    },
+    "a44ad71cc0f3318e": {
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "fetched_at": "2026-06-16T16:22:33.010454+00:00"
+    },
+    "38bc10c75135fb8c": {
+      "title": "AI is good at web design now",
+      "fetched_at": "2026-06-16T16:22:33.639659+00:00"
+    },
+    "5ad2854db2a30ae4": {
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "fetched_at": "2026-06-16T16:22:34.268716+00:00"
+    },
+    "7f5ad6f9641fdac0": {
+      "title": "Show HN: Replicating a Harvard study on AI's employment impact – Autonomously",
+      "fetched_at": "2026-06-16T16:22:34.895516+00:00"
+    },
+    "c74f1f17d2315d29": {
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "fetched_at": "2026-06-16T16:22:35.513066+00:00"
+    },
+    "f1aa287a640eea62": {
+      "title": "'Is having two legs useful' in space?: Astronaut John McFall explains what life in orbit might be like for the first physically disabled person in space",
+      "fetched_at": "2026-06-16T16:22:39.153004+00:00"
+    },
+    "e3f3798d376af8f9": {
+      "title": "The world's first nuclear clock just ticked on — and it could help detect a fifth fundamental force of physics",
+      "fetched_at": "2026-06-16T16:22:39.770328+00:00"
+    },
+    "ba5b3c1c45f86576": {
+      "title": "'The system is critically stressed': San Andreas and San Jacinto faults scarily close to major earthquake, study finds",
+      "fetched_at": "2026-06-16T16:22:40.398710+00:00"
+    },
+    "a6e0b1c359941fb2": {
+      "title": "Elusive dwarf fox, feared extinct, photographed for the first time on island off Yucatán",
+      "fetched_at": "2026-06-16T16:22:41.024951+00:00"
+    },
+    "f3f6c6e24c7c9839": {
+      "title": "Earth-based telescope shares image of Artemis II capsule near the moon — one of the farthest photos of humans ever taken",
+      "fetched_at": "2026-06-16T16:22:41.637297+00:00"
+    },
+    "43222e76f9f85c3c": {
+      "title": "Indonesia's near-identical, 'Twin Peaks' volcanoes form striking mirror image — Earth from space",
+      "fetched_at": "2026-06-16T16:22:42.254079+00:00"
+    },
+    "3cbd331287308731": {
+      "title": "New study explores potential cross-species spread of chronic wasting disease",
+      "fetched_at": "2026-06-16T16:22:42.895367+00:00"
+    },
+    "1baf5de24c39636c": {
+      "title": "Scientists found a way to explain bird flocks that “defy” Newton’s third law",
+      "fetched_at": "2026-06-16T16:22:43.519381+00:00"
+    },
+    "0ed8c1c026ebd0a0": {
+      "title": "Discovery debt: The debt that doesn't slow you down",
+      "fetched_at": "2026-06-16T16:22:44.141349+00:00"
+    },
+    "89225c81e07596ba": {
+      "title": "Scientists just found a hidden weakness in forever chemicals",
+      "fetched_at": "2026-06-16T16:22:44.766619+00:00"
+    },
+    "ff081ce29efec8ee": {
+      "title": "Alien messages may have reached Earth without us realizing it",
+      "fetched_at": "2026-06-16T16:22:45.466915+00:00"
+    },
+    "012ed3d91550a3fb": {
+      "title": "Optique 1.1.0: Command discovery, value parsers, and ordered grammars",
+      "fetched_at": "2026-06-16T16:22:46.095108+00:00"
+    },
+    "b2db634eb9705f97": {
+      "title": "FreeBSD AI-Assisted Vulnerability Discovery Project Launch",
+      "fetched_at": "2026-06-16T16:22:46.712306+00:00"
     }
   },
-  "last_updated": "2026-06-16T10:52:05.403127+00:00"
+  "last_updated": "2026-06-16T16:22:46.815579+00:00"
 }
