@@ -1,125 +1,5 @@
 {
   "articles": {
-    "8f432415fcebd75f": {
-      "title": "Show HN: RS-Poker V5 The one with self learning multi-threaded async Agents",
-      "fetched_at": "2026-06-09T19:54:36.284895+00:00"
-    },
-    "c829f3e300cfc728": {
-      "title": "Runtime Guards for AI Agents",
-      "fetched_at": "2026-06-09T19:54:36.932587+00:00"
-    },
-    "9d587f4a8ca59163": {
-      "title": "Devs know AI code is riddled with holes, but ship it anyway",
-      "fetched_at": "2026-06-09T19:54:37.540399+00:00"
-    },
-    "7b1d0cbd61170ce7": {
-      "title": "Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral",
-      "fetched_at": "2026-06-09T19:54:38.138467+00:00"
-    },
-    "ec0338e03c1c28fa": {
-      "title": "Advanced AI Safety Addendum",
-      "fetched_at": "2026-06-09T19:54:38.740966+00:00"
-    },
-    "15757170ea080d47": {
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "fetched_at": "2026-06-09T19:54:39.361174+00:00"
-    },
-    "83902b81d50717ad": {
-      "title": "The problem with generative AI (it's a dream machine)",
-      "fetched_at": "2026-06-09T19:54:40.163174+00:00"
-    },
-    "bc2670fbb0c8f03e": {
-      "title": "Are these enhanced AI images on NYT?",
-      "fetched_at": "2026-06-09T19:54:40.767809+00:00"
-    },
-    "90509b9745a7f54f": {
-      "title": "Apple's Siri-AI, or more shouting into the void about \"private\" agents",
-      "fetched_at": "2026-06-09T19:54:41.375489+00:00"
-    },
-    "a62f2931fdd06322": {
-      "title": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free",
-      "fetched_at": "2026-06-09T19:54:41.975705+00:00"
-    },
-    "24be9565a09bca33": {
-      "title": "Can tech companies learn to love cheaper AI models?",
-      "fetched_at": "2026-06-09T19:54:42.590532+00:00"
-    },
-    "998e545cb4d96e88": {
-      "title": "Ask HN: What's your AI agent's funny/mocking name?",
-      "fetched_at": "2026-06-09T19:54:43.183791+00:00"
-    },
-    "ef8b92e85c30db8b": {
-      "title": "Invisible limitations on Claude Fable 5's effectiveness for frontier LLM dev",
-      "fetched_at": "2026-06-09T19:54:43.780692+00:00"
-    },
-    "a2aca259a9b9b0ca": {
-      "title": "Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?",
-      "fetched_at": "2026-06-09T19:54:44.386195+00:00"
-    },
-    "737986af6f1d5c0e": {
-      "title": "Limits of LLM Based \"Intelligences\"",
-      "fetched_at": "2026-06-09T19:54:45.000221+00:00"
-    },
-    "960a91cf9f448dcc": {
-      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
-      "fetched_at": "2026-06-09T19:54:45.590320+00:00"
-    },
-    "486b3179b55c8e78": {
-      "title": "Elias in the Lighthouse, Again? Diagnosing Low Diversity in LLM Stories",
-      "fetched_at": "2026-06-09T19:54:46.226260+00:00"
-    },
-    "0f47a66403535cd9": {
-      "title": "Apple Wins Consumer AI by Default",
-      "fetched_at": "2026-06-09T19:54:46.843959+00:00"
-    },
-    "ef86164b0c87f5e6": {
-      "title": "Why AI code optimization needs production-grounded benchmarks",
-      "fetched_at": "2026-06-09T19:54:47.466151+00:00"
-    },
-    "ced7fa7a317fd7d1": {
-      "title": "TCS Might Replace Humans with AI Agents",
-      "fetched_at": "2026-06-09T19:54:48.070633+00:00"
-    },
-    "a6bb57a20db56fd6": {
-      "title": "3 new Ebola vaccines are being fast-tracked amid the current outbreak — when could they be ready?",
-      "fetched_at": "2026-06-09T19:54:51.800657+00:00"
-    },
-    "0ceb8063edb8f65e": {
-      "title": "What is PMOS (formerly PCOS)? What to know about the hormonal syndrome",
-      "fetched_at": "2026-06-09T19:54:52.396388+00:00"
-    },
-    "2d55bac2984e8b63": {
-      "title": "2 giant 'super Earths' once orbited near Uranus and Neptune, messed up a bunch of moons, then vanished, new study hints",
-      "fetched_at": "2026-06-09T19:54:53.015371+00:00"
-    },
-    "2d189608e1769b45": {
-      "title": "Medieval Helmets Found Off Spanish Coast Identified",
-      "fetched_at": "2026-06-09T19:54:53.614450+00:00"
-    },
-    "f5f8248c69dd2470": {
-      "title": "Did Early Humans Eat Bugs?",
-      "fetched_at": "2026-06-09T19:54:54.207358+00:00"
-    },
-    "d3e7e54313cc756a": {
-      "title": "China unveils first-of-its-kind 'dual-core' quantum computer — its makers say it improves stability and efficiency",
-      "fetched_at": "2026-06-09T19:54:54.849296+00:00"
-    },
-    "9c6197a090a7e793": {
-      "title": "One day after discovery, Meta pulls facial recognition code from smart glasses",
-      "fetched_at": "2026-06-09T19:54:55.454437+00:00"
-    },
-    "2268b567bacac550": {
-      "title": "Artemis III crew revealed: NASA announces astronauts for 'one of history's most complex missions'",
-      "fetched_at": "2026-06-09T19:54:56.050413+00:00"
-    },
-    "8351935765f24fb0": {
-      "title": "Microsoft's latest quantum chip is 1,000 times more reliable than its predecessor — but why is it so controversial?",
-      "fetched_at": "2026-06-09T19:54:56.050512+00:00"
-    },
-    "a12bb7697655a5b0": {
-      "title": "The forgotten organ that could predict how long you live",
-      "fetched_at": "2026-06-09T19:54:56.650739+00:00"
-    },
     "1b78661536a6e957": {
       "title": "蚂蚁国际支持墨西哥Clip推出数字钱包",
       "fetched_at": "2026-06-10T02:11:22.375163+00:00"
@@ -3791,7 +3671,135 @@
     "d860dc3df869de1f": {
       "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
       "fetched_at": "2026-06-17T14:48:41.213564+00:00"
+    },
+    "8477e40719d65489": {
+      "title": "Turn your AI coding agent into a read-only compliance auditor",
+      "fetched_at": "2026-06-17T19:57:04.340793+00:00"
+    },
+    "20853eef6afa9680": {
+      "title": "Automatic LLM routing that optimizes cost and speed",
+      "fetched_at": "2026-06-17T19:57:04.943192+00:00"
+    },
+    "e7190e4fc5d28b54": {
+      "title": "ChatGPT's AI Assistant market share <50% as Gemini and Claude grow",
+      "fetched_at": "2026-06-17T19:57:05.553297+00:00"
+    },
+    "7b426995980a4a8b": {
+      "title": "AI coding agents taught robots how to install GPUs and cut zip-ties",
+      "fetched_at": "2026-06-17T19:57:06.152804+00:00"
+    },
+    "76cd719780593c01": {
+      "title": "Cem888.ai – 99.9% AR, 77.2% Beam – Filesystem Memory Beats RAG",
+      "fetched_at": "2026-06-17T19:57:06.750311+00:00"
+    },
+    "cc1ef436f905500f": {
+      "title": "Retool Launches React AI App Builder",
+      "fetched_at": "2026-06-17T19:57:07.353377+00:00"
+    },
+    "5b961c0e0a49d97c": {
+      "title": "Lessons Learnt from Writing an AI Agent",
+      "fetched_at": "2026-06-17T19:57:07.949964+00:00"
+    },
+    "4b1b188fab5cdd54": {
+      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+      "fetched_at": "2026-06-17T19:57:08.548813+00:00"
+    },
+    "4bd898676329fb96": {
+      "title": "Fast Food and AI",
+      "fetched_at": "2026-06-17T19:57:09.139340+00:00"
+    },
+    "2715d624289b869f": {
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "fetched_at": "2026-06-17T19:57:09.746763+00:00"
+    },
+    "5aad0be9376f4faf": {
+      "title": "When AI Is Your Pastor: Benchmark for Theological Triage and Pastoral Guidance",
+      "fetched_at": "2026-06-17T19:57:10.346114+00:00"
+    },
+    "def65bfb293d15c1": {
+      "title": "CEOs of Anthropic and Google DeepMind call for US-led AI coalition in G7 meeting",
+      "fetched_at": "2026-06-17T19:57:10.963529+00:00"
+    },
+    "d879d956316c92cd": {
+      "title": "Ask HN: At what point does AI regulation lead to confiscation of compute?",
+      "fetched_at": "2026-06-17T19:57:11.563112+00:00"
+    },
+    "52aa9d8a06aa0766": {
+      "title": "How to Stop Babysitting AI Code",
+      "fetched_at": "2026-06-17T19:57:12.167355+00:00"
+    },
+    "d2e6820f3a651211": {
+      "title": "Real-time monitoring of chatbots and agents for AI compliance and governance",
+      "fetched_at": "2026-06-17T19:57:12.772751+00:00"
+    },
+    "a4203aa2af4a17f4": {
+      "title": "UK government built an AI tool to digitise historic planning records",
+      "fetched_at": "2026-06-17T19:57:13.380147+00:00"
+    },
+    "f58c49c3c0bc058e": {
+      "title": "The frustration of agreeing with everyone about AI",
+      "fetched_at": "2026-06-17T19:57:13.983249+00:00"
+    },
+    "1e643411f0aa5054": {
+      "title": "Bird jumps 20%+ after shoemaker Allbirds changes name to Smartbird for AI pivot",
+      "fetched_at": "2026-06-17T19:57:14.586439+00:00"
+    },
+    "dee46aa07ba38abf": {
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "fetched_at": "2026-06-17T19:57:15.185588+00:00"
+    },
+    "d9d5ad840198c81a": {
+      "title": "Show HN: MizAI LLM detection of price anomalies in public procurement for Greece",
+      "fetched_at": "2026-06-17T19:57:15.791208+00:00"
+    },
+    "6e170d3f0c991b2b": {
+      "title": "Viking Coins Found in Denmark Were Minted With Islamic Silver",
+      "fetched_at": "2026-06-17T19:57:21.306831+00:00"
+    },
+    "833f35df8aa121cd": {
+      "title": "'A mixture from zero to infinity': Physicists split apart a photon — and ended up with an improbable swarm of particles",
+      "fetched_at": "2026-06-17T19:57:21.970387+00:00"
+    },
+    "030bbc3664573bf0": {
+      "title": "Oldest known plague victims found in a 5,500-year-old burial ground in Siberia — and many of them were children",
+      "fetched_at": "2026-06-17T19:57:22.566142+00:00"
+    },
+    "390b2c525729371a": {
+      "title": "Greek-Style Temple Excavated in Albania",
+      "fetched_at": "2026-06-17T19:57:23.159334+00:00"
+    },
+    "7c8a67418de993c2": {
+      "title": "Agentic Resource Discovery Specification",
+      "fetched_at": "2026-06-17T19:57:23.751073+00:00"
+    },
+    "e44a382f3e193784": {
+      "title": "Ancient Maya Figurine May Bear Early Number System",
+      "fetched_at": "2026-06-17T19:57:24.358392+00:00"
+    },
+    "c062240cb48a6603": {
+      "title": "A secretive Chinese probe has just arrived at one of Earth's 'quasi-moons' and will soon attempt a first-of-its-kind landing",
+      "fetched_at": "2026-06-17T19:57:24.956902+00:00"
+    },
+    "d035f384a546d524": {
+      "title": "The Agentic Resource Discovery Specification",
+      "fetched_at": "2026-06-17T19:57:25.562070+00:00"
+    },
+    "f1f21bb2b63fc935": {
+      "title": "Atlantic 'cold blob' is responsible for shifts in the Indian summer monsoon that threaten over 1 billion people",
+      "fetched_at": "2026-06-17T19:57:26.163454+00:00"
+    },
+    "5201f6f62ecf0941": {
+      "title": "'They reliably chose the statistically more favorable option': A crow researcher explains how these winged geniuses process numbers, and what it could reveal about human math smarts",
+      "fetched_at": "2026-06-17T19:57:26.763927+00:00"
+    },
+    "59f2f5578fd644df": {
+      "title": "'River in the Sky': China's doomed plan to create a 'cloud seeding corridor' tells us how far the country will go to solve its climate crisis",
+      "fetched_at": "2026-06-17T19:57:27.380414+00:00"
+    },
+    "99cc16b789e4cd80": {
+      "title": "Is web app discovery still a broken problem?",
+      "fetched_at": "2026-06-17T19:57:27.979028+00:00"
     }
   },
-  "last_updated": "2026-06-17T14:48:41.359464+00:00"
+  "last_updated": "2026-06-17T19:57:28.130656+00:00"
 }
