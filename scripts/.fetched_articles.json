@@ -1,137 +1,5 @@
 {
   "articles": {
-    "1b78661536a6e957": {
-      "title": "蚂蚁国际支持墨西哥Clip推出数字钱包",
-      "fetched_at": "2026-06-10T02:11:22.375163+00:00"
-    },
-    "90b406f875152d51": {
-      "title": "医药圈最强“奥斯卡”也没救回股价，创新药被彻底抛弃了么",
-      "fetched_at": "2026-06-10T02:11:23.029042+00:00"
-    },
-    "f6ba2a93270c8a8f": {
-      "title": "金饰价格集体跳水，跌破1300元",
-      "fetched_at": "2026-06-10T02:11:23.656996+00:00"
-    },
-    "3ba84b794b90bb62": {
-      "title": "UN Scientists: AI Is Threatening Natural Resources for Billions",
-      "fetched_at": "2026-06-10T02:11:24.297932+00:00"
-    },
-    "8bc4b2faff523c54": {
-      "title": "AI Safety and the Age of Dislightenment (2023)",
-      "fetched_at": "2026-06-10T02:11:24.933859+00:00"
-    },
-    "1ca9942fb87787c1": {
-      "title": "科创50指数涨超3%，权重股海光信息涨超13%",
-      "fetched_at": "2026-06-10T02:11:25.586311+00:00"
-    },
-    "94a1381548c63f32": {
-      "title": "子公司中标山铁数科5亿元算力服务器？华策影视：不属实",
-      "fetched_at": "2026-06-10T02:11:26.262721+00:00"
-    },
-    "1278756a83ecafa8": {
-      "title": "Claude Fable 5 feels less like a launch and more like a preview of AI inequality",
-      "fetched_at": "2026-06-10T02:11:26.877721+00:00"
-    },
-    "83b5b97dbb4de71f": {
-      "title": "Efficient and Lossless Moe Diffusion LLM Inference with I/O-Aware Expert Offload",
-      "fetched_at": "2026-06-10T02:11:27.527854+00:00"
-    },
-    "30a00c4c2bbed771": {
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "fetched_at": "2026-06-10T02:11:28.147193+00:00"
-    },
-    "c6cf442914ad4885": {
-      "title": "科创50指数盘中涨超2%，半导体板块快速拉升",
-      "fetched_at": "2026-06-10T02:11:28.843925+00:00"
-    },
-    "7f93fd9e0e30de99": {
-      "title": "国家统计局：2026年5月份CPI总体平稳，PPI继续上涨",
-      "fetched_at": "2026-06-10T02:11:29.498216+00:00"
-    },
-    "99c08f7724a83abc": {
-      "title": "兆易创新推出全新光模块专用MCU",
-      "fetched_at": "2026-06-10T02:11:30.143652+00:00"
-    },
-    "83c60f60ea6f4276": {
-      "title": "国家统计局：2026年5月份工业生产者出厂价格同比上涨3.9%，环比上涨0.5%",
-      "fetched_at": "2026-06-10T02:11:30.774344+00:00"
-    },
-    "4b947c8898c4dff2": {
-      "title": "国家统计局：2026年5月份居民消费价格同比上涨1.2%",
-      "fetched_at": "2026-06-10T02:11:31.529439+00:00"
-    },
-    "e1fd85f2e068be42": {
-      "title": "Estimating the Productivity of an Autonomous AI Software Engineer",
-      "fetched_at": "2026-06-10T02:11:32.159451+00:00"
-    },
-    "9f95bce021f6d2b8": {
-      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
-      "fetched_at": "2026-06-10T02:11:32.793311+00:00"
-    },
-    "974f83ec3c7c27b0": {
-      "title": "A股三大指数集体低开",
-      "fetched_at": "2026-06-10T02:11:33.431317+00:00"
-    },
-    "c00f0c7c984f28cc": {
-      "title": "手机装不下的野心，正在被搬进游戏平板丨2026游戏平板使用趋势观察",
-      "fetched_at": "2026-06-10T02:11:34.084622+00:00"
-    },
-    "98b6ebc06f0fb17f": {
-      "title": "央行6月10日公开市场开展1590亿元7天期逆回购操作",
-      "fetched_at": "2026-06-10T02:11:34.855529+00:00"
-    },
-    "8a6e7fb8ab7c9081": {
-      "title": "从“美国政治新星”到中国代理人，王爱琳的身份谜团",
-      "fetched_at": "2026-06-10T02:11:38.412087+00:00"
-    },
-    "42696e2de540e442": {
-      "title": "在股市升空的SpaceX，可能是馬斯克迄今最大的一次豪賭",
-      "fetched_at": "2026-06-10T02:11:39.041581+00:00"
-    },
-    "adeb950e51fb7f3b": {
-      "title": "台積電財務長黃仁昭BBC專訪：經營成本上升，晶片不排除加價",
-      "fetched_at": "2026-06-10T02:11:39.671275+00:00"
-    },
-    "0ac5cc47add22a42": {
-      "title": "美國軍方稱已襲擊伊朗 回應直升機在霍爾木茲海峽遭擊落",
-      "fetched_at": "2026-06-10T02:11:40.372685+00:00"
-    },
-    "fc32f86708719842": {
-      "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
-      "fetched_at": "2026-06-10T02:11:40.994073+00:00"
-    },
-    "244cb41ad05de4ac": {
-      "title": "2,000 years ago in Scotland, people removed a corpse's brain and fashioned the arm bones into tools",
-      "fetched_at": "2026-06-10T02:11:43.232131+00:00"
-    },
-    "187dd16c03cb663a": {
-      "title": "Planned Tool Production in Israel Dates Back Some 800,000 Years",
-      "fetched_at": "2026-06-10T02:11:43.860378+00:00"
-    },
-    "1579ee8cf9ca8969": {
-      "title": "Scientists think they solved the mystery of the Amaterasu particle",
-      "fetched_at": "2026-06-10T02:11:44.483864+00:00"
-    },
-    "bda35366e6019fb3": {
-      "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
-      "fetched_at": "2026-06-10T02:11:45.114122+00:00"
-    },
-    "04f1f2f5a90f077e": {
-      "title": "Your kitchen sponge is releasing microplastics every time you wash dishes",
-      "fetched_at": "2026-06-10T02:11:45.834357+00:00"
-    },
-    "bad08bb94f5e2706": {
-      "title": "Scientists discover inherited traits that break Mendel’s Laws of genetics",
-      "fetched_at": "2026-06-10T02:11:46.474346+00:00"
-    },
-    "e924995722f5fcef": {
-      "title": "Hubble captures M88 on a perilous journey that could change it forever",
-      "fetched_at": "2026-06-10T02:11:47.114927+00:00"
-    },
-    "6841c3d3395dd77f": {
-      "title": "NASA’s Roman telescope could reveal 100,000 hidden worlds",
-      "fetched_at": "2026-06-10T02:11:47.829367+00:00"
-    },
     "fbbf148b23c2c4fe": {
       "title": "亚瑟士计划2027年分拆旗下鬼冢虎业务",
       "fetched_at": "2026-06-10T09:38:13.510738+00:00"
@@ -3799,7 +3667,107 @@
     "99cc16b789e4cd80": {
       "title": "Is web app discovery still a broken problem?",
       "fetched_at": "2026-06-17T19:57:27.979028+00:00"
+    },
+    "74ae9944464da981": {
+      "title": "算力芯片概念震荡走强，寒武纪涨超10%创历史新高",
+      "fetched_at": "2026-06-18T02:34:55.665791+00:00"
+    },
+    "eeea26c396e07a78": {
+      "title": "沪深两市成交额突破1.5万亿元",
+      "fetched_at": "2026-06-18T02:34:56.273205+00:00"
+    },
+    "c32366568f0d6299": {
+      "title": "12306要忙着赚钱了",
+      "fetched_at": "2026-06-18T02:34:56.886513+00:00"
+    },
+    "ccaf348a538b4290": {
+      "title": "Six Numbers from Running 1,500 AI Agents Simultaneously",
+      "fetched_at": "2026-06-18T02:34:57.484438+00:00"
+    },
+    "9475594aa581e4eb": {
+      "title": "张浩任腾讯音乐董事长",
+      "fetched_at": "2026-06-18T02:34:58.075966+00:00"
+    },
+    "6ceb98e045b30fb2": {
+      "title": "VNX+: Self-contained RF payload for hosting AI/ML applications out of the box",
+      "fetched_at": "2026-06-18T02:34:58.714833+00:00"
+    },
+    "59670b7bc58b8026": {
+      "title": "Show HN: Gptbased – LLM leaderboard that emails you when to switch",
+      "fetched_at": "2026-06-18T02:34:59.326168+00:00"
+    },
+    "6cdf1b2835c6ddb9": {
+      "title": "Learning VPP: Filtering Packets at 100GbE Line Rate",
+      "fetched_at": "2026-06-18T02:34:59.928904+00:00"
+    },
+    "2a7b8e918471a672": {
+      "title": "福建东南西北科技集团完成亿元B轮、B+轮融资",
+      "fetched_at": "2026-06-18T02:35:00.518777+00:00"
+    },
+    "d6739925869e8a31": {
+      "title": "创业板指涨超2%",
+      "fetched_at": "2026-06-18T02:35:01.135271+00:00"
+    },
+    "3bf2033cb1d814fa": {
+      "title": "沪深两市成交额突破1万亿元",
+      "fetched_at": "2026-06-18T02:35:01.135376+00:00"
+    },
+    "d10ec75ec7af7749": {
+      "title": "Show HN: Local personal data redaction for any AI tools",
+      "fetched_at": "2026-06-18T02:35:01.737977+00:00"
+    },
+    "acec499e9d45a679": {
+      "title": "Vevey – AI game dev for kids to build games, together",
+      "fetched_at": "2026-06-18T02:35:02.343972+00:00"
+    },
+    "13a4971f84c7305d": {
+      "title": "三大指数全线翻红",
+      "fetched_at": "2026-06-18T02:35:02.966391+00:00"
+    },
+    "c3823f8e43da64ff": {
+      "title": "端午假期运输启动，长三角铁路今日预计发送旅客348万人次",
+      "fetched_at": "2026-06-18T02:35:03.591583+00:00"
+    },
+    "2b7a30fd09724c31": {
+      "title": "沪深两市成交额突破5000亿元",
+      "fetched_at": "2026-06-18T02:35:04.237463+00:00"
+    },
+    "93076d9f2fb362d2": {
+      "title": "创业板指快速拉升涨超1.7%，再创历史新高",
+      "fetched_at": "2026-06-18T02:35:04.852905+00:00"
+    },
+    "f9342bee9d1f5689": {
+      "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
+      "fetched_at": "2026-06-18T02:35:05.474096+00:00"
+    },
+    "2f154a264ecd3eff": {
+      "title": "Free calculators for creator income, freelance rates, AI tool ROI, and so on",
+      "fetched_at": "2026-06-18T02:35:06.089822+00:00"
+    },
+    "2f1d6636f2605d26": {
+      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+      "fetched_at": "2026-06-18T02:35:06.687492+00:00"
+    },
+    "bfaa0a27a94b1954": {
+      "title": "美伊协议细节公开：石油出口解禁、3000亿美元重建基金",
+      "fetched_at": "2026-06-18T02:35:09.338990+00:00"
+    },
+    "10c0487c0b02bc1b": {
+      "title": "日菲啓動劃界談判 中國海警東進：北京為何稱對台「近海治理」成功？",
+      "fetched_at": "2026-06-18T02:35:09.947055+00:00"
+    },
+    "a5779515a98ed5f9": {
+      "title": "德黑兰如何赢得了世界",
+      "fetched_at": "2026-06-18T02:35:10.557094+00:00"
+    },
+    "f9b0c6960a3475c8": {
+      "title": "'This was a pioneering achievement': Stone Age people put up posts to observe the solstices near Stonehenge long before the stones of sacred site were placed",
+      "fetched_at": "2026-06-18T02:35:12.545683+00:00"
+    },
+    "a9e4efe012e32088": {
+      "title": "'It's a huge deal': Archaeologists discover second cannonball from the Battle of the Alamo, and it was likely fired by Texans",
+      "fetched_at": "2026-06-18T02:35:13.148060+00:00"
     }
   },
-  "last_updated": "2026-06-17T19:57:28.130656+00:00"
+  "last_updated": "2026-06-18T02:35:13.228480+00:00"
 }
