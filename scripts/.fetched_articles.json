@@ -1,97 +1,5 @@
 {
   "articles": {
-    "d4bf03c871a6c5a3": {
-      "title": "Can Socratic dialogue cut through AI \"bullshit\"?",
-      "fetched_at": "2026-06-10T14:50:13.637241+00:00"
-    },
-    "c3e0de3e7d9c4593": {
-      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
-      "fetched_at": "2026-06-10T14:50:14.245445+00:00"
-    },
-    "a2dbfa6edd7303ce": {
-      "title": "Economists Weigh in on the Future of Work and AI",
-      "fetched_at": "2026-06-10T14:50:14.850605+00:00"
-    },
-    "81c8c72f32b11f16": {
-      "title": "Security scanners for AI agent skills agree no better than chance",
-      "fetched_at": "2026-06-10T14:50:15.481643+00:00"
-    },
-    "83e8c9c70e1c61c7": {
-      "title": "Manifesto for Agentic Teams – reorganizing engineering around AI agents",
-      "fetched_at": "2026-06-10T14:50:16.109587+00:00"
-    },
-    "7333c69b5d0dea0f": {
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "fetched_at": "2026-06-10T14:50:16.750118+00:00"
-    },
-    "9ce235f02892675a": {
-      "title": "Ronny Chieng Told Harvard Grads to 'Destroy AI.' They Cheered",
-      "fetched_at": "2026-06-10T14:50:17.375746+00:00"
-    },
-    "c75084a8ccef97a7": {
-      "title": "Show HN: A curated collection of simple datasets for machine learning",
-      "fetched_at": "2026-06-10T14:50:18.009862+00:00"
-    },
-    "fced7681f8b7020e": {
-      "title": "I'm launching Tech Influence Watch as AI follows crypto into politics",
-      "fetched_at": "2026-06-10T14:50:18.648242+00:00"
-    },
-    "79a0247c8fb2f321": {
-      "title": "AtlasForgeX – AI-powered living business intelligence network",
-      "fetched_at": "2026-06-10T14:50:19.267866+00:00"
-    },
-    "8a07959b4fcfe556": {
-      "title": "Our workplace LLM mass delusion",
-      "fetched_at": "2026-06-10T14:50:19.889287+00:00"
-    },
-    "26b93974b73eb472": {
-      "title": "Show HN: Track top AI companies and get daily AI news",
-      "fetched_at": "2026-06-10T14:50:20.535273+00:00"
-    },
-    "98fb4813beb9e9c4": {
-      "title": "Singular Learning Theory: AI learns like ice melts",
-      "fetched_at": "2026-06-10T14:50:21.187946+00:00"
-    },
-    "9f2bc9bad2597e92": {
-      "title": "AI, Jobs, and the Next Generation",
-      "fetched_at": "2026-06-10T14:50:21.808595+00:00"
-    },
-    "6a2a246eeae81507": {
-      "title": "Give AI a body – An isolated Linux environment for LLMs",
-      "fetched_at": "2026-06-10T14:50:22.508475+00:00"
-    },
-    "1f8cfcda8c425397": {
-      "title": "Lua.ex: Sandboxed Lua 5.3 on the Beam, Built for AI Agents · Lua.ex",
-      "fetched_at": "2026-06-10T14:50:23.134320+00:00"
-    },
-    "b7934a5c4f6facf2": {
-      "title": "A €0.01 bank transfer could compromise a banking AI agent",
-      "fetched_at": "2026-06-10T14:50:23.760799+00:00"
-    },
-    "8af88463e4b3df4b": {
-      "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
-      "fetched_at": "2026-06-10T14:50:24.377659+00:00"
-    },
-    "32e8b0b17c5d7252": {
-      "title": "Built a Chrome extension to give AI exact UI context instead of screenshots",
-      "fetched_at": "2026-06-10T14:50:25.009722+00:00"
-    },
-    "a68202f19c2fb4bb": {
-      "title": "In-browser AI image detection",
-      "fetched_at": "2026-06-10T14:50:25.650001+00:00"
-    },
-    "bebe973c316fc0d4": {
-      "title": "Scientists discover giant, fan-shaped structure deep beneath the East Antarctic Ice Sheet",
-      "fetched_at": "2026-06-10T14:50:28.887392+00:00"
-    },
-    "726dbec1f6c9745c": {
-      "title": "Diagnostic dilemma: Man who donated his body after death had rare 'triple penis'",
-      "fetched_at": "2026-06-10T14:50:29.525775+00:00"
-    },
-    "1a7b363c8125cb08": {
-      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-      "fetched_at": "2026-06-10T14:50:30.150440+00:00"
-    },
     "97e18fe4d4c31805": {
       "title": "What Investment Data Implies about the AI Transition",
       "fetched_at": "2026-06-10T20:08:53.670424+00:00"
@@ -3895,7 +3803,131 @@
     "3912701c69540ea3": {
       "title": "Earth's first animals barely evolved until sex changed everything",
       "fetched_at": "2026-06-18T14:43:42.004116+00:00"
+    },
+    "8b299c1d0f698fc4": {
+      "title": "Fine Tuning a Tiny Local LLM to Categorize Questions",
+      "fetched_at": "2026-06-18T20:08:22.569426+00:00"
+    },
+    "311da2c266c02fee": {
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "fetched_at": "2026-06-18T20:08:23.149796+00:00"
+    },
+    "8528f31798e758c3": {
+      "title": "Show HN: The AI App That Does the Work",
+      "fetched_at": "2026-06-18T20:08:23.726030+00:00"
+    },
+    "e528fd4776b0a077": {
+      "title": "Agentbrowse: Drive any website from the terminal, built for AI coding agents",
+      "fetched_at": "2026-06-18T20:08:24.302157+00:00"
+    },
+    "1000ad2045c1ac80": {
+      "title": "Ask HN: Languages in the Age of AI",
+      "fetched_at": "2026-06-18T20:08:24.881403+00:00"
+    },
+    "e05693d7592a4fba": {
+      "title": "Medical AI scores high on exams but stumbles on real patient care",
+      "fetched_at": "2026-06-18T20:08:25.474351+00:00"
+    },
+    "d962327fee5b3480": {
+      "title": "Show HN: In-Browser FAQ LLM",
+      "fetched_at": "2026-06-18T20:08:26.055308+00:00"
+    },
+    "3fa312c1f949ec10": {
+      "title": "Show HN: AI Commander – TeamViewer for AI Agents, No VPN or SSH",
+      "fetched_at": "2026-06-18T20:08:26.645271+00:00"
+    },
+    "57c64926ce1c7c2d": {
+      "title": "From Minutes to Seconds: LLM-Guided Autotuning for Helion Kernels",
+      "fetched_at": "2026-06-18T20:08:27.222816+00:00"
+    },
+    "3161b0a7c89fb969": {
+      "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
+      "fetched_at": "2026-06-18T20:08:27.787248+00:00"
+    },
+    "88bb0f46070b07f8": {
+      "title": "Machine Studying",
+      "fetched_at": "2026-06-18T20:08:28.366935+00:00"
+    },
+    "58176aba435191df": {
+      "title": "AI Regulation Should Be Rational, Not Retaliatory",
+      "fetched_at": "2026-06-18T20:08:28.954201+00:00"
+    },
+    "098f0e1177887251": {
+      "title": "AI digital sovereignty risk doesn't exist",
+      "fetched_at": "2026-06-18T20:08:29.530024+00:00"
+    },
+    "9a6210db85439e6a": {
+      "title": "The AI subsidy is ending, and waste is about to become a line item",
+      "fetched_at": "2026-06-18T20:08:30.118554+00:00"
+    },
+    "bc55aa0f625a6801": {
+      "title": "Physical AI lab automation investment thesis",
+      "fetched_at": "2026-06-18T20:08:30.701732+00:00"
+    },
+    "ae4dc439f3204297": {
+      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "fetched_at": "2026-06-18T20:08:31.277030+00:00"
+    },
+    "c490af9b30a3bfa5": {
+      "title": "Show HN: A website to understand and study AI papers",
+      "fetched_at": "2026-06-18T20:08:31.862387+00:00"
+    },
+    "f9f62f887605a0c1": {
+      "title": "Show HN: Agirails – Two AI agents negotiated and settled USDC payment over email",
+      "fetched_at": "2026-06-18T20:08:32.437498+00:00"
+    },
+    "999c5b73d0167e6a": {
+      "title": "Prompt Library: Collection of prompts for developers to use with AI tools",
+      "fetched_at": "2026-06-18T20:08:33.090163+00:00"
+    },
+    "97e5cc382aba28e9": {
+      "title": "AI took my job as a translator. I'm starting over at 39 [video]",
+      "fetched_at": "2026-06-18T20:08:33.661569+00:00"
+    },
+    "00d9b71d4e367e2c": {
+      "title": "倫敦香港經貿辦案判刑：衛志樑監禁十年、袁松彪八年",
+      "fetched_at": "2026-06-18T20:08:36.894437+00:00"
+    },
+    "85df9570b72eb94b": {
+      "title": "Earliest Plague Outbreak Identified in Siberia",
+      "fetched_at": "2026-06-18T20:08:40.378572+00:00"
+    },
+    "806f39938e1df7c2": {
+      "title": "Wildlife inside Chernobyl exclusion zone acted differently during Russia's invasion, camera traps reveal",
+      "fetched_at": "2026-06-18T20:08:40.968356+00:00"
+    },
+    "33e1bc6f36f24ad5": {
+      "title": "300,000-Year-Old Cave Site Explored in Northern Israel",
+      "fetched_at": "2026-06-18T20:08:41.552571+00:00"
+    },
+    "96c5419e89002b6e": {
+      "title": "Large Roman Bathhouse Discovered in The Netherlands",
+      "fetched_at": "2026-06-18T20:08:42.138694+00:00"
+    },
+    "dd96955a699707c1": {
+      "title": "Ancient DNA is rewriting the history of plague",
+      "fetched_at": "2026-06-18T20:08:42.721756+00:00"
+    },
+    "cb601aa1a6744ad4": {
+      "title": "'Is it really necessary to generate another image?': UN scientist explains how everyday people can limit AI's environmental impact",
+      "fetched_at": "2026-06-18T20:08:43.313626+00:00"
+    },
+    "63d5f237adb83844": {
+      "title": "Rainforest quiz: Can you sort Earth's largest rainforests from biggest to smallest?",
+      "fetched_at": "2026-06-18T20:08:43.893218+00:00"
+    },
+    "f11a5cc0e288c574": {
+      "title": "Scientists discover an earthquake gate as California faults reach their highest stress levels in 1,000 years",
+      "fetched_at": "2026-06-18T20:08:44.470843+00:00"
+    },
+    "dc52ae986c9e0654": {
+      "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
+      "fetched_at": "2026-06-18T20:08:45.059561+00:00"
+    },
+    "98233291eac8e0d9": {
+      "title": "Major errors found in Al Gore-founded Climate TRACE database",
+      "fetched_at": "2026-06-18T20:08:45.638434+00:00"
     }
   },
-  "last_updated": "2026-06-18T14:43:42.147588+00:00"
+  "last_updated": "2026-06-18T20:08:45.760675+00:00"
 }
