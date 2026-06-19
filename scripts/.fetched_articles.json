@@ -1,113 +1,5 @@
 {
   "articles": {
-    "ce3870759ee3ebb1": {
-      "title": "Pool’s new app turns your screenshots into something useful",
-      "fetched_at": "2026-06-11T15:31:43.693594+00:00"
-    },
-    "18d572a138b54e5e": {
-      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-      "fetched_at": "2026-06-11T15:31:44.327262+00:00"
-    },
-    "62af81eaa310ad6b": {
-      "title": "热门中概股美股盘前普跌，阿里巴巴跌超3%",
-      "fetched_at": "2026-06-11T15:31:44.946952+00:00"
-    },
-    "b2a11d014c44e953": {
-      "title": "贵州茅台：选举陈华为董事长并聘任多名高管",
-      "fetched_at": "2026-06-11T15:31:45.564152+00:00"
-    },
-    "fc23d19f66db6764": {
-      "title": "美股大型科技股盘前多数上涨，英特尔涨超4%",
-      "fetched_at": "2026-06-11T15:31:46.180995+00:00"
-    },
-    "62393fdef414434d": {
-      "title": "银河微电：筹划购买功率半导体公司恒泰柯100%股权，股票停牌",
-      "fetched_at": "2026-06-11T15:31:46.809092+00:00"
-    },
-    "2ee583b5f8a39825": {
-      "title": "SpaceX IPO据悉吸引了超700亿美元散户订单",
-      "fetched_at": "2026-06-11T15:31:47.444105+00:00"
-    },
-    "402faa1aff51945f": {
-      "title": "祥源新材：拟转让参股公司灵心巧手0.1828%股权",
-      "fetched_at": "2026-06-11T15:31:48.074959+00:00"
-    },
-    "80fae5c7080189d7": {
-      "title": "鼎龙股份：ArF与KrF光刻胶产品获近千加仑新增订单，其是逻辑、存储芯片制造的核心刚需耗材",
-      "fetched_at": "2026-06-11T15:31:48.730054+00:00"
-    },
-    "df8497b26c37bb0f": {
-      "title": "美国5月PPI同比增长6.5%",
-      "fetched_at": "2026-06-11T15:31:49.359826+00:00"
-    },
-    "c36f105ecfc38040": {
-      "title": "欧洲央行宣布加息25个基点",
-      "fetched_at": "2026-06-11T15:31:49.988313+00:00"
-    },
-    "c8fec2b209056506": {
-      "title": "KKR联合多方设新公司，专攻大型云服务商基建",
-      "fetched_at": "2026-06-11T15:31:50.625318+00:00"
-    },
-    "6810afbf55a0e5e9": {
-      "title": "FIFA世界杯足球嘉年华首站启动，联想推出多个AI体育方案",
-      "fetched_at": "2026-06-11T15:31:51.270053+00:00"
-    },
-    "2dd4578e10abf445": {
-      "title": "欧佩克将今年全球石油需求增长预期下调至97万桶/日",
-      "fetched_at": "2026-06-11T15:31:51.938988+00:00"
-    },
-    "ec223d03866746a6": {
-      "title": "迪生力：拟9800万元收购广东全芯30%股权",
-      "fetched_at": "2026-06-11T15:31:52.566244+00:00"
-    },
-    "309269f3da5e4916": {
-      "title": "华特气体：近日股东合计减持公司总股本1.88%，减持计划完成",
-      "fetched_at": "2026-06-11T15:31:53.174920+00:00"
-    },
-    "38d0f33b601256e0": {
-      "title": "阿波罗公司：私募股权在软件领域的大规模押注风险最高",
-      "fetched_at": "2026-06-11T15:31:53.809855+00:00"
-    },
-    "e32aad21c3f6bce1": {
-      "title": "东安动力：2025年飞行汽车收入9.9万元，2026年第一季度净亏损1990.44万元",
-      "fetched_at": "2026-06-11T15:31:54.441227+00:00"
-    },
-    "c54f165cb9cc5789": {
-      "title": "中巨芯：高纯六氟化钨尚未签署新的长期或大额订单，产能600吨暂无扩产计划",
-      "fetched_at": "2026-06-11T15:31:55.068047+00:00"
-    },
-    "67bb66503cb56ad7": {
-      "title": "蓝箭电子：拟3.36亿元收购成都芯翼60%股权，审计评估已完成",
-      "fetched_at": "2026-06-11T15:31:55.693979+00:00"
-    },
-    "bfbb4199298c86ee": {
-      "title": "Complete skin of an adult horse found with 10th-century woman and newborn in rare Siberian burial",
-      "fetched_at": "2026-06-11T15:31:59.220597+00:00"
-    },
-    "5cbd269e94548220": {
-      "title": "Scientists built a battery-free device that turns sunlight into fuel",
-      "fetched_at": "2026-06-11T15:31:59.859986+00:00"
-    },
-    "e793cad6363f4250": {
-      "title": "The 1,100-year-old mystery of Montana’s lost bison hunting site finally solved",
-      "fetched_at": "2026-06-11T15:32:00.485309+00:00"
-    },
-    "a31526cc2b789bd5": {
-      "title": "Scientists discover a strange property in rice and turn it into a smart material",
-      "fetched_at": "2026-06-11T15:32:01.109548+00:00"
-    },
-    "a1e2edbed428fd01": {
-      "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
-      "fetched_at": "2026-06-11T15:32:01.770038+00:00"
-    },
-    "f9129e130ce6c848": {
-      "title": "James Webb reveals two completely different twilights on an alien world",
-      "fetched_at": "2026-06-11T15:32:02.390936+00:00"
-    },
-    "804a064aba697e91": {
-      "title": "AI could uncover new physics faster but there’s a surprising catch",
-      "fetched_at": "2026-06-11T15:32:03.027959+00:00"
-    },
     "b606026f7d8b8bc8": {
       "title": "AI Lead Should Be an Engineer",
       "fetched_at": "2026-06-11T20:08:22.012689+00:00"
@@ -3883,7 +3775,115 @@
     "454a9a4deb611f2e": {
       "title": "Scientists propose a radical new theory for how life began on Earth",
       "fetched_at": "2026-06-19T14:39:47.682861+00:00"
+    },
+    "c4e411c87ea752d7": {
+      "title": "Pipeline-parallel LLM inference across GPUs on separate machines",
+      "fetched_at": "2026-06-19T19:23:26.549809+00:00"
+    },
+    "8cd190f94670ff0e": {
+      "title": "AI versus the China Shock",
+      "fetched_at": "2026-06-19T19:23:27.157396+00:00"
+    },
+    "d67cc4ff04a912b6": {
+      "title": "Try AI Operators on PostgreSQL",
+      "fetched_at": "2026-06-19T19:23:27.775087+00:00"
+    },
+    "313aa60b7de6c736": {
+      "title": "Ask HN: How to stop your coding agent from creating just AI slop for the UI/UX?",
+      "fetched_at": "2026-06-19T19:23:28.416598+00:00"
+    },
+    "d13c43b5e6e9910f": {
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "fetched_at": "2026-06-19T19:23:29.048813+00:00"
+    },
+    "9cc330550218390e": {
+      "title": "AI makes us more of who we are",
+      "fetched_at": "2026-06-19T19:23:29.674275+00:00"
+    },
+    "faf436683f77b7b9": {
+      "title": "Some Thoughts on AI Safety",
+      "fetched_at": "2026-06-19T19:23:30.308546+00:00"
+    },
+    "616b9d82deefeb6d": {
+      "title": "Is AI ruining our skills? Early results are in – and they're not good",
+      "fetched_at": "2026-06-19T19:23:30.944490+00:00"
+    },
+    "25bff2e7f1ded65e": {
+      "title": "Poll: What's your primary AI coding agent/orchestrator Claude/Codex/Cursor, etc?",
+      "fetched_at": "2026-06-19T19:23:31.634539+00:00"
+    },
+    "821737aed41d8bd1": {
+      "title": "Deep learning reveals antimicrobial peptides within prions",
+      "fetched_at": "2026-06-19T19:23:32.255193+00:00"
+    },
+    "7f42ebb534abb54c": {
+      "title": "Iconic Twin Cities rapper Eyedea finds new life with AI-generated album",
+      "fetched_at": "2026-06-19T19:23:32.867169+00:00"
+    },
+    "0708841dc6d0e7b8": {
+      "title": "Ask HN: What is the coolest tech progress outside AI?",
+      "fetched_at": "2026-06-19T19:23:33.479170+00:00"
+    },
+    "eec069a2640abf21": {
+      "title": "Learning to Program with the Cybiko Handheld Computer Using B2C",
+      "fetched_at": "2026-06-19T19:23:34.105921+00:00"
+    },
+    "6efdac3f8f88728f": {
+      "title": "LLM Quantization Project Part 1: What Even Is an LLM?",
+      "fetched_at": "2026-06-19T19:23:34.739302+00:00"
+    },
+    "366335383564cdd6": {
+      "title": "Huawei chips refine DeepSeek model in major leap for China's AI self-reliance",
+      "fetched_at": "2026-06-19T19:23:35.362669+00:00"
+    },
+    "d52f58c751569702": {
+      "title": "The data black hole at the center of AI [video]",
+      "fetched_at": "2026-06-19T19:23:35.978341+00:00"
+    },
+    "99b2d0e6ff407c6a": {
+      "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+      "fetched_at": "2026-06-19T19:23:36.602978+00:00"
+    },
+    "acf01943df594934": {
+      "title": "Absolutly fastest virtual bash engine for you AI have a new site",
+      "fetched_at": "2026-06-19T19:23:37.233552+00:00"
+    },
+    "0d2d0a054982b79b": {
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "fetched_at": "2026-06-19T19:23:37.854473+00:00"
+    },
+    "492c48779ce51338": {
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "fetched_at": "2026-06-19T19:23:38.470803+00:00"
+    },
+    "1add04aee14599f9": {
+      "title": "Roman Curse Tablet From the Netherlands Studied",
+      "fetched_at": "2026-06-19T19:23:45.172510+00:00"
+    },
+    "0042db5cd949b3c6": {
+      "title": "Mosaic Depicting a River God Uncovered in Turkey",
+      "fetched_at": "2026-06-19T19:23:45.791406+00:00"
+    },
+    "1b6f13aa3fb93eec": {
+      "title": "The Agentic Resource Discovery Specification",
+      "fetched_at": "2026-06-19T19:23:45.791535+00:00"
+    },
+    "477772c35ee15312": {
+      "title": "Archaeologists Investigate Site of the Battle of Bunker Hill",
+      "fetched_at": "2026-06-19T19:23:46.408626+00:00"
+    },
+    "56a66d58194259b6": {
+      "title": "Watch bison herd defend a newborn calf from wolf attack in a primeval Polish forest",
+      "fetched_at": "2026-06-19T19:23:47.041759+00:00"
+    },
+    "aa51773f9016444d": {
+      "title": "Show HN: 7a0 – Build a World Cup XI from 177 historical squads",
+      "fetched_at": "2026-06-19T19:23:47.662572+00:00"
+    },
+    "26138891bb2d3a11": {
+      "title": "Squidbleed (CVE-2026-47729) Heartbleeds ancient cousin, hiding in Squid since 97",
+      "fetched_at": "2026-06-19T19:23:48.285491+00:00"
     }
   },
-  "last_updated": "2026-06-19T14:39:47.821799+00:00"
+  "last_updated": "2026-06-19T19:23:48.431883+00:00"
 }
