@@ -1,129 +1,5 @@
 {
   "articles": {
-    "e883e18c9f48b88e": {
-      "title": "苏宁易采云：上半年采购单位、订单增长70%、39%",
-      "fetched_at": "2026-06-11T10:02:40.053708+00:00"
-    },
-    "bd23b0d55f09e402": {
-      "title": "Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude",
-      "fetched_at": "2026-06-11T10:02:40.654362+00:00"
-    },
-    "10eb8a87183c96e9": {
-      "title": "得邦照明：主业经营不涉及新技术、新产业、新业态、新模式，近期未签订重大合同",
-      "fetched_at": "2026-06-11T10:02:41.264332+00:00"
-    },
-    "4798caef81e2509a": {
-      "title": "印度塔塔咨询服务公司与Anthropic达成合作，将为5万名员工配备Claude",
-      "fetched_at": "2026-06-11T10:02:41.866648+00:00"
-    },
-    "967ca9932ffae338": {
-      "title": "隆基绿能在巴彦淖尔成立新公司",
-      "fetched_at": "2026-06-11T10:02:42.469797+00:00"
-    },
-    "2353524cc4c95f83": {
-      "title": "京东MALL引入首批实习机器人员工",
-      "fetched_at": "2026-06-11T10:02:43.062071+00:00"
-    },
-    "0f31aa495e613a15": {
-      "title": "Openpray: Periodically asks an LLM to pray for the server it runs on",
-      "fetched_at": "2026-06-11T10:02:43.678671+00:00"
-    },
-    "98a996d346e88672": {
-      "title": "药明康德：首次回购约1亿元，累计回购股份103.5万股",
-      "fetched_at": "2026-06-11T10:02:44.278219+00:00"
-    },
-    "61124a1e46fed84e": {
-      "title": "和顺电气：公司中标1.2亿元项目",
-      "fetched_at": "2026-06-11T10:02:44.915674+00:00"
-    },
-    "018ef0bca1f20f96": {
-      "title": "有研新材：股票交易异常波动，不存在应披露未披露重大信息",
-      "fetched_at": "2026-06-11T10:02:45.525763+00:00"
-    },
-    "dc278206ea89fb36": {
-      "title": "Show HN: Tail Panic – a multiplayer game designed for AI agents",
-      "fetched_at": "2026-06-11T10:02:46.137891+00:00"
-    },
-    "b72d2ce7abdeb10f": {
-      "title": "日本散户大军蜂拥认购SpaceX股票",
-      "fetched_at": "2026-06-11T10:02:46.746839+00:00"
-    },
-    "094f7b0425c958a0": {
-      "title": "Show HN: SpadeBox – Sandboxed tools and JavaScript runtime for AI agents",
-      "fetched_at": "2026-06-11T10:02:47.351623+00:00"
-    },
-    "49963589fae32c38": {
-      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
-      "fetched_at": "2026-06-11T10:02:47.956979+00:00"
-    },
-    "f329a4c8a4531be0": {
-      "title": "中国银河投资电广传媒等成立企管中心，出资额约1.35亿",
-      "fetched_at": "2026-06-11T10:02:48.567689+00:00"
-    },
-    "013b3129a6ddf1b2": {
-      "title": "滴滴App 8.0全新升级，增加“送货”“旅行”“车主”等入口",
-      "fetched_at": "2026-06-11T10:02:49.178634+00:00"
-    },
-    "39192714237336a0": {
-      "title": "30款App因个人信息收集使用问题被通报",
-      "fetched_at": "2026-06-11T10:02:49.790261+00:00"
-    },
-    "f705d645773438c9": {
-      "title": "国仪量子科创板IPO申请获证监会同意注册批复",
-      "fetched_at": "2026-06-11T10:02:50.383000+00:00"
-    },
-    "10e4e20ffce68c37": {
-      "title": "AI can control your desktop through scripts",
-      "fetched_at": "2026-06-11T10:02:50.990206+00:00"
-    },
-    "499b07ddf368e245": {
-      "title": "携程、美团等7家涉火车票销售第三方平台被约谈",
-      "fetched_at": "2026-06-11T10:02:51.597341+00:00"
-    },
-    "5f5fa62365be98f0": {
-      "title": "香港籃球教練體罰爭議 前學員打破沉默",
-      "fetched_at": "2026-06-11T10:02:54.068860+00:00"
-    },
-    "c20706318a41d252": {
-      "title": "伊朗與美國難以維持停火的四大原因",
-      "fetched_at": "2026-06-11T10:02:54.697540+00:00"
-    },
-    "923dfd507b4d1d7f": {
-      "title": "美加墨世界盃規模空前，卻因政治因素而代價高昂",
-      "fetched_at": "2026-06-11T10:02:55.296919+00:00"
-    },
-    "65343ef91a4f0ce2": {
-      "title": "印度洋海底發現大面積鯨墓地，可追溯至500多萬年前",
-      "fetched_at": "2026-06-11T10:02:55.907974+00:00"
-    },
-    "2c2c05ee4bbac77d": {
-      "title": "《火影忍者》：美國總統特朗普使用動漫角色引發日本輿論反彈",
-      "fetched_at": "2026-06-11T10:02:56.530913+00:00"
-    },
-    "789fbc2f8b74ab03": {
-      "title": "球員大腦揭秘：「心流狀態」現代足球的致勝關鍵？",
-      "fetched_at": "2026-06-11T10:02:57.138704+00:00"
-    },
-    "5b9cdd369a74ce80": {
-      "title": "人人走路都“左倾”？",
-      "fetched_at": "2026-06-11T10:02:57.730561+00:00"
-    },
-    "3ecc0cf0605bf7a3": {
-      "title": "爱泼斯坦档案如何令白宫陷入瘫痪",
-      "fetched_at": "2026-06-11T10:02:58.334156+00:00"
-    },
-    "9e29bde63b87fa9a": {
-      "title": "北爱尔兰爆发反移民暴力骚乱，一文详解事件原委",
-      "fetched_at": "2026-06-11T10:02:58.933836+00:00"
-    },
-    "93a0526b29d8f96d": {
-      "title": "哪些人最容易被人工智能“抢饭碗”",
-      "fetched_at": "2026-06-11T10:02:59.533569+00:00"
-    },
-    "454a9a4deb611f2e": {
-      "title": "Scientists propose a radical new theory for how life began on Earth",
-      "fetched_at": "2026-06-11T10:03:02.258933+00:00"
-    },
     "ce3870759ee3ebb1": {
       "title": "Pool’s new app turns your screenshots into something useful",
       "fetched_at": "2026-06-11T15:31:43.693594+00:00"
@@ -3751,7 +3627,123 @@
     "1a7b363c8125cb08": {
       "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
       "fetched_at": "2026-06-19T02:51:22.207538+00:00"
+    },
+    "b37b49f574116ef5": {
+      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+      "fetched_at": "2026-06-19T10:10:18.787157+00:00"
+    },
+    "ce472d4e0c77b385": {
+      "title": "Show HN: I built an 11-LLM consensus engine to detect AI hallucination",
+      "fetched_at": "2026-06-19T10:10:19.353425+00:00"
+    },
+    "38193c39ba3c28ac": {
+      "title": "Conservatives plan nationwide protest against AI data centers",
+      "fetched_at": "2026-06-19T10:10:19.917298+00:00"
+    },
+    "49e52f8ce408766c": {
+      "title": "杰瑞股份：今年以来，公司燃气轮机发电机组销售价格已多次上涨",
+      "fetched_at": "2026-06-19T10:10:20.485959+00:00"
+    },
+    "ce9c77f82a1cb315": {
+      "title": "商务部：将对澳大利亚进口牛肉加征55%关税",
+      "fetched_at": "2026-06-19T10:10:21.053063+00:00"
+    },
+    "79fae818dd4ed492": {
+      "title": "PageToMD – A CLI tool to turn web pages into clean Markdown for AI agents",
+      "fetched_at": "2026-06-19T10:10:21.627908+00:00"
+    },
+    "16887427fa6f6e27": {
+      "title": "Switching AI Tools Mid-Sprint Cost Us a Day (and What We Learned) – Week 6 R",
+      "fetched_at": "2026-06-19T10:10:22.200389+00:00"
+    },
+    "93294bc25854cc9a": {
+      "title": "Meta洽谈投资印度金融科技支付初创公司Cred",
+      "fetched_at": "2026-06-19T10:10:22.769636+00:00"
+    },
+    "b5a3a57ece0a33d9": {
+      "title": "Why local AI – and why it matters",
+      "fetched_at": "2026-06-19T10:10:23.336364+00:00"
+    },
+    "a1e2133468f259d2": {
+      "title": "Finding the Link Uber Missed: How to Connect AI Code Spend to Business Value",
+      "fetched_at": "2026-06-19T10:10:23.906486+00:00"
+    },
+    "f040944327083e74": {
+      "title": "How to Drive an LLM",
+      "fetched_at": "2026-06-19T10:10:24.497219+00:00"
+    },
+    "7d4f89d7f64450fa": {
+      "title": "What 'Getting Your Hands Dirty' Means at LLM-Era",
+      "fetched_at": "2026-06-19T10:10:25.062620+00:00"
+    },
+    "bbfeddaee134ca38": {
+      "title": "Capitol Alpha Machine – interactive viz of congressional stock trades",
+      "fetched_at": "2026-06-19T10:10:25.639001+00:00"
+    },
+    "0db227be5bf7fc04": {
+      "title": "浙江首个“子母”变电站项目投运",
+      "fetched_at": "2026-06-19T10:10:26.213596+00:00"
+    },
+    "1b0663abba2f82b0": {
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "fetched_at": "2026-06-19T10:10:26.786596+00:00"
+    },
+    "9fe859db0f631747": {
+      "title": "Prodigy: AI Employees",
+      "fetched_at": "2026-06-19T10:10:27.376573+00:00"
+    },
+    "b7fe135e708d3033": {
+      "title": "'We created a monster': companies rein in AI usage as costs strain budgets",
+      "fetched_at": "2026-06-19T10:10:27.964573+00:00"
+    },
+    "85e1ccdee5d4522c": {
+      "title": "One Model Won't Save You: How We Built Our AI Stack",
+      "fetched_at": "2026-06-19T10:10:28.530017+00:00"
+    },
+    "86fb3d3fcc12fdb2": {
+      "title": "17只绩优潜力硬科技小盘股出炉",
+      "fetched_at": "2026-06-19T10:10:29.108854+00:00"
+    },
+    "151aad3bb3d1f380": {
+      "title": "Contributor Poker and Zig's AI Ban",
+      "fetched_at": "2026-06-19T10:10:29.686869+00:00"
+    },
+    "bf831a56fdd22d18": {
+      "title": "「我感到被困住了」：孕婦面對飲食失調的隱性掙扎",
+      "fetched_at": "2026-06-19T10:10:31.925839+00:00"
+    },
+    "e187261e0aa7f369": {
+      "title": "AI浪潮下蘋果產品謀漲價 專家：追落後",
+      "fetched_at": "2026-06-19T10:10:32.500773+00:00"
+    },
+    "bbb57940222cd1df": {
+      "title": "「他把單點菜單藏了起來」：誰應該為第一次約會付錢？",
+      "fetched_at": "2026-06-19T10:10:33.070819+00:00"
+    },
+    "dd1b1f494dd4cfdd": {
+      "title": "球迷打掃世界盃球場，家務沉重的日本妻子們看不下去了：雙標嗎？",
+      "fetched_at": "2026-06-19T10:10:33.644529+00:00"
+    },
+    "bea3bb4d80c01f10": {
+      "title": "伊朗和平協議影響你財務的五種可能",
+      "fetched_at": "2026-06-19T10:10:34.217876+00:00"
+    },
+    "6fb69403117d5365": {
+      "title": "一部描繪潮汕華僑的中國電影《給阿嬤的情書》為何大賣",
+      "fetched_at": "2026-06-19T10:10:34.786374+00:00"
+    },
+    "d9bf0c248260fe61": {
+      "title": "《嘆春風》與中國「男色經濟」：女性慾望如何變成一門生意？",
+      "fetched_at": "2026-06-19T10:10:35.358179+00:00"
+    },
+    "d8d74ad32b0d23bf": {
+      "title": "The Major Oak, Ancient Tree of Robin Hood Legend, Has Died",
+      "fetched_at": "2026-06-19T10:10:44.789973+00:00"
+    },
+    "70aeeaca7465fb5a": {
+      "title": "Black hole winds may be robbing giant galaxies of their future stars",
+      "fetched_at": "2026-06-19T10:10:45.353987+00:00"
     }
   },
-  "last_updated": "2026-06-19T02:51:22.354738+00:00"
+  "last_updated": "2026-06-19T10:10:45.498374+00:00"
 }
