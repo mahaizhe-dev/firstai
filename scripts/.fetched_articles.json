@@ -1,277 +1,5 @@
 {
   "articles": {
-    "97e18fe4d4c31805": {
-      "title": "What Investment Data Implies about the AI Transition",
-      "fetched_at": "2026-06-10T20:08:53.670424+00:00"
-    },
-    "51cee85ef53d81e8": {
-      "title": "AI is eating the AI Engineering Loop",
-      "fetched_at": "2026-06-10T20:08:54.315766+00:00"
-    },
-    "9fb5b2d49efa0af5": {
-      "title": "Thrindex – memory OS for AI agents (ranks, compresses and evolves agents memory)",
-      "fetched_at": "2026-06-10T20:08:54.925091+00:00"
-    },
-    "9318a765ec476ccc": {
-      "title": "The Jqwik Anti-AI Affair",
-      "fetched_at": "2026-06-10T20:08:55.547443+00:00"
-    },
-    "b7e533cf351ec545": {
-      "title": "Quick: An internal hosting platform for the AI era",
-      "fetched_at": "2026-06-10T20:08:56.171512+00:00"
-    },
-    "16df4742dc982c67": {
-      "title": "If you build apps with AI tools, this is .uh concerning",
-      "fetched_at": "2026-06-10T20:08:56.791152+00:00"
-    },
-    "e2bf3770c025111b": {
-      "title": "Ring-0 AI Interview Copilot",
-      "fetched_at": "2026-06-10T20:08:57.441811+00:00"
-    },
-    "a544b28cceac89da": {
-      "title": "PR reviews were broken. AI just made it worse",
-      "fetched_at": "2026-06-10T20:08:58.064611+00:00"
-    },
-    "d1851fed4d78d5e6": {
-      "title": "The History of AI and Chatbots with Dr. Richard Wallace [video]",
-      "fetched_at": "2026-06-10T20:08:58.671508+00:00"
-    },
-    "68d39b6068b44ae6": {
-      "title": "British media will be able to prevent content from feeding Google AI search",
-      "fetched_at": "2026-06-10T20:08:59.294794+00:00"
-    },
-    "ecabda0ef77f506b": {
-      "title": "'AI-pilled' firms spend $7,500 per employee each month on AI",
-      "fetched_at": "2026-06-10T20:08:59.924992+00:00"
-    },
-    "ce8e00386ce54b75": {
-      "title": "Do AI agents need cryptographically verifiable decision receipts?",
-      "fetched_at": "2026-06-10T20:09:00.533422+00:00"
-    },
-    "f0e6d56e654620fd": {
-      "title": "Humans in the LLM Loop",
-      "fetched_at": "2026-06-10T20:09:01.149940+00:00"
-    },
-    "bd55222b30a6125b": {
-      "title": "Zero-boilerplate bridge between ML models and AI agents",
-      "fetched_at": "2026-06-10T20:09:01.767082+00:00"
-    },
-    "bf186130fb1dc158": {
-      "title": "Apple's interface monopoly wins in consumer AI with competing",
-      "fetched_at": "2026-06-10T20:09:02.391644+00:00"
-    },
-    "4b03c9b618803760": {
-      "title": "Frontier AI: what you need to know",
-      "fetched_at": "2026-06-10T20:09:03.016297+00:00"
-    },
-    "f90bace1b29a6d2c": {
-      "title": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay",
-      "fetched_at": "2026-06-10T20:09:03.631389+00:00"
-    },
-    "59d181b25f46080a": {
-      "title": "Claude Fable won’t answer basic biology questions",
-      "fetched_at": "2026-06-10T20:09:04.252135+00:00"
-    },
-    "5f606c37d25a7ee6": {
-      "title": "LinkedIn's AI content boom is creating a credibility problem for founders",
-      "fetched_at": "2026-06-10T20:09:04.907220+00:00"
-    },
-    "9597266ccfc6682d": {
-      "title": "We ran autonomous AI agents on live brokerage account for a day (it lost money)",
-      "fetched_at": "2026-06-10T20:09:05.610249+00:00"
-    },
-    "e14f249aaee58f13": {
-      "title": "分析：特朗普需要結束這場戰爭，但伊朗不會退讓",
-      "fetched_at": "2026-06-10T20:09:07.602831+00:00"
-    },
-    "3641e11308954ad1": {
-      "title": "Scientists were excited about a blood test for many cancers — but it failed a big trial. Here's what to know.",
-      "fetched_at": "2026-06-10T20:09:09.426849+00:00"
-    },
-    "2b95e426bbdef513": {
-      "title": "See the 'crawling,' ball-shaped robot that rolled around the moon during Japan's historic first landing",
-      "fetched_at": "2026-06-10T20:09:10.041173+00:00"
-    },
-    "c48700413382ddb0": {
-      "title": "A day after discovery, Meta pulls facial recognition code from its smart glasses",
-      "fetched_at": "2026-06-10T20:09:10.653902+00:00"
-    },
-    "a8230e74050c5f36": {
-      "title": "Five Additional Letters Identified in Ancient Anatolian Language",
-      "fetched_at": "2026-06-10T20:09:11.268609+00:00"
-    },
-    "10d465d9a397d7d5": {
-      "title": "In a first, scientists translated an entire viral genome so a quantum computer could read and analyze it",
-      "fetched_at": "2026-06-10T20:09:11.908946+00:00"
-    },
-    "69da8bf6e2c52187": {
-      "title": "Headless Neolithic Skeletons Uncovered in Slovakia",
-      "fetched_at": "2026-06-10T20:09:12.521673+00:00"
-    },
-    "01ca588cb7ca84d4": {
-      "title": "'Geminid Symphony' and 'Galactic Gandalf': See the breathtaking views of our home galaxy from the 2026 Milky Way Photographer of the Year contest",
-      "fetched_at": "2026-06-10T20:09:13.166876+00:00"
-    },
-    "873adb212236245c": {
-      "title": "Genetically modified worms can now produce and deliver drugs inside a living body, scientists say",
-      "fetched_at": "2026-06-10T20:09:13.793490+00:00"
-    },
-    "62164f1740c83e16": {
-      "title": "Mysterious 'cold blob' in the Atlantic is a sign of the Gulf Stream weakening — and that's bad news for the US East Coast",
-      "fetched_at": "2026-06-10T20:09:14.417909+00:00"
-    },
-    "a7f377c45c9754c3": {
-      "title": "LinkedIn wants to own B2B creator discovery with new creator marketplace",
-      "fetched_at": "2026-06-10T20:09:15.038691+00:00"
-    },
-    "7eca47361fa43b28": {
-      "title": "2 long-vanished 'super Earths' once orbited near Neptune in our outer solar system, new study hints",
-      "fetched_at": "2026-06-10T20:09:15.666060+00:00"
-    },
-    "9cff63c9782bd452": {
-      "title": "Scarcity is driving AI innovation outside Silicon Valley",
-      "fetched_at": "2026-06-11T02:34:12.785097+00:00"
-    },
-    "35c3549358dd2787": {
-      "title": "长春市：近年来一汽产销出现下滑，未来或将面临央企战略重组的压力",
-      "fetched_at": "2026-06-11T02:34:13.351941+00:00"
-    },
-    "86f993669c68c4cf": {
-      "title": "沪深两市成交额突破1万亿",
-      "fetched_at": "2026-06-11T02:34:13.918513+00:00"
-    },
-    "8a481211e452dbb7": {
-      "title": "We Used Agentic AI to Fix Kong Gateway's Flakiest Tests",
-      "fetched_at": "2026-06-11T02:34:14.494146+00:00"
-    },
-    "151f6b68fd21d310": {
-      "title": "今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-      "fetched_at": "2026-06-11T02:34:15.060877+00:00"
-    },
-    "9def031166828959": {
-      "title": "钉钉换帅，92年技术极客陈宇森接任钉钉CEO",
-      "fetched_at": "2026-06-11T02:34:15.629257+00:00"
-    },
-    "cef62f9d89de7fa5": {
-      "title": "智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景",
-      "fetched_at": "2026-06-11T02:34:16.202253+00:00"
-    },
-    "ebc3e01b2bf3c463": {
-      "title": "创业板指涨超1%",
-      "fetched_at": "2026-06-11T02:34:16.772560+00:00"
-    },
-    "126ea9ea70fc73d5": {
-      "title": "深证成指转涨",
-      "fetched_at": "2026-06-11T02:34:17.413691+00:00"
-    },
-    "79be7de26556b54b": {
-      "title": "小米推出AI 编程助手MiMo Code",
-      "fetched_at": "2026-06-11T02:34:17.987004+00:00"
-    },
-    "703db1ef99962a8f": {
-      "title": "OpenAI考虑大幅降价，以期在与Anthropic的用户争夺战中占据有利地位",
-      "fetched_at": "2026-06-11T02:34:18.573458+00:00"
-    },
-    "45f935137cd5cb07": {
-      "title": "恒指、恒生科技指数转涨",
-      "fetched_at": "2026-06-11T02:34:19.137440+00:00"
-    },
-    "09475fceaec40cfd": {
-      "title": "A股三大指数集体低开，能源股领涨",
-      "fetched_at": "2026-06-11T02:34:19.710292+00:00"
-    },
-    "b191a2d58af0e145": {
-      "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
-      "fetched_at": "2026-06-11T02:34:20.284628+00:00"
-    },
-    "6ad8de4f0b5fe788": {
-      "title": "央行今日开展1885亿元7天逆回购操作",
-      "fetched_at": "2026-06-11T02:34:20.879025+00:00"
-    },
-    "50f1daebf5bcb0b1": {
-      "title": "恒指开盘跌0.11%，恒生科技指数跌0.2%",
-      "fetched_at": "2026-06-11T02:34:21.445676+00:00"
-    },
-    "f5e625cdd3385b98": {
-      "title": "Fruit Machine (Homosexuality Test)",
-      "fetched_at": "2026-06-11T02:34:22.020130+00:00"
-    },
-    "0cc0a97861345ef8": {
-      "title": "甲骨文CFO：公司积压订单达6380亿美元，体现市场对AI基建和云服务的需求旺盛",
-      "fetched_at": "2026-06-11T02:34:22.589269+00:00"
-    },
-    "de014a8c60798522": {
-      "title": "人民币兑美元中间价报6.8150",
-      "fetched_at": "2026-06-11T02:34:23.166351+00:00"
-    },
-    "f125eede9fcf9ceb": {
-      "title": "How AI Agents Reshape Knowledge Work",
-      "fetched_at": "2026-06-11T02:34:23.741402+00:00"
-    },
-    "d6c3e834643ab856": {
-      "title": "香港宏福苑大火追责：检方对七人和两家公司提出指控",
-      "fetched_at": "2026-06-11T02:34:26.130849+00:00"
-    },
-    "26a30a27aae4068e": {
-      "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但你又可以怎麼樣？」",
-      "fetched_at": "2026-06-11T02:34:26.707145+00:00"
-    },
-    "21d2ee89454dd6e3": {
-      "title": "特朗普称谈判“拖得太久”，美国对伊朗发动新一轮空袭",
-      "fetched_at": "2026-06-11T02:34:27.277424+00:00"
-    },
-    "978bf753dd9e1ea6": {
-      "title": "亿万富翁的财富正以史上最快速度增长",
-      "fetched_at": "2026-06-11T02:34:27.854576+00:00"
-    },
-    "6fb69403117d5365": {
-      "title": "一部描繪潮汕華僑的中國電影《給阿嬤的情書》為何大賣",
-      "fetched_at": "2026-06-11T02:34:28.478421+00:00"
-    },
-    "d9bf0c248260fe61": {
-      "title": "《嘆春風》與中國「男色經濟」：女性慾望如何變成一門生意？",
-      "fetched_at": "2026-06-11T02:34:29.072649+00:00"
-    },
-    "cb40cb2e0df12a5f": {
-      "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
-      "fetched_at": "2026-06-11T02:34:31.524349+00:00"
-    },
-    "58f53684111051bd": {
-      "title": "I've Solved Content Discovery Conditions May Apply",
-      "fetched_at": "2026-06-11T02:34:32.097684+00:00"
-    },
-    "2472064f2c35d591": {
-      "title": "Scientists discover 5 million-year-old whale graveyard stretching for hundreds of miles in the Indian Ocean",
-      "fetched_at": "2026-06-11T02:34:32.675383+00:00"
-    },
-    "c6644ae3b58abd3d": {
-      "title": "Artificial turf contains 400 chemicals tied to cancer and hormone disruption. But is it unsafe?",
-      "fetched_at": "2026-06-11T02:34:33.242242+00:00"
-    },
-    "331adcc84ab5d539": {
-      "title": "Callisto, Jupiter's Ancient Moon",
-      "fetched_at": "2026-06-11T02:34:33.826566+00:00"
-    },
-    "b377f6821225ef1a": {
-      "title": "This 'crawling' robot rolled around the moon and took a historic photo",
-      "fetched_at": "2026-06-11T02:34:34.433976+00:00"
-    },
-    "b62506a250e477b6": {
-      "title": "A single protein may be holding back CAR T cancer therapy",
-      "fetched_at": "2026-06-11T02:34:35.009981+00:00"
-    },
-    "ead0f3cbdaa515e0": {
-      "title": "This blood-feeding fly sacrifices its sight after finding a host",
-      "fetched_at": "2026-06-11T02:34:35.588981+00:00"
-    },
-    "e3fdf706d9d386b3": {
-      "title": "A stellar “Rosetta stone” reveals the source of mysterious cosmic signals",
-      "fetched_at": "2026-06-11T02:34:36.151365+00:00"
-    },
-    "2f2ebabac4f97e36": {
-      "title": "Your brain starts making social decisions before you do",
-      "fetched_at": "2026-06-11T02:34:36.723272+00:00"
-    },
     "e883e18c9f48b88e": {
       "title": "苏宁易采云：上半年采购单位、订单增长70%、39%",
       "fetched_at": "2026-06-11T10:02:40.053708+00:00"
@@ -3927,7 +3655,103 @@
     "98233291eac8e0d9": {
       "title": "Major errors found in Al Gore-founded Climate TRACE database",
       "fetched_at": "2026-06-18T20:08:45.638434+00:00"
+    },
+    "84efc078e44383fb": {
+      "title": "数说故事递表港交所",
+      "fetched_at": "2026-06-19T02:51:04.687723+00:00"
+    },
+    "5246e26a76d13010": {
+      "title": "SK集团称去年创造社会价值32.2万亿韩元",
+      "fetched_at": "2026-06-19T02:51:05.253156+00:00"
+    },
+    "5d0d39011d84572c": {
+      "title": "广州知易生物科技递表港交所",
+      "fetched_at": "2026-06-19T02:51:05.823836+00:00"
+    },
+    "fc86db81459f4a1a": {
+      "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
+      "fetched_at": "2026-06-19T02:51:06.398793+00:00"
+    },
+    "0e86056e8b2ba601": {
+      "title": "日本5月核心通胀率持稳于1.4%，符合预期",
+      "fetched_at": "2026-06-19T02:51:06.985692+00:00"
+    },
+    "6910b326848be4ce": {
+      "title": "Tutorial: Python MCP Internal API > LLM",
+      "fetched_at": "2026-06-19T02:51:07.550155+00:00"
+    },
+    "375c2bbb68ab5557": {
+      "title": "石药创新再度递表港交所",
+      "fetched_at": "2026-06-19T02:51:08.118945+00:00"
+    },
+    "37a9e07d28323372": {
+      "title": "A modest proposal: Reformat everything to make documents more palatable to AI",
+      "fetched_at": "2026-06-19T02:51:08.687552+00:00"
+    },
+    "98abe7d3cbcfd7cd": {
+      "title": "瑞典呼吁禁止特斯拉FSD在欧盟范围内落地，除非其禁用超速功能",
+      "fetched_at": "2026-06-19T02:51:09.261053+00:00"
+    },
+    "c49fce95b5a61be4": {
+      "title": "Ask HN: Multi-LLM orchestration frameworks that collaborate?",
+      "fetched_at": "2026-06-19T02:51:09.828335+00:00"
+    },
+    "f42b248ae5c030fb": {
+      "title": "亚马逊拟向第三方数据中心销售AI芯片",
+      "fetched_at": "2026-06-19T02:51:10.390968+00:00"
+    },
+    "cbd381a68c72f44f": {
+      "title": "AI has granted America new power",
+      "fetched_at": "2026-06-19T02:51:10.966834+00:00"
+    },
+    "3cdf1c31f63f558a": {
+      "title": "From Dream Job to 'The Gulag': Inside Staff Revolt Zuckerberg's Brutal AI Push",
+      "fetched_at": "2026-06-19T02:51:11.536731+00:00"
+    },
+    "45cbc13aba8c1594": {
+      "title": "日本央行审议委员：将根据经济和通胀情况继续加息",
+      "fetched_at": "2026-06-19T02:51:12.100930+00:00"
+    },
+    "3395bcd9433b4407": {
+      "title": "Meta's AI agent for WhatsApp Business is now available globally",
+      "fetched_at": "2026-06-19T02:51:12.675274+00:00"
+    },
+    "2c7dc68ac017af60": {
+      "title": "现代汽车集团拟将波士顿动力转为全资子公司",
+      "fetched_at": "2026-06-19T02:51:13.236702+00:00"
+    },
+    "bf73ff024fe9a551": {
+      "title": "Observation is the layer under taste. We built it for AI runtime",
+      "fetched_at": "2026-06-19T02:51:13.800379+00:00"
+    },
+    "b56caa6a04e54955": {
+      "title": "美股三大指数集体收涨，SpaceX跌超3%",
+      "fetched_at": "2026-06-19T02:51:14.364907+00:00"
+    },
+    "5fb70fc50c4e6a07": {
+      "title": "AI Governance Cannot Be a Tool Call",
+      "fetched_at": "2026-06-19T02:51:14.933599+00:00"
+    },
+    "af9802b92c33112d": {
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "fetched_at": "2026-06-19T02:51:15.499044+00:00"
+    },
+    "7a82f4ea86efa9a2": {
+      "title": "The ancient book of wisdom at the heart of every computer (2014)",
+      "fetched_at": "2026-06-19T02:51:20.474334+00:00"
+    },
+    "5f19eafa858281c4": {
+      "title": "Ancient DNA provides evidence of earliest known plague outbreak",
+      "fetched_at": "2026-06-19T02:51:21.058816+00:00"
+    },
+    "be51a7439250cc88": {
+      "title": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why",
+      "fetched_at": "2026-06-19T02:51:21.634742+00:00"
+    },
+    "1a7b363c8125cb08": {
+      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
+      "fetched_at": "2026-06-19T02:51:22.207538+00:00"
     }
   },
-  "last_updated": "2026-06-18T20:08:45.760675+00:00"
+  "last_updated": "2026-06-19T02:51:22.354738+00:00"
 }
