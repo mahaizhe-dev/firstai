@@ -1,137 +1,5 @@
 {
   "articles": {
-    "aba19700b1048a01": {
-      "title": "The Bear Case for Frontier AI Labs",
-      "fetched_at": "2026-06-12T14:31:12.225590+00:00"
-    },
-    "aeb974daa436c00d": {
-      "title": "AI is about to get fast, and it's never going to slow down",
-      "fetched_at": "2026-06-12T14:31:12.888813+00:00"
-    },
-    "84e0f9999e181297": {
-      "title": "Bio input based, instead of vision based, physical AI for industrial bio",
-      "fetched_at": "2026-06-12T14:31:13.512008+00:00"
-    },
-    "87397038d6baa1b0": {
-      "title": "SpaceX IPO: Everything you need to know",
-      "fetched_at": "2026-06-12T14:31:14.131606+00:00"
-    },
-    "396ac482522cc91c": {
-      "title": "Learning to be a Tech Lead (2024)",
-      "fetched_at": "2026-06-12T14:31:14.754566+00:00"
-    },
-    "0723379fd0ca7682": {
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "fetched_at": "2026-06-12T14:31:15.378337+00:00"
-    },
-    "1c5c6b711f168772": {
-      "title": "Nvidia Is Developing an AI Healthcare Model with Startup Abridge",
-      "fetched_at": "2026-06-12T14:31:16.005702+00:00"
-    },
-    "e755570cd6fab718": {
-      "title": "SpaceX登陆纳斯达克",
-      "fetched_at": "2026-06-12T14:31:16.635565+00:00"
-    },
-    "68ab23293c063901": {
-      "title": "Show HN: Memoriq – Private AI Memory for ChatGPT, Claude, Gemini and Grok",
-      "fetched_at": "2026-06-12T14:31:17.276137+00:00"
-    },
-    "b6705c1d3d4d9fa8": {
-      "title": "Bernie Sanders' AI Sovereign Wealth Fund Plan",
-      "fetched_at": "2026-06-12T14:31:17.913124+00:00"
-    },
-    "c689ee223dd16013": {
-      "title": "Trajeckt: a fail-closed gateway that enforces what AI agents can do (~1.6ms)",
-      "fetched_at": "2026-06-12T14:31:18.528514+00:00"
-    },
-    "4388f42868525c59": {
-      "title": "Guardian Runtime – Local firewall for AI coding agents and runaway costs",
-      "fetched_at": "2026-06-12T14:31:19.146353+00:00"
-    },
-    "5d0b1953fcfd8c21": {
-      "title": "Show HN: RedNotebook AI open-source AI data notebook for Trino, +12 SQL engines",
-      "fetched_at": "2026-06-12T14:31:19.800233+00:00"
-    },
-    "45cc362f52ae23cd": {
-      "title": "Spec-Driven Development: A Spec-First Approach to AI-Native Engineering",
-      "fetched_at": "2026-06-12T14:31:20.426971+00:00"
-    },
-    "00bda848ba57ca93": {
-      "title": "Death by a Thousand Cuts: the AI database failures that clear every gate",
-      "fetched_at": "2026-06-12T14:31:21.044529+00:00"
-    },
-    "b0ae4a6e717befbe": {
-      "title": "Prove you're human by winning a claw machine",
-      "fetched_at": "2026-06-12T14:31:21.670332+00:00"
-    },
-    "9dbbc3617341b64a": {
-      "title": "Smart Thinking in the Age of AI",
-      "fetched_at": "2026-06-12T14:31:22.313508+00:00"
-    },
-    "fdbdf6ffe0b2cd95": {
-      "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
-      "fetched_at": "2026-06-12T14:31:22.941966+00:00"
-    },
-    "4404a248bbf04da7": {
-      "title": "壳牌宣布暂停30亿美元股票回购计划",
-      "fetched_at": "2026-06-12T14:31:23.561214+00:00"
-    },
-    "d0417321ece861cc": {
-      "title": "LLM suppliers should offer PR scoped ephemeral keys",
-      "fetched_at": "2026-06-12T14:31:24.191657+00:00"
-    },
-    "300bf28098703df1": {
-      "title": "從經濟學角度看，這是最離譜的一屆世界盃",
-      "fetched_at": "2026-06-12T14:31:26.520909+00:00"
-    },
-    "c41fe17905a6750d": {
-      "title": "緬甸政變五年：反抗軍與前線醫院面臨軍政府新一輪攻勢",
-      "fetched_at": "2026-06-12T14:31:27.148254+00:00"
-    },
-    "5607e9913f75237d": {
-      "title": "中國「八九」民運37週年：在傳承和記憶斷層間掙扎的「六四二代」",
-      "fetched_at": "2026-06-12T14:31:27.771989+00:00"
-    },
-    "96a38ddf3750a5e3": {
-      "title": "「飛機突然跳到一千英里外」：擾亂航空旅行的GPS暗戰",
-      "fetched_at": "2026-06-12T14:31:28.395013+00:00"
-    },
-    "ae14fe012201bfe6": {
-      "title": "These patients' hearts stopped a dozen times a day. An innovative procedure has transformed their lives.",
-      "fetched_at": "2026-06-12T14:31:30.040774+00:00"
-    },
-    "35fd4b9445070bf8": {
-      "title": "These tiny holes could change how the world cleans water",
-      "fetched_at": "2026-06-12T14:31:30.655939+00:00"
-    },
-    "64e86d5e36512823": {
-      "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
-      "fetched_at": "2026-06-12T14:31:31.278761+00:00"
-    },
-    "8eb7292c91b6b6ae": {
-      "title": "The missing notebooks that solved a 55-million-year-old fossil mystery",
-      "fetched_at": "2026-06-12T14:31:31.903227+00:00"
-    },
-    "706f5b9ae01da5ff": {
-      "title": "A legendary golden fabric lost for 2,000 years has returned",
-      "fetched_at": "2026-06-12T14:31:32.542186+00:00"
-    },
-    "de35d62cdcb3f28a": {
-      "title": "Ancient DNA shared with Neanderthals may explain human language",
-      "fetched_at": "2026-06-12T14:31:33.168977+00:00"
-    },
-    "6346923716212bc2": {
-      "title": "Beluga whales keep switching mates and it may be saving their species",
-      "fetched_at": "2026-06-12T14:31:33.791722+00:00"
-    },
-    "65fbf6aac00df01e": {
-      "title": "Cancer’s favorite escape trick may actually make it easier to kill",
-      "fetched_at": "2026-06-12T14:31:34.416945+00:00"
-    },
-    "ebc2e44546fcceae": {
-      "title": "NASA's Webb detects methane and strange chemistry on interstellar comet 3I/ATLAS",
-      "fetched_at": "2026-06-12T14:31:35.054563+00:00"
-    },
     "cf36bf0db7e2aa23": {
       "title": "GatekeeperAI – self-hosted governance platform for AI apps your team is building",
       "fetched_at": "2026-06-12T19:50:23.343377+00:00"
@@ -3791,7 +3659,123 @@
     "23bb07ee250abf6e": {
       "title": "Why does it take our eyes so long to adjust to the dark?",
       "fetched_at": "2026-06-20T13:24:47.642251+00:00"
+    },
+    "bd7e1d228209cfa6": {
+      "title": "The reason enterprise AI is stuck",
+      "fetched_at": "2026-06-20T19:07:17.177208+00:00"
+    },
+    "6021d95c81d07c37": {
+      "title": "My self-hosted local LLM server setup",
+      "fetched_at": "2026-06-20T19:07:17.750028+00:00"
+    },
+    "9313561bbbaa81ed": {
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "fetched_at": "2026-06-20T19:07:18.454294+00:00"
+    },
+    "e7ee5fdba9c834a9": {
+      "title": "Agents publish HTML on the internet through thethings.ai",
+      "fetched_at": "2026-06-20T19:07:19.021876+00:00"
+    },
+    "ea7371a8b5e791e8": {
+      "title": "I don't see any good orchestration system for AI agents",
+      "fetched_at": "2026-06-20T19:07:19.589318+00:00"
+    },
+    "21c8e550f2112486": {
+      "title": "Agent Rigor – Stop your AI coding assistant from doom-looping",
+      "fetched_at": "2026-06-20T19:07:20.158800+00:00"
+    },
+    "b642179527e2b59f": {
+      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "fetched_at": "2026-06-20T19:07:20.725326+00:00"
+    },
+    "f54f54a1b0c2b8aa": {
+      "title": "Global AI confessions: CEO edition 2026 – Dataiku",
+      "fetched_at": "2026-06-20T19:07:21.288176+00:00"
+    },
+    "8818920e08ac0a53": {
+      "title": "Refik Anadol's Dataland, the first AI art museum",
+      "fetched_at": "2026-06-20T19:07:21.854052+00:00"
+    },
+    "5badb494cb679ae9": {
+      "title": "AIPropel, AI-powered proposal generation for freelancers and agencies",
+      "fetched_at": "2026-06-20T19:07:22.422035+00:00"
+    },
+    "628eeb3930704138": {
+      "title": "Hand-powered LLM (YouTube) [video]",
+      "fetched_at": "2026-06-20T19:07:22.987195+00:00"
+    },
+    "d24dfa4b98780f91": {
+      "title": "Palmier-pro: macOS video editor built for AI",
+      "fetched_at": "2026-06-20T19:07:23.557488+00:00"
+    },
+    "39b680397c89b1b5": {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "fetched_at": "2026-06-20T19:07:24.124528+00:00"
+    },
+    "9bee534765f7248c": {
+      "title": "How to Lose a Global AI Monopoly in One Afternoon [video]",
+      "fetched_at": "2026-06-20T19:07:24.693891+00:00"
+    },
+    "0ee5cdfcfa0d7228": {
+      "title": "Sinceerly, AI to undo your AI writing",
+      "fetched_at": "2026-06-20T19:07:25.265920+00:00"
+    },
+    "6163280ab7ed6d7c": {
+      "title": "Granta stops publishing short story award winners over AI controversy",
+      "fetched_at": "2026-06-20T19:07:25.834463+00:00"
+    },
+    "18986df2f02d78c5": {
+      "title": "We're approaching AI agents from the wrong direction",
+      "fetched_at": "2026-06-20T19:07:26.402803+00:00"
+    },
+    "2cd0a9849709273d": {
+      "title": "I let AI run my company for 6 months. Here's what broke",
+      "fetched_at": "2026-06-20T19:07:26.972301+00:00"
+    },
+    "3323cd7b74d588e3": {
+      "title": "Agent Memory Layer: Repository-local memory for AI coding agents",
+      "fetched_at": "2026-06-20T19:07:27.551526+00:00"
+    },
+    "2af261e171302be8": {
+      "title": "Noverdesk – reusable skills for AI support agents, with a conversational builder",
+      "fetched_at": "2026-06-20T19:07:28.129437+00:00"
+    },
+    "54f8fab4bcda3c48": {
+      "title": "點擊瀏覽即時更新",
+      "fetched_at": "2026-06-20T19:07:30.056846+00:00"
+    },
+    "b2d976ef2a616462": {
+      "title": "足球世界盃2026：這些難得一見的參賽國家，你認識嗎？",
+      "fetched_at": "2026-06-20T19:07:30.631482+00:00"
+    },
+    "88bd5eae7cd7c86e": {
+      "title": "'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing",
+      "fetched_at": "2026-06-20T19:09:50.078948+00:00"
+    },
+    "d25047482431cb3f": {
+      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+      "fetched_at": "2026-06-20T19:09:50.654068+00:00"
+    },
+    "97a1efa177cb76e0": {
+      "title": "Ancient 'Robin Hood' tree is dead, experts say",
+      "fetched_at": "2026-06-20T19:09:51.215551+00:00"
+    },
+    "edaef6c590377e20": {
+      "title": "Outdoor cats can be exposed to dangerous germs — here's how to protect you and your pets, according to more than 400 studies",
+      "fetched_at": "2026-06-20T19:09:51.782508+00:00"
+    },
+    "b826ed82d7a03ffb": {
+      "title": "The first primates may have evolved in the cold, not the tropics",
+      "fetched_at": "2026-06-20T19:09:52.346669+00:00"
+    },
+    "8dfd182912b8860c": {
+      "title": "This DNA repair gene went rogue and exposed a cancer weakness",
+      "fetched_at": "2026-06-20T19:09:52.955218+00:00"
+    },
+    "8a644a4641a199ec": {
+      "title": "The secret language behind animal cooperation",
+      "fetched_at": "2026-06-20T19:09:53.518315+00:00"
     }
   },
-  "last_updated": "2026-06-20T13:24:47.785038+00:00"
+  "last_updated": "2026-06-20T19:09:53.663058+00:00"
 }
