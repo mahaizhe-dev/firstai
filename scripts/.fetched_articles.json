@@ -1,137 +1,5 @@
 {
   "articles": {
-    "b25712e00fdd3a2a": {
-      "title": "三环集团港股上市获中国证监会备案",
-      "fetched_at": "2026-06-12T09:54:52.830650+00:00"
-    },
-    "02e3c9e9f36fb8d5": {
-      "title": "安克创新港股上市获中国证监会备案",
-      "fetched_at": "2026-06-12T09:54:53.420837+00:00"
-    },
-    "cdab3e0672d66884": {
-      "title": "ASML from Machine Builder to Strategic Infrastructure",
-      "fetched_at": "2026-06-12T09:54:54.002247+00:00"
-    },
-    "5e091a508e5e2d39": {
-      "title": "药明康德：回购A+H股合计约332万股",
-      "fetched_at": "2026-06-12T09:54:54.586099+00:00"
-    },
-    "d969375725c6efc9": {
-      "title": "Debatable: Government Stakes in AI",
-      "fetched_at": "2026-06-12T09:54:55.160012+00:00"
-    },
-    "5621a8730acb8e76": {
-      "title": "中国人民银行：将个人投资人认，购大额存单起点金额降至不低于20万元人民币",
-      "fetched_at": "2026-06-12T09:54:55.736420+00:00"
-    },
-    "f0da0cbbc9688c40": {
-      "title": "HN AI Highlights – weekly digest of the best AI posts",
-      "fetched_at": "2026-06-12T09:54:56.311368+00:00"
-    },
-    "8410d1c2fb6a045b": {
-      "title": "Ask HN: What's one thing you wish AI did well?",
-      "fetched_at": "2026-06-12T09:54:56.891021+00:00"
-    },
-    "62939526a3026a78": {
-      "title": "*ST威领：控股股东签署的《股份转让协议》解除，控制权变更事项终止",
-      "fetched_at": "2026-06-12T09:54:57.467821+00:00"
-    },
-    "26b7829497672d24": {
-      "title": "世茂集团：2026年前5个月合约销售69.51亿元",
-      "fetched_at": "2026-06-12T09:54:58.047014+00:00"
-    },
-    "ed8adfcdf9edddfe": {
-      "title": "金钼股份：钼市场总体呈上涨运行态势，国内钼铁价格较年初上涨26.09%",
-      "fetched_at": "2026-06-12T09:54:58.623326+00:00"
-    },
-    "6923a598bb8f8502": {
-      "title": "OVH Grp enters into exclusive negotiations to acquire Gladia, expert in voice AI",
-      "fetched_at": "2026-06-12T09:54:59.206328+00:00"
-    },
-    "dda6d7c4cec032c5": {
-      "title": "腾讯云：下调MiniMax-M3与Hy-MT2-Pro 模型价格",
-      "fetched_at": "2026-06-12T09:54:59.808100+00:00"
-    },
-    "10d257dd8a50b2c3": {
-      "title": "恒生指数公司：恒生港美科技指数将纳入SpaceX",
-      "fetched_at": "2026-06-12T09:55:00.383652+00:00"
-    },
-    "6fc610c2c2ad64e6": {
-      "title": "Show HN: I ported 11 model families to Apple's new on-device AI framework",
-      "fetched_at": "2026-06-12T09:55:00.973824+00:00"
-    },
-    "e312a3c60ab6cfde": {
-      "title": "Show HN: LinkedIn Unfiltered – Turn AI slop into readable posts",
-      "fetched_at": "2026-06-12T09:55:01.558272+00:00"
-    },
-    "3264ea300e9983f2": {
-      "title": "上海医药：罗沙司他胶囊获国家药监局批准生产",
-      "fetched_at": "2026-06-12T09:55:02.151226+00:00"
-    },
-    "100ccc91e6c895f5": {
-      "title": "Personal Guardian Angel with LLM",
-      "fetched_at": "2026-06-12T09:55:02.732125+00:00"
-    },
-    "8be5e561d28c3017": {
-      "title": "隧道股份：投资中国能建合计持股4.98%",
-      "fetched_at": "2026-06-12T09:55:03.311529+00:00"
-    },
-    "8ccb4704fa706c03": {
-      "title": "晶丰明源：股东询价转让初步定价146.55元/股",
-      "fetched_at": "2026-06-12T09:55:03.969773+00:00"
-    },
-    "59879b8396e24d13": {
-      "title": "重慶虐狗風波：上百人集會抗議被清場，中國立法反虐待動物有多難？",
-      "fetched_at": "2026-06-12T09:55:06.634516+00:00"
-    },
-    "4925546bfaf7aa9c": {
-      "title": "「沒想過他們這麼有錢」：台灣民間網站揭露多名立委、議員持股上億元",
-      "fetched_at": "2026-06-12T09:55:07.243381+00:00"
-    },
-    "ca89642a09594c01": {
-      "title": "特朗普稱伊朗停戰協議接近完成，德黑蘭稱未有定案",
-      "fetched_at": "2026-06-12T09:55:07.827972+00:00"
-    },
-    "54f8fab4bcda3c48": {
-      "title": "點擊瀏覽即時更新",
-      "fetched_at": "2026-06-12T09:55:08.416587+00:00"
-    },
-    "16b2fd895548a0b1": {
-      "title": "乌克兰战争时长已超越第一次世界大战",
-      "fetched_at": "2026-06-12T09:55:09.015235+00:00"
-    },
-    "de3e320d596e0eed": {
-      "title": "中国投资者被SpaceX IPO拒之门外",
-      "fetched_at": "2026-06-12T09:55:09.605714+00:00"
-    },
-    "cc0b4b9768fb48e8": {
-      "title": "SpaceX真的值1.77万亿美元吗？",
-      "fetched_at": "2026-06-12T09:55:10.184424+00:00"
-    },
-    "7d703bb044369656": {
-      "title": "英国陷入暴力循环：仇恨袭击、右翼煽动和骚乱",
-      "fetched_at": "2026-06-12T09:55:10.768542+00:00"
-    },
-    "629c2a3abb5059e6": {
-      "title": "中国逮捕一名研究缅甸政治的美国学者",
-      "fetched_at": "2026-06-12T09:55:11.352027+00:00"
-    },
-    "7a29c8e6efc57a8a": {
-      "title": "沉迷白日夢的人 生活在兩個平行世界裡",
-      "fetched_at": "2026-06-12T09:55:11.942242+00:00"
-    },
-    "6d7113601cc39543": {
-      "title": "陰謀、情書與療方：人工智慧揭示的中世紀秘密",
-      "fetched_at": "2026-06-12T09:55:12.532170+00:00"
-    },
-    "b2d976ef2a616462": {
-      "title": "足球世界盃2026：這些難得一見的參賽國家，你認識嗎？",
-      "fetched_at": "2026-06-12T09:55:13.110180+00:00"
-    },
-    "64039878c9bd0687": {
-      "title": "街頭服飾與露臍上衣如何讓世界盃時尚推向新高度",
-      "fetched_at": "2026-06-12T09:55:13.693543+00:00"
-    },
     "aba19700b1048a01": {
       "title": "The Bear Case for Frontier AI Labs",
       "fetched_at": "2026-06-12T14:31:12.225590+00:00"
@@ -3823,7 +3691,107 @@
     "0f31c83cfa8428c9": {
       "title": "Earth's underground fungal network is so massive, it would span 10% of the Milky Way, map reveals",
       "fetched_at": "2026-06-20T08:39:06.922623+00:00"
+    },
+    "99bbf2f07531e6d3": {
+      "title": "Anthropic build AI so safe the Gov made them delete it (YouTube) – Patrick Boyle",
+      "fetched_at": "2026-06-20T13:24:30.220514+00:00"
+    },
+    "96f5a042a18e1bce": {
+      "title": "Show HN: FOSS sandbox platform that hides infra secrets from devs and AI agents",
+      "fetched_at": "2026-06-20T13:24:30.808085+00:00"
+    },
+    "92e49785b2fb66e5": {
+      "title": "The Emerging AI Governance Space",
+      "fetched_at": "2026-06-20T13:24:31.404713+00:00"
+    },
+    "701091076db7a230": {
+      "title": "Gotique – AI that gives a first-read appraisal on antiques from photos",
+      "fetched_at": "2026-06-20T13:24:31.991183+00:00"
+    },
+    "6b981835c35a2b91": {
+      "title": "Changes that cut our LLM pipeline costs more than model-switching did",
+      "fetched_at": "2026-06-20T13:24:32.579785+00:00"
+    },
+    "c81e2cc6e9a3d4f2": {
+      "title": "The IPv4 Parser AI Couldn't Have Written",
+      "fetched_at": "2026-06-20T13:24:33.153389+00:00"
+    },
+    "8b2c4dbdc17571a3": {
+      "title": "Show HN: AlphaVibe – AI that reads your DeFi wallet live via DeBank",
+      "fetched_at": "2026-06-20T13:24:33.730673+00:00"
+    },
+    "e06b3acec692c49b": {
+      "title": "\"China Outpacing Us on AI\": Why Musk Bought an Autonomous Coding Startup",
+      "fetched_at": "2026-06-20T13:24:34.317632+00:00"
+    },
+    "06ad543c23c3c444": {
+      "title": "Show HN: Zero-config session-taste packer for AI agents",
+      "fetched_at": "2026-06-20T13:24:34.906401+00:00"
+    },
+    "2758444477a3f95d": {
+      "title": "SpaceX Loses $600B After Announcing Acquisition of Cursor AI Coding Agent",
+      "fetched_at": "2026-06-20T13:24:35.514959+00:00"
+    },
+    "770b8b246c3a9f50": {
+      "title": "Did Anthropic talk its way into an AI export ban?",
+      "fetched_at": "2026-06-20T13:24:36.097568+00:00"
+    },
+    "d559b042da23f447": {
+      "title": "Show HN: Lelu – authorization engine that catches manipulated AI agents",
+      "fetched_at": "2026-06-20T13:24:36.675843+00:00"
+    },
+    "2e3a390d2b6f074b": {
+      "title": "Overreach audit your AI agent's diff against the prompt you gave it",
+      "fetched_at": "2026-06-20T13:24:37.252922+00:00"
+    },
+    "7ed15cc1ae8cc82b": {
+      "title": "Building a Dense Agentic AI CPU Rack Today",
+      "fetched_at": "2026-06-20T13:24:37.839696+00:00"
+    },
+    "4f2d5551ccd2e6e3": {
+      "title": "AI that can find the location of images",
+      "fetched_at": "2026-06-20T13:24:38.420457+00:00"
+    },
+    "9761e8a6cd17f0f8": {
+      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
+      "fetched_at": "2026-06-20T13:24:38.420578+00:00"
+    },
+    "c40a38b48f53bd98": {
+      "title": "A Web-Scale Data Engine for Video-to-Action Robot Learning",
+      "fetched_at": "2026-06-20T13:24:39.005593+00:00"
+    },
+    "f64ee25a48af3d91": {
+      "title": "Can 'We the People' Survive the AI Revolution?",
+      "fetched_at": "2026-06-20T13:24:39.600383+00:00"
+    },
+    "f7ce1cbd30eb259c": {
+      "title": "Rethinking vulnerability management in the age of AI and CI/CD",
+      "fetched_at": "2026-06-20T13:24:40.181224+00:00"
+    },
+    "23feb718c80bdd27": {
+      "title": "特朗普：不再将Anthropic视为国家安全威胁",
+      "fetched_at": "2026-06-20T13:24:40.850148+00:00"
+    },
+    "45607fb0e5bf6faf": {
+      "title": "香港反修例示威七週年：政府推出「正向教育」活動，當年被捕的年輕人會買賬嗎？",
+      "fetched_at": "2026-06-20T13:24:43.912898+00:00"
+    },
+    "25b084da1ad3f735": {
+      "title": "「我感覺更輕鬆，更開放」：誰說老年人不宜做心理治療",
+      "fetched_at": "2026-06-20T13:24:44.503812+00:00"
+    },
+    "111e33adfa7cd21c": {
+      "title": "Science news this week: Goblin shark filmed for first time, California close to a major quake, physicists split photon, and inside China's plans to 'tame nature'",
+      "fetched_at": "2026-06-20T13:24:46.476468+00:00"
+    },
+    "8ad036f3ed230a05": {
+      "title": "Diagnostic dilemma: A fish stabs a man through the throat and the base of the skull",
+      "fetched_at": "2026-06-20T13:24:47.059919+00:00"
+    },
+    "23bb07ee250abf6e": {
+      "title": "Why does it take our eyes so long to adjust to the dark?",
+      "fetched_at": "2026-06-20T13:24:47.642251+00:00"
     }
   },
-  "last_updated": "2026-06-20T08:39:07.064325+00:00"
+  "last_updated": "2026-06-20T13:24:47.785038+00:00"
 }
