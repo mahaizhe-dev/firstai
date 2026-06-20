@@ -1,121 +1,5 @@
 {
   "articles": {
-    "b606026f7d8b8bc8": {
-      "title": "AI Lead Should Be an Engineer",
-      "fetched_at": "2026-06-11T20:08:22.012689+00:00"
-    },
-    "73b8ac2b3424c8f8": {
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "fetched_at": "2026-06-11T20:08:22.611298+00:00"
-    },
-    "11c994fbf418dcd3": {
-      "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
-      "fetched_at": "2026-06-11T20:08:23.210522+00:00"
-    },
-    "cb56a0427ec0850d": {
-      "title": "Powering the next era of Confidential AI",
-      "fetched_at": "2026-06-11T20:08:23.812469+00:00"
-    },
-    "45b9127e00ad1c17": {
-      "title": "The Great American AI Act (draft) [pdf]",
-      "fetched_at": "2026-06-11T20:08:24.413549+00:00"
-    },
-    "8ad76d375d37f046": {
-      "title": "Rust Programming Language learning roadmap",
-      "fetched_at": "2026-06-11T20:08:24.997714+00:00"
-    },
-    "5728f3f6b266b06a": {
-      "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
-      "fetched_at": "2026-06-11T20:08:25.595523+00:00"
-    },
-    "8d48f6605f2ec667": {
-      "title": "Canadian Privacy Commissioner Findings on X.ai/Grok CSAM Deepfake Violations",
-      "fetched_at": "2026-06-11T20:08:26.187897+00:00"
-    },
-    "24808be60dc47540": {
-      "title": "Agents-Container Running AI Agents Safely in Docker-in-Docker with GVisor",
-      "fetched_at": "2026-06-11T20:08:26.797325+00:00"
-    },
-    "360ff66fd62bc135": {
-      "title": "AI Coding Skill That May Make Your Coding Sessions 44% More Productive",
-      "fetched_at": "2026-06-11T20:08:27.402534+00:00"
-    },
-    "994a5944bf826f1b": {
-      "title": "OpenAI could go from AI pioneer to AI's BlackBerry, says Forrester",
-      "fetched_at": "2026-06-11T20:08:28.005930+00:00"
-    },
-    "dfb9a6fa74f3118c": {
-      "title": "Oracle's AI datacenter splurge gives investors the capex jitters",
-      "fetched_at": "2026-06-11T20:08:28.617577+00:00"
-    },
-    "07e6de46481b9c6f": {
-      "title": "Memes > Doom: How TikTokers and YouTubers See AI",
-      "fetched_at": "2026-06-11T20:08:29.208840+00:00"
-    },
-    "79a0f50b7e7c2629": {
-      "title": "I'm creating a free AI comic for Indie Hackers struggling with distribution",
-      "fetched_at": "2026-06-11T20:08:29.809759+00:00"
-    },
-    "30bab011e5e23c5b": {
-      "title": "GitLab building AI scale Git time faster",
-      "fetched_at": "2026-06-11T20:08:30.414169+00:00"
-    },
-    "f2272f1b3273ab4e": {
-      "title": "Show HN: Eidentic – TypeScript SDK for AI agents with self-improving memory",
-      "fetched_at": "2026-06-11T20:08:31.027789+00:00"
-    },
-    "ad615902eea6e108": {
-      "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-      "fetched_at": "2026-06-11T20:08:31.639953+00:00"
-    },
-    "bd27460ce8155fb5": {
-      "title": "4 Signs You Need a Multi-Agent AI System: A Visual Guide",
-      "fetched_at": "2026-06-11T20:08:32.235699+00:00"
-    },
-    "550ed8c719616041": {
-      "title": "Ask HN: What's the best LLM model that on a 24 GB VRAM GPU?",
-      "fetched_at": "2026-06-11T20:08:32.831494+00:00"
-    },
-    "45bb980e620d56c4": {
-      "title": "Researcher made up a disease to test AI. It failed miserably",
-      "fetched_at": "2026-06-11T20:08:33.442006+00:00"
-    },
-    "1b4042bee76a91a3": {
-      "title": "霍爾木茲海峽封鎖數月後 那些被困海上的船隻和海員",
-      "fetched_at": "2026-06-11T20:08:36.676647+00:00"
-    },
-    "4ed08aa5b7977e33": {
-      "title": "鄭麗文展開訪美行程：聚焦向美方釋疑與2028總統大選佈局",
-      "fetched_at": "2026-06-11T20:08:37.282829+00:00"
-    },
-    "0f31c83cfa8428c9": {
-      "title": "Earth's underground fungal network is so massive, it would span 10% of the Milky Way, map reveals",
-      "fetched_at": "2026-06-11T20:08:39.348983+00:00"
-    },
-    "8fcf3c44a4ab3b2f": {
-      "title": "Century-old tuberculosis vaccine could help treat diabetes, trials hint. How?",
-      "fetched_at": "2026-06-11T20:08:39.961728+00:00"
-    },
-    "1df74a102ea02408": {
-      "title": "Artifacts Recovered in The Netherlands",
-      "fetched_at": "2026-06-11T20:08:40.556677+00:00"
-    },
-    "a3ddc7d6b2c9179f": {
-      "title": "Private Citizen Returns Ancient Vessel to Cyprus",
-      "fetched_at": "2026-06-11T20:08:41.167548+00:00"
-    },
-    "094b53d32fadea44": {
-      "title": "2,000-Year-Old Bones from Scotland Studied",
-      "fetched_at": "2026-06-11T20:08:41.789399+00:00"
-    },
-    "e7aff7c335833c22": {
-      "title": "The Milky Way returns: How to take breathtaking photos of our galaxy this summer",
-      "fetched_at": "2026-06-11T20:08:42.393174+00:00"
-    },
-    "708b457ec66ee99e": {
-      "title": "El Niño is officially here, and will be among the strongest ever recorded, NOAA announces",
-      "fetched_at": "2026-06-11T20:08:42.994547+00:00"
-    },
     "57d95d82d3047cff": {
       "title": "“空山慈”完成A轮融资",
       "fetched_at": "2026-06-12T02:29:03.241603+00:00"
@@ -3883,7 +3767,115 @@
     "26138891bb2d3a11": {
       "title": "Squidbleed (CVE-2026-47729) Heartbleeds ancient cousin, hiding in Squid since 97",
       "fetched_at": "2026-06-19T19:23:48.285491+00:00"
+    },
+    "6bfda3f4a734dbb6": {
+      "title": "7只机构评级股获融资净买入超10亿元",
+      "fetched_at": "2026-06-20T02:12:15.838619+00:00"
+    },
+    "edb9a8694b399e35": {
+      "title": "MojiMoshi – create an AI agent that lives in Telegram or Line",
+      "fetched_at": "2026-06-20T02:12:16.400607+00:00"
+    },
+    "84cf43d5e59bd549": {
+      "title": "三名中国裁判将亮相世界杯同场比赛",
+      "fetched_at": "2026-06-20T02:12:16.965758+00:00"
+    },
+    "0dc881d60539e915": {
+      "title": "大渡河金川水电站全容量投产发电",
+      "fetched_at": "2026-06-20T02:12:17.532987+00:00"
+    },
+    "9a0aeb552eb2c6ff": {
+      "title": "AI AlphaFold pioneer who won a Nobel Prize leaves Google DeepMind for Anthropic",
+      "fetched_at": "2026-06-20T02:12:18.104186+00:00"
+    },
+    "b7176baf8c04e4cf": {
+      "title": "Entertainmentindustry.ai – Engineering hunt and M&A gateway",
+      "fetched_at": "2026-06-20T02:12:18.673288+00:00"
+    },
+    "a07d22cc6df66637": {
+      "title": "德勤：A股上半年IPO预计将达70只，融资近700亿元",
+      "fetched_at": "2026-06-20T02:12:19.238998+00:00"
+    },
+    "f02faee7e88f7f81": {
+      "title": "美元指数19日小幅下跌",
+      "fetched_at": "2026-06-20T02:12:19.805180+00:00"
+    },
+    "03ef00899f30d22d": {
+      "title": "LME期铜收跌96美元，报13595美元/吨",
+      "fetched_at": "2026-06-20T02:12:20.379112+00:00"
+    },
+    "f03230b1688e23c9": {
+      "title": "今年7月1日起 赴日签证费用涨价5倍",
+      "fetched_at": "2026-06-20T02:12:20.942728+00:00"
+    },
+    "c01ad1937626c0f0": {
+      "title": "大众汽车加速推进业务重组 将裁减数万个岗位",
+      "fetched_at": "2026-06-20T02:12:21.514821+00:00"
+    },
+    "5ceffdcc1c727873": {
+      "title": "I am dreading our LLM-written incident report future",
+      "fetched_at": "2026-06-20T02:12:22.099727+00:00"
+    },
+    "fa40c2cf078d2c3c": {
+      "title": "I solved my mystery fatigue with AI",
+      "fetched_at": "2026-06-20T02:12:22.670814+00:00"
+    },
+    "9ac643eced8a40c3": {
+      "title": "诺贝尔奖得主约翰·江珀宣布加盟Anthropic",
+      "fetched_at": "2026-06-20T02:12:23.250707+00:00"
+    },
+    "968dc6b976bf5722": {
+      "title": "Show HN: Agentcard – virtual cards for AI agents, now with DoorDash checkout",
+      "fetched_at": "2026-06-20T02:12:23.821949+00:00"
+    },
+    "3a927f7c40e3b56a": {
+      "title": "Automating model design for edge AI",
+      "fetched_at": "2026-06-20T02:12:24.397608+00:00"
+    },
+    "c56803ab1b0d2f11": {
+      "title": "Our edge AI compiler outperforms Google and vendor toolchains",
+      "fetched_at": "2026-06-20T02:12:24.972062+00:00"
+    },
+    "8533b8b59f62bcc1": {
+      "title": "What are good benchmarks to test my CLI AI agentic system?",
+      "fetched_at": "2026-06-20T02:12:25.542116+00:00"
+    },
+    "cf70a67b377c78fb": {
+      "title": "Show HN: Ratchet – let an AI agent reflash your BIOS over a CH341A (MCP server)",
+      "fetched_at": "2026-06-20T02:12:26.107680+00:00"
+    },
+    "5cdc6a1414937259": {
+      "title": "The AI startup with no AI: Aussie boss jailed for misleading investors",
+      "fetched_at": "2026-06-20T02:12:26.679875+00:00"
+    },
+    "c110af4e85678773": {
+      "title": "Agentic Resource Discovery Specification",
+      "fetched_at": "2026-06-20T02:12:29.883659+00:00"
+    },
+    "5cbd269e94548220": {
+      "title": "Scientists built a battery-free device that turns sunlight into fuel",
+      "fetched_at": "2026-06-20T02:12:30.487472+00:00"
+    },
+    "e793cad6363f4250": {
+      "title": "The 1,100-year-old mystery of Montana’s lost bison hunting site finally solved",
+      "fetched_at": "2026-06-20T02:12:31.064374+00:00"
+    },
+    "a31526cc2b789bd5": {
+      "title": "Scientists discover a strange property in rice and turn it into a smart material",
+      "fetched_at": "2026-06-20T02:12:31.636894+00:00"
+    },
+    "a1e2edbed428fd01": {
+      "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
+      "fetched_at": "2026-06-20T02:12:32.205689+00:00"
+    },
+    "f9129e130ce6c848": {
+      "title": "James Webb reveals two completely different twilights on an alien world",
+      "fetched_at": "2026-06-20T02:12:32.771890+00:00"
+    },
+    "804a064aba697e91": {
+      "title": "AI could uncover new physics faster but there’s a surprising catch",
+      "fetched_at": "2026-06-20T02:12:33.348810+00:00"
     }
   },
-  "last_updated": "2026-06-19T19:23:48.431883+00:00"
+  "last_updated": "2026-06-20T02:12:33.493169+00:00"
 }
