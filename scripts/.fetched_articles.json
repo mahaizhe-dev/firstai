@@ -1,145 +1,5 @@
 {
   "articles": {
-    "57d95d82d3047cff": {
-      "title": "“空山慈”完成A轮融资",
-      "fetched_at": "2026-06-12T02:29:03.241603+00:00"
-    },
-    "f0ff908ac8f5b6b4": {
-      "title": "全国最大半潜式综合性网箱养殖平台将投产",
-      "fetched_at": "2026-06-12T02:29:03.861479+00:00"
-    },
-    "ac8e2716daf6a347": {
-      "title": "恒生科技指数日内涨幅扩大至2%",
-      "fetched_at": "2026-06-12T02:29:04.485096+00:00"
-    },
-    "eea1a2f7e1bc6aea": {
-      "title": "Show HN: Approve an AI agent's wire with Face ID,then watch a forged one fail",
-      "fetched_at": "2026-06-12T02:29:05.125207+00:00"
-    },
-    "f72ca738b5a90d8e": {
-      "title": "Chaining LLM and web bugs to Admin",
-      "fetched_at": "2026-06-12T02:29:05.767069+00:00"
-    },
-    "8e98b7b1af56dddb": {
-      "title": "茅台董事长陈华：只要满足条件会尽可能多投料，多生产基酒",
-      "fetched_at": "2026-06-12T02:29:06.401386+00:00"
-    },
-    "8f849dc1c141ee55": {
-      "title": "广州：拟支持香港赛马会从化马场、广州国际赛马发展中心建设，支持开展常规赛事计划",
-      "fetched_at": "2026-06-12T02:29:07.027881+00:00"
-    },
-    "0db7eb29909ee2d3": {
-      "title": "Built SwiPR – swipe-to-review GitHub PRs with AI context",
-      "fetched_at": "2026-06-12T02:29:07.656651+00:00"
-    },
-    "dbdb5e19a15c81ef": {
-      "title": "The Nerdy Escorts Cashing in on Silicon Valley's AI Boom",
-      "fetched_at": "2026-06-12T02:29:08.299779+00:00"
-    },
-    "e5e50baf3e698dc6": {
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "fetched_at": "2026-06-12T02:29:08.932607+00:00"
-    },
-    "b4b718638ec3a38a": {
-      "title": "今年以来广东外贸进出口连续5个月保持两位数增长",
-      "fetched_at": "2026-06-12T02:29:09.564719+00:00"
-    },
-    "e4ac8ebd6bdca16a": {
-      "title": "李家超：香港首份五年规划有望于第三季度末出炉",
-      "fetched_at": "2026-06-12T02:29:10.198027+00:00"
-    },
-    "42f092a8e69e4d76": {
-      "title": "Copyright – Right Answer for Open Source Code, Wrong Answer for Open Source AI?",
-      "fetched_at": "2026-06-12T02:29:10.821934+00:00"
-    },
-    "b1819f86f70af843": {
-      "title": "79% on LongMemEval: How We Beat Full-Context GPT-4 with a Local SQLite Database",
-      "fetched_at": "2026-06-12T02:29:11.436984+00:00"
-    },
-    "9c846e0c239fbc73": {
-      "title": "Dealership revoked offer to buy back customer's BMW, blaming wayward AI chatbot",
-      "fetched_at": "2026-06-12T02:29:12.061945+00:00"
-    },
-    "11531d00f63ae99a": {
-      "title": "Ask HN: What computer are you using for AI coding tools?",
-      "fetched_at": "2026-06-12T02:29:12.684793+00:00"
-    },
-    "63f564a63186efc3": {
-      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
-      "fetched_at": "2026-06-12T02:29:13.315212+00:00"
-    },
-    "07dd49270ddc0be1": {
-      "title": "A股三大指数集体高开，半导体板块大涨",
-      "fetched_at": "2026-06-12T02:29:13.940122+00:00"
-    },
-    "7a92b3b3e32bf278": {
-      "title": "6月12日人民币对美元中间价调升41个基点",
-      "fetched_at": "2026-06-12T02:29:14.561587+00:00"
-    },
-    "d557b9631c7928c1": {
-      "title": "央行6月12日公开市场开展3930亿元7天期逆回购操作",
-      "fetched_at": "2026-06-12T02:29:15.175154+00:00"
-    },
-    "f754363933643e34": {
-      "title": "泰國當局判處兩維吾爾人死刑 BBC記者回憶當年的曼谷四面佛爆炸案",
-      "fetched_at": "2026-06-12T02:29:18.067291+00:00"
-    },
-    "1ba7dc2d803af58a": {
-      "title": "世界盃墨西哥揭幕：夏奇拉熱鬧開唱，場外數百人抗議",
-      "fetched_at": "2026-06-12T02:29:18.742610+00:00"
-    },
-    "45607fb0e5bf6faf": {
-      "title": "香港反修例示威七週年：政府推出「正向教育」活動，當年被捕的年輕人會買賬嗎？",
-      "fetched_at": "2026-06-12T02:29:19.373058+00:00"
-    },
-    "4c7935ff6cf5ab37": {
-      "title": "为什么人形机器人离不开中国零部件",
-      "fetched_at": "2026-06-12T02:29:19.987382+00:00"
-    },
-    "25b084da1ad3f735": {
-      "title": "「我感覺更輕鬆，更開放」：誰說老年人不宜做心理治療",
-      "fetched_at": "2026-06-12T02:29:20.629069+00:00"
-    },
-    "c8e4dcf06e95a1b5": {
-      "title": "Ancient squirrel poop from Arctic permafrost contains DNA from mammoths, bison, horses and big cats",
-      "fetched_at": "2026-06-12T02:29:22.352708+00:00"
-    },
-    "e8e65626afced785": {
-      "title": "Venus will disappear behind the Moon in a rare June sky event",
-      "fetched_at": "2026-06-12T02:29:23.025133+00:00"
-    },
-    "3ed32fbe095d6d37": {
-      "title": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
-      "fetched_at": "2026-06-12T02:29:23.657376+00:00"
-    },
-    "cf53156b2ae0f546": {
-      "title": "This new diabetes pill burns fat without the downsides of Ozempic",
-      "fetched_at": "2026-06-12T02:29:24.279074+00:00"
-    },
-    "310494db1fc7aacf": {
-      "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
-      "fetched_at": "2026-06-12T02:29:24.900564+00:00"
-    },
-    "93a1767042a40103": {
-      "title": "New discovery upends an 80-year-old theory of turbulence",
-      "fetched_at": "2026-06-12T02:29:25.532825+00:00"
-    },
-    "f9c7bc772ea56adc": {
-      "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
-      "fetched_at": "2026-06-12T02:29:26.196141+00:00"
-    },
-    "f23dd4beee631362": {
-      "title": "Scientists discovered something surprising about french fries and diabetes",
-      "fetched_at": "2026-06-12T02:29:26.803759+00:00"
-    },
-    "4de9dca99e291107": {
-      "title": "Scientists confirm a deep earthquake that shouldn't exist",
-      "fetched_at": "2026-06-12T02:29:27.447627+00:00"
-    },
-    "4589f2886cd95587": {
-      "title": "Brain scans reveal two distinct types of autism",
-      "fetched_at": "2026-06-12T02:29:28.071168+00:00"
-    },
     "b25712e00fdd3a2a": {
       "title": "三环集团港股上市获中国证监会备案",
       "fetched_at": "2026-06-12T09:54:52.830650+00:00"
@@ -3875,7 +3735,95 @@
     "804a064aba697e91": {
       "title": "AI could uncover new physics faster but there’s a surprising catch",
       "fetched_at": "2026-06-20T02:12:33.348810+00:00"
+    },
+    "83f7f403a3e9ecc3": {
+      "title": "Getting Back to Basics by Abusing AI",
+      "fetched_at": "2026-06-20T08:38:36.582237+00:00"
+    },
+    "86257e0574ec0296": {
+      "title": "马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利 获得了3.04亿股股票",
+      "fetched_at": "2026-06-20T08:38:37.208806+00:00"
+    },
+    "2b6528a53ece3ec8": {
+      "title": "Jeff Bezos says human water consumption is limiting AI's potential",
+      "fetched_at": "2026-06-20T08:38:37.827571+00:00"
+    },
+    "e9f9d1be25c94590": {
+      "title": "张雪称自己创业时比李书福幸福",
+      "fetched_at": "2026-06-20T08:38:38.455295+00:00"
+    },
+    "1f520f6681d80bf0": {
+      "title": "Google, Microsoft offer specs to help you prove your AI is behaving nicely",
+      "fetched_at": "2026-06-20T08:38:39.076623+00:00"
+    },
+    "bb45633e59a4e772": {
+      "title": "Logslim – compact test/build output before your AI agent reads it",
+      "fetched_at": "2026-06-20T08:38:39.697093+00:00"
+    },
+    "716cfcef65e61f5a": {
+      "title": "\"Career coaches\" are fear-farming the Stanford AI hiring study [debunk]",
+      "fetched_at": "2026-06-20T08:38:40.329487+00:00"
+    },
+    "7c70f69dc7731811": {
+      "title": "6月20日全国铁路预计发送旅客1224万人次",
+      "fetched_at": "2026-06-20T08:38:40.940641+00:00"
+    },
+    "f8ddf7686c17d347": {
+      "title": "Interactional foundations for critical AI literacies",
+      "fetched_at": "2026-06-20T08:38:41.568144+00:00"
+    },
+    "fdeae3ff83443b22": {
+      "title": "上交所拟完善股票期权组合策略业务，推出单边平仓功能",
+      "fetched_at": "2026-06-20T08:38:42.204153+00:00"
+    },
+    "0e2adb6a672e6c30": {
+      "title": "Show HN: StayUp – keep a Mac awake (lid closed) while AI agents are working",
+      "fetched_at": "2026-06-20T08:38:42.854277+00:00"
+    },
+    "704e8c43859d773c": {
+      "title": "英国拟强制Meta、YouTube等平台推送更多本地新闻内容",
+      "fetched_at": "2026-06-20T08:38:43.469864+00:00"
+    },
+    "82bbeb953f2062f6": {
+      "title": "曹德旺谈内卷：我从来不怕竞争，优秀的企业需要强有力的对手",
+      "fetched_at": "2026-06-20T08:38:44.093480+00:00"
+    },
+    "56e18f5570ebcc2f": {
+      "title": "Ask HN: Will we start seeing tools for LLM use?",
+      "fetched_at": "2026-06-20T08:38:44.701155+00:00"
+    },
+    "8a50353aa8167d3c": {
+      "title": "Federal regulators order grid operators speed power2energy-hungry AI datacenters",
+      "fetched_at": "2026-06-20T08:38:45.346755+00:00"
+    },
+    "1ad0ed66efd82929": {
+      "title": "晋江文学城就部分用户充值未到账致歉：已全部处理完毕",
+      "fetched_at": "2026-06-20T08:38:45.957834+00:00"
+    },
+    "8522724a94600c7d": {
+      "title": "Show HN: A Context Brain for You (and Your AI Agent)",
+      "fetched_at": "2026-06-20T08:38:46.576864+00:00"
+    },
+    "886dbd104234be81": {
+      "title": "Show HN: Autonomy – Self-Harness/Self-Directed AI Agent Core Under Development",
+      "fetched_at": "2026-06-20T08:38:47.195618+00:00"
+    },
+    "20f1412758d7d596": {
+      "title": "端午假期首日 港珠澳大桥珠海公路口岸迎来出入境客流车流高峰",
+      "fetched_at": "2026-06-20T08:38:47.821650+00:00"
+    },
+    "69adb26809ad3cce": {
+      "title": "I created an open source app to check if a photo is from an AI or a Camera",
+      "fetched_at": "2026-06-20T08:38:48.449633+00:00"
+    },
+    "ea3c747e63375ee7": {
+      "title": "The discovery that changed how scientists think about memory",
+      "fetched_at": "2026-06-20T08:39:06.283500+00:00"
+    },
+    "0f31c83cfa8428c9": {
+      "title": "Earth's underground fungal network is so massive, it would span 10% of the Milky Way, map reveals",
+      "fetched_at": "2026-06-20T08:39:06.922623+00:00"
     }
   },
-  "last_updated": "2026-06-20T02:12:33.493169+00:00"
+  "last_updated": "2026-06-20T08:39:07.064325+00:00"
 }
