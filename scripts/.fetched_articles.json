@@ -1,97 +1,5 @@
 {
   "articles": {
-    "1a58410ae43cfd60": {
-      "title": "近六成美国人认为到2050年美国重要性将减弱",
-      "fetched_at": "2026-06-13T08:45:24.338137+00:00"
-    },
-    "598988f8a16d60d4": {
-      "title": "曼联，要被卖了",
-      "fetched_at": "2026-06-13T08:45:24.917533+00:00"
-    },
-    "9d54d93d846636fe": {
-      "title": "Validates AI",
-      "fetched_at": "2026-06-13T08:45:25.504513+00:00"
-    },
-    "0a74f4b0d195350d": {
-      "title": "A major KPMG report on AI was found to be chock-full of AI hallucinations",
-      "fetched_at": "2026-06-13T08:45:26.073890+00:00"
-    },
-    "8717c16f56003f61": {
-      "title": "国家网信办就《金融信息服务数据分类分级指南》答记者问",
-      "fetched_at": "2026-06-13T08:45:26.638413+00:00"
-    },
-    "5f0046f9cca411e4": {
-      "title": "《金融信息服务数据分类分级指南》印发",
-      "fetched_at": "2026-06-13T08:45:27.227723+00:00"
-    },
-    "7354a7b6db132736": {
-      "title": "Whissle Gateway – Run Multi-Modal Voice AI Locally in a 500MB Docker",
-      "fetched_at": "2026-06-13T08:45:27.801937+00:00"
-    },
-    "af9be7c5d5ef70d6": {
-      "title": "讯灵智能与腾讯云达成战略合作",
-      "fetched_at": "2026-06-13T08:45:28.374418+00:00"
-    },
-    "da62d5db52fe1f41": {
-      "title": "科大讯飞发布星火多模态大模型X2-VL",
-      "fetched_at": "2026-06-13T08:45:29.016078+00:00"
-    },
-    "e5f960359f0d37dc": {
-      "title": "Ask HN: Automoderated by AI Alternative to Reddit",
-      "fetched_at": "2026-06-13T08:45:29.583605+00:00"
-    },
-    "1619616f85520b7a": {
-      "title": "云南铜业：今年以来硫酸销售价格持续处于高位",
-      "fetched_at": "2026-06-13T08:45:30.149389+00:00"
-    },
-    "d6bc664daabb0cc7": {
-      "title": "美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导",
-      "fetched_at": "2026-06-13T08:45:30.720472+00:00"
-    },
-    "8a32ce76d3c77a22": {
-      "title": "Anthropic disables top-tier AI models outside US",
-      "fetched_at": "2026-06-13T08:45:31.328443+00:00"
-    },
-    "b64367678404febc": {
-      "title": "Drinkner – Matches your bar to the 102 IBA cocktails, AI only on miss",
-      "fetched_at": "2026-06-13T08:45:31.899304+00:00"
-    },
-    "6e819d6708cb0e80": {
-      "title": "智谱：GLM-5.2将面向GLM Coding Plan全量用户开放",
-      "fetched_at": "2026-06-13T08:45:32.461939+00:00"
-    },
-    "207acf958b31a6dc": {
-      "title": "H&M重组全球架构，大中华区降级",
-      "fetched_at": "2026-06-13T08:45:33.027146+00:00"
-    },
-    "a5a3ebe86a8ab31c": {
-      "title": "长安“天枢领航”亮相重庆车展，长安启源Q06将全系搭载",
-      "fetched_at": "2026-06-13T08:45:33.597924+00:00"
-    },
-    "81a55467acbbddb6": {
-      "title": "上海独角兽冲刺“脑机接口第一股”",
-      "fetched_at": "2026-06-13T08:45:34.164581+00:00"
-    },
-    "fc9c57ae3e9b19d5": {
-      "title": "南极半岛出现超过正常水平20多摄氏度异常高温",
-      "fetched_at": "2026-06-13T08:45:34.790648+00:00"
-    },
-    "96bc271b3c14f3f7": {
-      "title": "Estimating No-Cot Task-Completion Time Horizons of Frontier AI Models",
-      "fetched_at": "2026-06-13T08:45:35.352448+00:00"
-    },
-    "5b23c2c45f881ee8": {
-      "title": "世界盃2026：足球會否終於「征服美國」，還是反過來？",
-      "fetched_at": "2026-06-13T08:45:37.541707+00:00"
-    },
-    "fc19a12df5dcfe2a": {
-      "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
-      "fetched_at": "2026-06-13T08:45:39.640793+00:00"
-    },
-    "9b07b89fc9499a00": {
-      "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
-      "fetched_at": "2026-06-13T08:45:40.211333+00:00"
-    },
     "4e162e794f6aeedb": {
       "title": "My yard is dying, so I made an app for that",
       "fetched_at": "2026-06-13T13:22:21.570831+00:00"
@@ -3691,7 +3599,107 @@
     "de35d62cdcb3f28a": {
       "title": "Ancient DNA shared with Neanderthals may explain human language",
       "fetched_at": "2026-06-21T02:39:05.204803+00:00"
+    },
+    "65bf0ada84757184": {
+      "title": "高争民爆：取得不超1.8亿元回购股份专项贷款承诺函",
+      "fetched_at": "2026-06-21T09:33:37.752505+00:00"
+    },
+    "c38c33098f1fcc65": {
+      "title": "Form Before Data: The Real Bottleneck for Physical AI",
+      "fetched_at": "2026-06-21T09:33:38.366886+00:00"
+    },
+    "a59598baa64ffaa1": {
+      "title": "世嘉科技：拟定增募资不超4.03亿元，用于新能源电气精密箱体及系统集成等项目",
+      "fetched_at": "2026-06-21T09:33:38.971817+00:00"
+    },
+    "d2c520e5dae78481": {
+      "title": "The AI Definition of Done: Human in the Loop Is Not a Quality Standard",
+      "fetched_at": "2026-06-21T09:33:39.588172+00:00"
+    },
+    "23cf653f334953c3": {
+      "title": "巨星科技：拟3.25亿元收购网商银行1.54%股权",
+      "fetched_at": "2026-06-21T09:33:40.192572+00:00"
+    },
+    "f08022f745c99ae7": {
+      "title": "Anthropic Faces Questions over AI Export Ban Influence",
+      "fetched_at": "2026-06-21T09:33:40.794593+00:00"
+    },
+    "dfb99a0332378de4": {
+      "title": "博云新材：商业航天产品在2026年度暂未确认销售收入",
+      "fetched_at": "2026-06-21T09:33:41.403500+00:00"
+    },
+    "8b537ef30731e030": {
+      "title": "Agentic Systems Course: Learn AI Agents with an AI Coding Agent",
+      "fetched_at": "2026-06-21T09:33:42.020139+00:00"
+    },
+    "0119864e02cb817d": {
+      "title": "I built a real-time trading platform with an AI; then the clock started lying",
+      "fetched_at": "2026-06-21T09:33:42.626337+00:00"
+    },
+    "6344845660a95a67": {
+      "title": "AI Finance Advice Comes with a Warning Label",
+      "fetched_at": "2026-06-21T09:33:43.222861+00:00"
+    },
+    "6c648cc76df3502f": {
+      "title": "贵州茅台：2025年度每股派发现金红利28.02元，股权登记日为2026年6月25日",
+      "fetched_at": "2026-06-21T09:33:43.822364+00:00"
+    },
+    "31c2eea2f4a3c836": {
+      "title": "​东方盛虹：1600万吨/年炼化一体化项目装置6月底起例行检修",
+      "fetched_at": "2026-06-21T09:33:44.424438+00:00"
+    },
+    "4adb0c6c3717af55": {
+      "title": "德美化工：下属公司拟750万美元出售境外三处土地资产",
+      "fetched_at": "2026-06-21T09:33:45.024905+00:00"
+    },
+    "76629aa930b32b1a": {
+      "title": "Governing AI-agent actions via a network intent layer (NILScript)",
+      "fetched_at": "2026-06-21T09:33:45.630545+00:00"
+    },
+    "b7d0f9e2cf0e390b": {
+      "title": "Agent-trace: A standard format for tracing AI-generated code",
+      "fetched_at": "2026-06-21T09:33:46.227660+00:00"
+    },
+    "ce20dd68b24c4629": {
+      "title": "I made an Time-Based AI coding agent",
+      "fetched_at": "2026-06-21T09:33:46.836170+00:00"
+    },
+    "b348716ba741069b": {
+      "title": "公募REITs上市满五周年，共上市86只REITs募资2450亿元",
+      "fetched_at": "2026-06-21T09:33:47.436689+00:00"
+    },
+    "06573de3c431fca7": {
+      "title": "AI didn't kill our bootstrapped software company, it doubled our revenue",
+      "fetched_at": "2026-06-21T09:33:48.029942+00:00"
+    },
+    "8f9b37e51f93e92c": {
+      "title": "巴林国家银行正与巴林、科威特相关银行洽谈潜在合并事宜",
+      "fetched_at": "2026-06-21T09:33:48.624183+00:00"
+    },
+    "261e496a8de8e782": {
+      "title": "LBE – open-source execution control layer for AI agents",
+      "fetched_at": "2026-06-21T09:33:49.225174+00:00"
+    },
+    "dde5484ecf2cb6ac": {
+      "title": "世界盃品牌大戰：Nike對決Adidas",
+      "fetched_at": "2026-06-21T09:33:51.738629+00:00"
+    },
+    "1029b1c55ba3029e": {
+      "title": "日本流行女團XG：從殘酷五年練習生蛻變成全球流行巨星",
+      "fetched_at": "2026-06-21T09:33:52.343355+00:00"
+    },
+    "e319d46090a040aa": {
+      "title": "施紀賢仍想繼續穩坐英國首相寶座，可他的支持者正「迅速蒸發」",
+      "fetched_at": "2026-06-21T09:33:52.936764+00:00"
+    },
+    "a8ecc4d1929fd973": {
+      "title": "莫斯科煉油廠遇襲，俄烏戰爭離俄羅斯本土從此更近一步",
+      "fetched_at": "2026-06-21T09:33:53.527369+00:00"
+    },
+    "7d2451d69a1941de": {
+      "title": "What will the Amazon rainforest look like in 100 years?",
+      "fetched_at": "2026-06-21T09:33:55.239129+00:00"
     }
   },
-  "last_updated": "2026-06-21T02:39:05.311614+00:00"
+  "last_updated": "2026-06-21T09:33:55.352781+00:00"
 }
