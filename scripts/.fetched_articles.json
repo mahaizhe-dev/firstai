@@ -1,209 +1,5 @@
 {
   "articles": {
-    "cf36bf0db7e2aa23": {
-      "title": "GatekeeperAI – self-hosted governance platform for AI apps your team is building",
-      "fetched_at": "2026-06-12T19:50:23.343377+00:00"
-    },
-    "99ab22287dd1c98c": {
-      "title": "The 98% Problem: A Survey of Harness Engineering for AI Agents",
-      "fetched_at": "2026-06-12T19:50:23.921581+00:00"
-    },
-    "d1e2aad1de3b427a": {
-      "title": "We Can Live with AI, but Not Like This",
-      "fetched_at": "2026-06-12T19:50:24.485156+00:00"
-    },
-    "8b5a41236c8e2f44": {
-      "title": "Cortex – Agent-Native Knowledge OS on Markdown (Karpathy's LLM Wiki, via MCP)",
-      "fetched_at": "2026-06-12T19:50:25.049450+00:00"
-    },
-    "18629b5d381a8cc2": {
-      "title": "A Fake Bug Report Hijacks Your AI Coding Agent – and Nothing Catches It",
-      "fetched_at": "2026-06-12T19:50:25.610751+00:00"
-    },
-    "22b10dd2263265ef": {
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "fetched_at": "2026-06-12T19:50:26.184642+00:00"
-    },
-    "54975e85e6940627": {
-      "title": "Ask HN: What happens when AI-voice becomes good enough?",
-      "fetched_at": "2026-06-12T19:50:26.749898+00:00"
-    },
-    "18d13d31f08fa69d": {
-      "title": "Show HN: Vilvona AI – Self-Hosted AI Assistant with Tamil and Hindi UI",
-      "fetched_at": "2026-06-12T19:50:27.313241+00:00"
-    },
-    "762be73c28146b8b": {
-      "title": "Run local agentic AI on the Mac using MLX (WWDC 2026) [video]",
-      "fetched_at": "2026-06-12T19:50:27.883435+00:00"
-    },
-    "ae6cd3ae41a2d2b8": {
-      "title": "Four ways AI is making your life more expensive",
-      "fetched_at": "2026-06-12T19:50:28.452099+00:00"
-    },
-    "eef89c6c37f32bd7": {
-      "title": "The machine can't be held accountable. You still can",
-      "fetched_at": "2026-06-12T19:50:29.020727+00:00"
-    },
-    "2bc98fefdf28e7a3": {
-      "title": "AI juries",
-      "fetched_at": "2026-06-12T19:50:29.584445+00:00"
-    },
-    "b1e3bab272953823": {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "fetched_at": "2026-06-12T19:50:30.153886+00:00"
-    },
-    "a4d6f83e05a31699": {
-      "title": "Ad on the HN front page? Gauntlet AI?",
-      "fetched_at": "2026-06-12T19:50:30.718284+00:00"
-    },
-    "0e9249851b66ab68": {
-      "title": "Show HN: Nenya – A lightweight, highly secure AI API Gateway/Proxy written in Go",
-      "fetched_at": "2026-06-12T19:50:31.294290+00:00"
-    },
-    "bfdee7099ae129b8": {
-      "title": "Laid off from Meta, so a few of us built the safest AI-assisted cheating tool",
-      "fetched_at": "2026-06-12T19:50:31.858363+00:00"
-    },
-    "356f3b3cd275665f": {
-      "title": "Show HN: Sifty – Windows cleanup CLI/TUI with local-only AI",
-      "fetched_at": "2026-06-12T19:50:32.426770+00:00"
-    },
-    "90133badbb3b3ad5": {
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "fetched_at": "2026-06-12T19:50:32.994680+00:00"
-    },
-    "0ce1c03b9c06d3d2": {
-      "title": "Show HN: Open infrastructure for Argentina's AI-run companies (36 NPM packages)",
-      "fetched_at": "2026-06-12T19:50:33.559467+00:00"
-    },
-    "bdc789607174509b": {
-      "title": "Show HN: AI Chat App on Durable Streams and Tanstack DB",
-      "fetched_at": "2026-06-12T19:50:34.131736+00:00"
-    },
-    "05e4919be3873657": {
-      "title": "Genetic Study Offers Clues to Survival in the Peruvian Andes",
-      "fetched_at": "2026-06-12T19:50:42.194447+00:00"
-    },
-    "ffbbc9ff520f5bed": {
-      "title": "World's rarest great ape decimated by 4 days of extreme rain, with 7% of population lost to cyclone",
-      "fetched_at": "2026-06-12T19:50:42.766335+00:00"
-    },
-    "9c7325146e7f633f": {
-      "title": "Fossils show ancient primates had grooming claws as well as nails (2018)",
-      "fetched_at": "2026-06-12T19:50:43.333160+00:00"
-    },
-    "de7e9b449b5b10d0": {
-      "title": "'I was really amazed': On the edge of the Milky Way, a dwarf galaxy is being ripped in half by its big sibling",
-      "fetched_at": "2026-06-12T19:50:43.902473+00:00"
-    },
-    "99ff86bcaa57f260": {
-      "title": "Show HN: IP Crawl, the best public webcam discovery tool",
-      "fetched_at": "2026-06-12T19:50:44.521765+00:00"
-    },
-    "b256b0e8dd0b509a": {
-      "title": "One day after discovery, Meta pulls facial recognition from its smart glasses",
-      "fetched_at": "2026-06-12T19:50:45.118471+00:00"
-    },
-    "5471f9d059d96d11": {
-      "title": "Historical Data Engineering Toolkit",
-      "fetched_at": "2026-06-12T19:50:45.687636+00:00"
-    },
-    "7256a6e5b515362b": {
-      "title": "交易员对美元看涨程度升至逾一年来最高水平",
-      "fetched_at": "2026-06-13T02:10:07.398622+00:00"
-    },
-    "5d2dac4d739fb32b": {
-      "title": "一季度全球前十大晶圆代工商营收季增3.7%",
-      "fetched_at": "2026-06-13T02:10:07.984751+00:00"
-    },
-    "39723418a288897f": {
-      "title": "Meta's months-old AI unit is a soul-crushing gulag",
-      "fetched_at": "2026-06-13T02:10:08.556968+00:00"
-    },
-    "6ce54ed36c3c7dd3": {
-      "title": "SentinelMCP – An open-source firewall for AI agents that use MCP",
-      "fetched_at": "2026-06-13T02:10:09.138652+00:00"
-    },
-    "a8361833874f25e8": {
-      "title": "甲骨文赢得3.96亿美元联邦人力资源现代化合同",
-      "fetched_at": "2026-06-13T02:10:09.727549+00:00"
-    },
-    "6702ff5dc77d27cc": {
-      "title": "美司法部批准派拉蒙收购华纳兄弟探索，称该交易不会损害竞争",
-      "fetched_at": "2026-06-13T02:10:10.316309+00:00"
-    },
-    "9669d53f045b4795": {
-      "title": "网易云音乐：近期回购近730万股，回购总额9.67亿港元",
-      "fetched_at": "2026-06-13T02:10:10.898874+00:00"
-    },
-    "84a383322c4bf1b3": {
-      "title": "Show HN: AccInt – a Work Model for AI coding agents",
-      "fetched_at": "2026-06-13T02:10:11.472464+00:00"
-    },
-    "85d9371241a7055e": {
-      "title": "具身智能行业5月融资额环比降近六成",
-      "fetched_at": "2026-06-13T02:10:12.042699+00:00"
-    },
-    "74144579196bc22f": {
-      "title": "Saasm (Software as a Slot Machine)",
-      "fetched_at": "2026-06-13T02:10:12.638026+00:00"
-    },
-    "708ceb67861d3f08": {
-      "title": "特朗普政府禁止境外主体获取Anthropic旗下最强人工智能模型",
-      "fetched_at": "2026-06-13T02:10:13.212840+00:00"
-    },
-    "7a8339b373351431": {
-      "title": "Has AI Killed How-To Nonfiction?",
-      "fetched_at": "2026-06-13T02:10:13.801042+00:00"
-    },
-    "48ac5a1b6969f8fd": {
-      "title": "美多州总检察长联合调查OpenAI",
-      "fetched_at": "2026-06-13T02:10:14.387637+00:00"
-    },
-    "7d9e1cff455ee562": {
-      "title": "5月份中国电商物流指数继续回升，总业务量同比增长超20%",
-      "fetched_at": "2026-06-13T02:10:14.979123+00:00"
-    },
-    "f847f791e2d6e7f2": {
-      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
-      "fetched_at": "2026-06-13T02:10:15.566911+00:00"
-    },
-    "f4dd951cb64e18d0": {
-      "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
-      "fetched_at": "2026-06-13T02:10:16.164552+00:00"
-    },
-    "c1c3df2c8365388e": {
-      "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
-      "fetched_at": "2026-06-13T02:10:16.756300+00:00"
-    },
-    "957bf112ab0e0638": {
-      "title": "美股三大指数收盘集体上涨，SpaceX上市首日涨超19%",
-      "fetched_at": "2026-06-13T02:10:17.334239+00:00"
-    },
-    "4028323746ddb602": {
-      "title": "How to prepare for interview in the new AI era",
-      "fetched_at": "2026-06-13T02:10:17.955849+00:00"
-    },
-    "755839462523e580": {
-      "title": "The social consequences of AI delegation",
-      "fetched_at": "2026-06-13T02:10:18.541164+00:00"
-    },
-    "feb52a39e6c8681a": {
-      "title": "Learn and validate historical data modeling patterns",
-      "fetched_at": "2026-06-13T02:10:23.428844+00:00"
-    },
-    "e7e3fccc79e17d2a": {
-      "title": "Artists Returned to Remote Cave Chamber in Spain for Thousands of Years",
-      "fetched_at": "2026-06-13T02:10:24.010792+00:00"
-    },
-    "2d6e9feb492c3cda": {
-      "title": "Celtic Tomb Unearthed in Germany",
-      "fetched_at": "2026-06-13T02:10:24.586002+00:00"
-    },
-    "fabf97f7cda0ee92": {
-      "title": "Neolithic Figurines Uncovered in Northeastern Anatolia",
-      "fetched_at": "2026-06-13T02:10:25.179287+00:00"
-    },
     "1a58410ae43cfd60": {
       "title": "近六成美国人认为到2050年美国重要性将减弱",
       "fetched_at": "2026-06-13T08:45:24.338137+00:00"
@@ -3775,7 +3571,127 @@
     "8a644a4641a199ec": {
       "title": "The secret language behind animal cooperation",
       "fetched_at": "2026-06-20T19:09:53.518315+00:00"
+    },
+    "c55f538d69cae941": {
+      "title": "韩国央行警告：存储芯片景气周期或推高通胀压力",
+      "fetched_at": "2026-06-21T02:36:20.629424+00:00"
+    },
+    "dc4fccd1963aa673": {
+      "title": "Plotting AI model release cadence: two labs are accelerating, three aren't",
+      "fetched_at": "2026-06-21T02:36:21.265268+00:00"
+    },
+    "6075e39db5223b3e": {
+      "title": "下周总解禁市值达549.08亿元，多只科技牛股将有限售股解禁",
+      "fetched_at": "2026-06-21T02:36:21.898725+00:00"
+    },
+    "e5c6b06bb9d8d6e6": {
+      "title": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+      "fetched_at": "2026-06-21T02:36:22.536021+00:00"
+    },
+    "ed5b9b2c0eddcf3f": {
+      "title": "澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力",
+      "fetched_at": "2026-06-21T02:36:23.170561+00:00"
+    },
+    "2493dcb0b7ace3be": {
+      "title": "White House delays US voting-machine vulnerability report",
+      "fetched_at": "2026-06-21T02:36:23.800645+00:00"
+    },
+    "7688429a4724482f": {
+      "title": "Ratchet – BIOS flashing toolkit with a built-in MCP server for AI agents",
+      "fetched_at": "2026-06-21T02:36:24.450257+00:00"
+    },
+    "1d4dd0839c62c9c4": {
+      "title": "XRPentest: AI-powered security audit tool for VR/XR headsets",
+      "fetched_at": "2026-06-21T02:36:25.087647+00:00"
+    },
+    "401c0a37061eaef7": {
+      "title": "How the AI Village Works",
+      "fetched_at": "2026-06-21T02:36:25.715145+00:00"
+    },
+    "109296f608d78922": {
+      "title": "近一周机构调研个股有170多只",
+      "fetched_at": "2026-06-21T02:36:26.344976+00:00"
+    },
+    "959dccd597285a4f": {
+      "title": "上交所拟推出单边平仓功能？暂不实施",
+      "fetched_at": "2026-06-21T02:36:26.981144+00:00"
+    },
+    "ace9fe8b936e2b89": {
+      "title": "When I reject AI code even if it works",
+      "fetched_at": "2026-06-21T02:36:27.611531+00:00"
+    },
+    "4a6b49a7ba55bb64": {
+      "title": "Adobe adds its AI assistant to Premiere, Illustrator, and InDesign",
+      "fetched_at": "2026-06-21T02:36:28.246238+00:00"
+    },
+    "3ad8288493bb99fa": {
+      "title": "Beyond the $7.4B Headline: DeepSeek's Series A signals Chinese AI alliance shift",
+      "fetched_at": "2026-06-21T02:36:28.883198+00:00"
+    },
+    "67605d5b127fd517": {
+      "title": "Show HN: FERNme – agent memory that updates with ~zero LLM calls",
+      "fetched_at": "2026-06-21T02:36:29.519285+00:00"
+    },
+    "8518d277d26cde48": {
+      "title": "Ask HN: What are your parameter count estimates for Opus 4.8 and GPT-5.5?",
+      "fetched_at": "2026-06-21T02:36:30.153375+00:00"
+    },
+    "c774a4886b096216": {
+      "title": "Show HN: Callimachus – Local search across your AI coding-agent history",
+      "fetched_at": "2026-06-21T02:36:30.782819+00:00"
+    },
+    "0b268b394bb56df5": {
+      "title": "Renting a sewing machine from the library",
+      "fetched_at": "2026-06-21T02:36:31.415720+00:00"
+    },
+    "11ef065d917ac3de": {
+      "title": "Why Amazon hates 'human-in-the-loop' AI governance",
+      "fetched_at": "2026-06-21T02:36:32.047947+00:00"
+    },
+    "7dd5cedadf6b1abb": {
+      "title": "One Prompt Agentic AI Marketing for Game Developers",
+      "fetched_at": "2026-06-21T02:36:32.690249+00:00"
+    },
+    "1775347ef0c8a86c": {
+      "title": "「精子姊妹」：我們直到二十多歲才發現擁有同一位捐精父親",
+      "fetched_at": "2026-06-21T02:36:35.198583+00:00"
+    },
+    "32e3c34a8e5639ad": {
+      "title": "陰莖能給男性健康發出哪些警號？",
+      "fetched_at": "2026-06-21T02:36:35.824246+00:00"
+    },
+    "cca4c3d624df8111": {
+      "title": "協議剛簽談判在即海峽再度封航 美國質疑伊朗吹噓",
+      "fetched_at": "2026-06-21T02:36:36.460182+00:00"
+    },
+    "e9c2005593e533fe": {
+      "title": "中國「後地產時代」：地方政府從賣地轉型到做股東成功了嗎？",
+      "fetched_at": "2026-06-21T02:36:37.100863+00:00"
+    },
+    "5607e9913f75237d": {
+      "title": "中國「八九」民運37週年：在傳承和記憶斷層間掙扎的「六四二代」",
+      "fetched_at": "2026-06-21T02:36:37.730952+00:00"
+    },
+    "35fd4b9445070bf8": {
+      "title": "These tiny holes could change how the world cleans water",
+      "fetched_at": "2026-06-21T02:39:02.675317+00:00"
+    },
+    "64e86d5e36512823": {
+      "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
+      "fetched_at": "2026-06-21T02:39:03.311589+00:00"
+    },
+    "8eb7292c91b6b6ae": {
+      "title": "The missing notebooks that solved a 55-million-year-old fossil mystery",
+      "fetched_at": "2026-06-21T02:39:03.940985+00:00"
+    },
+    "706f5b9ae01da5ff": {
+      "title": "A legendary golden fabric lost for 2,000 years has returned",
+      "fetched_at": "2026-06-21T02:39:04.575171+00:00"
+    },
+    "de35d62cdcb3f28a": {
+      "title": "Ancient DNA shared with Neanderthals may explain human language",
+      "fetched_at": "2026-06-21T02:39:05.204803+00:00"
     }
   },
-  "last_updated": "2026-06-20T19:09:53.663058+00:00"
+  "last_updated": "2026-06-21T02:39:05.311614+00:00"
 }
