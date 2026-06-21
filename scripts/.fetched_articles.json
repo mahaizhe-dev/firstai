@@ -1,113 +1,5 @@
 {
   "articles": {
-    "d93d21aa6ae13f16": {
-      "title": "AI forgoes toxic positivity for neurodivergents",
-      "fetched_at": "2026-06-13T19:05:39.171395+00:00"
-    },
-    "f9bb82cf1741a2db": {
-      "title": "Guru AI Lab",
-      "fetched_at": "2026-06-13T19:05:39.796757+00:00"
-    },
-    "f8e5c5209d8683c6": {
-      "title": "The Future of Work and AI",
-      "fetched_at": "2026-06-13T19:05:40.420924+00:00"
-    },
-    "e1445c606eeee534": {
-      "title": "Ask HN: Did we witness the \"Trinity moment\" for AI?",
-      "fetched_at": "2026-06-13T19:05:41.043453+00:00"
-    },
-    "b19286724106034b": {
-      "title": "Eywa: Local-first memory for AI agents, with a receipt for every fact",
-      "fetched_at": "2026-06-13T19:05:41.666507+00:00"
-    },
-    "aafb0ccc32dfb55d": {
-      "title": "Transcribing my old podcast locally with open-source AI",
-      "fetched_at": "2026-06-13T19:05:42.288687+00:00"
-    },
-    "0cb3b2c8eafae1e1": {
-      "title": "PwC Report: AI Making Medical Bills Higher",
-      "fetched_at": "2026-06-13T19:05:42.907017+00:00"
-    },
-    "c46d14b9ffc7ae10": {
-      "title": "What We're No Longer Seeing: AI and the Invisible Newcomer in Open Source",
-      "fetched_at": "2026-06-13T19:05:43.536825+00:00"
-    },
-    "4a4863a9cd5a6c26": {
-      "title": "I built a one click installer on token compression engine for AI tools",
-      "fetched_at": "2026-06-13T19:05:44.171707+00:00"
-    },
-    "a98056e121b411b6": {
-      "title": "Show HN: BizChecker AI – 6 competing AI models stress-test your business idea",
-      "fetched_at": "2026-06-13T19:05:44.792200+00:00"
-    },
-    "e46a636aa5f840e4": {
-      "title": "A case for AI-pragmatism – leverage cheap compute while it's here",
-      "fetched_at": "2026-06-13T19:05:45.410450+00:00"
-    },
-    "207e8f330f3c6c62": {
-      "title": "TensorSharp: Open Source Local LLM Inference Engine",
-      "fetched_at": "2026-06-13T19:05:46.053336+00:00"
-    },
-    "f98995d264836e50": {
-      "title": "OpenAI faces investigation from state attorneys general",
-      "fetched_at": "2026-06-13T19:05:46.672543+00:00"
-    },
-    "845c7cfe03d05959": {
-      "title": "AI Coding at Home Without Going Broke",
-      "fetched_at": "2026-06-13T19:05:47.301324+00:00"
-    },
-    "3e412631b8f69d07": {
-      "title": "The Day the US Government Shut Down the Most Powerful AI",
-      "fetched_at": "2026-06-13T19:05:47.915006+00:00"
-    },
-    "5a9971754fb13991": {
-      "title": "Convoro - Forum software for the AI Age",
-      "fetched_at": "2026-06-13T19:05:48.617777+00:00"
-    },
-    "75ea2a22c07c58a6": {
-      "title": "The Mutualism Accord: a draft protocol for local-first, user-loyal AI agents",
-      "fetched_at": "2026-06-13T19:05:49.249212+00:00"
-    },
-    "83d8c012695ede97": {
-      "title": "SpaceX Just Made the AI Infrastructure War Public",
-      "fetched_at": "2026-06-13T19:05:49.863136+00:00"
-    },
-    "64dee1e5d4e28a30": {
-      "title": "Show HN: Brightdeck – an OOXML-compatible AI presentation maker",
-      "fetched_at": "2026-06-13T19:05:50.481885+00:00"
-    },
-    "4c3f46ce2be743cb": {
-      "title": "Cross-System Constraint Collisions: The Governance Gap in Enterprise Agentic AI [pdf]",
-      "fetched_at": "2026-06-13T19:05:51.105611+00:00"
-    },
-    "acb26560c457e260": {
-      "title": "印太新局？日本與菲律賓最新軍事經濟結盟為何引發中國抗議",
-      "fetched_at": "2026-06-13T19:05:53.347254+00:00"
-    },
-    "afbf7874ba61495c": {
-      "title": "I built a discovery layer for Discogs record stores",
-      "fetched_at": "2026-06-13T19:05:58.295976+00:00"
-    },
-    "21a5be5a546415d8": {
-      "title": "Your brain can keep improving into your 90s, study finds",
-      "fetched_at": "2026-06-13T19:05:58.973910+00:00"
-    },
-    "af9d3b27be90f736": {
-      "title": "Lucy’s hunter revealed: Giant crocodile terrorized early human ancestors",
-      "fetched_at": "2026-06-13T19:05:59.609177+00:00"
-    },
-    "c549ccd6ae805112": {
-      "title": "Alien planet spins revealed a hidden clue to how worlds form",
-      "fetched_at": "2026-06-13T19:06:00.233504+00:00"
-    },
-    "894b632e3a5258b4": {
-      "title": "Learning a musical instrument in your 70s could help protect memory",
-      "fetched_at": "2026-06-13T19:06:00.869512+00:00"
-    },
-    "896f59262ea80249": {
-      "title": "Dark energy survives major challenge as universe keeps accelerating",
-      "fetched_at": "2026-06-13T19:06:01.483849+00:00"
-    },
     "b1b841371f6f0f51": {
       "title": "我国首次开展蔬菜纯电农机实地综合测评",
       "fetched_at": "2026-06-14T02:33:23.080806+00:00"
@@ -3679,7 +3571,95 @@
     "f324a89d2155f416": {
       "title": "Scientists discover neurons must break their DNA to build the brain",
       "fetched_at": "2026-06-21T13:45:37.864889+00:00"
+    },
+    "d8e8d6d6df17a8c6": {
+      "title": "A cheaper and safer agentic AI workflow",
+      "fetched_at": "2026-06-21T19:12:40.687918+00:00"
+    },
+    "300adfb3fe2372ef": {
+      "title": "Tech pundit Cringely cofounds startup '2Brains Inc' to solve LLM hallucinations",
+      "fetched_at": "2026-06-21T19:12:41.306814+00:00"
+    },
+    "178b03d78aa598ff": {
+      "title": "Flic Mic for AI – The Wireless Voice Button",
+      "fetched_at": "2026-06-21T19:12:41.927565+00:00"
+    },
+    "c73d769cea57654c": {
+      "title": "Chatting with an AI Won't Make You a Top Programmer",
+      "fetched_at": "2026-06-21T19:12:42.539278+00:00"
+    },
+    "29ec12c315dc61f7": {
+      "title": "Vexyn – browser-only privacy tools with local AI",
+      "fetched_at": "2026-06-21T19:12:43.172898+00:00"
+    },
+    "6f7927e0124d75a8": {
+      "title": "Two AI judges scored our agent's answer 0.85, but it never opened the file",
+      "fetched_at": "2026-06-21T19:12:43.799353+00:00"
+    },
+    "88f93041d5bc31de": {
+      "title": "Show HN: Zither – paste JSON/CSV/a spreadsheet table, stats instantly, no AI",
+      "fetched_at": "2026-06-21T19:12:44.502323+00:00"
+    },
+    "fc8439985e435919": {
+      "title": "Bonfires in the Dark: Ritual, Science, and AI as Compression Interfaces",
+      "fetched_at": "2026-06-21T19:12:45.133333+00:00"
+    },
+    "ca5fde76335ef0e1": {
+      "title": "Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis",
+      "fetched_at": "2026-06-21T19:12:45.760887+00:00"
+    },
+    "6bb9eb14fe1b7810": {
+      "title": "AkaRouter – Flat per-call LLM API gateway (20x cheaper than Claude Max)",
+      "fetched_at": "2026-06-21T19:12:46.389846+00:00"
+    },
+    "31a28acae05e92b3": {
+      "title": "Tesla plans to sell modular AI data center hardware called 'Megapod'",
+      "fetched_at": "2026-06-21T19:12:47.007033+00:00"
+    },
+    "1a6a0552290e292b": {
+      "title": "Learning to work (very) remotely (2023)",
+      "fetched_at": "2026-06-21T19:12:47.629790+00:00"
+    },
+    "7662c9e897f0a78e": {
+      "title": "Show HN: Atizar-AI agents where the server runs approved actions, not the model",
+      "fetched_at": "2026-06-21T19:12:48.252706+00:00"
+    },
+    "5866a25a97ed5d0b": {
+      "title": "Neuralwatt: Energy-based pricing for AI inference. Efficient prompts cost less",
+      "fetched_at": "2026-06-21T19:12:48.872868+00:00"
+    },
+    "5d39f73731d5dd9f": {
+      "title": "Googles specification (and tooling) for the LLM wiki",
+      "fetched_at": "2026-06-21T19:12:49.502795+00:00"
+    },
+    "dcfb045d6d84e1eb": {
+      "title": "Supervising AI Agents",
+      "fetched_at": "2026-06-21T19:12:50.124245+00:00"
+    },
+    "c035f81a88551025": {
+      "title": "Show HN: Askmaps.ai – Like ChatGPT with a Map",
+      "fetched_at": "2026-06-21T19:12:50.738585+00:00"
+    },
+    "f5571232fcd33fde": {
+      "title": "'Can a machine do this job?' is the wrong question",
+      "fetched_at": "2026-06-21T19:12:51.364405+00:00"
+    },
+    "d85032001422ea43": {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "fetched_at": "2026-06-21T19:12:51.990016+00:00"
+    },
+    "d9a37cfa9441f52a": {
+      "title": "Ask HN: Why Do AI Credits Expire",
+      "fetched_at": "2026-06-21T19:12:52.615261+00:00"
+    },
+    "34135d09617da655": {
+      "title": "The US just approved bemotrizinol, a sunscreen ingredient long used in Asia and Europe. Here's how it works.",
+      "fetched_at": "2026-06-21T19:12:56.411503+00:00"
+    },
+    "4c9a6dcb325a5a48": {
+      "title": "As lakes turn brown, trout and bass decline while pike and walleye thrive",
+      "fetched_at": "2026-06-21T19:12:57.038408+00:00"
     }
   },
-  "last_updated": "2026-06-21T13:45:37.966260+00:00"
+  "last_updated": "2026-06-21T19:12:57.135873+00:00"
 }
