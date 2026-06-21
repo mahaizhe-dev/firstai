@@ -1,117 +1,5 @@
 {
   "articles": {
-    "4e162e794f6aeedb": {
-      "title": "My yard is dying, so I made an app for that",
-      "fetched_at": "2026-06-13T13:22:21.570831+00:00"
-    },
-    "36a26ebfcb46be2c": {
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-      "fetched_at": "2026-06-13T13:22:22.209624+00:00"
-    },
-    "376dbfd5e26fc037": {
-      "title": "鲸鸿动能赋能鸿蒙开发者商业增长，2026年应用媒体收益同比增长37%",
-      "fetched_at": "2026-06-13T13:22:22.860369+00:00"
-    },
-    "06d423808e30ea87": {
-      "title": "Why do we need AI in project management software",
-      "fetched_at": "2026-06-13T13:22:23.482601+00:00"
-    },
-    "f6a21fad6cba8cab": {
-      "title": "Show HN: AgentNexus – coordinate LLM agents by service boundary, not role",
-      "fetched_at": "2026-06-13T13:22:24.126587+00:00"
-    },
-    "e81605770d7f3860": {
-      "title": "Thoughts on AI and Jobs",
-      "fetched_at": "2026-06-13T13:22:24.746750+00:00"
-    },
-    "21aea4b2c8982448": {
-      "title": "SpaceX业务呈现“一极盈利、两极亏损”格局",
-      "fetched_at": "2026-06-13T13:22:25.363489+00:00"
-    },
-    "8e57fd61210c31c6": {
-      "title": "DOE wants to build a single national platform for doing science with AI",
-      "fetched_at": "2026-06-13T13:22:25.988262+00:00"
-    },
-    "7addba364111660f": {
-      "title": "Yann LeCun: World Models: Enabling the Next AI Revolution",
-      "fetched_at": "2026-06-13T13:22:26.613452+00:00"
-    },
-    "5039e5cd34c3b716": {
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "fetched_at": "2026-06-13T13:22:27.229443+00:00"
-    },
-    "a37e2dc05d2fbcef": {
-      "title": "鲸鸿动能系统拆解“主动式营销”框架，助广告主实现确定性增长",
-      "fetched_at": "2026-06-13T13:22:27.848478+00:00"
-    },
-    "ea89f36f8b40667d": {
-      "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
-      "fetched_at": "2026-06-13T13:22:28.488536+00:00"
-    },
-    "4c5376a9da81c022": {
-      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-      "fetched_at": "2026-06-13T13:22:29.117311+00:00"
-    },
-    "918c5875b80a1139": {
-      "title": "吉利控股董事长李书福：集中资源做强吉利汽车上市公司",
-      "fetched_at": "2026-06-13T13:22:29.737710+00:00"
-    },
-    "4dfd5a1c3955cca4": {
-      "title": "A股投资者已超2.5亿",
-      "fetched_at": "2026-06-13T13:22:30.362902+00:00"
-    },
-    "caac8068fa9683cc": {
-      "title": "雷军：小米汽车高度重视测试工作，目前整个测试团队有800多人",
-      "fetched_at": "2026-06-13T13:22:30.989277+00:00"
-    },
-    "74a89e8e0e0b7dad": {
-      "title": "Show HN: Quant Picker – which GGUF file fits your model and machine",
-      "fetched_at": "2026-06-13T13:22:31.604420+00:00"
-    },
-    "5ace79b00254f5ab": {
-      "title": "EU budget 2027 €200B: 75B for \"cohesion, resilience, and values\", €2.5B for AI",
-      "fetched_at": "2026-06-13T13:22:32.230845+00:00"
-    },
-    "b8e52ae0caa404f4": {
-      "title": "HDC 2026：鲸鸿动能2025年广告主数增长200%，助力开发者与合作伙伴可持续增长",
-      "fetched_at": "2026-06-13T13:22:32.858862+00:00"
-    },
-    "88c8b8b13a3b7562": {
-      "title": "To Thrive Alongside AI, Focus on Mindset – Not Skillset",
-      "fetched_at": "2026-06-13T13:22:33.487613+00:00"
-    },
-    "132562ade551333d": {
-      "title": "世界盃攻略：48隊賽制、分組與奪冠熱門一次掌握",
-      "fetched_at": "2026-06-13T13:22:35.674600+00:00"
-    },
-    "dc15e608e4e4f314": {
-      "title": "NASA's experimental X-59 jet breaks sound barrier for 1st time in step toward 'quiet supersonic' technology",
-      "fetched_at": "2026-06-13T13:22:37.445171+00:00"
-    },
-    "998ed82dbd21c809": {
-      "title": "'This might be the point of no return': Experts on the current measles outbreak and where we go from here",
-      "fetched_at": "2026-06-13T13:22:38.064199+00:00"
-    },
-    "8ffb77a378e9d10c": {
-      "title": "Science news this week: El Niño arrives, the Artemis III crew are revealed, a 'cold blob' expands across the Atlantic, and a forgotten note from Richard Feynman gets deciphered",
-      "fetched_at": "2026-06-13T13:22:38.684693+00:00"
-    },
-    "da4ada156f567018": {
-      "title": "Has all the water on Earth been peed before?",
-      "fetched_at": "2026-06-13T13:22:39.301820+00:00"
-    },
-    "bcba6f3d2b5cde3b": {
-      "title": "Self-Discovery Through Archaeology",
-      "fetched_at": "2026-06-13T13:22:39.939527+00:00"
-    },
-    "84ab65fa760eb56d": {
-      "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
-      "fetched_at": "2026-06-13T13:22:40.560247+00:00"
-    },
-    "3b4da636969a1c77": {
-      "title": "Scientists discover the master clock that controls biological growth and development",
-      "fetched_at": "2026-06-13T13:22:41.179744+00:00"
-    },
     "d93d21aa6ae13f16": {
       "title": "AI forgoes toxic positivity for neurodivergents",
       "fetched_at": "2026-06-13T19:05:39.171395+00:00"
@@ -3699,7 +3587,99 @@
     "7d2451d69a1941de": {
       "title": "What will the Amazon rainforest look like in 100 years?",
       "fetched_at": "2026-06-21T09:33:55.239129+00:00"
+    },
+    "68fb0088ad462d7e": {
+      "title": "Show HN: Cloak – let AI agents use your API keys without ever seeing them",
+      "fetched_at": "2026-06-21T13:45:20.448362+00:00"
+    },
+    "c7bffae5f7a6fe8c": {
+      "title": "Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business",
+      "fetched_at": "2026-06-21T13:45:21.055610+00:00"
+    },
+    "9df42bf690da9816": {
+      "title": "AI Boom Hits Labor Market Reality Check",
+      "fetched_at": "2026-06-21T13:45:21.678035+00:00"
+    },
+    "5feea1da402c5b06": {
+      "title": "AI Made Me Braver",
+      "fetched_at": "2026-06-21T13:45:22.299882+00:00"
+    },
+    "595c2bd629c61430": {
+      "title": "Tokoscope – Automatic LLM token compression and cost monitoring in 2 lines",
+      "fetched_at": "2026-06-21T13:45:22.919996+00:00"
+    },
+    "67e0b25c199dfdf4": {
+      "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+      "fetched_at": "2026-06-21T13:45:23.544100+00:00"
+    },
+    "8d5a0a2715c6987a": {
+      "title": "Show HN: An AI video prompt cookbook for image-to-video workflows",
+      "fetched_at": "2026-06-21T13:45:24.167783+00:00"
+    },
+    "f5f0e7fec24042d4": {
+      "title": "Show HN: Local LLM Hardware Calculator",
+      "fetched_at": "2026-06-21T13:45:24.801865+00:00"
+    },
+    "3ee1f34ed167f0a8": {
+      "title": "Shall We? – A pre-engineering sanity check for AI-era feature bloat",
+      "fetched_at": "2026-06-21T13:45:25.422663+00:00"
+    },
+    "237b376d3f3ceb33": {
+      "title": "AI Warfare Is at the Point of No Return",
+      "fetched_at": "2026-06-21T13:45:26.043662+00:00"
+    },
+    "e647c2638a8dcb1f": {
+      "title": "I Created a Minimalist Universal Language for AI",
+      "fetched_at": "2026-06-21T13:45:26.670683+00:00"
+    },
+    "7d630db476e111e0": {
+      "title": "China tightens indium export checks as AI demand increases",
+      "fetched_at": "2026-06-21T13:45:27.280920+00:00"
+    },
+    "0cf17d86adf8d314": {
+      "title": "Canyon Predict – road bike prototype with AI edge computing [video]",
+      "fetched_at": "2026-06-21T13:45:27.915261+00:00"
+    },
+    "ac1872f122eff6fe": {
+      "title": "Show HN: Didon – AI workday reports for productivity analysis",
+      "fetched_at": "2026-06-21T13:45:28.555033+00:00"
+    },
+    "726dee87dfb2c2b5": {
+      "title": "KitaabAI AI book and thesis writer with native Urdu support",
+      "fetched_at": "2026-06-21T13:45:29.197586+00:00"
+    },
+    "7511ad5504f68f00": {
+      "title": "Brands using AI-generated influencers to promote products on social media",
+      "fetched_at": "2026-06-21T13:45:29.821393+00:00"
+    },
+    "e00bd5927f5eb549": {
+      "title": "中关村：琥珀酸美托洛尔缓释胶囊上市许可申请获受理",
+      "fetched_at": "2026-06-21T13:45:30.454530+00:00"
+    },
+    "819f198715aacbb4": {
+      "title": "What does it mean for AI to be democratic?",
+      "fetched_at": "2026-06-21T13:45:31.088929+00:00"
+    },
+    "00712988eaeab9a3": {
+      "title": "沪电股份：拟吸并全资子公司普江仓储",
+      "fetched_at": "2026-06-21T13:45:31.712777+00:00"
+    },
+    "e211d86f30d6b299": {
+      "title": "北京利尔：调整定增方案，拟募资额调减至不超10.25亿元",
+      "fetched_at": "2026-06-21T13:45:32.334523+00:00"
+    },
+    "3c402ebc4d32cbaf": {
+      "title": "James Webb telescope finds a cosmic cloud of creation buried in the Sword of Orion — Space photo of the week",
+      "fetched_at": "2026-06-21T13:45:36.538527+00:00"
+    },
+    "b84ef65325b6e08e": {
+      "title": "Think human anatomy is finished? Scientists say think again",
+      "fetched_at": "2026-06-21T13:45:37.166907+00:00"
+    },
+    "f324a89d2155f416": {
+      "title": "Scientists discover neurons must break their DNA to build the brain",
+      "fetched_at": "2026-06-21T13:45:37.864889+00:00"
     }
   },
-  "last_updated": "2026-06-21T09:33:55.352781+00:00"
+  "last_updated": "2026-06-21T13:45:37.966260+00:00"
 }
