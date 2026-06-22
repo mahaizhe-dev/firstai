@@ -1,117 +1,5 @@
 {
   "articles": {
-    "a902543de6955134": {
-      "title": "Claude Fable 5 vs. GPT-5.5: better planning, similar execution",
-      "fetched_at": "2026-06-14T13:25:26.493503+00:00"
-    },
-    "35091aaa613f0707": {
-      "title": "AI is revolutionising the stock market",
-      "fetched_at": "2026-06-14T13:25:27.160476+00:00"
-    },
-    "6b9d5f0f15544000": {
-      "title": "Qwen 3.6 93B with MTP on 2×RTX 3090 NVLink=187 tokens/SEC,LLM lost bleat-a-thon",
-      "fetched_at": "2026-06-14T13:25:27.816673+00:00"
-    },
-    "14bc43e454f9757d": {
-      "title": "The origins of the AI age /s",
-      "fetched_at": "2026-06-14T13:25:28.454291+00:00"
-    },
-    "6a5d2ee407f2c44a": {
-      "title": "Stop Monitoring AI Systems Like Web Services",
-      "fetched_at": "2026-06-14T13:25:29.072519+00:00"
-    },
-    "02fa709d37bd3d1a": {
-      "title": "Relent less AI self-evolution",
-      "fetched_at": "2026-06-14T13:25:29.688974+00:00"
-    },
-    "6f9de0a64f08df69": {
-      "title": "UK police officer under criminal investigation over alleged use of AI",
-      "fetched_at": "2026-06-14T13:25:30.318164+00:00"
-    },
-    "254cd2b1312b0518": {
-      "title": "Home Opus: Local Deployment of Frontier AI Weights (Post-Fable 5 Ban)",
-      "fetched_at": "2026-06-14T13:25:30.971504+00:00"
-    },
-    "0e09f065335058d0": {
-      "title": "Show HN: Velyr – an AI agent that finds and fixes conversion leaks on your site",
-      "fetched_at": "2026-06-14T13:25:31.591366+00:00"
-    },
-    "96deb4aec43d00e3": {
-      "title": "Ask HN: What problem did AI create at your company that didn't exist before?",
-      "fetched_at": "2026-06-14T13:25:32.224531+00:00"
-    },
-    "dc53106dd49c448f": {
-      "title": "外媒曝蚂蚁集团正秘密测试AI 版支付宝",
-      "fetched_at": "2026-06-14T13:25:32.829792+00:00"
-    },
-    "a083761870b65d23": {
-      "title": "It Is Beginning: AI Improves Itself (auth: Sabine Hossenfelder) (+abridgement)",
-      "fetched_at": "2026-06-14T13:25:33.449450+00:00"
-    },
-    "2fa96ef3e6d10f34": {
-      "title": "Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit",
-      "fetched_at": "2026-06-14T13:25:34.070606+00:00"
-    },
-    "c1912c1f83657cdb": {
-      "title": "ExpensePal - AI expense tracker & budget planner",
-      "fetched_at": "2026-06-14T13:25:34.689242+00:00"
-    },
-    "5f73d3adfe3b6978": {
-      "title": "崔东树：5月我国动力和其它电池合计产��为192GWh，同比增长38%",
-      "fetched_at": "2026-06-14T13:25:35.314954+00:00"
-    },
-    "520e6f8a3e164de5": {
-      "title": "陈茂波：中国香港股市1-5月日均成交额同比增长14%",
-      "fetched_at": "2026-06-14T13:25:35.934249+00:00"
-    },
-    "240cb21285dedca1": {
-      "title": "德国数字化部长疑用AI写公文遭质疑",
-      "fetched_at": "2026-06-14T13:25:36.575570+00:00"
-    },
-    "6ef7db4176802e1d": {
-      "title": "阿里巴巴：“周靖人辞职”纯属谣言",
-      "fetched_at": "2026-06-14T13:25:37.206835+00:00"
-    },
-    "88a28f049eaddba2": {
-      "title": "南航第十一架C919国产大飞机正式入列",
-      "fetched_at": "2026-06-14T13:25:37.824625+00:00"
-    },
-    "26ff340d28ec769a": {
-      "title": "中建六局与大禹集团签署战略合作协议",
-      "fetched_at": "2026-06-14T13:25:38.448989+00:00"
-    },
-    "6cc3cce15aec1439": {
-      "title": "Famous child mummies in Andes may belong to kids who were sacrificed to 'ritually anchor' the Inca's presence as their empire expanded",
-      "fetched_at": "2026-06-14T13:26:41.811654+00:00"
-    },
-    "8fe9f6a016810944": {
-      "title": "Neuroscientists are searching for the 'cellular substrate of loneliness'",
-      "fetched_at": "2026-06-14T13:26:42.432827+00:00"
-    },
-    "c4fdb93981fc76f3": {
-      "title": "Artemis II crew captures rare double auroras on the dark side of Earth as they zoom toward the moon — Space photo of the week",
-      "fetched_at": "2026-06-14T13:26:43.077375+00:00"
-    },
-    "3e21685b64addc86": {
-      "title": "Do you really have to wash rice before you cook it?",
-      "fetched_at": "2026-06-14T13:26:43.708263+00:00"
-    },
-    "0b9c8529afcaa81b": {
-      "title": "Scientists discover a hidden quantum world inside cobalt",
-      "fetched_at": "2026-06-14T13:26:44.329043+00:00"
-    },
-    "1708d3db6f7f4535": {
-      "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
-      "fetched_at": "2026-06-14T13:26:44.952949+00:00"
-    },
-    "06cc4fcc7c3c9510": {
-      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
-      "fetched_at": "2026-06-14T13:26:45.584689+00:00"
-    },
-    "1de3c2be1e710cdb": {
-      "title": "The biggest collagen study yet reveals what actually works",
-      "fetched_at": "2026-06-14T13:26:46.207502+00:00"
-    },
     "6f61019623640f3e": {
       "title": "China may have accessed Mythos",
       "fetched_at": "2026-06-14T19:06:46.096212+00:00"
@@ -3663,7 +3551,139 @@
     "d63b49c242669001": {
       "title": "T. rex took 40 years to reach full size, scientists find",
       "fetched_at": "2026-06-22T11:33:04.596101+00:00"
+    },
+    "f6e80fb517fb8ec2": {
+      "title": "Phlox: A full-featured AI platform you own",
+      "fetched_at": "2026-06-22T16:25:30.969243+00:00"
+    },
+    "6c2488a8ddd6b805": {
+      "title": "AI Co-Founder for Solo Builders",
+      "fetched_at": "2026-06-22T16:25:31.539043+00:00"
+    },
+    "25562445a02ca98f": {
+      "title": "AI law firm wins UK court case for first time",
+      "fetched_at": "2026-06-22T16:25:32.106959+00:00"
+    },
+    "4724725405b78455": {
+      "title": "I Tracked LLM Pricing for 8 Weeks. Here's What the Data Shows",
+      "fetched_at": "2026-06-22T16:25:32.671880+00:00"
+    },
+    "a4f311950123e00b": {
+      "title": "I built an AI wearable demo that sees what I'm looking at and answers out loud",
+      "fetched_at": "2026-06-22T16:25:33.236862+00:00"
+    },
+    "d78c55c61b3478f3": {
+      "title": "Show HN: Frontier AI for Motion Design",
+      "fetched_at": "2026-06-22T16:25:33.807219+00:00"
+    },
+    "9348cd8c6d181ff4": {
+      "title": "Show HN: PreFlight – A local AST scanner to catch AI architectural drift",
+      "fetched_at": "2026-06-22T16:25:34.393660+00:00"
+    },
+    "7c1aab6d5032b20a": {
+      "title": "Show HN: GitPT – AI commit messages with Apple's on-device Foundation Models",
+      "fetched_at": "2026-06-22T16:25:34.963719+00:00"
+    },
+    "716ce39f4228c55f": {
+      "title": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
+      "fetched_at": "2026-06-22T16:25:35.533533+00:00"
+    },
+    "03b024c9721b7d72": {
+      "title": "Show HN: Build and Host AI apps on your own servers",
+      "fetched_at": "2026-06-22T16:25:36.110221+00:00"
+    },
+    "a1ed6882746a1a73": {
+      "title": "I built a voice AI chess companion for elderly players, in 3 languages",
+      "fetched_at": "2026-06-22T16:25:36.684045+00:00"
+    },
+    "d0c2f75e1c0c9e7b": {
+      "title": "Township Leaders Vow to Fight Nuclear AI Data Center",
+      "fetched_at": "2026-06-22T16:25:37.251422+00:00"
+    },
+    "3ffbbe3c7672abf7": {
+      "title": "The economics of a one-person AI business",
+      "fetched_at": "2026-06-22T16:25:37.822661+00:00"
+    },
+    "bfcfbd8cd8cff1d0": {
+      "title": "How to build an AI agent in 2026: a practical step-by-step guide",
+      "fetched_at": "2026-06-22T16:25:38.387349+00:00"
+    },
+    "25232cb771b5364b": {
+      "title": "Two Heads Are Better Than One: Run Many AI Agents, Merge One Auditable Result",
+      "fetched_at": "2026-06-22T16:25:38.956547+00:00"
+    },
+    "8c7646d767ec983c": {
+      "title": "AI Agent Governance vs. Observability: What's the Difference?",
+      "fetched_at": "2026-06-22T16:25:39.555798+00:00"
+    },
+    "b525141873543dd1": {
+      "title": "DeepMind AI Control Roadmap [pdf]",
+      "fetched_at": "2026-06-22T16:25:40.123242+00:00"
+    },
+    "cac5452a13cab7dc": {
+      "title": "Inventing the Future, One Lisp Machine at a Time",
+      "fetched_at": "2026-06-22T16:25:40.686447+00:00"
+    },
+    "601ee6b130471be3": {
+      "title": "Show HN: Sturnus – OpenAI-compatible LLM proxy routing to the fastest provider",
+      "fetched_at": "2026-06-22T16:25:41.256591+00:00"
+    },
+    "cc4a0ce5a4a14069": {
+      "title": "Developers react to AI-scented blog posts",
+      "fetched_at": "2026-06-22T16:25:41.823475+00:00"
+    },
+    "83b136e92d97ea4c": {
+      "title": "SpaceX上市首日股價飆升，助馬斯克成全球首位萬億富豪",
+      "fetched_at": "2026-06-22T16:25:43.852273+00:00"
+    },
+    "2e4d71d147e9cc38": {
+      "title": "特朗普和伊朗談判的核心：核問題如何解決？",
+      "fetched_at": "2026-06-22T16:25:44.426457+00:00"
+    },
+    "e7393553c16fade5": {
+      "title": "多國科學家宣佈新一輪厄爾尼諾現象已經來臨",
+      "fetched_at": "2026-06-22T16:25:44.991825+00:00"
+    },
+    "a5c4c656869f7644": {
+      "title": "Never-before-seen shark that 'walks' on land discovered off Papua New Guinea",
+      "fetched_at": "2026-06-22T16:25:47.565240+00:00"
+    },
+    "7fa52559cbcb4723": {
+      "title": "Diagnostic dilemma: Woman's infertility may have been caused by rare semen allergy",
+      "fetched_at": "2026-06-22T16:25:48.132905+00:00"
+    },
+    "4a1b477733bb21a4": {
+      "title": "Future astronauts could walk across rocks from deep inside the Moon",
+      "fetched_at": "2026-06-22T16:25:48.705681+00:00"
+    },
+    "a8c7c3291c8b2597": {
+      "title": "Butterfly that barely ages could help unlock longevity secrets",
+      "fetched_at": "2026-06-22T16:25:49.280102+00:00"
+    },
+    "6c8afa366ce3099c": {
+      "title": "A dying star could create a new universe instead of a black hole",
+      "fetched_at": "2026-06-22T16:25:49.859216+00:00"
+    },
+    "6e50371d78ca7cdd": {
+      "title": "Millipedes beat vertebrates to land by 80 million years",
+      "fetched_at": "2026-06-22T16:25:50.435218+00:00"
+    },
+    "42a0b44881ddf880": {
+      "title": "Scientists discover parrots may actually use names",
+      "fetched_at": "2026-06-22T16:25:51.018146+00:00"
+    },
+    "2195710a3abcfd69": {
+      "title": "Yellowstone wolves may not have reshaped the national park after all",
+      "fetched_at": "2026-06-22T16:25:51.592535+00:00"
+    },
+    "e33788fad012f65d": {
+      "title": "Why middle age is becoming a breaking point in the U.S.",
+      "fetched_at": "2026-06-22T16:25:52.161598+00:00"
+    },
+    "ea76ad11b0c14bf5": {
+      "title": "Ancient Denisovan DNA still shapes human immunity today",
+      "fetched_at": "2026-06-22T16:25:52.741473+00:00"
     }
   },
-  "last_updated": "2026-06-22T11:33:04.739390+00:00"
+  "last_updated": "2026-06-22T16:25:52.882296+00:00"
 }
