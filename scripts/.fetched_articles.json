@@ -1,97 +1,5 @@
 {
   "articles": {
-    "6f61019623640f3e": {
-      "title": "China may have accessed Mythos",
-      "fetched_at": "2026-06-14T19:06:46.096212+00:00"
-    },
-    "712213d68e951427": {
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "fetched_at": "2026-06-14T19:06:46.680852+00:00"
-    },
-    "943ff8f977b4c86a": {
-      "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
-      "fetched_at": "2026-06-14T19:06:47.261272+00:00"
-    },
-    "a0e1c6201315cd60": {
-      "title": "吉利包揽TCR世界巡回赛巴伦西亚站首回合前两名",
-      "fetched_at": "2026-06-14T19:06:47.841076+00:00"
-    },
-    "a78d5d4650f3c947": {
-      "title": "英国和日本计划签署180亿英镑清洁能源投资协议",
-      "fetched_at": "2026-06-14T19:06:48.429600+00:00"
-    },
-    "82b0de4d4acd90b1": {
-      "title": "加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀",
-      "fetched_at": "2026-06-14T19:06:49.012703+00:00"
-    },
-    "e44c05cc2cd17f35": {
-      "title": "2026端午档新片预售总票房破2000万",
-      "fetched_at": "2026-06-14T19:06:49.592701+00:00"
-    },
-    "e649769b5d3d14bd": {
-      "title": "成渝中线与成达万高铁枢纽连接工程取得关键突破",
-      "fetched_at": "2026-06-14T19:06:50.178548+00:00"
-    },
-    "acf9943bf581d4df": {
-      "title": "刚果（金）埃博拉确诊病例超过700例",
-      "fetched_at": "2026-06-14T19:06:50.776328+00:00"
-    },
-    "3c28427fbd0b4871": {
-      "title": "TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验",
-      "fetched_at": "2026-06-14T19:06:51.360031+00:00"
-    },
-    "7e4133db21b8f6e8": {
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "fetched_at": "2026-06-14T19:06:51.937178+00:00"
-    },
-    "4da19beec6841952": {
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-      "fetched_at": "2026-06-14T19:06:52.525508+00:00"
-    },
-    "7ed09b8c8a413c25": {
-      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-      "fetched_at": "2026-06-14T19:06:53.100942+00:00"
-    },
-    "f925bd3a0eaa8ae4": {
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "fetched_at": "2026-06-14T19:06:53.673950+00:00"
-    },
-    "e8b747b817426bc1": {
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-      "fetched_at": "2026-06-14T19:06:54.266901+00:00"
-    },
-    "a5baecc488987644": {
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "fetched_at": "2026-06-14T19:06:54.849942+00:00"
-    },
-    "d721bdd0a975c87a": {
-      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-      "fetched_at": "2026-06-14T19:06:55.419225+00:00"
-    },
-    "b142618116eb55b9": {
-      "title": "“宁王系”，排队 IPO",
-      "fetched_at": "2026-06-14T19:06:56.008397+00:00"
-    },
-    "b2e20243aad452b4": {
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "fetched_at": "2026-06-14T19:06:56.593523+00:00"
-    },
-    "2a7ddc55c00369ca": {
-      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
-      "fetched_at": "2026-06-14T19:06:57.194369+00:00"
-    },
-    "324780c714eac09d": {
-      "title": "日本飛驒山難倖存港人：如果再選一次，我會不去",
-      "fetched_at": "2026-06-14T19:07:00.833286+00:00"
-    },
-    "433e503cb75ae26a": {
-      "title": "Bow-Wow, Ding-Dong, Pooh-Pooh: Expert explains early theories of how human language evolved — and their silly names",
-      "fetched_at": "2026-06-14T19:07:03.046715+00:00"
-    },
-    "cfce8e2e4aea2086": {
-      "title": "Science news this week: Ötzi the Iceman used to make sourdough, Italian teenagers discover Roman villa under school, Google plans to release 64 million mosquitos, and RIP to NASA's Maven probe",
-      "fetched_at": "2026-06-14T19:07:03.634871+00:00"
-    },
     "afd179f9faf96182": {
       "title": "南向资金净买入额超30亿港元",
       "fetched_at": "2026-06-15T02:37:53.805310+00:00"
@@ -3683,7 +3591,95 @@
     "ea76ad11b0c14bf5": {
       "title": "Ancient Denisovan DNA still shapes human immunity today",
       "fetched_at": "2026-06-22T16:25:52.741473+00:00"
+    },
+    "ce4551ee85d909e8": {
+      "title": "AI and the Job Market for Philosophers",
+      "fetched_at": "2026-06-22T20:31:35.524223+00:00"
+    },
+    "675fd7535f83b70c": {
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "fetched_at": "2026-06-22T20:31:36.137066+00:00"
+    },
+    "67894fd21dab143a": {
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "fetched_at": "2026-06-22T20:31:36.764849+00:00"
+    },
+    "3ac3f96bb2eac216": {
+      "title": "AI and tech are trying to influence the midterm elections",
+      "fetched_at": "2026-06-22T20:31:37.388647+00:00"
+    },
+    "02e4bf4c84c76edd": {
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "fetched_at": "2026-06-22T20:31:38.010180+00:00"
+    },
+    "aa1115db5ace197f": {
+      "title": "AI Agent / Harness Engineer",
+      "fetched_at": "2026-06-22T20:31:38.625728+00:00"
+    },
+    "ce759051a5b91909": {
+      "title": "Your Own Private AI, Part 2: Secure Access from Anywhere with Tailscale Aperture",
+      "fetched_at": "2026-06-22T20:31:39.249460+00:00"
+    },
+    "298f80254a6ddd19": {
+      "title": "Local lint, type-check and AI security dashboard for modern full-stack projects",
+      "fetched_at": "2026-06-22T20:31:39.861712+00:00"
+    },
+    "7bf4728b0f1b7613": {
+      "title": "Show HN: A local rig to test if AI social simulation predicts reality",
+      "fetched_at": "2026-06-22T20:31:40.483570+00:00"
+    },
+    "5a0d5d7d181f65c0": {
+      "title": "The OpenSSL Library AI Policy",
+      "fetched_at": "2026-06-22T20:31:41.121619+00:00"
+    },
+    "65358b39b45764d8": {
+      "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+      "fetched_at": "2026-06-22T20:31:41.789570+00:00"
+    },
+    "ae4f2f7f64347819": {
+      "title": "AI: Just One Big Trade",
+      "fetched_at": "2026-06-22T20:31:42.405586+00:00"
+    },
+    "3d05bf7edeb8e091": {
+      "title": "AI Has Already Killed Academia as We Know It",
+      "fetched_at": "2026-06-22T20:31:43.028587+00:00"
+    },
+    "acf5c1ea2c1899b2": {
+      "title": "Show HN: We let AI agents interact with humans on a social network",
+      "fetched_at": "2026-06-22T20:31:43.662684+00:00"
+    },
+    "df01018acc68f0e9": {
+      "title": "Sovereign AI: Why Owning the Full Stack Is the New Strategic Imperative",
+      "fetched_at": "2026-06-22T20:31:44.272098+00:00"
+    },
+    "582382f2fdd51820": {
+      "title": "Ask HN: How to manage AI spam in inbox?",
+      "fetched_at": "2026-06-22T20:31:44.891737+00:00"
+    },
+    "3a1be00597b02e93": {
+      "title": "Steam Machine – Valve's living-room PC, take two [video]",
+      "fetched_at": "2026-06-22T20:31:45.516949+00:00"
+    },
+    "366cd5abe268d374": {
+      "title": "Offrrd – Your AI job-search coach",
+      "fetched_at": "2026-06-22T20:31:46.166448+00:00"
+    },
+    "28af005b0a2119a9": {
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "fetched_at": "2026-06-22T20:31:46.784153+00:00"
+    },
+    "241223e94d6414ef": {
+      "title": "AI-Native Firms [pdf]",
+      "fetched_at": "2026-06-22T20:31:47.407542+00:00"
+    },
+    "b6293ce6d56cf387": {
+      "title": "Second Cannonball Unearthed at The Alamo",
+      "fetched_at": "2026-06-22T20:31:50.643161+00:00"
+    },
+    "26c3aa1e97ccdfc0": {
+      "title": "5,000-Year-Old Monument Discovered Near Stonehenge",
+      "fetched_at": "2026-06-22T20:31:51.273901+00:00"
     }
   },
-  "last_updated": "2026-06-22T16:25:52.882296+00:00"
+  "last_updated": "2026-06-22T20:31:51.413120+00:00"
 }
