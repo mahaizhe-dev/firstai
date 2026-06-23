@@ -1,145 +1,5 @@
 {
   "articles": {
-    "9d89e69d94721e21": {
-      "title": "Show HN: DJ Mix realtime local AI music with a controller; Magenta, Stable Audio",
-      "fetched_at": "2026-06-15T11:42:52.786043+00:00"
-    },
-    "4b6ff684d6187fd0": {
-      "title": "We Get AI Costs Under Control",
-      "fetched_at": "2026-06-15T11:42:53.385188+00:00"
-    },
-    "5018e31356351ba8": {
-      "title": "常山北明：张玮扬辞任董事长、董事",
-      "fetched_at": "2026-06-15T11:42:54.017584+00:00"
-    },
-    "90540ccac3aaad73": {
-      "title": "盛达资源：实际控制人赵满堂被证监会立案调查",
-      "fetched_at": "2026-06-15T11:42:54.628412+00:00"
-    },
-    "fccc0b99e7fb19b8": {
-      "title": "中荣股份：拟4000万元至8000万元回购公司股份",
-      "fetched_at": "2026-06-15T11:42:55.240858+00:00"
-    },
-    "04d9f907f22310af": {
-      "title": "Zhynx on X: \"Your AI could die tomorrow.\" / X",
-      "fetched_at": "2026-06-15T11:42:55.839491+00:00"
-    },
-    "f0aad68bc999cd1a": {
-      "title": "支付宝：政务AI助手“晓政”服务突破1亿次",
-      "fetched_at": "2026-06-15T11:42:56.459496+00:00"
-    },
-    "efa0ff76d46c6124": {
-      "title": "Frontier teams are reinventing AI-native development",
-      "fetched_at": "2026-06-15T11:42:57.062915+00:00"
-    },
-    "fda3f2862c7c6895": {
-      "title": "锡业股份：以1.77亿元竞得赤峰大井子锡业100%股权",
-      "fetched_at": "2026-06-15T11:42:57.657517+00:00"
-    },
-    "20f77ba190c06dce": {
-      "title": "The Mote in AI's Eye: software engineering with agents",
-      "fetched_at": "2026-06-15T11:42:58.334537+00:00"
-    },
-    "ab970617ecbc6eed": {
-      "title": "巴基斯坦央行维持基准利率在11.5%不变",
-      "fetched_at": "2026-06-15T11:42:58.931429+00:00"
-    },
-    "1c5cbe4eb57d3558": {
-      "title": "常铝股份：控股股东拟协议转让22.38%股份，股票复牌",
-      "fetched_at": "2026-06-15T11:42:59.534588+00:00"
-    },
-    "f4f4e176ef689980": {
-      "title": "Five Papers That Show Where AI Research Is Heading",
-      "fetched_at": "2026-06-15T11:43:00.215159+00:00"
-    },
-    "d2814d49a7f9187c": {
-      "title": "Tuningfork – LLM agent grounding rules derived from human reality-testing",
-      "fetched_at": "2026-06-15T11:43:00.828012+00:00"
-    },
-    "f3476e20b3d8f61b": {
-      "title": "小雨智造与地瓜机器人正式宣布达成战略合作",
-      "fetched_at": "2026-06-15T11:43:01.409469+00:00"
-    },
-    "94f5623a9cf491e4": {
-      "title": "亿纬锂能：预计2026年半年度净利润同比增长95%-110%",
-      "fetched_at": "2026-06-15T11:43:02.021324+00:00"
-    },
-    "f5732442350b29b7": {
-      "title": "小红书或已准备好本月在香港提交IPO申请",
-      "fetched_at": "2026-06-15T11:43:02.634558+00:00"
-    },
-    "296b3fa5d4aca7a1": {
-      "title": "Batta – plan-phase security reviews for AI coding agents (OSS)",
-      "fetched_at": "2026-06-15T11:43:03.243842+00:00"
-    },
-    "0f25e87335de2cdd": {
-      "title": "赛分科技：拟投资3亿元建设规模化蛋白生产和色谱填料扩产项目",
-      "fetched_at": "2026-06-15T11:43:03.860905+00:00"
-    },
-    "0571d94fd02df185": {
-      "title": "*ST仕净：法院决定启动预重整并通知债权申报",
-      "fetched_at": "2026-06-15T11:43:04.482428+00:00"
-    },
-    "536df3dbc3232b5c": {
-      "title": "白宮冷待、統戰部同框：鄭麗文15天訪美行程帶回了什麼？",
-      "fetched_at": "2026-06-15T11:43:07.907527+00:00"
-    },
-    "bdf0d9dc7bcba587": {
-      "title": "日本能否成為今屆世界盃的黑馬？",
-      "fetched_at": "2026-06-15T11:43:08.510463+00:00"
-    },
-    "0460ae4128269df8": {
-      "title": "全球衝擊下，為什麼美國經濟持續逆勢而上？",
-      "fetched_at": "2026-06-15T11:43:09.125645+00:00"
-    },
-    "4dd3780a66e65188": {
-      "title": "英國與日本簽署總值180億英鎊的投資協議",
-      "fetched_at": "2026-06-15T11:43:09.734797+00:00"
-    },
-    "421fcbc5ec2bd53b": {
-      "title": "瑞士公投否決將人口上限設為一千萬人",
-      "fetched_at": "2026-06-15T11:43:10.353052+00:00"
-    },
-    "ba6a80be3697d28e": {
-      "title": "美國與伊朗宣布達成協議結束軍事行動，特朗普稱「讓石油流動起來！」",
-      "fetched_at": "2026-06-15T11:43:10.964962+00:00"
-    },
-    "209792abe8688aee": {
-      "title": "二战结束80年后，德国与日本重整军备",
-      "fetched_at": "2026-06-15T11:43:11.564372+00:00"
-    },
-    "e2e2b5c0e33dac71": {
-      "title": "80岁的特朗普到底还健康吗？",
-      "fetched_at": "2026-06-15T11:43:12.159629+00:00"
-    },
-    "1271e813c8431db1": {
-      "title": "“僵局战争”：美国和俄罗斯为误判付出高昂代价",
-      "fetched_at": "2026-06-15T11:43:12.750631+00:00"
-    },
-    "268fa635fb4cbbb3": {
-      "title": "An ancient piece of the moon found in Africa hints at a long-ago collision that turned the lunar surface molten",
-      "fetched_at": "2026-06-15T11:43:14.624474+00:00"
-    },
-    "3b5265bbdc4f743b": {
-      "title": "Mask of Mictlantecuhtli: A 500-year-old mask of the Aztec god of the underworld, who tore apart the dead as they entered his realm",
-      "fetched_at": "2026-06-15T11:43:15.223378+00:00"
-    },
-    "e803d9aacb85fd03": {
-      "title": "Oxford physicists just made Schrödinger’s cat even stranger",
-      "fetched_at": "2026-06-15T11:43:15.820982+00:00"
-    },
-    "ab85563c37a45039": {
-      "title": "Beneath our feet lies a fungal superhighway stretching 68 quadrillion miles",
-      "fetched_at": "2026-06-15T11:43:16.422871+00:00"
-    },
-    "e214e677b3ecc49f": {
-      "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
-      "fetched_at": "2026-06-15T11:43:17.008288+00:00"
-    },
-    "2302b5816d162cfa": {
-      "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
-      "fetched_at": "2026-06-15T11:43:17.643811+00:00"
-    },
     "d67b9bc5976a7101": {
       "title": "Ask HN: How are you enabling your employees to do AI dev in the cloud?",
       "fetched_at": "2026-06-15T16:53:24.944616+00:00"
@@ -3819,7 +3679,103 @@
     "ac4e3824b21af9d0": {
       "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
       "fetched_at": "2026-06-23T08:56:27.216216+00:00"
+    },
+    "1e5a9a294f999fd1": {
+      "title": "The eerie interface of man and machine (Life Magazine, October 1967)",
+      "fetched_at": "2026-06-23T14:23:26.001421+00:00"
+    },
+    "dfb9d36eee7fc99c": {
+      "title": "The AI-powered World Cup runs on thousands of data workers",
+      "fetched_at": "2026-06-23T14:23:26.628120+00:00"
+    },
+    "a4a23187dff384d3": {
+      "title": "OctoPunk – a full-featured, AI-integrated GitHub client",
+      "fetched_at": "2026-06-23T14:23:27.263185+00:00"
+    },
+    "8c9f67af525f8b8d": {
+      "title": "Show HN: Saymade – AI app builder for complex software",
+      "fetched_at": "2026-06-23T14:23:27.871938+00:00"
+    },
+    "6968211fee477dfa": {
+      "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
+      "fetched_at": "2026-06-23T14:23:28.494208+00:00"
+    },
+    "bdc677f60e243d02": {
+      "title": "Noemra, AI that builds and runs a company from one prompt",
+      "fetched_at": "2026-06-23T14:23:29.115981+00:00"
+    },
+    "5366a379c9a94355": {
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "fetched_at": "2026-06-23T14:23:29.737437+00:00"
+    },
+    "e9a6e26a39531ea8": {
+      "title": "Ask HN: Am I missing something with AI",
+      "fetched_at": "2026-06-23T14:23:30.363263+00:00"
+    },
+    "8bf6ca234a598f1a": {
+      "title": "Show HN: Legant gives AI agents bounded authority to act on your behalf",
+      "fetched_at": "2026-06-23T14:23:30.996276+00:00"
+    },
+    "2556582e2904de68": {
+      "title": "Google's online dominance is showing signs of cracking in AI era",
+      "fetched_at": "2026-06-23T14:23:31.625146+00:00"
+    },
+    "73967cc72f88f8c1": {
+      "title": "Show HN: Free tools to audit a landing page and check if AI recommends you",
+      "fetched_at": "2026-06-23T14:23:32.290626+00:00"
+    },
+    "9fd5955e0377d30e": {
+      "title": "Free EU AI Act Article 50 compliance checker for indie SaaS",
+      "fetched_at": "2026-06-23T14:23:32.924331+00:00"
+    },
+    "0c31dcdaa153660c": {
+      "title": "ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation",
+      "fetched_at": "2026-06-23T14:23:33.582350+00:00"
+    },
+    "101e85355a4c0b80": {
+      "title": "The AI Last Mile Is the First Mile",
+      "fetched_at": "2026-06-23T14:23:34.203427+00:00"
+    },
+    "b854de4094bcfcae": {
+      "title": "Your AI Agent Should Go to Therapy",
+      "fetched_at": "2026-06-23T14:23:34.840547+00:00"
+    },
+    "ab3bb7ff3990a6a7": {
+      "title": "A simple physics-inspired model sheds light on how AI learns",
+      "fetched_at": "2026-06-23T14:23:35.466192+00:00"
+    },
+    "73c8a17ce15644f3": {
+      "title": "AI and Math State of the Art",
+      "fetched_at": "2026-06-23T14:23:36.084403+00:00"
+    },
+    "17eb8e76ce48861f": {
+      "title": "I Built an NPM package to stop AI agents from burning through API credits",
+      "fetched_at": "2026-06-23T14:23:36.723057+00:00"
+    },
+    "9e386ffc0c21e855": {
+      "title": "Show HN: Route LLM prompts to cheapest capable model – pydantic-AI and litellm",
+      "fetched_at": "2026-06-23T14:23:37.344566+00:00"
+    },
+    "27442a33ec362746": {
+      "title": "Show HN: Open-geo – Skill for Claude Code which shows your AI Visibility",
+      "fetched_at": "2026-06-23T14:23:38.068588+00:00"
+    },
+    "b18402298717062c": {
+      "title": "十年六個——英國首相換了又換為甚麼？",
+      "fetched_at": "2026-06-23T14:23:41.011122+00:00"
+    },
+    "ee7601a8bbffd839": {
+      "title": "滴露中國廣告因拿貞操說事道歉 觀察人士評：一塌糊塗",
+      "fetched_at": "2026-06-23T14:23:41.629190+00:00"
+    },
+    "8f57ebf3fdb93041": {
+      "title": "一百家醫院如何抵禦全國性網路攻擊：用紙筆",
+      "fetched_at": "2026-06-23T14:23:42.246749+00:00"
+    },
+    "48c287b1d6481261": {
+      "title": "9 of the best technology conspiracy theories",
+      "fetched_at": "2026-06-23T14:23:44.068575+00:00"
     }
   },
-  "last_updated": "2026-06-23T08:56:27.354796+00:00"
+  "last_updated": "2026-06-23T14:23:44.212103+00:00"
 }
