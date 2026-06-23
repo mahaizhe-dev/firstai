@@ -1,125 +1,5 @@
 {
   "articles": {
-    "d67b9bc5976a7101": {
-      "title": "Ask HN: How are you enabling your employees to do AI dev in the cloud?",
-      "fetched_at": "2026-06-15T16:53:24.944616+00:00"
-    },
-    "1cc5ca3b8af82f14": {
-      "title": "AI Cures Organizational Dementia",
-      "fetched_at": "2026-06-15T16:53:25.554883+00:00"
-    },
-    "88cb65c35045e22d": {
-      "title": "Show HN: 100Hires MCP, 130 tools to run an ATS through LLM. Is 130 too many?",
-      "fetched_at": "2026-06-15T16:53:26.176542+00:00"
-    },
-    "3540698f9880b955": {
-      "title": "AI language models have favorite names, and we mapped them",
-      "fetched_at": "2026-06-15T16:53:26.807522+00:00"
-    },
-    "d0b8d4b81657a627": {
-      "title": "Show HN: Offline AI assistant for Android (PDFs, Wikipedia, more)",
-      "fetched_at": "2026-06-15T16:53:27.446372+00:00"
-    },
-    "94657025b279ebb9": {
-      "title": "First Steps Toward Automated AI Research",
-      "fetched_at": "2026-06-15T16:53:28.072930+00:00"
-    },
-    "741c19084ce9be4e": {
-      "title": "Show HN: AI traders you author, argue with and coach",
-      "fetched_at": "2026-06-15T16:53:28.703308+00:00"
-    },
-    "8fb43f5674cdd601": {
-      "title": "IBM and Norway's sovereign fund CEO: Is AI a bubble?",
-      "fetched_at": "2026-06-15T16:53:29.326453+00:00"
-    },
-    "a97cacbe8ac4f919": {
-      "title": "We are living in the dial-up era of AI",
-      "fetched_at": "2026-06-15T16:53:29.956469+00:00"
-    },
-    "cbecbff28ff5f548": {
-      "title": "Building an AI skill marketplace for GTM teams",
-      "fetched_at": "2026-06-15T16:53:30.588615+00:00"
-    },
-    "9fb871627b1eb55b": {
-      "title": "Sovereign AI is not just about building a national AI model",
-      "fetched_at": "2026-06-15T16:53:31.218032+00:00"
-    },
-    "c9cc2f8dac23ba5e": {
-      "title": "Show HN: We polled 2,122 Americans on AI and regulation, and built a visualizer",
-      "fetched_at": "2026-06-15T16:53:31.854595+00:00"
-    },
-    "4e407d94bdaa8159": {
-      "title": "AI Slop Has Taken over LinkedIn",
-      "fetched_at": "2026-06-15T16:53:32.481897+00:00"
-    },
-    "bea7efa77666e48c": {
-      "title": "GPT-5 Nano Vulnerability test results you should know before deploying",
-      "fetched_at": "2026-06-15T16:53:33.107459+00:00"
-    },
-    "c3f85245a2641d7d": {
-      "title": "AI GPUs probably live longer than three years",
-      "fetched_at": "2026-06-15T16:53:33.734139+00:00"
-    },
-    "c06c55c26edad445": {
-      "title": "AI Won't Fix a Company That Can't Ship",
-      "fetched_at": "2026-06-15T16:53:34.354055+00:00"
-    },
-    "e4b824679d2e177c": {
-      "title": "Growing the Cloudflare AI Team with Talent from Ensemble AI",
-      "fetched_at": "2026-06-15T16:53:34.975878+00:00"
-    },
-    "7e42f644165af104": {
-      "title": "Fun with an indecisive AI coding agent",
-      "fetched_at": "2026-06-15T16:53:35.600751+00:00"
-    },
-    "349c5619aea0f1ff": {
-      "title": "AI is saving office workers hours but stealing some time via 'botsitting'",
-      "fetched_at": "2026-06-15T16:53:36.232764+00:00"
-    },
-    "4a3233b7adf0f895": {
-      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "fetched_at": "2026-06-15T16:53:36.840461+00:00"
-    },
-    "bb7c13f7f5de7272": {
-      "title": "Olé, olé, olé, olé：一首令人難忘的世界盃打氣歌曲需要什麼？",
-      "fetched_at": "2026-06-15T16:53:39.755152+00:00"
-    },
-    "7278821682218392": {
-      "title": "「男友使命召喚」：特魯多回應為凱蒂·佩芮缺席世界盃加拿大比賽",
-      "fetched_at": "2026-06-15T16:53:40.370024+00:00"
-    },
-    "22180874f3490380": {
-      "title": "重慶虐狗風波：集會抗議被清場，中國立法反虐待動物有多難？",
-      "fetched_at": "2026-06-15T16:53:40.999025+00:00"
-    },
-    "3e0c2e6f6e9600fb": {
-      "title": "'I never thought we'd see one alive': Elusive goblin shark captured on camera for the first time",
-      "fetched_at": "2026-06-15T16:53:42.855194+00:00"
-    },
-    "3ac0df2c4e1d0bcc": {
-      "title": "'They are trying to tame nature': China is building the world's biggest dam in an earthquake-prone region of Tibet",
-      "fetched_at": "2026-06-15T16:53:43.487512+00:00"
-    },
-    "cb56e7cc3dbe761c": {
-      "title": "Hundreds of hidden earthquakes discovered beneath Antarctica — and they're happening in a very odd location",
-      "fetched_at": "2026-06-15T16:53:44.112593+00:00"
-    },
-    "2a411fd0d7441456": {
-      "title": "This strange material can become strong or fall apart in seconds",
-      "fetched_at": "2026-06-15T16:53:44.753662+00:00"
-    },
-    "c04da929d5014414": {
-      "title": "Scientists turned red lettuce green and something surprising happened",
-      "fetched_at": "2026-06-15T16:53:45.388461+00:00"
-    },
-    "06ba0bce848955f3": {
-      "title": "'Political motivations' of Inca emperor led to the sacrifice of 3 children on a snow-capped volcano over 500 years ago, study suggests",
-      "fetched_at": "2026-06-15T16:53:46.010645+00:00"
-    },
-    "4afd733911cd6ae3": {
-      "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
-      "fetched_at": "2026-06-15T16:53:46.628810+00:00"
-    },
     "a4ba6dcbaa7af15d": {
       "title": "Show HN: Transpilatron – an AI tool that converts Python code into C binaries",
       "fetched_at": "2026-06-15T20:43:21.657480+00:00"
@@ -3775,7 +3655,155 @@
     "48c287b1d6481261": {
       "title": "9 of the best technology conspiracy theories",
       "fetched_at": "2026-06-23T14:23:44.068575+00:00"
+    },
+    "350edded4b2d243c": {
+      "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
+      "fetched_at": "2026-06-23T19:48:09.548948+00:00"
+    },
+    "f43d853ceacc2cc2": {
+      "title": "Why smarter models won't lead to AI co-workers",
+      "fetched_at": "2026-06-23T19:48:10.655737+00:00"
+    },
+    "da61a9ad612bb7d3": {
+      "title": "Sakana AI Releases 'Fugu Ultra' to Match Frontier Performance",
+      "fetched_at": "2026-06-23T19:48:11.270723+00:00"
+    },
+    "5e64216b2001b21f": {
+      "title": "AI's Reliability Gap",
+      "fetched_at": "2026-06-23T19:48:11.899579+00:00"
+    },
+    "701efca50a9fe0cb": {
+      "title": "Mistral CEO: AI companies should pay a content levy in Europe",
+      "fetched_at": "2026-06-23T19:48:12.517586+00:00"
+    },
+    "9a79a27f7df84ca0": {
+      "title": "Ask HN: Are people generally interested using LLMs for learning purposes?",
+      "fetched_at": "2026-06-23T19:48:13.134138+00:00"
+    },
+    "d1b9dc5595d58ee8": {
+      "title": "Genesis Workbench: Generative AI for Life Sciences",
+      "fetched_at": "2026-06-23T19:48:13.759498+00:00"
+    },
+    "21439ca263044b2b": {
+      "title": "Exposing the 'brute force' of AI that is 'trying to make humans redundant'",
+      "fetched_at": "2026-06-23T19:48:14.378040+00:00"
+    },
+    "a5621983266fa1f1": {
+      "title": "Advocating for fixes to California AI Transparency Act to protect open source",
+      "fetched_at": "2026-06-23T19:48:14.997722+00:00"
+    },
+    "4b9cf86aa9d26b8c": {
+      "title": "Inference Compute Shapes Frontier LLM Evaluation",
+      "fetched_at": "2026-06-23T19:48:15.615349+00:00"
+    },
+    "142c4b57c6e03898": {
+      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+      "fetched_at": "2026-06-23T19:48:16.237703+00:00"
+    },
+    "1ba7a2415393709e": {
+      "title": "AI Didn't Make Us Faster It Demoted Us",
+      "fetched_at": "2026-06-23T19:48:16.861814+00:00"
+    },
+    "291221046d1d8c12": {
+      "title": "The first AI marketing benchmark",
+      "fetched_at": "2026-06-23T19:48:17.491246+00:00"
+    },
+    "a07d823e7583a0c7": {
+      "title": "Confidence estimation is a better metric than agreement for LLM judges",
+      "fetched_at": "2026-06-23T19:48:18.103996+00:00"
+    },
+    "4a88edc4b670bb06": {
+      "title": "AI Models Soccer Tournament [video]",
+      "fetched_at": "2026-06-23T19:48:18.717249+00:00"
+    },
+    "f48e343aa3942a13": {
+      "title": "Yet Another Piece of AI-Pilled Speculative Fiction Has Gone Dangerously Viral",
+      "fetched_at": "2026-06-23T19:48:19.370171+00:00"
+    },
+    "2411e49d72625053": {
+      "title": "TDD is how I trust the code AI agents write [video]",
+      "fetched_at": "2026-06-23T19:48:20.001319+00:00"
+    },
+    "f34a67bcbf5e0dde": {
+      "title": "Show HN: We Help Voice AI Handle Group Conversations",
+      "fetched_at": "2026-06-23T19:48:20.614041+00:00"
+    },
+    "79fcd5206005fcb7": {
+      "title": "Lethe – Brain-Centric AI Assistant",
+      "fetched_at": "2026-06-23T19:48:21.278483+00:00"
+    },
+    "6ccef5d6bbde53d3": {
+      "title": "Ukraine's Drone Commander on Drone Warfare and Use of AI [Dutch]",
+      "fetched_at": "2026-06-23T19:48:21.964949+00:00"
+    },
+    "536df3dbc3232b5c": {
+      "title": "白宮冷待、統戰部同框：鄭麗文15天訪美行程帶回了什麼？",
+      "fetched_at": "2026-06-23T19:48:24.916229+00:00"
+    },
+    "0460ae4128269df8": {
+      "title": "全球衝擊下，為什麼美國經濟持續逆勢而上？",
+      "fetched_at": "2026-06-23T19:48:25.537924+00:00"
+    },
+    "98e2cc968793072e": {
+      "title": "When Historical Fiction Is a Crime (2020)",
+      "fetched_at": "2026-06-23T19:48:46.321847+00:00"
+    },
+    "1d3d797b413751f4": {
+      "title": "Parthenon’s Western Facade Restored",
+      "fetched_at": "2026-06-23T19:48:46.943328+00:00"
+    },
+    "c42d3ec7f31904a3": {
+      "title": "Pithos Burial Discovered at Hadrianopolis",
+      "fetched_at": "2026-06-23T19:48:47.568334+00:00"
+    },
+    "58d505973846f41e": {
+      "title": "NASA satellite captures wave of warm water hundreds of miles long that signals a devastatingly strong El Niño",
+      "fetched_at": "2026-06-23T19:48:48.185327+00:00"
+    },
+    "1a866b98ffc8d01f": {
+      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "fetched_at": "2026-06-23T19:48:48.798637+00:00"
+    },
+    "8c2328f880b4ae7f": {
+      "title": "Who Made the Sutton Hoo Helmet?",
+      "fetched_at": "2026-06-23T19:48:49.415785+00:00"
+    },
+    "4f934b38fef384bf": {
+      "title": "Two Early Dynastic Tombs Exposed in Egypt",
+      "fetched_at": "2026-06-23T19:48:50.044712+00:00"
+    },
+    "27bdfb913a271e53": {
+      "title": "Something in space may be changing alien signals before they can reach Earth. Scientists have a solution.",
+      "fetched_at": "2026-06-23T19:48:50.665292+00:00"
+    },
+    "33a4ff5cc842a3a4": {
+      "title": "'If there's any country that will do it, it's China': Why is China diverting some of the world's mightiest rivers thousands of miles?",
+      "fetched_at": "2026-06-23T19:48:51.291634+00:00"
+    },
+    "60b744ba044ed15e": {
+      "title": "Bluerails Discovery",
+      "fetched_at": "2026-06-23T19:48:51.915606+00:00"
+    },
+    "afe96e9a48493cbd": {
+      "title": "The tea in your kombucha changes more than just the taste",
+      "fetched_at": "2026-06-23T19:48:52.525811+00:00"
+    },
+    "45858bb4ac9eae97": {
+      "title": "A rare interstellar visitor triggered a SETI search for alien technology",
+      "fetched_at": "2026-06-23T19:48:53.152828+00:00"
+    },
+    "0b34c6b0d0528109": {
+      "title": "Scientists finally solved how H5N1 bird flu hid in dairy cows",
+      "fetched_at": "2026-06-23T19:48:53.779836+00:00"
+    },
+    "5fd4194bb00b7f42": {
+      "title": "Hidden bird species discovered in Japan after DNA reveals a stunning secret",
+      "fetched_at": "2026-06-23T19:48:54.392084+00:00"
+    },
+    "e52cdbeb4611af72": {
+      "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
+      "fetched_at": "2026-06-23T19:48:55.025916+00:00"
     }
   },
-  "last_updated": "2026-06-23T14:23:44.212103+00:00"
+  "last_updated": "2026-06-23T19:48:55.175832+00:00"
 }
