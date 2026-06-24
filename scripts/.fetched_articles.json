@@ -1,137 +1,5 @@
 {
   "articles": {
-    "4d393f9e32043d22": {
-      "title": "Deepseek首轮融资规模约75亿美元",
-      "fetched_at": "2026-06-16T10:51:42.545785+00:00"
-    },
-    "10094d41c900358c": {
-      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
-      "fetched_at": "2026-06-16T10:51:43.146875+00:00"
-    },
-    "725a8c9d47f69835": {
-      "title": "爱立信任命Per Narvinger为新任总裁兼首席执行官",
-      "fetched_at": "2026-06-16T10:51:43.750277+00:00"
-    },
-    "b0c88e83168d0b3c": {
-      "title": "普洛斯中国任命申成钢为算力中心平台总裁",
-      "fetched_at": "2026-06-16T10:51:44.370113+00:00"
-    },
-    "5a5c92dc93bc8e3e": {
-      "title": "天山铝业：实控人未减持公司股份暨提前终止减持计划",
-      "fetched_at": "2026-06-16T10:51:44.975853+00:00"
-    },
-    "653933ad6f7232ca": {
-      "title": "Agentic AI PRs sit in the review queue 5.3x longer than unassisted ones",
-      "fetched_at": "2026-06-16T10:51:45.577114+00:00"
-    },
-    "67b69496a8d95820": {
-      "title": "机构今日买入光库科技等26股，卖出隆鑫通用4.4亿元",
-      "fetched_at": "2026-06-16T10:51:46.186441+00:00"
-    },
-    "d1658a10bac735c6": {
-      "title": "Alibaba unveils AI models for robots, amid shift from chatbots to agents",
-      "fetched_at": "2026-06-16T10:51:46.796272+00:00"
-    },
-    "f1e1822dcd8ba1c5": {
-      "title": "Show HN: A prompt generator to help AI agents implement my new email API",
-      "fetched_at": "2026-06-16T10:51:47.397099+00:00"
-    },
-    "2724b9400aa9d981": {
-      "title": "Ratchet: An AI Delivery Loop That Can Only Move Forward",
-      "fetched_at": "2026-06-16T10:51:48.010931+00:00"
-    },
-    "48549bb7b5d81b70": {
-      "title": "云南能投：拟投建富源县木瓜坪风电场项目",
-      "fetched_at": "2026-06-16T10:51:48.637373+00:00"
-    },
-    "870579d3e6e18c17": {
-      "title": "Show HN: Rediscover the Small Web with an AI-Ranked RSS Reader",
-      "fetched_at": "2026-06-16T10:51:49.237233+00:00"
-    },
-    "8b9d8c44e8db8d74": {
-      "title": "AI Instruction Use 78.7% of repos configure 1 tool but devs use avg 2-4",
-      "fetched_at": "2026-06-16T10:51:49.856685+00:00"
-    },
-    "d3d4227e160f4451": {
-      "title": "I'm building a local-first TypeScript guard for runaway AI-agent costs",
-      "fetched_at": "2026-06-16T10:51:50.471289+00:00"
-    },
-    "96eb3faa9ed38479": {
-      "title": "百合花：控股股东拟减持公司不超1%股份",
-      "fetched_at": "2026-06-16T10:51:51.061012+00:00"
-    },
-    "006089c0dcb8e94e": {
-      "title": "优矩控股：一季度在线营销解决方案账单金额41亿元，同比增长24%",
-      "fetched_at": "2026-06-16T10:51:51.668875+00:00"
-    },
-    "1a5977e9fc27b934": {
-      "title": "郑栅洁主持召开民营企业座谈会，围绕系统推进“六张网”建设听取意见建议",
-      "fetched_at": "2026-06-16T10:51:52.261035+00:00"
-    },
-    "d365e1267fdc445e": {
-      "title": "学大教育：董事长提议公司5000万元至1亿元回购股份",
-      "fetched_at": "2026-06-16T10:51:52.887449+00:00"
-    },
-    "4c64ec0a22803a4a": {
-      "title": "Brick: SOTA LLM Routing",
-      "fetched_at": "2026-06-16T10:51:53.502265+00:00"
-    },
-    "29974c0e95c956d4": {
-      "title": "茶颜悦色在武汉成立新公司",
-      "fetched_at": "2026-06-16T10:51:54.094344+00:00"
-    },
-    "353435e1cdf90bd8": {
-      "title": "政治與足球交織下，世界盃看台上的兩個伊朗",
-      "fetched_at": "2026-06-16T10:51:56.745467+00:00"
-    },
-    "ef7fed7b22d503a2": {
-      "title": "英國社交媒體禁令：大膽而直接，卻並非萬靈丹",
-      "fetched_at": "2026-06-16T10:51:57.347582+00:00"
-    },
-    "ee0af9533a55ffa9": {
-      "title": "美国人为什么不快乐？收入下降、贫富差距拉大",
-      "fetched_at": "2026-06-16T10:51:57.957581+00:00"
-    },
-    "677408fcf7c10982": {
-      "title": "中國一知名地下教會遭警方突襲，兩名領袖被拘",
-      "fetched_at": "2026-06-16T10:51:58.553925+00:00"
-    },
-    "13efc472a42ddd64": {
-      "title": "韓國星巴克爭議後，下周停業半天安排員工上歷史課",
-      "fetched_at": "2026-06-16T10:51:59.163808+00:00"
-    },
-    "44552d957b60f482": {
-      "title": "分析：伊朗協議為特朗普的戰爭劃下句號，也暴露了美國主導地位的局限",
-      "fetched_at": "2026-06-16T10:51:59.771462+00:00"
-    },
-    "69a5c472de6d53e9": {
-      "title": "一场展示美国衰落的奇观",
-      "fetched_at": "2026-06-16T10:52:00.395110+00:00"
-    },
-    "d9b7eec67891dcae": {
-      "title": "首登世界盃零封西班牙，佛得角40歲門神創歷史",
-      "fetched_at": "2026-06-16T10:52:01.003418+00:00"
-    },
-    "a572a5200d01ee72": {
-      "title": "特朗普结束了他发起的战争，但并未实现目标",
-      "fetched_at": "2026-06-16T10:52:01.616782+00:00"
-    },
-    "cae2cb1e7fab05d6": {
-      "title": "特朗普感谢习近平和普京助力美伊达成协议",
-      "fetched_at": "2026-06-16T10:52:02.224733+00:00"
-    },
-    "06d669886da38ebc": {
-      "title": "日本皇室面临继承危机：女性天皇可能出现吗？",
-      "fetched_at": "2026-06-16T10:52:02.840085+00:00"
-    },
-    "963984f78fa929e6": {
-      "title": "「幼態臉」、「精靈耳」與「天鵝頸」 台灣人為何開始到上海「跨境醫美」?",
-      "fetched_at": "2026-06-16T10:52:03.461881+00:00"
-    },
-    "06f9064374b50aa8": {
-      "title": "Dangerously hot and humid: Rising temperatures in the US make outdoor exercise hazardous",
-      "fetched_at": "2026-06-16T10:52:05.262331+00:00"
-    },
     "fa3231dfe67b3b64": {
       "title": "The AI Hype – Too Costly – Alternative Rock, Original Lyrics",
       "fetched_at": "2026-06-16T16:22:23.635604+00:00"
@@ -3887,7 +3755,119 @@
     "0ff25ac32fc02f72": {
       "title": "Diagnostic dilemma: Brain scans following a man's hospital visit for leg weakness revealed a surprising finding",
       "fetched_at": "2026-06-24T08:51:14.236114+00:00"
+    },
+    "f0304da2543bb346": {
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "fetched_at": "2026-06-24T14:03:34.793081+00:00"
+    },
+    "7d0e0abbce6e5eb6": {
+      "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
+      "fetched_at": "2026-06-24T14:03:35.415405+00:00"
+    },
+    "bf48ce07e97775bb": {
+      "title": "“临界点”完成近10亿融资",
+      "fetched_at": "2026-06-24T14:03:36.039293+00:00"
+    },
+    "c9a00284f2e80661": {
+      "title": "现货黄金跌破4000美元/盎司关口",
+      "fetched_at": "2026-06-24T14:03:36.658161+00:00"
+    },
+    "37ba20b468fe9189": {
+      "title": "亚信安全：子公司拟签订3000万元算力集群服务框架协议",
+      "fetched_at": "2026-06-24T14:03:37.291767+00:00"
+    },
+    "2504f40ffd63782c": {
+      "title": "热门中概股美股盘前跌多涨少，蔚来跌超2%",
+      "fetched_at": "2026-06-24T14:03:37.923195+00:00"
+    },
+    "d57056309142dcf5": {
+      "title": "美股大型科技股盘前涨跌不一，SpaceX跌近2%",
+      "fetched_at": "2026-06-24T14:03:38.588446+00:00"
+    },
+    "370a920579b7e3ba": {
+      "title": "祥鑫科技：拟收购液冷散热公司酷尔芯科技51%股权",
+      "fetched_at": "2026-06-24T14:03:39.281949+00:00"
+    },
+    "05485ab87fc5b212": {
+      "title": "4连板兴业科技：股票交易异常波动，收购磷化铟业务影响极小",
+      "fetched_at": "2026-06-24T14:03:39.913952+00:00"
+    },
+    "80c7dd9589c1906d": {
+      "title": "极豪科技（天津）股份有限公司递表港交所",
+      "fetched_at": "2026-06-24T14:03:40.557672+00:00"
+    },
+    "a27068674f13c455": {
+      "title": "2连板海南海药：抗肝纤维化创新药氟非尼酮胶囊已完成II期临床试验，目前Ⅲ期临床研究正按计划推进",
+      "fetched_at": "2026-06-24T14:03:41.189218+00:00"
+    },
+    "381fb4f63c65ce7d": {
+      "title": "德尔玛：持股5%以上股东磐茂投资拟减持不超5%股份",
+      "fetched_at": "2026-06-24T14:03:41.808273+00:00"
+    },
+    "f34b5c93c91da4d5": {
+      "title": "中科曙光万卡集群存储刷新IO500榜单全球纪录",
+      "fetched_at": "2026-06-24T14:03:42.426061+00:00"
+    },
+    "3aaafa7ad66d4278": {
+      "title": "美财长贝森特：今年有望实现3%或更高的增长",
+      "fetched_at": "2026-06-24T14:03:43.059893+00:00"
+    },
+    "a47806d4142a66e8": {
+      "title": "圣邦股份：确定H股发行价格为每股85.20港元",
+      "fetched_at": "2026-06-24T14:03:43.679789+00:00"
+    },
+    "e9115b8b8c5f020a": {
+      "title": "宇树R1人形机器人降价至2.99万元起",
+      "fetched_at": "2026-06-24T14:03:44.299907+00:00"
+    },
+    "04a3c6811e97ceae": {
+      "title": "4天2板奥康国际：筹划重大资产购买事项，股票停牌",
+      "fetched_at": "2026-06-24T14:03:44.932493+00:00"
+    },
+    "749503be586c116d": {
+      "title": "高盛：中国居民的股票配置相对于其长期潜力而言仍然较低",
+      "fetched_at": "2026-06-24T14:03:45.573291+00:00"
+    },
+    "468880bd7bef95c9": {
+      "title": "3天2板长电科技：拟投资78亿元建设高端先进封测工厂",
+      "fetched_at": "2026-06-24T14:03:46.210170+00:00"
+    },
+    "10ea1a9ac4e36722": {
+      "title": "金力永磁：拟受让包头稀土产品交易所9.24%股权",
+      "fetched_at": "2026-06-24T14:03:46.834971+00:00"
+    },
+    "9648e7ae2d733b1c": {
+      "title": "'Weirdos of the sperm whale world' appear to be evolving 2 different dialects, audio recordings suggest",
+      "fetched_at": "2026-06-24T14:04:22.415663+00:00"
+    },
+    "48af52c572df5b0e": {
+      "title": "Diagnostic dilemma: After taking a medicine for years, a man suddenly had weird changes in his taste that made food disgusting",
+      "fetched_at": "2026-06-24T14:04:23.050006+00:00"
+    },
+    "dd62b008d7b8e770": {
+      "title": "60 million stars: Euclid space telescope snaps the largest-ever close-up photo of the Milky Way's heart",
+      "fetched_at": "2026-06-24T14:04:23.692544+00:00"
+    },
+    "fb2cd2577f267708": {
+      "title": "Scientists discover hidden “footprints of death” that may help viruses spread",
+      "fetched_at": "2026-06-24T14:04:24.335524+00:00"
+    },
+    "3cca9842cfe5fff5": {
+      "title": "Why South Africa’s leopards shrank to half their normal size",
+      "fetched_at": "2026-06-24T14:04:24.960954+00:00"
+    },
+    "b2fccdcb1001cc38": {
+      "title": "Early humans were bringing fire into caves 1.8 million years ago",
+      "fetched_at": "2026-06-24T14:04:25.584925+00:00"
+    },
+    "e1b04aa6ab6941f8": {
+      "title": "'Unequivocal evidence' of Earth's oldest impact crater turns out to be off by half a billion years",
+      "fetched_at": "2026-06-24T14:04:26.285528+00:00"
+    },
+    "0d039d41ea1cb99f": {
+      "title": "Scientists just discovered how queen bees are really made",
+      "fetched_at": "2026-06-24T14:04:26.904094+00:00"
     }
   },
-  "last_updated": "2026-06-24T08:51:14.338786+00:00"
+  "last_updated": "2026-06-24T14:04:27.014840+00:00"
 }
