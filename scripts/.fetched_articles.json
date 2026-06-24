@@ -1,137 +1,5 @@
 {
   "articles": {
-    "fa3231dfe67b3b64": {
-      "title": "The AI Hype – Too Costly – Alternative Rock, Original Lyrics",
-      "fetched_at": "2026-06-16T16:22:23.635604+00:00"
-    },
-    "10ca51f31ca5dfd1": {
-      "title": "SearchGate – An AI Content Blocker",
-      "fetched_at": "2026-06-16T16:22:24.255102+00:00"
-    },
-    "2c83a689b9a7095e": {
-      "title": "FT Alphaville's AI Prediction World Cup",
-      "fetched_at": "2026-06-16T16:22:24.874884+00:00"
-    },
-    "24567f437bca36ea": {
-      "title": "The Era of AI Malaise",
-      "fetched_at": "2026-06-16T16:22:25.504613+00:00"
-    },
-    "98339ea700fac7e2": {
-      "title": "Why AI Will Accelerate Health Care Inflation",
-      "fetched_at": "2026-06-16T16:22:26.125864+00:00"
-    },
-    "8c2d020b41e0c639": {
-      "title": "Chainguard's new Athena coalition uses AI to fix open-source flaws",
-      "fetched_at": "2026-06-16T16:22:26.750677+00:00"
-    },
-    "26133f7313da4533": {
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "fetched_at": "2026-06-16T16:22:27.382955+00:00"
-    },
-    "03feffd902449d25": {
-      "title": "Publishers to bill AI firms for unwanted scraping or take them to court",
-      "fetched_at": "2026-06-16T16:22:28.000739+00:00"
-    },
-    "911274e9b8d0584c": {
-      "title": "A look into Ubuntu Core 26: Building a local AI inference appliance",
-      "fetched_at": "2026-06-16T16:22:28.643021+00:00"
-    },
-    "689b19aaf37767b2": {
-      "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
-      "fetched_at": "2026-06-16T16:22:29.255534+00:00"
-    },
-    "02f86396537cb340": {
-      "title": "Local AI Is Not Ready for Coding. Yet?",
-      "fetched_at": "2026-06-16T16:22:29.873396+00:00"
-    },
-    "8564a1cc42a611bf": {
-      "title": "Show HN: An AI resume tool that never invents experience you didn't have",
-      "fetched_at": "2026-06-16T16:22:30.496086+00:00"
-    },
-    "0d765278bb16619e": {
-      "title": "After AI Takes Everything",
-      "fetched_at": "2026-06-16T16:22:31.130655+00:00"
-    },
-    "e2793183ba3013cb": {
-      "title": "Show HN: AI vs. AI – code and reviews only count if they survive an attack",
-      "fetched_at": "2026-06-16T16:22:31.750374+00:00"
-    },
-    "1cc72dbd65faa967": {
-      "title": "Show HN: Infer0 – do AI apps need subscriptions?",
-      "fetched_at": "2026-06-16T16:22:32.376620+00:00"
-    },
-    "a44ad71cc0f3318e": {
-      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-      "fetched_at": "2026-06-16T16:22:33.010454+00:00"
-    },
-    "38bc10c75135fb8c": {
-      "title": "AI is good at web design now",
-      "fetched_at": "2026-06-16T16:22:33.639659+00:00"
-    },
-    "5ad2854db2a30ae4": {
-      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-      "fetched_at": "2026-06-16T16:22:34.268716+00:00"
-    },
-    "7f5ad6f9641fdac0": {
-      "title": "Show HN: Replicating a Harvard study on AI's employment impact – Autonomously",
-      "fetched_at": "2026-06-16T16:22:34.895516+00:00"
-    },
-    "c74f1f17d2315d29": {
-      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-      "fetched_at": "2026-06-16T16:22:35.513066+00:00"
-    },
-    "f1aa287a640eea62": {
-      "title": "'Is having two legs useful' in space?: Astronaut John McFall explains what life in orbit might be like for the first physically disabled person in space",
-      "fetched_at": "2026-06-16T16:22:39.153004+00:00"
-    },
-    "e3f3798d376af8f9": {
-      "title": "The world's first nuclear clock just ticked on — and it could help detect a fifth fundamental force of physics",
-      "fetched_at": "2026-06-16T16:22:39.770328+00:00"
-    },
-    "ba5b3c1c45f86576": {
-      "title": "'The system is critically stressed': San Andreas and San Jacinto faults scarily close to major earthquake, study finds",
-      "fetched_at": "2026-06-16T16:22:40.398710+00:00"
-    },
-    "a6e0b1c359941fb2": {
-      "title": "Elusive dwarf fox, feared extinct, photographed for the first time on island off Yucatán",
-      "fetched_at": "2026-06-16T16:22:41.024951+00:00"
-    },
-    "f3f6c6e24c7c9839": {
-      "title": "Earth-based telescope shares image of Artemis II capsule near the moon — one of the farthest photos of humans ever taken",
-      "fetched_at": "2026-06-16T16:22:41.637297+00:00"
-    },
-    "43222e76f9f85c3c": {
-      "title": "Indonesia's near-identical, 'Twin Peaks' volcanoes form striking mirror image — Earth from space",
-      "fetched_at": "2026-06-16T16:22:42.254079+00:00"
-    },
-    "3cbd331287308731": {
-      "title": "New study explores potential cross-species spread of chronic wasting disease",
-      "fetched_at": "2026-06-16T16:22:42.895367+00:00"
-    },
-    "1baf5de24c39636c": {
-      "title": "Scientists found a way to explain bird flocks that “defy” Newton’s third law",
-      "fetched_at": "2026-06-16T16:22:43.519381+00:00"
-    },
-    "0ed8c1c026ebd0a0": {
-      "title": "Discovery debt: The debt that doesn't slow you down",
-      "fetched_at": "2026-06-16T16:22:44.141349+00:00"
-    },
-    "89225c81e07596ba": {
-      "title": "Scientists just found a hidden weakness in forever chemicals",
-      "fetched_at": "2026-06-16T16:22:44.766619+00:00"
-    },
-    "ff081ce29efec8ee": {
-      "title": "Alien messages may have reached Earth without us realizing it",
-      "fetched_at": "2026-06-16T16:22:45.466915+00:00"
-    },
-    "012ed3d91550a3fb": {
-      "title": "Optique 1.1.0: Command discovery, value parsers, and ordered grammars",
-      "fetched_at": "2026-06-16T16:22:46.095108+00:00"
-    },
-    "b2db634eb9705f97": {
-      "title": "FreeBSD AI-Assisted Vulnerability Discovery Project Launch",
-      "fetched_at": "2026-06-16T16:22:46.712306+00:00"
-    },
     "6232a9632f1b5c45": {
       "title": "SAMF- Deterministic Moscow guardrails for LLM multi-agent loops",
       "fetched_at": "2026-06-16T20:35:27.419109+00:00"
@@ -3867,7 +3735,115 @@
     "0d039d41ea1cb99f": {
       "title": "Scientists just discovered how queen bees are really made",
       "fetched_at": "2026-06-24T14:04:26.904094+00:00"
+    },
+    "3e0feadbc41b1f40": {
+      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+      "fetched_at": "2026-06-24T19:24:42.803081+00:00"
+    },
+    "c997d53f19d5aed7": {
+      "title": "Facebook rolls out an AI companion app for creators",
+      "fetched_at": "2026-06-24T19:24:43.426318+00:00"
+    },
+    "609ac5c966d8d811": {
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "fetched_at": "2026-06-24T19:24:44.052715+00:00"
+    },
+    "42e71eb17637c4ca": {
+      "title": "Figma now has AI motion graphics and shader tools",
+      "fetched_at": "2026-06-24T19:24:44.688445+00:00"
+    },
+    "1bea950e3f9e3c44": {
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "fetched_at": "2026-06-24T19:24:45.305376+00:00"
+    },
+    "40ac4c0392641079": {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "fetched_at": "2026-06-24T19:24:45.936482+00:00"
+    },
+    "249b5b0b9989818a": {
+      "title": "OpenAI reveals its first AI processor: Jalapeño",
+      "fetched_at": "2026-06-24T19:24:46.574537+00:00"
+    },
+    "8bd6f1bc6892e684": {
+      "title": "2026年度票房破170亿",
+      "fetched_at": "2026-06-24T19:24:47.189145+00:00"
+    },
+    "cd1d4943fd4db19f": {
+      "title": "2连板德尔未来：目前在手订单主要为零星的石墨烯检测业务，2026年订单额极小",
+      "fetched_at": "2026-06-24T19:24:47.823115+00:00"
+    },
+    "decd3653a0e1ed50": {
+      "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
+      "fetched_at": "2026-06-24T19:24:48.457681+00:00"
+    },
+    "6958a4b35090ff70": {
+      "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+      "fetched_at": "2026-06-24T19:24:49.085559+00:00"
+    },
+    "c19fab96e81bf014": {
+      "title": "TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验",
+      "fetched_at": "2026-06-24T19:24:49.717943+00:00"
+    },
+    "aab4ad82ba0a1a30": {
+      "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+      "fetched_at": "2026-06-24T19:24:50.349671+00:00"
+    },
+    "bc86bd2225910b0f": {
+      "title": "从观众到志愿者：加入 TEDxShenzhen 需要做些什么？",
+      "fetched_at": "2026-06-24T19:24:50.987314+00:00"
+    },
+    "2abfb012c3b922ce": {
+      "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
+      "fetched_at": "2026-06-24T19:24:51.624580+00:00"
+    },
+    "d667eefeb5570706": {
+      "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
+      "fetched_at": "2026-06-24T19:24:52.248174+00:00"
+    },
+    "ba1aece62ebedb4f": {
+      "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
+      "fetched_at": "2026-06-24T19:24:52.887438+00:00"
+    },
+    "a8c1d15422f391be": {
+      "title": "主题圆桌: 迎风而立的人，那些漂洋过海寻找的答案｜36氪WAVES2026新浪潮",
+      "fetched_at": "2026-06-24T19:24:53.508792+00:00"
+    },
+    "902fb82e03e2757b": {
+      "title": "主题演讲：全密态计算，破解AI时代的数据安全难题 | 36氪WAVES2026新浪潮",
+      "fetched_at": "2026-06-24T19:24:54.133593+00:00"
+    },
+    "3d29b1f42e8a3e0c": {
+      "title": "DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备",
+      "fetched_at": "2026-06-24T19:24:54.745800+00:00"
+    },
+    "963984f78fa929e6": {
+      "title": "「幼態臉」、「精靈耳」與「天鵝頸」 台灣人為何開始到上海「跨境醫美」?",
+      "fetched_at": "2026-06-24T19:24:57.723987+00:00"
+    },
+    "38e37a4109865efb": {
+      "title": "Water might secretly be a mix of 2 different liquids, scientists say",
+      "fetched_at": "2026-06-24T19:25:00.146372+00:00"
+    },
+    "aff4b8e6857894ac": {
+      "title": "China's Einstein Probe detected a mysterious cosmic explosion — and scientists have no idea what caused it",
+      "fetched_at": "2026-06-24T19:25:00.765514+00:00"
+    },
+    "791f6ef2a5b27981": {
+      "title": "'A weird result from an already weird hominin': Archaeologists discover all Homo naledi skeletons found in South African cave are female",
+      "fetched_at": "2026-06-24T19:25:01.397310+00:00"
+    },
+    "849cc58d787407f0": {
+      "title": "The universe may be hiding conscious minds stranger than we can imagine",
+      "fetched_at": "2026-06-24T19:25:02.019943+00:00"
+    },
+    "3eac3aeea05fdaaa": {
+      "title": "Scientists discover ancient brain cells that help block distractions",
+      "fetched_at": "2026-06-24T19:25:02.646957+00:00"
+    },
+    "3bae539125b1f8e8": {
+      "title": "'These don't occur naturally': Radio signals linked to alien life may be passing Earth by undetected, new study hints",
+      "fetched_at": "2026-06-24T19:25:03.274081+00:00"
     }
   },
-  "last_updated": "2026-06-24T14:04:27.014840+00:00"
+  "last_updated": "2026-06-24T19:25:03.381368+00:00"
 }
