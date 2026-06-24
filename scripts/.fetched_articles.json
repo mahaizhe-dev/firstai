@@ -1,117 +1,5 @@
 {
   "articles": {
-    "a4ba6dcbaa7af15d": {
-      "title": "Show HN: Transpilatron – an AI tool that converts Python code into C binaries",
-      "fetched_at": "2026-06-15T20:43:21.657480+00:00"
-    },
-    "aece2a00402debf6": {
-      "title": "Show HN: Does a vibe leak? Fine-tuning an LLM on an attitude it never states",
-      "fetched_at": "2026-06-15T20:43:22.278933+00:00"
-    },
-    "c43fe50f3be78ba3": {
-      "title": "Kedgr – AI code scanner that never stores your source code",
-      "fetched_at": "2026-06-15T20:43:22.904876+00:00"
-    },
-    "89ba8da4c667e094": {
-      "title": "AI and Amateurism",
-      "fetched_at": "2026-06-15T20:43:23.522055+00:00"
-    },
-    "bd58a9aed6592ebe": {
-      "title": "Price drop notice from Google re. One/AI service",
-      "fetched_at": "2026-06-15T20:43:24.133596+00:00"
-    },
-    "ad38f0d6f6ac3912": {
-      "title": "My Take on Gen AI Content",
-      "fetched_at": "2026-06-15T20:43:24.760014+00:00"
-    },
-    "21c6c9d7de2ec989": {
-      "title": "For centuries, math has been a human endeavor. Does AI mean it's over?",
-      "fetched_at": "2026-06-15T20:43:25.387288+00:00"
-    },
-    "e8eeeef850daf1fd": {
-      "title": "Will Siri AI kill AI as a service?",
-      "fetched_at": "2026-06-15T20:43:26.010905+00:00"
-    },
-    "27327111a43e1069": {
-      "title": "AI Image Generation from CFML in One Function Call",
-      "fetched_at": "2026-06-15T20:43:26.624339+00:00"
-    },
-    "c0ed46545b15a42b": {
-      "title": "AI-referred US shoppers browse longer, spend more per visit",
-      "fetched_at": "2026-06-15T20:43:27.240166+00:00"
-    },
-    "92e33189308a8abd": {
-      "title": "File systems are the new primitive for AI agents",
-      "fetched_at": "2026-06-15T20:43:27.847293+00:00"
-    },
-    "7907a9fa68730c39": {
-      "title": "AgentBack: AI-native API/MCP framework for agents",
-      "fetched_at": "2026-06-15T20:43:28.467626+00:00"
-    },
-    "e70d12fa00361fb4": {
-      "title": "Cartesia AI releases SOTA TTS and ASR models",
-      "fetched_at": "2026-06-15T20:43:29.093206+00:00"
-    },
-    "790e4eed07a57dc7": {
-      "title": "PDFs are one of the biggest bottlenecks in AI workflows",
-      "fetched_at": "2026-06-15T20:43:29.714403+00:00"
-    },
-    "3697d744aa28405e": {
-      "title": "AI's Brokenomics",
-      "fetched_at": "2026-06-15T20:43:30.325152+00:00"
-    },
-    "869f4ad710ac23cf": {
-      "title": "Prtokens – See how much AI agent tokens cost a PR",
-      "fetched_at": "2026-06-15T20:43:30.942899+00:00"
-    },
-    "290ae013b8f915af": {
-      "title": "Microsoft sued by shareholders over expenses, cloud business, AI",
-      "fetched_at": "2026-06-15T20:43:31.557611+00:00"
-    },
-    "628a42cb5195e446": {
-      "title": "FBI disrupts AI-powered phishing service using a million URLs",
-      "fetched_at": "2026-06-15T20:43:32.187941+00:00"
-    },
-    "aaa26e5eb8576f99": {
-      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
-      "fetched_at": "2026-06-15T20:43:32.807280+00:00"
-    },
-    "598e0cb65057d0a4": {
-      "title": "Human-approval layer for AI agents and Zapier workflows",
-      "fetched_at": "2026-06-15T20:43:33.417472+00:00"
-    },
-    "e062486e02c45346": {
-      "title": "中國房地產巨頭退潮途中 國資如何對待當年的政府「包稅人」",
-      "fetched_at": "2026-06-15T20:43:35.742002+00:00"
-    },
-    "889f7eb56d561112": {
-      "title": "Atacama Desert’s center dried out 20 million years earlier than previously thought — before the Andes formed",
-      "fetched_at": "2026-06-15T20:43:37.794871+00:00"
-    },
-    "2e80f1efde433938": {
-      "title": "Etruscan Wine Makers Cloned a Single Grape Variety for Hundreds of Years",
-      "fetched_at": "2026-06-15T20:43:38.400714+00:00"
-    },
-    "b145a1a200efd7df": {
-      "title": "Possible Statue of Artemis Found in Bulgaria",
-      "fetched_at": "2026-06-15T20:43:39.015474+00:00"
-    },
-    "0ff25ac32fc02f72": {
-      "title": "Diagnostic dilemma: Brain scans following a man's hospital visit for leg weakness revealed a surprising finding",
-      "fetched_at": "2026-06-15T20:43:39.640180+00:00"
-    },
-    "baa99fd60bdda5b4": {
-      "title": "'Melted in a pot somewhere': Vikings used Islamic silver coins to make their early pennies, study finds",
-      "fetched_at": "2026-06-15T20:43:40.259750+00:00"
-    },
-    "53126d7bb6577300": {
-      "title": "Unusual Artifacts Found in Medieval Siberian Burial",
-      "fetched_at": "2026-06-15T20:43:40.885951+00:00"
-    },
-    "5234761dc4eeb7e1": {
-      "title": "NASA's experimental X-59 jet breaks sound barrier twice, reaching Mach 1.4 in step toward 'quiet supersonic' technology",
-      "fetched_at": "2026-06-15T20:43:41.508672+00:00"
-    },
     "af7e4209b8441d3b": {
       "title": "理想公布马赫VLA能力的进化目标",
       "fetched_at": "2026-06-16T02:40:01.443726+00:00"
@@ -3803,7 +3691,151 @@
     "e52cdbeb4611af72": {
       "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
       "fetched_at": "2026-06-23T19:48:55.025916+00:00"
+    },
+    "f49caed198ce97da": {
+      "title": "三大指数集体转涨",
+      "fetched_at": "2026-06-24T02:08:01.113564+00:00"
+    },
+    "94eae5a0a32fff24": {
+      "title": "韩国总统府官员：三星与SK海力士新芯片集群规划进入收尾阶段",
+      "fetched_at": "2026-06-24T02:08:01.747551+00:00"
+    },
+    "bb08a435036d5107": {
+      "title": "微信AI助手小微，还有许多做不到的事情｜产品观察",
+      "fetched_at": "2026-06-24T02:08:02.350668+00:00"
+    },
+    "8d79481fa9d4ebb8": {
+      "title": "马来西亚央行承诺采取更有力措施促进资金流入",
+      "fetched_at": "2026-06-24T02:08:02.967356+00:00"
+    },
+    "c32eb659cba24309": {
+      "title": "36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”",
+      "fetched_at": "2026-06-24T02:08:03.587583+00:00"
+    },
+    "3512b1d3e6872ec0": {
+      "title": "“随擎”完成千万元级天使轮融资",
+      "fetched_at": "2026-06-24T02:08:04.190059+00:00"
+    },
+    "293755dcaeeb5941": {
+      "title": "“汇光创新”连续完成数千万元种子轮及天使轮融资",
+      "fetched_at": "2026-06-24T02:08:04.863372+00:00"
+    },
+    "50587e37518597dd": {
+      "title": "China Minerals Threatens EU; AI Warfare Dominates Japan, WeChat",
+      "fetched_at": "2026-06-24T02:08:05.476194+00:00"
+    },
+    "852d54a19ba942fc": {
+      "title": "国家统计局：6月中旬生猪（外三元）价格环比持平",
+      "fetched_at": "2026-06-24T02:08:06.106399+00:00"
+    },
+    "aad8ad18829315ca": {
+      "title": "高盛二季度股票交易业务营收据悉将突破50亿美元，再创行业纪录",
+      "fetched_at": "2026-06-24T02:08:06.732255+00:00"
+    },
+    "aad98de046fb522d": {
+      "title": "市场融资融券余额首次突破3万亿元",
+      "fetched_at": "2026-06-24T02:08:07.339784+00:00"
+    },
+    "744007f967f725a2": {
+      "title": "“海德氢能”完成B+轮亿元融资",
+      "fetched_at": "2026-06-24T02:08:07.947924+00:00"
+    },
+    "c8afa14fb5cfacb5": {
+      "title": "Tech stocks slump as AI bubble fears loom",
+      "fetched_at": "2026-06-24T02:08:08.564028+00:00"
+    },
+    "d15c6b33a5be749a": {
+      "title": "央行今日开展6625亿元7天期逆回购操作",
+      "fetched_at": "2026-06-24T02:08:09.174844+00:00"
+    },
+    "71753195ef957ab1": {
+      "title": "A股三大指数集体低开，贵金属板块走弱",
+      "fetched_at": "2026-06-24T02:08:09.798547+00:00"
+    },
+    "5cf078cb61110c9c": {
+      "title": "恒指开盘涨0.36%，恒生科技指数涨0.48%",
+      "fetched_at": "2026-06-24T02:08:10.389643+00:00"
+    },
+    "f9a909f2e2cc50c1": {
+      "title": "6月24日人民币对美元中间价调贬24个基点",
+      "fetched_at": "2026-06-24T02:08:11.006939+00:00"
+    },
+    "c7e7cfc838917ad2": {
+      "title": "豆包专业版正式上线",
+      "fetched_at": "2026-06-24T02:08:11.618711+00:00"
+    },
+    "0c66e129d4fbada7": {
+      "title": "Chinese universities are cutting language majors to make way for AI",
+      "fetched_at": "2026-06-24T02:08:12.246676+00:00"
+    },
+    "8daf5061cd277da9": {
+      "title": "UN chief urges AI companies to 'come clean' about the pollution they generate",
+      "fetched_at": "2026-06-24T02:08:12.851965+00:00"
+    },
+    "936199075b95a51a": {
+      "title": "中国“灵晟”登顶全球超级计算机TOP500榜单",
+      "fetched_at": "2026-06-24T02:08:15.708242+00:00"
+    },
+    "2d38c32cab0faeb1": {
+      "title": "你知道你的「流汗評分」嗎？來看補水技術的崛起",
+      "fetched_at": "2026-06-24T02:08:16.322091+00:00"
+    },
+    "efba27d87bc37417": {
+      "title": "當影像流水線走到極致——中國AI短劇是怎樣煉成的？",
+      "fetched_at": "2026-06-24T02:08:16.925857+00:00"
+    },
+    "953a08063301fa14": {
+      "title": "'Unequivocal evidence' of the age of Earth's oldest impact crater turns out to be off by half a billion years",
+      "fetched_at": "2026-06-24T02:08:18.925635+00:00"
+    },
+    "aaf2253c69ff1d73": {
+      "title": "Drug-induced 'brain freeze' may help protect the brain after a stroke, early study suggests",
+      "fetched_at": "2026-06-24T02:08:19.555145+00:00"
+    },
+    "197ae33717a4d08f": {
+      "title": "A tiny diamond defect could reveal a mysterious new kind of magnetism",
+      "fetched_at": "2026-06-24T02:08:20.164356+00:00"
+    },
+    "d65ad0bcfbd66e0c": {
+      "title": "New brain study reveals speech learning works differently than we thought",
+      "fetched_at": "2026-06-24T02:08:20.769586+00:00"
+    },
+    "f94110ece0f37e86": {
+      "title": "Show HN: Multiserial – a serial terminal for macOS that does not feel ancient",
+      "fetched_at": "2026-06-24T02:08:21.377208+00:00"
+    },
+    "842e8a7127c63203": {
+      "title": "One of the world’s most popular weedkillers may be fueling deadly superbugs",
+      "fetched_at": "2026-06-24T02:08:21.977277+00:00"
+    },
+    "814fbd2c2ac447c5": {
+      "title": "Thousand-year-old ancient oak tree linked to 'Robin Hood' legend has died",
+      "fetched_at": "2026-06-24T02:08:22.578260+00:00"
+    },
+    "2a411fd0d7441456": {
+      "title": "This strange material can become strong or fall apart in seconds",
+      "fetched_at": "2026-06-24T02:08:23.193016+00:00"
+    },
+    "c04da929d5014414": {
+      "title": "Scientists turned red lettuce green and something surprising happened",
+      "fetched_at": "2026-06-24T02:08:23.796878+00:00"
+    },
+    "e803d9aacb85fd03": {
+      "title": "Oxford physicists just made Schrödinger’s cat even stranger",
+      "fetched_at": "2026-06-24T02:08:24.394692+00:00"
+    },
+    "ab85563c37a45039": {
+      "title": "Beneath our feet lies a fungal superhighway stretching 68 quadrillion miles",
+      "fetched_at": "2026-06-24T02:08:24.997387+00:00"
+    },
+    "e214e677b3ecc49f": {
+      "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
+      "fetched_at": "2026-06-24T02:08:25.616114+00:00"
+    },
+    "2302b5816d162cfa": {
+      "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
+      "fetched_at": "2026-06-24T02:08:26.209178+00:00"
     }
   },
-  "last_updated": "2026-06-23T19:48:55.175832+00:00"
+  "last_updated": "2026-06-24T02:08:26.289642+00:00"
 }
