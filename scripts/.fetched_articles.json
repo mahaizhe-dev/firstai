@@ -1,137 +1,5 @@
 {
   "articles": {
-    "62ecdcfd888be989": {
-      "title": "Setting the temperature to zero will make an LLM deterministic?",
-      "fetched_at": "2026-06-17T14:48:07.606643+00:00"
-    },
-    "f69f1dd0e06a9593": {
-      "title": "Show HN: Infinite – query your GA4/Stripe/PostHog data locally, on your machine",
-      "fetched_at": "2026-06-17T14:48:08.228021+00:00"
-    },
-    "3a1d999b3b41e8f5": {
-      "title": "Clone any fashion video with AI",
-      "fetched_at": "2026-06-17T14:48:08.936279+00:00"
-    },
-    "46f65729977f6b7a": {
-      "title": "Show HN: Ember – self-hosted RSS reader in a single Go binary, AI is optional",
-      "fetched_at": "2026-06-17T14:48:09.551473+00:00"
-    },
-    "2d2bc4f51a7ff531": {
-      "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
-      "fetched_at": "2026-06-17T14:48:10.183644+00:00"
-    },
-    "8ebd355ba6f2db55": {
-      "title": "Show HN: ITransBook,a Local-First AI Document Translation Tool",
-      "fetched_at": "2026-06-17T14:48:10.809575+00:00"
-    },
-    "c683d3f5ee3f09e5": {
-      "title": "AI demands more engineering discipline. Not less",
-      "fetched_at": "2026-06-17T14:48:11.437357+00:00"
-    },
-    "555b21ec0f09bdcc": {
-      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-      "fetched_at": "2026-06-17T14:48:12.050042+00:00"
-    },
-    "d6b1459614a75d88": {
-      "title": "Lightpanda Agent and PandaScript – LLM at buildtime, not runtime",
-      "fetched_at": "2026-06-17T14:48:12.682763+00:00"
-    },
-    "f52deadd6ffa88d3": {
-      "title": "What's that sound? It's Mount Pleasant's new AI data center [video]",
-      "fetched_at": "2026-06-17T14:48:13.317478+00:00"
-    },
-    "15959f461eaeefb8": {
-      "title": "Show HN: AptSelect – A local LLM client for parallel testing and evaluation",
-      "fetched_at": "2026-06-17T14:48:13.950775+00:00"
-    },
-    "f213b055bb90f3fd": {
-      "title": "AI Growth – Honest AI Tools Directory and Metrics Dashboard",
-      "fetched_at": "2026-06-17T14:48:14.571228+00:00"
-    },
-    "bf12725f3c5f450d": {
-      "title": "Two AI agents run my news site; a grounding gate keeps them honest",
-      "fetched_at": "2026-06-17T14:48:15.194424+00:00"
-    },
-    "43844c6b9ae97db8": {
-      "title": "Build a Basic AI Agent from Scratch: Human in the Loop and Security",
-      "fetched_at": "2026-06-17T14:48:15.806931+00:00"
-    },
-    "178fdb2ac753dc0e": {
-      "title": "AI search grounded in Facebook posts? What could go wrong?",
-      "fetched_at": "2026-06-17T14:48:16.431480+00:00"
-    },
-    "9e28f68d2bf20ff0": {
-      "title": "Ask HN: Is AI helping with personal projects/tools? What's your stack?",
-      "fetched_at": "2026-06-17T14:48:17.138196+00:00"
-    },
-    "97d842676cf286f3": {
-      "title": "Show HN: Mira – Open-source and self-hosted AI code reviewer",
-      "fetched_at": "2026-06-17T14:48:17.772113+00:00"
-    },
-    "5795c6ea84aac78d": {
-      "title": "LLM Councils Show Groupthink",
-      "fetched_at": "2026-06-17T14:48:18.394005+00:00"
-    },
-    "1ffc8a742d4e24ee": {
-      "title": "Ask HN: What is your worst lesson learned from using AI?",
-      "fetched_at": "2026-06-17T14:48:19.010024+00:00"
-    },
-    "13eabd1f301c9a7c": {
-      "title": "Show HN: Ferrix AI – Agentic Product Management Platform",
-      "fetched_at": "2026-06-17T14:48:19.647672+00:00"
-    },
-    "d353d2c64a0c17bc": {
-      "title": "日本冰淇淋大戶涉嫌合謀定價遭反壟斷搜查",
-      "fetched_at": "2026-06-17T14:48:21.875807+00:00"
-    },
-    "6641bf2065c8c831": {
-      "title": "德黑蘭將美伊協議包裝成勝利，而伊朗民眾想要的是柴米油鹽",
-      "fetched_at": "2026-06-17T14:48:22.491046+00:00"
-    },
-    "9b61ddc9d82c78d8": {
-      "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但又能怎樣？」",
-      "fetched_at": "2026-06-17T14:48:23.116200+00:00"
-    },
-    "f28d03a47ed05647": {
-      "title": "習近平訪朝不提「無核化」 重打「貿易牌」 對半島意味著什麼",
-      "fetched_at": "2026-06-17T14:48:23.725957+00:00"
-    },
-    "d7c508c0e59d7a3d": {
-      "title": "人形機械人會走向戰場嗎？",
-      "fetched_at": "2026-06-17T14:48:24.452113+00:00"
-    },
-    "bc7928a51f0dc697": {
-      "title": "2026足球世界盃賽程海報 點擊這裡免費下載",
-      "fetched_at": "2026-06-17T14:48:25.086548+00:00"
-    },
-    "11295500a2d4143b": {
-      "title": "The discovery that changed how scientists think about memory – IBM",
-      "fetched_at": "2026-06-17T14:48:37.474250+00:00"
-    },
-    "cf469edd720fca73": {
-      "title": "Humans may have hidden regenerative powers",
-      "fetched_at": "2026-06-17T14:48:38.091638+00:00"
-    },
-    "1899c19ee94299f9": {
-      "title": "Scientists discover spider that disguises itself as a parasitic fungus",
-      "fetched_at": "2026-06-17T14:48:38.697201+00:00"
-    },
-    "e27b3bd71cdeeff8": {
-      "title": "On the brink of extinction, the vaquita gets a digital lifeline",
-      "fetched_at": "2026-06-17T14:48:39.319693+00:00"
-    },
-    "a58116a7a32f7138": {
-      "title": "Watch Venus vanish behind the moon in broad daylight today — without any special equipment",
-      "fetched_at": "2026-06-17T14:48:39.956846+00:00"
-    },
-    "9567e0044516d4e6": {
-      "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
-      "fetched_at": "2026-06-17T14:48:40.584182+00:00"
-    },
-    "d860dc3df869de1f": {
-      "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
-      "fetched_at": "2026-06-17T14:48:41.213564+00:00"
-    },
     "8477e40719d65489": {
       "title": "Turn your AI coding agent into a read-only compliance auditor",
       "fetched_at": "2026-06-17T19:57:04.340793+00:00"
@@ -3883,7 +3751,147 @@
     "6e3c339bfee42af5": {
       "title": "'You can't patch your way out of it': Cheap AI worm can spread between devices without human guidance — but how did scientists create it?",
       "fetched_at": "2026-06-25T14:02:11.997898+00:00"
+    },
+    "9c05ddfc2b92eed7": {
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "fetched_at": "2026-06-25T19:44:05.314721+00:00"
+    },
+    "98ddb8c459698290": {
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "fetched_at": "2026-06-25T19:44:05.883501+00:00"
+    },
+    "881faac42590408e": {
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "fetched_at": "2026-06-25T19:44:06.443144+00:00"
+    },
+    "38b7c01cc74264c5": {
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "fetched_at": "2026-06-25T19:44:07.009090+00:00"
+    },
+    "78cd1250ca1ba765": {
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "fetched_at": "2026-06-25T19:44:07.591729+00:00"
+    },
+    "f86ab4b15df90167": {
+      "title": "腾讯云EdgeOne Makers登顶Product Hunt日榜",
+      "fetched_at": "2026-06-25T19:44:08.153664+00:00"
+    },
+    "26d642586cd19647": {
+      "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
+      "fetched_at": "2026-06-25T19:44:08.732641+00:00"
+    },
+    "e8afef0e956c5e0a": {
+      "title": "机构今日买入聚辰股份等33股，卖出汇成股份5.13亿元",
+      "fetched_at": "2026-06-25T19:44:09.318125+00:00"
+    },
+    "3ebb765f8d362a8b": {
+      "title": "“Airwallex空中云汇”完成3.2亿美元H轮融资，估值达110亿美元",
+      "fetched_at": "2026-06-25T19:44:09.888008+00:00"
+    },
+    "722005e18f6fbef3": {
+      "title": "外资看好中国，中国词元调用量连续7周霸榜全球",
+      "fetched_at": "2026-06-25T19:44:10.469064+00:00"
+    },
+    "45652c0ba3da50a3": {
+      "title": "欧盟委员会初步认定AWS及Azure应被列为《数字市场法》守门人，亚马逊、微软面临更严格审查",
+      "fetched_at": "2026-06-25T19:44:11.034201+00:00"
+    },
+    "79f4cffee196d30d": {
+      "title": "新玩意 245｜少数派的编辑们最近买了啥？",
+      "fetched_at": "2026-06-25T19:44:11.599249+00:00"
+    },
+    "dd936dc0ac44968e": {
+      "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
+      "fetched_at": "2026-06-25T19:44:12.185391+00:00"
+    },
+    "74c5ee7f52f620b3": {
+      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+      "fetched_at": "2026-06-25T19:44:12.757196+00:00"
+    },
+    "5eef2f7a7bb4b77e": {
+      "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
+      "fetched_at": "2026-06-25T19:44:13.394704+00:00"
+    },
+    "d53068ab16876092": {
+      "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
+      "fetched_at": "2026-06-25T19:44:14.043705+00:00"
+    },
+    "33ff49379a3d3e82": {
+      "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
+      "fetched_at": "2026-06-25T19:44:14.617823+00:00"
+    },
+    "5816a8758cdbf32e": {
+      "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
+      "fetched_at": "2026-06-25T19:44:15.187301+00:00"
+    },
+    "2170db802ec886b3": {
+      "title": "实现光学载荷批量化交付，苏州商业航天企业再获数亿元融资｜36氪首发",
+      "fetched_at": "2026-06-25T19:44:15.757048+00:00"
+    },
+    "02c73cacf3e36465": {
+      "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
+      "fetched_at": "2026-06-25T19:44:16.330589+00:00"
+    },
+    "3ef5d887c108888c": {
+      "title": "Genomes of Europe’s Last Neanderthals Analyzed",
+      "fetched_at": "2026-06-25T19:44:22.278812+00:00"
+    },
+    "e0373e82be840354": {
+      "title": "Discovery of an unpublished autograph manuscript by Mozart",
+      "fetched_at": "2026-06-25T19:44:22.848925+00:00"
+    },
+    "7e32a25ecf202a6f": {
+      "title": "Viking Textile Center Excavated in Denmark",
+      "fetched_at": "2026-06-25T19:44:23.415269+00:00"
+    },
+    "6912f7b10075c14a": {
+      "title": "Some of the last surviving Neanderthals were remarkably diverse ‪—‬ suggesting inbreeding didn't doom them",
+      "fetched_at": "2026-06-25T19:44:23.997469+00:00"
+    },
+    "f3331b747601cce3": {
+      "title": "Genetic Material Recovered from 300,000-Year-Old Homo naledi Teeth",
+      "fetched_at": "2026-06-25T19:44:24.563089+00:00"
+    },
+    "46aafd816a7275ab": {
+      "title": "How Modern life compounds the ancient struggle to belong",
+      "fetched_at": "2026-06-25T19:44:25.132682+00:00"
+    },
+    "4579e33105171038": {
+      "title": "Why I wrote PEP 832: virtual environment discovery",
+      "fetched_at": "2026-06-25T19:44:25.697182+00:00"
+    },
+    "72a9914837501c31": {
+      "title": "This common vitamin deficiency can mimic normal aging",
+      "fetched_at": "2026-06-25T19:44:26.266338+00:00"
+    },
+    "d4b7450e1b166bc2": {
+      "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
+      "fetched_at": "2026-06-25T19:44:26.832689+00:00"
+    },
+    "fca4ef07cfdacfaf": {
+      "title": "Scientists discover how a single cell builds a brain with 170 billion cells",
+      "fetched_at": "2026-06-25T19:44:27.393398+00:00"
+    },
+    "43c294c77616beb7": {
+      "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
+      "fetched_at": "2026-06-25T19:44:27.964505+00:00"
+    },
+    "82ab12bc5509f3bd": {
+      "title": "NASA’s Lucy finds a wobbling peanut-shaped asteroid with signs of ancient water",
+      "fetched_at": "2026-06-25T19:44:28.543577+00:00"
+    },
+    "2de8211fca5c3734": {
+      "title": "60 million stars: Euclid space telescope snaps the most detailed photo of the Milky Way ever taken",
+      "fetched_at": "2026-06-25T19:44:29.122360+00:00"
+    },
+    "13e06963f10d1c27": {
+      "title": "We've spent decades looking for the wrong type of alien radio signals, new paper claims — and there's an easy way to fix it",
+      "fetched_at": "2026-06-25T19:44:29.691620+00:00"
+    },
+    "670479aea00e39a2": {
+      "title": "Diagnostic dilemma: Viral infection caused woman not to recognize her own father",
+      "fetched_at": "2026-06-25T19:44:30.258588+00:00"
     }
   },
-  "last_updated": "2026-06-25T14:02:12.151292+00:00"
+  "last_updated": "2026-06-25T19:44:30.342552+00:00"
 }
