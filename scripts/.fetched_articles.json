@@ -1,137 +1,5 @@
 {
   "articles": {
-    "6232a9632f1b5c45": {
-      "title": "SAMF- Deterministic Moscow guardrails for LLM multi-agent loops",
-      "fetched_at": "2026-06-16T20:35:27.419109+00:00"
-    },
-    "a91df06ec57668df": {
-      "title": "Did AI write this article?",
-      "fetched_at": "2026-06-16T20:35:28.036401+00:00"
-    },
-    "dd4384d763ee3b98": {
-      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-      "fetched_at": "2026-06-16T20:35:28.652226+00:00"
-    },
-    "2aeaab0a2196c5ad": {
-      "title": "Lexar Wants to Offload Local AI Models to SSD Amid the RAMpocalypse",
-      "fetched_at": "2026-06-16T20:35:29.300908+00:00"
-    },
-    "1be731c51f0f5b6e": {
-      "title": "Optimizing a C collision detection 100x with an LLM",
-      "fetched_at": "2026-06-16T20:35:29.922233+00:00"
-    },
-    "feb8f77bf95947b6": {
-      "title": "Show HN: I'm 15, built an AI that watches your screen and acts before you ask",
-      "fetched_at": "2026-06-16T20:35:30.547548+00:00"
-    },
-    "774fcfaf5a8d6037": {
-      "title": "AI is potentially a Dunning-Kruger effect amplifier",
-      "fetched_at": "2026-06-16T20:35:31.166529+00:00"
-    },
-    "5bb0f566917eeb03": {
-      "title": "We built an agent that runs our AI data platform",
-      "fetched_at": "2026-06-16T20:35:31.789263+00:00"
-    },
-    "25698d2b62f40f7d": {
-      "title": "Tyler Cowen: A Dangerous Turn in AI Regulation",
-      "fetched_at": "2026-06-16T20:35:32.426248+00:00"
-    },
-    "80ced823a94c4b13": {
-      "title": "AI Consciousness:The Delusionals and the Philosopher's Bench",
-      "fetched_at": "2026-06-16T20:35:33.083361+00:00"
-    },
-    "4a0d6b745da200ea": {
-      "title": "Lutnick's Letter to Anthropic Warned of Curbs on Top AI Models",
-      "fetched_at": "2026-06-16T20:35:33.703938+00:00"
-    },
-    "b5d4625715eba124": {
-      "title": "Hillock – Local, brain-inspired AI memory using SQLite and HDC",
-      "fetched_at": "2026-06-16T20:35:34.315717+00:00"
-    },
-    "dcbb624606745279": {
-      "title": "OpalAI Got Two NASA Contracts to Build AI for Wildfire Intelligence",
-      "fetched_at": "2026-06-16T20:35:34.926849+00:00"
-    },
-    "013828a155d989ea": {
-      "title": "MambAdapter: Lightweight Mamba-Based Adapters for Transfer Learning",
-      "fetched_at": "2026-06-16T20:35:35.553823+00:00"
-    },
-    "bcf914a33a7b1cdc": {
-      "title": "Leviathan Waking – On Anthropic/USG, and a new era in AI governance",
-      "fetched_at": "2026-06-16T20:35:36.167401+00:00"
-    },
-    "c58f97e807130937": {
-      "title": "A technical guide to building your own learning loop",
-      "fetched_at": "2026-06-16T20:35:36.789240+00:00"
-    },
-    "37f04b3d2c8874a5": {
-      "title": "AI and brain-computer interface allow speechless ALS patient to work full-time",
-      "fetched_at": "2026-06-16T20:35:37.396060+00:00"
-    },
-    "78deefd87ce2b279": {
-      "title": "The Anthropic Fable saga proves: we have opened the AI Pandora's box. What now?",
-      "fetched_at": "2026-06-16T20:35:38.008563+00:00"
-    },
-    "f56406ba735dba8f": {
-      "title": "I took the le chaton fat AI model meme a step further by making a model",
-      "fetched_at": "2026-06-16T20:35:38.625331+00:00"
-    },
-    "311f4bbc7022c077": {
-      "title": "Ask HN: How do you make LLM generated text believable?",
-      "fetched_at": "2026-06-16T20:35:39.249975+00:00"
-    },
-    "c19f031973d34709": {
-      "title": "韓國選舉「缺票」抗議延燒 票站職員重組事發經過",
-      "fetched_at": "2026-06-16T20:35:42.783441+00:00"
-    },
-    "3f9246dfd7b686e1": {
-      "title": "情誼還是籌碼？習近平出訪朝鮮，能否在俄朝關係中重奪主導地位？",
-      "fetched_at": "2026-06-16T20:35:43.402471+00:00"
-    },
-    "6d4065907dc319d1": {
-      "title": "5,000-year-old burial of man with battered skull found in kiln in Germany — and he may have been a human sacrifice",
-      "fetched_at": "2026-06-16T20:35:45.200695+00:00"
-    },
-    "db448e9b2a50dbae": {
-      "title": "How to see Venus vanish behind the moon during the day Wednesday — without any special equipment",
-      "fetched_at": "2026-06-16T20:35:45.814108+00:00"
-    },
-    "7951e31d19adbe6d": {
-      "title": "Intact Roman Sculptures Unearthed in Israel",
-      "fetched_at": "2026-06-16T20:35:46.430854+00:00"
-    },
-    "03a0b42dca268bae": {
-      "title": "Second Intact Etruscan Tomb Discovered in Italy’s San Giuliano Necropolis",
-      "fetched_at": "2026-06-16T20:35:47.045398+00:00"
-    },
-    "1fe855a163fbaf74": {
-      "title": "Preserved Potatoes Discovered in Inca Site in Southern Peru",
-      "fetched_at": "2026-06-16T20:35:47.665997+00:00"
-    },
-    "e57ecf1b7a0276a2": {
-      "title": "A Texas-size chunk of winter sea ice is missing from Antarctica — and it's probably not coming back",
-      "fetched_at": "2026-06-16T20:35:48.285634+00:00"
-    },
-    "5c70c3bdced65a57": {
-      "title": "Wreck of World War II Japanese 'hellship' that sank with more than 1,000 Allied POWs on board discovered off the Philippines",
-      "fetched_at": "2026-06-16T20:35:48.911094+00:00"
-    },
-    "cf78dcf04ff87381": {
-      "title": "Scientists discover the brain chemical that helps you break bad habits",
-      "fetched_at": "2026-06-16T20:35:49.536951+00:00"
-    },
-    "4f6120d3750c4029": {
-      "title": "What is space-time? A mystery at the heart of reality",
-      "fetched_at": "2026-06-16T20:35:50.156365+00:00"
-    },
-    "2f81969cfa33b432": {
-      "title": "Scientists may have debunked one of humanity's oldest habits",
-      "fetched_at": "2026-06-16T20:35:50.780016+00:00"
-    },
-    "abaefa7a0c0439a2": {
-      "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
-      "fetched_at": "2026-06-16T20:35:51.394780+00:00"
-    },
     "b5b91fbf2cc72ca8": {
       "title": "央行：完善短端利率调控机制",
       "fetched_at": "2026-06-17T02:37:27.986605+00:00"
@@ -3843,7 +3711,155 @@
     "3bae539125b1f8e8": {
       "title": "'These don't occur naturally': Radio signals linked to alien life may be passing Earth by undetected, new study hints",
       "fetched_at": "2026-06-24T19:25:03.274081+00:00"
+    },
+    "7843a1b12fc70878": {
+      "title": "金饰克价跌至1215元",
+      "fetched_at": "2026-06-25T02:08:04.820216+00:00"
+    },
+    "6e1783821a0e26b5": {
+      "title": "TronBrowser is an open-source, privacy-first, AI-native web browser",
+      "fetched_at": "2026-06-25T02:08:05.454807+00:00"
+    },
+    "bcfe1de6d903c78d": {
+      "title": "沪深两市成交额突破1万亿元",
+      "fetched_at": "2026-06-25T02:08:06.082020+00:00"
+    },
+    "5d69cb16151a7760": {
+      "title": "创业板指涨逾2%，科创50涨超3%",
+      "fetched_at": "2026-06-25T02:08:06.734589+00:00"
+    },
+    "168aab37af9e302a": {
+      "title": "百度文心网站全面升级",
+      "fetched_at": "2026-06-25T02:08:07.359086+00:00"
+    },
+    "678f6939a12eba3a": {
+      "title": "创业板指涨逾1%，存储芯片领涨",
+      "fetched_at": "2026-06-25T02:08:07.976990+00:00"
+    },
+    "3bf56d97287425d6": {
+      "title": "恒生科技指数跌幅扩大至1%",
+      "fetched_at": "2026-06-25T02:08:08.606862+00:00"
+    },
+    "73dc49c37fdb9e58": {
+      "title": "更换辅导券商后，英得尔重启IPO",
+      "fetched_at": "2026-06-25T02:08:09.235090+00:00"
+    },
+    "3d998310eda47ea0": {
+      "title": "The Carwash Problem: Why Your IT Organization Isn't Ready for AI-Generated Code",
+      "fetched_at": "2026-06-25T02:08:09.852331+00:00"
+    },
+    "516d557d2029d0d7": {
+      "title": "“赛那德”完成3亿元C轮融资",
+      "fetched_at": "2026-06-25T02:08:10.517107+00:00"
+    },
+    "212b2986c0e8f766": {
+      "title": "A股三大指数开盘涨跌不一，半导体板块领涨",
+      "fetched_at": "2026-06-25T02:08:11.135659+00:00"
+    },
+    "ae260636a907e7b8": {
+      "title": "央行今日开展3705亿元7天逆回购操作",
+      "fetched_at": "2026-06-25T02:08:11.751246+00:00"
+    },
+    "5c1d7bf9068177e0": {
+      "title": "恒指开盘跌0.1%，恒生科技指数涨0.41%",
+      "fetched_at": "2026-06-25T02:08:12.365778+00:00"
+    },
+    "dd2142d436c11126": {
+      "title": "Calling everything AI-generated is lazy",
+      "fetched_at": "2026-06-25T02:08:12.994773+00:00"
+    },
+    "c6bb457a39965ef5": {
+      "title": "人民币兑美元中间价报6.8209",
+      "fetched_at": "2026-06-25T02:08:13.647338+00:00"
+    },
+    "470cc224d78f1d4f": {
+      "title": "美团陶雪璇：大众点评将在AI时代放大物理世界的真实信任",
+      "fetched_at": "2026-06-25T02:08:14.277547+00:00"
+    },
+    "20d553541a4b00ed": {
+      "title": "Show HN: Promptctl – Git for your AI prompts",
+      "fetched_at": "2026-06-25T02:08:14.890468+00:00"
+    },
+    "e3cc723af59955e7": {
+      "title": "央行：将在6月29日、6月30日公开市场操作中增加隔夜逆回购操作品种",
+      "fetched_at": "2026-06-25T02:08:15.512599+00:00"
+    },
+    "d2c6e321413be0d4": {
+      "title": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+      "fetched_at": "2026-06-25T02:08:16.132345+00:00"
+    },
+    "aca1567acc76b258": {
+      "title": "曼恩斯特：目前公司产品暂不涉及HBM存储芯片封装、CPO光模块应用",
+      "fetched_at": "2026-06-25T02:08:16.758140+00:00"
+    },
+    "fc884a08ad6ad1b4": {
+      "title": "中國芯片出口額暴增110%，是否意味西方「封鎖失敗」？",
+      "fetched_at": "2026-06-25T02:08:19.209329+00:00"
+    },
+    "b7188b51a562b175": {
+      "title": "阿里巴巴起诉美国国防部，否认与中国军方有关联",
+      "fetched_at": "2026-06-25T02:08:19.830376+00:00"
+    },
+    "5fc5785a0d620113": {
+      "title": "一張照片，盡覽銀河系6000萬顆星球——還可能有新的",
+      "fetched_at": "2026-06-25T02:08:20.450070+00:00"
+    },
+    "761563a8d1a4668c": {
+      "title": "斯坦福大學曾是學生們的黃金門票，AI當道下還管用嗎？",
+      "fetched_at": "2026-06-25T02:08:21.070101+00:00"
+    },
+    "f31274217dc19ede": {
+      "title": "台灣人為何開始到上海「跨境醫美」?",
+      "fetched_at": "2026-06-25T02:08:21.702936+00:00"
+    },
+    "95e5b28ceaebde02": {
+      "title": "Satellites reveal Earth has a surprising symmetry in the way it reflects light — and it might be tied to the El Niño cycle",
+      "fetched_at": "2026-06-25T02:08:23.839160+00:00"
+    },
+    "17f9af00be21fbd0": {
+      "title": "Discovery of pneumonia subtypes could lead to tailored treatments",
+      "fetched_at": "2026-06-25T02:08:24.471686+00:00"
+    },
+    "8e877f853637255c": {
+      "title": "Medieval Game Board Identified in Moroccan Bathhouse",
+      "fetched_at": "2026-06-25T02:08:25.081519+00:00"
+    },
+    "d6bb4f7b2df3a423": {
+      "title": "Unusual Platform and Monolith Found in Eastern Mexico",
+      "fetched_at": "2026-06-25T02:08:25.731036+00:00"
+    },
+    "2262b7b82eb4cc20": {
+      "title": "Imperial-Era Villa Excavated Near Rome",
+      "fetched_at": "2026-06-25T02:08:26.386404+00:00"
+    },
+    "f1aa287a640eea62": {
+      "title": "'Is having two legs useful' in space?: Astronaut John McFall explains what life in orbit might be like for the first physically disabled person in space",
+      "fetched_at": "2026-06-25T02:08:27.011267+00:00"
+    },
+    "e3f3798d376af8f9": {
+      "title": "The world's first nuclear clock just ticked on — and it could help detect a fifth fundamental force of physics",
+      "fetched_at": "2026-06-25T02:08:27.643118+00:00"
+    },
+    "ba5b3c1c45f86576": {
+      "title": "'The system is critically stressed': San Andreas and San Jacinto faults scarily close to major earthquake, study finds",
+      "fetched_at": "2026-06-25T02:08:28.310501+00:00"
+    },
+    "3cbd331287308731": {
+      "title": "New study explores potential cross-species spread of chronic wasting disease",
+      "fetched_at": "2026-06-25T02:08:28.978607+00:00"
+    },
+    "1baf5de24c39636c": {
+      "title": "Scientists found a way to explain bird flocks that “defy” Newton’s third law",
+      "fetched_at": "2026-06-25T02:08:29.614303+00:00"
+    },
+    "89225c81e07596ba": {
+      "title": "Scientists just found a hidden weakness in forever chemicals",
+      "fetched_at": "2026-06-25T02:08:30.248699+00:00"
+    },
+    "ff081ce29efec8ee": {
+      "title": "Alien messages may have reached Earth without us realizing it",
+      "fetched_at": "2026-06-25T02:08:30.874574+00:00"
     }
   },
-  "last_updated": "2026-06-24T19:25:03.381368+00:00"
+  "last_updated": "2026-06-25T02:08:31.017412+00:00"
 }
