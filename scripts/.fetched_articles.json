@@ -1,133 +1,5 @@
 {
   "articles": {
-    "8477e40719d65489": {
-      "title": "Turn your AI coding agent into a read-only compliance auditor",
-      "fetched_at": "2026-06-17T19:57:04.340793+00:00"
-    },
-    "20853eef6afa9680": {
-      "title": "Automatic LLM routing that optimizes cost and speed",
-      "fetched_at": "2026-06-17T19:57:04.943192+00:00"
-    },
-    "e7190e4fc5d28b54": {
-      "title": "ChatGPT's AI Assistant market share <50% as Gemini and Claude grow",
-      "fetched_at": "2026-06-17T19:57:05.553297+00:00"
-    },
-    "7b426995980a4a8b": {
-      "title": "AI coding agents taught robots how to install GPUs and cut zip-ties",
-      "fetched_at": "2026-06-17T19:57:06.152804+00:00"
-    },
-    "76cd719780593c01": {
-      "title": "Cem888.ai – 99.9% AR, 77.2% Beam – Filesystem Memory Beats RAG",
-      "fetched_at": "2026-06-17T19:57:06.750311+00:00"
-    },
-    "cc1ef436f905500f": {
-      "title": "Retool Launches React AI App Builder",
-      "fetched_at": "2026-06-17T19:57:07.353377+00:00"
-    },
-    "5b961c0e0a49d97c": {
-      "title": "Lessons Learnt from Writing an AI Agent",
-      "fetched_at": "2026-06-17T19:57:07.949964+00:00"
-    },
-    "4b1b188fab5cdd54": {
-      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "fetched_at": "2026-06-17T19:57:08.548813+00:00"
-    },
-    "4bd898676329fb96": {
-      "title": "Fast Food and AI",
-      "fetched_at": "2026-06-17T19:57:09.139340+00:00"
-    },
-    "2715d624289b869f": {
-      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-      "fetched_at": "2026-06-17T19:57:09.746763+00:00"
-    },
-    "5aad0be9376f4faf": {
-      "title": "When AI Is Your Pastor: Benchmark for Theological Triage and Pastoral Guidance",
-      "fetched_at": "2026-06-17T19:57:10.346114+00:00"
-    },
-    "def65bfb293d15c1": {
-      "title": "CEOs of Anthropic and Google DeepMind call for US-led AI coalition in G7 meeting",
-      "fetched_at": "2026-06-17T19:57:10.963529+00:00"
-    },
-    "d879d956316c92cd": {
-      "title": "Ask HN: At what point does AI regulation lead to confiscation of compute?",
-      "fetched_at": "2026-06-17T19:57:11.563112+00:00"
-    },
-    "52aa9d8a06aa0766": {
-      "title": "How to Stop Babysitting AI Code",
-      "fetched_at": "2026-06-17T19:57:12.167355+00:00"
-    },
-    "d2e6820f3a651211": {
-      "title": "Real-time monitoring of chatbots and agents for AI compliance and governance",
-      "fetched_at": "2026-06-17T19:57:12.772751+00:00"
-    },
-    "a4203aa2af4a17f4": {
-      "title": "UK government built an AI tool to digitise historic planning records",
-      "fetched_at": "2026-06-17T19:57:13.380147+00:00"
-    },
-    "f58c49c3c0bc058e": {
-      "title": "The frustration of agreeing with everyone about AI",
-      "fetched_at": "2026-06-17T19:57:13.983249+00:00"
-    },
-    "1e643411f0aa5054": {
-      "title": "Bird jumps 20%+ after shoemaker Allbirds changes name to Smartbird for AI pivot",
-      "fetched_at": "2026-06-17T19:57:14.586439+00:00"
-    },
-    "dee46aa07ba38abf": {
-      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-      "fetched_at": "2026-06-17T19:57:15.185588+00:00"
-    },
-    "d9d5ad840198c81a": {
-      "title": "Show HN: MizAI LLM detection of price anomalies in public procurement for Greece",
-      "fetched_at": "2026-06-17T19:57:15.791208+00:00"
-    },
-    "6e170d3f0c991b2b": {
-      "title": "Viking Coins Found in Denmark Were Minted With Islamic Silver",
-      "fetched_at": "2026-06-17T19:57:21.306831+00:00"
-    },
-    "833f35df8aa121cd": {
-      "title": "'A mixture from zero to infinity': Physicists split apart a photon — and ended up with an improbable swarm of particles",
-      "fetched_at": "2026-06-17T19:57:21.970387+00:00"
-    },
-    "030bbc3664573bf0": {
-      "title": "Oldest known plague victims found in a 5,500-year-old burial ground in Siberia — and many of them were children",
-      "fetched_at": "2026-06-17T19:57:22.566142+00:00"
-    },
-    "390b2c525729371a": {
-      "title": "Greek-Style Temple Excavated in Albania",
-      "fetched_at": "2026-06-17T19:57:23.159334+00:00"
-    },
-    "7c8a67418de993c2": {
-      "title": "Agentic Resource Discovery Specification",
-      "fetched_at": "2026-06-17T19:57:23.751073+00:00"
-    },
-    "e44a382f3e193784": {
-      "title": "Ancient Maya Figurine May Bear Early Number System",
-      "fetched_at": "2026-06-17T19:57:24.358392+00:00"
-    },
-    "c062240cb48a6603": {
-      "title": "A secretive Chinese probe has just arrived at one of Earth's 'quasi-moons' and will soon attempt a first-of-its-kind landing",
-      "fetched_at": "2026-06-17T19:57:24.956902+00:00"
-    },
-    "d035f384a546d524": {
-      "title": "The Agentic Resource Discovery Specification",
-      "fetched_at": "2026-06-17T19:57:25.562070+00:00"
-    },
-    "f1f21bb2b63fc935": {
-      "title": "Atlantic 'cold blob' is responsible for shifts in the Indian summer monsoon that threaten over 1 billion people",
-      "fetched_at": "2026-06-17T19:57:26.163454+00:00"
-    },
-    "5201f6f62ecf0941": {
-      "title": "'They reliably chose the statistically more favorable option': A crow researcher explains how these winged geniuses process numbers, and what it could reveal about human math smarts",
-      "fetched_at": "2026-06-17T19:57:26.763927+00:00"
-    },
-    "59f2f5578fd644df": {
-      "title": "'River in the Sky': China's doomed plan to create a 'cloud seeding corridor' tells us how far the country will go to solve its climate crisis",
-      "fetched_at": "2026-06-17T19:57:27.380414+00:00"
-    },
-    "99cc16b789e4cd80": {
-      "title": "Is web app discovery still a broken problem?",
-      "fetched_at": "2026-06-17T19:57:27.979028+00:00"
-    },
     "74ae9944464da981": {
       "title": "算力芯片概念震荡走强，寒武纪涨超10%创历史新高",
       "fetched_at": "2026-06-18T02:34:55.665791+00:00"
@@ -3891,7 +3763,119 @@
     "670479aea00e39a2": {
       "title": "Diagnostic dilemma: Viral infection caused woman not to recognize her own father",
       "fetched_at": "2026-06-25T19:44:30.258588+00:00"
+    },
+    "2fcbff63f459dd31": {
+      "title": "工信部：前5个月电信业务收入累计完成7355亿元，同比下降1.9%",
+      "fetched_at": "2026-06-26T02:09:32.891140+00:00"
+    },
+    "bd40489f3569d9f7": {
+      "title": "N惠科涨超600%",
+      "fetched_at": "2026-06-26T02:09:33.457671+00:00"
+    },
+    "8b1e5e39212df12e": {
+      "title": "Local-first AI coding assistant for IntelliJ-based IDEs (paid)",
+      "fetched_at": "2026-06-26T02:09:34.025686+00:00"
+    },
+    "3bb232d9e96f0a72": {
+      "title": "沪深两市成交额突破1万亿元",
+      "fetched_at": "2026-06-26T02:09:34.025813+00:00"
+    },
+    "923fc18d1618625f": {
+      "title": "创业板指跌超2%",
+      "fetched_at": "2026-06-26T02:09:34.025926+00:00"
+    },
+    "74bc5ac05cc980f8": {
+      "title": "新股N惠科涨近400%，触发二次临停",
+      "fetched_at": "2026-06-26T02:09:34.602886+00:00"
+    },
+    "de39b3bc1f4c5b48": {
+      "title": "1-5月我国全行业对外直接投资5069.5亿元人民币，同比增长3%",
+      "fetched_at": "2026-06-26T02:09:35.169994+00:00"
+    },
+    "147267f20122c4c9": {
+      "title": "恒生科技指数跌超2%",
+      "fetched_at": "2026-06-26T02:09:35.742331+00:00"
+    },
+    "a07a97da0c534778": {
+      "title": "商络电子：部分AI服务器电源客户涉及液冷技术，公司与客户合作研发液冷项目",
+      "fetched_at": "2026-06-26T02:09:36.311151+00:00"
+    },
+    "2476f74fd7376c7e": {
+      "title": "A股三大指数集体低开，新股N惠科股份上市首日高开212.25%",
+      "fetched_at": "2026-06-26T02:09:36.881635+00:00"
+    },
+    "73784f54c6114ec1": {
+      "title": "AI is reshaping work. A new group aims to help people adapt and thrive",
+      "fetched_at": "2026-06-26T02:09:37.445426+00:00"
+    },
+    "d4f5b60df0b734a6": {
+      "title": "央行今日开展2315亿元7天期逆回购操作",
+      "fetched_at": "2026-06-26T02:09:38.090905+00:00"
+    },
+    "4879ae7470c75a73": {
+      "title": "恒指开盘跌0.54%，恒生科技指数跌0.78%",
+      "fetched_at": "2026-06-26T02:09:38.660814+00:00"
+    },
+    "680eb56c0239b67c": {
+      "title": "人民币兑美元中间价报6.8166，上调43点",
+      "fetched_at": "2026-06-26T02:09:39.232472+00:00"
+    },
+    "3e9b1db910eb63dd": {
+      "title": "AI children's books, body horror edition",
+      "fetched_at": "2026-06-26T02:09:39.807566+00:00"
+    },
+    "35ccb868e407be7b": {
+      "title": "AI Email Template Design",
+      "fetched_at": "2026-06-26T02:09:40.382279+00:00"
+    },
+    "ae224edca1023a9e": {
+      "title": "索尼互动娱乐将削减Bungie工作室员工人数",
+      "fetched_at": "2026-06-26T02:09:40.951346+00:00"
+    },
+    "1fa374e024dbb9cd": {
+      "title": "宝丽迪：COFs产品在吸附除酸领域处于客户验证阶段，暂无批量销售计划",
+      "fetched_at": "2026-06-26T02:09:41.527445+00:00"
+    },
+    "ee8542adf0aa5da5": {
+      "title": "Show HN: Ludion – routing AI inference by observed WebGPU behavior",
+      "fetched_at": "2026-06-26T02:09:42.178402+00:00"
+    },
+    "74447e0b6b60399e": {
+      "title": "维通利：公司生产、销售液冷散热器 收入占比相对较小",
+      "fetched_at": "2026-06-26T02:09:42.749199+00:00"
+    },
+    "1be584f2b8203636": {
+      "title": "重庆男子虐狗引发抗议，示威者呼吁制定反虐待动物法律",
+      "fetched_at": "2026-06-26T02:09:44.908507+00:00"
+    },
+    "8da74cb46057d6a2": {
+      "title": "蓋房子、裝水電、洗空調：中國各地興起「全女維修隊」",
+      "fetched_at": "2026-06-26T02:09:45.478519+00:00"
+    },
+    "bc7928a51f0dc697": {
+      "title": "2026足球世界盃賽程海報 點擊這裡免費下載",
+      "fetched_at": "2026-06-26T02:09:46.083798+00:00"
+    },
+    "cf469edd720fca73": {
+      "title": "Humans may have hidden regenerative powers",
+      "fetched_at": "2026-06-26T02:09:48.066509+00:00"
+    },
+    "1899c19ee94299f9": {
+      "title": "Scientists discover spider that disguises itself as a parasitic fungus",
+      "fetched_at": "2026-06-26T02:09:48.631961+00:00"
+    },
+    "e27b3bd71cdeeff8": {
+      "title": "On the brink of extinction, the vaquita gets a digital lifeline",
+      "fetched_at": "2026-06-26T02:09:49.202475+00:00"
+    },
+    "7adc110c83b35004": {
+      "title": "Scientists say most of what’s in your food is still a mystery",
+      "fetched_at": "2026-06-26T02:09:49.773487+00:00"
+    },
+    "a58116a7a32f7138": {
+      "title": "Watch Venus vanish behind the moon in broad daylight today — without any special equipment",
+      "fetched_at": "2026-06-26T02:09:50.351447+00:00"
     }
   },
-  "last_updated": "2026-06-25T19:44:30.342552+00:00"
+  "last_updated": "2026-06-26T02:09:50.499292+00:00"
 }
