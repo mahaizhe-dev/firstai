@@ -1,105 +1,5 @@
 {
   "articles": {
-    "74ae9944464da981": {
-      "title": "算力芯片概念震荡走强，寒武纪涨超10%创历史新高",
-      "fetched_at": "2026-06-18T02:34:55.665791+00:00"
-    },
-    "eeea26c396e07a78": {
-      "title": "沪深两市成交额突破1.5万亿元",
-      "fetched_at": "2026-06-18T02:34:56.273205+00:00"
-    },
-    "c32366568f0d6299": {
-      "title": "12306要忙着赚钱了",
-      "fetched_at": "2026-06-18T02:34:56.886513+00:00"
-    },
-    "ccaf348a538b4290": {
-      "title": "Six Numbers from Running 1,500 AI Agents Simultaneously",
-      "fetched_at": "2026-06-18T02:34:57.484438+00:00"
-    },
-    "9475594aa581e4eb": {
-      "title": "张浩任腾讯音乐董事长",
-      "fetched_at": "2026-06-18T02:34:58.075966+00:00"
-    },
-    "6ceb98e045b30fb2": {
-      "title": "VNX+: Self-contained RF payload for hosting AI/ML applications out of the box",
-      "fetched_at": "2026-06-18T02:34:58.714833+00:00"
-    },
-    "59670b7bc58b8026": {
-      "title": "Show HN: Gptbased – LLM leaderboard that emails you when to switch",
-      "fetched_at": "2026-06-18T02:34:59.326168+00:00"
-    },
-    "6cdf1b2835c6ddb9": {
-      "title": "Learning VPP: Filtering Packets at 100GbE Line Rate",
-      "fetched_at": "2026-06-18T02:34:59.928904+00:00"
-    },
-    "2a7b8e918471a672": {
-      "title": "福建东南西北科技集团完成亿元B轮、B+轮融资",
-      "fetched_at": "2026-06-18T02:35:00.518777+00:00"
-    },
-    "d6739925869e8a31": {
-      "title": "创业板指涨超2%",
-      "fetched_at": "2026-06-18T02:35:01.135271+00:00"
-    },
-    "3bf2033cb1d814fa": {
-      "title": "沪深两市成交额突破1万亿元",
-      "fetched_at": "2026-06-18T02:35:01.135376+00:00"
-    },
-    "d10ec75ec7af7749": {
-      "title": "Show HN: Local personal data redaction for any AI tools",
-      "fetched_at": "2026-06-18T02:35:01.737977+00:00"
-    },
-    "acec499e9d45a679": {
-      "title": "Vevey – AI game dev for kids to build games, together",
-      "fetched_at": "2026-06-18T02:35:02.343972+00:00"
-    },
-    "13a4971f84c7305d": {
-      "title": "三大指数全线翻红",
-      "fetched_at": "2026-06-18T02:35:02.966391+00:00"
-    },
-    "c3823f8e43da64ff": {
-      "title": "端午假期运输启动，长三角铁路今日预计发送旅客348万人次",
-      "fetched_at": "2026-06-18T02:35:03.591583+00:00"
-    },
-    "2b7a30fd09724c31": {
-      "title": "沪深两市成交额突破5000亿元",
-      "fetched_at": "2026-06-18T02:35:04.237463+00:00"
-    },
-    "93076d9f2fb362d2": {
-      "title": "创业板指快速拉升涨超1.7%，再创历史新高",
-      "fetched_at": "2026-06-18T02:35:04.852905+00:00"
-    },
-    "f9342bee9d1f5689": {
-      "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
-      "fetched_at": "2026-06-18T02:35:05.474096+00:00"
-    },
-    "2f154a264ecd3eff": {
-      "title": "Free calculators for creator income, freelance rates, AI tool ROI, and so on",
-      "fetched_at": "2026-06-18T02:35:06.089822+00:00"
-    },
-    "2f1d6636f2605d26": {
-      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
-      "fetched_at": "2026-06-18T02:35:06.687492+00:00"
-    },
-    "bfaa0a27a94b1954": {
-      "title": "美伊协议细节公开：石油出口解禁、3000亿美元重建基金",
-      "fetched_at": "2026-06-18T02:35:09.338990+00:00"
-    },
-    "10c0487c0b02bc1b": {
-      "title": "日菲啓動劃界談判 中國海警東進：北京為何稱對台「近海治理」成功？",
-      "fetched_at": "2026-06-18T02:35:09.947055+00:00"
-    },
-    "a5779515a98ed5f9": {
-      "title": "德黑兰如何赢得了世界",
-      "fetched_at": "2026-06-18T02:35:10.557094+00:00"
-    },
-    "f9b0c6960a3475c8": {
-      "title": "'This was a pioneering achievement': Stone Age people put up posts to observe the solstices near Stonehenge long before the stones of sacred site were placed",
-      "fetched_at": "2026-06-18T02:35:12.545683+00:00"
-    },
-    "a9e4efe012e32088": {
-      "title": "'It's a huge deal': Archaeologists discover second cannonball from the Battle of the Alamo, and it was likely fired by Texans",
-      "fetched_at": "2026-06-18T02:35:13.148060+00:00"
-    },
     "70b0f59a80a97dce": {
       "title": "AI Tokenmaxxing and Hypomania",
       "fetched_at": "2026-06-18T10:02:56.969654+00:00"
@@ -3875,7 +3775,151 @@
     "a58116a7a32f7138": {
       "title": "Watch Venus vanish behind the moon in broad daylight today — without any special equipment",
       "fetched_at": "2026-06-26T02:09:50.351447+00:00"
+    },
+    "d1e768388f09032e": {
+      "title": "以岭药业：全资子公司他达拉非片获得药品注册证书",
+      "fetched_at": "2026-06-26T08:48:26.094322+00:00"
+    },
+    "84a88b427b0f704c": {
+      "title": "Paying for LLM inference by the kilowatt-hour instead of per token",
+      "fetched_at": "2026-06-26T08:48:26.657445+00:00"
+    },
+    "a9627735f2a30680": {
+      "title": "张江高科：副总经理郑刚因工作调动辞职",
+      "fetched_at": "2026-06-26T08:48:27.260274+00:00"
+    },
+    "11ba254cc8705d96": {
+      "title": "聚灿光电：收到全资子公司分红款1.27亿元",
+      "fetched_at": "2026-06-26T08:48:27.880218+00:00"
+    },
+    "e7c29118c4a68569": {
+      "title": "SpaceX公司计划在美国市场推出“星链”零售产品，并建设自己的地面移动网络",
+      "fetched_at": "2026-06-26T08:48:28.469074+00:00"
+    },
+    "9fe270004fe91e82": {
+      "title": "药明康德：完成10亿元股份回购计划",
+      "fetched_at": "2026-06-26T08:48:29.037909+00:00"
+    },
+    "f650064e7422c028": {
+      "title": "Google Vids: AI-Powered Video Creator and Editor",
+      "fetched_at": "2026-06-26T08:48:29.606826+00:00"
+    },
+    "74fddee4c3b6eb5c": {
+      "title": "凯美特气：全资子公司海南凯美特例行停车检修80天",
+      "fetched_at": "2026-06-26T08:48:30.194559+00:00"
+    },
+    "d514bdf99b4062b7": {
+      "title": "百亚股份：拟5000万元-1亿元回购公司股份",
+      "fetched_at": "2026-06-26T08:48:30.797872+00:00"
+    },
+    "8de5cf6032d4866c": {
+      "title": "奥康国际：筹划涉及资产购买的重大事项，股票继续停牌",
+      "fetched_at": "2026-06-26T08:48:31.370681+00:00"
+    },
+    "72bd782fd71da9df": {
+      "title": "大众汽车酝酿未来几年全球裁员至多10万人，并关闭4家德国工厂",
+      "fetched_at": "2026-06-26T08:48:31.941795+00:00"
+    },
+    "698bfd5bf2ca6059": {
+      "title": "恒指收跌1.76%，恒生科技指数跌3.41%",
+      "fetched_at": "2026-06-26T08:48:32.501578+00:00"
+    },
+    "29246004a7019a79": {
+      "title": "隆盛科技：控股子公司获UAES项目定点，预计生命周期总营业额约20亿元",
+      "fetched_at": "2026-06-26T08:48:33.067290+00:00"
+    },
+    "a79521108087ee96": {
+      "title": "洪通燃气：公司暂无天然气原料气自产业务",
+      "fetched_at": "2026-06-26T08:48:33.658343+00:00"
+    },
+    "c293a95c7d61045c": {
+      "title": "特斯拉FSD全面转向订阅制：港澳台地区买断版6月30日后下架，中国内地尚无明确时间表",
+      "fetched_at": "2026-06-26T08:48:34.230604+00:00"
+    },
+    "fef9acbdf1192188": {
+      "title": "Why current LLM costs are not sustainable",
+      "fetched_at": "2026-06-26T08:48:34.796206+00:00"
+    },
+    "fc5ada79f3fafdbc": {
+      "title": "方大特钢：子公司已与宁德时代合作开展光伏发电项目",
+      "fetched_at": "2026-06-26T08:48:35.367317+00:00"
+    },
+    "dd67c2ff8cfbe1b1": {
+      "title": "华丰科技：公司液冷相关产品已取得小批量订单",
+      "fetched_at": "2026-06-26T08:48:35.951862+00:00"
+    },
+    "d9154580138b9436": {
+      "title": "厦钨新能：拟设子公司投建马来西亚年产1万吨锂离子正极材料项目",
+      "fetched_at": "2026-06-26T08:48:36.521476+00:00"
+    },
+    "2ab298a244216e30": {
+      "title": "翼菲科技鸿钧001人形轮臂机器人落地，与韩国MiR达成战略合作",
+      "fetched_at": "2026-06-26T08:48:37.102916+00:00"
+    },
+    "fe37be6e83958ddc": {
+      "title": "從圖片看委內瑞拉雙重地震後的滿目蒼夷",
+      "fetched_at": "2026-06-26T08:48:39.574608+00:00"
+    },
+    "c142a519bb131963": {
+      "title": "中國票房黑馬《給阿嬤的情書》 在新加坡掀起身份認同「大辯論」",
+      "fetched_at": "2026-06-26T08:48:40.140557+00:00"
+    },
+    "0222873b03b6a115": {
+      "title": "西瓜有多健康？",
+      "fetched_at": "2026-06-26T08:48:40.712199+00:00"
+    },
+    "f777f7220f82f863": {
+      "title": "伊朗袭击货船，霍尔木兹海峡航运再次中断",
+      "fetched_at": "2026-06-26T08:48:41.285000+00:00"
+    },
+    "6c5fc5b358002c1e": {
+      "title": "聯合國暫停霍爾木茲海峽撤離行動 一貨船遭襲觸發安全疑慮",
+      "fetched_at": "2026-06-26T08:48:41.849073+00:00"
+    },
+    "63b7c5f0cd7e7d0b": {
+      "title": "朝鲜“崔贤号”驱逐舰服役，凸显金正恩海军核武化雄心",
+      "fetched_at": "2026-06-26T08:48:42.450352+00:00"
+    },
+    "fbe8971d2d271bb1": {
+      "title": "中国AI模型与Anthropic、OpenAI性能差距缩小",
+      "fetched_at": "2026-06-26T08:48:43.016374+00:00"
+    },
+    "7bf979ad82773078": {
+      "title": "一项关于癌症治疗时机的中国研究被《自然-医学》撤稿",
+      "fetched_at": "2026-06-26T08:48:43.584765+00:00"
+    },
+    "97b57b8cb5197535": {
+      "title": "一分钟内两次超7级强震：详解委内瑞拉地震",
+      "fetched_at": "2026-06-26T08:48:44.164242+00:00"
+    },
+    "d035f384a546d524": {
+      "title": "The Agentic Resource Discovery Specification",
+      "fetched_at": "2026-06-26T08:48:46.700414+00:00"
+    },
+    "833f35df8aa121cd": {
+      "title": "'A mixture from zero to infinity': Physicists split apart a photon — and ended up with an improbable swarm of particles",
+      "fetched_at": "2026-06-26T08:48:47.284349+00:00"
+    },
+    "030bbc3664573bf0": {
+      "title": "Oldest known plague victims found in a 5,500-year-old burial ground in Siberia — and many of them were children",
+      "fetched_at": "2026-06-26T08:48:47.864435+00:00"
+    },
+    "c062240cb48a6603": {
+      "title": "A secretive Chinese probe has just arrived at one of Earth's 'quasi-moons' and will soon attempt a first-of-its-kind landing",
+      "fetched_at": "2026-06-26T08:48:48.439160+00:00"
+    },
+    "f1f21bb2b63fc935": {
+      "title": "Atlantic 'cold blob' is responsible for shifts in the Indian summer monsoon that threaten over 1 billion people",
+      "fetched_at": "2026-06-26T08:48:49.000647+00:00"
+    },
+    "5201f6f62ecf0941": {
+      "title": "'They reliably chose the statistically more favorable option': A crow researcher explains how these winged geniuses process numbers, and what it could reveal about human math smarts",
+      "fetched_at": "2026-06-26T08:48:49.576236+00:00"
+    },
+    "59f2f5578fd644df": {
+      "title": "'River in the Sky': China's doomed plan to create a 'cloud seeding corridor' tells us how far the country will go to solve its climate crisis",
+      "fetched_at": "2026-06-26T08:48:50.137686+00:00"
     }
   },
-  "last_updated": "2026-06-26T02:09:50.499292+00:00"
+  "last_updated": "2026-06-26T08:48:50.281456+00:00"
 }
