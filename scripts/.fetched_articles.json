@@ -1,121 +1,5 @@
 {
   "articles": {
-    "b37b49f574116ef5": {
-      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-      "fetched_at": "2026-06-19T10:10:18.787157+00:00"
-    },
-    "ce472d4e0c77b385": {
-      "title": "Show HN: I built an 11-LLM consensus engine to detect AI hallucination",
-      "fetched_at": "2026-06-19T10:10:19.353425+00:00"
-    },
-    "38193c39ba3c28ac": {
-      "title": "Conservatives plan nationwide protest against AI data centers",
-      "fetched_at": "2026-06-19T10:10:19.917298+00:00"
-    },
-    "49e52f8ce408766c": {
-      "title": "杰瑞股份：今年以来，公司燃气轮机发电机组销售价格已多次上涨",
-      "fetched_at": "2026-06-19T10:10:20.485959+00:00"
-    },
-    "ce9c77f82a1cb315": {
-      "title": "商务部：将对澳大利亚进口牛肉加征55%关税",
-      "fetched_at": "2026-06-19T10:10:21.053063+00:00"
-    },
-    "79fae818dd4ed492": {
-      "title": "PageToMD – A CLI tool to turn web pages into clean Markdown for AI agents",
-      "fetched_at": "2026-06-19T10:10:21.627908+00:00"
-    },
-    "16887427fa6f6e27": {
-      "title": "Switching AI Tools Mid-Sprint Cost Us a Day (and What We Learned) – Week 6 R",
-      "fetched_at": "2026-06-19T10:10:22.200389+00:00"
-    },
-    "93294bc25854cc9a": {
-      "title": "Meta洽谈投资印度金融科技支付初创公司Cred",
-      "fetched_at": "2026-06-19T10:10:22.769636+00:00"
-    },
-    "b5a3a57ece0a33d9": {
-      "title": "Why local AI – and why it matters",
-      "fetched_at": "2026-06-19T10:10:23.336364+00:00"
-    },
-    "a1e2133468f259d2": {
-      "title": "Finding the Link Uber Missed: How to Connect AI Code Spend to Business Value",
-      "fetched_at": "2026-06-19T10:10:23.906486+00:00"
-    },
-    "f040944327083e74": {
-      "title": "How to Drive an LLM",
-      "fetched_at": "2026-06-19T10:10:24.497219+00:00"
-    },
-    "7d4f89d7f64450fa": {
-      "title": "What 'Getting Your Hands Dirty' Means at LLM-Era",
-      "fetched_at": "2026-06-19T10:10:25.062620+00:00"
-    },
-    "bbfeddaee134ca38": {
-      "title": "Capitol Alpha Machine – interactive viz of congressional stock trades",
-      "fetched_at": "2026-06-19T10:10:25.639001+00:00"
-    },
-    "0db227be5bf7fc04": {
-      "title": "浙江首个“子母”变电站项目投运",
-      "fetched_at": "2026-06-19T10:10:26.213596+00:00"
-    },
-    "1b0663abba2f82b0": {
-      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
-      "fetched_at": "2026-06-19T10:10:26.786596+00:00"
-    },
-    "9fe859db0f631747": {
-      "title": "Prodigy: AI Employees",
-      "fetched_at": "2026-06-19T10:10:27.376573+00:00"
-    },
-    "b7fe135e708d3033": {
-      "title": "'We created a monster': companies rein in AI usage as costs strain budgets",
-      "fetched_at": "2026-06-19T10:10:27.964573+00:00"
-    },
-    "85e1ccdee5d4522c": {
-      "title": "One Model Won't Save You: How We Built Our AI Stack",
-      "fetched_at": "2026-06-19T10:10:28.530017+00:00"
-    },
-    "86fb3d3fcc12fdb2": {
-      "title": "17只绩优潜力硬科技小盘股出炉",
-      "fetched_at": "2026-06-19T10:10:29.108854+00:00"
-    },
-    "151aad3bb3d1f380": {
-      "title": "Contributor Poker and Zig's AI Ban",
-      "fetched_at": "2026-06-19T10:10:29.686869+00:00"
-    },
-    "bf831a56fdd22d18": {
-      "title": "「我感到被困住了」：孕婦面對飲食失調的隱性掙扎",
-      "fetched_at": "2026-06-19T10:10:31.925839+00:00"
-    },
-    "e187261e0aa7f369": {
-      "title": "AI浪潮下蘋果產品謀漲價 專家：追落後",
-      "fetched_at": "2026-06-19T10:10:32.500773+00:00"
-    },
-    "bbb57940222cd1df": {
-      "title": "「他把單點菜單藏了起來」：誰應該為第一次約會付錢？",
-      "fetched_at": "2026-06-19T10:10:33.070819+00:00"
-    },
-    "dd1b1f494dd4cfdd": {
-      "title": "球迷打掃世界盃球場，家務沉重的日本妻子們看不下去了：雙標嗎？",
-      "fetched_at": "2026-06-19T10:10:33.644529+00:00"
-    },
-    "bea3bb4d80c01f10": {
-      "title": "伊朗和平協議影響你財務的五種可能",
-      "fetched_at": "2026-06-19T10:10:34.217876+00:00"
-    },
-    "6fb69403117d5365": {
-      "title": "一部描繪潮汕華僑的中國電影《給阿嬤的情書》為何大賣",
-      "fetched_at": "2026-06-19T10:10:34.786374+00:00"
-    },
-    "d9bf0c248260fe61": {
-      "title": "《嘆春風》與中國「男色經濟」：女性慾望如何變成一門生意？",
-      "fetched_at": "2026-06-19T10:10:35.358179+00:00"
-    },
-    "d8d74ad32b0d23bf": {
-      "title": "The Major Oak, Ancient Tree of Robin Hood Legend, Has Died",
-      "fetched_at": "2026-06-19T10:10:44.789973+00:00"
-    },
-    "70aeeaca7465fb5a": {
-      "title": "Black hole winds may be robbing giant galaxies of their future stars",
-      "fetched_at": "2026-06-19T10:10:45.353987+00:00"
-    },
     "51be381461efa80c": {
       "title": "Temporary Cloudflare Accounts for AI Agents",
       "fetched_at": "2026-06-19T14:39:23.722073+00:00"
@@ -3919,7 +3803,107 @@
     "98233291eac8e0d9": {
       "title": "Major errors found in Al Gore-founded Climate TRACE database",
       "fetched_at": "2026-06-27T08:25:00.769276+00:00"
+    },
+    "26b90531b7da80f8": {
+      "title": "BlueBookOS: An LLM microkernel and language for specifying apps",
+      "fetched_at": "2026-06-27T13:06:11.912279+00:00"
+    },
+    "7152838654f96d5e": {
+      "title": "Show HN: Nirnam – a browser-native message bus and AI agent framework for MFEs",
+      "fetched_at": "2026-06-27T13:06:12.481929+00:00"
+    },
+    "6860c75f143fc12d": {
+      "title": "Ask HN: Is there a quiet market for 'no enforced AI' dev jobs?",
+      "fetched_at": "2026-06-27T13:06:13.055202+00:00"
+    },
+    "d3ed37940d74ed95": {
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "fetched_at": "2026-06-27T13:06:13.626643+00:00"
+    },
+    "93ec9b57010c4785": {
+      "title": "Gnome AI Assistant Adds Image Generation Support",
+      "fetched_at": "2026-06-27T13:06:14.193387+00:00"
+    },
+    "3a5060a591f05146": {
+      "title": "India: Factory workers told to film themselves for AI/robot training",
+      "fetched_at": "2026-06-27T13:06:14.762270+00:00"
+    },
+    "2f8f6446b310bbc4": {
+      "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
+      "fetched_at": "2026-06-27T13:06:15.334492+00:00"
+    },
+    "322165a2e2ecd1b3": {
+      "title": "华为途灵平台完成3轮升级，覆盖鸿蒙智行五界",
+      "fetched_at": "2026-06-27T13:06:15.904477+00:00"
+    },
+    "59a39abefd4874d0": {
+      "title": "Everyone Will Have an AI Coding Agent",
+      "fetched_at": "2026-06-27T13:06:16.477500+00:00"
+    },
+    "ab3cfca8e44c37dc": {
+      "title": "How a New York race became the first front in the AI industry's midterm war",
+      "fetched_at": "2026-06-27T13:06:17.053755+00:00"
+    },
+    "6fd36b79cf545546": {
+      "title": "U.S. government restricts access to OpenAI's new AI model",
+      "fetched_at": "2026-06-27T13:06:17.706672+00:00"
+    },
+    "09cf49c96a2488a4": {
+      "title": "Show HN: PreFlight – A local AST background daemon to catch AI code drift",
+      "fetched_at": "2026-06-27T13:06:18.314638+00:00"
+    },
+    "d15c9e33d2fa34c7": {
+      "title": "Properties of AI",
+      "fetched_at": "2026-06-27T13:06:18.888207+00:00"
+    },
+    "8574f973b8a04150": {
+      "title": "AI data centers are supercharging a new battery market",
+      "fetched_at": "2026-06-27T13:06:19.455637+00:00"
+    },
+    "c9b7b1e244e3c6dc": {
+      "title": "Ask HN: How do we measure software in LLM era?",
+      "fetched_at": "2026-06-27T13:06:20.026120+00:00"
+    },
+    "0c642137f88b1d03": {
+      "title": "Ask HN: What GUI/desktop app do you use to keep track of different AI sessions?",
+      "fetched_at": "2026-06-27T13:06:20.592124+00:00"
+    },
+    "43d4b596cd789d93": {
+      "title": "A debugging story: Learning debugging principles from a production outage",
+      "fetched_at": "2026-06-27T13:06:21.159511+00:00"
+    },
+    "e9da18efe6174ee2": {
+      "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
+      "fetched_at": "2026-06-27T13:06:21.719678+00:00"
+    },
+    "992e2900a1cb77c1": {
+      "title": "具身世界模型“我悟”通过合规备案",
+      "fetched_at": "2026-06-27T13:06:22.284531+00:00"
+    },
+    "3b050d22d596f73c": {
+      "title": "兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例",
+      "fetched_at": "2026-06-27T13:06:22.866496+00:00"
+    },
+    "db7f3fd831300ed4": {
+      "title": "小型飛機撞上北京最高樓「中國尊」 官方時隔近一天後證實",
+      "fetched_at": "2026-06-27T13:06:24.920434+00:00"
+    },
+    "6aa9fe341339d375": {
+      "title": "Science news this week: Life on Mars, weird water and a curious human cousin",
+      "fetched_at": "2026-06-27T13:06:26.945759+00:00"
+    },
+    "1f83bb023cff2625": {
+      "title": "AI images are more convincing than ever — infiltrating journals and undermining trust in science",
+      "fetched_at": "2026-06-27T13:06:27.510810+00:00"
+    },
+    "eae97d16ef0ef70f": {
+      "title": "How did the Romans build such straight roads?",
+      "fetched_at": "2026-06-27T13:06:28.090817+00:00"
+    },
+    "be51a7439250cc88": {
+      "title": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why",
+      "fetched_at": "2026-06-27T13:06:28.659381+00:00"
     }
   },
-  "last_updated": "2026-06-27T08:25:00.913863+00:00"
+  "last_updated": "2026-06-27T13:06:28.808051+00:00"
 }
