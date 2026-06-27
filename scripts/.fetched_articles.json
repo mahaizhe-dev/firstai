@@ -1,129 +1,5 @@
 {
   "articles": {
-    "8b299c1d0f698fc4": {
-      "title": "Fine Tuning a Tiny Local LLM to Categorize Questions",
-      "fetched_at": "2026-06-18T20:08:22.569426+00:00"
-    },
-    "311da2c266c02fee": {
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "fetched_at": "2026-06-18T20:08:23.149796+00:00"
-    },
-    "8528f31798e758c3": {
-      "title": "Show HN: The AI App That Does the Work",
-      "fetched_at": "2026-06-18T20:08:23.726030+00:00"
-    },
-    "e528fd4776b0a077": {
-      "title": "Agentbrowse: Drive any website from the terminal, built for AI coding agents",
-      "fetched_at": "2026-06-18T20:08:24.302157+00:00"
-    },
-    "1000ad2045c1ac80": {
-      "title": "Ask HN: Languages in the Age of AI",
-      "fetched_at": "2026-06-18T20:08:24.881403+00:00"
-    },
-    "e05693d7592a4fba": {
-      "title": "Medical AI scores high on exams but stumbles on real patient care",
-      "fetched_at": "2026-06-18T20:08:25.474351+00:00"
-    },
-    "d962327fee5b3480": {
-      "title": "Show HN: In-Browser FAQ LLM",
-      "fetched_at": "2026-06-18T20:08:26.055308+00:00"
-    },
-    "3fa312c1f949ec10": {
-      "title": "Show HN: AI Commander – TeamViewer for AI Agents, No VPN or SSH",
-      "fetched_at": "2026-06-18T20:08:26.645271+00:00"
-    },
-    "57c64926ce1c7c2d": {
-      "title": "From Minutes to Seconds: LLM-Guided Autotuning for Helion Kernels",
-      "fetched_at": "2026-06-18T20:08:27.222816+00:00"
-    },
-    "3161b0a7c89fb969": {
-      "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
-      "fetched_at": "2026-06-18T20:08:27.787248+00:00"
-    },
-    "88bb0f46070b07f8": {
-      "title": "Machine Studying",
-      "fetched_at": "2026-06-18T20:08:28.366935+00:00"
-    },
-    "58176aba435191df": {
-      "title": "AI Regulation Should Be Rational, Not Retaliatory",
-      "fetched_at": "2026-06-18T20:08:28.954201+00:00"
-    },
-    "098f0e1177887251": {
-      "title": "AI digital sovereignty risk doesn't exist",
-      "fetched_at": "2026-06-18T20:08:29.530024+00:00"
-    },
-    "9a6210db85439e6a": {
-      "title": "The AI subsidy is ending, and waste is about to become a line item",
-      "fetched_at": "2026-06-18T20:08:30.118554+00:00"
-    },
-    "bc55aa0f625a6801": {
-      "title": "Physical AI lab automation investment thesis",
-      "fetched_at": "2026-06-18T20:08:30.701732+00:00"
-    },
-    "ae4dc439f3204297": {
-      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
-      "fetched_at": "2026-06-18T20:08:31.277030+00:00"
-    },
-    "c490af9b30a3bfa5": {
-      "title": "Show HN: A website to understand and study AI papers",
-      "fetched_at": "2026-06-18T20:08:31.862387+00:00"
-    },
-    "f9f62f887605a0c1": {
-      "title": "Show HN: Agirails – Two AI agents negotiated and settled USDC payment over email",
-      "fetched_at": "2026-06-18T20:08:32.437498+00:00"
-    },
-    "999c5b73d0167e6a": {
-      "title": "Prompt Library: Collection of prompts for developers to use with AI tools",
-      "fetched_at": "2026-06-18T20:08:33.090163+00:00"
-    },
-    "97e5cc382aba28e9": {
-      "title": "AI took my job as a translator. I'm starting over at 39 [video]",
-      "fetched_at": "2026-06-18T20:08:33.661569+00:00"
-    },
-    "00d9b71d4e367e2c": {
-      "title": "倫敦香港經貿辦案判刑：衛志樑監禁十年、袁松彪八年",
-      "fetched_at": "2026-06-18T20:08:36.894437+00:00"
-    },
-    "85df9570b72eb94b": {
-      "title": "Earliest Plague Outbreak Identified in Siberia",
-      "fetched_at": "2026-06-18T20:08:40.378572+00:00"
-    },
-    "806f39938e1df7c2": {
-      "title": "Wildlife inside Chernobyl exclusion zone acted differently during Russia's invasion, camera traps reveal",
-      "fetched_at": "2026-06-18T20:08:40.968356+00:00"
-    },
-    "33e1bc6f36f24ad5": {
-      "title": "300,000-Year-Old Cave Site Explored in Northern Israel",
-      "fetched_at": "2026-06-18T20:08:41.552571+00:00"
-    },
-    "96c5419e89002b6e": {
-      "title": "Large Roman Bathhouse Discovered in The Netherlands",
-      "fetched_at": "2026-06-18T20:08:42.138694+00:00"
-    },
-    "dd96955a699707c1": {
-      "title": "Ancient DNA is rewriting the history of plague",
-      "fetched_at": "2026-06-18T20:08:42.721756+00:00"
-    },
-    "cb601aa1a6744ad4": {
-      "title": "'Is it really necessary to generate another image?': UN scientist explains how everyday people can limit AI's environmental impact",
-      "fetched_at": "2026-06-18T20:08:43.313626+00:00"
-    },
-    "63d5f237adb83844": {
-      "title": "Rainforest quiz: Can you sort Earth's largest rainforests from biggest to smallest?",
-      "fetched_at": "2026-06-18T20:08:43.893218+00:00"
-    },
-    "f11a5cc0e288c574": {
-      "title": "Scientists discover an earthquake gate as California faults reach their highest stress levels in 1,000 years",
-      "fetched_at": "2026-06-18T20:08:44.470843+00:00"
-    },
-    "dc52ae986c9e0654": {
-      "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
-      "fetched_at": "2026-06-18T20:08:45.059561+00:00"
-    },
-    "98233291eac8e0d9": {
-      "title": "Major errors found in Al Gore-founded Climate TRACE database",
-      "fetched_at": "2026-06-18T20:08:45.638434+00:00"
-    },
     "84efc078e44383fb": {
       "title": "数说故事递表港交所",
       "fetched_at": "2026-06-19T02:51:04.687723+00:00"
@@ -3907,7 +3783,135 @@
     "539bb945ddbbf9de": {
       "title": "I built a global supplier discovery engine form raw materials to everything",
       "fetched_at": "2026-06-26T19:27:24.138427+00:00"
+    },
+    "2b8622b6a695a291": {
+      "title": "美联储官员卡什卡里称出现广泛通胀迹象，美联储或需加息",
+      "fetched_at": "2026-06-27T02:04:52.219982+00:00"
+    },
+    "2ead529b8677818f": {
+      "title": "国际油价26日显著下跌",
+      "fetched_at": "2026-06-27T02:04:52.857952+00:00"
+    },
+    "a8245cb470b63158": {
+      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+      "fetched_at": "2026-06-27T02:04:53.485499+00:00"
+    },
+    "f27ff22ecbf10842": {
+      "title": "AI Erodes a Legacy of Reading",
+      "fetched_at": "2026-06-27T02:04:54.098566+00:00"
+    },
+    "5669830025be61e6": {
+      "title": "美股三大指数收盘集体下跌，大型科技股涨跌不一",
+      "fetched_at": "2026-06-27T02:04:54.710511+00:00"
+    },
+    "afd866a77ea29295": {
+      "title": "Show HN: Boot a tiny app-making OS inside an AI chat",
+      "fetched_at": "2026-06-27T02:04:55.326927+00:00"
+    },
+    "385ef4af9743dc64": {
+      "title": "Enterprise AI customers pulling back from OpenAI and Anthropic as costs mount",
+      "fetched_at": "2026-06-27T02:04:55.936997+00:00"
+    },
+    "13fe1e09238b9e4f": {
+      "title": "Show HN: Tested – AI Tools Scored by a Panel of LLMs (Claude, GPT, Gemini, Grok)",
+      "fetched_at": "2026-06-27T02:04:56.568273+00:00"
+    },
+    "77bc9a56049bd877": {
+      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+      "fetched_at": "2026-06-27T02:04:57.216203+00:00"
+    },
+    "fec86cc2703c4e14": {
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "fetched_at": "2026-06-27T02:04:57.833709+00:00"
+    },
+    "99fb3eec849f7bab": {
+      "title": "The State of the AI Economy",
+      "fetched_at": "2026-06-27T02:04:58.528111+00:00"
+    },
+    "121bcda915a09dd3": {
+      "title": "The State of the AI Economy",
+      "fetched_at": "2026-06-27T02:04:58.528248+00:00"
+    },
+    "d3074e6224606edc": {
+      "title": "PrismLib – semantic LLM cache and cluster mesh that cuts token spend",
+      "fetched_at": "2026-06-27T02:04:59.149774+00:00"
+    },
+    "04466202f494f641": {
+      "title": "Anthropic&#8217;s Mythos 5 is back",
+      "fetched_at": "2026-06-27T02:04:59.773537+00:00"
+    },
+    "e7a9da20fd8762f0": {
+      "title": "Add MCP Apps to Your AI SDK Application",
+      "fetched_at": "2026-06-27T02:05:00.386718+00:00"
+    },
+    "637330080e39cfe7": {
+      "title": "AI Powered Photo Gallery Without the Cloud",
+      "fetched_at": "2026-06-27T02:05:01.010208+00:00"
+    },
+    "81c8b5e42750c8a5": {
+      "title": "I removed the vector database from my AI agent stack",
+      "fetched_at": "2026-06-27T02:05:01.633896+00:00"
+    },
+    "20de37c4125c64fe": {
+      "title": "With AI, researchers discover new way to detect sudden cardiac death risk",
+      "fetched_at": "2026-06-27T02:05:02.271006+00:00"
+    },
+    "3d0eb0ade73c4d7e": {
+      "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
+      "fetched_at": "2026-06-27T02:05:02.915755+00:00"
+    },
+    "b29f5cc2e6f17180": {
+      "title": "追赶FSD V14，理想在补哪些课？｜最前线",
+      "fetched_at": "2026-06-27T02:05:03.541006+00:00"
+    },
+    "510381472c0791ff": {
+      "title": "北京最高樓「中國尊」遭小型飛機撞擊",
+      "fetched_at": "2026-06-27T02:05:06.886189+00:00"
+    },
+    "39463a235912a23c": {
+      "title": "「昨安葬父親，今告別母親」：伊波拉疫下死者日增 改變守喪文化",
+      "fetched_at": "2026-06-27T02:05:07.509347+00:00"
+    },
+    "c44de76a37c2b8ec": {
+      "title": "Scientists stunned by signs of ancient life in a place no one expected",
+      "fetched_at": "2026-06-27T02:05:09.730719+00:00"
+    },
+    "4015f898d0e2a764": {
+      "title": "Butter and margarine look similar but their chemistry changes everything",
+      "fetched_at": "2026-06-27T02:05:10.390366+00:00"
+    },
+    "4f49c15d8e5e2ff6": {
+      "title": "From pet to pest, goldfish can wreck entire ecosystems",
+      "fetched_at": "2026-06-27T02:05:11.017201+00:00"
+    },
+    "ebf775b58f777ae6": {
+      "title": "Researchers discover why fructose doesn't satisfy hunger like glucose",
+      "fetched_at": "2026-06-27T02:05:11.649552+00:00"
+    },
+    "e076e655e9f4f22a": {
+      "title": "A “ghost” great white shark just reignited a 160-year Mediterranean mystery",
+      "fetched_at": "2026-06-27T02:05:12.283546+00:00"
+    },
+    "9c16a5e81267091b": {
+      "title": "This newly discovered ballista spider catapults ants into a deadly trap",
+      "fetched_at": "2026-06-27T02:05:12.902047+00:00"
+    },
+    "f88354c19bafcb01": {
+      "title": "Earth may have been seeding Venus with life for billions of years",
+      "fetched_at": "2026-06-27T02:05:13.521784+00:00"
+    },
+    "262d5cc0b2856c50": {
+      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
+      "fetched_at": "2026-06-27T02:05:14.137824+00:00"
+    },
+    "63f0240b704c8b5d": {
+      "title": "Could cosmic memory explain dark matter, dark energy, and black holes?",
+      "fetched_at": "2026-06-27T02:05:14.755765+00:00"
+    },
+    "6767be6a6c71d051": {
+      "title": "5,000-year-old 'prototype' Stonehenge aligning with solstices discovered near the famous Stone Age monument",
+      "fetched_at": "2026-06-27T02:05:15.384723+00:00"
     }
   },
-  "last_updated": "2026-06-26T19:27:24.286371+00:00"
+  "last_updated": "2026-06-27T02:05:15.525706+00:00"
 }
