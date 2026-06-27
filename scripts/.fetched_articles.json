@@ -1,145 +1,5 @@
 {
   "articles": {
-    "51be381461efa80c": {
-      "title": "Temporary Cloudflare Accounts for AI Agents",
-      "fetched_at": "2026-06-19T14:39:23.722073+00:00"
-    },
-    "4eb93b616ef5bd56": {
-      "title": "Banning Open Source AI Would Be a Mistake",
-      "fetched_at": "2026-06-19T14:39:24.376484+00:00"
-    },
-    "8054c3838d02e475": {
-      "title": "Annihilation as a lens on what AI does to cognition",
-      "fetched_at": "2026-06-19T14:39:24.978604+00:00"
-    },
-    "a5ae3e38f489e8b8": {
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "fetched_at": "2026-06-19T14:39:25.585397+00:00"
-    },
-    "f8d1900558336857": {
-      "title": "Don't feel like a developer anymore after AI",
-      "fetched_at": "2026-06-19T14:39:26.186588+00:00"
-    },
-    "0207307bc5f23d40": {
-      "title": "AI agents are a confused deputy with the keys to your kingdom",
-      "fetched_at": "2026-06-19T14:39:26.789740+00:00"
-    },
-    "97ff3677ad6bb1d6": {
-      "title": "CrankGPT - a fully offline, off-the-grid AI box",
-      "fetched_at": "2026-06-19T14:39:27.395273+00:00"
-    },
-    "0dc734a80b45c691": {
-      "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
-      "fetched_at": "2026-06-19T14:39:28.002648+00:00"
-    },
-    "b9cb05019e7fee1f": {
-      "title": "Scaling a content agency using AI – 2 ppl managing 20 accounts now",
-      "fetched_at": "2026-06-19T14:39:28.604988+00:00"
-    },
-    "914dc47adb29e728": {
-      "title": "Why the Human Genome's Tangled Physicality May Confound AI",
-      "fetched_at": "2026-06-19T14:39:29.191289+00:00"
-    },
-    "cc809618ad9d0867": {
-      "title": "Ask HN: Can Monte Carlo Tree Search Improve AI Outputs?",
-      "fetched_at": "2026-06-19T14:39:29.788621+00:00"
-    },
-    "f9f14c75c49c5159": {
-      "title": "Sashiko: AI code review system for the Linux kernel",
-      "fetched_at": "2026-06-19T14:39:30.387704+00:00"
-    },
-    "ec87bd24aceea563": {
-      "title": "Show HN: Wyolet Relay – high throughput, open source LLM router",
-      "fetched_at": "2026-06-19T14:39:30.989321+00:00"
-    },
-    "0ce2c9a8c3473719": {
-      "title": "I had an AI grade five real pitch decks as they stood the day they were sent",
-      "fetched_at": "2026-06-19T14:39:31.579329+00:00"
-    },
-    "0f537170741bc94f": {
-      "title": "Matrix Scroll – sign AI-generated code changes with Ed25519",
-      "fetched_at": "2026-06-19T14:39:32.172471+00:00"
-    },
-    "14503c7dd4bba88e": {
-      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-      "fetched_at": "2026-06-19T14:39:32.812526+00:00"
-    },
-    "504a39010364d1e4": {
-      "title": "Does your mom use AI?",
-      "fetched_at": "2026-06-19T14:39:33.442075+00:00"
-    },
-    "b2c4832567dc1c15": {
-      "title": "Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs",
-      "fetched_at": "2026-06-19T14:39:34.053916+00:00"
-    },
-    "027c438225386c83": {
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
-      "fetched_at": "2026-06-19T14:39:34.653220+00:00"
-    },
-    "e7c3937cc0db94e9": {
-      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-      "fetched_at": "2026-06-19T14:39:35.277601+00:00"
-    },
-    "751d27c312e9210b": {
-      "title": "英國首相競逐蓄勢待發 「北部王」貝安德其人其事",
-      "fetched_at": "2026-06-19T14:39:37.976763+00:00"
-    },
-    "5abece1e84150af3": {
-      "title": "中國「後地產時代」：地方政府從「賣地」到「做股東」的轉型成功了嗎？",
-      "fetched_at": "2026-06-19T14:39:38.581794+00:00"
-    },
-    "cbcb278885fddaf1": {
-      "title": "經濟制裁、西方代表迴避：國際論壇現場的俄羅斯經濟挑戰",
-      "fetched_at": "2026-06-19T14:39:39.175404+00:00"
-    },
-    "3cd72bf40a0cd381": {
-      "title": "伊朗—美國和平協議影響你財務的五種可能",
-      "fetched_at": "2026-06-19T14:39:39.770805+00:00"
-    },
-    "5f5fa62365be98f0": {
-      "title": "香港籃球教練體罰爭議 前學員打破沉默",
-      "fetched_at": "2026-06-19T14:39:40.353776+00:00"
-    },
-    "c20706318a41d252": {
-      "title": "伊朗與美國難以維持停火的四大原因",
-      "fetched_at": "2026-06-19T14:39:40.959220+00:00"
-    },
-    "82e7c68a5e104f75": {
-      "title": "Estrogen levels in both the male and female brain may shape memory's resilience in face of stress",
-      "fetched_at": "2026-06-19T14:39:42.844659+00:00"
-    },
-    "59a2810f6c32834b": {
-      "title": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim",
-      "fetched_at": "2026-06-19T14:39:43.451932+00:00"
-    },
-    "4629d78ac0047a47": {
-      "title": "Scientists expected a black hole but found a neutrino factory powered by stars",
-      "fetched_at": "2026-06-19T14:39:44.053452+00:00"
-    },
-    "5b7372f989273b34": {
-      "title": "Researchers found a Wordle strategy that wins 99% of the time",
-      "fetched_at": "2026-06-19T14:39:44.651557+00:00"
-    },
-    "1fd1be14eacbfcbb": {
-      "title": "Scientists reprogram brain immune cells to fight Alzheimer’s",
-      "fetched_at": "2026-06-19T14:39:45.257578+00:00"
-    },
-    "dfe9de676cabff79": {
-      "title": "Einstein’s “biggest blunder” may finally have an explanation",
-      "fetched_at": "2026-06-19T14:39:45.871538+00:00"
-    },
-    "d6e8a3fae9e7b81f": {
-      "title": "This giant tropical fruit could help reverse gum disease damage",
-      "fetched_at": "2026-06-19T14:39:46.477991+00:00"
-    },
-    "b8fa77761bc99153": {
-      "title": "DNA time stamps reveal the strawberry’s surprising origins",
-      "fetched_at": "2026-06-19T14:39:47.082550+00:00"
-    },
-    "454a9a4deb611f2e": {
-      "title": "Scientists propose a radical new theory for how life began on Earth",
-      "fetched_at": "2026-06-19T14:39:47.682861+00:00"
-    },
     "c4e411c87ea752d7": {
       "title": "Pipeline-parallel LLM inference across GPUs on separate machines",
       "fetched_at": "2026-06-19T19:23:26.549809+00:00"
@@ -3903,7 +3763,119 @@
     "be51a7439250cc88": {
       "title": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why",
       "fetched_at": "2026-06-27T13:06:28.659381+00:00"
+    },
+    "ffbb370b50d05d48": {
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "fetched_at": "2026-06-27T19:02:07.850404+00:00"
+    },
+    "df19a9bbcb932afc": {
+      "title": "Riskratchet: Stop AI-generated code from rotting your codebase",
+      "fetched_at": "2026-06-27T19:02:08.468268+00:00"
+    },
+    "4c80a3c71bffb9ba": {
+      "title": "Show HN: OpenOrb – I built a transparent multi-agent AI tool",
+      "fetched_at": "2026-06-27T19:02:09.086081+00:00"
+    },
+    "ef67a3825747752f": {
+      "title": "Koreeda's 'Sheep in the Box': The ethics of AI resurrection in film",
+      "fetched_at": "2026-06-27T19:02:09.706706+00:00"
+    },
+    "78a693826bf6a5db": {
+      "title": "Department of Machine Verification",
+      "fetched_at": "2026-06-27T19:02:10.388611+00:00"
+    },
+    "5705243b0f7e8010": {
+      "title": "Chinese Hedge Funds Warn the AI 'Super Bubble' Is Ready to Burst",
+      "fetched_at": "2026-06-27T19:02:11.003505+00:00"
+    },
+    "39accda8d1c94f8f": {
+      "title": "Napster is now \"AI agents you can see, talk to, and create with.\"",
+      "fetched_at": "2026-06-27T19:02:11.622170+00:00"
+    },
+    "51d980ef592f0cd0": {
+      "title": "Show HN: Humans Constructively Roasting AI Coded B2B SaaS",
+      "fetched_at": "2026-06-27T19:02:12.235550+00:00"
+    },
+    "c6e3af8999f1b6f6": {
+      "title": "Clean GitHub repo tricks AI coding agents into running malware",
+      "fetched_at": "2026-06-27T19:02:12.854816+00:00"
+    },
+    "1ea5325d06b375a4": {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "fetched_at": "2026-06-27T19:02:13.474302+00:00"
+    },
+    "ff5b6f4408da3c3b": {
+      "title": "AI-Powered Public Comments Are Entering US Climate Politics",
+      "fetched_at": "2026-06-27T19:02:14.078533+00:00"
+    },
+    "5891c3d85a63532d": {
+      "title": "NASA tests AI medic for astronauts too far from Earth to call a doctor",
+      "fetched_at": "2026-06-27T19:02:14.688713+00:00"
+    },
+    "47b16c671c11e088": {
+      "title": "Australian rescue team uses AI-powered drone to find lost hikers [video]",
+      "fetched_at": "2026-06-27T19:02:15.313905+00:00"
+    },
+    "33d6318deb4801f5": {
+      "title": "Native Hacker News TUI client with AI comments summary written in Golang",
+      "fetched_at": "2026-06-27T19:02:15.941710+00:00"
+    },
+    "ac057ea937b25e60": {
+      "title": "The PM's Guide to Managing AI Debt",
+      "fetched_at": "2026-06-27T19:02:16.563312+00:00"
+    },
+    "15943d841abe0e6d": {
+      "title": "Show HN: Ocarina – Automate and test MCP servers from YAML, no LLM",
+      "fetched_at": "2026-06-27T19:02:17.185347+00:00"
+    },
+    "2faaeeaa3f505f37": {
+      "title": "Distributed LLM Inference with LLM-d",
+      "fetched_at": "2026-06-27T19:02:17.807934+00:00"
+    },
+    "af21235b92bb0652": {
+      "title": "Show HN: AI-whisper – Claude works better when Codex watches its back",
+      "fetched_at": "2026-06-27T19:02:18.429096+00:00"
+    },
+    "81b59b1f01d6e8f8": {
+      "title": "Show HN: Apex-1-flash, 4B LLM finetuned on RTX 5070",
+      "fetched_at": "2026-06-27T19:02:19.045340+00:00"
+    },
+    "a7033c83bbbe98c7": {
+      "title": "AI: The Falsity of Comparison",
+      "fetched_at": "2026-06-27T19:02:19.723477+00:00"
+    },
+    "bbb57940222cd1df": {
+      "title": "「他把單點菜單藏了起來」：誰應該為第一次約會付錢？",
+      "fetched_at": "2026-06-27T19:02:21.866355+00:00"
+    },
+    "6fb69403117d5365": {
+      "title": "一部描繪潮汕華僑的中國電影《給阿嬤的情書》為何大賣",
+      "fetched_at": "2026-06-27T19:02:22.487200+00:00"
+    },
+    "f47e5701cf214f6d": {
+      "title": "Climate change is driving capuchin monkey mothers to abandon their infants",
+      "fetched_at": "2026-06-27T19:02:32.969395+00:00"
+    },
+    "9a1306190548deaf": {
+      "title": "Scientists discover what triggers belly fat as we age",
+      "fetched_at": "2026-06-27T19:02:33.590689+00:00"
+    },
+    "13a4a192780e8380": {
+      "title": "'The Romans were probably never going to go away': In new 'Almost History' podcast, listen to how history might have played out if Carthage had defeated the Roman Republic",
+      "fetched_at": "2026-06-27T19:02:34.205978+00:00"
+    },
+    "10cc4438f36321d2": {
+      "title": "A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory",
+      "fetched_at": "2026-06-27T19:02:34.819289+00:00"
+    },
+    "4b57dcdb2847cff7": {
+      "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+      "fetched_at": "2026-06-27T19:02:35.437838+00:00"
+    },
+    "70aeeaca7465fb5a": {
+      "title": "Black hole winds may be robbing giant galaxies of their future stars",
+      "fetched_at": "2026-06-27T19:02:36.139861+00:00"
     }
   },
-  "last_updated": "2026-06-27T13:06:28.808051+00:00"
+  "last_updated": "2026-06-27T19:02:36.290133+00:00"
 }
