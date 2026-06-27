@@ -1,101 +1,5 @@
 {
   "articles": {
-    "84efc078e44383fb": {
-      "title": "数说故事递表港交所",
-      "fetched_at": "2026-06-19T02:51:04.687723+00:00"
-    },
-    "5246e26a76d13010": {
-      "title": "SK集团称去年创造社会价值32.2万亿韩元",
-      "fetched_at": "2026-06-19T02:51:05.253156+00:00"
-    },
-    "5d0d39011d84572c": {
-      "title": "广州知易生物科技递表港交所",
-      "fetched_at": "2026-06-19T02:51:05.823836+00:00"
-    },
-    "fc86db81459f4a1a": {
-      "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
-      "fetched_at": "2026-06-19T02:51:06.398793+00:00"
-    },
-    "0e86056e8b2ba601": {
-      "title": "日本5月核心通胀率持稳于1.4%，符合预期",
-      "fetched_at": "2026-06-19T02:51:06.985692+00:00"
-    },
-    "6910b326848be4ce": {
-      "title": "Tutorial: Python MCP Internal API > LLM",
-      "fetched_at": "2026-06-19T02:51:07.550155+00:00"
-    },
-    "375c2bbb68ab5557": {
-      "title": "石药创新再度递表港交所",
-      "fetched_at": "2026-06-19T02:51:08.118945+00:00"
-    },
-    "37a9e07d28323372": {
-      "title": "A modest proposal: Reformat everything to make documents more palatable to AI",
-      "fetched_at": "2026-06-19T02:51:08.687552+00:00"
-    },
-    "98abe7d3cbcfd7cd": {
-      "title": "瑞典呼吁禁止特斯拉FSD在欧盟范围内落地，除非其禁用超速功能",
-      "fetched_at": "2026-06-19T02:51:09.261053+00:00"
-    },
-    "c49fce95b5a61be4": {
-      "title": "Ask HN: Multi-LLM orchestration frameworks that collaborate?",
-      "fetched_at": "2026-06-19T02:51:09.828335+00:00"
-    },
-    "f42b248ae5c030fb": {
-      "title": "亚马逊拟向第三方数据中心销售AI芯片",
-      "fetched_at": "2026-06-19T02:51:10.390968+00:00"
-    },
-    "cbd381a68c72f44f": {
-      "title": "AI has granted America new power",
-      "fetched_at": "2026-06-19T02:51:10.966834+00:00"
-    },
-    "3cdf1c31f63f558a": {
-      "title": "From Dream Job to 'The Gulag': Inside Staff Revolt Zuckerberg's Brutal AI Push",
-      "fetched_at": "2026-06-19T02:51:11.536731+00:00"
-    },
-    "45cbc13aba8c1594": {
-      "title": "日本央行审议委员：将根据经济和通胀情况继续加息",
-      "fetched_at": "2026-06-19T02:51:12.100930+00:00"
-    },
-    "3395bcd9433b4407": {
-      "title": "Meta's AI agent for WhatsApp Business is now available globally",
-      "fetched_at": "2026-06-19T02:51:12.675274+00:00"
-    },
-    "2c7dc68ac017af60": {
-      "title": "现代汽车集团拟将波士顿动力转为全资子公司",
-      "fetched_at": "2026-06-19T02:51:13.236702+00:00"
-    },
-    "bf73ff024fe9a551": {
-      "title": "Observation is the layer under taste. We built it for AI runtime",
-      "fetched_at": "2026-06-19T02:51:13.800379+00:00"
-    },
-    "b56caa6a04e54955": {
-      "title": "美股三大指数集体收涨，SpaceX跌超3%",
-      "fetched_at": "2026-06-19T02:51:14.364907+00:00"
-    },
-    "5fb70fc50c4e6a07": {
-      "title": "AI Governance Cannot Be a Tool Call",
-      "fetched_at": "2026-06-19T02:51:14.933599+00:00"
-    },
-    "af9802b92c33112d": {
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "fetched_at": "2026-06-19T02:51:15.499044+00:00"
-    },
-    "7a82f4ea86efa9a2": {
-      "title": "The ancient book of wisdom at the heart of every computer (2014)",
-      "fetched_at": "2026-06-19T02:51:20.474334+00:00"
-    },
-    "5f19eafa858281c4": {
-      "title": "Ancient DNA provides evidence of earliest known plague outbreak",
-      "fetched_at": "2026-06-19T02:51:21.058816+00:00"
-    },
-    "be51a7439250cc88": {
-      "title": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why",
-      "fetched_at": "2026-06-19T02:51:21.634742+00:00"
-    },
-    "1a7b363c8125cb08": {
-      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-      "fetched_at": "2026-06-19T02:51:22.207538+00:00"
-    },
     "b37b49f574116ef5": {
       "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
       "fetched_at": "2026-06-19T10:10:18.787157+00:00"
@@ -3911,7 +3815,111 @@
     "6767be6a6c71d051": {
       "title": "5,000-year-old 'prototype' Stonehenge aligning with solstices discovered near the famous Stone Age monument",
       "fetched_at": "2026-06-27T02:05:15.384723+00:00"
+    },
+    "6b4eb8a02fa0d59a": {
+      "title": "超16亿元，烽火通信旗下长江计算中标中国电信高性能服务器集中采购项目",
+      "fetched_at": "2026-06-27T08:24:42.292661+00:00"
+    },
+    "b9edb1958f61b141": {
+      "title": "Show HN: Brytlog – AI logger",
+      "fetched_at": "2026-06-27T08:24:42.858345+00:00"
+    },
+    "3ed6dbad03fbb049": {
+      "title": "超级牛散章建平新动向，大举减仓江淮汽车",
+      "fetched_at": "2026-06-27T08:24:43.441008+00:00"
+    },
+    "22b78cfc970813cc": {
+      "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
+      "fetched_at": "2026-06-27T08:24:44.032036+00:00"
+    },
+    "87c48d2fdec45858": {
+      "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
+      "fetched_at": "2026-06-27T08:24:44.638088+00:00"
+    },
+    "79438d2e547e05c8": {
+      "title": "美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查",
+      "fetched_at": "2026-06-27T08:24:45.231125+00:00"
+    },
+    "00f285b02520581e": {
+      "title": "The Calculator Discipline – AI-Assisted Disclosure Hallucinations",
+      "fetched_at": "2026-06-27T08:24:45.801566+00:00"
+    },
+    "d2c9e9000aa60be1": {
+      "title": "马斯克获FTC批准收购前SpaceX工程师创立的光模块初创公司Mesh",
+      "fetched_at": "2026-06-27T08:24:46.367330+00:00"
+    },
+    "a8e2068a94145213": {
+      "title": "今年港股首发募资前十大IPO名单中，A+H企业独占8席",
+      "fetched_at": "2026-06-27T08:24:46.935291+00:00"
+    },
+    "489d80f652e6c758": {
+      "title": "楼市复苏信号？多城核心地块高溢价成交：房企扎堆抢夺，持续刷新当地纪录",
+      "fetched_at": "2026-06-27T08:24:47.506093+00:00"
+    },
+    "76b4047f3d0b72f7": {
+      "title": "高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力",
+      "fetched_at": "2026-06-27T08:24:48.066728+00:00"
+    },
+    "2f711a39b6401788": {
+      "title": "电影《四渡》总票房破5000万",
+      "fetched_at": "2026-06-27T08:24:48.640014+00:00"
+    },
+    "48c108c08132656a": {
+      "title": "NLNet Labs LLM Policy",
+      "fetched_at": "2026-06-27T08:24:49.218903+00:00"
+    },
+    "c95dd4f8cba5b41f": {
+      "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+      "fetched_at": "2026-06-27T08:24:49.827666+00:00"
+    },
+    "bcf42341a883e7b6": {
+      "title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
+      "fetched_at": "2026-06-27T08:24:50.401463+00:00"
+    },
+    "992e9add2f4dcf13": {
+      "title": "WPS回应C盘占用问题：将上线磁盘存储管理功能",
+      "fetched_at": "2026-06-27T08:24:50.976274+00:00"
+    },
+    "0610b6a0df0015c4": {
+      "title": "There's Been a Subtle Shift in the AI Zeitgeist",
+      "fetched_at": "2026-06-27T08:24:51.553292+00:00"
+    },
+    "d02778f570fbe684": {
+      "title": "Tug: An IDE for AI Coding",
+      "fetched_at": "2026-06-27T08:24:52.121800+00:00"
+    },
+    "f3d2c390b39270d3": {
+      "title": "Why SpaceX Is the McDonald's of AI",
+      "fetched_at": "2026-06-27T08:24:52.687621+00:00"
+    },
+    "71346dd08c921144": {
+      "title": "Democrats and Republicans agree: AI is scary",
+      "fetched_at": "2026-06-27T08:24:53.260438+00:00"
+    },
+    "806f39938e1df7c2": {
+      "title": "Wildlife inside Chernobyl exclusion zone acted differently during Russia's invasion, camera traps reveal",
+      "fetched_at": "2026-06-27T08:24:57.916431+00:00"
+    },
+    "cb601aa1a6744ad4": {
+      "title": "'Is it really necessary to generate another image?': UN scientist explains how everyday people can limit AI's environmental impact",
+      "fetched_at": "2026-06-27T08:24:58.478246+00:00"
+    },
+    "63d5f237adb83844": {
+      "title": "Rainforest quiz: Can you sort Earth's largest rainforests from biggest to smallest?",
+      "fetched_at": "2026-06-27T08:24:59.058398+00:00"
+    },
+    "f11a5cc0e288c574": {
+      "title": "Scientists discover an earthquake gate as California faults reach their highest stress levels in 1,000 years",
+      "fetched_at": "2026-06-27T08:24:59.627942+00:00"
+    },
+    "dc52ae986c9e0654": {
+      "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
+      "fetched_at": "2026-06-27T08:25:00.198374+00:00"
+    },
+    "98233291eac8e0d9": {
+      "title": "Major errors found in Al Gore-founded Climate TRACE database",
+      "fetched_at": "2026-06-27T08:25:00.769276+00:00"
     }
   },
-  "last_updated": "2026-06-27T02:05:15.525706+00:00"
+  "last_updated": "2026-06-27T08:25:00.913863+00:00"
 }
