@@ -1,57 +1,5 @@
 {
   "articles": {
-    "fdeae3ff83443b22": {
-      "title": "上交所拟完善股票期权组合策略业务，推出单边平仓功能",
-      "fetched_at": "2026-06-20T08:38:42.204153+00:00"
-    },
-    "0e2adb6a672e6c30": {
-      "title": "Show HN: StayUp – keep a Mac awake (lid closed) while AI agents are working",
-      "fetched_at": "2026-06-20T08:38:42.854277+00:00"
-    },
-    "704e8c43859d773c": {
-      "title": "英国拟强制Meta、YouTube等平台推送更多本地新闻内容",
-      "fetched_at": "2026-06-20T08:38:43.469864+00:00"
-    },
-    "82bbeb953f2062f6": {
-      "title": "曹德旺谈内卷：我从来不怕竞争，优秀的企业需要强有力的对手",
-      "fetched_at": "2026-06-20T08:38:44.093480+00:00"
-    },
-    "56e18f5570ebcc2f": {
-      "title": "Ask HN: Will we start seeing tools for LLM use?",
-      "fetched_at": "2026-06-20T08:38:44.701155+00:00"
-    },
-    "8a50353aa8167d3c": {
-      "title": "Federal regulators order grid operators speed power2energy-hungry AI datacenters",
-      "fetched_at": "2026-06-20T08:38:45.346755+00:00"
-    },
-    "1ad0ed66efd82929": {
-      "title": "晋江文学城就部分用户充值未到账致歉：已全部处理完毕",
-      "fetched_at": "2026-06-20T08:38:45.957834+00:00"
-    },
-    "8522724a94600c7d": {
-      "title": "Show HN: A Context Brain for You (and Your AI Agent)",
-      "fetched_at": "2026-06-20T08:38:46.576864+00:00"
-    },
-    "886dbd104234be81": {
-      "title": "Show HN: Autonomy – Self-Harness/Self-Directed AI Agent Core Under Development",
-      "fetched_at": "2026-06-20T08:38:47.195618+00:00"
-    },
-    "20f1412758d7d596": {
-      "title": "端午假期首日 港珠澳大桥珠海公路口岸迎来出入境客流车流高峰",
-      "fetched_at": "2026-06-20T08:38:47.821650+00:00"
-    },
-    "69adb26809ad3cce": {
-      "title": "I created an open source app to check if a photo is from an AI or a Camera",
-      "fetched_at": "2026-06-20T08:38:48.449633+00:00"
-    },
-    "ea3c747e63375ee7": {
-      "title": "The discovery that changed how scientists think about memory",
-      "fetched_at": "2026-06-20T08:39:06.283500+00:00"
-    },
-    "0f31c83cfa8428c9": {
-      "title": "Earth's underground fungal network is so massive, it would span 10% of the Milky Way, map reveals",
-      "fetched_at": "2026-06-20T08:39:06.922623+00:00"
-    },
     "99bbf2f07531e6d3": {
       "title": "Anthropic build AI so safe the Gov made them delete it (YouTube) – Patrick Boyle",
       "fetched_at": "2026-06-20T13:24:30.220514+00:00"
@@ -3855,7 +3803,107 @@
     "56a66d58194259b6": {
       "title": "Watch bison herd defend a newborn calf from wolf attack in a primeval Polish forest",
       "fetched_at": "2026-06-28T08:38:41.886802+00:00"
+    },
+    "ba42e678ba9bb932": {
+      "title": "Revenue at Risk from AI Displacement",
+      "fetched_at": "2026-06-28T13:12:21.161867+00:00"
+    },
+    "e73c61b0cef7f1ad": {
+      "title": "After the AI Hype – What's Real, and What's Next – Richard Campbell – 2026",
+      "fetched_at": "2026-06-28T13:12:21.789723+00:00"
+    },
+    "73493034770fd587": {
+      "title": "Guy in his basement creates a drug to treat Alzheimer's disease using AI",
+      "fetched_at": "2026-06-28T13:12:22.425121+00:00"
+    },
+    "af57855282814ba8": {
+      "title": "Nearly Three-Quarters of Dutch Responses to EU Tobacco Rules Were AI-Generated",
+      "fetched_at": "2026-06-28T13:12:23.037637+00:00"
+    },
+    "e5f1e7cc9ea9878e": {
+      "title": "Show HN: Genius AI Detector",
+      "fetched_at": "2026-06-28T13:12:23.664789+00:00"
+    },
+    "99d141630f179f56": {
+      "title": "Pelican playing a violin. How to create SVGs with AI",
+      "fetched_at": "2026-06-28T13:12:24.287216+00:00"
+    },
+    "1df3b22076a3b7b1": {
+      "title": "Cate Blanchett is taking on AI",
+      "fetched_at": "2026-06-28T13:12:24.911449+00:00"
+    },
+    "199b1a1468df0052": {
+      "title": "Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement",
+      "fetched_at": "2026-06-28T13:12:25.548316+00:00"
+    },
+    "0da642e97dc7592d": {
+      "title": "The Donk-Ing of a Truth Machine",
+      "fetched_at": "2026-06-28T13:12:26.173863+00:00"
+    },
+    "20eab3bfee284b47": {
+      "title": "GPT-5.6 family added to codex",
+      "fetched_at": "2026-06-28T13:12:26.805898+00:00"
+    },
+    "6dc03f1c62beb844": {
+      "title": "YC AI Investment Trends 2026: Where the US AI Market Is Heading",
+      "fetched_at": "2026-06-28T13:12:27.444477+00:00"
+    },
+    "4337c0df7a054fc4": {
+      "title": "Show HN: role-model, a router for hybrid local/cloud AI",
+      "fetched_at": "2026-06-28T13:12:28.095221+00:00"
+    },
+    "81c7de6bf15adbe0": {
+      "title": "Cambium AI",
+      "fetched_at": "2026-06-28T13:12:28.730271+00:00"
+    },
+    "405377180caf403c": {
+      "title": "汽车安全迎来新标准 汽车侧面碰撞迎20年最严标准升级",
+      "fetched_at": "2026-06-28T13:12:29.361287+00:00"
+    },
+    "a1dc55ffeb04273b": {
+      "title": "立新能源：2026年公司新增风电装机规模250万千瓦",
+      "fetched_at": "2026-06-28T13:12:29.986009+00:00"
+    },
+    "bfa1ccb3ab7885c7": {
+      "title": "Software Taste vs. Slop in the Age of AI – TWSoftwareDev26",
+      "fetched_at": "2026-06-28T13:12:30.685785+00:00"
+    },
+    "725e77f69951ddf8": {
+      "title": "登云股份：参股公司采矿许可证到期及3000万元银行借款逾期",
+      "fetched_at": "2026-06-28T13:12:31.301062+00:00"
+    },
+    "92cbbe00b1449107": {
+      "title": "Tiny LLM Benchmark: Jetson Orin Nano Super 8GB",
+      "fetched_at": "2026-06-28T13:12:31.925744+00:00"
+    },
+    "9696e313e4779c1d": {
+      "title": "飞龙股份：控股股东及其一致行动人拟减持公司不超1.8078%股份",
+      "fetched_at": "2026-06-28T13:12:32.557859+00:00"
+    },
+    "c401c683f56e901f": {
+      "title": "If You Can Facilitate a Retrospective, You Can Audit Your AI",
+      "fetched_at": "2026-06-28T13:12:33.184711+00:00"
+    },
+    "4b1e27333ac0a740": {
+      "title": "「中國尊」撞機事件背後的三大疑點：禁區、動機、飛行員",
+      "fetched_at": "2026-06-28T13:12:35.293832+00:00"
+    },
+    "9b3972a5c9f30a10": {
+      "title": "Computer scientists are rushing to tame tame AI's voracious appetite for energy",
+      "fetched_at": "2026-06-28T13:12:38.680311+00:00"
+    },
+    "5f0b8769d9da1094": {
+      "title": "Rise in cancer in younger adults may be explained by faster 'biological aging,' early study hints",
+      "fetched_at": "2026-06-28T13:12:39.302696+00:00"
+    },
+    "5487f56bd3668fa7": {
+      "title": "Bullseye! Enormous 'bow and arrow' galaxy is unlike anything radio astronomers have ever seen — Space photo of the week",
+      "fetched_at": "2026-06-28T13:12:40.009474+00:00"
+    },
+    "ddc42dce8f5f7949": {
+      "title": "Why does metal stick together in space?",
+      "fetched_at": "2026-06-28T13:12:40.720474+00:00"
     }
   },
-  "last_updated": "2026-06-28T08:38:42.028921+00:00"
+  "last_updated": "2026-06-28T13:12:40.827551+00:00"
 }
