@@ -1,41 +1,5 @@
 {
   "articles": {
-    "83f7f403a3e9ecc3": {
-      "title": "Getting Back to Basics by Abusing AI",
-      "fetched_at": "2026-06-20T08:38:36.582237+00:00"
-    },
-    "86257e0574ec0296": {
-      "title": "马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利 获得了3.04亿股股票",
-      "fetched_at": "2026-06-20T08:38:37.208806+00:00"
-    },
-    "2b6528a53ece3ec8": {
-      "title": "Jeff Bezos says human water consumption is limiting AI's potential",
-      "fetched_at": "2026-06-20T08:38:37.827571+00:00"
-    },
-    "e9f9d1be25c94590": {
-      "title": "张雪称自己创业时比李书福幸福",
-      "fetched_at": "2026-06-20T08:38:38.455295+00:00"
-    },
-    "1f520f6681d80bf0": {
-      "title": "Google, Microsoft offer specs to help you prove your AI is behaving nicely",
-      "fetched_at": "2026-06-20T08:38:39.076623+00:00"
-    },
-    "bb45633e59a4e772": {
-      "title": "Logslim – compact test/build output before your AI agent reads it",
-      "fetched_at": "2026-06-20T08:38:39.697093+00:00"
-    },
-    "716cfcef65e61f5a": {
-      "title": "\"Career coaches\" are fear-farming the Stanford AI hiring study [debunk]",
-      "fetched_at": "2026-06-20T08:38:40.329487+00:00"
-    },
-    "7c70f69dc7731811": {
-      "title": "6月20日全国铁路预计发送旅客1224万人次",
-      "fetched_at": "2026-06-20T08:38:40.940641+00:00"
-    },
-    "f8ddf7686c17d347": {
-      "title": "Interactional foundations for critical AI literacies",
-      "fetched_at": "2026-06-20T08:38:41.568144+00:00"
-    },
     "fdeae3ff83443b22": {
       "title": "上交所拟完善股票期权组合策略业务，推出单边平仓功能",
       "fetched_at": "2026-06-20T08:38:42.204153+00:00"
@@ -3783,7 +3747,115 @@
     "b8fa77761bc99153": {
       "title": "DNA time stamps reveal the strawberry’s surprising origins",
       "fetched_at": "2026-06-28T02:15:46.818827+00:00"
+    },
+    "a51a295391598672": {
+      "title": "中京电子：未来PCB市场竞争预计将会加剧",
+      "fetched_at": "2026-06-28T08:38:22.504256+00:00"
+    },
+    "d3a1de6da794f689": {
+      "title": "中富通：股东拟合计减持不超0.671%公司股份",
+      "fetched_at": "2026-06-28T08:38:23.123933+00:00"
+    },
+    "36e900159bf491c6": {
+      "title": "Google rejects claims of AI in Search hurting web traffic",
+      "fetched_at": "2026-06-28T08:38:23.740676+00:00"
+    },
+    "09f1cb9e8e80ea99": {
+      "title": "银河微电：拟收购恒泰柯100%股权 股票及可转债明起复牌",
+      "fetched_at": "2026-06-28T08:38:24.362818+00:00"
+    },
+    "01943a239220944b": {
+      "title": "The Real Cost of Using AI in 2026",
+      "fetched_at": "2026-06-28T08:38:24.976958+00:00"
+    },
+    "ab4e046a1fbfea65": {
+      "title": "金山办公：拟以2.5亿元-5亿元回购公司股份",
+      "fetched_at": "2026-06-28T08:38:25.593675+00:00"
+    },
+    "86f3f13ccb56e51d": {
+      "title": "A Transformer Becomes an LLM",
+      "fetched_at": "2026-06-28T08:38:26.220134+00:00"
+    },
+    "4f213424ad7e215d": {
+      "title": "超声电子：未供货英伟达，高速覆铜板等研发项目存在不确定性",
+      "fetched_at": "2026-06-28T08:38:26.855266+00:00"
+    },
+    "82a030fcaac9e5b9": {
+      "title": "Policymakers can prep for a potential AI job apocalypse",
+      "fetched_at": "2026-06-28T08:38:27.488095+00:00"
+    },
+    "5a619019a49f2089": {
+      "title": "创新医疗：控股子公司赛博灵科AM5取得医疗器械注册证",
+      "fetched_at": "2026-06-28T08:38:28.113072+00:00"
+    },
+    "2d945c4d1464fad3": {
+      "title": "雅克科技：目前没有六氟化钨相关业务",
+      "fetched_at": "2026-06-28T08:38:28.738481+00:00"
+    },
+    "8c83f0fdf868b2ed": {
+      "title": "信通电子：部分董事、高管及大股东自愿承诺6个月内不减持公司股份",
+      "fetched_at": "2026-06-28T08:38:29.349508+00:00"
+    },
+    "1c7fe962572ae49d": {
+      "title": "AI Is the Best Thing to Happen to Security",
+      "fetched_at": "2026-06-28T08:38:29.972790+00:00"
+    },
+    "64d13b68525dc0ee": {
+      "title": "韩国将于周一宣布三星、SK集团的多个大型项目",
+      "fetched_at": "2026-06-28T08:38:30.611356+00:00"
+    },
+    "d5a50bb5bb117ace": {
+      "title": "智元第15000台通用具身机器人正式量产下线",
+      "fetched_at": "2026-06-28T08:38:31.234137+00:00"
+    },
+    "44a249e7f8d07e5a": {
+      "title": "兜兜转转四款笔记软件，我终于为思考找到了安身之所",
+      "fetched_at": "2026-06-28T08:38:31.866240+00:00"
+    },
+    "ebc83c65daddf9b4": {
+      "title": "Pentagon Sees Bigger Role for AI in Setting Military Targets",
+      "fetched_at": "2026-06-28T08:38:32.505637+00:00"
+    },
+    "c911239c1721c99b": {
+      "title": "AI Assistant for Amazon",
+      "fetched_at": "2026-06-28T08:38:33.147289+00:00"
+    },
+    "1b48497c6663b7d7": {
+      "title": "Aileadgenr.com – AI lead generation tool for finding potential B2B customers",
+      "fetched_at": "2026-06-28T08:38:33.774685+00:00"
+    },
+    "df57a07001e2509c": {
+      "title": "本周13股获南向资金持股量环比增长超20%",
+      "fetched_at": "2026-06-28T08:38:34.400121+00:00"
+    },
+    "e95f2dd5565ceabf": {
+      "title": "美國小費文化「混亂且昂貴」 世界盃球迷高呼受不了",
+      "fetched_at": "2026-06-28T08:38:36.515182+00:00"
+    },
+    "c464b5206a10f6a6": {
+      "title": "英王查爾斯報稅表上的三處「與眾不同」",
+      "fetched_at": "2026-06-28T08:38:37.139329+00:00"
+    },
+    "469810f9bce96f8c": {
+      "title": "GTA 6為甚麼只剩下載版？光碟大限已至嗎？",
+      "fetched_at": "2026-06-28T08:38:37.760076+00:00"
+    },
+    "14cd64a3f05f0e7e": {
+      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
+      "fetched_at": "2026-06-28T08:38:40.010267+00:00"
+    },
+    "0f888bb76af1ce9a": {
+      "title": "Yellowstone’s supervolcano may be fueled by something unexpected",
+      "fetched_at": "2026-06-28T08:38:40.639178+00:00"
+    },
+    "ddf23622892350f5": {
+      "title": "A rare supernova peeled back a star’s layers and revealed a hidden secret",
+      "fetched_at": "2026-06-28T08:38:41.264903+00:00"
+    },
+    "56a66d58194259b6": {
+      "title": "Watch bison herd defend a newborn calf from wolf attack in a primeval Polish forest",
+      "fetched_at": "2026-06-28T08:38:41.886802+00:00"
     }
   },
-  "last_updated": "2026-06-28T02:15:46.965561+00:00"
+  "last_updated": "2026-06-28T08:38:42.028921+00:00"
 }
