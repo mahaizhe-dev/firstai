@@ -1,221 +1,5 @@
 {
   "articles": {
-    "c4e411c87ea752d7": {
-      "title": "Pipeline-parallel LLM inference across GPUs on separate machines",
-      "fetched_at": "2026-06-19T19:23:26.549809+00:00"
-    },
-    "8cd190f94670ff0e": {
-      "title": "AI versus the China Shock",
-      "fetched_at": "2026-06-19T19:23:27.157396+00:00"
-    },
-    "d67cc4ff04a912b6": {
-      "title": "Try AI Operators on PostgreSQL",
-      "fetched_at": "2026-06-19T19:23:27.775087+00:00"
-    },
-    "313aa60b7de6c736": {
-      "title": "Ask HN: How to stop your coding agent from creating just AI slop for the UI/UX?",
-      "fetched_at": "2026-06-19T19:23:28.416598+00:00"
-    },
-    "d13c43b5e6e9910f": {
-      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-      "fetched_at": "2026-06-19T19:23:29.048813+00:00"
-    },
-    "9cc330550218390e": {
-      "title": "AI makes us more of who we are",
-      "fetched_at": "2026-06-19T19:23:29.674275+00:00"
-    },
-    "faf436683f77b7b9": {
-      "title": "Some Thoughts on AI Safety",
-      "fetched_at": "2026-06-19T19:23:30.308546+00:00"
-    },
-    "616b9d82deefeb6d": {
-      "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "fetched_at": "2026-06-19T19:23:30.944490+00:00"
-    },
-    "25bff2e7f1ded65e": {
-      "title": "Poll: What's your primary AI coding agent/orchestrator Claude/Codex/Cursor, etc?",
-      "fetched_at": "2026-06-19T19:23:31.634539+00:00"
-    },
-    "821737aed41d8bd1": {
-      "title": "Deep learning reveals antimicrobial peptides within prions",
-      "fetched_at": "2026-06-19T19:23:32.255193+00:00"
-    },
-    "7f42ebb534abb54c": {
-      "title": "Iconic Twin Cities rapper Eyedea finds new life with AI-generated album",
-      "fetched_at": "2026-06-19T19:23:32.867169+00:00"
-    },
-    "0708841dc6d0e7b8": {
-      "title": "Ask HN: What is the coolest tech progress outside AI?",
-      "fetched_at": "2026-06-19T19:23:33.479170+00:00"
-    },
-    "eec069a2640abf21": {
-      "title": "Learning to Program with the Cybiko Handheld Computer Using B2C",
-      "fetched_at": "2026-06-19T19:23:34.105921+00:00"
-    },
-    "6efdac3f8f88728f": {
-      "title": "LLM Quantization Project Part 1: What Even Is an LLM?",
-      "fetched_at": "2026-06-19T19:23:34.739302+00:00"
-    },
-    "366335383564cdd6": {
-      "title": "Huawei chips refine DeepSeek model in major leap for China's AI self-reliance",
-      "fetched_at": "2026-06-19T19:23:35.362669+00:00"
-    },
-    "d52f58c751569702": {
-      "title": "The data black hole at the center of AI [video]",
-      "fetched_at": "2026-06-19T19:23:35.978341+00:00"
-    },
-    "99b2d0e6ff407c6a": {
-      "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
-      "fetched_at": "2026-06-19T19:23:36.602978+00:00"
-    },
-    "acf01943df594934": {
-      "title": "Absolutly fastest virtual bash engine for you AI have a new site",
-      "fetched_at": "2026-06-19T19:23:37.233552+00:00"
-    },
-    "0d2d0a054982b79b": {
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "fetched_at": "2026-06-19T19:23:37.854473+00:00"
-    },
-    "492c48779ce51338": {
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "fetched_at": "2026-06-19T19:23:38.470803+00:00"
-    },
-    "1add04aee14599f9": {
-      "title": "Roman Curse Tablet From the Netherlands Studied",
-      "fetched_at": "2026-06-19T19:23:45.172510+00:00"
-    },
-    "0042db5cd949b3c6": {
-      "title": "Mosaic Depicting a River God Uncovered in Turkey",
-      "fetched_at": "2026-06-19T19:23:45.791406+00:00"
-    },
-    "1b6f13aa3fb93eec": {
-      "title": "The Agentic Resource Discovery Specification",
-      "fetched_at": "2026-06-19T19:23:45.791535+00:00"
-    },
-    "477772c35ee15312": {
-      "title": "Archaeologists Investigate Site of the Battle of Bunker Hill",
-      "fetched_at": "2026-06-19T19:23:46.408626+00:00"
-    },
-    "56a66d58194259b6": {
-      "title": "Watch bison herd defend a newborn calf from wolf attack in a primeval Polish forest",
-      "fetched_at": "2026-06-19T19:23:47.041759+00:00"
-    },
-    "aa51773f9016444d": {
-      "title": "Show HN: 7a0 – Build a World Cup XI from 177 historical squads",
-      "fetched_at": "2026-06-19T19:23:47.662572+00:00"
-    },
-    "26138891bb2d3a11": {
-      "title": "Squidbleed (CVE-2026-47729) Heartbleeds ancient cousin, hiding in Squid since 97",
-      "fetched_at": "2026-06-19T19:23:48.285491+00:00"
-    },
-    "6bfda3f4a734dbb6": {
-      "title": "7只机构评级股获融资净买入超10亿元",
-      "fetched_at": "2026-06-20T02:12:15.838619+00:00"
-    },
-    "edb9a8694b399e35": {
-      "title": "MojiMoshi – create an AI agent that lives in Telegram or Line",
-      "fetched_at": "2026-06-20T02:12:16.400607+00:00"
-    },
-    "84cf43d5e59bd549": {
-      "title": "三名中国裁判将亮相世界杯同场比赛",
-      "fetched_at": "2026-06-20T02:12:16.965758+00:00"
-    },
-    "0dc881d60539e915": {
-      "title": "大渡河金川水电站全容量投产发电",
-      "fetched_at": "2026-06-20T02:12:17.532987+00:00"
-    },
-    "9a0aeb552eb2c6ff": {
-      "title": "AI AlphaFold pioneer who won a Nobel Prize leaves Google DeepMind for Anthropic",
-      "fetched_at": "2026-06-20T02:12:18.104186+00:00"
-    },
-    "b7176baf8c04e4cf": {
-      "title": "Entertainmentindustry.ai – Engineering hunt and M&A gateway",
-      "fetched_at": "2026-06-20T02:12:18.673288+00:00"
-    },
-    "a07d22cc6df66637": {
-      "title": "德勤：A股上半年IPO预计将达70只，融资近700亿元",
-      "fetched_at": "2026-06-20T02:12:19.238998+00:00"
-    },
-    "f02faee7e88f7f81": {
-      "title": "美元指数19日小幅下跌",
-      "fetched_at": "2026-06-20T02:12:19.805180+00:00"
-    },
-    "03ef00899f30d22d": {
-      "title": "LME期铜收跌96美元，报13595美元/吨",
-      "fetched_at": "2026-06-20T02:12:20.379112+00:00"
-    },
-    "f03230b1688e23c9": {
-      "title": "今年7月1日起 赴日签证费用涨价5倍",
-      "fetched_at": "2026-06-20T02:12:20.942728+00:00"
-    },
-    "c01ad1937626c0f0": {
-      "title": "大众汽车加速推进业务重组 将裁减数万个岗位",
-      "fetched_at": "2026-06-20T02:12:21.514821+00:00"
-    },
-    "5ceffdcc1c727873": {
-      "title": "I am dreading our LLM-written incident report future",
-      "fetched_at": "2026-06-20T02:12:22.099727+00:00"
-    },
-    "fa40c2cf078d2c3c": {
-      "title": "I solved my mystery fatigue with AI",
-      "fetched_at": "2026-06-20T02:12:22.670814+00:00"
-    },
-    "9ac643eced8a40c3": {
-      "title": "诺贝尔奖得主约翰·江珀宣布加盟Anthropic",
-      "fetched_at": "2026-06-20T02:12:23.250707+00:00"
-    },
-    "968dc6b976bf5722": {
-      "title": "Show HN: Agentcard – virtual cards for AI agents, now with DoorDash checkout",
-      "fetched_at": "2026-06-20T02:12:23.821949+00:00"
-    },
-    "3a927f7c40e3b56a": {
-      "title": "Automating model design for edge AI",
-      "fetched_at": "2026-06-20T02:12:24.397608+00:00"
-    },
-    "c56803ab1b0d2f11": {
-      "title": "Our edge AI compiler outperforms Google and vendor toolchains",
-      "fetched_at": "2026-06-20T02:12:24.972062+00:00"
-    },
-    "8533b8b59f62bcc1": {
-      "title": "What are good benchmarks to test my CLI AI agentic system?",
-      "fetched_at": "2026-06-20T02:12:25.542116+00:00"
-    },
-    "cf70a67b377c78fb": {
-      "title": "Show HN: Ratchet – let an AI agent reflash your BIOS over a CH341A (MCP server)",
-      "fetched_at": "2026-06-20T02:12:26.107680+00:00"
-    },
-    "5cdc6a1414937259": {
-      "title": "The AI startup with no AI: Aussie boss jailed for misleading investors",
-      "fetched_at": "2026-06-20T02:12:26.679875+00:00"
-    },
-    "c110af4e85678773": {
-      "title": "Agentic Resource Discovery Specification",
-      "fetched_at": "2026-06-20T02:12:29.883659+00:00"
-    },
-    "5cbd269e94548220": {
-      "title": "Scientists built a battery-free device that turns sunlight into fuel",
-      "fetched_at": "2026-06-20T02:12:30.487472+00:00"
-    },
-    "e793cad6363f4250": {
-      "title": "The 1,100-year-old mystery of Montana’s lost bison hunting site finally solved",
-      "fetched_at": "2026-06-20T02:12:31.064374+00:00"
-    },
-    "a31526cc2b789bd5": {
-      "title": "Scientists discover a strange property in rice and turn it into a smart material",
-      "fetched_at": "2026-06-20T02:12:31.636894+00:00"
-    },
-    "a1e2edbed428fd01": {
-      "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
-      "fetched_at": "2026-06-20T02:12:32.205689+00:00"
-    },
-    "f9129e130ce6c848": {
-      "title": "James Webb reveals two completely different twilights on an alien world",
-      "fetched_at": "2026-06-20T02:12:32.771890+00:00"
-    },
-    "804a064aba697e91": {
-      "title": "AI could uncover new physics faster but there’s a surprising catch",
-      "fetched_at": "2026-06-20T02:12:33.348810+00:00"
-    },
     "83f7f403a3e9ecc3": {
       "title": "Getting Back to Basics by Abusing AI",
       "fetched_at": "2026-06-20T08:38:36.582237+00:00"
@@ -3875,7 +3659,131 @@
     "70aeeaca7465fb5a": {
       "title": "Black hole winds may be robbing giant galaxies of their future stars",
       "fetched_at": "2026-06-27T19:02:36.139861+00:00"
+    },
+    "1a8a72836a35d4b0": {
+      "title": "暑期档电影票房破15亿 80部影片集结暑期档",
+      "fetched_at": "2026-06-28T02:15:25.626656+00:00"
+    },
+    "651932cce0d865ba": {
+      "title": "央视曝手机测评作弊乱象",
+      "fetched_at": "2026-06-28T02:15:26.255398+00:00"
+    },
+    "7004e9f35f51f830": {
+      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
+      "fetched_at": "2026-06-28T02:15:26.892610+00:00"
+    },
+    "c842bdc258e4828b": {
+      "title": "近一周120多只个股获机构调研，广生堂调研机构数最多",
+      "fetched_at": "2026-06-28T02:15:27.528207+00:00"
+    },
+    "305ff8c611cb9868": {
+      "title": "The AI \"Super Bubble\" Warning Is a Filter, Not a Funeral",
+      "fetched_at": "2026-06-28T02:15:28.150068+00:00"
+    },
+    "f8432ebf161a6d40": {
+      "title": "Show HN: SpinnerRecruit – targeted job ads in CLI for AI wait states",
+      "fetched_at": "2026-06-28T02:15:28.765698+00:00"
+    },
+    "1ea5b34fa0f3ff6f": {
+      "title": "Response to AI slop is from Robin Williams",
+      "fetched_at": "2026-06-28T02:15:29.383625+00:00"
+    },
+    "f31aca83e4fff8c8": {
+      "title": "华泰证券：5月工业企业利润总体向好，行业分化加剧",
+      "fetched_at": "2026-06-28T02:15:30.008728+00:00"
+    },
+    "0d19f7dc9fa96be3": {
+      "title": "国内首个第四代半导体材料全产业链项目落户郑州",
+      "fetched_at": "2026-06-28T02:15:30.645210+00:00"
+    },
+    "b42e0c21c34f5b99": {
+      "title": "今年前五个月我国物流需求平稳增长，社会物流总额超146万亿元",
+      "fetched_at": "2026-06-28T02:15:31.273954+00:00"
+    },
+    "21b232d371275dfc": {
+      "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+      "fetched_at": "2026-06-28T02:15:31.913574+00:00"
+    },
+    "1b01c73301397d64": {
+      "title": "I'm Building a Space Cadet Pinball Machine [video]",
+      "fetched_at": "2026-06-28T02:15:31.913731+00:00"
+    },
+    "e514223928e94120": {
+      "title": "Toolkit for Your AI Scientists – Rigorous, Auditable and Verifiable",
+      "fetched_at": "2026-06-28T02:15:32.537340+00:00"
+    },
+    "f9ce1d3227f5bce0": {
+      "title": "A fiction archive for comparing frontier AI model behavior over time",
+      "fetched_at": "2026-06-28T02:15:33.166651+00:00"
+    },
+    "d21c3074a4b48fd5": {
+      "title": "AI as a Factor of Production",
+      "fetched_at": "2026-06-28T02:15:33.797071+00:00"
+    },
+    "c6a4870428a014cf": {
+      "title": "Enki – memory for AI agents that keeps ~half as much and answers as well",
+      "fetched_at": "2026-06-28T02:15:34.415180+00:00"
+    },
+    "13a3fb55eaceb799": {
+      "title": "Predictions for the Future of AI",
+      "fetched_at": "2026-06-28T02:15:35.048788+00:00"
+    },
+    "00bd401f6ca92598": {
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "fetched_at": "2026-06-28T02:15:35.660732+00:00"
+    },
+    "287ce918a1f83b6a": {
+      "title": "Show HN: KV-psi, using Linux PSI to to trim an LLM KV cache",
+      "fetched_at": "2026-06-28T02:15:36.278072+00:00"
+    },
+    "e11e992b7a9e1d5a": {
+      "title": "The psychology behind AI fueled delusions",
+      "fetched_at": "2026-06-28T02:15:36.905695+00:00"
+    },
+    "ca6f8ae78d90957f": {
+      "title": "《超級少女》：DC工作室高層稱漫畫巨頭須重建影迷信任",
+      "fetched_at": "2026-06-28T02:15:38.954432+00:00"
+    },
+    "cbcb278885fddaf1": {
+      "title": "經濟制裁、西方代表迴避：國際論壇現場的俄羅斯經濟挑戰",
+      "fetched_at": "2026-06-28T02:15:39.577569+00:00"
+    },
+    "5f5fa62365be98f0": {
+      "title": "香港籃球教練體罰爭議 前學員打破沉默",
+      "fetched_at": "2026-06-28T02:15:40.198534+00:00"
+    },
+    "82e7c68a5e104f75": {
+      "title": "Estrogen levels in both the male and female brain may shape memory's resilience in face of stress",
+      "fetched_at": "2026-06-28T02:15:42.430964+00:00"
+    },
+    "59a2810f6c32834b": {
+      "title": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim",
+      "fetched_at": "2026-06-28T02:15:43.052653+00:00"
+    },
+    "4629d78ac0047a47": {
+      "title": "Scientists expected a black hole but found a neutrino factory powered by stars",
+      "fetched_at": "2026-06-28T02:15:43.672370+00:00"
+    },
+    "5b7372f989273b34": {
+      "title": "Researchers found a Wordle strategy that wins 99% of the time",
+      "fetched_at": "2026-06-28T02:15:44.300159+00:00"
+    },
+    "1fd1be14eacbfcbb": {
+      "title": "Scientists reprogram brain immune cells to fight Alzheimer’s",
+      "fetched_at": "2026-06-28T02:15:44.943791+00:00"
+    },
+    "dfe9de676cabff79": {
+      "title": "Einstein’s “biggest blunder” may finally have an explanation",
+      "fetched_at": "2026-06-28T02:15:45.573067+00:00"
+    },
+    "d6e8a3fae9e7b81f": {
+      "title": "This giant tropical fruit could help reverse gum disease damage",
+      "fetched_at": "2026-06-28T02:15:46.202818+00:00"
+    },
+    "b8fa77761bc99153": {
+      "title": "DNA time stamps reveal the strawberry’s surprising origins",
+      "fetched_at": "2026-06-28T02:15:46.818827+00:00"
     }
   },
-  "last_updated": "2026-06-27T19:02:36.290133+00:00"
+  "last_updated": "2026-06-28T02:15:46.965561+00:00"
 }
