@@ -1,105 +1,5 @@
 {
   "articles": {
-    "99bbf2f07531e6d3": {
-      "title": "Anthropic build AI so safe the Gov made them delete it (YouTube) – Patrick Boyle",
-      "fetched_at": "2026-06-20T13:24:30.220514+00:00"
-    },
-    "96f5a042a18e1bce": {
-      "title": "Show HN: FOSS sandbox platform that hides infra secrets from devs and AI agents",
-      "fetched_at": "2026-06-20T13:24:30.808085+00:00"
-    },
-    "92e49785b2fb66e5": {
-      "title": "The Emerging AI Governance Space",
-      "fetched_at": "2026-06-20T13:24:31.404713+00:00"
-    },
-    "701091076db7a230": {
-      "title": "Gotique – AI that gives a first-read appraisal on antiques from photos",
-      "fetched_at": "2026-06-20T13:24:31.991183+00:00"
-    },
-    "6b981835c35a2b91": {
-      "title": "Changes that cut our LLM pipeline costs more than model-switching did",
-      "fetched_at": "2026-06-20T13:24:32.579785+00:00"
-    },
-    "c81e2cc6e9a3d4f2": {
-      "title": "The IPv4 Parser AI Couldn't Have Written",
-      "fetched_at": "2026-06-20T13:24:33.153389+00:00"
-    },
-    "8b2c4dbdc17571a3": {
-      "title": "Show HN: AlphaVibe – AI that reads your DeFi wallet live via DeBank",
-      "fetched_at": "2026-06-20T13:24:33.730673+00:00"
-    },
-    "e06b3acec692c49b": {
-      "title": "\"China Outpacing Us on AI\": Why Musk Bought an Autonomous Coding Startup",
-      "fetched_at": "2026-06-20T13:24:34.317632+00:00"
-    },
-    "06ad543c23c3c444": {
-      "title": "Show HN: Zero-config session-taste packer for AI agents",
-      "fetched_at": "2026-06-20T13:24:34.906401+00:00"
-    },
-    "2758444477a3f95d": {
-      "title": "SpaceX Loses $600B After Announcing Acquisition of Cursor AI Coding Agent",
-      "fetched_at": "2026-06-20T13:24:35.514959+00:00"
-    },
-    "770b8b246c3a9f50": {
-      "title": "Did Anthropic talk its way into an AI export ban?",
-      "fetched_at": "2026-06-20T13:24:36.097568+00:00"
-    },
-    "d559b042da23f447": {
-      "title": "Show HN: Lelu – authorization engine that catches manipulated AI agents",
-      "fetched_at": "2026-06-20T13:24:36.675843+00:00"
-    },
-    "2e3a390d2b6f074b": {
-      "title": "Overreach audit your AI agent's diff against the prompt you gave it",
-      "fetched_at": "2026-06-20T13:24:37.252922+00:00"
-    },
-    "7ed15cc1ae8cc82b": {
-      "title": "Building a Dense Agentic AI CPU Rack Today",
-      "fetched_at": "2026-06-20T13:24:37.839696+00:00"
-    },
-    "4f2d5551ccd2e6e3": {
-      "title": "AI that can find the location of images",
-      "fetched_at": "2026-06-20T13:24:38.420457+00:00"
-    },
-    "9761e8a6cd17f0f8": {
-      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-      "fetched_at": "2026-06-20T13:24:38.420578+00:00"
-    },
-    "c40a38b48f53bd98": {
-      "title": "A Web-Scale Data Engine for Video-to-Action Robot Learning",
-      "fetched_at": "2026-06-20T13:24:39.005593+00:00"
-    },
-    "f64ee25a48af3d91": {
-      "title": "Can 'We the People' Survive the AI Revolution?",
-      "fetched_at": "2026-06-20T13:24:39.600383+00:00"
-    },
-    "f7ce1cbd30eb259c": {
-      "title": "Rethinking vulnerability management in the age of AI and CI/CD",
-      "fetched_at": "2026-06-20T13:24:40.181224+00:00"
-    },
-    "23feb718c80bdd27": {
-      "title": "特朗普：不再将Anthropic视为国家安全威胁",
-      "fetched_at": "2026-06-20T13:24:40.850148+00:00"
-    },
-    "45607fb0e5bf6faf": {
-      "title": "香港反修例示威七週年：政府推出「正向教育」活動，當年被捕的年輕人會買賬嗎？",
-      "fetched_at": "2026-06-20T13:24:43.912898+00:00"
-    },
-    "25b084da1ad3f735": {
-      "title": "「我感覺更輕鬆，更開放」：誰說老年人不宜做心理治療",
-      "fetched_at": "2026-06-20T13:24:44.503812+00:00"
-    },
-    "111e33adfa7cd21c": {
-      "title": "Science news this week: Goblin shark filmed for first time, California close to a major quake, physicists split photon, and inside China's plans to 'tame nature'",
-      "fetched_at": "2026-06-20T13:24:46.476468+00:00"
-    },
-    "8ad036f3ed230a05": {
-      "title": "Diagnostic dilemma: A fish stabs a man through the throat and the base of the skull",
-      "fetched_at": "2026-06-20T13:24:47.059919+00:00"
-    },
-    "23bb07ee250abf6e": {
-      "title": "Why does it take our eyes so long to adjust to the dark?",
-      "fetched_at": "2026-06-20T13:24:47.642251+00:00"
-    },
     "bd7e1d228209cfa6": {
       "title": "The reason enterprise AI is stuck",
       "fetched_at": "2026-06-20T19:07:17.177208+00:00"
@@ -3903,7 +3803,107 @@
     "ddc42dce8f5f7949": {
       "title": "Why does metal stick together in space?",
       "fetched_at": "2026-06-28T13:12:40.720474+00:00"
+    },
+    "a003ad88462990ff": {
+      "title": "China Resets AI Race",
+      "fetched_at": "2026-06-28T19:00:29.718219+00:00"
+    },
+    "8ba7b4963e98fd86": {
+      "title": "Monlite Simple Infrastructure for AI Agent",
+      "fetched_at": "2026-06-28T19:00:30.343714+00:00"
+    },
+    "f717aa58e2e307dc": {
+      "title": "The LLM shoggoth meme is weirder than you think",
+      "fetched_at": "2026-06-28T19:00:31.046864+00:00"
+    },
+    "cffc0f56d93969b9": {
+      "title": "High Schoolers and AI",
+      "fetched_at": "2026-06-28T19:00:31.660661+00:00"
+    },
+    "feeedd96f0e2e8e9": {
+      "title": "AI and the Crisis of 'Classical Liberalism'",
+      "fetched_at": "2026-06-28T19:00:32.275232+00:00"
+    },
+    "434b139a5f30777a": {
+      "title": "Show HN: Verigate – Cryptographic authorization receipts for AI agents",
+      "fetched_at": "2026-06-28T19:00:32.928930+00:00"
+    },
+    "e65d4a5c5759b493": {
+      "title": "AgentCrawl, a small self-hosted crawler for AI agents",
+      "fetched_at": "2026-06-28T19:00:33.554506+00:00"
+    },
+    "540336a6523fbe14": {
+      "title": "White House Will Ad Hoc Decide Who Can Individually Access GPT-5.6",
+      "fetched_at": "2026-06-28T19:00:34.218759+00:00"
+    },
+    "fd4730260f9ecd50": {
+      "title": "AI is creating America's next underclass",
+      "fetched_at": "2026-06-28T19:00:34.911523+00:00"
+    },
+    "96c952a750bc0538": {
+      "title": "Show HN: Paige – A spoiler-free AI book chat",
+      "fetched_at": "2026-06-28T19:00:35.550182+00:00"
+    },
+    "32623b24f25f7de0": {
+      "title": "Costs of Running a 15k/mo AI SaaS [video]",
+      "fetched_at": "2026-06-28T19:00:36.248744+00:00"
+    },
+    "d3f3d2fc5d0a4520": {
+      "title": "Nvidia Partner Wants to Put a $150k AI Data Center in Your Yard",
+      "fetched_at": "2026-06-28T19:00:36.883247+00:00"
+    },
+    "5eab9b4f76957622": {
+      "title": "Evaluating Offline Monitoring of Internal AI Agents",
+      "fetched_at": "2026-06-28T19:00:37.497063+00:00"
+    },
+    "e5bcc6e65c06d884": {
+      "title": "Tech firms blame AI for rising PC and console prices",
+      "fetched_at": "2026-06-28T19:00:38.102294+00:00"
+    },
+    "c2cf77fb593b0828": {
+      "title": "AI Economy from the Bottom Up",
+      "fetched_at": "2026-06-28T19:00:38.722946+00:00"
+    },
+    "0ae2731498e3a2ab": {
+      "title": "Professor denounces mass AI fraud on an exam at Brown University",
+      "fetched_at": "2026-06-28T19:00:39.342350+00:00"
+    },
+    "a6b4e62848a051e6": {
+      "title": "Ask HN: Examples of AI taste?",
+      "fetched_at": "2026-06-28T19:00:39.961927+00:00"
+    },
+    "421f8bd6b2169b5d": {
+      "title": "AI Use Cases companies are implementing and the results they get",
+      "fetched_at": "2026-06-28T19:00:40.576300+00:00"
+    },
+    "bb6abf0c6179a006": {
+      "title": "It might be kinder to kill your AI (conversation)",
+      "fetched_at": "2026-06-28T19:00:41.192267+00:00"
+    },
+    "9f9450eac5102544": {
+      "title": "Show HN: GalaxDB – an open-source AI-native database(OLTP+vector+versioning)",
+      "fetched_at": "2026-06-28T19:00:41.835643+00:00"
+    },
+    "b46ee8f910123113": {
+      "title": "熱浪取消不了公園長跑，綠色的青蛙可以",
+      "fetched_at": "2026-06-28T19:00:44.519964+00:00"
+    },
+    "902b72c221758516": {
+      "title": "Our brains aren't wired to handle this much bad news. But 'looking away is not the fix,' expert says.",
+      "fetched_at": "2026-06-28T19:00:57.773427+00:00"
+    },
+    "ae3a811669370356": {
+      "title": "James Webb uncovers exotic salt clouds on a mysterious pink world",
+      "fetched_at": "2026-06-28T19:00:58.400502+00:00"
+    },
+    "2ff617b980c8a761": {
+      "title": "'The fate of Earth depends on a delicate balance': Our planet may survive the death of the sun after all, new models hint",
+      "fetched_at": "2026-06-28T19:00:59.027188+00:00"
+    },
+    "f0b164c483e651c0": {
+      "title": "Common pesticide linked to more than double the risk of Parkinson’s disease",
+      "fetched_at": "2026-06-28T19:00:59.657447+00:00"
     }
   },
-  "last_updated": "2026-06-28T13:12:40.827551+00:00"
+  "last_updated": "2026-06-28T19:00:59.765971+00:00"
 }
