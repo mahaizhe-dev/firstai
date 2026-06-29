@@ -1,97 +1,5 @@
 {
   "articles": {
-    "68fb0088ad462d7e": {
-      "title": "Show HN: Cloak – let AI agents use your API keys without ever seeing them",
-      "fetched_at": "2026-06-21T13:45:20.448362+00:00"
-    },
-    "c7bffae5f7a6fe8c": {
-      "title": "Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business",
-      "fetched_at": "2026-06-21T13:45:21.055610+00:00"
-    },
-    "9df42bf690da9816": {
-      "title": "AI Boom Hits Labor Market Reality Check",
-      "fetched_at": "2026-06-21T13:45:21.678035+00:00"
-    },
-    "5feea1da402c5b06": {
-      "title": "AI Made Me Braver",
-      "fetched_at": "2026-06-21T13:45:22.299882+00:00"
-    },
-    "595c2bd629c61430": {
-      "title": "Tokoscope – Automatic LLM token compression and cost monitoring in 2 lines",
-      "fetched_at": "2026-06-21T13:45:22.919996+00:00"
-    },
-    "67e0b25c199dfdf4": {
-      "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
-      "fetched_at": "2026-06-21T13:45:23.544100+00:00"
-    },
-    "8d5a0a2715c6987a": {
-      "title": "Show HN: An AI video prompt cookbook for image-to-video workflows",
-      "fetched_at": "2026-06-21T13:45:24.167783+00:00"
-    },
-    "f5f0e7fec24042d4": {
-      "title": "Show HN: Local LLM Hardware Calculator",
-      "fetched_at": "2026-06-21T13:45:24.801865+00:00"
-    },
-    "3ee1f34ed167f0a8": {
-      "title": "Shall We? – A pre-engineering sanity check for AI-era feature bloat",
-      "fetched_at": "2026-06-21T13:45:25.422663+00:00"
-    },
-    "237b376d3f3ceb33": {
-      "title": "AI Warfare Is at the Point of No Return",
-      "fetched_at": "2026-06-21T13:45:26.043662+00:00"
-    },
-    "e647c2638a8dcb1f": {
-      "title": "I Created a Minimalist Universal Language for AI",
-      "fetched_at": "2026-06-21T13:45:26.670683+00:00"
-    },
-    "7d630db476e111e0": {
-      "title": "China tightens indium export checks as AI demand increases",
-      "fetched_at": "2026-06-21T13:45:27.280920+00:00"
-    },
-    "0cf17d86adf8d314": {
-      "title": "Canyon Predict – road bike prototype with AI edge computing [video]",
-      "fetched_at": "2026-06-21T13:45:27.915261+00:00"
-    },
-    "ac1872f122eff6fe": {
-      "title": "Show HN: Didon – AI workday reports for productivity analysis",
-      "fetched_at": "2026-06-21T13:45:28.555033+00:00"
-    },
-    "726dee87dfb2c2b5": {
-      "title": "KitaabAI AI book and thesis writer with native Urdu support",
-      "fetched_at": "2026-06-21T13:45:29.197586+00:00"
-    },
-    "7511ad5504f68f00": {
-      "title": "Brands using AI-generated influencers to promote products on social media",
-      "fetched_at": "2026-06-21T13:45:29.821393+00:00"
-    },
-    "e00bd5927f5eb549": {
-      "title": "中关村：琥珀酸美托洛尔缓释胶囊上市许可申请获受理",
-      "fetched_at": "2026-06-21T13:45:30.454530+00:00"
-    },
-    "819f198715aacbb4": {
-      "title": "What does it mean for AI to be democratic?",
-      "fetched_at": "2026-06-21T13:45:31.088929+00:00"
-    },
-    "00712988eaeab9a3": {
-      "title": "沪电股份：拟吸并全资子公司普江仓储",
-      "fetched_at": "2026-06-21T13:45:31.712777+00:00"
-    },
-    "e211d86f30d6b299": {
-      "title": "北京利尔：调整定增方案，拟募资额调减至不超10.25亿元",
-      "fetched_at": "2026-06-21T13:45:32.334523+00:00"
-    },
-    "3c402ebc4d32cbaf": {
-      "title": "James Webb telescope finds a cosmic cloud of creation buried in the Sword of Orion — Space photo of the week",
-      "fetched_at": "2026-06-21T13:45:36.538527+00:00"
-    },
-    "b84ef65325b6e08e": {
-      "title": "Think human anatomy is finished? Scientists say think again",
-      "fetched_at": "2026-06-21T13:45:37.166907+00:00"
-    },
-    "f324a89d2155f416": {
-      "title": "Scientists discover neurons must break their DNA to build the brain",
-      "fetched_at": "2026-06-21T13:45:37.864889+00:00"
-    },
     "d8e8d6d6df17a8c6": {
       "title": "A cheaper and safer agentic AI workflow",
       "fetched_at": "2026-06-21T19:12:40.687918+00:00"
@@ -3831,7 +3739,107 @@
     "8a644a4641a199ec": {
       "title": "The secret language behind animal cooperation",
       "fetched_at": "2026-06-29T10:19:36.985210+00:00"
+    },
+    "b8cdca80878cc063": {
+      "title": "Will AI keep us stuck in 2020 architectures?",
+      "fetched_at": "2026-06-29T15:27:24.612350+00:00"
+    },
+    "022177ca21ba4ab6": {
+      "title": "I let an AI agent run my SEO site. It broke things. I published the bugs",
+      "fetched_at": "2026-06-29T15:27:25.238131+00:00"
+    },
+    "fb6e3438dd81b5d5": {
+      "title": "Low-cost Chinese AI models like DeepSeek gain traction in the U.S.",
+      "fetched_at": "2026-06-29T15:27:25.873036+00:00"
+    },
+    "4117a2cd03823608": {
+      "title": "Building AI Agents in Ruby with the Anthropic SDK",
+      "fetched_at": "2026-06-29T15:27:26.490250+00:00"
+    },
+    "8d39eff6180ed6aa": {
+      "title": "AI models' values are different from most people's",
+      "fetched_at": "2026-06-29T15:27:27.128147+00:00"
+    },
+    "4a348b416e6402cd": {
+      "title": "AI Accountability in Justice and Medicine – Ethics and EU AI Act",
+      "fetched_at": "2026-06-29T15:27:27.748555+00:00"
+    },
+    "b66a55eda83c6c8d": {
+      "title": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
+      "fetched_at": "2026-06-29T15:27:28.375128+00:00"
+    },
+    "0690f46283821fac": {
+      "title": "Working with AI",
+      "fetched_at": "2026-06-29T15:27:29.055408+00:00"
+    },
+    "cb1a27b3be1a0f26": {
+      "title": "AI Is Dogshit at Design",
+      "fetched_at": "2026-06-29T15:27:29.684976+00:00"
+    },
+    "a22bf2a13889393d": {
+      "title": "Gen Z's AI problem isn't about AI",
+      "fetched_at": "2026-06-29T15:27:30.318943+00:00"
+    },
+    "0e3f14ea49d3f460": {
+      "title": "Show HN: Uselink – publish and collaborate on AI-generated HTML",
+      "fetched_at": "2026-06-29T15:27:30.975644+00:00"
+    },
+    "ebe6ef8d66ca9715": {
+      "title": "Ask HN: How to use AI to learn faster but effectively?",
+      "fetched_at": "2026-06-29T15:27:31.593246+00:00"
+    },
+    "e5424444ffa9ee46": {
+      "title": "Show HN: Klorn–I built an email firewall because every AI inbox made mine louder",
+      "fetched_at": "2026-06-29T15:27:32.214666+00:00"
+    },
+    "39e63321c9ae59b2": {
+      "title": "Why did one day of AI cost more than a month of servers?",
+      "fetched_at": "2026-06-29T15:27:32.848040+00:00"
+    },
+    "fb190b2dbfa49869": {
+      "title": "Once, cyber-attacks required great skill. AI is changing that",
+      "fetched_at": "2026-06-29T15:27:33.486799+00:00"
+    },
+    "33ddf1cbcb217a6f": {
+      "title": "I built an anime-style UI for watching AI coding agents review each other's code",
+      "fetched_at": "2026-06-29T15:27:34.130021+00:00"
+    },
+    "54e6351b12344445": {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "fetched_at": "2026-06-29T15:27:34.761911+00:00"
+    },
+    "351af5d7f28bb3fa": {
+      "title": "Show HN: AI Music Generator Free and No Signup",
+      "fetched_at": "2026-06-29T15:27:35.384991+00:00"
+    },
+    "7891b6b8dfdd507d": {
+      "title": "CoreWeave ARIA: AI Research and Iteration Agent",
+      "fetched_at": "2026-06-29T15:27:36.061949+00:00"
+    },
+    "e5e14090fd9bdada": {
+      "title": "Teaching AI how people work is fraught with problems",
+      "fetched_at": "2026-06-29T15:27:36.695400+00:00"
+    },
+    "db36688162d657dc": {
+      "title": "27航班、24場比賽 國際足總主席如何穿梭世界盃",
+      "fetched_at": "2026-06-29T15:27:40.388362+00:00"
+    },
+    "e9c2005593e533fe": {
+      "title": "中國「後地產時代」：地方政府從賣地轉型到做股東成功了嗎？",
+      "fetched_at": "2026-06-29T15:27:41.005836+00:00"
+    },
+    "bccf7b52dc32c413": {
+      "title": "Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest",
+      "fetched_at": "2026-06-29T15:27:45.782231+00:00"
+    },
+    "1f9707a0c0a83706": {
+      "title": "Computer scientists are rushing to tame AI's voracious appetite for energy",
+      "fetched_at": "2026-06-29T15:27:46.397985+00:00"
+    },
+    "7d2451d69a1941de": {
+      "title": "What will the Amazon rainforest look like in 100 years?",
+      "fetched_at": "2026-06-29T15:27:47.019053+00:00"
     }
   },
-  "last_updated": "2026-06-29T10:19:37.095452+00:00"
+  "last_updated": "2026-06-29T15:27:47.169137+00:00"
 }
