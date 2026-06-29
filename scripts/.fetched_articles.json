@@ -1,121 +1,5 @@
 {
   "articles": {
-    "bd7e1d228209cfa6": {
-      "title": "The reason enterprise AI is stuck",
-      "fetched_at": "2026-06-20T19:07:17.177208+00:00"
-    },
-    "6021d95c81d07c37": {
-      "title": "My self-hosted local LLM server setup",
-      "fetched_at": "2026-06-20T19:07:17.750028+00:00"
-    },
-    "9313561bbbaa81ed": {
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "fetched_at": "2026-06-20T19:07:18.454294+00:00"
-    },
-    "e7ee5fdba9c834a9": {
-      "title": "Agents publish HTML on the internet through thethings.ai",
-      "fetched_at": "2026-06-20T19:07:19.021876+00:00"
-    },
-    "ea7371a8b5e791e8": {
-      "title": "I don't see any good orchestration system for AI agents",
-      "fetched_at": "2026-06-20T19:07:19.589318+00:00"
-    },
-    "21c8e550f2112486": {
-      "title": "Agent Rigor – Stop your AI coding assistant from doom-looping",
-      "fetched_at": "2026-06-20T19:07:20.158800+00:00"
-    },
-    "b642179527e2b59f": {
-      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
-      "fetched_at": "2026-06-20T19:07:20.725326+00:00"
-    },
-    "f54f54a1b0c2b8aa": {
-      "title": "Global AI confessions: CEO edition 2026 – Dataiku",
-      "fetched_at": "2026-06-20T19:07:21.288176+00:00"
-    },
-    "8818920e08ac0a53": {
-      "title": "Refik Anadol's Dataland, the first AI art museum",
-      "fetched_at": "2026-06-20T19:07:21.854052+00:00"
-    },
-    "5badb494cb679ae9": {
-      "title": "AIPropel, AI-powered proposal generation for freelancers and agencies",
-      "fetched_at": "2026-06-20T19:07:22.422035+00:00"
-    },
-    "628eeb3930704138": {
-      "title": "Hand-powered LLM (YouTube) [video]",
-      "fetched_at": "2026-06-20T19:07:22.987195+00:00"
-    },
-    "d24dfa4b98780f91": {
-      "title": "Palmier-pro: macOS video editor built for AI",
-      "fetched_at": "2026-06-20T19:07:23.557488+00:00"
-    },
-    "39b680397c89b1b5": {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "fetched_at": "2026-06-20T19:07:24.124528+00:00"
-    },
-    "9bee534765f7248c": {
-      "title": "How to Lose a Global AI Monopoly in One Afternoon [video]",
-      "fetched_at": "2026-06-20T19:07:24.693891+00:00"
-    },
-    "0ee5cdfcfa0d7228": {
-      "title": "Sinceerly, AI to undo your AI writing",
-      "fetched_at": "2026-06-20T19:07:25.265920+00:00"
-    },
-    "6163280ab7ed6d7c": {
-      "title": "Granta stops publishing short story award winners over AI controversy",
-      "fetched_at": "2026-06-20T19:07:25.834463+00:00"
-    },
-    "18986df2f02d78c5": {
-      "title": "We're approaching AI agents from the wrong direction",
-      "fetched_at": "2026-06-20T19:07:26.402803+00:00"
-    },
-    "2cd0a9849709273d": {
-      "title": "I let AI run my company for 6 months. Here's what broke",
-      "fetched_at": "2026-06-20T19:07:26.972301+00:00"
-    },
-    "3323cd7b74d588e3": {
-      "title": "Agent Memory Layer: Repository-local memory for AI coding agents",
-      "fetched_at": "2026-06-20T19:07:27.551526+00:00"
-    },
-    "2af261e171302be8": {
-      "title": "Noverdesk – reusable skills for AI support agents, with a conversational builder",
-      "fetched_at": "2026-06-20T19:07:28.129437+00:00"
-    },
-    "54f8fab4bcda3c48": {
-      "title": "點擊瀏覽即時更新",
-      "fetched_at": "2026-06-20T19:07:30.056846+00:00"
-    },
-    "b2d976ef2a616462": {
-      "title": "足球世界盃2026：這些難得一見的參賽國家，你認識嗎？",
-      "fetched_at": "2026-06-20T19:07:30.631482+00:00"
-    },
-    "88bd5eae7cd7c86e": {
-      "title": "'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing",
-      "fetched_at": "2026-06-20T19:09:50.078948+00:00"
-    },
-    "d25047482431cb3f": {
-      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
-      "fetched_at": "2026-06-20T19:09:50.654068+00:00"
-    },
-    "97a1efa177cb76e0": {
-      "title": "Ancient 'Robin Hood' tree is dead, experts say",
-      "fetched_at": "2026-06-20T19:09:51.215551+00:00"
-    },
-    "edaef6c590377e20": {
-      "title": "Outdoor cats can be exposed to dangerous germs — here's how to protect you and your pets, according to more than 400 studies",
-      "fetched_at": "2026-06-20T19:09:51.782508+00:00"
-    },
-    "b826ed82d7a03ffb": {
-      "title": "The first primates may have evolved in the cold, not the tropics",
-      "fetched_at": "2026-06-20T19:09:52.346669+00:00"
-    },
-    "8dfd182912b8860c": {
-      "title": "This DNA repair gene went rogue and exposed a cancer weakness",
-      "fetched_at": "2026-06-20T19:09:52.955218+00:00"
-    },
-    "8a644a4641a199ec": {
-      "title": "The secret language behind animal cooperation",
-      "fetched_at": "2026-06-20T19:09:53.518315+00:00"
-    },
     "c55f538d69cae941": {
       "title": "韩国央行警告：存储芯片景气周期或推高通胀压力",
       "fetched_at": "2026-06-21T02:36:20.629424+00:00"
@@ -3903,7 +3787,111 @@
     "f0b164c483e651c0": {
       "title": "Common pesticide linked to more than double the risk of Parkinson’s disease",
       "fetched_at": "2026-06-28T19:00:59.657447+00:00"
+    },
+    "3f7deefa1f993edc": {
+      "title": "我国第三艘万车级汽车运输船今天交付",
+      "fetched_at": "2026-06-29T02:14:58.068248+00:00"
+    },
+    "0ca3eb01920c14b4": {
+      "title": "雷神竞界电竞酒店已开业门店突破100家",
+      "fetched_at": "2026-06-29T02:14:58.676977+00:00"
+    },
+    "c7294e6f947388f3": {
+      "title": "Signed satellite images for AI agents",
+      "fetched_at": "2026-06-29T02:14:59.299946+00:00"
+    },
+    "44abf1b7c558e5cd": {
+      "title": "我国纬度最高光热电站投产发电",
+      "fetched_at": "2026-06-29T02:14:59.919298+00:00"
+    },
+    "071ef7907cab530c": {
+      "title": "破解代码迁移难题，国产“异算方舟”全栈计算平台正式发布",
+      "fetched_at": "2026-06-29T02:15:00.544095+00:00"
+    },
+    "6920f2b52ec9e623": {
+      "title": "周六福在上海成立新珠宝公司，注册资本100万",
+      "fetched_at": "2026-06-29T02:15:01.269111+00:00"
+    },
+    "5b628b86283ba8a7": {
+      "title": "科创50指数涨超4%，继续刷新历史新高",
+      "fetched_at": "2026-06-29T02:15:01.898196+00:00"
+    },
+    "fe5e50d66b2095c7": {
+      "title": "雅砻江流域水电开发公司增资至547亿",
+      "fetched_at": "2026-06-29T02:15:02.524350+00:00"
+    },
+    "3fe0ee0177243048": {
+      "title": "怡亚通在黄石成立新公司，注册资本100万",
+      "fetched_at": "2026-06-29T02:15:03.200093+00:00"
+    },
+    "93c726373f4001a5": {
+      "title": "五粮液回应宜宾地震影响",
+      "fetched_at": "2026-06-29T02:15:03.896273+00:00"
+    },
+    "8adb629b74e8f745": {
+      "title": "多家银行集体出手收紧代理上金所个人贵金属交易业务",
+      "fetched_at": "2026-06-29T02:15:04.511202+00:00"
+    },
+    "52a85e175adea1d8": {
+      "title": "国家统计局：2025年全国文化产业实现营业收入208254亿元",
+      "fetched_at": "2026-06-29T02:15:05.146481+00:00"
+    },
+    "bc1e5c359f46f6eb": {
+      "title": "恒生科技指数盘中涨幅扩大至2%",
+      "fetched_at": "2026-06-29T02:15:05.776520+00:00"
+    },
+    "eb9a6669d6f2ca32": {
+      "title": "港大教授李弘扬创业做通用全身具身大脑，获真格高榕IDG五源等数亿种子轮融资｜硬氪独家",
+      "fetched_at": "2026-06-29T02:15:06.417374+00:00"
+    },
+    "a88023ccaefe456e": {
+      "title": "A股三大指数开盘涨跌不一，银河微电涨停",
+      "fetched_at": "2026-06-29T02:15:07.086942+00:00"
+    },
+    "2072f908a2eb84bd": {
+      "title": "AI-assisted binary patching to fix an abandoned router's DHCP bug",
+      "fetched_at": "2026-06-29T02:15:07.705242+00:00"
+    },
+    "330e3e346df280c0": {
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "fetched_at": "2026-06-29T02:15:08.342366+00:00"
+    },
+    "fdd5b97fa189e918": {
+      "title": "恒指开盘涨0.69%，恒生科技指数涨1.6%",
+      "fetched_at": "2026-06-29T02:15:08.993469+00:00"
+    },
+    "7e066d4e57e62b83": {
+      "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+      "fetched_at": "2026-06-29T02:15:09.667413+00:00"
+    },
+    "d90bf9f091e41243": {
+      "title": "Guy beats one of the best published quantum circuits for breaking ECDSA with AI",
+      "fetched_at": "2026-06-29T02:15:10.301190+00:00"
+    },
+    "c6494b7247cf5c8c": {
+      "title": "乘橡皮艇逃至韩国的中国异见人士董广平抵达加拿大",
+      "fetched_at": "2026-06-29T02:15:12.671456+00:00"
+    },
+    "7a8cb047b1f23677": {
+      "title": "北京证实小型飞机撞击“中国尊”，称飞行员死亡",
+      "fetched_at": "2026-06-29T02:15:13.305552+00:00"
+    },
+    "726f8998bac950fa": {
+      "title": "蘋果加價之際 科技與電玩企業紛紛怪罪AI",
+      "fetched_at": "2026-06-29T02:15:13.931353+00:00"
+    },
+    "ea06fc8846474640": {
+      "title": "Historical memory prices 1960-2026",
+      "fetched_at": "2026-06-29T02:15:23.428570+00:00"
+    },
+    "c6207d5e76613e37": {
+      "title": "More evidence is consistent with possible ancient life on Mars (2025)",
+      "fetched_at": "2026-06-29T02:15:24.050050+00:00"
+    },
+    "111e33adfa7cd21c": {
+      "title": "Science news this week: Goblin shark filmed for first time, California close to a major quake, physicists split photon, and inside China's plans to 'tame nature'",
+      "fetched_at": "2026-06-29T02:15:24.668042+00:00"
     }
   },
-  "last_updated": "2026-06-28T19:00:59.765971+00:00"
+  "last_updated": "2026-06-29T02:15:24.808103+00:00"
 }
