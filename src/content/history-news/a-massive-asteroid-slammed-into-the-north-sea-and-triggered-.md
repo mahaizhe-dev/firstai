@@ -1,0 +1,10 @@
+---
+title: 'A massive asteroid slammed into the North Sea and triggered a 330-foot tsunami'
+description: 'Scientists have finally confirmed the origin of the mysterious Silverpit Crater beneath the North Sea. New evidence shows that an asteroid about 160 meters wide struck the seabed roughly 43 to 46 mill'
+pubDate: 2026-06-29T23:44:40
+source: 'Science Daily'
+sourceUrl: 'https://www.sciencedaily.com/releases/2026/06/260623011230.htm'
+tags: []
+---
+
+Scientists have finally confirmed the origin of the mysterious Silverpit Crater beneath the North Sea. New evidence shows that an asteroid about 160 meters wide struck the seabed roughly 43 to 46 million years ago. The impact triggered a tsunami more than 100 meters high and left behind a crater that geologists debated for years.
