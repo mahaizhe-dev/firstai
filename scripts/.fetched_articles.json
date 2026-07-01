@@ -1,101 +1,5 @@
 {
   "articles": {
-    "1e5a9a294f999fd1": {
-      "title": "The eerie interface of man and machine (Life Magazine, October 1967)",
-      "fetched_at": "2026-06-23T14:23:26.001421+00:00"
-    },
-    "dfb9d36eee7fc99c": {
-      "title": "The AI-powered World Cup runs on thousands of data workers",
-      "fetched_at": "2026-06-23T14:23:26.628120+00:00"
-    },
-    "a4a23187dff384d3": {
-      "title": "OctoPunk – a full-featured, AI-integrated GitHub client",
-      "fetched_at": "2026-06-23T14:23:27.263185+00:00"
-    },
-    "8c9f67af525f8b8d": {
-      "title": "Show HN: Saymade – AI app builder for complex software",
-      "fetched_at": "2026-06-23T14:23:27.871938+00:00"
-    },
-    "6968211fee477dfa": {
-      "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
-      "fetched_at": "2026-06-23T14:23:28.494208+00:00"
-    },
-    "bdc677f60e243d02": {
-      "title": "Noemra, AI that builds and runs a company from one prompt",
-      "fetched_at": "2026-06-23T14:23:29.115981+00:00"
-    },
-    "5366a379c9a94355": {
-      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-      "fetched_at": "2026-06-23T14:23:29.737437+00:00"
-    },
-    "e9a6e26a39531ea8": {
-      "title": "Ask HN: Am I missing something with AI",
-      "fetched_at": "2026-06-23T14:23:30.363263+00:00"
-    },
-    "8bf6ca234a598f1a": {
-      "title": "Show HN: Legant gives AI agents bounded authority to act on your behalf",
-      "fetched_at": "2026-06-23T14:23:30.996276+00:00"
-    },
-    "2556582e2904de68": {
-      "title": "Google's online dominance is showing signs of cracking in AI era",
-      "fetched_at": "2026-06-23T14:23:31.625146+00:00"
-    },
-    "73967cc72f88f8c1": {
-      "title": "Show HN: Free tools to audit a landing page and check if AI recommends you",
-      "fetched_at": "2026-06-23T14:23:32.290626+00:00"
-    },
-    "9fd5955e0377d30e": {
-      "title": "Free EU AI Act Article 50 compliance checker for indie SaaS",
-      "fetched_at": "2026-06-23T14:23:32.924331+00:00"
-    },
-    "0c31dcdaa153660c": {
-      "title": "ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation",
-      "fetched_at": "2026-06-23T14:23:33.582350+00:00"
-    },
-    "101e85355a4c0b80": {
-      "title": "The AI Last Mile Is the First Mile",
-      "fetched_at": "2026-06-23T14:23:34.203427+00:00"
-    },
-    "b854de4094bcfcae": {
-      "title": "Your AI Agent Should Go to Therapy",
-      "fetched_at": "2026-06-23T14:23:34.840547+00:00"
-    },
-    "ab3bb7ff3990a6a7": {
-      "title": "A simple physics-inspired model sheds light on how AI learns",
-      "fetched_at": "2026-06-23T14:23:35.466192+00:00"
-    },
-    "73c8a17ce15644f3": {
-      "title": "AI and Math State of the Art",
-      "fetched_at": "2026-06-23T14:23:36.084403+00:00"
-    },
-    "17eb8e76ce48861f": {
-      "title": "I Built an NPM package to stop AI agents from burning through API credits",
-      "fetched_at": "2026-06-23T14:23:36.723057+00:00"
-    },
-    "9e386ffc0c21e855": {
-      "title": "Show HN: Route LLM prompts to cheapest capable model – pydantic-AI and litellm",
-      "fetched_at": "2026-06-23T14:23:37.344566+00:00"
-    },
-    "27442a33ec362746": {
-      "title": "Show HN: Open-geo – Skill for Claude Code which shows your AI Visibility",
-      "fetched_at": "2026-06-23T14:23:38.068588+00:00"
-    },
-    "b18402298717062c": {
-      "title": "十年六個——英國首相換了又換為甚麼？",
-      "fetched_at": "2026-06-23T14:23:41.011122+00:00"
-    },
-    "ee7601a8bbffd839": {
-      "title": "滴露中國廣告因拿貞操說事道歉 觀察人士評：一塌糊塗",
-      "fetched_at": "2026-06-23T14:23:41.629190+00:00"
-    },
-    "8f57ebf3fdb93041": {
-      "title": "一百家醫院如何抵禦全國性網路攻擊：用紙筆",
-      "fetched_at": "2026-06-23T14:23:42.246749+00:00"
-    },
-    "48c287b1d6481261": {
-      "title": "9 of the best technology conspiracy theories",
-      "fetched_at": "2026-06-23T14:23:44.068575+00:00"
-    },
     "350edded4b2d243c": {
       "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
       "fetched_at": "2026-06-23T19:48:09.548948+00:00"
@@ -3851,7 +3755,167 @@
     "98fe7008d38cbdef": {
       "title": "One underlying cause of inflammatory bowel disease pinpointed in new study",
       "fetched_at": "2026-07-01T09:27:06.798978+00:00"
+    },
+    "abe01a639833047a": {
+      "title": "CIA chief compares cutting-edge AI to nuclear weapons",
+      "fetched_at": "2026-07-01T19:28:05.748549+00:00"
+    },
+    "4486cad2da91a9ca": {
+      "title": "0/6 major aerospace documentation portals are AI Agent-ready",
+      "fetched_at": "2026-07-01T19:28:06.349508+00:00"
+    },
+    "32a594bd3231338a": {
+      "title": "HN: Goat 2.0 – proactive episodic memory for AI agents",
+      "fetched_at": "2026-07-01T19:28:06.914771+00:00"
+    },
+    "45b1ba708309ffdb": {
+      "title": "Show HN: I made a Space Invaders-style, guitar-driven fretboard learning game",
+      "fetched_at": "2026-07-01T19:28:07.481242+00:00"
+    },
+    "d41322963034de40": {
+      "title": "AI's Event Backbone",
+      "fetched_at": "2026-07-01T19:28:08.051245+00:00"
+    },
+    "a98df981c523c29a": {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "fetched_at": "2026-07-01T19:28:08.626463+00:00"
+    },
+    "8287cba9da320773": {
+      "title": "AI Seinfeld is taking over Twitch (2023)",
+      "fetched_at": "2026-07-01T19:28:09.202844+00:00"
+    },
+    "61468e66a6a6fa02": {
+      "title": "Amazon emissions jumped 16% as AI data center demand grew",
+      "fetched_at": "2026-07-01T19:28:09.793139+00:00"
+    },
+    "2330bc05807850b9": {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "fetched_at": "2026-07-01T19:28:10.355928+00:00"
+    },
+    "11e37bc7480b4dd4": {
+      "title": "The first AI agent worm is months away, if that",
+      "fetched_at": "2026-07-01T19:28:10.946440+00:00"
+    },
+    "7f2bc4b844afb647": {
+      "title": "Ask HN: Will AI LLMs for coding get smarter and cheaper in the future?",
+      "fetched_at": "2026-07-01T19:28:11.525878+00:00"
+    },
+    "72e38490e25fe20d": {
+      "title": "Show HN: a Rust OS kernel built for LLM inference",
+      "fetched_at": "2026-07-01T19:28:12.170218+00:00"
+    },
+    "0cb38d128733cb07": {
+      "title": "Japan plans sovereign AI model and 10M robots",
+      "fetched_at": "2026-07-01T19:28:12.743169+00:00"
+    },
+    "bca80cb53649770c": {
+      "title": "Anthropic is hiring someone to protect democracy from its own AI",
+      "fetched_at": "2026-07-01T19:28:13.322093+00:00"
+    },
+    "3db13d79735022b3": {
+      "title": "The hard part of AI root cause analysis is no longer the model",
+      "fetched_at": "2026-07-01T19:28:13.905649+00:00"
+    },
+    "81f896c6ef2f7e2a": {
+      "title": "Don't let AI fill in all the important blanks",
+      "fetched_at": "2026-07-01T19:28:14.486615+00:00"
+    },
+    "aa1c1aa6cb896eaf": {
+      "title": "Better UX design for LLM utilization is needed.",
+      "fetched_at": "2026-07-01T19:28:15.067409+00:00"
+    },
+    "767b594c2124124a": {
+      "title": "SpaceX Showed Investors Prototype of Elon Musk's New AI Device",
+      "fetched_at": "2026-07-01T19:28:15.648483+00:00"
+    },
+    "23e44608e6e5bdfb": {
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "fetched_at": "2026-07-01T19:28:16.223249+00:00"
+    },
+    "caa9fc80d8dc9d48": {
+      "title": "BioShocking: New attack method tricks AI Browsers into leaking user data",
+      "fetched_at": "2026-07-01T19:28:16.800220+00:00"
+    },
+    "546efc23ad1dd1cc": {
+      "title": "中國能否透過《民族團結進步促進法》針對海外批評者？",
+      "fetched_at": "2026-07-01T19:28:19.337691+00:00"
+    },
+    "a6aaa414c084aedf": {
+      "title": "台灣海巡官員如何從神明信仰汲取力量？",
+      "fetched_at": "2026-07-01T19:28:19.923061+00:00"
+    },
+    "1d0614caa0d532d0": {
+      "title": "厄爾尼諾——為何2026年將是「最強一次」",
+      "fetched_at": "2026-07-01T19:28:20.493405+00:00"
+    },
+    "e3d6ab809ad72a28": {
+      "title": "中國實施《民族團結進步促進法》，為何引起台灣憂慮？",
+      "fetched_at": "2026-07-01T19:28:20.493559+00:00"
+    },
+    "f080d8cb8cd5bfe2": {
+      "title": "脫歐十年後，英國新首相在歐洲問題上必須做出重大抉擇",
+      "fetched_at": "2026-07-01T19:28:21.088466+00:00"
+    },
+    "3a0cea34d192b7de": {
+      "title": "Human DNA Detected on Cave Walls",
+      "fetched_at": "2026-07-01T19:28:23.747102+00:00"
+    },
+    "295b3891b044932c": {
+      "title": "Antarctica's first dinosaur fossil belonged to a group of the largest land animals ever",
+      "fetched_at": "2026-07-01T19:28:24.330230+00:00"
+    },
+    "a01289128a15f8d8": {
+      "title": "Ozone depletion began decades before discovery of ozone hole",
+      "fetched_at": "2026-07-01T19:28:24.901442+00:00"
+    },
+    "b7691a7f2cf00421": {
+      "title": "A surprising brain discovery is forcing scientists to rethink movement disorders",
+      "fetched_at": "2026-07-01T19:28:25.475292+00:00"
+    },
+    "f165f2755fd69865": {
+      "title": "UK likely to intervene in Paramount takeover of Warner Bros Discovery",
+      "fetched_at": "2026-07-01T19:28:26.062059+00:00"
+    },
+    "014a605c4b403890": {
+      "title": "Scientists propose launching a giant 'airbag' into space to protect us from solar superstorms ‪— and experts say it's 'quite feasible'",
+      "fetched_at": "2026-07-01T19:28:26.643242+00:00"
+    },
+    "f89248cdb0edbba8": {
+      "title": "Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive even longer",
+      "fetched_at": "2026-07-01T19:28:27.219213+00:00"
+    },
+    "39c95edf201f2229": {
+      "title": "Dead-end bitcoin mining wastes as much energy as Switzerland's entire hydropower generation capacity",
+      "fetched_at": "2026-07-01T19:28:27.791465+00:00"
+    },
+    "4a6ef946fef0cb1d": {
+      "title": "An ancient Greek computer: The Antikythera Mechanism",
+      "fetched_at": "2026-07-01T19:28:28.364026+00:00"
+    },
+    "9b9775810f895c79": {
+      "title": "Diagnostic dilemma: Improper use of a massage gun tore holes in a man's retinas",
+      "fetched_at": "2026-07-01T19:28:29.018323+00:00"
+    },
+    "aef7e8f0afc3a6b5": {
+      "title": "Simple water trick slashes diesel engine pollution by over 60%",
+      "fetched_at": "2026-07-01T19:28:29.607431+00:00"
+    },
+    "e5f6bbd3596218b5": {
+      "title": "Modern neuroscience is rediscovering an idea Freud had 130 years ago",
+      "fetched_at": "2026-07-01T19:28:30.181409+00:00"
+    },
+    "a78902a618e73b71": {
+      "title": "Scientists discover a surprising link between vitamin C and brain health",
+      "fetched_at": "2026-07-01T19:28:30.759371+00:00"
+    },
+    "48498697819eb954": {
+      "title": "The Milky Way’s weird gamma-ray glow may be dark matter after all",
+      "fetched_at": "2026-07-01T19:28:31.323642+00:00"
+    },
+    "4f73e5ac9824d18a": {
+      "title": "Melanoma's secret to cheating death has finally been revealed",
+      "fetched_at": "2026-07-01T19:28:31.912759+00:00"
     }
   },
-  "last_updated": "2026-07-01T09:27:06.943981+00:00"
+  "last_updated": "2026-07-01T19:28:32.071445+00:00"
 }
