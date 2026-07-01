@@ -1,217 +1,5 @@
 {
   "articles": {
-    "ce4551ee85d909e8": {
-      "title": "AI and the Job Market for Philosophers",
-      "fetched_at": "2026-06-22T20:31:35.524223+00:00"
-    },
-    "675fd7535f83b70c": {
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-      "fetched_at": "2026-06-22T20:31:36.137066+00:00"
-    },
-    "67894fd21dab143a": {
-      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-      "fetched_at": "2026-06-22T20:31:36.764849+00:00"
-    },
-    "3ac3f96bb2eac216": {
-      "title": "AI and tech are trying to influence the midterm elections",
-      "fetched_at": "2026-06-22T20:31:37.388647+00:00"
-    },
-    "02e4bf4c84c76edd": {
-      "title": "AI is cursing renters with the promise of impossible homes",
-      "fetched_at": "2026-06-22T20:31:38.010180+00:00"
-    },
-    "aa1115db5ace197f": {
-      "title": "AI Agent / Harness Engineer",
-      "fetched_at": "2026-06-22T20:31:38.625728+00:00"
-    },
-    "ce759051a5b91909": {
-      "title": "Your Own Private AI, Part 2: Secure Access from Anywhere with Tailscale Aperture",
-      "fetched_at": "2026-06-22T20:31:39.249460+00:00"
-    },
-    "298f80254a6ddd19": {
-      "title": "Local lint, type-check and AI security dashboard for modern full-stack projects",
-      "fetched_at": "2026-06-22T20:31:39.861712+00:00"
-    },
-    "7bf4728b0f1b7613": {
-      "title": "Show HN: A local rig to test if AI social simulation predicts reality",
-      "fetched_at": "2026-06-22T20:31:40.483570+00:00"
-    },
-    "5a0d5d7d181f65c0": {
-      "title": "The OpenSSL Library AI Policy",
-      "fetched_at": "2026-06-22T20:31:41.121619+00:00"
-    },
-    "65358b39b45764d8": {
-      "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
-      "fetched_at": "2026-06-22T20:31:41.789570+00:00"
-    },
-    "ae4f2f7f64347819": {
-      "title": "AI: Just One Big Trade",
-      "fetched_at": "2026-06-22T20:31:42.405586+00:00"
-    },
-    "3d05bf7edeb8e091": {
-      "title": "AI Has Already Killed Academia as We Know It",
-      "fetched_at": "2026-06-22T20:31:43.028587+00:00"
-    },
-    "acf5c1ea2c1899b2": {
-      "title": "Show HN: We let AI agents interact with humans on a social network",
-      "fetched_at": "2026-06-22T20:31:43.662684+00:00"
-    },
-    "df01018acc68f0e9": {
-      "title": "Sovereign AI: Why Owning the Full Stack Is the New Strategic Imperative",
-      "fetched_at": "2026-06-22T20:31:44.272098+00:00"
-    },
-    "582382f2fdd51820": {
-      "title": "Ask HN: How to manage AI spam in inbox?",
-      "fetched_at": "2026-06-22T20:31:44.891737+00:00"
-    },
-    "3a1be00597b02e93": {
-      "title": "Steam Machine – Valve's living-room PC, take two [video]",
-      "fetched_at": "2026-06-22T20:31:45.516949+00:00"
-    },
-    "366cd5abe268d374": {
-      "title": "Offrrd – Your AI job-search coach",
-      "fetched_at": "2026-06-22T20:31:46.166448+00:00"
-    },
-    "28af005b0a2119a9": {
-      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "fetched_at": "2026-06-22T20:31:46.784153+00:00"
-    },
-    "241223e94d6414ef": {
-      "title": "AI-Native Firms [pdf]",
-      "fetched_at": "2026-06-22T20:31:47.407542+00:00"
-    },
-    "b6293ce6d56cf387": {
-      "title": "Second Cannonball Unearthed at The Alamo",
-      "fetched_at": "2026-06-22T20:31:50.643161+00:00"
-    },
-    "26c3aa1e97ccdfc0": {
-      "title": "5,000-Year-Old Monument Discovered Near Stonehenge",
-      "fetched_at": "2026-06-22T20:31:51.273901+00:00"
-    },
-    "ef6e531088e67f60": {
-      "title": "芯谷微更换券商，重启IPO辅导",
-      "fetched_at": "2026-06-23T02:05:59.317517+00:00"
-    },
-    "ae8ad8e550e631e2": {
-      "title": "I designed an AI fact-checker agent (Turing). To prevent hallucinations [video]",
-      "fetched_at": "2026-06-23T02:05:59.939613+00:00"
-    },
-    "2154f0902343d846": {
-      "title": "沪深两市成交额突破1万亿元",
-      "fetched_at": "2026-06-23T02:05:59.939728+00:00"
-    },
-    "c5440ad463b15b5c": {
-      "title": "现货黄金下跌1%",
-      "fetched_at": "2026-06-23T02:06:00.566390+00:00"
-    },
-    "1564de343eac40c7": {
-      "title": "创业板指跌超2%",
-      "fetched_at": "2026-06-23T02:06:01.204533+00:00"
-    },
-    "1376df321baa6523": {
-      "title": "深证成指、创业板指双双跌逾1%",
-      "fetched_at": "2026-06-23T02:06:01.854615+00:00"
-    },
-    "9baa30abfecd1641": {
-      "title": "创业板指跌超1%",
-      "fetched_at": "2026-06-23T02:06:02.494739+00:00"
-    },
-    "d47042f48cf11a9c": {
-      "title": "沪深两市成交额突破5000亿元",
-      "fetched_at": "2026-06-23T02:06:02.494859+00:00"
-    },
-    "36334f86f2a3cc7f": {
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "fetched_at": "2026-06-23T02:06:03.129521+00:00"
-    },
-    "24ab51c7a2dce8e3": {
-      "title": "政府采购法迎来修订",
-      "fetched_at": "2026-06-23T02:06:03.787331+00:00"
-    },
-    "9c700a2e3206ac69": {
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "fetched_at": "2026-06-23T02:06:04.423257+00:00"
-    },
-    "9585154606edd4ab": {
-      "title": "A股三大指数集体低开，半导体板块领跌",
-      "fetched_at": "2026-06-23T02:06:05.066632+00:00"
-    },
-    "2d5670ddf196b022": {
-      "title": "央行今日开展5245亿元7天期逆回购操作",
-      "fetched_at": "2026-06-23T02:06:05.708001+00:00"
-    },
-    "999dbbc2dabb3bff": {
-      "title": "恒指开盘涨0.13%，恒生科技指数涨0.04%",
-      "fetched_at": "2026-06-23T02:06:06.341292+00:00"
-    },
-    "86a6a1597d32f340": {
-      "title": "人民币兑美元中间价报6.8171",
-      "fetched_at": "2026-06-23T02:06:06.968625+00:00"
-    },
-    "3c6aff71cefbe204": {
-      "title": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
-      "fetched_at": "2026-06-23T02:06:07.595876+00:00"
-    },
-    "13e56e4eea514f77": {
-      "title": "Palmier Pro: macOS video editor built for AI",
-      "fetched_at": "2026-06-23T02:06:07.596034+00:00"
-    },
-    "da70c12a897d17f2": {
-      "title": "中航光电：兴航光电目前没有面向800G、1.6T等产品开发计划",
-      "fetched_at": "2026-06-23T02:06:08.229701+00:00"
-    },
-    "fa3e68d5d6009fb7": {
-      "title": "正浩EcoFlow发布全场景储能新品矩阵",
-      "fetched_at": "2026-06-23T02:06:08.860745+00:00"
-    },
-    "c0526f5c15a757f9": {
-      "title": "派早报：荣耀发布 X80 Pro Max 等新品等",
-      "fetched_at": "2026-06-23T02:06:09.483945+00:00"
-    },
-    "44a342040e474b36": {
-      "title": "代表中国“出战”世界杯：裁判马宁和他的“卡牌”热搜",
-      "fetched_at": "2026-06-23T02:06:12.058867+00:00"
-    },
-    "daa60359115c28d9": {
-      "title": "是什麼導致英國首相施紀賢辭職？",
-      "fetched_at": "2026-06-23T02:06:12.686748+00:00"
-    },
-    "b9126df630d3e68c": {
-      "title": "誰說羅賓漢是英雄？黑暗、暴力的中世紀起源如何被抹除",
-      "fetched_at": "2026-06-23T02:06:13.310673+00:00"
-    },
-    "980d959e2332a676": {
-      "title": "每天服用健康補充劑？結果可能弊大於利",
-      "fetched_at": "2026-06-23T02:06:13.932416+00:00"
-    },
-    "57ed1dba2c681878": {
-      "title": "中国限制对美国企业出口稀土，或加剧贸易紧张局势",
-      "fetched_at": "2026-06-23T02:06:14.555179+00:00"
-    },
-    "c0dfdf89d43e05c6": {
-      "title": "「不只是裸露」——女星訴說影像虐待的複雜現實",
-      "fetched_at": "2026-06-23T02:06:15.190272+00:00"
-    },
-    "d9d39148b24dc7a8": {
-      "title": "英国首相斯塔默宣布辞职",
-      "fetched_at": "2026-06-23T02:06:15.819290+00:00"
-    },
-    "98fe7008d38cbdef": {
-      "title": "One underlying cause of inflammatory bowel disease pinpointed in new study",
-      "fetched_at": "2026-06-23T02:06:17.901348+00:00"
-    },
-    "b5ac969a420fc50d": {
-      "title": "Search, Discovery, Pills, and Portals",
-      "fetched_at": "2026-06-23T02:06:18.526733+00:00"
-    },
-    "2135480d289d75d2": {
-      "title": "Show HN: Cyclearchive.com – searchable archive of historical cycling literature",
-      "fetched_at": "2026-06-23T02:06:19.184232+00:00"
-    },
-    "433e503cb75ae26a": {
-      "title": "Bow-Wow, Ding-Dong, Pooh-Pooh: Expert explains early theories of how human language evolved — and their silly names",
-      "fetched_at": "2026-06-23T02:06:19.813207+00:00"
-    },
     "dd904476295aef15": {
       "title": "百大集团：收到委托理财收益524.4万元，占最近一个会计年度净利润的10%以上",
       "fetched_at": "2026-06-23T08:56:01.080012+00:00"
@@ -3943,7 +3731,127 @@
     "d63b49c242669001": {
       "title": "T. rex took 40 years to reach full size, scientists find",
       "fetched_at": "2026-06-30T19:29:59.225410+00:00"
+    },
+    "87532f173d7ffde4": {
+      "title": "广州：拟提升退税商店覆盖率，推动各类入境消费重点场所增设退税商店",
+      "fetched_at": "2026-07-01T02:14:39.556871+00:00"
+    },
+    "fe3a73d6d221c63b": {
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "fetched_at": "2026-07-01T02:14:40.175897+00:00"
+    },
+    "e0781a1b59e7dbf2": {
+      "title": "国家电投集团入股联和日环能源科技公司，后者增资至约7.3亿",
+      "fetched_at": "2026-07-01T02:14:40.801719+00:00"
+    },
+    "e7643687a42dacf5": {
+      "title": "告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访",
+      "fetched_at": "2026-07-01T02:14:41.430054+00:00"
+    },
+    "2db999066ad5f663": {
+      "title": "西安奕材成立新销售公司，注册资本500万",
+      "fetched_at": "2026-07-01T02:14:42.034195+00:00"
+    },
+    "a4503a0e698fd04b": {
+      "title": "特斯拉：首台量产赛博无人驾驶电动车Cybercab已在美国得州奥斯汀开启工程测试",
+      "fetched_at": "2026-07-01T02:14:42.654306+00:00"
+    },
+    "e1287297d26e3fa6": {
+      "title": "阿维塔获L3自动驾驶测试牌照",
+      "fetched_at": "2026-07-01T02:14:43.253912+00:00"
+    },
+    "0e7e51be8e1ed054": {
+      "title": "中国6月RatingDog制造业PMI 51.7",
+      "fetched_at": "2026-07-01T02:14:43.855380+00:00"
+    },
+    "cceff3b0fd86ba64": {
+      "title": "“求之科技”完成超1亿美元首轮融资",
+      "fetched_at": "2026-07-01T02:14:44.504476+00:00"
+    },
+    "7409f386818fd8d6": {
+      "title": "鸿蒙智行：6月交付50624台，累计交付143万台",
+      "fetched_at": "2026-07-01T02:14:45.120904+00:00"
+    },
+    "15cdca737f48dd5f": {
+      "title": "宁德时代10万吨碳酸锂产能复产",
+      "fetched_at": "2026-07-01T02:14:45.731364+00:00"
+    },
+    "5748895ca06f40e8": {
+      "title": "韩国政府否认有关设立新智库以利用芯片巨头超额利润的传言",
+      "fetched_at": "2026-07-01T02:14:46.349536+00:00"
+    },
+    "f4e1d53da855f135": {
+      "title": "AI Adoption Across the United States",
+      "fetched_at": "2026-07-01T02:14:46.970710+00:00"
+    },
+    "aa190ff0e3c05676": {
+      "title": "公司将新增30亿光模块收入？通富微电：不属实",
+      "fetched_at": "2026-07-01T02:14:47.677380+00:00"
+    },
+    "7bd271f537d968a4": {
+      "title": "央行7月1日开展1000亿元7天期逆回购操作",
+      "fetched_at": "2026-07-01T02:14:48.357791+00:00"
+    },
+    "ab766f868bc69777": {
+      "title": "A股三大指数开盘涨跌不一，圆通速递涨停",
+      "fetched_at": "2026-07-01T02:14:48.978012+00:00"
+    },
+    "066adcb157c4893f": {
+      "title": "现货白银日内跌幅扩大至1%",
+      "fetched_at": "2026-07-01T02:14:49.596030+00:00"
+    },
+    "e9871f9ce7fe6922": {
+      "title": "苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发",
+      "fetched_at": "2026-07-01T02:14:50.205032+00:00"
+    },
+    "e51a2e05d3538747": {
+      "title": "7月1日起货币经纪商对未签署付费服务协议的机构或停止债券报价服务",
+      "fetched_at": "2026-07-01T02:14:50.827862+00:00"
+    },
+    "fcb49880547467e5": {
+      "title": "7月1日人民币对美元中间价调升42个基点",
+      "fetched_at": "2026-07-01T02:14:51.453712+00:00"
+    },
+    "bf9f4c315390c0e7": {
+      "title": "特朗普重返白宫一年实现巨额财富增长",
+      "fetched_at": "2026-07-01T02:14:54.581331+00:00"
+    },
+    "9f25f9baf34c27b4": {
+      "title": "中国加大对日本施压力度，变相禁止稀土出口",
+      "fetched_at": "2026-07-01T02:14:55.196610+00:00"
+    },
+    "111948650b00a6f3": {
+      "title": "中國現象級遊戲「引狼入室」：《戀與深空》如何觸發玩家抵制、官方批評",
+      "fetched_at": "2026-07-01T02:14:55.817907+00:00"
+    },
+    "30baa65ccaa9a1e5": {
+      "title": "「中國尊」撞機後數日，當局仍未說明發生了什麼事",
+      "fetched_at": "2026-07-01T02:14:56.428661+00:00"
+    },
+    "91df2c127486efb0": {
+      "title": "Anthropic launches AI drug discovery program",
+      "fetched_at": "2026-07-01T02:15:02.234504+00:00"
+    },
+    "ac374108fedf1b46": {
+      "title": "Periskop – product discovery (MCP/API) for AI agents",
+      "fetched_at": "2026-07-01T02:15:02.869917+00:00"
+    },
+    "94ea01bdb8e81556": {
+      "title": "Bronze Age Boat Artwork Analyzed",
+      "fetched_at": "2026-07-01T02:15:03.475928+00:00"
+    },
+    "3861ea028ce0c16a": {
+      "title": "Australia Repatriates Smuggled Pottery to Italy",
+      "fetched_at": "2026-07-01T02:15:04.091528+00:00"
+    },
+    "4a1b477733bb21a4": {
+      "title": "Future astronauts could walk across rocks from deep inside the Moon",
+      "fetched_at": "2026-07-01T02:15:04.724853+00:00"
+    },
+    "a8c7c3291c8b2597": {
+      "title": "Butterfly that barely ages could help unlock longevity secrets",
+      "fetched_at": "2026-07-01T02:15:05.337545+00:00"
     }
   },
-  "last_updated": "2026-06-30T19:29:59.396311+00:00"
+  "last_updated": "2026-07-01T02:15:05.478909+00:00"
 }
