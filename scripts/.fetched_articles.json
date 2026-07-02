@@ -1,153 +1,5 @@
 {
   "articles": {
-    "350edded4b2d243c": {
-      "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
-      "fetched_at": "2026-06-23T19:48:09.548948+00:00"
-    },
-    "f43d853ceacc2cc2": {
-      "title": "Why smarter models won't lead to AI co-workers",
-      "fetched_at": "2026-06-23T19:48:10.655737+00:00"
-    },
-    "da61a9ad612bb7d3": {
-      "title": "Sakana AI Releases 'Fugu Ultra' to Match Frontier Performance",
-      "fetched_at": "2026-06-23T19:48:11.270723+00:00"
-    },
-    "5e64216b2001b21f": {
-      "title": "AI's Reliability Gap",
-      "fetched_at": "2026-06-23T19:48:11.899579+00:00"
-    },
-    "701efca50a9fe0cb": {
-      "title": "Mistral CEO: AI companies should pay a content levy in Europe",
-      "fetched_at": "2026-06-23T19:48:12.517586+00:00"
-    },
-    "9a79a27f7df84ca0": {
-      "title": "Ask HN: Are people generally interested using LLMs for learning purposes?",
-      "fetched_at": "2026-06-23T19:48:13.134138+00:00"
-    },
-    "d1b9dc5595d58ee8": {
-      "title": "Genesis Workbench: Generative AI for Life Sciences",
-      "fetched_at": "2026-06-23T19:48:13.759498+00:00"
-    },
-    "21439ca263044b2b": {
-      "title": "Exposing the 'brute force' of AI that is 'trying to make humans redundant'",
-      "fetched_at": "2026-06-23T19:48:14.378040+00:00"
-    },
-    "a5621983266fa1f1": {
-      "title": "Advocating for fixes to California AI Transparency Act to protect open source",
-      "fetched_at": "2026-06-23T19:48:14.997722+00:00"
-    },
-    "4b9cf86aa9d26b8c": {
-      "title": "Inference Compute Shapes Frontier LLM Evaluation",
-      "fetched_at": "2026-06-23T19:48:15.615349+00:00"
-    },
-    "142c4b57c6e03898": {
-      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
-      "fetched_at": "2026-06-23T19:48:16.237703+00:00"
-    },
-    "1ba7a2415393709e": {
-      "title": "AI Didn't Make Us Faster It Demoted Us",
-      "fetched_at": "2026-06-23T19:48:16.861814+00:00"
-    },
-    "291221046d1d8c12": {
-      "title": "The first AI marketing benchmark",
-      "fetched_at": "2026-06-23T19:48:17.491246+00:00"
-    },
-    "a07d823e7583a0c7": {
-      "title": "Confidence estimation is a better metric than agreement for LLM judges",
-      "fetched_at": "2026-06-23T19:48:18.103996+00:00"
-    },
-    "4a88edc4b670bb06": {
-      "title": "AI Models Soccer Tournament [video]",
-      "fetched_at": "2026-06-23T19:48:18.717249+00:00"
-    },
-    "f48e343aa3942a13": {
-      "title": "Yet Another Piece of AI-Pilled Speculative Fiction Has Gone Dangerously Viral",
-      "fetched_at": "2026-06-23T19:48:19.370171+00:00"
-    },
-    "2411e49d72625053": {
-      "title": "TDD is how I trust the code AI agents write [video]",
-      "fetched_at": "2026-06-23T19:48:20.001319+00:00"
-    },
-    "f34a67bcbf5e0dde": {
-      "title": "Show HN: We Help Voice AI Handle Group Conversations",
-      "fetched_at": "2026-06-23T19:48:20.614041+00:00"
-    },
-    "79fcd5206005fcb7": {
-      "title": "Lethe – Brain-Centric AI Assistant",
-      "fetched_at": "2026-06-23T19:48:21.278483+00:00"
-    },
-    "6ccef5d6bbde53d3": {
-      "title": "Ukraine's Drone Commander on Drone Warfare and Use of AI [Dutch]",
-      "fetched_at": "2026-06-23T19:48:21.964949+00:00"
-    },
-    "536df3dbc3232b5c": {
-      "title": "白宮冷待、統戰部同框：鄭麗文15天訪美行程帶回了什麼？",
-      "fetched_at": "2026-06-23T19:48:24.916229+00:00"
-    },
-    "0460ae4128269df8": {
-      "title": "全球衝擊下，為什麼美國經濟持續逆勢而上？",
-      "fetched_at": "2026-06-23T19:48:25.537924+00:00"
-    },
-    "98e2cc968793072e": {
-      "title": "When Historical Fiction Is a Crime (2020)",
-      "fetched_at": "2026-06-23T19:48:46.321847+00:00"
-    },
-    "1d3d797b413751f4": {
-      "title": "Parthenon’s Western Facade Restored",
-      "fetched_at": "2026-06-23T19:48:46.943328+00:00"
-    },
-    "c42d3ec7f31904a3": {
-      "title": "Pithos Burial Discovered at Hadrianopolis",
-      "fetched_at": "2026-06-23T19:48:47.568334+00:00"
-    },
-    "58d505973846f41e": {
-      "title": "NASA satellite captures wave of warm water hundreds of miles long that signals a devastatingly strong El Niño",
-      "fetched_at": "2026-06-23T19:48:48.185327+00:00"
-    },
-    "1a866b98ffc8d01f": {
-      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-      "fetched_at": "2026-06-23T19:48:48.798637+00:00"
-    },
-    "8c2328f880b4ae7f": {
-      "title": "Who Made the Sutton Hoo Helmet?",
-      "fetched_at": "2026-06-23T19:48:49.415785+00:00"
-    },
-    "4f934b38fef384bf": {
-      "title": "Two Early Dynastic Tombs Exposed in Egypt",
-      "fetched_at": "2026-06-23T19:48:50.044712+00:00"
-    },
-    "27bdfb913a271e53": {
-      "title": "Something in space may be changing alien signals before they can reach Earth. Scientists have a solution.",
-      "fetched_at": "2026-06-23T19:48:50.665292+00:00"
-    },
-    "33a4ff5cc842a3a4": {
-      "title": "'If there's any country that will do it, it's China': Why is China diverting some of the world's mightiest rivers thousands of miles?",
-      "fetched_at": "2026-06-23T19:48:51.291634+00:00"
-    },
-    "60b744ba044ed15e": {
-      "title": "Bluerails Discovery",
-      "fetched_at": "2026-06-23T19:48:51.915606+00:00"
-    },
-    "afe96e9a48493cbd": {
-      "title": "The tea in your kombucha changes more than just the taste",
-      "fetched_at": "2026-06-23T19:48:52.525811+00:00"
-    },
-    "45858bb4ac9eae97": {
-      "title": "A rare interstellar visitor triggered a SETI search for alien technology",
-      "fetched_at": "2026-06-23T19:48:53.152828+00:00"
-    },
-    "0b34c6b0d0528109": {
-      "title": "Scientists finally solved how H5N1 bird flu hid in dairy cows",
-      "fetched_at": "2026-06-23T19:48:53.779836+00:00"
-    },
-    "5fd4194bb00b7f42": {
-      "title": "Hidden bird species discovered in Japan after DNA reveals a stunning secret",
-      "fetched_at": "2026-06-23T19:48:54.392084+00:00"
-    },
-    "e52cdbeb4611af72": {
-      "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
-      "fetched_at": "2026-06-23T19:48:55.025916+00:00"
-    },
     "f49caed198ce97da": {
       "title": "三大指数集体转涨",
       "fetched_at": "2026-06-24T02:08:01.113564+00:00"
@@ -3915,7 +3767,135 @@
     "4f73e5ac9824d18a": {
       "title": "Melanoma's secret to cheating death has finally been revealed",
       "fetched_at": "2026-07-01T19:28:31.912759+00:00"
+    },
+    "dac696521657d03e": {
+      "title": "软银集团拟发行新一轮公司债，发行总额上限达1.5万亿日元",
+      "fetched_at": "2026-07-02T02:06:42.648223+00:00"
+    },
+    "9524a783fc079284": {
+      "title": "恒生科技指数涨幅扩大至2%",
+      "fetched_at": "2026-07-02T02:06:43.223896+00:00"
+    },
+    "3fe7477ccfe9a12f": {
+      "title": "PanelSpec – design UI on real devices, export layout prompts for AI codegen",
+      "fetched_at": "2026-07-02T02:06:43.804630+00:00"
+    },
+    "536d80c3c79cb739": {
+      "title": "沪深两市成交额突破1万亿",
+      "fetched_at": "2026-07-02T02:06:44.390451+00:00"
+    },
+    "391756219f72b4c5": {
+      "title": "I'm Begging You to Leave Your AI Note-Taker at Home",
+      "fetched_at": "2026-07-02T02:06:44.974967+00:00"
+    },
+    "df4089145e523e59": {
+      "title": "沪深两市成交额突破5000亿元",
+      "fetched_at": "2026-07-02T02:06:45.558816+00:00"
+    },
+    "bca73570708693e3": {
+      "title": "WebDeck – AI-powered PPT to interactive HTML converter",
+      "fetched_at": "2026-07-02T02:06:46.183329+00:00"
+    },
+    "9f836f9f7feda423": {
+      "title": "创业板指跌超4%",
+      "fetched_at": "2026-07-02T02:06:46.773938+00:00"
+    },
+    "264e6a3e0497ea8b": {
+      "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
+      "fetched_at": "2026-07-02T02:06:47.372042+00:00"
+    },
+    "f3bdeac7b992ea98": {
+      "title": "Tips for scaling AI from founders to organization leaders",
+      "fetched_at": "2026-07-02T02:06:47.944262+00:00"
+    },
+    "56d68090d6d29e46": {
+      "title": "A股三大指数均大幅低开，中际旭创跌超5%",
+      "fetched_at": "2026-07-02T02:06:48.558814+00:00"
+    },
+    "7bfaebe88f176dca": {
+      "title": "That Sounds Like AI: The Last Refuge of the Intellectually Insolvent",
+      "fetched_at": "2026-07-02T02:06:49.138355+00:00"
+    },
+    "c34b60fbc477a5b8": {
+      "title": "央行今日开展2885亿元7天逆回购操作",
+      "fetched_at": "2026-07-02T02:06:49.717016+00:00"
+    },
+    "92192f6aa6f82725": {
+      "title": "More AI – Open-source model-agnostic AI desktop",
+      "fetched_at": "2026-07-02T02:06:50.301054+00:00"
+    },
+    "b1c29985c25d0ddd": {
+      "title": "Float Runs an AI Energy Company on a 3-Person Team with Tiger Data",
+      "fetched_at": "2026-07-02T02:06:50.885120+00:00"
+    },
+    "3d1fba270196fee1": {
+      "title": "恒指开盘涨0.83%，恒生科技指数涨1.25%",
+      "fetched_at": "2026-07-02T02:06:51.456445+00:00"
+    },
+    "db32698dd7556b80": {
+      "title": "36氪首发丨北大博士量子团队获高瓴创投领投，国内唯一实现纳开温区量子计算机工程化",
+      "fetched_at": "2026-07-02T02:06:52.036448+00:00"
+    },
+    "776274c799e44f67": {
+      "title": "人民币兑美元中间价报6.8088，下调21点",
+      "fetched_at": "2026-07-02T02:06:52.602331+00:00"
+    },
+    "0b1ce469db9fd4dc": {
+      "title": "AI and Operators",
+      "fetched_at": "2026-07-02T02:06:53.175398+00:00"
+    },
+    "3ee10de99f862cc3": {
+      "title": "Show HN: A local AI-powered Bloomberg terminal for German meme stocks",
+      "fetched_at": "2026-07-02T02:06:53.756474+00:00"
+    },
+    "8c8ebd181a2d544d": {
+      "title": "美中钨矿争夺战：这座韩国矿山能否重构供应链？",
+      "fetched_at": "2026-07-02T02:06:55.992347+00:00"
+    },
+    "9696a3c81db2e59b": {
+      "title": "薩爾瓦多大監獄為何讓右翼政治人物趨之若鶩？",
+      "fetched_at": "2026-07-02T02:06:56.656181+00:00"
+    },
+    "40ad902138a54b7d": {
+      "title": "Ancient-DNA analysis solves 500-year-old mystery of what killed 2 Medici brothers",
+      "fetched_at": "2026-07-02T02:07:06.621628+00:00"
+    },
+    "0f9db9407767bb33": {
+      "title": "7,000-Year-Old Quarry Examined in South Australia",
+      "fetched_at": "2026-07-02T02:07:07.218379+00:00"
+    },
+    "75d0d5a653e30cdc": {
+      "title": "1,100-Year-Old Mummified Dogs from Peru Analyzed",
+      "fetched_at": "2026-07-02T02:07:07.846029+00:00"
+    },
+    "612d0ee1f1c38211": {
+      "title": "Scientists recreated a dinosaur nest and solved a 70-million-year-old mystery",
+      "fetched_at": "2026-07-02T02:07:08.417458+00:00"
+    },
+    "c1452b12fa0d8179": {
+      "title": "Teeth smaller than a fingertip reveal our first primate ancestor",
+      "fetched_at": "2026-07-02T02:07:09.005734+00:00"
+    },
+    "8cad09fce04326b6": {
+      "title": "Scientists discover a completely different way to fight viruses",
+      "fetched_at": "2026-07-02T02:07:09.594284+00:00"
+    },
+    "3a47fd22d0ab3e93": {
+      "title": "One injection reversed osteoarthritis in weeks",
+      "fetched_at": "2026-07-02T02:07:10.164148+00:00"
+    },
+    "a33f0f42ed6e65a4": {
+      "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
+      "fetched_at": "2026-07-02T02:07:10.740837+00:00"
+    },
+    "028a4f4fcea2d787": {
+      "title": "Meteorite reveals a lost moon-sized world from the dawn of the solar system",
+      "fetched_at": "2026-07-02T02:07:11.332279+00:00"
+    },
+    "ac4e3824b21af9d0": {
+      "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
+      "fetched_at": "2026-07-02T02:07:11.919287+00:00"
     }
   },
-  "last_updated": "2026-07-01T19:28:32.071445+00:00"
+  "last_updated": "2026-07-02T02:07:12.070064+00:00"
 }
