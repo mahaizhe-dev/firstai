@@ -1,113 +1,5 @@
 {
   "articles": {
-    "d2ea6f48a17f41cf": {
-      "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
-      "fetched_at": "2026-06-25T14:01:53.888679+00:00"
-    },
-    "792088419253a11c": {
-      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "fetched_at": "2026-06-25T14:01:54.456420+00:00"
-    },
-    "75ecd5d3a8b3fbd1": {
-      "title": "热门中概股美股盘前普跌，阿里巴巴跌超2%",
-      "fetched_at": "2026-06-25T14:01:55.197972+00:00"
-    },
-    "14b256f49d1875e1": {
-      "title": "美股大型科技股盘前涨跌不一，美光科技涨超18%",
-      "fetched_at": "2026-06-25T14:01:55.766513+00:00"
-    },
-    "15d2c6fe039c76d7": {
-      "title": "苹果公司：人工智能数据中心的快速扩张导致内存需求激增",
-      "fetched_at": "2026-06-25T14:01:56.339746+00:00"
-    },
-    "5eb00ffb7994c0e2": {
-      "title": "零跑D99正式上市，售价24.98万起",
-      "fetched_at": "2026-06-25T14:01:56.905537+00:00"
-    },
-    "966d501727a762f8": {
-      "title": "大族激光：控股子公司拟共同投资不超过25.2亿元建设年产6000万芯公里光纤及预制棒项目",
-      "fetched_at": "2026-06-25T14:01:57.478733+00:00"
-    },
-    "c4cb840d5036a7c2": {
-      "title": "铠侠据悉已开始挑选承销商，筹备赴美上市",
-      "fetched_at": "2026-06-25T14:01:58.057484+00:00"
-    },
-    "f71af11484b95090": {
-      "title": "美国5月核心PCE同比上涨3.4%",
-      "fetched_at": "2026-06-25T14:01:58.634857+00:00"
-    },
-    "f561b4608ff8da33": {
-      "title": "尊界S800 Grand Design典藏大观上市",
-      "fetched_at": "2026-06-25T14:01:59.201616+00:00"
-    },
-    "39dfc271f9383373": {
-      "title": "存储板块年内市值增长2.1万亿，兆易创新增超4000亿",
-      "fetched_at": "2026-06-25T14:01:59.778486+00:00"
-    },
-    "a627f72229d1dce0": {
-      "title": "昀冢科技：股票价格多次触及股票交易异常波动，公司将就股票交易波动情况进行停牌核查",
-      "fetched_at": "2026-06-25T14:02:00.407973+00:00"
-    },
-    "28649b0eebb0f14a": {
-      "title": "美团LongCat开源 VitaBench2.0",
-      "fetched_at": "2026-06-25T14:02:00.982208+00:00"
-    },
-    "7b7ad45c8a9a47d0": {
-      "title": "5天3板太极实业：公司半导体业务目前不涉及HBM产品",
-      "fetched_at": "2026-06-25T14:02:01.556521+00:00"
-    },
-    "b9a12a6697a28368": {
-      "title": "骄成超声：拟收购骄成半导体40%股权实现全资控股",
-      "fetched_at": "2026-06-25T14:02:02.134952+00:00"
-    },
-    "cf1e99b692ad63b1": {
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "fetched_at": "2026-06-25T14:02:02.715789+00:00"
-    },
-    "90cffc5e1b203f9d": {
-      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-      "fetched_at": "2026-06-25T14:02:03.288966+00:00"
-    },
-    "6af9aa44f7ab6b46": {
-      "title": "联讯仪器：股价涨幅大、估值高，提示多项投资风险",
-      "fetched_at": "2026-06-25T14:02:03.870812+00:00"
-    },
-    "dda6409a03e2cbee": {
-      "title": "通富微电：第二大股东国家大基金持股比例降至5%以下",
-      "fetched_at": "2026-06-25T14:02:04.440435+00:00"
-    },
-    "7cd848b6cc9f3ec1": {
-      "title": "美光的好财报，黄金的坏消息",
-      "fetched_at": "2026-06-25T14:02:05.009878+00:00"
-    },
-    "dee79a002e9b0302": {
-      "title": "脫歐十年，對英國經濟的影響愈發清晰",
-      "fetched_at": "2026-06-25T14:02:07.171620+00:00"
-    },
-    "40b62188f10b6000": {
-      "title": "從哥倫布到獨立宣言：美國是如何成為一個國家的？",
-      "fetched_at": "2026-06-25T14:02:07.740815+00:00"
-    },
-    "2401eb39c1e08e2a": {
-      "title": "看完全部104場世界盃比賽，這兩人能倒賺5萬美元",
-      "fetched_at": "2026-06-25T14:02:08.305489+00:00"
-    },
-    "8155ac9e7b74d92a": {
-      "title": "'This is the next jump in technology': World's first sub-1nm chip keeps Moore's Law alive a little longer",
-      "fetched_at": "2026-06-25T14:02:10.293723+00:00"
-    },
-    "23f409769099ca15": {
-      "title": "Scientists find thousands of earthquakes in a perfectly straight line in Alaska, revealing a hidden 'microplate'",
-      "fetched_at": "2026-06-25T14:02:10.863856+00:00"
-    },
-    "1870882ccc16fdd8": {
-      "title": "NASA rover finds record-breaking trove of complex organic molecules on Mars",
-      "fetched_at": "2026-06-25T14:02:11.437229+00:00"
-    },
-    "6e3c339bfee42af5": {
-      "title": "'You can't patch your way out of it': Cheap AI worm can spread between devices without human guidance — but how did scientists create it?",
-      "fetched_at": "2026-06-25T14:02:11.997898+00:00"
-    },
     "9c05ddfc2b92eed7": {
       "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
       "fetched_at": "2026-06-25T19:44:05.314721+00:00"
@@ -3895,7 +3787,103 @@
     "95e5b28ceaebde02": {
       "title": "Satellites reveal Earth has a surprising symmetry in the way it reflects light — and it might be tied to the El Niño cycle",
       "fetched_at": "2026-07-03T13:39:37.318066+00:00"
+    },
+    "1574b211202ebb18": {
+      "title": "An AI Koan",
+      "fetched_at": "2026-07-03T18:59:24.786332+00:00"
+    },
+    "2ac7e2f341d66c44": {
+      "title": "Mathematics in Machine Learning (Vector Embeddings)",
+      "fetched_at": "2026-07-03T18:59:25.384890+00:00"
+    },
+    "7868b64481e4f559": {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "fetched_at": "2026-07-03T18:59:25.964328+00:00"
+    },
+    "70e17ffa84500d47": {
+      "title": "Ask HN: Are any startups hiring front-end developers, or are they just using AI?",
+      "fetched_at": "2026-07-03T18:59:26.531483+00:00"
+    },
+    "ff0e895474c36f6a": {
+      "title": "SaaS Economics in the AI Era",
+      "fetched_at": "2026-07-03T18:59:27.112971+00:00"
+    },
+    "d2f2141dbc32b84d": {
+      "title": "AI turned every engineer into three. Now companies need more product thinkers",
+      "fetched_at": "2026-07-03T18:59:27.686571+00:00"
+    },
+    "8596836e2d938fbd": {
+      "title": "Collabora Office Update with Choose Your Own LLM Adventure",
+      "fetched_at": "2026-07-03T18:59:28.254100+00:00"
+    },
+    "0588408d168dc527": {
+      "title": "Physics informed generative AI for semiconductor manufacturing",
+      "fetched_at": "2026-07-03T18:59:28.822881+00:00"
+    },
+    "72edbb2a6efa59c6": {
+      "title": "Show HN: Solace – A quiet, local AI companion for Android with long-term memory",
+      "fetched_at": "2026-07-03T18:59:29.414862+00:00"
+    },
+    "6c3d90b20a9a0867": {
+      "title": "Token prices collapsing, regulation rising, AI's pricing power looks fragile",
+      "fetched_at": "2026-07-03T18:59:29.997314+00:00"
+    },
+    "12bf894f580d3937": {
+      "title": "Flora: A Diagram Library Built with (and for) AI",
+      "fetched_at": "2026-07-03T18:59:30.573950+00:00"
+    },
+    "f3bd063d6d9210c4": {
+      "title": "Patagonia Vests Are \"Out\" with AI Crowd",
+      "fetched_at": "2026-07-03T18:59:31.149721+00:00"
+    },
+    "26f731e9d49c231b": {
+      "title": "The $1.3 million theft that exposed AI's blind spot",
+      "fetched_at": "2026-07-03T18:59:31.721508+00:00"
+    },
+    "48f58a40d8af0c33": {
+      "title": "Jersey Mike's IPO illustrates how bad the AI hype has become",
+      "fetched_at": "2026-07-03T18:59:32.297574+00:00"
+    },
+    "78137ebfede090df": {
+      "title": "AI's Volatile Power Use Quietly Tests Grid Limits",
+      "fetched_at": "2026-07-03T18:59:32.876021+00:00"
+    },
+    "9d9cda026cf3f8ea": {
+      "title": "AI's $2.2T deficit fix is already half fake, economists say",
+      "fetched_at": "2026-07-03T18:59:33.446158+00:00"
+    },
+    "004a5486781e00a6": {
+      "title": "Ask HN: Procrastination with AI?",
+      "fetched_at": "2026-07-03T18:59:34.020151+00:00"
+    },
+    "937b6fa90f45b959": {
+      "title": "The Mental Models I Use to Work with AI",
+      "fetched_at": "2026-07-03T18:59:34.600543+00:00"
+    },
+    "864e47edad6c1fed": {
+      "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
+      "fetched_at": "2026-07-03T18:59:35.169323+00:00"
+    },
+    "df0cce5c0dbd1d6a": {
+      "title": "The AI coding maturity scale",
+      "fetched_at": "2026-07-03T18:59:35.752617+00:00"
+    },
+    "9e4bc8ec9cbb4324": {
+      "title": "當美國人慶祝從英國分裂出去250年，英國人又是如何紀念？",
+      "fetched_at": "2026-07-03T18:59:38.126866+00:00"
+    },
+    "851831e5a896aba9": {
+      "title": "Diminutive species 'the Hobbit' did not hunt or control fire, deepening the mystery of its ancestry, dwarf elephant bones reveal",
+      "fetched_at": "2026-07-03T18:59:41.192561+00:00"
+    },
+    "e2cf3ced77c24716": {
+      "title": "Elite families ruled nomadic Scythian society 2,500 years ago, DNA analysis reveals",
+      "fetched_at": "2026-07-03T18:59:41.763284+00:00"
+    },
+    "4b6df361874c7158": {
+      "title": "'Machine-gun sun' could bring auroras to more than a dozen states this Independence Day weekend",
+      "fetched_at": "2026-07-03T18:59:42.340825+00:00"
     }
   },
-  "last_updated": "2026-07-03T13:39:37.464203+00:00"
+  "last_updated": "2026-07-03T18:59:42.493737+00:00"
 }
