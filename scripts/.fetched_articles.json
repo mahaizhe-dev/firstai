@@ -1,109 +1,5 @@
 {
   "articles": {
-    "c4c4ff1453300320": {
-      "title": "Show HN: NexisSearch – Fast AI Search",
-      "fetched_at": "2026-06-26T13:59:59.455629+00:00"
-    },
-    "121414ed401811f2": {
-      "title": "Food for Agile Thought 550: Make AI Boring, Everyone's a Product Manager Soon",
-      "fetched_at": "2026-06-26T14:00:00.089558+00:00"
-    },
-    "7853d1af54fbacd7": {
-      "title": "Hey HN, I built local char an open source local AI platform like character AI",
-      "fetched_at": "2026-06-26T14:00:00.727971+00:00"
-    },
-    "bc5970e5b2c6e19f": {
-      "title": "Multi-harness session monitoring app for heavy AI users",
-      "fetched_at": "2026-06-26T14:00:01.349930+00:00"
-    },
-    "1ad594841c2f2955": {
-      "title": "AI and Liability",
-      "fetched_at": "2026-06-26T14:00:01.978318+00:00"
-    },
-    "6da373bb9dbb1658": {
-      "title": "AI inference is obviously profitable",
-      "fetched_at": "2026-06-26T14:00:02.599513+00:00"
-    },
-    "26649b09d44457e1": {
-      "title": "I Wish I Knew This Before Building an AI Second Brain",
-      "fetched_at": "2026-06-26T14:00:03.215272+00:00"
-    },
-    "f6fb7bf2fea25873": {
-      "title": "Trump administration asks OpenAI to stagger release of GPT 5.6",
-      "fetched_at": "2026-06-26T14:00:03.831705+00:00"
-    },
-    "4fc8ec610a35c8c5": {
-      "title": "Adobe is buying Topaz Labs, the AI video enhancer",
-      "fetched_at": "2026-06-26T14:00:04.447037+00:00"
-    },
-    "e1e05ba344e68583": {
-      "title": "AI Makes Bad Product Decisions Look Like Finished Software",
-      "fetched_at": "2026-06-26T14:00:05.067093+00:00"
-    },
-    "d1df4bed13f1ac52": {
-      "title": "The AI backlash is only getting started",
-      "fetched_at": "2026-06-26T14:00:05.697380+00:00"
-    },
-    "9d99bcbec9576a8a": {
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-      "fetched_at": "2026-06-26T14:00:06.315261+00:00"
-    },
-    "c51282b8484b76f8": {
-      "title": "Guardrails for Offensive AI Agents",
-      "fetched_at": "2026-06-26T14:00:06.932374+00:00"
-    },
-    "293fae0016625321": {
-      "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
-      "fetched_at": "2026-06-26T14:00:07.557331+00:00"
-    },
-    "a128519340aee0e1": {
-      "title": "Show HN: Jargo – a Golang port of Pipecat for conversational-AI apps",
-      "fetched_at": "2026-06-26T14:00:08.194873+00:00"
-    },
-    "967a8430403a5212": {
-      "title": "美股大型科技股盘前涨跌不一，SpaceX跌超1%",
-      "fetched_at": "2026-06-26T14:00:08.822935+00:00"
-    },
-    "321ad0997245aec1": {
-      "title": "Free Software and LLM Contribution Policies",
-      "fetched_at": "2026-06-26T14:00:09.437220+00:00"
-    },
-    "3d566aa0c0b19813": {
-      "title": "协创数据：拟定增募资不超80亿元，用于智算中心及数据存储项目等",
-      "fetched_at": "2026-06-26T14:00:10.064671+00:00"
-    },
-    "ef4ef5fd751d5811": {
-      "title": "The closed-source LLM premium has collapsed",
-      "fetched_at": "2026-06-26T14:00:10.699608+00:00"
-    },
-    "f4621dc881781d65": {
-      "title": "Codex AI Agent Skill Development for UI Design and Development",
-      "fetched_at": "2026-06-26T14:00:11.332043+00:00"
-    },
-    "c1117ad9c1ac39c8": {
-      "title": "英王查爾斯與王后為何放棄遷入白金漢宮",
-      "fetched_at": "2026-06-26T14:00:13.786433+00:00"
-    },
-    "37604ada6aea9fc3": {
-      "title": "日本簽證漲價五倍，中國人為何反應激烈？",
-      "fetched_at": "2026-06-26T14:00:14.404845+00:00"
-    },
-    "047de562c682bee6": {
-      "title": "Water shortages could prevent the US from mining more lithium, deepening reliance on foreign imports",
-      "fetched_at": "2026-06-26T14:00:23.830954+00:00"
-    },
-    "99ffbbfd20df6145": {
-      "title": "New chip harnesses quantum computing's biggest weakness — and tries to turn it into a strength",
-      "fetched_at": "2026-06-26T14:00:24.452346+00:00"
-    },
-    "0bff1a93a27babdd": {
-      "title": "IBM creates world's first sub-1nm computer chip — cramming 100 billion transistors into a tiny fingernail-sized space",
-      "fetched_at": "2026-06-26T14:00:25.144407+00:00"
-    },
-    "a9e4efe012e32088": {
-      "title": "'It's a huge deal': Archaeologists discover second cannonball from the Battle of the Alamo, and it was likely fired by Texans",
-      "fetched_at": "2026-06-26T14:00:25.765109+00:00"
-    },
     "c85f33ec186f79a9": {
       "title": "Show HN: Mantis, A self-hosted LLM gateway",
       "fetched_at": "2026-06-26T19:26:42.291371+00:00"
@@ -3767,7 +3663,91 @@
     "1415a029306c50c8": {
       "title": "Are CAPTCHAs obsolete in the age of AI?",
       "fetched_at": "2026-07-04T12:57:07.938242+00:00"
+    },
+    "6dc11df29ab6c727": {
+      "title": "Overllm – flags where you're paying an LLM to do a regex's job",
+      "fetched_at": "2026-07-04T18:54:23.937351+00:00"
+    },
+    "d1839828548503bd": {
+      "title": "Understanding AI Memory the Basics",
+      "fetched_at": "2026-07-04T18:54:24.519101+00:00"
+    },
+    "63dd7a4caac01c9d": {
+      "title": "HN – The first AI recruitment assistant beyond traditional ATS",
+      "fetched_at": "2026-07-04T18:54:25.113583+00:00"
+    },
+    "4c20d3c7a6fa3e82": {
+      "title": "Email inboxes for AI agents: the complete guide – MailKite",
+      "fetched_at": "2026-07-04T18:54:25.702874+00:00"
+    },
+    "b283695095d9a353": {
+      "title": "Show HN: AI-powered code review tool",
+      "fetched_at": "2026-07-04T18:54:26.308910+00:00"
+    },
+    "4791ffde1988e278": {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "fetched_at": "2026-07-04T18:54:26.916090+00:00"
+    },
+    "80cdddf566ff1f82": {
+      "title": "AI researchers ran a secret experiment on Reddit users (2025)",
+      "fetched_at": "2026-07-04T18:54:27.499183+00:00"
+    },
+    "cda519de2b3b6efc": {
+      "title": "AI bots ignore evidence. Can we trust them with science?",
+      "fetched_at": "2026-07-04T18:54:28.083924+00:00"
+    },
+    "e47739f68c442324": {
+      "title": "AI Has Hacked the Code of Human Civilization – Yuval Noah Harari",
+      "fetched_at": "2026-07-04T18:54:28.696472+00:00"
+    },
+    "5a55d7468a19647f": {
+      "title": "Only 1 of the Top 5 AI Coding Models on WebDev Arena Isn't Chinese",
+      "fetched_at": "2026-07-04T18:54:29.282328+00:00"
+    },
+    "6d830e745420f47f": {
+      "title": "How Tier-1 capital market is using AI Agent architecture",
+      "fetched_at": "2026-07-04T18:54:29.864754+00:00"
+    },
+    "2ac7823a38d5cdc9": {
+      "title": "Show HN: AI Interview Coach – practice with honest hiring-manager-grade feedback",
+      "fetched_at": "2026-07-04T18:54:30.447594+00:00"
+    },
+    "e856f39052e12491": {
+      "title": "Cory Doctorow on the Right – and Wrong – Way to Criticize AI",
+      "fetched_at": "2026-07-04T18:54:31.030547+00:00"
+    },
+    "b480259895ac23a1": {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "fetched_at": "2026-07-04T18:54:31.647934+00:00"
+    },
+    "7eff1f0a2f566e24": {
+      "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier [video]",
+      "fetched_at": "2026-07-04T18:54:32.233829+00:00"
+    },
+    "802401704073387f": {
+      "title": "Understanding the Dynamics of the AI Ecosystem with Pace Layers",
+      "fetched_at": "2026-07-04T18:54:32.822935+00:00"
+    },
+    "606ccee501582d69": {
+      "title": "Career Advice in the Age of AI",
+      "fetched_at": "2026-07-04T18:54:33.411152+00:00"
+    },
+    "c51342d15dfafe25": {
+      "title": "The AI Compass",
+      "fetched_at": "2026-07-04T18:54:34.010153+00:00"
+    },
+    "f89c5260070273ee": {
+      "title": "Agentic test processes, LLM benchmarks",
+      "fetched_at": "2026-07-04T18:54:34.591696+00:00"
+    },
+    "bc9801ca3bc893e6": {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "fetched_at": "2026-07-04T18:54:35.183962+00:00"
+    },
+    "1ccf993fd21c7f3c": {
+      "title": "The US is hooked on unregulated peptides. But are they effective, or even safe?",
+      "fetched_at": "2026-07-04T18:54:41.032667+00:00"
     }
   },
-  "last_updated": "2026-07-04T12:57:08.051398+00:00"
+  "last_updated": "2026-07-04T18:54:41.086000+00:00"
 }
