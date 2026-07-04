@@ -1,145 +1,5 @@
 {
   "articles": {
-    "9c05ddfc2b92eed7": {
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "fetched_at": "2026-06-25T19:44:05.314721+00:00"
-    },
-    "98ddb8c459698290": {
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "fetched_at": "2026-06-25T19:44:05.883501+00:00"
-    },
-    "881faac42590408e": {
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "fetched_at": "2026-06-25T19:44:06.443144+00:00"
-    },
-    "38b7c01cc74264c5": {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "fetched_at": "2026-06-25T19:44:07.009090+00:00"
-    },
-    "78cd1250ca1ba765": {
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "fetched_at": "2026-06-25T19:44:07.591729+00:00"
-    },
-    "f86ab4b15df90167": {
-      "title": "腾讯云EdgeOne Makers登顶Product Hunt日榜",
-      "fetched_at": "2026-06-25T19:44:08.153664+00:00"
-    },
-    "26d642586cd19647": {
-      "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
-      "fetched_at": "2026-06-25T19:44:08.732641+00:00"
-    },
-    "e8afef0e956c5e0a": {
-      "title": "机构今日买入聚辰股份等33股，卖出汇成股份5.13亿元",
-      "fetched_at": "2026-06-25T19:44:09.318125+00:00"
-    },
-    "3ebb765f8d362a8b": {
-      "title": "“Airwallex空中云汇”完成3.2亿美元H轮融资，估值达110亿美元",
-      "fetched_at": "2026-06-25T19:44:09.888008+00:00"
-    },
-    "722005e18f6fbef3": {
-      "title": "外资看好中国，中国词元调用量连续7周霸榜全球",
-      "fetched_at": "2026-06-25T19:44:10.469064+00:00"
-    },
-    "45652c0ba3da50a3": {
-      "title": "欧盟委员会初步认定AWS及Azure应被列为《数字市场法》守门人，亚马逊、微软面临更严格审查",
-      "fetched_at": "2026-06-25T19:44:11.034201+00:00"
-    },
-    "79f4cffee196d30d": {
-      "title": "新玩意 245｜少数派的编辑们最近买了啥？",
-      "fetched_at": "2026-06-25T19:44:11.599249+00:00"
-    },
-    "dd936dc0ac44968e": {
-      "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
-      "fetched_at": "2026-06-25T19:44:12.185391+00:00"
-    },
-    "74c5ee7f52f620b3": {
-      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-      "fetched_at": "2026-06-25T19:44:12.757196+00:00"
-    },
-    "5eef2f7a7bb4b77e": {
-      "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
-      "fetched_at": "2026-06-25T19:44:13.394704+00:00"
-    },
-    "d53068ab16876092": {
-      "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
-      "fetched_at": "2026-06-25T19:44:14.043705+00:00"
-    },
-    "33ff49379a3d3e82": {
-      "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
-      "fetched_at": "2026-06-25T19:44:14.617823+00:00"
-    },
-    "5816a8758cdbf32e": {
-      "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
-      "fetched_at": "2026-06-25T19:44:15.187301+00:00"
-    },
-    "2170db802ec886b3": {
-      "title": "实现光学载荷批量化交付，苏州商业航天企业再获数亿元融资｜36氪首发",
-      "fetched_at": "2026-06-25T19:44:15.757048+00:00"
-    },
-    "02c73cacf3e36465": {
-      "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
-      "fetched_at": "2026-06-25T19:44:16.330589+00:00"
-    },
-    "3ef5d887c108888c": {
-      "title": "Genomes of Europe’s Last Neanderthals Analyzed",
-      "fetched_at": "2026-06-25T19:44:22.278812+00:00"
-    },
-    "e0373e82be840354": {
-      "title": "Discovery of an unpublished autograph manuscript by Mozart",
-      "fetched_at": "2026-06-25T19:44:22.848925+00:00"
-    },
-    "7e32a25ecf202a6f": {
-      "title": "Viking Textile Center Excavated in Denmark",
-      "fetched_at": "2026-06-25T19:44:23.415269+00:00"
-    },
-    "6912f7b10075c14a": {
-      "title": "Some of the last surviving Neanderthals were remarkably diverse ‪—‬ suggesting inbreeding didn't doom them",
-      "fetched_at": "2026-06-25T19:44:23.997469+00:00"
-    },
-    "f3331b747601cce3": {
-      "title": "Genetic Material Recovered from 300,000-Year-Old Homo naledi Teeth",
-      "fetched_at": "2026-06-25T19:44:24.563089+00:00"
-    },
-    "46aafd816a7275ab": {
-      "title": "How Modern life compounds the ancient struggle to belong",
-      "fetched_at": "2026-06-25T19:44:25.132682+00:00"
-    },
-    "4579e33105171038": {
-      "title": "Why I wrote PEP 832: virtual environment discovery",
-      "fetched_at": "2026-06-25T19:44:25.697182+00:00"
-    },
-    "72a9914837501c31": {
-      "title": "This common vitamin deficiency can mimic normal aging",
-      "fetched_at": "2026-06-25T19:44:26.266338+00:00"
-    },
-    "d4b7450e1b166bc2": {
-      "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
-      "fetched_at": "2026-06-25T19:44:26.832689+00:00"
-    },
-    "fca4ef07cfdacfaf": {
-      "title": "Scientists discover how a single cell builds a brain with 170 billion cells",
-      "fetched_at": "2026-06-25T19:44:27.393398+00:00"
-    },
-    "43c294c77616beb7": {
-      "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
-      "fetched_at": "2026-06-25T19:44:27.964505+00:00"
-    },
-    "82ab12bc5509f3bd": {
-      "title": "NASA’s Lucy finds a wobbling peanut-shaped asteroid with signs of ancient water",
-      "fetched_at": "2026-06-25T19:44:28.543577+00:00"
-    },
-    "2de8211fca5c3734": {
-      "title": "60 million stars: Euclid space telescope snaps the most detailed photo of the Milky Way ever taken",
-      "fetched_at": "2026-06-25T19:44:29.122360+00:00"
-    },
-    "13e06963f10d1c27": {
-      "title": "We've spent decades looking for the wrong type of alien radio signals, new paper claims — and there's an easy way to fix it",
-      "fetched_at": "2026-06-25T19:44:29.691620+00:00"
-    },
-    "670479aea00e39a2": {
-      "title": "Diagnostic dilemma: Viral infection caused woman not to recognize her own father",
-      "fetched_at": "2026-06-25T19:44:30.258588+00:00"
-    },
     "2fcbff63f459dd31": {
       "title": "工信部：前5个月电信业务收入累计完成7355亿元，同比下降1.9%",
       "fetched_at": "2026-06-26T02:09:32.891140+00:00"
@@ -3883,7 +3743,91 @@
     "4b6df361874c7158": {
       "title": "'Machine-gun sun' could bring auroras to more than a dozen states this Independence Day weekend",
       "fetched_at": "2026-07-03T18:59:42.340825+00:00"
+    },
+    "350b2efe2fc05a4b": {
+      "title": "进一步明确平台经济各方权利义务 新版电子商务法公开征求意见",
+      "fetched_at": "2026-07-04T01:50:42.468946+00:00"
+    },
+    "9c4f769c5988ed9e": {
+      "title": "三季度专项债发行或加码",
+      "fetched_at": "2026-07-04T01:50:43.100595+00:00"
+    },
+    "09798680eeeab77d": {
+      "title": "You take AI, I'll take my iPod (if I can find it)",
+      "fetched_at": "2026-07-04T01:50:43.717669+00:00"
+    },
+    "110716d84566adb0": {
+      "title": "Midjourney Seeks to Reveal Studios' Use of AI in High-Stakes Copyright Battle",
+      "fetched_at": "2026-07-04T01:50:44.332721+00:00"
+    },
+    "4ac8946711038773": {
+      "title": "美元料创4月来最大周线跌幅，就业数据打击美联储加息预期",
+      "fetched_at": "2026-07-04T01:50:44.950329+00:00"
+    },
+    "1a03b6b78598ce76": {
+      "title": "LME金属多数收涨",
+      "fetched_at": "2026-07-04T01:50:45.592890+00:00"
+    },
+    "246373d4a6defff0": {
+      "title": "摩根大通预计黄金短期震荡 第四季度均价回升至4500美元/盎司‌",
+      "fetched_at": "2026-07-04T01:50:46.214284+00:00"
+    },
+    "47ce87ce55987604": {
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "fetched_at": "2026-07-04T01:50:46.840049+00:00"
+    },
+    "50b6ece844a89845": {
+      "title": "EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments [pdf]",
+      "fetched_at": "2026-07-04T01:50:47.459161+00:00"
+    },
+    "bd6bdad2ec801524": {
+      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+      "fetched_at": "2026-07-04T01:50:48.091894+00:00"
+    },
+    "3b7103a19419b5b7": {
+      "title": "Did you know your code is overpaying for AI?",
+      "fetched_at": "2026-07-04T01:50:48.717995+00:00"
+    },
+    "f9b1a43f07f3fa35": {
+      "title": "Context graphs: how AI agents remember why decisions were made",
+      "fetched_at": "2026-07-04T01:50:49.335104+00:00"
+    },
+    "6105d881e4942f6d": {
+      "title": "China's ByteDance discovers new scaling law that could sustain AI boom",
+      "fetched_at": "2026-07-04T01:50:49.957848+00:00"
+    },
+    "2fa96ef3e6d10f34": {
+      "title": "Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit",
+      "fetched_at": "2026-07-04T01:50:50.581595+00:00"
+    },
+    "459fb0ee7cdeabfb": {
+      "title": "Show HN: Gavio: open-source interceptor pipeline for production LLM applications",
+      "fetched_at": "2026-07-04T01:50:51.210647+00:00"
+    },
+    "8fba7cdc6eb4a984": {
+      "title": "How HN: Billy – a self-hosted AI assistant that lives in your Telegram",
+      "fetched_at": "2026-07-04T01:50:51.836436+00:00"
+    },
+    "074b9eb9ba1a95cc": {
+      "title": "Forget the AI bubble. The IMF says the real threat is the mountain of debt",
+      "fetched_at": "2026-07-04T01:50:52.464319+00:00"
+    },
+    "0b3c4b6358d061e1": {
+      "title": "Give your AI agent its own email inbox – MailKite",
+      "fetched_at": "2026-07-04T01:50:53.087453+00:00"
+    },
+    "33d9e112ef3cd988": {
+      "title": "Coding without AI: a revolutionary new way to work",
+      "fetched_at": "2026-07-04T01:50:53.703942+00:00"
+    },
+    "2ebf863ea99eaa5d": {
+      "title": "Show HN: StayThere.ai - Book directly at over 96k short term rentals",
+      "fetched_at": "2026-07-04T01:50:54.319365+00:00"
+    },
+    "23f409769099ca15": {
+      "title": "Scientists find thousands of earthquakes in a perfectly straight line in Alaska, revealing a hidden 'microplate'",
+      "fetched_at": "2026-07-04T01:51:00.177475+00:00"
     }
   },
-  "last_updated": "2026-07-03T18:59:42.493737+00:00"
+  "last_updated": "2026-07-04T01:51:00.282015+00:00"
 }
