@@ -1,145 +1,5 @@
 {
   "articles": {
-    "c85f33ec186f79a9": {
-      "title": "Show HN: Mantis, A self-hosted LLM gateway",
-      "fetched_at": "2026-06-26T19:26:42.291371+00:00"
-    },
-    "7fcdae7098fa96c4": {
-      "title": "Building Voice AI Workflows with Branches Instead of One Giant Prompt",
-      "fetched_at": "2026-06-26T19:26:42.909346+00:00"
-    },
-    "218dd0a5c2ffd957": {
-      "title": "Summary of METR's predeployment evaluation of GPT-5.6 Sol",
-      "fetched_at": "2026-06-26T19:26:43.538327+00:00"
-    },
-    "01586f0234522978": {
-      "title": "Akrites: The Latest Attempt to Protect Open-Source from AI Attacks Has Arrived",
-      "fetched_at": "2026-06-26T19:26:44.159938+00:00"
-    },
-    "f294861f48dac475": {
-      "title": "AI Models Directory (To Compare)",
-      "fetched_at": "2026-06-26T19:26:44.779076+00:00"
-    },
-    "372e7ffd81e5758d": {
-      "title": "The New Blub Paradox, Or: Why TypeScript Is a Poor Choice for the AI Era",
-      "fetched_at": "2026-06-26T19:26:45.402664+00:00"
-    },
-    "61242ea02f2d2cb6": {
-      "title": "GPT-5.6 Preview System Card",
-      "fetched_at": "2026-06-26T19:26:46.028700+00:00"
-    },
-    "9bec26bd2661c835": {
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "fetched_at": "2026-06-26T19:26:46.650111+00:00"
-    },
-    "bf51004a6ffcfff1": {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "fetched_at": "2026-06-26T19:26:47.258780+00:00"
-    },
-    "7654c1d6bfd4cf77": {
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "fetched_at": "2026-06-26T19:26:47.879136+00:00"
-    },
-    "3f3c3a6b52ca64b0": {
-      "title": "Poll: What's your primary AI coding agent/orchestrator Claude/Codex/Cursor, etc.?",
-      "fetched_at": "2026-06-26T19:26:47.879275+00:00"
-    },
-    "e8a3fdaabd1786b4": {
-      "title": "Ventora Expands Its AI Business Builder to Help Solo Founders",
-      "fetched_at": "2026-06-26T19:26:48.496394+00:00"
-    },
-    "1ab5a9949599a6ee": {
-      "title": "How to Tell We–and AI–Are Choosing the Good",
-      "fetched_at": "2026-06-26T19:26:49.113419+00:00"
-    },
-    "e13d042db73701e4": {
-      "title": "I'm building a Space Cadet Pinball Machine! [video]",
-      "fetched_at": "2026-06-26T19:26:49.736804+00:00"
-    },
-    "2cca230d4814e7fb": {
-      "title": "The Discoverable Evidence of AI-Assisted Software Porting",
-      "fetched_at": "2026-06-26T19:26:50.354648+00:00"
-    },
-    "cf63e55e3dfb4bdd": {
-      "title": "Please don't use an LLM to communicate with other human beings",
-      "fetched_at": "2026-06-26T19:26:50.980441+00:00"
-    },
-    "162c26daa94ca990": {
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "fetched_at": "2026-06-26T19:26:51.599141+00:00"
-    },
-    "c2ae243abec3dbc8": {
-      "title": "Does \"AI photo calorie tracking\" work? 5 models tested against kitchen scale",
-      "fetched_at": "2026-06-26T19:26:52.217552+00:00"
-    },
-    "23bc9fccd9e7e801": {
-      "title": "GPT-5.6 System Card [pdf]",
-      "fetched_at": "2026-06-26T19:26:52.830637+00:00"
-    },
-    "a8e255427ea0ae48": {
-      "title": "Ask HN: How do you know when your AI agent's output quality degrades?",
-      "fetched_at": "2026-06-26T19:26:53.448757+00:00"
-    },
-    "467ecdc198ffe256": {
-      "title": "北京最高楼“中国尊”遭小型飞机撞击",
-      "fetched_at": "2026-06-26T19:26:56.200114+00:00"
-    },
-    "d034974e7acd1137": {
-      "title": "燒傷、高溫、戰火：走私者穿越巴基斯坦邊境運送伊朗燃料",
-      "fetched_at": "2026-06-26T19:26:56.845140+00:00"
-    },
-    "adeb950e51fb7f3b": {
-      "title": "台積電財務長黃仁昭BBC專訪：經營成本上升，晶片不排除加價",
-      "fetched_at": "2026-06-26T19:26:57.464863+00:00"
-    },
-    "bae788edb08c0d6c": {
-      "title": "'It sounds so impossible': Student studying fungus that makes users hallucinate tiny people may be on the verge of a scientific breakthrough",
-      "fetched_at": "2026-06-26T19:27:17.311499+00:00"
-    },
-    "7d91f278cbd192d7": {
-      "title": "Traces of Homo erectus Fire Use Dated to 1.8 Million Years Ago",
-      "fetched_at": "2026-06-26T19:27:17.929740+00:00"
-    },
-    "c8ba440a96591d4f": {
-      "title": "2,000-Year-Old Defenses Examined in Cyprus",
-      "fetched_at": "2026-06-26T19:27:18.538988+00:00"
-    },
-    "3e75c9cda62103ba": {
-      "title": "Ancient empires quiz: Can you match these lands to the historical powers that ruled them?",
-      "fetched_at": "2026-06-26T19:27:19.150646+00:00"
-    },
-    "c859e08cd4e707d5": {
-      "title": "China's top-secret 'dragon' space plane just released another unidentified object over Earth",
-      "fetched_at": "2026-06-26T19:27:19.759253+00:00"
-    },
-    "b65d013b52d6297d": {
-      "title": "AI companies don't want to be legally responsible for their chatbots. US courts should make them.",
-      "fetched_at": "2026-06-26T19:27:20.388135+00:00"
-    },
-    "33d993fff4d2687a": {
-      "title": "Scientists infected a 'vagina on a chip' with gonorrhea — then cured it with a new antibiotic found by AI",
-      "fetched_at": "2026-06-26T19:27:21.007293+00:00"
-    },
-    "4cb2ac04fd6dfb01": {
-      "title": "Early Homo sapiens may have lived in rainforests, new clues suggest — and it could overturn our understanding of human evolution",
-      "fetched_at": "2026-06-26T19:27:21.623964+00:00"
-    },
-    "da8b31b7cf918d34": {
-      "title": "Socotra Archipelago: The Yemeni islands covered with astonishing cucumber, bottle and dragon's blood trees",
-      "fetched_at": "2026-06-26T19:27:22.250179+00:00"
-    },
-    "29e978c428d9aa2f": {
-      "title": "History Lens – AI-powered historical artifact and monument identifier",
-      "fetched_at": "2026-06-26T19:27:22.899853+00:00"
-    },
-    "23f7f18666c26151": {
-      "title": "Where the wild Discovery Loops are",
-      "fetched_at": "2026-06-26T19:27:23.518934+00:00"
-    },
-    "539bb945ddbbf9de": {
-      "title": "I built a global supplier discovery engine form raw materials to everything",
-      "fetched_at": "2026-06-26T19:27:24.138427+00:00"
-    },
     "2b8622b6a695a291": {
       "title": "美联储官员卡什卡里称出现广泛通胀迹象，美联储或需加息",
       "fetched_at": "2026-06-27T02:04:52.219982+00:00"
@@ -3747,7 +3607,107 @@
     "1ccf993fd21c7f3c": {
       "title": "The US is hooked on unregulated peptides. But are they effective, or even safe?",
       "fetched_at": "2026-07-04T18:54:41.032667+00:00"
+    },
+    "47725f2831d6bdaa": {
+      "title": "Deterministic AI Auditing",
+      "fetched_at": "2026-07-05T01:56:27.347749+00:00"
+    },
+    "2b6765d3741c3ae9": {
+      "title": "AI CLI that fixes broken dev tool installs",
+      "fetched_at": "2026-07-05T01:56:27.977972+00:00"
+    },
+    "21ed805a3b9c2a2b": {
+      "title": "6月份中国大宗商品价格指数小幅回落",
+      "fetched_at": "2026-07-05T01:56:28.601732+00:00"
+    },
+    "cd389703a03cd8ce": {
+      "title": "Show HN: Two-tier-memory – queryable long-term memory for AI coding agents",
+      "fetched_at": "2026-07-05T01:56:29.228708+00:00"
+    },
+    "8308f15d9aeda5e8": {
+      "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
+      "fetched_at": "2026-07-05T01:56:29.853127+00:00"
+    },
+    "41ca5c4e439e481f": {
+      "title": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
+      "fetched_at": "2026-07-05T01:56:30.478573+00:00"
+    },
+    "913b3fe812993e59": {
+      "title": "PC及内存硬盘价格持续高位：硬盘一天三个价，经销商喊出“非刚需别买”",
+      "fetched_at": "2026-07-05T01:56:31.099982+00:00"
+    },
+    "dc713fbbee1eff93": {
+      "title": "加速走向全球，今年前5个月我国机器人出口近200亿元",
+      "fetched_at": "2026-07-05T01:56:31.720867+00:00"
+    },
+    "bf929815d9e5bf3d": {
+      "title": "Obsidian AI Setup – Bootstrap a Personalized Obsidian Vault with AI",
+      "fetched_at": "2026-07-05T01:56:32.342429+00:00"
+    },
+    "1d60cb9d9ef77fc2": {
+      "title": "The goal isn't to build \"another AI IDE.\"",
+      "fetched_at": "2026-07-05T01:56:32.955631+00:00"
+    },
+    "0e9560d10b3be147": {
+      "title": "Damo Academy unveils an AI agent able to discover superconductors",
+      "fetched_at": "2026-07-05T01:56:33.586319+00:00"
+    },
+    "69716dc18e3b5323": {
+      "title": "Nvidia Has Become the Bank Behind the AI Boom",
+      "fetched_at": "2026-07-05T01:56:34.208092+00:00"
+    },
+    "dd75ad85036153b9": {
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "fetched_at": "2026-07-05T01:56:34.842923+00:00"
+    },
+    "224e4b471005ea69": {
+      "title": "AI Authentication and Authorization",
+      "fetched_at": "2026-07-05T01:56:35.479823+00:00"
+    },
+    "1ed7407eeea2d903": {
+      "title": "Microsoft Copilot OS revealed in LEAKED video: built on Copilot and agentic AI",
+      "fetched_at": "2026-07-05T01:56:36.129248+00:00"
+    },
+    "dbea2eb39acfc7df": {
+      "title": "Out-of-core LLM inference engine written from scratch in Rust",
+      "fetched_at": "2026-07-05T01:56:36.746984+00:00"
+    },
+    "86b0c096a171f63d": {
+      "title": "I just tired of killing AI slop",
+      "fetched_at": "2026-07-05T01:56:37.365385+00:00"
+    },
+    "58dce9fce563e1b6": {
+      "title": "RFC: Stopping runaway AI agent spend with atomic budget reservations",
+      "fetched_at": "2026-07-05T01:56:37.980558+00:00"
+    },
+    "3f264d9c5b22f0c2": {
+      "title": "Show HN: WifeBench – My wife vibes LLM rankings",
+      "fetched_at": "2026-07-05T01:56:38.608547+00:00"
+    },
+    "8433de5156bea753": {
+      "title": "The Structural Failure of Disciplinary Science: What a Machine Found in 2 Hours",
+      "fetched_at": "2026-07-05T01:56:39.227190+00:00"
+    },
+    "f4dbfd3d4fb55959": {
+      "title": "「在印度旅行的一頓飯，讓38條寄生蟲鑽進了我的腦袋」",
+      "fetched_at": "2026-07-05T01:56:41.468754+00:00"
+    },
+    "a42ae144172698f0": {
+      "title": "人類未來會變成什麼模樣？",
+      "fetched_at": "2026-07-05T01:56:42.083407+00:00"
+    },
+    "97bf814cb4b59c0c": {
+      "title": "手部無力、視力模糊：你的科技產品是否讓你患上了「手機病」？",
+      "fetched_at": "2026-07-05T01:56:42.707001+00:00"
+    },
+    "37604ada6aea9fc3": {
+      "title": "日本簽證漲價五倍，中國人為何反應激烈？",
+      "fetched_at": "2026-07-05T01:56:43.319759+00:00"
+    },
+    "047de562c682bee6": {
+      "title": "Water shortages could prevent the US from mining more lithium, deepening reliance on foreign imports",
+      "fetched_at": "2026-07-05T01:56:49.263771+00:00"
     }
   },
-  "last_updated": "2026-07-04T18:54:41.086000+00:00"
+  "last_updated": "2026-07-05T01:56:49.400191+00:00"
 }
