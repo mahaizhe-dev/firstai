@@ -1,237 +1,5 @@
 {
   "articles": {
-    "2b8622b6a695a291": {
-      "title": "美联储官员卡什卡里称出现广泛通胀迹象，美联储或需加息",
-      "fetched_at": "2026-06-27T02:04:52.219982+00:00"
-    },
-    "2ead529b8677818f": {
-      "title": "国际油价26日显著下跌",
-      "fetched_at": "2026-06-27T02:04:52.857952+00:00"
-    },
-    "a8245cb470b63158": {
-      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-      "fetched_at": "2026-06-27T02:04:53.485499+00:00"
-    },
-    "f27ff22ecbf10842": {
-      "title": "AI Erodes a Legacy of Reading",
-      "fetched_at": "2026-06-27T02:04:54.098566+00:00"
-    },
-    "5669830025be61e6": {
-      "title": "美股三大指数收盘集体下跌，大型科技股涨跌不一",
-      "fetched_at": "2026-06-27T02:04:54.710511+00:00"
-    },
-    "afd866a77ea29295": {
-      "title": "Show HN: Boot a tiny app-making OS inside an AI chat",
-      "fetched_at": "2026-06-27T02:04:55.326927+00:00"
-    },
-    "385ef4af9743dc64": {
-      "title": "Enterprise AI customers pulling back from OpenAI and Anthropic as costs mount",
-      "fetched_at": "2026-06-27T02:04:55.936997+00:00"
-    },
-    "13fe1e09238b9e4f": {
-      "title": "Show HN: Tested – AI Tools Scored by a Panel of LLMs (Claude, GPT, Gemini, Grok)",
-      "fetched_at": "2026-06-27T02:04:56.568273+00:00"
-    },
-    "77bc9a56049bd877": {
-      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-      "fetched_at": "2026-06-27T02:04:57.216203+00:00"
-    },
-    "fec86cc2703c4e14": {
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "fetched_at": "2026-06-27T02:04:57.833709+00:00"
-    },
-    "99fb3eec849f7bab": {
-      "title": "The State of the AI Economy",
-      "fetched_at": "2026-06-27T02:04:58.528111+00:00"
-    },
-    "121bcda915a09dd3": {
-      "title": "The State of the AI Economy",
-      "fetched_at": "2026-06-27T02:04:58.528248+00:00"
-    },
-    "d3074e6224606edc": {
-      "title": "PrismLib – semantic LLM cache and cluster mesh that cuts token spend",
-      "fetched_at": "2026-06-27T02:04:59.149774+00:00"
-    },
-    "04466202f494f641": {
-      "title": "Anthropic&#8217;s Mythos 5 is back",
-      "fetched_at": "2026-06-27T02:04:59.773537+00:00"
-    },
-    "e7a9da20fd8762f0": {
-      "title": "Add MCP Apps to Your AI SDK Application",
-      "fetched_at": "2026-06-27T02:05:00.386718+00:00"
-    },
-    "637330080e39cfe7": {
-      "title": "AI Powered Photo Gallery Without the Cloud",
-      "fetched_at": "2026-06-27T02:05:01.010208+00:00"
-    },
-    "81c8b5e42750c8a5": {
-      "title": "I removed the vector database from my AI agent stack",
-      "fetched_at": "2026-06-27T02:05:01.633896+00:00"
-    },
-    "20de37c4125c64fe": {
-      "title": "With AI, researchers discover new way to detect sudden cardiac death risk",
-      "fetched_at": "2026-06-27T02:05:02.271006+00:00"
-    },
-    "3d0eb0ade73c4d7e": {
-      "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
-      "fetched_at": "2026-06-27T02:05:02.915755+00:00"
-    },
-    "b29f5cc2e6f17180": {
-      "title": "追赶FSD V14，理想在补哪些课？｜最前线",
-      "fetched_at": "2026-06-27T02:05:03.541006+00:00"
-    },
-    "510381472c0791ff": {
-      "title": "北京最高樓「中國尊」遭小型飛機撞擊",
-      "fetched_at": "2026-06-27T02:05:06.886189+00:00"
-    },
-    "39463a235912a23c": {
-      "title": "「昨安葬父親，今告別母親」：伊波拉疫下死者日增 改變守喪文化",
-      "fetched_at": "2026-06-27T02:05:07.509347+00:00"
-    },
-    "c44de76a37c2b8ec": {
-      "title": "Scientists stunned by signs of ancient life in a place no one expected",
-      "fetched_at": "2026-06-27T02:05:09.730719+00:00"
-    },
-    "4015f898d0e2a764": {
-      "title": "Butter and margarine look similar but their chemistry changes everything",
-      "fetched_at": "2026-06-27T02:05:10.390366+00:00"
-    },
-    "4f49c15d8e5e2ff6": {
-      "title": "From pet to pest, goldfish can wreck entire ecosystems",
-      "fetched_at": "2026-06-27T02:05:11.017201+00:00"
-    },
-    "ebf775b58f777ae6": {
-      "title": "Researchers discover why fructose doesn't satisfy hunger like glucose",
-      "fetched_at": "2026-06-27T02:05:11.649552+00:00"
-    },
-    "e076e655e9f4f22a": {
-      "title": "A “ghost” great white shark just reignited a 160-year Mediterranean mystery",
-      "fetched_at": "2026-06-27T02:05:12.283546+00:00"
-    },
-    "9c16a5e81267091b": {
-      "title": "This newly discovered ballista spider catapults ants into a deadly trap",
-      "fetched_at": "2026-06-27T02:05:12.902047+00:00"
-    },
-    "f88354c19bafcb01": {
-      "title": "Earth may have been seeding Venus with life for billions of years",
-      "fetched_at": "2026-06-27T02:05:13.521784+00:00"
-    },
-    "262d5cc0b2856c50": {
-      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
-      "fetched_at": "2026-06-27T02:05:14.137824+00:00"
-    },
-    "63f0240b704c8b5d": {
-      "title": "Could cosmic memory explain dark matter, dark energy, and black holes?",
-      "fetched_at": "2026-06-27T02:05:14.755765+00:00"
-    },
-    "6767be6a6c71d051": {
-      "title": "5,000-year-old 'prototype' Stonehenge aligning with solstices discovered near the famous Stone Age monument",
-      "fetched_at": "2026-06-27T02:05:15.384723+00:00"
-    },
-    "6b4eb8a02fa0d59a": {
-      "title": "超16亿元，烽火通信旗下长江计算中标中国电信高性能服务器集中采购项目",
-      "fetched_at": "2026-06-27T08:24:42.292661+00:00"
-    },
-    "b9edb1958f61b141": {
-      "title": "Show HN: Brytlog – AI logger",
-      "fetched_at": "2026-06-27T08:24:42.858345+00:00"
-    },
-    "3ed6dbad03fbb049": {
-      "title": "超级牛散章建平新动向，大举减仓江淮汽车",
-      "fetched_at": "2026-06-27T08:24:43.441008+00:00"
-    },
-    "22b78cfc970813cc": {
-      "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
-      "fetched_at": "2026-06-27T08:24:44.032036+00:00"
-    },
-    "87c48d2fdec45858": {
-      "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
-      "fetched_at": "2026-06-27T08:24:44.638088+00:00"
-    },
-    "79438d2e547e05c8": {
-      "title": "美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查",
-      "fetched_at": "2026-06-27T08:24:45.231125+00:00"
-    },
-    "00f285b02520581e": {
-      "title": "The Calculator Discipline – AI-Assisted Disclosure Hallucinations",
-      "fetched_at": "2026-06-27T08:24:45.801566+00:00"
-    },
-    "d2c9e9000aa60be1": {
-      "title": "马斯克获FTC批准收购前SpaceX工程师创立的光模块初创公司Mesh",
-      "fetched_at": "2026-06-27T08:24:46.367330+00:00"
-    },
-    "a8e2068a94145213": {
-      "title": "今年港股首发募资前十大IPO名单中，A+H企业独占8席",
-      "fetched_at": "2026-06-27T08:24:46.935291+00:00"
-    },
-    "489d80f652e6c758": {
-      "title": "楼市复苏信号？多城核心地块高溢价成交：房企扎堆抢夺，持续刷新当地纪录",
-      "fetched_at": "2026-06-27T08:24:47.506093+00:00"
-    },
-    "76b4047f3d0b72f7": {
-      "title": "高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力",
-      "fetched_at": "2026-06-27T08:24:48.066728+00:00"
-    },
-    "2f711a39b6401788": {
-      "title": "电影《四渡》总票房破5000万",
-      "fetched_at": "2026-06-27T08:24:48.640014+00:00"
-    },
-    "48c108c08132656a": {
-      "title": "NLNet Labs LLM Policy",
-      "fetched_at": "2026-06-27T08:24:49.218903+00:00"
-    },
-    "c95dd4f8cba5b41f": {
-      "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
-      "fetched_at": "2026-06-27T08:24:49.827666+00:00"
-    },
-    "bcf42341a883e7b6": {
-      "title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
-      "fetched_at": "2026-06-27T08:24:50.401463+00:00"
-    },
-    "992e9add2f4dcf13": {
-      "title": "WPS回应C盘占用问题：将上线磁盘存储管理功能",
-      "fetched_at": "2026-06-27T08:24:50.976274+00:00"
-    },
-    "0610b6a0df0015c4": {
-      "title": "There's Been a Subtle Shift in the AI Zeitgeist",
-      "fetched_at": "2026-06-27T08:24:51.553292+00:00"
-    },
-    "d02778f570fbe684": {
-      "title": "Tug: An IDE for AI Coding",
-      "fetched_at": "2026-06-27T08:24:52.121800+00:00"
-    },
-    "f3d2c390b39270d3": {
-      "title": "Why SpaceX Is the McDonald's of AI",
-      "fetched_at": "2026-06-27T08:24:52.687621+00:00"
-    },
-    "71346dd08c921144": {
-      "title": "Democrats and Republicans agree: AI is scary",
-      "fetched_at": "2026-06-27T08:24:53.260438+00:00"
-    },
-    "806f39938e1df7c2": {
-      "title": "Wildlife inside Chernobyl exclusion zone acted differently during Russia's invasion, camera traps reveal",
-      "fetched_at": "2026-06-27T08:24:57.916431+00:00"
-    },
-    "cb601aa1a6744ad4": {
-      "title": "'Is it really necessary to generate another image?': UN scientist explains how everyday people can limit AI's environmental impact",
-      "fetched_at": "2026-06-27T08:24:58.478246+00:00"
-    },
-    "63d5f237adb83844": {
-      "title": "Rainforest quiz: Can you sort Earth's largest rainforests from biggest to smallest?",
-      "fetched_at": "2026-06-27T08:24:59.058398+00:00"
-    },
-    "f11a5cc0e288c574": {
-      "title": "Scientists discover an earthquake gate as California faults reach their highest stress levels in 1,000 years",
-      "fetched_at": "2026-06-27T08:24:59.627942+00:00"
-    },
-    "dc52ae986c9e0654": {
-      "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
-      "fetched_at": "2026-06-27T08:25:00.198374+00:00"
-    },
-    "98233291eac8e0d9": {
-      "title": "Major errors found in Al Gore-founded Climate TRACE database",
-      "fetched_at": "2026-06-27T08:25:00.769276+00:00"
-    },
     "26b90531b7da80f8": {
       "title": "BlueBookOS: An LLM microkernel and language for specifying apps",
       "fetched_at": "2026-06-27T13:06:11.912279+00:00"
@@ -3707,7 +3475,167 @@
     "047de562c682bee6": {
       "title": "Water shortages could prevent the US from mining more lithium, deepening reliance on foreign imports",
       "fetched_at": "2026-07-05T01:56:49.263771+00:00"
+    },
+    "e26c78f9d80128f2": {
+      "title": "A Postmortem of an LLM Social Network",
+      "fetched_at": "2026-07-05T08:38:25.965015+00:00"
+    },
+    "0b62343eb7997b7b": {
+      "title": "贝斯特：人形机器人业务仍处样品阶段",
+      "fetched_at": "2026-07-05T08:38:26.581777+00:00"
+    },
+    "c20b7885fb578655": {
+      "title": "浙富控股：预计2026年半年度净利润同比增长121%-156%",
+      "fetched_at": "2026-07-05T08:38:27.208081+00:00"
+    },
+    "bdecb2dabccc8251": {
+      "title": "招商轮船：上半年净利润同比预增214%—248%",
+      "fetched_at": "2026-07-05T08:38:27.816531+00:00"
+    },
+    "593183fcfc439f74": {
+      "title": "永鼎股份：预计2026年上半年归母净利润5亿元-7亿元，同比增长57%-120%",
+      "fetched_at": "2026-07-05T08:38:28.451100+00:00"
+    },
+    "53bed46152d55d60": {
+      "title": "天山铝业：上半年净利润同比预增101.52%",
+      "fetched_at": "2026-07-05T08:38:29.068136+00:00"
+    },
+    "2e012908db69a0c4": {
+      "title": "仕佳光子：股东鹤壁投资集团拟减持不超1%股份",
+      "fetched_at": "2026-07-05T08:38:29.710447+00:00"
+    },
+    "50cf6897e4abb0cf": {
+      "title": "鸿海：6月销售额8218亿元台币 同比增长52.1％",
+      "fetched_at": "2026-07-05T08:38:30.361898+00:00"
+    },
+    "8d47dca819dc9ee2": {
+      "title": "东方盛虹：上半年净利润同比预增987.39%—1194.51%",
+      "fetched_at": "2026-07-05T08:38:30.996325+00:00"
+    },
+    "727b9d0c49bdd731": {
+      "title": "6只个股南向资金持股量环比增长超10%",
+      "fetched_at": "2026-07-05T08:38:31.649874+00:00"
+    },
+    "8fe8bbdb5d63c8cf": {
+      "title": "生物股份：上半年净利润同比预增50.6%到80.39%",
+      "fetched_at": "2026-07-05T08:38:32.266786+00:00"
+    },
+    "933ad764c39709e2": {
+      "title": "SigMap: 97% token reduction for AI coding sessions",
+      "fetched_at": "2026-07-05T08:38:32.911054+00:00"
+    },
+    "906f87807bce33dd": {
+      "title": "code-on-incus: Give each AI agent its own isolated machine with root",
+      "fetched_at": "2026-07-05T08:38:33.554554+00:00"
+    },
+    "9bf1ea81ab1f7a9b": {
+      "title": "Hunch – a Git-native decision graph your AI assistant obeys",
+      "fetched_at": "2026-07-05T08:38:34.176745+00:00"
+    },
+    "cee189abfb2bfc46": {
+      "title": "Agentsnap – find which config change broke your AI agent",
+      "fetched_at": "2026-07-05T08:38:34.821147+00:00"
+    },
+    "e89568c151602993": {
+      "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
+      "fetched_at": "2026-07-05T08:38:35.441441+00:00"
+    },
+    "0b892f25ffce92d3": {
+      "title": "Fidx – local semantic search in one SQLite file, no LLM at query",
+      "fetched_at": "2026-07-05T08:38:36.055816+00:00"
+    },
+    "49cf5aca9ee2e79f": {
+      "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
+      "fetched_at": "2026-07-05T08:38:36.689269+00:00"
+    },
+    "5b72906efe0b2b29": {
+      "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
+      "fetched_at": "2026-07-05T08:38:37.335103+00:00"
+    },
+    "f674b7c60f5379cc": {
+      "title": "Google commercial imagines Declaration of Independence written with help from AI",
+      "fetched_at": "2026-07-05T08:38:37.952648+00:00"
+    },
+    "2eed1fe746b7b2b9": {
+      "title": "泰勒絲與凱爾西紐約盛大完婚——重溫一天經過",
+      "fetched_at": "2026-07-05T08:38:40.666820+00:00"
+    },
+    "ee0faa2fbede0ecb": {
+      "title": "美國舉行 250 週年慶典：特朗普說「這僅是黃金時代的序幕」",
+      "fetched_at": "2026-07-05T08:38:41.282394+00:00"
+    },
+    "83065c680d50401c": {
+      "title": "網民嘲諷謝娜「唱功差」致取消演唱會說明了中國哪些事",
+      "fetched_at": "2026-07-05T08:38:41.905336+00:00"
+    },
+    "8a83ddd68637e4cc": {
+      "title": "哈里王子回國懸念：梅根是否同行？父子兄弟是否和解？",
+      "fetched_at": "2026-07-05T08:38:42.530120+00:00"
+    },
+    "adeb950e51fb7f3b": {
+      "title": "台積電財務長黃仁昭BBC專訪：經營成本上升，晶片不排除加價",
+      "fetched_at": "2026-07-05T08:38:43.145429+00:00"
+    },
+    "dfefc82476988621": {
+      "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain",
+      "fetched_at": "2026-07-05T08:38:45.158603+00:00"
+    },
+    "68d27c5894b48db3": {
+      "title": "Ancient Coins: What About Spartan Coins?",
+      "fetched_at": "2026-07-05T08:38:45.773496+00:00"
+    },
+    "f4d075a0feff8914": {
+      "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+      "fetched_at": "2026-07-05T08:38:46.388533+00:00"
+    },
+    "1f88c24f4ab64811": {
+      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+      "fetched_at": "2026-07-05T08:38:47.071103+00:00"
+    },
+    "b211300d0e40a653": {
+      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
+      "fetched_at": "2026-07-05T08:38:47.695663+00:00"
+    },
+    "1f34409d3b6bef40": {
+      "title": "Scientists may have finally solved the black hole information paradox",
+      "fetched_at": "2026-07-05T08:38:48.311443+00:00"
+    },
+    "9366250959e6b1ad": {
+      "title": "NASA celebrates America's 250th birthday with incredible views of space",
+      "fetched_at": "2026-07-05T08:38:48.945085+00:00"
+    },
+    "74897e18b6ee981f": {
+      "title": "New optical centrifuge unlocks the secrets of frictionless superfluids",
+      "fetched_at": "2026-07-05T08:38:49.564533+00:00"
+    },
+    "69d4aa329fa1d003": {
+      "title": "New research reveals the hidden pollution left behind by fireworks",
+      "fetched_at": "2026-07-05T08:38:50.193517+00:00"
+    },
+    "d8cb5824b93ea5b0": {
+      "title": "Scientists discover why some brains resist Alzheimer's",
+      "fetched_at": "2026-07-05T08:38:50.806096+00:00"
+    },
+    "ae82b5ee39f7f8df": {
+      "title": "A popular climate fix could accidentally trigger massive changes to global weather",
+      "fetched_at": "2026-07-05T08:38:51.434768+00:00"
+    },
+    "bae788edb08c0d6c": {
+      "title": "'It sounds so impossible': Student studying fungus that makes users hallucinate tiny people may be on the verge of a scientific breakthrough",
+      "fetched_at": "2026-07-05T08:38:52.067005+00:00"
+    },
+    "3e75c9cda62103ba": {
+      "title": "Ancient empires quiz: Can you match these lands to the historical powers that ruled them?",
+      "fetched_at": "2026-07-05T08:38:52.746481+00:00"
+    },
+    "c859e08cd4e707d5": {
+      "title": "China's top-secret 'dragon' space plane just released another unidentified object over Earth",
+      "fetched_at": "2026-07-05T08:38:53.527304+00:00"
+    },
+    "b65d013b52d6297d": {
+      "title": "AI companies don't want to be legally responsible for their chatbots. US courts should make them.",
+      "fetched_at": "2026-07-05T08:38:54.151743+00:00"
     }
   },
-  "last_updated": "2026-07-05T01:56:49.400191+00:00"
+  "last_updated": "2026-07-05T08:38:54.307992+00:00"
 }
