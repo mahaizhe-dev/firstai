@@ -1,105 +1,5 @@
 {
   "articles": {
-    "26b90531b7da80f8": {
-      "title": "BlueBookOS: An LLM microkernel and language for specifying apps",
-      "fetched_at": "2026-06-27T13:06:11.912279+00:00"
-    },
-    "7152838654f96d5e": {
-      "title": "Show HN: Nirnam – a browser-native message bus and AI agent framework for MFEs",
-      "fetched_at": "2026-06-27T13:06:12.481929+00:00"
-    },
-    "6860c75f143fc12d": {
-      "title": "Ask HN: Is there a quiet market for 'no enforced AI' dev jobs?",
-      "fetched_at": "2026-06-27T13:06:13.055202+00:00"
-    },
-    "d3ed37940d74ed95": {
-      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-      "fetched_at": "2026-06-27T13:06:13.626643+00:00"
-    },
-    "93ec9b57010c4785": {
-      "title": "Gnome AI Assistant Adds Image Generation Support",
-      "fetched_at": "2026-06-27T13:06:14.193387+00:00"
-    },
-    "3a5060a591f05146": {
-      "title": "India: Factory workers told to film themselves for AI/robot training",
-      "fetched_at": "2026-06-27T13:06:14.762270+00:00"
-    },
-    "2f8f6446b310bbc4": {
-      "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
-      "fetched_at": "2026-06-27T13:06:15.334492+00:00"
-    },
-    "322165a2e2ecd1b3": {
-      "title": "华为途灵平台完成3轮升级，覆盖鸿蒙智行五界",
-      "fetched_at": "2026-06-27T13:06:15.904477+00:00"
-    },
-    "59a39abefd4874d0": {
-      "title": "Everyone Will Have an AI Coding Agent",
-      "fetched_at": "2026-06-27T13:06:16.477500+00:00"
-    },
-    "ab3cfca8e44c37dc": {
-      "title": "How a New York race became the first front in the AI industry's midterm war",
-      "fetched_at": "2026-06-27T13:06:17.053755+00:00"
-    },
-    "6fd36b79cf545546": {
-      "title": "U.S. government restricts access to OpenAI's new AI model",
-      "fetched_at": "2026-06-27T13:06:17.706672+00:00"
-    },
-    "09cf49c96a2488a4": {
-      "title": "Show HN: PreFlight – A local AST background daemon to catch AI code drift",
-      "fetched_at": "2026-06-27T13:06:18.314638+00:00"
-    },
-    "d15c9e33d2fa34c7": {
-      "title": "Properties of AI",
-      "fetched_at": "2026-06-27T13:06:18.888207+00:00"
-    },
-    "8574f973b8a04150": {
-      "title": "AI data centers are supercharging a new battery market",
-      "fetched_at": "2026-06-27T13:06:19.455637+00:00"
-    },
-    "c9b7b1e244e3c6dc": {
-      "title": "Ask HN: How do we measure software in LLM era?",
-      "fetched_at": "2026-06-27T13:06:20.026120+00:00"
-    },
-    "0c642137f88b1d03": {
-      "title": "Ask HN: What GUI/desktop app do you use to keep track of different AI sessions?",
-      "fetched_at": "2026-06-27T13:06:20.592124+00:00"
-    },
-    "43d4b596cd789d93": {
-      "title": "A debugging story: Learning debugging principles from a production outage",
-      "fetched_at": "2026-06-27T13:06:21.159511+00:00"
-    },
-    "e9da18efe6174ee2": {
-      "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
-      "fetched_at": "2026-06-27T13:06:21.719678+00:00"
-    },
-    "992e2900a1cb77c1": {
-      "title": "具身世界模型“我悟”通过合规备案",
-      "fetched_at": "2026-06-27T13:06:22.284531+00:00"
-    },
-    "3b050d22d596f73c": {
-      "title": "兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例",
-      "fetched_at": "2026-06-27T13:06:22.866496+00:00"
-    },
-    "db7f3fd831300ed4": {
-      "title": "小型飛機撞上北京最高樓「中國尊」 官方時隔近一天後證實",
-      "fetched_at": "2026-06-27T13:06:24.920434+00:00"
-    },
-    "6aa9fe341339d375": {
-      "title": "Science news this week: Life on Mars, weird water and a curious human cousin",
-      "fetched_at": "2026-06-27T13:06:26.945759+00:00"
-    },
-    "1f83bb023cff2625": {
-      "title": "AI images are more convincing than ever — infiltrating journals and undermining trust in science",
-      "fetched_at": "2026-06-27T13:06:27.510810+00:00"
-    },
-    "eae97d16ef0ef70f": {
-      "title": "How did the Romans build such straight roads?",
-      "fetched_at": "2026-06-27T13:06:28.090817+00:00"
-    },
-    "be51a7439250cc88": {
-      "title": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why",
-      "fetched_at": "2026-06-27T13:06:28.659381+00:00"
-    },
     "ffbb370b50d05d48": {
       "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
       "fetched_at": "2026-06-27T19:02:07.850404+00:00"
@@ -3771,7 +3671,99 @@
     "262d5cc0b2856c50": {
       "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
       "fetched_at": "2026-07-05T13:05:15.504874+00:00"
+    },
+    "9b07e0ca605025fd": {
+      "title": "Has China obtained the most important machine?",
+      "fetched_at": "2026-07-05T18:58:56.501042+00:00"
+    },
+    "6cbc0a8bb79eb77c": {
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "fetched_at": "2026-07-05T18:58:57.121656+00:00"
+    },
+    "b5f560bced2da069": {
+      "title": "Show HN: GameFork – AI agents publish and fork browser games via MCP",
+      "fetched_at": "2026-07-05T18:58:57.751673+00:00"
+    },
+    "25b9bb3cef0ff470": {
+      "title": "I built a weather station that runs machine learning to forecast weather",
+      "fetched_at": "2026-07-05T18:58:58.377669+00:00"
+    },
+    "2417de66df7bd82b": {
+      "title": "When AI agents get you kicked out from a YC Startup",
+      "fetched_at": "2026-07-05T18:58:59.003760+00:00"
+    },
+    "788b7af502fd46a4": {
+      "title": "Ghostlog: Live terminal UI to monitor AI coding agent Git commits",
+      "fetched_at": "2026-07-05T18:58:59.633751+00:00"
+    },
+    "4d30a2633300732e": {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "fetched_at": "2026-07-05T18:59:00.264290+00:00"
+    },
+    "9421e02d3f1ebc80": {
+      "title": "Engram – persistent memory for AI agents, in-process, no cloud",
+      "fetched_at": "2026-07-05T18:59:00.881458+00:00"
+    },
+    "e42e5983eb226261": {
+      "title": "Istota – a multi-user AI agent and personal OS",
+      "fetched_at": "2026-07-05T18:59:01.506224+00:00"
+    },
+    "66e354a6748cf9fd": {
+      "title": "SOLAR: AI-Powered Speed-of-Light Performance Analysis",
+      "fetched_at": "2026-07-05T18:59:02.124083+00:00"
+    },
+    "433d59cf84309c79": {
+      "title": "Show HN: Goldseam – heal broken Cypress selectors with a local LLM",
+      "fetched_at": "2026-07-05T18:59:02.741264+00:00"
+    },
+    "01386cf0590c0eb3": {
+      "title": "Show HN: Detecting AI slop with regex and Stephen King",
+      "fetched_at": "2026-07-05T18:59:03.398412+00:00"
+    },
+    "0e546c091c1f73c0": {
+      "title": "Why High-Earning Families Are Leaving Traditional Schools for AI",
+      "fetched_at": "2026-07-05T18:59:04.036288+00:00"
+    },
+    "c28c0250295de9cf": {
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "fetched_at": "2026-07-05T18:59:04.675243+00:00"
+    },
+    "236f2f448a389f58": {
+      "title": "Probing the loss-band sparsity assumption in Scientist AI",
+      "fetched_at": "2026-07-05T18:59:05.287881+00:00"
+    },
+    "e51d211f44fd5733": {
+      "title": "Domain experts: All human experts into AI agents",
+      "fetched_at": "2026-07-05T18:59:05.912680+00:00"
+    },
+    "1aabadbf5246b385": {
+      "title": "People Who Will Thrive in the AI Age",
+      "fetched_at": "2026-07-05T18:59:06.559292+00:00"
+    },
+    "8996cd681ca113b4": {
+      "title": "AI enables 277 people to engage in a single real-time conversation",
+      "fetched_at": "2026-07-05T18:59:07.193262+00:00"
+    },
+    "2fe4dcc3c6ae4393": {
+      "title": "Drinking AI: AI/Water Consumption Comparisons to Beverages",
+      "fetched_at": "2026-07-05T18:59:07.822048+00:00"
+    },
+    "426d2c205bfd9d40": {
+      "title": "Learning to Replicate Expert Judgment in Financial Tasks",
+      "fetched_at": "2026-07-05T18:59:08.443419+00:00"
+    },
+    "a6b4d71112fcab0d": {
+      "title": "施紀賢宣佈辭職後首個BBC專訪：決定「極其個人」",
+      "fetched_at": "2026-07-05T18:59:11.914767+00:00"
+    },
+    "f03f171363baf3c8": {
+      "title": "Ancient Greek Technology: The Origins of Robotics and Engineering",
+      "fetched_at": "2026-07-05T18:59:18.716911+00:00"
+    },
+    "c8cbc7b4913022ae": {
+      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+      "fetched_at": "2026-07-05T18:59:19.336713+00:00"
     }
   },
-  "last_updated": "2026-07-05T13:05:15.654154+00:00"
+  "last_updated": "2026-07-05T18:59:19.478684+00:00"
 }
