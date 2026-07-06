@@ -1,117 +1,5 @@
 {
   "articles": {
-    "ffbb370b50d05d48": {
-      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-      "fetched_at": "2026-06-27T19:02:07.850404+00:00"
-    },
-    "df19a9bbcb932afc": {
-      "title": "Riskratchet: Stop AI-generated code from rotting your codebase",
-      "fetched_at": "2026-06-27T19:02:08.468268+00:00"
-    },
-    "4c80a3c71bffb9ba": {
-      "title": "Show HN: OpenOrb – I built a transparent multi-agent AI tool",
-      "fetched_at": "2026-06-27T19:02:09.086081+00:00"
-    },
-    "ef67a3825747752f": {
-      "title": "Koreeda's 'Sheep in the Box': The ethics of AI resurrection in film",
-      "fetched_at": "2026-06-27T19:02:09.706706+00:00"
-    },
-    "78a693826bf6a5db": {
-      "title": "Department of Machine Verification",
-      "fetched_at": "2026-06-27T19:02:10.388611+00:00"
-    },
-    "5705243b0f7e8010": {
-      "title": "Chinese Hedge Funds Warn the AI 'Super Bubble' Is Ready to Burst",
-      "fetched_at": "2026-06-27T19:02:11.003505+00:00"
-    },
-    "39accda8d1c94f8f": {
-      "title": "Napster is now \"AI agents you can see, talk to, and create with.\"",
-      "fetched_at": "2026-06-27T19:02:11.622170+00:00"
-    },
-    "51d980ef592f0cd0": {
-      "title": "Show HN: Humans Constructively Roasting AI Coded B2B SaaS",
-      "fetched_at": "2026-06-27T19:02:12.235550+00:00"
-    },
-    "c6e3af8999f1b6f6": {
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "fetched_at": "2026-06-27T19:02:12.854816+00:00"
-    },
-    "1ea5325d06b375a4": {
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "fetched_at": "2026-06-27T19:02:13.474302+00:00"
-    },
-    "ff5b6f4408da3c3b": {
-      "title": "AI-Powered Public Comments Are Entering US Climate Politics",
-      "fetched_at": "2026-06-27T19:02:14.078533+00:00"
-    },
-    "5891c3d85a63532d": {
-      "title": "NASA tests AI medic for astronauts too far from Earth to call a doctor",
-      "fetched_at": "2026-06-27T19:02:14.688713+00:00"
-    },
-    "47b16c671c11e088": {
-      "title": "Australian rescue team uses AI-powered drone to find lost hikers [video]",
-      "fetched_at": "2026-06-27T19:02:15.313905+00:00"
-    },
-    "33d6318deb4801f5": {
-      "title": "Native Hacker News TUI client with AI comments summary written in Golang",
-      "fetched_at": "2026-06-27T19:02:15.941710+00:00"
-    },
-    "ac057ea937b25e60": {
-      "title": "The PM's Guide to Managing AI Debt",
-      "fetched_at": "2026-06-27T19:02:16.563312+00:00"
-    },
-    "15943d841abe0e6d": {
-      "title": "Show HN: Ocarina – Automate and test MCP servers from YAML, no LLM",
-      "fetched_at": "2026-06-27T19:02:17.185347+00:00"
-    },
-    "2faaeeaa3f505f37": {
-      "title": "Distributed LLM Inference with LLM-d",
-      "fetched_at": "2026-06-27T19:02:17.807934+00:00"
-    },
-    "af21235b92bb0652": {
-      "title": "Show HN: AI-whisper – Claude works better when Codex watches its back",
-      "fetched_at": "2026-06-27T19:02:18.429096+00:00"
-    },
-    "81b59b1f01d6e8f8": {
-      "title": "Show HN: Apex-1-flash, 4B LLM finetuned on RTX 5070",
-      "fetched_at": "2026-06-27T19:02:19.045340+00:00"
-    },
-    "a7033c83bbbe98c7": {
-      "title": "AI: The Falsity of Comparison",
-      "fetched_at": "2026-06-27T19:02:19.723477+00:00"
-    },
-    "bbb57940222cd1df": {
-      "title": "「他把單點菜單藏了起來」：誰應該為第一次約會付錢？",
-      "fetched_at": "2026-06-27T19:02:21.866355+00:00"
-    },
-    "6fb69403117d5365": {
-      "title": "一部描繪潮汕華僑的中國電影《給阿嬤的情書》為何大賣",
-      "fetched_at": "2026-06-27T19:02:22.487200+00:00"
-    },
-    "f47e5701cf214f6d": {
-      "title": "Climate change is driving capuchin monkey mothers to abandon their infants",
-      "fetched_at": "2026-06-27T19:02:32.969395+00:00"
-    },
-    "9a1306190548deaf": {
-      "title": "Scientists discover what triggers belly fat as we age",
-      "fetched_at": "2026-06-27T19:02:33.590689+00:00"
-    },
-    "13a4a192780e8380": {
-      "title": "'The Romans were probably never going to go away': In new 'Almost History' podcast, listen to how history might have played out if Carthage had defeated the Roman Republic",
-      "fetched_at": "2026-06-27T19:02:34.205978+00:00"
-    },
-    "10cc4438f36321d2": {
-      "title": "A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory",
-      "fetched_at": "2026-06-27T19:02:34.819289+00:00"
-    },
-    "4b57dcdb2847cff7": {
-      "title": "Astronomers found two rare super puff planets lighter than cotton candy",
-      "fetched_at": "2026-06-27T19:02:35.437838+00:00"
-    },
-    "70aeeaca7465fb5a": {
-      "title": "Black hole winds may be robbing giant galaxies of their future stars",
-      "fetched_at": "2026-06-27T19:02:36.139861+00:00"
-    },
     "1a8a72836a35d4b0": {
       "title": "暑期档电影票房破15亿 80部影片集结暑期档",
       "fetched_at": "2026-06-28T02:15:25.626656+00:00"
@@ -3763,7 +3651,135 @@
     "c8cbc7b4913022ae": {
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
       "fetched_at": "2026-07-05T18:59:19.336713+00:00"
+    },
+    "d9c129c357c20401": {
+      "title": "沪深两市成交额突破1万亿元",
+      "fetched_at": "2026-07-06T02:03:05.468338+00:00"
+    },
+    "14d243dd31947291": {
+      "title": "创业板指涨超1%",
+      "fetched_at": "2026-07-06T02:03:05.468459+00:00"
+    },
+    "d46dd89180136654": {
+      "title": "AI Costs More Than the People It Replaced",
+      "fetched_at": "2026-07-06T02:03:06.085146+00:00"
+    },
+    "b973fc819aafe46f": {
+      "title": "铭利达等在天津成立新能源科技公司",
+      "fetched_at": "2026-07-06T02:03:06.715672+00:00"
+    },
+    "7a380c3d3a2a2c66": {
+      "title": "韩国考虑利用半导体税收设立增长基金",
+      "fetched_at": "2026-07-06T02:03:07.354644+00:00"
+    },
+    "c794e6174d720cd3": {
+      "title": "A股三大指数集体高开，硬件股领涨",
+      "fetched_at": "2026-07-06T02:03:07.998856+00:00"
+    },
+    "f9a3efb2e6de24bc": {
+      "title": "央行今日开展70亿元7天逆回购操作",
+      "fetched_at": "2026-07-06T02:03:08.703644+00:00"
+    },
+    "7937a36c92498810": {
+      "title": "恒指开盘涨0.23%，恒生科技指数涨0.55%",
+      "fetched_at": "2026-07-06T02:03:09.334836+00:00"
+    },
+    "27cef0e8be16d257": {
+      "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
+      "fetched_at": "2026-07-06T02:03:10.006829+00:00"
+    },
+    "1206e0120ab1dc50": {
+      "title": "人民币兑美元中间价报6.8066",
+      "fetched_at": "2026-07-06T02:03:10.637059+00:00"
+    },
+    "0b01d7c480a2e442": {
+      "title": "Children Adopt AI 3x Faster Than Adults – and We're Not Ready",
+      "fetched_at": "2026-07-06T02:03:11.284635+00:00"
+    },
+    "fd416624198ce8d6": {
+      "title": "Midjourney: From AI slop to medical research [video]",
+      "fetched_at": "2026-07-06T02:03:11.903539+00:00"
+    },
+    "2c36c8d03c7eeb09": {
+      "title": "宜安科技：台铃订单已开始向客户批量交付",
+      "fetched_at": "2026-07-06T02:03:12.567754+00:00"
+    },
+    "8677d840fe577830": {
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "fetched_at": "2026-07-06T02:03:13.212641+00:00"
+    },
+    "b6e6a9f4d9769c4b": {
+      "title": "华泰证券：关注港股高沽空叠加盈利预期改善的方向",
+      "fetched_at": "2026-07-06T02:03:13.843421+00:00"
+    },
+    "911b250761552b9a": {
+      "title": "华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益",
+      "fetched_at": "2026-07-06T02:03:14.495125+00:00"
+    },
+    "3498cabd4a1e9aa9": {
+      "title": "两市融资余额减少196.66亿元",
+      "fetched_at": "2026-07-06T02:03:15.118315+00:00"
+    },
+    "79f8c0695a7ea830": {
+      "title": "国金证券：锂电7月旺季在即，优选优势格局赛道",
+      "fetched_at": "2026-07-06T02:03:15.903014+00:00"
+    },
+    "3a29f2da310d707c": {
+      "title": "穆迪：新西兰本周料将维持利率不变",
+      "fetched_at": "2026-07-06T02:03:16.581835+00:00"
+    },
+    "670c5f5e24425f2f": {
+      "title": "宇信科技：公司通过投资专项基金来投资月之暗面股权",
+      "fetched_at": "2026-07-06T02:03:17.206580+00:00"
+    },
+    "834d68b3926960c9": {
+      "title": "习近平最倚重的副手蔡奇：总书记的“超级幕僚长”",
+      "fetched_at": "2026-07-06T02:03:20.362814+00:00"
+    },
+    "6c9f3bd77cd46577": {
+      "title": "「依托咪酯」毒品危機：為何在東亞青少年間蔓延？",
+      "fetched_at": "2026-07-06T02:03:20.989819+00:00"
+    },
+    "e215ba0c82c7d05e": {
+      "title": "西藏活动人士在纽约联合国总部外自焚身亡",
+      "fetched_at": "2026-07-06T02:03:21.616128+00:00"
+    },
+    "d690eea8c3b756cb": {
+      "title": "New secrets from ancient Vesuvius scrolls",
+      "fetched_at": "2026-07-06T02:03:38.518278+00:00"
+    },
+    "c8f7483349393ee4": {
+      "title": "Surveillance Companionship Entertainment: Intelligent Machines Ancient History",
+      "fetched_at": "2026-07-06T02:03:39.138376+00:00"
+    },
+    "11e27d3cfa2d2fb5": {
+      "title": "Scientists may have finally found how Alzheimer's kills brain cells",
+      "fetched_at": "2026-07-06T02:03:39.752481+00:00"
+    },
+    "2ae85bc8fc0f6aef": {
+      "title": "5,000-year-old wolves found on remote island rewrite what we know about domestication",
+      "fetched_at": "2026-07-06T02:03:40.373297+00:00"
+    },
+    "7b8e3524e05aa880": {
+      "title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
+      "fetched_at": "2026-07-06T02:03:40.983763+00:00"
+    },
+    "2dcdbf2a5d916ddd": {
+      "title": "Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago",
+      "fetched_at": "2026-07-06T02:03:41.602173+00:00"
+    },
+    "6aa9fe341339d375": {
+      "title": "Science news this week: Life on Mars, weird water and a curious human cousin",
+      "fetched_at": "2026-07-06T02:03:42.245543+00:00"
+    },
+    "1f83bb023cff2625": {
+      "title": "AI images are more convincing than ever — infiltrating journals and undermining trust in science",
+      "fetched_at": "2026-07-06T02:03:42.901397+00:00"
+    },
+    "eae97d16ef0ef70f": {
+      "title": "How did the Romans build such straight roads?",
+      "fetched_at": "2026-07-06T02:03:43.521288+00:00"
     }
   },
-  "last_updated": "2026-07-05T18:59:19.478684+00:00"
+  "last_updated": "2026-07-06T02:03:43.600658+00:00"
 }
