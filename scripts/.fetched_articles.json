@@ -1,105 +1,5 @@
 {
   "articles": {
-    "a003ad88462990ff": {
-      "title": "China Resets AI Race",
-      "fetched_at": "2026-06-28T19:00:29.718219+00:00"
-    },
-    "8ba7b4963e98fd86": {
-      "title": "Monlite Simple Infrastructure for AI Agent",
-      "fetched_at": "2026-06-28T19:00:30.343714+00:00"
-    },
-    "f717aa58e2e307dc": {
-      "title": "The LLM shoggoth meme is weirder than you think",
-      "fetched_at": "2026-06-28T19:00:31.046864+00:00"
-    },
-    "cffc0f56d93969b9": {
-      "title": "High Schoolers and AI",
-      "fetched_at": "2026-06-28T19:00:31.660661+00:00"
-    },
-    "feeedd96f0e2e8e9": {
-      "title": "AI and the Crisis of 'Classical Liberalism'",
-      "fetched_at": "2026-06-28T19:00:32.275232+00:00"
-    },
-    "434b139a5f30777a": {
-      "title": "Show HN: Verigate – Cryptographic authorization receipts for AI agents",
-      "fetched_at": "2026-06-28T19:00:32.928930+00:00"
-    },
-    "e65d4a5c5759b493": {
-      "title": "AgentCrawl, a small self-hosted crawler for AI agents",
-      "fetched_at": "2026-06-28T19:00:33.554506+00:00"
-    },
-    "540336a6523fbe14": {
-      "title": "White House Will Ad Hoc Decide Who Can Individually Access GPT-5.6",
-      "fetched_at": "2026-06-28T19:00:34.218759+00:00"
-    },
-    "fd4730260f9ecd50": {
-      "title": "AI is creating America's next underclass",
-      "fetched_at": "2026-06-28T19:00:34.911523+00:00"
-    },
-    "96c952a750bc0538": {
-      "title": "Show HN: Paige – A spoiler-free AI book chat",
-      "fetched_at": "2026-06-28T19:00:35.550182+00:00"
-    },
-    "32623b24f25f7de0": {
-      "title": "Costs of Running a 15k/mo AI SaaS [video]",
-      "fetched_at": "2026-06-28T19:00:36.248744+00:00"
-    },
-    "d3f3d2fc5d0a4520": {
-      "title": "Nvidia Partner Wants to Put a $150k AI Data Center in Your Yard",
-      "fetched_at": "2026-06-28T19:00:36.883247+00:00"
-    },
-    "5eab9b4f76957622": {
-      "title": "Evaluating Offline Monitoring of Internal AI Agents",
-      "fetched_at": "2026-06-28T19:00:37.497063+00:00"
-    },
-    "e5bcc6e65c06d884": {
-      "title": "Tech firms blame AI for rising PC and console prices",
-      "fetched_at": "2026-06-28T19:00:38.102294+00:00"
-    },
-    "c2cf77fb593b0828": {
-      "title": "AI Economy from the Bottom Up",
-      "fetched_at": "2026-06-28T19:00:38.722946+00:00"
-    },
-    "0ae2731498e3a2ab": {
-      "title": "Professor denounces mass AI fraud on an exam at Brown University",
-      "fetched_at": "2026-06-28T19:00:39.342350+00:00"
-    },
-    "a6b4e62848a051e6": {
-      "title": "Ask HN: Examples of AI taste?",
-      "fetched_at": "2026-06-28T19:00:39.961927+00:00"
-    },
-    "421f8bd6b2169b5d": {
-      "title": "AI Use Cases companies are implementing and the results they get",
-      "fetched_at": "2026-06-28T19:00:40.576300+00:00"
-    },
-    "bb6abf0c6179a006": {
-      "title": "It might be kinder to kill your AI (conversation)",
-      "fetched_at": "2026-06-28T19:00:41.192267+00:00"
-    },
-    "9f9450eac5102544": {
-      "title": "Show HN: GalaxDB – an open-source AI-native database(OLTP+vector+versioning)",
-      "fetched_at": "2026-06-28T19:00:41.835643+00:00"
-    },
-    "b46ee8f910123113": {
-      "title": "熱浪取消不了公園長跑，綠色的青蛙可以",
-      "fetched_at": "2026-06-28T19:00:44.519964+00:00"
-    },
-    "902b72c221758516": {
-      "title": "Our brains aren't wired to handle this much bad news. But 'looking away is not the fix,' expert says.",
-      "fetched_at": "2026-06-28T19:00:57.773427+00:00"
-    },
-    "ae3a811669370356": {
-      "title": "James Webb uncovers exotic salt clouds on a mysterious pink world",
-      "fetched_at": "2026-06-28T19:00:58.400502+00:00"
-    },
-    "2ff617b980c8a761": {
-      "title": "'The fate of Earth depends on a delicate balance': Our planet may survive the death of the sun after all, new models hint",
-      "fetched_at": "2026-06-28T19:00:59.027188+00:00"
-    },
-    "f0b164c483e651c0": {
-      "title": "Common pesticide linked to more than double the risk of Parkinson’s disease",
-      "fetched_at": "2026-06-28T19:00:59.657447+00:00"
-    },
     "3f7deefa1f993edc": {
       "title": "我国第三艘万车级汽车运输船今天交付",
       "fetched_at": "2026-06-29T02:14:58.068248+00:00"
@@ -3703,7 +3603,119 @@
     "0f888bb76af1ce9a": {
       "title": "Yellowstone’s supervolcano may be fueled by something unexpected",
       "fetched_at": "2026-07-06T14:55:59.108559+00:00"
+    },
+    "8bf2c3290a8b9845": {
+      "title": "Gartner saw AI 2017 on the peak of its hype",
+      "fetched_at": "2026-07-06T19:39:07.783407+00:00"
+    },
+    "732df5dd199f7e30": {
+      "title": "Groundtruth – checks your AI coding agent's claims against the Git diff",
+      "fetched_at": "2026-07-06T19:39:08.370716+00:00"
+    },
+    "a3d863d5f09768c1": {
+      "title": "We taught a small LLM to throw away 68% of our RAG context",
+      "fetched_at": "2026-07-06T19:39:08.978174+00:00"
+    },
+    "9917cfbb0c3e3f5e": {
+      "title": "I mapped estimated water use across 30 major AI/cloud data centers",
+      "fetched_at": "2026-07-06T19:39:09.574951+00:00"
+    },
+    "b240afd2c6bc3b16": {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "fetched_at": "2026-07-06T19:39:10.184411+00:00"
+    },
+    "2f7fa7f0b224f2f1": {
+      "title": "Show HN:I built a safety shield for AI agents that intercepts dangerous commands",
+      "fetched_at": "2026-07-06T19:39:10.781299+00:00"
+    },
+    "add5460ce441f75d": {
+      "title": "Revieve – AI Product Engineer",
+      "fetched_at": "2026-07-06T19:39:11.379244+00:00"
+    },
+    "7de4e344bcb95dca": {
+      "title": "Simple AI agent in POSIX shell",
+      "fetched_at": "2026-07-06T19:39:11.985455+00:00"
+    },
+    "09ce03c29bc226ef": {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "fetched_at": "2026-07-06T19:39:12.585346+00:00"
+    },
+    "a8097d759bb819a0": {
+      "title": "Show HN: Grinta –local-first AI coding agent that passed 106-minute stress test",
+      "fetched_at": "2026-07-06T19:39:13.182234+00:00"
+    },
+    "706bc808ebdf0dc8": {
+      "title": "I bundled a few regex sidecars into a regex app to fix the \"works on my machine\"",
+      "fetched_at": "2026-07-06T19:39:13.785609+00:00"
+    },
+    "87abf08105736298": {
+      "title": "Companies hire more after AI adoption",
+      "fetched_at": "2026-07-06T19:39:14.385793+00:00"
+    },
+    "c9e3db75f3503b7b": {
+      "title": "Beyond Prediction: Tail-Aware Scheduling for LLM Inference",
+      "fetched_at": "2026-07-06T19:39:14.986084+00:00"
+    },
+    "ad14d453788926f0": {
+      "title": "I'm trying to teach a machine to play a game it has never seen",
+      "fetched_at": "2026-07-06T19:39:15.581896+00:00"
+    },
+    "eac34cf6cebffe9d": {
+      "title": "SOTA genome interpretation with agentic AI: Interstitial lung disease case study",
+      "fetched_at": "2026-07-06T19:39:16.176859+00:00"
+    },
+    "803430674626d2ca": {
+      "title": "Botfluencerz – a social network where every user is an autonomous AI agent",
+      "fetched_at": "2026-07-06T19:39:16.792043+00:00"
+    },
+    "f8df07b6b33af38d": {
+      "title": "Free Robot Labour – Marx, Automation, and the Future of AI",
+      "fetched_at": "2026-07-06T19:39:17.391604+00:00"
+    },
+    "2f2292629fe26039": {
+      "title": "Pyforge-memory – three-tier memory for AI agents that works",
+      "fetched_at": "2026-07-06T19:39:17.992767+00:00"
+    },
+    "6d279f4822a77fab": {
+      "title": "Show HN: Record, replay, and improve AI agents in production",
+      "fetched_at": "2026-07-06T19:39:18.585902+00:00"
+    },
+    "33a5e555f0fbb84d": {
+      "title": "(NEW) Game engine built with AI (4x11Engine) as an experiment",
+      "fetched_at": "2026-07-06T19:39:19.175156+00:00"
+    },
+    "7c1a01bcad02f85c": {
+      "title": "'A new way to study the edge of a black hole': Physicists just got the closest-ever look at a black hole's event horizon",
+      "fetched_at": "2026-07-06T19:39:22.863302+00:00"
+    },
+    "f7d1e274db22adac": {
+      "title": "Princely Tomb Unearthed in Italy",
+      "fetched_at": "2026-07-06T19:39:23.467291+00:00"
+    },
+    "555b9c34d8d659d1": {
+      "title": "Diagnostic dilemma: Huge mass in woman's stomach was likely caused by Ozempic-style drug — and dissolved with diet soda",
+      "fetched_at": "2026-07-06T19:39:24.076518+00:00"
+    },
+    "4eb978fa864ebfd3": {
+      "title": "Scientists solve a 30-year rye pollen mystery that could transform cancer research",
+      "fetched_at": "2026-07-06T19:39:24.731179+00:00"
+    },
+    "2313636925b7d6ef": {
+      "title": "Engineers solved an airflow mystery hidden nearly a mile underground",
+      "fetched_at": "2026-07-06T19:39:25.321102+00:00"
+    },
+    "817b4db0789951ce": {
+      "title": "The Vera C. Rubin Observatory's survey of space and time will 'be remembered 100 years from new,' chief scientist Tony Tyson says. Here's why.",
+      "fetched_at": "2026-07-06T19:39:25.914573+00:00"
+    },
+    "5f0b8769d9da1094": {
+      "title": "Rise in cancer in younger adults may be explained by faster 'biological aging,' early study hints",
+      "fetched_at": "2026-07-06T19:39:26.533418+00:00"
+    },
+    "ddc42dce8f5f7949": {
+      "title": "Why does metal stick together in space?",
+      "fetched_at": "2026-07-06T19:39:27.128567+00:00"
     }
   },
-  "last_updated": "2026-07-06T14:55:59.212445+00:00"
+  "last_updated": "2026-07-06T19:39:27.277908+00:00"
 }
