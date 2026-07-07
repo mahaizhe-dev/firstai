@@ -1,105 +1,5 @@
 {
   "articles": {
-    "b8cdca80878cc063": {
-      "title": "Will AI keep us stuck in 2020 architectures?",
-      "fetched_at": "2026-06-29T15:27:24.612350+00:00"
-    },
-    "022177ca21ba4ab6": {
-      "title": "I let an AI agent run my SEO site. It broke things. I published the bugs",
-      "fetched_at": "2026-06-29T15:27:25.238131+00:00"
-    },
-    "fb6e3438dd81b5d5": {
-      "title": "Low-cost Chinese AI models like DeepSeek gain traction in the U.S.",
-      "fetched_at": "2026-06-29T15:27:25.873036+00:00"
-    },
-    "4117a2cd03823608": {
-      "title": "Building AI Agents in Ruby with the Anthropic SDK",
-      "fetched_at": "2026-06-29T15:27:26.490250+00:00"
-    },
-    "8d39eff6180ed6aa": {
-      "title": "AI models' values are different from most people's",
-      "fetched_at": "2026-06-29T15:27:27.128147+00:00"
-    },
-    "4a348b416e6402cd": {
-      "title": "AI Accountability in Justice and Medicine – Ethics and EU AI Act",
-      "fetched_at": "2026-06-29T15:27:27.748555+00:00"
-    },
-    "b66a55eda83c6c8d": {
-      "title": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
-      "fetched_at": "2026-06-29T15:27:28.375128+00:00"
-    },
-    "0690f46283821fac": {
-      "title": "Working with AI",
-      "fetched_at": "2026-06-29T15:27:29.055408+00:00"
-    },
-    "cb1a27b3be1a0f26": {
-      "title": "AI Is Dogshit at Design",
-      "fetched_at": "2026-06-29T15:27:29.684976+00:00"
-    },
-    "a22bf2a13889393d": {
-      "title": "Gen Z's AI problem isn't about AI",
-      "fetched_at": "2026-06-29T15:27:30.318943+00:00"
-    },
-    "0e3f14ea49d3f460": {
-      "title": "Show HN: Uselink – publish and collaborate on AI-generated HTML",
-      "fetched_at": "2026-06-29T15:27:30.975644+00:00"
-    },
-    "ebe6ef8d66ca9715": {
-      "title": "Ask HN: How to use AI to learn faster but effectively?",
-      "fetched_at": "2026-06-29T15:27:31.593246+00:00"
-    },
-    "e5424444ffa9ee46": {
-      "title": "Show HN: Klorn–I built an email firewall because every AI inbox made mine louder",
-      "fetched_at": "2026-06-29T15:27:32.214666+00:00"
-    },
-    "39e63321c9ae59b2": {
-      "title": "Why did one day of AI cost more than a month of servers?",
-      "fetched_at": "2026-06-29T15:27:32.848040+00:00"
-    },
-    "fb190b2dbfa49869": {
-      "title": "Once, cyber-attacks required great skill. AI is changing that",
-      "fetched_at": "2026-06-29T15:27:33.486799+00:00"
-    },
-    "33ddf1cbcb217a6f": {
-      "title": "I built an anime-style UI for watching AI coding agents review each other's code",
-      "fetched_at": "2026-06-29T15:27:34.130021+00:00"
-    },
-    "54e6351b12344445": {
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "fetched_at": "2026-06-29T15:27:34.761911+00:00"
-    },
-    "351af5d7f28bb3fa": {
-      "title": "Show HN: AI Music Generator Free and No Signup",
-      "fetched_at": "2026-06-29T15:27:35.384991+00:00"
-    },
-    "7891b6b8dfdd507d": {
-      "title": "CoreWeave ARIA: AI Research and Iteration Agent",
-      "fetched_at": "2026-06-29T15:27:36.061949+00:00"
-    },
-    "e5e14090fd9bdada": {
-      "title": "Teaching AI how people work is fraught with problems",
-      "fetched_at": "2026-06-29T15:27:36.695400+00:00"
-    },
-    "db36688162d657dc": {
-      "title": "27航班、24場比賽 國際足總主席如何穿梭世界盃",
-      "fetched_at": "2026-06-29T15:27:40.388362+00:00"
-    },
-    "e9c2005593e533fe": {
-      "title": "中國「後地產時代」：地方政府從賣地轉型到做股東成功了嗎？",
-      "fetched_at": "2026-06-29T15:27:41.005836+00:00"
-    },
-    "bccf7b52dc32c413": {
-      "title": "Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest",
-      "fetched_at": "2026-06-29T15:27:45.782231+00:00"
-    },
-    "1f9707a0c0a83706": {
-      "title": "Computer scientists are rushing to tame AI's voracious appetite for energy",
-      "fetched_at": "2026-06-29T15:27:46.397985+00:00"
-    },
-    "7d2451d69a1941de": {
-      "title": "What will the Amazon rainforest look like in 100 years?",
-      "fetched_at": "2026-06-29T15:27:47.019053+00:00"
-    },
     "895abcb67ecba0ea": {
       "title": "Ask HN: If AI-generated code works 100%, do languages still need to be upgraded?",
       "fetched_at": "2026-06-29T19:40:55.186691+00:00"
@@ -3791,7 +3691,139 @@
     "449952bc80b7752d": {
       "title": "中國能複製電動車成功經驗到「機器人的士」嗎?",
       "fetched_at": "2026-07-07T14:03:52.743333+00:00"
+    },
+    "c68167f1c1fbbfe9": {
+      "title": "Show HN: Q a REPL for LLM inside the terminal",
+      "fetched_at": "2026-07-07T19:38:34.428766+00:00"
+    },
+    "b2bddfe4ec4c05a5": {
+      "title": "Code is overpaying for AI. /tokendiet finds where",
+      "fetched_at": "2026-07-07T19:38:35.053830+00:00"
+    },
+    "45801a710822a8a5": {
+      "title": "Sets up your AI agent for Cloudflare",
+      "fetched_at": "2026-07-07T19:38:35.664534+00:00"
+    },
+    "87658c7afd9c5b13": {
+      "title": "Squish, a local LLM inference server for Apple Silicon",
+      "fetched_at": "2026-07-07T19:38:36.288293+00:00"
+    },
+    "ecd368b37a75749b": {
+      "title": "AI Neovim",
+      "fetched_at": "2026-07-07T19:38:36.910172+00:00"
+    },
+    "73e27b3944f1f143": {
+      "title": "Show HN: Last EHR – AI agent over a FHIR back end with human approval on writes",
+      "fetched_at": "2026-07-07T19:38:37.543398+00:00"
+    },
+    "28d000f13cda4e24": {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "fetched_at": "2026-07-07T19:38:38.164238+00:00"
+    },
+    "7aa353dd5e7c0e9c": {
+      "title": "Policy Statement Concerning the Suppression of Accuracy in AI Systems",
+      "fetched_at": "2026-07-07T19:38:38.791466+00:00"
+    },
+    "66d50cfbd6ed1bc8": {
+      "title": "Tessera – an AI agent that refuses to answer without evidence",
+      "fetched_at": "2026-07-07T19:38:39.406409+00:00"
+    },
+    "c578b2dba0d2a10c": {
+      "title": "I use AI in creating my newsletter",
+      "fetched_at": "2026-07-07T19:38:40.032532+00:00"
+    },
+    "16ac95dbfa357507": {
+      "title": "Muse Image: Free AI Image Generator – Museimage.io",
+      "fetched_at": "2026-07-07T19:38:40.648761+00:00"
+    },
+    "625001b1df9d0e09": {
+      "title": "AI recommends crap travel services",
+      "fetched_at": "2026-07-07T19:38:41.264393+00:00"
+    },
+    "4660ea34434b247d": {
+      "title": "Show HN: Bike4Mind – open-core AI workbench; any model, agents, RAG, self-host",
+      "fetched_at": "2026-07-07T19:38:41.923940+00:00"
+    },
+    "fcddb4b5fd77f1d8": {
+      "title": "Local AI is re-reading its own prompt",
+      "fetched_at": "2026-07-07T19:38:42.542713+00:00"
+    },
+    "82e0833eea0e3524": {
+      "title": "Anthropic is now a banned vendor at comma_AI",
+      "fetched_at": "2026-07-07T19:38:43.168583+00:00"
+    },
+    "7912d8ad39c67f54": {
+      "title": "Nvidia CEO blasts bosses using AI as a layoff excuse: 'We're scaring people'",
+      "fetched_at": "2026-07-07T19:38:43.779918+00:00"
+    },
+    "079fa192b40a4204": {
+      "title": "Codeberg proposing prohibitting sharing of AI-generated code",
+      "fetched_at": "2026-07-07T19:38:44.401931+00:00"
+    },
+    "3641c7c39a1da795": {
+      "title": "The Second Derivative: Why No One Understands the AI Boom",
+      "fetched_at": "2026-07-07T19:38:45.016156+00:00"
+    },
+    "37c783ef1ca92241": {
+      "title": "Show HN: Strays – See the ports and AI coding sessions your Mac is running",
+      "fetched_at": "2026-07-07T19:38:45.634319+00:00"
+    },
+    "42c3eff3c45ec2f8": {
+      "title": "AI Job Search – An AI-powered job application framework built on Claude Code",
+      "fetched_at": "2026-07-07T19:38:46.252998+00:00"
+    },
+    "ab564b270e832d51": {
+      "title": "颱風「美莎克」襲擊中國：廣西水庫潰壩 湖北龍捲風致11死",
+      "fetched_at": "2026-07-07T19:38:49.589392+00:00"
+    },
+    "54f8fab4bcda3c48": {
+      "title": "點擊瀏覽即時更新",
+      "fetched_at": "2026-07-07T19:38:50.210005+00:00"
+    },
+    "b7ece860b4f67b15": {
+      "title": "Possible Timber Circle Detected on Scotland’s Isle of Arran",
+      "fetched_at": "2026-07-07T19:38:52.777361+00:00"
+    },
+    "e3d4162b31b24494": {
+      "title": "6,000-year-old broken ribs discovered in Syria may be one of the oldest known cases of child abuse in the world",
+      "fetched_at": "2026-07-07T19:38:53.399550+00:00"
+    },
+    "17381c2350664469": {
+      "title": "4,000-Year-Old Child’s Skull Found in Norway",
+      "fetched_at": "2026-07-07T19:38:54.015651+00:00"
+    },
+    "a72c4e4260dca854": {
+      "title": "Byzantine City Uncovered in Egypt’s Dakhleh Oasis",
+      "fetched_at": "2026-07-07T19:38:54.638041+00:00"
+    },
+    "203085044b2dfc15": {
+      "title": "'Time was speeding up, slowing down, or even stopping': Physicist demonstrates a key theory of time by building a 'mini-universe' in his lab",
+      "fetched_at": "2026-07-07T19:38:55.264668+00:00"
+    },
+    "dc42cc67e914d58c": {
+      "title": "2,500-year-old tomb of a 'warrior prince' with chariot and helmet discovered on Italy's Adriatic coast",
+      "fetched_at": "2026-07-07T19:38:55.900141+00:00"
+    },
+    "124e1ae6eb795210": {
+      "title": "Euclid telescope discovers the 2 most ancient monster black holes in the universe ‪—‬ each brighter than a trillion suns",
+      "fetched_at": "2026-07-07T19:38:56.519016+00:00"
+    },
+    "121fc3059230939e": {
+      "title": "Sleep and Death cista handle: A 2,400-year-old sculpture depicting gods carrying away Zeus' son during the Trojan War",
+      "fetched_at": "2026-07-07T19:38:57.135526+00:00"
+    },
+    "a6a26b34909a5ce5": {
+      "title": "Strawberry Moon 2026: Tonight's full moon is the lowest, and one of the smallest 'micromoons' all year",
+      "fetched_at": "2026-07-07T19:38:57.767939+00:00"
+    },
+    "9c88c54e266b086e": {
+      "title": "Brain activity under anesthesia challenges what we know about consciousness",
+      "fetched_at": "2026-07-07T19:38:58.392383+00:00"
+    },
+    "d492b7a0dd794217": {
+      "title": "These tiny soil microbes could rescue crops from salty farmland",
+      "fetched_at": "2026-07-07T19:38:59.006216+00:00"
     }
   },
-  "last_updated": "2026-07-07T14:03:54.423155+00:00"
+  "last_updated": "2026-07-07T19:38:59.134663+00:00"
 }
