@@ -1,165 +1,5 @@
 {
   "articles": {
-    "83d9fd360b00e33d": {
-      "title": "中文在线在嘉兴成立新公司，注册资本1000万",
-      "fetched_at": "2026-06-29T10:19:06.001804+00:00"
-    },
-    "9c998c28ceb160f6": {
-      "title": "珠海冠宇：持股5%以上股东宁波汇锦诚拟减持不超2%公司股份",
-      "fetched_at": "2026-06-29T10:19:06.632580+00:00"
-    },
-    "1c86ea2b4d775978": {
-      "title": "中国移动确认设立Token办公室",
-      "fetched_at": "2026-06-29T10:19:07.262560+00:00"
-    },
-    "b159df1cad52d9d5": {
-      "title": "蓝箭航天科创板IPO审核状态为“已问询”",
-      "fetched_at": "2026-06-29T10:19:07.886026+00:00"
-    },
-    "74b8c8f654359d51": {
-      "title": "Show HN: VibeRaven – Production workflows for AI coding agents",
-      "fetched_at": "2026-06-29T10:19:08.505939+00:00"
-    },
-    "a23a3538015d8b21": {
-      "title": "The Taser CEO Who Says AI Is the Future of Policing",
-      "fetched_at": "2026-06-29T10:19:09.129012+00:00"
-    },
-    "9eb3ec4fb6c64328": {
-      "title": "英美烟草将裁员及外包近五分之一员工",
-      "fetched_at": "2026-06-29T10:19:09.756252+00:00"
-    },
-    "3b3524f19153df1f": {
-      "title": "蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家",
-      "fetched_at": "2026-06-29T10:19:10.377956+00:00"
-    },
-    "12c92a50008de79c": {
-      "title": "Safe Ways to Use AI Agents",
-      "fetched_at": "2026-06-29T10:19:11.003435+00:00"
-    },
-    "ecd76d972e14724d": {
-      "title": "7天4板威派格：无液冷产品相关项目和订单，亦无相关收入",
-      "fetched_at": "2026-06-29T10:19:11.635766+00:00"
-    },
-    "8d16a5422486f31e": {
-      "title": "日科化学：拟购买亘元新材控制权，股票停牌",
-      "fetched_at": "2026-06-29T10:19:12.299767+00:00"
-    },
-    "b32d51755c9ceed4": {
-      "title": "As AI costs rise, there is little evidence of major utility",
-      "fetched_at": "2026-06-29T10:19:12.930318+00:00"
-    },
-    "39337e861d3f0a3e": {
-      "title": "SK电讯拟3971亿韩元收购SK海力士美国子公司股份",
-      "fetched_at": "2026-06-29T10:19:13.559653+00:00"
-    },
-    "9b02b37b584abb0c": {
-      "title": "兴业股份：股票异常波动期间，股东王文浩存在减持公司股票的情形",
-      "fetched_at": "2026-06-29T10:19:14.183659+00:00"
-    },
-    "7906aa25b4466be4": {
-      "title": "美国新关税预期引发抢运，中国至美东海运费月内暴涨超60%",
-      "fetched_at": "2026-06-29T10:19:14.817095+00:00"
-    },
-    "d8018b75a2ef1c77": {
-      "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
-      "fetched_at": "2026-06-29T10:19:15.453391+00:00"
-    },
-    "8e70eb31a861b540": {
-      "title": "新石器无人车在泉州成立新公司",
-      "fetched_at": "2026-06-29T10:19:16.090347+00:00"
-    },
-    "3b285987cd6c67ef": {
-      "title": "Anthropic CEO: Open-Source AI is getting dangerous",
-      "fetched_at": "2026-06-29T10:19:16.708401+00:00"
-    },
-    "3aed7ad9fbfa5620": {
-      "title": "国务院印发《教育发展“十五五”规划》",
-      "fetched_at": "2026-06-29T10:19:17.329087+00:00"
-    },
-    "01d7388d1a6048b9": {
-      "title": "LLM-free, layout-aware PDF chunker in pure Rust",
-      "fetched_at": "2026-06-29T10:19:17.936357+00:00"
-    },
-    "182eb0393cb4e908": {
-      "title": "歐洲「正在融化」：熱浪襲來 超過千人因高溫相關原因死亡",
-      "fetched_at": "2026-06-29T10:19:20.055153+00:00"
-    },
-    "655756e061d2304f": {
-      "title": "這些西方人為嚮往俄羅斯價值而移民 如今卻落得一個失落",
-      "fetched_at": "2026-06-29T10:19:20.696512+00:00"
-    },
-    "e445b6f476f10f77": {
-      "title": "韓國總統要求徹查世界盃「荒唐」敗仗 警察防主教練回國遇刺",
-      "fetched_at": "2026-06-29T10:19:21.318862+00:00"
-    },
-    "6c4737d61723ec13": {
-      "title": "中國合肥民眾抗議垃圾站，官員當場煞停工程",
-      "fetched_at": "2026-06-29T10:19:21.948896+00:00"
-    },
-    "fc127eea49da9ad8": {
-      "title": "歐洲熱浪：世衛稱逾1300人死亡 德國錄得攝氏41.7度高溫",
-      "fetched_at": "2026-06-29T10:19:22.573184+00:00"
-    },
-    "2944cb99fa9ffc3a": {
-      "title": "哈萨克斯坦与美国深化关系以制衡中俄影响力",
-      "fetched_at": "2026-06-29T10:19:23.185832+00:00"
-    },
-    "dae583ce83b86c23": {
-      "title": "美伊为何再度交火？伊朗力保霍尔木兹海峡控制权",
-      "fetched_at": "2026-06-29T10:19:23.805707+00:00"
-    },
-    "f30af7eb3dbac319": {
-      "title": "美国能避免出现“马云时刻”吗",
-      "fetched_at": "2026-06-29T10:19:24.417991+00:00"
-    },
-    "b20424e936e26c79": {
-      "title": "谁将从美国哈萨克斯坦矿业交易中获利？特朗普的儿子们",
-      "fetched_at": "2026-06-29T10:19:25.042758+00:00"
-    },
-    "7d914c6ea2848762": {
-      "title": "日本女市长休产假为何引发轩然大波",
-      "fetched_at": "2026-06-29T10:19:25.673820+00:00"
-    },
-    "54f8fab4bcda3c48": {
-      "title": "點擊瀏覽即時更新",
-      "fetched_at": "2026-06-29T10:19:26.326558+00:00"
-    },
-    "121fc3059230939e": {
-      "title": "Sleep and Death cista handle: A 2,400-year-old sculpture depicting gods carrying away Zeus' son during the Trojan War",
-      "fetched_at": "2026-06-29T10:19:31.916864+00:00"
-    },
-    "a6a26b34909a5ce5": {
-      "title": "Strawberry moon 2026: Tonight's full moon is the lowest, and one of the smallest 'micromoons' all year",
-      "fetched_at": "2026-06-29T10:19:32.535579+00:00"
-    },
-    "180fc39a2f6fb3af": {
-      "title": "Millions take omega-3 fish oil for brain health but a new study found no benefit",
-      "fetched_at": "2026-06-29T10:19:33.166570+00:00"
-    },
-    "44d7778807799dfe": {
-      "title": "Physicists create a strange new quantum state called a fractional fermi sea",
-      "fetched_at": "2026-06-29T10:19:33.788854+00:00"
-    },
-    "9c88c54e266b086e": {
-      "title": "Brain activity under anesthesia challenges what we know about consciousness",
-      "fetched_at": "2026-06-29T10:19:34.413277+00:00"
-    },
-    "d492b7a0dd794217": {
-      "title": "These tiny soil microbes could rescue crops from salty farmland",
-      "fetched_at": "2026-06-29T10:19:35.045290+00:00"
-    },
-    "88bd5eae7cd7c86e": {
-      "title": "'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing",
-      "fetched_at": "2026-06-29T10:19:35.734756+00:00"
-    },
-    "8dfd182912b8860c": {
-      "title": "This DNA repair gene went rogue and exposed a cancer weakness",
-      "fetched_at": "2026-06-29T10:19:36.358136+00:00"
-    },
-    "8a644a4641a199ec": {
-      "title": "The secret language behind animal cooperation",
-      "fetched_at": "2026-06-29T10:19:36.985210+00:00"
-    },
     "b8cdca80878cc063": {
       "title": "Will AI keep us stuck in 2020 architectures?",
       "fetched_at": "2026-06-29T15:27:24.612350+00:00"
@@ -3867,7 +3707,91 @@
     "3248ef18a1fd4a82": {
       "title": "AI just supercharged the race to find room temperature superconductors",
       "fetched_at": "2026-07-07T09:21:40.025981+00:00"
+    },
+    "7ff425d2293e6e58": {
+      "title": "Show HN: New Search MCP Using Cloudflare AI Search",
+      "fetched_at": "2026-07-07T14:03:38.194130+00:00"
+    },
+    "6b5abe63e89da419": {
+      "title": "My AI Agents Were Working, but I Had No Visibility",
+      "fetched_at": "2026-07-07T14:03:38.808287+00:00"
+    },
+    "2bb1c3c495b14df8": {
+      "title": "Show HN: Building My Own Public HTML Library for Async Learning",
+      "fetched_at": "2026-07-07T14:03:39.422845+00:00"
+    },
+    "eba7d1f9f279427b": {
+      "title": "Show HN: Savva – Health Superapp powered by on-device AI",
+      "fetched_at": "2026-07-07T14:03:40.033845+00:00"
+    },
+    "4554269a206a7827": {
+      "title": "The AI UGC ad math: $2 a video, and the bill nobody prices in",
+      "fetched_at": "2026-07-07T14:03:40.648525+00:00"
+    },
+    "dbc0c9b9d3692828": {
+      "title": "AI Still Can't Get Mario's Mustache Right",
+      "fetched_at": "2026-07-07T14:03:41.269654+00:00"
+    },
+    "a3d977e8dd9c4a79": {
+      "title": "Observability Design for the AI Era – App, Infra, CI, LLM (Part 1)",
+      "fetched_at": "2026-07-07T14:03:41.869487+00:00"
+    },
+    "6c718baa825ed98b": {
+      "title": "China's DeepSeek developing its own AI chip, sources say",
+      "fetched_at": "2026-07-07T14:03:42.468121+00:00"
+    },
+    "8fa176b0522632f0": {
+      "title": "Show HN: DocFlow – AI documentation updates for GitHub pull requests",
+      "fetched_at": "2026-07-07T14:03:43.079548+00:00"
+    },
+    "3f4ced2b618f2a5f": {
+      "title": "CorvinOS – an agentic OS where GDPR/EU AI Act compliance can't be switched off",
+      "fetched_at": "2026-07-07T14:03:43.729034+00:00"
+    },
+    "9d423c50ed9504cd": {
+      "title": "Most AI Work Can Wait",
+      "fetched_at": "2026-07-07T14:03:44.344921+00:00"
+    },
+    "64bea8184cf06c1d": {
+      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+      "fetched_at": "2026-07-07T14:03:44.951566+00:00"
+    },
+    "f8759315d69dec72": {
+      "title": "瑞为技术暗盘破发，收盘跌17%｜敲钟时刻",
+      "fetched_at": "2026-07-07T14:03:45.607857+00:00"
+    },
+    "e982052c41894728": {
+      "title": "A visual calculator to estimate and compare LLM API pricing",
+      "fetched_at": "2026-07-07T14:03:46.215605+00:00"
+    },
+    "eebd498247051067": {
+      "title": "Show HN: SigMap – deterministic repo maps for AI coding agents",
+      "fetched_at": "2026-07-07T14:03:46.837340+00:00"
+    },
+    "fd3212ab09e2a68f": {
+      "title": "行云科技：上半年净利润同比预增432.77%—699.15%",
+      "fetched_at": "2026-07-07T14:03:47.446091+00:00"
+    },
+    "16a9be94684c32dd": {
+      "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+      "fetched_at": "2026-07-07T14:03:48.055351+00:00"
+    },
+    "17f233a264232c9e": {
+      "title": "Amazon Returns to US Bond Market to Fund AI Infrastructure Build",
+      "fetched_at": "2026-07-07T14:03:48.671270+00:00"
+    },
+    "ffbd52b364dce194": {
+      "title": "热门中概股美股盘前普跌，阿里巴巴跌超1%",
+      "fetched_at": "2026-07-07T14:03:49.289344+00:00"
+    },
+    "2f28d2ba402bd57a": {
+      "title": "美股大型科技股盘前涨跌不一，英特尔跌超3%",
+      "fetched_at": "2026-07-07T14:03:49.927382+00:00"
+    },
+    "449952bc80b7752d": {
+      "title": "中國能複製電動車成功經驗到「機器人的士」嗎?",
+      "fetched_at": "2026-07-07T14:03:52.743333+00:00"
     }
   },
-  "last_updated": "2026-07-07T09:21:40.164989+00:00"
+  "last_updated": "2026-07-07T14:03:54.423155+00:00"
 }
