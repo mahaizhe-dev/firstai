@@ -1,105 +1,5 @@
 {
   "articles": {
-    "895abcb67ecba0ea": {
-      "title": "Ask HN: If AI-generated code works 100%, do languages still need to be upgraded?",
-      "fetched_at": "2026-06-29T19:40:55.186691+00:00"
-    },
-    "6f9302c9c9822451": {
-      "title": "Agentdex: Private local dashboard for AI skills, agents, and rules",
-      "fetched_at": "2026-06-29T19:40:55.800178+00:00"
-    },
-    "8f5c9f02eb16720e": {
-      "title": "Baidu shares jump 7% as AI chip arm said to target $50B Hong Kong IPO",
-      "fetched_at": "2026-06-29T19:40:56.428220+00:00"
-    },
-    "ff6008b5f68f1f45": {
-      "title": "Boris Cherny on AI Archetypes",
-      "fetched_at": "2026-06-29T19:40:57.045123+00:00"
-    },
-    "b4c4d211604f4411": {
-      "title": "The more AI agents write code, the more you need an independent reviewer",
-      "fetched_at": "2026-06-29T19:40:57.683803+00:00"
-    },
-    "753ad6a9eb44d6b5": {
-      "title": "OpenAI is teasing new hardware… for Codex",
-      "fetched_at": "2026-06-29T19:40:58.300432+00:00"
-    },
-    "3934b9218ee6c852": {
-      "title": "Why Your AI Agents Should Stop Speaking English",
-      "fetched_at": "2026-06-29T19:40:58.923149+00:00"
-    },
-    "9b2b9679ed107631": {
-      "title": "Notion shutting down its AI-powered email client, including Mac and iOS apps",
-      "fetched_at": "2026-06-29T19:40:59.551447+00:00"
-    },
-    "4c733e3545046e35": {
-      "title": "Bernie Sanders unveils $7T plan to give Americans control of AI industry",
-      "fetched_at": "2026-06-29T19:41:00.180758+00:00"
-    },
-    "99c887e3922ccdbd": {
-      "title": "KitForge–generate an AI agent manifest; scaffold with enforced approval gates",
-      "fetched_at": "2026-06-29T19:41:00.803986+00:00"
-    },
-    "9409addf09e99256": {
-      "title": "Guide to Using Large Language Models and Generative AI in Economic History",
-      "fetched_at": "2026-06-29T19:41:01.431059+00:00"
-    },
-    "ac2d0d278e609773": {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "fetched_at": "2026-06-29T19:41:02.063847+00:00"
-    },
-    "b7eaf4957bf2518c": {
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "fetched_at": "2026-06-29T19:41:02.691090+00:00"
-    },
-    "322586b6bedab4d6": {
-      "title": "Show HN: Halgorithem – an open-source tool for detecting AI hallucinations",
-      "fetched_at": "2026-06-29T19:41:03.324623+00:00"
-    },
-    "e37d331f33102681": {
-      "title": "Show HN: Context Warp Drive – deterministic folding for LLM agents",
-      "fetched_at": "2026-06-29T19:41:03.952182+00:00"
-    },
-    "e44873868231dc66": {
-      "title": "I time travelled to Ancient Rome (AI Vlog) [video]",
-      "fetched_at": "2026-06-29T19:41:04.581467+00:00"
-    },
-    "838bd8400d82736f": {
-      "title": "Wall Street Bets Micron Is the Next Nvidia AI Winner",
-      "fetched_at": "2026-06-29T19:41:05.192618+00:00"
-    },
-    "881804f84892b5e2": {
-      "title": "Magpie-Search, THE BEST SEARCH ENGINE FOR LLM'S",
-      "fetched_at": "2026-06-29T19:41:05.815342+00:00"
-    },
-    "5a5dc6c3d751d8d6": {
-      "title": "TraceLab: Characterizing Coding Agent Workloads for LLM Serving",
-      "fetched_at": "2026-06-29T19:41:06.438327+00:00"
-    },
-    "59ebc0b7e4149992": {
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "fetched_at": "2026-06-29T19:41:07.063108+00:00"
-    },
-    "b8c6dcf19b85c0b1": {
-      "title": "北京「中國尊」遭輕型飛機撞擊：禁區管制、飛行員身份與動機引發三大疑點",
-      "fetched_at": "2026-06-29T19:41:09.387119+00:00"
-    },
-    "096f9e7082c4459e": {
-      "title": "Japan's bold experiment to curb antibiotic misuse has been a huge success. Could it work in the US?",
-      "fetched_at": "2026-06-29T19:41:12.729088+00:00"
-    },
-    "3c402ebc4d32cbaf": {
-      "title": "James Webb telescope finds a cosmic cloud of creation buried in the Sword of Orion — Space photo of the week",
-      "fetched_at": "2026-06-29T19:41:13.352221+00:00"
-    },
-    "b84ef65325b6e08e": {
-      "title": "Think human anatomy is finished? Scientists say think again",
-      "fetched_at": "2026-06-29T19:41:13.969847+00:00"
-    },
-    "f324a89d2155f416": {
-      "title": "Scientists discover neurons must break their DNA to build the brain",
-      "fetched_at": "2026-06-29T19:41:14.593768+00:00"
-    },
     "df0af994c883a550": {
       "title": "多家品牌金饰价格下调，老凤祥克价1206元",
       "fetched_at": "2026-06-30T02:10:11.118689+00:00"
@@ -3823,7 +3723,131 @@
     "d492b7a0dd794217": {
       "title": "These tiny soil microbes could rescue crops from salty farmland",
       "fetched_at": "2026-07-07T19:38:59.006216+00:00"
+    },
+    "d5c6bb33b4a94793": {
+      "title": "A股三大指数集体高开",
+      "fetched_at": "2026-07-08T01:28:25.856645+00:00"
+    },
+    "19db44c5ac9a90d3": {
+      "title": "恒指开盘涨0.19%，恒生科技指数涨0.42%",
+      "fetched_at": "2026-07-08T01:28:26.530183+00:00"
+    },
+    "133416ab5ed4293f": {
+      "title": "7月8日人民币对美元中间价调贬23个基点",
+      "fetched_at": "2026-07-08T01:28:27.119252+00:00"
+    },
+    "86793f18437dcb9c": {
+      "title": "韩国拟2028年起强制要求大型企业披露ESG信息",
+      "fetched_at": "2026-07-08T01:28:27.732783+00:00"
+    },
+    "b3721ddeb6e9709a": {
+      "title": "36氪首发 | 获上海国投领投，这家量子传感企业产品已落地惯性导航、气体监测等",
+      "fetched_at": "2026-07-08T01:28:28.333640+00:00"
+    },
+    "a1dd9d2e38e3003f": {
+      "title": "“量感智能”完成数千万元天使轮融资",
+      "fetched_at": "2026-07-08T01:28:28.940363+00:00"
+    },
+    "164901852b60020b": {
+      "title": "“快造科技”完成10亿元融资，为一级市场消费级3D打印最大单笔融资",
+      "fetched_at": "2026-07-08T01:28:29.529950+00:00"
+    },
+    "cc3947f09f439f94": {
+      "title": "日本投资者5月份购买韩国债券规模接近历史最高水平",
+      "fetched_at": "2026-07-08T01:28:30.128349+00:00"
+    },
+    "088da67baf0b02b3": {
+      "title": "深圳光模块独角兽新菲光全速扩张：攻入北美大客户，目标年产值400亿元",
+      "fetched_at": "2026-07-08T01:28:30.715991+00:00"
+    },
+    "d89bb22640ef4f59": {
+      "title": "SmolMail: An AI agent for Gmail that answers in visuals, not walls of text",
+      "fetched_at": "2026-07-08T01:28:31.317283+00:00"
+    },
+    "dae9a101aab6cdec": {
+      "title": "三星将于7月抢在iPhone之前推出新款折叠屏手机",
+      "fetched_at": "2026-07-08T01:28:31.932921+00:00"
+    },
+    "7c46eba7f5bd0c65": {
+      "title": "EU plan to address the risks and opportunities of advanced AI for cybersecurity",
+      "fetched_at": "2026-07-08T01:28:32.528725+00:00"
+    },
+    "fdb8a9bfabcb091f": {
+      "title": "标普道琼斯指数暗示印尼或面临降级至前沿市场风险",
+      "fetched_at": "2026-07-08T01:28:33.144913+00:00"
+    },
+    "6dbd68d022ee4ca6": {
+      "title": "Probabilistic \"Copies\" in Generative AI Models [pdf]",
+      "fetched_at": "2026-07-08T01:28:33.748048+00:00"
+    },
+    "14938afe8e09d0f6": {
+      "title": "两市融资余额减少130.37亿元",
+      "fetched_at": "2026-07-08T01:28:34.377605+00:00"
+    },
+    "bbb62440c908ad7f": {
+      "title": "36氪独家 | 快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资",
+      "fetched_at": "2026-07-08T01:28:35.016991+00:00"
+    },
+    "099b51fca4697889": {
+      "title": "韩国将于本月公布“韩元国际化路线图”",
+      "fetched_at": "2026-07-08T01:28:35.625269+00:00"
+    },
+    "99458df9c03a65eb": {
+      "title": "多重利好叠加，券商板块业绩估值双击行情有望展开",
+      "fetched_at": "2026-07-08T01:28:36.246192+00:00"
+    },
+    "8a9599bebdfc58e9": {
+      "title": "谷歌、RWE在4.11亿欧元融资轮中支持Proxima Fusion",
+      "fetched_at": "2026-07-08T01:28:36.852211+00:00"
+    },
+    "3221b975cc88d1a8": {
+      "title": "小米汽车新产品系列命名为SKYNOMAD",
+      "fetched_at": "2026-07-08T01:28:37.504147+00:00"
+    },
+    "9221f00248fc58ba": {
+      "title": "孟加拉邊改善與印度關係 邊積極拉攏中國",
+      "fetched_at": "2026-07-08T01:28:39.946401+00:00"
+    },
+    "016e01d59466b58c": {
+      "title": "受害者：我要讓他們為這些事情感到羞恥",
+      "fetched_at": "2026-07-08T01:28:40.559125+00:00"
+    },
+    "72538e4feb86189e": {
+      "title": "德國華人性侵案：Telegram「老司機」群組上的跨國犯罪網絡",
+      "fetched_at": "2026-07-08T01:28:41.154494+00:00"
+    },
+    "4de22b77e5ec1fc0": {
+      "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
+      "fetched_at": "2026-07-08T01:28:44.425257+00:00"
+    },
+    "780d61285992c172": {
+      "title": "'One of the oldest gravestones of a free Black person in America' discovered in Boston",
+      "fetched_at": "2026-07-08T01:28:45.046395+00:00"
+    },
+    "bc524722594cc196": {
+      "title": "Incredible new material makes heat programmable",
+      "fetched_at": "2026-07-08T01:28:45.641125+00:00"
+    },
+    "7f80562ba305ab0b": {
+      "title": "Conversing with antiquity: Agentic AI partner for expanding historical research",
+      "fetched_at": "2026-07-08T01:28:46.250557+00:00"
+    },
+    "7d3f4d2e9a2da1f7": {
+      "title": "Discovery helps explain why solid-state batteries often fail",
+      "fetched_at": "2026-07-08T01:28:46.854160+00:00"
+    },
+    "9381a398c63aef6b": {
+      "title": "\"The Borgias\" vs. \"Borgia: Faith and Fear\" (accuracy in historical fiction)",
+      "fetched_at": "2026-07-08T01:28:47.490402+00:00"
+    },
+    "dbd882ce5c23919c": {
+      "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
+      "fetched_at": "2026-07-08T01:28:48.085565+00:00"
+    },
+    "a16db11e443da73a": {
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt's western desert",
+      "fetched_at": "2026-07-08T01:28:48.680369+00:00"
     }
   },
-  "last_updated": "2026-07-07T19:38:59.134663+00:00"
+  "last_updated": "2026-07-08T01:28:48.822116+00:00"
 }
