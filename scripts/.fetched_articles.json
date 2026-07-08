@@ -1,105 +1,5 @@
 {
   "articles": {
-    "58c1b63b3652c889": {
-      "title": "Show HN: TinySearch – token-efficient web research for local AI agents",
-      "fetched_at": "2026-06-30T13:52:33.210008+00:00"
-    },
-    "a95d253f024594f9": {
-      "title": "Sunwæe – your life's AI OS",
-      "fetched_at": "2026-06-30T13:52:33.847598+00:00"
-    },
-    "4093fc76a41dc9c8": {
-      "title": "Show HN: TraceAIO – open-source LLM visibility tracker",
-      "fetched_at": "2026-06-30T13:52:34.476549+00:00"
-    },
-    "dc817ae59520d102": {
-      "title": "The AI Productivity Trap",
-      "fetched_at": "2026-06-30T13:52:35.103871+00:00"
-    },
-    "f81e6b7e2eaa78b6": {
-      "title": "AI and Us: It's Complicated",
-      "fetched_at": "2026-06-30T13:52:35.711879+00:00"
-    },
-    "6d95223c9d373fea": {
-      "title": "Mojo Quest: A browser-based game for learning Mojo syntax",
-      "fetched_at": "2026-06-30T13:52:36.342112+00:00"
-    },
-    "923598699d114974": {
-      "title": "Show HN: Debategle – ranked 1v1 debates judged by an LLM",
-      "fetched_at": "2026-06-30T13:52:36.970737+00:00"
-    },
-    "fc59bfc59ee9e0ad": {
-      "title": "AI Compass: which archetype are you?",
-      "fetched_at": "2026-06-30T13:52:37.619624+00:00"
-    },
-    "cfd3dc867f8818ca": {
-      "title": "Show HN: CiteReady – check if your site can be cited by AI search engines",
-      "fetched_at": "2026-06-30T13:52:38.239412+00:00"
-    },
-    "039a88550fc559eb": {
-      "title": "宝塔实业：撤销退市风险警示，股票简称变更为“宝塔实业”",
-      "fetched_at": "2026-06-30T13:52:38.880713+00:00"
-    },
-    "f7c59fb985f340ba": {
-      "title": "EDDI – sovereign AI orchestrator, now OpenSSF Gold and a UN (UNIDO) partner",
-      "fetched_at": "2026-06-30T13:52:39.511848+00:00"
-    },
-    "259cf3c998ff70e5": {
-      "title": "热门中概股美股盘前跌多涨少，小鹏集团涨超1%",
-      "fetched_at": "2026-06-30T13:52:40.136906+00:00"
-    },
-    "b3b176da1e5f2357": {
-      "title": "AI agents finish a third of the job, and the math says why",
-      "fetched_at": "2026-06-30T13:52:40.813600+00:00"
-    },
-    "ccc79ae2e5bc64a6": {
-      "title": "美股大型科技股盘前涨跌不一，特斯拉跌超1%",
-      "fetched_at": "2026-06-30T13:52:41.430881+00:00"
-    },
-    "860b979a58e3c218": {
-      "title": "Show HN: NodePad – AI agent on a canvas instead of a linear chat",
-      "fetched_at": "2026-06-30T13:52:42.057079+00:00"
-    },
-    "31c04a19e0427f43": {
-      "title": "Show HN: GSV – a personal AI computer that unifies your machines",
-      "fetched_at": "2026-06-30T13:52:42.675429+00:00"
-    },
-    "771211106c5d073b": {
-      "title": "中微公司：拟参与设立私募投资基金，认缴出资不超14.7亿元",
-      "fetched_at": "2026-06-30T13:52:43.288371+00:00"
-    },
-    "135412b7b0cf9374": {
-      "title": "What's slowing down the AI buildout",
-      "fetched_at": "2026-06-30T13:52:43.934771+00:00"
-    },
-    "9f751f2dbd13ea46": {
-      "title": "美国财长贝森特：如果6月就业数据“非常强劲”，他不会感到意外",
-      "fetched_at": "2026-06-30T13:52:44.555401+00:00"
-    },
-    "2591ea57f386dfff": {
-      "title": "Show HN: Framein – a local work-state layer that keeps AI agents in context",
-      "fetched_at": "2026-06-30T13:52:45.177091+00:00"
-    },
-    "ed214a5bc0c77e6f": {
-      "title": "中歐貿易摩擦加劇，默茨暗示推中國版《廣場協議》會成功嗎？",
-      "fetched_at": "2026-06-30T13:52:47.356956+00:00"
-    },
-    "15d597404b3c4780": {
-      "title": "Show HN: ReelsGraph – movie/TV watchlist and ML-based discovery queue, no signup",
-      "fetched_at": "2026-06-30T13:52:52.427425+00:00"
-    },
-    "a3ea1662f46b9c37": {
-      "title": "Scientists figured out how to shrink huge ultrafast lasers so they fit on a tiny chip ‪‪—‬ the 'holy grail' of the field",
-      "fetched_at": "2026-06-30T13:52:53.055625+00:00"
-    },
-    "69a1e92aaf66f485": {
-      "title": "Chinese supercomputer leapfrogs best US machines to be ranked world's fastest",
-      "fetched_at": "2026-06-30T13:52:53.055765+00:00"
-    },
-    "91a073c8c2856ead": {
-      "title": "Bull's-eye! Enormous 'bow and arrow' galaxy is unlike anything radio astronomers have ever seen — Space photo of the week",
-      "fetched_at": "2026-06-30T13:52:53.704526+00:00"
-    },
     "43a8c297baa4c44b": {
       "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
       "fetched_at": "2026-06-30T19:29:38.473142+00:00"
@@ -3827,7 +3727,131 @@
     "3865aa2cfc63f555": {
       "title": "2,000-year-old scrolls buried by Mount Vesuvius eruption finally deciphered with help from AI",
       "fetched_at": "2026-07-08T13:28:21.246630+00:00"
+    },
+    "d68ee64fa1d34c71": {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "fetched_at": "2026-07-08T19:04:36.188841+00:00"
+    },
+    "8e9d30fa1f2dd5dd": {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "fetched_at": "2026-07-08T19:04:36.806044+00:00"
+    },
+    "23917338369a610f": {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "fetched_at": "2026-07-08T19:04:37.432532+00:00"
+    },
+    "8ea13372662ca76e": {
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "fetched_at": "2026-07-08T19:04:38.048552+00:00"
+    },
+    "2c23c083cd34dc24": {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "fetched_at": "2026-07-08T19:04:38.660601+00:00"
+    },
+    "102e8f950d79f173": {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "fetched_at": "2026-07-08T19:04:39.282902+00:00"
+    },
+    "feea1cffce481711": {
+      "title": "These AI startups are growing revenue at faster and faster rates",
+      "fetched_at": "2026-07-08T19:04:39.907159+00:00"
+    },
+    "6bc29889d83663bc": {
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "fetched_at": "2026-07-08T19:04:40.526323+00:00"
+    },
+    "7b7959e5ed576617": {
+      "title": "Cloudflare与OpenAI启动试点项目，拟利用全球网络数据优化AI搜索",
+      "fetched_at": "2026-07-08T19:04:41.159301+00:00"
+    },
+    "d48c178f9aad86b2": {
+      "title": "蓝色起源以1300亿美元估值融资100亿美元",
+      "fetched_at": "2026-07-08T19:04:41.774655+00:00"
+    },
+    "dfc57f3d6995f31f": {
+      "title": "深圳市铂科新材料股份有限公司在港交所提交上市申请",
+      "fetched_at": "2026-07-08T19:04:42.392488+00:00"
+    },
+    "23f87c4f57438d67": {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "fetched_at": "2026-07-08T19:04:43.017738+00:00"
+    },
+    "221bbbf5ad822b17": {
+      "title": "OpenAI前研究员田永龙加入腾讯将参与VLM相关研发",
+      "fetched_at": "2026-07-08T19:04:43.630324+00:00"
+    },
+    "610fc49813c5cefc": {
+      "title": "太阳纸业：拟投资不超过50亿元建设广西南宁林浆纸一体化提质增效技改项目",
+      "fetched_at": "2026-07-08T19:04:44.250984+00:00"
+    },
+    "ea27880941730b7d": {
+      "title": "江淮汽车：预计上半年净亏损7.4亿元，销量同比下滑",
+      "fetched_at": "2026-07-08T19:04:44.876654+00:00"
+    },
+    "ad7dc3fc5b7d8282": {
+      "title": "精测电子：筹划收购上海精测部分股权并配套募资，股票停牌",
+      "fetched_at": "2026-07-08T19:04:45.552374+00:00"
+    },
+    "713317601c50c87d": {
+      "title": "高德红外：预计上半年净利润同比增长602%-701%",
+      "fetched_at": "2026-07-08T19:04:46.170878+00:00"
+    },
+    "517961bcc6e1ebdf": {
+      "title": "正帆科技：控股股东拟减持不超0.95%股份",
+      "fetched_at": "2026-07-08T19:04:46.783945+00:00"
+    },
+    "7cf8829b384c72cc": {
+      "title": "诚邦股份：上半年预盈2600万元，半导体储存业务营业收入、净利润同比较大幅度增长",
+      "fetched_at": "2026-07-08T19:04:47.399237+00:00"
+    },
+    "b4ed8ba9efb266f9": {
+      "title": "智谱通过配售发行1980万股H股",
+      "fetched_at": "2026-07-08T19:04:48.016988+00:00"
+    },
+    "edd3295614ff7f06": {
+      "title": "Inscriptions Found at Phrygian City of Acmonia",
+      "fetched_at": "2026-07-08T19:04:52.655017+00:00"
+    },
+    "d08f98f94305726c": {
+      "title": "Was Homo floresiensis a Hunter or a Scavenger?",
+      "fetched_at": "2026-07-08T19:04:53.278913+00:00"
+    },
+    "bacc40889ad2a551": {
+      "title": "We remember little to nothing of early childhood — and a recent mouse study may help explain why",
+      "fetched_at": "2026-07-08T19:04:53.893789+00:00"
+    },
+    "8fd43c7df644560f": {
+      "title": "Scythian DNA Study Examines Elite Family Ties",
+      "fetched_at": "2026-07-08T19:04:54.508157+00:00"
+    },
+    "c26258dde006e39f": {
+      "title": "Secretive Chinese probe snaps first photo of Earth's mysterious 'quasi-moon' — and it may pose a big problem",
+      "fetched_at": "2026-07-08T19:04:55.135205+00:00"
+    },
+    "814da4bf4543c854": {
+      "title": "Eliza Archaeology Project",
+      "fetched_at": "2026-07-08T19:04:55.766785+00:00"
+    },
+    "47b53fe65c98930e": {
+      "title": "'What we found was striking': Physicists detect new kind of gravitational wave signal from a black hole's event horizon",
+      "fetched_at": "2026-07-08T19:04:56.392142+00:00"
+    },
+    "baeb4c893a69d035": {
+      "title": "Shadowy tendrils of ancient lava have scarred a dark volcano next to a 'skull' in the Sahara — Earth from space",
+      "fetched_at": "2026-07-08T19:04:57.012344+00:00"
+    },
+    "e21732840f9c8fd9": {
+      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
+      "fetched_at": "2026-07-08T19:04:57.627711+00:00"
+    },
+    "eea427a162dfa069": {
+      "title": "Scientists say creatine may help fight depression",
+      "fetched_at": "2026-07-08T19:04:58.251704+00:00"
+    },
+    "7ae7795972f2c6a4": {
+      "title": "Why scientists fear we're missing evidence of extraterrestrial life",
+      "fetched_at": "2026-07-08T19:04:58.875410+00:00"
     }
   },
-  "last_updated": "2026-07-08T13:28:21.355506+00:00"
+  "last_updated": "2026-07-08T19:04:58.987558+00:00"
 }
