@@ -1,145 +1,5 @@
 {
   "articles": {
-    "5667a4451df766a3": {
-      "title": "阳光照明：拟出资3000万元参与投资嘉兴骅初基金",
-      "fetched_at": "2026-06-30T08:54:07.823616+00:00"
-    },
-    "227387ecb085ffae": {
-      "title": "中化国际：发行股份购买资产申请获上交所受理",
-      "fetched_at": "2026-06-30T08:54:08.468216+00:00"
-    },
-    "ed8aa8f813910ec5": {
-      "title": "众擎机器人在深圳成立新公司",
-      "fetched_at": "2026-06-30T08:54:09.088372+00:00"
-    },
-    "93645b8b4f0d02d3": {
-      "title": "三只松鼠：获得政府补助2140.36万元",
-      "fetched_at": "2026-06-30T08:54:09.727659+00:00"
-    },
-    "8127efa3ca6fc95b": {
-      "title": "财政部：1-5月全国国有及国有控股企业营业总收入同比下降0.7%，利润总额同比增长3.5%",
-      "fetched_at": "2026-06-30T08:54:10.377299+00:00"
-    },
-    "68fe4474b02811f5": {
-      "title": "招商银行在天津成立新公司",
-      "fetched_at": "2026-06-30T08:54:10.999136+00:00"
-    },
-    "906985898600761b": {
-      "title": "Show HN: Mocca – A Mac email client powered by local AI",
-      "fetched_at": "2026-06-30T08:54:11.619810+00:00"
-    },
-    "3e322ba1ea107910": {
-      "title": "OpenSquilla发布0.4.0版本",
-      "fetched_at": "2026-06-30T08:54:12.237250+00:00"
-    },
-    "e317fe7493d861cd": {
-      "title": "吉林化纤：董事长宋德武因工作变动原因辞职",
-      "fetched_at": "2026-06-30T08:54:12.849357+00:00"
-    },
-    "6f1d882263e6f03c": {
-      "title": "Good article about local LLM on MacBook Air",
-      "fetched_at": "2026-06-30T08:54:13.473392+00:00"
-    },
-    "4521358edce3c410": {
-      "title": "Show HN: Not Another AI Platform",
-      "fetched_at": "2026-06-30T08:54:14.139106+00:00"
-    },
-    "6e18313ebde6918d": {
-      "title": "恒指收跌0.63%，恒生科技指数涨1.8%",
-      "fetched_at": "2026-06-30T08:54:14.767870+00:00"
-    },
-    "e5d99a4eb5e0bb51": {
-      "title": "比特币矿企Ionic Digital递表纳斯达克申请直接上市",
-      "fetched_at": "2026-06-30T08:54:15.408878+00:00"
-    },
-    "5f1444f507c52933": {
-      "title": "欧洲央行管委斯莱彭：通胀冲击的程度尚不明朗",
-      "fetched_at": "2026-06-30T08:54:16.076037+00:00"
-    },
-    "cd7483b1e3cddd13": {
-      "title": "AI and Mathematics Research – Yikes (N.J. Wildberger)",
-      "fetched_at": "2026-06-30T08:54:16.691040+00:00"
-    },
-    "ec6d79093597c6f4": {
-      "title": "The cost of AI is someone else's time",
-      "fetched_at": "2026-06-30T08:54:17.305814+00:00"
-    },
-    "eb200376e3708fb5": {
-      "title": "优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场",
-      "fetched_at": "2026-06-30T08:54:17.935168+00:00"
-    },
-    "19d3fba6e27d6fd4": {
-      "title": "Show HN: Ask your AI what changed across your competitors",
-      "fetched_at": "2026-06-30T08:54:18.586820+00:00"
-    },
-    "0f75df1b3a5ac1bd": {
-      "title": "广大特材：用于半导体设备的材料具备批量供货能力，但近期暂无该业务相关收入",
-      "fetched_at": "2026-06-30T08:54:19.222309+00:00"
-    },
-    "f0d152857ca516bf": {
-      "title": "玲珑轮胎：公司不存在退市风险",
-      "fetched_at": "2026-06-30T08:54:19.847242+00:00"
-    },
-    "ccd8457880cbaa96": {
-      "title": "大馬榴槤大跌價：為何曾經矜貴的果王如今要半賣半送？",
-      "fetched_at": "2026-06-30T08:54:22.342331+00:00"
-    },
-    "8855d033150a5325": {
-      "title": "郭文貴美國詐騙案以判囚30年告一段落",
-      "fetched_at": "2026-06-30T08:54:22.978709+00:00"
-    },
-    "d0099caa4b1cb832": {
-      "title": "最高法院扩大特朗普解雇官员的权力",
-      "fetched_at": "2026-06-30T08:54:23.608857+00:00"
-    },
-    "0454ae32744420e5": {
-      "title": "中國實施「民族團結進步促進法」，為何引起台灣憂慮？",
-      "fetched_at": "2026-06-30T08:54:24.229759+00:00"
-    },
-    "25bd9389f6e87764": {
-      "title": "以色列和伊朗问题正在撕裂美国两党",
-      "fetched_at": "2026-06-30T08:54:24.848982+00:00"
-    },
-    "10c3efe9e293eb0c": {
-      "title": "流亡富商郭文贵因诈骗罪在美被判30年监禁",
-      "fetched_at": "2026-06-30T08:54:25.459711+00:00"
-    },
-    "2ae2c987a8d95ee9": {
-      "title": "减肥药能让人更长寿吗？",
-      "fetched_at": "2026-06-30T08:54:26.083333+00:00"
-    },
-    "587f1e0f19ff470c": {
-      "title": "迄今为止，2026年最优秀的10部电影",
-      "fetched_at": "2026-06-30T08:54:26.702713+00:00"
-    },
-    "c6d102909bf246cf": {
-      "title": "发酵食品真的有益健康吗？",
-      "fetched_at": "2026-06-30T08:54:27.339735+00:00"
-    },
-    "baeb4c893a69d035": {
-      "title": "Shadowy tendrils of ancient lava have scarred a dark volcano next to a 'skull' in the Sahara — Earth from space",
-      "fetched_at": "2026-06-30T08:54:30.432636+00:00"
-    },
-    "e21732840f9c8fd9": {
-      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
-      "fetched_at": "2026-06-30T08:54:31.051679+00:00"
-    },
-    "eea427a162dfa069": {
-      "title": "Scientists say creatine may help fight depression",
-      "fetched_at": "2026-06-30T08:54:31.725337+00:00"
-    },
-    "c38c3106d0060ea7": {
-      "title": "A massive asteroid slammed into the North Sea and triggered a 330-foot tsunami",
-      "fetched_at": "2026-06-30T08:54:32.376222+00:00"
-    },
-    "7ae7795972f2c6a4": {
-      "title": "Why scientists fear we're missing evidence of extraterrestrial life",
-      "fetched_at": "2026-06-30T08:54:32.998069+00:00"
-    },
-    "a93c15ff33a83247": {
-      "title": "Researchers discover new beetle species hiding just steps from their lab",
-      "fetched_at": "2026-06-30T08:54:33.624482+00:00"
-    },
     "58c1b63b3652c889": {
       "title": "Show HN: TinySearch – token-efficient web research for local AI agents",
       "fetched_at": "2026-06-30T13:52:33.210008+00:00"
@@ -3855,7 +3715,119 @@
     "096f9e7082c4459e": {
       "title": "Japan's bold experiment to curb antibiotic misuse has been a huge success. Could it work in the US?",
       "fetched_at": "2026-07-08T08:05:59.473972+00:00"
+    },
+    "01ddaa70fdada500": {
+      "title": "AI agents accessing production database",
+      "fetched_at": "2026-07-08T13:27:49.604655+00:00"
+    },
+    "daaa3d1a0e08bb96": {
+      "title": "Ask HN: Why aren't we collaborating on the prompts we give to our AI agents?",
+      "fetched_at": "2026-07-08T13:27:50.236093+00:00"
+    },
+    "43ab32e72e30d7d3": {
+      "title": "I had 25 AI agents try to kill 25 startup ideas. They killed 22",
+      "fetched_at": "2026-07-08T13:27:50.849965+00:00"
+    },
+    "078506c1a3ff20e0": {
+      "title": "Show HN: AIfunc – Call AI as a function, not as an agent",
+      "fetched_at": "2026-07-08T13:27:51.478241+00:00"
+    },
+    "c972e2fb75390640": {
+      "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
+      "fetched_at": "2026-07-08T13:27:52.104913+00:00"
+    },
+    "af5e919d36c01084": {
+      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images–Unless You Opt Out",
+      "fetched_at": "2026-07-08T13:27:52.718639+00:00"
+    },
+    "5126ebfbe93b704c": {
+      "title": "AI – five stages of accepting the inevitable",
+      "fetched_at": "2026-07-08T13:27:53.330822+00:00"
+    },
+    "a60b5cb7ad4e96e0": {
+      "title": "亚马逊秘密推进Alexa“智能体”计划，成本高昂引发内部担忧",
+      "fetched_at": "2026-07-08T13:27:53.946530+00:00"
+    },
+    "41f5bb9322db597d": {
+      "title": "热门中概股美股盘前多数上涨，阿里巴巴涨超8%",
+      "fetched_at": "2026-07-08T13:27:54.569093+00:00"
+    },
+    "f3acd80c593abdb4": {
+      "title": "美股大型科技股盘前跌多涨少，SpaceX涨超1%",
+      "fetched_at": "2026-07-08T13:27:55.186176+00:00"
+    },
+    "9f0608a9eb73e8b7": {
+      "title": "Cinchor – Control what an AI agent can do, and prove what it did",
+      "fetched_at": "2026-07-08T13:27:55.806454+00:00"
+    },
+    "6a19ab34185de63c": {
+      "title": "Is AI making us dumber?",
+      "fetched_at": "2026-07-08T13:27:56.439564+00:00"
+    },
+    "de43586c7085ebe2": {
+      "title": "美国MBA抵押贷款申请上周下降2.2%",
+      "fetched_at": "2026-07-08T13:27:57.079851+00:00"
+    },
+    "c1dcb02a262f43d4": {
+      "title": "湖南黄金：拟发行股份购买黄金天岳及中南冶炼100%股权",
+      "fetched_at": "2026-07-08T13:27:57.705645+00:00"
+    },
+    "7d95a93718ee848c": {
+      "title": "How AI Embeddings Cut Cloud Costs by 50% While Boosting Matching by 65%",
+      "fetched_at": "2026-07-08T13:27:58.329640+00:00"
+    },
+    "d150c348c50f869f": {
+      "title": "China warns about AI risks with Anthropic's Claude Code",
+      "fetched_at": "2026-07-08T13:27:58.946743+00:00"
+    },
+    "b995d707c74366e8": {
+      "title": "Show HN: VetoBench – benchmarking AI memory beyond retrieval",
+      "fetched_at": "2026-07-08T13:27:59.560506+00:00"
+    },
+    "c9f769bdbd04b9a6": {
+      "title": "张小龙辞任粉笔首席执行官、董事会主席",
+      "fetched_at": "2026-07-08T13:28:00.194562+00:00"
+    },
+    "12303bb4c898b45b": {
+      "title": "Deprecated Accessor Footgun in AI SDK v7",
+      "fetched_at": "2026-07-08T13:28:00.817387+00:00"
+    },
+    "c86adefe01fbc5e1": {
+      "title": "Show HN: Argutum – an AI chat that pays you per message, scored in real time",
+      "fetched_at": "2026-07-08T13:28:01.439486+00:00"
+    },
+    "a4c99243872ed39a": {
+      "title": "美伊徹夜交火 特朗普稱停火協議「完了」",
+      "fetched_at": "2026-07-08T13:28:04.670026+00:00"
+    },
+    "87943583bb484fec": {
+      "title": "中國實施信訪新規：有學者指「最終目的是減少進北京上訪者」",
+      "fetched_at": "2026-07-08T13:28:05.294796+00:00"
+    },
+    "0b10700d1352b408": {
+      "title": "沒苦硬吃？「我們十年來天天自己帶飯，40歲就退休了」",
+      "fetched_at": "2026-07-08T13:28:05.961517+00:00"
+    },
+    "8ec157f75b5652a6": {
+      "title": "未開始先被抵制的補選：英國改革黨法拉奇的豪賭",
+      "fetched_at": "2026-07-08T13:28:06.580260+00:00"
+    },
+    "52cdabeea63c1f40": {
+      "title": "Diagnostic dilemma: A woman heard voices for years — but not because of psychosis",
+      "fetched_at": "2026-07-08T13:28:19.376641+00:00"
+    },
+    "9638fa9df9c6ab70": {
+      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
+      "fetched_at": "2026-07-08T13:28:20.005978+00:00"
+    },
+    "650f0374a3283039": {
+      "title": "New AI model reveals how neutron star mergers forge heavy elements",
+      "fetched_at": "2026-07-08T13:28:20.629409+00:00"
+    },
+    "3865aa2cfc63f555": {
+      "title": "2,000-year-old scrolls buried by Mount Vesuvius eruption finally deciphered with help from AI",
+      "fetched_at": "2026-07-08T13:28:21.246630+00:00"
     }
   },
-  "last_updated": "2026-07-08T08:05:59.618062+00:00"
+  "last_updated": "2026-07-08T13:28:21.355506+00:00"
 }
