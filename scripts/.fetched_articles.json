@@ -1,133 +1,5 @@
 {
   "articles": {
-    "b95896f4ae311b92": {
-      "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
-      "fetched_at": "2026-07-02T13:26:57.279156+00:00"
-    },
-    "07078d5f4a6b927f": {
-      "title": "In the age of algorithms and AI, is traditional media democracy's defence?",
-      "fetched_at": "2026-07-02T13:26:57.909245+00:00"
-    },
-    "109d14e38318ec94": {
-      "title": "AI will make biological extinction risks worse before it makes them better",
-      "fetched_at": "2026-07-02T13:26:58.527218+00:00"
-    },
-    "a10ace80ee256f45": {
-      "title": "Scores how production-ready your AI-generated code is",
-      "fetched_at": "2026-07-02T13:26:59.138271+00:00"
-    },
-    "38a535440bda4691": {
-      "title": "Ask HN: Why aren't companies hoarding AI talent?",
-      "fetched_at": "2026-07-02T13:26:59.768465+00:00"
-    },
-    "721c75dcd2a39545": {
-      "title": "Show HN: Skill Federation – private skill search for AI coding agents",
-      "fetched_at": "2026-07-02T13:27:00.389318+00:00"
-    },
-    "813a7ed80920700e": {
-      "title": "奥飞娱乐：上半年净利润同比预增305.30%—413.38%",
-      "fetched_at": "2026-07-02T13:27:01.029376+00:00"
-    },
-    "deda2222131ac18e": {
-      "title": "Cua Desktop: Router Learning System self-improves from past tasks",
-      "fetched_at": "2026-07-02T13:27:01.649036+00:00"
-    },
-    "1ca6d5c41c781046": {
-      "title": "部分外资银行正积极申请新一批QDII额度",
-      "fetched_at": "2026-07-02T13:27:02.266926+00:00"
-    },
-    "5b5039e1c1965e72": {
-      "title": "Companies Are Throttling Employees' AI Use Because It's Too Expensive",
-      "fetched_at": "2026-07-02T13:27:02.897797+00:00"
-    },
-    "2028c7cec20cf8a4": {
-      "title": "SAP Restricts Hiring, Travel to Fund 'Significant' AI Push",
-      "fetched_at": "2026-07-02T13:27:03.530142+00:00"
-    },
-    "d3198c114ec05397": {
-      "title": "热门中概股美股盘前普跌，百度跌超3%",
-      "fetched_at": "2026-07-02T13:27:04.148787+00:00"
-    },
-    "afc2525c07028997": {
-      "title": "美股大型科技股盘前多数上涨，英特尔涨超2%",
-      "fetched_at": "2026-07-02T13:27:04.792295+00:00"
-    },
-    "de7737756cc08b39": {
-      "title": "Foreign Influence in the Campaign Against American AI",
-      "fetched_at": "2026-07-02T13:27:05.428389+00:00"
-    },
-    "256070127ea9364c": {
-      "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "fetched_at": "2026-07-02T13:27:06.060859+00:00"
-    },
-    "006acc38bb54f495": {
-      "title": "现货黄金日内涨幅扩大至2%",
-      "fetched_at": "2026-07-02T13:27:06.682687+00:00"
-    },
-    "6b79db2cbbc43834": {
-      "title": "Show HN: Open-Source AI Native IDE Cursor Alternative",
-      "fetched_at": "2026-07-02T13:27:07.317961+00:00"
-    },
-    "042c8e9231219f27": {
-      "title": "LLM Fine-Tuning and Model Iteration Loop: Improve AI Apps in Production",
-      "fetched_at": "2026-07-02T13:27:07.936690+00:00"
-    },
-    "a3d15557213b039a": {
-      "title": "美国6月非农就业人数增加5.7万人",
-      "fetched_at": "2026-07-02T13:27:08.556122+00:00"
-    },
-    "d142386f326f60e0": {
-      "title": "美联储戴利：尽管通胀高于目标，但未看到经济韧性不足迹象",
-      "fetched_at": "2026-07-02T13:27:09.175233+00:00"
-    },
-    "82d9ef2941475dae": {
-      "title": "「中國尊」撞機：當局稱六旬男機師「長期焦慮」、多次提及輕生",
-      "fetched_at": "2026-07-02T13:27:11.626578+00:00"
-    },
-    "c2233b6d98122daa": {
-      "title": "香港《國安法解密檔案》：「電視認罪」文化會否成為新常態？",
-      "fetched_at": "2026-07-02T13:27:12.255254+00:00"
-    },
-    "9997bc976489ecdf": {
-      "title": "中國對日本軍工管制升級：面對稀土牌，高市早苗如何應對？",
-      "fetched_at": "2026-07-02T13:27:12.894246+00:00"
-    },
-    "2d38c32cab0faeb1": {
-      "title": "你知道你的「流汗評分」嗎？來看補水技術的崛起",
-      "fetched_at": "2026-07-02T13:27:13.518766+00:00"
-    },
-    "efba27d87bc37417": {
-      "title": "當影像流水線走到極致——中國AI短劇是怎樣煉成的？",
-      "fetched_at": "2026-07-02T13:27:14.157619+00:00"
-    },
-    "79400c9fc2cf1de5": {
-      "title": "Ancient cave paintings can harbor human DNA for millennia, scientists find",
-      "fetched_at": "2026-07-02T13:27:27.412829+00:00"
-    },
-    "4713df3f29aa9340": {
-      "title": "Free interactive ancient Rome atlas",
-      "fetched_at": "2026-07-02T13:27:28.046623+00:00"
-    },
-    "abd7afe35ae661ab": {
-      "title": "Ancient grain shows early lab promise against a key Alzheimer's protein",
-      "fetched_at": "2026-07-02T13:27:28.668798+00:00"
-    },
-    "095bc55ef6301a68": {
-      "title": "NASA mission to rescue a falling space telescope before it crashes to Earth delayed once again",
-      "fetched_at": "2026-07-02T13:27:29.295995+00:00"
-    },
-    "1a866b98ffc8d01f": {
-      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-      "fetched_at": "2026-07-02T13:27:29.912331+00:00"
-    },
-    "197ae33717a4d08f": {
-      "title": "A tiny diamond defect could reveal a mysterious new kind of magnetism",
-      "fetched_at": "2026-07-02T13:27:30.537104+00:00"
-    },
-    "842e8a7127c63203": {
-      "title": "One of the world’s most popular weedkillers may be fueling deadly superbugs",
-      "fetched_at": "2026-07-02T13:27:31.172057+00:00"
-    },
     "4692f71219a1063d": {
       "title": "Can AI Prevent Suicides?",
       "fetched_at": "2026-07-02T19:07:01.861390+00:00"
@@ -3799,7 +3671,131 @@
     "4f73e5ac9824d18a": {
       "title": "Melanoma's secret to cheating death has finally been revealed",
       "fetched_at": "2026-07-10T08:59:29.093754+00:00"
+    },
+    "ee593781b90d4d98": {
+      "title": "AI Web Design (Opus vs. Sol)",
+      "fetched_at": "2026-07-10T13:54:54.629105+00:00"
+    },
+    "00e7ebbd72e8997b": {
+      "title": "Record Companies Push to Label AI Songs on Streaming Platforms",
+      "fetched_at": "2026-07-10T13:54:55.290001+00:00"
+    },
+    "3db13d79735022b3": {
+      "title": "The hard part of AI root cause analysis is no longer the model",
+      "fetched_at": "2026-07-10T13:54:55.864848+00:00"
+    },
+    "842cb0b473d67bc0": {
+      "title": "Older adults know AI is slop. They just like it",
+      "fetched_at": "2026-07-10T13:54:56.518966+00:00"
+    },
+    "4721e2f7b1f68587": {
+      "title": "Why Fear Matters in Governing Military AI",
+      "fetched_at": "2026-07-10T13:54:57.097068+00:00"
+    },
+    "061f70d33d33ce50": {
+      "title": "Show HN: Pay-per-call MCP server with 47 AI endpoints, micropayments via x402",
+      "fetched_at": "2026-07-10T13:54:57.676115+00:00"
+    },
+    "4c8d1bfe7cee8f0e": {
+      "title": "Show HN: My AI agent has 1 hour to earn €10 – it shipped this page itself",
+      "fetched_at": "2026-07-10T13:54:58.268392+00:00"
+    },
+    "f4319dcfc9f61205": {
+      "title": "Would you host part of an AI data center in your home?",
+      "fetched_at": "2026-07-10T13:54:58.846187+00:00"
+    },
+    "dfc7883633722cff": {
+      "title": "New Codex and Chat GPT app is a bit confusing to use?",
+      "fetched_at": "2026-07-10T13:54:59.425555+00:00"
+    },
+    "e68818eb988ebe2a": {
+      "title": "How do you use Vim in the era of AI?",
+      "fetched_at": "2026-07-10T13:55:00.039373+00:00"
+    },
+    "9c22b75acc4accc2": {
+      "title": "AI Transport v0.5.0: durable execution with Steps",
+      "fetched_at": "2026-07-10T13:55:00.634948+00:00"
+    },
+    "196f3d19e0ae3894": {
+      "title": "热门中概股美股盘前普涨，阿里巴巴涨超2%",
+      "fetched_at": "2026-07-10T13:55:01.218715+00:00"
+    },
+    "325ae8d970febf54": {
+      "title": "美股大型科技股盘前涨跌不一，Meta涨超4%",
+      "fetched_at": "2026-07-10T13:55:01.825123+00:00"
+    },
+    "590f92ffe553091b": {
+      "title": "Give Your AI Assistant a Private Memory",
+      "fetched_at": "2026-07-10T13:55:02.416652+00:00"
+    },
+    "a365ad700dee9256": {
+      "title": "\"Rights for robots\" and the AI slavery fantasy",
+      "fetched_at": "2026-07-10T13:55:03.021717+00:00"
+    },
+    "ad57ad35cbb2d5e8": {
+      "title": "The Language of AI Could Change How Humans Speak",
+      "fetched_at": "2026-07-10T13:55:03.734532+00:00"
+    },
+    "cd77486205cb140e": {
+      "title": "上交所：本周对恒尚节能、有研硅、中船特气等异常波动股票以及财通福鑫LOF等溢价较高的基金进行重点监控",
+      "fetched_at": "2026-07-10T13:55:04.314301+00:00"
+    },
+    "7de1bf0466521629": {
+      "title": "深交所：本周共对197起证券异常交易行为采取了自律监管措施",
+      "fetched_at": "2026-07-10T13:55:04.888263+00:00"
+    },
+    "d629ce2d746f2758": {
+      "title": "AI has lost all meaning",
+      "fetched_at": "2026-07-10T13:55:05.475857+00:00"
+    },
+    "022a1ae30800550f": {
+      "title": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
+      "fetched_at": "2026-07-10T13:55:06.089192+00:00"
+    },
+    "6991a5671aca0af2": {
+      "title": "颱風巴威逼近台灣本島 絕大多數縣市停班停課、航班取消",
+      "fetched_at": "2026-07-10T13:55:08.856655+00:00"
+    },
+    "5473804973a8dd48": {
+      "title": "新加坡夫婦收養了印尼男嬰，卻發現孩子疑遭人口販運",
+      "fetched_at": "2026-07-10T13:55:09.433888+00:00"
+    },
+    "ec021dc39ef62ad3": {
+      "title": "中国开启可回收火箭时代，加速追赶SpaceX",
+      "fetched_at": "2026-07-10T13:55:10.032573+00:00"
+    },
+    "032ffbdae3cf2c8c": {
+      "title": "中國存放著被凍結的伊朗資產：錢在哪裡？為何重要？",
+      "fetched_at": "2026-07-10T13:55:10.622705+00:00"
+    },
+    "744ee52ed138e8df": {
+      "title": "New sodium metal battery design charges in just 4 minutes and retains its capacity for years",
+      "fetched_at": "2026-07-10T13:55:13.682155+00:00"
+    },
+    "ea44e85aac621dd8": {
+      "title": "Canon EOS R6 III review: A wildlife wonder",
+      "fetched_at": "2026-07-10T13:55:14.260429+00:00"
+    },
+    "b42c2a10c3a23bb5": {
+      "title": "This common pesticide may be quietly wiping out future bumblebees",
+      "fetched_at": "2026-07-10T13:55:14.854744+00:00"
+    },
+    "b5e72dbfa6683d0b": {
+      "title": "Europe's most active volcano may have a secret origin",
+      "fetched_at": "2026-07-10T13:55:15.439774+00:00"
+    },
+    "03059e853e3c3045": {
+      "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+      "fetched_at": "2026-07-10T13:55:16.026656+00:00"
+    },
+    "40ad902138a54b7d": {
+      "title": "Ancient-DNA analysis solves 500-year-old mystery of what killed 2 Medici brothers",
+      "fetched_at": "2026-07-10T13:55:16.608243+00:00"
+    },
+    "8cad09fce04326b6": {
+      "title": "Scientists discover a completely different way to fight viruses",
+      "fetched_at": "2026-07-10T13:55:17.195148+00:00"
     }
   },
-  "last_updated": "2026-07-10T08:59:29.243834+00:00"
+  "last_updated": "2026-07-10T13:55:17.293210+00:00"
 }
