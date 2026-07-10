@@ -1,165 +1,5 @@
 {
   "articles": {
-    "abe01a639833047a": {
-      "title": "CIA chief compares cutting-edge AI to nuclear weapons",
-      "fetched_at": "2026-07-01T19:28:05.748549+00:00"
-    },
-    "4486cad2da91a9ca": {
-      "title": "0/6 major aerospace documentation portals are AI Agent-ready",
-      "fetched_at": "2026-07-01T19:28:06.349508+00:00"
-    },
-    "32a594bd3231338a": {
-      "title": "HN: Goat 2.0 – proactive episodic memory for AI agents",
-      "fetched_at": "2026-07-01T19:28:06.914771+00:00"
-    },
-    "45b1ba708309ffdb": {
-      "title": "Show HN: I made a Space Invaders-style, guitar-driven fretboard learning game",
-      "fetched_at": "2026-07-01T19:28:07.481242+00:00"
-    },
-    "d41322963034de40": {
-      "title": "AI's Event Backbone",
-      "fetched_at": "2026-07-01T19:28:08.051245+00:00"
-    },
-    "a98df981c523c29a": {
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "fetched_at": "2026-07-01T19:28:08.626463+00:00"
-    },
-    "8287cba9da320773": {
-      "title": "AI Seinfeld is taking over Twitch (2023)",
-      "fetched_at": "2026-07-01T19:28:09.202844+00:00"
-    },
-    "61468e66a6a6fa02": {
-      "title": "Amazon emissions jumped 16% as AI data center demand grew",
-      "fetched_at": "2026-07-01T19:28:09.793139+00:00"
-    },
-    "2330bc05807850b9": {
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "fetched_at": "2026-07-01T19:28:10.355928+00:00"
-    },
-    "11e37bc7480b4dd4": {
-      "title": "The first AI agent worm is months away, if that",
-      "fetched_at": "2026-07-01T19:28:10.946440+00:00"
-    },
-    "7f2bc4b844afb647": {
-      "title": "Ask HN: Will AI LLMs for coding get smarter and cheaper in the future?",
-      "fetched_at": "2026-07-01T19:28:11.525878+00:00"
-    },
-    "72e38490e25fe20d": {
-      "title": "Show HN: a Rust OS kernel built for LLM inference",
-      "fetched_at": "2026-07-01T19:28:12.170218+00:00"
-    },
-    "0cb38d128733cb07": {
-      "title": "Japan plans sovereign AI model and 10M robots",
-      "fetched_at": "2026-07-01T19:28:12.743169+00:00"
-    },
-    "bca80cb53649770c": {
-      "title": "Anthropic is hiring someone to protect democracy from its own AI",
-      "fetched_at": "2026-07-01T19:28:13.322093+00:00"
-    },
-    "3db13d79735022b3": {
-      "title": "The hard part of AI root cause analysis is no longer the model",
-      "fetched_at": "2026-07-01T19:28:13.905649+00:00"
-    },
-    "81f896c6ef2f7e2a": {
-      "title": "Don't let AI fill in all the important blanks",
-      "fetched_at": "2026-07-01T19:28:14.486615+00:00"
-    },
-    "aa1c1aa6cb896eaf": {
-      "title": "Better UX design for LLM utilization is needed.",
-      "fetched_at": "2026-07-01T19:28:15.067409+00:00"
-    },
-    "767b594c2124124a": {
-      "title": "SpaceX Showed Investors Prototype of Elon Musk's New AI Device",
-      "fetched_at": "2026-07-01T19:28:15.648483+00:00"
-    },
-    "23e44608e6e5bdfb": {
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "fetched_at": "2026-07-01T19:28:16.223249+00:00"
-    },
-    "caa9fc80d8dc9d48": {
-      "title": "BioShocking: New attack method tricks AI Browsers into leaking user data",
-      "fetched_at": "2026-07-01T19:28:16.800220+00:00"
-    },
-    "546efc23ad1dd1cc": {
-      "title": "中國能否透過《民族團結進步促進法》針對海外批評者？",
-      "fetched_at": "2026-07-01T19:28:19.337691+00:00"
-    },
-    "a6aaa414c084aedf": {
-      "title": "台灣海巡官員如何從神明信仰汲取力量？",
-      "fetched_at": "2026-07-01T19:28:19.923061+00:00"
-    },
-    "1d0614caa0d532d0": {
-      "title": "厄爾尼諾——為何2026年將是「最強一次」",
-      "fetched_at": "2026-07-01T19:28:20.493405+00:00"
-    },
-    "e3d6ab809ad72a28": {
-      "title": "中國實施《民族團結進步促進法》，為何引起台灣憂慮？",
-      "fetched_at": "2026-07-01T19:28:20.493559+00:00"
-    },
-    "f080d8cb8cd5bfe2": {
-      "title": "脫歐十年後，英國新首相在歐洲問題上必須做出重大抉擇",
-      "fetched_at": "2026-07-01T19:28:21.088466+00:00"
-    },
-    "3a0cea34d192b7de": {
-      "title": "Human DNA Detected on Cave Walls",
-      "fetched_at": "2026-07-01T19:28:23.747102+00:00"
-    },
-    "295b3891b044932c": {
-      "title": "Antarctica's first dinosaur fossil belonged to a group of the largest land animals ever",
-      "fetched_at": "2026-07-01T19:28:24.330230+00:00"
-    },
-    "a01289128a15f8d8": {
-      "title": "Ozone depletion began decades before discovery of ozone hole",
-      "fetched_at": "2026-07-01T19:28:24.901442+00:00"
-    },
-    "b7691a7f2cf00421": {
-      "title": "A surprising brain discovery is forcing scientists to rethink movement disorders",
-      "fetched_at": "2026-07-01T19:28:25.475292+00:00"
-    },
-    "f165f2755fd69865": {
-      "title": "UK likely to intervene in Paramount takeover of Warner Bros Discovery",
-      "fetched_at": "2026-07-01T19:28:26.062059+00:00"
-    },
-    "014a605c4b403890": {
-      "title": "Scientists propose launching a giant 'airbag' into space to protect us from solar superstorms ‪— and experts say it's 'quite feasible'",
-      "fetched_at": "2026-07-01T19:28:26.643242+00:00"
-    },
-    "f89248cdb0edbba8": {
-      "title": "Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive even longer",
-      "fetched_at": "2026-07-01T19:28:27.219213+00:00"
-    },
-    "39c95edf201f2229": {
-      "title": "Dead-end bitcoin mining wastes as much energy as Switzerland's entire hydropower generation capacity",
-      "fetched_at": "2026-07-01T19:28:27.791465+00:00"
-    },
-    "4a6ef946fef0cb1d": {
-      "title": "An ancient Greek computer: The Antikythera Mechanism",
-      "fetched_at": "2026-07-01T19:28:28.364026+00:00"
-    },
-    "9b9775810f895c79": {
-      "title": "Diagnostic dilemma: Improper use of a massage gun tore holes in a man's retinas",
-      "fetched_at": "2026-07-01T19:28:29.018323+00:00"
-    },
-    "aef7e8f0afc3a6b5": {
-      "title": "Simple water trick slashes diesel engine pollution by over 60%",
-      "fetched_at": "2026-07-01T19:28:29.607431+00:00"
-    },
-    "e5f6bbd3596218b5": {
-      "title": "Modern neuroscience is rediscovering an idea Freud had 130 years ago",
-      "fetched_at": "2026-07-01T19:28:30.181409+00:00"
-    },
-    "a78902a618e73b71": {
-      "title": "Scientists discover a surprising link between vitamin C and brain health",
-      "fetched_at": "2026-07-01T19:28:30.759371+00:00"
-    },
-    "48498697819eb954": {
-      "title": "The Milky Way’s weird gamma-ray glow may be dark matter after all",
-      "fetched_at": "2026-07-01T19:28:31.323642+00:00"
-    },
-    "4f73e5ac9824d18a": {
-      "title": "Melanoma's secret to cheating death has finally been revealed",
-      "fetched_at": "2026-07-01T19:28:31.912759+00:00"
-    },
     "dac696521657d03e": {
       "title": "软银集团拟发行新一轮公司债，发行总额上限达1.5万亿日元",
       "fetched_at": "2026-07-02T02:06:42.648223+00:00"
@@ -3931,7 +3771,127 @@
     "d033291ac5d0dfc9": {
       "title": "Show HN: 0-A.D. A free, open-source game of ancient warfare",
       "fetched_at": "2026-07-09T19:21:12.584900+00:00"
+    },
+    "a292609185d06009": {
+      "title": "MiniMax闫俊杰：不再领取薪酬，个人拿出5%公司股份用于团队激励和开源支持",
+      "fetched_at": "2026-07-10T01:48:45.258176+00:00"
+    },
+    "aadf83423080e657": {
+      "title": "雪佛龙与Alinta Energy签署天然气供应协议，五年供应46PJ天然气",
+      "fetched_at": "2026-07-10T01:48:45.837710+00:00"
+    },
+    "6fb1078fbbcae2e1": {
+      "title": "N托伦斯大涨1070%，触发临停",
+      "fetched_at": "2026-07-10T01:48:46.411012+00:00"
+    },
+    "ef30322dbf8f4fb4": {
+      "title": "A股三大指数开盘涨跌不一，浪潮信息涨近7%",
+      "fetched_at": "2026-07-10T01:48:46.979680+00:00"
+    },
+    "4998f125ca04d544": {
+      "title": "恒指开盘涨0.76%，恒生科技指数涨1.25%",
+      "fetched_at": "2026-07-10T01:48:47.559036+00:00"
+    },
+    "b0b0e381405aa41c": {
+      "title": "MiniMax完成160亿港元股权类融资",
+      "fetched_at": "2026-07-10T01:48:48.134884+00:00"
+    },
+    "185450eb578880e2": {
+      "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
+      "fetched_at": "2026-07-10T01:48:48.705322+00:00"
+    },
+    "fa50d2876f93b09c": {
+      "title": "7月10日人民币对美元中间价调升47个基点",
+      "fetched_at": "2026-07-10T01:48:49.284004+00:00"
+    },
+    "a9fb3512d462c5df": {
+      "title": "“他山科技”完成数亿元B轮融资",
+      "fetched_at": "2026-07-10T01:48:49.880931+00:00"
+    },
+    "a69f58063070e312": {
+      "title": "“Databento”完成9700万美元B轮融资",
+      "fetched_at": "2026-07-10T01:48:50.467466+00:00"
+    },
+    "879006f967971a8f": {
+      "title": "SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元",
+      "fetched_at": "2026-07-10T01:48:51.046450+00:00"
+    },
+    "eac691082c97d815": {
+      "title": "交投放量与投行业务回暖驱动，券商纷纷预喜2026年半年度业绩",
+      "fetched_at": "2026-07-10T01:48:51.623156+00:00"
+    },
+    "3a04e912d9a76cea": {
+      "title": "马斯克称低估Anthropic，表示不会因竞争切断其支持",
+      "fetched_at": "2026-07-10T01:48:52.204794+00:00"
+    },
+    "bb5a677fd88d2d38": {
+      "title": "银河证券：​PPI年内高点或将临近，价格传导仍待修复",
+      "fetched_at": "2026-07-10T01:48:52.790530+00:00"
+    },
+    "661eda3913479640": {
+      "title": "两市融资余额减少39.18亿元",
+      "fetched_at": "2026-07-10T01:48:53.367620+00:00"
+    },
+    "6d1425405ee852eb": {
+      "title": "今年以来提前结募基金数量大增",
+      "fetched_at": "2026-07-10T01:48:53.962143+00:00"
+    },
+    "b90b3edf5ffc617d": {
+      "title": "联合国自动驾驶全球法规正式落地，我国智驾出海迎来统一规则窗口期",
+      "fetched_at": "2026-07-10T01:48:54.543313+00:00"
+    },
+    "0725f98c265339a9": {
+      "title": "中信建投：险资参与债券通“南向通”有助于缓解“资产荒”，进一步优化资产负债匹配",
+      "fetched_at": "2026-07-10T01:48:55.119571+00:00"
+    },
+    "2b9f2d7862e191b5": {
+      "title": "华泰证券：全球冷却需求升维打开暖通新空间",
+      "fetched_at": "2026-07-10T01:48:55.703938+00:00"
+    },
+    "4e6a59ed9ab24079": {
+      "title": "谷歌要求AI广告必须标注：涵盖搜索和YouTube等",
+      "fetched_at": "2026-07-10T01:48:56.344714+00:00"
+    },
+    "73ddc191b483c6ce": {
+      "title": "什麼是VAR？為何在世界盃具有爭議性？",
+      "fetched_at": "2026-07-10T01:48:58.413002+00:00"
+    },
+    "04778ad049a62324": {
+      "title": "伊朗袭击油轮，挑衅行动或重燃战争",
+      "fetched_at": "2026-07-10T01:48:59.010545+00:00"
+    },
+    "81be53ebffb8331b": {
+      "title": "颱風巴威來襲：近30年暴風半徑最大，台灣10縣市停班停課",
+      "fetched_at": "2026-07-10T01:48:59.586662+00:00"
+    },
+    "cac4b8dd855fa393": {
+      "title": "“中国鞋都”晋江一鞋厂发生火灾，已造成28人死亡",
+      "fetched_at": "2026-07-10T01:49:00.163642+00:00"
+    },
+    "177caa3871611135": {
+      "title": "Malaria had nearly been eliminated around a giant dam in the Amazon — but then it came roaring back. Experts just discovered why.",
+      "fetched_at": "2026-07-10T01:49:02.592229+00:00"
+    },
+    "a75f01195f1b908b": {
+      "title": "Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot",
+      "fetched_at": "2026-07-10T01:49:03.175310+00:00"
+    },
+    "946339bf8f904a9d": {
+      "title": "Ancient Roman Board Game",
+      "fetched_at": "2026-07-10T01:49:03.748607+00:00"
+    },
+    "1cc5e532e0b4031c": {
+      "title": "'800 seconds for a sick visit': Some factors driving antibiotic resistance have nothing to do with biology, says medical sociologist Julia Szymczak",
+      "fetched_at": "2026-07-10T01:49:04.333220+00:00"
+    },
+    "9cbbc0aefd2f2065": {
+      "title": "'Complex numbers are not needed for quantum mechanics': Physicists develop quantum model that uses only 'real' numbers for first time ever",
+      "fetched_at": "2026-07-10T01:49:04.897933+00:00"
+    },
+    "7f60399c93db0852": {
+      "title": "Scientists build tiny 'diving suit' for cockroaches, turning them into search-and-rescue cyborgs",
+      "fetched_at": "2026-07-10T01:49:04.898113+00:00"
     }
   },
-  "last_updated": "2026-07-09T19:21:12.734639+00:00"
+  "last_updated": "2026-07-10T01:49:05.042753+00:00"
 }
