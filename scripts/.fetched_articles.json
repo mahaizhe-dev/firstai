@@ -1,117 +1,5 @@
 {
   "articles": {
-    "4692f71219a1063d": {
-      "title": "Can AI Prevent Suicides?",
-      "fetched_at": "2026-07-02T19:07:01.861390+00:00"
-    },
-    "ffc809f0b90aa4b9": {
-      "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
-      "fetched_at": "2026-07-02T19:07:02.484156+00:00"
-    },
-    "9a18b2ec4eb2750f": {
-      "title": "Manipulating Headlines in LLM-Driven Algorithmic Trading",
-      "fetched_at": "2026-07-02T19:07:03.097480+00:00"
-    },
-    "c210fe345a498f12": {
-      "title": "Tigera Introduces Lynx, a Unified Control Plane for Kubernetes‑Native AI Agents",
-      "fetched_at": "2026-07-02T19:07:03.704403+00:00"
-    },
-    "ccfd534379713028": {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "fetched_at": "2026-07-02T19:07:04.341178+00:00"
-    },
-    "477318fe70207a67": {
-      "title": "AI should help researchers think deeper, not think less",
-      "fetched_at": "2026-07-02T19:07:04.972395+00:00"
-    },
-    "a8c7530f07624b36": {
-      "title": "31 Days Until EU AI Act",
-      "fetched_at": "2026-07-02T19:07:05.597837+00:00"
-    },
-    "6bff1f643abacc11": {
-      "title": "Programming Language Design and Implementation in the Era of Machine Learning [video]",
-      "fetched_at": "2026-07-02T19:07:06.218711+00:00"
-    },
-    "c8c4d53e212a318c": {
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "fetched_at": "2026-07-02T19:07:06.849635+00:00"
-    },
-    "8e88a08f5a7a017b": {
-      "title": "The Truth About AI: It's Not Intelligence, It's a Trick – Prof Jiang Xueqin",
-      "fetched_at": "2026-07-02T19:07:07.467759+00:00"
-    },
-    "76b3490d6d292988": {
-      "title": "Ask HN: Why are so many \"AI evangelists\" posting such insufferable content?",
-      "fetched_at": "2026-07-02T19:07:08.097424+00:00"
-    },
-    "80b46f9bb2da68f5": {
-      "title": "Ask HN: Will AI force CS to focus on what to build instead of how to build it?",
-      "fetched_at": "2026-07-02T19:07:08.726414+00:00"
-    },
-    "3c78d43473eadc0f": {
-      "title": "Meta makes cloud push to sell excess AI compute power capacity",
-      "fetched_at": "2026-07-02T19:07:09.362088+00:00"
-    },
-    "0ee29d756117b94a": {
-      "title": "Amodei told lawmakers that open-source AI is moving down a \"dangerous path\"",
-      "fetched_at": "2026-07-02T19:07:09.984749+00:00"
-    },
-    "ad17827013ebb12b": {
-      "title": "Valve explains why it isn't subsidizing the Steam Machine",
-      "fetched_at": "2026-07-02T19:07:10.623647+00:00"
-    },
-    "346b7625f27f316b": {
-      "title": "Show HN: Context.md – A proposed standard for AI project context",
-      "fetched_at": "2026-07-02T19:07:11.250297+00:00"
-    },
-    "8f135cf299308dbe": {
-      "title": "\"Dimension 20s\" Lore Keeper, Skye Smith, on Why AI Can't Replace Her",
-      "fetched_at": "2026-07-02T19:07:11.876075+00:00"
-    },
-    "8222134f29ee9399": {
-      "title": "Platform Engineering 2.0: Manage AI Costs and Risks Without Rebuilding",
-      "fetched_at": "2026-07-02T19:07:12.500466+00:00"
-    },
-    "95856c0020e0a25b": {
-      "title": "Show HN: Claude skills to make anti-AI slop UI",
-      "fetched_at": "2026-07-02T19:07:13.127647+00:00"
-    },
-    "9202042d9bf144e4": {
-      "title": "Japan APPI AI Training Exception Clears Lower House",
-      "fetched_at": "2026-07-02T19:07:13.752135+00:00"
-    },
-    "478bb338dc98b8e5": {
-      "title": "銅鑼灣書店林榮基病逝，終年70歲",
-      "fetched_at": "2026-07-02T19:07:16.157225+00:00"
-    },
-    "762f8aed60289872": {
-      "title": "被列軍工名單 阿里巴巴狀告美國國防部",
-      "fetched_at": "2026-07-02T19:07:16.784436+00:00"
-    },
-    "1b8ca559fd7a381f": {
-      "title": "The hantavirus outbreak is over, WHO declares",
-      "fetched_at": "2026-07-02T19:07:18.475016+00:00"
-    },
-    "fa5e035241efc8fe": {
-      "title": "'Uncharted territory': Record high ocean temperatures confirmed for June as El Niño strengthens its grip",
-      "fetched_at": "2026-07-02T19:07:19.089381+00:00"
-    },
-    "c1f37085425cec46": {
-      "title": "Malaria-Causing Protozoa Detected in Medici Remains",
-      "fetched_at": "2026-07-02T19:07:19.704150+00:00"
-    },
-    "006ba53dbbc2e341": {
-      "title": "James Webb telescope may have discovered a mysterious, never-before-seen substance on Pluto and Titan",
-      "fetched_at": "2026-07-02T19:07:20.333139+00:00"
-    },
-    "2a0c15b0d98f263d": {
-      "title": "Ancient ring discovered underground in Scotland could be a Stonehenge-like monument",
-      "fetched_at": "2026-07-02T19:07:20.954936+00:00"
-    },
-    "20e1abfdc22b5aec": {
-      "title": "11-year-old boy in Canada dies from rabies after waking up with a bat on his face",
-      "fetched_at": "2026-07-02T19:07:21.569712+00:00"
-    },
     "1903bfd0c3e79305": {
       "title": "中国6月RatingDog服务业PMI 54.1",
       "fetched_at": "2026-07-03T01:50:57.430015+00:00"
@@ -3795,7 +3683,115 @@
     "8cad09fce04326b6": {
       "title": "Scientists discover a completely different way to fight viruses",
       "fetched_at": "2026-07-10T13:55:17.195148+00:00"
+    },
+    "a1490ef5726a74ad": {
+      "title": "Trace: Stripe Radar for autonomous AI agents (Sybil fraud reduced by 86%)",
+      "fetched_at": "2026-07-10T19:13:36.144976+00:00"
+    },
+    "135e5439b61fac5f": {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "fetched_at": "2026-07-10T19:13:36.721605+00:00"
+    },
+    "65b0fe0bd8039ff7": {
+      "title": "Show HN: Local Motion – Use Cursor Agents and Chat with a Local LLM",
+      "fetched_at": "2026-07-10T19:13:37.357559+00:00"
+    },
+    "e45859a174d84fd6": {
+      "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+      "fetched_at": "2026-07-10T19:13:37.943786+00:00"
+    },
+    "4fe3c7a8fd8839bb": {
+      "title": "The Upgrade That Made My AI Agent Worse",
+      "fetched_at": "2026-07-10T19:13:38.529017+00:00"
+    },
+    "37ee90d17d0886a4": {
+      "title": "What are the AI folks up to these days?",
+      "fetched_at": "2026-07-10T19:13:39.110858+00:00"
+    },
+    "d4ced8a4e68811a3": {
+      "title": "The end of consumer AI winter",
+      "fetched_at": "2026-07-10T19:13:39.695828+00:00"
+    },
+    "3a67b0df5770c2ed": {
+      "title": "LinkedIn and X Are Flooded with AI Spam, Browsing Data Suggests",
+      "fetched_at": "2026-07-10T19:13:40.277310+00:00"
+    },
+    "f7fbd854322af0be": {
+      "title": "AI-generated papers scored well in ACL peer review, undisclosed to reviewers [pdf]",
+      "fetched_at": "2026-07-10T19:13:40.862949+00:00"
+    },
+    "cda782bc59a3a67e": {
+      "title": "Soulless – List of AI Artists Hiding on Spotify",
+      "fetched_at": "2026-07-10T19:13:41.446973+00:00"
+    },
+    "f2ee98d6dc97ef83": {
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "fetched_at": "2026-07-10T19:13:42.032211+00:00"
+    },
+    "f577245729183a33": {
+      "title": "Where teams of AI agents choose, keep and improve the profiles they run",
+      "fetched_at": "2026-07-10T19:13:42.614013+00:00"
+    },
+    "ef34d80e7ee13cf1": {
+      "title": "Voicebox: The Open-Source AI Voice Studio",
+      "fetched_at": "2026-07-10T19:13:43.191907+00:00"
+    },
+    "966081557ed67e04": {
+      "title": "Feasio – AI that gives brutally honest feasibility reports on business ideas",
+      "fetched_at": "2026-07-10T19:13:43.779114+00:00"
+    },
+    "339c9b58f5342ef0": {
+      "title": "Show HN: A 100% branchless, CUDA-native AI guardrail kernel written in C++20",
+      "fetched_at": "2026-07-10T19:13:44.367516+00:00"
+    },
+    "719d718558e82fa7": {
+      "title": "Amazon's New Debt Deal Puts Its AI Spending Story on Trial",
+      "fetched_at": "2026-07-10T19:13:44.951171+00:00"
+    },
+    "9d85aca32121b47a": {
+      "title": "Christopher Nolan says younger audiences are utterly rejecting AI-generated slop",
+      "fetched_at": "2026-07-10T19:13:45.557648+00:00"
+    },
+    "4aeda569a54aed54": {
+      "title": "Why AI Is Collapsing: How China Is Winning [video]",
+      "fetched_at": "2026-07-10T19:13:46.172607+00:00"
+    },
+    "df9a983c78188d6b": {
+      "title": "Show HN: Willow Voice – Free AI Dictation",
+      "fetched_at": "2026-07-10T19:13:46.762920+00:00"
+    },
+    "3e192e21035ab25c": {
+      "title": "The 2025–2026 Evolution of Generative Spatial AI",
+      "fetched_at": "2026-07-10T19:13:47.349153+00:00"
+    },
+    "47ba156567b43b9e": {
+      "title": "颱風巴威逼近台灣本島 絕大多數縣市停班停課",
+      "fetched_at": "2026-07-10T19:13:49.718821+00:00"
+    },
+    "9997bc976489ecdf": {
+      "title": "中國對日本軍工管制升級：面對稀土牌，高市早苗如何應對？",
+      "fetched_at": "2026-07-10T19:13:50.302168+00:00"
+    },
+    "80286cf1eb5796bc": {
+      "title": "Medieval babies and adults buried together in Sweden were not related, archaeologists discover — raising big questions about early Christian burial practices",
+      "fetched_at": "2026-07-10T19:13:52.626058+00:00"
+    },
+    "017aebaae29c1cec": {
+      "title": "Ichthyosaur Fossil Found in Roman Britain Pit",
+      "fetched_at": "2026-07-10T19:13:53.210586+00:00"
+    },
+    "35e6fb91c5c7c50e": {
+      "title": "3,800-Year-Old Collection of Figurines Discovered in Peru",
+      "fetched_at": "2026-07-10T19:13:53.795472+00:00"
+    },
+    "9c78024c2d06d82e": {
+      "title": "Modern Humans and Neanderthals May Have Shared Culture",
+      "fetched_at": "2026-07-10T19:13:54.380694+00:00"
+    },
+    "7d08c225b2312bb2": {
+      "title": "NASA is creating a fifth state of matter on the ISS, thanks to an upgrade to a mini-fridge-sized quantum lab",
+      "fetched_at": "2026-07-10T19:13:54.969414+00:00"
     }
   },
-  "last_updated": "2026-07-10T13:55:17.293210+00:00"
+  "last_updated": "2026-07-10T19:13:55.054935+00:00"
 }
