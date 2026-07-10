@@ -1,269 +1,5 @@
 {
   "articles": {
-    "dac696521657d03e": {
-      "title": "软银集团拟发行新一轮公司债，发行总额上限达1.5万亿日元",
-      "fetched_at": "2026-07-02T02:06:42.648223+00:00"
-    },
-    "9524a783fc079284": {
-      "title": "恒生科技指数涨幅扩大至2%",
-      "fetched_at": "2026-07-02T02:06:43.223896+00:00"
-    },
-    "3fe7477ccfe9a12f": {
-      "title": "PanelSpec – design UI on real devices, export layout prompts for AI codegen",
-      "fetched_at": "2026-07-02T02:06:43.804630+00:00"
-    },
-    "536d80c3c79cb739": {
-      "title": "沪深两市成交额突破1万亿",
-      "fetched_at": "2026-07-02T02:06:44.390451+00:00"
-    },
-    "391756219f72b4c5": {
-      "title": "I'm Begging You to Leave Your AI Note-Taker at Home",
-      "fetched_at": "2026-07-02T02:06:44.974967+00:00"
-    },
-    "df4089145e523e59": {
-      "title": "沪深两市成交额突破5000亿元",
-      "fetched_at": "2026-07-02T02:06:45.558816+00:00"
-    },
-    "bca73570708693e3": {
-      "title": "WebDeck – AI-powered PPT to interactive HTML converter",
-      "fetched_at": "2026-07-02T02:06:46.183329+00:00"
-    },
-    "9f836f9f7feda423": {
-      "title": "创业板指跌超4%",
-      "fetched_at": "2026-07-02T02:06:46.773938+00:00"
-    },
-    "264e6a3e0497ea8b": {
-      "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
-      "fetched_at": "2026-07-02T02:06:47.372042+00:00"
-    },
-    "f3bdeac7b992ea98": {
-      "title": "Tips for scaling AI from founders to organization leaders",
-      "fetched_at": "2026-07-02T02:06:47.944262+00:00"
-    },
-    "56d68090d6d29e46": {
-      "title": "A股三大指数均大幅低开，中际旭创跌超5%",
-      "fetched_at": "2026-07-02T02:06:48.558814+00:00"
-    },
-    "7bfaebe88f176dca": {
-      "title": "That Sounds Like AI: The Last Refuge of the Intellectually Insolvent",
-      "fetched_at": "2026-07-02T02:06:49.138355+00:00"
-    },
-    "c34b60fbc477a5b8": {
-      "title": "央行今日开展2885亿元7天逆回购操作",
-      "fetched_at": "2026-07-02T02:06:49.717016+00:00"
-    },
-    "92192f6aa6f82725": {
-      "title": "More AI – Open-source model-agnostic AI desktop",
-      "fetched_at": "2026-07-02T02:06:50.301054+00:00"
-    },
-    "b1c29985c25d0ddd": {
-      "title": "Float Runs an AI Energy Company on a 3-Person Team with Tiger Data",
-      "fetched_at": "2026-07-02T02:06:50.885120+00:00"
-    },
-    "3d1fba270196fee1": {
-      "title": "恒指开盘涨0.83%，恒生科技指数涨1.25%",
-      "fetched_at": "2026-07-02T02:06:51.456445+00:00"
-    },
-    "db32698dd7556b80": {
-      "title": "36氪首发丨北大博士量子团队获高瓴创投领投，国内唯一实现纳开温区量子计算机工程化",
-      "fetched_at": "2026-07-02T02:06:52.036448+00:00"
-    },
-    "776274c799e44f67": {
-      "title": "人民币兑美元中间价报6.8088，下调21点",
-      "fetched_at": "2026-07-02T02:06:52.602331+00:00"
-    },
-    "0b1ce469db9fd4dc": {
-      "title": "AI and Operators",
-      "fetched_at": "2026-07-02T02:06:53.175398+00:00"
-    },
-    "3ee10de99f862cc3": {
-      "title": "Show HN: A local AI-powered Bloomberg terminal for German meme stocks",
-      "fetched_at": "2026-07-02T02:06:53.756474+00:00"
-    },
-    "8c8ebd181a2d544d": {
-      "title": "美中钨矿争夺战：这座韩国矿山能否重构供应链？",
-      "fetched_at": "2026-07-02T02:06:55.992347+00:00"
-    },
-    "9696a3c81db2e59b": {
-      "title": "薩爾瓦多大監獄為何讓右翼政治人物趨之若鶩？",
-      "fetched_at": "2026-07-02T02:06:56.656181+00:00"
-    },
-    "40ad902138a54b7d": {
-      "title": "Ancient-DNA analysis solves 500-year-old mystery of what killed 2 Medici brothers",
-      "fetched_at": "2026-07-02T02:07:06.621628+00:00"
-    },
-    "0f9db9407767bb33": {
-      "title": "7,000-Year-Old Quarry Examined in South Australia",
-      "fetched_at": "2026-07-02T02:07:07.218379+00:00"
-    },
-    "75d0d5a653e30cdc": {
-      "title": "1,100-Year-Old Mummified Dogs from Peru Analyzed",
-      "fetched_at": "2026-07-02T02:07:07.846029+00:00"
-    },
-    "612d0ee1f1c38211": {
-      "title": "Scientists recreated a dinosaur nest and solved a 70-million-year-old mystery",
-      "fetched_at": "2026-07-02T02:07:08.417458+00:00"
-    },
-    "c1452b12fa0d8179": {
-      "title": "Teeth smaller than a fingertip reveal our first primate ancestor",
-      "fetched_at": "2026-07-02T02:07:09.005734+00:00"
-    },
-    "8cad09fce04326b6": {
-      "title": "Scientists discover a completely different way to fight viruses",
-      "fetched_at": "2026-07-02T02:07:09.594284+00:00"
-    },
-    "3a47fd22d0ab3e93": {
-      "title": "One injection reversed osteoarthritis in weeks",
-      "fetched_at": "2026-07-02T02:07:10.164148+00:00"
-    },
-    "a33f0f42ed6e65a4": {
-      "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
-      "fetched_at": "2026-07-02T02:07:10.740837+00:00"
-    },
-    "028a4f4fcea2d787": {
-      "title": "Meteorite reveals a lost moon-sized world from the dawn of the solar system",
-      "fetched_at": "2026-07-02T02:07:11.332279+00:00"
-    },
-    "ac4e3824b21af9d0": {
-      "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
-      "fetched_at": "2026-07-02T02:07:11.919287+00:00"
-    },
-    "c2b6e250144bf1e6": {
-      "title": "模塑科技：机器人外覆盖件订单金额占营业收入的比例不足0.1%",
-      "fetched_at": "2026-07-02T08:39:38.547168+00:00"
-    },
-    "7f4ebcfbb8ac8d1b": {
-      "title": "礼鼎半导体科技（深圳）股份有限公司递表港交所",
-      "fetched_at": "2026-07-02T08:39:39.173644+00:00"
-    },
-    "02ca3fe4f66d88d5": {
-      "title": "腾景科技：拟出资3500万元设立全资子公司，整合AR消费类光学业务布局",
-      "fetched_at": "2026-07-02T08:39:39.798025+00:00"
-    },
-    "3bf492522bb30001": {
-      "title": "华峰化学：上半年净利润同比预增70.85%—111.53%",
-      "fetched_at": "2026-07-02T08:39:40.500351+00:00"
-    },
-    "b071b6162a56d06f": {
-      "title": "恒指收盘涨0.76%，恒生科技指数跌0.4%",
-      "fetched_at": "2026-07-02T08:39:41.539317+00:00"
-    },
-    "c1dce138183d9a6f": {
-      "title": "LLM as a Web Server",
-      "fetched_at": "2026-07-02T08:39:42.166347+00:00"
-    },
-    "962bcb8e26c1495b": {
-      "title": "沃尔沃汽车第二季度销量同比下降5.6%，纯电车型销量增长14%",
-      "fetched_at": "2026-07-02T08:39:42.794053+00:00"
-    },
-    "15ebbce23a3a1633": {
-      "title": "前5月我国软件业务收入同比增长10.3%",
-      "fetched_at": "2026-07-02T08:39:43.421419+00:00"
-    },
-    "10917150e3865cd6": {
-      "title": "瑞银将2027年布伦特原油均价预测下调至75美元/桶",
-      "fetched_at": "2026-07-02T08:39:44.050814+00:00"
-    },
-    "c197004ff7a9a60f": {
-      "title": "美国结束了针对69.5万辆特斯拉汽车因意外制动问题而展开的2022年调查",
-      "fetched_at": "2026-07-02T08:39:44.759997+00:00"
-    },
-    "4f3f2a02f2fdbf45": {
-      "title": "软银集团旗下软银公司SB NEO将推出NeoCloud服务",
-      "fetched_at": "2026-07-02T08:39:45.370128+00:00"
-    },
-    "a178708e3e199b48": {
-      "title": "小红书：世界杯开赛至今，足球内容日均发布量环比增长10倍",
-      "fetched_at": "2026-07-02T08:39:45.987036+00:00"
-    },
-    "ddb5a18c118522d4": {
-      "title": "谷歌在欧盟法院就41亿欧元安卓系统反垄断罚款的诉讼中败诉",
-      "fetched_at": "2026-07-02T08:39:46.725399+00:00"
-    },
-    "e13224cb8aed69d7": {
-      "title": "香奈儿收购巴黎衬衫制造商Charvet",
-      "fetched_at": "2026-07-02T08:39:47.557951+00:00"
-    },
-    "f19c0c0c7752cc0b": {
-      "title": "Show HN: MyWritingTwin: an AI Writing Profile that makes LLMs sound like you",
-      "fetched_at": "2026-07-02T08:39:48.253203+00:00"
-    },
-    "12c094cf7b3a633a": {
-      "title": "抖音旗下深圳星罗拾光科技增资至283.8亿，增幅约51%",
-      "fetched_at": "2026-07-02T08:39:48.996454+00:00"
-    },
-    "8d6ff50c7783eb78": {
-      "title": "理想“动刀”产品部：拆分整车和智驾产品，并入研发",
-      "fetched_at": "2026-07-02T08:39:49.611665+00:00"
-    },
-    "7d6ad3636efd2362": {
-      "title": "EXo Platform 7.2: Native AI Powering a Unified and Intelligent Digital Workplace",
-      "fetched_at": "2026-07-02T08:39:50.275065+00:00"
-    },
-    "016d1abb58d35cbc": {
-      "title": "同庆楼在安徽成立餐饮管理公司，注册资本1000万",
-      "fetched_at": "2026-07-02T08:39:50.910322+00:00"
-    },
-    "fa703a3849b7c9af": {
-      "title": "商务部回应对美农产品关税问题",
-      "fetched_at": "2026-07-02T08:39:51.535003+00:00"
-    },
-    "100ec3d8e15c0804": {
-      "title": "池子：被北京封殺的脫口秀演員 在海外回到舞台",
-      "fetched_at": "2026-07-02T08:39:54.100912+00:00"
-    },
-    "032ffbdae3cf2c8c": {
-      "title": "中國存放著被凍結的伊朗資產：錢在哪裡？為何重要？",
-      "fetched_at": "2026-07-02T08:39:54.728746+00:00"
-    },
-    "b898b6a4dc54806d": {
-      "title": "特朗普部分议程遇挫，但最高法院继续右转",
-      "fetched_at": "2026-07-02T08:39:55.357595+00:00"
-    },
-    "b49de3136cac2f4e": {
-      "title": "关于科学家创造出“活”细胞，你应该知道的",
-      "fetched_at": "2026-07-02T08:39:55.991308+00:00"
-    },
-    "f1af91e966a0db4f": {
-      "title": "特朗普靠加密货币狂赚14亿美元，投资者却损失惨重",
-      "fetched_at": "2026-07-02T08:39:56.606384+00:00"
-    },
-    "d2af181a2fbd3707": {
-      "title": "橄榄油有多健康？",
-      "fetched_at": "2026-07-02T08:39:57.225326+00:00"
-    },
-    "c6476d4f1038c693": {
-      "title": "超级富豪男性为何痴迷于繁衍后代",
-      "fetched_at": "2026-07-02T08:39:57.848141+00:00"
-    },
-    "d596a53723ab24e9": {
-      "title": "陸客自由行停擺七年，上海遊客如何「解鎖」金門之旅？",
-      "fetched_at": "2026-07-02T08:39:58.563606+00:00"
-    },
-    "536df3dbc3232b5c": {
-      "title": "白宮冷待、統戰部同框：鄭麗文15天訪美行程帶回了什麼？",
-      "fetched_at": "2026-07-02T08:39:59.192231+00:00"
-    },
-    "afe96e9a48493cbd": {
-      "title": "The tea in your kombucha changes more than just the taste",
-      "fetched_at": "2026-07-02T08:40:04.171214+00:00"
-    },
-    "45858bb4ac9eae97": {
-      "title": "A rare interstellar visitor triggered a SETI search for alien technology",
-      "fetched_at": "2026-07-02T08:40:04.793664+00:00"
-    },
-    "0b34c6b0d0528109": {
-      "title": "Scientists finally solved how H5N1 bird flu hid in dairy cows",
-      "fetched_at": "2026-07-02T08:40:05.497781+00:00"
-    },
-    "5fd4194bb00b7f42": {
-      "title": "Hidden bird species discovered in Japan after DNA reveals a stunning secret",
-      "fetched_at": "2026-07-02T08:40:06.124972+00:00"
-    },
-    "e52cdbeb4611af72": {
-      "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
-      "fetched_at": "2026-07-02T08:40:06.734814+00:00"
-    },
     "b95896f4ae311b92": {
       "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
       "fetched_at": "2026-07-02T13:26:57.279156+00:00"
@@ -3891,7 +3627,179 @@
     "7f60399c93db0852": {
       "title": "Scientists build tiny 'diving suit' for cockroaches, turning them into search-and-rescue cyborgs",
       "fetched_at": "2026-07-10T01:49:04.898113+00:00"
+    },
+    "d46e40e1a3555e1c": {
+      "title": "焦作万方：2026年上半年净利润预增118.35%-137.01%",
+      "fetched_at": "2026-07-10T08:58:59.432826+00:00"
+    },
+    "1b15d1e8a9183035": {
+      "title": "北京卫星制造厂增资至15.5亿，增幅约 51%",
+      "fetched_at": "2026-07-10T08:59:00.043853+00:00"
+    },
+    "bd5f59e7c2a4c14b": {
+      "title": "“绒音科技”完成近千万元天使轮融资",
+      "fetched_at": "2026-07-10T08:59:00.619947+00:00"
+    },
+    "d8eb4ff39368f151": {
+      "title": "中矿资源：预计上半年净利润同比增长1078.07%-1302.46%",
+      "fetched_at": "2026-07-10T08:59:01.221848+00:00"
+    },
+    "42142f4526667569": {
+      "title": "中信证券：预计上半年净利润同比增长69.59%",
+      "fetched_at": "2026-07-10T08:59:01.824103+00:00"
+    },
+    "4e9b43c0f751dcc7": {
+      "title": "创世纪：因未及时披露重大诉讼进展，公司及两人被出具警示函",
+      "fetched_at": "2026-07-10T08:59:02.409708+00:00"
+    },
+    "788a222231bc4c59": {
+      "title": "三六零：预计上半年净利润1.8亿元-2.6亿元，同比扭亏为盈",
+      "fetched_at": "2026-07-10T08:59:02.991054+00:00"
+    },
+    "813a62c5d74df0e8": {
+      "title": "DeepSWE Benchmark Results for GPT 5.6",
+      "fetched_at": "2026-07-10T08:59:03.575447+00:00"
+    },
+    "754d05608d1bde70": {
+      "title": "三孚股份：预计2026年上半年净利润同比增长191.22%-222.43%",
+      "fetched_at": "2026-07-10T08:59:04.148411+00:00"
+    },
+    "ade0512f13bbc22b": {
+      "title": "Ramblings on technological pursuits of AI systems",
+      "fetched_at": "2026-07-10T08:59:04.745817+00:00"
+    },
+    "7a18cf195d62be70": {
+      "title": "德国推进退役核电站“向核聚变转型”战略，拟重塑欧洲工业核心竞争力",
+      "fetched_at": "2026-07-10T08:59:05.320277+00:00"
+    },
+    "e2df6e3c1304b1a2": {
+      "title": "香农芯创：预计2026年半年度净利润同比增长2118%-2434%",
+      "fetched_at": "2026-07-10T08:59:05.907493+00:00"
+    },
+    "a6a264ee13028c4e": {
+      "title": "IEA月报：预计2026年全球石油供应量将减少370万桶/日",
+      "fetched_at": "2026-07-10T08:59:06.480914+00:00"
+    },
+    "c29894c6a73055dc": {
+      "title": "新希望等在四川成立生猪产业股权投资基金，出资额10亿",
+      "fetched_at": "2026-07-10T08:59:07.055874+00:00"
+    },
+    "0785fe775daef8e6": {
+      "title": "OpenAI高管层再现变动，首席运营官因病离职",
+      "fetched_at": "2026-07-10T08:59:07.657555+00:00"
+    },
+    "c9e43679b8d21a0a": {
+      "title": "恒指收涨0.6%，恒生科技指数跌0.21%",
+      "fetched_at": "2026-07-10T08:59:08.263149+00:00"
+    },
+    "e818bfa0838cf5c9": {
+      "title": "Open AI No. 2 Exec at OpenAI Fidji Simo is leaving the company",
+      "fetched_at": "2026-07-10T08:59:08.851958+00:00"
+    },
+    "d64591958aaf2057": {
+      "title": "Record and Replay, teach AI agents desktop workflows by showing them once",
+      "fetched_at": "2026-07-10T08:59:09.425691+00:00"
+    },
+    "28ea928fbfbcc8dd": {
+      "title": "常青科技：预计2026年半年度净利润同比增长85.22%到113.10%",
+      "fetched_at": "2026-07-10T08:59:10.018062+00:00"
+    },
+    "dce82061c8265ad3": {
+      "title": "高盛称套利交易当前处境为2000年以来最佳",
+      "fetched_at": "2026-07-10T08:59:10.590239+00:00"
+    },
+    "c5b4fc7f51def985": {
+      "title": "颱風巴威來襲：近30年暴風半徑最大，台灣12縣市停班停課、航班取消",
+      "fetched_at": "2026-07-10T08:59:12.574977+00:00"
+    },
+    "a3eed2cb79b4803f": {
+      "title": "「你快死了」——母親多年來讓我深信自己病重，直到一名醫生揭開真相",
+      "fetched_at": "2026-07-10T08:59:13.150447+00:00"
+    },
+    "1a736e20dcf7b71b": {
+      "title": "「我掌管英國最大銀行」：推薦五種理財方法",
+      "fetched_at": "2026-07-10T08:59:13.727666+00:00"
+    },
+    "5804746e2151cc25": {
+      "title": "福建泉州晉江鞋廠大火致28人遇難，習近平指「嚴肅追責」",
+      "fetched_at": "2026-07-10T08:59:14.303034+00:00"
+    },
+    "30c3b8f076fc056d": {
+      "title": "哈梅內伊下葬之際，美伊互相發動攻擊",
+      "fetched_at": "2026-07-10T08:59:14.879914+00:00"
+    },
+    "8396710f976850bf": {
+      "title": "廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？",
+      "fetched_at": "2026-07-10T08:59:15.456595+00:00"
+    },
+    "68dae349450562b7": {
+      "title": "难敌中国车企竞争，大众汽车将削减一半车型",
+      "fetched_at": "2026-07-10T08:59:16.109823+00:00"
+    },
+    "65fa9d159d894a9d": {
+      "title": "中俄等国试图激化人工智能数据中心争论",
+      "fetched_at": "2026-07-10T08:59:16.749222+00:00"
+    },
+    "9713051fa3847a65": {
+      "title": "诺贝尔奖得主、美国化学家亚吉入职清华大学",
+      "fetched_at": "2026-07-10T08:59:17.317536+00:00"
+    },
+    "23c16b6ab20de637": {
+      "title": "美国已经“僵尸化”",
+      "fetched_at": "2026-07-10T08:59:17.930180+00:00"
+    },
+    "10af60ebfd2691cc": {
+      "title": "“天问二号”抵达小行星“振荡天星”",
+      "fetched_at": "2026-07-10T08:59:18.518237+00:00"
+    },
+    "a991ab16693285a7": {
+      "title": "中国发射“天问二号”，启动小行星探测采样任务",
+      "fetched_at": "2026-07-10T08:59:19.099486+00:00"
+    },
+    "792e3234ca9b0ec3": {
+      "title": "Scientists just debunked a dangerous baby rattlesnake myth",
+      "fetched_at": "2026-07-10T08:59:23.316578+00:00"
+    },
+    "ec9d8ad8d75dfbfd": {
+      "title": "Physicists created a tiny universe where time emerged without a clock",
+      "fetched_at": "2026-07-10T08:59:23.891506+00:00"
+    },
+    "1c7adf6864ec55e4": {
+      "title": "This alien planet never has sunrise or sunset. It may support life",
+      "fetched_at": "2026-07-10T08:59:24.477715+00:00"
+    },
+    "798ecc825e95ee9e": {
+      "title": "Hawaii's famous “happy-face” spider has a surprising relative",
+      "fetched_at": "2026-07-10T08:59:25.056241+00:00"
+    },
+    "1f508d0f1f381fdf": {
+      "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
+      "fetched_at": "2026-07-10T08:59:25.651857+00:00"
+    },
+    "295b3891b044932c": {
+      "title": "Antarctica's first dinosaur fossil belonged to a group of the largest land animals ever",
+      "fetched_at": "2026-07-10T08:59:26.222165+00:00"
+    },
+    "014a605c4b403890": {
+      "title": "Scientists propose launching a giant 'airbag' into space to protect us from solar superstorms ‪— and experts say it's 'quite feasible'",
+      "fetched_at": "2026-07-10T08:59:26.793259+00:00"
+    },
+    "f89248cdb0edbba8": {
+      "title": "Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive even longer",
+      "fetched_at": "2026-07-10T08:59:27.362445+00:00"
+    },
+    "e5f6bbd3596218b5": {
+      "title": "Modern neuroscience is rediscovering an idea Freud had 130 years ago",
+      "fetched_at": "2026-07-10T08:59:27.937806+00:00"
+    },
+    "a78902a618e73b71": {
+      "title": "Scientists discover a surprising link between vitamin C and brain health",
+      "fetched_at": "2026-07-10T08:59:28.508744+00:00"
+    },
+    "4f73e5ac9824d18a": {
+      "title": "Melanoma's secret to cheating death has finally been revealed",
+      "fetched_at": "2026-07-10T08:59:29.093754+00:00"
     }
   },
-  "last_updated": "2026-07-10T01:49:05.042753+00:00"
+  "last_updated": "2026-07-10T08:59:29.243834+00:00"
 }
