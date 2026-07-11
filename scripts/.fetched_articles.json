@@ -1,145 +1,5 @@
 {
   "articles": {
-    "0eb32eb29d39e9cc": {
-      "title": "CorvinOS – a self-hosted agentic OS which enforce EU AI Act 2026 by design",
-      "fetched_at": "2026-07-03T13:39:12.441800+00:00"
-    },
-    "06ba0e261abb3213": {
-      "title": "Show HN: Handpicked AI jobs from 170 AI companies, sourced from career pages",
-      "fetched_at": "2026-07-03T13:39:13.050840+00:00"
-    },
-    "619df7c938903c11": {
-      "title": "Simulating Tradeoffs in AI Organisation",
-      "fetched_at": "2026-07-03T13:39:13.667961+00:00"
-    },
-    "18bcb06c07a458a1": {
-      "title": "Meta's Zuckerberg says AI agent tech progressing slower than expected",
-      "fetched_at": "2026-07-03T13:39:14.285562+00:00"
-    },
-    "90823624d86e94e4": {
-      "title": "Show HN: Foundera – AI-powered founder and startup feedback platform",
-      "fetched_at": "2026-07-03T13:39:14.917071+00:00"
-    },
-    "d78dae16513050e6": {
-      "title": "Semantic Manifest – An open specification for AI crawler ingestion",
-      "fetched_at": "2026-07-03T13:39:15.529104+00:00"
-    },
-    "2fdd39742d876b32": {
-      "title": "When AI Comes to the Workplace: Ethics, Employee Empowerment and Privacy",
-      "fetched_at": "2026-07-03T13:39:16.159152+00:00"
-    },
-    "7308829ab1c4e626": {
-      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-      "fetched_at": "2026-07-03T13:39:16.794887+00:00"
-    },
-    "2d2bf6f12436ec7e": {
-      "title": "深水海纳：控股股东等终止公司控制权变更事项",
-      "fetched_at": "2026-07-03T13:39:17.443073+00:00"
-    },
-    "ee69ff0ff42c4b5f": {
-      "title": "Show HN: I built a website showing the likelihood of the AI bubble to pop",
-      "fetched_at": "2026-07-03T13:39:18.060942+00:00"
-    },
-    "281280d7696e268b": {
-      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models",
-      "fetched_at": "2026-07-03T13:39:18.671772+00:00"
-    },
-    "9c9949dbb3a20b5c": {
-      "title": "Show HN: Spark KNE Verify – Verify selected AI claims in the browser",
-      "fetched_at": "2026-07-03T13:39:19.284022+00:00"
-    },
-    "218b55e238fac873": {
-      "title": "My Students Hate AI. But They Can't Stop Using It",
-      "fetched_at": "2026-07-03T13:39:19.896952+00:00"
-    },
-    "8f881663c960ab88": {
-      "title": "Please Stop the AI Confidence Theater",
-      "fetched_at": "2026-07-03T13:39:20.508600+00:00"
-    },
-    "8eeb20c70827ab9e": {
-      "title": "小鹏集团与神州租车达成全场景合作，批量交付1300台新能源车",
-      "fetched_at": "2026-07-03T13:39:21.145185+00:00"
-    },
-    "f8511c053fd9dc9c": {
-      "title": "KathaGPT – private AI desktop app",
-      "fetched_at": "2026-07-03T13:39:21.776197+00:00"
-    },
-    "0d06e71f1b46a520": {
-      "title": "Inkterface, an e-ink faceplate for your Steam Machine",
-      "fetched_at": "2026-07-03T13:39:22.403497+00:00"
-    },
-    "8d15a5dc35711456": {
-      "title": "云南能投：拟投资建设丽江市宁蒗县100MW/400MWh全钒液流独立共享储能项目",
-      "fetched_at": "2026-07-03T13:39:23.016861+00:00"
-    },
-    "5eccbebf12d4c37e": {
-      "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
-      "fetched_at": "2026-07-03T13:39:23.642780+00:00"
-    },
-    "fe0c805bca3dcb11": {
-      "title": "雪祺电气：股东拟协议转让12.65%公司股份",
-      "fetched_at": "2026-07-03T13:39:24.264249+00:00"
-    },
-    "64a21fee3be1356c": {
-      "title": "日本女市長請產假為何引發激辯",
-      "fetched_at": "2026-07-03T13:39:26.646509+00:00"
-    },
-    "3da24109e48f0b15": {
-      "title": "乙女遊戲：在「2.5次元」中，談一場模糊虛擬與現實的戀愛",
-      "fetched_at": "2026-07-03T13:39:27.273225+00:00"
-    },
-    "82c3a1e3f97b3127": {
-      "title": "「韓國足球已死！」世界盃敗戰後 憤怒的球迷要求徹底改革",
-      "fetched_at": "2026-07-03T13:39:27.891771+00:00"
-    },
-    "836cf9b00ee9724e": {
-      "title": "香港銅鑼灣書店店長林榮基病逝 從港至台以書店反抗",
-      "fetched_at": "2026-07-03T13:39:28.526837+00:00"
-    },
-    "1dbd1000cc4bfb61": {
-      "title": "美國建國250週年：五個鮮為人知的中美關係歷史細節",
-      "fetched_at": "2026-07-03T13:39:29.150339+00:00"
-    },
-    "d2bee726c97c772c": {
-      "title": "為何許多癌症患者飛赴中國接受治療",
-      "fetched_at": "2026-07-03T13:39:29.782190+00:00"
-    },
-    "5aad0820a3f2d70e": {
-      "title": "「武官治港」：警隊進駐官方要職，想體現中國維穩邏輯？",
-      "fetched_at": "2026-07-03T13:39:30.395256+00:00"
-    },
-    "7f4724f2f4731b15": {
-      "title": "美國建國250年：五個中美交往的歷史細節與默契",
-      "fetched_at": "2026-07-03T13:39:30.999050+00:00"
-    },
-    "fc884a08ad6ad1b4": {
-      "title": "中國芯片出口額暴增110%，是否意味西方「封鎖失敗」？",
-      "fetched_at": "2026-07-03T13:39:31.622237+00:00"
-    },
-    "5fc5785a0d620113": {
-      "title": "一張照片，盡覽銀河系6000萬顆星球——還可能有新的",
-      "fetched_at": "2026-07-03T13:39:32.243009+00:00"
-    },
-    "27258a5e1e29cb64": {
-      "title": "'It's more than a hope, it's a guarantee': The Vera C. Rubin Observatory's 10-year movie of the universe is about to 'blow our minds,' chief scientist Tony Tyson says",
-      "fetched_at": "2026-07-03T13:39:34.828705+00:00"
-    },
-    "d7d8b93b48d66fcb": {
-      "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
-      "fetched_at": "2026-07-03T13:39:35.448066+00:00"
-    },
-    "7de8d96c3baa87bd": {
-      "title": "Old muscle stem cells can act young again but there’s a catch",
-      "fetched_at": "2026-07-03T13:39:36.076553+00:00"
-    },
-    "eb56514fe3ff4809": {
-      "title": "NASA mission to rescue a space telescope plummeting to Earth launches into orbit",
-      "fetched_at": "2026-07-03T13:39:36.691715+00:00"
-    },
-    "95e5b28ceaebde02": {
-      "title": "Satellites reveal Earth has a surprising symmetry in the way it reflects light — and it might be tied to the El Niño cycle",
-      "fetched_at": "2026-07-03T13:39:37.318066+00:00"
-    },
     "1574b211202ebb18": {
       "title": "An AI Koan",
       "fetched_at": "2026-07-03T18:59:24.786332+00:00"
@@ -3855,7 +3715,127 @@
     "4f3d049e68d76067": {
       "title": "Great ape laughter reveals a hidden origin of human speech",
       "fetched_at": "2026-07-11T12:52:09.764095+00:00"
+    },
+    "29ef7098da0223fc": {
+      "title": "AI rebrands fail to deliver a lasting share price boost",
+      "fetched_at": "2026-07-11T18:42:48.858771+00:00"
+    },
+    "6115426f75b6a323": {
+      "title": "Ask HN: Has single-task focus become outdated in the AI era?",
+      "fetched_at": "2026-07-11T18:42:49.470956+00:00"
+    },
+    "ff93af4726be0735": {
+      "title": "Safe from AI: which jobs will help you thrive in the future?",
+      "fetched_at": "2026-07-11T18:42:50.052349+00:00"
+    },
+    "5c02d7e4224ff7c3": {
+      "title": "AI 2040 and the Cult of Intelligence",
+      "fetched_at": "2026-07-11T18:42:50.623521+00:00"
+    },
+    "6ea91d4f8627c108": {
+      "title": "Thalmaar AI (Defense and Space Tech) Is Hiring Founding PM",
+      "fetched_at": "2026-07-11T18:42:51.213886+00:00"
+    },
+    "ea780ea05ae58f00": {
+      "title": "OpenSandbox Universal Sandbox Infrastructure for AI Applications",
+      "fetched_at": "2026-07-11T18:42:51.794753+00:00"
+    },
+    "ef91e382968baa2b": {
+      "title": "Alex Karp Is Saying What Every Angry CEO Is Thinking About AI",
+      "fetched_at": "2026-07-11T18:42:52.381256+00:00"
+    },
+    "7cb28f71b932c988": {
+      "title": "Theories of Deep Learning",
+      "fetched_at": "2026-07-11T18:42:52.955382+00:00"
+    },
+    "7418fd6e57e6dc65": {
+      "title": "Reverse centaurs are the answer to the AI paradox",
+      "fetched_at": "2026-07-11T18:42:53.520662+00:00"
+    },
+    "b747fc6e322a7609": {
+      "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
+      "fetched_at": "2026-07-11T18:42:54.098359+00:00"
+    },
+    "b27cc3c612c81ef8": {
+      "title": "HackerRank's LLM-Based Hiring Agent",
+      "fetched_at": "2026-07-11T18:42:54.663828+00:00"
+    },
+    "17bc5b2a2b050f13": {
+      "title": "Local-first agent governance: keeping an AI agent contained",
+      "fetched_at": "2026-07-11T18:42:55.246760+00:00"
+    },
+    "861efa4678d994a3": {
+      "title": "Agentation – Visual UI Annotation for AI Coding Agents",
+      "fetched_at": "2026-07-11T18:42:55.818054+00:00"
+    },
+    "cf50627f9afd2fa6": {
+      "title": "Show HN: I Wanted AI Code Review I Could Own. So I Built Codra",
+      "fetched_at": "2026-07-11T18:42:56.395102+00:00"
+    },
+    "16a853fab9b6eef4": {
+      "title": "Show HN: Free AI Visibility Audit Tool& Agent",
+      "fetched_at": "2026-07-11T18:42:56.971076+00:00"
+    },
+    "6b35758e9554f0e6": {
+      "title": "We Tested $200 GPT-5.6 Sol on PhD Level Math [video]",
+      "fetched_at": "2026-07-11T18:42:57.555045+00:00"
+    },
+    "3992442c758b2e3a": {
+      "title": "My AI Model Tier List for Mid-2026",
+      "fetched_at": "2026-07-11T18:42:58.137947+00:00"
+    },
+    "4671c9d2af92cd7c": {
+      "title": "An educational lab of AI agent architectures",
+      "fetched_at": "2026-07-11T18:42:58.716446+00:00"
+    },
+    "a6299dcebfd088b5": {
+      "title": "I made AI agents play diplomacy",
+      "fetched_at": "2026-07-11T18:42:59.295670+00:00"
+    },
+    "416d80f4214fd8d8": {
+      "title": "AI Is Making Silicon Valley Productive, Anxious and Afraid to Log Off",
+      "fetched_at": "2026-07-11T18:42:59.870755+00:00"
+    },
+    "c2f5342dcbc3a590": {
+      "title": "颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人",
+      "fetched_at": "2026-07-11T18:43:01.887156+00:00"
+    },
+    "c4b1c1ad0963cb0f": {
+      "title": "巴威逼近登陸：中國嚴陣以待一週內第二個颱風",
+      "fetched_at": "2026-07-11T18:43:02.460718+00:00"
+    },
+    "135dcd3ece1d2c51": {
+      "title": "Tropical forests stop absorbing carbon dioxide during El Niño events. This year could be the worst.",
+      "fetched_at": "2026-07-11T18:43:20.119827+00:00"
+    },
+    "a2cea46f643cf784": {
+      "title": "'Some people called it horrifying': 'Dinner with King Tut' author on using Egyptian mummification techniques on a modern-day human body",
+      "fetched_at": "2026-07-11T18:43:20.697856+00:00"
+    },
+    "fe0d56e791ace30c": {
+      "title": "'He looked like Ramses the Great': How experimental archaeologists used ancient techniques to mummify a modern-day person",
+      "fetched_at": "2026-07-11T18:43:21.278580+00:00"
+    },
+    "f171673e40ec09cf": {
+      "title": "Songbirds are in crisis as trappers and smugglers force them into lucrative bird-singing competitions",
+      "fetched_at": "2026-07-11T18:43:21.850499+00:00"
+    },
+    "d4f2c56e89e9d9a7": {
+      "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
+      "fetched_at": "2026-07-11T18:43:22.436327+00:00"
+    },
+    "4bc970977e853131": {
+      "title": "Why the human body has so many design flaws",
+      "fetched_at": "2026-07-11T18:43:23.013901+00:00"
+    },
+    "dab4846463b155cf": {
+      "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
+      "fetched_at": "2026-07-11T18:43:23.597151+00:00"
+    },
+    "719530f19b11b637": {
+      "title": "A strange LIGO signal could reveal the missing link behind dark matter",
+      "fetched_at": "2026-07-11T18:43:24.167127+00:00"
     }
   },
-  "last_updated": "2026-07-11T12:52:09.909186+00:00"
+  "last_updated": "2026-07-11T18:43:24.317828+00:00"
 }
