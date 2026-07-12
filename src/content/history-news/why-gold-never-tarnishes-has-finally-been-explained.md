@@ -1,0 +1,10 @@
+---
+title: 'Why gold never tarnishes has finally been explained'
+description: 'Gold may have a secret self-defense system that helps it resist tarnishing. Researchers discovered that atoms on gold surfaces reorganize themselves into patterns that block oxygen from reacting with '
+pubDate: 2026-07-11T22:36:05
+source: 'Science Daily'
+sourceUrl: 'https://www.sciencedaily.com/releases/2026/07/260710003511.htm'
+tags: []
+---
+
+Gold may have a secret self-defense system that helps it resist tarnishing. Researchers discovered that atoms on gold surfaces reorganize themselves into patterns that block oxygen from reacting with the metal, suppressing oxidation by up to a trillion-fold. Beyond explaining why gold jewelry stays bright for generations, the finding could help scientists create more powerful gold-based catalysts for manufacturing and clean energy.
