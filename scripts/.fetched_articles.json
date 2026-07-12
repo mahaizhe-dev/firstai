@@ -1,105 +1,5 @@
 {
   "articles": {
-    "d5795552a5e3670a": {
-      "title": "宁德时代与北京绿交所等签署战略合作协议",
-      "fetched_at": "2026-07-04T08:21:55.256849+00:00"
-    },
-    "912ae8d9beb806d5": {
-      "title": "Ask HN: Which AI model do you use for what?",
-      "fetched_at": "2026-07-04T08:21:55.839916+00:00"
-    },
-    "07a983867cb702f4": {
-      "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
-      "fetched_at": "2026-07-04T08:21:56.427315+00:00"
-    },
-    "3f429e46b830372f": {
-      "title": "Radio Free AI: The voice of the resistance",
-      "fetched_at": "2026-07-04T08:21:57.017556+00:00"
-    },
-    "3b1289c5259bd74c": {
-      "title": "AI Poisons Creativity [video]",
-      "fetched_at": "2026-07-04T08:21:57.610735+00:00"
-    },
-    "4edbbc27cefc9804": {
-      "title": "业内首个AI-eSIM产业协同平台成立",
-      "fetched_at": "2026-07-04T08:21:58.190205+00:00"
-    },
-    "4a8c11318df51eea": {
-      "title": "瀚银科技被罚没近7445万元",
-      "fetched_at": "2026-07-04T08:21:58.788557+00:00"
-    },
-    "6e57a2c955bb31ef": {
-      "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
-      "fetched_at": "2026-07-04T08:21:59.374607+00:00"
-    },
-    "43314d14e9340990": {
-      "title": "Show HN: Much – Local-first AI workspace with in-browser Python (WASM) sandbox",
-      "fetched_at": "2026-07-04T08:21:59.956214+00:00"
-    },
-    "e2f4535f61b80209": {
-      "title": "暑运前三天 全国铁路累计发送旅客超3800万人次",
-      "fetched_at": "2026-07-04T08:22:00.541379+00:00"
-    },
-    "930c932f68ea75af": {
-      "title": "How AI models would vote in Sweden",
-      "fetched_at": "2026-07-04T08:22:01.135127+00:00"
-    },
-    "8cd5703b78328064": {
-      "title": "6月海湾地区原油出口激增",
-      "fetched_at": "2026-07-04T08:22:01.736370+00:00"
-    },
-    "cfed99b9ebfaec6e": {
-      "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "fetched_at": "2026-07-04T08:22:02.321491+00:00"
-    },
-    "fac1f3893d074277": {
-      "title": "首款神经动力学芯片问世 有助于脑机接口等技术发展",
-      "fetched_at": "2026-07-04T08:22:02.923742+00:00"
-    },
-    "7bc0acbbf93d0032": {
-      "title": "AI puts B Corps' values to the test",
-      "fetched_at": "2026-07-04T08:22:03.543026+00:00"
-    },
-    "5ceffdcc1c727873": {
-      "title": "I am dreading our LLM-written incident report future",
-      "fetched_at": "2026-07-04T08:22:04.129405+00:00"
-    },
-    "a81a45df488a13d6": {
-      "title": "消息称SK海力士考虑在巨额ADR发行中向承销银行支付约0.5%的费用",
-      "fetched_at": "2026-07-04T08:22:04.722120+00:00"
-    },
-    "3fcf007e8bc9ad07": {
-      "title": "长光卫星完成近50亿元股权融资",
-      "fetched_at": "2026-07-04T08:22:05.316162+00:00"
-    },
-    "864514ecb59c0d56": {
-      "title": "印度政府：正调查苹果手机信息泄露事件",
-      "fetched_at": "2026-07-04T08:22:05.960033+00:00"
-    },
-    "1bcf39ae89467a23": {
-      "title": "千问智能体功能与服务将于7月15日正式下线",
-      "fetched_at": "2026-07-04T08:22:06.551646+00:00"
-    },
-    "6912f7b10075c14a": {
-      "title": "Some of the last surviving Neanderthals were remarkably diverse ‪—‬ suggesting inbreeding didn't doom them",
-      "fetched_at": "2026-07-04T08:22:11.635156+00:00"
-    },
-    "72a9914837501c31": {
-      "title": "This common vitamin deficiency can mimic normal aging",
-      "fetched_at": "2026-07-04T08:22:12.222096+00:00"
-    },
-    "d4b7450e1b166bc2": {
-      "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
-      "fetched_at": "2026-07-04T08:22:12.815374+00:00"
-    },
-    "43c294c77616beb7": {
-      "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
-      "fetched_at": "2026-07-04T08:22:13.415154+00:00"
-    },
-    "82ab12bc5509f3bd": {
-      "title": "NASA’s Lucy finds a wobbling peanut-shaped asteroid with signs of ancient water",
-      "fetched_at": "2026-07-04T08:22:13.999995+00:00"
-    },
     "238966cedc0b53d7": {
       "title": "Show HN: Owthorize: catch destructive AI-agent tool calls before they run",
       "fetched_at": "2026-07-04T12:56:49.209132+00:00"
@@ -3863,7 +3763,111 @@
     "4b6df361874c7158": {
       "title": "'Machine-gun sun' could bring auroras to more than a dozen states this Independence Day weekend",
       "fetched_at": "2026-07-12T07:57:13.810325+00:00"
+    },
+    "546853d800f67ddb": {
+      "title": "India's TCS plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+      "fetched_at": "2026-07-12T12:52:53.508431+00:00"
+    },
+    "23d12f40e9963907": {
+      "title": "SlimeBallBench · AI models play slime soccer",
+      "fetched_at": "2026-07-12T12:52:54.112764+00:00"
+    },
+    "c3981cc07909769a": {
+      "title": "The impressive AI demo is dead. Here's what actually reaches production",
+      "fetched_at": "2026-07-12T12:52:54.710685+00:00"
+    },
+    "1bd430e5ab5679d0": {
+      "title": "The fight against AI data centers is just beginning",
+      "fetched_at": "2026-07-12T12:52:55.302492+00:00"
+    },
+    "2497bd64842cd2be": {
+      "title": "Show HN: Avoid codebase sloppification and AI-generated spaghetti code",
+      "fetched_at": "2026-07-12T12:52:55.891652+00:00"
+    },
+    "b33978af87bf52e9": {
+      "title": "中信证券：港股扰动趋缓卖空料将收敛，短期推荐创新药、航空、机器人及工业金属",
+      "fetched_at": "2026-07-12T12:52:56.478603+00:00"
+    },
+    "5a162cab9f58bf0b": {
+      "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+      "fetched_at": "2026-07-12T12:52:57.104090+00:00"
+    },
+    "24f8b74ce8453a58": {
+      "title": "美国消费信贷自2024年以来首次下降",
+      "fetched_at": "2026-07-12T12:52:57.682274+00:00"
+    },
+    "4e1faec3abbc7ef2": {
+      "title": "AI backlash hits university: laptops and phones banned for law students",
+      "fetched_at": "2026-07-12T12:52:58.267994+00:00"
+    },
+    "a3cf4508823311b1": {
+      "title": "今年A股最大IPO要来了",
+      "fetched_at": "2026-07-12T12:52:58.856822+00:00"
+    },
+    "65b5b49ca231dd34": {
+      "title": "赛力斯：预计上半年净亏损15亿元-18亿元",
+      "fetched_at": "2026-07-12T12:52:59.454101+00:00"
+    },
+    "fde351e8a3046083": {
+      "title": "Mnema: A local, encrypted memory layer for AI agents",
+      "fetched_at": "2026-07-12T12:53:00.041100+00:00"
+    },
+    "98a62a337c26ce61": {
+      "title": "美参议员林赛·格雷厄姆突发急病去世",
+      "fetched_at": "2026-07-12T12:53:00.621304+00:00"
+    },
+    "4508388a079c16a6": {
+      "title": "Show HN: Dr. Wong – an AI space for journaling and self-reflection",
+      "fetched_at": "2026-07-12T12:53:01.217381+00:00"
+    },
+    "1974acee03e00634": {
+      "title": "Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "fetched_at": "2026-07-12T12:53:01.814737+00:00"
+    },
+    "48af09031ef894d1": {
+      "title": "AI Agents Are About to Change Payments Operations",
+      "fetched_at": "2026-07-12T12:53:02.406657+00:00"
+    },
+    "a0023be7f1730a59": {
+      "title": "25% long-form social media posts appear AI-generated",
+      "fetched_at": "2026-07-12T12:53:03.003838+00:00"
+    },
+    "b596af209d5926b7": {
+      "title": "Databricks AI Agent Genie Code Is No Longer Free. Now You Have to Pay as You Go",
+      "fetched_at": "2026-07-12T12:53:03.615289+00:00"
+    },
+    "201cc6f1dc44ca62": {
+      "title": "Databricks News: CLI v1.0.0, AI-tools, Docker, DABs UI sync, mutators",
+      "fetched_at": "2026-07-12T12:53:04.207539+00:00"
+    },
+    "f12a383df77716e7": {
+      "title": "Chasing new skills, going back to basics: how software engineers adapting to AI",
+      "fetched_at": "2026-07-12T12:53:04.791607+00:00"
+    },
+    "b37d67e065bc13e4": {
+      "title": "颱風巴威兩度登陸浙江，當地人如何把防災做得「密不透風」？",
+      "fetched_at": "2026-07-12T12:53:07.210177+00:00"
+    },
+    "c89a564de07a695c": {
+      "title": "Venezuela's devastating 'earthquake doublet' holds a warning for California's San Andreas Fault",
+      "fetched_at": "2026-07-12T12:53:12.862379+00:00"
+    },
+    "f6801cf146c82a9e": {
+      "title": "James Webb telescope captures never-before-seen glimpse of 'Centaur' galaxy's battle wounds — Space photo of the week",
+      "fetched_at": "2026-07-12T12:53:13.444019+00:00"
+    },
+    "0c9facc8cc05a422": {
+      "title": "Was Einstein wrong about anything?",
+      "fetched_at": "2026-07-12T12:53:14.036127+00:00"
+    },
+    "8a9ee7a82ba7b78c": {
+      "title": "Ancient feeding-related neuropeptides regulate alloparenting in ants",
+      "fetched_at": "2026-07-12T12:53:14.614292+00:00"
+    },
+    "238495fa5bf0a315": {
+      "title": "The ancient Chinese way to cool homes (2023)",
+      "fetched_at": "2026-07-12T12:53:15.200843+00:00"
     }
   },
-  "last_updated": "2026-07-12T07:57:13.952737+00:00"
+  "last_updated": "2026-07-12T12:53:15.349038+00:00"
 }
