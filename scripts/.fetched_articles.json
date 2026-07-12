@@ -1,101 +1,5 @@
 {
   "articles": {
-    "1574b211202ebb18": {
-      "title": "An AI Koan",
-      "fetched_at": "2026-07-03T18:59:24.786332+00:00"
-    },
-    "2ac7e2f341d66c44": {
-      "title": "Mathematics in Machine Learning (Vector Embeddings)",
-      "fetched_at": "2026-07-03T18:59:25.384890+00:00"
-    },
-    "7868b64481e4f559": {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "fetched_at": "2026-07-03T18:59:25.964328+00:00"
-    },
-    "70e17ffa84500d47": {
-      "title": "Ask HN: Are any startups hiring front-end developers, or are they just using AI?",
-      "fetched_at": "2026-07-03T18:59:26.531483+00:00"
-    },
-    "ff0e895474c36f6a": {
-      "title": "SaaS Economics in the AI Era",
-      "fetched_at": "2026-07-03T18:59:27.112971+00:00"
-    },
-    "d2f2141dbc32b84d": {
-      "title": "AI turned every engineer into three. Now companies need more product thinkers",
-      "fetched_at": "2026-07-03T18:59:27.686571+00:00"
-    },
-    "8596836e2d938fbd": {
-      "title": "Collabora Office Update with Choose Your Own LLM Adventure",
-      "fetched_at": "2026-07-03T18:59:28.254100+00:00"
-    },
-    "0588408d168dc527": {
-      "title": "Physics informed generative AI for semiconductor manufacturing",
-      "fetched_at": "2026-07-03T18:59:28.822881+00:00"
-    },
-    "72edbb2a6efa59c6": {
-      "title": "Show HN: Solace – A quiet, local AI companion for Android with long-term memory",
-      "fetched_at": "2026-07-03T18:59:29.414862+00:00"
-    },
-    "6c3d90b20a9a0867": {
-      "title": "Token prices collapsing, regulation rising, AI's pricing power looks fragile",
-      "fetched_at": "2026-07-03T18:59:29.997314+00:00"
-    },
-    "12bf894f580d3937": {
-      "title": "Flora: A Diagram Library Built with (and for) AI",
-      "fetched_at": "2026-07-03T18:59:30.573950+00:00"
-    },
-    "f3bd063d6d9210c4": {
-      "title": "Patagonia Vests Are \"Out\" with AI Crowd",
-      "fetched_at": "2026-07-03T18:59:31.149721+00:00"
-    },
-    "26f731e9d49c231b": {
-      "title": "The $1.3 million theft that exposed AI's blind spot",
-      "fetched_at": "2026-07-03T18:59:31.721508+00:00"
-    },
-    "48f58a40d8af0c33": {
-      "title": "Jersey Mike's IPO illustrates how bad the AI hype has become",
-      "fetched_at": "2026-07-03T18:59:32.297574+00:00"
-    },
-    "78137ebfede090df": {
-      "title": "AI's Volatile Power Use Quietly Tests Grid Limits",
-      "fetched_at": "2026-07-03T18:59:32.876021+00:00"
-    },
-    "9d9cda026cf3f8ea": {
-      "title": "AI's $2.2T deficit fix is already half fake, economists say",
-      "fetched_at": "2026-07-03T18:59:33.446158+00:00"
-    },
-    "004a5486781e00a6": {
-      "title": "Ask HN: Procrastination with AI?",
-      "fetched_at": "2026-07-03T18:59:34.020151+00:00"
-    },
-    "937b6fa90f45b959": {
-      "title": "The Mental Models I Use to Work with AI",
-      "fetched_at": "2026-07-03T18:59:34.600543+00:00"
-    },
-    "864e47edad6c1fed": {
-      "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
-      "fetched_at": "2026-07-03T18:59:35.169323+00:00"
-    },
-    "df0cce5c0dbd1d6a": {
-      "title": "The AI coding maturity scale",
-      "fetched_at": "2026-07-03T18:59:35.752617+00:00"
-    },
-    "9e4bc8ec9cbb4324": {
-      "title": "當美國人慶祝從英國分裂出去250年，英國人又是如何紀念？",
-      "fetched_at": "2026-07-03T18:59:38.126866+00:00"
-    },
-    "851831e5a896aba9": {
-      "title": "Diminutive species 'the Hobbit' did not hunt or control fire, deepening the mystery of its ancestry, dwarf elephant bones reveal",
-      "fetched_at": "2026-07-03T18:59:41.192561+00:00"
-    },
-    "e2cf3ced77c24716": {
-      "title": "Elite families ruled nomadic Scythian society 2,500 years ago, DNA analysis reveals",
-      "fetched_at": "2026-07-03T18:59:41.763284+00:00"
-    },
-    "4b6df361874c7158": {
-      "title": "'Machine-gun sun' could bring auroras to more than a dozen states this Independence Day weekend",
-      "fetched_at": "2026-07-03T18:59:42.340825+00:00"
-    },
     "350b2efe2fc05a4b": {
       "title": "进一步明确平台经济各方权利义务 新版电子商务法公开征求意见",
       "fetched_at": "2026-07-04T01:50:42.468946+00:00"
@@ -3835,7 +3739,115 @@
     "719530f19b11b637": {
       "title": "A strange LIGO signal could reveal the missing link behind dark matter",
       "fetched_at": "2026-07-11T18:43:24.167127+00:00"
+    },
+    "74be39e05d06cb60": {
+      "title": "长存IPO辅导团队公布，中信证券与中信建投合计31人组成",
+      "fetched_at": "2026-07-12T01:29:20.372356+00:00"
+    },
+    "309d5ba91d75da64": {
+      "title": "I find AI roleplay therapeutic",
+      "fetched_at": "2026-07-12T01:29:20.951321+00:00"
+    },
+    "a1e8c09f34d79569": {
+      "title": "受“巴威”影响，上海两机场计划取消航班653架次",
+      "fetched_at": "2026-07-12T01:29:21.531893+00:00"
+    },
+    "7cfa6168bf7c5f49": {
+      "title": "Dismissive Dan's Review of the Overplane AI Coding Harness",
+      "fetched_at": "2026-07-12T01:29:22.112583+00:00"
+    },
+    "8117033e08afb60d": {
+      "title": "Learning-to-Optimize via Deep Unfolded Flows",
+      "fetched_at": "2026-07-12T01:29:22.684248+00:00"
+    },
+    "f0f476d526c9c657": {
+      "title": "机构：到2029年中国国内算力卡采购额将达到1.44万亿元，将诞生多家市值万亿甚至十万亿的上市企业",
+      "fetched_at": "2026-07-12T01:29:23.272408+00:00"
+    },
+    "00af46e0ef5a7324": {
+      "title": "The Human Cell Is Wildly Complex. Can AI Decode It? – Silvana Konermann – Ted [video]",
+      "fetched_at": "2026-07-12T01:29:23.852877+00:00"
+    },
+    "59098a486b5f546a": {
+      "title": "Show HN: AgentTransfer – open-source file transfer for AI agents (one Go binary)",
+      "fetched_at": "2026-07-12T01:29:24.439360+00:00"
+    },
+    "b1066386324f06b1": {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "fetched_at": "2026-07-12T01:29:25.012506+00:00"
+    },
+    "aea4a7c3d52ed5e1": {
+      "title": "AI and Job Postings: From Destruction to Creation?",
+      "fetched_at": "2026-07-12T01:29:25.592431+00:00"
+    },
+    "15eb14059940d217": {
+      "title": "ContextOps, an ESLint-like static analyzer for LLM context",
+      "fetched_at": "2026-07-12T01:29:26.191766+00:00"
+    },
+    "b03394f070eaf1eb": {
+      "title": "Stop Telling Me to Ask an LLM",
+      "fetched_at": "2026-07-12T01:29:26.760752+00:00"
+    },
+    "c9d8cc717f2a6fa9": {
+      "title": "Show HN: Token Time – Screen Time, but for your AI agent tokens",
+      "fetched_at": "2026-07-12T01:29:27.335218+00:00"
+    },
+    "6d79157963f86b4e": {
+      "title": "Neobrowser AI has rediculously strong VPN builtin for FREE",
+      "fetched_at": "2026-07-12T01:29:27.912867+00:00"
+    },
+    "747b1c92a5a9b5b3": {
+      "title": "AI found a secret computer bug hidden for 15 years.",
+      "fetched_at": "2026-07-12T01:29:28.481650+00:00"
+    },
+    "d1ee9586c4195a7e": {
+      "title": "GPT 5.6 chart analysis tool",
+      "fetched_at": "2026-07-12T01:29:29.050985+00:00"
+    },
+    "8f6dee797204c57c": {
+      "title": "Show HN: BoundFlow – an open-source control plane for AI agents",
+      "fetched_at": "2026-07-12T01:29:29.616888+00:00"
+    },
+    "cc2bd1ce90a78df4": {
+      "title": "Being part of one of the biggest wealth creation events in history (AI)",
+      "fetched_at": "2026-07-12T01:29:30.189111+00:00"
+    },
+    "dcc327fb76791c6d": {
+      "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
+      "fetched_at": "2026-07-12T01:29:30.769022+00:00"
+    },
+    "208e0bc52914f919": {
+      "title": "GPT-5.6-Sol just accidentally deleted almost ALL of my Mac's files",
+      "fetched_at": "2026-07-12T01:29:31.346769+00:00"
+    },
+    "a8435135a1925bda": {
+      "title": "為什麼有些人特別容易被蚊叮？",
+      "fetched_at": "2026-07-12T01:29:33.463768+00:00"
+    },
+    "1c4a894737f0e804": {
+      "title": "中國一週內第二個颱風登陸，近200萬人疏散",
+      "fetched_at": "2026-07-12T01:29:34.036909+00:00"
+    },
+    "3da24109e48f0b15": {
+      "title": "乙女遊戲：在「2.5次元」中，談一場模糊虛擬與現實的戀愛",
+      "fetched_at": "2026-07-12T01:29:34.621611+00:00"
+    },
+    "836cf9b00ee9724e": {
+      "title": "香港銅鑼灣書店店長林榮基病逝 從港至台以書店反抗",
+      "fetched_at": "2026-07-12T01:29:35.195903+00:00"
+    },
+    "7f4724f2f4731b15": {
+      "title": "美國建國250年：五個中美交往的歷史細節與默契",
+      "fetched_at": "2026-07-12T01:29:35.771531+00:00"
+    },
+    "fc884a08ad6ad1b4": {
+      "title": "中國芯片出口額暴增110%，是否意味西方「封鎖失敗」？",
+      "fetched_at": "2026-07-12T01:29:36.357765+00:00"
+    },
+    "27258a5e1e29cb64": {
+      "title": "'It's more than a hope, it's a guarantee': The Vera C. Rubin Observatory's 10-year movie of the universe is about to 'blow our minds,' chief scientist Tony Tyson says",
+      "fetched_at": "2026-07-12T01:29:38.876859+00:00"
     }
   },
-  "last_updated": "2026-07-11T18:43:24.317828+00:00"
+  "last_updated": "2026-07-12T01:29:39.021262+00:00"
 }
