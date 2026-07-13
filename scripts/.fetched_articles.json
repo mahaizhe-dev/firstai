@@ -1,265 +1,5 @@
 {
   "articles": {
-    "47725f2831d6bdaa": {
-      "title": "Deterministic AI Auditing",
-      "fetched_at": "2026-07-05T01:56:27.347749+00:00"
-    },
-    "2b6765d3741c3ae9": {
-      "title": "AI CLI that fixes broken dev tool installs",
-      "fetched_at": "2026-07-05T01:56:27.977972+00:00"
-    },
-    "21ed805a3b9c2a2b": {
-      "title": "6月份中国大宗商品价格指数小幅回落",
-      "fetched_at": "2026-07-05T01:56:28.601732+00:00"
-    },
-    "cd389703a03cd8ce": {
-      "title": "Show HN: Two-tier-memory – queryable long-term memory for AI coding agents",
-      "fetched_at": "2026-07-05T01:56:29.228708+00:00"
-    },
-    "8308f15d9aeda5e8": {
-      "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
-      "fetched_at": "2026-07-05T01:56:29.853127+00:00"
-    },
-    "41ca5c4e439e481f": {
-      "title": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
-      "fetched_at": "2026-07-05T01:56:30.478573+00:00"
-    },
-    "913b3fe812993e59": {
-      "title": "PC及内存硬盘价格持续高位：硬盘一天三个价，经销商喊出“非刚需别买”",
-      "fetched_at": "2026-07-05T01:56:31.099982+00:00"
-    },
-    "dc713fbbee1eff93": {
-      "title": "加速走向全球，今年前5个月我国机器人出口近200亿元",
-      "fetched_at": "2026-07-05T01:56:31.720867+00:00"
-    },
-    "bf929815d9e5bf3d": {
-      "title": "Obsidian AI Setup – Bootstrap a Personalized Obsidian Vault with AI",
-      "fetched_at": "2026-07-05T01:56:32.342429+00:00"
-    },
-    "1d60cb9d9ef77fc2": {
-      "title": "The goal isn't to build \"another AI IDE.\"",
-      "fetched_at": "2026-07-05T01:56:32.955631+00:00"
-    },
-    "0e9560d10b3be147": {
-      "title": "Damo Academy unveils an AI agent able to discover superconductors",
-      "fetched_at": "2026-07-05T01:56:33.586319+00:00"
-    },
-    "69716dc18e3b5323": {
-      "title": "Nvidia Has Become the Bank Behind the AI Boom",
-      "fetched_at": "2026-07-05T01:56:34.208092+00:00"
-    },
-    "dd75ad85036153b9": {
-      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
-      "fetched_at": "2026-07-05T01:56:34.842923+00:00"
-    },
-    "224e4b471005ea69": {
-      "title": "AI Authentication and Authorization",
-      "fetched_at": "2026-07-05T01:56:35.479823+00:00"
-    },
-    "1ed7407eeea2d903": {
-      "title": "Microsoft Copilot OS revealed in LEAKED video: built on Copilot and agentic AI",
-      "fetched_at": "2026-07-05T01:56:36.129248+00:00"
-    },
-    "dbea2eb39acfc7df": {
-      "title": "Out-of-core LLM inference engine written from scratch in Rust",
-      "fetched_at": "2026-07-05T01:56:36.746984+00:00"
-    },
-    "86b0c096a171f63d": {
-      "title": "I just tired of killing AI slop",
-      "fetched_at": "2026-07-05T01:56:37.365385+00:00"
-    },
-    "58dce9fce563e1b6": {
-      "title": "RFC: Stopping runaway AI agent spend with atomic budget reservations",
-      "fetched_at": "2026-07-05T01:56:37.980558+00:00"
-    },
-    "3f264d9c5b22f0c2": {
-      "title": "Show HN: WifeBench – My wife vibes LLM rankings",
-      "fetched_at": "2026-07-05T01:56:38.608547+00:00"
-    },
-    "8433de5156bea753": {
-      "title": "The Structural Failure of Disciplinary Science: What a Machine Found in 2 Hours",
-      "fetched_at": "2026-07-05T01:56:39.227190+00:00"
-    },
-    "f4dbfd3d4fb55959": {
-      "title": "「在印度旅行的一頓飯，讓38條寄生蟲鑽進了我的腦袋」",
-      "fetched_at": "2026-07-05T01:56:41.468754+00:00"
-    },
-    "a42ae144172698f0": {
-      "title": "人類未來會變成什麼模樣？",
-      "fetched_at": "2026-07-05T01:56:42.083407+00:00"
-    },
-    "97bf814cb4b59c0c": {
-      "title": "手部無力、視力模糊：你的科技產品是否讓你患上了「手機病」？",
-      "fetched_at": "2026-07-05T01:56:42.707001+00:00"
-    },
-    "37604ada6aea9fc3": {
-      "title": "日本簽證漲價五倍，中國人為何反應激烈？",
-      "fetched_at": "2026-07-05T01:56:43.319759+00:00"
-    },
-    "047de562c682bee6": {
-      "title": "Water shortages could prevent the US from mining more lithium, deepening reliance on foreign imports",
-      "fetched_at": "2026-07-05T01:56:49.263771+00:00"
-    },
-    "e26c78f9d80128f2": {
-      "title": "A Postmortem of an LLM Social Network",
-      "fetched_at": "2026-07-05T08:38:25.965015+00:00"
-    },
-    "0b62343eb7997b7b": {
-      "title": "贝斯特：人形机器人业务仍处样品阶段",
-      "fetched_at": "2026-07-05T08:38:26.581777+00:00"
-    },
-    "c20b7885fb578655": {
-      "title": "浙富控股：预计2026年半年度净利润同比增长121%-156%",
-      "fetched_at": "2026-07-05T08:38:27.208081+00:00"
-    },
-    "bdecb2dabccc8251": {
-      "title": "招商轮船：上半年净利润同比预增214%—248%",
-      "fetched_at": "2026-07-05T08:38:27.816531+00:00"
-    },
-    "593183fcfc439f74": {
-      "title": "永鼎股份：预计2026年上半年归母净利润5亿元-7亿元，同比增长57%-120%",
-      "fetched_at": "2026-07-05T08:38:28.451100+00:00"
-    },
-    "53bed46152d55d60": {
-      "title": "天山铝业：上半年净利润同比预增101.52%",
-      "fetched_at": "2026-07-05T08:38:29.068136+00:00"
-    },
-    "2e012908db69a0c4": {
-      "title": "仕佳光子：股东鹤壁投资集团拟减持不超1%股份",
-      "fetched_at": "2026-07-05T08:38:29.710447+00:00"
-    },
-    "50cf6897e4abb0cf": {
-      "title": "鸿海：6月销售额8218亿元台币 同比增长52.1％",
-      "fetched_at": "2026-07-05T08:38:30.361898+00:00"
-    },
-    "8d47dca819dc9ee2": {
-      "title": "东方盛虹：上半年净利润同比预增987.39%—1194.51%",
-      "fetched_at": "2026-07-05T08:38:30.996325+00:00"
-    },
-    "727b9d0c49bdd731": {
-      "title": "6只个股南向资金持股量环比增长超10%",
-      "fetched_at": "2026-07-05T08:38:31.649874+00:00"
-    },
-    "8fe8bbdb5d63c8cf": {
-      "title": "生物股份：上半年净利润同比预增50.6%到80.39%",
-      "fetched_at": "2026-07-05T08:38:32.266786+00:00"
-    },
-    "933ad764c39709e2": {
-      "title": "SigMap: 97% token reduction for AI coding sessions",
-      "fetched_at": "2026-07-05T08:38:32.911054+00:00"
-    },
-    "906f87807bce33dd": {
-      "title": "code-on-incus: Give each AI agent its own isolated machine with root",
-      "fetched_at": "2026-07-05T08:38:33.554554+00:00"
-    },
-    "9bf1ea81ab1f7a9b": {
-      "title": "Hunch – a Git-native decision graph your AI assistant obeys",
-      "fetched_at": "2026-07-05T08:38:34.176745+00:00"
-    },
-    "cee189abfb2bfc46": {
-      "title": "Agentsnap – find which config change broke your AI agent",
-      "fetched_at": "2026-07-05T08:38:34.821147+00:00"
-    },
-    "e89568c151602993": {
-      "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
-      "fetched_at": "2026-07-05T08:38:35.441441+00:00"
-    },
-    "0b892f25ffce92d3": {
-      "title": "Fidx – local semantic search in one SQLite file, no LLM at query",
-      "fetched_at": "2026-07-05T08:38:36.055816+00:00"
-    },
-    "49cf5aca9ee2e79f": {
-      "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
-      "fetched_at": "2026-07-05T08:38:36.689269+00:00"
-    },
-    "5b72906efe0b2b29": {
-      "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
-      "fetched_at": "2026-07-05T08:38:37.335103+00:00"
-    },
-    "f674b7c60f5379cc": {
-      "title": "Google commercial imagines Declaration of Independence written with help from AI",
-      "fetched_at": "2026-07-05T08:38:37.952648+00:00"
-    },
-    "2eed1fe746b7b2b9": {
-      "title": "泰勒絲與凱爾西紐約盛大完婚——重溫一天經過",
-      "fetched_at": "2026-07-05T08:38:40.666820+00:00"
-    },
-    "ee0faa2fbede0ecb": {
-      "title": "美國舉行 250 週年慶典：特朗普說「這僅是黃金時代的序幕」",
-      "fetched_at": "2026-07-05T08:38:41.282394+00:00"
-    },
-    "83065c680d50401c": {
-      "title": "網民嘲諷謝娜「唱功差」致取消演唱會說明了中國哪些事",
-      "fetched_at": "2026-07-05T08:38:41.905336+00:00"
-    },
-    "8a83ddd68637e4cc": {
-      "title": "哈里王子回國懸念：梅根是否同行？父子兄弟是否和解？",
-      "fetched_at": "2026-07-05T08:38:42.530120+00:00"
-    },
-    "adeb950e51fb7f3b": {
-      "title": "台積電財務長黃仁昭BBC專訪：經營成本上升，晶片不排除加價",
-      "fetched_at": "2026-07-05T08:38:43.145429+00:00"
-    },
-    "dfefc82476988621": {
-      "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain",
-      "fetched_at": "2026-07-05T08:38:45.158603+00:00"
-    },
-    "68d27c5894b48db3": {
-      "title": "Ancient Coins: What About Spartan Coins?",
-      "fetched_at": "2026-07-05T08:38:45.773496+00:00"
-    },
-    "f4d075a0feff8914": {
-      "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
-      "fetched_at": "2026-07-05T08:38:46.388533+00:00"
-    },
-    "1f88c24f4ab64811": {
-      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-      "fetched_at": "2026-07-05T08:38:47.071103+00:00"
-    },
-    "b211300d0e40a653": {
-      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
-      "fetched_at": "2026-07-05T08:38:47.695663+00:00"
-    },
-    "1f34409d3b6bef40": {
-      "title": "Scientists may have finally solved the black hole information paradox",
-      "fetched_at": "2026-07-05T08:38:48.311443+00:00"
-    },
-    "9366250959e6b1ad": {
-      "title": "NASA celebrates America's 250th birthday with incredible views of space",
-      "fetched_at": "2026-07-05T08:38:48.945085+00:00"
-    },
-    "74897e18b6ee981f": {
-      "title": "New optical centrifuge unlocks the secrets of frictionless superfluids",
-      "fetched_at": "2026-07-05T08:38:49.564533+00:00"
-    },
-    "69d4aa329fa1d003": {
-      "title": "New research reveals the hidden pollution left behind by fireworks",
-      "fetched_at": "2026-07-05T08:38:50.193517+00:00"
-    },
-    "d8cb5824b93ea5b0": {
-      "title": "Scientists discover why some brains resist Alzheimer's",
-      "fetched_at": "2026-07-05T08:38:50.806096+00:00"
-    },
-    "ae82b5ee39f7f8df": {
-      "title": "A popular climate fix could accidentally trigger massive changes to global weather",
-      "fetched_at": "2026-07-05T08:38:51.434768+00:00"
-    },
-    "bae788edb08c0d6c": {
-      "title": "'It sounds so impossible': Student studying fungus that makes users hallucinate tiny people may be on the verge of a scientific breakthrough",
-      "fetched_at": "2026-07-05T08:38:52.067005+00:00"
-    },
-    "3e75c9cda62103ba": {
-      "title": "Ancient empires quiz: Can you match these lands to the historical powers that ruled them?",
-      "fetched_at": "2026-07-05T08:38:52.746481+00:00"
-    },
-    "c859e08cd4e707d5": {
-      "title": "China's top-secret 'dragon' space plane just released another unidentified object over Earth",
-      "fetched_at": "2026-07-05T08:38:53.527304+00:00"
-    },
-    "b65d013b52d6297d": {
-      "title": "AI companies don't want to be legally responsible for their chatbots. US courts should make them.",
-      "fetched_at": "2026-07-05T08:38:54.151743+00:00"
-    },
     "19eb02cc091f3e0f": {
       "title": "No-AI Label",
       "fetched_at": "2026-07-05T13:04:51.220821+00:00"
@@ -3911,7 +3651,131 @@
     "acd100b07f446033": {
       "title": "Science news this week: James Webb telescope finds a never-before-seen substance, China's 'Great Green Wall' grows faster than natural trees, and a Medici murder mystery is solved",
       "fetched_at": "2026-07-13T01:44:01.188410+00:00"
+    },
+    "13fd257dbd2b4f90": {
+      "title": "通用股份：上半年净利润同比预增114.66%—176.88%",
+      "fetched_at": "2026-07-13T08:44:55.406441+00:00"
+    },
+    "510389d349b4c037": {
+      "title": "投资者削减对亚洲芯片股押注，多家机构对涨势可持续性发出警告",
+      "fetched_at": "2026-07-13T08:44:56.026085+00:00"
+    },
+    "11185eca4bfc0be4": {
+      "title": "字节探索自动驾驶，Seed世界模型团队负责",
+      "fetched_at": "2026-07-13T08:44:56.629210+00:00"
+    },
+    "a39bbf8f8568a2e5": {
+      "title": "Device Context Protocol – Bridge LLM Agents to Physical Devices",
+      "fetched_at": "2026-07-13T08:44:57.227654+00:00"
+    },
+    "f587c5f0a8d7050b": {
+      "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+      "fetched_at": "2026-07-13T08:44:57.830276+00:00"
+    },
+    "c7d31fd7249aeadc": {
+      "title": "潜入《遗忘之海》，我才读懂网易的心气",
+      "fetched_at": "2026-07-13T08:44:58.440764+00:00"
+    },
+    "be96efb721eb285b": {
+      "title": "新里程增资至33.9亿",
+      "fetched_at": "2026-07-13T08:44:59.037873+00:00"
+    },
+    "6ab3d8a3bf4a969a": {
+      "title": "西部黄金：上半年净利润同比预增214.87%—258.95%",
+      "fetched_at": "2026-07-13T08:44:59.645910+00:00"
+    },
+    "54e1c3e4550d3cae": {
+      "title": "昂立教育：上半年净利润同比预增973.3%",
+      "fetched_at": "2026-07-13T08:45:00.290424+00:00"
+    },
+    "23c7782dbb3a2437": {
+      "title": "中国船舶：上半年净利同比预增212.29%—273.39%",
+      "fetched_at": "2026-07-13T08:45:00.898020+00:00"
+    },
+    "a076a7e351ff1b0b": {
+      "title": "Tell HN: One SWE-bench-Live task: $47 Opus failed, $1.46 GPT-5.6 passed",
+      "fetched_at": "2026-07-13T08:45:01.515239+00:00"
+    },
+    "562a9693ca4d93cb": {
+      "title": "全球首款，南开团队成功研获人造听觉神经",
+      "fetched_at": "2026-07-13T08:45:02.131731+00:00"
+    },
+    "474fee37897a29ea": {
+      "title": "恒指收涨0.16%，恒生科技指数跌0.96%",
+      "fetched_at": "2026-07-13T08:45:02.734068+00:00"
+    },
+    "408b5a28f2d97aa2": {
+      "title": "江化微旗下镇江电子材料公司增资至8.6亿，增幅约11%",
+      "fetched_at": "2026-07-13T08:45:03.355492+00:00"
+    },
+    "06724d9f4afb87f7": {
+      "title": "“海艺AI”完成超亿元B轮融资",
+      "fetched_at": "2026-07-13T08:45:03.977179+00:00"
+    },
+    "f6a5e33940ca54c1": {
+      "title": "阿克苏诺贝尔拒绝立邦对其装饰涂料业务86亿美元的收购提议",
+      "fetched_at": "2026-07-13T08:45:04.631530+00:00"
+    },
+    "f7a8d41df1c3b4e7": {
+      "title": "三星电子拟出售3230亿韩元自有股份",
+      "fetched_at": "2026-07-13T08:45:05.232431+00:00"
+    },
+    "f6d9aa7182636ce1": {
+      "title": "“莫界科技”完成6亿元A轮及A+轮整合融资",
+      "fetched_at": "2026-07-13T08:45:05.844871+00:00"
+    },
+    "cd5ed515504cadf4": {
+      "title": "TSMC posts record revenue in second quarter on AI demand",
+      "fetched_at": "2026-07-13T08:45:06.462626+00:00"
+    },
+    "96aeb8abfdeb1b8a": {
+      "title": "AI Email Template Design Company",
+      "fetched_at": "2026-07-13T08:45:07.057958+00:00"
+    },
+    "25d92510e258b48a": {
+      "title": "曼谷酒吧大火至少27死22重傷",
+      "fetched_at": "2026-07-13T08:45:09.672081+00:00"
+    },
+    "e2b0b11c8beac860": {
+      "title": "那位被指為墨西哥「芬太尼王」的中國留學生",
+      "fetched_at": "2026-07-13T08:45:10.294586+00:00"
+    },
+    "bdcfc7237e53f2b5": {
+      "title": "普京如何将日本变成俄罗斯间谍据点",
+      "fetched_at": "2026-07-13T08:45:10.930592+00:00"
+    },
+    "dd7c4b013fe4afd2": {
+      "title": "Pokemon Go 十週年：數百萬玩家仍在踏上「全部收服」之路",
+      "fetched_at": "2026-07-13T08:45:11.523919+00:00"
+    },
+    "e27ddcf325a253fc": {
+      "title": "在中国，我们看到了本世纪的最大挑战",
+      "fetched_at": "2026-07-13T08:45:12.148054+00:00"
+    },
+    "ba524b433ddeb2ed": {
+      "title": "大众汽车是如何在中国陷入困境的",
+      "fetched_at": "2026-07-13T08:45:12.764879+00:00"
+    },
+    "bd2a1f567d189fcd": {
+      "title": "「就像恐怖電影一樣」：曾現蹤台灣的「食腦」微生物或會蔓延全球",
+      "fetched_at": "2026-07-13T08:45:13.356834+00:00"
+    },
+    "e713db51bf07efc0": {
+      "title": "中国机器人技术热潮下，被抛弃的蓝领工人",
+      "fetched_at": "2026-07-13T08:45:13.942099+00:00"
+    },
+    "b15fee76b0acc899": {
+      "title": "Future moon landings could wipe out clues to how life began on Earth",
+      "fetched_at": "2026-07-13T08:45:51.965327+00:00"
+    },
+    "a2965cf02e3323cb": {
+      "title": "Spider-like creatures help uncover the surprising origins of fatherhood",
+      "fetched_at": "2026-07-13T08:45:52.564551+00:00"
+    },
+    "1ccf993fd21c7f3c": {
+      "title": "The US is hooked on unregulated peptides. But are they effective, or even safe?",
+      "fetched_at": "2026-07-13T08:45:53.166477+00:00"
     }
   },
-  "last_updated": "2026-07-13T01:44:01.333661+00:00"
+  "last_updated": "2026-07-13T08:45:53.270222+00:00"
 }
