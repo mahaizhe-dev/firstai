@@ -1,97 +1,5 @@
 {
   "articles": {
-    "9b07e0ca605025fd": {
-      "title": "Has China obtained the most important machine?",
-      "fetched_at": "2026-07-05T18:58:56.501042+00:00"
-    },
-    "6cbc0a8bb79eb77c": {
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "fetched_at": "2026-07-05T18:58:57.121656+00:00"
-    },
-    "b5f560bced2da069": {
-      "title": "Show HN: GameFork – AI agents publish and fork browser games via MCP",
-      "fetched_at": "2026-07-05T18:58:57.751673+00:00"
-    },
-    "25b9bb3cef0ff470": {
-      "title": "I built a weather station that runs machine learning to forecast weather",
-      "fetched_at": "2026-07-05T18:58:58.377669+00:00"
-    },
-    "2417de66df7bd82b": {
-      "title": "When AI agents get you kicked out from a YC Startup",
-      "fetched_at": "2026-07-05T18:58:59.003760+00:00"
-    },
-    "788b7af502fd46a4": {
-      "title": "Ghostlog: Live terminal UI to monitor AI coding agent Git commits",
-      "fetched_at": "2026-07-05T18:58:59.633751+00:00"
-    },
-    "4d30a2633300732e": {
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "fetched_at": "2026-07-05T18:59:00.264290+00:00"
-    },
-    "9421e02d3f1ebc80": {
-      "title": "Engram – persistent memory for AI agents, in-process, no cloud",
-      "fetched_at": "2026-07-05T18:59:00.881458+00:00"
-    },
-    "e42e5983eb226261": {
-      "title": "Istota – a multi-user AI agent and personal OS",
-      "fetched_at": "2026-07-05T18:59:01.506224+00:00"
-    },
-    "66e354a6748cf9fd": {
-      "title": "SOLAR: AI-Powered Speed-of-Light Performance Analysis",
-      "fetched_at": "2026-07-05T18:59:02.124083+00:00"
-    },
-    "433d59cf84309c79": {
-      "title": "Show HN: Goldseam – heal broken Cypress selectors with a local LLM",
-      "fetched_at": "2026-07-05T18:59:02.741264+00:00"
-    },
-    "01386cf0590c0eb3": {
-      "title": "Show HN: Detecting AI slop with regex and Stephen King",
-      "fetched_at": "2026-07-05T18:59:03.398412+00:00"
-    },
-    "0e546c091c1f73c0": {
-      "title": "Why High-Earning Families Are Leaving Traditional Schools for AI",
-      "fetched_at": "2026-07-05T18:59:04.036288+00:00"
-    },
-    "c28c0250295de9cf": {
-      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-      "fetched_at": "2026-07-05T18:59:04.675243+00:00"
-    },
-    "236f2f448a389f58": {
-      "title": "Probing the loss-band sparsity assumption in Scientist AI",
-      "fetched_at": "2026-07-05T18:59:05.287881+00:00"
-    },
-    "e51d211f44fd5733": {
-      "title": "Domain experts: All human experts into AI agents",
-      "fetched_at": "2026-07-05T18:59:05.912680+00:00"
-    },
-    "1aabadbf5246b385": {
-      "title": "People Who Will Thrive in the AI Age",
-      "fetched_at": "2026-07-05T18:59:06.559292+00:00"
-    },
-    "8996cd681ca113b4": {
-      "title": "AI enables 277 people to engage in a single real-time conversation",
-      "fetched_at": "2026-07-05T18:59:07.193262+00:00"
-    },
-    "2fe4dcc3c6ae4393": {
-      "title": "Drinking AI: AI/Water Consumption Comparisons to Beverages",
-      "fetched_at": "2026-07-05T18:59:07.822048+00:00"
-    },
-    "426d2c205bfd9d40": {
-      "title": "Learning to Replicate Expert Judgment in Financial Tasks",
-      "fetched_at": "2026-07-05T18:59:08.443419+00:00"
-    },
-    "a6b4d71112fcab0d": {
-      "title": "施紀賢宣佈辭職後首個BBC專訪：決定「極其個人」",
-      "fetched_at": "2026-07-05T18:59:11.914767+00:00"
-    },
-    "f03f171363baf3c8": {
-      "title": "Ancient Greek Technology: The Origins of Robotics and Engineering",
-      "fetched_at": "2026-07-05T18:59:18.716911+00:00"
-    },
-    "c8cbc7b4913022ae": {
-      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
-      "fetched_at": "2026-07-05T18:59:19.336713+00:00"
-    },
     "d9c129c357c20401": {
       "title": "沪深两市成交额突破1万亿元",
       "fetched_at": "2026-07-06T02:03:05.468338+00:00"
@@ -3799,7 +3707,127 @@
     "ae82b5ee39f7f8df": {
       "title": "A popular climate fix could accidentally trigger massive changes to global weather",
       "fetched_at": "2026-07-13T14:01:28.852338+00:00"
+    },
+    "f6418520240cfe82": {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "fetched_at": "2026-07-13T19:09:19.405031+00:00"
+    },
+    "4a70d451bcfb41e7": {
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "fetched_at": "2026-07-13T19:09:20.016516+00:00"
+    },
+    "fdc4360ecec009c9": {
+      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+      "fetched_at": "2026-07-13T19:09:20.636365+00:00"
+    },
+    "c5d91345a60fa884": {
+      "title": "Should AI help you get away with killing your spouse?",
+      "fetched_at": "2026-07-13T19:09:21.250695+00:00"
+    },
+    "81579ed8606a07ee": {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "fetched_at": "2026-07-13T19:09:21.867406+00:00"
+    },
+    "7b1b4247ab37420b": {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "fetched_at": "2026-07-13T19:09:22.560663+00:00"
+    },
+    "1538dc86dac56723": {
+      "title": "迪安诊断：控股股东及其一致行动人拟合计减持不超3%公司股份",
+      "fetched_at": "2026-07-13T19:09:23.184295+00:00"
+    },
+    "68b1b30a4c6b6e85": {
+      "title": "TCL中环：预计上半年亏损30亿元—33亿元 同比减亏",
+      "fetched_at": "2026-07-13T19:09:23.883262+00:00"
+    },
+    "b2a2f8047b779698": {
+      "title": "英特尔宣布向爱尔兰工厂追加投资50亿欧元，扩大AI芯片产能",
+      "fetched_at": "2026-07-13T19:09:24.502258+00:00"
+    },
+    "a1bbf0afd509075b": {
+      "title": "欧佩克月报：下调2026年全球石油需求增长预测至78万桶/日",
+      "fetched_at": "2026-07-13T19:09:25.110185+00:00"
+    },
+    "e15a44b78b2aa138": {
+      "title": "阶跃发布大模型原生AI终端品牌STEPX及Step AOS",
+      "fetched_at": "2026-07-13T19:09:25.739979+00:00"
+    },
+    "95d0194310c9640a": {
+      "title": "氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
+      "fetched_at": "2026-07-13T19:09:26.374381+00:00"
+    },
+    "3b605ff3f8285c93": {
+      "title": "大众汽车CEO备忘录称公司或需进一步裁员5万人",
+      "fetched_at": "2026-07-13T19:09:26.998195+00:00"
+    },
+    "3a2a897af30ecada": {
+      "title": "生益电子：上半年净利润同比预增104%到114%",
+      "fetched_at": "2026-07-13T19:09:27.620695+00:00"
+    },
+    "f72f3db6e5709c35": {
+      "title": "东北证券：上半年净利润同比预增77.49%",
+      "fetched_at": "2026-07-13T19:09:28.250654+00:00"
+    },
+    "f7d730d1aaf71b2f": {
+      "title": "北京11宗待拍涉宅用地总起始价达319.24亿元",
+      "fetched_at": "2026-07-13T19:09:28.892017+00:00"
+    },
+    "6531fb913a1309f1": {
+      "title": "李强主持召开经济形势专家和企业家座谈会",
+      "fetched_at": "2026-07-13T19:09:29.504242+00:00"
+    },
+    "42314f4fb2ebcadd": {
+      "title": "恺英网络：上半年净利润同比预增36.84%—64.20%",
+      "fetched_at": "2026-07-13T19:09:30.121456+00:00"
+    },
+    "05c572259fe1cac4": {
+      "title": "胜宏科技：网络流传相关言论不属实，公司生产、出货一切正常",
+      "fetched_at": "2026-07-13T19:09:30.729783+00:00"
+    },
+    "1615cfdd245609a9": {
+      "title": "沪市公司约2600亿元“现金红包”待发",
+      "fetched_at": "2026-07-13T19:09:31.351782+00:00"
+    },
+    "609a22ed031a0576": {
+      "title": "Land Use Practices of Neolithic Monument Builders Evaluated",
+      "fetched_at": "2026-07-13T19:09:39.721239+00:00"
+    },
+    "62e08ad03d63c7d5": {
+      "title": "Pre-Inca Settlement Investigated in Western Peru",
+      "fetched_at": "2026-07-13T19:09:40.389984+00:00"
+    },
+    "1b13aa617d3c277b": {
+      "title": "Rare Medieval Coin Identified in Norway",
+      "fetched_at": "2026-07-13T19:09:41.027314+00:00"
+    },
+    "1f2ff40138965087": {
+      "title": "Jaw Wound in 90,000-Year-Old Fossil Points to Violence Among Modern Humans",
+      "fetched_at": "2026-07-13T19:09:41.647032+00:00"
+    },
+    "6474978d14fd54d1": {
+      "title": "Sweet! Sugar found in raspberries was discovered near the Milky Way's center, hinting that life's ingredients are common in space",
+      "fetched_at": "2026-07-13T19:09:42.283992+00:00"
+    },
+    "8f2585e76c721870": {
+      "title": "Discovery/characterization of antitumor gut microbiota from amphibians&reptiles",
+      "fetched_at": "2026-07-13T19:09:42.896938+00:00"
+    },
+    "67d73f43e8a25906": {
+      "title": "Superintelligent AI in space could explain the Fermi Paradox",
+      "fetched_at": "2026-07-13T19:09:43.512975+00:00"
+    },
+    "c44ba56337689fac": {
+      "title": "NASA celebrates America's 250th birthday with red, white and blue snaps of the cosmos — Space photo of the week",
+      "fetched_at": "2026-07-13T19:09:44.141828+00:00"
+    },
+    "b1cb565cbcbca6b0": {
+      "title": "Has there ever been a period in human history without war?",
+      "fetched_at": "2026-07-13T19:09:44.766525+00:00"
+    },
+    "262d5cc0b2856c50": {
+      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
+      "fetched_at": "2026-07-13T19:09:45.374262+00:00"
     }
   },
-  "last_updated": "2026-07-13T14:01:28.964461+00:00"
+  "last_updated": "2026-07-13T19:09:45.489318+00:00"
 }
