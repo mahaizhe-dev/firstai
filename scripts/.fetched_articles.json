@@ -1,141 +1,5 @@
 {
   "articles": {
-    "19eb02cc091f3e0f": {
-      "title": "No-AI Label",
-      "fetched_at": "2026-07-05T13:04:51.220821+00:00"
-    },
-    "4ac8377cc04fdba9": {
-      "title": "JadePuffer ransomware used AI agent to automate entire attack",
-      "fetched_at": "2026-07-05T13:04:51.794207+00:00"
-    },
-    "63927afc6d3a839c": {
-      "title": "Generative AI like Midjourney creates images full of stereotypes",
-      "fetched_at": "2026-07-05T13:04:52.371928+00:00"
-    },
-    "0e327f1e867a8600": {
-      "title": "A philosophical and neurocognitive manifesto on AI and ontological trauma",
-      "fetched_at": "2026-07-05T13:04:52.945997+00:00"
-    },
-    "b18d4bfb8b5c90a9": {
-      "title": "ComplianceAgent: Open-source EU AI Act compliance scanner",
-      "fetched_at": "2026-07-05T13:04:53.521228+00:00"
-    },
-    "a07415f3e789c9b2": {
-      "title": "The fundamentals of AI transformation (that most orgs are getting wrong)",
-      "fetched_at": "2026-07-05T13:04:54.105645+00:00"
-    },
-    "29a04f0b3e8d2477": {
-      "title": "Show HN: Gubbi – Minimalist LLM Chatbot",
-      "fetched_at": "2026-07-05T13:04:54.674320+00:00"
-    },
-    "83781becb022edd9": {
-      "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
-      "fetched_at": "2026-07-05T13:04:55.241052+00:00"
-    },
-    "7b53d34a503b8a71": {
-      "title": "What We Can't Measure About AI Yet",
-      "fetched_at": "2026-07-05T13:04:55.816021+00:00"
-    },
-    "68272641284dac84": {
-      "title": "ActHub – EU AI Act compliance toolkit for small businesses (PHP, no framework)",
-      "fetched_at": "2026-07-05T13:04:56.396870+00:00"
-    },
-    "3f4aa07ee1ba26cc": {
-      "title": "Show HN: PES Benchmark v0.2 – Detecting AI-generated motion (Cohen's d=10.4)",
-      "fetched_at": "2026-07-05T13:04:56.984525+00:00"
-    },
-    "366c85b0530fb0e2": {
-      "title": "Show HN: Open-source phone calling infra for AI agents",
-      "fetched_at": "2026-07-05T13:04:57.558737+00:00"
-    },
-    "f28570eaa44aff37": {
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "fetched_at": "2026-07-05T13:04:58.129342+00:00"
-    },
-    "c68f390f0fec719d": {
-      "title": "Show HN: Design Patterns for AI",
-      "fetched_at": "2026-07-05T13:04:58.704924+00:00"
-    },
-    "d2ad6b70b7a42d71": {
-      "title": "If You Can Write Acceptance Criteria, You Can Write an AI Routing Policy",
-      "fetched_at": "2026-07-05T13:04:59.285144+00:00"
-    },
-    "5657437bfdacfaaf": {
-      "title": "Harvey AI started with a Reddit thread. Now it's worth $11B",
-      "fetched_at": "2026-07-05T13:04:59.850504+00:00"
-    },
-    "227bb2b753efcbc7": {
-      "title": "U.S. Policies Unintentionally Accelerated China's Open AI Ecosystems",
-      "fetched_at": "2026-07-05T13:05:00.431237+00:00"
-    },
-    "e5de7dc759cb475f": {
-      "title": "背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」",
-      "fetched_at": "2026-07-05T13:05:01.008989+00:00"
-    },
-    "51b40d0e3d23ee1a": {
-      "title": "Learning Multi-Agent Coordination via Sheaf-ADMM",
-      "fetched_at": "2026-07-05T13:05:01.581549+00:00"
-    },
-    "415a7f5d968c49c7": {
-      "title": "Concentration of power in AI is a risk, by Andy Konwinski",
-      "fetched_at": "2026-07-05T13:05:02.162257+00:00"
-    },
-    "4924536991c2ca17": {
-      "title": "泰勒絲大婚不收禮 英國倒有人靠隨禮做試管嬰兒",
-      "fetched_at": "2026-07-05T13:05:04.643984+00:00"
-    },
-    "9b6ee9a5bb1738bd": {
-      "title": "中國地下教會牧師金明日「在中美元首交流後」獲釋",
-      "fetched_at": "2026-07-05T13:05:05.226136+00:00"
-    },
-    "67d73f43e8a25906": {
-      "title": "Superintelligent AI in space could explain the Fermi Paradox",
-      "fetched_at": "2026-07-05T13:05:09.157280+00:00"
-    },
-    "c44ba56337689fac": {
-      "title": "NASA celebrates America's 250th birthday with red, white and blue snaps of the cosmos — Space photo of the week",
-      "fetched_at": "2026-07-05T13:05:09.737687+00:00"
-    },
-    "b1cb565cbcbca6b0": {
-      "title": "Has there ever been a period in human history without war?",
-      "fetched_at": "2026-07-05T13:05:10.341447+00:00"
-    },
-    "c44de76a37c2b8ec": {
-      "title": "Scientists stunned by signs of ancient life in a place no one expected",
-      "fetched_at": "2026-07-05T13:05:10.913813+00:00"
-    },
-    "33d993fff4d2687a": {
-      "title": "Scientists infected a 'vagina on a chip' with gonorrhea — then cured it with a new antibiotic found by AI",
-      "fetched_at": "2026-07-05T13:05:11.485838+00:00"
-    },
-    "29e978c428d9aa2f": {
-      "title": "History Lens – AI-powered historical artifact and monument identifier",
-      "fetched_at": "2026-07-05T13:05:12.062866+00:00"
-    },
-    "4f49c15d8e5e2ff6": {
-      "title": "From pet to pest, goldfish can wreck entire ecosystems",
-      "fetched_at": "2026-07-05T13:05:12.640305+00:00"
-    },
-    "23f7f18666c26151": {
-      "title": "Where the wild Discovery Loops are",
-      "fetched_at": "2026-07-05T13:05:13.213521+00:00"
-    },
-    "ebf775b58f777ae6": {
-      "title": "Researchers discover why fructose doesn't satisfy hunger like glucose",
-      "fetched_at": "2026-07-05T13:05:13.796792+00:00"
-    },
-    "9c16a5e81267091b": {
-      "title": "This newly discovered ballista spider catapults ants into a deadly trap",
-      "fetched_at": "2026-07-05T13:05:14.362097+00:00"
-    },
-    "f88354c19bafcb01": {
-      "title": "Earth may have been seeding Venus with life for billions of years",
-      "fetched_at": "2026-07-05T13:05:14.931376+00:00"
-    },
-    "262d5cc0b2856c50": {
-      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
-      "fetched_at": "2026-07-05T13:05:15.504874+00:00"
-    },
     "9b07e0ca605025fd": {
       "title": "Has China obtained the most important machine?",
       "fetched_at": "2026-07-05T18:58:56.501042+00:00"
@@ -3775,7 +3639,167 @@
     "1ccf993fd21c7f3c": {
       "title": "The US is hooked on unregulated peptides. But are they effective, or even safe?",
       "fetched_at": "2026-07-13T08:45:53.166477+00:00"
+    },
+    "2d19f9ab027cedac": {
+      "title": "Why aren't AI companies competing directly with their customers?",
+      "fetched_at": "2026-07-13T14:01:02.281008+00:00"
+    },
+    "bc72f2b32d470c6a": {
+      "title": "The Red Queen's Race: Why No AI Lab Has a Real Moat",
+      "fetched_at": "2026-07-13T14:01:02.912502+00:00"
+    },
+    "9d3e4fa8dfffcbc5": {
+      "title": "Users report that GPT-5.6 Sol has become less capable than its initial release",
+      "fetched_at": "2026-07-13T14:01:03.553320+00:00"
+    },
+    "4fd51c61fb806e23": {
+      "title": "AI and Job Postings: From Destruction to Creation",
+      "fetched_at": "2026-07-13T14:01:03.553451+00:00"
+    },
+    "cdd2d5415ce47414": {
+      "title": "The State of AGENTS.md: scoring the 16 biggest AI agent repos' own instructions",
+      "fetched_at": "2026-07-13T14:01:04.174643+00:00"
+    },
+    "bb65fe24b7ef009a": {
+      "title": "The New York nurses replaced by AI: 'It should concern every patient who cares'",
+      "fetched_at": "2026-07-13T14:01:04.800333+00:00"
+    },
+    "0fcc1c7bdf686bd5": {
+      "title": "69% support forcible transfer of 50% AI stock to public fund: Verasight",
+      "fetched_at": "2026-07-13T14:01:05.438995+00:00"
+    },
+    "bd9515f153c47b97": {
+      "title": "How the most impactful AI startups will be built in emerging markets",
+      "fetched_at": "2026-07-13T14:01:06.086959+00:00"
+    },
+    "e8c79d4ab3808c50": {
+      "title": "SociaLLM Engineering: On Manipulating AI Agents and what we can do about it",
+      "fetched_at": "2026-07-13T14:01:06.715486+00:00"
+    },
+    "bf8d736d90c5d0e8": {
+      "title": "Cairn, an AI agent with a $50 budget, an email address, and a constitution",
+      "fetched_at": "2026-07-13T14:01:07.339931+00:00"
+    },
+    "c9bc4d0a0d91782f": {
+      "title": "Show HN: Latent-free ternary LLM training",
+      "fetched_at": "2026-07-13T14:01:07.977181+00:00"
+    },
+    "b377edd6841b9441": {
+      "title": "*ST岭南：公司股票存在可能因股价低于面值被终止上市的风险",
+      "fetched_at": "2026-07-13T14:01:08.594432+00:00"
+    },
+    "e81a2c982d1ddae6": {
+      "title": "苹果调整Mac芯片路线图，加速AI芯片研发",
+      "fetched_at": "2026-07-13T14:01:09.232642+00:00"
+    },
+    "97cf94eefedfaea3": {
+      "title": "Make LLM-powered apps Smarter and Cheaper, Reliable, Auditable changing 1 LOC",
+      "fetched_at": "2026-07-13T14:01:09.851529+00:00"
+    },
+    "92b54a462fc0edda": {
+      "title": "热门中概股美股盘前多数下跌，百度跌超3%",
+      "fetched_at": "2026-07-13T14:01:10.480574+00:00"
+    },
+    "d0ac8f7ad2d3396f": {
+      "title": "美股大型科技股盘前多数下跌，英特尔跌超3%",
+      "fetched_at": "2026-07-13T14:01:11.116474+00:00"
+    },
+    "7783855065158410": {
+      "title": "Anduril CEO Warns AI and Defense Valuations Are Becoming Dangerously Overvalued",
+      "fetched_at": "2026-07-13T14:01:11.740579+00:00"
+    },
+    "a5de43c291a286fe": {
+      "title": "Open source AI matters more than ever, according to Hugging Face's Clem Delangue",
+      "fetched_at": "2026-07-13T14:01:11.740718+00:00"
+    },
+    "f3f8c8931051082e": {
+      "title": "广电计量：上半年净利润同比预增18.17%—28.45%",
+      "fetched_at": "2026-07-13T14:01:12.395613+00:00"
+    },
+    "97e665352210797a": {
+      "title": "Show HN: OSS Web Based AI Video Studio (Vivijure)",
+      "fetched_at": "2026-07-13T14:01:13.038024+00:00"
+    },
+    "2b582999c532c2b2": {
+      "title": "所有人「擠成一團」：目擊者描述致命大火如何席捲曼谷酒吧",
+      "fetched_at": "2026-07-13T14:01:15.696989+00:00"
+    },
+    "6edecefcf2117009": {
+      "title": "美參議員葛蘭姆突辭世：主張友台、強硬對華的特朗普盟友",
+      "fetched_at": "2026-07-13T14:01:16.319074+00:00"
+    },
+    "0f4fe852cfb16f61": {
+      "title": "「巴威」颱風橫掃華東後北移 河北洪水沖走汽車",
+      "fetched_at": "2026-07-13T14:01:16.965966+00:00"
+    },
+    "d662f88e2295b04f": {
+      "title": "貝安德拜相幾成定局：BBC記者評估中美俄等國怎樣看他",
+      "fetched_at": "2026-07-13T14:01:17.590493+00:00"
+    },
+    "f4dbfd3d4fb55959": {
+      "title": "「在印度旅行的一頓飯，讓38條寄生蟲鑽進了我的腦袋」",
+      "fetched_at": "2026-07-13T14:01:18.228892+00:00"
+    },
+    "97bf814cb4b59c0c": {
+      "title": "手部無力、視力模糊：你的科技產品是否讓你患上了「手機病」？",
+      "fetched_at": "2026-07-13T14:01:18.850619+00:00"
+    },
+    "adeb950e51fb7f3b": {
+      "title": "台積電財務長黃仁昭BBC專訪：經營成本上升，晶片不排除加價",
+      "fetched_at": "2026-07-13T14:01:19.512986+00:00"
+    },
+    "7f1c6de80854b8e7": {
+      "title": "Elamite helmet with divine figures: A warrior king's 3,500-year-old bronze armor depicting a raptor and gold-plated gods",
+      "fetched_at": "2026-07-13T14:01:21.305867+00:00"
+    },
+    "4868fcd7d7647242": {
+      "title": "A 200-year-old physics experiment could help build future computers",
+      "fetched_at": "2026-07-13T14:01:21.925616+00:00"
+    },
+    "cd255b7839e4430e": {
+      "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+      "fetched_at": "2026-07-13T14:01:22.553690+00:00"
+    },
+    "09f46b52f8a20a23": {
+      "title": "Stephen Hawking's black hole laws just got a major upgrade",
+      "fetched_at": "2026-07-13T14:01:23.183276+00:00"
+    },
+    "a24fb10ba713cd2f": {
+      "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
+      "fetched_at": "2026-07-13T14:01:23.815141+00:00"
+    },
+    "dfefc82476988621": {
+      "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain",
+      "fetched_at": "2026-07-13T14:01:24.439585+00:00"
+    },
+    "f4d075a0feff8914": {
+      "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+      "fetched_at": "2026-07-13T14:01:25.065632+00:00"
+    },
+    "1f88c24f4ab64811": {
+      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+      "fetched_at": "2026-07-13T14:01:25.686678+00:00"
+    },
+    "b211300d0e40a653": {
+      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
+      "fetched_at": "2026-07-13T14:01:26.325157+00:00"
+    },
+    "9366250959e6b1ad": {
+      "title": "NASA celebrates America's 250th birthday with incredible views of space",
+      "fetched_at": "2026-07-13T14:01:26.944357+00:00"
+    },
+    "69d4aa329fa1d003": {
+      "title": "New research reveals the hidden pollution left behind by fireworks",
+      "fetched_at": "2026-07-13T14:01:27.558624+00:00"
+    },
+    "d8cb5824b93ea5b0": {
+      "title": "Scientists discover why some brains resist Alzheimer's",
+      "fetched_at": "2026-07-13T14:01:28.186012+00:00"
+    },
+    "ae82b5ee39f7f8df": {
+      "title": "A popular climate fix could accidentally trigger massive changes to global weather",
+      "fetched_at": "2026-07-13T14:01:28.852338+00:00"
     }
   },
-  "last_updated": "2026-07-13T08:45:53.270222+00:00"
+  "last_updated": "2026-07-13T14:01:28.964461+00:00"
 }
