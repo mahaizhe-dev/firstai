@@ -1,113 +1,5 @@
 {
   "articles": {
-    "d79e60a6a16caf5b": {
-      "title": "A Meditation on AI Identity",
-      "fetched_at": "2026-07-06T14:55:06.438077+00:00"
-    },
-    "5647041439ca8e53": {
-      "title": "Show HN: Xalgorix – Autonomous AI Pentesting Agent",
-      "fetched_at": "2026-07-06T14:55:07.063458+00:00"
-    },
-    "839f44895938bb4e": {
-      "title": "Ten Takeaways from the AI Engineering Report 2026: The Acceleration Whiplash",
-      "fetched_at": "2026-07-06T14:55:07.676808+00:00"
-    },
-    "368986b67465be44": {
-      "title": "Self-Service Ransomware as Security Against Local AI Tools",
-      "fetched_at": "2026-07-06T14:55:08.287170+00:00"
-    },
-    "a9ebf6583d08ccce": {
-      "title": "Show HN: AI harness for C/C++ with GDB, sanitizers, perf and compile tools",
-      "fetched_at": "2026-07-06T14:55:08.909295+00:00"
-    },
-    "fa00ad70b0090630": {
-      "title": "Agent Infra: curated resources for production AI agent infrastructure",
-      "fetched_at": "2026-07-06T14:55:09.530367+00:00"
-    },
-    "4c04d64d64f78ff3": {
-      "title": "'It's just his AI and my AI going back and forth'",
-      "fetched_at": "2026-07-06T14:55:10.168107+00:00"
-    },
-    "3661884356e04881": {
-      "title": "AI Short Video Generator Website for Sale",
-      "fetched_at": "2026-07-06T14:55:10.779480+00:00"
-    },
-    "15811dda349ee553": {
-      "title": "EU startup built an AI system that matches Mythos on zero-day discovery",
-      "fetched_at": "2026-07-06T14:55:11.408410+00:00"
-    },
-    "e2b314d43e5c2863": {
-      "title": "GitHub & other LLM-gen-AI Cos Urge You to Misdirect California on FOSS Licensing",
-      "fetched_at": "2026-07-06T14:55:12.029338+00:00"
-    },
-    "29e55d526255cd8a": {
-      "title": "Show HN: I pre-registered the rules,then measured AI agents shipping wrong fixes",
-      "fetched_at": "2026-07-06T14:55:12.654602+00:00"
-    },
-    "d2e6045794417e79": {
-      "title": "Show HN: Loopers – Open-source fail-closed firewall for AI agent runtimes",
-      "fetched_at": "2026-07-06T14:55:13.283466+00:00"
-    },
-    "7ed2729ccdb55c3a": {
-      "title": "Meta's AI 'Perv Glasses' Now Come with Stupid Comcast-Esque Usage Restrictions",
-      "fetched_at": "2026-07-06T14:55:13.912061+00:00"
-    },
-    "63b8286acbedecd0": {
-      "title": "Show HN: We track 1,397 AI agents. 43 famous ones (402k stars) have gone dark",
-      "fetched_at": "2026-07-06T14:55:14.574738+00:00"
-    },
-    "bca8370f98fe39ba": {
-      "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts",
-      "fetched_at": "2026-07-06T14:55:15.198297+00:00"
-    },
-    "8e75f8a4bb9d9647": {
-      "title": "We asked AI agents to fix real security bugs. This is what happened",
-      "fetched_at": "2026-07-06T14:55:15.818561+00:00"
-    },
-    "00070e6f87150826": {
-      "title": "AI Data Centers",
-      "fetched_at": "2026-07-06T14:55:16.445463+00:00"
-    },
-    "45cbd31d33b5c12b": {
-      "title": "BenchLocal – AI-powered local business search",
-      "fetched_at": "2026-07-06T14:55:17.077913+00:00"
-    },
-    "0f61441174a76dcc": {
-      "title": "Show HN: BurstyRouter: local LLM first then burst to end-to-end encrypted LLM",
-      "fetched_at": "2026-07-06T14:55:17.688572+00:00"
-    },
-    "ef1078aa31216360": {
-      "title": "Governance can prevent AI from undermining democracy. But only if it has teeth",
-      "fetched_at": "2026-07-06T14:55:18.319901+00:00"
-    },
-    "e95f2dd5565ceabf": {
-      "title": "美國小費文化「混亂且昂貴」 世界盃球迷高呼受不了",
-      "fetched_at": "2026-07-06T14:55:21.769794+00:00"
-    },
-    "aef51bef5465f189": {
-      "title": "Lost city discovered beneath Egypt's desert with ancient church",
-      "fetched_at": "2026-07-06T14:55:56.644598+00:00"
-    },
-    "f1c2e5ea1194edc5": {
-      "title": "James Webb telescope's largest-ever map of the universe unmasks hidden corners",
-      "fetched_at": "2026-07-06T14:55:57.265042+00:00"
-    },
-    "79adec87a81afe36": {
-      "title": "The Stargazer: A 5,000-year-old marble statuette of a Stone Age woman looking skyward",
-      "fetched_at": "2026-07-06T14:55:57.881912+00:00"
-    },
-    "371902a854f16e13": {
-      "title": "First experiment to thicken Arctic ice with seawater shows promise — but there's a big catch",
-      "fetched_at": "2026-07-06T14:55:57.882066+00:00"
-    },
-    "14cd64a3f05f0e7e": {
-      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
-      "fetched_at": "2026-07-06T14:55:58.504591+00:00"
-    },
-    "0f888bb76af1ce9a": {
-      "title": "Yellowstone’s supervolcano may be fueled by something unexpected",
-      "fetched_at": "2026-07-06T14:55:59.108559+00:00"
-    },
     "8bf2c3290a8b9845": {
       "title": "Gartner saw AI 2017 on the peak of its hype",
       "fetched_at": "2026-07-06T19:39:07.783407+00:00"
@@ -3923,7 +3815,103 @@
     "11e27d3cfa2d2fb5": {
       "title": "Scientists may have finally found how Alzheimer's kills brain cells",
       "fetched_at": "2026-07-14T13:04:18.629480+00:00"
+    },
+    "bd61b20e20a8b3ef": {
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "fetched_at": "2026-07-14T18:59:54.149037+00:00"
+    },
+    "1081351e2daa42f8": {
+      "title": "Linux Foundation's Latest Foray Is to Standardize Payments for AI Agents",
+      "fetched_at": "2026-07-14T18:59:54.728132+00:00"
+    },
+    "1aabadbf5246b385": {
+      "title": "People Who Will Thrive in the AI Age",
+      "fetched_at": "2026-07-14T18:59:55.299417+00:00"
+    },
+    "a7dc763c5e14289c": {
+      "title": "Five Laws of Generative AI",
+      "fetched_at": "2026-07-14T18:59:55.884942+00:00"
+    },
+    "a872983c0066dedb": {
+      "title": "Open Sourcing the Atuin AI Server",
+      "fetched_at": "2026-07-14T18:59:56.457015+00:00"
+    },
+    "cf7f5b4d5e709d3f": {
+      "title": "Show HN: Poseberry: create AI influencers that pose with your products",
+      "fetched_at": "2026-07-14T18:59:57.038273+00:00"
+    },
+    "396f9911e2b3388c": {
+      "title": "We scored 1,018 real-world AI prompts. Robustness averaged 31/100",
+      "fetched_at": "2026-07-14T18:59:57.604798+00:00"
+    },
+    "33050781cf975751": {
+      "title": "Llm.c ported to Mojo with Metal kernels, 1.72x faster than PyTorch MPs",
+      "fetched_at": "2026-07-14T18:59:58.173083+00:00"
+    },
+    "04773f6a2b4c268b": {
+      "title": "Inventing Eliza – How the First Chatbot Shaped AI",
+      "fetched_at": "2026-07-14T18:59:58.752250+00:00"
+    },
+    "8d5e1a3a2c37e5f7": {
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "fetched_at": "2026-07-14T18:59:59.331387+00:00"
+    },
+    "a853198560a4f995": {
+      "title": "What does GPT-5.6 Sol's latest proof mean for mathematicians?",
+      "fetched_at": "2026-07-14T18:59:59.902422+00:00"
+    },
+    "264098568ae41f6b": {
+      "title": "LinkedIn and X Are Flooded with AI Spam",
+      "fetched_at": "2026-07-14T19:00:00.480336+00:00"
+    },
+    "6872c63f8a142438": {
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "fetched_at": "2026-07-14T19:00:01.062330+00:00"
+    },
+    "66c4ef56859bab89": {
+      "title": "Project Panama: Why an AI Company Cut Apart Books",
+      "fetched_at": "2026-07-14T19:00:01.632529+00:00"
+    },
+    "0f6765a831ad7658": {
+      "title": "SoftBank's Masayoshi Son ridicules AI critics for 'spitting upwards'",
+      "fetched_at": "2026-07-14T19:00:02.212920+00:00"
+    },
+    "9d0f78689a307ffd": {
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "fetched_at": "2026-07-14T19:00:02.795077+00:00"
+    },
+    "f016c7db45be8f67": {
+      "title": "AI Made Cloning Games Easier",
+      "fetched_at": "2026-07-14T19:00:03.375854+00:00"
+    },
+    "9f390fba798698fd": {
+      "title": "AI lawsuits expose gaps in conventional insurance, says report",
+      "fetched_at": "2026-07-14T19:00:03.964316+00:00"
+    },
+    "0e9f5cb453da561e": {
+      "title": "Massive AI spending is driving up prices on laptops and electricity, Fed watches",
+      "fetched_at": "2026-07-14T19:00:04.546598+00:00"
+    },
+    "9382b0387be5b7ec": {
+      "title": "Jovita one AI hub instead of five subscriptions",
+      "fetched_at": "2026-07-14T19:00:05.124434+00:00"
+    },
+    "38a7677df5dedf6e": {
+      "title": "母親長年讓我深信自己快要死了，直到醫生揭開真相",
+      "fetched_at": "2026-07-14T19:00:07.075203+00:00"
+    },
+    "acdcb69c31f29882": {
+      "title": "Are there aliens on exoplanet K2-18b? Scientists just scanned it for signals",
+      "fetched_at": "2026-07-14T19:00:14.034600+00:00"
+    },
+    "dfb30fff9b0e88aa": {
+      "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+      "fetched_at": "2026-07-14T19:00:14.611862+00:00"
+    },
+    "50a40bd65c73eba9": {
+      "title": "Streetlights are trapping thousands of pill bugs in giant “death spirals”",
+      "fetched_at": "2026-07-14T19:00:15.178867+00:00"
     }
   },
-  "last_updated": "2026-07-14T13:04:18.741278+00:00"
+  "last_updated": "2026-07-14T19:00:15.331221+00:00"
 }
