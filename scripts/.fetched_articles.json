@@ -1,133 +1,5 @@
 {
   "articles": {
-    "d9c129c357c20401": {
-      "title": "沪深两市成交额突破1万亿元",
-      "fetched_at": "2026-07-06T02:03:05.468338+00:00"
-    },
-    "14d243dd31947291": {
-      "title": "创业板指涨超1%",
-      "fetched_at": "2026-07-06T02:03:05.468459+00:00"
-    },
-    "d46dd89180136654": {
-      "title": "AI Costs More Than the People It Replaced",
-      "fetched_at": "2026-07-06T02:03:06.085146+00:00"
-    },
-    "b973fc819aafe46f": {
-      "title": "铭利达等在天津成立新能源科技公司",
-      "fetched_at": "2026-07-06T02:03:06.715672+00:00"
-    },
-    "7a380c3d3a2a2c66": {
-      "title": "韩国考虑利用半导体税收设立增长基金",
-      "fetched_at": "2026-07-06T02:03:07.354644+00:00"
-    },
-    "c794e6174d720cd3": {
-      "title": "A股三大指数集体高开，硬件股领涨",
-      "fetched_at": "2026-07-06T02:03:07.998856+00:00"
-    },
-    "f9a3efb2e6de24bc": {
-      "title": "央行今日开展70亿元7天逆回购操作",
-      "fetched_at": "2026-07-06T02:03:08.703644+00:00"
-    },
-    "7937a36c92498810": {
-      "title": "恒指开盘涨0.23%，恒生科技指数涨0.55%",
-      "fetched_at": "2026-07-06T02:03:09.334836+00:00"
-    },
-    "27cef0e8be16d257": {
-      "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
-      "fetched_at": "2026-07-06T02:03:10.006829+00:00"
-    },
-    "1206e0120ab1dc50": {
-      "title": "人民币兑美元中间价报6.8066",
-      "fetched_at": "2026-07-06T02:03:10.637059+00:00"
-    },
-    "0b01d7c480a2e442": {
-      "title": "Children Adopt AI 3x Faster Than Adults – and We're Not Ready",
-      "fetched_at": "2026-07-06T02:03:11.284635+00:00"
-    },
-    "fd416624198ce8d6": {
-      "title": "Midjourney: From AI slop to medical research [video]",
-      "fetched_at": "2026-07-06T02:03:11.903539+00:00"
-    },
-    "2c36c8d03c7eeb09": {
-      "title": "宜安科技：台铃订单已开始向客户批量交付",
-      "fetched_at": "2026-07-06T02:03:12.567754+00:00"
-    },
-    "8677d840fe577830": {
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "fetched_at": "2026-07-06T02:03:13.212641+00:00"
-    },
-    "b6e6a9f4d9769c4b": {
-      "title": "华泰证券：关注港股高沽空叠加盈利预期改善的方向",
-      "fetched_at": "2026-07-06T02:03:13.843421+00:00"
-    },
-    "911b250761552b9a": {
-      "title": "华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益",
-      "fetched_at": "2026-07-06T02:03:14.495125+00:00"
-    },
-    "3498cabd4a1e9aa9": {
-      "title": "两市融资余额减少196.66亿元",
-      "fetched_at": "2026-07-06T02:03:15.118315+00:00"
-    },
-    "79f8c0695a7ea830": {
-      "title": "国金证券：锂电7月旺季在即，优选优势格局赛道",
-      "fetched_at": "2026-07-06T02:03:15.903014+00:00"
-    },
-    "3a29f2da310d707c": {
-      "title": "穆迪：新西兰本周料将维持利率不变",
-      "fetched_at": "2026-07-06T02:03:16.581835+00:00"
-    },
-    "670c5f5e24425f2f": {
-      "title": "宇信科技：公司通过投资专项基金来投资月之暗面股权",
-      "fetched_at": "2026-07-06T02:03:17.206580+00:00"
-    },
-    "834d68b3926960c9": {
-      "title": "习近平最倚重的副手蔡奇：总书记的“超级幕僚长”",
-      "fetched_at": "2026-07-06T02:03:20.362814+00:00"
-    },
-    "6c9f3bd77cd46577": {
-      "title": "「依托咪酯」毒品危機：為何在東亞青少年間蔓延？",
-      "fetched_at": "2026-07-06T02:03:20.989819+00:00"
-    },
-    "e215ba0c82c7d05e": {
-      "title": "西藏活动人士在纽约联合国总部外自焚身亡",
-      "fetched_at": "2026-07-06T02:03:21.616128+00:00"
-    },
-    "d690eea8c3b756cb": {
-      "title": "New secrets from ancient Vesuvius scrolls",
-      "fetched_at": "2026-07-06T02:03:38.518278+00:00"
-    },
-    "c8f7483349393ee4": {
-      "title": "Surveillance Companionship Entertainment: Intelligent Machines Ancient History",
-      "fetched_at": "2026-07-06T02:03:39.138376+00:00"
-    },
-    "11e27d3cfa2d2fb5": {
-      "title": "Scientists may have finally found how Alzheimer's kills brain cells",
-      "fetched_at": "2026-07-06T02:03:39.752481+00:00"
-    },
-    "2ae85bc8fc0f6aef": {
-      "title": "5,000-year-old wolves found on remote island rewrite what we know about domestication",
-      "fetched_at": "2026-07-06T02:03:40.373297+00:00"
-    },
-    "7b8e3524e05aa880": {
-      "title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
-      "fetched_at": "2026-07-06T02:03:40.983763+00:00"
-    },
-    "2dcdbf2a5d916ddd": {
-      "title": "Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago",
-      "fetched_at": "2026-07-06T02:03:41.602173+00:00"
-    },
-    "6aa9fe341339d375": {
-      "title": "Science news this week: Life on Mars, weird water and a curious human cousin",
-      "fetched_at": "2026-07-06T02:03:42.245543+00:00"
-    },
-    "1f83bb023cff2625": {
-      "title": "AI images are more convincing than ever — infiltrating journals and undermining trust in science",
-      "fetched_at": "2026-07-06T02:03:42.901397+00:00"
-    },
-    "eae97d16ef0ef70f": {
-      "title": "How did the Romans build such straight roads?",
-      "fetched_at": "2026-07-06T02:03:43.521288+00:00"
-    },
     "18156f10a9a804d7": {
       "title": "浙江东方：预计上半年净利润8.72亿元，同比增长约114.25%",
       "fetched_at": "2026-07-06T09:52:54.826695+00:00"
@@ -3927,7 +3799,151 @@
     "cc050258b98c047a": {
       "title": "5 'extremely rare' iron shackles discovered in France highlight Celtic slave trade 2,300 years ago",
       "fetched_at": "2026-07-14T01:20:24.043552+00:00"
+    },
+    "4ee9cad40811f60f": {
+      "title": "Learning from experience instead of curated datasets",
+      "fetched_at": "2026-07-14T07:44:30.813763+00:00"
+    },
+    "f93fa5294d31aa28": {
+      "title": "美联邦取消新能源车税收优惠，加州出台地方补贴政策针锋相对",
+      "fetched_at": "2026-07-14T07:44:31.439887+00:00"
+    },
+    "b32985e5fdaedd39": {
+      "title": "中鼎股份在池州成立产业园发展公司，注册资本5000万",
+      "fetched_at": "2026-07-14T07:44:32.110924+00:00"
+    },
+    "9ec24577f7e95e70": {
+      "title": "Show HN: ClaudeThings – your AI engineering and marketing team in one command",
+      "fetched_at": "2026-07-14T07:44:32.736526+00:00"
+    },
+    "672126ec95d7d0a2": {
+      "title": "三星电子据悉初步探讨发行美国存托凭证的可能性",
+      "fetched_at": "2026-07-14T07:44:33.369066+00:00"
+    },
+    "d45deaa6153bab64": {
+      "title": "A股ETF再现大手笔买入，分析称当下点位是大资金认可的点位",
+      "fetched_at": "2026-07-14T07:44:33.986880+00:00"
+    },
+    "a6c94ca679823ef3": {
+      "title": "Slay the Spire 2 Is Choosing \"Shit\" Art over Generative AI",
+      "fetched_at": "2026-07-14T07:44:34.631432+00:00"
+    },
+    "f8856ef11c21b2b0": {
+      "title": "“木头姐”斥资逾2100万美元加仓SpaceX",
+      "fetched_at": "2026-07-14T07:44:35.262886+00:00"
+    },
+    "61f35405ded5efa3": {
+      "title": "小米机器人首次实现汽车工厂柔性工件的长时作业",
+      "fetched_at": "2026-07-14T07:44:35.910096+00:00"
+    },
+    "78f864a57c2452b1": {
+      "title": "A股三大指数集体收涨，算力股大涨",
+      "fetched_at": "2026-07-14T07:44:36.529224+00:00"
+    },
+    "07a118e89a04cddb": {
+      "title": "What Anthropic's latest AI discovery does–and doesn't–show",
+      "fetched_at": "2026-07-14T07:44:37.189630+00:00"
+    },
+    "d77d36cee4a36c9b": {
+      "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
+      "fetched_at": "2026-07-14T07:44:37.804753+00:00"
+    },
+    "8551080bf4887718": {
+      "title": "The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers",
+      "fetched_at": "2026-07-14T07:44:38.449114+00:00"
+    },
+    "259779ddd8cc48be": {
+      "title": "沪深两市成交额突破2.5万亿",
+      "fetched_at": "2026-07-14T07:44:38.449244+00:00"
+    },
+    "5473460cb71bcdb7": {
+      "title": "超威电源集团在新疆成立矿业公司，注册资本5000万",
+      "fetched_at": "2026-07-14T07:44:39.078151+00:00"
+    },
+    "0d07c24f0f58114e": {
+      "title": "Weakening copyright to benefit AI would betray Australian Labor party's ethos",
+      "fetched_at": "2026-07-14T07:44:39.704847+00:00"
+    },
+    "b8f1fe8c08baf1ba": {
+      "title": "沪指拉升涨超1%",
+      "fetched_at": "2026-07-14T07:44:40.358021+00:00"
+    },
+    "5e3dc940cafb4863": {
+      "title": "Show HN: Themis – Self-hosted AI code reviews with your own keys and models",
+      "fetched_at": "2026-07-14T07:44:40.983098+00:00"
+    },
+    "5f2530338b69cabd": {
+      "title": "联讯仪器增资至1.03亿# 增幅约33%",
+      "fetched_at": "2026-07-14T07:44:41.632243+00:00"
+    },
+    "3f96b29cfc956545": {
+      "title": "SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备",
+      "fetched_at": "2026-07-14T07:44:42.245079+00:00"
+    },
+    "1b1d3e7411963ba5": {
+      "title": "馬興瑞被「雙開」：習時代「技術官僚」代表隕落，政治局三名委員落馬",
+      "fetched_at": "2026-07-14T07:44:44.406934+00:00"
+    },
+    "4cd482346cbf4c9b": {
+      "title": "近200名经济学家和科技领袖警告人工智能威胁",
+      "fetched_at": "2026-07-14T07:44:45.056458+00:00"
+    },
+    "e5959b12a1a9ab66": {
+      "title": "世界正在疏远美国，而美国人将为此付出沉重代价",
+      "fetched_at": "2026-07-14T07:44:45.706239+00:00"
+    },
+    "04db56a122725392": {
+      "title": "美伊停火协议破裂，特朗普宣布收取通航“保护费”",
+      "fetched_at": "2026-07-14T07:44:46.332327+00:00"
+    },
+    "348d75da2f93c5d7": {
+      "title": "油价会继续飙升吗？取决于中国的决策",
+      "fetched_at": "2026-07-14T07:44:46.965313+00:00"
+    },
+    "274be745a3ef1655": {
+      "title": "以色列的伊朗政权更迭计划内幕：“策反”强硬派前总统",
+      "fetched_at": "2026-07-14T07:44:47.599905+00:00"
+    },
+    "3358c48cc4ccacd0": {
+      "title": "There's an Ancient Solution to Our Modern Crisis of Attention",
+      "fetched_at": "2026-07-14T07:44:58.578351+00:00"
+    },
+    "91d02b4e49985df4": {
+      "title": "The ancient Roman dodecahedron may not have been Roman [video]",
+      "fetched_at": "2026-07-14T07:44:59.196621+00:00"
+    },
+    "3764b1b89ab6ba11": {
+      "title": "Ongoing changes to Android security patches due to AI vulnerability discovery",
+      "fetched_at": "2026-07-14T07:44:59.823579+00:00"
+    },
+    "ccde970b1c8cf66d": {
+      "title": "This dinosaur fossil captures the final moments of a T. rex attack",
+      "fetched_at": "2026-07-14T07:45:00.442458+00:00"
+    },
+    "31aa9d3c366dbe72": {
+      "title": "Geo‑historical platform reconstructing political entities from 3499 BCE to today",
+      "fetched_at": "2026-07-14T07:45:01.074552+00:00"
+    },
+    "7bc487ca1c045ec6": {
+      "title": "NASA's Perseverance just completed a marathon on Mars",
+      "fetched_at": "2026-07-14T07:45:01.691818+00:00"
+    },
+    "488f26d4f9ef1944": {
+      "title": "NASA selects four new Moon missions to build a permanent lunar base",
+      "fetched_at": "2026-07-14T07:45:02.317952+00:00"
+    },
+    "1479097a882f1654": {
+      "title": "New dark matter theory could solve multiple cosmic mysteries at once",
+      "fetched_at": "2026-07-14T07:45:02.934979+00:00"
+    },
+    "51fe32e763110110": {
+      "title": "Yale scientists found a hidden network inside the eye",
+      "fetched_at": "2026-07-14T07:45:03.564299+00:00"
+    },
+    "1b90b646d1ceabe3": {
+      "title": "Exercise doesn't just strengthen the heart. It rewires it",
+      "fetched_at": "2026-07-14T07:45:04.228939+00:00"
     }
   },
-  "last_updated": "2026-07-14T01:20:24.181301+00:00"
+  "last_updated": "2026-07-14T07:45:04.373919+00:00"
 }
