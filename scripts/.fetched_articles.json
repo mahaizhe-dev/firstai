@@ -1,89 +1,5 @@
 {
   "articles": {
-    "7ff425d2293e6e58": {
-      "title": "Show HN: New Search MCP Using Cloudflare AI Search",
-      "fetched_at": "2026-07-07T14:03:38.194130+00:00"
-    },
-    "6b5abe63e89da419": {
-      "title": "My AI Agents Were Working, but I Had No Visibility",
-      "fetched_at": "2026-07-07T14:03:38.808287+00:00"
-    },
-    "2bb1c3c495b14df8": {
-      "title": "Show HN: Building My Own Public HTML Library for Async Learning",
-      "fetched_at": "2026-07-07T14:03:39.422845+00:00"
-    },
-    "eba7d1f9f279427b": {
-      "title": "Show HN: Savva – Health Superapp powered by on-device AI",
-      "fetched_at": "2026-07-07T14:03:40.033845+00:00"
-    },
-    "4554269a206a7827": {
-      "title": "The AI UGC ad math: $2 a video, and the bill nobody prices in",
-      "fetched_at": "2026-07-07T14:03:40.648525+00:00"
-    },
-    "dbc0c9b9d3692828": {
-      "title": "AI Still Can't Get Mario's Mustache Right",
-      "fetched_at": "2026-07-07T14:03:41.269654+00:00"
-    },
-    "a3d977e8dd9c4a79": {
-      "title": "Observability Design for the AI Era – App, Infra, CI, LLM (Part 1)",
-      "fetched_at": "2026-07-07T14:03:41.869487+00:00"
-    },
-    "6c718baa825ed98b": {
-      "title": "China's DeepSeek developing its own AI chip, sources say",
-      "fetched_at": "2026-07-07T14:03:42.468121+00:00"
-    },
-    "8fa176b0522632f0": {
-      "title": "Show HN: DocFlow – AI documentation updates for GitHub pull requests",
-      "fetched_at": "2026-07-07T14:03:43.079548+00:00"
-    },
-    "3f4ced2b618f2a5f": {
-      "title": "CorvinOS – an agentic OS where GDPR/EU AI Act compliance can't be switched off",
-      "fetched_at": "2026-07-07T14:03:43.729034+00:00"
-    },
-    "9d423c50ed9504cd": {
-      "title": "Most AI Work Can Wait",
-      "fetched_at": "2026-07-07T14:03:44.344921+00:00"
-    },
-    "64bea8184cf06c1d": {
-      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
-      "fetched_at": "2026-07-07T14:03:44.951566+00:00"
-    },
-    "f8759315d69dec72": {
-      "title": "瑞为技术暗盘破发，收盘跌17%｜敲钟时刻",
-      "fetched_at": "2026-07-07T14:03:45.607857+00:00"
-    },
-    "e982052c41894728": {
-      "title": "A visual calculator to estimate and compare LLM API pricing",
-      "fetched_at": "2026-07-07T14:03:46.215605+00:00"
-    },
-    "eebd498247051067": {
-      "title": "Show HN: SigMap – deterministic repo maps for AI coding agents",
-      "fetched_at": "2026-07-07T14:03:46.837340+00:00"
-    },
-    "fd3212ab09e2a68f": {
-      "title": "行云科技：上半年净利润同比预增432.77%—699.15%",
-      "fetched_at": "2026-07-07T14:03:47.446091+00:00"
-    },
-    "16a9be94684c32dd": {
-      "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
-      "fetched_at": "2026-07-07T14:03:48.055351+00:00"
-    },
-    "17f233a264232c9e": {
-      "title": "Amazon Returns to US Bond Market to Fund AI Infrastructure Build",
-      "fetched_at": "2026-07-07T14:03:48.671270+00:00"
-    },
-    "ffbd52b364dce194": {
-      "title": "热门中概股美股盘前普跌，阿里巴巴跌超1%",
-      "fetched_at": "2026-07-07T14:03:49.289344+00:00"
-    },
-    "2f28d2ba402bd57a": {
-      "title": "美股大型科技股盘前涨跌不一，英特尔跌超3%",
-      "fetched_at": "2026-07-07T14:03:49.927382+00:00"
-    },
-    "449952bc80b7752d": {
-      "title": "中國能複製電動車成功經驗到「機器人的士」嗎?",
-      "fetched_at": "2026-07-07T14:03:52.743333+00:00"
-    },
     "c68167f1c1fbbfe9": {
       "title": "Show HN: Q a REPL for LLM inside the terminal",
       "fetched_at": "2026-07-07T19:38:34.428766+00:00"
@@ -3935,7 +3851,135 @@
     "837ab5a33fbd0a11": {
       "title": "Heart issues tied to 'microdamage' in the brain might raise risk of memory loss, study hints",
       "fetched_at": "2026-07-15T13:08:10.922122+00:00"
+    },
+    "a1fcd8e07a8475af": {
+      "title": "Three governments agree on something the AI industry doesn't want to hear",
+      "fetched_at": "2026-07-15T18:52:51.069591+00:00"
+    },
+    "a0bfc514d5a85ef3": {
+      "title": "LHIC – A local-first browser agent with 30ms latency and $0 LLM cost",
+      "fetched_at": "2026-07-15T18:52:51.692956+00:00"
+    },
+    "768df75950d6e41a": {
+      "title": "Show HN: AI Workflow Builder App Template for React",
+      "fetched_at": "2026-07-15T18:52:52.338351+00:00"
+    },
+    "a9a6b5a8af4a448c": {
+      "title": "Archer Announces Zee, AI Foundation Model Purpose-Built for Aviation",
+      "fetched_at": "2026-07-15T18:52:52.962224+00:00"
+    },
+    "e3c9fb49c5957606": {
+      "title": "Ask HN: Are the heaviest AI users of your team blowing past everyone else?",
+      "fetched_at": "2026-07-15T18:52:53.593354+00:00"
+    },
+    "a871be02638e0881": {
+      "title": "Show HN: Benchmarklist: track AI benchmarks (2.4k+), models, and capabilities",
+      "fetched_at": "2026-07-15T18:52:54.217882+00:00"
+    },
+    "c437e3288568fccd": {
+      "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+      "fetched_at": "2026-07-15T18:52:54.862876+00:00"
+    },
+    "28df13ab629d8399": {
+      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+      "fetched_at": "2026-07-15T18:52:55.495205+00:00"
+    },
+    "11101641a9618b10": {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "fetched_at": "2026-07-15T18:52:56.138643+00:00"
+    },
+    "11f9ccc296af5107": {
+      "title": "IBM Power S1112 Brings Local AI Inference to the Edge as Power Goes Autonomous",
+      "fetched_at": "2026-07-15T18:52:56.766789+00:00"
+    },
+    "8c21eb32b7b7d796": {
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "fetched_at": "2026-07-15T18:52:57.409263+00:00"
+    },
+    "36759b7094db6378": {
+      "title": "Codex Micro – a compact hardware controller for AI agents",
+      "fetched_at": "2026-07-15T18:52:58.030414+00:00"
+    },
+    "a097a87cb4d64816": {
+      "title": "GPT‑Red: Unlocking Self-Improvement for Robustness",
+      "fetched_at": "2026-07-15T18:52:58.662160+00:00"
+    },
+    "4bd2f7a3adbc6357": {
+      "title": "Show HN: Stemning AI",
+      "fetched_at": "2026-07-15T18:52:59.296437+00:00"
+    },
+    "263a28bcb7193dfb": {
+      "title": "Building secure AI agents at scale: Introducing Loom for AWS",
+      "fetched_at": "2026-07-15T18:52:59.926737+00:00"
+    },
+    "a4435e70f634dade": {
+      "title": "Bothread – a local room where AI coding agents collaborate and communicate.",
+      "fetched_at": "2026-07-15T18:53:00.545841+00:00"
+    },
+    "dcff99c162e12338": {
+      "title": "IBM Vice Chairman: Our software is not being disrupted by AI",
+      "fetched_at": "2026-07-15T18:53:01.168061+00:00"
+    },
+    "8355a8663186aaff": {
+      "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\"",
+      "fetched_at": "2026-07-15T18:53:01.168198+00:00"
+    },
+    "5fac1cc7d465d215": {
+      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
+      "fetched_at": "2026-07-15T18:53:01.808662+00:00"
+    },
+    "90205f168068062a": {
+      "title": "Show HN: Painterly – Turn pictures into digital paintings without generative AI",
+      "fetched_at": "2026-07-15T18:53:02.442603+00:00"
+    },
+    "8b448e0fdcf87d43": {
+      "title": "特朗普輸了「出生公民權」官司 但未來孕婦入境美國是否更難?",
+      "fetched_at": "2026-07-15T18:53:05.588834+00:00"
+    },
+    "f8d1e313459b1155": {
+      "title": "特朗普干預風波引發歐洲反彈，為什麼因凡蒂諾毫不擔心？",
+      "fetched_at": "2026-07-15T18:53:06.201441+00:00"
+    },
+    "1aec0ec14af809ff": {
+      "title": "中國試射導彈 美國質疑暗擴核武庫 澳洲斥挑釁",
+      "fetched_at": "2026-07-15T18:53:06.813008+00:00"
+    },
+    "95c2a2c3f5e5df3b": {
+      "title": "Robot dog can climb stairs, navigate a forest and bound over logs thanks to new, rapid AI training technique",
+      "fetched_at": "2026-07-15T18:53:09.083600+00:00"
+    },
+    "c4dd1b528b6ee586": {
+      "title": "Orange-lipped monkey that roars and snorts deep in Congo rainforest is new species to science",
+      "fetched_at": "2026-07-15T18:53:09.706940+00:00"
+    },
+    "6af29f60e8bbcb05": {
+      "title": "'Smaller than the tiniest scale in nature': Physicists made a black hole out of light and used it to test Stephen Hawking's elusive radiation theory",
+      "fetched_at": "2026-07-15T18:53:10.332572+00:00"
+    },
+    "084513270b3c6616": {
+      "title": "We tested Canon’s $10,000 wildlife zoom — can it replace a prime lens?",
+      "fetched_at": "2026-07-15T18:53:10.963155+00:00"
+    },
+    "172cbe9219a7503c": {
+      "title": "Show HN: One MCP setup for 22 clients, with lazy tool discovery",
+      "fetched_at": "2026-07-15T18:53:11.592754+00:00"
+    },
+    "da3c8e6c39d09156": {
+      "title": "This pet gecko could help scientists unlock the secrets of cancer",
+      "fetched_at": "2026-07-15T18:53:12.222375+00:00"
+    },
+    "ea97649ea8073f29": {
+      "title": "Archaeologists found Homer's Iliad inside a 1,600-year-old Egyptian mummy",
+      "fetched_at": "2026-07-15T18:53:12.840263+00:00"
+    },
+    "a0357f8705683550": {
+      "title": "Are humans really the ultimate super-predator?",
+      "fetched_at": "2026-07-15T18:53:13.457714+00:00"
+    },
+    "3248ef18a1fd4a82": {
+      "title": "AI just supercharged the race to find room temperature superconductors",
+      "fetched_at": "2026-07-15T18:53:14.104422+00:00"
     }
   },
-  "last_updated": "2026-07-15T13:08:11.038495+00:00"
+  "last_updated": "2026-07-15T18:53:14.255284+00:00"
 }
