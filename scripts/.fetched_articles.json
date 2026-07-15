@@ -1,137 +1,5 @@
 {
   "articles": {
-    "b44c127241f64319": {
-      "title": "拼多多紧急捐赠1000万元，驰援广西防汛救灾",
-      "fetched_at": "2026-07-07T09:21:17.338085+00:00"
-    },
-    "e7b8b2c53a0f610f": {
-      "title": "华能集团在黑龙江成立新公司，注册资本1亿",
-      "fetched_at": "2026-07-07T09:21:17.941773+00:00"
-    },
-    "f94b8d59e2901371": {
-      "title": "国务院批复同意《旅游强国建设“十五五”规划》",
-      "fetched_at": "2026-07-07T09:21:18.542121+00:00"
-    },
-    "c44c82911e73295e": {
-      "title": "汇宇制药：获政府补助500万元，占最近一个会计年度净利润20.03%",
-      "fetched_at": "2026-07-07T09:21:19.157211+00:00"
-    },
-    "b00d82c07300d08f": {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "fetched_at": "2026-07-07T09:21:19.788073+00:00"
-    },
-    "8cc98ecd5db36045": {
-      "title": "科大讯飞公布人机交互口音控制专利",
-      "fetched_at": "2026-07-07T09:21:20.386211+00:00"
-    },
-    "5cb0ff2d8b93e45e": {
-      "title": "山东钢铁：副总经理郭伟达拟不低于30万元增持公司股份",
-      "fetched_at": "2026-07-07T09:21:21.011757+00:00"
-    },
-    "90a88451075729c8": {
-      "title": "中远海控在海南成立新公司， 注册资本3亿",
-      "fetched_at": "2026-07-07T09:21:21.623704+00:00"
-    },
-    "386e8bcff780d87a": {
-      "title": "We're Living Through the AI Utopia and Can't See It",
-      "fetched_at": "2026-07-07T09:21:22.220002+00:00"
-    },
-    "5fe9437e368f1476": {
-      "title": "Show HN: Access-aware text-to-SQL – stop LLM agents overfetching data",
-      "fetched_at": "2026-07-07T09:21:22.823367+00:00"
-    },
-    "9f796cf24e8c5e9f": {
-      "title": "南航通航等在湖南成立低空科技公司，注册资本1亿",
-      "fetched_at": "2026-07-07T09:21:23.424320+00:00"
-    },
-    "daa34c41c9bf0ef1": {
-      "title": "动力源：筹划控制权变更事项，股票继续停牌",
-      "fetched_at": "2026-07-07T09:21:24.026056+00:00"
-    },
-    "87b7a33e2919d4e9": {
-      "title": "YC CEO says he ships 37K LoC/day AI code. A developer looked under the hood",
-      "fetched_at": "2026-07-07T09:21:24.630195+00:00"
-    },
-    "77b139488b56ce20": {
-      "title": "光库科技：上半年净利润同比预增170%—190%",
-      "fetched_at": "2026-07-07T09:21:25.227293+00:00"
-    },
-    "ddd3892fc0f5e569": {
-      "title": "Show HN: Shadow Web – Cut 64–97% of web page tokens for LLM agents",
-      "fetched_at": "2026-07-07T09:21:25.831446+00:00"
-    },
-    "b067d15a49c6f382": {
-      "title": "The first AI safety letter was sent in 1949",
-      "fetched_at": "2026-07-07T09:21:26.443761+00:00"
-    },
-    "5d482395f7925cde": {
-      "title": "上市前夜｜套现十几亿后，他把矿卡开向港股",
-      "fetched_at": "2026-07-07T09:21:27.042794+00:00"
-    },
-    "ba65227e82c82062": {
-      "title": "正虹科技：6月生猪销售收入757.42万元，同比下降81.68%",
-      "fetched_at": "2026-07-07T09:21:27.669126+00:00"
-    },
-    "8f30ebd36172ff47": {
-      "title": "网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言",
-      "fetched_at": "2026-07-07T09:21:28.291840+00:00"
-    },
-    "51ef59b203e48993": {
-      "title": "高域科技在广州成立通用航空公司，注册资本1000万",
-      "fetched_at": "2026-07-07T09:21:28.885905+00:00"
-    },
-    "8b448e0fdcf87d43": {
-      "title": "特朗普輸了「出生公民權」官司 但未來孕婦入境美國是否更難?",
-      "fetched_at": "2026-07-07T09:21:31.585240+00:00"
-    },
-    "57f8ba6d3b33194f": {
-      "title": "中國來的拖網漁船讓這群非洲漁民叫苦連天",
-      "fetched_at": "2026-07-07T09:21:32.190462+00:00"
-    },
-    "05ff9d0a746690f3": {
-      "title": "AI晶片需求飆升，三星獲利暴增1800%",
-      "fetched_at": "2026-07-07T09:21:32.805437+00:00"
-    },
-    "f8d1e313459b1155": {
-      "title": "特朗普干預風波引發歐洲反彈，為什麼因凡蒂諾毫不擔心？",
-      "fetched_at": "2026-07-07T09:21:33.401988+00:00"
-    },
-    "1aec0ec14af809ff": {
-      "title": "中國試射導彈 美國質疑暗擴核武庫 澳洲斥挑釁",
-      "fetched_at": "2026-07-07T09:21:34.001008+00:00"
-    },
-    "0e51487f6df91d62": {
-      "title": "特朗普介入世界杯红牌，美欧关系阴云再现",
-      "fetched_at": "2026-07-07T09:21:34.611084+00:00"
-    },
-    "c8571330ff6f57c8": {
-      "title": "美国AI公司指责中国竞争对手非法蒸馏其技术",
-      "fetched_at": "2026-07-07T09:21:35.222238+00:00"
-    },
-    "17a10e020ffbd218": {
-      "title": "阿里巴巴人工智能模型备受欢迎，但难以变现",
-      "fetched_at": "2026-07-07T09:21:35.819897+00:00"
-    },
-    "3e0caf00662d044b": {
-      "title": "“中式梦核”：中国Z时代为何怀恋2000年代？",
-      "fetched_at": "2026-07-07T09:21:36.432039+00:00"
-    },
-    "229a39b30807fcaa": {
-      "title": "台风“美莎克”引发洪灾，广西横州两座水库决堤",
-      "fetched_at": "2026-07-07T09:21:37.031957+00:00"
-    },
-    "15e07bd152aeea8d": {
-      "title": "蘑菇有多健康？",
-      "fetched_at": "2026-07-07T09:21:37.633916+00:00"
-    },
-    "816b6884d0bccc90": {
-      "title": "Colorful 'painting-like' ripples cover an ancient seafloor structure the Bahamas — Earth from space",
-      "fetched_at": "2026-07-07T09:21:39.417110+00:00"
-    },
-    "3248ef18a1fd4a82": {
-      "title": "AI just supercharged the race to find room temperature superconductors",
-      "fetched_at": "2026-07-07T09:21:40.025981+00:00"
-    },
     "7ff425d2293e6e58": {
       "title": "Show HN: New Search MCP Using Cloudflare AI Search",
       "fetched_at": "2026-07-07T14:03:38.194130+00:00"
@@ -3951,7 +3819,123 @@
     "555b9c34d8d659d1": {
       "title": "Diagnostic dilemma: Huge mass in woman's stomach was likely caused by Ozempic-style drug — and dissolved with diet soda",
       "fetched_at": "2026-07-15T07:48:59.232368+00:00"
+    },
+    "ddcde132d15a250a": {
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "fetched_at": "2026-07-15T13:07:47.498926+00:00"
+    },
+    "1d94042c48a3758d": {
+      "title": "We 3.5x'd Our Pull Requests with AI: Now We Catch Fewer Bugs",
+      "fetched_at": "2026-07-15T13:07:48.087370+00:00"
+    },
+    "f2df98168d156821": {
+      "title": "斯凯奇终身代言人哈里·凯恩率英格兰半决赛迎战阿根廷",
+      "fetched_at": "2026-07-15T13:07:48.702653+00:00"
+    },
+    "0923483f7e85f6a7": {
+      "title": "热门中概股美股盘前普涨，阿里巴巴涨超4%",
+      "fetched_at": "2026-07-15T13:07:49.301726+00:00"
+    },
+    "e25a9d010460ff8f": {
+      "title": "美股大型科技股盘前多数上涨，英特尔涨超2%",
+      "fetched_at": "2026-07-15T13:07:49.914432+00:00"
+    },
+    "ed6086c5314b07b7": {
+      "title": "Nova. A seed for growing an AI collaborator. The pattern, not the person",
+      "fetched_at": "2026-07-15T13:07:50.528611+00:00"
+    },
+    "a5952b746392458c": {
+      "title": "巴菲特说将捐出1400亿美元股票",
+      "fetched_at": "2026-07-15T13:07:51.161687+00:00"
+    },
+    "220fc19a9dfa72ca": {
+      "title": "Sabot in the age of AI: A list of offensive methods and strategic approaches ...",
+      "fetched_at": "2026-07-15T13:07:51.760152+00:00"
+    },
+    "2821ba3f44ca2859": {
+      "title": "I trolled my AI interviewer",
+      "fetched_at": "2026-07-15T13:07:52.364975+00:00"
+    },
+    "73ac7257e2efc0bc": {
+      "title": "三星电子拟将谷歌TPU I/O芯片后端设计工作外包",
+      "fetched_at": "2026-07-15T13:07:53.031804+00:00"
+    },
+    "61355a4cf03cca79": {
+      "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\"",
+      "fetched_at": "2026-07-15T13:07:53.629742+00:00"
+    },
+    "63e95dd1cb5191ab": {
+      "title": "Gorai – a go-based robotics framework for the AI era",
+      "fetched_at": "2026-07-15T13:07:54.250035+00:00"
+    },
+    "b8dc50a89dcda8b4": {
+      "title": "Show HN: PortalJS – AI-native, open-source framework for data portals",
+      "fetched_at": "2026-07-15T13:07:54.838364+00:00"
+    },
+    "670828e81a1301f4": {
+      "title": "美国6月PPI同比升5.5%",
+      "fetched_at": "2026-07-15T13:07:55.453217+00:00"
+    },
+    "dcde7563a4368446": {
+      "title": "银行理财“信披明牌”不止指数基准，有机构尝试展现理财产品最大回撤",
+      "fetched_at": "2026-07-15T13:07:56.072047+00:00"
+    },
+    "259b8ed3e102be83": {
+      "title": "NetApp与甲骨文合作推出全托管云存储服务",
+      "fetched_at": "2026-07-15T13:07:56.672582+00:00"
+    },
+    "25a54460564ec1a0": {
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "fetched_at": "2026-07-15T13:07:57.268556+00:00"
+    },
+    "b5506969da84c2dc": {
+      "title": "GPT-5.6-terra used 48.5% more context than Mimo-2.5-pro",
+      "fetched_at": "2026-07-15T13:07:57.874682+00:00"
+    },
+    "da6e2a8c173ab351": {
+      "title": "Build an AI Price Quote Phone Agent Real-Time Custom Quotes with Telnyx Voice AI",
+      "fetched_at": "2026-07-15T13:07:58.469259+00:00"
+    },
+    "0dbc72eeb60cbc94": {
+      "title": "华润双鹤：参与竞买利尔化学1.88亿股股份的事项",
+      "fetched_at": "2026-07-15T13:07:59.073583+00:00"
+    },
+    "4b06d47cffd9be3a": {
+      "title": "曾研究朝鮮核試驗，地震學家陳友麟遭中國拘留",
+      "fetched_at": "2026-07-15T13:08:02.843655+00:00"
+    },
+    "04d84bfd3c2f7f7b": {
+      "title": "「補水暫停」有沒有令世界盃出現更多入球？",
+      "fetched_at": "2026-07-15T13:08:03.442452+00:00"
+    },
+    "1c3ecfc84442a517": {
+      "title": "涉嫌掌控中美芬太尼供應鏈的中國毒梟「王哥」是誰？",
+      "fetched_at": "2026-07-15T13:08:04.053927+00:00"
+    },
+    "0ce3c1a1755e4b7a": {
+      "title": "醫療廢物還是神奇療法？為什麼有人會走私人類胎盤？",
+      "fetched_at": "2026-07-15T13:08:04.670891+00:00"
+    },
+    "f8af82580bfcb66f": {
+      "title": "Diagnostic dilemma: Junk-food diet caused a teen's permanent blindness",
+      "fetched_at": "2026-07-15T13:08:08.504218+00:00"
+    },
+    "b0ef25b39e07b4e1": {
+      "title": "Tobacco companies are pushing nicotine pouches on teens — and we need to act now to stop them",
+      "fetched_at": "2026-07-15T13:08:09.140797+00:00"
+    },
+    "c81c046054108a12": {
+      "title": "Scientists just created the most lifelike cell ever made in a lab — here's what it could accomplish",
+      "fetched_at": "2026-07-15T13:08:09.743083+00:00"
+    },
+    "4fc06eb3d1720d1f": {
+      "title": "Neanderthals and modern humans may have shared culture 59,000 years ago in Turkey, study finds",
+      "fetched_at": "2026-07-15T13:08:10.331171+00:00"
+    },
+    "837ab5a33fbd0a11": {
+      "title": "Heart issues tied to 'microdamage' in the brain might raise risk of memory loss, study hints",
+      "fetched_at": "2026-07-15T13:08:10.922122+00:00"
     }
   },
-  "last_updated": "2026-07-15T07:48:59.379649+00:00"
+  "last_updated": "2026-07-15T13:08:11.038495+00:00"
 }
