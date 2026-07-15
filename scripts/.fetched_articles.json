@@ -1,129 +1,5 @@
 {
   "articles": {
-    "47c47fd6536944b4": {
-      "title": "Decomposer: Learning to Decompile Symbolic Music (Like MIDI) to Programs",
-      "fetched_at": "2026-07-07T01:59:11.578688+00:00"
-    },
-    "80242cfc849141c6": {
-      "title": "Pi (Rust): High-performance AI coding agent CLI written in Rust",
-      "fetched_at": "2026-07-07T01:59:12.166418+00:00"
-    },
-    "07a706ba889724e0": {
-      "title": "现代汽车与韩国政府就电动汽车充电基础设施签署谅解备忘录",
-      "fetched_at": "2026-07-07T01:59:12.750782+00:00"
-    },
-    "03814b42ed15c854": {
-      "title": "Stet – a Markdown editor where every AI edit needs your sign-off",
-      "fetched_at": "2026-07-07T01:59:13.331126+00:00"
-    },
-    "6ca97cad9f6c6c74": {
-      "title": "Millfolio – my take on local/hybrid AI",
-      "fetched_at": "2026-07-07T01:59:13.908436+00:00"
-    },
-    "92cab297cbfddb7e": {
-      "title": "潘功胜：香港可以抓住有利时机，吸引更多主权财富和国际企业到港发债融资",
-      "fetched_at": "2026-07-07T01:59:14.486082+00:00"
-    },
-    "1dc33fad6b699f74": {
-      "title": "How Much Is AI Manipulating Us?",
-      "fetched_at": "2026-07-07T01:59:15.064845+00:00"
-    },
-    "117bdba1ce4e55c8": {
-      "title": "恒生科技指数涨幅扩大至1%",
-      "fetched_at": "2026-07-07T01:59:15.641165+00:00"
-    },
-    "7cf99f0b4af16610": {
-      "title": "New Realtime models (GPT-realtime-2.1 and GPT-realtime-2.1-mini) on the API",
-      "fetched_at": "2026-07-07T01:59:16.221756+00:00"
-    },
-    "bac5a491b8f42428": {
-      "title": "A股三大指数集体低开，半导体板块走弱",
-      "fetched_at": "2026-07-07T01:59:16.792124+00:00"
-    },
-    "b53acc144f3edd4e": {
-      "title": "央行今日开展100亿元7天逆回购操作",
-      "fetched_at": "2026-07-07T01:59:17.409100+00:00"
-    },
-    "9c75e68d5c438299": {
-      "title": "恒指开盘跌0.2%，恒生科技指数跌0.37%",
-      "fetched_at": "2026-07-07T01:59:17.985311+00:00"
-    },
-    "c70c9ddc2494c93b": {
-      "title": "人民币兑美元中间价报6.8054",
-      "fetched_at": "2026-07-07T01:59:18.561525+00:00"
-    },
-    "0fd061d7e879b6e1": {
-      "title": "MSCI拟缩短部分警示板股票监测期，以减少指数纳入限制",
-      "fetched_at": "2026-07-07T01:59:19.141754+00:00"
-    },
-    "56b98bcff2fe78af": {
-      "title": "Meta Tests Pocket, an Experimental App for AI-Generated Mini-Games",
-      "fetched_at": "2026-07-07T01:59:19.720842+00:00"
-    },
-    "3e886a76bd167c3a": {
-      "title": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
-      "fetched_at": "2026-07-07T01:59:20.303645+00:00"
-    },
-    "c4eeaac6565c0fe0": {
-      "title": "玻色量子启动IPO辅导",
-      "fetched_at": "2026-07-07T01:59:20.877620+00:00"
-    },
-    "3220d60a200a164a": {
-      "title": "现货白银日内跌幅扩大至1%",
-      "fetched_at": "2026-07-07T01:59:20.877764+00:00"
-    },
-    "d6bdca5e719b28f9": {
-      "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
-      "fetched_at": "2026-07-07T01:59:21.462749+00:00"
-    },
-    "dc413a2fd56e7537": {
-      "title": "LG新能源预计第二季度营业利润将因电动汽车需求疲软而下降77%",
-      "fetched_at": "2026-07-07T01:59:22.040573+00:00"
-    },
-    "3f1b03718988da7e": {
-      "title": "这家曾由胡锦涛之子领导的公司会引发中欧贸易战吗？",
-      "fetched_at": "2026-07-07T01:59:24.215836+00:00"
-    },
-    "82099fcc9c462b23": {
-      "title": "香港諮詢性罪行法律改革，能給受害者帶來足夠保障嗎？",
-      "fetched_at": "2026-07-07T01:59:24.816075+00:00"
-    },
-    "2192853066a334e6": {
-      "title": "矢板明夫台灣遇襲：香港人嫌犯、「打帶跑」模式與跨境鎮壓憂慮",
-      "fetched_at": "2026-07-07T01:59:25.394367+00:00"
-    },
-    "c81c046054108a12": {
-      "title": "Scientists just created the most lifelike cell ever made in a lab — here's what it could accomplish",
-      "fetched_at": "2026-07-07T01:59:27.429313+00:00"
-    },
-    "4fc06eb3d1720d1f": {
-      "title": "Neanderthals and modern humans may have shared culture 59,000 years ago in Turkey, study finds",
-      "fetched_at": "2026-07-07T01:59:28.006591+00:00"
-    },
-    "837ab5a33fbd0a11": {
-      "title": "Heart issues tied to 'microdamage' in the brain might raise risk of memory loss, study hints",
-      "fetched_at": "2026-07-07T01:59:28.584390+00:00"
-    },
-    "56da66673d0a05cd": {
-      "title": "Golden Horde Structure Discovered in Kazakhstan",
-      "fetched_at": "2026-07-07T01:59:29.152452+00:00"
-    },
-    "db340729a8f90ac9": {
-      "title": "Periodontal Disease May Have Influenced Human Evolution",
-      "fetched_at": "2026-07-07T01:59:29.719442+00:00"
-    },
-    "902b72c221758516": {
-      "title": "Our brains aren't wired to handle this much bad news. But 'looking away is not the fix,' expert says.",
-      "fetched_at": "2026-07-07T01:59:30.338997+00:00"
-    },
-    "ae3a811669370356": {
-      "title": "James Webb uncovers exotic salt clouds on a mysterious pink world",
-      "fetched_at": "2026-07-07T01:59:30.916215+00:00"
-    },
-    "2ff617b980c8a761": {
-      "title": "'The fate of Earth depends on a delicate balance': Our planet may survive the death of the sun after all, new models hint",
-      "fetched_at": "2026-07-07T01:59:31.490086+00:00"
-    },
     "b44c127241f64319": {
       "title": "拼多多紧急捐赠1000万元，驰援广西防汛救灾",
       "fetched_at": "2026-07-07T09:21:17.338085+00:00"
@@ -3935,7 +3811,147 @@
     "f1c2e5ea1194edc5": {
       "title": "James Webb telescope's largest-ever map of the universe unmasks hidden corners",
       "fetched_at": "2026-07-15T01:17:40.175374+00:00"
+    },
+    "fabf1d9bd5da82a7": {
+      "title": "央行：预计人民币汇率将双向波动",
+      "fetched_at": "2026-07-15T07:48:24.309387+00:00"
+    },
+    "4767a9036832abd4": {
+      "title": "雅江集团接手长江三峡集团旗下公司",
+      "fetched_at": "2026-07-15T07:48:24.899524+00:00"
+    },
+    "2fc58f47e84737dc": {
+      "title": "Show HN: PixFinder – Free offline AI+OCR Image Search",
+      "fetched_at": "2026-07-15T07:48:25.500446+00:00"
+    },
+    "2a670282c00531b3": {
+      "title": "央行：现阶段7天期逆回购利率还是主要政策利率",
+      "fetched_at": "2026-07-15T07:48:26.094995+00:00"
+    },
+    "1d9df00bfb92335b": {
+      "title": "AI eating software: IBM crash",
+      "fetched_at": "2026-07-15T07:48:26.683499+00:00"
+    },
+    "fe7c43ff77d0748e": {
+      "title": "Decibri – unified audio layer for AI agents and Voice AI applications",
+      "fetched_at": "2026-07-15T07:48:27.269237+00:00"
+    },
+    "97b1504951eb0bda": {
+      "title": "央行：不宜根据单次公开市场操作量多少判断央行政策取向",
+      "fetched_at": "2026-07-15T07:48:27.847396+00:00"
+    },
+    "39073415fac39344": {
+      "title": "三星电子推出新款990固态硬盘",
+      "fetched_at": "2026-07-15T07:48:28.460676+00:00"
+    },
+    "4c790d9b9a2dc567": {
+      "title": "央行：加大逆周期和跨周期调节力度，巩固拓展经济稳中向好势头",
+      "fetched_at": "2026-07-15T07:48:29.031773+00:00"
+    },
+    "1f34c62b96e60745": {
+      "title": "央行：上半年人民币存款增加17.76万亿元",
+      "fetched_at": "2026-07-15T07:48:29.681211+00:00"
+    },
+    "8fb0ba6eacf02601": {
+      "title": "央行：6月末广义货币（M2）余额356.71万亿元，同比增长8%",
+      "fetched_at": "2026-07-15T07:48:30.262981+00:00"
+    },
+    "fbdfa08a6ef227cf": {
+      "title": "央行：6月末M2同比增长8%，继续高于名义GDP增速",
+      "fetched_at": "2026-07-15T07:48:30.848890+00:00"
+    },
+    "af9b999aa2804219": {
+      "title": "At last, a good reason to buy an AI PC: Reining in runaway token bills",
+      "fetched_at": "2026-07-15T07:48:31.455732+00:00"
+    },
+    "8d283e61e85372f8": {
+      "title": "日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+      "fetched_at": "2026-07-15T07:48:32.045953+00:00"
+    },
+    "614532ebadf36722": {
+      "title": "Show HN: A free tool that turns any AI topic into an interactive, cited lesson",
+      "fetched_at": "2026-07-15T07:48:32.630974+00:00"
+    },
+    "410332bc757359af": {
+      "title": "Australia to establish government AI office, curb data centres' water use",
+      "fetched_at": "2026-07-15T07:48:33.213584+00:00"
+    },
+    "a35b13fe7386d6e5": {
+      "title": "A股三大指数集体收跌，白酒股走强",
+      "fetched_at": "2026-07-15T07:48:33.823661+00:00"
+    },
+    "be7a63fa05815abb": {
+      "title": "Australia proposes AI rules for data centres and rejects copyright carve-out",
+      "fetched_at": "2026-07-15T07:48:34.440905+00:00"
+    },
+    "1de270d1997ddeab": {
+      "title": "美团、青桔、哈啰共享单车调价",
+      "fetched_at": "2026-07-15T07:48:35.068682+00:00"
+    },
+    "1d01ceeb913aaaa4": {
+      "title": "瓜子二手车线下直卖场首店今日正式开业",
+      "fetched_at": "2026-07-15T07:48:35.664881+00:00"
+    },
+    "eb01a6e0fca4619c": {
+      "title": "中國以間諜罪嫌拘留研究朝鮮核試驗的地震學家陳友麟",
+      "fetched_at": "2026-07-15T07:48:38.397674+00:00"
+    },
+    "4287de0223e64917": {
+      "title": "中國經濟增長放緩至4.3%，創2022年底以來最低",
+      "fetched_at": "2026-07-15T07:48:38.979711+00:00"
+    },
+    "cb057013b9c0b2ea": {
+      "title": "在伊朗，特朗普遇上了不肯屈服的对手",
+      "fetched_at": "2026-07-15T07:48:39.573275+00:00"
+    },
+    "e4d152ea6d87cfc4": {
+      "title": "「來月經讓我的ADHD更厲害了」",
+      "fetched_at": "2026-07-15T07:48:40.170582+00:00"
+    },
+    "4ce865c37152b6ff": {
+      "title": "世界杯梗王：“玩抽象”的哈兰德如何俘获中国球迷的心",
+      "fetched_at": "2026-07-15T07:48:40.748902+00:00"
+    },
+    "597d105d5b47e0c3": {
+      "title": "霸王龍創下史上最昂貴恐龍標本拍賣紀錄",
+      "fetched_at": "2026-07-15T07:48:41.334833+00:00"
+    },
+    "67cbe1da0d1aaf29": {
+      "title": "时报驻华记者王月眉讲述被中国驱逐始末",
+      "fetched_at": "2026-07-15T07:48:41.910900+00:00"
+    },
+    "313a627ca71c3203": {
+      "title": "特朗普“货币化”霍尔木兹海峡引发新风险",
+      "fetched_at": "2026-07-15T07:48:42.497613+00:00"
+    },
+    "8fd5bcbb6b2a20f4": {
+      "title": "中国二季度GDP同比增长4.3%，增速创三年新低",
+      "fetched_at": "2026-07-15T07:48:43.082245+00:00"
+    },
+    "aa388d29b38a1159": {
+      "title": "韩国公司向特朗普付款200万美元，曾接受贸易调查",
+      "fetched_at": "2026-07-15T07:48:43.674073+00:00"
+    },
+    "0778e5cd4e273e85": {
+      "title": "「不出去，這一輩子心都不甘」：中國異見人士董廣平跨海記",
+      "fetched_at": "2026-07-15T07:48:44.271545+00:00"
+    },
+    "42974ba6f291d76d": {
+      "title": "Astronomers just found four hidden white dwarf stars near Earth",
+      "fetched_at": "2026-07-15T07:48:57.420357+00:00"
+    },
+    "78ebae75661b1c33": {
+      "title": "Scientists finally solved why some frogs survive a deadly fungus",
+      "fetched_at": "2026-07-15T07:48:58.039158+00:00"
+    },
+    "9bb1b50ca1b9dda1": {
+      "title": "Why have humans collected crystals for 780,000 years? Chimpanzees may hold the answer",
+      "fetched_at": "2026-07-15T07:48:58.649317+00:00"
+    },
+    "555b9c34d8d659d1": {
+      "title": "Diagnostic dilemma: Huge mass in woman's stomach was likely caused by Ozempic-style drug — and dissolved with diet soda",
+      "fetched_at": "2026-07-15T07:48:59.232368+00:00"
     }
   },
-  "last_updated": "2026-07-15T01:17:40.268018+00:00"
+  "last_updated": "2026-07-15T07:48:59.379649+00:00"
 }
