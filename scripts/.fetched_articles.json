@@ -1,117 +1,5 @@
 {
   "articles": {
-    "01ddaa70fdada500": {
-      "title": "AI agents accessing production database",
-      "fetched_at": "2026-07-08T13:27:49.604655+00:00"
-    },
-    "daaa3d1a0e08bb96": {
-      "title": "Ask HN: Why aren't we collaborating on the prompts we give to our AI agents?",
-      "fetched_at": "2026-07-08T13:27:50.236093+00:00"
-    },
-    "43ab32e72e30d7d3": {
-      "title": "I had 25 AI agents try to kill 25 startup ideas. They killed 22",
-      "fetched_at": "2026-07-08T13:27:50.849965+00:00"
-    },
-    "078506c1a3ff20e0": {
-      "title": "Show HN: AIfunc – Call AI as a function, not as an agent",
-      "fetched_at": "2026-07-08T13:27:51.478241+00:00"
-    },
-    "c972e2fb75390640": {
-      "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
-      "fetched_at": "2026-07-08T13:27:52.104913+00:00"
-    },
-    "af5e919d36c01084": {
-      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images–Unless You Opt Out",
-      "fetched_at": "2026-07-08T13:27:52.718639+00:00"
-    },
-    "5126ebfbe93b704c": {
-      "title": "AI – five stages of accepting the inevitable",
-      "fetched_at": "2026-07-08T13:27:53.330822+00:00"
-    },
-    "a60b5cb7ad4e96e0": {
-      "title": "亚马逊秘密推进Alexa“智能体”计划，成本高昂引发内部担忧",
-      "fetched_at": "2026-07-08T13:27:53.946530+00:00"
-    },
-    "41f5bb9322db597d": {
-      "title": "热门中概股美股盘前多数上涨，阿里巴巴涨超8%",
-      "fetched_at": "2026-07-08T13:27:54.569093+00:00"
-    },
-    "f3acd80c593abdb4": {
-      "title": "美股大型科技股盘前跌多涨少，SpaceX涨超1%",
-      "fetched_at": "2026-07-08T13:27:55.186176+00:00"
-    },
-    "9f0608a9eb73e8b7": {
-      "title": "Cinchor – Control what an AI agent can do, and prove what it did",
-      "fetched_at": "2026-07-08T13:27:55.806454+00:00"
-    },
-    "6a19ab34185de63c": {
-      "title": "Is AI making us dumber?",
-      "fetched_at": "2026-07-08T13:27:56.439564+00:00"
-    },
-    "de43586c7085ebe2": {
-      "title": "美国MBA抵押贷款申请上周下降2.2%",
-      "fetched_at": "2026-07-08T13:27:57.079851+00:00"
-    },
-    "c1dcb02a262f43d4": {
-      "title": "湖南黄金：拟发行股份购买黄金天岳及中南冶炼100%股权",
-      "fetched_at": "2026-07-08T13:27:57.705645+00:00"
-    },
-    "7d95a93718ee848c": {
-      "title": "How AI Embeddings Cut Cloud Costs by 50% While Boosting Matching by 65%",
-      "fetched_at": "2026-07-08T13:27:58.329640+00:00"
-    },
-    "d150c348c50f869f": {
-      "title": "China warns about AI risks with Anthropic's Claude Code",
-      "fetched_at": "2026-07-08T13:27:58.946743+00:00"
-    },
-    "b995d707c74366e8": {
-      "title": "Show HN: VetoBench – benchmarking AI memory beyond retrieval",
-      "fetched_at": "2026-07-08T13:27:59.560506+00:00"
-    },
-    "c9f769bdbd04b9a6": {
-      "title": "张小龙辞任粉笔首席执行官、董事会主席",
-      "fetched_at": "2026-07-08T13:28:00.194562+00:00"
-    },
-    "12303bb4c898b45b": {
-      "title": "Deprecated Accessor Footgun in AI SDK v7",
-      "fetched_at": "2026-07-08T13:28:00.817387+00:00"
-    },
-    "c86adefe01fbc5e1": {
-      "title": "Show HN: Argutum – an AI chat that pays you per message, scored in real time",
-      "fetched_at": "2026-07-08T13:28:01.439486+00:00"
-    },
-    "a4c99243872ed39a": {
-      "title": "美伊徹夜交火 特朗普稱停火協議「完了」",
-      "fetched_at": "2026-07-08T13:28:04.670026+00:00"
-    },
-    "87943583bb484fec": {
-      "title": "中國實施信訪新規：有學者指「最終目的是減少進北京上訪者」",
-      "fetched_at": "2026-07-08T13:28:05.294796+00:00"
-    },
-    "0b10700d1352b408": {
-      "title": "沒苦硬吃？「我們十年來天天自己帶飯，40歲就退休了」",
-      "fetched_at": "2026-07-08T13:28:05.961517+00:00"
-    },
-    "8ec157f75b5652a6": {
-      "title": "未開始先被抵制的補選：英國改革黨法拉奇的豪賭",
-      "fetched_at": "2026-07-08T13:28:06.580260+00:00"
-    },
-    "52cdabeea63c1f40": {
-      "title": "Diagnostic dilemma: A woman heard voices for years — but not because of psychosis",
-      "fetched_at": "2026-07-08T13:28:19.376641+00:00"
-    },
-    "9638fa9df9c6ab70": {
-      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
-      "fetched_at": "2026-07-08T13:28:20.005978+00:00"
-    },
-    "650f0374a3283039": {
-      "title": "New AI model reveals how neutron star mergers forge heavy elements",
-      "fetched_at": "2026-07-08T13:28:20.629409+00:00"
-    },
-    "3865aa2cfc63f555": {
-      "title": "2,000-year-old scrolls buried by Mount Vesuvius eruption finally deciphered with help from AI",
-      "fetched_at": "2026-07-08T13:28:21.246630+00:00"
-    },
     "d68ee64fa1d34c71": {
       "title": "Google Photos adds a new AI ‘Video Remix’ tool",
       "fetched_at": "2026-07-08T19:04:36.188841+00:00"
@@ -3967,7 +3855,99 @@
     "bc524722594cc196": {
       "title": "Incredible new material makes heat programmable",
       "fetched_at": "2026-07-16T13:16:35.769247+00:00"
+    },
+    "fefbfd4fe80767d8": {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "fetched_at": "2026-07-16T18:53:40.782098+00:00"
+    },
+    "b15f58c8323b9f53": {
+      "title": "Hiring - Software Engineer (AI-Native WMS) Bilingual (ENG.KOR) Carson, CA",
+      "fetched_at": "2026-07-16T18:53:41.404452+00:00"
+    },
+    "02e9d53ff1543ac1": {
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "fetched_at": "2026-07-16T18:53:42.016172+00:00"
+    },
+    "77db73ef80514ec6": {
+      "title": "AI disruption in private credit: exposure to software firms in BDCs (BIS)",
+      "fetched_at": "2026-07-16T18:53:42.644858+00:00"
+    },
+    "051594917c56d6ad": {
+      "title": "Linus Torvalds rebukes anti-AI stances in the Linux kernel code review process",
+      "fetched_at": "2026-07-16T18:53:43.271097+00:00"
+    },
+    "5cadcf9cc5c18bc5": {
+      "title": "Please Stop Making Me Opt Out of AI",
+      "fetched_at": "2026-07-16T18:53:43.881094+00:00"
+    },
+    "8001aa12efe88182": {
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "fetched_at": "2026-07-16T18:53:44.501147+00:00"
+    },
+    "b67074359c45c301": {
+      "title": "Can AI reliably generate dashboards from Excel or CSV files?",
+      "fetched_at": "2026-07-16T18:53:45.120172+00:00"
+    },
+    "c6f865e305695994": {
+      "title": "Choosing GPT-5.6 Sol, Terra, or Luna in Codex",
+      "fetched_at": "2026-07-16T18:53:45.734595+00:00"
+    },
+    "317397d4336442c8": {
+      "title": "Show HN: Pagora AI, WordPress AI page builder that outputs plain HTML/CSS/JS",
+      "fetched_at": "2026-07-16T18:53:46.367681+00:00"
+    },
+    "f3f056817d462325": {
+      "title": "AI chatbots are at risk of spreading government restrictions on online speech",
+      "fetched_at": "2026-07-16T18:53:46.983630+00:00"
+    },
+    "6a7e4f95f4cb6556": {
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "fetched_at": "2026-07-16T18:53:47.604422+00:00"
+    },
+    "6148c0ff49d6c779": {
+      "title": "What can we learn from Bun's rapid Rust rewrite with AI?",
+      "fetched_at": "2026-07-16T18:53:48.217385+00:00"
+    },
+    "5fce456cbc759251": {
+      "title": "For Software Engineers, the AI Reckoning Is Here",
+      "fetched_at": "2026-07-16T18:53:48.853086+00:00"
+    },
+    "d37d8b245e7bf688": {
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "fetched_at": "2026-07-16T18:53:49.467624+00:00"
+    },
+    "bb6a033f6db0ab69": {
+      "title": "Anthropic CEO gives $1M to super PAC amid battle of AI big-money groups",
+      "fetched_at": "2026-07-16T18:53:50.097910+00:00"
+    },
+    "c242cdcb20123438": {
+      "title": "VarAlign – catch the duplicate variables AI agents scatter across sessions",
+      "fetched_at": "2026-07-16T18:53:50.717249+00:00"
+    },
+    "3c87e8b072ffa4bb": {
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "fetched_at": "2026-07-16T18:53:51.350761+00:00"
+    },
+    "f1530a1e6c559424": {
+      "title": "Someone Used AI to Write an Unauthorized Biography of Me",
+      "fetched_at": "2026-07-16T18:53:51.957334+00:00"
+    },
+    "2dc6a7dbb9b00dd9": {
+      "title": "1-Bit LLM in the Browser",
+      "fetched_at": "2026-07-16T18:53:52.578245+00:00"
+    },
+    "030d06e457b3301a": {
+      "title": "Thousands of liberated Africans died on a remote island after the British Navy freed them. We now know where they came from.",
+      "fetched_at": "2026-07-16T18:53:56.353582+00:00"
+    },
+    "b4103df657556e8b": {
+      "title": "Oops! Ancient Bronze Age shaman long assumed to be a man was actually a woman, DNA reveals",
+      "fetched_at": "2026-07-16T18:53:56.977260+00:00"
+    },
+    "691c9a7191a66a8d": {
+      "title": "'This was one of the most arduous expeditions I've ever done': Scientists confirm that 15-mile-wide pit found on Google Maps is ancient meteor crater",
+      "fetched_at": "2026-07-16T18:53:57.596467+00:00"
     }
   },
-  "last_updated": "2026-07-16T13:16:35.876165+00:00"
+  "last_updated": "2026-07-16T18:53:57.707304+00:00"
 }
