@@ -1,137 +1,5 @@
 {
   "articles": {
-    "8a628837641c875e": {
-      "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5",
-      "fetched_at": "2026-07-08T08:05:35.507057+00:00"
-    },
-    "69dcbedc8d906d97": {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "fetched_at": "2026-07-08T08:05:36.141145+00:00"
-    },
-    "63ca8a0edb3ff36e": {
-      "title": "挚达科技等在宁波成立具身智能科技公司",
-      "fetched_at": "2026-07-08T08:05:36.771181+00:00"
-    },
-    "b81abd64f7eb75c1": {
-      "title": "SK海力士因超额认购，将于周三结束280亿美元ADR簿记建档",
-      "fetched_at": "2026-07-08T08:05:37.382301+00:00"
-    },
-    "dda833255dde9845": {
-      "title": "德业股份：预计上半年净利润同比增长75%-79%",
-      "fetched_at": "2026-07-08T08:05:38.005016+00:00"
-    },
-    "37b2040265a07113": {
-      "title": "英国收购报价总值超出新上市企业市值27倍",
-      "fetched_at": "2026-07-08T08:05:38.640250+00:00"
-    },
-    "2a55be259fbf8558": {
-      "title": "信立泰：SAL0167获临床试验批准通知书，用于高脂血症治疗",
-      "fetched_at": "2026-07-08T08:05:39.290989+00:00"
-    },
-    "29a38aac5865cf6c": {
-      "title": "12年来首次，日本上半年破产企业超5000家",
-      "fetched_at": "2026-07-08T08:05:39.928225+00:00"
-    },
-    "aff33aef697ada23": {
-      "title": "五洲特纸：预计上半年净利润同比增长86%-94%",
-      "fetched_at": "2026-07-08T08:05:40.571562+00:00"
-    },
-    "0622e5cf84afd1a9": {
-      "title": "中国瑞林：签订约11.23亿元海外项目框架协议",
-      "fetched_at": "2026-07-08T08:05:41.183677+00:00"
-    },
-    "d42f880d0feecc0b": {
-      "title": "协鑫能科等在苏州成立产业投资合伙企业",
-      "fetched_at": "2026-07-08T08:05:41.810906+00:00"
-    },
-    "f615053b167df69c": {
-      "title": "亚马逊AWS拟在菲律宾投资至多50亿美元",
-      "fetched_at": "2026-07-08T08:05:42.425794+00:00"
-    },
-    "4ba6b79381790255": {
-      "title": "必和必拓在世界最大铁矿石出口港口的工人将罢工8小时",
-      "fetched_at": "2026-07-08T08:05:43.109248+00:00"
-    },
-    "c3bc6cc4bd9a38dc": {
-      "title": "雷军回应SkyNomad上市时间",
-      "fetched_at": "2026-07-08T08:05:43.720693+00:00"
-    },
-    "243b9788122ef957": {
-      "title": "支付宝“碰一下”将3000万线下触点升级为AI经营网络",
-      "fetched_at": "2026-07-08T08:05:44.334909+00:00"
-    },
-    "7e076ce7d84831b1": {
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "fetched_at": "2026-07-08T08:05:44.964717+00:00"
-    },
-    "eb45a59ef7d9f42b": {
-      "title": "本田在美国召回逾32万辆奥德赛，因倒车影像故障",
-      "fetched_at": "2026-07-08T08:05:45.651674+00:00"
-    },
-    "1ae6340196985e8e": {
-      "title": "A股三大指数集体收跌，能源股走强",
-      "fetched_at": "2026-07-08T08:05:46.284839+00:00"
-    },
-    "0902f9f191664a71": {
-      "title": "三星电子支持的韩国AI芯片创企Rebellions计划明年在韩IPO",
-      "fetched_at": "2026-07-08T08:05:46.900092+00:00"
-    },
-    "081e7087720ffd63": {
-      "title": "沪深两市成交额突破2.5万亿",
-      "fetched_at": "2026-07-08T08:05:47.540765+00:00"
-    },
-    "85dfbdeabdf6029a": {
-      "title": "「洪水來得太快了」：颱風在中國引發水災及罕見龍捲風",
-      "fetched_at": "2026-07-08T08:05:50.331253+00:00"
-    },
-    "4f6ce94bc8bb540f": {
-      "title": "性侵案受害者：我要讓他們為這些事情感到羞恥",
-      "fetched_at": "2026-07-08T08:05:50.956683+00:00"
-    },
-    "12e02feb7ad963b3": {
-      "title": "真正的美国梦在北欧？",
-      "fetched_at": "2026-07-08T08:05:51.601082+00:00"
-    },
-    "c0d05ba5fc6aed8e": {
-      "title": "法國極右領袖馬琳·勒龐宣布2027參選總統，將就貪污案再上訴",
-      "fetched_at": "2026-07-08T08:05:52.226015+00:00"
-    },
-    "4920968b65d6f1fd": {
-      "title": "特朗普承诺的外国投资热潮出现了吗？",
-      "fetched_at": "2026-07-08T08:05:52.869708+00:00"
-    },
-    "dab8cbaad7fc3d62": {
-      "title": "中国为何向太平洋发射远程弹道导弹？",
-      "fetched_at": "2026-07-08T08:05:53.481724+00:00"
-    },
-    "e99336e51b9e84be": {
-      "title": "商船遇袭后，美国对伊朗发动空袭并撤销制裁豁免令",
-      "fetched_at": "2026-07-08T08:05:54.093459+00:00"
-    },
-    "3ea4fd67bb579784": {
-      "title": "酷热夏天如何避暑降温？试试穿长袍、洒冷水",
-      "fetched_at": "2026-07-08T08:05:54.718739+00:00"
-    },
-    "ab7e964378d5f7c3": {
-      "title": "Skill Retriever semantic skill discovery for AI agents via 10K-category taxonomy",
-      "fetched_at": "2026-07-08T08:05:56.899411+00:00"
-    },
-    "f9228043dd111cdf": {
-      "title": "Show HN: 0day Rubbish – AI Vulnerability Discovery Platform (0day-Rubbish.com)",
-      "fetched_at": "2026-07-08T08:05:57.527386+00:00"
-    },
-    "5bce722f22c450b3": {
-      "title": "Ancient Denisovan DNA is still shaping human immunity today (Science Daily)",
-      "fetched_at": "2026-07-08T08:05:58.174731+00:00"
-    },
-    "9bf59ab4076e33ff": {
-      "title": "Scientists resurrect 3.2-billion-year-old enzyme to reveal how life began on Earth",
-      "fetched_at": "2026-07-08T08:05:58.840458+00:00"
-    },
-    "096f9e7082c4459e": {
-      "title": "Japan's bold experiment to curb antibiotic misuse has been a huge success. Could it work in the US?",
-      "fetched_at": "2026-07-08T08:05:59.473972+00:00"
-    },
     "01ddaa70fdada500": {
       "title": "AI agents accessing production database",
       "fetched_at": "2026-07-08T13:27:49.604655+00:00"
@@ -3987,7 +3855,119 @@
     "124e1ae6eb795210": {
       "title": "Euclid telescope discovers the 2 most ancient monster black holes in the universe ‪—‬ each brighter than a trillion suns",
       "fetched_at": "2026-07-16T07:53:53.777304+00:00"
+    },
+    "42b7be51b10b3009": {
+      "title": "Google required to open up to AI, search engine rivals under EU-mandated changes",
+      "fetched_at": "2026-07-16T13:16:14.327901+00:00"
+    },
+    "8d3874e7bcc92a38": {
+      "title": "FBI Considers Using AI Tech to Review Signatures on Seized Mail-In Ballots",
+      "fetched_at": "2026-07-16T13:16:14.951744+00:00"
+    },
+    "893c89009ee063d6": {
+      "title": "Claude can now use your 1Password credentials for you",
+      "fetched_at": "2026-07-16T13:16:15.620757+00:00"
+    },
+    "d3b330feef5f9ef4": {
+      "title": "Rare book dealers fear tech firms are destroying obscure editions to train AI",
+      "fetched_at": "2026-07-16T13:16:16.243739+00:00"
+    },
+    "ad2fb6d3deb6f759": {
+      "title": "小鹏汽车：将在今年实现首款飞行汽车量产",
+      "fetched_at": "2026-07-16T13:16:16.870184+00:00"
+    },
+    "8c91c89d3fed8725": {
+      "title": "热门中概股美股盘前普涨，小鹏集团涨超3%",
+      "fetched_at": "2026-07-16T13:16:17.522412+00:00"
+    },
+    "1d569776d5facca9": {
+      "title": "现货黄金跌破4000美元/盎司",
+      "fetched_at": "2026-07-16T13:16:18.174176+00:00"
+    },
+    "5a0e2676b824d873": {
+      "title": "美股大型科技股盘前涨跌不一，美光科技跌超5%",
+      "fetched_at": "2026-07-16T13:16:18.798875+00:00"
+    },
+    "e98c39106ff0fc98": {
+      "title": "AI on Your Own Terms: Anaconda Acquires Kilo Code",
+      "fetched_at": "2026-07-16T13:16:19.437844+00:00"
+    },
+    "7c3cd2436bf6c45b": {
+      "title": "Show HN: Quatuor – Kick back and watch 4 agents LLM talk to each other (FOSS)",
+      "fetched_at": "2026-07-16T13:16:20.073466+00:00"
+    },
+    "299729d273fa652b": {
+      "title": "美国上周首次申领失业救济人数为20.8万人，不及市场预期",
+      "fetched_at": "2026-07-16T13:16:20.722403+00:00"
+    },
+    "77f46879503907da": {
+      "title": "*ST萃华：并购重组及实际控制人变更事宜为不实传闻",
+      "fetched_at": "2026-07-16T13:16:21.399688+00:00"
+    },
+    "b94ae72a23ade8ff": {
+      "title": "The problem AI content moderation cannot solve",
+      "fetched_at": "2026-07-16T13:16:22.019642+00:00"
+    },
+    "ef95eda748592e87": {
+      "title": "Whatnot acquires Shaped to accelerate AI",
+      "fetched_at": "2026-07-16T13:16:22.649995+00:00"
+    },
+    "261441e833754062": {
+      "title": "The AI Backlash Has Tech Executives Fearing for Their Lives",
+      "fetched_at": "2026-07-16T13:16:23.299406+00:00"
+    },
+    "4e302f3c64550bd5": {
+      "title": "DeepSeek估值超3500亿元",
+      "fetched_at": "2026-07-16T13:16:23.970806+00:00"
+    },
+    "67d574ad746d1fa6": {
+      "title": "How to make AI safe–and lessen dependence on America and China",
+      "fetched_at": "2026-07-16T13:16:24.591183+00:00"
+    },
+    "f9863275c4ecb74b": {
+      "title": "欧盟要求谷歌开放安卓AI功能及搜索数据",
+      "fetched_at": "2026-07-16T13:16:25.204703+00:00"
+    },
+    "9036764bd3707cda": {
+      "title": "Open Source Will Eat AI",
+      "fetched_at": "2026-07-16T13:16:25.826152+00:00"
+    },
+    "246ae2e04b7dffa0": {
+      "title": "New York blocks new AI data centers in first statewide moratorium",
+      "fetched_at": "2026-07-16T13:16:26.457634+00:00"
+    },
+    "14e22083bfe04146": {
+      "title": "霍爾木茲海峽：替代路線能否維持波斯灣油氣出口？",
+      "fetched_at": "2026-07-16T13:16:29.525186+00:00"
+    },
+    "ff0b8f7760fd4f51": {
+      "title": "「贏了官司輸了輿論」：LV 訴茉莉奶白案，司法判決之後再被網絡審判",
+      "fetched_at": "2026-07-16T13:16:30.146518+00:00"
+    },
+    "0ca4d2cdb82cb19b": {
+      "title": "泰國曼谷大火：為何類似悲劇一再發生?",
+      "fetched_at": "2026-07-16T13:16:30.769319+00:00"
+    },
+    "d990a1c92dd22b3f": {
+      "title": "New 3D silicon chip stacks circuits on top of each other to boost computing power",
+      "fetched_at": "2026-07-16T13:16:33.276076+00:00"
+    },
+    "c759279f5ee5822a": {
+      "title": "'Another dinosaur has entered the luxury collectibles market': Gus the T. rex just sold for $50 million. Here's what its loss means to science.",
+      "fetched_at": "2026-07-16T13:16:33.900877+00:00"
+    },
+    "4de22b77e5ec1fc0": {
+      "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
+      "fetched_at": "2026-07-16T13:16:34.528745+00:00"
+    },
+    "780d61285992c172": {
+      "title": "'One of the oldest gravestones of a free Black person in America' discovered in Boston",
+      "fetched_at": "2026-07-16T13:16:35.147276+00:00"
+    },
+    "bc524722594cc196": {
+      "title": "Incredible new material makes heat programmable",
+      "fetched_at": "2026-07-16T13:16:35.769247+00:00"
     }
   },
-  "last_updated": "2026-07-16T07:53:53.861808+00:00"
+  "last_updated": "2026-07-16T13:16:35.876165+00:00"
 }
