@@ -1,137 +1,5 @@
 {
   "articles": {
-    "c68167f1c1fbbfe9": {
-      "title": "Show HN: Q a REPL for LLM inside the terminal",
-      "fetched_at": "2026-07-07T19:38:34.428766+00:00"
-    },
-    "b2bddfe4ec4c05a5": {
-      "title": "Code is overpaying for AI. /tokendiet finds where",
-      "fetched_at": "2026-07-07T19:38:35.053830+00:00"
-    },
-    "45801a710822a8a5": {
-      "title": "Sets up your AI agent for Cloudflare",
-      "fetched_at": "2026-07-07T19:38:35.664534+00:00"
-    },
-    "87658c7afd9c5b13": {
-      "title": "Squish, a local LLM inference server for Apple Silicon",
-      "fetched_at": "2026-07-07T19:38:36.288293+00:00"
-    },
-    "ecd368b37a75749b": {
-      "title": "AI Neovim",
-      "fetched_at": "2026-07-07T19:38:36.910172+00:00"
-    },
-    "73e27b3944f1f143": {
-      "title": "Show HN: Last EHR – AI agent over a FHIR back end with human approval on writes",
-      "fetched_at": "2026-07-07T19:38:37.543398+00:00"
-    },
-    "28d000f13cda4e24": {
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "fetched_at": "2026-07-07T19:38:38.164238+00:00"
-    },
-    "7aa353dd5e7c0e9c": {
-      "title": "Policy Statement Concerning the Suppression of Accuracy in AI Systems",
-      "fetched_at": "2026-07-07T19:38:38.791466+00:00"
-    },
-    "66d50cfbd6ed1bc8": {
-      "title": "Tessera – an AI agent that refuses to answer without evidence",
-      "fetched_at": "2026-07-07T19:38:39.406409+00:00"
-    },
-    "c578b2dba0d2a10c": {
-      "title": "I use AI in creating my newsletter",
-      "fetched_at": "2026-07-07T19:38:40.032532+00:00"
-    },
-    "16ac95dbfa357507": {
-      "title": "Muse Image: Free AI Image Generator – Museimage.io",
-      "fetched_at": "2026-07-07T19:38:40.648761+00:00"
-    },
-    "625001b1df9d0e09": {
-      "title": "AI recommends crap travel services",
-      "fetched_at": "2026-07-07T19:38:41.264393+00:00"
-    },
-    "4660ea34434b247d": {
-      "title": "Show HN: Bike4Mind – open-core AI workbench; any model, agents, RAG, self-host",
-      "fetched_at": "2026-07-07T19:38:41.923940+00:00"
-    },
-    "fcddb4b5fd77f1d8": {
-      "title": "Local AI is re-reading its own prompt",
-      "fetched_at": "2026-07-07T19:38:42.542713+00:00"
-    },
-    "82e0833eea0e3524": {
-      "title": "Anthropic is now a banned vendor at comma_AI",
-      "fetched_at": "2026-07-07T19:38:43.168583+00:00"
-    },
-    "7912d8ad39c67f54": {
-      "title": "Nvidia CEO blasts bosses using AI as a layoff excuse: 'We're scaring people'",
-      "fetched_at": "2026-07-07T19:38:43.779918+00:00"
-    },
-    "079fa192b40a4204": {
-      "title": "Codeberg proposing prohibitting sharing of AI-generated code",
-      "fetched_at": "2026-07-07T19:38:44.401931+00:00"
-    },
-    "3641c7c39a1da795": {
-      "title": "The Second Derivative: Why No One Understands the AI Boom",
-      "fetched_at": "2026-07-07T19:38:45.016156+00:00"
-    },
-    "37c783ef1ca92241": {
-      "title": "Show HN: Strays – See the ports and AI coding sessions your Mac is running",
-      "fetched_at": "2026-07-07T19:38:45.634319+00:00"
-    },
-    "42c3eff3c45ec2f8": {
-      "title": "AI Job Search – An AI-powered job application framework built on Claude Code",
-      "fetched_at": "2026-07-07T19:38:46.252998+00:00"
-    },
-    "ab564b270e832d51": {
-      "title": "颱風「美莎克」襲擊中國：廣西水庫潰壩 湖北龍捲風致11死",
-      "fetched_at": "2026-07-07T19:38:49.589392+00:00"
-    },
-    "54f8fab4bcda3c48": {
-      "title": "點擊瀏覽即時更新",
-      "fetched_at": "2026-07-07T19:38:50.210005+00:00"
-    },
-    "b7ece860b4f67b15": {
-      "title": "Possible Timber Circle Detected on Scotland’s Isle of Arran",
-      "fetched_at": "2026-07-07T19:38:52.777361+00:00"
-    },
-    "e3d4162b31b24494": {
-      "title": "6,000-year-old broken ribs discovered in Syria may be one of the oldest known cases of child abuse in the world",
-      "fetched_at": "2026-07-07T19:38:53.399550+00:00"
-    },
-    "17381c2350664469": {
-      "title": "4,000-Year-Old Child’s Skull Found in Norway",
-      "fetched_at": "2026-07-07T19:38:54.015651+00:00"
-    },
-    "a72c4e4260dca854": {
-      "title": "Byzantine City Uncovered in Egypt’s Dakhleh Oasis",
-      "fetched_at": "2026-07-07T19:38:54.638041+00:00"
-    },
-    "203085044b2dfc15": {
-      "title": "'Time was speeding up, slowing down, or even stopping': Physicist demonstrates a key theory of time by building a 'mini-universe' in his lab",
-      "fetched_at": "2026-07-07T19:38:55.264668+00:00"
-    },
-    "dc42cc67e914d58c": {
-      "title": "2,500-year-old tomb of a 'warrior prince' with chariot and helmet discovered on Italy's Adriatic coast",
-      "fetched_at": "2026-07-07T19:38:55.900141+00:00"
-    },
-    "124e1ae6eb795210": {
-      "title": "Euclid telescope discovers the 2 most ancient monster black holes in the universe ‪—‬ each brighter than a trillion suns",
-      "fetched_at": "2026-07-07T19:38:56.519016+00:00"
-    },
-    "121fc3059230939e": {
-      "title": "Sleep and Death cista handle: A 2,400-year-old sculpture depicting gods carrying away Zeus' son during the Trojan War",
-      "fetched_at": "2026-07-07T19:38:57.135526+00:00"
-    },
-    "a6a26b34909a5ce5": {
-      "title": "Strawberry Moon 2026: Tonight's full moon is the lowest, and one of the smallest 'micromoons' all year",
-      "fetched_at": "2026-07-07T19:38:57.767939+00:00"
-    },
-    "9c88c54e266b086e": {
-      "title": "Brain activity under anesthesia challenges what we know about consciousness",
-      "fetched_at": "2026-07-07T19:38:58.392383+00:00"
-    },
-    "d492b7a0dd794217": {
-      "title": "These tiny soil microbes could rescue crops from salty farmland",
-      "fetched_at": "2026-07-07T19:38:59.006216+00:00"
-    },
     "d5c6bb33b4a94793": {
       "title": "A股三大指数集体高开",
       "fetched_at": "2026-07-08T01:28:25.856645+00:00"
@@ -3979,7 +3847,111 @@
     "3248ef18a1fd4a82": {
       "title": "AI just supercharged the race to find room temperature superconductors",
       "fetched_at": "2026-07-15T18:53:14.104422+00:00"
+    },
+    "8bb969b4c53b5e1e": {
+      "title": "央行今日开展6260亿元7天逆回购操作",
+      "fetched_at": "2026-07-16T01:26:43.868819+00:00"
+    },
+    "4de40ae43388e59c": {
+      "title": "恒指开盘涨0.58%，恒生科技指数涨0.15%",
+      "fetched_at": "2026-07-16T01:26:44.460487+00:00"
+    },
+    "36322c54036fcd03": {
+      "title": "人民币兑美元中间价报6.7909",
+      "fetched_at": "2026-07-16T01:26:45.028364+00:00"
+    },
+    "258f98b1d0a9879a": {
+      "title": "中信证券：当前时点已上市的数据中心REITs值得持续重点关注",
+      "fetched_at": "2026-07-16T01:26:45.608481+00:00"
+    },
+    "716e2158ceb59fa4": {
+      "title": "工信部公开征求《大数据产品功能要求》等20项行业标准报批意见",
+      "fetched_at": "2026-07-16T01:26:46.187587+00:00"
+    },
+    "68f4bbbccd2915ed": {
+      "title": "韩国央行将利率上调25个基点至2.75%",
+      "fetched_at": "2026-07-16T01:26:46.749842+00:00"
+    },
+    "a18900c9774278d4": {
+      "title": "Generative AI is an Engineering Disaster",
+      "fetched_at": "2026-07-16T01:26:47.326667+00:00"
+    },
+    "b71ab8f87673931f": {
+      "title": "两市融资余额减少116.66亿元",
+      "fetched_at": "2026-07-16T01:26:47.906493+00:00"
+    },
+    "16b5e7fed43f7fe8": {
+      "title": "亚马逊Leo与南非企业达成协议，预计明年启动卫星互联网服务",
+      "fetched_at": "2026-07-16T01:26:48.478816+00:00"
+    },
+    "0b5668f0a3e5b6c6": {
+      "title": "Fusing a 27B ternary LLM's whole decode step into one CUDA kernel",
+      "fetched_at": "2026-07-16T01:26:49.048490+00:00"
+    },
+    "6f389be8ea55f6b5": {
+      "title": "中信证券：建议重点关注医疗健康产业投资机会",
+      "fetched_at": "2026-07-16T01:26:49.631950+00:00"
+    },
+    "17b7d0cb2e11c530": {
+      "title": "勃林格殷格翰上半年净销售额同比增长16.2%至158亿欧元",
+      "fetched_at": "2026-07-16T01:26:50.208789+00:00"
+    },
+    "3c3b4eac52b072b7": {
+      "title": "AI Data Center Companies for Sale – Owners Liquidating Assets Before Crash [video]",
+      "fetched_at": "2026-07-16T01:26:50.793412+00:00"
+    },
+    "bab18e94731b916e": {
+      "title": "深圳等一线城市租房需求攀升，租金房价比持续抬升",
+      "fetched_at": "2026-07-16T01:26:51.401314+00:00"
+    },
+    "26412f18c7138cbc": {
+      "title": "中信证券：股权财政发挥更大作用客观需要权益市值大幅提升",
+      "fetched_at": "2026-07-16T01:26:52.031591+00:00"
+    },
+    "d073b78f79d6e510": {
+      "title": "派早报：国行版 Apple Intelligence 完成备案等",
+      "fetched_at": "2026-07-16T01:26:52.613524+00:00"
+    },
+    "3827db56a151386a": {
+      "title": "韩美半导体拟在韩国新建工厂",
+      "fetched_at": "2026-07-16T01:26:53.196319+00:00"
+    },
+    "90d2424d08b81565": {
+      "title": "多家游戏企业预喜，行业收入保持增长",
+      "fetched_at": "2026-07-16T01:26:53.810024+00:00"
+    },
+    "9b85154af7a518f5": {
+      "title": "Show HN: MasterVault: Stop your LLM's context file from growing stale",
+      "fetched_at": "2026-07-16T01:26:54.389033+00:00"
+    },
+    "4048c1b9e59eecfc": {
+      "title": "AIcss: UI Components for AI Agents",
+      "fetched_at": "2026-07-16T01:26:54.976938+00:00"
+    },
+    "0ec89231d787eaa8": {
+      "title": "美国华裔地震学家被中国拘押近两年，华盛顿呼吁将其释放",
+      "fetched_at": "2026-07-16T01:26:57.371601+00:00"
+    },
+    "8e5cececd7c7a8fe": {
+      "title": "為何有些女性看見常人無法目睹的顏色？",
+      "fetched_at": "2026-07-16T01:26:58.038494+00:00"
+    },
+    "202935c8ba4667ae": {
+      "title": "香港國安搜查兩間獨立書店，拘捕5人涉售賣「煽動」書籍",
+      "fetched_at": "2026-07-16T01:26:58.611681+00:00"
+    },
+    "fbb3612e35207e47": {
+      "title": "Relief of Protective Deity Uncovered at Vindolanda",
+      "fetched_at": "2026-07-16T01:27:03.088219+00:00"
+    },
+    "e5edb1f5a8a21791": {
+      "title": "Celtic Settlement Unearthed at Ancient Crossroads in France",
+      "fetched_at": "2026-07-16T01:27:03.663684+00:00"
+    },
+    "e8847ff60a35ef16": {
+      "title": "Maya Astronomer's Name Identified in Guatemala",
+      "fetched_at": "2026-07-16T01:27:04.267710+00:00"
     }
   },
-  "last_updated": "2026-07-15T18:53:14.255284+00:00"
+  "last_updated": "2026-07-16T01:27:04.416718+00:00"
 }
