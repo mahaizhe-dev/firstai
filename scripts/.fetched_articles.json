@@ -1,145 +1,5 @@
 {
   "articles": {
-    "44beaad1432207d2": {
-      "title": "前日本央行官员称本轮加息周期政策利率或升至2%以上",
-      "fetched_at": "2026-07-09T01:50:32.582289+00:00"
-    },
-    "f0acc51de53ef38b": {
-      "title": "国家统计局：6月全国工业生产者出厂价格同比上涨4.1%",
-      "fetched_at": "2026-07-09T01:50:33.213890+00:00"
-    },
-    "d2c207f699153b44": {
-      "title": "国家统计局：6月全国居民消费价格同比上涨1.0%",
-      "fetched_at": "2026-07-09T01:50:33.839681+00:00"
-    },
-    "04e14c234c031b6e": {
-      "title": "A股三大指数集体高开，浪潮信息涨超6%",
-      "fetched_at": "2026-07-09T01:50:34.470636+00:00"
-    },
-    "a6c200efe0a0e6af": {
-      "title": "央行7月9日公开市场开展100亿元7天期逆回购操作",
-      "fetched_at": "2026-07-09T01:50:35.087753+00:00"
-    },
-    "170b4bec1d2b7921": {
-      "title": "恒指开盘跌0.07%，恒生科技指数涨0.29%",
-      "fetched_at": "2026-07-09T01:50:35.710401+00:00"
-    },
-    "d69af835654805c1": {
-      "title": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
-      "fetched_at": "2026-07-09T01:50:36.349063+00:00"
-    },
-    "6026eec874afe8ce": {
-      "title": "Public LLM benchmarks are mostly garbage",
-      "fetched_at": "2026-07-09T01:50:36.962996+00:00"
-    },
-    "6c849a2dfa6212d5": {
-      "title": "7月9日人民币对美元中间价调升41个基点",
-      "fetched_at": "2026-07-09T01:50:37.591235+00:00"
-    },
-    "e500cf91ae2bca6f": {
-      "title": "微软Xbox将调整黑曜石工作室，转向开发《辐射》新作",
-      "fetched_at": "2026-07-09T01:50:38.213915+00:00"
-    },
-    "c0b51a8425f04bb2": {
-      "title": "“深度智控”（DeepCtrls）完成数亿元人民币B轮融资",
-      "fetched_at": "2026-07-09T01:50:38.834588+00:00"
-    },
-    "74982917aad537af": {
-      "title": "阶跃星辰将发布AI智能体手机",
-      "fetched_at": "2026-07-09T01:50:39.464895+00:00"
-    },
-    "7aa0aa304f904d61": {
-      "title": "StoryScope: Investigating Idiosyncrasies in AI Fiction",
-      "fetched_at": "2026-07-09T01:50:40.103133+00:00"
-    },
-    "3359731278ff4473": {
-      "title": "The AI factory: the rewiring of India's tech industry [video]",
-      "fetched_at": "2026-07-09T01:50:40.737818+00:00"
-    },
-    "4b18232ffca7e277": {
-      "title": "韩国央行：考虑到包括价格在内的风险，升息势在必行",
-      "fetched_at": "2026-07-09T01:50:41.375142+00:00"
-    },
-    "b9a4247c3a0f1580": {
-      "title": "Hy3调用激增，WorkBuddy已紧急扩容",
-      "fetched_at": "2026-07-09T01:50:42.000166+00:00"
-    },
-    "d9864cb425ba5529": {
-      "title": "两市融资余额减少189.12亿元",
-      "fetched_at": "2026-07-09T01:50:42.622176+00:00"
-    },
-    "7b95db421ac74847": {
-      "title": "Ghost – real-time AI that tells you what to say during job interviews",
-      "fetched_at": "2026-07-09T01:50:43.246996+00:00"
-    },
-    "b78a0b45faa99b8e": {
-      "title": "速腾聚创：上半年激光雷达总销量达719200台，同比增长169.6%",
-      "fetched_at": "2026-07-09T01:50:43.886991+00:00"
-    },
-    "236d2dbd7e267018": {
-      "title": "深交所：港股通标的证券名单调入普源精电、鼎泰高科",
-      "fetched_at": "2026-07-09T01:50:44.509090+00:00"
-    },
-    "0ea3bd37f2335242": {
-      "title": "澳大利亚与中国在太平洋地区陷入“持久竞争”",
-      "fetched_at": "2026-07-09T01:50:46.686606+00:00"
-    },
-    "cda2266b7c080685": {
-      "title": "受伊朗战争和通货膨胀冲击，全球经济增长面临急剧放缓",
-      "fetched_at": "2026-07-09T01:50:47.320960+00:00"
-    },
-    "12cc573d7bd9418d": {
-      "title": "觀察：特朗普虛張聲勢再多，除了與伊朗談判別無選擇",
-      "fetched_at": "2026-07-09T01:50:47.948503+00:00"
-    },
-    "1d5be9b3f5840f3e": {
-      "title": "哈梅內伊葬禮上的中國來客：一場外交安排透露北京的新盤算",
-      "fetched_at": "2026-07-09T01:50:48.567803+00:00"
-    },
-    "87fde8b0202191a4": {
-      "title": "德國華人性侵案：拆解性暴力案件的犯罪心理",
-      "fetched_at": "2026-07-09T01:50:49.244513+00:00"
-    },
-    "8842aedee4982585": {
-      "title": "德國華人性侵案受害者：「我要讓他們為這些事情感到羞恥」",
-      "fetched_at": "2026-07-09T01:50:49.851421+00:00"
-    },
-    "adefd31fe23e843a": {
-      "title": "100,000 years ago, one of the earliest Homo sapiens outside Africa was stabbed in the face, analysis finds",
-      "fetched_at": "2026-07-09T01:50:53.729598+00:00"
-    },
-    "f9a0dcf73ae7ee1b": {
-      "title": "Heidelberg physicists just united two opposing quantum theories",
-      "fetched_at": "2026-07-09T01:50:54.364347+00:00"
-    },
-    "16356f6005486f4e": {
-      "title": "Rare goblin shark filmed alive for the first time in the deep sea",
-      "fetched_at": "2026-07-09T01:50:55.062393+00:00"
-    },
-    "73cd7d44faaf5182": {
-      "title": "Scientists used AI to crack one of water's biggest mysteries",
-      "fetched_at": "2026-07-09T01:50:55.694483+00:00"
-    },
-    "0a38edd2a1be499a": {
-      "title": "Scientists finally crack nature's secret for building better cancer drugs",
-      "fetched_at": "2026-07-09T01:50:56.306356+00:00"
-    },
-    "68cf6d06aa82e87c": {
-      "title": "Colorful 'painting-like' ripples cover an ancient seafloor structure in the Bahamas — Earth from space",
-      "fetched_at": "2026-07-09T01:50:56.306509+00:00"
-    },
-    "90fc2406049fe28c": {
-      "title": "'Uncharted territory': Record-high ocean temperatures confirmed for June as El Niño strengthens its grip",
-      "fetched_at": "2026-07-09T01:50:56.306634+00:00"
-    },
-    "a3ea1662f46b9c37": {
-      "title": "Scientists figured out how to shrink huge ultrafast lasers so they fit on a tiny chip ‪‪—‬ the 'holy grail' of the field",
-      "fetched_at": "2026-07-09T01:50:56.918764+00:00"
-    },
-    "69a1e92aaf66f485": {
-      "title": "Chinese supercomputer leapfrogs best US machines to be ranked world's fastest",
-      "fetched_at": "2026-07-09T01:50:57.551218+00:00"
-    },
     "9526298d8190d9f4": {
       "title": "AI Agent Platforms Are Getting Hacked. Here's What's Missing",
       "fetched_at": "2026-07-09T14:27:37.978001+00:00"
@@ -3943,7 +3803,143 @@
     "9638fa9df9c6ab70": {
       "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
       "fetched_at": "2026-07-17T01:29:49.686979+00:00"
+    },
+    "a69dd72f68171380": {
+      "title": "我们有多久，没长久地喜欢过一个东西了？",
+      "fetched_at": "2026-07-17T07:50:36.433662+00:00"
+    },
+    "9c420335a345bf65": {
+      "title": "中源协和：VUM02注射液I期临床试验首例受试者完成入组给药",
+      "fetched_at": "2026-07-17T07:50:37.012231+00:00"
+    },
+    "e97d361e84b40c19": {
+      "title": "康拓医疗：副总经理李放因个人原因辞职",
+      "fetched_at": "2026-07-17T07:50:37.583648+00:00"
+    },
+    "232f6b8f3a2d699b": {
+      "title": "本田将停产在美国销售的唯一一款电动汽车Prologue",
+      "fetched_at": "2026-07-17T07:50:38.157225+00:00"
+    },
+    "3d86eea62b65ffaa": {
+      "title": "泰和新材：对位芳纶量利齐升，光缆领域份额约六至七成",
+      "fetched_at": "2026-07-17T07:50:38.736342+00:00"
+    },
+    "05fb41332cc209af": {
+      "title": "xTool全材质打印机O1发布首日销售额破亿",
+      "fetched_at": "2026-07-17T07:50:39.320919+00:00"
+    },
+    "30c918532494bcc4": {
+      "title": "蚂蚁集团、宁德时代等入股自然意志科技公司",
+      "fetched_at": "2026-07-17T07:50:39.893222+00:00"
+    },
+    "49c8b803690c815a": {
+      "title": "国家超算互联网推出科学智能体共创计划",
+      "fetched_at": "2026-07-17T07:50:40.487849+00:00"
+    },
+    "b2f9d1da0bd7fb4f": {
+      "title": "Isvisible.ai, check if AI crawlers can access your site",
+      "fetched_at": "2026-07-17T07:50:41.094801+00:00"
+    },
+    "341239284a72029e": {
+      "title": "SpaceX“星舰”第13次试飞因发动机点火故障被迫中止",
+      "fetched_at": "2026-07-17T07:50:41.674867+00:00"
+    },
+    "e04e216f75865f1f": {
+      "title": "瑞讯银行：科技股遭遇抛售部分是因台积电上调资本支出预期",
+      "fetched_at": "2026-07-17T07:50:42.246857+00:00"
+    },
+    "b949aed17397c53f": {
+      "title": "A few thoughts on building a terminal ePub reader with AI",
+      "fetched_at": "2026-07-17T07:50:42.831104+00:00"
+    },
+    "f63cd7a32c11e780": {
+      "title": "柳州产业引导基金公司增资至50亿",
+      "fetched_at": "2026-07-17T07:50:43.439141+00:00"
+    },
+    "9a2cfeec840d9f10": {
+      "title": "千问首款AI智能体耳机亮相WAIC",
+      "fetched_at": "2026-07-17T07:50:44.016007+00:00"
+    },
+    "e3d861a639f60adf": {
+      "title": "Netflix says around 300 titles used generative AI",
+      "fetched_at": "2026-07-17T07:50:44.606258+00:00"
+    },
+    "856f1251a00079c2": {
+      "title": "ABB宣布收购电动执行器制造商罗托克",
+      "fetched_at": "2026-07-17T07:50:45.192269+00:00"
+    },
+    "70083707a0471ae7": {
+      "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
+      "fetched_at": "2026-07-17T07:50:45.789516+00:00"
+    },
+    "6a547fd4e9ea912a": {
+      "title": "Show HN: Velora – On-device macOS dictation (Whisper and a local LLM, no cloud)",
+      "fetched_at": "2026-07-17T07:50:46.383359+00:00"
+    },
+    "6f5ad59b13410c82": {
+      "title": "LLM Evaluators are Biased across Languages",
+      "fetched_at": "2026-07-17T07:50:46.953387+00:00"
+    },
+    "c1ed9d4278ea8ca1": {
+      "title": "Show HN: I removed the LLM from my French grader – it marked correct words wrong",
+      "fetched_at": "2026-07-17T07:50:47.543056+00:00"
+    },
+    "0b68650cd50674da": {
+      "title": "劍指中國 特朗普稱美國選舉安全有「令人震驚的漏洞」",
+      "fetched_at": "2026-07-17T07:50:51.700692+00:00"
+    },
+    "d6b642e6a71015f8": {
+      "title": "英國鋼鐵國有化 中國「堅決反對」侵犯華資權益",
+      "fetched_at": "2026-07-17T07:50:52.277241+00:00"
+    },
+    "7e8a39df1f434130": {
+      "title": "特朗普政府收緊外國學生簽證規定",
+      "fetched_at": "2026-07-17T07:50:52.843263+00:00"
+    },
+    "8d75baee64d42270": {
+      "title": "欧洲奋力追赶中美，争夺数字自主权",
+      "fetched_at": "2026-07-17T07:50:53.410835+00:00"
+    },
+    "17d32392ba1c27f8": {
+      "title": "美国的人口危机将比预想中来得更快",
+      "fetched_at": "2026-07-17T07:50:54.014006+00:00"
+    },
+    "1a15da3c48b7e8ae": {
+      "title": "在美寻求庇护的中国人权律师吴绍平被ICE拘留",
+      "fetched_at": "2026-07-17T07:50:54.608525+00:00"
+    },
+    "5a0e5c8b3bac9d1e": {
+      "title": "英国钢铁公司被收归国有，前中资收购方要求赔偿",
+      "fetched_at": "2026-07-17T07:50:55.179120+00:00"
+    },
+    "883ff1e4678704ce": {
+      "title": "涉以特朗普演說內幕下注，白宮讀稿機操作員獲利10萬元被查",
+      "fetched_at": "2026-07-17T07:50:55.803868+00:00"
+    },
+    "cee0cee7ef7160b8": {
+      "title": "黄瓜有多健康？",
+      "fetched_at": "2026-07-17T07:50:56.379045+00:00"
+    },
+    "d548ce0b740083b1": {
+      "title": "特朗普称中国非法收集2.2亿份美国选民文件",
+      "fetched_at": "2026-07-17T07:50:56.946354+00:00"
+    },
+    "e3103716ff7c1084": {
+      "title": "「贏了官司輸了輿論」：LV 訴茉莉奶白案，判決之後再被網絡審判",
+      "fetched_at": "2026-07-17T07:50:57.522599+00:00"
+    },
+    "73e83f7235eaddc6": {
+      "title": "曾研究朝鮮核試驗，美籍華裔地震學家陳友麟遭中國拘留",
+      "fetched_at": "2026-07-17T07:50:58.092824+00:00"
+    },
+    "fc448b7198f4ced5": {
+      "title": "Did ancient Egyptian princesses use weapons? Controversial study claims they hunted or trained with the military, but not all experts agree.",
+      "fetched_at": "2026-07-17T07:51:33.301538+00:00"
+    },
+    "bacc40889ad2a551": {
+      "title": "We remember little to nothing of early childhood — and a recent mouse study may help explain why",
+      "fetched_at": "2026-07-17T07:51:33.878255+00:00"
     }
   },
-  "last_updated": "2026-07-17T01:29:49.769285+00:00"
+  "last_updated": "2026-07-17T07:51:34.024758+00:00"
 }
