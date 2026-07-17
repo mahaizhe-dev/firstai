@@ -1,177 +1,5 @@
 {
   "articles": {
-    "9526298d8190d9f4": {
-      "title": "AI Agent Platforms Are Getting Hacked. Here's What's Missing",
-      "fetched_at": "2026-07-09T14:27:37.978001+00:00"
-    },
-    "f9afdfee19910213": {
-      "title": "AI Agent Skill Traceability in UX Design",
-      "fetched_at": "2026-07-09T14:27:38.592923+00:00"
-    },
-    "345bb459f00cefab": {
-      "title": "BareMetalRT – TensorRT-LLM running natively on Windows (no WSL)",
-      "fetched_at": "2026-07-09T14:27:39.204397+00:00"
-    },
-    "c74341312fc1235d": {
-      "title": "Show HN: ContextNest versioned, governed context for AI agents (open-source CLI)",
-      "fetched_at": "2026-07-09T14:27:39.819697+00:00"
-    },
-    "36059cb3e2839155": {
-      "title": "Show HN: Tokenstead, find AI models for your hardware",
-      "fetched_at": "2026-07-09T14:27:40.422285+00:00"
-    },
-    "3e386691e7bf0a51": {
-      "title": "A Startup That Builds AI Agents Used One to Raise $100M",
-      "fetched_at": "2026-07-09T14:27:41.025055+00:00"
-    },
-    "9b2c842c6fcd008c": {
-      "title": "Why AI Agents need a runtime, not just a framework",
-      "fetched_at": "2026-07-09T14:27:41.626905+00:00"
-    },
-    "47feee121d736e11": {
-      "title": "Meta says its new AI model is ready to compete on coding",
-      "fetched_at": "2026-07-09T14:27:42.239605+00:00"
-    },
-    "48106f58752e6e92": {
-      "title": "Show HN: A zero-dependency auditor for decision records in AI-touched systems",
-      "fetched_at": "2026-07-09T14:27:42.836678+00:00"
-    },
-    "66eabbd18b67cd79": {
-      "title": "滴滴车载AED将纳入120调度，首期西安、深圳试点",
-      "fetched_at": "2026-07-09T14:27:43.458350+00:00"
-    },
-    "9c4110d4e7cb6c2c": {
-      "title": "China's AI boom is creating a different kind of entrepreneur",
-      "fetched_at": "2026-07-09T14:27:44.091739+00:00"
-    },
-    "b72dad53e9530f18": {
-      "title": "Interview: Drew DeVault on an AI-free version of Vim",
-      "fetched_at": "2026-07-09T14:27:44.702567+00:00"
-    },
-    "f50a8fbf7a209980": {
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "fetched_at": "2026-07-09T14:27:45.325285+00:00"
-    },
-    "b9396968b701f47d": {
-      "title": "Show HN: Magpie-search, Federated, local-first search for an AI",
-      "fetched_at": "2026-07-09T14:27:45.999344+00:00"
-    },
-    "3808fb711a253a23": {
-      "title": "The Answering Machine",
-      "fetched_at": "2026-07-09T14:27:46.595934+00:00"
-    },
-    "5fce816355a22d9e": {
-      "title": "Say hello to Claude Wrapped",
-      "fetched_at": "2026-07-09T14:27:47.197515+00:00"
-    },
-    "dc51a38616637eac": {
-      "title": "Ask HN: Is Google NERFing AI Mode?",
-      "fetched_at": "2026-07-09T14:27:47.797028+00:00"
-    },
-    "ac1fb1cc0667b763": {
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "fetched_at": "2026-07-09T14:27:48.418588+00:00"
-    },
-    "242646e70bda00ef": {
-      "title": "Building the AI Retrieval Infrastructure Behind 20B+ Vectors at HubSpot",
-      "fetched_at": "2026-07-09T14:27:49.042563+00:00"
-    },
-    "84802c44440d9715": {
-      "title": "Show HN: I built a budgeting app where the AI does the bookkeeping",
-      "fetched_at": "2026-07-09T14:27:49.655712+00:00"
-    },
-    "cf8329532ca2261d": {
-      "title": "廣西洪災：多次預警之後，洪水為何仍令人措手不及？",
-      "fetched_at": "2026-07-09T14:27:52.771937+00:00"
-    },
-    "7d5b33b5033dd08d": {
-      "title": "澳門國安法首案起訴 歐錦新顛覆罪面臨25年徒刑",
-      "fetched_at": "2026-07-09T14:27:53.394345+00:00"
-    },
-    "113d48fc51777701": {
-      "title": "台灣毒油：致癌沙拉油流入各大超商，食安制度為何失效？",
-      "fetched_at": "2026-07-09T14:27:53.999858+00:00"
-    },
-    "9b4517fedd35f29e": {
-      "title": "身体接触有益健康，现代人如何缓解“触碰饥渴”？",
-      "fetched_at": "2026-07-09T14:27:54.621977+00:00"
-    },
-    "ee3e4516011605b1": {
-      "title": "若入主唐寧街 貝安德會開啟新的中英關係嗎？",
-      "fetched_at": "2026-07-09T14:27:55.214733+00:00"
-    },
-    "4e78093518cb6f99": {
-      "title": "中國搞笑網紅「陳土豆」台灣爆紅，為何引「統戰」爭議？",
-      "fetched_at": "2026-07-09T14:27:55.848676+00:00"
-    },
-    "47c5e148f5a62cb8": {
-      "title": "美国还能挺得住吗？",
-      "fetched_at": "2026-07-09T14:27:56.443769+00:00"
-    },
-    "a60168521f3b7e77": {
-      "title": "欧米伽-3补充剂真的对大脑有益吗？",
-      "fetched_at": "2026-07-09T14:27:57.065854+00:00"
-    },
-    "abf51a076059e013": {
-      "title": "北约峰会：特朗普在对盟友出言不逊后又展示团结",
-      "fetched_at": "2026-07-09T14:27:57.760759+00:00"
-    },
-    "0fd14e7957d2591c": {
-      "title": "「沒戴保險套就不要做」？台灣擬管制事後避孕藥引發女性焦慮",
-      "fetched_at": "2026-07-09T14:27:58.400096+00:00"
-    },
-    "28a94a2b8f784cec": {
-      "title": "伊朗停火协议“终结”，特朗普面临破局难题",
-      "fetched_at": "2026-07-09T14:27:59.011339+00:00"
-    },
-    "2631807bcd0a5506": {
-      "title": "My Favorite Product Discovery Tool: Assumption Mapping",
-      "fetched_at": "2026-07-09T14:28:01.642049+00:00"
-    },
-    "7b273e65a7896593": {
-      "title": "Show HN: Baulist – Outfit discovery/shopping app in a scrolling feed of yourself",
-      "fetched_at": "2026-07-09T14:28:02.256121+00:00"
-    },
-    "670e2eea2e0543f7": {
-      "title": "Extreme heat waves are making our cities buckle. Investing in urban nature is no longer optional.",
-      "fetched_at": "2026-07-09T14:28:02.875125+00:00"
-    },
-    "13ec6360130ee43b": {
-      "title": "These ancient quasars shouldn't exist so soon after the Big Bang",
-      "fetched_at": "2026-07-09T14:28:03.495793+00:00"
-    },
-    "5f2bb1564e76ac9f": {
-      "title": "This Mars rover could finally reveal whether life ever existed on Mars",
-      "fetched_at": "2026-07-09T14:28:04.110058+00:00"
-    },
-    "70827cc1dd1bdc91": {
-      "title": "Scientists finally solved a 150-year-old gallium mystery",
-      "fetched_at": "2026-07-09T14:28:04.731592+00:00"
-    },
-    "a2ef80e8a5d46a8a": {
-      "title": "Trees keep absorbing carbon long after they stop growing",
-      "fetched_at": "2026-07-09T14:28:05.350052+00:00"
-    },
-    "e12532be3f2cd354": {
-      "title": "A vitamin A discovery is changing what scientists know about vision",
-      "fetched_at": "2026-07-09T14:28:05.970678+00:00"
-    },
-    "bf8730154e529329": {
-      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
-      "fetched_at": "2026-07-09T14:28:06.678881+00:00"
-    },
-    "427ddc6aaab88b7f": {
-      "title": "CERN shuts down Large Hadron Collider until 2030, upgrading the atom smasher to its most powerful form yet",
-      "fetched_at": "2026-07-09T14:28:07.289932+00:00"
-    },
-    "b6a8484894001b3d": {
-      "title": "500-year-old freeze-dried potato snacks discovered in Inca storage room in Peru",
-      "fetched_at": "2026-07-09T14:28:07.924281+00:00"
-    },
-    "6f1e249b5ebd131b": {
-      "title": "66 billion trees have been planted in China's Great Green Wall — and they appear to be growing faster than natural forests",
-      "fetched_at": "2026-07-09T14:28:08.543309+00:00"
-    },
     "dcb3f7bec9b24a8a": {
       "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
       "fetched_at": "2026-07-09T19:19:42.134826+00:00"
@@ -4087,7 +3915,111 @@
     "73cd7d44faaf5182": {
       "title": "Scientists used AI to crack one of water's biggest mysteries",
       "fetched_at": "2026-07-17T13:01:33.562170+00:00"
+    },
+    "d76f3dbaf19eaaf4": {
+      "title": "Oxford Physicist Says an Antigravity Machine May Be Possible",
+      "fetched_at": "2026-07-17T18:50:55.039882+00:00"
+    },
+    "a936dba86be86e47": {
+      "title": "Show HN: Feral – an AI agent that creates content to promote your stuff",
+      "fetched_at": "2026-07-17T18:50:55.619760+00:00"
+    },
+    "f517ee5da33d21e2": {
+      "title": "Show HN: An AI agent that creates text posts and image ads for your business",
+      "fetched_at": "2026-07-17T18:50:56.207865+00:00"
+    },
+    "dacef44334958792": {
+      "title": "Sandboxing LLM-Generated Python: How I Let Strangers' Prompts Fight Each Other",
+      "fetched_at": "2026-07-17T18:50:56.786672+00:00"
+    },
+    "0b07c7215e454293": {
+      "title": "1999.ai: AI and dot-com déjà vu",
+      "fetched_at": "2026-07-17T18:50:57.361933+00:00"
+    },
+    "fa1298090e3af029": {
+      "title": "In-House LLM Serving at Netflix",
+      "fetched_at": "2026-07-17T18:50:57.945756+00:00"
+    },
+    "1b3e42e24ef6027f": {
+      "title": "Chat GPT Is Eating the World",
+      "fetched_at": "2026-07-17T18:50:58.527904+00:00"
+    },
+    "fac3cff1482ab3be": {
+      "title": "Show HN: AI Crypto Investigations/Research Agents",
+      "fetched_at": "2026-07-17T18:50:59.096301+00:00"
+    },
+    "bcf094be75cb1f5b": {
+      "title": "Chai Discovery nabs $400M Series C as AI-designed antibodies reach Big Pharma",
+      "fetched_at": "2026-07-17T18:50:59.674036+00:00"
+    },
+    "0a748e7d6db8fb89": {
+      "title": "Show HN: The AI Lethal Trifecta",
+      "fetched_at": "2026-07-17T18:51:00.327695+00:00"
+    },
+    "6535053f6c89bd13": {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "fetched_at": "2026-07-17T18:51:00.905832+00:00"
+    },
+    "12b53db8128999f2": {
+      "title": "Learning a few things about running SQLite",
+      "fetched_at": "2026-07-17T18:51:01.480119+00:00"
+    },
+    "7d16fd53fcf6ba38": {
+      "title": "Apple’s plot to crush OpenAI",
+      "fetched_at": "2026-07-17T18:51:02.053153+00:00"
+    },
+    "0f280b4253b7003e": {
+      "title": "AI scans your expenses and shows you where to save",
+      "fetched_at": "2026-07-17T18:51:02.619585+00:00"
+    },
+    "6334597f045c2041": {
+      "title": "How are you giving AI agents access to postgress?",
+      "fetched_at": "2026-07-17T18:51:03.194585+00:00"
+    },
+    "f75d6d848a1bb78c": {
+      "title": "OpenAI admits GPT-5.6 occasionally deletes files – but it's an 'honest mistake'",
+      "fetched_at": "2026-07-17T18:51:03.777908+00:00"
+    },
+    "9183d018f88efc48": {
+      "title": "The Truth About AI's Water Use",
+      "fetched_at": "2026-07-17T18:51:04.358531+00:00"
+    },
+    "a0b8ba0d109468f5": {
+      "title": "Patreon stops asking AI bots not to scrape and starts blocking them",
+      "fetched_at": "2026-07-17T18:51:04.940037+00:00"
+    },
+    "ff542b4c37f019d4": {
+      "title": "The Download: perimenopause misinformation and China's latest AI leap",
+      "fetched_at": "2026-07-17T18:51:05.520641+00:00"
+    },
+    "bde72bfd631d25ec": {
+      "title": "What is the most beneficial way AI has impacted your daily life?",
+      "fetched_at": "2026-07-17T18:51:06.091583+00:00"
+    },
+    "dd0c9d618f53209a": {
+      "title": "就任英國工黨黨魁 「北部王」貝安德其人其事",
+      "fetched_at": "2026-07-17T18:51:08.978815+00:00"
+    },
+    "207d5a7bcf804d06": {
+      "title": "'RNA can do things which we have never seen before': New study challenges assumptions about what RNA was up to at the dawn of life",
+      "fetched_at": "2026-07-17T18:51:10.974777+00:00"
+    },
+    "c1a09e01bb372ac9": {
+      "title": "'These are striking forecasts': Super El Niño keeps getting even more likely, and it could bring a humanitarian crisis",
+      "fetched_at": "2026-07-17T18:51:11.562610+00:00"
+    },
+    "87eeffabb3b25115": {
+      "title": "'Explosive diarrhea' parasite infections in 5 states linked to Taco Bell lettuce; other cases still under investigation",
+      "fetched_at": "2026-07-17T18:51:12.150852+00:00"
+    },
+    "4f967e5baec0806c": {
+      "title": "'Shared cosmic experience': 'Potentially hazardous' asteroid Apophis could be visible to 90% of Earth's population during ultraclose 2029 flyby, new maps reveal",
+      "fetched_at": "2026-07-17T18:51:12.737404+00:00"
+    },
+    "5aada7ea6b6bd1ce": {
+      "title": "Science news this week: Time emerges inside a mini-universe, scientists thicken Arctic ice, and mouse study hints at why we lack memories from infancy",
+      "fetched_at": "2026-07-17T18:51:12.737574+00:00"
     }
   },
-  "last_updated": "2026-07-17T13:01:33.719869+00:00"
+  "last_updated": "2026-07-17T18:51:12.897479+00:00"
 }
