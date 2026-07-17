@@ -1,129 +1,5 @@
 {
   "articles": {
-    "d68ee64fa1d34c71": {
-      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-      "fetched_at": "2026-07-08T19:04:36.188841+00:00"
-    },
-    "8e9d30fa1f2dd5dd": {
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "fetched_at": "2026-07-08T19:04:36.806044+00:00"
-    },
-    "23917338369a610f": {
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "fetched_at": "2026-07-08T19:04:37.432532+00:00"
-    },
-    "8ea13372662ca76e": {
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "fetched_at": "2026-07-08T19:04:38.048552+00:00"
-    },
-    "2c23c083cd34dc24": {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "fetched_at": "2026-07-08T19:04:38.660601+00:00"
-    },
-    "102e8f950d79f173": {
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "fetched_at": "2026-07-08T19:04:39.282902+00:00"
-    },
-    "feea1cffce481711": {
-      "title": "These AI startups are growing revenue at faster and faster rates",
-      "fetched_at": "2026-07-08T19:04:39.907159+00:00"
-    },
-    "6bc29889d83663bc": {
-      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-      "fetched_at": "2026-07-08T19:04:40.526323+00:00"
-    },
-    "7b7959e5ed576617": {
-      "title": "Cloudflare与OpenAI启动试点项目，拟利用全球网络数据优化AI搜索",
-      "fetched_at": "2026-07-08T19:04:41.159301+00:00"
-    },
-    "d48c178f9aad86b2": {
-      "title": "蓝色起源以1300亿美元估值融资100亿美元",
-      "fetched_at": "2026-07-08T19:04:41.774655+00:00"
-    },
-    "dfc57f3d6995f31f": {
-      "title": "深圳市铂科新材料股份有限公司在港交所提交上市申请",
-      "fetched_at": "2026-07-08T19:04:42.392488+00:00"
-    },
-    "23f87c4f57438d67": {
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "fetched_at": "2026-07-08T19:04:43.017738+00:00"
-    },
-    "221bbbf5ad822b17": {
-      "title": "OpenAI前研究员田永龙加入腾讯将参与VLM相关研发",
-      "fetched_at": "2026-07-08T19:04:43.630324+00:00"
-    },
-    "610fc49813c5cefc": {
-      "title": "太阳纸业：拟投资不超过50亿元建设广西南宁林浆纸一体化提质增效技改项目",
-      "fetched_at": "2026-07-08T19:04:44.250984+00:00"
-    },
-    "ea27880941730b7d": {
-      "title": "江淮汽车：预计上半年净亏损7.4亿元，销量同比下滑",
-      "fetched_at": "2026-07-08T19:04:44.876654+00:00"
-    },
-    "ad7dc3fc5b7d8282": {
-      "title": "精测电子：筹划收购上海精测部分股权并配套募资，股票停牌",
-      "fetched_at": "2026-07-08T19:04:45.552374+00:00"
-    },
-    "713317601c50c87d": {
-      "title": "高德红外：预计上半年净利润同比增长602%-701%",
-      "fetched_at": "2026-07-08T19:04:46.170878+00:00"
-    },
-    "517961bcc6e1ebdf": {
-      "title": "正帆科技：控股股东拟减持不超0.95%股份",
-      "fetched_at": "2026-07-08T19:04:46.783945+00:00"
-    },
-    "7cf8829b384c72cc": {
-      "title": "诚邦股份：上半年预盈2600万元，半导体储存业务营业收入、净利润同比较大幅度增长",
-      "fetched_at": "2026-07-08T19:04:47.399237+00:00"
-    },
-    "b4ed8ba9efb266f9": {
-      "title": "智谱通过配售发行1980万股H股",
-      "fetched_at": "2026-07-08T19:04:48.016988+00:00"
-    },
-    "edd3295614ff7f06": {
-      "title": "Inscriptions Found at Phrygian City of Acmonia",
-      "fetched_at": "2026-07-08T19:04:52.655017+00:00"
-    },
-    "d08f98f94305726c": {
-      "title": "Was Homo floresiensis a Hunter or a Scavenger?",
-      "fetched_at": "2026-07-08T19:04:53.278913+00:00"
-    },
-    "bacc40889ad2a551": {
-      "title": "We remember little to nothing of early childhood — and a recent mouse study may help explain why",
-      "fetched_at": "2026-07-08T19:04:53.893789+00:00"
-    },
-    "8fd43c7df644560f": {
-      "title": "Scythian DNA Study Examines Elite Family Ties",
-      "fetched_at": "2026-07-08T19:04:54.508157+00:00"
-    },
-    "c26258dde006e39f": {
-      "title": "Secretive Chinese probe snaps first photo of Earth's mysterious 'quasi-moon' — and it may pose a big problem",
-      "fetched_at": "2026-07-08T19:04:55.135205+00:00"
-    },
-    "814da4bf4543c854": {
-      "title": "Eliza Archaeology Project",
-      "fetched_at": "2026-07-08T19:04:55.766785+00:00"
-    },
-    "47b53fe65c98930e": {
-      "title": "'What we found was striking': Physicists detect new kind of gravitational wave signal from a black hole's event horizon",
-      "fetched_at": "2026-07-08T19:04:56.392142+00:00"
-    },
-    "baeb4c893a69d035": {
-      "title": "Shadowy tendrils of ancient lava have scarred a dark volcano next to a 'skull' in the Sahara — Earth from space",
-      "fetched_at": "2026-07-08T19:04:57.012344+00:00"
-    },
-    "e21732840f9c8fd9": {
-      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
-      "fetched_at": "2026-07-08T19:04:57.627711+00:00"
-    },
-    "eea427a162dfa069": {
-      "title": "Scientists say creatine may help fight depression",
-      "fetched_at": "2026-07-08T19:04:58.251704+00:00"
-    },
-    "7ae7795972f2c6a4": {
-      "title": "Why scientists fear we're missing evidence of extraterrestrial life",
-      "fetched_at": "2026-07-08T19:04:58.875410+00:00"
-    },
     "44beaad1432207d2": {
       "title": "前日本央行官员称本轮加息周期政策利率或升至2%以上",
       "fetched_at": "2026-07-09T01:50:32.582289+00:00"
@@ -3947,7 +3823,127 @@
     "691c9a7191a66a8d": {
       "title": "'This was one of the most arduous expeditions I've ever done': Scientists confirm that 15-mile-wide pit found on Google Maps is ancient meteor crater",
       "fetched_at": "2026-07-16T18:53:57.596467+00:00"
+    },
+    "c86845fa1ca78123": {
+      "title": "A股三大指数集体低开，德明利跌停",
+      "fetched_at": "2026-07-17T01:29:28.539856+00:00"
+    },
+    "123824bdca101801": {
+      "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
+      "fetched_at": "2026-07-17T01:29:29.140742+00:00"
+    },
+    "4c93deb9a7d63d35": {
+      "title": "央行今日开展4505亿元7天逆回购操作",
+      "fetched_at": "2026-07-17T01:29:29.738442+00:00"
+    },
+    "4394805f6434a882": {
+      "title": "恒指开盘涨0.06%，恒生科技指数跌0.05%",
+      "fetched_at": "2026-07-17T01:29:30.339221+00:00"
+    },
+    "8ff7ad1c47be026b": {
+      "title": "人民币兑美元中间价报6.7934，下调25点",
+      "fetched_at": "2026-07-17T01:29:30.940174+00:00"
+    },
+    "31e611e0972ea8f7": {
+      "title": "微软CEO批评Anthropic对Fable模型的内容管控过于严苛",
+      "fetched_at": "2026-07-17T01:29:31.537586+00:00"
+    },
+    "6efc7153c5bee7f5": {
+      "title": "自研氢能催化剂关键材料，稳定性提升50%，「铂氢科技」完成数千万元Pre-A轮融资 | 36氪首发",
+      "fetched_at": "2026-07-17T01:29:32.140193+00:00"
+    },
+    "409d6c3d0321f605": {
+      "title": "智谱ARR达到10亿美元，半年增长15倍",
+      "fetched_at": "2026-07-17T01:29:32.729280+00:00"
+    },
+    "0965ce66c53aef5d": {
+      "title": "从“赚价差”到“赚时间价值”，基金投顾成券商财富管理关键抓手",
+      "fetched_at": "2026-07-17T01:29:33.330273+00:00"
+    },
+    "44ccfb975f5ac462": {
+      "title": "独家 | 智谱 ARR 达到10 亿美元，半年增长 15 倍",
+      "fetched_at": "2026-07-17T01:29:33.924144+00:00"
+    },
+    "2781269b3f0ddc26": {
+      "title": "因国税局税务稽查事宜与白宫产生冲突，美财政部最高税务官员遭解职",
+      "fetched_at": "2026-07-17T01:29:34.530920+00:00"
+    },
+    "437b34dfdbc494f4": {
+      "title": "成本攀升叠加需求显著增长，磷酸铁锂龙头宣布涨价",
+      "fetched_at": "2026-07-17T01:29:35.243804+00:00"
+    },
+    "ec94a66b1a904a96": {
+      "title": "AI板块遭遇抛售，日本芯片厂商铠侠市值较高点腰斩",
+      "fetched_at": "2026-07-17T01:29:35.835951+00:00"
+    },
+    "d452856818464230": {
+      "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+      "fetched_at": "2026-07-17T01:29:36.439261+00:00"
+    },
+    "ac0a6158bbeef212": {
+      "title": "两市融资余额减少285.86亿元",
+      "fetched_at": "2026-07-17T01:29:37.035390+00:00"
+    },
+    "1f9fc59af870e872": {
+      "title": "截至去年末中国独角兽企业达376家，总量稳步扩容",
+      "fetched_at": "2026-07-17T01:29:37.637287+00:00"
+    },
+    "3e8596b959be5c79": {
+      "title": "AI手机渗透率有望加速提升，18股获5家及以上机构评级",
+      "fetched_at": "2026-07-17T01:29:38.237536+00:00"
+    },
+    "0fdbfe1e850e9459": {
+      "title": "中信证券：算电协同支撑国产算力高质量扩容",
+      "fetched_at": "2026-07-17T01:29:38.852068+00:00"
+    },
+    "0d03183f4f1351f3": {
+      "title": "ETF更名迎来“季度考”，产品识别度有待进一步提升",
+      "fetched_at": "2026-07-17T01:29:39.446507+00:00"
+    },
+    "ba6d2f9a0cac5250": {
+      "title": "18家公募接连上报，首批主动ETF渐行渐近",
+      "fetched_at": "2026-07-17T01:29:40.058745+00:00"
+    },
+    "746e76edb6885677": {
+      "title": "民调显示多国民众对中国好感度超过美国",
+      "fetched_at": "2026-07-17T01:29:42.581338+00:00"
+    },
+    "ac8c1ee270ce3a70": {
+      "title": "「充滿魔力與人性」電影《奧德賽》的五大看點",
+      "fetched_at": "2026-07-17T01:29:43.172206+00:00"
+    },
+    "619410fb991b9f9d": {
+      "title": "涉利用特朗普演說內幕下注，白宮讀稿機操作員獲利10萬元停職受查",
+      "fetched_at": "2026-07-17T01:29:43.783811+00:00"
+    },
+    "4fd70add7b2e890a": {
+      "title": "Evolving Windows vulnerability management to meet speed of AI-powered discovery",
+      "fetched_at": "2026-07-17T01:29:45.911341+00:00"
+    },
+    "fc716826ed16a4c0": {
+      "title": "Ancient chariot emerges among remains of mysterious society that burned down its own buildings and then disappeared",
+      "fetched_at": "2026-07-17T01:29:46.541526+00:00"
+    },
+    "b4972c332bcc65b9": {
+      "title": "Nobel Prize-winning physicist and team use Claude AI to solve decades-old math puzzle",
+      "fetched_at": "2026-07-17T01:29:47.157381+00:00"
+    },
+    "637b0aeb751ec79a": {
+      "title": "Medieval Papal Seal Unearthed in Estonia",
+      "fetched_at": "2026-07-17T01:29:47.780343+00:00"
+    },
+    "6c799962d0718323": {
+      "title": "Human Remains and Objects Repatriated to Chumash Indians",
+      "fetched_at": "2026-07-17T01:29:48.386929+00:00"
+    },
+    "90270821b201bd69": {
+      "title": "Neolithic Homes Excavated in Ireland",
+      "fetched_at": "2026-07-17T01:29:49.081287+00:00"
+    },
+    "9638fa9df9c6ab70": {
+      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
+      "fetched_at": "2026-07-17T01:29:49.686979+00:00"
     }
   },
-  "last_updated": "2026-07-16T18:53:57.707304+00:00"
+  "last_updated": "2026-07-17T01:29:49.769285+00:00"
 }
