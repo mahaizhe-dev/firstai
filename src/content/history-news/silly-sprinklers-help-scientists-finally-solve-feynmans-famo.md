@@ -1,0 +1,10 @@
+---
+title: '“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery'
+description: 'A team of mathematicians used whimsical "silly sprinklers" to solve a physics mystery that has puzzled scientists for decades. Their experiments showed that the rotation of both normal and reverse spr'
+pubDate: 2026-07-17T09:58:52
+source: 'Science Daily'
+sourceUrl: 'https://www.sciencedaily.com/releases/2026/07/260715083535.htm'
+tags: []
+---
+
+A team of mathematicians used whimsical "silly sprinklers" to solve a physics mystery that has puzzled scientists for decades. Their experiments showed that the rotation of both normal and reverse sprinklers is driven by the momentum of flowing water, not by the outside water flow or other long-standing theories. The results finally provide a clear answer to Feynman’s famous sprinkler problem. They could also help engineers design more efficient fluid-powered machines.

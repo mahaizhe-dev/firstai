@@ -1,129 +1,5 @@
 {
   "articles": {
-    "ee593781b90d4d98": {
-      "title": "AI Web Design (Opus vs. Sol)",
-      "fetched_at": "2026-07-10T13:54:54.629105+00:00"
-    },
-    "00e7ebbd72e8997b": {
-      "title": "Record Companies Push to Label AI Songs on Streaming Platforms",
-      "fetched_at": "2026-07-10T13:54:55.290001+00:00"
-    },
-    "3db13d79735022b3": {
-      "title": "The hard part of AI root cause analysis is no longer the model",
-      "fetched_at": "2026-07-10T13:54:55.864848+00:00"
-    },
-    "842cb0b473d67bc0": {
-      "title": "Older adults know AI is slop. They just like it",
-      "fetched_at": "2026-07-10T13:54:56.518966+00:00"
-    },
-    "4721e2f7b1f68587": {
-      "title": "Why Fear Matters in Governing Military AI",
-      "fetched_at": "2026-07-10T13:54:57.097068+00:00"
-    },
-    "061f70d33d33ce50": {
-      "title": "Show HN: Pay-per-call MCP server with 47 AI endpoints, micropayments via x402",
-      "fetched_at": "2026-07-10T13:54:57.676115+00:00"
-    },
-    "4c8d1bfe7cee8f0e": {
-      "title": "Show HN: My AI agent has 1 hour to earn €10 – it shipped this page itself",
-      "fetched_at": "2026-07-10T13:54:58.268392+00:00"
-    },
-    "f4319dcfc9f61205": {
-      "title": "Would you host part of an AI data center in your home?",
-      "fetched_at": "2026-07-10T13:54:58.846187+00:00"
-    },
-    "dfc7883633722cff": {
-      "title": "New Codex and Chat GPT app is a bit confusing to use?",
-      "fetched_at": "2026-07-10T13:54:59.425555+00:00"
-    },
-    "e68818eb988ebe2a": {
-      "title": "How do you use Vim in the era of AI?",
-      "fetched_at": "2026-07-10T13:55:00.039373+00:00"
-    },
-    "9c22b75acc4accc2": {
-      "title": "AI Transport v0.5.0: durable execution with Steps",
-      "fetched_at": "2026-07-10T13:55:00.634948+00:00"
-    },
-    "196f3d19e0ae3894": {
-      "title": "热门中概股美股盘前普涨，阿里巴巴涨超2%",
-      "fetched_at": "2026-07-10T13:55:01.218715+00:00"
-    },
-    "325ae8d970febf54": {
-      "title": "美股大型科技股盘前涨跌不一，Meta涨超4%",
-      "fetched_at": "2026-07-10T13:55:01.825123+00:00"
-    },
-    "590f92ffe553091b": {
-      "title": "Give Your AI Assistant a Private Memory",
-      "fetched_at": "2026-07-10T13:55:02.416652+00:00"
-    },
-    "a365ad700dee9256": {
-      "title": "\"Rights for robots\" and the AI slavery fantasy",
-      "fetched_at": "2026-07-10T13:55:03.021717+00:00"
-    },
-    "ad57ad35cbb2d5e8": {
-      "title": "The Language of AI Could Change How Humans Speak",
-      "fetched_at": "2026-07-10T13:55:03.734532+00:00"
-    },
-    "cd77486205cb140e": {
-      "title": "上交所：本周对恒尚节能、有研硅、中船特气等异常波动股票以及财通福鑫LOF等溢价较高的基金进行重点监控",
-      "fetched_at": "2026-07-10T13:55:04.314301+00:00"
-    },
-    "7de1bf0466521629": {
-      "title": "深交所：本周共对197起证券异常交易行为采取了自律监管措施",
-      "fetched_at": "2026-07-10T13:55:04.888263+00:00"
-    },
-    "d629ce2d746f2758": {
-      "title": "AI has lost all meaning",
-      "fetched_at": "2026-07-10T13:55:05.475857+00:00"
-    },
-    "022a1ae30800550f": {
-      "title": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
-      "fetched_at": "2026-07-10T13:55:06.089192+00:00"
-    },
-    "6991a5671aca0af2": {
-      "title": "颱風巴威逼近台灣本島 絕大多數縣市停班停課、航班取消",
-      "fetched_at": "2026-07-10T13:55:08.856655+00:00"
-    },
-    "5473804973a8dd48": {
-      "title": "新加坡夫婦收養了印尼男嬰，卻發現孩子疑遭人口販運",
-      "fetched_at": "2026-07-10T13:55:09.433888+00:00"
-    },
-    "ec021dc39ef62ad3": {
-      "title": "中国开启可回收火箭时代，加速追赶SpaceX",
-      "fetched_at": "2026-07-10T13:55:10.032573+00:00"
-    },
-    "032ffbdae3cf2c8c": {
-      "title": "中國存放著被凍結的伊朗資產：錢在哪裡？為何重要？",
-      "fetched_at": "2026-07-10T13:55:10.622705+00:00"
-    },
-    "744ee52ed138e8df": {
-      "title": "New sodium metal battery design charges in just 4 minutes and retains its capacity for years",
-      "fetched_at": "2026-07-10T13:55:13.682155+00:00"
-    },
-    "ea44e85aac621dd8": {
-      "title": "Canon EOS R6 III review: A wildlife wonder",
-      "fetched_at": "2026-07-10T13:55:14.260429+00:00"
-    },
-    "b42c2a10c3a23bb5": {
-      "title": "This common pesticide may be quietly wiping out future bumblebees",
-      "fetched_at": "2026-07-10T13:55:14.854744+00:00"
-    },
-    "b5e72dbfa6683d0b": {
-      "title": "Europe's most active volcano may have a secret origin",
-      "fetched_at": "2026-07-10T13:55:15.439774+00:00"
-    },
-    "03059e853e3c3045": {
-      "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
-      "fetched_at": "2026-07-10T13:55:16.026656+00:00"
-    },
-    "40ad902138a54b7d": {
-      "title": "Ancient-DNA analysis solves 500-year-old mystery of what killed 2 Medici brothers",
-      "fetched_at": "2026-07-10T13:55:16.608243+00:00"
-    },
-    "8cad09fce04326b6": {
-      "title": "Scientists discover a completely different way to fight viruses",
-      "fetched_at": "2026-07-10T13:55:17.195148+00:00"
-    },
     "a1490ef5726a74ad": {
       "title": "Trace: Stripe Radar for autonomous AI agents (Sybil fraud reduced by 86%)",
       "fetched_at": "2026-07-10T19:13:36.144976+00:00"
@@ -3951,7 +3827,151 @@
     "1cc5e532e0b4031c": {
       "title": "'800 seconds for a sick visit': Some factors driving antibiotic resistance have nothing to do with biology, says medical sociologist Julia Szymczak",
       "fetched_at": "2026-07-18T12:47:52.054100+00:00"
+    },
+    "150bd18317417a3a": {
+      "title": "White House cybersecurity clearinghouse to patch software flaws by AI",
+      "fetched_at": "2026-07-18T18:44:28.696108+00:00"
+    },
+    "1eebd7dccc446274": {
+      "title": "Show HN: A pre-launch scanner for AI-built apps (it scores itself 60/100)",
+      "fetched_at": "2026-07-18T18:44:29.282441+00:00"
+    },
+    "407db7c63a5cb699": {
+      "title": "OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape",
+      "fetched_at": "2026-07-18T18:44:29.861859+00:00"
+    },
+    "46dab59d3df19dd9": {
+      "title": "A 30-year-old open problem in complexity theory resolved by GPT-5.6 Pro",
+      "fetched_at": "2026-07-18T18:44:30.518761+00:00"
+    },
+    "18c619dcd7128261": {
+      "title": "AI's new political donor class is outspending Big Tech's last one",
+      "fetched_at": "2026-07-18T18:44:31.106597+00:00"
+    },
+    "4e4e090916eb4dc8": {
+      "title": "Better Than Free: How to Differentiate in the Age of AI",
+      "fetched_at": "2026-07-18T18:44:31.707977+00:00"
+    },
+    "f8c213e23200d748": {
+      "title": "Studying the Role of Sandboxing for AI Control",
+      "fetched_at": "2026-07-18T18:44:32.311465+00:00"
+    },
+    "2c86fbcd072256bf": {
+      "title": "Show HN: Talon – a self-hosted harness for long-lived AI agents",
+      "fetched_at": "2026-07-18T18:44:32.898406+00:00"
+    },
+    "8922e11b8aec03c3": {
+      "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
+      "fetched_at": "2026-07-18T18:44:33.485115+00:00"
+    },
+    "4a1f8f3d494cab66": {
+      "title": "Soofi S: Our first model for industrial AI in Europe",
+      "fetched_at": "2026-07-18T18:44:34.062446+00:00"
+    },
+    "e02fc9ba95692cc9": {
+      "title": "The AI with a Thousand Voices",
+      "fetched_at": "2026-07-18T18:44:34.645031+00:00"
+    },
+    "4f1a3b46abf5a8e4": {
+      "title": "AI spam filters are getting suckered by old-school text salting",
+      "fetched_at": "2026-07-18T18:44:35.237818+00:00"
+    },
+    "82d9141a78b02528": {
+      "title": "Show HN: PrimeTask, an offline-first work OS with BYO AI through MCP",
+      "fetched_at": "2026-07-18T18:44:35.821885+00:00"
+    },
+    "41ac2bc94502c421": {
+      "title": "Build: Mobile-First AI Creation on Roblox",
+      "fetched_at": "2026-07-18T18:44:36.416768+00:00"
+    },
+    "fa328ef87692ee7e": {
+      "title": "Show HN: Teya – Open‑source AI family agent on a wall‑mounted Android phone",
+      "fetched_at": "2026-07-18T18:44:37.020849+00:00"
+    },
+    "5dff0302f4cd3ae6": {
+      "title": "EU will force Google to share search data and open up AI on Android",
+      "fetched_at": "2026-07-18T18:44:37.621204+00:00"
+    },
+    "9eb7956aa98d4e30": {
+      "title": "Show HN: Slopsift – a local, graph-backed linter for AI writing",
+      "fetched_at": "2026-07-18T18:44:38.211119+00:00"
+    },
+    "7dacc83aa1e94bf9": {
+      "title": "AI Is Ruining Job Interviews",
+      "fetched_at": "2026-07-18T18:44:38.799756+00:00"
+    },
+    "969e23f907f4b7b8": {
+      "title": "Show HN: Race to AGI – a simulation browser game about running a frontier AI lab",
+      "fetched_at": "2026-07-18T18:44:39.385710+00:00"
+    },
+    "72885ac6f58b1b2a": {
+      "title": "The apps, gadgets, and tools every reader needs",
+      "fetched_at": "2026-07-18T18:44:39.966845+00:00"
+    },
+    "8396710f976850bf": {
+      "title": "廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？",
+      "fetched_at": "2026-07-18T18:44:43.086564+00:00"
+    },
+    "1ef7816e17acf6c6": {
+      "title": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
+      "fetched_at": "2026-07-18T18:44:45.467838+00:00"
+    },
+    "0ca4fd01de01d553": {
+      "title": "Not a housekeeper, but a 'vilica': The many responsibilities of Roman-era female farm managers were overlooked by historians",
+      "fetched_at": "2026-07-18T18:44:46.051360+00:00"
+    },
+    "715ece22f0f5b87d": {
+      "title": "'A dangerous proposition': How AI is warping the social fabric and the ways we collectively imagine the future",
+      "fetched_at": "2026-07-18T18:44:46.627455+00:00"
+    },
+    "011497745d763d96": {
+      "title": "Popular sugar substitutes linked to faster brain aging",
+      "fetched_at": "2026-07-18T18:44:47.213199+00:00"
+    },
+    "02a4d80137cbf626": {
+      "title": "A shattered asteroid may have bombarded Earth 800 million years ago",
+      "fetched_at": "2026-07-18T18:44:47.795838+00:00"
+    },
+    "cf8bba11d744ed13": {
+      "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
+      "fetched_at": "2026-07-18T18:44:48.377504+00:00"
+    },
+    "b028c8107c05c9fb": {
+      "title": "NASA’s James Webb catches a supermassive black hole feeding",
+      "fetched_at": "2026-07-18T18:44:48.989960+00:00"
+    },
+    "61b47b2a85bcffd7": {
+      "title": "Terraforming Mars may be more realistic than scientists once thought",
+      "fetched_at": "2026-07-18T18:44:49.584569+00:00"
+    },
+    "432bed6eaa198e65": {
+      "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
+      "fetched_at": "2026-07-18T18:44:50.168503+00:00"
+    },
+    "1f2a275f16c58fab": {
+      "title": "Tiny plastics in drinking water may be making dangerous bacteria stronger",
+      "fetched_at": "2026-07-18T18:44:50.764979+00:00"
+    },
+    "94604e345b71a7e8": {
+      "title": "Your fingers may hold a secret of human brain evolution",
+      "fetched_at": "2026-07-18T18:44:51.352191+00:00"
+    },
+    "2c600888a7d0c9a0": {
+      "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
+      "fetched_at": "2026-07-18T18:44:51.935775+00:00"
+    },
+    "792e3234ca9b0ec3": {
+      "title": "Scientists just debunked a dangerous baby rattlesnake myth",
+      "fetched_at": "2026-07-18T18:44:52.514846+00:00"
+    },
+    "ec9d8ad8d75dfbfd": {
+      "title": "Physicists created a tiny universe where time emerged without a clock",
+      "fetched_at": "2026-07-18T18:44:53.099096+00:00"
+    },
+    "1c7adf6864ec55e4": {
+      "title": "This alien planet never has sunrise or sunset. It may support life",
+      "fetched_at": "2026-07-18T18:44:53.687827+00:00"
     }
   },
-  "last_updated": "2026-07-18T12:47:52.202067+00:00"
+  "last_updated": "2026-07-18T18:44:53.788506+00:00"
 }
