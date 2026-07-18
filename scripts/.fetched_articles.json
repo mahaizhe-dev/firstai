@@ -1,133 +1,5 @@
 {
   "articles": {
-    "dcb3f7bec9b24a8a": {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "fetched_at": "2026-07-09T19:19:42.134826+00:00"
-    },
-    "95a9d44344ded0db": {
-      "title": "Google will now disclose which ads are made with AI",
-      "fetched_at": "2026-07-09T19:19:42.708151+00:00"
-    },
-    "bda74536d2721476": {
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "fetched_at": "2026-07-09T19:19:43.284180+00:00"
-    },
-    "ce2b21a257629ca4": {
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "fetched_at": "2026-07-09T19:19:43.858385+00:00"
-    },
-    "3fac5099eca9ae26": {
-      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
-      "fetched_at": "2026-07-09T19:19:44.439565+00:00"
-    },
-    "e64ce01daddb066f": {
-      "title": "Meta’s new AI chips will begin production in September",
-      "fetched_at": "2026-07-09T19:19:45.006581+00:00"
-    },
-    "44659af3b5ce7f0d": {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "fetched_at": "2026-07-09T19:19:45.588882+00:00"
-    },
-    "1b9f63d6cbc99dbf": {
-      "title": "Microsoft’s patch Tuesdays are about to get bigger",
-      "fetched_at": "2026-07-09T19:19:46.161482+00:00"
-    },
-    "3038abd7326ca2f0": {
-      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-      "fetched_at": "2026-07-09T19:19:46.736082+00:00"
-    },
-    "e1b1c50a18593c64": {
-      "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
-      "fetched_at": "2026-07-09T19:19:47.303660+00:00"
-    },
-    "b1a9b3d3a8e51981": {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "fetched_at": "2026-07-09T19:19:47.877772+00:00"
-    },
-    "2a5ae66ba5b86ffc": {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "fetched_at": "2026-07-09T19:19:48.444239+00:00"
-    },
-    "2b38d71a002e9c8e": {
-      "title": "Character.AI wants a piece of the microdrama pie",
-      "fetched_at": "2026-07-09T19:19:49.012766+00:00"
-    },
-    "e7b64e185b6a21a7": {
-      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-      "fetched_at": "2026-07-09T19:19:49.578264+00:00"
-    },
-    "06258d4867505db1": {
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "fetched_at": "2026-07-09T19:19:50.148087+00:00"
-    },
-    "fa4df89ade5024e0": {
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "fetched_at": "2026-07-09T19:19:50.728497+00:00"
-    },
-    "dd4447ec9097bdf7": {
-      "title": "上海燧原科技股份有限公司科创板IPO注册生效",
-      "fetched_at": "2026-07-09T19:19:51.306424+00:00"
-    },
-    "f881d2d0b23b0dd8": {
-      "title": "热门中概股美股盘前多数下跌，B站跌超2%",
-      "fetched_at": "2026-07-09T19:19:51.877787+00:00"
-    },
-    "d80ebc258c3a39a0": {
-      "title": "美股大型科技股盘前跌多涨少，Meta跌超3%",
-      "fetched_at": "2026-07-09T19:19:52.452040+00:00"
-    },
-    "0cd4b127bf10e5c4": {
-      "title": "美光科技：计划在2035年前将对美国本土的投资总额提升至超过2500亿美元",
-      "fetched_at": "2026-07-09T19:19:53.059805+00:00"
-    },
-    "0f44e10ba30bdb0c": {
-      "title": "一文讀懂貝安德拜相之路：英國工黨如何選舉新黨魁",
-      "fetched_at": "2026-07-09T19:20:25.492525+00:00"
-    },
-    "31d80f93b234a44a": {
-      "title": "「怕死就只有死路一條」：中國異見者董廣平偷渡韓國之路",
-      "fetched_at": "2026-07-09T19:20:26.102159+00:00"
-    },
-    "980d959e2332a676": {
-      "title": "每天服用健康補充劑？結果可能弊大於利",
-      "fetched_at": "2026-07-09T19:20:26.690245+00:00"
-    },
-    "ced96f2cda711999": {
-      "title": "Early 18th-Century Tombstone of Free Black Man Identified in Boston",
-      "fetched_at": "2026-07-09T19:21:07.938471+00:00"
-    },
-    "64111cb16f95e7e3": {
-      "title": "France Returns Artifacts to Syria",
-      "fetched_at": "2026-07-09T19:21:08.526504+00:00"
-    },
-    "0f9f6fab17607d14": {
-      "title": "Did Clovis People Hunt Large Animals?",
-      "fetched_at": "2026-07-09T19:21:09.107045+00:00"
-    },
-    "5efa751e5e4bf432": {
-      "title": "'Astronomers have to revise estimates': The Milky Way may be larger, heavier and more lopsided than we realized",
-      "fetched_at": "2026-07-09T19:21:09.687561+00:00"
-    },
-    "07c674c42cebb9f9": {
-      "title": "Scientists build tiny 'diving suit' for cockroaches, turning them into search-and rescue cyborgs",
-      "fetched_at": "2026-07-09T19:21:10.262857+00:00"
-    },
-    "11ed944a7c6e5cc7": {
-      "title": "Quantum computing wielded to create extremely rare material critical to nuclear fusion",
-      "fetched_at": "2026-07-09T19:21:10.835557+00:00"
-    },
-    "295dc3cabaed7863": {
-      "title": "New robotic heart mimics common, mysterious condition to help researchers study it",
-      "fetched_at": "2026-07-09T19:21:11.417263+00:00"
-    },
-    "eb680985ca071138": {
-      "title": "'Explosive diarrhea' parasite infections confirmed in hundreds of people across US, with 1,251 in Michigan alone",
-      "fetched_at": "2026-07-09T19:21:12.012608+00:00"
-    },
-    "d033291ac5d0dfc9": {
-      "title": "Show HN: 0-A.D. A free, open-source game of ancient warfare",
-      "fetched_at": "2026-07-09T19:21:12.584900+00:00"
-    },
     "a292609185d06009": {
       "title": "MiniMax闫俊杰：不再领取薪酬，个人拿出5%公司股份用于团队激励和开源支持",
       "fetched_at": "2026-07-10T01:48:45.258176+00:00"
@@ -4019,7 +3891,127 @@
     "5aada7ea6b6bd1ce": {
       "title": "Science news this week: Time emerges inside a mini-universe, scientists thicken Arctic ice, and mouse study hints at why we lack memories from infancy",
       "fetched_at": "2026-07-17T18:51:12.737574+00:00"
+    },
+    "c3148ce28eec62fa": {
+      "title": "美股三大指数收盘集体下跌，大型科技股普跌",
+      "fetched_at": "2026-07-18T01:21:00.116222+00:00"
+    },
+    "dd73b5715c909cb0": {
+      "title": "Face Value: How AI is reshaping trust, identity, and scams",
+      "fetched_at": "2026-07-18T01:21:00.732555+00:00"
+    },
+    "bbf4924fa87eed5d": {
+      "title": "商务部：王文涛部长会见印尼经济统筹部长艾尔朗加",
+      "fetched_at": "2026-07-18T01:21:01.386211+00:00"
+    },
+    "b6c2cc8e073fc564": {
+      "title": "“智领新程 融创未来” 两岸人工智能系列活动亮相上海世界人工智能大会",
+      "fetched_at": "2026-07-18T01:21:01.984789+00:00"
+    },
+    "af0b617cf308080b": {
+      "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
+      "fetched_at": "2026-07-18T01:21:02.593021+00:00"
+    },
+    "0d2401f7f5745db5": {
+      "title": "Overtraining as the path to human-like AI",
+      "fetched_at": "2026-07-18T01:21:03.184455+00:00"
+    },
+    "2e2d0cb61681adfe": {
+      "title": "A Proposal for The Dartmouth Summer Research Project on AI (1955) [pdf]",
+      "fetched_at": "2026-07-18T01:21:03.782749+00:00"
+    },
+    "91eedbdd5f44218e": {
+      "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
+      "fetched_at": "2026-07-18T01:21:04.376104+00:00"
+    },
+    "777efb13c7d17bd4": {
+      "title": "Public data and an AI evidence engine for Swedish politics",
+      "fetched_at": "2026-07-18T01:21:04.973763+00:00"
+    },
+    "89c0d13c67dcc202": {
+      "title": "A grumpy screed about AI in software engineering",
+      "fetched_at": "2026-07-18T01:21:05.609031+00:00"
+    },
+    "8cfe46fff766cc33": {
+      "title": "Nadella Blasts AI Industry's Double Standard",
+      "fetched_at": "2026-07-18T01:21:06.212460+00:00"
+    },
+    "e36b22bf7fccb4ef": {
+      "title": "Aside – Reddit-like circles with AI-ranked feeds",
+      "fetched_at": "2026-07-18T01:21:06.810856+00:00"
+    },
+    "0f2a5f0178c49a91": {
+      "title": "Sourced ranking of the AI infrastructure build-out",
+      "fetched_at": "2026-07-18T01:21:07.416350+00:00"
+    },
+    "5468a642397fa49d": {
+      "title": "Tyler Cowen: the future belongs to AI maniacs",
+      "fetched_at": "2026-07-18T01:21:08.017814+00:00"
+    },
+    "3f8212995f412d0d": {
+      "title": "The AI Codebase",
+      "fetched_at": "2026-07-18T01:21:08.628775+00:00"
+    },
+    "059c83ab0401fb87": {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "fetched_at": "2026-07-18T01:21:09.227376+00:00"
+    },
+    "04778d963d3e810f": {
+      "title": "Patreon Blocks AI Crawlers from Copying Content: 'Creators Deserve Compenstion'",
+      "fetched_at": "2026-07-18T01:21:09.835029+00:00"
+    },
+    "63f0de2aea2be172": {
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "fetched_at": "2026-07-18T01:21:10.423810+00:00"
+    },
+    "c7ef41be54fd3414": {
+      "title": "Netflix Paid $587M for Ben Affleck's AI Company",
+      "fetched_at": "2026-07-18T01:21:11.022347+00:00"
+    },
+    "2d6eec4ea68ac42e": {
+      "title": "Torvalds: 'AI Is a Tool, Just Like Other Tools. It's Clearly a Useful One'",
+      "fetched_at": "2026-07-18T01:21:11.629627+00:00"
+    },
+    "4e78093518cb6f99": {
+      "title": "中國搞笑網紅「陳土豆」台灣爆紅，為何引「統戰」爭議？",
+      "fetched_at": "2026-07-18T01:21:14.395593+00:00"
+    },
+    "ce1170e62504b5c9": {
+      "title": "Study Tracks Origins of 19th-Century Africans Left on Atlantic Island",
+      "fetched_at": "2026-07-18T01:21:18.351707+00:00"
+    },
+    "974976a68cb66c4c": {
+      "title": "Barracks Foundation Found in Nova Scotia Fort",
+      "fetched_at": "2026-07-18T01:21:18.949551+00:00"
+    },
+    "17b0fb1c4e60e6d4": {
+      "title": "Researchers Analyze DNA from Residents of Chinese Neolithic City",
+      "fetched_at": "2026-07-18T01:21:19.537603+00:00"
+    },
+    "5f2bb1564e76ac9f": {
+      "title": "This Mars rover could finally reveal whether life ever existed on Mars",
+      "fetched_at": "2026-07-18T01:21:20.138974+00:00"
+    },
+    "70827cc1dd1bdc91": {
+      "title": "Scientists finally solved a 150-year-old gallium mystery",
+      "fetched_at": "2026-07-18T01:21:20.751797+00:00"
+    },
+    "a2ef80e8a5d46a8a": {
+      "title": "Trees keep absorbing carbon long after they stop growing",
+      "fetched_at": "2026-07-18T01:21:21.338182+00:00"
+    },
+    "e12532be3f2cd354": {
+      "title": "A vitamin A discovery is changing what scientists know about vision",
+      "fetched_at": "2026-07-18T01:21:21.941347+00:00"
+    },
+    "bf8730154e529329": {
+      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+      "fetched_at": "2026-07-18T01:21:22.529206+00:00"
+    },
+    "13ec6360130ee43b": {
+      "title": "These ancient quasars shouldn't exist so soon after the Big Bang",
+      "fetched_at": "2026-07-18T01:21:23.134633+00:00"
     }
   },
-  "last_updated": "2026-07-17T18:51:12.897479+00:00"
+  "last_updated": "2026-07-18T01:21:23.284278+00:00"
 }
