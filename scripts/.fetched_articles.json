@@ -1,193 +1,5 @@
 {
   "articles": {
-    "7f9bac087eb2ac6c": {
-      "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
-      "fetched_at": "2026-07-11T12:51:54.660714+00:00"
-    },
-    "896d1c851f7280c9": {
-      "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
-      "fetched_at": "2026-07-11T12:51:55.296851+00:00"
-    },
-    "a7ca282e22f455e0": {
-      "title": "Vibe Coding 时代，为什么降本不一定增效？",
-      "fetched_at": "2026-07-11T12:51:55.909245+00:00"
-    },
-    "450d895ad79cb4e3": {
-      "title": "派早报：蔚来 ES8 大五座版正式上市等",
-      "fetched_at": "2026-07-11T12:51:56.536266+00:00"
-    },
-    "88c4b836eb595091": {
-      "title": "颱風巴威籠罩台灣閩浙沖繩 台灣萬戶停電、大陸疏散185萬人",
-      "fetched_at": "2026-07-11T12:52:00.378728+00:00"
-    },
-    "618966bb041d7d54": {
-      "title": "颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人",
-      "fetched_at": "2026-07-11T12:52:01.004533+00:00"
-    },
-    "084b42d5b70cfea1": {
-      "title": "中國、印度等八個人口大國無緣世界盃，為什麼？",
-      "fetched_at": "2026-07-11T12:52:01.623066+00:00"
-    },
-    "42e581b5961570c1": {
-      "title": "Science news this week: Time emerges inside a mini-universe, scientists thicken Arctic ice, and one of the oldest graves of a free Black person in the US found",
-      "fetched_at": "2026-07-11T12:52:04.105955+00:00"
-    },
-    "c05972c2d829a426": {
-      "title": "Diagnostic dilemma: An 83-year-old man went to the hospital because of very itchy skin. It turned out he had a rare form of syphilis.",
-      "fetched_at": "2026-07-11T12:52:04.752313+00:00"
-    },
-    "f31d2749092ec8ae": {
-      "title": "Does fast charging damage your battery more than regular charging?",
-      "fetched_at": "2026-07-11T12:52:05.373604+00:00"
-    },
-    "d378b3ab0c2f3a7e": {
-      "title": "Hubble telescope spots 'impossible' light from a galaxy that shouldn't have been visible",
-      "fetched_at": "2026-07-11T12:52:06.007312+00:00"
-    },
-    "9178cdfa52ee346b": {
-      "title": "This spray-on powder can stop life-threatening bleeding in 1 second",
-      "fetched_at": "2026-07-11T12:52:06.627030+00:00"
-    },
-    "beeadba0398a7965": {
-      "title": "Climate scientist who “proved” humanity is warming Earth says government report got it wrong",
-      "fetched_at": "2026-07-11T12:52:07.248297+00:00"
-    },
-    "e415aac90b392018": {
-      "title": "How asteroids may have sparked life on Earth",
-      "fetched_at": "2026-07-11T12:52:07.881161+00:00"
-    },
-    "597f04d56143ed34": {
-      "title": "390 gravitational wave detections reveal hidden population of black holes",
-      "fetched_at": "2026-07-11T12:52:08.515206+00:00"
-    },
-    "d10223d2d575b2b3": {
-      "title": "Scientists reveal what really happens when water is trapped in tiny spaces",
-      "fetched_at": "2026-07-11T12:52:09.140839+00:00"
-    },
-    "4f3d049e68d76067": {
-      "title": "Great ape laughter reveals a hidden origin of human speech",
-      "fetched_at": "2026-07-11T12:52:09.764095+00:00"
-    },
-    "29ef7098da0223fc": {
-      "title": "AI rebrands fail to deliver a lasting share price boost",
-      "fetched_at": "2026-07-11T18:42:48.858771+00:00"
-    },
-    "6115426f75b6a323": {
-      "title": "Ask HN: Has single-task focus become outdated in the AI era?",
-      "fetched_at": "2026-07-11T18:42:49.470956+00:00"
-    },
-    "ff93af4726be0735": {
-      "title": "Safe from AI: which jobs will help you thrive in the future?",
-      "fetched_at": "2026-07-11T18:42:50.052349+00:00"
-    },
-    "5c02d7e4224ff7c3": {
-      "title": "AI 2040 and the Cult of Intelligence",
-      "fetched_at": "2026-07-11T18:42:50.623521+00:00"
-    },
-    "6ea91d4f8627c108": {
-      "title": "Thalmaar AI (Defense and Space Tech) Is Hiring Founding PM",
-      "fetched_at": "2026-07-11T18:42:51.213886+00:00"
-    },
-    "ea780ea05ae58f00": {
-      "title": "OpenSandbox Universal Sandbox Infrastructure for AI Applications",
-      "fetched_at": "2026-07-11T18:42:51.794753+00:00"
-    },
-    "ef91e382968baa2b": {
-      "title": "Alex Karp Is Saying What Every Angry CEO Is Thinking About AI",
-      "fetched_at": "2026-07-11T18:42:52.381256+00:00"
-    },
-    "7cb28f71b932c988": {
-      "title": "Theories of Deep Learning",
-      "fetched_at": "2026-07-11T18:42:52.955382+00:00"
-    },
-    "7418fd6e57e6dc65": {
-      "title": "Reverse centaurs are the answer to the AI paradox",
-      "fetched_at": "2026-07-11T18:42:53.520662+00:00"
-    },
-    "b747fc6e322a7609": {
-      "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
-      "fetched_at": "2026-07-11T18:42:54.098359+00:00"
-    },
-    "b27cc3c612c81ef8": {
-      "title": "HackerRank's LLM-Based Hiring Agent",
-      "fetched_at": "2026-07-11T18:42:54.663828+00:00"
-    },
-    "17bc5b2a2b050f13": {
-      "title": "Local-first agent governance: keeping an AI agent contained",
-      "fetched_at": "2026-07-11T18:42:55.246760+00:00"
-    },
-    "861efa4678d994a3": {
-      "title": "Agentation – Visual UI Annotation for AI Coding Agents",
-      "fetched_at": "2026-07-11T18:42:55.818054+00:00"
-    },
-    "cf50627f9afd2fa6": {
-      "title": "Show HN: I Wanted AI Code Review I Could Own. So I Built Codra",
-      "fetched_at": "2026-07-11T18:42:56.395102+00:00"
-    },
-    "16a853fab9b6eef4": {
-      "title": "Show HN: Free AI Visibility Audit Tool& Agent",
-      "fetched_at": "2026-07-11T18:42:56.971076+00:00"
-    },
-    "6b35758e9554f0e6": {
-      "title": "We Tested $200 GPT-5.6 Sol on PhD Level Math [video]",
-      "fetched_at": "2026-07-11T18:42:57.555045+00:00"
-    },
-    "3992442c758b2e3a": {
-      "title": "My AI Model Tier List for Mid-2026",
-      "fetched_at": "2026-07-11T18:42:58.137947+00:00"
-    },
-    "4671c9d2af92cd7c": {
-      "title": "An educational lab of AI agent architectures",
-      "fetched_at": "2026-07-11T18:42:58.716446+00:00"
-    },
-    "a6299dcebfd088b5": {
-      "title": "I made AI agents play diplomacy",
-      "fetched_at": "2026-07-11T18:42:59.295670+00:00"
-    },
-    "416d80f4214fd8d8": {
-      "title": "AI Is Making Silicon Valley Productive, Anxious and Afraid to Log Off",
-      "fetched_at": "2026-07-11T18:42:59.870755+00:00"
-    },
-    "c2f5342dcbc3a590": {
-      "title": "颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人",
-      "fetched_at": "2026-07-11T18:43:01.887156+00:00"
-    },
-    "c4b1c1ad0963cb0f": {
-      "title": "巴威逼近登陸：中國嚴陣以待一週內第二個颱風",
-      "fetched_at": "2026-07-11T18:43:02.460718+00:00"
-    },
-    "135dcd3ece1d2c51": {
-      "title": "Tropical forests stop absorbing carbon dioxide during El Niño events. This year could be the worst.",
-      "fetched_at": "2026-07-11T18:43:20.119827+00:00"
-    },
-    "a2cea46f643cf784": {
-      "title": "'Some people called it horrifying': 'Dinner with King Tut' author on using Egyptian mummification techniques on a modern-day human body",
-      "fetched_at": "2026-07-11T18:43:20.697856+00:00"
-    },
-    "fe0d56e791ace30c": {
-      "title": "'He looked like Ramses the Great': How experimental archaeologists used ancient techniques to mummify a modern-day person",
-      "fetched_at": "2026-07-11T18:43:21.278580+00:00"
-    },
-    "f171673e40ec09cf": {
-      "title": "Songbirds are in crisis as trappers and smugglers force them into lucrative bird-singing competitions",
-      "fetched_at": "2026-07-11T18:43:21.850499+00:00"
-    },
-    "d4f2c56e89e9d9a7": {
-      "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
-      "fetched_at": "2026-07-11T18:43:22.436327+00:00"
-    },
-    "4bc970977e853131": {
-      "title": "Why the human body has so many design flaws",
-      "fetched_at": "2026-07-11T18:43:23.013901+00:00"
-    },
-    "dab4846463b155cf": {
-      "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
-      "fetched_at": "2026-07-11T18:43:23.597151+00:00"
-    },
-    "719530f19b11b637": {
-      "title": "A strange LIGO signal could reveal the missing link behind dark matter",
-      "fetched_at": "2026-07-11T18:43:24.167127+00:00"
-    },
     "74be39e05d06cb60": {
       "title": "长存IPO辅导团队公布，中信证券与中信建投合计31人组成",
       "fetched_at": "2026-07-12T01:29:20.372356+00:00"
@@ -3931,7 +3743,99 @@
     "8dee7b9dcfbea6aa": {
       "title": "Simulating Historical Communication Networks in Python",
       "fetched_at": "2026-07-19T12:51:54.482044+00:00"
+    },
+    "27006fc1e994808e": {
+      "title": "The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win",
+      "fetched_at": "2026-07-19T18:47:29.696179+00:00"
+    },
+    "2c0a3afdc283070e": {
+      "title": "Huginn: An AI Agent Activity Console",
+      "fetched_at": "2026-07-19T18:47:30.317658+00:00"
+    },
+    "8020c4ec66bdb7bf": {
+      "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)",
+      "fetched_at": "2026-07-19T18:47:30.932843+00:00"
+    },
+    "c45026c1199db75e": {
+      "title": "Generative AI Can Harm Teaching",
+      "fetched_at": "2026-07-19T18:47:31.566062+00:00"
+    },
+    "6cd4dda27311fc35": {
+      "title": "Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video]",
+      "fetched_at": "2026-07-19T18:47:32.193395+00:00"
+    },
+    "7e5fe28712d33da2": {
+      "title": "AI Requires a Labor Market Bailout",
+      "fetched_at": "2026-07-19T18:47:32.814088+00:00"
+    },
+    "083ed8c9071836db": {
+      "title": "Signal to Noise: The challenge of AI-authored text",
+      "fetched_at": "2026-07-19T18:47:33.429282+00:00"
+    },
+    "f981a2edd4a4bf54": {
+      "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
+      "fetched_at": "2026-07-19T18:47:34.070948+00:00"
+    },
+    "c320549a19879b50": {
+      "title": "Why do you use GPT-5.6 and kimi k3 inside of Claude Code?",
+      "fetched_at": "2026-07-19T18:47:34.699582+00:00"
+    },
+    "c521de57aa4cb090": {
+      "title": "I hate that I don’t hate this song made with Suno",
+      "fetched_at": "2026-07-19T18:47:35.307060+00:00"
+    },
+    "da24320a764893e0": {
+      "title": "I Cut an AI Agent's Token Use by 94%",
+      "fetched_at": "2026-07-19T18:47:35.915504+00:00"
+    },
+    "cad44850a73d19af": {
+      "title": "Resolution Horizon – Finding the mathematical limit where AI overfits to noise",
+      "fetched_at": "2026-07-19T18:47:36.530381+00:00"
+    },
+    "b06f3205b96b497e": {
+      "title": "AI slop cut first-time contributor merge rates 18.18% across 294 repos",
+      "fetched_at": "2026-07-19T18:47:37.142923+00:00"
+    },
+    "06cc4151509eddae": {
+      "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
+      "fetched_at": "2026-07-19T18:47:37.746577+00:00"
+    },
+    "290b258dfe3a2658": {
+      "title": "OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files",
+      "fetched_at": "2026-07-19T18:47:38.370719+00:00"
+    },
+    "fdcc4a635f59ed32": {
+      "title": "Do you manage task/todo differently in this AI era?",
+      "fetched_at": "2026-07-19T18:47:39.003720+00:00"
+    },
+    "c8c026928a4ec024": {
+      "title": "AI Demands More Engineering Discipline",
+      "fetched_at": "2026-07-19T18:47:39.627468+00:00"
+    },
+    "8bd9e3bed714bebb": {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "fetched_at": "2026-07-19T18:47:40.253480+00:00"
+    },
+    "9092c129c59c8268": {
+      "title": "The bottleneck for AI agents isn't the model anymore. It's the context layer",
+      "fetched_at": "2026-07-19T18:47:40.890938+00:00"
+    },
+    "dfbeac8c44a6b548": {
+      "title": "JustREPL: A no-AI coding playground",
+      "fetched_at": "2026-07-19T18:47:41.497140+00:00"
+    },
+    "c8d1db78f88123b9": {
+      "title": "'It's absolutely exciting!': Astronomers discover an atmosphere around an Earth-like planet in the habitable zone for first time ever",
+      "fetched_at": "2026-07-19T18:47:45.728412+00:00"
+    },
+    "d90969b433435e00": {
+      "title": "A tiny universe in a bottle reveals clues to the origins of life",
+      "fetched_at": "2026-07-19T18:47:46.347503+00:00"
+    },
+    "4f804e4c53b81273": {
+      "title": "The mysterious hum heard around the world may finally have an explanation",
+      "fetched_at": "2026-07-19T18:47:46.964934+00:00"
     }
   },
-  "last_updated": "2026-07-19T12:51:54.626516+00:00"
+  "last_updated": "2026-07-19T18:47:47.123976+00:00"
 }
