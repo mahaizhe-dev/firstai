@@ -1,69 +1,5 @@
 {
   "articles": {
-    "b526121d739f8698": {
-      "title": "智谱CEO唐杰发内部信：“GLM 时刻”和万亿俱乐部之后，什么是更重要的事",
-      "fetched_at": "2026-07-11T12:51:44.661886+00:00"
-    },
-    "7731840c01f41d18": {
-      "title": "独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事",
-      "fetched_at": "2026-07-11T12:51:45.293662+00:00"
-    },
-    "c82c7df2cf8ec045": {
-      "title": "乘联分会崔东树：6月新能源车厂商库存小幅收缩，行业压库存现象没有出现",
-      "fetched_at": "2026-07-11T12:51:45.915536+00:00"
-    },
-    "476676bdb9f93a81": {
-      "title": "多家A股公司预计业绩大增，存储、锂矿、有色等头部企业表现亮眼",
-      "fetched_at": "2026-07-11T12:51:46.529934+00:00"
-    },
-    "cc5596b6fde2e84f": {
-      "title": "2025年我国港口货物、集装箱吞吐量稳居世界第一",
-      "fetched_at": "2026-07-11T12:51:47.151927+00:00"
-    },
-    "eaa3d26f39676ef9": {
-      "title": "研究报告：中国电力技术创新位居全球首位",
-      "fetched_at": "2026-07-11T12:51:47.766166+00:00"
-    },
-    "225fa1096fd9ee21": {
-      "title": "腾讯洽购Manus？知情人士：腾讯仍将保留少数股东地位",
-      "fetched_at": "2026-07-11T12:51:48.390959+00:00"
-    },
-    "7bc347a807e80f8e": {
-      "title": "中期协： 6月全国期货交易市场成交额同比增长52.72%",
-      "fetched_at": "2026-07-11T12:51:49.009480+00:00"
-    },
-    "4e5cc1c6e45c5732": {
-      "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
-      "fetched_at": "2026-07-11T12:51:49.626224+00:00"
-    },
-    "cdb6abfeb2e31fc1": {
-      "title": "多家机场航班全取消",
-      "fetched_at": "2026-07-11T12:51:50.251712+00:00"
-    },
-    "05a8d769e9f03a04": {
-      "title": "FansAI收购OPC公司新映科技",
-      "fetched_at": "2026-07-11T12:51:50.881182+00:00"
-    },
-    "0545572a4f4a35fa": {
-      "title": "法国电信大亨或成英国沃达丰最大股东",
-      "fetched_at": "2026-07-11T12:51:51.511970+00:00"
-    },
-    "3ac392bf29b35414": {
-      "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
-      "fetched_at": "2026-07-11T12:51:52.134491+00:00"
-    },
-    "4a14386144bb4140": {
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "fetched_at": "2026-07-11T12:51:52.755768+00:00"
-    },
-    "f22ef84d9a54d0f7": {
-      "title": "徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线",
-      "fetched_at": "2026-07-11T12:51:53.396267+00:00"
-    },
-    "9591685dfcb05a5f": {
-      "title": "安达卢西亚的日与夜：格拉纳达漫游指南",
-      "fetched_at": "2026-07-11T12:51:54.023225+00:00"
-    },
     "7f9bac087eb2ac6c": {
       "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
       "fetched_at": "2026-07-11T12:51:54.660714+00:00"
@@ -3879,7 +3815,123 @@
     "7d08c225b2312bb2": {
       "title": "NASA is creating a fifth state of matter on the ISS, thanks to an upgrade to a mini-fridge-sized quantum lab",
       "fetched_at": "2026-07-19T07:56:57.251237+00:00"
+    },
+    "8c0ae945c2cfa80f": {
+      "title": "Ask HN: Guidelines on GPT 5.6 Sol steering",
+      "fetched_at": "2026-07-19T12:50:58.663979+00:00"
+    },
+    "b121901d2a1454f0": {
+      "title": "Are the LLM Wars the Database Wars?",
+      "fetched_at": "2026-07-19T12:50:59.304702+00:00"
+    },
+    "dfba53bf53c3b36d": {
+      "title": "I built llms.txt files to make local businesses discoverable by AI agents",
+      "fetched_at": "2026-07-19T12:50:59.913006+00:00"
+    },
+    "8979d4c0ebf18455": {
+      "title": "Valve Reportedly Sells 12-15K Steam Machine Units per Week",
+      "fetched_at": "2026-07-19T12:51:00.516412+00:00"
+    },
+    "d71fbfd6a8cb1019": {
+      "title": "Show HN: We ranked our dev tools in Google's new AI Overviews",
+      "fetched_at": "2026-07-19T12:51:01.130709+00:00"
+    },
+    "5c51e44cdea35a3d": {
+      "title": "Anti-AI protest reaches OpenAI HQ",
+      "fetched_at": "2026-07-19T12:51:01.719456+00:00"
+    },
+    "7c7e7c5fa726e3ac": {
+      "title": "Could AI Be Conscious?",
+      "fetched_at": "2026-07-19T12:51:02.325733+00:00"
+    },
+    "6d1c97ea6011e62f": {
+      "title": "Agent Arena: Benchmarking AI Agent Devtool Onboarding",
+      "fetched_at": "2026-07-19T12:51:02.929615+00:00"
+    },
+    "7faaff83ad2a33a6": {
+      "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+      "fetched_at": "2026-07-19T12:51:03.533042+00:00"
+    },
+    "001cd8355a46238c": {
+      "title": "Show HN: AI Buddy – Free STT and Screenshot Tool for Mac (Requires Gemini)",
+      "fetched_at": "2026-07-19T12:51:04.144980+00:00"
+    },
+    "5ca113247e3d5f63": {
+      "title": "Who's Subsidizing Chinese AI",
+      "fetched_at": "2026-07-19T12:51:04.834844+00:00"
+    },
+    "3bb9ed0685af31f7": {
+      "title": "Save GPT-5.5",
+      "fetched_at": "2026-07-19T12:51:05.441936+00:00"
+    },
+    "cc1461cc2549fd42": {
+      "title": "From Algorithms to Autonomy:How AI Is Rewriting Architecture of SW and Mobility",
+      "fetched_at": "2026-07-19T12:51:06.045669+00:00"
+    },
+    "1cb7dee497462245": {
+      "title": "San Francisco Demands Apple and Google Delete AI 'Nudify' Apps from App Stores",
+      "fetched_at": "2026-07-19T12:51:06.653129+00:00"
+    },
+    "ac56bc489e5f2202": {
+      "title": "AI coding agents should optimize for less owned code",
+      "fetched_at": "2026-07-19T12:51:07.269176+00:00"
+    },
+    "a13a498babdc4a3f": {
+      "title": "Aging Baby Boomers are America's real labor problem, not AI",
+      "fetched_at": "2026-07-19T12:51:07.873573+00:00"
+    },
+    "ae0857f25539f97d": {
+      "title": "帝尔激光：公司董事会秘书拟增持不低于50万元公司股份",
+      "fetched_at": "2026-07-19T12:51:08.469312+00:00"
+    },
+    "b8f9baf71678f729": {
+      "title": "Using AI makes people less likely to admit they don't know something",
+      "fetched_at": "2026-07-19T12:51:09.081297+00:00"
+    },
+    "2484b3c6e0cc2199": {
+      "title": "我国千亿元潮玩赛道要来了",
+      "fetched_at": "2026-07-19T12:51:09.679582+00:00"
+    },
+    "3938ac82c2677a79": {
+      "title": "江淮汽车：已回购154.67万股，使用资金总额3499.48万元",
+      "fetched_at": "2026-07-19T12:51:10.297433+00:00"
+    },
+    "aa404add9d2f67f5": {
+      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
+      "fetched_at": "2026-07-19T12:51:13.320536+00:00"
+    },
+    "711b79c7cdfc5d7c": {
+      "title": "德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力",
+      "fetched_at": "2026-07-19T12:51:13.912333+00:00"
+    },
+    "d0827a12685c2d31": {
+      "title": "Decorated wild-boar tusk found in Russia may have been medieval warrior's good-luck charm",
+      "fetched_at": "2026-07-19T12:51:50.880070+00:00"
+    },
+    "5e1ea567973620a9": {
+      "title": "Cells from your mother likely infiltrated your brain in the womb, and they could survive for decades, study reveals",
+      "fetched_at": "2026-07-19T12:51:51.472434+00:00"
+    },
+    "05c9d10e214531c7": {
+      "title": "James Webb telescope uses trippy Einstein prediction to probe the farthest reaches of the universe — Space photo of the week",
+      "fetched_at": "2026-07-19T12:51:52.070509+00:00"
+    },
+    "6e7757c181f37e69": {
+      "title": "Systemd, 10 years later: a historical and technical retrospective (2020)",
+      "fetched_at": "2026-07-19T12:51:52.688062+00:00"
+    },
+    "a1afcfcac02d5a4f": {
+      "title": "What's the oldest weapon in the world?",
+      "fetched_at": "2026-07-19T12:51:53.283865+00:00"
+    },
+    "1283ae910e1a0b6a": {
+      "title": "Science word of the day: Autotroph",
+      "fetched_at": "2026-07-19T12:51:53.874427+00:00"
+    },
+    "8dee7b9dcfbea6aa": {
+      "title": "Simulating Historical Communication Networks in Python",
+      "fetched_at": "2026-07-19T12:51:54.482044+00:00"
     }
   },
-  "last_updated": "2026-07-19T07:56:57.401361+00:00"
+  "last_updated": "2026-07-19T12:51:54.626516+00:00"
 }
