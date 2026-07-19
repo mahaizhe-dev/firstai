@@ -1,233 +1,5 @@
 {
   "articles": {
-    "a1490ef5726a74ad": {
-      "title": "Trace: Stripe Radar for autonomous AI agents (Sybil fraud reduced by 86%)",
-      "fetched_at": "2026-07-10T19:13:36.144976+00:00"
-    },
-    "135e5439b61fac5f": {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "fetched_at": "2026-07-10T19:13:36.721605+00:00"
-    },
-    "65b0fe0bd8039ff7": {
-      "title": "Show HN: Local Motion – Use Cursor Agents and Chat with a Local LLM",
-      "fetched_at": "2026-07-10T19:13:37.357559+00:00"
-    },
-    "e45859a174d84fd6": {
-      "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
-      "fetched_at": "2026-07-10T19:13:37.943786+00:00"
-    },
-    "4fe3c7a8fd8839bb": {
-      "title": "The Upgrade That Made My AI Agent Worse",
-      "fetched_at": "2026-07-10T19:13:38.529017+00:00"
-    },
-    "37ee90d17d0886a4": {
-      "title": "What are the AI folks up to these days?",
-      "fetched_at": "2026-07-10T19:13:39.110858+00:00"
-    },
-    "d4ced8a4e68811a3": {
-      "title": "The end of consumer AI winter",
-      "fetched_at": "2026-07-10T19:13:39.695828+00:00"
-    },
-    "3a67b0df5770c2ed": {
-      "title": "LinkedIn and X Are Flooded with AI Spam, Browsing Data Suggests",
-      "fetched_at": "2026-07-10T19:13:40.277310+00:00"
-    },
-    "f7fbd854322af0be": {
-      "title": "AI-generated papers scored well in ACL peer review, undisclosed to reviewers [pdf]",
-      "fetched_at": "2026-07-10T19:13:40.862949+00:00"
-    },
-    "cda782bc59a3a67e": {
-      "title": "Soulless – List of AI Artists Hiding on Spotify",
-      "fetched_at": "2026-07-10T19:13:41.446973+00:00"
-    },
-    "f2ee98d6dc97ef83": {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "fetched_at": "2026-07-10T19:13:42.032211+00:00"
-    },
-    "f577245729183a33": {
-      "title": "Where teams of AI agents choose, keep and improve the profiles they run",
-      "fetched_at": "2026-07-10T19:13:42.614013+00:00"
-    },
-    "ef34d80e7ee13cf1": {
-      "title": "Voicebox: The Open-Source AI Voice Studio",
-      "fetched_at": "2026-07-10T19:13:43.191907+00:00"
-    },
-    "966081557ed67e04": {
-      "title": "Feasio – AI that gives brutally honest feasibility reports on business ideas",
-      "fetched_at": "2026-07-10T19:13:43.779114+00:00"
-    },
-    "339c9b58f5342ef0": {
-      "title": "Show HN: A 100% branchless, CUDA-native AI guardrail kernel written in C++20",
-      "fetched_at": "2026-07-10T19:13:44.367516+00:00"
-    },
-    "719d718558e82fa7": {
-      "title": "Amazon's New Debt Deal Puts Its AI Spending Story on Trial",
-      "fetched_at": "2026-07-10T19:13:44.951171+00:00"
-    },
-    "9d85aca32121b47a": {
-      "title": "Christopher Nolan says younger audiences are utterly rejecting AI-generated slop",
-      "fetched_at": "2026-07-10T19:13:45.557648+00:00"
-    },
-    "4aeda569a54aed54": {
-      "title": "Why AI Is Collapsing: How China Is Winning [video]",
-      "fetched_at": "2026-07-10T19:13:46.172607+00:00"
-    },
-    "df9a983c78188d6b": {
-      "title": "Show HN: Willow Voice – Free AI Dictation",
-      "fetched_at": "2026-07-10T19:13:46.762920+00:00"
-    },
-    "3e192e21035ab25c": {
-      "title": "The 2025–2026 Evolution of Generative Spatial AI",
-      "fetched_at": "2026-07-10T19:13:47.349153+00:00"
-    },
-    "47ba156567b43b9e": {
-      "title": "颱風巴威逼近台灣本島 絕大多數縣市停班停課",
-      "fetched_at": "2026-07-10T19:13:49.718821+00:00"
-    },
-    "9997bc976489ecdf": {
-      "title": "中國對日本軍工管制升級：面對稀土牌，高市早苗如何應對？",
-      "fetched_at": "2026-07-10T19:13:50.302168+00:00"
-    },
-    "80286cf1eb5796bc": {
-      "title": "Medieval babies and adults buried together in Sweden were not related, archaeologists discover — raising big questions about early Christian burial practices",
-      "fetched_at": "2026-07-10T19:13:52.626058+00:00"
-    },
-    "017aebaae29c1cec": {
-      "title": "Ichthyosaur Fossil Found in Roman Britain Pit",
-      "fetched_at": "2026-07-10T19:13:53.210586+00:00"
-    },
-    "35e6fb91c5c7c50e": {
-      "title": "3,800-Year-Old Collection of Figurines Discovered in Peru",
-      "fetched_at": "2026-07-10T19:13:53.795472+00:00"
-    },
-    "9c78024c2d06d82e": {
-      "title": "Modern Humans and Neanderthals May Have Shared Culture",
-      "fetched_at": "2026-07-10T19:13:54.380694+00:00"
-    },
-    "7d08c225b2312bb2": {
-      "title": "NASA is creating a fifth state of matter on the ISS, thanks to an upgrade to a mini-fridge-sized quantum lab",
-      "fetched_at": "2026-07-10T19:13:54.969414+00:00"
-    },
-    "b4f660581ada2d4c": {
-      "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
-      "fetched_at": "2026-07-11T01:27:58.031097+00:00"
-    },
-    "b0198fd8fd18d29d": {
-      "title": "三菱汽车将量产人形机器人，未来或考虑对外销售",
-      "fetched_at": "2026-07-11T01:27:58.660505+00:00"
-    },
-    "b4af4bf29049de26": {
-      "title": "SK海力士CEO：美国在未来晶圆厂选址候选名单中，尚未做出决定",
-      "fetched_at": "2026-07-11T01:27:59.293853+00:00"
-    },
-    "1097bb6b7924281a": {
-      "title": "淘宝闪购骑士制服获法国设计奖，为该奖首次授予劳动职业制服",
-      "fetched_at": "2026-07-11T01:27:59.925120+00:00"
-    },
-    "c1d4f18879e48956": {
-      "title": "苹果在重磅诉讼中起诉OpenAI窃取商业机密‌",
-      "fetched_at": "2026-07-11T01:28:00.555484+00:00"
-    },
-    "cb4bf9d5652168fb": {
-      "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
-      "fetched_at": "2026-07-11T01:28:01.185247+00:00"
-    },
-    "2b54a159d9be587f": {
-      "title": "美股三大指数集体收涨，SK海力士ADR上市首日涨超12%",
-      "fetched_at": "2026-07-11T01:28:01.818993+00:00"
-    },
-    "7ce54c35ddbddbfd": {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "fetched_at": "2026-07-11T01:28:02.438414+00:00"
-    },
-    "5090853f302a2bf4": {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "fetched_at": "2026-07-11T01:28:03.066228+00:00"
-    },
-    "464eb5a383dd4c8c": {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "fetched_at": "2026-07-11T01:28:03.685769+00:00"
-    },
-    "1a3c66ac4fa675f1": {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "fetched_at": "2026-07-11T01:28:04.302927+00:00"
-    },
-    "f772142c94b7fe96": {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "fetched_at": "2026-07-11T01:28:04.916240+00:00"
-    },
-    "a3668c5a3049f1f4": {
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "fetched_at": "2026-07-11T01:28:05.552949+00:00"
-    },
-    "d8c0c1c631488e0c": {
-      "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-      "fetched_at": "2026-07-11T01:28:06.190267+00:00"
-    },
-    "0ac6e904cd8c17b6": {
-      "title": "广汽集团：预计上半年净亏损40.6亿元-45.7亿元",
-      "fetched_at": "2026-07-11T01:28:06.827391+00:00"
-    },
-    "6a9ce31a78964adf": {
-      "title": "紫光股份：预计上半年归母净利润同比增长83.50%-122.89%",
-      "fetched_at": "2026-07-11T01:28:07.457890+00:00"
-    },
-    "d69e97342f6a7ce2": {
-      "title": "消息称AMD将于本月发布Venice CPU",
-      "fetched_at": "2026-07-11T01:28:08.106181+00:00"
-    },
-    "d70f5ec41146a94d": {
-      "title": "凌云光：拟择机出售不超过33.48万股智谱股票",
-      "fetched_at": "2026-07-11T01:28:08.733302+00:00"
-    },
-    "6ddca484269737d3": {
-      "title": "东阳光：控股子公司签署130亿元至150亿元算力服务采购合同",
-      "fetched_at": "2026-07-11T01:28:09.351106+00:00"
-    },
-    "d08c5eb9b3dbe3ef": {
-      "title": "巨力索具：收到河北证监局行政处罚决定书",
-      "fetched_at": "2026-07-11T01:28:09.996089+00:00"
-    },
-    "c907ba50a8fa5d1f": {
-      "title": "颱風巴威暴風圈進入台灣 絕大多數縣市停班停課",
-      "fetched_at": "2026-07-11T01:28:12.520611+00:00"
-    },
-    "ed07aa4642c05237": {
-      "title": "The Case of the Ancient Astronauts (1979) [video]",
-      "fetched_at": "2026-07-11T01:28:14.734078+00:00"
-    },
-    "b5c9e81626139756": {
-      "title": "Discovery could lead to brighter, more energy-efficient digital displays",
-      "fetched_at": "2026-07-11T01:28:15.340723+00:00"
-    },
-    "c830abfcb51b0d65": {
-      "title": "Materials innovation has a scale-up problem, not discovery",
-      "fetched_at": "2026-07-11T01:28:15.959425+00:00"
-    },
-    "d0d2ab5be34121ac": {
-      "title": "The Spec Ceiling: Why AI Coding Speed Moves the Bottleneck to Product Discovery",
-      "fetched_at": "2026-07-11T01:28:16.576690+00:00"
-    },
-    "ece403279417e3c5": {
-      "title": "Comparing ML models in small molecule drug discovery",
-      "fetched_at": "2026-07-11T01:28:17.188636+00:00"
-    },
-    "1b8ca559fd7a381f": {
-      "title": "The hantavirus outbreak is over, WHO declares",
-      "fetched_at": "2026-07-11T01:28:17.852583+00:00"
-    },
-    "006ba53dbbc2e341": {
-      "title": "James Webb telescope may have discovered a mysterious, never-before-seen substance on Pluto and Titan",
-      "fetched_at": "2026-07-11T01:28:18.500448+00:00"
-    },
-    "2a0c15b0d98f263d": {
-      "title": "Ancient ring discovered underground in Scotland could be a Stonehenge-like monument",
-      "fetched_at": "2026-07-11T01:28:19.136231+00:00"
-    },
-    "20e1abfdc22b5aec": {
-      "title": "11-year-old boy in Canada dies from rabies after waking up with a bat on his face",
-      "fetched_at": "2026-07-11T01:28:19.763039+00:00"
-    },
     "ba29918499039199": {
       "title": "Competitive Programming in the Era of AI",
       "fetched_at": "2026-07-11T07:38:02.141917+00:00"
@@ -3971,7 +3743,123 @@
     "1c7adf6864ec55e4": {
       "title": "This alien planet never has sunrise or sunset. It may support life",
       "fetched_at": "2026-07-18T18:44:53.687827+00:00"
+    },
+    "97013dc3ea2c41e2": {
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "fetched_at": "2026-07-19T01:27:41.403864+00:00"
+    },
+    "611b30e0a51657ac": {
+      "title": "AI as Normal Technology",
+      "fetched_at": "2026-07-19T01:27:41.982749+00:00"
+    },
+    "4f2f92c00ee1d466": {
+      "title": "No, an AI cannot know the future and never will..",
+      "fetched_at": "2026-07-19T01:27:42.564592+00:00"
+    },
+    "255fea4b852f4b6a": {
+      "title": "Flightwake – a flight recorder for AI coding agents, not a navigator",
+      "fetched_at": "2026-07-19T01:27:43.136974+00:00"
+    },
+    "6ce8f9659d9a357e": {
+      "title": "IPO排队券商“半年考” 东莞证券上半年净利大增超70%",
+      "fetched_at": "2026-07-19T01:27:43.724034+00:00"
+    },
+    "2599693efd04fc93": {
+      "title": "阶跃与上海期智研究院共建智能体前沿研究院",
+      "fetched_at": "2026-07-19T01:27:44.317495+00:00"
+    },
+    "d810fcf663f55564": {
+      "title": "AI Assisted Vulnerability Research on Embedded Targets",
+      "fetched_at": "2026-07-19T01:27:44.906306+00:00"
+    },
+    "4cbaab0db2d11636": {
+      "title": "AI as Normal Technology- What Will Be Left for Us to Work On?",
+      "fetched_at": "2026-07-19T01:27:45.486135+00:00"
+    },
+    "e459b7b55d9b9309": {
+      "title": "Updating IP Regulations for AI Distillation",
+      "fetched_at": "2026-07-19T01:27:46.067916+00:00"
+    },
+    "79e7b4f8d4ede7ad": {
+      "title": "AI Bubble vs. Dot Com Crash. History Is Repeating",
+      "fetched_at": "2026-07-19T01:27:46.729097+00:00"
+    },
+    "556888af0ff6f8ac": {
+      "title": "Show HN: Ilya Sutskever's AI reading list into a learning RPG – using kimi k3",
+      "fetched_at": "2026-07-19T01:27:47.313457+00:00"
+    },
+    "c7ef1c1115980a88": {
+      "title": "A free PTE Core practice platform with instant AI scoring",
+      "fetched_at": "2026-07-19T01:27:47.896278+00:00"
+    },
+    "53ddf951017ecd00": {
+      "title": "Prompted to Start: How Generative AI Is Transforming Entrepreneurship [pdf]",
+      "fetched_at": "2026-07-19T01:27:48.483894+00:00"
+    },
+    "9402d318c4d45e3a": {
+      "title": "SafeAI – Open-Source Static AI Risk Analyzer for AI Agents",
+      "fetched_at": "2026-07-19T01:27:49.067882+00:00"
+    },
+    "e2571284017845f0": {
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "fetched_at": "2026-07-19T01:27:49.677649+00:00"
+    },
+    "7af75b0f110afc4b": {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "fetched_at": "2026-07-19T01:27:50.258975+00:00"
+    },
+    "36bd70c7e8ccd50b": {
+      "title": "AI for Bug Bounty with VulneraMCP",
+      "fetched_at": "2026-07-19T01:27:50.847622+00:00"
+    },
+    "ce519899b503f125": {
+      "title": "$20/Month: The Price Ceiling Every AI Company Copied",
+      "fetched_at": "2026-07-19T01:27:51.427002+00:00"
+    },
+    "d9e4a04a1d6c77d3": {
+      "title": "I asked a psychiatrist I know about the effects of AI",
+      "fetched_at": "2026-07-19T01:27:52.008917+00:00"
+    },
+    "14e78664f589dda7": {
+      "title": "Show HN: Graph Context Engine for Reliable AI",
+      "fetched_at": "2026-07-19T01:27:52.598842+00:00"
+    },
+    "996f2f81bf33b9b8": {
+      "title": "輪到你了，梅西——姆巴佩領跑史詩級世界盃金靴之爭",
+      "fetched_at": "2026-07-19T01:28:25.502599+00:00"
+    },
+    "9e1250bdcc9e4820": {
+      "title": "遙遠恆星的適居帶內，首次發現類似地球的行星存在大氣層",
+      "fetched_at": "2026-07-19T01:28:26.080302+00:00"
+    },
+    "744ee52ed138e8df": {
+      "title": "New sodium metal battery design charges in just 4 minutes and retains its capacity for years",
+      "fetched_at": "2026-07-19T01:28:28.144633+00:00"
+    },
+    "ea44e85aac621dd8": {
+      "title": "Canon EOS R6 III review: A wildlife wonder",
+      "fetched_at": "2026-07-19T01:28:28.718428+00:00"
+    },
+    "b42c2a10c3a23bb5": {
+      "title": "This common pesticide may be quietly wiping out future bumblebees",
+      "fetched_at": "2026-07-19T01:28:29.386769+00:00"
+    },
+    "b5e72dbfa6683d0b": {
+      "title": "Europe's most active volcano may have a secret origin",
+      "fetched_at": "2026-07-19T01:28:29.975113+00:00"
+    },
+    "03059e853e3c3045": {
+      "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+      "fetched_at": "2026-07-19T01:28:30.571661+00:00"
+    },
+    "798ecc825e95ee9e": {
+      "title": "Hawaii's famous “happy-face” spider has a surprising relative",
+      "fetched_at": "2026-07-19T01:28:31.159429+00:00"
+    },
+    "1f508d0f1f381fdf": {
+      "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
+      "fetched_at": "2026-07-19T01:28:31.738034+00:00"
     }
   },
-  "last_updated": "2026-07-18T18:44:53.788506+00:00"
+  "last_updated": "2026-07-19T01:28:31.831907+00:00"
 }
