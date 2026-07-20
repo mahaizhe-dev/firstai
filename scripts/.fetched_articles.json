@@ -1,109 +1,5 @@
 {
   "articles": {
-    "546853d800f67ddb": {
-      "title": "India's TCS plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
-      "fetched_at": "2026-07-12T12:52:53.508431+00:00"
-    },
-    "23d12f40e9963907": {
-      "title": "SlimeBallBench · AI models play slime soccer",
-      "fetched_at": "2026-07-12T12:52:54.112764+00:00"
-    },
-    "c3981cc07909769a": {
-      "title": "The impressive AI demo is dead. Here's what actually reaches production",
-      "fetched_at": "2026-07-12T12:52:54.710685+00:00"
-    },
-    "1bd430e5ab5679d0": {
-      "title": "The fight against AI data centers is just beginning",
-      "fetched_at": "2026-07-12T12:52:55.302492+00:00"
-    },
-    "2497bd64842cd2be": {
-      "title": "Show HN: Avoid codebase sloppification and AI-generated spaghetti code",
-      "fetched_at": "2026-07-12T12:52:55.891652+00:00"
-    },
-    "b33978af87bf52e9": {
-      "title": "中信证券：港股扰动趋缓卖空料将收敛，短期推荐创新药、航空、机器人及工业金属",
-      "fetched_at": "2026-07-12T12:52:56.478603+00:00"
-    },
-    "5a162cab9f58bf0b": {
-      "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-      "fetched_at": "2026-07-12T12:52:57.104090+00:00"
-    },
-    "24f8b74ce8453a58": {
-      "title": "美国消费信贷自2024年以来首次下降",
-      "fetched_at": "2026-07-12T12:52:57.682274+00:00"
-    },
-    "4e1faec3abbc7ef2": {
-      "title": "AI backlash hits university: laptops and phones banned for law students",
-      "fetched_at": "2026-07-12T12:52:58.267994+00:00"
-    },
-    "a3cf4508823311b1": {
-      "title": "今年A股最大IPO要来了",
-      "fetched_at": "2026-07-12T12:52:58.856822+00:00"
-    },
-    "65b5b49ca231dd34": {
-      "title": "赛力斯：预计上半年净亏损15亿元-18亿元",
-      "fetched_at": "2026-07-12T12:52:59.454101+00:00"
-    },
-    "fde351e8a3046083": {
-      "title": "Mnema: A local, encrypted memory layer for AI agents",
-      "fetched_at": "2026-07-12T12:53:00.041100+00:00"
-    },
-    "98a62a337c26ce61": {
-      "title": "美参议员林赛·格雷厄姆突发急病去世",
-      "fetched_at": "2026-07-12T12:53:00.621304+00:00"
-    },
-    "4508388a079c16a6": {
-      "title": "Show HN: Dr. Wong – an AI space for journaling and self-reflection",
-      "fetched_at": "2026-07-12T12:53:01.217381+00:00"
-    },
-    "1974acee03e00634": {
-      "title": "Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-      "fetched_at": "2026-07-12T12:53:01.814737+00:00"
-    },
-    "48af09031ef894d1": {
-      "title": "AI Agents Are About to Change Payments Operations",
-      "fetched_at": "2026-07-12T12:53:02.406657+00:00"
-    },
-    "a0023be7f1730a59": {
-      "title": "25% long-form social media posts appear AI-generated",
-      "fetched_at": "2026-07-12T12:53:03.003838+00:00"
-    },
-    "b596af209d5926b7": {
-      "title": "Databricks AI Agent Genie Code Is No Longer Free. Now You Have to Pay as You Go",
-      "fetched_at": "2026-07-12T12:53:03.615289+00:00"
-    },
-    "201cc6f1dc44ca62": {
-      "title": "Databricks News: CLI v1.0.0, AI-tools, Docker, DABs UI sync, mutators",
-      "fetched_at": "2026-07-12T12:53:04.207539+00:00"
-    },
-    "f12a383df77716e7": {
-      "title": "Chasing new skills, going back to basics: how software engineers adapting to AI",
-      "fetched_at": "2026-07-12T12:53:04.791607+00:00"
-    },
-    "b37d67e065bc13e4": {
-      "title": "颱風巴威兩度登陸浙江，當地人如何把防災做得「密不透風」？",
-      "fetched_at": "2026-07-12T12:53:07.210177+00:00"
-    },
-    "c89a564de07a695c": {
-      "title": "Venezuela's devastating 'earthquake doublet' holds a warning for California's San Andreas Fault",
-      "fetched_at": "2026-07-12T12:53:12.862379+00:00"
-    },
-    "f6801cf146c82a9e": {
-      "title": "James Webb telescope captures never-before-seen glimpse of 'Centaur' galaxy's battle wounds — Space photo of the week",
-      "fetched_at": "2026-07-12T12:53:13.444019+00:00"
-    },
-    "0c9facc8cc05a422": {
-      "title": "Was Einstein wrong about anything?",
-      "fetched_at": "2026-07-12T12:53:14.036127+00:00"
-    },
-    "8a9ee7a82ba7b78c": {
-      "title": "Ancient feeding-related neuropeptides regulate alloparenting in ants",
-      "fetched_at": "2026-07-12T12:53:14.614292+00:00"
-    },
-    "238495fa5bf0a315": {
-      "title": "The ancient Chinese way to cool homes (2023)",
-      "fetched_at": "2026-07-12T12:53:15.200843+00:00"
-    },
     "3cc713fdeabefd45": {
       "title": "The One-Step Trap (In AI Research)",
       "fetched_at": "2026-07-12T18:47:53.366189+00:00"
@@ -3887,7 +3783,139 @@
     "73d47e6004973ed4": {
       "title": "Smart City Discovery",
       "fetched_at": "2026-07-20T08:37:01.801039+00:00"
+    },
+    "368986b67465be44": {
+      "title": "Self-Service Ransomware as Security Against Local AI Tools",
+      "fetched_at": "2026-07-20T13:45:53.317484+00:00"
+    },
+    "886f735169447f36": {
+      "title": "What if your AI agent could have its own WhatsApp number?",
+      "fetched_at": "2026-07-20T13:45:53.940850+00:00"
+    },
+    "b735d319aadd2743": {
+      "title": "The asymmetry problem: AI safeguards are mainly annoying to the good guys",
+      "fetched_at": "2026-07-20T13:45:54.569707+00:00"
+    },
+    "47fb6ba2335eb553": {
+      "title": "Show HN: Give your AI agent a personality (and a voice) without external APIs",
+      "fetched_at": "2026-07-20T13:45:55.188672+00:00"
+    },
+    "833a58b1417e5c08": {
+      "title": "AgentBaiting: Fake AI Skills and MCP Servers Delivered Malware",
+      "fetched_at": "2026-07-20T13:45:55.809238+00:00"
+    },
+    "344de2850dd49c10": {
+      "title": "Chinese AI model Kimi K3 halts new signups amid skyrocketing demand",
+      "fetched_at": "2026-07-20T13:45:56.426030+00:00"
+    },
+    "7cd52521a105be1d": {
+      "title": "新易盛：整体来看，二季度业绩预告情况与公司年初对全年整体情况的预期基本吻合",
+      "fetched_at": "2026-07-20T13:45:57.118598+00:00"
+    },
+    "7c27f5f22af5e296": {
+      "title": "年内A股公司累计回购金额超过800亿元",
+      "fetched_at": "2026-07-20T13:45:57.737449+00:00"
+    },
+    "2338db27ff72dcf1": {
+      "title": "热门中概股美股盘前普涨，阿里巴巴涨超3%",
+      "fetched_at": "2026-07-20T13:45:58.360088+00:00"
+    },
+    "95f2214009f235bb": {
+      "title": "美股大型科技股盘前多数上涨，闪迪涨超3%",
+      "fetched_at": "2026-07-20T13:45:58.970112+00:00"
+    },
+    "0ea08b64cfc09ceb": {
+      "title": "“尼卡光学”完成近亿元A轮融资",
+      "fetched_at": "2026-07-20T13:45:59.582654+00:00"
+    },
+    "8233dc4882bd6594": {
+      "title": "曝零一万物启动新一轮融资，拟2027年申请IPO",
+      "fetched_at": "2026-07-20T13:46:00.197484+00:00"
+    },
+    "a975a18efdcb5d17": {
+      "title": "AgentAbstain: Do LLM Agents Know When Not to Act?",
+      "fetched_at": "2026-07-20T13:46:00.850292+00:00"
+    },
+    "968d9c2456b017f8": {
+      "title": "招商证券终止为中韩半导体等6只基金提供主做市服务，回应：单纯商业行为，非市场方向判断",
+      "fetched_at": "2026-07-20T13:46:01.467231+00:00"
+    },
+    "5b65e8d7c3a9a32c": {
+      "title": "淘天集团公布四项AIGX技术体系最新技术成果",
+      "fetched_at": "2026-07-20T13:46:02.093623+00:00"
+    },
+    "c8702de2a256b1e2": {
+      "title": "智明达：因特殊事项影响，公司特种领域获取订单受限三年",
+      "fetched_at": "2026-07-20T13:46:02.704044+00:00"
+    },
+    "6f2383cf7ec5900a": {
+      "title": "光轮智能与西门子正式达成合作",
+      "fetched_at": "2026-07-20T13:46:03.341896+00:00"
+    },
+    "fe9b2cea4ef721a0": {
+      "title": "三环集团：拟以4.5亿元至9亿元回购股份",
+      "fetched_at": "2026-07-20T13:46:03.973009+00:00"
+    },
+    "f634beeb9d5ff8a4": {
+      "title": "雷迪克：实际控制人沈仁荣因非公司事项收到取保候审决定书",
+      "fetched_at": "2026-07-20T13:46:04.607113+00:00"
+    },
+    "877534170de0f18d": {
+      "title": "波音CEO：在推出新款客机前，公司还需数年时间修复财务状况",
+      "fetched_at": "2026-07-20T13:46:05.246280+00:00"
+    },
+    "4d72855dedfe5189": {
+      "title": "泰特兄弟在美被捕 在英遭起訴59項性罪行 曾高調訪港",
+      "fetched_at": "2026-07-20T13:46:07.261486+00:00"
+    },
+    "f0aadc3031e6c0bb": {
+      "title": "貝安德就任英國首相 「北部王」其人其事",
+      "fetched_at": "2026-07-20T13:46:07.881399+00:00"
+    },
+    "10ebb21d168ccde3": {
+      "title": "擅長數學、喜愛爵士樂⋯⋯鯊魚其貌不揚的九件事",
+      "fetched_at": "2026-07-20T13:46:08.522231+00:00"
+    },
+    "e5f8c53253ceae2b": {
+      "title": "更多比賽，更多爭議——該如何評價2026年FIFA世界盃？",
+      "fetched_at": "2026-07-20T13:46:09.134641+00:00"
+    },
+    "f34151109be2b417": {
+      "title": "British vial of smallpox scabs triggered the devastating 1789 outbreak among Indigenous Australians, study finds",
+      "fetched_at": "2026-07-20T13:46:17.756975+00:00"
+    },
+    "dd7b61027449bddb": {
+      "title": "'We were genuinely surprised': 'Superworms' can clean extremely delicate skeletons lickety-split, and that's a game changer for museums",
+      "fetched_at": "2026-07-20T13:46:18.364556+00:00"
+    },
+    "0f416a151de1fcae": {
+      "title": "Mummy mask with wig: A 1,000-year-old 'false head' found in Peru that was crafted with real human hair and toxic red cinnabar",
+      "fetched_at": "2026-07-20T13:46:18.995746+00:00"
+    },
+    "da33b487820ae654": {
+      "title": "Some dinosaurs could rise like giants until they grew too big",
+      "fetched_at": "2026-07-20T13:46:19.623383+00:00"
+    },
+    "eab4e1cc994fcd4f": {
+      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+      "fetched_at": "2026-07-20T13:46:20.256005+00:00"
+    },
+    "34e934d22263ee5c": {
+      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+      "fetched_at": "2026-07-20T13:46:20.868894+00:00"
+    },
+    "752abee66d6e6c42": {
+      "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
+      "fetched_at": "2026-07-20T13:46:21.492105+00:00"
+    },
+    "04282bb15521cc0a": {
+      "title": "Scientists found two powerful new ways to destroy forever chemicals",
+      "fetched_at": "2026-07-20T13:46:22.129382+00:00"
+    },
+    "133fd3a365b3024c": {
+      "title": "Why gold never tarnishes has finally been explained",
+      "fetched_at": "2026-07-20T13:46:22.762366+00:00"
     }
   },
-  "last_updated": "2026-07-20T08:37:01.946559+00:00"
+  "last_updated": "2026-07-20T13:46:22.918907+00:00"
 }
