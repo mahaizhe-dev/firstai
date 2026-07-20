@@ -1,117 +1,5 @@
 {
   "articles": {
-    "3cc713fdeabefd45": {
-      "title": "The One-Step Trap (In AI Research)",
-      "fetched_at": "2026-07-12T18:47:53.366189+00:00"
-    },
-    "3e4116dbb7e5238f": {
-      "title": "Dari AI – An all-in-one AI assistant for macOS that runs on-device",
-      "fetched_at": "2026-07-12T18:47:53.972360+00:00"
-    },
-    "ff349f5281f505d9": {
-      "title": "AI and the Fall of Writing",
-      "fetched_at": "2026-07-12T18:47:54.571418+00:00"
-    },
-    "86bd7304a6caaa28": {
-      "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
-      "fetched_at": "2026-07-12T18:47:55.179563+00:00"
-    },
-    "265d52f893814f04": {
-      "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
-      "fetched_at": "2026-07-12T18:47:55.784637+00:00"
-    },
-    "49445c714fdf4bd0": {
-      "title": "AI-Powered Multi Tenant Platform",
-      "fetched_at": "2026-07-12T18:47:56.386202+00:00"
-    },
-    "b1ca78e36bc79f50": {
-      "title": "Show HN: Free AI travel destination search across Asia",
-      "fetched_at": "2026-07-12T18:47:56.990134+00:00"
-    },
-    "55ae85f1610f8ab2": {
-      "title": "Show HN: SayItDev LLM and Speech capabilities with 0 dependencies and no models",
-      "fetched_at": "2026-07-12T18:47:57.597726+00:00"
-    },
-    "32029d1fdd4b0324": {
-      "title": "Whats the Hardest Challenges in AI?",
-      "fetched_at": "2026-07-12T18:47:58.197258+00:00"
-    },
-    "fff6ba4f5a26c409": {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "fetched_at": "2026-07-12T18:47:58.813508+00:00"
-    },
-    "f8eb49cdf2980aca": {
-      "title": "Show HN: Wisp – open-source private desktop AI overlay with MCP support",
-      "fetched_at": "2026-07-12T18:47:59.425442+00:00"
-    },
-    "d0a44cd99254c78d": {
-      "title": "AI Fuels Startup Boom Across the US",
-      "fetched_at": "2026-07-12T18:48:00.020761+00:00"
-    },
-    "28ea6ac6adc57ace": {
-      "title": "Apple's failed self-driving car program left a legacy of powerful AI chips",
-      "fetched_at": "2026-07-12T18:48:00.623491+00:00"
-    },
-    "824d88ff67f1f368": {
-      "title": "GPT-5.6, Fable 5, and Grok 4.5 rebuild Basecamp from the same spec",
-      "fetched_at": "2026-07-12T18:48:01.221219+00:00"
-    },
-    "3d3a0a5d5e175bfb": {
-      "title": "OpenAI's AI Beating Every Human at AtCoder",
-      "fetched_at": "2026-07-12T18:48:01.816326+00:00"
-    },
-    "10c9179cd6ca1b3f": {
-      "title": "AI and the Future of Writing-roundtable of authors discuss ramifications for art",
-      "fetched_at": "2026-07-12T18:48:02.434628+00:00"
-    },
-    "faa9638dc5231c79": {
-      "title": "Using AI to Let History Speak About Bank Runs",
-      "fetched_at": "2026-07-12T18:48:03.059498+00:00"
-    },
-    "7e0ddb962456fbb6": {
-      "title": "Show HN: A lightweight app to let LLM work for oncall",
-      "fetched_at": "2026-07-12T18:48:03.669583+00:00"
-    },
-    "63f823c17d63b206": {
-      "title": "Honeyprompt: LLM-first honeypot that talks back",
-      "fetched_at": "2026-07-12T18:48:04.277800+00:00"
-    },
-    "05c64bc7f00a258b": {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "fetched_at": "2026-07-12T18:48:04.277990+00:00"
-    },
-    "caa942d99ec7a4a5": {
-      "title": "'The moon looked wrong': Artemis II mission controller Chris White on taking historic lunar flyby photos from 250,000 miles away",
-      "fetched_at": "2026-07-12T18:48:25.052209+00:00"
-    },
-    "64d7fb0559c538d9": {
-      "title": "AI is giving people bad money advice. Here's what I worry about most, as a finance professor.",
-      "fetched_at": "2026-07-12T18:48:25.655663+00:00"
-    },
-    "f52153354355a98f": {
-      "title": "18 ancient Egyptian tombs with dozens of gold 'tongues' discovered along the Mediterranean coast",
-      "fetched_at": "2026-07-12T18:48:26.258985+00:00"
-    },
-    "3afcca9d9a152476": {
-      "title": "Alzheimer's tau protein has a surprising secret role in memory",
-      "fetched_at": "2026-07-12T18:48:26.844946+00:00"
-    },
-    "73e512e21d78defd": {
-      "title": "Physicists recreate black hole energy extraction in the lab",
-      "fetched_at": "2026-07-12T18:48:27.445063+00:00"
-    },
-    "22596ca638dc99b6": {
-      "title": "Deep-sea life has a secret food source scientists never expected",
-      "fetched_at": "2026-07-12T18:48:28.031683+00:00"
-    },
-    "9ede8b7a24e77d53": {
-      "title": "Scientists discover how the brain rewires itself to truly multitask",
-      "fetched_at": "2026-07-12T18:48:28.643210+00:00"
-    },
-    "71d1b2bc1be99490": {
-      "title": "Scientists finally solved the mystery of Earth's greatest mass extinction",
-      "fetched_at": "2026-07-12T18:48:29.239228+00:00"
-    },
     "4f6151b6cd8ce2ac": {
       "title": "深成指跌超1%",
       "fetched_at": "2026-07-13T01:43:40.466886+00:00"
@@ -3915,7 +3803,123 @@
     "133fd3a365b3024c": {
       "title": "Why gold never tarnishes has finally been explained",
       "fetched_at": "2026-07-20T13:46:22.762366+00:00"
+    },
+    "960b9af07804acae": {
+      "title": "AI Red Teaming: Securing Agentic AI Systems (video)",
+      "fetched_at": "2026-07-20T19:22:37.606652+00:00"
+    },
+    "e5f0aa128d7e77c2": {
+      "title": "AI solves 20 year old conjecture in graph theory",
+      "fetched_at": "2026-07-20T19:22:38.231350+00:00"
+    },
+    "4854b31500b1a787": {
+      "title": "Three search models coexist in 2026: keyword, RAG, and conversational LLM",
+      "fetched_at": "2026-07-20T19:22:38.848467+00:00"
+    },
+    "1f20c7ad31f86eaf": {
+      "title": "Stoke – Kill switch for runaway AI agents (Rust, budget caps)",
+      "fetched_at": "2026-07-20T19:22:39.466797+00:00"
+    },
+    "5c99e0c5e88b989c": {
+      "title": "The head of the US AI safety agency has resigned",
+      "fetched_at": "2026-07-20T19:22:40.095571+00:00"
+    },
+    "8779176cb5c287cc": {
+      "title": "The Playbook for Building an AI Native Company",
+      "fetched_at": "2026-07-20T19:22:40.796544+00:00"
+    },
+    "14d2b97f00751227": {
+      "title": "Netlify Adds a Kill Switch for Runaway AI Agent Spend",
+      "fetched_at": "2026-07-20T19:22:41.413378+00:00"
+    },
+    "8f3eda9282cf6dab": {
+      "title": "Ask HN: How do I reliably eval my AI models",
+      "fetched_at": "2026-07-20T19:22:42.043719+00:00"
+    },
+    "896938e30605a812": {
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "fetched_at": "2026-07-20T19:22:42.674954+00:00"
+    },
+    "f9d1a4fa06be3e59": {
+      "title": "Show HN: I built claw-coder which is the first atonomous local AI agent",
+      "fetched_at": "2026-07-20T19:22:43.298202+00:00"
+    },
+    "ebd9be24bc256213": {
+      "title": "Chrome-agent: LLM-native browser automation tool written in Rust",
+      "fetched_at": "2026-07-20T19:22:43.915103+00:00"
+    },
+    "9911bd9c770336ee": {
+      "title": "Aside – discussion circles with AI that remembers the thread",
+      "fetched_at": "2026-07-20T19:22:44.535852+00:00"
+    },
+    "1078ec4ca01e9b3f": {
+      "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+      "fetched_at": "2026-07-20T19:22:45.144096+00:00"
+    },
+    "3762f33b69e8f006": {
+      "title": "AI Agents in Production: Why 88% of Enterprise Pilots Fail",
+      "fetched_at": "2026-07-20T19:22:45.779096+00:00"
+    },
+    "1f097d0557cad96b": {
+      "title": "Show HN: Sharper – an AI office agent grounded in your knowledge, with citations",
+      "fetched_at": "2026-07-20T19:22:46.406216+00:00"
+    },
+    "1dc07596d718e7ac": {
+      "title": "AI, Vim, and the Illusion of Flow",
+      "fetched_at": "2026-07-20T19:22:47.047744+00:00"
+    },
+    "664d4e5491776f4d": {
+      "title": "Z.ai Completes Giant Data Center with Chinese Chips to Train AI",
+      "fetched_at": "2026-07-20T19:22:47.687929+00:00"
+    },
+    "580828930dd96eb9": {
+      "title": "AI Stack as Code: Define It Once, Run It Everywhere",
+      "fetched_at": "2026-07-20T19:22:48.315847+00:00"
+    },
+    "49341f3e3dadeff6": {
+      "title": "Gnome Changes Security Disclosure Policies Due to AI-Generated Reports",
+      "fetched_at": "2026-07-20T19:22:48.929373+00:00"
+    },
+    "67e2a56e95140a7f": {
+      "title": "Show HN: Framesmith 1.9 – charts as a node type for AI-designed UIs",
+      "fetched_at": "2026-07-20T19:22:49.542951+00:00"
+    },
+    "2e1878925b904fc1": {
+      "title": "2,700-Year-Old Irrigation System Studied in Armenia",
+      "fetched_at": "2026-07-20T19:22:55.634080+00:00"
+    },
+    "3a1f482e0e35ff7b": {
+      "title": "2,000-Year-Old Game Boards Identified in China",
+      "fetched_at": "2026-07-20T19:22:56.254235+00:00"
+    },
+    "80be3800119220a7": {
+      "title": "Mysterious 'little red dots' at the beginning time may finally have an explanation, thanks to newfound 'little blue companions'",
+      "fetched_at": "2026-07-20T19:22:56.866020+00:00"
+    },
+    "e73f452d2273db0d": {
+      "title": "Egypt’s Royal Women Trained in Archery",
+      "fetched_at": "2026-07-20T19:22:57.541228+00:00"
+    },
+    "37a225e475f2b7f5": {
+      "title": "Help: Using reflection to discovery and invoke methods",
+      "fetched_at": "2026-07-20T19:22:58.159320+00:00"
+    },
+    "1c2a46d0a7e9ad34": {
+      "title": "Discovery and characterization of antitumor gut microbiota from amphibians",
+      "fetched_at": "2026-07-20T19:22:58.780469+00:00"
+    },
+    "c89a564de07a695c": {
+      "title": "Venezuela's devastating 'earthquake doublet' holds a warning for California's San Andreas Fault",
+      "fetched_at": "2026-07-20T19:22:59.406711+00:00"
+    },
+    "f6801cf146c82a9e": {
+      "title": "James Webb telescope captures never-before-seen glimpse of 'Centaur' galaxy's battle wounds — Space photo of the week",
+      "fetched_at": "2026-07-20T19:23:00.027956+00:00"
+    },
+    "0c9facc8cc05a422": {
+      "title": "Was Einstein wrong about anything?",
+      "fetched_at": "2026-07-20T19:23:00.651572+00:00"
     }
   },
-  "last_updated": "2026-07-20T13:46:22.918907+00:00"
+  "last_updated": "2026-07-20T19:23:00.762190+00:00"
 }
