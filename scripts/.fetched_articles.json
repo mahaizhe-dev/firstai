@@ -1,133 +1,5 @@
 {
   "articles": {
-    "a1fcd8e07a8475af": {
-      "title": "Three governments agree on something the AI industry doesn't want to hear",
-      "fetched_at": "2026-07-15T18:52:51.069591+00:00"
-    },
-    "a0bfc514d5a85ef3": {
-      "title": "LHIC – A local-first browser agent with 30ms latency and $0 LLM cost",
-      "fetched_at": "2026-07-15T18:52:51.692956+00:00"
-    },
-    "768df75950d6e41a": {
-      "title": "Show HN: AI Workflow Builder App Template for React",
-      "fetched_at": "2026-07-15T18:52:52.338351+00:00"
-    },
-    "a9a6b5a8af4a448c": {
-      "title": "Archer Announces Zee, AI Foundation Model Purpose-Built for Aviation",
-      "fetched_at": "2026-07-15T18:52:52.962224+00:00"
-    },
-    "e3c9fb49c5957606": {
-      "title": "Ask HN: Are the heaviest AI users of your team blowing past everyone else?",
-      "fetched_at": "2026-07-15T18:52:53.593354+00:00"
-    },
-    "a871be02638e0881": {
-      "title": "Show HN: Benchmarklist: track AI benchmarks (2.4k+), models, and capabilities",
-      "fetched_at": "2026-07-15T18:52:54.217882+00:00"
-    },
-    "c437e3288568fccd": {
-      "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
-      "fetched_at": "2026-07-15T18:52:54.862876+00:00"
-    },
-    "28df13ab629d8399": {
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "fetched_at": "2026-07-15T18:52:55.495205+00:00"
-    },
-    "11101641a9618b10": {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "fetched_at": "2026-07-15T18:52:56.138643+00:00"
-    },
-    "11f9ccc296af5107": {
-      "title": "IBM Power S1112 Brings Local AI Inference to the Edge as Power Goes Autonomous",
-      "fetched_at": "2026-07-15T18:52:56.766789+00:00"
-    },
-    "8c21eb32b7b7d796": {
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "fetched_at": "2026-07-15T18:52:57.409263+00:00"
-    },
-    "36759b7094db6378": {
-      "title": "Codex Micro – a compact hardware controller for AI agents",
-      "fetched_at": "2026-07-15T18:52:58.030414+00:00"
-    },
-    "a097a87cb4d64816": {
-      "title": "GPT‑Red: Unlocking Self-Improvement for Robustness",
-      "fetched_at": "2026-07-15T18:52:58.662160+00:00"
-    },
-    "4bd2f7a3adbc6357": {
-      "title": "Show HN: Stemning AI",
-      "fetched_at": "2026-07-15T18:52:59.296437+00:00"
-    },
-    "263a28bcb7193dfb": {
-      "title": "Building secure AI agents at scale: Introducing Loom for AWS",
-      "fetched_at": "2026-07-15T18:52:59.926737+00:00"
-    },
-    "a4435e70f634dade": {
-      "title": "Bothread – a local room where AI coding agents collaborate and communicate.",
-      "fetched_at": "2026-07-15T18:53:00.545841+00:00"
-    },
-    "dcff99c162e12338": {
-      "title": "IBM Vice Chairman: Our software is not being disrupted by AI",
-      "fetched_at": "2026-07-15T18:53:01.168061+00:00"
-    },
-    "8355a8663186aaff": {
-      "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\"",
-      "fetched_at": "2026-07-15T18:53:01.168198+00:00"
-    },
-    "5fac1cc7d465d215": {
-      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
-      "fetched_at": "2026-07-15T18:53:01.808662+00:00"
-    },
-    "90205f168068062a": {
-      "title": "Show HN: Painterly – Turn pictures into digital paintings without generative AI",
-      "fetched_at": "2026-07-15T18:53:02.442603+00:00"
-    },
-    "8b448e0fdcf87d43": {
-      "title": "特朗普輸了「出生公民權」官司 但未來孕婦入境美國是否更難?",
-      "fetched_at": "2026-07-15T18:53:05.588834+00:00"
-    },
-    "f8d1e313459b1155": {
-      "title": "特朗普干預風波引發歐洲反彈，為什麼因凡蒂諾毫不擔心？",
-      "fetched_at": "2026-07-15T18:53:06.201441+00:00"
-    },
-    "1aec0ec14af809ff": {
-      "title": "中國試射導彈 美國質疑暗擴核武庫 澳洲斥挑釁",
-      "fetched_at": "2026-07-15T18:53:06.813008+00:00"
-    },
-    "95c2a2c3f5e5df3b": {
-      "title": "Robot dog can climb stairs, navigate a forest and bound over logs thanks to new, rapid AI training technique",
-      "fetched_at": "2026-07-15T18:53:09.083600+00:00"
-    },
-    "c4dd1b528b6ee586": {
-      "title": "Orange-lipped monkey that roars and snorts deep in Congo rainforest is new species to science",
-      "fetched_at": "2026-07-15T18:53:09.706940+00:00"
-    },
-    "6af29f60e8bbcb05": {
-      "title": "'Smaller than the tiniest scale in nature': Physicists made a black hole out of light and used it to test Stephen Hawking's elusive radiation theory",
-      "fetched_at": "2026-07-15T18:53:10.332572+00:00"
-    },
-    "084513270b3c6616": {
-      "title": "We tested Canon’s $10,000 wildlife zoom — can it replace a prime lens?",
-      "fetched_at": "2026-07-15T18:53:10.963155+00:00"
-    },
-    "172cbe9219a7503c": {
-      "title": "Show HN: One MCP setup for 22 clients, with lazy tool discovery",
-      "fetched_at": "2026-07-15T18:53:11.592754+00:00"
-    },
-    "da3c8e6c39d09156": {
-      "title": "This pet gecko could help scientists unlock the secrets of cancer",
-      "fetched_at": "2026-07-15T18:53:12.222375+00:00"
-    },
-    "ea97649ea8073f29": {
-      "title": "Archaeologists found Homer's Iliad inside a 1,600-year-old Egyptian mummy",
-      "fetched_at": "2026-07-15T18:53:12.840263+00:00"
-    },
-    "a0357f8705683550": {
-      "title": "Are humans really the ultimate super-predator?",
-      "fetched_at": "2026-07-15T18:53:13.457714+00:00"
-    },
-    "3248ef18a1fd4a82": {
-      "title": "AI just supercharged the race to find room temperature superconductors",
-      "fetched_at": "2026-07-15T18:53:14.104422+00:00"
-    },
     "8bb969b4c53b5e1e": {
       "title": "央行今日开展6260亿元7天逆回购操作",
       "fetched_at": "2026-07-16T01:26:43.868819+00:00"
@@ -3915,7 +3787,123 @@
     "9bb1b50ca1b9dda1": {
       "title": "Why have humans collected crystals for 780,000 years? Chimpanzees may hold the answer",
       "fetched_at": "2026-07-23T13:21:47.390098+00:00"
+    },
+    "6882dc29d844e58a": {
+      "title": "AI Casino",
+      "fetched_at": "2026-07-23T18:56:36.538783+00:00"
+    },
+    "d76c3b40e05bca3f": {
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "fetched_at": "2026-07-23T18:56:37.138039+00:00"
+    },
+    "2b5a5a1cb4f95f6b": {
+      "title": "AI bet goes awry: Oracle fires 21,000 employees",
+      "fetched_at": "2026-07-23T18:56:37.816039+00:00"
+    },
+    "d40660c1e64344f0": {
+      "title": "Accidental data loss in Claude Code and OpenAI Codex: when AI deletes user files",
+      "fetched_at": "2026-07-23T18:56:38.417512+00:00"
+    },
+    "91874933554a9c3b": {
+      "title": "Fail-closed enforcement for AI agents: deny what you cannot verify",
+      "fetched_at": "2026-07-23T18:56:39.009677+00:00"
+    },
+    "2bd8e100bfd25a15": {
+      "title": "Qwen 3.8-Max: Interviewing the AI About Itself",
+      "fetched_at": "2026-07-23T18:56:39.617308+00:00"
+    },
+    "efb2020a556cfd60": {
+      "title": "You don't need an LLM to cluster LLM traces",
+      "fetched_at": "2026-07-23T18:56:40.199212+00:00"
+    },
+    "0fc30bb4685b683a": {
+      "title": "Utilities Join Trump Pledge to Limit AI-Driven Increases in Electricity Bills",
+      "fetched_at": "2026-07-23T18:56:40.784894+00:00"
+    },
+    "53fd97276feffb2b": {
+      "title": "In-House LLM Serving at Netflix",
+      "fetched_at": "2026-07-23T18:56:40.785003+00:00"
+    },
+    "76ee316506e8fc89": {
+      "title": "Rethinking Legal Education in the AI Era",
+      "fetched_at": "2026-07-23T18:56:41.388296+00:00"
+    },
+    "5f631c75cd6f7ff3": {
+      "title": "Show HN: Setoku – Self-hosted knowledge server for AI agents",
+      "fetched_at": "2026-07-23T18:56:41.997532+00:00"
+    },
+    "13e87dd2ab3f186d": {
+      "title": "Advancing AI 2026 – Build What's Next with AMD [video]",
+      "fetched_at": "2026-07-23T18:56:42.594662+00:00"
+    },
+    "198cdf5cae447a60": {
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "fetched_at": "2026-07-23T18:56:43.198138+00:00"
+    },
+    "9bef270148e0e620": {
+      "title": "Google just had its first negative cash flow quarter due to AI spending",
+      "fetched_at": "2026-07-23T18:56:43.792575+00:00"
+    },
+    "a8ecca4751999245": {
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "fetched_at": "2026-07-23T18:56:44.423765+00:00"
+    },
+    "ed999ea6957421a5": {
+      "title": "Google burning through cash with spiralling AI costs",
+      "fetched_at": "2026-07-23T18:56:45.031729+00:00"
+    },
+    "4ffa38bd140d2d6d": {
+      "title": "Are we in the era of AI slop landing pages?",
+      "fetched_at": "2026-07-23T18:56:45.633200+00:00"
+    },
+    "4d9e302bf0366f9f": {
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "fetched_at": "2026-07-23T18:56:46.241788+00:00"
+    },
+    "317d148f53785ce1": {
+      "title": "After shocking quarter, IBM insists that AI isn't killing the mainframe",
+      "fetched_at": "2026-07-23T18:56:46.845759+00:00"
+    },
+    "13ac42da4acc706c": {
+      "title": "Show HN: Cloud for your AI Agent's tools/fuctions",
+      "fetched_at": "2026-07-23T18:56:47.454869+00:00"
+    },
+    "8bafdd2fbd4b3cac": {
+      "title": "台灣陸配參選資格「設籍滿十年」改「除籍滿十年」意味什麼？",
+      "fetched_at": "2026-07-23T18:56:50.608585+00:00"
+    },
+    "e05f58be170177f4": {
+      "title": "'We're trying this out of frustration': Marmots star in OnlyFans account as researchers desperately look for ways to raise funds amid US budget cuts",
+      "fetched_at": "2026-07-23T18:56:53.826178+00:00"
+    },
+    "6417b0b6a64be527": {
+      "title": "'Extremely rare' Roman military camp found in Slovakia holds hastily buried remains of Marcus Aurelius' soldiers — with some dumped in wells",
+      "fetched_at": "2026-07-23T18:56:54.460505+00:00"
+    },
+    "9df42fe62c347943": {
+      "title": "Ancient Bronze Age shaman long assumed to be a man was a woman",
+      "fetched_at": "2026-07-23T18:56:55.064904+00:00"
+    },
+    "01850137d596ea82": {
+      "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
+      "fetched_at": "2026-07-23T18:56:55.664962+00:00"
+    },
+    "f9a9fad4d0ea8bfe": {
+      "title": "A healthier global diet could cut farm emissions by 85%",
+      "fetched_at": "2026-07-23T18:56:56.268479+00:00"
+    },
+    "5ed04a2d868b1bf1": {
+      "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
+      "fetched_at": "2026-07-23T18:56:56.868908+00:00"
+    },
+    "8c8a9a954ade9acd": {
+      "title": "NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems",
+      "fetched_at": "2026-07-23T18:56:57.465483+00:00"
+    },
+    "5a68188dd2016105": {
+      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
+      "fetched_at": "2026-07-23T18:56:58.071614+00:00"
     }
   },
-  "last_updated": "2026-07-23T13:21:47.462203+00:00"
+  "last_updated": "2026-07-23T18:56:58.184014+00:00"
 }
