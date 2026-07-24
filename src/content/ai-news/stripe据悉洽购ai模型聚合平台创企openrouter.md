@@ -1,0 +1,10 @@
+---
+title: 'Stripe据悉洽购AI模型聚合平台创企OpenRouter'
+description: '据报道，支付公司Stripe正洽谈收购AI模型聚合平台创企OpenRouter，可能很快宣布达成交易，但洽谈仍可能破裂或出现其他竞购者。OpenRouter此前估值约13亿美元，若达成收购协议，其估值可能达到约100亿美元。（界面）'
+pubDate: 2026-07-24T08:50:21
+source: '36氪'
+sourceUrl: 'https://36kr.com/newsflashes/3908918375732358?f=rss'
+tags: []
+---
+
+据报道，支付公司Stripe正洽谈收购AI模型聚合平台创企OpenRouter，可能很快宣布达成交易，但洽谈仍可能破裂或出现其他竞购者。OpenRouter此前估值约13亿美元，若达成收购协议，其估值可能达到约100亿美元。（界面）
