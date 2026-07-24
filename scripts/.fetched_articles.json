@@ -1,165 +1,5 @@
 {
   "articles": {
-    "e974374f147eb359": {
-      "title": "Ask HN: Best way to buy second hand compute (in a future AI crash)",
-      "fetched_at": "2026-07-16T07:53:16.038480+00:00"
-    },
-    "74283e1b5fd4449a": {
-      "title": "北京亦庄国际服务贸易集团增资至6.16亿，增幅约13%",
-      "fetched_at": "2026-07-16T07:53:16.667745+00:00"
-    },
-    "57e119ba7c9d1baa": {
-      "title": "Unifeyn, an AI study workspace grounded in your own documents",
-      "fetched_at": "2026-07-16T07:53:17.284012+00:00"
-    },
-    "8831f4c21061bb12": {
-      "title": "环旭电子：拟出资5000万元认购集成电路产业基金份额",
-      "fetched_at": "2026-07-16T07:53:17.903200+00:00"
-    },
-    "0c2bd036cc3b747a": {
-      "title": "京东：推出京麦AI经营中心",
-      "fetched_at": "2026-07-16T07:53:18.569130+00:00"
-    },
-    "8fdb769c84acac97": {
-      "title": "Rethinking Databases for Humans and AI Agents",
-      "fetched_at": "2026-07-16T07:53:19.187362+00:00"
-    },
-    "84d080f5f3c3cf6d": {
-      "title": "歌尔股份在长沙成立新科技公司，注册资本100万",
-      "fetched_at": "2026-07-16T07:53:19.834493+00:00"
-    },
-    "b159b2da7cc47a22": {
-      "title": "台积电上调销售和支出展望，再添AI需求持续迹象",
-      "fetched_at": "2026-07-16T07:53:20.497225+00:00"
-    },
-    "846b1d59f60176a9": {
-      "title": "韩国考虑对14岁及以下儿童实施社交媒体限制",
-      "fetched_at": "2026-07-16T07:53:21.108729+00:00"
-    },
-    "618f2893abf39efc": {
-      "title": "苹果自研AI服务器芯片计划被曝推迟",
-      "fetched_at": "2026-07-16T07:53:21.734860+00:00"
-    },
-    "a2de4ad145769a1d": {
-      "title": "AI Reviewing AI",
-      "fetched_at": "2026-07-16T07:53:22.363774+00:00"
-    },
-    "6e39f7216bc55314": {
-      "title": "金山办公连发两款AI办公智能体，覆盖个人级与组织级两大场景",
-      "fetched_at": "2026-07-16T07:53:22.986394+00:00"
-    },
-    "1fc7a1a3d26b9be9": {
-      "title": "韩国将暂时停止发行新的个股杠杆ETF",
-      "fetched_at": "2026-07-16T07:53:23.629971+00:00"
-    },
-    "5514036f003cfbc9": {
-      "title": "商务部回应推动解决安世半导体问题进展",
-      "fetched_at": "2026-07-16T07:53:24.271860+00:00"
-    },
-    "de131985a11d228f": {
-      "title": "百度文库、网盘7月底将升级GenFlow",
-      "fetched_at": "2026-07-16T07:53:24.907834+00:00"
-    },
-    "4a353b0644b926b0": {
-      "title": "福化集团旗下古雷石油化工公司增资至205亿，增幅约14%",
-      "fetched_at": "2026-07-16T07:53:25.530423+00:00"
-    },
-    "482098d68295fa0d": {
-      "title": "A股三大指数集体收跌",
-      "fetched_at": "2026-07-16T07:53:26.168499+00:00"
-    },
-    "240d5ede3e9e859a": {
-      "title": "GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "fetched_at": "2026-07-16T07:53:26.819861+00:00"
-    },
-    "88f4664e79ce4277": {
-      "title": "数据中心提供商Csquare敲定美国IPO定价，融资规模10.5亿美元",
-      "fetched_at": "2026-07-16T07:53:27.438955+00:00"
-    },
-    "034fcef066fd7430": {
-      "title": "2026暑期档总票房破35亿",
-      "fetched_at": "2026-07-16T07:53:28.071090+00:00"
-    },
-    "d01ebbd5a6670225": {
-      "title": "阿根廷揮舞福克蘭群島橫幅宣示主權後面臨FIFA處分",
-      "fetched_at": "2026-07-16T07:53:31.465191+00:00"
-    },
-    "a9df28c4edb5b588": {
-      "title": "皮尤研究：全球更多國家對中國好感勝過美國，逾20年以來首次",
-      "fetched_at": "2026-07-16T07:53:32.093617+00:00"
-    },
-    "ce22e43de320fa5d": {
-      "title": "伊朗战争的长期后果：物价上涨将持续存在",
-      "fetched_at": "2026-07-16T07:53:32.719991+00:00"
-    },
-    "095c1d83258b549a": {
-      "title": "白色恐怖迷霧中，台灣政治受難者後代如何摸索真相？",
-      "fetched_at": "2026-07-16T07:53:33.370359+00:00"
-    },
-    "888239e46f613f16": {
-      "title": "重磅IPO：中国最大存储芯片制造商长鑫存储即将上市",
-      "fetched_at": "2026-07-16T07:53:34.011734+00:00"
-    },
-    "11549f28f461575a": {
-      "title": "伊朗战争会成为美国又一场“永无止境的战争”吗？",
-      "fetched_at": "2026-07-16T07:53:34.660317+00:00"
-    },
-    "d7b35acafc05df74": {
-      "title": "「天才少女」蔣方舟跌下神壇：中國學術打假為何變成制度之問",
-      "fetched_at": "2026-07-16T07:53:35.293676+00:00"
-    },
-    "8595eb5461019960": {
-      "title": "香港警方突击搜查独立书店，以煽动罪名逮捕五人",
-      "fetched_at": "2026-07-16T07:53:35.926864+00:00"
-    },
-    "0ccf3709a2506c87": {
-      "title": "Twitter 20周年：“出圈”梗图、爆款视频和公共广场",
-      "fetched_at": "2026-07-16T07:53:36.582910+00:00"
-    },
-    "f423105265e57533": {
-      "title": "为什么南美足球迷人人都“恨”阿根廷",
-      "fetched_at": "2026-07-16T07:53:37.201901+00:00"
-    },
-    "54f8fab4bcda3c48": {
-      "title": "點擊瀏覽即時更新",
-      "fetched_at": "2026-07-16T07:53:37.819863+00:00"
-    },
-    "815752c75f530b74": {
-      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
-      "fetched_at": "2026-07-16T07:53:48.632730+00:00"
-    },
-    "bdf133c06568b44d": {
-      "title": "NASA's James Webb Space Telescope reveals a strange atmosphere on a hellish lava planet",
-      "fetched_at": "2026-07-16T07:53:49.272993+00:00"
-    },
-    "a2f776082378a444": {
-      "title": "Great mysteries of archaeology: an ancient Amazonian world revealed from the sky",
-      "fetched_at": "2026-07-16T07:53:49.950095+00:00"
-    },
-    "f5f464631fcfb1dc": {
-      "title": "Carucate, An Ancient Unit of Land",
-      "fetched_at": "2026-07-16T07:53:50.605387+00:00"
-    },
-    "e8283d9c90774cb2": {
-      "title": "Common constipation drug may help clear depression brain fog",
-      "fetched_at": "2026-07-16T07:53:51.266956+00:00"
-    },
-    "e3d4162b31b24494": {
-      "title": "6,000-year-old broken ribs discovered in Syria may be one of the oldest known cases of child abuse in the world",
-      "fetched_at": "2026-07-16T07:53:51.891889+00:00"
-    },
-    "203085044b2dfc15": {
-      "title": "'Time was speeding up, slowing down, or even stopping': Physicist demonstrates a key theory of time by building a 'mini-universe' in his lab",
-      "fetched_at": "2026-07-16T07:53:52.523075+00:00"
-    },
-    "dc42cc67e914d58c": {
-      "title": "2,500-year-old tomb of a 'warrior prince' with chariot and helmet discovered on Italy's Adriatic coast",
-      "fetched_at": "2026-07-16T07:53:53.151908+00:00"
-    },
-    "124e1ae6eb795210": {
-      "title": "Euclid telescope discovers the 2 most ancient monster black holes in the universe ‪—‬ each brighter than a trillion suns",
-      "fetched_at": "2026-07-16T07:53:53.777304+00:00"
-    },
     "42b7be51b10b3009": {
       "title": "Google required to open up to AI, search engine rivals under EU-mandated changes",
       "fetched_at": "2026-07-16T13:16:14.327901+00:00"
@@ -3919,7 +3759,135 @@
     "a0357f8705683550": {
       "title": "Are humans really the ultimate super-predator?",
       "fetched_at": "2026-07-24T01:30:25.145768+00:00"
+    },
+    "21bd1eda1abd6d18": {
+      "title": "SK海力士开启招聘3D堆叠式DRAM逻辑设计工程师",
+      "fetched_at": "2026-07-24T08:04:43.334650+00:00"
+    },
+    "60779707342b5d4d": {
+      "title": "宁德时代入股屹艮科技",
+      "fetched_at": "2026-07-24T08:04:43.961798+00:00"
+    },
+    "f52b67ad07ab83f3": {
+      "title": "Naming a pattern in AI-generated code: Modular Mirage",
+      "fetched_at": "2026-07-24T08:04:44.574320+00:00"
+    },
+    "32a80a9c3041baa8": {
+      "title": "海特生物：注射用埃普奈明临床试验申请获得受理",
+      "fetched_at": "2026-07-24T08:04:45.211634+00:00"
+    },
+    "d3fae768cb6d3b77": {
+      "title": "申通地铁：控股子公司签订约4.61亿元日常经营合同",
+      "fetched_at": "2026-07-24T08:04:45.834194+00:00"
+    },
+    "81c77ae50e672610": {
+      "title": "华电国际：上半年累计完成发电量同比下降约10.65%",
+      "fetched_at": "2026-07-24T08:04:46.457918+00:00"
+    },
+    "9221c8178371b94b": {
+      "title": "Oracle severed 21,000 employees during an AI spending spree",
+      "fetched_at": "2026-07-24T08:04:47.075510+00:00"
+    },
+    "6ba2863c499210bc": {
+      "title": "日本消费者大举购入珠宝，对冲日元贬值风险",
+      "fetched_at": "2026-07-24T08:04:47.704869+00:00"
+    },
+    "f74820065153670e": {
+      "title": "Beyond Static Summarization: Proactive Memory Extraction for LLM Agents",
+      "fetched_at": "2026-07-24T08:04:48.333627+00:00"
+    },
+    "d1c41027bb276794": {
+      "title": "消息称MacBook Neo 2拟搭载A19 Pro芯片和12GB内存",
+      "fetched_at": "2026-07-24T08:04:48.967547+00:00"
+    },
+    "d104e6d71d09669b": {
+      "title": "HN: FlowShelf –free,native macOS shelf/clipboard/screenshot app,on-device AI",
+      "fetched_at": "2026-07-24T08:04:49.585043+00:00"
+    },
+    "2479cdf262ccac40": {
+      "title": "AI Overviews could push Reddit to end its $60M-a-year deal with Google",
+      "fetched_at": "2026-07-24T08:04:50.241903+00:00"
+    },
+    "04b452d6359aa5ee": {
+      "title": "高德包车正式上线",
+      "fetched_at": "2026-07-24T08:04:50.886201+00:00"
+    },
+    "b848400ff384b16b": {
+      "title": "Show HN: Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC",
+      "fetched_at": "2026-07-24T08:04:51.519108+00:00"
+    },
+    "78f75ce9b01ca1d4": {
+      "title": "On AI",
+      "fetched_at": "2026-07-24T08:04:52.141792+00:00"
+    },
+    "735c0dbd82821196": {
+      "title": "贝恩资本收购英国第一大维生素品牌Vitabiotics",
+      "fetched_at": "2026-07-24T08:04:52.776368+00:00"
+    },
+    "0d57fd27b0579d5f": {
+      "title": "福特在美召回超56万辆Bronco车型，因发动机舱线束短路存起火风险",
+      "fetched_at": "2026-07-24T08:04:53.395484+00:00"
+    },
+    "d503f5b1fa2f6a17": {
+      "title": "中国人寿回应减持兆易创新",
+      "fetched_at": "2026-07-24T08:04:54.035211+00:00"
+    },
+    "71d4f7f604cce854": {
+      "title": "Show HN: Continuum – switch AI coding agents without re-explaining your project",
+      "fetched_at": "2026-07-24T08:04:54.681829+00:00"
+    },
+    "9cbddeb93580353d": {
+      "title": "A股三大指数集体收跌，两市近5000股飘绿",
+      "fetched_at": "2026-07-24T08:04:55.306647+00:00"
+    },
+    "ff17e58ee1040d1b": {
+      "title": "為何越來越多年輕女性罹患第二型糖尿病",
+      "fetched_at": "2026-07-24T08:04:57.412456+00:00"
+    },
+    "3c23161a4eb707dc": {
+      "title": "美國以「強迫勞動」為由徵新關稅，影響中國、台灣等60個貿易夥伴",
+      "fetched_at": "2026-07-24T08:04:58.029481+00:00"
+    },
+    "d1e34dbde8fdde78": {
+      "title": "印度青年抗议：一场莫迪始料未及的政治危机",
+      "fetched_at": "2026-07-24T08:04:58.662982+00:00"
+    },
+    "892ae7e6d7d95fcd": {
+      "title": "美中AI科技戰：白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術",
+      "fetched_at": "2026-07-24T08:04:59.298010+00:00"
+    },
+    "734f80b77c03d4ed": {
+      "title": "為什麼你總是在凌晨三點醒來？",
+      "fetched_at": "2026-07-24T08:04:59.930531+00:00"
+    },
+    "f2a920fd399828fb": {
+      "title": "多地40度高温，日本创造新词“酷暑日”",
+      "fetched_at": "2026-07-24T08:05:00.546241+00:00"
+    },
+    "6cac59884cb86736": {
+      "title": "美国将对80多个国家加征10%至12.5%关税",
+      "fetched_at": "2026-07-24T08:05:01.188109+00:00"
+    },
+    "6be48e3ff3aa5372": {
+      "title": "中国打造新型软实力：开放、低成本的人工智能",
+      "fetched_at": "2026-07-24T08:05:01.801402+00:00"
+    },
+    "0acff10e6fd20c07": {
+      "title": "中国人工智能的制胜之道",
+      "fetched_at": "2026-07-24T08:05:02.440644+00:00"
+    },
+    "26fc03f7771eadd6": {
+      "title": "安倍的“幽灵”：高市早苗捍卫“恩师”，推进民族主义议程",
+      "fetched_at": "2026-07-24T08:05:03.058446+00:00"
+    },
+    "252016d5f059ca5e": {
+      "title": "对韩国而言，美沙核协议暴露美国双重标准",
+      "fetched_at": "2026-07-24T08:05:03.680009+00:00"
+    },
+    "5404618aa20d838b": {
+      "title": "Science word of the day: Parsec",
+      "fetched_at": "2026-07-24T08:05:06.863823+00:00"
     }
   },
-  "last_updated": "2026-07-24T01:30:25.295526+00:00"
+  "last_updated": "2026-07-24T08:05:06.968921+00:00"
 }
