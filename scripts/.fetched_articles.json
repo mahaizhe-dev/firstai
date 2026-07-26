@@ -1,229 +1,5 @@
 {
   "articles": {
-    "d76f3dbaf19eaaf4": {
-      "title": "Oxford Physicist Says an Antigravity Machine May Be Possible",
-      "fetched_at": "2026-07-17T18:50:55.039882+00:00"
-    },
-    "a936dba86be86e47": {
-      "title": "Show HN: Feral – an AI agent that creates content to promote your stuff",
-      "fetched_at": "2026-07-17T18:50:55.619760+00:00"
-    },
-    "f517ee5da33d21e2": {
-      "title": "Show HN: An AI agent that creates text posts and image ads for your business",
-      "fetched_at": "2026-07-17T18:50:56.207865+00:00"
-    },
-    "dacef44334958792": {
-      "title": "Sandboxing LLM-Generated Python: How I Let Strangers' Prompts Fight Each Other",
-      "fetched_at": "2026-07-17T18:50:56.786672+00:00"
-    },
-    "0b07c7215e454293": {
-      "title": "1999.ai: AI and dot-com déjà vu",
-      "fetched_at": "2026-07-17T18:50:57.361933+00:00"
-    },
-    "fa1298090e3af029": {
-      "title": "In-House LLM Serving at Netflix",
-      "fetched_at": "2026-07-17T18:50:57.945756+00:00"
-    },
-    "1b3e42e24ef6027f": {
-      "title": "Chat GPT Is Eating the World",
-      "fetched_at": "2026-07-17T18:50:58.527904+00:00"
-    },
-    "fac3cff1482ab3be": {
-      "title": "Show HN: AI Crypto Investigations/Research Agents",
-      "fetched_at": "2026-07-17T18:50:59.096301+00:00"
-    },
-    "bcf094be75cb1f5b": {
-      "title": "Chai Discovery nabs $400M Series C as AI-designed antibodies reach Big Pharma",
-      "fetched_at": "2026-07-17T18:50:59.674036+00:00"
-    },
-    "0a748e7d6db8fb89": {
-      "title": "Show HN: The AI Lethal Trifecta",
-      "fetched_at": "2026-07-17T18:51:00.327695+00:00"
-    },
-    "6535053f6c89bd13": {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "fetched_at": "2026-07-17T18:51:00.905832+00:00"
-    },
-    "12b53db8128999f2": {
-      "title": "Learning a few things about running SQLite",
-      "fetched_at": "2026-07-17T18:51:01.480119+00:00"
-    },
-    "7d16fd53fcf6ba38": {
-      "title": "Apple’s plot to crush OpenAI",
-      "fetched_at": "2026-07-17T18:51:02.053153+00:00"
-    },
-    "0f280b4253b7003e": {
-      "title": "AI scans your expenses and shows you where to save",
-      "fetched_at": "2026-07-17T18:51:02.619585+00:00"
-    },
-    "6334597f045c2041": {
-      "title": "How are you giving AI agents access to postgress?",
-      "fetched_at": "2026-07-17T18:51:03.194585+00:00"
-    },
-    "f75d6d848a1bb78c": {
-      "title": "OpenAI admits GPT-5.6 occasionally deletes files – but it's an 'honest mistake'",
-      "fetched_at": "2026-07-17T18:51:03.777908+00:00"
-    },
-    "9183d018f88efc48": {
-      "title": "The Truth About AI's Water Use",
-      "fetched_at": "2026-07-17T18:51:04.358531+00:00"
-    },
-    "a0b8ba0d109468f5": {
-      "title": "Patreon stops asking AI bots not to scrape and starts blocking them",
-      "fetched_at": "2026-07-17T18:51:04.940037+00:00"
-    },
-    "ff542b4c37f019d4": {
-      "title": "The Download: perimenopause misinformation and China's latest AI leap",
-      "fetched_at": "2026-07-17T18:51:05.520641+00:00"
-    },
-    "bde72bfd631d25ec": {
-      "title": "What is the most beneficial way AI has impacted your daily life?",
-      "fetched_at": "2026-07-17T18:51:06.091583+00:00"
-    },
-    "dd0c9d618f53209a": {
-      "title": "就任英國工黨黨魁 「北部王」貝安德其人其事",
-      "fetched_at": "2026-07-17T18:51:08.978815+00:00"
-    },
-    "207d5a7bcf804d06": {
-      "title": "'RNA can do things which we have never seen before': New study challenges assumptions about what RNA was up to at the dawn of life",
-      "fetched_at": "2026-07-17T18:51:10.974777+00:00"
-    },
-    "c1a09e01bb372ac9": {
-      "title": "'These are striking forecasts': Super El Niño keeps getting even more likely, and it could bring a humanitarian crisis",
-      "fetched_at": "2026-07-17T18:51:11.562610+00:00"
-    },
-    "87eeffabb3b25115": {
-      "title": "'Explosive diarrhea' parasite infections in 5 states linked to Taco Bell lettuce; other cases still under investigation",
-      "fetched_at": "2026-07-17T18:51:12.150852+00:00"
-    },
-    "4f967e5baec0806c": {
-      "title": "'Shared cosmic experience': 'Potentially hazardous' asteroid Apophis could be visible to 90% of Earth's population during ultraclose 2029 flyby, new maps reveal",
-      "fetched_at": "2026-07-17T18:51:12.737404+00:00"
-    },
-    "5aada7ea6b6bd1ce": {
-      "title": "Science news this week: Time emerges inside a mini-universe, scientists thicken Arctic ice, and mouse study hints at why we lack memories from infancy",
-      "fetched_at": "2026-07-17T18:51:12.737574+00:00"
-    },
-    "c3148ce28eec62fa": {
-      "title": "美股三大指数收盘集体下跌，大型科技股普跌",
-      "fetched_at": "2026-07-18T01:21:00.116222+00:00"
-    },
-    "dd73b5715c909cb0": {
-      "title": "Face Value: How AI is reshaping trust, identity, and scams",
-      "fetched_at": "2026-07-18T01:21:00.732555+00:00"
-    },
-    "bbf4924fa87eed5d": {
-      "title": "商务部：王文涛部长会见印尼经济统筹部长艾尔朗加",
-      "fetched_at": "2026-07-18T01:21:01.386211+00:00"
-    },
-    "b6c2cc8e073fc564": {
-      "title": "“智领新程 融创未来” 两岸人工智能系列活动亮相上海世界人工智能大会",
-      "fetched_at": "2026-07-18T01:21:01.984789+00:00"
-    },
-    "af0b617cf308080b": {
-      "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
-      "fetched_at": "2026-07-18T01:21:02.593021+00:00"
-    },
-    "0d2401f7f5745db5": {
-      "title": "Overtraining as the path to human-like AI",
-      "fetched_at": "2026-07-18T01:21:03.184455+00:00"
-    },
-    "2e2d0cb61681adfe": {
-      "title": "A Proposal for The Dartmouth Summer Research Project on AI (1955) [pdf]",
-      "fetched_at": "2026-07-18T01:21:03.782749+00:00"
-    },
-    "91eedbdd5f44218e": {
-      "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
-      "fetched_at": "2026-07-18T01:21:04.376104+00:00"
-    },
-    "777efb13c7d17bd4": {
-      "title": "Public data and an AI evidence engine for Swedish politics",
-      "fetched_at": "2026-07-18T01:21:04.973763+00:00"
-    },
-    "89c0d13c67dcc202": {
-      "title": "A grumpy screed about AI in software engineering",
-      "fetched_at": "2026-07-18T01:21:05.609031+00:00"
-    },
-    "8cfe46fff766cc33": {
-      "title": "Nadella Blasts AI Industry's Double Standard",
-      "fetched_at": "2026-07-18T01:21:06.212460+00:00"
-    },
-    "e36b22bf7fccb4ef": {
-      "title": "Aside – Reddit-like circles with AI-ranked feeds",
-      "fetched_at": "2026-07-18T01:21:06.810856+00:00"
-    },
-    "0f2a5f0178c49a91": {
-      "title": "Sourced ranking of the AI infrastructure build-out",
-      "fetched_at": "2026-07-18T01:21:07.416350+00:00"
-    },
-    "5468a642397fa49d": {
-      "title": "Tyler Cowen: the future belongs to AI maniacs",
-      "fetched_at": "2026-07-18T01:21:08.017814+00:00"
-    },
-    "3f8212995f412d0d": {
-      "title": "The AI Codebase",
-      "fetched_at": "2026-07-18T01:21:08.628775+00:00"
-    },
-    "059c83ab0401fb87": {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "fetched_at": "2026-07-18T01:21:09.227376+00:00"
-    },
-    "04778d963d3e810f": {
-      "title": "Patreon Blocks AI Crawlers from Copying Content: 'Creators Deserve Compenstion'",
-      "fetched_at": "2026-07-18T01:21:09.835029+00:00"
-    },
-    "63f0de2aea2be172": {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "fetched_at": "2026-07-18T01:21:10.423810+00:00"
-    },
-    "c7ef41be54fd3414": {
-      "title": "Netflix Paid $587M for Ben Affleck's AI Company",
-      "fetched_at": "2026-07-18T01:21:11.022347+00:00"
-    },
-    "2d6eec4ea68ac42e": {
-      "title": "Torvalds: 'AI Is a Tool, Just Like Other Tools. It's Clearly a Useful One'",
-      "fetched_at": "2026-07-18T01:21:11.629627+00:00"
-    },
-    "4e78093518cb6f99": {
-      "title": "中國搞笑網紅「陳土豆」台灣爆紅，為何引「統戰」爭議？",
-      "fetched_at": "2026-07-18T01:21:14.395593+00:00"
-    },
-    "ce1170e62504b5c9": {
-      "title": "Study Tracks Origins of 19th-Century Africans Left on Atlantic Island",
-      "fetched_at": "2026-07-18T01:21:18.351707+00:00"
-    },
-    "974976a68cb66c4c": {
-      "title": "Barracks Foundation Found in Nova Scotia Fort",
-      "fetched_at": "2026-07-18T01:21:18.949551+00:00"
-    },
-    "17b0fb1c4e60e6d4": {
-      "title": "Researchers Analyze DNA from Residents of Chinese Neolithic City",
-      "fetched_at": "2026-07-18T01:21:19.537603+00:00"
-    },
-    "5f2bb1564e76ac9f": {
-      "title": "This Mars rover could finally reveal whether life ever existed on Mars",
-      "fetched_at": "2026-07-18T01:21:20.138974+00:00"
-    },
-    "70827cc1dd1bdc91": {
-      "title": "Scientists finally solved a 150-year-old gallium mystery",
-      "fetched_at": "2026-07-18T01:21:20.751797+00:00"
-    },
-    "a2ef80e8a5d46a8a": {
-      "title": "Trees keep absorbing carbon long after they stop growing",
-      "fetched_at": "2026-07-18T01:21:21.338182+00:00"
-    },
-    "e12532be3f2cd354": {
-      "title": "A vitamin A discovery is changing what scientists know about vision",
-      "fetched_at": "2026-07-18T01:21:21.941347+00:00"
-    },
-    "bf8730154e529329": {
-      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
-      "fetched_at": "2026-07-18T01:21:22.529206+00:00"
-    },
-    "13ec6360130ee43b": {
-      "title": "These ancient quasars shouldn't exist so soon after the Big Bang",
-      "fetched_at": "2026-07-18T01:21:23.134633+00:00"
-    },
     "66b9d6d4022e66bd": {
       "title": "AI Mania Is Eviscerating Global Decisionmaking",
       "fetched_at": "2026-07-18T07:24:51.717124+00:00"
@@ -3919,7 +3695,119 @@
     "416e8f59f0b9f606": {
       "title": "Scientists discover the Sun contains 55% more silver than expected",
       "fetched_at": "2026-07-25T18:50:15.271272+00:00"
+    },
+    "a5ab756cfd7d0a35": {
+      "title": "中南大学：收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查",
+      "fetched_at": "2026-07-26T01:44:07.194342+00:00"
+    },
+    "2854d65aadc1b764": {
+      "title": "世界杯带动旅游热度不减：夺冠后西班牙机票搜索量激增33倍，南美游咨询热度翻倍增长",
+      "fetched_at": "2026-07-26T01:44:07.813320+00:00"
+    },
+    "fb517167b707de35": {
+      "title": "下周，SK海力士、三星电子和铠侠将公布最新财报，或影响下一阶段芯片股走势",
+      "fetched_at": "2026-07-26T01:44:08.431221+00:00"
+    },
+    "79a0c7dbe25901b3": {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "fetched_at": "2026-07-26T01:44:09.053679+00:00"
+    },
+    "1399dcabbdde791f": {
+      "title": "特斯拉一周跌没18%，马斯克自嘲回应财富急速缩水",
+      "fetched_at": "2026-07-26T01:44:09.666961+00:00"
+    },
+    "620beb5b86781c5a": {
+      "title": "瑞银：中国再保险升至“买入”评级 目标价上调至1.75港元",
+      "fetched_at": "2026-07-26T01:44:10.286692+00:00"
+    },
+    "cef1606ddfa3c800": {
+      "title": "高盛：MiniMax-W重申“买入”评级 目标价860港元",
+      "fetched_at": "2026-07-26T01:44:10.905129+00:00"
+    },
+    "561bd4112aa6b90a": {
+      "title": "李在明：人工智能时代为韩国带来全新机遇",
+      "fetched_at": "2026-07-26T01:44:11.520269+00:00"
+    },
+    "cd87e1b407ebcf84": {
+      "title": "2026暑期档电影票房破55亿",
+      "fetched_at": "2026-07-26T01:44:12.137481+00:00"
+    },
+    "c23f07b743d103eb": {
+      "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+      "fetched_at": "2026-07-26T01:44:12.777317+00:00"
+    },
+    "5ae8106543a81923": {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "fetched_at": "2026-07-26T01:44:13.408703+00:00"
+    },
+    "9bd6168c889e738d": {
+      "title": "携程公布五个方面、共十九项整改措施",
+      "fetched_at": "2026-07-26T01:44:14.044940+00:00"
+    },
+    "389dead2e4beced9": {
+      "title": "Anthropic launches Opus 5",
+      "fetched_at": "2026-07-26T01:44:14.673978+00:00"
+    },
+    "95bb7e614798891f": {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "fetched_at": "2026-07-26T01:44:15.302874+00:00"
+    },
+    "670cecde91049223": {
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "fetched_at": "2026-07-26T01:44:15.921624+00:00"
+    },
+    "69e7b4cedcd375b3": {
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "fetched_at": "2026-07-26T01:44:16.547869+00:00"
+    },
+    "bb4ce51b2095ca0d": {
+      "title": "The tech-broification of American science has officially begun",
+      "fetched_at": "2026-07-26T01:44:17.204497+00:00"
+    },
+    "3e420628822c289c": {
+      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+      "fetched_at": "2026-07-26T01:44:17.821405+00:00"
+    },
+    "50bca7a12927e0f4": {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "fetched_at": "2026-07-26T01:44:18.452516+00:00"
+    },
+    "67191420ba21d1ea": {
+      "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
+      "fetched_at": "2026-07-26T01:44:19.082085+00:00"
+    },
+    "9b0d5b3165eb0b3e": {
+      "title": "香港「禁書時代」：國安法下那些被下架、點名與檢走的書",
+      "fetched_at": "2026-07-26T01:44:22.012741+00:00"
+    },
+    "379df6902a527206": {
+      "title": "什麼是「依托咪酯」？新型毒品危機蔓延東亞各國",
+      "fetched_at": "2026-07-26T01:44:22.642433+00:00"
+    },
+    "dd4c3c5589e17728": {
+      "title": "「電影最大的風險是不去冒險」：BBC專訪電影《奧德賽》劇組",
+      "fetched_at": "2026-07-26T01:44:23.262564+00:00"
+    },
+    "740030a7bc27b3ba": {
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "fetched_at": "2026-07-26T01:44:25.997446+00:00"
+    },
+    "e269ba584e134765": {
+      "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
+      "fetched_at": "2026-07-26T01:44:26.677601+00:00"
+    },
+    "7a209b30531d2658": {
+      "title": "This ancient sea worm has “bio-metal” jaws unlike anything scientists have seen",
+      "fetched_at": "2026-07-26T01:44:27.300000+00:00"
+    },
+    "c3d8648b02f0e89d": {
+      "title": "Sun-like star caught after eating one of its own planets",
+      "fetched_at": "2026-07-26T01:44:27.914911+00:00"
+    },
+    "ac3b15253c299ec6": {
+      "title": "AI flags more than 250,000 suspicious cancer research papers",
+      "fetched_at": "2026-07-26T01:44:28.610662+00:00"
     }
   },
-  "last_updated": "2026-07-25T18:50:15.418463+00:00"
+  "last_updated": "2026-07-26T01:44:28.731584+00:00"
 }
