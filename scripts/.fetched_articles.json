@@ -1,149 +1,5 @@
 {
   "articles": {
-    "150bd18317417a3a": {
-      "title": "White House cybersecurity clearinghouse to patch software flaws by AI",
-      "fetched_at": "2026-07-18T18:44:28.696108+00:00"
-    },
-    "1eebd7dccc446274": {
-      "title": "Show HN: A pre-launch scanner for AI-built apps (it scores itself 60/100)",
-      "fetched_at": "2026-07-18T18:44:29.282441+00:00"
-    },
-    "407db7c63a5cb699": {
-      "title": "OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape",
-      "fetched_at": "2026-07-18T18:44:29.861859+00:00"
-    },
-    "46dab59d3df19dd9": {
-      "title": "A 30-year-old open problem in complexity theory resolved by GPT-5.6 Pro",
-      "fetched_at": "2026-07-18T18:44:30.518761+00:00"
-    },
-    "18c619dcd7128261": {
-      "title": "AI's new political donor class is outspending Big Tech's last one",
-      "fetched_at": "2026-07-18T18:44:31.106597+00:00"
-    },
-    "4e4e090916eb4dc8": {
-      "title": "Better Than Free: How to Differentiate in the Age of AI",
-      "fetched_at": "2026-07-18T18:44:31.707977+00:00"
-    },
-    "f8c213e23200d748": {
-      "title": "Studying the Role of Sandboxing for AI Control",
-      "fetched_at": "2026-07-18T18:44:32.311465+00:00"
-    },
-    "2c86fbcd072256bf": {
-      "title": "Show HN: Talon – a self-hosted harness for long-lived AI agents",
-      "fetched_at": "2026-07-18T18:44:32.898406+00:00"
-    },
-    "8922e11b8aec03c3": {
-      "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
-      "fetched_at": "2026-07-18T18:44:33.485115+00:00"
-    },
-    "4a1f8f3d494cab66": {
-      "title": "Soofi S: Our first model for industrial AI in Europe",
-      "fetched_at": "2026-07-18T18:44:34.062446+00:00"
-    },
-    "e02fc9ba95692cc9": {
-      "title": "The AI with a Thousand Voices",
-      "fetched_at": "2026-07-18T18:44:34.645031+00:00"
-    },
-    "4f1a3b46abf5a8e4": {
-      "title": "AI spam filters are getting suckered by old-school text salting",
-      "fetched_at": "2026-07-18T18:44:35.237818+00:00"
-    },
-    "82d9141a78b02528": {
-      "title": "Show HN: PrimeTask, an offline-first work OS with BYO AI through MCP",
-      "fetched_at": "2026-07-18T18:44:35.821885+00:00"
-    },
-    "41ac2bc94502c421": {
-      "title": "Build: Mobile-First AI Creation on Roblox",
-      "fetched_at": "2026-07-18T18:44:36.416768+00:00"
-    },
-    "fa328ef87692ee7e": {
-      "title": "Show HN: Teya – Open‑source AI family agent on a wall‑mounted Android phone",
-      "fetched_at": "2026-07-18T18:44:37.020849+00:00"
-    },
-    "5dff0302f4cd3ae6": {
-      "title": "EU will force Google to share search data and open up AI on Android",
-      "fetched_at": "2026-07-18T18:44:37.621204+00:00"
-    },
-    "9eb7956aa98d4e30": {
-      "title": "Show HN: Slopsift – a local, graph-backed linter for AI writing",
-      "fetched_at": "2026-07-18T18:44:38.211119+00:00"
-    },
-    "7dacc83aa1e94bf9": {
-      "title": "AI Is Ruining Job Interviews",
-      "fetched_at": "2026-07-18T18:44:38.799756+00:00"
-    },
-    "969e23f907f4b7b8": {
-      "title": "Show HN: Race to AGI – a simulation browser game about running a frontier AI lab",
-      "fetched_at": "2026-07-18T18:44:39.385710+00:00"
-    },
-    "72885ac6f58b1b2a": {
-      "title": "The apps, gadgets, and tools every reader needs",
-      "fetched_at": "2026-07-18T18:44:39.966845+00:00"
-    },
-    "8396710f976850bf": {
-      "title": "廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？",
-      "fetched_at": "2026-07-18T18:44:43.086564+00:00"
-    },
-    "1ef7816e17acf6c6": {
-      "title": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
-      "fetched_at": "2026-07-18T18:44:45.467838+00:00"
-    },
-    "0ca4fd01de01d553": {
-      "title": "Not a housekeeper, but a 'vilica': The many responsibilities of Roman-era female farm managers were overlooked by historians",
-      "fetched_at": "2026-07-18T18:44:46.051360+00:00"
-    },
-    "715ece22f0f5b87d": {
-      "title": "'A dangerous proposition': How AI is warping the social fabric and the ways we collectively imagine the future",
-      "fetched_at": "2026-07-18T18:44:46.627455+00:00"
-    },
-    "011497745d763d96": {
-      "title": "Popular sugar substitutes linked to faster brain aging",
-      "fetched_at": "2026-07-18T18:44:47.213199+00:00"
-    },
-    "02a4d80137cbf626": {
-      "title": "A shattered asteroid may have bombarded Earth 800 million years ago",
-      "fetched_at": "2026-07-18T18:44:47.795838+00:00"
-    },
-    "cf8bba11d744ed13": {
-      "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
-      "fetched_at": "2026-07-18T18:44:48.377504+00:00"
-    },
-    "b028c8107c05c9fb": {
-      "title": "NASA’s James Webb catches a supermassive black hole feeding",
-      "fetched_at": "2026-07-18T18:44:48.989960+00:00"
-    },
-    "61b47b2a85bcffd7": {
-      "title": "Terraforming Mars may be more realistic than scientists once thought",
-      "fetched_at": "2026-07-18T18:44:49.584569+00:00"
-    },
-    "432bed6eaa198e65": {
-      "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
-      "fetched_at": "2026-07-18T18:44:50.168503+00:00"
-    },
-    "1f2a275f16c58fab": {
-      "title": "Tiny plastics in drinking water may be making dangerous bacteria stronger",
-      "fetched_at": "2026-07-18T18:44:50.764979+00:00"
-    },
-    "94604e345b71a7e8": {
-      "title": "Your fingers may hold a secret of human brain evolution",
-      "fetched_at": "2026-07-18T18:44:51.352191+00:00"
-    },
-    "2c600888a7d0c9a0": {
-      "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
-      "fetched_at": "2026-07-18T18:44:51.935775+00:00"
-    },
-    "792e3234ca9b0ec3": {
-      "title": "Scientists just debunked a dangerous baby rattlesnake myth",
-      "fetched_at": "2026-07-18T18:44:52.514846+00:00"
-    },
-    "ec9d8ad8d75dfbfd": {
-      "title": "Physicists created a tiny universe where time emerged without a clock",
-      "fetched_at": "2026-07-18T18:44:53.099096+00:00"
-    },
-    "1c7adf6864ec55e4": {
-      "title": "This alien planet never has sunrise or sunset. It may support life",
-      "fetched_at": "2026-07-18T18:44:53.687827+00:00"
-    },
     "97013dc3ea2c41e2": {
       "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
       "fetched_at": "2026-07-19T01:27:41.403864+00:00"
@@ -3791,7 +3647,91 @@
     "8e0745eb038fbca0": {
       "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
       "fetched_at": "2026-07-26T12:55:17.104764+00:00"
+    },
+    "ab688e89391c3944": {
+      "title": "What Americans Think About the Global AI Race",
+      "fetched_at": "2026-07-26T18:53:39.277668+00:00"
+    },
+    "3ceb0475b838913e": {
+      "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "fetched_at": "2026-07-26T18:53:39.843790+00:00"
+    },
+    "25c46fb94c31a57e": {
+      "title": "Show HN: ModelFuzz – Open-source runtime guardrails for AI agents",
+      "fetched_at": "2026-07-26T18:53:40.412578+00:00"
+    },
+    "81d0af7f0d38d79f": {
+      "title": "Narcissism, Machiavellianism, and AI Use",
+      "fetched_at": "2026-07-26T18:53:40.972970+00:00"
+    },
+    "00985562bea2b24d": {
+      "title": "Show HN: Readability for web and PDFs with TTS and local AI summary",
+      "fetched_at": "2026-07-26T18:53:41.543750+00:00"
+    },
+    "47064c7499a820c2": {
+      "title": "Show HN: An interactive way to exploit an LLM without going to jail",
+      "fetched_at": "2026-07-26T18:53:42.112356+00:00"
+    },
+    "568583143ff419e3": {
+      "title": "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",
+      "fetched_at": "2026-07-26T18:53:42.682151+00:00"
+    },
+    "325019e63df7168e": {
+      "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+      "fetched_at": "2026-07-26T18:53:43.244777+00:00"
+    },
+    "eb6bebc2517381fb": {
+      "title": "Karen Hao: AI Doesn't Have to Be Built This Way",
+      "fetched_at": "2026-07-26T18:53:43.806778+00:00"
+    },
+    "f0ea862db64a9279": {
+      "title": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization",
+      "fetched_at": "2026-07-26T18:53:44.375243+00:00"
+    },
+    "c17ac9cdd2f80d80": {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "fetched_at": "2026-07-26T18:53:44.941870+00:00"
+    },
+    "0b485333e7a282a2": {
+      "title": "AI use policy for my essay writing",
+      "fetched_at": "2026-07-26T18:53:45.496588+00:00"
+    },
+    "ddfc5ad144222a67": {
+      "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+      "fetched_at": "2026-07-26T18:53:46.081587+00:00"
+    },
+    "3f5c76fbe6177d2e": {
+      "title": "Ask HN:Anyone know a good AI slop detection service.",
+      "fetched_at": "2026-07-26T18:53:46.661657+00:00"
+    },
+    "a38a2bb3a0bf41d9": {
+      "title": "Show HN: Cookbook AI – turn scattered recipe files into a print-ready cookbook",
+      "fetched_at": "2026-07-26T18:53:47.277926+00:00"
+    },
+    "02636c7016dde130": {
+      "title": "Who's afraid of open source AI?",
+      "fetched_at": "2026-07-26T18:53:47.855234+00:00"
+    },
+    "93b13a1db5e35c3c": {
+      "title": "DROS-VEP – A <1μs C-ABI binary circuit breaker for AI agents",
+      "fetched_at": "2026-07-26T18:53:48.419067+00:00"
+    },
+    "88b38d5ff4346d85": {
+      "title": "AI agents are eating the Web, growing by 8,000% and rewiring business models",
+      "fetched_at": "2026-07-26T18:53:48.997135+00:00"
+    },
+    "464d4664abf300e5": {
+      "title": "China considers tighter export controls on AI models and chips",
+      "fetched_at": "2026-07-26T18:53:49.558921+00:00"
+    },
+    "7e5e2c5bd844d3ae": {
+      "title": "AI Scientists will win official olympiad medals at IOAI 2026",
+      "fetched_at": "2026-07-26T18:53:50.144736+00:00"
+    },
+    "42f709b7fd76c458": {
+      "title": "The best way to save giant sequoias may be more fire",
+      "fetched_at": "2026-07-26T18:53:54.988088+00:00"
     }
   },
-  "last_updated": "2026-07-26T12:55:17.211600+00:00"
+  "last_updated": "2026-07-26T18:53:55.133385+00:00"
 }
