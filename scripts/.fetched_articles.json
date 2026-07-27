@@ -1,121 +1,5 @@
 {
   "articles": {
-    "8c0ae945c2cfa80f": {
-      "title": "Ask HN: Guidelines on GPT 5.6 Sol steering",
-      "fetched_at": "2026-07-19T12:50:58.663979+00:00"
-    },
-    "b121901d2a1454f0": {
-      "title": "Are the LLM Wars the Database Wars?",
-      "fetched_at": "2026-07-19T12:50:59.304702+00:00"
-    },
-    "dfba53bf53c3b36d": {
-      "title": "I built llms.txt files to make local businesses discoverable by AI agents",
-      "fetched_at": "2026-07-19T12:50:59.913006+00:00"
-    },
-    "8979d4c0ebf18455": {
-      "title": "Valve Reportedly Sells 12-15K Steam Machine Units per Week",
-      "fetched_at": "2026-07-19T12:51:00.516412+00:00"
-    },
-    "d71fbfd6a8cb1019": {
-      "title": "Show HN: We ranked our dev tools in Google's new AI Overviews",
-      "fetched_at": "2026-07-19T12:51:01.130709+00:00"
-    },
-    "5c51e44cdea35a3d": {
-      "title": "Anti-AI protest reaches OpenAI HQ",
-      "fetched_at": "2026-07-19T12:51:01.719456+00:00"
-    },
-    "7c7e7c5fa726e3ac": {
-      "title": "Could AI Be Conscious?",
-      "fetched_at": "2026-07-19T12:51:02.325733+00:00"
-    },
-    "6d1c97ea6011e62f": {
-      "title": "Agent Arena: Benchmarking AI Agent Devtool Onboarding",
-      "fetched_at": "2026-07-19T12:51:02.929615+00:00"
-    },
-    "7faaff83ad2a33a6": {
-      "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
-      "fetched_at": "2026-07-19T12:51:03.533042+00:00"
-    },
-    "001cd8355a46238c": {
-      "title": "Show HN: AI Buddy – Free STT and Screenshot Tool for Mac (Requires Gemini)",
-      "fetched_at": "2026-07-19T12:51:04.144980+00:00"
-    },
-    "5ca113247e3d5f63": {
-      "title": "Who's Subsidizing Chinese AI",
-      "fetched_at": "2026-07-19T12:51:04.834844+00:00"
-    },
-    "3bb9ed0685af31f7": {
-      "title": "Save GPT-5.5",
-      "fetched_at": "2026-07-19T12:51:05.441936+00:00"
-    },
-    "cc1461cc2549fd42": {
-      "title": "From Algorithms to Autonomy:How AI Is Rewriting Architecture of SW and Mobility",
-      "fetched_at": "2026-07-19T12:51:06.045669+00:00"
-    },
-    "1cb7dee497462245": {
-      "title": "San Francisco Demands Apple and Google Delete AI 'Nudify' Apps from App Stores",
-      "fetched_at": "2026-07-19T12:51:06.653129+00:00"
-    },
-    "ac56bc489e5f2202": {
-      "title": "AI coding agents should optimize for less owned code",
-      "fetched_at": "2026-07-19T12:51:07.269176+00:00"
-    },
-    "a13a498babdc4a3f": {
-      "title": "Aging Baby Boomers are America's real labor problem, not AI",
-      "fetched_at": "2026-07-19T12:51:07.873573+00:00"
-    },
-    "ae0857f25539f97d": {
-      "title": "帝尔激光：公司董事会秘书拟增持不低于50万元公司股份",
-      "fetched_at": "2026-07-19T12:51:08.469312+00:00"
-    },
-    "b8f9baf71678f729": {
-      "title": "Using AI makes people less likely to admit they don't know something",
-      "fetched_at": "2026-07-19T12:51:09.081297+00:00"
-    },
-    "2484b3c6e0cc2199": {
-      "title": "我国千亿元潮玩赛道要来了",
-      "fetched_at": "2026-07-19T12:51:09.679582+00:00"
-    },
-    "3938ac82c2677a79": {
-      "title": "江淮汽车：已回购154.67万股，使用资金总额3499.48万元",
-      "fetched_at": "2026-07-19T12:51:10.297433+00:00"
-    },
-    "aa404add9d2f67f5": {
-      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
-      "fetched_at": "2026-07-19T12:51:13.320536+00:00"
-    },
-    "711b79c7cdfc5d7c": {
-      "title": "德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力",
-      "fetched_at": "2026-07-19T12:51:13.912333+00:00"
-    },
-    "d0827a12685c2d31": {
-      "title": "Decorated wild-boar tusk found in Russia may have been medieval warrior's good-luck charm",
-      "fetched_at": "2026-07-19T12:51:50.880070+00:00"
-    },
-    "5e1ea567973620a9": {
-      "title": "Cells from your mother likely infiltrated your brain in the womb, and they could survive for decades, study reveals",
-      "fetched_at": "2026-07-19T12:51:51.472434+00:00"
-    },
-    "05c9d10e214531c7": {
-      "title": "James Webb telescope uses trippy Einstein prediction to probe the farthest reaches of the universe — Space photo of the week",
-      "fetched_at": "2026-07-19T12:51:52.070509+00:00"
-    },
-    "6e7757c181f37e69": {
-      "title": "Systemd, 10 years later: a historical and technical retrospective (2020)",
-      "fetched_at": "2026-07-19T12:51:52.688062+00:00"
-    },
-    "a1afcfcac02d5a4f": {
-      "title": "What's the oldest weapon in the world?",
-      "fetched_at": "2026-07-19T12:51:53.283865+00:00"
-    },
-    "1283ae910e1a0b6a": {
-      "title": "Science word of the day: Autotroph",
-      "fetched_at": "2026-07-19T12:51:53.874427+00:00"
-    },
-    "8dee7b9dcfbea6aa": {
-      "title": "Simulating Historical Communication Networks in Python",
-      "fetched_at": "2026-07-19T12:51:54.482044+00:00"
-    },
     "27006fc1e994808e": {
       "title": "The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win",
       "fetched_at": "2026-07-19T18:47:29.696179+00:00"
@@ -3731,7 +3615,179 @@
     "5ef1ef7f056f08e7": {
       "title": "Science word of the day: Pando",
       "fetched_at": "2026-07-27T09:26:21.306596+00:00"
+    },
+    "277c185a5e2346ce": {
+      "title": "Don't add PostHog to your codebase. Make AI do it for you",
+      "fetched_at": "2026-07-27T14:07:55.259937+00:00"
+    },
+    "78ecde0814c28403": {
+      "title": "Show HN: Xllama – Local LLM Chat and Stable Diffusion on an Xbox Series S",
+      "fetched_at": "2026-07-27T14:07:55.867816+00:00"
+    },
+    "bd8cfd12b4fc7b54": {
+      "title": "AI Can't Do the Last 20%",
+      "fetched_at": "2026-07-27T14:07:56.478633+00:00"
+    },
+    "2a9a48300fbafd28": {
+      "title": "Why Fast Branching Is Key to AI Agent-Era Databases",
+      "fetched_at": "2026-07-27T14:07:57.068499+00:00"
+    },
+    "3828d924cb465579": {
+      "title": "AI doesn't get better at this board game with practice",
+      "fetched_at": "2026-07-27T14:07:57.671550+00:00"
+    },
+    "020fff65dc606a94": {
+      "title": "How to answer ethical concerns about AI",
+      "fetched_at": "2026-07-27T14:07:58.282265+00:00"
+    },
+    "bd600f1fb99a1e08": {
+      "title": "How al-Qaida and IS are adopting AI",
+      "fetched_at": "2026-07-27T14:07:58.893080+00:00"
+    },
+    "611b30e0a51657ac": {
+      "title": "AI as Normal Technology",
+      "fetched_at": "2026-07-27T14:07:59.498743+00:00"
+    },
+    "0cff61213d1dd75f": {
+      "title": "A major olympiad just launched a medal track for AI Participants",
+      "fetched_at": "2026-07-27T14:08:00.097819+00:00"
+    },
+    "9f62ee8c4983b081": {
+      "title": "Nvidia Bets on Ilya Sutskever's New AI Lab to Expand Compute Reach",
+      "fetched_at": "2026-07-27T14:08:00.756020+00:00"
+    },
+    "d314bd92f67c06de": {
+      "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative",
+      "fetched_at": "2026-07-27T14:08:01.354244+00:00"
+    },
+    "b85d0652e686db6b": {
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "fetched_at": "2026-07-27T14:08:01.979189+00:00"
+    },
+    "2753b3b10fafab8e": {
+      "title": "Epoch-Bound Attested Execution v0.5: Bounding AI Agents' Real-World Authority",
+      "fetched_at": "2026-07-27T14:08:02.578774+00:00"
+    },
+    "4d7b500fa63bf4c9": {
+      "title": "粉笔：预计2026年上半年收入不少于12.2亿元",
+      "fetched_at": "2026-07-27T14:08:03.179961+00:00"
+    },
+    "7ad1b267a1897f88": {
+      "title": "斯坦德机器人向港交所提交上市申请书",
+      "fetched_at": "2026-07-27T14:08:03.774626+00:00"
+    },
+    "e82fa4febaeaf890": {
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "fetched_at": "2026-07-27T14:08:04.391107+00:00"
+    },
+    "6735622c2b96c818": {
+      "title": "热门中概股美股盘前普涨，网易涨超2%",
+      "fetched_at": "2026-07-27T14:08:04.987804+00:00"
+    },
+    "80a9b6c7fd2bab98": {
+      "title": "Building to Be Corrected: teachability as a vital sign for AI",
+      "fetched_at": "2026-07-27T14:08:05.582179+00:00"
+    },
+    "6503d9bb6cf6b1b0": {
+      "title": "美股大型科技股盘前普涨，特斯拉涨超1%",
+      "fetched_at": "2026-07-27T14:08:06.190542+00:00"
+    },
+    "8adc0163eba3f28c": {
+      "title": "Show HN: The AI cycle and it's token usage market",
+      "fetched_at": "2026-07-27T14:08:06.784439+00:00"
+    },
+    "e3358ea9ac6ec9ca": {
+      "title": "胡志偉向BBC談倫敦機場風波：僅獲「入境保釋」，面臨遣返香港",
+      "fetched_at": "2026-07-27T14:08:09.230128+00:00"
+    },
+    "b82c140e2bb17107": {
+      "title": "梅根在《澳洲廚神》節目中稱哈里王子「魅力十足」",
+      "fetched_at": "2026-07-27T14:08:09.832261+00:00"
+    },
+    "3b262a86a4438732": {
+      "title": "所羅門群島中資金礦坍塌傳多人死亡 突顯「淘金熱」隱憂",
+      "fetched_at": "2026-07-27T14:08:10.435705+00:00"
+    },
+    "24d3a39ed4a0bbb7": {
+      "title": "香港前民主黨主席胡志偉 出獄後赴英面臨遣返",
+      "fetched_at": "2026-07-27T14:08:11.042179+00:00"
+    },
+    "9f4733cdac7a04f7": {
+      "title": "特朗普的伊朗困境：拥有压倒性的武力却进退维谷",
+      "fetched_at": "2026-07-27T14:08:11.635531+00:00"
+    },
+    "d48514076c1e600d": {
+      "title": "台湾测试如何应对中国海上围攻",
+      "fetched_at": "2026-07-27T14:08:12.234381+00:00"
+    },
+    "1ad6ed93624706e9": {
+      "title": "北约一名加拿大华裔实习生因涉嫌从事间谍活动被捕",
+      "fetched_at": "2026-07-27T14:08:12.822510+00:00"
+    },
+    "0a50ca3fbe9e0994": {
+      "title": "特朗普全球新关税对中国影响有限",
+      "fetched_at": "2026-07-27T14:08:13.422454+00:00"
+    },
+    "f0075e71d9206610": {
+      "title": "中国开源人工智能模型快速进步加剧硅谷分歧",
+      "fetched_at": "2026-07-27T14:08:14.024094+00:00"
+    },
+    "aa265e33ae35f2ad": {
+      "title": "你的聊天机器人有多了解你？试试这些提示词",
+      "fetched_at": "2026-07-27T14:08:14.621596+00:00"
+    },
+    "625302272b458d53": {
+      "title": "IChingPortal- Ancient wisdom through modern data",
+      "fetched_at": "2026-07-27T14:08:24.988022+00:00"
+    },
+    "990f95f91fab1959": {
+      "title": "'Feynman and followers, you guys are off': Physicists disprove decades-old Richard Feynman theory on 'silly' sprinklers",
+      "fetched_at": "2026-07-27T14:08:25.586120+00:00"
+    },
+    "9629ad45a0940c79": {
+      "title": "Military's testosterone screening program could lead to overtreatment and side effects, including impaired T production",
+      "fetched_at": "2026-07-27T14:08:26.185906+00:00"
+    },
+    "8c50878c165e5582": {
+      "title": "7 ways to photograph the 2026 total solar eclipse — from smartphone to telescope",
+      "fetched_at": "2026-07-27T14:08:26.793307+00:00"
+    },
+    "d733d539a1dcddca": {
+      "title": "Relief fragment with vanquished enemies: A 3,400-year-old depiction of an Egyptian pharaoh crushing western Asian soldiers under his royal chariot",
+      "fetched_at": "2026-07-27T14:08:27.391939+00:00"
+    },
+    "a876734af989ff7b": {
+      "title": "These insect submariners survive depths that should crush them",
+      "fetched_at": "2026-07-27T14:08:27.994256+00:00"
+    },
+    "872aad185223b71c": {
+      "title": "Your dreams aren’t random. Your brain is rewriting reality",
+      "fetched_at": "2026-07-27T14:08:28.609189+00:00"
+    },
+    "f321f644a511bf6e": {
+      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
+      "fetched_at": "2026-07-27T14:08:29.213411+00:00"
+    },
+    "bd765c771a91144e": {
+      "title": "Why Jupiter has several giant moons but Saturn has only Titan",
+      "fetched_at": "2026-07-27T14:08:29.822391+00:00"
+    },
+    "3a5cdad563c65bfb": {
+      "title": "After 241 days in orbit this NASA astronaut is finally home",
+      "fetched_at": "2026-07-27T14:08:30.440464+00:00"
+    },
+    "2b31f9575c9db0e9": {
+      "title": "Scientists just discovered a lost branch of Australia’s marsupials",
+      "fetched_at": "2026-07-27T14:08:31.052666+00:00"
+    },
+    "dcf23500735af75b": {
+      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
+      "fetched_at": "2026-07-27T14:08:31.667544+00:00"
+    },
+    "b77e75119ecdb022": {
+      "title": "Common antidepressant may ease long COVID’s crushing fatigue",
+      "fetched_at": "2026-07-27T14:08:32.272510+00:00"
     }
   },
-  "last_updated": "2026-07-27T09:26:21.454714+00:00"
+  "last_updated": "2026-07-27T14:08:32.370026+00:00"
 }
