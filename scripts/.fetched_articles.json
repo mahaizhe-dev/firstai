@@ -1,117 +1,5 @@
 {
   "articles": {
-    "ccff06171babe268": {
-      "title": "Reviewing AI Code Is Not a Viable Argument",
-      "fetched_at": "2026-07-19T07:56:36.348751+00:00"
-    },
-    "289d15280eb26a52": {
-      "title": "Will AI Fix Prior Authorization – Or Make It Worse?",
-      "fetched_at": "2026-07-19T07:56:36.911099+00:00"
-    },
-    "b7027e8d590b20a9": {
-      "title": "Prodigy – AI Workforce for professional teams",
-      "fetched_at": "2026-07-19T07:56:37.471040+00:00"
-    },
-    "252497c98e396a03": {
-      "title": "Show HN: PilotCite – Monitor how AI platforms cite and describe your brand",
-      "fetched_at": "2026-07-19T07:56:38.033277+00:00"
-    },
-    "19ed85c93c7d67fd": {
-      "title": "AI Agents for the Working Mathematician",
-      "fetched_at": "2026-07-19T07:56:38.595287+00:00"
-    },
-    "312312d240ddf8fa": {
-      "title": "星宸科技：预计2026年半年度净利润同比增长584%-650%",
-      "fetched_at": "2026-07-19T07:56:39.167304+00:00"
-    },
-    "9778b1144dc7d581": {
-      "title": "中科创达：预计2026年半年度净利润同比增长50%-55%",
-      "fetched_at": "2026-07-19T07:56:39.726405+00:00"
-    },
-    "90620da6b5a92b1c": {
-      "title": "Show HN: FlexInference LLM Router",
-      "fetched_at": "2026-07-19T07:56:40.299320+00:00"
-    },
-    "e312e8455b3698d1": {
-      "title": "Ask HN: How do you as a normal swe use AI?",
-      "fetched_at": "2026-07-19T07:56:40.860031+00:00"
-    },
-    "c699901090025f9f": {
-      "title": "商汤科技旗舰级SenseNova U1 Pro正式发布",
-      "fetched_at": "2026-07-19T07:56:41.438428+00:00"
-    },
-    "d187b004ade5e96f": {
-      "title": "2026年度总票房破200亿",
-      "fetched_at": "2026-07-19T07:56:42.004122+00:00"
-    },
-    "a4262f762f3e1d2f": {
-      "title": "Study: AI Is Not Displacing Young Job Seekers (In Norway) – Yet",
-      "fetched_at": "2026-07-19T07:56:42.578938+00:00"
-    },
-    "b504e5cd51d8e0c8": {
-      "title": "AI for Systems is \"AGI-Complete\"",
-      "fetched_at": "2026-07-19T07:56:43.140811+00:00"
-    },
-    "0a047ee14290cb36": {
-      "title": "一目科技完成超10亿元E轮融资 估值过百亿元",
-      "fetched_at": "2026-07-19T07:56:43.713539+00:00"
-    },
-    "ac8cfc2d19411dca": {
-      "title": "Show HN: Zlvox – 25 Free Developer Tools (AI, JSON, PDF) with Zero Tracking",
-      "fetched_at": "2026-07-19T07:56:44.278991+00:00"
-    },
-    "be89b5483f792e47": {
-      "title": "“人工智能+防震减灾”行动方案发布",
-      "fetched_at": "2026-07-19T07:56:44.846388+00:00"
-    },
-    "6eb79c5e1e8b65f1": {
-      "title": "蚂蚁韩歆毅：没有企业专属数据，就没有企业专属智能",
-      "fetched_at": "2026-07-19T07:56:45.408160+00:00"
-    },
-    "c6ff078c4a35f291": {
-      "title": "量子科技公司两仪万象完成A+轮融资",
-      "fetched_at": "2026-07-19T07:56:45.987267+00:00"
-    },
-    "8a6ca90dc2d76dc8": {
-      "title": "Netflix Pays $587M for Ben Affleck's AI Startup InterPositive",
-      "fetched_at": "2026-07-19T07:56:46.564454+00:00"
-    },
-    "84c73d47788fe252": {
-      "title": "韩国财政部表示，将允许外国投资者交易更多以韩元计价的债券，并可从国内外汇银行借入韩元",
-      "fetched_at": "2026-07-19T07:56:47.122479+00:00"
-    },
-    "653102f146f2737d": {
-      "title": "中國揭陽虐狗案：如何席捲全球各地輿論？",
-      "fetched_at": "2026-07-19T07:56:50.992274+00:00"
-    },
-    "0f5108cb634705c5": {
-      "title": "金正恩本應是朝鮮人唯一的偶像，直到他們發現K-pop",
-      "fetched_at": "2026-07-19T07:56:51.661356+00:00"
-    },
-    "75052893ea11777e": {
-      "title": "熱浪下歐洲人轉向中國空調，能否洗刷「中國製造」污名？",
-      "fetched_at": "2026-07-19T07:56:52.237770+00:00"
-    },
-    "2b31f9575c9db0e9": {
-      "title": "Scientists just discovered a lost branch of Australia’s marsupials",
-      "fetched_at": "2026-07-19T07:56:54.948090+00:00"
-    },
-    "dcf23500735af75b": {
-      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
-      "fetched_at": "2026-07-19T07:56:55.558024+00:00"
-    },
-    "b77e75119ecdb022": {
-      "title": "Common antidepressant may ease long COVID’s crushing fatigue",
-      "fetched_at": "2026-07-19T07:56:56.118843+00:00"
-    },
-    "80286cf1eb5796bc": {
-      "title": "Medieval babies and adults buried together in Sweden were not related, archaeologists discover — raising big questions about early Christian burial practices",
-      "fetched_at": "2026-07-19T07:56:56.682998+00:00"
-    },
-    "7d08c225b2312bb2": {
-      "title": "NASA is creating a fifth state of matter on the ISS, thanks to an upgrade to a mini-fridge-sized quantum lab",
-      "fetched_at": "2026-07-19T07:56:57.251237+00:00"
-    },
     "8c0ae945c2cfa80f": {
       "title": "Ask HN: Guidelines on GPT 5.6 Sol steering",
       "fetched_at": "2026-07-19T12:50:58.663979+00:00"
@@ -3739,7 +3627,111 @@
     "2c600888a7d0c9a0": {
       "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
       "fetched_at": "2026-07-27T01:51:30.809285+00:00"
+    },
+    "b94cf458c5754ef6": {
+      "title": "上海市新增16款已完成备案的生成式人工智能服务",
+      "fetched_at": "2026-07-27T09:26:03.220428+00:00"
+    },
+    "e53abe8d4763325f": {
+      "title": "AI YouTube Video Generator: From Content Creation to Scalable Video Production",
+      "fetched_at": "2026-07-27T09:26:03.801418+00:00"
+    },
+    "7f081c66f688732d": {
+      "title": "上汽通用发生法定代表人变更",
+      "fetched_at": "2026-07-27T09:26:04.372426+00:00"
+    },
+    "9f831e802e488f87": {
+      "title": "英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全",
+      "fetched_at": "2026-07-27T09:26:04.958917+00:00"
+    },
+    "7b651015177f8daa": {
+      "title": "安联锐视：控股股东、实控人等承诺1年内不减持",
+      "fetched_at": "2026-07-27T09:26:05.538166+00:00"
+    },
+    "c4c4bee4a8c8fbd9": {
+      "title": "惠科股份在浙江成立半导体公司，注册资本40亿",
+      "fetched_at": "2026-07-27T09:26:06.114194+00:00"
+    },
+    "12935854d06d756c": {
+      "title": "Momenta Robovan落地苏州",
+      "fetched_at": "2026-07-27T09:26:06.697654+00:00"
+    },
+    "77062dd21e260b7a": {
+      "title": "同星科技：拟6000万元—1.2亿元回购股份",
+      "fetched_at": "2026-07-27T09:26:07.284789+00:00"
+    },
+    "35b70f7f6f6ae0b5": {
+      "title": "软银公司据悉接近收购日本支付服务提供商SP.LINKS",
+      "fetched_at": "2026-07-27T09:26:07.861629+00:00"
+    },
+    "47bb0b93ffa3c61b": {
+      "title": "中上协：上半年共有24家A股公司赴港上市，募资总额超过1200亿港元",
+      "fetched_at": "2026-07-27T09:26:08.433452+00:00"
+    },
+    "68fcd91d9b112bd9": {
+      "title": "神火股份：上半年净利润47.81亿元，同比增长151.06%",
+      "fetched_at": "2026-07-27T09:26:09.106367+00:00"
+    },
+    "2d73722572ef0f66": {
+      "title": "China State Media Says Support for Open AI Models Has Limits",
+      "fetched_at": "2026-07-27T09:26:09.693958+00:00"
+    },
+    "60e80a121bfd070c": {
+      "title": "阿达尼能源解决方案计划发行4.17亿美元新股",
+      "fetched_at": "2026-07-27T09:26:10.273790+00:00"
+    },
+    "13b206f4e91ed540": {
+      "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
+      "fetched_at": "2026-07-27T09:26:10.868040+00:00"
+    },
+    "5d2c6a941cf7c685": {
+      "title": "工业富联：拟10亿元—20亿元回购股份",
+      "fetched_at": "2026-07-27T09:26:11.457864+00:00"
+    },
+    "df001c742049786d": {
+      "title": "老铺黄金：预计上半年净利润同比增长约83%至85%",
+      "fetched_at": "2026-07-27T09:26:12.039963+00:00"
+    },
+    "20a81af25f6ada2c": {
+      "title": "7-11母公司柒和伊控股放弃向波兰最大便利店运营商投资",
+      "fetched_at": "2026-07-27T09:26:12.619927+00:00"
+    },
+    "7c8c4daa12eabd7a": {
+      "title": "Ask HN: Where do those LLM-generated outreach emails come from?",
+      "fetched_at": "2026-07-27T09:26:13.201710+00:00"
+    },
+    "3b38cb0ff8103937": {
+      "title": "百诚医药：创新药BIOS0635-048片获临床试验批准通知书",
+      "fetched_at": "2026-07-27T09:26:13.771825+00:00"
+    },
+    "5b8a1da5fd21e2cc": {
+      "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
+      "fetched_at": "2026-07-27T09:26:14.349563+00:00"
+    },
+    "7292436ffda2c9ee": {
+      "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
+      "fetched_at": "2026-07-27T09:26:16.489841+00:00"
+    },
+    "fa723ea9941de238": {
+      "title": "一文讀懂德國柏林驕傲遊行攻擊事經過",
+      "fetched_at": "2026-07-27T09:26:17.082870+00:00"
+    },
+    "4d847fb61e669c77": {
+      "title": "「它一點點侵蝕我的身體」：韓國超級便利隔夜送貨的人命代價",
+      "fetched_at": "2026-07-27T09:26:17.649746+00:00"
+    },
+    "79ddadc18ab0b726": {
+      "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
+      "fetched_at": "2026-07-27T09:26:18.236232+00:00"
+    },
+    "08991a49ac05379b": {
+      "title": "《澎湖海戰》傳上映遭擱置：「反清復明」民間史觀神經再被挑動",
+      "fetched_at": "2026-07-27T09:26:18.836461+00:00"
+    },
+    "5ef1ef7f056f08e7": {
+      "title": "Science word of the day: Pando",
+      "fetched_at": "2026-07-27T09:26:21.306596+00:00"
     }
   },
-  "last_updated": "2026-07-27T01:51:30.952699+00:00"
+  "last_updated": "2026-07-27T09:26:21.454714+00:00"
 }
