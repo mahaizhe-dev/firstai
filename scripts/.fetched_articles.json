@@ -1,97 +1,5 @@
 {
   "articles": {
-    "27006fc1e994808e": {
-      "title": "The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win",
-      "fetched_at": "2026-07-19T18:47:29.696179+00:00"
-    },
-    "2c0a3afdc283070e": {
-      "title": "Huginn: An AI Agent Activity Console",
-      "fetched_at": "2026-07-19T18:47:30.317658+00:00"
-    },
-    "8020c4ec66bdb7bf": {
-      "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)",
-      "fetched_at": "2026-07-19T18:47:30.932843+00:00"
-    },
-    "c45026c1199db75e": {
-      "title": "Generative AI Can Harm Teaching",
-      "fetched_at": "2026-07-19T18:47:31.566062+00:00"
-    },
-    "6cd4dda27311fc35": {
-      "title": "Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video]",
-      "fetched_at": "2026-07-19T18:47:32.193395+00:00"
-    },
-    "7e5fe28712d33da2": {
-      "title": "AI Requires a Labor Market Bailout",
-      "fetched_at": "2026-07-19T18:47:32.814088+00:00"
-    },
-    "083ed8c9071836db": {
-      "title": "Signal to Noise: The challenge of AI-authored text",
-      "fetched_at": "2026-07-19T18:47:33.429282+00:00"
-    },
-    "f981a2edd4a4bf54": {
-      "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
-      "fetched_at": "2026-07-19T18:47:34.070948+00:00"
-    },
-    "c320549a19879b50": {
-      "title": "Why do you use GPT-5.6 and kimi k3 inside of Claude Code?",
-      "fetched_at": "2026-07-19T18:47:34.699582+00:00"
-    },
-    "c521de57aa4cb090": {
-      "title": "I hate that I don’t hate this song made with Suno",
-      "fetched_at": "2026-07-19T18:47:35.307060+00:00"
-    },
-    "da24320a764893e0": {
-      "title": "I Cut an AI Agent's Token Use by 94%",
-      "fetched_at": "2026-07-19T18:47:35.915504+00:00"
-    },
-    "cad44850a73d19af": {
-      "title": "Resolution Horizon – Finding the mathematical limit where AI overfits to noise",
-      "fetched_at": "2026-07-19T18:47:36.530381+00:00"
-    },
-    "b06f3205b96b497e": {
-      "title": "AI slop cut first-time contributor merge rates 18.18% across 294 repos",
-      "fetched_at": "2026-07-19T18:47:37.142923+00:00"
-    },
-    "06cc4151509eddae": {
-      "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
-      "fetched_at": "2026-07-19T18:47:37.746577+00:00"
-    },
-    "290b258dfe3a2658": {
-      "title": "OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files",
-      "fetched_at": "2026-07-19T18:47:38.370719+00:00"
-    },
-    "fdcc4a635f59ed32": {
-      "title": "Do you manage task/todo differently in this AI era?",
-      "fetched_at": "2026-07-19T18:47:39.003720+00:00"
-    },
-    "c8c026928a4ec024": {
-      "title": "AI Demands More Engineering Discipline",
-      "fetched_at": "2026-07-19T18:47:39.627468+00:00"
-    },
-    "8bd9e3bed714bebb": {
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "fetched_at": "2026-07-19T18:47:40.253480+00:00"
-    },
-    "9092c129c59c8268": {
-      "title": "The bottleneck for AI agents isn't the model anymore. It's the context layer",
-      "fetched_at": "2026-07-19T18:47:40.890938+00:00"
-    },
-    "dfbeac8c44a6b548": {
-      "title": "JustREPL: A no-AI coding playground",
-      "fetched_at": "2026-07-19T18:47:41.497140+00:00"
-    },
-    "c8d1db78f88123b9": {
-      "title": "'It's absolutely exciting!': Astronomers discover an atmosphere around an Earth-like planet in the habitable zone for first time ever",
-      "fetched_at": "2026-07-19T18:47:45.728412+00:00"
-    },
-    "d90969b433435e00": {
-      "title": "A tiny universe in a bottle reveals clues to the origins of life",
-      "fetched_at": "2026-07-19T18:47:46.347503+00:00"
-    },
-    "4f804e4c53b81273": {
-      "title": "The mysterious hum heard around the world may finally have an explanation",
-      "fetched_at": "2026-07-19T18:47:46.964934+00:00"
-    },
     "84088ad50db62807": {
       "title": "商汤大装置与国信数算签署全国一体化算力网试验场战略合作",
       "fetched_at": "2026-07-20T01:52:23.996248+00:00"
@@ -3787,7 +3695,103 @@
     "b77e75119ecdb022": {
       "title": "Common antidepressant may ease long COVID’s crushing fatigue",
       "fetched_at": "2026-07-27T14:08:32.272510+00:00"
+    },
+    "871200364572bd85": {
+      "title": "Why China is giving away its best AI models",
+      "fetched_at": "2026-07-27T19:09:23.400526+00:00"
+    },
+    "a0e8e65a05e0c9a8": {
+      "title": "Improvements to Web for AI Should Benefit All Users",
+      "fetched_at": "2026-07-27T19:09:23.984744+00:00"
+    },
+    "ba3a75f23927594b": {
+      "title": "AI in the Linux Kernel",
+      "fetched_at": "2026-07-27T19:09:24.567601+00:00"
+    },
+    "e848473cc39d14dc": {
+      "title": "Open Secure AI Alliance aims to open-source AI security defences",
+      "fetched_at": "2026-07-27T19:09:25.146645+00:00"
+    },
+    "a9b842088df2a5b9": {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "fetched_at": "2026-07-27T19:09:25.730659+00:00"
+    },
+    "7b627de4f721f24c": {
+      "title": "Genesis chip may help AI with its memory problem",
+      "fetched_at": "2026-07-27T19:09:26.310046+00:00"
+    },
+    "f1cae7124ffe508e": {
+      "title": "How to Research Technical Topics with AI",
+      "fetched_at": "2026-07-27T19:09:26.892418+00:00"
+    },
+    "6a800dc02ca85edd": {
+      "title": "First 30 Days as the Only Human in an AI Dev Team",
+      "fetched_at": "2026-07-27T19:09:27.493272+00:00"
+    },
+    "095d510f7e247a85": {
+      "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
+      "fetched_at": "2026-07-27T19:09:28.075178+00:00"
+    },
+    "05c14b6992996874": {
+      "title": "Government engagement with AI creates more uncertainty for investors, CIOs warn",
+      "fetched_at": "2026-07-27T19:09:28.654060+00:00"
+    },
+    "86e260cbc5a8831b": {
+      "title": "Show HN: ApplyAssists – AI resume builder using Google XYZ formula",
+      "fetched_at": "2026-07-27T19:09:29.251046+00:00"
+    },
+    "df559b7e5fc7d6a9": {
+      "title": "AI cracks yet another century-old problem",
+      "fetched_at": "2026-07-27T19:09:29.825191+00:00"
+    },
+    "2c6b2bc68dfb6396": {
+      "title": "Why AI Will Not Replace the Classroom",
+      "fetched_at": "2026-07-27T19:09:30.408427+00:00"
+    },
+    "10738a91ecb1d3b4": {
+      "title": "Show HN: Opensource resume evaluation LLM agents",
+      "fetched_at": "2026-07-27T19:09:30.987130+00:00"
+    },
+    "5675c0f08a5b940e": {
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "fetched_at": "2026-07-27T19:09:31.573210+00:00"
+    },
+    "cdc9d55841d8e5c4": {
+      "title": "AI scraperbots keep hammering us from residential proxies",
+      "fetched_at": "2026-07-27T19:09:32.184250+00:00"
+    },
+    "9c4a0f234dde9307": {
+      "title": "Rethinking Security for the Age of AI – The Official Microsoft Blog",
+      "fetched_at": "2026-07-27T19:09:32.772958+00:00"
+    },
+    "a92e6f89799845ac": {
+      "title": "Turn business SOPs into AI agents with real API endpoints",
+      "fetched_at": "2026-07-27T19:09:33.352444+00:00"
+    },
+    "f58094b4ef37a949": {
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "fetched_at": "2026-07-27T19:09:33.933909+00:00"
+    },
+    "9e9164282ce9988f": {
+      "title": "I created an AI boyfriend. He was charming – and deeply troubling",
+      "fetched_at": "2026-07-27T19:09:34.507133+00:00"
+    },
+    "9549f61a46fba4a2": {
+      "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
+      "fetched_at": "2026-07-27T19:09:36.890584+00:00"
+    },
+    "aa404add9d2f67f5": {
+      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
+      "fetched_at": "2026-07-27T19:09:37.470670+00:00"
+    },
+    "fd4c814cf2a6a2a5": {
+      "title": "Roman Battle Camp Found in Spain",
+      "fetched_at": "2026-07-27T19:09:55.169771+00:00"
+    },
+    "81a6739451ffdfd0": {
+      "title": "Atlas Discovery launches AI models to predict responses in clinical trials",
+      "fetched_at": "2026-07-27T19:09:55.750544+00:00"
     }
   },
-  "last_updated": "2026-07-27T14:08:32.370026+00:00"
+  "last_updated": "2026-07-27T19:09:55.900883+00:00"
 }
