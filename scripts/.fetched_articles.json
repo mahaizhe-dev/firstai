@@ -1,137 +1,5 @@
 {
   "articles": {
-    "368986b67465be44": {
-      "title": "Self-Service Ransomware as Security Against Local AI Tools",
-      "fetched_at": "2026-07-20T13:45:53.317484+00:00"
-    },
-    "886f735169447f36": {
-      "title": "What if your AI agent could have its own WhatsApp number?",
-      "fetched_at": "2026-07-20T13:45:53.940850+00:00"
-    },
-    "b735d319aadd2743": {
-      "title": "The asymmetry problem: AI safeguards are mainly annoying to the good guys",
-      "fetched_at": "2026-07-20T13:45:54.569707+00:00"
-    },
-    "47fb6ba2335eb553": {
-      "title": "Show HN: Give your AI agent a personality (and a voice) without external APIs",
-      "fetched_at": "2026-07-20T13:45:55.188672+00:00"
-    },
-    "833a58b1417e5c08": {
-      "title": "AgentBaiting: Fake AI Skills and MCP Servers Delivered Malware",
-      "fetched_at": "2026-07-20T13:45:55.809238+00:00"
-    },
-    "344de2850dd49c10": {
-      "title": "Chinese AI model Kimi K3 halts new signups amid skyrocketing demand",
-      "fetched_at": "2026-07-20T13:45:56.426030+00:00"
-    },
-    "7cd52521a105be1d": {
-      "title": "新易盛：整体来看，二季度业绩预告情况与公司年初对全年整体情况的预期基本吻合",
-      "fetched_at": "2026-07-20T13:45:57.118598+00:00"
-    },
-    "7c27f5f22af5e296": {
-      "title": "年内A股公司累计回购金额超过800亿元",
-      "fetched_at": "2026-07-20T13:45:57.737449+00:00"
-    },
-    "2338db27ff72dcf1": {
-      "title": "热门中概股美股盘前普涨，阿里巴巴涨超3%",
-      "fetched_at": "2026-07-20T13:45:58.360088+00:00"
-    },
-    "95f2214009f235bb": {
-      "title": "美股大型科技股盘前多数上涨，闪迪涨超3%",
-      "fetched_at": "2026-07-20T13:45:58.970112+00:00"
-    },
-    "0ea08b64cfc09ceb": {
-      "title": "“尼卡光学”完成近亿元A轮融资",
-      "fetched_at": "2026-07-20T13:45:59.582654+00:00"
-    },
-    "8233dc4882bd6594": {
-      "title": "曝零一万物启动新一轮融资，拟2027年申请IPO",
-      "fetched_at": "2026-07-20T13:46:00.197484+00:00"
-    },
-    "a975a18efdcb5d17": {
-      "title": "AgentAbstain: Do LLM Agents Know When Not to Act?",
-      "fetched_at": "2026-07-20T13:46:00.850292+00:00"
-    },
-    "968d9c2456b017f8": {
-      "title": "招商证券终止为中韩半导体等6只基金提供主做市服务，回应：单纯商业行为，非市场方向判断",
-      "fetched_at": "2026-07-20T13:46:01.467231+00:00"
-    },
-    "5b65e8d7c3a9a32c": {
-      "title": "淘天集团公布四项AIGX技术体系最新技术成果",
-      "fetched_at": "2026-07-20T13:46:02.093623+00:00"
-    },
-    "c8702de2a256b1e2": {
-      "title": "智明达：因特殊事项影响，公司特种领域获取订单受限三年",
-      "fetched_at": "2026-07-20T13:46:02.704044+00:00"
-    },
-    "6f2383cf7ec5900a": {
-      "title": "光轮智能与西门子正式达成合作",
-      "fetched_at": "2026-07-20T13:46:03.341896+00:00"
-    },
-    "fe9b2cea4ef721a0": {
-      "title": "三环集团：拟以4.5亿元至9亿元回购股份",
-      "fetched_at": "2026-07-20T13:46:03.973009+00:00"
-    },
-    "f634beeb9d5ff8a4": {
-      "title": "雷迪克：实际控制人沈仁荣因非公司事项收到取保候审决定书",
-      "fetched_at": "2026-07-20T13:46:04.607113+00:00"
-    },
-    "877534170de0f18d": {
-      "title": "波音CEO：在推出新款客机前，公司还需数年时间修复财务状况",
-      "fetched_at": "2026-07-20T13:46:05.246280+00:00"
-    },
-    "4d72855dedfe5189": {
-      "title": "泰特兄弟在美被捕 在英遭起訴59項性罪行 曾高調訪港",
-      "fetched_at": "2026-07-20T13:46:07.261486+00:00"
-    },
-    "f0aadc3031e6c0bb": {
-      "title": "貝安德就任英國首相 「北部王」其人其事",
-      "fetched_at": "2026-07-20T13:46:07.881399+00:00"
-    },
-    "10ebb21d168ccde3": {
-      "title": "擅長數學、喜愛爵士樂⋯⋯鯊魚其貌不揚的九件事",
-      "fetched_at": "2026-07-20T13:46:08.522231+00:00"
-    },
-    "e5f8c53253ceae2b": {
-      "title": "更多比賽，更多爭議——該如何評價2026年FIFA世界盃？",
-      "fetched_at": "2026-07-20T13:46:09.134641+00:00"
-    },
-    "f34151109be2b417": {
-      "title": "British vial of smallpox scabs triggered the devastating 1789 outbreak among Indigenous Australians, study finds",
-      "fetched_at": "2026-07-20T13:46:17.756975+00:00"
-    },
-    "dd7b61027449bddb": {
-      "title": "'We were genuinely surprised': 'Superworms' can clean extremely delicate skeletons lickety-split, and that's a game changer for museums",
-      "fetched_at": "2026-07-20T13:46:18.364556+00:00"
-    },
-    "0f416a151de1fcae": {
-      "title": "Mummy mask with wig: A 1,000-year-old 'false head' found in Peru that was crafted with real human hair and toxic red cinnabar",
-      "fetched_at": "2026-07-20T13:46:18.995746+00:00"
-    },
-    "da33b487820ae654": {
-      "title": "Some dinosaurs could rise like giants until they grew too big",
-      "fetched_at": "2026-07-20T13:46:19.623383+00:00"
-    },
-    "eab4e1cc994fcd4f": {
-      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-      "fetched_at": "2026-07-20T13:46:20.256005+00:00"
-    },
-    "34e934d22263ee5c": {
-      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
-      "fetched_at": "2026-07-20T13:46:20.868894+00:00"
-    },
-    "752abee66d6e6c42": {
-      "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
-      "fetched_at": "2026-07-20T13:46:21.492105+00:00"
-    },
-    "04282bb15521cc0a": {
-      "title": "Scientists found two powerful new ways to destroy forever chemicals",
-      "fetched_at": "2026-07-20T13:46:22.129382+00:00"
-    },
-    "133fd3a365b3024c": {
-      "title": "Why gold never tarnishes has finally been explained",
-      "fetched_at": "2026-07-20T13:46:22.762366+00:00"
-    },
     "960b9af07804acae": {
       "title": "AI Red Teaming: Securing Agentic AI Systems (video)",
       "fetched_at": "2026-07-20T19:22:37.606652+00:00"
@@ -3899,7 +3767,107 @@
     "50d5cfa3f1c9b195": {
       "title": "Twisted laser light can tell mirror-image molecules apart",
       "fetched_at": "2026-07-28T13:28:12.700017+00:00"
+    },
+    "f857c1a4b4780bcb": {
+      "title": "Why AI Agents Need Databases That Branch Like Git",
+      "fetched_at": "2026-07-28T19:04:37.689409+00:00"
+    },
+    "166e2826c9d7a6fe": {
+      "title": "The Most Valuable AI Product Won't Be Intelligence",
+      "fetched_at": "2026-07-28T19:04:38.259986+00:00"
+    },
+    "56e219d873f1883b": {
+      "title": "The AI Future Is for Everyone",
+      "fetched_at": "2026-07-28T19:04:38.853299+00:00"
+    },
+    "c038cffc931778b9": {
+      "title": "Labwire, an open protocol for AI agents to control lab instruments",
+      "fetched_at": "2026-07-28T19:04:39.428437+00:00"
+    },
+    "4099b7bca2f23c60": {
+      "title": "Mousecrack – Bypass captcha mouse detection with deep learning",
+      "fetched_at": "2026-07-28T19:04:40.020546+00:00"
+    },
+    "004105c38e909ba2": {
+      "title": "Running a persistent AI agent at the far end of a satellite text link",
+      "fetched_at": "2026-07-28T19:04:40.597372+00:00"
+    },
+    "4409c7a765204ff8": {
+      "title": "TypeNotes, a practical daily learning site for TypeScript devs",
+      "fetched_at": "2026-07-28T19:04:41.167961+00:00"
+    },
+    "623e86e6814fd942": {
+      "title": "Show HN: Envdiff – solve \"works on my machine\" in 30 seconds",
+      "fetched_at": "2026-07-28T19:04:41.734037+00:00"
+    },
+    "532e785cfa5e0868": {
+      "title": "AI Doesn't Get Annoyed",
+      "fetched_at": "2026-07-28T19:04:42.303641+00:00"
+    },
+    "460c0a1a760922f4": {
+      "title": "Microsoft's AI Security Leap Signals a New Era in Cyber Defense",
+      "fetched_at": "2026-07-28T19:04:42.878216+00:00"
+    },
+    "e992da8862c83af0": {
+      "title": "Chip stocks tumble as AI sell-off deepens",
+      "fetched_at": "2026-07-28T19:04:43.445477+00:00"
+    },
+    "6f1f7f6bd71c7bc7": {
+      "title": "The LLM browser that allows you explore current and other universes",
+      "fetched_at": "2026-07-28T19:04:44.020061+00:00"
+    },
+    "d72051c2378da7ca": {
+      "title": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress",
+      "fetched_at": "2026-07-28T19:04:44.601207+00:00"
+    },
+    "a1ca68d79d67f182": {
+      "title": "Anybody.dev – The Open Source AI App Builder",
+      "fetched_at": "2026-07-28T19:04:45.172241+00:00"
+    },
+    "8a486e7f6c76cf76": {
+      "title": "AI value alignment for evolving social norms",
+      "fetched_at": "2026-07-28T19:04:45.743205+00:00"
+    },
+    "30fbbcfcf5c03975": {
+      "title": "Designing With AI on a budget as an engineer: Google+ChatGPT",
+      "fetched_at": "2026-07-28T19:04:46.333786+00:00"
+    },
+    "ab3b1c8977f1a49b": {
+      "title": "Scientific computing in the age of agentic AI",
+      "fetched_at": "2026-07-28T19:04:46.909441+00:00"
+    },
+    "6691bd3b8c881b05": {
+      "title": "A personalized scam [AI-enabled] is coming for you",
+      "fetched_at": "2026-07-28T19:04:47.487363+00:00"
+    },
+    "8ff15fdae0de41ce": {
+      "title": "Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code",
+      "fetched_at": "2026-07-28T19:04:48.093919+00:00"
+    },
+    "774d0a9d906e3572": {
+      "title": "The Download: OpenAI's predictable hack, and an AI stock sell-off",
+      "fetched_at": "2026-07-28T19:04:48.657118+00:00"
+    },
+    "013dd41f3dc82a81": {
+      "title": "长鑫科技上市首日股价飙升470%",
+      "fetched_at": "2026-07-28T19:04:51.518102+00:00"
+    },
+    "000c323e7227db8b": {
+      "title": "唐山大地震50週年：重塑中國社會肌理半世紀的「餘震」",
+      "fetched_at": "2026-07-28T19:04:52.087957+00:00"
+    },
+    "8f783f107f11f6a2": {
+      "title": "Study Suggests Smaller Maya Communities Relied on Maize",
+      "fetched_at": "2026-07-28T19:04:56.602888+00:00"
+    },
+    "752259fb461fdca1": {
+      "title": "Killer whales sink another boat off the coast of Spain — why are they still doing this after 6 years?",
+      "fetched_at": "2026-07-28T19:04:57.176437+00:00"
+    },
+    "71cbd9cfdcb4ffb4": {
+      "title": "How to watch 'Jurassic Sharks' online – stream 'Shark Week' 2026 from anywhere",
+      "fetched_at": "2026-07-28T19:04:57.752777+00:00"
     }
   },
-  "last_updated": "2026-07-28T13:28:12.853325+00:00"
+  "last_updated": "2026-07-28T19:04:57.903386+00:00"
 }
