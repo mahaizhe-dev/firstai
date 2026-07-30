@@ -1,129 +1,5 @@
 {
   "articles": {
-    "307dd64cd192f7b4": {
-      "title": "OpenTakeoff – open-source construction takeoff your AI agent can drive",
-      "fetched_at": "2026-07-21T19:01:16.679323+00:00"
-    },
-    "e65f7d3a5c652f92": {
-      "title": "AI Chips Drive Around a Third of TSMC Revenues",
-      "fetched_at": "2026-07-21T19:01:17.287987+00:00"
-    },
-    "2bc99a786793ffed": {
-      "title": "A $40k-per-Year AI School with No Teachers Is Opening in Oklahoma This August",
-      "fetched_at": "2026-07-21T19:01:17.906659+00:00"
-    },
-    "8177a14731af2314": {
-      "title": "Show HN: Tsaagan – Browser control for AI agents that verifies every action",
-      "fetched_at": "2026-07-21T19:01:18.514019+00:00"
-    },
-    "9bc697937d7b7c63": {
-      "title": "AI Agent – TRMNL",
-      "fetched_at": "2026-07-21T19:01:19.138894+00:00"
-    },
-    "409735fffa733433": {
-      "title": "The AI Bubble Is No Ordinary Bubble",
-      "fetched_at": "2026-07-21T19:01:19.752842+00:00"
-    },
-    "e37f72de4a86d78c": {
-      "title": "Show HN: threadfork – AI meeting notes that run on your Mac",
-      "fetched_at": "2026-07-21T19:01:20.430020+00:00"
-    },
-    "b9460d96d0a8d69c": {
-      "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
-      "fetched_at": "2026-07-21T19:01:21.043456+00:00"
-    },
-    "ec11220846233999": {
-      "title": "Jim Cramer worried about security implications of free Chinese AI models",
-      "fetched_at": "2026-07-21T19:01:21.655212+00:00"
-    },
-    "665cea7a012f85bd": {
-      "title": "Website Is No Longer Your Brand – AI Is Reconstructing It from Everywhere Else",
-      "fetched_at": "2026-07-21T19:01:22.272253+00:00"
-    },
-    "6e65831f66b4e701": {
-      "title": "Halo v2.7: Unified MCP Tool Engine for AI Security",
-      "fetched_at": "2026-07-21T19:01:22.889853+00:00"
-    },
-    "6f26e2edd3eeb413": {
-      "title": "Georgia homeowners are being forced from their homes to power AI data centers [video]",
-      "fetched_at": "2026-07-21T19:01:23.499785+00:00"
-    },
-    "922e99a9b27afe0d": {
-      "title": "Google (Again) Clearly Needs to Unite Their AI Clans",
-      "fetched_at": "2026-07-21T19:01:24.110418+00:00"
-    },
-    "7638af0f954a62aa": {
-      "title": "The U.S. Army Is Burning Through Its AI Tokens",
-      "fetched_at": "2026-07-21T19:01:24.721777+00:00"
-    },
-    "2ee4dca48f4f2a1c": {
-      "title": "Show HN: Aido – an AI companion for the pull requests your AI writes",
-      "fetched_at": "2026-07-21T19:01:25.345820+00:00"
-    },
-    "d00029724e14a537": {
-      "title": "Data centers expected to use 4x more electricity by 2035",
-      "fetched_at": "2026-07-21T19:01:25.972137+00:00"
-    },
-    "4401255457ac10a7": {
-      "title": "I built an AI agent I can't turn off. Now it won't listen to me",
-      "fetched_at": "2026-07-21T19:01:26.588512+00:00"
-    },
-    "7b88f093f8619e1c": {
-      "title": "Show HN: Statgate, statistically calibrated ship/block CI gates for LLM evals",
-      "fetched_at": "2026-07-21T19:01:27.220851+00:00"
-    },
-    "dc8215a14888b58c": {
-      "title": "The secret Trump administration battle to fight Chinese AI",
-      "fetched_at": "2026-07-21T19:01:27.837756+00:00"
-    },
-    "58606840e8760cbf": {
-      "title": "AI Consensus circulates your prompt thru Claude, GPT and Gemini until consensus",
-      "fetched_at": "2026-07-21T19:01:28.461309+00:00"
-    },
-    "f992c03bcaf9e0c6": {
-      "title": "Greenland meltwater will drive a 'strong weakening, but not a shutdown' of key Atlantic currents, study finds",
-      "fetched_at": "2026-07-21T19:01:44.237307+00:00"
-    },
-    "6b9fcaf8f7de963e": {
-      "title": "China’s Chang’e-6 reveals why solar wind hits the Moon’s two sides differently",
-      "fetched_at": "2026-07-21T19:01:44.857175+00:00"
-    },
-    "d397f2fcb94d72e5": {
-      "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
-      "fetched_at": "2026-07-21T19:01:45.479448+00:00"
-    },
-    "f8e6a1732f6aa3b7": {
-      "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
-      "fetched_at": "2026-07-21T19:01:46.090540+00:00"
-    },
-    "9c0a8d1de90d6a7a": {
-      "title": "A hidden “switch-off” signal could predict solar storms seven years early",
-      "fetched_at": "2026-07-21T19:01:46.695430+00:00"
-    },
-    "d8c533545281cc9f": {
-      "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
-      "fetched_at": "2026-07-21T19:01:47.338895+00:00"
-    },
-    "92c33fbd4318d6a1": {
-      "title": "New molecular map reveals how the flu virus hijacks human cells",
-      "fetched_at": "2026-07-21T19:01:47.971717+00:00"
-    },
-    "d9cc7b09caff6eaa": {
-      "title": "This food compound may help vaccines work better in older adults",
-      "fetched_at": "2026-07-21T19:01:48.597817+00:00"
-    },
-    "aeaed6c416a9eadf": {
-      "title": "Dying Sun-like stars may kick themselves through space",
-      "fetched_at": "2026-07-21T19:01:49.231007+00:00"
-    },
-    "af5a94bd00cf27b7": {
-      "title": "New quantum gravity theory links entropy, dark energy, and life",
-      "fetched_at": "2026-07-21T19:01:49.840312+00:00"
-    },
-    "a2965cf02e3323cb": {
-      "title": "Spider-like creatures help uncover the surprising origins of fatherhood",
-      "fetched_at": "2026-07-21T19:01:50.449423+00:00"
-    },
     "90949fc18613a70f": {
       "title": "央行今日开展760亿元7天期逆回购操作",
       "fetched_at": "2026-07-22T01:26:35.755826+00:00"
@@ -3911,7 +3787,119 @@
     "19d805b50a7a8eef": {
       "title": "Why haven't organoids solved all of drug discovery?",
       "fetched_at": "2026-07-29T18:54:15.502484+00:00"
+    },
+    "275451ee7d038275": {
+      "title": "人民币兑美元中间价报6.7892，上调7点",
+      "fetched_at": "2026-07-30T01:19:10.879867+00:00"
+    },
+    "58dc988a0bf49795": {
+      "title": "中信证券：仍预计美联储今年全年按兵不动",
+      "fetched_at": "2026-07-30T01:19:11.493142+00:00"
+    },
+    "1514ba767394fd40": {
+      "title": "美国众议院能源委员会要求参观xAI数据中心以调查污染情况",
+      "fetched_at": "2026-07-30T01:19:12.123749+00:00"
+    },
+    "090ed5c0b66dd3d9": {
+      "title": "银河证券：奶价增速转正或将带动相关上市公司盈利能力修复",
+      "fetched_at": "2026-07-30T01:19:12.733975+00:00"
+    },
+    "57fdca2ba98cce64": {
+      "title": "Sfwig – had a laugh with AI, then a question",
+      "fetched_at": "2026-07-30T01:19:13.328191+00:00"
+    },
+    "d7e299f0e34fe4b2": {
+      "title": "微软新增数据中心租约超1300亿美元",
+      "fetched_at": "2026-07-30T01:19:13.927024+00:00"
+    },
+    "57c69a9f6af2eef6": {
+      "title": "36氪首发｜本末科技前合伙人创业做电助力渔轮，获高瓴、启明投资",
+      "fetched_at": "2026-07-30T01:19:14.553316+00:00"
+    },
+    "a325e9759e7e60cd": {
+      "title": "狂揽80亿美元估值，黑石推动三明治连锁店Jersey Mike's冲刺IPO",
+      "fetched_at": "2026-07-30T01:19:15.153688+00:00"
+    },
+    "95523ac4da7ef73f": {
+      "title": "Persistent State Machines for LLM Attention (Vivado Estimated 0.0267 PJ/Op)",
+      "fetched_at": "2026-07-30T01:19:15.759332+00:00"
+    },
+    "052dda286da1a142": {
+      "title": "中信建投：看好重卡出口高景气及业绩强兑现",
+      "fetched_at": "2026-07-30T01:19:16.350990+00:00"
+    },
+    "3d9f95980e4e4e0c": {
+      "title": "耐心资本密集落子，央企系基金加速布局硬科技",
+      "fetched_at": "2026-07-30T01:19:17.023338+00:00"
+    },
+    "331750ffc1150e6b": {
+      "title": "“翻倍基”数量锐减，绩优基金之间差距拉开",
+      "fetched_at": "2026-07-30T01:19:17.610904+00:00"
+    },
+    "6b6a716817134f30": {
+      "title": "两市融资余额减少255.48亿元",
+      "fetched_at": "2026-07-30T01:19:18.292630+00:00"
+    },
+    "d228acf3ed01d4a1": {
+      "title": "强生下调全年调整后运营每股收益预期",
+      "fetched_at": "2026-07-30T01:19:18.902739+00:00"
+    },
+    "87271f793bda7281": {
+      "title": "摩根大通将美联储加息预期提前至12月",
+      "fetched_at": "2026-07-30T01:19:19.587133+00:00"
+    },
+    "e0917e0a9d608df0": {
+      "title": "华泰证券：8月电池排产环比增长，看好本轮锂电涨价周期",
+      "fetched_at": "2026-07-30T01:19:20.189330+00:00"
+    },
+    "64a72e4561cacf37": {
+      "title": "中小银行理财业务迁徙：自营产品加速出清，代销成转型主航道",
+      "fetched_at": "2026-07-30T01:19:20.794105+00:00"
+    },
+    "2c8775e898c2b960": {
+      "title": "7月以来共有25股获5家及以上机构评级，盈利高增长个股获机构扎堆关注",
+      "fetched_at": "2026-07-30T01:19:21.430042+00:00"
+    },
+    "6ae208e4ac65b966": {
+      "title": "星巴克发布强劲Q3财报，上调全年营收及盈利指引",
+      "fetched_at": "2026-07-30T01:19:22.052690+00:00"
+    },
+    "d37f44d1d3ac5962": {
+      "title": "强生以25.8亿美元收购Sail Biomedicines独家期权",
+      "fetched_at": "2026-07-30T01:19:22.653991+00:00"
+    },
+    "cc6d56708b722bfb": {
+      "title": "健身練得滿身肌肉 為何有人卻因此英年早逝？",
+      "fetched_at": "2026-07-30T01:19:29.368159+00:00"
+    },
+    "80e034cd8018882a": {
+      "title": "「不要等到想報復時才行動」：為何婚前協議越來越普遍？",
+      "fetched_at": "2026-07-30T01:19:29.972588+00:00"
+    },
+    "7da3e0dbf8195a20": {
+      "title": "Lasers reveal hundreds of geoglyphs made by a mysterious civilization in the Amazon rainforest thousands of years ago",
+      "fetched_at": "2026-07-30T01:19:33.218809+00:00"
+    },
+    "5d7fd41529feb408": {
+      "title": "Chinese rocket hit by rare midair lightning strike moments after launch as onlookers gasp in horror (video)",
+      "fetched_at": "2026-07-30T01:19:33.825685+00:00"
+    },
+    "7922d531e77a5e3f": {
+      "title": "Antarctica just experienced minus 119 F, Earth's coldest temperature since 2012 — here's why",
+      "fetched_at": "2026-07-30T01:19:34.437170+00:00"
+    },
+    "673075f9cc8dfe18": {
+      "title": "Copper Bells Uncovered in Bolivia",
+      "fetched_at": "2026-07-30T01:19:35.050700+00:00"
+    },
+    "1e106b97550751f8": {
+      "title": "Hominin Footprints at Lake Turkana Reevaluated",
+      "fetched_at": "2026-07-30T01:19:35.649146+00:00"
+    },
+    "1f8323409ffd55ee": {
+      "title": "Early Roman Fortification Unearthed in Switzerland",
+      "fetched_at": "2026-07-30T01:19:36.255654+00:00"
     }
   },
-  "last_updated": "2026-07-29T18:54:15.601289+00:00"
+  "last_updated": "2026-07-30T01:19:36.401252+00:00"
 }
