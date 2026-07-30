@@ -1,105 +1,5 @@
 {
   "articles": {
-    "344967b9c13932a5": {
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "fetched_at": "2026-07-22T18:55:04.369915+00:00"
-    },
-    "0a76b15a54065e51": {
-      "title": "Rabbitty – a native Mac terminal for running AI coding agents in parallel",
-      "fetched_at": "2026-07-22T18:55:04.985044+00:00"
-    },
-    "b1c62f485c91a717": {
-      "title": "Reddit stock sinks as company weighs blocking Google's AI access to its content",
-      "fetched_at": "2026-07-22T18:55:05.582182+00:00"
-    },
-    "5b62bd7feadaeb36": {
-      "title": "AI tech companies have 'hidden debt' worth around $1.65T",
-      "fetched_at": "2026-07-22T18:55:06.181322+00:00"
-    },
-    "f4eb5773ae7b4c3f": {
-      "title": "AI-maestro: Conduct a roster of AI coding agents against a work board",
-      "fetched_at": "2026-07-22T18:55:06.772924+00:00"
-    },
-    "bcd3d460d1e60e80": {
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "fetched_at": "2026-07-22T18:55:07.372840+00:00"
-    },
-    "0d0ba6c47b0226f8": {
-      "title": "Oido Studio – Build AI employees that run your business",
-      "fetched_at": "2026-07-22T18:55:07.975657+00:00"
-    },
-    "59b7da0d153ee1ea": {
-      "title": "The Vibe Coding Trap: Why AI-Assisted Projects Still Fail",
-      "fetched_at": "2026-07-22T18:55:08.569970+00:00"
-    },
-    "a5ea7cd0cb2cf808": {
-      "title": "I Spent a Year Asking AI to Solve Math's Hardest Problem. Here's What Happened",
-      "fetched_at": "2026-07-22T18:55:09.175322+00:00"
-    },
-    "bf357163abedffa7": {
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "fetched_at": "2026-07-22T18:55:09.788031+00:00"
-    },
-    "a61efafeb4409082": {
-      "title": "Most people are using AI the wrong way in their job search",
-      "fetched_at": "2026-07-22T18:55:10.404185+00:00"
-    },
-    "f0f3781dd8e79f89": {
-      "title": "What sampling temperature does in LLM RL training",
-      "fetched_at": "2026-07-22T18:55:11.033587+00:00"
-    },
-    "662f42db72f96f6b": {
-      "title": "Show HN: We added x402 so AI agents can pay to use our cloud simulation API",
-      "fetched_at": "2026-07-22T18:55:11.619922+00:00"
-    },
-    "ffee46d124d57bfb": {
-      "title": "How HN: Surgical DevOps – Deterministic AI execution protocols",
-      "fetched_at": "2026-07-22T18:55:12.228944+00:00"
-    },
-    "1d7b968ffd99a060": {
-      "title": "\"No AI\" Statements Are More Than Mere Statements",
-      "fetched_at": "2026-07-22T18:55:12.832601+00:00"
-    },
-    "e41ddcd8a3b3e188": {
-      "title": "Show HN: Chrome Extension Claude Token Usage Bar and Context Use for Claude.ai",
-      "fetched_at": "2026-07-22T18:55:13.436348+00:00"
-    },
-    "9a0f8e97a7193619": {
-      "title": "AI Coding Will Prevent Expertise",
-      "fetched_at": "2026-07-22T18:55:14.042702+00:00"
-    },
-    "ac5c0f1b540f1c3c": {
-      "title": "Show HN: Stele – A self-maintaining knowledge graph for AI coding agents",
-      "fetched_at": "2026-07-22T18:55:14.652266+00:00"
-    },
-    "f3bac741bc7d796c": {
-      "title": "Using evolution to automate AI model research",
-      "fetched_at": "2026-07-22T18:55:15.263332+00:00"
-    },
-    "3191ce4d823f8961": {
-      "title": "Learn how to build AI from scratch (for free)",
-      "fetched_at": "2026-07-22T18:55:15.884484+00:00"
-    },
-    "86fb2dd0b0f7f119": {
-      "title": "Mice on 'godforsaken' frozen volcanoes eat toxic plants to survive conditions 'not remotely compatible with long-term human survival'",
-      "fetched_at": "2026-07-22T18:55:22.409000+00:00"
-    },
-    "e4a8d3c40d3af790": {
-      "title": "Sacrificed Inca children died very differently than we thought, study finds",
-      "fetched_at": "2026-07-22T18:55:22.993943+00:00"
-    },
-    "99921ff6e5519550": {
-      "title": "NASA astronaut shares image of impossible-looking 'hopper' crystal growing on the space station. What is happening?",
-      "fetched_at": "2026-07-22T18:55:23.589970+00:00"
-    },
-    "696bf202ca5f8f5c": {
-      "title": "AI Tool Discovery at Scale: All You Need Is DNS",
-      "fetched_at": "2026-07-22T18:55:24.196930+00:00"
-    },
-    "1b90b646d1ceabe3": {
-      "title": "Exercise doesn't just strengthen the heart. It rewires it",
-      "fetched_at": "2026-07-22T18:55:24.786402+00:00"
-    },
     "57bbed2faf52beb8": {
       "title": "国泰航空预计2026年上半年利润60亿-65亿港元，载客量同比增长17%",
       "fetched_at": "2026-07-23T01:45:29.584150+00:00"
@@ -3763,7 +3663,127 @@
     "f3f5c7f5ff115d46": {
       "title": "AI reveals explosive bursts in bird evolution",
       "fetched_at": "2026-07-30T13:24:19.560572+00:00"
+    },
+    "30ecbe4b87ac51a8": {
+      "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
+      "fetched_at": "2026-07-30T19:07:12.553689+00:00"
+    },
+    "770d7c0b24be4ba4": {
+      "title": "Claude Opus 5 became ruthless when tasked with running a vending machine",
+      "fetched_at": "2026-07-30T19:07:13.162210+00:00"
+    },
+    "e0037ef60d60978a": {
+      "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+      "fetched_at": "2026-07-30T19:07:13.768637+00:00"
+    },
+    "80c935caec79c784": {
+      "title": "The Friend AI Pendant is not a product",
+      "fetched_at": "2026-07-30T19:07:14.381712+00:00"
+    },
+    "69f945c21c13a0cc": {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "fetched_at": "2026-07-30T19:07:15.006825+00:00"
+    },
+    "3d92588617da0338": {
+      "title": "AI #179 Part 1: A Louder Fire Alarm for General Intelligence",
+      "fetched_at": "2026-07-30T19:07:15.627396+00:00"
+    },
+    "cd524745fcb172b3": {
+      "title": "Citadel buys most of Situational's stock holdings after AI share rout",
+      "fetched_at": "2026-07-30T19:07:16.244177+00:00"
+    },
+    "54ccaca53b0ca0a3": {
+      "title": "Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses",
+      "fetched_at": "2026-07-30T19:07:16.866136+00:00"
+    },
+    "bbb1ee5d3fc385b1": {
+      "title": "We're making Chrome and the web safer in the AI Era",
+      "fetched_at": "2026-07-30T19:07:17.475108+00:00"
+    },
+    "111fefe0ca430c1d": {
+      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "fetched_at": "2026-07-30T19:07:18.127217+00:00"
+    },
+    "64c049922059f821": {
+      "title": "OpenAI revenue in July topped all of Q2 driven by GPT-5.6 release",
+      "fetched_at": "2026-07-30T19:07:18.761710+00:00"
+    },
+    "518985abbb662580": {
+      "title": "The Zeno's Paradox of AI",
+      "fetched_at": "2026-07-30T19:07:19.380701+00:00"
+    },
+    "68e84998f573762d": {
+      "title": "LLM re-reads the same text a thousand times. Here's what I measured",
+      "fetched_at": "2026-07-30T19:07:19.999937+00:00"
+    },
+    "24fce134a0da11ee": {
+      "title": "AI productivity gains are closer to 10% than 10x",
+      "fetched_at": "2026-07-30T19:07:20.609634+00:00"
+    },
+    "95fe6da0ec68dd51": {
+      "title": "New Website, Instapaper 10 for iOS, and AI Voices for Android",
+      "fetched_at": "2026-07-30T19:07:21.224146+00:00"
+    },
+    "5a2cafaa4f7a4d1e": {
+      "title": "An LLM-assisted security review of GlobaLeaks: 41 findings for –$3,140",
+      "fetched_at": "2026-07-30T19:07:21.837808+00:00"
+    },
+    "37d7692bc785b55c": {
+      "title": "Why do OpenAI's GPT-2 weights beat mine? Part two: the bugfix",
+      "fetched_at": "2026-07-30T19:07:22.451386+00:00"
+    },
+    "fb570e0dd6166372": {
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "fetched_at": "2026-07-30T19:07:23.070424+00:00"
+    },
+    "e386530a3af588ad": {
+      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+      "fetched_at": "2026-07-30T19:07:23.686129+00:00"
+    },
+    "4baeb0088ba7fee1": {
+      "title": "Birduino: A card-triggered audio player for [learning] the birds",
+      "fetched_at": "2026-07-30T19:07:24.305675+00:00"
+    },
+    "2bd580bf90fc5e99": {
+      "title": "「如果有一座橋」：金門人怎麼看翔安機場的「情感工程」？",
+      "fetched_at": "2026-07-30T19:07:26.807740+00:00"
+    },
+    "69dc3844c498440c": {
+      "title": "500-year-old Inca mummies prove that European colonists brought devastating smallpox to the Americas",
+      "fetched_at": "2026-07-30T19:07:34.794116+00:00"
+    },
+    "e7016ed861914284": {
+      "title": "40,000-year-old bird figurines the size of a thumbnail discovered in German cave",
+      "fetched_at": "2026-07-30T19:07:35.418565+00:00"
+    },
+    "33fab5c81e73a234": {
+      "title": "A unique antibody system may help explain bats' unusual tolerance of viruses",
+      "fetched_at": "2026-07-30T19:07:36.034127+00:00"
+    },
+    "39f43bb946375ee0": {
+      "title": "The D-Day in Color. Rare WWII Historical Footage Restored [video]",
+      "fetched_at": "2026-07-30T19:07:36.658956+00:00"
+    },
+    "a4619e04150f0bb5": {
+      "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
+      "fetched_at": "2026-07-30T19:07:37.268800+00:00"
+    },
+    "846ec19fef216074": {
+      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
+      "fetched_at": "2026-07-30T19:07:37.894997+00:00"
+    },
+    "37fb52d9104a8669": {
+      "title": "A strange quantum effect dramatically boosts energy transfer",
+      "fetched_at": "2026-07-30T19:07:38.595507+00:00"
+    },
+    "0b9f5c7985a439b1": {
+      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
+      "fetched_at": "2026-07-30T19:07:39.216075+00:00"
+    },
+    "b2ae5d0328366135": {
+      "title": "Magic mushrooms may reshape the brain long after the trip ends",
+      "fetched_at": "2026-07-30T19:07:39.838245+00:00"
     }
   },
-  "last_updated": "2026-07-30T13:24:19.665165+00:00"
+  "last_updated": "2026-07-30T19:07:39.949612+00:00"
 }
