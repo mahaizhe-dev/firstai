@@ -1,281 +1,5 @@
 {
   "articles": {
-    "bcc5f4ef1bf94333": {
-      "title": "对话超擎数智CEO唐春峰：AI产业竞争正在从模型训练走向推理落地，全栈方案加速企业智能化应用",
-      "fetched_at": "2026-07-22T08:06:08.102239+00:00"
-    },
-    "ca8ad3dd10c94aa2": {
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "fetched_at": "2026-07-22T08:06:08.724126+00:00"
-    },
-    "6c4bba237a31d779": {
-      "title": "Melaya – the agent builder that gives AI a governed Android phone",
-      "fetched_at": "2026-07-22T08:06:09.373588+00:00"
-    },
-    "00de3474ec18faca": {
-      "title": "TenPay Global与哈萨克斯坦Freedom Bank达成合作",
-      "fetched_at": "2026-07-22T08:06:10.014972+00:00"
-    },
-    "55323b1d1c9012ac": {
-      "title": "AI算力产业链成为上海出口重要增长动能",
-      "fetched_at": "2026-07-22T08:06:10.633824+00:00"
-    },
-    "2fc1158f29e1b166": {
-      "title": "英伟达披露Vera Rubin最新进展，芯片已交付OpenAI等企业",
-      "fetched_at": "2026-07-22T08:06:11.277068+00:00"
-    },
-    "35356e5056dcb9e3": {
-      "title": "比亚迪腾势在哈尔滨成立新销售服务公司，注册资本100万",
-      "fetched_at": "2026-07-22T08:06:11.907195+00:00"
-    },
-    "35b1f34d36603157": {
-      "title": "对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力",
-      "fetched_at": "2026-07-22T08:06:12.545183+00:00"
-    },
-    "4ddd00da94828c92": {
-      "title": "OpenAI承认AI“代理”自主引发重大网络攻击",
-      "fetched_at": "2026-07-22T08:06:13.162309+00:00"
-    },
-    "2caca18f9f049636": {
-      "title": "财政部：上半年全国财政收入同比增长4.7%",
-      "fetched_at": "2026-07-22T08:06:13.774669+00:00"
-    },
-    "38ffc2bad61b22c0": {
-      "title": "估值500亿美元，月之暗面计划8月启动上市前最后一轮融资",
-      "fetched_at": "2026-07-22T08:06:14.410222+00:00"
-    },
-    "e550830bdc13dc82": {
-      "title": "Eric Schmidt's AI Drones Hit 70% Kill Rate as Commercial Tech Goes to War",
-      "fetched_at": "2026-07-22T08:06:15.049148+00:00"
-    },
-    "10a63462b8e56771": {
-      "title": "长电科技在上海成立芯微系统公司，注册资本40亿",
-      "fetched_at": "2026-07-22T08:06:15.725844+00:00"
-    },
-    "ca821b1a066055b3": {
-      "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
-      "fetched_at": "2026-07-22T08:06:16.364661+00:00"
-    },
-    "3b39217f733bedc7": {
-      "title": "AI for Actual Work – a free, self-paced AI training program by Remote.com",
-      "fetched_at": "2026-07-22T08:06:16.999715+00:00"
-    },
-    "f8ac0cc18a275329": {
-      "title": "A股三大指数收盘涨跌不一，全市场近3900股下跌",
-      "fetched_at": "2026-07-22T08:06:17.632061+00:00"
-    },
-    "1f8a194dd3851461": {
-      "title": "Show HN: Open-source AI shadow that runs on your machine and acts as you",
-      "fetched_at": "2026-07-22T08:06:18.282208+00:00"
-    },
-    "0f2bd0a4e826437f": {
-      "title": "滤镜背后的色彩科学：LUT 是什么？",
-      "fetched_at": "2026-07-22T08:06:18.898420+00:00"
-    },
-    "6eae471dcd448769": {
-      "title": "iAsk.ai",
-      "fetched_at": "2026-07-22T08:06:19.550658+00:00"
-    },
-    "4180a7358cfe1631": {
-      "title": "2026年上半年消费品以旧换新成效显著",
-      "fetched_at": "2026-07-22T08:06:20.217770+00:00"
-    },
-    "fe8db7cbb93de128": {
-      "title": "日本鼓勵男性穿短褲上班，女性不滿「腿毛騷擾」",
-      "fetched_at": "2026-07-22T08:06:23.299346+00:00"
-    },
-    "bf93742f4ecfaa44": {
-      "title": "特朗普訴BBC誹謗案 法官頒令總統交出紀錄",
-      "fetched_at": "2026-07-22T08:06:23.922526+00:00"
-    },
-    "2bd580bf90fc5e99": {
-      "title": "「如果有一座橋」：金門人怎麼看翔安機場的「情感工程」？",
-      "fetched_at": "2026-07-22T08:06:24.526473+00:00"
-    },
-    "8278077a3af6f43c": {
-      "title": "美中会在人工智能领域筑起高墙吗？",
-      "fetched_at": "2026-07-22T08:06:25.150432+00:00"
-    },
-    "434754dd168cd6cc": {
-      "title": "泽连斯基为何在战争关键时刻撤换最高将领",
-      "fetched_at": "2026-07-22T08:06:25.787284+00:00"
-    },
-    "80809f71f58e5f92": {
-      "title": "連日抗議後 澤連斯基革除烏克蘭軍方總司令",
-      "fetched_at": "2026-07-22T08:06:26.410053+00:00"
-    },
-    "7fd69649e47d527f": {
-      "title": "特朗普指控中国干预美国大选，文件显示俄罗斯才是“真凶”",
-      "fetched_at": "2026-07-22T08:06:27.035492+00:00"
-    },
-    "dc797e507721b664": {
-      "title": "从黑暗之海到自由之海：一个大胆逃离朝鲜的脱北者家族",
-      "fetched_at": "2026-07-22T08:06:27.660336+00:00"
-    },
-    "060ec8ce79db91c0": {
-      "title": "“蟑螂”的愤怒：印度爆发大规模青年抗议",
-      "fetched_at": "2026-07-22T08:06:28.262331+00:00"
-    },
-    "10c83dcddeb40109": {
-      "title": "金門對面多了一座巨型機場，台灣憂軍事與飛航安全",
-      "fetched_at": "2026-07-22T08:06:28.880612+00:00"
-    },
-    "0d58f59559bce14a": {
-      "title": "Science word of the day: Abiogenesis",
-      "fetched_at": "2026-07-22T08:06:31.470564+00:00"
-    },
-    "b2ae5d0328366135": {
-      "title": "Magic mushrooms may reshape the brain long after the trip ends",
-      "fetched_at": "2026-07-22T08:06:32.100254+00:00"
-    },
-    "cc050258b98c047a": {
-      "title": "5 'extremely rare' iron shackles discovered in France highlight Celtic slave trade 2,300 years ago",
-      "fetched_at": "2026-07-22T08:06:32.736009+00:00"
-    },
-    "6474978d14fd54d1": {
-      "title": "Sweet! Sugar found in raspberries was discovered near the Milky Way's center, hinting that life's ingredients are common in space",
-      "fetched_at": "2026-07-22T08:06:33.350805+00:00"
-    },
-    "bfa2116b0ea4ec3b": {
-      "title": "Can Chinese AI (Kimi K3) file American tax returns (TaxCalcBench)?",
-      "fetched_at": "2026-07-22T13:18:56.454091+00:00"
-    },
-    "fc459d02a049c75c": {
-      "title": "Show HN: Turn narrated screen recordings into data for AI agents (local, MIT)",
-      "fetched_at": "2026-07-22T13:18:57.072307+00:00"
-    },
-    "40e82e56787b882c": {
-      "title": "Ask HN: Alternative Careers in the Age of AI",
-      "fetched_at": "2026-07-22T13:18:57.659219+00:00"
-    },
-    "06ea11847673a17b": {
-      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "fetched_at": "2026-07-22T13:18:58.274463+00:00"
-    },
-    "cc08955babde3677": {
-      "title": "GPT-5.6 found an Intel CPU microcode bug causing a performance regression",
-      "fetched_at": "2026-07-22T13:18:58.885969+00:00"
-    },
-    "512687ebd5d455cc": {
-      "title": "热门中概股美股盘前普跌，网易跌超4%",
-      "fetched_at": "2026-07-22T13:18:59.485343+00:00"
-    },
-    "9e038e963de722fa": {
-      "title": "Jailbox: Network-Restricted, Hardened Linux VMs for AI Agents and Untrusted Code",
-      "fetched_at": "2026-07-22T13:19:00.080148+00:00"
-    },
-    "c19ac1f541bad01e": {
-      "title": "Open-weights AI models have become good enough",
-      "fetched_at": "2026-07-22T13:19:00.692524+00:00"
-    },
-    "59bdfef5360857bf": {
-      "title": "OpenBase – A flight recorder for AI agents (verifiable execution evidence)",
-      "fetched_at": "2026-07-22T13:19:01.315524+00:00"
-    },
-    "cc9cb8ef400b5bac": {
-      "title": "美股大型科技股盘前涨跌不一，英特尔跌超4%",
-      "fetched_at": "2026-07-22T13:19:01.910518+00:00"
-    },
-    "55605f7686e79396": {
-      "title": "Businesses with ugly AI menu redesigns",
-      "fetched_at": "2026-07-22T13:19:02.529543+00:00"
-    },
-    "1ecacca26b932789": {
-      "title": "Making LLM extraction trustworthy enough to act on",
-      "fetched_at": "2026-07-22T13:19:03.145234+00:00"
-    },
-    "9296b6f5470038fc": {
-      "title": "Trump administration Announces $5B for the Genesis Mission (AI for Science)",
-      "fetched_at": "2026-07-22T13:19:03.745854+00:00"
-    },
-    "f588a2ca1181c4b8": {
-      "title": "联创电子：筹划控制权变更事项，股票停牌",
-      "fetched_at": "2026-07-22T13:19:04.361120+00:00"
-    },
-    "85fa046435bd3fbe": {
-      "title": "Show HN: SynthCut – An open-source, local-first AI video editor",
-      "fetched_at": "2026-07-22T13:19:04.974985+00:00"
-    },
-    "1e07b432d0b44f38": {
-      "title": "AMD与Anthropic签署重大芯片及投资协议",
-      "fetched_at": "2026-07-22T13:19:05.577939+00:00"
-    },
-    "49466cd45c33908d": {
-      "title": "OpenAI拟推出新企业软件OpenAI Presence",
-      "fetched_at": "2026-07-22T13:19:06.217315+00:00"
-    },
-    "0abf58ea05b21217": {
-      "title": "奥比中光：筹划发行H股股票并在香港联交所上市",
-      "fetched_at": "2026-07-22T13:19:06.850912+00:00"
-    },
-    "6df320c631f1c328": {
-      "title": "Traccia – a crash dump for AI agents",
-      "fetched_at": "2026-07-22T13:19:07.449951+00:00"
-    },
-    "5549060ac5b4b4bb": {
-      "title": "霍尔木兹海峡和曼德海峡通航量双双下降",
-      "fetched_at": "2026-07-22T13:19:08.052485+00:00"
-    },
-    "42fb858c31ae8eac": {
-      "title": "Report and Recommendations for Renewing American Scientific Discovery",
-      "fetched_at": "2026-07-22T13:19:13.899523+00:00"
-    },
-    "83f6a02e3195d9dd": {
-      "title": "Diagnostic dilemma: 6-year-old develops life-threatening allergic reaction after blood transfusion",
-      "fetched_at": "2026-07-22T13:19:14.497607+00:00"
-    },
-    "0705bfdd17907c5d": {
-      "title": "'It's a really poor quality of life': Once a 'miracle in the desert,' California's Salton Sea now spreads toxic dust on vulnerable communities",
-      "fetched_at": "2026-07-22T13:19:15.128629+00:00"
-    },
-    "a4619e04150f0bb5": {
-      "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
-      "fetched_at": "2026-07-22T13:19:15.730881+00:00"
-    },
-    "846ec19fef216074": {
-      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
-      "fetched_at": "2026-07-22T13:19:16.331056+00:00"
-    },
-    "37fb52d9104a8669": {
-      "title": "A strange quantum effect dramatically boosts energy transfer",
-      "fetched_at": "2026-07-22T13:19:16.926301+00:00"
-    },
-    "87205ca6ad773621": {
-      "title": "Hyra: A simple yet effective scaffold for general discovery",
-      "fetched_at": "2026-07-22T13:19:17.521139+00:00"
-    },
-    "1c9ddae14becb768": {
-      "title": "What to know about the landmark Warner Bros. Discovery sale",
-      "fetched_at": "2026-07-22T13:19:18.109491+00:00"
-    },
-    "0b9f5c7985a439b1": {
-      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
-      "fetched_at": "2026-07-22T13:19:18.701325+00:00"
-    },
-    "e45b9434caba1445": {
-      "title": "New cancer strategy could stop tumors before resistance takes hold",
-      "fetched_at": "2026-07-22T13:19:19.294891+00:00"
-    },
-    "eb7e31e033dc5fb1": {
-      "title": "Ask HN: What is your onboarding/discovery process for a new client or project?",
-      "fetched_at": "2026-07-22T13:19:19.912312+00:00"
-    },
-    "ccde970b1c8cf66d": {
-      "title": "This dinosaur fossil captures the final moments of a T. rex attack",
-      "fetched_at": "2026-07-22T13:19:20.501999+00:00"
-    },
-    "7bc487ca1c045ec6": {
-      "title": "NASA's Perseverance just completed a marathon on Mars",
-      "fetched_at": "2026-07-22T13:19:21.105430+00:00"
-    },
-    "488f26d4f9ef1944": {
-      "title": "NASA selects four new Moon missions to build a permanent lunar base",
-      "fetched_at": "2026-07-22T13:19:21.712223+00:00"
-    },
-    "51fe32e763110110": {
-      "title": "Yale scientists found a hidden network inside the eye",
-      "fetched_at": "2026-07-22T13:19:22.314420+00:00"
-    },
     "344967b9c13932a5": {
       "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
       "fetched_at": "2026-07-22T18:55:04.369915+00:00"
@@ -3915,7 +3639,131 @@
     "af5a94bd00cf27b7": {
       "title": "New quantum gravity theory links entropy, dark energy, and life",
       "fetched_at": "2026-07-30T08:05:24.584600+00:00"
+    },
+    "d74ddbd5a8cd3035": {
+      "title": "宇树科技：初步询价日为8月5日，网上网下申购日为8月10日",
+      "fetched_at": "2026-07-30T13:23:56.691819+00:00"
+    },
+    "51a3d93a7474858f": {
+      "title": "Can AI Agents Be Aligned with Human Rights?",
+      "fetched_at": "2026-07-30T13:23:57.288250+00:00"
+    },
+    "617bee6ccb7a745b": {
+      "title": "Show HN: An AI bug fixer for VS Code that explains why your code broke",
+      "fetched_at": "2026-07-30T13:23:57.898931+00:00"
+    },
+    "59aa8b0b50a05eb8": {
+      "title": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
+      "fetched_at": "2026-07-30T13:23:58.490709+00:00"
+    },
+    "e0e7624e5b9fa46b": {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "fetched_at": "2026-07-30T13:23:59.098102+00:00"
+    },
+    "96419bfb47f90e54": {
+      "title": "小米汽车发布小米澎程N90 Max",
+      "fetched_at": "2026-07-30T13:23:59.700050+00:00"
+    },
+    "f42fe8edc82bb6ea": {
+      "title": "甲骨文、谷歌扩大合作伙伴关系",
+      "fetched_at": "2026-07-30T13:24:00.292560+00:00"
+    },
+    "5b3015a27d8e2877": {
+      "title": "Tripplet AI",
+      "fetched_at": "2026-07-30T13:24:00.895610+00:00"
+    },
+    "ad23b08e0af3f094": {
+      "title": "亚马逊旗下Zoox获美监管机构临时豁免，可商业部署至多5000辆自动驾驶出租车",
+      "fetched_at": "2026-07-30T13:24:01.488571+00:00"
+    },
+    "511ac3cef19ada28": {
+      "title": "热门中概股美股盘前涨跌不一，好未来涨超14%",
+      "fetched_at": "2026-07-30T13:24:02.130030+00:00"
+    },
+    "de01cdcf90aad79e": {
+      "title": "美股大型科技股盘前多数上涨，Arm涨超11%",
+      "fetched_at": "2026-07-30T13:24:02.737764+00:00"
+    },
+    "e37f39d5555e1ba4": {
+      "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI Counterculture",
+      "fetched_at": "2026-07-30T13:24:03.369464+00:00"
+    },
+    "9839cd4fc524032b": {
+      "title": "中际旭创：控股股东及其一致行动人持股比例下降1.46%",
+      "fetched_at": "2026-07-30T13:24:03.965651+00:00"
+    },
+    "81a9a0f27ebaba75": {
+      "title": "Super Amplify – governed AI agents for real company workflows",
+      "fetched_at": "2026-07-30T13:24:04.570342+00:00"
+    },
+    "8d499cda5b00106e": {
+      "title": "美国第二季度实际GDP年化季率初值升1.5%",
+      "fetched_at": "2026-07-30T13:24:05.180378+00:00"
+    },
+    "9c735b53c6ffba42": {
+      "title": "雷军：小米澎程全系标配小米HAD，满配辅助驾驶",
+      "fetched_at": "2026-07-30T13:24:05.779117+00:00"
+    },
+    "1e028504df750e67": {
+      "title": "小米辟谣“小蓝灯”“小米澎程F码”相关网传信息",
+      "fetched_at": "2026-07-30T13:24:06.368384+00:00"
+    },
+    "04dbeee163c7e938": {
+      "title": "Show HN: Scalix World – AI native Neo cloud",
+      "fetched_at": "2026-07-30T13:24:06.986606+00:00"
+    },
+    "7ca6ae6974edc930": {
+      "title": "英国央行行长：没有证据表明出现二轮效应，但不应对此放松警惕",
+      "fetched_at": "2026-07-30T13:24:07.616046+00:00"
+    },
+    "89e6285f6154d77d": {
+      "title": "美国6月核心PCE物价指数环比上涨0.1%",
+      "fetched_at": "2026-07-30T13:24:08.221052+00:00"
+    },
+    "9305824ed198af47": {
+      "title": "澳門國安法首案：區錦新被羈押滿一年，「外界難以聯絡」",
+      "fetched_at": "2026-07-30T13:24:11.134883+00:00"
+    },
+    "62beb21e4e472e9a": {
+      "title": "中國機器人大軍如何改變英國零售業？",
+      "fetched_at": "2026-07-30T13:24:11.732395+00:00"
+    },
+    "cba320be315c8b86": {
+      "title": "Inflammation may trigger persistent 'out-of-body' experiences, emerging research hints",
+      "fetched_at": "2026-07-30T13:24:14.653449+00:00"
+    },
+    "ee1f13ba02ec627e": {
+      "title": "How to build the perfect solar eclipse kit for any budget",
+      "fetched_at": "2026-07-30T13:24:15.258553+00:00"
+    },
+    "16ca6b804e03c58c": {
+      "title": "What if the brain does not create consciousness?",
+      "fetched_at": "2026-07-30T13:24:15.955312+00:00"
+    },
+    "0c458e9a2e455e38": {
+      "title": "This 4,000-year-old city defied the rules of history",
+      "fetched_at": "2026-07-30T13:24:16.553664+00:00"
+    },
+    "5f67aed39b2cfe6b": {
+      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+      "fetched_at": "2026-07-30T13:24:17.160978+00:00"
+    },
+    "f9b2edee8e2d3494": {
+      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+      "fetched_at": "2026-07-30T13:24:17.757094+00:00"
+    },
+    "7602b5bb1afdaceb": {
+      "title": "Alien signals may be hiding where we rarely listen",
+      "fetched_at": "2026-07-30T13:24:18.376878+00:00"
+    },
+    "6bc4cf9b791923d0": {
+      "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+      "fetched_at": "2026-07-30T13:24:18.965899+00:00"
+    },
+    "f3f5c7f5ff115d46": {
+      "title": "AI reveals explosive bursts in bird evolution",
+      "fetched_at": "2026-07-30T13:24:19.560572+00:00"
     }
   },
-  "last_updated": "2026-07-30T08:05:24.739377+00:00"
+  "last_updated": "2026-07-30T13:24:19.665165+00:00"
 }
