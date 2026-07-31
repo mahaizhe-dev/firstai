@@ -1,117 +1,5 @@
 {
   "articles": {
-    "d40b5daa9a16025b": {
-      "title": "Anthropic is subsidizing our AI coding at 13x. How long will it last?",
-      "fetched_at": "2026-07-23T13:21:26.761968+00:00"
-    },
-    "42a64e5cb7774655": {
-      "title": "Show HN: Free API keys for open models (Llama, Qwen, GPT-OSS, Gemma)",
-      "fetched_at": "2026-07-23T13:21:27.374336+00:00"
-    },
-    "5b4e42d0c810830b": {
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "fetched_at": "2026-07-23T13:21:27.975199+00:00"
-    },
-    "33699ea014a73946": {
-      "title": "The AI Con",
-      "fetched_at": "2026-07-23T13:21:28.578678+00:00"
-    },
-    "408227f519dc7232": {
-      "title": "AMD to launch next generation of AI infrastructure to challenge Nvidia",
-      "fetched_at": "2026-07-23T13:21:29.189798+00:00"
-    },
-    "d690ebbc013c8275": {
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "fetched_at": "2026-07-23T13:21:29.814675+00:00"
-    },
-    "1bdf1f7af220141c": {
-      "title": "COLMO发布一风口内机与图灵Pro全时三管制中央空调",
-      "fetched_at": "2026-07-23T13:21:30.438447+00:00"
-    },
-    "72f77c83e4a62290": {
-      "title": "热门中概股美股盘前涨跌不一，阿里巴巴跌超1%",
-      "fetched_at": "2026-07-23T13:21:31.041729+00:00"
-    },
-    "d9a1a28b5f033962": {
-      "title": "美股大型科技股盘前普跌，特斯拉跌超7%",
-      "fetched_at": "2026-07-23T13:21:31.667327+00:00"
-    },
-    "767262e332aed0c4": {
-      "title": "美国上周首次申领失业救济人数为18.7万人，低于市场预期",
-      "fetched_at": "2026-07-23T13:21:32.292800+00:00"
-    },
-    "8b2bf575ae32d3c3": {
-      "title": "Full Disclosure: A project is publishing full analyses of AI-discovered 0-days",
-      "fetched_at": "2026-07-23T13:21:32.938904+00:00"
-    },
-    "865ffa38779e422d": {
-      "title": "Show HN: Mwe-MCP – self-hosted memory for AI agents that knows who may know what",
-      "fetched_at": "2026-07-23T13:21:33.545607+00:00"
-    },
-    "c7c06752170aa1e6": {
-      "title": "黑石集团依托人工智能投资利润大幅飙升",
-      "fetched_at": "2026-07-23T13:21:34.157182+00:00"
-    },
-    "8b847fbb02ae9e19": {
-      "title": "航锦科技：拟挂牌转让中电华星51%股权",
-      "fetched_at": "2026-07-23T13:21:34.762299+00:00"
-    },
-    "f5d8cd88a1af97b3": {
-      "title": "Show HN: Nova – open-source AI orchestrator that works with you",
-      "fetched_at": "2026-07-23T13:21:35.360260+00:00"
-    },
-    "9430eecfd1ad07da": {
-      "title": "欧洲央行维持三大关键利率不变",
-      "fetched_at": "2026-07-23T13:21:35.966831+00:00"
-    },
-    "8c028bfb24a67d76": {
-      "title": "“杀猪盘”逼出雷霆手段，美国SEC批准纳斯达克加速退市新规",
-      "fetched_at": "2026-07-23T13:21:36.576132+00:00"
-    },
-    "b50ae16348ab83d9": {
-      "title": "澜起科技：拟以3亿元-6亿元回购A股股份",
-      "fetched_at": "2026-07-23T13:21:37.195942+00:00"
-    },
-    "d2a9f02ede7fd054": {
-      "title": "ASK HN: What role do humans play in your organization in an AI era?",
-      "fetched_at": "2026-07-23T13:21:37.840689+00:00"
-    },
-    "e278cb6054fd5a1d": {
-      "title": "AI and Productivity – Stripe Economics",
-      "fetched_at": "2026-07-23T13:21:38.476945+00:00"
-    },
-    "d3c83123b217e125": {
-      "title": "香港「47人案」前議員胡志偉英國機場險被遣返",
-      "fetched_at": "2026-07-23T13:21:41.632046+00:00"
-    },
-    "82bedc1df091819b": {
-      "title": "台灣收緊陸配參選資格：「設籍滿十年」改為「除籍滿十年」意味什麼？",
-      "fetched_at": "2026-07-23T13:21:42.231644+00:00"
-    },
-    "fafe4d527bea6a07": {
-      "title": "中國電影《澎湖海戰》傳上映遭擱置：「反清復明」民間史觀神經再被挑動",
-      "fetched_at": "2026-07-23T13:21:42.851216+00:00"
-    },
-    "0778e5cd4e273e85": {
-      "title": "「不出去，這一輩子心都不甘」：中國異見人士董廣平跨海記",
-      "fetched_at": "2026-07-23T13:21:43.465982+00:00"
-    },
-    "1195f71b0778fa4a": {
-      "title": "'They didn't question it': Why doctors prescribe too many antibiotics",
-      "fetched_at": "2026-07-23T13:21:45.547375+00:00"
-    },
-    "42974ba6f291d76d": {
-      "title": "Astronomers just found four hidden white dwarf stars near Earth",
-      "fetched_at": "2026-07-23T13:21:46.149859+00:00"
-    },
-    "78ebae75661b1c33": {
-      "title": "Scientists finally solved why some frogs survive a deadly fungus",
-      "fetched_at": "2026-07-23T13:21:46.766825+00:00"
-    },
-    "9bb1b50ca1b9dda1": {
-      "title": "Why have humans collected crystals for 780,000 years? Chimpanzees may hold the answer",
-      "fetched_at": "2026-07-23T13:21:47.390098+00:00"
-    },
     "6882dc29d844e58a": {
       "title": "AI Casino",
       "fetched_at": "2026-07-23T18:56:36.538783+00:00"
@@ -3771,7 +3659,107 @@
     "415767e0a49acf18": {
       "title": "Science word of they day: Covalent",
       "fetched_at": "2026-07-31T08:31:25.653237+00:00"
+    },
+    "5f5eba49112666bc": {
+      "title": "Another Reason Not to Use \"AI\" for Your Writing",
+      "fetched_at": "2026-07-31T13:28:02.232570+00:00"
+    },
+    "65931934e854d33c": {
+      "title": "Figma for Agents: How Airflow's Creator Coordinates AI Ft. Maxime Beauchemin",
+      "fetched_at": "2026-07-31T13:28:02.878424+00:00"
+    },
+    "df49a1e9638cb0ca": {
+      "title": "Show HN: Provenance and decay for AI agent memory",
+      "fetched_at": "2026-07-31T13:28:03.502245+00:00"
+    },
+    "fcaa33d76eadea8d": {
+      "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+      "fetched_at": "2026-07-31T13:28:04.144894+00:00"
+    },
+    "64e58207ddb7659d": {
+      "title": "Promote.chat: AI Marketing Agent for Vibe Coders",
+      "fetched_at": "2026-07-31T13:28:04.764381+00:00"
+    },
+    "aab4fce67f6b19dd": {
+      "title": "Keep It Real: A Schema-Level Deferral Channel for Concise LLM Dialogue [pdf]",
+      "fetched_at": "2026-07-31T13:28:05.384473+00:00"
+    },
+    "36c6289bee882ee1": {
+      "title": "热门中概股美股盘前普涨，阿里巴巴涨超2%",
+      "fetched_at": "2026-07-31T13:28:06.018690+00:00"
+    },
+    "a8ecfab142bb0f3c": {
+      "title": "LinkedIn Is Cracking Down on 'AI Slop' with New Reporting Tool",
+      "fetched_at": "2026-07-31T13:28:06.644468+00:00"
+    },
+    "b36a6c474de63480": {
+      "title": "美股大型科技股盘前多数上涨，亚马逊涨超10%",
+      "fetched_at": "2026-07-31T13:28:07.291890+00:00"
+    },
+    "43d3473777dff602": {
+      "title": "交大昂立：公司股票8月4日起实施其他风险警示，简称变更为“ST交昂”",
+      "fetched_at": "2026-07-31T13:28:07.936892+00:00"
+    },
+    "9e839807f4d6c5a8": {
+      "title": "Anthropic says its AI models hacked 3 organizations during testing",
+      "fetched_at": "2026-07-31T13:28:08.562412+00:00"
+    },
+    "717815505c9bf890": {
+      "title": "2026年7月总票房突破50亿",
+      "fetched_at": "2026-07-31T13:28:09.186232+00:00"
+    },
+    "657058ba85881923": {
+      "title": "AI's Execution Problem",
+      "fetched_at": "2026-07-31T13:28:09.828909+00:00"
+    },
+    "03859a0c8786c867": {
+      "title": "贝肯能源：控股股东将变更为极宁科技，股票将于8月3日复牌",
+      "fetched_at": "2026-07-31T13:28:10.464634+00:00"
+    },
+    "8cb0d114895e2ea5": {
+      "title": "Show HN: I built an AI that reads German real estate listings for buyers",
+      "fetched_at": "2026-07-31T13:28:11.079533+00:00"
+    },
+    "9bcbff249120ceae": {
+      "title": "Europe gets ready to police frontier AI",
+      "fetched_at": "2026-07-31T13:28:11.772168+00:00"
+    },
+    "7231d97afc6e4a62": {
+      "title": "2连板中国宝安：第一大股东在股票交易异常波动期间增持1.6%股份",
+      "fetched_at": "2026-07-31T13:28:12.406335+00:00"
+    },
+    "d4beed5571621b88": {
+      "title": "Quil – drive AI coding sessions on a remote box over plain SSH",
+      "fetched_at": "2026-07-31T13:28:13.033986+00:00"
+    },
+    "b37a5481010ac1e0": {
+      "title": "Rogue AI Agents – Food for Agile Thought #555",
+      "fetched_at": "2026-07-31T13:28:13.681711+00:00"
+    },
+    "e292faf7da4e2049": {
+      "title": "Guardrails Hub – Guardrails AI",
+      "fetched_at": "2026-07-31T13:28:14.392443+00:00"
+    },
+    "0c27fe4725f51301": {
+      "title": "網傳胡錦濤舉家身亡，「原始消息」疑點重重",
+      "fetched_at": "2026-07-31T13:28:17.412935+00:00"
+    },
+    "0cba5ec38c39e6df": {
+      "title": "How to watch 'Secrets of the Great White Kill' – stream 'Shark Week' 2026 from anywhere",
+      "fetched_at": "2026-07-31T13:28:20.916044+00:00"
+    },
+    "0884dd6955662f6b": {
+      "title": "IBM scientists claim they've achieved 'quantum advantage' — and they've dared others to prove them wrong",
+      "fetched_at": "2026-07-31T13:28:21.629805+00:00"
+    },
+    "d69ea92e712f7d11": {
+      "title": "Alzheimer's blood tests are transforming how patients get diagnosed — here's what to know",
+      "fetched_at": "2026-07-31T13:28:22.253045+00:00"
+    },
+    "d65815f7c290e915": {
+      "title": "Through the Lens of an Ancient Yisra'elite Bible Study",
+      "fetched_at": "2026-07-31T13:28:22.874666+00:00"
     }
   },
-  "last_updated": "2026-07-31T08:31:25.796053+00:00"
+  "last_updated": "2026-07-31T13:28:22.984101+00:00"
 }
