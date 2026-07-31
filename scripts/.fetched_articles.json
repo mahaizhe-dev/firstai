@@ -1,133 +1,5 @@
 {
   "articles": {
-    "31f97d95b033d252": {
-      "title": "独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
-      "fetched_at": "2026-07-23T08:09:14.160185+00:00"
-    },
-    "1af37a34deed1e14": {
-      "title": "商务部：中美双方经贸团队正在探讨推进各自300亿美元规模的对等降税的框架安排",
-      "fetched_at": "2026-07-23T08:09:14.799933+00:00"
-    },
-    "a8d04a8e67cba324": {
-      "title": "BrainStem: Open‑source bio‑inspired AI with 12 neuromodulators for learning",
-      "fetched_at": "2026-07-23T08:09:15.423638+00:00"
-    },
-    "2bdba0e4c4f1089f": {
-      "title": "Generative AI and the German Far Right: Narratives, Tactics, Digital Strategies [pdf]",
-      "fetched_at": "2026-07-23T08:09:16.064406+00:00"
-    },
-    "146e32faee077349": {
-      "title": "扩博智能Sparrow机器人27分钟修复单支叶片，刷新海上风电运维纪录",
-      "fetched_at": "2026-07-23T08:09:16.675296+00:00"
-    },
-    "74f5353a6191ce63": {
-      "title": "Why the US is losing Chinese AI stars",
-      "fetched_at": "2026-07-23T08:09:17.289759+00:00"
-    },
-    "fd8705512347660b": {
-      "title": "AI Firewall – Security Gateway and Reverse Proxy for LLM Traffic",
-      "fetched_at": "2026-07-23T08:09:17.988820+00:00"
-    },
-    "e6571cfe64119d04": {
-      "title": "SK海力士将股票转换为美国存托凭证的比例上限设定为2.5%",
-      "fetched_at": "2026-07-23T08:09:18.616221+00:00"
-    },
-    "60e1cad733277bab": {
-      "title": "Onipin nuevo protocolo un chat Para la AI inscribe la tuya",
-      "fetched_at": "2026-07-23T08:09:19.232025+00:00"
-    },
-    "3527c2c8a9c7e670": {
-      "title": "商务部：将进一步做强国内大循环，做优国内国际双循环",
-      "fetched_at": "2026-07-23T08:09:19.877677+00:00"
-    },
-    "588dd16471aaa804": {
-      "title": "Show HN: Ego lite – A Chromium browser where you and AI agents work in parallel",
-      "fetched_at": "2026-07-23T08:09:20.502146+00:00"
-    },
-    "6e1f7097ae2f13c7": {
-      "title": "山东省财金科创产业服务合伙企业登记成立，出资额2.9亿",
-      "fetched_at": "2026-07-23T08:09:21.110010+00:00"
-    },
-    "4b053dc931626c05": {
-      "title": "商务部：将加快培育服务消费新增长点",
-      "fetched_at": "2026-07-23T08:09:21.724466+00:00"
-    },
-    "5c569ce5f03b7eef": {
-      "title": "Seed STEM科学家计划启动，邀请100位学者探索AI加速科学发现",
-      "fetched_at": "2026-07-23T08:09:22.353467+00:00"
-    },
-    "f5ecdab8995cf98e": {
-      "title": "Show HN: Elpis – a Rust TUI for LLM agents with context pruning",
-      "fetched_at": "2026-07-23T08:09:22.966802+00:00"
-    },
-    "96f5a9ad7836d3bf": {
-      "title": "商务部：上半年外资企业、国有企业进出口均实现两位数增长",
-      "fetched_at": "2026-07-23T08:09:23.602739+00:00"
-    },
-    "6c69bcab00a27092": {
-      "title": "上半年近4800家外资企业追加对华投资",
-      "fetched_at": "2026-07-23T08:09:24.227941+00:00"
-    },
-    "e85a9837dd3f4ba8": {
-      "title": "科沃斯：上半年家用机器人海外出货量同比增长超80%",
-      "fetched_at": "2026-07-23T08:09:24.854677+00:00"
-    },
-    "ed914cc2c4b5a87a": {
-      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
-      "fetched_at": "2026-07-23T08:09:25.512360+00:00"
-    },
-    "6bbfdd99c9f9a0d6": {
-      "title": "A股三大指数收盘集体上涨，半导体领跌",
-      "fetched_at": "2026-07-23T08:09:26.173525+00:00"
-    },
-    "581a1fe2b8ccb33b": {
-      "title": "美國與沙特簽署核協議 為中東再引核擴散風險",
-      "fetched_at": "2026-07-23T08:09:28.695547+00:00"
-    },
-    "a50ec3b70fba2b0d": {
-      "title": "英國女子稱在香港遭強姦，法庭裁定她勒索等罪成判監六年",
-      "fetched_at": "2026-07-23T08:09:29.309123+00:00"
-    },
-    "5ea014f4b1065947": {
-      "title": "特朗普为沙特敞开铀浓缩之门，引发核扩散担忧",
-      "fetched_at": "2026-07-23T08:09:29.933020+00:00"
-    },
-    "10ad54f54872c4b3": {
-      "title": "“零至三小时睡眠”：高市早苗晒超负荷工作日常引发争议",
-      "fetched_at": "2026-07-23T08:09:30.555235+00:00"
-    },
-    "2250fb7282655ba1": {
-      "title": "经济举步维艰，巴基斯坦期盼美伊停战",
-      "fetched_at": "2026-07-23T08:09:31.174686+00:00"
-    },
-    "e2145f2c9dca2f9e": {
-      "title": "关于印度青年抗议活动，你应该知道的",
-      "fetched_at": "2026-07-23T08:09:31.792860+00:00"
-    },
-    "aed8387c889e458c": {
-      "title": "Science word of the day: Abiotic",
-      "fetched_at": "2026-07-23T08:09:36.921669+00:00"
-    },
-    "32bdb0f65b0469fe": {
-      "title": "Meet Phantom Twist, a stealthy new drone that hides in plain sight by tricking your eyes",
-      "fetched_at": "2026-07-23T08:09:37.530559+00:00"
-    },
-    "0732877a385b2809": {
-      "title": "Automated Discovery Has No Universally Superior Harness",
-      "fetched_at": "2026-07-23T08:09:38.219638+00:00"
-    },
-    "eb1f54ba2565072b": {
-      "title": "'It was unlike anything I'd witnessed before': Orcas seen headbutting a sunfish so hard that it exploded",
-      "fetched_at": "2026-07-23T08:09:38.850265+00:00"
-    },
-    "acdcb69c31f29882": {
-      "title": "Are there aliens on exoplanet K2-18b? Scientists just scanned it for signals",
-      "fetched_at": "2026-07-23T08:09:39.472972+00:00"
-    },
-    "dfb30fff9b0e88aa": {
-      "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
-      "fetched_at": "2026-07-23T08:09:40.134195+00:00"
-    },
     "d40b5daa9a16025b": {
       "title": "Anthropic is subsidizing our AI coding at 13x. How long will it last?",
       "fetched_at": "2026-07-23T13:21:26.761968+00:00"
@@ -3787,7 +3659,119 @@
     "b4fb149ca3f75616": {
       "title": "Possible Marks of Cannibalism Detected on Adult Homo Antecessor Fossils",
       "fetched_at": "2026-07-31T01:45:59.547617+00:00"
+    },
+    "87797d0737df1ec4": {
+      "title": "湖南省金芙蓉中非经贸深度合作服务基金登记成立，出资额5亿",
+      "fetched_at": "2026-07-31T08:31:05.383202+00:00"
+    },
+    "13e718af287d68a2": {
+      "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
+      "fetched_at": "2026-07-31T08:31:06.046206+00:00"
+    },
+    "85aae459d9c5e41a": {
+      "title": "蚂蚁国际：其全球账户服务已被超过半数的中国大中型游戏厂商所采用",
+      "fetched_at": "2026-07-31T08:31:06.699369+00:00"
+    },
+    "721a753d32f4a8dc": {
+      "title": "四部门：严把股东准入关口，穿透识别金融机构主要股东、实际控制人和受益所有人",
+      "fetched_at": "2026-07-31T08:31:07.343858+00:00"
+    },
+    "fe542a5a78120c65": {
+      "title": "Extending older smartphone lifespans with local-first AI and zero cloud uploads",
+      "fetched_at": "2026-07-31T08:31:07.989277+00:00"
+    },
+    "d753754111512e77": {
+      "title": "四部门：严惩违规占用资金、违规融资或担保、违规转移资产等行为 对重大问题依法依规实行终身问责",
+      "fetched_at": "2026-07-31T08:31:08.613281+00:00"
+    },
+    "18f67e4b9da02638": {
+      "title": "四部门：加强关联交易管理，强化关联方识别，规范对关联交易的审查和披露",
+      "fetched_at": "2026-07-31T08:31:09.266096+00:00"
+    },
+    "b3a1c65148d184dc": {
+      "title": "四部门：引导金融机构健全有利于可持续发展和战略目标实现的激励约束机制",
+      "fetched_at": "2026-07-31T08:31:09.889017+00:00"
+    },
+    "366128b59a041e19": {
+      "title": "四部门：严格规范股东行为，严禁金融机构向股东及其关联方输送利益",
+      "fetched_at": "2026-07-31T08:31:10.515470+00:00"
+    },
+    "9f61d127200eb74e": {
+      "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
+      "fetched_at": "2026-07-31T08:31:11.133326+00:00"
+    },
+    "4cee1eca3bacf50e": {
+      "title": "恒指收涨0.1%，恒生科技指数涨0.53%",
+      "fetched_at": "2026-07-31T08:31:11.814431+00:00"
+    },
+    "ae1984d06bcce565": {
+      "title": "Anthropic's Claude AI models hack into 3 outside groups during testing",
+      "fetched_at": "2026-07-31T08:31:12.520069+00:00"
+    },
+    "3eff42ec66d8b28d": {
+      "title": "四部门联合发布22条措施 健全金融机构治理",
+      "fetched_at": "2026-07-31T08:31:13.140925+00:00"
+    },
+    "f8b0293e501e8388": {
+      "title": "乐惠国际：向特定对象发行股票申请获证监会同意注册批复",
+      "fetched_at": "2026-07-31T08:31:13.819688+00:00"
+    },
+    "24ffe7ef37bdf86b": {
+      "title": "去哪儿：8月5日起燃油附加费再下调，800公里以上航线每人省30元",
+      "fetched_at": "2026-07-31T08:31:14.445449+00:00"
+    },
+    "900ab87a14a9e051": {
+      "title": "蓝盾光电：筹划重大资产交易，股票将继续停牌",
+      "fetched_at": "2026-07-31T08:31:15.064954+00:00"
+    },
+    "28ec25addb9a2fe2": {
+      "title": "腾讯AI虚拟细胞算法登《Cell》主刊，系国内首次",
+      "fetched_at": "2026-07-31T08:31:15.688849+00:00"
+    },
+    "a904536713aa64b7": {
+      "title": "北斗卫星导航系统已全面完成在轨升级",
+      "fetched_at": "2026-07-31T08:31:16.311967+00:00"
+    },
+    "c1ed70ac12fc682d": {
+      "title": "针对“幽灵外卖”将建“电子围栏”：证照经营场所、外卖制作地址、骑手取餐地址三重坐标比对",
+      "fetched_at": "2026-07-31T08:31:16.973731+00:00"
+    },
+    "48606777376dc24e": {
+      "title": "韩国据悉考虑放宽新半导体产业集群的劳动监管要求，取消每周52小时工时上限",
+      "fetched_at": "2026-07-31T08:31:17.658614+00:00"
+    },
+    "db64ac2d16068c07": {
+      "title": "Apple警告Mac、iPhone及iPad未來將面臨「供應限制」",
+      "fetched_at": "2026-07-31T08:31:19.952608+00:00"
+    },
+    "15c47f319d095f93": {
+      "title": "特朗普公佈加沙繳械計劃 哈馬斯向BBC證實同意",
+      "fetched_at": "2026-07-31T08:31:20.619954+00:00"
+    },
+    "d296121300ece396": {
+      "title": "通胀加剧，美国经济增速放缓",
+      "fetched_at": "2026-07-31T08:31:21.236834+00:00"
+    },
+    "f12e651bc05ea773": {
+      "title": "美国航母停靠岘港，促进美越安全纽带并向中国展示实力",
+      "fetched_at": "2026-07-31T08:31:21.902239+00:00"
+    },
+    "082f9f8d4c9b4152": {
+      "title": "中国经济持续疲软，北京拟加大刺激但未见重大政策转向",
+      "fetched_at": "2026-07-31T08:31:22.593741+00:00"
+    },
+    "ce702bde22304c2f": {
+      "title": "人到中年，九个可能帮助你延长寿命的习惯",
+      "fetched_at": "2026-07-31T08:31:23.250927+00:00"
+    },
+    "fbfc0f78be3438cb": {
+      "title": "福奇听证会，一场政治闹剧",
+      "fetched_at": "2026-07-31T08:31:23.877929+00:00"
+    },
+    "415767e0a49acf18": {
+      "title": "Science word of they day: Covalent",
+      "fetched_at": "2026-07-31T08:31:25.653237+00:00"
     }
   },
-  "last_updated": "2026-07-31T01:45:59.652754+00:00"
+  "last_updated": "2026-07-31T08:31:25.796053+00:00"
 }
