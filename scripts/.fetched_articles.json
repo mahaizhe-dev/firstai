@@ -1,121 +1,5 @@
 {
   "articles": {
-    "6882dc29d844e58a": {
-      "title": "AI Casino",
-      "fetched_at": "2026-07-23T18:56:36.538783+00:00"
-    },
-    "d76c3b40e05bca3f": {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "fetched_at": "2026-07-23T18:56:37.138039+00:00"
-    },
-    "2b5a5a1cb4f95f6b": {
-      "title": "AI bet goes awry: Oracle fires 21,000 employees",
-      "fetched_at": "2026-07-23T18:56:37.816039+00:00"
-    },
-    "d40660c1e64344f0": {
-      "title": "Accidental data loss in Claude Code and OpenAI Codex: when AI deletes user files",
-      "fetched_at": "2026-07-23T18:56:38.417512+00:00"
-    },
-    "91874933554a9c3b": {
-      "title": "Fail-closed enforcement for AI agents: deny what you cannot verify",
-      "fetched_at": "2026-07-23T18:56:39.009677+00:00"
-    },
-    "2bd8e100bfd25a15": {
-      "title": "Qwen 3.8-Max: Interviewing the AI About Itself",
-      "fetched_at": "2026-07-23T18:56:39.617308+00:00"
-    },
-    "efb2020a556cfd60": {
-      "title": "You don't need an LLM to cluster LLM traces",
-      "fetched_at": "2026-07-23T18:56:40.199212+00:00"
-    },
-    "0fc30bb4685b683a": {
-      "title": "Utilities Join Trump Pledge to Limit AI-Driven Increases in Electricity Bills",
-      "fetched_at": "2026-07-23T18:56:40.784894+00:00"
-    },
-    "53fd97276feffb2b": {
-      "title": "In-House LLM Serving at Netflix",
-      "fetched_at": "2026-07-23T18:56:40.785003+00:00"
-    },
-    "76ee316506e8fc89": {
-      "title": "Rethinking Legal Education in the AI Era",
-      "fetched_at": "2026-07-23T18:56:41.388296+00:00"
-    },
-    "5f631c75cd6f7ff3": {
-      "title": "Show HN: Setoku – Self-hosted knowledge server for AI agents",
-      "fetched_at": "2026-07-23T18:56:41.997532+00:00"
-    },
-    "13e87dd2ab3f186d": {
-      "title": "Advancing AI 2026 – Build What's Next with AMD [video]",
-      "fetched_at": "2026-07-23T18:56:42.594662+00:00"
-    },
-    "198cdf5cae447a60": {
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "fetched_at": "2026-07-23T18:56:43.198138+00:00"
-    },
-    "9bef270148e0e620": {
-      "title": "Google just had its first negative cash flow quarter due to AI spending",
-      "fetched_at": "2026-07-23T18:56:43.792575+00:00"
-    },
-    "a8ecca4751999245": {
-      "title": "The Download: energy transmission and US threats against Chinese AI",
-      "fetched_at": "2026-07-23T18:56:44.423765+00:00"
-    },
-    "ed999ea6957421a5": {
-      "title": "Google burning through cash with spiralling AI costs",
-      "fetched_at": "2026-07-23T18:56:45.031729+00:00"
-    },
-    "4ffa38bd140d2d6d": {
-      "title": "Are we in the era of AI slop landing pages?",
-      "fetched_at": "2026-07-23T18:56:45.633200+00:00"
-    },
-    "4d9e302bf0366f9f": {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "fetched_at": "2026-07-23T18:56:46.241788+00:00"
-    },
-    "317d148f53785ce1": {
-      "title": "After shocking quarter, IBM insists that AI isn't killing the mainframe",
-      "fetched_at": "2026-07-23T18:56:46.845759+00:00"
-    },
-    "13ac42da4acc706c": {
-      "title": "Show HN: Cloud for your AI Agent's tools/fuctions",
-      "fetched_at": "2026-07-23T18:56:47.454869+00:00"
-    },
-    "8bafdd2fbd4b3cac": {
-      "title": "台灣陸配參選資格「設籍滿十年」改「除籍滿十年」意味什麼？",
-      "fetched_at": "2026-07-23T18:56:50.608585+00:00"
-    },
-    "e05f58be170177f4": {
-      "title": "'We're trying this out of frustration': Marmots star in OnlyFans account as researchers desperately look for ways to raise funds amid US budget cuts",
-      "fetched_at": "2026-07-23T18:56:53.826178+00:00"
-    },
-    "6417b0b6a64be527": {
-      "title": "'Extremely rare' Roman military camp found in Slovakia holds hastily buried remains of Marcus Aurelius' soldiers — with some dumped in wells",
-      "fetched_at": "2026-07-23T18:56:54.460505+00:00"
-    },
-    "9df42fe62c347943": {
-      "title": "Ancient Bronze Age shaman long assumed to be a man was a woman",
-      "fetched_at": "2026-07-23T18:56:55.064904+00:00"
-    },
-    "01850137d596ea82": {
-      "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
-      "fetched_at": "2026-07-23T18:56:55.664962+00:00"
-    },
-    "f9a9fad4d0ea8bfe": {
-      "title": "A healthier global diet could cut farm emissions by 85%",
-      "fetched_at": "2026-07-23T18:56:56.268479+00:00"
-    },
-    "5ed04a2d868b1bf1": {
-      "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
-      "fetched_at": "2026-07-23T18:56:56.868908+00:00"
-    },
-    "8c8a9a954ade9acd": {
-      "title": "NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems",
-      "fetched_at": "2026-07-23T18:56:57.465483+00:00"
-    },
-    "5a68188dd2016105": {
-      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
-      "fetched_at": "2026-07-23T18:56:58.071614+00:00"
-    },
     "066f98f344385329": {
       "title": "央行公开市场开展890亿元7天期逆回购操作",
       "fetched_at": "2026-07-24T01:29:56.864326+00:00"
@@ -3759,7 +3643,103 @@
     "d65815f7c290e915": {
       "title": "Through the Lens of an Ancient Yisra'elite Bible Study",
       "fetched_at": "2026-07-31T13:28:22.874666+00:00"
+    },
+    "0c8338498c9651a6": {
+      "title": "The icons that might solve Hollywood's AI problem [video]",
+      "fetched_at": "2026-07-31T19:05:38.550050+00:00"
+    },
+    "4084af966c0f43d6": {
+      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+      "fetched_at": "2026-07-31T19:05:39.167032+00:00"
+    },
+    "0a23b312d98f95c8": {
+      "title": "Did Situational Awareness inflate the AI bubble?",
+      "fetched_at": "2026-07-31T19:05:39.761308+00:00"
+    },
+    "3d1271da1d327b1d": {
+      "title": "Bursty arrivals speed up LLM inference",
+      "fetched_at": "2026-07-31T19:05:40.379724+00:00"
+    },
+    "4dc7fb146850889e": {
+      "title": "The problem with putting an AI image generator in Google Earth",
+      "fetched_at": "2026-07-31T19:05:40.967314+00:00"
+    },
+    "eb90fc7bbe1c5b90": {
+      "title": "AI's Wildest Spenders Are Hitting the Accelerator",
+      "fetched_at": "2026-07-31T19:05:41.551558+00:00"
+    },
+    "9fd3ec6c2df2c2d2": {
+      "title": "The market's big AI doubts are exposing the riskiest players",
+      "fetched_at": "2026-07-31T19:05:42.140044+00:00"
+    },
+    "67d1b497d9fa17f4": {
+      "title": "What LLM Inference Costs",
+      "fetched_at": "2026-07-31T19:05:42.741954+00:00"
+    },
+    "a09e7c2fb2f4d72e": {
+      "title": "Neuro-Inspired Inverse Learning for Planning and Control",
+      "fetched_at": "2026-07-31T19:05:43.350337+00:00"
+    },
+    "0c0b8a74a0d3d3ec": {
+      "title": "AI bubble will burst if 10-year moves above 5%, says Breakout Capital's Sharma",
+      "fetched_at": "2026-07-31T19:05:43.937117+00:00"
+    },
+    "b9ba769123e310c6": {
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "fetched_at": "2026-07-31T19:05:44.521685+00:00"
+    },
+    "8ab4c17f743bacca": {
+      "title": "Chinese military researchers tap US AI models to train defense systems",
+      "fetched_at": "2026-07-31T19:05:45.103262+00:00"
+    },
+    "a51dae0b4a1663f7": {
+      "title": "Graph Engineering: The Missing Skill in AI",
+      "fetched_at": "2026-07-31T19:05:45.698994+00:00"
+    },
+    "945272abfe548248": {
+      "title": "Contextor-spare LLM tokens required for full structural analysis of Python repo",
+      "fetched_at": "2026-07-31T19:05:46.283349+00:00"
+    },
+    "5b67c1989c29920f": {
+      "title": "Building an Infinite Memory Local AI Stack on Fedora",
+      "fetched_at": "2026-07-31T19:05:46.878600+00:00"
+    },
+    "0fb8347ca3b1b8b3": {
+      "title": "AI Is Getting Way Too Expensive",
+      "fetched_at": "2026-07-31T19:05:47.471838+00:00"
+    },
+    "c0f941de202711bc": {
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "fetched_at": "2026-07-31T19:05:48.067408+00:00"
+    },
+    "05c6b74e61ab8a28": {
+      "title": "Why your company should (try to) build its own AI SRE",
+      "fetched_at": "2026-07-31T19:05:48.649096+00:00"
+    },
+    "5a54e64d6d507b06": {
+      "title": "AI News for Vibe Coders – Daily Brief (July 31, 2026)",
+      "fetched_at": "2026-07-31T19:05:49.243832+00:00"
+    },
+    "ee03caba3c6eac3b": {
+      "title": "New Yorker Riza Berkan: LLM versus Ontology for Efficient ML [video]",
+      "fetched_at": "2026-07-31T19:05:49.837169+00:00"
+    },
+    "e31f8f17e26b2910": {
+      "title": "網傳胡錦濤舉家身亡 秦楓稱流傳帖文屬冒用",
+      "fetched_at": "2026-07-31T19:05:52.251895+00:00"
+    },
+    "6ae4558354453cef": {
+      "title": "Hundreds of Geoglyphs Discovered in Amazon Rainforest",
+      "fetched_at": "2026-07-31T19:06:09.140908+00:00"
+    },
+    "4cf6ecebd9c6f1d1": {
+      "title": "'We are not giving up yet': Private mission to rescue NASA's Swift telescope is spinning out of control, and engineers are racing to fix it",
+      "fetched_at": "2026-07-31T19:06:09.732467+00:00"
+    },
+    "30b03f22172cb16d": {
+      "title": "'We weren't really looking for' it: Astronomers accidentally discover 2 supernovas that exploded from a single star system in cosmic first",
+      "fetched_at": "2026-07-31T19:06:10.319343+00:00"
     }
   },
-  "last_updated": "2026-07-31T13:28:22.984101+00:00"
+  "last_updated": "2026-07-31T19:06:10.437546+00:00"
 }
