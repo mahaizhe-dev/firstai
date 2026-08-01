@@ -1,133 +1,5 @@
 {
   "articles": {
-    "21bd1eda1abd6d18": {
-      "title": "SK海力士开启招聘3D堆叠式DRAM逻辑设计工程师",
-      "fetched_at": "2026-07-24T08:04:43.334650+00:00"
-    },
-    "60779707342b5d4d": {
-      "title": "宁德时代入股屹艮科技",
-      "fetched_at": "2026-07-24T08:04:43.961798+00:00"
-    },
-    "f52b67ad07ab83f3": {
-      "title": "Naming a pattern in AI-generated code: Modular Mirage",
-      "fetched_at": "2026-07-24T08:04:44.574320+00:00"
-    },
-    "32a80a9c3041baa8": {
-      "title": "海特生物：注射用埃普奈明临床试验申请获得受理",
-      "fetched_at": "2026-07-24T08:04:45.211634+00:00"
-    },
-    "d3fae768cb6d3b77": {
-      "title": "申通地铁：控股子公司签订约4.61亿元日常经营合同",
-      "fetched_at": "2026-07-24T08:04:45.834194+00:00"
-    },
-    "81c77ae50e672610": {
-      "title": "华电国际：上半年累计完成发电量同比下降约10.65%",
-      "fetched_at": "2026-07-24T08:04:46.457918+00:00"
-    },
-    "9221c8178371b94b": {
-      "title": "Oracle severed 21,000 employees during an AI spending spree",
-      "fetched_at": "2026-07-24T08:04:47.075510+00:00"
-    },
-    "6ba2863c499210bc": {
-      "title": "日本消费者大举购入珠宝，对冲日元贬值风险",
-      "fetched_at": "2026-07-24T08:04:47.704869+00:00"
-    },
-    "f74820065153670e": {
-      "title": "Beyond Static Summarization: Proactive Memory Extraction for LLM Agents",
-      "fetched_at": "2026-07-24T08:04:48.333627+00:00"
-    },
-    "d1c41027bb276794": {
-      "title": "消息称MacBook Neo 2拟搭载A19 Pro芯片和12GB内存",
-      "fetched_at": "2026-07-24T08:04:48.967547+00:00"
-    },
-    "d104e6d71d09669b": {
-      "title": "HN: FlowShelf –free,native macOS shelf/clipboard/screenshot app,on-device AI",
-      "fetched_at": "2026-07-24T08:04:49.585043+00:00"
-    },
-    "2479cdf262ccac40": {
-      "title": "AI Overviews could push Reddit to end its $60M-a-year deal with Google",
-      "fetched_at": "2026-07-24T08:04:50.241903+00:00"
-    },
-    "04b452d6359aa5ee": {
-      "title": "高德包车正式上线",
-      "fetched_at": "2026-07-24T08:04:50.886201+00:00"
-    },
-    "b848400ff384b16b": {
-      "title": "Show HN: Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC",
-      "fetched_at": "2026-07-24T08:04:51.519108+00:00"
-    },
-    "78f75ce9b01ca1d4": {
-      "title": "On AI",
-      "fetched_at": "2026-07-24T08:04:52.141792+00:00"
-    },
-    "735c0dbd82821196": {
-      "title": "贝恩资本收购英国第一大维生素品牌Vitabiotics",
-      "fetched_at": "2026-07-24T08:04:52.776368+00:00"
-    },
-    "0d57fd27b0579d5f": {
-      "title": "福特在美召回超56万辆Bronco车型，因发动机舱线束短路存起火风险",
-      "fetched_at": "2026-07-24T08:04:53.395484+00:00"
-    },
-    "d503f5b1fa2f6a17": {
-      "title": "中国人寿回应减持兆易创新",
-      "fetched_at": "2026-07-24T08:04:54.035211+00:00"
-    },
-    "71d4f7f604cce854": {
-      "title": "Show HN: Continuum – switch AI coding agents without re-explaining your project",
-      "fetched_at": "2026-07-24T08:04:54.681829+00:00"
-    },
-    "9cbddeb93580353d": {
-      "title": "A股三大指数集体收跌，两市近5000股飘绿",
-      "fetched_at": "2026-07-24T08:04:55.306647+00:00"
-    },
-    "ff17e58ee1040d1b": {
-      "title": "為何越來越多年輕女性罹患第二型糖尿病",
-      "fetched_at": "2026-07-24T08:04:57.412456+00:00"
-    },
-    "3c23161a4eb707dc": {
-      "title": "美國以「強迫勞動」為由徵新關稅，影響中國、台灣等60個貿易夥伴",
-      "fetched_at": "2026-07-24T08:04:58.029481+00:00"
-    },
-    "d1e34dbde8fdde78": {
-      "title": "印度青年抗议：一场莫迪始料未及的政治危机",
-      "fetched_at": "2026-07-24T08:04:58.662982+00:00"
-    },
-    "892ae7e6d7d95fcd": {
-      "title": "美中AI科技戰：白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術",
-      "fetched_at": "2026-07-24T08:04:59.298010+00:00"
-    },
-    "734f80b77c03d4ed": {
-      "title": "為什麼你總是在凌晨三點醒來？",
-      "fetched_at": "2026-07-24T08:04:59.930531+00:00"
-    },
-    "f2a920fd399828fb": {
-      "title": "多地40度高温，日本创造新词“酷暑日”",
-      "fetched_at": "2026-07-24T08:05:00.546241+00:00"
-    },
-    "6cac59884cb86736": {
-      "title": "美国将对80多个国家加征10%至12.5%关税",
-      "fetched_at": "2026-07-24T08:05:01.188109+00:00"
-    },
-    "6be48e3ff3aa5372": {
-      "title": "中国打造新型软实力：开放、低成本的人工智能",
-      "fetched_at": "2026-07-24T08:05:01.801402+00:00"
-    },
-    "0acff10e6fd20c07": {
-      "title": "中国人工智能的制胜之道",
-      "fetched_at": "2026-07-24T08:05:02.440644+00:00"
-    },
-    "26fc03f7771eadd6": {
-      "title": "安倍的“幽灵”：高市早苗捍卫“恩师”，推进民族主义议程",
-      "fetched_at": "2026-07-24T08:05:03.058446+00:00"
-    },
-    "252016d5f059ca5e": {
-      "title": "对韩国而言，美沙核协议暴露美国双重标准",
-      "fetched_at": "2026-07-24T08:05:03.680009+00:00"
-    },
-    "5404618aa20d838b": {
-      "title": "Science word of the day: Parsec",
-      "fetched_at": "2026-07-24T08:05:06.863823+00:00"
-    },
     "0f21c71bf4b6ecb5": {
       "title": "How AI is quietly making your team fragile",
       "fetched_at": "2026-07-24T13:14:57.236390+00:00"
@@ -3803,7 +3675,111 @@
     "fd9881ec2b634059": {
       "title": "韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%",
       "fetched_at": "2026-08-01T08:00:55.609446+00:00"
+    },
+    "65c0a89e2311e125": {
+      "title": "A Field Guide to the AI Security Market",
+      "fetched_at": "2026-08-01T12:52:59.404386+00:00"
+    },
+    "d07d4b9235bb8d94": {
+      "title": "July 2026 in AI",
+      "fetched_at": "2026-08-01T12:53:00.007232+00:00"
+    },
+    "da7394a58f60d8d3": {
+      "title": "Google AI Overviews have gone from appearing in 15% of searches to 43% now",
+      "fetched_at": "2026-08-01T12:53:00.625662+00:00"
+    },
+    "ac86b71618838fec": {
+      "title": "Integrate LLM into your Python runtime",
+      "fetched_at": "2026-08-01T12:53:01.243473+00:00"
+    },
+    "7b5fcecb61ca5dbe": {
+      "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+      "fetched_at": "2026-08-01T12:53:01.849509+00:00"
+    },
+    "9a46c45701fd1764": {
+      "title": "Building biology AI models autonomously",
+      "fetched_at": "2026-08-01T12:53:02.468795+00:00"
+    },
+    "38c4d4e0cef0c949": {
+      "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
+      "fetched_at": "2026-08-01T12:53:03.097029+00:00"
+    },
+    "9ce38cd5fc543cc2": {
+      "title": "Newspaper archives still trump answers generated by AI",
+      "fetched_at": "2026-08-01T12:53:03.718806+00:00"
+    },
+    "c54bdacad5e5c3dd": {
+      "title": "I built a tracker and comparison platform for AI video models",
+      "fetched_at": "2026-08-01T12:53:04.331022+00:00"
+    },
+    "9acf895354f1a4e8": {
+      "title": "Taboo \"equilibrium\": Less confused frames for research on AI bargaining",
+      "fetched_at": "2026-08-01T12:53:04.944877+00:00"
+    },
+    "4f3ab9e092431e38": {
+      "title": "Skin-Deep Bias: How Avatar Appearances Shape Perceptions of AI Hiring",
+      "fetched_at": "2026-08-01T12:53:05.586086+00:00"
+    },
+    "7f8d290ad8141d21": {
+      "title": "AI Is Superhuman Wherever the Scoreboard Is Cheap",
+      "fetched_at": "2026-08-01T12:53:06.185016+00:00"
+    },
+    "cd156c0e76677983": {
+      "title": "Show HN: I built an RPG engine where an LLM narrates the GM, not the rules",
+      "fetched_at": "2026-08-01T12:53:06.801576+00:00"
+    },
+    "c06d34506bf999b4": {
+      "title": "AI: Considerations for people who make decisions",
+      "fetched_at": "2026-08-01T12:53:07.401041+00:00"
+    },
+    "c453abf75ddd0f48": {
+      "title": "How OpenAI Lost Its AI Crown–and the Fight to Win It Back",
+      "fetched_at": "2026-08-01T12:53:08.017912+00:00"
+    },
+    "bff063d1e3111ca7": {
+      "title": "A Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "fetched_at": "2026-08-01T12:53:08.607562+00:00"
+    },
+    "648075a504ffb252": {
+      "title": "Anthropic says its AI models also hacked three organizations on their own",
+      "fetched_at": "2026-08-01T12:53:09.210113+00:00"
+    },
+    "ac56bc489e5f2202": {
+      "title": "AI coding agents should optimize for less owned code",
+      "fetched_at": "2026-08-01T12:53:09.821897+00:00"
+    },
+    "b1994469a09cc93c": {
+      "title": "AI labels to be compulsory on authentic-looking content under EU rules",
+      "fetched_at": "2026-08-01T12:53:10.446939+00:00"
+    },
+    "a29d4804907c879b": {
+      "title": "Kill Chain: How AI Is Transforming Modern Warfare [video]",
+      "fetched_at": "2026-08-01T12:53:11.061431+00:00"
+    },
+    "7cdc893bc46738cb": {
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "fetched_at": "2026-08-01T12:53:13.841078+00:00"
+    },
+    "6218a55a89a16557": {
+      "title": "Total eclipse, shooting stars, and the Milky Way: Why Aug. 12 could be the greatest single day and night for skywatching for years",
+      "fetched_at": "2026-08-01T12:53:16.132503+00:00"
+    },
+    "210d7b0454a7a560": {
+      "title": "Science news this week: Secret lives of whale sharks revealed, Earth's coldest temperature registered, and Amazonian geoglyphs show clues to lost civilization",
+      "fetched_at": "2026-08-01T12:53:16.730380+00:00"
+    },
+    "6a20d9c153f4437c": {
+      "title": "Why do cats have 'leg whiskers'?",
+      "fetched_at": "2026-08-01T12:53:17.361210+00:00"
+    },
+    "48d5932bb47624c7": {
+      "title": "Web and multimedia discovery, code search and local file exploration",
+      "fetched_at": "2026-08-01T12:53:17.951739+00:00"
+    },
+    "30cb65f589db9ee9": {
+      "title": "De mora luminis: Roemer's discovery 350 years later",
+      "fetched_at": "2026-08-01T12:53:18.559093+00:00"
     }
   },
-  "last_updated": "2026-08-01T08:01:01.645975+00:00"
+  "last_updated": "2026-08-01T12:53:18.660826+00:00"
 }
