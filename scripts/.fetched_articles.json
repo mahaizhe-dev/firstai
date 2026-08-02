@@ -1,217 +1,5 @@
 {
   "articles": {
-    "bfe10eebc443fa18": {
-      "title": "Quil – a reboot-proof terminal multiplexer that resumes AI sessions",
-      "fetched_at": "2026-07-25T12:57:46.516562+00:00"
-    },
-    "2efbaee1d3afa920": {
-      "title": "The University After AI",
-      "fetched_at": "2026-07-25T12:57:47.084155+00:00"
-    },
-    "0bfdc9248334b14d": {
-      "title": "Saga: Source Attribution of Generative AI Videos (identifies the model used)",
-      "fetched_at": "2026-07-25T12:57:47.658767+00:00"
-    },
-    "79781f478c57d7d6": {
-      "title": "Epistemic Engine – verify AI-generated code and forecast what will break",
-      "fetched_at": "2026-07-25T12:57:48.236896+00:00"
-    },
-    "c8522c15ba427d06": {
-      "title": "Show HN: Give your AI ears – live meeting transcripts over MCP on macOS",
-      "fetched_at": "2026-07-25T12:57:48.815589+00:00"
-    },
-    "d8d2eae58c550be0": {
-      "title": "Agentreg – DNS for AI agents (self-hosted, single Go binary)",
-      "fetched_at": "2026-07-25T12:57:49.411705+00:00"
-    },
-    "da21413e9b5f4d6e": {
-      "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
-      "fetched_at": "2026-07-25T12:57:49.992792+00:00"
-    },
-    "b1578e5daece3af1": {
-      "title": "1Password: Take control of AI spend with SaaS Manager",
-      "fetched_at": "2026-07-25T12:57:50.570655+00:00"
-    },
-    "154988d64dbea895": {
-      "title": "Show HN: Which investing school are you? Free AI diagnostic and Prompt Library",
-      "fetched_at": "2026-07-25T12:57:51.158071+00:00"
-    },
-    "85e13c3d53a1245a": {
-      "title": "Sandbox-bwrap-Nix: A lightweight sandbox for AI agents and experiments",
-      "fetched_at": "2026-07-25T12:57:51.731349+00:00"
-    },
-    "364a83decb73e54c": {
-      "title": "Show HN: AgentState – Open-source resilience and caching proxy for AI agents",
-      "fetched_at": "2026-07-25T12:57:52.300944+00:00"
-    },
-    "15a577076588c336": {
-      "title": "《2026能源产业生态报告》发布 风电光伏装机超越火电",
-      "fetched_at": "2026-07-25T12:57:52.872924+00:00"
-    },
-    "f9e7c53054d9e078": {
-      "title": "Show HN: AI codebase analyser and auto-fixer",
-      "fetched_at": "2026-07-25T12:57:53.435657+00:00"
-    },
-    "f12e5a4ee8ac1140": {
-      "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
-      "fetched_at": "2026-07-25T12:57:54.013355+00:00"
-    },
-    "d51ce5a66f2e30f4": {
-      "title": "今年上半年新疆霍尔果斯口岸进出口货运量创新高",
-      "fetched_at": "2026-07-25T12:57:54.584036+00:00"
-    },
-    "4d3458652cb9a06b": {
-      "title": "Case Study: AI Trainer Platform and Job Board [Months 1-6]",
-      "fetched_at": "2026-07-25T12:57:55.159108+00:00"
-    },
-    "bb037142ba40886d": {
-      "title": "Show HN: AI Toolbox supports Claude Opus 5",
-      "fetched_at": "2026-07-25T12:57:55.729794+00:00"
-    },
-    "5dc41ef8c3988172": {
-      "title": "Code mode can help smaller LLM models",
-      "fetched_at": "2026-07-25T12:57:56.301506+00:00"
-    },
-    "1ba3590f3f6d7db1": {
-      "title": "奇瑞集团全球累计销量突破2000万辆",
-      "fetched_at": "2026-07-25T12:57:56.877599+00:00"
-    },
-    "4602decd6634647b": {
-      "title": "Why a philosopher turned down Anthropic (AI industry asking the wrong questions)",
-      "fetched_at": "2026-07-25T12:57:57.473171+00:00"
-    },
-    "876f33347413f7f8": {
-      "title": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened.",
-      "fetched_at": "2026-07-25T12:58:04.160166+00:00"
-    },
-    "e826c20044d1888b": {
-      "title": "How to watch 'Shark Week' 2026 — schedule, dates & episodes",
-      "fetched_at": "2026-07-25T12:58:04.732414+00:00"
-    },
-    "fc9b76d8cccd16f4": {
-      "title": "Are quasiparticles real?",
-      "fetched_at": "2026-07-25T12:58:05.306543+00:00"
-    },
-    "d0cff0d740394779": {
-      "title": "Science word of the day: Lithics",
-      "fetched_at": "2026-07-25T12:58:05.885489+00:00"
-    },
-    "203b0c19cdd93ff1": {
-      "title": "Leveraging AI for Automated Reverse Engineering of Legacy Software Systems",
-      "fetched_at": "2026-07-25T18:49:50.341898+00:00"
-    },
-    "2e668c0ad5ced690": {
-      "title": "What is the status on continual learning for LLMs?",
-      "fetched_at": "2026-07-25T18:49:50.914730+00:00"
-    },
-    "647d894347359e2f": {
-      "title": "Home of local AI and useful web tools",
-      "fetched_at": "2026-07-25T18:49:51.476857+00:00"
-    },
-    "159db4d379517967": {
-      "title": "OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure",
-      "fetched_at": "2026-07-25T18:49:52.049091+00:00"
-    },
-    "3b6ef0abd15a9d02": {
-      "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)",
-      "fetched_at": "2026-07-25T18:49:52.618492+00:00"
-    },
-    "5279df0f2a286d1f": {
-      "title": "Ask HN: What do you do when your AI agents are working?",
-      "fetched_at": "2026-07-25T18:49:53.196654+00:00"
-    },
-    "a6ae8399c34557ef": {
-      "title": "Ask HN: How's your experience with the Siri AI beta?",
-      "fetched_at": "2026-07-25T18:49:53.777914+00:00"
-    },
-    "1f75fdf9ee326150": {
-      "title": "Persistent State Machine: Breaking the von Neumann Memory Wall for LLM Attention",
-      "fetched_at": "2026-07-25T18:49:54.354079+00:00"
-    },
-    "608ecee11e1d5de3": {
-      "title": "AI in the Breach: How an Adversary Leveraged AI to Target a Water Utility's OT",
-      "fetched_at": "2026-07-25T18:49:54.924598+00:00"
-    },
-    "b76230b252426bf0": {
-      "title": "The rock star founder behind China's Moonshot AI",
-      "fetched_at": "2026-07-25T18:49:55.522732+00:00"
-    },
-    "a80831607b78d55e": {
-      "title": "A system prompt to get AI to stop pretending to be human",
-      "fetched_at": "2026-07-25T18:49:56.082291+00:00"
-    },
-    "d4f55e0cec1faf29": {
-      "title": "Silicon Valley Is Completely Divided over Chinese AI",
-      "fetched_at": "2026-07-25T18:49:56.654584+00:00"
-    },
-    "7487d955fcebd6a6": {
-      "title": "Show HN: Tongue – Text Your AI Personal Assistant",
-      "fetched_at": "2026-07-25T18:49:57.225675+00:00"
-    },
-    "a02e4f07247d528f": {
-      "title": "Show HN: Protoai – an open source peer-to-peer network for sharing AI contexts",
-      "fetched_at": "2026-07-25T18:49:57.798568+00:00"
-    },
-    "50a2f1b35e36db5a": {
-      "title": "Apple Is the King of AI and Nobody Knows It",
-      "fetched_at": "2026-07-25T18:49:58.366519+00:00"
-    },
-    "533b93fac9dd12d1": {
-      "title": "Show HN: Avatar-cursor – an AI shop assistant",
-      "fetched_at": "2026-07-25T18:49:58.940870+00:00"
-    },
-    "9a58b2c166f999cb": {
-      "title": "Politician reads AI prompt during assembly",
-      "fetched_at": "2026-07-25T18:49:59.521979+00:00"
-    },
-    "d4dae90853f939fb": {
-      "title": "Show HN: Free mentor for learning programming languages, fast and efficient",
-      "fetched_at": "2026-07-25T18:50:00.105137+00:00"
-    },
-    "f646400e991ee1f2": {
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "fetched_at": "2026-07-25T18:50:00.673730+00:00"
-    },
-    "80c49d6abc3f605a": {
-      "title": "People are deceiving the justice system with AI",
-      "fetched_at": "2026-07-25T18:50:01.247082+00:00"
-    },
-    "7e8a39df1f434130": {
-      "title": "特朗普政府收緊外國學生簽證規定",
-      "fetched_at": "2026-07-25T18:50:03.567310+00:00"
-    },
-    "73e83f7235eaddc6": {
-      "title": "曾研究朝鮮核試驗，美籍華裔地震學家陳友麟遭中國拘留",
-      "fetched_at": "2026-07-25T18:50:04.135572+00:00"
-    },
-    "4934c773e82f66db": {
-      "title": "California Historical Radio Society",
-      "fetched_at": "2026-07-25T18:50:11.791177+00:00"
-    },
-    "e5639ebf107d6a1f": {
-      "title": "Archaeologists find 2,800-year-old burial of person clutching sea turtle vessel in El Salvador",
-      "fetched_at": "2026-07-25T18:50:12.372740+00:00"
-    },
-    "79cbf760f99c61d0": {
-      "title": "Scientists put the “recycling is a distraction” claim to the test",
-      "fetched_at": "2026-07-25T18:50:12.954185+00:00"
-    },
-    "6c97f8850b8bf335": {
-      "title": "The Universe can outrun light without breaking Einstein’s rules",
-      "fetched_at": "2026-07-25T18:50:13.534692+00:00"
-    },
-    "37cee926c084fc0f": {
-      "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
-      "fetched_at": "2026-07-25T18:50:14.110533+00:00"
-    },
-    "f651730cb1205a9e": {
-      "title": "Venus may be tearing itself apart from within",
-      "fetched_at": "2026-07-25T18:50:14.700473+00:00"
-    },
-    "416e8f59f0b9f606": {
-      "title": "Scientists discover the Sun contains 55% more silver than expected",
-      "fetched_at": "2026-07-25T18:50:15.271272+00:00"
-    },
     "a5ab756cfd7d0a35": {
       "title": "中南大学：收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查",
       "fetched_at": "2026-07-26T01:44:07.194342+00:00"
@@ -3811,7 +3599,115 @@
     "ea98a3ff27b7e88a": {
       "title": "Did Celtic women fight in battle?",
       "fetched_at": "2026-08-02T12:55:42.159290+00:00"
+    },
+    "0e17d8ffa438584f": {
+      "title": "AI-assisted analytics now 10x cheaper",
+      "fetched_at": "2026-08-02T18:52:32.799889+00:00"
+    },
+    "381e35eb909b8c43": {
+      "title": "AI and the iPod Test",
+      "fetched_at": "2026-08-02T18:52:33.429339+00:00"
+    },
+    "b6bf1ea4ac5e0878": {
+      "title": "Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees",
+      "fetched_at": "2026-08-02T18:52:34.055371+00:00"
+    },
+    "74e3c34666537bc6": {
+      "title": "Show HN: Mousecrack – Bypass captchas with deep learning",
+      "fetched_at": "2026-08-02T18:52:34.677423+00:00"
+    },
+    "a6247f48d2c69b4c": {
+      "title": "YouTuber Hank Green says his AI usage is 'not healthy'",
+      "fetched_at": "2026-08-02T18:52:35.312082+00:00"
+    },
+    "b695b0e5ce186a77": {
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "fetched_at": "2026-08-02T18:52:35.987258+00:00"
+    },
+    "732d02b4c2e760ad": {
+      "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
+      "fetched_at": "2026-08-02T18:52:36.615646+00:00"
+    },
+    "b0d0a9728866bf2a": {
+      "title": "AI-Powered Container Standardization",
+      "fetched_at": "2026-08-02T18:52:37.238629+00:00"
+    },
+    "73f6e1d99a727bdd": {
+      "title": "AI is getting better at writing. Humans must get better at editing",
+      "fetched_at": "2026-08-02T18:52:37.852828+00:00"
+    },
+    "e5ed6f6ed1a30e65": {
+      "title": "A stricter TypeScript for a world where AI writes most of the code",
+      "fetched_at": "2026-08-02T18:52:38.485846+00:00"
+    },
+    "22fe3f559ae5928e": {
+      "title": "Everyone is so annoying about AI",
+      "fetched_at": "2026-08-02T18:52:39.106078+00:00"
+    },
+    "0be58b490dc26859": {
+      "title": "Show HN: Atomadic – Zero-LLM Sub-200us MCP Action Interlock",
+      "fetched_at": "2026-08-02T18:52:39.735294+00:00"
+    },
+    "cac15245e4916f67": {
+      "title": "AI learns language from skewed sources. It could change how humans speak/think",
+      "fetched_at": "2026-08-02T18:52:40.360716+00:00"
+    },
+    "2d506ec505122605": {
+      "title": "Show HN: LLM Tools that I made that I cant live without",
+      "fetched_at": "2026-08-02T18:52:40.995328+00:00"
+    },
+    "9e86017fd4908dc6": {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "fetched_at": "2026-08-02T18:52:41.621864+00:00"
+    },
+    "00e5d8a22f7a1fef": {
+      "title": "Graduate in 2036 as a AI engineer is it worth?",
+      "fetched_at": "2026-08-02T18:52:42.235153+00:00"
+    },
+    "cfbaba84cff88b0b": {
+      "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+      "fetched_at": "2026-08-02T18:52:42.854065+00:00"
+    },
+    "eaa5d260246a885e": {
+      "title": "From now on, companies across the EU must be clear about their use of AI",
+      "fetched_at": "2026-08-02T18:52:43.479739+00:00"
+    },
+    "bc934af91590245f": {
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "fetched_at": "2026-08-02T18:52:44.093477+00:00"
+    },
+    "41abaf51a732c7c0": {
+      "title": "汇宇制药：公司3个产品拟中标第十二批全国药品集中采购",
+      "fetched_at": "2026-08-02T18:52:44.785693+00:00"
+    },
+    "9b464d3c35909fea": {
+      "title": "Reduction to the Table Top: Systematic Discovery at Low Cost",
+      "fetched_at": "2026-08-02T18:52:50.993990+00:00"
+    },
+    "c623c89cb8c5dc3d": {
+      "title": "Ask HN: Is discovery channel using AI?",
+      "fetched_at": "2026-08-02T18:52:51.630822+00:00"
+    },
+    "fada82326793f54d": {
+      "title": "Dark matter’s secret force does the opposite of what scientists expected",
+      "fetched_at": "2026-08-02T18:52:52.255191+00:00"
+    },
+    "1447279205e4463a": {
+      "title": "Mathematicians prove perfectly fair elections are impossible",
+      "fetched_at": "2026-08-02T18:52:52.895269+00:00"
+    },
+    "13c8c4d43873b0d2": {
+      "title": "Cancer may be breaking its own DNA to keep growing",
+      "fetched_at": "2026-08-02T18:52:53.513535+00:00"
+    },
+    "ef4aa5a672d2191c": {
+      "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
+      "fetched_at": "2026-08-02T18:52:54.134957+00:00"
+    },
+    "e441aaea83625c15": {
+      "title": "Scientists detect a sharp acceleration in global warming",
+      "fetched_at": "2026-08-02T18:52:54.756753+00:00"
     }
   },
-  "last_updated": "2026-08-02T12:55:42.266713+00:00"
+  "last_updated": "2026-08-02T18:52:54.904680+00:00"
 }
