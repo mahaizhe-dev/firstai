@@ -1,249 +1,5 @@
 {
   "articles": {
-    "be8a754c9f08983f": {
-      "title": "Midjourney bought the astrology app Co-Star",
-      "fetched_at": "2026-07-24T19:09:32.068822+00:00"
-    },
-    "b83ae55cac8af18f": {
-      "title": "Shackle: A pre-execution ALLOW/DENY/HITL gate for AI agents (open source)",
-      "fetched_at": "2026-07-24T19:09:32.704894+00:00"
-    },
-    "f4c3c0f67c40b6f1": {
-      "title": "Ask HN: What's the best AI coding tool today?",
-      "fetched_at": "2026-07-24T19:09:33.327572+00:00"
-    },
-    "f9852993c08b27f2": {
-      "title": "pixtuoid: AI coding agents, visualized as pixel-art coworkers in terminal office",
-      "fetched_at": "2026-07-24T19:09:33.965887+00:00"
-    },
-    "edbd1518b7d85bba": {
-      "title": "San Francisco AI Doom Protest (2026) [video]",
-      "fetched_at": "2026-07-24T19:09:34.581786+00:00"
-    },
-    "bdac0afca0fce947": {
-      "title": "Why AI Agents Need a Two-Tier Architecture",
-      "fetched_at": "2026-07-24T19:09:35.204521+00:00"
-    },
-    "550c91882f85f9b3": {
-      "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
-      "fetched_at": "2026-07-24T19:09:35.833717+00:00"
-    },
-    "227e6200077b89e9": {
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "fetched_at": "2026-07-24T19:09:36.463003+00:00"
-    },
-    "5a752e30521eb183": {
-      "title": "Canada's Anti-AI Movement Is Powered by an AI News Aggregator",
-      "fetched_at": "2026-07-24T19:09:37.083395+00:00"
-    },
-    "3bffebb707454e42": {
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "fetched_at": "2026-07-24T19:09:37.710032+00:00"
-    },
-    "59b89c1ac490107e": {
-      "title": "Zuckerberg's AI optimism blitz using nostalgia to sell AI future amid backlash",
-      "fetched_at": "2026-07-24T19:09:38.368648+00:00"
-    },
-    "99fa9dea8dbb62f0": {
-      "title": "Alphabet's $205B AI spending plan spooks investors",
-      "fetched_at": "2026-07-24T19:09:38.994573+00:00"
-    },
-    "6389a5cf01c43e91": {
-      "title": "AI has a weak spine. We proved it on R/AmIOverreacting",
-      "fetched_at": "2026-07-24T19:09:39.623919+00:00"
-    },
-    "15ede4c976b4f344": {
-      "title": "Specification for a 100% AI-Free Software Supply Chain",
-      "fetched_at": "2026-07-24T19:09:40.238091+00:00"
-    },
-    "7c7d45fd143a4585": {
-      "title": "You can’t ignore Google Zero anymore",
-      "fetched_at": "2026-07-24T19:09:40.865049+00:00"
-    },
-    "9ecf12a224f27b2a": {
-      "title": "Google Ordered to Face AI Defamation Lawsuit",
-      "fetched_at": "2026-07-24T19:09:41.480098+00:00"
-    },
-    "1c8214d49dde48e0": {
-      "title": "Hans Moravec Was Right About AI. What About the Fate of Mankind?",
-      "fetched_at": "2026-07-24T19:09:42.100097+00:00"
-    },
-    "be8002d88579f7d3": {
-      "title": "Show HN: Corv v1.1 is out! Solving SSH execution for AI agents",
-      "fetched_at": "2026-07-24T19:09:42.713264+00:00"
-    },
-    "fd0e3ed681b21d5d": {
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "fetched_at": "2026-07-24T19:09:43.333636+00:00"
-    },
-    "7d77caa2032515d0": {
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "fetched_at": "2026-07-24T19:09:43.994111+00:00"
-    },
-    "a79a0ed6e1f0cc11": {
-      "title": "Ancient Romans Recorded Metallic Objects in the Sky. Could They Have Been UFOs?",
-      "fetched_at": "2026-07-24T19:09:49.533343+00:00"
-    },
-    "016f75e4f56277ae": {
-      "title": "6-year-old in China dies after experimental treatment, investigation finds, raising questions about the country's gene therapy regulations",
-      "fetched_at": "2026-07-24T19:09:50.160432+00:00"
-    },
-    "7a426d862f725a3d": {
-      "title": "Ancient protein reveals an alternative evolutionary path of antiviral signalling",
-      "fetched_at": "2026-07-24T19:09:50.779308+00:00"
-    },
-    "dbd89a86b3ac0338": {
-      "title": "Online Historical Encyclopaedia of Programming Languages",
-      "fetched_at": "2026-07-24T19:09:51.402687+00:00"
-    },
-    "103c41118c43f64d": {
-      "title": "Show HN: Open-source AI scientist for semi-autonomous theory discovery",
-      "fetched_at": "2026-07-24T19:09:52.029038+00:00"
-    },
-    "5160e84150c43147": {
-      "title": "'Much more violent than predicted': A chunk of the universe's missing matter was powerfully hurled out of galaxies",
-      "fetched_at": "2026-07-24T19:09:52.659645+00:00"
-    },
-    "7bfe2b424094485d": {
-      "title": "AI web browsers 'aren't ready for the public,' scientists warn as they highlight massive security red flags",
-      "fetched_at": "2026-07-24T19:09:53.292031+00:00"
-    },
-    "91db49e0b744baf7": {
-      "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
-      "fetched_at": "2026-07-24T19:09:53.916056+00:00"
-    },
-    "4dda0523900154c8": {
-      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
-      "fetched_at": "2026-07-24T19:09:54.529948+00:00"
-    },
-    "88abc2f911c3a21e": {
-      "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
-      "fetched_at": "2026-07-24T19:09:55.151142+00:00"
-    },
-    "6ee2ffb51628e215": {
-      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
-      "fetched_at": "2026-07-24T19:09:55.768723+00:00"
-    },
-    "ed34b5c8ca41e8b7": {
-      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
-      "fetched_at": "2026-07-24T19:09:56.409789+00:00"
-    },
-    "9ec6a26fd173b429": {
-      "title": "New giant salamander species discovered in 3.5-million-year-old fossils",
-      "fetched_at": "2026-07-24T19:09:57.037517+00:00"
-    },
-    "3642c4463535b603": {
-      "title": "报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划",
-      "fetched_at": "2026-07-25T01:29:38.248984+00:00"
-    },
-    "4cff1a44785f3763": {
-      "title": "国际原油期货结算价收跌超3% 布油本周累涨近10%",
-      "fetched_at": "2026-07-25T01:29:38.842160+00:00"
-    },
-    "47c28b6c4fc8d89e": {
-      "title": "美股三大指数收盘涨跌不一，存储芯片、光通信跌幅居前",
-      "fetched_at": "2026-07-25T01:29:39.409435+00:00"
-    },
-    "9145c5e0cbda41a2": {
-      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
-      "fetched_at": "2026-07-25T01:29:39.970279+00:00"
-    },
-    "ad63f2e7c2e682b7": {
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "fetched_at": "2026-07-25T01:29:40.551080+00:00"
-    },
-    "07db501801ba851c": {
-      "title": "Bonsai – a toolkit for building AI chat apps with branchable conversations",
-      "fetched_at": "2026-07-25T01:29:41.112384+00:00"
-    },
-    "77f3657331899dce": {
-      "title": "Show HN: OneWayInterview – type a job role, AI builds the async video interview",
-      "fetched_at": "2026-07-25T01:29:41.673684+00:00"
-    },
-    "c84ea22be6bab7b9": {
-      "title": "Open Weights and American AI Leadership",
-      "fetched_at": "2026-07-25T01:29:42.236981+00:00"
-    },
-    "b3763a085a50d1cb": {
-      "title": "Amazon cracks down on use of AI images by sellers after New York law",
-      "fetched_at": "2026-07-25T01:29:42.799070+00:00"
-    },
-    "a98de312a7753cd9": {
-      "title": "Show HN: Evidence Graph – type checking for the specs your AI agent implements",
-      "fetched_at": "2026-07-25T01:29:43.368835+00:00"
-    },
-    "17bfad3225e71499": {
-      "title": "GR: Ban LLM Contributions from Debian",
-      "fetched_at": "2026-07-25T01:29:43.983104+00:00"
-    },
-    "74cf4de2f5416fd6": {
-      "title": "Show HN: Kalytera – Find out why your AI agent failed, step-by-step",
-      "fetched_at": "2026-07-25T01:29:44.548309+00:00"
-    },
-    "71ad7bd539571f1f": {
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "fetched_at": "2026-07-25T01:29:45.119678+00:00"
-    },
-    "056fa05ea4517690": {
-      "title": "AI Bubble: 'The risk is everywhere' – Ed Zitron [video]",
-      "fetched_at": "2026-07-25T01:29:45.677746+00:00"
-    },
-    "3a382be658ddf85d": {
-      "title": "AI companies stripping universities of their best computer scientists",
-      "fetched_at": "2026-07-25T01:29:46.242368+00:00"
-    },
-    "ec207edcd934e410": {
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "fetched_at": "2026-07-25T01:29:46.809637+00:00"
-    },
-    "84e768f645aae4f9": {
-      "title": "Typepad: An AI Writing Copilot",
-      "fetched_at": "2026-07-25T01:29:47.367587+00:00"
-    },
-    "db08b4ea6530520e": {
-      "title": "One ChatGPT link could smuggle a rogue AI agent into your company",
-      "fetched_at": "2026-07-25T01:29:47.934949+00:00"
-    },
-    "f3d231fe25814dd2": {
-      "title": "Canadian legislator's speech features telltale signs of LLM prompting",
-      "fetched_at": "2026-07-25T01:29:48.502818+00:00"
-    },
-    "6b710971134404d3": {
-      "title": "Network expert Glenn Fiedler warns game devs to fix game vulnerabilities with AI",
-      "fetched_at": "2026-07-25T01:29:49.065673+00:00"
-    },
-    "3ba3557981602504": {
-      "title": "中國兩學者破解百年難題，首奪全球數學最高榮譽",
-      "fetched_at": "2026-07-25T01:29:51.981736+00:00"
-    },
-    "6bb7d54e0e77f7d7": {
-      "title": "FalconAI – An intent-driven media discovery platform",
-      "fetched_at": "2026-07-25T01:30:04.681820+00:00"
-    },
-    "59283b3a6b611ff2": {
-      "title": "1,200-year-old infant burial found near famous Temple of Artemis in Turkey contains twins — one with an unusual extra rib",
-      "fetched_at": "2026-07-25T01:30:05.251907+00:00"
-    },
-    "64fdc5a70cb86932": {
-      "title": "Cyclospora parasite outbreak linked to lettuce expands to 9 states, with over 1,900 people sickened",
-      "fetched_at": "2026-07-25T01:30:05.820151+00:00"
-    },
-    "9dd04e921caaad51": {
-      "title": "Roman Military Camp Excavated in Slovakia",
-      "fetched_at": "2026-07-25T01:30:06.391156+00:00"
-    },
-    "d024a35281cc7a4d": {
-      "title": "Mural Discovered at Urartian Fortress in Armenia",
-      "fetched_at": "2026-07-25T01:30:06.954797+00:00"
-    },
-    "8b329c530360b5b1": {
-      "title": "Byzantine Shipwreck Near Croatia Studied",
-      "fetched_at": "2026-07-25T01:30:07.523399+00:00"
-    },
-    "211fe2039dec759f": {
-      "title": "Early Medieval Palace Structures Unearthed in Uzbekistan",
-      "fetched_at": "2026-07-25T01:30:08.085334+00:00"
-    },
     "6ed770d558bc48eb": {
       "title": "派拉蒙天舞宣布推迟收购华纳兄弟交易",
       "fetched_at": "2026-07-25T07:48:26.380975+00:00"
@@ -3823,7 +3579,111 @@
     "4f7b30ef83fcd609": {
       "title": "Scientists discover how obesity may fuel Alzheimer’s disease",
       "fetched_at": "2026-08-01T18:52:18.138951+00:00"
+    },
+    "6609e907888fd4e5": {
+      "title": "今年上半年北京“双枢纽”机场进出口超4000亿元",
+      "fetched_at": "2026-08-02T01:43:18.805157+00:00"
+    },
+    "015717fedbba244a": {
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "fetched_at": "2026-08-02T01:43:19.419943+00:00"
+    },
+    "ed43eed106f71962": {
+      "title": "People Who Called for Averting Nuclear War Are Calling for AI Slowdown",
+      "fetched_at": "2026-08-02T01:43:20.004166+00:00"
+    },
+    "979508e37fb875f2": {
+      "title": "金风科技参建Ummbila Emoyeni一期风电项目实现商业运营",
+      "fetched_at": "2026-08-02T01:43:20.628244+00:00"
+    },
+    "5042d3ae9d4bbb43": {
+      "title": "金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升",
+      "fetched_at": "2026-08-02T01:43:21.249914+00:00"
+    },
+    "4b63b2158d6350ea": {
+      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+      "fetched_at": "2026-08-02T01:43:21.852453+00:00"
+    },
+    "a5a0a6ae070b3447": {
+      "title": "The AI Bubble Survives on $1.65T in Hidden Debt",
+      "fetched_at": "2026-08-02T01:43:22.454677+00:00"
+    },
+    "bf35ca7e3f8dc9b3": {
+      "title": "AMD's physical AI plans come into focus as company launch Ryzen embedded AI X100",
+      "fetched_at": "2026-08-02T01:43:23.060177+00:00"
+    },
+    "f5599427f6db840f": {
+      "title": "Timeline Shift AI – An AI self-reflection companion for difficult decisions",
+      "fetched_at": "2026-08-02T01:43:23.668257+00:00"
+    },
+    "214c27f0bd8d2558": {
+      "title": "AI will always find a difference",
+      "fetched_at": "2026-08-02T01:43:24.266583+00:00"
+    },
+    "d365dc8f5304cb24": {
+      "title": "Jaron Lanier and DeGrasse Tyson on \"There Is No AI\"",
+      "fetched_at": "2026-08-02T01:43:24.884536+00:00"
+    },
+    "04337c2b37d12638": {
+      "title": "Dreamup+|+Dang.ai",
+      "fetched_at": "2026-08-02T01:43:25.553530+00:00"
+    },
+    "f8d947fff8f6b587": {
+      "title": "Ask HN: I still don't understand why AI agents need \"skills\"",
+      "fetched_at": "2026-08-02T01:43:26.146830+00:00"
+    },
+    "97f885e7bf1df00c": {
+      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+      "fetched_at": "2026-08-02T01:43:26.792849+00:00"
+    },
+    "7e66574afbc1c5ef": {
+      "title": "Show HN: I made 70K+ hand-drawn icons using AI",
+      "fetched_at": "2026-08-02T01:43:27.388877+00:00"
+    },
+    "7b79402f94ea8fc2": {
+      "title": "Show HN: Symbio self fine-tuning AI loop",
+      "fetched_at": "2026-08-02T01:43:27.986857+00:00"
+    },
+    "2e89850dca68a08e": {
+      "title": "Show HN: Wage Against the Machine – MacWages Index for AI Tasks",
+      "fetched_at": "2026-08-02T01:43:28.609741+00:00"
+    },
+    "8b6fa91b68fd2c52": {
+      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+      "fetched_at": "2026-08-02T01:43:29.227771+00:00"
+    },
+    "05e19c3908c097a0": {
+      "title": "Mexico became a surprise cornerstone of America's AI boom",
+      "fetched_at": "2026-08-02T01:43:29.830829+00:00"
+    },
+    "99061f83ce259bae": {
+      "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+      "fetched_at": "2026-08-02T01:43:30.421794+00:00"
+    },
+    "7963290d687655c3": {
+      "title": "香港步入「禁書時代」？回顧書店與出版環境的變化",
+      "fetched_at": "2026-08-02T01:43:33.239987+00:00"
+    },
+    "db2b08343966db91": {
+      "title": "Show HN: A Google Reader like discovery engine for long-form blogs",
+      "fetched_at": "2026-08-02T01:43:38.312410+00:00"
+    },
+    "4bcdb76f922ba849": {
+      "title": "Geometrically patterned ancient earthworks in Acre, Rio Branco, Brazil",
+      "fetched_at": "2026-08-02T01:43:38.912370+00:00"
+    },
+    "b138bf4f9bca8547": {
+      "title": "2026 Europhysics Prize honors discovery of third fundamental class of magnetism",
+      "fetched_at": "2026-08-02T01:43:39.510468+00:00"
+    },
+    "90aa801db259d895": {
+      "title": "Archaeologists Find Ancient Glyphs in the Amazon",
+      "fetched_at": "2026-08-02T01:43:40.144708+00:00"
+    },
+    "8256bbd50653b478": {
+      "title": "Scientists find a simple routine linked to less pain and depression",
+      "fetched_at": "2026-08-02T01:43:40.739996+00:00"
     }
   },
-  "last_updated": "2026-08-01T18:52:18.249563+00:00"
+  "last_updated": "2026-08-02T01:43:40.881985+00:00"
 }
