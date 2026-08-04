@@ -1,129 +1,5 @@
 {
   "articles": {
-    "937c1c75374d369b": {
-      "title": "创业板指拉升涨超1%",
-      "fetched_at": "2026-07-27T01:50:49.459672+00:00"
-    },
-    "96602ffd1985887e": {
-      "title": "科创50指数跌超3%，半导体产业链下挫",
-      "fetched_at": "2026-07-27T01:50:50.084575+00:00"
-    },
-    "6c846f98af8a8528": {
-      "title": "国家统计局：上半年算力需求大幅增长，推动电子行业利润同比增长96.9%",
-      "fetched_at": "2026-07-27T01:50:50.699487+00:00"
-    },
-    "1da1a4668659c2ee": {
-      "title": "Avoiding the Karen Tax in AI Systems",
-      "fetched_at": "2026-07-27T01:50:51.321599+00:00"
-    },
-    "85d33b7f2580d487": {
-      "title": "SK海力士上市助推韩国推进美元回流计划",
-      "fetched_at": "2026-07-27T01:50:51.952427+00:00"
-    },
-    "e2f7c016f157cfdd": {
-      "title": "国家统计局：2026年1—6月份全国规模以上工业企业利润增长18.7%",
-      "fetched_at": "2026-07-27T01:50:52.573945+00:00"
-    },
-    "1a8edfa96bd97c65": {
-      "title": "A股三大指数开盘涨跌不一，长鑫科技总市值位居A股第一",
-      "fetched_at": "2026-07-27T01:50:53.223160+00:00"
-    },
-    "829c581cc3774d33": {
-      "title": "Ask HN: 1950's Chip industry undermined unions how is AI not doing the same?",
-      "fetched_at": "2026-07-27T01:50:53.848142+00:00"
-    },
-    "1f6c577bd83b8116": {
-      "title": "央行今日开展3255亿元7天逆回购操作",
-      "fetched_at": "2026-07-27T01:50:54.463452+00:00"
-    },
-    "0927eabfa097d863": {
-      "title": "恒指开盘涨0.12%，恒生科技指数涨0.38%",
-      "fetched_at": "2026-07-27T01:50:55.080590+00:00"
-    },
-    "882e878c92090f85": {
-      "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
-      "fetched_at": "2026-07-27T01:50:55.703948+00:00"
-    },
-    "2a4857b8694bcab4": {
-      "title": "人民币兑美元中间价报6.7911，上调28点",
-      "fetched_at": "2026-07-27T01:50:56.339519+00:00"
-    },
-    "4f08e21975c014d0": {
-      "title": "信用债新增违约率处于多年来最低水平，年内仅新增2家主体违约",
-      "fetched_at": "2026-07-27T01:50:56.987069+00:00"
-    },
-    "e3af93d3caea0ba6": {
-      "title": "安克创新：公司H股调入港股通标的证券名单",
-      "fetched_at": "2026-07-27T01:50:57.614757+00:00"
-    },
-    "eff1e7db6536f652": {
-      "title": "国金证券：美妆行业细分赛道突围机会凸显，重视AI降本增效",
-      "fetched_at": "2026-07-27T01:50:58.239229+00:00"
-    },
-    "65a164cfd5271e36": {
-      "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
-      "fetched_at": "2026-07-27T01:50:58.861494+00:00"
-    },
-    "28b77092ca035706": {
-      "title": "中信证券：银行板块存在市场风格、资金面改善、经营预期稳定的多重共振影响",
-      "fetched_at": "2026-07-27T01:50:59.483503+00:00"
-    },
-    "52f6aa8c492280f1": {
-      "title": "市场调整资金逆势进场，超650亿元资金净流入ETF",
-      "fetched_at": "2026-07-27T01:51:00.131743+00:00"
-    },
-    "b8a84dd74db2264c": {
-      "title": "银河证券：市场重心有望集中于政策与业绩双重验证",
-      "fetched_at": "2026-07-27T01:51:00.744862+00:00"
-    },
-    "c081aff7d7e81301": {
-      "title": "二季度公募主动型基金整体增持券商股，分析师称基本面景气度支撑估值上修",
-      "fetched_at": "2026-07-27T01:51:01.375505+00:00"
-    },
-    "239db44ddcaad2d6": {
-      "title": "中国再挥稀土大棒，将14家欧盟实体列入出口管控名单",
-      "fetched_at": "2026-07-27T01:51:04.391253+00:00"
-    },
-    "e4b99ce70a0368cc": {
-      "title": "審視阿努廷時代下的泰中關係：中國「長臂管轄」連上泰國了？",
-      "fetched_at": "2026-07-27T01:51:05.041907+00:00"
-    },
-    "011497745d763d96": {
-      "title": "Popular sugar substitutes linked to faster brain aging",
-      "fetched_at": "2026-07-27T01:51:25.795934+00:00"
-    },
-    "02a4d80137cbf626": {
-      "title": "A shattered asteroid may have bombarded Earth 800 million years ago",
-      "fetched_at": "2026-07-27T01:51:26.422175+00:00"
-    },
-    "cf8bba11d744ed13": {
-      "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
-      "fetched_at": "2026-07-27T01:51:27.048927+00:00"
-    },
-    "b028c8107c05c9fb": {
-      "title": "NASA’s James Webb catches a supermassive black hole feeding",
-      "fetched_at": "2026-07-27T01:51:27.679869+00:00"
-    },
-    "61b47b2a85bcffd7": {
-      "title": "Terraforming Mars may be more realistic than scientists once thought",
-      "fetched_at": "2026-07-27T01:51:28.300940+00:00"
-    },
-    "432bed6eaa198e65": {
-      "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
-      "fetched_at": "2026-07-27T01:51:28.925219+00:00"
-    },
-    "1f2a275f16c58fab": {
-      "title": "Tiny plastics in drinking water may be making dangerous bacteria stronger",
-      "fetched_at": "2026-07-27T01:51:29.544741+00:00"
-    },
-    "94604e345b71a7e8": {
-      "title": "Your fingers may hold a secret of human brain evolution",
-      "fetched_at": "2026-07-27T01:51:30.168292+00:00"
-    },
-    "2c600888a7d0c9a0": {
-      "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
-      "fetched_at": "2026-07-27T01:51:30.809285+00:00"
-    },
     "b94cf458c5754ef6": {
       "title": "上海市新增16款已完成备案的生成式人工智能服务",
       "fetched_at": "2026-07-27T09:26:03.220428+00:00"
@@ -3911,7 +3787,119 @@
     "42f709b7fd76c458": {
       "title": "The best way to save giant sequoias may be more fire",
       "fetched_at": "2026-08-04T01:21:56.231995+00:00"
+    },
+    "11ecd3d89163dfc7": {
+      "title": "沃尔沃汽车5月至7月全球销量同比下降4%",
+      "fetched_at": "2026-08-04T08:16:03.136443+00:00"
+    },
+    "a7faacc7df01836e": {
+      "title": "马来西亚考虑对电动汽车销售征税，用于扩大公共充电网络",
+      "fetched_at": "2026-08-04T08:16:03.718149+00:00"
+    },
+    "426ff3c1140b9ed1": {
+      "title": "恒指收跌0.6%，恒生科技指数涨0.21%",
+      "fetched_at": "2026-08-04T08:16:04.360144+00:00"
+    },
+    "baf5fa7ec5184ded": {
+      "title": "We need to talk about AI in mathematics",
+      "fetched_at": "2026-08-04T08:16:04.965631+00:00"
+    },
+    "7d644f7c5c562ea3": {
+      "title": "台积电、索尼、瑞萨电子等企业熊本工厂已恢复运营",
+      "fetched_at": "2026-08-04T08:16:05.559349+00:00"
+    },
+    "45d1dd29991021e2": {
+      "title": "交银投资、上海电气等成立私募基金，出资额50亿",
+      "fetched_at": "2026-08-04T08:16:06.134367+00:00"
+    },
+    "b6cf4cf82f00dc69": {
+      "title": "Grab二季度净利大增620%，上调全年盈利预期",
+      "fetched_at": "2026-08-04T08:16:06.735965+00:00"
+    },
+    "e1f39609b71fa550": {
+      "title": "Ask HN: In post AI world, who is responsible if the code break?",
+      "fetched_at": "2026-08-04T08:16:07.320109+00:00"
+    },
+    "115e7941afda4d9b": {
+      "title": "面壁智能开源全球首个Stencil优化AI系统",
+      "fetched_at": "2026-08-04T08:16:07.936017+00:00"
+    },
+    "ad33346f50905a09": {
+      "title": "赢创第二季度销售额同比增长11%",
+      "fetched_at": "2026-08-04T08:16:08.514073+00:00"
+    },
+    "75a6db25a063032b": {
+      "title": "LinkedIn says it won't be spending big on AI hardware this year",
+      "fetched_at": "2026-08-04T08:16:09.095405+00:00"
+    },
+    "9a5670ec745186d0": {
+      "title": "AI Futures Model: Timelines and Takeoff",
+      "fetched_at": "2026-08-04T08:16:09.683004+00:00"
+    },
+    "22a9f8ba92c7b989": {
+      "title": "WorkBuddy上线“安全中心”",
+      "fetched_at": "2026-08-04T08:16:10.267782+00:00"
+    },
+    "071e72c45f6cb0d3": {
+      "title": "The AI Revolution – History Repeating Itself – On Sentience",
+      "fetched_at": "2026-08-04T08:16:10.887637+00:00"
+    },
+    "9707acb5be3c722b": {
+      "title": "When Every AI Trend Becomes a New Discipline [video]",
+      "fetched_at": "2026-08-04T08:16:11.479814+00:00"
+    },
+    "e1c11a76088ee2b4": {
+      "title": "苹果在印度年度销售额首次突破100亿美元",
+      "fetched_at": "2026-08-04T08:16:12.063255+00:00"
+    },
+    "710b89eb00ed9168": {
+      "title": "戴尔创始人之子联合创办的电池创企Base Power融资10亿美元，估值达130亿美元",
+      "fetched_at": "2026-08-04T08:16:12.682409+00:00"
+    },
+    "e880c52b38fbc80a": {
+      "title": "商务部：2026上半年我国服务进出口总额37797.5亿元",
+      "fetched_at": "2026-08-04T08:16:13.297403+00:00"
+    },
+    "70277155cd7993c0": {
+      "title": "第一太平戴维斯完成收购Eastdil Secured，企业价值为11.1亿美元",
+      "fetched_at": "2026-08-04T08:16:13.995250+00:00"
+    },
+    "56c772a06bc25615": {
+      "title": "日产汽车全球设计高级副总裁阿尔拜萨将于10月卸任",
+      "fetched_at": "2026-08-04T08:16:14.595365+00:00"
+    },
+    "fbf80b98e1bce9d4": {
+      "title": "人工智能泡沫未必是件坏事？",
+      "fetched_at": "2026-08-04T08:16:16.817545+00:00"
+    },
+    "0e5153463df0fe84": {
+      "title": "昂山素季罕见公开露面，此前公众对其健康状况担忧加剧",
+      "fetched_at": "2026-08-04T08:16:17.425628+00:00"
+    },
+    "46db52c8db5b9200": {
+      "title": "美国为什么要出手“救”日元？",
+      "fetched_at": "2026-08-04T08:16:18.076207+00:00"
+    },
+    "981c96cd4a62d092": {
+      "title": "那些走投无路的美国穷人",
+      "fetched_at": "2026-08-04T08:16:18.644987+00:00"
+    },
+    "725f0f49b567f6b7": {
+      "title": "关于性健康，男性应该了解的五件事",
+      "fetched_at": "2026-08-04T08:16:19.262494+00:00"
+    },
+    "bc5480d4a66050fb": {
+      "title": "Your brain may be wired to regain lost weight",
+      "fetched_at": "2026-08-04T08:16:21.342149+00:00"
+    },
+    "22aad7dc8b432a8a": {
+      "title": "These bizarre new beetles look so stretchy scientists named them Luffy",
+      "fetched_at": "2026-08-04T08:16:21.962168+00:00"
+    },
+    "572ec6682bd45ef9": {
+      "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
+      "fetched_at": "2026-08-04T08:16:22.576328+00:00"
     }
   },
-  "last_updated": "2026-08-04T01:21:56.336130+00:00"
+  "last_updated": "2026-08-04T08:16:22.722582+00:00"
 }
