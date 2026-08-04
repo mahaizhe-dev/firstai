@@ -1,109 +1,5 @@
 {
   "articles": {
-    "b94cf458c5754ef6": {
-      "title": "上海市新增16款已完成备案的生成式人工智能服务",
-      "fetched_at": "2026-07-27T09:26:03.220428+00:00"
-    },
-    "e53abe8d4763325f": {
-      "title": "AI YouTube Video Generator: From Content Creation to Scalable Video Production",
-      "fetched_at": "2026-07-27T09:26:03.801418+00:00"
-    },
-    "7f081c66f688732d": {
-      "title": "上汽通用发生法定代表人变更",
-      "fetched_at": "2026-07-27T09:26:04.372426+00:00"
-    },
-    "9f831e802e488f87": {
-      "title": "英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全",
-      "fetched_at": "2026-07-27T09:26:04.958917+00:00"
-    },
-    "7b651015177f8daa": {
-      "title": "安联锐视：控股股东、实控人等承诺1年内不减持",
-      "fetched_at": "2026-07-27T09:26:05.538166+00:00"
-    },
-    "c4c4bee4a8c8fbd9": {
-      "title": "惠科股份在浙江成立半导体公司，注册资本40亿",
-      "fetched_at": "2026-07-27T09:26:06.114194+00:00"
-    },
-    "12935854d06d756c": {
-      "title": "Momenta Robovan落地苏州",
-      "fetched_at": "2026-07-27T09:26:06.697654+00:00"
-    },
-    "77062dd21e260b7a": {
-      "title": "同星科技：拟6000万元—1.2亿元回购股份",
-      "fetched_at": "2026-07-27T09:26:07.284789+00:00"
-    },
-    "35b70f7f6f6ae0b5": {
-      "title": "软银公司据悉接近收购日本支付服务提供商SP.LINKS",
-      "fetched_at": "2026-07-27T09:26:07.861629+00:00"
-    },
-    "47bb0b93ffa3c61b": {
-      "title": "中上协：上半年共有24家A股公司赴港上市，募资总额超过1200亿港元",
-      "fetched_at": "2026-07-27T09:26:08.433452+00:00"
-    },
-    "68fcd91d9b112bd9": {
-      "title": "神火股份：上半年净利润47.81亿元，同比增长151.06%",
-      "fetched_at": "2026-07-27T09:26:09.106367+00:00"
-    },
-    "2d73722572ef0f66": {
-      "title": "China State Media Says Support for Open AI Models Has Limits",
-      "fetched_at": "2026-07-27T09:26:09.693958+00:00"
-    },
-    "60e80a121bfd070c": {
-      "title": "阿达尼能源解决方案计划发行4.17亿美元新股",
-      "fetched_at": "2026-07-27T09:26:10.273790+00:00"
-    },
-    "13b206f4e91ed540": {
-      "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
-      "fetched_at": "2026-07-27T09:26:10.868040+00:00"
-    },
-    "5d2c6a941cf7c685": {
-      "title": "工业富联：拟10亿元—20亿元回购股份",
-      "fetched_at": "2026-07-27T09:26:11.457864+00:00"
-    },
-    "df001c742049786d": {
-      "title": "老铺黄金：预计上半年净利润同比增长约83%至85%",
-      "fetched_at": "2026-07-27T09:26:12.039963+00:00"
-    },
-    "20a81af25f6ada2c": {
-      "title": "7-11母公司柒和伊控股放弃向波兰最大便利店运营商投资",
-      "fetched_at": "2026-07-27T09:26:12.619927+00:00"
-    },
-    "7c8c4daa12eabd7a": {
-      "title": "Ask HN: Where do those LLM-generated outreach emails come from?",
-      "fetched_at": "2026-07-27T09:26:13.201710+00:00"
-    },
-    "3b38cb0ff8103937": {
-      "title": "百诚医药：创新药BIOS0635-048片获临床试验批准通知书",
-      "fetched_at": "2026-07-27T09:26:13.771825+00:00"
-    },
-    "5b8a1da5fd21e2cc": {
-      "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
-      "fetched_at": "2026-07-27T09:26:14.349563+00:00"
-    },
-    "7292436ffda2c9ee": {
-      "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
-      "fetched_at": "2026-07-27T09:26:16.489841+00:00"
-    },
-    "fa723ea9941de238": {
-      "title": "一文讀懂德國柏林驕傲遊行攻擊事經過",
-      "fetched_at": "2026-07-27T09:26:17.082870+00:00"
-    },
-    "4d847fb61e669c77": {
-      "title": "「它一點點侵蝕我的身體」：韓國超級便利隔夜送貨的人命代價",
-      "fetched_at": "2026-07-27T09:26:17.649746+00:00"
-    },
-    "79ddadc18ab0b726": {
-      "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
-      "fetched_at": "2026-07-27T09:26:18.236232+00:00"
-    },
-    "08991a49ac05379b": {
-      "title": "《澎湖海戰》傳上映遭擱置：「反清復明」民間史觀神經再被挑動",
-      "fetched_at": "2026-07-27T09:26:18.836461+00:00"
-    },
-    "5ef1ef7f056f08e7": {
-      "title": "Science word of the day: Pando",
-      "fetched_at": "2026-07-27T09:26:21.306596+00:00"
-    },
     "277c185a5e2346ce": {
       "title": "Don't add PostHog to your codebase. Make AI do it for you",
       "fetched_at": "2026-07-27T14:07:55.259937+00:00"
@@ -3899,7 +3795,111 @@
     "572ec6682bd45ef9": {
       "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
       "fetched_at": "2026-08-04T08:16:22.576328+00:00"
+    },
+    "b06ced095d309042": {
+      "title": "I built an LLM debugger for fine-tuning failures",
+      "fetched_at": "2026-08-04T13:44:00.673410+00:00"
+    },
+    "c29f019c3c9ca6a3": {
+      "title": "Pdf-inspector: The rust-powered open-source PDF parser for AI",
+      "fetched_at": "2026-08-04T13:44:01.257087+00:00"
+    },
+    "8c289272ef4fd60b": {
+      "title": "Show HN: My journey into game development with AI",
+      "fetched_at": "2026-08-04T13:44:01.949451+00:00"
+    },
+    "720897b9f078f6f0": {
+      "title": "AI pricing is not broken. We have the answers for how to do it",
+      "fetched_at": "2026-08-04T13:44:02.564027+00:00"
+    },
+    "9eb4be59ada86a04": {
+      "title": "Show HN: Entangle, hand a live AI coding session to anyone with three words",
+      "fetched_at": "2026-08-04T13:44:03.256011+00:00"
+    },
+    "d8cc2a032cb88851": {
+      "title": "Show HN: Loopers – Fail-closed reverse proxy and circuit breaker for AI agents",
+      "fetched_at": "2026-08-04T13:44:03.915620+00:00"
+    },
+    "9f4b9dac21713d38": {
+      "title": "Observability Turns Vibe Coding into AI Engineering",
+      "fetched_at": "2026-08-04T13:44:04.531327+00:00"
+    },
+    "951ead517a146e12": {
+      "title": "Claude, GPT and the Minnesota attackers all used known bugs and weak logins",
+      "fetched_at": "2026-08-04T13:44:05.137385+00:00"
+    },
+    "09c2687f4b5d1b08": {
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "fetched_at": "2026-08-04T13:44:05.802711+00:00"
+    },
+    "fd4cf89810f6f017": {
+      "title": "协创数据：拟使用不超70亿元自有资金进行委托理财",
+      "fetched_at": "2026-08-04T13:44:06.414852+00:00"
+    },
+    "80cd6e5ed1bdc9e9": {
+      "title": "Aligning 800 audiobooks (8k hours) to text in 6 days, no LLM in the loop",
+      "fetched_at": "2026-08-04T13:44:07.022236+00:00"
+    },
+    "9f06d9c13d8dbdce": {
+      "title": "埃斯顿：全资子公司拟合计4.87亿元收购埃斯顿酷卓股权",
+      "fetched_at": "2026-08-04T13:44:07.634606+00:00"
+    },
+    "c80364b98d8d2866": {
+      "title": "We built an AI model router that cut LLM costs by 94%",
+      "fetched_at": "2026-08-04T13:44:08.249462+00:00"
+    },
+    "9e51f720c833fdea": {
+      "title": "热门中概股美股盘前普跌，名创优品跌超2%",
+      "fetched_at": "2026-08-04T13:44:08.860753+00:00"
+    },
+    "314a7d1c970e7926": {
+      "title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
+      "fetched_at": "2026-08-04T13:44:09.470583+00:00"
+    },
+    "4989744320bc0d3d": {
+      "title": "Auditability vs. Forced Determinism: Future of Agentic AI",
+      "fetched_at": "2026-08-04T13:44:10.070036+00:00"
+    },
+    "94b3e55cd40287e0": {
+      "title": "麦当劳宣布更换美国业务总裁",
+      "fetched_at": "2026-08-04T13:44:10.742964+00:00"
+    },
+    "cb20bf89448ef8dd": {
+      "title": "AI-Native Firms",
+      "fetched_at": "2026-08-04T13:44:11.375166+00:00"
+    },
+    "3bbe6f07fb7c27b7": {
+      "title": "由三星SDS牵头的韩国国家人工智能算力中心正式开工",
+      "fetched_at": "2026-08-04T13:44:12.005956+00:00"
+    },
+    "103f5e33da6a3c98": {
+      "title": "美国6月贸易逆差收窄至733亿美元",
+      "fetched_at": "2026-08-04T13:44:12.620962+00:00"
+    },
+    "ac0ae05134b83ac2": {
+      "title": "「我們並不孤獨」：獨處如何成為令人嚮往的新時尚",
+      "fetched_at": "2026-08-04T13:44:15.578660+00:00"
+    },
+    "7ba875d56a836aca": {
+      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
+      "fetched_at": "2026-08-04T13:44:16.171448+00:00"
+    },
+    "2880f2893057b280": {
+      "title": "「中東油輪受威脅程度已達伊朗戰爭爆發以來最高水平」",
+      "fetched_at": "2026-08-04T13:44:16.779601+00:00"
+    },
+    "e4b99ce70a0368cc": {
+      "title": "審視阿努廷時代下的泰中關係：中國「長臂管轄」連上泰國了？",
+      "fetched_at": "2026-08-04T13:44:17.379755+00:00"
+    },
+    "ac24679ae4faa1b8": {
+      "title": "World's highest frozen lake shatters along disputed border between China and India ‪—‬ Earth from space",
+      "fetched_at": "2026-08-04T13:44:19.480160+00:00"
+    },
+    "ac21ebf8f1efd72f": {
+      "title": "'Even when knowledge improves, emotional anxiety does not easily disappear': Pediatrician Dr. Masahiko Sakamoto on educating parents about childhood illnesses",
+      "fetched_at": "2026-08-04T13:44:20.089352+00:00"
     }
   },
-  "last_updated": "2026-08-04T08:16:22.722582+00:00"
+  "last_updated": "2026-08-04T13:44:20.203617+00:00"
 }
