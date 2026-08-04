@@ -1,273 +1,5 @@
 {
   "articles": {
-    "277c185a5e2346ce": {
-      "title": "Don't add PostHog to your codebase. Make AI do it for you",
-      "fetched_at": "2026-07-27T14:07:55.259937+00:00"
-    },
-    "78ecde0814c28403": {
-      "title": "Show HN: Xllama – Local LLM Chat and Stable Diffusion on an Xbox Series S",
-      "fetched_at": "2026-07-27T14:07:55.867816+00:00"
-    },
-    "bd8cfd12b4fc7b54": {
-      "title": "AI Can't Do the Last 20%",
-      "fetched_at": "2026-07-27T14:07:56.478633+00:00"
-    },
-    "2a9a48300fbafd28": {
-      "title": "Why Fast Branching Is Key to AI Agent-Era Databases",
-      "fetched_at": "2026-07-27T14:07:57.068499+00:00"
-    },
-    "3828d924cb465579": {
-      "title": "AI doesn't get better at this board game with practice",
-      "fetched_at": "2026-07-27T14:07:57.671550+00:00"
-    },
-    "020fff65dc606a94": {
-      "title": "How to answer ethical concerns about AI",
-      "fetched_at": "2026-07-27T14:07:58.282265+00:00"
-    },
-    "bd600f1fb99a1e08": {
-      "title": "How al-Qaida and IS are adopting AI",
-      "fetched_at": "2026-07-27T14:07:58.893080+00:00"
-    },
-    "611b30e0a51657ac": {
-      "title": "AI as Normal Technology",
-      "fetched_at": "2026-07-27T14:07:59.498743+00:00"
-    },
-    "0cff61213d1dd75f": {
-      "title": "A major olympiad just launched a medal track for AI Participants",
-      "fetched_at": "2026-07-27T14:08:00.097819+00:00"
-    },
-    "9f62ee8c4983b081": {
-      "title": "Nvidia Bets on Ilya Sutskever's New AI Lab to Expand Compute Reach",
-      "fetched_at": "2026-07-27T14:08:00.756020+00:00"
-    },
-    "d314bd92f67c06de": {
-      "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative",
-      "fetched_at": "2026-07-27T14:08:01.354244+00:00"
-    },
-    "b85d0652e686db6b": {
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-      "fetched_at": "2026-07-27T14:08:01.979189+00:00"
-    },
-    "2753b3b10fafab8e": {
-      "title": "Epoch-Bound Attested Execution v0.5: Bounding AI Agents' Real-World Authority",
-      "fetched_at": "2026-07-27T14:08:02.578774+00:00"
-    },
-    "4d7b500fa63bf4c9": {
-      "title": "粉笔：预计2026年上半年收入不少于12.2亿元",
-      "fetched_at": "2026-07-27T14:08:03.179961+00:00"
-    },
-    "7ad1b267a1897f88": {
-      "title": "斯坦德机器人向港交所提交上市申请书",
-      "fetched_at": "2026-07-27T14:08:03.774626+00:00"
-    },
-    "e82fa4febaeaf890": {
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "fetched_at": "2026-07-27T14:08:04.391107+00:00"
-    },
-    "6735622c2b96c818": {
-      "title": "热门中概股美股盘前普涨，网易涨超2%",
-      "fetched_at": "2026-07-27T14:08:04.987804+00:00"
-    },
-    "80a9b6c7fd2bab98": {
-      "title": "Building to Be Corrected: teachability as a vital sign for AI",
-      "fetched_at": "2026-07-27T14:08:05.582179+00:00"
-    },
-    "6503d9bb6cf6b1b0": {
-      "title": "美股大型科技股盘前普涨，特斯拉涨超1%",
-      "fetched_at": "2026-07-27T14:08:06.190542+00:00"
-    },
-    "8adc0163eba3f28c": {
-      "title": "Show HN: The AI cycle and it's token usage market",
-      "fetched_at": "2026-07-27T14:08:06.784439+00:00"
-    },
-    "e3358ea9ac6ec9ca": {
-      "title": "胡志偉向BBC談倫敦機場風波：僅獲「入境保釋」，面臨遣返香港",
-      "fetched_at": "2026-07-27T14:08:09.230128+00:00"
-    },
-    "b82c140e2bb17107": {
-      "title": "梅根在《澳洲廚神》節目中稱哈里王子「魅力十足」",
-      "fetched_at": "2026-07-27T14:08:09.832261+00:00"
-    },
-    "3b262a86a4438732": {
-      "title": "所羅門群島中資金礦坍塌傳多人死亡 突顯「淘金熱」隱憂",
-      "fetched_at": "2026-07-27T14:08:10.435705+00:00"
-    },
-    "24d3a39ed4a0bbb7": {
-      "title": "香港前民主黨主席胡志偉 出獄後赴英面臨遣返",
-      "fetched_at": "2026-07-27T14:08:11.042179+00:00"
-    },
-    "9f4733cdac7a04f7": {
-      "title": "特朗普的伊朗困境：拥有压倒性的武力却进退维谷",
-      "fetched_at": "2026-07-27T14:08:11.635531+00:00"
-    },
-    "d48514076c1e600d": {
-      "title": "台湾测试如何应对中国海上围攻",
-      "fetched_at": "2026-07-27T14:08:12.234381+00:00"
-    },
-    "1ad6ed93624706e9": {
-      "title": "北约一名加拿大华裔实习生因涉嫌从事间谍活动被捕",
-      "fetched_at": "2026-07-27T14:08:12.822510+00:00"
-    },
-    "0a50ca3fbe9e0994": {
-      "title": "特朗普全球新关税对中国影响有限",
-      "fetched_at": "2026-07-27T14:08:13.422454+00:00"
-    },
-    "f0075e71d9206610": {
-      "title": "中国开源人工智能模型快速进步加剧硅谷分歧",
-      "fetched_at": "2026-07-27T14:08:14.024094+00:00"
-    },
-    "aa265e33ae35f2ad": {
-      "title": "你的聊天机器人有多了解你？试试这些提示词",
-      "fetched_at": "2026-07-27T14:08:14.621596+00:00"
-    },
-    "625302272b458d53": {
-      "title": "IChingPortal- Ancient wisdom through modern data",
-      "fetched_at": "2026-07-27T14:08:24.988022+00:00"
-    },
-    "990f95f91fab1959": {
-      "title": "'Feynman and followers, you guys are off': Physicists disprove decades-old Richard Feynman theory on 'silly' sprinklers",
-      "fetched_at": "2026-07-27T14:08:25.586120+00:00"
-    },
-    "9629ad45a0940c79": {
-      "title": "Military's testosterone screening program could lead to overtreatment and side effects, including impaired T production",
-      "fetched_at": "2026-07-27T14:08:26.185906+00:00"
-    },
-    "8c50878c165e5582": {
-      "title": "7 ways to photograph the 2026 total solar eclipse — from smartphone to telescope",
-      "fetched_at": "2026-07-27T14:08:26.793307+00:00"
-    },
-    "d733d539a1dcddca": {
-      "title": "Relief fragment with vanquished enemies: A 3,400-year-old depiction of an Egyptian pharaoh crushing western Asian soldiers under his royal chariot",
-      "fetched_at": "2026-07-27T14:08:27.391939+00:00"
-    },
-    "a876734af989ff7b": {
-      "title": "These insect submariners survive depths that should crush them",
-      "fetched_at": "2026-07-27T14:08:27.994256+00:00"
-    },
-    "872aad185223b71c": {
-      "title": "Your dreams aren’t random. Your brain is rewriting reality",
-      "fetched_at": "2026-07-27T14:08:28.609189+00:00"
-    },
-    "f321f644a511bf6e": {
-      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
-      "fetched_at": "2026-07-27T14:08:29.213411+00:00"
-    },
-    "bd765c771a91144e": {
-      "title": "Why Jupiter has several giant moons but Saturn has only Titan",
-      "fetched_at": "2026-07-27T14:08:29.822391+00:00"
-    },
-    "3a5cdad563c65bfb": {
-      "title": "After 241 days in orbit this NASA astronaut is finally home",
-      "fetched_at": "2026-07-27T14:08:30.440464+00:00"
-    },
-    "2b31f9575c9db0e9": {
-      "title": "Scientists just discovered a lost branch of Australia’s marsupials",
-      "fetched_at": "2026-07-27T14:08:31.052666+00:00"
-    },
-    "dcf23500735af75b": {
-      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
-      "fetched_at": "2026-07-27T14:08:31.667544+00:00"
-    },
-    "b77e75119ecdb022": {
-      "title": "Common antidepressant may ease long COVID’s crushing fatigue",
-      "fetched_at": "2026-07-27T14:08:32.272510+00:00"
-    },
-    "871200364572bd85": {
-      "title": "Why China is giving away its best AI models",
-      "fetched_at": "2026-07-27T19:09:23.400526+00:00"
-    },
-    "a0e8e65a05e0c9a8": {
-      "title": "Improvements to Web for AI Should Benefit All Users",
-      "fetched_at": "2026-07-27T19:09:23.984744+00:00"
-    },
-    "ba3a75f23927594b": {
-      "title": "AI in the Linux Kernel",
-      "fetched_at": "2026-07-27T19:09:24.567601+00:00"
-    },
-    "e848473cc39d14dc": {
-      "title": "Open Secure AI Alliance aims to open-source AI security defences",
-      "fetched_at": "2026-07-27T19:09:25.146645+00:00"
-    },
-    "a9b842088df2a5b9": {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "fetched_at": "2026-07-27T19:09:25.730659+00:00"
-    },
-    "7b627de4f721f24c": {
-      "title": "Genesis chip may help AI with its memory problem",
-      "fetched_at": "2026-07-27T19:09:26.310046+00:00"
-    },
-    "f1cae7124ffe508e": {
-      "title": "How to Research Technical Topics with AI",
-      "fetched_at": "2026-07-27T19:09:26.892418+00:00"
-    },
-    "6a800dc02ca85edd": {
-      "title": "First 30 Days as the Only Human in an AI Dev Team",
-      "fetched_at": "2026-07-27T19:09:27.493272+00:00"
-    },
-    "095d510f7e247a85": {
-      "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
-      "fetched_at": "2026-07-27T19:09:28.075178+00:00"
-    },
-    "05c14b6992996874": {
-      "title": "Government engagement with AI creates more uncertainty for investors, CIOs warn",
-      "fetched_at": "2026-07-27T19:09:28.654060+00:00"
-    },
-    "86e260cbc5a8831b": {
-      "title": "Show HN: ApplyAssists – AI resume builder using Google XYZ formula",
-      "fetched_at": "2026-07-27T19:09:29.251046+00:00"
-    },
-    "df559b7e5fc7d6a9": {
-      "title": "AI cracks yet another century-old problem",
-      "fetched_at": "2026-07-27T19:09:29.825191+00:00"
-    },
-    "2c6b2bc68dfb6396": {
-      "title": "Why AI Will Not Replace the Classroom",
-      "fetched_at": "2026-07-27T19:09:30.408427+00:00"
-    },
-    "10738a91ecb1d3b4": {
-      "title": "Show HN: Opensource resume evaluation LLM agents",
-      "fetched_at": "2026-07-27T19:09:30.987130+00:00"
-    },
-    "5675c0f08a5b940e": {
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "fetched_at": "2026-07-27T19:09:31.573210+00:00"
-    },
-    "cdc9d55841d8e5c4": {
-      "title": "AI scraperbots keep hammering us from residential proxies",
-      "fetched_at": "2026-07-27T19:09:32.184250+00:00"
-    },
-    "9c4a0f234dde9307": {
-      "title": "Rethinking Security for the Age of AI – The Official Microsoft Blog",
-      "fetched_at": "2026-07-27T19:09:32.772958+00:00"
-    },
-    "a92e6f89799845ac": {
-      "title": "Turn business SOPs into AI agents with real API endpoints",
-      "fetched_at": "2026-07-27T19:09:33.352444+00:00"
-    },
-    "f58094b4ef37a949": {
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "fetched_at": "2026-07-27T19:09:33.933909+00:00"
-    },
-    "9e9164282ce9988f": {
-      "title": "I created an AI boyfriend. He was charming – and deeply troubling",
-      "fetched_at": "2026-07-27T19:09:34.507133+00:00"
-    },
-    "9549f61a46fba4a2": {
-      "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
-      "fetched_at": "2026-07-27T19:09:36.890584+00:00"
-    },
-    "aa404add9d2f67f5": {
-      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
-      "fetched_at": "2026-07-27T19:09:37.470670+00:00"
-    },
-    "fd4c814cf2a6a2a5": {
-      "title": "Roman Battle Camp Found in Spain",
-      "fetched_at": "2026-07-27T19:09:55.169771+00:00"
-    },
-    "81a6739451ffdfd0": {
-      "title": "Atlas Discovery launches AI models to predict responses in clinical trials",
-      "fetched_at": "2026-07-27T19:09:55.750544+00:00"
-    },
     "042ff0ef3dae45b0": {
       "title": "Show HN: _done – Expanding AI Capabilities",
       "fetched_at": "2026-07-28T01:26:01.430911+00:00"
@@ -3899,7 +3631,143 @@
     "ac21ebf8f1efd72f": {
       "title": "'Even when knowledge improves, emotional anxiety does not easily disappear': Pediatrician Dr. Masahiko Sakamoto on educating parents about childhood illnesses",
       "fetched_at": "2026-08-04T13:44:20.089352+00:00"
+    },
+    "d5a737173794f3a7": {
+      "title": "White House plans to keep AI framework under wraps",
+      "fetched_at": "2026-08-04T19:16:50.769068+00:00"
+    },
+    "bef1ea98c3eed325": {
+      "title": "AI-generated websites converge on each other more than human designs do",
+      "fetched_at": "2026-08-04T19:16:51.392828+00:00"
+    },
+    "d9862b2b13ed08fc": {
+      "title": "Code Like a Pirate with AI",
+      "fetched_at": "2026-08-04T19:16:52.010809+00:00"
+    },
+    "9f195c62eb3a3f3b": {
+      "title": "Surveillance-based advertising: why ad AI economics always demand more data",
+      "fetched_at": "2026-08-04T19:16:52.609911+00:00"
+    },
+    "872d84dea6b9996d": {
+      "title": "Learning the ropes: why Germany is building risk into its playgrounds (2021)",
+      "fetched_at": "2026-08-04T19:16:53.262761+00:00"
+    },
+    "2bcd46f7e22f9b7f": {
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "fetched_at": "2026-08-04T19:16:53.881620+00:00"
+    },
+    "d485d5253a6d954d": {
+      "title": "AI Detection of Poker Player Bluffing",
+      "fetched_at": "2026-08-04T19:16:54.485700+00:00"
+    },
+    "0e9d36fcc2898679": {
+      "title": "AI demand to keep near-term inflation high, says investment strategist",
+      "fetched_at": "2026-08-04T19:16:55.125638+00:00"
+    },
+    "bfe5b9a96a50504f": {
+      "title": "Show HN: Block Blast AI Solver – Solve Puzzle Boards from a Screenshot",
+      "fetched_at": "2026-08-04T19:16:55.759534+00:00"
+    },
+    "39f2d934f39ca0af": {
+      "title": "LLM Arena",
+      "fetched_at": "2026-08-04T19:16:56.391463+00:00"
+    },
+    "34889e811415c4c1": {
+      "title": "Creating, Copying, and Remixing in the Age of AI",
+      "fetched_at": "2026-08-04T19:16:57.010457+00:00"
+    },
+    "622606c383aee22a": {
+      "title": "AI data-centre race builds $1T lease burden for Big Tech",
+      "fetched_at": "2026-08-04T19:16:57.632749+00:00"
+    },
+    "2c9a59098a244875": {
+      "title": "Elon Musk: In 36 months, the cheapest place to put AI will be space [video]",
+      "fetched_at": "2026-08-04T19:16:58.262841+00:00"
+    },
+    "e70898ef3c178712": {
+      "title": "Privacy risks from medical AI tools are not shared equally",
+      "fetched_at": "2026-08-04T19:16:58.884615+00:00"
+    },
+    "3ae17fd0580ed6e2": {
+      "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
+      "fetched_at": "2026-08-04T19:16:59.492874+00:00"
+    },
+    "f5b5745968044dd0": {
+      "title": "Audit Ready AI",
+      "fetched_at": "2026-08-04T19:17:00.144982+00:00"
+    },
+    "1a3e184bf0276be8": {
+      "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+      "fetched_at": "2026-08-04T19:17:00.763756+00:00"
+    },
+    "84544fcec08cfaec": {
+      "title": "Silico: a platform for AI research",
+      "fetched_at": "2026-08-04T19:17:01.369867+00:00"
+    },
+    "a1097fb3e4676642": {
+      "title": "Mea Culpa: Apple Confesses It Can't Keep Up with AI Bug Reports",
+      "fetched_at": "2026-08-04T19:17:01.990947+00:00"
+    },
+    "ea6618070af9fc82": {
+      "title": "How an OpenAI influencer trip backfired",
+      "fetched_at": "2026-08-04T19:17:02.598630+00:00"
+    },
+    "54ff9ce7ed7b154a": {
+      "title": "陸委會主委專訪：北京每年「已讀不回」3000封信 民進黨執政十年兩岸溝通未斷",
+      "fetched_at": "2026-08-04T19:17:05.380945+00:00"
+    },
+    "ede01d0cc0bb223c": {
+      "title": "中國錫安教會牧師金明日專訪 談獲釋赴美細節與獄中抗爭",
+      "fetched_at": "2026-08-04T19:17:05.995208+00:00"
+    },
+    "7292436ffda2c9ee": {
+      "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
+      "fetched_at": "2026-08-04T19:17:06.614834+00:00"
+    },
+    "79ddadc18ab0b726": {
+      "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
+      "fetched_at": "2026-08-04T19:17:07.244487+00:00"
+    },
+    "3d65384066afe381": {
+      "title": "Brains don't always rot: Scientists may finally know how human brains have evaded decay for thousands of years",
+      "fetched_at": "2026-08-04T19:17:09.585339+00:00"
+    },
+    "eac6850727592b57": {
+      "title": "'Darwin’s hypothesis provided an important inspiration': Scientists bolster 150-year-old Darwinian theory with a carnivorous plant in China",
+      "fetched_at": "2026-08-04T19:17:10.192778+00:00"
+    },
+    "05e9c0e49d62a886": {
+      "title": "A SpaceX rocket will hit the moon at 5,000 mph tonight. Experts explain what you could see, and when.",
+      "fetched_at": "2026-08-04T19:17:10.805600+00:00"
+    },
+    "480f286c67c5a9ef": {
+      "title": "Super El Niño may push an already stressed climate ecosystem across a critical threshold, climate change researcher says",
+      "fetched_at": "2026-08-04T19:17:11.411965+00:00"
+    },
+    "f60fc2fd00abe8c8": {
+      "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
+      "fetched_at": "2026-08-04T19:17:12.025099+00:00"
+    },
+    "2199647b48509fbe": {
+      "title": "518-million-year-old creature reveals the origins of spider fangs",
+      "fetched_at": "2026-08-04T19:17:12.639566+00:00"
+    },
+    "443f761730f1d875": {
+      "title": "'Teach me! Doctor': Meet the pediatrician on a mission to boost parents' knowledge of childhood illnesses",
+      "fetched_at": "2026-08-04T19:17:13.280976+00:00"
+    },
+    "f38ef5ea981f8fc7": {
+      "title": "These underwater bones could solve a mystery about extinct giants",
+      "fetched_at": "2026-08-04T19:17:13.884160+00:00"
+    },
+    "d53506eebef6eb16": {
+      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
+      "fetched_at": "2026-08-04T19:17:14.498582+00:00"
+    },
+    "f8b3ea3ad0f31e18": {
+      "title": "DNA on the Shroud of Turin reveals centuries of hidden history",
+      "fetched_at": "2026-08-04T19:17:15.118122+00:00"
     }
   },
-  "last_updated": "2026-08-04T13:44:20.203617+00:00"
+  "last_updated": "2026-08-04T19:17:15.243586+00:00"
 }
