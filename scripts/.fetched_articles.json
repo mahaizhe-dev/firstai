@@ -1,105 +1,5 @@
 {
   "articles": {
-    "f857c1a4b4780bcb": {
-      "title": "Why AI Agents Need Databases That Branch Like Git",
-      "fetched_at": "2026-07-28T19:04:37.689409+00:00"
-    },
-    "166e2826c9d7a6fe": {
-      "title": "The Most Valuable AI Product Won't Be Intelligence",
-      "fetched_at": "2026-07-28T19:04:38.259986+00:00"
-    },
-    "56e219d873f1883b": {
-      "title": "The AI Future Is for Everyone",
-      "fetched_at": "2026-07-28T19:04:38.853299+00:00"
-    },
-    "c038cffc931778b9": {
-      "title": "Labwire, an open protocol for AI agents to control lab instruments",
-      "fetched_at": "2026-07-28T19:04:39.428437+00:00"
-    },
-    "4099b7bca2f23c60": {
-      "title": "Mousecrack – Bypass captcha mouse detection with deep learning",
-      "fetched_at": "2026-07-28T19:04:40.020546+00:00"
-    },
-    "004105c38e909ba2": {
-      "title": "Running a persistent AI agent at the far end of a satellite text link",
-      "fetched_at": "2026-07-28T19:04:40.597372+00:00"
-    },
-    "4409c7a765204ff8": {
-      "title": "TypeNotes, a practical daily learning site for TypeScript devs",
-      "fetched_at": "2026-07-28T19:04:41.167961+00:00"
-    },
-    "623e86e6814fd942": {
-      "title": "Show HN: Envdiff – solve \"works on my machine\" in 30 seconds",
-      "fetched_at": "2026-07-28T19:04:41.734037+00:00"
-    },
-    "532e785cfa5e0868": {
-      "title": "AI Doesn't Get Annoyed",
-      "fetched_at": "2026-07-28T19:04:42.303641+00:00"
-    },
-    "460c0a1a760922f4": {
-      "title": "Microsoft's AI Security Leap Signals a New Era in Cyber Defense",
-      "fetched_at": "2026-07-28T19:04:42.878216+00:00"
-    },
-    "e992da8862c83af0": {
-      "title": "Chip stocks tumble as AI sell-off deepens",
-      "fetched_at": "2026-07-28T19:04:43.445477+00:00"
-    },
-    "6f1f7f6bd71c7bc7": {
-      "title": "The LLM browser that allows you explore current and other universes",
-      "fetched_at": "2026-07-28T19:04:44.020061+00:00"
-    },
-    "d72051c2378da7ca": {
-      "title": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress",
-      "fetched_at": "2026-07-28T19:04:44.601207+00:00"
-    },
-    "a1ca68d79d67f182": {
-      "title": "Anybody.dev – The Open Source AI App Builder",
-      "fetched_at": "2026-07-28T19:04:45.172241+00:00"
-    },
-    "8a486e7f6c76cf76": {
-      "title": "AI value alignment for evolving social norms",
-      "fetched_at": "2026-07-28T19:04:45.743205+00:00"
-    },
-    "30fbbcfcf5c03975": {
-      "title": "Designing With AI on a budget as an engineer: Google+ChatGPT",
-      "fetched_at": "2026-07-28T19:04:46.333786+00:00"
-    },
-    "ab3b1c8977f1a49b": {
-      "title": "Scientific computing in the age of agentic AI",
-      "fetched_at": "2026-07-28T19:04:46.909441+00:00"
-    },
-    "6691bd3b8c881b05": {
-      "title": "A personalized scam [AI-enabled] is coming for you",
-      "fetched_at": "2026-07-28T19:04:47.487363+00:00"
-    },
-    "8ff15fdae0de41ce": {
-      "title": "Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code",
-      "fetched_at": "2026-07-28T19:04:48.093919+00:00"
-    },
-    "774d0a9d906e3572": {
-      "title": "The Download: OpenAI's predictable hack, and an AI stock sell-off",
-      "fetched_at": "2026-07-28T19:04:48.657118+00:00"
-    },
-    "013dd41f3dc82a81": {
-      "title": "长鑫科技上市首日股价飙升470%",
-      "fetched_at": "2026-07-28T19:04:51.518102+00:00"
-    },
-    "000c323e7227db8b": {
-      "title": "唐山大地震50週年：重塑中國社會肌理半世紀的「餘震」",
-      "fetched_at": "2026-07-28T19:04:52.087957+00:00"
-    },
-    "8f783f107f11f6a2": {
-      "title": "Study Suggests Smaller Maya Communities Relied on Maize",
-      "fetched_at": "2026-07-28T19:04:56.602888+00:00"
-    },
-    "752259fb461fdca1": {
-      "title": "Killer whales sink another boat off the coast of Spain — why are they still doing this after 6 years?",
-      "fetched_at": "2026-07-28T19:04:57.176437+00:00"
-    },
-    "71cbd9cfdcb4ffb4": {
-      "title": "How to watch 'Jurassic Sharks' online – stream 'Shark Week' 2026 from anywhere",
-      "fetched_at": "2026-07-28T19:04:57.752777+00:00"
-    },
     "7c1d1d7a9420682e": {
       "title": "央行7月29日公开市场开展2065亿元7天期逆回购操作",
       "fetched_at": "2026-07-29T01:27:03.221822+00:00"
@@ -3787,7 +3687,155 @@
     "ad89fac31b72f55d": {
       "title": "Cultural Capital and the Productivity of Ideas: Evidence from Historical Texts [pdf]",
       "fetched_at": "2026-08-05T13:40:21.402773+00:00"
+    },
+    "cc23b928b1e2a89e": {
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "fetched_at": "2026-08-05T19:11:59.159417+00:00"
+    },
+    "9b5d2c198596811a": {
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "fetched_at": "2026-08-05T19:11:59.769324+00:00"
+    },
+    "c5a27e2db7ebd7d7": {
+      "title": "SpaceX is barely Space and mostly X",
+      "fetched_at": "2026-08-05T19:12:00.383524+00:00"
+    },
+    "fa8f69e0d4ea98aa": {
+      "title": "Reddit is introducing a new moderator: AI",
+      "fetched_at": "2026-08-05T19:12:00.999633+00:00"
+    },
+    "6556a44731e45cf6": {
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "fetched_at": "2026-08-05T19:12:01.598880+00:00"
+    },
+    "d94c683cd47e6d65": {
+      "title": "Hark previews its browser use agent for completing tasks",
+      "fetched_at": "2026-08-05T19:12:02.214324+00:00"
+    },
+    "f48245731997d05f": {
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "fetched_at": "2026-08-05T19:12:02.827038+00:00"
+    },
+    "785afe2b3846e0f2": {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "fetched_at": "2026-08-05T19:12:03.452536+00:00"
+    },
+    "f778aaff8f894c37": {
+      "title": "Anthropic is hiring an AI chip design team",
+      "fetched_at": "2026-08-05T19:12:04.074610+00:00"
+    },
+    "58b34099248ef19b": {
+      "title": "Google Assistant will disappear from your phone next month",
+      "fetched_at": "2026-08-05T19:12:04.698067+00:00"
+    },
+    "ed312ee43de68e00": {
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "fetched_at": "2026-08-05T19:12:05.322894+00:00"
+    },
+    "9a968fa1969bb320": {
+      "title": "Trump’s AI testing plan is limited and vague",
+      "fetched_at": "2026-08-05T19:12:05.942949+00:00"
+    },
+    "e28b0b0695267851": {
+      "title": "196 张盗版碟，和我的游戏启蒙史",
+      "fetched_at": "2026-08-05T19:12:06.556826+00:00"
+    },
+    "ab1d2aaba4afb279": {
+      "title": "Bookology：从藏书到笔记，打造你的私人阅读档案",
+      "fetched_at": "2026-08-05T19:12:07.158782+00:00"
+    },
+    "b17b80fb6f07ff99": {
+      "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
+      "fetched_at": "2026-08-05T19:12:07.775150+00:00"
+    },
+    "e6c330e71da9fcf6": {
+      "title": "派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等",
+      "fetched_at": "2026-08-05T19:12:08.385970+00:00"
+    },
+    "291e5992bb2eaefa": {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "fetched_at": "2026-08-05T19:12:09.002606+00:00"
+    },
+    "763f0829d0002046": {
+      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+      "fetched_at": "2026-08-05T19:12:09.629387+00:00"
+    },
+    "d7a2363a1af206d6": {
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "fetched_at": "2026-08-05T19:12:10.248146+00:00"
+    },
+    "79954d438eea3abe": {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "fetched_at": "2026-08-05T19:12:10.920203+00:00"
+    },
+    "694ab39747dc3b43": {
+      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
+      "fetched_at": "2026-08-05T19:12:13.936405+00:00"
+    },
+    "80bc799332be9990": {
+      "title": "白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術",
+      "fetched_at": "2026-08-05T19:12:14.550256+00:00"
+    },
+    "ec6de51be7aea390": {
+      "title": "NSF Inouye Solar Telescope Enables Major Discovery of a Hidden Solar Process",
+      "fetched_at": "2026-08-05T19:12:19.137623+00:00"
+    },
+    "a9742c3d01b71912": {
+      "title": "Why the Aug. 12 total solar eclipse appears to move backward on maps",
+      "fetched_at": "2026-08-05T19:12:19.744830+00:00"
+    },
+    "ae2a5c8e644a22b6": {
+      "title": "Stunning fossil from Australian outback reveals pliosaur killed a sea monster that had just eaten a pterosaur",
+      "fetched_at": "2026-08-05T19:12:20.348965+00:00"
+    },
+    "8c33d39f460bdf99": {
+      "title": "Discovery Loop",
+      "fetched_at": "2026-08-05T19:12:20.961026+00:00"
+    },
+    "5aafd319142d4fae": {
+      "title": "'It's incredibly rare to see a moment like this in the ocean': Camera drone captures moment humpback whale gives birth off Australian coast",
+      "fetched_at": "2026-08-05T19:12:21.595875+00:00"
+    },
+    "b49c5a510b31f2c9": {
+      "title": "'It's real, and it's happening': Antibiotic resistance in kids is rising around the world, massive study finds",
+      "fetched_at": "2026-08-05T19:12:22.207651+00:00"
+    },
+    "087689602b86ac7b": {
+      "title": "Ancient Sea Worms Have \"Biometal\" Jaws",
+      "fetched_at": "2026-08-05T19:12:22.817518+00:00"
+    },
+    "61c3c1a95c314018": {
+      "title": "Webb telescope finds signs of ancient disaster for Neptune's moons",
+      "fetched_at": "2026-08-05T19:12:23.429831+00:00"
+    },
+    "82e95473b4e0655d": {
+      "title": "Ancient, never-before-seen 'earthworks' discovered in the Amazon",
+      "fetched_at": "2026-08-05T19:12:24.056472+00:00"
+    },
+    "6fb021e10d1bddc9": {
+      "title": "Ancient shipwreck cargo reveals surprising global trade secrets of the 1600s",
+      "fetched_at": "2026-08-05T19:12:24.682277+00:00"
+    },
+    "f1739de89dc72444": {
+      "title": "Misfolded insulin may be quietly driving diabetes",
+      "fetched_at": "2026-08-05T19:12:25.322890+00:00"
+    },
+    "044f08ef857a3bb2": {
+      "title": "Hidden charcoal reveals the true age of ancient cave paintings",
+      "fetched_at": "2026-08-05T19:12:25.947798+00:00"
+    },
+    "54ddeda7dc699386": {
+      "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
+      "fetched_at": "2026-08-05T19:12:26.580132+00:00"
+    },
+    "f5e4f5e8dba30dbe": {
+      "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
+      "fetched_at": "2026-08-05T19:12:27.211858+00:00"
+    },
+    "50d5cfa3f1c9b195": {
+      "title": "Twisted laser light can tell mirror-image molecules apart",
+      "fetched_at": "2026-08-05T19:12:27.838520+00:00"
     }
   },
-  "last_updated": "2026-08-05T13:40:21.515325+00:00"
+  "last_updated": "2026-08-05T19:12:27.910827+00:00"
 }
