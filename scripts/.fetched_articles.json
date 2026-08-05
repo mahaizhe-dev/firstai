@@ -1,133 +1,5 @@
 {
   "articles": {
-    "be0966d61f89b118": {
-      "title": "How AI is powering business email compromise at scale",
-      "fetched_at": "2026-07-28T13:27:36.905174+00:00"
-    },
-    "08a705eea3e628bc": {
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
-      "fetched_at": "2026-07-28T13:27:37.540042+00:00"
-    },
-    "11f9cb54864a4c1f": {
-      "title": "My local LLM scored 6/6. It was wrong every time",
-      "fetched_at": "2026-07-28T13:27:38.182508+00:00"
-    },
-    "921bcc85bee50174": {
-      "title": "Show HN: Dinjure – Bulls and Cows in one HTML file, with a fallible AI",
-      "fetched_at": "2026-07-28T13:27:38.835786+00:00"
-    },
-    "3d7044baf19d1cc9": {
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "fetched_at": "2026-07-28T13:27:39.464776+00:00"
-    },
-    "3f76fbbe8765f0ab": {
-      "title": "Securing the Future of AI Agents",
-      "fetched_at": "2026-07-28T13:27:40.077880+00:00"
-    },
-    "1d013ac6ef25c852": {
-      "title": "Tenir: A Counter-Pressure Architecture for Safe Agentic AI Under Irreversibly",
-      "fetched_at": "2026-07-28T13:27:40.747582+00:00"
-    },
-    "e41f166a30783edd": {
-      "title": "OptMem – Permanent memory for AI agents",
-      "fetched_at": "2026-07-28T13:27:41.379533+00:00"
-    },
-    "ed47d5ed0ada7766": {
-      "title": "Using AI for Automated Tasks",
-      "fetched_at": "2026-07-28T13:27:42.016000+00:00"
-    },
-    "e6c35490665425eb": {
-      "title": "What AI developers could learn from Charles Bukowski?",
-      "fetched_at": "2026-07-28T13:27:42.648014+00:00"
-    },
-    "198f6f83a1865fa1": {
-      "title": "工信部：将会同相关部门加快编制发布汽车企业供应商货款支付规范指引",
-      "fetched_at": "2026-07-28T13:27:43.267700+00:00"
-    },
-    "12561f1ef1b8c16e": {
-      "title": "AI meets Cryptography 3: What AI Found in Bron Labs's bron-crypto",
-      "fetched_at": "2026-07-28T13:27:43.887962+00:00"
-    },
-    "ae4ca24f30201a83": {
-      "title": "热门中概股美股盘前多数上涨，京东涨超2%",
-      "fetched_at": "2026-07-28T13:27:44.526981+00:00"
-    },
-    "1b485206fe976805": {
-      "title": "XMPP Agent Gateway: A protocol for discovering and invoking AI agents",
-      "fetched_at": "2026-07-28T13:27:45.151200+00:00"
-    },
-    "adb88a061b6dc8d7": {
-      "title": "美股大型科技股盘前涨跌不一，康宁跌超17%",
-      "fetched_at": "2026-07-28T13:27:45.779479+00:00"
-    },
-    "30efa449bdd435c7": {
-      "title": "Show HN: Preloop: Open-source control plane for AI agents. See, govern, cut cost",
-      "fetched_at": "2026-07-28T13:27:46.400323+00:00"
-    },
-    "01676bd38ebdd727": {
-      "title": "Show HN: Banksia – Build and run adaptable, accountable AI teams",
-      "fetched_at": "2026-07-28T13:27:47.030101+00:00"
-    },
-    "6b2190f93faca4fb": {
-      "title": "五粮液：肖浩辞任董事",
-      "fetched_at": "2026-07-28T13:27:47.655586+00:00"
-    },
-    "172b4288ab3eb82d": {
-      "title": "Puck AI – Visual AI builder embedded in your app",
-      "fetched_at": "2026-07-28T13:27:48.282860+00:00"
-    },
-    "d5952f95c65364c0": {
-      "title": "“TabTin”完成6000万元天使轮融资",
-      "fetched_at": "2026-07-28T13:27:48.910639+00:00"
-    },
-    "694ab39747dc3b43": {
-      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
-      "fetched_at": "2026-07-28T13:27:52.084643+00:00"
-    },
-    "9f971c94366020d7": {
-      "title": "一文讀懂德國柏林驕傲遊行攻擊事件經過",
-      "fetched_at": "2026-07-28T13:27:52.707527+00:00"
-    },
-    "80bc799332be9990": {
-      "title": "白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術",
-      "fetched_at": "2026-07-28T13:27:53.330850+00:00"
-    },
-    "15097e9f4e54b015": {
-      "title": "Introducing Live Science Pro — a new space to get all the science with none of the distractions",
-      "fetched_at": "2026-07-28T13:28:07.652801+00:00"
-    },
-    "6a819e7afbece315": {
-      "title": "The ultimate packing list for Aug. 12, as a solar eclipse coincides with the Perseid meteors peak",
-      "fetched_at": "2026-07-28T13:28:08.267657+00:00"
-    },
-    "aebd41a990b07a19": {
-      "title": "Colossal scars of 60 million-year-long continental collision streak across warped mountains in Pakistan — Earth from space",
-      "fetched_at": "2026-07-28T13:28:08.900084+00:00"
-    },
-    "813d3189b59546f9": {
-      "title": "'World models' are the future of AI, but how do they work?",
-      "fetched_at": "2026-07-28T13:28:09.529135+00:00"
-    },
-    "f1739de89dc72444": {
-      "title": "Misfolded insulin may be quietly driving diabetes",
-      "fetched_at": "2026-07-28T13:28:10.145085+00:00"
-    },
-    "044f08ef857a3bb2": {
-      "title": "Hidden charcoal reveals the true age of ancient cave paintings",
-      "fetched_at": "2026-07-28T13:28:10.769756+00:00"
-    },
-    "54ddeda7dc699386": {
-      "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
-      "fetched_at": "2026-07-28T13:28:11.460979+00:00"
-    },
-    "f5e4f5e8dba30dbe": {
-      "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
-      "fetched_at": "2026-07-28T13:28:12.084950+00:00"
-    },
-    "50d5cfa3f1c9b195": {
-      "title": "Twisted laser light can tell mirror-image molecules apart",
-      "fetched_at": "2026-07-28T13:28:12.700017+00:00"
-    },
     "f857c1a4b4780bcb": {
       "title": "Why AI Agents Need Databases That Branch Like Git",
       "fetched_at": "2026-07-28T19:04:37.689409+00:00"
@@ -3771,7 +3643,151 @@
     "2cca8008bee9a1bf": {
       "title": "Half of the world's dams could be 'functionally inoperable' by 2060 from being flooded with sediment — and the American West is a major hotspot",
       "fetched_at": "2026-08-05T08:14:21.779334+00:00"
+    },
+    "1dabc2f39db4c4ab": {
+      "title": "I run a 9-model LLM council to write a financial newsletter. What breaks",
+      "fetched_at": "2026-08-05T13:39:45.832943+00:00"
+    },
+    "3062ba59bccc1397": {
+      "title": "Cloudflare OS – an open-source AI productivity environment",
+      "fetched_at": "2026-08-05T13:39:46.459151+00:00"
+    },
+    "25a0d79c69895138": {
+      "title": "Show HN: LearnOS – Open-source, AI-native Coursera you run locally",
+      "fetched_at": "2026-08-05T13:39:47.095585+00:00"
+    },
+    "bbcd4c19b6c5c532": {
+      "title": "Show HN: PageForth - An on-device AI news reader that summarizes any site",
+      "fetched_at": "2026-08-05T13:39:47.729498+00:00"
+    },
+    "52328c3d0946e4c5": {
+      "title": "The Day the World Stopped Needing Horses: What AI Could Mean for Human Jobs",
+      "fetched_at": "2026-08-05T13:39:48.359063+00:00"
+    },
+    "3db3aea1ebfcf617": {
+      "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+      "fetched_at": "2026-08-05T13:39:49.016924+00:00"
+    },
+    "1362244d40a34a4b": {
+      "title": "From Individual Genius to World-Mind: How AI Ends the \"Heroic Age\" of Math",
+      "fetched_at": "2026-08-05T13:39:49.643647+00:00"
+    },
+    "d29f4ed7ef5703e2": {
+      "title": "Niall Ferguson: AI Is the Most Dangerous Arms Race in History",
+      "fetched_at": "2026-08-05T13:39:50.267743+00:00"
+    },
+    "323b86ec50f86cb8": {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "fetched_at": "2026-08-05T13:39:50.905244+00:00"
+    },
+    "c679f78c78367a95": {
+      "title": "Show HN: Labgrid-MCP – let AI agents drive real embedded hardware labs",
+      "fetched_at": "2026-08-05T13:39:51.542622+00:00"
+    },
+    "93bd1110f728ceb7": {
+      "title": "Wan 3.0 Best AI Video Generator",
+      "fetched_at": "2026-08-05T13:39:52.202235+00:00"
+    },
+    "3da2b5e62b3a9b82": {
+      "title": "Show HN: AuditBadger – SOC 2 and ISO 27001 – AI drafts, you approve",
+      "fetched_at": "2026-08-05T13:39:52.826017+00:00"
+    },
+    "ec62294aa5390c75": {
+      "title": "AI review missed Coldcard flaw",
+      "fetched_at": "2026-08-05T13:39:53.503142+00:00"
+    },
+    "e4338494fc05a229": {
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "fetched_at": "2026-08-05T13:39:54.127333+00:00"
+    },
+    "2a43eccdf62f4afe": {
+      "title": "Turn one giant AI-generated pull request to a reviewable stack",
+      "fetched_at": "2026-08-05T13:39:54.748251+00:00"
+    },
+    "a3d2f74020b99862": {
+      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "fetched_at": "2026-08-05T13:39:55.382398+00:00"
+    },
+    "456ac1f6d6021a56": {
+      "title": "Show HN: Feedback widget with screenshots, annotations, and AI triage",
+      "fetched_at": "2026-08-05T13:39:56.003878+00:00"
+    },
+    "eac9286737639e77": {
+      "title": "Data-centre reality check could slam brakes on AI earnings boom",
+      "fetched_at": "2026-08-05T13:39:56.633755+00:00"
+    },
+    "696903f51ec26bdf": {
+      "title": "Why the Legendary Erdős Problems Are Falling to AI",
+      "fetched_at": "2026-08-05T13:39:57.306683+00:00"
+    },
+    "4c5f86ed4c602c87": {
+      "title": "Study: People prefer stories written by AI",
+      "fetched_at": "2026-08-05T13:39:57.973292+00:00"
+    },
+    "6c9346ea94baf0c6": {
+      "title": "中國印尼合作衛星楠榜一號帶來的益處與風險",
+      "fetched_at": "2026-08-05T13:40:00.620953+00:00"
+    },
+    "be3b75e0a96b9c13": {
+      "title": "Drug Discovery Has No Magic Wands by Daphne Koller",
+      "fetched_at": "2026-08-05T13:40:12.428160+00:00"
+    },
+    "88b02d5369fc88be": {
+      "title": "Diagnostic dilemma: Man who consulted ChatGPT about cutting out table salt ended up hospitalized with psychosis",
+      "fetched_at": "2026-08-05T13:40:13.090045+00:00"
+    },
+    "24927d29ecdce671": {
+      "title": "Scientists discover the brain cells that keep you motivated",
+      "fetched_at": "2026-08-05T13:40:13.730352+00:00"
+    },
+    "aee87f3494dafd45": {
+      "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
+      "fetched_at": "2026-08-05T13:40:14.410970+00:00"
+    },
+    "7b562ee94f1ecff8": {
+      "title": "This school-bus-sized “terror croc” ate dinosaurs. Now it’s back",
+      "fetched_at": "2026-08-05T13:40:15.029021+00:00"
+    },
+    "5cadb402c293eb5e": {
+      "title": "LAPD Abandons Flock Contract After Making a Horrifying Discovery",
+      "fetched_at": "2026-08-05T13:40:15.680543+00:00"
+    },
+    "066aba7c32a01db9": {
+      "title": "A colossal magma system has been hiding beneath Tuscany",
+      "fetched_at": "2026-08-05T13:40:16.297050+00:00"
+    },
+    "84b0cbc10e64b207": {
+      "title": "Show HN: Aidress – open-source discovery and trust registry for agents",
+      "fetched_at": "2026-08-05T13:40:16.954710+00:00"
+    },
+    "276d27e292dc7700": {
+      "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
+      "fetched_at": "2026-08-05T13:40:17.575854+00:00"
+    },
+    "cf5d4a4667d11829": {
+      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
+      "fetched_at": "2026-08-05T13:40:18.202273+00:00"
+    },
+    "62950f5920f2b4d9": {
+      "title": "Did T. rex leave these 66-million-year-old bite marks?",
+      "fetched_at": "2026-08-05T13:40:18.851753+00:00"
+    },
+    "f4249ba04ad643c6": {
+      "title": "Scientists catch a “jumping gene” mid-leap between species",
+      "fetched_at": "2026-08-05T13:40:19.529927+00:00"
+    },
+    "3aaed663ec0c8a34": {
+      "title": "Harness Archaeology",
+      "fetched_at": "2026-08-05T13:40:20.143531+00:00"
+    },
+    "8103c15b4c7729e3": {
+      "title": "Drug Discovery Has No Magic Wands",
+      "fetched_at": "2026-08-05T13:40:20.786599+00:00"
+    },
+    "ad89fac31b72f55d": {
+      "title": "Cultural Capital and the Productivity of Ideas: Evidence from Historical Texts [pdf]",
+      "fetched_at": "2026-08-05T13:40:21.402773+00:00"
     }
   },
-  "last_updated": "2026-08-05T08:14:21.933042+00:00"
+  "last_updated": "2026-08-05T13:40:21.515325+00:00"
 }
