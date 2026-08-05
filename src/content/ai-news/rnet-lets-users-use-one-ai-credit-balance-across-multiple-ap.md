@@ -1,0 +1,10 @@
+---
+title: 'RNet lets users use one AI credit balance across multiple apps [demo]'
+description: 'demo video : https://youtu.be/W7U3HdI37N0I built rNet to let users use their AI credits across multiple apps.Note: by "users" I mean not developers but end users, normal people.Why? I was using an age'
+pubDate: 2026-08-05T08:04:56
+source: 'Hacker News'
+sourceUrl: 'https://news.ycombinator.com/item?id=49179899'
+tags: []
+---
+
+demo video : https://youtu.be/W7U3HdI37N0I built rNet to let users use their AI credits across multiple apps.Note: by "users" I mean not developers but end users, normal people.Why? I was using an agentic IDE and a Hostinger deployment agent, both. One day, I ran out of credits on the deployment agent. To continue using it, I had to wait for the credits to reset or upgrade to a higher subscription but I already have a subscription to the agentic IDE, and that credit I cannot use on Hostinger. Despite having credits, we cannot use them.In rNet every Users have a credit wallet sort of a money wallet. Developer apps connect to this wallet, then use the AI credit. means the Hostinger agent can use the IDE's credit.To enable a credit wallet on a developer's app or website, they need to use our library and AI gateway.list of connected apps and "models" is still small today, so users and developers can't get full value yet. If you like the concept and it solves a real problem, join the waitlist: https://www.rnetai.org/reserve-spot Comments URL: https://news.ycombinator.com/item?id=49179899 Points: 1 # Comments: 0

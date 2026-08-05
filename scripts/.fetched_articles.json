@@ -1,129 +1,5 @@
 {
   "articles": {
-    "45b89d2acf178669": {
-      "title": "恒指收涨0.41%，恒生科技指数涨0.61%",
-      "fetched_at": "2026-07-28T08:12:16.389297+00:00"
-    },
-    "514dc64309c48e62": {
-      "title": "Some people's chats with Claude AI found to be publicly available online",
-      "fetched_at": "2026-07-28T08:12:16.967879+00:00"
-    },
-    "b3ba2f23ce680622": {
-      "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
-      "fetched_at": "2026-07-28T08:12:17.534588+00:00"
-    },
-    "79804c60b92a6d9f": {
-      "title": "科达利：拟1.5亿元-3亿元回购公司股份，回购价不超292元/股",
-      "fetched_at": "2026-07-28T08:12:18.098075+00:00"
-    },
-    "91d1c09a94ea4a66": {
-      "title": "岱美股份：拟收购茸明科技100%股权",
-      "fetched_at": "2026-07-28T08:12:18.661621+00:00"
-    },
-    "632d543798458e61": {
-      "title": "商务部：人工智能相关产品成为中国外贸“新名片”",
-      "fetched_at": "2026-07-28T08:12:19.224087+00:00"
-    },
-    "1cd55f3a42771cfe": {
-      "title": "飞天茅台双价格体系：自营门店价格上调至1719元/瓶，多家称“无现货”",
-      "fetched_at": "2026-07-28T08:12:19.792361+00:00"
-    },
-    "5b70e8d75a78f2b1": {
-      "title": "恒瑞医药在浙江成立新公司，注册资本5000万",
-      "fetched_at": "2026-07-28T08:12:20.353342+00:00"
-    },
-    "edb65a03e227a985": {
-      "title": "商务部：中国工业产能利用率总体处于合理区间",
-      "fetched_at": "2026-07-28T08:12:20.918848+00:00"
-    },
-    "89f92fdaae55a083": {
-      "title": "商务部：中国从不刻意追求贸易顺差",
-      "fetched_at": "2026-07-28T08:12:21.483001+00:00"
-    },
-    "cb9f254a92bc62b0": {
-      "title": "美国电信运营商T-Mobile突发全国性网络瘫痪，官方称正全力抢修",
-      "fetched_at": "2026-07-28T08:12:22.133713+00:00"
-    },
-    "942ea5c605d3a578": {
-      "title": "Show HN: Reverse-engineer viral videos into AI-ready shot breakdowns",
-      "fetched_at": "2026-07-28T08:12:22.699768+00:00"
-    },
-    "2667bb06a968f9d8": {
-      "title": "奥地利拟出台法案限制14岁以下用社媒",
-      "fetched_at": "2026-07-28T08:12:23.305489+00:00"
-    },
-    "2de037217e8bf5ee": {
-      "title": "广州国际商业港集团登记成立，注册资本30亿",
-      "fetched_at": "2026-07-28T08:12:23.873442+00:00"
-    },
-    "018a152c9becfeb2": {
-      "title": "6月末银行理财市场存续规模33.66万亿元，同比增加9.75%",
-      "fetched_at": "2026-07-28T08:12:24.463926+00:00"
-    },
-    "d9e632fa091f08a4": {
-      "title": "国家能源局：6月底电动汽车充电基础设施（枪）总数达到2305.7万个，同比增长43.2%",
-      "fetched_at": "2026-07-28T08:12:25.026935+00:00"
-    },
-    "4962b489b72e246e": {
-      "title": "怕散户爆仓，韩国考虑为“借钱炒股”封顶20%",
-      "fetched_at": "2026-07-28T08:12:25.602399+00:00"
-    },
-    "38056914272d996a": {
-      "title": "座椅安装不当，美拟检查453架波音客机",
-      "fetched_at": "2026-07-28T08:12:26.198709+00:00"
-    },
-    "42b8d5cd6b3e157c": {
-      "title": "云南铜业增资至24.3亿，增幅约21%",
-      "fetched_at": "2026-07-28T08:12:26.776832+00:00"
-    },
-    "989bbbcea3e8fca5": {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "fetched_at": "2026-07-28T08:12:27.363097+00:00"
-    },
-    "7cf95a533c4b3292": {
-      "title": "自然災害頻傳，中國面臨新挑戰——AI偽造視頻",
-      "fetched_at": "2026-07-28T08:12:30.166645+00:00"
-    },
-    "24ebcad93048c531": {
-      "title": "Kimi K3技术细节公开，用户需获商业授权",
-      "fetched_at": "2026-07-28T08:12:30.733270+00:00"
-    },
-    "72c2ec8a1aaa66c0": {
-      "title": "唐山大地震50週年：從毛澤東批閱到44年後的餘震，五個鮮為人知的歷史細節",
-      "fetched_at": "2026-07-28T08:12:31.303181+00:00"
-    },
-    "83ecca5a29369df5": {
-      "title": "中国人工智能模型快速崛起，但企业如何赚钱？",
-      "fetched_at": "2026-07-28T08:12:31.886589+00:00"
-    },
-    "952fcda9794bec96": {
-      "title": "越南货船在南海争议海域沉没，中国参与救援",
-      "fetched_at": "2026-07-28T08:12:32.456749+00:00"
-    },
-    "03a6e693383fc116": {
-      "title": "从马车到“空军一号”：美国总统出行简史",
-      "fetched_at": "2026-07-28T08:12:33.035052+00:00"
-    },
-    "74d504e983b3b803": {
-      "title": "参与镇压维吾尔人的前新疆警察：我也是受害者",
-      "fetched_at": "2026-07-28T08:12:33.602447+00:00"
-    },
-    "0de1d0622943c707": {
-      "title": "一文讀懂柏林驕傲遊行攻擊事件的最新情況",
-      "fetched_at": "2026-07-28T08:12:34.178220+00:00"
-    },
-    "e217cc74fba8e0ec": {
-      "title": "Science word of the day: Seamount",
-      "fetched_at": "2026-07-28T08:12:43.789884+00:00"
-    },
-    "d00687b7a3a56afc": {
-      "title": "Cracking the code: can AI help us decipher ancient languages?",
-      "fetched_at": "2026-07-28T08:12:44.363473+00:00"
-    },
-    "baaa2619b317be7c": {
-      "title": "First Genesis Mission Projects Selected to Boost AI-Driven Scientific Discovery",
-      "fetched_at": "2026-07-28T08:12:44.935073+00:00"
-    },
     "be0966d61f89b118": {
       "title": "How AI is powering business email compromise at scale",
       "fetched_at": "2026-07-28T13:27:36.905174+00:00"
@@ -3783,7 +3659,119 @@
     "3a5cdad563c65bfb": {
       "title": "After 241 days in orbit this NASA astronaut is finally home",
       "fetched_at": "2026-08-05T01:27:08.349453+00:00"
+    },
+    "604862150eeb90b5": {
+      "title": "SpaceX's AI ambitions burning through Starlink revenue",
+      "fetched_at": "2026-08-05T08:13:59.445773+00:00"
+    },
+    "a59b19526c754e77": {
+      "title": "OpenAI cuts GPT-5.6 pricing and adds Fast mode to the API",
+      "fetched_at": "2026-08-05T08:14:00.076917+00:00"
+    },
+    "3f29294914efd154": {
+      "title": "RNet lets users use one AI credit balance across multiple apps [demo]",
+      "fetched_at": "2026-08-05T08:14:00.734329+00:00"
+    },
+    "7c400a8695f409ae": {
+      "title": "China's tech giants race to put AI on delivery riders' heads",
+      "fetched_at": "2026-08-05T08:14:01.387653+00:00"
+    },
+    "40c8c0b0a94489e0": {
+      "title": "The Attack Was Authorized: The Missing Security Boundary for AI Agents",
+      "fetched_at": "2026-08-05T08:14:02.038952+00:00"
+    },
+    "1d1e28965d2f03fe": {
+      "title": "AI search is turning Reddit comments into ads",
+      "fetched_at": "2026-08-05T08:14:02.691509+00:00"
+    },
+    "a407650ebf22df38": {
+      "title": "AI's Influencer Problem",
+      "fetched_at": "2026-08-05T08:14:03.329382+00:00"
+    },
+    "63f3b6b171c28825": {
+      "title": "Show HN: GuidedReview, a Chrome extension that helps review AI generated PRs",
+      "fetched_at": "2026-08-05T08:14:03.969706+00:00"
+    },
+    "1772558af73865e6": {
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "fetched_at": "2026-08-05T08:14:04.646432+00:00"
+    },
+    "9ccb3947df3c97ec": {
+      "title": "Show HN: An AI office-work benchmark, and 4 bugs we found in our own judge",
+      "fetched_at": "2026-08-05T08:14:05.274712+00:00"
+    },
+    "7fa348a37903f2d2": {
+      "title": "I'm Begging You: Never Write with AI",
+      "fetched_at": "2026-08-05T08:14:05.922189+00:00"
+    },
+    "d91c223cd98035d1": {
+      "title": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff",
+      "fetched_at": "2026-08-05T08:14:06.560083+00:00"
+    },
+    "b967b5b004291c85": {
+      "title": "ChatGPT accounts for 80% of identifiable House AI spending",
+      "fetched_at": "2026-08-05T08:14:07.255702+00:00"
+    },
+    "542d9d6f27ccb7e5": {
+      "title": "An AI Approach to Verified Production Cryptographic Libraries",
+      "fetched_at": "2026-08-05T08:14:07.878047+00:00"
+    },
+    "f838c05ed6fc8604": {
+      "title": "Show HN: A file-based protocol for two AI agents to talk until they agree",
+      "fetched_at": "2026-08-05T08:14:08.531382+00:00"
+    },
+    "59cf25ff3e15a635": {
+      "title": "Rust-lang/rust is adopting an LLM policy",
+      "fetched_at": "2026-08-05T08:14:09.189332+00:00"
+    },
+    "663fb948fe0dd356": {
+      "title": "Show HN: Rever-browser – AI-agent browser for reverse-engineering",
+      "fetched_at": "2026-08-05T08:14:09.818562+00:00"
+    },
+    "35ceb532a29e6e72": {
+      "title": "Hollywood is entering its AI era",
+      "fetched_at": "2026-08-05T08:14:10.467999+00:00"
+    },
+    "0a3e046f133542c9": {
+      "title": "Nono: Sandbox any AI agent in seconds – zero setup, zero latency",
+      "fetched_at": "2026-08-05T08:14:11.093078+00:00"
+    },
+    "a28e9bdc2cd2686a": {
+      "title": "Forward-deployed engineers are the AI industry's latest talent obsession",
+      "fetched_at": "2026-08-05T08:14:11.746073+00:00"
+    },
+    "5356cb725b0ec605": {
+      "title": "霍爾木茲海峽滯留船隻可能觸發海洋「超級傳播」事件",
+      "fetched_at": "2026-08-05T08:14:14.100631+00:00"
+    },
+    "6acbe8dc73a31458": {
+      "title": "月經週期：什麼是「黃體期變醜」？如何影響女性？",
+      "fetched_at": "2026-08-05T08:14:14.740101+00:00"
+    },
+    "d2cc6d2c9ff9b2fd": {
+      "title": "打造韩国版澳门：美国原住民部落的一场豪赌",
+      "fetched_at": "2026-08-05T08:14:15.387246+00:00"
+    },
+    "7cb1bfb6e06ee2e2": {
+      "title": "边检排队六小时？欧洲全新出入境系统引发旅行“噩梦”",
+      "fetched_at": "2026-08-05T08:14:16.021039+00:00"
+    },
+    "fa3ab649d917be40": {
+      "title": "韩国希望提高生育率，但新生儿科医生数量严重短缺",
+      "fetched_at": "2026-08-05T08:14:16.660335+00:00"
+    },
+    "dc790d041283076f": {
+      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
+      "fetched_at": "2026-08-05T08:14:17.297948+00:00"
+    },
+    "6c59c16ad88d3dd7": {
+      "title": "优步应对性侵诉讼的策略：“你当时穿了什么？”",
+      "fetched_at": "2026-08-05T08:14:17.913884+00:00"
+    },
+    "2cca8008bee9a1bf": {
+      "title": "Half of the world's dams could be 'functionally inoperable' by 2060 from being flooded with sediment — and the American West is a major hotspot",
+      "fetched_at": "2026-08-05T08:14:21.779334+00:00"
     }
   },
-  "last_updated": "2026-08-05T01:27:08.456173+00:00"
+  "last_updated": "2026-08-05T08:14:21.933042+00:00"
 }
