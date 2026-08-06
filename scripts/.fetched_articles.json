@@ -1,273 +1,5 @@
 {
   "articles": {
-    "409e53b79acf4fb0": {
-      "title": "Show HN: Multi-agent LLM editor with local inference via WebSockets",
-      "fetched_at": "2026-07-29T13:42:53.011219+00:00"
-    },
-    "f716ef3835739de7": {
-      "title": "Cavdo AI – Fast, minimal AI assistant with modern UI cleek and for professional",
-      "fetched_at": "2026-07-29T13:42:53.593700+00:00"
-    },
-    "fca1dbc05f63e344": {
-      "title": "Money, Bitcoin, and AI",
-      "fetched_at": "2026-07-29T13:42:54.170794+00:00"
-    },
-    "476cc3a4108b319b": {
-      "title": "Cavdo AI – Fast, minimal AI assistant with no signup or login",
-      "fetched_at": "2026-07-29T13:42:54.751168+00:00"
-    },
-    "0c3b3b6a61e3d0c7": {
-      "title": "Show HN: Anti AI AI Club",
-      "fetched_at": "2026-07-29T13:42:55.339963+00:00"
-    },
-    "a15f778eb72ae319": {
-      "title": "Using AI to Strengthen Learning, Not Replace It",
-      "fetched_at": "2026-07-29T13:42:55.917306+00:00"
-    },
-    "83447e715ded0a48": {
-      "title": "Show HN: Gitwhy – links AI coding sessions to Git commits before deletion",
-      "fetched_at": "2026-07-29T13:42:56.501135+00:00"
-    },
-    "b4448098a604b98a": {
-      "title": "FSR4.1 and CAD Available for Steam Machine",
-      "fetched_at": "2026-07-29T13:42:57.079593+00:00"
-    },
-    "d5112527428d2fe6": {
-      "title": "Show HN: Cadence Money – a budgeting app with no AI features, just an MCP server",
-      "fetched_at": "2026-07-29T13:42:57.725662+00:00"
-    },
-    "c8bfd11e898b4173": {
-      "title": "Show HN: ButterClaw – AI agent runtime security, SIGKILL on breach, no cloud",
-      "fetched_at": "2026-07-29T13:42:58.305866+00:00"
-    },
-    "274a5d366404ddae": {
-      "title": "Show HN: Job Finder India – an honest job-fit tool that runs in your AI CLI",
-      "fetched_at": "2026-07-29T13:42:58.883065+00:00"
-    },
-    "190c239409a88d74": {
-      "title": "Build AI Agents for Frontline Worker in Seconds",
-      "fetched_at": "2026-07-29T13:42:59.462557+00:00"
-    },
-    "b89b7152f832241d": {
-      "title": "What AI developers could learn from Ernest Hemingway?",
-      "fetched_at": "2026-07-29T13:43:00.104151+00:00"
-    },
-    "fa963ca20654e889": {
-      "title": "After the AI Crash",
-      "fetched_at": "2026-07-29T13:43:00.685823+00:00"
-    },
-    "5f980f4b4da861f1": {
-      "title": "Show HN: A Persistent AI RPG Engine Built with React SPA and Supabase",
-      "fetched_at": "2026-07-29T13:43:01.264407+00:00"
-    },
-    "f32b0efb94254810": {
-      "title": "热门中概股美股盘前多数上涨，理想汽车涨超4%",
-      "fetched_at": "2026-07-29T13:43:01.841860+00:00"
-    },
-    "2cf1485ca6022c2b": {
-      "title": "美股大型科技股盘前涨跌不一，格芯涨超3%",
-      "fetched_at": "2026-07-29T13:43:02.418432+00:00"
-    },
-    "9e82e1569cf3d7c0": {
-      "title": "Show HN: Echologue – the private AI voice journal I built for myself",
-      "fetched_at": "2026-07-29T13:43:03.003090+00:00"
-    },
-    "2868f94942b9b573": {
-      "title": "上交所投保专委会三大调研齐发，全面覆盖防非打非、AI应用与纠纷化解",
-      "fetched_at": "2026-07-29T13:43:03.601987+00:00"
-    },
-    "d07268a37c5379bc": {
-      "title": "韩国承诺采取更多措施稳定股市",
-      "fetched_at": "2026-07-29T13:43:04.184479+00:00"
-    },
-    "00f7b2665ca1a3ae": {
-      "title": "OpenAI：失控AI曾試圖入侵其他公司系統",
-      "fetched_at": "2026-07-29T13:43:06.174669+00:00"
-    },
-    "5620629eb5d9ce53": {
-      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
-      "fetched_at": "2026-07-29T13:43:06.759651+00:00"
-    },
-    "bdff52d70f189923": {
-      "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
-      "fetched_at": "2026-07-29T13:43:07.341746+00:00"
-    },
-    "8c7ac34c233fabf6": {
-      "title": "重視骨骼健康就是補鈣？吃哪些食物會有幫助？",
-      "fetched_at": "2026-07-29T13:43:07.920108+00:00"
-    },
-    "077cb9a01f24d130": {
-      "title": "How to watch 'Expedition X: Atomic Sharks' – stream 'Shark Week' 2026 from anywhere",
-      "fetched_at": "2026-07-29T13:43:45.737208+00:00"
-    },
-    "79b77a2710ab395d": {
-      "title": "'Demon cavefish' discovered under WWII chemical weapons facility in Alabama",
-      "fetched_at": "2026-07-29T13:43:46.343667+00:00"
-    },
-    "5f4085c6e321504a": {
-      "title": "Show HN: Gpuinstances.net, historical tracking for GPU prices across providers",
-      "fetched_at": "2026-07-29T13:43:46.923479+00:00"
-    },
-    "afccae3ffd034e56": {
-      "title": "Which solar eclipse viewing method is right for you?",
-      "fetched_at": "2026-07-29T13:43:47.503090+00:00"
-    },
-    "10347e4a33c64852": {
-      "title": "Catch an orange 'Buck Moon' rise tonight before a month of solar and lunar eclipses",
-      "fetched_at": "2026-07-29T13:43:48.098203+00:00"
-    },
-    "fd85985e84b86f37": {
-      "title": "Diagnostic dilemma: Rare 'spinal stroke' struck an 8-year-old and temporarily paralyzed her",
-      "fetched_at": "2026-07-29T13:43:48.687008+00:00"
-    },
-    "38c8e7deeef1960a": {
-      "title": "America's gun violence epidemic, through the eyes of a Chicago trauma surgeon",
-      "fetched_at": "2026-07-29T13:43:49.272733+00:00"
-    },
-    "201f46abccda1e69": {
-      "title": "Your gut may help your brain decide what to remember",
-      "fetched_at": "2026-07-29T13:43:49.852011+00:00"
-    },
-    "ec740532c605d9a6": {
-      "title": "Why are so many dead bumblebees appearing on sidewalks?",
-      "fetched_at": "2026-07-29T13:43:50.451513+00:00"
-    },
-    "0d0c75006f0440ba": {
-      "title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
-      "fetched_at": "2026-07-29T13:43:51.033262+00:00"
-    },
-    "ff32ed9cad6786d2": {
-      "title": "New microwave frying method could make french fries much healthier",
-      "fetched_at": "2026-07-29T13:43:51.617755+00:00"
-    },
-    "cde1b388d082608c": {
-      "title": "Can’t sleep in the heat? These 8 tricks could save your night",
-      "fetched_at": "2026-07-29T13:43:52.196208+00:00"
-    },
-    "ce4c1380c2f6c865": {
-      "title": "The search for life on Jupiter's icy moon Europa just got more complicated",
-      "fetched_at": "2026-07-29T13:43:52.784408+00:00"
-    },
-    "eab856bbe2df1c06": {
-      "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
-      "fetched_at": "2026-07-29T13:43:53.364354+00:00"
-    },
-    "d135171b02c9341c": {
-      "title": "One of Earth’s most explosive supervolcanoes is recharging with fresh magma",
-      "fetched_at": "2026-07-29T13:43:53.955770+00:00"
-    },
-    "d5ac0511aa2124cc": {
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "fetched_at": "2026-07-29T18:53:53.906562+00:00"
-    },
-    "a5fb913fc9d2ec8a": {
-      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-      "fetched_at": "2026-07-29T18:53:54.533288+00:00"
-    },
-    "746d82deae7dca18": {
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "fetched_at": "2026-07-29T18:53:55.160325+00:00"
-    },
-    "9201472e493afe30": {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "fetched_at": "2026-07-29T18:53:55.785797+00:00"
-    },
-    "2004be512c4a12bc": {
-      "title": "让AI先吃，这个国民级健康难题有解了",
-      "fetched_at": "2026-07-29T18:53:56.412376+00:00"
-    },
-    "6a5a816f967dd87f": {
-      "title": "美股大型科技股盘前涨���不一，格芯涨超3%",
-      "fetched_at": "2026-07-29T18:53:57.026657+00:00"
-    },
-    "0001c2944de10b67": {
-      "title": "英美资源集团据悉洽谈出售戴比尔斯，价格远低于该钻石巨头昔日的估值",
-      "fetched_at": "2026-07-29T18:53:57.658265+00:00"
-    },
-    "14b0feff7da83091": {
-      "title": "美国将向7家科技公司提供8.74亿美元研发资金并取得其少数股权",
-      "fetched_at": "2026-07-29T18:53:58.284698+00:00"
-    },
-    "65d9149222761c77": {
-      "title": "兆易创新：5月6日至6月12日朱一明合计减持约44亿元公司股份",
-      "fetched_at": "2026-07-29T18:53:58.908398+00:00"
-    },
-    "82fdf484bac3786e": {
-      "title": "英伟达合作伙伴广达电脑寻求发行全球存托股票筹资不超22亿美元",
-      "fetched_at": "2026-07-29T18:53:59.535694+00:00"
-    },
-    "1b61d9346b865d77": {
-      "title": "Artium AI成为OpenAI高级合作伙伴，助力企业开发定制化智能体AI方案",
-      "fetched_at": "2026-07-29T18:54:00.150248+00:00"
-    },
-    "ce78c9ce57716aca": {
-      "title": "腾讯混元开源AngelSpec",
-      "fetched_at": "2026-07-29T18:54:00.785156+00:00"
-    },
-    "aec9229844c52e80": {
-      "title": "兆易创新：控股股东朱一明承诺未来12个月不减持公司股份",
-      "fetched_at": "2026-07-29T18:54:01.405580+00:00"
-    },
-    "fbcaefdebc73b9dd": {
-      "title": "兆易创新：董事长提议以10亿元-20亿元回购公司股份",
-      "fetched_at": "2026-07-29T18:54:02.018385+00:00"
-    },
-    "5246740c5f3af948": {
-      "title": "联创电子：控股股东拟变更为寿县新桥，股票明起复牌",
-      "fetched_at": "2026-07-29T18:54:02.644158+00:00"
-    },
-    "54f589dcddee1f39": {
-      "title": "永鼎股份：控股子公司签订约11.33亿元大功率激光器芯片采购订单",
-      "fetched_at": "2026-07-29T18:54:03.278341+00:00"
-    },
-    "97ef15f1382d3f27": {
-      "title": "宝洁第四财季净销售额212亿美元，同比增长2%",
-      "fetched_at": "2026-07-29T18:54:03.912803+00:00"
-    },
-    "a6a5e32993b8a88a": {
-      "title": "上交所终止韬盛科技科创板IPO审核",
-      "fetched_at": "2026-07-29T18:54:04.534953+00:00"
-    },
-    "96edb56a80cd1330": {
-      "title": "行云科技：全资子公司签订算力服务补充协议，合同金额增至30.53亿元",
-      "fetched_at": "2026-07-29T18:54:05.167227+00:00"
-    },
-    "dfbd5ab0968af705": {
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "fetched_at": "2026-07-29T18:54:05.790317+00:00"
-    },
-    "a88614568a055869": {
-      "title": "距離金門僅三公里，廈門翔安機場為何引發台灣國安疑慮？",
-      "fetched_at": "2026-07-29T18:54:08.927034+00:00"
-    },
-    "b54e9d23a15e0a4d": {
-      "title": "New telescope images provide best evidence yet that the bright red star Betelgeuse is actually 2 stars in disguise",
-      "fetched_at": "2026-07-29T18:54:11.773000+00:00"
-    },
-    "1f285d4b9a63274b": {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "fetched_at": "2026-07-29T18:54:12.385683+00:00"
-    },
-    "44a510dabbd4f2ea": {
-      "title": "Monkeys have a basic intuition for geometry, study suggests",
-      "fetched_at": "2026-07-29T18:54:13.012753+00:00"
-    },
-    "eb6a55ce6096c8db": {
-      "title": "Biological 'superspreader' event could be imminent as more than 1,000 ships idle in the Strait of Hormuz, scientists warn",
-      "fetched_at": "2026-07-29T18:54:13.629702+00:00"
-    },
-    "1123854d0cc02e45": {
-      "title": "High-powered lasers can wirelessly charge drones mid-flight",
-      "fetched_at": "2026-07-29T18:54:14.250896+00:00"
-    },
-    "835f5125ef799389": {
-      "title": "A strange string of a dozen galaxies keeps surprising astronomers with its missing dark matter",
-      "fetched_at": "2026-07-29T18:54:14.880319+00:00"
-    },
-    "19d805b50a7a8eef": {
-      "title": "Why haven't organoids solved all of drug discovery?",
-      "fetched_at": "2026-07-29T18:54:15.502484+00:00"
-    },
     "275451ee7d038275": {
       "title": "人民币兑美元中间价报6.7892，上调7点",
       "fetched_at": "2026-07-30T01:19:10.879867+00:00"
@@ -3927,7 +3659,135 @@
     "c87f32e9b4bfb72b": {
       "title": "Forget the sperm race: Fertilization may depend on teamwork",
       "fetched_at": "2026-08-06T13:38:29.931122+00:00"
+    },
+    "f64732633e73238b": {
+      "title": "Quake: Dawn of the Machine – Launch Trailer [video]",
+      "fetched_at": "2026-08-06T23:47:27.976409+00:00"
+    },
+    "63fa30db80364607": {
+      "title": "Show HN: ARF – a record format for AI evaluation runs, with reproducible digests",
+      "fetched_at": "2026-08-06T23:47:28.591824+00:00"
+    },
+    "0180dd5128968b99": {
+      "title": "Intuitize – The Thoughtful AI",
+      "fetched_at": "2026-08-06T23:47:29.204925+00:00"
+    },
+    "d2089a765d186107": {
+      "title": "The energy use of agentic AI",
+      "fetched_at": "2026-08-06T23:47:29.833732+00:00"
+    },
+    "ff88c280ffd69f1f": {
+      "title": "Social Media AI Agent That Works over WhatsApp",
+      "fetched_at": "2026-08-06T23:47:30.442503+00:00"
+    },
+    "7790c62e5a3fda52": {
+      "title": "Show HN: GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor",
+      "fetched_at": "2026-08-06T23:47:31.052341+00:00"
+    },
+    "2991551f2481dcc7": {
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "fetched_at": "2026-08-06T23:47:31.659080+00:00"
+    },
+    "280859c4ebf18ea7": {
+      "title": "Introducing Dogwood: runtime verification for AI agents",
+      "fetched_at": "2026-08-06T23:47:32.272347+00:00"
+    },
+    "b2f5f060818c36d0": {
+      "title": "PyTorch Tutorial for Deep Learning – The JetBrains Blog",
+      "fetched_at": "2026-08-06T23:47:32.891467+00:00"
+    },
+    "11ff2d0b62484580": {
+      "title": "OpenAI and four rivals just agreed on one standard for AI agents",
+      "fetched_at": "2026-08-06T23:47:33.506268+00:00"
+    },
+    "29d656c58b617bd8": {
+      "title": "The messy politics behind Google's big AI shakeup",
+      "fetched_at": "2026-08-06T23:47:33.506396+00:00"
+    },
+    "498adb1c1685f711": {
+      "title": "BMS ran AI for drug discovery 3 years- what they found and why they doubled down",
+      "fetched_at": "2026-08-06T23:47:34.110739+00:00"
+    },
+    "dfcd0ea684b93e0b": {
+      "title": "Why AI is a risk to Communist China",
+      "fetched_at": "2026-08-06T23:47:34.722067+00:00"
+    },
+    "e134d91987de50a0": {
+      "title": "Google shifts AI power back to Brin as DeepMind's Hassabis steps aside",
+      "fetched_at": "2026-08-06T23:47:35.334061+00:00"
+    },
+    "02f8df851246325e": {
+      "title": "China built its 'Manhattan Project' to rival the West in AI chips [video]",
+      "fetched_at": "2026-08-06T23:47:35.947217+00:00"
+    },
+    "e6d607a411f0722c": {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "fetched_at": "2026-08-06T23:47:36.560751+00:00"
+    },
+    "2887d43e3fca510d": {
+      "title": "Brainscope/examples/ESP32 Watch a microcontroller's LLM think",
+      "fetched_at": "2026-08-06T23:47:37.178478+00:00"
+    },
+    "9c70aa551fab672d": {
+      "title": "AMD buys Taalas, chip startup that hardwires AI models into its silicon",
+      "fetched_at": "2026-08-06T23:47:37.797404+00:00"
+    },
+    "4b3135ec0e475209": {
+      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "fetched_at": "2026-08-06T23:47:38.407893+00:00"
+    },
+    "8b83f90aa735a8a0": {
+      "title": "Unlimited text chats with GPT-5.6 Luna for everyone",
+      "fetched_at": "2026-08-06T23:47:39.014315+00:00"
+    },
+    "f9e5247e34a868db": {
+      "title": "唐山大地震50週年：五個鮮為人知的歷史細節",
+      "fetched_at": "2026-08-06T23:47:41.556489+00:00"
+    },
+    "afaa29c41ba1f248": {
+      "title": "Most-detailed-ever view of the sun's surface revealed in new images from the world's largest solar telescope",
+      "fetched_at": "2026-08-06T23:47:43.259965+00:00"
+    },
+    "7b918cc99a5fed70": {
+      "title": "'It would be a disaster': Ammunition for war and surging water withdrawals are putting the Caspian Sea ‪on the brink of collapse",
+      "fetched_at": "2026-08-06T23:47:43.870400+00:00"
+    },
+    "0aa68c580eb2077b": {
+      "title": "Jeff Dean's Discovery Loop Should Automate Chip Design First",
+      "fetched_at": "2026-08-06T23:47:44.491521+00:00"
+    },
+    "00f1f03022303538": {
+      "title": "Bronze Age Hoard Uncovered in Czech Wetland",
+      "fetched_at": "2026-08-06T23:47:45.109608+00:00"
+    },
+    "4af6833757b1f9ad": {
+      "title": "FDA approves first mRNA vaccine for seasonal flu",
+      "fetched_at": "2026-08-06T23:47:45.721597+00:00"
+    },
+    "8e31e08c1187dcdb": {
+      "title": "The Genesis of Object-Oriented Programming (OOP): A Historical Overview (2023)",
+      "fetched_at": "2026-08-06T23:47:46.342806+00:00"
+    },
+    "ffc429e64867d6f0": {
+      "title": "Rare Native American Vessel Unearthed at Former Spanish Mission",
+      "fetched_at": "2026-08-06T23:47:46.968315+00:00"
+    },
+    "3e3546515e7899cd": {
+      "title": "First photos of SpaceX lunar rocket crash show blackened hole torn into the moon's surface",
+      "fetched_at": "2026-08-06T23:47:47.581196+00:00"
+    },
+    "69804f1d6af3a665": {
+      "title": "Unique Statue Found in Western Turkey",
+      "fetched_at": "2026-08-06T23:47:48.202311+00:00"
+    },
+    "14ceebd3369dbae0": {
+      "title": "Backward eclipse? Why the Aug. 12 total solar eclipse appears to move the wrong way on maps",
+      "fetched_at": "2026-08-06T23:47:48.814992+00:00"
+    },
+    "e841b96c30afe784": {
+      "title": "Microbial DNA hidden under Antarctica offers new clues about how the continent’s mysterious Blood Falls came to be",
+      "fetched_at": "2026-08-06T23:47:49.441320+00:00"
     }
   },
-  "last_updated": "2026-08-06T13:38:30.082225+00:00"
+  "last_updated": "2026-08-06T23:47:49.597238+00:00"
 }
