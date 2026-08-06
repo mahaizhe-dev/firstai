@@ -1,153 +1,5 @@
 {
   "articles": {
-    "7c1d1d7a9420682e": {
-      "title": "央行7月29日公开市场开展2065亿元7天期逆回购操作",
-      "fetched_at": "2026-07-29T01:27:03.221822+00:00"
-    },
-    "8c15e77140296081": {
-      "title": "7月29日人民币对美元中间价调升29个基点",
-      "fetched_at": "2026-07-29T01:27:03.842469+00:00"
-    },
-    "e8ef14942e392474": {
-      "title": "恒指开盘涨0.7%，恒生科技指数涨1.02%",
-      "fetched_at": "2026-07-29T01:27:04.543943+00:00"
-    },
-    "c3b0e20110e3faa0": {
-      "title": "SK海力士：公司韩国股票转换为美国ADR的规模或将有限",
-      "fetched_at": "2026-07-29T01:27:05.177806+00:00"
-    },
-    "f055027b6aa90a40": {
-      "title": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
-      "fetched_at": "2026-07-29T01:27:05.792894+00:00"
-    },
-    "e56b6d06a6780e0e": {
-      "title": "比亚迪李云飞：投资长鑫科技5000万元为公司行为，董事长王传福不存在个人对外投资情形",
-      "fetched_at": "2026-07-29T01:27:06.413728+00:00"
-    },
-    "81f111beb9714611": {
-      "title": "上半年全国社会物流总额超180万亿元",
-      "fetched_at": "2026-07-29T01:27:07.042794+00:00"
-    },
-    "3db359b3210a4de4": {
-      "title": "银河证券：机构大幅减持，有色行业基金持仓回落至近年低点",
-      "fetched_at": "2026-07-29T01:27:07.672830+00:00"
-    },
-    "f1ccb43f23fc1df9": {
-      "title": "AI算力需求催热上半年业绩，MLCC产业链高景气度下半年将延续",
-      "fetched_at": "2026-07-29T01:27:08.301440+00:00"
-    },
-    "5b17854334b706d5": {
-      "title": "AI短剧半年规模超220亿元，产业爆发重塑内容生产逻辑",
-      "fetched_at": "2026-07-29T01:27:08.925499+00:00"
-    },
-    "6a7dddac8cc61575": {
-      "title": "两市融资余额减少297.59亿元",
-      "fetched_at": "2026-07-29T01:27:09.611213+00:00"
-    },
-    "22c5f96f59f92c28": {
-      "title": "新易盛：正有序推进H股发行相关工作",
-      "fetched_at": "2026-07-29T01:27:10.227470+00:00"
-    },
-    "f9f514b5e68424b5": {
-      "title": "华泰证券：预计美联储7月加息概率略高于一半，9月前加息的概率接近100%",
-      "fetched_at": "2026-07-29T01:27:10.852946+00:00"
-    },
-    "74224eabb8ad1d44": {
-      "title": "中信证券：看好特斯拉机器人的量产和应用前景",
-      "fetched_at": "2026-07-29T01:27:11.469355+00:00"
-    },
-    "5726089a1c2e542d": {
-      "title": "中信建投：800VDC将成为供电架构迭代的关键催化",
-      "fetched_at": "2026-07-29T01:27:12.085091+00:00"
-    },
-    "2aa79187fa4e0d7c": {
-      "title": "超千名全球AI从业者联名请求美政府支持国际合作，建立AI“刹车”机制",
-      "fetched_at": "2026-07-29T01:27:12.713020+00:00"
-    },
-    "07895edd14309ba9": {
-      "title": "恩智浦半导体第二财季营收35亿美元，同比增长19%",
-      "fetched_at": "2026-07-29T01:27:13.342080+00:00"
-    },
-    "871c932b28935256": {
-      "title": "AI改变经济运行底层逻辑，专家表示实施“投资于人”的战略",
-      "fetched_at": "2026-07-29T01:27:13.958393+00:00"
-    },
-    "df82875ebf659ddc": {
-      "title": "中信证券：目前风电行业预期底部已夯实，业绩底有望随着2027年半年报陆续发布而明确",
-      "fetched_at": "2026-07-29T01:27:14.601159+00:00"
-    },
-    "84d48dec7e0a05ef": {
-      "title": "港股IPO市场持续升温，科技与“A+H”双轮驱动",
-      "fetched_at": "2026-07-29T01:27:15.221713+00:00"
-    },
-    "28a97c1ef16eb229": {
-      "title": "什麼是「火雲」? 為何會使野火更致命 ?",
-      "fetched_at": "2026-07-29T01:27:19.195732+00:00"
-    },
-    "6af8bda0152bd750": {
-      "title": "畅销推理小说作家东野圭吾去世，终年68岁",
-      "fetched_at": "2026-07-29T01:27:19.837463+00:00"
-    },
-    "60de4ea0d0c5d17f": {
-      "title": "熊本发生6.8级强震，购物中心坍塌或有人员被困",
-      "fetched_at": "2026-07-29T01:27:20.461041+00:00"
-    },
-    "51adef75e802ea9c": {
-      "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
-      "fetched_at": "2026-07-29T01:27:21.090022+00:00"
-    },
-    "9a4c6cd7a4e84549": {
-      "title": "市场对AI支出和中国芯片竞争担忧加剧，全球科技股暴跌",
-      "fetched_at": "2026-07-29T01:27:21.703789+00:00"
-    },
-    "47408032329dabfa": {
-      "title": "重磅IPO：中国最大存储芯片制造商长鑫科技即将上市",
-      "fetched_at": "2026-07-29T01:27:22.335760+00:00"
-    },
-    "e5f8c53253ceae2b": {
-      "title": "更多比賽，更多爭議——該如何評價2026年FIFA世界盃？",
-      "fetched_at": "2026-07-29T01:27:22.950704+00:00"
-    },
-    "aafa34878278c50c": {
-      "title": "6.8 earthquake traps shoppers as mall collapses in Japan —‬ here's why the seismic event was unusual",
-      "fetched_at": "2026-07-29T01:27:25.474021+00:00"
-    },
-    "1d2395cf1a85fa07": {
-      "title": "'Not alike any we've ever seen before': Three of the 12 galaxies in this cosmic string are missing a crucial component of the universe",
-      "fetched_at": "2026-07-29T01:27:26.100852+00:00"
-    },
-    "e3d6fc153f7ea5b4": {
-      "title": "Scientists may have found a clue to prevent muscles from aging, study hints",
-      "fetched_at": "2026-07-29T01:27:26.731866+00:00"
-    },
-    "042ce75eacc1eb8a": {
-      "title": "New Thoughts on Wall Paintings in Japan’s Kyushu Tombs",
-      "fetched_at": "2026-07-29T01:27:27.356789+00:00"
-    },
-    "7fb0ffb074f3ebe6": {
-      "title": "Pompeii Ceiling Fresco Restored",
-      "fetched_at": "2026-07-29T01:27:27.973864+00:00"
-    },
-    "da33b487820ae654": {
-      "title": "Some dinosaurs could rise like giants until they grew too big",
-      "fetched_at": "2026-07-29T01:27:28.606878+00:00"
-    },
-    "eab4e1cc994fcd4f": {
-      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-      "fetched_at": "2026-07-29T01:27:29.241230+00:00"
-    },
-    "34e934d22263ee5c": {
-      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
-      "fetched_at": "2026-07-29T01:27:29.861908+00:00"
-    },
-    "752abee66d6e6c42": {
-      "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
-      "fetched_at": "2026-07-29T01:27:30.509496+00:00"
-    },
-    "04282bb15521cc0a": {
-      "title": "Scientists found two powerful new ways to destroy forever chemicals",
-      "fetched_at": "2026-07-29T01:27:31.136323+00:00"
-    },
     "ab517b612cc28c51": {
       "title": "黑芝麻智能与正行创新达成战略合作，全力推动具身智能全球布局",
       "fetched_at": "2026-07-29T08:16:40.742009+00:00"
@@ -3951,7 +3803,127 @@
     "efdd607b7f311276": {
       "title": "Why Did Egyptians Link Baboons and Ibises to the Moon?",
       "fetched_at": "2026-08-06T01:24:25.849091+00:00"
+    },
+    "34003fbff1dabb0a": {
+      "title": "Jeff Dean: The 1% Rule for Building in AI",
+      "fetched_at": "2026-08-06T08:12:23.120463+00:00"
+    },
+    "3bf0e0de0e5a633d": {
+      "title": "AI",
+      "fetched_at": "2026-08-06T08:12:23.761859+00:00"
+    },
+    "d5105aa1246895dc": {
+      "title": "Nobody Asked for AI",
+      "fetched_at": "2026-08-06T08:12:24.397169+00:00"
+    },
+    "350c6ab499be4635": {
+      "title": "Proven: Six Checks Against AI Slop",
+      "fetched_at": "2026-08-06T08:12:25.081646+00:00"
+    },
+    "a091207491c09426": {
+      "title": "Context Engineering in an LLM Harness",
+      "fetched_at": "2026-08-06T08:12:25.746076+00:00"
+    },
+    "8fdbb5c2b235b58d": {
+      "title": "How can a junior dev get better when they have to use AI in their job?",
+      "fetched_at": "2026-08-06T08:12:26.353542+00:00"
+    },
+    "da487f8de8406a4a": {
+      "title": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验",
+      "fetched_at": "2026-08-06T08:12:26.977776+00:00"
+    },
+    "a7a532558906310f": {
+      "title": "OpenAI Didn't Notice Its AI Agents Using Message Board to Plan Hacking Spree",
+      "fetched_at": "2026-08-06T08:12:27.721058+00:00"
+    },
+    "84b38832b153b18a": {
+      "title": "Shopify shares soar as AI efforts begin to pay off",
+      "fetched_at": "2026-08-06T08:12:28.389677+00:00"
+    },
+    "afccfe142e6aa801": {
+      "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
+      "fetched_at": "2026-08-06T08:12:29.020297+00:00"
+    },
+    "030c08227bf7c849": {
+      "title": "Token-Budget-Aware LLM Reasoning",
+      "fetched_at": "2026-08-06T08:12:29.675941+00:00"
+    },
+    "24d0522f810c2d4e": {
+      "title": "Show HN: Scout – a self-hosted Discord AI memory bot",
+      "fetched_at": "2026-08-06T08:12:30.316796+00:00"
+    },
+    "f875b1af32b8e695": {
+      "title": "RuleSync – ESLint and Babel for AI Agent Rules (Claude.md, .cursor/Rules)",
+      "fetched_at": "2026-08-06T08:12:30.970643+00:00"
+    },
+    "f65a1ec6f9d03b4e": {
+      "title": "PON-BEAM is a complete re-architecture of the Erlang/OTP Virtual Machine",
+      "fetched_at": "2026-08-06T08:12:31.602774+00:00"
+    },
+    "4c2da4933ec849af": {
+      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "fetched_at": "2026-08-06T08:12:32.284673+00:00"
+    },
+    "dfa0f44e8a42076a": {
+      "title": "Study: String theory finally testable thanks to AI",
+      "fetched_at": "2026-08-06T08:12:32.974259+00:00"
+    },
+    "19d4705a781f97df": {
+      "title": "What AI First Engineering Orgs Look Like",
+      "fetched_at": "2026-08-06T08:12:33.648325+00:00"
+    },
+    "fbd6c4aca2b64d99": {
+      "title": "Google Genie 3: Interactive worlds generated by AI",
+      "fetched_at": "2026-08-06T08:12:34.264434+00:00"
+    },
+    "0b02f6c175a5946f": {
+      "title": "How to Build an LLM-Powered Database Query Bot for Your Web App in 1 Day",
+      "fetched_at": "2026-08-06T08:12:34.887166+00:00"
+    },
+    "0b46221efe4ec8a6": {
+      "title": "Why AI agents are not more popular outside the tech industry",
+      "fetched_at": "2026-08-06T08:12:35.564505+00:00"
+    },
+    "f424186d357a4330": {
+      "title": "Meta證實其AI模型「越獄」上網黑進別家公司",
+      "fetched_at": "2026-08-06T08:12:37.896183+00:00"
+    },
+    "05160bc2fb485bf6": {
+      "title": "在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚",
+      "fetched_at": "2026-08-06T08:12:38.539404+00:00"
+    },
+    "e2e919d79a727491": {
+      "title": "“点心”风暴来袭？揭秘太平洋台风命名法则",
+      "fetched_at": "2026-08-06T08:12:39.158844+00:00"
+    },
+    "ce50dc5bf721a05f": {
+      "title": "非洲开发者拥抱中国AI模型，为硅谷敲响警钟",
+      "fetched_at": "2026-08-06T08:12:39.782740+00:00"
+    },
+    "cb3a4d95d87b7136": {
+      "title": "拒绝二手烟在中国为何这么难？",
+      "fetched_at": "2026-08-06T08:12:40.420958+00:00"
+    },
+    "f556b979fa032dfd": {
+      "title": "SpaceX火箭残骸撞击月球，会发生什么？",
+      "fetched_at": "2026-08-06T08:12:41.049835+00:00"
+    },
+    "d82a578db4baae21": {
+      "title": "在联合国大楼前自焚的藏人：洛嘎让赞最后的抗争",
+      "fetched_at": "2026-08-06T08:12:41.713537+00:00"
+    },
+    "055a9cd6317d1ace": {
+      "title": "美国最有权势的人们只吃牛肉和发酵食品，你也应该这样吗？",
+      "fetched_at": "2026-08-06T08:12:42.344754+00:00"
+    },
+    "3e3644f596c0927c": {
+      "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
+      "fetched_at": "2026-08-06T08:12:48.225947+00:00"
+    },
+    "513b71d919ca51a2": {
+      "title": "567-million-year-old fossils rewrite the dawn of animal life",
+      "fetched_at": "2026-08-06T08:12:48.866586+00:00"
     }
   },
-  "last_updated": "2026-08-06T01:24:25.918435+00:00"
+  "last_updated": "2026-08-06T08:12:48.971702+00:00"
 }
