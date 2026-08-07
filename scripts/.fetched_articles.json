@@ -1,117 +1,5 @@
 {
   "articles": {
-    "275451ee7d038275": {
-      "title": "人民币兑美元中间价报6.7892，上调7点",
-      "fetched_at": "2026-07-30T01:19:10.879867+00:00"
-    },
-    "58dc988a0bf49795": {
-      "title": "中信证券：仍预计美联储今年全年按兵不动",
-      "fetched_at": "2026-07-30T01:19:11.493142+00:00"
-    },
-    "1514ba767394fd40": {
-      "title": "美国众议院能源委员会要求参观xAI数据中心以调查污染情况",
-      "fetched_at": "2026-07-30T01:19:12.123749+00:00"
-    },
-    "090ed5c0b66dd3d9": {
-      "title": "银河证券：奶价增速转正或将带动相关上市公司盈利能力修复",
-      "fetched_at": "2026-07-30T01:19:12.733975+00:00"
-    },
-    "57fdca2ba98cce64": {
-      "title": "Sfwig – had a laugh with AI, then a question",
-      "fetched_at": "2026-07-30T01:19:13.328191+00:00"
-    },
-    "d7e299f0e34fe4b2": {
-      "title": "微软新增数据中心租约超1300亿美元",
-      "fetched_at": "2026-07-30T01:19:13.927024+00:00"
-    },
-    "57c69a9f6af2eef6": {
-      "title": "36氪首发｜本末科技前合伙人创业做电助力渔轮，获高瓴、启明投资",
-      "fetched_at": "2026-07-30T01:19:14.553316+00:00"
-    },
-    "a325e9759e7e60cd": {
-      "title": "狂揽80亿美元估值，黑石推动三明治连锁店Jersey Mike's冲刺IPO",
-      "fetched_at": "2026-07-30T01:19:15.153688+00:00"
-    },
-    "95523ac4da7ef73f": {
-      "title": "Persistent State Machines for LLM Attention (Vivado Estimated 0.0267 PJ/Op)",
-      "fetched_at": "2026-07-30T01:19:15.759332+00:00"
-    },
-    "052dda286da1a142": {
-      "title": "中信建投：看好重卡出口高景气及业绩强兑现",
-      "fetched_at": "2026-07-30T01:19:16.350990+00:00"
-    },
-    "3d9f95980e4e4e0c": {
-      "title": "耐心资本密集落子，央企系基金加速布局硬科技",
-      "fetched_at": "2026-07-30T01:19:17.023338+00:00"
-    },
-    "331750ffc1150e6b": {
-      "title": "“翻倍基”数量锐减，绩优基金之间差距拉开",
-      "fetched_at": "2026-07-30T01:19:17.610904+00:00"
-    },
-    "6b6a716817134f30": {
-      "title": "两市融资余额减少255.48亿元",
-      "fetched_at": "2026-07-30T01:19:18.292630+00:00"
-    },
-    "d228acf3ed01d4a1": {
-      "title": "强生下调全年调整后运营每股收益预期",
-      "fetched_at": "2026-07-30T01:19:18.902739+00:00"
-    },
-    "87271f793bda7281": {
-      "title": "摩根大通将美联储加息预期提前至12月",
-      "fetched_at": "2026-07-30T01:19:19.587133+00:00"
-    },
-    "e0917e0a9d608df0": {
-      "title": "华泰证券：8月电池排产环比增长，看好本轮锂电涨价周期",
-      "fetched_at": "2026-07-30T01:19:20.189330+00:00"
-    },
-    "64a72e4561cacf37": {
-      "title": "中小银行理财业务迁徙：自营产品加速出清，代销成转型主航道",
-      "fetched_at": "2026-07-30T01:19:20.794105+00:00"
-    },
-    "2c8775e898c2b960": {
-      "title": "7月以来共有25股获5家及以上机构评级，盈利高增长个股获机构扎堆关注",
-      "fetched_at": "2026-07-30T01:19:21.430042+00:00"
-    },
-    "6ae208e4ac65b966": {
-      "title": "星巴克发布强劲Q3财报，上调全年营收及盈利指引",
-      "fetched_at": "2026-07-30T01:19:22.052690+00:00"
-    },
-    "d37f44d1d3ac5962": {
-      "title": "强生以25.8亿美元收购Sail Biomedicines独家期权",
-      "fetched_at": "2026-07-30T01:19:22.653991+00:00"
-    },
-    "cc6d56708b722bfb": {
-      "title": "健身練得滿身肌肉 為何有人卻因此英年早逝？",
-      "fetched_at": "2026-07-30T01:19:29.368159+00:00"
-    },
-    "80e034cd8018882a": {
-      "title": "「不要等到想報復時才行動」：為何婚前協議越來越普遍？",
-      "fetched_at": "2026-07-30T01:19:29.972588+00:00"
-    },
-    "7da3e0dbf8195a20": {
-      "title": "Lasers reveal hundreds of geoglyphs made by a mysterious civilization in the Amazon rainforest thousands of years ago",
-      "fetched_at": "2026-07-30T01:19:33.218809+00:00"
-    },
-    "5d7fd41529feb408": {
-      "title": "Chinese rocket hit by rare midair lightning strike moments after launch as onlookers gasp in horror (video)",
-      "fetched_at": "2026-07-30T01:19:33.825685+00:00"
-    },
-    "7922d531e77a5e3f": {
-      "title": "Antarctica just experienced minus 119 F, Earth's coldest temperature since 2012 — here's why",
-      "fetched_at": "2026-07-30T01:19:34.437170+00:00"
-    },
-    "673075f9cc8dfe18": {
-      "title": "Copper Bells Uncovered in Bolivia",
-      "fetched_at": "2026-07-30T01:19:35.050700+00:00"
-    },
-    "1e106b97550751f8": {
-      "title": "Hominin Footprints at Lake Turkana Reevaluated",
-      "fetched_at": "2026-07-30T01:19:35.649146+00:00"
-    },
-    "1f8323409ffd55ee": {
-      "title": "Early Roman Fortification Unearthed in Switzerland",
-      "fetched_at": "2026-07-30T01:19:36.255654+00:00"
-    },
     "1d46f09340fd3a00": {
       "title": "浙江获批开展经营者集中反垄断审查，浙闽赣三省企业并购可就近办理",
       "fetched_at": "2026-07-30T08:04:59.120778+00:00"
@@ -3787,7 +3675,119 @@
     "e841b96c30afe784": {
       "title": "Microbial DNA hidden under Antarctica offers new clues about how the continent’s mysterious Blood Falls came to be",
       "fetched_at": "2026-08-06T23:47:49.441320+00:00"
+    },
+    "aa1cb17ba67d3b6d": {
+      "title": "SEAI: Hardware-rooted identity for autonomous AI",
+      "fetched_at": "2026-08-07T02:02:47.635534+00:00"
+    },
+    "cbdc6200c107a303": {
+      "title": "How Goldman Sachs Is Using Agentic AI for Software Engineering at Scale",
+      "fetched_at": "2026-08-07T02:02:48.253589+00:00"
+    },
+    "1033e91d7b8ff111": {
+      "title": "Show HN: Selvedge – an append-only log of what your AI agent already rejected",
+      "fetched_at": "2026-08-07T02:02:48.873567+00:00"
+    },
+    "38b0578269c760b1": {
+      "title": "One of China's Most Powerful AI Models Has Also Broken Containment",
+      "fetched_at": "2026-08-07T02:02:49.493844+00:00"
+    },
+    "aac9637e3887a345": {
+      "title": "A Society for AI Agents",
+      "fetched_at": "2026-08-07T02:02:50.101225+00:00"
+    },
+    "3f478160dccfa263": {
+      "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations",
+      "fetched_at": "2026-08-07T02:02:50.743115+00:00"
+    },
+    "ea25bf5041ad2e81": {
+      "title": "A glimpse from China of AI's future",
+      "fetched_at": "2026-08-07T02:02:51.361497+00:00"
+    },
+    "9bd4fe958b80a3e0": {
+      "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
+      "fetched_at": "2026-08-07T02:02:51.994967+00:00"
+    },
+    "5e74df3a41616f5e": {
+      "title": "Open source Cloud AI agents",
+      "fetched_at": "2026-08-07T02:02:52.613103+00:00"
+    },
+    "5b3069165e47b560": {
+      "title": "New Orleans will use AI to answer 911 calls instead of a human",
+      "fetched_at": "2026-08-07T02:02:53.233640+00:00"
+    },
+    "86b97c936ea4d5a3": {
+      "title": "Tracely – Turn AI agent production failures into CI regression tests",
+      "fetched_at": "2026-08-07T02:02:53.878931+00:00"
+    },
+    "3f874e6545ea16b7": {
+      "title": "I launched a fake deodorant brand to see if AI would notice",
+      "fetched_at": "2026-08-07T02:02:54.492450+00:00"
+    },
+    "daa01b12f87e8fc1": {
+      "title": "Trump's AI Framework Is So Bad They Won't Show You What's in It",
+      "fetched_at": "2026-08-07T02:02:55.139907+00:00"
+    },
+    "41e862aaae57b64b": {
+      "title": "Show HN: AI Tutoring with Visual Grounding",
+      "fetched_at": "2026-08-07T02:02:55.753856+00:00"
+    },
+    "0183b0049ad5ba52": {
+      "title": "Google Shifts AI Power Back to Brin as DeepMind's Hassabis Steps Aside",
+      "fetched_at": "2026-08-07T02:02:55.753995+00:00"
+    },
+    "b2747c63f7e7a9c6": {
+      "title": "Suno shares plans to combat spammy AI music",
+      "fetched_at": "2026-08-07T02:02:56.390897+00:00"
+    },
+    "2eed3beb1b8a58cc": {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "fetched_at": "2026-08-07T02:02:57.013418+00:00"
+    },
+    "2991c55f23246b23": {
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "fetched_at": "2026-08-07T02:02:57.665992+00:00"
+    },
+    "4b0bca1760cb9881": {
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "fetched_at": "2026-08-07T02:02:58.303051+00:00"
+    },
+    "b5bc660259f56dad": {
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "fetched_at": "2026-08-07T02:02:58.917407+00:00"
+    },
+    "3e9793ea92a5bd5b": {
+      "title": "战争、高温、难民危机：失去对自身命运掌控的欧洲",
+      "fetched_at": "2026-08-07T02:03:01.221229+00:00"
+    },
+    "7772a26c7708356c": {
+      "title": "一半疫苗被丟棄讓人不解，免冷藏版本有望減少浪費",
+      "fetched_at": "2026-08-07T02:03:01.909057+00:00"
+    },
+    "c887e1e4a0a19803": {
+      "title": "歐洲乾旱與河流乾涸：炸彈、戰艦殘骸、猛獁象骨骸重見天日",
+      "fetched_at": "2026-08-07T02:03:02.520920+00:00"
+    },
+    "5620629eb5d9ce53": {
+      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
+      "fetched_at": "2026-08-07T02:03:03.214286+00:00"
+    },
+    "201f46abccda1e69": {
+      "title": "Your gut may help your brain decide what to remember",
+      "fetched_at": "2026-08-07T02:03:20.480161+00:00"
+    },
+    "ff32ed9cad6786d2": {
+      "title": "New microwave frying method could make french fries much healthier",
+      "fetched_at": "2026-08-07T02:03:21.100025+00:00"
+    },
+    "cde1b388d082608c": {
+      "title": "Can’t sleep in the heat? These 8 tricks could save your night",
+      "fetched_at": "2026-08-07T02:03:21.722203+00:00"
+    },
+    "eab856bbe2df1c06": {
+      "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
+      "fetched_at": "2026-08-07T02:03:22.343553+00:00"
     }
   },
-  "last_updated": "2026-08-06T23:47:49.597238+00:00"
+  "last_updated": "2026-08-07T02:03:22.445453+00:00"
 }
