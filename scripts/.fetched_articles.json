@@ -1,117 +1,5 @@
 {
   "articles": {
-    "87797d0737df1ec4": {
-      "title": "湖南省金芙蓉中非经贸深度合作服务基金登记成立，出资额5亿",
-      "fetched_at": "2026-07-31T08:31:05.383202+00:00"
-    },
-    "13e718af287d68a2": {
-      "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
-      "fetched_at": "2026-07-31T08:31:06.046206+00:00"
-    },
-    "85aae459d9c5e41a": {
-      "title": "蚂蚁国际：其全球账户服务已被超过半数的中国大中型游戏厂商所采用",
-      "fetched_at": "2026-07-31T08:31:06.699369+00:00"
-    },
-    "721a753d32f4a8dc": {
-      "title": "四部门：严把股东准入关口，穿透识别金融机构主要股东、实际控制人和受益所有人",
-      "fetched_at": "2026-07-31T08:31:07.343858+00:00"
-    },
-    "fe542a5a78120c65": {
-      "title": "Extending older smartphone lifespans with local-first AI and zero cloud uploads",
-      "fetched_at": "2026-07-31T08:31:07.989277+00:00"
-    },
-    "d753754111512e77": {
-      "title": "四部门：严惩违规占用资金、违规融资或担保、违规转移资产等行为 对重大问题依法依规实行终身问责",
-      "fetched_at": "2026-07-31T08:31:08.613281+00:00"
-    },
-    "18f67e4b9da02638": {
-      "title": "四部门：加强关联交易管理，强化关联方识别，规范对关联交易的审查和披露",
-      "fetched_at": "2026-07-31T08:31:09.266096+00:00"
-    },
-    "b3a1c65148d184dc": {
-      "title": "四部门：引导金融机构健全有利于可持续发展和战略目标实现的激励约束机制",
-      "fetched_at": "2026-07-31T08:31:09.889017+00:00"
-    },
-    "366128b59a041e19": {
-      "title": "四部门：严格规范股东行为，严禁金融机构向股东及其关联方输送利益",
-      "fetched_at": "2026-07-31T08:31:10.515470+00:00"
-    },
-    "9f61d127200eb74e": {
-      "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
-      "fetched_at": "2026-07-31T08:31:11.133326+00:00"
-    },
-    "4cee1eca3bacf50e": {
-      "title": "恒指收涨0.1%，恒生科技指数涨0.53%",
-      "fetched_at": "2026-07-31T08:31:11.814431+00:00"
-    },
-    "ae1984d06bcce565": {
-      "title": "Anthropic's Claude AI models hack into 3 outside groups during testing",
-      "fetched_at": "2026-07-31T08:31:12.520069+00:00"
-    },
-    "3eff42ec66d8b28d": {
-      "title": "四部门联合发布22条措施 健全金融机构治理",
-      "fetched_at": "2026-07-31T08:31:13.140925+00:00"
-    },
-    "f8b0293e501e8388": {
-      "title": "乐惠国际：向特定对象发行股票申请获证监会同意注册批复",
-      "fetched_at": "2026-07-31T08:31:13.819688+00:00"
-    },
-    "24ffe7ef37bdf86b": {
-      "title": "去哪儿：8月5日起燃油附加费再下调，800公里以上航线每人省30元",
-      "fetched_at": "2026-07-31T08:31:14.445449+00:00"
-    },
-    "900ab87a14a9e051": {
-      "title": "蓝盾光电：筹划重大资产交易，股票将继续停牌",
-      "fetched_at": "2026-07-31T08:31:15.064954+00:00"
-    },
-    "28ec25addb9a2fe2": {
-      "title": "腾讯AI虚拟细胞算法登《Cell》主刊，系国内首次",
-      "fetched_at": "2026-07-31T08:31:15.688849+00:00"
-    },
-    "a904536713aa64b7": {
-      "title": "北斗卫星导航系统已全面完成在轨升级",
-      "fetched_at": "2026-07-31T08:31:16.311967+00:00"
-    },
-    "c1ed70ac12fc682d": {
-      "title": "针对“幽灵外卖”将建“电子围栏”：证照经营场所、外卖制作地址、骑手取餐地址三重坐标比对",
-      "fetched_at": "2026-07-31T08:31:16.973731+00:00"
-    },
-    "48606777376dc24e": {
-      "title": "韩国据悉考虑放宽新半导体产业集群的劳动监管要求，取消每周52小时工时上限",
-      "fetched_at": "2026-07-31T08:31:17.658614+00:00"
-    },
-    "db64ac2d16068c07": {
-      "title": "Apple警告Mac、iPhone及iPad未來將面臨「供應限制」",
-      "fetched_at": "2026-07-31T08:31:19.952608+00:00"
-    },
-    "15c47f319d095f93": {
-      "title": "特朗普公佈加沙繳械計劃 哈馬斯向BBC證實同意",
-      "fetched_at": "2026-07-31T08:31:20.619954+00:00"
-    },
-    "d296121300ece396": {
-      "title": "通胀加剧，美国经济增速放缓",
-      "fetched_at": "2026-07-31T08:31:21.236834+00:00"
-    },
-    "f12e651bc05ea773": {
-      "title": "美国航母停靠岘港，促进美越安全纽带并向中国展示实力",
-      "fetched_at": "2026-07-31T08:31:21.902239+00:00"
-    },
-    "082f9f8d4c9b4152": {
-      "title": "中国经济持续疲软，北京拟加大刺激但未见重大政策转向",
-      "fetched_at": "2026-07-31T08:31:22.593741+00:00"
-    },
-    "ce702bde22304c2f": {
-      "title": "人到中年，九个可能帮助你延长寿命的习惯",
-      "fetched_at": "2026-07-31T08:31:23.250927+00:00"
-    },
-    "fbfc0f78be3438cb": {
-      "title": "福奇听证会，一场政治闹剧",
-      "fetched_at": "2026-07-31T08:31:23.877929+00:00"
-    },
-    "415767e0a49acf18": {
-      "title": "Science word of they day: Covalent",
-      "fetched_at": "2026-07-31T08:31:25.653237+00:00"
-    },
     "5f5eba49112666bc": {
       "title": "Another Reason Not to Use \"AI\" for Your Writing",
       "fetched_at": "2026-07-31T13:28:02.232570+00:00"
@@ -3635,7 +3523,103 @@
     "69dc3844c498440c": {
       "title": "500-year-old Inca mummies prove that European colonists brought devastating smallpox to the Americas",
       "fetched_at": "2026-08-08T06:32:15.441218+00:00"
+    },
+    "949529b257fd9e55": {
+      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+      "fetched_at": "2026-08-08T12:23:25.639237+00:00"
+    },
+    "ea77d7da95b72082": {
+      "title": "A Chinese AI model stopped OpenAI's 'unprecedented' cyber attack",
+      "fetched_at": "2026-08-08T12:23:26.259273+00:00"
+    },
+    "0f55d560b8f44e5e": {
+      "title": "Safety fears as scientists make first viruses designed by AI",
+      "fetched_at": "2026-08-08T12:23:26.899086+00:00"
+    },
+    "2b51c23bd5fcb855": {
+      "title": "China is gaining ground in AI. But the U.S. still has a major advantage",
+      "fetched_at": "2026-08-08T12:23:27.506469+00:00"
+    },
+    "f145a8ee37c308e2": {
+      "title": "Why AI has brought nothing more than the conceit of wisdom",
+      "fetched_at": "2026-08-08T12:23:28.109892+00:00"
+    },
+    "5609371e9afd870e": {
+      "title": "'I hate what AI is doing to the minds and happiness of the young'",
+      "fetched_at": "2026-08-08T12:23:28.717945+00:00"
+    },
+    "62b0acc569d5235d": {
+      "title": "I built AI at Amazon, then got laid off",
+      "fetched_at": "2026-08-08T12:23:29.324162+00:00"
+    },
+    "08a559ef7b9c6760": {
+      "title": "Do you think AI governance should be technically rather than paper policy?",
+      "fetched_at": "2026-08-08T12:23:29.937027+00:00"
+    },
+    "84328e1e4b1c3848": {
+      "title": "Making an AI bid writer refuse to lie",
+      "fetched_at": "2026-08-08T12:23:30.572781+00:00"
+    },
+    "a86886590a1c7c05": {
+      "title": "AI is not your biggest cyber threat. Your shitty patching process is",
+      "fetched_at": "2026-08-08T12:23:31.182779+00:00"
+    },
+    "7d088652f1c82666": {
+      "title": "AgentBlog – open-source, AI-native SEO blog",
+      "fetched_at": "2026-08-08T12:23:31.800137+00:00"
+    },
+    "6a803209c4dd1658": {
+      "title": "Supply-chain hygiene for Emacs: LLM review of package upgrades",
+      "fetched_at": "2026-08-08T12:23:32.411834+00:00"
+    },
+    "66464225b5226fcb": {
+      "title": "Countersign – one kill switch and audit log for AI agents across wallet vendors",
+      "fetched_at": "2026-08-08T12:23:33.024744+00:00"
+    },
+    "928252c9c1794064": {
+      "title": "Show HN: Hosted LLM Wiki",
+      "fetched_at": "2026-08-08T12:23:33.645945+00:00"
+    },
+    "2879929cf5f98c0c": {
+      "title": "Tlbic v11.0 (French Edition): Bottom-Up Governance and AI Audit",
+      "fetched_at": "2026-08-08T12:23:34.259743+00:00"
+    },
+    "dcf8c898babebe89": {
+      "title": "Google doesn't need the LLM crown",
+      "fetched_at": "2026-08-08T12:23:34.879757+00:00"
+    },
+    "173ac4cdfb06630c": {
+      "title": "Show HN: Appealr – 15s live face-offs ranked by human votes (not AI)",
+      "fetched_at": "2026-08-08T12:23:35.534912+00:00"
+    },
+    "df5770d6912bf8e5": {
+      "title": "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
+      "fetched_at": "2026-08-08T12:23:36.155576+00:00"
+    },
+    "81c9c46d611817ef": {
+      "title": "Roku now has a 24/7 AI slop channel",
+      "fetched_at": "2026-08-08T12:23:36.781993+00:00"
+    },
+    "4644af1ccff76ef2": {
+      "title": "'These were harder than any other blades, cut sharper and cost more': How ancient Sri Lankans created steel of legends by harnessing monsoons",
+      "fetched_at": "2026-08-08T12:23:39.674670+00:00"
+    },
+    "3f5e95e6f3b8ad96": {
+      "title": "Where and when to see the Aug. 12 solar eclipse — exact times for North America and Europe",
+      "fetched_at": "2026-08-08T12:23:40.291065+00:00"
+    },
+    "5dfbdb12577990b1": {
+      "title": "What's the difference between sweet potatoes and yams?",
+      "fetched_at": "2026-08-08T12:23:40.908051+00:00"
+    },
+    "7963bb1afb4b75f9": {
+      "title": "Sunlight creates quantum entanglement once thought to require lasers",
+      "fetched_at": "2026-08-08T12:23:41.519305+00:00"
+    },
+    "d3e4089260273769": {
+      "title": "Teen cannabis use linked to slower memory and thinking growth",
+      "fetched_at": "2026-08-08T12:23:42.163460+00:00"
     }
   },
-  "last_updated": "2026-08-08T06:32:15.571830+00:00"
+  "last_updated": "2026-08-08T12:23:42.304237+00:00"
 }
