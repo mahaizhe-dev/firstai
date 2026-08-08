@@ -1,105 +1,5 @@
 {
   "articles": {
-    "5f5eba49112666bc": {
-      "title": "Another Reason Not to Use \"AI\" for Your Writing",
-      "fetched_at": "2026-07-31T13:28:02.232570+00:00"
-    },
-    "65931934e854d33c": {
-      "title": "Figma for Agents: How Airflow's Creator Coordinates AI Ft. Maxime Beauchemin",
-      "fetched_at": "2026-07-31T13:28:02.878424+00:00"
-    },
-    "df49a1e9638cb0ca": {
-      "title": "Show HN: Provenance and decay for AI agent memory",
-      "fetched_at": "2026-07-31T13:28:03.502245+00:00"
-    },
-    "fcaa33d76eadea8d": {
-      "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
-      "fetched_at": "2026-07-31T13:28:04.144894+00:00"
-    },
-    "64e58207ddb7659d": {
-      "title": "Promote.chat: AI Marketing Agent for Vibe Coders",
-      "fetched_at": "2026-07-31T13:28:04.764381+00:00"
-    },
-    "aab4fce67f6b19dd": {
-      "title": "Keep It Real: A Schema-Level Deferral Channel for Concise LLM Dialogue [pdf]",
-      "fetched_at": "2026-07-31T13:28:05.384473+00:00"
-    },
-    "36c6289bee882ee1": {
-      "title": "热门中概股美股盘前普涨，阿里巴巴涨超2%",
-      "fetched_at": "2026-07-31T13:28:06.018690+00:00"
-    },
-    "a8ecfab142bb0f3c": {
-      "title": "LinkedIn Is Cracking Down on 'AI Slop' with New Reporting Tool",
-      "fetched_at": "2026-07-31T13:28:06.644468+00:00"
-    },
-    "b36a6c474de63480": {
-      "title": "美股大型科技股盘前多数上涨，亚马逊涨超10%",
-      "fetched_at": "2026-07-31T13:28:07.291890+00:00"
-    },
-    "43d3473777dff602": {
-      "title": "交大昂立：公司股票8月4日起实施其他风险警示，简称变更为“ST交昂”",
-      "fetched_at": "2026-07-31T13:28:07.936892+00:00"
-    },
-    "9e839807f4d6c5a8": {
-      "title": "Anthropic says its AI models hacked 3 organizations during testing",
-      "fetched_at": "2026-07-31T13:28:08.562412+00:00"
-    },
-    "717815505c9bf890": {
-      "title": "2026年7月总票房突破50亿",
-      "fetched_at": "2026-07-31T13:28:09.186232+00:00"
-    },
-    "657058ba85881923": {
-      "title": "AI's Execution Problem",
-      "fetched_at": "2026-07-31T13:28:09.828909+00:00"
-    },
-    "03859a0c8786c867": {
-      "title": "贝肯能源：控股股东将变更为极宁科技，股票将于8月3日复牌",
-      "fetched_at": "2026-07-31T13:28:10.464634+00:00"
-    },
-    "8cb0d114895e2ea5": {
-      "title": "Show HN: I built an AI that reads German real estate listings for buyers",
-      "fetched_at": "2026-07-31T13:28:11.079533+00:00"
-    },
-    "9bcbff249120ceae": {
-      "title": "Europe gets ready to police frontier AI",
-      "fetched_at": "2026-07-31T13:28:11.772168+00:00"
-    },
-    "7231d97afc6e4a62": {
-      "title": "2连板中国宝安：第一大股东在股票交易异常波动期间增持1.6%股份",
-      "fetched_at": "2026-07-31T13:28:12.406335+00:00"
-    },
-    "d4beed5571621b88": {
-      "title": "Quil – drive AI coding sessions on a remote box over plain SSH",
-      "fetched_at": "2026-07-31T13:28:13.033986+00:00"
-    },
-    "b37a5481010ac1e0": {
-      "title": "Rogue AI Agents – Food for Agile Thought #555",
-      "fetched_at": "2026-07-31T13:28:13.681711+00:00"
-    },
-    "e292faf7da4e2049": {
-      "title": "Guardrails Hub – Guardrails AI",
-      "fetched_at": "2026-07-31T13:28:14.392443+00:00"
-    },
-    "0c27fe4725f51301": {
-      "title": "網傳胡錦濤舉家身亡，「原始消息」疑點重重",
-      "fetched_at": "2026-07-31T13:28:17.412935+00:00"
-    },
-    "0cba5ec38c39e6df": {
-      "title": "How to watch 'Secrets of the Great White Kill' – stream 'Shark Week' 2026 from anywhere",
-      "fetched_at": "2026-07-31T13:28:20.916044+00:00"
-    },
-    "0884dd6955662f6b": {
-      "title": "IBM scientists claim they've achieved 'quantum advantage' — and they've dared others to prove them wrong",
-      "fetched_at": "2026-07-31T13:28:21.629805+00:00"
-    },
-    "d69ea92e712f7d11": {
-      "title": "Alzheimer's blood tests are transforming how patients get diagnosed — here's what to know",
-      "fetched_at": "2026-07-31T13:28:22.253045+00:00"
-    },
-    "d65815f7c290e915": {
-      "title": "Through the Lens of an Ancient Yisra'elite Bible Study",
-      "fetched_at": "2026-07-31T13:28:22.874666+00:00"
-    },
     "0c8338498c9651a6": {
       "title": "The icons that might solve Hollywood's AI problem [video]",
       "fetched_at": "2026-07-31T19:05:38.550050+00:00"
@@ -3619,7 +3519,35 @@
     "d3e4089260273769": {
       "title": "Teen cannabis use linked to slower memory and thinking growth",
       "fetched_at": "2026-08-08T12:23:42.163460+00:00"
+    },
+    "e5018fb685803a29": {
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "fetched_at": "2026-08-08T18:21:26.086411+00:00"
+    },
+    "316c89b5026c502d": {
+      "title": "Using AI has an environmental impact — here are 4 ways you can minimize it",
+      "fetched_at": "2026-08-08T18:21:31.310887+00:00"
+    },
+    "9a92757bf5e2d72f": {
+      "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+      "fetched_at": "2026-08-08T18:21:31.895473+00:00"
+    },
+    "2cdb808e081d3426": {
+      "title": "A protein older than blood circulation could transform cancer immunotherapy",
+      "fetched_at": "2026-08-08T18:21:32.461743+00:00"
+    },
+    "7f0d4f7d2f2d475b": {
+      "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
+      "fetched_at": "2026-08-08T18:21:33.044883+00:00"
+    },
+    "279b3700b2badf2b": {
+      "title": "The sun is covered in tiny whirlpools we’ve never seen before",
+      "fetched_at": "2026-08-08T18:21:33.605252+00:00"
+    },
+    "415767e0a49acf18": {
+      "title": "Science word of they day: Covalent",
+      "fetched_at": "2026-08-08T18:21:34.164055+00:00"
     }
   },
-  "last_updated": "2026-08-08T12:23:42.304237+00:00"
+  "last_updated": "2026-08-08T18:21:34.301630+00:00"
 }
