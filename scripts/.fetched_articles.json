@@ -1,125 +1,5 @@
 {
   "articles": {
-    "30ecbe4b87ac51a8": {
-      "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
-      "fetched_at": "2026-07-30T19:07:12.553689+00:00"
-    },
-    "770d7c0b24be4ba4": {
-      "title": "Claude Opus 5 became ruthless when tasked with running a vending machine",
-      "fetched_at": "2026-07-30T19:07:13.162210+00:00"
-    },
-    "e0037ef60d60978a": {
-      "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
-      "fetched_at": "2026-07-30T19:07:13.768637+00:00"
-    },
-    "80c935caec79c784": {
-      "title": "The Friend AI Pendant is not a product",
-      "fetched_at": "2026-07-30T19:07:14.381712+00:00"
-    },
-    "69f945c21c13a0cc": {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "fetched_at": "2026-07-30T19:07:15.006825+00:00"
-    },
-    "3d92588617da0338": {
-      "title": "AI #179 Part 1: A Louder Fire Alarm for General Intelligence",
-      "fetched_at": "2026-07-30T19:07:15.627396+00:00"
-    },
-    "cd524745fcb172b3": {
-      "title": "Citadel buys most of Situational's stock holdings after AI share rout",
-      "fetched_at": "2026-07-30T19:07:16.244177+00:00"
-    },
-    "54ccaca53b0ca0a3": {
-      "title": "Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses",
-      "fetched_at": "2026-07-30T19:07:16.866136+00:00"
-    },
-    "bbb1ee5d3fc385b1": {
-      "title": "We're making Chrome and the web safer in the AI Era",
-      "fetched_at": "2026-07-30T19:07:17.475108+00:00"
-    },
-    "111fefe0ca430c1d": {
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "fetched_at": "2026-07-30T19:07:18.127217+00:00"
-    },
-    "64c049922059f821": {
-      "title": "OpenAI revenue in July topped all of Q2 driven by GPT-5.6 release",
-      "fetched_at": "2026-07-30T19:07:18.761710+00:00"
-    },
-    "518985abbb662580": {
-      "title": "The Zeno's Paradox of AI",
-      "fetched_at": "2026-07-30T19:07:19.380701+00:00"
-    },
-    "68e84998f573762d": {
-      "title": "LLM re-reads the same text a thousand times. Here's what I measured",
-      "fetched_at": "2026-07-30T19:07:19.999937+00:00"
-    },
-    "24fce134a0da11ee": {
-      "title": "AI productivity gains are closer to 10% than 10x",
-      "fetched_at": "2026-07-30T19:07:20.609634+00:00"
-    },
-    "95fe6da0ec68dd51": {
-      "title": "New Website, Instapaper 10 for iOS, and AI Voices for Android",
-      "fetched_at": "2026-07-30T19:07:21.224146+00:00"
-    },
-    "5a2cafaa4f7a4d1e": {
-      "title": "An LLM-assisted security review of GlobaLeaks: 41 findings for –$3,140",
-      "fetched_at": "2026-07-30T19:07:21.837808+00:00"
-    },
-    "37d7692bc785b55c": {
-      "title": "Why do OpenAI's GPT-2 weights beat mine? Part two: the bugfix",
-      "fetched_at": "2026-07-30T19:07:22.451386+00:00"
-    },
-    "fb570e0dd6166372": {
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "fetched_at": "2026-07-30T19:07:23.070424+00:00"
-    },
-    "e386530a3af588ad": {
-      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
-      "fetched_at": "2026-07-30T19:07:23.686129+00:00"
-    },
-    "4baeb0088ba7fee1": {
-      "title": "Birduino: A card-triggered audio player for [learning] the birds",
-      "fetched_at": "2026-07-30T19:07:24.305675+00:00"
-    },
-    "2bd580bf90fc5e99": {
-      "title": "「如果有一座橋」：金門人怎麼看翔安機場的「情感工程」？",
-      "fetched_at": "2026-07-30T19:07:26.807740+00:00"
-    },
-    "69dc3844c498440c": {
-      "title": "500-year-old Inca mummies prove that European colonists brought devastating smallpox to the Americas",
-      "fetched_at": "2026-07-30T19:07:34.794116+00:00"
-    },
-    "e7016ed861914284": {
-      "title": "40,000-year-old bird figurines the size of a thumbnail discovered in German cave",
-      "fetched_at": "2026-07-30T19:07:35.418565+00:00"
-    },
-    "33fab5c81e73a234": {
-      "title": "A unique antibody system may help explain bats' unusual tolerance of viruses",
-      "fetched_at": "2026-07-30T19:07:36.034127+00:00"
-    },
-    "39f43bb946375ee0": {
-      "title": "The D-Day in Color. Rare WWII Historical Footage Restored [video]",
-      "fetched_at": "2026-07-30T19:07:36.658956+00:00"
-    },
-    "a4619e04150f0bb5": {
-      "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
-      "fetched_at": "2026-07-30T19:07:37.268800+00:00"
-    },
-    "846ec19fef216074": {
-      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
-      "fetched_at": "2026-07-30T19:07:37.894997+00:00"
-    },
-    "37fb52d9104a8669": {
-      "title": "A strange quantum effect dramatically boosts energy transfer",
-      "fetched_at": "2026-07-30T19:07:38.595507+00:00"
-    },
-    "0b9f5c7985a439b1": {
-      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
-      "fetched_at": "2026-07-30T19:07:39.216075+00:00"
-    },
-    "b2ae5d0328366135": {
-      "title": "Magic mushrooms may reshape the brain long after the trip ends",
-      "fetched_at": "2026-07-30T19:07:39.838245+00:00"
-    },
     "82a45967701a7792": {
       "title": "国家统计局：7月份非制造业商务活动指数为49.0%",
       "fetched_at": "2026-07-31T01:45:27.650112+00:00"
@@ -3843,7 +3723,39 @@
     "c6aeae797b87f046": {
       "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
       "fetched_at": "2026-08-07T18:37:52.810507+00:00"
+    },
+    "c6fa97d9935a2ff0": {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "fetched_at": "2026-08-08T00:46:30.162437+00:00"
+    },
+    "052de190f1c06218": {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "fetched_at": "2026-08-08T00:46:30.784141+00:00"
+    },
+    "0c229856bfa46c81": {
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "fetched_at": "2026-08-08T00:46:31.396739+00:00"
+    },
+    "e060db49a7356975": {
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "fetched_at": "2026-08-08T00:46:32.010109+00:00"
+    },
+    "c730d3d82920f78c": {
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "fetched_at": "2026-08-08T00:46:32.637600+00:00"
+    },
+    "5f67aed39b2cfe6b": {
+      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+      "fetched_at": "2026-08-08T00:46:42.617121+00:00"
+    },
+    "f9b2edee8e2d3494": {
+      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+      "fetched_at": "2026-08-08T00:46:43.242795+00:00"
+    },
+    "16ca6b804e03c58c": {
+      "title": "What if the brain does not create consciousness?",
+      "fetched_at": "2026-08-08T00:46:43.891180+00:00"
     }
   },
-  "last_updated": "2026-08-07T18:37:52.926024+00:00"
+  "last_updated": "2026-08-08T00:46:43.992174+00:00"
 }
