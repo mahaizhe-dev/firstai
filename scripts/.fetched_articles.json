@@ -1,109 +1,5 @@
 {
   "articles": {
-    "4088b3a0f0df58c7": {
-      "title": "今年上半年港珠澳大桥珠海公路口岸进出口突破2000亿元",
-      "fetched_at": "2026-08-01T01:46:46.891243+00:00"
-    },
-    "e3ec060bb4339eeb": {
-      "title": "美股三大指数收盘集体上涨，大型科技股涨跌不一",
-      "fetched_at": "2026-08-01T01:46:47.483034+00:00"
-    },
-    "d5a75602d47f9544": {
-      "title": "7月小米汽车交付量持续超30000台",
-      "fetched_at": "2026-08-01T01:46:48.062362+00:00"
-    },
-    "260fc882089dc906": {
-      "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
-      "fetched_at": "2026-08-01T01:46:48.655287+00:00"
-    },
-    "4cbb1c364afc65b3": {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "fetched_at": "2026-08-01T01:46:49.220845+00:00"
-    },
-    "4b6d4044dbc449e1": {
-      "title": "India is starting to pay for apps, not just download them",
-      "fetched_at": "2026-08-01T01:46:49.864184+00:00"
-    },
-    "b0b6b84c1fb55ca5": {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "fetched_at": "2026-08-01T01:46:50.431064+00:00"
-    },
-    "7d833ca2761598f6": {
-      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "fetched_at": "2026-08-01T01:46:51.010960+00:00"
-    },
-    "12100ac643d681ee": {
-      "title": "Here’s the problem with putting an AI image generator in Google Earth",
-      "fetched_at": "2026-08-01T01:46:51.585230+00:00"
-    },
-    "db130013d8b6567c": {
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "fetched_at": "2026-08-01T01:46:52.172340+00:00"
-    },
-    "a90d588f3c402eb7": {
-      "title": "The major labels propose rules to keep AI slop off the charts",
-      "fetched_at": "2026-08-01T01:46:52.748266+00:00"
-    },
-    "e1d3056d19b8fc62": {
-      "title": "Siri AI could come with a paywall for power users",
-      "fetched_at": "2026-08-01T01:46:53.339886+00:00"
-    },
-    "f6410c7c3b41476e": {
-      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
-      "fetched_at": "2026-08-01T01:46:53.928944+00:00"
-    },
-    "b07465f6bf0d0c06": {
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "fetched_at": "2026-08-01T01:46:54.493888+00:00"
-    },
-    "a3df2c34edff4f3c": {
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "fetched_at": "2026-08-01T01:46:55.072098+00:00"
-    },
-    "cf56a0199e5d73c2": {
-      "title": "It’s time to panic about AI safety",
-      "fetched_at": "2026-08-01T01:46:55.651040+00:00"
-    },
-    "2cb0a9976f1135ec": {
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "fetched_at": "2026-08-01T01:46:56.238461+00:00"
-    },
-    "6ee52ed6cf2dd48d": {
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "fetched_at": "2026-08-01T01:46:56.805237+00:00"
-    },
-    "9168420a08936bfa": {
-      "title": "特朗普扬言将出台油价干预措施，雪佛龙与埃克森美孚利润大幅飙升",
-      "fetched_at": "2026-08-01T01:46:57.376891+00:00"
-    },
-    "cbefe386ff3b18c9": {
-      "title": "艾伯维第二季度净营收169.9亿美元",
-      "fetched_at": "2026-08-01T01:46:57.957850+00:00"
-    },
-    "3e99b22ef687b8ef": {
-      "title": "Tiny Paleolithic Bird Carvings Unearthed in Germany",
-      "fetched_at": "2026-08-01T01:47:02.971934+00:00"
-    },
-    "8c11df3f9966584f": {
-      "title": "Latin Graffiti Recorded in Underground Cave",
-      "fetched_at": "2026-08-01T01:47:03.543051+00:00"
-    },
-    "01850137d596ea82": {
-      "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
-      "fetched_at": "2026-08-01T01:47:04.149345+00:00"
-    },
-    "5ed04a2d868b1bf1": {
-      "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
-      "fetched_at": "2026-08-01T01:47:04.724919+00:00"
-    },
-    "8c8a9a954ade9acd": {
-      "title": "NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems",
-      "fetched_at": "2026-08-01T01:47:05.306625+00:00"
-    },
-    "5a68188dd2016105": {
-      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
-      "fetched_at": "2026-08-01T01:47:05.929812+00:00"
-    },
     "aa4a6a73a2e5926e": {
       "title": "印度央行：印度引资举措吸引超400亿美元外资",
       "fetched_at": "2026-08-01T08:00:43.949169+00:00"
@@ -3571,7 +3467,91 @@
     "d69ea92e712f7d11": {
       "title": "Alzheimer's blood tests are transforming how patients get diagnosed — here's what to know",
       "fetched_at": "2026-08-09T00:50:35.955101+00:00"
+    },
+    "7ec815a4ce5fa31f": {
+      "title": "Agentcn – Installable AI Agents",
+      "fetched_at": "2026-08-09T06:35:55.280689+00:00"
+    },
+    "c8b87a008e0367e2": {
+      "title": "Show HN: I ran 1.3M simulations to fix trade AI in my browser Basketball GM",
+      "fetched_at": "2026-08-09T06:35:55.857402+00:00"
+    },
+    "7badd5cf1824889a": {
+      "title": "Leopold Aschenbrenner Turned $100M into $45B Betting on AI – It Almost Blew Up [video]",
+      "fetched_at": "2026-08-09T06:35:56.432474+00:00"
+    },
+    "3fcbf710c499c3c7": {
+      "title": "Meta CTO told employees AI gains should go into more work",
+      "fetched_at": "2026-08-09T06:35:57.026629+00:00"
+    },
+    "1555997b7dc9580d": {
+      "title": "Open Source, third-party auditing for AI Agents",
+      "fetched_at": "2026-08-09T06:35:57.603835+00:00"
+    },
+    "ad6c8fadf8d5991a": {
+      "title": "AI creates 16 new viruses from scratch after training on 9T nucleotides",
+      "fetched_at": "2026-08-09T06:35:58.176902+00:00"
+    },
+    "7c34125bf54f3b33": {
+      "title": "I asked 4 AI companions what they were. They lied, then texted me the next day",
+      "fetched_at": "2026-08-09T06:35:58.745400+00:00"
+    },
+    "4d29d6c327557bf1": {
+      "title": "Show HN: Pomona, offline small AI reasoners for agricultural sensors",
+      "fetched_at": "2026-08-09T06:35:59.326105+00:00"
+    },
+    "7e72b849b15b4ad7": {
+      "title": "Suggest some uncensored AI for photo genaration?",
+      "fetched_at": "2026-08-09T06:35:59.939596+00:00"
+    },
+    "605f19f67774ade5": {
+      "title": "Turn messy AliExpress dropshipping listings into clean products with AI",
+      "fetched_at": "2026-08-09T06:36:00.532862+00:00"
+    },
+    "57342a6621e79372": {
+      "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
+      "fetched_at": "2026-08-09T06:36:01.104773+00:00"
+    },
+    "d623c14812013b95": {
+      "title": "I built a video editor in Rust with extensive AI-powered features",
+      "fetched_at": "2026-08-09T06:36:01.692918+00:00"
+    },
+    "4ed522643b4ef6bb": {
+      "title": "The AI Apocalypse Is Here",
+      "fetched_at": "2026-08-09T06:36:02.264082+00:00"
+    },
+    "08092c70d59041c4": {
+      "title": "TheoremDB – A public workspace for machine mathematics",
+      "fetched_at": "2026-08-09T06:36:02.833020+00:00"
+    },
+    "08ee97ac67701fed": {
+      "title": "A Man Who Invented Modern AI (Before Everyone Else) – Jürgen Schmidhuber [video]",
+      "fetched_at": "2026-08-09T06:36:03.411687+00:00"
+    },
+    "9c7d09e25af0dddc": {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "fetched_at": "2026-08-09T06:36:03.986141+00:00"
+    },
+    "11fa70899955e51f": {
+      "title": "霍爾木茲海峽：阿曼稱會談進展順利，伊朗則警告協議不會打通海峽",
+      "fetched_at": "2026-08-09T06:36:05.995164+00:00"
+    },
+    "ebad2008db52baa5": {
+      "title": "「瘦瘦針」如何改變人們的飲酒習慣？",
+      "fetched_at": "2026-08-09T06:36:06.573086+00:00"
+    },
+    "ea306432ec099fb0": {
+      "title": "Open Discovery Loop",
+      "fetched_at": "2026-08-09T06:36:11.760817+00:00"
+    },
+    "fdae191b22aa50f8": {
+      "title": "Show HN: Aidress – LangChain integration for cross-agent discovery and trust",
+      "fetched_at": "2026-08-09T06:36:12.328086+00:00"
+    },
+    "4cf6ecebd9c6f1d1": {
+      "title": "'We are not giving up yet': Private mission to rescue NASA's Swift telescope is spinning out of control, and engineers are racing to fix it",
+      "fetched_at": "2026-08-09T06:36:12.902932+00:00"
     }
   },
-  "last_updated": "2026-08-09T00:50:36.061655+00:00"
+  "last_updated": "2026-08-09T06:36:13.033048+00:00"
 }
