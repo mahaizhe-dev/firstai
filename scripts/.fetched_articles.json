@@ -1,101 +1,5 @@
 {
   "articles": {
-    "0c8338498c9651a6": {
-      "title": "The icons that might solve Hollywood's AI problem [video]",
-      "fetched_at": "2026-07-31T19:05:38.550050+00:00"
-    },
-    "4084af966c0f43d6": {
-      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
-      "fetched_at": "2026-07-31T19:05:39.167032+00:00"
-    },
-    "0a23b312d98f95c8": {
-      "title": "Did Situational Awareness inflate the AI bubble?",
-      "fetched_at": "2026-07-31T19:05:39.761308+00:00"
-    },
-    "3d1271da1d327b1d": {
-      "title": "Bursty arrivals speed up LLM inference",
-      "fetched_at": "2026-07-31T19:05:40.379724+00:00"
-    },
-    "4dc7fb146850889e": {
-      "title": "The problem with putting an AI image generator in Google Earth",
-      "fetched_at": "2026-07-31T19:05:40.967314+00:00"
-    },
-    "eb90fc7bbe1c5b90": {
-      "title": "AI's Wildest Spenders Are Hitting the Accelerator",
-      "fetched_at": "2026-07-31T19:05:41.551558+00:00"
-    },
-    "9fd3ec6c2df2c2d2": {
-      "title": "The market's big AI doubts are exposing the riskiest players",
-      "fetched_at": "2026-07-31T19:05:42.140044+00:00"
-    },
-    "67d1b497d9fa17f4": {
-      "title": "What LLM Inference Costs",
-      "fetched_at": "2026-07-31T19:05:42.741954+00:00"
-    },
-    "a09e7c2fb2f4d72e": {
-      "title": "Neuro-Inspired Inverse Learning for Planning and Control",
-      "fetched_at": "2026-07-31T19:05:43.350337+00:00"
-    },
-    "0c0b8a74a0d3d3ec": {
-      "title": "AI bubble will burst if 10-year moves above 5%, says Breakout Capital's Sharma",
-      "fetched_at": "2026-07-31T19:05:43.937117+00:00"
-    },
-    "b9ba769123e310c6": {
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "fetched_at": "2026-07-31T19:05:44.521685+00:00"
-    },
-    "8ab4c17f743bacca": {
-      "title": "Chinese military researchers tap US AI models to train defense systems",
-      "fetched_at": "2026-07-31T19:05:45.103262+00:00"
-    },
-    "a51dae0b4a1663f7": {
-      "title": "Graph Engineering: The Missing Skill in AI",
-      "fetched_at": "2026-07-31T19:05:45.698994+00:00"
-    },
-    "945272abfe548248": {
-      "title": "Contextor-spare LLM tokens required for full structural analysis of Python repo",
-      "fetched_at": "2026-07-31T19:05:46.283349+00:00"
-    },
-    "5b67c1989c29920f": {
-      "title": "Building an Infinite Memory Local AI Stack on Fedora",
-      "fetched_at": "2026-07-31T19:05:46.878600+00:00"
-    },
-    "0fb8347ca3b1b8b3": {
-      "title": "AI Is Getting Way Too Expensive",
-      "fetched_at": "2026-07-31T19:05:47.471838+00:00"
-    },
-    "c0f941de202711bc": {
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "fetched_at": "2026-07-31T19:05:48.067408+00:00"
-    },
-    "05c6b74e61ab8a28": {
-      "title": "Why your company should (try to) build its own AI SRE",
-      "fetched_at": "2026-07-31T19:05:48.649096+00:00"
-    },
-    "5a54e64d6d507b06": {
-      "title": "AI News for Vibe Coders – Daily Brief (July 31, 2026)",
-      "fetched_at": "2026-07-31T19:05:49.243832+00:00"
-    },
-    "ee03caba3c6eac3b": {
-      "title": "New Yorker Riza Berkan: LLM versus Ontology for Efficient ML [video]",
-      "fetched_at": "2026-07-31T19:05:49.837169+00:00"
-    },
-    "e31f8f17e26b2910": {
-      "title": "網傳胡錦濤舉家身亡 秦楓稱流傳帖文屬冒用",
-      "fetched_at": "2026-07-31T19:05:52.251895+00:00"
-    },
-    "6ae4558354453cef": {
-      "title": "Hundreds of Geoglyphs Discovered in Amazon Rainforest",
-      "fetched_at": "2026-07-31T19:06:09.140908+00:00"
-    },
-    "4cf6ecebd9c6f1d1": {
-      "title": "'We are not giving up yet': Private mission to rescue NASA's Swift telescope is spinning out of control, and engineers are racing to fix it",
-      "fetched_at": "2026-07-31T19:06:09.732467+00:00"
-    },
-    "30b03f22172cb16d": {
-      "title": "'We weren't really looking for' it: Astronomers accidentally discover 2 supernovas that exploded from a single star system in cosmic first",
-      "fetched_at": "2026-07-31T19:06:10.319343+00:00"
-    },
     "4088b3a0f0df58c7": {
       "title": "今年上半年港珠澳大桥珠海公路口岸进出口突破2000亿元",
       "fetched_at": "2026-08-01T01:46:46.891243+00:00"
@@ -3547,7 +3451,127 @@
     "415767e0a49acf18": {
       "title": "Science word of they day: Covalent",
       "fetched_at": "2026-08-08T18:21:34.164055+00:00"
+    },
+    "7dd391c2cab45ed3": {
+      "title": "AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)",
+      "fetched_at": "2026-08-09T00:50:10.456287+00:00"
+    },
+    "d83dab5daa30b846": {
+      "title": "Teaching Coding When AI Can Write the Code",
+      "fetched_at": "2026-08-09T00:50:11.075967+00:00"
+    },
+    "73a37fce5a67718d": {
+      "title": "Things I learned about how people use AI after 1800 people",
+      "fetched_at": "2026-08-09T00:50:11.691652+00:00"
+    },
+    "1cc7ad9cabdf3d6c": {
+      "title": "Show HN: Faaah – Filesystem as an AI Handler",
+      "fetched_at": "2026-08-09T00:50:12.312656+00:00"
+    },
+    "b08e962eb49afd93": {
+      "title": "GPT-4 finished training four years ago today",
+      "fetched_at": "2026-08-09T00:50:12.927223+00:00"
+    },
+    "19a43c885db3866e": {
+      "title": "How AI is breaking the British State",
+      "fetched_at": "2026-08-09T00:50:13.545576+00:00"
+    },
+    "5ecb9bd494ca967f": {
+      "title": "You can build an AI agent's memory layer with only Go's standard library",
+      "fetched_at": "2026-08-09T00:50:14.165289+00:00"
+    },
+    "3696ca7ff97d7d87": {
+      "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
+      "fetched_at": "2026-08-09T00:50:14.803730+00:00"
+    },
+    "f71872ec20109ae6": {
+      "title": "How Can LLM RL Work Despite Information-Theoretic Inefficiency",
+      "fetched_at": "2026-08-09T00:50:15.429105+00:00"
+    },
+    "09a8be9e7b7542ed": {
+      "title": "Show HN: ExpertCache – Run the Full GPT-OSS 120B (63GB) on a 16GB M1 Pro",
+      "fetched_at": "2026-08-09T00:50:16.046879+00:00"
+    },
+    "3ad877ac027c4795": {
+      "title": "Roku Fairgound, a new 24/7 AI slop channel",
+      "fetched_at": "2026-08-09T00:50:16.676185+00:00"
+    },
+    "bdfa444feeee2b08": {
+      "title": "AI Settles a 25 Year-Old Problem We Left Behind",
+      "fetched_at": "2026-08-09T00:50:17.312505+00:00"
+    },
+    "976cc333a50d1c7c": {
+      "title": "AI Music Debate Is Missing Half the Money",
+      "fetched_at": "2026-08-09T00:50:17.928702+00:00"
+    },
+    "1cdde06ed738e96d": {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "fetched_at": "2026-08-09T00:50:18.545028+00:00"
+    },
+    "eee7924e7fa72e03": {
+      "title": "Shadow AI is a hidden risk to your business",
+      "fetched_at": "2026-08-09T00:50:19.157245+00:00"
+    },
+    "c12df356fd193fea": {
+      "title": "How to write production-quality code with AI",
+      "fetched_at": "2026-08-09T00:50:19.778509+00:00"
+    },
+    "3375bf3115f7bdf5": {
+      "title": "YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop",
+      "fetched_at": "2026-08-09T00:50:20.391551+00:00"
+    },
+    "39f8c33e553ff90f": {
+      "title": "Instagram's AI Rewards Human Attention",
+      "fetched_at": "2026-08-09T00:50:21.003839+00:00"
+    },
+    "5784ac5472a54656": {
+      "title": "One of China's Most Powerful AI Models Has Also Escaped Containment",
+      "fetched_at": "2026-08-09T00:50:21.628989+00:00"
+    },
+    "ce315ce9375376e1": {
+      "title": "AI-written pieces that have won literary awards",
+      "fetched_at": "2026-08-09T00:50:22.243762+00:00"
+    },
+    "7e1d469d47c4d9c6": {
+      "title": "OWASP-amass – In-depth attack surface mapping and asset discovery",
+      "fetched_at": "2026-08-09T00:50:30.364091+00:00"
+    },
+    "1a5333f2160f5f38": {
+      "title": "Most Expensive Historical Items Ever Sold at Auction",
+      "fetched_at": "2026-08-09T00:50:30.986055+00:00"
+    },
+    "72cbc629f55e2270": {
+      "title": "Carl Sagan's explanation of how the Ancient Greek knew Earth was Round",
+      "fetched_at": "2026-08-09T00:50:31.608463+00:00"
+    },
+    "f8f1d6348d0e0756": {
+      "title": "Auction Expert Breaks Down the 20 Rarest Historical Treasures Sold in History",
+      "fetched_at": "2026-08-09T00:50:32.233809+00:00"
+    },
+    "5c6500176f12a8af": {
+      "title": "The Genesis Mission: AI and Quantum-Driven Discovery",
+      "fetched_at": "2026-08-09T00:50:32.855987+00:00"
+    },
+    "62e6357c4ba3a808": {
+      "title": "Translating the Renaissance: 17,000+ historical source texts",
+      "fetched_at": "2026-08-09T00:50:33.467819+00:00"
+    },
+    "08afeb4e8306f624": {
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "fetched_at": "2026-08-09T00:50:34.095232+00:00"
+    },
+    "0cba5ec38c39e6df": {
+      "title": "How to watch 'Secrets of the Great White Kill' – stream 'Shark Week' 2026 from anywhere",
+      "fetched_at": "2026-08-09T00:50:34.714803+00:00"
+    },
+    "0884dd6955662f6b": {
+      "title": "IBM scientists claim they've achieved 'quantum advantage' — and they've dared others to prove them wrong",
+      "fetched_at": "2026-08-09T00:50:35.337951+00:00"
+    },
+    "d69ea92e712f7d11": {
+      "title": "Alzheimer's blood tests are transforming how patients get diagnosed — here's what to know",
+      "fetched_at": "2026-08-09T00:50:35.955101+00:00"
     }
   },
-  "last_updated": "2026-08-08T18:21:34.301630+00:00"
+  "last_updated": "2026-08-09T00:50:36.061655+00:00"
 }
