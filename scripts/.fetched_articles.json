@@ -1,113 +1,5 @@
 {
   "articles": {
-    "e026211b6233ad93": {
-      "title": "一博科技：上半年净利润同比增长1562% PCB工厂订单增长势头良好",
-      "fetched_at": "2026-08-02T08:02:41.339342+00:00"
-    },
-    "1a8187e3a963f964": {
-      "title": "长安汽车：7月交���20.71万辆",
-      "fetched_at": "2026-08-02T08:02:41.985853+00:00"
-    },
-    "7dcb55af6af56914": {
-      "title": "谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息",
-      "fetched_at": "2026-08-02T08:02:42.602585+00:00"
-    },
-    "30a9b9cc11eb24cb": {
-      "title": "Show HN: TamedTable, AI ETL in Natural Language",
-      "fetched_at": "2026-08-02T08:02:43.218949+00:00"
-    },
-    "11b967eb217b9227": {
-      "title": "下周央行公开市场将有18420亿元逆回购到期",
-      "fetched_at": "2026-08-02T08:02:43.830929+00:00"
-    },
-    "a18701a0311db878": {
-      "title": "央行：继续做好金融支持地方政府融资平台债务风险化解工作 推进融资平台市场化转型",
-      "fetched_at": "2026-08-02T08:02:44.473598+00:00"
-    },
-    "7106814c2e5ddd0a": {
-      "title": "央行：继续实施好适度宽松的货币政策",
-      "fetched_at": "2026-08-02T08:02:45.102133+00:00"
-    },
-    "457bf82619f0544c": {
-      "title": "央行：提高金融服务实体经济质效 高质量建设债券市场“科技板”",
-      "fetched_at": "2026-08-02T08:02:45.714325+00:00"
-    },
-    "297755746178792f": {
-      "title": "央行：完善金融市场宏观审慎管理指标体系，探索丰富金融市场宏观审慎管理工具箱",
-      "fetched_at": "2026-08-02T08:02:46.352337+00:00"
-    },
-    "8a2d9bca9aa41a0e": {
-      "title": "DeepSeek's Theory of the AI Gap",
-      "fetched_at": "2026-08-02T08:02:46.962451+00:00"
-    },
-    "64cd8b5516532633": {
-      "title": "MUD as AI Evaluation and LLM-judge distortion in ways aggregate κ misses",
-      "fetched_at": "2026-08-02T08:02:47.581553+00:00"
-    },
-    "f52a8d2453e5a141": {
-      "title": "Testing LLM Concurrency on Consumer Hardware (RTX 5060)",
-      "fetched_at": "2026-08-02T08:02:48.259958+00:00"
-    },
-    "fe49fb6e56bce9db": {
-      "title": "DeepSeek V4 Pro GA on GPT 5.6 Sol (xhigh) level for fraction of cost",
-      "fetched_at": "2026-08-02T08:02:48.881345+00:00"
-    },
-    "990ecbce2ac5c5c0": {
-      "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
-      "fetched_at": "2026-08-02T08:02:49.525359+00:00"
-    },
-    "e0edcab5ecdf0f59": {
-      "title": "Agent-Browser – Browser Automation for AI",
-      "fetched_at": "2026-08-02T08:02:50.147902+00:00"
-    },
-    "4e9c0c23e1406596": {
-      "title": "中国产品包揽全球大模型调用量前五",
-      "fetched_at": "2026-08-02T08:02:50.775710+00:00"
-    },
-    "2858bf2c36c0c718": {
-      "title": "AI Ate Your RAM (Why Memory Prices Exploded)",
-      "fetched_at": "2026-08-02T08:02:51.406560+00:00"
-    },
-    "028bb8d6cc1eaf8d": {
-      "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
-      "fetched_at": "2026-08-02T08:02:52.026730+00:00"
-    },
-    "b1c91083aafbe172": {
-      "title": "新一代通信网建设加快，千兆光网覆盖超九成国民经济大类",
-      "fetched_at": "2026-08-02T08:02:52.646990+00:00"
-    },
-    "c633442d8b932cf6": {
-      "title": "全国首票保税仓库注册登记电子证照落地山东",
-      "fetched_at": "2026-08-02T08:02:53.266527+00:00"
-    },
-    "3309e8e45dfaee60": {
-      "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
-      "fetched_at": "2026-08-02T08:02:55.498798+00:00"
-    },
-    "ba3082bb5fe4dca0": {
-      "title": "特朗普表示同意取消對伊朗的打擊，前提是能「迅速」達成協議",
-      "fetched_at": "2026-08-02T08:02:56.116123+00:00"
-    },
-    "4dda0523900154c8": {
-      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
-      "fetched_at": "2026-08-02T08:03:01.117021+00:00"
-    },
-    "88abc2f911c3a21e": {
-      "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
-      "fetched_at": "2026-08-02T08:03:01.733651+00:00"
-    },
-    "6ee2ffb51628e215": {
-      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
-      "fetched_at": "2026-08-02T08:03:02.376786+00:00"
-    },
-    "ed34b5c8ca41e8b7": {
-      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
-      "fetched_at": "2026-08-02T08:03:02.996524+00:00"
-    },
-    "9ec6a26fd173b429": {
-      "title": "New giant salamander species discovered in 3.5-million-year-old fossils",
-      "fetched_at": "2026-08-02T08:03:03.624764+00:00"
-    },
     "1e79e9416ad33fec": {
       "title": "China's free Kimi K3 AI model shakes up global tech market",
       "fetched_at": "2026-08-02T12:55:13.502167+00:00"
@@ -3423,7 +3315,103 @@
     "834b3e7b9203d42f": {
       "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
       "fetched_at": "2026-08-10T07:07:22.250496+00:00"
+    },
+    "96323f465d3f95bb": {
+      "title": "Pokecut: Free AI Photo Editor and Generator",
+      "fetched_at": "2026-08-10T12:41:34.030485+00:00"
+    },
+    "1653925ac46e7997": {
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "fetched_at": "2026-08-10T12:41:34.660461+00:00"
+    },
+    "af5d1e43c1f9a8aa": {
+      "title": "Farmer kills 25 acres of crops after following AI weed and pest control advice",
+      "fetched_at": "2026-08-10T12:41:35.262005+00:00"
+    },
+    "2567145835e95b65": {
+      "title": "The AI Slop Backlash Is Having an Impact",
+      "fetched_at": "2026-08-10T12:41:35.881142+00:00"
+    },
+    "56f64569f8234967": {
+      "title": "AI Coding and Its Discontents",
+      "fetched_at": "2026-08-10T12:41:36.507889+00:00"
+    },
+    "53fd97276feffb2b": {
+      "title": "In-House LLM Serving at Netflix",
+      "fetched_at": "2026-08-10T12:41:37.115350+00:00"
+    },
+    "e74e8519b3148032": {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "fetched_at": "2026-08-10T12:41:37.805264+00:00"
+    },
+    "33feb5413ebf746e": {
+      "title": "AI coding got faster. Why didn't engineering?",
+      "fetched_at": "2026-08-10T12:41:38.470687+00:00"
+    },
+    "1a7f2c7ac8af217e": {
+      "title": "Show HN: Taalas-style on-chip LLM weights on a $250 AMD FPGA (60k tok/s)",
+      "fetched_at": "2026-08-10T12:41:39.076593+00:00"
+    },
+    "0f971ce60570113f": {
+      "title": "Steam Machine and Steam Controller Customers in Europe Hit by Cyber Attack",
+      "fetched_at": "2026-08-10T12:41:39.689125+00:00"
+    },
+    "68d8acf167a09d0c": {
+      "title": "Beijing is forcing a mass breakup with AI lovers",
+      "fetched_at": "2026-08-10T12:41:40.352213+00:00"
+    },
+    "586b44c869a2b85b": {
+      "title": "AI model captures how humans read, paving the way to personalised text",
+      "fetched_at": "2026-08-10T12:41:40.988465+00:00"
+    },
+    "1db6e3066b573e13": {
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "fetched_at": "2026-08-10T12:41:41.706358+00:00"
+    },
+    "e79beee5cbdc0d44": {
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "fetched_at": "2026-08-10T12:41:42.313720+00:00"
+    },
+    "f92b748e26cd36c7": {
+      "title": "China doesn't need to beat US AI [video]",
+      "fetched_at": "2026-08-10T12:41:42.921134+00:00"
+    },
+    "a0aa11ac2e7ff4ee": {
+      "title": "The OpenAI and Hugging Face breach story told from the perspective of the AI",
+      "fetched_at": "2026-08-10T12:41:43.533061+00:00"
+    },
+    "301c45e09c342cd6": {
+      "title": "Show HN: An open-source multi-tenant, AI-native software factory",
+      "fetched_at": "2026-08-10T12:41:44.178987+00:00"
+    },
+    "542c16a25a36d372": {
+      "title": "Senior detective under investigation over use of AI",
+      "fetched_at": "2026-08-10T12:41:44.785154+00:00"
+    },
+    "d25800e46c3258b0": {
+      "title": "Linus Torvalds says AI has made Linux kernel updates the new normal",
+      "fetched_at": "2026-08-10T12:41:45.435548+00:00"
+    },
+    "63567c2c6952d22d": {
+      "title": "The Future Is for Everyone – The Path to a Positive AI Future",
+      "fetched_at": "2026-08-10T12:41:46.052340+00:00"
+    },
+    "ace89b3bb9a32548": {
+      "title": "為什麼航空公司對鋰電池日趨警惕",
+      "fetched_at": "2026-08-10T12:41:48.615813+00:00"
+    },
+    "a1266c6082481a26": {
+      "title": "保「先人」清靜 《哈利波特》書迷影迷成功迫使跨境電纜改道",
+      "fetched_at": "2026-08-10T12:41:49.216649+00:00"
+    },
+    "a6bdfbff7142d076": {
+      "title": "Will you be looking up on Aug. 12, the best skywatching day and night of the year?",
+      "fetched_at": "2026-08-10T12:41:51.725068+00:00"
+    },
+    "5bce6afa8f90ad08": {
+      "title": "Berlin gold hat: A 3,000-year-old ceremonial headdress that a cult used to track the sun, moon and lunar eclipses",
+      "fetched_at": "2026-08-10T12:41:52.352500+00:00"
     }
   },
-  "last_updated": "2026-08-10T07:07:22.380807+00:00"
+  "last_updated": "2026-08-10T12:41:52.430737+00:00"
 }
