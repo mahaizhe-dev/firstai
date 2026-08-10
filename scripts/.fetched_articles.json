@@ -1,149 +1,5 @@
 {
   "articles": {
-    "b3345b18523515aa": {
-      "title": "Show HN: BugDetect AI – AI-powered code debugging assistant",
-      "fetched_at": "2026-08-01T18:51:51.768527+00:00"
-    },
-    "74a5fa125e3160a3": {
-      "title": "Show HN: OpenLongevity – Longevity × AI – open, verifiable, for everyone",
-      "fetched_at": "2026-08-01T18:51:52.386813+00:00"
-    },
-    "26b0391f0a70d931": {
-      "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
-      "fetched_at": "2026-08-01T18:51:53.002731+00:00"
-    },
-    "7e60460ec4684fb4": {
-      "title": "House Committees Investigate DoorDash's Use of Chinese AI",
-      "fetched_at": "2026-08-01T18:51:53.613119+00:00"
-    },
-    "3fbd4510edf55910": {
-      "title": "Random thoughts while gazing at the misty AI Frontier",
-      "fetched_at": "2026-08-01T18:51:54.231520+00:00"
-    },
-    "d9214998b73ab677": {
-      "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
-      "fetched_at": "2026-08-01T18:51:54.848723+00:00"
-    },
-    "c6089a6aacd59cdf": {
-      "title": "Lack of FISA reform lets federal govt surveil 'entire communities' with AI",
-      "fetched_at": "2026-08-01T18:51:55.476068+00:00"
-    },
-    "07bb2be7d13268a2": {
-      "title": "Show HN: SteerPlane – Deterministic runtime guardrails for AI agents",
-      "fetched_at": "2026-08-01T18:51:56.098131+00:00"
-    },
-    "4575aa42a8535bb8": {
-      "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
-      "fetched_at": "2026-08-01T18:51:56.711672+00:00"
-    },
-    "23a73206b1de80b7": {
-      "title": "An honesty-first pipeline for AI-transcribing a small letter archive",
-      "fetched_at": "2026-08-01T18:51:57.341110+00:00"
-    },
-    "84bc70b12d2b49b5": {
-      "title": "Sovereign and European AI where your Data Stays under European law",
-      "fetched_at": "2026-08-01T18:51:57.965868+00:00"
-    },
-    "4ec96b2560cbbe64": {
-      "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
-      "fetched_at": "2026-08-01T18:51:58.586449+00:00"
-    },
-    "917ac4efdc629656": {
-      "title": "AI Has Passed Every Exam. It Has Never Had an Idea",
-      "fetched_at": "2026-08-01T18:51:59.203501+00:00"
-    },
-    "dff18d1b292ae9de": {
-      "title": "Show HN: Agentmetry – local-first flight recorder for AI coding agents",
-      "fetched_at": "2026-08-01T18:51:59.826308+00:00"
-    },
-    "fe56839b767397c4": {
-      "title": "Assessment of open AI math results",
-      "fetched_at": "2026-08-01T18:52:00.520844+00:00"
-    },
-    "9e4d14aecb77f095": {
-      "title": "Type designers have created a free font that \"poisons\" AI",
-      "fetched_at": "2026-08-01T18:52:01.153605+00:00"
-    },
-    "fcb6f5f3441731ba": {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "fetched_at": "2026-08-01T18:52:01.765753+00:00"
-    },
-    "acc61aecb636d631": {
-      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-      "fetched_at": "2026-08-01T18:52:02.386565+00:00"
-    },
-    "40f5ff0658afbd14": {
-      "title": "IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests",
-      "fetched_at": "2026-08-01T18:52:03.015363+00:00"
-    },
-    "016bd21b9513ac44": {
-      "title": "The Kotlin Benchmark for AI Coding Agents",
-      "fetched_at": "2026-08-01T18:52:03.633796+00:00"
-    },
-    "734f80b77c03d4ed": {
-      "title": "為什麼你總是在凌晨三點醒來？",
-      "fetched_at": "2026-08-01T18:52:06.590457+00:00"
-    },
-    "0a41d1dc9058992e": {
-      "title": "Could we prevent dementia? A new trial may point the way.",
-      "fetched_at": "2026-08-01T18:52:08.898701+00:00"
-    },
-    "a5700a0474975681": {
-      "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
-      "fetched_at": "2026-08-01T18:52:09.511274+00:00"
-    },
-    "8a74f39dd40db22e": {
-      "title": "Tiny black holes may be secretly exploding stars across the Milky Way",
-      "fetched_at": "2026-08-01T18:52:10.133035+00:00"
-    },
-    "8e6f24e38e32e821": {
-      "title": "Ant brains reveal how evolution turned hunger into parenting",
-      "fetched_at": "2026-08-01T18:52:10.742834+00:00"
-    },
-    "8fa3c2c532cc3048": {
-      "title": "Tiny aerosol particles could supercharge tropical storm clouds",
-      "fetched_at": "2026-08-01T18:52:11.370534+00:00"
-    },
-    "7cf64a4118cd79c1": {
-      "title": "Superheated magma may power towering lava fountains",
-      "fetched_at": "2026-08-01T18:52:11.986967+00:00"
-    },
-    "834b3e7b9203d42f": {
-      "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
-      "fetched_at": "2026-08-01T18:52:12.609648+00:00"
-    },
-    "70998c26ae2cc329": {
-      "title": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
-      "fetched_at": "2026-08-01T18:52:13.234724+00:00"
-    },
-    "4dbea5560807fc19": {
-      "title": "Scientists discover why poor sleep may harm some brains more",
-      "fetched_at": "2026-08-01T18:52:13.853907+00:00"
-    },
-    "96c7bda51286bae8": {
-      "title": "A 42-year-old childhood obesity theory may be wrong",
-      "fetched_at": "2026-08-01T18:52:14.485334+00:00"
-    },
-    "4a80571f106175e6": {
-      "title": "Black holes may spit out nearly as much matter as they swallow",
-      "fetched_at": "2026-08-01T18:52:15.109128+00:00"
-    },
-    "3ac70a5aed90aac0": {
-      "title": "AI can tell if your brain is aging faster than you are",
-      "fetched_at": "2026-08-01T18:52:15.729455+00:00"
-    },
-    "5af2bf0b87fb31bb": {
-      "title": "Strange gamma rays could reveal how stars forge heavy elements",
-      "fetched_at": "2026-08-01T18:52:16.346143+00:00"
-    },
-    "ae224e6fcd4d86ee": {
-      "title": "A strange quantum rule caps electrical resistance",
-      "fetched_at": "2026-08-01T18:52:17.510567+00:00"
-    },
-    "4f7b30ef83fcd609": {
-      "title": "Scientists discover how obesity may fuel Alzheimer’s disease",
-      "fetched_at": "2026-08-01T18:52:18.138951+00:00"
-    },
     "6609e907888fd4e5": {
       "title": "今年上半年北京“双枢纽”机场进出口超4000亿元",
       "fetched_at": "2026-08-02T01:43:18.805157+00:00"
@@ -3503,7 +3359,115 @@
     "66d00e66327ddc1e": {
       "title": "The dodo bird had a secret sensory world scientists are only now discovering",
       "fetched_at": "2026-08-09T18:22:51.417976+00:00"
+    },
+    "f0485e4b5523e740": {
+      "title": "What do I want to be? – a poem about parenting in the AI age",
+      "fetched_at": "2026-08-10T00:52:35.020003+00:00"
+    },
+    "27cada4cd1859901": {
+      "title": "Optimizing a GPT-2-Class Transformer on a GPU",
+      "fetched_at": "2026-08-10T00:52:35.655724+00:00"
+    },
+    "19b6bb5a112f130d": {
+      "title": "What if we let AI govern us?",
+      "fetched_at": "2026-08-10T00:52:36.270656+00:00"
+    },
+    "496c60e74ea31be8": {
+      "title": "派早报：央视曝光酒店评级标识消费陷阱",
+      "fetched_at": "2026-08-10T00:52:36.901130+00:00"
+    },
+    "69d6c5914160d139": {
+      "title": "A startup is able to detect fires within minutes using satellites and AI",
+      "fetched_at": "2026-08-10T00:52:37.524813+00:00"
+    },
+    "e6a9ca3381dcd403": {
+      "title": "Show HN: An AI chief of staff for founders who can't afford one",
+      "fetched_at": "2026-08-10T00:52:38.131503+00:00"
+    },
+    "5e1cab43320ac1cd": {
+      "title": "Quoted $1M for AI code review. Built it for free",
+      "fetched_at": "2026-08-10T00:52:38.740238+00:00"
+    },
+    "2b495f62a8101854": {
+      "title": "I got 30% better AI coding results",
+      "fetched_at": "2026-08-10T00:52:39.354433+00:00"
+    },
+    "3e51ef7bd79af1ba": {
+      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+      "fetched_at": "2026-08-10T00:52:39.973967+00:00"
+    },
+    "a6d36de4439b4ca2": {
+      "title": "AI Agent Qubitz",
+      "fetched_at": "2026-08-10T00:52:40.589811+00:00"
+    },
+    "23223a676fcd1cd8": {
+      "title": "Lawyers using \"AI\" could face sanctions including costs for fake citations",
+      "fetched_at": "2026-08-10T00:52:41.202525+00:00"
+    },
+    "4a0f390ddf58e61d": {
+      "title": "Ask HN: How has AI helped your personal algorithmic trading strategy?",
+      "fetched_at": "2026-08-10T00:52:41.812967+00:00"
+    },
+    "d1dee3f75063200c": {
+      "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
+      "fetched_at": "2026-08-10T00:52:42.423193+00:00"
+    },
+    "a5b459dbcca798ba": {
+      "title": "Show HN: Wardline, a Go proxy that auto-blocks compromised AI agents",
+      "fetched_at": "2026-08-10T00:52:43.039111+00:00"
+    },
+    "4a4bf5854a77ad70": {
+      "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+      "fetched_at": "2026-08-10T00:52:43.663563+00:00"
+    },
+    "cf640ec9f4df6731": {
+      "title": "Codreo AI Mail – AI Outlook Email Assistant",
+      "fetched_at": "2026-08-10T00:52:44.273331+00:00"
+    },
+    "4bb379b9a172fdd5": {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "fetched_at": "2026-08-10T00:52:44.899272+00:00"
+    },
+    "52f2f4ebb6e77086": {
+      "title": "AI Is Rewiring South Korea's Careers, Dating and Culture",
+      "fetched_at": "2026-08-10T00:52:45.525809+00:00"
+    },
+    "6eb15a1070bfe2e3": {
+      "title": "The Argument Against AI Writing Is at Least 2,400 Years Old",
+      "fetched_at": "2026-08-10T00:52:46.143533+00:00"
+    },
+    "2b280e09adaab115": {
+      "title": "Employees Do Not Want Your AI",
+      "fetched_at": "2026-08-10T00:52:46.840535+00:00"
+    },
+    "b90b110fa383a486": {
+      "title": "中国出口继续“狂飙”，月度贸易顺差再超千亿美元",
+      "fetched_at": "2026-08-10T00:52:49.121683+00:00"
+    },
+    "ed00a56b35962b6f": {
+      "title": "班克斯在英國法庭外作畫 至今花費公帑近15萬英鎊",
+      "fetched_at": "2026-08-10T00:52:49.751062+00:00"
+    },
+    "7cdc893bc46738cb": {
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "fetched_at": "2026-08-10T00:52:50.381134+00:00"
+    },
+    "5c0d5dc72af16fe6": {
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "fetched_at": "2026-08-10T00:53:28.422238+00:00"
+    },
+    "6218a55a89a16557": {
+      "title": "Total eclipse, shooting stars, and the Milky Way: Why Aug. 12 could be the greatest single day and night for skywatching for years",
+      "fetched_at": "2026-08-10T00:53:29.047293+00:00"
+    },
+    "210d7b0454a7a560": {
+      "title": "Science news this week: Secret lives of whale sharks revealed, Earth's coldest temperature registered, and Amazonian geoglyphs show clues to lost civilization",
+      "fetched_at": "2026-08-10T00:53:29.666415+00:00"
+    },
+    "6a20d9c153f4437c": {
+      "title": "Why do cats have 'leg whiskers'?",
+      "fetched_at": "2026-08-10T00:53:30.307119+00:00"
     }
   },
-  "last_updated": "2026-08-09T18:22:51.518338+00:00"
+  "last_updated": "2026-08-10T00:53:30.437390+00:00"
 }
