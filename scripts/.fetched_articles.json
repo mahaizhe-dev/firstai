@@ -1,109 +1,5 @@
 {
   "articles": {
-    "1e79e9416ad33fec": {
-      "title": "China's free Kimi K3 AI model shakes up global tech market",
-      "fetched_at": "2026-08-02T12:55:13.502167+00:00"
-    },
-    "9e30328d4e638da8": {
-      "title": "When Verification Explores Too Far: LLM Test Coverage vs. Validity",
-      "fetched_at": "2026-08-02T12:55:14.127572+00:00"
-    },
-    "df50209ee6ace7d6": {
-      "title": "Show HN: Handoff is await human() for AI agents",
-      "fetched_at": "2026-08-02T12:55:14.783897+00:00"
-    },
-    "9f9e731c476c339c": {
-      "title": "An AI TikTok Shop Slop Factory That Shills Supplements the FDA Recalled",
-      "fetched_at": "2026-08-02T12:55:15.406602+00:00"
-    },
-    "19cae90c020dac4e": {
-      "title": "Will Self-Hosted Local AI Go Mainstream, or Stay a Niche for Nerds?",
-      "fetched_at": "2026-08-02T12:55:16.147711+00:00"
-    },
-    "5e709278f96504f0": {
-      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-      "fetched_at": "2026-08-02T12:55:16.780860+00:00"
-    },
-    "008aaab9ed62b36b": {
-      "title": "Best way to avoid bloat and AI – selfcontaining OS",
-      "fetched_at": "2026-08-02T12:55:17.401229+00:00"
-    },
-    "21ac88828451e9df": {
-      "title": "Generative AI floods and dilutes the market for books",
-      "fetched_at": "2026-08-02T12:55:18.032817+00:00"
-    },
-    "8b651560fbf89ce1": {
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "fetched_at": "2026-08-02T12:55:18.657704+00:00"
-    },
-    "71e72e22216c1cc5": {
-      "title": "LLM Counter-Defaults",
-      "fetched_at": "2026-08-02T12:55:19.283168+00:00"
-    },
-    "7e9653c55db24492": {
-      "title": "Damned if you do and damned if you don't: Can NOT using AI amount to negligence?",
-      "fetched_at": "2026-08-02T12:55:19.906248+00:00"
-    },
-    "4d7eb524c1566abc": {
-      "title": "Show HN: CaLLMar – play a text-based adventure game in an LLM chat",
-      "fetched_at": "2026-08-02T12:55:20.547802+00:00"
-    },
-    "ca1d606d4187ec4f": {
-      "title": "Show HN: Documan – AI Powered Requirement Management Workspace",
-      "fetched_at": "2026-08-02T12:55:21.179706+00:00"
-    },
-    "4a0b930708baad9e": {
-      "title": "Stock market turmoil sheds stark light on the opaque AI economy",
-      "fetched_at": "2026-08-02T12:55:21.825325+00:00"
-    },
-    "97d1418016fe2896": {
-      "title": "Research Topics in ML, AI and Deep Learning",
-      "fetched_at": "2026-08-02T12:55:22.457590+00:00"
-    },
-    "5c126b1ab0d84b1a": {
-      "title": "中信证券：调整基本结束，8月修复可期",
-      "fetched_at": "2026-08-02T12:55:23.088236+00:00"
-    },
-    "4679d66b586aab68": {
-      "title": "兆易创新：拟10亿-20亿元回购A股股份用于注销",
-      "fetched_at": "2026-08-02T12:55:23.712826+00:00"
-    },
-    "de90159955fb7462": {
-      "title": "近120万辆特斯拉汽车遭调查",
-      "fetched_at": "2026-08-02T12:55:24.367740+00:00"
-    },
-    "f1b64f81a1dab8b6": {
-      "title": "比亚迪：今年前7月新能源汽车销量222.77万辆",
-      "fetched_at": "2026-08-02T12:55:25.001741+00:00"
-    },
-    "0a1147dffb6f4c2b": {
-      "title": "2026年度电影总票房突破230亿",
-      "fetched_at": "2026-08-02T12:55:25.634151+00:00"
-    },
-    "037efeb76b47ccac": {
-      "title": "西班牙移民危機如何引發政治風暴 社交媒體推波助瀾",
-      "fetched_at": "2026-08-02T12:55:29.448620+00:00"
-    },
-    "b9b1114c925adee6": {
-      "title": "Hubble telescope takes one of the most detailed looks at neighboring Andromeda galaxy ever — Space photo of the week",
-      "fetched_at": "2026-08-02T12:55:39.581216+00:00"
-    },
-    "14d495fe6dcda8dd": {
-      "title": "'We're a bit late on the case, but we are on the case': Author Fred Pearce on the rise of renewables, a defused population bomb, and letting nature find its own way",
-      "fetched_at": "2026-08-02T12:55:40.195811+00:00"
-    },
-    "25b513c3e5cd6e80": {
-      "title": "'The apparent chaos of the Anthropocene is turbocharging evolution itself': Plants are finding ways to survive and thrive in the climate crisis — if we let them",
-      "fetched_at": "2026-08-02T12:55:40.851204+00:00"
-    },
-    "3fc344bcb668b9e1": {
-      "title": "Archaeology Found Under England's Finest Fortified Manor House(Historic England) [video]",
-      "fetched_at": "2026-08-02T12:55:41.528905+00:00"
-    },
-    "ea98a3ff27b7e88a": {
-      "title": "Did Celtic women fight in battle?",
-      "fetched_at": "2026-08-02T12:55:42.159290+00:00"
-    },
     "0e17d8ffa438584f": {
       "title": "AI-assisted analytics now 10x cheaper",
       "fetched_at": "2026-08-02T18:52:32.799889+00:00"
@@ -3411,7 +3307,75 @@
     "5bce6afa8f90ad08": {
       "title": "Berlin gold hat: A 3,000-year-old ceremonial headdress that a cult used to track the sun, moon and lunar eclipses",
       "fetched_at": "2026-08-10T12:41:52.352500+00:00"
+    },
+    "a829959615b4def8": {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "fetched_at": "2026-08-10T18:40:22.534615+00:00"
+    },
+    "0c480a56dad39fe8": {
+      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+      "fetched_at": "2026-08-10T18:40:23.121084+00:00"
+    },
+    "f3e32385bf3dd1c3": {
+      "title": "What happens to Bose when headphones become AI?",
+      "fetched_at": "2026-08-10T18:40:23.719644+00:00"
+    },
+    "7037467d9d0e8a72": {
+      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
+      "fetched_at": "2026-08-10T18:40:24.395630+00:00"
+    },
+    "f021d49e8e06279a": {
+      "title": "派评 | 近期值得关注的 App",
+      "fetched_at": "2026-08-10T18:40:24.997120+00:00"
+    },
+    "add690fd06bafefc": {
+      "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
+      "fetched_at": "2026-08-10T18:40:25.600639+00:00"
+    },
+    "f2967f9c8ee664fb": {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
+      "fetched_at": "2026-08-10T18:40:25.600775+00:00"
+    },
+    "b766e3b372c6dab5": {
+      "title": "Learning from Historical Mistakes",
+      "fetched_at": "2026-08-10T18:40:31.119402+00:00"
+    },
+    "521bb2166ac65cad": {
+      "title": "'They would come in with a chord change': Composer Jim Nollman has collaborated with turkeys, kangaroo rats and whales. Now he's dropping 'Orcas' Greatest Hits.'",
+      "fetched_at": "2026-08-10T18:40:31.711207+00:00"
+    },
+    "cb73872becbd8843": {
+      "title": "Historical Discoveries That Reshaped Modern Historical Understanding",
+      "fetched_at": "2026-08-10T18:40:32.298624+00:00"
+    },
+    "9ff58a0d7e81ed9d": {
+      "title": "Baader AstroSolar Filter Film OD 5.0 review",
+      "fetched_at": "2026-08-10T18:40:32.906420+00:00"
+    },
+    "574403cb2a7350df": {
+      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
+      "fetched_at": "2026-08-10T18:40:33.501792+00:00"
+    },
+    "f70b8dd0af2e2b2e": {
+      "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
+      "fetched_at": "2026-08-10T18:40:34.093214+00:00"
+    },
+    "176f7a407a414ea1": {
+      "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
+      "fetched_at": "2026-08-10T18:40:34.683021+00:00"
+    },
+    "67301685dae30ac3": {
+      "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
+      "fetched_at": "2026-08-10T18:40:35.275969+00:00"
+    },
+    "5081bc2257f7c5f7": {
+      "title": "For 15,000 years, humans and dogs have been changing each other",
+      "fetched_at": "2026-08-10T18:40:35.871132+00:00"
+    },
+    "d1f5b0d147f3b707": {
+      "title": "Cassini reveals a surprising twist in Saturn’s magnetic shield",
+      "fetched_at": "2026-08-10T18:40:36.498513+00:00"
     }
   },
-  "last_updated": "2026-08-10T12:41:52.430737+00:00"
+  "last_updated": "2026-08-10T18:40:36.641751+00:00"
 }
