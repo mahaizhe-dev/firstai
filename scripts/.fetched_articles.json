@@ -1,109 +1,5 @@
 {
   "articles": {
-    "6609e907888fd4e5": {
-      "title": "今年上半年北京“双枢纽”机场进出口超4000亿元",
-      "fetched_at": "2026-08-02T01:43:18.805157+00:00"
-    },
-    "015717fedbba244a": {
-      "title": "ASRock BC-250: Building the Budget Steam Machine",
-      "fetched_at": "2026-08-02T01:43:19.419943+00:00"
-    },
-    "ed43eed106f71962": {
-      "title": "People Who Called for Averting Nuclear War Are Calling for AI Slowdown",
-      "fetched_at": "2026-08-02T01:43:20.004166+00:00"
-    },
-    "979508e37fb875f2": {
-      "title": "金风科技参建Ummbila Emoyeni一期风电项目实现商业运营",
-      "fetched_at": "2026-08-02T01:43:20.628244+00:00"
-    },
-    "5042d3ae9d4bbb43": {
-      "title": "金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升",
-      "fetched_at": "2026-08-02T01:43:21.249914+00:00"
-    },
-    "4b63b2158d6350ea": {
-      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
-      "fetched_at": "2026-08-02T01:43:21.852453+00:00"
-    },
-    "a5a0a6ae070b3447": {
-      "title": "The AI Bubble Survives on $1.65T in Hidden Debt",
-      "fetched_at": "2026-08-02T01:43:22.454677+00:00"
-    },
-    "bf35ca7e3f8dc9b3": {
-      "title": "AMD's physical AI plans come into focus as company launch Ryzen embedded AI X100",
-      "fetched_at": "2026-08-02T01:43:23.060177+00:00"
-    },
-    "f5599427f6db840f": {
-      "title": "Timeline Shift AI – An AI self-reflection companion for difficult decisions",
-      "fetched_at": "2026-08-02T01:43:23.668257+00:00"
-    },
-    "214c27f0bd8d2558": {
-      "title": "AI will always find a difference",
-      "fetched_at": "2026-08-02T01:43:24.266583+00:00"
-    },
-    "d365dc8f5304cb24": {
-      "title": "Jaron Lanier and DeGrasse Tyson on \"There Is No AI\"",
-      "fetched_at": "2026-08-02T01:43:24.884536+00:00"
-    },
-    "04337c2b37d12638": {
-      "title": "Dreamup+|+Dang.ai",
-      "fetched_at": "2026-08-02T01:43:25.553530+00:00"
-    },
-    "f8d947fff8f6b587": {
-      "title": "Ask HN: I still don't understand why AI agents need \"skills\"",
-      "fetched_at": "2026-08-02T01:43:26.146830+00:00"
-    },
-    "97f885e7bf1df00c": {
-      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-      "fetched_at": "2026-08-02T01:43:26.792849+00:00"
-    },
-    "7e66574afbc1c5ef": {
-      "title": "Show HN: I made 70K+ hand-drawn icons using AI",
-      "fetched_at": "2026-08-02T01:43:27.388877+00:00"
-    },
-    "7b79402f94ea8fc2": {
-      "title": "Show HN: Symbio self fine-tuning AI loop",
-      "fetched_at": "2026-08-02T01:43:27.986857+00:00"
-    },
-    "2e89850dca68a08e": {
-      "title": "Show HN: Wage Against the Machine – MacWages Index for AI Tasks",
-      "fetched_at": "2026-08-02T01:43:28.609741+00:00"
-    },
-    "8b6fa91b68fd2c52": {
-      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-      "fetched_at": "2026-08-02T01:43:29.227771+00:00"
-    },
-    "05e19c3908c097a0": {
-      "title": "Mexico became a surprise cornerstone of America's AI boom",
-      "fetched_at": "2026-08-02T01:43:29.830829+00:00"
-    },
-    "99061f83ce259bae": {
-      "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
-      "fetched_at": "2026-08-02T01:43:30.421794+00:00"
-    },
-    "7963290d687655c3": {
-      "title": "香港步入「禁書時代」？回顧書店與出版環境的變化",
-      "fetched_at": "2026-08-02T01:43:33.239987+00:00"
-    },
-    "db2b08343966db91": {
-      "title": "Show HN: A Google Reader like discovery engine for long-form blogs",
-      "fetched_at": "2026-08-02T01:43:38.312410+00:00"
-    },
-    "4bcdb76f922ba849": {
-      "title": "Geometrically patterned ancient earthworks in Acre, Rio Branco, Brazil",
-      "fetched_at": "2026-08-02T01:43:38.912370+00:00"
-    },
-    "b138bf4f9bca8547": {
-      "title": "2026 Europhysics Prize honors discovery of third fundamental class of magnetism",
-      "fetched_at": "2026-08-02T01:43:39.510468+00:00"
-    },
-    "90aa801db259d895": {
-      "title": "Archaeologists Find Ancient Glyphs in the Amazon",
-      "fetched_at": "2026-08-02T01:43:40.144708+00:00"
-    },
-    "8256bbd50653b478": {
-      "title": "Scientists find a simple routine linked to less pain and depression",
-      "fetched_at": "2026-08-02T01:43:40.739996+00:00"
-    },
     "e026211b6233ad93": {
       "title": "一博科技：上半年净利润同比增长1562% PCB工厂订单增长势头良好",
       "fetched_at": "2026-08-02T08:02:41.339342+00:00"
@@ -3467,7 +3363,67 @@
     "6a20d9c153f4437c": {
       "title": "Why do cats have 'leg whiskers'?",
       "fetched_at": "2026-08-10T00:53:30.307119+00:00"
+    },
+    "ff30b76d0e2ca536": {
+      "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
+      "fetched_at": "2026-08-10T07:07:10.014010+00:00"
+    },
+    "d89d3aad7cef47b8": {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "fetched_at": "2026-08-10T07:07:10.588965+00:00"
+    },
+    "217d926f47003455": {
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "fetched_at": "2026-08-10T07:07:11.199035+00:00"
+    },
+    "09f92515e2c14347": {
+      "title": "The AI safety test is becoming a safety risk",
+      "fetched_at": "2026-08-10T07:07:11.787186+00:00"
+    },
+    "29a849af0ffd9902": {
+      "title": "想要開放霍爾木茲海峽 伊朗向特朗普提出的六個條件",
+      "fetched_at": "2026-08-10T07:07:14.501823+00:00"
+    },
+    "9aee87c224dd915f": {
+      "title": "「最強颱風」紀錄險再刷新 白海豚登陸後北移百萬人疏散",
+      "fetched_at": "2026-08-10T07:07:15.064771+00:00"
+    },
+    "7c90d868472ecca6": {
+      "title": "台湾的无人机“地狱景象”能抵御中国入侵吗？",
+      "fetched_at": "2026-08-10T07:07:15.642078+00:00"
+    },
+    "4ce0e5673309f04b": {
+      "title": "弹丸枪、警棍、催泪瓦斯：印度警方如何镇压青年抗议者",
+      "fetched_at": "2026-08-10T07:07:16.206214+00:00"
+    },
+    "d1fe5ca32358a792": {
+      "title": "走访震后熊本：为何经历强震但死伤较少？",
+      "fetched_at": "2026-08-10T07:07:16.769379+00:00"
+    },
+    "851cc91abe376192": {
+      "title": "美国正在伊朗大量消耗武器，俄中或坐收渔利",
+      "fetched_at": "2026-08-10T07:07:17.329718+00:00"
+    },
+    "6353b03a3c872f93": {
+      "title": "游客激增考验越南司法系统：如何应对“不良”外国人？",
+      "fetched_at": "2026-08-10T07:07:17.933968+00:00"
+    },
+    "0a41d1dc9058992e": {
+      "title": "Could we prevent dementia? A new trial may point the way.",
+      "fetched_at": "2026-08-10T07:07:20.531470+00:00"
+    },
+    "a5700a0474975681": {
+      "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
+      "fetched_at": "2026-08-10T07:07:21.116899+00:00"
+    },
+    "7cf64a4118cd79c1": {
+      "title": "Superheated magma may power towering lava fountains",
+      "fetched_at": "2026-08-10T07:07:21.680558+00:00"
+    },
+    "834b3e7b9203d42f": {
+      "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
+      "fetched_at": "2026-08-10T07:07:22.250496+00:00"
     }
   },
-  "last_updated": "2026-08-10T00:53:30.437390+00:00"
+  "last_updated": "2026-08-10T07:07:22.380807+00:00"
 }
