@@ -1,157 +1,5 @@
 {
   "articles": {
-    "97588e028605dbe7": {
-      "title": "The EU AI Act is now in force: an engineering checklist",
-      "fetched_at": "2026-08-03T14:12:34.211558+00:00"
-    },
-    "91032b0f7d14bc62": {
-      "title": "Are We Having the Wrong Nightmares About AI?",
-      "fetched_at": "2026-08-03T14:12:34.889119+00:00"
-    },
-    "725164df17d1f7cb": {
-      "title": "Logue 1.0.1: on-device AI meeting notes, now stored as plain Markdown",
-      "fetched_at": "2026-08-03T14:12:35.512192+00:00"
-    },
-    "ae392f24e50e8d6b": {
-      "title": "Show HN: Glaux – Browser-Only AI for Hugging Face ONNX Community Models",
-      "fetched_at": "2026-08-03T14:12:36.180539+00:00"
-    },
-    "0713a69534de4fcc": {
-      "title": "Built a 3D Neural Decode website interactive way to explore how AI models work",
-      "fetched_at": "2026-08-03T14:12:36.809417+00:00"
-    },
-    "aa16db9f5f5af977": {
-      "title": "Show HN: Headroom – warns you before your AI chat starts forgetting",
-      "fetched_at": "2026-08-03T14:12:37.429696+00:00"
-    },
-    "6d1dd6eb5e25b93a": {
-      "title": "AI database chat: ask in plain language, review the query, get answers",
-      "fetched_at": "2026-08-03T14:12:38.066763+00:00"
-    },
-    "e688b25afef01f3c": {
-      "title": "Putting AI Everywhere Does Not Mean Success",
-      "fetched_at": "2026-08-03T14:12:38.694714+00:00"
-    },
-    "74c00efb463aa792": {
-      "title": "GPT-5.6 Sol Uses Twice the Tokens of GPT-5.5",
-      "fetched_at": "2026-08-03T14:12:39.322351+00:00"
-    },
-    "904eacce4e4039d2": {
-      "title": "A list of sandboxes for running AI coding agents, ranked by security posture",
-      "fetched_at": "2026-08-03T14:12:39.951852+00:00"
-    },
-    "be30d014bc7d21ce": {
-      "title": "Anthropic launched an AI-run vending machine, stores and cafes within a year",
-      "fetched_at": "2026-08-03T14:12:40.573605+00:00"
-    },
-    "88bb36b77733af2b": {
-      "title": "Rescene – Free AI agent aggregator, no API key required",
-      "fetched_at": "2026-08-03T14:12:41.223898+00:00"
-    },
-    "195cb89ef0c84f86": {
-      "title": "行云科技：在手算力、存储类3-5年期长期框架订单规模超154亿元",
-      "fetched_at": "2026-08-03T14:12:41.888059+00:00"
-    },
-    "2b05f354a4a7589c": {
-      "title": "AI scammers outperform humans when it comes to building trust",
-      "fetched_at": "2026-08-03T14:12:42.510464+00:00"
-    },
-    "3cf80e4888f725da": {
-      "title": "热门中概股美股盘前涨跌不一，小鹏集团跌超3%",
-      "fetched_at": "2026-08-03T14:12:43.143247+00:00"
-    },
-    "7ac53baa6655c273": {
-      "title": "韩国芯片独角兽DeepX估值飙升4倍至22亿美元",
-      "fetched_at": "2026-08-03T14:12:43.792356+00:00"
-    },
-    "75d226923e719168": {
-      "title": "Atomic Arms and AI Commanders May Spark Doomsday War, Nobel Winners Warn",
-      "fetched_at": "2026-08-03T14:12:44.428828+00:00"
-    },
-    "598fa14bc8145edb": {
-      "title": "美股大型科技股盘前多数上涨，美光科技跌超4%",
-      "fetched_at": "2026-08-03T14:12:45.089118+00:00"
-    },
-    "c10e529051fbff16": {
-      "title": "AI is making weather forecasts better",
-      "fetched_at": "2026-08-03T14:12:45.709780+00:00"
-    },
-    "a75c02a52e50d514": {
-      "title": "今年以来全国共新开国际航空货运航线超100条",
-      "fetched_at": "2026-08-03T14:12:46.349797+00:00"
-    },
-    "e89a33be5eaf5d94": {
-      "title": "不再「買買買」：為何中國消費者開始省錢過日子？",
-      "fetched_at": "2026-08-03T14:12:48.825632+00:00"
-    },
-    "a77af807c81cfbf5": {
-      "title": "緬甸軍方發佈最新照片 昂山素與世隔絕兩年半後首會客",
-      "fetched_at": "2026-08-03T14:12:49.474259+00:00"
-    },
-    "98e40e15b716eba7": {
-      "title": "《唯紅花綻放》馮哲芸專訪：看見「我是書店店員」被捕照落淚",
-      "fetched_at": "2026-08-03T14:12:50.089160+00:00"
-    },
-    "92bf8b8e1ffb3bc9": {
-      "title": "'Poop pills' may ease insomnia by reprogramming the gut microbiome, early study hints",
-      "fetched_at": "2026-08-03T14:13:03.280081+00:00"
-    },
-    "503c8b2eb8f1bc20": {
-      "title": "Ancient bullets reveal where a Roman camp hid in the Pyrenees of Spain before being ambushed",
-      "fetched_at": "2026-08-03T14:13:03.914839+00:00"
-    },
-    "5932520e14b6947d": {
-      "title": "Time-Lock Encryption for Historical Artifacts",
-      "fetched_at": "2026-08-03T14:13:04.578275+00:00"
-    },
-    "6f36e86d20ba06b5": {
-      "title": "Aspen trees provide a natural buffer against wildfires, even as fire season intensifies, study shows",
-      "fetched_at": "2026-08-03T14:13:05.207590+00:00"
-    },
-    "b879e8bf3b3e3724": {
-      "title": "Did fungi give mammals an evolutionary edge after the dinosaur-killing asteroid hit? New evidence revives a provocative hypothesis",
-      "fetched_at": "2026-08-03T14:13:05.879622+00:00"
-    },
-    "85e6429cc6174104": {
-      "title": "Rock crystal scraper: 45,000-year-old Neanderthal tool that shows they had an 'eye for beauty of form and color'",
-      "fetched_at": "2026-08-03T14:13:06.491803+00:00"
-    },
-    "d372074ea33ad160": {
-      "title": "A simple supplement could help the immune system fight cancer and viruses",
-      "fetched_at": "2026-08-03T14:13:07.104966+00:00"
-    },
-    "4b6a182262ce5e71": {
-      "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
-      "fetched_at": "2026-08-03T14:13:07.737849+00:00"
-    },
-    "d2223ef89dc512c9": {
-      "title": "Moonquakes could reveal hidden water beneath the lunar surface",
-      "fetched_at": "2026-08-03T14:13:08.386074+00:00"
-    },
-    "6a86164efd344f8b": {
-      "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
-      "fetched_at": "2026-08-03T14:13:09.012166+00:00"
-    },
-    "ba04e001cae39e92": {
-      "title": "Scientists may have found aging’s hidden trigger for brain disease",
-      "fetched_at": "2026-08-03T14:13:09.653046+00:00"
-    },
-    "f77287182c670019": {
-      "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
-      "fetched_at": "2026-08-03T14:13:10.299041+00:00"
-    },
-    "a8eae6f0f886b371": {
-      "title": "Two deadly flowers could inspire powerful new medicines",
-      "fetched_at": "2026-08-03T14:13:10.962366+00:00"
-    },
-    "7b115ac5b09b29bb": {
-      "title": "Giant waves are sweeping Mars’ atmosphere into space",
-      "fetched_at": "2026-08-03T14:13:11.595996+00:00"
-    },
-    "33288a4ae4104959": {
-      "title": "Some coastal cities are sinking faster than the ocean is rising",
-      "fetched_at": "2026-08-03T14:13:12.239064+00:00"
-    },
     "d0c5213b539400f8": {
       "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
       "fetched_at": "2026-08-03T19:16:26.018540+00:00"
@@ -3367,7 +3215,83 @@
     "9eaa32e26c306ced": {
       "title": "Major Oak: Ancient 'Robin Hood' tree is dead, experts say",
       "fetched_at": "2026-08-11T12:38:04.691432+00:00"
+    },
+    "4c054ed4f52ef6da": {
+      "title": "Another OpenAI executive takes off",
+      "fetched_at": "2026-08-11T18:44:19.436657+00:00"
+    },
+    "f3d4d047c8b295f6": {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "fetched_at": "2026-08-11T18:44:20.019956+00:00"
+    },
+    "c9a90945449fb006": {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "fetched_at": "2026-08-11T18:44:20.592752+00:00"
+    },
+    "9f9407c7b01722fb": {
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "fetched_at": "2026-08-11T18:44:21.167360+00:00"
+    },
+    "e18bf16e0bae3ae2": {
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "fetched_at": "2026-08-11T18:44:21.767085+00:00"
+    },
+    "dc3c43c275cc290a": {
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "fetched_at": "2026-08-11T18:44:22.378620+00:00"
+    },
+    "f235ecc429188bf4": {
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "fetched_at": "2026-08-11T18:44:22.952557+00:00"
+    },
+    "4d1ff6d17460799f": {
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "fetched_at": "2026-08-11T18:44:23.545915+00:00"
+    },
+    "7630573ff2b26e45": {
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "fetched_at": "2026-08-11T18:44:24.147789+00:00"
+    },
+    "4e29b92c2d345285": {
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "fetched_at": "2026-08-11T18:44:24.715643+00:00"
+    },
+    "a49ed38dd929fcd3": {
+      "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
+      "fetched_at": "2026-08-11T18:44:25.289787+00:00"
+    },
+    "22b1c7752a9b4ca5": {
+      "title": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线",
+      "fetched_at": "2026-08-11T18:44:25.873853+00:00"
+    },
+    "cef40202cff5aa58": {
+      "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
+      "fetched_at": "2026-08-11T18:44:26.448262+00:00"
+    },
+    "a84d0d73c5fd348e": {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "fetched_at": "2026-08-11T18:44:27.055957+00:00"
+    },
+    "1c53e8ad4c3821c0": {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "fetched_at": "2026-08-11T18:44:27.625290+00:00"
+    },
+    "fe9e7e37aa87fd71": {
+      "title": "What the US could learn from Japan's incentive for responsible antibiotic use",
+      "fetched_at": "2026-08-11T18:44:32.538486+00:00"
+    },
+    "3fbaabda52b4ece6": {
+      "title": "AI Is Accelerating Vulnerability Discovery",
+      "fetched_at": "2026-08-11T18:44:33.122480+00:00"
+    },
+    "5d0ec06815e906b0": {
+      "title": "'Like a jail door slamming': Male sperm whales' mysterious rhythmic clanging is the loudest communication sound of any animal",
+      "fetched_at": "2026-08-11T18:44:33.702808+00:00"
+    },
+    "c9fcaed66163d05e": {
+      "title": "Discovery could change how scientists measure the universe",
+      "fetched_at": "2026-08-11T18:44:34.283321+00:00"
     }
   },
-  "last_updated": "2026-08-11T12:38:04.823188+00:00"
+  "last_updated": "2026-08-11T18:44:34.416464+00:00"
 }
