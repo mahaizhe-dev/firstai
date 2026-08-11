@@ -1,113 +1,5 @@
 {
   "articles": {
-    "0e17d8ffa438584f": {
-      "title": "AI-assisted analytics now 10x cheaper",
-      "fetched_at": "2026-08-02T18:52:32.799889+00:00"
-    },
-    "381e35eb909b8c43": {
-      "title": "AI and the iPod Test",
-      "fetched_at": "2026-08-02T18:52:33.429339+00:00"
-    },
-    "b6bf1ea4ac5e0878": {
-      "title": "Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees",
-      "fetched_at": "2026-08-02T18:52:34.055371+00:00"
-    },
-    "74e3c34666537bc6": {
-      "title": "Show HN: Mousecrack – Bypass captchas with deep learning",
-      "fetched_at": "2026-08-02T18:52:34.677423+00:00"
-    },
-    "a6247f48d2c69b4c": {
-      "title": "YouTuber Hank Green says his AI usage is 'not healthy'",
-      "fetched_at": "2026-08-02T18:52:35.312082+00:00"
-    },
-    "b695b0e5ce186a77": {
-      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-      "fetched_at": "2026-08-02T18:52:35.987258+00:00"
-    },
-    "732d02b4c2e760ad": {
-      "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
-      "fetched_at": "2026-08-02T18:52:36.615646+00:00"
-    },
-    "b0d0a9728866bf2a": {
-      "title": "AI-Powered Container Standardization",
-      "fetched_at": "2026-08-02T18:52:37.238629+00:00"
-    },
-    "73f6e1d99a727bdd": {
-      "title": "AI is getting better at writing. Humans must get better at editing",
-      "fetched_at": "2026-08-02T18:52:37.852828+00:00"
-    },
-    "e5ed6f6ed1a30e65": {
-      "title": "A stricter TypeScript for a world where AI writes most of the code",
-      "fetched_at": "2026-08-02T18:52:38.485846+00:00"
-    },
-    "22fe3f559ae5928e": {
-      "title": "Everyone is so annoying about AI",
-      "fetched_at": "2026-08-02T18:52:39.106078+00:00"
-    },
-    "0be58b490dc26859": {
-      "title": "Show HN: Atomadic – Zero-LLM Sub-200us MCP Action Interlock",
-      "fetched_at": "2026-08-02T18:52:39.735294+00:00"
-    },
-    "cac15245e4916f67": {
-      "title": "AI learns language from skewed sources. It could change how humans speak/think",
-      "fetched_at": "2026-08-02T18:52:40.360716+00:00"
-    },
-    "2d506ec505122605": {
-      "title": "Show HN: LLM Tools that I made that I cant live without",
-      "fetched_at": "2026-08-02T18:52:40.995328+00:00"
-    },
-    "9e86017fd4908dc6": {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "fetched_at": "2026-08-02T18:52:41.621864+00:00"
-    },
-    "00e5d8a22f7a1fef": {
-      "title": "Graduate in 2036 as a AI engineer is it worth?",
-      "fetched_at": "2026-08-02T18:52:42.235153+00:00"
-    },
-    "cfbaba84cff88b0b": {
-      "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-      "fetched_at": "2026-08-02T18:52:42.854065+00:00"
-    },
-    "eaa5d260246a885e": {
-      "title": "From now on, companies across the EU must be clear about their use of AI",
-      "fetched_at": "2026-08-02T18:52:43.479739+00:00"
-    },
-    "bc934af91590245f": {
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "fetched_at": "2026-08-02T18:52:44.093477+00:00"
-    },
-    "41abaf51a732c7c0": {
-      "title": "汇宇制药：公司3个产品拟中标第十二批全国药品集中采购",
-      "fetched_at": "2026-08-02T18:52:44.785693+00:00"
-    },
-    "9b464d3c35909fea": {
-      "title": "Reduction to the Table Top: Systematic Discovery at Low Cost",
-      "fetched_at": "2026-08-02T18:52:50.993990+00:00"
-    },
-    "c623c89cb8c5dc3d": {
-      "title": "Ask HN: Is discovery channel using AI?",
-      "fetched_at": "2026-08-02T18:52:51.630822+00:00"
-    },
-    "fada82326793f54d": {
-      "title": "Dark matter’s secret force does the opposite of what scientists expected",
-      "fetched_at": "2026-08-02T18:52:52.255191+00:00"
-    },
-    "1447279205e4463a": {
-      "title": "Mathematicians prove perfectly fair elections are impossible",
-      "fetched_at": "2026-08-02T18:52:52.895269+00:00"
-    },
-    "13c8c4d43873b0d2": {
-      "title": "Cancer may be breaking its own DNA to keep growing",
-      "fetched_at": "2026-08-02T18:52:53.513535+00:00"
-    },
-    "ef4aa5a672d2191c": {
-      "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
-      "fetched_at": "2026-08-02T18:52:54.134957+00:00"
-    },
-    "e441aaea83625c15": {
-      "title": "Scientists detect a sharp acceleration in global warming",
-      "fetched_at": "2026-08-02T18:52:54.756753+00:00"
-    },
     "4893276a48307acb": {
       "title": "上半年我国电子信息制造业营收同比增长18.5%",
       "fetched_at": "2026-08-03T01:45:42.136979+00:00"
@@ -3375,7 +3267,131 @@
     "d1f5b0d147f3b707": {
       "title": "Cassini reveals a surprising twist in Saturn’s magnetic shield",
       "fetched_at": "2026-08-10T18:40:36.498513+00:00"
+    },
+    "3e1625b1328ed182": {
+      "title": "Using AI while exercising your critical thinking",
+      "fetched_at": "2026-08-11T00:52:02.809767+00:00"
+    },
+    "a2e9cbf2b3156f90": {
+      "title": "Training AI to Govern for Us",
+      "fetched_at": "2026-08-11T00:52:03.379897+00:00"
+    },
+    "51bcd938dbbce03f": {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "fetched_at": "2026-08-11T00:52:03.972978+00:00"
+    },
+    "80a1cdbe7b6a2149": {
+      "title": "Unifying Workers AI and AI Gateway into a Single AI Control Plane",
+      "fetched_at": "2026-08-11T00:52:04.548589+00:00"
+    },
+    "e64b3e6ab9a44523": {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "fetched_at": "2026-08-11T00:52:05.126220+00:00"
+    },
+    "9c6c84231e591d1b": {
+      "title": "People don't hate AI because of Zuck. They hate the version TechCrunch sells",
+      "fetched_at": "2026-08-11T00:52:05.726565+00:00"
+    },
+    "7cc7f8759f4a400d": {
+      "title": "VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers",
+      "fetched_at": "2026-08-11T00:52:06.301338+00:00"
+    },
+    "1ea02549264b6c66": {
+      "title": "Text AI watermarks will always be trivial to remove",
+      "fetched_at": "2026-08-11T00:52:06.870268+00:00"
+    },
+    "987cbe3371986c42": {
+      "title": "Wanno – AI builder, cloud agent and infra for your apps",
+      "fetched_at": "2026-08-11T00:52:07.465427+00:00"
+    },
+    "7567ef5c0c101ff4": {
+      "title": "Show HN: AI-powered App Store replies that sound like you",
+      "fetched_at": "2026-08-11T00:52:08.039178+00:00"
+    },
+    "54c0be9770c72dfe": {
+      "title": "Learning Sed or Using Claude?",
+      "fetched_at": "2026-08-11T00:52:08.628832+00:00"
+    },
+    "1b678977256527be": {
+      "title": "Bernie Sanders calls for AI development pause",
+      "fetched_at": "2026-08-11T00:52:09.204153+00:00"
+    },
+    "c9417825a7c99bc9": {
+      "title": "Catholic expert: \"Security issues show AI needs greater human oversight\"",
+      "fetched_at": "2026-08-11T00:52:09.773203+00:00"
+    },
+    "436898bf686643c5": {
+      "title": "Nvidia AI Factory Compute Is Becoming an Investable Asset Class",
+      "fetched_at": "2026-08-11T00:52:10.355308+00:00"
+    },
+    "8ca74264c42b8bb1": {
+      "title": "Wall Street giants partner with Nvidia on $500B AI financing deal",
+      "fetched_at": "2026-08-11T00:52:10.936552+00:00"
+    },
+    "66eb1f0a5a9a1379": {
+      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+      "fetched_at": "2026-08-11T00:52:11.524008+00:00"
+    },
+    "01c3b205133d45ff": {
+      "title": "AI framework rooted in cognitive science could complete tasks more efficiently",
+      "fetched_at": "2026-08-11T00:52:12.109055+00:00"
+    },
+    "e4ee0137e575e826": {
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "fetched_at": "2026-08-11T00:52:12.708575+00:00"
+    },
+    "f5cea476ed15781a": {
+      "title": "How Claude marks AI-generated content",
+      "fetched_at": "2026-08-11T00:52:13.292427+00:00"
+    },
+    "40f67cd053ba7884": {
+      "title": "AI-only Society holds $17k on-chain, publishes its books, and patches them by PR",
+      "fetched_at": "2026-08-11T00:52:13.871303+00:00"
+    },
+    "f4007da7cd060bb0": {
+      "title": "MySpace 要回歸？粉絲想念那個無濾鏡、原圖直出的年代",
+      "fetched_at": "2026-08-11T00:52:15.872396+00:00"
+    },
+    "f2c0a01553c6130b": {
+      "title": "多了少了都不行：我們到底需要多少陽光？",
+      "fetched_at": "2026-08-11T00:52:16.439187+00:00"
+    },
+    "e88344599be65521": {
+      "title": "台风“白海豚”来袭，中国东部沿海超100万人被疏散",
+      "fetched_at": "2026-08-11T00:52:17.063349+00:00"
+    },
+    "637f110e40672181": {
+      "title": "FDA's approval of new mRNA vaccine does not necessarily signal the government's embrace of the technology, experts say",
+      "fetched_at": "2026-08-11T00:52:20.690955+00:00"
+    },
+    "4ef28e59b6eb5f71": {
+      "title": "2,400-year-old grave of possible ancient pro wrestler discovered in Turkey",
+      "fetched_at": "2026-08-11T00:52:21.287932+00:00"
+    },
+    "ef061b5e620e0fe1": {
+      "title": "Inscription Fragments Reveal New Details of Roman Tax Scandal",
+      "fetched_at": "2026-08-11T00:52:21.857836+00:00"
+    },
+    "df49ea47fe1ed228": {
+      "title": "Major Sections of Vilnius' Great Synagogue Excavated",
+      "fetched_at": "2026-08-11T00:52:22.423671+00:00"
+    },
+    "d3c44a21504d1791": {
+      "title": "Shipwreck Located Off Greek Island",
+      "fetched_at": "2026-08-11T00:52:23.001685+00:00"
+    },
+    "b9b1114c925adee6": {
+      "title": "Hubble telescope takes one of the most detailed looks at neighboring Andromeda galaxy ever — Space photo of the week",
+      "fetched_at": "2026-08-11T00:52:23.573670+00:00"
+    },
+    "14d495fe6dcda8dd": {
+      "title": "'We're a bit late on the case, but we are on the case': Author Fred Pearce on the rise of renewables, a defused population bomb, and letting nature find its own way",
+      "fetched_at": "2026-08-11T00:52:24.146131+00:00"
+    },
+    "25b513c3e5cd6e80": {
+      "title": "'The apparent chaos of the Anthropocene is turbocharging evolution itself': Plants are finding ways to survive and thrive in the climate crisis — if we let them",
+      "fetched_at": "2026-08-11T00:52:24.719800+00:00"
     }
   },
-  "last_updated": "2026-08-10T18:40:36.641751+00:00"
+  "last_updated": "2026-08-11T00:52:24.850344+00:00"
 }
