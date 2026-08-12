@@ -1,113 +1,5 @@
 {
   "articles": {
-    "bd7fbccff1ad0e48": {
-      "title": "人民币对美元中间价调贬19个基点",
-      "fetched_at": "2026-08-04T01:21:36.488761+00:00"
-    },
-    "4011a01d1106d01c": {
-      "title": "工业和信息化部召开光伏行业座谈会，进一步解读宣贯光伏组件强制性国家标准",
-      "fetched_at": "2026-08-04T01:21:37.107504+00:00"
-    },
-    "6f2b7f51bf366f65": {
-      "title": "网络安全初创公司Horizon3.ai融资2.5亿美元",
-      "fetched_at": "2026-08-04T01:21:37.756974+00:00"
-    },
-    "c4634ec0bd3bee7d": {
-      "title": "今年以来港股IPO数量同比增长132%，科技类公司占比过半",
-      "fetched_at": "2026-08-04T01:21:38.377403+00:00"
-    },
-    "b27f2b2961698446": {
-      "title": "利用率90%左右，新能源发展重心转向消纳",
-      "fetched_at": "2026-08-04T01:21:39.031126+00:00"
-    },
-    "717657dee5e1dc75": {
-      "title": "上半年上海离境退税商品申请单同比增长近三倍",
-      "fetched_at": "2026-08-04T01:21:39.668305+00:00"
-    },
-    "b6b6c009ed116b83": {
-      "title": "中金：8月A股行情可能进入大幅回调后的修复阶段",
-      "fetched_at": "2026-08-04T01:21:40.342298+00:00"
-    },
-    "d6ebd88f2b30fa68": {
-      "title": "SpaceX上市后首份财报前夕，“木头姐”持续加仓",
-      "fetched_at": "2026-08-04T01:21:40.965570+00:00"
-    },
-    "c91da46595b1e408": {
-      "title": "SK海力士与闪迪发布HBF首个标准规范",
-      "fetched_at": "2026-08-04T01:21:41.624817+00:00"
-    },
-    "3afa8221b68c09fb": {
-      "title": "两市融资余额减少87.94亿元",
-      "fetched_at": "2026-08-04T01:21:42.327299+00:00"
-    },
-    "133a76afc3f5f951": {
-      "title": "中信证券：政策或将持续利好特高压、配网智能化、储能、虚拟电厂等领域",
-      "fetched_at": "2026-08-04T01:21:42.960342+00:00"
-    },
-    "62af42287c58616c": {
-      "title": "玻璃基封装成产业竞逐新焦点，面板厂商跨界布局",
-      "fetched_at": "2026-08-04T01:21:43.607586+00:00"
-    },
-    "6659e67e7e338f2b": {
-      "title": "复星国际旗下Frankfurter Leben据悉接近敲定Athora德国业务收购交易",
-      "fetched_at": "2026-08-04T01:21:44.234325+00:00"
-    },
-    "2a16195d83c41a6c": {
-      "title": "中信证券：政策面乐观，资金面积极，银行全年绝对收益空间仍将延续",
-      "fetched_at": "2026-08-04T01:21:44.858221+00:00"
-    },
-    "fb19f80e77883372": {
-      "title": "个人AI定义新一轮增长，消费电子产业链加速拥抱变革",
-      "fetched_at": "2026-08-04T01:21:45.509525+00:00"
-    },
-    "71442ada9a9b65fa": {
-      "title": "韩国7月CPI同比上涨2.8%，因油价持续高企",
-      "fetched_at": "2026-08-04T01:21:46.136892+00:00"
-    },
-    "9d79d5807827f7d0": {
-      "title": "超百家药企发布上半年业绩预告，创新药出海与价值兑现成主线",
-      "fetched_at": "2026-08-04T01:21:46.795631+00:00"
-    },
-    "72b3f20bb745f55f": {
-      "title": "中信建投：北美云厂商资本开支继续高增长，关注算力超跌与高股息标的",
-      "fetched_at": "2026-08-04T01:21:47.439313+00:00"
-    },
-    "da5024646c58cfb8": {
-      "title": "风险逐步释放，公募基金新发热情升温",
-      "fetched_at": "2026-08-04T01:21:48.101598+00:00"
-    },
-    "3576add402191be0": {
-      "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
-      "fetched_at": "2026-08-04T01:21:48.717749+00:00"
-    },
-    "35105977cd164795": {
-      "title": "「台灣出版、香港銷售」模式受阻，書商如何在紅線下找出路？",
-      "fetched_at": "2026-08-04T01:21:51.156527+00:00"
-    },
-    "2fc349787040584f": {
-      "title": "美日十余年来首次联合干预汇市，稳定日元跌势",
-      "fetched_at": "2026-08-04T01:21:51.780784+00:00"
-    },
-    "425c8c395d54c4f6": {
-      "title": "「奇蹟」嬰兒胚胎接受開創性子宮手術 修復腸臟外露",
-      "fetched_at": "2026-08-04T01:21:52.399830+00:00"
-    },
-    "d372a1c322ed67c1": {
-      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
-      "fetched_at": "2026-08-04T01:21:53.066751+00:00"
-    },
-    "3789de3449acd669": {
-      "title": "Smallpox Virus Detected in Inca Remains Came from Europe",
-      "fetched_at": "2026-08-04T01:21:54.916745+00:00"
-    },
-    "6ad10492f64bc146": {
-      "title": "Ice Age Hunters Deliberately Targeted Female Woolly Mammoths",
-      "fetched_at": "2026-08-04T01:21:55.569628+00:00"
-    },
-    "42f709b7fd76c458": {
-      "title": "The best way to save giant sequoias may be more fire",
-      "fetched_at": "2026-08-04T01:21:56.231995+00:00"
-    },
     "11ecd3d89163dfc7": {
       "title": "沃尔沃汽车5月至7月全球销量同比下降4%",
       "fetched_at": "2026-08-04T08:16:03.136443+00:00"
@@ -3339,7 +3231,127 @@
     "f77287182c670019": {
       "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
       "fetched_at": "2026-08-12T00:59:14.589409+00:00"
+    },
+    "a1d547f375542f5c": {
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "fetched_at": "2026-08-12T07:05:23.728699+00:00"
+    },
+    "50f86048e05013c4": {
+      "title": "AI agents ran an autonomous cyberattack on Taiwan",
+      "fetched_at": "2026-08-12T07:05:24.387697+00:00"
+    },
+    "6a134e9855f7855a": {
+      "title": "Swiss public broadcaster to block AI scrapers – except Swiss model Apertus",
+      "fetched_at": "2026-08-12T07:05:25.048492+00:00"
+    },
+    "72562f63c036ec55": {
+      "title": "China bans AI companions, forcing millions to break up with virtual partners",
+      "fetched_at": "2026-08-12T07:05:25.675530+00:00"
+    },
+    "45724d065663284b": {
+      "title": "Studying AI welfare empirically [pdf]",
+      "fetched_at": "2026-08-12T07:05:26.319658+00:00"
+    },
+    "6cc25e1c78391c6c": {
+      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+      "fetched_at": "2026-08-12T07:05:26.948539+00:00"
+    },
+    "26a9d80ad14c6ecd": {
+      "title": "Open-source harness builder for AI coding",
+      "fetched_at": "2026-08-12T07:05:27.571248+00:00"
+    },
+    "4235fda90e9cda17": {
+      "title": "I'm Done Using AI",
+      "fetched_at": "2026-08-12T07:05:28.222416+00:00"
+    },
+    "deb2b02d4bd0db70": {
+      "title": "Show HN: Pragma – Stop copying context between AI agents",
+      "fetched_at": "2026-08-12T07:05:28.888458+00:00"
+    },
+    "7e1db9cb69ca3131": {
+      "title": "Supreme Computation – Fail-closed governance for AI execution",
+      "fetched_at": "2026-08-12T07:05:29.514902+00:00"
+    },
+    "5febb36111c70a44": {
+      "title": "我，与「唯一」的 iPhone Air",
+      "fetched_at": "2026-08-12T07:05:30.158348+00:00"
+    },
+    "4db37c4a0b15c381": {
+      "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
+      "fetched_at": "2026-08-12T07:05:30.787534+00:00"
+    },
+    "b61f857fd4ea90ea": {
+      "title": "The 7T AI Gamble Is Failing. Big Tech Is Trapped",
+      "fetched_at": "2026-08-12T07:05:31.413897+00:00"
+    },
+    "19b312e34de04835": {
+      "title": "What job postings say about AI at work – Live report",
+      "fetched_at": "2026-08-12T07:05:32.027239+00:00"
+    },
+    "0da10176303d3e3d": {
+      "title": "Ask HN: Could DNA be represented as \"an embedding\" in an AI model?",
+      "fetched_at": "2026-08-12T07:05:32.642542+00:00"
+    },
+    "242ade8341e0d227": {
+      "title": "What happens when the AI bubble pops?",
+      "fetched_at": "2026-08-12T07:05:33.302090+00:00"
+    },
+    "887ce12b7eaf5b17": {
+      "title": "Two LLM calls beat one: 67% cheaper and 100% vs. 72% extraction accuracy",
+      "fetched_at": "2026-08-12T07:05:33.920143+00:00"
+    },
+    "84de7e926a34fb0c": {
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "fetched_at": "2026-08-12T07:05:34.540018+00:00"
+    },
+    "3d6b7c0d87d960fc": {
+      "title": "Numbat by Perplexity: Endpoint visibility into AI agent activity",
+      "fetched_at": "2026-08-12T07:05:35.150922+00:00"
+    },
+    "62d9cca924dc4021": {
+      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
+      "fetched_at": "2026-08-12T07:05:35.780213+00:00"
+    },
+    "0a7a00e754805f75": {
+      "title": "澤連斯基：俄羅斯使用朝鮮飛彈攻擊烏克蘭",
+      "fetched_at": "2026-08-12T07:05:38.533009+00:00"
+    },
+    "ee3ee5549b6e16e0": {
+      "title": "美国拦截弹库存减少，伊朗调整策略发动猛攻",
+      "fetched_at": "2026-08-12T07:05:39.156061+00:00"
+    },
+    "015f15e7cd83b4d1": {
+      "title": "会走路、会说话的机器人即将进入汽车工厂",
+      "fetched_at": "2026-08-12T07:05:39.781758+00:00"
+    },
+    "4a2f4560cce05620": {
+      "title": "配餐车“偷运”总统：特朗普秘密换机细节曝光",
+      "fetched_at": "2026-08-12T07:05:40.419004+00:00"
+    },
+    "933839da5c1c5b4c": {
+      "title": "马铃薯有多健康？",
+      "fetched_at": "2026-08-12T07:05:41.050597+00:00"
+    },
+    "6460014101eba13b": {
+      "title": "“年度推销员特朗普”：油价高企推动电动摩托车热潮",
+      "fetched_at": "2026-08-12T07:05:41.673782+00:00"
+    },
+    "7f1ba0020aa79727": {
+      "title": "2 people die of Cyclospora infection in Michigan",
+      "fetched_at": "2026-08-12T07:05:47.703836+00:00"
+    },
+    "a8eae6f0f886b371": {
+      "title": "Two deadly flowers could inspire powerful new medicines",
+      "fetched_at": "2026-08-12T07:05:48.341248+00:00"
+    },
+    "7b115ac5b09b29bb": {
+      "title": "Giant waves are sweeping Mars’ atmosphere into space",
+      "fetched_at": "2026-08-12T07:05:49.008369+00:00"
+    },
+    "33288a4ae4104959": {
+      "title": "Some coastal cities are sinking faster than the ocean is rising",
+      "fetched_at": "2026-08-12T07:05:49.636674+00:00"
     }
   },
-  "last_updated": "2026-08-12T00:59:14.714347+00:00"
+  "last_updated": "2026-08-12T07:05:49.760733+00:00"
 }
