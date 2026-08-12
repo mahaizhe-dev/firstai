@@ -1,117 +1,5 @@
 {
   "articles": {
-    "11ecd3d89163dfc7": {
-      "title": "沃尔沃汽车5月至7月全球销量同比下降4%",
-      "fetched_at": "2026-08-04T08:16:03.136443+00:00"
-    },
-    "a7faacc7df01836e": {
-      "title": "马来西亚考虑对电动汽车销售征税，用于扩大公共充电网络",
-      "fetched_at": "2026-08-04T08:16:03.718149+00:00"
-    },
-    "426ff3c1140b9ed1": {
-      "title": "恒指收跌0.6%，恒生科技指数涨0.21%",
-      "fetched_at": "2026-08-04T08:16:04.360144+00:00"
-    },
-    "baf5fa7ec5184ded": {
-      "title": "We need to talk about AI in mathematics",
-      "fetched_at": "2026-08-04T08:16:04.965631+00:00"
-    },
-    "7d644f7c5c562ea3": {
-      "title": "台积电、索尼、瑞萨电子等企业熊本工厂已恢复运营",
-      "fetched_at": "2026-08-04T08:16:05.559349+00:00"
-    },
-    "45d1dd29991021e2": {
-      "title": "交银投资、上海电气等成立私募基金，出资额50亿",
-      "fetched_at": "2026-08-04T08:16:06.134367+00:00"
-    },
-    "b6cf4cf82f00dc69": {
-      "title": "Grab二季度净利大增620%，上调全年盈利预期",
-      "fetched_at": "2026-08-04T08:16:06.735965+00:00"
-    },
-    "e1f39609b71fa550": {
-      "title": "Ask HN: In post AI world, who is responsible if the code break?",
-      "fetched_at": "2026-08-04T08:16:07.320109+00:00"
-    },
-    "115e7941afda4d9b": {
-      "title": "面壁智能开源全球首个Stencil优化AI系统",
-      "fetched_at": "2026-08-04T08:16:07.936017+00:00"
-    },
-    "ad33346f50905a09": {
-      "title": "赢创第二季度销售额同比增长11%",
-      "fetched_at": "2026-08-04T08:16:08.514073+00:00"
-    },
-    "75a6db25a063032b": {
-      "title": "LinkedIn says it won't be spending big on AI hardware this year",
-      "fetched_at": "2026-08-04T08:16:09.095405+00:00"
-    },
-    "9a5670ec745186d0": {
-      "title": "AI Futures Model: Timelines and Takeoff",
-      "fetched_at": "2026-08-04T08:16:09.683004+00:00"
-    },
-    "22a9f8ba92c7b989": {
-      "title": "WorkBuddy上线“安全中心”",
-      "fetched_at": "2026-08-04T08:16:10.267782+00:00"
-    },
-    "071e72c45f6cb0d3": {
-      "title": "The AI Revolution – History Repeating Itself – On Sentience",
-      "fetched_at": "2026-08-04T08:16:10.887637+00:00"
-    },
-    "9707acb5be3c722b": {
-      "title": "When Every AI Trend Becomes a New Discipline [video]",
-      "fetched_at": "2026-08-04T08:16:11.479814+00:00"
-    },
-    "e1c11a76088ee2b4": {
-      "title": "苹果在印度年度销售额首次突破100亿美元",
-      "fetched_at": "2026-08-04T08:16:12.063255+00:00"
-    },
-    "710b89eb00ed9168": {
-      "title": "戴尔创始人之子联合创办的电池创企Base Power融资10亿美元，估值达130亿美元",
-      "fetched_at": "2026-08-04T08:16:12.682409+00:00"
-    },
-    "e880c52b38fbc80a": {
-      "title": "商务部：2026上半年我国服务进出口总额37797.5亿元",
-      "fetched_at": "2026-08-04T08:16:13.297403+00:00"
-    },
-    "70277155cd7993c0": {
-      "title": "第一太平戴维斯完成收购Eastdil Secured，企业价值为11.1亿美元",
-      "fetched_at": "2026-08-04T08:16:13.995250+00:00"
-    },
-    "56c772a06bc25615": {
-      "title": "日产汽车全球设计高级副总裁阿尔拜萨将于10月卸任",
-      "fetched_at": "2026-08-04T08:16:14.595365+00:00"
-    },
-    "fbf80b98e1bce9d4": {
-      "title": "人工智能泡沫未必是件坏事？",
-      "fetched_at": "2026-08-04T08:16:16.817545+00:00"
-    },
-    "0e5153463df0fe84": {
-      "title": "昂山素季罕见公开露面，此前公众对其健康状况担忧加剧",
-      "fetched_at": "2026-08-04T08:16:17.425628+00:00"
-    },
-    "46db52c8db5b9200": {
-      "title": "美国为什么要出手“救”日元？",
-      "fetched_at": "2026-08-04T08:16:18.076207+00:00"
-    },
-    "981c96cd4a62d092": {
-      "title": "那些走投无路的美国穷人",
-      "fetched_at": "2026-08-04T08:16:18.644987+00:00"
-    },
-    "725f0f49b567f6b7": {
-      "title": "关于性健康，男性应该了解的五件事",
-      "fetched_at": "2026-08-04T08:16:19.262494+00:00"
-    },
-    "bc5480d4a66050fb": {
-      "title": "Your brain may be wired to regain lost weight",
-      "fetched_at": "2026-08-04T08:16:21.342149+00:00"
-    },
-    "22aad7dc8b432a8a": {
-      "title": "These bizarre new beetles look so stretchy scientists named them Luffy",
-      "fetched_at": "2026-08-04T08:16:21.962168+00:00"
-    },
-    "572ec6682bd45ef9": {
-      "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
-      "fetched_at": "2026-08-04T08:16:22.576328+00:00"
-    },
     "b06ced095d309042": {
       "title": "I built an LLM debugger for fine-tuning failures",
       "fetched_at": "2026-08-04T13:44:00.673410+00:00"
@@ -3351,7 +3239,123 @@
     "33288a4ae4104959": {
       "title": "Some coastal cities are sinking faster than the ocean is rising",
       "fetched_at": "2026-08-12T07:05:49.636674+00:00"
+    },
+    "0cc54f588818bcf4": {
+      "title": "Retrieval vs. Memory in Agentic AI Systems",
+      "fetched_at": "2026-08-12T12:40:59.696710+00:00"
+    },
+    "c76a3ca3e4e43496": {
+      "title": "Show HN: AI 3D pop-out videos for Reels, Shorts and ads",
+      "fetched_at": "2026-08-12T12:41:00.344615+00:00"
+    },
+    "879965367218b671": {
+      "title": "Plotline: Geospatial Time Machine",
+      "fetched_at": "2026-08-12T12:41:00.992071+00:00"
+    },
+    "4faf256e60df5c57": {
+      "title": "Oh Lord, AI Reporters Are Breaking Big News",
+      "fetched_at": "2026-08-12T12:41:01.644235+00:00"
+    },
+    "269ba5eef1978115": {
+      "title": "AI was supposed to destroy jobs. Where's the carnage?",
+      "fetched_at": "2026-08-12T12:41:02.287932+00:00"
+    },
+    "266093b3ffc61023": {
+      "title": "I built a personal AI agent in Swift on top of what macOS ships",
+      "fetched_at": "2026-08-12T12:41:02.968084+00:00"
+    },
+    "91bacfcc5a3f66b2": {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "fetched_at": "2026-08-12T12:41:03.607238+00:00"
+    },
+    "890c5e5a6ebea758": {
+      "title": "Nvidia's $500B Bet to Make AI Compute Wall Street's Next Asset Class",
+      "fetched_at": "2026-08-12T12:41:04.231785+00:00"
+    },
+    "77fbcf9a65e69706": {
+      "title": "AI compute power becoming tradable asset class as CME launches futures contracts",
+      "fetched_at": "2026-08-12T12:41:04.865263+00:00"
+    },
+    "34b657234ee3249d": {
+      "title": "Electricity Pricing in the Age of AI",
+      "fetched_at": "2026-08-12T12:41:05.486681+00:00"
+    },
+    "865196774ea6f51f": {
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "fetched_at": "2026-08-12T12:41:06.173133+00:00"
+    },
+    "b3059cdcc5a84de3": {
+      "title": "Revision Prompting: improves industrial LLM processes",
+      "fetched_at": "2026-08-12T12:41:06.823950+00:00"
+    },
+    "472b4fc738ddef8d": {
+      "title": "Cross-Examine – replay base behavior against an AI-generated PR",
+      "fetched_at": "2026-08-12T12:41:07.449962+00:00"
+    },
+    "18dde86d71d5d296": {
+      "title": "I built an MCP server to show my AI my screen",
+      "fetched_at": "2026-08-12T12:41:08.096578+00:00"
+    },
+    "0eea7582daec11a7": {
+      "title": "An LLM-generated counterexample far outside one's area of expertise",
+      "fetched_at": "2026-08-12T12:41:08.736789+00:00"
+    },
+    "0cafc0b8b08bce96": {
+      "title": "LLM Is Not a PDF Parser: Use OpenDataLoader First",
+      "fetched_at": "2026-08-12T12:41:09.375905+00:00"
+    },
+    "c95856159103e5de": {
+      "title": "Hybrid-retrieval memory layer for AI agents",
+      "fetched_at": "2026-08-12T12:41:10.017795+00:00"
+    },
+    "e627dc03ed82a4f3": {
+      "title": "Most biomedical publications show signs of LLM-assisted writing",
+      "fetched_at": "2026-08-12T12:41:10.684813+00:00"
+    },
+    "af3b5e369e4cd4e4": {
+      "title": "Never Trust Your AI Agent's Own Sandbox",
+      "fetched_at": "2026-08-12T12:41:11.350790+00:00"
+    },
+    "aff0b3458873419d": {
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "fetched_at": "2026-08-12T12:41:11.986362+00:00"
+    },
+    "da392a42b01e9d97": {
+      "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
+      "fetched_at": "2026-08-12T12:41:14.270798+00:00"
+    },
+    "73699d34b1b029ac": {
+      "title": "中國單身漢為何陷「閃婚」騙局？",
+      "fetched_at": "2026-08-12T12:41:14.944960+00:00"
+    },
+    "50318a39452209c8": {
+      "title": "海濱公寓原本空無一人，然後警察說，詐騙犯搬進來了",
+      "fetched_at": "2026-08-12T12:41:15.565357+00:00"
+    },
+    "620477c8ddb03d46": {
+      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
+      "fetched_at": "2026-08-12T12:41:16.218976+00:00"
+    },
+    "2bc56f3c1653aad4": {
+      "title": "中国前总理朱镕基逝世：市场化改革和“入世”推手",
+      "fetched_at": "2026-08-12T12:41:16.874262+00:00"
+    },
+    "d372a1c322ed67c1": {
+      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
+      "fetched_at": "2026-08-12T12:41:17.506445+00:00"
+    },
+    "7c1d9852185a3e78": {
+      "title": "New 'magnetoelastic' tent generates electricity from wind, body movement and sound to power small devices",
+      "fetched_at": "2026-08-12T12:41:19.411890+00:00"
+    },
+    "a66c958f7881fede": {
+      "title": "Diagnostic dilemma: Doctors performed surgery to remove a mass in a woman's gut ‪—‬ and a bug-like creature immediately jumped out",
+      "fetched_at": "2026-08-12T12:41:20.056570+00:00"
+    },
+    "7fe02e1bcda8279e": {
+      "title": "A solar eclipse will be visible in North America today: How to watch in person and online",
+      "fetched_at": "2026-08-12T12:41:20.674610+00:00"
     }
   },
-  "last_updated": "2026-08-12T07:05:49.760733+00:00"
+  "last_updated": "2026-08-12T12:41:20.773391+00:00"
 }
