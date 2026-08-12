@@ -1,109 +1,5 @@
 {
   "articles": {
-    "b06ced095d309042": {
-      "title": "I built an LLM debugger for fine-tuning failures",
-      "fetched_at": "2026-08-04T13:44:00.673410+00:00"
-    },
-    "c29f019c3c9ca6a3": {
-      "title": "Pdf-inspector: The rust-powered open-source PDF parser for AI",
-      "fetched_at": "2026-08-04T13:44:01.257087+00:00"
-    },
-    "8c289272ef4fd60b": {
-      "title": "Show HN: My journey into game development with AI",
-      "fetched_at": "2026-08-04T13:44:01.949451+00:00"
-    },
-    "720897b9f078f6f0": {
-      "title": "AI pricing is not broken. We have the answers for how to do it",
-      "fetched_at": "2026-08-04T13:44:02.564027+00:00"
-    },
-    "9eb4be59ada86a04": {
-      "title": "Show HN: Entangle, hand a live AI coding session to anyone with three words",
-      "fetched_at": "2026-08-04T13:44:03.256011+00:00"
-    },
-    "d8cc2a032cb88851": {
-      "title": "Show HN: Loopers – Fail-closed reverse proxy and circuit breaker for AI agents",
-      "fetched_at": "2026-08-04T13:44:03.915620+00:00"
-    },
-    "9f4b9dac21713d38": {
-      "title": "Observability Turns Vibe Coding into AI Engineering",
-      "fetched_at": "2026-08-04T13:44:04.531327+00:00"
-    },
-    "951ead517a146e12": {
-      "title": "Claude, GPT and the Minnesota attackers all used known bugs and weak logins",
-      "fetched_at": "2026-08-04T13:44:05.137385+00:00"
-    },
-    "09c2687f4b5d1b08": {
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "fetched_at": "2026-08-04T13:44:05.802711+00:00"
-    },
-    "fd4cf89810f6f017": {
-      "title": "协创数据：拟使用不超70亿元自有资金进行委托理财",
-      "fetched_at": "2026-08-04T13:44:06.414852+00:00"
-    },
-    "80cd6e5ed1bdc9e9": {
-      "title": "Aligning 800 audiobooks (8k hours) to text in 6 days, no LLM in the loop",
-      "fetched_at": "2026-08-04T13:44:07.022236+00:00"
-    },
-    "9f06d9c13d8dbdce": {
-      "title": "埃斯顿：全资子公司拟合计4.87亿元收购埃斯顿酷卓股权",
-      "fetched_at": "2026-08-04T13:44:07.634606+00:00"
-    },
-    "c80364b98d8d2866": {
-      "title": "We built an AI model router that cut LLM costs by 94%",
-      "fetched_at": "2026-08-04T13:44:08.249462+00:00"
-    },
-    "9e51f720c833fdea": {
-      "title": "热门中概股美股盘前普跌，名创优品跌超2%",
-      "fetched_at": "2026-08-04T13:44:08.860753+00:00"
-    },
-    "314a7d1c970e7926": {
-      "title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
-      "fetched_at": "2026-08-04T13:44:09.470583+00:00"
-    },
-    "4989744320bc0d3d": {
-      "title": "Auditability vs. Forced Determinism: Future of Agentic AI",
-      "fetched_at": "2026-08-04T13:44:10.070036+00:00"
-    },
-    "94b3e55cd40287e0": {
-      "title": "麦当劳宣布更换美国业务总裁",
-      "fetched_at": "2026-08-04T13:44:10.742964+00:00"
-    },
-    "cb20bf89448ef8dd": {
-      "title": "AI-Native Firms",
-      "fetched_at": "2026-08-04T13:44:11.375166+00:00"
-    },
-    "3bbe6f07fb7c27b7": {
-      "title": "由三星SDS牵头的韩国国家人工智能算力中心正式开工",
-      "fetched_at": "2026-08-04T13:44:12.005956+00:00"
-    },
-    "103f5e33da6a3c98": {
-      "title": "美国6月贸易逆差收窄至733亿美元",
-      "fetched_at": "2026-08-04T13:44:12.620962+00:00"
-    },
-    "ac0ae05134b83ac2": {
-      "title": "「我們並不孤獨」：獨處如何成為令人嚮往的新時尚",
-      "fetched_at": "2026-08-04T13:44:15.578660+00:00"
-    },
-    "7ba875d56a836aca": {
-      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
-      "fetched_at": "2026-08-04T13:44:16.171448+00:00"
-    },
-    "2880f2893057b280": {
-      "title": "「中東油輪受威脅程度已達伊朗戰爭爆發以來最高水平」",
-      "fetched_at": "2026-08-04T13:44:16.779601+00:00"
-    },
-    "e4b99ce70a0368cc": {
-      "title": "審視阿努廷時代下的泰中關係：中國「長臂管轄」連上泰國了？",
-      "fetched_at": "2026-08-04T13:44:17.379755+00:00"
-    },
-    "ac24679ae4faa1b8": {
-      "title": "World's highest frozen lake shatters along disputed border between China and India ‪—‬ Earth from space",
-      "fetched_at": "2026-08-04T13:44:19.480160+00:00"
-    },
-    "ac21ebf8f1efd72f": {
-      "title": "'Even when knowledge improves, emotional anxiety does not easily disappear': Pediatrician Dr. Masahiko Sakamoto on educating parents about childhood illnesses",
-      "fetched_at": "2026-08-04T13:44:20.089352+00:00"
-    },
     "d5a737173794f3a7": {
       "title": "White House plans to keep AI framework under wraps",
       "fetched_at": "2026-08-04T19:16:50.769068+00:00"
@@ -3355,7 +3251,139 @@
     "7fe02e1bcda8279e": {
       "title": "A solar eclipse will be visible in North America today: How to watch in person and online",
       "fetched_at": "2026-08-12T12:41:20.674610+00:00"
+    },
+    "381d616567f3a493": {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "fetched_at": "2026-08-12T18:44:54.549637+00:00"
+    },
+    "e0de46de50a04ea1": {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "fetched_at": "2026-08-12T18:44:55.159586+00:00"
+    },
+    "bedb874d86130a96": {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "fetched_at": "2026-08-12T18:44:55.754555+00:00"
+    },
+    "be4a85935719d104": {
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "fetched_at": "2026-08-12T18:44:56.377930+00:00"
+    },
+    "9ad67d183c0c3f2d": {
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "fetched_at": "2026-08-12T18:44:56.988999+00:00"
+    },
+    "0bc42292172f74c1": {
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "fetched_at": "2026-08-12T18:44:57.586534+00:00"
+    },
+    "69247ff6afa68486": {
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "fetched_at": "2026-08-12T18:44:58.190606+00:00"
+    },
+    "727e9f4ac983d93b": {
+      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+      "fetched_at": "2026-08-12T18:44:58.833337+00:00"
+    },
+    "ac2404e059435245": {
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "fetched_at": "2026-08-12T18:44:59.446805+00:00"
+    },
+    "0408336953e37517": {
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "fetched_at": "2026-08-12T18:45:00.052243+00:00"
+    },
+    "5e40e68e647adaad": {
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "fetched_at": "2026-08-12T18:45:00.650572+00:00"
+    },
+    "2997166b6aecc229": {
+      "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
+      "fetched_at": "2026-08-12T18:45:01.291225+00:00"
+    },
+    "f764b33cbe700b03": {
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "fetched_at": "2026-08-12T18:45:01.938099+00:00"
+    },
+    "a9b5250431bcc0ea": {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "fetched_at": "2026-08-12T18:45:02.552756+00:00"
+    },
+    "02833094475ef5ae": {
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "fetched_at": "2026-08-12T18:45:03.179573+00:00"
+    },
+    "1286b97f461f30bb": {
+      "title": "BBC核實特朗普撤回部分推薦疫苗的言論",
+      "fetched_at": "2026-08-12T18:45:06.096496+00:00"
+    },
+    "45fb9c9654dcd68d": {
+      "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
+      "fetched_at": "2026-08-12T18:45:06.711043+00:00"
+    },
+    "ff33576001e1b152": {
+      "title": "美國特勤局如何玩弄「障眼法」，將特朗普在眾目睽睽之下隱藏",
+      "fetched_at": "2026-08-12T18:45:07.341732+00:00"
+    },
+    "8fbc644f51fee352": {
+      "title": "Nocturnal dodo? Study suggests we were very wrong about Mauritius' iconic flightless bird",
+      "fetched_at": "2026-08-12T18:45:22.272368+00:00"
+    },
+    "d9b87855d2c675ba": {
+      "title": "'They'll surf into the eclipse': Readers share their plans for today’s epic solar eclipse and meteor shower mash-up",
+      "fetched_at": "2026-08-12T18:45:22.886153+00:00"
+    },
+    "e81373a7d5290f05": {
+      "title": "'No longer will anything seem impossible or marvellous': How an 'immoral, foul-mouthed and violent man' wrote the first eyewitness account of a total solar eclipse​​",
+      "fetched_at": "2026-08-12T18:45:23.498374+00:00"
+    },
+    "d882c9373b521992": {
+      "title": "Show HN: A website for exploring historical photographs of my city",
+      "fetched_at": "2026-08-12T18:45:24.126532+00:00"
+    },
+    "b42b3e5fdfe3bd41": {
+      "title": "Ozempic may have revealed the brain’s hidden “craving center”",
+      "fetched_at": "2026-08-12T18:45:24.781175+00:00"
+    },
+    "bac95df86cce9dae": {
+      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+      "fetched_at": "2026-08-12T18:45:25.407234+00:00"
+    },
+    "2b0abb78c202c440": {
+      "title": "Discovery of 'slow' electrons in 2D material could lead to new memory device",
+      "fetched_at": "2026-08-12T18:45:26.017666+00:00"
+    },
+    "55fa67cf467d259e": {
+      "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
+      "fetched_at": "2026-08-12T18:45:26.615721+00:00"
+    },
+    "a511729fcfc52a1a": {
+      "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
+      "fetched_at": "2026-08-12T18:45:27.214281+00:00"
+    },
+    "f5497ad771a5b787": {
+      "title": "The adult brain can repair itself better than scientists thought",
+      "fetched_at": "2026-08-12T18:45:27.888127+00:00"
+    },
+    "0f3c0c070564c8bb": {
+      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+      "fetched_at": "2026-08-12T18:45:28.544127+00:00"
+    },
+    "69047f8ab6f48c69": {
+      "title": "James Webb captures a cosmic lion sculpted by a dying star",
+      "fetched_at": "2026-08-12T18:45:29.176522+00:00"
+    },
+    "610587657645e9c0": {
+      "title": "A strange crystal made of electrons just revealed its hidden motion",
+      "fetched_at": "2026-08-12T18:45:29.782242+00:00"
+    },
+    "c472f877e08e2030": {
+      "title": "Scientists find evidence for two origins of life on Earth",
+      "fetched_at": "2026-08-12T18:45:30.376067+00:00"
+    },
+    "995efe9ab02228a6": {
+      "title": "Astronomers drop one of the largest-ever maps of the universe, charting 4 billion objects",
+      "fetched_at": "2026-08-12T18:45:31.010343+00:00"
     }
   },
-  "last_updated": "2026-08-12T12:41:20.773391+00:00"
+  "last_updated": "2026-08-12T18:45:31.109725+00:00"
 }
