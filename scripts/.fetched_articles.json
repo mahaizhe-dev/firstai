@@ -1,149 +1,5 @@
 {
   "articles": {
-    "1dabc2f39db4c4ab": {
-      "title": "I run a 9-model LLM council to write a financial newsletter. What breaks",
-      "fetched_at": "2026-08-05T13:39:45.832943+00:00"
-    },
-    "3062ba59bccc1397": {
-      "title": "Cloudflare OS – an open-source AI productivity environment",
-      "fetched_at": "2026-08-05T13:39:46.459151+00:00"
-    },
-    "25a0d79c69895138": {
-      "title": "Show HN: LearnOS – Open-source, AI-native Coursera you run locally",
-      "fetched_at": "2026-08-05T13:39:47.095585+00:00"
-    },
-    "bbcd4c19b6c5c532": {
-      "title": "Show HN: PageForth - An on-device AI news reader that summarizes any site",
-      "fetched_at": "2026-08-05T13:39:47.729498+00:00"
-    },
-    "52328c3d0946e4c5": {
-      "title": "The Day the World Stopped Needing Horses: What AI Could Mean for Human Jobs",
-      "fetched_at": "2026-08-05T13:39:48.359063+00:00"
-    },
-    "3db3aea1ebfcf617": {
-      "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
-      "fetched_at": "2026-08-05T13:39:49.016924+00:00"
-    },
-    "1362244d40a34a4b": {
-      "title": "From Individual Genius to World-Mind: How AI Ends the \"Heroic Age\" of Math",
-      "fetched_at": "2026-08-05T13:39:49.643647+00:00"
-    },
-    "d29f4ed7ef5703e2": {
-      "title": "Niall Ferguson: AI Is the Most Dangerous Arms Race in History",
-      "fetched_at": "2026-08-05T13:39:50.267743+00:00"
-    },
-    "323b86ec50f86cb8": {
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "fetched_at": "2026-08-05T13:39:50.905244+00:00"
-    },
-    "c679f78c78367a95": {
-      "title": "Show HN: Labgrid-MCP – let AI agents drive real embedded hardware labs",
-      "fetched_at": "2026-08-05T13:39:51.542622+00:00"
-    },
-    "93bd1110f728ceb7": {
-      "title": "Wan 3.0 Best AI Video Generator",
-      "fetched_at": "2026-08-05T13:39:52.202235+00:00"
-    },
-    "3da2b5e62b3a9b82": {
-      "title": "Show HN: AuditBadger – SOC 2 and ISO 27001 – AI drafts, you approve",
-      "fetched_at": "2026-08-05T13:39:52.826017+00:00"
-    },
-    "ec62294aa5390c75": {
-      "title": "AI review missed Coldcard flaw",
-      "fetched_at": "2026-08-05T13:39:53.503142+00:00"
-    },
-    "e4338494fc05a229": {
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "fetched_at": "2026-08-05T13:39:54.127333+00:00"
-    },
-    "2a43eccdf62f4afe": {
-      "title": "Turn one giant AI-generated pull request to a reviewable stack",
-      "fetched_at": "2026-08-05T13:39:54.748251+00:00"
-    },
-    "a3d2f74020b99862": {
-      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
-      "fetched_at": "2026-08-05T13:39:55.382398+00:00"
-    },
-    "456ac1f6d6021a56": {
-      "title": "Show HN: Feedback widget with screenshots, annotations, and AI triage",
-      "fetched_at": "2026-08-05T13:39:56.003878+00:00"
-    },
-    "eac9286737639e77": {
-      "title": "Data-centre reality check could slam brakes on AI earnings boom",
-      "fetched_at": "2026-08-05T13:39:56.633755+00:00"
-    },
-    "696903f51ec26bdf": {
-      "title": "Why the Legendary Erdős Problems Are Falling to AI",
-      "fetched_at": "2026-08-05T13:39:57.306683+00:00"
-    },
-    "4c5f86ed4c602c87": {
-      "title": "Study: People prefer stories written by AI",
-      "fetched_at": "2026-08-05T13:39:57.973292+00:00"
-    },
-    "6c9346ea94baf0c6": {
-      "title": "中國印尼合作衛星楠榜一號帶來的益處與風險",
-      "fetched_at": "2026-08-05T13:40:00.620953+00:00"
-    },
-    "be3b75e0a96b9c13": {
-      "title": "Drug Discovery Has No Magic Wands by Daphne Koller",
-      "fetched_at": "2026-08-05T13:40:12.428160+00:00"
-    },
-    "88b02d5369fc88be": {
-      "title": "Diagnostic dilemma: Man who consulted ChatGPT about cutting out table salt ended up hospitalized with psychosis",
-      "fetched_at": "2026-08-05T13:40:13.090045+00:00"
-    },
-    "24927d29ecdce671": {
-      "title": "Scientists discover the brain cells that keep you motivated",
-      "fetched_at": "2026-08-05T13:40:13.730352+00:00"
-    },
-    "aee87f3494dafd45": {
-      "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
-      "fetched_at": "2026-08-05T13:40:14.410970+00:00"
-    },
-    "7b562ee94f1ecff8": {
-      "title": "This school-bus-sized “terror croc” ate dinosaurs. Now it’s back",
-      "fetched_at": "2026-08-05T13:40:15.029021+00:00"
-    },
-    "5cadb402c293eb5e": {
-      "title": "LAPD Abandons Flock Contract After Making a Horrifying Discovery",
-      "fetched_at": "2026-08-05T13:40:15.680543+00:00"
-    },
-    "066aba7c32a01db9": {
-      "title": "A colossal magma system has been hiding beneath Tuscany",
-      "fetched_at": "2026-08-05T13:40:16.297050+00:00"
-    },
-    "84b0cbc10e64b207": {
-      "title": "Show HN: Aidress – open-source discovery and trust registry for agents",
-      "fetched_at": "2026-08-05T13:40:16.954710+00:00"
-    },
-    "276d27e292dc7700": {
-      "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
-      "fetched_at": "2026-08-05T13:40:17.575854+00:00"
-    },
-    "cf5d4a4667d11829": {
-      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
-      "fetched_at": "2026-08-05T13:40:18.202273+00:00"
-    },
-    "62950f5920f2b4d9": {
-      "title": "Did T. rex leave these 66-million-year-old bite marks?",
-      "fetched_at": "2026-08-05T13:40:18.851753+00:00"
-    },
-    "f4249ba04ad643c6": {
-      "title": "Scientists catch a “jumping gene” mid-leap between species",
-      "fetched_at": "2026-08-05T13:40:19.529927+00:00"
-    },
-    "3aaed663ec0c8a34": {
-      "title": "Harness Archaeology",
-      "fetched_at": "2026-08-05T13:40:20.143531+00:00"
-    },
-    "8103c15b4c7729e3": {
-      "title": "Drug Discovery Has No Magic Wands",
-      "fetched_at": "2026-08-05T13:40:20.786599+00:00"
-    },
-    "ad89fac31b72f55d": {
-      "title": "Cultural Capital and the Productivity of Ideas: Evidence from Historical Texts [pdf]",
-      "fetched_at": "2026-08-05T13:40:21.402773+00:00"
-    },
     "cc23b928b1e2a89e": {
       "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
       "fetched_at": "2026-08-05T19:11:59.159417+00:00"
@@ -3371,7 +3227,79 @@
     "0a3bc866c61ab3cb": {
       "title": "Totality! See incredible photos ofthe Aug. 12 total solar eclipse from across Europe",
       "fetched_at": "2026-08-13T12:42:43.603873+00:00"
+    },
+    "b0fc1003e4ff7000": {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "fetched_at": "2026-08-13T18:45:36.264917+00:00"
+    },
+    "813c194d36f3b128": {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "fetched_at": "2026-08-13T18:45:36.892789+00:00"
+    },
+    "55b71fed46c4587e": {
+      "title": "Suno is trying to look more like a real music production tool",
+      "fetched_at": "2026-08-13T18:45:37.522906+00:00"
+    },
+    "e1c1c8c2a423f127": {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "fetched_at": "2026-08-13T18:45:38.143203+00:00"
+    },
+    "6d1bf65ae90f0c93": {
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "fetched_at": "2026-08-13T18:45:38.776621+00:00"
+    },
+    "7aa3e3209f7bebf6": {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "fetched_at": "2026-08-13T18:45:39.433938+00:00"
+    },
+    "1893a5579af8a5c9": {
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "fetched_at": "2026-08-13T18:45:40.050570+00:00"
+    },
+    "75233ff03825244f": {
+      "title": "Does Google even want to win at AI?",
+      "fetched_at": "2026-08-13T18:45:40.688019+00:00"
+    },
+    "bf673c5b6951f829": {
+      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+      "fetched_at": "2026-08-13T18:45:41.313074+00:00"
+    },
+    "dc790d041283076f": {
+      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
+      "fetched_at": "2026-08-13T18:45:44.488264+00:00"
+    },
+    "8c5b00f20b89b7a5": {
+      "title": "'They basically used these dried-up wells just to throw people in': 43 skeletons found in Roman-era well may be evidence of deadly plague",
+      "fetched_at": "2026-08-13T18:45:47.302184+00:00"
+    },
+    "c2af46afebcb926e": {
+      "title": "New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'",
+      "fetched_at": "2026-08-13T18:45:47.932258+00:00"
+    },
+    "2a1caae4b87b4afd": {
+      "title": "Show HN: Agent-to-agent discovery through Cloudflare Worker via MCP",
+      "fetched_at": "2026-08-13T18:45:48.555373+00:00"
+    },
+    "eda46b232cbf415c": {
+      "title": "James Webb telescope just spotted the oldest, closest pair of black holes in the early universe",
+      "fetched_at": "2026-08-13T18:45:49.170316+00:00"
+    },
+    "76dfaf156c708c9e": {
+      "title": "Foodborne illnesses: Is the US really being hit harder this year?",
+      "fetched_at": "2026-08-13T18:45:49.790846+00:00"
+    },
+    "d5da645c9050b3df": {
+      "title": "Mars may have been losing its water more than 4 billion years ago, oldest-known Martian meteorite suggests",
+      "fetched_at": "2026-08-13T18:45:50.419863+00:00"
+    },
+    "88fb3f98db2a5e6a": {
+      "title": "Mammal ancestors may have given live birth 90 million years earlier than we thought, rewriting evolutionary timelines",
+      "fetched_at": "2026-08-13T18:45:51.054600+00:00"
+    },
+    "54e58690846ab2d9": {
+      "title": "Pigs wearing heated diving suits and diapers reveal a better way to beat 'the bends'",
+      "fetched_at": "2026-08-13T18:45:51.677369+00:00"
     }
   },
-  "last_updated": "2026-08-13T12:42:43.695019+00:00"
+  "last_updated": "2026-08-13T18:45:51.799004+00:00"
 }
