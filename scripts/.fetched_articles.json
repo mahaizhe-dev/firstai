@@ -1,137 +1,5 @@
 {
   "articles": {
-    "00d91b388c08c3d2": {
-      "title": "恒指开盘涨0.15%，恒生科技指数涨0.33%",
-      "fetched_at": "2026-08-05T01:26:43.650356+00:00"
-    },
-    "69dc0d16250d48bd": {
-      "title": "人民币对美元中间价调升28个基点",
-      "fetched_at": "2026-08-05T01:26:44.277155+00:00"
-    },
-    "ba1613ada8acad88": {
-      "title": "中信证券：传统主业稳健+AI收入渐显，美股应用软件迎来估值修复契机",
-      "fetched_at": "2026-08-05T01:26:44.905399+00:00"
-    },
-    "c94ed7db57ff3621": {
-      "title": "“哲源科技”完成近2亿元A2轮融资",
-      "fetched_at": "2026-08-05T01:26:45.524144+00:00"
-    },
-    "1921733c0205edfe": {
-      "title": "MLCC景气度高企，概念股业绩预喜比例100%",
-      "fetched_at": "2026-08-05T01:26:46.147881+00:00"
-    },
-    "8d551dfed0abbb0a": {
-      "title": "全球最大的黄金ETF SPDR Gold Trust持仓较前日增加3.43吨",
-      "fetched_at": "2026-08-05T01:26:46.802038+00:00"
-    },
-    "3fc627c491c68b3b": {
-      "title": "AI应用向实向深，商业化价值闭环正在形成",
-      "fetched_at": "2026-08-05T01:26:47.436948+00:00"
-    },
-    "ce96d08d8113b7b0": {
-      "title": "分红回购持续推进，券商多管齐下增强投资者信心",
-      "fetched_at": "2026-08-05T01:26:48.098321+00:00"
-    },
-    "6adfe9034fbe7c1e": {
-      "title": "华泰证券：建议关注AI应用和国产模型两条投资主线",
-      "fetched_at": "2026-08-05T01:26:48.722077+00:00"
-    },
-    "63dbe0279064dd9d": {
-      "title": "科技新贵纷纷下场做VC，产业资本激活创新资本正循环",
-      "fetched_at": "2026-08-05T01:26:49.349428+00:00"
-    },
-    "68f057ce684ac3e1": {
-      "title": "中信证券：预计年内黄金价格将回到上行通道",
-      "fetched_at": "2026-08-05T01:26:49.978265+00:00"
-    },
-    "f48deeb8ec1f3bb4": {
-      "title": "谷歌课堂Gemini扩展至全年龄段学生，新增情境化引导提示",
-      "fetched_at": "2026-08-05T01:26:50.621677+00:00"
-    },
-    "ef3715d590e39f45": {
-      "title": "Lucid将在“运营重整”期间推迟推出平价电动车",
-      "fetched_at": "2026-08-05T01:26:51.235732+00:00"
-    },
-    "d4f54fcc6fff878c": {
-      "title": "两市融资余额增加119.71亿元",
-      "fetched_at": "2026-08-05T01:26:51.861601+00:00"
-    },
-    "d1b46e2b2b3d3ee4": {
-      "title": "摩根大通据悉拟38亿欧元收购法国供热与冷却网络运营商Idex",
-      "fetched_at": "2026-08-05T01:26:52.483546+00:00"
-    },
-    "0c1aa94715f91cc4": {
-      "title": "宝洁CEO证实：将斥资38亿美元收购膳食补充剂品牌Thorne",
-      "fetched_at": "2026-08-05T01:26:53.106961+00:00"
-    },
-    "6479cca33559eac4": {
-      "title": "中信建投：全球半导体设备进入“量价齐升”通道，国产设备出海进程加速",
-      "fetched_at": "2026-08-05T01:26:53.731555+00:00"
-    },
-    "069e5580a79bab2c": {
-      "title": "美债收益率“狂飙”背后：市场开始质疑美联储信誉",
-      "fetched_at": "2026-08-05T01:26:54.376213+00:00"
-    },
-    "47d7bf43e4feba57": {
-      "title": "OpenAI披露第三方测试越界事件，AI模型评估期间误连公网",
-      "fetched_at": "2026-08-05T01:26:55.014810+00:00"
-    },
-    "b38a649b11228c74": {
-      "title": "美联储施密德呼吁收紧货币政策，以抑制“过高”的通胀",
-      "fetched_at": "2026-08-05T01:26:55.642702+00:00"
-    },
-    "534fe9e3e598f522": {
-      "title": "火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？",
-      "fetched_at": "2026-08-05T01:26:58.900887+00:00"
-    },
-    "19635aeac0f18e77": {
-      "title": "如何应对中国开源AI模型？特朗普政府内部争论升级",
-      "fetched_at": "2026-08-05T01:26:59.527161+00:00"
-    },
-    "96ed77eff3d2f0f8": {
-      "title": "施壓日本、探測美國反應：中國在東海新設施釋放哪些信息？",
-      "fetched_at": "2026-08-05T01:27:00.143475+00:00"
-    },
-    "b3d7a0c8fb795f95": {
-      "title": "BBC專訪金明日：「我雖然自由了，但實際上也有很大的負擔」",
-      "fetched_at": "2026-08-05T01:27:00.763366+00:00"
-    },
-    "24d3a39ed4a0bbb7": {
-      "title": "香港前民主黨主席胡志偉 出獄後赴英面臨遣返",
-      "fetched_at": "2026-08-05T01:27:01.398189+00:00"
-    },
-    "6d4f5361d002b4c7": {
-      "title": "Physicists find a way to control heat in a way once thought impossible",
-      "fetched_at": "2026-08-05T01:27:03.916633+00:00"
-    },
-    "622c1744df2c1770": {
-      "title": "Roman Villa Featured Oldest Known Library in Iberia",
-      "fetched_at": "2026-08-05T01:27:04.549168+00:00"
-    },
-    "6b392718f990b51d": {
-      "title": "Earliest Evidence of Silkworm Cultivation Found Outside of China",
-      "fetched_at": "2026-08-05T01:27:05.171447+00:00"
-    },
-    "4bcb043f07ec088a": {
-      "title": "Three New Assyrian Kings Identified",
-      "fetched_at": "2026-08-05T01:27:05.796807+00:00"
-    },
-    "a876734af989ff7b": {
-      "title": "These insect submariners survive depths that should crush them",
-      "fetched_at": "2026-08-05T01:27:06.459385+00:00"
-    },
-    "f321f644a511bf6e": {
-      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
-      "fetched_at": "2026-08-05T01:27:07.098764+00:00"
-    },
-    "bd765c771a91144e": {
-      "title": "Why Jupiter has several giant moons but Saturn has only Titan",
-      "fetched_at": "2026-08-05T01:27:07.732119+00:00"
-    },
-    "3a5cdad563c65bfb": {
-      "title": "After 241 days in orbit this NASA astronaut is finally home",
-      "fetched_at": "2026-08-05T01:27:08.349453+00:00"
-    },
     "604862150eeb90b5": {
       "title": "SpaceX's AI ambitions burning through Starlink revenue",
       "fetched_at": "2026-08-05T08:13:59.445773+00:00"
@@ -3399,7 +3267,155 @@
     "bc5480d4a66050fb": {
       "title": "Your brain may be wired to regain lost weight",
       "fetched_at": "2026-08-13T01:00:36.514860+00:00"
+    },
+    "9db26cb5f10f629d": {
+      "title": "Web Scraper was translated into 50 languages with AI",
+      "fetched_at": "2026-08-13T07:09:17.716932+00:00"
+    },
+    "c1597e7984b3cd2c": {
+      "title": "Samsung used AI to cut a chip-verification loop 15–30×",
+      "fetched_at": "2026-08-13T07:09:18.370041+00:00"
+    },
+    "d570d8a848681493": {
+      "title": "SPAR – Fall 2026 AI Safety Research Projects",
+      "fetched_at": "2026-08-13T07:09:18.988563+00:00"
+    },
+    "2e7dc511e4cd106c": {
+      "title": "AI translates 5k-year-old cuneiform tablets instantly – Big Think",
+      "fetched_at": "2026-08-13T07:09:19.602628+00:00"
+    },
+    "4cafd865df106ccd": {
+      "title": "My AI agents shipped 128 releases of a product no one ever used",
+      "fetched_at": "2026-08-13T07:09:20.269386+00:00"
+    },
+    "8ffbd6ded8dca5c8": {
+      "title": "Over 70% of Americans oppose AI data centers; US protests intensify",
+      "fetched_at": "2026-08-13T07:09:20.907835+00:00"
+    },
+    "8121223b20d48e7e": {
+      "title": "Chinese censorship is leaking into answers from American AI",
+      "fetched_at": "2026-08-13T07:09:21.559700+00:00"
+    },
+    "38458cdb4a74d28a": {
+      "title": "GPT-5.6, Gemini 3.6 Flash, Grok 4.5, Kimi K3, GLM-5.2 compared",
+      "fetched_at": "2026-08-13T07:09:22.182243+00:00"
+    },
+    "caf8a1432a8b2146": {
+      "title": "llambda.lisp: Bare-Metal, Multi-Threaded, AVX2-Accelerated LLM inf eng in CL",
+      "fetched_at": "2026-08-13T07:09:22.849264+00:00"
+    },
+    "c81de4f322f42e1e": {
+      "title": "AIPass – AI agents with persistent identity, memory, and email",
+      "fetched_at": "2026-08-13T07:09:23.473933+00:00"
+    },
+    "9fa1231d48e99385": {
+      "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+      "fetched_at": "2026-08-13T07:09:24.093827+00:00"
+    },
+    "c64d2be0b45f8a98": {
+      "title": "Watermarks-remover: Strip multi-vendor AI provenance marks",
+      "fetched_at": "2026-08-13T07:09:24.708472+00:00"
+    },
+    "47a8433d0cd0b063": {
+      "title": "How do I self-host a good-looking AI generated website",
+      "fetched_at": "2026-08-13T07:09:25.349532+00:00"
+    },
+    "f2aa606ab6ead00c": {
+      "title": "Lossless codec for AI agent messages – 36% fewer tokens, overhead counted",
+      "fetched_at": "2026-08-13T07:09:25.959322+00:00"
+    },
+    "1b72c2be6a1f42b3": {
+      "title": "AI to Kids by Letting Them Tweak Local Chatbots [video]",
+      "fetched_at": "2026-08-13T07:09:26.624316+00:00"
+    },
+    "c27cdcdde1aa1091": {
+      "title": "16GB EGPU for AI Inference, $699",
+      "fetched_at": "2026-08-13T07:09:27.247855+00:00"
+    },
+    "c628e80d41d33b67": {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "fetched_at": "2026-08-13T07:09:27.902143+00:00"
+    },
+    "661ce00c8475cd96": {
+      "title": "6 天时间丈量独库公路：我的平安骑行指南",
+      "fetched_at": "2026-08-13T07:09:28.529244+00:00"
+    },
+    "155aec5098546f8c": {
+      "title": "Examples for use of AI and especially LLMs in major mathematical developments",
+      "fetched_at": "2026-08-13T07:09:29.140081+00:00"
+    },
+    "9b7bfdd300d495ef": {
+      "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
+      "fetched_at": "2026-08-13T07:09:29.762264+00:00"
+    },
+    "411cd94fc42095cb": {
+      "title": "欧洲数十年来首次日全食，民众欢庆“黑昼”奇观",
+      "fetched_at": "2026-08-13T07:09:32.559869+00:00"
+    },
+    "5abf19035c85865a": {
+      "title": "我曾是切尼的心脏科医生，特朗普看起来身体不太好",
+      "fetched_at": "2026-08-13T07:09:33.177433+00:00"
+    },
+    "eb88e9d048164e4c": {
+      "title": "近30年最壯觀日食登場 數百萬英歐民眾抬頭見證",
+      "fetched_at": "2026-08-13T07:09:33.818461+00:00"
+    },
+    "163aa1d22632eed0": {
+      "title": "相比普京，特朗普秘密换机不过是“小儿科”",
+      "fetched_at": "2026-08-13T07:09:34.437172+00:00"
+    },
+    "5fbcfa8bd07566e6": {
+      "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
+      "fetched_at": "2026-08-13T07:09:35.064615+00:00"
+    },
+    "bd5d4daa64ea6168": {
+      "title": "想提高做決定的能力？問問螞蟻吧",
+      "fetched_at": "2026-08-13T07:09:35.688325+00:00"
+    },
+    "7e62b74c8fb13322": {
+      "title": "為了安全旅行，女性付出了什麼代價？",
+      "fetched_at": "2026-08-13T07:09:36.310143+00:00"
+    },
+    "c371dedbe1c3d2e6": {
+      "title": "塔利班统治五年后，阿富汗坠入失控边缘",
+      "fetched_at": "2026-08-13T07:09:36.982355+00:00"
+    },
+    "16554a11b7e1cad6": {
+      "title": "AI代理新案例：黑進健身中心系統替「主人」預約課堂",
+      "fetched_at": "2026-08-13T07:09:37.651012+00:00"
+    },
+    "aa89d5cb26756b1d": {
+      "title": "维生素、鱼油、蛋白粉：你需要这些热门保健品吗？",
+      "fetched_at": "2026-08-13T07:09:38.246542+00:00"
+    },
+    "26daa97cb58dde49": {
+      "title": "“最强”厄尔尼诺现象正如何改变世界",
+      "fetched_at": "2026-08-13T07:09:38.852396+00:00"
+    },
+    "ede01d0cc0bb223c": {
+      "title": "中國錫安教會牧師金明日專訪 談獲釋赴美細節與獄中抗爭",
+      "fetched_at": "2026-08-13T07:09:39.483036+00:00"
+    },
+    "79ddadc18ab0b726": {
+      "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
+      "fetched_at": "2026-08-13T07:09:40.103443+00:00"
+    },
+    "3d65384066afe381": {
+      "title": "Brains don't always rot: Scientists may finally know how human brains have evaded decay for thousands of years",
+      "fetched_at": "2026-08-13T07:10:01.021295+00:00"
+    },
+    "f60fc2fd00abe8c8": {
+      "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
+      "fetched_at": "2026-08-13T07:10:01.667611+00:00"
+    },
+    "2199647b48509fbe": {
+      "title": "518-million-year-old creature reveals the origins of spider fangs",
+      "fetched_at": "2026-08-13T07:10:02.365315+00:00"
+    },
+    "d53506eebef6eb16": {
+      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
+      "fetched_at": "2026-08-13T07:10:02.976064+00:00"
     }
   },
-  "last_updated": "2026-08-13T01:00:36.606383+00:00"
+  "last_updated": "2026-08-13T07:10:03.101166+00:00"
 }
