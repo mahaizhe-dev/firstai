@@ -1,141 +1,5 @@
 {
   "articles": {
-    "d5a737173794f3a7": {
-      "title": "White House plans to keep AI framework under wraps",
-      "fetched_at": "2026-08-04T19:16:50.769068+00:00"
-    },
-    "bef1ea98c3eed325": {
-      "title": "AI-generated websites converge on each other more than human designs do",
-      "fetched_at": "2026-08-04T19:16:51.392828+00:00"
-    },
-    "d9862b2b13ed08fc": {
-      "title": "Code Like a Pirate with AI",
-      "fetched_at": "2026-08-04T19:16:52.010809+00:00"
-    },
-    "9f195c62eb3a3f3b": {
-      "title": "Surveillance-based advertising: why ad AI economics always demand more data",
-      "fetched_at": "2026-08-04T19:16:52.609911+00:00"
-    },
-    "872d84dea6b9996d": {
-      "title": "Learning the ropes: why Germany is building risk into its playgrounds (2021)",
-      "fetched_at": "2026-08-04T19:16:53.262761+00:00"
-    },
-    "2bcd46f7e22f9b7f": {
-      "title": "Can Reddit fend off a new wave of AI SEO spam?",
-      "fetched_at": "2026-08-04T19:16:53.881620+00:00"
-    },
-    "d485d5253a6d954d": {
-      "title": "AI Detection of Poker Player Bluffing",
-      "fetched_at": "2026-08-04T19:16:54.485700+00:00"
-    },
-    "0e9d36fcc2898679": {
-      "title": "AI demand to keep near-term inflation high, says investment strategist",
-      "fetched_at": "2026-08-04T19:16:55.125638+00:00"
-    },
-    "bfe5b9a96a50504f": {
-      "title": "Show HN: Block Blast AI Solver – Solve Puzzle Boards from a Screenshot",
-      "fetched_at": "2026-08-04T19:16:55.759534+00:00"
-    },
-    "39f2d934f39ca0af": {
-      "title": "LLM Arena",
-      "fetched_at": "2026-08-04T19:16:56.391463+00:00"
-    },
-    "34889e811415c4c1": {
-      "title": "Creating, Copying, and Remixing in the Age of AI",
-      "fetched_at": "2026-08-04T19:16:57.010457+00:00"
-    },
-    "622606c383aee22a": {
-      "title": "AI data-centre race builds $1T lease burden for Big Tech",
-      "fetched_at": "2026-08-04T19:16:57.632749+00:00"
-    },
-    "2c9a59098a244875": {
-      "title": "Elon Musk: In 36 months, the cheapest place to put AI will be space [video]",
-      "fetched_at": "2026-08-04T19:16:58.262841+00:00"
-    },
-    "e70898ef3c178712": {
-      "title": "Privacy risks from medical AI tools are not shared equally",
-      "fetched_at": "2026-08-04T19:16:58.884615+00:00"
-    },
-    "3ae17fd0580ed6e2": {
-      "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
-      "fetched_at": "2026-08-04T19:16:59.492874+00:00"
-    },
-    "f5b5745968044dd0": {
-      "title": "Audit Ready AI",
-      "fetched_at": "2026-08-04T19:17:00.144982+00:00"
-    },
-    "1a3e184bf0276be8": {
-      "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
-      "fetched_at": "2026-08-04T19:17:00.763756+00:00"
-    },
-    "84544fcec08cfaec": {
-      "title": "Silico: a platform for AI research",
-      "fetched_at": "2026-08-04T19:17:01.369867+00:00"
-    },
-    "a1097fb3e4676642": {
-      "title": "Mea Culpa: Apple Confesses It Can't Keep Up with AI Bug Reports",
-      "fetched_at": "2026-08-04T19:17:01.990947+00:00"
-    },
-    "ea6618070af9fc82": {
-      "title": "How an OpenAI influencer trip backfired",
-      "fetched_at": "2026-08-04T19:17:02.598630+00:00"
-    },
-    "54ff9ce7ed7b154a": {
-      "title": "陸委會主委專訪：北京每年「已讀不回」3000封信 民進黨執政十年兩岸溝通未斷",
-      "fetched_at": "2026-08-04T19:17:05.380945+00:00"
-    },
-    "ede01d0cc0bb223c": {
-      "title": "中國錫安教會牧師金明日專訪 談獲釋赴美細節與獄中抗爭",
-      "fetched_at": "2026-08-04T19:17:05.995208+00:00"
-    },
-    "7292436ffda2c9ee": {
-      "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
-      "fetched_at": "2026-08-04T19:17:06.614834+00:00"
-    },
-    "79ddadc18ab0b726": {
-      "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
-      "fetched_at": "2026-08-04T19:17:07.244487+00:00"
-    },
-    "3d65384066afe381": {
-      "title": "Brains don't always rot: Scientists may finally know how human brains have evaded decay for thousands of years",
-      "fetched_at": "2026-08-04T19:17:09.585339+00:00"
-    },
-    "eac6850727592b57": {
-      "title": "'Darwin’s hypothesis provided an important inspiration': Scientists bolster 150-year-old Darwinian theory with a carnivorous plant in China",
-      "fetched_at": "2026-08-04T19:17:10.192778+00:00"
-    },
-    "05e9c0e49d62a886": {
-      "title": "A SpaceX rocket will hit the moon at 5,000 mph tonight. Experts explain what you could see, and when.",
-      "fetched_at": "2026-08-04T19:17:10.805600+00:00"
-    },
-    "480f286c67c5a9ef": {
-      "title": "Super El Niño may push an already stressed climate ecosystem across a critical threshold, climate change researcher says",
-      "fetched_at": "2026-08-04T19:17:11.411965+00:00"
-    },
-    "f60fc2fd00abe8c8": {
-      "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
-      "fetched_at": "2026-08-04T19:17:12.025099+00:00"
-    },
-    "2199647b48509fbe": {
-      "title": "518-million-year-old creature reveals the origins of spider fangs",
-      "fetched_at": "2026-08-04T19:17:12.639566+00:00"
-    },
-    "443f761730f1d875": {
-      "title": "'Teach me! Doctor': Meet the pediatrician on a mission to boost parents' knowledge of childhood illnesses",
-      "fetched_at": "2026-08-04T19:17:13.280976+00:00"
-    },
-    "f38ef5ea981f8fc7": {
-      "title": "These underwater bones could solve a mystery about extinct giants",
-      "fetched_at": "2026-08-04T19:17:13.884160+00:00"
-    },
-    "d53506eebef6eb16": {
-      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
-      "fetched_at": "2026-08-04T19:17:14.498582+00:00"
-    },
-    "f8b3ea3ad0f31e18": {
-      "title": "DNA on the Shroud of Turin reveals centuries of hidden history",
-      "fetched_at": "2026-08-04T19:17:15.118122+00:00"
-    },
     "00d91b388c08c3d2": {
       "title": "恒指开盘涨0.15%，恒生科技指数涨0.33%",
       "fetched_at": "2026-08-05T01:26:43.650356+00:00"
@@ -3383,7 +3247,159 @@
     "995efe9ab02228a6": {
       "title": "Astronomers drop one of the largest-ever maps of the universe, charting 4 billion objects",
       "fetched_at": "2026-08-12T18:45:31.010343+00:00"
+    },
+    "1b4f7e292874e2fb": {
+      "title": "Fenix Flexin Admits He Used AI for \"Rubberz\"",
+      "fetched_at": "2026-08-13T00:59:50.392392+00:00"
+    },
+    "103b7d0e6f0402b2": {
+      "title": "Use Dreams to create memories your AI agent can access",
+      "fetched_at": "2026-08-13T00:59:51.028504+00:00"
+    },
+    "cceec570f555fd7d": {
+      "title": "Context Bombs: stopping AI attackers in their tracks",
+      "fetched_at": "2026-08-13T00:59:51.644467+00:00"
+    },
+    "93ce5461f7a03461": {
+      "title": "The Wrong Defaults is why enterprise AI agents fail at adoption",
+      "fetched_at": "2026-08-13T00:59:52.288595+00:00"
+    },
+    "0dab98e44d60a109": {
+      "title": "Not Ready for Prime Time: The Current State of Legal Ethics and AI",
+      "fetched_at": "2026-08-13T00:59:52.951163+00:00"
+    },
+    "cce37aea7ad0356b": {
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "fetched_at": "2026-08-13T00:59:53.582892+00:00"
+    },
+    "6785e2b98df5459e": {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "fetched_at": "2026-08-13T00:59:54.221776+00:00"
+    },
+    "ac0835ef572c754d": {
+      "title": "Show HN: A marketplace where AI agents buy services from AI agents",
+      "fetched_at": "2026-08-13T00:59:54.849594+00:00"
+    },
+    "7ef21c44c3d3931c": {
+      "title": "Agentic AI Open-Source Unit Testing for orchestrators on CLI",
+      "fetched_at": "2026-08-13T00:59:55.500376+00:00"
+    },
+    "12ff14732dea8ff0": {
+      "title": "Tailscale – Information about AI for Candidates [pdf]",
+      "fetched_at": "2026-08-13T00:59:56.144779+00:00"
+    },
+    "e168528e1267b1ed": {
+      "title": "Ask HN: Is AI code verification becoming your main bottleneck?",
+      "fetched_at": "2026-08-13T00:59:56.772429+00:00"
+    },
+    "7fc5b36b83902172": {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "fetched_at": "2026-08-13T00:59:57.405867+00:00"
+    },
+    "b0d3527708c3508b": {
+      "title": "AI Music Startup Suno Bets Anyone Can Be a Rock Star",
+      "fetched_at": "2026-08-13T00:59:58.026569+00:00"
+    },
+    "7c9350b5123ea0e5": {
+      "title": "GPT Loves Chinese Gambling",
+      "fetched_at": "2026-08-13T00:59:58.660331+00:00"
+    },
+    "9c414035089da821": {
+      "title": "AI is the next layer of software development",
+      "fetched_at": "2026-08-13T00:59:59.291327+00:00"
+    },
+    "527d94e33d9bedb4": {
+      "title": "IBM Let Me Inside the Machine Nobody's Watching in the AI Race [video]",
+      "fetched_at": "2026-08-13T00:59:59.925502+00:00"
+    },
+    "bf117a2aa7f0771a": {
+      "title": "AI Course for Golang incorrectly generates content about the Go board game",
+      "fetched_at": "2026-08-13T01:00:00.541934+00:00"
+    },
+    "7e5bd97e0289e753": {
+      "title": "Show HN: Remove AI Watermark from Text",
+      "fetched_at": "2026-08-13T01:00:01.251914+00:00"
+    },
+    "a3a4a39a976d714e": {
+      "title": "Show HN: Keep batch LLM jobs from starving interactive traffic (TypeScript)",
+      "fetched_at": "2026-08-13T01:00:01.914024+00:00"
+    },
+    "b829e560433236a1": {
+      "title": "A simple fix for LLM tail latency",
+      "fetched_at": "2026-08-13T01:00:02.535601+00:00"
+    },
+    "a519390f3f8c746d": {
+      "title": "“受够了”：欧洲迎来今夏第五波热浪，气温达43度",
+      "fetched_at": "2026-08-13T01:00:04.589249+00:00"
+    },
+    "88fbf270d296f22d": {
+      "title": "「大學指控我用AI寫論文，但明明都是我自己寫的」",
+      "fetched_at": "2026-08-13T01:00:05.318695+00:00"
+    },
+    "7ba875d56a836aca": {
+      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
+      "fetched_at": "2026-08-13T01:00:05.945705+00:00"
+    },
+    "43b0f6c500210090": {
+      "title": "Totality! See the first photos of the Aug. 12 total solar eclipse over Spain",
+      "fetched_at": "2026-08-13T01:00:27.364893+00:00"
+    },
+    "382aa4a42ef4bfac": {
+      "title": "Young wild octopuses may form a 'fight club' and slap territorial fish if they get too close",
+      "fetched_at": "2026-08-13T01:00:28.063561+00:00"
+    },
+    "0f7f06b464c6b63f": {
+      "title": "Colonial-Era Hospital and Church Excavated in Lima",
+      "fetched_at": "2026-08-13T01:00:28.682008+00:00"
+    },
+    "e813ba934f43d5bd": {
+      "title": "Nile Delta Necropolis Used for Thousands of Years",
+      "fetched_at": "2026-08-13T01:00:29.319141+00:00"
+    },
+    "d8a137052ff3feca": {
+      "title": "Possible Ancient Wrestler’s Tomb Found in Turkey",
+      "fetched_at": "2026-08-13T01:00:30.035701+00:00"
+    },
+    "54426bd9cc7bdb4b": {
+      "title": "Watch now! The Aug. 12 total solar eclipse has begun (live stream)",
+      "fetched_at": "2026-08-13T01:00:30.685674+00:00"
+    },
+    "f3eea67bfe22075f": {
+      "title": "Dogs can tell fear from sadness — and scientists saw it in their brains",
+      "fetched_at": "2026-08-13T01:00:31.371037+00:00"
+    },
+    "0c54a2f2d1f6006e": {
+      "title": "MIT neuroscientists discover the brain can reason without words",
+      "fetched_at": "2026-08-13T01:00:32.025889+00:00"
+    },
+    "b49ac43b686be8a4": {
+      "title": "“Cannot be explained” – New super steel stuns scientists",
+      "fetched_at": "2026-08-13T01:00:32.656974+00:00"
+    },
+    "de40ef6af49f424a": {
+      "title": "King Harold may have lost England by backing the wrong pope",
+      "fetched_at": "2026-08-13T01:00:33.319361+00:00"
+    },
+    "21b32cd0a698d22e": {
+      "title": "Black holes older than the Big Bang could explain dark matter",
+      "fetched_at": "2026-08-13T01:00:33.976804+00:00"
+    },
+    "55c5044311f8cd37": {
+      "title": "150-million-year-old dinosaur footprints reveal something strange about its walk",
+      "fetched_at": "2026-08-13T01:00:34.595889+00:00"
+    },
+    "a6eee16195acc2f2": {
+      "title": "The secret hidden in these ancient manuscripts isn’t written in ink",
+      "fetched_at": "2026-08-13T01:00:35.227909+00:00"
+    },
+    "7b6619d79229ef49": {
+      "title": "Exercise may help the aging brain “take out the trash”",
+      "fetched_at": "2026-08-13T01:00:35.860356+00:00"
+    },
+    "bc5480d4a66050fb": {
+      "title": "Your brain may be wired to regain lost weight",
+      "fetched_at": "2026-08-13T01:00:36.514860+00:00"
     }
   },
-  "last_updated": "2026-08-12T18:45:31.109725+00:00"
+  "last_updated": "2026-08-13T01:00:36.606383+00:00"
 }
