@@ -1,121 +1,5 @@
 {
   "articles": {
-    "9cac3841218bf2d7": {
-      "title": "Prompt Chains, Tool Calling, and MCP: How AI Agents Do Things",
-      "fetched_at": "2026-08-06T01:24:04.134863+00:00"
-    },
-    "e2ac1b97d519bdfd": {
-      "title": "Label your AI writing as AI writing",
-      "fetched_at": "2026-08-06T01:24:04.737123+00:00"
-    },
-    "3668d2979a3e159f": {
-      "title": "An AI model from Meta also hacked another company during testing",
-      "fetched_at": "2026-08-06T01:24:05.342771+00:00"
-    },
-    "996cfb159eaebaf2": {
-      "title": "How to Give AI Agent a Memory That Survives the Session",
-      "fetched_at": "2026-08-06T01:24:05.947700+00:00"
-    },
-    "2730ac4fa5725aaf": {
-      "title": "Semantic Thermodynamics – 79% LLM token reduction via narrative constraints",
-      "fetched_at": "2026-08-06T01:24:06.571002+00:00"
-    },
-    "06ec5f619194600e": {
-      "title": "Joshua Stein – On AI",
-      "fetched_at": "2026-08-06T01:24:07.232990+00:00"
-    },
-    "e487c182b2c7f29a": {
-      "title": "Uncanny ads and partisan chatbots: AI toys with San Francisco politics",
-      "fetched_at": "2026-08-06T01:24:07.845477+00:00"
-    },
-    "1dc48d82afb92c79": {
-      "title": "Meta AI model hacks another company during testing",
-      "fetched_at": "2026-08-06T01:24:08.475016+00:00"
-    },
-    "27ef5d79324d18aa": {
-      "title": "What's so hard about continuous learning?",
-      "fetched_at": "2026-08-06T01:24:09.091470+00:00"
-    },
-    "6283249a4ce22a0f": {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch own startups",
-      "fetched_at": "2026-08-06T01:24:09.718580+00:00"
-    },
-    "396461f23b80e178": {
-      "title": "Private LLM in a TEE, verified against Intel's root with no cloud in the chain",
-      "fetched_at": "2026-08-06T01:24:10.342197+00:00"
-    },
-    "e43d3a52201fceda": {
-      "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
-      "fetched_at": "2026-08-06T01:24:10.975505+00:00"
-    },
-    "6496f958a4b60baf": {
-      "title": "How to Improve the AI Frontier",
-      "fetched_at": "2026-08-06T01:24:11.592237+00:00"
-    },
-    "dc83df2ecdcae0d4": {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "fetched_at": "2026-08-06T01:24:12.217988+00:00"
-    },
-    "cdade221d571ecba": {
-      "title": "Modelregistry: Decentralizing distribution of open-source AI models",
-      "fetched_at": "2026-08-06T01:24:12.847928+00:00"
-    },
-    "3052a8d61f1ca2f2": {
-      "title": "Free book (software development in the AI era)",
-      "fetched_at": "2026-08-06T01:24:13.496702+00:00"
-    },
-    "42b6b28d7d6f6d29": {
-      "title": "AI Agents for Healthcare?",
-      "fetched_at": "2026-08-06T01:24:14.135247+00:00"
-    },
-    "3d39def7c5f9cdc8": {
-      "title": "Your phone is the most intricate machine you've ever held. Let's take it apart.",
-      "fetched_at": "2026-08-06T01:24:14.759431+00:00"
-    },
-    "e2c9fcc73a267255": {
-      "title": "Water to Go – Rewrite Any Project to Go with Any AI Coder",
-      "fetched_at": "2026-08-06T01:24:15.373068+00:00"
-    },
-    "f2954d93d3792935": {
-      "title": "Show HN: A self-improvement feedback loop for AI agent skills",
-      "fetched_at": "2026-08-06T01:24:15.975781+00:00"
-    },
-    "fc5da2764a34a028": {
-      "title": "人工智能、無人機⋯⋯科技能否取代消防員對抗山火？",
-      "fetched_at": "2026-08-06T01:24:18.776396+00:00"
-    },
-    "b08e31a1e15aaddb": {
-      "title": "「我的祖母背着我，對我的女嬰施行殘割女性生殖器」",
-      "fetched_at": "2026-08-06T01:24:19.398341+00:00"
-    },
-    "731eca19a9e30c6e": {
-      "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
-      "fetched_at": "2026-08-06T01:24:20.009933+00:00"
-    },
-    "000c323e7227db8b": {
-      "title": "唐山大地震50週年：重塑中國社會肌理半世紀的「餘震」",
-      "fetched_at": "2026-08-06T01:24:20.639497+00:00"
-    },
-    "81e285d7396f7e57": {
-      "title": "AI moderators won't run discovery interviews for another ten years",
-      "fetched_at": "2026-08-06T01:24:23.365806+00:00"
-    },
-    "7ff3507bab5329f5": {
-      "title": "A star 20 times the size of the sun died in a supernova — and telescopes around the world joined forces to watch it",
-      "fetched_at": "2026-08-06T01:24:24.006646+00:00"
-    },
-    "cd2339159badb20d": {
-      "title": "Newly Decoded Masons' Marks Reveal Clues About Ancient Libyan Gate",
-      "fetched_at": "2026-08-06T01:24:24.611886+00:00"
-    },
-    "da2403ff40e04898": {
-      "title": "Megalithic 'Giant's Tomb' Uncovered in Sardinia",
-      "fetched_at": "2026-08-06T01:24:25.241191+00:00"
-    },
-    "efdd607b7f311276": {
-      "title": "Why Did Egyptians Link Baboons and Ibises to the Moon?",
-      "fetched_at": "2026-08-06T01:24:25.849091+00:00"
-    },
     "34003fbff1dabb0a": {
       "title": "Jeff Dean: The 1% Rule for Building in AI",
       "fetched_at": "2026-08-06T08:12:23.120463+00:00"
@@ -3291,7 +3175,127 @@
     "f4249ba04ad643c6": {
       "title": "Scientists catch a “jumping gene” mid-leap between species",
       "fetched_at": "2026-08-14T00:59:31.377515+00:00"
+    },
+    "c7fb91969b8f97f2": {
+      "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030",
+      "fetched_at": "2026-08-14T07:05:58.169123+00:00"
+    },
+    "4a0810f9f4f9d28c": {
+      "title": "Duxpath AI",
+      "fetched_at": "2026-08-14T07:05:58.769240+00:00"
+    },
+    "a39fa5a89abc8330": {
+      "title": "Evaluating AI SRE Agents in Production (OpenSRE) – Evaluation",
+      "fetched_at": "2026-08-14T07:05:59.363998+00:00"
+    },
+    "8be725c21acbe178": {
+      "title": "Show HN: WinCore – Open-Source Windows Utilities for AI and PyTorch",
+      "fetched_at": "2026-08-14T07:05:59.942249+00:00"
+    },
+    "7b7afb75f898e83d": {
+      "title": "Z.ai Security",
+      "fetched_at": "2026-08-14T07:06:00.533776+00:00"
+    },
+    "a2b49ea2b5ecc343": {
+      "title": "China-linked hackers hit Taiwan in 'autonomous' AI cyber attack",
+      "fetched_at": "2026-08-14T07:06:01.127940+00:00"
+    },
+    "970b6af1d117152e": {
+      "title": "Watermarking AI Text Is Fundamentally Flawed",
+      "fetched_at": "2026-08-14T07:06:01.714837+00:00"
+    },
+    "84e13ee799aebcb6": {
+      "title": "Cory Doctorow on Why AI Won't Replace Workers, but Will Crash the Economy [video]",
+      "fetched_at": "2026-08-14T07:06:02.300731+00:00"
+    },
+    "30ea3334088db81a": {
+      "title": "AI Stock Research Assistant · Streamlit",
+      "fetched_at": "2026-08-14T07:06:02.932648+00:00"
+    },
+    "246f1b454c29d7a1": {
+      "title": "AI-driven surge in bond yields could be next risk for markets and growth",
+      "fetched_at": "2026-08-14T07:06:03.539608+00:00"
+    },
+    "4d384c7f9ef30e65": {
+      "title": "A desktop AI copilot for interview questions and coding screenshots",
+      "fetched_at": "2026-08-14T07:06:04.166386+00:00"
+    },
+    "f48134ac8be1642f": {
+      "title": "Show HN: Lexicon AI – Exam-focused vocabulary journal for SAT and IELTS prep",
+      "fetched_at": "2026-08-14T07:06:04.771733+00:00"
+    },
+    "5390c7715406f018": {
+      "title": "Apple trains its own AI model for China market with Alibaba's support",
+      "fetched_at": "2026-08-14T07:06:05.361162+00:00"
+    },
+    "4d77a91b4e32e1a7": {
+      "title": "FieldRobin – AI-native field service software for small service businesses",
+      "fetched_at": "2026-08-14T07:06:05.995511+00:00"
+    },
+    "5a1f44abf2785842": {
+      "title": "Elon Musk is suing California over an AI law. Here's why transparency matters",
+      "fetched_at": "2026-08-14T07:06:06.582985+00:00"
+    },
+    "db5b6c8ecf8c046d": {
+      "title": "Executable SOAR playbook dataset – AI agents pay per record via HTTP 402",
+      "fetched_at": "2026-08-14T07:06:07.209700+00:00"
+    },
+    "511b42ec897c5a8e": {
+      "title": "How AI engines cite brands?",
+      "fetched_at": "2026-08-14T07:06:07.810602+00:00"
+    },
+    "e99be2d1640417d8": {
+      "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
+      "fetched_at": "2026-08-14T07:06:08.408551+00:00"
+    },
+    "c751080bd5dbdcd6": {
+      "title": "AI Coding Has Erased the Supposed Advantage of Statically Typed Languages",
+      "fetched_at": "2026-08-14T07:06:09.018270+00:00"
+    },
+    "f0a24b8cfa1f3503": {
+      "title": "An open-source knowledge graph for traceable AI decisions",
+      "fetched_at": "2026-08-14T07:06:09.608374+00:00"
+    },
+    "20158c3758bfdb93": {
+      "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
+      "fetched_at": "2026-08-14T07:06:12.609752+00:00"
+    },
+    "6a30a79c5bc90dca": {
+      "title": "美國稱數十國助中國避特朗普關稅",
+      "fetched_at": "2026-08-14T07:06:13.196786+00:00"
+    },
+    "0211d4c0691ba171": {
+      "title": "美国想在人形机器人赛道与中国竞争，这并非易事",
+      "fetched_at": "2026-08-14T07:06:13.787917+00:00"
+    },
+    "3f39c1062f010ae0": {
+      "title": "效仿中国？特朗普授权美国企业参与黑客行动",
+      "fetched_at": "2026-08-14T07:06:14.376041+00:00"
+    },
+    "054e3aa0ce383eea": {
+      "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
+      "fetched_at": "2026-08-14T07:06:14.966235+00:00"
+    },
+    "9f88cb75edb63d92": {
+      "title": "普京首次访问日俄争议岛屿，激怒东京",
+      "fetched_at": "2026-08-14T07:06:15.586999+00:00"
+    },
+    "625ceff82289f399": {
+      "title": "朱镕基去世，中国人哀悼一个更加开放、充满希望的时代",
+      "fetched_at": "2026-08-14T07:06:16.181502+00:00"
+    },
+    "f5b75bb477fdb44d": {
+      "title": "2000万被系统性抹去的人：阿富汗女性的孤立绝境",
+      "fetched_at": "2026-08-14T07:06:16.795800+00:00"
+    },
+    "83d6bbebfdf61409": {
+      "title": "朱鎔基：台灣記住「搞台獨沒好下場」 香港感念「挺港功臣」",
+      "fetched_at": "2026-08-14T07:06:17.391528+00:00"
+    },
+    "694ab39747dc3b43": {
+      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
+      "fetched_at": "2026-08-14T07:06:17.979217+00:00"
     }
   },
-  "last_updated": "2026-08-14T00:59:31.498826+00:00"
+  "last_updated": "2026-08-14T07:06:20.021143+00:00"
 }
