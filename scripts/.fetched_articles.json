@@ -1,133 +1,5 @@
 {
   "articles": {
-    "03d6346d95fa7ffb": {
-      "title": "Show HN: I used LLM to reverse-engineer secure-enclaved fingerprint scanner",
-      "fetched_at": "2026-08-07T12:37:30.456377+00:00"
-    },
-    "d09c2de0921f398d": {
-      "title": "Survey: AI Impact on Security",
-      "fetched_at": "2026-08-07T12:37:31.072775+00:00"
-    },
-    "bfcfdb72a45d0a50": {
-      "title": "Ask HN: Has AI accelerated Rust adoption?",
-      "fetched_at": "2026-08-07T12:37:31.694407+00:00"
-    },
-    "006667b1df2ce00b": {
-      "title": "What are the most overhyped trends in AI?",
-      "fetched_at": "2026-08-07T12:37:32.340183+00:00"
-    },
-    "650fb0e8ac95adbd": {
-      "title": "How Does AI Interpret Consent: A Look Inside Claude Code's Safety Classifier",
-      "fetched_at": "2026-08-07T12:37:32.953256+00:00"
-    },
-    "e367563da2f49047": {
-      "title": "AI Brain Fry Is Real, and Devs Are Fighting Back – What's Up Devs? #8",
-      "fetched_at": "2026-08-07T12:37:33.565875+00:00"
-    },
-    "d4586b28529ea6c1": {
-      "title": "Show HN: Akintu – AI agents trained on custom knowledge bases using RAG",
-      "fetched_at": "2026-08-07T12:37:34.191771+00:00"
-    },
-    "c53f789d5185b380": {
-      "title": "Design Systems in the Age of AI: Five Working Hypotheses",
-      "fetched_at": "2026-08-07T12:37:34.835999+00:00"
-    },
-    "a4a43c39f9bcc37a": {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "fetched_at": "2026-08-07T12:37:35.448078+00:00"
-    },
-    "901f5df39efc2b43": {
-      "title": "Tryall –- describe the task, and it picks the AI model for you",
-      "fetched_at": "2026-08-07T12:37:36.092566+00:00"
-    },
-    "b146a8baea84b077": {
-      "title": "UX Design Research – reflections on the role of UX design in the age of AI",
-      "fetched_at": "2026-08-07T12:37:36.701138+00:00"
-    },
-    "0a281f96d8dbd468": {
-      "title": "The AI Cost Rebellion Is About Unit Economics",
-      "fetched_at": "2026-08-07T12:37:37.323746+00:00"
-    },
-    "14007b4da8afc54f": {
-      "title": "My Space Cadet Pinball Machine Finally Has Wormholes! [video]",
-      "fetched_at": "2026-08-07T12:37:37.947092+00:00"
-    },
-    "ff80dcc065773836": {
-      "title": "From LLM to shopping cart (Portugal)",
-      "fetched_at": "2026-08-07T12:37:38.570949+00:00"
-    },
-    "d448f97cc1a42844": {
-      "title": "AI Meet CAD: Beat Opus/Mythos 5, GPT 5.6 Sol on BenchCAD",
-      "fetched_at": "2026-08-07T12:37:39.181964+00:00"
-    },
-    "c154676728829348": {
-      "title": "\"Aura\" and the Backlash Against the Slop Machine",
-      "fetched_at": "2026-08-07T12:37:39.797502+00:00"
-    },
-    "1c6a0613d3e52fb4": {
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "fetched_at": "2026-08-07T12:37:40.415214+00:00"
-    },
-    "cb61949ae2ecd56c": {
-      "title": "Ask HN: Is there an AI app that generates a feed of personalized cheat sheets",
-      "fetched_at": "2026-08-07T12:37:41.030335+00:00"
-    },
-    "c8a3e58a8d8144dd": {
-      "title": "An explosion of new AI-written genealogy tree tools",
-      "fetched_at": "2026-08-07T12:37:41.683171+00:00"
-    },
-    "636be4a9014b1cff": {
-      "title": "AI danger explained for people who don't understand full sentences",
-      "fetched_at": "2026-08-07T12:37:42.294642+00:00"
-    },
-    "3f6618edc5185d84": {
-      "title": "泰國校園槍擊案至少七人死亡 槍手同告斃命",
-      "fetched_at": "2026-08-07T12:37:44.468086+00:00"
-    },
-    "f54773693631c1a2": {
-      "title": "人工智能被用於設計全新病毒",
-      "fetched_at": "2026-08-07T12:37:45.084991+00:00"
-    },
-    "7ecf712d95478940": {
-      "title": "Uberaba Geopark: A time capsule from the Late Cretaceous period nestled in Brazil's tropical savanna",
-      "fetched_at": "2026-08-07T12:37:47.607960+00:00"
-    },
-    "ae673a4932f98340": {
-      "title": "New recyclable yarn is as stretchy as spandex and could help tackle fashion's plastic waste problem",
-      "fetched_at": "2026-08-07T12:37:48.218640+00:00"
-    },
-    "4d1c5865fda1bfbd": {
-      "title": "NASA grants Voyager 2 probe another year of power with risky 'Big Bang' maneuver. Now, will it work for Voyager 1?",
-      "fetched_at": "2026-08-07T12:37:48.830372+00:00"
-    },
-    "f50553606e96751f": {
-      "title": "AI found a weakness in one of the world's most studied encryption systems — is your data under threat?",
-      "fetched_at": "2026-08-07T12:37:49.449128+00:00"
-    },
-    "d76761a0c1ec45ec": {
-      "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
-      "fetched_at": "2026-08-07T12:37:50.064895+00:00"
-    },
-    "33b22dbabbd9a306": {
-      "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
-      "fetched_at": "2026-08-07T12:37:50.762662+00:00"
-    },
-    "9067bea970ccc2cf": {
-      "title": "The key to colonizing Mars may be hidden inside asteroids",
-      "fetched_at": "2026-08-07T12:37:51.382011+00:00"
-    },
-    "e0c9eab9c024bfd4": {
-      "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
-      "fetched_at": "2026-08-07T12:37:51.993270+00:00"
-    },
-    "aa9eee3ae444e63d": {
-      "title": "Scientists rediscover lost Megalodon fossils—and reveal a 79-foot giant",
-      "fetched_at": "2026-08-07T12:37:52.610472+00:00"
-    },
-    "8599e8a502b37d3a": {
-      "title": "Scientists discover a hidden brain shift that begins around age 50",
-      "fetched_at": "2026-08-07T12:37:53.214053+00:00"
-    },
     "c9f56b5c5a0b8b8c": {
       "title": "What&#8217;s behind the Google AI shake-up",
       "fetched_at": "2026-08-07T18:37:38.885975+00:00"
@@ -3207,7 +3079,103 @@
     "7a94d5bf7c82ec6c": {
       "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
       "fetched_at": "2026-08-15T12:15:26.434981+00:00"
+    },
+    "77e3ec3f748cb1e8": {
+      "title": "Ask HN: Will AI lead to complete human irrelevance?",
+      "fetched_at": "2026-08-15T18:12:18.553680+00:00"
+    },
+    "61eb61818e9f556d": {
+      "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
+      "fetched_at": "2026-08-15T18:12:19.122106+00:00"
+    },
+    "3fa2ed086a7cafce": {
+      "title": "Don't let AI rob you",
+      "fetched_at": "2026-08-15T18:12:19.696445+00:00"
+    },
+    "a3dd2ea9e79c94b0": {
+      "title": "5G, full bars, nothing loads: Or how I learned to start learning with LLMs",
+      "fetched_at": "2026-08-15T18:12:20.270313+00:00"
+    },
+    "a872983c0066dedb": {
+      "title": "Open Sourcing the Atuin AI Server",
+      "fetched_at": "2026-08-15T18:12:20.834226+00:00"
+    },
+    "92e3a24c5ac5efcb": {
+      "title": "Briefing on Extinction-Level AI Threats",
+      "fetched_at": "2026-08-15T18:12:21.414449+00:00"
+    },
+    "89034d1f7c00a5ac": {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "fetched_at": "2026-08-15T18:12:21.994343+00:00"
+    },
+    "277d0bea7cd81864": {
+      "title": "US to tell partners they must pick sides in AI race with China",
+      "fetched_at": "2026-08-15T18:12:22.551633+00:00"
+    },
+    "e042ba12527cfbd2": {
+      "title": "Godfather of AI: \"If you sleep well tonight...\" [video]",
+      "fetched_at": "2026-08-15T18:12:23.114090+00:00"
+    },
+    "790b33d53733124c": {
+      "title": "Is AI Coding Effecting Our Mental Health? [video]",
+      "fetched_at": "2026-08-15T18:12:23.669962+00:00"
+    },
+    "d3cd39cc5db4f1e1": {
+      "title": "Show HN: MyFirst.News – AI-generated podcast for curious kids",
+      "fetched_at": "2026-08-15T18:12:24.245981+00:00"
+    },
+    "c9d0234872c63b1c": {
+      "title": "Ask HN: How to Stay Marketable in the AI Era?",
+      "fetched_at": "2026-08-15T18:12:24.818467+00:00"
+    },
+    "6214be9fc2efdfe4": {
+      "title": "Show HN: Mimi – the free language learning app that anyone can edit",
+      "fetched_at": "2026-08-15T18:12:25.380974+00:00"
+    },
+    "a455f31bc9e98826": {
+      "title": "SpaceX has acquired coding AI startup Cursor",
+      "fetched_at": "2026-08-15T18:12:25.952082+00:00"
+    },
+    "d1f4a4220f75843d": {
+      "title": "Mee Manga Translator: AI manga translation that preserves original artwork",
+      "fetched_at": "2026-08-15T18:12:26.512317+00:00"
+    },
+    "7fb0798665d3b0d6": {
+      "title": "Has anyone tried this tool to improve LLM visibility?",
+      "fetched_at": "2026-08-15T18:12:27.071945+00:00"
+    },
+    "dd9127930f40d7ad": {
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "fetched_at": "2026-08-15T18:12:27.634128+00:00"
+    },
+    "c55f259a19fd1f1d": {
+      "title": "The Israeli Influence Machine",
+      "fetched_at": "2026-08-15T18:12:28.203921+00:00"
+    },
+    "fb52ccc009169420": {
+      "title": "We built a realtime system for responsive voice AI in six months",
+      "fetched_at": "2026-08-15T18:12:28.766941+00:00"
+    },
+    "2bae21067ebdd37f": {
+      "title": "China is shaping the future of open‑source technology – including AI",
+      "fetched_at": "2026-08-15T18:12:29.335040+00:00"
+    },
+    "7d29994a4d74f5c1": {
+      "title": "4 lemurs die of human herpesvirus, including one that had been used in a 'lemur yoga' class",
+      "fetched_at": "2026-08-15T18:12:34.456067+00:00"
+    },
+    "3db9cb1965a38988": {
+      "title": "A 30-year-old fossil was hiding bones from a mysterious ancient sea monster",
+      "fetched_at": "2026-08-15T18:12:35.046967+00:00"
+    },
+    "8668959e4cbf330f": {
+      "title": "Common food preservative linked to rising suicide deaths among young people",
+      "fetched_at": "2026-08-15T18:12:35.626057+00:00"
+    },
+    "40448bdb53408626": {
+      "title": "A 60-year-old theory about ants, bees and wasps may be wrong",
+      "fetched_at": "2026-08-15T18:12:36.195742+00:00"
     }
   },
-  "last_updated": "2026-08-15T12:15:26.507617+00:00"
+  "last_updated": "2026-08-15T18:12:36.315922+00:00"
 }
