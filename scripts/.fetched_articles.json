@@ -1,117 +1,5 @@
 {
   "articles": {
-    "aa1cb17ba67d3b6d": {
-      "title": "SEAI: Hardware-rooted identity for autonomous AI",
-      "fetched_at": "2026-08-07T02:02:47.635534+00:00"
-    },
-    "cbdc6200c107a303": {
-      "title": "How Goldman Sachs Is Using Agentic AI for Software Engineering at Scale",
-      "fetched_at": "2026-08-07T02:02:48.253589+00:00"
-    },
-    "1033e91d7b8ff111": {
-      "title": "Show HN: Selvedge – an append-only log of what your AI agent already rejected",
-      "fetched_at": "2026-08-07T02:02:48.873567+00:00"
-    },
-    "38b0578269c760b1": {
-      "title": "One of China's Most Powerful AI Models Has Also Broken Containment",
-      "fetched_at": "2026-08-07T02:02:49.493844+00:00"
-    },
-    "aac9637e3887a345": {
-      "title": "A Society for AI Agents",
-      "fetched_at": "2026-08-07T02:02:50.101225+00:00"
-    },
-    "3f478160dccfa263": {
-      "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations",
-      "fetched_at": "2026-08-07T02:02:50.743115+00:00"
-    },
-    "ea25bf5041ad2e81": {
-      "title": "A glimpse from China of AI's future",
-      "fetched_at": "2026-08-07T02:02:51.361497+00:00"
-    },
-    "9bd4fe958b80a3e0": {
-      "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
-      "fetched_at": "2026-08-07T02:02:51.994967+00:00"
-    },
-    "5e74df3a41616f5e": {
-      "title": "Open source Cloud AI agents",
-      "fetched_at": "2026-08-07T02:02:52.613103+00:00"
-    },
-    "5b3069165e47b560": {
-      "title": "New Orleans will use AI to answer 911 calls instead of a human",
-      "fetched_at": "2026-08-07T02:02:53.233640+00:00"
-    },
-    "86b97c936ea4d5a3": {
-      "title": "Tracely – Turn AI agent production failures into CI regression tests",
-      "fetched_at": "2026-08-07T02:02:53.878931+00:00"
-    },
-    "3f874e6545ea16b7": {
-      "title": "I launched a fake deodorant brand to see if AI would notice",
-      "fetched_at": "2026-08-07T02:02:54.492450+00:00"
-    },
-    "daa01b12f87e8fc1": {
-      "title": "Trump's AI Framework Is So Bad They Won't Show You What's in It",
-      "fetched_at": "2026-08-07T02:02:55.139907+00:00"
-    },
-    "41e862aaae57b64b": {
-      "title": "Show HN: AI Tutoring with Visual Grounding",
-      "fetched_at": "2026-08-07T02:02:55.753856+00:00"
-    },
-    "0183b0049ad5ba52": {
-      "title": "Google Shifts AI Power Back to Brin as DeepMind's Hassabis Steps Aside",
-      "fetched_at": "2026-08-07T02:02:55.753995+00:00"
-    },
-    "b2747c63f7e7a9c6": {
-      "title": "Suno shares plans to combat spammy AI music",
-      "fetched_at": "2026-08-07T02:02:56.390897+00:00"
-    },
-    "2eed3beb1b8a58cc": {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "fetched_at": "2026-08-07T02:02:57.013418+00:00"
-    },
-    "2991c55f23246b23": {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "fetched_at": "2026-08-07T02:02:57.665992+00:00"
-    },
-    "4b0bca1760cb9881": {
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "fetched_at": "2026-08-07T02:02:58.303051+00:00"
-    },
-    "b5bc660259f56dad": {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "fetched_at": "2026-08-07T02:02:58.917407+00:00"
-    },
-    "3e9793ea92a5bd5b": {
-      "title": "战争、高温、难民危机：失去对自身命运掌控的欧洲",
-      "fetched_at": "2026-08-07T02:03:01.221229+00:00"
-    },
-    "7772a26c7708356c": {
-      "title": "一半疫苗被丟棄讓人不解，免冷藏版本有望減少浪費",
-      "fetched_at": "2026-08-07T02:03:01.909057+00:00"
-    },
-    "c887e1e4a0a19803": {
-      "title": "歐洲乾旱與河流乾涸：炸彈、戰艦殘骸、猛獁象骨骸重見天日",
-      "fetched_at": "2026-08-07T02:03:02.520920+00:00"
-    },
-    "5620629eb5d9ce53": {
-      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
-      "fetched_at": "2026-08-07T02:03:03.214286+00:00"
-    },
-    "201f46abccda1e69": {
-      "title": "Your gut may help your brain decide what to remember",
-      "fetched_at": "2026-08-07T02:03:20.480161+00:00"
-    },
-    "ff32ed9cad6786d2": {
-      "title": "New microwave frying method could make french fries much healthier",
-      "fetched_at": "2026-08-07T02:03:21.100025+00:00"
-    },
-    "cde1b388d082608c": {
-      "title": "Can’t sleep in the heat? These 8 tricks could save your night",
-      "fetched_at": "2026-08-07T02:03:21.722203+00:00"
-    },
-    "eab856bbe2df1c06": {
-      "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
-      "fetched_at": "2026-08-07T02:03:22.343553+00:00"
-    },
     "1eadc84d26302133": {
       "title": "First free TTS, STT and LLM three in one",
       "fetched_at": "2026-08-07T06:58:10.337316+00:00"
@@ -3271,7 +3159,91 @@
     "5352a197eac80909": {
       "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
       "fetched_at": "2026-08-15T00:37:22.046887+00:00"
+    },
+    "ef6d52a90cf8557b": {
+      "title": "Google Opens the Gates of AI Slop Hell",
+      "fetched_at": "2026-08-15T06:18:34.729191+00:00"
+    },
+    "2cdfb528a21295bf": {
+      "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
+      "fetched_at": "2026-08-15T06:18:35.343828+00:00"
+    },
+    "25349007e13b1119": {
+      "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
+      "fetched_at": "2026-08-15T06:18:35.986451+00:00"
+    },
+    "6c181ab4979814d6": {
+      "title": "An Autonomous Framework for Systematic Factor Invest via Agentic AI",
+      "fetched_at": "2026-08-15T06:18:36.603520+00:00"
+    },
+    "dec77695d3ea10a1": {
+      "title": "Did the AI Bubble Just Pop?",
+      "fetched_at": "2026-08-15T06:18:37.223860+00:00"
+    },
+    "72f42270b790dded": {
+      "title": "Show HN: GPT, Claude, Gemini. Ask them all. Pay for one",
+      "fetched_at": "2026-08-15T06:18:37.839622+00:00"
+    },
+    "644fde2d07772b51": {
+      "title": "Show HN: I spent 3 months making desktop automation stop lying to AI agents",
+      "fetched_at": "2026-08-15T06:18:38.466005+00:00"
+    },
+    "eb3a178480410805": {
+      "title": "Single-provider vs. multi-provider architectures for multimodal AI apps",
+      "fetched_at": "2026-08-15T06:18:39.074947+00:00"
+    },
+    "f55b913394a60050": {
+      "title": "Show HN: AI Meeting Assistant in Browser",
+      "fetched_at": "2026-08-15T06:18:39.696943+00:00"
+    },
+    "66a3f398c8689a5d": {
+      "title": "Agents on Rails: The LLM Benchmark Project",
+      "fetched_at": "2026-08-15T06:18:40.319795+00:00"
+    },
+    "05ace9c49bfa8372": {
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "fetched_at": "2026-08-15T06:18:40.935779+00:00"
+    },
+    "71d85b3ed58e8250": {
+      "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+      "fetched_at": "2026-08-15T06:18:41.554309+00:00"
+    },
+    "de5bc32a057b2be2": {
+      "title": "Best AI solution to hunt for buffer overflows in open source apps?",
+      "fetched_at": "2026-08-15T06:18:42.178569+00:00"
+    },
+    "142727230a101e68": {
+      "title": "Dynatrace to buy AI observability startup Arize for $915M",
+      "fetched_at": "2026-08-15T06:18:42.803693+00:00"
+    },
+    "f2930ae069178cb1": {
+      "title": "Show HN: Deltix – AI Driven Testing",
+      "fetched_at": "2026-08-15T06:18:43.420847+00:00"
+    },
+    "bc21311e3a83e443": {
+      "title": "Cox–Zucker Machine",
+      "fetched_at": "2026-08-15T06:18:44.190094+00:00"
+    },
+    "1927ff87948bf18f": {
+      "title": "Show HN: WMTrace – See how LLM text watermarks work (Anthropic just adopted one)",
+      "fetched_at": "2026-08-15T06:18:44.803936+00:00"
+    },
+    "39423d157a46364c": {
+      "title": "An Infamous Math Problem Closer to Being Solved by Encouraging AI",
+      "fetched_at": "2026-08-15T06:18:45.420290+00:00"
+    },
+    "c0e0d7f6c84f54ae": {
+      "title": "Thank you to the people building these AI tools",
+      "fetched_at": "2026-08-15T06:18:46.053347+00:00"
+    },
+    "d4e5899983646a49": {
+      "title": "Moche Pottery Center Excavated",
+      "fetched_at": "2026-08-15T06:18:55.608456+00:00"
+    },
+    "0ed44070f4c62d60": {
+      "title": "Drought Exposes Roman Bridge in Bulgaria",
+      "fetched_at": "2026-08-15T06:18:56.239373+00:00"
     }
   },
-  "last_updated": "2026-08-15T00:37:22.165492+00:00"
+  "last_updated": "2026-08-15T06:18:56.322170+00:00"
 }
