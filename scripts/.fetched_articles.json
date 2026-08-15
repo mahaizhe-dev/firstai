@@ -1,133 +1,5 @@
 {
   "articles": {
-    "f64732633e73238b": {
-      "title": "Quake: Dawn of the Machine – Launch Trailer [video]",
-      "fetched_at": "2026-08-06T23:47:27.976409+00:00"
-    },
-    "63fa30db80364607": {
-      "title": "Show HN: ARF – a record format for AI evaluation runs, with reproducible digests",
-      "fetched_at": "2026-08-06T23:47:28.591824+00:00"
-    },
-    "0180dd5128968b99": {
-      "title": "Intuitize – The Thoughtful AI",
-      "fetched_at": "2026-08-06T23:47:29.204925+00:00"
-    },
-    "d2089a765d186107": {
-      "title": "The energy use of agentic AI",
-      "fetched_at": "2026-08-06T23:47:29.833732+00:00"
-    },
-    "ff88c280ffd69f1f": {
-      "title": "Social Media AI Agent That Works over WhatsApp",
-      "fetched_at": "2026-08-06T23:47:30.442503+00:00"
-    },
-    "7790c62e5a3fda52": {
-      "title": "Show HN: GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor",
-      "fetched_at": "2026-08-06T23:47:31.052341+00:00"
-    },
-    "2991551f2481dcc7": {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "fetched_at": "2026-08-06T23:47:31.659080+00:00"
-    },
-    "280859c4ebf18ea7": {
-      "title": "Introducing Dogwood: runtime verification for AI agents",
-      "fetched_at": "2026-08-06T23:47:32.272347+00:00"
-    },
-    "b2f5f060818c36d0": {
-      "title": "PyTorch Tutorial for Deep Learning – The JetBrains Blog",
-      "fetched_at": "2026-08-06T23:47:32.891467+00:00"
-    },
-    "11ff2d0b62484580": {
-      "title": "OpenAI and four rivals just agreed on one standard for AI agents",
-      "fetched_at": "2026-08-06T23:47:33.506268+00:00"
-    },
-    "29d656c58b617bd8": {
-      "title": "The messy politics behind Google's big AI shakeup",
-      "fetched_at": "2026-08-06T23:47:33.506396+00:00"
-    },
-    "498adb1c1685f711": {
-      "title": "BMS ran AI for drug discovery 3 years- what they found and why they doubled down",
-      "fetched_at": "2026-08-06T23:47:34.110739+00:00"
-    },
-    "dfcd0ea684b93e0b": {
-      "title": "Why AI is a risk to Communist China",
-      "fetched_at": "2026-08-06T23:47:34.722067+00:00"
-    },
-    "e134d91987de50a0": {
-      "title": "Google shifts AI power back to Brin as DeepMind's Hassabis steps aside",
-      "fetched_at": "2026-08-06T23:47:35.334061+00:00"
-    },
-    "02f8df851246325e": {
-      "title": "China built its 'Manhattan Project' to rival the West in AI chips [video]",
-      "fetched_at": "2026-08-06T23:47:35.947217+00:00"
-    },
-    "e6d607a411f0722c": {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "fetched_at": "2026-08-06T23:47:36.560751+00:00"
-    },
-    "2887d43e3fca510d": {
-      "title": "Brainscope/examples/ESP32 Watch a microcontroller's LLM think",
-      "fetched_at": "2026-08-06T23:47:37.178478+00:00"
-    },
-    "9c70aa551fab672d": {
-      "title": "AMD buys Taalas, chip startup that hardwires AI models into its silicon",
-      "fetched_at": "2026-08-06T23:47:37.797404+00:00"
-    },
-    "4b3135ec0e475209": {
-      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "fetched_at": "2026-08-06T23:47:38.407893+00:00"
-    },
-    "8b83f90aa735a8a0": {
-      "title": "Unlimited text chats with GPT-5.6 Luna for everyone",
-      "fetched_at": "2026-08-06T23:47:39.014315+00:00"
-    },
-    "f9e5247e34a868db": {
-      "title": "唐山大地震50週年：五個鮮為人知的歷史細節",
-      "fetched_at": "2026-08-06T23:47:41.556489+00:00"
-    },
-    "afaa29c41ba1f248": {
-      "title": "Most-detailed-ever view of the sun's surface revealed in new images from the world's largest solar telescope",
-      "fetched_at": "2026-08-06T23:47:43.259965+00:00"
-    },
-    "7b918cc99a5fed70": {
-      "title": "'It would be a disaster': Ammunition for war and surging water withdrawals are putting the Caspian Sea ‪on the brink of collapse",
-      "fetched_at": "2026-08-06T23:47:43.870400+00:00"
-    },
-    "0aa68c580eb2077b": {
-      "title": "Jeff Dean's Discovery Loop Should Automate Chip Design First",
-      "fetched_at": "2026-08-06T23:47:44.491521+00:00"
-    },
-    "00f1f03022303538": {
-      "title": "Bronze Age Hoard Uncovered in Czech Wetland",
-      "fetched_at": "2026-08-06T23:47:45.109608+00:00"
-    },
-    "4af6833757b1f9ad": {
-      "title": "FDA approves first mRNA vaccine for seasonal flu",
-      "fetched_at": "2026-08-06T23:47:45.721597+00:00"
-    },
-    "8e31e08c1187dcdb": {
-      "title": "The Genesis of Object-Oriented Programming (OOP): A Historical Overview (2023)",
-      "fetched_at": "2026-08-06T23:47:46.342806+00:00"
-    },
-    "ffc429e64867d6f0": {
-      "title": "Rare Native American Vessel Unearthed at Former Spanish Mission",
-      "fetched_at": "2026-08-06T23:47:46.968315+00:00"
-    },
-    "3e3546515e7899cd": {
-      "title": "First photos of SpaceX lunar rocket crash show blackened hole torn into the moon's surface",
-      "fetched_at": "2026-08-06T23:47:47.581196+00:00"
-    },
-    "69804f1d6af3a665": {
-      "title": "Unique Statue Found in Western Turkey",
-      "fetched_at": "2026-08-06T23:47:48.202311+00:00"
-    },
-    "14ceebd3369dbae0": {
-      "title": "Backward eclipse? Why the Aug. 12 total solar eclipse appears to move the wrong way on maps",
-      "fetched_at": "2026-08-06T23:47:48.814992+00:00"
-    },
-    "e841b96c30afe784": {
-      "title": "Microbial DNA hidden under Antarctica offers new clues about how the continent’s mysterious Blood Falls came to be",
-      "fetched_at": "2026-08-06T23:47:49.441320+00:00"
-    },
     "aa1cb17ba67d3b6d": {
       "title": "SEAI: Hardware-rooted identity for autonomous AI",
       "fetched_at": "2026-08-07T02:02:47.635534+00:00"
@@ -3295,7 +3167,111 @@
     "86b151fd27fba234": {
       "title": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
       "fetched_at": "2026-08-14T18:39:15.990469+00:00"
+    },
+    "7d5849bdab287d37": {
+      "title": "Mark Zuckerberg has an Instagzam",
+      "fetched_at": "2026-08-15T00:34:47.035907+00:00"
+    },
+    "5d16e6c8fd775f70": {
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "fetched_at": "2026-08-15T00:34:47.606441+00:00"
+    },
+    "898804b3e98074d4": {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "fetched_at": "2026-08-15T00:34:48.172070+00:00"
+    },
+    "bc656c906d16ae11": {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "fetched_at": "2026-08-15T00:34:48.732962+00:00"
+    },
+    "45ef866f50d05300": {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "fetched_at": "2026-08-15T00:34:49.289268+00:00"
+    },
+    "efd68702f4315bee": {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "fetched_at": "2026-08-15T00:34:49.854458+00:00"
+    },
+    "e19e294ef41aee29": {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "fetched_at": "2026-08-15T00:34:50.419669+00:00"
+    },
+    "f3dc03a782635e15": {
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "fetched_at": "2026-08-15T00:34:50.982700+00:00"
+    },
+    "14cdadde3d036da0": {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "fetched_at": "2026-08-15T00:34:51.551724+00:00"
+    },
+    "b139e2839102867f": {
+      "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
+      "fetched_at": "2026-08-15T00:34:52.116442+00:00"
+    },
+    "22b62b63ec56d637": {
+      "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
+      "fetched_at": "2026-08-15T00:34:52.684053+00:00"
+    },
+    "6976521e3fee4f48": {
+      "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
+      "fetched_at": "2026-08-15T00:34:53.254064+00:00"
+    },
+    "61869c833fab13b4": {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "fetched_at": "2026-08-15T00:34:53.813232+00:00"
+    },
+    "ee8f166a3ff1c71b": {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "fetched_at": "2026-08-15T00:34:54.385310+00:00"
+    },
+    "eb6b92a0f31e54bc": {
+      "title": "OpenAI is losing its second executive this week",
+      "fetched_at": "2026-08-15T00:34:54.980371+00:00"
+    },
+    "af25545e09eef53f": {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "fetched_at": "2026-08-15T00:34:55.542376+00:00"
+    },
+    "2087ace5e10a8f68": {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "fetched_at": "2026-08-15T00:34:56.100801+00:00"
+    },
+    "4e210cb0ff9dcb56": {
+      "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
+      "fetched_at": "2026-08-15T00:34:59.456280+00:00"
+    },
+    "96a0fee2d79c21e4": {
+      "title": "Show HN: Biasly.ai – Bias detection with historical context",
+      "fetched_at": "2026-08-15T00:37:18.037967+00:00"
+    },
+    "d946af4a67219388": {
+      "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
+      "fetched_at": "2026-08-15T00:37:18.606730+00:00"
+    },
+    "1e871c6e41eb7175": {
+      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
+      "fetched_at": "2026-08-15T00:37:19.170110+00:00"
+    },
+    "3bc7e9b2d16bf159": {
+      "title": "Human brain cells are far more powerful than scientists thought",
+      "fetched_at": "2026-08-15T00:37:19.758821+00:00"
+    },
+    "4dc674c21a305673": {
+      "title": "Why your brain keeps making the same decisions – even when better options exist",
+      "fetched_at": "2026-08-15T00:37:20.327509+00:00"
+    },
+    "4d134c64a75d433b": {
+      "title": "Scientists discover the brain has a fast lane and slow lane for clearing waste",
+      "fetched_at": "2026-08-15T00:37:20.897500+00:00"
+    },
+    "722afeefbf377844": {
+      "title": "A star’s violent death exposed a hidden supermassive black hole",
+      "fetched_at": "2026-08-15T00:37:21.463191+00:00"
+    },
+    "5352a197eac80909": {
+      "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+      "fetched_at": "2026-08-15T00:37:22.046887+00:00"
     }
   },
-  "last_updated": "2026-08-14T18:39:16.078531+00:00"
+  "last_updated": "2026-08-15T00:37:22.165492+00:00"
 }
