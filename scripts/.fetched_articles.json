@@ -1,125 +1,5 @@
 {
   "articles": {
-    "1eadc84d26302133": {
-      "title": "First free TTS, STT and LLM three in one",
-      "fetched_at": "2026-08-07T06:58:10.337316+00:00"
-    },
-    "9ce4dbed3b45ef81": {
-      "title": "AI creates 16 new viruses from scratch",
-      "fetched_at": "2026-08-07T06:58:10.922176+00:00"
-    },
-    "96fec0c53cf8a100": {
-      "title": "SparSEEty: Extracting Tokens from Sparsity-Exploiting LLM Serving Systems",
-      "fetched_at": "2026-08-07T06:58:11.545886+00:00"
-    },
-    "3259f9f5518f45d1": {
-      "title": "Foomflops: Three Decades of AI Predictions",
-      "fetched_at": "2026-08-07T06:58:12.128819+00:00"
-    },
-    "d2e1d0a294719f5b": {
-      "title": "Being given a 100% AI generated score for your own mental work hurts",
-      "fetched_at": "2026-08-07T06:58:12.727663+00:00"
-    },
-    "c771d6057c985bcf": {
-      "title": "AI-generated vulnerability patches still require expert human review",
-      "fetched_at": "2026-08-07T06:58:13.387390+00:00"
-    },
-    "779c9c2e93fb67d2": {
-      "title": "Proving you are AI, not just automated",
-      "fetched_at": "2026-08-07T06:58:13.990917+00:00"
-    },
-    "b81677714ba0fe81": {
-      "title": "Cloudflare OS – Build the AI operating system for your company",
-      "fetched_at": "2026-08-07T06:58:14.624672+00:00"
-    },
-    "6c9daf911c743ca3": {
-      "title": "Pivotal role of reinforcement learning in modern large language models",
-      "fetched_at": "2026-08-07T06:58:15.224653+00:00"
-    },
-    "cad7706f852f8c2c": {
-      "title": "Built an exclusion engine and it might be what comes after AI slop",
-      "fetched_at": "2026-08-07T06:58:15.815408+00:00"
-    },
-    "00c284b31eb311de": {
-      "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音",
-      "fetched_at": "2026-08-07T06:58:16.434695+00:00"
-    },
-    "b1325943a1a59b04": {
-      "title": "Ask HN: What will be the Chernobyl or Bhopal scale industrial disaster of AI?",
-      "fetched_at": "2026-08-07T06:58:17.021299+00:00"
-    },
-    "1d12a940758946b7": {
-      "title": "SciCode-Verified: How Benchmark Defects Underestimated LLM Scientific-Coding",
-      "fetched_at": "2026-08-07T06:58:17.614403+00:00"
-    },
-    "5e8800d8b9de34b1": {
-      "title": "EU AI Act Content Labelling: Fake Around and Find Out",
-      "fetched_at": "2026-08-07T06:58:18.258051+00:00"
-    },
-    "ca2c58d49a728052": {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "fetched_at": "2026-08-07T06:58:18.856617+00:00"
-    },
-    "3194fb371a3704b9": {
-      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-      "fetched_at": "2026-08-07T06:58:19.466319+00:00"
-    },
-    "147a860d0f9ccffd": {
-      "title": "The left and right agree on one thing: no data centers",
-      "fetched_at": "2026-08-07T06:58:20.057203+00:00"
-    },
-    "c4b75f072cd39674": {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "fetched_at": "2026-08-07T06:58:20.642478+00:00"
-    },
-    "19c57f14da39f386": {
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-      "fetched_at": "2026-08-07T06:58:21.267275+00:00"
-    },
-    "0855c87bdc3b714a": {
-      "title": "新玩意 248｜少数派的编辑们最近买了啥？",
-      "fetched_at": "2026-08-07T06:58:21.867377+00:00"
-    },
-    "a1b61967ba3b2120": {
-      "title": "泰國校園槍擊案至少六人死亡 槍手同告斃命",
-      "fetched_at": "2026-08-07T06:58:24.515114+00:00"
-    },
-    "7d003c5e20eb2733": {
-      "title": "11岁逃美，18岁犯罪，44岁被遣返：一个越南难民的半生",
-      "fetched_at": "2026-08-07T06:58:25.105652+00:00"
-    },
-    "bce5233c108557e4": {
-      "title": "「免冷藏」疫苗首次人體實驗，可望減少浪費",
-      "fetched_at": "2026-08-07T06:58:25.715361+00:00"
-    },
-    "6795e68aa1e4d4e5": {
-      "title": "特朗普再次签署行政令限制出生公民权，打击“生育旅游”",
-      "fetched_at": "2026-08-07T06:58:26.337198+00:00"
-    },
-    "224ba6eb7638bf20": {
-      "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
-      "fetched_at": "2026-08-07T06:58:26.929271+00:00"
-    },
-    "53ecb058524bd49a": {
-      "title": "宇树科技IPO：会翻跟头的机器人能吸引投资者吗？",
-      "fetched_at": "2026-08-07T06:58:27.532358+00:00"
-    },
-    "3498d1c894cb8cf9": {
-      "title": "番茄有多健康？",
-      "fetched_at": "2026-08-07T06:58:28.142710+00:00"
-    },
-    "0ced93befe73c216": {
-      "title": "机器人能拯救老龄化的日本吗？",
-      "fetched_at": "2026-08-07T06:58:28.727025+00:00"
-    },
-    "cc6d56708b722bfb": {
-      "title": "健身練得滿身肌肉 為何有人卻因此英年早逝？",
-      "fetched_at": "2026-08-07T06:58:29.337511+00:00"
-    },
-    "7da3e0dbf8195a20": {
-      "title": "Lasers reveal hundreds of geoglyphs made by a mysterious civilization in the Amazon rainforest thousands of years ago",
-      "fetched_at": "2026-08-07T06:58:32.694465+00:00"
-    },
     "03d6346d95fa7ffb": {
       "title": "Show HN: I used LLM to reverse-engineer secure-enclaved fingerprint scanner",
       "fetched_at": "2026-08-07T12:37:30.456377+00:00"
@@ -3243,7 +3123,91 @@
     "0ed44070f4c62d60": {
       "title": "Drought Exposes Roman Bridge in Bulgaria",
       "fetched_at": "2026-08-15T06:18:56.239373+00:00"
+    },
+    "69f460fbaf178686": {
+      "title": "Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs",
+      "fetched_at": "2026-08-15T12:14:58.123871+00:00"
+    },
+    "5735ac0defec874b": {
+      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
+      "fetched_at": "2026-08-15T12:14:58.712511+00:00"
+    },
+    "0e80de2869c56dee": {
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "fetched_at": "2026-08-15T12:14:59.305177+00:00"
+    },
+    "4ecfc4600afbe5d4": {
+      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+      "fetched_at": "2026-08-15T12:14:59.888297+00:00"
+    },
+    "927606e1f34e1026": {
+      "title": "BanProof AI",
+      "fetched_at": "2026-08-15T12:15:00.472981+00:00"
+    },
+    "d5a7362c6c086fb6": {
+      "title": "Free LLM API – every free model behind one key",
+      "fetched_at": "2026-08-15T12:15:01.060585+00:00"
+    },
+    "cf242d43f32aaa12": {
+      "title": "Debian has begun voting on the future of AI/LLM contributions",
+      "fetched_at": "2026-08-15T12:15:01.647687+00:00"
+    },
+    "e4dc90e4ee013617": {
+      "title": "Show HN: AI First Virtual Linux Desktop as a Mac App",
+      "fetched_at": "2026-08-15T12:15:02.237591+00:00"
+    },
+    "10698295d498a2a3": {
+      "title": "Secondhand UK and Irish booksellers suspect AI firms behind strange bulk orders",
+      "fetched_at": "2026-08-15T12:15:02.821823+00:00"
+    },
+    "4be43bac5c351fe5": {
+      "title": "Show HN: HN Without AI Stories",
+      "fetched_at": "2026-08-15T12:15:03.460364+00:00"
+    },
+    "da153942096a87f8": {
+      "title": "Show HN: Chemistry AI – step-by-step chemistry solver",
+      "fetched_at": "2026-08-15T12:15:04.145634+00:00"
+    },
+    "77b6165d0bc95d7f": {
+      "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile",
+      "fetched_at": "2026-08-15T12:15:04.730188+00:00"
+    },
+    "36628cf6b7d7be9d": {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "fetched_at": "2026-08-15T12:15:05.312314+00:00"
+    },
+    "140710b61d01b08b": {
+      "title": "AI agents aren't legally responsible for harm they cause. So who is?",
+      "fetched_at": "2026-08-15T12:15:05.950547+00:00"
+    },
+    "c712975c7ba31de0": {
+      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+      "fetched_at": "2026-08-15T12:15:06.529329+00:00"
+    },
+    "62b19f551be78456": {
+      "title": "Open Commonplace – Protecting knowledge from being generalized by AI",
+      "fetched_at": "2026-08-15T12:15:07.126960+00:00"
+    },
+    "d8b60449bb4c663f": {
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "fetched_at": "2026-08-15T12:15:07.710672+00:00"
+    },
+    "5620629eb5d9ce53": {
+      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
+      "fetched_at": "2026-08-15T12:15:10.060563+00:00"
+    },
+    "687419e36d3c6810": {
+      "title": "'A fine line between reducing stigma and trivialising conditions': Social media, self-diagnosis and the glamorization of ADHD",
+      "fetched_at": "2026-08-15T12:15:25.274838+00:00"
+    },
+    "05bb86199478bda5": {
+      "title": "Why do cats yowl?",
+      "fetched_at": "2026-08-15T12:15:25.859310+00:00"
+    },
+    "7a94d5bf7c82ec6c": {
+      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+      "fetched_at": "2026-08-15T12:15:26.434981+00:00"
     }
   },
-  "last_updated": "2026-08-15T06:18:56.322170+00:00"
+  "last_updated": "2026-08-15T12:15:26.507617+00:00"
 }
