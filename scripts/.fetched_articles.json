@@ -1,81 +1,5 @@
 {
   "articles": {
-    "c9f56b5c5a0b8b8c": {
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "fetched_at": "2026-08-07T18:37:38.885975+00:00"
-    },
-    "0d174717971d7c45": {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "fetched_at": "2026-08-07T18:37:39.447153+00:00"
-    },
-    "b4536386a4ffa353": {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "fetched_at": "2026-08-07T18:37:40.078930+00:00"
-    },
-    "dee0a4afe8662942": {
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "fetched_at": "2026-08-07T18:37:40.639805+00:00"
-    },
-    "ffccc7718aa5517c": {
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "fetched_at": "2026-08-07T18:37:41.223774+00:00"
-    },
-    "9cb07e9e2cb28dbf": {
-      "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
-      "fetched_at": "2026-08-07T18:37:41.780028+00:00"
-    },
-    "6e7aebb5dda7c8b6": {
-      "title": "角落新声｜音乐，刻在时光里的私人地图",
-      "fetched_at": "2026-08-07T18:37:42.356827+00:00"
-    },
-    "49e9bda4cdd54efc": {
-      "title": "派早报：华为发布尊界 MPV 及多款新品等",
-      "fetched_at": "2026-08-07T18:37:42.914699+00:00"
-    },
-    "b312dd752868b486": {
-      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
-      "fetched_at": "2026-08-07T18:37:43.473246+00:00"
-    },
-    "467a78a55de8fb97": {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "fetched_at": "2026-08-07T18:37:44.067659+00:00"
-    },
-    "4660285dc873063d": {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "fetched_at": "2026-08-07T18:37:44.632773+00:00"
-    },
-    "056d299560d70e77": {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "fetched_at": "2026-08-07T18:37:44.632898+00:00"
-    },
-    "234691c4f282aa98": {
-      "title": "Bronze Artifacts Discovered at Bottom of Etruscan Well",
-      "fetched_at": "2026-08-07T18:37:49.407866+00:00"
-    },
-    "200013a24ff5432e": {
-      "title": "Why Were Men Shackled Together in Mass Grave Near Athens?",
-      "fetched_at": "2026-08-07T18:37:49.980831+00:00"
-    },
-    "25123836fca6b478": {
-      "title": "Possible Roman Firefighters' Barracks Located on Caelian Hill",
-      "fetched_at": "2026-08-07T18:37:50.554833+00:00"
-    },
-    "818b1e3403ace611": {
-      "title": "Bacterial 'postbiotic' may help preserve fertility in the aging uterus, preliminary research suggests",
-      "fetched_at": "2026-08-07T18:37:51.112266+00:00"
-    },
-    "e1308767168f3137": {
-      "title": "Where to buy last-minute solar eclipse glasses and viewing gear before August 12",
-      "fetched_at": "2026-08-07T18:37:51.683758+00:00"
-    },
-    "1ed83246d82b0fba": {
-      "title": "New autism therapy shows surprising benefits even in adult mice",
-      "fetched_at": "2026-08-07T18:37:52.248460+00:00"
-    },
-    "c6aeae797b87f046": {
-      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
-      "fetched_at": "2026-08-07T18:37:52.810507+00:00"
-    },
     "c6fa97d9935a2ff0": {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "fetched_at": "2026-08-08T00:46:30.162437+00:00"
@@ -3175,7 +3099,103 @@
     "40448bdb53408626": {
       "title": "A 60-year-old theory about ants, bees and wasps may be wrong",
       "fetched_at": "2026-08-15T18:12:36.195742+00:00"
+    },
+    "50c380f51a51cf08": {
+      "title": "The AI Bubble Is on Its Last Legs",
+      "fetched_at": "2026-08-16T00:36:30.262259+00:00"
+    },
+    "4d2eadf35a4cb414": {
+      "title": "The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
+      "fetched_at": "2026-08-16T00:36:30.889549+00:00"
+    },
+    "3a9ab223dc861e7f": {
+      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+      "fetched_at": "2026-08-16T00:36:30.889680+00:00"
+    },
+    "79ff2477b4c460b4": {
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "fetched_at": "2026-08-16T00:36:31.505167+00:00"
+    },
+    "9b66c0a3b23a9280": {
+      "title": "Learning Project – Zero Knowledge Vault Sharing",
+      "fetched_at": "2026-08-16T00:36:32.124496+00:00"
+    },
+    "699256021ef46bc0": {
+      "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
+      "fetched_at": "2026-08-16T00:36:32.737347+00:00"
+    },
+    "37ccb6747f722636": {
+      "title": "Engineers will do anything to avoid learning from history",
+      "fetched_at": "2026-08-16T00:36:33.343891+00:00"
+    },
+    "9f4fd933f6014980": {
+      "title": "Why AI agents need verified identity",
+      "fetched_at": "2026-08-16T00:36:33.960304+00:00"
+    },
+    "2a7a8a4bd98364ee": {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "fetched_at": "2026-08-16T00:36:34.566988+00:00"
+    },
+    "19114e92b6148099": {
+      "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
+      "fetched_at": "2026-08-16T00:36:35.175949+00:00"
+    },
+    "164a37a4ef2a3c96": {
+      "title": "AI makes foundational knowledge more important",
+      "fetched_at": "2026-08-16T00:36:35.781565+00:00"
+    },
+    "f6d2a7b61ae8f1d0": {
+      "title": "The unlikely opera star: How AI helped a nonspeaking performer find his voice",
+      "fetched_at": "2026-08-16T00:36:36.377520+00:00"
+    },
+    "d94bd394b7a57d45": {
+      "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
+      "fetched_at": "2026-08-16T00:36:36.978155+00:00"
+    },
+    "90bcc051e82af5ba": {
+      "title": "Show HN: Chrome extension that tracks job applications on your machine",
+      "fetched_at": "2026-08-16T00:36:37.592725+00:00"
+    },
+    "51f0510b6dbfd055": {
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "fetched_at": "2026-08-16T00:36:38.260735+00:00"
+    },
+    "0f844259272f576a": {
+      "title": "Show HN: Glad-AI-Tor – AI tools ranked by user votes, not by who pays",
+      "fetched_at": "2026-08-16T00:36:38.882588+00:00"
+    },
+    "a71f1828ce2d8627": {
+      "title": "Can an LLM price a World Cup match better than the market (and make money)?",
+      "fetched_at": "2026-08-16T00:36:39.493204+00:00"
+    },
+    "934317f6e0970829": {
+      "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+      "fetched_at": "2026-08-16T00:36:40.106477+00:00"
+    },
+    "995b629806672a60": {
+      "title": "Secondhand booksellers in UK and Ireland suspect AI firms 'strange' bulk orders",
+      "fetched_at": "2026-08-16T00:36:40.721294+00:00"
+    },
+    "fff88c03a72eaed5": {
+      "title": "Why tech bosses keep sharing their manifestos about AI",
+      "fetched_at": "2026-08-16T00:36:41.368920+00:00"
+    },
+    "d76761a0c1ec45ec": {
+      "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
+      "fetched_at": "2026-08-16T00:36:45.819312+00:00"
+    },
+    "33b22dbabbd9a306": {
+      "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
+      "fetched_at": "2026-08-16T00:36:46.436144+00:00"
+    },
+    "e0c9eab9c024bfd4": {
+      "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
+      "fetched_at": "2026-08-16T00:36:47.058160+00:00"
+    },
+    "8599e8a502b37d3a": {
+      "title": "Scientists discover a hidden brain shift that begins around age 50",
+      "fetched_at": "2026-08-16T00:36:47.660141+00:00"
     }
   },
-  "last_updated": "2026-08-15T18:12:36.315922+00:00"
+  "last_updated": "2026-08-16T00:36:47.751983+00:00"
 }
