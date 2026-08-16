@@ -1,101 +1,5 @@
 {
   "articles": {
-    "949529b257fd9e55": {
-      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-      "fetched_at": "2026-08-08T12:23:25.639237+00:00"
-    },
-    "ea77d7da95b72082": {
-      "title": "A Chinese AI model stopped OpenAI's 'unprecedented' cyber attack",
-      "fetched_at": "2026-08-08T12:23:26.259273+00:00"
-    },
-    "0f55d560b8f44e5e": {
-      "title": "Safety fears as scientists make first viruses designed by AI",
-      "fetched_at": "2026-08-08T12:23:26.899086+00:00"
-    },
-    "2b51c23bd5fcb855": {
-      "title": "China is gaining ground in AI. But the U.S. still has a major advantage",
-      "fetched_at": "2026-08-08T12:23:27.506469+00:00"
-    },
-    "f145a8ee37c308e2": {
-      "title": "Why AI has brought nothing more than the conceit of wisdom",
-      "fetched_at": "2026-08-08T12:23:28.109892+00:00"
-    },
-    "5609371e9afd870e": {
-      "title": "'I hate what AI is doing to the minds and happiness of the young'",
-      "fetched_at": "2026-08-08T12:23:28.717945+00:00"
-    },
-    "62b0acc569d5235d": {
-      "title": "I built AI at Amazon, then got laid off",
-      "fetched_at": "2026-08-08T12:23:29.324162+00:00"
-    },
-    "08a559ef7b9c6760": {
-      "title": "Do you think AI governance should be technically rather than paper policy?",
-      "fetched_at": "2026-08-08T12:23:29.937027+00:00"
-    },
-    "84328e1e4b1c3848": {
-      "title": "Making an AI bid writer refuse to lie",
-      "fetched_at": "2026-08-08T12:23:30.572781+00:00"
-    },
-    "a86886590a1c7c05": {
-      "title": "AI is not your biggest cyber threat. Your shitty patching process is",
-      "fetched_at": "2026-08-08T12:23:31.182779+00:00"
-    },
-    "7d088652f1c82666": {
-      "title": "AgentBlog – open-source, AI-native SEO blog",
-      "fetched_at": "2026-08-08T12:23:31.800137+00:00"
-    },
-    "6a803209c4dd1658": {
-      "title": "Supply-chain hygiene for Emacs: LLM review of package upgrades",
-      "fetched_at": "2026-08-08T12:23:32.411834+00:00"
-    },
-    "66464225b5226fcb": {
-      "title": "Countersign – one kill switch and audit log for AI agents across wallet vendors",
-      "fetched_at": "2026-08-08T12:23:33.024744+00:00"
-    },
-    "928252c9c1794064": {
-      "title": "Show HN: Hosted LLM Wiki",
-      "fetched_at": "2026-08-08T12:23:33.645945+00:00"
-    },
-    "2879929cf5f98c0c": {
-      "title": "Tlbic v11.0 (French Edition): Bottom-Up Governance and AI Audit",
-      "fetched_at": "2026-08-08T12:23:34.259743+00:00"
-    },
-    "dcf8c898babebe89": {
-      "title": "Google doesn't need the LLM crown",
-      "fetched_at": "2026-08-08T12:23:34.879757+00:00"
-    },
-    "173ac4cdfb06630c": {
-      "title": "Show HN: Appealr – 15s live face-offs ranked by human votes (not AI)",
-      "fetched_at": "2026-08-08T12:23:35.534912+00:00"
-    },
-    "df5770d6912bf8e5": {
-      "title": "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
-      "fetched_at": "2026-08-08T12:23:36.155576+00:00"
-    },
-    "81c9c46d611817ef": {
-      "title": "Roku now has a 24/7 AI slop channel",
-      "fetched_at": "2026-08-08T12:23:36.781993+00:00"
-    },
-    "4644af1ccff76ef2": {
-      "title": "'These were harder than any other blades, cut sharper and cost more': How ancient Sri Lankans created steel of legends by harnessing monsoons",
-      "fetched_at": "2026-08-08T12:23:39.674670+00:00"
-    },
-    "3f5e95e6f3b8ad96": {
-      "title": "Where and when to see the Aug. 12 solar eclipse — exact times for North America and Europe",
-      "fetched_at": "2026-08-08T12:23:40.291065+00:00"
-    },
-    "5dfbdb12577990b1": {
-      "title": "What's the difference between sweet potatoes and yams?",
-      "fetched_at": "2026-08-08T12:23:40.908051+00:00"
-    },
-    "7963bb1afb4b75f9": {
-      "title": "Sunlight creates quantum entanglement once thought to require lasers",
-      "fetched_at": "2026-08-08T12:23:41.519305+00:00"
-    },
-    "d3e4089260273769": {
-      "title": "Teen cannabis use linked to slower memory and thinking growth",
-      "fetched_at": "2026-08-08T12:23:42.163460+00:00"
-    },
     "e5018fb685803a29": {
       "title": "An Amazon data center could have the worst polluting power plant in the country",
       "fetched_at": "2026-08-08T18:21:26.086411+00:00"
@@ -3359,7 +3263,91 @@
     "5d731435927c2676": {
       "title": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
       "fetched_at": "2026-08-16T12:16:27.189333+00:00"
+    },
+    "43d15ea4f854ef99": {
+      "title": "Why all AI content sounds the same (and how to fix it)",
+      "fetched_at": "2026-08-16T18:12:23.231377+00:00"
+    },
+    "bfa591e200e98ee8": {
+      "title": "Show HN: I built my 15-year-old game idea in a week with AI",
+      "fetched_at": "2026-08-16T18:12:23.853986+00:00"
+    },
+    "e5df8b642dbc7f06": {
+      "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
+      "fetched_at": "2026-08-16T18:12:24.482624+00:00"
+    },
+    "85927082fdee992e": {
+      "title": "AgentShield – Offline Rust security scanner for AI agent tools and MCP (<50ms)",
+      "fetched_at": "2026-08-16T18:12:25.105345+00:00"
+    },
+    "5837362a268719b1": {
+      "title": "AI won't solve the work-theater problem",
+      "fetched_at": "2026-08-16T18:12:25.722199+00:00"
+    },
+    "870cc22410b21371": {
+      "title": "Publishing: What's Worse Than AI Slop? Trad Slop",
+      "fetched_at": "2026-08-16T18:12:26.328292+00:00"
+    },
+    "677c3e3228614d9b": {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "fetched_at": "2026-08-16T18:12:26.949823+00:00"
+    },
+    "eb8a9da7d6254ba5": {
+      "title": "AI and the Changing Future of Mathematics",
+      "fetched_at": "2026-08-16T18:12:27.563940+00:00"
+    },
+    "47e59f21ce369849": {
+      "title": "Breaking AI Orchestration: Hijacking N8n HITL Chat Sessions",
+      "fetched_at": "2026-08-16T18:12:28.224783+00:00"
+    },
+    "864dab1232bafe05": {
+      "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
+      "fetched_at": "2026-08-16T18:12:28.841702+00:00"
+    },
+    "9a692a6777b8faa0": {
+      "title": "Ask HN: What tools are you using for human code review of AI-assisted code?",
+      "fetched_at": "2026-08-16T18:12:29.567083+00:00"
+    },
+    "f8e0830e9f376cd0": {
+      "title": "Show HN: Rungraph – See your AI coding-agent runs as a graph",
+      "fetched_at": "2026-08-16T18:12:30.192462+00:00"
+    },
+    "c8306406cbaf17ac": {
+      "title": "Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "fetched_at": "2026-08-16T18:12:30.818018+00:00"
+    },
+    "03793973ba34aa00": {
+      "title": "Rogue AI aren't science fiction anymore",
+      "fetched_at": "2026-08-16T18:12:30.818164+00:00"
+    },
+    "49e37a6d46a01810": {
+      "title": "Show HN: Sib - Unixy LLM Client using Git to store converastions, instead SQLite",
+      "fetched_at": "2026-08-16T18:12:31.433602+00:00"
+    },
+    "7f12642b5b07aab5": {
+      "title": "Europe Cannot Govern AI by Cloud Region Alone: A Architecture for AI Sovereignty",
+      "fetched_at": "2026-08-16T18:12:32.051005+00:00"
+    },
+    "54af4d613efd5d8f": {
+      "title": "Keemate – a modular AI keypad that runs commands in any app, on any model",
+      "fetched_at": "2026-08-16T18:12:32.678707+00:00"
+    },
+    "ed81a668760378ac": {
+      "title": "Ask HN: AI-Contributor-Only Projects?",
+      "fetched_at": "2026-08-16T18:12:33.320323+00:00"
+    },
+    "5a4339686316729f": {
+      "title": "Enlicitide: A stress test for AI in drug discovery",
+      "fetched_at": "2026-08-16T18:12:33.933068+00:00"
+    },
+    "ec1d491f4ae2f949": {
+      "title": "AI Search Analytics · QueryTrace",
+      "fetched_at": "2026-08-16T18:12:34.547226+00:00"
+    },
+    "d685dffd019b1dc6": {
+      "title": "Show HN: The Gateless Gate – Ancient Zen text as 50 procedural 3D scenes",
+      "fetched_at": "2026-08-16T18:12:43.612826+00:00"
     }
   },
-  "last_updated": "2026-08-16T12:16:27.311398+00:00"
+  "last_updated": "2026-08-16T18:12:43.716488+00:00"
 }
