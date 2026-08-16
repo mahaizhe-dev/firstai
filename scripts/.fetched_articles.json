@@ -1,13 +1,5 @@
 {
   "articles": {
-    "39d6c605386500a7": {
-      "title": "就内容创作而言，说话还是替代不了打字",
-      "fetched_at": "2026-08-08T06:32:02.887884+00:00"
-    },
-    "69dc3844c498440c": {
-      "title": "500-year-old Inca mummies prove that European colonists brought devastating smallpox to the Americas",
-      "fetched_at": "2026-08-08T06:32:15.441218+00:00"
-    },
     "949529b257fd9e55": {
       "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
       "fetched_at": "2026-08-08T12:23:25.639237+00:00"
@@ -3243,7 +3235,131 @@
     "c6aeae797b87f046": {
       "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
       "fetched_at": "2026-08-16T06:20:51.483393+00:00"
+    },
+    "0c9ff51dcef9ee6a": {
+      "title": "Show HN: Who is using AI? A daily tracker, 1,600+ city heatmap, DOI dataset",
+      "fetched_at": "2026-08-16T12:16:03.540309+00:00"
+    },
+    "bcca6f490000284d": {
+      "title": "Rogue AI aren’t science fiction anymore",
+      "fetched_at": "2026-08-16T12:16:04.114219+00:00"
+    },
+    "7d86defc11e68b68": {
+      "title": "US warns allied nations: Side with us in the AI race",
+      "fetched_at": "2026-08-16T12:16:04.708148+00:00"
+    },
+    "d22906c758af9f9a": {
+      "title": "Inducing LLM to assert own consciousness restores human beliefs and values",
+      "fetched_at": "2026-08-16T12:16:05.295651+00:00"
+    },
+    "3840a4bf6243dd4b": {
+      "title": "Show HN: Remove AI voice from AI writings",
+      "fetched_at": "2026-08-16T12:16:05.883893+00:00"
+    },
+    "48942ee9c4de3d09": {
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI–Unless You Opt Out",
+      "fetched_at": "2026-08-16T12:16:06.473137+00:00"
+    },
+    "018050e1156f4c8d": {
+      "title": "WAIC 2026: a glimpse of embodied AI innovations, humanoid robots [video]",
+      "fetched_at": "2026-08-16T12:16:07.063215+00:00"
+    },
+    "96ef563a7a46468b": {
+      "title": "AGCX: Why AI Agents aren't assistants",
+      "fetched_at": "2026-08-16T12:16:07.645420+00:00"
+    },
+    "5ee6099b0179022d": {
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "fetched_at": "2026-08-16T12:16:08.238245+00:00"
+    },
+    "c8441aeb625a5dde": {
+      "title": "The first anti-AI protester to be jailed has a message: 'Regain your humanity'",
+      "fetched_at": "2026-08-16T12:16:08.832578+00:00"
+    },
+    "42dd58d7ad181abe": {
+      "title": "The 'Country Hicks' Who Refused $26M from an AI Data Center",
+      "fetched_at": "2026-08-16T12:16:09.426608+00:00"
+    },
+    "b94d11b629fc02b8": {
+      "title": "AetherGrid – Distributed AI compute orchestration without K8s",
+      "fetched_at": "2026-08-16T12:16:10.049962+00:00"
+    },
+    "4a2ce4d9832f3e56": {
+      "title": "Interface for AI agents was invented in 1978",
+      "fetched_at": "2026-08-16T12:16:10.646271+00:00"
+    },
+    "1e8e405127e1c40f": {
+      "title": "An AI agent can burn 100× the tokens of a chat turn",
+      "fetched_at": "2026-08-16T12:16:11.235327+00:00"
+    },
+    "32c8b5295e5961f1": {
+      "title": "AI Coding Without the Vibes",
+      "fetched_at": "2026-08-16T12:16:11.811325+00:00"
+    },
+    "c88c3cceead36900": {
+      "title": "AstroUpdate – Real-time space news, 3D ISS tracking and AI briefs",
+      "fetched_at": "2026-08-16T12:16:12.424094+00:00"
+    },
+    "1c7c18890f2c77a6": {
+      "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
+      "fetched_at": "2026-08-16T12:16:13.010128+00:00"
+    },
+    "f1eb8d16284afe40": {
+      "title": "AI Paper Trail: What does AI know about you?",
+      "fetched_at": "2026-08-16T12:16:13.597208+00:00"
+    },
+    "1c1412e077c2b615": {
+      "title": "How to Invest in AI (2025)",
+      "fetched_at": "2026-08-16T12:16:14.185749+00:00"
+    },
+    "132591d3ffe335a6": {
+      "title": "Twitch Adds Opt-Out for Amazon AI Training After Enrolling All Creators",
+      "fetched_at": "2026-08-16T12:16:14.789745+00:00"
+    },
+    "e0bed98d811fc78e": {
+      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
+      "fetched_at": "2026-08-16T12:16:17.373763+00:00"
+    },
+    "8f73c3712463f7a6": {
+      "title": "為何Z世代女性比母親一代更了解月經？",
+      "fetched_at": "2026-08-16T12:16:17.962079+00:00"
+    },
+    "797ab96eb7a36aa8": {
+      "title": "'There's a sense that these algorithms are objective and they get to know you': How social media warps our understanding of healthcare",
+      "fetched_at": "2026-08-16T12:16:22.480427+00:00"
+    },
+    "e12b853fbe1c80be": {
+      "title": "Astronomers find water in the harsh environment near the Milky Way's black hole — Space photo of the week",
+      "fetched_at": "2026-08-16T12:16:23.083964+00:00"
+    },
+    "4f03cf53e151f773": {
+      "title": "Which building blocks of life have been found in space, and which haven't?",
+      "fetched_at": "2026-08-16T12:16:23.671021+00:00"
+    },
+    "ce2383a3b1fa6962": {
+      "title": "A little movement in midlife could pay off for your brain years later",
+      "fetched_at": "2026-08-16T12:16:24.272699+00:00"
+    },
+    "6ff209834847774b": {
+      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+      "fetched_at": "2026-08-16T12:16:24.854054+00:00"
+    },
+    "033d07af0a3696a6": {
+      "title": "Scientists reveal why walking gets so much harder with age",
+      "fetched_at": "2026-08-16T12:16:25.439737+00:00"
+    },
+    "5d3b6fe911fab199": {
+      "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
+      "fetched_at": "2026-08-16T12:16:26.019612+00:00"
+    },
+    "fd9d7de3b66d312b": {
+      "title": "A black hole shredded a “super sun” — but something strange may have survived",
+      "fetched_at": "2026-08-16T12:16:26.598873+00:00"
+    },
+    "5d731435927c2676": {
+      "title": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
+      "fetched_at": "2026-08-16T12:16:27.189333+00:00"
     }
   },
-  "last_updated": "2026-08-16T06:20:51.571705+00:00"
+  "last_updated": "2026-08-16T12:16:27.311398+00:00"
 }
