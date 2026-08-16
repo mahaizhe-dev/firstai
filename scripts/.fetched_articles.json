@@ -1,37 +1,5 @@
 {
   "articles": {
-    "c6fa97d9935a2ff0": {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "fetched_at": "2026-08-08T00:46:30.162437+00:00"
-    },
-    "052de190f1c06218": {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "fetched_at": "2026-08-08T00:46:30.784141+00:00"
-    },
-    "0c229856bfa46c81": {
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "fetched_at": "2026-08-08T00:46:31.396739+00:00"
-    },
-    "e060db49a7356975": {
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "fetched_at": "2026-08-08T00:46:32.010109+00:00"
-    },
-    "c730d3d82920f78c": {
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "fetched_at": "2026-08-08T00:46:32.637600+00:00"
-    },
-    "5f67aed39b2cfe6b": {
-      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
-      "fetched_at": "2026-08-08T00:46:42.617121+00:00"
-    },
-    "f9b2edee8e2d3494": {
-      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
-      "fetched_at": "2026-08-08T00:46:43.242795+00:00"
-    },
-    "16ca6b804e03c58c": {
-      "title": "What if the brain does not create consciousness?",
-      "fetched_at": "2026-08-08T00:46:43.891180+00:00"
-    },
     "39d6c605386500a7": {
       "title": "就内容创作而言，说话还是替代不了打字",
       "fetched_at": "2026-08-08T06:32:02.887884+00:00"
@@ -3195,7 +3163,87 @@
     "8599e8a502b37d3a": {
       "title": "Scientists discover a hidden brain shift that begins around age 50",
       "fetched_at": "2026-08-16T00:36:47.660141+00:00"
+    },
+    "ebd67d8ca5639034": {
+      "title": "Tokencompress A sub-2ms Go CLI and MCP sidecar that prunes AI agent tool context",
+      "fetched_at": "2026-08-16T06:20:29.046232+00:00"
+    },
+    "4c2dfc6f81d3a048": {
+      "title": "I built AIM Maps but you play AI",
+      "fetched_at": "2026-08-16T06:20:29.670821+00:00"
+    },
+    "71ca4fc6e797338f": {
+      "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
+      "fetched_at": "2026-08-16T06:20:30.287355+00:00"
+    },
+    "11f65f5fba7566c3": {
+      "title": "Ownership in the Age of AI",
+      "fetched_at": "2026-08-16T06:20:30.914691+00:00"
+    },
+    "49b8bef2489ccab8": {
+      "title": "Show HN: Grow your SaaS visibility with AI-powered discovery",
+      "fetched_at": "2026-08-16T06:20:31.533184+00:00"
+    },
+    "9be5a17eac3460ce": {
+      "title": "ProofRun – a local verification receipt for AI coding agents",
+      "fetched_at": "2026-08-16T06:20:32.157718+00:00"
+    },
+    "aa8547f60e35dfdc": {
+      "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
+      "fetched_at": "2026-08-16T06:20:32.773364+00:00"
+    },
+    "f1e56a8f882fcb60": {
+      "title": "Show HN: Widen, a native Postgres GUI using Apple's on-device LLM",
+      "fetched_at": "2026-08-16T06:20:33.383557+00:00"
+    },
+    "4d96cba83942c708": {
+      "title": "Has the hallucination problem in AI been solved?",
+      "fetched_at": "2026-08-16T06:20:33.995072+00:00"
+    },
+    "5195e52b9442dadc": {
+      "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
+      "fetched_at": "2026-08-16T06:20:34.624679+00:00"
+    },
+    "5809c08ad996ca76": {
+      "title": "Snap Chart AI",
+      "fetched_at": "2026-08-16T06:20:35.260236+00:00"
+    },
+    "d7d516f5b82858ff": {
+      "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
+      "fetched_at": "2026-08-16T06:20:35.876769+00:00"
+    },
+    "f256c683f25df0a6": {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "fetched_at": "2026-08-16T06:20:36.502543+00:00"
+    },
+    "d08b2d65e902a211": {
+      "title": "分析：劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
+      "fetched_at": "2026-08-16T06:20:38.975330+00:00"
+    },
+    "dbfa80f9b43cbd54": {
+      "title": "印尼強震造成至少47死 救援人員搜尋生還者",
+      "fetched_at": "2026-08-16T06:20:39.623905+00:00"
+    },
+    "5dc22c73d5c812f5": {
+      "title": "「他送給我一個長得像他的洋娃娃」：卡斯特羅之女回顧那個她從不想認的父親",
+      "fetched_at": "2026-08-16T06:20:40.239444+00:00"
+    },
+    "1c6581e78c6fb323": {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "fetched_at": "2026-08-16T06:20:49.613218+00:00"
+    },
+    "818b1e3403ace611": {
+      "title": "Bacterial 'postbiotic' may help preserve fertility in the aging uterus, preliminary research suggests",
+      "fetched_at": "2026-08-16T06:20:50.245039+00:00"
+    },
+    "e1308767168f3137": {
+      "title": "Where to buy last-minute solar eclipse glasses and viewing gear before August 12",
+      "fetched_at": "2026-08-16T06:20:50.860230+00:00"
+    },
+    "c6aeae797b87f046": {
+      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+      "fetched_at": "2026-08-16T06:20:51.483393+00:00"
     }
   },
-  "last_updated": "2026-08-16T00:36:47.751983+00:00"
+  "last_updated": "2026-08-16T06:20:51.571705+00:00"
 }
