@@ -1,33 +1,5 @@
 {
   "articles": {
-    "e5018fb685803a29": {
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "fetched_at": "2026-08-08T18:21:26.086411+00:00"
-    },
-    "316c89b5026c502d": {
-      "title": "Using AI has an environmental impact — here are 4 ways you can minimize it",
-      "fetched_at": "2026-08-08T18:21:31.310887+00:00"
-    },
-    "9a92757bf5e2d72f": {
-      "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
-      "fetched_at": "2026-08-08T18:21:31.895473+00:00"
-    },
-    "2cdb808e081d3426": {
-      "title": "A protein older than blood circulation could transform cancer immunotherapy",
-      "fetched_at": "2026-08-08T18:21:32.461743+00:00"
-    },
-    "7f0d4f7d2f2d475b": {
-      "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
-      "fetched_at": "2026-08-08T18:21:33.044883+00:00"
-    },
-    "279b3700b2badf2b": {
-      "title": "The sun is covered in tiny whirlpools we’ve never seen before",
-      "fetched_at": "2026-08-08T18:21:33.605252+00:00"
-    },
-    "415767e0a49acf18": {
-      "title": "Science word of they day: Covalent",
-      "fetched_at": "2026-08-08T18:21:34.164055+00:00"
-    },
     "7dd391c2cab45ed3": {
       "title": "AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)",
       "fetched_at": "2026-08-09T00:50:10.456287+00:00"
@@ -3347,7 +3319,115 @@
     "d685dffd019b1dc6": {
       "title": "Show HN: The Gateless Gate – Ancient Zen text as 50 procedural 3D scenes",
       "fetched_at": "2026-08-16T18:12:43.612826+00:00"
+    },
+    "25f04d1c12b0a697": {
+      "title": "With OpenRouter, Is Stripe Becoming the Amazon of AI",
+      "fetched_at": "2026-08-17T00:34:32.676038+00:00"
+    },
+    "6f55d57b74d9f823": {
+      "title": "BanProof – AI that scans TikTok Shop videos for violation points before you post",
+      "fetched_at": "2026-08-17T00:34:33.318464+00:00"
+    },
+    "5ad3c38296911188": {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "fetched_at": "2026-08-17T00:34:42.716954+00:00"
+    },
+    "92d9839065ae82e5": {
+      "title": "派早报：😭（放声大哭）成为最流行 emoji",
+      "fetched_at": "2026-08-17T00:34:34.568593+00:00"
+    },
+    "e18ccd11e4e3c32f": {
+      "title": "AI Slop Is Real",
+      "fetched_at": "2026-08-17T00:34:35.192736+00:00"
+    },
+    "adb7834b9bd70e3a": {
+      "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+      "fetched_at": "2026-08-17T00:34:35.820693+00:00"
+    },
+    "2b4811d2efb838f0": {
+      "title": "Show HN: TKeeper – OSS machine identities without a single point of compromise",
+      "fetched_at": "2026-08-17T00:34:36.433736+00:00"
+    },
+    "bfbdcd3ffa51d504": {
+      "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says",
+      "fetched_at": "2026-08-17T00:34:37.061899+00:00"
+    },
+    "02e8903304ff48aa": {
+      "title": "Smarter – open-source, declarative AI authoring platform (Django, K8s-inspired)",
+      "fetched_at": "2026-08-17T00:34:37.695270+00:00"
+    },
+    "ca2c0ce9bacd971f": {
+      "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
+      "fetched_at": "2026-08-17T00:34:38.318035+00:00"
+    },
+    "023ced4a31e577a7": {
+      "title": "AI #176 Part 2: Plan B",
+      "fetched_at": "2026-08-17T00:34:38.951947+00:00"
+    },
+    "4f4bccdcdd85e2d1": {
+      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "fetched_at": "2026-08-17T00:34:39.593617+00:00"
+    },
+    "1dd6a2d2c6cec971": {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "fetched_at": "2026-08-17T00:34:40.217946+00:00"
+    },
+    "4be0e61f39074ab6": {
+      "title": "Show HN: VocalCode – push-to-talk dictation for AI coding agents, on-device",
+      "fetched_at": "2026-08-17T00:34:40.846131+00:00"
+    },
+    "aeb8fd5f79072b98": {
+      "title": "Show HN: Remarc – provide more contextual and structured feedback to AI agents",
+      "fetched_at": "2026-08-17T00:34:41.475605+00:00"
+    },
+    "f127faf52b41174b": {
+      "title": "AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]",
+      "fetched_at": "2026-08-17T00:34:42.091279+00:00"
+    },
+    "0d9a4cd7ba44de29": {
+      "title": "Show HN: Conw.ai – Independent local AI platform and developer API",
+      "fetched_at": "2026-08-17T00:34:42.716840+00:00"
+    },
+    "41137cf97155f198": {
+      "title": "Do people care if articles are written by AI?",
+      "fetched_at": "2026-08-17T00:34:43.336148+00:00"
+    },
+    "7494c9305e22f6fe": {
+      "title": "Beautiful UI for AI-native interfaces",
+      "fetched_at": "2026-08-17T00:34:43.953299+00:00"
+    },
+    "05dc23144c803d6f": {
+      "title": "外國超市為何總讓遊客們樂不思蜀",
+      "fetched_at": "2026-08-17T00:34:46.542890+00:00"
+    },
+    "5a17a0a37af8ff28": {
+      "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
+      "fetched_at": "2026-08-17T00:34:47.164943+00:00"
+    },
+    "05070359a7762b3c": {
+      "title": "劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
+      "fetched_at": "2026-08-17T00:34:47.790704+00:00"
+    },
+    "e19eaf35652a37e8": {
+      "title": "卡斯特羅之女回顧那個她從不想認的父親",
+      "fetched_at": "2026-08-17T00:34:48.412703+00:00"
+    },
+    "4644af1ccff76ef2": {
+      "title": "'These were harder than any other blades, cut sharper and cost more': How ancient Sri Lankans created steel of legends by harnessing monsoons",
+      "fetched_at": "2026-08-17T00:34:50.607755+00:00"
+    },
+    "3f5e95e6f3b8ad96": {
+      "title": "Where and when to see the Aug. 12 solar eclipse — exact times for North America and Europe",
+      "fetched_at": "2026-08-17T00:34:51.245335+00:00"
+    },
+    "7963bb1afb4b75f9": {
+      "title": "Sunlight creates quantum entanglement once thought to require lasers",
+      "fetched_at": "2026-08-17T00:34:51.868854+00:00"
+    },
+    "d3e4089260273769": {
+      "title": "Teen cannabis use linked to slower memory and thinking growth",
+      "fetched_at": "2026-08-17T00:34:52.498516+00:00"
     }
   },
-  "last_updated": "2026-08-16T18:12:43.716488+00:00"
+  "last_updated": "2026-08-17T00:34:52.592307+00:00"
 }
