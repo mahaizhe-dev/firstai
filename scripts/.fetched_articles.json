@@ -1,125 +1,5 @@
 {
   "articles": {
-    "7dd391c2cab45ed3": {
-      "title": "AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)",
-      "fetched_at": "2026-08-09T00:50:10.456287+00:00"
-    },
-    "d83dab5daa30b846": {
-      "title": "Teaching Coding When AI Can Write the Code",
-      "fetched_at": "2026-08-09T00:50:11.075967+00:00"
-    },
-    "73a37fce5a67718d": {
-      "title": "Things I learned about how people use AI after 1800 people",
-      "fetched_at": "2026-08-09T00:50:11.691652+00:00"
-    },
-    "1cc7ad9cabdf3d6c": {
-      "title": "Show HN: Faaah – Filesystem as an AI Handler",
-      "fetched_at": "2026-08-09T00:50:12.312656+00:00"
-    },
-    "b08e962eb49afd93": {
-      "title": "GPT-4 finished training four years ago today",
-      "fetched_at": "2026-08-09T00:50:12.927223+00:00"
-    },
-    "19a43c885db3866e": {
-      "title": "How AI is breaking the British State",
-      "fetched_at": "2026-08-09T00:50:13.545576+00:00"
-    },
-    "5ecb9bd494ca967f": {
-      "title": "You can build an AI agent's memory layer with only Go's standard library",
-      "fetched_at": "2026-08-09T00:50:14.165289+00:00"
-    },
-    "3696ca7ff97d7d87": {
-      "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
-      "fetched_at": "2026-08-09T00:50:14.803730+00:00"
-    },
-    "f71872ec20109ae6": {
-      "title": "How Can LLM RL Work Despite Information-Theoretic Inefficiency",
-      "fetched_at": "2026-08-09T00:50:15.429105+00:00"
-    },
-    "09a8be9e7b7542ed": {
-      "title": "Show HN: ExpertCache – Run the Full GPT-OSS 120B (63GB) on a 16GB M1 Pro",
-      "fetched_at": "2026-08-09T00:50:16.046879+00:00"
-    },
-    "3ad877ac027c4795": {
-      "title": "Roku Fairgound, a new 24/7 AI slop channel",
-      "fetched_at": "2026-08-09T00:50:16.676185+00:00"
-    },
-    "bdfa444feeee2b08": {
-      "title": "AI Settles a 25 Year-Old Problem We Left Behind",
-      "fetched_at": "2026-08-09T00:50:17.312505+00:00"
-    },
-    "976cc333a50d1c7c": {
-      "title": "AI Music Debate Is Missing Half the Money",
-      "fetched_at": "2026-08-09T00:50:17.928702+00:00"
-    },
-    "1cdde06ed738e96d": {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "fetched_at": "2026-08-09T00:50:18.545028+00:00"
-    },
-    "eee7924e7fa72e03": {
-      "title": "Shadow AI is a hidden risk to your business",
-      "fetched_at": "2026-08-09T00:50:19.157245+00:00"
-    },
-    "c12df356fd193fea": {
-      "title": "How to write production-quality code with AI",
-      "fetched_at": "2026-08-09T00:50:19.778509+00:00"
-    },
-    "3375bf3115f7bdf5": {
-      "title": "YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop",
-      "fetched_at": "2026-08-09T00:50:20.391551+00:00"
-    },
-    "39f8c33e553ff90f": {
-      "title": "Instagram's AI Rewards Human Attention",
-      "fetched_at": "2026-08-09T00:50:21.003839+00:00"
-    },
-    "5784ac5472a54656": {
-      "title": "One of China's Most Powerful AI Models Has Also Escaped Containment",
-      "fetched_at": "2026-08-09T00:50:21.628989+00:00"
-    },
-    "ce315ce9375376e1": {
-      "title": "AI-written pieces that have won literary awards",
-      "fetched_at": "2026-08-09T00:50:22.243762+00:00"
-    },
-    "7e1d469d47c4d9c6": {
-      "title": "OWASP-amass – In-depth attack surface mapping and asset discovery",
-      "fetched_at": "2026-08-09T00:50:30.364091+00:00"
-    },
-    "1a5333f2160f5f38": {
-      "title": "Most Expensive Historical Items Ever Sold at Auction",
-      "fetched_at": "2026-08-09T00:50:30.986055+00:00"
-    },
-    "72cbc629f55e2270": {
-      "title": "Carl Sagan's explanation of how the Ancient Greek knew Earth was Round",
-      "fetched_at": "2026-08-09T00:50:31.608463+00:00"
-    },
-    "f8f1d6348d0e0756": {
-      "title": "Auction Expert Breaks Down the 20 Rarest Historical Treasures Sold in History",
-      "fetched_at": "2026-08-09T00:50:32.233809+00:00"
-    },
-    "5c6500176f12a8af": {
-      "title": "The Genesis Mission: AI and Quantum-Driven Discovery",
-      "fetched_at": "2026-08-09T00:50:32.855987+00:00"
-    },
-    "62e6357c4ba3a808": {
-      "title": "Translating the Renaissance: 17,000+ historical source texts",
-      "fetched_at": "2026-08-09T00:50:33.467819+00:00"
-    },
-    "08afeb4e8306f624": {
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "fetched_at": "2026-08-09T00:50:34.095232+00:00"
-    },
-    "0cba5ec38c39e6df": {
-      "title": "How to watch 'Secrets of the Great White Kill' – stream 'Shark Week' 2026 from anywhere",
-      "fetched_at": "2026-08-09T00:50:34.714803+00:00"
-    },
-    "0884dd6955662f6b": {
-      "title": "IBM scientists claim they've achieved 'quantum advantage' — and they've dared others to prove them wrong",
-      "fetched_at": "2026-08-09T00:50:35.337951+00:00"
-    },
-    "d69ea92e712f7d11": {
-      "title": "Alzheimer's blood tests are transforming how patients get diagnosed — here's what to know",
-      "fetched_at": "2026-08-09T00:50:35.955101+00:00"
-    },
     "7ec815a4ce5fa31f": {
       "title": "Agentcn – Installable AI Agents",
       "fetched_at": "2026-08-09T06:35:55.280689+00:00"
@@ -3427,7 +3307,119 @@
     "d3e4089260273769": {
       "title": "Teen cannabis use linked to slower memory and thinking growth",
       "fetched_at": "2026-08-17T00:34:52.498516+00:00"
+    },
+    "c4edda5db63136c0": {
+      "title": "The LLM Freedom Manifesto: Open-Weight Models and User Responsibility",
+      "fetched_at": "2026-08-17T06:30:38.331606+00:00"
+    },
+    "a3a00584025487b8": {
+      "title": "AI is finding sperm where doctors couldn't",
+      "fetched_at": "2026-08-17T06:30:38.970831+00:00"
+    },
+    "74b5c7aa2b2d2fb8": {
+      "title": "Paitify – authorization layer so AI agents can't overspend",
+      "fetched_at": "2026-08-17T06:30:39.720119+00:00"
+    },
+    "33a180ef993acbf0": {
+      "title": "The AI Competence/Judgement Gap",
+      "fetched_at": "2026-08-17T06:30:40.388017+00:00"
+    },
+    "0f029b6cd8f2458f": {
+      "title": "How to Use AI as a Language Learner",
+      "fetched_at": "2026-08-17T06:30:41.003627+00:00"
+    },
+    "f4cfc40814f06b0a": {
+      "title": "Why Big Tech's AI Spending Is $3T Higher Than It Seems",
+      "fetched_at": "2026-08-17T06:30:41.702376+00:00"
+    },
+    "839451c6663a5c29": {
+      "title": "Zalvion AI",
+      "fetched_at": "2026-08-17T06:30:42.322580+00:00"
+    },
+    "ff41da7c8a8ee079": {
+      "title": "AI wins landmark Fair Work Commission case for Macquarie academic",
+      "fetched_at": "2026-08-17T06:30:42.950068+00:00"
+    },
+    "a640ad01e61efa37": {
+      "title": "Show HN: Earn 41% Commission: German Language Learning",
+      "fetched_at": "2026-08-17T06:30:43.583365+00:00"
+    },
+    "7ae31de39992eae5": {
+      "title": "Idea for Expository AI",
+      "fetched_at": "2026-08-17T06:30:44.213991+00:00"
+    },
+    "dc21434c78ff7e82": {
+      "title": "AI Is Helping Patients Solve Medical Mysteries",
+      "fetched_at": "2026-08-17T06:30:44.837118+00:00"
+    },
+    "7654f7f3dec1e920": {
+      "title": "Level1Techs Can't Disprove Google's GDPR AI Studio Violation",
+      "fetched_at": "2026-08-17T06:30:45.455984+00:00"
+    },
+    "b7061a3404505c0e": {
+      "title": "Design of the HTTPS Layer for AI Governance",
+      "fetched_at": "2026-08-17T06:30:46.088823+00:00"
+    },
+    "7e8d2f976c85173b": {
+      "title": "成年人包里的唯一一支笔：模块笔入门导购",
+      "fetched_at": "2026-08-17T06:30:46.723291+00:00"
+    },
+    "6df946daffb2b171": {
+      "title": "BlockArena: AI-Generated FPS Game",
+      "fetched_at": "2026-08-17T06:30:47.352293+00:00"
+    },
+    "a6813880e2ae4cac": {
+      "title": "AI Agent Safety Is Still Thinking Like Permissions",
+      "fetched_at": "2026-08-17T06:30:47.977393+00:00"
+    },
+    "570d2c5b1441d122": {
+      "title": "The CLI your AI agent drives to manage your knowledge graph",
+      "fetched_at": "2026-08-17T06:30:48.586118+00:00"
+    },
+    "bd9dab12cc450984": {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "fetched_at": "2026-08-17T06:30:49.211983+00:00"
+    },
+    "b4a4848eb356b3b6": {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "fetched_at": "2026-08-17T06:30:49.842199+00:00"
+    },
+    "28d8b655e88256d4": {
+      "title": "干预政策、压制批评，特朗普政府将美国签证“武器化”",
+      "fetched_at": "2026-08-17T06:30:51.926079+00:00"
+    },
+    "61c0e640759dd5b1": {
+      "title": "超级英雄都很无聊，除了这一个",
+      "fetched_at": "2026-08-17T06:30:52.534935+00:00"
+    },
+    "60e340518c983179": {
+      "title": "人工智能军备竞赛：中国快速进步，美国政策摇摆",
+      "fetched_at": "2026-08-17T06:30:53.188471+00:00"
+    },
+    "adcab611f3d41ea3": {
+      "title": "美軍指揮官許諾「優先」應對林肯號航母人員精神健康",
+      "fetched_at": "2026-08-17T06:30:53.818084+00:00"
+    },
+    "8d19f5304b809b96": {
+      "title": "特朗普“送给中国一份大礼”：美国亚洲策略再受质疑",
+      "fetched_at": "2026-08-17T06:30:54.434280+00:00"
+    },
+    "a6d7f4cec7dec278": {
+      "title": "具有中国特色的AI数据：中国争夺人工智能时代话语权",
+      "fetched_at": "2026-08-17T06:30:55.059023+00:00"
+    },
+    "316c89b5026c502d": {
+      "title": "Using AI has an environmental impact — here are 4 ways you can minimize it",
+      "fetched_at": "2026-08-17T06:30:57.077033+00:00"
+    },
+    "9a92757bf5e2d72f": {
+      "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+      "fetched_at": "2026-08-17T06:30:57.695823+00:00"
+    },
+    "279b3700b2badf2b": {
+      "title": "The sun is covered in tiny whirlpools we’ve never seen before",
+      "fetched_at": "2026-08-17T06:30:58.320890+00:00"
     }
   },
-  "last_updated": "2026-08-17T00:34:52.592307+00:00"
+  "last_updated": "2026-08-17T06:30:58.447372+00:00"
 }
