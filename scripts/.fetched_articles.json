@@ -1,113 +1,5 @@
 {
   "articles": {
-    "f0485e4b5523e740": {
-      "title": "What do I want to be? – a poem about parenting in the AI age",
-      "fetched_at": "2026-08-10T00:52:35.020003+00:00"
-    },
-    "27cada4cd1859901": {
-      "title": "Optimizing a GPT-2-Class Transformer on a GPU",
-      "fetched_at": "2026-08-10T00:52:35.655724+00:00"
-    },
-    "19b6bb5a112f130d": {
-      "title": "What if we let AI govern us?",
-      "fetched_at": "2026-08-10T00:52:36.270656+00:00"
-    },
-    "496c60e74ea31be8": {
-      "title": "派早报：央视曝光酒店评级标识消费陷阱",
-      "fetched_at": "2026-08-10T00:52:36.901130+00:00"
-    },
-    "69d6c5914160d139": {
-      "title": "A startup is able to detect fires within minutes using satellites and AI",
-      "fetched_at": "2026-08-10T00:52:37.524813+00:00"
-    },
-    "e6a9ca3381dcd403": {
-      "title": "Show HN: An AI chief of staff for founders who can't afford one",
-      "fetched_at": "2026-08-10T00:52:38.131503+00:00"
-    },
-    "5e1cab43320ac1cd": {
-      "title": "Quoted $1M for AI code review. Built it for free",
-      "fetched_at": "2026-08-10T00:52:38.740238+00:00"
-    },
-    "2b495f62a8101854": {
-      "title": "I got 30% better AI coding results",
-      "fetched_at": "2026-08-10T00:52:39.354433+00:00"
-    },
-    "3e51ef7bd79af1ba": {
-      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "fetched_at": "2026-08-10T00:52:39.973967+00:00"
-    },
-    "a6d36de4439b4ca2": {
-      "title": "AI Agent Qubitz",
-      "fetched_at": "2026-08-10T00:52:40.589811+00:00"
-    },
-    "23223a676fcd1cd8": {
-      "title": "Lawyers using \"AI\" could face sanctions including costs for fake citations",
-      "fetched_at": "2026-08-10T00:52:41.202525+00:00"
-    },
-    "4a0f390ddf58e61d": {
-      "title": "Ask HN: How has AI helped your personal algorithmic trading strategy?",
-      "fetched_at": "2026-08-10T00:52:41.812967+00:00"
-    },
-    "d1dee3f75063200c": {
-      "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
-      "fetched_at": "2026-08-10T00:52:42.423193+00:00"
-    },
-    "a5b459dbcca798ba": {
-      "title": "Show HN: Wardline, a Go proxy that auto-blocks compromised AI agents",
-      "fetched_at": "2026-08-10T00:52:43.039111+00:00"
-    },
-    "4a4bf5854a77ad70": {
-      "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-      "fetched_at": "2026-08-10T00:52:43.663563+00:00"
-    },
-    "cf640ec9f4df6731": {
-      "title": "Codreo AI Mail – AI Outlook Email Assistant",
-      "fetched_at": "2026-08-10T00:52:44.273331+00:00"
-    },
-    "4bb379b9a172fdd5": {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "fetched_at": "2026-08-10T00:52:44.899272+00:00"
-    },
-    "52f2f4ebb6e77086": {
-      "title": "AI Is Rewiring South Korea's Careers, Dating and Culture",
-      "fetched_at": "2026-08-10T00:52:45.525809+00:00"
-    },
-    "6eb15a1070bfe2e3": {
-      "title": "The Argument Against AI Writing Is at Least 2,400 Years Old",
-      "fetched_at": "2026-08-10T00:52:46.143533+00:00"
-    },
-    "2b280e09adaab115": {
-      "title": "Employees Do Not Want Your AI",
-      "fetched_at": "2026-08-10T00:52:46.840535+00:00"
-    },
-    "b90b110fa383a486": {
-      "title": "中国出口继续“狂飙”，月度贸易顺差再超千亿美元",
-      "fetched_at": "2026-08-10T00:52:49.121683+00:00"
-    },
-    "ed00a56b35962b6f": {
-      "title": "班克斯在英國法庭外作畫 至今花費公帑近15萬英鎊",
-      "fetched_at": "2026-08-10T00:52:49.751062+00:00"
-    },
-    "7cdc893bc46738cb": {
-      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
-      "fetched_at": "2026-08-10T00:52:50.381134+00:00"
-    },
-    "5c0d5dc72af16fe6": {
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "fetched_at": "2026-08-10T00:53:28.422238+00:00"
-    },
-    "6218a55a89a16557": {
-      "title": "Total eclipse, shooting stars, and the Milky Way: Why Aug. 12 could be the greatest single day and night for skywatching for years",
-      "fetched_at": "2026-08-10T00:53:29.047293+00:00"
-    },
-    "210d7b0454a7a560": {
-      "title": "Science news this week: Secret lives of whale sharks revealed, Earth's coldest temperature registered, and Amazonian geoglyphs show clues to lost civilization",
-      "fetched_at": "2026-08-10T00:53:29.666415+00:00"
-    },
-    "6a20d9c153f4437c": {
-      "title": "Why do cats have 'leg whiskers'?",
-      "fetched_at": "2026-08-10T00:53:30.307119+00:00"
-    },
     "ff30b76d0e2ca536": {
       "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
       "fetched_at": "2026-08-10T07:07:10.014010+00:00"
@@ -3507,7 +3399,135 @@
     "fd5319ab2f5957cf": {
       "title": "'His urine goes on tour around Europe, showing the kings and queens this glowing pee': The weird world of alchemy before chemistry",
       "fetched_at": "2026-08-18T00:35:44.391931+00:00"
+    },
+    "1356b79af8a0a679": {
+      "title": "Private Scribe – 100% offline Whisper AI voice dictation for Windows",
+      "fetched_at": "2026-08-18T06:22:30.657589+00:00"
+    },
+    "ee631df5fccb7181": {
+      "title": "Goody-2, the most responsible AI model (2024)",
+      "fetched_at": "2026-08-18T06:22:31.257908+00:00"
+    },
+    "a6fd0519dbb45320": {
+      "title": "Learning-Rust.Github.io: Labs: Project 1 – RESTful API Workspace",
+      "fetched_at": "2026-08-18T06:22:31.854354+00:00"
+    },
+    "20560b8a0a01d3bf": {
+      "title": "LLM Speedrun: Architecture",
+      "fetched_at": "2026-08-18T06:22:32.456944+00:00"
+    },
+    "2fbbb056e1f2d54f": {
+      "title": "What If I Told You Humans Are Moving Faster Than AI?",
+      "fetched_at": "2026-08-18T06:22:33.054664+00:00"
+    },
+    "7560f3a948561b2f": {
+      "title": "Why It Hasn't Happened Yet: Capable AI and Malicious Intent",
+      "fetched_at": "2026-08-18T06:22:33.656464+00:00"
+    },
+    "166eebeb7601766f": {
+      "title": "When it comes to LLM, it's you who's using it wrong",
+      "fetched_at": "2026-08-18T06:22:34.259500+00:00"
+    },
+    "290efc523c844f68": {
+      "title": "San Diego 150 Years Ago: Rare AI Reconstruction Visuals [video]",
+      "fetched_at": "2026-08-18T06:22:34.878198+00:00"
+    },
+    "8891b76b848f83fe": {
+      "title": "7月音乐精选：夏天赠予我们的 9张专辑",
+      "fetched_at": "2026-08-18T06:22:35.500846+00:00"
+    },
+    "5105f1d656f82c81": {
+      "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
+      "fetched_at": "2026-08-18T06:22:36.093318+00:00"
+    },
+    "e95121bc50831728": {
+      "title": "Three different papers pushed to ArXiv proving same 1986 conjecture; all use AI",
+      "fetched_at": "2026-08-18T06:22:36.721220+00:00"
+    },
+    "97e5d19c7c4864da": {
+      "title": "Going AI-native to enhance how humans/agents access ScalarDB and ScalarDL docs",
+      "fetched_at": "2026-08-18T06:22:37.324925+00:00"
+    },
+    "1337bc62683bb771": {
+      "title": "Every student is cheating with AI",
+      "fetched_at": "2026-08-18T06:22:37.937758+00:00"
+    },
+    "53b70ff41fe36ac3": {
+      "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
+      "fetched_at": "2026-08-18T06:22:38.539175+00:00"
+    },
+    "c0daf4cdb24f2a5a": {
+      "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
+      "fetched_at": "2026-08-18T06:22:39.152869+00:00"
+    },
+    "e17fbf665ff8c8dc": {
+      "title": "Privibe – LLM CLI Local first+privacy focus+llama.cpp cache branch and Qwen3.x",
+      "fetched_at": "2026-08-18T06:22:39.152996+00:00"
+    },
+    "04c60a91981289c6": {
+      "title": "派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等",
+      "fetched_at": "2026-08-18T06:22:39.769750+00:00"
+    },
+    "51074ed07b8ad9c2": {
+      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+      "fetched_at": "2026-08-18T06:22:40.384274+00:00"
+    },
+    "aa13b14ec843bd74": {
+      "title": "为何美日联手也“救”不了日元？",
+      "fetched_at": "2026-08-18T06:22:43.153990+00:00"
+    },
+    "c3b858a9e0e7b3df": {
+      "title": "在伊朗陷入困局后，特朗普再次将目光转向金正恩",
+      "fetched_at": "2026-08-18T06:22:43.743513+00:00"
+    },
+    "4db4b81853c05c65": {
+      "title": "中美人才争夺战：中国加速追赶，美国“自废武功”？",
+      "fetched_at": "2026-08-18T06:22:44.340157+00:00"
+    },
+    "baa5ae120da758b8": {
+      "title": "AI垃圾满天飞，科技公司开展人工智能废物大扫除",
+      "fetched_at": "2026-08-18T06:22:44.948677+00:00"
+    },
+    "f4067a40bf655cea": {
+      "title": "中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局",
+      "fetched_at": "2026-08-18T06:22:45.596056+00:00"
+    },
+    "74ad9d9566e27e34": {
+      "title": "硅谷并没有“右转”，它本来就很“右”",
+      "fetched_at": "2026-08-18T06:22:46.194303+00:00"
+    },
+    "098cd0d0fefeb76e": {
+      "title": "乌克兰无人机何以精准打击俄罗斯本土？",
+      "fetched_at": "2026-08-18T06:22:46.788357+00:00"
+    },
+    "1a226f258106b2ce": {
+      "title": "Scientists may have finally proved that “empty” space isn’t really empty",
+      "fetched_at": "2026-08-18T06:23:48.768687+00:00"
+    },
+    "7ab9a19e5ceac5a9": {
+      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
+      "fetched_at": "2026-08-18T06:23:49.385974+00:00"
+    },
+    "2e8cbbe35baf4054": {
+      "title": "A therapy that “rewrites” childhood memories can ease fear of failure",
+      "fetched_at": "2026-08-18T06:23:49.999227+00:00"
+    },
+    "79e29ef6284c74e3": {
+      "title": "The bacteria that make cheese taste so good may also benefit your gut",
+      "fetched_at": "2026-08-18T06:23:50.605733+00:00"
+    },
+    "7149db99b740b409": {
+      "title": "'Now our lives have changed': Drop in coal burning is helping the African Sahel turn green after decades of drought",
+      "fetched_at": "2026-08-18T06:23:51.209433+00:00"
+    },
+    "ae448af1d165d3db": {
+      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
+      "fetched_at": "2026-08-18T06:23:51.804159+00:00"
+    },
+    "d6085c01d8b4034a": {
+      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
+      "fetched_at": "2026-08-18T06:23:52.402279+00:00"
     }
   },
-  "last_updated": "2026-08-18T00:35:44.467318+00:00"
+  "last_updated": "2026-08-18T06:23:52.499709+00:00"
 }
