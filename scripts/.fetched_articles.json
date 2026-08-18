@@ -1,101 +1,5 @@
 {
   "articles": {
-    "96323f465d3f95bb": {
-      "title": "Pokecut: Free AI Photo Editor and Generator",
-      "fetched_at": "2026-08-10T12:41:34.030485+00:00"
-    },
-    "1653925ac46e7997": {
-      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
-      "fetched_at": "2026-08-10T12:41:34.660461+00:00"
-    },
-    "af5d1e43c1f9a8aa": {
-      "title": "Farmer kills 25 acres of crops after following AI weed and pest control advice",
-      "fetched_at": "2026-08-10T12:41:35.262005+00:00"
-    },
-    "2567145835e95b65": {
-      "title": "The AI Slop Backlash Is Having an Impact",
-      "fetched_at": "2026-08-10T12:41:35.881142+00:00"
-    },
-    "56f64569f8234967": {
-      "title": "AI Coding and Its Discontents",
-      "fetched_at": "2026-08-10T12:41:36.507889+00:00"
-    },
-    "53fd97276feffb2b": {
-      "title": "In-House LLM Serving at Netflix",
-      "fetched_at": "2026-08-10T12:41:37.115350+00:00"
-    },
-    "e74e8519b3148032": {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "fetched_at": "2026-08-10T12:41:37.805264+00:00"
-    },
-    "33feb5413ebf746e": {
-      "title": "AI coding got faster. Why didn't engineering?",
-      "fetched_at": "2026-08-10T12:41:38.470687+00:00"
-    },
-    "1a7f2c7ac8af217e": {
-      "title": "Show HN: Taalas-style on-chip LLM weights on a $250 AMD FPGA (60k tok/s)",
-      "fetched_at": "2026-08-10T12:41:39.076593+00:00"
-    },
-    "0f971ce60570113f": {
-      "title": "Steam Machine and Steam Controller Customers in Europe Hit by Cyber Attack",
-      "fetched_at": "2026-08-10T12:41:39.689125+00:00"
-    },
-    "68d8acf167a09d0c": {
-      "title": "Beijing is forcing a mass breakup with AI lovers",
-      "fetched_at": "2026-08-10T12:41:40.352213+00:00"
-    },
-    "586b44c869a2b85b": {
-      "title": "AI model captures how humans read, paving the way to personalised text",
-      "fetched_at": "2026-08-10T12:41:40.988465+00:00"
-    },
-    "1db6e3066b573e13": {
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "fetched_at": "2026-08-10T12:41:41.706358+00:00"
-    },
-    "e79beee5cbdc0d44": {
-      "title": "Meta's new open-weight model targets local agentic AI",
-      "fetched_at": "2026-08-10T12:41:42.313720+00:00"
-    },
-    "f92b748e26cd36c7": {
-      "title": "China doesn't need to beat US AI [video]",
-      "fetched_at": "2026-08-10T12:41:42.921134+00:00"
-    },
-    "a0aa11ac2e7ff4ee": {
-      "title": "The OpenAI and Hugging Face breach story told from the perspective of the AI",
-      "fetched_at": "2026-08-10T12:41:43.533061+00:00"
-    },
-    "301c45e09c342cd6": {
-      "title": "Show HN: An open-source multi-tenant, AI-native software factory",
-      "fetched_at": "2026-08-10T12:41:44.178987+00:00"
-    },
-    "542c16a25a36d372": {
-      "title": "Senior detective under investigation over use of AI",
-      "fetched_at": "2026-08-10T12:41:44.785154+00:00"
-    },
-    "d25800e46c3258b0": {
-      "title": "Linus Torvalds says AI has made Linux kernel updates the new normal",
-      "fetched_at": "2026-08-10T12:41:45.435548+00:00"
-    },
-    "63567c2c6952d22d": {
-      "title": "The Future Is for Everyone – The Path to a Positive AI Future",
-      "fetched_at": "2026-08-10T12:41:46.052340+00:00"
-    },
-    "ace89b3bb9a32548": {
-      "title": "為什麼航空公司對鋰電池日趨警惕",
-      "fetched_at": "2026-08-10T12:41:48.615813+00:00"
-    },
-    "a1266c6082481a26": {
-      "title": "保「先人」清靜 《哈利波特》書迷影迷成功迫使跨境電纜改道",
-      "fetched_at": "2026-08-10T12:41:49.216649+00:00"
-    },
-    "a6bdfbff7142d076": {
-      "title": "Will you be looking up on Aug. 12, the best skywatching day and night of the year?",
-      "fetched_at": "2026-08-10T12:41:51.725068+00:00"
-    },
-    "5bce6afa8f90ad08": {
-      "title": "Berlin gold hat: A 3,000-year-old ceremonial headdress that a cult used to track the sun, moon and lunar eclipses",
-      "fetched_at": "2026-08-10T12:41:52.352500+00:00"
-    },
     "a829959615b4def8": {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
       "fetched_at": "2026-08-10T18:40:22.534615+00:00"
@@ -3575,7 +3479,115 @@
     "7e7a06a2d4885a9f": {
       "title": "'They don't deserve this beauty and this breathtaking fragility': Former Antarctic tour guides told researchers why they quit the troubling industry",
       "fetched_at": "2026-08-18T12:21:24.747010+00:00"
+    },
+    "9d93e5f1cd52e25a": {
+      "title": "David Chalmers asks: When we talk to AI, what are we talking to?",
+      "fetched_at": "2026-08-18T18:20:02.405154+00:00"
+    },
+    "6b59013d93122dfa": {
+      "title": "3D Model Markets Are Being Flooded with AI Sellers, but No One's Buying",
+      "fetched_at": "2026-08-18T18:20:03.022526+00:00"
+    },
+    "e17005c44eedc654": {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "fetched_at": "2026-08-18T18:20:03.645868+00:00"
+    },
+    "499a073d2194f822": {
+      "title": "Show HN: Unigram: encode bytes as words that cost one LLM token",
+      "fetched_at": "2026-08-18T18:20:04.259822+00:00"
+    },
+    "0ada10d04352b48d": {
+      "title": "AI automation startup Relay.app shuts down, staff joins Google's Chrome team",
+      "fetched_at": "2026-08-18T18:20:04.886311+00:00"
+    },
+    "3f5e11f159a8d1ac": {
+      "title": "AI Watermarking, Nazi Enigmas, and Sherlock Holmes",
+      "fetched_at": "2026-08-18T18:20:05.514254+00:00"
+    },
+    "355dbafb582b6b17": {
+      "title": "Return of the Spec: Why AI agents are reviving the software specification",
+      "fetched_at": "2026-08-18T18:20:06.124154+00:00"
+    },
+    "8c683e5b485a69fc": {
+      "title": "A Texas University Becomes a Petri Dish for a Conservative Overhaul [Using AI]",
+      "fetched_at": "2026-08-18T18:20:06.737358+00:00"
+    },
+    "897df057d11207d4": {
+      "title": "Contributors are AI-first now. Is your project?",
+      "fetched_at": "2026-08-18T18:20:07.359349+00:00"
+    },
+    "b6778b06caa68898": {
+      "title": "IP can't save you from AI",
+      "fetched_at": "2026-08-18T18:20:07.971400+00:00"
+    },
+    "890ebd98c4ff0173": {
+      "title": "AI chip startup Etched doubles valuation to $21B in under a month",
+      "fetched_at": "2026-08-18T18:20:08.589312+00:00"
+    },
+    "f4ff802a26e24918": {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "fetched_at": "2026-08-18T18:20:09.195231+00:00"
+    },
+    "60d50a44acd752b7": {
+      "title": "One Person State – portable personal AI system",
+      "fetched_at": "2026-08-18T18:20:09.806418+00:00"
+    },
+    "8daec063556d8db9": {
+      "title": "A 24-Year-Old Blew Up a $45B AI Fund",
+      "fetched_at": "2026-08-18T18:20:10.430117+00:00"
+    },
+    "bc4823e43dc652cd": {
+      "title": "The Download: how people use AI, and Flock's design choices",
+      "fetched_at": "2026-08-18T18:20:11.031712+00:00"
+    },
+    "067d350fde173d8d": {
+      "title": "Show HN: See what an LLM learned, organised as a browsable tree",
+      "fetched_at": "2026-08-18T18:20:11.638283+00:00"
+    },
+    "a42c8851ca877ba0": {
+      "title": "Operationalizing agentic AI: The Day 0-2 blueprint for enterprise infrastructure",
+      "fetched_at": "2026-08-18T18:20:12.266333+00:00"
+    },
+    "3d9638c6bb19fb07": {
+      "title": "The AI Slop Spiral",
+      "fetched_at": "2026-08-18T18:20:12.878632+00:00"
+    },
+    "4665d298d783b87f": {
+      "title": "Recent grads say AI is making it harder to get a job. Economists aren't sure",
+      "fetched_at": "2026-08-18T18:20:13.496415+00:00"
+    },
+    "c49cbc536093d835": {
+      "title": "Magnitude – Open-source AI coding agent that runs local models offline",
+      "fetched_at": "2026-08-18T18:20:14.141725+00:00"
+    },
+    "d76ace4cc2d4df10": {
+      "title": "朱鎔基在京火化：從民間悼念到八寶山公墓，中國領導人「身後事」的政治邏輯",
+      "fetched_at": "2026-08-18T18:21:18.465858+00:00"
+    },
+    "8bc3a3b42ed6253e": {
+      "title": "Crucibles Contain Earliest Evidence of Brass Production in East Asia",
+      "fetched_at": "2026-08-18T18:21:21.546520+00:00"
+    },
+    "560a42d28cfa6147": {
+      "title": "Mysterious Runestone Found in Floor of Faroe Islands Chapel",
+      "fetched_at": "2026-08-18T18:21:22.157622+00:00"
+    },
+    "6c2ba1614202e37a": {
+      "title": "Denisovans Were Much Taller Than Previously Thought",
+      "fetched_at": "2026-08-18T18:21:22.781419+00:00"
+    },
+    "dc701a2ed94ea858": {
+      "title": "Neanderthals may have trekked through the Saudi Arabian desert 55,000 years ago, farther south than experts thought possible",
+      "fetched_at": "2026-08-18T18:21:23.393528+00:00"
+    },
+    "160f5ba21c5f4514": {
+      "title": "'Beyond human intuition': AI designs chip components 500 times smaller than what engineers could ever imagine",
+      "fetched_at": "2026-08-18T18:21:24.002774+00:00"
+    },
+    "afad445849ca18f0": {
+      "title": "The pace of climate change matters more than overall heat in the race to save key Atlantic currents, study finds",
+      "fetched_at": "2026-08-18T18:21:24.611000+00:00"
     }
   },
-  "last_updated": "2026-08-18T12:21:24.839784+00:00"
+  "last_updated": "2026-08-18T18:21:24.706722+00:00"
 }
