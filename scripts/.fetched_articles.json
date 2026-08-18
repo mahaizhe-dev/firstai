@@ -1,65 +1,5 @@
 {
   "articles": {
-    "ff30b76d0e2ca536": {
-      "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
-      "fetched_at": "2026-08-10T07:07:10.014010+00:00"
-    },
-    "d89d3aad7cef47b8": {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "fetched_at": "2026-08-10T07:07:10.588965+00:00"
-    },
-    "217d926f47003455": {
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "fetched_at": "2026-08-10T07:07:11.199035+00:00"
-    },
-    "09f92515e2c14347": {
-      "title": "The AI safety test is becoming a safety risk",
-      "fetched_at": "2026-08-10T07:07:11.787186+00:00"
-    },
-    "29a849af0ffd9902": {
-      "title": "想要開放霍爾木茲海峽 伊朗向特朗普提出的六個條件",
-      "fetched_at": "2026-08-10T07:07:14.501823+00:00"
-    },
-    "9aee87c224dd915f": {
-      "title": "「最強颱風」紀錄險再刷新 白海豚登陸後北移百萬人疏散",
-      "fetched_at": "2026-08-10T07:07:15.064771+00:00"
-    },
-    "7c90d868472ecca6": {
-      "title": "台湾的无人机“地狱景象”能抵御中国入侵吗？",
-      "fetched_at": "2026-08-10T07:07:15.642078+00:00"
-    },
-    "4ce0e5673309f04b": {
-      "title": "弹丸枪、警棍、催泪瓦斯：印度警方如何镇压青年抗议者",
-      "fetched_at": "2026-08-10T07:07:16.206214+00:00"
-    },
-    "d1fe5ca32358a792": {
-      "title": "走访震后熊本：为何经历强震但死伤较少？",
-      "fetched_at": "2026-08-10T07:07:16.769379+00:00"
-    },
-    "851cc91abe376192": {
-      "title": "美国正在伊朗大量消耗武器，俄中或坐收渔利",
-      "fetched_at": "2026-08-10T07:07:17.329718+00:00"
-    },
-    "6353b03a3c872f93": {
-      "title": "游客激增考验越南司法系统：如何应对“不良”外国人？",
-      "fetched_at": "2026-08-10T07:07:17.933968+00:00"
-    },
-    "0a41d1dc9058992e": {
-      "title": "Could we prevent dementia? A new trial may point the way.",
-      "fetched_at": "2026-08-10T07:07:20.531470+00:00"
-    },
-    "a5700a0474975681": {
-      "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
-      "fetched_at": "2026-08-10T07:07:21.116899+00:00"
-    },
-    "7cf64a4118cd79c1": {
-      "title": "Superheated magma may power towering lava fountains",
-      "fetched_at": "2026-08-10T07:07:21.680558+00:00"
-    },
-    "834b3e7b9203d42f": {
-      "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
-      "fetched_at": "2026-08-10T07:07:22.250496+00:00"
-    },
     "96323f465d3f95bb": {
       "title": "Pokecut: Free AI Photo Editor and Generator",
       "fetched_at": "2026-08-10T12:41:34.030485+00:00"
@@ -3527,7 +3467,115 @@
     "d6085c01d8b4034a": {
       "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
       "fetched_at": "2026-08-18T06:23:52.402279+00:00"
+    },
+    "52d5e16aa614f681": {
+      "title": "State Farm defense lawyers admit AI generated fake cases in LA lawsuit",
+      "fetched_at": "2026-08-18T12:21:04.994016+00:00"
+    },
+    "3f7ab9c2f43f933a": {
+      "title": "Taxing AI to Help Workers Sounds Good, but Public Deserves More",
+      "fetched_at": "2026-08-18T12:21:05.579256+00:00"
+    },
+    "31c9021b9d95c75b": {
+      "title": "Can autocomplete play chess blindfolded? A journey into applied AI research",
+      "fetched_at": "2026-08-18T12:21:06.155595+00:00"
+    },
+    "8daea63854d01b90": {
+      "title": "Show HN: AI Resume Optimization Tool for Specific Job Positions",
+      "fetched_at": "2026-08-18T12:21:06.744384+00:00"
+    },
+    "ee815eb0ca7cb2e6": {
+      "title": "Google&#8217;s Pet Memory forgot who my cats are",
+      "fetched_at": "2026-08-18T12:21:07.340073+00:00"
+    },
+    "ac46c2709857f909": {
+      "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+      "fetched_at": "2026-08-18T12:21:07.941422+00:00"
+    },
+    "8c095b80bf3d7793": {
+      "title": "Vercel AI Gateway: GPT-5.6 Sol is 50% off for the next month",
+      "fetched_at": "2026-08-18T12:21:08.532431+00:00"
+    },
+    "1320285292a2c942": {
+      "title": "Show HN: H2AI Chat – multi-AI debate you can self-host with local models (AGPL)",
+      "fetched_at": "2026-08-18T12:21:09.119227+00:00"
+    },
+    "28fa7fde00b82963": {
+      "title": "Don't Paste the AI, Please",
+      "fetched_at": "2026-08-18T12:21:09.714313+00:00"
+    },
+    "f58d57aa9675b879": {
+      "title": "AI Does Not Change Goodhart or the Folly of Tokenmaxxing",
+      "fetched_at": "2026-08-18T12:21:10.340043+00:00"
+    },
+    "f763d75e4b2d9757": {
+      "title": "Rewriting a production compiler's IR with AI agents in five weeks",
+      "fetched_at": "2026-08-18T12:21:10.963485+00:00"
+    },
+    "61e43eea6f2cd97c": {
+      "title": "Democracy vs. the machine: birth of digital age,the warnings that were ignored",
+      "fetched_at": "2026-08-18T12:21:11.550633+00:00"
+    },
+    "047453a5c66902db": {
+      "title": "AI Used to Verify Toughest Mathematics Proof Yet",
+      "fetched_at": "2026-08-18T12:21:12.138273+00:00"
+    },
+    "bd3de713b01f89bb": {
+      "title": "Handover of In-Context Learning State Across Session Boundaries",
+      "fetched_at": "2026-08-18T12:21:12.723386+00:00"
+    },
+    "9c710053524722c9": {
+      "title": "We still don't know how people are using AI",
+      "fetched_at": "2026-08-18T12:21:13.308467+00:00"
+    },
+    "cf5747cfe6159b05": {
+      "title": "Elon Musk made flying even worse so Palantir could profit",
+      "fetched_at": "2026-08-18T12:21:13.890184+00:00"
+    },
+    "46c9cbf8295bb3b3": {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "fetched_at": "2026-08-18T12:21:14.493280+00:00"
+    },
+    "c8dbd02161e1e813": {
+      "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+      "fetched_at": "2026-08-18T12:21:15.072746+00:00"
+    },
+    "fd4d56a077f5a13d": {
+      "title": "Tell HN: Use AI to music score your books",
+      "fetched_at": "2026-08-18T12:21:15.671674+00:00"
+    },
+    "c6949d9b95f1e223": {
+      "title": "Executable pseudocode for learning CS without syntax barriers",
+      "fetched_at": "2026-08-18T12:21:16.260072+00:00"
+    },
+    "a91e9a60f58fec42": {
+      "title": "Z世代為何要用抗焦慮藥物取代酒精？從一位中國女孩講起",
+      "fetched_at": "2026-08-18T12:21:19.006861+00:00"
+    },
+    "532ffec38fdfae68": {
+      "title": "朱鎔基在京火化：從民間悼念到八寶山，中國領導人「身後事」的政治邏輯",
+      "fetched_at": "2026-08-18T12:21:19.585727+00:00"
+    },
+    "536be13b296a5350": {
+      "title": "硅谷并没有“右转”，它本来就“右”",
+      "fetched_at": "2026-08-18T12:21:20.255018+00:00"
+    },
+    "7cdc893bc46738cb": {
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "fetched_at": "2026-08-18T12:21:20.840150+00:00"
+    },
+    "ffebff6f0652f0ad": {
+      "title": "Archaeologists discover Etruscan well that was ritually opened with offerings for a goddess — and 'closed' with human bodies",
+      "fetched_at": "2026-08-18T12:21:23.582403+00:00"
+    },
+    "20cd0250bec8aef1": {
+      "title": "Giant underwater plume blasts into swirling cloud 'street' in the East China Sea — Earth from space",
+      "fetched_at": "2026-08-18T12:21:24.163978+00:00"
+    },
+    "7e7a06a2d4885a9f": {
+      "title": "'They don't deserve this beauty and this breathtaking fragility': Former Antarctic tour guides told researchers why they quit the troubling industry",
+      "fetched_at": "2026-08-18T12:21:24.747010+00:00"
     }
   },
-  "last_updated": "2026-08-18T06:23:52.499709+00:00"
+  "last_updated": "2026-08-18T12:21:24.839784+00:00"
 }
