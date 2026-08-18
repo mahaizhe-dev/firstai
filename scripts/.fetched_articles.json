@@ -1,117 +1,5 @@
 {
   "articles": {
-    "c4817f61b124007c": {
-      "title": "AI Is on Its Last Legs [video]",
-      "fetched_at": "2026-08-09T18:22:30.931419+00:00"
-    },
-    "47beb5560e45bab3": {
-      "title": "Large-Scale Code Refactoring with AI",
-      "fetched_at": "2026-08-09T18:22:31.526611+00:00"
-    },
-    "01a9ff8c54fa8cdd": {
-      "title": "AI Workers Ask U.S. Government for Tools to Slow AI Before a Crisis",
-      "fetched_at": "2026-08-09T18:22:32.118247+00:00"
-    },
-    "b04fdc71aeba4d9f": {
-      "title": "A Philosophy for AI Agents",
-      "fetched_at": "2026-08-09T18:22:32.708726+00:00"
-    },
-    "de5b90a32befd3d7": {
-      "title": "Browser's new page that shows quotes inspired by your AI chats history",
-      "fetched_at": "2026-08-09T18:22:33.317690+00:00"
-    },
-    "0ef27cd881690117": {
-      "title": "Show HN: Open-source playground to red-team AI agents against public prompts",
-      "fetched_at": "2026-08-09T18:22:33.916767+00:00"
-    },
-    "e49971017da0e039": {
-      "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
-      "fetched_at": "2026-08-09T18:22:34.511220+00:00"
-    },
-    "d195cf19ed44f17f": {
-      "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
-      "fetched_at": "2026-08-09T18:22:35.113664+00:00"
-    },
-    "fcee3b9af3200198": {
-      "title": "AI Code Is Insane Trash",
-      "fetched_at": "2026-08-09T18:22:35.708451+00:00"
-    },
-    "61e8d42f8e6a40a4": {
-      "title": "Show HN: RunOnMine – local policy and approvals for AI access to your machine",
-      "fetched_at": "2026-08-09T18:22:36.325915+00:00"
-    },
-    "83a2a6ba307124d8": {
-      "title": "gpt-5.6-sol agent harness in 17 lines PHP",
-      "fetched_at": "2026-08-09T18:22:36.925264+00:00"
-    },
-    "5cbc39d63b5db6f6": {
-      "title": "AI Barons Are Ready to Give Away Their Fortunes",
-      "fetched_at": "2026-08-09T18:22:37.523246+00:00"
-    },
-    "9766febf620653a3": {
-      "title": "You need a machine that never sleeps",
-      "fetched_at": "2026-08-09T18:22:38.119116+00:00"
-    },
-    "dbd688f98a97ee31": {
-      "title": "Show HN: GlyPho – Generate editable SVGs from simple AI prompts",
-      "fetched_at": "2026-08-09T18:22:38.711187+00:00"
-    },
-    "56b736766bb9b8cd": {
-      "title": "DeepMind AI gives an extra day of warning ahead of deadly cyclones",
-      "fetched_at": "2026-08-09T18:22:39.304125+00:00"
-    },
-    "5774c3819e7970af": {
-      "title": "AI Settles a 25 Year-Old Problem We Left Behind",
-      "fetched_at": "2026-08-09T18:22:39.304243+00:00"
-    },
-    "b9f17481d964da94": {
-      "title": "AI push is putting banks at mercy of tech firms, warns Moody's",
-      "fetched_at": "2026-08-09T18:22:39.901727+00:00"
-    },
-    "1aabadbf5246b385": {
-      "title": "People Who Will Thrive in the AI Age",
-      "fetched_at": "2026-08-09T18:22:40.497012+00:00"
-    },
-    "67db8c8c2060d4c8": {
-      "title": "Ask HN: Anything as Fast as Google's AI Mode in the CLI?",
-      "fetched_at": "2026-08-09T18:22:41.091655+00:00"
-    },
-    "639ce661b591f5bf": {
-      "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-      "fetched_at": "2026-08-09T18:22:41.690164+00:00"
-    },
-    "7149db99b740b409": {
-      "title": "'Now our lives have changed': Drop in coal burning is helping the African Sahel turn green after decades of drought",
-      "fetched_at": "2026-08-09T18:22:47.191809+00:00"
-    },
-    "5050ed3df7bf3afa": {
-      "title": "Ancient surveying instruments laid the math for early land grids",
-      "fetched_at": "2026-08-09T18:22:47.786981+00:00"
-    },
-    "ae448af1d165d3db": {
-      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
-      "fetched_at": "2026-08-09T18:22:48.378727+00:00"
-    },
-    "ff8d0c1c1a084c47": {
-      "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
-      "fetched_at": "2026-08-09T18:22:49.002079+00:00"
-    },
-    "873dfa9d10a5b161": {
-      "title": "Chemists set electrons free and break a decades-old chemistry barrier",
-      "fetched_at": "2026-08-09T18:22:49.611404+00:00"
-    },
-    "cbd851b704899f68": {
-      "title": "Dinosaurs became giants — so why did they never become tiny?",
-      "fetched_at": "2026-08-09T18:22:50.207721+00:00"
-    },
-    "d6085c01d8b4034a": {
-      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
-      "fetched_at": "2026-08-09T18:22:50.814535+00:00"
-    },
-    "66d00e66327ddc1e": {
-      "title": "The dodo bird had a secret sensory world scientists are only now discovering",
-      "fetched_at": "2026-08-09T18:22:51.417976+00:00"
-    },
     "f0485e4b5523e740": {
       "title": "What do I want to be? – a poem about parenting in the AI age",
       "fetched_at": "2026-08-10T00:52:35.020003+00:00"
@@ -3507,7 +3395,119 @@
     "c7a4c8fa6ccf11cf": {
       "title": "Scientists uncover the hidden nerve network fueling breast cancer",
       "fetched_at": "2026-08-17T18:21:06.991540+00:00"
+    },
+    "5b6960ec636262b1": {
+      "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
+      "fetched_at": "2026-08-18T00:35:09.555792+00:00"
+    },
+    "6c705cb14d56d2af": {
+      "title": "Consumers Prefer AI Music Until They're Told It's AI",
+      "fetched_at": "2026-08-18T00:35:10.134786+00:00"
+    },
+    "c9b4f413999241d5": {
+      "title": "Whose doctor does the AI recommend? An algorithm audit of LLMs in physician",
+      "fetched_at": "2026-08-18T00:35:10.718745+00:00"
+    },
+    "48463aa14e655712": {
+      "title": "Connecting to an Azure/Entra Joined Windows Machine from Linux",
+      "fetched_at": "2026-08-18T00:35:11.295071+00:00"
+    },
+    "5253b4ff49f67abd": {
+      "title": "Un-AI Your Internet",
+      "fetched_at": "2026-08-18T00:35:11.865945+00:00"
+    },
+    "9b6d1040fb20dde0": {
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "fetched_at": "2026-08-18T00:35:12.440687+00:00"
+    },
+    "fbb8d934abe37374": {
+      "title": "Our Learning from Building Voice Agents for Loan Servicing",
+      "fetched_at": "2026-08-18T00:35:13.029080+00:00"
+    },
+    "07d806eea75e0b48": {
+      "title": "Show HN: AI-generated music box version of any song (for baby)",
+      "fetched_at": "2026-08-18T00:35:13.619977+00:00"
+    },
+    "95278b73b2c9cc15": {
+      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
+      "fetched_at": "2026-08-18T00:35:14.205586+00:00"
+    },
+    "e86a41e92b09b33c": {
+      "title": "Ask HN: Can you still tell AI-generated text apart in your own language?",
+      "fetched_at": "2026-08-18T00:35:14.795280+00:00"
+    },
+    "267813bc90855ad6": {
+      "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
+      "fetched_at": "2026-08-18T00:35:15.388029+00:00"
+    },
+    "672197ccc05f1626": {
+      "title": "Building an AI Text Detector from Scratch",
+      "fetched_at": "2026-08-18T00:35:15.973887+00:00"
+    },
+    "cfe58289cc77e56c": {
+      "title": "Cumora, a cross-platform team chat where AI agents work alongside humans",
+      "fetched_at": "2026-08-18T00:35:16.557956+00:00"
+    },
+    "b129f282fd0efcbf": {
+      "title": "AI writes dead code – the Go team's deadcode tool finds it in one command",
+      "fetched_at": "2026-08-18T00:35:17.138507+00:00"
+    },
+    "60084c2885ff9359": {
+      "title": "Agentic AI in a Smolbox",
+      "fetched_at": "2026-08-18T00:35:17.781012+00:00"
+    },
+    "2c1083a162286d1a": {
+      "title": "Control Charts Make AI Agents Cheaper, Less Necessary, and More Useful",
+      "fetched_at": "2026-08-18T00:35:18.361479+00:00"
+    },
+    "01e731316fe85b9d": {
+      "title": "My friends all hate AI; I just joined an AI startup",
+      "fetched_at": "2026-08-18T00:35:18.941823+00:00"
+    },
+    "ebb937d732d2841c": {
+      "title": "Foreign psyops campaign targeting American consumer AI (2025)",
+      "fetched_at": "2026-08-18T00:35:19.591615+00:00"
+    },
+    "591bef04e1802f9f": {
+      "title": "EY turning internships into yearlong residencies as AI changes entry-level work",
+      "fetched_at": "2026-08-18T00:35:20.173992+00:00"
+    },
+    "a46dc982747cdbe9": {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "fetched_at": "2026-08-18T00:35:20.751112+00:00"
+    },
+    "8e6f52507ee70ed8": {
+      "title": "「我在遊戲中當了兩年英國首相，然後閣員們都離我而去」",
+      "fetched_at": "2026-08-18T00:35:23.160411+00:00"
+    },
+    "fdcab1ff7d6433bd": {
+      "title": "日本企業應用人工智慧為何如此緩慢？",
+      "fetched_at": "2026-08-18T00:35:23.749484+00:00"
+    },
+    "2b3d4e8dc5b1c925": {
+      "title": "從DeepSeek到「人工智能+」：中美AI競賽究竟在比什麼？",
+      "fetched_at": "2026-08-18T00:35:24.336709+00:00"
+    },
+    "b4ab6d6945fad69c": {
+      "title": "Do you think social media bans will protect children?",
+      "fetched_at": "2026-08-18T00:35:42.053612+00:00"
+    },
+    "c1a6dfe5d30a1ba9": {
+      "title": "The 'real Indiana Jones' who found an ancient, lost city of the Incas",
+      "fetched_at": "2026-08-18T00:35:42.636858+00:00"
+    },
+    "0934d51c48e0ec81": {
+      "title": "Ceremonial Poles Returned to Canadian Village Site",
+      "fetched_at": "2026-08-18T00:35:43.219984+00:00"
+    },
+    "a1ee8a739e73878a": {
+      "title": "Human ancestors may have almost died out after ancient population crash (2023)",
+      "fetched_at": "2026-08-18T00:35:43.804589+00:00"
+    },
+    "fd5319ab2f5957cf": {
+      "title": "'His urine goes on tour around Europe, showing the kings and queens this glowing pee': The weird world of alchemy before chemistry",
+      "fetched_at": "2026-08-18T00:35:44.391931+00:00"
     }
   },
-  "last_updated": "2026-08-17T18:21:07.118698+00:00"
+  "last_updated": "2026-08-18T00:35:44.467318+00:00"
 }
