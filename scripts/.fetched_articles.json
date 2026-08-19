@@ -1,117 +1,5 @@
 {
   "articles": {
-    "5cd93d4c130775fd": {
-      "title": "The AI Revolution – History Repeating Itself – On Economics",
-      "fetched_at": "2026-08-11T06:44:26.777456+00:00"
-    },
-    "e7ac2dc7fe903c8f": {
-      "title": "Nvidia gets $500B from major investors to develop AI infrastructure",
-      "fetched_at": "2026-08-11T06:44:27.399150+00:00"
-    },
-    "dd4709fa80a3b2e7": {
-      "title": "AI is approving our pull requests",
-      "fetched_at": "2026-08-11T06:44:28.051262+00:00"
-    },
-    "ac21f377b7dd1740": {
-      "title": "Superintelligence is a dragon: What Mark Zuckerberg misunderstands about AI",
-      "fetched_at": "2026-08-11T06:44:28.715938+00:00"
-    },
-    "a17b39cab707e0ea": {
-      "title": "Se-harness – portable, tool-agnostic AI coding harness generator",
-      "fetched_at": "2026-08-11T06:44:29.341017+00:00"
-    },
-    "7eb02d989625836b": {
-      "title": "ASD Has Handed Australian and New Zealand Boards 16 Questions on Frontier AI",
-      "fetched_at": "2026-08-11T06:44:29.975158+00:00"
-    },
-    "36d8ff48e70ad1ca": {
-      "title": "OpenAI launches GPT-5.6-Cyber – 95% completion on advanced cybersecurity tasks",
-      "fetched_at": "2026-08-11T06:44:30.623997+00:00"
-    },
-    "2de227abd6c04ed5": {
-      "title": "The AI threat to India's IT jobs machine",
-      "fetched_at": "2026-08-11T06:44:31.237691+00:00"
-    },
-    "98ffec1689a6f1aa": {
-      "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
-      "fetched_at": "2026-08-11T06:44:31.854081+00:00"
-    },
-    "0516d259b89044bc": {
-      "title": "Show HN: NiceShot AI – The analytics layer competitive games forgot to add",
-      "fetched_at": "2026-08-11T06:44:32.494561+00:00"
-    },
-    "39ff40268bcbcbf0": {
-      "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
-      "fetched_at": "2026-08-11T06:44:33.145637+00:00"
-    },
-    "ec50ac9beec9c262": {
-      "title": "Study: AI is better at reading than listening",
-      "fetched_at": "2026-08-11T06:44:33.780657+00:00"
-    },
-    "01fe5e6c4d930c60": {
-      "title": "GPT 5.6 Cyber",
-      "fetched_at": "2026-08-11T06:44:34.400308+00:00"
-    },
-    "1e17f5fe54c884dc": {
-      "title": "Folding Prion Protein with AI",
-      "fetched_at": "2026-08-11T06:44:35.038524+00:00"
-    },
-    "3774bc9c24c77516": {
-      "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
-      "fetched_at": "2026-08-11T06:44:35.664617+00:00"
-    },
-    "7b990b19a7e7bef1": {
-      "title": "'We Did Our Best': Metaphors of Parenting and AI",
-      "fetched_at": "2026-08-11T06:44:36.298293+00:00"
-    },
-    "5ddd9147952e942b": {
-      "title": "Call centres using AI to 'whiten' Indian accents (2025)",
-      "fetched_at": "2026-08-11T06:44:36.938531+00:00"
-    },
-    "8f3aa03421d0a9e1": {
-      "title": "Portail – Sovereign Rust AI Gateway and BitNet B1.58 SIMD Tensor Engine",
-      "fetched_at": "2026-08-11T06:44:37.594577+00:00"
-    },
-    "02c305c4eea9f4f3": {
-      "title": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍",
-      "fetched_at": "2026-08-11T06:44:38.319123+00:00"
-    },
-    "414597cb82163fbf": {
-      "title": "Claude will watermark AI-generated text and images",
-      "fetched_at": "2026-08-11T06:44:38.941664+00:00"
-    },
-    "8ad54f826e83a6f2": {
-      "title": "哥倫比亞多年來最大地震造成至少132人死亡",
-      "fetched_at": "2026-08-11T06:44:41.156420+00:00"
-    },
-    "16b0e7628903c144": {
-      "title": "Meta发布开放权重AI模型Muse Glimmer",
-      "fetched_at": "2026-08-11T06:44:41.779226+00:00"
-    },
-    "f3fbcbde864c273e": {
-      "title": "如果中国切断台湾互联网，台湾将如何应对？",
-      "fetched_at": "2026-08-11T06:44:42.424983+00:00"
-    },
-    "b98f7ac1cfe3dc97": {
-      "title": "移民改革会是特朗普的“尼克松访华”时刻吗？",
-      "fetched_at": "2026-08-11T06:44:43.087979+00:00"
-    },
-    "26f718be5c482ee3": {
-      "title": "哥伦比亚发生7.4级强震，上百人死亡",
-      "fetched_at": "2026-08-11T06:44:43.716415+00:00"
-    },
-    "a4c6fa55c8289eab": {
-      "title": "向特朗普加密货币投入1亿美元的华人买家是谁？",
-      "fetched_at": "2026-08-11T06:44:44.348504+00:00"
-    },
-    "fada82326793f54d": {
-      "title": "Dark matter’s secret force does the opposite of what scientists expected",
-      "fetched_at": "2026-08-11T06:44:46.090757+00:00"
-    },
-    "e441aaea83625c15": {
-      "title": "Scientists detect a sharp acceleration in global warming",
-      "fetched_at": "2026-08-11T06:44:46.755419+00:00"
-    },
     "485e9716a4a148c5": {
       "title": "Claude will apply invisible watermarks to AI text and images",
       "fetched_at": "2026-08-11T12:37:44.160106+00:00"
@@ -3639,7 +3527,127 @@
     "d1f5b0d147f3b707": {
       "title": "Cassini reveals a surprising twist in Saturn’s magnetic shield",
       "fetched_at": "2026-08-19T06:23:55.321367+00:00"
+    },
+    "e91ca59110875db3": {
+      "title": "I run AI coding agents as a team with AI DevKit",
+      "fetched_at": "2026-08-19T12:21:03.377405+00:00"
+    },
+    "2d490a7ca0d06291": {
+      "title": "Why Legacy Systems Block Real-Time AI Decision-Making",
+      "fetched_at": "2026-08-19T12:21:03.961806+00:00"
+    },
+    "5fd713c4ace7d948": {
+      "title": "Anthropic Posts First Profitable Quarter in Frontier AI",
+      "fetched_at": "2026-08-19T12:21:04.538024+00:00"
+    },
+    "49c6e410e89e1c9c": {
+      "title": "Show HN: LLM-Shield-Proxy Zero-Egress PII Streaming Proxy (55MB RAM)",
+      "fetched_at": "2026-08-19T12:21:05.121860+00:00"
+    },
+    "4c1558c4a36216ba": {
+      "title": "Nvidia’s new financial strategy does not compute",
+      "fetched_at": "2026-08-19T12:21:05.733806+00:00"
+    },
+    "50cd45e399779371": {
+      "title": "YC is betting on robotics and physical AI startups",
+      "fetched_at": "2026-08-19T12:21:06.324547+00:00"
+    },
+    "1452201f08f09694": {
+      "title": "Show HN: Real-time argument duello game – AI judge decides who's right",
+      "fetched_at": "2026-08-19T12:21:06.910985+00:00"
+    },
+    "80be51b0ac560342": {
+      "title": "The AI storage pitch is a load balancing problem",
+      "fetched_at": "2026-08-19T12:21:07.501206+00:00"
+    },
+    "81d4fa3b68d5f14e": {
+      "title": "AI automated hiring tools spark discrimination and secrecy lawsuits",
+      "fetched_at": "2026-08-19T12:21:08.089111+00:00"
+    },
+    "064f86510095c2bf": {
+      "title": "Giving LLM the schema docs made its wrong SQL answers more plausible, not rarer",
+      "fetched_at": "2026-08-19T12:21:08.677035+00:00"
+    },
+    "99db6d3b8faf01a3": {
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "fetched_at": "2026-08-19T12:21:09.259962+00:00"
+    },
+    "82f318cab704bb28": {
+      "title": "Common Mistakes I've Seen That AI-Generated Apps Keep Making",
+      "fetched_at": "2026-08-19T12:21:09.838924+00:00"
+    },
+    "c1987ff548b9337a": {
+      "title": "Chinese Banks Start Lending Based on AI Computing-Power Usage",
+      "fetched_at": "2026-08-19T12:21:10.438038+00:00"
+    },
+    "2241125ec7eeb430": {
+      "title": "Confidential AI: Let AI Work for You Without Handing over Your Privacy",
+      "fetched_at": "2026-08-19T12:21:11.051288+00:00"
+    },
+    "d1813fa5f4542606": {
+      "title": "Show HN: Knownbase, an MCP server for persistent AI agent memory",
+      "fetched_at": "2026-08-19T12:21:11.637380+00:00"
+    },
+    "45630e583e23c1d8": {
+      "title": "AI reverse-engineered my printer. I just pressed the buttons",
+      "fetched_at": "2026-08-19T12:21:12.219026+00:00"
+    },
+    "71048ebb6cd5b8f3": {
+      "title": "Artificial Analysis: LLM search API providers",
+      "fetched_at": "2026-08-19T12:21:12.809759+00:00"
+    },
+    "a06318e6da3e3a15": {
+      "title": "SIL: A semantic interface layer for web applications and AI agents",
+      "fetched_at": "2026-08-19T12:21:13.413439+00:00"
+    },
+    "4d3551cff43e5824": {
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "fetched_at": "2026-08-19T12:21:13.992314+00:00"
+    },
+    "632ef969ea313b2b": {
+      "title": "Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI",
+      "fetched_at": "2026-08-19T12:21:14.570238+00:00"
+    },
+    "22ce9e9ed1e01fdf": {
+      "title": "中國動畫電影《牛來》爆紅背後：為爛片還是真誠買單",
+      "fetched_at": "2026-08-19T12:21:17.394097+00:00"
+    },
+    "59d159b506252b5c": {
+      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
+      "fetched_at": "2026-08-19T12:21:17.981628+00:00"
+    },
+    "0c8e53857c14f94d": {
+      "title": "如果北京武力攻台，普通人能“保卫台湾”吗？",
+      "fetched_at": "2026-08-19T12:21:18.564578+00:00"
+    },
+    "66b4e0fe63965552": {
+      "title": "Archeologists used to think women in prehistory wielded no power. Genetic data is upending that idea.",
+      "fetched_at": "2026-08-19T12:21:21.798156+00:00"
+    },
+    "2655d75dd4227310": {
+      "title": "Diagnostic dilemma: A joyful wedding nearly broke a woman's heart in a rare case of 'happy heart syndrome'",
+      "fetched_at": "2026-08-19T12:21:22.374917+00:00"
+    },
+    "38dec2ea05f5012c": {
+      "title": "This 23-foot crocodylian may have ruled South America’s food chain",
+      "fetched_at": "2026-08-19T12:21:22.966010+00:00"
+    },
+    "ab18a4954897e3d9": {
+      "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
+      "fetched_at": "2026-08-19T12:21:23.558518+00:00"
+    },
+    "9cce9cf2285dcfd5": {
+      "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
+      "fetched_at": "2026-08-19T12:21:24.141444+00:00"
+    },
+    "002c80ef28be785e": {
+      "title": "Tiny robots powered by light can hunt down and collect bacteria",
+      "fetched_at": "2026-08-19T12:21:24.719487+00:00"
+    },
+    "b72066cae06b3221": {
+      "title": "Mysterious waves sweeping across your brain may help turn sensory chaos into what you see",
+      "fetched_at": "2026-08-19T12:21:25.308085+00:00"
     }
   },
-  "last_updated": "2026-08-19T06:23:55.455865+00:00"
+  "last_updated": "2026-08-19T12:21:25.419900+00:00"
 }
