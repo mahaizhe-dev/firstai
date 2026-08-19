@@ -1,73 +1,5 @@
 {
   "articles": {
-    "a829959615b4def8": {
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "fetched_at": "2026-08-10T18:40:22.534615+00:00"
-    },
-    "0c480a56dad39fe8": {
-      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-      "fetched_at": "2026-08-10T18:40:23.121084+00:00"
-    },
-    "f3e32385bf3dd1c3": {
-      "title": "What happens to Bose when headphones become AI?",
-      "fetched_at": "2026-08-10T18:40:23.719644+00:00"
-    },
-    "7037467d9d0e8a72": {
-      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
-      "fetched_at": "2026-08-10T18:40:24.395630+00:00"
-    },
-    "f021d49e8e06279a": {
-      "title": "派评 | 近期值得关注的 App",
-      "fetched_at": "2026-08-10T18:40:24.997120+00:00"
-    },
-    "add690fd06bafefc": {
-      "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
-      "fetched_at": "2026-08-10T18:40:25.600639+00:00"
-    },
-    "f2967f9c8ee664fb": {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-      "fetched_at": "2026-08-10T18:40:25.600775+00:00"
-    },
-    "b766e3b372c6dab5": {
-      "title": "Learning from Historical Mistakes",
-      "fetched_at": "2026-08-10T18:40:31.119402+00:00"
-    },
-    "521bb2166ac65cad": {
-      "title": "'They would come in with a chord change': Composer Jim Nollman has collaborated with turkeys, kangaroo rats and whales. Now he's dropping 'Orcas' Greatest Hits.'",
-      "fetched_at": "2026-08-10T18:40:31.711207+00:00"
-    },
-    "cb73872becbd8843": {
-      "title": "Historical Discoveries That Reshaped Modern Historical Understanding",
-      "fetched_at": "2026-08-10T18:40:32.298624+00:00"
-    },
-    "9ff58a0d7e81ed9d": {
-      "title": "Baader AstroSolar Filter Film OD 5.0 review",
-      "fetched_at": "2026-08-10T18:40:32.906420+00:00"
-    },
-    "574403cb2a7350df": {
-      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
-      "fetched_at": "2026-08-10T18:40:33.501792+00:00"
-    },
-    "f70b8dd0af2e2b2e": {
-      "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
-      "fetched_at": "2026-08-10T18:40:34.093214+00:00"
-    },
-    "176f7a407a414ea1": {
-      "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
-      "fetched_at": "2026-08-10T18:40:34.683021+00:00"
-    },
-    "67301685dae30ac3": {
-      "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
-      "fetched_at": "2026-08-10T18:40:35.275969+00:00"
-    },
-    "5081bc2257f7c5f7": {
-      "title": "For 15,000 years, humans and dogs have been changing each other",
-      "fetched_at": "2026-08-10T18:40:35.871132+00:00"
-    },
-    "d1f5b0d147f3b707": {
-      "title": "Cassini reveals a surprising twist in Saturn’s magnetic shield",
-      "fetched_at": "2026-08-10T18:40:36.498513+00:00"
-    },
     "3e1625b1328ed182": {
       "title": "Using AI while exercising your critical thinking",
       "fetched_at": "2026-08-11T00:52:02.809767+00:00"
@@ -3587,7 +3519,119 @@
     "afad445849ca18f0": {
       "title": "The pace of climate change matters more than overall heat in the race to save key Atlantic currents, study finds",
       "fetched_at": "2026-08-18T18:21:24.611000+00:00"
+    },
+    "ff456460476c98a7": {
+      "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
+      "fetched_at": "2026-08-19T00:35:09.414009+00:00"
+    },
+    "35d7f43215fe3b9c": {
+      "title": "Show HN: Monity.ai – Get notified when any website changes",
+      "fetched_at": "2026-08-19T00:35:09.983838+00:00"
+    },
+    "ec6ba6f06f2bde1e": {
+      "title": "How to tame AI's voracious appetite for energy",
+      "fetched_at": "2026-08-19T00:35:10.542023+00:00"
+    },
+    "32f6a1f7c4d8a0b9": {
+      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+      "fetched_at": "2026-08-19T00:35:11.108532+00:00"
+    },
+    "5b727f0fbffaafec": {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "fetched_at": "2026-08-19T00:35:11.672758+00:00"
+    },
+    "7e1595a48ccf5830": {
+      "title": "Ask HN: How should I price an AI infrastructure platform?",
+      "fetched_at": "2026-08-19T00:35:12.238558+00:00"
+    },
+    "7c6ac1be0ebea601": {
+      "title": "Unitree Robotics IPO: \"Embodied AI\" Valuation Bubble?",
+      "fetched_at": "2026-08-19T00:35:12.822925+00:00"
+    },
+    "c25b5e0e9e755994": {
+      "title": "My AI Agents Ship Code While I Sleep. Nobody Reviews It",
+      "fetched_at": "2026-08-19T00:35:13.423920+00:00"
+    },
+    "32d41f310522aa72": {
+      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
+      "fetched_at": "2026-08-19T00:35:13.989783+00:00"
+    },
+    "6bc977202c2b4f77": {
+      "title": "AI-drafted bills are swamping the House office that writes US laws",
+      "fetched_at": "2026-08-19T00:35:14.559355+00:00"
+    },
+    "0eb969f53978b8d5": {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "fetched_at": "2026-08-19T00:35:15.127343+00:00"
+    },
+    "561c25a2e7bffe07": {
+      "title": "GPT-5.6 Sol: 70% off in Devin",
+      "fetched_at": "2026-08-19T00:35:15.698977+00:00"
+    },
+    "67b28d73bd93945d": {
+      "title": "Tail: A 0–5 scale for how much AI wrote this",
+      "fetched_at": "2026-08-19T00:35:16.271945+00:00"
+    },
+    "58ab5c55a52be539": {
+      "title": "AI usage patterns in software teams",
+      "fetched_at": "2026-08-19T00:35:16.837414+00:00"
+    },
+    "21be408f042b6b51": {
+      "title": "Silicon Valley's AI boom is remaking American charity",
+      "fetched_at": "2026-08-19T00:35:17.486093+00:00"
+    },
+    "56a24775f84f3368": {
+      "title": "Show HN: HashNotch – Premium AI Integrated Dynamic Island for the Mac OS",
+      "fetched_at": "2026-08-19T00:35:18.050855+00:00"
+    },
+    "24b57791a324de9b": {
+      "title": "Google Moves A2A Under Agentic AI Foundation",
+      "fetched_at": "2026-08-19T00:35:18.612777+00:00"
+    },
+    "67dfb77d289cef69": {
+      "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+      "fetched_at": "2026-08-19T00:35:19.171346+00:00"
+    },
+    "6ff814ede643aa83": {
+      "title": "Fact check: How do I spot AI-generated images?",
+      "fetched_at": "2026-08-19T00:35:19.743497+00:00"
+    },
+    "0b317fd9bc4d632d": {
+      "title": "AI detection tools are proliferating. Here's why they won't last.",
+      "fetched_at": "2026-08-19T00:35:20.321663+00:00"
+    },
+    "208e07d397627ae2": {
+      "title": "專門減肥藥能否提升運動員表現？",
+      "fetched_at": "2026-08-19T00:35:23.453468+00:00"
+    },
+    "f8e34b115153d5c6": {
+      "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
+      "fetched_at": "2026-08-19T00:35:24.017920+00:00"
+    },
+    "6d7888c25697f514": {
+      "title": "朱鎔基火化：從民間悼念到八寶山，中國領導人「身後事」的政治邏輯",
+      "fetched_at": "2026-08-19T00:35:24.582487+00:00"
+    },
+    "dbaa6d06ae5f6703": {
+      "title": "An Ancient Poop Explosion Could Have Helped Complex Life Evolve",
+      "fetched_at": "2026-08-19T00:35:34.252058+00:00"
+    },
+    "a3b78a51011e3afd": {
+      "title": "Body found at bottom of Scottish well may be from rare ritual burial performed centuries ago",
+      "fetched_at": "2026-08-19T00:35:34.811002+00:00"
+    },
+    "600aba0ee7f64dce": {
+      "title": "Peptides are the latest wellness fad. What are they, and are they safe?",
+      "fetched_at": "2026-08-19T00:35:35.370217+00:00"
+    },
+    "1f4c78e08d44ec64": {
+      "title": "VANT – a fashion discovery app for finding what you see",
+      "fetched_at": "2026-08-19T00:35:35.942447+00:00"
+    },
+    "746245259e96c192": {
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "fetched_at": "2026-08-19T00:35:36.500138+00:00"
     }
   },
-  "last_updated": "2026-08-18T18:21:24.706722+00:00"
+  "last_updated": "2026-08-19T00:35:36.553016+00:00"
 }
