@@ -1,81 +1,5 @@
 {
   "articles": {
-    "4c054ed4f52ef6da": {
-      "title": "Another OpenAI executive takes off",
-      "fetched_at": "2026-08-11T18:44:19.436657+00:00"
-    },
-    "f3d4d047c8b295f6": {
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "fetched_at": "2026-08-11T18:44:20.019956+00:00"
-    },
-    "c9a90945449fb006": {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "fetched_at": "2026-08-11T18:44:20.592752+00:00"
-    },
-    "9f9407c7b01722fb": {
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "fetched_at": "2026-08-11T18:44:21.167360+00:00"
-    },
-    "e18bf16e0bae3ae2": {
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "fetched_at": "2026-08-11T18:44:21.767085+00:00"
-    },
-    "dc3c43c275cc290a": {
-      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
-      "fetched_at": "2026-08-11T18:44:22.378620+00:00"
-    },
-    "f235ecc429188bf4": {
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "fetched_at": "2026-08-11T18:44:22.952557+00:00"
-    },
-    "4d1ff6d17460799f": {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "fetched_at": "2026-08-11T18:44:23.545915+00:00"
-    },
-    "7630573ff2b26e45": {
-      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-      "fetched_at": "2026-08-11T18:44:24.147789+00:00"
-    },
-    "4e29b92c2d345285": {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "fetched_at": "2026-08-11T18:44:24.715643+00:00"
-    },
-    "a49ed38dd929fcd3": {
-      "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
-      "fetched_at": "2026-08-11T18:44:25.289787+00:00"
-    },
-    "22b1c7752a9b4ca5": {
-      "title": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线",
-      "fetched_at": "2026-08-11T18:44:25.873853+00:00"
-    },
-    "cef40202cff5aa58": {
-      "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
-      "fetched_at": "2026-08-11T18:44:26.448262+00:00"
-    },
-    "a84d0d73c5fd348e": {
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "fetched_at": "2026-08-11T18:44:27.055957+00:00"
-    },
-    "1c53e8ad4c3821c0": {
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "fetched_at": "2026-08-11T18:44:27.625290+00:00"
-    },
-    "fe9e7e37aa87fd71": {
-      "title": "What the US could learn from Japan's incentive for responsible antibiotic use",
-      "fetched_at": "2026-08-11T18:44:32.538486+00:00"
-    },
-    "3fbaabda52b4ece6": {
-      "title": "AI Is Accelerating Vulnerability Discovery",
-      "fetched_at": "2026-08-11T18:44:33.122480+00:00"
-    },
-    "5d0ec06815e906b0": {
-      "title": "'Like a jail door slamming': Male sperm whales' mysterious rhythmic clanging is the loudest communication sound of any animal",
-      "fetched_at": "2026-08-11T18:44:33.702808+00:00"
-    },
-    "c9fcaed66163d05e": {
-      "title": "Discovery could change how scientists measure the universe",
-      "fetched_at": "2026-08-11T18:44:34.283321+00:00"
-    },
     "7d258efe356d63b5": {
       "title": "Xirp – Spotify's macOS app for running AI coding agents",
       "fetched_at": "2026-08-12T00:58:38.509986+00:00"
@@ -3667,7 +3591,107 @@
     "dad92cc1a9e115fe": {
       "title": "Pollen has a surprising problem — and honeybees have found a way around it",
       "fetched_at": "2026-08-19T18:17:16.156493+00:00"
+    },
+    "6d795b0214e994f0": {
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "fetched_at": "2026-08-20T00:34:30.872654+00:00"
+    },
+    "c59b536afcf68d64": {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "fetched_at": "2026-08-20T00:34:31.454028+00:00"
+    },
+    "146778426e70c841": {
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "fetched_at": "2026-08-20T00:34:32.035498+00:00"
+    },
+    "c6b059f72df012c2": {
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "fetched_at": "2026-08-20T00:34:32.602875+00:00"
+    },
+    "414bc3eb8638e77d": {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "fetched_at": "2026-08-20T00:34:33.187362+00:00"
+    },
+    "6476075e8c89e16e": {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "fetched_at": "2026-08-20T00:34:33.758876+00:00"
+    },
+    "516a386b7ad527a3": {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "fetched_at": "2026-08-20T00:34:34.335736+00:00"
+    },
+    "e96276c9ad07a75c": {
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "fetched_at": "2026-08-20T00:34:34.908613+00:00"
+    },
+    "4eb4ceb494de6c06": {
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "fetched_at": "2026-08-20T00:34:35.491937+00:00"
+    },
+    "6f41cd1e229fd7da": {
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "fetched_at": "2026-08-20T00:34:36.065242+00:00"
+    },
+    "564c65d12ebbcaed": {
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "fetched_at": "2026-08-20T00:34:36.656677+00:00"
+    },
+    "30abb0c51b5d757d": {
+      "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+      "fetched_at": "2026-08-20T00:34:37.238040+00:00"
+    },
+    "20b7317539b9202e": {
+      "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
+      "fetched_at": "2026-08-20T00:34:37.814885+00:00"
+    },
+    "b1981af7dbe81c4d": {
+      "title": "派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等",
+      "fetched_at": "2026-08-20T00:34:38.384403+00:00"
+    },
+    "4b15a61531985693": {
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "fetched_at": "2026-08-20T00:34:38.958006+00:00"
+    },
+    "df1a981b55611e7f": {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "fetched_at": "2026-08-20T00:34:39.532403+00:00"
+    },
+    "180a0cf24455cb08": {
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "fetched_at": "2026-08-20T00:34:40.110175+00:00"
+    },
+    "a693bc37c00e2af9": {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "fetched_at": "2026-08-20T00:34:40.693877+00:00"
+    },
+    "f81d0a32f329b94e": {
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "fetched_at": "2026-08-20T00:34:41.270834+00:00"
+    },
+    "8b43c6eb00a2fdd8": {
+      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "fetched_at": "2026-08-20T00:34:41.851536+00:00"
+    },
+    "42dbcd348a925fd3": {
+      "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
+      "fetched_at": "2026-08-20T00:34:44.045852+00:00"
+    },
+    "e969caac307a06a0": {
+      "title": "郭德纲改编红歌被调查，中国言论空间日益收窄",
+      "fetched_at": "2026-08-20T00:34:44.615041+00:00"
+    },
+    "13a684c29ea06199": {
+      "title": "台灣首度演練「斷網半小時」：戰時通訊中斷，民眾準備好了嗎？",
+      "fetched_at": "2026-08-20T00:34:45.194195+00:00"
+    },
+    "5839c30c5dcf9d25": {
+      "title": "中國單身男性陷「閃婚」騙局：在孤獨與婚姻焦慮中受害",
+      "fetched_at": "2026-08-20T00:34:45.767914+00:00"
+    },
+    "4ef28e59b6eb5f71": {
+      "title": "2,400-year-old grave of possible ancient pro wrestler discovered in Turkey",
+      "fetched_at": "2026-08-20T00:34:48.126912+00:00"
     }
   },
-  "last_updated": "2026-08-19T18:17:16.253590+00:00"
+  "last_updated": "2026-08-20T00:34:48.261113+00:00"
 }
