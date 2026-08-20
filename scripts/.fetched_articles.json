@@ -1,125 +1,5 @@
 {
   "articles": {
-    "a1d547f375542f5c": {
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "fetched_at": "2026-08-12T07:05:23.728699+00:00"
-    },
-    "50f86048e05013c4": {
-      "title": "AI agents ran an autonomous cyberattack on Taiwan",
-      "fetched_at": "2026-08-12T07:05:24.387697+00:00"
-    },
-    "6a134e9855f7855a": {
-      "title": "Swiss public broadcaster to block AI scrapers – except Swiss model Apertus",
-      "fetched_at": "2026-08-12T07:05:25.048492+00:00"
-    },
-    "72562f63c036ec55": {
-      "title": "China bans AI companions, forcing millions to break up with virtual partners",
-      "fetched_at": "2026-08-12T07:05:25.675530+00:00"
-    },
-    "45724d065663284b": {
-      "title": "Studying AI welfare empirically [pdf]",
-      "fetched_at": "2026-08-12T07:05:26.319658+00:00"
-    },
-    "6cc25e1c78391c6c": {
-      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-      "fetched_at": "2026-08-12T07:05:26.948539+00:00"
-    },
-    "26a9d80ad14c6ecd": {
-      "title": "Open-source harness builder for AI coding",
-      "fetched_at": "2026-08-12T07:05:27.571248+00:00"
-    },
-    "4235fda90e9cda17": {
-      "title": "I'm Done Using AI",
-      "fetched_at": "2026-08-12T07:05:28.222416+00:00"
-    },
-    "deb2b02d4bd0db70": {
-      "title": "Show HN: Pragma – Stop copying context between AI agents",
-      "fetched_at": "2026-08-12T07:05:28.888458+00:00"
-    },
-    "7e1db9cb69ca3131": {
-      "title": "Supreme Computation – Fail-closed governance for AI execution",
-      "fetched_at": "2026-08-12T07:05:29.514902+00:00"
-    },
-    "5febb36111c70a44": {
-      "title": "我，与「唯一」的 iPhone Air",
-      "fetched_at": "2026-08-12T07:05:30.158348+00:00"
-    },
-    "4db37c4a0b15c381": {
-      "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
-      "fetched_at": "2026-08-12T07:05:30.787534+00:00"
-    },
-    "b61f857fd4ea90ea": {
-      "title": "The 7T AI Gamble Is Failing. Big Tech Is Trapped",
-      "fetched_at": "2026-08-12T07:05:31.413897+00:00"
-    },
-    "19b312e34de04835": {
-      "title": "What job postings say about AI at work – Live report",
-      "fetched_at": "2026-08-12T07:05:32.027239+00:00"
-    },
-    "0da10176303d3e3d": {
-      "title": "Ask HN: Could DNA be represented as \"an embedding\" in an AI model?",
-      "fetched_at": "2026-08-12T07:05:32.642542+00:00"
-    },
-    "242ade8341e0d227": {
-      "title": "What happens when the AI bubble pops?",
-      "fetched_at": "2026-08-12T07:05:33.302090+00:00"
-    },
-    "887ce12b7eaf5b17": {
-      "title": "Two LLM calls beat one: 67% cheaper and 100% vs. 72% extraction accuracy",
-      "fetched_at": "2026-08-12T07:05:33.920143+00:00"
-    },
-    "84de7e926a34fb0c": {
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "fetched_at": "2026-08-12T07:05:34.540018+00:00"
-    },
-    "3d6b7c0d87d960fc": {
-      "title": "Numbat by Perplexity: Endpoint visibility into AI agent activity",
-      "fetched_at": "2026-08-12T07:05:35.150922+00:00"
-    },
-    "62d9cca924dc4021": {
-      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
-      "fetched_at": "2026-08-12T07:05:35.780213+00:00"
-    },
-    "0a7a00e754805f75": {
-      "title": "澤連斯基：俄羅斯使用朝鮮飛彈攻擊烏克蘭",
-      "fetched_at": "2026-08-12T07:05:38.533009+00:00"
-    },
-    "ee3ee5549b6e16e0": {
-      "title": "美国拦截弹库存减少，伊朗调整策略发动猛攻",
-      "fetched_at": "2026-08-12T07:05:39.156061+00:00"
-    },
-    "015f15e7cd83b4d1": {
-      "title": "会走路、会说话的机器人即将进入汽车工厂",
-      "fetched_at": "2026-08-12T07:05:39.781758+00:00"
-    },
-    "4a2f4560cce05620": {
-      "title": "配餐车“偷运”总统：特朗普秘密换机细节曝光",
-      "fetched_at": "2026-08-12T07:05:40.419004+00:00"
-    },
-    "933839da5c1c5b4c": {
-      "title": "马铃薯有多健康？",
-      "fetched_at": "2026-08-12T07:05:41.050597+00:00"
-    },
-    "6460014101eba13b": {
-      "title": "“年度推销员特朗普”：油价高企推动电动摩托车热潮",
-      "fetched_at": "2026-08-12T07:05:41.673782+00:00"
-    },
-    "7f1ba0020aa79727": {
-      "title": "2 people die of Cyclospora infection in Michigan",
-      "fetched_at": "2026-08-12T07:05:47.703836+00:00"
-    },
-    "a8eae6f0f886b371": {
-      "title": "Two deadly flowers could inspire powerful new medicines",
-      "fetched_at": "2026-08-12T07:05:48.341248+00:00"
-    },
-    "7b115ac5b09b29bb": {
-      "title": "Giant waves are sweeping Mars’ atmosphere into space",
-      "fetched_at": "2026-08-12T07:05:49.008369+00:00"
-    },
-    "33288a4ae4104959": {
-      "title": "Some coastal cities are sinking faster than the ocean is rising",
-      "fetched_at": "2026-08-12T07:05:49.636674+00:00"
-    },
     "0cc54f588818bcf4": {
       "title": "Retrieval vs. Memory in Agentic AI Systems",
       "fetched_at": "2026-08-12T12:40:59.696710+00:00"
@@ -3603,7 +3483,135 @@
     "dd6688adf6e9bf9c": {
       "title": "Researchers reveal deeper workings of brain’s information hub",
       "fetched_at": "2026-08-20T06:24:37.839602+00:00"
+    },
+    "885492e93918fd8b": {
+      "title": "Gen-1.5 In-Context Learning",
+      "fetched_at": "2026-08-20T12:23:02.956913+00:00"
+    },
+    "de685d53b25cb5d5": {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "fetched_at": "2026-08-20T12:23:03.574848+00:00"
+    },
+    "d60e8f35288f89b1": {
+      "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
+      "fetched_at": "2026-08-20T12:23:04.195740+00:00"
+    },
+    "aacab6c496924f07": {
+      "title": "Google's AI photoscanner can determine body fat through selfies",
+      "fetched_at": "2026-08-20T12:23:04.806621+00:00"
+    },
+    "4e5febe9aa9338af": {
+      "title": "Ask HN: What AI automations have you kept running in production?",
+      "fetched_at": "2026-08-20T12:23:05.433189+00:00"
+    },
+    "67d17805b40b17a8": {
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "fetched_at": "2026-08-20T12:23:06.027707+00:00"
+    },
+    "5975d52efb445770": {
+      "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
+      "fetched_at": "2026-08-20T12:23:06.636028+00:00"
+    },
+    "00e5a01c4556e02f": {
+      "title": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
+      "fetched_at": "2026-08-20T12:23:07.239899+00:00"
+    },
+    "4ff579ab35f7a167": {
+      "title": "AI didn't erase the junior engineer's value, it increased it it",
+      "fetched_at": "2026-08-20T12:23:07.861490+00:00"
+    },
+    "75d406a8c0dd9624": {
+      "title": "Show HN: Try Sequo to manage your AI context",
+      "fetched_at": "2026-08-20T12:23:08.479268+00:00"
+    },
+    "48b8c220fc160637": {
+      "title": "The first AI agents hire human to ship ugc videos for you",
+      "fetched_at": "2026-08-20T12:23:09.099877+00:00"
+    },
+    "92bf7fbf72f2a7ba": {
+      "title": "DDD matters more when AI writes your code",
+      "fetched_at": "2026-08-20T12:23:09.711915+00:00"
+    },
+    "02be8143b633e863": {
+      "title": "How to Outsmart AI When It's Tracking Your Workday",
+      "fetched_at": "2026-08-20T12:23:10.333711+00:00"
+    },
+    "ba58a2fb32a58064": {
+      "title": "AI fired an S.F. store employee. Will California crack down on 'robobosses'?",
+      "fetched_at": "2026-08-20T12:23:10.946939+00:00"
+    },
+    "58c64799eefd29c3": {
+      "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
+      "fetched_at": "2026-08-20T12:23:11.556225+00:00"
+    },
+    "9a2a7a41fe8611ee": {
+      "title": "Don't paste the AI, please (angry way)",
+      "fetched_at": "2026-08-20T12:23:12.159628+00:00"
+    },
+    "0ddb403a5c245852": {
+      "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+      "fetched_at": "2026-08-20T12:23:12.770780+00:00"
+    },
+    "1cf87d17a143bfee": {
+      "title": "Structural Predictions for the AI Era",
+      "fetched_at": "2026-08-20T12:23:13.382387+00:00"
+    },
+    "b6dc816e55a9741e": {
+      "title": "Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit",
+      "fetched_at": "2026-08-20T12:23:14.008381+00:00"
+    },
+    "91f49808da70d47e": {
+      "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
+      "fetched_at": "2026-08-20T12:23:14.617778+00:00"
+    },
+    "809f5bb3ebcc673b": {
+      "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
+      "fetched_at": "2026-08-20T12:23:17.057815+00:00"
+    },
+    "6314a251afb87318": {
+      "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
+      "fetched_at": "2026-08-20T12:23:17.667858+00:00"
+    },
+    "f853a32874ddf585": {
+      "title": "恒大创始人许家印被判无期徒刑",
+      "fetched_at": "2026-08-20T12:23:18.282099+00:00"
+    },
+    "43c5d6fc8e5d0bfb": {
+      "title": "经济悲观情绪蔓延，中国农民工文学引发共鸣",
+      "fetched_at": "2026-08-20T12:23:18.894231+00:00"
+    },
+    "ef12ebbe930d3f47": {
+      "title": "太陽前所未有的清晰：迄今最詳細的觀測影像曝光",
+      "fetched_at": "2026-08-20T12:23:19.507252+00:00"
+    },
+    "756782a8518d9de9": {
+      "title": "Secret 'messages' in cat pee let felines identify each other — and scientists just cracked the code",
+      "fetched_at": "2026-08-20T12:23:28.364899+00:00"
+    },
+    "f215244684f2122d": {
+      "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
+      "fetched_at": "2026-08-20T12:23:28.968083+00:00"
+    },
+    "a6c5f6375bba8263": {
+      "title": "Scientists say the human family tree may need a major rewrite",
+      "fetched_at": "2026-08-20T12:23:29.577856+00:00"
+    },
+    "7da4169dabbc9185": {
+      "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
+      "fetched_at": "2026-08-20T12:23:30.184360+00:00"
+    },
+    "2a2d13fc502e56ea": {
+      "title": "The Shadow Work Journal: A Guided Journey to Self-Discovery and Healing",
+      "fetched_at": "2026-08-20T12:23:30.804403+00:00"
+    },
+    "fde5985309e94984": {
+      "title": "A SpaceX rocket smashed into the Moon — NASA just revealed the crater",
+      "fetched_at": "2026-08-20T12:23:31.421902+00:00"
+    },
+    "b0d3c7de548ae948": {
+      "title": "This total solar eclipse looked strangely golden — here’s why",
+      "fetched_at": "2026-08-20T12:23:32.037613+00:00"
     }
   },
-  "last_updated": "2026-08-20T06:24:37.974337+00:00"
+  "last_updated": "2026-08-20T12:23:32.125514+00:00"
 }
