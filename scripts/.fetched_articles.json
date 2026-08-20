@@ -1,121 +1,5 @@
 {
   "articles": {
-    "0cc54f588818bcf4": {
-      "title": "Retrieval vs. Memory in Agentic AI Systems",
-      "fetched_at": "2026-08-12T12:40:59.696710+00:00"
-    },
-    "c76a3ca3e4e43496": {
-      "title": "Show HN: AI 3D pop-out videos for Reels, Shorts and ads",
-      "fetched_at": "2026-08-12T12:41:00.344615+00:00"
-    },
-    "879965367218b671": {
-      "title": "Plotline: Geospatial Time Machine",
-      "fetched_at": "2026-08-12T12:41:00.992071+00:00"
-    },
-    "4faf256e60df5c57": {
-      "title": "Oh Lord, AI Reporters Are Breaking Big News",
-      "fetched_at": "2026-08-12T12:41:01.644235+00:00"
-    },
-    "269ba5eef1978115": {
-      "title": "AI was supposed to destroy jobs. Where's the carnage?",
-      "fetched_at": "2026-08-12T12:41:02.287932+00:00"
-    },
-    "266093b3ffc61023": {
-      "title": "I built a personal AI agent in Swift on top of what macOS ships",
-      "fetched_at": "2026-08-12T12:41:02.968084+00:00"
-    },
-    "91bacfcc5a3f66b2": {
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "fetched_at": "2026-08-12T12:41:03.607238+00:00"
-    },
-    "890c5e5a6ebea758": {
-      "title": "Nvidia's $500B Bet to Make AI Compute Wall Street's Next Asset Class",
-      "fetched_at": "2026-08-12T12:41:04.231785+00:00"
-    },
-    "77fbcf9a65e69706": {
-      "title": "AI compute power becoming tradable asset class as CME launches futures contracts",
-      "fetched_at": "2026-08-12T12:41:04.865263+00:00"
-    },
-    "34b657234ee3249d": {
-      "title": "Electricity Pricing in the Age of AI",
-      "fetched_at": "2026-08-12T12:41:05.486681+00:00"
-    },
-    "865196774ea6f51f": {
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "fetched_at": "2026-08-12T12:41:06.173133+00:00"
-    },
-    "b3059cdcc5a84de3": {
-      "title": "Revision Prompting: improves industrial LLM processes",
-      "fetched_at": "2026-08-12T12:41:06.823950+00:00"
-    },
-    "472b4fc738ddef8d": {
-      "title": "Cross-Examine – replay base behavior against an AI-generated PR",
-      "fetched_at": "2026-08-12T12:41:07.449962+00:00"
-    },
-    "18dde86d71d5d296": {
-      "title": "I built an MCP server to show my AI my screen",
-      "fetched_at": "2026-08-12T12:41:08.096578+00:00"
-    },
-    "0eea7582daec11a7": {
-      "title": "An LLM-generated counterexample far outside one's area of expertise",
-      "fetched_at": "2026-08-12T12:41:08.736789+00:00"
-    },
-    "0cafc0b8b08bce96": {
-      "title": "LLM Is Not a PDF Parser: Use OpenDataLoader First",
-      "fetched_at": "2026-08-12T12:41:09.375905+00:00"
-    },
-    "c95856159103e5de": {
-      "title": "Hybrid-retrieval memory layer for AI agents",
-      "fetched_at": "2026-08-12T12:41:10.017795+00:00"
-    },
-    "e627dc03ed82a4f3": {
-      "title": "Most biomedical publications show signs of LLM-assisted writing",
-      "fetched_at": "2026-08-12T12:41:10.684813+00:00"
-    },
-    "af3b5e369e4cd4e4": {
-      "title": "Never Trust Your AI Agent's Own Sandbox",
-      "fetched_at": "2026-08-12T12:41:11.350790+00:00"
-    },
-    "aff0b3458873419d": {
-      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "fetched_at": "2026-08-12T12:41:11.986362+00:00"
-    },
-    "da392a42b01e9d97": {
-      "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
-      "fetched_at": "2026-08-12T12:41:14.270798+00:00"
-    },
-    "73699d34b1b029ac": {
-      "title": "中國單身漢為何陷「閃婚」騙局？",
-      "fetched_at": "2026-08-12T12:41:14.944960+00:00"
-    },
-    "50318a39452209c8": {
-      "title": "海濱公寓原本空無一人，然後警察說，詐騙犯搬進來了",
-      "fetched_at": "2026-08-12T12:41:15.565357+00:00"
-    },
-    "620477c8ddb03d46": {
-      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
-      "fetched_at": "2026-08-12T12:41:16.218976+00:00"
-    },
-    "2bc56f3c1653aad4": {
-      "title": "中国前总理朱镕基逝世：市场化改革和“入世”推手",
-      "fetched_at": "2026-08-12T12:41:16.874262+00:00"
-    },
-    "d372a1c322ed67c1": {
-      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
-      "fetched_at": "2026-08-12T12:41:17.506445+00:00"
-    },
-    "7c1d9852185a3e78": {
-      "title": "New 'magnetoelastic' tent generates electricity from wind, body movement and sound to power small devices",
-      "fetched_at": "2026-08-12T12:41:19.411890+00:00"
-    },
-    "a66c958f7881fede": {
-      "title": "Diagnostic dilemma: Doctors performed surgery to remove a mass in a woman's gut ‪—‬ and a bug-like creature immediately jumped out",
-      "fetched_at": "2026-08-12T12:41:20.056570+00:00"
-    },
-    "7fe02e1bcda8279e": {
-      "title": "A solar eclipse will be visible in North America today: How to watch in person and online",
-      "fetched_at": "2026-08-12T12:41:20.674610+00:00"
-    },
     "381d616567f3a493": {
       "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
       "fetched_at": "2026-08-12T18:44:54.549637+00:00"
@@ -3611,7 +3495,115 @@
     "b0d3c7de548ae948": {
       "title": "This total solar eclipse looked strangely golden — here’s why",
       "fetched_at": "2026-08-20T12:23:32.037613+00:00"
+    },
+    "d615d53f92f09019": {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "fetched_at": "2026-08-20T18:21:08.818037+00:00"
+    },
+    "de4c1edceea083f7": {
+      "title": "Are you good at AI, or just using it?",
+      "fetched_at": "2026-08-20T18:21:09.424923+00:00"
+    },
+    "d85648fe41c7004c": {
+      "title": "Hola AI Agent",
+      "fetched_at": "2026-08-20T18:21:10.051348+00:00"
+    },
+    "2e8f840c2909bd16": {
+      "title": "Route the Work, Not Just the Data: GPUs, CPUs, and the Rise of AI-Native Storage",
+      "fetched_at": "2026-08-20T18:21:10.669316+00:00"
+    },
+    "26072fa74a6a5839": {
+      "title": "Grok keeps sending gibberish responses to users",
+      "fetched_at": "2026-08-20T18:21:11.289830+00:00"
+    },
+    "c5cc5e838298c8ef": {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "fetched_at": "2026-08-20T18:21:11.898266+00:00"
+    },
+    "71b966e1beb8df67": {
+      "title": "How Persona AI Makes Humanoids Pay Off in Welding",
+      "fetched_at": "2026-08-20T18:21:12.503013+00:00"
+    },
+    "10af5a3293760997": {
+      "title": "Debates over AI consciousness are a trap",
+      "fetched_at": "2026-08-20T18:21:13.112120+00:00"
+    },
+    "7df2c897cdd12cb5": {
+      "title": "The Women in China choosing AI boyfriends over human men",
+      "fetched_at": "2026-08-20T18:21:13.722642+00:00"
+    },
+    "35bf0b3a6701f9d4": {
+      "title": "AI at Home Part 2: Multi-GPU Drifting",
+      "fetched_at": "2026-08-20T18:21:14.345837+00:00"
+    },
+    "b1741cfb44c6d559": {
+      "title": "Japan to require AI firms to disclose training data",
+      "fetched_at": "2026-08-20T18:21:14.986809+00:00"
+    },
+    "bfe8c2e04b6359fe": {
+      "title": "Show HN: Future Crew's 1993 Second Reality, rebuilt by AI agents, no emulation",
+      "fetched_at": "2026-08-20T18:21:15.597340+00:00"
+    },
+    "0fd641e28a4f7b6d": {
+      "title": "Ramp launches its own AI model router, called Router",
+      "fetched_at": "2026-08-20T18:21:16.222598+00:00"
+    },
+    "9972fb0362778477": {
+      "title": "AI Agent Governance – a free book on AI Agent evaluation and governance",
+      "fetched_at": "2026-08-20T18:21:16.833863+00:00"
+    },
+    "a52be81dca160983": {
+      "title": "Show HN: Building Table Canon, an AI Campaign Memory Engine for TTRPGs",
+      "fetched_at": "2026-08-20T18:21:17.443722+00:00"
+    },
+    "555bbb3465988022": {
+      "title": "Ask HN: When AI models use harnesses who liable between model/harness/user?",
+      "fetched_at": "2026-08-20T18:21:18.046259+00:00"
+    },
+    "b7a37a188ba97a4c": {
+      "title": "Agent Applications: A Reference Architecture for AI Agent Systems",
+      "fetched_at": "2026-08-20T18:21:18.662036+00:00"
+    },
+    "8fc7baa2668f9292": {
+      "title": "AI for science needs reasoning, not just data – Eric Schmidt and Suhas Mahesh",
+      "fetched_at": "2026-08-20T18:21:19.287171+00:00"
+    },
+    "c6c9d2f202a980d5": {
+      "title": "I'm done coding with AI [video]",
+      "fetched_at": "2026-08-20T18:21:19.894968+00:00"
+    },
+    "93c93bb1e06e1b2e": {
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "fetched_at": "2026-08-20T18:21:20.512807+00:00"
+    },
+    "285348efbb2550bb": {
+      "title": "'This is not the outcome we were working towards': $30 million mission to save NASA's Swift telescope fails",
+      "fetched_at": "2026-08-20T18:21:24.537501+00:00"
+    },
+    "5e821c8eb8b100dd": {
+      "title": "Dwellings Detected Near Monuments at Göbekli Tepe",
+      "fetched_at": "2026-08-20T18:21:25.169101+00:00"
+    },
+    "611a66dc7fc1561e": {
+      "title": "Climate change will triple the number of days over 105 F in the US. The health impacts will be dire.",
+      "fetched_at": "2026-08-20T18:21:25.790375+00:00"
+    },
+    "9e6183b218770b66": {
+      "title": "Black hole star? Solar-system-size 'dot' from the early universe is our best evidence yet of a brand-new type of cosmic object",
+      "fetched_at": "2026-08-20T18:21:26.410163+00:00"
+    },
+    "128682a3da3f84de": {
+      "title": "Cave sanctuary in Spain has highest number of Latin inscriptions anywhere in the Roman Empire — and many of them mention mysterious 'Lady'",
+      "fetched_at": "2026-08-20T18:21:27.028913+00:00"
+    },
+    "fe9975abf5780f6d": {
+      "title": "Mini 'arteries-on-a-chip' could help predict a person's risk of stroke",
+      "fetched_at": "2026-08-20T18:21:27.652429+00:00"
+    },
+    "2057ba68424ed7fc": {
+      "title": "1,400-year-old skeleton found in underground channel in Peru may have belonged to human sacrifice victim",
+      "fetched_at": "2026-08-20T18:21:28.259591+00:00"
     }
   },
-  "last_updated": "2026-08-20T12:23:32.125514+00:00"
+  "last_updated": "2026-08-20T18:21:28.387817+00:00"
 }
