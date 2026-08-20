@@ -1,161 +1,5 @@
 {
   "articles": {
-    "7d258efe356d63b5": {
-      "title": "Xirp – Spotify's macOS app for running AI coding agents",
-      "fetched_at": "2026-08-12T00:58:38.509986+00:00"
-    },
-    "8aa0dbb7c14f1354": {
-      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-      "fetched_at": "2026-08-12T00:58:39.078876+00:00"
-    },
-    "59e3250a0f2a4043": {
-      "title": "Diabetes charity capitalises on AI technology",
-      "fetched_at": "2026-08-12T00:58:39.639515+00:00"
-    },
-    "b56b7a0b61464bff": {
-      "title": "Open AI models hacked into HuggingFace",
-      "fetched_at": "2026-08-12T00:58:40.200880+00:00"
-    },
-    "7c5af2bfa0e935cf": {
-      "title": "AI Is Dead. Organoids Are Alive",
-      "fetched_at": "2026-08-12T00:58:40.759199+00:00"
-    },
-    "b264a424b332f985": {
-      "title": "Geoffrey Hinton's Bad AI Prediction Became a Legend [video]",
-      "fetched_at": "2026-08-12T00:58:41.330809+00:00"
-    },
-    "da88260cae788ce9": {
-      "title": "Watching Roku's AI channel is like eating from a trough",
-      "fetched_at": "2026-08-12T00:58:41.330936+00:00"
-    },
-    "53cd462ced189689": {
-      "title": "AI Adoption Is a Myth",
-      "fetched_at": "2026-08-12T00:58:41.893473+00:00"
-    },
-    "f0481345774ec536": {
-      "title": "Show HN: Frontier.fast – Help push the frontier of LLM speed forward",
-      "fetched_at": "2026-08-12T00:58:42.468518+00:00"
-    },
-    "2e2aaa43b254a619": {
-      "title": "LLM Model-Swapping Trick Can Expose AI Reasoning Traces",
-      "fetched_at": "2026-08-12T00:58:43.054260+00:00"
-    },
-    "47ce474a0b54b29c": {
-      "title": "TSMC Sales Jump 45% YoY on Strong AI Chip Demand but Investors Shrug",
-      "fetched_at": "2026-08-12T00:58:43.631565+00:00"
-    },
-    "e6ba970c9fe6f854": {
-      "title": "LLM Inference lecture series [video]",
-      "fetched_at": "2026-08-12T00:58:44.196369+00:00"
-    },
-    "26f71fa7b1d2a4a0": {
-      "title": "AI vibe coded game projects suck",
-      "fetched_at": "2026-08-12T00:58:44.766217+00:00"
-    },
-    "94bbe494c3a93c60": {
-      "title": "Predictions for the Era of Continual Learning",
-      "fetched_at": "2026-08-12T00:58:45.329677+00:00"
-    },
-    "1aae6365a206b17a": {
-      "title": "A Simple Answer to AI Job Loss: Tax Capital, Not Labor",
-      "fetched_at": "2026-08-12T00:58:45.925782+00:00"
-    },
-    "30eff58f050143e2": {
-      "title": "Anthropic Posts 'How Claude Marks AI-Generated Content' Without Explaining How",
-      "fetched_at": "2026-08-12T00:58:46.487886+00:00"
-    },
-    "e1d4afe604a05cb1": {
-      "title": "Human vs. AI vs. Human and AI: Who Does Better Work?",
-      "fetched_at": "2026-08-12T00:58:47.052812+00:00"
-    },
-    "db2a0d07e76c85ae": {
-      "title": "Hacktoberfest 2026: Building with AI; not PRs",
-      "fetched_at": "2026-08-12T00:58:47.612086+00:00"
-    },
-    "51bdc661d5a82bf3": {
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "fetched_at": "2026-08-12T00:58:48.179359+00:00"
-    },
-    "6d714dd051389018": {
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "fetched_at": "2026-08-12T00:58:48.815332+00:00"
-    },
-    "0670c370f619c529": {
-      "title": "空调服、冷藏舱：东亚极端天气催生“防暑神器”新经济",
-      "fetched_at": "2026-08-12T00:58:51.741978+00:00"
-    },
-    "17a692e831151654": {
-      "title": "「我被朝鮮綁架，還被迫嫁給美國士兵」",
-      "fetched_at": "2026-08-12T00:58:52.304190+00:00"
-    },
-    "ef12ebbe930d3f47": {
-      "title": "太陽前所未有的清晰：迄今最詳細的觀測影像曝光",
-      "fetched_at": "2026-08-12T00:58:52.873800+00:00"
-    },
-    "e89a33be5eaf5d94": {
-      "title": "不再「買買買」：為何中國消費者開始省錢過日子？",
-      "fetched_at": "2026-08-12T00:58:53.434651+00:00"
-    },
-    "3ee4cd834697075a": {
-      "title": "Genetics triggers male black widows to blackflip into death, study finds",
-      "fetched_at": "2026-08-12T00:59:06.516372+00:00"
-    },
-    "a20eb87baffe4aa6": {
-      "title": "Astronomers created the largest-ever 2D map of the universe, charting 4 billion objects in the night sky",
-      "fetched_at": "2026-08-12T00:59:07.120449+00:00"
-    },
-    "326ce340f1cd56ca": {
-      "title": "A solar eclipse will be visible in North America tomorrow: How to watch in person and online",
-      "fetched_at": "2026-08-12T00:59:07.711110+00:00"
-    },
-    "a466aa080705612d": {
-      "title": "Ancient Engineering Marvel Was Built Without Rulers",
-      "fetched_at": "2026-08-12T00:59:08.275598+00:00"
-    },
-    "fac402db74805892": {
-      "title": "Neanderthals passed on a gene that helps modern humans pack on more muscle — but only a few people have it",
-      "fetched_at": "2026-08-12T00:59:08.840074+00:00"
-    },
-    "967637f640b4f041": {
-      "title": "New AI chip mimics the human brain's capacity for split-second motor control — it solved problems using 10,000 times fewer calculations",
-      "fetched_at": "2026-08-12T00:59:09.426092+00:00"
-    },
-    "7126b8c994f1f153": {
-      "title": "Roman Shipwreck Discovered Off Sicilian Coast",
-      "fetched_at": "2026-08-12T00:59:09.989389+00:00"
-    },
-    "8d01347df124e07f": {
-      "title": "Giant Rock Scallop Beads from California Studied",
-      "fetched_at": "2026-08-12T00:59:10.564776+00:00"
-    },
-    "037b0c88dadf0291": {
-      "title": "Mouse Bones Unearthed at Sanctuary of Apollo on Crete",
-      "fetched_at": "2026-08-12T00:59:11.147997+00:00"
-    },
-    "d372074ea33ad160": {
-      "title": "A simple supplement could help the immune system fight cancer and viruses",
-      "fetched_at": "2026-08-12T00:59:11.719115+00:00"
-    },
-    "4b6a182262ce5e71": {
-      "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
-      "fetched_at": "2026-08-12T00:59:12.281738+00:00"
-    },
-    "d2223ef89dc512c9": {
-      "title": "Moonquakes could reveal hidden water beneath the lunar surface",
-      "fetched_at": "2026-08-12T00:59:12.869833+00:00"
-    },
-    "6a86164efd344f8b": {
-      "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
-      "fetched_at": "2026-08-12T00:59:13.455979+00:00"
-    },
-    "ba04e001cae39e92": {
-      "title": "Scientists may have found aging’s hidden trigger for brain disease",
-      "fetched_at": "2026-08-12T00:59:14.014257+00:00"
-    },
-    "f77287182c670019": {
-      "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
-      "fetched_at": "2026-08-12T00:59:14.589409+00:00"
-    },
     "a1d547f375542f5c": {
       "title": "AI agent hacks gym to get its user a spot in pilates class",
       "fetched_at": "2026-08-12T07:05:23.728699+00:00"
@@ -3691,7 +3535,75 @@
     "4ef28e59b6eb5f71": {
       "title": "2,400-year-old grave of possible ancient pro wrestler discovered in Turkey",
       "fetched_at": "2026-08-20T00:34:48.126912+00:00"
+    },
+    "53b489376df6ee7e": {
+      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
+      "fetched_at": "2026-08-20T06:24:25.428552+00:00"
+    },
+    "a870a2caf10a3309": {
+      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+      "fetched_at": "2026-08-20T06:24:26.015786+00:00"
+    },
+    "ce446284af805b7c": {
+      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+      "fetched_at": "2026-08-20T06:24:26.595933+00:00"
+    },
+    "2e6925031c4c4084": {
+      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+      "fetched_at": "2026-08-20T06:24:27.178832+00:00"
+    },
+    "422616d8add1ab45": {
+      "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
+      "fetched_at": "2026-08-20T06:24:27.757098+00:00"
+    },
+    "7cc4cb1c7b03aa4d": {
+      "title": "App+1 | 让任务栏更有用：WindowSill",
+      "fetched_at": "2026-08-20T06:24:28.341525+00:00"
+    },
+    "17bc925ee4bb7ac7": {
+      "title": "7月音乐精选：夏天赠予我们的 9 张专辑",
+      "fetched_at": "2026-08-20T06:24:28.918346+00:00"
+    },
+    "d78a269117a96aa6": {
+      "title": "台灣為何此刻提出「鞭刑入法」公投？",
+      "fetched_at": "2026-08-20T06:24:30.915360+00:00"
+    },
+    "3ff9c74cd33b0eb4": {
+      "title": "美国债务突破40万亿美元，借贷狂潮继续",
+      "fetched_at": "2026-08-20T06:24:31.513350+00:00"
+    },
+    "d054b01bb2d847cb": {
+      "title": "哈里王子和梅根打算遷回英國，但這會長久嗎？",
+      "fetched_at": "2026-08-20T06:24:32.092277+00:00"
+    },
+    "c9b432b3a90be090": {
+      "title": "前福奇顾问承认试图隐瞒与新冠起源相关的记录",
+      "fetched_at": "2026-08-20T06:24:32.675385+00:00"
+    },
+    "14ebced71f5fa4f0": {
+      "title": "中国首次实现火箭陆地回收",
+      "fetched_at": "2026-08-20T06:24:33.251108+00:00"
+    },
+    "83e93f167223c652": {
+      "title": "朝鲜回应特朗普缩减美韩军演规模：“对我们毫无吸引力”",
+      "fetched_at": "2026-08-20T06:24:33.831399+00:00"
+    },
+    "541192aa4e472fc8": {
+      "title": "欧洲加大对前沿技术投资，能否与美中抗衡？",
+      "fetched_at": "2026-08-20T06:24:34.412668+00:00"
+    },
+    "5237b20bda41edc1": {
+      "title": "《牛來》爆紅：觀眾、導演與電影業者解讀「粗糙」動畫的意外狂歡",
+      "fetched_at": "2026-08-20T06:24:34.986692+00:00"
+    },
+    "37b4dbbc71390b11": {
+      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+      "fetched_at": "2026-08-20T06:24:37.257640+00:00"
+    },
+    "dd6688adf6e9bf9c": {
+      "title": "Researchers reveal deeper workings of brain’s information hub",
+      "fetched_at": "2026-08-20T06:24:37.839602+00:00"
     }
   },
-  "last_updated": "2026-08-20T00:34:48.261113+00:00"
+  "last_updated": "2026-08-20T06:24:37.974337+00:00"
 }
