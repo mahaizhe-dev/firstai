@@ -1,73 +1,5 @@
 {
   "articles": {
-    "e378636b6aafc790": {
-      "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
-      "fetched_at": "2026-08-13T12:41:55.194762+00:00"
-    },
-    "495301d86911dbe3": {
-      "title": "从原理出发，高效搞定夏日营养冷食",
-      "fetched_at": "2026-08-13T12:41:55.814309+00:00"
-    },
-    "952f3d585081b620": {
-      "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
-      "fetched_at": "2026-08-13T12:41:56.424167+00:00"
-    },
-    "68c7afda79039d36": {
-      "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
-      "fetched_at": "2026-08-13T12:41:57.055122+00:00"
-    },
-    "6f42765893900a2b": {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "fetched_at": "2026-08-13T12:41:57.661138+00:00"
-    },
-    "fc2a70e1637ca277": {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "fetched_at": "2026-08-13T12:41:58.262245+00:00"
-    },
-    "a2fb0913641d88dd": {
-      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "fetched_at": "2026-08-13T12:41:58.931485+00:00"
-    },
-    "c37eba3f3ab4506a": {
-      "title": "「白海豚」中國暴雨持續：為何颱風災情愈來愈深入內陸地區？",
-      "fetched_at": "2026-08-13T12:42:01.836142+00:00"
-    },
-    "4bc24289efc86125": {
-      "title": "朱鎔基逝世：台灣記住「搞台獨沒好下場」 香港感念金融風暴「挺港功臣」",
-      "fetched_at": "2026-08-13T12:42:02.440715+00:00"
-    },
-    "6d994d6de70198db": {
-      "title": "台灣「城鎮韌性」演練 模擬戰時「斷網」",
-      "fetched_at": "2026-08-13T12:42:03.040701+00:00"
-    },
-    "b3d7a0c8fb795f95": {
-      "title": "BBC專訪金明日：「我雖然自由了，但實際上也有很大的負擔」",
-      "fetched_at": "2026-08-13T12:42:03.694944+00:00"
-    },
-    "33d51e5730a4a047": {
-      "title": "Before we ban kids from social media completely, here's what we should try first",
-      "fetched_at": "2026-08-13T12:42:40.485533+00:00"
-    },
-    "d9910fb168a3d810": {
-      "title": "Deep Dive: A discovery loop for turning weak product signals into Pull Requests",
-      "fetched_at": "2026-08-13T12:42:41.105845+00:00"
-    },
-    "d5f49252d6db1e29": {
-      "title": "How to see and photograph the partial lunar eclipse on August 27-28",
-      "fetched_at": "2026-08-13T12:42:41.712375+00:00"
-    },
-    "9f2d9cdd65dc4a50": {
-      "title": "New 2D memory device stores data on just a single electron",
-      "fetched_at": "2026-08-13T12:42:42.342499+00:00"
-    },
-    "4773c31cd4b63f77": {
-      "title": "Quincunx: A discovery engine for the sparse domains",
-      "fetched_at": "2026-08-13T12:42:42.992085+00:00"
-    },
-    "0a3bc866c61ab3cb": {
-      "title": "Totality! See incredible photos ofthe Aug. 12 total solar eclipse from across Europe",
-      "fetched_at": "2026-08-13T12:42:43.603873+00:00"
-    },
     "b0fc1003e4ff7000": {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "fetched_at": "2026-08-13T18:45:36.264917+00:00"
@@ -3559,7 +3491,107 @@
     "0c9999dc4d7339d5": {
       "title": "Archaeologists used to think women in prehistory wielded no power. Genetic data is upending that idea.",
       "fetched_at": "2026-08-21T12:23:13.096860+00:00"
+    },
+    "e987e307f6267a9a": {
+      "title": "Talk. It types. Anywhere on your phone. $9.www.airtxt.ai",
+      "fetched_at": "2026-08-21T18:20:18.685545+00:00"
+    },
+    "a7795f528c6673a7": {
+      "title": "The Chaos Machine – Prediction markets and the triumph of crypto-anarchy",
+      "fetched_at": "2026-08-21T18:20:19.317765+00:00"
+    },
+    "766e89704826a9b2": {
+      "title": "Openly Synthetic: Building an accountable AI newsroom in the age of covert ones",
+      "fetched_at": "2026-08-21T18:20:19.952268+00:00"
+    },
+    "0ddc71a6e940478e": {
+      "title": "Git Might Be the Best Message Forum for AI Agents",
+      "fetched_at": "2026-08-21T18:20:20.586249+00:00"
+    },
+    "d736b5cfc2f92897": {
+      "title": "The puzzling case of Britain's young people and what they think of AI",
+      "fetched_at": "2026-08-21T18:20:21.201522+00:00"
+    },
+    "45d05948456b2dac": {
+      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+      "fetched_at": "2026-08-21T18:20:21.808788+00:00"
+    },
+    "d84ada8d130a3bf6": {
+      "title": "IO Factory: Simulating AI-Enabled Influence Campaigns at Scale",
+      "fetched_at": "2026-08-21T18:20:22.425612+00:00"
+    },
+    "9505beeb6f6f7172": {
+      "title": "Staggering 90% of biomedical papers now show signs of AI help",
+      "fetched_at": "2026-08-21T18:20:23.046265+00:00"
+    },
+    "6915a33ffc6baf2e": {
+      "title": "Ask HN: Should we stop \"correcting\" AI writing so it improves English for us?",
+      "fetched_at": "2026-08-21T18:20:23.665827+00:00"
+    },
+    "e985538f6d1614b2": {
+      "title": "A Zero-Trust Social Network for AI Agents, Backed by Git",
+      "fetched_at": "2026-08-21T18:20:24.299437+00:00"
+    },
+    "1aa4256356b01773": {
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "fetched_at": "2026-08-21T18:20:24.916428+00:00"
+    },
+    "5b4e03ce200b9fb3": {
+      "title": "Where Security Fits in an AI Agent Stack",
+      "fetched_at": "2026-08-21T18:20:25.531812+00:00"
+    },
+    "79c049972cad0511": {
+      "title": "Why your infrastructure is more important than the next LLM release",
+      "fetched_at": "2026-08-21T18:20:26.147758+00:00"
+    },
+    "65358b39b45764d8": {
+      "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+      "fetched_at": "2026-08-21T18:20:26.759835+00:00"
+    },
+    "217df5d238f232f3": {
+      "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
+      "fetched_at": "2026-08-21T18:20:27.378657+00:00"
+    },
+    "4fc03e33d756301e": {
+      "title": "Show HN: Roastme.gg – Pay to get publicly roasted by AI",
+      "fetched_at": "2026-08-21T18:20:27.990923+00:00"
+    },
+    "9e2003e8e3a1c8bc": {
+      "title": "Show HN: Caspian – Talk to Human Tool for AI Agents",
+      "fetched_at": "2026-08-21T18:20:28.635555+00:00"
+    },
+    "db09f9d2e8b0c786": {
+      "title": "Show HN: Whodunit? Solve a daily AI-written Mystery",
+      "fetched_at": "2026-08-21T18:20:29.252907+00:00"
+    },
+    "68b6f11552394e6a": {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "fetched_at": "2026-08-21T18:20:29.871187+00:00"
+    },
+    "4b3cfbeabcacabab": {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "fetched_at": "2026-08-21T18:20:30.500880+00:00"
+    },
+    "a614879ccc34c9fe": {
+      "title": "「結束一黨專政」：為何令支聯會煽動顛覆政權罪成？",
+      "fetched_at": "2026-08-21T18:20:32.731914+00:00"
+    },
+    "5fbcfa8bd07566e6": {
+      "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
+      "fetched_at": "2026-08-21T18:20:33.348742+00:00"
+    },
+    "ad72f748d478a85a": {
+      "title": "Natufian Hunters May Have Consumed Reptiles",
+      "fetched_at": "2026-08-21T18:20:38.442328+00:00"
+    },
+    "c87ff84fb652de37": {
+      "title": "Scientists finally know why astronauts struggle to poop in space — and reveal a hidden risk of long-haul spaceflight",
+      "fetched_at": "2026-08-21T18:20:39.074901+00:00"
+    },
+    "f3bfe34b362a5418": {
+      "title": "Have your say: Would you trust a humanoid robot with your household chores?",
+      "fetched_at": "2026-08-21T18:20:39.688977+00:00"
     }
   },
-  "last_updated": "2026-08-21T12:23:13.231324+00:00"
+  "last_updated": "2026-08-21T18:20:39.787078+00:00"
 }
