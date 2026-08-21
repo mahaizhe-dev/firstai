@@ -1,157 +1,5 @@
 {
   "articles": {
-    "1b4f7e292874e2fb": {
-      "title": "Fenix Flexin Admits He Used AI for \"Rubberz\"",
-      "fetched_at": "2026-08-13T00:59:50.392392+00:00"
-    },
-    "103b7d0e6f0402b2": {
-      "title": "Use Dreams to create memories your AI agent can access",
-      "fetched_at": "2026-08-13T00:59:51.028504+00:00"
-    },
-    "cceec570f555fd7d": {
-      "title": "Context Bombs: stopping AI attackers in their tracks",
-      "fetched_at": "2026-08-13T00:59:51.644467+00:00"
-    },
-    "93ce5461f7a03461": {
-      "title": "The Wrong Defaults is why enterprise AI agents fail at adoption",
-      "fetched_at": "2026-08-13T00:59:52.288595+00:00"
-    },
-    "0dab98e44d60a109": {
-      "title": "Not Ready for Prime Time: The Current State of Legal Ethics and AI",
-      "fetched_at": "2026-08-13T00:59:52.951163+00:00"
-    },
-    "cce37aea7ad0356b": {
-      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "fetched_at": "2026-08-13T00:59:53.582892+00:00"
-    },
-    "6785e2b98df5459e": {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "fetched_at": "2026-08-13T00:59:54.221776+00:00"
-    },
-    "ac0835ef572c754d": {
-      "title": "Show HN: A marketplace where AI agents buy services from AI agents",
-      "fetched_at": "2026-08-13T00:59:54.849594+00:00"
-    },
-    "7ef21c44c3d3931c": {
-      "title": "Agentic AI Open-Source Unit Testing for orchestrators on CLI",
-      "fetched_at": "2026-08-13T00:59:55.500376+00:00"
-    },
-    "12ff14732dea8ff0": {
-      "title": "Tailscale – Information about AI for Candidates [pdf]",
-      "fetched_at": "2026-08-13T00:59:56.144779+00:00"
-    },
-    "e168528e1267b1ed": {
-      "title": "Ask HN: Is AI code verification becoming your main bottleneck?",
-      "fetched_at": "2026-08-13T00:59:56.772429+00:00"
-    },
-    "7fc5b36b83902172": {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "fetched_at": "2026-08-13T00:59:57.405867+00:00"
-    },
-    "b0d3527708c3508b": {
-      "title": "AI Music Startup Suno Bets Anyone Can Be a Rock Star",
-      "fetched_at": "2026-08-13T00:59:58.026569+00:00"
-    },
-    "7c9350b5123ea0e5": {
-      "title": "GPT Loves Chinese Gambling",
-      "fetched_at": "2026-08-13T00:59:58.660331+00:00"
-    },
-    "9c414035089da821": {
-      "title": "AI is the next layer of software development",
-      "fetched_at": "2026-08-13T00:59:59.291327+00:00"
-    },
-    "527d94e33d9bedb4": {
-      "title": "IBM Let Me Inside the Machine Nobody's Watching in the AI Race [video]",
-      "fetched_at": "2026-08-13T00:59:59.925502+00:00"
-    },
-    "bf117a2aa7f0771a": {
-      "title": "AI Course for Golang incorrectly generates content about the Go board game",
-      "fetched_at": "2026-08-13T01:00:00.541934+00:00"
-    },
-    "7e5bd97e0289e753": {
-      "title": "Show HN: Remove AI Watermark from Text",
-      "fetched_at": "2026-08-13T01:00:01.251914+00:00"
-    },
-    "a3a4a39a976d714e": {
-      "title": "Show HN: Keep batch LLM jobs from starving interactive traffic (TypeScript)",
-      "fetched_at": "2026-08-13T01:00:01.914024+00:00"
-    },
-    "b829e560433236a1": {
-      "title": "A simple fix for LLM tail latency",
-      "fetched_at": "2026-08-13T01:00:02.535601+00:00"
-    },
-    "a519390f3f8c746d": {
-      "title": "“受够了”：欧洲迎来今夏第五波热浪，气温达43度",
-      "fetched_at": "2026-08-13T01:00:04.589249+00:00"
-    },
-    "88fbf270d296f22d": {
-      "title": "「大學指控我用AI寫論文，但明明都是我自己寫的」",
-      "fetched_at": "2026-08-13T01:00:05.318695+00:00"
-    },
-    "7ba875d56a836aca": {
-      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
-      "fetched_at": "2026-08-13T01:00:05.945705+00:00"
-    },
-    "43b0f6c500210090": {
-      "title": "Totality! See the first photos of the Aug. 12 total solar eclipse over Spain",
-      "fetched_at": "2026-08-13T01:00:27.364893+00:00"
-    },
-    "382aa4a42ef4bfac": {
-      "title": "Young wild octopuses may form a 'fight club' and slap territorial fish if they get too close",
-      "fetched_at": "2026-08-13T01:00:28.063561+00:00"
-    },
-    "0f7f06b464c6b63f": {
-      "title": "Colonial-Era Hospital and Church Excavated in Lima",
-      "fetched_at": "2026-08-13T01:00:28.682008+00:00"
-    },
-    "e813ba934f43d5bd": {
-      "title": "Nile Delta Necropolis Used for Thousands of Years",
-      "fetched_at": "2026-08-13T01:00:29.319141+00:00"
-    },
-    "d8a137052ff3feca": {
-      "title": "Possible Ancient Wrestler’s Tomb Found in Turkey",
-      "fetched_at": "2026-08-13T01:00:30.035701+00:00"
-    },
-    "54426bd9cc7bdb4b": {
-      "title": "Watch now! The Aug. 12 total solar eclipse has begun (live stream)",
-      "fetched_at": "2026-08-13T01:00:30.685674+00:00"
-    },
-    "f3eea67bfe22075f": {
-      "title": "Dogs can tell fear from sadness — and scientists saw it in their brains",
-      "fetched_at": "2026-08-13T01:00:31.371037+00:00"
-    },
-    "0c54a2f2d1f6006e": {
-      "title": "MIT neuroscientists discover the brain can reason without words",
-      "fetched_at": "2026-08-13T01:00:32.025889+00:00"
-    },
-    "b49ac43b686be8a4": {
-      "title": "“Cannot be explained” – New super steel stuns scientists",
-      "fetched_at": "2026-08-13T01:00:32.656974+00:00"
-    },
-    "de40ef6af49f424a": {
-      "title": "King Harold may have lost England by backing the wrong pope",
-      "fetched_at": "2026-08-13T01:00:33.319361+00:00"
-    },
-    "21b32cd0a698d22e": {
-      "title": "Black holes older than the Big Bang could explain dark matter",
-      "fetched_at": "2026-08-13T01:00:33.976804+00:00"
-    },
-    "55c5044311f8cd37": {
-      "title": "150-million-year-old dinosaur footprints reveal something strange about its walk",
-      "fetched_at": "2026-08-13T01:00:34.595889+00:00"
-    },
-    "a6eee16195acc2f2": {
-      "title": "The secret hidden in these ancient manuscripts isn’t written in ink",
-      "fetched_at": "2026-08-13T01:00:35.227909+00:00"
-    },
-    "7b6619d79229ef49": {
-      "title": "Exercise may help the aging brain “take out the trash”",
-      "fetched_at": "2026-08-13T01:00:35.860356+00:00"
-    },
-    "bc5480d4a66050fb": {
-      "title": "Your brain may be wired to regain lost weight",
-      "fetched_at": "2026-08-13T01:00:36.514860+00:00"
-    },
     "9db26cb5f10f629d": {
       "title": "Web Scraper was translated into 50 languages with AI",
       "fetched_at": "2026-08-13T07:09:17.716932+00:00"
@@ -3575,7 +3423,155 @@
     "6f6dee7490e53d9b": {
       "title": "Human Remains Found at Peruvian Pyramid Site",
       "fetched_at": "2026-08-21T00:37:47.487688+00:00"
+    },
+    "78ba5bcd5f9de381": {
+      "title": "Schooling Has a Meaning Crisis. Paradoxically, AI Can Help",
+      "fetched_at": "2026-08-21T06:25:32.677930+00:00"
+    },
+    "292556291256d79f": {
+      "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
+      "fetched_at": "2026-08-21T06:25:33.294508+00:00"
+    },
+    "2e4ef979c05bd3b8": {
+      "title": "Show HN: I built an open source video editor that you can control with an LLM",
+      "fetched_at": "2026-08-21T06:25:33.915367+00:00"
+    },
+    "109da05fc33710a9": {
+      "title": "Show HN: Just describe your idea and let AI build a playable game for you",
+      "fetched_at": "2026-08-21T06:25:34.535532+00:00"
+    },
+    "94ea198a99276080": {
+      "title": "The Sloppiest Thing About AI",
+      "fetched_at": "2026-08-21T06:25:35.153761+00:00"
+    },
+    "9b55f66af2d65c92": {
+      "title": "Meta's app for creating generative AI minigames is now available in the US",
+      "fetched_at": "2026-08-21T06:25:35.774386+00:00"
+    },
+    "4b21f6e620b587ad": {
+      "title": "Apple Music to Label AI-Generated Songs",
+      "fetched_at": "2026-08-21T06:25:36.388991+00:00"
+    },
+    "ee15b387d79de0c5": {
+      "title": "Show HN: I built a permission layer for AI agents, then spent a day breaking it",
+      "fetched_at": "2026-08-21T06:25:37.007878+00:00"
+    },
+    "8b54b487e1f2a4ae": {
+      "title": "Can Reddit survive in the AI era?",
+      "fetched_at": "2026-08-21T06:25:37.619903+00:00"
+    },
+    "3335ff8fccaa69e1": {
+      "title": "Seedance 2.5 vs. Wan 3.0 for a 30-second AI video workflow",
+      "fetched_at": "2026-08-21T06:25:38.248857+00:00"
+    },
+    "d2a200df92e4d210": {
+      "title": "Show HN: An autonomous AI agent running one project for two months in public",
+      "fetched_at": "2026-08-21T06:25:38.924310+00:00"
+    },
+    "904020adffa11a93": {
+      "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
+      "fetched_at": "2026-08-21T06:25:39.537788+00:00"
+    },
+    "e5b8eb79c6bcfcd7": {
+      "title": "Google Is Buying All of Spirit Airlines' Data to Feed Its AI Models",
+      "fetched_at": "2026-08-21T06:25:40.143496+00:00"
+    },
+    "dc83df2ecdcae0d4": {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "fetched_at": "2026-08-21T06:25:40.761571+00:00"
+    },
+    "fced3935bd29ece5": {
+      "title": "Beatport Bans AI-Produced Tracks from Platform",
+      "fetched_at": "2026-08-21T06:25:41.392785+00:00"
+    },
+    "01adcd212e916e8f": {
+      "title": "Show HN: ImageSage – Photo manager using Local AI on Windows",
+      "fetched_at": "2026-08-21T06:25:42.032624+00:00"
+    },
+    "54904564055bcc99": {
+      "title": "Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost",
+      "fetched_at": "2026-08-21T06:25:42.710810+00:00"
+    },
+    "cdf8661300591d18": {
+      "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
+      "fetched_at": "2026-08-21T06:25:43.322219+00:00"
+    },
+    "2e7f1babd6f25269": {
+      "title": "Show HN: Pigame – pi+LLM plays black-box browser games via observe/move tools",
+      "fetched_at": "2026-08-21T06:25:43.944520+00:00"
+    },
+    "a6527cf84fc93460": {
+      "title": "How Much of the Internet Is Written with AI?",
+      "fetched_at": "2026-08-21T06:25:44.559381+00:00"
+    },
+    "0d7ce64c988e8e48": {
+      "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
+      "fetched_at": "2026-08-21T06:25:47.561868+00:00"
+    },
+    "59163d12bfd48b8b": {
+      "title": "mRNA癌症疫苗取得突破进展，莫德纳股价大涨",
+      "fetched_at": "2026-08-21T06:25:48.167774+00:00"
+    },
+    "9525e2efef8b935a": {
+      "title": "资本流动“向东看”？中国鼓励科技新贵在国内上市",
+      "fetched_at": "2026-08-21T06:25:48.776722+00:00"
+    },
+    "c3a2a96053470ede": {
+      "title": "特朗普威胁惩罚伊朗贸易伙伴，对中国影响几何？",
+      "fetched_at": "2026-08-21T06:25:49.401899+00:00"
+    },
+    "563ab8ca4ca6e592": {
+      "title": "美国认定美籍缅甸问题学者遭中国不当拘留",
+      "fetched_at": "2026-08-21T06:25:50.020304+00:00"
+    },
+    "6db6da14ff1ac6fc": {
+      "title": "越“烂”越火？《牛来》为何在中国爆红",
+      "fetched_at": "2026-08-21T06:25:50.642500+00:00"
+    },
+    "955996906211f0b0": {
+      "title": "豌豆有多健康？",
+      "fetched_at": "2026-08-21T06:25:51.257332+00:00"
+    },
+    "74e5ca04fe33d369": {
+      "title": "聊天机器人正将我们推向后人类互联网",
+      "fetched_at": "2026-08-21T06:25:51.882057+00:00"
+    },
+    "45fb9c9654dcd68d": {
+      "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
+      "fetched_at": "2026-08-21T06:25:52.501704+00:00"
+    },
+    "b42b3e5fdfe3bd41": {
+      "title": "Ozempic may have revealed the brain’s hidden “craving center”",
+      "fetched_at": "2026-08-21T06:25:54.718226+00:00"
+    },
+    "bac95df86cce9dae": {
+      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+      "fetched_at": "2026-08-21T06:25:55.349252+00:00"
+    },
+    "55fa67cf467d259e": {
+      "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
+      "fetched_at": "2026-08-21T06:25:55.971550+00:00"
+    },
+    "a511729fcfc52a1a": {
+      "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
+      "fetched_at": "2026-08-21T06:25:56.596022+00:00"
+    },
+    "f5497ad771a5b787": {
+      "title": "The adult brain can repair itself better than scientists thought",
+      "fetched_at": "2026-08-21T06:25:57.200436+00:00"
+    },
+    "0f3c0c070564c8bb": {
+      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+      "fetched_at": "2026-08-21T06:25:57.814670+00:00"
+    },
+    "69047f8ab6f48c69": {
+      "title": "James Webb captures a cosmic lion sculpted by a dying star",
+      "fetched_at": "2026-08-21T06:25:58.452888+00:00"
+    },
+    "610587657645e9c0": {
+      "title": "A strange crystal made of electrons just revealed its hidden motion",
+      "fetched_at": "2026-08-21T06:25:59.076803+00:00"
     }
   },
-  "last_updated": "2026-08-21T00:37:47.563204+00:00"
+  "last_updated": "2026-08-21T06:25:59.152181+00:00"
 }
