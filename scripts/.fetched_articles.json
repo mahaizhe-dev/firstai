@@ -1,137 +1,5 @@
 {
   "articles": {
-    "381d616567f3a493": {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "fetched_at": "2026-08-12T18:44:54.549637+00:00"
-    },
-    "e0de46de50a04ea1": {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "fetched_at": "2026-08-12T18:44:55.159586+00:00"
-    },
-    "bedb874d86130a96": {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "fetched_at": "2026-08-12T18:44:55.754555+00:00"
-    },
-    "be4a85935719d104": {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "fetched_at": "2026-08-12T18:44:56.377930+00:00"
-    },
-    "9ad67d183c0c3f2d": {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "fetched_at": "2026-08-12T18:44:56.988999+00:00"
-    },
-    "0bc42292172f74c1": {
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "fetched_at": "2026-08-12T18:44:57.586534+00:00"
-    },
-    "69247ff6afa68486": {
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "fetched_at": "2026-08-12T18:44:58.190606+00:00"
-    },
-    "727e9f4ac983d93b": {
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "fetched_at": "2026-08-12T18:44:58.833337+00:00"
-    },
-    "ac2404e059435245": {
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "fetched_at": "2026-08-12T18:44:59.446805+00:00"
-    },
-    "0408336953e37517": {
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "fetched_at": "2026-08-12T18:45:00.052243+00:00"
-    },
-    "5e40e68e647adaad": {
-      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "fetched_at": "2026-08-12T18:45:00.650572+00:00"
-    },
-    "2997166b6aecc229": {
-      "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
-      "fetched_at": "2026-08-12T18:45:01.291225+00:00"
-    },
-    "f764b33cbe700b03": {
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "fetched_at": "2026-08-12T18:45:01.938099+00:00"
-    },
-    "a9b5250431bcc0ea": {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "fetched_at": "2026-08-12T18:45:02.552756+00:00"
-    },
-    "02833094475ef5ae": {
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "fetched_at": "2026-08-12T18:45:03.179573+00:00"
-    },
-    "1286b97f461f30bb": {
-      "title": "BBC核實特朗普撤回部分推薦疫苗的言論",
-      "fetched_at": "2026-08-12T18:45:06.096496+00:00"
-    },
-    "45fb9c9654dcd68d": {
-      "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
-      "fetched_at": "2026-08-12T18:45:06.711043+00:00"
-    },
-    "ff33576001e1b152": {
-      "title": "美國特勤局如何玩弄「障眼法」，將特朗普在眾目睽睽之下隱藏",
-      "fetched_at": "2026-08-12T18:45:07.341732+00:00"
-    },
-    "8fbc644f51fee352": {
-      "title": "Nocturnal dodo? Study suggests we were very wrong about Mauritius' iconic flightless bird",
-      "fetched_at": "2026-08-12T18:45:22.272368+00:00"
-    },
-    "d9b87855d2c675ba": {
-      "title": "'They'll surf into the eclipse': Readers share their plans for today’s epic solar eclipse and meteor shower mash-up",
-      "fetched_at": "2026-08-12T18:45:22.886153+00:00"
-    },
-    "e81373a7d5290f05": {
-      "title": "'No longer will anything seem impossible or marvellous': How an 'immoral, foul-mouthed and violent man' wrote the first eyewitness account of a total solar eclipse​​",
-      "fetched_at": "2026-08-12T18:45:23.498374+00:00"
-    },
-    "d882c9373b521992": {
-      "title": "Show HN: A website for exploring historical photographs of my city",
-      "fetched_at": "2026-08-12T18:45:24.126532+00:00"
-    },
-    "b42b3e5fdfe3bd41": {
-      "title": "Ozempic may have revealed the brain’s hidden “craving center”",
-      "fetched_at": "2026-08-12T18:45:24.781175+00:00"
-    },
-    "bac95df86cce9dae": {
-      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
-      "fetched_at": "2026-08-12T18:45:25.407234+00:00"
-    },
-    "2b0abb78c202c440": {
-      "title": "Discovery of 'slow' electrons in 2D material could lead to new memory device",
-      "fetched_at": "2026-08-12T18:45:26.017666+00:00"
-    },
-    "55fa67cf467d259e": {
-      "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
-      "fetched_at": "2026-08-12T18:45:26.615721+00:00"
-    },
-    "a511729fcfc52a1a": {
-      "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
-      "fetched_at": "2026-08-12T18:45:27.214281+00:00"
-    },
-    "f5497ad771a5b787": {
-      "title": "The adult brain can repair itself better than scientists thought",
-      "fetched_at": "2026-08-12T18:45:27.888127+00:00"
-    },
-    "0f3c0c070564c8bb": {
-      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
-      "fetched_at": "2026-08-12T18:45:28.544127+00:00"
-    },
-    "69047f8ab6f48c69": {
-      "title": "James Webb captures a cosmic lion sculpted by a dying star",
-      "fetched_at": "2026-08-12T18:45:29.176522+00:00"
-    },
-    "610587657645e9c0": {
-      "title": "A strange crystal made of electrons just revealed its hidden motion",
-      "fetched_at": "2026-08-12T18:45:29.782242+00:00"
-    },
-    "c472f877e08e2030": {
-      "title": "Scientists find evidence for two origins of life on Earth",
-      "fetched_at": "2026-08-12T18:45:30.376067+00:00"
-    },
-    "995efe9ab02228a6": {
-      "title": "Astronomers drop one of the largest-ever maps of the universe, charting 4 billion objects",
-      "fetched_at": "2026-08-12T18:45:31.010343+00:00"
-    },
     "1b4f7e292874e2fb": {
       "title": "Fenix Flexin Admits He Used AI for \"Rubberz\"",
       "fetched_at": "2026-08-13T00:59:50.392392+00:00"
@@ -3603,7 +3471,111 @@
     "2057ba68424ed7fc": {
       "title": "1,400-year-old skeleton found in underground channel in Peru may have belonged to human sacrifice victim",
       "fetched_at": "2026-08-20T18:21:28.259591+00:00"
+    },
+    "903742629d345326": {
+      "title": "How A Texas student blew the whistle on a rogue AI hacking attempt",
+      "fetched_at": "2026-08-21T00:37:12.985697+00:00"
+    },
+    "7ec39631d2e177f2": {
+      "title": "Copyright does not protect AI-generated content in EU",
+      "fetched_at": "2026-08-21T00:37:13.576971+00:00"
+    },
+    "583e2ca003858201": {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "fetched_at": "2026-08-21T00:37:14.182081+00:00"
+    },
+    "0ceee662dc6023a4": {
+      "title": "Ask HN: Is building military hardware and healthcare the AI-proof?",
+      "fetched_at": "2026-08-21T00:37:14.768643+00:00"
+    },
+    "3614f0a737210447": {
+      "title": "AI's 'middle class' has gotten dramatically better at hacking",
+      "fetched_at": "2026-08-21T00:37:15.349038+00:00"
+    },
+    "8b6644ad94d0ff43": {
+      "title": "The AI Debate Is About Control, Not AI",
+      "fetched_at": "2026-08-21T00:37:15.932122+00:00"
+    },
+    "64971c8c3ec3de28": {
+      "title": "We replaced our 223-node agent graph with a single open-source LLM",
+      "fetched_at": "2026-08-21T00:37:16.527138+00:00"
+    },
+    "22ba570873b89e47": {
+      "title": "Show HN: AI tools with real pricing, submitted in 30 seconds",
+      "fetched_at": "2026-08-21T00:37:17.133969+00:00"
+    },
+    "f34d1ff877faa871": {
+      "title": "AI #182: Pause for Reflection",
+      "fetched_at": "2026-08-21T00:37:17.719145+00:00"
+    },
+    "4855b4184df5bd09": {
+      "title": "BTP v2.2 – An open, offline cryptographic trust protocol for AI agents",
+      "fetched_at": "2026-08-21T00:37:18.294865+00:00"
+    },
+    "61a14c7bf7c6525a": {
+      "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
+      "fetched_at": "2026-08-21T00:37:18.880903+00:00"
+    },
+    "f8e0fd4f010676a5": {
+      "title": "OpenCyvis: An open-source AI phone agent that runs your own LLM",
+      "fetched_at": "2026-08-21T00:37:19.472305+00:00"
+    },
+    "c8b9a3fa433c89d9": {
+      "title": "Intelligent AI Delegation",
+      "fetched_at": "2026-08-21T00:37:20.055806+00:00"
+    },
+    "75ff4411f34f2607": {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "fetched_at": "2026-08-21T00:37:20.637914+00:00"
+    },
+    "2c8309e8a9e22991": {
+      "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
+      "fetched_at": "2026-08-21T00:37:21.215445+00:00"
+    },
+    "bf3e2bfd59df0c41": {
+      "title": "Results from the Backblaze Generative AI Media Hackathon",
+      "fetched_at": "2026-08-21T00:37:21.790589+00:00"
+    },
+    "42b83e3da2c78066": {
+      "title": "Why the Future of AI Belongs to Systems That Can Self-Learn",
+      "fetched_at": "2026-08-21T00:37:22.472904+00:00"
+    },
+    "587b0092ff5ffc3b": {
+      "title": "Show HN: Zero () friction local AI for Mac",
+      "fetched_at": "2026-08-21T00:37:23.201120+00:00"
+    },
+    "251bd527dace8bef": {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "fetched_at": "2026-08-21T00:37:23.871488+00:00"
+    },
+    "a1d949f0f5a63a37": {
+      "title": "Browser automation agents with Pydantic AI and Playwright",
+      "fetched_at": "2026-08-21T00:37:24.469489+00:00"
+    },
+    "3a16facd5d3ef2b6": {
+      "title": "她辭掉了8萬英鎊年薪工作去做冰淇淋，然後造出了爆款",
+      "fetched_at": "2026-08-21T00:37:26.678195+00:00"
+    },
+    "9d376011690970ef": {
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "fetched_at": "2026-08-21T00:37:27.266866+00:00"
+    },
+    "620477c8ddb03d46": {
+      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
+      "fetched_at": "2026-08-21T00:37:27.928740+00:00"
+    },
+    "d372a1c322ed67c1": {
+      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
+      "fetched_at": "2026-08-21T00:37:28.513154+00:00"
+    },
+    "daf31e1be09d946b": {
+      "title": "Iron Smelting Site Discovered in Northern England",
+      "fetched_at": "2026-08-21T00:37:46.903352+00:00"
+    },
+    "6f6dee7490e53d9b": {
+      "title": "Human Remains Found at Peruvian Pyramid Site",
+      "fetched_at": "2026-08-21T00:37:47.487688+00:00"
     }
   },
-  "last_updated": "2026-08-20T18:21:28.387817+00:00"
+  "last_updated": "2026-08-21T00:37:47.563204+00:00"
 }
