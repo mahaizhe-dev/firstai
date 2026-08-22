@@ -1,77 +1,5 @@
 {
   "articles": {
-    "b0fc1003e4ff7000": {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "fetched_at": "2026-08-13T18:45:36.264917+00:00"
-    },
-    "813c194d36f3b128": {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "fetched_at": "2026-08-13T18:45:36.892789+00:00"
-    },
-    "55b71fed46c4587e": {
-      "title": "Suno is trying to look more like a real music production tool",
-      "fetched_at": "2026-08-13T18:45:37.522906+00:00"
-    },
-    "e1c1c8c2a423f127": {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "fetched_at": "2026-08-13T18:45:38.143203+00:00"
-    },
-    "6d1bf65ae90f0c93": {
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "fetched_at": "2026-08-13T18:45:38.776621+00:00"
-    },
-    "7aa3e3209f7bebf6": {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "fetched_at": "2026-08-13T18:45:39.433938+00:00"
-    },
-    "1893a5579af8a5c9": {
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "fetched_at": "2026-08-13T18:45:40.050570+00:00"
-    },
-    "75233ff03825244f": {
-      "title": "Does Google even want to win at AI?",
-      "fetched_at": "2026-08-13T18:45:40.688019+00:00"
-    },
-    "bf673c5b6951f829": {
-      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "fetched_at": "2026-08-13T18:45:41.313074+00:00"
-    },
-    "dc790d041283076f": {
-      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
-      "fetched_at": "2026-08-13T18:45:44.488264+00:00"
-    },
-    "8c5b00f20b89b7a5": {
-      "title": "'They basically used these dried-up wells just to throw people in': 43 skeletons found in Roman-era well may be evidence of deadly plague",
-      "fetched_at": "2026-08-13T18:45:47.302184+00:00"
-    },
-    "c2af46afebcb926e": {
-      "title": "New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'",
-      "fetched_at": "2026-08-13T18:45:47.932258+00:00"
-    },
-    "2a1caae4b87b4afd": {
-      "title": "Show HN: Agent-to-agent discovery through Cloudflare Worker via MCP",
-      "fetched_at": "2026-08-13T18:45:48.555373+00:00"
-    },
-    "eda46b232cbf415c": {
-      "title": "James Webb telescope just spotted the oldest, closest pair of black holes in the early universe",
-      "fetched_at": "2026-08-13T18:45:49.170316+00:00"
-    },
-    "76dfaf156c708c9e": {
-      "title": "Foodborne illnesses: Is the US really being hit harder this year?",
-      "fetched_at": "2026-08-13T18:45:49.790846+00:00"
-    },
-    "d5da645c9050b3df": {
-      "title": "Mars may have been losing its water more than 4 billion years ago, oldest-known Martian meteorite suggests",
-      "fetched_at": "2026-08-13T18:45:50.419863+00:00"
-    },
-    "88fb3f98db2a5e6a": {
-      "title": "Mammal ancestors may have given live birth 90 million years earlier than we thought, rewriting evolutionary timelines",
-      "fetched_at": "2026-08-13T18:45:51.054600+00:00"
-    },
-    "54e58690846ab2d9": {
-      "title": "Pigs wearing heated diving suits and diapers reveal a better way to beat 'the bends'",
-      "fetched_at": "2026-08-13T18:45:51.677369+00:00"
-    },
     "99061f83ce259bae": {
       "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
       "fetched_at": "2026-08-14T00:59:03.206909+00:00"
@@ -3591,7 +3519,83 @@
     "f3bfe34b362a5418": {
       "title": "Have your say: Would you trust a humanoid robot with your household chores?",
       "fetched_at": "2026-08-21T18:20:39.688977+00:00"
+    },
+    "775dfec420043d6f": {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "fetched_at": "2026-08-22T00:34:28.558881+00:00"
+    },
+    "b8691d63ed5e21b5": {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "fetched_at": "2026-08-22T00:34:29.153623+00:00"
+    },
+    "235c9d38c8d1ee00": {
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "fetched_at": "2026-08-22T00:34:29.749538+00:00"
+    },
+    "da90576cbb20c227": {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "fetched_at": "2026-08-22T00:34:30.317650+00:00"
+    },
+    "6266b5360624e93a": {
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "fetched_at": "2026-08-22T00:34:30.912725+00:00"
+    },
+    "5872b76cd00f9751": {
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "fetched_at": "2026-08-22T00:34:31.507932+00:00"
+    },
+    "472f5969301278df": {
+      "title": "OK, can we actually cool data centers with our pee?",
+      "fetched_at": "2026-08-22T00:34:32.084076+00:00"
+    },
+    "cbc9463780472316": {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "fetched_at": "2026-08-22T00:34:32.669648+00:00"
+    },
+    "d1cc95132a0261bf": {
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "fetched_at": "2026-08-22T00:34:33.257429+00:00"
+    },
+    "6a9352ce9dee2463": {
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
+      "fetched_at": "2026-08-22T00:34:33.839873+00:00"
+    },
+    "5e8ff53ded7647e5": {
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "fetched_at": "2026-08-22T00:34:34.428430+00:00"
+    },
+    "e745aa7d3cf6c3e5": {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "fetched_at": "2026-08-22T00:34:35.023775+00:00"
+    },
+    "4fcf3daa0c75d8d9": {
+      "title": "Welcome to the AI crisis in math",
+      "fetched_at": "2026-08-22T00:34:35.599690+00:00"
+    },
+    "ccc4877e1f16758e": {
+      "title": "新玩意 249｜少数派的编辑们最近买了啥？",
+      "fetched_at": "2026-08-22T00:34:36.231396+00:00"
+    },
+    "5d95af8afb689d37": {
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "fetched_at": "2026-08-22T00:34:36.812518+00:00"
+    },
+    "9ec6305dcca35458": {
+      "title": "十年阅读历程，这是我的阅读工具推荐",
+      "fetched_at": "2026-08-22T00:34:37.392862+00:00"
+    },
+    "cb06bb2c969b47bb": {
+      "title": "Cold Pools Uncovered at Sanctuary Bathhouse",
+      "fetched_at": "2026-08-22T00:34:46.463047+00:00"
+    },
+    "b9de06c2406ee3b0": {
+      "title": "Buddha Statues Uncovered in Sri Lanka",
+      "fetched_at": "2026-08-22T00:34:47.037385+00:00"
+    },
+    "33d51e5730a4a047": {
+      "title": "Before we ban kids from social media completely, here's what we should try first",
+      "fetched_at": "2026-08-22T00:34:47.616402+00:00"
     }
   },
-  "last_updated": "2026-08-21T18:20:39.787078+00:00"
+  "last_updated": "2026-08-22T00:34:47.685934+00:00"
 }
