@@ -1,109 +1,5 @@
 {
   "articles": {
-    "0761f53c2a88bf78": {
-      "title": "SEtting up AI search rank tracking easily",
-      "fetched_at": "2026-08-14T12:39:13.707868+00:00"
-    },
-    "a852e8083d5f5b94": {
-      "title": "Charisma, confidence and no fear of AI taking their jobs. The personality hires",
-      "fetched_at": "2026-08-14T12:39:14.284978+00:00"
-    },
-    "de82b885f756eaec": {
-      "title": "Terence Tao Lecture: Mathematics in the Age of AI [video]",
-      "fetched_at": "2026-08-14T12:39:14.859455+00:00"
-    },
-    "735f3242a03dda49": {
-      "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
-      "fetched_at": "2026-08-14T12:39:15.434901+00:00"
-    },
-    "7fc508213b21def5": {
-      "title": "Open Silicon Photonics for AI Systems Initiative",
-      "fetched_at": "2026-08-14T12:39:16.011168+00:00"
-    },
-    "b98dcba191692d98": {
-      "title": "Error by AI scribe during medical appointment leaves patient devastated",
-      "fetched_at": "2026-08-14T12:39:16.608727+00:00"
-    },
-    "dfa2fabaadff4876": {
-      "title": "AI Watermarks, Skill Loss and GenAI – Food for Agile Thought #557",
-      "fetched_at": "2026-08-14T12:39:17.189030+00:00"
-    },
-    "a6ec216d2baab018": {
-      "title": "Which GPU Is Suitable for Running Your AI Workloads?",
-      "fetched_at": "2026-08-14T12:39:17.781191+00:00"
-    },
-    "5658070eccfd20dc": {
-      "title": "The EU AI Act Is Now a Business-Blocking Risk for Vertical AI",
-      "fetched_at": "2026-08-14T12:39:18.356276+00:00"
-    },
-    "eca993afe12c651e": {
-      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output",
-      "fetched_at": "2026-08-14T12:39:18.939819+00:00"
-    },
-    "0a14cbdf27436e58": {
-      "title": "My Anti AI Computer",
-      "fetched_at": "2026-08-14T12:39:19.515667+00:00"
-    },
-    "e72c68172de3a02b": {
-      "title": "Model Context Protocol (MCP) Explained: How AI Agents Connect to Any Tool",
-      "fetched_at": "2026-08-14T12:39:20.088007+00:00"
-    },
-    "363572cd3d66797b": {
-      "title": "Dashboard tracking math problems being solved by AI",
-      "fetched_at": "2026-08-14T12:39:20.657220+00:00"
-    },
-    "1f3248385ff47ffe": {
-      "title": "Show HN: LinkGravity – chat and voice bridge for AI coding agents",
-      "fetched_at": "2026-08-14T12:39:21.255153+00:00"
-    },
-    "3f77583a80013f15": {
-      "title": "AI companies destroy physical books. Help scan rare books, with rewards",
-      "fetched_at": "2026-08-14T12:39:21.829083+00:00"
-    },
-    "5e82c193292634a0": {
-      "title": "Philosophy Journal Publishes Largely AI-Authored Article – On Purpose",
-      "fetched_at": "2026-08-14T12:39:22.415441+00:00"
-    },
-    "40add82f3f21c1a5": {
-      "title": "Ask HN: Does AI watermarking present a new attack vector?",
-      "fetched_at": "2026-08-14T12:39:23.033761+00:00"
-    },
-    "d2257b1782968274": {
-      "title": "Show HN: Am-1 Arpeggio Machine – A Love Letter to Berlin School Music",
-      "fetched_at": "2026-08-14T12:39:23.602739+00:00"
-    },
-    "6e345b62286d1d10": {
-      "title": "Show HN: Genosyn – Automate running of companies with AI",
-      "fetched_at": "2026-08-14T12:39:24.186749+00:00"
-    },
-    "b9e12bcbf87300df": {
-      "title": "Why AI-generated vulnerability patches still require expert human review",
-      "fetched_at": "2026-08-14T12:39:24.767512+00:00"
-    },
-    "712f4f4932e8e68c": {
-      "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
-      "fetched_at": "2026-08-14T12:39:26.781865+00:00"
-    },
-    "98c2d32ec7738650": {
-      "title": "中國國產C919首飛國際航線 挑戰波音、空中巴士再進一步？",
-      "fetched_at": "2026-08-14T12:39:27.356333+00:00"
-    },
-    "63bd2b4b1a88aee8": {
-      "title": "朱鎔基的話：從「搞台獨沒好下場」 到「搞壞香港是民族罪人」",
-      "fetched_at": "2026-08-14T12:39:27.929619+00:00"
-    },
-    "731eca19a9e30c6e": {
-      "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
-      "fetched_at": "2026-08-14T12:39:28.499406+00:00"
-    },
-    "12ec043eac91b00b": {
-      "title": "'The lance head was still inside the pelvis:' Mass grave found in Austria may hold casualties of unknown ancient Roman battle",
-      "fetched_at": "2026-08-14T12:39:31.859262+00:00"
-    },
-    "b56bc060bfe419ef": {
-      "title": "'If this is the new normal, then we are in very deep trouble': Brazil's drying aquifers could have ripple effects across the world",
-      "fetched_at": "2026-08-14T12:39:32.427043+00:00"
-    },
     "dd9945b2ecc23edb": {
       "title": "Show HN: Captain, AI Travel Agent",
       "fetched_at": "2026-08-14T18:38:49.522088+00:00"
@@ -3559,7 +3455,123 @@
     "2a1caae4b87b4afd": {
       "title": "Show HN: Agent-to-agent discovery through Cloudflare Worker via MCP",
       "fetched_at": "2026-08-22T12:17:21.280185+00:00"
+    },
+    "4ea70012d08245bb": {
+      "title": "When AI art has no author: Generated images can't trace to training data (study)",
+      "fetched_at": "2026-08-22T18:13:07.550147+00:00"
+    },
+    "3e4eedd2124aedcd": {
+      "title": "Show HN: TechSkills – Open-source skill modules for AI coding agents",
+      "fetched_at": "2026-08-22T18:13:08.193823+00:00"
+    },
+    "3f9d06798c9edaca": {
+      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+      "fetched_at": "2026-08-22T18:13:08.838069+00:00"
+    },
+    "5be808966efa1f45": {
+      "title": "An iOS app that runs AI agents and a complete voice pipeline on the device",
+      "fetched_at": "2026-08-22T18:13:09.477496+00:00"
+    },
+    "51bedbf2b5e7a4a5": {
+      "title": "Show HN: Git workflow as an AI-agent skill",
+      "fetched_at": "2026-08-22T18:13:10.111348+00:00"
+    },
+    "4fe53c38c3aca24c": {
+      "title": "Show HN: I turned Apple-style scroll-video websites into a reusable AI skill",
+      "fetched_at": "2026-08-22T18:13:10.753175+00:00"
+    },
+    "21ccfa17915f1ba5": {
+      "title": "Hotcrp.com – AI agents and bot accounts",
+      "fetched_at": "2026-08-22T18:13:11.387085+00:00"
+    },
+    "d7b2299c81b37552": {
+      "title": "Show HN: Namo_complete: a non-obtrusive AI autocomplete for the bash terminal",
+      "fetched_at": "2026-08-22T18:13:12.008783+00:00"
+    },
+    "4f1b1afe049f22c6": {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "fetched_at": "2026-08-22T18:13:12.636069+00:00"
+    },
+    "41cfb6f84e9dc8c9": {
+      "title": "Ask HN: If you dislike AI, why don't you prove it?",
+      "fetched_at": "2026-08-22T18:13:13.270272+00:00"
+    },
+    "65e558c19109b8ef": {
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "fetched_at": "2026-08-22T18:13:13.904796+00:00"
+    },
+    "56cb1223ad8a2a83": {
+      "title": "Fintex on X: \"The Math of Why Bigger AI Keeps Getting Smarter (Scaling Laws)",
+      "fetched_at": "2026-08-22T18:13:14.537659+00:00"
+    },
+    "9e9557dadc25a0d4": {
+      "title": "AI and Chauffeur Knowledge",
+      "fetched_at": "2026-08-22T18:13:15.183954+00:00"
+    },
+    "5997d4c2422d67f7": {
+      "title": "Learning about \"The Unix Time-Sharing System\"",
+      "fetched_at": "2026-08-22T18:13:15.834326+00:00"
+    },
+    "4f3971a1ff559f93": {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "fetched_at": "2026-08-22T18:13:16.470121+00:00"
+    },
+    "8dcbfa5fe47adaed": {
+      "title": "Show HN: AI as Cognitive Gym Equipment",
+      "fetched_at": "2026-08-22T18:13:17.135928+00:00"
+    },
+    "57342a6621e79372": {
+      "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
+      "fetched_at": "2026-08-22T18:13:17.759179+00:00"
+    },
+    "2f69c1bf3b24ecc2": {
+      "title": "Show HN: Find and Organize Photos with Private, Local AI",
+      "fetched_at": "2026-08-22T18:13:18.402815+00:00"
+    },
+    "6211245c6f562a8a": {
+      "title": "Claude Watermarks AI-Generated Text",
+      "fetched_at": "2026-08-22T18:13:19.059100+00:00"
+    },
+    "ebe736998742db07": {
+      "title": "AI agents merged two dangers once kept separate: reach and judgment",
+      "fetched_at": "2026-08-22T18:13:19.687210+00:00"
+    },
+    "6a30a79c5bc90dca": {
+      "title": "美國稱數十國助中國避特朗普關稅",
+      "fetched_at": "2026-08-22T18:13:21.928428+00:00"
+    },
+    "054e3aa0ce383eea": {
+      "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
+      "fetched_at": "2026-08-22T18:13:22.574825+00:00"
+    },
+    "694ab39747dc3b43": {
+      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
+      "fetched_at": "2026-08-22T18:13:23.210948+00:00"
+    },
+    "91d48e3717b8f2ee": {
+      "title": "Archaeologists unearth a medieval nobleman buried with his horse and dog in a rare wooden tomb in Russia",
+      "fetched_at": "2026-08-22T18:13:39.608820+00:00"
+    },
+    "f7e93540cb8c2065": {
+      "title": "Multilingual people may have brains up to 13 years younger",
+      "fetched_at": "2026-08-22T18:13:40.238433+00:00"
+    },
+    "f6f7f1cdbca09224": {
+      "title": "JWST finds early galaxies may be 4 times more massive than thought",
+      "fetched_at": "2026-08-22T18:13:40.864344+00:00"
+    },
+    "def5965c4e72b9b5": {
+      "title": "This yeast supplement may boost cancer-fighting immunity",
+      "fetched_at": "2026-08-22T18:13:41.502257+00:00"
+    },
+    "58fbb34f36f33ec3": {
+      "title": "Queen bees have a disturbing way to survive pesticides",
+      "fetched_at": "2026-08-22T18:13:42.139814+00:00"
+    },
+    "1b112bcf9dcf6d41": {
+      "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
+      "fetched_at": "2026-08-22T18:13:42.771261+00:00"
     }
   },
-  "last_updated": "2026-08-22T12:17:21.414506+00:00"
+  "last_updated": "2026-08-22T18:13:42.902122+00:00"
 }
