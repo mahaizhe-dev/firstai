@@ -1,145 +1,5 @@
 {
   "articles": {
-    "99061f83ce259bae": {
-      "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
-      "fetched_at": "2026-08-14T00:59:03.206909+00:00"
-    },
-    "29200a741aa386ac": {
-      "title": "Agentrove: Self-hosted AI workspace for orchestrating coding agents",
-      "fetched_at": "2026-08-14T00:59:03.832554+00:00"
-    },
-    "9b86d7a50d4c8cd1": {
-      "title": "Show HN: Auto-train the harness, not the LLM. cross-model, cross-benchmark gains",
-      "fetched_at": "2026-08-14T00:59:04.467587+00:00"
-    },
-    "a13d6aa269232e7b": {
-      "title": "AI Pen Testing Chrome Extension",
-      "fetched_at": "2026-08-14T00:59:05.104074+00:00"
-    },
-    "84890abb6d895fa3": {
-      "title": "AI Can Now Design Functional Viruses",
-      "fetched_at": "2026-08-14T00:59:05.734189+00:00"
-    },
-    "e3d6e6821b76469d": {
-      "title": "Show HN: Referee.Chat - Set the goal. An AI panel works. Referee clears it done",
-      "fetched_at": "2026-08-14T00:59:06.359371+00:00"
-    },
-    "e49f328a8abae555": {
-      "title": "How AI text watermarking works",
-      "fetched_at": "2026-08-14T00:59:06.983800+00:00"
-    },
-    "7a46feb25f1e9be0": {
-      "title": "AI is learning clinical judgment by practicing on simulated patients",
-      "fetched_at": "2026-08-14T00:59:07.605115+00:00"
-    },
-    "451ab105275dd2cc": {
-      "title": "An anchoring layer between facts and AI memory",
-      "fetched_at": "2026-08-14T00:59:08.229529+00:00"
-    },
-    "a33881a35427ef4a": {
-      "title": "Further Developments About Internal AI Models Hacking Things",
-      "fetched_at": "2026-08-14T00:59:08.872234+00:00"
-    },
-    "6b24aa6ddd7d076c": {
-      "title": "Show HN: AI Slop Kitchen",
-      "fetched_at": "2026-08-14T00:59:09.495665+00:00"
-    },
-    "cfa6f21badf252b2": {
-      "title": "Think of AI as a lens, not a person",
-      "fetched_at": "2026-08-14T00:59:10.122064+00:00"
-    },
-    "4aff9a8fd1dca23c": {
-      "title": "Using AI chatbots? Here are four ways to reduce the energy drain",
-      "fetched_at": "2026-08-14T00:59:10.761336+00:00"
-    },
-    "9ebbc15be60b075d": {
-      "title": "AI Looms over Software Companies – and the Investors Who Piled into Them",
-      "fetched_at": "2026-08-14T00:59:11.407422+00:00"
-    },
-    "db903456ad1d08c3": {
-      "title": "ParleHub – Enterprise AI Collaboration and Cost Control – Launch Today on PH",
-      "fetched_at": "2026-08-14T00:59:12.014840+00:00"
-    },
-    "0c9db2c5acfcfbc4": {
-      "title": "AI #181: Astra Goes Cyber Critical",
-      "fetched_at": "2026-08-14T00:59:12.631885+00:00"
-    },
-    "88f703c84e7b9054": {
-      "title": "Book Review: The Infinity Machine",
-      "fetched_at": "2026-08-14T00:59:13.260530+00:00"
-    },
-    "0e0a6f397ff6126b": {
-      "title": "I Build Production Software by Directing AI",
-      "fetched_at": "2026-08-14T00:59:13.865963+00:00"
-    },
-    "328a02187184c77d": {
-      "title": "Terence Tao: Mathematics in the Age of AI (Lecture)",
-      "fetched_at": "2026-08-14T00:59:14.481472+00:00"
-    },
-    "7b80571b92d23a0d": {
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "fetched_at": "2026-08-14T00:59:15.115137+00:00"
-    },
-    "ebd529588e61c864": {
-      "title": "敢于说真话的铁腕总理：中国民众如何悼念朱镕基",
-      "fetched_at": "2026-08-14T00:59:17.179364+00:00"
-    },
-    "fd574abcc96eefb8": {
-      "title": "伊朗跟美國、以色列打仗 還能撐多久？",
-      "fetched_at": "2026-08-14T00:59:17.802005+00:00"
-    },
-    "6e7a18b3b9201190": {
-      "title": "Memory may not work how we thought, study of mice in artificial hibernation finds",
-      "fetched_at": "2026-08-14T00:59:23.809210+00:00"
-    },
-    "7ff6d0896822f452": {
-      "title": "Saving old trees may protect people's health more than planting new ones, study of Chicago neighborhoods finds",
-      "fetched_at": "2026-08-14T00:59:24.437212+00:00"
-    },
-    "bc6c83af62f9c7eb": {
-      "title": "Building Bibliographic Superwork Clusters for Discovery with Local LLMs",
-      "fetched_at": "2026-08-14T00:59:25.053176+00:00"
-    },
-    "3db8c751fb426270": {
-      "title": "Fourth-Century B.C. Graves Found at Hattusha",
-      "fetched_at": "2026-08-14T00:59:25.687655+00:00"
-    },
-    "32bda658229cb76c": {
-      "title": "Medieval Caravansery Uncovered in North Sinai",
-      "fetched_at": "2026-08-14T00:59:26.333664+00:00"
-    },
-    "3966421a879dfd49": {
-      "title": "Homo antecessor Skull Fragments Examined",
-      "fetched_at": "2026-08-14T00:59:26.958012+00:00"
-    },
-    "8103c15b4c7729e3": {
-      "title": "Drug Discovery Has No Magic Wands",
-      "fetched_at": "2026-08-14T00:59:27.585528+00:00"
-    },
-    "24927d29ecdce671": {
-      "title": "Scientists discover the brain cells that keep you motivated",
-      "fetched_at": "2026-08-14T00:59:28.209861+00:00"
-    },
-    "aee87f3494dafd45": {
-      "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
-      "fetched_at": "2026-08-14T00:59:28.829696+00:00"
-    },
-    "066aba7c32a01db9": {
-      "title": "A colossal magma system has been hiding beneath Tuscany",
-      "fetched_at": "2026-08-14T00:59:29.490459+00:00"
-    },
-    "276d27e292dc7700": {
-      "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
-      "fetched_at": "2026-08-14T00:59:30.115516+00:00"
-    },
-    "cf5d4a4667d11829": {
-      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
-      "fetched_at": "2026-08-14T00:59:30.755953+00:00"
-    },
-    "f4249ba04ad643c6": {
-      "title": "Scientists catch a “jumping gene” mid-leap between species",
-      "fetched_at": "2026-08-14T00:59:31.377515+00:00"
-    },
     "c7fb91969b8f97f2": {
       "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030",
       "fetched_at": "2026-08-14T07:05:58.169123+00:00"
@@ -3595,7 +3455,115 @@
     "33d51e5730a4a047": {
       "title": "Before we ban kids from social media completely, here's what we should try first",
       "fetched_at": "2026-08-22T00:34:47.616402+00:00"
+    },
+    "a57aaad90fe8ccbc": {
+      "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+      "fetched_at": "2026-08-22T06:19:38.430367+00:00"
+    },
+    "1af173df8998a2b5": {
+      "title": "Ask HN: What is the evidence for a stock market bubble in AI?",
+      "fetched_at": "2026-08-22T06:19:39.055125+00:00"
+    },
+    "c6be0865d33fc544": {
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "fetched_at": "2026-08-22T06:19:39.723728+00:00"
+    },
+    "7de0774f52821fa6": {
+      "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
+      "fetched_at": "2026-08-22T06:19:40.333072+00:00"
+    },
+    "1ac7d2b574f77acc": {
+      "title": "Void Tools API – Blockchain Tools for AI Agents (Pay in Void Tokens)",
+      "fetched_at": "2026-08-22T06:19:40.949748+00:00"
+    },
+    "0c01fe302efa4e9c": {
+      "title": "GPT 5.6 Sol 20% price reduction",
+      "fetched_at": "2026-08-22T06:19:41.568686+00:00"
+    },
+    "e6ec17c75b0dae4a": {
+      "title": "Getting Freaky in the Age of AI",
+      "fetched_at": "2026-08-22T06:19:42.184109+00:00"
+    },
+    "874c5684271ff406": {
+      "title": "Linus: And this was a debug session from hell, enormously helped by an AI",
+      "fetched_at": "2026-08-22T06:19:42.816041+00:00"
+    },
+    "482b26aa8cee4267": {
+      "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
+      "fetched_at": "2026-08-22T06:19:43.421227+00:00"
+    },
+    "25fd110b9d5558fe": {
+      "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+      "fetched_at": "2026-08-22T06:19:44.034366+00:00"
+    },
+    "8e05951f88af2dc7": {
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+      "fetched_at": "2026-08-22T06:19:44.643958+00:00"
+    },
+    "8a5a146f536ca832": {
+      "title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
+      "fetched_at": "2026-08-22T06:19:45.255761+00:00"
+    },
+    "c80c7c48d40b8812": {
+      "title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
+      "fetched_at": "2026-08-22T06:19:45.863652+00:00"
+    },
+    "7f48b7eff723717e": {
+      "title": "Obsession with AI",
+      "fetched_at": "2026-08-22T06:19:46.482060+00:00"
+    },
+    "6bec537816e0c94c": {
+      "title": "HydroGym: A Reinforcement Learning Platform for Fluid Dynamics [video]",
+      "fetched_at": "2026-08-22T06:19:47.096833+00:00"
+    },
+    "f1eff89cedf7101f": {
+      "title": "20% price reduction for GPT 5.6 Sol",
+      "fetched_at": "2026-08-22T06:19:47.720861+00:00"
+    },
+    "5db60391596b3509": {
+      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+      "fetched_at": "2026-08-22T06:19:48.331752+00:00"
+    },
+    "b9f856dd1e9f1a5d": {
+      "title": "In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI",
+      "fetched_at": "2026-08-22T06:19:48.941590+00:00"
+    },
+    "f7ca409496beec86": {
+      "title": "Show HN: Updating my wedding registry website with AI in 275 commits",
+      "fetched_at": "2026-08-22T06:19:49.571755+00:00"
+    },
+    "0070cf57517d4a90": {
+      "title": "Ox Alpha Is Performing SOTA and as Well as GPT-5.6 Sol in Multi-Agent Arena",
+      "fetched_at": "2026-08-22T06:19:50.184482+00:00"
+    },
+    "8c5b00f20b89b7a5": {
+      "title": "'They basically used these dried-up wells just to throw people in': 43 skeletons found in Roman-era well may be evidence of deadly plague",
+      "fetched_at": "2026-08-22T06:19:53.637868+00:00"
+    },
+    "c2af46afebcb926e": {
+      "title": "New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'",
+      "fetched_at": "2026-08-22T06:19:54.252706+00:00"
+    },
+    "eda46b232cbf415c": {
+      "title": "James Webb telescope just spotted the oldest, closest pair of black holes in the early universe",
+      "fetched_at": "2026-08-22T06:19:54.872860+00:00"
+    },
+    "76dfaf156c708c9e": {
+      "title": "Foodborne illnesses: Is the US really being hit harder this year?",
+      "fetched_at": "2026-08-22T06:19:55.490113+00:00"
+    },
+    "d5da645c9050b3df": {
+      "title": "Mars may have been losing its water more than 4 billion years ago, oldest-known Martian meteorite suggests",
+      "fetched_at": "2026-08-22T06:19:56.106419+00:00"
+    },
+    "88fb3f98db2a5e6a": {
+      "title": "Mammal ancestors may have given live birth 90 million years earlier than we thought, rewriting evolutionary timelines",
+      "fetched_at": "2026-08-22T06:19:56.724339+00:00"
+    },
+    "54e58690846ab2d9": {
+      "title": "Pigs wearing heated diving suits and diapers reveal a better way to beat 'the bends'",
+      "fetched_at": "2026-08-22T06:19:57.362700+00:00"
     }
   },
-  "last_updated": "2026-08-22T00:34:47.685934+00:00"
+  "last_updated": "2026-08-22T06:19:57.494758+00:00"
 }
