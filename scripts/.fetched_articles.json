@@ -1,89 +1,5 @@
 {
   "articles": {
-    "69f460fbaf178686": {
-      "title": "Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs",
-      "fetched_at": "2026-08-15T12:14:58.123871+00:00"
-    },
-    "5735ac0defec874b": {
-      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
-      "fetched_at": "2026-08-15T12:14:58.712511+00:00"
-    },
-    "0e80de2869c56dee": {
-      "title": "Working with AI Feels More Like Leadership Than Coding",
-      "fetched_at": "2026-08-15T12:14:59.305177+00:00"
-    },
-    "4ecfc4600afbe5d4": {
-      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
-      "fetched_at": "2026-08-15T12:14:59.888297+00:00"
-    },
-    "927606e1f34e1026": {
-      "title": "BanProof AI",
-      "fetched_at": "2026-08-15T12:15:00.472981+00:00"
-    },
-    "d5a7362c6c086fb6": {
-      "title": "Free LLM API – every free model behind one key",
-      "fetched_at": "2026-08-15T12:15:01.060585+00:00"
-    },
-    "cf242d43f32aaa12": {
-      "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "fetched_at": "2026-08-15T12:15:01.647687+00:00"
-    },
-    "e4dc90e4ee013617": {
-      "title": "Show HN: AI First Virtual Linux Desktop as a Mac App",
-      "fetched_at": "2026-08-15T12:15:02.237591+00:00"
-    },
-    "10698295d498a2a3": {
-      "title": "Secondhand UK and Irish booksellers suspect AI firms behind strange bulk orders",
-      "fetched_at": "2026-08-15T12:15:02.821823+00:00"
-    },
-    "4be43bac5c351fe5": {
-      "title": "Show HN: HN Without AI Stories",
-      "fetched_at": "2026-08-15T12:15:03.460364+00:00"
-    },
-    "da153942096a87f8": {
-      "title": "Show HN: Chemistry AI – step-by-step chemistry solver",
-      "fetched_at": "2026-08-15T12:15:04.145634+00:00"
-    },
-    "77b6165d0bc95d7f": {
-      "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile",
-      "fetched_at": "2026-08-15T12:15:04.730188+00:00"
-    },
-    "36628cf6b7d7be9d": {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "fetched_at": "2026-08-15T12:15:05.312314+00:00"
-    },
-    "140710b61d01b08b": {
-      "title": "AI agents aren't legally responsible for harm they cause. So who is?",
-      "fetched_at": "2026-08-15T12:15:05.950547+00:00"
-    },
-    "c712975c7ba31de0": {
-      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
-      "fetched_at": "2026-08-15T12:15:06.529329+00:00"
-    },
-    "62b19f551be78456": {
-      "title": "Open Commonplace – Protecting knowledge from being generalized by AI",
-      "fetched_at": "2026-08-15T12:15:07.126960+00:00"
-    },
-    "d8b60449bb4c663f": {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "fetched_at": "2026-08-15T12:15:07.710672+00:00"
-    },
-    "5620629eb5d9ce53": {
-      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
-      "fetched_at": "2026-08-15T12:15:10.060563+00:00"
-    },
-    "687419e36d3c6810": {
-      "title": "'A fine line between reducing stigma and trivialising conditions': Social media, self-diagnosis and the glamorization of ADHD",
-      "fetched_at": "2026-08-15T12:15:25.274838+00:00"
-    },
-    "05bb86199478bda5": {
-      "title": "Why do cats yowl?",
-      "fetched_at": "2026-08-15T12:15:25.859310+00:00"
-    },
-    "7a94d5bf7c82ec6c": {
-      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-      "fetched_at": "2026-08-15T12:15:26.434981+00:00"
-    },
     "77e3ec3f748cb1e8": {
       "title": "Ask HN: Will AI lead to complete human irrelevance?",
       "fetched_at": "2026-08-15T18:12:18.553680+00:00"
@@ -3407,7 +3323,111 @@
     "3bc7e9b2d16bf159": {
       "title": "Human brain cells are far more powerful than scientists thought",
       "fetched_at": "2026-08-23T06:21:23.327695+00:00"
+    },
+    "14326bb36f96e594": {
+      "title": "Show HN: Declarative, reproducible configuration materializer for AI agents",
+      "fetched_at": "2026-08-23T12:16:58.506688+00:00"
+    },
+    "4b3c55beb752a879": {
+      "title": "What do you think of AI website builders?",
+      "fetched_at": "2026-08-23T12:16:59.137652+00:00"
+    },
+    "1e0819a790169375": {
+      "title": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
+      "fetched_at": "2026-08-23T12:16:59.771291+00:00"
+    },
+    "fa7b7de96e58868c": {
+      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+      "fetched_at": "2026-08-23T12:17:00.468415+00:00"
+    },
+    "a8bc34dde0d6238a": {
+      "title": "Why Einstein would fail today: The case for an automated AI Science Institute",
+      "fetched_at": "2026-08-23T12:17:01.104628+00:00"
+    },
+    "11bd488f62e91ab9": {
+      "title": "Publish to 15 social media channels using AI agents, free",
+      "fetched_at": "2026-08-23T12:17:01.735245+00:00"
+    },
+    "c3b6663f2b0a9f8a": {
+      "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
+      "fetched_at": "2026-08-23T12:17:02.358682+00:00"
+    },
+    "76c273b400277e9e": {
+      "title": "The search for consciousness inside AI",
+      "fetched_at": "2026-08-23T12:17:02.976317+00:00"
+    },
+    "fa35933f6d4851f7": {
+      "title": "'AI refuser' quit her dream job, and hopes others follow",
+      "fetched_at": "2026-08-23T12:17:03.605752+00:00"
+    },
+    "9a8bb11a7eb4d45b": {
+      "title": "AI datasets (2.6k entries) – automated collection, updated daily",
+      "fetched_at": "2026-08-23T12:17:04.227415+00:00"
+    },
+    "c2bee5cc1aae1018": {
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+      "fetched_at": "2026-08-23T12:17:04.873478+00:00"
+    },
+    "ad152173e4e188cf": {
+      "title": "Austrian mountain town [Leoben] finds niche in AI boom",
+      "fetched_at": "2026-08-23T12:17:05.493878+00:00"
+    },
+    "abf22da794655fe0": {
+      "title": "AI Writing Without the Slop",
+      "fetched_at": "2026-08-23T12:17:06.120428+00:00"
+    },
+    "6184e308bebe3f69": {
+      "title": "Show HN: Opensourcing Lemmaflow – A trust harness for AI-native apps",
+      "fetched_at": "2026-08-23T12:17:06.745468+00:00"
+    },
+    "c8fb2c7f7cdc021c": {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "fetched_at": "2026-08-23T12:17:07.454130+00:00"
+    },
+    "987f2d8c57ba0267": {
+      "title": "How Is AI Transforming Academic Search?",
+      "fetched_at": "2026-08-23T12:17:08.092796+00:00"
+    },
+    "07a2369895474237": {
+      "title": "Every Tech Bubble Obeyed the Same Rule. AI Is Next [video]",
+      "fetched_at": "2026-08-23T12:17:08.727801+00:00"
+    },
+    "ba09871e0f0d2ac3": {
+      "title": "Contextual News Search APIs: A Deep Comparison for AI, RAG, and Research",
+      "fetched_at": "2026-08-23T12:17:09.354053+00:00"
+    },
+    "eb9e4d1ff62d1b97": {
+      "title": "Wiring up seven ESP32s to create a ~0.4B LLM",
+      "fetched_at": "2026-08-23T12:17:09.967446+00:00"
+    },
+    "77def1b83777e5f1": {
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+      "fetched_at": "2026-08-23T12:17:10.616644+00:00"
+    },
+    "8d86a71640fede6b": {
+      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
+      "fetched_at": "2026-08-23T12:17:14.111208+00:00"
+    },
+    "b268f7456a10b894": {
+      "title": "中國機器人打破人類百米短跑世界紀錄",
+      "fetched_at": "2026-08-23T12:17:14.734551+00:00"
+    },
+    "0740bd32a9de8aca": {
+      "title": "Why is AI going on a hacking spree?",
+      "fetched_at": "2026-08-23T12:17:17.168063+00:00"
+    },
+    "a4e601d94635bd24": {
+      "title": "'Starry Night' telescope photo captures some of the oldest stars in the universe — Space photo of the week",
+      "fetched_at": "2026-08-23T12:17:17.788310+00:00"
+    },
+    "5b8df733c5c76e0a": {
+      "title": "Do other animals call each other by name?",
+      "fetched_at": "2026-08-23T12:17:18.414958+00:00"
+    },
+    "4dc674c21a305673": {
+      "title": "Why your brain keeps making the same decisions – even when better options exist",
+      "fetched_at": "2026-08-23T12:17:19.055223+00:00"
     }
   },
-  "last_updated": "2026-08-23T06:21:23.422634+00:00"
+  "last_updated": "2026-08-23T12:17:19.149968+00:00"
 }
