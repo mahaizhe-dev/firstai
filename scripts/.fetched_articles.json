@@ -1,89 +1,5 @@
 {
   "articles": {
-    "ef6d52a90cf8557b": {
-      "title": "Google Opens the Gates of AI Slop Hell",
-      "fetched_at": "2026-08-15T06:18:34.729191+00:00"
-    },
-    "2cdfb528a21295bf": {
-      "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
-      "fetched_at": "2026-08-15T06:18:35.343828+00:00"
-    },
-    "25349007e13b1119": {
-      "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
-      "fetched_at": "2026-08-15T06:18:35.986451+00:00"
-    },
-    "6c181ab4979814d6": {
-      "title": "An Autonomous Framework for Systematic Factor Invest via Agentic AI",
-      "fetched_at": "2026-08-15T06:18:36.603520+00:00"
-    },
-    "dec77695d3ea10a1": {
-      "title": "Did the AI Bubble Just Pop?",
-      "fetched_at": "2026-08-15T06:18:37.223860+00:00"
-    },
-    "72f42270b790dded": {
-      "title": "Show HN: GPT, Claude, Gemini. Ask them all. Pay for one",
-      "fetched_at": "2026-08-15T06:18:37.839622+00:00"
-    },
-    "644fde2d07772b51": {
-      "title": "Show HN: I spent 3 months making desktop automation stop lying to AI agents",
-      "fetched_at": "2026-08-15T06:18:38.466005+00:00"
-    },
-    "eb3a178480410805": {
-      "title": "Single-provider vs. multi-provider architectures for multimodal AI apps",
-      "fetched_at": "2026-08-15T06:18:39.074947+00:00"
-    },
-    "f55b913394a60050": {
-      "title": "Show HN: AI Meeting Assistant in Browser",
-      "fetched_at": "2026-08-15T06:18:39.696943+00:00"
-    },
-    "66a3f398c8689a5d": {
-      "title": "Agents on Rails: The LLM Benchmark Project",
-      "fetched_at": "2026-08-15T06:18:40.319795+00:00"
-    },
-    "05ace9c49bfa8372": {
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "fetched_at": "2026-08-15T06:18:40.935779+00:00"
-    },
-    "71d85b3ed58e8250": {
-      "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
-      "fetched_at": "2026-08-15T06:18:41.554309+00:00"
-    },
-    "de5bc32a057b2be2": {
-      "title": "Best AI solution to hunt for buffer overflows in open source apps?",
-      "fetched_at": "2026-08-15T06:18:42.178569+00:00"
-    },
-    "142727230a101e68": {
-      "title": "Dynatrace to buy AI observability startup Arize for $915M",
-      "fetched_at": "2026-08-15T06:18:42.803693+00:00"
-    },
-    "f2930ae069178cb1": {
-      "title": "Show HN: Deltix – AI Driven Testing",
-      "fetched_at": "2026-08-15T06:18:43.420847+00:00"
-    },
-    "bc21311e3a83e443": {
-      "title": "Cox–Zucker Machine",
-      "fetched_at": "2026-08-15T06:18:44.190094+00:00"
-    },
-    "1927ff87948bf18f": {
-      "title": "Show HN: WMTrace – See how LLM text watermarks work (Anthropic just adopted one)",
-      "fetched_at": "2026-08-15T06:18:44.803936+00:00"
-    },
-    "39423d157a46364c": {
-      "title": "An Infamous Math Problem Closer to Being Solved by Encouraging AI",
-      "fetched_at": "2026-08-15T06:18:45.420290+00:00"
-    },
-    "c0e0d7f6c84f54ae": {
-      "title": "Thank you to the people building these AI tools",
-      "fetched_at": "2026-08-15T06:18:46.053347+00:00"
-    },
-    "d4e5899983646a49": {
-      "title": "Moche Pottery Center Excavated",
-      "fetched_at": "2026-08-15T06:18:55.608456+00:00"
-    },
-    "0ed44070f4c62d60": {
-      "title": "Drought Exposes Roman Bridge in Bulgaria",
-      "fetched_at": "2026-08-15T06:18:56.239373+00:00"
-    },
     "69f460fbaf178686": {
       "title": "Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs",
       "fetched_at": "2026-08-15T12:14:58.123871+00:00"
@@ -3419,7 +3335,79 @@
     "b56bc060bfe419ef": {
       "title": "'If this is the new normal, then we are in very deep trouble': Brazil's drying aquifers could have ripple effects across the world",
       "fetched_at": "2026-08-23T00:38:04.163589+00:00"
+    },
+    "aa46d86007aeb1eb": {
+      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+      "fetched_at": "2026-08-23T06:21:08.153644+00:00"
+    },
+    "88434dc617bdb0ff": {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "fetched_at": "2026-08-23T06:21:08.777612+00:00"
+    },
+    "212a808aae51764d": {
+      "title": "如何不用鬧鐘就能起床？",
+      "fetched_at": "2026-08-23T06:21:12.122895+00:00"
+    },
+    "ab259fa8b0b3a494": {
+      "title": "Black holes keep tearing these stars apart, but they survive",
+      "fetched_at": "2026-08-23T06:21:14.500191+00:00"
+    },
+    "97dcd3955333ad3d": {
+      "title": "This shark can live 400 years. Its eyes barely seem to age",
+      "fetched_at": "2026-08-23T06:21:15.130683+00:00"
+    },
+    "505a7d3574ea414b": {
+      "title": "'Full-on berserker mode': Archaeologists solve mystery of medieval soldiers with gruesome square holes in their skull",
+      "fetched_at": "2026-08-23T06:21:15.758334+00:00"
+    },
+    "4deb6736901feea4": {
+      "title": "Rare belching disorder could be treated with singing, study hints — but not everyone is convinced",
+      "fetched_at": "2026-08-23T06:21:16.380018+00:00"
+    },
+    "e04247ec7df47d09": {
+      "title": "'The lance head was still inside the pelvis': Mass grave found in Austria may hold casualties of unknown ancient Roman battle",
+      "fetched_at": "2026-08-23T06:21:17.052808+00:00"
+    },
+    "664ec54f7ddc1337": {
+      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+      "fetched_at": "2026-08-23T06:21:17.673490+00:00"
+    },
+    "34e37fb371d12ce6": {
+      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+      "fetched_at": "2026-08-23T06:21:18.302794+00:00"
+    },
+    "794e8fe8546fb393": {
+      "title": "A stress hormone may help the brain repair itself",
+      "fetched_at": "2026-08-23T06:21:18.926433+00:00"
+    },
+    "ae5ea42c5df8bca1": {
+      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
+      "fetched_at": "2026-08-23T06:21:19.566473+00:00"
+    },
+    "51c70dbb0b914ab0": {
+      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
+      "fetched_at": "2026-08-23T06:21:20.198993+00:00"
+    },
+    "4177dc228b846909": {
+      "title": "A massive new cosmic map is revealing black holes, rare stars, and hidden gas",
+      "fetched_at": "2026-08-23T06:21:20.826051+00:00"
+    },
+    "86b151fd27fba234": {
+      "title": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
+      "fetched_at": "2026-08-23T06:21:21.449700+00:00"
+    },
+    "d946af4a67219388": {
+      "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
+      "fetched_at": "2026-08-23T06:21:22.076952+00:00"
+    },
+    "1e871c6e41eb7175": {
+      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
+      "fetched_at": "2026-08-23T06:21:22.700514+00:00"
+    },
+    "3bc7e9b2d16bf159": {
+      "title": "Human brain cells are far more powerful than scientists thought",
+      "fetched_at": "2026-08-23T06:21:23.327695+00:00"
     }
   },
-  "last_updated": "2026-08-23T00:38:04.250046+00:00"
+  "last_updated": "2026-08-23T06:21:23.422634+00:00"
 }
