@@ -1,101 +1,5 @@
 {
   "articles": {
-    "77e3ec3f748cb1e8": {
-      "title": "Ask HN: Will AI lead to complete human irrelevance?",
-      "fetched_at": "2026-08-15T18:12:18.553680+00:00"
-    },
-    "61eb61818e9f556d": {
-      "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
-      "fetched_at": "2026-08-15T18:12:19.122106+00:00"
-    },
-    "3fa2ed086a7cafce": {
-      "title": "Don't let AI rob you",
-      "fetched_at": "2026-08-15T18:12:19.696445+00:00"
-    },
-    "a3dd2ea9e79c94b0": {
-      "title": "5G, full bars, nothing loads: Or how I learned to start learning with LLMs",
-      "fetched_at": "2026-08-15T18:12:20.270313+00:00"
-    },
-    "a872983c0066dedb": {
-      "title": "Open Sourcing the Atuin AI Server",
-      "fetched_at": "2026-08-15T18:12:20.834226+00:00"
-    },
-    "92e3a24c5ac5efcb": {
-      "title": "Briefing on Extinction-Level AI Threats",
-      "fetched_at": "2026-08-15T18:12:21.414449+00:00"
-    },
-    "89034d1f7c00a5ac": {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "fetched_at": "2026-08-15T18:12:21.994343+00:00"
-    },
-    "277d0bea7cd81864": {
-      "title": "US to tell partners they must pick sides in AI race with China",
-      "fetched_at": "2026-08-15T18:12:22.551633+00:00"
-    },
-    "e042ba12527cfbd2": {
-      "title": "Godfather of AI: \"If you sleep well tonight...\" [video]",
-      "fetched_at": "2026-08-15T18:12:23.114090+00:00"
-    },
-    "790b33d53733124c": {
-      "title": "Is AI Coding Effecting Our Mental Health? [video]",
-      "fetched_at": "2026-08-15T18:12:23.669962+00:00"
-    },
-    "d3cd39cc5db4f1e1": {
-      "title": "Show HN: MyFirst.News – AI-generated podcast for curious kids",
-      "fetched_at": "2026-08-15T18:12:24.245981+00:00"
-    },
-    "c9d0234872c63b1c": {
-      "title": "Ask HN: How to Stay Marketable in the AI Era?",
-      "fetched_at": "2026-08-15T18:12:24.818467+00:00"
-    },
-    "6214be9fc2efdfe4": {
-      "title": "Show HN: Mimi – the free language learning app that anyone can edit",
-      "fetched_at": "2026-08-15T18:12:25.380974+00:00"
-    },
-    "a455f31bc9e98826": {
-      "title": "SpaceX has acquired coding AI startup Cursor",
-      "fetched_at": "2026-08-15T18:12:25.952082+00:00"
-    },
-    "d1f4a4220f75843d": {
-      "title": "Mee Manga Translator: AI manga translation that preserves original artwork",
-      "fetched_at": "2026-08-15T18:12:26.512317+00:00"
-    },
-    "7fb0798665d3b0d6": {
-      "title": "Has anyone tried this tool to improve LLM visibility?",
-      "fetched_at": "2026-08-15T18:12:27.071945+00:00"
-    },
-    "dd9127930f40d7ad": {
-      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "fetched_at": "2026-08-15T18:12:27.634128+00:00"
-    },
-    "c55f259a19fd1f1d": {
-      "title": "The Israeli Influence Machine",
-      "fetched_at": "2026-08-15T18:12:28.203921+00:00"
-    },
-    "fb52ccc009169420": {
-      "title": "We built a realtime system for responsive voice AI in six months",
-      "fetched_at": "2026-08-15T18:12:28.766941+00:00"
-    },
-    "2bae21067ebdd37f": {
-      "title": "China is shaping the future of open‑source technology – including AI",
-      "fetched_at": "2026-08-15T18:12:29.335040+00:00"
-    },
-    "7d29994a4d74f5c1": {
-      "title": "4 lemurs die of human herpesvirus, including one that had been used in a 'lemur yoga' class",
-      "fetched_at": "2026-08-15T18:12:34.456067+00:00"
-    },
-    "3db9cb1965a38988": {
-      "title": "A 30-year-old fossil was hiding bones from a mysterious ancient sea monster",
-      "fetched_at": "2026-08-15T18:12:35.046967+00:00"
-    },
-    "8668959e4cbf330f": {
-      "title": "Common food preservative linked to rising suicide deaths among young people",
-      "fetched_at": "2026-08-15T18:12:35.626057+00:00"
-    },
-    "40448bdb53408626": {
-      "title": "A 60-year-old theory about ants, bees and wasps may be wrong",
-      "fetched_at": "2026-08-15T18:12:36.195742+00:00"
-    },
     "50c380f51a51cf08": {
       "title": "The AI Bubble Is on Its Last Legs",
       "fetched_at": "2026-08-16T00:36:30.262259+00:00"
@@ -3427,7 +3331,123 @@
     "4dc674c21a305673": {
       "title": "Why your brain keeps making the same decisions – even when better options exist",
       "fetched_at": "2026-08-23T12:17:19.055223+00:00"
+    },
+    "b6d8683b644cc4a2": {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "fetched_at": "2026-08-23T18:12:36.889400+00:00"
+    },
+    "cb5aa5520a455e19": {
+      "title": "Show HN: LAN Sheriff – watch which servers your machine talks to, live on a map",
+      "fetched_at": "2026-08-23T18:12:37.519640+00:00"
+    },
+    "0330f83bf4ddd238": {
+      "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
+      "fetched_at": "2026-08-23T18:12:38.153526+00:00"
+    },
+    "5f8fc54d42dd4172": {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "fetched_at": "2026-08-23T18:12:38.790644+00:00"
+    },
+    "05ef39130fd3a707": {
+      "title": "Oneiric, AI-generated, open source [video]",
+      "fetched_at": "2026-08-23T18:12:39.422591+00:00"
+    },
+    "c935bfc63109cefe": {
+      "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
+      "fetched_at": "2026-08-23T18:12:40.059298+00:00"
+    },
+    "1ac6b12d5a038233": {
+      "title": "I Shouldn't Need an LLM to Explain My LLM",
+      "fetched_at": "2026-08-23T18:12:40.716152+00:00"
+    },
+    "81e1485e6cea6fbc": {
+      "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
+      "fetched_at": "2026-08-23T18:12:41.354231+00:00"
+    },
+    "a680d7f237b5e435": {
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "fetched_at": "2026-08-23T18:12:41.991617+00:00"
+    },
+    "66d62ce80889f840": {
+      "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
+      "fetched_at": "2026-08-23T18:12:42.641055+00:00"
+    },
+    "493b84ee86fa97cc": {
+      "title": "Show HN: Human-Machine Interface",
+      "fetched_at": "2026-08-23T18:12:43.362126+00:00"
+    },
+    "caaf8e2d0b531bec": {
+      "title": "Show HN: Froging AI – image and video models in one workflow",
+      "fetched_at": "2026-08-23T18:12:43.992409+00:00"
+    },
+    "cfa626bcd712eb28": {
+      "title": "Daimon – Local Privacy LLM",
+      "fetched_at": "2026-08-23T18:12:44.620348+00:00"
+    },
+    "e85e4c12afe9b8b8": {
+      "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
+      "fetched_at": "2026-08-23T18:12:45.256667+00:00"
+    },
+    "5472d8a10aebf8a3": {
+      "title": "Product Owner Interview Questions for the Age of AI",
+      "fetched_at": "2026-08-23T18:12:45.892102+00:00"
+    },
+    "1666b86187cd4007": {
+      "title": "Do LLM quants impact as much as we think?",
+      "fetched_at": "2026-08-23T18:12:46.526030+00:00"
+    },
+    "de6fda63c378177e": {
+      "title": "Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM",
+      "fetched_at": "2026-08-23T18:12:47.171447+00:00"
+    },
+    "65b113846ac646ba": {
+      "title": "泰國南部一夜50多起縱火 軍方稱為有組織搗亂",
+      "fetched_at": "2026-08-23T18:12:50.697875+00:00"
+    },
+    "5620629eb5d9ce53": {
+      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
+      "fetched_at": "2026-08-23T18:12:51.336027+00:00"
+    },
+    "926905cb94f4d3d9": {
+      "title": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
+      "fetched_at": "2026-08-23T18:12:54.174033+00:00"
+    },
+    "3c3bcec3bf4164e2": {
+      "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
+      "fetched_at": "2026-08-23T18:12:54.804160+00:00"
+    },
+    "a79a4de62c8abfb5": {
+      "title": "A hidden “on switch” in human DNA has finally been decoded",
+      "fetched_at": "2026-08-23T18:12:55.436162+00:00"
+    },
+    "c2675a05714cbc9f": {
+      "title": "Experimental compound helps burn fat without muscle loss",
+      "fetched_at": "2026-08-23T18:12:56.093944+00:00"
+    },
+    "753e43c901284bee": {
+      "title": "This common vitamin was linked to 13% better cognitive scores",
+      "fetched_at": "2026-08-23T18:12:56.738288+00:00"
+    },
+    "687419e36d3c6810": {
+      "title": "'A fine line between reducing stigma and trivialising conditions': Social media, self-diagnosis and the glamorization of ADHD",
+      "fetched_at": "2026-08-23T18:12:57.376469+00:00"
+    },
+    "05bb86199478bda5": {
+      "title": "Why do cats yowl?",
+      "fetched_at": "2026-08-23T18:12:58.012332+00:00"
+    },
+    "7a94d5bf7c82ec6c": {
+      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+      "fetched_at": "2026-08-23T18:12:58.645941+00:00"
+    },
+    "96a0fee2d79c21e4": {
+      "title": "Show HN: Biasly.ai – Bias detection with historical context",
+      "fetched_at": "2026-08-23T18:12:59.282014+00:00"
+    },
+    "5614fc8becc96e77": {
+      "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
+      "fetched_at": "2026-08-23T18:12:59.914193+00:00"
     }
   },
-  "last_updated": "2026-08-23T12:17:19.149968+00:00"
+  "last_updated": "2026-08-23T18:12:59.998008+00:00"
 }
