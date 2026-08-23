@@ -1,253 +1,5 @@
 {
   "articles": {
-    "dd9945b2ecc23edb": {
-      "title": "Show HN: Captain, AI Travel Agent",
-      "fetched_at": "2026-08-14T18:38:49.522088+00:00"
-    },
-    "e442274100105fd4": {
-      "title": "Show HN: Open-source and AI native web analytics",
-      "fetched_at": "2026-08-14T18:38:50.143814+00:00"
-    },
-    "6cc6a561fad88ceb": {
-      "title": "We urgently need a coherent national AI cybersecurity policy",
-      "fetched_at": "2026-08-14T18:38:50.776472+00:00"
-    },
-    "4ad7ce6c7edf5f6e": {
-      "title": "Need Help Learning Assembly",
-      "fetched_at": "2026-08-14T18:38:51.420998+00:00"
-    },
-    "e42a5dd19b47d0c7": {
-      "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
-      "fetched_at": "2026-08-14T18:38:52.046934+00:00"
-    },
-    "3a174bbbc00fffb4": {
-      "title": "When facts change, should AI memory change?",
-      "fetched_at": "2026-08-14T18:38:52.660093+00:00"
-    },
-    "4bc31560eb20bbbc": {
-      "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
-      "fetched_at": "2026-08-14T18:38:52.660229+00:00"
-    },
-    "8b65878434779e09": {
-      "title": "Multi-hop reasoning collapses by 1M tokens; with a learning system it doesn't",
-      "fetched_at": "2026-08-14T18:38:53.276071+00:00"
-    },
-    "942fc8ea99dfe1d5": {
-      "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
-      "fetched_at": "2026-08-14T18:38:53.893980+00:00"
-    },
-    "f591e3759bed2c87": {
-      "title": "1,1 mld USD dla River AI: Co oznacza rewolucja spersonalizowanego AI?",
-      "fetched_at": "2026-08-14T18:38:54.543586+00:00"
-    },
-    "3720573d88ef1d9f": {
-      "title": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
-      "fetched_at": "2026-08-14T18:38:55.159288+00:00"
-    },
-    "fbbf4985977bb0a0": {
-      "title": "Earn yield through machine learning vault on DeFi",
-      "fetched_at": "2026-08-14T18:38:55.850016+00:00"
-    },
-    "114352901d49ecde": {
-      "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
-      "fetched_at": "2026-08-14T18:38:56.472206+00:00"
-    },
-    "153710215349e0ba": {
-      "title": "Nvidia's $500B Plan Envelops Wall Sreett in Its AI Frenzy",
-      "fetched_at": "2026-08-14T18:38:57.093943+00:00"
-    },
-    "11a47837eb256e25": {
-      "title": "Ask HN: Has anyone been fired because of an AI-driven DDoS attack?",
-      "fetched_at": "2026-08-14T18:38:57.720774+00:00"
-    },
-    "6c8a9174b9e4fa62": {
-      "title": "Training AI Scientists to Replicate Research",
-      "fetched_at": "2026-08-14T18:38:58.356369+00:00"
-    },
-    "d2b5831d8045f003": {
-      "title": "Fortunes from AI revive effective altruism after Sam Bankman-Fried turmoil",
-      "fetched_at": "2026-08-14T18:38:58.970160+00:00"
-    },
-    "17f3dd684e6ebd22": {
-      "title": "Why Open Source Matters for AI",
-      "fetched_at": "2026-08-14T18:38:59.577543+00:00"
-    },
-    "a72d440e5ec77b83": {
-      "title": "Muxel – a multi-agent terminal multiplexer for AI coding agents",
-      "fetched_at": "2026-08-14T18:39:00.202554+00:00"
-    },
-    "9adfb4e050e30114": {
-      "title": "Beyond Zero: Enterprise Security for the AI Era",
-      "fetched_at": "2026-08-14T18:39:00.817672+00:00"
-    },
-    "5ffddc1d6e67f770": {
-      "title": "「我一個月便虧了一萬四」——遭遇韓國股市暴跌的散戶們",
-      "fetched_at": "2026-08-14T18:39:03.000830+00:00"
-    },
-    "449df832f49dde22": {
-      "title": "Pre-Hispanic Farmers Built Vast Canal Network in Colombia",
-      "fetched_at": "2026-08-14T18:39:07.877043+00:00"
-    },
-    "505a7d3574ea414b": {
-      "title": "'Full-on berserker mode': Archaeologists solve mystery of medieval soldiers with gruesome square holes in their skull",
-      "fetched_at": "2026-08-14T18:39:08.497607+00:00"
-    },
-    "5614fc8becc96e77": {
-      "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
-      "fetched_at": "2026-08-14T18:39:09.125817+00:00"
-    },
-    "4deb6736901feea4": {
-      "title": "Rare belching disorder could be treated with singing, study hints — but not everyone is convinced",
-      "fetched_at": "2026-08-14T18:39:09.748209+00:00"
-    },
-    "e04247ec7df47d09": {
-      "title": "'The lance head was still inside the pelvis': Mass grave found in Austria may hold casualties of unknown ancient Roman battle",
-      "fetched_at": "2026-08-14T18:39:09.748373+00:00"
-    },
-    "664ec54f7ddc1337": {
-      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
-      "fetched_at": "2026-08-14T18:39:10.371020+00:00"
-    },
-    "34e37fb371d12ce6": {
-      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-      "fetched_at": "2026-08-14T18:39:10.988651+00:00"
-    },
-    "794e8fe8546fb393": {
-      "title": "A stress hormone may help the brain repair itself",
-      "fetched_at": "2026-08-14T18:39:11.615049+00:00"
-    },
-    "ae5ea42c5df8bca1": {
-      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
-      "fetched_at": "2026-08-14T18:39:12.232916+00:00"
-    },
-    "ffdfa611c0c74b31": {
-      "title": "Paleontology rocked by organic molecules found in 66-million-year-old dinosaur bones",
-      "fetched_at": "2026-08-14T18:39:12.850136+00:00"
-    },
-    "51c70dbb0b914ab0": {
-      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
-      "fetched_at": "2026-08-14T18:39:13.484131+00:00"
-    },
-    "4177dc228b846909": {
-      "title": "A massive new cosmic map is revealing black holes, rare stars, and hidden gas",
-      "fetched_at": "2026-08-14T18:39:14.119391+00:00"
-    },
-    "70fc36ef98b08b2b": {
-      "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
-      "fetched_at": "2026-08-14T18:39:14.733670+00:00"
-    },
-    "c82d2ab93df5b1e1": {
-      "title": "NASA’s Perseverance rover watches Earth vanish from the surface of Mars",
-      "fetched_at": "2026-08-14T18:39:15.361880+00:00"
-    },
-    "86b151fd27fba234": {
-      "title": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
-      "fetched_at": "2026-08-14T18:39:15.990469+00:00"
-    },
-    "7d5849bdab287d37": {
-      "title": "Mark Zuckerberg has an Instagzam",
-      "fetched_at": "2026-08-15T00:34:47.035907+00:00"
-    },
-    "5d16e6c8fd775f70": {
-      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-      "fetched_at": "2026-08-15T00:34:47.606441+00:00"
-    },
-    "898804b3e98074d4": {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "fetched_at": "2026-08-15T00:34:48.172070+00:00"
-    },
-    "bc656c906d16ae11": {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "fetched_at": "2026-08-15T00:34:48.732962+00:00"
-    },
-    "45ef866f50d05300": {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "fetched_at": "2026-08-15T00:34:49.289268+00:00"
-    },
-    "efd68702f4315bee": {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "fetched_at": "2026-08-15T00:34:49.854458+00:00"
-    },
-    "e19e294ef41aee29": {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "fetched_at": "2026-08-15T00:34:50.419669+00:00"
-    },
-    "f3dc03a782635e15": {
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "fetched_at": "2026-08-15T00:34:50.982700+00:00"
-    },
-    "14cdadde3d036da0": {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "fetched_at": "2026-08-15T00:34:51.551724+00:00"
-    },
-    "b139e2839102867f": {
-      "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
-      "fetched_at": "2026-08-15T00:34:52.116442+00:00"
-    },
-    "22b62b63ec56d637": {
-      "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
-      "fetched_at": "2026-08-15T00:34:52.684053+00:00"
-    },
-    "6976521e3fee4f48": {
-      "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
-      "fetched_at": "2026-08-15T00:34:53.254064+00:00"
-    },
-    "61869c833fab13b4": {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "fetched_at": "2026-08-15T00:34:53.813232+00:00"
-    },
-    "ee8f166a3ff1c71b": {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "fetched_at": "2026-08-15T00:34:54.385310+00:00"
-    },
-    "eb6b92a0f31e54bc": {
-      "title": "OpenAI is losing its second executive this week",
-      "fetched_at": "2026-08-15T00:34:54.980371+00:00"
-    },
-    "af25545e09eef53f": {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "fetched_at": "2026-08-15T00:34:55.542376+00:00"
-    },
-    "2087ace5e10a8f68": {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "fetched_at": "2026-08-15T00:34:56.100801+00:00"
-    },
-    "4e210cb0ff9dcb56": {
-      "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
-      "fetched_at": "2026-08-15T00:34:59.456280+00:00"
-    },
-    "96a0fee2d79c21e4": {
-      "title": "Show HN: Biasly.ai – Bias detection with historical context",
-      "fetched_at": "2026-08-15T00:37:18.037967+00:00"
-    },
-    "d946af4a67219388": {
-      "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
-      "fetched_at": "2026-08-15T00:37:18.606730+00:00"
-    },
-    "1e871c6e41eb7175": {
-      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
-      "fetched_at": "2026-08-15T00:37:19.170110+00:00"
-    },
-    "3bc7e9b2d16bf159": {
-      "title": "Human brain cells are far more powerful than scientists thought",
-      "fetched_at": "2026-08-15T00:37:19.758821+00:00"
-    },
-    "4dc674c21a305673": {
-      "title": "Why your brain keeps making the same decisions – even when better options exist",
-      "fetched_at": "2026-08-15T00:37:20.327509+00:00"
-    },
-    "4d134c64a75d433b": {
-      "title": "Scientists discover the brain has a fast lane and slow lane for clearing waste",
-      "fetched_at": "2026-08-15T00:37:20.897500+00:00"
-    },
-    "722afeefbf377844": {
-      "title": "A star’s violent death exposed a hidden supermassive black hole",
-      "fetched_at": "2026-08-15T00:37:21.463191+00:00"
-    },
-    "5352a197eac80909": {
-      "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
-      "fetched_at": "2026-08-15T00:37:22.046887+00:00"
-    },
     "ef6d52a90cf8557b": {
       "title": "Google Opens the Gates of AI Slop Hell",
       "fetched_at": "2026-08-15T06:18:34.729191+00:00"
@@ -3571,7 +3323,103 @@
     "1b112bcf9dcf6d41": {
       "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
       "fetched_at": "2026-08-22T18:13:42.771261+00:00"
+    },
+    "b5b6494592b31140": {
+      "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
+      "fetched_at": "2026-08-23T00:37:46.023682+00:00"
+    },
+    "cd2ec930d98dd150": {
+      "title": "Show HN: Lens AI – generate your JSON-LD files and keep them up-to-date",
+      "fetched_at": "2026-08-23T00:37:46.599983+00:00"
+    },
+    "a3b47861bb51aa2e": {
+      "title": "You don't have to make money with AI. You could just be happier",
+      "fetched_at": "2026-08-23T00:37:47.178960+00:00"
+    },
+    "b89e9adf2b350e47": {
+      "title": "AI has failed to win people's trust. Its makers? less trusted",
+      "fetched_at": "2026-08-23T00:37:47.766707+00:00"
+    },
+    "f5603543b3018422": {
+      "title": "AI as a Co-Writer",
+      "fetched_at": "2026-08-23T00:37:48.346484+00:00"
+    },
+    "2c5c357110e2e93e": {
+      "title": "The Real AI Crash Will Start This Year",
+      "fetched_at": "2026-08-23T00:37:48.930412+00:00"
+    },
+    "cb371063c1cde55c": {
+      "title": "Show HN: MacAIApps – a directory of AI-powered Mac apps",
+      "fetched_at": "2026-08-23T00:37:49.507164+00:00"
+    },
+    "d3f740d13f7f5871": {
+      "title": "Quiet on set. How AI transformed China's microdrama scene",
+      "fetched_at": "2026-08-23T00:37:50.111579+00:00"
+    },
+    "def4c8f9b46faf20": {
+      "title": "How much is crawling your content worth to an AI bot?",
+      "fetched_at": "2026-08-23T00:37:50.725234+00:00"
+    },
+    "7d62fe9f6fb2a1e1": {
+      "title": "MiniMax M3 Medium hits 73.17% F1 on DeepSearchQA, near GPT-5 High",
+      "fetched_at": "2026-08-23T00:37:51.320721+00:00"
+    },
+    "44ec4a205ddfdfee": {
+      "title": "Follow live the open training of a 535B (23B activated) LLM",
+      "fetched_at": "2026-08-23T00:37:51.918162+00:00"
+    },
+    "10ae752948202f25": {
+      "title": "AI Made Me Faster. I'm Not Sure It Made Me Better",
+      "fetched_at": "2026-08-23T00:37:52.500868+00:00"
+    },
+    "73dc9480f939e267": {
+      "title": "The crisis of AI-generated mathematics",
+      "fetched_at": "2026-08-23T00:37:53.093505+00:00"
+    },
+    "a5e7185400aa445f": {
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "fetched_at": "2026-08-23T00:37:53.728747+00:00"
+    },
+    "1a3721703eef73db": {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "fetched_at": "2026-08-23T00:37:54.325841+00:00"
+    },
+    "4b34232b3625df84": {
+      "title": "How LLM Serves a Request",
+      "fetched_at": "2026-08-23T00:37:54.909609+00:00"
+    },
+    "218a6c7cd4c3eebe": {
+      "title": "Contra Anthropic: AI is not 'structurally' centralizing",
+      "fetched_at": "2026-08-23T00:37:55.501187+00:00"
+    },
+    "8952dfe802b863a4": {
+      "title": "Linux Network Developers Are ‘Completely Overwhelmed’ by AI Agents :)",
+      "fetched_at": "2026-08-23T00:37:56.087950+00:00"
+    },
+    "cc90cb4869a01893": {
+      "title": "The importance of teaching students what AI can't do",
+      "fetched_at": "2026-08-23T00:37:56.674141+00:00"
+    },
+    "70e82bcb50ce338e": {
+      "title": "Show HN: Locum – Grok Bot delegates tasks to Claude/Codex CLI on your machine",
+      "fetched_at": "2026-08-23T00:37:57.261158+00:00"
+    },
+    "2a9946f7cb64bbe0": {
+      "title": "冒險心理學：你選擇穩袋5萬元，還是以一半機會博取100萬元？",
+      "fetched_at": "2026-08-23T00:37:59.583177+00:00"
+    },
+    "98c2d32ec7738650": {
+      "title": "中國國產C919首飛國際航線 挑戰波音、空中巴士再進一步？",
+      "fetched_at": "2026-08-23T00:38:00.170792+00:00"
+    },
+    "e2bc3a64742215ea": {
+      "title": "Flooding of ancient Salton Sea linked to San Andreas earthquakes",
+      "fetched_at": "2026-08-23T00:38:03.505335+00:00"
+    },
+    "b56bc060bfe419ef": {
+      "title": "'If this is the new normal, then we are in very deep trouble': Brazil's drying aquifers could have ripple effects across the world",
+      "fetched_at": "2026-08-23T00:38:04.163589+00:00"
     }
   },
-  "last_updated": "2026-08-22T18:13:42.902122+00:00"
+  "last_updated": "2026-08-23T00:38:04.250046+00:00"
 }
