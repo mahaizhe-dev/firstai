@@ -1,177 +1,5 @@
 {
   "articles": {
-    "4d2eadf35a4cb414": {
-      "title": "The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
-      "fetched_at": "2026-08-16T00:36:30.889549+00:00"
-    },
-    "3a9ab223dc861e7f": {
-      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
-      "fetched_at": "2026-08-16T00:36:30.889680+00:00"
-    },
-    "79ff2477b4c460b4": {
-      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "fetched_at": "2026-08-16T00:36:31.505167+00:00"
-    },
-    "9b66c0a3b23a9280": {
-      "title": "Learning Project – Zero Knowledge Vault Sharing",
-      "fetched_at": "2026-08-16T00:36:32.124496+00:00"
-    },
-    "699256021ef46bc0": {
-      "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
-      "fetched_at": "2026-08-16T00:36:32.737347+00:00"
-    },
-    "37ccb6747f722636": {
-      "title": "Engineers will do anything to avoid learning from history",
-      "fetched_at": "2026-08-16T00:36:33.343891+00:00"
-    },
-    "9f4fd933f6014980": {
-      "title": "Why AI agents need verified identity",
-      "fetched_at": "2026-08-16T00:36:33.960304+00:00"
-    },
-    "2a7a8a4bd98364ee": {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "fetched_at": "2026-08-16T00:36:34.566988+00:00"
-    },
-    "19114e92b6148099": {
-      "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
-      "fetched_at": "2026-08-16T00:36:35.175949+00:00"
-    },
-    "164a37a4ef2a3c96": {
-      "title": "AI makes foundational knowledge more important",
-      "fetched_at": "2026-08-16T00:36:35.781565+00:00"
-    },
-    "f6d2a7b61ae8f1d0": {
-      "title": "The unlikely opera star: How AI helped a nonspeaking performer find his voice",
-      "fetched_at": "2026-08-16T00:36:36.377520+00:00"
-    },
-    "d94bd394b7a57d45": {
-      "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
-      "fetched_at": "2026-08-16T00:36:36.978155+00:00"
-    },
-    "90bcc051e82af5ba": {
-      "title": "Show HN: Chrome extension that tracks job applications on your machine",
-      "fetched_at": "2026-08-16T00:36:37.592725+00:00"
-    },
-    "51f0510b6dbfd055": {
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "fetched_at": "2026-08-16T00:36:38.260735+00:00"
-    },
-    "0f844259272f576a": {
-      "title": "Show HN: Glad-AI-Tor – AI tools ranked by user votes, not by who pays",
-      "fetched_at": "2026-08-16T00:36:38.882588+00:00"
-    },
-    "a71f1828ce2d8627": {
-      "title": "Can an LLM price a World Cup match better than the market (and make money)?",
-      "fetched_at": "2026-08-16T00:36:39.493204+00:00"
-    },
-    "934317f6e0970829": {
-      "title": "Meta will train its AI on Newsmax, a far-right media outlet",
-      "fetched_at": "2026-08-16T00:36:40.106477+00:00"
-    },
-    "995b629806672a60": {
-      "title": "Secondhand booksellers in UK and Ireland suspect AI firms 'strange' bulk orders",
-      "fetched_at": "2026-08-16T00:36:40.721294+00:00"
-    },
-    "fff88c03a72eaed5": {
-      "title": "Why tech bosses keep sharing their manifestos about AI",
-      "fetched_at": "2026-08-16T00:36:41.368920+00:00"
-    },
-    "d76761a0c1ec45ec": {
-      "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
-      "fetched_at": "2026-08-16T00:36:45.819312+00:00"
-    },
-    "33b22dbabbd9a306": {
-      "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
-      "fetched_at": "2026-08-16T00:36:46.436144+00:00"
-    },
-    "e0c9eab9c024bfd4": {
-      "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
-      "fetched_at": "2026-08-16T00:36:47.058160+00:00"
-    },
-    "8599e8a502b37d3a": {
-      "title": "Scientists discover a hidden brain shift that begins around age 50",
-      "fetched_at": "2026-08-16T00:36:47.660141+00:00"
-    },
-    "ebd67d8ca5639034": {
-      "title": "Tokencompress A sub-2ms Go CLI and MCP sidecar that prunes AI agent tool context",
-      "fetched_at": "2026-08-16T06:20:29.046232+00:00"
-    },
-    "4c2dfc6f81d3a048": {
-      "title": "I built AIM Maps but you play AI",
-      "fetched_at": "2026-08-16T06:20:29.670821+00:00"
-    },
-    "71ca4fc6e797338f": {
-      "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
-      "fetched_at": "2026-08-16T06:20:30.287355+00:00"
-    },
-    "11f65f5fba7566c3": {
-      "title": "Ownership in the Age of AI",
-      "fetched_at": "2026-08-16T06:20:30.914691+00:00"
-    },
-    "49b8bef2489ccab8": {
-      "title": "Show HN: Grow your SaaS visibility with AI-powered discovery",
-      "fetched_at": "2026-08-16T06:20:31.533184+00:00"
-    },
-    "9be5a17eac3460ce": {
-      "title": "ProofRun – a local verification receipt for AI coding agents",
-      "fetched_at": "2026-08-16T06:20:32.157718+00:00"
-    },
-    "aa8547f60e35dfdc": {
-      "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
-      "fetched_at": "2026-08-16T06:20:32.773364+00:00"
-    },
-    "f1e56a8f882fcb60": {
-      "title": "Show HN: Widen, a native Postgres GUI using Apple's on-device LLM",
-      "fetched_at": "2026-08-16T06:20:33.383557+00:00"
-    },
-    "4d96cba83942c708": {
-      "title": "Has the hallucination problem in AI been solved?",
-      "fetched_at": "2026-08-16T06:20:33.995072+00:00"
-    },
-    "5195e52b9442dadc": {
-      "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
-      "fetched_at": "2026-08-16T06:20:34.624679+00:00"
-    },
-    "5809c08ad996ca76": {
-      "title": "Snap Chart AI",
-      "fetched_at": "2026-08-16T06:20:35.260236+00:00"
-    },
-    "d7d516f5b82858ff": {
-      "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
-      "fetched_at": "2026-08-16T06:20:35.876769+00:00"
-    },
-    "f256c683f25df0a6": {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "fetched_at": "2026-08-16T06:20:36.502543+00:00"
-    },
-    "d08b2d65e902a211": {
-      "title": "分析：劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
-      "fetched_at": "2026-08-16T06:20:38.975330+00:00"
-    },
-    "dbfa80f9b43cbd54": {
-      "title": "印尼強震造成至少47死 救援人員搜尋生還者",
-      "fetched_at": "2026-08-16T06:20:39.623905+00:00"
-    },
-    "5dc22c73d5c812f5": {
-      "title": "「他送給我一個長得像他的洋娃娃」：卡斯特羅之女回顧那個她從不想認的父親",
-      "fetched_at": "2026-08-16T06:20:40.239444+00:00"
-    },
-    "1c6581e78c6fb323": {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "fetched_at": "2026-08-16T06:20:49.613218+00:00"
-    },
-    "818b1e3403ace611": {
-      "title": "Bacterial 'postbiotic' may help preserve fertility in the aging uterus, preliminary research suggests",
-      "fetched_at": "2026-08-16T06:20:50.245039+00:00"
-    },
-    "e1308767168f3137": {
-      "title": "Where to buy last-minute solar eclipse glasses and viewing gear before August 12",
-      "fetched_at": "2026-08-16T06:20:50.860230+00:00"
-    },
-    "c6aeae797b87f046": {
-      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
-      "fetched_at": "2026-08-16T06:20:51.483393+00:00"
-    },
     "0c9ff51dcef9ee6a": {
       "title": "Show HN: Who is using AI? A daily tracker, 1,600+ city heatmap, DOI dataset",
       "fetched_at": "2026-08-16T12:16:03.540309+00:00"
@@ -3479,7 +3307,47 @@
     "40448bdb53408626": {
       "title": "A 60-year-old theory about ants, bees and wasps may be wrong",
       "fetched_at": "2026-08-24T00:36:30.225912+00:00"
+    },
+    "6c3be47eb8ffe6fd": {
+      "title": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制",
+      "fetched_at": "2026-08-24T06:34:13.952222+00:00"
+    },
+    "a70a5afd2b3245ae": {
+      "title": "在西南英格蘭的角落，編織手工給移英港人女士們另一個家",
+      "fetched_at": "2026-08-24T06:34:16.001315+00:00"
+    },
+    "b3bc9b45de8486c1": {
+      "title": "快時尚品牌Shein赴港上市 估值大減至270億美元",
+      "fetched_at": "2026-08-24T06:34:16.577517+00:00"
+    },
+    "afd5d62939056feb": {
+      "title": "昔日热潮消退，Shein能“开启第二春”吗？",
+      "fetched_at": "2026-08-24T06:34:17.147254+00:00"
+    },
+    "507cd6053e0767b7": {
+      "title": "日本“副首都”争夺战：防范灾害还是政治“淘金”？",
+      "fetched_at": "2026-08-24T06:34:17.806312+00:00"
+    },
+    "66294e4756369342": {
+      "title": "详解美加贸易战：北美传统盟友关系因何破裂",
+      "fetched_at": "2026-08-24T06:34:18.385605+00:00"
+    },
+    "1ba775308ead0c19": {
+      "title": "中国宣布规模最大汽车召回行动，涉及特斯拉等九家车企",
+      "fetched_at": "2026-08-24T06:34:18.951971+00:00"
+    },
+    "1c94f9a86a6a6283": {
+      "title": "特朗普威胁制裁伊朗盟友，中国为何不为所动",
+      "fetched_at": "2026-08-24T06:34:19.519174+00:00"
+    },
+    "dcc60e9905b95553": {
+      "title": "洲际旅行迪拜转机？不，也许是首尔",
+      "fetched_at": "2026-08-24T06:34:20.090330+00:00"
+    },
+    "07f0763eee421b5d": {
+      "title": "战争、气候和贸易争端多重冲击，全球粮食安全亮红灯",
+      "fetched_at": "2026-08-24T06:34:20.695561+00:00"
     }
   },
-  "last_updated": "2026-08-24T00:36:30.317726+00:00"
+  "last_updated": "2026-08-24T06:34:22.384192+00:00"
 }
