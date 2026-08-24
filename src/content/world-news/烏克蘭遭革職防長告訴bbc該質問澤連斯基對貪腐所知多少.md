@@ -1,0 +1,11 @@
+---
+title: '烏克蘭遭革職防長告訴BBC，該質問澤連斯基對貪腐所知多少'
+description: '民意支持度頗高的前防長費多羅夫呼籲烏克蘭舉行戰時選舉，總統澤連斯基警告這將引發滅國級政治「海嘯」。'
+pubDate: 2026-08-24T08:40:31
+source: 'BBC中文'
+sourceUrl: 'https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad?at_medium=RSS&at_campaign=rss'
+region: '综合'
+tags: []
+---
+
+民意支持度頗高的前防長費多羅夫呼籲烏克蘭舉行戰時選舉，總統澤連斯基警告這將引發滅國級政治「海嘯」。
