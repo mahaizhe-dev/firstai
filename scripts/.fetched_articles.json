@@ -1,89 +1,5 @@
 {
   "articles": {
-    "43d15ea4f854ef99": {
-      "title": "Why all AI content sounds the same (and how to fix it)",
-      "fetched_at": "2026-08-16T18:12:23.231377+00:00"
-    },
-    "bfa591e200e98ee8": {
-      "title": "Show HN: I built my 15-year-old game idea in a week with AI",
-      "fetched_at": "2026-08-16T18:12:23.853986+00:00"
-    },
-    "e5df8b642dbc7f06": {
-      "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
-      "fetched_at": "2026-08-16T18:12:24.482624+00:00"
-    },
-    "85927082fdee992e": {
-      "title": "AgentShield – Offline Rust security scanner for AI agent tools and MCP (<50ms)",
-      "fetched_at": "2026-08-16T18:12:25.105345+00:00"
-    },
-    "5837362a268719b1": {
-      "title": "AI won't solve the work-theater problem",
-      "fetched_at": "2026-08-16T18:12:25.722199+00:00"
-    },
-    "870cc22410b21371": {
-      "title": "Publishing: What's Worse Than AI Slop? Trad Slop",
-      "fetched_at": "2026-08-16T18:12:26.328292+00:00"
-    },
-    "677c3e3228614d9b": {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "fetched_at": "2026-08-16T18:12:26.949823+00:00"
-    },
-    "eb8a9da7d6254ba5": {
-      "title": "AI and the Changing Future of Mathematics",
-      "fetched_at": "2026-08-16T18:12:27.563940+00:00"
-    },
-    "47e59f21ce369849": {
-      "title": "Breaking AI Orchestration: Hijacking N8n HITL Chat Sessions",
-      "fetched_at": "2026-08-16T18:12:28.224783+00:00"
-    },
-    "864dab1232bafe05": {
-      "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
-      "fetched_at": "2026-08-16T18:12:28.841702+00:00"
-    },
-    "9a692a6777b8faa0": {
-      "title": "Ask HN: What tools are you using for human code review of AI-assisted code?",
-      "fetched_at": "2026-08-16T18:12:29.567083+00:00"
-    },
-    "f8e0830e9f376cd0": {
-      "title": "Show HN: Rungraph – See your AI coding-agent runs as a graph",
-      "fetched_at": "2026-08-16T18:12:30.192462+00:00"
-    },
-    "c8306406cbaf17ac": {
-      "title": "Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
-      "fetched_at": "2026-08-16T18:12:30.818018+00:00"
-    },
-    "03793973ba34aa00": {
-      "title": "Rogue AI aren't science fiction anymore",
-      "fetched_at": "2026-08-16T18:12:30.818164+00:00"
-    },
-    "49e37a6d46a01810": {
-      "title": "Show HN: Sib - Unixy LLM Client using Git to store converastions, instead SQLite",
-      "fetched_at": "2026-08-16T18:12:31.433602+00:00"
-    },
-    "7f12642b5b07aab5": {
-      "title": "Europe Cannot Govern AI by Cloud Region Alone: A Architecture for AI Sovereignty",
-      "fetched_at": "2026-08-16T18:12:32.051005+00:00"
-    },
-    "54af4d613efd5d8f": {
-      "title": "Keemate – a modular AI keypad that runs commands in any app, on any model",
-      "fetched_at": "2026-08-16T18:12:32.678707+00:00"
-    },
-    "ed81a668760378ac": {
-      "title": "Ask HN: AI-Contributor-Only Projects?",
-      "fetched_at": "2026-08-16T18:12:33.320323+00:00"
-    },
-    "5a4339686316729f": {
-      "title": "Enlicitide: A stress test for AI in drug discovery",
-      "fetched_at": "2026-08-16T18:12:33.933068+00:00"
-    },
-    "ec1d491f4ae2f949": {
-      "title": "AI Search Analytics · QueryTrace",
-      "fetched_at": "2026-08-16T18:12:34.547226+00:00"
-    },
-    "d685dffd019b1dc6": {
-      "title": "Show HN: The Gateless Gate – Ancient Zen text as 50 procedural 3D scenes",
-      "fetched_at": "2026-08-16T18:12:43.612826+00:00"
-    },
     "25f04d1c12b0a697": {
       "title": "With OpenRouter, Is Stripe Becoming the Amazon of AI",
       "fetched_at": "2026-08-17T00:34:32.676038+00:00"
@@ -3255,7 +3171,91 @@
     "7a3711ad9eb77a26": {
       "title": "Cheap wall tiles 'inspired by flowing streams' could fix one of superfast 6G's biggest problems",
       "fetched_at": "2026-08-24T12:23:55.897639+00:00"
+    },
+    "106902bdbcf30596": {
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "fetched_at": "2026-08-24T18:22:33.518603+00:00"
+    },
+    "b490d3a86e10fe4f": {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "fetched_at": "2026-08-24T18:22:34.126132+00:00"
+    },
+    "95460e6771466f45": {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "fetched_at": "2026-08-24T18:22:34.742385+00:00"
+    },
+    "f4751e874c7caa41": {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "fetched_at": "2026-08-24T18:22:35.354830+00:00"
+    },
+    "20f0aec741f50e35": {
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "fetched_at": "2026-08-24T18:22:35.968974+00:00"
+    },
+    "e0bed98d811fc78e": {
+      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
+      "fetched_at": "2026-08-24T18:22:38.307205+00:00"
+    },
+    "420e72e8a747ce3d": {
+      "title": "Severe COVID-19 may wake up dormant viruses and lead to lasting physical disability, study finds",
+      "fetched_at": "2026-08-24T18:22:41.627200+00:00"
+    },
+    "e72eadd25fbea500": {
+      "title": "Common medications may change your gut for years",
+      "fetched_at": "2026-08-24T18:22:42.247851+00:00"
+    },
+    "121ab71fd3dd3ada": {
+      "title": "Bird flu is spreading. Your backyard feeder could make it worse",
+      "fetched_at": "2026-08-24T18:22:42.878073+00:00"
+    },
+    "f8e3915e61386a54": {
+      "title": "A ghostly ribbon of stars reveals hidden dark matter",
+      "fetched_at": "2026-08-24T18:22:43.488021+00:00"
+    },
+    "3a8ffb132c748235": {
+      "title": "Too much or too little sleep may make your body age faster",
+      "fetched_at": "2026-08-24T18:22:44.097300+00:00"
+    },
+    "43524af0ee244fef": {
+      "title": "Screen time at ages 1 and 6 may matter more than parents realize",
+      "fetched_at": "2026-08-24T18:22:44.701589+00:00"
+    },
+    "0cbf25e7d6cf56da": {
+      "title": "Scientists just imaged the hidden quantum shape of a molecule",
+      "fetched_at": "2026-08-24T18:22:45.330693+00:00"
+    },
+    "9de5a1b049b51461": {
+      "title": "NASA is about to launch a powerful new eye on the universe",
+      "fetched_at": "2026-08-24T18:22:45.947539+00:00"
+    },
+    "5d1d66afa3e47726": {
+      "title": "Trump to award Congressional Space Medal of Honor to Artemis II astronauts",
+      "fetched_at": "2026-08-24T18:22:46.575123+00:00"
+    },
+    "5a36117aa7667ffa": {
+      "title": "Scientists discover a real-life “dragon” and name it after Syrax",
+      "fetched_at": "2026-08-24T18:22:47.192631+00:00"
+    },
+    "797ab96eb7a36aa8": {
+      "title": "'There's a sense that these algorithms are objective and they get to know you': How social media warps our understanding of healthcare",
+      "fetched_at": "2026-08-24T18:22:47.879191+00:00"
+    },
+    "e12b853fbe1c80be": {
+      "title": "Astronomers find water in the harsh environment near the Milky Way's black hole — Space photo of the week",
+      "fetched_at": "2026-08-24T18:22:48.500650+00:00"
+    },
+    "4f03cf53e151f773": {
+      "title": "Which building blocks of life have been found in space, and which haven't?",
+      "fetched_at": "2026-08-24T18:22:49.128082+00:00"
+    },
+    "ce2383a3b1fa6962": {
+      "title": "A little movement in midlife could pay off for your brain years later",
+      "fetched_at": "2026-08-24T18:22:49.749835+00:00"
+    },
+    "6ff209834847774b": {
+      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+      "fetched_at": "2026-08-24T18:22:50.358848+00:00"
     }
   },
-  "last_updated": "2026-08-24T12:23:55.991083+00:00"
+  "last_updated": "2026-08-24T18:22:50.477315+00:00"
 }
