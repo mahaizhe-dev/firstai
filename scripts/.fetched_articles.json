@@ -1,73 +1,5 @@
 {
   "articles": {
-    "acca913c3e666758": {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "fetched_at": "2026-08-17T18:20:54.654368+00:00"
-    },
-    "7d3c78446e5633ff": {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "fetched_at": "2026-08-17T18:20:55.227162+00:00"
-    },
-    "9ddd441756203f8e": {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "fetched_at": "2026-08-17T18:20:55.806267+00:00"
-    },
-    "b805ba3d2e9c0ee1": {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "fetched_at": "2026-08-17T18:20:56.380316+00:00"
-    },
-    "903b1c7f16f3a1a4": {
-      "title": "派评 | 近期值得关注的 App",
-      "fetched_at": "2026-08-17T18:20:56.380444+00:00"
-    },
-    "f4cba35c1340a056": {
-      "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
-      "fetched_at": "2026-08-17T18:20:56.962004+00:00"
-    },
-    "3fc7346fc0a05b0a": {
-      "title": "当陶瓷水杯遇上像素屏：PixelMug 体验",
-      "fetched_at": "2026-08-17T18:20:57.546814+00:00"
-    },
-    "8bd09f33385c2266": {
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "fetched_at": "2026-08-17T18:20:58.228647+00:00"
-    },
-    "3564756bbccfbf73": {
-      "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
-      "fetched_at": "2026-08-17T18:21:00.693132+00:00"
-    },
-    "b4fcda8cd844c28a": {
-      "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
-      "fetched_at": "2026-08-17T18:21:01.283809+00:00"
-    },
-    "066a155bb91036ad": {
-      "title": "Possible Bronze Age Grave Unearthed Beneath Viking Ship Burial",
-      "fetched_at": "2026-08-17T18:21:03.512863+00:00"
-    },
-    "7485abf87e4b71b8": {
-      "title": "2,300-Year-Old Alcoholic Beverage Discovered in China",
-      "fetched_at": "2026-08-17T18:21:04.092779+00:00"
-    },
-    "967ff147606b5245": {
-      "title": "1,700-year-old church discovered under a lake in Turkey may be the location of the First Council of Nicaea — but other experts disagree",
-      "fetched_at": "2026-08-17T18:21:04.674826+00:00"
-    },
-    "bb8bca08bcf9e44e": {
-      "title": "Skeleton with 167 fractures discovered at Scottish castle may have been first victim of Edward I's 'War Wolf' trebuchet",
-      "fetched_at": "2026-08-17T18:21:05.253617+00:00"
-    },
-    "95428b4f7d3d79e2": {
-      "title": "Webb’s mysterious little red dots may be hiding entire galaxies",
-      "fetched_at": "2026-08-17T18:21:05.832881+00:00"
-    },
-    "bfaae27248d589ca": {
-      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
-      "fetched_at": "2026-08-17T18:21:06.417018+00:00"
-    },
-    "c7a4c8fa6ccf11cf": {
-      "title": "Scientists uncover the hidden nerve network fueling breast cancer",
-      "fetched_at": "2026-08-17T18:21:06.991540+00:00"
-    },
     "5b6960ec636262b1": {
       "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
       "fetched_at": "2026-08-18T00:35:09.555792+00:00"
@@ -3271,7 +3203,103 @@
     "f9f2baf00f93eb0a": {
       "title": "Rare sunlight trick transforms Pacific island into a giant silver 'magnifying glass' — Earth from space",
       "fetched_at": "2026-08-25T12:24:40.792815+00:00"
+    },
+    "ab2d1b2f04df62f0": {
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "fetched_at": "2026-08-25T18:21:54.492564+00:00"
+    },
+    "0c8f513971228118": {
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "fetched_at": "2026-08-25T18:21:55.111189+00:00"
+    },
+    "b816d524a5fe9f92": {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "fetched_at": "2026-08-25T18:21:55.732386+00:00"
+    },
+    "73042e8f97584cfa": {
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "fetched_at": "2026-08-25T18:21:56.356684+00:00"
+    },
+    "e02830182c959e08": {
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "fetched_at": "2026-08-25T18:21:56.979221+00:00"
+    },
+    "bd335df2d83d009b": {
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "fetched_at": "2026-08-25T18:21:57.601987+00:00"
+    },
+    "5d8a1cc9498b100d": {
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "fetched_at": "2026-08-25T18:21:58.232904+00:00"
+    },
+    "63b43ef7c7ed149d": {
+      "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
+      "fetched_at": "2026-08-25T18:21:58.841253+00:00"
+    },
+    "d1e6d62fa7995236": {
+      "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
+      "fetched_at": "2026-08-25T18:21:59.453120+00:00"
+    },
+    "6bf613d1247c5ba3": {
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-08-25T18:22:00.076851+00:00"
+    },
+    "532789ae10d7ca9e": {
+      "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
+      "fetched_at": "2026-08-25T18:22:02.271646+00:00"
+    },
+    "9efc5cd1a5dc8ec7": {
+      "title": "Ritual solstice structure 1,000 years older than Stonehenge unearthed in Czech Republic",
+      "fetched_at": "2026-08-25T18:22:04.389865+00:00"
+    },
+    "465f65ed4292e481": {
+      "title": "Shingles vaccine linked to 24% lower dementia risk",
+      "fetched_at": "2026-08-25T18:22:05.004896+00:00"
+    },
+    "bf60fb3436c9be91": {
+      "title": "Atomic catalyst unlocks the hidden value of plant waste",
+      "fetched_at": "2026-08-25T18:22:05.632329+00:00"
+    },
+    "e455060e3c90be3c": {
+      "title": "Scientists find hidden “highways” guiding animal evolution",
+      "fetched_at": "2026-08-25T18:22:06.264265+00:00"
+    },
+    "ea1b8600f6b4ae08": {
+      "title": "NASA finds Earth microbes could survive on the Moon",
+      "fetched_at": "2026-08-25T18:22:06.892604+00:00"
+    },
+    "1f3323d606161cdc": {
+      "title": "Depression may shut down the brain’s ability to make new neurons",
+      "fetched_at": "2026-08-25T18:22:07.519029+00:00"
+    },
+    "07f2b75c782fb084": {
+      "title": "Newton’s 300-year-old law just passed its biggest test yet",
+      "fetched_at": "2026-08-25T18:22:08.132548+00:00"
+    },
+    "8a14a4b88c482016": {
+      "title": "Front face of a stela: A 1,300-year-old carving of a powerful Maya 'Lady Supreme Warlord' that weighs over 1 ton",
+      "fetched_at": "2026-08-25T18:22:08.132685+00:00"
+    },
+    "f9f9ce71af138bcc": {
+      "title": "Fire-flame vessel: An exquisitely crafted 4,500-year-old pot from a mysterious culture in Japan",
+      "fetched_at": "2026-08-25T18:22:08.766374+00:00"
+    },
+    "937a60a0c48264b1": {
+      "title": "Elon Musk and Sam Altman claim we've reached the AI singularity. But how would we even know that happened?",
+      "fetched_at": "2026-08-25T18:22:09.388134+00:00"
+    },
+    "9f1066e0d983cd4e": {
+      "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
+      "fetched_at": "2026-08-25T18:22:10.030123+00:00"
+    },
+    "fbeb60c13954a080": {
+      "title": "Animals have been eating nature’s original bioplastic for millions of years",
+      "fetched_at": "2026-08-25T18:22:10.648003+00:00"
+    },
+    "5fde2a949023373f": {
+      "title": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it",
+      "fetched_at": "2026-08-25T18:22:11.261454+00:00"
     }
   },
-  "last_updated": "2026-08-25T12:24:40.865566+00:00"
+  "last_updated": "2026-08-25T18:22:11.355827+00:00"
 }
