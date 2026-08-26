@@ -1,113 +1,5 @@
 {
   "articles": {
-    "9d93e5f1cd52e25a": {
-      "title": "David Chalmers asks: When we talk to AI, what are we talking to?",
-      "fetched_at": "2026-08-18T18:20:02.405154+00:00"
-    },
-    "6b59013d93122dfa": {
-      "title": "3D Model Markets Are Being Flooded with AI Sellers, but No One's Buying",
-      "fetched_at": "2026-08-18T18:20:03.022526+00:00"
-    },
-    "e17005c44eedc654": {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "fetched_at": "2026-08-18T18:20:03.645868+00:00"
-    },
-    "499a073d2194f822": {
-      "title": "Show HN: Unigram: encode bytes as words that cost one LLM token",
-      "fetched_at": "2026-08-18T18:20:04.259822+00:00"
-    },
-    "0ada10d04352b48d": {
-      "title": "AI automation startup Relay.app shuts down, staff joins Google's Chrome team",
-      "fetched_at": "2026-08-18T18:20:04.886311+00:00"
-    },
-    "3f5e11f159a8d1ac": {
-      "title": "AI Watermarking, Nazi Enigmas, and Sherlock Holmes",
-      "fetched_at": "2026-08-18T18:20:05.514254+00:00"
-    },
-    "355dbafb582b6b17": {
-      "title": "Return of the Spec: Why AI agents are reviving the software specification",
-      "fetched_at": "2026-08-18T18:20:06.124154+00:00"
-    },
-    "8c683e5b485a69fc": {
-      "title": "A Texas University Becomes a Petri Dish for a Conservative Overhaul [Using AI]",
-      "fetched_at": "2026-08-18T18:20:06.737358+00:00"
-    },
-    "897df057d11207d4": {
-      "title": "Contributors are AI-first now. Is your project?",
-      "fetched_at": "2026-08-18T18:20:07.359349+00:00"
-    },
-    "b6778b06caa68898": {
-      "title": "IP can't save you from AI",
-      "fetched_at": "2026-08-18T18:20:07.971400+00:00"
-    },
-    "890ebd98c4ff0173": {
-      "title": "AI chip startup Etched doubles valuation to $21B in under a month",
-      "fetched_at": "2026-08-18T18:20:08.589312+00:00"
-    },
-    "f4ff802a26e24918": {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "fetched_at": "2026-08-18T18:20:09.195231+00:00"
-    },
-    "60d50a44acd752b7": {
-      "title": "One Person State – portable personal AI system",
-      "fetched_at": "2026-08-18T18:20:09.806418+00:00"
-    },
-    "8daec063556d8db9": {
-      "title": "A 24-Year-Old Blew Up a $45B AI Fund",
-      "fetched_at": "2026-08-18T18:20:10.430117+00:00"
-    },
-    "bc4823e43dc652cd": {
-      "title": "The Download: how people use AI, and Flock's design choices",
-      "fetched_at": "2026-08-18T18:20:11.031712+00:00"
-    },
-    "067d350fde173d8d": {
-      "title": "Show HN: See what an LLM learned, organised as a browsable tree",
-      "fetched_at": "2026-08-18T18:20:11.638283+00:00"
-    },
-    "a42c8851ca877ba0": {
-      "title": "Operationalizing agentic AI: The Day 0-2 blueprint for enterprise infrastructure",
-      "fetched_at": "2026-08-18T18:20:12.266333+00:00"
-    },
-    "3d9638c6bb19fb07": {
-      "title": "The AI Slop Spiral",
-      "fetched_at": "2026-08-18T18:20:12.878632+00:00"
-    },
-    "4665d298d783b87f": {
-      "title": "Recent grads say AI is making it harder to get a job. Economists aren't sure",
-      "fetched_at": "2026-08-18T18:20:13.496415+00:00"
-    },
-    "c49cbc536093d835": {
-      "title": "Magnitude – Open-source AI coding agent that runs local models offline",
-      "fetched_at": "2026-08-18T18:20:14.141725+00:00"
-    },
-    "d76ace4cc2d4df10": {
-      "title": "朱鎔基在京火化：從民間悼念到八寶山公墓，中國領導人「身後事」的政治邏輯",
-      "fetched_at": "2026-08-18T18:21:18.465858+00:00"
-    },
-    "8bc3a3b42ed6253e": {
-      "title": "Crucibles Contain Earliest Evidence of Brass Production in East Asia",
-      "fetched_at": "2026-08-18T18:21:21.546520+00:00"
-    },
-    "560a42d28cfa6147": {
-      "title": "Mysterious Runestone Found in Floor of Faroe Islands Chapel",
-      "fetched_at": "2026-08-18T18:21:22.157622+00:00"
-    },
-    "6c2ba1614202e37a": {
-      "title": "Denisovans Were Much Taller Than Previously Thought",
-      "fetched_at": "2026-08-18T18:21:22.781419+00:00"
-    },
-    "dc701a2ed94ea858": {
-      "title": "Neanderthals may have trekked through the Saudi Arabian desert 55,000 years ago, farther south than experts thought possible",
-      "fetched_at": "2026-08-18T18:21:23.393528+00:00"
-    },
-    "160f5ba21c5f4514": {
-      "title": "'Beyond human intuition': AI designs chip components 500 times smaller than what engineers could ever imagine",
-      "fetched_at": "2026-08-18T18:21:24.002774+00:00"
-    },
-    "afad445849ca18f0": {
-      "title": "The pace of climate change matters more than overall heat in the race to save key Atlantic currents, study finds",
-      "fetched_at": "2026-08-18T18:21:24.611000+00:00"
-    },
     "ff456460476c98a7": {
       "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
       "fetched_at": "2026-08-19T00:35:09.414009+00:00"
@@ -3311,7 +3203,115 @@
     "79e29ef6284c74e3": {
       "title": "The bacteria that make cheese taste so good may also benefit your gut",
       "fetched_at": "2026-08-26T12:27:11.209372+00:00"
+    },
+    "63d7a924b7e93f1d": {
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "fetched_at": "2026-08-26T19:29:04.874029+00:00"
+    },
+    "db145bfdde0e0571": {
+      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "fetched_at": "2026-08-26T19:29:05.511984+00:00"
+    },
+    "cefc51412c190f9a": {
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "fetched_at": "2026-08-26T19:29:06.124401+00:00"
+    },
+    "8faf20a8d0a25e4c": {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "fetched_at": "2026-08-26T19:29:06.735610+00:00"
+    },
+    "db5cf8f050474921": {
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "fetched_at": "2026-08-26T19:29:07.367282+00:00"
+    },
+    "47f15e3b6c176d31": {
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "fetched_at": "2026-08-26T19:29:07.992638+00:00"
+    },
+    "6d6c4f0a0337be7e": {
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "fetched_at": "2026-08-26T19:29:08.619792+00:00"
+    },
+    "4ca4b70efae94d95": {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "fetched_at": "2026-08-26T19:29:09.230241+00:00"
+    },
+    "1f5af6a04b317e1c": {
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "fetched_at": "2026-08-26T19:29:09.857982+00:00"
+    },
+    "f1a43d3fb584e6fb": {
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "fetched_at": "2026-08-26T19:29:10.484351+00:00"
+    },
+    "c5330b74ceeb041a": {
+      "title": "西藏—尼泊爾邊境山洪暴發 數百人失蹤包括多國遊客",
+      "fetched_at": "2026-08-26T19:29:12.794539+00:00"
+    },
+    "7cdc893bc46738cb": {
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "fetched_at": "2026-08-26T19:29:13.428479+00:00"
+    },
+    "55c19fdf09b9ffd0": {
+      "title": "How worried are you about the health impacts of extreme heat?",
+      "fetched_at": "2026-08-26T19:29:15.274609+00:00"
+    },
+    "1a1de6cfd7d443ec": {
+      "title": "'Unlike anything seen before': Archaeologists unearth a unique, 11,000-year-old statue of a person riding a leopard from one of the world's earliest settlements",
+      "fetched_at": "2026-08-26T19:29:15.912389+00:00"
+    },
+    "c3198551c63ab1db": {
+      "title": "Markings on Anatolian Arrowheads Studied",
+      "fetched_at": "2026-08-26T19:29:16.538931+00:00"
+    },
+    "3c80bfa67f7636e7": {
+      "title": "New Dates Obtained at Canada’s St. Victor Petroglyph Site",
+      "fetched_at": "2026-08-26T19:29:17.148824+00:00"
+    },
+    "4a22343d97e24835": {
+      "title": "Medieval Nobleman’s Tomb Discovered in Western Russia",
+      "fetched_at": "2026-08-26T19:29:17.771252+00:00"
+    },
+    "efd1f50bd35f1158": {
+      "title": "I took a big risk for the Aug. 12 total solar eclipse —‬ and the reward was glorious",
+      "fetched_at": "2026-08-26T19:29:18.392019+00:00"
+    },
+    "175344cd6fcc4f58": {
+      "title": "Rare red northern lights may be visible alongside red moon during tomorrow night's partial lunar eclipse",
+      "fetched_at": "2026-08-26T19:29:19.082212+00:00"
+    },
+    "c8a32d5dd89fd3ac": {
+      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+      "fetched_at": "2026-08-26T19:29:19.698007+00:00"
+    },
+    "257a0782806b2720": {
+      "title": "190-year-old DNA reveals a hidden pangolin species",
+      "fetched_at": "2026-08-26T19:29:20.326326+00:00"
+    },
+    "5df2be532161966b": {
+      "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
+      "fetched_at": "2026-08-26T19:29:20.961789+00:00"
+    },
+    "9534a699cbee1f4a": {
+      "title": "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
+      "fetched_at": "2026-08-26T19:29:21.588738+00:00"
+    },
+    "bac576b5de03cd07": {
+      "title": "One asteroid strike may explain two mysteries of Mars’ moon Deimos",
+      "fetched_at": "2026-08-26T19:29:22.227843+00:00"
+    },
+    "44a6a7858ad08d35": {
+      "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
+      "fetched_at": "2026-08-26T19:29:22.847478+00:00"
+    },
+    "ffebff6f0652f0ad": {
+      "title": "Archaeologists discover Etruscan well that was ritually opened with offerings for a goddess — and 'closed' with human bodies",
+      "fetched_at": "2026-08-26T19:29:23.473050+00:00"
+    },
+    "20cd0250bec8aef1": {
+      "title": "Giant underwater plume blasts into swirling cloud 'street' in the East China Sea — Earth from space",
+      "fetched_at": "2026-08-26T19:29:24.113690+00:00"
     }
   },
-  "last_updated": "2026-08-26T12:27:11.331892+00:00"
+  "last_updated": "2026-08-26T19:29:24.208057+00:00"
 }
