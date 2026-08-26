@@ -1,117 +1,5 @@
 {
   "articles": {
-    "5b6960ec636262b1": {
-      "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
-      "fetched_at": "2026-08-18T00:35:09.555792+00:00"
-    },
-    "6c705cb14d56d2af": {
-      "title": "Consumers Prefer AI Music Until They're Told It's AI",
-      "fetched_at": "2026-08-18T00:35:10.134786+00:00"
-    },
-    "c9b4f413999241d5": {
-      "title": "Whose doctor does the AI recommend? An algorithm audit of LLMs in physician",
-      "fetched_at": "2026-08-18T00:35:10.718745+00:00"
-    },
-    "48463aa14e655712": {
-      "title": "Connecting to an Azure/Entra Joined Windows Machine from Linux",
-      "fetched_at": "2026-08-18T00:35:11.295071+00:00"
-    },
-    "5253b4ff49f67abd": {
-      "title": "Un-AI Your Internet",
-      "fetched_at": "2026-08-18T00:35:11.865945+00:00"
-    },
-    "9b6d1040fb20dde0": {
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "fetched_at": "2026-08-18T00:35:12.440687+00:00"
-    },
-    "fbb8d934abe37374": {
-      "title": "Our Learning from Building Voice Agents for Loan Servicing",
-      "fetched_at": "2026-08-18T00:35:13.029080+00:00"
-    },
-    "07d806eea75e0b48": {
-      "title": "Show HN: AI-generated music box version of any song (for baby)",
-      "fetched_at": "2026-08-18T00:35:13.619977+00:00"
-    },
-    "95278b73b2c9cc15": {
-      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
-      "fetched_at": "2026-08-18T00:35:14.205586+00:00"
-    },
-    "e86a41e92b09b33c": {
-      "title": "Ask HN: Can you still tell AI-generated text apart in your own language?",
-      "fetched_at": "2026-08-18T00:35:14.795280+00:00"
-    },
-    "267813bc90855ad6": {
-      "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
-      "fetched_at": "2026-08-18T00:35:15.388029+00:00"
-    },
-    "672197ccc05f1626": {
-      "title": "Building an AI Text Detector from Scratch",
-      "fetched_at": "2026-08-18T00:35:15.973887+00:00"
-    },
-    "cfe58289cc77e56c": {
-      "title": "Cumora, a cross-platform team chat where AI agents work alongside humans",
-      "fetched_at": "2026-08-18T00:35:16.557956+00:00"
-    },
-    "b129f282fd0efcbf": {
-      "title": "AI writes dead code – the Go team's deadcode tool finds it in one command",
-      "fetched_at": "2026-08-18T00:35:17.138507+00:00"
-    },
-    "60084c2885ff9359": {
-      "title": "Agentic AI in a Smolbox",
-      "fetched_at": "2026-08-18T00:35:17.781012+00:00"
-    },
-    "2c1083a162286d1a": {
-      "title": "Control Charts Make AI Agents Cheaper, Less Necessary, and More Useful",
-      "fetched_at": "2026-08-18T00:35:18.361479+00:00"
-    },
-    "01e731316fe85b9d": {
-      "title": "My friends all hate AI; I just joined an AI startup",
-      "fetched_at": "2026-08-18T00:35:18.941823+00:00"
-    },
-    "ebb937d732d2841c": {
-      "title": "Foreign psyops campaign targeting American consumer AI (2025)",
-      "fetched_at": "2026-08-18T00:35:19.591615+00:00"
-    },
-    "591bef04e1802f9f": {
-      "title": "EY turning internships into yearlong residencies as AI changes entry-level work",
-      "fetched_at": "2026-08-18T00:35:20.173992+00:00"
-    },
-    "a46dc982747cdbe9": {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "fetched_at": "2026-08-18T00:35:20.751112+00:00"
-    },
-    "8e6f52507ee70ed8": {
-      "title": "「我在遊戲中當了兩年英國首相，然後閣員們都離我而去」",
-      "fetched_at": "2026-08-18T00:35:23.160411+00:00"
-    },
-    "fdcab1ff7d6433bd": {
-      "title": "日本企業應用人工智慧為何如此緩慢？",
-      "fetched_at": "2026-08-18T00:35:23.749484+00:00"
-    },
-    "2b3d4e8dc5b1c925": {
-      "title": "從DeepSeek到「人工智能+」：中美AI競賽究竟在比什麼？",
-      "fetched_at": "2026-08-18T00:35:24.336709+00:00"
-    },
-    "b4ab6d6945fad69c": {
-      "title": "Do you think social media bans will protect children?",
-      "fetched_at": "2026-08-18T00:35:42.053612+00:00"
-    },
-    "c1a6dfe5d30a1ba9": {
-      "title": "The 'real Indiana Jones' who found an ancient, lost city of the Incas",
-      "fetched_at": "2026-08-18T00:35:42.636858+00:00"
-    },
-    "0934d51c48e0ec81": {
-      "title": "Ceremonial Poles Returned to Canadian Village Site",
-      "fetched_at": "2026-08-18T00:35:43.219984+00:00"
-    },
-    "a1ee8a739e73878a": {
-      "title": "Human ancestors may have almost died out after ancient population crash (2023)",
-      "fetched_at": "2026-08-18T00:35:43.804589+00:00"
-    },
-    "fd5319ab2f5957cf": {
-      "title": "'His urine goes on tour around Europe, showing the kings and queens this glowing pee': The weird world of alchemy before chemistry",
-      "fetched_at": "2026-08-18T00:35:44.391931+00:00"
-    },
     "1356b79af8a0a679": {
       "title": "Private Scribe – 100% offline Whisper AI voice dictation for Windows",
       "fetched_at": "2026-08-18T06:22:30.657589+00:00"
@@ -3299,7 +3187,139 @@
     "5fde2a949023373f": {
       "title": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it",
       "fetched_at": "2026-08-25T18:22:11.261454+00:00"
+    },
+    "85e14f3e32db3361": {
+      "title": "Microsoft's Maia 200 AI Accelerator at Hot Chips 2026",
+      "fetched_at": "2026-08-26T00:36:36.397186+00:00"
+    },
+    "0317bcf632ba6cd6": {
+      "title": "AI Realist Radar:GPT‑5.6 Sol Pricing, Stripe's OpenRouter Deal",
+      "fetched_at": "2026-08-26T00:36:36.993145+00:00"
+    },
+    "d321266b493d2fe9": {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "fetched_at": "2026-08-26T00:36:37.598325+00:00"
+    },
+    "42b102a04656607b": {
+      "title": "The AI Health Agent That Will Know Me for Life",
+      "fetched_at": "2026-08-26T00:36:38.193086+00:00"
+    },
+    "6e2c1b477709f7aa": {
+      "title": "A modest but open theorem in theoretical biology proved by AI",
+      "fetched_at": "2026-08-26T00:36:38.804139+00:00"
+    },
+    "32f16dc994af07b9": {
+      "title": "AI Disruptors: How the Next Generation of Business Is Being Built",
+      "fetched_at": "2026-08-26T00:36:39.400495+00:00"
+    },
+    "ce8fe36af6b15027": {
+      "title": "Hermes Agent – Open-Source AI Agent That Grows with You",
+      "fetched_at": "2026-08-26T00:36:40.044125+00:00"
+    },
+    "dfb33fcce990fa4c": {
+      "title": "Show HN: Slash-tokens – know LLM cost before the call leaves your machine",
+      "fetched_at": "2026-08-26T00:36:40.642774+00:00"
+    },
+    "dcd94e9991677197": {
+      "title": "AI Home Lab for Beginners: The Deep Dive",
+      "fetched_at": "2026-08-26T00:36:41.252706+00:00"
+    },
+    "633d82a82e06d34c": {
+      "title": "New AI Agent to Autonomously Prepare and Send Docs Out for Signature",
+      "fetched_at": "2026-08-26T00:36:41.837853+00:00"
+    },
+    "eb829da72b67e18e": {
+      "title": "Try to beat this AI writing detector",
+      "fetched_at": "2026-08-26T00:36:42.435569+00:00"
+    },
+    "0a69ee7537eaacc6": {
+      "title": "Google Aims to Boost AI with Purchase of Spirit Airlines Data",
+      "fetched_at": "2026-08-26T00:36:43.114475+00:00"
+    },
+    "fe2c945b28cb696f": {
+      "title": "The State of AI Disclosure 2026: what 1,088 EU sites' chat widgets say",
+      "fetched_at": "2026-08-26T00:36:43.716572+00:00"
+    },
+    "ef17d8375b8ab9cf": {
+      "title": "MREA – Open-source governance framework for multi-role AI agents",
+      "fetched_at": "2026-08-26T00:36:44.320843+00:00"
+    },
+    "7b9aa330e3d12db3": {
+      "title": "AI, IPv6, and the future Internet at IETF 126",
+      "fetched_at": "2026-08-26T00:36:44.931201+00:00"
+    },
+    "205ab5c2eb73bb4a": {
+      "title": "The New York Times is publishing AI slop",
+      "fetched_at": "2026-08-26T00:36:45.536800+00:00"
+    },
+    "b7da0c4a3b09de54": {
+      "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
+      "fetched_at": "2026-08-26T00:36:46.140855+00:00"
+    },
+    "3af83b604c5f01e0": {
+      "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
+      "fetched_at": "2026-08-26T00:36:46.743357+00:00"
+    },
+    "5ad623cc481b9375": {
+      "title": "Vidbyte Skills – Skills That Keep AI-Assisted Work from Becoming Passive",
+      "fetched_at": "2026-08-26T00:36:47.363028+00:00"
+    },
+    "164eebab885f9dd8": {
+      "title": "AI is supercharging hacks of everyday utilities",
+      "fetched_at": "2026-08-26T00:36:47.947515+00:00"
+    },
+    "0b0a8cc4ab1dfec1": {
+      "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
+      "fetched_at": "2026-08-26T00:36:50.608652+00:00"
+    },
+    "a7ff16d66989aade": {
+      "title": "先天性黑色素細胞痣患者：「皮膚使我獨一無二，我正學習接納它。」",
+      "fetched_at": "2026-08-26T00:36:51.213844+00:00"
+    },
+    "23b39e08ebd3dcf4": {
+      "title": "2 people die of measles in Pennsylvania as vaccination rates drop across the nation",
+      "fetched_at": "2026-08-26T00:36:53.621567+00:00"
+    },
+    "6a8b88ce418ae676": {
+      "title": "U.S. Returns Artifacts to Egypt",
+      "fetched_at": "2026-08-26T00:36:54.219381+00:00"
+    },
+    "223bb68fb86eeb99": {
+      "title": "Show HN: Query Historical Data with Time Travel (Iceberg and Spark)",
+      "fetched_at": "2026-08-26T00:36:54.827184+00:00"
+    },
+    "b8de18e01ed35bcd": {
+      "title": "Study Compares Neanderthal and Modern Human Hip Bones",
+      "fetched_at": "2026-08-26T00:36:55.418633+00:00"
+    },
+    "9a98be7a7a2dcfbf": {
+      "title": "Child’s Burial Excavated at Huacas de Moche",
+      "fetched_at": "2026-08-26T00:36:56.022742+00:00"
+    },
+    "013be23ac20ac2c2": {
+      "title": "An open protocol for AI-mediated product discovery",
+      "fetched_at": "2026-08-26T00:36:56.635898+00:00"
+    },
+    "967ff147606b5245": {
+      "title": "1,700-year-old church discovered under a lake in Turkey may be the location of the First Council of Nicaea — but other experts disagree",
+      "fetched_at": "2026-08-26T00:36:57.245480+00:00"
+    },
+    "bb8bca08bcf9e44e": {
+      "title": "Skeleton with 167 fractures discovered at Scottish castle may have been first victim of Edward I's 'War Wolf' trebuchet",
+      "fetched_at": "2026-08-26T00:36:57.858294+00:00"
+    },
+    "95428b4f7d3d79e2": {
+      "title": "Webb’s mysterious little red dots may be hiding entire galaxies",
+      "fetched_at": "2026-08-26T00:36:58.456648+00:00"
+    },
+    "bfaae27248d589ca": {
+      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
+      "fetched_at": "2026-08-26T00:36:59.047477+00:00"
+    },
+    "bccb588eca7a2337": {
+      "title": "Show HN: AI activity discovery that brings all activities to one platform",
+      "fetched_at": "2026-08-26T00:36:59.651334+00:00"
     }
   },
-  "last_updated": "2026-08-25T18:22:11.355827+00:00"
+  "last_updated": "2026-08-26T00:36:59.747323+00:00"
 }
