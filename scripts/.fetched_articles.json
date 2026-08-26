@@ -1,133 +1,5 @@
 {
   "articles": {
-    "1356b79af8a0a679": {
-      "title": "Private Scribe – 100% offline Whisper AI voice dictation for Windows",
-      "fetched_at": "2026-08-18T06:22:30.657589+00:00"
-    },
-    "ee631df5fccb7181": {
-      "title": "Goody-2, the most responsible AI model (2024)",
-      "fetched_at": "2026-08-18T06:22:31.257908+00:00"
-    },
-    "a6fd0519dbb45320": {
-      "title": "Learning-Rust.Github.io: Labs: Project 1 – RESTful API Workspace",
-      "fetched_at": "2026-08-18T06:22:31.854354+00:00"
-    },
-    "20560b8a0a01d3bf": {
-      "title": "LLM Speedrun: Architecture",
-      "fetched_at": "2026-08-18T06:22:32.456944+00:00"
-    },
-    "2fbbb056e1f2d54f": {
-      "title": "What If I Told You Humans Are Moving Faster Than AI?",
-      "fetched_at": "2026-08-18T06:22:33.054664+00:00"
-    },
-    "7560f3a948561b2f": {
-      "title": "Why It Hasn't Happened Yet: Capable AI and Malicious Intent",
-      "fetched_at": "2026-08-18T06:22:33.656464+00:00"
-    },
-    "166eebeb7601766f": {
-      "title": "When it comes to LLM, it's you who's using it wrong",
-      "fetched_at": "2026-08-18T06:22:34.259500+00:00"
-    },
-    "290efc523c844f68": {
-      "title": "San Diego 150 Years Ago: Rare AI Reconstruction Visuals [video]",
-      "fetched_at": "2026-08-18T06:22:34.878198+00:00"
-    },
-    "8891b76b848f83fe": {
-      "title": "7月音乐精选：夏天赠予我们的 9张专辑",
-      "fetched_at": "2026-08-18T06:22:35.500846+00:00"
-    },
-    "5105f1d656f82c81": {
-      "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
-      "fetched_at": "2026-08-18T06:22:36.093318+00:00"
-    },
-    "e95121bc50831728": {
-      "title": "Three different papers pushed to ArXiv proving same 1986 conjecture; all use AI",
-      "fetched_at": "2026-08-18T06:22:36.721220+00:00"
-    },
-    "97e5d19c7c4864da": {
-      "title": "Going AI-native to enhance how humans/agents access ScalarDB and ScalarDL docs",
-      "fetched_at": "2026-08-18T06:22:37.324925+00:00"
-    },
-    "1337bc62683bb771": {
-      "title": "Every student is cheating with AI",
-      "fetched_at": "2026-08-18T06:22:37.937758+00:00"
-    },
-    "53b70ff41fe36ac3": {
-      "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
-      "fetched_at": "2026-08-18T06:22:38.539175+00:00"
-    },
-    "c0daf4cdb24f2a5a": {
-      "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
-      "fetched_at": "2026-08-18T06:22:39.152869+00:00"
-    },
-    "e17fbf665ff8c8dc": {
-      "title": "Privibe – LLM CLI Local first+privacy focus+llama.cpp cache branch and Qwen3.x",
-      "fetched_at": "2026-08-18T06:22:39.152996+00:00"
-    },
-    "04c60a91981289c6": {
-      "title": "派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等",
-      "fetched_at": "2026-08-18T06:22:39.769750+00:00"
-    },
-    "51074ed07b8ad9c2": {
-      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-      "fetched_at": "2026-08-18T06:22:40.384274+00:00"
-    },
-    "aa13b14ec843bd74": {
-      "title": "为何美日联手也“救”不了日元？",
-      "fetched_at": "2026-08-18T06:22:43.153990+00:00"
-    },
-    "c3b858a9e0e7b3df": {
-      "title": "在伊朗陷入困局后，特朗普再次将目光转向金正恩",
-      "fetched_at": "2026-08-18T06:22:43.743513+00:00"
-    },
-    "4db4b81853c05c65": {
-      "title": "中美人才争夺战：中国加速追赶，美国“自废武功”？",
-      "fetched_at": "2026-08-18T06:22:44.340157+00:00"
-    },
-    "baa5ae120da758b8": {
-      "title": "AI垃圾满天飞，科技公司开展人工智能废物大扫除",
-      "fetched_at": "2026-08-18T06:22:44.948677+00:00"
-    },
-    "f4067a40bf655cea": {
-      "title": "中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局",
-      "fetched_at": "2026-08-18T06:22:45.596056+00:00"
-    },
-    "74ad9d9566e27e34": {
-      "title": "硅谷并没有“右转”，它本来就很“右”",
-      "fetched_at": "2026-08-18T06:22:46.194303+00:00"
-    },
-    "098cd0d0fefeb76e": {
-      "title": "乌克兰无人机何以精准打击俄罗斯本土？",
-      "fetched_at": "2026-08-18T06:22:46.788357+00:00"
-    },
-    "1a226f258106b2ce": {
-      "title": "Scientists may have finally proved that “empty” space isn’t really empty",
-      "fetched_at": "2026-08-18T06:23:48.768687+00:00"
-    },
-    "7ab9a19e5ceac5a9": {
-      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
-      "fetched_at": "2026-08-18T06:23:49.385974+00:00"
-    },
-    "2e8cbbe35baf4054": {
-      "title": "A therapy that “rewrites” childhood memories can ease fear of failure",
-      "fetched_at": "2026-08-18T06:23:49.999227+00:00"
-    },
-    "79e29ef6284c74e3": {
-      "title": "The bacteria that make cheese taste so good may also benefit your gut",
-      "fetched_at": "2026-08-18T06:23:50.605733+00:00"
-    },
-    "7149db99b740b409": {
-      "title": "'Now our lives have changed': Drop in coal burning is helping the African Sahel turn green after decades of drought",
-      "fetched_at": "2026-08-18T06:23:51.209433+00:00"
-    },
-    "ae448af1d165d3db": {
-      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
-      "fetched_at": "2026-08-18T06:23:51.804159+00:00"
-    },
-    "d6085c01d8b4034a": {
-      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
-      "fetched_at": "2026-08-18T06:23:52.402279+00:00"
-    },
     "52d5e16aa614f681": {
       "title": "State Farm defense lawyers admit AI generated fake cases in LA lawsuit",
       "fetched_at": "2026-08-18T12:21:04.994016+00:00"
@@ -3319,7 +3191,155 @@
     "bccb588eca7a2337": {
       "title": "Show HN: AI activity discovery that brings all activities to one platform",
       "fetched_at": "2026-08-26T00:36:59.651334+00:00"
+    },
+    "19aa9c9f9664a934": {
+      "title": "Flow AI Video Generator",
+      "fetched_at": "2026-08-26T06:27:30.079005+00:00"
+    },
+    "218f459b9e4a8199": {
+      "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine",
+      "fetched_at": "2026-08-26T06:27:30.681691+00:00"
+    },
+    "cb91f47aba896ae2": {
+      "title": "Can AI Music Tools Replace Epidemic Sound? An Honest Look",
+      "fetched_at": "2026-08-26T06:27:31.280728+00:00"
+    },
+    "e8f60839539b43c0": {
+      "title": "Chinese government fears talking to AI might replace human intimacy",
+      "fetched_at": "2026-08-26T06:27:31.882457+00:00"
+    },
+    "5ee031ee35dd20e4": {
+      "title": "GitHub denies Copilot Autofix wrote the bug Wiz's AI agent found",
+      "fetched_at": "2026-08-26T06:27:32.568537+00:00"
+    },
+    "4f4d89678d7f5990": {
+      "title": "LLMs prefer machine-written prose over Austen and Shakespeare ~90% of the time",
+      "fetched_at": "2026-08-26T06:27:33.174858+00:00"
+    },
+    "e1513335d80d2165": {
+      "title": "Perplexity's Portable Computer tackling local AI services market",
+      "fetched_at": "2026-08-26T06:27:33.772505+00:00"
+    },
+    "363a9f930235311b": {
+      "title": "Front end skill pack for AI agents, with machine-enforced quality gates",
+      "fetched_at": "2026-08-26T06:27:34.374393+00:00"
+    },
+    "a1def4c1a3998f83": {
+      "title": "Show HN: LLM-powered webapp to build LLM-powered webapps",
+      "fetched_at": "2026-08-26T06:27:34.975863+00:00"
+    },
+    "716bc12cbf5c9fe5": {
+      "title": "Portable Computer: Local-First AI",
+      "fetched_at": "2026-08-26T06:27:35.564660+00:00"
+    },
+    "d349fee89631427a": {
+      "title": "$234B in Enterprise Application Software Spend at Risk from Agentic AI",
+      "fetched_at": "2026-08-26T06:27:36.180132+00:00"
+    },
+    "12336e108a0e038e": {
+      "title": "The Connections That Turned a Precocious Teen into the Fallen Nostradamus of AI",
+      "fetched_at": "2026-08-26T06:27:36.790552+00:00"
+    },
+    "7cee1e016f2cf0a1": {
+      "title": "Kraftapp AI – Describe it. We build it. Customers find it",
+      "fetched_at": "2026-08-26T06:27:37.395261+00:00"
+    },
+    "0e34f63c2b12d648": {
+      "title": "Show HN: HandWrought – an AI editor inside your document, not a tab away",
+      "fetched_at": "2026-08-26T06:27:37.993429+00:00"
+    },
+    "bf19d5e6bf41cc00": {
+      "title": "Show HN: Hands-on Docker security labs, from CIS checks to AI context poisoning",
+      "fetched_at": "2026-08-26T06:27:38.598601+00:00"
+    },
+    "4de20361fb316409": {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "fetched_at": "2026-08-26T06:27:39.201561+00:00"
+    },
+    "f22bbdc3e5a6b724": {
+      "title": "The AI founders who walked away from Bezos-backed Prometheus to model universe",
+      "fetched_at": "2026-08-26T06:27:39.885719+00:00"
+    },
+    "252d2764701d8550": {
+      "title": "Analyzing student votes across AI models for college essay help",
+      "fetched_at": "2026-08-26T06:27:40.482111+00:00"
+    },
+    "795c10619ddacea1": {
+      "title": "What platform has the best AI CMO?",
+      "fetched_at": "2026-08-26T06:27:41.073009+00:00"
+    },
+    "1741ecb8e6ecb58a": {
+      "title": "Darkbloom (AI inference on idle Macs) – security audit with PRs submitted",
+      "fetched_at": "2026-08-26T06:27:41.670625+00:00"
+    },
+    "8ff0a590b2b7a0ce": {
+      "title": "中國青少年濫藥問題：利用處方藥物來「逃避現實」",
+      "fetched_at": "2026-08-26T06:27:44.084539+00:00"
+    },
+    "13960095b4a6fe26": {
+      "title": "「辱毛」雕塑家高兟被判處三年有期徒刑",
+      "fetched_at": "2026-08-26T06:27:44.683364+00:00"
+    },
+    "6fb7a880c3b630d2": {
+      "title": "「我感到被騙了」：AI假醫師給台灣老人的震撼教育",
+      "fetched_at": "2026-08-26T06:27:45.296407+00:00"
+    },
+    "f60a87021076bac9": {
+      "title": "当世界发现，反抗特朗普也可以是一个选择",
+      "fetched_at": "2026-08-26T06:27:45.903080+00:00"
+    },
+    "4fcfc37ca40e7287": {
+      "title": "伊朗战争凸显中国能源战略奏效",
+      "fetched_at": "2026-08-26T06:27:46.495802+00:00"
+    },
+    "c287b5a114766347": {
+      "title": "中国抨击美国对伊朗制裁行动，称将捍卫自身利益",
+      "fetched_at": "2026-08-26T06:27:47.083501+00:00"
+    },
+    "65d28d60e0e10a0d": {
+      "title": "艺术家高兟因创作讽刺毛泽东雕塑获刑三年",
+      "fetched_at": "2026-08-26T06:27:47.683897+00:00"
+    },
+    "38a8421f8555e6b6": {
+      "title": "先天黑色素細胞痣：「皮膚使我獨一無二，我正學習接納它。」",
+      "fetched_at": "2026-08-26T06:27:48.371934+00:00"
+    },
+    "b7b63cacd77db69f": {
+      "title": "那些显示你正在变老的“奇怪”迹象",
+      "fetched_at": "2026-08-26T06:27:49.022995+00:00"
+    },
+    "83ec84d8f5f4f46f": {
+      "title": "智谱AI新人工智能模型再次引发网络安全争论",
+      "fetched_at": "2026-08-26T06:27:49.617324+00:00"
+    },
+    "a5b8c7269c361c97": {
+      "title": "Your genes may decide whether a low-carb diet sends cholesterol soaring",
+      "fetched_at": "2026-08-26T06:30:46.810757+00:00"
+    },
+    "e5e8c6298d7eb038": {
+      "title": "Three forgotten kings could rewrite the history of ancient Assyria",
+      "fetched_at": "2026-08-26T06:30:47.404627+00:00"
+    },
+    "9299d586771b1789": {
+      "title": "Your brain may not actually “make” decisions",
+      "fetched_at": "2026-08-26T06:30:48.141456+00:00"
+    },
+    "2910ef45111efadf": {
+      "title": "Forces deep inside Earth helped Antarctica freeze before the Arctic",
+      "fetched_at": "2026-08-26T06:30:48.746291+00:00"
+    },
+    "b4ab6d6945fad69c": {
+      "title": "Do you think social media bans will protect children?",
+      "fetched_at": "2026-08-26T06:30:49.357513+00:00"
+    },
+    "c1a6dfe5d30a1ba9": {
+      "title": "The 'real Indiana Jones' who found an ancient, lost city of the Incas",
+      "fetched_at": "2026-08-26T06:30:49.956944+00:00"
+    },
+    "a1ee8a739e73878a": {
+      "title": "Human ancestors may have almost died out after ancient population crash (2023)",
+      "fetched_at": "2026-08-26T06:30:50.559460+00:00"
     }
   },
-  "last_updated": "2026-08-26T00:36:59.747323+00:00"
+  "last_updated": "2026-08-26T06:30:50.628948+00:00"
 }
