@@ -1,117 +1,5 @@
 {
   "articles": {
-    "ff456460476c98a7": {
-      "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
-      "fetched_at": "2026-08-19T00:35:09.414009+00:00"
-    },
-    "35d7f43215fe3b9c": {
-      "title": "Show HN: Monity.ai – Get notified when any website changes",
-      "fetched_at": "2026-08-19T00:35:09.983838+00:00"
-    },
-    "ec6ba6f06f2bde1e": {
-      "title": "How to tame AI's voracious appetite for energy",
-      "fetched_at": "2026-08-19T00:35:10.542023+00:00"
-    },
-    "32f6a1f7c4d8a0b9": {
-      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
-      "fetched_at": "2026-08-19T00:35:11.108532+00:00"
-    },
-    "5b727f0fbffaafec": {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "fetched_at": "2026-08-19T00:35:11.672758+00:00"
-    },
-    "7e1595a48ccf5830": {
-      "title": "Ask HN: How should I price an AI infrastructure platform?",
-      "fetched_at": "2026-08-19T00:35:12.238558+00:00"
-    },
-    "7c6ac1be0ebea601": {
-      "title": "Unitree Robotics IPO: \"Embodied AI\" Valuation Bubble?",
-      "fetched_at": "2026-08-19T00:35:12.822925+00:00"
-    },
-    "c25b5e0e9e755994": {
-      "title": "My AI Agents Ship Code While I Sleep. Nobody Reviews It",
-      "fetched_at": "2026-08-19T00:35:13.423920+00:00"
-    },
-    "32d41f310522aa72": {
-      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
-      "fetched_at": "2026-08-19T00:35:13.989783+00:00"
-    },
-    "6bc977202c2b4f77": {
-      "title": "AI-drafted bills are swamping the House office that writes US laws",
-      "fetched_at": "2026-08-19T00:35:14.559355+00:00"
-    },
-    "0eb969f53978b8d5": {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "fetched_at": "2026-08-19T00:35:15.127343+00:00"
-    },
-    "561c25a2e7bffe07": {
-      "title": "GPT-5.6 Sol: 70% off in Devin",
-      "fetched_at": "2026-08-19T00:35:15.698977+00:00"
-    },
-    "67b28d73bd93945d": {
-      "title": "Tail: A 0–5 scale for how much AI wrote this",
-      "fetched_at": "2026-08-19T00:35:16.271945+00:00"
-    },
-    "58ab5c55a52be539": {
-      "title": "AI usage patterns in software teams",
-      "fetched_at": "2026-08-19T00:35:16.837414+00:00"
-    },
-    "21be408f042b6b51": {
-      "title": "Silicon Valley's AI boom is remaking American charity",
-      "fetched_at": "2026-08-19T00:35:17.486093+00:00"
-    },
-    "56a24775f84f3368": {
-      "title": "Show HN: HashNotch – Premium AI Integrated Dynamic Island for the Mac OS",
-      "fetched_at": "2026-08-19T00:35:18.050855+00:00"
-    },
-    "24b57791a324de9b": {
-      "title": "Google Moves A2A Under Agentic AI Foundation",
-      "fetched_at": "2026-08-19T00:35:18.612777+00:00"
-    },
-    "67dfb77d289cef69": {
-      "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
-      "fetched_at": "2026-08-19T00:35:19.171346+00:00"
-    },
-    "6ff814ede643aa83": {
-      "title": "Fact check: How do I spot AI-generated images?",
-      "fetched_at": "2026-08-19T00:35:19.743497+00:00"
-    },
-    "0b317fd9bc4d632d": {
-      "title": "AI detection tools are proliferating. Here's why they won't last.",
-      "fetched_at": "2026-08-19T00:35:20.321663+00:00"
-    },
-    "208e07d397627ae2": {
-      "title": "專門減肥藥能否提升運動員表現？",
-      "fetched_at": "2026-08-19T00:35:23.453468+00:00"
-    },
-    "f8e34b115153d5c6": {
-      "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
-      "fetched_at": "2026-08-19T00:35:24.017920+00:00"
-    },
-    "6d7888c25697f514": {
-      "title": "朱鎔基火化：從民間悼念到八寶山，中國領導人「身後事」的政治邏輯",
-      "fetched_at": "2026-08-19T00:35:24.582487+00:00"
-    },
-    "dbaa6d06ae5f6703": {
-      "title": "An Ancient Poop Explosion Could Have Helped Complex Life Evolve",
-      "fetched_at": "2026-08-19T00:35:34.252058+00:00"
-    },
-    "a3b78a51011e3afd": {
-      "title": "Body found at bottom of Scottish well may be from rare ritual burial performed centuries ago",
-      "fetched_at": "2026-08-19T00:35:34.811002+00:00"
-    },
-    "600aba0ee7f64dce": {
-      "title": "Peptides are the latest wellness fad. What are they, and are they safe?",
-      "fetched_at": "2026-08-19T00:35:35.370217+00:00"
-    },
-    "1f4c78e08d44ec64": {
-      "title": "VANT – a fashion discovery app for finding what you see",
-      "fetched_at": "2026-08-19T00:35:35.942447+00:00"
-    },
-    "746245259e96c192": {
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "fetched_at": "2026-08-19T00:35:36.500138+00:00"
-    },
     "19c80e04ddbe2e4a": {
       "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
       "fetched_at": "2026-08-19T06:23:31.148377+00:00"
@@ -3311,7 +3199,163 @@
     "20cd0250bec8aef1": {
       "title": "Giant underwater plume blasts into swirling cloud 'street' in the East China Sea — Earth from space",
       "fetched_at": "2026-08-26T19:29:24.113690+00:00"
+    },
+    "1e39a7c75ffa920d": {
+      "title": "Ask HN: Would you pay for an AI API that guarantees zero prompt retention?",
+      "fetched_at": "2026-08-27T05:34:36.936187+00:00"
+    },
+    "8d6fec6c885d2126": {
+      "title": "Show HN: AI chat app build specifically for kids (howcomet.com)",
+      "fetched_at": "2026-08-27T05:34:37.556712+00:00"
+    },
+    "b1704044eff90706": {
+      "title": "Interviewing in the Age of AI",
+      "fetched_at": "2026-08-27T05:34:38.175979+00:00"
+    },
+    "f8904915395881d3": {
+      "title": "First patient to undergo live AI-assisted brain surgery has tumour removed",
+      "fetched_at": "2026-08-27T05:34:38.798536+00:00"
+    },
+    "4837575fecfb7223": {
+      "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+      "fetched_at": "2026-08-27T05:34:39.415458+00:00"
+    },
+    "b2bd6bc4970bcb7c": {
+      "title": "How researchers are teaching AI to learn like a child",
+      "fetched_at": "2026-08-27T05:34:40.034007+00:00"
+    },
+    "8d2d02d7e6ab49cf": {
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "fetched_at": "2026-08-27T05:34:40.655390+00:00"
+    },
+    "e8c6bee806a79265": {
+      "title": "AI agents meant to replace Meta workers made \"large-scale, disruptive actions\"",
+      "fetched_at": "2026-08-27T05:34:41.363482+00:00"
+    },
+    "cf09448a214673fc": {
+      "title": "Reading Is Not Using: Retrieval, Judgment, and AI Financial Research",
+      "fetched_at": "2026-08-27T05:34:41.978804+00:00"
+    },
+    "4a3199e80206aa7a": {
+      "title": "AI Lessons from Driving 200M Autonomous Miles",
+      "fetched_at": "2026-08-27T05:34:42.604347+00:00"
+    },
+    "f41631dc2dbb2bae": {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "fetched_at": "2026-08-27T05:34:43.236913+00:00"
+    },
+    "2171340ba3dc956b": {
+      "title": "How I design with AI as an engineer who is not a designer and hates slop",
+      "fetched_at": "2026-08-27T05:34:43.883152+00:00"
+    },
+    "174d06e0c110646f": {
+      "title": "S1: In-Context Learning for Robotics",
+      "fetched_at": "2026-08-27T05:34:44.498966+00:00"
+    },
+    "5e0ad1baeb6667f7": {
+      "title": "Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up",
+      "fetched_at": "2026-08-27T05:34:45.120869+00:00"
+    },
+    "542fdb0ef6c3cb82": {
+      "title": "We run stateful AI agents on a serverless infra",
+      "fetched_at": "2026-08-27T05:34:45.746459+00:00"
+    },
+    "b46ae3ab3d9670ea": {
+      "title": "PaaS IaaS GaaS all in one. And 2 AI models",
+      "fetched_at": "2026-08-27T05:34:46.367068+00:00"
+    },
+    "a3cecf935cc695a7": {
+      "title": "Physical AI Is Enabled by Mechanical Hardware",
+      "fetched_at": "2026-08-27T05:34:46.995964+00:00"
+    },
+    "a6514b5fc44488f9": {
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "fetched_at": "2026-08-27T05:34:47.615644+00:00"
+    },
+    "2ccc624d3a5652a8": {
+      "title": "Moonshot AI in Talks with Microsoft, Amazon, Google over K3 Revenue Sharing",
+      "fetched_at": "2026-08-27T05:34:48.236618+00:00"
+    },
+    "68a7652cd0a0c7d8": {
+      "title": "Debian weighs eight options in vote on LLM usage",
+      "fetched_at": "2026-08-27T05:34:48.869859+00:00"
+    },
+    "de224ecd73b2715a": {
+      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
+      "fetched_at": "2026-08-27T05:34:51.668289+00:00"
+    },
+    "181b15db49ce8964": {
+      "title": "社交媒体成瘾诉讼：Meta以最高171亿美元达成和解",
+      "fetched_at": "2026-08-27T05:34:52.283714+00:00"
+    },
+    "6e43395888508811": {
+      "title": "黑暗历史的回响：韩国国家民主纪念馆背后的创伤与反思",
+      "fetched_at": "2026-08-27T05:34:52.900429+00:00"
+    },
+    "14f101fc0e5211c9": {
+      "title": "尼泊尔与中国边境山洪暴发，数百人失踪",
+      "fetched_at": "2026-08-27T05:34:53.528333+00:00"
+    },
+    "84ac04f566d9bf6b": {
+      "title": "中国人为何热情拥抱人工智能？",
+      "fetched_at": "2026-08-27T05:34:54.160610+00:00"
+    },
+    "e4dcf9e909762bad": {
+      "title": "《奥德赛》：每一帧都充满激情的诺兰巨作",
+      "fetched_at": "2026-08-27T05:34:54.776644+00:00"
+    },
+    "bbcb76bd0c2d7b67": {
+      "title": "第三次世界大战已经爆发了吗？",
+      "fetched_at": "2026-08-27T05:34:55.397050+00:00"
+    },
+    "e60c4959ff6fd49c": {
+      "title": "這些藥物讓人更難以應對高溫",
+      "fetched_at": "2026-08-27T05:34:56.032665+00:00"
+    },
+    "ddcf6905531e8136": {
+      "title": "特斯拉為何捲入中國大規模汽車召回風波？",
+      "fetched_at": "2026-08-27T05:34:56.692725+00:00"
+    },
+    "094f67c5fd4b0c92": {
+      "title": "视频与卫星图像揭示尼泊尔山洪有多致命",
+      "fetched_at": "2026-08-27T05:34:57.318939+00:00"
+    },
+    "05d1dcaabe772c08": {
+      "title": "Show HN: Historical daily weather for any US ZIP code Python Package",
+      "fetched_at": "2026-08-27T05:35:00.971330+00:00"
+    },
+    "c75fe05f2ff459c3": {
+      "title": "Compromising Signal's Contact Discovery Enclave",
+      "fetched_at": "2026-08-27T05:35:01.591641+00:00"
+    },
+    "5c10665d1df8b5cf": {
+      "title": "Major League Archaeology",
+      "fetched_at": "2026-08-27T05:35:02.205567+00:00"
+    },
+    "9270f18f1b911655": {
+      "title": "Project TUPPU: Students of the ancient Near East quickly discover that many OSs",
+      "fetched_at": "2026-08-27T05:35:02.821588+00:00"
+    },
+    "58535e9c4f8ad67e": {
+      "title": "Why Do Ancient Human Brains Not Always Rot",
+      "fetched_at": "2026-08-27T05:35:03.453750+00:00"
+    },
+    "dc701a2ed94ea858": {
+      "title": "Neanderthals may have trekked through the Saudi Arabian desert 55,000 years ago, farther south than experts thought possible",
+      "fetched_at": "2026-08-27T05:35:04.073055+00:00"
+    },
+    "160f5ba21c5f4514": {
+      "title": "'Beyond human intuition': AI designs chip components 500 times smaller than what engineers could ever imagine",
+      "fetched_at": "2026-08-27T05:35:04.710627+00:00"
+    },
+    "afad445849ca18f0": {
+      "title": "The pace of climate change matters more than overall heat in the race to save key Atlantic currents, study finds",
+      "fetched_at": "2026-08-27T05:35:05.339783+00:00"
+    },
+    "7e7a06a2d4885a9f": {
+      "title": "'They don't deserve this beauty and this breathtaking fragility': Former Antarctic tour guides told researchers why they quit the troubling industry",
+      "fetched_at": "2026-08-27T05:35:05.961573+00:00"
     }
   },
-  "last_updated": "2026-08-26T19:29:24.208057+00:00"
+  "last_updated": "2026-08-27T05:35:06.028005+00:00"
 }
