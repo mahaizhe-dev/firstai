@@ -1,201 +1,5 @@
 {
   "articles": {
-    "53b489376df6ee7e": {
-      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
-      "fetched_at": "2026-08-20T06:24:25.428552+00:00"
-    },
-    "a870a2caf10a3309": {
-      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
-      "fetched_at": "2026-08-20T06:24:26.015786+00:00"
-    },
-    "ce446284af805b7c": {
-      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-      "fetched_at": "2026-08-20T06:24:26.595933+00:00"
-    },
-    "2e6925031c4c4084": {
-      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
-      "fetched_at": "2026-08-20T06:24:27.178832+00:00"
-    },
-    "422616d8add1ab45": {
-      "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
-      "fetched_at": "2026-08-20T06:24:27.757098+00:00"
-    },
-    "7cc4cb1c7b03aa4d": {
-      "title": "App+1 | 让任务栏更有用：WindowSill",
-      "fetched_at": "2026-08-20T06:24:28.341525+00:00"
-    },
-    "17bc925ee4bb7ac7": {
-      "title": "7月音乐精选：夏天赠予我们的 9 张专辑",
-      "fetched_at": "2026-08-20T06:24:28.918346+00:00"
-    },
-    "d78a269117a96aa6": {
-      "title": "台灣為何此刻提出「鞭刑入法」公投？",
-      "fetched_at": "2026-08-20T06:24:30.915360+00:00"
-    },
-    "3ff9c74cd33b0eb4": {
-      "title": "美国债务突破40万亿美元，借贷狂潮继续",
-      "fetched_at": "2026-08-20T06:24:31.513350+00:00"
-    },
-    "d054b01bb2d847cb": {
-      "title": "哈里王子和梅根打算遷回英國，但這會長久嗎？",
-      "fetched_at": "2026-08-20T06:24:32.092277+00:00"
-    },
-    "c9b432b3a90be090": {
-      "title": "前福奇顾问承认试图隐瞒与新冠起源相关的记录",
-      "fetched_at": "2026-08-20T06:24:32.675385+00:00"
-    },
-    "14ebced71f5fa4f0": {
-      "title": "中国首次实现火箭陆地回收",
-      "fetched_at": "2026-08-20T06:24:33.251108+00:00"
-    },
-    "83e93f167223c652": {
-      "title": "朝鲜回应特朗普缩减美韩军演规模：“对我们毫无吸引力”",
-      "fetched_at": "2026-08-20T06:24:33.831399+00:00"
-    },
-    "541192aa4e472fc8": {
-      "title": "欧洲加大对前沿技术投资，能否与美中抗衡？",
-      "fetched_at": "2026-08-20T06:24:34.412668+00:00"
-    },
-    "5237b20bda41edc1": {
-      "title": "《牛來》爆紅：觀眾、導演與電影業者解讀「粗糙」動畫的意外狂歡",
-      "fetched_at": "2026-08-20T06:24:34.986692+00:00"
-    },
-    "37b4dbbc71390b11": {
-      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
-      "fetched_at": "2026-08-20T06:24:37.257640+00:00"
-    },
-    "dd6688adf6e9bf9c": {
-      "title": "Researchers reveal deeper workings of brain’s information hub",
-      "fetched_at": "2026-08-20T06:24:37.839602+00:00"
-    },
-    "885492e93918fd8b": {
-      "title": "Gen-1.5 In-Context Learning",
-      "fetched_at": "2026-08-20T12:23:02.956913+00:00"
-    },
-    "de685d53b25cb5d5": {
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "fetched_at": "2026-08-20T12:23:03.574848+00:00"
-    },
-    "d60e8f35288f89b1": {
-      "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
-      "fetched_at": "2026-08-20T12:23:04.195740+00:00"
-    },
-    "aacab6c496924f07": {
-      "title": "Google's AI photoscanner can determine body fat through selfies",
-      "fetched_at": "2026-08-20T12:23:04.806621+00:00"
-    },
-    "4e5febe9aa9338af": {
-      "title": "Ask HN: What AI automations have you kept running in production?",
-      "fetched_at": "2026-08-20T12:23:05.433189+00:00"
-    },
-    "67d17805b40b17a8": {
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "fetched_at": "2026-08-20T12:23:06.027707+00:00"
-    },
-    "5975d52efb445770": {
-      "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
-      "fetched_at": "2026-08-20T12:23:06.636028+00:00"
-    },
-    "00e5a01c4556e02f": {
-      "title": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
-      "fetched_at": "2026-08-20T12:23:07.239899+00:00"
-    },
-    "4ff579ab35f7a167": {
-      "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "fetched_at": "2026-08-20T12:23:07.861490+00:00"
-    },
-    "75d406a8c0dd9624": {
-      "title": "Show HN: Try Sequo to manage your AI context",
-      "fetched_at": "2026-08-20T12:23:08.479268+00:00"
-    },
-    "48b8c220fc160637": {
-      "title": "The first AI agents hire human to ship ugc videos for you",
-      "fetched_at": "2026-08-20T12:23:09.099877+00:00"
-    },
-    "92bf7fbf72f2a7ba": {
-      "title": "DDD matters more when AI writes your code",
-      "fetched_at": "2026-08-20T12:23:09.711915+00:00"
-    },
-    "02be8143b633e863": {
-      "title": "How to Outsmart AI When It's Tracking Your Workday",
-      "fetched_at": "2026-08-20T12:23:10.333711+00:00"
-    },
-    "ba58a2fb32a58064": {
-      "title": "AI fired an S.F. store employee. Will California crack down on 'robobosses'?",
-      "fetched_at": "2026-08-20T12:23:10.946939+00:00"
-    },
-    "58c64799eefd29c3": {
-      "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
-      "fetched_at": "2026-08-20T12:23:11.556225+00:00"
-    },
-    "9a2a7a41fe8611ee": {
-      "title": "Don't paste the AI, please (angry way)",
-      "fetched_at": "2026-08-20T12:23:12.159628+00:00"
-    },
-    "0ddb403a5c245852": {
-      "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
-      "fetched_at": "2026-08-20T12:23:12.770780+00:00"
-    },
-    "1cf87d17a143bfee": {
-      "title": "Structural Predictions for the AI Era",
-      "fetched_at": "2026-08-20T12:23:13.382387+00:00"
-    },
-    "b6dc816e55a9741e": {
-      "title": "Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit",
-      "fetched_at": "2026-08-20T12:23:14.008381+00:00"
-    },
-    "91f49808da70d47e": {
-      "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
-      "fetched_at": "2026-08-20T12:23:14.617778+00:00"
-    },
-    "809f5bb3ebcc673b": {
-      "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
-      "fetched_at": "2026-08-20T12:23:17.057815+00:00"
-    },
-    "6314a251afb87318": {
-      "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
-      "fetched_at": "2026-08-20T12:23:17.667858+00:00"
-    },
-    "f853a32874ddf585": {
-      "title": "恒大创始人许家印被判无期徒刑",
-      "fetched_at": "2026-08-20T12:23:18.282099+00:00"
-    },
-    "43c5d6fc8e5d0bfb": {
-      "title": "经济悲观情绪蔓延，中国农民工文学引发共鸣",
-      "fetched_at": "2026-08-20T12:23:18.894231+00:00"
-    },
-    "ef12ebbe930d3f47": {
-      "title": "太陽前所未有的清晰：迄今最詳細的觀測影像曝光",
-      "fetched_at": "2026-08-20T12:23:19.507252+00:00"
-    },
-    "756782a8518d9de9": {
-      "title": "Secret 'messages' in cat pee let felines identify each other — and scientists just cracked the code",
-      "fetched_at": "2026-08-20T12:23:28.364899+00:00"
-    },
-    "f215244684f2122d": {
-      "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
-      "fetched_at": "2026-08-20T12:23:28.968083+00:00"
-    },
-    "a6c5f6375bba8263": {
-      "title": "Scientists say the human family tree may need a major rewrite",
-      "fetched_at": "2026-08-20T12:23:29.577856+00:00"
-    },
-    "7da4169dabbc9185": {
-      "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
-      "fetched_at": "2026-08-20T12:23:30.184360+00:00"
-    },
-    "2a2d13fc502e56ea": {
-      "title": "The Shadow Work Journal: A Guided Journey to Self-Discovery and Healing",
-      "fetched_at": "2026-08-20T12:23:30.804403+00:00"
-    },
-    "fde5985309e94984": {
-      "title": "A SpaceX rocket smashed into the Moon — NASA just revealed the crater",
-      "fetched_at": "2026-08-20T12:23:31.421902+00:00"
-    },
-    "b0d3c7de548ae948": {
-      "title": "This total solar eclipse looked strangely golden — here’s why",
-      "fetched_at": "2026-08-20T12:23:32.037613+00:00"
-    },
     "d615d53f92f09019": {
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "fetched_at": "2026-08-20T18:21:08.818037+00:00"
@@ -3159,7 +2963,207 @@
     "600aba0ee7f64dce": {
       "title": "Peptides are the latest wellness fad. What are they, and are they safe?",
       "fetched_at": "2026-08-28T01:52:28.024414+00:00"
+    },
+    "9b6f92a5e415b586": {
+      "title": "Ask HN: AI writes better code than me. How to keep my identity?",
+      "fetched_at": "2026-08-28T17:50:18.086149+00:00"
+    },
+    "74dd9af96d4c7c32": {
+      "title": "LibreOffice 26.8 is out – local first, and with no AI",
+      "fetched_at": "2026-08-28T17:50:18.711256+00:00"
+    },
+    "c724c8fc7afe1725": {
+      "title": "A History of the AI Incident-O-Pocalypse in B-Movie Horror Posters",
+      "fetched_at": "2026-08-28T17:50:19.325972+00:00"
+    },
+    "a653294a0dcd962d": {
+      "title": "Songs created by AI banned from Australia's music charts",
+      "fetched_at": "2026-08-28T17:50:19.950770+00:00"
+    },
+    "dd2adab7dce0fc90": {
+      "title": "Fellow Vim users help me build aeovim a better way to handle AI CLI",
+      "fetched_at": "2026-08-28T17:50:20.582249+00:00"
+    },
+    "51f4371c253b4b5e": {
+      "title": "I Design with AI",
+      "fetched_at": "2026-08-28T17:50:21.203335+00:00"
+    },
+    "79c8e76f2024f6b5": {
+      "title": "Show HN: Watermarks Remover: Clean LLM watermarks from text and files",
+      "fetched_at": "2026-08-28T17:50:21.841964+00:00"
+    },
+    "d5dba7b40186a027": {
+      "title": "The Machine Age Fund – Andreessen Horowitz",
+      "fetched_at": "2026-08-28T17:50:22.461451+00:00"
+    },
+    "c95975a6657a3aa9": {
+      "title": "Show HN: ContextSwitch – Make your LLM chats provider agnostic",
+      "fetched_at": "2026-08-28T17:50:23.074987+00:00"
+    },
+    "d8131a874d487e45": {
+      "title": "SambaNova's SN50 RDU for AI at Hot Chips 2026 – ServeTheHome",
+      "fetched_at": "2026-08-28T17:50:23.701818+00:00"
+    },
+    "f134ded8e8d3b6f0": {
+      "title": "Does the Rise of AI Mean the End of the IT Era?",
+      "fetched_at": "2026-08-28T17:50:24.330262+00:00"
+    },
+    "c80741a92e7f9825": {
+      "title": "America's safety net isn't ready for the age of AI",
+      "fetched_at": "2026-08-28T17:50:24.947328+00:00"
+    },
+    "e3a896e6350e2ad6": {
+      "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
+      "fetched_at": "2026-08-28T17:50:25.570180+00:00"
+    },
+    "44c3f70d49302395": {
+      "title": "Beagle: Now with readable README.md (built with AI, heads up)",
+      "fetched_at": "2026-08-28T17:50:26.181690+00:00"
+    },
+    "8b3d13b6814604ee": {
+      "title": "Show HN: Open tool for testing your AI Agents (No LLM)",
+      "fetched_at": "2026-08-28T17:50:26.803252+00:00"
+    },
+    "07479365054f117b": {
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "fetched_at": "2026-08-28T17:50:27.420914+00:00"
+    },
+    "f05e4e304206bca5": {
+      "title": "Show HN: URML – safety-eval harness for AI agents on lab and factory hardware",
+      "fetched_at": "2026-08-28T17:50:28.039355+00:00"
+    },
+    "c3f85245a2641d7d": {
+      "title": "AI GPUs probably live longer than three years",
+      "fetched_at": "2026-08-28T17:50:28.655472+00:00"
+    },
+    "2993435f2b689656": {
+      "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
+      "fetched_at": "2026-08-28T17:50:29.273095+00:00"
+    },
+    "dda615ee13cbcafb": {
+      "title": "Veritas – The AI-Powered Compliance Tracker for Global Startups",
+      "fetched_at": "2026-08-28T17:50:29.887337+00:00"
+    },
+    "58e763785d28d732": {
+      "title": "尼泊爾—西藏泥石流：逾2000人遇難或失聯，中國總理赴前線意味著什麼？",
+      "fetched_at": "2026-08-28T17:50:32.115797+00:00"
+    },
+    "b782f2cbd31bf39f": {
+      "title": "「因古老而安全」：為何舊技術有時更能防範黑客攻擊？",
+      "fetched_at": "2026-08-28T17:50:32.732981+00:00"
+    },
+    "6902fbb0d11ebf65": {
+      "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
+      "fetched_at": "2026-08-28T17:50:33.351742+00:00"
+    },
+    "b2dce43e87e6ea3c": {
+      "title": "追溯西藏尼泊爾致命山洪如何發生",
+      "fetched_at": "2026-08-28T17:50:33.971229+00:00"
+    },
+    "7b26c6244c299573": {
+      "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
+      "fetched_at": "2026-08-28T17:50:34.597783+00:00"
+    },
+    "6c468c88b96847c5": {
+      "title": "「在我眼中它就是黃金」：香港捲起卡牌熱，一張卡如何從遊戲工具變資產？",
+      "fetched_at": "2026-08-28T17:50:35.217870+00:00"
+    },
+    "ca4d58a432303993": {
+      "title": "中情局局长为何秘密访问莫斯科",
+      "fetched_at": "2026-08-28T17:50:35.835279+00:00"
+    },
+    "5fb3fd27d5c218ea": {
+      "title": "气候变化加剧喜马拉雅地区致命灾害风险",
+      "fetched_at": "2026-08-28T17:50:36.449965+00:00"
+    },
+    "2c8f485e8c901111": {
+      "title": "美加贸易战，中国坐收渔利",
+      "fetched_at": "2026-08-28T17:50:37.076358+00:00"
+    },
+    "aa3e24c2d99c9fd9": {
+      "title": "女性罵髒話很低劣嗎？莫迪批評言論引燃印度「蟑螂人民黨」示威後續辯論",
+      "fetched_at": "2026-08-28T17:50:37.709608+00:00"
+    },
+    "99e0d45439882128": {
+      "title": "香港卡牌熱潮：一張卡如何從遊戲變資產成為「紙上黃金」？",
+      "fetched_at": "2026-08-28T17:50:38.327009+00:00"
+    },
+    "79425cd3fdb4bf6e": {
+      "title": "“一转眼就被吞没了”：幸存者讲述尼泊尔山洪恐怖场景",
+      "fetched_at": "2026-08-28T17:50:39.039781+00:00"
+    },
+    "3e4637cb0eb231a8": {
+      "title": "比尔·盖茨：科技行业刻意淡化人工智能风险",
+      "fetched_at": "2026-08-28T17:50:39.660501+00:00"
+    },
+    "a315948f866e48cf": {
+      "title": "“波点女王”草间弥生逝世：拓展艺术疆界的波普先锋",
+      "fetched_at": "2026-08-28T17:50:40.279283+00:00"
+    },
+    "42dbcd348a925fd3": {
+      "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
+      "fetched_at": "2026-08-28T17:50:40.899144+00:00"
+    },
+    "1b84050f0515aa5a": {
+      "title": "The popular diabetes drug metformin has been used for decades — and scientists just figured out its main mechanism",
+      "fetched_at": "2026-08-28T17:50:42.654422+00:00"
+    },
+    "0e8ccfc737ea4711": {
+      "title": "The Meta settlement is a start, but it's not enough to create real change — that's what we need to focus on now",
+      "fetched_at": "2026-08-28T17:50:43.297231+00:00"
+    },
+    "c50cdd46e80f2cce": {
+      "title": "Scientists invent a gel that creates neurons from other cells, which could help treat Alzheimer's",
+      "fetched_at": "2026-08-28T17:50:43.908717+00:00"
+    },
+    "2b5a6fbc400af9f9": {
+      "title": "Experimental eye drops help blind mice see again",
+      "fetched_at": "2026-08-28T17:50:44.534737+00:00"
+    },
+    "30a165c691d32ba6": {
+      "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+      "fetched_at": "2026-08-28T17:50:45.154115+00:00"
+    },
+    "c6e1e080c1ec2d6b": {
+      "title": "Chimpanzees have been hurling rocks at the same trees for more than a decade",
+      "fetched_at": "2026-08-28T17:50:45.773274+00:00"
+    },
+    "e1a6efcd5e115290": {
+      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
+      "fetched_at": "2026-08-28T17:50:46.384593+00:00"
+    },
+    "c669fac8e5ba613e": {
+      "title": "Scientists tracked 4,500 animals and found a surprising human effect",
+      "fetched_at": "2026-08-28T17:50:47.008801+00:00"
+    },
+    "2b229ac1c5cf9dc9": {
+      "title": "Why scientists asked 1,000 people to bury their underwear",
+      "fetched_at": "2026-08-28T17:50:47.622001+00:00"
+    },
+    "39259e8b24cc1b05": {
+      "title": "Scientists find a huge hidden ice reservoir beneath Utah’s mountains",
+      "fetched_at": "2026-08-28T17:50:48.240282+00:00"
+    },
+    "d191f726cc135810": {
+      "title": "IBM's new 'quantum fridges' are nearly 200 times colder than deep space and could pave the way for fault-tolerant quantum computing",
+      "fetched_at": "2026-08-28T17:50:48.853285+00:00"
+    },
+    "a57452439586a5c4": {
+      "title": "'I'm not sure how such a law could be enforced': Readers react to a possible social media ban for children",
+      "fetched_at": "2026-08-28T17:50:49.465965+00:00"
+    },
+    "da63f0bca0c1399a": {
+      "title": "Scientists just discovered a big limitation in lab-grown minibrains — they have a skewed 'sense of time'",
+      "fetched_at": "2026-08-28T17:50:50.190923+00:00"
+    },
+    "a9cd1e6362854a34": {
+      "title": "Astronomers spot the closest, fastest star ever seen orbiting our galaxy's monster black hole",
+      "fetched_at": "2026-08-28T17:50:50.815219+00:00"
+    },
+    "e684b8717429434f": {
+      "title": "Out-of-control SpaceX rocket carved a 60-foot crater into the moon, NASA images reveal",
+      "fetched_at": "2026-08-28T17:50:51.428252+00:00"
     }
   },
-  "last_updated": "2026-08-28T01:52:28.094397+00:00"
+  "last_updated": "2026-08-28T17:50:51.527840+00:00"
 }
