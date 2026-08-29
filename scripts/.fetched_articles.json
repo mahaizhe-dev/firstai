@@ -1,105 +1,5 @@
 {
   "articles": {
-    "e987e307f6267a9a": {
-      "title": "Talk. It types. Anywhere on your phone. $9.www.airtxt.ai",
-      "fetched_at": "2026-08-21T18:20:18.685545+00:00"
-    },
-    "a7795f528c6673a7": {
-      "title": "The Chaos Machine – Prediction markets and the triumph of crypto-anarchy",
-      "fetched_at": "2026-08-21T18:20:19.317765+00:00"
-    },
-    "766e89704826a9b2": {
-      "title": "Openly Synthetic: Building an accountable AI newsroom in the age of covert ones",
-      "fetched_at": "2026-08-21T18:20:19.952268+00:00"
-    },
-    "0ddc71a6e940478e": {
-      "title": "Git Might Be the Best Message Forum for AI Agents",
-      "fetched_at": "2026-08-21T18:20:20.586249+00:00"
-    },
-    "d736b5cfc2f92897": {
-      "title": "The puzzling case of Britain's young people and what they think of AI",
-      "fetched_at": "2026-08-21T18:20:21.201522+00:00"
-    },
-    "45d05948456b2dac": {
-      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
-      "fetched_at": "2026-08-21T18:20:21.808788+00:00"
-    },
-    "d84ada8d130a3bf6": {
-      "title": "IO Factory: Simulating AI-Enabled Influence Campaigns at Scale",
-      "fetched_at": "2026-08-21T18:20:22.425612+00:00"
-    },
-    "9505beeb6f6f7172": {
-      "title": "Staggering 90% of biomedical papers now show signs of AI help",
-      "fetched_at": "2026-08-21T18:20:23.046265+00:00"
-    },
-    "6915a33ffc6baf2e": {
-      "title": "Ask HN: Should we stop \"correcting\" AI writing so it improves English for us?",
-      "fetched_at": "2026-08-21T18:20:23.665827+00:00"
-    },
-    "e985538f6d1614b2": {
-      "title": "A Zero-Trust Social Network for AI Agents, Backed by Git",
-      "fetched_at": "2026-08-21T18:20:24.299437+00:00"
-    },
-    "1aa4256356b01773": {
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "fetched_at": "2026-08-21T18:20:24.916428+00:00"
-    },
-    "5b4e03ce200b9fb3": {
-      "title": "Where Security Fits in an AI Agent Stack",
-      "fetched_at": "2026-08-21T18:20:25.531812+00:00"
-    },
-    "79c049972cad0511": {
-      "title": "Why your infrastructure is more important than the next LLM release",
-      "fetched_at": "2026-08-21T18:20:26.147758+00:00"
-    },
-    "65358b39b45764d8": {
-      "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
-      "fetched_at": "2026-08-21T18:20:26.759835+00:00"
-    },
-    "217df5d238f232f3": {
-      "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
-      "fetched_at": "2026-08-21T18:20:27.378657+00:00"
-    },
-    "4fc03e33d756301e": {
-      "title": "Show HN: Roastme.gg – Pay to get publicly roasted by AI",
-      "fetched_at": "2026-08-21T18:20:27.990923+00:00"
-    },
-    "9e2003e8e3a1c8bc": {
-      "title": "Show HN: Caspian – Talk to Human Tool for AI Agents",
-      "fetched_at": "2026-08-21T18:20:28.635555+00:00"
-    },
-    "db09f9d2e8b0c786": {
-      "title": "Show HN: Whodunit? Solve a daily AI-written Mystery",
-      "fetched_at": "2026-08-21T18:20:29.252907+00:00"
-    },
-    "68b6f11552394e6a": {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "fetched_at": "2026-08-21T18:20:29.871187+00:00"
-    },
-    "4b3cfbeabcacabab": {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "fetched_at": "2026-08-21T18:20:30.500880+00:00"
-    },
-    "a614879ccc34c9fe": {
-      "title": "「結束一黨專政」：為何令支聯會煽動顛覆政權罪成？",
-      "fetched_at": "2026-08-21T18:20:32.731914+00:00"
-    },
-    "5fbcfa8bd07566e6": {
-      "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
-      "fetched_at": "2026-08-21T18:20:33.348742+00:00"
-    },
-    "ad72f748d478a85a": {
-      "title": "Natufian Hunters May Have Consumed Reptiles",
-      "fetched_at": "2026-08-21T18:20:38.442328+00:00"
-    },
-    "c87ff84fb652de37": {
-      "title": "Scientists finally know why astronauts struggle to poop in space — and reveal a hidden risk of long-haul spaceflight",
-      "fetched_at": "2026-08-21T18:20:39.074901+00:00"
-    },
-    "f3bfe34b362a5418": {
-      "title": "Have your say: Would you trust a humanoid robot with your household chores?",
-      "fetched_at": "2026-08-21T18:20:39.688977+00:00"
-    },
     "775dfec420043d6f": {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "fetched_at": "2026-08-22T00:34:28.558881+00:00"
@@ -3015,7 +2915,99 @@
     "2057ba68424ed7fc": {
       "title": "1,400-year-old skeleton found in underground channel in Peru may have belonged to human sacrifice victim",
       "fetched_at": "2026-08-29T15:54:27.709536+00:00"
+    },
+    "6653584f97583c8e": {
+      "title": "Slop.speak – translate human speak to AI slop",
+      "fetched_at": "2026-08-29T20:06:51.957438+00:00"
+    },
+    "3e3a16c4b4d2159d": {
+      "title": "AI and the Commons",
+      "fetched_at": "2026-08-29T20:06:52.585080+00:00"
+    },
+    "e544c5b438eb64e3": {
+      "title": "Should the press \"run toward\" AI?",
+      "fetched_at": "2026-08-29T20:06:53.208011+00:00"
+    },
+    "349a3e024b51e280": {
+      "title": "All-in-one AI job search platform, resume to offer",
+      "fetched_at": "2026-08-29T20:06:53.842688+00:00"
+    },
+    "b15f68d2c6dd1157": {
+      "title": "An infinite and interactive AI generated live stream of slop",
+      "fetched_at": "2026-08-29T20:06:54.481902+00:00"
+    },
+    "a633291f6ddd6858": {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "fetched_at": "2026-08-29T20:06:55.103791+00:00"
+    },
+    "f9226021afb0319e": {
+      "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+      "fetched_at": "2026-08-29T20:06:55.735801+00:00"
+    },
+    "a4f2d676474823b8": {
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "fetched_at": "2026-08-29T20:06:56.401962+00:00"
+    },
+    "72a39eb622ccd0ab": {
+      "title": "AI Revives a Dead Sleep Company",
+      "fetched_at": "2026-08-29T20:06:57.013874+00:00"
+    },
+    "b0f71f550258edf0": {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "fetched_at": "2026-08-29T20:06:57.622448+00:00"
+    },
+    "76d4de38fc021e84": {
+      "title": "AI Models – Political Compass",
+      "fetched_at": "2026-08-29T20:06:58.239347+00:00"
+    },
+    "69690648ca7315ee": {
+      "title": "A local scrubber for text you're about to send to an LLM",
+      "fetched_at": "2026-08-29T20:06:58.868497+00:00"
+    },
+    "677fc3f6c6989a6d": {
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "fetched_at": "2026-08-29T20:06:59.494897+00:00"
+    },
+    "f85e4479a8466622": {
+      "title": "Is the LLM smart or are you not?",
+      "fetched_at": "2026-08-29T20:07:00.125555+00:00"
+    },
+    "f6621f78095f3f98": {
+      "title": "AI reconstructs first Bundesliga goal from 1963",
+      "fetched_at": "2026-08-29T20:07:00.743656+00:00"
+    },
+    "dd81cc717d7564b5": {
+      "title": "Raised on AI",
+      "fetched_at": "2026-08-29T20:07:01.361655+00:00"
+    },
+    "687641a31a558d26": {
+      "title": "I hate AI images and music",
+      "fetched_at": "2026-08-29T20:07:01.984796+00:00"
+    },
+    "9c3f831326d23347": {
+      "title": "I Built a Headless Browser for AI Agents in Rust. No Chromium, No V8",
+      "fetched_at": "2026-08-29T20:07:02.615128+00:00"
+    },
+    "87b8119e4da5a063": {
+      "title": "Three mistakes of new AI teams",
+      "fetched_at": "2026-08-29T20:07:02.615251+00:00"
+    },
+    "d910b045124d5e98": {
+      "title": "The growing divide between AI hype and software engineering reality",
+      "fetched_at": "2026-08-29T20:07:03.254053+00:00"
+    },
+    "42f7b46446082825": {
+      "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
+      "fetched_at": "2026-08-29T20:07:05.548572+00:00"
+    },
+    "a8771103177dc81b": {
+      "title": "「蟑螂人民黨」的崛起：印度Z世代到底在抗議什麼？",
+      "fetched_at": "2026-08-29T20:07:06.160861+00:00"
+    },
+    "c0b5ab567d85d17f": {
+      "title": "Meet the scientists 3D printing corneas to restore people's vision, potentially filling a worldwide shortage of transplantable tissue",
+      "fetched_at": "2026-08-29T20:07:08.082137+00:00"
     }
   },
-  "last_updated": "2026-08-29T15:54:27.753801+00:00"
+  "last_updated": "2026-08-29T20:07:08.188416+00:00"
 }
