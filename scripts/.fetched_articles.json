@@ -1,217 +1,5 @@
 {
   "articles": {
-    "d615d53f92f09019": {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "fetched_at": "2026-08-20T18:21:08.818037+00:00"
-    },
-    "de4c1edceea083f7": {
-      "title": "Are you good at AI, or just using it?",
-      "fetched_at": "2026-08-20T18:21:09.424923+00:00"
-    },
-    "d85648fe41c7004c": {
-      "title": "Hola AI Agent",
-      "fetched_at": "2026-08-20T18:21:10.051348+00:00"
-    },
-    "2e8f840c2909bd16": {
-      "title": "Route the Work, Not Just the Data: GPUs, CPUs, and the Rise of AI-Native Storage",
-      "fetched_at": "2026-08-20T18:21:10.669316+00:00"
-    },
-    "26072fa74a6a5839": {
-      "title": "Grok keeps sending gibberish responses to users",
-      "fetched_at": "2026-08-20T18:21:11.289830+00:00"
-    },
-    "c5cc5e838298c8ef": {
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "fetched_at": "2026-08-20T18:21:11.898266+00:00"
-    },
-    "71b966e1beb8df67": {
-      "title": "How Persona AI Makes Humanoids Pay Off in Welding",
-      "fetched_at": "2026-08-20T18:21:12.503013+00:00"
-    },
-    "10af5a3293760997": {
-      "title": "Debates over AI consciousness are a trap",
-      "fetched_at": "2026-08-20T18:21:13.112120+00:00"
-    },
-    "7df2c897cdd12cb5": {
-      "title": "The Women in China choosing AI boyfriends over human men",
-      "fetched_at": "2026-08-20T18:21:13.722642+00:00"
-    },
-    "35bf0b3a6701f9d4": {
-      "title": "AI at Home Part 2: Multi-GPU Drifting",
-      "fetched_at": "2026-08-20T18:21:14.345837+00:00"
-    },
-    "b1741cfb44c6d559": {
-      "title": "Japan to require AI firms to disclose training data",
-      "fetched_at": "2026-08-20T18:21:14.986809+00:00"
-    },
-    "bfe8c2e04b6359fe": {
-      "title": "Show HN: Future Crew's 1993 Second Reality, rebuilt by AI agents, no emulation",
-      "fetched_at": "2026-08-20T18:21:15.597340+00:00"
-    },
-    "0fd641e28a4f7b6d": {
-      "title": "Ramp launches its own AI model router, called Router",
-      "fetched_at": "2026-08-20T18:21:16.222598+00:00"
-    },
-    "9972fb0362778477": {
-      "title": "AI Agent Governance – a free book on AI Agent evaluation and governance",
-      "fetched_at": "2026-08-20T18:21:16.833863+00:00"
-    },
-    "a52be81dca160983": {
-      "title": "Show HN: Building Table Canon, an AI Campaign Memory Engine for TTRPGs",
-      "fetched_at": "2026-08-20T18:21:17.443722+00:00"
-    },
-    "555bbb3465988022": {
-      "title": "Ask HN: When AI models use harnesses who liable between model/harness/user?",
-      "fetched_at": "2026-08-20T18:21:18.046259+00:00"
-    },
-    "b7a37a188ba97a4c": {
-      "title": "Agent Applications: A Reference Architecture for AI Agent Systems",
-      "fetched_at": "2026-08-20T18:21:18.662036+00:00"
-    },
-    "8fc7baa2668f9292": {
-      "title": "AI for science needs reasoning, not just data – Eric Schmidt and Suhas Mahesh",
-      "fetched_at": "2026-08-20T18:21:19.287171+00:00"
-    },
-    "c6c9d2f202a980d5": {
-      "title": "I'm done coding with AI [video]",
-      "fetched_at": "2026-08-20T18:21:19.894968+00:00"
-    },
-    "93c93bb1e06e1b2e": {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "fetched_at": "2026-08-20T18:21:20.512807+00:00"
-    },
-    "285348efbb2550bb": {
-      "title": "'This is not the outcome we were working towards': $30 million mission to save NASA's Swift telescope fails",
-      "fetched_at": "2026-08-20T18:21:24.537501+00:00"
-    },
-    "5e821c8eb8b100dd": {
-      "title": "Dwellings Detected Near Monuments at Göbekli Tepe",
-      "fetched_at": "2026-08-20T18:21:25.169101+00:00"
-    },
-    "611a66dc7fc1561e": {
-      "title": "Climate change will triple the number of days over 105 F in the US. The health impacts will be dire.",
-      "fetched_at": "2026-08-20T18:21:25.790375+00:00"
-    },
-    "9e6183b218770b66": {
-      "title": "Black hole star? Solar-system-size 'dot' from the early universe is our best evidence yet of a brand-new type of cosmic object",
-      "fetched_at": "2026-08-20T18:21:26.410163+00:00"
-    },
-    "128682a3da3f84de": {
-      "title": "Cave sanctuary in Spain has highest number of Latin inscriptions anywhere in the Roman Empire — and many of them mention mysterious 'Lady'",
-      "fetched_at": "2026-08-20T18:21:27.028913+00:00"
-    },
-    "fe9975abf5780f6d": {
-      "title": "Mini 'arteries-on-a-chip' could help predict a person's risk of stroke",
-      "fetched_at": "2026-08-20T18:21:27.652429+00:00"
-    },
-    "2057ba68424ed7fc": {
-      "title": "1,400-year-old skeleton found in underground channel in Peru may have belonged to human sacrifice victim",
-      "fetched_at": "2026-08-20T18:21:28.259591+00:00"
-    },
-    "903742629d345326": {
-      "title": "How A Texas student blew the whistle on a rogue AI hacking attempt",
-      "fetched_at": "2026-08-21T00:37:12.985697+00:00"
-    },
-    "7ec39631d2e177f2": {
-      "title": "Copyright does not protect AI-generated content in EU",
-      "fetched_at": "2026-08-21T00:37:13.576971+00:00"
-    },
-    "583e2ca003858201": {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "fetched_at": "2026-08-21T00:37:14.182081+00:00"
-    },
-    "0ceee662dc6023a4": {
-      "title": "Ask HN: Is building military hardware and healthcare the AI-proof?",
-      "fetched_at": "2026-08-21T00:37:14.768643+00:00"
-    },
-    "3614f0a737210447": {
-      "title": "AI's 'middle class' has gotten dramatically better at hacking",
-      "fetched_at": "2026-08-21T00:37:15.349038+00:00"
-    },
-    "8b6644ad94d0ff43": {
-      "title": "The AI Debate Is About Control, Not AI",
-      "fetched_at": "2026-08-21T00:37:15.932122+00:00"
-    },
-    "64971c8c3ec3de28": {
-      "title": "We replaced our 223-node agent graph with a single open-source LLM",
-      "fetched_at": "2026-08-21T00:37:16.527138+00:00"
-    },
-    "22ba570873b89e47": {
-      "title": "Show HN: AI tools with real pricing, submitted in 30 seconds",
-      "fetched_at": "2026-08-21T00:37:17.133969+00:00"
-    },
-    "f34d1ff877faa871": {
-      "title": "AI #182: Pause for Reflection",
-      "fetched_at": "2026-08-21T00:37:17.719145+00:00"
-    },
-    "4855b4184df5bd09": {
-      "title": "BTP v2.2 – An open, offline cryptographic trust protocol for AI agents",
-      "fetched_at": "2026-08-21T00:37:18.294865+00:00"
-    },
-    "61a14c7bf7c6525a": {
-      "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
-      "fetched_at": "2026-08-21T00:37:18.880903+00:00"
-    },
-    "f8e0fd4f010676a5": {
-      "title": "OpenCyvis: An open-source AI phone agent that runs your own LLM",
-      "fetched_at": "2026-08-21T00:37:19.472305+00:00"
-    },
-    "c8b9a3fa433c89d9": {
-      "title": "Intelligent AI Delegation",
-      "fetched_at": "2026-08-21T00:37:20.055806+00:00"
-    },
-    "75ff4411f34f2607": {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "fetched_at": "2026-08-21T00:37:20.637914+00:00"
-    },
-    "2c8309e8a9e22991": {
-      "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
-      "fetched_at": "2026-08-21T00:37:21.215445+00:00"
-    },
-    "bf3e2bfd59df0c41": {
-      "title": "Results from the Backblaze Generative AI Media Hackathon",
-      "fetched_at": "2026-08-21T00:37:21.790589+00:00"
-    },
-    "42b83e3da2c78066": {
-      "title": "Why the Future of AI Belongs to Systems That Can Self-Learn",
-      "fetched_at": "2026-08-21T00:37:22.472904+00:00"
-    },
-    "587b0092ff5ffc3b": {
-      "title": "Show HN: Zero () friction local AI for Mac",
-      "fetched_at": "2026-08-21T00:37:23.201120+00:00"
-    },
-    "251bd527dace8bef": {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "fetched_at": "2026-08-21T00:37:23.871488+00:00"
-    },
-    "a1d949f0f5a63a37": {
-      "title": "Browser automation agents with Pydantic AI and Playwright",
-      "fetched_at": "2026-08-21T00:37:24.469489+00:00"
-    },
-    "3a16facd5d3ef2b6": {
-      "title": "她辭掉了8萬英鎊年薪工作去做冰淇淋，然後造出了爆款",
-      "fetched_at": "2026-08-21T00:37:26.678195+00:00"
-    },
-    "9d376011690970ef": {
-      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
-      "fetched_at": "2026-08-21T00:37:27.266866+00:00"
-    },
-    "620477c8ddb03d46": {
-      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
-      "fetched_at": "2026-08-21T00:37:27.928740+00:00"
-    },
-    "d372a1c322ed67c1": {
-      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
-      "fetched_at": "2026-08-21T00:37:28.513154+00:00"
-    },
-    "daf31e1be09d946b": {
-      "title": "Iron Smelting Site Discovered in Northern England",
-      "fetched_at": "2026-08-21T00:37:46.903352+00:00"
-    },
-    "6f6dee7490e53d9b": {
-      "title": "Human Remains Found at Peruvian Pyramid Site",
-      "fetched_at": "2026-08-21T00:37:47.487688+00:00"
-    },
     "78ba5bcd5f9de381": {
       "title": "Schooling Has a Meaning Crisis. Paradoxically, AI Can Help",
       "fetched_at": "2026-08-21T06:25:32.677930+00:00"
@@ -3163,7 +2951,87 @@
     "e684b8717429434f": {
       "title": "Out-of-control SpaceX rocket carved a 60-foot crater into the moon, NASA images reveal",
       "fetched_at": "2026-08-28T17:50:51.428252+00:00"
+    },
+    "fc10afb247c74bfa": {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "fetched_at": "2026-08-29T01:16:12.658103+00:00"
+    },
+    "16b26d76f181b5b0": {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "fetched_at": "2026-08-29T01:16:13.267600+00:00"
+    },
+    "08e7af17d1282fb3": {
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "fetched_at": "2026-08-29T01:16:13.899708+00:00"
+    },
+    "27f983bdf55439a4": {
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "fetched_at": "2026-08-29T01:16:14.518474+00:00"
+    },
+    "e6511461645521f6": {
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "fetched_at": "2026-08-29T01:16:15.142477+00:00"
+    },
+    "5b4deb4415041ab7": {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "fetched_at": "2026-08-29T01:16:15.142605+00:00"
+    },
+    "9160457162c1000a": {
+      "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+      "fetched_at": "2026-08-29T01:16:15.755234+00:00"
+    },
+    "88824d3fd3df7e30": {
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "fetched_at": "2026-08-29T01:16:16.371823+00:00"
+    },
+    "9251c9747b074c65": {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "fetched_at": "2026-08-29T01:16:16.984693+00:00"
+    },
+    "b7acf7ec21c60354": {
+      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+      "fetched_at": "2026-08-29T01:16:17.607803+00:00"
+    },
+    "359062bf9d1016ec": {
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "fetched_at": "2026-08-29T01:16:18.228586+00:00"
+    },
+    "2f6ee57a507d407e": {
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "fetched_at": "2026-08-29T01:16:18.845902+00:00"
+    },
+    "1c427ef7a0317363": {
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "fetched_at": "2026-08-29T01:16:19.466741+00:00"
+    },
+    "5f2dfe56a4647db9": {
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "fetched_at": "2026-08-29T01:16:20.180284+00:00"
+    },
+    "809f5bb3ebcc673b": {
+      "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
+      "fetched_at": "2026-08-29T01:16:22.322162+00:00"
+    },
+    "a21ff040448436d5": {
+      "title": "Strange 'hobbit' species walked more like us than like 'Lucy,' hip bones reveal",
+      "fetched_at": "2026-08-29T01:16:24.786193+00:00"
+    },
+    "42e604dc727247af": {
+      "title": "Proteins in Ancient Egyptian Paints Analyzed",
+      "fetched_at": "2026-08-29T01:16:25.417985+00:00"
+    },
+    "a3214486a81df3c3": {
+      "title": "Possible Port Identified Near Submerged Etruscan Temple",
+      "fetched_at": "2026-08-29T01:16:26.050451+00:00"
+    },
+    "fb8fbfa976f8c323": {
+      "title": "Ancient Flower Mural Discovered in Uzbekistan",
+      "fetched_at": "2026-08-29T01:16:26.681822+00:00"
+    },
+    "756782a8518d9de9": {
+      "title": "Secret 'messages' in cat pee let felines identify each other — and scientists just cracked the code",
+      "fetched_at": "2026-08-29T01:16:27.293024+00:00"
     }
   },
-  "last_updated": "2026-08-28T17:50:51.527840+00:00"
+  "last_updated": "2026-08-29T01:16:27.373515+00:00"
 }
