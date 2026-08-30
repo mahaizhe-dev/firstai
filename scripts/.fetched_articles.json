@@ -1,113 +1,5 @@
 {
   "articles": {
-    "a57aaad90fe8ccbc": {
-      "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
-      "fetched_at": "2026-08-22T06:19:38.430367+00:00"
-    },
-    "1af173df8998a2b5": {
-      "title": "Ask HN: What is the evidence for a stock market bubble in AI?",
-      "fetched_at": "2026-08-22T06:19:39.055125+00:00"
-    },
-    "c6be0865d33fc544": {
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "fetched_at": "2026-08-22T06:19:39.723728+00:00"
-    },
-    "7de0774f52821fa6": {
-      "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
-      "fetched_at": "2026-08-22T06:19:40.333072+00:00"
-    },
-    "1ac7d2b574f77acc": {
-      "title": "Void Tools API – Blockchain Tools for AI Agents (Pay in Void Tokens)",
-      "fetched_at": "2026-08-22T06:19:40.949748+00:00"
-    },
-    "0c01fe302efa4e9c": {
-      "title": "GPT 5.6 Sol 20% price reduction",
-      "fetched_at": "2026-08-22T06:19:41.568686+00:00"
-    },
-    "e6ec17c75b0dae4a": {
-      "title": "Getting Freaky in the Age of AI",
-      "fetched_at": "2026-08-22T06:19:42.184109+00:00"
-    },
-    "874c5684271ff406": {
-      "title": "Linus: And this was a debug session from hell, enormously helped by an AI",
-      "fetched_at": "2026-08-22T06:19:42.816041+00:00"
-    },
-    "482b26aa8cee4267": {
-      "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
-      "fetched_at": "2026-08-22T06:19:43.421227+00:00"
-    },
-    "25fd110b9d5558fe": {
-      "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
-      "fetched_at": "2026-08-22T06:19:44.034366+00:00"
-    },
-    "8e05951f88af2dc7": {
-      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
-      "fetched_at": "2026-08-22T06:19:44.643958+00:00"
-    },
-    "8a5a146f536ca832": {
-      "title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
-      "fetched_at": "2026-08-22T06:19:45.255761+00:00"
-    },
-    "c80c7c48d40b8812": {
-      "title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
-      "fetched_at": "2026-08-22T06:19:45.863652+00:00"
-    },
-    "7f48b7eff723717e": {
-      "title": "Obsession with AI",
-      "fetched_at": "2026-08-22T06:19:46.482060+00:00"
-    },
-    "6bec537816e0c94c": {
-      "title": "HydroGym: A Reinforcement Learning Platform for Fluid Dynamics [video]",
-      "fetched_at": "2026-08-22T06:19:47.096833+00:00"
-    },
-    "f1eff89cedf7101f": {
-      "title": "20% price reduction for GPT 5.6 Sol",
-      "fetched_at": "2026-08-22T06:19:47.720861+00:00"
-    },
-    "5db60391596b3509": {
-      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-      "fetched_at": "2026-08-22T06:19:48.331752+00:00"
-    },
-    "b9f856dd1e9f1a5d": {
-      "title": "In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI",
-      "fetched_at": "2026-08-22T06:19:48.941590+00:00"
-    },
-    "f7ca409496beec86": {
-      "title": "Show HN: Updating my wedding registry website with AI in 275 commits",
-      "fetched_at": "2026-08-22T06:19:49.571755+00:00"
-    },
-    "0070cf57517d4a90": {
-      "title": "Ox Alpha Is Performing SOTA and as Well as GPT-5.6 Sol in Multi-Agent Arena",
-      "fetched_at": "2026-08-22T06:19:50.184482+00:00"
-    },
-    "8c5b00f20b89b7a5": {
-      "title": "'They basically used these dried-up wells just to throw people in': 43 skeletons found in Roman-era well may be evidence of deadly plague",
-      "fetched_at": "2026-08-22T06:19:53.637868+00:00"
-    },
-    "c2af46afebcb926e": {
-      "title": "New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'",
-      "fetched_at": "2026-08-22T06:19:54.252706+00:00"
-    },
-    "eda46b232cbf415c": {
-      "title": "James Webb telescope just spotted the oldest, closest pair of black holes in the early universe",
-      "fetched_at": "2026-08-22T06:19:54.872860+00:00"
-    },
-    "76dfaf156c708c9e": {
-      "title": "Foodborne illnesses: Is the US really being hit harder this year?",
-      "fetched_at": "2026-08-22T06:19:55.490113+00:00"
-    },
-    "d5da645c9050b3df": {
-      "title": "Mars may have been losing its water more than 4 billion years ago, oldest-known Martian meteorite suggests",
-      "fetched_at": "2026-08-22T06:19:56.106419+00:00"
-    },
-    "88fb3f98db2a5e6a": {
-      "title": "Mammal ancestors may have given live birth 90 million years earlier than we thought, rewriting evolutionary timelines",
-      "fetched_at": "2026-08-22T06:19:56.724339+00:00"
-    },
-    "54e58690846ab2d9": {
-      "title": "Pigs wearing heated diving suits and diapers reveal a better way to beat 'the bends'",
-      "fetched_at": "2026-08-22T06:19:57.362700+00:00"
-    },
     "ba3cf44d5349fc61": {
       "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
       "fetched_at": "2026-08-22T12:17:00.719735+00:00"
@@ -2955,7 +2847,123 @@
     "f3bfe34b362a5418": {
       "title": "Have your say: Would you trust a humanoid robot with your household chores?",
       "fetched_at": "2026-08-30T02:13:00.310502+00:00"
+    },
+    "3997901ba4d10d92": {
+      "title": "Show HN: Get your free AI search visibility scan",
+      "fetched_at": "2026-08-30T10:51:59.762201+00:00"
+    },
+    "9f3c1f1ff7830f48": {
+      "title": "Tja – TUI for learning German verbs in your terminal, one-armed-bandit style",
+      "fetched_at": "2026-08-30T10:52:00.401408+00:00"
+    },
+    "363bdb94e93c1b76": {
+      "title": "Only believe what you can validate: a verification framework for agentic AI",
+      "fetched_at": "2026-08-30T10:52:01.038987+00:00"
+    },
+    "30c39fba1718f60b": {
+      "title": "VibeGuard – security linter for AI-generated code",
+      "fetched_at": "2026-08-30T10:52:01.665854+00:00"
+    },
+    "852e273e0c876243": {
+      "title": "Observations Around Prominent Programmer Sentiment and AI",
+      "fetched_at": "2026-08-30T10:52:02.290260+00:00"
+    },
+    "64ab29d480ad5044": {
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "fetched_at": "2026-08-30T10:52:02.924138+00:00"
+    },
+    "d615b54b0a4cf156": {
+      "title": "What We Tell AI",
+      "fetched_at": "2026-08-30T10:52:03.547179+00:00"
+    },
+    "001931a7dc187061": {
+      "title": "We built this after an AI agent misread a risk signal and moved $1.2M in trades",
+      "fetched_at": "2026-08-30T10:52:04.175460+00:00"
+    },
+    "a68e5d7ae20b69e4": {
+      "title": "Nvidia's AI advantage is moving beyond the GPU",
+      "fetched_at": "2026-08-30T10:52:04.175570+00:00"
+    },
+    "7959cb5834893705": {
+      "title": "Workers in their 40s, 50s and 60s are the most positive about AI",
+      "fetched_at": "2026-08-30T10:52:04.806234+00:00"
+    },
+    "db5f8e703ded0b33": {
+      "title": "General resolution: LLM usage in Debian: Results",
+      "fetched_at": "2026-08-30T10:52:05.434120+00:00"
+    },
+    "1baec4b21cabaff1": {
+      "title": "LLM Usage in Debian: General Resolution Results",
+      "fetched_at": "2026-08-30T10:52:06.053958+00:00"
+    },
+    "e6b33bca15bdb193": {
+      "title": "Deep Learning Is Not So Mysterious or Different",
+      "fetched_at": "2026-08-30T10:52:06.663463+00:00"
+    },
+    "07f5163e72a00d37": {
+      "title": "The AI Delegation Audit Webinar, October 6, 2026",
+      "fetched_at": "2026-08-30T10:52:07.371140+00:00"
+    },
+    "beff3c602ba82788": {
+      "title": "Gpt 5.6 Sol might be just a tad too proactive",
+      "fetched_at": "2026-08-30T10:52:07.997244+00:00"
+    },
+    "c96c5d1505f8620f": {
+      "title": "AI Effect",
+      "fetched_at": "2026-08-30T10:52:08.626876+00:00"
+    },
+    "ec87539703c2cbff": {
+      "title": "Google's Dreambeans, weirdest-named AI tool, will turn your life to a cartoon",
+      "fetched_at": "2026-08-30T10:52:09.258875+00:00"
+    },
+    "9b774fe7bc4a0297": {
+      "title": "Show HN: Photo Manager That Find and Organize Screenshots with Private, Local AI",
+      "fetched_at": "2026-08-30T10:52:09.894485+00:00"
+    },
+    "608d95f377ef502d": {
+      "title": "Hotline for AI Agents to Report Safety Incidents",
+      "fetched_at": "2026-08-30T10:52:10.597574+00:00"
+    },
+    "a024227acf95f8dc": {
+      "title": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营",
+      "fetched_at": "2026-08-30T10:52:11.243631+00:00"
+    },
+    "23513cecdccfbb51": {
+      "title": "洪災衝擊西藏口岸畫面未在中國播出，當地災民情況我們所知甚少",
+      "fetched_at": "2026-08-30T10:52:13.829336+00:00"
+    },
+    "8d541c56c195eeeb": {
+      "title": "澳洲每年上演全球最大型烏賊交配活動——今年盛況不再",
+      "fetched_at": "2026-08-30T10:52:14.454931+00:00"
+    },
+    "0276f2f31acc030a": {
+      "title": "中國：氣候變暖導致尼泊爾—西藏泥石流災難",
+      "fetched_at": "2026-08-30T10:52:15.077667+00:00"
+    },
+    "862dac0ee3f3b9eb": {
+      "title": "尼泊爾洪災：最新衛星圖像揭示村莊災情的嚴重程度",
+      "fetched_at": "2026-08-30T10:52:15.702236+00:00"
+    },
+    "7227d3e6724f0fb3": {
+      "title": "尼泊爾—西藏泥石流：中國總理赴前線意味著什麼？",
+      "fetched_at": "2026-08-30T10:52:16.333114+00:00"
+    },
+    "618dfea2014529a8": {
+      "title": "「在我眼中它就是黃金」：一張卡如何從遊戲工具變資產？",
+      "fetched_at": "2026-08-30T10:52:16.963958+00:00"
+    },
+    "e97ce1d01e1fc6aa": {
+      "title": "女性罵髒話很低劣嗎？莫迪言論引燃「蟑螂人民黨」後續辯論",
+      "fetched_at": "2026-08-30T10:52:17.603023+00:00"
+    },
+    "22301dd60b8d295b": {
+      "title": "Something doesn't add up in the Chandelier Cluster, Hubble telescope finds — Space photo of the week",
+      "fetched_at": "2026-08-30T10:52:20.779518+00:00"
+    },
+    "4ea0e9821593e90b": {
+      "title": "How many cosmic particles are passing through your body at any moment?",
+      "fetched_at": "2026-08-30T10:52:21.442898+00:00"
     }
   },
-  "last_updated": "2026-08-30T02:13:00.351676+00:00"
+  "last_updated": "2026-08-30T10:52:21.522811+00:00"
 }
