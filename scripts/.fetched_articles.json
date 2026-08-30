@@ -1,81 +1,5 @@
 {
   "articles": {
-    "775dfec420043d6f": {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "fetched_at": "2026-08-22T00:34:28.558881+00:00"
-    },
-    "b8691d63ed5e21b5": {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "fetched_at": "2026-08-22T00:34:29.153623+00:00"
-    },
-    "235c9d38c8d1ee00": {
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "fetched_at": "2026-08-22T00:34:29.749538+00:00"
-    },
-    "da90576cbb20c227": {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "fetched_at": "2026-08-22T00:34:30.317650+00:00"
-    },
-    "6266b5360624e93a": {
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "fetched_at": "2026-08-22T00:34:30.912725+00:00"
-    },
-    "5872b76cd00f9751": {
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "fetched_at": "2026-08-22T00:34:31.507932+00:00"
-    },
-    "472f5969301278df": {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "fetched_at": "2026-08-22T00:34:32.084076+00:00"
-    },
-    "cbc9463780472316": {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "fetched_at": "2026-08-22T00:34:32.669648+00:00"
-    },
-    "d1cc95132a0261bf": {
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "fetched_at": "2026-08-22T00:34:33.257429+00:00"
-    },
-    "6a9352ce9dee2463": {
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "fetched_at": "2026-08-22T00:34:33.839873+00:00"
-    },
-    "5e8ff53ded7647e5": {
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "fetched_at": "2026-08-22T00:34:34.428430+00:00"
-    },
-    "e745aa7d3cf6c3e5": {
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "fetched_at": "2026-08-22T00:34:35.023775+00:00"
-    },
-    "4fcf3daa0c75d8d9": {
-      "title": "Welcome to the AI crisis in math",
-      "fetched_at": "2026-08-22T00:34:35.599690+00:00"
-    },
-    "ccc4877e1f16758e": {
-      "title": "新玩意 249｜少数派的编辑们最近买了啥？",
-      "fetched_at": "2026-08-22T00:34:36.231396+00:00"
-    },
-    "5d95af8afb689d37": {
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "fetched_at": "2026-08-22T00:34:36.812518+00:00"
-    },
-    "9ec6305dcca35458": {
-      "title": "十年阅读历程，这是我的阅读工具推荐",
-      "fetched_at": "2026-08-22T00:34:37.392862+00:00"
-    },
-    "cb06bb2c969b47bb": {
-      "title": "Cold Pools Uncovered at Sanctuary Bathhouse",
-      "fetched_at": "2026-08-22T00:34:46.463047+00:00"
-    },
-    "b9de06c2406ee3b0": {
-      "title": "Buddha Statues Uncovered in Sri Lanka",
-      "fetched_at": "2026-08-22T00:34:47.037385+00:00"
-    },
-    "33d51e5730a4a047": {
-      "title": "Before we ban kids from social media completely, here's what we should try first",
-      "fetched_at": "2026-08-22T00:34:47.616402+00:00"
-    },
     "a57aaad90fe8ccbc": {
       "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
       "fetched_at": "2026-08-22T06:19:38.430367+00:00"
@@ -3007,7 +2931,31 @@
     "c0b5ab567d85d17f": {
       "title": "Meet the scientists 3D printing corneas to restore people's vision, potentially filling a worldwide shortage of transplantable tissue",
       "fetched_at": "2026-08-29T20:07:08.082137+00:00"
+    },
+    "c4bedd7400a2d4ed": {
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "fetched_at": "2026-08-30T02:12:53.350313+00:00"
+    },
+    "71c8114f0d766014": {
+      "title": "2026 烟灶选购指南",
+      "fetched_at": "2026-08-30T02:12:53.913792+00:00"
+    },
+    "90052eeb383d1b51": {
+      "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
+      "fetched_at": "2026-08-30T02:12:56.866181+00:00"
+    },
+    "a614879ccc34c9fe": {
+      "title": "「結束一黨專政」：為何令支聯會煽動顛覆政權罪成？",
+      "fetched_at": "2026-08-30T02:12:57.435891+00:00"
+    },
+    "c87ff84fb652de37": {
+      "title": "Scientists finally know why astronauts struggle to poop in space — and reveal a hidden risk of long-haul spaceflight",
+      "fetched_at": "2026-08-30T02:12:59.748828+00:00"
+    },
+    "f3bfe34b362a5418": {
+      "title": "Have your say: Would you trust a humanoid robot with your household chores?",
+      "fetched_at": "2026-08-30T02:13:00.310502+00:00"
     }
   },
-  "last_updated": "2026-08-29T20:07:08.188416+00:00"
+  "last_updated": "2026-08-30T02:13:00.351676+00:00"
 }
