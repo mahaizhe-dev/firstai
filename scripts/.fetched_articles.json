@@ -1,121 +1,5 @@
 {
   "articles": {
-    "4ea70012d08245bb": {
-      "title": "When AI art has no author: Generated images can't trace to training data (study)",
-      "fetched_at": "2026-08-22T18:13:07.550147+00:00"
-    },
-    "3e4eedd2124aedcd": {
-      "title": "Show HN: TechSkills – Open-source skill modules for AI coding agents",
-      "fetched_at": "2026-08-22T18:13:08.193823+00:00"
-    },
-    "3f9d06798c9edaca": {
-      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-      "fetched_at": "2026-08-22T18:13:08.838069+00:00"
-    },
-    "5be808966efa1f45": {
-      "title": "An iOS app that runs AI agents and a complete voice pipeline on the device",
-      "fetched_at": "2026-08-22T18:13:09.477496+00:00"
-    },
-    "51bedbf2b5e7a4a5": {
-      "title": "Show HN: Git workflow as an AI-agent skill",
-      "fetched_at": "2026-08-22T18:13:10.111348+00:00"
-    },
-    "4fe53c38c3aca24c": {
-      "title": "Show HN: I turned Apple-style scroll-video websites into a reusable AI skill",
-      "fetched_at": "2026-08-22T18:13:10.753175+00:00"
-    },
-    "21ccfa17915f1ba5": {
-      "title": "Hotcrp.com – AI agents and bot accounts",
-      "fetched_at": "2026-08-22T18:13:11.387085+00:00"
-    },
-    "d7b2299c81b37552": {
-      "title": "Show HN: Namo_complete: a non-obtrusive AI autocomplete for the bash terminal",
-      "fetched_at": "2026-08-22T18:13:12.008783+00:00"
-    },
-    "4f1b1afe049f22c6": {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "fetched_at": "2026-08-22T18:13:12.636069+00:00"
-    },
-    "41cfb6f84e9dc8c9": {
-      "title": "Ask HN: If you dislike AI, why don't you prove it?",
-      "fetched_at": "2026-08-22T18:13:13.270272+00:00"
-    },
-    "65e558c19109b8ef": {
-      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "fetched_at": "2026-08-22T18:13:13.904796+00:00"
-    },
-    "56cb1223ad8a2a83": {
-      "title": "Fintex on X: \"The Math of Why Bigger AI Keeps Getting Smarter (Scaling Laws)",
-      "fetched_at": "2026-08-22T18:13:14.537659+00:00"
-    },
-    "9e9557dadc25a0d4": {
-      "title": "AI and Chauffeur Knowledge",
-      "fetched_at": "2026-08-22T18:13:15.183954+00:00"
-    },
-    "5997d4c2422d67f7": {
-      "title": "Learning about \"The Unix Time-Sharing System\"",
-      "fetched_at": "2026-08-22T18:13:15.834326+00:00"
-    },
-    "4f3971a1ff559f93": {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "fetched_at": "2026-08-22T18:13:16.470121+00:00"
-    },
-    "8dcbfa5fe47adaed": {
-      "title": "Show HN: AI as Cognitive Gym Equipment",
-      "fetched_at": "2026-08-22T18:13:17.135928+00:00"
-    },
-    "57342a6621e79372": {
-      "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
-      "fetched_at": "2026-08-22T18:13:17.759179+00:00"
-    },
-    "2f69c1bf3b24ecc2": {
-      "title": "Show HN: Find and Organize Photos with Private, Local AI",
-      "fetched_at": "2026-08-22T18:13:18.402815+00:00"
-    },
-    "6211245c6f562a8a": {
-      "title": "Claude Watermarks AI-Generated Text",
-      "fetched_at": "2026-08-22T18:13:19.059100+00:00"
-    },
-    "ebe736998742db07": {
-      "title": "AI agents merged two dangers once kept separate: reach and judgment",
-      "fetched_at": "2026-08-22T18:13:19.687210+00:00"
-    },
-    "6a30a79c5bc90dca": {
-      "title": "美國稱數十國助中國避特朗普關稅",
-      "fetched_at": "2026-08-22T18:13:21.928428+00:00"
-    },
-    "054e3aa0ce383eea": {
-      "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
-      "fetched_at": "2026-08-22T18:13:22.574825+00:00"
-    },
-    "694ab39747dc3b43": {
-      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
-      "fetched_at": "2026-08-22T18:13:23.210948+00:00"
-    },
-    "91d48e3717b8f2ee": {
-      "title": "Archaeologists unearth a medieval nobleman buried with his horse and dog in a rare wooden tomb in Russia",
-      "fetched_at": "2026-08-22T18:13:39.608820+00:00"
-    },
-    "f7e93540cb8c2065": {
-      "title": "Multilingual people may have brains up to 13 years younger",
-      "fetched_at": "2026-08-22T18:13:40.238433+00:00"
-    },
-    "f6f7f1cdbca09224": {
-      "title": "JWST finds early galaxies may be 4 times more massive than thought",
-      "fetched_at": "2026-08-22T18:13:40.864344+00:00"
-    },
-    "def5965c4e72b9b5": {
-      "title": "This yeast supplement may boost cancer-fighting immunity",
-      "fetched_at": "2026-08-22T18:13:41.502257+00:00"
-    },
-    "58fbb34f36f33ec3": {
-      "title": "Queen bees have a disturbing way to survive pesticides",
-      "fetched_at": "2026-08-22T18:13:42.139814+00:00"
-    },
-    "1b112bcf9dcf6d41": {
-      "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
-      "fetched_at": "2026-08-22T18:13:42.771261+00:00"
-    },
     "b5b6494592b31140": {
       "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
       "fetched_at": "2026-08-23T00:37:46.023682+00:00"
@@ -2987,7 +2871,103 @@
     "b1d1e5504ae6d491": {
       "title": "A cancer therapy put severe rheumatoid arthritis into remission",
       "fetched_at": "2026-08-30T15:39:56.010141+00:00"
+    },
+    "2986eb8d2ef82e14": {
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "fetched_at": "2026-08-30T20:13:41.381630+00:00"
+    },
+    "98f3440285ac1f28": {
+      "title": "We tested how AI chatbots would handle foreign propaganda",
+      "fetched_at": "2026-08-30T20:13:41.962847+00:00"
+    },
+    "2d1cc276ac0e584e": {
+      "title": "Why shaming people about AI slop isn't enough to stop Big AI",
+      "fetched_at": "2026-08-30T20:13:42.546616+00:00"
+    },
+    "c1fbab5be196a7f7": {
+      "title": "GPT 5.6 has broken the record on large gaps between primes",
+      "fetched_at": "2026-08-30T20:13:43.132381+00:00"
+    },
+    "73b1f3566ca2bff0": {
+      "title": "Bootstrapping enables human-level concept learning in self-supervised models",
+      "fetched_at": "2026-08-30T20:13:43.803878+00:00"
+    },
+    "8c0fc26e8cc991ef": {
+      "title": "Scans of 400 handwritten notes about people's relationships with AI",
+      "fetched_at": "2026-08-30T20:13:44.395024+00:00"
+    },
+    "80bafbb54babea46": {
+      "title": "Experiments with AI – Structure of Third Party Agentic Apps",
+      "fetched_at": "2026-08-30T20:13:44.995739+00:00"
+    },
+    "58fa1e868040c2f1": {
+      "title": "Ask HN: AI for Home Lab Infra?",
+      "fetched_at": "2026-08-30T20:13:45.582327+00:00"
+    },
+    "a1d015094c8e74a6": {
+      "title": "Superhuman AI coding still makes software worse",
+      "fetched_at": "2026-08-30T20:13:46.161496+00:00"
+    },
+    "d93b0234699c2bb9": {
+      "title": "Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire",
+      "fetched_at": "2026-08-30T20:13:46.744896+00:00"
+    },
+    "24c2768bd825e201": {
+      "title": "Semantic invariance testing for AI (Contradish)",
+      "fetched_at": "2026-08-30T20:13:47.357045+00:00"
+    },
+    "a45a0e4e63242959": {
+      "title": "Show HN: Simurg open-source web search for AI agents that aborts hallucinations",
+      "fetched_at": "2026-08-30T20:13:47.944288+00:00"
+    },
+    "31b86ca1d19ba6ef": {
+      "title": "Creation, validation, obsolescence: AI-driven labor market displacement",
+      "fetched_at": "2026-08-30T20:13:48.524933+00:00"
+    },
+    "a7eb87b3e5c70f3a": {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "fetched_at": "2026-08-30T20:13:49.106443+00:00"
+    },
+    "cf427b5c15cddbc9": {
+      "title": "The LLM is not Intelligence",
+      "fetched_at": "2026-08-30T20:13:49.697904+00:00"
+    },
+    "5544346ce118376f": {
+      "title": "Fears of AI-induced armageddon are overdone",
+      "fetched_at": "2026-08-30T20:13:50.290007+00:00"
+    },
+    "c43422c87a4f4098": {
+      "title": "Show HN: Claude Skills Starter Kit – 198 modular skills for AI agents",
+      "fetched_at": "2026-08-30T20:13:50.869943+00:00"
+    },
+    "b1e6ea31b8f08272": {
+      "title": "Could AI revive the socialist dream?",
+      "fetched_at": "2026-08-30T20:13:51.481679+00:00"
+    },
+    "6e361ded7e699699": {
+      "title": "An 'old school' San Jose barber is now teaching robots to cut hair with AI",
+      "fetched_at": "2026-08-30T20:13:52.064843+00:00"
+    },
+    "1d5a0425cac78666": {
+      "title": "MIT AI Report Calls for Alternative Grading, More Social Learning",
+      "fetched_at": "2026-08-30T20:13:52.644188+00:00"
+    },
+    "5627b6c5c3dfdcf2": {
+      "title": "Ancient 'Who owns Linux?' case now has one foot deep in the grave",
+      "fetched_at": "2026-08-30T20:16:13.161811+00:00"
+    },
+    "07a124c580cfdcee": {
+      "title": "How would you know whether an ancient culture had zero?",
+      "fetched_at": "2026-08-30T20:16:13.736130+00:00"
+    },
+    "ed3454af003772cf": {
+      "title": "'The greatest unknown was how much energy would be released by the weapon': How scientists prepared for the Trinity nuclear test",
+      "fetched_at": "2026-08-30T20:16:14.314217+00:00"
+    },
+    "ea2c6318e9f68def": {
+      "title": "Does tapping on a soda can really stop it from exploding?",
+      "fetched_at": "2026-08-30T20:16:14.889110+00:00"
     }
   },
-  "last_updated": "2026-08-30T15:39:56.099670+00:00"
+  "last_updated": "2026-08-30T20:16:14.958557+00:00"
 }
