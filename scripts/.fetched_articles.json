@@ -1,225 +1,5 @@
 {
   "articles": {
-    "14326bb36f96e594": {
-      "title": "Show HN: Declarative, reproducible configuration materializer for AI agents",
-      "fetched_at": "2026-08-23T12:16:58.506688+00:00"
-    },
-    "4b3c55beb752a879": {
-      "title": "What do you think of AI website builders?",
-      "fetched_at": "2026-08-23T12:16:59.137652+00:00"
-    },
-    "1e0819a790169375": {
-      "title": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
-      "fetched_at": "2026-08-23T12:16:59.771291+00:00"
-    },
-    "fa7b7de96e58868c": {
-      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
-      "fetched_at": "2026-08-23T12:17:00.468415+00:00"
-    },
-    "a8bc34dde0d6238a": {
-      "title": "Why Einstein would fail today: The case for an automated AI Science Institute",
-      "fetched_at": "2026-08-23T12:17:01.104628+00:00"
-    },
-    "11bd488f62e91ab9": {
-      "title": "Publish to 15 social media channels using AI agents, free",
-      "fetched_at": "2026-08-23T12:17:01.735245+00:00"
-    },
-    "c3b6663f2b0a9f8a": {
-      "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
-      "fetched_at": "2026-08-23T12:17:02.358682+00:00"
-    },
-    "76c273b400277e9e": {
-      "title": "The search for consciousness inside AI",
-      "fetched_at": "2026-08-23T12:17:02.976317+00:00"
-    },
-    "fa35933f6d4851f7": {
-      "title": "'AI refuser' quit her dream job, and hopes others follow",
-      "fetched_at": "2026-08-23T12:17:03.605752+00:00"
-    },
-    "9a8bb11a7eb4d45b": {
-      "title": "AI datasets (2.6k entries) – automated collection, updated daily",
-      "fetched_at": "2026-08-23T12:17:04.227415+00:00"
-    },
-    "c2bee5cc1aae1018": {
-      "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
-      "fetched_at": "2026-08-23T12:17:04.873478+00:00"
-    },
-    "ad152173e4e188cf": {
-      "title": "Austrian mountain town [Leoben] finds niche in AI boom",
-      "fetched_at": "2026-08-23T12:17:05.493878+00:00"
-    },
-    "abf22da794655fe0": {
-      "title": "AI Writing Without the Slop",
-      "fetched_at": "2026-08-23T12:17:06.120428+00:00"
-    },
-    "6184e308bebe3f69": {
-      "title": "Show HN: Opensourcing Lemmaflow – A trust harness for AI-native apps",
-      "fetched_at": "2026-08-23T12:17:06.745468+00:00"
-    },
-    "c8fb2c7f7cdc021c": {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "fetched_at": "2026-08-23T12:17:07.454130+00:00"
-    },
-    "987f2d8c57ba0267": {
-      "title": "How Is AI Transforming Academic Search?",
-      "fetched_at": "2026-08-23T12:17:08.092796+00:00"
-    },
-    "07a2369895474237": {
-      "title": "Every Tech Bubble Obeyed the Same Rule. AI Is Next [video]",
-      "fetched_at": "2026-08-23T12:17:08.727801+00:00"
-    },
-    "ba09871e0f0d2ac3": {
-      "title": "Contextual News Search APIs: A Deep Comparison for AI, RAG, and Research",
-      "fetched_at": "2026-08-23T12:17:09.354053+00:00"
-    },
-    "eb9e4d1ff62d1b97": {
-      "title": "Wiring up seven ESP32s to create a ~0.4B LLM",
-      "fetched_at": "2026-08-23T12:17:09.967446+00:00"
-    },
-    "77def1b83777e5f1": {
-      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
-      "fetched_at": "2026-08-23T12:17:10.616644+00:00"
-    },
-    "8d86a71640fede6b": {
-      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
-      "fetched_at": "2026-08-23T12:17:14.111208+00:00"
-    },
-    "b268f7456a10b894": {
-      "title": "中國機器人打破人類百米短跑世界紀錄",
-      "fetched_at": "2026-08-23T12:17:14.734551+00:00"
-    },
-    "0740bd32a9de8aca": {
-      "title": "Why is AI going on a hacking spree?",
-      "fetched_at": "2026-08-23T12:17:17.168063+00:00"
-    },
-    "a4e601d94635bd24": {
-      "title": "'Starry Night' telescope photo captures some of the oldest stars in the universe — Space photo of the week",
-      "fetched_at": "2026-08-23T12:17:17.788310+00:00"
-    },
-    "5b8df733c5c76e0a": {
-      "title": "Do other animals call each other by name?",
-      "fetched_at": "2026-08-23T12:17:18.414958+00:00"
-    },
-    "4dc674c21a305673": {
-      "title": "Why your brain keeps making the same decisions – even when better options exist",
-      "fetched_at": "2026-08-23T12:17:19.055223+00:00"
-    },
-    "b6d8683b644cc4a2": {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "fetched_at": "2026-08-23T18:12:36.889400+00:00"
-    },
-    "cb5aa5520a455e19": {
-      "title": "Show HN: LAN Sheriff – watch which servers your machine talks to, live on a map",
-      "fetched_at": "2026-08-23T18:12:37.519640+00:00"
-    },
-    "0330f83bf4ddd238": {
-      "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
-      "fetched_at": "2026-08-23T18:12:38.153526+00:00"
-    },
-    "5f8fc54d42dd4172": {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "fetched_at": "2026-08-23T18:12:38.790644+00:00"
-    },
-    "05ef39130fd3a707": {
-      "title": "Oneiric, AI-generated, open source [video]",
-      "fetched_at": "2026-08-23T18:12:39.422591+00:00"
-    },
-    "c935bfc63109cefe": {
-      "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
-      "fetched_at": "2026-08-23T18:12:40.059298+00:00"
-    },
-    "1ac6b12d5a038233": {
-      "title": "I Shouldn't Need an LLM to Explain My LLM",
-      "fetched_at": "2026-08-23T18:12:40.716152+00:00"
-    },
-    "81e1485e6cea6fbc": {
-      "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
-      "fetched_at": "2026-08-23T18:12:41.354231+00:00"
-    },
-    "a680d7f237b5e435": {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "fetched_at": "2026-08-23T18:12:41.991617+00:00"
-    },
-    "66d62ce80889f840": {
-      "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
-      "fetched_at": "2026-08-23T18:12:42.641055+00:00"
-    },
-    "493b84ee86fa97cc": {
-      "title": "Show HN: Human-Machine Interface",
-      "fetched_at": "2026-08-23T18:12:43.362126+00:00"
-    },
-    "caaf8e2d0b531bec": {
-      "title": "Show HN: Froging AI – image and video models in one workflow",
-      "fetched_at": "2026-08-23T18:12:43.992409+00:00"
-    },
-    "cfa626bcd712eb28": {
-      "title": "Daimon – Local Privacy LLM",
-      "fetched_at": "2026-08-23T18:12:44.620348+00:00"
-    },
-    "e85e4c12afe9b8b8": {
-      "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
-      "fetched_at": "2026-08-23T18:12:45.256667+00:00"
-    },
-    "5472d8a10aebf8a3": {
-      "title": "Product Owner Interview Questions for the Age of AI",
-      "fetched_at": "2026-08-23T18:12:45.892102+00:00"
-    },
-    "1666b86187cd4007": {
-      "title": "Do LLM quants impact as much as we think?",
-      "fetched_at": "2026-08-23T18:12:46.526030+00:00"
-    },
-    "de6fda63c378177e": {
-      "title": "Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM",
-      "fetched_at": "2026-08-23T18:12:47.171447+00:00"
-    },
-    "65b113846ac646ba": {
-      "title": "泰國南部一夜50多起縱火 軍方稱為有組織搗亂",
-      "fetched_at": "2026-08-23T18:12:50.697875+00:00"
-    },
-    "5620629eb5d9ce53": {
-      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
-      "fetched_at": "2026-08-23T18:12:51.336027+00:00"
-    },
-    "926905cb94f4d3d9": {
-      "title": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
-      "fetched_at": "2026-08-23T18:12:54.174033+00:00"
-    },
-    "3c3bcec3bf4164e2": {
-      "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
-      "fetched_at": "2026-08-23T18:12:54.804160+00:00"
-    },
-    "a79a4de62c8abfb5": {
-      "title": "A hidden “on switch” in human DNA has finally been decoded",
-      "fetched_at": "2026-08-23T18:12:55.436162+00:00"
-    },
-    "c2675a05714cbc9f": {
-      "title": "Experimental compound helps burn fat without muscle loss",
-      "fetched_at": "2026-08-23T18:12:56.093944+00:00"
-    },
-    "753e43c901284bee": {
-      "title": "This common vitamin was linked to 13% better cognitive scores",
-      "fetched_at": "2026-08-23T18:12:56.738288+00:00"
-    },
-    "687419e36d3c6810": {
-      "title": "'A fine line between reducing stigma and trivialising conditions': Social media, self-diagnosis and the glamorization of ADHD",
-      "fetched_at": "2026-08-23T18:12:57.376469+00:00"
-    },
-    "05bb86199478bda5": {
-      "title": "Why do cats yowl?",
-      "fetched_at": "2026-08-23T18:12:58.012332+00:00"
-    },
-    "7a94d5bf7c82ec6c": {
-      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-      "fetched_at": "2026-08-23T18:12:58.645941+00:00"
-    },
-    "96a0fee2d79c21e4": {
-      "title": "Show HN: Biasly.ai – Bias detection with historical context",
-      "fetched_at": "2026-08-23T18:12:59.282014+00:00"
-    },
-    "5614fc8becc96e77": {
-      "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
-      "fetched_at": "2026-08-23T18:12:59.914193+00:00"
-    },
     "e1c4c808a5fbe717": {
       "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
       "fetched_at": "2026-08-24T00:36:22.464963+00:00"
@@ -3063,7 +2843,119 @@
     "e2bc3a64742215ea": {
       "title": "Flooding of ancient Salton Sea linked to San Andreas earthquakes",
       "fetched_at": "2026-08-31T12:03:40.041135+00:00"
+    },
+    "aa51c6c2f6697d78": {
+      "title": "1,664 cases where the AI went out of control",
+      "fetched_at": "2026-08-31T22:08:47.697833+00:00"
+    },
+    "c7a491b28dc39e0f": {
+      "title": "AI Job Scout and Rate Matcher",
+      "fetched_at": "2026-08-31T22:08:48.308840+00:00"
+    },
+    "3f9c5748638ef2da": {
+      "title": "Tell HN: On AI, Quality, and Accountability",
+      "fetched_at": "2026-08-31T22:08:48.929141+00:00"
+    },
+    "82d6e5a1add8e294": {
+      "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
+      "fetched_at": "2026-08-31T22:08:49.542947+00:00"
+    },
+    "3e94ef02171026b4": {
+      "title": "The Movies That Make You Feel the Strangeness of AI",
+      "fetched_at": "2026-08-31T22:08:50.151282+00:00"
+    },
+    "2e35dd7388135dd8": {
+      "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+      "fetched_at": "2026-08-31T22:08:50.769434+00:00"
+    },
+    "30d10e42cc49c1ad": {
+      "title": "I attended a conference recently and AI use by academics was absurd",
+      "fetched_at": "2026-08-31T22:08:51.396902+00:00"
+    },
+    "edc6efc9d84a9da0": {
+      "title": "Show HN: cdai – the AI-enhanced cd command",
+      "fetched_at": "2026-08-31T22:08:52.020511+00:00"
+    },
+    "7ebe6f39139da602": {
+      "title": "Show HN: Transform text and images into cinematic AI videos",
+      "fetched_at": "2026-08-31T22:08:52.647861+00:00"
+    },
+    "533be497b3b6aa98": {
+      "title": "Show HN: Doom Compiled into an LLM",
+      "fetched_at": "2026-08-31T22:08:53.349169+00:00"
+    },
+    "ce3c6219ba3f6f8f": {
+      "title": "South Korea opened bidding for a free, unlimited AI chatbot for all citizens",
+      "fetched_at": "2026-08-31T22:08:53.963778+00:00"
+    },
+    "8316764d052c8282": {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "fetched_at": "2026-08-31T22:08:54.582550+00:00"
+    },
+    "28bd525b7acd20f1": {
+      "title": "AI hallucinations are infiltrating Australia's parliament",
+      "fetched_at": "2026-08-31T22:08:55.185362+00:00"
+    },
+    "db9f89f1f13eba65": {
+      "title": "Canaries in the Gold Mine: Early Productivity Gains from AI",
+      "fetched_at": "2026-08-31T22:08:55.816048+00:00"
+    },
+    "df466387485628ac": {
+      "title": "Show HN: Guess the AI model from its web design",
+      "fetched_at": "2026-08-31T22:08:56.431099+00:00"
+    },
+    "350f18ad8fe24caf": {
+      "title": "Bank of England chief warns new AI models threaten global financial stability",
+      "fetched_at": "2026-08-31T22:08:57.046444+00:00"
+    },
+    "92570d2051589082": {
+      "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
+      "fetched_at": "2026-08-31T22:08:57.662135+00:00"
+    },
+    "d1a9461d08c4e3c2": {
+      "title": "AI Is an Anti-Primary Source Machine",
+      "fetched_at": "2026-08-31T22:08:58.278213+00:00"
+    },
+    "8ac19177f9bc6a2d": {
+      "title": "Reddit mod used AI to hack Star Wars Galaxies emulator over a 14-year-old grudge",
+      "fetched_at": "2026-08-31T22:08:58.887412+00:00"
+    },
+    "0fe6650578d81338": {
+      "title": "Show HN: Kiso – Publish one OKF knowledge base for humans and AI agents",
+      "fetched_at": "2026-08-31T22:08:59.500191+00:00"
+    },
+    "322648e03aec91dc": {
+      "title": "美國NASA全新超強望遠鏡將改寫我們對宇宙的理解",
+      "fetched_at": "2026-08-31T22:09:01.856769+00:00"
+    },
+    "445c02125209aeb4": {
+      "title": "'This is probably the safest time to be playing the sport of football': Concussion expert explains why viral CTE study may not be as scary as it sounds",
+      "fetched_at": "2026-08-31T22:09:03.946943+00:00"
+    },
+    "7aa92f6666a465f1": {
+      "title": "Study Tracks Diet in Polish City",
+      "fetched_at": "2026-08-31T22:09:04.566137+00:00"
+    },
+    "f7dff934b2e8100a": {
+      "title": "Historic Cemetery Excavated in Ghent",
+      "fetched_at": "2026-08-31T22:09:05.184361+00:00"
+    },
+    "a65d795c369af825": {
+      "title": "Popular sweeteners may leave effects that last for generations",
+      "fetched_at": "2026-08-31T22:09:05.809666+00:00"
+    },
+    "3bcab3466cc1f7fa": {
+      "title": "Scientists discover two superconducting states hiding as one",
+      "fetched_at": "2026-08-31T22:09:06.447036+00:00"
+    },
+    "f7e7ce0cd4b5853e": {
+      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
+      "fetched_at": "2026-08-31T22:09:07.068151+00:00"
+    },
+    "aa3e64ccdf95961c": {
+      "title": "Fossil feet may be misleading scientists about human evolution",
+      "fetched_at": "2026-08-31T22:09:07.685344+00:00"
     }
   },
-  "last_updated": "2026-08-31T12:03:40.135510+00:00"
+  "last_updated": "2026-08-31T22:09:07.768233+00:00"
 }
