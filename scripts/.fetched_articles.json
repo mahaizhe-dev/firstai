@@ -1,101 +1,5 @@
 {
   "articles": {
-    "b5b6494592b31140": {
-      "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
-      "fetched_at": "2026-08-23T00:37:46.023682+00:00"
-    },
-    "cd2ec930d98dd150": {
-      "title": "Show HN: Lens AI – generate your JSON-LD files and keep them up-to-date",
-      "fetched_at": "2026-08-23T00:37:46.599983+00:00"
-    },
-    "a3b47861bb51aa2e": {
-      "title": "You don't have to make money with AI. You could just be happier",
-      "fetched_at": "2026-08-23T00:37:47.178960+00:00"
-    },
-    "b89e9adf2b350e47": {
-      "title": "AI has failed to win people's trust. Its makers? less trusted",
-      "fetched_at": "2026-08-23T00:37:47.766707+00:00"
-    },
-    "f5603543b3018422": {
-      "title": "AI as a Co-Writer",
-      "fetched_at": "2026-08-23T00:37:48.346484+00:00"
-    },
-    "2c5c357110e2e93e": {
-      "title": "The Real AI Crash Will Start This Year",
-      "fetched_at": "2026-08-23T00:37:48.930412+00:00"
-    },
-    "cb371063c1cde55c": {
-      "title": "Show HN: MacAIApps – a directory of AI-powered Mac apps",
-      "fetched_at": "2026-08-23T00:37:49.507164+00:00"
-    },
-    "d3f740d13f7f5871": {
-      "title": "Quiet on set. How AI transformed China's microdrama scene",
-      "fetched_at": "2026-08-23T00:37:50.111579+00:00"
-    },
-    "def4c8f9b46faf20": {
-      "title": "How much is crawling your content worth to an AI bot?",
-      "fetched_at": "2026-08-23T00:37:50.725234+00:00"
-    },
-    "7d62fe9f6fb2a1e1": {
-      "title": "MiniMax M3 Medium hits 73.17% F1 on DeepSearchQA, near GPT-5 High",
-      "fetched_at": "2026-08-23T00:37:51.320721+00:00"
-    },
-    "44ec4a205ddfdfee": {
-      "title": "Follow live the open training of a 535B (23B activated) LLM",
-      "fetched_at": "2026-08-23T00:37:51.918162+00:00"
-    },
-    "10ae752948202f25": {
-      "title": "AI Made Me Faster. I'm Not Sure It Made Me Better",
-      "fetched_at": "2026-08-23T00:37:52.500868+00:00"
-    },
-    "73dc9480f939e267": {
-      "title": "The crisis of AI-generated mathematics",
-      "fetched_at": "2026-08-23T00:37:53.093505+00:00"
-    },
-    "a5e7185400aa445f": {
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "fetched_at": "2026-08-23T00:37:53.728747+00:00"
-    },
-    "1a3721703eef73db": {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "fetched_at": "2026-08-23T00:37:54.325841+00:00"
-    },
-    "4b34232b3625df84": {
-      "title": "How LLM Serves a Request",
-      "fetched_at": "2026-08-23T00:37:54.909609+00:00"
-    },
-    "218a6c7cd4c3eebe": {
-      "title": "Contra Anthropic: AI is not 'structurally' centralizing",
-      "fetched_at": "2026-08-23T00:37:55.501187+00:00"
-    },
-    "8952dfe802b863a4": {
-      "title": "Linux Network Developers Are ‘Completely Overwhelmed’ by AI Agents :)",
-      "fetched_at": "2026-08-23T00:37:56.087950+00:00"
-    },
-    "cc90cb4869a01893": {
-      "title": "The importance of teaching students what AI can't do",
-      "fetched_at": "2026-08-23T00:37:56.674141+00:00"
-    },
-    "70e82bcb50ce338e": {
-      "title": "Show HN: Locum – Grok Bot delegates tasks to Claude/Codex CLI on your machine",
-      "fetched_at": "2026-08-23T00:37:57.261158+00:00"
-    },
-    "2a9946f7cb64bbe0": {
-      "title": "冒險心理學：你選擇穩袋5萬元，還是以一半機會博取100萬元？",
-      "fetched_at": "2026-08-23T00:37:59.583177+00:00"
-    },
-    "98c2d32ec7738650": {
-      "title": "中國國產C919首飛國際航線 挑戰波音、空中巴士再進一步？",
-      "fetched_at": "2026-08-23T00:38:00.170792+00:00"
-    },
-    "e2bc3a64742215ea": {
-      "title": "Flooding of ancient Salton Sea linked to San Andreas earthquakes",
-      "fetched_at": "2026-08-23T00:38:03.505335+00:00"
-    },
-    "b56bc060bfe419ef": {
-      "title": "'If this is the new normal, then we are in very deep trouble': Brazil's drying aquifers could have ripple effects across the world",
-      "fetched_at": "2026-08-23T00:38:04.163589+00:00"
-    },
     "aa46d86007aeb1eb": {
       "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
       "fetched_at": "2026-08-23T06:21:08.153644+00:00"
@@ -2967,7 +2871,119 @@
     "ea2c6318e9f68def": {
       "title": "Does tapping on a soda can really stop it from exploding?",
       "fetched_at": "2026-08-30T20:16:14.889110+00:00"
+    },
+    "069b102e10936e8b": {
+      "title": "Clips Kitty Open-source local AI video clipping and editing",
+      "fetched_at": "2026-08-31T02:08:04.702660+00:00"
+    },
+    "d467c668efd16ab2": {
+      "title": "AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI",
+      "fetched_at": "2026-08-31T02:08:05.284780+00:00"
+    },
+    "97dd56fbe8540663": {
+      "title": "Static Evaluation of Model Switching in LLM Agents Scores the Wrong World",
+      "fetched_at": "2026-08-31T02:08:05.864259+00:00"
+    },
+    "bb1197f6459f4233": {
+      "title": "Are We Learning to Think Less?",
+      "fetched_at": "2026-08-31T02:08:06.445649+00:00"
+    },
+    "d78aee70b28b5816": {
+      "title": "Will anybody use AI as much as coders?",
+      "fetched_at": "2026-08-31T02:08:07.023686+00:00"
+    },
+    "20a847f8056d7466": {
+      "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
+      "fetched_at": "2026-08-31T02:08:07.590116+00:00"
+    },
+    "c6f4a87049640ada": {
+      "title": "Debian developer resigns after corporate LLM use without disclosure wins vote",
+      "fetched_at": "2026-08-31T02:08:08.197538+00:00"
+    },
+    "a54f417b13f80ae1": {
+      "title": "Lady Gaga is now an AI-longevity biotech founder",
+      "fetched_at": "2026-08-31T02:08:08.778075+00:00"
+    },
+    "62a22874ee121fc1": {
+      "title": "Show HN: What Apple's OS updates silently change in the on-device AI model",
+      "fetched_at": "2026-08-31T02:08:09.367594+00:00"
+    },
+    "08ee4cc5c8a34097": {
+      "title": "派早报：GTA 6 引发请假玩游戏热潮",
+      "fetched_at": "2026-08-31T02:08:09.942224+00:00"
+    },
+    "b0cba9d4f5553b8d": {
+      "title": "Which AI Wrote This?",
+      "fetched_at": "2026-08-31T02:08:10.517383+00:00"
+    },
+    "c6ccb4a7a3e93ba1": {
+      "title": "Civitas – A Civilization for AI Agents on GitHub",
+      "fetched_at": "2026-08-31T02:08:11.097422+00:00"
+    },
+    "1a6106de3adf5b56": {
+      "title": "The Shape and Feel of the Post-AI Data Stack",
+      "fetched_at": "2026-08-31T02:08:11.676467+00:00"
+    },
+    "414fc10aa60e8a50": {
+      "title": "Show HN: Manage coding norms across your AI agents",
+      "fetched_at": "2026-08-31T02:08:12.255283+00:00"
+    },
+    "c924df67339ab181": {
+      "title": "AI coding agents followed abandoned package references, 6K domains analyzed",
+      "fetched_at": "2026-08-31T02:08:12.833762+00:00"
+    },
+    "2486414f60444f68": {
+      "title": "AI Can Answer Almost Anything. It Still Can't Tell You What Matters",
+      "fetched_at": "2026-08-31T02:08:13.443251+00:00"
+    },
+    "40c3979fe31c4638": {
+      "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
+      "fetched_at": "2026-08-31T02:08:14.022251+00:00"
+    },
+    "64197aafa12e2596": {
+      "title": "Debian community allows contributors to use AI",
+      "fetched_at": "2026-08-31T02:08:14.589461+00:00"
+    },
+    "eb682175fb72acc5": {
+      "title": "AI and the Death of Expertise: Why Experts Still Matter",
+      "fetched_at": "2026-08-31T02:08:15.171550+00:00"
+    },
+    "57c59e8b0f984eba": {
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "fetched_at": "2026-08-31T02:08:15.768124+00:00"
+    },
+    "7b1de57cba1b5fa4": {
+      "title": "尼泊尔不断融化的冰川有多危险？",
+      "fetched_at": "2026-08-31T02:08:18.007667+00:00"
+    },
+    "3d29b3e6a301cc7a": {
+      "title": "中国公布西藏洪灾261名外国公民失踪",
+      "fetched_at": "2026-08-31T02:08:18.589707+00:00"
+    },
+    "8752153102e79502": {
+      "title": "中国慰问邻国但引导叙事，强调灾害始于尼泊尔",
+      "fetched_at": "2026-08-31T02:08:19.177488+00:00"
+    },
+    "bc5b23a03718154b": {
+      "title": "她放下演藝事業，回愛丁堡拯救家裏的中餐館",
+      "fetched_at": "2026-08-31T02:08:19.756875+00:00"
+    },
+    "640151acf484bf83": {
+      "title": "西方官員：俄羅斯加大強硬言論，但仍避免與北約爆發戰爭",
+      "fetched_at": "2026-08-31T02:08:20.336220+00:00"
+    },
+    "2d7b6ca741891edc": {
+      "title": "為何台灣公視屢陷預算爭議？",
+      "fetched_at": "2026-08-31T02:08:20.912634+00:00"
+    },
+    "6a30a79c5bc90dca": {
+      "title": "美國稱數十國助中國避特朗普關稅",
+      "fetched_at": "2026-08-31T02:08:21.495376+00:00"
+    },
+    "91d48e3717b8f2ee": {
+      "title": "Archaeologists unearth a medieval nobleman buried with his horse and dog in a rare wooden tomb in Russia",
+      "fetched_at": "2026-08-31T02:08:41.335441+00:00"
     }
   },
-  "last_updated": "2026-08-30T20:16:14.958557+00:00"
+  "last_updated": "2026-08-31T02:08:41.394614+00:00"
 }
