@@ -1,77 +1,5 @@
 {
   "articles": {
-    "aa46d86007aeb1eb": {
-      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
-      "fetched_at": "2026-08-23T06:21:08.153644+00:00"
-    },
-    "88434dc617bdb0ff": {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "fetched_at": "2026-08-23T06:21:08.777612+00:00"
-    },
-    "212a808aae51764d": {
-      "title": "如何不用鬧鐘就能起床？",
-      "fetched_at": "2026-08-23T06:21:12.122895+00:00"
-    },
-    "ab259fa8b0b3a494": {
-      "title": "Black holes keep tearing these stars apart, but they survive",
-      "fetched_at": "2026-08-23T06:21:14.500191+00:00"
-    },
-    "97dcd3955333ad3d": {
-      "title": "This shark can live 400 years. Its eyes barely seem to age",
-      "fetched_at": "2026-08-23T06:21:15.130683+00:00"
-    },
-    "505a7d3574ea414b": {
-      "title": "'Full-on berserker mode': Archaeologists solve mystery of medieval soldiers with gruesome square holes in their skull",
-      "fetched_at": "2026-08-23T06:21:15.758334+00:00"
-    },
-    "4deb6736901feea4": {
-      "title": "Rare belching disorder could be treated with singing, study hints — but not everyone is convinced",
-      "fetched_at": "2026-08-23T06:21:16.380018+00:00"
-    },
-    "e04247ec7df47d09": {
-      "title": "'The lance head was still inside the pelvis': Mass grave found in Austria may hold casualties of unknown ancient Roman battle",
-      "fetched_at": "2026-08-23T06:21:17.052808+00:00"
-    },
-    "664ec54f7ddc1337": {
-      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
-      "fetched_at": "2026-08-23T06:21:17.673490+00:00"
-    },
-    "34e37fb371d12ce6": {
-      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-      "fetched_at": "2026-08-23T06:21:18.302794+00:00"
-    },
-    "794e8fe8546fb393": {
-      "title": "A stress hormone may help the brain repair itself",
-      "fetched_at": "2026-08-23T06:21:18.926433+00:00"
-    },
-    "ae5ea42c5df8bca1": {
-      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
-      "fetched_at": "2026-08-23T06:21:19.566473+00:00"
-    },
-    "51c70dbb0b914ab0": {
-      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
-      "fetched_at": "2026-08-23T06:21:20.198993+00:00"
-    },
-    "4177dc228b846909": {
-      "title": "A massive new cosmic map is revealing black holes, rare stars, and hidden gas",
-      "fetched_at": "2026-08-23T06:21:20.826051+00:00"
-    },
-    "86b151fd27fba234": {
-      "title": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
-      "fetched_at": "2026-08-23T06:21:21.449700+00:00"
-    },
-    "d946af4a67219388": {
-      "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
-      "fetched_at": "2026-08-23T06:21:22.076952+00:00"
-    },
-    "1e871c6e41eb7175": {
-      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
-      "fetched_at": "2026-08-23T06:21:22.700514+00:00"
-    },
-    "3bc7e9b2d16bf159": {
-      "title": "Human brain cells are far more powerful than scientists thought",
-      "fetched_at": "2026-08-23T06:21:23.327695+00:00"
-    },
     "14326bb36f96e594": {
       "title": "Show HN: Declarative, reproducible configuration materializer for AI agents",
       "fetched_at": "2026-08-23T12:16:58.506688+00:00"
@@ -2983,7 +2911,159 @@
     "91d48e3717b8f2ee": {
       "title": "Archaeologists unearth a medieval nobleman buried with his horse and dog in a rare wooden tomb in Russia",
       "fetched_at": "2026-08-31T02:08:41.335441+00:00"
+    },
+    "07f439f467842210": {
+      "title": "Hollywood studios have sued over AI. Now Google's courting them to use its tools",
+      "fetched_at": "2026-08-31T12:03:14.467224+00:00"
+    },
+    "107f2f2467c12b51": {
+      "title": "Datadog saves over $1M each month by optimizing AI usage",
+      "fetched_at": "2026-08-31T12:03:15.061378+00:00"
+    },
+    "fb48fea884f8061d": {
+      "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
+      "fetched_at": "2026-08-31T12:03:15.686313+00:00"
+    },
+    "ea0c48c1acd72d92": {
+      "title": "Andrew Ng: the biggest opportunities in AI",
+      "fetched_at": "2026-08-31T12:03:16.276567+00:00"
+    },
+    "dd53b76dbb448a90": {
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "fetched_at": "2026-08-31T12:03:16.858287+00:00"
+    },
+    "779bcc62a3561d60": {
+      "title": "An AI agent is a background job, not a web request",
+      "fetched_at": "2026-08-31T12:03:17.436313+00:00"
+    },
+    "5a46a0363f131e45": {
+      "title": "The AI-Native SDLC Starts with Your Infrastructure",
+      "fetched_at": "2026-08-31T12:03:18.018816+00:00"
+    },
+    "017d5dc39b58d055": {
+      "title": "Show HN: AI studio with 500 models for headshots, video and images",
+      "fetched_at": "2026-08-31T12:03:18.601794+00:00"
+    },
+    "348ea461aa903795": {
+      "title": "Local AI Is Dead. You Are at the Funeral",
+      "fetched_at": "2026-08-31T12:03:19.185350+00:00"
+    },
+    "5c4eaf5c801c8250": {
+      "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
+      "fetched_at": "2026-08-31T12:03:19.779170+00:00"
+    },
+    "5f2686f5eeef19e0": {
+      "title": "Bill payment kiosk -self-service payment machine Dubai",
+      "fetched_at": "2026-08-31T12:03:20.384872+00:00"
+    },
+    "a43923bd08709f3c": {
+      "title": "派评 | 近期值得关注的 App",
+      "fetched_at": "2026-08-31T12:03:20.385030+00:00"
+    },
+    "1638542e6d9cf207": {
+      "title": "G20 Warned of Growing Threat to Financial Stability Posed by New AI Models",
+      "fetched_at": "2026-08-31T12:03:20.981650+00:00"
+    },
+    "b3264ff8a5d4583a": {
+      "title": "LLM distillation: optimizing what to label",
+      "fetched_at": "2026-08-31T12:03:21.568990+00:00"
+    },
+    "9de54d4a2e8ecf89": {
+      "title": "Anthropic Sued Over Limits on Its $200-a-Month AI Plans",
+      "fetched_at": "2026-08-31T12:03:22.149147+00:00"
+    },
+    "598f91a218a3b826": {
+      "title": "AI Lending in Production: Credit Risk,Compliance and Control",
+      "fetched_at": "2026-08-31T12:03:22.751630+00:00"
+    },
+    "99ff9cd964be1332": {
+      "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
+      "fetched_at": "2026-08-31T12:03:23.342034+00:00"
+    },
+    "902a7d4a83d50198": {
+      "title": "Show HN: VajraClaw – Deterministic <1µs execution guardrail for AI agents",
+      "fetched_at": "2026-08-31T12:03:23.920639+00:00"
+    },
+    "1bc0c0d27f476798": {
+      "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
+      "fetched_at": "2026-08-31T12:03:24.504091+00:00"
+    },
+    "597a680fe989b745": {
+      "title": "Show HN: Catch AI code hallucinations without asking a model",
+      "fetched_at": "2026-08-31T12:03:25.092907+00:00"
+    },
+    "71e6c74eaee15ab1": {
+      "title": "洪水來襲前幾分鐘，這位尼泊爾校長及時疏散了900名學生",
+      "fetched_at": "2026-08-31T12:03:27.375618+00:00"
+    },
+    "5b8260ad11e9dc21": {
+      "title": "前線報導：尼泊爾洪災逾900人罹難 民眾絕望尋找失蹤親人",
+      "fetched_at": "2026-08-31T12:03:27.950066+00:00"
+    },
+    "878679cffb0185b3": {
+      "title": "塔吉克斯坦年輕人之間緣何興起「漢語熱」？",
+      "fetched_at": "2026-08-31T12:03:28.529071+00:00"
+    },
+    "c2f92b778a7ec0bc": {
+      "title": "韓國統一教領袖韓鶴子涉貪罪成，判囚兩年",
+      "fetched_at": "2026-08-31T12:03:29.120164+00:00"
+    },
+    "b3aa4a32bbf65f13": {
+      "title": "为什么美国总是难以退出战争",
+      "fetched_at": "2026-08-31T12:03:29.709886+00:00"
+    },
+    "8e3fb182156e4f64": {
+      "title": "全球变暖时代，“整个喜马拉雅山脉都在融化”",
+      "fetched_at": "2026-08-31T12:03:30.296963+00:00"
+    },
+    "d9f3c1d62669f65a": {
+      "title": "人工智能“脱缰”在美国引发焦虑，中国则从中看到机遇",
+      "fetched_at": "2026-08-31T12:03:30.880970+00:00"
+    },
+    "a01e01276d69cdbb": {
+      "title": "我研究成功人士，他们都有一个共同的习惯",
+      "fetched_at": "2026-08-31T12:03:31.487019+00:00"
+    },
+    "cb5929fd1106ba92": {
+      "title": "衛星圖像揭示村莊災情的嚴重程度",
+      "fetched_at": "2026-08-31T12:03:32.084407+00:00"
+    },
+    "52aad400fecbe9c9": {
+      "title": "中國總理赴泥石流災場前線意味著什麼？",
+      "fetched_at": "2026-08-31T12:03:32.669912+00:00"
+    },
+    "9362980cd499d769": {
+      "title": "是甚麼導致西藏致命泥石流？科學家分析來龍去脈",
+      "fetched_at": "2026-08-31T12:03:33.260344+00:00"
+    },
+    "3364b48270cf8aae": {
+      "title": "Scientists build tiny robots without motors that can fly using sound waves alone",
+      "fetched_at": "2026-08-31T12:03:36.558343+00:00"
+    },
+    "8bc2b762ecdb7600": {
+      "title": "Crown of Kerch: A 1,600-year-old gold, gem-studded diadem found in the grave of a Hun noblewoman",
+      "fetched_at": "2026-08-31T12:03:37.142291+00:00"
+    },
+    "3f873d6d4808c15e": {
+      "title": "Planting crops in fields of solar panels is more efficient, protects the plants and helps keep workers cool, study finds",
+      "fetched_at": "2026-08-31T12:03:37.717492+00:00"
+    },
+    "9feb47f468e5cfdd": {
+      "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
+      "fetched_at": "2026-08-31T12:03:38.296122+00:00"
+    },
+    "4fe9e9bf12a7cbcb": {
+      "title": "Rocky planets may have formed just 100 million years after the Big Bang",
+      "fetched_at": "2026-08-31T12:03:38.871006+00:00"
+    },
+    "94e3ba9a68411b24": {
+      "title": "Scientists discover diamonds can generate electricity",
+      "fetched_at": "2026-08-31T12:03:39.458172+00:00"
+    },
+    "e2bc3a64742215ea": {
+      "title": "Flooding of ancient Salton Sea linked to San Andreas earthquakes",
+      "fetched_at": "2026-08-31T12:03:40.041135+00:00"
     }
   },
-  "last_updated": "2026-08-31T02:08:41.394614+00:00"
+  "last_updated": "2026-08-31T12:03:40.135510+00:00"
 }
