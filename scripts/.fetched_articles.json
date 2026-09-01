@@ -1,41 +1,5 @@
 {
   "articles": {
-    "e1c4c808a5fbe717": {
-      "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
-      "fetched_at": "2026-08-24T00:36:22.464963+00:00"
-    },
-    "07d1d72fa8289710": {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "fetched_at": "2026-08-24T00:36:23.239180+00:00"
-    },
-    "5c2d3133abe3c6bd": {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "fetched_at": "2026-08-24T00:36:23.239328+00:00"
-    },
-    "88ab5a0e09fc4456": {
-      "title": "老乾媽陶華碧教會我們的七件事",
-      "fetched_at": "2026-08-24T00:36:25.589919+00:00"
-    },
-    "a22d99748ca63ca5": {
-      "title": "為什麼我們會對未必會傷害自己的事物恐懼萬分？",
-      "fetched_at": "2026-08-24T00:36:26.219742+00:00"
-    },
-    "7d29994a4d74f5c1": {
-      "title": "4 lemurs die of human herpesvirus, including one that had been used in a 'lemur yoga' class",
-      "fetched_at": "2026-08-24T00:36:28.333679+00:00"
-    },
-    "3db9cb1965a38988": {
-      "title": "A 30-year-old fossil was hiding bones from a mysterious ancient sea monster",
-      "fetched_at": "2026-08-24T00:36:28.960553+00:00"
-    },
-    "8668959e4cbf330f": {
-      "title": "Common food preservative linked to rising suicide deaths among young people",
-      "fetched_at": "2026-08-24T00:36:29.598861+00:00"
-    },
-    "40448bdb53408626": {
-      "title": "A 60-year-old theory about ants, bees and wasps may be wrong",
-      "fetched_at": "2026-08-24T00:36:30.225912+00:00"
-    },
     "6c3be47eb8ffe6fd": {
       "title": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制",
       "fetched_at": "2026-08-24T06:34:13.952222+00:00"
@@ -2955,7 +2919,123 @@
     "aa3e64ccdf95961c": {
       "title": "Fossil feet may be misleading scientists about human evolution",
       "fetched_at": "2026-08-31T22:09:07.685344+00:00"
+    },
+    "1f2f0f1170353d6b": {
+      "title": "Show HN: Deslop, a skill that turns legalese and AI slop into plain English",
+      "fetched_at": "2026-09-01T02:28:20.275755+00:00"
+    },
+    "e572d8a63158d2c4": {
+      "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
+      "fetched_at": "2026-09-01T02:28:20.885061+00:00"
+    },
+    "00262d56e83254e5": {
+      "title": "Mu/TH/UR 6000 – An anonymous AI terminal styled as a 1979 mainframe",
+      "fetched_at": "2026-09-01T02:28:21.509929+00:00"
+    },
+    "0d303f34152df6a2": {
+      "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
+      "fetched_at": "2026-09-01T02:28:22.127862+00:00"
+    },
+    "83108956be2193e7": {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "fetched_at": "2026-09-01T02:28:22.744507+00:00"
+    },
+    "979782b8f8daa74c": {
+      "title": "AI and Employment: So Far, So Good",
+      "fetched_at": "2026-09-01T02:28:23.367391+00:00"
+    },
+    "5706b4eb19a9ff79": {
+      "title": "HashCortX – AI workspace app, Now works on pre-2013 CPU windows devices",
+      "fetched_at": "2026-09-01T02:28:23.978083+00:00"
+    },
+    "1158e3bc85d8e3c2": {
+      "title": "Show HN: Saccade – Live semantic browser truth for AI agents",
+      "fetched_at": "2026-09-01T02:28:24.579878+00:00"
+    },
+    "859eed9a9b26ed8d": {
+      "title": "Rogue AI attacks deserve more scrutiny than airplane crashes",
+      "fetched_at": "2026-09-01T02:28:25.197342+00:00"
+    },
+    "d2428165753ce00b": {
+      "title": "AI giants lean into health care to stall public backlash",
+      "fetched_at": "2026-09-01T02:28:25.806692+00:00"
+    },
+    "ccbe545ea4c95732": {
+      "title": "ChatGPT becomes first AI chatbot to face tougher EU rules",
+      "fetched_at": "2026-09-01T02:28:26.419188+00:00"
+    },
+    "50f47e8fe969cb34": {
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "fetched_at": "2026-09-01T02:28:27.025584+00:00"
+    },
+    "f5f4ea3c662810f8": {
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "fetched_at": "2026-09-01T02:28:27.647088+00:00"
+    },
+    "0f7a1de3d137dc14": {
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "fetched_at": "2026-09-01T02:28:28.276639+00:00"
+    },
+    "4682f8f2bb23bee1": {
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "fetched_at": "2026-09-01T02:28:28.884977+00:00"
+    },
+    "052cb9ae750f857f": {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "fetched_at": "2026-09-01T02:28:29.509840+00:00"
+    },
+    "b02b345215d9c7a1": {
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "fetched_at": "2026-09-01T02:28:30.141120+00:00"
+    },
+    "2fe1805542571747": {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "fetched_at": "2026-09-01T02:28:30.753372+00:00"
+    },
+    "d5259d3264d3dcf3": {
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "fetched_at": "2026-09-01T02:28:31.386277+00:00"
+    },
+    "9f69d9ed0eb598ba": {
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "fetched_at": "2026-09-01T02:28:32.010758+00:00"
+    },
+    "30c8728228f50214": {
+      "title": "洪水摧毁校舍前，尼泊尔学校校长疏散900名学生",
+      "fetched_at": "2026-09-01T02:28:35.141721+00:00"
+    },
+    "83e683a47eb5e210": {
+      "title": "星巴克咖啡就算了吧——Z世代喜歡喝冰飲",
+      "fetched_at": "2026-09-01T02:28:35.758471+00:00"
+    },
+    "c872c74956114107": {
+      "title": "为什么西藏边境山洪令准备充分的中国措手不及？",
+      "fetched_at": "2026-09-01T02:28:36.378607+00:00"
+    },
+    "5620629eb5d9ce53": {
+      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
+      "fetched_at": "2026-09-01T02:28:37.018043+00:00"
+    },
+    "167f6150f6d46e77": {
+      "title": "Ancient Volcano in Nth England Caused Kinnekulle Tephra",
+      "fetched_at": "2026-09-01T02:29:50.714858+00:00"
+    },
+    "cb73872becbd8843": {
+      "title": "Historical Discoveries That Reshaped Modern Historical Understanding",
+      "fetched_at": "2026-09-01T02:29:51.345569+00:00"
+    },
+    "0740bd32a9de8aca": {
+      "title": "Why is AI going on a hacking spree?",
+      "fetched_at": "2026-09-01T02:29:51.972488+00:00"
+    },
+    "a4e601d94635bd24": {
+      "title": "'Starry Night' telescope photo captures some of the oldest stars in the universe — Space photo of the week",
+      "fetched_at": "2026-09-01T02:29:52.594164+00:00"
+    },
+    "5b8df733c5c76e0a": {
+      "title": "Do other animals call each other by name?",
+      "fetched_at": "2026-09-01T02:29:53.221223+00:00"
     }
   },
-  "last_updated": "2026-08-31T22:09:07.768233+00:00"
+  "last_updated": "2026-09-01T02:29:53.304963+00:00"
 }
