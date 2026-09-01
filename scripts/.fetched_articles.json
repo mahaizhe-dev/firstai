@@ -1,89 +1,5 @@
 {
   "articles": {
-    "106902bdbcf30596": {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "fetched_at": "2026-08-24T18:22:33.518603+00:00"
-    },
-    "b490d3a86e10fe4f": {
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "fetched_at": "2026-08-24T18:22:34.126132+00:00"
-    },
-    "95460e6771466f45": {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "fetched_at": "2026-08-24T18:22:34.742385+00:00"
-    },
-    "f4751e874c7caa41": {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "fetched_at": "2026-08-24T18:22:35.354830+00:00"
-    },
-    "20f0aec741f50e35": {
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "fetched_at": "2026-08-24T18:22:35.968974+00:00"
-    },
-    "e0bed98d811fc78e": {
-      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
-      "fetched_at": "2026-08-24T18:22:38.307205+00:00"
-    },
-    "420e72e8a747ce3d": {
-      "title": "Severe COVID-19 may wake up dormant viruses and lead to lasting physical disability, study finds",
-      "fetched_at": "2026-08-24T18:22:41.627200+00:00"
-    },
-    "e72eadd25fbea500": {
-      "title": "Common medications may change your gut for years",
-      "fetched_at": "2026-08-24T18:22:42.247851+00:00"
-    },
-    "121ab71fd3dd3ada": {
-      "title": "Bird flu is spreading. Your backyard feeder could make it worse",
-      "fetched_at": "2026-08-24T18:22:42.878073+00:00"
-    },
-    "f8e3915e61386a54": {
-      "title": "A ghostly ribbon of stars reveals hidden dark matter",
-      "fetched_at": "2026-08-24T18:22:43.488021+00:00"
-    },
-    "3a8ffb132c748235": {
-      "title": "Too much or too little sleep may make your body age faster",
-      "fetched_at": "2026-08-24T18:22:44.097300+00:00"
-    },
-    "43524af0ee244fef": {
-      "title": "Screen time at ages 1 and 6 may matter more than parents realize",
-      "fetched_at": "2026-08-24T18:22:44.701589+00:00"
-    },
-    "0cbf25e7d6cf56da": {
-      "title": "Scientists just imaged the hidden quantum shape of a molecule",
-      "fetched_at": "2026-08-24T18:22:45.330693+00:00"
-    },
-    "9de5a1b049b51461": {
-      "title": "NASA is about to launch a powerful new eye on the universe",
-      "fetched_at": "2026-08-24T18:22:45.947539+00:00"
-    },
-    "5d1d66afa3e47726": {
-      "title": "Trump to award Congressional Space Medal of Honor to Artemis II astronauts",
-      "fetched_at": "2026-08-24T18:22:46.575123+00:00"
-    },
-    "5a36117aa7667ffa": {
-      "title": "Scientists discover a real-life “dragon” and name it after Syrax",
-      "fetched_at": "2026-08-24T18:22:47.192631+00:00"
-    },
-    "797ab96eb7a36aa8": {
-      "title": "'There's a sense that these algorithms are objective and they get to know you': How social media warps our understanding of healthcare",
-      "fetched_at": "2026-08-24T18:22:47.879191+00:00"
-    },
-    "e12b853fbe1c80be": {
-      "title": "Astronomers find water in the harsh environment near the Milky Way's black hole — Space photo of the week",
-      "fetched_at": "2026-08-24T18:22:48.500650+00:00"
-    },
-    "4f03cf53e151f773": {
-      "title": "Which building blocks of life have been found in space, and which haven't?",
-      "fetched_at": "2026-08-24T18:22:49.128082+00:00"
-    },
-    "ce2383a3b1fa6962": {
-      "title": "A little movement in midlife could pay off for your brain years later",
-      "fetched_at": "2026-08-24T18:22:49.749835+00:00"
-    },
-    "6ff209834847774b": {
-      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
-      "fetched_at": "2026-08-24T18:22:50.358848+00:00"
-    },
     "96f3944bf15e90d0": {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
       "fetched_at": "2026-08-25T00:35:53.004202+00:00"
@@ -3119,7 +3035,115 @@
     "fbcbb2fb5acbd854": {
       "title": "Scientists find a human-only gene that may help explain our brainpower",
       "fetched_at": "2026-09-01T15:42:22.128819+00:00"
+    },
+    "cd0f3114436c74e4": {
+      "title": "Ask HN: AI Architecture Systems Design",
+      "fetched_at": "2026-09-01T20:15:53.625483+00:00"
+    },
+    "f098920046917ded": {
+      "title": "How AI Detection Works",
+      "fetched_at": "2026-09-01T20:15:54.223306+00:00"
+    },
+    "8bb15e910eb9ba39": {
+      "title": "PrismCAD – A zero-trust, local AI assistant for AutoCAD",
+      "fetched_at": "2026-09-01T20:15:54.817002+00:00"
+    },
+    "701830be23184fe2": {
+      "title": "The failure your LLM dashboard can't see",
+      "fetched_at": "2026-09-01T20:15:55.420831+00:00"
+    },
+    "e0217096fe3a1e5f": {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "fetched_at": "2026-09-01T20:15:56.020471+00:00"
+    },
+    "00532b4189e51f35": {
+      "title": "Murphi: AI-native healthcare workflows, embedded or ready to use",
+      "fetched_at": "2026-09-01T20:15:56.626427+00:00"
+    },
+    "28879535060b8f6e": {
+      "title": "Ask HN: What full workflow / process have you tried to automate with AI?",
+      "fetched_at": "2026-09-01T20:15:57.235601+00:00"
+    },
+    "dbf302846c8c0d02": {
+      "title": "Mutating every DNA letter of a genome shows the limits of AI",
+      "fetched_at": "2026-09-01T20:15:57.837820+00:00"
+    },
+    "c22f9e836001027d": {
+      "title": "Building a software factory for AI SDK",
+      "fetched_at": "2026-09-01T20:15:58.437170+00:00"
+    },
+    "4eaffe877766569d": {
+      "title": "Jensen Huang and Lisa Su Snubbed by TIME's 2026 List of Top AI Leaders",
+      "fetched_at": "2026-09-01T20:15:59.045233+00:00"
+    },
+    "3eeaf336afbf1279": {
+      "title": "A Serious Look at GPT-5.6 Sol Translations",
+      "fetched_at": "2026-09-01T20:15:59.641671+00:00"
+    },
+    "ce0909cab478a2e0": {
+      "title": "When the Small Web Gets an AI Door",
+      "fetched_at": "2026-09-01T20:16:00.246705+00:00"
+    },
+    "73f96a45a90bc439": {
+      "title": "X suspended 6 of our 7 openly-labeled AI accounts for \"inauthentic behaviors\"",
+      "fetched_at": "2026-09-01T20:16:00.840578+00:00"
+    },
+    "a2b1bc8ec2bd1ee5": {
+      "title": "API Delta Manifest: Structured API Changelog for AI Agents and Devs",
+      "fetched_at": "2026-09-01T20:16:01.429409+00:00"
+    },
+    "f7ea3ed3d466b5b8": {
+      "title": "Independent researcher: AI shouldn't be judged by human standards (paper)",
+      "fetched_at": "2026-09-01T20:16:02.031765+00:00"
+    },
+    "d310187c4fafd436": {
+      "title": "Show HN: Personal AI Use Policies",
+      "fetched_at": "2026-09-01T20:16:02.635351+00:00"
+    },
+    "e9e92ce1d61b92d7": {
+      "title": "Show HN: Kaden Terminal – Bloat / AI Free Terminal for Linux",
+      "fetched_at": "2026-09-01T20:16:03.237471+00:00"
+    },
+    "a8cf034b423ba323": {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "fetched_at": "2026-09-01T20:16:03.849527+00:00"
+    },
+    "e3f9d2e6ffd897ae": {
+      "title": "John Deere's unexpected AI-era boom? Moving dirt for data centers",
+      "fetched_at": "2026-09-01T20:16:04.455223+00:00"
+    },
+    "874ed5e907f4307c": {
+      "title": "The Secret Agents Behind Russia's Olympic Doping Machine [video]",
+      "fetched_at": "2026-09-01T20:16:05.066357+00:00"
+    },
+    "80b9cc62f66227c5": {
+      "title": "Paintings and Floor Surfaces Revealed in Smyrna’s Agora",
+      "fetched_at": "2026-09-01T20:16:09.281099+00:00"
+    },
+    "3f586aba61ae277e": {
+      "title": "Medieval Coin Hoard Uncovered in Western Russia",
+      "fetched_at": "2026-09-01T20:16:09.882134+00:00"
+    },
+    "47f9c72c372cae57": {
+      "title": "4,000-Year-Old Tomb Unearthed in Saqqara",
+      "fetched_at": "2026-09-01T20:16:10.491573+00:00"
+    },
+    "8b66de05ed4c397e": {
+      "title": "Man rummaging in a Polish junkyard finds a 1,800-year-old shield holding the cremated remains of a Vandal warrior",
+      "fetched_at": "2026-09-01T20:16:11.081219+00:00"
+    },
+    "b726680b1244c1e1": {
+      "title": "2,600 silver coins found in the outskirts of Moscow may have been buried by a medieval plague victim",
+      "fetched_at": "2026-09-01T20:16:11.677397+00:00"
+    },
+    "30a9f9068450846c": {
+      "title": "Stream the entire BBC iPlayer Attenborough collection anywhere with this top-rated VPN deal",
+      "fetched_at": "2026-09-01T20:16:12.277601+00:00"
+    },
+    "7a3711ad9eb77a26": {
+      "title": "Cheap wall tiles 'inspired by flowing streams' could fix one of superfast 6G's biggest problems",
+      "fetched_at": "2026-09-01T20:16:12.873079+00:00"
     }
   },
-  "last_updated": "2026-09-01T15:42:22.214139+00:00"
+  "last_updated": "2026-09-01T20:16:12.954976+00:00"
 }
