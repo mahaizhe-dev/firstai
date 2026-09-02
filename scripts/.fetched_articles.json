@@ -1,109 +1,5 @@
 {
   "articles": {
-    "e14a7c95f947069b": {
-      "title": "When AI Writes the Code, Verification Is the New Implementation",
-      "fetched_at": "2026-08-25T12:24:18.763211+00:00"
-    },
-    "8973246a9873f274": {
-      "title": "A Hitchhiker's Guide to Reinventing a Prolog Machine",
-      "fetched_at": "2026-08-25T12:24:19.365982+00:00"
-    },
-    "1d3b58e48ff3573e": {
-      "title": "Run manual QA test cases in a real browser with an AI agent",
-      "fetched_at": "2026-08-25T12:24:19.973664+00:00"
-    },
-    "03c42e0f836b8e59": {
-      "title": "Show HN: Prelo – a WordPress-style admin for AI-built sites",
-      "fetched_at": "2026-08-25T12:24:20.586863+00:00"
-    },
-    "0f77301899b2f6a5": {
-      "title": "Show HN: Neither HTML nor Markdown is enough: a way out of the AI doc dilemma",
-      "fetched_at": "2026-08-25T12:24:21.203623+00:00"
-    },
-    "657f9f763617c2f7": {
-      "title": "Show HN: Unlose – Windows VSS snapshots before your AI agent deletes your files",
-      "fetched_at": "2026-08-25T12:24:21.802646+00:00"
-    },
-    "91a506a1fe2d703e": {
-      "title": "Analysis: Can we license LLM generated \"vibe code\" into Free Software?",
-      "fetched_at": "2026-08-25T12:24:22.401494+00:00"
-    },
-    "a66a53bcae40a554": {
-      "title": "We built a structured entity graph for an AI agent. Then we removed most of it",
-      "fetched_at": "2026-08-25T12:24:22.999620+00:00"
-    },
-    "2e6cf2f5fb70ee1e": {
-      "title": "An Interesting AI Educational Animation Generator",
-      "fetched_at": "2026-08-25T12:24:23.599788+00:00"
-    },
-    "0fd8f1aed5302e2e": {
-      "title": "SEC reportedly subpoenas Wall St banks over AI hedge fund Situational Awareness",
-      "fetched_at": "2026-08-25T12:24:24.206820+00:00"
-    },
-    "eb4f82ca43659ba3": {
-      "title": "We Use AI at Stalwart",
-      "fetched_at": "2026-08-25T12:24:24.797038+00:00"
-    },
-    "7ce95a49788755a9": {
-      "title": "America's immigration policy is driving away future AI leaders",
-      "fetched_at": "2026-08-25T12:24:25.406191+00:00"
-    },
-    "9a967fe76dcc713e": {
-      "title": "KAR AI",
-      "fetched_at": "2026-08-25T12:24:26.071436+00:00"
-    },
-    "4e136cec4e046172": {
-      "title": "Copyrightability of LLM-generated code: Can we license \"vibe code\" into Free SW",
-      "fetched_at": "2026-08-25T12:24:26.682359+00:00"
-    },
-    "f7db56dc4bda003b": {
-      "title": "AI Makes Better Software",
-      "fetched_at": "2026-08-25T12:24:27.282745+00:00"
-    },
-    "27cd0b622d1fa65d": {
-      "title": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
-      "fetched_at": "2026-08-25T12:24:27.870204+00:00"
-    },
-    "21b5ffa521862425": {
-      "title": "Cortex – Local context retrieval for AI coding agents",
-      "fetched_at": "2026-08-25T12:24:28.473368+00:00"
-    },
-    "3947474b54c189af": {
-      "title": "We open-sourced Myli: a harness for AI design agents",
-      "fetched_at": "2026-08-25T12:24:29.083195+00:00"
-    },
-    "f3757fb01c58efa0": {
-      "title": "Show HN: SkillPreflight – score AI agent skills before installing them",
-      "fetched_at": "2026-08-25T12:24:29.671894+00:00"
-    },
-    "7ffefd4bac6616e3": {
-      "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
-      "fetched_at": "2026-08-25T12:24:30.272312+00:00"
-    },
-    "b5e17c62b978fa09": {
-      "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
-      "fetched_at": "2026-08-25T12:24:33.075330+00:00"
-    },
-    "ddec8c0ce1c03693": {
-      "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
-      "fetched_at": "2026-08-25T12:24:33.691274+00:00"
-    },
-    "2940c7e2ca2ab4bd": {
-      "title": "慈善？演戲？科茨沃爾德？哈利和梅根會怎樣重建英國生活？",
-      "fetched_at": "2026-08-25T12:24:34.288852+00:00"
-    },
-    "26b5dc5df53ef74e": {
-      "title": "生於烏克蘭，為何替俄羅斯作戰？俘虜向BBC講述背後故事",
-      "fetched_at": "2026-08-25T12:24:34.900385+00:00"
-    },
-    "c937d91bd1b0aa8c": {
-      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
-      "fetched_at": "2026-08-25T12:24:40.200642+00:00"
-    },
-    "f9f2baf00f93eb0a": {
-      "title": "Rare sunlight trick transforms Pacific island into a giant silver 'magnifying glass' — Earth from space",
-      "fetched_at": "2026-08-25T12:24:40.792815+00:00"
-    },
     "ab2d1b2f04df62f0": {
       "title": "Claude Cowork finally remembers what you told the app in chat",
       "fetched_at": "2026-08-25T18:21:54.492564+00:00"
@@ -3063,7 +2959,51 @@
     "3275fad7321ca584": {
       "title": "Ocean 'under unprecedented strain' as El Niño helps supercharge warming to record levels",
       "fetched_at": "2026-09-02T10:07:18.718069+00:00"
+    },
+    "c443df9fd32872ef": {
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "fetched_at": "2026-09-02T15:31:50.240518+00:00"
+    },
+    "4f7210ec770dcdfe": {
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "fetched_at": "2026-09-02T15:31:50.852296+00:00"
+    },
+    "28632dd940a551c6": {
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "fetched_at": "2026-09-02T15:31:51.470476+00:00"
+    },
+    "3a5fc4620c891afc": {
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "fetched_at": "2026-09-02T15:31:52.075090+00:00"
+    },
+    "808e9cedc04aedc4": {
+      "title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
+      "fetched_at": "2026-09-02T15:31:52.681155+00:00"
+    },
+    "4b18058635d39fe7": {
+      "title": "重獲自由未有期 回顧黃之鋒的公共生涯",
+      "fetched_at": "2026-09-02T15:31:55.391820+00:00"
+    },
+    "8535cecb0ec3ca83": {
+      "title": "1,600-year-old skeleton found in a giant jar in Bulgaria may belong to Roman who hid there to escape enemy attack",
+      "fetched_at": "2026-09-02T15:31:57.645458+00:00"
+    },
+    "c075db83a69c97a1": {
+      "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
+      "fetched_at": "2026-09-02T15:31:58.307534+00:00"
+    },
+    "1e8c17370f8d879e": {
+      "title": "Money problems may age your brain faster",
+      "fetched_at": "2026-09-02T15:31:58.962994+00:00"
+    },
+    "fc4453c507377930": {
+      "title": "Alzheimer’s may leave a mark on the brain long before plaques appear",
+      "fetched_at": "2026-09-02T15:31:59.608944+00:00"
+    },
+    "b0a7f8f55e576bd5": {
+      "title": "A coffee-table-size scorpion roamed Earth before forests existed",
+      "fetched_at": "2026-09-02T15:32:00.353154+00:00"
     }
   },
-  "last_updated": "2026-09-02T10:07:18.802762+00:00"
+  "last_updated": "2026-09-02T15:32:00.447146+00:00"
 }
