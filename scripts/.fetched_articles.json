@@ -1,153 +1,5 @@
 {
   "articles": {
-    "96f3944bf15e90d0": {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "fetched_at": "2026-08-25T00:35:53.004202+00:00"
-    },
-    "a3e8d8fbe753e723": {
-      "title": "AI Is Dissolving Software Moats. China Did It to Hardware First",
-      "fetched_at": "2026-08-25T00:35:53.583295+00:00"
-    },
-    "95f6095579b26453": {
-      "title": "I audited 2,475 businesses for AI-search readiness. 88% failed",
-      "fetched_at": "2026-08-25T00:35:54.162344+00:00"
-    },
-    "20c7fc04b651e993": {
-      "title": "AI Skills for Real Engineers",
-      "fetched_at": "2026-08-25T00:35:54.743362+00:00"
-    },
-    "4278e062afaf80c1": {
-      "title": "Machine-Generated and Checked Proofs for a Verified Compiler (Experience Report)",
-      "fetched_at": "2026-08-25T00:35:55.323583+00:00"
-    },
-    "a93b73715bcd99fd": {
-      "title": "What my dad taught me about AI coding in the 90s",
-      "fetched_at": "2026-08-25T00:35:55.894412+00:00"
-    },
-    "ab7c6cc699ac8d5a": {
-      "title": "UK will use Ukraine battlefield data to train AI and use it againsts protesters",
-      "fetched_at": "2026-08-25T00:35:56.474571+00:00"
-    },
-    "34daa5d9d99aed1e": {
-      "title": "Show HN: AiSyncing – Back up your AI coding assistant memories to GitHub",
-      "fetched_at": "2026-08-25T00:35:57.050859+00:00"
-    },
-    "2511752cc6fe468d": {
-      "title": "War Machines: Netflix Confirms Sequel to Hit Sci-Fi Movie War Machine",
-      "fetched_at": "2026-08-25T00:35:57.631314+00:00"
-    },
-    "35243e4701db1e31": {
-      "title": "Characterizing the spiral: potential mechanisms in AI-associated delusions",
-      "fetched_at": "2026-08-25T00:35:58.209567+00:00"
-    },
-    "05a9c9f25c02285e": {
-      "title": "Show HN: Stigmergy, a Karpathy-style LLM wiki for a team, not one person",
-      "fetched_at": "2026-08-25T00:35:58.799887+00:00"
-    },
-    "426aa48cda4b216f": {
-      "title": "PageLens–A Chrome extension that uses AI to summarize your tab",
-      "fetched_at": "2026-08-25T00:35:59.380741+00:00"
-    },
-    "e9c05c3ba2fa32c8": {
-      "title": "Why AI Detection Fails for Academic Integrity",
-      "fetched_at": "2026-08-25T00:35:59.957970+00:00"
-    },
-    "89610195535a245b": {
-      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
-      "fetched_at": "2026-08-25T00:36:00.534658+00:00"
-    },
-    "4fa6d19ba89092e9": {
-      "title": "AI text watermarking and quality loss",
-      "fetched_at": "2026-08-25T00:36:01.118658+00:00"
-    },
-    "7f88203f01549a17": {
-      "title": "See what your content is worth to AI agents",
-      "fetched_at": "2026-08-25T00:36:01.704421+00:00"
-    },
-    "85682d60b9c9dd1a": {
-      "title": "The Chaos Machine: Prediction markets and the triumph of crypto-anarchy",
-      "fetched_at": "2026-08-25T00:36:01.704521+00:00"
-    },
-    "7452b287fa5d77ca": {
-      "title": "SpaceX Shares Sink on AI Spending Plans",
-      "fetched_at": "2026-08-25T00:36:02.285378+00:00"
-    },
-    "309d7674e1aa854d": {
-      "title": "AI-to-AI Code Reviews of GitHub Pull Requests",
-      "fetched_at": "2026-08-25T00:36:02.860641+00:00"
-    },
-    "f049743068d91786": {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "fetched_at": "2026-08-25T00:36:03.445462+00:00"
-    },
-    "45599a2685766108": {
-      "title": "我六歲就來月經了，但醫生們也不知道為什麼",
-      "fetched_at": "2026-08-25T00:36:05.557355+00:00"
-    },
-    "efda2c71a20a112a": {
-      "title": "「我說的不是女王英語」：為何人們會擔心自己的口音",
-      "fetched_at": "2026-08-25T00:36:06.144309+00:00"
-    },
-    "873f6ba80c44c92f": {
-      "title": "Solution to Darwin's Dilemma: Discovery of the Missing Precambrian Record",
-      "fetched_at": "2026-08-25T00:36:39.152658+00:00"
-    },
-    "063316d8910a2ac9": {
-      "title": "As cervical cancer rates fall, HPV is causing more throat and mouth cancers in men — why?",
-      "fetched_at": "2026-08-25T00:36:39.733766+00:00"
-    },
-    "3275fad7321ca584": {
-      "title": "Ocean 'under unprecedented strain' as El Niño helps supercharge warming to record levels",
-      "fetched_at": "2026-08-25T00:36:40.326035+00:00"
-    },
-    "1c9bdd5e8347a453": {
-      "title": "Prehistoric Turtle Figurines Found in Turkey",
-      "fetched_at": "2026-08-25T00:36:40.922586+00:00"
-    },
-    "f70e8ce4d1aa61c5": {
-      "title": "Attorney General Cancels Settlement Talks over $111B Warner Bros. Discovery Deal",
-      "fetched_at": "2026-08-25T00:36:41.502562+00:00"
-    },
-    "06214a0e281b1560": {
-      "title": "Byzantine Royal Seal Unearthed in Bulgaria",
-      "fetched_at": "2026-08-25T00:36:42.096572+00:00"
-    },
-    "6f0812f24495537c": {
-      "title": "Neolithic Monument Unearthed in Czech Republic",
-      "fetched_at": "2026-08-25T00:36:42.685574+00:00"
-    },
-    "d685dffd019b1dc6": {
-      "title": "Show HN: The Gateless Gate – Ancient Zen text as 50 procedural 3D scenes",
-      "fetched_at": "2026-08-25T00:36:43.275964+00:00"
-    },
-    "5a4339686316729f": {
-      "title": "Enlicitide: A stress test for AI in drug discovery",
-      "fetched_at": "2026-08-25T00:36:43.862003+00:00"
-    },
-    "033d07af0a3696a6": {
-      "title": "Scientists reveal why walking gets so much harder with age",
-      "fetched_at": "2026-08-25T00:36:44.448278+00:00"
-    },
-    "5d3b6fe911fab199": {
-      "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
-      "fetched_at": "2026-08-25T00:36:45.023028+00:00"
-    },
-    "49b8bef2489ccab8": {
-      "title": "Show HN: Grow your SaaS visibility with AI-powered discovery",
-      "fetched_at": "2026-08-25T00:36:45.610238+00:00"
-    },
-    "fd9d7de3b66d312b": {
-      "title": "A black hole shredded a “super sun” — but something strange may have survived",
-      "fetched_at": "2026-08-25T00:36:46.190548+00:00"
-    },
-    "19114e92b6148099": {
-      "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
-      "fetched_at": "2026-08-25T00:36:46.809806+00:00"
-    },
-    "1c6581e78c6fb323": {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "fetched_at": "2026-08-25T00:36:47.395681+00:00"
-    },
     "e33efb2841ced101": {
       "title": "New technology lets cloud AI models process your data without privacy leaks",
       "fetched_at": "2026-08-25T06:24:52.528975+00:00"
@@ -3143,7 +2995,103 @@
     "7a3711ad9eb77a26": {
       "title": "Cheap wall tiles 'inspired by flowing streams' could fix one of superfast 6G's biggest problems",
       "fetched_at": "2026-09-01T20:16:12.873079+00:00"
+    },
+    "0cad795daa6cb11a": {
+      "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+      "fetched_at": "2026-09-02T01:49:01.153033+00:00"
+    },
+    "3e14e14b17973538": {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "fetched_at": "2026-09-02T01:49:01.764217+00:00"
+    },
+    "f1214018fba0d109": {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "fetched_at": "2026-09-02T01:49:02.393382+00:00"
+    },
+    "87062d67a3de31a0": {
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "fetched_at": "2026-09-02T01:49:03.013277+00:00"
+    },
+    "8acb45e0dcb71225": {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "fetched_at": "2026-09-02T01:49:03.640887+00:00"
+    },
+    "afea4da4c42bbfae": {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "fetched_at": "2026-09-02T01:49:04.266244+00:00"
+    },
+    "95894aa41f4a72f1": {
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "fetched_at": "2026-09-02T01:49:04.898613+00:00"
+    },
+    "1cca334459b815ce": {
+      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+      "fetched_at": "2026-09-02T01:49:05.522336+00:00"
+    },
+    "ee7b44ca599a74df": {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "fetched_at": "2026-09-02T01:49:06.162637+00:00"
+    },
+    "1621d78e8ab48375": {
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "fetched_at": "2026-09-02T01:49:06.802255+00:00"
+    },
+    "7b36a47f3c0e1c5b": {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "fetched_at": "2026-09-02T01:49:07.414385+00:00"
+    },
+    "a71299ece49d9373": {
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "fetched_at": "2026-09-02T01:49:08.040846+00:00"
+    },
+    "9c6b549c99c0800f": {
+      "title": "John Deere launched an AI chatbot for farmers",
+      "fetched_at": "2026-09-02T01:49:08.670227+00:00"
+    },
+    "7d0f2465a3fe5eb7": {
+      "title": "Google Pics is like Canva, but with even more AI",
+      "fetched_at": "2026-09-02T01:49:09.290909+00:00"
+    },
+    "ff1fe355dcadc93c": {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "fetched_at": "2026-09-02T01:49:09.907830+00:00"
+    },
+    "5a740b6bc39c2172": {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "fetched_at": "2026-09-02T01:49:10.536899+00:00"
+    },
+    "9dc1ba38c5ace48b": {
+      "title": "上合组织峰会与G20折射中美全球秩序博弈",
+      "fetched_at": "2026-09-02T01:49:12.913044+00:00"
+    },
+    "97554ad231e8e6dc": {
+      "title": "尼泊爾—西藏泥石流：堰塞湖和冰湖是下一個「定時炸彈」？",
+      "fetched_at": "2026-09-02T01:49:13.533075+00:00"
+    },
+    "a1954067144de283": {
+      "title": "日本企業大舉押注印度 中國風險加深之際尋求新成長",
+      "fetched_at": "2026-09-02T01:49:14.178108+00:00"
+    },
+    "97977c23182a838f": {
+      "title": "'Biggest surprise of my life': Homeowner discovers Denmark's largest Viking Age silver hoard in their backyard",
+      "fetched_at": "2026-09-02T01:49:16.023394+00:00"
+    },
+    "8e68c499b8919d83": {
+      "title": "Is the NFL doing enough to protect athletes from head injuries?",
+      "fetched_at": "2026-09-02T01:49:16.640482+00:00"
+    },
+    "420e72e8a747ce3d": {
+      "title": "Severe COVID-19 may wake up dormant viruses and lead to lasting physical disability, study finds",
+      "fetched_at": "2026-09-02T01:49:17.257603+00:00"
+    },
+    "e72eadd25fbea500": {
+      "title": "Common medications may change your gut for years",
+      "fetched_at": "2026-09-02T01:49:17.879713+00:00"
+    },
+    "121ab71fd3dd3ada": {
+      "title": "Bird flu is spreading. Your backyard feeder could make it worse",
+      "fetched_at": "2026-09-02T01:49:18.500762+00:00"
     }
   },
-  "last_updated": "2026-09-01T20:16:12.954976+00:00"
+  "last_updated": "2026-09-02T01:49:18.588058+00:00"
 }
