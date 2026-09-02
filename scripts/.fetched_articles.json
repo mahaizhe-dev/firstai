@@ -1,117 +1,5 @@
 {
   "articles": {
-    "e33efb2841ced101": {
-      "title": "New technology lets cloud AI models process your data without privacy leaks",
-      "fetched_at": "2026-08-25T06:24:52.528975+00:00"
-    },
-    "7ec03218e8854e5d": {
-      "title": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
-      "fetched_at": "2026-08-25T06:24:53.153013+00:00"
-    },
-    "7cd27ce7bc955882": {
-      "title": "Show HN: CookWing, an AI chef that doesn't hallucinate quantities",
-      "fetched_at": "2026-08-25T06:24:53.768651+00:00"
-    },
-    "18b30cee8ef7d822": {
-      "title": "LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes",
-      "fetched_at": "2026-08-25T06:24:54.391781+00:00"
-    },
-    "8d4533a95681ba64": {
-      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-      "fetched_at": "2026-08-25T06:24:55.006432+00:00"
-    },
-    "e7084f0e1b09362a": {
-      "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
-      "fetched_at": "2026-08-25T06:24:55.625297+00:00"
-    },
-    "25fc1cc3103e8f94": {
-      "title": "I made HACKER AI for you vibecoded app",
-      "fetched_at": "2026-08-25T06:24:56.249402+00:00"
-    },
-    "1b45d555b05a0a68": {
-      "title": "Show HN: When AI Decides What Matters",
-      "fetched_at": "2026-08-25T06:24:56.859635+00:00"
-    },
-    "de20c719be0c620f": {
-      "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
-      "fetched_at": "2026-08-25T06:24:57.504779+00:00"
-    },
-    "6ff948dc1fabe181": {
-      "title": "Darkbloom (decentralized AI inference on Macs)-community security audit findings",
-      "fetched_at": "2026-08-25T06:24:58.116807+00:00"
-    },
-    "1c63cc62a9398d75": {
-      "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
-      "fetched_at": "2026-08-25T06:24:58.733395+00:00"
-    },
-    "205d9d7210b6c970": {
-      "title": "Code maintainability plummets in the AI coding era",
-      "fetched_at": "2026-08-25T06:24:59.350589+00:00"
-    },
-    "904cdac61dbdb1ec": {
-      "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
-      "fetched_at": "2026-08-25T06:24:59.967868+00:00"
-    },
-    "64aa348a49841cb2": {
-      "title": "AI algorithm for room temperature superconductor, candidate detected",
-      "fetched_at": "2026-08-25T06:25:00.586066+00:00"
-    },
-    "9ce018500dffc38e": {
-      "title": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙",
-      "fetched_at": "2026-08-25T06:25:01.213888+00:00"
-    },
-    "3928675203fbb163": {
-      "title": "Nvidia Is Spending $6B to Build a Powerful U.S. Alternative to Chinese AI",
-      "fetched_at": "2026-08-25T06:25:01.888800+00:00"
-    },
-    "23cdf2d23dcd21b1": {
-      "title": "Thomson Reuters Standard for High Stakes AI",
-      "fetched_at": "2026-08-25T06:25:02.532827+00:00"
-    },
-    "9d43b2ce7b99edc2": {
-      "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
-      "fetched_at": "2026-08-25T06:25:03.155465+00:00"
-    },
-    "7ce303ac93162bb5": {
-      "title": "Show HN: PeerPixel, community-powered AI image generation",
-      "fetched_at": "2026-08-25T06:25:03.850623+00:00"
-    },
-    "8689c79438fc3f75": {
-      "title": "Is there a pending AI 'debt bomb' crisis? No. This isn't Enron 2.0",
-      "fetched_at": "2026-08-25T06:25:04.509380+00:00"
-    },
-    "cdeaa693d39216d3": {
-      "title": "台灣藝人涉「潑油」損日本國寶，如何牽動台日關係？",
-      "fetched_at": "2026-08-25T06:25:07.643436+00:00"
-    },
-    "c8c6ef614465a8c7": {
-      "title": "加拿大对美国说“不”",
-      "fetched_at": "2026-08-25T06:25:08.246903+00:00"
-    },
-    "b9f73472fc750567": {
-      "title": "特朗普政府拟对H-1B签证征收逾10万美元费用",
-      "fetched_at": "2026-08-25T06:25:08.844687+00:00"
-    },
-    "0ccfb5db91fbed82": {
-      "title": "美国中期选举：民主党夺回参议院的胜算正在增加？",
-      "fetched_at": "2026-08-25T06:25:09.450695+00:00"
-    },
-    "c79909f26613495c": {
-      "title": "特朗普试图扼杀伊朗经济，而这取决于中国是否合作",
-      "fetched_at": "2026-08-25T06:25:10.052366+00:00"
-    },
-    "c526f67e64e1f392": {
-      "title": "中国机器人“跑赢”博尔特，这意味着什么？",
-      "fetched_at": "2026-08-25T06:25:10.659707+00:00"
-    },
-    "40b83f58c470659d": {
-      "title": "详解AI自主攻击事件：五项令人担忧的人工智能能力",
-      "fetched_at": "2026-08-25T06:25:11.274792+00:00"
-    },
-    "5a17a0a37af8ff28": {
-      "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
-      "fetched_at": "2026-08-25T06:25:11.888363+00:00"
-    },
     "e14a7c95f947069b": {
       "title": "When AI Writes the Code, Verification Is the New Implementation",
       "fetched_at": "2026-08-25T12:24:18.763211+00:00"
@@ -3091,7 +2979,91 @@
     "121ab71fd3dd3ada": {
       "title": "Bird flu is spreading. Your backyard feeder could make it worse",
       "fetched_at": "2026-09-02T01:49:18.500762+00:00"
+    },
+    "8c6c1dd73d24b0e2": {
+      "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
+      "fetched_at": "2026-09-02T10:07:02.790442+00:00"
+    },
+    "335de344e9442c77": {
+      "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+      "fetched_at": "2026-09-02T10:07:03.393885+00:00"
+    },
+    "d55269834333547b": {
+      "title": "「我從未去過的祖國」：600萬阿富汗人遭鄰國驅逐，在塔利班治下重新開始",
+      "fetched_at": "2026-09-02T10:07:06.005763+00:00"
+    },
+    "7bce478d7a499d1d": {
+      "title": "美國公司獲批委內瑞拉油田百年開採權 分析人士迷惑 國民震怒",
+      "fetched_at": "2026-09-02T10:07:06.750214+00:00"
+    },
+    "ae8f781c706bc0c8": {
+      "title": "黃之鋒「勾結外國勢力危害國家安全」案認罪，最高可囚終身",
+      "fetched_at": "2026-09-02T10:07:07.367549+00:00"
+    },
+    "2ed4426bce4ee729": {
+      "title": "特纳斯正式接棒库克，苹果新CEO面临平衡考验",
+      "fetched_at": "2026-09-02T10:07:07.974270+00:00"
+    },
+    "4ab59c608c0d8812": {
+      "title": "黃之鋒：從學運領袖到國安法囚犯，重獲自由未有期",
+      "fetched_at": "2026-09-02T10:07:08.600708+00:00"
+    },
+    "bd756f0f3cb2fc14": {
+      "title": "当普京把铁锤挥向文学",
+      "fetched_at": "2026-09-02T10:07:09.240121+00:00"
+    },
+    "5883c8d860c5d800": {
+      "title": "中国严格控制西藏洪灾灾情叙事",
+      "fetched_at": "2026-09-02T10:07:09.862762+00:00"
+    },
+    "4b91b49191e56916": {
+      "title": "中国反对批评其出口战略，G20未能发表联合声明",
+      "fetched_at": "2026-09-02T10:07:10.514529+00:00"
+    },
+    "8143483e1d805442": {
+      "title": "黄之锋就“勾结外国势力”认罪，最高可判终身监禁",
+      "fetched_at": "2026-09-02T10:07:11.127372+00:00"
+    },
+    "1cd17aafd5907ab9": {
+      "title": "福山和被误解的“历史的终结”",
+      "fetched_at": "2026-09-02T10:07:11.727557+00:00"
+    },
+    "45599a2685766108": {
+      "title": "我六歲就來月經了，但醫生們也不知道為什麼",
+      "fetched_at": "2026-09-02T10:07:12.326564+00:00"
+    },
+    "891f2d95764cc89e": {
+      "title": "Diagnostic dilemma: A woman got a lung transplant — and ended up with a peanut allergy, too",
+      "fetched_at": "2026-09-02T10:07:14.512965+00:00"
+    },
+    "3cf45f169f8ab49a": {
+      "title": "Sunken WWII hospital ship colonized by devil firefish and rare monk seals",
+      "fetched_at": "2026-09-02T10:07:15.115684+00:00"
+    },
+    "c511e88818c7638c": {
+      "title": "Nobody is preparing for the worst day in history",
+      "fetched_at": "2026-09-02T10:07:15.708148+00:00"
+    },
+    "6b244ded110a0671": {
+      "title": "Too much coffee may weaken bones, study finds",
+      "fetched_at": "2026-09-02T10:07:16.315925+00:00"
+    },
+    "55f42370752c7a3c": {
+      "title": "A search for one exotic particle uncovered two strange new structures",
+      "fetched_at": "2026-09-02T10:07:16.930100+00:00"
+    },
+    "eb912964195ccf89": {
+      "title": "Earth may have lost the Sun’s protective shield millions of years ago",
+      "fetched_at": "2026-09-02T10:07:17.527699+00:00"
+    },
+    "063316d8910a2ac9": {
+      "title": "As cervical cancer rates fall, HPV is causing more throat and mouth cancers in men — why?",
+      "fetched_at": "2026-09-02T10:07:18.131372+00:00"
+    },
+    "3275fad7321ca584": {
+      "title": "Ocean 'under unprecedented strain' as El Niño helps supercharge warming to record levels",
+      "fetched_at": "2026-09-02T10:07:18.718069+00:00"
     }
   },
-  "last_updated": "2026-09-02T01:49:18.588058+00:00"
+  "last_updated": "2026-09-02T10:07:18.802762+00:00"
 }
