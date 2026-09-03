@@ -1,113 +1,5 @@
 {
   "articles": {
-    "63d7a924b7e93f1d": {
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "fetched_at": "2026-08-26T19:29:04.874029+00:00"
-    },
-    "db145bfdde0e0571": {
-      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-      "fetched_at": "2026-08-26T19:29:05.511984+00:00"
-    },
-    "cefc51412c190f9a": {
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "fetched_at": "2026-08-26T19:29:06.124401+00:00"
-    },
-    "8faf20a8d0a25e4c": {
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "fetched_at": "2026-08-26T19:29:06.735610+00:00"
-    },
-    "db5cf8f050474921": {
-      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-      "fetched_at": "2026-08-26T19:29:07.367282+00:00"
-    },
-    "47f15e3b6c176d31": {
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "fetched_at": "2026-08-26T19:29:07.992638+00:00"
-    },
-    "6d6c4f0a0337be7e": {
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "fetched_at": "2026-08-26T19:29:08.619792+00:00"
-    },
-    "4ca4b70efae94d95": {
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "fetched_at": "2026-08-26T19:29:09.230241+00:00"
-    },
-    "1f5af6a04b317e1c": {
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "fetched_at": "2026-08-26T19:29:09.857982+00:00"
-    },
-    "f1a43d3fb584e6fb": {
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "fetched_at": "2026-08-26T19:29:10.484351+00:00"
-    },
-    "c5330b74ceeb041a": {
-      "title": "西藏—尼泊爾邊境山洪暴發 數百人失蹤包括多國遊客",
-      "fetched_at": "2026-08-26T19:29:12.794539+00:00"
-    },
-    "7cdc893bc46738cb": {
-      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
-      "fetched_at": "2026-08-26T19:29:13.428479+00:00"
-    },
-    "55c19fdf09b9ffd0": {
-      "title": "How worried are you about the health impacts of extreme heat?",
-      "fetched_at": "2026-08-26T19:29:15.274609+00:00"
-    },
-    "1a1de6cfd7d443ec": {
-      "title": "'Unlike anything seen before': Archaeologists unearth a unique, 11,000-year-old statue of a person riding a leopard from one of the world's earliest settlements",
-      "fetched_at": "2026-08-26T19:29:15.912389+00:00"
-    },
-    "c3198551c63ab1db": {
-      "title": "Markings on Anatolian Arrowheads Studied",
-      "fetched_at": "2026-08-26T19:29:16.538931+00:00"
-    },
-    "3c80bfa67f7636e7": {
-      "title": "New Dates Obtained at Canada’s St. Victor Petroglyph Site",
-      "fetched_at": "2026-08-26T19:29:17.148824+00:00"
-    },
-    "4a22343d97e24835": {
-      "title": "Medieval Nobleman’s Tomb Discovered in Western Russia",
-      "fetched_at": "2026-08-26T19:29:17.771252+00:00"
-    },
-    "efd1f50bd35f1158": {
-      "title": "I took a big risk for the Aug. 12 total solar eclipse —‬ and the reward was glorious",
-      "fetched_at": "2026-08-26T19:29:18.392019+00:00"
-    },
-    "175344cd6fcc4f58": {
-      "title": "Rare red northern lights may be visible alongside red moon during tomorrow night's partial lunar eclipse",
-      "fetched_at": "2026-08-26T19:29:19.082212+00:00"
-    },
-    "c8a32d5dd89fd3ac": {
-      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
-      "fetched_at": "2026-08-26T19:29:19.698007+00:00"
-    },
-    "257a0782806b2720": {
-      "title": "190-year-old DNA reveals a hidden pangolin species",
-      "fetched_at": "2026-08-26T19:29:20.326326+00:00"
-    },
-    "5df2be532161966b": {
-      "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
-      "fetched_at": "2026-08-26T19:29:20.961789+00:00"
-    },
-    "9534a699cbee1f4a": {
-      "title": "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
-      "fetched_at": "2026-08-26T19:29:21.588738+00:00"
-    },
-    "bac576b5de03cd07": {
-      "title": "One asteroid strike may explain two mysteries of Mars’ moon Deimos",
-      "fetched_at": "2026-08-26T19:29:22.227843+00:00"
-    },
-    "44a6a7858ad08d35": {
-      "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
-      "fetched_at": "2026-08-26T19:29:22.847478+00:00"
-    },
-    "ffebff6f0652f0ad": {
-      "title": "Archaeologists discover Etruscan well that was ritually opened with offerings for a goddess — and 'closed' with human bodies",
-      "fetched_at": "2026-08-26T19:29:23.473050+00:00"
-    },
-    "20cd0250bec8aef1": {
-      "title": "Giant underwater plume blasts into swirling cloud 'street' in the East China Sea — Earth from space",
-      "fetched_at": "2026-08-26T19:29:24.113690+00:00"
-    },
     "1e39a7c75ffa920d": {
       "title": "Ask HN: Would you pay for an AI API that guarantees zero prompt retention?",
       "fetched_at": "2026-08-27T05:34:36.936187+00:00"
@@ -3023,7 +2915,115 @@
     "8235ff99a4bd43a7": {
       "title": "One immune switch may help drive aging across the body",
       "fetched_at": "2026-09-03T15:25:19.321188+00:00"
+    },
+    "f83de5310c381b56": {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "fetched_at": "2026-09-03T20:15:09.979692+00:00"
+    },
+    "e42ef6ac84ea0eb0": {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "fetched_at": "2026-09-03T20:15:10.644508+00:00"
+    },
+    "939e3b6e010ee506": {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "fetched_at": "2026-09-03T20:15:11.308162+00:00"
+    },
+    "1e03cdcd04c198a9": {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "fetched_at": "2026-09-03T20:15:11.956864+00:00"
+    },
+    "bca969dff6b52abf": {
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "fetched_at": "2026-09-03T20:15:12.612604+00:00"
+    },
+    "11b92bc770f5f129": {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "fetched_at": "2026-09-03T20:15:13.273389+00:00"
+    },
+    "abf9f41cb6563522": {
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "fetched_at": "2026-09-03T20:15:13.933690+00:00"
+    },
+    "2d12df89e6802d4b": {
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "fetched_at": "2026-09-03T20:15:14.596148+00:00"
+    },
+    "719a0f27921e65fb": {
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "fetched_at": "2026-09-03T20:15:15.257555+00:00"
+    },
+    "57bd56201d5e419f": {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "fetched_at": "2026-09-03T20:15:15.917386+00:00"
+    },
+    "0c0e57d5b8a5a6bb": {
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "fetched_at": "2026-09-03T20:15:16.569906+00:00"
+    },
+    "59f8d4a8adb3410c": {
+      "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+      "fetched_at": "2026-09-03T20:15:17.222973+00:00"
+    },
+    "46de51a0c6708eea": {
+      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+      "fetched_at": "2026-09-03T20:15:17.890052+00:00"
+    },
+    "0dfdce4fc371dd56": {
+      "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
+      "fetched_at": "2026-09-03T20:15:18.551089+00:00"
+    },
+    "8ccbd92ad038f6d3": {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "fetched_at": "2026-09-03T20:15:19.206391+00:00"
+    },
+    "40e8e6470f6221ad": {
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "fetched_at": "2026-09-03T20:15:19.869982+00:00"
+    },
+    "9351d394012c7446": {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "fetched_at": "2026-09-03T20:15:20.562320+00:00"
+    },
+    "d330405f686c995b": {
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "fetched_at": "2026-09-03T20:15:21.207207+00:00"
+    },
+    "f413c2c9525bdb29": {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "fetched_at": "2026-09-03T20:15:21.847481+00:00"
+    },
+    "95fd71fa663738be": {
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "fetched_at": "2026-09-03T20:15:22.512165+00:00"
+    },
+    "487310f69bbbc4ba": {
+      "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
+      "fetched_at": "2026-09-03T20:15:26.223846+00:00"
+    },
+    "5ef18b931156d857": {
+      "title": "LED Light System Could Help Archaeologists Evaluate Sites Before Excavation",
+      "fetched_at": "2026-09-03T20:15:28.811662+00:00"
+    },
+    "8578189f4e10565d": {
+      "title": "Bones Reveal Effects of Child Labor in the Netherlands",
+      "fetched_at": "2026-09-03T20:15:29.472775+00:00"
+    },
+    "3e129533f9d29378": {
+      "title": "Massive Rock Art Imagery Recorded in Northern Australia",
+      "fetched_at": "2026-09-03T20:15:30.137932+00:00"
+    },
+    "152dabd4e78c3ae1": {
+      "title": "'The apple you eat isn't the apple your granddaughter will eat': What's on the menu in a warming world?",
+      "fetched_at": "2026-09-03T20:15:30.787465+00:00"
+    },
+    "fa325daf9b55b7ba": {
+      "title": "Diagnostic dilemma: A man tried to self-treat his incontinence by gluing his urethra shut",
+      "fetched_at": "2026-09-03T20:15:31.430531+00:00"
+    },
+    "bd86e2b9d03a84e5": {
+      "title": "Trump's childhood vaccine order will threaten children's safety, even if it doesn't directly change policy",
+      "fetched_at": "2026-09-03T20:15:32.089779+00:00"
     }
   },
-  "last_updated": "2026-09-03T15:25:19.387745+00:00"
+  "last_updated": "2026-09-03T20:15:32.204097+00:00"
 }
