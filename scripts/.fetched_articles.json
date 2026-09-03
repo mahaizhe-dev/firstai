@@ -1,85 +1,5 @@
 {
   "articles": {
-    "7eb97b17d082b9d4": {
-      "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-      "fetched_at": "2026-08-26T12:26:56.800140+00:00"
-    },
-    "ed2102f34b847e5e": {
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "fetched_at": "2026-08-26T12:26:57.367884+00:00"
-    },
-    "34f7c9724c906791": {
-      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
-      "fetched_at": "2026-08-26T12:26:57.938850+00:00"
-    },
-    "ac9620f3f679fcf8": {
-      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
-      "fetched_at": "2026-08-26T12:26:58.504480+00:00"
-    },
-    "3b6dc9f55078c897": {
-      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
-      "fetched_at": "2026-08-26T12:26:59.076554+00:00"
-    },
-    "d1f52010a0366966": {
-      "title": "在正镶白旗，用五天共同生活理解现代牧场",
-      "fetched_at": "2026-08-26T12:26:59.653446+00:00"
-    },
-    "af82bab51e6110c9": {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "fetched_at": "2026-08-26T12:27:00.235301+00:00"
-    },
-    "7a20f4cd2e2edb2a": {
-      "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等",
-      "fetched_at": "2026-08-26T12:27:00.830125+00:00"
-    },
-    "015539ed4d72d100": {
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "fetched_at": "2026-08-26T12:27:00.830267+00:00"
-    },
-    "95944435ee4d9ce4": {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "fetched_at": "2026-08-26T12:27:01.394762+00:00"
-    },
-    "487310f69bbbc4ba": {
-      "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
-      "fetched_at": "2026-08-26T12:27:03.855651+00:00"
-    },
-    "72bbb119a74a4ae7": {
-      "title": "鄉村音樂女王Dolly Parton逝世：六首名曲訴說生命故事",
-      "fetched_at": "2026-08-26T12:27:04.413992+00:00"
-    },
-    "ca6df707497e9825": {
-      "title": "美國再次制裁伊朗能成功向德黑蘭政權施壓嗎？",
-      "fetched_at": "2026-08-26T12:27:04.974939+00:00"
-    },
-    "fa325daf9b55b7ba": {
-      "title": "Diagnostic dilemma: A man tried to self-treat his incontinence by gluing his urethra shut",
-      "fetched_at": "2026-08-26T12:27:07.720813+00:00"
-    },
-    "bd86e2b9d03a84e5": {
-      "title": "Trump's childhood vaccine order will threaten children's safety, even if it doesn't directly change policy",
-      "fetched_at": "2026-08-26T12:27:08.291751+00:00"
-    },
-    "773c3806b1f62950": {
-      "title": "The moon is turning red tomorrow night — here's why, and how to watch",
-      "fetched_at": "2026-08-26T12:27:08.859501+00:00"
-    },
-    "1a226f258106b2ce": {
-      "title": "Scientists may have finally proved that “empty” space isn’t really empty",
-      "fetched_at": "2026-08-26T12:27:09.428282+00:00"
-    },
-    "7ab9a19e5ceac5a9": {
-      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
-      "fetched_at": "2026-08-26T12:27:10.077192+00:00"
-    },
-    "2e8cbbe35baf4054": {
-      "title": "A therapy that “rewrites” childhood memories can ease fear of failure",
-      "fetched_at": "2026-08-26T12:27:10.646215+00:00"
-    },
-    "79e29ef6284c74e3": {
-      "title": "The bacteria that make cheese taste so good may also benefit your gut",
-      "fetched_at": "2026-08-26T12:27:11.209372+00:00"
-    },
     "63d7a924b7e93f1d": {
       "title": "OpenAI releases its official report on the Hugging Face breach",
       "fetched_at": "2026-08-26T19:29:04.874029+00:00"
@@ -2995,7 +2915,115 @@
     "23b39e08ebd3dcf4": {
       "title": "2 people die of measles in Pennsylvania as vaccination rates drop across the nation",
       "fetched_at": "2026-09-03T10:18:50.991330+00:00"
+    },
+    "9c8291ef0e416cfc": {
+      "title": "Human-in-the-Loop AI Deployment with IPE",
+      "fetched_at": "2026-09-03T15:24:42.619796+00:00"
+    },
+    "450345c664116870": {
+      "title": "WeatherNext 3: Our most advanced global weather AI model",
+      "fetched_at": "2026-09-03T15:24:43.271489+00:00"
+    },
+    "acf552651ff283e9": {
+      "title": "OpenAI Releases GPT Astra",
+      "fetched_at": "2026-09-03T15:24:43.918635+00:00"
+    },
+    "1937d14e8e4a5683": {
+      "title": "Flock's AI Search Tool for Cops",
+      "fetched_at": "2026-09-03T15:24:44.576471+00:00"
+    },
+    "b88ce1f64418680e": {
+      "title": "Open AI X post on Astra",
+      "fetched_at": "2026-09-03T15:24:45.227550+00:00"
+    },
+    "7e93632570b7003b": {
+      "title": "WebLLM Chat: AI Models Running in the Browser",
+      "fetched_at": "2026-09-03T15:24:45.878571+00:00"
+    },
+    "68444220838743fb": {
+      "title": "Top AI Agent Skills for Building Live Streaming Apps",
+      "fetched_at": "2026-09-03T15:24:46.531660+00:00"
+    },
+    "a9f268ba0d832abe": {
+      "title": "Let your AI agent log into sites without ever seeing the password",
+      "fetched_at": "2026-09-03T15:24:47.179125+00:00"
+    },
+    "1b593dadbddffe18": {
+      "title": "Google says its AI weather model is getting better",
+      "fetched_at": "2026-09-03T15:24:47.824070+00:00"
+    },
+    "a8afad6ce6b5af72": {
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "fetched_at": "2026-09-03T15:24:48.484795+00:00"
+    },
+    "ef8bb3701a6d902a": {
+      "title": "AI Agents Welcome",
+      "fetched_at": "2026-09-03T15:24:49.129391+00:00"
+    },
+    "b354649796681c75": {
+      "title": "Bernie Sanders proposes ban on artificial superintelligence after AI incidents",
+      "fetched_at": "2026-09-03T15:24:49.790593+00:00"
+    },
+    "801ebf1c28384f59": {
+      "title": "AI makes everything cheaper for founders. Except networking",
+      "fetched_at": "2026-09-03T15:24:50.456307+00:00"
+    },
+    "7c6cc26d22f31c3b": {
+      "title": "Show HN: A searchable, timestamped index of 1,124 AI Engineer talks",
+      "fetched_at": "2026-09-03T15:24:51.205318+00:00"
+    },
+    "8d53325f3bfe7b7b": {
+      "title": "How Much Redistribution Will AI Require?",
+      "fetched_at": "2026-09-03T15:24:51.861745+00:00"
+    },
+    "bf3a665cf3d5d6ab": {
+      "title": "Show HN: Real-time AI news aggregator with daily digest",
+      "fetched_at": "2026-09-03T15:24:52.535246+00:00"
+    },
+    "ae56115d0252b335": {
+      "title": "Show HN: The courtroom inside our AI",
+      "fetched_at": "2026-09-03T15:24:53.190957+00:00"
+    },
+    "c07bdb72b49dfece": {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "fetched_at": "2026-09-03T15:24:53.839101+00:00"
+    },
+    "38d8e49fce3c9114": {
+      "title": "How do you guys keep up with the most cost-effective AI models?",
+      "fetched_at": "2026-09-03T15:24:54.507364+00:00"
+    },
+    "babbf775e90d1b72": {
+      "title": "Legal AI Drafter, Contract Management and Datarooms",
+      "fetched_at": "2026-09-03T15:24:55.196489+00:00"
+    },
+    "2c3e18e4bda35856": {
+      "title": "New map of a male fly central nervous system includes all 166,000 neurons — and enables direct comparisons to female fly brain",
+      "fetched_at": "2026-09-03T15:25:15.602561+00:00"
+    },
+    "e4f70ea2b71ceef7": {
+      "title": "An ancient 'supervolcano' has been found hiding beneath eastern England. But experts say there's not enough evidence to call it that.",
+      "fetched_at": "2026-09-03T15:25:16.218380+00:00"
+    },
+    "8fcfe8f8316fd4d0": {
+      "title": "Ancient “living fossils” may reveal how complex life began",
+      "fetched_at": "2026-09-03T15:25:16.832397+00:00"
+    },
+    "96b2014b4e36d5ed": {
+      "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
+      "fetched_at": "2026-09-03T15:25:17.458853+00:00"
+    },
+    "89b5286a3fa53991": {
+      "title": "Scientists just overturned a century-old physics assumption",
+      "fetched_at": "2026-09-03T15:25:18.082711+00:00"
+    },
+    "24da956096f21d5c": {
+      "title": "Bats carry dangerous viruses without getting sick. This may be why",
+      "fetched_at": "2026-09-03T15:25:18.705968+00:00"
+    },
+    "8235ff99a4bd43a7": {
+      "title": "One immune switch may help drive aging across the body",
+      "fetched_at": "2026-09-03T15:25:19.321188+00:00"
     }
   },
-  "last_updated": "2026-09-03T10:18:51.076642+00:00"
+  "last_updated": "2026-09-03T15:25:19.387745+00:00"
 }
