@@ -1,137 +1,5 @@
 {
   "articles": {
-    "85e14f3e32db3361": {
-      "title": "Microsoft's Maia 200 AI Accelerator at Hot Chips 2026",
-      "fetched_at": "2026-08-26T00:36:36.397186+00:00"
-    },
-    "0317bcf632ba6cd6": {
-      "title": "AI Realist Radar:GPT‑5.6 Sol Pricing, Stripe's OpenRouter Deal",
-      "fetched_at": "2026-08-26T00:36:36.993145+00:00"
-    },
-    "d321266b493d2fe9": {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "fetched_at": "2026-08-26T00:36:37.598325+00:00"
-    },
-    "42b102a04656607b": {
-      "title": "The AI Health Agent That Will Know Me for Life",
-      "fetched_at": "2026-08-26T00:36:38.193086+00:00"
-    },
-    "6e2c1b477709f7aa": {
-      "title": "A modest but open theorem in theoretical biology proved by AI",
-      "fetched_at": "2026-08-26T00:36:38.804139+00:00"
-    },
-    "32f16dc994af07b9": {
-      "title": "AI Disruptors: How the Next Generation of Business Is Being Built",
-      "fetched_at": "2026-08-26T00:36:39.400495+00:00"
-    },
-    "ce8fe36af6b15027": {
-      "title": "Hermes Agent – Open-Source AI Agent That Grows with You",
-      "fetched_at": "2026-08-26T00:36:40.044125+00:00"
-    },
-    "dfb33fcce990fa4c": {
-      "title": "Show HN: Slash-tokens – know LLM cost before the call leaves your machine",
-      "fetched_at": "2026-08-26T00:36:40.642774+00:00"
-    },
-    "dcd94e9991677197": {
-      "title": "AI Home Lab for Beginners: The Deep Dive",
-      "fetched_at": "2026-08-26T00:36:41.252706+00:00"
-    },
-    "633d82a82e06d34c": {
-      "title": "New AI Agent to Autonomously Prepare and Send Docs Out for Signature",
-      "fetched_at": "2026-08-26T00:36:41.837853+00:00"
-    },
-    "eb829da72b67e18e": {
-      "title": "Try to beat this AI writing detector",
-      "fetched_at": "2026-08-26T00:36:42.435569+00:00"
-    },
-    "0a69ee7537eaacc6": {
-      "title": "Google Aims to Boost AI with Purchase of Spirit Airlines Data",
-      "fetched_at": "2026-08-26T00:36:43.114475+00:00"
-    },
-    "fe2c945b28cb696f": {
-      "title": "The State of AI Disclosure 2026: what 1,088 EU sites' chat widgets say",
-      "fetched_at": "2026-08-26T00:36:43.716572+00:00"
-    },
-    "ef17d8375b8ab9cf": {
-      "title": "MREA – Open-source governance framework for multi-role AI agents",
-      "fetched_at": "2026-08-26T00:36:44.320843+00:00"
-    },
-    "7b9aa330e3d12db3": {
-      "title": "AI, IPv6, and the future Internet at IETF 126",
-      "fetched_at": "2026-08-26T00:36:44.931201+00:00"
-    },
-    "205ab5c2eb73bb4a": {
-      "title": "The New York Times is publishing AI slop",
-      "fetched_at": "2026-08-26T00:36:45.536800+00:00"
-    },
-    "b7da0c4a3b09de54": {
-      "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
-      "fetched_at": "2026-08-26T00:36:46.140855+00:00"
-    },
-    "3af83b604c5f01e0": {
-      "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
-      "fetched_at": "2026-08-26T00:36:46.743357+00:00"
-    },
-    "5ad623cc481b9375": {
-      "title": "Vidbyte Skills – Skills That Keep AI-Assisted Work from Becoming Passive",
-      "fetched_at": "2026-08-26T00:36:47.363028+00:00"
-    },
-    "164eebab885f9dd8": {
-      "title": "AI is supercharging hacks of everyday utilities",
-      "fetched_at": "2026-08-26T00:36:47.947515+00:00"
-    },
-    "0b0a8cc4ab1dfec1": {
-      "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
-      "fetched_at": "2026-08-26T00:36:50.608652+00:00"
-    },
-    "a7ff16d66989aade": {
-      "title": "先天性黑色素細胞痣患者：「皮膚使我獨一無二，我正學習接納它。」",
-      "fetched_at": "2026-08-26T00:36:51.213844+00:00"
-    },
-    "23b39e08ebd3dcf4": {
-      "title": "2 people die of measles in Pennsylvania as vaccination rates drop across the nation",
-      "fetched_at": "2026-08-26T00:36:53.621567+00:00"
-    },
-    "6a8b88ce418ae676": {
-      "title": "U.S. Returns Artifacts to Egypt",
-      "fetched_at": "2026-08-26T00:36:54.219381+00:00"
-    },
-    "223bb68fb86eeb99": {
-      "title": "Show HN: Query Historical Data with Time Travel (Iceberg and Spark)",
-      "fetched_at": "2026-08-26T00:36:54.827184+00:00"
-    },
-    "b8de18e01ed35bcd": {
-      "title": "Study Compares Neanderthal and Modern Human Hip Bones",
-      "fetched_at": "2026-08-26T00:36:55.418633+00:00"
-    },
-    "9a98be7a7a2dcfbf": {
-      "title": "Child’s Burial Excavated at Huacas de Moche",
-      "fetched_at": "2026-08-26T00:36:56.022742+00:00"
-    },
-    "013be23ac20ac2c2": {
-      "title": "An open protocol for AI-mediated product discovery",
-      "fetched_at": "2026-08-26T00:36:56.635898+00:00"
-    },
-    "967ff147606b5245": {
-      "title": "1,700-year-old church discovered under a lake in Turkey may be the location of the First Council of Nicaea — but other experts disagree",
-      "fetched_at": "2026-08-26T00:36:57.245480+00:00"
-    },
-    "bb8bca08bcf9e44e": {
-      "title": "Skeleton with 167 fractures discovered at Scottish castle may have been first victim of Edward I's 'War Wolf' trebuchet",
-      "fetched_at": "2026-08-26T00:36:57.858294+00:00"
-    },
-    "95428b4f7d3d79e2": {
-      "title": "Webb’s mysterious little red dots may be hiding entire galaxies",
-      "fetched_at": "2026-08-26T00:36:58.456648+00:00"
-    },
-    "bfaae27248d589ca": {
-      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
-      "fetched_at": "2026-08-26T00:36:59.047477+00:00"
-    },
-    "bccb588eca7a2337": {
-      "title": "Show HN: AI activity discovery that brings all activities to one platform",
-      "fetched_at": "2026-08-26T00:36:59.651334+00:00"
-    },
     "19aa9c9f9664a934": {
       "title": "Flow AI Video Generator",
       "fetched_at": "2026-08-26T06:27:30.079005+00:00"
@@ -3031,7 +2899,119 @@
     "f9f2baf00f93eb0a": {
       "title": "Rare sunlight trick transforms Pacific island into a giant silver 'magnifying glass' — Earth from space",
       "fetched_at": "2026-09-02T20:14:28.846466+00:00"
+    },
+    "28e010f925324f6d": {
+      "title": "Yokohama's New \"Poop Museum\": A Crappy, Kawaii Learning Experience",
+      "fetched_at": "2026-09-03T01:55:10.489808+00:00"
+    },
+    "c447a3260f07d449": {
+      "title": "MemHub – Persistent shared memory for AI coding agents",
+      "fetched_at": "2026-09-03T01:55:11.107410+00:00"
+    },
+    "e0662d0e0ffc7cfc": {
+      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+      "fetched_at": "2026-09-03T01:55:11.718650+00:00"
+    },
+    "3c903f5c98458256": {
+      "title": "Show HN: Competitive Language Learning (E-Sport)",
+      "fetched_at": "2026-09-03T01:55:12.341272+00:00"
+    },
+    "6fc70b6ab8c011ae": {
+      "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
+      "fetched_at": "2026-09-03T01:55:12.946707+00:00"
+    },
+    "6530ac32599113c3": {
+      "title": "Show HN: Redactle LLM Leaderboard",
+      "fetched_at": "2026-09-03T01:55:13.538404+00:00"
+    },
+    "d548f674647e5462": {
+      "title": "Workplace surveillance is on the rise, spurred by AI",
+      "fetched_at": "2026-09-03T01:55:14.155412+00:00"
+    },
+    "61a6e1734a6cc220": {
+      "title": "Why Software Developers Are Highly Unrepresentative of Broader AI Use",
+      "fetched_at": "2026-09-03T01:55:14.778416+00:00"
+    },
+    "e3d1af994ec5fed6": {
+      "title": "AI-Memory 2.0 – The Best Memory System for Agents and Teams",
+      "fetched_at": "2026-09-03T01:55:15.389443+00:00"
+    },
+    "6cb3503fc82947f3": {
+      "title": "Ontologies catch untrustworthy LLM claims",
+      "fetched_at": "2026-09-03T01:55:15.978546+00:00"
+    },
+    "59796615ec44feab": {
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-03T01:55:16.599703+00:00"
+    },
+    "d2917d0873aaf791": {
+      "title": "Pacman AI for controlling fusion systems makes key decisions in milliseconds",
+      "fetched_at": "2026-09-03T01:55:17.210853+00:00"
+    },
+    "95a09bda0bcc0f54": {
+      "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
+      "fetched_at": "2026-09-03T01:55:17.886102+00:00"
+    },
+    "51c5c62d7849a877": {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "fetched_at": "2026-09-03T01:55:18.501611+00:00"
+    },
+    "bbb65c8614786ea2": {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "fetched_at": "2026-09-03T01:55:19.096097+00:00"
+    },
+    "79eb58d319f3941c": {
+      "title": "US Government worried that AI companies can't innovate without legal theft",
+      "fetched_at": "2026-09-03T01:55:19.704704+00:00"
+    },
+    "b014e12574f64bb5": {
+      "title": "Ask HN: How to get taken seriously while using AI?",
+      "fetched_at": "2026-09-03T01:55:20.326190+00:00"
+    },
+    "8054e7d3c31fdc2d": {
+      "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+      "fetched_at": "2026-09-03T01:55:20.957038+00:00"
+    },
+    "c3a9c4a01f604d8f": {
+      "title": "Pushdown automata in statistical machine translation (2014)",
+      "fetched_at": "2026-09-03T01:55:21.593551+00:00"
+    },
+    "d39ec0a75779631f": {
+      "title": "NYC Announced Nation's Broadest Generative AI Moratorium in Schools",
+      "fetched_at": "2026-09-03T01:55:22.187871+00:00"
+    },
+    "4ea35ef3bdf3287d": {
+      "title": "尼泊尔洪灾中的“奇迹”绿房子",
+      "fetched_at": "2026-09-03T01:55:24.807070+00:00"
+    },
+    "bc01f489b63d0f85": {
+      "title": "习近平访问埃及，挑战美国在中东影响力",
+      "fetched_at": "2026-09-03T01:55:25.408743+00:00"
+    },
+    "eab2823f73598d00": {
+      "title": "莫迪敦促普京結束烏克蘭戰爭，他能勸得動嗎？",
+      "fetched_at": "2026-09-03T01:55:26.004539+00:00"
+    },
+    "6d8c627764ef70c0": {
+      "title": "《肖申克的救贖》中國公映：官方字幕把「queer」譯成「變態」，為何引發爭議？",
+      "fetched_at": "2026-09-03T01:55:26.618130+00:00"
+    },
+    "e630cebd51c41487": {
+      "title": "「我從未去過的祖國」：600萬人遭遣返阿富汗，在塔利班治下重新開始",
+      "fetched_at": "2026-09-03T01:55:27.222307+00:00"
+    },
+    "f2478cee8211b04b": {
+      "title": "Lacuna, cryptic protein pocket discovery that runs on a laptop CPU",
+      "fetched_at": "2026-09-03T01:56:06.133102+00:00"
+    },
+    "9efc5cd1a5dc8ec7": {
+      "title": "Ritual solstice structure 1,000 years older than Stonehenge unearthed in Czech Republic",
+      "fetched_at": "2026-09-03T01:56:06.732870+00:00"
+    },
+    "8a14a4b88c482016": {
+      "title": "Front face of a stela: A 1,300-year-old carving of a powerful Maya 'Lady Supreme Warlord' that weighs over 1 ton",
+      "fetched_at": "2026-09-03T01:56:07.325729+00:00"
     }
   },
-  "last_updated": "2026-09-02T20:14:28.934292+00:00"
+  "last_updated": "2026-09-03T01:56:07.437071+00:00"
 }
