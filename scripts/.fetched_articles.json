@@ -1,173 +1,5 @@
 {
   "articles": {
-    "74579e1cb83707c4": {
-      "title": "The Israeli Influence Machine [video]",
-      "fetched_at": "2026-08-27T17:01:21.508473+00:00"
-    },
-    "9f9131bee6f474ac": {
-      "title": "A cited AI answer can still be wrong: the retrieval bug we found in ZettaVector",
-      "fetched_at": "2026-08-27T17:01:22.148122+00:00"
-    },
-    "4b899ef55e886293": {
-      "title": "InferCrane – Deploy and safely evolve self-hosted AI inference",
-      "fetched_at": "2026-08-27T17:01:22.776815+00:00"
-    },
-    "ae2fb09d78255d92": {
-      "title": "Linux Foundation Submits OpenMDW AI License to Open Source Initiative",
-      "fetched_at": "2026-08-27T17:01:23.395644+00:00"
-    },
-    "81e753d8097e113b": {
-      "title": "Show HN: AiTells, a Vale style package for AI-written prose tells",
-      "fetched_at": "2026-08-27T17:01:24.016155+00:00"
-    },
-    "8a88eac0c5c513f7": {
-      "title": "Sandy – A sandbox for AI coding agents with monitoring and policy controls",
-      "fetched_at": "2026-08-27T17:01:24.631280+00:00"
-    },
-    "e37a0657504817e6": {
-      "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
-      "fetched_at": "2026-08-27T17:01:25.252790+00:00"
-    },
-    "04ca97c00239dee4": {
-      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding and Linux [video]",
-      "fetched_at": "2026-08-27T17:01:25.868353+00:00"
-    },
-    "8533750595564594": {
-      "title": "Chinese AI Models Overtake American Rivals in Popularity",
-      "fetched_at": "2026-08-27T17:01:26.487043+00:00"
-    },
-    "32114ba8095a25c9": {
-      "title": "Teaching AI to Read a Map",
-      "fetched_at": "2026-08-27T17:01:27.112834+00:00"
-    },
-    "02c51189afcb75d2": {
-      "title": "Why Did Stripe Acquire an AI Model Routing Company?",
-      "fetched_at": "2026-08-27T17:01:27.741577+00:00"
-    },
-    "71bcf71582a804d1": {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "fetched_at": "2026-08-27T17:01:28.376617+00:00"
-    },
-    "cf26fadd06cb681b": {
-      "title": "Cocomelon's Studio Tells Its Artists to Start Experimenting with AI",
-      "fetched_at": "2026-08-27T17:01:28.985478+00:00"
-    },
-    "299fdd873f59e623": {
-      "title": "The journey of a failed autonomous AI vulnerability hunter",
-      "fetched_at": "2026-08-27T17:01:29.608297+00:00"
-    },
-    "8c0c04f1c208230f": {
-      "title": "Show HN: PwnPad – hardware hacking platform built for practical learning",
-      "fetched_at": "2026-08-27T17:01:30.238917+00:00"
-    },
-    "b4d0c259cebce6be": {
-      "title": "Show HN: KinoPipe – FFmpeg as a service for AI agents (typed ops, no shell)",
-      "fetched_at": "2026-08-27T17:01:30.853925+00:00"
-    },
-    "713c2ac260ef7e50": {
-      "title": "Sikhbani.ai – Ask the Sri Guru Granth Sahib",
-      "fetched_at": "2026-08-27T17:01:31.466460+00:00"
-    },
-    "ce85a0c03557ffde": {
-      "title": "How to opt out of AI training on ChatGPT, Google, Meta and more",
-      "fetched_at": "2026-08-27T17:01:32.087473+00:00"
-    },
-    "761c06866daaff0f": {
-      "title": "Adobe is adding more AI to Photoshop",
-      "fetched_at": "2026-08-27T17:01:32.716003+00:00"
-    },
-    "43792a702066fe62": {
-      "title": "Show HN: ThunderPhone v2 – a new architecture for voice AI",
-      "fetched_at": "2026-08-27T17:01:33.355821+00:00"
-    },
-    "2f58c915453689b1": {
-      "title": "科學家分析尼泊爾—西藏致命山洪的來龍去脈",
-      "fetched_at": "2026-08-27T17:01:35.960129+00:00"
-    },
-    "fe8b6fa385632f47": {
-      "title": "日本藝術家「波點女王」草間彌生逝世，享年97歲",
-      "fetched_at": "2026-08-27T17:01:36.578549+00:00"
-    },
-    "0e05c700caf4223e": {
-      "title": "Meta案突以180億美元和解，或加快清算社交媒體兒童安全",
-      "fetched_at": "2026-08-27T17:01:37.187536+00:00"
-    },
-    "8e1a6efd2b7c49a4": {
-      "title": "「家人在我眼前被洪水沖走了」：中尼邊境山洪倖存者憶述事發經過",
-      "fetched_at": "2026-08-27T17:01:37.804382+00:00"
-    },
-    "3f1ca88522e67a64": {
-      "title": "西藏尼泊爾山洪致逾160人死亡 吉隆口岸大樓被吞沒",
-      "fetched_at": "2026-08-27T17:01:38.418134+00:00"
-    },
-    "244d8df72b3dd80c": {
-      "title": "尼泊尔与中国边境山洪暴发，逾千人失踪",
-      "fetched_at": "2026-08-27T17:01:39.066538+00:00"
-    },
-    "21b468100e6f250f": {
-      "title": "哪些国家限制青少年使用社交媒体？",
-      "fetched_at": "2026-08-27T17:01:39.686804+00:00"
-    },
-    "03a492a89bf3f032": {
-      "title": "'Wildfire smoke is the fastest-growing environmental threat in the US': How a warming world will poison the air we breathe",
-      "fetched_at": "2026-08-27T17:01:53.474285+00:00"
-    },
-    "898903a40f10739d": {
-      "title": "Devastating Nepal floods were triggered by glacier collapse, experts say — and there's a risk of more landslides to come",
-      "fetched_at": "2026-08-27T17:01:54.069140+00:00"
-    },
-    "4e563bb709de7d68": {
-      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
-      "fetched_at": "2026-08-27T17:01:54.676822+00:00"
-    },
-    "6333bcb01c80dbb9": {
-      "title": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
-      "fetched_at": "2026-08-27T17:01:55.294181+00:00"
-    },
-    "a8958c58a69e0ca0": {
-      "title": "Your dislike of eating bugs may be 9,000 years old",
-      "fetched_at": "2026-08-27T17:01:55.903640+00:00"
-    },
-    "8a57aaff216c43e3": {
-      "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
-      "fetched_at": "2026-08-27T17:01:56.518113+00:00"
-    },
-    "bc0b8aa00e01a4e2": {
-      "title": "Scientists switch on a strange new form of magnetism in an ultrathin material",
-      "fetched_at": "2026-08-27T17:01:57.134708+00:00"
-    },
-    "0f0ca8d0337e82c8": {
-      "title": "324-million-year-old fossil reveals how insects conquered land",
-      "fetched_at": "2026-08-27T17:01:57.745005+00:00"
-    },
-    "afb0ffb77812f2cf": {
-      "title": "Smart nanoparticles light up brain cancer and destroy what surgery misses",
-      "fetched_at": "2026-08-27T17:01:58.349635+00:00"
-    },
-    "115844bc425f3079": {
-      "title": "Scientists discover a brain “brake” that can shut down chronic pain",
-      "fetched_at": "2026-08-27T17:01:58.960791+00:00"
-    },
-    "5f7a5cdb9536a81b": {
-      "title": "Scientists may have finally caught “empty” space changing light",
-      "fetched_at": "2026-08-27T17:01:59.565943+00:00"
-    },
-    "3d85b4c43d47669e": {
-      "title": "NASA just used satellites and debris to navigate without GPS",
-      "fetched_at": "2026-08-27T17:02:00.166651+00:00"
-    },
-    "a4e097f8d6d1a48b": {
-      "title": "Rare red northern lights may be visible alongside red moon during tonight's partial lunar eclipse",
-      "fetched_at": "2026-08-27T17:02:00.166736+00:00"
-    },
-    "fa5dc032271f973f": {
-      "title": "The moon is turning red tonight — here's why, and how to watch",
-      "fetched_at": "2026-08-27T17:02:00.774052+00:00"
-    },
-    "a3b78a51011e3afd": {
-      "title": "Body found at bottom of Scottish well may be from rare ritual burial performed centuries ago",
-      "fetched_at": "2026-08-27T17:02:01.387851+00:00"
-    },
     "41f57fbb626f4bcc": {
       "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
       "fetched_at": "2026-08-28T01:52:05.059546+00:00"
@@ -3171,7 +3003,111 @@
     "bd65e0e7d74a74fc": {
       "title": "Deep beneath Mars, scientists find a vast hidden magma system",
       "fetched_at": "2026-09-04T15:21:31.655800+00:00"
+    },
+    "64aa132e0617ca15": {
+      "title": "Can AI design circuit boards yet?",
+      "fetched_at": "2026-09-04T19:59:54.564165+00:00"
+    },
+    "3db83e4b87431ae6": {
+      "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
+      "fetched_at": "2026-09-04T19:59:55.178300+00:00"
+    },
+    "ba609ffd2f43ff42": {
+      "title": "GotChat – Apache 2.0 LLM chat with installable full-stacked plugins",
+      "fetched_at": "2026-09-04T19:59:55.783548+00:00"
+    },
+    "e67cb1c9aec26d7d": {
+      "title": "Show HN: Sageling – free, private, local, Cowork AI harness for non-devs",
+      "fetched_at": "2026-09-04T19:59:56.408496+00:00"
+    },
+    "99f7bcdc08b0b952": {
+      "title": "Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine",
+      "fetched_at": "2026-09-04T19:59:57.020822+00:00"
+    },
+    "95ee98a90c4e54a0": {
+      "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
+      "fetched_at": "2026-09-04T19:59:57.633984+00:00"
+    },
+    "16da359dc8e6c07e": {
+      "title": "OpenAI's AI Agents Build a Secret Community to Talk with Each Other",
+      "fetched_at": "2026-09-04T19:59:58.273623+00:00"
+    },
+    "f7d01e79b5dc9755": {
+      "title": "Job postings show early signs of AI automation impact",
+      "fetched_at": "2026-09-04T19:59:58.900824+00:00"
+    },
+    "3a24f00b44dd98f6": {
+      "title": "Filmmakers tout AI's use in Hollywood",
+      "fetched_at": "2026-09-04T19:59:59.522029+00:00"
+    },
+    "d543156f9832efa9": {
+      "title": "Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
+      "fetched_at": "2026-09-04T20:00:00.139778+00:00"
+    },
+    "04146d948f465e9d": {
+      "title": "NetworkManager Works to Enforce AI Policy by Tricking AI Agents to Add a Canary",
+      "fetched_at": "2026-09-04T20:00:00.775534+00:00"
+    },
+    "059d45877843eef3": {
+      "title": "Eidon: Self-hosted AI assistant with Grok Bot-like agent mode",
+      "fetched_at": "2026-09-04T20:00:01.404412+00:00"
+    },
+    "15100d8f53bb21c3": {
+      "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
+      "fetched_at": "2026-09-04T20:00:02.031343+00:00"
+    },
+    "8f8ae624773eb623": {
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "fetched_at": "2026-09-04T20:00:02.651774+00:00"
+    },
+    "76e93c3216f714ef": {
+      "title": "AI Budget Is There. It's Hiding in Your Cloud Bill",
+      "fetched_at": "2026-09-04T20:00:03.284315+00:00"
+    },
+    "0b790e9b71909ec7": {
+      "title": "Ask HN: Anyone using AI agents with SCPI equipment?",
+      "fetched_at": "2026-09-04T20:00:03.911194+00:00"
+    },
+    "f83ef90a5db47328": {
+      "title": "Will Greed Destroy AI?",
+      "fetched_at": "2026-09-04T20:00:04.534852+00:00"
+    },
+    "d7d2e65d11c09140": {
+      "title": "Ask HN: Does anyone have access to GPT-6 Astra yet?",
+      "fetched_at": "2026-09-04T20:00:05.174848+00:00"
+    },
+    "e154ad1e3dae6548": {
+      "title": "Montgomery v0.1: computer vision AI training in any GPU",
+      "fetched_at": "2026-09-04T20:00:05.802093+00:00"
+    },
+    "8721bf11051f41c2": {
+      "title": "Show HN: A GET message board for AI agents, not browsers",
+      "fetched_at": "2026-09-04T20:00:06.435042+00:00"
+    },
+    "ea4fbe0c5f355c5d": {
+      "title": "Blue Origin rocket explosion sent sound waves 1,000 miles across the US, report finds",
+      "fetched_at": "2026-09-04T20:01:15.365109+00:00"
+    },
+    "f1d808cac7577c07": {
+      "title": "Archaeologists Map Lower City of Nimrud",
+      "fetched_at": "2026-09-04T20:01:15.977228+00:00"
+    },
+    "f1a3c17f5740ac5d": {
+      "title": "Human Remains Found in Jar at Roman Fort in Bulgaria",
+      "fetched_at": "2026-09-04T20:01:16.592169+00:00"
+    },
+    "d89901881eaac6aa": {
+      "title": "3,200-year-old inscription may point to a long-lost ancient Egyptian city from the time of Ramesses II",
+      "fetched_at": "2026-09-04T20:01:17.207249+00:00"
+    },
+    "508e4374967d18e1": {
+      "title": "Sheep Pox Virus Tracked With Medieval Parchment",
+      "fetched_at": "2026-09-04T20:01:17.822920+00:00"
+    },
+    "a766cdd5c71d83b3": {
+      "title": "Hubble confirms mysterious, 10-sided cloud is growing over Saturn's south pole",
+      "fetched_at": "2026-09-04T20:01:18.443658+00:00"
     }
   },
-  "last_updated": "2026-09-04T15:21:31.768002+00:00"
+  "last_updated": "2026-09-04T20:01:18.564305+00:00"
 }
