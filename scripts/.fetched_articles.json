@@ -1,161 +1,5 @@
 {
   "articles": {
-    "1e39a7c75ffa920d": {
-      "title": "Ask HN: Would you pay for an AI API that guarantees zero prompt retention?",
-      "fetched_at": "2026-08-27T05:34:36.936187+00:00"
-    },
-    "8d6fec6c885d2126": {
-      "title": "Show HN: AI chat app build specifically for kids (howcomet.com)",
-      "fetched_at": "2026-08-27T05:34:37.556712+00:00"
-    },
-    "b1704044eff90706": {
-      "title": "Interviewing in the Age of AI",
-      "fetched_at": "2026-08-27T05:34:38.175979+00:00"
-    },
-    "f8904915395881d3": {
-      "title": "First patient to undergo live AI-assisted brain surgery has tumour removed",
-      "fetched_at": "2026-08-27T05:34:38.798536+00:00"
-    },
-    "4837575fecfb7223": {
-      "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
-      "fetched_at": "2026-08-27T05:34:39.415458+00:00"
-    },
-    "b2bd6bc4970bcb7c": {
-      "title": "How researchers are teaching AI to learn like a child",
-      "fetched_at": "2026-08-27T05:34:40.034007+00:00"
-    },
-    "8d2d02d7e6ab49cf": {
-      "title": "Humanity has the debate about AI consciousness backwards",
-      "fetched_at": "2026-08-27T05:34:40.655390+00:00"
-    },
-    "e8c6bee806a79265": {
-      "title": "AI agents meant to replace Meta workers made \"large-scale, disruptive actions\"",
-      "fetched_at": "2026-08-27T05:34:41.363482+00:00"
-    },
-    "cf09448a214673fc": {
-      "title": "Reading Is Not Using: Retrieval, Judgment, and AI Financial Research",
-      "fetched_at": "2026-08-27T05:34:41.978804+00:00"
-    },
-    "4a3199e80206aa7a": {
-      "title": "AI Lessons from Driving 200M Autonomous Miles",
-      "fetched_at": "2026-08-27T05:34:42.604347+00:00"
-    },
-    "f41631dc2dbb2bae": {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "fetched_at": "2026-08-27T05:34:43.236913+00:00"
-    },
-    "2171340ba3dc956b": {
-      "title": "How I design with AI as an engineer who is not a designer and hates slop",
-      "fetched_at": "2026-08-27T05:34:43.883152+00:00"
-    },
-    "174d06e0c110646f": {
-      "title": "S1: In-Context Learning for Robotics",
-      "fetched_at": "2026-08-27T05:34:44.498966+00:00"
-    },
-    "5e0ad1baeb6667f7": {
-      "title": "Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up",
-      "fetched_at": "2026-08-27T05:34:45.120869+00:00"
-    },
-    "542fdb0ef6c3cb82": {
-      "title": "We run stateful AI agents on a serverless infra",
-      "fetched_at": "2026-08-27T05:34:45.746459+00:00"
-    },
-    "b46ae3ab3d9670ea": {
-      "title": "PaaS IaaS GaaS all in one. And 2 AI models",
-      "fetched_at": "2026-08-27T05:34:46.367068+00:00"
-    },
-    "a3cecf935cc695a7": {
-      "title": "Physical AI Is Enabled by Mechanical Hardware",
-      "fetched_at": "2026-08-27T05:34:46.995964+00:00"
-    },
-    "a6514b5fc44488f9": {
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-      "fetched_at": "2026-08-27T05:34:47.615644+00:00"
-    },
-    "2ccc624d3a5652a8": {
-      "title": "Moonshot AI in Talks with Microsoft, Amazon, Google over K3 Revenue Sharing",
-      "fetched_at": "2026-08-27T05:34:48.236618+00:00"
-    },
-    "68a7652cd0a0c7d8": {
-      "title": "Debian weighs eight options in vote on LLM usage",
-      "fetched_at": "2026-08-27T05:34:48.869859+00:00"
-    },
-    "de224ecd73b2715a": {
-      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
-      "fetched_at": "2026-08-27T05:34:51.668289+00:00"
-    },
-    "181b15db49ce8964": {
-      "title": "社交媒体成瘾诉讼：Meta以最高171亿美元达成和解",
-      "fetched_at": "2026-08-27T05:34:52.283714+00:00"
-    },
-    "6e43395888508811": {
-      "title": "黑暗历史的回响：韩国国家民主纪念馆背后的创伤与反思",
-      "fetched_at": "2026-08-27T05:34:52.900429+00:00"
-    },
-    "14f101fc0e5211c9": {
-      "title": "尼泊尔与中国边境山洪暴发，数百人失踪",
-      "fetched_at": "2026-08-27T05:34:53.528333+00:00"
-    },
-    "84ac04f566d9bf6b": {
-      "title": "中国人为何热情拥抱人工智能？",
-      "fetched_at": "2026-08-27T05:34:54.160610+00:00"
-    },
-    "e4dcf9e909762bad": {
-      "title": "《奥德赛》：每一帧都充满激情的诺兰巨作",
-      "fetched_at": "2026-08-27T05:34:54.776644+00:00"
-    },
-    "bbcb76bd0c2d7b67": {
-      "title": "第三次世界大战已经爆发了吗？",
-      "fetched_at": "2026-08-27T05:34:55.397050+00:00"
-    },
-    "e60c4959ff6fd49c": {
-      "title": "這些藥物讓人更難以應對高溫",
-      "fetched_at": "2026-08-27T05:34:56.032665+00:00"
-    },
-    "ddcf6905531e8136": {
-      "title": "特斯拉為何捲入中國大規模汽車召回風波？",
-      "fetched_at": "2026-08-27T05:34:56.692725+00:00"
-    },
-    "094f67c5fd4b0c92": {
-      "title": "视频与卫星图像揭示尼泊尔山洪有多致命",
-      "fetched_at": "2026-08-27T05:34:57.318939+00:00"
-    },
-    "05d1dcaabe772c08": {
-      "title": "Show HN: Historical daily weather for any US ZIP code Python Package",
-      "fetched_at": "2026-08-27T05:35:00.971330+00:00"
-    },
-    "c75fe05f2ff459c3": {
-      "title": "Compromising Signal's Contact Discovery Enclave",
-      "fetched_at": "2026-08-27T05:35:01.591641+00:00"
-    },
-    "5c10665d1df8b5cf": {
-      "title": "Major League Archaeology",
-      "fetched_at": "2026-08-27T05:35:02.205567+00:00"
-    },
-    "9270f18f1b911655": {
-      "title": "Project TUPPU: Students of the ancient Near East quickly discover that many OSs",
-      "fetched_at": "2026-08-27T05:35:02.821588+00:00"
-    },
-    "58535e9c4f8ad67e": {
-      "title": "Why Do Ancient Human Brains Not Always Rot",
-      "fetched_at": "2026-08-27T05:35:03.453750+00:00"
-    },
-    "dc701a2ed94ea858": {
-      "title": "Neanderthals may have trekked through the Saudi Arabian desert 55,000 years ago, farther south than experts thought possible",
-      "fetched_at": "2026-08-27T05:35:04.073055+00:00"
-    },
-    "160f5ba21c5f4514": {
-      "title": "'Beyond human intuition': AI designs chip components 500 times smaller than what engineers could ever imagine",
-      "fetched_at": "2026-08-27T05:35:04.710627+00:00"
-    },
-    "afad445849ca18f0": {
-      "title": "The pace of climate change matters more than overall heat in the race to save key Atlantic currents, study finds",
-      "fetched_at": "2026-08-27T05:35:05.339783+00:00"
-    },
-    "7e7a06a2d4885a9f": {
-      "title": "'They don't deserve this beauty and this breathtaking fragility': Former Antarctic tour guides told researchers why they quit the troubling industry",
-      "fetched_at": "2026-08-27T05:35:05.961573+00:00"
-    },
     "74579e1cb83707c4": {
       "title": "The Israeli Influence Machine [video]",
       "fetched_at": "2026-08-27T17:01:21.508473+00:00"
@@ -3155,7 +2999,79 @@
     "efd1f50bd35f1158": {
       "title": "I took a big risk for the Aug. 12 total solar eclipse —‬ and the reward was glorious",
       "fetched_at": "2026-09-04T01:50:13.414417+00:00"
+    },
+    "2cd7ebf5018df6b6": {
+      "title": "This NAS company wants to run your local smart home",
+      "fetched_at": "2026-09-04T10:06:19.505220+00:00"
+    },
+    "e394956c505bf51e": {
+      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
+      "fetched_at": "2026-09-04T10:06:20.124532+00:00"
+    },
+    "27aefb322a383566": {
+      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
+      "fetched_at": "2026-09-04T10:06:20.732901+00:00"
+    },
+    "06a8a883f7d71fa4": {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "fetched_at": "2026-09-04T10:06:21.348591+00:00"
+    },
+    "51120688f1ec6b79": {
+      "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
+      "fetched_at": "2026-09-04T10:06:21.972407+00:00"
+    },
+    "f4770040def15cd8": {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "fetched_at": "2026-09-04T10:06:22.596498+00:00"
+    },
+    "a33383ece33d8efb": {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "fetched_at": "2026-09-04T10:06:23.200221+00:00"
+    },
+    "bfa5222f020e12ac": {
+      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "fetched_at": "2026-09-04T10:06:23.824252+00:00"
+    },
+    "1f868c3745dfef31": {
+      "title": "加拿大新鈔首印查爾斯國王肖像，為英國以外首例",
+      "fetched_at": "2026-09-04T10:06:26.348472+00:00"
+    },
+    "3b45afd4f3d2e726": {
+      "title": "福克蘭群島爭議升溫：阿根廷宣佈制裁附近油企，特朗普暗示未必協助英國",
+      "fetched_at": "2026-09-04T10:06:26.988950+00:00"
+    },
+    "5573d0b43df379a7": {
+      "title": "行走在紐約：我發現監控攝像頭數量遠超想像",
+      "fetched_at": "2026-09-04T10:06:27.622134+00:00"
+    },
+    "6f2ce4fd3753fcd3": {
+      "title": "豬腎在人體內運作271天——這會是器官移植的未來嗎？",
+      "fetched_at": "2026-09-04T10:06:28.254922+00:00"
+    },
+    "27fd6b9057705a24": {
+      "title": "「我面試完就被捲走了積蓄」——Z世代求職者成為詐騙目標",
+      "fetched_at": "2026-09-04T10:06:28.880643+00:00"
+    },
+    "b5648b3760435906": {
+      "title": "如果这个世界上多一些马友友",
+      "fetched_at": "2026-09-04T10:06:29.511694+00:00"
+    },
+    "9905b801f2e4f144": {
+      "title": "肾病患者靠移植猪肾生活九个月，直到接受人类肾脏移植",
+      "fetched_at": "2026-09-04T10:06:30.135679+00:00"
+    },
+    "6bcc42d3bfe1459b": {
+      "title": "人工智能全面接管？为什么你应该更担心AI有多危险",
+      "fetched_at": "2026-09-04T10:06:30.756521+00:00"
+    },
+    "a0fac57f48cb2cf8": {
+      "title": "執迷於「睡眠分數」如何反讓你睡得更差？",
+      "fetched_at": "2026-09-04T10:06:31.376088+00:00"
+    },
+    "0d563ca4d61dd6a7": {
+      "title": "美国女权运动标志性人物斯泰纳姆去世，享年92岁",
+      "fetched_at": "2026-09-04T10:06:32.072025+00:00"
     }
   },
-  "last_updated": "2026-09-04T01:50:13.494699+00:00"
+  "last_updated": "2026-09-04T10:06:33.610781+00:00"
 }
