@@ -1,205 +1,5 @@
 {
   "articles": {
-    "9b6f92a5e415b586": {
-      "title": "Ask HN: AI writes better code than me. How to keep my identity?",
-      "fetched_at": "2026-08-28T17:50:18.086149+00:00"
-    },
-    "74dd9af96d4c7c32": {
-      "title": "LibreOffice 26.8 is out – local first, and with no AI",
-      "fetched_at": "2026-08-28T17:50:18.711256+00:00"
-    },
-    "c724c8fc7afe1725": {
-      "title": "A History of the AI Incident-O-Pocalypse in B-Movie Horror Posters",
-      "fetched_at": "2026-08-28T17:50:19.325972+00:00"
-    },
-    "a653294a0dcd962d": {
-      "title": "Songs created by AI banned from Australia's music charts",
-      "fetched_at": "2026-08-28T17:50:19.950770+00:00"
-    },
-    "dd2adab7dce0fc90": {
-      "title": "Fellow Vim users help me build aeovim a better way to handle AI CLI",
-      "fetched_at": "2026-08-28T17:50:20.582249+00:00"
-    },
-    "51f4371c253b4b5e": {
-      "title": "I Design with AI",
-      "fetched_at": "2026-08-28T17:50:21.203335+00:00"
-    },
-    "79c8e76f2024f6b5": {
-      "title": "Show HN: Watermarks Remover: Clean LLM watermarks from text and files",
-      "fetched_at": "2026-08-28T17:50:21.841964+00:00"
-    },
-    "d5dba7b40186a027": {
-      "title": "The Machine Age Fund – Andreessen Horowitz",
-      "fetched_at": "2026-08-28T17:50:22.461451+00:00"
-    },
-    "c95975a6657a3aa9": {
-      "title": "Show HN: ContextSwitch – Make your LLM chats provider agnostic",
-      "fetched_at": "2026-08-28T17:50:23.074987+00:00"
-    },
-    "d8131a874d487e45": {
-      "title": "SambaNova's SN50 RDU for AI at Hot Chips 2026 – ServeTheHome",
-      "fetched_at": "2026-08-28T17:50:23.701818+00:00"
-    },
-    "f134ded8e8d3b6f0": {
-      "title": "Does the Rise of AI Mean the End of the IT Era?",
-      "fetched_at": "2026-08-28T17:50:24.330262+00:00"
-    },
-    "c80741a92e7f9825": {
-      "title": "America's safety net isn't ready for the age of AI",
-      "fetched_at": "2026-08-28T17:50:24.947328+00:00"
-    },
-    "e3a896e6350e2ad6": {
-      "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
-      "fetched_at": "2026-08-28T17:50:25.570180+00:00"
-    },
-    "44c3f70d49302395": {
-      "title": "Beagle: Now with readable README.md (built with AI, heads up)",
-      "fetched_at": "2026-08-28T17:50:26.181690+00:00"
-    },
-    "8b3d13b6814604ee": {
-      "title": "Show HN: Open tool for testing your AI Agents (No LLM)",
-      "fetched_at": "2026-08-28T17:50:26.803252+00:00"
-    },
-    "07479365054f117b": {
-      "title": "Trump’s EPA wants to let data centers hide their air pollution",
-      "fetched_at": "2026-08-28T17:50:27.420914+00:00"
-    },
-    "f05e4e304206bca5": {
-      "title": "Show HN: URML – safety-eval harness for AI agents on lab and factory hardware",
-      "fetched_at": "2026-08-28T17:50:28.039355+00:00"
-    },
-    "c3f85245a2641d7d": {
-      "title": "AI GPUs probably live longer than three years",
-      "fetched_at": "2026-08-28T17:50:28.655472+00:00"
-    },
-    "2993435f2b689656": {
-      "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
-      "fetched_at": "2026-08-28T17:50:29.273095+00:00"
-    },
-    "dda615ee13cbcafb": {
-      "title": "Veritas – The AI-Powered Compliance Tracker for Global Startups",
-      "fetched_at": "2026-08-28T17:50:29.887337+00:00"
-    },
-    "58e763785d28d732": {
-      "title": "尼泊爾—西藏泥石流：逾2000人遇難或失聯，中國總理赴前線意味著什麼？",
-      "fetched_at": "2026-08-28T17:50:32.115797+00:00"
-    },
-    "b782f2cbd31bf39f": {
-      "title": "「因古老而安全」：為何舊技術有時更能防範黑客攻擊？",
-      "fetched_at": "2026-08-28T17:50:32.732981+00:00"
-    },
-    "6902fbb0d11ebf65": {
-      "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
-      "fetched_at": "2026-08-28T17:50:33.351742+00:00"
-    },
-    "b2dce43e87e6ea3c": {
-      "title": "追溯西藏尼泊爾致命山洪如何發生",
-      "fetched_at": "2026-08-28T17:50:33.971229+00:00"
-    },
-    "7b26c6244c299573": {
-      "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
-      "fetched_at": "2026-08-28T17:50:34.597783+00:00"
-    },
-    "6c468c88b96847c5": {
-      "title": "「在我眼中它就是黃金」：香港捲起卡牌熱，一張卡如何從遊戲工具變資產？",
-      "fetched_at": "2026-08-28T17:50:35.217870+00:00"
-    },
-    "ca4d58a432303993": {
-      "title": "中情局局长为何秘密访问莫斯科",
-      "fetched_at": "2026-08-28T17:50:35.835279+00:00"
-    },
-    "5fb3fd27d5c218ea": {
-      "title": "气候变化加剧喜马拉雅地区致命灾害风险",
-      "fetched_at": "2026-08-28T17:50:36.449965+00:00"
-    },
-    "2c8f485e8c901111": {
-      "title": "美加贸易战，中国坐收渔利",
-      "fetched_at": "2026-08-28T17:50:37.076358+00:00"
-    },
-    "aa3e24c2d99c9fd9": {
-      "title": "女性罵髒話很低劣嗎？莫迪批評言論引燃印度「蟑螂人民黨」示威後續辯論",
-      "fetched_at": "2026-08-28T17:50:37.709608+00:00"
-    },
-    "99e0d45439882128": {
-      "title": "香港卡牌熱潮：一張卡如何從遊戲變資產成為「紙上黃金」？",
-      "fetched_at": "2026-08-28T17:50:38.327009+00:00"
-    },
-    "79425cd3fdb4bf6e": {
-      "title": "“一转眼就被吞没了”：幸存者讲述尼泊尔山洪恐怖场景",
-      "fetched_at": "2026-08-28T17:50:39.039781+00:00"
-    },
-    "3e4637cb0eb231a8": {
-      "title": "比尔·盖茨：科技行业刻意淡化人工智能风险",
-      "fetched_at": "2026-08-28T17:50:39.660501+00:00"
-    },
-    "a315948f866e48cf": {
-      "title": "“波点女王”草间弥生逝世：拓展艺术疆界的波普先锋",
-      "fetched_at": "2026-08-28T17:50:40.279283+00:00"
-    },
-    "42dbcd348a925fd3": {
-      "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
-      "fetched_at": "2026-08-28T17:50:40.899144+00:00"
-    },
-    "1b84050f0515aa5a": {
-      "title": "The popular diabetes drug metformin has been used for decades — and scientists just figured out its main mechanism",
-      "fetched_at": "2026-08-28T17:50:42.654422+00:00"
-    },
-    "0e8ccfc737ea4711": {
-      "title": "The Meta settlement is a start, but it's not enough to create real change — that's what we need to focus on now",
-      "fetched_at": "2026-08-28T17:50:43.297231+00:00"
-    },
-    "c50cdd46e80f2cce": {
-      "title": "Scientists invent a gel that creates neurons from other cells, which could help treat Alzheimer's",
-      "fetched_at": "2026-08-28T17:50:43.908717+00:00"
-    },
-    "2b5a6fbc400af9f9": {
-      "title": "Experimental eye drops help blind mice see again",
-      "fetched_at": "2026-08-28T17:50:44.534737+00:00"
-    },
-    "30a165c691d32ba6": {
-      "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-      "fetched_at": "2026-08-28T17:50:45.154115+00:00"
-    },
-    "c6e1e080c1ec2d6b": {
-      "title": "Chimpanzees have been hurling rocks at the same trees for more than a decade",
-      "fetched_at": "2026-08-28T17:50:45.773274+00:00"
-    },
-    "e1a6efcd5e115290": {
-      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
-      "fetched_at": "2026-08-28T17:50:46.384593+00:00"
-    },
-    "c669fac8e5ba613e": {
-      "title": "Scientists tracked 4,500 animals and found a surprising human effect",
-      "fetched_at": "2026-08-28T17:50:47.008801+00:00"
-    },
-    "2b229ac1c5cf9dc9": {
-      "title": "Why scientists asked 1,000 people to bury their underwear",
-      "fetched_at": "2026-08-28T17:50:47.622001+00:00"
-    },
-    "39259e8b24cc1b05": {
-      "title": "Scientists find a huge hidden ice reservoir beneath Utah’s mountains",
-      "fetched_at": "2026-08-28T17:50:48.240282+00:00"
-    },
-    "d191f726cc135810": {
-      "title": "IBM's new 'quantum fridges' are nearly 200 times colder than deep space and could pave the way for fault-tolerant quantum computing",
-      "fetched_at": "2026-08-28T17:50:48.853285+00:00"
-    },
-    "a57452439586a5c4": {
-      "title": "'I'm not sure how such a law could be enforced': Readers react to a possible social media ban for children",
-      "fetched_at": "2026-08-28T17:50:49.465965+00:00"
-    },
-    "da63f0bca0c1399a": {
-      "title": "Scientists just discovered a big limitation in lab-grown minibrains — they have a skewed 'sense of time'",
-      "fetched_at": "2026-08-28T17:50:50.190923+00:00"
-    },
-    "a9cd1e6362854a34": {
-      "title": "Astronomers spot the closest, fastest star ever seen orbiting our galaxy's monster black hole",
-      "fetched_at": "2026-08-28T17:50:50.815219+00:00"
-    },
-    "e684b8717429434f": {
-      "title": "Out-of-control SpaceX rocket carved a 60-foot crater into the moon, NASA images reveal",
-      "fetched_at": "2026-08-28T17:50:51.428252+00:00"
-    },
     "fc10afb247c74bfa": {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "fetched_at": "2026-08-29T01:16:12.658103+00:00"
@@ -3255,7 +3055,103 @@
     "61f83d4242617d1d": {
       "title": "NASA's Nancy Grace Roman Space Telescope is set to launch this weekend. When will we see its first photos?",
       "fetched_at": "2026-09-05T14:09:28.912994+00:00"
+    },
+    "8204f583563f5f18": {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "fetched_at": "2026-09-05T19:40:08.800973+00:00"
+    },
+    "0ff190231fb42baa": {
+      "title": "GPT-6 Astra might be too powerful to understand or control",
+      "fetched_at": "2026-09-05T19:40:09.414417+00:00"
+    },
+    "2344e1082f2afe5c": {
+      "title": "Are warnings of uncontrollable AI coming true?",
+      "fetched_at": "2026-09-05T19:40:10.020996+00:00"
+    },
+    "78fc899ec26a10c9": {
+      "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
+      "fetched_at": "2026-09-05T19:40:10.626468+00:00"
+    },
+    "b61e0f8ef089a6a3": {
+      "title": "Norway could become the first country to ban AI smart glasses",
+      "fetched_at": "2026-09-05T19:40:11.242655+00:00"
+    },
+    "b8541b59a2086b74": {
+      "title": "A sourced timeline of 249 documented AI milestones",
+      "fetched_at": "2026-09-05T19:40:11.862370+00:00"
+    },
+    "c33d004620a3695c": {
+      "title": "Ask HN: Airbnbs with AI Photos",
+      "fetched_at": "2026-09-05T19:40:12.532639+00:00"
+    },
+    "6b185e8d234defeb": {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "fetched_at": "2026-09-05T19:40:13.150769+00:00"
+    },
+    "70b23a0962b5a13e": {
+      "title": "Flathub bans AI-coded apps – with some exceptions",
+      "fetched_at": "2026-09-05T19:40:13.754902+00:00"
+    },
+    "f26a9f508a57db64": {
+      "title": "GPT-6 Astra is now #1 on Code Arena",
+      "fetched_at": "2026-09-05T19:40:14.381377+00:00"
+    },
+    "beff33e98bf40b76": {
+      "title": "A meme-shaped test of your post-AI SWE skills",
+      "fetched_at": "2026-09-05T19:40:14.986391+00:00"
+    },
+    "7dd6c9b50dca678b": {
+      "title": "A Turing Machine Is Just a Finite Automaton with Two Stacks (2018)",
+      "fetched_at": "2026-09-05T19:40:15.602095+00:00"
+    },
+    "d642bfde5a389ca1": {
+      "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+      "fetched_at": "2026-09-05T19:40:16.208455+00:00"
+    },
+    "a6527cf84fc93460": {
+      "title": "How Much of the Internet Is Written with AI?",
+      "fetched_at": "2026-09-05T19:40:16.807065+00:00"
+    },
+    "15e837eadfdcc3c9": {
+      "title": "Music courses are dead (tanks AI) [video]",
+      "fetched_at": "2026-09-05T19:40:17.407472+00:00"
+    },
+    "46316045deb7f645": {
+      "title": "Architecting memory and storage in the AI era",
+      "fetched_at": "2026-09-05T19:40:18.019643+00:00"
+    },
+    "5d4b806caddbcf07": {
+      "title": "Engineer and Nam A2 and AI = Perfect and Free Valen Halen Plug-In [video]",
+      "fetched_at": "2026-09-05T19:40:18.631374+00:00"
+    },
+    "9bee8407eaacd86f": {
+      "title": "Inside a growing movement warning AI could turn on humanity",
+      "fetched_at": "2026-09-05T19:40:19.248508+00:00"
+    },
+    "fd2e5799cf085fbe": {
+      "title": "Praesidias – pre-execution authorization for AI agents",
+      "fetched_at": "2026-09-05T19:40:19.861931+00:00"
+    },
+    "c8ff18dd27c4c8e1": {
+      "title": "Kai-Fu Lee: China Will Win the AI Race for Reach",
+      "fetched_at": "2026-09-05T19:40:20.474219+00:00"
+    },
+    "1ebbf218d5b8fef8": {
+      "title": "Mudlarking: Searching the River Thames for Historical Artifacts [video]",
+      "fetched_at": "2026-09-05T19:40:25.761054+00:00"
+    },
+    "2424a180784727eb": {
+      "title": "Mathematicians say these 60-sided dice are the fairest in the world. Designing them took 15 years.",
+      "fetched_at": "2026-09-05T19:40:26.364862+00:00"
+    },
+    "279fea68b3b74c86": {
+      "title": "Ancient Coins Reveal a Wealth of Information About the Roman Republic",
+      "fetched_at": "2026-09-05T19:40:26.974970+00:00"
+    },
+    "8cbe54996f0f5334": {
+      "title": "Discovery of a new IRC bot message board (2018)",
+      "fetched_at": "2026-09-05T19:40:27.583611+00:00"
     }
   },
-  "last_updated": "2026-09-05T14:09:29.031953+00:00"
+  "last_updated": "2026-09-05T19:40:27.639821+00:00"
 }
