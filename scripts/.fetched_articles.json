@@ -1,125 +1,5 @@
 {
   "articles": {
-    "41f57fbb626f4bcc": {
-      "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
-      "fetched_at": "2026-08-28T01:52:05.059546+00:00"
-    },
-    "05fffabbef57b55b": {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-08-28T01:52:05.664089+00:00"
-    },
-    "04796628c14e8bc3": {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "fetched_at": "2026-08-28T01:52:06.282817+00:00"
-    },
-    "2aef1d22830e2e5a": {
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "fetched_at": "2026-08-28T01:52:06.886242+00:00"
-    },
-    "e0ddf77144a56af2": {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "fetched_at": "2026-08-28T01:52:07.496768+00:00"
-    },
-    "d4e8a47dcfe78299": {
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "fetched_at": "2026-08-28T01:52:08.139050+00:00"
-    },
-    "003b6d4b25fedd98": {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "fetched_at": "2026-08-28T01:52:08.735488+00:00"
-    },
-    "b4ef6f68d9bd9a7c": {
-      "title": "AI’s memory crunch is coming for Android apps",
-      "fetched_at": "2026-08-28T01:52:09.336312+00:00"
-    },
-    "f6fee71f5d43e75c": {
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "fetched_at": "2026-08-28T01:52:09.938692+00:00"
-    },
-    "fc61faa95ed87979": {
-      "title": "OpenAI&#8217;s executive exodus has one big winner",
-      "fetched_at": "2026-08-28T01:52:10.540243+00:00"
-    },
-    "cd4c8269d9b6891a": {
-      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-      "fetched_at": "2026-08-28T01:52:11.156103+00:00"
-    },
-    "58213c38b0d587e9": {
-      "title": "Plaud is launching AI earbuds",
-      "fetched_at": "2026-08-28T01:52:11.761308+00:00"
-    },
-    "6bd3975dac47293a": {
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "fetched_at": "2026-08-28T01:52:12.379092+00:00"
-    },
-    "83d5be53d2a7d203": {
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "fetched_at": "2026-08-28T01:52:12.970941+00:00"
-    },
-    "cdf01ba4a7c38edd": {
-      "title": "新玩意 250｜少数派的编辑们最近买了啥？",
-      "fetched_at": "2026-08-28T01:52:13.592404+00:00"
-    },
-    "cc2023bfc362c225": {
-      "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
-      "fetched_at": "2026-08-28T01:52:14.192746+00:00"
-    },
-    "ae27af21de7802b8": {
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "fetched_at": "2026-08-28T01:52:14.872010+00:00"
-    },
-    "f4cdc5fbf998cf5d": {
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "fetched_at": "2026-08-28T01:52:15.483080+00:00"
-    },
-    "49d43c7d134d4c43": {
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "fetched_at": "2026-08-28T01:52:16.078146+00:00"
-    },
-    "2c16b07d0e956a03": {
-      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
-      "fetched_at": "2026-08-28T01:52:16.701387+00:00"
-    },
-    "4897b613c839f8b2": {
-      "title": "中国信息管控或阻碍西藏洪水救援",
-      "fetched_at": "2026-08-28T01:52:19.302373+00:00"
-    },
-    "6c482e19f58a9c1e": {
-      "title": "iPhone为何中国制造？",
-      "fetched_at": "2026-08-28T01:52:19.909096+00:00"
-    },
-    "467b0696dd779f29": {
-      "title": "Ancient shark 'graveyard' uncovered in Egyptian desert",
-      "fetched_at": "2026-08-28T01:52:23.749172+00:00"
-    },
-    "62ee4e4f8dc32846": {
-      "title": "1,300-Year-Old Textile Fragments Found in Viking Woman’s Grave",
-      "fetched_at": "2026-08-28T01:52:24.365875+00:00"
-    },
-    "fb620259afef9730": {
-      "title": "'This is such a clear story': Climate change is supercharging El Niño to unprecedented strengths, study finds",
-      "fetched_at": "2026-08-28T01:52:24.969421+00:00"
-    },
-    "3b7c6e2a28406a1d": {
-      "title": "Diets in Premodern Japan Examined Through Dental Calculus",
-      "fetched_at": "2026-08-28T01:52:25.574903+00:00"
-    },
-    "61f83d4242617d1d": {
-      "title": "NASA's Nancy Grace Roman Space Telescope is set to launch this weekend. When will we see its first photos?",
-      "fetched_at": "2026-08-28T01:52:26.164594+00:00"
-    },
-    "6867469ac898b147": {
-      "title": "Unusual Sculpture Uncovered in Southeastern Turkey",
-      "fetched_at": "2026-08-28T01:52:26.763223+00:00"
-    },
-    "2655d75dd4227310": {
-      "title": "Diagnostic dilemma: A joyful wedding nearly broke a woman's heart in a rare case of 'happy heart syndrome'",
-      "fetched_at": "2026-08-28T01:52:27.374620+00:00"
-    },
-    "600aba0ee7f64dce": {
-      "title": "Peptides are the latest wellness fad. What are they, and are they safe?",
-      "fetched_at": "2026-08-28T01:52:28.024414+00:00"
-    },
     "9b6f92a5e415b586": {
       "title": "Ask HN: AI writes better code than me. How to keep my identity?",
       "fetched_at": "2026-08-28T17:50:18.086149+00:00"
@@ -3231,7 +3111,51 @@
     "fa5dc032271f973f": {
       "title": "The moon is turning red tonight — here's why, and how to watch",
       "fetched_at": "2026-09-05T01:51:02.072995+00:00"
+    },
+    "5b87aaf96026af54": {
+      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+      "fetched_at": "2026-09-05T09:36:04.691176+00:00"
+    },
+    "d610571f7e4a684b": {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "fetched_at": "2026-09-05T09:36:05.312375+00:00"
+    },
+    "2389e2cfc6c1af4f": {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "fetched_at": "2026-09-05T09:36:05.937765+00:00"
+    },
+    "37b0cc5251e43cec": {
+      "title": "What will Apple’s John Ternus era look like?",
+      "fetched_at": "2026-09-05T09:36:06.566293+00:00"
+    },
+    "118e782223f9a958": {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "fetched_at": "2026-09-05T09:36:07.189180+00:00"
+    },
+    "4dc98a86ca743d59": {
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "fetched_at": "2026-09-05T09:36:07.814991+00:00"
+    },
+    "8a4b0432f8936bbb": {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "fetched_at": "2026-09-05T09:36:08.458710+00:00"
+    },
+    "c4499ef8dad3ccd9": {
+      "title": "How did the Romans build their towering aqueducts?",
+      "fetched_at": "2026-09-05T09:36:13.352948+00:00"
+    },
+    "211cee9156b01c4e": {
+      "title": "Author Lise Barnéoud on the bizarre and provoking world of microchimerism — when cells from one person live in another, genetically distinct individual",
+      "fetched_at": "2026-09-05T09:36:13.972842+00:00"
+    },
+    "56e9fab99974ac2c": {
+      "title": "Life uses 4 DNA letters. Scientists just made 8 work",
+      "fetched_at": "2026-09-05T09:36:14.590040+00:00"
+    },
+    "eca2c391c7d37a8f": {
+      "title": "Quantum oscillations defy expectations in this exotic material",
+      "fetched_at": "2026-09-05T09:36:15.275864+00:00"
     }
   },
-  "last_updated": "2026-09-05T01:51:02.186659+00:00"
+  "last_updated": "2026-09-05T09:36:15.359877+00:00"
 }
