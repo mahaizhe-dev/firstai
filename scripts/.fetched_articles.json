@@ -1,125 +1,5 @@
 {
   "articles": {
-    "c7ce866685491bc7": {
-      "title": "The first AI use case that genuinely saves me time (outside of programming)",
-      "fetched_at": "2026-08-29T15:53:51.697678+00:00"
-    },
-    "7ac7e1f239e9defb": {
-      "title": "Google further buries search results under AI mode",
-      "fetched_at": "2026-08-29T15:53:52.269959+00:00"
-    },
-    "b8a38d17be536e30": {
-      "title": "OpenLake: Fast, Durable Storage for LLM Inference and Training",
-      "fetched_at": "2026-08-29T15:53:52.828112+00:00"
-    },
-    "da0f3345cc4db51d": {
-      "title": "SwarmWorld: Stigmergic technological evolution in societies of LLM agents",
-      "fetched_at": "2026-08-29T15:53:53.388258+00:00"
-    },
-    "d6d6f9e516f95d82": {
-      "title": "Experience Machine",
-      "fetched_at": "2026-08-29T15:53:53.961409+00:00"
-    },
-    "dee51b388ff5cd76": {
-      "title": "BoqCalc, an AI pipeline that prices a 500-line BOQ without hallucinating rates",
-      "fetched_at": "2026-08-29T15:53:54.528628+00:00"
-    },
-    "1f1625598248fce5": {
-      "title": "AI Lattice Proofs with Chris Peikert",
-      "fetched_at": "2026-08-29T15:53:55.096031+00:00"
-    },
-    "7fa71d2551bc5324": {
-      "title": "Would you share your weirdest agent logs with AI safety researchers?",
-      "fetched_at": "2026-08-29T15:53:55.662290+00:00"
-    },
-    "8187a3d299a9163b": {
-      "title": "Three mistakes of new AI teams",
-      "fetched_at": "2026-08-29T15:53:56.220739+00:00"
-    },
-    "997d280e2253d0dd": {
-      "title": "The Fed confronts a powerful new economic force (AI)",
-      "fetched_at": "2026-08-29T15:53:56.784317+00:00"
-    },
-    "3684b417532b6146": {
-      "title": "Calibre eBook manager lets you generate AI book covers",
-      "fetched_at": "2026-08-29T15:53:57.357373+00:00"
-    },
-    "a4138d5dcc159cae": {
-      "title": "Major security weaknesses found in leading open AI models",
-      "fetched_at": "2026-08-29T15:53:57.919955+00:00"
-    },
-    "3cdb4ff282f3e846": {
-      "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines",
-      "fetched_at": "2026-08-29T15:53:58.477444+00:00"
-    },
-    "34e7a87ca8bd9efa": {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "fetched_at": "2026-08-29T15:53:59.039765+00:00"
-    },
-    "f9ad7a3ce2399820": {
-      "title": "Backlash Against AI Data Centers Is Real, Organic, Widespread",
-      "fetched_at": "2026-08-29T15:53:59.603957+00:00"
-    },
-    "2f29c6749ce2d808": {
-      "title": "Build your web-based game with AI",
-      "fetched_at": "2026-08-29T15:54:00.181342+00:00"
-    },
-    "3eb4f8b218c832f6": {
-      "title": "Ask AI buttons like social media links for webpages",
-      "fetched_at": "2026-08-29T15:54:00.756728+00:00"
-    },
-    "ad4f520ccb9381ae": {
-      "title": "7th Circuit Rules AI-Generated CSAM Is Protected Speach",
-      "fetched_at": "2026-08-29T15:54:01.361945+00:00"
-    },
-    "60c0952d21c05bd9": {
-      "title": "Building an LLM runtime in 700 lines of C",
-      "fetched_at": "2026-08-29T15:54:01.937288+00:00"
-    },
-    "6818445bde74527c": {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "fetched_at": "2026-08-29T15:54:02.502112+00:00"
-    },
-    "e678c237095c9f8a": {
-      "title": "2,600 silver coins found in outskirts of Moscow may have been buried by a medieval plague victim",
-      "fetched_at": "2026-08-29T15:54:22.630945+00:00"
-    },
-    "24931de53aa4f396": {
-      "title": "'Everything is connected': Readers share their concerns about extreme heat's health impacts",
-      "fetched_at": "2026-08-29T15:54:23.194533+00:00"
-    },
-    "9564f2b999fac212": {
-      "title": "Dogs may hold surprising clues to human longevity",
-      "fetched_at": "2026-08-29T15:54:23.762975+00:00"
-    },
-    "b5153a580980c6ef": {
-      "title": "Scientists turn one of the hardest plastics to recycle into high-performance engine lubricant",
-      "fetched_at": "2026-08-29T15:54:24.328703+00:00"
-    },
-    "b52c8eb082ac06a4": {
-      "title": "The universe is still speeding up, but nobody knows why",
-      "fetched_at": "2026-08-29T15:54:24.886172+00:00"
-    },
-    "da7363a6e835b7ee": {
-      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
-      "fetched_at": "2026-08-29T15:54:25.458967+00:00"
-    },
-    "9e6183b218770b66": {
-      "title": "Black hole star? Solar-system-size 'dot' from the early universe is our best evidence yet of a brand-new type of cosmic object",
-      "fetched_at": "2026-08-29T15:54:26.024855+00:00"
-    },
-    "128682a3da3f84de": {
-      "title": "Cave sanctuary in Spain has highest number of Latin inscriptions anywhere in the Roman Empire — and many of them mention mysterious 'Lady'",
-      "fetched_at": "2026-08-29T15:54:26.589254+00:00"
-    },
-    "fe9975abf5780f6d": {
-      "title": "Mini 'arteries-on-a-chip' could help predict a person's risk of stroke",
-      "fetched_at": "2026-08-29T15:54:27.151813+00:00"
-    },
-    "2057ba68424ed7fc": {
-      "title": "1,400-year-old skeleton found in underground channel in Peru may have belonged to human sacrifice victim",
-      "fetched_at": "2026-08-29T15:54:27.709536+00:00"
-    },
     "6653584f97583c8e": {
       "title": "Slop.speak – translate human speak to AI slop",
       "fetched_at": "2026-08-29T20:06:51.957438+00:00"
@@ -3191,7 +3071,119 @@
     "b552ff0230dcc328": {
       "title": "James Webb telescope finds one of our galaxy's rarest stars inside the 'Treasure Chest' globule — Space photo of the week",
       "fetched_at": "2026-09-06T14:33:30.082280+00:00"
+    },
+    "3a9bc61dd9be83f0": {
+      "title": "A directory of AI agents, MCP servers and agent skills, cross-linked",
+      "fetched_at": "2026-09-06T19:43:11.571787+00:00"
+    },
+    "256afbc8213c81e8": {
+      "title": "Cory Doctorow on the Big AI Lie [video]",
+      "fetched_at": "2026-09-06T19:43:12.142289+00:00"
+    },
+    "16d7484c57672b0e": {
+      "title": "The first AI-run ransomware attack copied its Bitcoin address out of a tutorial",
+      "fetched_at": "2026-09-06T19:43:12.726267+00:00"
+    },
+    "28145f1fd093a448": {
+      "title": "Security vulnerabilities of AI data centers flagged at intelligence hearing",
+      "fetched_at": "2026-09-06T19:43:13.302680+00:00"
+    },
+    "11390cc999f08f47": {
+      "title": "Public beta: a decision-governance runtime for AI agents",
+      "fetched_at": "2026-09-06T19:43:13.882064+00:00"
+    },
+    "c380d5b2c0455107": {
+      "title": "Show HN: Jhvtm(John Henry vs the Machine) – Real Stories of Human Ingenuity",
+      "fetched_at": "2026-09-06T19:43:14.485034+00:00"
+    },
+    "ef736d1e03f14f84": {
+      "title": "GPT-6 Astra is now available in Perplexity Computer",
+      "fetched_at": "2026-09-06T19:43:15.062285+00:00"
+    },
+    "50b92ccb56895dfa": {
+      "title": "ByteX: A Unified AI Search Engine at ByteDance",
+      "fetched_at": "2026-09-06T19:43:15.627844+00:00"
+    },
+    "981ba722433d02c7": {
+      "title": "Genesis Mission: AI and Quantum Computing for Scientific Discovery",
+      "fetched_at": "2026-09-06T19:43:16.196751+00:00"
+    },
+    "6128533fb0f589c7": {
+      "title": "Choosing a Framework Desktop for Local AI: 32GB, 64GB, and 128GB",
+      "fetched_at": "2026-09-06T19:43:16.774019+00:00"
+    },
+    "eecd70c0aa5b6205": {
+      "title": "MotionSites AI – Official Premium AI Website Prompts",
+      "fetched_at": "2026-09-06T19:43:17.353050+00:00"
+    },
+    "b81c0be0e0e4cdf7": {
+      "title": "Ask HN: How safe are our password managers in face of LLM cyber attacks?",
+      "fetched_at": "2026-09-06T19:43:17.935380+00:00"
+    },
+    "a9ac065f388b62bc": {
+      "title": "Washington Post says Piker used AI generated audio but admits it has no proof",
+      "fetched_at": "2026-09-06T19:43:18.503930+00:00"
+    },
+    "1d2cf9a8ca39d8cf": {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "fetched_at": "2026-09-06T19:43:19.075844+00:00"
+    },
+    "9560a0cc8bfeb3a8": {
+      "title": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
+      "fetched_at": "2026-09-06T19:43:19.642256+00:00"
+    },
+    "549eed3a50e68d56": {
+      "title": "AI Is Making Us Less Human",
+      "fetched_at": "2026-09-06T19:43:20.214500+00:00"
+    },
+    "3570b5c2b1b8fcde": {
+      "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
+      "fetched_at": "2026-09-06T19:43:20.781970+00:00"
+    },
+    "e5fabc35917ba60a": {
+      "title": "The AI Account Reseller Ecosystem",
+      "fetched_at": "2026-09-06T19:43:21.362995+00:00"
+    },
+    "1d5e5fad26a1eab4": {
+      "title": "Leverage Code Review for Sustainable AI Coding Development",
+      "fetched_at": "2026-09-06T19:43:21.931612+00:00"
+    },
+    "eb12bc978d88231b": {
+      "title": "The Coming Merging of Mind and Machine (2001)",
+      "fetched_at": "2026-09-06T19:43:22.510165+00:00"
+    },
+    "9d376011690970ef": {
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "fetched_at": "2026-09-06T19:43:25.217451+00:00"
+    },
+    "d372a1c322ed67c1": {
+      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
+      "fetched_at": "2026-09-06T19:43:25.795255+00:00"
+    },
+    "21e4493b04c09596": {
+      "title": "AI's water use is a problem, but shifting from electricity to solar or wind power could help",
+      "fetched_at": "2026-09-06T19:43:43.413532+00:00"
+    },
+    "13232ad019ba3fb9": {
+      "title": "Ancient Egyptian tomb holding the king's 'keeper of secrets' unearthed at Saqqara",
+      "fetched_at": "2026-09-06T19:43:43.985583+00:00"
+    },
+    "5ed689580bc1c613": {
+      "title": "New kind of AI uses a fresh approach to reasoning —‬ researchers say it costs up to 11 times less to run than a leading OpenAI model",
+      "fetched_at": "2026-09-06T19:43:44.562609+00:00"
+    },
+    "2950b00a8f57dcdc": {
+      "title": "Does water drain in different directions in the Northern and Southern hemispheres?",
+      "fetched_at": "2026-09-06T19:43:45.138664+00:00"
+    },
+    "b56d672bf283c9a6": {
+      "title": "'It's kind of the holy grail of what is memory': Neuroscientist Steve Ramirez studies the physical basis of memory in a quest to manipulate it",
+      "fetched_at": "2026-09-06T19:43:45.703085+00:00"
+    },
+    "19b9f040845593b3": {
+      "title": "Australia’s red soil may be hiding a massive clean energy source",
+      "fetched_at": "2026-09-06T19:43:46.284481+00:00"
     }
   },
-  "last_updated": "2026-09-06T14:33:30.151339+00:00"
+  "last_updated": "2026-09-06T19:43:46.406448+00:00"
 }
