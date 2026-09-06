@@ -1,153 +1,5 @@
 {
   "articles": {
-    "b13424009adc61fb": {
-      "title": "Show HN: Toolchestrator – make local, AI-built tools usable by your team",
-      "fetched_at": "2026-08-29T11:54:59.066729+00:00"
-    },
-    "4c3e3dc315376c1d": {
-      "title": "Did AI write this? It's getting harder to tell",
-      "fetched_at": "2026-08-29T11:54:59.690219+00:00"
-    },
-    "be4b9e59a3da30ad": {
-      "title": "Results for LLM usage in Debian (vote)",
-      "fetched_at": "2026-08-29T11:55:00.314416+00:00"
-    },
-    "e74ee3023ec9914d": {
-      "title": "What we optimise for when we reach for an LLM",
-      "fetched_at": "2026-08-29T11:55:00.938088+00:00"
-    },
-    "5916821ade6fcacc": {
-      "title": "DHH: On AI",
-      "fetched_at": "2026-08-29T11:55:01.557843+00:00"
-    },
-    "eaf55900da390be4": {
-      "title": "Make AI Companies Criminally Liable for Preventable Harm",
-      "fetched_at": "2026-08-29T11:55:02.193090+00:00"
-    },
-    "6fb7eda813ceee96": {
-      "title": "Debian AI vote: Option 5 \"Responsible use of GenAI\" won",
-      "fetched_at": "2026-08-29T11:55:02.824342+00:00"
-    },
-    "83d14dc88fa1abcf": {
-      "title": "Show HN: The UI AI-Slop game. No one can resist 5 minutes",
-      "fetched_at": "2026-08-29T11:55:03.439301+00:00"
-    },
-    "f8790f95897cf46b": {
-      "title": "Hypothetical Paintings and Why AI-Generated Art Can Feel Soulless",
-      "fetched_at": "2026-08-29T11:55:04.066048+00:00"
-    },
-    "2336dae27c4641c8": {
-      "title": "LightSwitch – In-Network and Photonic LLM Inference in Transit",
-      "fetched_at": "2026-08-29T11:55:04.690195+00:00"
-    },
-    "407fb1f671cdee10": {
-      "title": "A Collectivist, Economic Vision for AI",
-      "fetched_at": "2026-08-29T11:55:05.323918+00:00"
-    },
-    "70849d097daaad45": {
-      "title": "We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
-      "fetched_at": "2026-08-29T11:55:05.949382+00:00"
-    },
-    "7fb2d71c08baa910": {
-      "title": "Show HN: AgentBridge – Let one AI think while another AI writes the code",
-      "fetched_at": "2026-08-29T11:55:06.563079+00:00"
-    },
-    "51245dbcc4db8e67": {
-      "title": "Some GitHub bounty repos are honeypots that farm free work from AI agents",
-      "fetched_at": "2026-08-29T11:55:07.186173+00:00"
-    },
-    "8808687bdfc041bf": {
-      "title": "I built a financial visibility layer for multi-model AI applications",
-      "fetched_at": "2026-08-29T11:55:07.809226+00:00"
-    },
-    "8761070b24299638": {
-      "title": "Show HN: Kith – AI clinical notes for therapists from ambient session audio",
-      "fetched_at": "2026-08-29T11:55:08.432825+00:00"
-    },
-    "f7b6546fc3452ca7": {
-      "title": "Show HN: A free AI news briefing agent that runs on GitHub Actions, no server",
-      "fetched_at": "2026-08-29T11:55:09.110912+00:00"
-    },
-    "c8334cd6eb86b78c": {
-      "title": "Show HN: Itsuki – open-source memory engine for AI agents (API and MCP)",
-      "fetched_at": "2026-08-29T11:55:09.732617+00:00"
-    },
-    "cf4569fa9b08c6ed": {
-      "title": "Alpha School's AI teaching model is expanding. Does it work?",
-      "fetched_at": "2026-08-29T11:55:10.366571+00:00"
-    },
-    "385aa16b167c4350": {
-      "title": "Show HN: Doodle AI: open-source photo-to-doodle avatar generator",
-      "fetched_at": "2026-08-29T11:55:10.999227+00:00"
-    },
-    "9d376011690970ef": {
-      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
-      "fetched_at": "2026-08-29T11:55:14.471608+00:00"
-    },
-    "d372a1c322ed67c1": {
-      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
-      "fetched_at": "2026-08-29T11:55:15.087299+00:00"
-    },
-    "5ed689580bc1c613": {
-      "title": "New kind of AI uses a fresh approach to reasoning —‬ researchers say it costs up to 11 times less to run than a leading OpenAI model",
-      "fetched_at": "2026-08-29T11:55:50.528118+00:00"
-    },
-    "2950b00a8f57dcdc": {
-      "title": "Does water drain in different directions in the Northern and Southern hemispheres?",
-      "fetched_at": "2026-08-29T11:55:51.148516+00:00"
-    },
-    "b56d672bf283c9a6": {
-      "title": "'It's kind of the holy grail of what is memory': Neuroscientist Steve Ramirez studies the physical basis of memory in a quest to manipulate it",
-      "fetched_at": "2026-08-29T11:55:51.759839+00:00"
-    },
-    "19b9f040845593b3": {
-      "title": "Australia’s red soil may be hiding a massive clean energy source",
-      "fetched_at": "2026-08-29T11:55:52.388255+00:00"
-    },
-    "b24cdccd9c26c5ce": {
-      "title": "Your sleep may be hiding an early clue to Alzheimer’s",
-      "fetched_at": "2026-08-29T11:55:53.019705+00:00"
-    },
-    "419c5be1fe2734f6": {
-      "title": "Scientists discover why damaged nerves struggle to heal",
-      "fetched_at": "2026-08-29T11:55:53.651033+00:00"
-    },
-    "6b3e49160ce3fb49": {
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "fetched_at": "2026-08-29T11:55:54.268781+00:00"
-    },
-    "c58575d11110c2b3": {
-      "title": "Interactive pattern discovery in binaries (FF-16-TUI)",
-      "fetched_at": "2026-08-29T11:55:54.885541+00:00"
-    },
-    "97f1c850856b3290": {
-      "title": "For ancient Romans, pooping was a group activity",
-      "fetched_at": "2026-08-29T11:55:55.514864+00:00"
-    },
-    "03cb67bddf3f94be": {
-      "title": "Compromising Signal's Contact Discovery Enclave (SGX)",
-      "fetched_at": "2026-08-29T11:55:56.133989+00:00"
-    },
-    "49131d89d5ef76eb": {
-      "title": "Show HN: bAIseball.org – Google for historical baseball stats",
-      "fetched_at": "2026-08-29T11:55:56.767945+00:00"
-    },
-    "d691f7c2aafaf021": {
-      "title": "ListBulb – Product discovery with weekly launches",
-      "fetched_at": "2026-08-29T11:55:57.403674+00:00"
-    },
-    "6905c26611c4e30b": {
-      "title": "The Kitchen of the Realm: Even the Commoners Ate Well in Ancient Osaka",
-      "fetched_at": "2026-08-29T11:55:58.095043+00:00"
-    },
-    "285348efbb2550bb": {
-      "title": "'This is not the outcome we were working towards': $30 million mission to save NASA's Swift telescope fails",
-      "fetched_at": "2026-08-29T11:55:58.720430+00:00"
-    },
-    "611a66dc7fc1561e": {
-      "title": "Climate change will triple the number of days over 105 F in the US. The health impacts will be dire.",
-      "fetched_at": "2026-08-29T11:55:59.350134+00:00"
-    },
     "c7ce866685491bc7": {
       "title": "The first AI use case that genuinely saves me time (outside of programming)",
       "fetched_at": "2026-08-29T15:53:51.697678+00:00"
@@ -3239,7 +3091,107 @@
     "a21ff040448436d5": {
       "title": "Strange 'hobbit' species walked more like us than like 'Lucy,' hip bones reveal",
       "fetched_at": "2026-09-06T09:51:22.982822+00:00"
+    },
+    "bf796f72020f2bf1": {
+      "title": "Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude",
+      "fetched_at": "2026-09-06T14:33:12.462413+00:00"
+    },
+    "df4c69c60ab5435a": {
+      "title": "GPT-6 Astra soundly defeats Fable 5.1 on recognizing handwritten corrections",
+      "fetched_at": "2026-09-06T14:33:13.087656+00:00"
+    },
+    "83d15e2fe948863f": {
+      "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
+      "fetched_at": "2026-09-06T14:33:13.737466+00:00"
+    },
+    "f25fecd559f045bc": {
+      "title": "New York City pausing some AI tools in schools",
+      "fetched_at": "2026-09-06T14:33:14.343306+00:00"
+    },
+    "82801b017efe524c": {
+      "title": "Terence Tao on \"Solving Maths Problems Prematurely with AI Methods",
+      "fetched_at": "2026-09-06T14:33:14.977863+00:00"
+    },
+    "d87fd25d8be9284f": {
+      "title": "LLM representations have implicit symbolic structure",
+      "fetched_at": "2026-09-06T14:33:15.602159+00:00"
+    },
+    "1233f80c6228b0f2": {
+      "title": "2011 Fall Lecture on AI by Marvin Minsky",
+      "fetched_at": "2026-09-06T14:33:16.221662+00:00"
+    },
+    "8176c0e7f7ecb018": {
+      "title": "Show HN: Free AI Photo Editor Online – No Sign-Up",
+      "fetched_at": "2026-09-06T14:33:16.838837+00:00"
+    },
+    "cee297beebb838f0": {
+      "title": "Should I reconsider my decision of self-hosting LLM Gateway?",
+      "fetched_at": "2026-09-06T14:33:17.455402+00:00"
+    },
+    "176552591616d4c9": {
+      "title": "Ask HN: Any Software Engineers here who enjoy their AI-native dev workflow?",
+      "fetched_at": "2026-09-06T14:33:18.084878+00:00"
+    },
+    "77189876bd2e11f6": {
+      "title": "Show HN: Object Remover – AI Video Object Remover Online",
+      "fetched_at": "2026-09-06T14:33:18.713103+00:00"
+    },
+    "1b3b80fbf1cf1aa1": {
+      "title": "AI coding agents forget the codebase between sessions",
+      "fetched_at": "2026-09-06T14:33:19.336219+00:00"
+    },
+    "b7dac294cecf011f": {
+      "title": "AI Slop",
+      "fetched_at": "2026-09-06T14:33:19.958381+00:00"
+    },
+    "b3fcbb9a9ed11189": {
+      "title": "Did you say AI-mish?",
+      "fetched_at": "2026-09-06T14:33:20.576141+00:00"
+    },
+    "b233e4ef24763c45": {
+      "title": "GPT-6 Astra has autonomously completed Portal",
+      "fetched_at": "2026-09-06T14:33:21.189774+00:00"
+    },
+    "e4cd9ad15e17cc90": {
+      "title": "Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process",
+      "fetched_at": "2026-09-06T14:33:21.812965+00:00"
+    },
+    "855f629789da3988": {
+      "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
+      "fetched_at": "2026-09-06T14:33:22.420906+00:00"
+    },
+    "019b2ef8b4a20272": {
+      "title": "What does \"good\" AI mean?",
+      "fetched_at": "2026-09-06T14:33:23.052599+00:00"
+    },
+    "fc2481618e85408f": {
+      "title": "Dolly Parton's Sister Slams \"Endless Garbage\": AI, Social Media Misinformation",
+      "fetched_at": "2026-09-06T14:33:23.656114+00:00"
+    },
+    "0ba924335afc972d": {
+      "title": "The AI Wait Equation",
+      "fetched_at": "2026-09-06T14:33:24.266055+00:00"
+    },
+    "8d78c5eeb6b51da0": {
+      "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
+      "fetched_at": "2026-09-06T14:33:26.262117+00:00"
+    },
+    "913582f15bedf6af": {
+      "title": "Stunning Roman-era mosaic discovered in Turkey features 'Emerald' the cat and 'Ocean' the dog",
+      "fetched_at": "2026-09-06T14:33:28.177164+00:00"
+    },
+    "5bf63e6ac1c0b16d": {
+      "title": "Ancient European Union Public License v1.2",
+      "fetched_at": "2026-09-06T14:33:28.817552+00:00"
+    },
+    "ed595d5ce2d36f1b": {
+      "title": "'Extreme' transistor can withstand heat of 1000-plus F — priming it for use in Venus-bound probes",
+      "fetched_at": "2026-09-06T14:33:29.442190+00:00"
+    },
+    "b552ff0230dcc328": {
+      "title": "James Webb telescope finds one of our galaxy's rarest stars inside the 'Treasure Chest' globule — Space photo of the week",
+      "fetched_at": "2026-09-06T14:33:30.082280+00:00"
     }
   },
-  "last_updated": "2026-09-06T09:51:23.099150+00:00"
+  "last_updated": "2026-09-06T14:33:30.151339+00:00"
 }
