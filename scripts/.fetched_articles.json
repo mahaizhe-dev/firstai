@@ -1,85 +1,5 @@
 {
   "articles": {
-    "fc10afb247c74bfa": {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "fetched_at": "2026-08-29T01:16:12.658103+00:00"
-    },
-    "16b26d76f181b5b0": {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "fetched_at": "2026-08-29T01:16:13.267600+00:00"
-    },
-    "08e7af17d1282fb3": {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "fetched_at": "2026-08-29T01:16:13.899708+00:00"
-    },
-    "27f983bdf55439a4": {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "fetched_at": "2026-08-29T01:16:14.518474+00:00"
-    },
-    "e6511461645521f6": {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "fetched_at": "2026-08-29T01:16:15.142477+00:00"
-    },
-    "5b4deb4415041ab7": {
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "fetched_at": "2026-08-29T01:16:15.142605+00:00"
-    },
-    "9160457162c1000a": {
-      "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
-      "fetched_at": "2026-08-29T01:16:15.755234+00:00"
-    },
-    "88824d3fd3df7e30": {
-      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "fetched_at": "2026-08-29T01:16:16.371823+00:00"
-    },
-    "9251c9747b074c65": {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "fetched_at": "2026-08-29T01:16:16.984693+00:00"
-    },
-    "b7acf7ec21c60354": {
-      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
-      "fetched_at": "2026-08-29T01:16:17.607803+00:00"
-    },
-    "359062bf9d1016ec": {
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "fetched_at": "2026-08-29T01:16:18.228586+00:00"
-    },
-    "2f6ee57a507d407e": {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "fetched_at": "2026-08-29T01:16:18.845902+00:00"
-    },
-    "1c427ef7a0317363": {
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "fetched_at": "2026-08-29T01:16:19.466741+00:00"
-    },
-    "5f2dfe56a4647db9": {
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "fetched_at": "2026-08-29T01:16:20.180284+00:00"
-    },
-    "809f5bb3ebcc673b": {
-      "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
-      "fetched_at": "2026-08-29T01:16:22.322162+00:00"
-    },
-    "a21ff040448436d5": {
-      "title": "Strange 'hobbit' species walked more like us than like 'Lucy,' hip bones reveal",
-      "fetched_at": "2026-08-29T01:16:24.786193+00:00"
-    },
-    "42e604dc727247af": {
-      "title": "Proteins in Ancient Egyptian Paints Analyzed",
-      "fetched_at": "2026-08-29T01:16:25.417985+00:00"
-    },
-    "a3214486a81df3c3": {
-      "title": "Possible Port Identified Near Submerged Etruscan Temple",
-      "fetched_at": "2026-08-29T01:16:26.050451+00:00"
-    },
-    "fb8fbfa976f8c323": {
-      "title": "Ancient Flower Mural Discovered in Uzbekistan",
-      "fetched_at": "2026-08-29T01:16:26.681822+00:00"
-    },
-    "756782a8518d9de9": {
-      "title": "Secret 'messages' in cat pee let felines identify each other — and scientists just cracked the code",
-      "fetched_at": "2026-08-29T01:16:27.293024+00:00"
-    },
     "b13424009adc61fb": {
       "title": "Show HN: Toolchestrator – make local, AI-built tools usable by your team",
       "fetched_at": "2026-08-29T11:54:59.066729+00:00"
@@ -3151,7 +3071,123 @@
     "8cbe54996f0f5334": {
       "title": "Discovery of a new IRC bot message board (2018)",
       "fetched_at": "2026-09-05T19:40:27.583611+00:00"
+    },
+    "8e7a6dc6cea545c8": {
+      "title": "One new Swiss company in thirty-six now claims AI",
+      "fetched_at": "2026-09-06T01:44:52.657642+00:00"
+    },
+    "6ccedc47ecf482ad": {
+      "title": "GPT-6 Astra recreated the Palace of Fine arts in Blender",
+      "fetched_at": "2026-09-06T01:44:53.234075+00:00"
+    },
+    "9bda2f29b465910e": {
+      "title": "DHH: Programming, AI, Vibe Coding and Linux (Lex Fridman Podcast)",
+      "fetched_at": "2026-09-06T01:44:53.806342+00:00"
+    },
+    "885dfc014bef5619": {
+      "title": "Truckers – AI data centers as business booms",
+      "fetched_at": "2026-09-06T01:44:54.384733+00:00"
+    },
+    "1e1d2e1966eb1afa": {
+      "title": "AI and the collapse of the intelligence-based hierarchy of merit",
+      "fetched_at": "2026-09-06T01:44:54.959736+00:00"
+    },
+    "52c58e1567e39e4c": {
+      "title": "Workforce behind AI spans 160M workers, many in the Global South",
+      "fetched_at": "2026-09-06T01:44:55.524020+00:00"
+    },
+    "4c79ef91714cec3d": {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "fetched_at": "2026-09-06T01:44:56.101205+00:00"
+    },
+    "618d3b06e351b0d8": {
+      "title": "Is AI ruining my brain?",
+      "fetched_at": "2026-09-06T01:44:56.680708+00:00"
+    },
+    "eb7e7fc9c0cf2ed4": {
+      "title": "Good AI Slop",
+      "fetched_at": "2026-09-06T01:44:57.263291+00:00"
+    },
+    "7aa0aa304f904d61": {
+      "title": "StoryScope: Investigating Idiosyncrasies in AI Fiction",
+      "fetched_at": "2026-09-06T01:44:57.842461+00:00"
+    },
+    "82c7ac140b60a1d2": {
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "fetched_at": "2026-09-06T01:44:58.420458+00:00"
+    },
+    "f901bbecf9775eea": {
+      "title": "The Roadmap of Mathematics for Machine Learning",
+      "fetched_at": "2026-09-06T01:44:58.991803+00:00"
+    },
+    "b9f17481d964da94": {
+      "title": "AI push is putting banks at mercy of tech firms, warns Moody's",
+      "fetched_at": "2026-09-06T01:44:59.565781+00:00"
+    },
+    "d00bae50c265e476": {
+      "title": "GPT-6 Astra: the harness is the product",
+      "fetched_at": "2026-09-06T01:45:00.139129+00:00"
+    },
+    "9c958e984a506874": {
+      "title": "An LLM runtime that boots from USB",
+      "fetched_at": "2026-09-06T01:45:00.726911+00:00"
+    },
+    "b7b44b4927b6dd5f": {
+      "title": "America's two largest school districts impose AI moratoriums",
+      "fetched_at": "2026-09-06T01:45:01.293591+00:00"
+    },
+    "8e00f5c418f06766": {
+      "title": "Google AI turns on its maker in a brutally candid interview",
+      "fetched_at": "2026-09-06T01:45:01.863808+00:00"
+    },
+    "1812c77a1bde174c": {
+      "title": "Teaching Prevents Learning",
+      "fetched_at": "2026-09-06T01:45:02.438731+00:00"
+    },
+    "eeb32cab9ab14580": {
+      "title": "The AI-Native SDLC Playbook",
+      "fetched_at": "2026-09-06T01:45:03.012108+00:00"
+    },
+    "34aa5e9c33e53477": {
+      "title": "How AI is breaking the British state",
+      "fetched_at": "2026-09-06T01:45:03.574793+00:00"
+    },
+    "6902fbb0d11ebf65": {
+      "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
+      "fetched_at": "2026-09-06T01:45:05.550680+00:00"
+    },
+    "121c1279a5e0116b": {
+      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+      "fetched_at": "2026-09-06T01:45:14.654120+00:00"
+    },
+    "40453ec75a603fc9": {
+      "title": "A mysterious signal around Earth could be dark matter",
+      "fetched_at": "2026-09-06T01:45:15.233976+00:00"
+    },
+    "a1a0ecde615c717a": {
+      "title": "80,000-year-old “arrowheads” rewrite human history",
+      "fetched_at": "2026-09-06T01:45:15.803725+00:00"
+    },
+    "ffecb6bde248bddb": {
+      "title": "This “new” frog was hiding in plain sight for 100 years",
+      "fetched_at": "2026-09-06T01:45:16.380548+00:00"
+    },
+    "1b84050f0515aa5a": {
+      "title": "The popular diabetes drug metformin has been used for decades — and scientists just figured out its main mechanism",
+      "fetched_at": "2026-09-06T01:45:16.964399+00:00"
+    },
+    "0e8ccfc737ea4711": {
+      "title": "The Meta settlement is a start, but it's not enough to create real change — that's what we need to focus on now",
+      "fetched_at": "2026-09-06T01:45:17.545471+00:00"
+    },
+    "c50cdd46e80f2cce": {
+      "title": "Scientists invent a gel that creates neurons from other cells, which could help treat Alzheimer's",
+      "fetched_at": "2026-09-06T01:45:18.138228+00:00"
+    },
+    "30a165c691d32ba6": {
+      "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+      "fetched_at": "2026-09-06T01:45:18.717737+00:00"
     }
   },
-  "last_updated": "2026-09-05T19:40:27.639821+00:00"
+  "last_updated": "2026-09-06T01:45:18.782931+00:00"
 }
