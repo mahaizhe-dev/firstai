@@ -1,97 +1,5 @@
 {
   "articles": {
-    "6653584f97583c8e": {
-      "title": "Slop.speak – translate human speak to AI slop",
-      "fetched_at": "2026-08-29T20:06:51.957438+00:00"
-    },
-    "3e3a16c4b4d2159d": {
-      "title": "AI and the Commons",
-      "fetched_at": "2026-08-29T20:06:52.585080+00:00"
-    },
-    "e544c5b438eb64e3": {
-      "title": "Should the press \"run toward\" AI?",
-      "fetched_at": "2026-08-29T20:06:53.208011+00:00"
-    },
-    "349a3e024b51e280": {
-      "title": "All-in-one AI job search platform, resume to offer",
-      "fetched_at": "2026-08-29T20:06:53.842688+00:00"
-    },
-    "b15f68d2c6dd1157": {
-      "title": "An infinite and interactive AI generated live stream of slop",
-      "fetched_at": "2026-08-29T20:06:54.481902+00:00"
-    },
-    "a633291f6ddd6858": {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "fetched_at": "2026-08-29T20:06:55.103791+00:00"
-    },
-    "f9226021afb0319e": {
-      "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
-      "fetched_at": "2026-08-29T20:06:55.735801+00:00"
-    },
-    "a4f2d676474823b8": {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "fetched_at": "2026-08-29T20:06:56.401962+00:00"
-    },
-    "72a39eb622ccd0ab": {
-      "title": "AI Revives a Dead Sleep Company",
-      "fetched_at": "2026-08-29T20:06:57.013874+00:00"
-    },
-    "b0f71f550258edf0": {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "fetched_at": "2026-08-29T20:06:57.622448+00:00"
-    },
-    "76d4de38fc021e84": {
-      "title": "AI Models – Political Compass",
-      "fetched_at": "2026-08-29T20:06:58.239347+00:00"
-    },
-    "69690648ca7315ee": {
-      "title": "A local scrubber for text you're about to send to an LLM",
-      "fetched_at": "2026-08-29T20:06:58.868497+00:00"
-    },
-    "677fc3f6c6989a6d": {
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "fetched_at": "2026-08-29T20:06:59.494897+00:00"
-    },
-    "f85e4479a8466622": {
-      "title": "Is the LLM smart or are you not?",
-      "fetched_at": "2026-08-29T20:07:00.125555+00:00"
-    },
-    "f6621f78095f3f98": {
-      "title": "AI reconstructs first Bundesliga goal from 1963",
-      "fetched_at": "2026-08-29T20:07:00.743656+00:00"
-    },
-    "dd81cc717d7564b5": {
-      "title": "Raised on AI",
-      "fetched_at": "2026-08-29T20:07:01.361655+00:00"
-    },
-    "687641a31a558d26": {
-      "title": "I hate AI images and music",
-      "fetched_at": "2026-08-29T20:07:01.984796+00:00"
-    },
-    "9c3f831326d23347": {
-      "title": "I Built a Headless Browser for AI Agents in Rust. No Chromium, No V8",
-      "fetched_at": "2026-08-29T20:07:02.615128+00:00"
-    },
-    "87b8119e4da5a063": {
-      "title": "Three mistakes of new AI teams",
-      "fetched_at": "2026-08-29T20:07:02.615251+00:00"
-    },
-    "d910b045124d5e98": {
-      "title": "The growing divide between AI hype and software engineering reality",
-      "fetched_at": "2026-08-29T20:07:03.254053+00:00"
-    },
-    "42f7b46446082825": {
-      "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
-      "fetched_at": "2026-08-29T20:07:05.548572+00:00"
-    },
-    "a8771103177dc81b": {
-      "title": "「蟑螂人民黨」的崛起：印度Z世代到底在抗議什麼？",
-      "fetched_at": "2026-08-29T20:07:06.160861+00:00"
-    },
-    "c0b5ab567d85d17f": {
-      "title": "Meet the scientists 3D printing corneas to restore people's vision, potentially filling a worldwide shortage of transplantable tissue",
-      "fetched_at": "2026-08-29T20:07:08.082137+00:00"
-    },
     "c4bedd7400a2d4ed": {
       "title": "Musicians-turned-detectives are hunting for AI grifters",
       "fetched_at": "2026-08-30T02:12:53.350313+00:00"
@@ -3183,7 +3091,115 @@
     "19b9f040845593b3": {
       "title": "Australia’s red soil may be hiding a massive clean energy source",
       "fetched_at": "2026-09-06T19:43:46.284481+00:00"
+    },
+    "748d456155c6ba80": {
+      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+      "fetched_at": "2026-09-07T01:42:11.435204+00:00"
+    },
+    "33616b9029a1953d": {
+      "title": "AI Is Already Making Us Less Human",
+      "fetched_at": "2026-09-07T01:42:12.039068+00:00"
+    },
+    "4e8c49f6636aaff8": {
+      "title": "GPT-6 Astra beats portal [video]",
+      "fetched_at": "2026-09-07T01:42:12.644762+00:00"
+    },
+    "0281317798e62da2": {
+      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+      "fetched_at": "2026-09-07T01:42:13.254711+00:00"
+    },
+    "3fc5962800b3bfbf": {
+      "title": "Prediction of maternal and infant outcomes with a Mother-Child AI agent",
+      "fetched_at": "2026-09-07T01:42:13.864992+00:00"
+    },
+    "bbf931f8759847f0": {
+      "title": "Pivot to AI safety, I beg you",
+      "fetched_at": "2026-09-07T01:42:14.469419+00:00"
+    },
+    "af62b738ebe46205": {
+      "title": "Genius AI Detector",
+      "fetched_at": "2026-09-07T01:42:15.082000+00:00"
+    },
+    "c87d992eb5bab078": {
+      "title": "I'm a father who studies the impact of AI: this is what parents need to know",
+      "fetched_at": "2026-09-07T01:42:15.701542+00:00"
+    },
+    "1c5ee2e0071cf6e7": {
+      "title": "Ask HN: What is your biggest struggle while learning?",
+      "fetched_at": "2026-09-07T01:42:16.302929+00:00"
+    },
+    "94bc90664dccca8f": {
+      "title": "Have the frontier labs mixed up AI safety and security?",
+      "fetched_at": "2026-09-07T01:42:16.926057+00:00"
+    },
+    "0ba2c26fa8037492": {
+      "title": "Show HN: CellularFlow – Continual-learning LLM using associative memory",
+      "fetched_at": "2026-09-07T01:42:17.526412+00:00"
+    },
+    "ee093df03da67faf": {
+      "title": "PortableMind – Offline AI on a USB",
+      "fetched_at": "2026-09-07T01:42:18.131602+00:00"
+    },
+    "5574eb344bfe2b6d": {
+      "title": "Show HN: Chrome-bridge – let any AI agent drive your real logged-in Chrome",
+      "fetched_at": "2026-09-07T01:42:18.731705+00:00"
+    },
+    "69c464d109d5694c": {
+      "title": "GOP issues stark warning to AI companies",
+      "fetched_at": "2026-09-07T01:42:19.329277+00:00"
+    },
+    "8853c1e81327b4c6": {
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3 Scored 99.95% with Provider Adapter Harness",
+      "fetched_at": "2026-09-07T01:42:19.929917+00:00"
+    },
+    "7a9b10a7a1769da5": {
+      "title": "'Model fatigue' sets in as AI labs race to roll out new versions",
+      "fetched_at": "2026-09-07T01:42:20.542899+00:00"
+    },
+    "918da43c2338f016": {
+      "title": "Emma: The GP's AI Receptionist doesn't understand Yorkshire or security",
+      "fetched_at": "2026-09-07T01:42:21.148968+00:00"
+    },
+    "02e518dd994104ab": {
+      "title": "All About IQ. Does AI Have an IQ?",
+      "fetched_at": "2026-09-07T01:42:21.758067+00:00"
+    },
+    "8a7e3dc5daa3072e": {
+      "title": "The AI Boom Is Coming for Your Gadgets",
+      "fetched_at": "2026-09-07T01:42:22.360795+00:00"
+    },
+    "eb4e3a908a560c86": {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "fetched_at": "2026-09-07T01:42:22.966824+00:00"
+    },
+    "9a927e39bddddb8c": {
+      "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
+      "fetched_at": "2026-09-07T01:42:25.384132+00:00"
+    },
+    "709c12e5362fdb60": {
+      "title": "歐洲國家接連提走北美黃金儲備所為何事",
+      "fetched_at": "2026-09-07T01:42:25.987154+00:00"
+    },
+    "31581d6f210e8d74": {
+      "title": "中国应届毕业生求职难：就业市场饱和叠加人工智能冲击",
+      "fetched_at": "2026-09-07T01:42:26.597059+00:00"
+    },
+    "7ca35bc7019e1a72": {
+      "title": "Popular brain supplement linked to shorter lifespan in men",
+      "fetched_at": "2026-09-07T01:42:29.073450+00:00"
+    },
+    "24931de53aa4f396": {
+      "title": "'Everything is connected': Readers share their concerns about extreme heat's health impacts",
+      "fetched_at": "2026-09-07T01:42:29.681332+00:00"
+    },
+    "9564f2b999fac212": {
+      "title": "Dogs may hold surprising clues to human longevity",
+      "fetched_at": "2026-09-07T01:42:30.283852+00:00"
+    },
+    "da7363a6e835b7ee": {
+      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+      "fetched_at": "2026-09-07T01:42:30.871674+00:00"
     }
   },
-  "last_updated": "2026-09-06T19:43:46.406448+00:00"
+  "last_updated": "2026-09-07T01:42:30.995428+00:00"
 }
