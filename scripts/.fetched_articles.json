@@ -1,145 +1,5 @@
 {
   "articles": {
-    "af0e7384a5f12292": {
-      "title": "Security scanner for AI agents, MCP servers and agent skills",
-      "fetched_at": "2026-08-30T15:39:30.624495+00:00"
-    },
-    "ae0ae5a6a766e84a": {
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "fetched_at": "2026-08-30T15:39:31.236998+00:00"
-    },
-    "5db09fbf7905e057": {
-      "title": "BROCS: The framework for enterprise AI enablement",
-      "fetched_at": "2026-08-30T15:39:31.848096+00:00"
-    },
-    "0ab652bf4f781e33": {
-      "title": "An interesting website, looks like AI companion but only voice",
-      "fetched_at": "2026-08-30T15:39:32.472242+00:00"
-    },
-    "c94d56d2f3ae6f1d": {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "fetched_at": "2026-08-30T15:39:33.144007+00:00"
-    },
-    "ebc5bfea196d797a": {
-      "title": "2027 AI Power Shortfall of 15 GW",
-      "fetched_at": "2026-08-30T15:39:33.757552+00:00"
-    },
-    "ead4d98030bb9dfa": {
-      "title": "Revision Prompting asks the LLM for a patch when the input changes",
-      "fetched_at": "2026-08-30T15:39:34.377001+00:00"
-    },
-    "cc0b89a2c04804da": {
-      "title": "Scaling Domain Data Repetition in LLM Pretraining",
-      "fetched_at": "2026-08-30T15:39:34.993647+00:00"
-    },
-    "f0d37e0fa6933765": {
-      "title": "Free and Open-Source Web Search for Your AI Agents",
-      "fetched_at": "2026-08-30T15:39:35.615894+00:00"
-    },
-    "4fe6b33b3f917d1f": {
-      "title": "Show HN: FinBridge – Korean stock market data for AI agents (MCP)",
-      "fetched_at": "2026-08-30T15:39:36.250949+00:00"
-    },
-    "9bef41b10aa6d158": {
-      "title": "Getting into Flow with AI Coding",
-      "fetched_at": "2026-08-30T15:39:36.935225+00:00"
-    },
-    "06a05e8084ef2abe": {
-      "title": "Show HN: Open SAR-COP – AI-generated common operating picture for disasters",
-      "fetched_at": "2026-08-30T15:39:37.552912+00:00"
-    },
-    "225035b656384ff3": {
-      "title": "Running an LLM in the Browser: Verifying WebGPU, and Local Inference",
-      "fetched_at": "2026-08-30T15:39:38.169982+00:00"
-    },
-    "12b84d7af70143f4": {
-      "title": "Show HN: I built a physical dream machine for my wife",
-      "fetched_at": "2026-08-30T15:39:38.780145+00:00"
-    },
-    "464a074f070c17b2": {
-      "title": "Judge rule AI-generated child sex abuse material is protected by First Amendment",
-      "fetched_at": "2026-08-30T15:39:39.411914+00:00"
-    },
-    "943f1555c5161617": {
-      "title": "90 days of attacks on AI infrastructure",
-      "fetched_at": "2026-08-30T15:39:40.030504+00:00"
-    },
-    "971d3d5491c82daa": {
-      "title": "No AI Fridays",
-      "fetched_at": "2026-08-30T15:39:40.680956+00:00"
-    },
-    "fae93e63fb24720f": {
-      "title": "The MAI Image and Reve 2.1 ranks higher than GPT Image 2 now",
-      "fetched_at": "2026-08-30T15:39:41.296809+00:00"
-    },
-    "5d0b1b6d85232984": {
-      "title": "Idlen: Ads in the IDE, in AI chats, and a self-serve ads manager",
-      "fetched_at": "2026-08-30T15:39:41.915268+00:00"
-    },
-    "3c95e64b66de45be": {
-      "title": "LLM usage in Debian neither endorsed nor prohibited",
-      "fetched_at": "2026-08-30T15:39:42.528653+00:00"
-    },
-    "5501a7b2e44fbca4": {
-      "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
-      "fetched_at": "2026-08-30T15:39:45.353351+00:00"
-    },
-    "33a2be2fb01d9ead": {
-      "title": "Dolly Parton的父親生前不識字，於是她給數百萬孩子寄上書本",
-      "fetched_at": "2026-08-30T15:39:45.959718+00:00"
-    },
-    "197639c71ddeb8b1": {
-      "title": "An amusement park on Mount Vernon? The agency tasked to protect cultural heritage just abdicated its responsibilities, opening the door for federal agencies to wipe out our past",
-      "fetched_at": "2026-08-30T15:39:48.590971+00:00"
-    },
-    "9e99444a35dcbaef": {
-      "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
-      "fetched_at": "2026-08-30T15:39:49.200915+00:00"
-    },
-    "39a560ccd356f63b": {
-      "title": "This strange “spacetime crystal” can suddenly become a black hole",
-      "fetched_at": "2026-08-30T15:39:49.818928+00:00"
-    },
-    "9004263fc9208701": {
-      "title": "HEPA air purifiers may boost brain function after just one month",
-      "fetched_at": "2026-08-30T15:39:50.465504+00:00"
-    },
-    "474bf9695a2034a2": {
-      "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
-      "fetched_at": "2026-08-30T15:39:51.087548+00:00"
-    },
-    "7fef1ece5b66b501": {
-      "title": "Scientists discover a massive heat anomaly deep inside Mars",
-      "fetched_at": "2026-08-30T15:39:51.703017+00:00"
-    },
-    "ad368224bcb53b6e": {
-      "title": "A new recipe unlocks “impossible” nanocrystals for LEDs, implants, and superconductors",
-      "fetched_at": "2026-08-30T15:39:52.331549+00:00"
-    },
-    "9fdaae46f1b8c9bc": {
-      "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
-      "fetched_at": "2026-08-30T15:39:52.943885+00:00"
-    },
-    "b4a5616142e9ef82": {
-      "title": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
-      "fetched_at": "2026-08-30T15:39:53.548507+00:00"
-    },
-    "4288fd226dc27cd3": {
-      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-      "fetched_at": "2026-08-30T15:39:54.166432+00:00"
-    },
-    "97660c56157d0c0e": {
-      "title": "The next Cascadia megaquake could hit Oregon harder than expected",
-      "fetched_at": "2026-08-30T15:39:54.781038+00:00"
-    },
-    "3310a3f991581981": {
-      "title": "Some signs of quantum gravity may be an illusion",
-      "fetched_at": "2026-08-30T15:39:55.394011+00:00"
-    },
-    "b1d1e5504ae6d491": {
-      "title": "A cancer therapy put severe rheumatoid arthritis into remission",
-      "fetched_at": "2026-08-30T15:39:56.010141+00:00"
-    },
     "2986eb8d2ef82e14": {
       "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
       "fetched_at": "2026-08-30T20:13:41.381630+00:00"
@@ -3119,7 +2979,115 @@
     "4133f70fb784cb1a": {
       "title": "Nevarro, newsletter discovery and management platform",
       "fetched_at": "2026-09-07T10:57:25.098607+00:00"
+    },
+    "d1c0fa29a31de674": {
+      "title": "Sen. Kennedy rails against AI developers as 'high IQ stupid people'",
+      "fetched_at": "2026-09-07T16:48:00.777956+00:00"
+    },
+    "564fffc433839c4b": {
+      "title": "Apple's \"Think Different\" inspired ad made by AI",
+      "fetched_at": "2026-09-07T16:48:01.391881+00:00"
+    },
+    "bd82f969762b1835": {
+      "title": "Ask HN: What LLM are you using?",
+      "fetched_at": "2026-09-07T16:48:01.999116+00:00"
+    },
+    "20eee2db63dfa279": {
+      "title": "Where every AI coding tool keeps its config",
+      "fetched_at": "2026-09-07T16:48:02.606797+00:00"
+    },
+    "62ece7e4a06a64ee": {
+      "title": "Show HN: LLM Council: survival-of-the-fittest multi-modal deliberation",
+      "fetched_at": "2026-09-07T16:48:03.212385+00:00"
+    },
+    "34531a70183a3c8b": {
+      "title": "Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models",
+      "fetched_at": "2026-09-07T16:48:03.817780+00:00"
+    },
+    "95225592b1218c18": {
+      "title": "UN rights chief calls for international red lines on AI",
+      "fetched_at": "2026-09-07T16:48:04.459408+00:00"
+    },
+    "491c6b806006d294": {
+      "title": "The Machine (1968) [video]",
+      "fetched_at": "2026-09-07T16:48:05.073240+00:00"
+    },
+    "5e6b621b89d19b0f": {
+      "title": "Show HN: Send flowers from your AI agent and make your mum happy",
+      "fetched_at": "2026-09-07T16:48:05.680955+00:00"
+    },
+    "d086a1e04e8e9098": {
+      "title": "SuperAstra: Edit Super Nintendo games live with GPT-6",
+      "fetched_at": "2026-09-07T16:48:06.308873+00:00"
+    },
+    "0bc2811db475f6d4": {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "fetched_at": "2026-09-07T16:48:06.922979+00:00"
+    },
+    "ac7ed06bd9d1f0c8": {
+      "title": "Designers should not fear being replaced by AI, industry leaders say",
+      "fetched_at": "2026-09-07T16:48:07.538285+00:00"
+    },
+    "19ec0e6052fd888b": {
+      "title": "Hikers stranded on Mount Shasta after following a plan by Gemini AI",
+      "fetched_at": "2026-09-07T16:48:08.166556+00:00"
+    },
+    "ed44b23f8029d3d1": {
+      "title": "A Senior Software Engineers Perspective on Building with AI",
+      "fetched_at": "2026-09-07T16:48:08.789546+00:00"
+    },
+    "84f9e651c4658b12": {
+      "title": "Ask HN: Any AI Market Metrics?",
+      "fetched_at": "2026-09-07T16:48:09.405651+00:00"
+    },
+    "b89b3b7203f6cf5c": {
+      "title": "The Problem with Your AI Tests",
+      "fetched_at": "2026-09-07T16:48:10.032637+00:00"
+    },
+    "1caab89a1f505767": {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "fetched_at": "2026-09-07T16:48:10.656850+00:00"
+    },
+    "0915069f5fbab95d": {
+      "title": "Joshua 8:1 NIV – AI destroyed",
+      "fetched_at": "2026-09-07T16:48:11.275998+00:00"
+    },
+    "cf1e14f8bfa92e7e": {
+      "title": "GPT-6 is now #2 on updated Artificial Analysis intelligence index",
+      "fetched_at": "2026-09-07T16:48:11.882741+00:00"
+    },
+    "296e22f762b6d095": {
+      "title": "Ask HN: Best sentence corpora with native audio for language learning?",
+      "fetched_at": "2026-09-07T16:48:12.493473+00:00"
+    },
+    "86505971052e52a3": {
+      "title": "印尼火山爆發：機場延長關閉，逾34萬旅客滯留",
+      "fetched_at": "2026-09-07T16:48:15.616822+00:00"
+    },
+    "59fd513194c1710a": {
+      "title": "從特朗普到中國，德國極右翼政黨州選獲勝意義在哪？",
+      "fetched_at": "2026-09-07T16:48:16.237701+00:00"
+    },
+    "53243305aa60cd2c": {
+      "title": "鄒鎮豪連環強姦案：警察報請英國檢察官考慮起訴新罪",
+      "fetched_at": "2026-09-07T16:48:16.856440+00:00"
+    },
+    "618dfea2014529a8": {
+      "title": "「在我眼中它就是黃金」：一張卡如何從遊戲工具變資產？",
+      "fetched_at": "2026-09-07T16:48:17.476911+00:00"
+    },
+    "0ab9b84602cfa581": {
+      "title": "Are there nuclear weapons hidden in space? Why a 60-year ban on space nukes has been impossible to enforce",
+      "fetched_at": "2026-09-07T16:48:23.293298+00:00"
+    },
+    "22301dd60b8d295b": {
+      "title": "Something doesn't add up in the Chandelier Cluster, Hubble telescope finds — Space photo of the week",
+      "fetched_at": "2026-09-07T16:48:23.893787+00:00"
+    },
+    "4ea0e9821593e90b": {
+      "title": "How many cosmic particles are passing through your body at any moment?",
+      "fetched_at": "2026-09-07T16:48:24.536026+00:00"
     }
   },
-  "last_updated": "2026-09-07T10:57:25.165826+00:00"
+  "last_updated": "2026-09-07T16:48:24.620479+00:00"
 }
