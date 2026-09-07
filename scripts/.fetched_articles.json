@@ -1,145 +1,5 @@
 {
   "articles": {
-    "c4bedd7400a2d4ed": {
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "fetched_at": "2026-08-30T02:12:53.350313+00:00"
-    },
-    "71c8114f0d766014": {
-      "title": "2026 烟灶选购指南",
-      "fetched_at": "2026-08-30T02:12:53.913792+00:00"
-    },
-    "90052eeb383d1b51": {
-      "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
-      "fetched_at": "2026-08-30T02:12:56.866181+00:00"
-    },
-    "a614879ccc34c9fe": {
-      "title": "「結束一黨專政」：為何令支聯會煽動顛覆政權罪成？",
-      "fetched_at": "2026-08-30T02:12:57.435891+00:00"
-    },
-    "c87ff84fb652de37": {
-      "title": "Scientists finally know why astronauts struggle to poop in space — and reveal a hidden risk of long-haul spaceflight",
-      "fetched_at": "2026-08-30T02:12:59.748828+00:00"
-    },
-    "f3bfe34b362a5418": {
-      "title": "Have your say: Would you trust a humanoid robot with your household chores?",
-      "fetched_at": "2026-08-30T02:13:00.310502+00:00"
-    },
-    "3997901ba4d10d92": {
-      "title": "Show HN: Get your free AI search visibility scan",
-      "fetched_at": "2026-08-30T10:51:59.762201+00:00"
-    },
-    "9f3c1f1ff7830f48": {
-      "title": "Tja – TUI for learning German verbs in your terminal, one-armed-bandit style",
-      "fetched_at": "2026-08-30T10:52:00.401408+00:00"
-    },
-    "363bdb94e93c1b76": {
-      "title": "Only believe what you can validate: a verification framework for agentic AI",
-      "fetched_at": "2026-08-30T10:52:01.038987+00:00"
-    },
-    "30c39fba1718f60b": {
-      "title": "VibeGuard – security linter for AI-generated code",
-      "fetched_at": "2026-08-30T10:52:01.665854+00:00"
-    },
-    "852e273e0c876243": {
-      "title": "Observations Around Prominent Programmer Sentiment and AI",
-      "fetched_at": "2026-08-30T10:52:02.290260+00:00"
-    },
-    "64ab29d480ad5044": {
-      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "fetched_at": "2026-08-30T10:52:02.924138+00:00"
-    },
-    "d615b54b0a4cf156": {
-      "title": "What We Tell AI",
-      "fetched_at": "2026-08-30T10:52:03.547179+00:00"
-    },
-    "001931a7dc187061": {
-      "title": "We built this after an AI agent misread a risk signal and moved $1.2M in trades",
-      "fetched_at": "2026-08-30T10:52:04.175460+00:00"
-    },
-    "a68e5d7ae20b69e4": {
-      "title": "Nvidia's AI advantage is moving beyond the GPU",
-      "fetched_at": "2026-08-30T10:52:04.175570+00:00"
-    },
-    "7959cb5834893705": {
-      "title": "Workers in their 40s, 50s and 60s are the most positive about AI",
-      "fetched_at": "2026-08-30T10:52:04.806234+00:00"
-    },
-    "db5f8e703ded0b33": {
-      "title": "General resolution: LLM usage in Debian: Results",
-      "fetched_at": "2026-08-30T10:52:05.434120+00:00"
-    },
-    "1baec4b21cabaff1": {
-      "title": "LLM Usage in Debian: General Resolution Results",
-      "fetched_at": "2026-08-30T10:52:06.053958+00:00"
-    },
-    "e6b33bca15bdb193": {
-      "title": "Deep Learning Is Not So Mysterious or Different",
-      "fetched_at": "2026-08-30T10:52:06.663463+00:00"
-    },
-    "07f5163e72a00d37": {
-      "title": "The AI Delegation Audit Webinar, October 6, 2026",
-      "fetched_at": "2026-08-30T10:52:07.371140+00:00"
-    },
-    "beff3c602ba82788": {
-      "title": "Gpt 5.6 Sol might be just a tad too proactive",
-      "fetched_at": "2026-08-30T10:52:07.997244+00:00"
-    },
-    "c96c5d1505f8620f": {
-      "title": "AI Effect",
-      "fetched_at": "2026-08-30T10:52:08.626876+00:00"
-    },
-    "ec87539703c2cbff": {
-      "title": "Google's Dreambeans, weirdest-named AI tool, will turn your life to a cartoon",
-      "fetched_at": "2026-08-30T10:52:09.258875+00:00"
-    },
-    "9b774fe7bc4a0297": {
-      "title": "Show HN: Photo Manager That Find and Organize Screenshots with Private, Local AI",
-      "fetched_at": "2026-08-30T10:52:09.894485+00:00"
-    },
-    "608d95f377ef502d": {
-      "title": "Hotline for AI Agents to Report Safety Incidents",
-      "fetched_at": "2026-08-30T10:52:10.597574+00:00"
-    },
-    "a024227acf95f8dc": {
-      "title": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营",
-      "fetched_at": "2026-08-30T10:52:11.243631+00:00"
-    },
-    "23513cecdccfbb51": {
-      "title": "洪災衝擊西藏口岸畫面未在中國播出，當地災民情況我們所知甚少",
-      "fetched_at": "2026-08-30T10:52:13.829336+00:00"
-    },
-    "8d541c56c195eeeb": {
-      "title": "澳洲每年上演全球最大型烏賊交配活動——今年盛況不再",
-      "fetched_at": "2026-08-30T10:52:14.454931+00:00"
-    },
-    "0276f2f31acc030a": {
-      "title": "中國：氣候變暖導致尼泊爾—西藏泥石流災難",
-      "fetched_at": "2026-08-30T10:52:15.077667+00:00"
-    },
-    "862dac0ee3f3b9eb": {
-      "title": "尼泊爾洪災：最新衛星圖像揭示村莊災情的嚴重程度",
-      "fetched_at": "2026-08-30T10:52:15.702236+00:00"
-    },
-    "7227d3e6724f0fb3": {
-      "title": "尼泊爾—西藏泥石流：中國總理赴前線意味著什麼？",
-      "fetched_at": "2026-08-30T10:52:16.333114+00:00"
-    },
-    "618dfea2014529a8": {
-      "title": "「在我眼中它就是黃金」：一張卡如何從遊戲工具變資產？",
-      "fetched_at": "2026-08-30T10:52:16.963958+00:00"
-    },
-    "e97ce1d01e1fc6aa": {
-      "title": "女性罵髒話很低劣嗎？莫迪言論引燃「蟑螂人民黨」後續辯論",
-      "fetched_at": "2026-08-30T10:52:17.603023+00:00"
-    },
-    "22301dd60b8d295b": {
-      "title": "Something doesn't add up in the Chandelier Cluster, Hubble telescope finds — Space photo of the week",
-      "fetched_at": "2026-08-30T10:52:20.779518+00:00"
-    },
-    "4ea0e9821593e90b": {
-      "title": "How many cosmic particles are passing through your body at any moment?",
-      "fetched_at": "2026-08-30T10:52:21.442898+00:00"
-    },
     "af0e7384a5f12292": {
       "title": "Security scanner for AI agents, MCP servers and agent skills",
       "fetched_at": "2026-08-30T15:39:30.624495+00:00"
@@ -3199,7 +3059,67 @@
     "da7363a6e835b7ee": {
       "title": "Long-term melatonin use linked to 90% higher heart failure risk",
       "fetched_at": "2026-09-07T01:42:30.871674+00:00"
+    },
+    "efec713e2411be02": {
+      "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+      "fetched_at": "2026-09-07T10:57:14.214054+00:00"
+    },
+    "4f5764c83671b41c": {
+      "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
+      "fetched_at": "2026-09-07T10:57:14.788283+00:00"
+    },
+    "6e522cf2b406884c": {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "fetched_at": "2026-09-07T10:57:15.365527+00:00"
+    },
+    "31e11052d3af7ad3": {
+      "title": "倫敦警察擬對在囚連環強姦犯鄒鎮豪起訴新罪",
+      "fetched_at": "2026-09-07T10:57:17.333031+00:00"
+    },
+    "ef58c232fe3b5b0a": {
+      "title": "美國特使穿梭俄烏：雙方分歧未解 澤連斯基料戰事持續到冬季",
+      "fetched_at": "2026-09-07T10:57:17.908182+00:00"
+    },
+    "1b3d2d1ff11608b6": {
+      "title": "印尼火山爆發，27萬旅客滯留機場",
+      "fetched_at": "2026-09-07T10:57:18.503132+00:00"
+    },
+    "60777422c6824f69": {
+      "title": "氣候變暖如何影響你的飛行旅程？",
+      "fetched_at": "2026-09-07T10:57:19.075928+00:00"
+    },
+    "f0959c9e20bb6644": {
+      "title": "美国企业界日渐青睐开放人工智能模型",
+      "fetched_at": "2026-09-07T10:57:19.656415+00:00"
+    },
+    "78adb10a9ae1dab0": {
+      "title": "一家被列入黑名单的中国科技巨头如何继续购买美国芯片",
+      "fetched_at": "2026-09-07T10:57:20.226497+00:00"
+    },
+    "c2c8de236b689715": {
+      "title": "德国极右翼政党在地方选举中取得关键胜利",
+      "fetched_at": "2026-09-07T10:57:20.805616+00:00"
+    },
+    "8ec9298abd61cc14": {
+      "title": "歐洲國家為何提走北美黃金儲備",
+      "fetched_at": "2026-09-07T10:57:21.374872+00:00"
+    },
+    "2be8866ec33d0cf6": {
+      "title": "如何拥有“超级老人”的大脑",
+      "fetched_at": "2026-09-07T10:57:21.953036+00:00"
+    },
+    "2490105a274588de": {
+      "title": "她从东京的一家精神病院改变了世界",
+      "fetched_at": "2026-09-07T10:57:22.558729+00:00"
+    },
+    "afad9f341592a139": {
+      "title": "Guldhøj folding chair: The only completely preserved chair from Bronze Age Europe",
+      "fetched_at": "2026-09-07T10:57:24.522354+00:00"
+    },
+    "4133f70fb784cb1a": {
+      "title": "Nevarro, newsletter discovery and management platform",
+      "fetched_at": "2026-09-07T10:57:25.098607+00:00"
     }
   },
-  "last_updated": "2026-09-07T01:42:30.995428+00:00"
+  "last_updated": "2026-09-07T10:57:25.165826+00:00"
 }
