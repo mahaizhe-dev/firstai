@@ -1,101 +1,5 @@
 {
   "articles": {
-    "2986eb8d2ef82e14": {
-      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-      "fetched_at": "2026-08-30T20:13:41.381630+00:00"
-    },
-    "98f3440285ac1f28": {
-      "title": "We tested how AI chatbots would handle foreign propaganda",
-      "fetched_at": "2026-08-30T20:13:41.962847+00:00"
-    },
-    "2d1cc276ac0e584e": {
-      "title": "Why shaming people about AI slop isn't enough to stop Big AI",
-      "fetched_at": "2026-08-30T20:13:42.546616+00:00"
-    },
-    "c1fbab5be196a7f7": {
-      "title": "GPT 5.6 has broken the record on large gaps between primes",
-      "fetched_at": "2026-08-30T20:13:43.132381+00:00"
-    },
-    "73b1f3566ca2bff0": {
-      "title": "Bootstrapping enables human-level concept learning in self-supervised models",
-      "fetched_at": "2026-08-30T20:13:43.803878+00:00"
-    },
-    "8c0fc26e8cc991ef": {
-      "title": "Scans of 400 handwritten notes about people's relationships with AI",
-      "fetched_at": "2026-08-30T20:13:44.395024+00:00"
-    },
-    "80bafbb54babea46": {
-      "title": "Experiments with AI – Structure of Third Party Agentic Apps",
-      "fetched_at": "2026-08-30T20:13:44.995739+00:00"
-    },
-    "58fa1e868040c2f1": {
-      "title": "Ask HN: AI for Home Lab Infra?",
-      "fetched_at": "2026-08-30T20:13:45.582327+00:00"
-    },
-    "a1d015094c8e74a6": {
-      "title": "Superhuman AI coding still makes software worse",
-      "fetched_at": "2026-08-30T20:13:46.161496+00:00"
-    },
-    "d93b0234699c2bb9": {
-      "title": "Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire",
-      "fetched_at": "2026-08-30T20:13:46.744896+00:00"
-    },
-    "24c2768bd825e201": {
-      "title": "Semantic invariance testing for AI (Contradish)",
-      "fetched_at": "2026-08-30T20:13:47.357045+00:00"
-    },
-    "a45a0e4e63242959": {
-      "title": "Show HN: Simurg open-source web search for AI agents that aborts hallucinations",
-      "fetched_at": "2026-08-30T20:13:47.944288+00:00"
-    },
-    "31b86ca1d19ba6ef": {
-      "title": "Creation, validation, obsolescence: AI-driven labor market displacement",
-      "fetched_at": "2026-08-30T20:13:48.524933+00:00"
-    },
-    "a7eb87b3e5c70f3a": {
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "fetched_at": "2026-08-30T20:13:49.106443+00:00"
-    },
-    "cf427b5c15cddbc9": {
-      "title": "The LLM is not Intelligence",
-      "fetched_at": "2026-08-30T20:13:49.697904+00:00"
-    },
-    "5544346ce118376f": {
-      "title": "Fears of AI-induced armageddon are overdone",
-      "fetched_at": "2026-08-30T20:13:50.290007+00:00"
-    },
-    "c43422c87a4f4098": {
-      "title": "Show HN: Claude Skills Starter Kit – 198 modular skills for AI agents",
-      "fetched_at": "2026-08-30T20:13:50.869943+00:00"
-    },
-    "b1e6ea31b8f08272": {
-      "title": "Could AI revive the socialist dream?",
-      "fetched_at": "2026-08-30T20:13:51.481679+00:00"
-    },
-    "6e361ded7e699699": {
-      "title": "An 'old school' San Jose barber is now teaching robots to cut hair with AI",
-      "fetched_at": "2026-08-30T20:13:52.064843+00:00"
-    },
-    "1d5a0425cac78666": {
-      "title": "MIT AI Report Calls for Alternative Grading, More Social Learning",
-      "fetched_at": "2026-08-30T20:13:52.644188+00:00"
-    },
-    "5627b6c5c3dfdcf2": {
-      "title": "Ancient 'Who owns Linux?' case now has one foot deep in the grave",
-      "fetched_at": "2026-08-30T20:16:13.161811+00:00"
-    },
-    "07a124c580cfdcee": {
-      "title": "How would you know whether an ancient culture had zero?",
-      "fetched_at": "2026-08-30T20:16:13.736130+00:00"
-    },
-    "ed3454af003772cf": {
-      "title": "'The greatest unknown was how much energy would be released by the weapon': How scientists prepared for the Trinity nuclear test",
-      "fetched_at": "2026-08-30T20:16:14.314217+00:00"
-    },
-    "ea2c6318e9f68def": {
-      "title": "Does tapping on a soda can really stop it from exploding?",
-      "fetched_at": "2026-08-30T20:16:14.889110+00:00"
-    },
     "069b102e10936e8b": {
       "title": "Clips Kitty Open-source local AI video clipping and editing",
       "fetched_at": "2026-08-31T02:08:04.702660+00:00"
@@ -3087,7 +2991,127 @@
     "4ea0e9821593e90b": {
       "title": "How many cosmic particles are passing through your body at any moment?",
       "fetched_at": "2026-09-07T16:48:24.536026+00:00"
+    },
+    "aff0459510a482de": {
+      "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+      "fetched_at": "2026-09-07T20:52:58.898366+00:00"
+    },
+    "03c4686c4ce653e2": {
+      "title": "Teaching Prevents Learning",
+      "fetched_at": "2026-09-07T20:52:58.898434+00:00"
+    },
+    "1c22f8eae2d4c57e": {
+      "title": "Peer-to-peer LLM inference in browser tabs, Qwen 3.8 27B",
+      "fetched_at": "2026-09-07T20:52:59.485058+00:00"
+    },
+    "0fa206f3235cdb10": {
+      "title": "Code Reviews in the Age of AI",
+      "fetched_at": "2026-09-07T20:53:00.056153+00:00"
+    },
+    "d4e299fa18045ada": {
+      "title": "El Yayster – a resident LLM that inhabits Emacs",
+      "fetched_at": "2026-09-07T20:53:00.640782+00:00"
+    },
+    "6cfd8af8bccb3169": {
+      "title": "Revise AI, an AI editor for fiction writers",
+      "fetched_at": "2026-09-07T20:53:01.219557+00:00"
+    },
+    "067ff888ad82cd14": {
+      "title": "An AI agent bought a physical t-shirt over HTTP 402 with USDC, no human involved",
+      "fetched_at": "2026-09-07T20:53:01.796793+00:00"
+    },
+    "6a59c98769d4d8e0": {
+      "title": "Turning Quick Notes into Long-Term AI Memory",
+      "fetched_at": "2026-09-07T20:53:02.384134+00:00"
+    },
+    "33bfb378469e845b": {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "fetched_at": "2026-09-07T20:53:02.971077+00:00"
+    },
+    "1c545cd250f08cbc": {
+      "title": "AI Cold Showers",
+      "fetched_at": "2026-09-07T20:53:03.556392+00:00"
+    },
+    "f937a96fccf40b56": {
+      "title": "Botsitting: The Unpaid Labour Behind Every AI Productivity Claim",
+      "fetched_at": "2026-09-07T20:53:04.133925+00:00"
+    },
+    "d4a73ffa374ed9c9": {
+      "title": "Secret Collusion Among AI Agents",
+      "fetched_at": "2026-09-07T20:53:04.722900+00:00"
+    },
+    "85db256189b4857a": {
+      "title": "The Foundations of Modern AI: Generalization, Data Selection, and Epiplexity",
+      "fetched_at": "2026-09-07T20:53:05.310825+00:00"
+    },
+    "2e233e145a7d7376": {
+      "title": "Ask HN: How do you know a prompt is \"complex\" for an AI model?",
+      "fetched_at": "2026-09-07T20:53:05.897368+00:00"
+    },
+    "fe2d4690f1e72e0b": {
+      "title": "The AI Shift Turning Everyday Investors into Mini Quant Funds",
+      "fetched_at": "2026-09-07T20:53:06.483361+00:00"
+    },
+    "64494d5314f0c780": {
+      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "fetched_at": "2026-09-07T20:53:07.067285+00:00"
+    },
+    "4b5bf2d8152de24d": {
+      "title": "Show HN: Can you tell a real tweet of a certain user from an AI one?",
+      "fetched_at": "2026-09-07T20:53:07.643987+00:00"
+    },
+    "2072f77b99674cc1": {
+      "title": "Adobe ends an 18-year era as AI pressure mounts",
+      "fetched_at": "2026-09-07T20:53:08.219583+00:00"
+    },
+    "c456dc789ae86f66": {
+      "title": "Show HN: See why Google and AI ignore your site and how to fix it",
+      "fetched_at": "2026-09-07T20:53:08.801796+00:00"
+    },
+    "b274526f747676b2": {
+      "title": "Arguments in Favor of AI Fair Use",
+      "fetched_at": "2026-09-07T20:53:09.398648+00:00"
+    },
+    "5501a7b2e44fbca4": {
+      "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
+      "fetched_at": "2026-09-07T20:53:12.286384+00:00"
+    },
+    "197639c71ddeb8b1": {
+      "title": "An amusement park on Mount Vernon? The agency tasked to protect cultural heritage just abdicated its responsibilities, opening the door for federal agencies to wipe out our past",
+      "fetched_at": "2026-09-07T20:53:14.409407+00:00"
+    },
+    "9e99444a35dcbaef": {
+      "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
+      "fetched_at": "2026-09-07T20:53:15.016662+00:00"
+    },
+    "39a560ccd356f63b": {
+      "title": "This strange “spacetime crystal” can suddenly become a black hole",
+      "fetched_at": "2026-09-07T20:53:15.601795+00:00"
+    },
+    "9004263fc9208701": {
+      "title": "HEPA air purifiers may boost brain function after just one month",
+      "fetched_at": "2026-09-07T20:53:16.183971+00:00"
+    },
+    "474bf9695a2034a2": {
+      "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
+      "fetched_at": "2026-09-07T20:53:16.771500+00:00"
+    },
+    "9fdaae46f1b8c9bc": {
+      "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
+      "fetched_at": "2026-09-07T20:53:17.349098+00:00"
+    },
+    "b4a5616142e9ef82": {
+      "title": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
+      "fetched_at": "2026-09-07T20:53:17.930383+00:00"
+    },
+    "4288fd226dc27cd3": {
+      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
+      "fetched_at": "2026-09-07T20:53:18.508140+00:00"
+    },
+    "97660c56157d0c0e": {
+      "title": "The next Cascadia megaquake could hit Oregon harder than expected",
+      "fetched_at": "2026-09-07T20:53:19.093118+00:00"
     }
   },
-  "last_updated": "2026-09-07T16:48:24.620479+00:00"
+  "last_updated": "2026-09-07T20:53:19.137683+00:00"
 }
