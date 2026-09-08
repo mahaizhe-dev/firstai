@@ -1,117 +1,5 @@
 {
   "articles": {
-    "069b102e10936e8b": {
-      "title": "Clips Kitty Open-source local AI video clipping and editing",
-      "fetched_at": "2026-08-31T02:08:04.702660+00:00"
-    },
-    "d467c668efd16ab2": {
-      "title": "AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI",
-      "fetched_at": "2026-08-31T02:08:05.284780+00:00"
-    },
-    "97dd56fbe8540663": {
-      "title": "Static Evaluation of Model Switching in LLM Agents Scores the Wrong World",
-      "fetched_at": "2026-08-31T02:08:05.864259+00:00"
-    },
-    "bb1197f6459f4233": {
-      "title": "Are We Learning to Think Less?",
-      "fetched_at": "2026-08-31T02:08:06.445649+00:00"
-    },
-    "d78aee70b28b5816": {
-      "title": "Will anybody use AI as much as coders?",
-      "fetched_at": "2026-08-31T02:08:07.023686+00:00"
-    },
-    "20a847f8056d7466": {
-      "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
-      "fetched_at": "2026-08-31T02:08:07.590116+00:00"
-    },
-    "c6f4a87049640ada": {
-      "title": "Debian developer resigns after corporate LLM use without disclosure wins vote",
-      "fetched_at": "2026-08-31T02:08:08.197538+00:00"
-    },
-    "a54f417b13f80ae1": {
-      "title": "Lady Gaga is now an AI-longevity biotech founder",
-      "fetched_at": "2026-08-31T02:08:08.778075+00:00"
-    },
-    "62a22874ee121fc1": {
-      "title": "Show HN: What Apple's OS updates silently change in the on-device AI model",
-      "fetched_at": "2026-08-31T02:08:09.367594+00:00"
-    },
-    "08ee4cc5c8a34097": {
-      "title": "派早报：GTA 6 引发请假玩游戏热潮",
-      "fetched_at": "2026-08-31T02:08:09.942224+00:00"
-    },
-    "b0cba9d4f5553b8d": {
-      "title": "Which AI Wrote This?",
-      "fetched_at": "2026-08-31T02:08:10.517383+00:00"
-    },
-    "c6ccb4a7a3e93ba1": {
-      "title": "Civitas – A Civilization for AI Agents on GitHub",
-      "fetched_at": "2026-08-31T02:08:11.097422+00:00"
-    },
-    "1a6106de3adf5b56": {
-      "title": "The Shape and Feel of the Post-AI Data Stack",
-      "fetched_at": "2026-08-31T02:08:11.676467+00:00"
-    },
-    "414fc10aa60e8a50": {
-      "title": "Show HN: Manage coding norms across your AI agents",
-      "fetched_at": "2026-08-31T02:08:12.255283+00:00"
-    },
-    "c924df67339ab181": {
-      "title": "AI coding agents followed abandoned package references, 6K domains analyzed",
-      "fetched_at": "2026-08-31T02:08:12.833762+00:00"
-    },
-    "2486414f60444f68": {
-      "title": "AI Can Answer Almost Anything. It Still Can't Tell You What Matters",
-      "fetched_at": "2026-08-31T02:08:13.443251+00:00"
-    },
-    "40c3979fe31c4638": {
-      "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
-      "fetched_at": "2026-08-31T02:08:14.022251+00:00"
-    },
-    "64197aafa12e2596": {
-      "title": "Debian community allows contributors to use AI",
-      "fetched_at": "2026-08-31T02:08:14.589461+00:00"
-    },
-    "eb682175fb72acc5": {
-      "title": "AI and the Death of Expertise: Why Experts Still Matter",
-      "fetched_at": "2026-08-31T02:08:15.171550+00:00"
-    },
-    "57c59e8b0f984eba": {
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "fetched_at": "2026-08-31T02:08:15.768124+00:00"
-    },
-    "7b1de57cba1b5fa4": {
-      "title": "尼泊尔不断融化的冰川有多危险？",
-      "fetched_at": "2026-08-31T02:08:18.007667+00:00"
-    },
-    "3d29b3e6a301cc7a": {
-      "title": "中国公布西藏洪灾261名外国公民失踪",
-      "fetched_at": "2026-08-31T02:08:18.589707+00:00"
-    },
-    "8752153102e79502": {
-      "title": "中国慰问邻国但引导叙事，强调灾害始于尼泊尔",
-      "fetched_at": "2026-08-31T02:08:19.177488+00:00"
-    },
-    "bc5b23a03718154b": {
-      "title": "她放下演藝事業，回愛丁堡拯救家裏的中餐館",
-      "fetched_at": "2026-08-31T02:08:19.756875+00:00"
-    },
-    "640151acf484bf83": {
-      "title": "西方官員：俄羅斯加大強硬言論，但仍避免與北約爆發戰爭",
-      "fetched_at": "2026-08-31T02:08:20.336220+00:00"
-    },
-    "2d7b6ca741891edc": {
-      "title": "為何台灣公視屢陷預算爭議？",
-      "fetched_at": "2026-08-31T02:08:20.912634+00:00"
-    },
-    "6a30a79c5bc90dca": {
-      "title": "美國稱數十國助中國避特朗普關稅",
-      "fetched_at": "2026-08-31T02:08:21.495376+00:00"
-    },
-    "91d48e3717b8f2ee": {
-      "title": "Archaeologists unearth a medieval nobleman buried with his horse and dog in a rare wooden tomb in Russia",
-      "fetched_at": "2026-08-31T02:08:41.335441+00:00"
-    },
     "07f439f467842210": {
       "title": "Hollywood studios have sued over AI. Now Google's courting them to use its tools",
       "fetched_at": "2026-08-31T12:03:14.467224+00:00"
@@ -3203,7 +3091,123 @@
     "8c62393c33b1a698": {
       "title": "Ancient cave art suggests first known humans in Ireland walked over from Wales",
       "fetched_at": "2026-09-08T01:53:54.205105+00:00"
+    },
+    "8d8439f46903d1db": {
+      "title": "Vaenyx – A personal AI app for family",
+      "fetched_at": "2026-09-08T10:13:50.781935+00:00"
+    },
+    "6e2ebc3d1842f44e": {
+      "title": "TrustFinder: Deep Search AI",
+      "fetched_at": "2026-09-08T10:13:51.350838+00:00"
+    },
+    "e043694c3fc50b0f": {
+      "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
+      "fetched_at": "2026-09-08T10:13:51.933640+00:00"
+    },
+    "759f4ec6b8f6ac5b": {
+      "title": "PicWish – AI photo editing for product images",
+      "fetched_at": "2026-09-08T10:13:52.528627+00:00"
+    },
+    "602c9f2fd4f53b85": {
+      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
+      "fetched_at": "2026-09-08T10:13:53.112193+00:00"
+    },
+    "03ca5ac9f488c1b8": {
+      "title": "Show HN: Pomeroy v1, give any AI assistant secure access to native macOS apps",
+      "fetched_at": "2026-09-08T10:13:53.695843+00:00"
+    },
+    "ae4c60b8a58d0795": {
+      "title": "Türk urges action before AI becomes an 'existential risk to humanity'",
+      "fetched_at": "2026-09-08T10:13:54.277302+00:00"
+    },
+    "900411c1a9b093c5": {
+      "title": "The most advanced and easy to use local AI builder you'll ever see",
+      "fetched_at": "2026-09-08T10:13:54.873027+00:00"
+    },
+    "ba4bb90342e0e4c0": {
+      "title": "Ask HN: Tagging AI-Related Posts",
+      "fetched_at": "2026-09-08T10:13:55.442368+00:00"
+    },
+    "c3f146313b4e2d0d": {
+      "title": "The HydroGym reinforcement learning platform for fluid dynamics",
+      "fetched_at": "2026-09-08T10:13:56.022799+00:00"
+    },
+    "e127f24768884b92": {
+      "title": "Is the UK government the new training ground for AI execs?",
+      "fetched_at": "2026-09-08T10:13:56.640651+00:00"
+    },
+    "b41287f40005e1e0": {
+      "title": "Machine learning of artistic fingerprints in jazz",
+      "fetched_at": "2026-09-08T10:13:57.212593+00:00"
+    },
+    "f91172adafc1004a": {
+      "title": "I talked to deep buddy about AI solving Navier Stokes rumors",
+      "fetched_at": "2026-09-08T10:13:57.781577+00:00"
+    },
+    "fd1846b40aa46452": {
+      "title": "How AI based programming could work (2016)",
+      "fetched_at": "2026-09-08T10:13:58.403238+00:00"
+    },
+    "a3b518a55958f9a8": {
+      "title": "Stable Singularity of the Euler Equations on R^3 without forcing – Anima on AI",
+      "fetched_at": "2026-09-08T10:13:58.983254+00:00"
+    },
+    "a33df988b0cf99b9": {
+      "title": "Bodhan.ai releases 1.2B ASR model that covers 22 Indian Languages",
+      "fetched_at": "2026-09-08T10:13:59.561953+00:00"
+    },
+    "c223419c609682e1": {
+      "title": "Show HN: Am I replacable – a harness to help humans keep up with AI",
+      "fetched_at": "2026-09-08T10:14:00.138840+00:00"
+    },
+    "ce3de2247c333af7": {
+      "title": "In the age of AI what use is left for a personal computer?",
+      "fetched_at": "2026-09-08T10:14:00.722220+00:00"
+    },
+    "c67e41aa1dc7e4ae": {
+      "title": "AI keeps stubbornly refusing to take our jobs",
+      "fetched_at": "2026-09-08T10:14:01.382027+00:00"
+    },
+    "0a5710ccbf458cc5": {
+      "title": "The Chasm: The Shape of Unfinished AI Codebases",
+      "fetched_at": "2026-09-08T10:14:01.959850+00:00"
+    },
+    "cb9f53e86256d223": {
+      "title": "欧洲政治地震：德国极右翼政党州选举胜利预示着什么？",
+      "fetched_at": "2026-09-08T10:14:04.308104+00:00"
+    },
+    "bfd0da039d65ada2": {
+      "title": "华盛顿希望南美各国疏远中国，秘鲁证明这绝非易事",
+      "fetched_at": "2026-09-08T10:14:04.895845+00:00"
+    },
+    "654358787e49dd12": {
+      "title": "定罪戰犯「波斯尼亞屠夫」姆拉迪奇去世 塞爾維亞數千人送殯",
+      "fetched_at": "2026-09-08T10:14:05.468614+00:00"
+    },
+    "11e967b328c164c6": {
+      "title": "哈利和梅根重返英國 國王發函重申兩人已非「在職王室成員」",
+      "fetched_at": "2026-09-08T10:14:06.046147+00:00"
+    },
+    "ab8a95765ad36095": {
+      "title": "美国特使乘“和平快车”抵达基辅，但战争依然看不到终点",
+      "fetched_at": "2026-09-08T10:14:06.618153+00:00"
+    },
+    "7fac07eda9b43bbd": {
+      "title": "印度尼西亚的微塑料危机",
+      "fetched_at": "2026-09-08T10:14:07.191422+00:00"
+    },
+    "e4ed1ed325a14406": {
+      "title": "海上航行286天后，5000名美国大兵的“芭提雅假期”",
+      "fetched_at": "2026-09-08T10:14:07.777052+00:00"
+    },
+    "bef98453c8290630": {
+      "title": "25 years ago, a NASA astronaut captured this haunting photo of the 9/11 attacks — Earth from space",
+      "fetched_at": "2026-09-08T10:14:09.679284+00:00"
+    },
+    "d845338f756786ea": {
+      "title": "Eerily humanlike AI-powered robot enters mass production in China — its makers say it could soon be helping you out at home",
+      "fetched_at": "2026-09-08T10:14:10.259280+00:00"
     }
   },
-  "last_updated": "2026-09-08T01:53:54.290928+00:00"
+  "last_updated": "2026-09-08T10:14:10.375421+00:00"
 }
