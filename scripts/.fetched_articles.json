@@ -1,157 +1,5 @@
 {
   "articles": {
-    "07f439f467842210": {
-      "title": "Hollywood studios have sued over AI. Now Google's courting them to use its tools",
-      "fetched_at": "2026-08-31T12:03:14.467224+00:00"
-    },
-    "107f2f2467c12b51": {
-      "title": "Datadog saves over $1M each month by optimizing AI usage",
-      "fetched_at": "2026-08-31T12:03:15.061378+00:00"
-    },
-    "fb48fea884f8061d": {
-      "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
-      "fetched_at": "2026-08-31T12:03:15.686313+00:00"
-    },
-    "ea0c48c1acd72d92": {
-      "title": "Andrew Ng: the biggest opportunities in AI",
-      "fetched_at": "2026-08-31T12:03:16.276567+00:00"
-    },
-    "dd53b76dbb448a90": {
-      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-      "fetched_at": "2026-08-31T12:03:16.858287+00:00"
-    },
-    "779bcc62a3561d60": {
-      "title": "An AI agent is a background job, not a web request",
-      "fetched_at": "2026-08-31T12:03:17.436313+00:00"
-    },
-    "5a46a0363f131e45": {
-      "title": "The AI-Native SDLC Starts with Your Infrastructure",
-      "fetched_at": "2026-08-31T12:03:18.018816+00:00"
-    },
-    "017d5dc39b58d055": {
-      "title": "Show HN: AI studio with 500 models for headshots, video and images",
-      "fetched_at": "2026-08-31T12:03:18.601794+00:00"
-    },
-    "348ea461aa903795": {
-      "title": "Local AI Is Dead. You Are at the Funeral",
-      "fetched_at": "2026-08-31T12:03:19.185350+00:00"
-    },
-    "5c4eaf5c801c8250": {
-      "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
-      "fetched_at": "2026-08-31T12:03:19.779170+00:00"
-    },
-    "5f2686f5eeef19e0": {
-      "title": "Bill payment kiosk -self-service payment machine Dubai",
-      "fetched_at": "2026-08-31T12:03:20.384872+00:00"
-    },
-    "a43923bd08709f3c": {
-      "title": "派评 | 近期值得关注的 App",
-      "fetched_at": "2026-08-31T12:03:20.385030+00:00"
-    },
-    "1638542e6d9cf207": {
-      "title": "G20 Warned of Growing Threat to Financial Stability Posed by New AI Models",
-      "fetched_at": "2026-08-31T12:03:20.981650+00:00"
-    },
-    "b3264ff8a5d4583a": {
-      "title": "LLM distillation: optimizing what to label",
-      "fetched_at": "2026-08-31T12:03:21.568990+00:00"
-    },
-    "9de54d4a2e8ecf89": {
-      "title": "Anthropic Sued Over Limits on Its $200-a-Month AI Plans",
-      "fetched_at": "2026-08-31T12:03:22.149147+00:00"
-    },
-    "598f91a218a3b826": {
-      "title": "AI Lending in Production: Credit Risk,Compliance and Control",
-      "fetched_at": "2026-08-31T12:03:22.751630+00:00"
-    },
-    "99ff9cd964be1332": {
-      "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
-      "fetched_at": "2026-08-31T12:03:23.342034+00:00"
-    },
-    "902a7d4a83d50198": {
-      "title": "Show HN: VajraClaw – Deterministic <1µs execution guardrail for AI agents",
-      "fetched_at": "2026-08-31T12:03:23.920639+00:00"
-    },
-    "1bc0c0d27f476798": {
-      "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
-      "fetched_at": "2026-08-31T12:03:24.504091+00:00"
-    },
-    "597a680fe989b745": {
-      "title": "Show HN: Catch AI code hallucinations without asking a model",
-      "fetched_at": "2026-08-31T12:03:25.092907+00:00"
-    },
-    "71e6c74eaee15ab1": {
-      "title": "洪水來襲前幾分鐘，這位尼泊爾校長及時疏散了900名學生",
-      "fetched_at": "2026-08-31T12:03:27.375618+00:00"
-    },
-    "5b8260ad11e9dc21": {
-      "title": "前線報導：尼泊爾洪災逾900人罹難 民眾絕望尋找失蹤親人",
-      "fetched_at": "2026-08-31T12:03:27.950066+00:00"
-    },
-    "878679cffb0185b3": {
-      "title": "塔吉克斯坦年輕人之間緣何興起「漢語熱」？",
-      "fetched_at": "2026-08-31T12:03:28.529071+00:00"
-    },
-    "c2f92b778a7ec0bc": {
-      "title": "韓國統一教領袖韓鶴子涉貪罪成，判囚兩年",
-      "fetched_at": "2026-08-31T12:03:29.120164+00:00"
-    },
-    "b3aa4a32bbf65f13": {
-      "title": "为什么美国总是难以退出战争",
-      "fetched_at": "2026-08-31T12:03:29.709886+00:00"
-    },
-    "8e3fb182156e4f64": {
-      "title": "全球变暖时代，“整个喜马拉雅山脉都在融化”",
-      "fetched_at": "2026-08-31T12:03:30.296963+00:00"
-    },
-    "d9f3c1d62669f65a": {
-      "title": "人工智能“脱缰”在美国引发焦虑，中国则从中看到机遇",
-      "fetched_at": "2026-08-31T12:03:30.880970+00:00"
-    },
-    "a01e01276d69cdbb": {
-      "title": "我研究成功人士，他们都有一个共同的习惯",
-      "fetched_at": "2026-08-31T12:03:31.487019+00:00"
-    },
-    "cb5929fd1106ba92": {
-      "title": "衛星圖像揭示村莊災情的嚴重程度",
-      "fetched_at": "2026-08-31T12:03:32.084407+00:00"
-    },
-    "52aad400fecbe9c9": {
-      "title": "中國總理赴泥石流災場前線意味著什麼？",
-      "fetched_at": "2026-08-31T12:03:32.669912+00:00"
-    },
-    "9362980cd499d769": {
-      "title": "是甚麼導致西藏致命泥石流？科學家分析來龍去脈",
-      "fetched_at": "2026-08-31T12:03:33.260344+00:00"
-    },
-    "3364b48270cf8aae": {
-      "title": "Scientists build tiny robots without motors that can fly using sound waves alone",
-      "fetched_at": "2026-08-31T12:03:36.558343+00:00"
-    },
-    "8bc2b762ecdb7600": {
-      "title": "Crown of Kerch: A 1,600-year-old gold, gem-studded diadem found in the grave of a Hun noblewoman",
-      "fetched_at": "2026-08-31T12:03:37.142291+00:00"
-    },
-    "3f873d6d4808c15e": {
-      "title": "Planting crops in fields of solar panels is more efficient, protects the plants and helps keep workers cool, study finds",
-      "fetched_at": "2026-08-31T12:03:37.717492+00:00"
-    },
-    "9feb47f468e5cfdd": {
-      "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
-      "fetched_at": "2026-08-31T12:03:38.296122+00:00"
-    },
-    "4fe9e9bf12a7cbcb": {
-      "title": "Rocky planets may have formed just 100 million years after the Big Bang",
-      "fetched_at": "2026-08-31T12:03:38.871006+00:00"
-    },
-    "94e3ba9a68411b24": {
-      "title": "Scientists discover diamonds can generate electricity",
-      "fetched_at": "2026-08-31T12:03:39.458172+00:00"
-    },
-    "e2bc3a64742215ea": {
-      "title": "Flooding of ancient Salton Sea linked to San Andreas earthquakes",
-      "fetched_at": "2026-08-31T12:03:40.041135+00:00"
-    },
     "aa51c6c2f6697d78": {
       "title": "1,664 cases where the AI went out of control",
       "fetched_at": "2026-08-31T22:08:47.697833+00:00"
@@ -3207,7 +3055,155 @@
     "d845338f756786ea": {
       "title": "Eerily humanlike AI-powered robot enters mass production in China — its makers say it could soon be helping you out at home",
       "fetched_at": "2026-09-08T10:14:10.259280+00:00"
+    },
+    "7fdf3dc498719dcb": {
+      "title": "Learning Human Health and Diseases from 24-Hour Wrist Movement",
+      "fetched_at": "2026-09-08T15:35:43.896949+00:00"
+    },
+    "fda7ca3011f5c4ff": {
+      "title": "Did AI Find Murakami's Voice? Student's $2 Experiment Divides China's Literati",
+      "fetched_at": "2026-09-08T15:35:44.516710+00:00"
+    },
+    "497ca66d73f4220c": {
+      "title": "AI Scraping on the Cheap",
+      "fetched_at": "2026-09-08T15:35:45.139332+00:00"
+    },
+    "08e738b412dec372": {
+      "title": "Show HN: Edge-AI device that analyzes my cannabis grow, nothing leaves the LAN",
+      "fetched_at": "2026-09-08T15:35:45.761398+00:00"
+    },
+    "2192b04c9dfa86d5": {
+      "title": "Show HN: EndFrame – Demos, launch videos, shorts from the AI plan you pay for",
+      "fetched_at": "2026-09-08T15:35:46.377776+00:00"
+    },
+    "9cb2eea309df97fc": {
+      "title": "Two cats, two dogs, four vendors, and the model the AI couldn't find",
+      "fetched_at": "2026-09-08T15:35:46.997882+00:00"
+    },
+    "a7abc214204e4bb9": {
+      "title": "GPT-6 Astra one-shots a launch video in an open-source editor",
+      "fetched_at": "2026-09-08T15:35:47.622026+00:00"
+    },
+    "42f587442de65ed0": {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "fetched_at": "2026-09-08T15:35:48.293378+00:00"
+    },
+    "cf0db4b2a68cc205": {
+      "title": "Does an AI have mercy in games? Fable 5.1 vs. GPT-6",
+      "fetched_at": "2026-09-08T15:35:48.914414+00:00"
+    },
+    "3c9d2748f6af0e84": {
+      "title": "Who Built AI? A Data Story",
+      "fetched_at": "2026-09-08T15:35:49.527078+00:00"
+    },
+    "ad47422865c93b7e": {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "fetched_at": "2026-09-08T15:35:50.149141+00:00"
+    },
+    "6b4772a275a0992b": {
+      "title": "Show HN: SiteTell: finds the areas of your site that read as AI-generic",
+      "fetched_at": "2026-09-08T15:35:50.764632+00:00"
+    },
+    "9c9926cd6d2bac01": {
+      "title": "I Hardened a Personal AI Agent That Reads My Email, Files, and Desktop",
+      "fetched_at": "2026-09-08T15:35:51.392702+00:00"
+    },
+    "8efe8918f57b38f9": {
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "fetched_at": "2026-09-08T15:35:52.001751+00:00"
+    },
+    "ca934cc6f90017ed": {
+      "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
+      "fetched_at": "2026-09-08T15:35:52.615531+00:00"
+    },
+    "1d954664578c3843": {
+      "title": "It is rational to prefer human-writing over AI content of superior quality",
+      "fetched_at": "2026-09-08T15:35:53.226599+00:00"
+    },
+    "f024b14b8e42304a": {
+      "title": "Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site with Customers",
+      "fetched_at": "2026-09-08T15:35:53.855336+00:00"
+    },
+    "657a1a082118dfad": {
+      "title": "My Little AI Factory",
+      "fetched_at": "2026-09-08T15:35:54.472189+00:00"
+    },
+    "4f28a480259d9cf3": {
+      "title": "AI may have just solved a million-dollar math problem",
+      "fetched_at": "2026-09-08T15:35:55.102976+00:00"
+    },
+    "36e3d6c18ac74b01": {
+      "title": "Apple and AI: Siri the Early Years",
+      "fetched_at": "2026-09-08T15:35:55.733665+00:00"
+    },
+    "8b53d09436355eeb": {
+      "title": "朝俄首座跨境公路橋通車 烏克蘭團體擔心加快軍援物流",
+      "fetched_at": "2026-09-08T15:35:58.903795+00:00"
+    },
+    "6a30a79c5bc90dca": {
+      "title": "美國稱數十國助中國避特朗普關稅",
+      "fetched_at": "2026-09-08T15:35:59.532719+00:00"
+    },
+    "244f382a1b265f84": {
+      "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+      "fetched_at": "2026-09-08T15:36:03.986219+00:00"
+    },
+    "264a65491a47cf17": {
+      "title": "Your personality may be more genetic than scientists realized",
+      "fetched_at": "2026-09-08T15:36:04.616465+00:00"
+    },
+    "7bb6109acaf4d1e1": {
+      "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
+      "fetched_at": "2026-09-08T15:36:05.242269+00:00"
+    },
+    "2808b98191ff1fcb": {
+      "title": "Giant new dinosaur discovered beneath construction site in Brazil",
+      "fetched_at": "2026-09-08T15:36:05.864067+00:00"
+    },
+    "6943b4d4e762c7d3": {
+      "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
+      "fetched_at": "2026-09-08T15:36:06.477563+00:00"
+    },
+    "194925e67108dc62": {
+      "title": "The American “cheetah” wasn’t a cheetah at all",
+      "fetched_at": "2026-09-08T15:36:07.093054+00:00"
+    },
+    "ecbafb29a78c3cf8": {
+      "title": "Early statin use linked to 15% lower dementia risk",
+      "fetched_at": "2026-09-08T15:36:07.708857+00:00"
+    },
+    "1696b7a20b2f5895": {
+      "title": "Doctors saved this rare monkey from amputation. Months later, she gave birth",
+      "fetched_at": "2026-09-08T15:36:08.328398+00:00"
+    },
+    "eac2182f07551134": {
+      "title": "Scientists say love follows hidden mathematical rules",
+      "fetched_at": "2026-09-08T15:36:08.983650+00:00"
+    },
+    "c397928e354fe15e": {
+      "title": "A War of 1812 soldier buried his own arm. His real story is even stranger",
+      "fetched_at": "2026-09-08T15:36:09.604815+00:00"
+    },
+    "251dcbd759480d50": {
+      "title": "Your gut microbiome may be more contagious than scientists thought",
+      "fetched_at": "2026-09-08T15:36:10.239568+00:00"
+    },
+    "7b7407ae4ca48f56": {
+      "title": "An important step towards detecting fractons in quantum spin liquids",
+      "fetched_at": "2026-09-08T15:36:10.863708+00:00"
+    },
+    "abe7697ae5f0ed16": {
+      "title": "MIT scientists develop injectable “mini livers” that work inside the body",
+      "fetched_at": "2026-09-08T15:36:11.485517+00:00"
+    },
+    "40003ee9c8b38e36": {
+      "title": "Antarctica gained a record 695 billion tons of ice. Scientists found the surprising reason",
+      "fetched_at": "2026-09-08T15:36:12.109670+00:00"
+    },
+    "152ff0832d3ff600": {
+      "title": "'Extreme' transistor can withstand heat of more than 1,000 degrees F — priming it for use in Venus-bound probes",
+      "fetched_at": "2026-09-08T15:36:12.733481+00:00"
     }
   },
-  "last_updated": "2026-09-08T10:14:10.375421+00:00"
+  "last_updated": "2026-09-08T15:36:12.855494+00:00"
 }
