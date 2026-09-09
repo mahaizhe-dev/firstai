@@ -1,117 +1,5 @@
 {
   "articles": {
-    "aa51c6c2f6697d78": {
-      "title": "1,664 cases where the AI went out of control",
-      "fetched_at": "2026-08-31T22:08:47.697833+00:00"
-    },
-    "c7a491b28dc39e0f": {
-      "title": "AI Job Scout and Rate Matcher",
-      "fetched_at": "2026-08-31T22:08:48.308840+00:00"
-    },
-    "3f9c5748638ef2da": {
-      "title": "Tell HN: On AI, Quality, and Accountability",
-      "fetched_at": "2026-08-31T22:08:48.929141+00:00"
-    },
-    "82d6e5a1add8e294": {
-      "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
-      "fetched_at": "2026-08-31T22:08:49.542947+00:00"
-    },
-    "3e94ef02171026b4": {
-      "title": "The Movies That Make You Feel the Strangeness of AI",
-      "fetched_at": "2026-08-31T22:08:50.151282+00:00"
-    },
-    "2e35dd7388135dd8": {
-      "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
-      "fetched_at": "2026-08-31T22:08:50.769434+00:00"
-    },
-    "30d10e42cc49c1ad": {
-      "title": "I attended a conference recently and AI use by academics was absurd",
-      "fetched_at": "2026-08-31T22:08:51.396902+00:00"
-    },
-    "edc6efc9d84a9da0": {
-      "title": "Show HN: cdai – the AI-enhanced cd command",
-      "fetched_at": "2026-08-31T22:08:52.020511+00:00"
-    },
-    "7ebe6f39139da602": {
-      "title": "Show HN: Transform text and images into cinematic AI videos",
-      "fetched_at": "2026-08-31T22:08:52.647861+00:00"
-    },
-    "533be497b3b6aa98": {
-      "title": "Show HN: Doom Compiled into an LLM",
-      "fetched_at": "2026-08-31T22:08:53.349169+00:00"
-    },
-    "ce3c6219ba3f6f8f": {
-      "title": "South Korea opened bidding for a free, unlimited AI chatbot for all citizens",
-      "fetched_at": "2026-08-31T22:08:53.963778+00:00"
-    },
-    "8316764d052c8282": {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "fetched_at": "2026-08-31T22:08:54.582550+00:00"
-    },
-    "28bd525b7acd20f1": {
-      "title": "AI hallucinations are infiltrating Australia's parliament",
-      "fetched_at": "2026-08-31T22:08:55.185362+00:00"
-    },
-    "db9f89f1f13eba65": {
-      "title": "Canaries in the Gold Mine: Early Productivity Gains from AI",
-      "fetched_at": "2026-08-31T22:08:55.816048+00:00"
-    },
-    "df466387485628ac": {
-      "title": "Show HN: Guess the AI model from its web design",
-      "fetched_at": "2026-08-31T22:08:56.431099+00:00"
-    },
-    "350f18ad8fe24caf": {
-      "title": "Bank of England chief warns new AI models threaten global financial stability",
-      "fetched_at": "2026-08-31T22:08:57.046444+00:00"
-    },
-    "92570d2051589082": {
-      "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
-      "fetched_at": "2026-08-31T22:08:57.662135+00:00"
-    },
-    "d1a9461d08c4e3c2": {
-      "title": "AI Is an Anti-Primary Source Machine",
-      "fetched_at": "2026-08-31T22:08:58.278213+00:00"
-    },
-    "8ac19177f9bc6a2d": {
-      "title": "Reddit mod used AI to hack Star Wars Galaxies emulator over a 14-year-old grudge",
-      "fetched_at": "2026-08-31T22:08:58.887412+00:00"
-    },
-    "0fe6650578d81338": {
-      "title": "Show HN: Kiso – Publish one OKF knowledge base for humans and AI agents",
-      "fetched_at": "2026-08-31T22:08:59.500191+00:00"
-    },
-    "322648e03aec91dc": {
-      "title": "美國NASA全新超強望遠鏡將改寫我們對宇宙的理解",
-      "fetched_at": "2026-08-31T22:09:01.856769+00:00"
-    },
-    "445c02125209aeb4": {
-      "title": "'This is probably the safest time to be playing the sport of football': Concussion expert explains why viral CTE study may not be as scary as it sounds",
-      "fetched_at": "2026-08-31T22:09:03.946943+00:00"
-    },
-    "7aa92f6666a465f1": {
-      "title": "Study Tracks Diet in Polish City",
-      "fetched_at": "2026-08-31T22:09:04.566137+00:00"
-    },
-    "f7dff934b2e8100a": {
-      "title": "Historic Cemetery Excavated in Ghent",
-      "fetched_at": "2026-08-31T22:09:05.184361+00:00"
-    },
-    "a65d795c369af825": {
-      "title": "Popular sweeteners may leave effects that last for generations",
-      "fetched_at": "2026-08-31T22:09:05.809666+00:00"
-    },
-    "3bcab3466cc1f7fa": {
-      "title": "Scientists discover two superconducting states hiding as one",
-      "fetched_at": "2026-08-31T22:09:06.447036+00:00"
-    },
-    "f7e7ce0cd4b5853e": {
-      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
-      "fetched_at": "2026-08-31T22:09:07.068151+00:00"
-    },
-    "aa3e64ccdf95961c": {
-      "title": "Fossil feet may be misleading scientists about human evolution",
-      "fetched_at": "2026-08-31T22:09:07.685344+00:00"
-    },
     "1f2f0f1170353d6b": {
       "title": "Show HN: Deslop, a skill that turns legalese and AI slop into plain English",
       "fetched_at": "2026-09-01T02:28:20.275755+00:00"
@@ -3331,7 +3219,123 @@
     "9feb47f468e5cfdd": {
       "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
       "fetched_at": "2026-09-08T20:26:19.427873+00:00"
+    },
+    "4365877bf6f9d1c3": {
+      "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
+      "fetched_at": "2026-09-09T01:59:06.512351+00:00"
+    },
+    "ef8f740b2a35b52d": {
+      "title": "AI Responsibility – OpenAI and Anthropic",
+      "fetched_at": "2026-09-09T01:59:07.138656+00:00"
+    },
+    "842b5b5d548541af": {
+      "title": "AI: Lot of \"Hideous\" Code but Found Bottlenecks for Faster Linux Compilation",
+      "fetched_at": "2026-09-09T01:59:07.757915+00:00"
+    },
+    "6d18276408bfe036": {
+      "title": "The Growing Push to Ban Superintelligent AI",
+      "fetched_at": "2026-09-09T01:59:08.392574+00:00"
+    },
+    "b85007d544f51ef8": {
+      "title": "Bullshit arguments about AI (not) replacing jobs (2023)",
+      "fetched_at": "2026-09-09T01:59:09.013742+00:00"
+    },
+    "bdd269b94a516ead": {
+      "title": "The paradox at the heart of AI and science [video]",
+      "fetched_at": "2026-09-09T01:59:09.648075+00:00"
+    },
+    "978ff944f28b509a": {
+      "title": "AI Has Solved One of Math's $1M Millennium Prize Problems",
+      "fetched_at": "2026-09-09T01:59:10.274343+00:00"
+    },
+    "cd259cfe20c495e2": {
+      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+      "fetched_at": "2026-09-09T01:59:10.894163+00:00"
+    },
+    "e8a7b7eeeb85f71c": {
+      "title": "Show HN: AI Stack Selector Tool",
+      "fetched_at": "2026-09-09T01:59:11.538077+00:00"
+    },
+    "03023c23d04e9ecf": {
+      "title": "Linux desktop image editor with local AI",
+      "fetched_at": "2026-09-09T01:59:12.166656+00:00"
+    },
+    "c6fc30a4428a75e1": {
+      "title": "Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]",
+      "fetched_at": "2026-09-09T01:59:12.785922+00:00"
+    },
+    "8c2b1399eed75ad4": {
+      "title": "Buckmaster raising alarms that AI corporations snooped on their research",
+      "fetched_at": "2026-09-09T01:59:13.422807+00:00"
+    },
+    "d107474bb6e18d36": {
+      "title": "An anti-RAG AI memory in Rust that intentionally forgets and hallucinates",
+      "fetched_at": "2026-09-09T01:59:14.038510+00:00"
+    },
+    "eb0b57e387f36713": {
+      "title": "Feds accuse China of 'systematic' distillation of U.S. AI models",
+      "fetched_at": "2026-09-09T01:59:14.679049+00:00"
+    },
+    "ee111231a362eb35": {
+      "title": "How to manage a growing fleet of AI agents with Latitude",
+      "fetched_at": "2026-09-09T01:59:15.325685+00:00"
+    },
+    "c437a02609ee6e46": {
+      "title": "Hacking Cable: AI in post-exploitation operations",
+      "fetched_at": "2026-09-09T01:59:15.947442+00:00"
+    },
+    "3eb8d35b151f6691": {
+      "title": "Solo.io Pushes Agentic AI Governance to the Desktop: Open-Source Agentdesktop",
+      "fetched_at": "2026-09-09T01:59:16.576077+00:00"
+    },
+    "4721da6d444c4c01": {
+      "title": "Despite the chatter, AI pricing is not converging on a model",
+      "fetched_at": "2026-09-09T01:59:17.191040+00:00"
+    },
+    "f97c547da7a8f801": {
+      "title": "Open Models Change the Economics of AI [video]",
+      "fetched_at": "2026-09-09T01:59:17.818297+00:00"
+    },
+    "10d0c8727dcec0ae": {
+      "title": "The DOJ's AI Fair Use Brief Is Correct, but from a DOJ That Has No Credibility",
+      "fetched_at": "2026-09-09T01:59:18.440642+00:00"
+    },
+    "ad495a116d1539ef": {
+      "title": "中情局副局长称美国正对中国开展更广泛间谍活动",
+      "fetched_at": "2026-09-09T01:59:22.917449+00:00"
+    },
+    "c76d08cb6eb4393e": {
+      "title": "「我一度認不出我的男朋友」：我是如何發現自己患有臉盲症的",
+      "fetched_at": "2026-09-09T01:59:23.539840+00:00"
+    },
+    "ae706a4f7baea0f3": {
+      "title": "推崇⽑澤東的「Z世代」：彈幕、「教員」與政治失語",
+      "fetched_at": "2026-09-09T01:59:24.159003+00:00"
+    },
+    "d2a2041519f1815e": {
+      "title": "中国贸易顺差连续第四个月突破千亿美元",
+      "fetched_at": "2026-09-09T01:59:24.786122+00:00"
+    },
+    "6e20b2a30e06a96c": {
+      "title": "Google scientists removed a critical 'consciousness safeguard' from AI models. What happened next?",
+      "fetched_at": "2026-09-09T01:59:45.013618+00:00"
+    },
+    "d75979a76b1b4c89": {
+      "title": "OpenAI Just Claimed a Math Discovery. Some Academics Are Crying Foul",
+      "fetched_at": "2026-09-09T01:59:45.644806+00:00"
+    },
+    "05f45ef38d1aea21": {
+      "title": "Earth's ancient auroral belts may have made life's ingredients",
+      "fetched_at": "2026-09-09T01:59:46.274175+00:00"
+    },
+    "8955595cff903f66": {
+      "title": "Trump's new gold-trimmed phones in historical perspective",
+      "fetched_at": "2026-09-09T01:59:46.891599+00:00"
+    },
+    "ddbceede63b94e97": {
+      "title": "Ancient Egypt in 3D",
+      "fetched_at": "2026-09-09T01:59:47.511352+00:00"
     }
   },
-  "last_updated": "2026-09-08T20:26:19.518275+00:00"
+  "last_updated": "2026-09-09T01:59:47.590330+00:00"
 }
