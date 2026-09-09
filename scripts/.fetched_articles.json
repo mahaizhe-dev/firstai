@@ -1,61 +1,5 @@
 {
   "articles": {
-    "4c22ca172ba455b5": {
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "fetched_at": "2026-09-01T15:42:01.748119+00:00"
-    },
-    "99734cf55765fae1": {
-      "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "fetched_at": "2026-09-01T15:42:02.383456+00:00"
-    },
-    "b310c5ccb0d450c9": {
-      "title": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？",
-      "fetched_at": "2026-09-01T15:42:05.564097+00:00"
-    },
-    "63b003b13b6de293": {
-      "title": "泥石流摧毀西藏吉隆口岸的關鍵幾分鐘",
-      "fetched_at": "2026-09-01T15:42:06.195576+00:00"
-    },
-    "a70a5afd2b3245ae": {
-      "title": "在西南英格蘭的角落，編織手工給移英港人女士們另一個家",
-      "fetched_at": "2026-09-01T15:42:06.811415+00:00"
-    },
-    "2ce33fb006c564a4": {
-      "title": "Man rummaging in Polish junkyard finds a 1,800-year-old shield holding the cremated remains of a Vandal warrior",
-      "fetched_at": "2026-09-01T15:42:17.112573+00:00"
-    },
-    "a286de498864dd96": {
-      "title": "ZWO Seestar S50 Pro smart telescope review",
-      "fetched_at": "2026-09-01T15:42:17.731276+00:00"
-    },
-    "6baabeb6254787e7": {
-      "title": "Mindfulness may lower blood pressure in just 8 weeks",
-      "fetched_at": "2026-09-01T15:42:18.369417+00:00"
-    },
-    "1bc8faa1971d637b": {
-      "title": "Scientists discover why snake embryos twist into spirals",
-      "fetched_at": "2026-09-01T15:42:18.990225+00:00"
-    },
-    "85dc69a788eac116": {
-      "title": "Reaching 90 without dementia doesn’t mean you’re in the clear",
-      "fetched_at": "2026-09-01T15:42:19.612189+00:00"
-    },
-    "6f97d10884f2766e": {
-      "title": "A massive plume deep beneath Africa is pulling the continent apart",
-      "fetched_at": "2026-09-01T15:42:20.246865+00:00"
-    },
-    "7fd47f8a9267af38": {
-      "title": "NASA’s Swift telescope is back, but time is running out",
-      "fetched_at": "2026-09-01T15:42:20.875471+00:00"
-    },
-    "a20fee97b9db890e": {
-      "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
-      "fetched_at": "2026-09-01T15:42:21.499693+00:00"
-    },
-    "fbcbb2fb5acbd854": {
-      "title": "Scientists find a human-only gene that may help explain our brainpower",
-      "fetched_at": "2026-09-01T15:42:22.128819+00:00"
-    },
     "cd0f3114436c74e4": {
       "title": "Ask HN: AI Architecture Systems Design",
       "fetched_at": "2026-09-01T20:15:53.625483+00:00"
@@ -3419,7 +3363,135 @@
     "5627a2cd6c7c686b": {
       "title": "Caffeine may flip an ancient cellular switch linked to slower aging",
       "fetched_at": "2026-09-09T15:29:56.257313+00:00"
+    },
+    "bb8f6876361cc6f2": {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "fetched_at": "2026-09-09T20:09:30.482108+00:00"
+    },
+    "16190cde853d6ee6": {
+      "title": "ChatGPT Voice can now use GPT-5.6 Sol and GPT-6 Astra",
+      "fetched_at": "2026-09-09T20:09:31.099081+00:00"
+    },
+    "b8ca584b4edbf995": {
+      "title": "Stilla is joining Meta to reshape business AI",
+      "fetched_at": "2026-09-09T20:09:31.726418+00:00"
+    },
+    "552f598159ccb56b": {
+      "title": "China slams US claims of 'industrial-scale' AI theft",
+      "fetched_at": "2026-09-09T20:09:32.351647+00:00"
+    },
+    "47ed683354eb2e9b": {
+      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "fetched_at": "2026-09-09T20:09:32.967001+00:00"
+    },
+    "414d6460a89dd9ae": {
+      "title": "OpenAI's rogue AI agents used more sites",
+      "fetched_at": "2026-09-09T20:09:33.593714+00:00"
+    },
+    "3b5683d772c42726": {
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "fetched_at": "2026-09-09T20:09:34.222267+00:00"
+    },
+    "a797e566363d99b4": {
+      "title": "A small GitHub API change could make AI-slop moderation much easier",
+      "fetched_at": "2026-09-09T20:09:34.846111+00:00"
+    },
+    "d2932074066abbe5": {
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "fetched_at": "2026-09-09T20:09:35.474445+00:00"
+    },
+    "691d17fdf9ff9d90": {
+      "title": "Building a place for LLM intelligence to persist",
+      "fetched_at": "2026-09-09T20:09:36.100311+00:00"
+    },
+    "91e2e2b3a471d325": {
+      "title": "A new deep learning model maps global methane emissions from space",
+      "fetched_at": "2026-09-09T20:09:36.713892+00:00"
+    },
+    "3371600b67e636cc": {
+      "title": "AI might unmask your anonymous accounts",
+      "fetched_at": "2026-09-09T20:09:37.333281+00:00"
+    },
+    "14134294238936d9": {
+      "title": "America is still beating China in the AI race",
+      "fetched_at": "2026-09-09T20:09:37.954507+00:00"
+    },
+    "d48028065c0fa502": {
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "fetched_at": "2026-09-09T20:09:38.580402+00:00"
+    },
+    "05b43fafbd041c50": {
+      "title": "AI Programming: A Layered Model",
+      "fetched_at": "2026-09-09T20:09:39.200871+00:00"
+    },
+    "1826c686939240ae": {
+      "title": "Show HN: ColliePWA a mobile interface for AI agents in herdr/tmux/zellij",
+      "fetched_at": "2026-09-09T20:09:39.826894+00:00"
+    },
+    "43679d8aad5f2951": {
+      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "fetched_at": "2026-09-09T20:09:40.445902+00:00"
+    },
+    "edfb15a212ace3e9": {
+      "title": "Project Tailwind: call for ambitious AI safety initiatives",
+      "fetched_at": "2026-09-09T20:09:41.072860+00:00"
+    },
+    "f6c56c558d53d3b5": {
+      "title": "Google engineer put on leave after saying AI chatbot has become sentient",
+      "fetched_at": "2026-09-09T20:09:41.695975+00:00"
+    },
+    "5af5c59e723a5bcd": {
+      "title": "ARPA-H to invest $62M to develop FDA-authorized AI for heart failure",
+      "fetched_at": "2026-09-09T20:09:42.321064+00:00"
+    },
+    "d1d7976889c00965": {
+      "title": "Watch the first-ever footage of a rare deep-sea squid in the northeastern Pacific",
+      "fetched_at": "2026-09-09T20:09:47.936332+00:00"
+    },
+    "469bbaa51150df38": {
+      "title": "'Why would you ruin your career?': OpenAI claims to have cracked one of math's greatest unsolved problems, but mathematicians allege it played dirty",
+      "fetched_at": "2026-09-09T20:09:48.563871+00:00"
+    },
+    "db0c3166d1f7136f": {
+      "title": "The 'ancient' rules of the game behind Snakes and Ladders were invented in 1975",
+      "fetched_at": "2026-09-09T20:09:49.177069+00:00"
+    },
+    "7b3738160eb86fc2": {
+      "title": "Another Unusual Burial Found at Ancient Polish Cemetery",
+      "fetched_at": "2026-09-09T20:09:49.798591+00:00"
+    },
+    "03046f98d42dcb96": {
+      "title": "Record-breaking rain in California was caused by abnormally high temperatures on the other side of the world, study finds",
+      "fetched_at": "2026-09-09T20:09:50.413380+00:00"
+    },
+    "2bc8798566ca5d89": {
+      "title": "World's oldest evidence of habitual drug use traced back 25,000 years to Indonesia",
+      "fetched_at": "2026-09-09T20:09:51.026608+00:00"
+    },
+    "5466313c140848df": {
+      "title": "See the highest-resolution footage of a black hole jet ever taken, thanks to AI and 27 years of observations",
+      "fetched_at": "2026-09-09T20:09:51.647628+00:00"
+    },
+    "5419dc251c2d55cc": {
+      "title": "Archaeologists Discover Extent of Settlement Around Ottoman Sultan's Tomb",
+      "fetched_at": "2026-09-09T20:09:52.264890+00:00"
+    },
+    "3e6b73d084577b3c": {
+      "title": "Roman-Era Mosaic Floor Unearthed in Northern Turkey",
+      "fetched_at": "2026-09-09T20:09:52.880670+00:00"
+    },
+    "7e4144265ce07725": {
+      "title": "Do you think Al could ever become self-aware?",
+      "fetched_at": "2026-09-09T20:09:53.499696+00:00"
+    },
+    "d4c7b5691ea09509": {
+      "title": "Ghostly green lakes merge in Australian outback after 2 years of heavy rain — Earth from space",
+      "fetched_at": "2026-09-09T20:09:54.118693+00:00"
+    },
+    "0365c3c2849a0a26": {
+      "title": "'It's in the realm of possibility': Climate change is spurring a reemergence of yellow fever, and the US could face future threats",
+      "fetched_at": "2026-09-09T20:09:54.743999+00:00"
     }
   },
-  "last_updated": "2026-09-09T15:29:56.332333+00:00"
+  "last_updated": "2026-09-09T20:09:54.852400+00:00"
 }
