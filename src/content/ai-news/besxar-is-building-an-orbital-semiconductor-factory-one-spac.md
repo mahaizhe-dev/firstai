@@ -1,0 +1,10 @@
+---
+title: 'Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time'
+description: 'If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups laun'
+pubDate: 2026-09-09T12:30:00
+source: 'TechCrunch AI'
+sourceUrl: 'https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/'
+tags: []
+---
+
+If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to [&#8230;]

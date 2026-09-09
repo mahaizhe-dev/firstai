@@ -1,105 +1,5 @@
 {
   "articles": {
-    "a96f06e6796b0162": {
-      "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
-      "fetched_at": "2026-09-01T10:41:49.129677+00:00"
-    },
-    "b0621dbe64d07f52": {
-      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "fetched_at": "2026-09-01T10:41:49.758084+00:00"
-    },
-    "d4b21df5a8e9b92a": {
-      "title": "开学季｜值得关注的官翻渠道汇总（2026）",
-      "fetched_at": "2026-09-01T10:41:50.383535+00:00"
-    },
-    "8028a544ffb6fc2b": {
-      "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
-      "fetched_at": "2026-09-01T10:41:50.998602+00:00"
-    },
-    "0e823252ca186e94": {
-      "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
-      "fetched_at": "2026-09-01T10:41:50.998778+00:00"
-    },
-    "6602d5ba5f56adf8": {
-      "title": "屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能",
-      "fetched_at": "2026-09-01T10:41:51.707053+00:00"
-    },
-    "d834d5776fe054b5": {
-      "title": "全球仅剩三位数的物种，科学家却连一个准数都数不出来",
-      "fetched_at": "2026-09-01T10:41:52.336342+00:00"
-    },
-    "7275d4a8b773f683": {
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "fetched_at": "2026-09-01T10:41:52.954506+00:00"
-    },
-    "bfe534460675e0f1": {
-      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-      "fetched_at": "2026-09-01T10:41:52.954647+00:00"
-    },
-    "b474c8ee27eee001": {
-      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "fetched_at": "2026-09-01T10:41:53.582389+00:00"
-    },
-    "4eee3ddf76d58c97": {
-      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
-      "fetched_at": "2026-09-01T10:41:53.582523+00:00"
-    },
-    "bb618e776b1ff640": {
-      "title": "上合組織25週年：中國舞臺、伊朗考驗，還是「清談場所」？",
-      "fetched_at": "2026-09-01T10:41:56.301836+00:00"
-    },
-    "a1f3683b0878c3be": {
-      "title": "「大家都是做做樣子」：香港高中公民科推行五週年",
-      "fetched_at": "2026-09-01T10:41:56.927521+00:00"
-    },
-    "75a0946098f6efbd": {
-      "title": "前線報導：BBC走訪中尼邊境被洪災抹去的小鎮",
-      "fetched_at": "2026-09-01T10:41:57.560799+00:00"
-    },
-    "594fc4b2ad9df0a0": {
-      "title": "Shein香港上市首日股價下跌 期待已久的股市首秀表現疲弱",
-      "fetched_at": "2026-09-01T10:41:58.182346+00:00"
-    },
-    "8cd0fd050cdf1cee": {
-      "title": "尼泊爾—西藏泥石流：吉隆口岸為何是朝聖之路上的重要關口？",
-      "fetched_at": "2026-09-01T10:41:58.796874+00:00"
-    },
-    "6ae28b9c9353ec66": {
-      "title": "梅西退出阿根廷國家隊：「已沒什麼可以再付出了」",
-      "fetched_at": "2026-09-01T10:41:59.419011+00:00"
-    },
-    "a690398948ef37e4": {
-      "title": "如何重建家园？尼泊尔年轻总理面临考验",
-      "fetched_at": "2026-09-01T10:42:00.042900+00:00"
-    },
-    "77117a83f1fd489e": {
-      "title": "數百名水力發電工人受困隧道：尼泊爾地下夢魘",
-      "fetched_at": "2026-09-01T10:42:00.670161+00:00"
-    },
-    "0436a1719835a8f4": {
-      "title": "美国邀请俄罗斯出席G20财长会议，欧洲强烈不满",
-      "fetched_at": "2026-09-01T10:42:01.291007+00:00"
-    },
-    "3e84eabbdda93426": {
-      "title": "上合组织峰会：战争赋予习近平更大影响力",
-      "fetched_at": "2026-09-01T10:42:01.906762+00:00"
-    },
-    "5b50e694fa0ac590": {
-      "title": "Shein尴尬IPO背后，被时代抛弃的快时尚模式",
-      "fetched_at": "2026-09-01T10:42:02.537120+00:00"
-    },
-    "59089bb7e2edad00": {
-      "title": "这辆吉利SUV很棒，但美国消费者“永远”无法买到它",
-      "fetched_at": "2026-09-01T10:42:03.153737+00:00"
-    },
-    "d4c7b5691ea09509": {
-      "title": "Ghostly green lakes merge in Australian outback after 2 years of heavy rain — Earth from space",
-      "fetched_at": "2026-09-01T10:42:05.235148+00:00"
-    },
-    "0365c3c2849a0a26": {
-      "title": "'It's in the realm of possibility': Climate change is spurring a reemergence of yellow fever, and the US could face future threats",
-      "fetched_at": "2026-09-01T10:42:05.848489+00:00"
-    },
     "4c22ca172ba455b5": {
       "title": "Fambot introduces an ‘AI chief of staff’ for families",
       "fetched_at": "2026-09-01T15:42:01.748119+00:00"
@@ -3379,7 +3279,147 @@
     "f7e7ce0cd4b5853e": {
       "title": "Scientists challenge a 70-year-old “lizard brain” myth",
       "fetched_at": "2026-09-09T10:18:51.940336+00:00"
+    },
+    "b72908d1a33e0a18": {
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "fetched_at": "2026-09-09T15:29:24.611487+00:00"
+    },
+    "6d8d9535da5e6b20": {
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "fetched_at": "2026-09-09T15:29:25.233127+00:00"
+    },
+    "17beed0ae56d888a": {
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "fetched_at": "2026-09-09T15:29:25.864734+00:00"
+    },
+    "53cfc1234d17c74d": {
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "fetched_at": "2026-09-09T15:29:26.479254+00:00"
+    },
+    "501e14012bacb428": {
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "fetched_at": "2026-09-09T15:29:27.106791+00:00"
+    },
+    "4e488bb19ee2b5bb": {
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "fetched_at": "2026-09-09T15:29:27.731090+00:00"
+    },
+    "4b4305dd35a32872": {
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "fetched_at": "2026-09-09T15:29:28.358659+00:00"
+    },
+    "3784c134779d8939": {
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "fetched_at": "2026-09-09T15:29:28.981313+00:00"
+    },
+    "0eb1165bd64a5a93": {
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "fetched_at": "2026-09-09T15:29:29.599415+00:00"
+    },
+    "7aa594d0afc2834d": {
+      "title": "Students who use AI generally score worse at school",
+      "fetched_at": "2026-09-09T15:29:30.229082+00:00"
+    },
+    "5d592cc66a9f3154": {
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "fetched_at": "2026-09-09T15:29:30.845257+00:00"
+    },
+    "4951cce5da182fb8": {
+      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
+      "fetched_at": "2026-09-09T15:29:31.462681+00:00"
+    },
+    "eaa195bf649de72e": {
+      "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线",
+      "fetched_at": "2026-09-09T15:29:32.068408+00:00"
+    },
+    "35153a17ef41819d": {
+      "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
+      "fetched_at": "2026-09-09T15:29:32.695645+00:00"
+    },
+    "4790a1ec69305909": {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "fetched_at": "2026-09-09T15:29:33.308967+00:00"
+    },
+    "1798c084009cfcad": {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "fetched_at": "2026-09-09T15:29:33.959332+00:00"
+    },
+    "01985ed3a694a2e4": {
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "fetched_at": "2026-09-09T15:29:34.565416+00:00"
+    },
+    "ad77173b43e95454": {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "fetched_at": "2026-09-09T15:29:35.192382+00:00"
+    },
+    "700798e7148c3d06": {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "fetched_at": "2026-09-09T15:29:35.829136+00:00"
+    },
+    "bdaa238d0529a5ae": {
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "fetched_at": "2026-09-09T15:29:36.455855+00:00"
+    },
+    "5620629eb5d9ce53": {
+      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
+      "fetched_at": "2026-09-09T15:29:38.648747+00:00"
+    },
+    "aa004f1c0a65ceba": {
+      "title": "Enigmatic Denisovans lived by cave in what is now China for 100,000 years, rare fossils and handcrafted tools reveal",
+      "fetched_at": "2026-09-09T15:29:48.044324+00:00"
+    },
+    "d020f0596a052883": {
+      "title": "The moon may have formed in just 5 hours, new simulations suggest",
+      "fetched_at": "2026-09-09T15:29:48.650698+00:00"
+    },
+    "1b48cdf606e61382": {
+      "title": "The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years",
+      "fetched_at": "2026-09-09T15:29:49.285508+00:00"
+    },
+    "45993721e7347047": {
+      "title": "Scientists find a bone-building switch that could fight osteoporosis",
+      "fetched_at": "2026-09-09T15:29:49.920174+00:00"
+    },
+    "d09bfaecf41de0f8": {
+      "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
+      "fetched_at": "2026-09-09T15:29:50.544865+00:00"
+    },
+    "1d18935b5f2080b1": {
+      "title": "Have we found alien life? Hundreds of scientists weigh in",
+      "fetched_at": "2026-09-09T15:29:51.181161+00:00"
+    },
+    "9cb67a76701807f4": {
+      "title": "Interstellar comet 3I/ATLAS is bursting with methanol",
+      "fetched_at": "2026-09-09T15:29:51.797290+00:00"
+    },
+    "baac0237d3efd06a": {
+      "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
+      "fetched_at": "2026-09-09T15:29:52.417547+00:00"
+    },
+    "50d10162200d44bf": {
+      "title": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
+      "fetched_at": "2026-09-09T15:29:53.070141+00:00"
+    },
+    "10efb425cdc24862": {
+      "title": "Chinese scientists find a hidden atomic structure that unlocks methane",
+      "fetched_at": "2026-09-09T15:29:53.693052+00:00"
+    },
+    "17feb7b21ceea2f2": {
+      "title": "Geologists reveal the Americas collided millions of years earlier than thought",
+      "fetched_at": "2026-09-09T15:29:54.311667+00:00"
+    },
+    "2df9ae00d1619424": {
+      "title": "Dark energy debunked? Cosmic acceleration may be an illusion",
+      "fetched_at": "2026-09-09T15:29:54.929879+00:00"
+    },
+    "1ba2e335a82b050c": {
+      "title": "Astronomers detect ancient hydrogen signal that could help map the Universe",
+      "fetched_at": "2026-09-09T15:29:55.631126+00:00"
+    },
+    "5627a2cd6c7c686b": {
+      "title": "Caffeine may flip an ancient cellular switch linked to slower aging",
+      "fetched_at": "2026-09-09T15:29:56.257313+00:00"
     }
   },
-  "last_updated": "2026-09-09T10:18:52.065287+00:00"
+  "last_updated": "2026-09-09T15:29:56.332333+00:00"
 }
