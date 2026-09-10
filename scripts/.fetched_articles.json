@@ -1,49 +1,5 @@
 {
   "articles": {
-    "c443df9fd32872ef": {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "fetched_at": "2026-09-02T15:31:50.240518+00:00"
-    },
-    "4f7210ec770dcdfe": {
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "fetched_at": "2026-09-02T15:31:50.852296+00:00"
-    },
-    "28632dd940a551c6": {
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "fetched_at": "2026-09-02T15:31:51.470476+00:00"
-    },
-    "3a5fc4620c891afc": {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "fetched_at": "2026-09-02T15:31:52.075090+00:00"
-    },
-    "808e9cedc04aedc4": {
-      "title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
-      "fetched_at": "2026-09-02T15:31:52.681155+00:00"
-    },
-    "4b18058635d39fe7": {
-      "title": "重獲自由未有期 回顧黃之鋒的公共生涯",
-      "fetched_at": "2026-09-02T15:31:55.391820+00:00"
-    },
-    "8535cecb0ec3ca83": {
-      "title": "1,600-year-old skeleton found in a giant jar in Bulgaria may belong to Roman who hid there to escape enemy attack",
-      "fetched_at": "2026-09-02T15:31:57.645458+00:00"
-    },
-    "c075db83a69c97a1": {
-      "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
-      "fetched_at": "2026-09-02T15:31:58.307534+00:00"
-    },
-    "1e8c17370f8d879e": {
-      "title": "Money problems may age your brain faster",
-      "fetched_at": "2026-09-02T15:31:58.962994+00:00"
-    },
-    "fc4453c507377930": {
-      "title": "Alzheimer’s may leave a mark on the brain long before plaques appear",
-      "fetched_at": "2026-09-02T15:31:59.608944+00:00"
-    },
-    "b0a7f8f55e576bd5": {
-      "title": "A coffee-table-size scorpion roamed Earth before forests existed",
-      "fetched_at": "2026-09-02T15:32:00.353154+00:00"
-    },
     "f110063e1045d9e1": {
       "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
       "fetched_at": "2026-09-02T20:14:04.626516+00:00"
@@ -3567,7 +3523,51 @@
     "eb912964195ccf89": {
       "title": "Earth may have lost the Sun’s protective shield millions of years ago",
       "fetched_at": "2026-09-10T15:25:29.924171+00:00"
+    },
+    "0a15ec815ee6f198": {
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "fetched_at": "2026-09-10T20:11:19.889321+00:00"
+    },
+    "f5ec8e10ca252b2e": {
+      "title": "Schools are catching on to Big Tech’s playbook",
+      "fetched_at": "2026-09-10T20:11:20.543069+00:00"
+    },
+    "f98ba5382fc0a89c": {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "fetched_at": "2026-09-10T20:11:21.243584+00:00"
+    },
+    "301ae3e8b64c7bc3": {
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "fetched_at": "2026-09-10T20:11:21.850827+00:00"
+    },
+    "8bb2ffd0b82fb2b5": {
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "fetched_at": "2026-09-10T20:11:22.468207+00:00"
+    },
+    "0569eb5e6058793c": {
+      "title": "Meta’s Muse AI works and creeps me out",
+      "fetched_at": "2026-09-10T20:11:23.077507+00:00"
+    },
+    "3e746bda7278d6c8": {
+      "title": "Mathematicians want proof OpenAI didn’t use their work",
+      "fetched_at": "2026-09-10T20:11:23.696343+00:00"
+    },
+    "ae29ac21893a75fa": {
+      "title": "Neolithic Bones From Spain Show Evidence of Cannibalism",
+      "fetched_at": "2026-09-10T20:11:27.414506+00:00"
+    },
+    "9452e241272a004e": {
+      "title": "Medieval Pottery Workshop Uncovered in Tbilisi",
+      "fetched_at": "2026-09-10T20:11:28.031925+00:00"
+    },
+    "98ab7bc3a73bd01b": {
+      "title": "Infectious diseases will seed new ground as the planet warms — here's where they'll spread",
+      "fetched_at": "2026-09-10T20:11:28.735407+00:00"
+    },
+    "4db4de7a2411eb41": {
+      "title": "Burial Platform Excavated at Peru’s Chan Chan",
+      "fetched_at": "2026-09-10T20:11:29.369222+00:00"
     }
   },
-  "last_updated": "2026-09-10T15:25:30.008755+00:00"
+  "last_updated": "2026-09-10T20:11:29.492314+00:00"
 }
