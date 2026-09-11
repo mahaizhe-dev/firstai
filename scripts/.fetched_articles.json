@@ -1,129 +1,5 @@
 {
   "articles": {
-    "f110063e1045d9e1": {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "fetched_at": "2026-09-02T20:14:04.626516+00:00"
-    },
-    "e4c9bc1796c07c85": {
-      "title": "Uber drivers launch European class action over AI algorithm",
-      "fetched_at": "2026-09-02T20:14:05.280823+00:00"
-    },
-    "bdaa3cab74a8cf41": {
-      "title": "AI Agents and the Refactoring That Never Happens",
-      "fetched_at": "2026-09-02T20:14:05.947974+00:00"
-    },
-    "67602061924f3d26": {
-      "title": "Russian Mathematicians Taught AI How to Talk to Each Other Without Using Words",
-      "fetched_at": "2026-09-02T20:14:06.596316+00:00"
-    },
-    "1758b1ee16c58365": {
-      "title": "The Post-AI Internet Doesn't Look Great",
-      "fetched_at": "2026-09-02T20:14:07.249804+00:00"
-    },
-    "ff8d3df49b0550b5": {
-      "title": "Show HN: StealthOS, an iOS privacy sandbox with local AI and Tor",
-      "fetched_at": "2026-09-02T20:14:07.883556+00:00"
-    },
-    "0f615ff984ad427e": {
-      "title": "Explainable deep learning improves human mental models of self-driving cars",
-      "fetched_at": "2026-09-02T20:14:08.541074+00:00"
-    },
-    "d4dad9dc5d98cdba": {
-      "title": "Altman says countries have to use AI: 'I think it is non-negotiable'",
-      "fetched_at": "2026-09-02T20:14:09.199160+00:00"
-    },
-    "6661ff463488ba8f": {
-      "title": "I tried to predict which jobs AI replaces. The useful part is where it's wrong",
-      "fetched_at": "2026-09-02T20:14:09.822625+00:00"
-    },
-    "6c60a122040c76b0": {
-      "title": "Researchers Warn AI Could Be Changing Us in an Unexpected Way",
-      "fetched_at": "2026-09-02T20:14:10.477293+00:00"
-    },
-    "023a664aee41a209": {
-      "title": "Proper Scoring Rules Shape LLM Forecasting",
-      "fetched_at": "2026-09-02T20:14:11.102867+00:00"
-    },
-    "d44c8aa951f27da0": {
-      "title": "How AI Is Ruining the Electric Grid",
-      "fetched_at": "2026-09-02T20:14:11.733575+00:00"
-    },
-    "6d26910f78f86b11": {
-      "title": "Rubber ducking your blog post with an LLM",
-      "fetched_at": "2026-09-02T20:14:12.394318+00:00"
-    },
-    "a9ef06f602094f36": {
-      "title": "Freelancers are getting buried with 'soulless' AI slop cleanup",
-      "fetched_at": "2026-09-02T20:14:13.026243+00:00"
-    },
-    "e361f2c83a3e5e96": {
-      "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
-      "fetched_at": "2026-09-02T20:14:13.683372+00:00"
-    },
-    "eff0dcbd63042184": {
-      "title": "Show HN: Codeknow – Architecture health scores for any codebase, no LLM needed",
-      "fetched_at": "2026-09-02T20:14:14.327988+00:00"
-    },
-    "43246d0beb4ac322": {
-      "title": "What Makes LLM Tokenization Slow?",
-      "fetched_at": "2026-09-02T20:14:14.972304+00:00"
-    },
-    "df5ec85ae75db759": {
-      "title": "The companies powering AI are outperforming those building it",
-      "fetched_at": "2026-09-02T20:14:15.614497+00:00"
-    },
-    "f328401521e49b97": {
-      "title": "No AI until high school:NYC schools announce major classroom technology overhaul",
-      "fetched_at": "2026-09-02T20:14:16.254381+00:00"
-    },
-    "8fbb667d489780c7": {
-      "title": "Meta bricked the cameras on its AI glasses",
-      "fetched_at": "2026-09-02T20:14:16.913622+00:00"
-    },
-    "b5e17c62b978fa09": {
-      "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
-      "fetched_at": "2026-09-02T20:14:20.448790+00:00"
-    },
-    "ddec8c0ce1c03693": {
-      "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
-      "fetched_at": "2026-09-02T20:14:21.089009+00:00"
-    },
-    "2940c7e2ca2ab4bd": {
-      "title": "慈善？演戲？科茨沃爾德？哈利和梅根會怎樣重建英國生活？",
-      "fetched_at": "2026-09-02T20:14:21.740265+00:00"
-    },
-    "dbaa6d06ae5f6703": {
-      "title": "An Ancient Poop Explosion Could Have Helped Complex Life Evolve",
-      "fetched_at": "2026-09-02T20:14:24.291760+00:00"
-    },
-    "e072579b97f8b298": {
-      "title": "Resins on Wallaby Teeth Studied",
-      "fetched_at": "2026-09-02T20:14:24.926919+00:00"
-    },
-    "3e0df250e716259e": {
-      "title": "Later Dwellings Found Near Memphis Temple",
-      "fetched_at": "2026-09-02T20:14:25.565940+00:00"
-    },
-    "fe69fa5a4354713c": {
-      "title": "Vessel Tied to Eastern Cult Identified at Villa in Roman Spain",
-      "fetched_at": "2026-09-02T20:14:26.217409+00:00"
-    },
-    "fc0391e987b18bfe": {
-      "title": "Show HN: StockFly, a portfolio tracker in any currency at historical FX rates",
-      "fetched_at": "2026-09-02T20:14:26.862010+00:00"
-    },
-    "f0184fe5f13918c7": {
-      "title": "Pattern discovery in binaries to understand file layout (FF-16)",
-      "fetched_at": "2026-09-02T20:14:27.512262+00:00"
-    },
-    "1416703ff7ac4cb3": {
-      "title": "Dark Fiber–An Archaeology of the Dot-Com Bubble (2025)",
-      "fetched_at": "2026-09-02T20:14:28.161806+00:00"
-    },
-    "f9f2baf00f93eb0a": {
-      "title": "Rare sunlight trick transforms Pacific island into a giant silver 'magnifying glass' — Earth from space",
-      "fetched_at": "2026-09-02T20:14:28.846466+00:00"
-    },
     "28e010f925324f6d": {
       "title": "Yokohama's New \"Poop Museum\": A Crappy, Kawaii Learning Experience",
       "fetched_at": "2026-09-03T01:55:10.489808+00:00"
@@ -3567,7 +3443,107 @@
     "4db4de7a2411eb41": {
       "title": "Burial Platform Excavated at Peru’s Chan Chan",
       "fetched_at": "2026-09-10T20:11:29.369222+00:00"
+    },
+    "7561e2ef31436d59": {
+      "title": "Try GPT-6 Astra for a few bucks",
+      "fetched_at": "2026-09-11T01:54:23.730800+00:00"
+    },
+    "89a629b4f20ad38f": {
+      "title": "How My Students Think About AI",
+      "fetched_at": "2026-09-11T01:54:24.310093+00:00"
+    },
+    "7713f06103cb8746": {
+      "title": "AI #185: Preference Cascade",
+      "fetched_at": "2026-09-11T01:54:24.912725+00:00"
+    },
+    "19dad2d375c48899": {
+      "title": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
+      "fetched_at": "2026-09-11T01:54:25.495839+00:00"
+    },
+    "4d4594c1a3e5cc6d": {
+      "title": "Show HN: TIL in AI",
+      "fetched_at": "2026-09-11T01:54:26.070288+00:00"
+    },
+    "548ac3b60802812b": {
+      "title": "Show HN: Botbin.io – Pastebin for AI agent artifacts with MCP",
+      "fetched_at": "2026-09-11T01:54:26.652520+00:00"
+    },
+    "0e499e1f8f91a7eb": {
+      "title": "The Kirkversary: An AI Carnival",
+      "fetched_at": "2026-09-11T01:54:27.227242+00:00"
+    },
+    "cd3f5eaf3b0e8ee1": {
+      "title": "New audit combo for AI agents",
+      "fetched_at": "2026-09-11T01:54:27.799471+00:00"
+    },
+    "a774140a69870544": {
+      "title": "Where Learning Becomes the Next Problem",
+      "fetched_at": "2026-09-11T01:54:28.379308+00:00"
+    },
+    "8c8e4fa3f432726a": {
+      "title": "Ask HN: Where is your red line for an AI provider?",
+      "fetched_at": "2026-09-11T01:54:28.962699+00:00"
+    },
+    "f7c033d9a0758618": {
+      "title": "AI Agent Builder gives memory across voice, SMS, email, web chat and social",
+      "fetched_at": "2026-09-11T01:54:29.539384+00:00"
+    },
+    "6edd170b91ef9988": {
+      "title": "A 'swarm' of AI agents hacked Hugging Face, in the AI's own words",
+      "fetched_at": "2026-09-11T01:54:30.122814+00:00"
+    },
+    "139178a2977f0da1": {
+      "title": "Show HN: Socks Proxy for AI Agents",
+      "fetched_at": "2026-09-11T01:54:30.704177+00:00"
+    },
+    "6d7d7c1ca9532c72": {
+      "title": "Generative AI Using Linuxulator and eGPU on FreeBSD",
+      "fetched_at": "2026-09-11T01:54:31.280835+00:00"
+    },
+    "e359f649f1dd4e09": {
+      "title": "A $537 Local LLM Machine (2025)",
+      "fetched_at": "2026-09-11T01:54:31.893361+00:00"
+    },
+    "2746bef1add382ef": {
+      "title": "AI researchers leave Anthropic and Google: 'There are no adults in the room'",
+      "fetched_at": "2026-09-11T01:54:32.576691+00:00"
+    },
+    "9ef3ec45ec90932f": {
+      "title": "Stop externalizing the cost of your AI use to me",
+      "fetched_at": "2026-09-11T01:54:33.156416+00:00"
+    },
+    "440a384a5312db51": {
+      "title": "AI Is Not Going to Kill My Love of Math",
+      "fetched_at": "2026-09-11T01:54:33.749304+00:00"
+    },
+    "596eafa55de2118a": {
+      "title": "Xapien raises $56M Series B for AI background checks and due diligence",
+      "fetched_at": "2026-09-11T01:54:34.321733+00:00"
+    },
+    "f2ce13f6f01888c4": {
+      "title": "派早报：商务部回应美国 AI 蒸馏指控",
+      "fetched_at": "2026-09-11T01:54:34.903389+00:00"
+    },
+    "e3b34e819c3596a0": {
+      "title": "青岛造船厂内外籍货船起火，25人遇难",
+      "fetched_at": "2026-09-11T01:54:36.768241+00:00"
+    },
+    "b097c5e27f6c005f": {
+      "title": "「無時無刻都在想」：911事件25年後審訊仍未了，遇難者家屬傷痛難癒",
+      "fetched_at": "2026-09-11T01:54:37.352597+00:00"
+    },
+    "ac6d860e20517d50": {
+      "title": "INDUS-SDE: A Language Model for Scientific Content Curation and Discovery",
+      "fetched_at": "2026-09-11T01:54:40.809000+00:00"
+    },
+    "5e844014ed671219": {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "fetched_at": "2026-09-11T01:54:41.381872+00:00"
+    },
+    "8535cecb0ec3ca83": {
+      "title": "1,600-year-old skeleton found in a giant jar in Bulgaria may belong to Roman who hid there to escape enemy attack",
+      "fetched_at": "2026-09-11T01:54:41.965833+00:00"
     }
   },
-  "last_updated": "2026-09-10T20:11:29.492314+00:00"
+  "last_updated": "2026-09-11T01:54:42.098301+00:00"
 }
