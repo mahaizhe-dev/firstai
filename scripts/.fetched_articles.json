@@ -1,117 +1,5 @@
 {
   "articles": {
-    "28e010f925324f6d": {
-      "title": "Yokohama's New \"Poop Museum\": A Crappy, Kawaii Learning Experience",
-      "fetched_at": "2026-09-03T01:55:10.489808+00:00"
-    },
-    "c447a3260f07d449": {
-      "title": "MemHub – Persistent shared memory for AI coding agents",
-      "fetched_at": "2026-09-03T01:55:11.107410+00:00"
-    },
-    "e0662d0e0ffc7cfc": {
-      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
-      "fetched_at": "2026-09-03T01:55:11.718650+00:00"
-    },
-    "3c903f5c98458256": {
-      "title": "Show HN: Competitive Language Learning (E-Sport)",
-      "fetched_at": "2026-09-03T01:55:12.341272+00:00"
-    },
-    "6fc70b6ab8c011ae": {
-      "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
-      "fetched_at": "2026-09-03T01:55:12.946707+00:00"
-    },
-    "6530ac32599113c3": {
-      "title": "Show HN: Redactle LLM Leaderboard",
-      "fetched_at": "2026-09-03T01:55:13.538404+00:00"
-    },
-    "d548f674647e5462": {
-      "title": "Workplace surveillance is on the rise, spurred by AI",
-      "fetched_at": "2026-09-03T01:55:14.155412+00:00"
-    },
-    "61a6e1734a6cc220": {
-      "title": "Why Software Developers Are Highly Unrepresentative of Broader AI Use",
-      "fetched_at": "2026-09-03T01:55:14.778416+00:00"
-    },
-    "e3d1af994ec5fed6": {
-      "title": "AI-Memory 2.0 – The Best Memory System for Agents and Teams",
-      "fetched_at": "2026-09-03T01:55:15.389443+00:00"
-    },
-    "6cb3503fc82947f3": {
-      "title": "Ontologies catch untrustworthy LLM claims",
-      "fetched_at": "2026-09-03T01:55:15.978546+00:00"
-    },
-    "59796615ec44feab": {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-03T01:55:16.599703+00:00"
-    },
-    "d2917d0873aaf791": {
-      "title": "Pacman AI for controlling fusion systems makes key decisions in milliseconds",
-      "fetched_at": "2026-09-03T01:55:17.210853+00:00"
-    },
-    "95a09bda0bcc0f54": {
-      "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
-      "fetched_at": "2026-09-03T01:55:17.886102+00:00"
-    },
-    "51c5c62d7849a877": {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "fetched_at": "2026-09-03T01:55:18.501611+00:00"
-    },
-    "bbb65c8614786ea2": {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "fetched_at": "2026-09-03T01:55:19.096097+00:00"
-    },
-    "79eb58d319f3941c": {
-      "title": "US Government worried that AI companies can't innovate without legal theft",
-      "fetched_at": "2026-09-03T01:55:19.704704+00:00"
-    },
-    "b014e12574f64bb5": {
-      "title": "Ask HN: How to get taken seriously while using AI?",
-      "fetched_at": "2026-09-03T01:55:20.326190+00:00"
-    },
-    "8054e7d3c31fdc2d": {
-      "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
-      "fetched_at": "2026-09-03T01:55:20.957038+00:00"
-    },
-    "c3a9c4a01f604d8f": {
-      "title": "Pushdown automata in statistical machine translation (2014)",
-      "fetched_at": "2026-09-03T01:55:21.593551+00:00"
-    },
-    "d39ec0a75779631f": {
-      "title": "NYC Announced Nation's Broadest Generative AI Moratorium in Schools",
-      "fetched_at": "2026-09-03T01:55:22.187871+00:00"
-    },
-    "4ea35ef3bdf3287d": {
-      "title": "尼泊尔洪灾中的“奇迹”绿房子",
-      "fetched_at": "2026-09-03T01:55:24.807070+00:00"
-    },
-    "bc01f489b63d0f85": {
-      "title": "习近平访问埃及，挑战美国在中东影响力",
-      "fetched_at": "2026-09-03T01:55:25.408743+00:00"
-    },
-    "eab2823f73598d00": {
-      "title": "莫迪敦促普京結束烏克蘭戰爭，他能勸得動嗎？",
-      "fetched_at": "2026-09-03T01:55:26.004539+00:00"
-    },
-    "6d8c627764ef70c0": {
-      "title": "《肖申克的救贖》中國公映：官方字幕把「queer」譯成「變態」，為何引發爭議？",
-      "fetched_at": "2026-09-03T01:55:26.618130+00:00"
-    },
-    "e630cebd51c41487": {
-      "title": "「我從未去過的祖國」：600萬人遭遣返阿富汗，在塔利班治下重新開始",
-      "fetched_at": "2026-09-03T01:55:27.222307+00:00"
-    },
-    "f2478cee8211b04b": {
-      "title": "Lacuna, cryptic protein pocket discovery that runs on a laptop CPU",
-      "fetched_at": "2026-09-03T01:56:06.133102+00:00"
-    },
-    "9efc5cd1a5dc8ec7": {
-      "title": "Ritual solstice structure 1,000 years older than Stonehenge unearthed in Czech Republic",
-      "fetched_at": "2026-09-03T01:56:06.732870+00:00"
-    },
-    "8a14a4b88c482016": {
-      "title": "Front face of a stela: A 1,300-year-old carving of a powerful Maya 'Lady Supreme Warlord' that weighs over 1 ton",
-      "fetched_at": "2026-09-03T01:56:07.325729+00:00"
-    },
     "425769395bea0ce6": {
       "title": "LTO Tape Shipments Up 57% in Q1 2026 as AI and Archive Demand Accelerate",
       "fetched_at": "2026-09-03T10:18:25.979092+00:00"
@@ -3543,7 +3431,147 @@
     "8535cecb0ec3ca83": {
       "title": "1,600-year-old skeleton found in a giant jar in Bulgaria may belong to Roman who hid there to escape enemy attack",
       "fetched_at": "2026-09-11T01:54:41.965833+00:00"
+    },
+    "cb62064c08eaa6f2": {
+      "title": "Yemeni militants used Anthropic AI to try to build ballistic missiles",
+      "fetched_at": "2026-09-11T10:09:04.888228+00:00"
+    },
+    "0b9d673e5a9e4148": {
+      "title": "Ask HN: Remove Filler LLM Comments",
+      "fetched_at": "2026-09-11T10:09:05.476092+00:00"
+    },
+    "7c83281ae610a975": {
+      "title": "AI boom helps drive surprise UK growth in July",
+      "fetched_at": "2026-09-11T10:09:06.056274+00:00"
+    },
+    "64a9c5e602146541": {
+      "title": "(Re)Building an AI-Ready Data Universe at BlaBlaCar",
+      "fetched_at": "2026-09-11T10:09:06.649923+00:00"
+    },
+    "85cc8c2823a9f8ec": {
+      "title": "Learning without a brain – how bacteria store memories and remember like ANNs",
+      "fetched_at": "2026-09-11T10:09:07.230791+00:00"
+    },
+    "b8534ffdc869f157": {
+      "title": "Redis built a cache that cuts LLM costs",
+      "fetched_at": "2026-09-11T10:09:07.821161+00:00"
+    },
+    "fa542717b5243b1e": {
+      "title": "LLM 0.35",
+      "fetched_at": "2026-09-11T10:09:08.421480+00:00"
+    },
+    "d2124c336c31f4fd": {
+      "title": "How big is the open-model threat to AI hyperscalers?",
+      "fetched_at": "2026-09-11T10:09:09.010475+00:00"
+    },
+    "9d9b5576aace0250": {
+      "title": "Anthropic says it stopped scientists potentially developing bioweapons with AI",
+      "fetched_at": "2026-09-11T10:09:09.587474+00:00"
+    },
+    "c3b8a9b947562a62": {
+      "title": "Latham and Watkins buys Nvidia servers to set up in-house AI systems",
+      "fetched_at": "2026-09-11T10:09:10.166069+00:00"
+    },
+    "a6f1a8453df6f95c": {
+      "title": "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
+      "fetched_at": "2026-09-11T10:09:10.770259+00:00"
+    },
+    "cb98522add5967e0": {
+      "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+      "fetched_at": "2026-09-11T10:09:11.358426+00:00"
+    },
+    "d63c4eb366ed290b": {
+      "title": "Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance",
+      "fetched_at": "2026-09-11T10:09:11.939677+00:00"
+    },
+    "88b278b5aed1f297": {
+      "title": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
+      "fetched_at": "2026-09-11T10:09:12.540914+00:00"
+    },
+    "aa52cafb1c7d0149": {
+      "title": "Act as a Conversational AI Prompt",
+      "fetched_at": "2026-09-11T10:09:13.122186+00:00"
+    },
+    "366852262e3d6ae5": {
+      "title": "Duck.ai is a feature that allows you to have private conversations",
+      "fetched_at": "2026-09-11T10:09:13.721607+00:00"
+    },
+    "c0ae4ac7811469b8": {
+      "title": "Extending Raschka's GPT-2: an MoE trained from scratch on an RTX 3090",
+      "fetched_at": "2026-09-11T10:09:14.308136+00:00"
+    },
+    "a882e29b3ed03482": {
+      "title": "How Emmanuel Macron brought France's AI darling to the world stage",
+      "fetched_at": "2026-09-11T10:09:14.899400+00:00"
+    },
+    "0c597ad0ea005c75": {
+      "title": "Ask HN: Is using AI harmful to human Critical Thinking and Decision making?",
+      "fetched_at": "2026-09-11T10:09:15.510854+00:00"
+    },
+    "fe7368ea855f2773": {
+      "title": "U4RIA: An emotional wellness app using dynamic audio and AI personalization",
+      "fetched_at": "2026-09-11T10:09:16.101748+00:00"
+    },
+    "31d9d31bf8400950": {
+      "title": "習近平七年來首次訪印前瞻：中印回暖背後的美國陰影與西藏問題",
+      "fetched_at": "2026-09-11T10:09:18.325390+00:00"
+    },
+    "5bbe8cea1791f04b": {
+      "title": "特朗普真的能向每位美國成年人發放5000美元嗎？",
+      "fetched_at": "2026-09-11T10:09:18.897948+00:00"
+    },
+    "b277f9fc9c3cb079": {
+      "title": "香港支聯會「煽動顛覆」案：被告們的伴侶與戰友",
+      "fetched_at": "2026-09-11T10:09:19.486285+00:00"
+    },
+    "53c26788a162af97": {
+      "title": "911事件25年後 美國機場安檢醞釀「鬆綁」：無票可到登機口送行、滿瓶水可過安檢",
+      "fetched_at": "2026-09-11T10:09:20.064889+00:00"
+    },
+    "5b088e37fa630192": {
+      "title": "香港支聯會「煽動顛覆」案：李卓人、鄒幸彤、何俊仁判囚5至7年",
+      "fetched_at": "2026-09-11T10:09:20.651866+00:00"
+    },
+    "d7f83d41bca1a27f": {
+      "title": "為甚麼我們會記錯911事件？",
+      "fetched_at": "2026-09-11T10:09:21.255176+00:00"
+    },
+    "7c60422e71d733da": {
+      "title": "間諜、戰略與錯失的機會：911的教訓至今仍在消化",
+      "fetched_at": "2026-09-11T10:09:21.844509+00:00"
+    },
+    "c8069d46701b9e45": {
+      "title": "美国在阿富汗的“永久战争”：25年影像全记录",
+      "fetched_at": "2026-09-11T10:09:22.461691+00:00"
+    },
+    "f1bd2eda134c18ea": {
+      "title": "人工智能末日论：人类为何会如此担忧？",
+      "fetched_at": "2026-09-11T10:09:23.049238+00:00"
+    },
+    "03bc2f2c93fdd0a5": {
+      "title": "利用AI开发生物武器？Anthropic称阻止多起相关企图",
+      "fetched_at": "2026-09-11T10:09:23.647731+00:00"
+    },
+    "266443afa23c4261": {
+      "title": "香港天安门事件守夜活动组织者被判入狱",
+      "fetched_at": "2026-09-11T10:09:24.263743+00:00"
+    },
+    "a2e1bbd116a461ae": {
+      "title": "9·11事件真的改变了一切吗？",
+      "fetched_at": "2026-09-11T10:09:24.844303+00:00"
+    },
+    "fa57cbed8536e16b": {
+      "title": "副总统万斯向军方官员寻求伊朗战争真实评估",
+      "fetched_at": "2026-09-11T10:09:25.434388+00:00"
+    },
+    "9bd90f1e6325c11a": {
+      "title": "Finland's largest Viking Age silver hoard discovered by metal detectorist — and it has thousands of coins and pieces of jewelry",
+      "fetched_at": "2026-09-11T10:09:27.666019+00:00"
+    },
+    "5fdfa9dd204bf477": {
+      "title": "'Every time it gets excited — boom — it collapses': How dogs with narcolepsy helped scientists understand the disorder",
+      "fetched_at": "2026-09-11T10:09:28.248682+00:00"
     }
   },
-  "last_updated": "2026-09-11T01:54:42.098301+00:00"
+  "last_updated": "2026-09-11T10:09:28.323256+00:00"
 }
