@@ -1,0 +1,10 @@
+---
+title: 'Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek'
+description: 'A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.'
+pubDate: 2026-09-10T20:57:30
+source: 'TechCrunch AI'
+sourceUrl: 'https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/'
+tags: []
+---
+
+A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.
