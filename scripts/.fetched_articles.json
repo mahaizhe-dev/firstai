@@ -1,245 +1,5 @@
 {
   "articles": {
-    "f83de5310c381b56": {
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "fetched_at": "2026-09-03T20:15:09.979692+00:00"
-    },
-    "e42ef6ac84ea0eb0": {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "fetched_at": "2026-09-03T20:15:10.644508+00:00"
-    },
-    "939e3b6e010ee506": {
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "fetched_at": "2026-09-03T20:15:11.308162+00:00"
-    },
-    "1e03cdcd04c198a9": {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "fetched_at": "2026-09-03T20:15:11.956864+00:00"
-    },
-    "bca969dff6b52abf": {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "fetched_at": "2026-09-03T20:15:12.612604+00:00"
-    },
-    "11b92bc770f5f129": {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "fetched_at": "2026-09-03T20:15:13.273389+00:00"
-    },
-    "abf9f41cb6563522": {
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "fetched_at": "2026-09-03T20:15:13.933690+00:00"
-    },
-    "2d12df89e6802d4b": {
-      "title": "Google now lets you chat with Gmail, Docs, and Keep",
-      "fetched_at": "2026-09-03T20:15:14.596148+00:00"
-    },
-    "719a0f27921e65fb": {
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "fetched_at": "2026-09-03T20:15:15.257555+00:00"
-    },
-    "57bd56201d5e419f": {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "fetched_at": "2026-09-03T20:15:15.917386+00:00"
-    },
-    "0c0e57d5b8a5a6bb": {
-      "title": "Nvidia is buying Hugging Face for almost $13 billion",
-      "fetched_at": "2026-09-03T20:15:16.569906+00:00"
-    },
-    "59f8d4a8adb3410c": {
-      "title": "新玩意 251｜少数派的编辑们最近买了啥？",
-      "fetched_at": "2026-09-03T20:15:17.222973+00:00"
-    },
-    "46de51a0c6708eea": {
-      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
-      "fetched_at": "2026-09-03T20:15:17.890052+00:00"
-    },
-    "0dfdce4fc371dd56": {
-      "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
-      "fetched_at": "2026-09-03T20:15:18.551089+00:00"
-    },
-    "8ccbd92ad038f6d3": {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "fetched_at": "2026-09-03T20:15:19.206391+00:00"
-    },
-    "40e8e6470f6221ad": {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "fetched_at": "2026-09-03T20:15:19.869982+00:00"
-    },
-    "9351d394012c7446": {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "fetched_at": "2026-09-03T20:15:20.562320+00:00"
-    },
-    "d330405f686c995b": {
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "fetched_at": "2026-09-03T20:15:21.207207+00:00"
-    },
-    "f413c2c9525bdb29": {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "fetched_at": "2026-09-03T20:15:21.847481+00:00"
-    },
-    "95fd71fa663738be": {
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "fetched_at": "2026-09-03T20:15:22.512165+00:00"
-    },
-    "487310f69bbbc4ba": {
-      "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
-      "fetched_at": "2026-09-03T20:15:26.223846+00:00"
-    },
-    "5ef18b931156d857": {
-      "title": "LED Light System Could Help Archaeologists Evaluate Sites Before Excavation",
-      "fetched_at": "2026-09-03T20:15:28.811662+00:00"
-    },
-    "8578189f4e10565d": {
-      "title": "Bones Reveal Effects of Child Labor in the Netherlands",
-      "fetched_at": "2026-09-03T20:15:29.472775+00:00"
-    },
-    "3e129533f9d29378": {
-      "title": "Massive Rock Art Imagery Recorded in Northern Australia",
-      "fetched_at": "2026-09-03T20:15:30.137932+00:00"
-    },
-    "152dabd4e78c3ae1": {
-      "title": "'The apple you eat isn't the apple your granddaughter will eat': What's on the menu in a warming world?",
-      "fetched_at": "2026-09-03T20:15:30.787465+00:00"
-    },
-    "fa325daf9b55b7ba": {
-      "title": "Diagnostic dilemma: A man tried to self-treat his incontinence by gluing his urethra shut",
-      "fetched_at": "2026-09-03T20:15:31.430531+00:00"
-    },
-    "bd86e2b9d03a84e5": {
-      "title": "Trump's childhood vaccine order will threaten children's safety, even if it doesn't directly change policy",
-      "fetched_at": "2026-09-03T20:15:32.089779+00:00"
-    },
-    "8720001681d2b394": {
-      "title": "Ask HN: How do you break AI agents out of the \"apologize and repeat\" loop",
-      "fetched_at": "2026-09-04T01:49:42.107289+00:00"
-    },
-    "4055c0853b020dce": {
-      "title": "Crew – A multiplayer AI workspace for humans and agents, now with iOS apps",
-      "fetched_at": "2026-09-04T01:49:42.772127+00:00"
-    },
-    "9c08bdc04692d0bf": {
-      "title": "GPT‑6 Astra",
-      "fetched_at": "2026-09-04T01:49:43.395279+00:00"
-    },
-    "aae6d4b5f1096e2e": {
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "fetched_at": "2026-09-04T01:49:44.018949+00:00"
-    },
-    "756b6c9869ba58ce": {
-      "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
-      "fetched_at": "2026-09-04T01:49:44.644813+00:00"
-    },
-    "e53af826247476d5": {
-      "title": "Ask HN: Code review of AI output, review what?",
-      "fetched_at": "2026-09-04T01:49:45.272307+00:00"
-    },
-    "4cad9e2b343aca6c": {
-      "title": "Jensen Huang Became AI'S Taylor Swift",
-      "fetched_at": "2026-09-04T01:49:45.903336+00:00"
-    },
-    "5d7c0865d3c56e26": {
-      "title": "NVIDIA is driving the AI boom. Good",
-      "fetched_at": "2026-09-04T01:49:46.536476+00:00"
-    },
-    "30441cc475d9b7b5": {
-      "title": "Botpool Create – Build websites and apps by chatting with AI",
-      "fetched_at": "2026-09-04T01:49:47.158846+00:00"
-    },
-    "d98adbde87f17219": {
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "fetched_at": "2026-09-04T01:49:47.778883+00:00"
-    },
-    "9cd58bb3ea6f6f21": {
-      "title": "Nvidia Personal AI Router (Pair)",
-      "fetched_at": "2026-09-04T01:49:48.408380+00:00"
-    },
-    "91d496b7a69aa425": {
-      "title": "The Multiplayer AI Manifesto",
-      "fetched_at": "2026-09-04T01:49:49.053745+00:00"
-    },
-    "8b4849b24be6ddef": {
-      "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
-      "fetched_at": "2026-09-04T01:49:49.675067+00:00"
-    },
-    "2f5bec8a8bcd2c26": {
-      "title": "Protecting Engineers' Skills in the AI Era",
-      "fetched_at": "2026-09-04T01:49:50.297280+00:00"
-    },
-    "c0ed79438d8c378c": {
-      "title": "I found an AI-driven browser that builds workflows from playbooks",
-      "fetched_at": "2026-09-04T01:49:50.915678+00:00"
-    },
-    "97fbe68afdf9ed38": {
-      "title": "Scaling AI: The Communication Wall",
-      "fetched_at": "2026-09-04T01:49:51.544361+00:00"
-    },
-    "a3a8a526ef5c2c79": {
-      "title": "How workers feel about AI in 2026",
-      "fetched_at": "2026-09-04T01:49:52.161677+00:00"
-    },
-    "97eb9c01eb9050a5": {
-      "title": "Google DeepMind Just Rolled Out Its Most Accurate AI Global Weather Model",
-      "fetched_at": "2026-09-04T01:49:52.798619+00:00"
-    },
-    "48dd8dbab340fc9b": {
-      "title": "GPT 6 is way behind Anthropic on Artificial Analysis",
-      "fetched_at": "2026-09-04T01:49:53.411036+00:00"
-    },
-    "7e560dcccc346cde": {
-      "title": "The Selfish AI Model",
-      "fetched_at": "2026-09-04T01:49:54.033538+00:00"
-    },
-    "98d43b9460115224": {
-      "title": "親俄宣傳網絡內幕：利用烏克蘭女性遭強姦的虛假消息，作引流「誘餌」",
-      "fetched_at": "2026-09-04T01:49:56.785937+00:00"
-    },
-    "139c2c3b592b5f9b": {
-      "title": "史上最彻底重组：大众汽车计划额外裁员5万人",
-      "fetched_at": "2026-09-04T01:49:57.422106+00:00"
-    },
-    "b1c2854ad723420a": {
-      "title": "“台湾馆”引发政治风波：中国抵制韩国光州双年展",
-      "fetched_at": "2026-09-04T01:49:58.046766+00:00"
-    },
-    "7cdc893bc46738cb": {
-      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
-      "fetched_at": "2026-09-04T01:49:58.682934+00:00"
-    },
-    "65b8692f48b9c267": {
-      "title": "Psilocybin may protect against a common, debilitating side effect of chemotherapy, early study finds",
-      "fetched_at": "2026-09-04T01:50:08.371696+00:00"
-    },
-    "1b8c47ab0ca871cf": {
-      "title": "Hubble spots a mysterious 10-sided 'decagon' growing around Saturn's south pole",
-      "fetched_at": "2026-09-04T01:50:09.014665+00:00"
-    },
-    "b52eb3ff1ebe59fc": {
-      "title": "Ancient sheep virus found hiding in medieval parchment",
-      "fetched_at": "2026-09-04T01:50:09.657163+00:00"
-    },
-    "9f8065f8c1635c99": {
-      "title": "Lavish private bath used by Roman emperor and 'high-status residents' discovered at imperial palace in Serbia",
-      "fetched_at": "2026-09-04T01:50:10.280514+00:00"
-    },
-    "d556808a752be52d": {
-      "title": "'There is no conflict between quantum physics and gravity': Physicists prove Einstein's 'happiest thought' holds true at quantum scales",
-      "fetched_at": "2026-09-04T01:50:10.905172+00:00"
-    },
-    "0cd050cb6f9923f1": {
-      "title": "What archaeology reveals about the rise of autocracy",
-      "fetched_at": "2026-09-04T01:50:11.533484+00:00"
-    },
-    "55c19fdf09b9ffd0": {
-      "title": "How worried are you about the health impacts of extreme heat?",
-      "fetched_at": "2026-09-04T01:50:12.160310+00:00"
-    },
-    "1a1de6cfd7d443ec": {
-      "title": "'Unlike anything seen before': Archaeologists unearth a unique, 11,000-year-old statue of a person riding a leopard from one of the world's earliest settlements",
-      "fetched_at": "2026-09-04T01:50:12.785983+00:00"
-    },
-    "efd1f50bd35f1158": {
-      "title": "I took a big risk for the Aug. 12 total solar eclipse —‬ and the reward was glorious",
-      "fetched_at": "2026-09-04T01:50:13.414417+00:00"
-    },
     "2cd7ebf5018df6b6": {
       "title": "This NAS company wants to run your local smart home",
       "fetched_at": "2026-09-04T10:06:19.505220+00:00"
@@ -3587,7 +3347,99 @@
     "a6d67fa100aae6fa": {
       "title": "September brings a dazzling Venus and a glowing Harvest Moon",
       "fetched_at": "2026-09-11T20:11:09.987700+00:00"
+    },
+    "75733655723c2907": {
+      "title": "\"What Is an 'AI Warning Shot'?\" (2024)",
+      "fetched_at": "2026-09-12T01:59:19.766875+00:00"
+    },
+    "7453be5ea834f7f6": {
+      "title": "Reduced AI cheating on a long task from 72% to 0 with 190 token agreement prompt",
+      "fetched_at": "2026-09-12T01:59:20.388928+00:00"
+    },
+    "8cabb3b3e374913d": {
+      "title": "Mathematicians Confront the AI Apocalypse",
+      "fetched_at": "2026-09-12T01:59:21.016518+00:00"
+    },
+    "0820d09bb99de3f3": {
+      "title": "Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)",
+      "fetched_at": "2026-09-12T01:59:21.634185+00:00"
+    },
+    "199bb4cf5e7784d2": {
+      "title": "Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around",
+      "fetched_at": "2026-09-12T01:59:22.281483+00:00"
+    },
+    "4f85ee3c7cd42e82": {
+      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+      "fetched_at": "2026-09-12T01:59:22.917130+00:00"
+    },
+    "6c085c1686e6214b": {
+      "title": "Learning Alzheimer signatures by bridging EEG with spiking neural networks",
+      "fetched_at": "2026-09-12T01:59:23.539976+00:00"
+    },
+    "6737946dad8a892e": {
+      "title": "One Thought Consumes Me Often, So I Made an AI App to Make It Real",
+      "fetched_at": "2026-09-12T01:59:24.155517+00:00"
+    },
+    "de95e4960c18eb16": {
+      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+      "fetched_at": "2026-09-12T01:59:24.782701+00:00"
+    },
+    "0338b06c7444b9df": {
+      "title": "Exposing a global AI slop empire ruining the internet for profit – CBC [video]",
+      "fetched_at": "2026-09-12T01:59:25.419157+00:00"
+    },
+    "2a2769d876f8ed4c": {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "fetched_at": "2026-09-12T01:59:26.051929+00:00"
+    },
+    "89d22a8015cbb17b": {
+      "title": "Altimeter's Gerstner blasts researchers voicing AI extinction warnings",
+      "fetched_at": "2026-09-12T01:59:26.671804+00:00"
+    },
+    "495df85d61a99ff4": {
+      "title": "Houthis used Anthropic AI to build ballistic missiles",
+      "fetched_at": "2026-09-12T01:59:27.294476+00:00"
+    },
+    "fdb5fbd0f1824485": {
+      "title": "Bernie Sanders AI Bill Threatens Developers with 20-Year Jail Terms",
+      "fetched_at": "2026-09-12T01:59:27.936756+00:00"
+    },
+    "f8be828accea6510": {
+      "title": "UN calls for global fund to address AI capacity gaps in developing nations",
+      "fetched_at": "2026-09-12T01:59:28.586123+00:00"
+    },
+    "9a08bdcefb4a4c70": {
+      "title": "Adversaries Using Claude AI to Target Americans and Develop Missiles",
+      "fetched_at": "2026-09-12T01:59:29.206617+00:00"
+    },
+    "5c73227549c78d50": {
+      "title": "They do think AI might kill everyone",
+      "fetched_at": "2026-09-12T01:59:29.827540+00:00"
+    },
+    "2bcb13cca5093513": {
+      "title": "How AI Is Changing Audio Restoration in 2026",
+      "fetched_at": "2026-09-12T01:59:30.468071+00:00"
+    },
+    "795ea673b1504296": {
+      "title": "Show HN: Spanda – Sub-microsecond LLM epistemic uncertainty in Rust",
+      "fetched_at": "2026-09-12T01:59:31.110275+00:00"
+    },
+    "fc73061d08473a4f": {
+      "title": "FreelanceFend – AI web app and extension to screen freelance clients",
+      "fetched_at": "2026-09-12T01:59:31.750517+00:00"
+    },
+    "fdf750da15394538": {
+      "title": "The secret to longer life may be hidden in bat DNA",
+      "fetched_at": "2026-09-12T01:59:37.135946+00:00"
+    },
+    "d2f3f048815b91b5": {
+      "title": "Study Tests “Natural Kiln Hypothesis”",
+      "fetched_at": "2026-09-12T01:59:37.771230+00:00"
+    },
+    "a32ed77b6a9ea4da": {
+      "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
+      "fetched_at": "2026-09-12T01:59:38.412577+00:00"
     }
   },
-  "last_updated": "2026-09-11T20:11:10.119058+00:00"
+  "last_updated": "2026-09-12T01:59:38.507434+00:00"
 }
