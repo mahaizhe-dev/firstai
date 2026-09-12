@@ -1,77 +1,5 @@
 {
   "articles": {
-    "2cd7ebf5018df6b6": {
-      "title": "This NAS company wants to run your local smart home",
-      "fetched_at": "2026-09-04T10:06:19.505220+00:00"
-    },
-    "e394956c505bf51e": {
-      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
-      "fetched_at": "2026-09-04T10:06:20.124532+00:00"
-    },
-    "27aefb322a383566": {
-      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
-      "fetched_at": "2026-09-04T10:06:20.732901+00:00"
-    },
-    "06a8a883f7d71fa4": {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "fetched_at": "2026-09-04T10:06:21.348591+00:00"
-    },
-    "51120688f1ec6b79": {
-      "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
-      "fetched_at": "2026-09-04T10:06:21.972407+00:00"
-    },
-    "f4770040def15cd8": {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "fetched_at": "2026-09-04T10:06:22.596498+00:00"
-    },
-    "a33383ece33d8efb": {
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "fetched_at": "2026-09-04T10:06:23.200221+00:00"
-    },
-    "bfa5222f020e12ac": {
-      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-      "fetched_at": "2026-09-04T10:06:23.824252+00:00"
-    },
-    "1f868c3745dfef31": {
-      "title": "加拿大新鈔首印查爾斯國王肖像，為英國以外首例",
-      "fetched_at": "2026-09-04T10:06:26.348472+00:00"
-    },
-    "3b45afd4f3d2e726": {
-      "title": "福克蘭群島爭議升溫：阿根廷宣佈制裁附近油企，特朗普暗示未必協助英國",
-      "fetched_at": "2026-09-04T10:06:26.988950+00:00"
-    },
-    "5573d0b43df379a7": {
-      "title": "行走在紐約：我發現監控攝像頭數量遠超想像",
-      "fetched_at": "2026-09-04T10:06:27.622134+00:00"
-    },
-    "6f2ce4fd3753fcd3": {
-      "title": "豬腎在人體內運作271天——這會是器官移植的未來嗎？",
-      "fetched_at": "2026-09-04T10:06:28.254922+00:00"
-    },
-    "27fd6b9057705a24": {
-      "title": "「我面試完就被捲走了積蓄」——Z世代求職者成為詐騙目標",
-      "fetched_at": "2026-09-04T10:06:28.880643+00:00"
-    },
-    "b5648b3760435906": {
-      "title": "如果这个世界上多一些马友友",
-      "fetched_at": "2026-09-04T10:06:29.511694+00:00"
-    },
-    "9905b801f2e4f144": {
-      "title": "肾病患者靠移植猪肾生活九个月，直到接受人类肾脏移植",
-      "fetched_at": "2026-09-04T10:06:30.135679+00:00"
-    },
-    "6bcc42d3bfe1459b": {
-      "title": "人工智能全面接管？为什么你应该更担心AI有多危险",
-      "fetched_at": "2026-09-04T10:06:30.756521+00:00"
-    },
-    "a0fac57f48cb2cf8": {
-      "title": "執迷於「睡眠分數」如何反讓你睡得更差？",
-      "fetched_at": "2026-09-04T10:06:31.376088+00:00"
-    },
-    "0d563ca4d61dd6a7": {
-      "title": "美国女权运动标志性人物斯泰纳姆去世，享年92岁",
-      "fetched_at": "2026-09-04T10:06:32.072025+00:00"
-    },
     "e716536c8f1956d3": {
       "title": "Google’s Gemini Spark can now manage your Google Photos library",
       "fetched_at": "2026-09-04T15:21:14.214501+00:00"
@@ -3531,7 +3459,111 @@
     "65b8692f48b9c267": {
       "title": "Psilocybin may protect against a common, debilitating side effect of chemotherapy, early study finds",
       "fetched_at": "2026-09-12T09:44:39.780673+00:00"
+    },
+    "0edd218d3f4db59e": {
+      "title": "GPT-6's \"Stealth Thinking\" [video]",
+      "fetched_at": "2026-09-12T14:34:33.011056+00:00"
+    },
+    "a979472e447f1f2b": {
+      "title": "A Misalignment of AI in Mathematics: Kevin Buzzard Responds",
+      "fetched_at": "2026-09-12T14:34:33.640222+00:00"
+    },
+    "5fd2a38759598cb7": {
+      "title": "EU tech chief backs global AI rules in wake of extinction warning",
+      "fetched_at": "2026-09-12T14:34:34.266990+00:00"
+    },
+    "920f69d0f723dd25": {
+      "title": "Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?",
+      "fetched_at": "2026-09-12T14:34:34.885301+00:00"
+    },
+    "7b45a157e4421d8a": {
+      "title": "LLMs are real, AI is fake",
+      "fetched_at": "2026-09-12T14:34:35.522870+00:00"
+    },
+    "a1b8e2657036b89d": {
+      "title": "Don't build tools for AI agents",
+      "fetched_at": "2026-09-12T14:34:36.143326+00:00"
+    },
+    "28d321c5fc7354d8": {
+      "title": "Political AI Field Guide: Factions and Beliefs",
+      "fetched_at": "2026-09-12T14:34:36.775193+00:00"
+    },
+    "04ae3017319bbc8b": {
+      "title": "Language Preservation Efforts Get an AI Boost",
+      "fetched_at": "2026-09-12T14:34:37.425700+00:00"
+    },
+    "03a4166ffe0de884": {
+      "title": "NüshuRescue: Reviving the Endangered Nüshu Language with AI",
+      "fetched_at": "2026-09-12T14:34:38.064130+00:00"
+    },
+    "c43b62ec7507462b": {
+      "title": "368 of the top 2,771 sites block at least one AI search crawler",
+      "fetched_at": "2026-09-12T14:34:38.687341+00:00"
+    },
+    "57c8ad865b20c672": {
+      "title": "\"The CUDA Moat is Gone\" – TechTechPotato with AI& founder David Bennet [video]",
+      "fetched_at": "2026-09-12T14:34:39.349802+00:00"
+    },
+    "4556eabd17aef3a7": {
+      "title": "Journal Editors: How are you evaluating AI assisted papers?",
+      "fetched_at": "2026-09-12T14:34:39.977859+00:00"
+    },
+    "fdd7e752e24846c9": {
+      "title": "AI changing the calculus for Canadian students interested in comp sci",
+      "fetched_at": "2026-09-12T14:34:40.594312+00:00"
+    },
+    "092f3f56831f0061": {
+      "title": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
+      "fetched_at": "2026-09-12T14:34:41.286358+00:00"
+    },
+    "3f137df37bde1d37": {
+      "title": "Show HN: I wrote a book on using AI in game design production (free on GitHub)",
+      "fetched_at": "2026-09-12T14:34:41.934436+00:00"
+    },
+    "25e378ee3267ee6d": {
+      "title": "Altman tells staff OpenAI is open to slowing AI development",
+      "fetched_at": "2026-09-12T14:34:42.582162+00:00"
+    },
+    "5d26653d1aab1416": {
+      "title": "The Houthi's weapon programme and AI",
+      "fetched_at": "2026-09-12T14:34:43.211636+00:00"
+    },
+    "6cb60ed3794eb3cf": {
+      "title": "Andrew Ng: AI Engineering Skills Map: Shaping the Build",
+      "fetched_at": "2026-09-12T14:34:43.841947+00:00"
+    },
+    "9543b26ee01b7827": {
+      "title": "OpenAI just wants to win",
+      "fetched_at": "2026-09-12T14:34:44.468837+00:00"
+    },
+    "93a6554b6b5c8365": {
+      "title": "Aristotle and AI",
+      "fetched_at": "2026-09-12T14:34:45.103401+00:00"
+    },
+    "9b36b6dee5104ac0": {
+      "title": "Scientists got diamond's melting point wrong by more than 1,000 degrees, crushing new laser experiment reveals",
+      "fetched_at": "2026-09-12T14:34:50.501074+00:00"
+    },
+    "d9597850992cf052": {
+      "title": "AI trained to 'think' like human pathologists may be better at spotting cancer",
+      "fetched_at": "2026-09-12T14:34:51.125477+00:00"
+    },
+    "e64a25b33456c5ab": {
+      "title": "Celestron StarSense Explorer DX 130AZ review",
+      "fetched_at": "2026-09-12T14:34:51.753404+00:00"
+    },
+    "f0b9ddbccc293783": {
+      "title": "Scientists find Ozempic may slow aging itself",
+      "fetched_at": "2026-09-12T14:34:52.379925+00:00"
+    },
+    "aaf24c37dc14b975": {
+      "title": "Researchers find a Wordle strategy that wins 99% of the time",
+      "fetched_at": "2026-09-12T14:34:53.018980+00:00"
+    },
+    "1e1fcc6969ca4a84": {
+      "title": "Mercury’s surface reveals a surprisingly fiery past",
+      "fetched_at": "2026-09-12T14:34:53.654773+00:00"
     }
   },
-  "last_updated": "2026-09-12T09:44:39.906369+00:00"
+  "last_updated": "2026-09-12T14:34:53.753968+00:00"
 }
