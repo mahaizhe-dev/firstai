@@ -1,105 +1,5 @@
 {
   "articles": {
-    "e716536c8f1956d3": {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "fetched_at": "2026-09-04T15:21:14.214501+00:00"
-    },
-    "e697824275de9da4": {
-      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "fetched_at": "2026-09-04T15:21:14.781646+00:00"
-    },
-    "9f22e3c73cce3d6f": {
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "fetched_at": "2026-09-04T15:21:15.344246+00:00"
-    },
-    "b7d52c517aeb2084": {
-      "title": "Instagram’s AI detection is a mess (again)",
-      "fetched_at": "2026-09-04T15:21:15.903492+00:00"
-    },
-    "b2e9f82697fdfc38": {
-      "title": "Why AI food looks like that",
-      "fetched_at": "2026-09-04T15:21:16.485939+00:00"
-    },
-    "b603e055efb7b939": {
-      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-      "fetched_at": "2026-09-04T15:21:17.058073+00:00"
-    },
-    "29886b0af0c4a9b0": {
-      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-      "fetched_at": "2026-09-04T15:21:17.629067+00:00"
-    },
-    "db9074e17b93eaed": {
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "fetched_at": "2026-09-04T15:21:18.201295+00:00"
-    },
-    "a63e7d3f6159d953": {
-      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣復名、中國退展，改名風波背後的角力",
-      "fetched_at": "2026-09-04T15:21:20.724863+00:00"
-    },
-    "06cf1cdd4ba05231": {
-      "title": "韓國光州雙年展: 中國退展，「台灣館」風波透露什麼？",
-      "fetched_at": "2026-09-04T15:21:21.294690+00:00"
-    },
-    "66625a3b48da3bb2": {
-      "title": "前線報導：BBC深入尼泊爾隧道和被洪水吞沒的小鎮",
-      "fetched_at": "2026-09-04T15:21:21.856883+00:00"
-    },
-    "e60c4959ff6fd49c": {
-      "title": "這些藥物讓人更難以應對高溫",
-      "fetched_at": "2026-09-04T15:21:22.416514+00:00"
-    },
-    "098fd914252202b5": {
-      "title": "Aging doesn't look the same for everyone at the molecular level — it's 'individualized and context-dependent'",
-      "fetched_at": "2026-09-04T15:21:24.826270+00:00"
-    },
-    "e943fbd0070e8ea9": {
-      "title": "'A worrying snapshot': Satellite image shows large patches of open water less than 40 miles from the North Pole",
-      "fetched_at": "2026-09-04T15:21:25.396329+00:00"
-    },
-    "3a0487e49431eb15": {
-      "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-      "fetched_at": "2026-09-04T15:21:25.979079+00:00"
-    },
-    "72a24600e5b8e0cc": {
-      "title": "Extreme drought now covers 44% of Puerto Rico",
-      "fetched_at": "2026-09-04T15:21:26.548983+00:00"
-    },
-    "ee50f10bc3138cee": {
-      "title": "MIT turns bacteria into living transistors",
-      "fetched_at": "2026-09-04T15:21:27.112315+00:00"
-    },
-    "b9f14195b51cc5b5": {
-      "title": "A longer exhale may push your brain toward bolder decisions",
-      "fetched_at": "2026-09-04T15:21:27.689222+00:00"
-    },
-    "60f724a95369a7c0": {
-      "title": "Dying radio galaxies fade faster than scientists expected",
-      "fetched_at": "2026-09-04T15:21:28.256570+00:00"
-    },
-    "e957745f18835c04": {
-      "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
-      "fetched_at": "2026-09-04T15:21:28.825614+00:00"
-    },
-    "bc91abb05aa5586f": {
-      "title": "Scientists reveal the hidden instructions that build the human brain",
-      "fetched_at": "2026-09-04T15:21:29.392814+00:00"
-    },
-    "15ae8aa600027a66": {
-      "title": "New injectable treatment helps the brain rebuild after stroke",
-      "fetched_at": "2026-09-04T15:21:29.964696+00:00"
-    },
-    "cacd646b9dd5cc42": {
-      "title": "Scientists discover a bizarre “devil flower” hidden in Thailand",
-      "fetched_at": "2026-09-04T15:21:30.524276+00:00"
-    },
-    "b1dc8cab3aef3ba1": {
-      "title": "Plants may be evolving the wrong traits for a warming world",
-      "fetched_at": "2026-09-04T15:21:31.090173+00:00"
-    },
-    "bd65e0e7d74a74fc": {
-      "title": "Deep beneath Mars, scientists find a vast hidden magma system",
-      "fetched_at": "2026-09-04T15:21:31.655800+00:00"
-    },
     "64aa132e0617ca15": {
       "title": "Can AI design circuit boards yet?",
       "fetched_at": "2026-09-04T19:59:54.564165+00:00"
@@ -3563,7 +3463,95 @@
     "1e1fcc6969ca4a84": {
       "title": "Mercury’s surface reveals a surprisingly fiery past",
       "fetched_at": "2026-09-12T14:34:53.654773+00:00"
+    },
+    "7c85f5b5d4369816": {
+      "title": "Asking the most uncomfortable question in AI",
+      "fetched_at": "2026-09-12T19:49:09.788440+00:00"
+    },
+    "b80f58d42aaa5807": {
+      "title": "Anthropic CEO calls on AI companies to slow down development",
+      "fetched_at": "2026-09-12T19:49:10.352218+00:00"
+    },
+    "8afb3a916aa13e3c": {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "fetched_at": "2026-09-12T19:49:10.919871+00:00"
+    },
+    "a659b49f4dd3472a": {
+      "title": "In the Age of AI, TODOs Considered Harmful",
+      "fetched_at": "2026-09-12T19:49:11.482107+00:00"
+    },
+    "ef69b7b6537dc309": {
+      "title": "Catholic tech leaders urge ethical boundaries for AI",
+      "fetched_at": "2026-09-12T19:49:12.041089+00:00"
+    },
+    "8016b9e17a0d4e9c": {
+      "title": "Recommendations for Teaching with AI (Fall 2026)",
+      "fetched_at": "2026-09-12T19:49:12.609449+00:00"
+    },
+    "b23e30975fee4bef": {
+      "title": "Google allegedly stole open-source code for mobile AI tool",
+      "fetched_at": "2026-09-12T19:49:13.197413+00:00"
+    },
+    "8f765533a4e23407": {
+      "title": "Musk and Altman back Anthropic CEO on slowing AI down",
+      "fetched_at": "2026-09-12T19:49:13.766151+00:00"
+    },
+    "fe2af823b70a2181": {
+      "title": "Show HN: AI-Powered Word Guessing Game",
+      "fetched_at": "2026-09-12T19:49:14.335911+00:00"
+    },
+    "b3bd722533d0b1f3": {
+      "title": "Dario Just Said Pump the Brakes on AI",
+      "fetched_at": "2026-09-12T19:49:14.895218+00:00"
+    },
+    "1bed44cfaa9ab570": {
+      "title": "AI Bubble Crashing Its Way into AI Abundance?",
+      "fetched_at": "2026-09-12T19:49:15.461618+00:00"
+    },
+    "057cfb4cc129b009": {
+      "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
+      "fetched_at": "2026-09-12T19:49:16.025584+00:00"
+    },
+    "659ac477b9503fba": {
+      "title": "Scaling classical music concert crawlers with AI agents",
+      "fetched_at": "2026-09-12T19:49:16.613798+00:00"
+    },
+    "ce21ba8d88ec51b8": {
+      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "fetched_at": "2026-09-12T19:49:17.178094+00:00"
+    },
+    "675d1cf6f142e743": {
+      "title": "DEF Con 34 – Hacking AI – Bruce Schneier [video]",
+      "fetched_at": "2026-09-12T19:49:17.750670+00:00"
+    },
+    "1d07289a1950a513": {
+      "title": "Anthropic CEO calls for the AI industry to slow down",
+      "fetched_at": "2026-09-12T19:49:18.319106+00:00"
+    },
+    "333b18d97adf3b12": {
+      "title": "Shooting yourself in the foot (safely): Inside AI red teaming philosophy",
+      "fetched_at": "2026-09-12T19:49:18.887351+00:00"
+    },
+    "0c603ea6cb65c418": {
+      "title": "GPT-6-Astra Can Do Ambitious Things",
+      "fetched_at": "2026-09-12T19:49:19.454079+00:00"
+    },
+    "92afa08bb62be6a5": {
+      "title": "The mathematicians rebel against AI",
+      "fetched_at": "2026-09-12T19:49:20.019851+00:00"
+    },
+    "50a58658d14a6987": {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "fetched_at": "2026-09-12T19:49:20.586365+00:00"
+    },
+    "6f2ce4fd3753fcd3": {
+      "title": "豬腎在人體內運作271天——這會是器官移植的未來嗎？",
+      "fetched_at": "2026-09-12T19:49:23.671912+00:00"
+    },
+    "a0fac57f48cb2cf8": {
+      "title": "執迷於「睡眠分數」如何反讓你睡得更差？",
+      "fetched_at": "2026-09-12T19:49:24.243992+00:00"
     }
   },
-  "last_updated": "2026-09-12T14:34:53.753968+00:00"
+  "last_updated": "2026-09-12T19:49:26.283665+00:00"
 }
