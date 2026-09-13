@@ -1,101 +1,5 @@
 {
   "articles": {
-    "8204f583563f5f18": {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "fetched_at": "2026-09-05T19:40:08.800973+00:00"
-    },
-    "0ff190231fb42baa": {
-      "title": "GPT-6 Astra might be too powerful to understand or control",
-      "fetched_at": "2026-09-05T19:40:09.414417+00:00"
-    },
-    "2344e1082f2afe5c": {
-      "title": "Are warnings of uncontrollable AI coming true?",
-      "fetched_at": "2026-09-05T19:40:10.020996+00:00"
-    },
-    "78fc899ec26a10c9": {
-      "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
-      "fetched_at": "2026-09-05T19:40:10.626468+00:00"
-    },
-    "b61e0f8ef089a6a3": {
-      "title": "Norway could become the first country to ban AI smart glasses",
-      "fetched_at": "2026-09-05T19:40:11.242655+00:00"
-    },
-    "b8541b59a2086b74": {
-      "title": "A sourced timeline of 249 documented AI milestones",
-      "fetched_at": "2026-09-05T19:40:11.862370+00:00"
-    },
-    "c33d004620a3695c": {
-      "title": "Ask HN: Airbnbs with AI Photos",
-      "fetched_at": "2026-09-05T19:40:12.532639+00:00"
-    },
-    "6b185e8d234defeb": {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "fetched_at": "2026-09-05T19:40:13.150769+00:00"
-    },
-    "70b23a0962b5a13e": {
-      "title": "Flathub bans AI-coded apps – with some exceptions",
-      "fetched_at": "2026-09-05T19:40:13.754902+00:00"
-    },
-    "f26a9f508a57db64": {
-      "title": "GPT-6 Astra is now #1 on Code Arena",
-      "fetched_at": "2026-09-05T19:40:14.381377+00:00"
-    },
-    "beff33e98bf40b76": {
-      "title": "A meme-shaped test of your post-AI SWE skills",
-      "fetched_at": "2026-09-05T19:40:14.986391+00:00"
-    },
-    "7dd6c9b50dca678b": {
-      "title": "A Turing Machine Is Just a Finite Automaton with Two Stacks (2018)",
-      "fetched_at": "2026-09-05T19:40:15.602095+00:00"
-    },
-    "d642bfde5a389ca1": {
-      "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
-      "fetched_at": "2026-09-05T19:40:16.208455+00:00"
-    },
-    "a6527cf84fc93460": {
-      "title": "How Much of the Internet Is Written with AI?",
-      "fetched_at": "2026-09-05T19:40:16.807065+00:00"
-    },
-    "15e837eadfdcc3c9": {
-      "title": "Music courses are dead (tanks AI) [video]",
-      "fetched_at": "2026-09-05T19:40:17.407472+00:00"
-    },
-    "46316045deb7f645": {
-      "title": "Architecting memory and storage in the AI era",
-      "fetched_at": "2026-09-05T19:40:18.019643+00:00"
-    },
-    "5d4b806caddbcf07": {
-      "title": "Engineer and Nam A2 and AI = Perfect and Free Valen Halen Plug-In [video]",
-      "fetched_at": "2026-09-05T19:40:18.631374+00:00"
-    },
-    "9bee8407eaacd86f": {
-      "title": "Inside a growing movement warning AI could turn on humanity",
-      "fetched_at": "2026-09-05T19:40:19.248508+00:00"
-    },
-    "fd2e5799cf085fbe": {
-      "title": "Praesidias – pre-execution authorization for AI agents",
-      "fetched_at": "2026-09-05T19:40:19.861931+00:00"
-    },
-    "c8ff18dd27c4c8e1": {
-      "title": "Kai-Fu Lee: China Will Win the AI Race for Reach",
-      "fetched_at": "2026-09-05T19:40:20.474219+00:00"
-    },
-    "1ebbf218d5b8fef8": {
-      "title": "Mudlarking: Searching the River Thames for Historical Artifacts [video]",
-      "fetched_at": "2026-09-05T19:40:25.761054+00:00"
-    },
-    "2424a180784727eb": {
-      "title": "Mathematicians say these 60-sided dice are the fairest in the world. Designing them took 15 years.",
-      "fetched_at": "2026-09-05T19:40:26.364862+00:00"
-    },
-    "279fea68b3b74c86": {
-      "title": "Ancient Coins Reveal a Wealth of Information About the Roman Republic",
-      "fetched_at": "2026-09-05T19:40:26.974970+00:00"
-    },
-    "8cbe54996f0f5334": {
-      "title": "Discovery of a new IRC bot message board (2018)",
-      "fetched_at": "2026-09-05T19:40:27.583611+00:00"
-    },
     "8e7a6dc6cea545c8": {
       "title": "One new Swiss company in thirty-six now claims AI",
       "fetched_at": "2026-09-06T01:44:52.657642+00:00"
@@ -3427,7 +3331,99 @@
     "56e9fab99974ac2c": {
       "title": "Life uses 4 DNA letters. Scientists just made 8 work",
       "fetched_at": "2026-09-13T15:14:25.750108+00:00"
+    },
+    "42690205656cdbed": {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "fetched_at": "2026-09-13T19:58:06.619943+00:00"
+    },
+    "85994b09f8ec5adb": {
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "fetched_at": "2026-09-13T19:58:07.248495+00:00"
+    },
+    "3579f2fa614bcc84": {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "fetched_at": "2026-09-13T19:58:07.886602+00:00"
+    },
+    "6bc312db01ba4c50": {
+      "title": "Show HN: Kibble – a reader for AI news, tutorials, code and models",
+      "fetched_at": "2026-09-13T19:58:08.507408+00:00"
+    },
+    "3b6ef0abd15a9d02": {
+      "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)",
+      "fetched_at": "2026-09-13T19:58:09.146805+00:00"
+    },
+    "159b112c179e89df": {
+      "title": "Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+      "fetched_at": "2026-09-13T19:58:09.791483+00:00"
+    },
+    "8627c0e10529a882": {
+      "title": "Show HN: sengi.ai — Verified candidate sourcing for hard-to-fill roles",
+      "fetched_at": "2026-09-13T19:58:10.428737+00:00"
+    },
+    "f0f54f91a9423208": {
+      "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+      "fetched_at": "2026-09-13T19:58:11.048075+00:00"
+    },
+    "fb0c33652b7c760e": {
+      "title": "AI Agent Doesn't Need a Bigger Prompt. It Needs a Data Catalog",
+      "fetched_at": "2026-09-13T19:58:11.668365+00:00"
+    },
+    "595de3e86e8b594d": {
+      "title": "Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity",
+      "fetched_at": "2026-09-13T19:58:12.290987+00:00"
+    },
+    "445440083f60cdc9": {
+      "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
+      "fetched_at": "2026-09-13T19:58:12.911901+00:00"
+    },
+    "5a77ab8bad8b4b9f": {
+      "title": "A 40-minute timer for thinking before you ask the AI",
+      "fetched_at": "2026-09-13T19:58:13.529407+00:00"
+    },
+    "80eaf2c95e7908a2": {
+      "title": "SubmitHub's new AI music policy",
+      "fetched_at": "2026-09-13T19:58:14.167056+00:00"
+    },
+    "2f859c660abf1e88": {
+      "title": "AI job cuts fell short of forecasts, with 32% expected but only 14% reported",
+      "fetched_at": "2026-09-13T19:58:14.790073+00:00"
+    },
+    "70f1c72e3a41b3b9": {
+      "title": "CS 312: Deep Learning Alchemy",
+      "fetched_at": "2026-09-13T19:58:15.409299+00:00"
+    },
+    "9512208fea1a9c55": {
+      "title": "Russian developers used AI to build 'kamikaze' attack drone software",
+      "fetched_at": "2026-09-13T19:58:16.040557+00:00"
+    },
+    "380f85242d2a6c16": {
+      "title": "OpenAI boss and Elon Musk back calls to put brakes on 'reckless' AI development",
+      "fetched_at": "2026-09-13T19:58:16.666214+00:00"
+    },
+    "fee4fd22dcd5df16": {
+      "title": "Trump says 'negative forces' raising exaggerated concerns over AI",
+      "fetched_at": "2026-09-13T19:58:17.284397+00:00"
+    },
+    "913c7ff9e8a83b05": {
+      "title": "Ask HN: What would it look like if AI agents \"took over the internet\"?",
+      "fetched_at": "2026-09-13T19:58:17.914006+00:00"
+    },
+    "173f9b92d9e81311": {
+      "title": "AI Was Supposed to Make Software Cheaper. So Why Is It More Expensive Now?",
+      "fetched_at": "2026-09-13T19:58:18.547216+00:00"
+    },
+    "df2c22a0e5cf813f": {
+      "title": "Fall stargazing 2026: The best skywatching sights in autumn (and how to see them)",
+      "fetched_at": "2026-09-13T19:58:25.450798+00:00"
+    },
+    "752b4fc640700d59": {
+      "title": "Faster than Usain Bolt? Here's all the records robot 'athletes' broke at this year's World Humanoid Robot Games in China.",
+      "fetched_at": "2026-09-13T19:58:26.089890+00:00"
+    },
+    "70137720027b926e": {
+      "title": "Excavation in Poland reveals Stone Age man buried with decapitated heads and a tooth necklace",
+      "fetched_at": "2026-09-13T19:58:26.719727+00:00"
     }
   },
-  "last_updated": "2026-09-13T15:14:25.858369+00:00"
+  "last_updated": "2026-09-13T19:58:26.815073+00:00"
 }
