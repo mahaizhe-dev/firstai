@@ -1,49 +1,5 @@
 {
   "articles": {
-    "5b87aaf96026af54": {
-      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
-      "fetched_at": "2026-09-05T09:36:04.691176+00:00"
-    },
-    "d610571f7e4a684b": {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "fetched_at": "2026-09-05T09:36:05.312375+00:00"
-    },
-    "2389e2cfc6c1af4f": {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "fetched_at": "2026-09-05T09:36:05.937765+00:00"
-    },
-    "37b0cc5251e43cec": {
-      "title": "What will Apple’s John Ternus era look like?",
-      "fetched_at": "2026-09-05T09:36:06.566293+00:00"
-    },
-    "118e782223f9a958": {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "fetched_at": "2026-09-05T09:36:07.189180+00:00"
-    },
-    "4dc98a86ca743d59": {
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "fetched_at": "2026-09-05T09:36:07.814991+00:00"
-    },
-    "8a4b0432f8936bbb": {
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "fetched_at": "2026-09-05T09:36:08.458710+00:00"
-    },
-    "c4499ef8dad3ccd9": {
-      "title": "How did the Romans build their towering aqueducts?",
-      "fetched_at": "2026-09-05T09:36:13.352948+00:00"
-    },
-    "211cee9156b01c4e": {
-      "title": "Author Lise Barnéoud on the bizarre and provoking world of microchimerism — when cells from one person live in another, genetically distinct individual",
-      "fetched_at": "2026-09-05T09:36:13.972842+00:00"
-    },
-    "56e9fab99974ac2c": {
-      "title": "Life uses 4 DNA letters. Scientists just made 8 work",
-      "fetched_at": "2026-09-05T09:36:14.590040+00:00"
-    },
-    "eca2c391c7d37a8f": {
-      "title": "Quantum oscillations defy expectations in this exotic material",
-      "fetched_at": "2026-09-05T09:36:15.275864+00:00"
-    },
     "2d0f27620ff3cf91": {
       "title": "Is your LLM Biased? Making ChatGPT evaluate itself",
       "fetched_at": "2026-09-05T14:09:03.692285+00:00"
@@ -3443,7 +3399,95 @@
     "cacd646b9dd5cc42": {
       "title": "Scientists discover a bizarre “devil flower” hidden in Thailand",
       "fetched_at": "2026-09-13T01:53:26.812220+00:00"
+    },
+    "b6b99a439ed425b6": {
+      "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+      "fetched_at": "2026-09-13T10:45:24.025364+00:00"
+    },
+    "56441b9684ae8eca": {
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "fetched_at": "2026-09-13T10:45:24.636234+00:00"
+    },
+    "394f6ef9ea64eccc": {
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "fetched_at": "2026-09-13T10:45:25.338281+00:00"
+    },
+    "4a0cdefc7203de96": {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "fetched_at": "2026-09-13T10:45:25.954031+00:00"
+    },
+    "a51f91ef958aa523": {
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "fetched_at": "2026-09-13T10:45:26.573382+00:00"
+    },
+    "447c58f63d2d2f83": {
+      "title": "Trump is giving data centers a pass to pollute",
+      "fetched_at": "2026-09-13T10:45:27.198484+00:00"
+    },
+    "d8f3a98700e0080d": {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "fetched_at": "2026-09-13T10:45:27.817972+00:00"
+    },
+    "62135bc7d15eaf60": {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "fetched_at": "2026-09-13T10:45:28.438381+00:00"
+    },
+    "6e0d0139549a7749": {
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "fetched_at": "2026-09-13T10:45:29.075851+00:00"
+    },
+    "294d8d7ad479425d": {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-13T10:45:29.752624+00:00"
+    },
+    "98cd95c0b6dc2364": {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "fetched_at": "2026-09-13T10:45:30.433420+00:00"
+    },
+    "c575df26f98f80c6": {
+      "title": "多熱才算太熱？牛津大學研究警告滾燙飲品可增加患癌風險",
+      "fetched_at": "2026-09-13T10:45:33.682000+00:00"
+    },
+    "ce3707b13c1c85e8": {
+      "title": "AI巨頭前僱員：同業「真誠恐懼」人類遭滅絕，西方必須與中國協調",
+      "fetched_at": "2026-09-13T10:45:34.297500+00:00"
+    },
+    "ee0fbd4cacce4952": {
+      "title": "女性比男性更擅長耐力跑嗎？",
+      "fetched_at": "2026-09-13T10:45:34.916477+00:00"
+    },
+    "5a91a0e2e9f47a8e": {
+      "title": "習近平七年來首次訪印：中印回暖背後的美國陰影與西藏問題",
+      "fetched_at": "2026-09-13T10:45:35.531798+00:00"
+    },
+    "bc0a6050877cf139": {
+      "title": "Haunting Hubble telescope image captures cosmic cycle of destruction and creation —‬ Space photo of the week",
+      "fetched_at": "2026-09-13T10:45:45.125123+00:00"
+    },
+    "95e8962039c0ea65": {
+      "title": "Why do cats lick each other?",
+      "fetched_at": "2026-09-13T10:45:45.753571+00:00"
+    },
+    "2e1e808e206f0a3d": {
+      "title": "Venus’s pale yellow clouds may hide something surprisingly dark",
+      "fetched_at": "2026-09-13T10:45:46.374875+00:00"
+    },
+    "d081e7e754848d25": {
+      "title": "Scientists find water was fueling volcanoes 3 billion years ago",
+      "fetched_at": "2026-09-13T10:45:46.993077+00:00"
+    },
+    "afdcc9b50b39198e": {
+      "title": "Scientists discover a hidden switch that shuts down inflammation",
+      "fetched_at": "2026-09-13T10:45:47.607173+00:00"
+    },
+    "1f0956de66ec021b": {
+      "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
+      "fetched_at": "2026-09-13T10:45:48.217783+00:00"
+    },
+    "ea4fbe0c5f355c5d": {
+      "title": "Blue Origin rocket explosion sent sound waves 1,000 miles across the US, report finds",
+      "fetched_at": "2026-09-13T10:45:48.847180+00:00"
     }
   },
-  "last_updated": "2026-09-13T01:53:26.911021+00:00"
+  "last_updated": "2026-09-13T10:45:48.939353+00:00"
 }
