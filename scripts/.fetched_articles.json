@@ -1,121 +1,5 @@
 {
   "articles": {
-    "8e7a6dc6cea545c8": {
-      "title": "One new Swiss company in thirty-six now claims AI",
-      "fetched_at": "2026-09-06T01:44:52.657642+00:00"
-    },
-    "6ccedc47ecf482ad": {
-      "title": "GPT-6 Astra recreated the Palace of Fine arts in Blender",
-      "fetched_at": "2026-09-06T01:44:53.234075+00:00"
-    },
-    "9bda2f29b465910e": {
-      "title": "DHH: Programming, AI, Vibe Coding and Linux (Lex Fridman Podcast)",
-      "fetched_at": "2026-09-06T01:44:53.806342+00:00"
-    },
-    "885dfc014bef5619": {
-      "title": "Truckers – AI data centers as business booms",
-      "fetched_at": "2026-09-06T01:44:54.384733+00:00"
-    },
-    "1e1d2e1966eb1afa": {
-      "title": "AI and the collapse of the intelligence-based hierarchy of merit",
-      "fetched_at": "2026-09-06T01:44:54.959736+00:00"
-    },
-    "52c58e1567e39e4c": {
-      "title": "Workforce behind AI spans 160M workers, many in the Global South",
-      "fetched_at": "2026-09-06T01:44:55.524020+00:00"
-    },
-    "4c79ef91714cec3d": {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "fetched_at": "2026-09-06T01:44:56.101205+00:00"
-    },
-    "618d3b06e351b0d8": {
-      "title": "Is AI ruining my brain?",
-      "fetched_at": "2026-09-06T01:44:56.680708+00:00"
-    },
-    "eb7e7fc9c0cf2ed4": {
-      "title": "Good AI Slop",
-      "fetched_at": "2026-09-06T01:44:57.263291+00:00"
-    },
-    "7aa0aa304f904d61": {
-      "title": "StoryScope: Investigating Idiosyncrasies in AI Fiction",
-      "fetched_at": "2026-09-06T01:44:57.842461+00:00"
-    },
-    "82c7ac140b60a1d2": {
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "fetched_at": "2026-09-06T01:44:58.420458+00:00"
-    },
-    "f901bbecf9775eea": {
-      "title": "The Roadmap of Mathematics for Machine Learning",
-      "fetched_at": "2026-09-06T01:44:58.991803+00:00"
-    },
-    "b9f17481d964da94": {
-      "title": "AI push is putting banks at mercy of tech firms, warns Moody's",
-      "fetched_at": "2026-09-06T01:44:59.565781+00:00"
-    },
-    "d00bae50c265e476": {
-      "title": "GPT-6 Astra: the harness is the product",
-      "fetched_at": "2026-09-06T01:45:00.139129+00:00"
-    },
-    "9c958e984a506874": {
-      "title": "An LLM runtime that boots from USB",
-      "fetched_at": "2026-09-06T01:45:00.726911+00:00"
-    },
-    "b7b44b4927b6dd5f": {
-      "title": "America's two largest school districts impose AI moratoriums",
-      "fetched_at": "2026-09-06T01:45:01.293591+00:00"
-    },
-    "8e00f5c418f06766": {
-      "title": "Google AI turns on its maker in a brutally candid interview",
-      "fetched_at": "2026-09-06T01:45:01.863808+00:00"
-    },
-    "1812c77a1bde174c": {
-      "title": "Teaching Prevents Learning",
-      "fetched_at": "2026-09-06T01:45:02.438731+00:00"
-    },
-    "eeb32cab9ab14580": {
-      "title": "The AI-Native SDLC Playbook",
-      "fetched_at": "2026-09-06T01:45:03.012108+00:00"
-    },
-    "34aa5e9c33e53477": {
-      "title": "How AI is breaking the British state",
-      "fetched_at": "2026-09-06T01:45:03.574793+00:00"
-    },
-    "6902fbb0d11ebf65": {
-      "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
-      "fetched_at": "2026-09-06T01:45:05.550680+00:00"
-    },
-    "121c1279a5e0116b": {
-      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-      "fetched_at": "2026-09-06T01:45:14.654120+00:00"
-    },
-    "40453ec75a603fc9": {
-      "title": "A mysterious signal around Earth could be dark matter",
-      "fetched_at": "2026-09-06T01:45:15.233976+00:00"
-    },
-    "a1a0ecde615c717a": {
-      "title": "80,000-year-old “arrowheads” rewrite human history",
-      "fetched_at": "2026-09-06T01:45:15.803725+00:00"
-    },
-    "ffecb6bde248bddb": {
-      "title": "This “new” frog was hiding in plain sight for 100 years",
-      "fetched_at": "2026-09-06T01:45:16.380548+00:00"
-    },
-    "1b84050f0515aa5a": {
-      "title": "The popular diabetes drug metformin has been used for decades — and scientists just figured out its main mechanism",
-      "fetched_at": "2026-09-06T01:45:16.964399+00:00"
-    },
-    "0e8ccfc737ea4711": {
-      "title": "The Meta settlement is a start, but it's not enough to create real change — that's what we need to focus on now",
-      "fetched_at": "2026-09-06T01:45:17.545471+00:00"
-    },
-    "c50cdd46e80f2cce": {
-      "title": "Scientists invent a gel that creates neurons from other cells, which could help treat Alzheimer's",
-      "fetched_at": "2026-09-06T01:45:18.138228+00:00"
-    },
-    "30a165c691d32ba6": {
-      "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-      "fetched_at": "2026-09-06T01:45:18.717737+00:00"
-    },
     "21a41492e9fa42b5": {
       "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
       "fetched_at": "2026-09-06T09:51:09.738976+00:00"
@@ -3423,7 +3307,103 @@
     "70137720027b926e": {
       "title": "Excavation in Poland reveals Stone Age man buried with decapitated heads and a tooth necklace",
       "fetched_at": "2026-09-13T19:58:26.719727+00:00"
+    },
+    "ab39456ba5532f1b": {
+      "title": "Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet",
+      "fetched_at": "2026-09-14T02:10:40.711161+00:00"
+    },
+    "e2433defb0f649dc": {
+      "title": "Opportunistic AI detects colorectal cancer using routine, noncontrast CT",
+      "fetched_at": "2026-09-14T02:10:41.326191+00:00"
+    },
+    "dc45946a7c1e3a80": {
+      "title": "AI is not a normal technology",
+      "fetched_at": "2026-09-14T02:10:41.946222+00:00"
+    },
+    "d8a33f067ec5968c": {
+      "title": "Godfather of AI welcomes pause in development (interview with Hinton)",
+      "fetched_at": "2026-09-14T02:10:42.591326+00:00"
+    },
+    "c74b196f4bd2cf11": {
+      "title": "AI Robots – When will they be in our homes",
+      "fetched_at": "2026-09-14T02:10:43.236219+00:00"
+    },
+    "33c57b9095642d5c": {
+      "title": "The librarian, the car keys, and AI",
+      "fetched_at": "2026-09-14T02:10:43.857628+00:00"
+    },
+    "9a8ddca293e485dd": {
+      "title": "Worrying about bad AI code is worrying about the wrong problem",
+      "fetched_at": "2026-09-14T02:10:44.486031+00:00"
+    },
+    "cdf64a5628c5563f": {
+      "title": "Open-Source AI and Open Models Reading List",
+      "fetched_at": "2026-09-14T02:10:45.104499+00:00"
+    },
+    "838380944d30175e": {
+      "title": "AI bubble pops – Cory Doctorow",
+      "fetched_at": "2026-09-14T02:10:45.715518+00:00"
+    },
+    "a56693ef741ab373": {
+      "title": "AI Boom / Bust – Boom Boom Pow",
+      "fetched_at": "2026-09-14T02:10:46.358063+00:00"
+    },
+    "32754b580487122e": {
+      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "fetched_at": "2026-09-14T02:10:46.997580+00:00"
+    },
+    "8f4962a605ce6faa": {
+      "title": "AI Coding Dictionary",
+      "fetched_at": "2026-09-14T02:10:47.608704+00:00"
+    },
+    "5df26352708cdf9f": {
+      "title": "X.com busts Chinese bot farm, incl accounts making claims about AI data centers",
+      "fetched_at": "2026-09-14T02:10:48.231598+00:00"
+    },
+    "f2880270c76921ae": {
+      "title": "Robots protest rampant AI in Poland",
+      "fetched_at": "2026-09-14T02:10:48.852197+00:00"
+    },
+    "94d532ba7c8b7dd9": {
+      "title": "Ask HN: How is AI actively a threat to humanity if it's only online?",
+      "fetched_at": "2026-09-14T02:10:49.475206+00:00"
+    },
+    "094d17773da3c0a4": {
+      "title": "I think Effect-TS is a strong fit for AI agent development",
+      "fetched_at": "2026-09-14T02:10:50.092971+00:00"
+    },
+    "e7c8963819161130": {
+      "title": "AI hypervigilance is now an omnipresent cognitive load for your users",
+      "fetched_at": "2026-09-14T02:10:50.761017+00:00"
+    },
+    "e856d364e7cc6a2a": {
+      "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
+      "fetched_at": "2026-09-14T02:10:51.391072+00:00"
+    },
+    "22783d46cc2a558f": {
+      "title": "It's All Fun and Games Until You Give AI Your Credit Card",
+      "fetched_at": "2026-09-14T02:10:52.033617+00:00"
+    },
+    "3c8ab9824d206157": {
+      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+      "fetched_at": "2026-09-14T02:10:52.649987+00:00"
+    },
+    "7c835beb10c0a357": {
+      "title": "金砖峰会：各国营造团结景象，但难掩内部分歧",
+      "fetched_at": "2026-09-14T02:10:55.759129+00:00"
+    },
+    "1395cb4283234306": {
+      "title": "中國強勢下，歐洲電池工業謀求「重新充電」",
+      "fetched_at": "2026-09-14T02:10:56.416727+00:00"
+    },
+    "e7f1a70183efc61f": {
+      "title": "中國16年來首修《國防動員法》 專家稱：吸取俄烏教訓 建立「平戰快速轉換」制度",
+      "fetched_at": "2026-09-14T02:10:57.043292+00:00"
+    },
+    "2424a180784727eb": {
+      "title": "Mathematicians say these 60-sided dice are the fairest in the world. Designing them took 15 years.",
+      "fetched_at": "2026-09-14T02:10:59.888831+00:00"
     }
   },
-  "last_updated": "2026-09-13T19:58:26.815073+00:00"
+  "last_updated": "2026-09-14T02:11:00.016794+00:00"
 }
