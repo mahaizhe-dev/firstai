@@ -1,57 +1,5 @@
 {
   "articles": {
-    "21a41492e9fa42b5": {
-      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
-      "fetched_at": "2026-09-06T09:51:09.738976+00:00"
-    },
-    "dbde75c832ad719f": {
-      "title": "特朗普取態何以左右福克蘭群島爭議",
-      "fetched_at": "2026-09-06T09:51:11.961469+00:00"
-    },
-    "6aa237d42c45d5ca": {
-      "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
-      "fetched_at": "2026-09-06T09:51:12.542570+00:00"
-    },
-    "c733ae3b1ca935cc": {
-      "title": "不同版本的世界地圖有哪些正確及錯誤之處？",
-      "fetched_at": "2026-09-06T09:51:13.117230+00:00"
-    },
-    "c520b0b8b5946a6a": {
-      "title": "機器人開始索要小費，但錢到底進了誰的口袋？",
-      "fetched_at": "2026-09-06T09:51:13.695020+00:00"
-    },
-    "c7acad4588eb6569": {
-      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣改名風波背後的角力",
-      "fetched_at": "2026-09-06T09:51:14.273406+00:00"
-    },
-    "5b5b56bc4e813a0f": {
-      "title": "福島爭議升溫：阿根廷制裁附近油企，特朗普暗示未必協助英國",
-      "fetched_at": "2026-09-06T09:51:14.856654+00:00"
-    },
-    "3643641edf6d5893": {
-      "title": "親俄宣傳網絡內幕：利用烏克蘭女性遭強姦的假消息作引流「誘餌」",
-      "fetched_at": "2026-09-06T09:51:15.432645+00:00"
-    },
-    "9ca87c5ac68efaae": {
-      "title": "How small can a transistor get?",
-      "fetched_at": "2026-09-06T09:51:20.670010+00:00"
-    },
-    "4ab292ff9f4642e1": {
-      "title": "Indonesia’s most dangerous fires are burning underground",
-      "fetched_at": "2026-09-06T09:51:21.236821+00:00"
-    },
-    "28e49717c8e1e039": {
-      "title": "AI can now control fusion plasma faster than humans can react",
-      "fetched_at": "2026-09-06T09:51:21.815865+00:00"
-    },
-    "e9d5c3c3ee0b3b68": {
-      "title": "Scientists find a weak spot in one of the deadliest brain cancers",
-      "fetched_at": "2026-09-06T09:51:22.394446+00:00"
-    },
-    "a21ff040448436d5": {
-      "title": "Strange 'hobbit' species walked more like us than like 'Lucy,' hip bones reveal",
-      "fetched_at": "2026-09-06T09:51:22.982822+00:00"
-    },
     "bf796f72020f2bf1": {
       "title": "Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude",
       "fetched_at": "2026-09-06T14:33:12.462413+00:00"
@@ -3403,7 +3351,143 @@
     "2424a180784727eb": {
       "title": "Mathematicians say these 60-sided dice are the fairest in the world. Designing them took 15 years.",
       "fetched_at": "2026-09-14T02:10:59.888831+00:00"
+    },
+    "99ad950b64ff5c58": {
+      "title": "Watch AI materials-science and bioscience abilities closely",
+      "fetched_at": "2026-09-14T11:09:43.040801+00:00"
+    },
+    "2ab950c3eb1c141f": {
+      "title": "Artificial Phenomenology and Machine Consciousness",
+      "fetched_at": "2026-09-14T11:09:43.661111+00:00"
+    },
+    "34dea0c4c1b4e579": {
+      "title": "Nexus – Automating Lead Qualification via AI and Social Extraction",
+      "fetched_at": "2026-09-14T11:09:44.308956+00:00"
+    },
+    "809d7e53cddc2b07": {
+      "title": "Big AI sets out its terms for regulatory capture",
+      "fetched_at": "2026-09-14T11:09:44.928759+00:00"
+    },
+    "9cddc6185115b1e5": {
+      "title": "The \"Nonexistent\" Research on AI's Benefits for Education",
+      "fetched_at": "2026-09-14T11:09:45.563807+00:00"
+    },
+    "5fa183bdbb1a1866": {
+      "title": "Are They Using AI?",
+      "fetched_at": "2026-09-14T11:09:46.187356+00:00"
+    },
+    "aac6c146a089e1fc": {
+      "title": "AI Firms Are Reportedly Buying Nvidia RTX 5090 GPUs in Bulk for Server Use",
+      "fetched_at": "2026-09-14T11:09:46.811584+00:00"
+    },
+    "5d1d93ce8c66f1ff": {
+      "title": "Show HN: Socratix – update: the AI voice oral exam (Viva) is live",
+      "fetched_at": "2026-09-14T11:09:47.443463+00:00"
+    },
+    "e667ace04c699295": {
+      "title": "Are We Reinventing the Tools of Data Engineering for AI?",
+      "fetched_at": "2026-09-14T11:09:48.077818+00:00"
+    },
+    "4dacb45c53d131b1": {
+      "title": "Show HN: Crypto portfolio risk and scenario analysis with AI agents on top",
+      "fetched_at": "2026-09-14T11:09:48.695544+00:00"
+    },
+    "a4195e7bcbb73abc": {
+      "title": "Rage4J: Test your LLM apps like the rest of your Java code",
+      "fetched_at": "2026-09-14T11:09:49.321769+00:00"
+    },
+    "345c73f36fe22700": {
+      "title": "派评｜近期值得关注的 App",
+      "fetched_at": "2026-09-14T11:09:49.321957+00:00"
+    },
+    "decff266db8ef1cc": {
+      "title": "AI should know that mylocalhost.com – is a real domain",
+      "fetched_at": "2026-09-14T11:09:49.937256+00:00"
+    },
+    "c6be0865d33fc544": {
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "fetched_at": "2026-09-14T11:09:50.564323+00:00"
+    },
+    "4cacd4bbae5d4b18": {
+      "title": "Sam Altman spells out why the AI industry wants to slow down",
+      "fetched_at": "2026-09-14T11:09:51.186006+00:00"
+    },
+    "ad473db156acaf86": {
+      "title": "AI Myth – College Educate, Benefit from AI – Morgan Stanley",
+      "fetched_at": "2026-09-14T11:09:51.806941+00:00"
+    },
+    "f33fb1fdbd6ee559": {
+      "title": "How the Clash Between Money and Safety Created a Monumental Crisis for AI",
+      "fetched_at": "2026-09-14T11:09:52.419076+00:00"
+    },
+    "93b6698af4533dac": {
+      "title": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
+      "fetched_at": "2026-09-14T11:09:53.042035+00:00"
+    },
+    "379e4d50a4891b0b": {
+      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+      "fetched_at": "2026-09-14T11:09:53.679916+00:00"
+    },
+    "dbc685b389e6d8ab": {
+      "title": "GPT-6 Astra solves puzzles",
+      "fetched_at": "2026-09-14T11:09:54.312276+00:00"
+    },
+    "0792d75b24c154b0": {
+      "title": "「贏了就是贏了」？Hyrox北京賽選手失禁奪冠為何引發爭議",
+      "fetched_at": "2026-09-14T11:09:56.175112+00:00"
+    },
+    "6875a1370b090446": {
+      "title": "協助死亡：世界各地法律有何不同",
+      "fetched_at": "2026-09-14T11:09:56.794388+00:00"
+    },
+    "fd06765348e8283b": {
+      "title": "人工智能踩「剎車」？特朗普：別忘了中美競爭",
+      "fetched_at": "2026-09-14T11:09:57.416305+00:00"
+    },
+    "d571303697c3dce5": {
+      "title": "印度试图减少进口中国商品，却为何越买越多？",
+      "fetched_at": "2026-09-14T11:09:58.064812+00:00"
+    },
+    "6faae4f1ed233255": {
+      "title": "美國大使館虐童圖片嫌犯 在接受警方訊問前 從英國飛抵美國",
+      "fetched_at": "2026-09-14T11:09:58.696660+00:00"
+    },
+    "a0d5ec3174f03532": {
+      "title": "面临中国威胁和经济困境，冲绳选出保守派知事",
+      "fetched_at": "2026-09-14T11:09:59.320091+00:00"
+    },
+    "eea31a4021c5d67c": {
+      "title": "“一种新的核武器”：微信蠕虫事件敲响中国AI安全警钟",
+      "fetched_at": "2026-09-14T11:09:59.948328+00:00"
+    },
+    "e1cc8b222c2bcf4b": {
+      "title": "中國修訂《國防動員法》 專家稱為建立「平戰快速轉換」制度",
+      "fetched_at": "2026-09-14T11:10:00.570460+00:00"
+    },
+    "059374373e65cd11": {
+      "title": "深入尼泊尔山洪灾区：毁灭、奇迹与悲痛",
+      "fetched_at": "2026-09-14T11:10:01.196484+00:00"
+    },
+    "09dfdfbd050045f9": {
+      "title": "Anthropic首席执行官呼吁放缓人工智能发展速度",
+      "fetched_at": "2026-09-14T11:10:01.821902+00:00"
+    },
+    "56088fe255f325ff": {
+      "title": "Ancestral commemorative head: A 500-year-old brass bust depicting an African king",
+      "fetched_at": "2026-09-14T11:10:06.113473+00:00"
+    },
+    "f9bb56dc684b2306": {
+      "title": "Does estrogen protect against dementia? And if so, who should take it?",
+      "fetched_at": "2026-09-14T11:10:06.757109+00:00"
+    },
+    "40453ec75a603fc9": {
+      "title": "A mysterious signal around Earth could be dark matter",
+      "fetched_at": "2026-09-14T11:10:07.410887+00:00"
+    },
+    "a1a0ecde615c717a": {
+      "title": "80,000-year-old “arrowheads” rewrite human history",
+      "fetched_at": "2026-09-14T11:10:08.032388+00:00"
     }
   },
-  "last_updated": "2026-09-14T02:11:00.016794+00:00"
+  "last_updated": "2026-09-14T11:10:08.164487+00:00"
 }
