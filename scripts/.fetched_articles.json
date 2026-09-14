@@ -1,117 +1,5 @@
 {
   "articles": {
-    "3a9bc61dd9be83f0": {
-      "title": "A directory of AI agents, MCP servers and agent skills, cross-linked",
-      "fetched_at": "2026-09-06T19:43:11.571787+00:00"
-    },
-    "256afbc8213c81e8": {
-      "title": "Cory Doctorow on the Big AI Lie [video]",
-      "fetched_at": "2026-09-06T19:43:12.142289+00:00"
-    },
-    "16d7484c57672b0e": {
-      "title": "The first AI-run ransomware attack copied its Bitcoin address out of a tutorial",
-      "fetched_at": "2026-09-06T19:43:12.726267+00:00"
-    },
-    "28145f1fd093a448": {
-      "title": "Security vulnerabilities of AI data centers flagged at intelligence hearing",
-      "fetched_at": "2026-09-06T19:43:13.302680+00:00"
-    },
-    "11390cc999f08f47": {
-      "title": "Public beta: a decision-governance runtime for AI agents",
-      "fetched_at": "2026-09-06T19:43:13.882064+00:00"
-    },
-    "c380d5b2c0455107": {
-      "title": "Show HN: Jhvtm(John Henry vs the Machine) – Real Stories of Human Ingenuity",
-      "fetched_at": "2026-09-06T19:43:14.485034+00:00"
-    },
-    "ef736d1e03f14f84": {
-      "title": "GPT-6 Astra is now available in Perplexity Computer",
-      "fetched_at": "2026-09-06T19:43:15.062285+00:00"
-    },
-    "50b92ccb56895dfa": {
-      "title": "ByteX: A Unified AI Search Engine at ByteDance",
-      "fetched_at": "2026-09-06T19:43:15.627844+00:00"
-    },
-    "981ba722433d02c7": {
-      "title": "Genesis Mission: AI and Quantum Computing for Scientific Discovery",
-      "fetched_at": "2026-09-06T19:43:16.196751+00:00"
-    },
-    "6128533fb0f589c7": {
-      "title": "Choosing a Framework Desktop for Local AI: 32GB, 64GB, and 128GB",
-      "fetched_at": "2026-09-06T19:43:16.774019+00:00"
-    },
-    "eecd70c0aa5b6205": {
-      "title": "MotionSites AI – Official Premium AI Website Prompts",
-      "fetched_at": "2026-09-06T19:43:17.353050+00:00"
-    },
-    "b81c0be0e0e4cdf7": {
-      "title": "Ask HN: How safe are our password managers in face of LLM cyber attacks?",
-      "fetched_at": "2026-09-06T19:43:17.935380+00:00"
-    },
-    "a9ac065f388b62bc": {
-      "title": "Washington Post says Piker used AI generated audio but admits it has no proof",
-      "fetched_at": "2026-09-06T19:43:18.503930+00:00"
-    },
-    "1d2cf9a8ca39d8cf": {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "fetched_at": "2026-09-06T19:43:19.075844+00:00"
-    },
-    "9560a0cc8bfeb3a8": {
-      "title": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
-      "fetched_at": "2026-09-06T19:43:19.642256+00:00"
-    },
-    "549eed3a50e68d56": {
-      "title": "AI Is Making Us Less Human",
-      "fetched_at": "2026-09-06T19:43:20.214500+00:00"
-    },
-    "3570b5c2b1b8fcde": {
-      "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
-      "fetched_at": "2026-09-06T19:43:20.781970+00:00"
-    },
-    "e5fabc35917ba60a": {
-      "title": "The AI Account Reseller Ecosystem",
-      "fetched_at": "2026-09-06T19:43:21.362995+00:00"
-    },
-    "1d5e5fad26a1eab4": {
-      "title": "Leverage Code Review for Sustainable AI Coding Development",
-      "fetched_at": "2026-09-06T19:43:21.931612+00:00"
-    },
-    "eb12bc978d88231b": {
-      "title": "The Coming Merging of Mind and Machine (2001)",
-      "fetched_at": "2026-09-06T19:43:22.510165+00:00"
-    },
-    "9d376011690970ef": {
-      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
-      "fetched_at": "2026-09-06T19:43:25.217451+00:00"
-    },
-    "d372a1c322ed67c1": {
-      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
-      "fetched_at": "2026-09-06T19:43:25.795255+00:00"
-    },
-    "21e4493b04c09596": {
-      "title": "AI's water use is a problem, but shifting from electricity to solar or wind power could help",
-      "fetched_at": "2026-09-06T19:43:43.413532+00:00"
-    },
-    "13232ad019ba3fb9": {
-      "title": "Ancient Egyptian tomb holding the king's 'keeper of secrets' unearthed at Saqqara",
-      "fetched_at": "2026-09-06T19:43:43.985583+00:00"
-    },
-    "5ed689580bc1c613": {
-      "title": "New kind of AI uses a fresh approach to reasoning —‬ researchers say it costs up to 11 times less to run than a leading OpenAI model",
-      "fetched_at": "2026-09-06T19:43:44.562609+00:00"
-    },
-    "2950b00a8f57dcdc": {
-      "title": "Does water drain in different directions in the Northern and Southern hemispheres?",
-      "fetched_at": "2026-09-06T19:43:45.138664+00:00"
-    },
-    "b56d672bf283c9a6": {
-      "title": "'It's kind of the holy grail of what is memory': Neuroscientist Steve Ramirez studies the physical basis of memory in a quest to manipulate it",
-      "fetched_at": "2026-09-06T19:43:45.703085+00:00"
-    },
-    "19b9f040845593b3": {
-      "title": "Australia’s red soil may be hiding a massive clean energy source",
-      "fetched_at": "2026-09-06T19:43:46.284481+00:00"
-    },
     "748d456155c6ba80": {
       "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
       "fetched_at": "2026-09-07T01:42:11.435204+00:00"
@@ -3515,7 +3403,91 @@
     "9ca87c5ac68efaae": {
       "title": "How small can a transistor get?",
       "fetched_at": "2026-09-14T17:11:39.972040+00:00"
+    },
+    "918d7edf86f78d4a": {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "fetched_at": "2026-09-14T21:08:20.708957+00:00"
+    },
+    "94dfda1e95c8e2fa": {
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "fetched_at": "2026-09-14T21:08:21.343160+00:00"
+    },
+    "6bde4887a61f66c8": {
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "fetched_at": "2026-09-14T21:08:21.946529+00:00"
+    },
+    "e97e7e9703b7c3d5": {
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-14T21:08:22.584234+00:00"
+    },
+    "e7a458a44e68d208": {
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-14T21:08:23.191398+00:00"
+    },
+    "ded9aa826397cd78": {
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "fetched_at": "2026-09-14T21:08:23.795136+00:00"
+    },
+    "5696db2f203461cb": {
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "fetched_at": "2026-09-14T21:08:24.426704+00:00"
+    },
+    "224318dfe8838083": {
+      "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+      "fetched_at": "2026-09-14T21:08:25.033256+00:00"
+    },
+    "e02c7a32e45aac99": {
+      "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+      "fetched_at": "2026-09-14T21:08:25.643236+00:00"
+    },
+    "bbfbec4c2d954b58": {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "fetched_at": "2026-09-14T21:08:26.241985+00:00"
+    },
+    "8d78c5eeb6b51da0": {
+      "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
+      "fetched_at": "2026-09-14T21:08:28.791362+00:00"
+    },
+    "2704454b4e83f30a": {
+      "title": "South American 'Pompeii': Volcanic eruption 22 million years ago preserved a snapshot of the Andes forming",
+      "fetched_at": "2026-09-14T21:08:30.921447+00:00"
+    },
+    "3a1d0ca6fdae2ac4": {
+      "title": "Show HN: Local historical wind and gust visualizer",
+      "fetched_at": "2026-09-14T21:08:31.524867+00:00"
+    },
+    "223237f3102a4d84": {
+      "title": "We now have an incredibly detailed map to help predict which areas of LA are the most at risk from 'The Big One'",
+      "fetched_at": "2026-09-14T21:08:32.131775+00:00"
+    },
+    "ae98bc3ceac8877e": {
+      "title": "Medieval Silver Hoard Found in Finland",
+      "fetched_at": "2026-09-14T21:08:32.736799+00:00"
+    },
+    "3b4d3d369daa481d": {
+      "title": "Ritual and Rationality: Some Problems of Interpretation in European Archaeology [pdf]",
+      "fetched_at": "2026-09-14T21:08:33.460348+00:00"
+    },
+    "f88d6f3cc42029d0": {
+      "title": "Roman Inscription Marks Lightning Strike at Hadrian’s Villa",
+      "fetched_at": "2026-09-14T21:08:34.069296+00:00"
+    },
+    "40cf378d5622232d": {
+      "title": "Denisovan Fossils and Possible Tools Uncovered in China",
+      "fetched_at": "2026-09-14T21:08:34.670205+00:00"
+    },
+    "8a837dbdbe588fc1": {
+      "title": "Show HN: Good News Digest – Daily stories of progress, kindness and discovery",
+      "fetched_at": "2026-09-14T21:08:35.281105+00:00"
+    },
+    "913582f15bedf6af": {
+      "title": "Stunning Roman-era mosaic discovered in Turkey features 'Emerald' the cat and 'Ocean' the dog",
+      "fetched_at": "2026-09-14T21:08:35.887551+00:00"
+    },
+    "b552ff0230dcc328": {
+      "title": "James Webb telescope finds one of our galaxy's rarest stars inside the 'Treasure Chest' globule — Space photo of the week",
+      "fetched_at": "2026-09-14T21:08:36.508357+00:00"
     }
   },
-  "last_updated": "2026-09-14T17:11:40.104136+00:00"
+  "last_updated": "2026-09-14T21:08:36.582560+00:00"
 }
