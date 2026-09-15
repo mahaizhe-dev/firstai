@@ -1,65 +1,5 @@
 {
   "articles": {
-    "efec713e2411be02": {
-      "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
-      "fetched_at": "2026-09-07T10:57:14.214054+00:00"
-    },
-    "4f5764c83671b41c": {
-      "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
-      "fetched_at": "2026-09-07T10:57:14.788283+00:00"
-    },
-    "6e522cf2b406884c": {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "fetched_at": "2026-09-07T10:57:15.365527+00:00"
-    },
-    "31e11052d3af7ad3": {
-      "title": "倫敦警察擬對在囚連環強姦犯鄒鎮豪起訴新罪",
-      "fetched_at": "2026-09-07T10:57:17.333031+00:00"
-    },
-    "ef58c232fe3b5b0a": {
-      "title": "美國特使穿梭俄烏：雙方分歧未解 澤連斯基料戰事持續到冬季",
-      "fetched_at": "2026-09-07T10:57:17.908182+00:00"
-    },
-    "1b3d2d1ff11608b6": {
-      "title": "印尼火山爆發，27萬旅客滯留機場",
-      "fetched_at": "2026-09-07T10:57:18.503132+00:00"
-    },
-    "60777422c6824f69": {
-      "title": "氣候變暖如何影響你的飛行旅程？",
-      "fetched_at": "2026-09-07T10:57:19.075928+00:00"
-    },
-    "f0959c9e20bb6644": {
-      "title": "美国企业界日渐青睐开放人工智能模型",
-      "fetched_at": "2026-09-07T10:57:19.656415+00:00"
-    },
-    "78adb10a9ae1dab0": {
-      "title": "一家被列入黑名单的中国科技巨头如何继续购买美国芯片",
-      "fetched_at": "2026-09-07T10:57:20.226497+00:00"
-    },
-    "c2c8de236b689715": {
-      "title": "德国极右翼政党在地方选举中取得关键胜利",
-      "fetched_at": "2026-09-07T10:57:20.805616+00:00"
-    },
-    "8ec9298abd61cc14": {
-      "title": "歐洲國家為何提走北美黃金儲備",
-      "fetched_at": "2026-09-07T10:57:21.374872+00:00"
-    },
-    "2be8866ec33d0cf6": {
-      "title": "如何拥有“超级老人”的大脑",
-      "fetched_at": "2026-09-07T10:57:21.953036+00:00"
-    },
-    "2490105a274588de": {
-      "title": "她从东京的一家精神病院改变了世界",
-      "fetched_at": "2026-09-07T10:57:22.558729+00:00"
-    },
-    "afad9f341592a139": {
-      "title": "Guldhøj folding chair: The only completely preserved chair from Bronze Age Europe",
-      "fetched_at": "2026-09-07T10:57:24.522354+00:00"
-    },
-    "4133f70fb784cb1a": {
-      "title": "Nevarro, newsletter discovery and management platform",
-      "fetched_at": "2026-09-07T10:57:25.098607+00:00"
-    },
     "d1c0fa29a31de674": {
       "title": "Sen. Kennedy rails against AI developers as 'high IQ stupid people'",
       "fetched_at": "2026-09-07T16:48:00.777956+00:00"
@@ -3611,7 +3551,151 @@
     "7ca35bc7019e1a72": {
       "title": "Popular brain supplement linked to shorter lifespan in men",
       "fetched_at": "2026-09-15T10:38:11.134838+00:00"
+    },
+    "7ab9e392bd8c60f6": {
+      "title": "Show HN: Voice AI that runs on CPUs",
+      "fetched_at": "2026-09-15T15:51:28.271400+00:00"
+    },
+    "29621e659d0ae667": {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "fetched_at": "2026-09-15T15:51:28.879168+00:00"
+    },
+    "ac40145376b7f00f": {
+      "title": "US Commerce Department ordered Kalshi to remove AI compute futures product",
+      "fetched_at": "2026-09-15T15:51:29.487239+00:00"
+    },
+    "7f1463c696261f0d": {
+      "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
+      "fetched_at": "2026-09-15T15:51:30.107398+00:00"
+    },
+    "ab0f43912dc639ea": {
+      "title": "Arguments for Rigorous AI Training Data Transparency",
+      "fetched_at": "2026-09-15T15:51:30.727867+00:00"
+    },
+    "6638ae2478477fe0": {
+      "title": "Axelera AI Launches Europa",
+      "fetched_at": "2026-09-15T15:51:31.361625+00:00"
+    },
+    "6aa8f199b4c34023": {
+      "title": "Open-source AI discussions outside the usual echo chambers",
+      "fetched_at": "2026-09-15T15:51:31.994131+00:00"
+    },
+    "212dc9888807df8c": {
+      "title": "Leadership Is the Last Line of Defence Against AI Mediocrity",
+      "fetched_at": "2026-09-15T15:51:32.600500+00:00"
+    },
+    "f5a28627fb3017a0": {
+      "title": "AI Doomsday",
+      "fetched_at": "2026-09-15T15:51:33.220757+00:00"
+    },
+    "a2a79aac23b26d28": {
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "fetched_at": "2026-09-15T15:51:33.834191+00:00"
+    },
+    "9e18fe5957f524df": {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "fetched_at": "2026-09-15T15:51:34.439349+00:00"
+    },
+    "158016929bf5b38b": {
+      "title": "Anti AI Clothing",
+      "fetched_at": "2026-09-15T15:51:35.078536+00:00"
+    },
+    "c2ecb7ae0820b1da": {
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "fetched_at": "2026-09-15T15:51:35.683980+00:00"
+    },
+    "4deabbee91a6b58e": {
+      "title": "Show HN: Visual HTML – a source-preserving WYSIWYG editor for AI-generated HTML",
+      "fetched_at": "2026-09-15T15:51:36.299570+00:00"
+    },
+    "43a3587f61865290": {
+      "title": "Existing laws apply to AI products",
+      "fetched_at": "2026-09-15T15:51:36.953630+00:00"
+    },
+    "371d0f9452ebe14e": {
+      "title": "Working on Plug and Play personal AI Memory that works across AI agents",
+      "fetched_at": "2026-09-15T15:51:37.578875+00:00"
+    },
+    "01a149118f539fe7": {
+      "title": "Building your first LLM API call in Python (step by step)",
+      "fetched_at": "2026-09-15T15:51:38.181093+00:00"
+    },
+    "123b4d006fcff2f0": {
+      "title": "Introduction to Machine Learning",
+      "fetched_at": "2026-09-15T15:51:38.805655+00:00"
+    },
+    "b92aeeba6a157e53": {
+      "title": "'Attacks will be fully autonomous': Russia, Ukraine race towards AI warfare",
+      "fetched_at": "2026-09-15T15:51:39.414530+00:00"
+    },
+    "684b9835ea8683ca": {
+      "title": "Is the AI Apocalypse for Real?",
+      "fetched_at": "2026-09-15T15:51:40.032479+00:00"
+    },
+    "8b6bbf7be695f978": {
+      "title": "《匹茲堡醫魂》拿走了六個艾美獎，它的忠粉都是真醫生",
+      "fetched_at": "2026-09-15T15:51:42.828810+00:00"
+    },
+    "c15600c8d3aa0ddb": {
+      "title": "美國首認部署太空武器 中國警告勿搞軍事競賽",
+      "fetched_at": "2026-09-15T15:51:43.432193+00:00"
+    },
+    "0e32b49f6a937493": {
+      "title": "AI巨頭前僱員：同業「真誠恐懼」人類滅絕，西方必須與中國協調",
+      "fetched_at": "2026-09-15T15:51:44.057438+00:00"
+    },
+    "eb2e79791c4d89c4": {
+      "title": "Did 'all roads lead to Rome'? New study finds other cities in the empire were better connected.",
+      "fetched_at": "2026-09-15T15:51:47.881800+00:00"
+    },
+    "546855493f1834e6": {
+      "title": "Fossils of iconic long-necked dinosaur Diplodocus found in Europe for first time — and it may have traveled there via land bridge",
+      "fetched_at": "2026-09-15T15:51:48.487697+00:00"
+    },
+    "bc18c7fd69f01d53": {
+      "title": "Smelling chocolate helped men complete more reps without feeling more tired",
+      "fetched_at": "2026-09-15T15:51:49.106057+00:00"
+    },
+    "7202a18422801c44": {
+      "title": "'That could push them over the edge': How climate change could fuel impulsive behavior",
+      "fetched_at": "2026-09-15T15:51:49.717244+00:00"
+    },
+    "f6b6864372de1255": {
+      "title": "Peculiar land bridge separates a pair of colorful lakes in Patagonia — Earth from space",
+      "fetched_at": "2026-09-15T15:51:50.328402+00:00"
+    },
+    "bfd3e0b3746139b9": {
+      "title": "This Australian cave hid 25,000 years of ritual secrets",
+      "fetched_at": "2026-09-15T15:51:50.932149+00:00"
+    },
+    "298772b3c0119ecb": {
+      "title": "Scientists discover a major brain shift between ages 50 and 75",
+      "fetched_at": "2026-09-15T15:51:51.531997+00:00"
+    },
+    "76a584db72a9bf50": {
+      "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
+      "fetched_at": "2026-09-15T15:51:52.133679+00:00"
+    },
+    "ebaee6e48535c2b2": {
+      "title": "The shape behind the Einstein problem just revealed strange new physics",
+      "fetched_at": "2026-09-15T15:51:52.753568+00:00"
+    },
+    "72c9901423ca99c9": {
+      "title": "Supermassive black hole winds are 100 times more powerful than scientists thought",
+      "fetched_at": "2026-09-15T15:51:53.375207+00:00"
+    },
+    "90d2ba122da2151b": {
+      "title": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
+      "fetched_at": "2026-09-15T15:51:53.981349+00:00"
+    },
+    "1abe4e04c80e40bc": {
+      "title": "Tiny cell “antennas” may help explain why some babies are born with heart defects",
+      "fetched_at": "2026-09-15T15:51:54.599152+00:00"
+    },
+    "0307351c60f6af1f": {
+      "title": "US military confirms weapons in orbit: Why a space 'arms race' could be extremely hard to stop",
+      "fetched_at": "2026-09-15T15:51:55.205262+00:00"
     }
   },
-  "last_updated": "2026-09-15T10:38:11.235338+00:00"
+  "last_updated": "2026-09-15T15:51:55.339307+00:00"
 }
