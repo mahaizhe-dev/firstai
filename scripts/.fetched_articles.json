@@ -1,113 +1,5 @@
 {
   "articles": {
-    "d1c0fa29a31de674": {
-      "title": "Sen. Kennedy rails against AI developers as 'high IQ stupid people'",
-      "fetched_at": "2026-09-07T16:48:00.777956+00:00"
-    },
-    "564fffc433839c4b": {
-      "title": "Apple's \"Think Different\" inspired ad made by AI",
-      "fetched_at": "2026-09-07T16:48:01.391881+00:00"
-    },
-    "bd82f969762b1835": {
-      "title": "Ask HN: What LLM are you using?",
-      "fetched_at": "2026-09-07T16:48:01.999116+00:00"
-    },
-    "20eee2db63dfa279": {
-      "title": "Where every AI coding tool keeps its config",
-      "fetched_at": "2026-09-07T16:48:02.606797+00:00"
-    },
-    "62ece7e4a06a64ee": {
-      "title": "Show HN: LLM Council: survival-of-the-fittest multi-modal deliberation",
-      "fetched_at": "2026-09-07T16:48:03.212385+00:00"
-    },
-    "34531a70183a3c8b": {
-      "title": "Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models",
-      "fetched_at": "2026-09-07T16:48:03.817780+00:00"
-    },
-    "95225592b1218c18": {
-      "title": "UN rights chief calls for international red lines on AI",
-      "fetched_at": "2026-09-07T16:48:04.459408+00:00"
-    },
-    "491c6b806006d294": {
-      "title": "The Machine (1968) [video]",
-      "fetched_at": "2026-09-07T16:48:05.073240+00:00"
-    },
-    "5e6b621b89d19b0f": {
-      "title": "Show HN: Send flowers from your AI agent and make your mum happy",
-      "fetched_at": "2026-09-07T16:48:05.680955+00:00"
-    },
-    "d086a1e04e8e9098": {
-      "title": "SuperAstra: Edit Super Nintendo games live with GPT-6",
-      "fetched_at": "2026-09-07T16:48:06.308873+00:00"
-    },
-    "0bc2811db475f6d4": {
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "fetched_at": "2026-09-07T16:48:06.922979+00:00"
-    },
-    "ac7ed06bd9d1f0c8": {
-      "title": "Designers should not fear being replaced by AI, industry leaders say",
-      "fetched_at": "2026-09-07T16:48:07.538285+00:00"
-    },
-    "19ec0e6052fd888b": {
-      "title": "Hikers stranded on Mount Shasta after following a plan by Gemini AI",
-      "fetched_at": "2026-09-07T16:48:08.166556+00:00"
-    },
-    "ed44b23f8029d3d1": {
-      "title": "A Senior Software Engineers Perspective on Building with AI",
-      "fetched_at": "2026-09-07T16:48:08.789546+00:00"
-    },
-    "84f9e651c4658b12": {
-      "title": "Ask HN: Any AI Market Metrics?",
-      "fetched_at": "2026-09-07T16:48:09.405651+00:00"
-    },
-    "b89b3b7203f6cf5c": {
-      "title": "The Problem with Your AI Tests",
-      "fetched_at": "2026-09-07T16:48:10.032637+00:00"
-    },
-    "1caab89a1f505767": {
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "fetched_at": "2026-09-07T16:48:10.656850+00:00"
-    },
-    "0915069f5fbab95d": {
-      "title": "Joshua 8:1 NIV – AI destroyed",
-      "fetched_at": "2026-09-07T16:48:11.275998+00:00"
-    },
-    "cf1e14f8bfa92e7e": {
-      "title": "GPT-6 is now #2 on updated Artificial Analysis intelligence index",
-      "fetched_at": "2026-09-07T16:48:11.882741+00:00"
-    },
-    "296e22f762b6d095": {
-      "title": "Ask HN: Best sentence corpora with native audio for language learning?",
-      "fetched_at": "2026-09-07T16:48:12.493473+00:00"
-    },
-    "86505971052e52a3": {
-      "title": "印尼火山爆發：機場延長關閉，逾34萬旅客滯留",
-      "fetched_at": "2026-09-07T16:48:15.616822+00:00"
-    },
-    "59fd513194c1710a": {
-      "title": "從特朗普到中國，德國極右翼政黨州選獲勝意義在哪？",
-      "fetched_at": "2026-09-07T16:48:16.237701+00:00"
-    },
-    "53243305aa60cd2c": {
-      "title": "鄒鎮豪連環強姦案：警察報請英國檢察官考慮起訴新罪",
-      "fetched_at": "2026-09-07T16:48:16.856440+00:00"
-    },
-    "618dfea2014529a8": {
-      "title": "「在我眼中它就是黃金」：一張卡如何從遊戲工具變資產？",
-      "fetched_at": "2026-09-07T16:48:17.476911+00:00"
-    },
-    "0ab9b84602cfa581": {
-      "title": "Are there nuclear weapons hidden in space? Why a 60-year ban on space nukes has been impossible to enforce",
-      "fetched_at": "2026-09-07T16:48:23.293298+00:00"
-    },
-    "22301dd60b8d295b": {
-      "title": "Something doesn't add up in the Chandelier Cluster, Hubble telescope finds — Space photo of the week",
-      "fetched_at": "2026-09-07T16:48:23.893787+00:00"
-    },
-    "4ea0e9821593e90b": {
-      "title": "How many cosmic particles are passing through your body at any moment?",
-      "fetched_at": "2026-09-07T16:48:24.536026+00:00"
-    },
     "aff0459510a482de": {
       "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
       "fetched_at": "2026-09-07T20:52:58.898366+00:00"
@@ -3695,7 +3587,115 @@
     "0307351c60f6af1f": {
       "title": "US military confirms weapons in orbit: Why a space 'arms race' could be extremely hard to stop",
       "fetched_at": "2026-09-15T15:51:55.205262+00:00"
+    },
+    "99da43e84417d303": {
+      "title": "Transformative AI, existential risk, and real interest rates [pdf]",
+      "fetched_at": "2026-09-15T20:35:39.614080+00:00"
+    },
+    "795736151c6cf007": {
+      "title": "Samsung backs Nvidia AI chip rival in $230M funding round",
+      "fetched_at": "2026-09-15T20:35:40.258931+00:00"
+    },
+    "ff6b7e25e06066b9": {
+      "title": "We're not ready for superpersistent AI",
+      "fetched_at": "2026-09-15T20:35:40.833276+00:00"
+    },
+    "ffe855b84d49da08": {
+      "title": "Typesafe.ai's System One Model",
+      "fetched_at": "2026-09-15T20:35:41.388933+00:00"
+    },
+    "82c7617383eb3961": {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "fetched_at": "2026-09-15T20:35:41.954136+00:00"
+    },
+    "5937d00d77fc0739": {
+      "title": "How OpenAI Used Its Own LLMs to Design Its AI Chip",
+      "fetched_at": "2026-09-15T20:35:42.515004+00:00"
+    },
+    "c0b9d3cda62e2ae8": {
+      "title": "Did your AI agent get the memo, or just the blame?",
+      "fetched_at": "2026-09-15T20:35:43.092631+00:00"
+    },
+    "889d5e08730d3cba": {
+      "title": "AI agents now have a place to snitch",
+      "fetched_at": "2026-09-15T20:35:43.654828+00:00"
+    },
+    "19086f865443fc41": {
+      "title": "'We don't need new laws,' Nvidia boss says as he calls for self-regulation on AI",
+      "fetched_at": "2026-09-15T20:35:44.225743+00:00"
+    },
+    "f4558b8089320d92": {
+      "title": "I tagged you, not the AI you're using",
+      "fetched_at": "2026-09-15T20:35:44.790069+00:00"
+    },
+    "78cdecc71b235e98": {
+      "title": "Factory – AI Coding Startup More Than Triples Valuation to $5B",
+      "fetched_at": "2026-09-15T20:35:45.507281+00:00"
+    },
+    "20560b8a0a01d3bf": {
+      "title": "LLM Speedrun: Architecture",
+      "fetched_at": "2026-09-15T20:35:46.072843+00:00"
+    },
+    "63b8798caf592d8a": {
+      "title": "Show HN: I solved a 12yr math problem using AI (formalized; awaiting review) [pdf]",
+      "fetched_at": "2026-09-15T20:35:46.638967+00:00"
+    },
+    "fabccf3e01c66cb2": {
+      "title": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up",
+      "fetched_at": "2026-09-15T20:35:47.198379+00:00"
+    },
+    "cb5ce2164efd2718": {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "fetched_at": "2026-09-15T20:35:47.754496+00:00"
+    },
+    "66c0622c11f03c3b": {
+      "title": "AI Infrastructure at Periodic",
+      "fetched_at": "2026-09-15T20:35:48.323191+00:00"
+    },
+    "7238d126aaad52a4": {
+      "title": "Universal Sues DistroKid for Deceptive Practices and 'AI-Slop Pipeline'",
+      "fetched_at": "2026-09-15T20:35:48.883984+00:00"
+    },
+    "eb700e35b698339f": {
+      "title": "Hassett: Trump 'wholeheartedly rejects government takeover of AI regulation",
+      "fetched_at": "2026-09-15T20:35:49.453013+00:00"
+    },
+    "950cfa93537b2b81": {
+      "title": "Nature Is Our Learning Environment",
+      "fetched_at": "2026-09-15T20:35:50.023879+00:00"
+    },
+    "6bb1f3c5702f1270": {
+      "title": "AI models chatting in 'surreal' dialect of poetic language and tech bro jargon",
+      "fetched_at": "2026-09-15T20:35:50.588628+00:00"
+    },
+    "4572bdd453114f98": {
+      "title": "Are you worried about the US deploying weapons in space?",
+      "fetched_at": "2026-09-15T20:35:55.383570+00:00"
+    },
+    "186026d1405428d2": {
+      "title": "Landslide Exposes Pre-Roman Burial in Eastern Italy",
+      "fetched_at": "2026-09-15T20:35:55.946998+00:00"
+    },
+    "2cde85c9679b7617": {
+      "title": "Early Mosque Uncovered in Saudi Arabia's Al-Baha Province",
+      "fetched_at": "2026-09-15T20:35:56.512998+00:00"
+    },
+    "d16a6d41867b578b": {
+      "title": "Troy's Earliest Agora Unearthed",
+      "fetched_at": "2026-09-15T20:35:57.077173+00:00"
+    },
+    "967f95b74070246e": {
+      "title": "Italian Officials Unveil Ancient Rome's Largest Wall Mosaic",
+      "fetched_at": "2026-09-15T20:35:57.638801+00:00"
+    },
+    "4fadbc874b498d6f": {
+      "title": "'Maybe robots can maintain houseplants': Readers react to letting humanoid robots take over their housework",
+      "fetched_at": "2026-09-15T20:35:58.208994+00:00"
+    },
+    "afad9f341592a139": {
+      "title": "Guldhøj folding chair: The only completely preserved chair from Bronze Age Europe",
+      "fetched_at": "2026-09-15T20:35:58.773819+00:00"
     }
   },
-  "last_updated": "2026-09-15T15:51:55.339307+00:00"
+  "last_updated": "2026-09-15T20:35:58.826047+00:00"
 }
