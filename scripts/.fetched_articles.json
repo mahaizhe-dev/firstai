@@ -1,113 +1,5 @@
 {
   "articles": {
-    "748d456155c6ba80": {
-      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-      "fetched_at": "2026-09-07T01:42:11.435204+00:00"
-    },
-    "33616b9029a1953d": {
-      "title": "AI Is Already Making Us Less Human",
-      "fetched_at": "2026-09-07T01:42:12.039068+00:00"
-    },
-    "4e8c49f6636aaff8": {
-      "title": "GPT-6 Astra beats portal [video]",
-      "fetched_at": "2026-09-07T01:42:12.644762+00:00"
-    },
-    "0281317798e62da2": {
-      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
-      "fetched_at": "2026-09-07T01:42:13.254711+00:00"
-    },
-    "3fc5962800b3bfbf": {
-      "title": "Prediction of maternal and infant outcomes with a Mother-Child AI agent",
-      "fetched_at": "2026-09-07T01:42:13.864992+00:00"
-    },
-    "bbf931f8759847f0": {
-      "title": "Pivot to AI safety, I beg you",
-      "fetched_at": "2026-09-07T01:42:14.469419+00:00"
-    },
-    "af62b738ebe46205": {
-      "title": "Genius AI Detector",
-      "fetched_at": "2026-09-07T01:42:15.082000+00:00"
-    },
-    "c87d992eb5bab078": {
-      "title": "I'm a father who studies the impact of AI: this is what parents need to know",
-      "fetched_at": "2026-09-07T01:42:15.701542+00:00"
-    },
-    "1c5ee2e0071cf6e7": {
-      "title": "Ask HN: What is your biggest struggle while learning?",
-      "fetched_at": "2026-09-07T01:42:16.302929+00:00"
-    },
-    "94bc90664dccca8f": {
-      "title": "Have the frontier labs mixed up AI safety and security?",
-      "fetched_at": "2026-09-07T01:42:16.926057+00:00"
-    },
-    "0ba2c26fa8037492": {
-      "title": "Show HN: CellularFlow – Continual-learning LLM using associative memory",
-      "fetched_at": "2026-09-07T01:42:17.526412+00:00"
-    },
-    "ee093df03da67faf": {
-      "title": "PortableMind – Offline AI on a USB",
-      "fetched_at": "2026-09-07T01:42:18.131602+00:00"
-    },
-    "5574eb344bfe2b6d": {
-      "title": "Show HN: Chrome-bridge – let any AI agent drive your real logged-in Chrome",
-      "fetched_at": "2026-09-07T01:42:18.731705+00:00"
-    },
-    "69c464d109d5694c": {
-      "title": "GOP issues stark warning to AI companies",
-      "fetched_at": "2026-09-07T01:42:19.329277+00:00"
-    },
-    "8853c1e81327b4c6": {
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3 Scored 99.95% with Provider Adapter Harness",
-      "fetched_at": "2026-09-07T01:42:19.929917+00:00"
-    },
-    "7a9b10a7a1769da5": {
-      "title": "'Model fatigue' sets in as AI labs race to roll out new versions",
-      "fetched_at": "2026-09-07T01:42:20.542899+00:00"
-    },
-    "918da43c2338f016": {
-      "title": "Emma: The GP's AI Receptionist doesn't understand Yorkshire or security",
-      "fetched_at": "2026-09-07T01:42:21.148968+00:00"
-    },
-    "02e518dd994104ab": {
-      "title": "All About IQ. Does AI Have an IQ?",
-      "fetched_at": "2026-09-07T01:42:21.758067+00:00"
-    },
-    "8a7e3dc5daa3072e": {
-      "title": "The AI Boom Is Coming for Your Gadgets",
-      "fetched_at": "2026-09-07T01:42:22.360795+00:00"
-    },
-    "eb4e3a908a560c86": {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "fetched_at": "2026-09-07T01:42:22.966824+00:00"
-    },
-    "9a927e39bddddb8c": {
-      "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
-      "fetched_at": "2026-09-07T01:42:25.384132+00:00"
-    },
-    "709c12e5362fdb60": {
-      "title": "歐洲國家接連提走北美黃金儲備所為何事",
-      "fetched_at": "2026-09-07T01:42:25.987154+00:00"
-    },
-    "31581d6f210e8d74": {
-      "title": "中国应届毕业生求职难：就业市场饱和叠加人工智能冲击",
-      "fetched_at": "2026-09-07T01:42:26.597059+00:00"
-    },
-    "7ca35bc7019e1a72": {
-      "title": "Popular brain supplement linked to shorter lifespan in men",
-      "fetched_at": "2026-09-07T01:42:29.073450+00:00"
-    },
-    "24931de53aa4f396": {
-      "title": "'Everything is connected': Readers share their concerns about extreme heat's health impacts",
-      "fetched_at": "2026-09-07T01:42:29.681332+00:00"
-    },
-    "9564f2b999fac212": {
-      "title": "Dogs may hold surprising clues to human longevity",
-      "fetched_at": "2026-09-07T01:42:30.283852+00:00"
-    },
-    "da7363a6e835b7ee": {
-      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
-      "fetched_at": "2026-09-07T01:42:30.871674+00:00"
-    },
     "efec713e2411be02": {
       "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
       "fetched_at": "2026-09-07T10:57:14.214054+00:00"
@@ -3487,7 +3379,123 @@
     "b552ff0230dcc328": {
       "title": "James Webb telescope finds one of our galaxy's rarest stars inside the 'Treasure Chest' globule — Space photo of the week",
       "fetched_at": "2026-09-14T21:08:36.508357+00:00"
+    },
+    "917b621c3dd0b37f": {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "fetched_at": "2026-09-15T02:17:12.077619+00:00"
+    },
+    "41efc50b69f79c23": {
+      "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+      "fetched_at": "2026-09-15T02:17:12.691527+00:00"
+    },
+    "81d1945dad2a91c3": {
+      "title": "Tacit Knowledge and AI",
+      "fetched_at": "2026-09-15T02:17:13.327381+00:00"
+    },
+    "20a1875fdc3ded42": {
+      "title": "NBC News Airs Interview with AI-Generated Actress",
+      "fetched_at": "2026-09-15T02:17:13.975728+00:00"
+    },
+    "022eff71abbd1e7f": {
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "fetched_at": "2026-09-15T02:17:14.606422+00:00"
+    },
+    "53b1c8b190b01b16": {
+      "title": "Prosecutors say man used AI to 'scrape' court website, asked it for legal help",
+      "fetched_at": "2026-09-15T02:17:15.275489+00:00"
+    },
+    "3866bd545f9784a9": {
+      "title": "AI, Redistribution, and the Size of the Pie",
+      "fetched_at": "2026-09-15T02:17:15.905409+00:00"
+    },
+    "638f090dbd5b7dc4": {
+      "title": "AI Agent Wallet Offboarding Checklist",
+      "fetched_at": "2026-09-15T02:17:16.550660+00:00"
+    },
+    "21035570a460d57c": {
+      "title": "Sanders proposes 20-year prison sentences for superintelligence AI developers",
+      "fetched_at": "2026-09-15T02:17:17.171400+00:00"
+    },
+    "9565687c02e7a7dc": {
+      "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
+      "fetched_at": "2026-09-15T02:17:17.808505+00:00"
+    },
+    "3e442ec4abc8b28d": {
+      "title": "Sloppy Joe's – The era of AI signage",
+      "fetched_at": "2026-09-15T02:17:18.422716+00:00"
+    },
+    "d5325421def2465f": {
+      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+      "fetched_at": "2026-09-15T02:17:19.032842+00:00"
+    },
+    "f5904371662f45d2": {
+      "title": "Personal Statement on AI Risk",
+      "fetched_at": "2026-09-15T02:17:19.672044+00:00"
+    },
+    "510207638ea67ae7": {
+      "title": "Dan Selsam's Personal Statement on AI Risk",
+      "fetched_at": "2026-09-15T02:17:20.292937+00:00"
+    },
+    "84e517f6cce5307d": {
+      "title": "Open-source Python framework for AI agents, workflows, and automations",
+      "fetched_at": "2026-09-15T02:17:20.912520+00:00"
+    },
+    "7e9c8b452caf05c0": {
+      "title": "AI Can Be Used for Cognitive Warfare",
+      "fetched_at": "2026-09-15T02:17:21.573785+00:00"
+    },
+    "6628522ef36df517": {
+      "title": "We Are All Going to Die (Just Not Necessarily Because of AI)",
+      "fetched_at": "2026-09-15T02:17:22.194680+00:00"
+    },
+    "47a203ff8c3f91d8": {
+      "title": "Hands-On Learning in the Age of AI",
+      "fetched_at": "2026-09-15T02:17:22.824976+00:00"
+    },
+    "79a3929203930284": {
+      "title": "Ask HN: The amount of AI bot traffic is out control?",
+      "fetched_at": "2026-09-15T02:17:23.481721+00:00"
+    },
+    "9c8a1e6516a08772": {
+      "title": "Deep Learning for Cosmetics (2018)",
+      "fetched_at": "2026-09-15T02:17:24.096492+00:00"
+    },
+    "444a659ec3db06b2": {
+      "title": "特朗普斥AI安全担忧为“骗局”，无意加强监管",
+      "fetched_at": "2026-09-15T02:17:26.902642+00:00"
+    },
+    "b4828a224b6efa17": {
+      "title": "中国国安部长：人工智能可能对中共执政构成直接威胁",
+      "fetched_at": "2026-09-15T02:17:27.541670+00:00"
+    },
+    "0ed26e46ad4d8375": {
+      "title": "喜馬拉雅山冰川融化加速，印度經濟面臨什麼風險？",
+      "fetched_at": "2026-09-15T02:17:28.180678+00:00"
+    },
+    "ec6267d2bf786d42": {
+      "title": "星宇股份解約風波：107名應屆生「告洋狀」揭示中國勞工維權現狀",
+      "fetched_at": "2026-09-15T02:17:28.806431+00:00"
+    },
+    "9d376011690970ef": {
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "fetched_at": "2026-09-15T02:17:29.468674+00:00"
+    },
+    "d372a1c322ed67c1": {
+      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
+      "fetched_at": "2026-09-15T02:17:30.097692+00:00"
+    },
+    "e0d2302ea3a70c83": {
+      "title": "Black Figs Excavated at Neolithic Site in Northwestern Turkey",
+      "fetched_at": "2026-09-15T02:17:32.737484+00:00"
+    },
+    "21e4493b04c09596": {
+      "title": "AI's water use is a problem, but shifting from electricity to solar or wind power could help",
+      "fetched_at": "2026-09-15T02:17:33.355139+00:00"
+    },
+    "13232ad019ba3fb9": {
+      "title": "Ancient Egyptian tomb holding the king's 'keeper of secrets' unearthed at Saqqara",
+      "fetched_at": "2026-09-15T02:17:33.987998+00:00"
     }
   },
-  "last_updated": "2026-09-14T21:08:36.582560+00:00"
+  "last_updated": "2026-09-15T02:17:34.049510+00:00"
 }
