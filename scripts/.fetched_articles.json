@@ -1,217 +1,5 @@
 {
   "articles": {
-    "aff0459510a482de": {
-      "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
-      "fetched_at": "2026-09-07T20:52:58.898366+00:00"
-    },
-    "03c4686c4ce653e2": {
-      "title": "Teaching Prevents Learning",
-      "fetched_at": "2026-09-07T20:52:58.898434+00:00"
-    },
-    "1c22f8eae2d4c57e": {
-      "title": "Peer-to-peer LLM inference in browser tabs, Qwen 3.8 27B",
-      "fetched_at": "2026-09-07T20:52:59.485058+00:00"
-    },
-    "0fa206f3235cdb10": {
-      "title": "Code Reviews in the Age of AI",
-      "fetched_at": "2026-09-07T20:53:00.056153+00:00"
-    },
-    "d4e299fa18045ada": {
-      "title": "El Yayster – a resident LLM that inhabits Emacs",
-      "fetched_at": "2026-09-07T20:53:00.640782+00:00"
-    },
-    "6cfd8af8bccb3169": {
-      "title": "Revise AI, an AI editor for fiction writers",
-      "fetched_at": "2026-09-07T20:53:01.219557+00:00"
-    },
-    "067ff888ad82cd14": {
-      "title": "An AI agent bought a physical t-shirt over HTTP 402 with USDC, no human involved",
-      "fetched_at": "2026-09-07T20:53:01.796793+00:00"
-    },
-    "6a59c98769d4d8e0": {
-      "title": "Turning Quick Notes into Long-Term AI Memory",
-      "fetched_at": "2026-09-07T20:53:02.384134+00:00"
-    },
-    "33bfb378469e845b": {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "fetched_at": "2026-09-07T20:53:02.971077+00:00"
-    },
-    "1c545cd250f08cbc": {
-      "title": "AI Cold Showers",
-      "fetched_at": "2026-09-07T20:53:03.556392+00:00"
-    },
-    "f937a96fccf40b56": {
-      "title": "Botsitting: The Unpaid Labour Behind Every AI Productivity Claim",
-      "fetched_at": "2026-09-07T20:53:04.133925+00:00"
-    },
-    "d4a73ffa374ed9c9": {
-      "title": "Secret Collusion Among AI Agents",
-      "fetched_at": "2026-09-07T20:53:04.722900+00:00"
-    },
-    "85db256189b4857a": {
-      "title": "The Foundations of Modern AI: Generalization, Data Selection, and Epiplexity",
-      "fetched_at": "2026-09-07T20:53:05.310825+00:00"
-    },
-    "2e233e145a7d7376": {
-      "title": "Ask HN: How do you know a prompt is \"complex\" for an AI model?",
-      "fetched_at": "2026-09-07T20:53:05.897368+00:00"
-    },
-    "fe2d4690f1e72e0b": {
-      "title": "The AI Shift Turning Everyday Investors into Mini Quant Funds",
-      "fetched_at": "2026-09-07T20:53:06.483361+00:00"
-    },
-    "64494d5314f0c780": {
-      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-      "fetched_at": "2026-09-07T20:53:07.067285+00:00"
-    },
-    "4b5bf2d8152de24d": {
-      "title": "Show HN: Can you tell a real tweet of a certain user from an AI one?",
-      "fetched_at": "2026-09-07T20:53:07.643987+00:00"
-    },
-    "2072f77b99674cc1": {
-      "title": "Adobe ends an 18-year era as AI pressure mounts",
-      "fetched_at": "2026-09-07T20:53:08.219583+00:00"
-    },
-    "c456dc789ae86f66": {
-      "title": "Show HN: See why Google and AI ignore your site and how to fix it",
-      "fetched_at": "2026-09-07T20:53:08.801796+00:00"
-    },
-    "b274526f747676b2": {
-      "title": "Arguments in Favor of AI Fair Use",
-      "fetched_at": "2026-09-07T20:53:09.398648+00:00"
-    },
-    "5501a7b2e44fbca4": {
-      "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
-      "fetched_at": "2026-09-07T20:53:12.286384+00:00"
-    },
-    "197639c71ddeb8b1": {
-      "title": "An amusement park on Mount Vernon? The agency tasked to protect cultural heritage just abdicated its responsibilities, opening the door for federal agencies to wipe out our past",
-      "fetched_at": "2026-09-07T20:53:14.409407+00:00"
-    },
-    "9e99444a35dcbaef": {
-      "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
-      "fetched_at": "2026-09-07T20:53:15.016662+00:00"
-    },
-    "39a560ccd356f63b": {
-      "title": "This strange “spacetime crystal” can suddenly become a black hole",
-      "fetched_at": "2026-09-07T20:53:15.601795+00:00"
-    },
-    "9004263fc9208701": {
-      "title": "HEPA air purifiers may boost brain function after just one month",
-      "fetched_at": "2026-09-07T20:53:16.183971+00:00"
-    },
-    "474bf9695a2034a2": {
-      "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
-      "fetched_at": "2026-09-07T20:53:16.771500+00:00"
-    },
-    "9fdaae46f1b8c9bc": {
-      "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
-      "fetched_at": "2026-09-07T20:53:17.349098+00:00"
-    },
-    "b4a5616142e9ef82": {
-      "title": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
-      "fetched_at": "2026-09-07T20:53:17.930383+00:00"
-    },
-    "4288fd226dc27cd3": {
-      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-      "fetched_at": "2026-09-07T20:53:18.508140+00:00"
-    },
-    "97660c56157d0c0e": {
-      "title": "The next Cascadia megaquake could hit Oregon harder than expected",
-      "fetched_at": "2026-09-07T20:53:19.093118+00:00"
-    },
-    "419194be1716fc10": {
-      "title": "LLM Guided Evolution for Circle Packing: Breaking 10 Packomania Records for $28",
-      "fetched_at": "2026-09-08T01:53:36.085276+00:00"
-    },
-    "eef008fda485b562": {
-      "title": "We put an LLM in a PostgreSQL analyzer, then stopped letting it decide truth",
-      "fetched_at": "2026-09-08T01:53:36.707643+00:00"
-    },
-    "c040507e334776c1": {
-      "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
-      "fetched_at": "2026-09-08T01:53:37.325441+00:00"
-    },
-    "e264cde8ae5340d8": {
-      "title": "Anthropic AI 'formalizes' proof of Fermat's last theorem in just 11 days",
-      "fetched_at": "2026-09-08T01:53:37.952019+00:00"
-    },
-    "4803910cccc8fb2c": {
-      "title": "Made this math/physics learning website, would love some feedback",
-      "fetched_at": "2026-09-08T01:53:38.588875+00:00"
-    },
-    "fde3549b37153432": {
-      "title": "Secure temporary file sharing for AI agents and humans",
-      "fetched_at": "2026-09-08T01:53:39.206772+00:00"
-    },
-    "590ff4a16c9ead40": {
-      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
-      "fetched_at": "2026-09-08T01:53:39.849396+00:00"
-    },
-    "d9eca404f75802a5": {
-      "title": "Meta's AI Crawler Crashing My DB, and What I Did About It",
-      "fetched_at": "2026-09-08T01:53:40.470332+00:00"
-    },
-    "16b4d8000d2ecb16": {
-      "title": "Cloudflare hid my site from AI. I sell AI visibility",
-      "fetched_at": "2026-09-08T01:53:41.106160+00:00"
-    },
-    "3b0b1a096120b93b": {
-      "title": "Quire – humans and AI agents editing local Markdown together",
-      "fetched_at": "2026-09-08T01:53:41.735204+00:00"
-    },
-    "11abd858bf0eb54a": {
-      "title": "Lightpanda Session Bridge – Hand real logins to headless AI agents",
-      "fetched_at": "2026-09-08T01:53:42.366846+00:00"
-    },
-    "528eaae6f7bfac43": {
-      "title": "The Better You Are at Programming, the Worse AI Looks [video]",
-      "fetched_at": "2026-09-08T01:53:43.003836+00:00"
-    },
-    "19cdb143552bfd33": {
-      "title": "Australian government to chart course away from 'American war machine'",
-      "fetched_at": "2026-09-08T01:53:43.629037+00:00"
-    },
-    "f3b8452b002d6c08": {
-      "title": "Actually Real AI",
-      "fetched_at": "2026-09-08T01:53:44.250874+00:00"
-    },
-    "5140f0fdeb4f7067": {
-      "title": "DoodleIQ – Rent your idle local-LLM machine to others by the second",
-      "fetched_at": "2026-09-08T01:53:44.879739+00:00"
-    },
-    "0652b02d4019b10d": {
-      "title": "Please, take 2 min to tell your representative to regulate AI (US)",
-      "fetched_at": "2026-09-08T01:53:45.488148+00:00"
-    },
-    "066dd5bc39ac5eae": {
-      "title": "The smallest edge AI device for local LLMs",
-      "fetched_at": "2026-09-08T01:53:46.112470+00:00"
-    },
-    "744ed5b3a0d6679a": {
-      "title": "派评｜近期值得关注的 App",
-      "fetched_at": "2026-09-08T01:53:46.732986+00:00"
-    },
-    "73ff7c0797d7223a": {
-      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "fetched_at": "2026-09-08T01:53:47.370127+00:00"
-    },
-    "e61c28f74da3b5ab": {
-      "title": "偏頭痛女性比男性慘痛太多 這裏舒緩有方",
-      "fetched_at": "2026-09-08T01:53:50.575296+00:00"
-    },
-    "5a53d3080797a607": {
-      "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
-      "fetched_at": "2026-09-08T01:53:51.207618+00:00"
-    },
-    "52a5f59edc16c05d": {
-      "title": "悲观、沮丧与黑色幽默：中国社交媒体上的“负能量”",
-      "fetched_at": "2026-09-08T01:53:51.827684+00:00"
-    },
-    "8c62393c33b1a698": {
-      "title": "Ancient cave art suggests first known humans in Ireland walked over from Wales",
-      "fetched_at": "2026-09-08T01:53:54.205105+00:00"
-    },
     "8d8439f46903d1db": {
       "title": "Vaenyx – A personal AI app for family",
       "fetched_at": "2026-09-08T10:13:50.781935+00:00"
@@ -3695,7 +3483,119 @@
     "afad9f341592a139": {
       "title": "Guldhøj folding chair: The only completely preserved chair from Bronze Age Europe",
       "fetched_at": "2026-09-15T20:35:58.773819+00:00"
+    },
+    "4a88c3b3ae0e67c5": {
+      "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
+      "fetched_at": "2026-09-16T02:10:23.842548+00:00"
+    },
+    "52d79274de20e619": {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "fetched_at": "2026-09-16T02:10:24.558518+00:00"
+    },
+    "053e6f78f5ac5a3f": {
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "fetched_at": "2026-09-16T02:10:25.178102+00:00"
+    },
+    "a853a70bb77650c4": {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "fetched_at": "2026-09-16T02:10:25.817818+00:00"
+    },
+    "8668135939285350": {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "fetched_at": "2026-09-16T02:10:26.452427+00:00"
+    },
+    "292dbda225abc2e9": {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "fetched_at": "2026-09-16T02:10:27.075293+00:00"
+    },
+    "942f797e2d05a7bf": {
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "fetched_at": "2026-09-16T02:10:27.694784+00:00"
+    },
+    "51ae8814af71e908": {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "fetched_at": "2026-09-16T02:10:28.346456+00:00"
+    },
+    "9cd8896647ff148c": {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-16T02:10:28.968197+00:00"
+    },
+    "00651caa96f80da1": {
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-16T02:10:29.605219+00:00"
+    },
+    "7cadb111c334edec": {
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "fetched_at": "2026-09-16T02:10:30.221211+00:00"
+    },
+    "43e03fd81a83f2a9": {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "fetched_at": "2026-09-16T02:10:30.933017+00:00"
+    },
+    "373893c6be7c5b5c": {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "fetched_at": "2026-09-16T02:10:31.557987+00:00"
+    },
+    "edbba3e57e47bfc2": {
+      "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
+      "fetched_at": "2026-09-16T02:10:32.190749+00:00"
+    },
+    "58849fd24f792cfe": {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "fetched_at": "2026-09-16T02:10:32.190917+00:00"
+    },
+    "e51ce0e67367f2c3": {
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "fetched_at": "2026-09-16T02:10:32.850540+00:00"
+    },
+    "9ca1a76ddc3d34de": {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "fetched_at": "2026-09-16T02:10:33.476684+00:00"
+    },
+    "335334a34309b017": {
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "fetched_at": "2026-09-16T02:10:34.096799+00:00"
+    },
+    "6872308625d879e4": {
+      "title": "美国司法部称两家中国公司利用必安帮助伊朗洗钱",
+      "fetched_at": "2026-09-16T02:10:36.706450+00:00"
+    },
+    "9c63ded71680dd47": {
+      "title": "泰国啤酒豪门丑闻：弟弟指控哥哥性侵，家族试图“封口”",
+      "fetched_at": "2026-09-16T02:10:37.329048+00:00"
+    },
+    "de6dd35ab1cb05b9": {
+      "title": "「我接受了11年化療，卻發現從未患癌」",
+      "fetched_at": "2026-09-16T02:10:37.945154+00:00"
+    },
+    "608cee16581dc2e9": {
+      "title": "「九月重啟」：你如何也能在此時建立新日常習慣？",
+      "fetched_at": "2026-09-16T02:10:38.588428+00:00"
+    },
+    "3227ca586bac985a": {
+      "title": "Ancient DNA reveals the surprising Arctic life of extinct North American cat",
+      "fetched_at": "2026-09-16T02:11:16.740436+00:00"
+    },
+    "80db59ad7f6d7ca9": {
+      "title": "Strange 'centaur' object between Saturn and Uranus has mysterious, changing rings, James Webb telescope study hints",
+      "fetched_at": "2026-09-16T02:11:17.368212+00:00"
+    },
+    "f17ed5f9f70cd781": {
+      "title": "Postgres development activity historical statistics and trends",
+      "fetched_at": "2026-09-16T02:11:17.977446+00:00"
+    },
+    "0ad1ff9088f0965b": {
+      "title": "We're not about to awaken an evil digital god — AI is far more likely to end in a great disappointment",
+      "fetched_at": "2026-09-16T02:11:18.597343+00:00"
+    },
+    "eb7b9714a2445ba4": {
+      "title": "Europe Does Not Have a Software Problem. It Has a Discovery Problem",
+      "fetched_at": "2026-09-16T02:11:19.226483+00:00"
+    },
+    "44bc61a00b9d5fe1": {
+      "title": "Solving Ancient Ciphers with Claude",
+      "fetched_at": "2026-09-16T02:11:19.872658+00:00"
     }
   },
-  "last_updated": "2026-09-15T20:35:58.826047+00:00"
+  "last_updated": "2026-09-16T02:11:20.005770+00:00"
 }
