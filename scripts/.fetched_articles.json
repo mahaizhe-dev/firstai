@@ -1,133 +1,5 @@
 {
   "articles": {
-    "6a6b88e6c3a284b3": {
-      "title": "How long before a real crackdown on AI model decensoring?",
-      "fetched_at": "2026-09-08T20:25:57.335592+00:00"
-    },
-    "a8b90ace4a4ca042": {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "fetched_at": "2026-09-08T20:25:57.945466+00:00"
-    },
-    "78fa0dfab08db7ba": {
-      "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
-      "fetched_at": "2026-09-08T20:25:58.579678+00:00"
-    },
-    "2deaea3bb23667a6": {
-      "title": "Show HN: Eliminating text looping/latent collapse in LLM activation steering",
-      "fetched_at": "2026-09-08T20:25:59.208416+00:00"
-    },
-    "39d9a36385508f5b": {
-      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads",
-      "fetched_at": "2026-09-08T20:25:59.822433+00:00"
-    },
-    "2d40b4ad71b0ecf3": {
-      "title": "The AI Bill of Materials Is an Operational Record",
-      "fetched_at": "2026-09-08T20:26:00.530987+00:00"
-    },
-    "1d7c721896d2f154": {
-      "title": "Show HN: PortraitDesk – A headshot tool that doesn't look like AI slop",
-      "fetched_at": "2026-09-08T20:26:01.158448+00:00"
-    },
-    "950e30a99b0968bd": {
-      "title": "Muse AI",
-      "fetched_at": "2026-09-08T20:26:01.771889+00:00"
-    },
-    "7909c473fe19f768": {
-      "title": "Show HN: Remarc – better contextual feedback for AI agents",
-      "fetched_at": "2026-09-08T20:26:02.396567+00:00"
-    },
-    "b5646b81d80e9d62": {
-      "title": "No Doing, No Learning",
-      "fetched_at": "2026-09-08T20:26:03.021883+00:00"
-    },
-    "c28b06ceb0d5d684": {
-      "title": "Meta Introduces Muse, an AI Agent That Can Send Your Emails and Book Your Travel",
-      "fetched_at": "2026-09-08T20:26:03.629122+00:00"
-    },
-    "a16d62f6d5be8c70": {
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
-      "fetched_at": "2026-09-08T20:26:04.242449+00:00"
-    },
-    "ecca9ec7f591042e": {
-      "title": "Drawing the Line on AI – Bluesky Thread",
-      "fetched_at": "2026-09-08T20:26:04.867625+00:00"
-    },
-    "43de69c804ad50ba": {
-      "title": "Muse by Meta: The First Personal AI Agent Built for Everyone",
-      "fetched_at": "2026-09-08T20:26:05.478679+00:00"
-    },
-    "925d13be29276ee5": {
-      "title": "Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs",
-      "fetched_at": "2026-09-08T20:26:06.102063+00:00"
-    },
-    "958aa369ec0231a3": {
-      "title": "Muse, your personal AI agent from Meta",
-      "fetched_at": "2026-09-08T20:26:06.725487+00:00"
-    },
-    "e8dfa8172ee6f0c4": {
-      "title": "The complex corporate web behind a $3.2B AI data center",
-      "fetched_at": "2026-09-08T20:26:07.363174+00:00"
-    },
-    "e6adf78f8238f4ec": {
-      "title": "China targets fourfold boost in AI computing capacity by 2030 in major tech push",
-      "fetched_at": "2026-09-08T20:26:07.979245+00:00"
-    },
-    "0619589c835461d6": {
-      "title": "Muse, your personal AI agent.",
-      "fetched_at": "2026-09-08T20:26:08.601176+00:00"
-    },
-    "da7057f620490fe4": {
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "fetched_at": "2026-09-08T20:26:09.224111+00:00"
-    },
-    "454d48acb3206bf3": {
-      "title": "董建華：從「船王」之子到香港首任行政長官",
-      "fetched_at": "2026-09-08T20:26:11.335286+00:00"
-    },
-    "25369701b381a922": {
-      "title": "董建華逝世：從船王富二代到香港首任特首",
-      "fetched_at": "2026-09-08T20:26:11.941430+00:00"
-    },
-    "57075bf3e5573bc7": {
-      "title": "Paleolithic Child’s Teeth Reexamined",
-      "fetched_at": "2026-09-08T20:26:13.770469+00:00"
-    },
-    "e26419a278807673": {
-      "title": "​​If AI thinks it's conscious, it's more likely to believe in vampires, karma and ghosts, new study shows. What does it mean for how we use it?",
-      "fetched_at": "2026-09-08T20:26:14.395775+00:00"
-    },
-    "15c4e040c2dbbdf2": {
-      "title": "Lavish Roman Bath Excavated in Eastern Serbia",
-      "fetched_at": "2026-09-08T20:26:15.014478+00:00"
-    },
-    "474b8dd077e50827": {
-      "title": "Bronze Age Game Board and Comb Uncovered in Iran’s Burnt City",
-      "fetched_at": "2026-09-08T20:26:15.625428+00:00"
-    },
-    "3e7e2859c3abb164": {
-      "title": "Where on Earth is safest from global catastrophe?",
-      "fetched_at": "2026-09-08T20:26:16.321526+00:00"
-    },
-    "1a50b7fa4bae7242": {
-      "title": "Arctic warming fuels 2 distinct climate regimes in Siberia that could wake up a methane 'sleeping giant'",
-      "fetched_at": "2026-09-08T20:26:16.943823+00:00"
-    },
-    "3364b48270cf8aae": {
-      "title": "Scientists build tiny robots without motors that can fly using sound waves alone",
-      "fetched_at": "2026-09-08T20:26:17.567606+00:00"
-    },
-    "8bc2b762ecdb7600": {
-      "title": "Crown of Kerch: A 1,600-year-old gold, gem-studded diadem found in the grave of a Hun noblewoman",
-      "fetched_at": "2026-09-08T20:26:18.186428+00:00"
-    },
-    "3f873d6d4808c15e": {
-      "title": "Planting crops in fields of solar panels is more efficient, protects the plants and helps keep workers cool, study finds",
-      "fetched_at": "2026-09-08T20:26:18.798573+00:00"
-    },
-    "9feb47f468e5cfdd": {
-      "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
-      "fetched_at": "2026-09-08T20:26:19.427873+00:00"
-    },
     "4365877bf6f9d1c3": {
       "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
       "fetched_at": "2026-09-09T01:59:06.512351+00:00"
@@ -3583,7 +3455,107 @@
     "2c4797b7ad0aeff8": {
       "title": "James Webb reveals Chariklo’s mysterious rings are changing faster than expected",
       "fetched_at": "2026-09-16T15:44:16.487092+00:00"
+    },
+    "4c9199b02d95cccc": {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "fetched_at": "2026-09-16T20:34:57.439401+00:00"
+    },
+    "7211d2f61ef13310": {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "fetched_at": "2026-09-16T20:34:58.102362+00:00"
+    },
+    "bae2be34b176d7d6": {
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "fetched_at": "2026-09-16T20:34:58.693725+00:00"
+    },
+    "beb30bbdc7b7fd04": {
+      "title": "Google will now let any AI agent run your smart home",
+      "fetched_at": "2026-09-16T20:34:59.282378+00:00"
+    },
+    "2486d6e48d38d4e6": {
+      "title": "Your AI agents can now control your Google Home devices",
+      "fetched_at": "2026-09-16T20:34:59.859538+00:00"
+    },
+    "ccbcb6247d8e5f2c": {
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "fetched_at": "2026-09-16T20:35:00.447258+00:00"
+    },
+    "0a685567bc01afec": {
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "fetched_at": "2026-09-16T20:35:01.041148+00:00"
+    },
+    "247cb70d68b1ff6c": {
+      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "fetched_at": "2026-09-16T20:35:01.624737+00:00"
+    },
+    "a1f11c6af1066226": {
+      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-16T20:35:02.215694+00:00"
+    },
+    "a78d3cf2680e4425": {
+      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+      "fetched_at": "2026-09-16T20:35:02.798646+00:00"
+    },
+    "42078110b14d697f": {
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "fetched_at": "2026-09-16T20:35:03.380328+00:00"
+    },
+    "2adec7a8444f56ee": {
+      "title": "A brief history of AI executives calling for regulation",
+      "fetched_at": "2026-09-16T20:35:03.969803+00:00"
+    },
+    "e468b2cdd83371b2": {
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "fetched_at": "2026-09-16T20:35:04.633019+00:00"
+    },
+    "18284f5a0e506e85": {
+      "title": "探秘柬埔寨，千年吴哥窟",
+      "fetched_at": "2026-09-16T20:35:05.223893+00:00"
+    },
+    "f4383645046cc7ef": {
+      "title": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
+      "fetched_at": "2026-09-16T20:35:05.805347+00:00"
+    },
+    "bc074af867bd1fae": {
+      "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
+      "fetched_at": "2026-09-16T20:35:06.395896+00:00"
+    },
+    "6a30a79c5bc90dca": {
+      "title": "美國稱數十國助中國避特朗普關稅",
+      "fetched_at": "2026-09-16T20:35:10.378321+00:00"
+    },
+    "d5486fe52d0023b5": {
+      "title": "1,700-year-old fragment of the 'Odyssey' discovered between pages of Dutch library book",
+      "fetched_at": "2026-09-16T20:35:44.412052+00:00"
+    },
+    "b30d3808769d451c": {
+      "title": "Phoenicians Brought First Cultivated Grapevines to Iberia",
+      "fetched_at": "2026-09-16T20:35:44.999208+00:00"
+    },
+    "a4b3a90d9d3978bc": {
+      "title": "New trick could reveal text on 2,000-year-old scrolls charred by eruption of Mount Vesuvius",
+      "fetched_at": "2026-09-16T20:35:45.581207+00:00"
+    },
+    "a2685fb7f5ea7deb": {
+      "title": "Scientists finally figured out the temperature of T. rex's blood ‪— and it was as hot as ours",
+      "fetched_at": "2026-09-16T20:35:46.174026+00:00"
+    },
+    "ae6bcbe6109c5578": {
+      "title": "Humans and Tasmanian Devils Coexisted Millennia Ago in Western Australia",
+      "fetched_at": "2026-09-16T20:35:46.751292+00:00"
+    },
+    "ba7cc91ece527e49": {
+      "title": "Oldest North African Defensive Structure Outside Egypt Identified",
+      "fetched_at": "2026-09-16T20:35:47.326514+00:00"
+    },
+    "16fb268ca14b3232": {
+      "title": "Was there a 'before' the Big Bang? Jim Al-Khalili on the mind-bogglingness of time",
+      "fetched_at": "2026-09-16T20:35:47.915439+00:00"
+    },
+    "87dd1fc32b4476b3": {
+      "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
+      "fetched_at": "2026-09-16T20:35:48.500627+00:00"
     }
   },
-  "last_updated": "2026-09-16T15:44:16.616546+00:00"
+  "last_updated": "2026-09-16T20:35:48.551399+00:00"
 }
