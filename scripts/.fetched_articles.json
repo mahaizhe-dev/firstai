@@ -1,121 +1,5 @@
 {
   "articles": {
-    "8d8439f46903d1db": {
-      "title": "Vaenyx – A personal AI app for family",
-      "fetched_at": "2026-09-08T10:13:50.781935+00:00"
-    },
-    "6e2ebc3d1842f44e": {
-      "title": "TrustFinder: Deep Search AI",
-      "fetched_at": "2026-09-08T10:13:51.350838+00:00"
-    },
-    "e043694c3fc50b0f": {
-      "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
-      "fetched_at": "2026-09-08T10:13:51.933640+00:00"
-    },
-    "759f4ec6b8f6ac5b": {
-      "title": "PicWish – AI photo editing for product images",
-      "fetched_at": "2026-09-08T10:13:52.528627+00:00"
-    },
-    "602c9f2fd4f53b85": {
-      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
-      "fetched_at": "2026-09-08T10:13:53.112193+00:00"
-    },
-    "03ca5ac9f488c1b8": {
-      "title": "Show HN: Pomeroy v1, give any AI assistant secure access to native macOS apps",
-      "fetched_at": "2026-09-08T10:13:53.695843+00:00"
-    },
-    "ae4c60b8a58d0795": {
-      "title": "Türk urges action before AI becomes an 'existential risk to humanity'",
-      "fetched_at": "2026-09-08T10:13:54.277302+00:00"
-    },
-    "900411c1a9b093c5": {
-      "title": "The most advanced and easy to use local AI builder you'll ever see",
-      "fetched_at": "2026-09-08T10:13:54.873027+00:00"
-    },
-    "ba4bb90342e0e4c0": {
-      "title": "Ask HN: Tagging AI-Related Posts",
-      "fetched_at": "2026-09-08T10:13:55.442368+00:00"
-    },
-    "c3f146313b4e2d0d": {
-      "title": "The HydroGym reinforcement learning platform for fluid dynamics",
-      "fetched_at": "2026-09-08T10:13:56.022799+00:00"
-    },
-    "e127f24768884b92": {
-      "title": "Is the UK government the new training ground for AI execs?",
-      "fetched_at": "2026-09-08T10:13:56.640651+00:00"
-    },
-    "b41287f40005e1e0": {
-      "title": "Machine learning of artistic fingerprints in jazz",
-      "fetched_at": "2026-09-08T10:13:57.212593+00:00"
-    },
-    "f91172adafc1004a": {
-      "title": "I talked to deep buddy about AI solving Navier Stokes rumors",
-      "fetched_at": "2026-09-08T10:13:57.781577+00:00"
-    },
-    "fd1846b40aa46452": {
-      "title": "How AI based programming could work (2016)",
-      "fetched_at": "2026-09-08T10:13:58.403238+00:00"
-    },
-    "a3b518a55958f9a8": {
-      "title": "Stable Singularity of the Euler Equations on R^3 without forcing – Anima on AI",
-      "fetched_at": "2026-09-08T10:13:58.983254+00:00"
-    },
-    "a33df988b0cf99b9": {
-      "title": "Bodhan.ai releases 1.2B ASR model that covers 22 Indian Languages",
-      "fetched_at": "2026-09-08T10:13:59.561953+00:00"
-    },
-    "c223419c609682e1": {
-      "title": "Show HN: Am I replacable – a harness to help humans keep up with AI",
-      "fetched_at": "2026-09-08T10:14:00.138840+00:00"
-    },
-    "ce3de2247c333af7": {
-      "title": "In the age of AI what use is left for a personal computer?",
-      "fetched_at": "2026-09-08T10:14:00.722220+00:00"
-    },
-    "c67e41aa1dc7e4ae": {
-      "title": "AI keeps stubbornly refusing to take our jobs",
-      "fetched_at": "2026-09-08T10:14:01.382027+00:00"
-    },
-    "0a5710ccbf458cc5": {
-      "title": "The Chasm: The Shape of Unfinished AI Codebases",
-      "fetched_at": "2026-09-08T10:14:01.959850+00:00"
-    },
-    "cb9f53e86256d223": {
-      "title": "欧洲政治地震：德国极右翼政党州选举胜利预示着什么？",
-      "fetched_at": "2026-09-08T10:14:04.308104+00:00"
-    },
-    "bfd0da039d65ada2": {
-      "title": "华盛顿希望南美各国疏远中国，秘鲁证明这绝非易事",
-      "fetched_at": "2026-09-08T10:14:04.895845+00:00"
-    },
-    "654358787e49dd12": {
-      "title": "定罪戰犯「波斯尼亞屠夫」姆拉迪奇去世 塞爾維亞數千人送殯",
-      "fetched_at": "2026-09-08T10:14:05.468614+00:00"
-    },
-    "11e967b328c164c6": {
-      "title": "哈利和梅根重返英國 國王發函重申兩人已非「在職王室成員」",
-      "fetched_at": "2026-09-08T10:14:06.046147+00:00"
-    },
-    "ab8a95765ad36095": {
-      "title": "美国特使乘“和平快车”抵达基辅，但战争依然看不到终点",
-      "fetched_at": "2026-09-08T10:14:06.618153+00:00"
-    },
-    "7fac07eda9b43bbd": {
-      "title": "印度尼西亚的微塑料危机",
-      "fetched_at": "2026-09-08T10:14:07.191422+00:00"
-    },
-    "e4ed1ed325a14406": {
-      "title": "海上航行286天后，5000名美国大兵的“芭提雅假期”",
-      "fetched_at": "2026-09-08T10:14:07.777052+00:00"
-    },
-    "bef98453c8290630": {
-      "title": "25 years ago, a NASA astronaut captured this haunting photo of the 9/11 attacks — Earth from space",
-      "fetched_at": "2026-09-08T10:14:09.679284+00:00"
-    },
-    "d845338f756786ea": {
-      "title": "Eerily humanlike AI-powered robot enters mass production in China — its makers say it could soon be helping you out at home",
-      "fetched_at": "2026-09-08T10:14:10.259280+00:00"
-    },
     "7fdf3dc498719dcb": {
       "title": "Learning Human Health and Diseases from 24-Hour Wrist Movement",
       "fetched_at": "2026-09-08T15:35:43.896949+00:00"
@@ -3595,7 +3479,135 @@
     "44bc61a00b9d5fe1": {
       "title": "Solving Ancient Ciphers with Claude",
       "fetched_at": "2026-09-16T02:11:19.872658+00:00"
+    },
+    "5291b9b716a3b2e8": {
+      "title": "AI Is Reshaping Open Source Software and Straining the Systems That Sustain It",
+      "fetched_at": "2026-09-16T10:26:06.606557+00:00"
+    },
+    "d89b81580e8a9ada": {
+      "title": "DocMind – I built an AI document parser to end manual data entry solo",
+      "fetched_at": "2026-09-16T10:26:07.198623+00:00"
+    },
+    "cab5d53bf034573b": {
+      "title": "Scikit-Decide AI Framework for RL, Auto Planning and Scheduling",
+      "fetched_at": "2026-09-16T10:26:07.786476+00:00"
+    },
+    "20f83f03fe77ee3b": {
+      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
+      "fetched_at": "2026-09-16T10:26:08.391913+00:00"
+    },
+    "d04c186731af866d": {
+      "title": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]",
+      "fetched_at": "2026-09-16T10:26:08.985202+00:00"
+    },
+    "20e8c1490b29e97b": {
+      "title": "Learning Programming in an Age of LLMs",
+      "fetched_at": "2026-09-16T10:26:09.596242+00:00"
+    },
+    "af6238fa09bebf0f": {
+      "title": "HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling",
+      "fetched_at": "2026-09-16T10:26:10.243848+00:00"
+    },
+    "114a9812f3cdc753": {
+      "title": "Show HN: AI accounting harness for finance teams",
+      "fetched_at": "2026-09-16T10:26:10.850075+00:00"
+    },
+    "68e6ff682a9d9400": {
+      "title": "ExposurAI – External attack surface and Shadow AI discovery engine",
+      "fetched_at": "2026-09-16T10:26:11.422468+00:00"
+    },
+    "cfc9384ba8b8d936": {
+      "title": "Cost of AI Slop in Software Development Report",
+      "fetched_at": "2026-09-16T10:26:11.993494+00:00"
+    },
+    "07e1072f8c80e0a6": {
+      "title": "Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured",
+      "fetched_at": "2026-09-16T10:26:12.571049+00:00"
+    },
+    "ba7d8b074692a218": {
+      "title": "Turing Lab - Browser Turing Machine simulator (With fast compiled engine)",
+      "fetched_at": "2026-09-16T10:26:13.138739+00:00"
+    },
+    "07a778d567e7eb2e": {
+      "title": "Google released Artemis for AI-driven Android automation",
+      "fetched_at": "2026-09-16T10:26:13.713859+00:00"
+    },
+    "2c87561b77d27d6e": {
+      "title": "Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism",
+      "fetched_at": "2026-09-16T10:26:14.296000+00:00"
+    },
+    "7f44d2ed4e0b5695": {
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "fetched_at": "2026-09-16T10:26:14.865948+00:00"
+    },
+    "816e5d733cca0ccd": {
+      "title": "AI safety beyond the frontier labs: uncensored local models",
+      "fetched_at": "2026-09-16T10:26:15.442635+00:00"
+    },
+    "9ff08d802bc222af": {
+      "title": "Never-again – so your AI agent stops repeating mistakes you fixed",
+      "fetched_at": "2026-09-16T10:26:16.034826+00:00"
+    },
+    "d87a3b545e0bfc83": {
+      "title": "There is NO realistic scenario where AI wipes out all of humanity",
+      "fetched_at": "2026-09-16T10:26:16.610865+00:00"
+    },
+    "08cd503868048c2e": {
+      "title": "COBOL dev won .NET hackathon with help from AI",
+      "fetched_at": "2026-09-16T10:26:17.279167+00:00"
+    },
+    "c1eba2af30788a62": {
+      "title": "Sanders: \"If AI is coming for workers, it should bring a 4-day workweek with it\"",
+      "fetched_at": "2026-09-16T10:26:17.852006+00:00"
+    },
+    "16df4eb01293aff9": {
+      "title": "區錦新案：澳門首宗國安案閉門開審，我們知道多少？",
+      "fetched_at": "2026-09-16T10:26:19.735113+00:00"
+    },
+    "e8ea7f0956dae55f": {
+      "title": "除了末日警告，人工智能發展還在面臨著另一個威脅",
+      "fetched_at": "2026-09-16T10:26:20.308262+00:00"
+    },
+    "c21c10ec81cc575a": {
+      "title": "香港施政報告與「一五」同步公佈 聚焦北部都會區、國安與鼓勵生育",
+      "fetched_at": "2026-09-16T10:26:20.893181+00:00"
+    },
+    "c10fde09e415251f": {
+      "title": "OpenAI老闆稱世界「應信任」AI 公司 黃仁勳籲勿作虛假取捨",
+      "fetched_at": "2026-09-16T10:26:21.488460+00:00"
+    },
+    "7c9af8d80a20c611": {
+      "title": "全球顶尖高校“学位收割机”：他为何一直求学？",
+      "fetched_at": "2026-09-16T10:26:22.081854+00:00"
+    },
+    "94ef8431e0a50a5d": {
+      "title": "懦夫群像：为何这些权势人物向特朗普卑躬屈膝",
+      "fetched_at": "2026-09-16T10:26:22.669353+00:00"
+    },
+    "56a09838f46df927": {
+      "title": "遏制人工智能威胁为时已晚",
+      "fetched_at": "2026-09-16T10:26:23.256010+00:00"
+    },
+    "0c3366b0378d0431": {
+      "title": "人工智能时代，中国人还需要学英语吗？",
+      "fetched_at": "2026-09-16T10:26:23.864156+00:00"
+    },
+    "5a53d3080797a607": {
+      "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
+      "fetched_at": "2026-09-16T10:26:24.437245+00:00"
+    },
+    "e61c28f74da3b5ab": {
+      "title": "偏頭痛女性比男性慘痛太多 這裏舒緩有方",
+      "fetched_at": "2026-09-16T10:26:25.026222+00:00"
+    },
+    "950f0f458a11a907": {
+      "title": "Diagnostic dilemma: A man's sudden fainting episodes landed him in the hospital — and a hair dye was to blame",
+      "fetched_at": "2026-09-16T10:26:26.975548+00:00"
+    },
+    "62cbc96c6ec0c1dc": {
+      "title": "New laptop ditches noisy fans and heat sinks for tiny 'cooling chips' — it's much thinner and lighter than you'd expect",
+      "fetched_at": "2026-09-16T10:26:27.560432+00:00"
     }
   },
-  "last_updated": "2026-09-16T02:11:20.005770+00:00"
+  "last_updated": "2026-09-16T10:26:27.697589+00:00"
 }
