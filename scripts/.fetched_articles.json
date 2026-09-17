@@ -1,165 +1,5 @@
 {
   "articles": {
-    "1c3a7fade17df190": {
-      "title": "We should anthropomorphize AI agents",
-      "fetched_at": "2026-09-09T10:18:25.380811+00:00"
-    },
-    "7c68f3e6dbb30456": {
-      "title": "Ask HN: Is someone tweaking classic ROM games with AI?",
-      "fetched_at": "2026-09-09T10:18:25.990944+00:00"
-    },
-    "d873b48216022815": {
-      "title": "AI Use Contributes to Global Decline in Student Reading Skills, OECD Says",
-      "fetched_at": "2026-09-09T10:18:26.600340+00:00"
-    },
-    "03ac9553502823ad": {
-      "title": "More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits",
-      "fetched_at": "2026-09-09T10:18:27.205561+00:00"
-    },
-    "2f22353d3cf14a69": {
-      "title": "Escalating Battle Against AI Deepfakes Mandates Smart Streaming Decisions",
-      "fetched_at": "2026-09-09T10:18:27.818543+00:00"
-    },
-    "af8823d7fe2b933a": {
-      "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans'",
-      "fetched_at": "2026-09-09T10:18:28.487382+00:00"
-    },
-    "4765ec8a46c2faca": {
-      "title": "Losing control of AI is the plan",
-      "fetched_at": "2026-09-09T10:18:29.100698+00:00"
-    },
-    "f8bf8727fe8c3138": {
-      "title": "Anthropic aligment lead warns about extinction by AI",
-      "fetched_at": "2026-09-09T10:18:29.722830+00:00"
-    },
-    "04db2054fa0ac732": {
-      "title": "PHP is Dead (and AI is to blame)",
-      "fetched_at": "2026-09-09T10:18:30.348304+00:00"
-    },
-    "f2f365b52a802b98": {
-      "title": "US claims Chinese AI firms are carrying out 'industrial-scale' theft",
-      "fetched_at": "2026-09-09T10:18:30.963056+00:00"
-    },
-    "1a3ff9dc26405a89": {
-      "title": "Law schools tell students to put AI away",
-      "fetched_at": "2026-09-09T10:18:31.573219+00:00"
-    },
-    "cabdd7f950bec1b7": {
-      "title": "Ryanair ATC disruption update with Synthesia AI representative [video]",
-      "fetched_at": "2026-09-09T10:18:32.189654+00:00"
-    },
-    "7da545bddd4327b8": {
-      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
-      "fetched_at": "2026-09-09T10:18:32.804417+00:00"
-    },
-    "d17a10cc07529fee": {
-      "title": "If I wanted to maximize AI risk",
-      "fetched_at": "2026-09-09T10:18:33.413417+00:00"
-    },
-    "d805c517f7542a6f": {
-      "title": "'Gambling with our lives': AI researcher quits Anthropic",
-      "fetched_at": "2026-09-09T10:18:34.038899+00:00"
-    },
-    "b018bda0313d5f8b": {
-      "title": "Biozone Asia: Making Science Learning More Active and Engaging",
-      "fetched_at": "2026-09-09T10:18:34.652207+00:00"
-    },
-    "d5f900b8f50adb11": {
-      "title": "Yes we use feedback and de-ID'ed data to improve ChatGPT– like every LLM company",
-      "fetched_at": "2026-09-09T10:18:35.275705+00:00"
-    },
-    "d4f9867e3263b7ac": {
-      "title": "AI Stole My Identity",
-      "fetched_at": "2026-09-09T10:18:35.905901+00:00"
-    },
-    "4c5444ed7be7573c": {
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "fetched_at": "2026-09-09T10:18:36.534081+00:00"
-    },
-    "5543e77220705b55": {
-      "title": "Google research shows when AI agents communicate, some cheat while others tattle",
-      "fetched_at": "2026-09-09T10:18:37.166244+00:00"
-    },
-    "747333df100dab94": {
-      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
-      "fetched_at": "2026-09-09T10:18:39.077143+00:00"
-    },
-    "a39f84d9fe117d90": {
-      "title": "董建華逝世：從船王富二代到香港首任特首，中共的「親密朋友」",
-      "fetched_at": "2026-09-09T10:18:39.706933+00:00"
-    },
-    "d9f9fa825bc48795": {
-      "title": "習近平與貝安德首次通話 基調積極 同時提及黎智英",
-      "fetched_at": "2026-09-09T10:18:40.322879+00:00"
-    },
-    "34412d90b560abb1": {
-      "title": "關稅真正會讓加拿大人和美國人付出什麼代價",
-      "fetched_at": "2026-09-09T10:18:40.942841+00:00"
-    },
-    "29991ccc42d62e86": {
-      "title": "「教員萬歲」：中國Z世代為何重新「擁抱」毛澤東？",
-      "fetched_at": "2026-09-09T10:18:41.563624+00:00"
-    },
-    "1175e62e4f181ce5": {
-      "title": "英國制裁約旦河西岸：對以色列關係跌至數十年谷底",
-      "fetched_at": "2026-09-09T10:18:42.184170+00:00"
-    },
-    "a7606811fb2cec08": {
-      "title": "零点击微信蠕虫：人工智能将令黑客攻击更危险？",
-      "fetched_at": "2026-09-09T10:18:42.790771+00:00"
-    },
-    "8702aefb6908b3c7": {
-      "title": "官方信息匮乏，西藏洪灾失踪者家属在悲痛中寻找答案",
-      "fetched_at": "2026-09-09T10:18:43.426769+00:00"
-    },
-    "64526cae2cb4ae6d": {
-      "title": "中国货船探索北极捷径：商业策略还是地缘政治考量？",
-      "fetched_at": "2026-09-09T10:18:44.034855+00:00"
-    },
-    "5329e7897e27c80a": {
-      "title": "香港主权移交后首任行政长官董建华逝世",
-      "fetched_at": "2026-09-09T10:18:44.650713+00:00"
-    },
-    "fb1e5156a594ea29": {
-      "title": "OpenAI宣布已解出一道“千禧年大奖难题”",
-      "fetched_at": "2026-09-09T10:18:45.299191+00:00"
-    },
-    "f43758506ba18311": {
-      "title": "PISA测试：美国学生成绩大幅下滑，亚洲国家领先",
-      "fetched_at": "2026-09-09T10:18:45.921732+00:00"
-    },
-    "322648e03aec91dc": {
-      "title": "美國NASA全新超強望遠鏡將改寫我們對宇宙的理解",
-      "fetched_at": "2026-09-09T10:18:46.555831+00:00"
-    },
-    "2d8261cea589e017": {
-      "title": "Diagnostic dilemma: Fisher's colon punctured by eel that snuck in through his rectum",
-      "fetched_at": "2026-09-09T10:18:48.846979+00:00"
-    },
-    "c91db740c379c141": {
-      "title": "'Drops in the ocean can make waves': How the grassroots climate movement took off in the US",
-      "fetched_at": "2026-09-09T10:18:49.468081+00:00"
-    },
-    "3498e3a5b7d9d160": {
-      "title": "AI Has a Discovery Problem",
-      "fetched_at": "2026-09-09T10:18:50.094383+00:00"
-    },
-    "c04755735a2e853c": {
-      "title": "Google scientists removed a critical 'consciousness safeguard' from AI in new study. What happened next?",
-      "fetched_at": "2026-09-09T10:18:50.094569+00:00"
-    },
-    "445c02125209aeb4": {
-      "title": "'This is probably the safest time to be playing the sport of football': Concussion expert explains why viral CTE study may not be as scary as it sounds",
-      "fetched_at": "2026-09-09T10:18:50.717567+00:00"
-    },
-    "a65d795c369af825": {
-      "title": "Popular sweeteners may leave effects that last for generations",
-      "fetched_at": "2026-09-09T10:18:51.329805+00:00"
-    },
-    "f7e7ce0cd4b5853e": {
-      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
-      "fetched_at": "2026-09-09T10:18:51.940336+00:00"
-    },
     "b72908d1a33e0a18": {
       "title": "Viral AI assistant Instinct now has its own email address",
       "fetched_at": "2026-09-09T15:29:24.611487+00:00"
@@ -3475,7 +3315,83 @@
     "bda9dac36b7aee49": {
       "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
       "fetched_at": "2026-09-17T02:14:18.615900+00:00"
+    },
+    "2fc47b3f04bbeb5f": {
+      "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
+      "fetched_at": "2026-09-17T10:35:59.582146+00:00"
+    },
+    "2bc7452b167e67de": {
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "fetched_at": "2026-09-17T10:36:00.186792+00:00"
+    },
+    "fdb5a2350c002ccc": {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-17T10:36:00.791281+00:00"
+    },
+    "f3bac78cae30191b": {
+      "title": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
+      "fetched_at": "2026-09-17T10:36:01.382148+00:00"
+    },
+    "6dfef516c1b1f1f9": {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "fetched_at": "2026-09-17T10:36:01.976190+00:00"
+    },
+    "31284d1d08068a7b": {
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "fetched_at": "2026-09-17T10:36:02.585433+00:00"
+    },
+    "a17b143aa637bf05": {
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "fetched_at": "2026-09-17T10:36:03.209093+00:00"
+    },
+    "4a7cf813002aa8e1": {
+      "title": "領英高層分享 6 個人脈竅門，幫你更快找到工作",
+      "fetched_at": "2026-09-17T10:36:05.481360+00:00"
+    },
+    "fa498a62278381c3": {
+      "title": "美國三年來首次加息 對全球和中國意味著什麼？",
+      "fetched_at": "2026-09-17T10:36:06.080817+00:00"
+    },
+    "5a6c4589ef2e63c1": {
+      "title": "Hyrox北京赛选手失禁完赛引发争议，官方道歉退款",
+      "fetched_at": "2026-09-17T10:36:06.687542+00:00"
+    },
+    "d7ac3c964a1edf0d": {
+      "title": "日本百岁老人数量突破10万，88%为女性",
+      "fetched_at": "2026-09-17T10:36:07.301504+00:00"
+    },
+    "d22cf1694fa23f43": {
+      "title": "中国不在乎人工智能安全，它只想赢",
+      "fetched_at": "2026-09-17T10:36:07.907339+00:00"
+    },
+    "852c33f6a9e0ef9e": {
+      "title": "美国情报官员：中国试图通过沙特获取F-35战斗机技术",
+      "fetched_at": "2026-09-17T10:36:08.502748+00:00"
+    },
+    "487e7c6c4510be17": {
+      "title": "“悉尼妹”大尺度广告引发争议，被批物化女性",
+      "fetched_at": "2026-09-17T10:36:09.131748+00:00"
+    },
+    "cf6226fe95b80871": {
+      "title": "欧盟邀请加拿大成为“准成员国”，这意味着什么",
+      "fetched_at": "2026-09-17T10:36:09.732820+00:00"
+    },
+    "c76d08cb6eb4393e": {
+      "title": "「我一度認不出我的男朋友」：我是如何發現自己患有臉盲症的",
+      "fetched_at": "2026-09-17T10:36:10.333159+00:00"
+    },
+    "b689d13f07a2cb86": {
+      "title": "New mesothelioma drug turns cancer’s own defenses against it",
+      "fetched_at": "2026-09-17T10:36:12.770087+00:00"
+    },
+    "6a00139ebc984c4f": {
+      "title": "NASA’s New Horizons spots signs of liquid nitrogen flowing on Pluto",
+      "fetched_at": "2026-09-17T10:36:13.365425+00:00"
+    },
+    "f36b389cbff0a0da": {
+      "title": "Hidden “immune organ” in the skull may help fight brain cancer",
+      "fetched_at": "2026-09-17T10:36:13.974184+00:00"
     }
   },
-  "last_updated": "2026-09-17T02:14:18.742846+00:00"
+  "last_updated": "2026-09-17T10:36:14.099361+00:00"
 }
