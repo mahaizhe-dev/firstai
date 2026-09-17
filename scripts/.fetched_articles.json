@@ -1,121 +1,5 @@
 {
   "articles": {
-    "4365877bf6f9d1c3": {
-      "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
-      "fetched_at": "2026-09-09T01:59:06.512351+00:00"
-    },
-    "ef8f740b2a35b52d": {
-      "title": "AI Responsibility – OpenAI and Anthropic",
-      "fetched_at": "2026-09-09T01:59:07.138656+00:00"
-    },
-    "842b5b5d548541af": {
-      "title": "AI: Lot of \"Hideous\" Code but Found Bottlenecks for Faster Linux Compilation",
-      "fetched_at": "2026-09-09T01:59:07.757915+00:00"
-    },
-    "6d18276408bfe036": {
-      "title": "The Growing Push to Ban Superintelligent AI",
-      "fetched_at": "2026-09-09T01:59:08.392574+00:00"
-    },
-    "b85007d544f51ef8": {
-      "title": "Bullshit arguments about AI (not) replacing jobs (2023)",
-      "fetched_at": "2026-09-09T01:59:09.013742+00:00"
-    },
-    "bdd269b94a516ead": {
-      "title": "The paradox at the heart of AI and science [video]",
-      "fetched_at": "2026-09-09T01:59:09.648075+00:00"
-    },
-    "978ff944f28b509a": {
-      "title": "AI Has Solved One of Math's $1M Millennium Prize Problems",
-      "fetched_at": "2026-09-09T01:59:10.274343+00:00"
-    },
-    "cd259cfe20c495e2": {
-      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
-      "fetched_at": "2026-09-09T01:59:10.894163+00:00"
-    },
-    "e8a7b7eeeb85f71c": {
-      "title": "Show HN: AI Stack Selector Tool",
-      "fetched_at": "2026-09-09T01:59:11.538077+00:00"
-    },
-    "03023c23d04e9ecf": {
-      "title": "Linux desktop image editor with local AI",
-      "fetched_at": "2026-09-09T01:59:12.166656+00:00"
-    },
-    "c6fc30a4428a75e1": {
-      "title": "Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]",
-      "fetched_at": "2026-09-09T01:59:12.785922+00:00"
-    },
-    "8c2b1399eed75ad4": {
-      "title": "Buckmaster raising alarms that AI corporations snooped on their research",
-      "fetched_at": "2026-09-09T01:59:13.422807+00:00"
-    },
-    "d107474bb6e18d36": {
-      "title": "An anti-RAG AI memory in Rust that intentionally forgets and hallucinates",
-      "fetched_at": "2026-09-09T01:59:14.038510+00:00"
-    },
-    "eb0b57e387f36713": {
-      "title": "Feds accuse China of 'systematic' distillation of U.S. AI models",
-      "fetched_at": "2026-09-09T01:59:14.679049+00:00"
-    },
-    "ee111231a362eb35": {
-      "title": "How to manage a growing fleet of AI agents with Latitude",
-      "fetched_at": "2026-09-09T01:59:15.325685+00:00"
-    },
-    "c437a02609ee6e46": {
-      "title": "Hacking Cable: AI in post-exploitation operations",
-      "fetched_at": "2026-09-09T01:59:15.947442+00:00"
-    },
-    "3eb8d35b151f6691": {
-      "title": "Solo.io Pushes Agentic AI Governance to the Desktop: Open-Source Agentdesktop",
-      "fetched_at": "2026-09-09T01:59:16.576077+00:00"
-    },
-    "4721da6d444c4c01": {
-      "title": "Despite the chatter, AI pricing is not converging on a model",
-      "fetched_at": "2026-09-09T01:59:17.191040+00:00"
-    },
-    "f97c547da7a8f801": {
-      "title": "Open Models Change the Economics of AI [video]",
-      "fetched_at": "2026-09-09T01:59:17.818297+00:00"
-    },
-    "10d0c8727dcec0ae": {
-      "title": "The DOJ's AI Fair Use Brief Is Correct, but from a DOJ That Has No Credibility",
-      "fetched_at": "2026-09-09T01:59:18.440642+00:00"
-    },
-    "ad495a116d1539ef": {
-      "title": "中情局副局长称美国正对中国开展更广泛间谍活动",
-      "fetched_at": "2026-09-09T01:59:22.917449+00:00"
-    },
-    "c76d08cb6eb4393e": {
-      "title": "「我一度認不出我的男朋友」：我是如何發現自己患有臉盲症的",
-      "fetched_at": "2026-09-09T01:59:23.539840+00:00"
-    },
-    "ae706a4f7baea0f3": {
-      "title": "推崇⽑澤東的「Z世代」：彈幕、「教員」與政治失語",
-      "fetched_at": "2026-09-09T01:59:24.159003+00:00"
-    },
-    "d2a2041519f1815e": {
-      "title": "中国贸易顺差连续第四个月突破千亿美元",
-      "fetched_at": "2026-09-09T01:59:24.786122+00:00"
-    },
-    "6e20b2a30e06a96c": {
-      "title": "Google scientists removed a critical 'consciousness safeguard' from AI models. What happened next?",
-      "fetched_at": "2026-09-09T01:59:45.013618+00:00"
-    },
-    "d75979a76b1b4c89": {
-      "title": "OpenAI Just Claimed a Math Discovery. Some Academics Are Crying Foul",
-      "fetched_at": "2026-09-09T01:59:45.644806+00:00"
-    },
-    "05f45ef38d1aea21": {
-      "title": "Earth's ancient auroral belts may have made life's ingredients",
-      "fetched_at": "2026-09-09T01:59:46.274175+00:00"
-    },
-    "8955595cff903f66": {
-      "title": "Trump's new gold-trimmed phones in historical perspective",
-      "fetched_at": "2026-09-09T01:59:46.891599+00:00"
-    },
-    "ddbceede63b94e97": {
-      "title": "Ancient Egypt in 3D",
-      "fetched_at": "2026-09-09T01:59:47.511352+00:00"
-    },
     "1c3a7fade17df190": {
       "title": "We should anthropomorphize AI agents",
       "fetched_at": "2026-09-09T10:18:25.380811+00:00"
@@ -3555,7 +3439,43 @@
     "87dd1fc32b4476b3": {
       "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
       "fetched_at": "2026-09-16T20:35:48.500627+00:00"
+    },
+    "7e2d7c871b7e8593": {
+      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+      "fetched_at": "2026-09-17T02:14:09.218459+00:00"
+    },
+    "d3aec3783d97d01a": {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "fetched_at": "2026-09-17T02:14:09.797180+00:00"
+    },
+    "dba3cd0b8e5de30d": {
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "fetched_at": "2026-09-17T02:14:10.366837+00:00"
+    },
+    "3925ef74249b07a3": {
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "fetched_at": "2026-09-17T02:14:10.942611+00:00"
+    },
+    "1f8bbf109e10afca": {
+      "title": "“习特会”前伊朗外长访华，北京“敲打”华盛顿",
+      "fetched_at": "2026-09-17T02:14:13.916464+00:00"
+    },
+    "d46ceffd98879e4a": {
+      "title": "成本高昂、弹药短缺：报告披露美国伊朗战争的代价",
+      "fetched_at": "2026-09-17T02:14:14.492506+00:00"
+    },
+    "e7f9f91207768ad4": {
+      "title": "你敢請病假嗎？背後反映什麼人格特質和職場文化？",
+      "fetched_at": "2026-09-17T02:14:15.092335+00:00"
+    },
+    "146dee0111131f1b": {
+      "title": "美中峰會前，蕭美琴訪歐背後的「利基」外交",
+      "fetched_at": "2026-09-17T02:14:15.669577+00:00"
+    },
+    "bda9dac36b7aee49": {
+      "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+      "fetched_at": "2026-09-17T02:14:18.615900+00:00"
     }
   },
-  "last_updated": "2026-09-16T20:35:48.551399+00:00"
+  "last_updated": "2026-09-17T02:14:18.742846+00:00"
 }
