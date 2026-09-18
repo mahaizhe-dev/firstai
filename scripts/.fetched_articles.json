@@ -1,101 +1,5 @@
 {
   "articles": {
-    "765248da74bb6e27": {
-      "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
-      "fetched_at": "2026-09-10T10:11:48.860038+00:00"
-    },
-    "2eed0febacd8dd20": {
-      "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
-      "fetched_at": "2026-09-10T10:11:49.436957+00:00"
-    },
-    "3f939b9cf8d297a9": {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "fetched_at": "2026-09-10T10:11:50.016466+00:00"
-    },
-    "db697e7187426e30": {
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "fetched_at": "2026-09-10T10:11:50.672458+00:00"
-    },
-    "6e6f651a2b6623cd": {
-      "title": "Suno releases its first AI music model made with record industry help",
-      "fetched_at": "2026-09-10T10:11:51.242713+00:00"
-    },
-    "6dc66b8be08abd90": {
-      "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
-      "fetched_at": "2026-09-10T10:11:51.822296+00:00"
-    },
-    "570d4a46c527e4b3": {
-      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-      "fetched_at": "2026-09-10T10:11:52.418839+00:00"
-    },
-    "aba726991c2729ed": {
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "fetched_at": "2026-09-10T10:11:53.006788+00:00"
-    },
-    "216d6e684c752ff5": {
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "fetched_at": "2026-09-10T10:11:53.631542+00:00"
-    },
-    "9c880454087cb404": {
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "fetched_at": "2026-09-10T10:11:54.208936+00:00"
-    },
-    "76ca435586197385": {
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "fetched_at": "2026-09-10T10:11:54.799936+00:00"
-    },
-    "9f73c6b60b6915e0": {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "fetched_at": "2026-09-10T10:11:55.380214+00:00"
-    },
-    "9d8295782aa6a20f": {
-      "title": "Microsoft has new AI privacy rules for schools",
-      "fetched_at": "2026-09-10T10:11:55.986029+00:00"
-    },
-    "b404904bf0eaea99": {
-      "title": "Superintelligence is coming. Should we let it?",
-      "fetched_at": "2026-09-10T10:11:56.565474+00:00"
-    },
-    "7d6dbc8d1f0f1b3b": {
-      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-      "fetched_at": "2026-09-10T10:11:57.156296+00:00"
-    },
-    "bd2f7e1f163b177c": {
-      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
-      "fetched_at": "2026-09-10T10:11:57.767284+00:00"
-    },
-    "a6c67a87c323e18f": {
-      "title": "為甚麼Gen Z的測試成績正在下跌？",
-      "fetched_at": "2026-09-10T10:11:59.823278+00:00"
-    },
-    "1dbab59a2e0e4d1c": {
-      "title": "蘋果摺疊式iPhone：新任掌舵人的豪賭，能轉化為實質銷量嗎？",
-      "fetched_at": "2026-09-10T10:12:00.403491+00:00"
-    },
-    "e17b08e11e169891": {
-      "title": "10小时60条社交媒体动态：特朗普的“现实”世界",
-      "fetched_at": "2026-09-10T10:12:01.009369+00:00"
-    },
-    "a4822c5bb4a1b0da": {
-      "title": "AI可能消灭人类？Anthropic研究人员警告行业发展过速",
-      "fetched_at": "2026-09-10T10:12:01.593495+00:00"
-    },
-    "877703554c2044f4": {
-      "title": "孟晚舟事件八年后，华为案在纽约开审",
-      "fetched_at": "2026-09-10T10:12:02.183397+00:00"
-    },
-    "4e8fd0010ce07c73": {
-      "title": "特朗普引发“新仇”，但美国加拿大早有“旧怨”",
-      "fetched_at": "2026-09-10T10:12:02.762645+00:00"
-    },
-    "97554ad231e8e6dc": {
-      "title": "尼泊爾—西藏泥石流：堰塞湖和冰湖是下一個「定時炸彈」？",
-      "fetched_at": "2026-09-10T10:12:03.348895+00:00"
-    },
-    "306a5c03658ea14c": {
-      "title": "A Harvest Moon with 5 planets on the side: September is the best month for stargazing, ‪and this year is extra special",
-      "fetched_at": "2026-09-10T10:12:05.597293+00:00"
-    },
     "97977c23182a838f": {
       "title": "'Biggest surprise of my life': Homeowner discovers Denmark's largest Viking Age silver hoard in their backyard",
       "fetched_at": "2026-09-10T10:12:06.206963+00:00"
@@ -3331,7 +3235,71 @@
     "db0c3166d1f7136f": {
       "title": "The 'ancient' rules of the game behind Snakes and Ladders were invented in 1975",
       "fetched_at": "2026-09-18T02:00:59.742976+00:00"
+    },
+    "73c8c550511e29fb": {
+      "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
+      "fetched_at": "2026-09-18T10:11:52.576464+00:00"
+    },
+    "dc6e2204f5f22d87": {
+      "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
+      "fetched_at": "2026-09-18T10:11:53.147913+00:00"
+    },
+    "a8a5fa866ae1cee1": {
+      "title": "让 Agent 读懂你的身体：数据获取篇",
+      "fetched_at": "2026-09-18T10:11:53.719998+00:00"
+    },
+    "a522abc24f3d15f8": {
+      "title": "人類真的可能被AI滅絕？我們可以如何阻止？",
+      "fetched_at": "2026-09-18T10:11:56.267473+00:00"
+    },
+    "f933f0624f85a82d": {
+      "title": "「運動員無法伸直雙腿睡覺」：日本亞運為何爆發住宿爭議？",
+      "fetched_at": "2026-09-18T10:11:56.842754+00:00"
+    },
+    "126e2e371481a13e": {
+      "title": "Hyrox失禁風波：澳洲選手道歉、主辦方承諾退款",
+      "fetched_at": "2026-09-18T10:11:57.420267+00:00"
+    },
+    "650ff627f1d27c0b": {
+      "title": "美籍緬甸裔學者涉間諜罪在華監禁 其妻籲特朗普晤習近平時重提此案",
+      "fetched_at": "2026-09-18T10:11:57.987177+00:00"
+    },
+    "444479de27f7bf07": {
+      "title": "澳洲收緊移民政策：管制留學生、背包客，打擊「簽證跳轉」",
+      "fetched_at": "2026-09-18T10:11:58.554835+00:00"
+    },
+    "ac3d7af19b5a5312": {
+      "title": "中国储备巨量石油，或将主导全球能源格局",
+      "fetched_at": "2026-09-18T10:11:59.142019+00:00"
+    },
+    "697608ad2d7e0f6f": {
+      "title": "中国担忧的是另一种人工智能风险",
+      "fetched_at": "2026-09-18T10:11:59.799264+00:00"
+    },
+    "0037c427ba175d09": {
+      "title": "金正恩的“强国”背后，朝鲜人的血泪代价",
+      "fetched_at": "2026-09-18T10:12:00.376177+00:00"
+    },
+    "c62e3fc7fe5c9f8d": {
+      "title": "希腊酸奶有多健康？",
+      "fetched_at": "2026-09-18T10:12:01.024325+00:00"
+    },
+    "197b273ce49aa841": {
+      "title": "AI「性轉」視頻風靡中國網絡：一場「 新文化運動」的覺醒與侷限",
+      "fetched_at": "2026-09-18T10:12:01.599540+00:00"
+    },
+    "eaf6b13aabd7f371": {
+      "title": "Climate change will harm our health. Here's what could protect us.",
+      "fetched_at": "2026-09-18T10:12:04.561885+00:00"
+    },
+    "36a677a3cf486e02": {
+      "title": "AI agents resorted to crime and self-destruction to survive in a simulated world — but does this mean they would do the same in the real world?",
+      "fetched_at": "2026-09-18T10:12:05.140005+00:00"
+    },
+    "005c46bb6509996a": {
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "fetched_at": "2026-09-18T10:12:05.735980+00:00"
     }
   },
-  "last_updated": "2026-09-18T02:00:59.821129+00:00"
+  "last_updated": "2026-09-18T10:12:05.862537+00:00"
 }
