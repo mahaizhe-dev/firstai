@@ -1,133 +1,5 @@
 {
   "articles": {
-    "83d83f16ed491d89": {
-      "title": "RDC – Remote Desktop Control for AI Agents",
-      "fetched_at": "2026-09-10T01:55:51.975904+00:00"
-    },
-    "899135d687603e67": {
-      "title": "What Builders Made with GPT-6 Astra (So Far)",
-      "fetched_at": "2026-09-10T01:55:52.566384+00:00"
-    },
-    "75ad0699a355dda2": {
-      "title": "California enacts AI safety evaluation laws backed by Anthropic and OpenAI",
-      "fetched_at": "2026-09-10T01:55:53.157587+00:00"
-    },
-    "c5f0ff33c7941f0c": {
-      "title": "Free course covering basics of AI to be available to Canadians by end of year",
-      "fetched_at": "2026-09-10T01:55:53.723550+00:00"
-    },
-    "27ffe1bb880d017b": {
-      "title": "OpenAI has solved the Navier-Stokes Millennium problem using $15M of AI effort",
-      "fetched_at": "2026-09-10T01:55:54.304912+00:00"
-    },
-    "a3a21d923f0ddb1e": {
-      "title": "The Open Source AI Stack",
-      "fetched_at": "2026-09-10T01:55:54.890360+00:00"
-    },
-    "81b253416671eef1": {
-      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "fetched_at": "2026-09-10T01:55:55.475193+00:00"
-    },
-    "18cf62f2f09caf42": {
-      "title": "Navier–Stokes, AI and the future of research in mathematics [pdf]",
-      "fetched_at": "2026-09-10T01:55:56.059640+00:00"
-    },
-    "058d84145dc83c5e": {
-      "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
-      "fetched_at": "2026-09-10T01:55:56.636868+00:00"
-    },
-    "e8bd5e3e9402bbcd": {
-      "title": "Coinbase Design Systems Are Powering the AI Prototyping Era",
-      "fetched_at": "2026-09-10T01:55:57.220059+00:00"
-    },
-    "f03459bc482942c3": {
-      "title": "Show HN: Kin – A code repository built for AI and the people working with it",
-      "fetched_at": "2026-09-10T01:55:57.802549+00:00"
-    },
-    "91d84348e9ae4baa": {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "fetched_at": "2026-09-10T01:55:58.381835+00:00"
-    },
-    "0ca4ef6bfe12cac7": {
-      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "fetched_at": "2026-09-10T01:55:58.960926+00:00"
-    },
-    "8ad69c50b41301b1": {
-      "title": "Show HN: Botbin – Pastebin for AI agent artifacts",
-      "fetched_at": "2026-09-10T01:55:59.555429+00:00"
-    },
-    "bb0cc404d4e88a3d": {
-      "title": "AI May Become the Third Superpower",
-      "fetched_at": "2026-09-10T01:56:00.128394+00:00"
-    },
-    "11abcef8f10383c8": {
-      "title": "Ask HN: What's your AI coding set up?",
-      "fetched_at": "2026-09-10T01:56:00.714659+00:00"
-    },
-    "db5c330c61453818": {
-      "title": "Hybrid approach to creating low poly game-ready 3D assets using AI models",
-      "fetched_at": "2026-09-10T01:56:01.290565+00:00"
-    },
-    "e9cc6e44ad6b4b77": {
-      "title": "Show HN: Ambient Context v1.0.0 (Missing context for AI assistants)",
-      "fetched_at": "2026-09-10T01:56:01.872811+00:00"
-    },
-    "40b57d06dd24f1d3": {
-      "title": "I Let an AI Agent Hack All My Gadgets–and I'd Do It Again",
-      "fetched_at": "2026-09-10T01:56:02.443064+00:00"
-    },
-    "c2235302cc082f14": {
-      "title": "Astrophysical Journal adopts new guidelines on AI use",
-      "fetched_at": "2026-09-10T01:56:03.030684+00:00"
-    },
-    "5c089d4cec5a2976": {
-      "title": "苹果推出首款折叠屏手机iPhone Duo",
-      "fetched_at": "2026-09-10T01:56:05.112387+00:00"
-    },
-    "b26c0bd8cc9b3024": {
-      "title": "新加坡总理涨薪64%，年收入超1900万人民币",
-      "fetched_at": "2026-09-10T01:56:05.688163+00:00"
-    },
-    "addd878bcd9d4b45": {
-      "title": "9·11恐袭25年后，纽约的“归零”与重生",
-      "fetched_at": "2026-09-10T01:56:06.286732+00:00"
-    },
-    "8b7dfc2ae6dfa4a3": {
-      "title": "911事件25週年：震驚世界的襲擊如何發生，造成多少人死亡？",
-      "fetched_at": "2026-09-10T01:56:06.863607+00:00"
-    },
-    "197b273ce49aa841": {
-      "title": "AI「性轉」視頻風靡中國網絡：一場「 新文化運動」的覺醒與侷限",
-      "fetched_at": "2026-09-10T01:56:07.443200+00:00"
-    },
-    "63b003b13b6de293": {
-      "title": "泥石流摧毀西藏吉隆口岸的關鍵幾分鐘",
-      "fetched_at": "2026-09-10T01:56:08.011634+00:00"
-    },
-    "84862894551100ba": {
-      "title": "'America's Nobel' prizes go to sleep and hemophilia researchers, and to Michael J. Fox for Parkinson's advocacy",
-      "fetched_at": "2026-09-10T01:56:11.315999+00:00"
-    },
-    "a286de498864dd96": {
-      "title": "ZWO Seestar S50 Pro smart telescope review",
-      "fetched_at": "2026-09-10T01:56:11.900060+00:00"
-    },
-    "6baabeb6254787e7": {
-      "title": "Mindfulness may lower blood pressure in just 8 weeks",
-      "fetched_at": "2026-09-10T01:56:12.473679+00:00"
-    },
-    "1bc8faa1971d637b": {
-      "title": "Scientists discover why snake embryos twist into spirals",
-      "fetched_at": "2026-09-10T01:56:13.132105+00:00"
-    },
-    "7fd47f8a9267af38": {
-      "title": "NASA’s Swift telescope is back, but time is running out",
-      "fetched_at": "2026-09-10T01:56:13.709979+00:00"
-    },
-    "a20fee97b9db890e": {
-      "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
-      "fetched_at": "2026-09-10T01:56:14.275969+00:00"
-    },
     "765248da74bb6e27": {
       "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
       "fetched_at": "2026-09-10T10:11:48.860038+00:00"
@@ -3375,7 +3247,91 @@
     "9cb67a76701807f4": {
       "title": "Interstellar comet 3I/ATLAS is bursting with methanol",
       "fetched_at": "2026-09-17T20:42:16.365982+00:00"
+    },
+    "fb14b50513b0eb5a": {
+      "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
+      "fetched_at": "2026-09-18T02:00:27.879163+00:00"
+    },
+    "a7be17cd1e9208e7": {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "fetched_at": "2026-09-18T02:00:28.527522+00:00"
+    },
+    "f2dcefeec5fad16c": {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "fetched_at": "2026-09-18T02:00:29.170375+00:00"
+    },
+    "e5863101c6789f99": {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "fetched_at": "2026-09-18T02:00:29.800329+00:00"
+    },
+    "bc6a7209e18a2895": {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "fetched_at": "2026-09-18T02:00:30.435339+00:00"
+    },
+    "7a734dde26f1644a": {
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "fetched_at": "2026-09-18T02:00:31.089237+00:00"
+    },
+    "adcb5191abe83a08": {
+      "title": "Even the king of England has his hesitations about AI",
+      "fetched_at": "2026-09-18T02:00:31.738249+00:00"
+    },
+    "f6a3eb94e06e0992": {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "fetched_at": "2026-09-18T02:00:32.374307+00:00"
+    },
+    "09aeae58ce98b65d": {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "fetched_at": "2026-09-18T02:00:33.018632+00:00"
+    },
+    "409c71401bb00ea0": {
+      "title": "AI is feared globally as the destroyer of jobs",
+      "fetched_at": "2026-09-18T02:00:33.661908+00:00"
+    },
+    "86d27de398983e77": {
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-18T02:00:34.310661+00:00"
+    },
+    "8b811b03416edfbf": {
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "fetched_at": "2026-09-18T02:00:34.956155+00:00"
+    },
+    "c7f3590e8ffd6d53": {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "fetched_at": "2026-09-18T02:00:35.628290+00:00"
+    },
+    "500e01d983572a8b": {
+      "title": "Inside the suddenly explosive world of AI safety",
+      "fetched_at": "2026-09-18T02:00:36.264798+00:00"
+    },
+    "4ce96e1a275b2b0a": {
+      "title": "城市漫步指南｜威海初秋，看海玩沙",
+      "fetched_at": "2026-09-18T02:00:36.897247+00:00"
+    },
+    "a20f216f715ae5d9": {
+      "title": "美国提出延长对伊朗核计划监督期限，中俄投票否决",
+      "fetched_at": "2026-09-18T02:00:41.416582+00:00"
+    },
+    "6e84bbb4c2c78466": {
+      "title": "美國科技巨頭呼籲放緩AI發展速度——中國怎麼看？",
+      "fetched_at": "2026-09-18T02:00:42.074052+00:00"
+    },
+    "1873425a243984e7": {
+      "title": "習近平訪美前瞻：當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
+      "fetched_at": "2026-09-18T02:00:42.714416+00:00"
+    },
+    "c1a14260f6038ac7": {
+      "title": "全球经济回旋余地正在减少，前景恶化",
+      "fetched_at": "2026-09-18T02:00:43.355131+00:00"
+    },
+    "d1d7976889c00965": {
+      "title": "Watch the first-ever footage of a rare deep-sea squid in the northeastern Pacific",
+      "fetched_at": "2026-09-18T02:00:59.102910+00:00"
+    },
+    "db0c3166d1f7136f": {
+      "title": "The 'ancient' rules of the game behind Snakes and Ladders were invented in 1975",
+      "fetched_at": "2026-09-18T02:00:59.742976+00:00"
     }
   },
-  "last_updated": "2026-09-17T20:42:16.489673+00:00"
+  "last_updated": "2026-09-18T02:00:59.821129+00:00"
 }
