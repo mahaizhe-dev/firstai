@@ -1,0 +1,10 @@
+---
+title: 'These blood thinners may have an unexpected benefit for Alzheimer’s patients'
+description: 'Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive'
+pubDate: 2026-09-18T05:48:31
+source: 'Science Daily'
+sourceUrl: 'https://www.sciencedaily.com/releases/2026/09/260917003732.htm'
+tags: []
+---
+
+Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. The effect was modest each year but could add up over time.

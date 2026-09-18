@@ -1,17 +1,5 @@
 {
   "articles": {
-    "97977c23182a838f": {
-      "title": "'Biggest surprise of my life': Homeowner discovers Denmark's largest Viking Age silver hoard in their backyard",
-      "fetched_at": "2026-09-10T10:12:06.206963+00:00"
-    },
-    "8e68c499b8919d83": {
-      "title": "Is the NFL doing enough to protect athletes from head injuries?",
-      "fetched_at": "2026-09-10T10:12:06.803444+00:00"
-    },
-    "8b66de05ed4c397e": {
-      "title": "Man rummaging in a Polish junkyard finds a 1,800-year-old shield holding the cremated remains of a Vandal warrior",
-      "fetched_at": "2026-09-10T10:12:07.381281+00:00"
-    },
     "8574da074fd1c197": {
       "title": "\"Good\" AI",
       "fetched_at": "2026-09-10T15:24:54.222560+00:00"
@@ -3299,7 +3287,135 @@
     "005c46bb6509996a": {
       "title": "Pre-Greek: The lost language hidden within Ancient Greek",
       "fetched_at": "2026-09-18T10:12:05.735980+00:00"
+    },
+    "a9e49cc9d47ddf48": {
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "fetched_at": "2026-09-18T15:23:13.500340+00:00"
+    },
+    "220f5755f6ebf768": {
+      "title": "AI is an elite crime spree",
+      "fetched_at": "2026-09-18T15:23:14.136399+00:00"
+    },
+    "89d06a3a169d6292": {
+      "title": "With a Shovel of Salt: AI Success Stories and the Retraction Gap",
+      "fetched_at": "2026-09-18T15:23:14.803749+00:00"
+    },
+    "af8d7bbfb92da202": {
+      "title": "Gov. Newsom issues executive order to rein in AI 'before it's too late'",
+      "fetched_at": "2026-09-18T15:23:15.499843+00:00"
+    },
+    "6e2ee5ca1c94c313": {
+      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+      "fetched_at": "2026-09-18T15:23:16.123529+00:00"
+    },
+    "598bb51c37ddfaf9": {
+      "title": "A custom virtual machine for the Stars 4X game",
+      "fetched_at": "2026-09-18T15:23:16.748122+00:00"
+    },
+    "7d88cdd7cabdd2d7": {
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-18T15:23:17.373754+00:00"
+    },
+    "7c1429ddfd0e0d4a": {
+      "title": "Why Harvard's Dean 'Encourages' Students to Use AI",
+      "fetched_at": "2026-09-18T15:23:17.996098+00:00"
+    },
+    "ccaf153f09aaa8f2": {
+      "title": "Let GPT-6 Astra code without using Codex Usage",
+      "fetched_at": "2026-09-18T15:23:18.632972+00:00"
+    },
+    "5d8c7e02570e4893": {
+      "title": "Show HN: Servers for AI, not another AWS",
+      "fetched_at": "2026-09-18T15:23:19.272449+00:00"
+    },
+    "70f833d0219753ce": {
+      "title": "AI Protest in Montreal",
+      "fetched_at": "2026-09-18T15:23:19.892440+00:00"
+    },
+    "889881a62fada9c5": {
+      "title": "I built Anchor. The open-source ontology layer for AI agents",
+      "fetched_at": "2026-09-18T15:23:20.530194+00:00"
+    },
+    "ecfa6cdc5ce71c1d": {
+      "title": "Ask HN: Have you stopped underestimating AI yet?",
+      "fetched_at": "2026-09-18T15:23:21.169449+00:00"
+    },
+    "3aea4640942f9f59": {
+      "title": "Is AI Conscious? (My Response to Thomas Campbell)",
+      "fetched_at": "2026-09-18T15:23:21.797991+00:00"
+    },
+    "33860568a41c321c": {
+      "title": "Are chatbots changing the way people talk? Language in the age of AI",
+      "fetched_at": "2026-09-18T15:23:22.417046+00:00"
+    },
+    "b3543b82682bce3c": {
+      "title": "The new CC, an AI agent built for families",
+      "fetched_at": "2026-09-18T15:23:23.050810+00:00"
+    },
+    "931f31e46bd2db6c": {
+      "title": "OpenAI's latest AI revelation is a 'serious situation,' says Microsoft",
+      "fetched_at": "2026-09-18T15:23:23.699389+00:00"
+    },
+    "56cd86c81633c761": {
+      "title": "OpenAI lost the plot on boring LLM use cases (2025)",
+      "fetched_at": "2026-09-18T15:23:24.330219+00:00"
+    },
+    "8a72c96c7653f998": {
+      "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
+      "fetched_at": "2026-09-18T15:23:25.008592+00:00"
+    },
+    "855b1211d0361e3e": {
+      "title": "Think Like an Attacker: CI/CD Security in the AI Era",
+      "fetched_at": "2026-09-18T15:23:25.621495+00:00"
+    },
+    "7fdbfbf31a0d7dd8": {
+      "title": "對台軍售成「特習會」談判籌碼？北京警告或取消峰會施壓特朗普",
+      "fetched_at": "2026-09-18T15:23:28.385305+00:00"
+    },
+    "8de4f8e2aeec0991": {
+      "title": "Scientists discover cells that cheat death and rebuild damaged tissue",
+      "fetched_at": "2026-09-18T15:23:30.436256+00:00"
+    },
+    "8630cbc2f860d815": {
+      "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
+      "fetched_at": "2026-09-18T15:23:31.084027+00:00"
+    },
+    "7be2931e6118adca": {
+      "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
+      "fetched_at": "2026-09-18T15:23:31.712090+00:00"
+    },
+    "564887360e9854a8": {
+      "title": "Scientists are about to test Einstein’s gravity with exotic matter",
+      "fetched_at": "2026-09-18T15:23:32.347815+00:00"
+    },
+    "ac0c1204399e3d58": {
+      "title": "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
+      "fetched_at": "2026-09-18T15:23:33.001380+00:00"
+    },
+    "e31b8df9402d60de": {
+      "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
+      "fetched_at": "2026-09-18T15:23:33.640447+00:00"
+    },
+    "dd222da446fd0d23": {
+      "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+      "fetched_at": "2026-09-18T15:23:34.256856+00:00"
+    },
+    "606f45ab8aaf4c8e": {
+      "title": "Ozempic can change your body. Can it change your life?",
+      "fetched_at": "2026-09-18T15:23:34.977843+00:00"
+    },
+    "1da6300c11c20a58": {
+      "title": "Anak Krakatau blasts ash nearly 10 miles high",
+      "fetched_at": "2026-09-18T15:23:35.661083+00:00"
+    },
+    "91c77dc915490ee9": {
+      "title": "Newly confirmed 'baby planet' is the youngest alien world scientists have ever discovered",
+      "fetched_at": "2026-09-18T15:23:36.284070+00:00"
+    },
+    "306a5c03658ea14c": {
+      "title": "A Harvest Moon with 5 planets on the side: September is the best month for stargazing, ‪and this year is extra special",
+      "fetched_at": "2026-09-18T15:23:36.914299+00:00"
     }
   },
-  "last_updated": "2026-09-18T10:12:05.862537+00:00"
+  "last_updated": "2026-09-18T15:23:37.035536+00:00"
 }
