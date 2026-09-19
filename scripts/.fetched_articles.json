@@ -1,145 +1,5 @@
 {
   "articles": {
-    "cb62064c08eaa6f2": {
-      "title": "Yemeni militants used Anthropic AI to try to build ballistic missiles",
-      "fetched_at": "2026-09-11T10:09:04.888228+00:00"
-    },
-    "0b9d673e5a9e4148": {
-      "title": "Ask HN: Remove Filler LLM Comments",
-      "fetched_at": "2026-09-11T10:09:05.476092+00:00"
-    },
-    "7c83281ae610a975": {
-      "title": "AI boom helps drive surprise UK growth in July",
-      "fetched_at": "2026-09-11T10:09:06.056274+00:00"
-    },
-    "64a9c5e602146541": {
-      "title": "(Re)Building an AI-Ready Data Universe at BlaBlaCar",
-      "fetched_at": "2026-09-11T10:09:06.649923+00:00"
-    },
-    "85cc8c2823a9f8ec": {
-      "title": "Learning without a brain – how bacteria store memories and remember like ANNs",
-      "fetched_at": "2026-09-11T10:09:07.230791+00:00"
-    },
-    "b8534ffdc869f157": {
-      "title": "Redis built a cache that cuts LLM costs",
-      "fetched_at": "2026-09-11T10:09:07.821161+00:00"
-    },
-    "fa542717b5243b1e": {
-      "title": "LLM 0.35",
-      "fetched_at": "2026-09-11T10:09:08.421480+00:00"
-    },
-    "d2124c336c31f4fd": {
-      "title": "How big is the open-model threat to AI hyperscalers?",
-      "fetched_at": "2026-09-11T10:09:09.010475+00:00"
-    },
-    "9d9b5576aace0250": {
-      "title": "Anthropic says it stopped scientists potentially developing bioweapons with AI",
-      "fetched_at": "2026-09-11T10:09:09.587474+00:00"
-    },
-    "c3b8a9b947562a62": {
-      "title": "Latham and Watkins buys Nvidia servers to set up in-house AI systems",
-      "fetched_at": "2026-09-11T10:09:10.166069+00:00"
-    },
-    "a6f1a8453df6f95c": {
-      "title": "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
-      "fetched_at": "2026-09-11T10:09:10.770259+00:00"
-    },
-    "cb98522add5967e0": {
-      "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-      "fetched_at": "2026-09-11T10:09:11.358426+00:00"
-    },
-    "d63c4eb366ed290b": {
-      "title": "Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance",
-      "fetched_at": "2026-09-11T10:09:11.939677+00:00"
-    },
-    "88b278b5aed1f297": {
-      "title": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
-      "fetched_at": "2026-09-11T10:09:12.540914+00:00"
-    },
-    "aa52cafb1c7d0149": {
-      "title": "Act as a Conversational AI Prompt",
-      "fetched_at": "2026-09-11T10:09:13.122186+00:00"
-    },
-    "366852262e3d6ae5": {
-      "title": "Duck.ai is a feature that allows you to have private conversations",
-      "fetched_at": "2026-09-11T10:09:13.721607+00:00"
-    },
-    "c0ae4ac7811469b8": {
-      "title": "Extending Raschka's GPT-2: an MoE trained from scratch on an RTX 3090",
-      "fetched_at": "2026-09-11T10:09:14.308136+00:00"
-    },
-    "a882e29b3ed03482": {
-      "title": "How Emmanuel Macron brought France's AI darling to the world stage",
-      "fetched_at": "2026-09-11T10:09:14.899400+00:00"
-    },
-    "0c597ad0ea005c75": {
-      "title": "Ask HN: Is using AI harmful to human Critical Thinking and Decision making?",
-      "fetched_at": "2026-09-11T10:09:15.510854+00:00"
-    },
-    "fe7368ea855f2773": {
-      "title": "U4RIA: An emotional wellness app using dynamic audio and AI personalization",
-      "fetched_at": "2026-09-11T10:09:16.101748+00:00"
-    },
-    "31d9d31bf8400950": {
-      "title": "習近平七年來首次訪印前瞻：中印回暖背後的美國陰影與西藏問題",
-      "fetched_at": "2026-09-11T10:09:18.325390+00:00"
-    },
-    "5bbe8cea1791f04b": {
-      "title": "特朗普真的能向每位美國成年人發放5000美元嗎？",
-      "fetched_at": "2026-09-11T10:09:18.897948+00:00"
-    },
-    "b277f9fc9c3cb079": {
-      "title": "香港支聯會「煽動顛覆」案：被告們的伴侶與戰友",
-      "fetched_at": "2026-09-11T10:09:19.486285+00:00"
-    },
-    "53c26788a162af97": {
-      "title": "911事件25年後 美國機場安檢醞釀「鬆綁」：無票可到登機口送行、滿瓶水可過安檢",
-      "fetched_at": "2026-09-11T10:09:20.064889+00:00"
-    },
-    "5b088e37fa630192": {
-      "title": "香港支聯會「煽動顛覆」案：李卓人、鄒幸彤、何俊仁判囚5至7年",
-      "fetched_at": "2026-09-11T10:09:20.651866+00:00"
-    },
-    "d7f83d41bca1a27f": {
-      "title": "為甚麼我們會記錯911事件？",
-      "fetched_at": "2026-09-11T10:09:21.255176+00:00"
-    },
-    "7c60422e71d733da": {
-      "title": "間諜、戰略與錯失的機會：911的教訓至今仍在消化",
-      "fetched_at": "2026-09-11T10:09:21.844509+00:00"
-    },
-    "c8069d46701b9e45": {
-      "title": "美国在阿富汗的“永久战争”：25年影像全记录",
-      "fetched_at": "2026-09-11T10:09:22.461691+00:00"
-    },
-    "f1bd2eda134c18ea": {
-      "title": "人工智能末日论：人类为何会如此担忧？",
-      "fetched_at": "2026-09-11T10:09:23.049238+00:00"
-    },
-    "03bc2f2c93fdd0a5": {
-      "title": "利用AI开发生物武器？Anthropic称阻止多起相关企图",
-      "fetched_at": "2026-09-11T10:09:23.647731+00:00"
-    },
-    "266443afa23c4261": {
-      "title": "香港天安门事件守夜活动组织者被判入狱",
-      "fetched_at": "2026-09-11T10:09:24.263743+00:00"
-    },
-    "a2e1bbd116a461ae": {
-      "title": "9·11事件真的改变了一切吗？",
-      "fetched_at": "2026-09-11T10:09:24.844303+00:00"
-    },
-    "fa57cbed8536e16b": {
-      "title": "副总统万斯向军方官员寻求伊朗战争真实评估",
-      "fetched_at": "2026-09-11T10:09:25.434388+00:00"
-    },
-    "9bd90f1e6325c11a": {
-      "title": "Finland's largest Viking Age silver hoard discovered by metal detectorist — and it has thousands of coins and pieces of jewelry",
-      "fetched_at": "2026-09-11T10:09:27.666019+00:00"
-    },
-    "5fdfa9dd204bf477": {
-      "title": "'Every time it gets excited — boom — it collapses': How dogs with narcolepsy helped scientists understand the disorder",
-      "fetched_at": "2026-09-11T10:09:28.248682+00:00"
-    },
     "603a469560b92bff": {
       "title": "AI Accident Again",
       "fetched_at": "2026-09-11T15:26:57.962236+00:00"
@@ -3435,7 +3295,103 @@
     "98ab7bc3a73bd01b": {
       "title": "Infectious diseases will seed new ground as the planet warms — here's where they'll spread",
       "fetched_at": "2026-09-19T09:53:29.486167+00:00"
+    },
+    "4490ef3a604acfb7": {
+      "title": "Certify the Conversation, Not Just the AI Agent",
+      "fetched_at": "2026-09-19T14:59:23.617818+00:00"
+    },
+    "192ce32e5354a702": {
+      "title": "AI Made Delegation Easy: Structure Is Still the Skill",
+      "fetched_at": "2026-09-19T14:59:24.190738+00:00"
+    },
+    "9b0602267aba2562": {
+      "title": "Guesswork – zsh autosuggestions ranked by an AI model instead of prefix match",
+      "fetched_at": "2026-09-19T14:59:24.766427+00:00"
+    },
+    "c3e4e2d7bdbcaaa9": {
+      "title": "Ask HN: As a freelancer how should I charge my clients in AI era?",
+      "fetched_at": "2026-09-19T14:59:25.336839+00:00"
+    },
+    "dc1d0bc1c0f776cc": {
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "fetched_at": "2026-09-19T14:59:25.905073+00:00"
+    },
+    "cf95b3346d95d24d": {
+      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+      "fetched_at": "2026-09-19T14:59:26.476464+00:00"
+    },
+    "7bbbda9c72d6da36": {
+      "title": "How should we evaluate whether an AI agent's memory is still current?",
+      "fetched_at": "2026-09-19T14:59:27.054389+00:00"
+    },
+    "50dfee7b354cab5e": {
+      "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
+      "fetched_at": "2026-09-19T14:59:27.628870+00:00"
+    },
+    "ebfbaf4084af89ce": {
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "fetched_at": "2026-09-19T14:59:28.212707+00:00"
+    },
+    "cea89d08ed32d04b": {
+      "title": "Show HN: We've built an AI UGC video creator,free for one month",
+      "fetched_at": "2026-09-19T14:59:28.788471+00:00"
+    },
+    "fc17cdda188ed5c4": {
+      "title": "The AI Model That Won't Talk to You: The Missing Piece for AI Workflows?",
+      "fetched_at": "2026-09-19T14:59:29.365904+00:00"
+    },
+    "5fea4c81111078be": {
+      "title": "GPT–6 Astra breaking an Enigma message that has resisted solution since 2005",
+      "fetched_at": "2026-09-19T14:59:29.936660+00:00"
+    },
+    "ee35b6847b8dd6c7": {
+      "title": "The Wrong Race: the US, China, and AI Competition [pdf]",
+      "fetched_at": "2026-09-19T14:59:30.526406+00:00"
+    },
+    "504250910025ebfa": {
+      "title": "The Science of Machine Learning vs. the Push for AI Deployment",
+      "fetched_at": "2026-09-19T14:59:31.110435+00:00"
+    },
+    "0ffbaa39c869261a": {
+      "title": "Reimagining research papers as interactive and reliable AI agents",
+      "fetched_at": "2026-09-19T14:59:31.701146+00:00"
+    },
+    "abead679fba5a50f": {
+      "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
+      "fetched_at": "2026-09-19T14:59:32.306071+00:00"
+    },
+    "3e4e4586d24720bf": {
+      "title": "Can the AI arms race be stopped?",
+      "fetched_at": "2026-09-19T14:59:32.887315+00:00"
+    },
+    "06a5b3044a0ca675": {
+      "title": "SafeSeal: Certifiable Watermarking for LLM Deployments",
+      "fetched_at": "2026-09-19T14:59:33.463349+00:00"
+    },
+    "8e72a71a13e93d2a": {
+      "title": "The AI regulation smackdown isn’t over",
+      "fetched_at": "2026-09-19T14:59:34.040478+00:00"
+    },
+    "d88bf0e9789752cc": {
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "fetched_at": "2026-09-19T14:59:34.618522+00:00"
+    },
+    "caeddd72af9075c2": {
+      "title": "特朗普據報將赴機場迎接習近平，待遇比肩教宗和赫魯曉夫",
+      "fetched_at": "2026-09-19T14:59:36.815430+00:00"
+    },
+    "c30469b7b9c86c27": {
+      "title": "當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
+      "fetched_at": "2026-09-19T14:59:37.471648+00:00"
+    },
+    "d0f8f46310983fc9": {
+      "title": "Scientists build a DNA computer that can perform calculations in a drop of water",
+      "fetched_at": "2026-09-19T14:59:39.935077+00:00"
+    },
+    "4bd5da920e4cebb0": {
+      "title": "An 'impossible' black hole merger may finally be solved thanks to Einstein's relativity — but it raises an even bigger mystery",
+      "fetched_at": "2026-09-19T14:59:40.505900+00:00"
     }
   },
-  "last_updated": "2026-09-19T09:53:29.568379+00:00"
+  "last_updated": "2026-09-19T14:59:40.631320+00:00"
 }
