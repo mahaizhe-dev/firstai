@@ -1,157 +1,5 @@
 {
   "articles": {
-    "603a469560b92bff": {
-      "title": "AI Accident Again",
-      "fetched_at": "2026-09-11T15:26:57.962236+00:00"
-    },
-    "1d102cbcf075117d": {
-      "title": "Rogue actors are creating bioweapons using AI – report",
-      "fetched_at": "2026-09-11T15:26:58.549581+00:00"
-    },
-    "ee073f96016d278c": {
-      "title": "Show HN: NextBlock – Build sites with your AI via MCP, manage them in a CMS",
-      "fetched_at": "2026-09-11T15:26:59.131947+00:00"
-    },
-    "ef07d117bc9e07be": {
-      "title": "Ask HN: What will happen if AI is mature and people have little work to do?",
-      "fetched_at": "2026-09-11T15:26:59.735666+00:00"
-    },
-    "0088ca5c06256677": {
-      "title": "Show HN: Hacker News, without AI",
-      "fetched_at": "2026-09-11T15:27:00.311879+00:00"
-    },
-    "606d4915136d8b7e": {
-      "title": "Show HN: Autonet, a self-sufficient economy for AI and human agents",
-      "fetched_at": "2026-09-11T15:27:00.912349+00:00"
-    },
-    "8bb50705e36b2923": {
-      "title": "Lehi, Utah AI Railroad Museum [video]",
-      "fetched_at": "2026-09-11T15:27:01.499012+00:00"
-    },
-    "96b5878523380ae3": {
-      "title": "Show HN: Nextpage – a split-pane desktop app to feed search results into AI chat",
-      "fetched_at": "2026-09-11T15:27:02.106841+00:00"
-    },
-    "ccb2699e54bef6fd": {
-      "title": "ASDR (AI Slop, Don't Read)",
-      "fetched_at": "2026-09-11T15:27:02.710699+00:00"
-    },
-    "a1d0f1b2f8183e0b": {
-      "title": "Ask HN: What if we funded math research like we fund AI labs?",
-      "fetched_at": "2026-09-11T15:27:03.313620+00:00"
-    },
-    "3b1e93252422ee2e": {
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "fetched_at": "2026-09-11T15:27:03.915553+00:00"
-    },
-    "e629bb9de41890d5": {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "fetched_at": "2026-09-11T15:27:04.496348+00:00"
-    },
-    "988ad24330394512": {
-      "title": "Show HN: Toolcraft – open-source AI harness and starter for building design apps",
-      "fetched_at": "2026-09-11T15:27:05.089193+00:00"
-    },
-    "db560f392252def4": {
-      "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
-      "fetched_at": "2026-09-11T15:27:05.683739+00:00"
-    },
-    "0458001b63ec8ea7": {
-      "title": "190proof opinionated unified interface to interact with multiple AI providers",
-      "fetched_at": "2026-09-11T15:27:06.268363+00:00"
-    },
-    "326b0846830bc917": {
-      "title": "Show HN: Bastiontrace – Forensics for prompt-injected AI agents",
-      "fetched_at": "2026-09-11T15:27:06.857218+00:00"
-    },
-    "cd85cec4d6f9db7a": {
-      "title": "LLM is the front door while SaaS controls the underlying CRM data and actions",
-      "fetched_at": "2026-09-11T15:27:07.484990+00:00"
-    },
-    "47309889869ff15f": {
-      "title": "The Multiplayer AI Manifesto",
-      "fetched_at": "2026-09-11T15:27:08.076638+00:00"
-    },
-    "20ea52e308b9fee3": {
-      "title": "For safety: Keep AI lonely",
-      "fetched_at": "2026-09-11T15:27:08.665258+00:00"
-    },
-    "5b2a9d9e5628db73": {
-      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-      "fetched_at": "2026-09-11T15:27:09.270891+00:00"
-    },
-    "b7ae16695195d26d": {
-      "title": "專訪鄧燕娥：與李卓人相伴四十年「互相撐著」",
-      "fetched_at": "2026-09-11T15:27:12.396239+00:00"
-    },
-    "80fb41440f7ad0e0": {
-      "title": "911事件25年後 美國機場安檢醞釀「鬆綁」",
-      "fetched_at": "2026-09-11T15:27:12.996092+00:00"
-    },
-    "b9a838bacee97b87": {
-      "title": "「無時無刻都在想」：911事件25年後審訊仍未了，難屬傷痛難癒",
-      "fetched_at": "2026-09-11T15:27:13.579658+00:00"
-    },
-    "ae69670c44fb94c9": {
-      "title": "Show HN: Hermes – RyanAir price API with historical data",
-      "fetched_at": "2026-09-11T15:27:16.211746+00:00"
-    },
-    "f5e5deac86eb2a0f": {
-      "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-      "fetched_at": "2026-09-11T15:27:16.815844+00:00"
-    },
-    "07ac7ad391a7650b": {
-      "title": "Swarovski CL Companion compact binocular review",
-      "fetched_at": "2026-09-11T15:27:17.402096+00:00"
-    },
-    "47ccb6534ab04e9e": {
-      "title": "Brain shrinkage tied to aging 'pauses' as a woman nears menopause, study finds",
-      "fetched_at": "2026-09-11T15:27:17.998396+00:00"
-    },
-    "820a4613ff52826a": {
-      "title": "Wasps are disappearing this summer, and scientists are worried",
-      "fetched_at": "2026-09-11T15:27:18.596957+00:00"
-    },
-    "859b7d28dc76e39e": {
-      "title": "Physicists just found a tiny glitch in time itself",
-      "fetched_at": "2026-09-11T15:27:19.179923+00:00"
-    },
-    "dd458898c896336c": {
-      "title": "Scientists discover the human heart can regrow muscle after a heart attack",
-      "fetched_at": "2026-09-11T15:27:19.770868+00:00"
-    },
-    "e5254e097c21a2ca": {
-      "title": "The Moon may have formed intact just hours after a giant collision",
-      "fetched_at": "2026-09-11T15:27:20.384233+00:00"
-    },
-    "e5c31bdf704a598f": {
-      "title": "UCLA scientists turn cord blood into powerful cancer-fighting T cells",
-      "fetched_at": "2026-09-11T15:27:20.979147+00:00"
-    },
-    "e8721b5ded299b1b": {
-      "title": "Scientists capture two DNA strands zipping together for the first time",
-      "fetched_at": "2026-09-11T15:27:21.575399+00:00"
-    },
-    "17d474e1c12902a4": {
-      "title": "DNA solves the mystery of a body found in the Arctic in 1859",
-      "fetched_at": "2026-09-11T15:27:22.179794+00:00"
-    },
-    "ef39173d33b997d9": {
-      "title": "Scientists create brilliant white material without a drop of white pigment",
-      "fetched_at": "2026-09-11T15:27:22.772100+00:00"
-    },
-    "ac1c28cb7970314d": {
-      "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
-      "fetched_at": "2026-09-11T15:27:23.354176+00:00"
-    },
-    "5e4e17185b1c93c5": {
-      "title": "Ancient teeth reveal humans were getting high 25,000 years ago",
-      "fetched_at": "2026-09-11T15:27:23.944074+00:00"
-    },
-    "34ac2e9cc209e83c": {
-      "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
-      "fetched_at": "2026-09-11T15:27:24.527220+00:00"
-    },
     "b0dcbdbb822a989f": {
       "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
       "fetched_at": "2026-09-11T20:10:49.610292+00:00"
@@ -3391,7 +3239,103 @@
     "4bd5da920e4cebb0": {
       "title": "An 'impossible' black hole merger may finally be solved thanks to Einstein's relativity — but it raises an even bigger mystery",
       "fetched_at": "2026-09-19T14:59:40.505900+00:00"
+    },
+    "c899c62adfa0d314": {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "fetched_at": "2026-09-19T19:43:48.662117+00:00"
+    },
+    "e41859bcc3a59c79": {
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "fetched_at": "2026-09-19T19:43:49.317638+00:00"
+    },
+    "3c15e6192fbf2391": {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "fetched_at": "2026-09-19T19:43:49.935843+00:00"
+    },
+    "ca8bff679cb16c7d": {
+      "title": "AI safety conversations have gotten unbelievable",
+      "fetched_at": "2026-09-19T19:43:50.548938+00:00"
+    },
+    "f381e5e7d2628957": {
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "fetched_at": "2026-09-19T19:43:51.171727+00:00"
+    },
+    "85f6a8c5dee88c26": {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "fetched_at": "2026-09-19T19:43:51.795260+00:00"
+    },
+    "4937e3087b8e695c": {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "fetched_at": "2026-09-19T19:43:52.421958+00:00"
+    },
+    "089daeaf151cba31": {
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "fetched_at": "2026-09-19T19:43:53.037477+00:00"
+    },
+    "68df75d0b24a2399": {
+      "title": "World model companies are keeping a lot of secrets",
+      "fetched_at": "2026-09-19T19:43:53.730862+00:00"
+    },
+    "b5d593e6806adcc7": {
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "fetched_at": "2026-09-19T19:43:54.356156+00:00"
+    },
+    "27d37efa498270a5": {
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "fetched_at": "2026-09-19T19:43:54.985294+00:00"
+    },
+    "e9559485cd66a2a4": {
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "fetched_at": "2026-09-19T19:43:55.610709+00:00"
+    },
+    "f4357b6f6fd8e07e": {
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "fetched_at": "2026-09-19T19:43:56.220792+00:00"
+    },
+    "c26fee07604d4fb6": {
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "fetched_at": "2026-09-19T19:43:56.844939+00:00"
+    },
+    "d509d0559be7b7e8": {
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "fetched_at": "2026-09-19T19:43:57.459685+00:00"
+    },
+    "6a36fb74b24a98d8": {
+      "title": "What Hollywood thinks about existential AI warnings",
+      "fetched_at": "2026-09-19T19:43:58.097825+00:00"
+    },
+    "be147a913be25f10": {
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "fetched_at": "2026-09-19T19:43:58.716668+00:00"
+    },
+    "6c2c826bb9916692": {
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-19T19:43:59.346229+00:00"
+    },
+    "1924903d6abf6ac1": {
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "fetched_at": "2026-09-19T19:43:59.966722+00:00"
+    },
+    "f21b058883b1c86c": {
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "fetched_at": "2026-09-19T19:44:00.606216+00:00"
+    },
+    "b277f9fc9c3cb079": {
+      "title": "香港支聯會「煽動顛覆」案：被告們的伴侶與戰友",
+      "fetched_at": "2026-09-19T19:44:04.266942+00:00"
+    },
+    "d7f83d41bca1a27f": {
+      "title": "為甚麼我們會記錯911事件？",
+      "fetched_at": "2026-09-19T19:44:04.903825+00:00"
+    },
+    "9bd90f1e6325c11a": {
+      "title": "Finland's largest Viking Age silver hoard discovered by metal detectorist — and it has thousands of coins and pieces of jewelry",
+      "fetched_at": "2026-09-19T19:44:07.380582+00:00"
+    },
+    "5fdfa9dd204bf477": {
+      "title": "'Every time it gets excited — boom — it collapses': How dogs with narcolepsy helped scientists understand the disorder",
+      "fetched_at": "2026-09-19T19:44:08.005307+00:00"
     }
   },
-  "last_updated": "2026-09-19T14:59:40.631320+00:00"
+  "last_updated": "2026-09-19T19:44:08.090170+00:00"
 }
