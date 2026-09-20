@@ -1,97 +1,5 @@
 {
   "articles": {
-    "5345f1c42c78dc75": {
-      "title": "Perplexity trusts GPT‑6 Astra with end-to-end systems",
-      "fetched_at": "2026-09-12T09:44:23.732503+00:00"
-    },
-    "361dee65fae51827": {
-      "title": "GoatCode – open-source terminal AI agent with provider failover",
-      "fetched_at": "2026-09-12T09:44:24.311147+00:00"
-    },
-    "4482cd2257e1f3e9": {
-      "title": "AI may be denting computer science graduates' job prospects, UK data shows",
-      "fetched_at": "2026-09-12T09:44:24.896509+00:00"
-    },
-    "0482aa254ab22647": {
-      "title": "The Newsroom EP01 – OpenAI Ships GPT-5 to Azure – DeepSeek Open-Sources 236B Moe",
-      "fetched_at": "2026-09-12T09:44:25.482361+00:00"
-    },
-    "0b20d7630ffd1d08": {
-      "title": "UAE revises 5GW AI data center plan after Iranian attacks, sources say",
-      "fetched_at": "2026-09-12T09:44:26.057960+00:00"
-    },
-    "55b7737166680d11": {
-      "title": "Show HN: Sharpniq – AI-powered tool to unblur images online",
-      "fetched_at": "2026-09-12T09:44:26.640110+00:00"
-    },
-    "ead5d0ffa29a6234": {
-      "title": "Interview: Terence Tao on AI",
-      "fetched_at": "2026-09-12T09:44:27.215117+00:00"
-    },
-    "08a482da3824e739": {
-      "title": "Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs",
-      "fetched_at": "2026-09-12T09:44:27.793988+00:00"
-    },
-    "957ed5cb0c3950c1": {
-      "title": "Jot – AI Rewriter",
-      "fetched_at": "2026-09-12T09:44:28.396893+00:00"
-    },
-    "f1fa463a0ecd7323": {
-      "title": "Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing",
-      "fetched_at": "2026-09-12T09:44:28.971002+00:00"
-    },
-    "6312f7dd79ca82cd": {
-      "title": "Ask HN: What is the most overlooked risk in the AI security domain?",
-      "fetched_at": "2026-09-12T09:44:29.565526+00:00"
-    },
-    "c6b03289e0cd6eca": {
-      "title": "Brainstorming novel biological attacks with an LLM",
-      "fetched_at": "2026-09-12T09:44:30.144184+00:00"
-    },
-    "165723ec1ee87efa": {
-      "title": "Ask HN: Did anyone try to build game engine purely for LLM",
-      "fetched_at": "2026-09-12T09:44:30.726437+00:00"
-    },
-    "58bfe10b388ed46c": {
-      "title": "Roundtables: AI's Apocalypse Crisis",
-      "fetched_at": "2026-09-12T09:44:31.297998+00:00"
-    },
-    "b670fdffce2bf57a": {
-      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
-      "fetched_at": "2026-09-12T09:44:31.875728+00:00"
-    },
-    "bb62364911709c0b": {
-      "title": "This is really bad: AI Safety Threat",
-      "fetched_at": "2026-09-12T09:44:32.466102+00:00"
-    },
-    "d6126252254cbdf5": {
-      "title": "Artemis: Google's new AI agent framework for mobile test automation",
-      "fetched_at": "2026-09-12T09:44:33.042620+00:00"
-    },
-    "373d03b399b2ce6d": {
-      "title": "Teaching Novice Computing and Programming in the Agentic AI Era",
-      "fetched_at": "2026-09-12T09:44:33.657231+00:00"
-    },
-    "122ec7348e7a3244": {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs",
-      "fetched_at": "2026-09-12T09:44:34.236775+00:00"
-    },
-    "126bffd4ff9a0d6b": {
-      "title": "Pacman AI framework for controlling fusion systems safely makes key decisions",
-      "fetched_at": "2026-09-12T09:44:34.817419+00:00"
-    },
-    "7cdc893bc46738cb": {
-      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
-      "fetched_at": "2026-09-12T09:44:36.924656+00:00"
-    },
-    "fa6d918ac65db98b": {
-      "title": "Why is Venus hotter than Mercury, when Mercury is closer to the sun?",
-      "fetched_at": "2026-09-12T09:44:39.204020+00:00"
-    },
-    "65b8692f48b9c267": {
-      "title": "Psilocybin may protect against a common, debilitating side effect of chemotherapy, early study finds",
-      "fetched_at": "2026-09-12T09:44:39.780673+00:00"
-    },
     "0edd218d3f4db59e": {
       "title": "GPT-6's \"Stealth Thinking\" [video]",
       "fetched_at": "2026-09-12T14:34:33.011056+00:00"
@@ -3267,7 +3175,151 @@
     "34ac2e9cc209e83c": {
       "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
       "fetched_at": "2026-09-20T02:10:50.599530+00:00"
+    },
+    "2ff7efa799c689c8": {
+      "title": "AI and the Destruction of the Creative Commons",
+      "fetched_at": "2026-09-20T10:15:17.686640+00:00"
+    },
+    "f02c74db5f2c2f90": {
+      "title": "Jev is the fastest-adopted model in AI Gateway history",
+      "fetched_at": "2026-09-20T10:15:18.251456+00:00"
+    },
+    "8fea749fca8d4bdf": {
+      "title": "Show HN: Delightful Cells – reliable AI batch processing for spreadsheets",
+      "fetched_at": "2026-09-20T10:15:18.917059+00:00"
+    },
+    "93552e6096f69112": {
+      "title": "Drop-in Django app to serve a decent LLM-ready documentation site",
+      "fetched_at": "2026-09-20T10:15:19.484275+00:00"
+    },
+    "f554f1c8784f6f6c": {
+      "title": "I built an extension that hides your personal information from AI",
+      "fetched_at": "2026-09-20T10:15:20.053660+00:00"
+    },
+    "7959759ff0a47e8c": {
+      "title": "Why China is pushing back on US warnings over rapid AI development",
+      "fetched_at": "2026-09-20T10:15:20.643181+00:00"
+    },
+    "63634c611f8639b1": {
+      "title": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
+      "fetched_at": "2026-09-20T10:15:21.236094+00:00"
+    },
+    "98b6e1edc37e2119": {
+      "title": "Enjambre – a durable kernel for swarms of AI agents (Python, MCP)",
+      "fetched_at": "2026-09-20T10:15:21.812254+00:00"
+    },
+    "e14f81cc0f3cd577": {
+      "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+      "fetched_at": "2026-09-20T10:15:22.377243+00:00"
+    },
+    "792b1498d929656f": {
+      "title": "Show HN: I cleaned AI watermarks from my clipboard",
+      "fetched_at": "2026-09-20T10:15:22.945524+00:00"
+    },
+    "c47d19eeeebc9fd3": {
+      "title": "AI CLI Insights for popular CLI products",
+      "fetched_at": "2026-09-20T10:15:23.523597+00:00"
+    },
+    "c9b40a35fc979ab0": {
+      "title": "Pluto AI is top ranked in StarCraft BroodWar competitive scene",
+      "fetched_at": "2026-09-20T10:15:24.087069+00:00"
+    },
+    "ebe8adf82b504076": {
+      "title": "Electrif-AI Everything",
+      "fetched_at": "2026-09-20T10:15:24.677752+00:00"
+    },
+    "7470e83457752f20": {
+      "title": "Show HN: ManifestGo – AI tuned for MV3 extension boilerplate and edge case",
+      "fetched_at": "2026-09-20T10:15:25.241229+00:00"
+    },
+    "5dff754d6d8ae7c1": {
+      "title": "AI on Top of a Dysfunctional System: The Product Backlog",
+      "fetched_at": "2026-09-20T10:15:25.818809+00:00"
+    },
+    "9fca638ff4611f02": {
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "fetched_at": "2026-09-20T10:15:26.430749+00:00"
+    },
+    "7ac9305f9541b132": {
+      "title": "Global Challenges in AI Safety for Biosecurity",
+      "fetched_at": "2026-09-20T10:15:27.087896+00:00"
+    },
+    "12c2f126c574c05b": {
+      "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
+      "fetched_at": "2026-09-20T10:15:27.648208+00:00"
+    },
+    "9e7765bf483c1425": {
+      "title": "Show HN: Website Auditor –> Test your brand's AI visibility, get growth plan",
+      "fetched_at": "2026-09-20T10:15:28.226516+00:00"
+    },
+    "8316fe8dc2988d35": {
+      "title": "Free scanner for exposed Supabase data in AI-built apps (Lovable, Bolt, Base44)",
+      "fetched_at": "2026-09-20T10:15:28.792543+00:00"
+    },
+    "546fdbcfaac5e3ec": {
+      "title": "聯合國專家：有理由相信美國在伊朗襲擊行動中犯下戰爭罪",
+      "fetched_at": "2026-09-20T10:15:31.764006+00:00"
+    },
+    "e14dcd9db88fb293": {
+      "title": "'We are on our way to groundbreaking science': Stars turn neon-green in first test image from NASA's Roman telescope — Space photo of the week",
+      "fetched_at": "2026-09-20T10:16:34.333143+00:00"
+    },
+    "9b9ea876fdb3b34c": {
+      "title": "Did the Vikings really shoot fiery arrows at funeral boats?",
+      "fetched_at": "2026-09-20T10:16:34.966820+00:00"
+    },
+    "cddc0751af991440": {
+      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
+      "fetched_at": "2026-09-20T10:16:35.534383+00:00"
+    },
+    "d7f412923356bc5a": {
+      "title": "New chemical wipes out 95% of termites without harming humans",
+      "fetched_at": "2026-09-20T10:16:36.093361+00:00"
+    },
+    "51011bff80df9a6c": {
+      "title": "A giant crater may reveal the origin of Mars’ doomed moon",
+      "fetched_at": "2026-09-20T10:16:36.658509+00:00"
+    },
+    "ec672684346964d9": {
+      "title": "This deep-sea enzyme survives heat that destroys most proteins",
+      "fetched_at": "2026-09-20T10:16:37.222466+00:00"
+    },
+    "a134b5037dcab867": {
+      "title": "This tiny organism can shrink to one quarter its size in milliseconds",
+      "fetched_at": "2026-09-20T10:16:37.854902+00:00"
+    },
+    "1f5db918afd14825": {
+      "title": "Scientists find that “perfect” systems may be surprisingly fragile",
+      "fetched_at": "2026-09-20T10:16:38.458089+00:00"
+    },
+    "2057c37313d9faef": {
+      "title": "Scientists solve a 50-year mystery and discover a new human blood group",
+      "fetched_at": "2026-09-20T10:16:39.018167+00:00"
+    },
+    "ca059dc68aad62de": {
+      "title": "Scientists discover the first diplodocus ever found outside North America",
+      "fetched_at": "2026-09-20T10:16:39.583817+00:00"
+    },
+    "66b604e253b6d130": {
+      "title": "Billions in rare earth elements may be hiding in America’s coal ash",
+      "fetched_at": "2026-09-20T10:16:40.152682+00:00"
+    },
+    "cee3193f2516400e": {
+      "title": "'Oddly shaped rock' unearthed in California turns out to be 'immaculate' mastodon molar",
+      "fetched_at": "2026-09-20T10:16:40.713306+00:00"
+    },
+    "2fcd6f9487ec3419": {
+      "title": "'There are no easy answers here': New study forecasts a dire dip in food production if key Atlantic currents collapse",
+      "fetched_at": "2026-09-20T10:16:41.276630+00:00"
+    },
+    "a7452d55da6269ef": {
+      "title": "'Maybe that is how Transformers started': Readers react to the possibility of AI becoming self-aware",
+      "fetched_at": "2026-09-20T10:16:41.852461+00:00"
+    },
+    "48f014432dd1d446": {
+      "title": "Microscopic fragments of ancient alien tech may litter the moon — and scientists have a plan to find them",
+      "fetched_at": "2026-09-20T10:16:42.490718+00:00"
     }
   },
-  "last_updated": "2026-09-20T02:10:50.722391+00:00"
+  "last_updated": "2026-09-20T10:16:42.609869+00:00"
 }
