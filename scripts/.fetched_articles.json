@@ -1,109 +1,5 @@
 {
   "articles": {
-    "0edd218d3f4db59e": {
-      "title": "GPT-6's \"Stealth Thinking\" [video]",
-      "fetched_at": "2026-09-12T14:34:33.011056+00:00"
-    },
-    "a979472e447f1f2b": {
-      "title": "A Misalignment of AI in Mathematics: Kevin Buzzard Responds",
-      "fetched_at": "2026-09-12T14:34:33.640222+00:00"
-    },
-    "5fd2a38759598cb7": {
-      "title": "EU tech chief backs global AI rules in wake of extinction warning",
-      "fetched_at": "2026-09-12T14:34:34.266990+00:00"
-    },
-    "920f69d0f723dd25": {
-      "title": "Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?",
-      "fetched_at": "2026-09-12T14:34:34.885301+00:00"
-    },
-    "7b45a157e4421d8a": {
-      "title": "LLMs are real, AI is fake",
-      "fetched_at": "2026-09-12T14:34:35.522870+00:00"
-    },
-    "a1b8e2657036b89d": {
-      "title": "Don't build tools for AI agents",
-      "fetched_at": "2026-09-12T14:34:36.143326+00:00"
-    },
-    "28d321c5fc7354d8": {
-      "title": "Political AI Field Guide: Factions and Beliefs",
-      "fetched_at": "2026-09-12T14:34:36.775193+00:00"
-    },
-    "04ae3017319bbc8b": {
-      "title": "Language Preservation Efforts Get an AI Boost",
-      "fetched_at": "2026-09-12T14:34:37.425700+00:00"
-    },
-    "03a4166ffe0de884": {
-      "title": "NüshuRescue: Reviving the Endangered Nüshu Language with AI",
-      "fetched_at": "2026-09-12T14:34:38.064130+00:00"
-    },
-    "c43b62ec7507462b": {
-      "title": "368 of the top 2,771 sites block at least one AI search crawler",
-      "fetched_at": "2026-09-12T14:34:38.687341+00:00"
-    },
-    "57c8ad865b20c672": {
-      "title": "\"The CUDA Moat is Gone\" – TechTechPotato with AI& founder David Bennet [video]",
-      "fetched_at": "2026-09-12T14:34:39.349802+00:00"
-    },
-    "4556eabd17aef3a7": {
-      "title": "Journal Editors: How are you evaluating AI assisted papers?",
-      "fetched_at": "2026-09-12T14:34:39.977859+00:00"
-    },
-    "fdd7e752e24846c9": {
-      "title": "AI changing the calculus for Canadian students interested in comp sci",
-      "fetched_at": "2026-09-12T14:34:40.594312+00:00"
-    },
-    "092f3f56831f0061": {
-      "title": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
-      "fetched_at": "2026-09-12T14:34:41.286358+00:00"
-    },
-    "3f137df37bde1d37": {
-      "title": "Show HN: I wrote a book on using AI in game design production (free on GitHub)",
-      "fetched_at": "2026-09-12T14:34:41.934436+00:00"
-    },
-    "25e378ee3267ee6d": {
-      "title": "Altman tells staff OpenAI is open to slowing AI development",
-      "fetched_at": "2026-09-12T14:34:42.582162+00:00"
-    },
-    "5d26653d1aab1416": {
-      "title": "The Houthi's weapon programme and AI",
-      "fetched_at": "2026-09-12T14:34:43.211636+00:00"
-    },
-    "6cb60ed3794eb3cf": {
-      "title": "Andrew Ng: AI Engineering Skills Map: Shaping the Build",
-      "fetched_at": "2026-09-12T14:34:43.841947+00:00"
-    },
-    "9543b26ee01b7827": {
-      "title": "OpenAI just wants to win",
-      "fetched_at": "2026-09-12T14:34:44.468837+00:00"
-    },
-    "93a6554b6b5c8365": {
-      "title": "Aristotle and AI",
-      "fetched_at": "2026-09-12T14:34:45.103401+00:00"
-    },
-    "9b36b6dee5104ac0": {
-      "title": "Scientists got diamond's melting point wrong by more than 1,000 degrees, crushing new laser experiment reveals",
-      "fetched_at": "2026-09-12T14:34:50.501074+00:00"
-    },
-    "d9597850992cf052": {
-      "title": "AI trained to 'think' like human pathologists may be better at spotting cancer",
-      "fetched_at": "2026-09-12T14:34:51.125477+00:00"
-    },
-    "e64a25b33456c5ab": {
-      "title": "Celestron StarSense Explorer DX 130AZ review",
-      "fetched_at": "2026-09-12T14:34:51.753404+00:00"
-    },
-    "f0b9ddbccc293783": {
-      "title": "Scientists find Ozempic may slow aging itself",
-      "fetched_at": "2026-09-12T14:34:52.379925+00:00"
-    },
-    "aaf24c37dc14b975": {
-      "title": "Researchers find a Wordle strategy that wins 99% of the time",
-      "fetched_at": "2026-09-12T14:34:53.018980+00:00"
-    },
-    "1e1fcc6969ca4a84": {
-      "title": "Mercury’s surface reveals a surprisingly fiery past",
-      "fetched_at": "2026-09-12T14:34:53.654773+00:00"
-    },
     "7c85f5b5d4369816": {
       "title": "Asking the most uncomfortable question in AI",
       "fetched_at": "2026-09-12T19:49:09.788440+00:00"
@@ -3319,7 +3215,63 @@
     "48f014432dd1d446": {
       "title": "Microscopic fragments of ancient alien tech may litter the moon — and scientists have a plan to find them",
       "fetched_at": "2026-09-20T10:16:42.490718+00:00"
+    },
+    "42bbd6a4caf81e2a": {
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-20T15:02:09.065908+00:00"
+    },
+    "e93a5499675124ed": {
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "fetched_at": "2026-09-20T15:02:09.683977+00:00"
+    },
+    "b40231ccefff10f7": {
+      "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+      "fetched_at": "2026-09-20T15:02:10.291554+00:00"
+    },
+    "baa67f1644bb7871": {
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "fetched_at": "2026-09-20T15:02:10.906378+00:00"
+    },
+    "75e8e30b9022a0b2": {
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "fetched_at": "2026-09-20T15:02:11.515952+00:00"
+    },
+    "dc636098d7dfc3f6": {
+      "title": "香港首任特首董建華葬禮：規格比照霍英東 石泰峰致悼詞",
+      "fetched_at": "2026-09-20T15:02:14.213212+00:00"
+    },
+    "674fb31480b5fdc5": {
+      "title": "Scientists discover a hidden “ID card” in cat urine",
+      "fetched_at": "2026-09-20T15:02:16.647703+00:00"
+    },
+    "38af5c9935dd9481": {
+      "title": "Scientists may have solved a 2,000-year-old Dead Sea Scrolls mystery",
+      "fetched_at": "2026-09-20T15:02:17.264137+00:00"
+    },
+    "8fb1a98fa826d75b": {
+      "title": "New nanoparticles make hidden chemical differences light up",
+      "fetched_at": "2026-09-20T15:02:17.874730+00:00"
+    },
+    "bc7d875ebd6060da": {
+      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
+      "fetched_at": "2026-09-20T15:02:18.484963+00:00"
+    },
+    "9c197f18c9cb8436": {
+      "title": "Ancient DNA reveals how plague kept returning for 400 years after the Black Death",
+      "fetched_at": "2026-09-20T15:02:19.162352+00:00"
+    },
+    "f06216751e40d49c": {
+      "title": "A 66-million-year-old tooth reveals T. rex was nearly as warm as a human",
+      "fetched_at": "2026-09-20T15:02:19.760081+00:00"
+    },
+    "8bee066ec59d9220": {
+      "title": "Einstein’s “spooky action” just survived one of physics’ most extreme tests",
+      "fetched_at": "2026-09-20T15:02:20.355598+00:00"
+    },
+    "fa6d918ac65db98b": {
+      "title": "Why is Venus hotter than Mercury, when Mercury is closer to the sun?",
+      "fetched_at": "2026-09-20T15:02:20.987958+00:00"
     }
   },
-  "last_updated": "2026-09-20T10:16:42.609869+00:00"
+  "last_updated": "2026-09-20T15:02:21.031727+00:00"
 }
