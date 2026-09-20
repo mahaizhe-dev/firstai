@@ -1,93 +1,5 @@
 {
   "articles": {
-    "7c85f5b5d4369816": {
-      "title": "Asking the most uncomfortable question in AI",
-      "fetched_at": "2026-09-12T19:49:09.788440+00:00"
-    },
-    "b80f58d42aaa5807": {
-      "title": "Anthropic CEO calls on AI companies to slow down development",
-      "fetched_at": "2026-09-12T19:49:10.352218+00:00"
-    },
-    "8afb3a916aa13e3c": {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "fetched_at": "2026-09-12T19:49:10.919871+00:00"
-    },
-    "a659b49f4dd3472a": {
-      "title": "In the Age of AI, TODOs Considered Harmful",
-      "fetched_at": "2026-09-12T19:49:11.482107+00:00"
-    },
-    "ef69b7b6537dc309": {
-      "title": "Catholic tech leaders urge ethical boundaries for AI",
-      "fetched_at": "2026-09-12T19:49:12.041089+00:00"
-    },
-    "8016b9e17a0d4e9c": {
-      "title": "Recommendations for Teaching with AI (Fall 2026)",
-      "fetched_at": "2026-09-12T19:49:12.609449+00:00"
-    },
-    "b23e30975fee4bef": {
-      "title": "Google allegedly stole open-source code for mobile AI tool",
-      "fetched_at": "2026-09-12T19:49:13.197413+00:00"
-    },
-    "8f765533a4e23407": {
-      "title": "Musk and Altman back Anthropic CEO on slowing AI down",
-      "fetched_at": "2026-09-12T19:49:13.766151+00:00"
-    },
-    "fe2af823b70a2181": {
-      "title": "Show HN: AI-Powered Word Guessing Game",
-      "fetched_at": "2026-09-12T19:49:14.335911+00:00"
-    },
-    "b3bd722533d0b1f3": {
-      "title": "Dario Just Said Pump the Brakes on AI",
-      "fetched_at": "2026-09-12T19:49:14.895218+00:00"
-    },
-    "1bed44cfaa9ab570": {
-      "title": "AI Bubble Crashing Its Way into AI Abundance?",
-      "fetched_at": "2026-09-12T19:49:15.461618+00:00"
-    },
-    "057cfb4cc129b009": {
-      "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
-      "fetched_at": "2026-09-12T19:49:16.025584+00:00"
-    },
-    "659ac477b9503fba": {
-      "title": "Scaling classical music concert crawlers with AI agents",
-      "fetched_at": "2026-09-12T19:49:16.613798+00:00"
-    },
-    "ce21ba8d88ec51b8": {
-      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-      "fetched_at": "2026-09-12T19:49:17.178094+00:00"
-    },
-    "675d1cf6f142e743": {
-      "title": "DEF Con 34 – Hacking AI – Bruce Schneier [video]",
-      "fetched_at": "2026-09-12T19:49:17.750670+00:00"
-    },
-    "1d07289a1950a513": {
-      "title": "Anthropic CEO calls for the AI industry to slow down",
-      "fetched_at": "2026-09-12T19:49:18.319106+00:00"
-    },
-    "333b18d97adf3b12": {
-      "title": "Shooting yourself in the foot (safely): Inside AI red teaming philosophy",
-      "fetched_at": "2026-09-12T19:49:18.887351+00:00"
-    },
-    "0c603ea6cb65c418": {
-      "title": "GPT-6-Astra Can Do Ambitious Things",
-      "fetched_at": "2026-09-12T19:49:19.454079+00:00"
-    },
-    "92afa08bb62be6a5": {
-      "title": "The mathematicians rebel against AI",
-      "fetched_at": "2026-09-12T19:49:20.019851+00:00"
-    },
-    "50a58658d14a6987": {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "fetched_at": "2026-09-12T19:49:20.586365+00:00"
-    },
-    "6f2ce4fd3753fcd3": {
-      "title": "豬腎在人體內運作271天——這會是器官移植的未來嗎？",
-      "fetched_at": "2026-09-12T19:49:23.671912+00:00"
-    },
-    "a0fac57f48cb2cf8": {
-      "title": "執迷於「睡眠分數」如何反讓你睡得更差？",
-      "fetched_at": "2026-09-12T19:49:24.243992+00:00"
-    },
     "72c3f10d8cbc6437": {
       "title": "AI's Code-Red Moment",
       "fetched_at": "2026-09-13T01:53:05.505742+00:00"
@@ -3271,7 +3183,99 @@
     "fa6d918ac65db98b": {
       "title": "Why is Venus hotter than Mercury, when Mercury is closer to the sun?",
       "fetched_at": "2026-09-20T15:02:20.987958+00:00"
+    },
+    "2c9b9f311ac99999": {
+      "title": "AI Journal 2: Vibe-Coding for Fun and Profit",
+      "fetched_at": "2026-09-20T19:55:34.319692+00:00"
+    },
+    "d99891ca2dbf3cd6": {
+      "title": "AI-native degree planning software for universities",
+      "fetched_at": "2026-09-20T19:55:34.921874+00:00"
+    },
+    "599fb21a7118922f": {
+      "title": "Tg-Rich-Converter: Streaming LLM Markdown and LaTeX to Telegram Bot API 10.1",
+      "fetched_at": "2026-09-20T19:55:35.538246+00:00"
+    },
+    "6c9e892782edd1b3": {
+      "title": "Show HN: Emetgate – a verification gate between an LLM and your source tree",
+      "fetched_at": "2026-09-20T19:55:36.145911+00:00"
+    },
+    "401af1b9e9eb26ae": {
+      "title": "Show HN: NiceTryGPT and CTF and riduzione degli shortcut LLM",
+      "fetched_at": "2026-09-20T19:55:36.756952+00:00"
+    },
+    "ffdd6e94e484c2a1": {
+      "title": "AI Journal 1: The Slow Surrender to AI",
+      "fetched_at": "2026-09-20T19:55:37.379413+00:00"
+    },
+    "7b5609371da85358": {
+      "title": "Is the AI industry really ready to slow down?",
+      "fetched_at": "2026-09-20T19:55:38.001841+00:00"
+    },
+    "3bde16577e548ae1": {
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "fetched_at": "2026-09-20T19:55:38.651210+00:00"
+    },
+    "f8fd3f0b33c4cebf": {
+      "title": "The Proof in the Code: How a Truth Machine Is Transforming Math and AI",
+      "fetched_at": "2026-09-20T19:55:39.290593+00:00"
+    },
+    "8a4d1c16c84dbfa8": {
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "fetched_at": "2026-09-20T19:55:39.894488+00:00"
+    },
+    "56245767a7147b2d": {
+      "title": "AI Helps People Get Past the Blank Page",
+      "fetched_at": "2026-09-20T19:55:40.506155+00:00"
+    },
+    "6425e2ee8ae49cfb": {
+      "title": "The AI wave has to land somewhere according to Tesler's Law",
+      "fetched_at": "2026-09-20T19:55:41.114221+00:00"
+    },
+    "dfcc25626b3a68af": {
+      "title": "Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]",
+      "fetched_at": "2026-09-20T19:55:41.719355+00:00"
+    },
+    "692f69c498c6b97d": {
+      "title": "C64 Programming with AI",
+      "fetched_at": "2026-09-20T19:55:42.326447+00:00"
+    },
+    "49d838cfba78765a": {
+      "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
+      "fetched_at": "2026-09-20T19:55:42.943415+00:00"
+    },
+    "c68c44e6fc4c2105": {
+      "title": "Jensen Huang: Those warning on AI apocalypse \"have ulterior reasons\"",
+      "fetched_at": "2026-09-20T19:55:43.556764+00:00"
+    },
+    "690594331257621d": {
+      "title": "Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning",
+      "fetched_at": "2026-09-20T19:55:44.165014+00:00"
+    },
+    "413129fc55b0dbeb": {
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "fetched_at": "2026-09-20T19:55:44.779387+00:00"
+    },
+    "a026282ef9847df7": {
+      "title": "As White House shields the AI gold rush, Trump family and other allies strike...",
+      "fetched_at": "2026-09-20T19:55:45.385079+00:00"
+    },
+    "b48a528cf7ce8581": {
+      "title": "A Transformative AI Strategy for Europe",
+      "fetched_at": "2026-09-20T19:55:45.993458+00:00"
+    },
+    "9b36b6dee5104ac0": {
+      "title": "Scientists got diamond's melting point wrong by more than 1,000 degrees, crushing new laser experiment reveals",
+      "fetched_at": "2026-09-20T19:56:03.180253+00:00"
+    },
+    "d9597850992cf052": {
+      "title": "AI trained to 'think' like human pathologists may be better at spotting cancer",
+      "fetched_at": "2026-09-20T19:56:03.810452+00:00"
+    },
+    "e64a25b33456c5ab": {
+      "title": "Celestron StarSense Explorer DX 130AZ review",
+      "fetched_at": "2026-09-20T19:56:04.432963+00:00"
     }
   },
-  "last_updated": "2026-09-20T15:02:21.031727+00:00"
+  "last_updated": "2026-09-20T19:56:04.490462+00:00"
 }
