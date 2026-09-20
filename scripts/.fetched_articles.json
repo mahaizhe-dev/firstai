@@ -1,201 +1,5 @@
 {
   "articles": {
-    "b0dcbdbb822a989f": {
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "fetched_at": "2026-09-11T20:10:49.610292+00:00"
-    },
-    "84ca1e0db9c4e2f5": {
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "fetched_at": "2026-09-11T20:10:50.200852+00:00"
-    },
-    "3b8f532755685b1d": {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "fetched_at": "2026-09-11T20:10:50.785129+00:00"
-    },
-    "ecf466509c8b52fe": {
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "fetched_at": "2026-09-11T20:10:51.361054+00:00"
-    },
-    "7122bb0d8f7bff65": {
-      "title": "本周看什么 | 最近值得一看的 7 部作品",
-      "fetched_at": "2026-09-11T20:10:51.936848+00:00"
-    },
-    "f238a76cdd05c511": {
-      "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-      "fetched_at": "2026-09-11T20:10:52.520680+00:00"
-    },
-    "1e4d1ef1104b49d5": {
-      "title": "新 iPhone 配件精选：多种组合一次配齐",
-      "fetched_at": "2026-09-11T20:10:53.096697+00:00"
-    },
-    "32af2a101df4e11e": {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "fetched_at": "2026-09-11T20:10:53.677490+00:00"
-    },
-    "afc0830f9dd4cc92": {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "fetched_at": "2026-09-11T20:10:54.259422+00:00"
-    },
-    "193e696acdb671cd": {
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "fetched_at": "2026-09-11T20:10:54.835545+00:00"
-    },
-    "c49b4e481407820b": {
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "fetched_at": "2026-09-11T20:10:55.405665+00:00"
-    },
-    "a604d642e3cdd81d": {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "fetched_at": "2026-09-11T20:10:55.984713+00:00"
-    },
-    "023b334e5d9c5fe7": {
-      "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
-      "fetched_at": "2026-09-11T20:10:57.879498+00:00"
-    },
-    "cee3193f2516400e": {
-      "title": "'Oddly shaped rock' unearthed in California turns out to be 'immaculate' mastodon molar",
-      "fetched_at": "2026-09-11T20:11:03.053011+00:00"
-    },
-    "a7c7d5a41a0a09c3": {
-      "title": "Indonesian Hunter-Gatherers May Have Treated Toothaches with Betel Nuts",
-      "fetched_at": "2026-09-11T20:11:03.642264+00:00"
-    },
-    "2fcd6f9487ec3419": {
-      "title": "'There are no easy answers here': New study forecasts a dire dip in food production if key Atlantic currents collapse",
-      "fetched_at": "2026-09-11T20:11:04.226584+00:00"
-    },
-    "cf0058a3ad920e23": {
-      "title": "Source of Megalithic Monument in Yorkshire Identified",
-      "fetched_at": "2026-09-11T20:11:04.800171+00:00"
-    },
-    "a7452d55da6269ef": {
-      "title": "'Maybe that is how Transformers started': Readers react to the possibility of AI becoming self-aware",
-      "fetched_at": "2026-09-11T20:11:05.367993+00:00"
-    },
-    "ff2218d1f59e9add": {
-      "title": "Ancient Melon Seeds Studied",
-      "fetched_at": "2026-09-11T20:11:05.941835+00:00"
-    },
-    "48f014432dd1d446": {
-      "title": "Microscopic fragments of ancient alien tech may litter the moon — and scientists have a plan to find them",
-      "fetched_at": "2026-09-11T20:11:06.519037+00:00"
-    },
-    "344de7d5a60e9d35": {
-      "title": "400,000-year-old teeth reveal a hidden link in human evolution",
-      "fetched_at": "2026-09-11T20:11:07.098602+00:00"
-    },
-    "3d3a53ac111626c1": {
-      "title": "Raindrops can damage paint with microscopic “lightning”",
-      "fetched_at": "2026-09-11T20:11:07.679320+00:00"
-    },
-    "8fcfe8f8316fd4d0": {
-      "title": "Ancient “living fossils” may reveal how complex life began",
-      "fetched_at": "2026-09-11T20:11:08.257702+00:00"
-    },
-    "96b2014b4e36d5ed": {
-      "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
-      "fetched_at": "2026-09-11T20:11:08.836822+00:00"
-    },
-    "4322eaa32a50b3d3": {
-      "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
-      "fetched_at": "2026-09-11T20:11:09.415039+00:00"
-    },
-    "a6d67fa100aae6fa": {
-      "title": "September brings a dazzling Venus and a glowing Harvest Moon",
-      "fetched_at": "2026-09-11T20:11:09.987700+00:00"
-    },
-    "75733655723c2907": {
-      "title": "\"What Is an 'AI Warning Shot'?\" (2024)",
-      "fetched_at": "2026-09-12T01:59:19.766875+00:00"
-    },
-    "7453be5ea834f7f6": {
-      "title": "Reduced AI cheating on a long task from 72% to 0 with 190 token agreement prompt",
-      "fetched_at": "2026-09-12T01:59:20.388928+00:00"
-    },
-    "8cabb3b3e374913d": {
-      "title": "Mathematicians Confront the AI Apocalypse",
-      "fetched_at": "2026-09-12T01:59:21.016518+00:00"
-    },
-    "0820d09bb99de3f3": {
-      "title": "Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)",
-      "fetched_at": "2026-09-12T01:59:21.634185+00:00"
-    },
-    "199bb4cf5e7784d2": {
-      "title": "Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around",
-      "fetched_at": "2026-09-12T01:59:22.281483+00:00"
-    },
-    "4f85ee3c7cd42e82": {
-      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "fetched_at": "2026-09-12T01:59:22.917130+00:00"
-    },
-    "6c085c1686e6214b": {
-      "title": "Learning Alzheimer signatures by bridging EEG with spiking neural networks",
-      "fetched_at": "2026-09-12T01:59:23.539976+00:00"
-    },
-    "6737946dad8a892e": {
-      "title": "One Thought Consumes Me Often, So I Made an AI App to Make It Real",
-      "fetched_at": "2026-09-12T01:59:24.155517+00:00"
-    },
-    "de95e4960c18eb16": {
-      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-      "fetched_at": "2026-09-12T01:59:24.782701+00:00"
-    },
-    "0338b06c7444b9df": {
-      "title": "Exposing a global AI slop empire ruining the internet for profit – CBC [video]",
-      "fetched_at": "2026-09-12T01:59:25.419157+00:00"
-    },
-    "2a2769d876f8ed4c": {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "fetched_at": "2026-09-12T01:59:26.051929+00:00"
-    },
-    "89d22a8015cbb17b": {
-      "title": "Altimeter's Gerstner blasts researchers voicing AI extinction warnings",
-      "fetched_at": "2026-09-12T01:59:26.671804+00:00"
-    },
-    "495df85d61a99ff4": {
-      "title": "Houthis used Anthropic AI to build ballistic missiles",
-      "fetched_at": "2026-09-12T01:59:27.294476+00:00"
-    },
-    "fdb5fbd0f1824485": {
-      "title": "Bernie Sanders AI Bill Threatens Developers with 20-Year Jail Terms",
-      "fetched_at": "2026-09-12T01:59:27.936756+00:00"
-    },
-    "f8be828accea6510": {
-      "title": "UN calls for global fund to address AI capacity gaps in developing nations",
-      "fetched_at": "2026-09-12T01:59:28.586123+00:00"
-    },
-    "9a08bdcefb4a4c70": {
-      "title": "Adversaries Using Claude AI to Target Americans and Develop Missiles",
-      "fetched_at": "2026-09-12T01:59:29.206617+00:00"
-    },
-    "5c73227549c78d50": {
-      "title": "They do think AI might kill everyone",
-      "fetched_at": "2026-09-12T01:59:29.827540+00:00"
-    },
-    "2bcb13cca5093513": {
-      "title": "How AI Is Changing Audio Restoration in 2026",
-      "fetched_at": "2026-09-12T01:59:30.468071+00:00"
-    },
-    "795ea673b1504296": {
-      "title": "Show HN: Spanda – Sub-microsecond LLM epistemic uncertainty in Rust",
-      "fetched_at": "2026-09-12T01:59:31.110275+00:00"
-    },
-    "fc73061d08473a4f": {
-      "title": "FreelanceFend – AI web app and extension to screen freelance clients",
-      "fetched_at": "2026-09-12T01:59:31.750517+00:00"
-    },
-    "fdf750da15394538": {
-      "title": "The secret to longer life may be hidden in bat DNA",
-      "fetched_at": "2026-09-12T01:59:37.135946+00:00"
-    },
-    "d2f3f048815b91b5": {
-      "title": "Study Tests “Natural Kiln Hypothesis”",
-      "fetched_at": "2026-09-12T01:59:37.771230+00:00"
-    },
-    "a32ed77b6a9ea4da": {
-      "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
-      "fetched_at": "2026-09-12T01:59:38.412577+00:00"
-    },
     "5345f1c42c78dc75": {
       "title": "Perplexity trusts GPT‑6 Astra with end-to-end systems",
       "fetched_at": "2026-09-12T09:44:23.732503+00:00"
@@ -3335,7 +3139,135 @@
     "5fdfa9dd204bf477": {
       "title": "'Every time it gets excited — boom — it collapses': How dogs with narcolepsy helped scientists understand the disorder",
       "fetched_at": "2026-09-19T19:44:08.005307+00:00"
+    },
+    "652aac71de35491a": {
+      "title": "AI Bubble: 'They're coming to the end of this' – Eli the Computer Guy [video]",
+      "fetched_at": "2026-09-20T02:10:22.074335+00:00"
+    },
+    "c7357bc828865af6": {
+      "title": "Why are AI leaders calling for a slow down? [audio]",
+      "fetched_at": "2026-09-20T02:10:22.688844+00:00"
+    },
+    "8c2e31b328163960": {
+      "title": "A2E AI – an all-in-one AI video generator for text, images and avatars",
+      "fetched_at": "2026-09-20T02:10:23.305352+00:00"
+    },
+    "49b784a1057d076c": {
+      "title": "Open-source free meme generator, friendly for AI agents and humans",
+      "fetched_at": "2026-09-20T02:10:23.946139+00:00"
+    },
+    "cc483810e085c611": {
+      "title": "Pure Code: What remains with developers after AI writes the code?",
+      "fetched_at": "2026-09-20T02:10:24.556373+00:00"
+    },
+    "48432152dcb3cd34": {
+      "title": "How to handle manager adding AI bs to our codebase/designs etc.",
+      "fetched_at": "2026-09-20T02:10:25.206046+00:00"
+    },
+    "6bc92791a15ed838": {
+      "title": "How the Berkeley Overmind won the 2010 StarCraft AI competition",
+      "fetched_at": "2026-09-20T02:10:25.815364+00:00"
+    },
+    "5039c6594b7bf1a5": {
+      "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
+      "fetched_at": "2026-09-20T02:10:26.431565+00:00"
+    },
+    "2fd5ee6d4619fdba": {
+      "title": "AI investment, govt borrowing drive global cost of capital higher: Goldman Sachs",
+      "fetched_at": "2026-09-20T02:10:27.060189+00:00"
+    },
+    "7af17689c552fb11": {
+      "title": "Ten days that changed the course of AI",
+      "fetched_at": "2026-09-20T02:10:27.675279+00:00"
+    },
+    "3af66e469e30978c": {
+      "title": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
+      "fetched_at": "2026-09-20T02:10:28.294713+00:00"
+    },
+    "1cbe5f0976640436": {
+      "title": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
+      "fetched_at": "2026-09-20T02:10:29.065194+00:00"
+    },
+    "71faa471f952218d": {
+      "title": "Show HN: I created an open source locally usable full fledged AI platform",
+      "fetched_at": "2026-09-20T02:10:29.679316+00:00"
+    },
+    "60f1764126fe476b": {
+      "title": "What might an AI doomsday look like? Experts have given it some thought",
+      "fetched_at": "2026-09-20T02:10:30.316621+00:00"
+    },
+    "9ba18bb0237dc7fb": {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "fetched_at": "2026-09-20T02:10:30.316780+00:00"
+    },
+    "0d11e666949825f6": {
+      "title": "AI for Bio Doesn't Need More Data",
+      "fetched_at": "2026-09-20T02:10:30.952443+00:00"
+    },
+    "ccd246f20023e786": {
+      "title": "Can you tell which images are AI-generated?",
+      "fetched_at": "2026-09-20T02:10:31.571842+00:00"
+    },
+    "a83de52d177d7283": {
+      "title": "AI in schools – The choice we keep making",
+      "fetched_at": "2026-09-20T02:10:32.258244+00:00"
+    },
+    "e329280e01bc40af": {
+      "title": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says",
+      "fetched_at": "2026-09-20T02:10:32.884477+00:00"
+    },
+    "3177a9d88ac5fb16": {
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "fetched_at": "2026-09-20T02:10:33.520699+00:00"
+    },
+    "b7ae16695195d26d": {
+      "title": "專訪鄧燕娥：與李卓人相伴四十年「互相撐著」",
+      "fetched_at": "2026-09-20T02:10:35.713146+00:00"
+    },
+    "13522633bcb066d2": {
+      "title": "Work, wages and apprenticeships: the lives of girls in ancient Egypt (2025)",
+      "fetched_at": "2026-09-20T02:10:44.277655+00:00"
+    },
+    "3b0cfeebef489cad": {
+      "title": "Testing Jev as a validation gate for drug-discovery agents",
+      "fetched_at": "2026-09-20T02:10:44.968443+00:00"
+    },
+    "e83adedd5a796b24": {
+      "title": "Unsolved Historical Ciphers",
+      "fetched_at": "2026-09-20T02:10:45.589041+00:00"
+    },
+    "07ac7ad391a7650b": {
+      "title": "Swarovski CL Companion compact binocular review",
+      "fetched_at": "2026-09-20T02:10:46.219818+00:00"
+    },
+    "47ccb6534ab04e9e": {
+      "title": "Brain shrinkage tied to aging 'pauses' as a woman nears menopause, study finds",
+      "fetched_at": "2026-09-20T02:10:46.835840+00:00"
+    },
+    "820a4613ff52826a": {
+      "title": "Wasps are disappearing this summer, and scientists are worried",
+      "fetched_at": "2026-09-20T02:10:47.452135+00:00"
+    },
+    "859b7d28dc76e39e": {
+      "title": "Physicists just found a tiny glitch in time itself",
+      "fetched_at": "2026-09-20T02:10:48.101470+00:00"
+    },
+    "dd458898c896336c": {
+      "title": "Scientists discover the human heart can regrow muscle after a heart attack",
+      "fetched_at": "2026-09-20T02:10:48.723926+00:00"
+    },
+    "17d474e1c12902a4": {
+      "title": "DNA solves the mystery of a body found in the Arctic in 1859",
+      "fetched_at": "2026-09-20T02:10:49.352209+00:00"
+    },
+    "ac1c28cb7970314d": {
+      "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
+      "fetched_at": "2026-09-20T02:10:49.982626+00:00"
+    },
+    "34ac2e9cc209e83c": {
+      "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
+      "fetched_at": "2026-09-20T02:10:50.599530+00:00"
     }
   },
-  "last_updated": "2026-09-19T19:44:08.090170+00:00"
+  "last_updated": "2026-09-20T02:10:50.722391+00:00"
 }
