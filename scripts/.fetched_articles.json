@@ -1,125 +1,5 @@
 {
   "articles": {
-    "72c3f10d8cbc6437": {
-      "title": "AI's Code-Red Moment",
-      "fetched_at": "2026-09-13T01:53:05.505742+00:00"
-    },
-    "830b3be919661486": {
-      "title": "Nova Seed. Create an AI friend and build something together",
-      "fetched_at": "2026-09-13T01:53:06.105260+00:00"
-    },
-    "08f491b1667ac45b": {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "fetched_at": "2026-09-13T01:53:06.105382+00:00"
-    },
-    "f00bd2c12f0d8a74": {
-      "title": "Asking Anthropic CEO: 'Do you earnestly believe that AI could kill all humans?'",
-      "fetched_at": "2026-09-13T01:53:06.708620+00:00"
-    },
-    "c2dcf0acfab8751a": {
-      "title": "Apple wants to train AI on your private personal data",
-      "fetched_at": "2026-09-13T01:53:07.313588+00:00"
-    },
-    "79a80deaa136fde1": {
-      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
-      "fetched_at": "2026-09-13T01:53:07.930970+00:00"
-    },
-    "583785c1bd1abbc4": {
-      "title": "Align AI and Mathematics–To Something Else",
-      "fetched_at": "2026-09-13T01:53:08.564026+00:00"
-    },
-    "063cf5ddd123f91c": {
-      "title": "AI Infra and Compute Debt: Duration Mismatch vs. Market Momentum",
-      "fetched_at": "2026-09-13T01:53:09.196378+00:00"
-    },
-    "229e661ab7f0bd39": {
-      "title": "Everyone should slow down AI development except for me",
-      "fetched_at": "2026-09-13T01:53:09.801363+00:00"
-    },
-    "9fa5cc1e91eb5bd3": {
-      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
-      "fetched_at": "2026-09-13T01:53:10.415936+00:00"
-    },
-    "03a0b6eda47e4664": {
-      "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
-      "fetched_at": "2026-09-13T01:53:11.035653+00:00"
-    },
-    "68cd9ff342f31d37": {
-      "title": "Nobody wrote the Matrix and AI code-writing will be dead by 2036",
-      "fetched_at": "2026-09-13T01:53:11.647856+00:00"
-    },
-    "8452a34b464c0090": {
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "fetched_at": "2026-09-13T01:53:12.267644+00:00"
-    },
-    "ccafd448f0eae799": {
-      "title": "Show HN: A Technical Book for the Age of AI",
-      "fetched_at": "2026-09-13T01:53:12.902046+00:00"
-    },
-    "6e2f6f9c69649ae4": {
-      "title": "AI writing debate is similar to the one that rocked ancient Greece 2700 yrs ago",
-      "fetched_at": "2026-09-13T01:53:13.511706+00:00"
-    },
-    "116713c6a91117dc": {
-      "title": "Forecasting the AI Boom till 2030",
-      "fetched_at": "2026-09-13T01:53:14.128452+00:00"
-    },
-    "139b61bd4d53ca49": {
-      "title": "A full-duplex AI phone agent that listens while speaking",
-      "fetched_at": "2026-09-13T01:53:14.759716+00:00"
-    },
-    "34aa4c629a3836a2": {
-      "title": "A Skeptic's Guide to AI Regulation",
-      "fetched_at": "2026-09-13T01:53:15.455249+00:00"
-    },
-    "4196915d2a821369": {
-      "title": "AI permissioned coworker framework and designs",
-      "fetched_at": "2026-09-13T01:53:16.064322+00:00"
-    },
-    "75095cc194b47108": {
-      "title": "Endomorphisms of Affine Spaces and the Jacobian Problem [AI Statement.]",
-      "fetched_at": "2026-09-13T01:53:16.672153+00:00"
-    },
-    "1c095f0c10d2dc9d": {
-      "title": "Researcher receives Lasker Award for discovery that transformed narcolepsy care",
-      "fetched_at": "2026-09-13T01:53:21.293264+00:00"
-    },
-    "8a510ed982dccd33": {
-      "title": "Small Asian Grocery Stores Can Improve Local Product Discovery",
-      "fetched_at": "2026-09-13T01:53:21.909701+00:00"
-    },
-    "5d78eb09f112a262": {
-      "title": "Discovery Loop is raising again, now at $50B valuation",
-      "fetched_at": "2026-09-13T01:53:22.520782+00:00"
-    },
-    "098fd914252202b5": {
-      "title": "Aging doesn't look the same for everyone at the molecular level — it's 'individualized and context-dependent'",
-      "fetched_at": "2026-09-13T01:53:23.134095+00:00"
-    },
-    "3a0487e49431eb15": {
-      "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-      "fetched_at": "2026-09-13T01:53:23.733336+00:00"
-    },
-    "b9f14195b51cc5b5": {
-      "title": "A longer exhale may push your brain toward bolder decisions",
-      "fetched_at": "2026-09-13T01:53:24.354552+00:00"
-    },
-    "e957745f18835c04": {
-      "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
-      "fetched_at": "2026-09-13T01:53:24.973462+00:00"
-    },
-    "bc91abb05aa5586f": {
-      "title": "Scientists reveal the hidden instructions that build the human brain",
-      "fetched_at": "2026-09-13T01:53:25.579413+00:00"
-    },
-    "15ae8aa600027a66": {
-      "title": "New injectable treatment helps the brain rebuild after stroke",
-      "fetched_at": "2026-09-13T01:53:26.200002+00:00"
-    },
-    "cacd646b9dd5cc42": {
-      "title": "Scientists discover a bizarre “devil flower” hidden in Thailand",
-      "fetched_at": "2026-09-13T01:53:26.812220+00:00"
-    },
     "b6b99a439ed425b6": {
       "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
       "fetched_at": "2026-09-13T10:45:24.025364+00:00"
@@ -3275,7 +3155,43 @@
     "e64a25b33456c5ab": {
       "title": "Celestron StarSense Explorer DX 130AZ review",
       "fetched_at": "2026-09-20T19:56:04.432963+00:00"
+    },
+    "dbc0b7841d50504d": {
+      "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
+      "fetched_at": "2026-09-21T02:10:50.606082+00:00"
+    },
+    "a82e8cb2090016c7": {
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-21T02:10:51.183645+00:00"
+    },
+    "ed5e2a4a22a76534": {
+      "title": "World model companies are keeping a lot of secrets",
+      "fetched_at": "2026-09-21T02:10:51.183747+00:00"
+    },
+    "bd83ae1fb05414b0": {
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "fetched_at": "2026-09-21T02:10:51.767148+00:00"
+    },
+    "027c5cd9e7b85af3": {
+      "title": "美中讨论建立人工智能国家安全问题通报机制",
+      "fetched_at": "2026-09-21T02:10:54.262869+00:00"
+    },
+    "e5bc0dbfc0de56f0": {
+      "title": "中国豪赌“人工智能大跃进”，经济却陷入大麻烦",
+      "fetched_at": "2026-09-21T02:10:54.847794+00:00"
+    },
+    "de153f2b3ab55f8d": {
+      "title": "莫斯科遭到烏克蘭450架無人機襲擊，市長稱規模「迄今最大」",
+      "fetched_at": "2026-09-21T02:10:55.441858+00:00"
+    },
+    "4df0c8f153cf2669": {
+      "title": "特朗普稱美國將組建「人工智能部隊」並任命「AI沙皇」",
+      "fetched_at": "2026-09-21T02:10:56.028844+00:00"
+    },
+    "07f8bd82ab4defa7": {
+      "title": "'Nothing short of a minor miracle': 'Rusty treasure' found in the Danube is full of 2,000-year-old iron bars that could equip an entire army with weapons",
+      "fetched_at": "2026-09-21T02:10:58.471792+00:00"
     }
   },
-  "last_updated": "2026-09-20T19:56:04.490462+00:00"
+  "last_updated": "2026-09-21T02:10:58.542082+00:00"
 }
