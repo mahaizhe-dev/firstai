@@ -1,97 +1,5 @@
 {
   "articles": {
-    "42690205656cdbed": {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "fetched_at": "2026-09-13T19:58:06.619943+00:00"
-    },
-    "85994b09f8ec5adb": {
-      "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "fetched_at": "2026-09-13T19:58:07.248495+00:00"
-    },
-    "3579f2fa614bcc84": {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "fetched_at": "2026-09-13T19:58:07.886602+00:00"
-    },
-    "6bc312db01ba4c50": {
-      "title": "Show HN: Kibble – a reader for AI news, tutorials, code and models",
-      "fetched_at": "2026-09-13T19:58:08.507408+00:00"
-    },
-    "3b6ef0abd15a9d02": {
-      "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)",
-      "fetched_at": "2026-09-13T19:58:09.146805+00:00"
-    },
-    "159b112c179e89df": {
-      "title": "Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-      "fetched_at": "2026-09-13T19:58:09.791483+00:00"
-    },
-    "8627c0e10529a882": {
-      "title": "Show HN: sengi.ai — Verified candidate sourcing for hard-to-fill roles",
-      "fetched_at": "2026-09-13T19:58:10.428737+00:00"
-    },
-    "f0f54f91a9423208": {
-      "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-      "fetched_at": "2026-09-13T19:58:11.048075+00:00"
-    },
-    "fb0c33652b7c760e": {
-      "title": "AI Agent Doesn't Need a Bigger Prompt. It Needs a Data Catalog",
-      "fetched_at": "2026-09-13T19:58:11.668365+00:00"
-    },
-    "595de3e86e8b594d": {
-      "title": "Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity",
-      "fetched_at": "2026-09-13T19:58:12.290987+00:00"
-    },
-    "445440083f60cdc9": {
-      "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
-      "fetched_at": "2026-09-13T19:58:12.911901+00:00"
-    },
-    "5a77ab8bad8b4b9f": {
-      "title": "A 40-minute timer for thinking before you ask the AI",
-      "fetched_at": "2026-09-13T19:58:13.529407+00:00"
-    },
-    "80eaf2c95e7908a2": {
-      "title": "SubmitHub's new AI music policy",
-      "fetched_at": "2026-09-13T19:58:14.167056+00:00"
-    },
-    "2f859c660abf1e88": {
-      "title": "AI job cuts fell short of forecasts, with 32% expected but only 14% reported",
-      "fetched_at": "2026-09-13T19:58:14.790073+00:00"
-    },
-    "70f1c72e3a41b3b9": {
-      "title": "CS 312: Deep Learning Alchemy",
-      "fetched_at": "2026-09-13T19:58:15.409299+00:00"
-    },
-    "9512208fea1a9c55": {
-      "title": "Russian developers used AI to build 'kamikaze' attack drone software",
-      "fetched_at": "2026-09-13T19:58:16.040557+00:00"
-    },
-    "380f85242d2a6c16": {
-      "title": "OpenAI boss and Elon Musk back calls to put brakes on 'reckless' AI development",
-      "fetched_at": "2026-09-13T19:58:16.666214+00:00"
-    },
-    "fee4fd22dcd5df16": {
-      "title": "Trump says 'negative forces' raising exaggerated concerns over AI",
-      "fetched_at": "2026-09-13T19:58:17.284397+00:00"
-    },
-    "913c7ff9e8a83b05": {
-      "title": "Ask HN: What would it look like if AI agents \"took over the internet\"?",
-      "fetched_at": "2026-09-13T19:58:17.914006+00:00"
-    },
-    "173f9b92d9e81311": {
-      "title": "AI Was Supposed to Make Software Cheaper. So Why Is It More Expensive Now?",
-      "fetched_at": "2026-09-13T19:58:18.547216+00:00"
-    },
-    "df2c22a0e5cf813f": {
-      "title": "Fall stargazing 2026: The best skywatching sights in autumn (and how to see them)",
-      "fetched_at": "2026-09-13T19:58:25.450798+00:00"
-    },
-    "752b4fc640700d59": {
-      "title": "Faster than Usain Bolt? Here's all the records robot 'athletes' broke at this year's World Humanoid Robot Games in China.",
-      "fetched_at": "2026-09-13T19:58:26.089890+00:00"
-    },
-    "70137720027b926e": {
-      "title": "Excavation in Poland reveals Stone Age man buried with decapitated heads and a tooth necklace",
-      "fetched_at": "2026-09-13T19:58:26.719727+00:00"
-    },
     "ab39456ba5532f1b": {
       "title": "Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet",
       "fetched_at": "2026-09-14T02:10:40.711161+00:00"
@@ -3299,7 +3207,55 @@
     "95e8962039c0ea65": {
       "title": "Why do cats lick each other?",
       "fetched_at": "2026-09-21T17:21:53.999763+00:00"
+    },
+    "34ea6e0ccc661aa6": {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "fetched_at": "2026-09-21T21:20:31.933768+00:00"
+    },
+    "90506b2cda536cc4": {
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "fetched_at": "2026-09-21T21:20:32.552185+00:00"
+    },
+    "a1840e34b3049eec": {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "fetched_at": "2026-09-21T21:20:33.154123+00:00"
+    },
+    "f529574545cec428": {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "fetched_at": "2026-09-21T21:20:33.789873+00:00"
+    },
+    "334c02a3c9abeba7": {
+      "title": "Prices go up in 7 days — get your Disrupt ticket now",
+      "fetched_at": "2026-09-21T21:20:33.790023+00:00"
+    },
+    "da849717e4e6edb7": {
+      "title": "習近平七年再訪印度：金磚峰會握手背後，中印關係破冰？",
+      "fetched_at": "2026-09-21T21:20:37.094431+00:00"
+    },
+    "cd57123f44843df0": {
+      "title": "Spaceflight may harm the reproductive system of astronauts' kids and grandkids, early mouse study suggests",
+      "fetched_at": "2026-09-21T21:20:39.590216+00:00"
+    },
+    "40456a9c6951649d": {
+      "title": "Scientists made a paper battery you can swallow to power internal medical devices",
+      "fetched_at": "2026-09-21T21:20:40.209920+00:00"
+    },
+    "42fb073fee944b4a": {
+      "title": "Jewelry Workshop Found in Scottish Churchyard",
+      "fetched_at": "2026-09-21T21:20:40.884978+00:00"
+    },
+    "a4996440e2303a7a": {
+      "title": "When Did Human Ancestors Stop Climbing Trees?",
+      "fetched_at": "2026-09-21T21:20:41.502944+00:00"
+    },
+    "ba847a1893b2c3bf": {
+      "title": "Surviving Medieval Fortress Identified in Dublin",
+      "fetched_at": "2026-09-21T21:20:42.127795+00:00"
+    },
+    "ce7194a04f03587b": {
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "fetched_at": "2026-09-21T21:20:42.744066+00:00"
     }
   },
-  "last_updated": "2026-09-21T17:21:54.082257+00:00"
+  "last_updated": "2026-09-21T21:20:42.859340+00:00"
 }
