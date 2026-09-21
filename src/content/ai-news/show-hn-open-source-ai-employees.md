@@ -1,0 +1,10 @@
+---
+title: 'Show HN: Open Source AI Employees'
+description: 'Fable 5 scored 99.19% on WebVoyager a few months ago, a be A benchmark is not your logged-in admin panel. Browser use agents are no longer demos.I believe this is a big tipping point.I have been a web'
+pubDate: 2026-09-21T10:28:45
+source: 'Hacker News'
+sourceUrl: 'https://github.com/markfulton/ai-employees'
+tags: []
+---
+
+Fable 5 scored 99.19% on WebVoyager a few months ago, a be A benchmark is not your logged-in admin panel. Browser use agents are no longer demos.I believe this is a big tipping point.I have been a web developer for most of my career and building with AI agents for nearly four years. Last October I wrote that the missing piece was browser agents reliable enough to leave alone.So I published this open source repo, so everyone can have high quality AI employees.They are, for the most part, agent harness agnostic and can work on any of them.An AI Employee is a folder of plain text routines that covers one business role: SEO, social, sales, support, web dev, ads, launch work, and a chief of staff that reads the other employees' logs. Eight roles, 60 routines, MIT. They run on your own machine through the agent harness you already use, and they drive your own signed-in browser.Two of the big things that make my agents better:- Recursive self improvement reinforcement - Custom trained recipes to get meaningful work done in browserThere's also some other neat features and more planned. Like only-when-needed push notifications for Claude Code and other harnesses that support that.I'm also building in community recipe and ecosystem contribution. Agents may discover workflows or tricks for high level tasks and contribute them to all other agent operators.They run a lot of my own business every day now. One example: full meta ad campaigns, content marketing, SEO, backlink building, community management, app development and management.I recommend you start with one that can take on the work you don't want to do. Or replace yourself.Happy to answer any questions. Comments URL: https://news.ycombinator.com/item?id=49785402 Points: 2 # Comments: 0

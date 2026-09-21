@@ -1,0 +1,11 @@
+---
+title: 'Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」'
+description: '黃仁勳發表此番言論前，已有人工智能研究人員警告，這項技術可能導致人類滅絕。'
+pubDate: 2026-09-21T07:31:24
+source: 'BBC中文'
+sourceUrl: 'https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad?at_medium=RSS&at_campaign=rss'
+region: '综合'
+tags: []
+---
+
+黃仁勳發表此番言論前，已有人工智能研究人員警告，這項技術可能導致人類滅絕。

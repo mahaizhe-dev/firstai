@@ -1,93 +1,5 @@
 {
   "articles": {
-    "b6b99a439ed425b6": {
-      "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
-      "fetched_at": "2026-09-13T10:45:24.025364+00:00"
-    },
-    "56441b9684ae8eca": {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "fetched_at": "2026-09-13T10:45:24.636234+00:00"
-    },
-    "394f6ef9ea64eccc": {
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "fetched_at": "2026-09-13T10:45:25.338281+00:00"
-    },
-    "4a0cdefc7203de96": {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "fetched_at": "2026-09-13T10:45:25.954031+00:00"
-    },
-    "a51f91ef958aa523": {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "fetched_at": "2026-09-13T10:45:26.573382+00:00"
-    },
-    "447c58f63d2d2f83": {
-      "title": "Trump is giving data centers a pass to pollute",
-      "fetched_at": "2026-09-13T10:45:27.198484+00:00"
-    },
-    "d8f3a98700e0080d": {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "fetched_at": "2026-09-13T10:45:27.817972+00:00"
-    },
-    "62135bc7d15eaf60": {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "fetched_at": "2026-09-13T10:45:28.438381+00:00"
-    },
-    "6e0d0139549a7749": {
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "fetched_at": "2026-09-13T10:45:29.075851+00:00"
-    },
-    "294d8d7ad479425d": {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-13T10:45:29.752624+00:00"
-    },
-    "98cd95c0b6dc2364": {
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "fetched_at": "2026-09-13T10:45:30.433420+00:00"
-    },
-    "c575df26f98f80c6": {
-      "title": "多熱才算太熱？牛津大學研究警告滾燙飲品可增加患癌風險",
-      "fetched_at": "2026-09-13T10:45:33.682000+00:00"
-    },
-    "ce3707b13c1c85e8": {
-      "title": "AI巨頭前僱員：同業「真誠恐懼」人類遭滅絕，西方必須與中國協調",
-      "fetched_at": "2026-09-13T10:45:34.297500+00:00"
-    },
-    "ee0fbd4cacce4952": {
-      "title": "女性比男性更擅長耐力跑嗎？",
-      "fetched_at": "2026-09-13T10:45:34.916477+00:00"
-    },
-    "5a91a0e2e9f47a8e": {
-      "title": "習近平七年來首次訪印：中印回暖背後的美國陰影與西藏問題",
-      "fetched_at": "2026-09-13T10:45:35.531798+00:00"
-    },
-    "bc0a6050877cf139": {
-      "title": "Haunting Hubble telescope image captures cosmic cycle of destruction and creation —‬ Space photo of the week",
-      "fetched_at": "2026-09-13T10:45:45.125123+00:00"
-    },
-    "95e8962039c0ea65": {
-      "title": "Why do cats lick each other?",
-      "fetched_at": "2026-09-13T10:45:45.753571+00:00"
-    },
-    "2e1e808e206f0a3d": {
-      "title": "Venus’s pale yellow clouds may hide something surprisingly dark",
-      "fetched_at": "2026-09-13T10:45:46.374875+00:00"
-    },
-    "d081e7e754848d25": {
-      "title": "Scientists find water was fueling volcanoes 3 billion years ago",
-      "fetched_at": "2026-09-13T10:45:46.993077+00:00"
-    },
-    "afdcc9b50b39198e": {
-      "title": "Scientists discover a hidden switch that shuts down inflammation",
-      "fetched_at": "2026-09-13T10:45:47.607173+00:00"
-    },
-    "1f0956de66ec021b": {
-      "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
-      "fetched_at": "2026-09-13T10:45:48.217783+00:00"
-    },
-    "ea4fbe0c5f355c5d": {
-      "title": "Blue Origin rocket explosion sent sound waves 1,000 miles across the US, report finds",
-      "fetched_at": "2026-09-13T10:45:48.847180+00:00"
-    },
     "da849717e4e6edb7": {
       "title": "習近平七年再訪印度：金磚峰會握手背後，中印關係破冰？",
       "fetched_at": "2026-09-13T15:14:18.891202+00:00"
@@ -3191,7 +3103,151 @@
     "07f8bd82ab4defa7": {
       "title": "'Nothing short of a minor miracle': 'Rusty treasure' found in the Danube is full of 2,000-year-old iron bars that could equip an entire army with weapons",
       "fetched_at": "2026-09-21T02:10:58.471792+00:00"
+    },
+    "c0495633a994c3a8": {
+      "title": "Show HN: Audit your site's structure for AI search crawlers (ChatGPT, Claude)",
+      "fetched_at": "2026-09-21T11:20:18.102414+00:00"
+    },
+    "f56738745f085c12": {
+      "title": "Amazon blocks Meta's Muse AI agent from checkouts",
+      "fetched_at": "2026-09-21T11:20:18.717350+00:00"
+    },
+    "8d423322ed0cb2d0": {
+      "title": "Show HN: Witdem – Did your AI Agent accomplish its task? and at what cost?",
+      "fetched_at": "2026-09-21T11:20:19.339594+00:00"
+    },
+    "988bc19efbdde26f": {
+      "title": "Show HN: Skillgesture – versioned, on-demand skills for AI agents",
+      "fetched_at": "2026-09-21T11:20:19.964623+00:00"
+    },
+    "32b10df06640795c": {
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "fetched_at": "2026-09-21T11:20:20.588035+00:00"
+    },
+    "fb572986870deda2": {
+      "title": "What re AI in software engineering are you struggling with the most?",
+      "fetched_at": "2026-09-21T11:20:21.230135+00:00"
+    },
+    "c5fcc9ce9100faf9": {
+      "title": "Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)",
+      "fetched_at": "2026-09-21T11:20:21.869970+00:00"
+    },
+    "d6bc37f12d282a4f": {
+      "title": "Show HN: Proxy-benchmark – is it the proxy, the browser, or your machine?",
+      "fetched_at": "2026-09-21T11:20:22.492909+00:00"
+    },
+    "b3ec1a540a8ec6af": {
+      "title": "AI is reaching new highs with AROM Labs",
+      "fetched_at": "2026-09-21T11:20:23.155394+00:00"
+    },
+    "7e7d6a20d1525ac3": {
+      "title": "Show HN: Open Source AI Employees",
+      "fetched_at": "2026-09-21T11:20:23.804537+00:00"
+    },
+    "3920238d29bfd557": {
+      "title": "A thing we may be able to learn from AI",
+      "fetched_at": "2026-09-21T11:20:24.427764+00:00"
+    },
+    "dee5ec3ea83b46a0": {
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "fetched_at": "2026-09-21T11:20:25.054796+00:00"
+    },
+    "da568283adb4cd89": {
+      "title": "AI Poster Prompts Improved",
+      "fetched_at": "2026-09-21T11:20:25.688095+00:00"
+    },
+    "f394752d731af818": {
+      "title": "派评 | 近期值得关注的 App",
+      "fetched_at": "2026-09-21T11:20:26.322236+00:00"
+    },
+    "7fc86793cc3485f9": {
+      "title": "Engineering Memory: Thoughts on learning to memorize first 100 digits of pi",
+      "fetched_at": "2026-09-21T11:20:26.975412+00:00"
+    },
+    "6e350341be5c9a16": {
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "fetched_at": "2026-09-21T11:20:27.599405+00:00"
+    },
+    "d029c1641f739869": {
+      "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
+      "fetched_at": "2026-09-21T11:20:28.228298+00:00"
+    },
+    "22040ef2e0149519": {
+      "title": "Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust",
+      "fetched_at": "2026-09-21T11:20:28.862131+00:00"
+    },
+    "f6ce289590f92e61": {
+      "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
+      "fetched_at": "2026-09-21T11:20:29.687663+00:00"
+    },
+    "fe884eadb2d4c54a": {
+      "title": "I'm afraid of spiders. So I made AI look at 2k of them",
+      "fetched_at": "2026-09-21T11:20:30.318010+00:00"
+    },
+    "12cd8b069d0d2738": {
+      "title": "中國與巴基斯坦新邊界安排為何引起印度不滿？",
+      "fetched_at": "2026-09-21T11:20:32.349258+00:00"
+    },
+    "72562718fa1a52b1": {
+      "title": "戴安娜弟弟出書談王室 查爾斯曾稱她「很快會被遺忘」",
+      "fetched_at": "2026-09-21T11:20:32.973544+00:00"
+    },
+    "f573215b476671ed": {
+      "title": "中共五中全會日期敲定 習近平政治地位新提法成看點",
+      "fetched_at": "2026-09-21T11:20:33.605413+00:00"
+    },
+    "e02bd4b6a493f512": {
+      "title": "Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」",
+      "fetched_at": "2026-09-21T11:20:34.234263+00:00"
+    },
+    "57205fc156e4fd04": {
+      "title": "他們聯手追查校長性侵指控，也在追尋公義的路上成為夫妻",
+      "fetched_at": "2026-09-21T11:20:34.880771+00:00"
+    },
+    "b3f6a60a88d581bc": {
+      "title": "习近平以强势姿态访美，特朗普该与他讨论什么？",
+      "fetched_at": "2026-09-21T11:20:35.513458+00:00"
+    },
+    "53c3d27a7165641c": {
+      "title": "特朗普向金正恩示好，习近平或借机“卖人情”？",
+      "fetched_at": "2026-09-21T11:20:36.141872+00:00"
+    },
+    "366bc06374d47945": {
+      "title": "中国伊朗利用开源AI展开大规模影响力行动",
+      "fetched_at": "2026-09-21T11:20:36.782137+00:00"
+    },
+    "1244dfcaea67596e": {
+      "title": "白宫内部关于人工智能威胁的复杂辩论",
+      "fetched_at": "2026-09-21T11:20:37.442808+00:00"
+    },
+    "37cf14c132eb3915": {
+      "title": "时报出版人：175年、1500万篇报道讲述的美国故事",
+      "fetched_at": "2026-09-21T11:20:38.064561+00:00"
+    },
+    "0f0fd075cc287d9f": {
+      "title": "Funeral mask: A 2,000-year-old gold face covering designed to confuse the deceased's spirit so it didn't torment the living",
+      "fetched_at": "2026-09-21T11:20:40.658781+00:00"
+    },
+    "d0ec9571e1462ef3": {
+      "title": "The devastating Nepal floods highlighted the danger of glaciers. Here's where the next disaster may occur.",
+      "fetched_at": "2026-09-21T11:20:41.287811+00:00"
+    },
+    "a4c4b74fc662090c": {
+      "title": "What kills Schrödinger’s cat? Gravity may not be the answer",
+      "fetched_at": "2026-09-21T11:20:41.918895+00:00"
+    },
+    "6e2f6f9c69649ae4": {
+      "title": "AI writing debate is similar to the one that rocked ancient Greece 2700 yrs ago",
+      "fetched_at": "2026-09-21T11:20:42.540580+00:00"
+    },
+    "1c095f0c10d2dc9d": {
+      "title": "Researcher receives Lasker Award for discovery that transformed narcolepsy care",
+      "fetched_at": "2026-09-21T11:20:43.186707+00:00"
+    },
+    "8a510ed982dccd33": {
+      "title": "Small Asian Grocery Stores Can Improve Local Product Discovery",
+      "fetched_at": "2026-09-21T11:20:43.832480+00:00"
     }
   },
-  "last_updated": "2026-09-21T02:10:58.542082+00:00"
+  "last_updated": "2026-09-21T11:20:43.921909+00:00"
 }
