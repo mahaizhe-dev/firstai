@@ -1,101 +1,5 @@
 {
   "articles": {
-    "ab39456ba5532f1b": {
-      "title": "Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet",
-      "fetched_at": "2026-09-14T02:10:40.711161+00:00"
-    },
-    "e2433defb0f649dc": {
-      "title": "Opportunistic AI detects colorectal cancer using routine, noncontrast CT",
-      "fetched_at": "2026-09-14T02:10:41.326191+00:00"
-    },
-    "dc45946a7c1e3a80": {
-      "title": "AI is not a normal technology",
-      "fetched_at": "2026-09-14T02:10:41.946222+00:00"
-    },
-    "d8a33f067ec5968c": {
-      "title": "Godfather of AI welcomes pause in development (interview with Hinton)",
-      "fetched_at": "2026-09-14T02:10:42.591326+00:00"
-    },
-    "c74b196f4bd2cf11": {
-      "title": "AI Robots – When will they be in our homes",
-      "fetched_at": "2026-09-14T02:10:43.236219+00:00"
-    },
-    "33c57b9095642d5c": {
-      "title": "The librarian, the car keys, and AI",
-      "fetched_at": "2026-09-14T02:10:43.857628+00:00"
-    },
-    "9a8ddca293e485dd": {
-      "title": "Worrying about bad AI code is worrying about the wrong problem",
-      "fetched_at": "2026-09-14T02:10:44.486031+00:00"
-    },
-    "cdf64a5628c5563f": {
-      "title": "Open-Source AI and Open Models Reading List",
-      "fetched_at": "2026-09-14T02:10:45.104499+00:00"
-    },
-    "838380944d30175e": {
-      "title": "AI bubble pops – Cory Doctorow",
-      "fetched_at": "2026-09-14T02:10:45.715518+00:00"
-    },
-    "a56693ef741ab373": {
-      "title": "AI Boom / Bust – Boom Boom Pow",
-      "fetched_at": "2026-09-14T02:10:46.358063+00:00"
-    },
-    "32754b580487122e": {
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "fetched_at": "2026-09-14T02:10:46.997580+00:00"
-    },
-    "8f4962a605ce6faa": {
-      "title": "AI Coding Dictionary",
-      "fetched_at": "2026-09-14T02:10:47.608704+00:00"
-    },
-    "5df26352708cdf9f": {
-      "title": "X.com busts Chinese bot farm, incl accounts making claims about AI data centers",
-      "fetched_at": "2026-09-14T02:10:48.231598+00:00"
-    },
-    "f2880270c76921ae": {
-      "title": "Robots protest rampant AI in Poland",
-      "fetched_at": "2026-09-14T02:10:48.852197+00:00"
-    },
-    "94d532ba7c8b7dd9": {
-      "title": "Ask HN: How is AI actively a threat to humanity if it's only online?",
-      "fetched_at": "2026-09-14T02:10:49.475206+00:00"
-    },
-    "094d17773da3c0a4": {
-      "title": "I think Effect-TS is a strong fit for AI agent development",
-      "fetched_at": "2026-09-14T02:10:50.092971+00:00"
-    },
-    "e7c8963819161130": {
-      "title": "AI hypervigilance is now an omnipresent cognitive load for your users",
-      "fetched_at": "2026-09-14T02:10:50.761017+00:00"
-    },
-    "e856d364e7cc6a2a": {
-      "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
-      "fetched_at": "2026-09-14T02:10:51.391072+00:00"
-    },
-    "22783d46cc2a558f": {
-      "title": "It's All Fun and Games Until You Give AI Your Credit Card",
-      "fetched_at": "2026-09-14T02:10:52.033617+00:00"
-    },
-    "3c8ab9824d206157": {
-      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
-      "fetched_at": "2026-09-14T02:10:52.649987+00:00"
-    },
-    "7c835beb10c0a357": {
-      "title": "金砖峰会：各国营造团结景象，但难掩内部分歧",
-      "fetched_at": "2026-09-14T02:10:55.759129+00:00"
-    },
-    "1395cb4283234306": {
-      "title": "中國強勢下，歐洲電池工業謀求「重新充電」",
-      "fetched_at": "2026-09-14T02:10:56.416727+00:00"
-    },
-    "e7f1a70183efc61f": {
-      "title": "中國16年來首修《國防動員法》 專家稱：吸取俄烏教訓 建立「平戰快速轉換」制度",
-      "fetched_at": "2026-09-14T02:10:57.043292+00:00"
-    },
-    "2424a180784727eb": {
-      "title": "Mathematicians say these 60-sided dice are the fairest in the world. Designing them took 15 years.",
-      "fetched_at": "2026-09-14T02:10:59.888831+00:00"
-    },
     "99ad950b64ff5c58": {
       "title": "Watch AI materials-science and bioscience abilities closely",
       "fetched_at": "2026-09-14T11:09:43.040801+00:00"
@@ -3255,7 +3159,43 @@
     "ce7194a04f03587b": {
       "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
       "fetched_at": "2026-09-21T21:20:42.744066+00:00"
+    },
+    "2f137f63dc6499f1": {
+      "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
+      "fetched_at": "2026-09-22T02:15:50.037432+00:00"
+    },
+    "9c943063695bc3a3": {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "fetched_at": "2026-09-22T02:15:50.618831+00:00"
+    },
+    "94535006dee0853f": {
+      "title": "California tightens rules on AI data center energy and water use",
+      "fetched_at": "2026-09-22T02:15:51.191053+00:00"
+    },
+    "e6bebaa588426c78": {
+      "title": "张又侠被开除党籍，将面临军事法庭审判",
+      "fetched_at": "2026-09-22T02:15:53.996450+00:00"
+    },
+    "c9ea4cdaea79f86c": {
+      "title": "香港提出「用人民幣支付政府開支」，為何引發「去美元化」憂慮？",
+      "fetched_at": "2026-09-22T02:15:54.576714+00:00"
+    },
+    "a2a3cd4f0ff7755b": {
+      "title": "脆弱的美中关系中最具破坏性的问题：对台军售",
+      "fetched_at": "2026-09-22T02:15:55.185301+00:00"
+    },
+    "d02dc289f945b69c": {
+      "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
+      "fetched_at": "2026-09-22T02:15:55.770067+00:00"
+    },
+    "73689d2b4670e03d": {
+      "title": "What are you most excited for NASA's Roman Space Telescope to find?",
+      "fetched_at": "2026-09-22T02:15:57.780365+00:00"
+    },
+    "df2c22a0e5cf813f": {
+      "title": "Fall stargazing 2026: The best skywatching sights in autumn (and how to see them)",
+      "fetched_at": "2026-09-22T02:15:58.371880+00:00"
     }
   },
-  "last_updated": "2026-09-21T21:20:42.859340+00:00"
+  "last_updated": "2026-09-22T02:15:58.438835+00:00"
 }
