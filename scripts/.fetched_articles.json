@@ -1,133 +1,5 @@
 {
   "articles": {
-    "86eab77a8960092e": {
-      "title": "Can AI agents conduct open-ended AI research?",
-      "fetched_at": "2026-09-14T17:11:16.840622+00:00"
-    },
-    "008200dcd3796f3a": {
-      "title": "Pedagogy in the Times of AI",
-      "fetched_at": "2026-09-14T17:11:17.416669+00:00"
-    },
-    "8d306b8099f1ef6a": {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "fetched_at": "2026-09-14T17:11:17.998203+00:00"
-    },
-    "1efa462b658b6a0e": {
-      "title": "Apple Releases iOS 27 and iPadOS 27 with Siri AI and Liquid Glass Update",
-      "fetched_at": "2026-09-14T17:11:18.591910+00:00"
-    },
-    "a759f0fecce778dc": {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "fetched_at": "2026-09-14T17:11:19.174983+00:00"
-    },
-    "cddc0c26bbcda939": {
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "fetched_at": "2026-09-14T17:11:19.758722+00:00"
-    },
-    "29456aab71a16840": {
-      "title": "A1ex: A simple LLM coding agent in Lua",
-      "fetched_at": "2026-09-14T17:11:20.340077+00:00"
-    },
-    "b03196d9e2c76c24": {
-      "title": "Prompt steering can reduce DeepSeek v4 hallucinations to below GPT and Claude",
-      "fetched_at": "2026-09-14T17:11:20.920472+00:00"
-    },
-    "190bda6e01065996": {
-      "title": "Your AI coding spend bought 25% more output. Duplication rose 81%.",
-      "fetched_at": "2026-09-14T17:11:21.497275+00:00"
-    },
-    "3e600c21dbeae177": {
-      "title": "Ask HN: Why the sudden \"AI Regulation\" posts?",
-      "fetched_at": "2026-09-14T17:11:22.077213+00:00"
-    },
-    "d2f451977ae371b9": {
-      "title": "AI Is in Dangerous Hands",
-      "fetched_at": "2026-09-14T17:11:22.653151+00:00"
-    },
-    "e107866251dbeb87": {
-      "title": "Why don't machine learning research agents overfit?",
-      "fetched_at": "2026-09-14T17:11:23.241136+00:00"
-    },
-    "9974d06cbdd23aaa": {
-      "title": "When LLM judges agree, should we believe them?",
-      "fetched_at": "2026-09-14T17:11:23.813331+00:00"
-    },
-    "eb58cd838d74267d": {
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "fetched_at": "2026-09-14T17:11:24.403007+00:00"
-    },
-    "7824f641494f820f": {
-      "title": "When does generative AI qualify for fair use?",
-      "fetched_at": "2026-09-14T17:11:24.978377+00:00"
-    },
-    "e9c927c94a560f76": {
-      "title": "Hacking AI customer service agents",
-      "fetched_at": "2026-09-14T17:11:25.547089+00:00"
-    },
-    "a8373250764c7fdc": {
-      "title": "Running a small LLM in reMarkable 2",
-      "fetched_at": "2026-09-14T17:11:26.126694+00:00"
-    },
-    "8fcb45d17a15039c": {
-      "title": "MIT creates method to force AI to comply with safety rules",
-      "fetched_at": "2026-09-14T17:11:26.694228+00:00"
-    },
-    "6c0b97013085797b": {
-      "title": "Introduction to AI Engineering",
-      "fetched_at": "2026-09-14T17:11:27.277898+00:00"
-    },
-    "7133b4ec9f73e1b7": {
-      "title": "For AI leaders Doom is a form of hype",
-      "fetched_at": "2026-09-14T17:11:27.867466+00:00"
-    },
-    "06d580ce58ca8d3e": {
-      "title": "俄烏戰場為何或會迎來新一批朝鮮軍人",
-      "fetched_at": "2026-09-14T17:11:29.856729+00:00"
-    },
-    "680d1de22377b556": {
-      "title": "專家評中國修《國防動員法》：吸俄烏教訓實現「平戰快速轉換」",
-      "fetched_at": "2026-09-14T17:11:30.448038+00:00"
-    },
-    "c733ae3b1ca935cc": {
-      "title": "不同版本的世界地圖有哪些正確及錯誤之處？",
-      "fetched_at": "2026-09-14T17:11:31.011071+00:00"
-    },
-    "33fe0880d58d907a": {
-      "title": "Cancer is rising in younger adults. Faster biological aging may help explain why",
-      "fetched_at": "2026-09-14T17:11:35.307052+00:00"
-    },
-    "746393808e18e9a1": {
-      "title": "Hidden brain wiring may help keep the mind sharp as gray matter shrinks",
-      "fetched_at": "2026-09-14T17:11:35.883282+00:00"
-    },
-    "1cf7cab07a44e2f2": {
-      "title": "Chemistry textbooks have been getting this wrong for nearly 100 years",
-      "fetched_at": "2026-09-14T17:11:36.451049+00:00"
-    },
-    "d68cf8b7ab945770": {
-      "title": "Crocodiles are famous for finding their way home. These ones didn’t",
-      "fetched_at": "2026-09-14T17:11:37.027711+00:00"
-    },
-    "cdd3f8be4605d590": {
-      "title": "This German submarine sank in 1917. It’s still leaking TNT",
-      "fetched_at": "2026-09-14T17:11:37.609313+00:00"
-    },
-    "c8f8adb109885ac5": {
-      "title": "Scientists find how “zombie” cells fuel inflammation as we age",
-      "fetched_at": "2026-09-14T17:11:38.258079+00:00"
-    },
-    "973add96d9d53b71": {
-      "title": "One Mount Etna eruption took weeks. Another happened in hours",
-      "fetched_at": "2026-09-14T17:11:38.832539+00:00"
-    },
-    "7742d41fc0bbef2e": {
-      "title": "Scientists finally see DNA “zip” itself together for the first time",
-      "fetched_at": "2026-09-14T17:11:39.398934+00:00"
-    },
-    "9ca87c5ac68efaae": {
-      "title": "How small can a transistor get?",
-      "fetched_at": "2026-09-14T17:11:39.972040+00:00"
-    },
     "918d7edf86f78d4a": {
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
       "fetched_at": "2026-09-14T21:08:20.708957+00:00"
@@ -3287,7 +3159,155 @@
     "8d789052f79d831e": {
       "title": "Space 'shark' takes top prize at ZWO Astronomy Photographer of the Year contest",
       "fetched_at": "2026-09-22T15:54:00.435577+00:00"
+    },
+    "6b45090ceb269914": {
+      "title": "LLM Ass Bench",
+      "fetched_at": "2026-09-22T20:37:22.867151+00:00"
+    },
+    "92866034d9b492ed": {
+      "title": "Ask HN: When is fine-tuning a small LLM worth it?",
+      "fetched_at": "2026-09-22T20:37:23.489207+00:00"
+    },
+    "cd5b288091cafdf7": {
+      "title": "Better prompt caching for GPT‑6",
+      "fetched_at": "2026-09-22T20:37:24.110343+00:00"
+    },
+    "cef23a4a8652c1e1": {
+      "title": "Z.ai says sorry for slurping up your code, open sources ZCode",
+      "fetched_at": "2026-09-22T20:37:24.726208+00:00"
+    },
+    "f508231fa9299381": {
+      "title": "Bootstrapping Frontier AI Governance by Mutualizing Risk",
+      "fetched_at": "2026-09-22T20:37:25.419880+00:00"
+    },
+    "a4ce98d537e70a38": {
+      "title": "'Same sense of urgency': UN chief compares AI risk to nuclear weapons",
+      "fetched_at": "2026-09-22T20:37:26.046807+00:00"
+    },
+    "e43ef457fa4e4ce7": {
+      "title": "Are Meta's smart glasses training AI for robots?",
+      "fetched_at": "2026-09-22T20:37:26.669387+00:00"
+    },
+    "2258086efa635484": {
+      "title": "Show HN: Shrewd – what I learned distilling LLM labels into local classifiers",
+      "fetched_at": "2026-09-22T20:37:27.299081+00:00"
+    },
+    "b83ec7d6f260e5be": {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "fetched_at": "2026-09-22T20:37:27.924517+00:00"
+    },
+    "0384c7561d9e1285": {
+      "title": "AI Leaders Are Standing on a Liability Landmine",
+      "fetched_at": "2026-09-22T20:37:28.547645+00:00"
+    },
+    "9e9243b6c40d9458": {
+      "title": "Meta testing a 'human concierge' for its new personal AI agent, Muse",
+      "fetched_at": "2026-09-22T20:37:29.163678+00:00"
+    },
+    "aa788e0d90208b28": {
+      "title": "He Said AI? Sharpen the Pitchforks",
+      "fetched_at": "2026-09-22T20:37:29.811319+00:00"
+    },
+    "87c74bf81d281002": {
+      "title": "Show HN: junkDrawer.ai – Browse eBay with AI Agent and Dynamic Filtering",
+      "fetched_at": "2026-09-22T20:37:30.431219+00:00"
+    },
+    "4edbad7bac710d1c": {
+      "title": "DiscoBox: AI Coding Agents in Disposable Sandboxes",
+      "fetched_at": "2026-09-22T20:37:31.058475+00:00"
+    },
+    "f2d10af71f1a8777": {
+      "title": "GPT-6 Sol and Luna push the cost-efficiency frontier",
+      "fetched_at": "2026-09-22T20:37:31.694295+00:00"
+    },
+    "3df8acf1fe7322be": {
+      "title": "Trump rejects global entity for AI oversight",
+      "fetched_at": "2026-09-22T20:37:32.325571+00:00"
+    },
+    "133885104823b60b": {
+      "title": "An autonomous AI company could run itself. It still couldn't find a market",
+      "fetched_at": "2026-09-22T20:37:33.024368+00:00"
+    },
+    "9bef2bd698ef1a55": {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "fetched_at": "2026-09-22T20:37:33.664157+00:00"
+    },
+    "c1a27e285492982f": {
+      "title": "Maskr – Catch personal data before it reaches AI chatbots (100% client-side)",
+      "fetched_at": "2026-09-22T20:37:34.306644+00:00"
+    },
+    "e16cf2521c9662e6": {
+      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "fetched_at": "2026-09-22T20:37:34.930902+00:00"
+    },
+    "6875a1370b090446": {
+      "title": "協助死亡：世界各地法律有何不同",
+      "fetched_at": "2026-09-22T20:37:37.051329+00:00"
+    },
+    "fd06765348e8283b": {
+      "title": "人工智能踩「剎車」？特朗普：別忘了中美競爭",
+      "fetched_at": "2026-09-22T20:37:37.711887+00:00"
+    },
+    "7c843482e1f34421": {
+      "title": "Fragment of world's oldest peace treaty unearthed in Turkey",
+      "fetched_at": "2026-09-22T20:37:39.856009+00:00"
+    },
+    "cc18f88d7d60bf39": {
+      "title": "Newfound 'fire amoeba from the Cascades' sets record for the hottest temperature complex life can survive at",
+      "fetched_at": "2026-09-22T20:37:40.519105+00:00"
+    },
+    "74a2f7296f0bce1c": {
+      "title": "Betel nuts are a top mind-affecting substance. There's evidence of ancient use",
+      "fetched_at": "2026-09-22T20:37:41.141145+00:00"
+    },
+    "126a699e73a8ab48": {
+      "title": "Laser Scans Reveal Ship Images on Cyprus Temple Wall",
+      "fetched_at": "2026-09-22T20:37:41.782818+00:00"
+    },
+    "4a24407f56280929": {
+      "title": "Roman Camp and Rock-Cut Tombs Uncovered in Egypt’s Nile Delta",
+      "fetched_at": "2026-09-22T20:37:42.439656+00:00"
+    },
+    "2bdb6ee6bb64ad79": {
+      "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
+      "fetched_at": "2026-09-22T20:37:43.059410+00:00"
+    },
+    "d47557ccb7f24d4d": {
+      "title": "Vera C. Rubin Observatory detects one of the smallest and faintest satellite galaxies ever seen",
+      "fetched_at": "2026-09-22T20:37:43.676717+00:00"
+    },
+    "9c948f4f1baeee44": {
+      "title": "2,200-Year-Old Iron Cargo From the Danube Analyzed",
+      "fetched_at": "2026-09-22T20:37:44.305245+00:00"
+    },
+    "e500110406918380": {
+      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia",
+      "fetched_at": "2026-09-22T20:37:44.919953+00:00"
+    },
+    "e53b14ef07239526": {
+      "title": "US heading for unprecedented El Niño winter: Here's what to expect",
+      "fetched_at": "2026-09-22T20:37:45.546508+00:00"
+    },
+    "7f257d0caef023eb": {
+      "title": "Show HN: I added MCP support to Founder.best for agentic product discovery",
+      "fetched_at": "2026-09-22T20:37:46.175551+00:00"
+    },
+    "7d25a258e09ba156": {
+      "title": "Ancient Artworks Depicting a Mysterious Unknown City",
+      "fetched_at": "2026-09-22T20:37:46.791808+00:00"
+    },
+    "d6fccf41e926ea62": {
+      "title": "The mystery animal on an ancient god's head",
+      "fetched_at": "2026-09-22T20:37:47.406924+00:00"
+    },
+    "c4098f2baf963558": {
+      "title": "Giant 'baby' planet is the youngest world scientists have ever seen",
+      "fetched_at": "2026-09-22T20:37:48.033150+00:00"
+    },
+    "e599f212beaf5923": {
+      "title": "A man's sudden fainting episodes landed him in the hospital — and a hair dye was to blame",
+      "fetched_at": "2026-09-22T20:37:48.651290+00:00"
     }
   },
-  "last_updated": "2026-09-22T15:54:00.529505+00:00"
+  "last_updated": "2026-09-22T20:37:48.773059+00:00"
 }
