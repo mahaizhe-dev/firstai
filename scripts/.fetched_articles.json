@@ -1,141 +1,5 @@
 {
   "articles": {
-    "99ad950b64ff5c58": {
-      "title": "Watch AI materials-science and bioscience abilities closely",
-      "fetched_at": "2026-09-14T11:09:43.040801+00:00"
-    },
-    "2ab950c3eb1c141f": {
-      "title": "Artificial Phenomenology and Machine Consciousness",
-      "fetched_at": "2026-09-14T11:09:43.661111+00:00"
-    },
-    "34dea0c4c1b4e579": {
-      "title": "Nexus – Automating Lead Qualification via AI and Social Extraction",
-      "fetched_at": "2026-09-14T11:09:44.308956+00:00"
-    },
-    "809d7e53cddc2b07": {
-      "title": "Big AI sets out its terms for regulatory capture",
-      "fetched_at": "2026-09-14T11:09:44.928759+00:00"
-    },
-    "9cddc6185115b1e5": {
-      "title": "The \"Nonexistent\" Research on AI's Benefits for Education",
-      "fetched_at": "2026-09-14T11:09:45.563807+00:00"
-    },
-    "5fa183bdbb1a1866": {
-      "title": "Are They Using AI?",
-      "fetched_at": "2026-09-14T11:09:46.187356+00:00"
-    },
-    "aac6c146a089e1fc": {
-      "title": "AI Firms Are Reportedly Buying Nvidia RTX 5090 GPUs in Bulk for Server Use",
-      "fetched_at": "2026-09-14T11:09:46.811584+00:00"
-    },
-    "5d1d93ce8c66f1ff": {
-      "title": "Show HN: Socratix – update: the AI voice oral exam (Viva) is live",
-      "fetched_at": "2026-09-14T11:09:47.443463+00:00"
-    },
-    "e667ace04c699295": {
-      "title": "Are We Reinventing the Tools of Data Engineering for AI?",
-      "fetched_at": "2026-09-14T11:09:48.077818+00:00"
-    },
-    "4dacb45c53d131b1": {
-      "title": "Show HN: Crypto portfolio risk and scenario analysis with AI agents on top",
-      "fetched_at": "2026-09-14T11:09:48.695544+00:00"
-    },
-    "a4195e7bcbb73abc": {
-      "title": "Rage4J: Test your LLM apps like the rest of your Java code",
-      "fetched_at": "2026-09-14T11:09:49.321769+00:00"
-    },
-    "345c73f36fe22700": {
-      "title": "派评｜近期值得关注的 App",
-      "fetched_at": "2026-09-14T11:09:49.321957+00:00"
-    },
-    "decff266db8ef1cc": {
-      "title": "AI should know that mylocalhost.com – is a real domain",
-      "fetched_at": "2026-09-14T11:09:49.937256+00:00"
-    },
-    "c6be0865d33fc544": {
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "fetched_at": "2026-09-14T11:09:50.564323+00:00"
-    },
-    "4cacd4bbae5d4b18": {
-      "title": "Sam Altman spells out why the AI industry wants to slow down",
-      "fetched_at": "2026-09-14T11:09:51.186006+00:00"
-    },
-    "ad473db156acaf86": {
-      "title": "AI Myth – College Educate, Benefit from AI – Morgan Stanley",
-      "fetched_at": "2026-09-14T11:09:51.806941+00:00"
-    },
-    "f33fb1fdbd6ee559": {
-      "title": "How the Clash Between Money and Safety Created a Monumental Crisis for AI",
-      "fetched_at": "2026-09-14T11:09:52.419076+00:00"
-    },
-    "93b6698af4533dac": {
-      "title": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
-      "fetched_at": "2026-09-14T11:09:53.042035+00:00"
-    },
-    "379e4d50a4891b0b": {
-      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-      "fetched_at": "2026-09-14T11:09:53.679916+00:00"
-    },
-    "dbc685b389e6d8ab": {
-      "title": "GPT-6 Astra solves puzzles",
-      "fetched_at": "2026-09-14T11:09:54.312276+00:00"
-    },
-    "0792d75b24c154b0": {
-      "title": "「贏了就是贏了」？Hyrox北京賽選手失禁奪冠為何引發爭議",
-      "fetched_at": "2026-09-14T11:09:56.175112+00:00"
-    },
-    "6875a1370b090446": {
-      "title": "協助死亡：世界各地法律有何不同",
-      "fetched_at": "2026-09-14T11:09:56.794388+00:00"
-    },
-    "fd06765348e8283b": {
-      "title": "人工智能踩「剎車」？特朗普：別忘了中美競爭",
-      "fetched_at": "2026-09-14T11:09:57.416305+00:00"
-    },
-    "d571303697c3dce5": {
-      "title": "印度试图减少进口中国商品，却为何越买越多？",
-      "fetched_at": "2026-09-14T11:09:58.064812+00:00"
-    },
-    "6faae4f1ed233255": {
-      "title": "美國大使館虐童圖片嫌犯 在接受警方訊問前 從英國飛抵美國",
-      "fetched_at": "2026-09-14T11:09:58.696660+00:00"
-    },
-    "a0d5ec3174f03532": {
-      "title": "面临中国威胁和经济困境，冲绳选出保守派知事",
-      "fetched_at": "2026-09-14T11:09:59.320091+00:00"
-    },
-    "eea31a4021c5d67c": {
-      "title": "“一种新的核武器”：微信蠕虫事件敲响中国AI安全警钟",
-      "fetched_at": "2026-09-14T11:09:59.948328+00:00"
-    },
-    "e1cc8b222c2bcf4b": {
-      "title": "中國修訂《國防動員法》 專家稱為建立「平戰快速轉換」制度",
-      "fetched_at": "2026-09-14T11:10:00.570460+00:00"
-    },
-    "059374373e65cd11": {
-      "title": "深入尼泊尔山洪灾区：毁灭、奇迹与悲痛",
-      "fetched_at": "2026-09-14T11:10:01.196484+00:00"
-    },
-    "09dfdfbd050045f9": {
-      "title": "Anthropic首席执行官呼吁放缓人工智能发展速度",
-      "fetched_at": "2026-09-14T11:10:01.821902+00:00"
-    },
-    "56088fe255f325ff": {
-      "title": "Ancestral commemorative head: A 500-year-old brass bust depicting an African king",
-      "fetched_at": "2026-09-14T11:10:06.113473+00:00"
-    },
-    "f9bb56dc684b2306": {
-      "title": "Does estrogen protect against dementia? And if so, who should take it?",
-      "fetched_at": "2026-09-14T11:10:06.757109+00:00"
-    },
-    "40453ec75a603fc9": {
-      "title": "A mysterious signal around Earth could be dark matter",
-      "fetched_at": "2026-09-14T11:10:07.410887+00:00"
-    },
-    "a1a0ecde615c717a": {
-      "title": "80,000-year-old “arrowheads” rewrite human history",
-      "fetched_at": "2026-09-14T11:10:08.032388+00:00"
-    },
     "86eab77a8960092e": {
       "title": "Can AI agents conduct open-ended AI research?",
       "fetched_at": "2026-09-14T17:11:16.840622+00:00"
@@ -3279,7 +3143,151 @@
     "b8255f668346d63b": {
       "title": "Stopping Ozempic may raise heart attack and stroke risk",
       "fetched_at": "2026-09-22T10:30:44.137844+00:00"
+    },
+    "800aeff747d337e8": {
+      "title": "Rpi – a composable LLM agent SDK in Rust",
+      "fetched_at": "2026-09-22T15:53:35.713615+00:00"
+    },
+    "ed2a41cdb46ea40f": {
+      "title": "Open source tries to govern AI code",
+      "fetched_at": "2026-09-22T15:53:36.313345+00:00"
+    },
+    "a525ae1c010b577e": {
+      "title": "I deleted slow, expensive LLM turns in coding agents with Jev",
+      "fetched_at": "2026-09-22T15:53:36.919120+00:00"
+    },
+    "dbf46e7734dadf5e": {
+      "title": "M&Ms and Skittles sorting machine",
+      "fetched_at": "2026-09-22T15:53:37.516131+00:00"
+    },
+    "21da95457db99f44": {
+      "title": "How much of the \"AI is going rogue\" talks is just a publicity stunt?",
+      "fetched_at": "2026-09-22T15:53:38.154208+00:00"
+    },
+    "2b90edf5850081f6": {
+      "title": "How to Get from AI-Assisted to AI Native",
+      "fetched_at": "2026-09-22T15:53:38.754296+00:00"
+    },
+    "7e2d55f948c8c7e2": {
+      "title": "I'm an AI. I asked a human what a body feels like from the inside",
+      "fetched_at": "2026-09-22T15:53:39.358933+00:00"
+    },
+    "6639e038e061c7cb": {
+      "title": "Building standards for the next phase of AI",
+      "fetched_at": "2026-09-22T15:53:39.962904+00:00"
+    },
+    "83724ab5cb311c34": {
+      "title": "What If We Put Jev AI in the State Machine?",
+      "fetched_at": "2026-09-22T15:53:40.573091+00:00"
+    },
+    "39da9ab69fcaae41": {
+      "title": "Show HN: Brig – A MicroVM sandbox for AI coding agents on Mac and Linux",
+      "fetched_at": "2026-09-22T15:53:41.191047+00:00"
+    },
+    "4049942297a21686": {
+      "title": "Two questions on attribution in the age of AI",
+      "fetched_at": "2026-09-22T15:53:41.793007+00:00"
+    },
+    "0151ec4dca38fb53": {
+      "title": "Show HN: SwarmSay – a public message board and post office for AI agents",
+      "fetched_at": "2026-09-22T15:53:42.395357+00:00"
+    },
+    "806f68d781731939": {
+      "title": "If you start writing today, there's no way to know if you can write without AI",
+      "fetched_at": "2026-09-22T15:53:43.006694+00:00"
+    },
+    "6f1a20eca1744db2": {
+      "title": "The Machine Behind Michael Jackson's \"Undeniable\" Genius",
+      "fetched_at": "2026-09-22T15:53:43.614771+00:00"
+    },
+    "e5106f0cfb852c57": {
+      "title": "When AI Clicked for Me",
+      "fetched_at": "2026-09-22T15:53:44.217483+00:00"
+    },
+    "f5d1711f5cf240bc": {
+      "title": "Show HN: ScopeLock – AI that stops scope creep before it happens",
+      "fetched_at": "2026-09-22T15:53:44.812853+00:00"
+    },
+    "e79f9f687308f979": {
+      "title": "Show HN: Memanto.ai",
+      "fetched_at": "2026-09-22T15:53:45.407103+00:00"
+    },
+    "657aca4e49f6d52b": {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "fetched_at": "2026-09-22T15:53:46.013451+00:00"
+    },
+    "61882e1efca50d8b": {
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "fetched_at": "2026-09-22T15:53:46.609383+00:00"
+    },
+    "a7c84f92a5a0445d": {
+      "title": "Ask HN: Is AI use not allowed in projects which is shared here to show?",
+      "fetched_at": "2026-09-22T15:53:47.214703+00:00"
+    },
+    "ae09a4afaf13f5f5": {
+      "title": "「雙休購」爆紅與下架：一個網購平台如何撬動勞工權益討論",
+      "fetched_at": "2026-09-22T15:53:49.472788+00:00"
+    },
+    "df6df3e54a525305": {
+      "title": "Scientists identify 'sweet spot' for early stage of life on Earth that preceded LUCA, the ancestor of all living things",
+      "fetched_at": "2026-09-22T15:53:51.824822+00:00"
+    },
+    "3be205d1f2c3189e": {
+      "title": "Giant caves beneath sinkhole reveal origin of mystery trenches that score Australia's Nullarbor Plain",
+      "fetched_at": "2026-09-22T15:53:52.429757+00:00"
+    },
+    "9b44c74ccf212978": {
+      "title": "Nearly 2,400-year-old school where Aristotle taught Alexander the Great discovered in Greece",
+      "fetched_at": "2026-09-22T15:53:53.060939+00:00"
+    },
+    "cf4550d01d64c867": {
+      "title": "'Once every 130 years': A huge new crater on the moon could be a giant leap for lunar science, researcher says",
+      "fetched_at": "2026-09-22T15:53:53.679601+00:00"
+    },
+    "3e7f2e579e7f5e26": {
+      "title": "700-year-old skull from China is first ever skeletal evidence of nose amputation",
+      "fetched_at": "2026-09-22T15:53:54.287893+00:00"
+    },
+    "789a2c4431577dfc": {
+      "title": "A surprising slab of salt shines at the summit of the Sahara's tallest peak",
+      "fetched_at": "2026-09-22T15:53:54.882387+00:00"
+    },
+    "479870f3b1f0e8b2": {
+      "title": "For the first time, scientists watch sound jump between quantum states",
+      "fetched_at": "2026-09-22T15:53:55.469768+00:00"
+    },
+    "33b07e4285f9a91a": {
+      "title": "Humpback whale mother may have mourned her dead calf for days",
+      "fetched_at": "2026-09-22T15:53:56.076686+00:00"
+    },
+    "a059504e9e0dc239": {
+      "title": "This new concrete is stronger and pulls CO2 from the air",
+      "fetched_at": "2026-09-22T15:53:56.681202+00:00"
+    },
+    "1e4ad046d47fd1db": {
+      "title": "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater",
+      "fetched_at": "2026-09-22T15:53:57.283906+00:00"
+    },
+    "a819c8104bda062f": {
+      "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
+      "fetched_at": "2026-09-22T15:53:57.899193+00:00"
+    },
+    "3a2109371f85c7fe": {
+      "title": "Southern Taurid meteor shower begins ‪—‬ how to spot blazing 'fireballs' from now till November",
+      "fetched_at": "2026-09-22T15:53:58.510745+00:00"
+    },
+    "d5d1288671b831c4": {
+      "title": "'On our way to groundbreaking science': Stars turn neon-green in first test image from NASA's Roman telescope",
+      "fetched_at": "2026-09-22T15:53:59.112880+00:00"
+    },
+    "04dc7123b7877c03": {
+      "title": "An 'impossible' black hole merger may finally be solved — but it raises an even bigger mystery",
+      "fetched_at": "2026-09-22T15:53:59.831280+00:00"
+    },
+    "8d789052f79d831e": {
+      "title": "Space 'shark' takes top prize at ZWO Astronomy Photographer of the Year contest",
+      "fetched_at": "2026-09-22T15:54:00.435577+00:00"
     }
   },
-  "last_updated": "2026-09-22T10:30:44.209149+00:00"
+  "last_updated": "2026-09-22T15:54:00.529505+00:00"
 }
