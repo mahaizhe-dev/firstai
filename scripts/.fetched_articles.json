@@ -1,121 +1,5 @@
 {
   "articles": {
-    "30bf9c50570ee8cc": {
-      "title": "Meta Kicks Muse Off Their Social Handles to Launch New AI Agent",
-      "fetched_at": "2026-09-15T10:37:50.493128+00:00"
-    },
-    "b13b91ade96daea8": {
-      "title": "Botcafe: Two AI agents share a curl board so they can talk",
-      "fetched_at": "2026-09-15T10:37:51.122590+00:00"
-    },
-    "d6864935ba1dcc83": {
-      "title": "Show HN: LM-Kit One – private AI on your infrastructure",
-      "fetched_at": "2026-09-15T10:37:51.761252+00:00"
-    },
-    "c988db5c8fa77787": {
-      "title": "I measured Apple's on-device LLM across an OS beta cycle",
-      "fetched_at": "2026-09-15T10:37:52.385269+00:00"
-    },
-    "3aecb7abfc747c8f": {
-      "title": "I found an old video in my own AI workflow and decided to remake it",
-      "fetched_at": "2026-09-15T10:37:53.008276+00:00"
-    },
-    "715a1707ddf48735": {
-      "title": "How much of F-Droid is LLM generated?",
-      "fetched_at": "2026-09-15T10:37:53.695268+00:00"
-    },
-    "f738e8489efbffbe": {
-      "title": "Pocket Bibles and AI",
-      "fetched_at": "2026-09-15T10:37:54.313092+00:00"
-    },
-    "4c0c93c5c315b2d7": {
-      "title": "Creating word recordings with AI: learning where to cut",
-      "fetched_at": "2026-09-15T10:37:54.938532+00:00"
-    },
-    "6ca71c3416a346a6": {
-      "title": "Challenging AI",
-      "fetched_at": "2026-09-15T10:37:55.559061+00:00"
-    },
-    "fc8723012c39c664": {
-      "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
-      "fetched_at": "2026-09-15T10:37:56.198012+00:00"
-    },
-    "b4b16e6f905e5a92": {
-      "title": "Is Big Tech's AI slowdown a safety pact or a cartel?",
-      "fetched_at": "2026-09-15T10:37:56.835609+00:00"
-    },
-    "7f7862d20f2bdaeb": {
-      "title": "Claude Fable 5.1 and GPT 6 Astra controlled my Robot Arm. Who painted better?",
-      "fetched_at": "2026-09-15T10:37:57.473769+00:00"
-    },
-    "5cfa88b05e5a5551": {
-      "title": "Google DeepMind Staffer Says AI May 'Kill Us All' in Exit Post",
-      "fetched_at": "2026-09-15T10:37:58.121275+00:00"
-    },
-    "978ee79dcc363609": {
-      "title": "Javier Gomez-Serrano – New Math, AI Developments in Fluid Mechanics [video]",
-      "fetched_at": "2026-09-15T10:37:58.762451+00:00"
-    },
-    "46692b9cac989688": {
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "fetched_at": "2026-09-15T10:37:59.394626+00:00"
-    },
-    "d3fbb5286d19b164": {
-      "title": "A Blueprint for Keeping Humans in Control of AI",
-      "fetched_at": "2026-09-15T10:38:00.009543+00:00"
-    },
-    "43409d83c65d5b03": {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "fetched_at": "2026-09-15T10:38:00.645034+00:00"
-    },
-    "791d3b3c7765025a": {
-      "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
-      "fetched_at": "2026-09-15T10:38:01.300724+00:00"
-    },
-    "43ebb6da9c7a3e84": {
-      "title": "KnowBench: Evaluating clinical AI with effort reduction",
-      "fetched_at": "2026-09-15T10:38:01.922867+00:00"
-    },
-    "a22570b0cc32f588": {
-      "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
-      "fetched_at": "2026-09-15T10:38:02.557812+00:00"
-    },
-    "c94463d4a5b6298d": {
-      "title": "威爾士、蘇格蘭和北愛爾蘭一起要「公投權」英國是否面臨分裂？",
-      "fetched_at": "2026-09-15T10:38:04.654374+00:00"
-    },
-    "8476c01b9e3a7fc5": {
-      "title": "伊朗多次袭击、美国不愿介入：沙特面临“最坏情况”",
-      "fetched_at": "2026-09-15T10:38:05.303585+00:00"
-    },
-    "8227d7065ec34781": {
-      "title": "Anthropic聯合創辦人籲強制設置AI「緊急關機」機制",
-      "fetched_at": "2026-09-15T10:38:05.960084+00:00"
-    },
-    "4d53da6b1f0542be": {
-      "title": "“科技仙境”莫斯科：是数字乌托邦，也是监控陷阱",
-      "fetched_at": "2026-09-15T10:38:06.592565+00:00"
-    },
-    "6083ff26c31031c7": {
-      "title": "美國取消燃煤和燃氣發電廠排放限制",
-      "fetched_at": "2026-09-15T10:38:07.248805+00:00"
-    },
-    "8a329241656a6fa1": {
-      "title": "《黄色脸孔》作者匡灵秀在台北最喜欢的五个地方",
-      "fetched_at": "2026-09-15T10:38:07.949975+00:00"
-    },
-    "6474bc1faeffe75f": {
-      "title": "放缓人工智能发展速度的难题在于中国",
-      "fetched_at": "2026-09-15T10:38:08.595999+00:00"
-    },
-    "a013d54f1f4167cb": {
-      "title": "Plague was killing entire families thousands of years before the Black Death",
-      "fetched_at": "2026-09-15T10:38:10.474955+00:00"
-    },
-    "7ca35bc7019e1a72": {
-      "title": "Popular brain supplement linked to shorter lifespan in men",
-      "fetched_at": "2026-09-15T10:38:11.134838+00:00"
-    },
     "7ab9e392bd8c60f6": {
       "title": "Show HN: Voice AI that runs on CPUs",
       "fetched_at": "2026-09-15T15:51:28.271400+00:00"
@@ -3351,7 +3235,91 @@
     "3ceecd2abff20ae4": {
       "title": "One of America’s largest reservoirs just hit a record low",
       "fetched_at": "2026-09-23T10:25:31.853223+00:00"
+    },
+    "d1e780da5b883da8": {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "fetched_at": "2026-09-23T15:44:16.411017+00:00"
+    },
+    "afe6e78162bc09d3": {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "fetched_at": "2026-09-23T15:44:17.004210+00:00"
+    },
+    "b9f031d4c04ef88f": {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "fetched_at": "2026-09-23T15:44:17.617079+00:00"
+    },
+    "87104baa2a2cd210": {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "fetched_at": "2026-09-23T15:44:18.244376+00:00"
+    },
+    "a84aa624a208d6a3": {
+      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-23T15:44:18.853683+00:00"
+    },
+    "399ef638a45dbdca": {
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "fetched_at": "2026-09-23T15:44:19.463868+00:00"
+    },
+    "44c49b04d26f5b67": {
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "fetched_at": "2026-09-23T15:44:20.071601+00:00"
+    },
+    "a18d675ff539de0c": {
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "fetched_at": "2026-09-23T15:44:20.682508+00:00"
+    },
+    "31518c20bbd55490": {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "fetched_at": "2026-09-23T15:44:21.366248+00:00"
+    },
+    "e41a632b0e68734c": {
+      "title": "Here Wallpaper：把喜欢的地图做成壁纸",
+      "fetched_at": "2026-09-23T15:44:21.971466+00:00"
+    },
+    "fba4d8e0778024d8": {
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "fetched_at": "2026-09-23T15:44:22.574026+00:00"
+    },
+    "dae5469e716b552a": {
+      "title": "Coast：用十年经验，给记账这件事一个「终点」",
+      "fetched_at": "2026-09-23T15:44:23.190789+00:00"
+    },
+    "ceb985a37c213911": {
+      "title": "草原上的數據中心：中國AI雄心背後的算力前線",
+      "fetched_at": "2026-09-23T15:44:25.584078+00:00"
+    },
+    "ec6267d2bf786d42": {
+      "title": "星宇股份解約風波：107名應屆生「告洋狀」揭示中國勞工維權現狀",
+      "fetched_at": "2026-09-23T15:44:26.195317+00:00"
+    },
+    "9d376011690970ef": {
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "fetched_at": "2026-09-23T15:44:26.803281+00:00"
+    },
+    "c8b1b355ced1d07e": {
+      "title": "'It has become very dire in a lot of places': New map reveals exactly where humans are adding and removing precious fresh water on Earth",
+      "fetched_at": "2026-09-23T15:44:29.704071+00:00"
+    },
+    "d975966317fb2510": {
+      "title": "Google DeepMind's latest AI tool promises a new era for genetics research, but experts warn to take its predictions with caution",
+      "fetched_at": "2026-09-23T15:44:30.331294+00:00"
+    },
+    "513c7a33cdc32a01": {
+      "title": "NetLanvas, an open-source self-hosted LAN discovery and mapping tool",
+      "fetched_at": "2026-09-23T15:44:30.924151+00:00"
+    },
+    "c1a1ab43351f1c1f": {
+      "title": "3,000-year-old burial of ancient Egyptian horse found — and a nearby stone carving depicts a captured prisoner",
+      "fetched_at": "2026-09-23T15:44:31.521095+00:00"
+    },
+    "948cda3fd0aceaee": {
+      "title": "Earth's crust is 'unzipping' beneath Italy — and that could explain most of the earthquakes in the region",
+      "fetched_at": "2026-09-23T15:44:32.109543+00:00"
+    },
+    "be670d3a4a129c6e": {
+      "title": "Curiosity's top 10 photos of Mars after 5,000 days of exploration",
+      "fetched_at": "2026-09-23T15:44:32.718959+00:00"
     }
   },
-  "last_updated": "2026-09-23T10:25:31.981209+00:00"
+  "last_updated": "2026-09-23T15:44:32.843611+00:00"
 }
