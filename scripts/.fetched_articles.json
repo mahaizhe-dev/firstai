@@ -1,121 +1,5 @@
 {
   "articles": {
-    "917b621c3dd0b37f": {
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "fetched_at": "2026-09-15T02:17:12.077619+00:00"
-    },
-    "41efc50b69f79c23": {
-      "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
-      "fetched_at": "2026-09-15T02:17:12.691527+00:00"
-    },
-    "81d1945dad2a91c3": {
-      "title": "Tacit Knowledge and AI",
-      "fetched_at": "2026-09-15T02:17:13.327381+00:00"
-    },
-    "20a1875fdc3ded42": {
-      "title": "NBC News Airs Interview with AI-Generated Actress",
-      "fetched_at": "2026-09-15T02:17:13.975728+00:00"
-    },
-    "022eff71abbd1e7f": {
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "fetched_at": "2026-09-15T02:17:14.606422+00:00"
-    },
-    "53b1c8b190b01b16": {
-      "title": "Prosecutors say man used AI to 'scrape' court website, asked it for legal help",
-      "fetched_at": "2026-09-15T02:17:15.275489+00:00"
-    },
-    "3866bd545f9784a9": {
-      "title": "AI, Redistribution, and the Size of the Pie",
-      "fetched_at": "2026-09-15T02:17:15.905409+00:00"
-    },
-    "638f090dbd5b7dc4": {
-      "title": "AI Agent Wallet Offboarding Checklist",
-      "fetched_at": "2026-09-15T02:17:16.550660+00:00"
-    },
-    "21035570a460d57c": {
-      "title": "Sanders proposes 20-year prison sentences for superintelligence AI developers",
-      "fetched_at": "2026-09-15T02:17:17.171400+00:00"
-    },
-    "9565687c02e7a7dc": {
-      "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
-      "fetched_at": "2026-09-15T02:17:17.808505+00:00"
-    },
-    "3e442ec4abc8b28d": {
-      "title": "Sloppy Joe's – The era of AI signage",
-      "fetched_at": "2026-09-15T02:17:18.422716+00:00"
-    },
-    "d5325421def2465f": {
-      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-      "fetched_at": "2026-09-15T02:17:19.032842+00:00"
-    },
-    "f5904371662f45d2": {
-      "title": "Personal Statement on AI Risk",
-      "fetched_at": "2026-09-15T02:17:19.672044+00:00"
-    },
-    "510207638ea67ae7": {
-      "title": "Dan Selsam's Personal Statement on AI Risk",
-      "fetched_at": "2026-09-15T02:17:20.292937+00:00"
-    },
-    "84e517f6cce5307d": {
-      "title": "Open-source Python framework for AI agents, workflows, and automations",
-      "fetched_at": "2026-09-15T02:17:20.912520+00:00"
-    },
-    "7e9c8b452caf05c0": {
-      "title": "AI Can Be Used for Cognitive Warfare",
-      "fetched_at": "2026-09-15T02:17:21.573785+00:00"
-    },
-    "6628522ef36df517": {
-      "title": "We Are All Going to Die (Just Not Necessarily Because of AI)",
-      "fetched_at": "2026-09-15T02:17:22.194680+00:00"
-    },
-    "47a203ff8c3f91d8": {
-      "title": "Hands-On Learning in the Age of AI",
-      "fetched_at": "2026-09-15T02:17:22.824976+00:00"
-    },
-    "79a3929203930284": {
-      "title": "Ask HN: The amount of AI bot traffic is out control?",
-      "fetched_at": "2026-09-15T02:17:23.481721+00:00"
-    },
-    "9c8a1e6516a08772": {
-      "title": "Deep Learning for Cosmetics (2018)",
-      "fetched_at": "2026-09-15T02:17:24.096492+00:00"
-    },
-    "444a659ec3db06b2": {
-      "title": "特朗普斥AI安全担忧为“骗局”，无意加强监管",
-      "fetched_at": "2026-09-15T02:17:26.902642+00:00"
-    },
-    "b4828a224b6efa17": {
-      "title": "中国国安部长：人工智能可能对中共执政构成直接威胁",
-      "fetched_at": "2026-09-15T02:17:27.541670+00:00"
-    },
-    "0ed26e46ad4d8375": {
-      "title": "喜馬拉雅山冰川融化加速，印度經濟面臨什麼風險？",
-      "fetched_at": "2026-09-15T02:17:28.180678+00:00"
-    },
-    "ec6267d2bf786d42": {
-      "title": "星宇股份解約風波：107名應屆生「告洋狀」揭示中國勞工維權現狀",
-      "fetched_at": "2026-09-15T02:17:28.806431+00:00"
-    },
-    "9d376011690970ef": {
-      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
-      "fetched_at": "2026-09-15T02:17:29.468674+00:00"
-    },
-    "d372a1c322ed67c1": {
-      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
-      "fetched_at": "2026-09-15T02:17:30.097692+00:00"
-    },
-    "e0d2302ea3a70c83": {
-      "title": "Black Figs Excavated at Neolithic Site in Northwestern Turkey",
-      "fetched_at": "2026-09-15T02:17:32.737484+00:00"
-    },
-    "21e4493b04c09596": {
-      "title": "AI's water use is a problem, but shifting from electricity to solar or wind power could help",
-      "fetched_at": "2026-09-15T02:17:33.355139+00:00"
-    },
-    "13232ad019ba3fb9": {
-      "title": "Ancient Egyptian tomb holding the king's 'keeper of secrets' unearthed at Saqqara",
-      "fetched_at": "2026-09-15T02:17:33.987998+00:00"
-    },
     "30bf9c50570ee8cc": {
       "title": "Meta Kicks Muse Off Their Social Handles to Launch New AI Agent",
       "fetched_at": "2026-09-15T10:37:50.493128+00:00"
@@ -3323,7 +3207,151 @@
     "d885e1a1442d112f": {
       "title": "Peculiar land bridge separates a pair of colorful lakes in Patagonia",
       "fetched_at": "2026-09-23T02:16:25.440527+00:00"
+    },
+    "d3b2489fd091ccfd": {
+      "title": "The (AI) Nature of the Firm",
+      "fetched_at": "2026-09-23T10:25:02.249075+00:00"
+    },
+    "d8572084e9f01ca5": {
+      "title": "Show HN: Life Forge – Open-source flight simulator for autonomous AI agents",
+      "fetched_at": "2026-09-23T10:25:02.817437+00:00"
+    },
+    "8ec5d8469f33b796": {
+      "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
+      "fetched_at": "2026-09-23T10:25:03.402667+00:00"
+    },
+    "60a73ad7ca98bbca": {
+      "title": "Trained KV cache bank turns any LLM into Jev like Model",
+      "fetched_at": "2026-09-23T10:25:04.053570+00:00"
+    },
+    "1ddf58e11adcf769": {
+      "title": "Positive emotions toward AI outweigh negative ones in 34 out of 37 countries",
+      "fetched_at": "2026-09-23T10:25:04.624829+00:00"
+    },
+    "25e735bfaf30356e": {
+      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
+      "fetched_at": "2026-09-23T10:25:05.204566+00:00"
+    },
+    "3e6d6e74d69cd560": {
+      "title": "Synchrony AI – AI Powered Investment Research and Portfolio Management Platform",
+      "fetched_at": "2026-09-23T10:25:05.776197+00:00"
+    },
+    "b200864fc6433be5": {
+      "title": "Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To",
+      "fetched_at": "2026-09-23T10:25:06.351419+00:00"
+    },
+    "b724a93e18eeb567": {
+      "title": "Show HN: ReWeaver AI DriftDetector – score a GitHub repo's production readiness",
+      "fetched_at": "2026-09-23T10:25:06.940075+00:00"
+    },
+    "824830a848141ddf": {
+      "title": "Shut up and calculate: Jev's new AI primitives for coders",
+      "fetched_at": "2026-09-23T10:25:07.522301+00:00"
+    },
+    "65582c9930ea40b3": {
+      "title": "Show HN: Gwae – infinite-scroll terminal multiplexer for AI agent fleets",
+      "fetched_at": "2026-09-23T10:25:08.095490+00:00"
+    },
+    "3ef46d4c79f4a329": {
+      "title": "Tradeoff considerations while running LLM models locally",
+      "fetched_at": "2026-09-23T10:25:08.664270+00:00"
+    },
+    "c45265d1d27552a1": {
+      "title": "Ask HN: How do you cope with AI being used to target and bomb children?",
+      "fetched_at": "2026-09-23T10:25:09.255351+00:00"
+    },
+    "ef0b59d1de594e77": {
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "fetched_at": "2026-09-23T10:25:09.831067+00:00"
+    },
+    "a39dbc81d5700dd8": {
+      "title": "GPT-6 Sol and Luna push the cost efficiency frontier by halving token cost",
+      "fetched_at": "2026-09-23T10:25:10.402623+00:00"
+    },
+    "fcf9e1a21238bf61": {
+      "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+      "fetched_at": "2026-09-23T10:25:10.988778+00:00"
+    },
+    "dcb4570328abaa93": {
+      "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+      "fetched_at": "2026-09-23T10:25:11.585341+00:00"
+    },
+    "f91927e8c3856cae": {
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+      "fetched_at": "2026-09-23T10:25:11.585485+00:00"
+    },
+    "46a5b3e35b75cf99": {
+      "title": "Recursive self-improvement of AI research agents",
+      "fetched_at": "2026-09-23T10:25:12.160805+00:00"
+    },
+    "e9bd6a292332c121": {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "fetched_at": "2026-09-23T10:25:12.735427+00:00"
+    },
+    "d7b52debbd4b5c30": {
+      "title": "「你有五年規劃，我有移民計劃」：一份香港未來發展藍圖，為何引發一些年輕人的離港焦慮？",
+      "fetched_at": "2026-09-23T10:25:14.508581+00:00"
+    },
+    "80feac5eb27ea9d3": {
+      "title": "習特會前瞻：特朗普會再度爭取「釋放黎智英」嗎？",
+      "fetched_at": "2026-09-23T10:25:15.079727+00:00"
+    },
+    "7d48b9c0d7299ad0": {
+      "title": "習近平即將抵達華盛頓，美國學者、政客怎麼看？",
+      "fetched_at": "2026-09-23T10:25:15.655401+00:00"
+    },
+    "2344050c068814ed": {
+      "title": "特朗普與習近平會面在即，中國的AI雄心正在烏蘭察布高歌猛進",
+      "fetched_at": "2026-09-23T10:25:16.280127+00:00"
+    },
+    "3acedec0ca600b9e": {
+      "title": "日本以街道整潔無瑕而聞名，但為什麼公共垃圾桶卻如此難找？",
+      "fetched_at": "2026-09-23T10:25:16.864501+00:00"
+    },
+    "610a4ea4011b250c": {
+      "title": "特朗普聯合國演說五個要點：古巴垮台、摧毀伊朗、格陵蘭基地，以及把AI改名SI",
+      "fetched_at": "2026-09-23T10:25:17.503995+00:00"
+    },
+    "b541ee9223b4b11e": {
+      "title": "美中元首峰会聚焦人工智能议题，但恐难有实质进展",
+      "fetched_at": "2026-09-23T10:25:18.077487+00:00"
+    },
+    "250f477b12191941": {
+      "title": "李在明接受时报专访，敦促美国放松对朝鲜的制裁",
+      "fetched_at": "2026-09-23T10:25:18.695643+00:00"
+    },
+    "f171dcd32f61d8a0": {
+      "title": "中日僵局难解，高市早苗向特朗普“求助”",
+      "fetched_at": "2026-09-23T10:25:19.266019+00:00"
+    },
+    "761d6d20cdf7eb46": {
+      "title": "最不寻常的冷战间谍：让他选择叛逃的性秘密",
+      "fetched_at": "2026-09-23T10:25:19.845055+00:00"
+    },
+    "42a9a9074d19a126": {
+      "title": "面对人工智能威胁，这回真得喊“狼来了”",
+      "fetched_at": "2026-09-23T10:25:20.424994+00:00"
+    },
+    "3430f1d0bc74b14f": {
+      "title": "Weird spikes poking through a teen's eyelid turned out to be a wayward tooth",
+      "fetched_at": "2026-09-23T10:25:29.570694+00:00"
+    },
+    "7b4fee34660a2f3d": {
+      "title": "The hunt for extraterrestrial life is fundamentally flawed. But there's a fix.",
+      "fetched_at": "2026-09-23T10:25:30.145327+00:00"
+    },
+    "c05d1c52c8ce460d": {
+      "title": "The LHC just ruled out another hiding place for quantum black holes",
+      "fetched_at": "2026-09-23T10:25:30.715285+00:00"
+    },
+    "640c8c1c0489c241": {
+      "title": "The Solar System chose fire over ice from the very beginning",
+      "fetched_at": "2026-09-23T10:25:31.287214+00:00"
+    },
+    "3ceecd2abff20ae4": {
+      "title": "One of America’s largest reservoirs just hit a record low",
+      "fetched_at": "2026-09-23T10:25:31.853223+00:00"
     }
   },
-  "last_updated": "2026-09-23T02:16:25.557523+00:00"
+  "last_updated": "2026-09-23T10:25:31.981209+00:00"
 }
