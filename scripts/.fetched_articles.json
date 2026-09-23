@@ -1,257 +1,5 @@
 {
   "articles": {
-    "7ab9e392bd8c60f6": {
-      "title": "Show HN: Voice AI that runs on CPUs",
-      "fetched_at": "2026-09-15T15:51:28.271400+00:00"
-    },
-    "29621e659d0ae667": {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "fetched_at": "2026-09-15T15:51:28.879168+00:00"
-    },
-    "ac40145376b7f00f": {
-      "title": "US Commerce Department ordered Kalshi to remove AI compute futures product",
-      "fetched_at": "2026-09-15T15:51:29.487239+00:00"
-    },
-    "7f1463c696261f0d": {
-      "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
-      "fetched_at": "2026-09-15T15:51:30.107398+00:00"
-    },
-    "ab0f43912dc639ea": {
-      "title": "Arguments for Rigorous AI Training Data Transparency",
-      "fetched_at": "2026-09-15T15:51:30.727867+00:00"
-    },
-    "6638ae2478477fe0": {
-      "title": "Axelera AI Launches Europa",
-      "fetched_at": "2026-09-15T15:51:31.361625+00:00"
-    },
-    "6aa8f199b4c34023": {
-      "title": "Open-source AI discussions outside the usual echo chambers",
-      "fetched_at": "2026-09-15T15:51:31.994131+00:00"
-    },
-    "212dc9888807df8c": {
-      "title": "Leadership Is the Last Line of Defence Against AI Mediocrity",
-      "fetched_at": "2026-09-15T15:51:32.600500+00:00"
-    },
-    "f5a28627fb3017a0": {
-      "title": "AI Doomsday",
-      "fetched_at": "2026-09-15T15:51:33.220757+00:00"
-    },
-    "a2a79aac23b26d28": {
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "fetched_at": "2026-09-15T15:51:33.834191+00:00"
-    },
-    "9e18fe5957f524df": {
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "fetched_at": "2026-09-15T15:51:34.439349+00:00"
-    },
-    "158016929bf5b38b": {
-      "title": "Anti AI Clothing",
-      "fetched_at": "2026-09-15T15:51:35.078536+00:00"
-    },
-    "c2ecb7ae0820b1da": {
-      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-      "fetched_at": "2026-09-15T15:51:35.683980+00:00"
-    },
-    "4deabbee91a6b58e": {
-      "title": "Show HN: Visual HTML – a source-preserving WYSIWYG editor for AI-generated HTML",
-      "fetched_at": "2026-09-15T15:51:36.299570+00:00"
-    },
-    "43a3587f61865290": {
-      "title": "Existing laws apply to AI products",
-      "fetched_at": "2026-09-15T15:51:36.953630+00:00"
-    },
-    "371d0f9452ebe14e": {
-      "title": "Working on Plug and Play personal AI Memory that works across AI agents",
-      "fetched_at": "2026-09-15T15:51:37.578875+00:00"
-    },
-    "01a149118f539fe7": {
-      "title": "Building your first LLM API call in Python (step by step)",
-      "fetched_at": "2026-09-15T15:51:38.181093+00:00"
-    },
-    "123b4d006fcff2f0": {
-      "title": "Introduction to Machine Learning",
-      "fetched_at": "2026-09-15T15:51:38.805655+00:00"
-    },
-    "b92aeeba6a157e53": {
-      "title": "'Attacks will be fully autonomous': Russia, Ukraine race towards AI warfare",
-      "fetched_at": "2026-09-15T15:51:39.414530+00:00"
-    },
-    "684b9835ea8683ca": {
-      "title": "Is the AI Apocalypse for Real?",
-      "fetched_at": "2026-09-15T15:51:40.032479+00:00"
-    },
-    "8b6bbf7be695f978": {
-      "title": "《匹茲堡醫魂》拿走了六個艾美獎，它的忠粉都是真醫生",
-      "fetched_at": "2026-09-15T15:51:42.828810+00:00"
-    },
-    "c15600c8d3aa0ddb": {
-      "title": "美國首認部署太空武器 中國警告勿搞軍事競賽",
-      "fetched_at": "2026-09-15T15:51:43.432193+00:00"
-    },
-    "0e32b49f6a937493": {
-      "title": "AI巨頭前僱員：同業「真誠恐懼」人類滅絕，西方必須與中國協調",
-      "fetched_at": "2026-09-15T15:51:44.057438+00:00"
-    },
-    "eb2e79791c4d89c4": {
-      "title": "Did 'all roads lead to Rome'? New study finds other cities in the empire were better connected.",
-      "fetched_at": "2026-09-15T15:51:47.881800+00:00"
-    },
-    "546855493f1834e6": {
-      "title": "Fossils of iconic long-necked dinosaur Diplodocus found in Europe for first time — and it may have traveled there via land bridge",
-      "fetched_at": "2026-09-15T15:51:48.487697+00:00"
-    },
-    "bc18c7fd69f01d53": {
-      "title": "Smelling chocolate helped men complete more reps without feeling more tired",
-      "fetched_at": "2026-09-15T15:51:49.106057+00:00"
-    },
-    "7202a18422801c44": {
-      "title": "'That could push them over the edge': How climate change could fuel impulsive behavior",
-      "fetched_at": "2026-09-15T15:51:49.717244+00:00"
-    },
-    "f6b6864372de1255": {
-      "title": "Peculiar land bridge separates a pair of colorful lakes in Patagonia — Earth from space",
-      "fetched_at": "2026-09-15T15:51:50.328402+00:00"
-    },
-    "bfd3e0b3746139b9": {
-      "title": "This Australian cave hid 25,000 years of ritual secrets",
-      "fetched_at": "2026-09-15T15:51:50.932149+00:00"
-    },
-    "298772b3c0119ecb": {
-      "title": "Scientists discover a major brain shift between ages 50 and 75",
-      "fetched_at": "2026-09-15T15:51:51.531997+00:00"
-    },
-    "76a584db72a9bf50": {
-      "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
-      "fetched_at": "2026-09-15T15:51:52.133679+00:00"
-    },
-    "ebaee6e48535c2b2": {
-      "title": "The shape behind the Einstein problem just revealed strange new physics",
-      "fetched_at": "2026-09-15T15:51:52.753568+00:00"
-    },
-    "72c9901423ca99c9": {
-      "title": "Supermassive black hole winds are 100 times more powerful than scientists thought",
-      "fetched_at": "2026-09-15T15:51:53.375207+00:00"
-    },
-    "90d2ba122da2151b": {
-      "title": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
-      "fetched_at": "2026-09-15T15:51:53.981349+00:00"
-    },
-    "1abe4e04c80e40bc": {
-      "title": "Tiny cell “antennas” may help explain why some babies are born with heart defects",
-      "fetched_at": "2026-09-15T15:51:54.599152+00:00"
-    },
-    "0307351c60f6af1f": {
-      "title": "US military confirms weapons in orbit: Why a space 'arms race' could be extremely hard to stop",
-      "fetched_at": "2026-09-15T15:51:55.205262+00:00"
-    },
-    "99da43e84417d303": {
-      "title": "Transformative AI, existential risk, and real interest rates [pdf]",
-      "fetched_at": "2026-09-15T20:35:39.614080+00:00"
-    },
-    "795736151c6cf007": {
-      "title": "Samsung backs Nvidia AI chip rival in $230M funding round",
-      "fetched_at": "2026-09-15T20:35:40.258931+00:00"
-    },
-    "ff6b7e25e06066b9": {
-      "title": "We're not ready for superpersistent AI",
-      "fetched_at": "2026-09-15T20:35:40.833276+00:00"
-    },
-    "ffe855b84d49da08": {
-      "title": "Typesafe.ai's System One Model",
-      "fetched_at": "2026-09-15T20:35:41.388933+00:00"
-    },
-    "82c7617383eb3961": {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "fetched_at": "2026-09-15T20:35:41.954136+00:00"
-    },
-    "5937d00d77fc0739": {
-      "title": "How OpenAI Used Its Own LLMs to Design Its AI Chip",
-      "fetched_at": "2026-09-15T20:35:42.515004+00:00"
-    },
-    "c0b9d3cda62e2ae8": {
-      "title": "Did your AI agent get the memo, or just the blame?",
-      "fetched_at": "2026-09-15T20:35:43.092631+00:00"
-    },
-    "889d5e08730d3cba": {
-      "title": "AI agents now have a place to snitch",
-      "fetched_at": "2026-09-15T20:35:43.654828+00:00"
-    },
-    "19086f865443fc41": {
-      "title": "'We don't need new laws,' Nvidia boss says as he calls for self-regulation on AI",
-      "fetched_at": "2026-09-15T20:35:44.225743+00:00"
-    },
-    "f4558b8089320d92": {
-      "title": "I tagged you, not the AI you're using",
-      "fetched_at": "2026-09-15T20:35:44.790069+00:00"
-    },
-    "78cdecc71b235e98": {
-      "title": "Factory – AI Coding Startup More Than Triples Valuation to $5B",
-      "fetched_at": "2026-09-15T20:35:45.507281+00:00"
-    },
-    "20560b8a0a01d3bf": {
-      "title": "LLM Speedrun: Architecture",
-      "fetched_at": "2026-09-15T20:35:46.072843+00:00"
-    },
-    "63b8798caf592d8a": {
-      "title": "Show HN: I solved a 12yr math problem using AI (formalized; awaiting review) [pdf]",
-      "fetched_at": "2026-09-15T20:35:46.638967+00:00"
-    },
-    "fabccf3e01c66cb2": {
-      "title": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up",
-      "fetched_at": "2026-09-15T20:35:47.198379+00:00"
-    },
-    "cb5ce2164efd2718": {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "fetched_at": "2026-09-15T20:35:47.754496+00:00"
-    },
-    "66c0622c11f03c3b": {
-      "title": "AI Infrastructure at Periodic",
-      "fetched_at": "2026-09-15T20:35:48.323191+00:00"
-    },
-    "7238d126aaad52a4": {
-      "title": "Universal Sues DistroKid for Deceptive Practices and 'AI-Slop Pipeline'",
-      "fetched_at": "2026-09-15T20:35:48.883984+00:00"
-    },
-    "eb700e35b698339f": {
-      "title": "Hassett: Trump 'wholeheartedly rejects government takeover of AI regulation",
-      "fetched_at": "2026-09-15T20:35:49.453013+00:00"
-    },
-    "950cfa93537b2b81": {
-      "title": "Nature Is Our Learning Environment",
-      "fetched_at": "2026-09-15T20:35:50.023879+00:00"
-    },
-    "6bb1f3c5702f1270": {
-      "title": "AI models chatting in 'surreal' dialect of poetic language and tech bro jargon",
-      "fetched_at": "2026-09-15T20:35:50.588628+00:00"
-    },
-    "4572bdd453114f98": {
-      "title": "Are you worried about the US deploying weapons in space?",
-      "fetched_at": "2026-09-15T20:35:55.383570+00:00"
-    },
-    "186026d1405428d2": {
-      "title": "Landslide Exposes Pre-Roman Burial in Eastern Italy",
-      "fetched_at": "2026-09-15T20:35:55.946998+00:00"
-    },
-    "2cde85c9679b7617": {
-      "title": "Early Mosque Uncovered in Saudi Arabia's Al-Baha Province",
-      "fetched_at": "2026-09-15T20:35:56.512998+00:00"
-    },
-    "d16a6d41867b578b": {
-      "title": "Troy's Earliest Agora Unearthed",
-      "fetched_at": "2026-09-15T20:35:57.077173+00:00"
-    },
-    "967f95b74070246e": {
-      "title": "Italian Officials Unveil Ancient Rome's Largest Wall Mosaic",
-      "fetched_at": "2026-09-15T20:35:57.638801+00:00"
-    },
-    "4fadbc874b498d6f": {
-      "title": "'Maybe robots can maintain houseplants': Readers react to letting humanoid robots take over their housework",
-      "fetched_at": "2026-09-15T20:35:58.208994+00:00"
-    },
-    "afad9f341592a139": {
-      "title": "Guldhøj folding chair: The only completely preserved chair from Bronze Age Europe",
-      "fetched_at": "2026-09-15T20:35:58.773819+00:00"
-    },
     "4a88c3b3ae0e67c5": {
       "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
       "fetched_at": "2026-09-16T02:10:23.842548+00:00"
@@ -3319,7 +3067,131 @@
     "be670d3a4a129c6e": {
       "title": "Curiosity's top 10 photos of Mars after 5,000 days of exploration",
       "fetched_at": "2026-09-23T15:44:32.718959+00:00"
+    },
+    "a60b34b024497e3b": {
+      "title": "Agent Etna – Automated staging environment and regression compiler for AI agents",
+      "fetched_at": "2026-09-23T20:47:38.940315+00:00"
+    },
+    "e06742df2f177731": {
+      "title": "AI can never produce sublime art",
+      "fetched_at": "2026-09-23T20:47:39.525024+00:00"
+    },
+    "41dbcd2edf7d7d4d": {
+      "title": "An LLM Beat NetHack",
+      "fetched_at": "2026-09-23T20:47:40.091514+00:00"
+    },
+    "08605862116f798c": {
+      "title": "The Most Important Market in AI Is the Middle",
+      "fetched_at": "2026-09-23T20:47:40.671337+00:00"
+    },
+    "03f78c9072d9f5d4": {
+      "title": "Show HN: Free attestation for AI agent decisions – verifying one costs $0.10",
+      "fetched_at": "2026-09-23T20:47:41.241632+00:00"
+    },
+    "a806095249b3b125": {
+      "title": "KDE and AI, and You, and Me",
+      "fetched_at": "2026-09-23T20:47:41.824001+00:00"
+    },
+    "e59615e3d45b8a9c": {
+      "title": "Security auditing in the age of (good enough) AI",
+      "fetched_at": "2026-09-23T20:47:42.396964+00:00"
+    },
+    "6226b66a267f7da0": {
+      "title": "How to Build an AI Visibility Tracker from Scratch",
+      "fetched_at": "2026-09-23T20:47:42.967414+00:00"
+    },
+    "8fbd81cb8c05722f": {
+      "title": "Jev is 13.6x faster, 2.7x cheaper than GPT Luna 6",
+      "fetched_at": "2026-09-23T20:47:43.543454+00:00"
+    },
+    "89a9b7d65fb87674": {
+      "title": "Show HN: Varkos – a local AI pet that can talk, interact, and play small games",
+      "fetched_at": "2026-09-23T20:47:44.142437+00:00"
+    },
+    "b58218e322e579ac": {
+      "title": "Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+      "fetched_at": "2026-09-23T20:47:44.718653+00:00"
+    },
+    "d3dbb7b45e261bb1": {
+      "title": "VSArena – The official open browser benchmark for embodied AI",
+      "fetched_at": "2026-09-23T20:47:45.298324+00:00"
+    },
+    "8574da074fd1c197": {
+      "title": "\"Good\" AI",
+      "fetched_at": "2026-09-23T20:47:45.873906+00:00"
+    },
+    "0dd7ee80ee8cd14c": {
+      "title": "Support for Local AI Models in the Antigravity SDK",
+      "fetched_at": "2026-09-23T20:47:46.453369+00:00"
+    },
+    "fccaf157422b0246": {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "fetched_at": "2026-09-23T20:47:47.020486+00:00"
+    },
+    "c94d431c805e5cdb": {
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "fetched_at": "2026-09-23T20:47:47.596267+00:00"
+    },
+    "4c6bdfc1bf08667f": {
+      "title": "Show HN: Ceptile AI Search platform which combines web results with AI chat",
+      "fetched_at": "2026-09-23T20:47:48.179844+00:00"
+    },
+    "9947ca0da5013a9d": {
+      "title": "GPT-6 Astra Breaks an Old Enigma Message",
+      "fetched_at": "2026-09-23T20:47:48.754583+00:00"
+    },
+    "6b6a371f9ea968e7": {
+      "title": "Jensen Huang on AI Alarmists – NYT Ezra Klein Show",
+      "fetched_at": "2026-09-23T20:47:49.323557+00:00"
+    },
+    "79ee57ef20950988": {
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "fetched_at": "2026-09-23T20:47:49.934674+00:00"
+    },
+    "f6b2d0ca32737e3b": {
+      "title": "「你有五年規劃，我有移民計劃」：香港年輕人為何焦慮？",
+      "fetched_at": "2026-09-23T20:47:52.119170+00:00"
+    },
+    "e6df20a2fd793631": {
+      "title": "特朗普會再度爭取習近平「釋放黎智英」嗎？",
+      "fetched_at": "2026-09-23T20:47:52.697533+00:00"
+    },
+    "7fd70bf57b5d605d": {
+      "title": "特朗普聯合國演說五個要點：古巴、伊朗、格陵蘭、AI改名",
+      "fetched_at": "2026-09-23T20:47:53.365432+00:00"
+    },
+    "c94463d4a5b6298d": {
+      "title": "威爾士、蘇格蘭和北愛爾蘭一起要「公投權」英國是否面臨分裂？",
+      "fetched_at": "2026-09-23T20:47:53.948128+00:00"
+    },
+    "85d0f16443ba0812": {
+      "title": "How did Hurricane Polo get so powerful?",
+      "fetched_at": "2026-09-23T20:47:56.014455+00:00"
+    },
+    "567f0d836ff59f7c": {
+      "title": "U.S. Repatriates Looted Objects to Greece",
+      "fetched_at": "2026-09-23T20:47:56.582135+00:00"
+    },
+    "d175e1d62f4f56d1": {
+      "title": "Study Identifies Woman Who Survived Nose Amputation",
+      "fetched_at": "2026-09-23T20:47:57.152627+00:00"
+    },
+    "b6d782cda2b81dea": {
+      "title": "Roman Coin Hoard Unearthed in Germany",
+      "fetched_at": "2026-09-23T20:47:57.726167+00:00"
+    },
+    "9efa38f37b7ee1bf": {
+      "title": "Earth's first bats didn't come from where we thought, landmark genetic study reveals",
+      "fetched_at": "2026-09-23T20:47:58.287516+00:00"
+    },
+    "f47c2dd85918f7c2": {
+      "title": "Missing Celtic fort annihilated by Julius Caesar finally found under Paris hospital",
+      "fetched_at": "2026-09-23T20:47:58.860837+00:00"
+    },
+    "75d5169c0efb7a3e": {
+      "title": "Astronomers detected radio signals coming from an exoplanet for the first time. Spoiler alert: It's not aliens.",
+      "fetched_at": "2026-09-23T20:47:59.429271+00:00"
     }
   },
-  "last_updated": "2026-09-23T15:44:32.843611+00:00"
+  "last_updated": "2026-09-23T20:47:59.499369+00:00"
 }
