@@ -1,245 +1,5 @@
 {
   "articles": {
-    "4a88c3b3ae0e67c5": {
-      "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
-      "fetched_at": "2026-09-16T02:10:23.842548+00:00"
-    },
-    "52d79274de20e619": {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "fetched_at": "2026-09-16T02:10:24.558518+00:00"
-    },
-    "053e6f78f5ac5a3f": {
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "fetched_at": "2026-09-16T02:10:25.178102+00:00"
-    },
-    "a853a70bb77650c4": {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "fetched_at": "2026-09-16T02:10:25.817818+00:00"
-    },
-    "8668135939285350": {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "fetched_at": "2026-09-16T02:10:26.452427+00:00"
-    },
-    "292dbda225abc2e9": {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "fetched_at": "2026-09-16T02:10:27.075293+00:00"
-    },
-    "942f797e2d05a7bf": {
-      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-      "fetched_at": "2026-09-16T02:10:27.694784+00:00"
-    },
-    "51ae8814af71e908": {
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "fetched_at": "2026-09-16T02:10:28.346456+00:00"
-    },
-    "9cd8896647ff148c": {
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-16T02:10:28.968197+00:00"
-    },
-    "00651caa96f80da1": {
-      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-16T02:10:29.605219+00:00"
-    },
-    "7cadb111c334edec": {
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "fetched_at": "2026-09-16T02:10:30.221211+00:00"
-    },
-    "43e03fd81a83f2a9": {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "fetched_at": "2026-09-16T02:10:30.933017+00:00"
-    },
-    "373893c6be7c5b5c": {
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "fetched_at": "2026-09-16T02:10:31.557987+00:00"
-    },
-    "edbba3e57e47bfc2": {
-      "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
-      "fetched_at": "2026-09-16T02:10:32.190749+00:00"
-    },
-    "58849fd24f792cfe": {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "fetched_at": "2026-09-16T02:10:32.190917+00:00"
-    },
-    "e51ce0e67367f2c3": {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "fetched_at": "2026-09-16T02:10:32.850540+00:00"
-    },
-    "9ca1a76ddc3d34de": {
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "fetched_at": "2026-09-16T02:10:33.476684+00:00"
-    },
-    "335334a34309b017": {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "fetched_at": "2026-09-16T02:10:34.096799+00:00"
-    },
-    "6872308625d879e4": {
-      "title": "美国司法部称两家中国公司利用必安帮助伊朗洗钱",
-      "fetched_at": "2026-09-16T02:10:36.706450+00:00"
-    },
-    "9c63ded71680dd47": {
-      "title": "泰国啤酒豪门丑闻：弟弟指控哥哥性侵，家族试图“封口”",
-      "fetched_at": "2026-09-16T02:10:37.329048+00:00"
-    },
-    "de6dd35ab1cb05b9": {
-      "title": "「我接受了11年化療，卻發現從未患癌」",
-      "fetched_at": "2026-09-16T02:10:37.945154+00:00"
-    },
-    "608cee16581dc2e9": {
-      "title": "「九月重啟」：你如何也能在此時建立新日常習慣？",
-      "fetched_at": "2026-09-16T02:10:38.588428+00:00"
-    },
-    "3227ca586bac985a": {
-      "title": "Ancient DNA reveals the surprising Arctic life of extinct North American cat",
-      "fetched_at": "2026-09-16T02:11:16.740436+00:00"
-    },
-    "80db59ad7f6d7ca9": {
-      "title": "Strange 'centaur' object between Saturn and Uranus has mysterious, changing rings, James Webb telescope study hints",
-      "fetched_at": "2026-09-16T02:11:17.368212+00:00"
-    },
-    "f17ed5f9f70cd781": {
-      "title": "Postgres development activity historical statistics and trends",
-      "fetched_at": "2026-09-16T02:11:17.977446+00:00"
-    },
-    "0ad1ff9088f0965b": {
-      "title": "We're not about to awaken an evil digital god — AI is far more likely to end in a great disappointment",
-      "fetched_at": "2026-09-16T02:11:18.597343+00:00"
-    },
-    "eb7b9714a2445ba4": {
-      "title": "Europe Does Not Have a Software Problem. It Has a Discovery Problem",
-      "fetched_at": "2026-09-16T02:11:19.226483+00:00"
-    },
-    "44bc61a00b9d5fe1": {
-      "title": "Solving Ancient Ciphers with Claude",
-      "fetched_at": "2026-09-16T02:11:19.872658+00:00"
-    },
-    "5291b9b716a3b2e8": {
-      "title": "AI Is Reshaping Open Source Software and Straining the Systems That Sustain It",
-      "fetched_at": "2026-09-16T10:26:06.606557+00:00"
-    },
-    "d89b81580e8a9ada": {
-      "title": "DocMind – I built an AI document parser to end manual data entry solo",
-      "fetched_at": "2026-09-16T10:26:07.198623+00:00"
-    },
-    "cab5d53bf034573b": {
-      "title": "Scikit-Decide AI Framework for RL, Auto Planning and Scheduling",
-      "fetched_at": "2026-09-16T10:26:07.786476+00:00"
-    },
-    "20f83f03fe77ee3b": {
-      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
-      "fetched_at": "2026-09-16T10:26:08.391913+00:00"
-    },
-    "d04c186731af866d": {
-      "title": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]",
-      "fetched_at": "2026-09-16T10:26:08.985202+00:00"
-    },
-    "20e8c1490b29e97b": {
-      "title": "Learning Programming in an Age of LLMs",
-      "fetched_at": "2026-09-16T10:26:09.596242+00:00"
-    },
-    "af6238fa09bebf0f": {
-      "title": "HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling",
-      "fetched_at": "2026-09-16T10:26:10.243848+00:00"
-    },
-    "114a9812f3cdc753": {
-      "title": "Show HN: AI accounting harness for finance teams",
-      "fetched_at": "2026-09-16T10:26:10.850075+00:00"
-    },
-    "68e6ff682a9d9400": {
-      "title": "ExposurAI – External attack surface and Shadow AI discovery engine",
-      "fetched_at": "2026-09-16T10:26:11.422468+00:00"
-    },
-    "cfc9384ba8b8d936": {
-      "title": "Cost of AI Slop in Software Development Report",
-      "fetched_at": "2026-09-16T10:26:11.993494+00:00"
-    },
-    "07e1072f8c80e0a6": {
-      "title": "Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured",
-      "fetched_at": "2026-09-16T10:26:12.571049+00:00"
-    },
-    "ba7d8b074692a218": {
-      "title": "Turing Lab - Browser Turing Machine simulator (With fast compiled engine)",
-      "fetched_at": "2026-09-16T10:26:13.138739+00:00"
-    },
-    "07a778d567e7eb2e": {
-      "title": "Google released Artemis for AI-driven Android automation",
-      "fetched_at": "2026-09-16T10:26:13.713859+00:00"
-    },
-    "2c87561b77d27d6e": {
-      "title": "Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism",
-      "fetched_at": "2026-09-16T10:26:14.296000+00:00"
-    },
-    "7f44d2ed4e0b5695": {
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "fetched_at": "2026-09-16T10:26:14.865948+00:00"
-    },
-    "816e5d733cca0ccd": {
-      "title": "AI safety beyond the frontier labs: uncensored local models",
-      "fetched_at": "2026-09-16T10:26:15.442635+00:00"
-    },
-    "9ff08d802bc222af": {
-      "title": "Never-again – so your AI agent stops repeating mistakes you fixed",
-      "fetched_at": "2026-09-16T10:26:16.034826+00:00"
-    },
-    "d87a3b545e0bfc83": {
-      "title": "There is NO realistic scenario where AI wipes out all of humanity",
-      "fetched_at": "2026-09-16T10:26:16.610865+00:00"
-    },
-    "08cd503868048c2e": {
-      "title": "COBOL dev won .NET hackathon with help from AI",
-      "fetched_at": "2026-09-16T10:26:17.279167+00:00"
-    },
-    "c1eba2af30788a62": {
-      "title": "Sanders: \"If AI is coming for workers, it should bring a 4-day workweek with it\"",
-      "fetched_at": "2026-09-16T10:26:17.852006+00:00"
-    },
-    "16df4eb01293aff9": {
-      "title": "區錦新案：澳門首宗國安案閉門開審，我們知道多少？",
-      "fetched_at": "2026-09-16T10:26:19.735113+00:00"
-    },
-    "e8ea7f0956dae55f": {
-      "title": "除了末日警告，人工智能發展還在面臨著另一個威脅",
-      "fetched_at": "2026-09-16T10:26:20.308262+00:00"
-    },
-    "c21c10ec81cc575a": {
-      "title": "香港施政報告與「一五」同步公佈 聚焦北部都會區、國安與鼓勵生育",
-      "fetched_at": "2026-09-16T10:26:20.893181+00:00"
-    },
-    "c10fde09e415251f": {
-      "title": "OpenAI老闆稱世界「應信任」AI 公司 黃仁勳籲勿作虛假取捨",
-      "fetched_at": "2026-09-16T10:26:21.488460+00:00"
-    },
-    "7c9af8d80a20c611": {
-      "title": "全球顶尖高校“学位收割机”：他为何一直求学？",
-      "fetched_at": "2026-09-16T10:26:22.081854+00:00"
-    },
-    "94ef8431e0a50a5d": {
-      "title": "懦夫群像：为何这些权势人物向特朗普卑躬屈膝",
-      "fetched_at": "2026-09-16T10:26:22.669353+00:00"
-    },
-    "56a09838f46df927": {
-      "title": "遏制人工智能威胁为时已晚",
-      "fetched_at": "2026-09-16T10:26:23.256010+00:00"
-    },
-    "0c3366b0378d0431": {
-      "title": "人工智能时代，中国人还需要学英语吗？",
-      "fetched_at": "2026-09-16T10:26:23.864156+00:00"
-    },
-    "5a53d3080797a607": {
-      "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
-      "fetched_at": "2026-09-16T10:26:24.437245+00:00"
-    },
-    "e61c28f74da3b5ab": {
-      "title": "偏頭痛女性比男性慘痛太多 這裏舒緩有方",
-      "fetched_at": "2026-09-16T10:26:25.026222+00:00"
-    },
-    "950f0f458a11a907": {
-      "title": "Diagnostic dilemma: A man's sudden fainting episodes landed him in the hospital — and a hair dye was to blame",
-      "fetched_at": "2026-09-16T10:26:26.975548+00:00"
-    },
-    "62cbc96c6ec0c1dc": {
-      "title": "New laptop ditches noisy fans and heat sinks for tiny 'cooling chips' — it's much thinner and lighter than you'd expect",
-      "fetched_at": "2026-09-16T10:26:27.560432+00:00"
-    },
     "4e1cdd0a3f9ffdbf": {
       "title": "Show HN: Put an AI agent on a FaceTime audio/video call (open source, WebRTC)",
       "fetched_at": "2026-09-16T15:42:54.748094+00:00"
@@ -3311,7 +3071,143 @@
     "bfd3e0b3746139b9": {
       "title": "This Australian cave hid 25,000 years of ritual secrets",
       "fetched_at": "2026-09-24T02:03:15.764138+00:00"
+    },
+    "1018d6c6621c7e47": {
+      "title": "新玩意 252｜少数派的编辑们最近买了啥？",
+      "fetched_at": "2026-09-24T10:41:43.928671+00:00"
+    },
+    "e66fd1a4810ff56e": {
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "fetched_at": "2026-09-24T10:41:44.575169+00:00"
+    },
+    "ae9813a73a5b7ac3": {
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+      "fetched_at": "2026-09-24T10:41:45.219978+00:00"
+    },
+    "f123714b669ea332": {
+      "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+      "fetched_at": "2026-09-24T10:41:45.854702+00:00"
+    },
+    "e51069258fe73982": {
+      "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+      "fetched_at": "2026-09-24T10:41:46.476180+00:00"
+    },
+    "2e1af024640a6c82": {
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "fetched_at": "2026-09-24T10:41:47.160428+00:00"
+    },
+    "d73d5362efec190a": {
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "fetched_at": "2026-09-24T10:41:47.795989+00:00"
+    },
+    "e26a1b4aef824a9f": {
+      "title": "Anthropic says its biology lab has already found something big",
+      "fetched_at": "2026-09-24T10:41:48.423089+00:00"
+    },
+    "5dd56f502d091759": {
+      "title": "Data centers are black boxes, but California wants to change that",
+      "fetched_at": "2026-09-24T10:41:49.047209+00:00"
+    },
+    "89f589edc636767d": {
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "fetched_at": "2026-09-24T10:41:49.711552+00:00"
+    },
+    "833bf4af8ba109c8": {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "fetched_at": "2026-09-24T10:41:50.332864+00:00"
+    },
+    "3f4ad519e9f8c1df": {
+      "title": "Even Americans who use AI every day are worried about it",
+      "fetched_at": "2026-09-24T10:41:51.020790+00:00"
+    },
+    "54b14ca5de6467d2": {
+      "title": "特朗普為何親赴機場，超規格接待習近平？",
+      "fetched_at": "2026-09-24T10:41:53.093179+00:00"
+    },
+    "3cc07c11b69e7782": {
+      "title": "習近平訪美首日看點：誰同行？第一夫人角色？高規格接待引反彈？",
+      "fetched_at": "2026-09-24T10:41:53.737138+00:00"
+    },
+    "8c4c0d14ec23740d": {
+      "title": "OpenAI智能體入侵澳洲政府網站竊取資料 官方兩月後才發覺",
+      "fetched_at": "2026-09-24T10:41:54.378349+00:00"
+    },
+    "e9887e00d1b4492b": {
+      "title": "中美关系正步入一个新时代",
+      "fetched_at": "2026-09-24T10:41:55.002572+00:00"
+    },
+    "030b112a0ea75eb8": {
+      "title": "俄羅斯佔領烏克蘭城市：居民靠院中野菜維生，死者無法下葬，遺體「棄置街頭」",
+      "fetched_at": "2026-09-24T10:41:55.759580+00:00"
+    },
+    "bbb3bc351b8a5986": {
+      "title": "美国人对华态度回暖，更多人以积极眼光看待中国",
+      "fetched_at": "2026-09-24T10:41:56.391082+00:00"
+    },
+    "bc03ef90299ca6ff": {
+      "title": "贝森特：美中同意将贸易休战期延长两个月",
+      "fetched_at": "2026-09-24T10:41:57.220546+00:00"
+    },
+    "273133f08b237b0b": {
+      "title": "倾国之力：习近平希望用人工智能助中国赢得未来",
+      "fetched_at": "2026-09-24T10:41:57.861949+00:00"
+    },
+    "a03b15bc6534dee9": {
+      "title": "習近平訪美晤特朗普：中美競賽誰領先？美國民眾怎麼看",
+      "fetched_at": "2026-09-24T10:41:58.483203+00:00"
+    },
+    "f2637df996843b40": {
+      "title": "关于人工智能安全，中国真正在乎的是什么",
+      "fetched_at": "2026-09-24T10:41:59.115298+00:00"
+    },
+    "84647089bee3f346": {
+      "title": "特朗普为何淡化中美竞争、“讨好”习近平",
+      "fetched_at": "2026-09-24T10:41:59.749297+00:00"
+    },
+    "3015dba829f498ec": {
+      "title": "中美AI竞赛：美国在哪些领域领先、哪些领域落后？",
+      "fetched_at": "2026-09-24T10:42:00.477689+00:00"
+    },
+    "3ccf4e3fd2a99055": {
+      "title": "Could comet 3I/ATLAS teach us about life beyond Earth? Scientists say the story's not over yet.",
+      "fetched_at": "2026-09-24T10:42:02.610077+00:00"
+    },
+    "29ec7f40e6203b4f": {
+      "title": "Japan switches on its first full-stack room-temperature quantum computer — and scientists plan to scale it up to 10,000 qubits",
+      "fetched_at": "2026-09-24T10:42:03.243444+00:00"
+    },
+    "d4af75ad58c92e2c": {
+      "title": "More REM sleep linked to lower risk of 83 diseases",
+      "fetched_at": "2026-09-24T10:42:03.902785+00:00"
+    },
+    "aefc4022cf01daf3": {
+      "title": "A broken rib from the world’s largest T. rex hid a 66-million-year-old secret",
+      "fetched_at": "2026-09-24T10:42:04.542860+00:00"
+    },
+    "437f814259ee0339": {
+      "title": "Hurricane Polo exploded in intensity in just 24 hours. Is the 'super' El Niño to blame?",
+      "fetched_at": "2026-09-24T10:42:05.179657+00:00"
+    },
+    "c68d91ff031e874e": {
+      "title": "Rare pregnancy infections may triple the risk of autism",
+      "fetched_at": "2026-09-24T10:42:05.852588+00:00"
+    },
+    "3740c2ac2ddb227b": {
+      "title": "These tropical trees breathe at night to survive drought",
+      "fetched_at": "2026-09-24T10:42:06.552697+00:00"
+    },
+    "6592d642db711815": {
+      "title": "First stellar stream beyond the Milky Way could reveal dark matter",
+      "fetched_at": "2026-09-24T10:42:07.182083+00:00"
+    },
+    "6d4edc951a80fb90": {
+      "title": "Why Viking museums still can’t escape the warrior myth",
+      "fetched_at": "2026-09-24T10:42:07.821368+00:00"
+    },
+    "aad7680f87cf804b": {
+      "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
+      "fetched_at": "2026-09-24T10:42:08.460707+00:00"
     }
   },
-  "last_updated": "2026-09-24T02:03:15.880380+00:00"
+  "last_updated": "2026-09-24T10:42:08.580507+00:00"
 }
