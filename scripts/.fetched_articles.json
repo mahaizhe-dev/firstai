@@ -1,129 +1,5 @@
 {
   "articles": {
-    "4e1cdd0a3f9ffdbf": {
-      "title": "Show HN: Put an AI agent on a FaceTime audio/video call (open source, WebRTC)",
-      "fetched_at": "2026-09-16T15:42:54.748094+00:00"
-    },
-    "20aec681bdb0c7fd": {
-      "title": "Show HN: An MCP server that lets AI agents create, send and analyze surveys",
-      "fetched_at": "2026-09-16T15:42:55.359234+00:00"
-    },
-    "beefa13f17e8cd06": {
-      "title": "Inside Meta's AI Infrastructure Lab in Menlo Park [video]",
-      "fetched_at": "2026-09-16T15:42:55.999316+00:00"
-    },
-    "108fb3ff17e15e68": {
-      "title": "Show HN: Cleanroom, a coding agent with a notebook for decisions and learning",
-      "fetched_at": "2026-09-16T15:42:56.621271+00:00"
-    },
-    "25e2b387cae568e6": {
-      "title": "Is AI Writing American Law?",
-      "fetched_at": "2026-09-16T15:42:57.241942+00:00"
-    },
-    "a1411a1a1e1c8a63": {
-      "title": "Greetings from the Other Side (Of the AI Frontier) Claude Opus 3",
-      "fetched_at": "2026-09-16T15:42:57.854745+00:00"
-    },
-    "2efa11f7bb32a00d": {
-      "title": "Bitterbot – A local-first P2P AI agent engine with persistent memory",
-      "fetched_at": "2026-09-16T15:42:58.469809+00:00"
-    },
-    "b7b4c5d60c2fe1de": {
-      "title": "Talk to any self-hosted AI from your iPhone, Watch, Mac and car (open source)\"",
-      "fetched_at": "2026-09-16T15:42:59.090706+00:00"
-    },
-    "f320a4ca9e614c12": {
-      "title": "Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp",
-      "fetched_at": "2026-09-16T15:42:59.742390+00:00"
-    },
-    "7ff005a3062051b7": {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-16T15:43:00.361663+00:00"
-    },
-    "504da99e2a539f98": {
-      "title": "LLM based CI pipeline code generator for DSCI",
-      "fetched_at": "2026-09-16T15:43:00.990231+00:00"
-    },
-    "2423469ee0e0155a": {
-      "title": "Show HN: Wenlan – a living wiki AI keeps current without overwriting your edits",
-      "fetched_at": "2026-09-16T15:43:01.610147+00:00"
-    },
-    "2d4c509c245063d6": {
-      "title": "Pangram: The Most Reliable AI Detector Has a Human Problem",
-      "fetched_at": "2026-09-16T15:43:02.230500+00:00"
-    },
-    "d67c7c78ece38cd9": {
-      "title": "The sexy AI-powered dating app scams are here",
-      "fetched_at": "2026-09-16T15:43:02.846538+00:00"
-    },
-    "e800c2a4ce9d80c8": {
-      "title": "Insights on AI from the Reformation",
-      "fetched_at": "2026-09-16T15:43:03.480529+00:00"
-    },
-    "4ba86d1728047df6": {
-      "title": "The Bannon-Bernie Bromance over AI and Oligarchs",
-      "fetched_at": "2026-09-16T15:43:04.121668+00:00"
-    },
-    "8c352e830af87814": {
-      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-      "fetched_at": "2026-09-16T15:43:04.734711+00:00"
-    },
-    "924df7565b7df3b2": {
-      "title": "System One Lite – typed decisions from a local LLM, with no generated tokens",
-      "fetched_at": "2026-09-16T15:43:05.370274+00:00"
-    },
-    "cc807c96b121abe6": {
-      "title": "Show HN: OmnisBench, a re-gradable, open LLM routing benchmark on fresh tasks",
-      "fetched_at": "2026-09-16T15:43:05.990500+00:00"
-    },
-    "a4b64e768aad6998": {
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "fetched_at": "2026-09-16T15:43:06.610126+00:00"
-    },
-    "707e70332f33395a": {
-      "title": "美國能在外太空部署哪些武器？",
-      "fetched_at": "2026-09-16T15:43:08.894326+00:00"
-    },
-    "d2793b96d9ecec8d": {
-      "title": "中國有越來越多的男性開始「厭女」嗎？",
-      "fetched_at": "2026-09-16T15:43:09.534084+00:00"
-    },
-    "4d68307c27ec16af": {
-      "title": "Scientists shrank mice's brains and replaced the missing tissue with human 'organoids'",
-      "fetched_at": "2026-09-16T15:44:11.478586+00:00"
-    },
-    "f63bf643a3a51d00": {
-      "title": "'It is extremely rare to witness': Scientists record humpback whale mom grieving her stillborn calf in first-of-its-kind footage",
-      "fetched_at": "2026-09-16T15:44:12.113255+00:00"
-    },
-    "ac4e06801c65fc4e": {
-      "title": "Scientists turn seawater into fresh water without harmful brine",
-      "fetched_at": "2026-09-16T15:44:12.734032+00:00"
-    },
-    "2481a6c58a7080aa": {
-      "title": "Scientists find an immune “false alarm” that may drive rapid aging",
-      "fetched_at": "2026-09-16T15:44:13.349531+00:00"
-    },
-    "bb68f5210eb1d136": {
-      "title": "A 240-million-year-old fossil just changed the dinosaur timeline",
-      "fetched_at": "2026-09-16T15:44:13.968207+00:00"
-    },
-    "3255da5ace92ca26": {
-      "title": "Scientists recreated what mice saw from brain activity alone",
-      "fetched_at": "2026-09-16T15:44:14.598943+00:00"
-    },
-    "3420b4e5102c8b64": {
-      "title": "Venus may have swallowed its own moon",
-      "fetched_at": "2026-09-16T15:44:15.225137+00:00"
-    },
-    "389e8f30d99c5019": {
-      "title": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
-      "fetched_at": "2026-09-16T15:44:15.870295+00:00"
-    },
-    "2c4797b7ad0aeff8": {
-      "title": "James Webb reveals Chariklo’s mysterious rings are changing faster than expected",
-      "fetched_at": "2026-09-16T15:44:16.487092+00:00"
-    },
     "4c9199b02d95cccc": {
       "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
       "fetched_at": "2026-09-16T20:34:57.439401+00:00"
@@ -3207,7 +3083,123 @@
     "aad7680f87cf804b": {
       "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
       "fetched_at": "2026-09-24T10:42:08.460707+00:00"
+    },
+    "b84869c4af5075d4": {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-24T16:04:19.480922+00:00"
+    },
+    "e6e9986f4a2f1175": {
+      "title": "Google tests letting Gemini call businesses for you",
+      "fetched_at": "2026-09-24T16:04:20.209507+00:00"
+    },
+    "9c9afb7cd9b09712": {
+      "title": "Oracle invokes force majeure on New Mexico AI data center",
+      "fetched_at": "2026-09-24T16:04:20.783432+00:00"
+    },
+    "a353ff99f7333145": {
+      "title": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
+      "fetched_at": "2026-09-24T16:04:21.376273+00:00"
+    },
+    "7ad4328dd00fbc2f": {
+      "title": "Show HN: Trify3D – Compare AI 3D engines on one input and keep the best mesh",
+      "fetched_at": "2026-09-24T16:04:21.948714+00:00"
+    },
+    "4b8f6b8174e5cee2": {
+      "title": "AI Evals: Everything You Need to Know",
+      "fetched_at": "2026-09-24T16:04:22.534558+00:00"
+    },
+    "7ad1be9f5f6f4076": {
+      "title": "Show HN: Potluck – Run local AI across the computers you own",
+      "fetched_at": "2026-09-24T16:04:23.130002+00:00"
+    },
+    "218de545789ced52": {
+      "title": "Agent-Manager: Reviewing code while an AI agent is still rewriting it",
+      "fetched_at": "2026-09-24T16:04:23.703744+00:00"
+    },
+    "a54be932d5b6167f": {
+      "title": "Show HN: Enclawed – A hard-fork hardening framework for AI agent gateways",
+      "fetched_at": "2026-09-24T16:04:24.327437+00:00"
+    },
+    "9838e50347e07d7a": {
+      "title": "Voice AI Conference – Worth the Time?",
+      "fetched_at": "2026-09-24T16:04:24.908128+00:00"
+    },
+    "194a2453d62d4d97": {
+      "title": "Show HN: Local First AI Calculator",
+      "fetched_at": "2026-09-24T16:04:25.480395+00:00"
+    },
+    "1b31c181109e484f": {
+      "title": "Paperclip: Open-source orchestration for teams of AI agents",
+      "fetched_at": "2026-09-24T16:04:26.055930+00:00"
+    },
+    "e375d8eec322902a": {
+      "title": "Towards a future space-based, highly scalable AI infrastructure system design",
+      "fetched_at": "2026-09-24T16:04:26.632895+00:00"
+    },
+    "0f1228ba5608eef2": {
+      "title": "Show HN: CraftCX – Observability and intelligence tooling for AI Support team",
+      "fetched_at": "2026-09-24T16:04:27.215978+00:00"
+    },
+    "992e761c98130ff2": {
+      "title": "DHH at Rails World – Ruby on Rails no longer needed now because AI can make apps",
+      "fetched_at": "2026-09-24T16:04:27.814963+00:00"
+    },
+    "24536dac972cd65d": {
+      "title": "AI companies don't bribe reporters. They fund fellowships",
+      "fetched_at": "2026-09-24T16:04:28.386988+00:00"
+    },
+    "b0b2e6ccf0fcab9d": {
+      "title": "Human labour is largely invisible to AI",
+      "fetched_at": "2026-09-24T16:04:28.966797+00:00"
+    },
+    "cc0d4cdcf4b74a12": {
+      "title": "Adventures in using AI to write papers",
+      "fetched_at": "2026-09-24T16:04:29.546299+00:00"
+    },
+    "8d5158b9034055d7": {
+      "title": "Unlike many parents, children are fearless around AI",
+      "fetched_at": "2026-09-24T16:04:30.126089+00:00"
+    },
+    "b497e5489186e9ad": {
+      "title": "The Year AI Came for Us: Teaching Entrepreneurship Will Never Be the Same",
+      "fetched_at": "2026-09-24T16:04:30.715296+00:00"
+    },
+    "de6dd35ab1cb05b9": {
+      "title": "「我接受了11年化療，卻發現從未患癌」",
+      "fetched_at": "2026-09-24T16:04:32.539846+00:00"
+    },
+    "5a53d3080797a607": {
+      "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
+      "fetched_at": "2026-09-24T16:04:33.132433+00:00"
+    },
+    "5daa48cde1582c33": {
+      "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
+      "fetched_at": "2026-09-24T16:04:35.169284+00:00"
+    },
+    "520c113ac6d06b91": {
+      "title": "When what you see doesn’t make sense, your brain does something remarkable",
+      "fetched_at": "2026-09-24T16:04:35.834743+00:00"
+    },
+    "8b99991f8bd5234f": {
+      "title": "Distant time crystals can somehow fall into the same rhythm",
+      "fetched_at": "2026-09-24T16:04:36.465862+00:00"
+    },
+    "9553d13892089a51": {
+      "title": "Scientists thought they knew how this 70-year-old leukemia drug worked",
+      "fetched_at": "2026-09-24T16:04:37.041585+00:00"
+    },
+    "cf10ee89693ef991": {
+      "title": "Scientists find two tiny new snails with shells that close like doors",
+      "fetched_at": "2026-09-24T16:04:37.608900+00:00"
+    },
+    "1df89428fa6a3e4d": {
+      "title": "“We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean",
+      "fetched_at": "2026-09-24T16:04:38.188256+00:00"
+    },
+    "09f2b0eea4a21c87": {
+      "title": "These massive stars could explain Webb’s strangest galaxies",
+      "fetched_at": "2026-09-24T16:04:38.757861+00:00"
     }
   },
-  "last_updated": "2026-09-24T10:42:08.580507+00:00"
+  "last_updated": "2026-09-24T16:04:38.886483+00:00"
 }
