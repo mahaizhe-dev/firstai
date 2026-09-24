@@ -1,105 +1,5 @@
 {
   "articles": {
-    "4c9199b02d95cccc": {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "fetched_at": "2026-09-16T20:34:57.439401+00:00"
-    },
-    "7211d2f61ef13310": {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "fetched_at": "2026-09-16T20:34:58.102362+00:00"
-    },
-    "bae2be34b176d7d6": {
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "fetched_at": "2026-09-16T20:34:58.693725+00:00"
-    },
-    "beb30bbdc7b7fd04": {
-      "title": "Google will now let any AI agent run your smart home",
-      "fetched_at": "2026-09-16T20:34:59.282378+00:00"
-    },
-    "2486d6e48d38d4e6": {
-      "title": "Your AI agents can now control your Google Home devices",
-      "fetched_at": "2026-09-16T20:34:59.859538+00:00"
-    },
-    "ccbcb6247d8e5f2c": {
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "fetched_at": "2026-09-16T20:35:00.447258+00:00"
-    },
-    "0a685567bc01afec": {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "fetched_at": "2026-09-16T20:35:01.041148+00:00"
-    },
-    "247cb70d68b1ff6c": {
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "fetched_at": "2026-09-16T20:35:01.624737+00:00"
-    },
-    "a1f11c6af1066226": {
-      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-16T20:35:02.215694+00:00"
-    },
-    "a78d3cf2680e4425": {
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "fetched_at": "2026-09-16T20:35:02.798646+00:00"
-    },
-    "42078110b14d697f": {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "fetched_at": "2026-09-16T20:35:03.380328+00:00"
-    },
-    "2adec7a8444f56ee": {
-      "title": "A brief history of AI executives calling for regulation",
-      "fetched_at": "2026-09-16T20:35:03.969803+00:00"
-    },
-    "e468b2cdd83371b2": {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "fetched_at": "2026-09-16T20:35:04.633019+00:00"
-    },
-    "18284f5a0e506e85": {
-      "title": "探秘柬埔寨，千年吴哥窟",
-      "fetched_at": "2026-09-16T20:35:05.223893+00:00"
-    },
-    "f4383645046cc7ef": {
-      "title": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
-      "fetched_at": "2026-09-16T20:35:05.805347+00:00"
-    },
-    "bc074af867bd1fae": {
-      "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
-      "fetched_at": "2026-09-16T20:35:06.395896+00:00"
-    },
-    "6a30a79c5bc90dca": {
-      "title": "美國稱數十國助中國避特朗普關稅",
-      "fetched_at": "2026-09-16T20:35:10.378321+00:00"
-    },
-    "d5486fe52d0023b5": {
-      "title": "1,700-year-old fragment of the 'Odyssey' discovered between pages of Dutch library book",
-      "fetched_at": "2026-09-16T20:35:44.412052+00:00"
-    },
-    "b30d3808769d451c": {
-      "title": "Phoenicians Brought First Cultivated Grapevines to Iberia",
-      "fetched_at": "2026-09-16T20:35:44.999208+00:00"
-    },
-    "a4b3a90d9d3978bc": {
-      "title": "New trick could reveal text on 2,000-year-old scrolls charred by eruption of Mount Vesuvius",
-      "fetched_at": "2026-09-16T20:35:45.581207+00:00"
-    },
-    "a2685fb7f5ea7deb": {
-      "title": "Scientists finally figured out the temperature of T. rex's blood ‪— and it was as hot as ours",
-      "fetched_at": "2026-09-16T20:35:46.174026+00:00"
-    },
-    "ae6bcbe6109c5578": {
-      "title": "Humans and Tasmanian Devils Coexisted Millennia Ago in Western Australia",
-      "fetched_at": "2026-09-16T20:35:46.751292+00:00"
-    },
-    "ba7cc91ece527e49": {
-      "title": "Oldest North African Defensive Structure Outside Egypt Identified",
-      "fetched_at": "2026-09-16T20:35:47.326514+00:00"
-    },
-    "16fb268ca14b3232": {
-      "title": "Was there a 'before' the Big Bang? Jim Al-Khalili on the mind-bogglingness of time",
-      "fetched_at": "2026-09-16T20:35:47.915439+00:00"
-    },
-    "87dd1fc32b4476b3": {
-      "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
-      "fetched_at": "2026-09-16T20:35:48.500627+00:00"
-    },
     "7e2d7c871b7e8593": {
       "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
       "fetched_at": "2026-09-17T02:14:09.218459+00:00"
@@ -3199,7 +3099,111 @@
     "09f2b0eea4a21c87": {
       "title": "These massive stars could explain Webb’s strangest galaxies",
       "fetched_at": "2026-09-24T16:04:38.757861+00:00"
+    },
+    "7236b6d88f9afc4c": {
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "fetched_at": "2026-09-24T20:53:33.252592+00:00"
+    },
+    "db27adbf5c5a9b83": {
+      "title": "Show HN: A $25 DIY alternative to $159 AI voice recorders – BYOK or local",
+      "fetched_at": "2026-09-24T20:53:33.934289+00:00"
+    },
+    "68eb79678aec1c9a": {
+      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+      "fetched_at": "2026-09-24T20:53:34.548302+00:00"
+    },
+    "79603a4a0254f765": {
+      "title": "Anthropic Strikes $12B AI Computing Deal with Akamai",
+      "fetched_at": "2026-09-24T20:53:35.162644+00:00"
+    },
+    "3abcfd8a3e943d88": {
+      "title": "Restaurants Are Using AI to Advertise Their Food and It's Making People Sick",
+      "fetched_at": "2026-09-24T20:53:35.782495+00:00"
+    },
+    "2c847bd6ef2ba8a5": {
+      "title": "A new data layer for robot learning",
+      "fetched_at": "2026-09-24T20:53:36.386543+00:00"
+    },
+    "cb5d46b6dbe8d054": {
+      "title": "How to stay smart in the age of AI: the science of critical thinking",
+      "fetched_at": "2026-09-24T20:53:37.018616+00:00"
+    },
+    "d8eca7cf25ee2bbf": {
+      "title": "Why AI companies don't need new laws",
+      "fetched_at": "2026-09-24T20:53:37.697874+00:00"
+    },
+    "c35578eee4491131": {
+      "title": "Alexandr Wang Is Meta's Not-So-Secret Weapon in the AI Agent Promo War",
+      "fetched_at": "2026-09-24T20:53:38.390732+00:00"
+    },
+    "dd7052f8fdb528b2": {
+      "title": "Tech leaders to UN: For sake of humanity, please control the AI tech we created",
+      "fetched_at": "2026-09-24T20:53:39.004424+00:00"
+    },
+    "e482a02f674b4425": {
+      "title": "Tiny-Vedas: RISC-V Infrastructure for AI Accelerator Design [pdf]",
+      "fetched_at": "2026-09-24T20:53:39.614917+00:00"
+    },
+    "b172eefbf680d092": {
+      "title": "GizmoSQL changes the unit economics for AI analyst companies",
+      "fetched_at": "2026-09-24T20:53:40.230609+00:00"
+    },
+    "eb8f2926e397745f": {
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "fetched_at": "2026-09-24T20:53:40.884011+00:00"
+    },
+    "51d3d19ae069c422": {
+      "title": "Ask HN: How do you coach new grads in AI Native dev environments?",
+      "fetched_at": "2026-09-24T20:53:41.523234+00:00"
+    },
+    "8052c651161d26c7": {
+      "title": "When AI writes almost all code, what happens to software engineering?",
+      "fetched_at": "2026-09-24T20:53:42.136717+00:00"
+    },
+    "217aea1628dd0365": {
+      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+      "fetched_at": "2026-09-24T20:53:42.760987+00:00"
+    },
+    "50c6621ad74a132e": {
+      "title": "Behind NAZA: How AI is used to assess, reduce collateral damage in IDF interview",
+      "fetched_at": "2026-09-24T20:53:43.465135+00:00"
+    },
+    "982378e9cc58a8d3": {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "fetched_at": "2026-09-24T20:53:44.081896+00:00"
+    },
+    "8fff9ca4f5b0146e": {
+      "title": "GPT-6 Sol is like GPT-5.6 Terra, GPT-6 Luna is like GPT-5.6 Asteroid",
+      "fetched_at": "2026-09-24T20:53:44.703432+00:00"
+    },
+    "213936d27ce20b90": {
+      "title": "OpenAI, Anthropic CEOs urge UN countries to cooperate on AI safety standards",
+      "fetched_at": "2026-09-24T20:53:45.323473+00:00"
+    },
+    "9f4b80cc747f91f3": {
+      "title": "特朗普与习近平在白宫会面，外界对峰会成果预期较低",
+      "fetched_at": "2026-09-24T20:53:48.698876+00:00"
+    },
+    "707e70332f33395a": {
+      "title": "美國能在外太空部署哪些武器？",
+      "fetched_at": "2026-09-24T20:53:49.318859+00:00"
+    },
+    "d2793b96d9ecec8d": {
+      "title": "中國有越來越多的男性開始「厭女」嗎？",
+      "fetched_at": "2026-09-24T20:53:49.919107+00:00"
+    },
+    "cb299563962e0671": {
+      "title": "Medieval Heating System Discovered in Switzerland",
+      "fetched_at": "2026-09-24T20:53:52.213190+00:00"
+    },
+    "b5b5bd2ec59b3d13": {
+      "title": "Rare armored dinosaur found in Japan may have ancestors that migrated across a land bridge 100 million years ago",
+      "fetched_at": "2026-09-24T20:53:52.834708+00:00"
+    },
+    "2935a742b0bad929": {
+      "title": "Is This Ancient Wall Under Central Paris From the City's Earliest Settlement?",
+      "fetched_at": "2026-09-24T20:53:53.473504+00:00"
     }
   },
-  "last_updated": "2026-09-24T16:04:38.886483+00:00"
+  "last_updated": "2026-09-24T20:53:53.547691+00:00"
 }
