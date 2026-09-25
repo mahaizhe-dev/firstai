@@ -1,81 +1,5 @@
 {
   "articles": {
-    "2fc47b3f04bbeb5f": {
-      "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
-      "fetched_at": "2026-09-17T10:35:59.582146+00:00"
-    },
-    "2bc7452b167e67de": {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "fetched_at": "2026-09-17T10:36:00.186792+00:00"
-    },
-    "fdb5a2350c002ccc": {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-17T10:36:00.791281+00:00"
-    },
-    "f3bac78cae30191b": {
-      "title": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
-      "fetched_at": "2026-09-17T10:36:01.382148+00:00"
-    },
-    "6dfef516c1b1f1f9": {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "fetched_at": "2026-09-17T10:36:01.976190+00:00"
-    },
-    "31284d1d08068a7b": {
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "fetched_at": "2026-09-17T10:36:02.585433+00:00"
-    },
-    "a17b143aa637bf05": {
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "fetched_at": "2026-09-17T10:36:03.209093+00:00"
-    },
-    "4a7cf813002aa8e1": {
-      "title": "領英高層分享 6 個人脈竅門，幫你更快找到工作",
-      "fetched_at": "2026-09-17T10:36:05.481360+00:00"
-    },
-    "fa498a62278381c3": {
-      "title": "美國三年來首次加息 對全球和中國意味著什麼？",
-      "fetched_at": "2026-09-17T10:36:06.080817+00:00"
-    },
-    "5a6c4589ef2e63c1": {
-      "title": "Hyrox北京赛选手失禁完赛引发争议，官方道歉退款",
-      "fetched_at": "2026-09-17T10:36:06.687542+00:00"
-    },
-    "d7ac3c964a1edf0d": {
-      "title": "日本百岁老人数量突破10万，88%为女性",
-      "fetched_at": "2026-09-17T10:36:07.301504+00:00"
-    },
-    "d22cf1694fa23f43": {
-      "title": "中国不在乎人工智能安全，它只想赢",
-      "fetched_at": "2026-09-17T10:36:07.907339+00:00"
-    },
-    "852c33f6a9e0ef9e": {
-      "title": "美国情报官员：中国试图通过沙特获取F-35战斗机技术",
-      "fetched_at": "2026-09-17T10:36:08.502748+00:00"
-    },
-    "487e7c6c4510be17": {
-      "title": "“悉尼妹”大尺度广告引发争议，被批物化女性",
-      "fetched_at": "2026-09-17T10:36:09.131748+00:00"
-    },
-    "cf6226fe95b80871": {
-      "title": "欧盟邀请加拿大成为“准成员国”，这意味着什么",
-      "fetched_at": "2026-09-17T10:36:09.732820+00:00"
-    },
-    "c76d08cb6eb4393e": {
-      "title": "「我一度認不出我的男朋友」：我是如何發現自己患有臉盲症的",
-      "fetched_at": "2026-09-17T10:36:10.333159+00:00"
-    },
-    "b689d13f07a2cb86": {
-      "title": "New mesothelioma drug turns cancer’s own defenses against it",
-      "fetched_at": "2026-09-17T10:36:12.770087+00:00"
-    },
-    "6a00139ebc984c4f": {
-      "title": "NASA’s New Horizons spots signs of liquid nitrogen flowing on Pluto",
-      "fetched_at": "2026-09-17T10:36:13.365425+00:00"
-    },
-    "f36b389cbff0a0da": {
-      "title": "Hidden “immune organ” in the skull may help fight brain cancer",
-      "fetched_at": "2026-09-17T10:36:13.974184+00:00"
-    },
     "5cabfd05549e2ab5": {
       "title": "LLM Classification Is Feature Engineering",
       "fetched_at": "2026-09-17T15:49:13.237981+00:00"
@@ -3271,7 +3195,155 @@
     "bacaa239722167bd": {
       "title": "Show HN: AIR – discovery scores for 1,800 US small-caps, never restated",
       "fetched_at": "2026-09-25T02:19:52.164095+00:00"
+    },
+    "d4c0d0165edfb98e": {
+      "title": "Four things I learned throughout the last years working with AI",
+      "fetched_at": "2026-09-25T10:45:21.398663+00:00"
+    },
+    "ae09a7226b675c91": {
+      "title": "AI-Powered Fuzzing with the GitHub Security Lab Taskflow Agent",
+      "fetched_at": "2026-09-25T10:45:21.983763+00:00"
+    },
+    "6001fe0ee7780f1f": {
+      "title": "Tell HN: PSA: AI can make old games run on 64-bit macOS",
+      "fetched_at": "2026-09-25T10:45:22.565620+00:00"
+    },
+    "d63986eea86528b1": {
+      "title": "Show HN: Rigo Studio | AI Farm Intelligence",
+      "fetched_at": "2026-09-25T10:45:23.151415+00:00"
+    },
+    "f4ccac40a565d9fa": {
+      "title": "How Does AI Change Labor Demand? Evidence from 41 Countries",
+      "fetched_at": "2026-09-25T10:45:23.809839+00:00"
+    },
+    "6bd0ee250dd64b3c": {
+      "title": "Show HN: AtlasBurn – Know what your AI costs and stop runaway agents",
+      "fetched_at": "2026-09-25T10:45:24.396155+00:00"
+    },
+    "a54a7475e3bc0a48": {
+      "title": "本周看什么 | 最近值得一看的 6 部作品",
+      "fetched_at": "2026-09-25T10:45:25.051023+00:00"
+    },
+    "406d9d6599971548": {
+      "title": "Show HN: LabLoop – isolated infrastructure for LLM-driven scientific experiments",
+      "fetched_at": "2026-09-25T10:45:25.735900+00:00"
+    },
+    "f32be9ae74e4eb50": {
+      "title": "AI as a Tool in Taste Research: decoding the taste of bitterness",
+      "fetched_at": "2026-09-25T10:45:26.345556+00:00"
+    },
+    "e1687f16f93fc4de": {
+      "title": "Show HN: Proxima Forma – Designs that my AI agents understand",
+      "fetched_at": "2026-09-25T10:45:26.936635+00:00"
+    },
+    "95c7706facf2e95c": {
+      "title": "Show HN: Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)",
+      "fetched_at": "2026-09-25T10:45:27.529965+00:00"
+    },
+    "7e0f6ce55b672abf": {
+      "title": "AI for Creativity",
+      "fetched_at": "2026-09-25T10:45:28.123040+00:00"
+    },
+    "ac74b1159bd9e879": {
+      "title": "Legal AI Harvey's margins went from +50% to -50% in 6 months on frontier costs",
+      "fetched_at": "2026-09-25T10:45:28.705501+00:00"
+    },
+    "00beed4edbd9429b": {
+      "title": "Real-Time AI Simplification (A2, B1, B2) of BBC World News Live",
+      "fetched_at": "2026-09-25T10:45:29.289251+00:00"
+    },
+    "d7881afde7d2c610": {
+      "title": "Show HN: Can an AI agent bypass a post-quantum signed authorization policy?",
+      "fetched_at": "2026-09-25T10:45:29.872345+00:00"
+    },
+    "49b5ac93cb843427": {
+      "title": "What is LLM-as-a-Judge, and How It Works?",
+      "fetched_at": "2026-09-25T10:45:30.467240+00:00"
+    },
+    "bc53717a956b8d56": {
+      "title": "Explyt 5.20 – background task panel for AI agent runs in JetBrains IDEs",
+      "fetched_at": "2026-09-25T10:45:31.051412+00:00"
+    },
+    "a28d5f60fb5c9f9e": {
+      "title": "Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'",
+      "fetched_at": "2026-09-25T10:45:31.637498+00:00"
+    },
+    "6adbb0b64141355b": {
+      "title": "Show HN: Reteach – AI tutor that feels human",
+      "fetched_at": "2026-09-25T10:45:32.263787+00:00"
+    },
+    "9c6eee6c516404a5": {
+      "title": "Show HN: Jevper – an LLM API client constrained to the Jev wire format",
+      "fetched_at": "2026-09-25T10:45:32.862253+00:00"
+    },
+    "7ed3a635b3fdc7a5": {
+      "title": "特習會：習近平促特朗普「反對台獨」，北京措辭升級要的是什麼？",
+      "fetched_at": "2026-09-25T10:45:35.795673+00:00"
+    },
+    "094400e55b8d5a9b": {
+      "title": "中美AI競賽：世界變得更危險還是更安全？",
+      "fetched_at": "2026-09-25T10:45:36.381018+00:00"
+    },
+    "0fd65e0b113d6058": {
+      "title": "數百艘中國漁船出現在越南外海，北京想要什麼？",
+      "fetched_at": "2026-09-25T10:45:36.962374+00:00"
+    },
+    "7d3f5fd51933bf7f": {
+      "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
+      "fetched_at": "2026-09-25T10:45:37.547155+00:00"
+    },
+    "c0807c81425a1f40": {
+      "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
+      "fetched_at": "2026-09-25T10:45:38.134319+00:00"
+    },
+    "15f3d8222a28e96c": {
+      "title": "習近平獲特朗普紅地氈迎接，但並非事事如願",
+      "fetched_at": "2026-09-25T10:45:38.722646+00:00"
+    },
+    "27356e030e7b8275": {
+      "title": "特朗普的白宫欢迎强人领袖习近平，却拒绝美国记者",
+      "fetched_at": "2026-09-25T10:45:39.389859+00:00"
+    },
+    "3c4064ed010e4218": {
+      "title": "聚焦中美元首峰会：军机表演和盛大仪式背后的博弈与分歧",
+      "fetched_at": "2026-09-25T10:45:39.985277+00:00"
+    },
+    "f1fc1cbd08f9d7ea": {
+      "title": "俄羅斯佔領烏克蘭城市：居民靠野菜維生，死者遺體「棄置街頭」",
+      "fetched_at": "2026-09-25T10:45:40.570078+00:00"
+    },
+    "8eda3ee5bc6b8671": {
+      "title": "習近平開展訪美 貝森特宣佈兩國貿易戰繼續「停火」",
+      "fetched_at": "2026-09-25T10:45:41.235156+00:00"
+    },
+    "146dee0111131f1b": {
+      "title": "美中峰會前，蕭美琴訪歐背後的「利基」外交",
+      "fetched_at": "2026-09-25T10:45:41.826038+00:00"
+    },
+    "da5dfe83643981be": {
+      "title": "Author Rose George dives into the dark depths of the fishing industry",
+      "fetched_at": "2026-09-25T10:45:47.130282+00:00"
+    },
+    "beb3866b47076dda": {
+      "title": "Scientists gave worms magnetic bacteria. They lived 43% longer",
+      "fetched_at": "2026-09-25T10:45:47.719066+00:00"
+    },
+    "273460b5f3cdb805": {
+      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+      "fetched_at": "2026-09-25T10:45:48.304236+00:00"
+    },
+    "66d65433efdbe6a4": {
+      "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
+      "fetched_at": "2026-09-25T10:45:48.885819+00:00"
+    },
+    "0cf5a346133bffcb": {
+      "title": "Scientists discover an “impossible” cellular survival pathway that could help fight cancer",
+      "fetched_at": "2026-09-25T10:45:49.510270+00:00"
+    },
+    "bda9dac36b7aee49": {
+      "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+      "fetched_at": "2026-09-25T10:45:50.090626+00:00"
     }
   },
-  "last_updated": "2026-09-25T02:19:52.232792+00:00"
+  "last_updated": "2026-09-25T10:45:50.169703+00:00"
 }
