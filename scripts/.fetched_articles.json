@@ -1,137 +1,5 @@
 {
   "articles": {
-    "5cabfd05549e2ab5": {
-      "title": "LLM Classification Is Feature Engineering",
-      "fetched_at": "2026-09-17T15:49:13.237981+00:00"
-    },
-    "6acff5051e298805": {
-      "title": "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama",
-      "fetched_at": "2026-09-17T15:49:13.859445+00:00"
-    },
-    "5ff9c9a6d20a65e7": {
-      "title": "Show HN: Open-source AI teammates with their own computer",
-      "fetched_at": "2026-09-17T15:49:14.476284+00:00"
-    },
-    "539ce25b13610900": {
-      "title": "The Fossil Logic of the Industrial and AI Revolutions",
-      "fetched_at": "2026-09-17T15:49:15.104950+00:00"
-    },
-    "ef1cb838fb08abf1": {
-      "title": "Show HN: AutoYou – Self-hosted AI you reach from your phone over WebRTC",
-      "fetched_at": "2026-09-17T15:49:15.727579+00:00"
-    },
-    "f8b5fa463d5c8970": {
-      "title": "Disarming the Slop Cannon (Ironically, with AI)",
-      "fetched_at": "2026-09-17T15:49:16.420598+00:00"
-    },
-    "a078d25f151691e8": {
-      "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
-      "fetched_at": "2026-09-17T15:49:17.050459+00:00"
-    },
-    "923fff5e3de54f52": {
-      "title": "Microsoft Azure CTO and AI Ported ZoomIt to macOS in Two Days",
-      "fetched_at": "2026-09-17T15:49:17.687730+00:00"
-    },
-    "2dc413608775d153": {
-      "title": "Andrew Yang: AI agents may have left self-replicating code across the internet",
-      "fetched_at": "2026-09-17T15:49:18.308468+00:00"
-    },
-    "2707c8ff5842dafe": {
-      "title": "AI Consciousness Is Not a Safety Property",
-      "fetched_at": "2026-09-17T15:49:18.916393+00:00"
-    },
-    "52b8e838720bbe75": {
-      "title": "Jobless Tech Workers Are Being Left Out of San Francisco's AI Boom",
-      "fetched_at": "2026-09-17T15:49:19.528667+00:00"
-    },
-    "e78e19b002e2b55c": {
-      "title": "Nobody Is Driving: The AI Race Nobody Can Slow Down",
-      "fetched_at": "2026-09-17T15:49:20.143725+00:00"
-    },
-    "fd57b5e14028dcd4": {
-      "title": "Show HN: LiteLLM sends AI requests.Conduct decides which ones shouldn't be sent",
-      "fetched_at": "2026-09-17T15:49:20.763245+00:00"
-    },
-    "54b86d595cdfafd0": {
-      "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
-      "fetched_at": "2026-09-17T15:49:21.393851+00:00"
-    },
-    "b7a5e3c5e24aa04b": {
-      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
-      "fetched_at": "2026-09-17T15:49:21.393988+00:00"
-    },
-    "c0b6b4610f2c0752": {
-      "title": "Show HN: Unimodal – Our AI Manifest",
-      "fetched_at": "2026-09-17T15:49:22.016632+00:00"
-    },
-    "85c5168265418e5b": {
-      "title": "YC-backed AI: \"Never miss another booking.\" Its terms: no liability for downtime",
-      "fetched_at": "2026-09-17T15:49:22.635038+00:00"
-    },
-    "d4e7dfefadc62936": {
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "fetched_at": "2026-09-17T15:49:23.255841+00:00"
-    },
-    "0f6b420662356bb5": {
-      "title": "Goldman Sachs Global Institute: remaking our world for machine intelligence",
-      "fetched_at": "2026-09-17T15:49:23.865859+00:00"
-    },
-    "9f4862ca3f700837": {
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "fetched_at": "2026-09-17T15:49:24.477526+00:00"
-    },
-    "bc9c6e81969371cf": {
-      "title": "領英高層分享6個人脈竅門，幫你更快找到工作",
-      "fetched_at": "2026-09-17T15:49:26.876688+00:00"
-    },
-    "747333df100dab94": {
-      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
-      "fetched_at": "2026-09-17T15:49:27.495558+00:00"
-    },
-    "a39f84d9fe117d90": {
-      "title": "董建華逝世：從船王富二代到香港首任特首，中共的「親密朋友」",
-      "fetched_at": "2026-09-17T15:49:28.114335+00:00"
-    },
-    "29991ccc42d62e86": {
-      "title": "「教員萬歲」：中國Z世代為何重新「擁抱」毛澤東？",
-      "fetched_at": "2026-09-17T15:49:28.735484+00:00"
-    },
-    "02b7397154fa3dff": {
-      "title": "'Predatory behavior': Elite mathematicians clash over OpenAI's 'solution' to million-dollar math problem",
-      "fetched_at": "2026-09-17T15:49:30.848774+00:00"
-    },
-    "943130d60aa52245": {
-      "title": "Scientists name a new cat species for the first time in over a century",
-      "fetched_at": "2026-09-17T15:49:31.467382+00:00"
-    },
-    "9b10d375a46006f5": {
-      "title": "1,000-year-old 'snake amulet' featuring a Christian saint and 'Medusa' discovered in Russia",
-      "fetched_at": "2026-09-17T15:49:32.084140+00:00"
-    },
-    "80670330c0acfbad": {
-      "title": "'At some point we're going to have to react': How El Niño, climate change, and crime are pushing the Amazon rainforest over the brink",
-      "fetched_at": "2026-09-17T15:49:32.710257+00:00"
-    },
-    "d11342f6ed053d00": {
-      "title": "Scientists discover a mysterious new frog hiding in the Amazon",
-      "fetched_at": "2026-09-17T15:49:33.330379+00:00"
-    },
-    "f9b9ab49734d58a1": {
-      "title": "Astronomers just found the youngest known planet ever",
-      "fetched_at": "2026-09-17T15:49:33.957461+00:00"
-    },
-    "0fe7b5662a76b042": {
-      "title": "JWST’s mysterious little red dots may be black holes growing at incredible speeds",
-      "fetched_at": "2026-09-17T15:49:34.577381+00:00"
-    },
-    "4d3a4b9d5bd4ab7a": {
-      "title": "Textbooks may have misdrawn this basic brain structure for 100 years",
-      "fetched_at": "2026-09-17T15:49:35.198197+00:00"
-    },
-    "3be3e3dedb608bb5": {
-      "title": "1,700-year-old fragment of the 'Odyssey' discovered in Dutch library",
-      "fetched_at": "2026-09-17T15:49:35.814632+00:00"
-    },
     "b0214ad5653328d6": {
       "title": "US, China security experts propose nuclear-style safeguards for AI risks",
       "fetched_at": "2026-09-17T20:41:54.312190+00:00"
@@ -3343,7 +3211,87 @@
     "bda9dac36b7aee49": {
       "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
       "fetched_at": "2026-09-25T10:45:50.090626+00:00"
+    },
+    "c0c7635744ba5f8e": {
+      "title": "Sony and UMG are suing Suno again",
+      "fetched_at": "2026-09-25T16:04:46.399561+00:00"
+    },
+    "bc2351717cb7c790": {
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "fetched_at": "2026-09-25T16:04:47.038783+00:00"
+    },
+    "4566d53691733141": {
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "fetched_at": "2026-09-25T16:04:47.663461+00:00"
+    },
+    "605367a3f4fc2522": {
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "fetched_at": "2026-09-25T16:04:48.291118+00:00"
+    },
+    "41bb67eea0c162fd": {
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "fetched_at": "2026-09-25T16:04:48.909932+00:00"
+    },
+    "f5a42aa44d815f4b": {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "fetched_at": "2026-09-25T16:04:49.539097+00:00"
+    },
+    "e802b4f79c9b7c7b": {
+      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+      "fetched_at": "2026-09-25T16:04:50.165841+00:00"
+    },
+    "80dd23abbd718b9f": {
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "fetched_at": "2026-09-25T16:04:50.927844+00:00"
+    },
+    "2cdc88aefce2a483": {
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "fetched_at": "2026-09-25T16:04:51.555212+00:00"
+    },
+    "56dec87c02b526a7": {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "fetched_at": "2026-09-25T16:04:52.184432+00:00"
+    },
+    "febec45dd0436f70": {
+      "title": "中國、台灣民眾如何看「習特會」？專家如何解讀峰會成果？",
+      "fetched_at": "2026-09-25T16:04:54.382637+00:00"
+    },
+    "2bfd11f427ba2677": {
+      "title": "美中各從「白宮習特會」得到什麼？",
+      "fetched_at": "2026-09-25T16:04:55.024654+00:00"
+    },
+    "9e7e061053de1bfb": {
+      "title": "習近平促特朗普「反對台獨」，北京措辭升級要的是什麼？",
+      "fetched_at": "2026-09-25T16:04:55.820047+00:00"
+    },
+    "7889ddb9044d9f70": {
+      "title": "'Everything we know about space travel is going to change within a decade': The fusion breakthrough that could unlock a path to the stars",
+      "fetched_at": "2026-09-25T16:05:01.152473+00:00"
+    },
+    "6aa1e1daff1400d7": {
+      "title": "Best binoculars 2026: The ultimate buying guide for birdwatching, stargazing and more",
+      "fetched_at": "2026-09-25T16:05:01.859059+00:00"
+    },
+    "a371feefb92c01df": {
+      "title": "RSS replies are promising, but discovery is the hard part",
+      "fetched_at": "2026-09-25T16:05:02.488022+00:00"
+    },
+    "894372e3cca2766c": {
+      "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
+      "fetched_at": "2026-09-25T16:05:03.116278+00:00"
+    },
+    "7eebe960ff4b59ec": {
+      "title": "This “rare” autism-linked genetic disorder may be far more common than scientists thought",
+      "fetched_at": "2026-09-25T16:05:03.742949+00:00"
+    },
+    "fdb044412fe09315": {
+      "title": "CERN has begun disconnecting the Large Hadron Collider",
+      "fetched_at": "2026-09-25T16:05:04.445226+00:00"
+    },
+    "b339bac9345edd49": {
+      "title": "Earth is tearing apart beneath the Pacific Northwest",
+      "fetched_at": "2026-09-25T16:05:05.073743+00:00"
     }
   },
-  "last_updated": "2026-09-25T10:45:50.169703+00:00"
+  "last_updated": "2026-09-25T16:05:05.198354+00:00"
 }

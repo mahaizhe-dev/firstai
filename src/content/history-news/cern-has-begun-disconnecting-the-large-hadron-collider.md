@@ -1,0 +1,10 @@
+---
+title: 'CERN has begun disconnecting the Large Hadron Collider'
+description: 'CERN has started replacing some of the Large Hadron Collider’s most important magnets as part of its High-Luminosity upgrade. The new superconducting magnets will produce fields about 40% stronger, al'
+pubDate: 2026-09-25T09:01:20
+source: 'Science Daily'
+sourceUrl: 'https://www.sciencedaily.com/releases/2026/09/260925005430.htm'
+tags: []
+---
+
+CERN has started replacing some of the Large Hadron Collider’s most important magnets as part of its High-Luminosity upgrade. The new superconducting magnets will produce fields about 40% stronger, allowing particle beams to be squeezed more tightly before they collide. That should create far more collisions for the ATLAS and CMS experiments to analyze, giving physicists a much larger window into the fundamental workings of the universe.
