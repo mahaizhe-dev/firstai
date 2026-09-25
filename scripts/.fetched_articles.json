@@ -1,41 +1,5 @@
 {
   "articles": {
-    "7e2d7c871b7e8593": {
-      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
-      "fetched_at": "2026-09-17T02:14:09.218459+00:00"
-    },
-    "d3aec3783d97d01a": {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "fetched_at": "2026-09-17T02:14:09.797180+00:00"
-    },
-    "dba3cd0b8e5de30d": {
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "fetched_at": "2026-09-17T02:14:10.366837+00:00"
-    },
-    "3925ef74249b07a3": {
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "fetched_at": "2026-09-17T02:14:10.942611+00:00"
-    },
-    "1f8bbf109e10afca": {
-      "title": "“习特会”前伊朗外长访华，北京“敲打”华盛顿",
-      "fetched_at": "2026-09-17T02:14:13.916464+00:00"
-    },
-    "d46ceffd98879e4a": {
-      "title": "成本高昂、弹药短缺：报告披露美国伊朗战争的代价",
-      "fetched_at": "2026-09-17T02:14:14.492506+00:00"
-    },
-    "e7f9f91207768ad4": {
-      "title": "你敢請病假嗎？背後反映什麼人格特質和職場文化？",
-      "fetched_at": "2026-09-17T02:14:15.092335+00:00"
-    },
-    "146dee0111131f1b": {
-      "title": "美中峰會前，蕭美琴訪歐背後的「利基」外交",
-      "fetched_at": "2026-09-17T02:14:15.669577+00:00"
-    },
-    "bda9dac36b7aee49": {
-      "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
-      "fetched_at": "2026-09-17T02:14:18.615900+00:00"
-    },
     "2fc47b3f04bbeb5f": {
       "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
       "fetched_at": "2026-09-17T10:35:59.582146+00:00"
@@ -3203,7 +3167,111 @@
     "2935a742b0bad929": {
       "title": "Is This Ancient Wall Under Central Paris From the City's Earliest Settlement?",
       "fetched_at": "2026-09-24T20:53:53.473504+00:00"
+    },
+    "1342829257d20282": {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "fetched_at": "2026-09-25T02:19:32.994371+00:00"
+    },
+    "01a70787ef67ed84": {
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "fetched_at": "2026-09-25T02:19:33.651890+00:00"
+    },
+    "1893dc5f14fcd8aa": {
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "fetched_at": "2026-09-25T02:19:34.240999+00:00"
+    },
+    "556bc78754bc2704": {
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "fetched_at": "2026-09-25T02:19:34.832833+00:00"
+    },
+    "9837ea24770abecb": {
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "fetched_at": "2026-09-25T02:19:35.415590+00:00"
+    },
+    "7a6dcfd7b14018de": {
+      "title": "Muse will apparently let you download its entire filesystem",
+      "fetched_at": "2026-09-25T02:19:36.005877+00:00"
+    },
+    "8dad8e5f4464e15e": {
+      "title": "Muse sure looks a lot like OpenClaw",
+      "fetched_at": "2026-09-25T02:19:36.596186+00:00"
+    },
+    "fd3ee3519d93da50": {
+      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "fetched_at": "2026-09-25T02:19:37.276838+00:00"
+    },
+    "20fac00265f0b6a5": {
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "fetched_at": "2026-09-25T02:19:37.863312+00:00"
+    },
+    "7a622b5cc97e5846": {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "fetched_at": "2026-09-25T02:19:38.460520+00:00"
+    },
+    "ba39f0ffd45c7ec2": {
+      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "fetched_at": "2026-09-25T02:19:39.045286+00:00"
+    },
+    "378fb9ea264b2c36": {
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "fetched_at": "2026-09-25T02:19:39.636420+00:00"
+    },
+    "544d3203f7c481fd": {
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-25T02:19:40.228639+00:00"
+    },
+    "b474849f42de8ece": {
+      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+      "fetched_at": "2026-09-25T02:19:40.806431+00:00"
+    },
+    "3338741e7aea7262": {
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "fetched_at": "2026-09-25T02:19:41.397883+00:00"
+    },
+    "6b678f819d1be48e": {
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "fetched_at": "2026-09-25T02:19:41.969557+00:00"
+    },
+    "c22b76dd6f77d4d9": {
+      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "fetched_at": "2026-09-25T02:19:42.605539+00:00"
+    },
+    "04b871e951f47c84": {
+      "title": "Google is sending an AI satellite into space next week",
+      "fetched_at": "2026-09-25T02:19:43.194333+00:00"
+    },
+    "7df194f751b960a1": {
+      "title": "The vibes are bad for Flock in Washington",
+      "fetched_at": "2026-09-25T02:19:43.779713+00:00"
+    },
+    "a58814543c68d25c": {
+      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+      "fetched_at": "2026-09-25T02:19:44.361713+00:00"
+    },
+    "bd7f901f634d99db": {
+      "title": "“习特会”国宴菜单：芝麻脆皮海鲈鱼和爽脆嫩白菜",
+      "fetched_at": "2026-09-25T02:19:47.188302+00:00"
+    },
+    "94fb9e8045c07893": {
+      "title": "「讓女性感到被看見」：為何荷蘭人為陰唇創造了一個新詞？",
+      "fetched_at": "2026-09-25T02:19:47.973761+00:00"
+    },
+    "521b9da822449204": {
+      "title": "習近平訪美排場十足，但迄今進展甚微",
+      "fetched_at": "2026-09-25T02:19:48.551814+00:00"
+    },
+    "fe4f315148c2183b": {
+      "title": "Archaeologists discover 'tomb of the very highest rank' in 2,700-year-old Etruscan cemetery",
+      "fetched_at": "2026-09-25T02:19:50.934267+00:00"
+    },
+    "61f559c732b209de": {
+      "title": "Roman Fortress Gate in Romania Unearthed",
+      "fetched_at": "2026-09-25T02:19:51.511312+00:00"
+    },
+    "bacaa239722167bd": {
+      "title": "Show HN: AIR – discovery scores for 1,800 US small-caps, never restated",
+      "fetched_at": "2026-09-25T02:19:52.164095+00:00"
     }
   },
-  "last_updated": "2026-09-24T20:53:53.547691+00:00"
+  "last_updated": "2026-09-25T02:19:52.232792+00:00"
 }
