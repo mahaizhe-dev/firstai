@@ -1,89 +1,5 @@
 {
   "articles": {
-    "fb14b50513b0eb5a": {
-      "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
-      "fetched_at": "2026-09-18T02:00:27.879163+00:00"
-    },
-    "a7be17cd1e9208e7": {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "fetched_at": "2026-09-18T02:00:28.527522+00:00"
-    },
-    "f2dcefeec5fad16c": {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "fetched_at": "2026-09-18T02:00:29.170375+00:00"
-    },
-    "e5863101c6789f99": {
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "fetched_at": "2026-09-18T02:00:29.800329+00:00"
-    },
-    "bc6a7209e18a2895": {
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "fetched_at": "2026-09-18T02:00:30.435339+00:00"
-    },
-    "7a734dde26f1644a": {
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "fetched_at": "2026-09-18T02:00:31.089237+00:00"
-    },
-    "adcb5191abe83a08": {
-      "title": "Even the king of England has his hesitations about AI",
-      "fetched_at": "2026-09-18T02:00:31.738249+00:00"
-    },
-    "f6a3eb94e06e0992": {
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "fetched_at": "2026-09-18T02:00:32.374307+00:00"
-    },
-    "09aeae58ce98b65d": {
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "fetched_at": "2026-09-18T02:00:33.018632+00:00"
-    },
-    "409c71401bb00ea0": {
-      "title": "AI is feared globally as the destroyer of jobs",
-      "fetched_at": "2026-09-18T02:00:33.661908+00:00"
-    },
-    "86d27de398983e77": {
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-18T02:00:34.310661+00:00"
-    },
-    "8b811b03416edfbf": {
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "fetched_at": "2026-09-18T02:00:34.956155+00:00"
-    },
-    "c7f3590e8ffd6d53": {
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "fetched_at": "2026-09-18T02:00:35.628290+00:00"
-    },
-    "500e01d983572a8b": {
-      "title": "Inside the suddenly explosive world of AI safety",
-      "fetched_at": "2026-09-18T02:00:36.264798+00:00"
-    },
-    "4ce96e1a275b2b0a": {
-      "title": "城市漫步指南｜威海初秋，看海玩沙",
-      "fetched_at": "2026-09-18T02:00:36.897247+00:00"
-    },
-    "a20f216f715ae5d9": {
-      "title": "美国提出延长对伊朗核计划监督期限，中俄投票否决",
-      "fetched_at": "2026-09-18T02:00:41.416582+00:00"
-    },
-    "6e84bbb4c2c78466": {
-      "title": "美國科技巨頭呼籲放緩AI發展速度——中國怎麼看？",
-      "fetched_at": "2026-09-18T02:00:42.074052+00:00"
-    },
-    "1873425a243984e7": {
-      "title": "習近平訪美前瞻：當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
-      "fetched_at": "2026-09-18T02:00:42.714416+00:00"
-    },
-    "c1a14260f6038ac7": {
-      "title": "全球经济回旋余地正在减少，前景恶化",
-      "fetched_at": "2026-09-18T02:00:43.355131+00:00"
-    },
-    "d1d7976889c00965": {
-      "title": "Watch the first-ever footage of a rare deep-sea squid in the northeastern Pacific",
-      "fetched_at": "2026-09-18T02:00:59.102910+00:00"
-    },
-    "db0c3166d1f7136f": {
-      "title": "The 'ancient' rules of the game behind Snakes and Ladders were invented in 1975",
-      "fetched_at": "2026-09-18T02:00:59.742976+00:00"
-    },
     "73c8c550511e29fb": {
       "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
       "fetched_at": "2026-09-18T10:11:52.576464+00:00"
@@ -3283,7 +3199,55 @@
     "02b7397154fa3dff": {
       "title": "'Predatory behavior': Elite mathematicians clash over OpenAI's 'solution' to million-dollar math problem",
       "fetched_at": "2026-09-25T20:51:31.145300+00:00"
+    },
+    "b29743b9a5b2de58": {
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "fetched_at": "2026-09-26T02:24:21.784185+00:00"
+    },
+    "ec6e222a80e03640": {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "fetched_at": "2026-09-26T02:24:22.405520+00:00"
+    },
+    "31f55da8772e8916": {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "fetched_at": "2026-09-26T02:24:23.022932+00:00"
+    },
+    "5ef0c92e0d493e94": {
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "fetched_at": "2026-09-26T02:24:23.643030+00:00"
+    },
+    "f83f7106c75183c0": {
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "fetched_at": "2026-09-26T02:24:24.257617+00:00"
+    },
+    "e720550b4039fc29": {
+      "title": "Astra and Opus just passed Turing’s other test",
+      "fetched_at": "2026-09-26T02:24:24.875721+00:00"
+    },
+    "539e54967d066d6f": {
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "fetched_at": "2026-09-26T02:24:25.514015+00:00"
+    },
+    "dbbe77db6e8b9422": {
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "fetched_at": "2026-09-26T02:24:26.133083+00:00"
+    },
+    "ac318f59d16ad830": {
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "fetched_at": "2026-09-26T02:24:26.767545+00:00"
+    },
+    "1cd55b9b71c09eec": {
+      "title": "中美贸易休战延长为习近平赢得喘息之机",
+      "fetched_at": "2026-09-26T02:24:29.847644+00:00"
+    },
+    "e5e1f85ec847581e": {
+      "title": "NASA teases new PRIMA telescope that could see what even the James Webb telescope can't",
+      "fetched_at": "2026-09-26T02:24:32.517168+00:00"
+    },
+    "aa19b3e7f92a0f9f": {
+      "title": "Scientists identify rare genetic mutation that dramatically raises risk of lung cancer in nonsmokers",
+      "fetched_at": "2026-09-26T02:24:33.145547+00:00"
     }
   },
-  "last_updated": "2026-09-25T20:51:31.199368+00:00"
+  "last_updated": "2026-09-26T02:24:33.235731+00:00"
 }
