@@ -1,0 +1,10 @@
+---
+title: 'Show HN: An AI wedding concierge I built and ran at my own 300-person wedding'
+description: 'I''m an American who got married to a Mauritian this past May. We had our Hindu wedding in my wife''s home country of Mauritius. My family and friends are not Hindu, and certainly had never been to the '
+pubDate: 2026-09-27T19:50:19
+source: 'Hacker News'
+sourceUrl: 'https://ai-do.io/demo'
+tags: []
+---
+
+I'm an American who got married to a Mauritian this past May. We had our Hindu wedding in my wife's home country of Mauritius. My family and friends are not Hindu, and certainly had never been to the tiny island of Mauritius (it's off the coast of Madagascar in case you were wondering).My wife and I arrived in Mauritius only two weeks before the start of the wedding to put the final preparations in place. I dreaded the prospect of answering a billion questions from my guests while trying to do this. I also dreaded them not having a way to find the answers.So I made an AI app that acted as a guest concierge. At first I simply made a wedding db, seeded it with our info, connected an MCP server with tools to it, connected the agent to it, and gave all my guests an invite link to use it.Scope creep took over and now I have an entire AI platform for planning weddings and being a guest concierge. The two sides are actually really complementary to each other: to make the ai answer correctly, you need a knowledge base. So the wedding planning aspect just kind of happened as a result.There's so much more to this and I'm more than happy to discuss everything I've learned -- for example, the number one thing my guests did with the ai on the day of the ceremony was try to jailbreak it.The demo I'm sharing here is an example wedding where you get to act as a guest and can interact with the ai concierge. I hope you find it interesting! Comments URL: https://news.ycombinator.com/item?id=49870185 Points: 1 # Comments: 0

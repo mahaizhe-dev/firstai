@@ -1,101 +1,5 @@
 {
   "articles": {
-    "c899c62adfa0d314": {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "fetched_at": "2026-09-19T19:43:48.662117+00:00"
-    },
-    "e41859bcc3a59c79": {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "fetched_at": "2026-09-19T19:43:49.317638+00:00"
-    },
-    "3c15e6192fbf2391": {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "fetched_at": "2026-09-19T19:43:49.935843+00:00"
-    },
-    "ca8bff679cb16c7d": {
-      "title": "AI safety conversations have gotten unbelievable",
-      "fetched_at": "2026-09-19T19:43:50.548938+00:00"
-    },
-    "f381e5e7d2628957": {
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "fetched_at": "2026-09-19T19:43:51.171727+00:00"
-    },
-    "85f6a8c5dee88c26": {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "fetched_at": "2026-09-19T19:43:51.795260+00:00"
-    },
-    "4937e3087b8e695c": {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "fetched_at": "2026-09-19T19:43:52.421958+00:00"
-    },
-    "089daeaf151cba31": {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "fetched_at": "2026-09-19T19:43:53.037477+00:00"
-    },
-    "68df75d0b24a2399": {
-      "title": "World model companies are keeping a lot of secrets",
-      "fetched_at": "2026-09-19T19:43:53.730862+00:00"
-    },
-    "b5d593e6806adcc7": {
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "fetched_at": "2026-09-19T19:43:54.356156+00:00"
-    },
-    "27d37efa498270a5": {
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "fetched_at": "2026-09-19T19:43:54.985294+00:00"
-    },
-    "e9559485cd66a2a4": {
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "fetched_at": "2026-09-19T19:43:55.610709+00:00"
-    },
-    "f4357b6f6fd8e07e": {
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "fetched_at": "2026-09-19T19:43:56.220792+00:00"
-    },
-    "c26fee07604d4fb6": {
-      "title": "Gavin Newsom is pushing for an AI kill switch",
-      "fetched_at": "2026-09-19T19:43:56.844939+00:00"
-    },
-    "d509d0559be7b7e8": {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "fetched_at": "2026-09-19T19:43:57.459685+00:00"
-    },
-    "6a36fb74b24a98d8": {
-      "title": "What Hollywood thinks about existential AI warnings",
-      "fetched_at": "2026-09-19T19:43:58.097825+00:00"
-    },
-    "be147a913be25f10": {
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "fetched_at": "2026-09-19T19:43:58.716668+00:00"
-    },
-    "6c2c826bb9916692": {
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-19T19:43:59.346229+00:00"
-    },
-    "1924903d6abf6ac1": {
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "fetched_at": "2026-09-19T19:43:59.966722+00:00"
-    },
-    "f21b058883b1c86c": {
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "fetched_at": "2026-09-19T19:44:00.606216+00:00"
-    },
-    "b277f9fc9c3cb079": {
-      "title": "香港支聯會「煽動顛覆」案：被告們的伴侶與戰友",
-      "fetched_at": "2026-09-19T19:44:04.266942+00:00"
-    },
-    "d7f83d41bca1a27f": {
-      "title": "為甚麼我們會記錯911事件？",
-      "fetched_at": "2026-09-19T19:44:04.903825+00:00"
-    },
-    "9bd90f1e6325c11a": {
-      "title": "Finland's largest Viking Age silver hoard discovered by metal detectorist — and it has thousands of coins and pieces of jewelry",
-      "fetched_at": "2026-09-19T19:44:07.380582+00:00"
-    },
-    "5fdfa9dd204bf477": {
-      "title": "'Every time it gets excited — boom — it collapses': How dogs with narcolepsy helped scientists understand the disorder",
-      "fetched_at": "2026-09-19T19:44:08.005307+00:00"
-    },
     "652aac71de35491a": {
       "title": "AI Bubble: 'They're coming to the end of this' – Eli the Computer Guy [video]",
       "fetched_at": "2026-09-20T02:10:22.074335+00:00"
@@ -3139,7 +3043,95 @@
     "a8825a19ed9315aa": {
       "title": "Scientists say house cats could help unlock better cancer treatments for humans",
       "fetched_at": "2026-09-27T15:57:06.854651+00:00"
+    },
+    "3beb073166cb255a": {
+      "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+      "fetched_at": "2026-09-27T20:33:26.526934+00:00"
+    },
+    "5dfd6b8df27afd71": {
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "fetched_at": "2026-09-27T20:33:27.094338+00:00"
+    },
+    "7a7ff501473df312": {
+      "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
+      "fetched_at": "2026-09-27T20:33:27.667978+00:00"
+    },
+    "2fcaf8409bdbdb07": {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "fetched_at": "2026-09-27T20:33:28.236534+00:00"
+    },
+    "9229c09fe817a1e5": {
+      "title": "Show HN: An AI wedding concierge I built and ran at my own 300-person wedding",
+      "fetched_at": "2026-09-27T20:33:29.190754+00:00"
+    },
+    "c57af4d24075c473": {
+      "title": "Corporate America embraces cheaper 'open' AI models",
+      "fetched_at": "2026-09-27T20:33:29.757795+00:00"
+    },
+    "df34f573f6fee9e9": {
+      "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+      "fetched_at": "2026-09-27T20:33:30.336802+00:00"
+    },
+    "9c53ce6f4784e2c8": {
+      "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+      "fetched_at": "2026-09-27T20:33:30.901220+00:00"
+    },
+    "dfdff800fc2bc0d3": {
+      "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+      "fetched_at": "2026-09-27T20:33:31.464565+00:00"
+    },
+    "e499ea174cdc6395": {
+      "title": "AI Companies Say They're Investigating Rogue Bot Incidents",
+      "fetched_at": "2026-09-27T20:33:32.089557+00:00"
+    },
+    "ecc9073b3f48a373": {
+      "title": "Heypcb: Figma for Hardware, with AI",
+      "fetched_at": "2026-09-27T20:33:32.659825+00:00"
+    },
+    "6c2778ed3ef1a5ec": {
+      "title": "Show HN: Asimov's 4 Laws for AI Contexts",
+      "fetched_at": "2026-09-27T20:33:33.221982+00:00"
+    },
+    "73386d5488ddd39a": {
+      "title": "He's Terrified of AI–and He's About to Make Billions Off It",
+      "fetched_at": "2026-09-27T20:33:34.227824+00:00"
+    },
+    "3d8507636f68a28b": {
+      "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
+      "fetched_at": "2026-09-27T20:33:34.803890+00:00"
+    },
+    "b0881b7b4fcc5419": {
+      "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+      "fetched_at": "2026-09-27T20:33:35.769743+00:00"
+    },
+    "cc10d556df255449": {
+      "title": "X Files – Ghost in the Machine",
+      "fetched_at": "2026-09-27T20:33:36.332800+00:00"
+    },
+    "343d54417e41bb95": {
+      "title": "Ask HN: What am I missing with Siri AI?",
+      "fetched_at": "2026-09-27T20:33:36.902025+00:00"
+    },
+    "95df905b618246a3": {
+      "title": "Show HN: iPulse AI – Visitors can inspect disagreement across debating agents",
+      "fetched_at": "2026-09-27T20:33:37.475230+00:00"
+    },
+    "c794072152793468": {
+      "title": "Google OpenAI Anthropic Begin Forming SAFA – Standards Authority for Frontier AI",
+      "fetched_at": "2026-09-27T20:33:38.037987+00:00"
+    },
+    "2dffbae6ddd44a0b": {
+      "title": "The NSA Is Spending Billions to Test AI Models, Classified Estimates Show",
+      "fetched_at": "2026-09-27T20:33:38.601741+00:00"
+    },
+    "d0f8f46310983fc9": {
+      "title": "Scientists build a DNA computer that can perform calculations in a drop of water",
+      "fetched_at": "2026-09-27T20:33:43.796906+00:00"
+    },
+    "c082a8595f7dd2a7": {
+      "title": "Why does blond hair tend to darken with age?",
+      "fetched_at": "2026-09-27T20:33:44.374217+00:00"
     }
   },
-  "last_updated": "2026-09-27T15:57:06.980919+00:00"
+  "last_updated": "2026-09-27T20:33:44.491676+00:00"
 }
