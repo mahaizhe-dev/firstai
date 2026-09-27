@@ -1,105 +1,5 @@
 {
   "articles": {
-    "ed4ba320e9a9e4bf": {
-      "title": "Kev – A Jev-Compatible API on top of DiffusionGemma running on Workers AI",
-      "fetched_at": "2026-09-19T02:05:04.329976+00:00"
-    },
-    "25a56a437d2376ec": {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "fetched_at": "2026-09-19T02:05:04.935564+00:00"
-    },
-    "676ca6dc189d46fc": {
-      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-      "fetched_at": "2026-09-19T02:05:05.575367+00:00"
-    },
-    "2253e7da04436096": {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "fetched_at": "2026-09-19T02:05:06.187479+00:00"
-    },
-    "e1da2bd5c507fe0f": {
-      "title": "Federated Learning Is Not Private for Google GBoard Next Word Prediction [pdf]",
-      "fetched_at": "2026-09-19T02:05:06.787197+00:00"
-    },
-    "e1d9ddaffb642597": {
-      "title": "The Great Unbundling of the LLM",
-      "fetched_at": "2026-09-19T02:05:07.386260+00:00"
-    },
-    "a101a01254683043": {
-      "title": "Radar: An Expert-Level Generalist AI for Abdominal CT Diagnosis",
-      "fetched_at": "2026-09-19T02:05:07.972273+00:00"
-    },
-    "0ec0c55f9384f79c": {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "fetched_at": "2026-09-19T02:05:08.580328+00:00"
-    },
-    "4ea95b7ab0ea2643": {
-      "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
-      "fetched_at": "2026-09-19T02:05:09.179201+00:00"
-    },
-    "f8813cdf249fef74": {
-      "title": "Machine Gods – the official podcast of the singularity",
-      "fetched_at": "2026-09-19T02:05:09.778822+00:00"
-    },
-    "b57cf2b74d6115cc": {
-      "title": "AI insiders issue new warnings – including former Anthropic engineer Jacob Coxon",
-      "fetched_at": "2026-09-19T02:05:10.362519+00:00"
-    },
-    "d6c791949a62114b": {
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "fetched_at": "2026-09-19T02:05:10.965065+00:00"
-    },
-    "210cbe6c4f909af9": {
-      "title": "TypeSafe AI's Jev Is Not an LLM – and That May Be the Point",
-      "fetched_at": "2026-09-19T02:05:11.571541+00:00"
-    },
-    "921ddd3e07c0477d": {
-      "title": "AI-based learning is a joke",
-      "fetched_at": "2026-09-19T02:05:12.180781+00:00"
-    },
-    "c4ff0191dbfd18cc": {
-      "title": "Score Centering Stabilizes Off-Policy Reinforcement Learning",
-      "fetched_at": "2026-09-19T02:05:12.787515+00:00"
-    },
-    "2d242dcfc6d66ee6": {
-      "title": "The Other Way AI Impairs Our Thinking",
-      "fetched_at": "2026-09-19T02:05:13.392374+00:00"
-    },
-    "4d660a1fe47a1a12": {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "fetched_at": "2026-09-19T02:05:13.997042+00:00"
-    },
-    "ba74b8c2c2be5625": {
-      "title": "US gov website used AI search tool from China that FBI said copied Anthropic",
-      "fetched_at": "2026-09-19T02:05:14.595196+00:00"
-    },
-    "6cd0ac843fdc4b73": {
-      "title": "Compsci grads facing recession-like job prospects thanks to AI",
-      "fetched_at": "2026-09-19T02:05:15.181671+00:00"
-    },
-    "2eefed9c2afd9a83": {
-      "title": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
-      "fetched_at": "2026-09-19T02:05:15.783871+00:00"
-    },
-    "10548bd2ae2a5c84": {
-      "title": "Analysis busts myths of Roman road network, offers insight into ancient world",
-      "fetched_at": "2026-09-19T02:05:23.496678+00:00"
-    },
-    "873f7b32c15627fe": {
-      "title": "1 million people's genes reveal the heritability of the Big Five personality traits — and it's complicated",
-      "fetched_at": "2026-09-19T02:05:24.118142+00:00"
-    },
-    "8baad207e81af27f": {
-      "title": "Mercury may have shrunk much more than we thought, new study hints",
-      "fetched_at": "2026-09-19T02:05:24.705366+00:00"
-    },
-    "3a7e37d27ede3065": {
-      "title": "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say",
-      "fetched_at": "2026-09-19T02:05:25.310701+00:00"
-    },
-    "9f6de8d99b3cb1b8": {
-      "title": "Canon RF 20mm f/1.4L VCM review: Wide, bright and built for the dark",
-      "fetched_at": "2026-09-19T02:05:25.926511+00:00"
-    },
     "5767864790f044ab": {
       "title": "SwarmAuth – OAuth 2.1 for AI Agent Swarms",
       "fetched_at": "2026-09-19T09:53:10.477866+00:00"
@@ -3263,7 +3163,95 @@
     "c42553acfac34de5": {
       "title": "Don’t toss cannabis leaves: They may contain rare compounds with medical potential",
       "fetched_at": "2026-09-26T20:19:28.496505+00:00"
+    },
+    "54c2328c3c7f2239": {
+      "title": "Show HN: FinderySearch – The AI powered smart search engine",
+      "fetched_at": "2026-09-27T02:20:25.628818+00:00"
+    },
+    "39615109234d4a36": {
+      "title": "Ask HN: Are you unfollowing friends on GitHub because of AI slop?",
+      "fetched_at": "2026-09-27T02:20:26.264349+00:00"
+    },
+    "f5695061901fa4b2": {
+      "title": "Check is your OpenAI GPT-6-Astra nerfed?",
+      "fetched_at": "2026-09-27T02:20:26.892508+00:00"
+    },
+    "b98f80f32f848049": {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "fetched_at": "2026-09-27T02:20:27.530345+00:00"
+    },
+    "4e6cb4389f26bcde": {
+      "title": "Insurers claim AI is increasing healthcare costs",
+      "fetched_at": "2026-09-27T02:20:28.155780+00:00"
+    },
+    "b4da38850ffab0a5": {
+      "title": "Play Diplomacy against AIs like Claude or GPT: they betray, scheme, etc.",
+      "fetched_at": "2026-09-27T02:20:28.836523+00:00"
+    },
+    "a1d154ee133a68d5": {
+      "title": "The AI Doomsday Future Is Not Inevitable",
+      "fetched_at": "2026-09-27T02:20:29.470947+00:00"
+    },
+    "3b0ca346ec7693bc": {
+      "title": "LLM Policies: Progress at All Costs",
+      "fetched_at": "2026-09-27T02:20:30.102261+00:00"
+    },
+    "f1c72d37710f2a87": {
+      "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+      "fetched_at": "2026-09-27T02:20:30.729440+00:00"
+    },
+    "751f1be8ad76c445": {
+      "title": "What reversing, modernising old games tells us about the economic impact of AI",
+      "fetched_at": "2026-09-27T02:20:31.419115+00:00"
+    },
+    "46d73992ddb7b747": {
+      "title": "Top AI companies probing security incidents",
+      "fetched_at": "2026-09-27T02:20:32.084663+00:00"
+    },
+    "2c99ececb67295c3": {
+      "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+      "fetched_at": "2026-09-27T02:20:32.719463+00:00"
+    },
+    "a5154401253d20c0": {
+      "title": "Ask HN: Any books, list of papers, or articles to understand LLM's",
+      "fetched_at": "2026-09-27T02:20:33.428649+00:00"
+    },
+    "73b8a3b874e00112": {
+      "title": "Show HN: Newt – A Swift Package for Jev-Style Decisions on Apple Core AI",
+      "fetched_at": "2026-09-27T02:20:34.089882+00:00"
+    },
+    "dc9d4594c25b0d01": {
+      "title": "Tyler Cowen: A Doomsday Scenario for American AI",
+      "fetched_at": "2026-09-27T02:20:34.730474+00:00"
+    },
+    "5f02ec9ac010e542": {
+      "title": "Solus Linux Adopts Formal AI and LLM Contribution Policy",
+      "fetched_at": "2026-09-27T02:20:35.367075+00:00"
+    },
+    "052fea7801d9ddf2": {
+      "title": "AI Political Alignment Quiz",
+      "fetched_at": "2026-09-27T02:20:35.994579+00:00"
+    },
+    "2e2265d42e2a93fc": {
+      "title": "AI Data Center Are Monkey Business [video]",
+      "fetched_at": "2026-09-27T02:20:36.625969+00:00"
+    },
+    "715a411869f3b921": {
+      "title": "A Simple Puzzle Reveals the Jagged Edge of AI's Abilities",
+      "fetched_at": "2026-09-27T02:20:37.282580+00:00"
+    },
+    "a127a886c4a108ab": {
+      "title": "Financing the AI Buildout [pdf]",
+      "fetched_at": "2026-09-27T02:20:37.924800+00:00"
+    },
+    "a0153ca7833dd162": {
+      "title": "中國年輕人的「學術偶像」項飆：他讀懂了一代人的焦慮",
+      "fetched_at": "2026-09-27T02:20:40.331410+00:00"
+    },
+    "781504e288f6d359": {
+      "title": "'Of course I am worried': Live Science readers react to US weapons in space",
+      "fetched_at": "2026-09-27T02:20:42.287288+00:00"
     }
   },
-  "last_updated": "2026-09-26T20:19:28.564067+00:00"
+  "last_updated": "2026-09-27T02:20:42.412094+00:00"
 }
