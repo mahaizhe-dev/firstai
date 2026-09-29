@@ -1,149 +1,5 @@
 {
   "articles": {
-    "c0495633a994c3a8": {
-      "title": "Show HN: Audit your site's structure for AI search crawlers (ChatGPT, Claude)",
-      "fetched_at": "2026-09-21T11:20:18.102414+00:00"
-    },
-    "f56738745f085c12": {
-      "title": "Amazon blocks Meta's Muse AI agent from checkouts",
-      "fetched_at": "2026-09-21T11:20:18.717350+00:00"
-    },
-    "8d423322ed0cb2d0": {
-      "title": "Show HN: Witdem – Did your AI Agent accomplish its task? and at what cost?",
-      "fetched_at": "2026-09-21T11:20:19.339594+00:00"
-    },
-    "988bc19efbdde26f": {
-      "title": "Show HN: Skillgesture – versioned, on-demand skills for AI agents",
-      "fetched_at": "2026-09-21T11:20:19.964623+00:00"
-    },
-    "32b10df06640795c": {
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "fetched_at": "2026-09-21T11:20:20.588035+00:00"
-    },
-    "fb572986870deda2": {
-      "title": "What re AI in software engineering are you struggling with the most?",
-      "fetched_at": "2026-09-21T11:20:21.230135+00:00"
-    },
-    "c5fcc9ce9100faf9": {
-      "title": "Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)",
-      "fetched_at": "2026-09-21T11:20:21.869970+00:00"
-    },
-    "d6bc37f12d282a4f": {
-      "title": "Show HN: Proxy-benchmark – is it the proxy, the browser, or your machine?",
-      "fetched_at": "2026-09-21T11:20:22.492909+00:00"
-    },
-    "b3ec1a540a8ec6af": {
-      "title": "AI is reaching new highs with AROM Labs",
-      "fetched_at": "2026-09-21T11:20:23.155394+00:00"
-    },
-    "7e7d6a20d1525ac3": {
-      "title": "Show HN: Open Source AI Employees",
-      "fetched_at": "2026-09-21T11:20:23.804537+00:00"
-    },
-    "3920238d29bfd557": {
-      "title": "A thing we may be able to learn from AI",
-      "fetched_at": "2026-09-21T11:20:24.427764+00:00"
-    },
-    "dee5ec3ea83b46a0": {
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "fetched_at": "2026-09-21T11:20:25.054796+00:00"
-    },
-    "da568283adb4cd89": {
-      "title": "AI Poster Prompts Improved",
-      "fetched_at": "2026-09-21T11:20:25.688095+00:00"
-    },
-    "f394752d731af818": {
-      "title": "派评 | 近期值得关注的 App",
-      "fetched_at": "2026-09-21T11:20:26.322236+00:00"
-    },
-    "7fc86793cc3485f9": {
-      "title": "Engineering Memory: Thoughts on learning to memorize first 100 digits of pi",
-      "fetched_at": "2026-09-21T11:20:26.975412+00:00"
-    },
-    "6e350341be5c9a16": {
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-      "fetched_at": "2026-09-21T11:20:27.599405+00:00"
-    },
-    "d029c1641f739869": {
-      "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
-      "fetched_at": "2026-09-21T11:20:28.228298+00:00"
-    },
-    "22040ef2e0149519": {
-      "title": "Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust",
-      "fetched_at": "2026-09-21T11:20:28.862131+00:00"
-    },
-    "f6ce289590f92e61": {
-      "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
-      "fetched_at": "2026-09-21T11:20:29.687663+00:00"
-    },
-    "fe884eadb2d4c54a": {
-      "title": "I'm afraid of spiders. So I made AI look at 2k of them",
-      "fetched_at": "2026-09-21T11:20:30.318010+00:00"
-    },
-    "12cd8b069d0d2738": {
-      "title": "中國與巴基斯坦新邊界安排為何引起印度不滿？",
-      "fetched_at": "2026-09-21T11:20:32.349258+00:00"
-    },
-    "72562718fa1a52b1": {
-      "title": "戴安娜弟弟出書談王室 查爾斯曾稱她「很快會被遺忘」",
-      "fetched_at": "2026-09-21T11:20:32.973544+00:00"
-    },
-    "f573215b476671ed": {
-      "title": "中共五中全會日期敲定 習近平政治地位新提法成看點",
-      "fetched_at": "2026-09-21T11:20:33.605413+00:00"
-    },
-    "e02bd4b6a493f512": {
-      "title": "Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」",
-      "fetched_at": "2026-09-21T11:20:34.234263+00:00"
-    },
-    "57205fc156e4fd04": {
-      "title": "他們聯手追查校長性侵指控，也在追尋公義的路上成為夫妻",
-      "fetched_at": "2026-09-21T11:20:34.880771+00:00"
-    },
-    "b3f6a60a88d581bc": {
-      "title": "习近平以强势姿态访美，特朗普该与他讨论什么？",
-      "fetched_at": "2026-09-21T11:20:35.513458+00:00"
-    },
-    "53c3d27a7165641c": {
-      "title": "特朗普向金正恩示好，习近平或借机“卖人情”？",
-      "fetched_at": "2026-09-21T11:20:36.141872+00:00"
-    },
-    "366bc06374d47945": {
-      "title": "中国伊朗利用开源AI展开大规模影响力行动",
-      "fetched_at": "2026-09-21T11:20:36.782137+00:00"
-    },
-    "1244dfcaea67596e": {
-      "title": "白宫内部关于人工智能威胁的复杂辩论",
-      "fetched_at": "2026-09-21T11:20:37.442808+00:00"
-    },
-    "37cf14c132eb3915": {
-      "title": "时报出版人：175年、1500万篇报道讲述的美国故事",
-      "fetched_at": "2026-09-21T11:20:38.064561+00:00"
-    },
-    "0f0fd075cc287d9f": {
-      "title": "Funeral mask: A 2,000-year-old gold face covering designed to confuse the deceased's spirit so it didn't torment the living",
-      "fetched_at": "2026-09-21T11:20:40.658781+00:00"
-    },
-    "d0ec9571e1462ef3": {
-      "title": "The devastating Nepal floods highlighted the danger of glaciers. Here's where the next disaster may occur.",
-      "fetched_at": "2026-09-21T11:20:41.287811+00:00"
-    },
-    "a4c4b74fc662090c": {
-      "title": "What kills Schrödinger’s cat? Gravity may not be the answer",
-      "fetched_at": "2026-09-21T11:20:41.918895+00:00"
-    },
-    "6e2f6f9c69649ae4": {
-      "title": "AI writing debate is similar to the one that rocked ancient Greece 2700 yrs ago",
-      "fetched_at": "2026-09-21T11:20:42.540580+00:00"
-    },
-    "1c095f0c10d2dc9d": {
-      "title": "Researcher receives Lasker Award for discovery that transformed narcolepsy care",
-      "fetched_at": "2026-09-21T11:20:43.186707+00:00"
-    },
-    "8a510ed982dccd33": {
-      "title": "Small Asian Grocery Stores Can Improve Local Product Discovery",
-      "fetched_at": "2026-09-21T11:20:43.832480+00:00"
-    },
     "b68cabd7d56af479": {
       "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
       "fetched_at": "2026-09-21T17:21:37.502450+00:00"
@@ -3107,7 +2963,155 @@
     "9303d8ce05e685f4": {
       "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
       "fetched_at": "2026-09-29T03:08:15.876244+00:00"
+    },
+    "1c34c34a8785a487": {
+      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+      "fetched_at": "2026-09-29T11:44:48.036935+00:00"
+    },
+    "844e0bb59fbfdd72": {
+      "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
+      "fetched_at": "2026-09-29T11:44:48.690378+00:00"
+    },
+    "2a310b11690b905b": {
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "fetched_at": "2026-09-29T11:44:49.312078+00:00"
+    },
+    "24e2bff394530de3": {
+      "title": "可塑的白昼：ColorOS17 深度评测",
+      "fetched_at": "2026-09-29T11:44:49.925971+00:00"
+    },
+    "3a4a321c4fbe9a99": {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "fetched_at": "2026-09-29T11:44:50.540541+00:00"
+    },
+    "89b632999bd1dee5": {
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "fetched_at": "2026-09-29T11:44:51.202760+00:00"
+    },
+    "67dd680ee3b74167": {
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "fetched_at": "2026-09-29T11:44:51.823075+00:00"
+    },
+    "b514300a88575f2b": {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "fetched_at": "2026-09-29T11:44:52.446636+00:00"
+    },
+    "3aceb2ef0c550801": {
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "fetched_at": "2026-09-29T11:44:53.067327+00:00"
+    },
+    "096aadd2589c1b8e": {
+      "title": "OpenAI’s AI agents need to catch up",
+      "fetched_at": "2026-09-29T11:44:53.766830+00:00"
+    },
+    "521cb9414b0dcf90": {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "fetched_at": "2026-09-29T11:44:54.406198+00:00"
+    },
+    "89b03d4217b3e704": {
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "fetched_at": "2026-09-29T11:44:55.052695+00:00"
+    },
+    "9c2c2c895e800cda": {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "fetched_at": "2026-09-29T11:44:55.677936+00:00"
+    },
+    "cb5a88cb39db12f4": {
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "fetched_at": "2026-09-29T11:44:56.290920+00:00"
+    },
+    "d56bb9228c19989b": {
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "fetched_at": "2026-09-29T11:44:56.914420+00:00"
+    },
+    "0995ab3c1a28f81a": {
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "fetched_at": "2026-09-29T11:44:57.600266+00:00"
+    },
+    "56f97476d895ef1f": {
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "fetched_at": "2026-09-29T11:44:58.237489+00:00"
+    },
+    "af1a0c2f74008bfd": {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "fetched_at": "2026-09-29T11:44:58.857233+00:00"
+    },
+    "552cc876382c3e25": {
+      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+      "fetched_at": "2026-09-29T11:44:59.473150+00:00"
+    },
+    "5a841c173120d2e7": {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-29T11:45:00.095319+00:00"
+    },
+    "86346c341191f7d5": {
+      "title": "伊朗女歌手演出不戴頭巾遭判笞刑74鞭 上訴遭駁回",
+      "fetched_at": "2026-09-29T11:45:02.377923+00:00"
+    },
+    "8ec438f5591a1734": {
+      "title": "亦敵亦友：澳洲如何在超級大國競爭中找平衡？",
+      "fetched_at": "2026-09-29T11:45:02.997780+00:00"
+    },
+    "b392308791163a49": {
+      "title": "美國檢方重啟調查康奈爾大學輪姦案指控",
+      "fetched_at": "2026-09-29T11:45:03.607791+00:00"
+    },
+    "84c1d931c488e236": {
+      "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
+      "fetched_at": "2026-09-29T11:45:04.247835+00:00"
+    },
+    "cec604d1bae35d71": {
+      "title": "一名锡安教会被捕牧师妻子的流亡、煎熬与信仰",
+      "fetched_at": "2026-09-29T11:45:04.925913+00:00"
+    },
+    "8a7604714dc36135": {
+      "title": "一对湾区夫妇被控枪杀跨性别女婿",
+      "fetched_at": "2026-09-29T11:45:05.567343+00:00"
+    },
+    "6fb7da7a0b718798": {
+      "title": "Towering 'sponge' dome in Brazil is the secret source of nearby hot springs",
+      "fetched_at": "2026-09-29T11:45:19.736147+00:00"
+    },
+    "b0560f4634f4b843": {
+      "title": "The super El Niño could cause torrential rainstorms. Americans may need to stock up on food to prepare, experts say.",
+      "fetched_at": "2026-09-29T11:45:20.354193+00:00"
+    },
+    "bbb2ba64c287eda7": {
+      "title": "Newly discovered iron minerals might hold primordial water from when Earth formed",
+      "fetched_at": "2026-09-29T11:45:21.037383+00:00"
+    },
+    "7428e8900c09d02f": {
+      "title": "Did Anthropic's A.I. Make a Scientific Discovery on Its Own?",
+      "fetched_at": "2026-09-29T11:45:25.416427+00:00"
+    },
+    "96d92bb6bd00e510": {
+      "title": "When can we say AI made a scientific discovery?",
+      "fetched_at": "2026-09-29T11:45:22.270235+00:00"
+    },
+    "dbecd7205dec6cec": {
+      "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+      "fetched_at": "2026-09-29T11:45:22.883755+00:00"
+    },
+    "feefcb433229eff1": {
+      "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
+      "fetched_at": "2026-09-29T11:45:23.560859+00:00"
+    },
+    "3cafb1c9f9dc5773": {
+      "title": "NASA’s Crew-13 could go from Florida to the ISS in under 9 hours",
+      "fetched_at": "2026-09-29T11:45:24.179032+00:00"
+    },
+    "2cb348ae8f60e0f1": {
+      "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
+      "fetched_at": "2026-09-29T11:45:24.806512+00:00"
+    },
+    "a3e77eb43c03b088": {
+      "title": "Scientists expected these Galápagos sea turtles to wander. They stayed put",
+      "fetched_at": "2026-09-29T11:45:25.416288+00:00"
+    },
+    "cafd414b4b26f18a": {
+      "title": "Executable Archaeology: Simon's Version of Yngve's Sentence Generator (1961)",
+      "fetched_at": "2026-09-29T11:45:26.032541+00:00"
     }
   },
-  "last_updated": "2026-09-29T03:08:20.548867+00:00"
+  "last_updated": "2026-09-29T11:45:26.153878+00:00"
 }

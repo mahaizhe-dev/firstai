@@ -1,0 +1,10 @@
+---
+title: 'OpenAI keeps bulldozing mathematicians'
+description: 'In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now'
+pubDate: 2026-09-28T13:00:00
+source: 'The Verge AI'
+sourceUrl: 'https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group'
+tags: []
+---
+
+In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]
