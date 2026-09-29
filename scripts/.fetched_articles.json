@@ -1,41 +1,5 @@
 {
   "articles": {
-    "dbc0b7841d50504d": {
-      "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
-      "fetched_at": "2026-09-21T02:10:50.606082+00:00"
-    },
-    "a82e8cb2090016c7": {
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-21T02:10:51.183645+00:00"
-    },
-    "ed5e2a4a22a76534": {
-      "title": "World model companies are keeping a lot of secrets",
-      "fetched_at": "2026-09-21T02:10:51.183747+00:00"
-    },
-    "bd83ae1fb05414b0": {
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "fetched_at": "2026-09-21T02:10:51.767148+00:00"
-    },
-    "027c5cd9e7b85af3": {
-      "title": "美中讨论建立人工智能国家安全问题通报机制",
-      "fetched_at": "2026-09-21T02:10:54.262869+00:00"
-    },
-    "e5bc0dbfc0de56f0": {
-      "title": "中国豪赌“人工智能大跃进”，经济却陷入大麻烦",
-      "fetched_at": "2026-09-21T02:10:54.847794+00:00"
-    },
-    "de153f2b3ab55f8d": {
-      "title": "莫斯科遭到烏克蘭450架無人機襲擊，市長稱規模「迄今最大」",
-      "fetched_at": "2026-09-21T02:10:55.441858+00:00"
-    },
-    "4df0c8f153cf2669": {
-      "title": "特朗普稱美國將組建「人工智能部隊」並任命「AI沙皇」",
-      "fetched_at": "2026-09-21T02:10:56.028844+00:00"
-    },
-    "07f8bd82ab4defa7": {
-      "title": "'Nothing short of a minor miracle': 'Rusty treasure' found in the Danube is full of 2,000-year-old iron bars that could equip an entire army with weapons",
-      "fetched_at": "2026-09-21T02:10:58.471792+00:00"
-    },
     "c0495633a994c3a8": {
       "title": "Show HN: Audit your site's structure for AI search crawlers (ChatGPT, Claude)",
       "fetched_at": "2026-09-21T11:20:18.102414+00:00"
@@ -3035,7 +2999,115 @@
     "31e16cdab1a2be04": {
       "title": "Scientists found a surprising driver of Alzheimer’s outside the brain",
       "fetched_at": "2026-09-28T22:43:26.339596+00:00"
+    },
+    "56cbc84b7d181f65": {
+      "title": "Ask HN: Is strong anti-AI sentiment psyops",
+      "fetched_at": "2026-09-29T03:07:57.637964+00:00"
+    },
+    "49b2dc70bda8a8be": {
+      "title": "AI Agents Are About to Flood the Workforce. No One's Ready for It",
+      "fetched_at": "2026-09-29T03:07:58.247297+00:00"
+    },
+    "f633ceb2028756a0": {
+      "title": "Show HN: Talktome - let your AI Agent call you",
+      "fetched_at": "2026-09-29T03:07:58.867544+00:00"
+    },
+    "ffa3293262d4ec3b": {
+      "title": "The machine layer under Nvidia OpenShell: why containment is not safety",
+      "fetched_at": "2026-09-29T03:07:59.493754+00:00"
+    },
+    "2208687cc23a84b0": {
+      "title": "AI agent memory can be poisoned – and later treated as the user's own past",
+      "fetched_at": "2026-09-29T03:08:00.109414+00:00"
+    },
+    "4de1a350c0af2342": {
+      "title": "OpenAI shelves new AI model after internal safety tests: Report",
+      "fetched_at": "2026-09-29T03:08:00.758988+00:00"
+    },
+    "8560546b307f3210": {
+      "title": "How well do you know AI?",
+      "fetched_at": "2026-09-29T03:08:01.412545+00:00"
+    },
+    "1990f3afd3d9b604": {
+      "title": "We found 24 Android vulnerabilities using our open source AI security agent",
+      "fetched_at": "2026-09-29T03:08:02.017936+00:00"
+    },
+    "0a205a359a1ad515": {
+      "title": "Show HN: Jylus – give AI systems evidence from changing data.",
+      "fetched_at": "2026-09-29T03:08:02.630534+00:00"
+    },
+    "b4420b3cf38aedde": {
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "fetched_at": "2026-09-29T03:08:03.301239+00:00"
+    },
+    "dad0b412c3534640": {
+      "title": "AI Companies Are Not (Necessarily) Liable for Unintended AI Cyberattacks",
+      "fetched_at": "2026-09-29T03:08:03.943524+00:00"
+    },
+    "a3f61aa01a4746b0": {
+      "title": "What is the best LLM for turbo charging code?",
+      "fetched_at": "2026-09-29T03:08:04.585983+00:00"
+    },
+    "e3c314deea99e733": {
+      "title": "AI and the Revenge of the Non-Techies",
+      "fetched_at": "2026-09-29T03:08:05.267374+00:00"
+    },
+    "e703b7a764c4e948": {
+      "title": "AI's next training data: your dodgy gaming skills",
+      "fetched_at": "2026-09-29T03:08:05.890312+00:00"
+    },
+    "a0335fcc01860e19": {
+      "title": "GPT-6 Astra Is the Best Vision Model We Have Tested",
+      "fetched_at": "2026-09-29T03:08:06.573217+00:00"
+    },
+    "1b689e4ee945fccf": {
+      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
+      "fetched_at": "2026-09-29T03:08:07.181324+00:00"
+    },
+    "1f7aa32aa160e603": {
+      "title": "LLM makes decisions to raise its training scores, and ignore user directives",
+      "fetched_at": "2026-09-29T03:08:07.801456+00:00"
+    },
+    "f27b8acd197bb2a4": {
+      "title": "Atrocious AI-Written Tests",
+      "fetched_at": "2026-09-29T03:08:08.414197+00:00"
+    },
+    "d5d5afda64c3192d": {
+      "title": "China broadens travel curbs to encompass family of top AI talent",
+      "fetched_at": "2026-09-29T03:08:08.414325+00:00"
+    },
+    "f39c24d9a6992c77": {
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "fetched_at": "2026-09-29T03:08:09.029756+00:00"
+    },
+    "240ae1e7e162c25f": {
+      "title": "中国真的在窃取美国公司的人工智能技术吗？",
+      "fetched_at": "2026-09-29T03:08:12.073689+00:00"
+    },
+    "6ea503d911f44c7b": {
+      "title": "产能过剩背景下，中国汽车业走向并购重组时代",
+      "fetched_at": "2026-09-29T03:08:12.755745+00:00"
+    },
+    "d27616ea4e369981": {
+      "title": "中国当局为何要求中学生读《简·爱》？",
+      "fetched_at": "2026-09-29T03:08:13.426814+00:00"
+    },
+    "942c45877128c26f": {
+      "title": "美中同意互降关税，涉及商品价值600亿美元",
+      "fetched_at": "2026-09-29T03:08:14.044075+00:00"
+    },
+    "1ffef22dbe4cae0d": {
+      "title": "帶一杯冰咖啡去面試，會令你失去工作機會嗎？",
+      "fetched_at": "2026-09-29T03:08:14.643064+00:00"
+    },
+    "a2f8d0abd14dc1f2": {
+      "title": "人工智能末世論：為什麼有人相信AI是敵基督，誘騙人類崇拜撒旦",
+      "fetched_at": "2026-09-29T03:08:15.256407+00:00"
+    },
+    "9303d8ce05e685f4": {
+      "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
+      "fetched_at": "2026-09-29T03:08:15.876244+00:00"
     }
   },
-  "last_updated": "2026-09-28T22:43:26.409570+00:00"
+  "last_updated": "2026-09-29T03:08:20.548867+00:00"
 }

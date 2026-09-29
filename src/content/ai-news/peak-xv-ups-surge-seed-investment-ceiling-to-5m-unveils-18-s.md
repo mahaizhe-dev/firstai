@@ -1,0 +1,10 @@
+---
+title: 'Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort'
+description: 'Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.'
+pubDate: 2026-09-29T00:30:00
+source: 'TechCrunch AI'
+sourceUrl: 'https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/'
+tags: []
+---
+
+Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.
