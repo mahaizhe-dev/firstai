@@ -1,145 +1,5 @@
 {
   "articles": {
-    "b68cabd7d56af479": {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "fetched_at": "2026-09-21T17:21:37.502450+00:00"
-    },
-    "7e5480e50e61a59e": {
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-21T17:21:38.112010+00:00"
-    },
-    "43dfb51b2be968ea": {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "fetched_at": "2026-09-21T17:21:38.714141+00:00"
-    },
-    "d5ede070ccd9a730": {
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-21T17:21:39.324241+00:00"
-    },
-    "c242232b094440ec": {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-21T17:21:39.936159+00:00"
-    },
-    "964aad71ddcda0dc": {
-      "title": "Can John Ternus find Apple’s next big thing?",
-      "fetched_at": "2026-09-21T17:21:40.538253+00:00"
-    },
-    "2915ab0f10742df6": {
-      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-      "fetched_at": "2026-09-21T17:21:41.140440+00:00"
-    },
-    "cbcc6cbb4839c786": {
-      "title": "一台主机，多重角色：新款 Mac mini 首发体验",
-      "fetched_at": "2026-09-21T17:21:41.738562+00:00"
-    },
-    "4884b8406aede917": {
-      "title": "Amazon blocks Meta’s Muse AI agent",
-      "fetched_at": "2026-09-21T17:21:42.352338+00:00"
-    },
-    "ace5bf1ccbad0b39": {
-      "title": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……",
-      "fetched_at": "2026-09-21T17:21:42.964830+00:00"
-    },
-    "c02a6eba38166ef0": {
-      "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
-      "fetched_at": "2026-09-21T17:21:43.560643+00:00"
-    },
-    "0648cb098aea8919": {
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "fetched_at": "2026-09-21T17:21:44.192951+00:00"
-    },
-    "ee0fbd4cacce4952": {
-      "title": "女性比男性更擅長耐力跑嗎？",
-      "fetched_at": "2026-09-21T17:21:46.548046+00:00"
-    },
-    "3b79d4176db549e5": {
-      "title": "One of the longest-running meteor showers of the year has begun: How to get the best views of the Southern Taurids",
-      "fetched_at": "2026-09-21T17:21:49.089942+00:00"
-    },
-    "998402604f4b92e4": {
-      "title": "Black holes of every size follow the same surprising rule",
-      "fetched_at": "2026-09-21T17:21:49.691708+00:00"
-    },
-    "502c956d08ad4a9a": {
-      "title": "A new process turns plastic waste into gasoline and diesel fuel",
-      "fetched_at": "2026-09-21T17:21:50.290474+00:00"
-    },
-    "5429a20e05697ee8": {
-      "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
-      "fetched_at": "2026-09-21T17:21:50.886290+00:00"
-    },
-    "f52d492cff4798b7": {
-      "title": "NASA just powered up Roman’s massive 300-megapixel camera",
-      "fetched_at": "2026-09-21T17:21:51.508889+00:00"
-    },
-    "9d9254a889a0fea0": {
-      "title": "Chronic stress may be quietly reshaping your heart",
-      "fetched_at": "2026-09-21T17:21:52.107695+00:00"
-    },
-    "4afc630844dd3d84": {
-      "title": "Stanford scientists discover the human brain may actually be two separate organs",
-      "fetched_at": "2026-09-21T17:21:52.712750+00:00"
-    },
-    "fc84c66c1d9ade8d": {
-      "title": "'Nothing short of a minor miracle': 'Rusty treasure' found in the Danube is full of 2,200-year-old iron bars that could equip an entire army with weapons",
-      "fetched_at": "2026-09-21T17:21:52.712954+00:00"
-    },
-    "bc0a6050877cf139": {
-      "title": "Haunting Hubble telescope image captures cosmic cycle of destruction and creation —‬ Space photo of the week",
-      "fetched_at": "2026-09-21T17:21:53.386858+00:00"
-    },
-    "95e8962039c0ea65": {
-      "title": "Why do cats lick each other?",
-      "fetched_at": "2026-09-21T17:21:53.999763+00:00"
-    },
-    "34ea6e0ccc661aa6": {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "fetched_at": "2026-09-21T21:20:31.933768+00:00"
-    },
-    "90506b2cda536cc4": {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "fetched_at": "2026-09-21T21:20:32.552185+00:00"
-    },
-    "a1840e34b3049eec": {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "fetched_at": "2026-09-21T21:20:33.154123+00:00"
-    },
-    "f529574545cec428": {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "fetched_at": "2026-09-21T21:20:33.789873+00:00"
-    },
-    "334c02a3c9abeba7": {
-      "title": "Prices go up in 7 days — get your Disrupt ticket now",
-      "fetched_at": "2026-09-21T21:20:33.790023+00:00"
-    },
-    "da849717e4e6edb7": {
-      "title": "習近平七年再訪印度：金磚峰會握手背後，中印關係破冰？",
-      "fetched_at": "2026-09-21T21:20:37.094431+00:00"
-    },
-    "cd57123f44843df0": {
-      "title": "Spaceflight may harm the reproductive system of astronauts' kids and grandkids, early mouse study suggests",
-      "fetched_at": "2026-09-21T21:20:39.590216+00:00"
-    },
-    "40456a9c6951649d": {
-      "title": "Scientists made a paper battery you can swallow to power internal medical devices",
-      "fetched_at": "2026-09-21T21:20:40.209920+00:00"
-    },
-    "42fb073fee944b4a": {
-      "title": "Jewelry Workshop Found in Scottish Churchyard",
-      "fetched_at": "2026-09-21T21:20:40.884978+00:00"
-    },
-    "a4996440e2303a7a": {
-      "title": "When Did Human Ancestors Stop Climbing Trees?",
-      "fetched_at": "2026-09-21T21:20:41.502944+00:00"
-    },
-    "ba847a1893b2c3bf": {
-      "title": "Surviving Medieval Fortress Identified in Dublin",
-      "fetched_at": "2026-09-21T21:20:42.127795+00:00"
-    },
-    "ce7194a04f03587b": {
-      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
-      "fetched_at": "2026-09-21T21:20:42.744066+00:00"
-    },
     "2f137f63dc6499f1": {
       "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
       "fetched_at": "2026-09-22T02:15:50.037432+00:00"
@@ -3191,7 +3051,75 @@
     "bedf5e8f9aad773b": {
       "title": "Historical Stock Prices API: Python, JavaScript and Curl Quickstart",
       "fetched_at": "2026-09-29T17:11:53.055431+00:00"
+    },
+    "ee1c44655d6c2633": {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "fetched_at": "2026-09-29T21:36:56.615665+00:00"
+    },
+    "f24526f856e16056": {
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "fetched_at": "2026-09-29T21:36:57.227561+00:00"
+    },
+    "00567b26008777ce": {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "fetched_at": "2026-09-29T21:36:57.857267+00:00"
+    },
+    "01195c49dbc107a4": {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "fetched_at": "2026-09-29T21:36:58.508910+00:00"
+    },
+    "6fae3d6ca2aea1f9": {
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "fetched_at": "2026-09-29T21:36:59.137454+00:00"
+    },
+    "7bfb7c7e1bba918b": {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "fetched_at": "2026-09-29T21:36:59.762978+00:00"
+    },
+    "a20352e0cd7d46db": {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "fetched_at": "2026-09-29T21:37:00.392726+00:00"
+    },
+    "4c6b463ff0461883": {
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "fetched_at": "2026-09-29T21:37:01.002323+00:00"
+    },
+    "2c68181f4a961e29": {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "fetched_at": "2026-09-29T21:37:01.622376+00:00"
+    },
+    "76bac0a7cf4c892a": {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "fetched_at": "2026-09-29T21:37:02.273680+00:00"
+    },
+    "db04d65c2ca913c2": {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "fetched_at": "2026-09-29T21:37:02.896429+00:00"
+    },
+    "ca34b7266e0635e8": {
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "fetched_at": "2026-09-29T21:37:03.522211+00:00"
+    },
+    "03571d2ea7619084": {
+      "title": "Discovery of a Molecular \"Memory\" That Could Make Lost Weight Come Back",
+      "fetched_at": "2026-09-29T21:37:09.190294+00:00"
+    },
+    "e3a0c0c7e53c5aae": {
+      "title": "Ancient Carving May Represent Nubian King",
+      "fetched_at": "2026-09-29T21:37:09.789769+00:00"
+    },
+    "c07c33dc0408f8bc": {
+      "title": "Sarmatian Burial Discovered in Older Burial Mound in Ukraine",
+      "fetched_at": "2026-09-29T21:37:10.400496+00:00"
+    },
+    "9bd7dc5657186d18": {
+      "title": "'We're rapidly running out of time': 7 of Earth's 9 life support systems already breached, and the situation is getting worse, report warns",
+      "fetched_at": "2026-09-29T21:37:11.013035+00:00"
+    },
+    "05bcb53f674c509e": {
+      "title": "Butchered Bones in Chile Dated to 13,000 Years Ago",
+      "fetched_at": "2026-09-29T21:37:11.639333+00:00"
     }
   },
-  "last_updated": "2026-09-29T17:11:53.126477+00:00"
+  "last_updated": "2026-09-29T21:37:11.699232+00:00"
 }
