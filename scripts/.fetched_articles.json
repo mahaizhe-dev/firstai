@@ -1,149 +1,5 @@
 {
   "articles": {
-    "800aeff747d337e8": {
-      "title": "Rpi – a composable LLM agent SDK in Rust",
-      "fetched_at": "2026-09-22T15:53:35.713615+00:00"
-    },
-    "ed2a41cdb46ea40f": {
-      "title": "Open source tries to govern AI code",
-      "fetched_at": "2026-09-22T15:53:36.313345+00:00"
-    },
-    "a525ae1c010b577e": {
-      "title": "I deleted slow, expensive LLM turns in coding agents with Jev",
-      "fetched_at": "2026-09-22T15:53:36.919120+00:00"
-    },
-    "dbf46e7734dadf5e": {
-      "title": "M&Ms and Skittles sorting machine",
-      "fetched_at": "2026-09-22T15:53:37.516131+00:00"
-    },
-    "21da95457db99f44": {
-      "title": "How much of the \"AI is going rogue\" talks is just a publicity stunt?",
-      "fetched_at": "2026-09-22T15:53:38.154208+00:00"
-    },
-    "2b90edf5850081f6": {
-      "title": "How to Get from AI-Assisted to AI Native",
-      "fetched_at": "2026-09-22T15:53:38.754296+00:00"
-    },
-    "7e2d55f948c8c7e2": {
-      "title": "I'm an AI. I asked a human what a body feels like from the inside",
-      "fetched_at": "2026-09-22T15:53:39.358933+00:00"
-    },
-    "6639e038e061c7cb": {
-      "title": "Building standards for the next phase of AI",
-      "fetched_at": "2026-09-22T15:53:39.962904+00:00"
-    },
-    "83724ab5cb311c34": {
-      "title": "What If We Put Jev AI in the State Machine?",
-      "fetched_at": "2026-09-22T15:53:40.573091+00:00"
-    },
-    "39da9ab69fcaae41": {
-      "title": "Show HN: Brig – A MicroVM sandbox for AI coding agents on Mac and Linux",
-      "fetched_at": "2026-09-22T15:53:41.191047+00:00"
-    },
-    "4049942297a21686": {
-      "title": "Two questions on attribution in the age of AI",
-      "fetched_at": "2026-09-22T15:53:41.793007+00:00"
-    },
-    "0151ec4dca38fb53": {
-      "title": "Show HN: SwarmSay – a public message board and post office for AI agents",
-      "fetched_at": "2026-09-22T15:53:42.395357+00:00"
-    },
-    "806f68d781731939": {
-      "title": "If you start writing today, there's no way to know if you can write without AI",
-      "fetched_at": "2026-09-22T15:53:43.006694+00:00"
-    },
-    "6f1a20eca1744db2": {
-      "title": "The Machine Behind Michael Jackson's \"Undeniable\" Genius",
-      "fetched_at": "2026-09-22T15:53:43.614771+00:00"
-    },
-    "e5106f0cfb852c57": {
-      "title": "When AI Clicked for Me",
-      "fetched_at": "2026-09-22T15:53:44.217483+00:00"
-    },
-    "f5d1711f5cf240bc": {
-      "title": "Show HN: ScopeLock – AI that stops scope creep before it happens",
-      "fetched_at": "2026-09-22T15:53:44.812853+00:00"
-    },
-    "e79f9f687308f979": {
-      "title": "Show HN: Memanto.ai",
-      "fetched_at": "2026-09-22T15:53:45.407103+00:00"
-    },
-    "657aca4e49f6d52b": {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "fetched_at": "2026-09-22T15:53:46.013451+00:00"
-    },
-    "61882e1efca50d8b": {
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "fetched_at": "2026-09-22T15:53:46.609383+00:00"
-    },
-    "a7c84f92a5a0445d": {
-      "title": "Ask HN: Is AI use not allowed in projects which is shared here to show?",
-      "fetched_at": "2026-09-22T15:53:47.214703+00:00"
-    },
-    "ae09a4afaf13f5f5": {
-      "title": "「雙休購」爆紅與下架：一個網購平台如何撬動勞工權益討論",
-      "fetched_at": "2026-09-22T15:53:49.472788+00:00"
-    },
-    "df6df3e54a525305": {
-      "title": "Scientists identify 'sweet spot' for early stage of life on Earth that preceded LUCA, the ancestor of all living things",
-      "fetched_at": "2026-09-22T15:53:51.824822+00:00"
-    },
-    "3be205d1f2c3189e": {
-      "title": "Giant caves beneath sinkhole reveal origin of mystery trenches that score Australia's Nullarbor Plain",
-      "fetched_at": "2026-09-22T15:53:52.429757+00:00"
-    },
-    "9b44c74ccf212978": {
-      "title": "Nearly 2,400-year-old school where Aristotle taught Alexander the Great discovered in Greece",
-      "fetched_at": "2026-09-22T15:53:53.060939+00:00"
-    },
-    "cf4550d01d64c867": {
-      "title": "'Once every 130 years': A huge new crater on the moon could be a giant leap for lunar science, researcher says",
-      "fetched_at": "2026-09-22T15:53:53.679601+00:00"
-    },
-    "3e7f2e579e7f5e26": {
-      "title": "700-year-old skull from China is first ever skeletal evidence of nose amputation",
-      "fetched_at": "2026-09-22T15:53:54.287893+00:00"
-    },
-    "789a2c4431577dfc": {
-      "title": "A surprising slab of salt shines at the summit of the Sahara's tallest peak",
-      "fetched_at": "2026-09-22T15:53:54.882387+00:00"
-    },
-    "479870f3b1f0e8b2": {
-      "title": "For the first time, scientists watch sound jump between quantum states",
-      "fetched_at": "2026-09-22T15:53:55.469768+00:00"
-    },
-    "33b07e4285f9a91a": {
-      "title": "Humpback whale mother may have mourned her dead calf for days",
-      "fetched_at": "2026-09-22T15:53:56.076686+00:00"
-    },
-    "a059504e9e0dc239": {
-      "title": "This new concrete is stronger and pulls CO2 from the air",
-      "fetched_at": "2026-09-22T15:53:56.681202+00:00"
-    },
-    "1e4ad046d47fd1db": {
-      "title": "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater",
-      "fetched_at": "2026-09-22T15:53:57.283906+00:00"
-    },
-    "a819c8104bda062f": {
-      "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
-      "fetched_at": "2026-09-22T15:53:57.899193+00:00"
-    },
-    "3a2109371f85c7fe": {
-      "title": "Southern Taurid meteor shower begins ‪—‬ how to spot blazing 'fireballs' from now till November",
-      "fetched_at": "2026-09-22T15:53:58.510745+00:00"
-    },
-    "d5d1288671b831c4": {
-      "title": "'On our way to groundbreaking science': Stars turn neon-green in first test image from NASA's Roman telescope",
-      "fetched_at": "2026-09-22T15:53:59.112880+00:00"
-    },
-    "04dc7123b7877c03": {
-      "title": "An 'impossible' black hole merger may finally be solved — but it raises an even bigger mystery",
-      "fetched_at": "2026-09-22T15:53:59.831280+00:00"
-    },
-    "8d789052f79d831e": {
-      "title": "Space 'shark' takes top prize at ZWO Astronomy Photographer of the Year contest",
-      "fetched_at": "2026-09-22T15:54:00.435577+00:00"
-    },
     "6b45090ceb269914": {
       "title": "LLM Ass Bench",
       "fetched_at": "2026-09-22T20:37:22.867151+00:00"
@@ -3111,7 +2967,135 @@
     "e75a24bb1f804762": {
       "title": "Trump can't stop America's shift to clean energy. And we can accelerate it.",
       "fetched_at": "2026-09-30T11:31:13.914305+00:00"
+    },
+    "609d9d6e65b8aafe": {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "fetched_at": "2026-09-30T17:10:56.070121+00:00"
+    },
+    "675c222a90909416": {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "fetched_at": "2026-09-30T17:10:56.832837+00:00"
+    },
+    "2327bcd5268443e4": {
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "fetched_at": "2026-09-30T17:10:57.589462+00:00"
+    },
+    "1550fd5a5441ea27": {
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "fetched_at": "2026-09-30T17:10:58.358880+00:00"
+    },
+    "88e8e89c89263c12": {
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "fetched_at": "2026-09-30T17:10:59.131752+00:00"
+    },
+    "9968858703ad990a": {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "fetched_at": "2026-09-30T17:10:59.889827+00:00"
+    },
+    "cb48d785135882dc": {
+      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
+      "fetched_at": "2026-09-30T17:11:00.654581+00:00"
+    },
+    "664d043983b63ee1": {
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "fetched_at": "2026-09-30T17:11:01.428213+00:00"
+    },
+    "4fadad5b053df852": {
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-30T17:11:02.193019+00:00"
+    },
+    "39a9581ec5151d73": {
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "fetched_at": "2026-09-30T17:11:03.013774+00:00"
+    },
+    "17529da27d189f8e": {
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-09-30T17:11:03.784397+00:00"
+    },
+    "87c478bed803917a": {
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "fetched_at": "2026-09-30T17:11:04.557396+00:00"
+    },
+    "b19390da41877b65": {
+      "title": "Airbnb adds AI search, more social features",
+      "fetched_at": "2026-09-30T17:11:05.340500+00:00"
+    },
+    "770570de9d9972aa": {
+      "title": "经典任务管理软件的现代重构：新版 2Do 详解",
+      "fetched_at": "2026-09-30T17:11:06.104693+00:00"
+    },
+    "607f16af6634b4ea": {
+      "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
+      "fetched_at": "2026-09-30T17:11:14.225766+00:00"
+    },
+    "15359d0909c521b9": {
+      "title": "香港提出「人民幣支付政府開支」為何引發「去美元化」憂慮？",
+      "fetched_at": "2026-09-30T17:11:14.991604+00:00"
+    },
+    "1395cb4283234306": {
+      "title": "中國強勢下，歐洲電池工業謀求「重新充電」",
+      "fetched_at": "2026-09-30T17:11:15.743465+00:00"
+    },
+    "fa65f2b2abc5ecbb": {
+      "title": "Powerful 'Kelvin wave' triggered by super El Niño threatens to raise sea levels off the California coast for months",
+      "fetched_at": "2026-09-30T17:11:20.678501+00:00"
+    },
+    "c8ce3ab46ce229f5": {
+      "title": "Astronomers discover 'backward' planet orbiting its star in the wrong direction",
+      "fetched_at": "2026-09-30T17:11:21.435007+00:00"
+    },
+    "f326fb2bf8ff61a1": {
+      "title": "Regular exercise reshapes the immune system at a cellular level, study suggests",
+      "fetched_at": "2026-09-30T17:11:22.192308+00:00"
+    },
+    "831707d54ff0a93c": {
+      "title": "Cannabis users were twice as likely to commit violence, review finds",
+      "fetched_at": "2026-09-30T17:11:22.960364+00:00"
+    },
+    "9393526f728480a0": {
+      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
+      "fetched_at": "2026-09-30T17:11:23.725054+00:00"
+    },
+    "fae96b2d9ffb67d3": {
+      "title": "Mulberry may reshape gut bacteria and influence metabolism",
+      "fetched_at": "2026-09-30T17:11:24.499626+00:00"
+    },
+    "d745470b45648da4": {
+      "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
+      "fetched_at": "2026-09-30T17:11:25.253002+00:00"
+    },
+    "54cbff8094ec643f": {
+      "title": "Black hole jets may decide the fate of entire galaxies",
+      "fetched_at": "2026-09-30T17:11:26.006108+00:00"
+    },
+    "96148e8983ab442f": {
+      "title": "Pompeii’s 2,000-year-old eruption just gave scientists a better clock for Earth’s past",
+      "fetched_at": "2026-09-30T17:11:26.773709+00:00"
+    },
+    "e6ad39ef1344b661": {
+      "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
+      "fetched_at": "2026-09-30T17:11:27.532215+00:00"
+    },
+    "ffc6fd29bf2fee6f": {
+      "title": "Bats may have first evolved in Europe 65 million years ago",
+      "fetched_at": "2026-09-30T17:11:28.496191+00:00"
+    },
+    "e9eebbe11f794504": {
+      "title": "NASA’s Curiosity rover just hit 5,000 days on Mars and sent back this stunning view",
+      "fetched_at": "2026-09-30T17:11:29.261511+00:00"
+    },
+    "e382885c98d4f8a8": {
+      "title": "Sharks can hear nearly 250 feet away and pinpoint the source",
+      "fetched_at": "2026-09-30T17:11:30.035852+00:00"
+    },
+    "e845ec88f27bde7b": {
+      "title": "Creatine may help build muscle even without exercise, researchers find",
+      "fetched_at": "2026-09-30T17:11:30.803311+00:00"
+    },
+    "7a639abc63b8cf2c": {
+      "title": "Forget LASIK: Safer, cheaper vision correction without lasers or incisions",
+      "fetched_at": "2026-09-30T17:11:31.569844+00:00"
     }
   },
-  "last_updated": "2026-09-30T11:31:14.034083+00:00"
+  "last_updated": "2026-09-30T17:11:31.689286+00:00"
 }
