@@ -1,41 +1,5 @@
 {
   "articles": {
-    "2f137f63dc6499f1": {
-      "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
-      "fetched_at": "2026-09-22T02:15:50.037432+00:00"
-    },
-    "9c943063695bc3a3": {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "fetched_at": "2026-09-22T02:15:50.618831+00:00"
-    },
-    "94535006dee0853f": {
-      "title": "California tightens rules on AI data center energy and water use",
-      "fetched_at": "2026-09-22T02:15:51.191053+00:00"
-    },
-    "e6bebaa588426c78": {
-      "title": "张又侠被开除党籍，将面临军事法庭审判",
-      "fetched_at": "2026-09-22T02:15:53.996450+00:00"
-    },
-    "c9ea4cdaea79f86c": {
-      "title": "香港提出「用人民幣支付政府開支」，為何引發「去美元化」憂慮？",
-      "fetched_at": "2026-09-22T02:15:54.576714+00:00"
-    },
-    "a2a3cd4f0ff7755b": {
-      "title": "脆弱的美中关系中最具破坏性的问题：对台军售",
-      "fetched_at": "2026-09-22T02:15:55.185301+00:00"
-    },
-    "d02dc289f945b69c": {
-      "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
-      "fetched_at": "2026-09-22T02:15:55.770067+00:00"
-    },
-    "73689d2b4670e03d": {
-      "title": "What are you most excited for NASA's Roman Space Telescope to find?",
-      "fetched_at": "2026-09-22T02:15:57.780365+00:00"
-    },
-    "df2c22a0e5cf813f": {
-      "title": "Fall stargazing 2026: The best skywatching sights in autumn (and how to see them)",
-      "fetched_at": "2026-09-22T02:15:58.371880+00:00"
-    },
     "f1c3897b7b6e25eb": {
       "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
       "fetched_at": "2026-09-22T10:30:23.605715+00:00"
@@ -3119,7 +3083,67 @@
     "05bcb53f674c509e": {
       "title": "Butchered Bones in Chile Dated to 13,000 Years Ago",
       "fetched_at": "2026-09-29T21:37:11.639333+00:00"
+    },
+    "c00d550eee397f2c": {
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "fetched_at": "2026-09-30T02:49:57.421637+00:00"
+    },
+    "78174f676bf57ea9": {
+      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+      "fetched_at": "2026-09-30T02:49:58.004649+00:00"
+    },
+    "f12594b2f5fe12de": {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "fetched_at": "2026-09-30T02:49:58.580774+00:00"
+    },
+    "70b003bbf3116ef2": {
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "fetched_at": "2026-09-30T02:49:59.233994+00:00"
+    },
+    "3ca04d0192ef27d1": {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "fetched_at": "2026-09-30T02:49:59.811307+00:00"
+    },
+    "58311f35a620c805": {
+      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+      "fetched_at": "2026-09-30T02:50:00.389627+00:00"
+    },
+    "58545f2acc0dfa29": {
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "fetched_at": "2026-09-30T02:50:00.957778+00:00"
+    },
+    "b586a1d0e55abe8c": {
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "fetched_at": "2026-09-30T02:50:01.593964+00:00"
+    },
+    "09832aceb307c460": {
+      "title": "康奈尔大学兄弟会强奸案调查重启：目前我们所知的",
+      "fetched_at": "2026-09-30T02:50:03.820035+00:00"
+    },
+    "8e35d792bf061530": {
+      "title": "特朗普要求人工智能巨头自我监管",
+      "fetched_at": "2026-09-30T02:50:04.414159+00:00"
+    },
+    "f2784f8215a70d84": {
+      "title": "中國人工智慧工具「教導」研究人員製造生物武器",
+      "fetched_at": "2026-09-30T02:50:04.988532+00:00"
+    },
+    "b55555c195a23ab4": {
+      "title": "“中国制造”背后的声音：在农民工文学里读懂中国",
+      "fetched_at": "2026-09-30T02:50:05.568924+00:00"
+    },
+    "30b73085607cc0c2": {
+      "title": "我付了3萬英鎊讀個「網紅」學位，這是為什麼",
+      "fetched_at": "2026-09-30T02:50:06.139454+00:00"
+    },
+    "0791b503cace7b4c": {
+      "title": "美軍撤離伊拉克：駐軍20年留下什麼遺產？接下來會發生什麼？",
+      "fetched_at": "2026-09-30T02:50:06.739159+00:00"
+    },
+    "f52d492cff4798b7": {
+      "title": "NASA just powered up Roman’s massive 300-megapixel camera",
+      "fetched_at": "2026-09-30T02:50:09.468780+00:00"
     }
   },
-  "last_updated": "2026-09-29T21:37:11.699232+00:00"
+  "last_updated": "2026-09-30T02:50:09.532988+00:00"
 }
