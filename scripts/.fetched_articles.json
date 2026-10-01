@@ -1,105 +1,5 @@
 {
   "articles": {
-    "f24de26effc08175": {
-      "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
-      "fetched_at": "2026-09-23T02:16:07.522358+00:00"
-    },
-    "3abdb592315b036e": {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "fetched_at": "2026-09-23T02:16:08.229491+00:00"
-    },
-    "a7e70dba37e347dd": {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "fetched_at": "2026-09-23T02:16:08.959502+00:00"
-    },
-    "9d1dd7a0f3ac595b": {
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "fetched_at": "2026-09-23T02:16:09.556429+00:00"
-    },
-    "ab463b289f5bf323": {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "fetched_at": "2026-09-23T02:16:10.153497+00:00"
-    },
-    "f890b86c06423abc": {
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "fetched_at": "2026-09-23T02:16:10.758639+00:00"
-    },
-    "24a37af37463ba68": {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "fetched_at": "2026-09-23T02:16:11.360103+00:00"
-    },
-    "a4345c60cdd9484d": {
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "fetched_at": "2026-09-23T02:16:12.016861+00:00"
-    },
-    "62563e45539757a6": {
-      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
-      "fetched_at": "2026-09-23T02:16:12.654765+00:00"
-    },
-    "4db256dc5b215f73": {
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "fetched_at": "2026-09-23T02:16:13.371154+00:00"
-    },
-    "acdf358ffab4246e": {
-      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-23T02:16:13.980202+00:00"
-    },
-    "0b9b1c969085764d": {
-      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
-      "fetched_at": "2026-09-23T02:16:14.584007+00:00"
-    },
-    "8747ca5da70bea53": {
-      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-23T02:16:15.190347+00:00"
-    },
-    "f9da9b658e0b4d45": {
-      "title": "Everyone can find a reason to dislike data center construction",
-      "fetched_at": "2026-09-23T02:16:15.813133+00:00"
-    },
-    "8f60483a042fd8fb": {
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "fetched_at": "2026-09-23T02:16:16.422354+00:00"
-    },
-    "a02c3f0abe2e210c": {
-      "title": "Meta patches Muse exploit that let attackers control the AI agent",
-      "fetched_at": "2026-09-23T02:16:17.027559+00:00"
-    },
-    "609ff69b656d4ad0": {
-      "title": "“习特会”最棘手议题之一：中国稀土出口管制",
-      "fetched_at": "2026-09-23T02:16:19.135789+00:00"
-    },
-    "3a9bc2e948f4b67e": {
-      "title": "習近平訪美的「僵局控管」：中美如何枱上握手、枱下算計？",
-      "fetched_at": "2026-09-23T02:16:19.731819+00:00"
-    },
-    "f2e92c549a234231": {
-      "title": "外星生命會讓我們生病嗎？太空微生物帶來哪些風險",
-      "fetched_at": "2026-09-23T02:16:20.307795+00:00"
-    },
-    "06d580ce58ca8d3e": {
-      "title": "俄烏戰場為何或會迎來新一批朝鮮軍人",
-      "fetched_at": "2026-09-23T02:16:20.888731+00:00"
-    },
-    "680d1de22377b556": {
-      "title": "專家評中國修《國防動員法》：吸俄烏教訓實現「平戰快速轉換」",
-      "fetched_at": "2026-09-23T02:16:21.464276+00:00"
-    },
-    "ce0ba15089511232": {
-      "title": "'There was something bigger in the ground here': Metal detectorist in Germany discovers giant Roman-era hoard from time of emperor Hadrian",
-      "fetched_at": "2026-09-23T02:16:23.659359+00:00"
-    },
-    "bb1b5626e9af7ec4": {
-      "title": "Strange ringed object beyond Saturn looks even stranger in new James Webb telescope study",
-      "fetched_at": "2026-09-23T02:16:24.252492+00:00"
-    },
-    "a0cbf3c42cd35a12": {
-      "title": "How climate change could fuel impulsive behavior",
-      "fetched_at": "2026-09-23T02:16:24.844702+00:00"
-    },
-    "d885e1a1442d112f": {
-      "title": "Peculiar land bridge separates a pair of colorful lakes in Patagonia",
-      "fetched_at": "2026-09-23T02:16:25.440527+00:00"
-    },
     "d3b2489fd091ccfd": {
       "title": "The (AI) Nature of the Firm",
       "fetched_at": "2026-09-23T10:25:02.249075+00:00"
@@ -3067,7 +2967,55 @@
     "cab627be2c04b766": {
       "title": "Brain scans reveal which disorders are linked to faster brain aging",
       "fetched_at": "2026-09-30T21:37:51.309276+00:00"
+    },
+    "db3387a843c69d4e": {
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "fetched_at": "2026-10-01T02:56:21.643839+00:00"
+    },
+    "c121c6fb0c6690c2": {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "fetched_at": "2026-10-01T02:56:22.242291+00:00"
+    },
+    "0312509e99b0598c": {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "fetched_at": "2026-10-01T02:56:22.852321+00:00"
+    },
+    "94bd9877f9937c94": {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "fetched_at": "2026-10-01T02:56:23.458593+00:00"
+    },
+    "e1e2a3c969700e32": {
+      "title": "The AI Tamagotchis are coming",
+      "fetched_at": "2026-10-01T02:56:24.077796+00:00"
+    },
+    "d9c7d4a39c2658ae": {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "fetched_at": "2026-10-01T02:56:24.684321+00:00"
+    },
+    "11e46134bbf81bf3": {
+      "title": "The ugly economics of consumer AI",
+      "fetched_at": "2026-10-01T02:56:25.283843+00:00"
+    },
+    "375908ae6e7d8294": {
+      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+      "fetched_at": "2026-10-01T02:56:25.892730+00:00"
+    },
+    "1579d38e8f5a330f": {
+      "title": "感情走下坡還有救嗎？伴侶治療師談修復關係的要素",
+      "fetched_at": "2026-10-01T02:56:28.646894+00:00"
+    },
+    "b40759c0fdb43abd": {
+      "title": "鈉離子電池：「美國製造」能超越中國嗎？",
+      "fetched_at": "2026-10-01T02:56:29.331360+00:00"
+    },
+    "7c843482e1f34421": {
+      "title": "Fragment of world's oldest peace treaty unearthed in Turkey",
+      "fetched_at": "2026-10-01T02:56:31.676336+00:00"
+    },
+    "cc18f88d7d60bf39": {
+      "title": "Newfound 'fire amoeba from the Cascades' sets record for the hottest temperature complex life can survive at",
+      "fetched_at": "2026-10-01T02:56:32.273471+00:00"
     }
   },
-  "last_updated": "2026-09-30T21:37:51.430248+00:00"
+  "last_updated": "2026-10-01T02:56:32.362001+00:00"
 }
