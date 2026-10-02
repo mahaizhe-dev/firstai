@@ -1,109 +1,5 @@
 {
   "articles": {
-    "7236b6d88f9afc4c": {
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "fetched_at": "2026-09-24T20:53:33.252592+00:00"
-    },
-    "db27adbf5c5a9b83": {
-      "title": "Show HN: A $25 DIY alternative to $159 AI voice recorders – BYOK or local",
-      "fetched_at": "2026-09-24T20:53:33.934289+00:00"
-    },
-    "68eb79678aec1c9a": {
-      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-      "fetched_at": "2026-09-24T20:53:34.548302+00:00"
-    },
-    "79603a4a0254f765": {
-      "title": "Anthropic Strikes $12B AI Computing Deal with Akamai",
-      "fetched_at": "2026-09-24T20:53:35.162644+00:00"
-    },
-    "3abcfd8a3e943d88": {
-      "title": "Restaurants Are Using AI to Advertise Their Food and It's Making People Sick",
-      "fetched_at": "2026-09-24T20:53:35.782495+00:00"
-    },
-    "2c847bd6ef2ba8a5": {
-      "title": "A new data layer for robot learning",
-      "fetched_at": "2026-09-24T20:53:36.386543+00:00"
-    },
-    "cb5d46b6dbe8d054": {
-      "title": "How to stay smart in the age of AI: the science of critical thinking",
-      "fetched_at": "2026-09-24T20:53:37.018616+00:00"
-    },
-    "d8eca7cf25ee2bbf": {
-      "title": "Why AI companies don't need new laws",
-      "fetched_at": "2026-09-24T20:53:37.697874+00:00"
-    },
-    "c35578eee4491131": {
-      "title": "Alexandr Wang Is Meta's Not-So-Secret Weapon in the AI Agent Promo War",
-      "fetched_at": "2026-09-24T20:53:38.390732+00:00"
-    },
-    "dd7052f8fdb528b2": {
-      "title": "Tech leaders to UN: For sake of humanity, please control the AI tech we created",
-      "fetched_at": "2026-09-24T20:53:39.004424+00:00"
-    },
-    "e482a02f674b4425": {
-      "title": "Tiny-Vedas: RISC-V Infrastructure for AI Accelerator Design [pdf]",
-      "fetched_at": "2026-09-24T20:53:39.614917+00:00"
-    },
-    "b172eefbf680d092": {
-      "title": "GizmoSQL changes the unit economics for AI analyst companies",
-      "fetched_at": "2026-09-24T20:53:40.230609+00:00"
-    },
-    "eb8f2926e397745f": {
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "fetched_at": "2026-09-24T20:53:40.884011+00:00"
-    },
-    "51d3d19ae069c422": {
-      "title": "Ask HN: How do you coach new grads in AI Native dev environments?",
-      "fetched_at": "2026-09-24T20:53:41.523234+00:00"
-    },
-    "8052c651161d26c7": {
-      "title": "When AI writes almost all code, what happens to software engineering?",
-      "fetched_at": "2026-09-24T20:53:42.136717+00:00"
-    },
-    "217aea1628dd0365": {
-      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-      "fetched_at": "2026-09-24T20:53:42.760987+00:00"
-    },
-    "50c6621ad74a132e": {
-      "title": "Behind NAZA: How AI is used to assess, reduce collateral damage in IDF interview",
-      "fetched_at": "2026-09-24T20:53:43.465135+00:00"
-    },
-    "982378e9cc58a8d3": {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "fetched_at": "2026-09-24T20:53:44.081896+00:00"
-    },
-    "8fff9ca4f5b0146e": {
-      "title": "GPT-6 Sol is like GPT-5.6 Terra, GPT-6 Luna is like GPT-5.6 Asteroid",
-      "fetched_at": "2026-09-24T20:53:44.703432+00:00"
-    },
-    "213936d27ce20b90": {
-      "title": "OpenAI, Anthropic CEOs urge UN countries to cooperate on AI safety standards",
-      "fetched_at": "2026-09-24T20:53:45.323473+00:00"
-    },
-    "9f4b80cc747f91f3": {
-      "title": "特朗普与习近平在白宫会面，外界对峰会成果预期较低",
-      "fetched_at": "2026-09-24T20:53:48.698876+00:00"
-    },
-    "707e70332f33395a": {
-      "title": "美國能在外太空部署哪些武器？",
-      "fetched_at": "2026-09-24T20:53:49.318859+00:00"
-    },
-    "d2793b96d9ecec8d": {
-      "title": "中國有越來越多的男性開始「厭女」嗎？",
-      "fetched_at": "2026-09-24T20:53:49.919107+00:00"
-    },
-    "cb299563962e0671": {
-      "title": "Medieval Heating System Discovered in Switzerland",
-      "fetched_at": "2026-09-24T20:53:52.213190+00:00"
-    },
-    "b5b5bd2ec59b3d13": {
-      "title": "Rare armored dinosaur found in Japan may have ancestors that migrated across a land bridge 100 million years ago",
-      "fetched_at": "2026-09-24T20:53:52.834708+00:00"
-    },
-    "2935a742b0bad929": {
-      "title": "Is This Ancient Wall Under Central Paris From the City's Earliest Settlement?",
-      "fetched_at": "2026-09-24T20:53:53.473504+00:00"
-    },
     "1342829257d20282": {
       "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
       "fetched_at": "2026-09-25T02:19:32.994371+00:00"
@@ -2815,7 +2711,99 @@
     "437f814259ee0339": {
       "title": "Hurricane Polo exploded in intensity in just 24 hours. Is the 'super' El Niño to blame?",
       "fetched_at": "2026-10-02T16:59:04.651303+00:00"
+    },
+    "7acba2d5f296235c": {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "fetched_at": "2026-10-02T21:32:28.148634+00:00"
+    },
+    "9cb56ae5f8aad7be": {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "fetched_at": "2026-10-02T21:32:28.758874+00:00"
+    },
+    "dd957bd388c51297": {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "fetched_at": "2026-10-02T21:32:29.367927+00:00"
+    },
+    "7c7fea5874506be0": {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "fetched_at": "2026-10-02T21:32:29.975506+00:00"
+    },
+    "460dc42327850686": {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "fetched_at": "2026-10-02T21:32:30.584787+00:00"
+    },
+    "4cc9380927a23b5b": {
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "fetched_at": "2026-10-02T21:32:31.203058+00:00"
+    },
+    "a8a22f15bdb3933d": {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "fetched_at": "2026-10-02T21:32:31.809333+00:00"
+    },
+    "47fb0653cb6ab35c": {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "fetched_at": "2026-10-02T21:32:32.499818+00:00"
+    },
+    "a76a50eecc8a5ad3": {
+      "title": "Breaking up (with Elon Musk) is hard to do",
+      "fetched_at": "2026-10-02T21:32:33.117610+00:00"
+    },
+    "ea6b04aa5661a64b": {
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "fetched_at": "2026-10-02T21:32:33.735264+00:00"
+    },
+    "ad07795c86cb6d02": {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "fetched_at": "2026-10-02T21:32:34.355506+00:00"
+    },
+    "de9e4a7da0cb64ea": {
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "fetched_at": "2026-10-02T21:32:34.967747+00:00"
+    },
+    "db158ddc28aba2bd": {
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "fetched_at": "2026-10-02T21:32:35.581002+00:00"
+    },
+    "cb8ab6f9a0523822": {
+      "title": "AI hallucinations are making entitled customers even worse",
+      "fetched_at": "2026-10-02T21:32:36.186807+00:00"
+    },
+    "8d18adda5b2bc194": {
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "fetched_at": "2026-10-02T21:32:36.790458+00:00"
+    },
+    "ece7f91535e1eabe": {
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "fetched_at": "2026-10-02T21:32:37.409031+00:00"
+    },
+    "694fd0d90a92a2f7": {
+      "title": "Rare two-headed turtle hatchling discovered on Cape Cod",
+      "fetched_at": "2026-10-02T21:32:41.496621+00:00"
+    },
+    "5b04dbf1f3d84598": {
+      "title": "Colorful wildflowers bloom across Chile's Atacama Desert in wake of 'super' El Niño",
+      "fetched_at": "2026-10-02T21:32:42.105836+00:00"
+    },
+    "c2e6cc109bc5ab88": {
+      "title": "Mesolithic Lumber Recovered in Germany’s Lake Arendsee",
+      "fetched_at": "2026-10-02T21:32:42.805974+00:00"
+    },
+    "e06e35649cd08723": {
+      "title": "Animals may have evolved 200 million years earlier than previously thought, new study suggests",
+      "fetched_at": "2026-10-02T21:32:43.426330+00:00"
+    },
+    "8cef6595d96ee493": {
+      "title": "20th-Century Railroad Worker Camp Found in Iowa",
+      "fetched_at": "2026-10-02T21:32:44.034353+00:00"
+    },
+    "60856086a72bcdd5": {
+      "title": "Scottish Early Medieval Monastery Studied",
+      "fetched_at": "2026-10-02T21:32:44.730068+00:00"
+    },
+    "5daa48cde1582c33": {
+      "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
+      "fetched_at": "2026-10-02T21:32:45.343208+00:00"
     }
   },
-  "last_updated": "2026-10-02T16:59:04.758137+00:00"
+  "last_updated": "2026-10-02T21:32:45.450769+00:00"
 }
