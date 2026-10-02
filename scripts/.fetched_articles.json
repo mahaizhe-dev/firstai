@@ -1,141 +1,5 @@
 {
   "articles": {
-    "1018d6c6621c7e47": {
-      "title": "新玩意 252｜少数派的编辑们最近买了啥？",
-      "fetched_at": "2026-09-24T10:41:43.928671+00:00"
-    },
-    "e66fd1a4810ff56e": {
-      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-      "fetched_at": "2026-09-24T10:41:44.575169+00:00"
-    },
-    "ae9813a73a5b7ac3": {
-      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
-      "fetched_at": "2026-09-24T10:41:45.219978+00:00"
-    },
-    "f123714b669ea332": {
-      "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
-      "fetched_at": "2026-09-24T10:41:45.854702+00:00"
-    },
-    "e51069258fe73982": {
-      "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
-      "fetched_at": "2026-09-24T10:41:46.476180+00:00"
-    },
-    "2e1af024640a6c82": {
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "fetched_at": "2026-09-24T10:41:47.160428+00:00"
-    },
-    "d73d5362efec190a": {
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "fetched_at": "2026-09-24T10:41:47.795989+00:00"
-    },
-    "e26a1b4aef824a9f": {
-      "title": "Anthropic says its biology lab has already found something big",
-      "fetched_at": "2026-09-24T10:41:48.423089+00:00"
-    },
-    "5dd56f502d091759": {
-      "title": "Data centers are black boxes, but California wants to change that",
-      "fetched_at": "2026-09-24T10:41:49.047209+00:00"
-    },
-    "89f589edc636767d": {
-      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-      "fetched_at": "2026-09-24T10:41:49.711552+00:00"
-    },
-    "833bf4af8ba109c8": {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "fetched_at": "2026-09-24T10:41:50.332864+00:00"
-    },
-    "3f4ad519e9f8c1df": {
-      "title": "Even Americans who use AI every day are worried about it",
-      "fetched_at": "2026-09-24T10:41:51.020790+00:00"
-    },
-    "54b14ca5de6467d2": {
-      "title": "特朗普為何親赴機場，超規格接待習近平？",
-      "fetched_at": "2026-09-24T10:41:53.093179+00:00"
-    },
-    "3cc07c11b69e7782": {
-      "title": "習近平訪美首日看點：誰同行？第一夫人角色？高規格接待引反彈？",
-      "fetched_at": "2026-09-24T10:41:53.737138+00:00"
-    },
-    "8c4c0d14ec23740d": {
-      "title": "OpenAI智能體入侵澳洲政府網站竊取資料 官方兩月後才發覺",
-      "fetched_at": "2026-09-24T10:41:54.378349+00:00"
-    },
-    "e9887e00d1b4492b": {
-      "title": "中美关系正步入一个新时代",
-      "fetched_at": "2026-09-24T10:41:55.002572+00:00"
-    },
-    "030b112a0ea75eb8": {
-      "title": "俄羅斯佔領烏克蘭城市：居民靠院中野菜維生，死者無法下葬，遺體「棄置街頭」",
-      "fetched_at": "2026-09-24T10:41:55.759580+00:00"
-    },
-    "bbb3bc351b8a5986": {
-      "title": "美国人对华态度回暖，更多人以积极眼光看待中国",
-      "fetched_at": "2026-09-24T10:41:56.391082+00:00"
-    },
-    "bc03ef90299ca6ff": {
-      "title": "贝森特：美中同意将贸易休战期延长两个月",
-      "fetched_at": "2026-09-24T10:41:57.220546+00:00"
-    },
-    "273133f08b237b0b": {
-      "title": "倾国之力：习近平希望用人工智能助中国赢得未来",
-      "fetched_at": "2026-09-24T10:41:57.861949+00:00"
-    },
-    "a03b15bc6534dee9": {
-      "title": "習近平訪美晤特朗普：中美競賽誰領先？美國民眾怎麼看",
-      "fetched_at": "2026-09-24T10:41:58.483203+00:00"
-    },
-    "f2637df996843b40": {
-      "title": "关于人工智能安全，中国真正在乎的是什么",
-      "fetched_at": "2026-09-24T10:41:59.115298+00:00"
-    },
-    "84647089bee3f346": {
-      "title": "特朗普为何淡化中美竞争、“讨好”习近平",
-      "fetched_at": "2026-09-24T10:41:59.749297+00:00"
-    },
-    "3015dba829f498ec": {
-      "title": "中美AI竞赛：美国在哪些领域领先、哪些领域落后？",
-      "fetched_at": "2026-09-24T10:42:00.477689+00:00"
-    },
-    "3ccf4e3fd2a99055": {
-      "title": "Could comet 3I/ATLAS teach us about life beyond Earth? Scientists say the story's not over yet.",
-      "fetched_at": "2026-09-24T10:42:02.610077+00:00"
-    },
-    "29ec7f40e6203b4f": {
-      "title": "Japan switches on its first full-stack room-temperature quantum computer — and scientists plan to scale it up to 10,000 qubits",
-      "fetched_at": "2026-09-24T10:42:03.243444+00:00"
-    },
-    "d4af75ad58c92e2c": {
-      "title": "More REM sleep linked to lower risk of 83 diseases",
-      "fetched_at": "2026-09-24T10:42:03.902785+00:00"
-    },
-    "aefc4022cf01daf3": {
-      "title": "A broken rib from the world’s largest T. rex hid a 66-million-year-old secret",
-      "fetched_at": "2026-09-24T10:42:04.542860+00:00"
-    },
-    "437f814259ee0339": {
-      "title": "Hurricane Polo exploded in intensity in just 24 hours. Is the 'super' El Niño to blame?",
-      "fetched_at": "2026-09-24T10:42:05.179657+00:00"
-    },
-    "c68d91ff031e874e": {
-      "title": "Rare pregnancy infections may triple the risk of autism",
-      "fetched_at": "2026-09-24T10:42:05.852588+00:00"
-    },
-    "3740c2ac2ddb227b": {
-      "title": "These tropical trees breathe at night to survive drought",
-      "fetched_at": "2026-09-24T10:42:06.552697+00:00"
-    },
-    "6592d642db711815": {
-      "title": "First stellar stream beyond the Milky Way could reveal dark matter",
-      "fetched_at": "2026-09-24T10:42:07.182083+00:00"
-    },
-    "6d4edc951a80fb90": {
-      "title": "Why Viking museums still can’t escape the warrior myth",
-      "fetched_at": "2026-09-24T10:42:07.821368+00:00"
-    },
-    "aad7680f87cf804b": {
-      "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
-      "fetched_at": "2026-09-24T10:42:08.460707+00:00"
-    },
     "b84869c4af5075d4": {
       "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
       "fetched_at": "2026-09-24T16:04:19.480922+00:00"
@@ -2883,7 +2747,79 @@
     "be670d3a4a129c6e": {
       "title": "Curiosity's top 10 photos of Mars after 5,000 days of exploration",
       "fetched_at": "2026-10-02T02:59:10.851445+00:00"
+    },
+    "de90110731a8d0c9": {
+      "title": "AI music maker Suno now generates spoken words",
+      "fetched_at": "2026-10-02T11:31:21.645970+00:00"
+    },
+    "c931d899d0f105e1": {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "fetched_at": "2026-10-02T11:31:22.211428+00:00"
+    },
+    "9b0eaf9d6ec2b9c0": {
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "fetched_at": "2026-10-02T11:31:22.779311+00:00"
+    },
+    "5b946f95fee1f90d": {
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "fetched_at": "2026-10-02T11:31:23.346252+00:00"
+    },
+    "0957727db53546ee": {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "fetched_at": "2026-10-02T11:31:23.914748+00:00"
+    },
+    "62bb98e86679f8fb": {
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "fetched_at": "2026-10-02T11:31:24.533564+00:00"
+    },
+    "491081db9f9b0632": {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "fetched_at": "2026-10-02T11:31:25.092250+00:00"
+    },
+    "5cc82b948853ef65": {
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "fetched_at": "2026-10-02T11:31:25.657384+00:00"
+    },
+    "a76f78f8f2ddd926": {
+      "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
+      "fetched_at": "2026-10-02T11:31:28.268819+00:00"
+    },
+    "96e99e747e618b12": {
+      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
+      "fetched_at": "2026-10-02T11:31:28.918948+00:00"
+    },
+    "0cf1cc8134b32929": {
+      "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
+      "fetched_at": "2026-10-02T11:31:29.481119+00:00"
+    },
+    "f6b2d0ca32737e3b": {
+      "title": "「你有五年規劃，我有移民計劃」：香港年輕人為何焦慮？",
+      "fetched_at": "2026-10-02T11:31:30.046735+00:00"
+    },
+    "e7943f3bd68cbd64": {
+      "title": "The ancestors of today's Indigenous people arrived in the Americas during the coldest part of the last ice age, study suggests",
+      "fetched_at": "2026-10-02T11:31:37.791187+00:00"
+    },
+    "72f49add580fd826": {
+      "title": "'A kind of Rosetta Stone': AI decodes 217-year-old secret letter ordered by Napoleon",
+      "fetched_at": "2026-10-02T11:31:38.412638+00:00"
+    },
+    "c8abfe68554475c2": {
+      "title": "'It's a portrait of their actual ancestor': Facial reconstruction of Indigenous man who lived in Ecuador 3,000 years ago shared with his descendants",
+      "fetched_at": "2026-10-02T11:31:38.976520+00:00"
+    },
+    "9efa38f37b7ee1bf": {
+      "title": "Earth's first bats didn't come from where we thought, landmark genetic study reveals",
+      "fetched_at": "2026-10-02T11:31:39.551009+00:00"
+    },
+    "f47c2dd85918f7c2": {
+      "title": "Missing Celtic fort annihilated by Julius Caesar finally found under Paris hospital",
+      "fetched_at": "2026-10-02T11:31:40.117238+00:00"
+    },
+    "75d5169c0efb7a3e": {
+      "title": "Astronomers detected radio signals coming from an exoplanet for the first time. Spoiler alert: It's not aliens.",
+      "fetched_at": "2026-10-02T11:31:40.685104+00:00"
     }
   },
-  "last_updated": "2026-10-02T02:59:10.968206+00:00"
+  "last_updated": "2026-10-02T11:31:40.797223+00:00"
 }
