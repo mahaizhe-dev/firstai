@@ -1,0 +1,10 @@
+---
+title: 'OpenAI safety employee resigns, claiming the company’s ‘culture is broken’'
+description: 'By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.'
+pubDate: 2026-10-03T16:30:01
+source: 'TechCrunch AI'
+sourceUrl: 'https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/'
+tags: []
+---
+
+By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.
