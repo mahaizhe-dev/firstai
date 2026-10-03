@@ -1,109 +1,5 @@
 {
   "articles": {
-    "1342829257d20282": {
-      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "fetched_at": "2026-09-25T02:19:32.994371+00:00"
-    },
-    "01a70787ef67ed84": {
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "fetched_at": "2026-09-25T02:19:33.651890+00:00"
-    },
-    "1893dc5f14fcd8aa": {
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "fetched_at": "2026-09-25T02:19:34.240999+00:00"
-    },
-    "556bc78754bc2704": {
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "fetched_at": "2026-09-25T02:19:34.832833+00:00"
-    },
-    "9837ea24770abecb": {
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "fetched_at": "2026-09-25T02:19:35.415590+00:00"
-    },
-    "7a6dcfd7b14018de": {
-      "title": "Muse will apparently let you download its entire filesystem",
-      "fetched_at": "2026-09-25T02:19:36.005877+00:00"
-    },
-    "8dad8e5f4464e15e": {
-      "title": "Muse sure looks a lot like OpenClaw",
-      "fetched_at": "2026-09-25T02:19:36.596186+00:00"
-    },
-    "fd3ee3519d93da50": {
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-      "fetched_at": "2026-09-25T02:19:37.276838+00:00"
-    },
-    "20fac00265f0b6a5": {
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "fetched_at": "2026-09-25T02:19:37.863312+00:00"
-    },
-    "7a622b5cc97e5846": {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "fetched_at": "2026-09-25T02:19:38.460520+00:00"
-    },
-    "ba39f0ffd45c7ec2": {
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "fetched_at": "2026-09-25T02:19:39.045286+00:00"
-    },
-    "378fb9ea264b2c36": {
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "fetched_at": "2026-09-25T02:19:39.636420+00:00"
-    },
-    "544d3203f7c481fd": {
-      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-25T02:19:40.228639+00:00"
-    },
-    "b474849f42de8ece": {
-      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-      "fetched_at": "2026-09-25T02:19:40.806431+00:00"
-    },
-    "3338741e7aea7262": {
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-      "fetched_at": "2026-09-25T02:19:41.397883+00:00"
-    },
-    "6b678f819d1be48e": {
-      "title": "Why can’t we just keep rogue AIs off the internet?",
-      "fetched_at": "2026-09-25T02:19:41.969557+00:00"
-    },
-    "c22b76dd6f77d4d9": {
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "fetched_at": "2026-09-25T02:19:42.605539+00:00"
-    },
-    "04b871e951f47c84": {
-      "title": "Google is sending an AI satellite into space next week",
-      "fetched_at": "2026-09-25T02:19:43.194333+00:00"
-    },
-    "7df194f751b960a1": {
-      "title": "The vibes are bad for Flock in Washington",
-      "fetched_at": "2026-09-25T02:19:43.779713+00:00"
-    },
-    "a58814543c68d25c": {
-      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-      "fetched_at": "2026-09-25T02:19:44.361713+00:00"
-    },
-    "bd7f901f634d99db": {
-      "title": "“习特会”国宴菜单：芝麻脆皮海鲈鱼和爽脆嫩白菜",
-      "fetched_at": "2026-09-25T02:19:47.188302+00:00"
-    },
-    "94fb9e8045c07893": {
-      "title": "「讓女性感到被看見」：為何荷蘭人為陰唇創造了一個新詞？",
-      "fetched_at": "2026-09-25T02:19:47.973761+00:00"
-    },
-    "521b9da822449204": {
-      "title": "習近平訪美排場十足，但迄今進展甚微",
-      "fetched_at": "2026-09-25T02:19:48.551814+00:00"
-    },
-    "fe4f315148c2183b": {
-      "title": "Archaeologists discover 'tomb of the very highest rank' in 2,700-year-old Etruscan cemetery",
-      "fetched_at": "2026-09-25T02:19:50.934267+00:00"
-    },
-    "61f559c732b209de": {
-      "title": "Roman Fortress Gate in Romania Unearthed",
-      "fetched_at": "2026-09-25T02:19:51.511312+00:00"
-    },
-    "bacaa239722167bd": {
-      "title": "Show HN: AIR – discovery scores for 1,800 US small-caps, never restated",
-      "fetched_at": "2026-09-25T02:19:52.164095+00:00"
-    },
     "d4c0d0165edfb98e": {
       "title": "Four things I learned throughout the last years working with AI",
       "fetched_at": "2026-09-25T10:45:21.398663+00:00"
@@ -2803,7 +2699,91 @@
     "5daa48cde1582c33": {
       "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
       "fetched_at": "2026-10-02T21:32:45.343208+00:00"
+    },
+    "cb5d46b6dbe8d054": {
+      "title": "How to stay smart in the age of AI: the science of critical thinking",
+      "fetched_at": "2026-10-03T02:44:22.521786+00:00"
+    },
+    "c3cbbe6979130efa": {
+      "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
+      "fetched_at": "2026-10-03T02:44:23.217395+00:00"
+    },
+    "1a24658b381d966b": {
+      "title": "AI bots are flooding researchers with requests for money and time",
+      "fetched_at": "2026-10-03T02:44:23.847493+00:00"
+    },
+    "2d72be1e61141ac6": {
+      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App",
+      "fetched_at": "2026-10-03T02:44:24.461605+00:00"
+    },
+    "471578567b027a4a": {
+      "title": "Do not build the LLM torture factory",
+      "fetched_at": "2026-10-03T02:44:25.086199+00:00"
+    },
+    "770e6e5539534017": {
+      "title": "Underdog private personal on-device local AI for privacy and security",
+      "fetched_at": "2026-10-03T02:44:25.703450+00:00"
+    },
+    "89ea606a8fc7ecf6": {
+      "title": "The Fastest Growing Market in Tech Isn't AI – Tomasz Tunguz",
+      "fetched_at": "2026-10-03T02:44:26.326066+00:00"
+    },
+    "989fe70932560d14": {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "fetched_at": "2026-10-03T02:44:26.949492+00:00"
+    },
+    "37b956ea96ac48c4": {
+      "title": "GitHub mutuals on AI in life sciences or bioinformatics",
+      "fetched_at": "2026-10-03T02:44:27.572311+00:00"
+    },
+    "7bebaad9292ab6dd": {
+      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+      "fetched_at": "2026-10-03T02:44:28.181667+00:00"
+    },
+    "515e91b18e54dd90": {
+      "title": "When AI Starts Writing Systems Code",
+      "fetched_at": "2026-10-03T02:44:28.791716+00:00"
+    },
+    "63e20d10f39098bd": {
+      "title": "Tinfoil private AI chat adds TEE-side content scanning",
+      "fetched_at": "2026-10-03T02:44:29.403413+00:00"
+    },
+    "ebede729384647dc": {
+      "title": "'Winning AI'",
+      "fetched_at": "2026-10-03T02:44:30.094889+00:00"
+    },
+    "11f772ad8011b8d6": {
+      "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
+      "fetched_at": "2026-10-03T02:44:30.712999+00:00"
+    },
+    "996c3003ecc796d1": {
+      "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
+      "fetched_at": "2026-10-03T02:44:31.470510+00:00"
+    },
+    "13ece501519fed05": {
+      "title": "AI Torture Chamber – Steering LLMs into negative and positive valence states",
+      "fetched_at": "2026-10-03T02:44:32.107983+00:00"
+    },
+    "112f750658131e5d": {
+      "title": "LLMs Will Not Replace AI Compilers. They Will Call Them.",
+      "fetched_at": "2026-10-03T02:44:32.738139+00:00"
+    },
+    "deff4855d6b7d899": {
+      "title": "An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
+      "fetched_at": "2026-10-03T02:44:33.390852+00:00"
+    },
+    "2de4417b3c73c37b": {
+      "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
+      "fetched_at": "2026-10-03T02:44:34.012149+00:00"
+    },
+    "db9c147e818d4067": {
+      "title": "Can You SEO Your Way into an AI Agent's Recommendation?",
+      "fetched_at": "2026-10-03T02:44:34.639599+00:00"
+    },
+    "b5b5bd2ec59b3d13": {
+      "title": "Rare armored dinosaur found in Japan may have ancestors that migrated across a land bridge 100 million years ago",
+      "fetched_at": "2026-10-03T02:44:37.950810+00:00"
     }
   },
-  "last_updated": "2026-10-02T21:32:45.450769+00:00"
+  "last_updated": "2026-10-03T02:44:38.052351+00:00"
 }
