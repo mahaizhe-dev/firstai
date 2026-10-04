@@ -1,165 +1,5 @@
 {
   "articles": {
-    "e2c79b56f7edff2f": {
-      "title": "Learning the Bitter Lesson of Agent Harnesses [video]",
-      "fetched_at": "2026-09-25T20:50:10.402433+00:00"
-    },
-    "7e5882d4c715a674": {
-      "title": "Show HN: Piloxa – an MCP server that sends USPS Certified Mail from your AI",
-      "fetched_at": "2026-09-25T20:50:11.016103+00:00"
-    },
-    "5e78e1acaa05e67e": {
-      "title": "Too AI; Didn't Read",
-      "fetched_at": "2026-09-25T20:50:11.625589+00:00"
-    },
-    "a373d737494fef22": {
-      "title": "The Scarcity Premium: AI made images free; advertising as a solvency bond",
-      "fetched_at": "2026-09-25T20:50:12.299890+00:00"
-    },
-    "f1ac3e78701061a8": {
-      "title": "Meta opens early access program for new Muse features",
-      "fetched_at": "2026-09-25T20:50:12.916146+00:00"
-    },
-    "34a316a09289fdde": {
-      "title": "Show HN: A free resume builder where the AI can rewrite but can't invent",
-      "fetched_at": "2026-09-25T20:50:13.521052+00:00"
-    },
-    "088d7ae12f2e74b5": {
-      "title": "AI starter pack for the X-curious",
-      "fetched_at": "2026-09-25T20:50:14.128397+00:00"
-    },
-    "b837448deeb55351": {
-      "title": "AI will grow beyond our control, we must instill good values before it does",
-      "fetched_at": "2026-09-25T20:50:14.757282+00:00"
-    },
-    "d1b6ee563d2c523b": {
-      "title": "The District – a live map where AI agents grow their own plots of land",
-      "fetched_at": "2026-09-25T20:50:15.418317+00:00"
-    },
-    "1e1631fc71a66892": {
-      "title": "To Understand AI, Think Like a Dragonfly",
-      "fetched_at": "2026-09-25T20:50:16.030419+00:00"
-    },
-    "9cda81d078fe4380": {
-      "title": "Geely's AI fast charging 'heals' EV batteries for 20% more cycle life",
-      "fetched_at": "2026-09-25T20:50:16.646870+00:00"
-    },
-    "f54f6c2f1712627d": {
-      "title": "Tell HN: Stop emailing HN users with deceptive AI spam",
-      "fetched_at": "2026-09-25T20:50:17.252550+00:00"
-    },
-    "e913e39d4a37205f": {
-      "title": "AI-Powered PDF Extraction for Finance",
-      "fetched_at": "2026-09-25T20:50:17.875813+00:00"
-    },
-    "343bbf791c441c97": {
-      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "fetched_at": "2026-09-25T20:50:18.471012+00:00"
-    },
-    "94e35286356c4487": {
-      "title": "Pope: AI must serve humans not become tool of domination",
-      "fetched_at": "2026-09-25T20:50:19.294826+00:00"
-    },
-    "69cc4b80e2f5161e": {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "fetched_at": "2026-09-25T20:50:19.907551+00:00"
-    },
-    "a601dc18476a1537": {
-      "title": "A reminder on why basic prompt caching is so important to build AI agents",
-      "fetched_at": "2026-09-25T20:50:20.508586+00:00"
-    },
-    "fbeddf1de97378d7": {
-      "title": "AI Infra Is Nothing Like the Classic Cloud Infra",
-      "fetched_at": "2026-09-25T20:50:21.115448+00:00"
-    },
-    "b63edbaf038b71f1": {
-      "title": "No country controls every layer: The hidden AI systems reshaping global power",
-      "fetched_at": "2026-09-25T20:50:21.760702+00:00"
-    },
-    "2610e1d4f6788402": {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "fetched_at": "2026-09-25T20:50:22.381777+00:00"
-    },
-    "edeae3f3f400958c": {
-      "title": "習近平訪美最後一天 參觀國家檔案館後返華",
-      "fetched_at": "2026-09-25T20:50:25.193158+00:00"
-    },
-    "bc9c6e81969371cf": {
-      "title": "領英高層分享6個人脈竅門，幫你更快找到工作",
-      "fetched_at": "2026-09-25T20:50:25.806329+00:00"
-    },
-    "747333df100dab94": {
-      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
-      "fetched_at": "2026-09-25T20:50:26.415951+00:00"
-    },
-    "afc068a39bd4ae5f": {
-      "title": "New kind of AI audio chip transforms earbuds into always-on 'intelligent' devices that run without a smartphone. How does it work?",
-      "fetched_at": "2026-09-25T20:51:28.712139+00:00"
-    },
-    "43af87829b5ae9ab": {
-      "title": "Pyramid-Shaped Tomb Unearthed in Egypt’s Dakhleh Oasis",
-      "fetched_at": "2026-09-25T20:51:29.335418+00:00"
-    },
-    "4234ffb6825c8d49": {
-      "title": "Artifacts in Etruscan Tomb Reflect Mediterranean Trade",
-      "fetched_at": "2026-09-25T20:51:29.938558+00:00"
-    },
-    "280ab7bc11dee4ed": {
-      "title": "Intact Burials Excavated at Göbekli Tepe",
-      "fetched_at": "2026-09-25T20:51:30.546080+00:00"
-    },
-    "02b7397154fa3dff": {
-      "title": "'Predatory behavior': Elite mathematicians clash over OpenAI's 'solution' to million-dollar math problem",
-      "fetched_at": "2026-09-25T20:51:31.145300+00:00"
-    },
-    "b29743b9a5b2de58": {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "fetched_at": "2026-09-26T02:24:21.784185+00:00"
-    },
-    "ec6e222a80e03640": {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "fetched_at": "2026-09-26T02:24:22.405520+00:00"
-    },
-    "31f55da8772e8916": {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "fetched_at": "2026-09-26T02:24:23.022932+00:00"
-    },
-    "5ef0c92e0d493e94": {
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "fetched_at": "2026-09-26T02:24:23.643030+00:00"
-    },
-    "f83f7106c75183c0": {
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "fetched_at": "2026-09-26T02:24:24.257617+00:00"
-    },
-    "e720550b4039fc29": {
-      "title": "Astra and Opus just passed Turing’s other test",
-      "fetched_at": "2026-09-26T02:24:24.875721+00:00"
-    },
-    "539e54967d066d6f": {
-      "title": "Meta makes the Muse filesystem even more accessible",
-      "fetched_at": "2026-09-26T02:24:25.514015+00:00"
-    },
-    "dbbe77db6e8b9422": {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "fetched_at": "2026-09-26T02:24:26.133083+00:00"
-    },
-    "ac318f59d16ad830": {
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "fetched_at": "2026-09-26T02:24:26.767545+00:00"
-    },
-    "1cd55b9b71c09eec": {
-      "title": "中美贸易休战延长为习近平赢得喘息之机",
-      "fetched_at": "2026-09-26T02:24:29.847644+00:00"
-    },
-    "e5e1f85ec847581e": {
-      "title": "NASA teases new PRIMA telescope that could see what even the James Webb telescope can't",
-      "fetched_at": "2026-09-26T02:24:32.517168+00:00"
-    },
-    "aa19b3e7f92a0f9f": {
-      "title": "Scientists identify rare genetic mutation that dramatically raises risk of lung cancer in nonsmokers",
-      "fetched_at": "2026-09-26T02:24:33.145547+00:00"
-    },
     "e820b9c699a95c32": {
       "title": "One Month Without AI",
       "fetched_at": "2026-09-26T10:27:23.038683+00:00"
@@ -2699,7 +2539,27 @@
     "da5dfe83643981be": {
       "title": "Author Rose George dives into the dark depths of the fishing industry",
       "fetched_at": "2026-10-03T20:18:52.923778+00:00"
+    },
+    "f1fa08e27c181a69": {
+      "title": "迪拜航空劫機案：阿聯酋官員稱副駕駛用應急斧頭砍傷機長",
+      "fetched_at": "2026-10-04T03:15:57.178452+00:00"
+    },
+    "febec45dd0436f70": {
+      "title": "中國、台灣民眾如何看「習特會」？專家如何解讀峰會成果？",
+      "fetched_at": "2026-10-04T03:15:57.809620+00:00"
+    },
+    "2bfd11f427ba2677": {
+      "title": "美中各從「白宮習特會」得到什麼？",
+      "fetched_at": "2026-10-04T03:15:58.434333+00:00"
+    },
+    "7889ddb9044d9f70": {
+      "title": "'Everything we know about space travel is going to change within a decade': The fusion breakthrough that could unlock a path to the stars",
+      "fetched_at": "2026-10-04T03:16:01.403248+00:00"
+    },
+    "6aa1e1daff1400d7": {
+      "title": "Best binoculars 2026: The ultimate buying guide for birdwatching, stargazing and more",
+      "fetched_at": "2026-10-04T03:16:02.016950+00:00"
     }
   },
-  "last_updated": "2026-10-03T20:18:53.025153+00:00"
+  "last_updated": "2026-10-04T03:16:02.112301+00:00"
 }
