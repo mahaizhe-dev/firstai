@@ -1,105 +1,5 @@
 {
   "articles": {
-    "e820b9c699a95c32": {
-      "title": "One Month Without AI",
-      "fetched_at": "2026-09-26T10:27:23.038683+00:00"
-    },
-    "a540f294853aaa18": {
-      "title": "Show HN: App2Api – Give your AI the API behind your app",
-      "fetched_at": "2026-09-26T10:27:23.640006+00:00"
-    },
-    "80bc1f4d21462c2d": {
-      "title": "Flashcat – a local AI assistant for the Mac terminal that asks first",
-      "fetched_at": "2026-09-26T10:27:24.240480+00:00"
-    },
-    "a2ef444195104871": {
-      "title": "LLM Red-temaing vs. Agent Red teaming",
-      "fetched_at": "2026-09-26T10:27:24.833478+00:00"
-    },
-    "548c0c9d140b4715": {
-      "title": "Using Pomodoro to limit interaction with AI",
-      "fetched_at": "2026-09-26T10:27:25.424974+00:00"
-    },
-    "a7169ed7d02bd6d6": {
-      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "fetched_at": "2026-09-26T10:27:26.031375+00:00"
-    },
-    "a05f917e4fda51bc": {
-      "title": "EU Member States plan \"digital expropriation\" of Europeans in the interest of AI",
-      "fetched_at": "2026-09-26T10:27:26.630537+00:00"
-    },
-    "ca6c34d474dce7ad": {
-      "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
-      "fetched_at": "2026-09-26T10:27:27.229752+00:00"
-    },
-    "b1d3d260f0d0ac89": {
-      "title": "Nobody wanted an \"AI PC,\" so Microsoft stopped calling it that",
-      "fetched_at": "2026-09-26T10:27:27.824741+00:00"
-    },
-    "3375a10469bdb66c": {
-      "title": "Who is behind the AI safety backlash?",
-      "fetched_at": "2026-09-26T10:27:28.416386+00:00"
-    },
-    "e98c0b075bb477cf": {
-      "title": "Thought on how to deal with AI crawlers",
-      "fetched_at": "2026-09-26T10:27:29.024450+00:00"
-    },
-    "ea38f04d1adc7df6": {
-      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise",
-      "fetched_at": "2026-09-26T10:27:29.624342+00:00"
-    },
-    "02791d9c981be70b": {
-      "title": "Novelist accused of using AI to write book removed from French prize list",
-      "fetched_at": "2026-09-26T10:27:30.288376+00:00"
-    },
-    "bb9462257d01de52": {
-      "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
-      "fetched_at": "2026-09-26T10:27:30.892969+00:00"
-    },
-    "70dc5d555b93fd46": {
-      "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
-      "fetched_at": "2026-09-26T10:27:31.540985+00:00"
-    },
-    "fbb42917527601de": {
-      "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
-      "fetched_at": "2026-09-26T10:27:32.316957+00:00"
-    },
-    "c5114fa2f80cb599": {
-      "title": "Can AI Shopping Agents Be Trusted?",
-      "fetched_at": "2026-09-26T10:27:32.914600+00:00"
-    },
-    "f4219b1da52a45ba": {
-      "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
-      "fetched_at": "2026-09-26T10:27:33.526234+00:00"
-    },
-    "de789ccf2a7f9381": {
-      "title": "Stanford student was erased after university photo change sparks AI controversy",
-      "fetched_at": "2026-09-26T10:27:34.135409+00:00"
-    },
-    "2ff57d62b282adb8": {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "fetched_at": "2026-09-26T10:27:34.724582+00:00"
-    },
-    "e920a9ef820b9c54": {
-      "title": "“习特会”落幕，中美分歧仍然暗流涌动",
-      "fetched_at": "2026-09-26T10:27:37.189798+00:00"
-    },
-    "088a28874891c54b": {
-      "title": "在国宴上穿裤子的美国第一夫人",
-      "fetched_at": "2026-09-26T10:27:37.792828+00:00"
-    },
-    "ddad8f55c394c047": {
-      "title": "白宫国宴：AI巨头与习近平共进晚餐，特朗普脱稿演讲",
-      "fetched_at": "2026-09-26T10:27:38.386859+00:00"
-    },
-    "37580de911e39de9": {
-      "title": "Why does lithium work against bipolar disorder?",
-      "fetched_at": "2026-09-26T10:27:49.235993+00:00"
-    },
-    "7460621012c36c64": {
-      "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
-      "fetched_at": "2026-09-26T10:27:49.840946+00:00"
-    },
     "465c0d6296b788bd": {
       "title": "All new PocketWebTools – Home of local AI",
       "fetched_at": "2026-09-26T15:18:32.393603+00:00"
@@ -2559,7 +2459,115 @@
     "6aa1e1daff1400d7": {
       "title": "Best binoculars 2026: The ultimate buying guide for birdwatching, stargazing and more",
       "fetched_at": "2026-10-04T03:16:02.016950+00:00"
+    },
+    "fbd64675e5d97de2": {
+      "title": "MentaAgent – a self-hosted AI analyst for a company's own files",
+      "fetched_at": "2026-10-04T11:28:15.194544+00:00"
+    },
+    "2e314ec5b878da9c": {
+      "title": "The ML4Good Technical AI Safety Bootcamp: What to Expect",
+      "fetched_at": "2026-10-04T11:28:15.813432+00:00"
+    },
+    "772eb113337b7684": {
+      "title": "AI Policy Enforcement Report",
+      "fetched_at": "2026-10-04T11:28:16.430003+00:00"
+    },
+    "e1057d9569cb9e04": {
+      "title": "[No] Use for Humans in the Age of AI",
+      "fetched_at": "2026-10-04T11:28:17.040823+00:00"
+    },
+    "400989b4e02d40f5": {
+      "title": "Show HN: ViralReel – Make the viral Hotel Lobby AI template video in 60 seconds",
+      "fetched_at": "2026-10-04T11:28:17.661387+00:00"
+    },
+    "79104f7a82394685": {
+      "title": "Show HN: Telegram AI Video Generator – Create AI Videos in Chat",
+      "fetched_at": "2026-10-04T11:28:18.283983+00:00"
+    },
+    "a33d6218525d9eb0": {
+      "title": "NIST AI SEC Core",
+      "fetched_at": "2026-10-04T11:28:18.910984+00:00"
+    },
+    "1d1d937cc97911bb": {
+      "title": "EU Enforcement AI Act",
+      "fetched_at": "2026-10-04T11:28:19.609904+00:00"
+    },
+    "3676b01d4e915d2c": {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "fetched_at": "2026-10-04T11:28:20.221128+00:00"
+    },
+    "c063a60158d1e008": {
+      "title": "AI, Desire, and Fictional Characters",
+      "fetched_at": "2026-10-04T11:28:20.860333+00:00"
+    },
+    "6b20bac30d78dacd": {
+      "title": "AI as Normal Technology (2025)",
+      "fetched_at": "2026-10-04T11:28:21.478627+00:00"
+    },
+    "84f14c476b1d4660": {
+      "title": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
+      "fetched_at": "2026-10-04T11:28:22.110993+00:00"
+    },
+    "d88148b0b6ca5c2c": {
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "fetched_at": "2026-10-04T11:28:22.734788+00:00"
+    },
+    "48090538f86a2402": {
+      "title": "Impact of AI Search Summaries on Website Traffic",
+      "fetched_at": "2026-10-04T11:28:23.357694+00:00"
+    },
+    "ee4189d502fa09d2": {
+      "title": "How does the AI and Agent Gateway market will shape up going forward",
+      "fetched_at": "2026-10-04T11:28:23.981889+00:00"
+    },
+    "72335fae3ecec6f4": {
+      "title": "AI Learning to Play Chess",
+      "fetched_at": "2026-10-04T11:28:24.607300+00:00"
+    },
+    "8c29cc3cfcee78d5": {
+      "title": "IBM Debuts Brain-Inspired Chip for Speedy, Efficient AI (2023)",
+      "fetched_at": "2026-10-04T11:28:25.228940+00:00"
+    },
+    "bbfe6fa10f4717bc": {
+      "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+      "fetched_at": "2026-10-04T11:28:25.229057+00:00"
+    },
+    "44f6f7ac830531d7": {
+      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+      "fetched_at": "2026-10-04T11:28:25.865578+00:00"
+    },
+    "bfaf41fb4f707a99": {
+      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "fetched_at": "2026-10-04T11:28:26.522797+00:00"
+    },
+    "d62241748fdb4c39": {
+      "title": "西班牙數萬人上街遊行：抗議住房危機 紮營佔領馬德里市中心",
+      "fetched_at": "2026-10-04T11:28:29.493084+00:00"
+    },
+    "747333df100dab94": {
+      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
+      "fetched_at": "2026-10-04T11:28:30.106314+00:00"
+    },
+    "cb4d5b2e40e54a11": {
+      "title": "First photos from Smile spacecraft show Earth like you've never seen it before",
+      "fetched_at": "2026-10-04T11:28:39.227519+00:00"
+    },
+    "21dab6cf40887f03": {
+      "title": "Do animals experience schadenfreude?",
+      "fetched_at": "2026-10-04T11:28:39.842941+00:00"
+    },
+    "e44b72142d822fc3": {
+      "title": "Feathered Dinosaur Discovery in China Suggests Flight Evolved Multiple Times",
+      "fetched_at": "2026-10-04T11:28:40.448967+00:00"
+    },
+    "e5e1f85ec847581e": {
+      "title": "NASA teases new PRIMA telescope that could see what even the James Webb telescope can't",
+      "fetched_at": "2026-10-04T11:28:41.057349+00:00"
+    },
+    "afc068a39bd4ae5f": {
+      "title": "New kind of AI audio chip transforms earbuds into always-on 'intelligent' devices that run without a smartphone. How does it work?",
+      "fetched_at": "2026-10-04T11:28:41.669505+00:00"
     }
   },
-  "last_updated": "2026-10-04T03:16:02.112301+00:00"
+  "last_updated": "2026-10-04T11:28:41.726407+00:00"
 }
