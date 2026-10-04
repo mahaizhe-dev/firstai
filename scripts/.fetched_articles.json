@@ -1,105 +1,5 @@
 {
   "articles": {
-    "465c0d6296b788bd": {
-      "title": "All new PocketWebTools – Home of local AI",
-      "fetched_at": "2026-09-26T15:18:32.393603+00:00"
-    },
-    "690319f00da4a192": {
-      "title": "I think this AI models are making us stupid and the reason is their interface",
-      "fetched_at": "2026-09-26T15:18:33.013642+00:00"
-    },
-    "b60a5bd5ebc87362": {
-      "title": "Show HN: I made HACKER AI for your vibecoded app",
-      "fetched_at": "2026-09-26T15:18:33.627605+00:00"
-    },
-    "f2f51608735b45a9": {
-      "title": "Show HN: Ogre MCP – Let your AI agent see your WoW Classic game state",
-      "fetched_at": "2026-09-26T15:18:34.299523+00:00"
-    },
-    "60fb117bad753392": {
-      "title": "The Office Harness for AI Agents – Spreadsheets,Docs,Slides,PDF in One Runtime",
-      "fetched_at": "2026-09-26T15:18:34.918529+00:00"
-    },
-    "6759956f461650de": {
-      "title": "All Quiet on the AI Front: The Future of Undergraduate Math Research",
-      "fetched_at": "2026-09-26T15:18:35.546728+00:00"
-    },
-    "d09f15cf84bc994a": {
-      "title": "Terraform and OpenTofu: A CI Checklist for AI-Generated Infra",
-      "fetched_at": "2026-09-26T15:18:36.199558+00:00"
-    },
-    "8390e76a7991004c": {
-      "title": "I'm coding directly in production with AI and I'm not looking back",
-      "fetched_at": "2026-09-26T15:18:36.853497+00:00"
-    },
-    "0633f86c5c867c6d": {
-      "title": "Oxford University lets OpenAI train its AI models on Bodleian Library",
-      "fetched_at": "2026-09-26T15:18:37.469904+00:00"
-    },
-    "5d12ffeb4547915b": {
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "fetched_at": "2026-09-26T15:18:38.154540+00:00"
-    },
-    "a47286af18b13a0d": {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "fetched_at": "2026-09-26T15:18:38.781004+00:00"
-    },
-    "e22ffd1a1d0c84ad": {
-      "title": "The AI Fraud Loophole Washington Refuses to Close",
-      "fetched_at": "2026-09-26T15:18:39.400832+00:00"
-    },
-    "989a39a5a82d5445": {
-      "title": "The AI Genie Phenomenon and Three Types of AI Chatbot Addiction",
-      "fetched_at": "2026-09-26T15:18:40.010232+00:00"
-    },
-    "08496f1e2712cb20": {
-      "title": "Show HN: AI coding agents that prove their work",
-      "fetched_at": "2026-09-26T15:18:40.742174+00:00"
-    },
-    "8448366629f18a7d": {
-      "title": "Show HN: Note Duel – LLM Arena for composing music",
-      "fetched_at": "2026-09-26T15:18:41.360380+00:00"
-    },
-    "dfa80a66f6a6d392": {
-      "title": "Homa: The End of TCP for AI Clusters [video]",
-      "fetched_at": "2026-09-26T15:18:41.982860+00:00"
-    },
-    "cea8e1419ac70dfb": {
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "fetched_at": "2026-09-26T15:18:42.663378+00:00"
-    },
-    "1e829ba945395ea2": {
-      "title": "Meta Expands Private Processing Confidential Computing to AI Glasses",
-      "fetched_at": "2026-09-26T15:18:43.299179+00:00"
-    },
-    "3d479ce75d3fe45a": {
-      "title": "No Blind Trust: Type Systems and Formal Verification for AI-Generated Code",
-      "fetched_at": "2026-09-26T15:18:43.927291+00:00"
-    },
-    "6040a4e67a698a04": {
-      "title": "CEO of Mistral: AI is software. It can be controlled",
-      "fetched_at": "2026-09-26T15:18:44.604288+00:00"
-    },
-    "caa9e57a154e545f": {
-      "title": "The Discovery Tax: Why Coding Agents Waste 2,500 Tokens Before Writing Code",
-      "fetched_at": "2026-09-26T15:18:48.961839+00:00"
-    },
-    "a2d2af299eefd1d2": {
-      "title": "Why the tomb of the 'Disturber of the Universe' remains hidden after 800 years",
-      "fetched_at": "2026-09-26T15:18:49.564786+00:00"
-    },
-    "bd1c8c99bcacc97a": {
-      "title": "Harvest Moon 2026: See the first full moon of autumn rise alongside Saturn tonight",
-      "fetched_at": "2026-09-26T15:18:50.170529+00:00"
-    },
-    "eaf6b13aabd7f371": {
-      "title": "Climate change will harm our health. Here's what could protect us.",
-      "fetched_at": "2026-09-26T15:18:50.776653+00:00"
-    },
-    "36a677a3cf486e02": {
-      "title": "AI agents resorted to crime and self-destruction to survive in a simulated world — but does this mean they would do the same in the real world?",
-      "fetched_at": "2026-09-26T15:18:51.395499+00:00"
-    },
     "22aa69fb94c1f5a2": {
       "title": "The Case for Learning in the Era of AI",
       "fetched_at": "2026-09-26T20:19:09.135584+00:00"
@@ -2567,7 +2467,63 @@
     "afc068a39bd4ae5f": {
       "title": "New kind of AI audio chip transforms earbuds into always-on 'intelligent' devices that run without a smartphone. How does it work?",
       "fetched_at": "2026-10-04T11:28:41.669505+00:00"
+    },
+    "eafc650c63b46906": {
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "fetched_at": "2026-10-04T16:06:39.354685+00:00"
+    },
+    "d0362f6daca4f9d5": {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "fetched_at": "2026-10-04T16:06:39.960972+00:00"
+    },
+    "9415ebc6f9c9d644": {
+      "title": "加拿大為何要為（概率極小的）美國入侵做準備",
+      "fetched_at": "2026-10-04T16:06:42.664512+00:00"
+    },
+    "088a28874891c54b": {
+      "title": "在国宴上穿裤子的美国第一夫人",
+      "fetched_at": "2026-10-04T16:06:43.326387+00:00"
+    },
+    "ddad8f55c394c047": {
+      "title": "白宫国宴：AI巨头与习近平共进晚餐，特朗普脱稿演讲",
+      "fetched_at": "2026-10-04T16:06:43.932713+00:00"
+    },
+    "fd51b0f7a5aeda5c": {
+      "title": "Scientists recreate the universe's first moments and find something they didn't expect",
+      "fetched_at": "2026-10-04T16:06:46.407658+00:00"
+    },
+    "a5cec6e53b523a40": {
+      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+      "fetched_at": "2026-10-04T16:06:47.010747+00:00"
+    },
+    "c3af01dc5f3cfb1e": {
+      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+      "fetched_at": "2026-10-04T16:06:47.633290+00:00"
+    },
+    "668419d3ca40a794": {
+      "title": "A forgotten 30-year forest experiment just delivered a huge surprise",
+      "fetched_at": "2026-10-04T16:06:48.234485+00:00"
+    },
+    "20f06dc0740e292c": {
+      "title": "Your gut bacteria may reveal how fast your brain is aging",
+      "fetched_at": "2026-10-04T16:06:48.902095+00:00"
+    },
+    "30b39ad5a3371fe2": {
+      "title": "Scientists just found a new way to make hydrogen from water",
+      "fetched_at": "2026-10-04T16:06:49.505112+00:00"
+    },
+    "fb3169b99fd87431": {
+      "title": "Vitamin D drug may help crack pancreatic cancer’s protective shield",
+      "fetched_at": "2026-10-04T16:06:50.105867+00:00"
+    },
+    "dad24a3d64ef9a01": {
+      "title": "Diet drinks work as well as water for weight loss, major trial finds",
+      "fetched_at": "2026-10-04T16:06:50.715671+00:00"
+    },
+    "37580de911e39de9": {
+      "title": "Why does lithium work against bipolar disorder?",
+      "fetched_at": "2026-10-04T16:06:51.331777+00:00"
     }
   },
-  "last_updated": "2026-10-04T11:28:41.726407+00:00"
+  "last_updated": "2026-10-04T16:06:51.368616+00:00"
 }
