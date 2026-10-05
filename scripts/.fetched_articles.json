@@ -1,165 +1,5 @@
 {
   "articles": {
-    "a99251f0f50c9567": {
-      "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
-      "fetched_at": "2026-09-27T15:56:52.501190+00:00"
-    },
-    "b317fd0ff806d7e8": {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "fetched_at": "2026-09-27T15:56:53.136376+00:00"
-    },
-    "3fe025835cc4cbd4": {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "fetched_at": "2026-09-27T15:56:53.785810+00:00"
-    },
-    "b4c4f799089c3be6": {
-      "title": "特習峰會成果盤點：關稅休戰、AI對話、未提台灣、暗指日本",
-      "fetched_at": "2026-09-27T15:56:56.059510+00:00"
-    },
-    "36731fa18446873f": {
-      "title": "TikTok與阿拉巴馬州和解：支付一億美元，限兒童使用時長、禁用美妝濾鏡",
-      "fetched_at": "2026-09-27T15:56:56.703132+00:00"
-    },
-    "404c596e585d78ec": {
-      "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因",
-      "fetched_at": "2026-09-27T15:56:57.458009+00:00"
-    },
-    "6cbba3186ca3d194": {
-      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
-      "fetched_at": "2026-09-27T15:57:06.854784+00:00"
-    },
-    "b3c2f718317e4cec": {
-      "title": "A giant cosmic 'fart' is making a wobbling zombie star repeatedly flash us, 'groundbreaking' observations reveal",
-      "fetched_at": "2026-09-27T15:57:00.553673+00:00"
-    },
-    "a373154dbd6ac680": {
-      "title": "Anthropic's Secretive AI-Powered Wet Lab Breaks Cover and Makes First Discovery",
-      "fetched_at": "2026-09-27T15:57:01.179132+00:00"
-    },
-    "8b09442b2546814b": {
-      "title": "James Webb telescope shares one of its biggest images ever, with record-breaking stars hiding in the dust",
-      "fetched_at": "2026-09-27T15:57:01.804513+00:00"
-    },
-    "2a3dbe57a61656f4": {
-      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-      "fetched_at": "2026-09-27T15:57:02.427895+00:00"
-    },
-    "30cceb1f851cd0cb": {
-      "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
-      "fetched_at": "2026-09-27T15:57:03.056288+00:00"
-    },
-    "1fc2dc517360932d": {
-      "title": "What is the closest any object has gotten to the sun?",
-      "fetched_at": "2026-09-27T15:57:03.700647+00:00"
-    },
-    "88ab5fad5399d493": {
-      "title": "New soil test could reveal how soil microbes help feed plants",
-      "fetched_at": "2026-09-27T15:57:04.334877+00:00"
-    },
-    "d6f43b19eaf6686e": {
-      "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
-      "fetched_at": "2026-09-27T15:57:04.975724+00:00"
-    },
-    "fe34a9715742bfdf": {
-      "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
-      "fetched_at": "2026-09-27T15:57:05.593186+00:00"
-    },
-    "af0c10ac57bed478": {
-      "title": "These medieval graves looked like family burials. DNA told a different story",
-      "fetched_at": "2026-09-27T15:57:06.224241+00:00"
-    },
-    "a8825a19ed9315aa": {
-      "title": "Scientists say house cats could help unlock better cancer treatments for humans",
-      "fetched_at": "2026-09-27T15:57:06.854651+00:00"
-    },
-    "3beb073166cb255a": {
-      "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
-      "fetched_at": "2026-09-27T20:33:26.526934+00:00"
-    },
-    "5dfd6b8df27afd71": {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "fetched_at": "2026-09-27T20:33:27.094338+00:00"
-    },
-    "7a7ff501473df312": {
-      "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
-      "fetched_at": "2026-09-27T20:33:27.667978+00:00"
-    },
-    "2fcaf8409bdbdb07": {
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "fetched_at": "2026-09-27T20:33:28.236534+00:00"
-    },
-    "9229c09fe817a1e5": {
-      "title": "Show HN: An AI wedding concierge I built and ran at my own 300-person wedding",
-      "fetched_at": "2026-09-27T20:33:29.190754+00:00"
-    },
-    "c57af4d24075c473": {
-      "title": "Corporate America embraces cheaper 'open' AI models",
-      "fetched_at": "2026-09-27T20:33:29.757795+00:00"
-    },
-    "df34f573f6fee9e9": {
-      "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
-      "fetched_at": "2026-09-27T20:33:30.336802+00:00"
-    },
-    "9c53ce6f4784e2c8": {
-      "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
-      "fetched_at": "2026-09-27T20:33:30.901220+00:00"
-    },
-    "dfdff800fc2bc0d3": {
-      "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
-      "fetched_at": "2026-09-27T20:33:31.464565+00:00"
-    },
-    "e499ea174cdc6395": {
-      "title": "AI Companies Say They're Investigating Rogue Bot Incidents",
-      "fetched_at": "2026-09-27T20:33:32.089557+00:00"
-    },
-    "ecc9073b3f48a373": {
-      "title": "Heypcb: Figma for Hardware, with AI",
-      "fetched_at": "2026-09-27T20:33:32.659825+00:00"
-    },
-    "6c2778ed3ef1a5ec": {
-      "title": "Show HN: Asimov's 4 Laws for AI Contexts",
-      "fetched_at": "2026-09-27T20:33:33.221982+00:00"
-    },
-    "73386d5488ddd39a": {
-      "title": "He's Terrified of AI–and He's About to Make Billions Off It",
-      "fetched_at": "2026-09-27T20:33:34.227824+00:00"
-    },
-    "3d8507636f68a28b": {
-      "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
-      "fetched_at": "2026-09-27T20:33:34.803890+00:00"
-    },
-    "b0881b7b4fcc5419": {
-      "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
-      "fetched_at": "2026-09-27T20:33:35.769743+00:00"
-    },
-    "cc10d556df255449": {
-      "title": "X Files – Ghost in the Machine",
-      "fetched_at": "2026-09-27T20:33:36.332800+00:00"
-    },
-    "343d54417e41bb95": {
-      "title": "Ask HN: What am I missing with Siri AI?",
-      "fetched_at": "2026-09-27T20:33:36.902025+00:00"
-    },
-    "95df905b618246a3": {
-      "title": "Show HN: iPulse AI – Visitors can inspect disagreement across debating agents",
-      "fetched_at": "2026-09-27T20:33:37.475230+00:00"
-    },
-    "c794072152793468": {
-      "title": "Google OpenAI Anthropic Begin Forming SAFA – Standards Authority for Frontier AI",
-      "fetched_at": "2026-09-27T20:33:38.037987+00:00"
-    },
-    "2dffbae6ddd44a0b": {
-      "title": "The NSA Is Spending Billions to Test AI Models, Classified Estimates Show",
-      "fetched_at": "2026-09-27T20:33:38.601741+00:00"
-    },
-    "d0f8f46310983fc9": {
-      "title": "Scientists build a DNA computer that can perform calculations in a drop of water",
-      "fetched_at": "2026-09-27T20:33:43.796906+00:00"
-    },
-    "c082a8595f7dd2a7": {
-      "title": "Why does blond hair tend to darken with age?",
-      "fetched_at": "2026-09-27T20:33:44.374217+00:00"
-    },
     "188b668058ff975f": {
       "title": "派早报：OpenAI 称与苹果合作效果不佳",
       "fetched_at": "2026-09-28T02:24:25.713396+00:00"
@@ -2575,7 +2415,119 @@
     "0f69a3416bc12b14": {
       "title": "The “glue” holding your cells together has a surprising second job",
       "fetched_at": "2026-10-05T12:56:04.150103+00:00"
+    },
+    "9a86a410b5f59c90": {
+      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
+      "fetched_at": "2026-10-05T23:26:37.467960+00:00"
+    },
+    "acbc2bc103f0ae83": {
+      "title": "LLM SEO tools in 2026: what each one tracks",
+      "fetched_at": "2026-10-05T23:26:38.116170+00:00"
+    },
+    "54c1243b9c0b2efd": {
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "fetched_at": "2026-10-05T23:26:38.743056+00:00"
+    },
+    "e6cb60b5b264fbeb": {
+      "title": "Nova Sprint. Coordinate AI sprints across multiple models and harnesses",
+      "fetched_at": "2026-10-05T23:26:39.358377+00:00"
+    },
+    "559612899207f6a2": {
+      "title": "I'm building a personal AI computer startup in Mumbai",
+      "fetched_at": "2026-10-05T23:26:39.969986+00:00"
+    },
+    "b9995018a7dd789e": {
+      "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
+      "fetched_at": "2026-10-05T23:26:40.595018+00:00"
+    },
+    "8c9444950c484935": {
+      "title": "It's a Plan – issue tracker where people and AI agents ship together",
+      "fetched_at": "2026-10-05T23:26:41.229248+00:00"
+    },
+    "f8297365a976402c": {
+      "title": "Give Your AI Agent a Domain-Specific Language",
+      "fetched_at": "2026-10-05T23:26:41.838064+00:00"
+    },
+    "820f9f721f71f187": {
+      "title": "Show HN: The mainbrella effect – AI code / Agent machines",
+      "fetched_at": "2026-10-05T23:26:42.455446+00:00"
+    },
+    "f52d3c693453f8c1": {
+      "title": "Fixer, financier, spymaster: UAE's Sheikh Tahnoon setting sights on AI dominance",
+      "fetched_at": "2026-10-05T23:26:43.075381+00:00"
+    },
+    "8c19d1c1cd001fe9": {
+      "title": "Top Consumer AI Apps",
+      "fetched_at": "2026-10-05T23:26:43.701249+00:00"
+    },
+    "28cfb5538408a5a2": {
+      "title": "Testing AI on Real-World Tasks",
+      "fetched_at": "2026-10-05T23:26:44.312828+00:00"
+    },
+    "23808d319dc169d6": {
+      "title": "Agility: Build Software at AI Speed",
+      "fetched_at": "2026-10-05T23:26:44.937774+00:00"
+    },
+    "c2f3222e68a8eef8": {
+      "title": "Show HN: All local LLM(s) on all Apple Devices",
+      "fetched_at": "2026-10-05T23:26:45.557519+00:00"
+    },
+    "6c06565a661b880d": {
+      "title": "Lighthouse Legal – Voice AI for personal injury intake",
+      "fetched_at": "2026-10-05T23:26:46.180976+00:00"
+    },
+    "aaf2992b00a5b334": {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "fetched_at": "2026-10-05T23:26:46.794087+00:00"
+    },
+    "74a25ed3a37b338a": {
+      "title": "Free AI Construction Estimating in the Web",
+      "fetched_at": "2026-10-05T23:26:47.416005+00:00"
+    },
+    "8219fdb818f558f1": {
+      "title": "Give your LLM more DSLs",
+      "fetched_at": "2026-10-05T23:26:48.039284+00:00"
+    },
+    "5f1bc8c834678f34": {
+      "title": "Ask HN: Feedback regarding my AI setup",
+      "fetched_at": "2026-10-05T23:26:48.660257+00:00"
+    },
+    "4c740592d8a796ea": {
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "fetched_at": "2026-10-05T23:26:49.316290+00:00"
+    },
+    "8bbddad0a80a8852": {
+      "title": "Jupiter will disappear behind the moon in a once-in-a-decade alignment tomorrow",
+      "fetched_at": "2026-10-05T23:26:56.562492+00:00"
+    },
+    "971b3a3de9ffa443": {
+      "title": "4,000-Year-Old Gallery Grave Excavated in Norway",
+      "fetched_at": "2026-10-05T23:26:57.176629+00:00"
+    },
+    "c4aeaae151a1ee70": {
+      "title": "Face of Ancient Andean Man Reconstructed",
+      "fetched_at": "2026-10-05T23:26:57.810926+00:00"
+    },
+    "a86608c8484a97ef": {
+      "title": "Lead Venus Figurine Unearthed in Hungary",
+      "fetched_at": "2026-10-05T23:26:58.430333+00:00"
+    },
+    "5539c22392753eea": {
+      "title": "Ancient Egyptians sacrificed pharaohs' servants so they could continue to serve their king in the afterlife, new study finds",
+      "fetched_at": "2026-10-05T23:26:59.052460+00:00"
+    },
+    "e917d9ef1c516323": {
+      "title": "1,800-year-old temple to Mars and statue of Victory unearthed at Roman military fort in Germany",
+      "fetched_at": "2026-10-05T23:26:59.675087+00:00"
+    },
+    "fc20b68ccdd2cc91": {
+      "title": "Coral Reef-Like Rock Layers on Mars Reveal Ancient Climate Secrets",
+      "fetched_at": "2026-10-05T23:27:00.290976+00:00"
+    },
+    "f4bd365da3191242": {
+      "title": "Discovery and engineering of avian R2 retrotransposons for targeted DNA",
+      "fetched_at": "2026-10-05T23:27:00.902706+00:00"
     }
   },
-  "last_updated": "2026-10-05T12:56:04.216040+00:00"
+  "last_updated": "2026-10-05T23:27:01.013015+00:00"
 }
