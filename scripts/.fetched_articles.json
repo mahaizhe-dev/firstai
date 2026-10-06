@@ -1,137 +1,5 @@
 {
   "articles": {
-    "f6deb849db133cda": {
-      "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
-      "fetched_at": "2026-09-28T12:15:46.839868+00:00"
-    },
-    "08ba6dd7fc09be8f": {
-      "title": "Cohesix – find out what happened to a local AI job",
-      "fetched_at": "2026-09-28T12:15:47.460814+00:00"
-    },
-    "4ee0a429e7c7bde8": {
-      "title": "SlopTotal, a Self-hosted AI text detector that runs 23 open models",
-      "fetched_at": "2026-09-28T12:15:48.089808+00:00"
-    },
-    "caa4075f465144b6": {
-      "title": "Hospitals use AI to find more things to bill for. Insurers use AI to deny them.",
-      "fetched_at": "2026-09-28T12:15:48.738837+00:00"
-    },
-    "1af8cfa132ac4cfc": {
-      "title": "Applying Deming's Continuous Improvement to Multi-Agent AI Systems",
-      "fetched_at": "2026-09-28T12:15:49.364755+00:00"
-    },
-    "7afb019ea210642e": {
-      "title": "Show HN: Algebrix Identity – B2B SaaS IAM for Users, Services, and AI Agents",
-      "fetched_at": "2026-09-28T12:15:50.034023+00:00"
-    },
-    "c0258b12e5cfc63d": {
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-      "fetched_at": "2026-09-28T12:15:50.703226+00:00"
-    },
-    "80f7ea8821742114": {
-      "title": "What Would a Serious AI Product Look Like?",
-      "fetched_at": "2026-09-28T12:15:51.320898+00:00"
-    },
-    "9aa22bd66cccb753": {
-      "title": "Who's liable when AI agents go rogue?",
-      "fetched_at": "2026-09-28T12:15:51.963067+00:00"
-    },
-    "dc8b441975019c83": {
-      "title": "It's Time to Investigate the AI Labs",
-      "fetched_at": "2026-09-28T12:15:52.615425+00:00"
-    },
-    "9f7b1d43becf25f9": {
-      "title": "Guide to Investigating Tech and AI in Modern Warfare",
-      "fetched_at": "2026-09-28T12:15:53.231334+00:00"
-    },
-    "a52e5aebc9af9e27": {
-      "title": "Show HN: Yaystack.ch, check whether AI answer engines can see your website",
-      "fetched_at": "2026-09-28T12:15:53.857624+00:00"
-    },
-    "a1ee1776911ffd1e": {
-      "title": "Nvidia releases software platform to stop AI agents from misbehaving",
-      "fetched_at": "2026-09-28T12:15:54.514073+00:00"
-    },
-    "9bed0875e604a9a9": {
-      "title": "Fast Primality Testing for Integers That Fit into a Machine Word",
-      "fetched_at": "2026-09-28T12:15:55.125781+00:00"
-    },
-    "e0520489d9660c19": {
-      "title": "Show HN: Codify, AI for transforming and reforming law",
-      "fetched_at": "2026-09-28T12:15:55.751504+00:00"
-    },
-    "b0eb90aba5ac1443": {
-      "title": "AI Self-Portraits",
-      "fetched_at": "2026-09-28T12:15:56.376173+00:00"
-    },
-    "b10be002b033f819": {
-      "title": "Show HN: I build omarchy like experience in browser for remote machine",
-      "fetched_at": "2026-09-28T12:15:57.259160+00:00"
-    },
-    "33bbd2ef004a4d01": {
-      "title": "AI-written speeches are taking over politics",
-      "fetched_at": "2026-09-28T12:15:57.886774+00:00"
-    },
-    "233f83cc77e1c039": {
-      "title": "Show HN: WorkContext – Open-Source AI Context Layer for Dev Teams",
-      "fetched_at": "2026-09-28T12:15:58.506611+00:00"
-    },
-    "928c5e6d54bf3b35": {
-      "title": "派评 | 近期值得关注的 App",
-      "fetched_at": "2026-09-28T12:15:58.506729+00:00"
-    },
-    "d702a4b659be52a3": {
-      "title": "白宮習特會更多內容公佈 可此刻無聲勝有聲",
-      "fetched_at": "2026-09-28T12:16:02.175808+00:00"
-    },
-    "6b2a40923c1b9649": {
-      "title": "BigBang倫敦開唱：K-pop之王回來了",
-      "fetched_at": "2026-09-28T12:16:02.814025+00:00"
-    },
-    "97aabc8dc48b493d": {
-      "title": "FBI遭黑客入侵起底 特工們的恐懼與憤怒",
-      "fetched_at": "2026-09-28T12:16:03.439129+00:00"
-    },
-    "ec2e2bc0f0707a1a": {
-      "title": "英國美軍在用基地發生反恐案件：我們目前知道什麼？",
-      "fetched_at": "2026-09-28T12:16:04.066999+00:00"
-    },
-    "cf17df65d9e04d08": {
-      "title": "人工智能末日警告？中国人为何“不买帐”",
-      "fetched_at": "2026-09-28T12:16:04.699831+00:00"
-    },
-    "08b84df89e74b84e": {
-      "title": "中国商界领袖缺席白宫国宴，这说明了什么？",
-      "fetched_at": "2026-09-28T12:16:05.326645+00:00"
-    },
-    "189aa434cc7ab4d2": {
-      "title": "人工智能与全球政策真空：技术飞速发展、政策制定落后",
-      "fetched_at": "2026-09-28T12:16:05.955033+00:00"
-    },
-    "cb4595ebcebd652f": {
-      "title": "习近平缺席联大：一个日益失去影响力的联合国",
-      "fetched_at": "2026-09-28T12:16:06.573093+00:00"
-    },
-    "4707533af5cc8d22": {
-      "title": "特朗普與習近平會面之際，中國的AI雄心正在烏蘭察布高歌猛進",
-      "fetched_at": "2026-09-28T12:16:07.217562+00:00"
-    },
-    "62ed1e2a82bf8418": {
-      "title": "'The right diagnosis is unbelievably powerful': It can take years to diagnose rare diseases, and scientists are trying to fix that",
-      "fetched_at": "2026-09-28T12:16:13.382239+00:00"
-    },
-    "49432fc010b05a26": {
-      "title": "13,000-year-old butchered bones of long-tusked beast found in Chile give more evidence of early first Americans",
-      "fetched_at": "2026-09-28T12:16:14.017020+00:00"
-    },
-    "f1d60e2251f062f9": {
-      "title": "Battersea Shield: A 2,000-year-old Celtic shield that may have been 'sacrificed' in a ritual in the River Thames",
-      "fetched_at": "2026-09-28T12:16:14.639524+00:00"
-    },
-    "0b23b5fe94bbf23c": {
-      "title": "What if AGI was invented in Ancient Greece?",
-      "fetched_at": "2026-09-28T12:16:15.262913+00:00"
-    },
     "d3f30eb6578835fd": {
       "title": "What if automating AI R&D triggers an intelligence explosion? [pdf]",
       "fetched_at": "2026-09-28T22:43:01.874253+00:00"
@@ -2579,7 +2447,59 @@
     "1fc2dc517360932d": {
       "title": "What is the closest any object has gotten to the sun?",
       "fetched_at": "2026-10-06T03:42:21.137888+00:00"
+    },
+    "31b48eaa78844e82": {
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "fetched_at": "2026-10-06T12:21:47.617998+00:00"
+    },
+    "cf0409dc543c3ede": {
+      "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+      "fetched_at": "2026-10-06T12:21:48.218439+00:00"
+    },
+    "96677b00576ca222": {
+      "title": "中美AI軍事化背景下 BBC獲悉五角大樓正式停用 Anthropic 工具",
+      "fetched_at": "2026-10-06T12:21:50.732874+00:00"
+    },
+    "e85e448f39eccc3e": {
+      "title": "美軍擬槍決胡德堡基地槍擊案兇手 二戰後首例",
+      "fetched_at": "2026-10-06T12:21:51.315957+00:00"
+    },
+    "fed5def8192fbd59": {
+      "title": "美國圖書館為何正迅速下架眾多圖書？",
+      "fetched_at": "2026-10-06T12:21:51.903471+00:00"
+    },
+    "9cc6b9c4e7388e04": {
+      "title": "俄羅斯鼠疫實驗室人員死亡 美方稱「密切關注」",
+      "fetched_at": "2026-10-06T12:21:52.532121+00:00"
+    },
+    "e4d6eb73dc07105f": {
+      "title": "台北選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
+      "fetched_at": "2026-10-06T12:21:53.119893+00:00"
+    },
+    "d4a9401ff8167bba": {
+      "title": "美驻华大使：特朗普曾提议向中国出售武器",
+      "fetched_at": "2026-10-06T12:21:53.707622+00:00"
+    },
+    "c58680032a7316e0": {
+      "title": "从台海到日本，习近平试图“撬动”特朗普的亚太立场",
+      "fetched_at": "2026-10-06T12:21:54.292183+00:00"
+    },
+    "395fa609d5475997": {
+      "title": "Lost 'heart' of the Colorado River shines like a silver serpent in Utah",
+      "fetched_at": "2026-10-06T12:21:56.708079+00:00"
+    },
+    "4f79900841ea4902": {
+      "title": "'Mpox has not disappeared': Why the infectious disease is still spreading in the US and may be here to stay",
+      "fetched_at": "2026-10-06T12:21:57.311334+00:00"
+    },
+    "57af86b9e821a037": {
+      "title": "Mpox is still spreading in the US — here's what to know about vaccines, symptoms and treatment",
+      "fetched_at": "2026-10-06T12:21:57.889914+00:00"
+    },
+    "9250ab8c1c6bb6d8": {
+      "title": "The ozone layer was supposed to be healing. So why is this year's Antarctic ozone hole so big?",
+      "fetched_at": "2026-10-06T12:21:58.478530+00:00"
     }
   },
-  "last_updated": "2026-10-06T03:42:21.234975+00:00"
+  "last_updated": "2026-10-06T12:21:58.532404+00:00"
 }
