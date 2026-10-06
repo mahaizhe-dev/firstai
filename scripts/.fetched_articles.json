@@ -1,57 +1,5 @@
 {
   "articles": {
-    "188b668058ff975f": {
-      "title": "派早报：OpenAI 称与苹果合作效果不佳",
-      "fetched_at": "2026-09-28T02:24:25.713396+00:00"
-    },
-    "f2287035358a3aa9": {
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "fetched_at": "2026-09-28T02:24:26.289774+00:00"
-    },
-    "521c4f955cad5cee": {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "fetched_at": "2026-09-28T02:24:26.865318+00:00"
-    },
-    "57ffeddb252bc905": {
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "fetched_at": "2026-09-28T02:24:27.440428+00:00"
-    },
-    "dd6394a758352041": {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "fetched_at": "2026-09-28T02:24:28.171684+00:00"
-    },
-    "d4a9401ff8167bba": {
-      "title": "美驻华大使：特朗普曾提议向中国出售武器",
-      "fetched_at": "2026-09-28T02:24:31.036961+00:00"
-    },
-    "c58680032a7316e0": {
-      "title": "从台海到日本，习近平试图“撬动”特朗普的亚太立场",
-      "fetched_at": "2026-09-28T02:24:31.602425+00:00"
-    },
-    "af8f4b14d8dd0f4e": {
-      "title": "裸甲風潮為何跟「白人至上」發生關聯？",
-      "fetched_at": "2026-09-28T02:24:32.228695+00:00"
-    },
-    "38eaac914b663210": {
-      "title": "中美峰會後 伊朗提出七天達成協議 被特朗普拒絕",
-      "fetched_at": "2026-09-28T02:24:32.797921+00:00"
-    },
-    "baedba19e97c88d1": {
-      "title": "TikTok與阿拉巴馬州和解：一億美元、限兒童使用、禁美妝濾鏡",
-      "fetched_at": "2026-09-28T02:24:33.358641+00:00"
-    },
-    "b277f9fc9c3cb079": {
-      "title": "香港支聯會「煽動顛覆」案：被告們的伴侶與戰友",
-      "fetched_at": "2026-09-28T02:24:33.946691+00:00"
-    },
-    "42dfe54365580cb6": {
-      "title": "What archaeology reveals about the rise of all-powerful rulers",
-      "fetched_at": "2026-09-28T02:24:44.300936+00:00"
-    },
-    "deae9091bd6e8544": {
-      "title": "Did Anthropic's A.I. Really Make a Scientific Discovery on Its Own?",
-      "fetched_at": "2026-09-28T02:24:44.883588+00:00"
-    },
     "f6deb849db133cda": {
       "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
       "fetched_at": "2026-09-28T12:15:46.839868+00:00"
@@ -2527,7 +2475,111 @@
     "f4bd365da3191242": {
       "title": "Discovery and engineering of avian R2 retrotransposons for targeted DNA",
       "fetched_at": "2026-10-05T23:27:00.902706+00:00"
+    },
+    "1ddac7c2d21ec4d7": {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "fetched_at": "2026-10-06T03:41:46.355050+00:00"
+    },
+    "2f00235cb8291e32": {
+      "title": "All the drama around AI&#8217;s takeover of mathematics",
+      "fetched_at": "2026-10-06T03:41:46.976225+00:00"
+    },
+    "0492a0066c7dbc7c": {
+      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+      "fetched_at": "2026-10-06T03:41:47.580670+00:00"
+    },
+    "c9b2e79bbaffbf4e": {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "fetched_at": "2026-10-06T03:41:48.193396+00:00"
+    },
+    "6a5987e22e38f312": {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "fetched_at": "2026-10-06T03:41:48.816006+00:00"
+    },
+    "55dea24d8febbd84": {
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "fetched_at": "2026-10-06T03:41:49.424023+00:00"
+    },
+    "1bf94828ad7577cc": {
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "fetched_at": "2026-10-06T03:41:50.048160+00:00"
+    },
+    "efe72c53f586ff98": {
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "fetched_at": "2026-10-06T03:41:50.653903+00:00"
+    },
+    "75793b2ecf55c952": {
+      "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+      "fetched_at": "2026-10-06T03:41:51.260848+00:00"
+    },
+    "a5f0e8cf92d7ee01": {
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "fetched_at": "2026-10-06T03:41:51.880825+00:00"
+    },
+    "d616df5edf5a4728": {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "fetched_at": "2026-10-06T03:41:52.509906+00:00"
+    },
+    "ecb21b11ce0a8e72": {
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-10-06T03:41:53.127765+00:00"
+    },
+    "5180ff536e49e964": {
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "fetched_at": "2026-10-06T03:41:53.743866+00:00"
+    },
+    "897d4b236bc53731": {
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "fetched_at": "2026-10-06T03:41:54.374812+00:00"
+    },
+    "064ede61a8cfc352": {
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-10-06T03:41:54.991215+00:00"
+    },
+    "733f736626aeeeec": {
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "fetched_at": "2026-10-06T03:41:55.675078+00:00"
+    },
+    "cf501c993ccd3d2f": {
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "fetched_at": "2026-10-06T03:41:56.288299+00:00"
+    },
+    "da37469ea3ba1ae8": {
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "fetched_at": "2026-10-06T03:41:56.905958+00:00"
+    },
+    "9418ed89192355f1": {
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "fetched_at": "2026-10-06T03:41:57.514970+00:00"
+    },
+    "5ae4c4f2b5b1331c": {
+      "title": "十个案例助你轻松上手 iOS 27 通知自动化",
+      "fetched_at": "2026-10-06T03:41:58.244762+00:00"
+    },
+    "725a3ee57ea4e306": {
+      "title": "駐日美軍涉謀殺女性被捕 重燃沖繩抗議浪潮",
+      "fetched_at": "2026-10-06T03:42:00.231010+00:00"
+    },
+    "c54ac05a4e2d0df2": {
+      "title": "普京不怎麼去的「黑海北戴河」為何要偷偷重建？",
+      "fetched_at": "2026-10-06T03:42:00.862757+00:00"
+    },
+    "f498d5478be6b6eb": {
+      "title": "台北市長選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
+      "fetched_at": "2026-10-06T03:42:01.479137+00:00"
+    },
+    "b3c2f718317e4cec": {
+      "title": "A giant cosmic 'fart' is making a wobbling zombie star repeatedly flash us, 'groundbreaking' observations reveal",
+      "fetched_at": "2026-10-06T03:42:19.913638+00:00"
+    },
+    "8b09442b2546814b": {
+      "title": "James Webb telescope shares one of its biggest images ever, with record-breaking stars hiding in the dust",
+      "fetched_at": "2026-10-06T03:42:20.527482+00:00"
+    },
+    "1fc2dc517360932d": {
+      "title": "What is the closest any object has gotten to the sun?",
+      "fetched_at": "2026-10-06T03:42:21.137888+00:00"
     }
   },
-  "last_updated": "2026-10-05T23:27:01.013015+00:00"
+  "last_updated": "2026-10-06T03:42:21.234975+00:00"
 }
