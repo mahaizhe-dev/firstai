@@ -1,153 +1,5 @@
 {
   "articles": {
-    "45c61fa04130b7b7": {
-      "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "fetched_at": "2026-09-29T17:11:33.399538+00:00"
-    },
-    "a00877f0a640e5ff": {
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "fetched_at": "2026-09-29T17:11:34.045012+00:00"
-    },
-    "075f87be44418299": {
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "fetched_at": "2026-09-29T17:11:34.682520+00:00"
-    },
-    "399b2e8e0d69d673": {
-      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
-      "fetched_at": "2026-09-29T17:11:35.298813+00:00"
-    },
-    "b92f9f3df85d3209": {
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "fetched_at": "2026-09-29T17:11:35.905629+00:00"
-    },
-    "5430d56b5e5b8ecd": {
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "fetched_at": "2026-09-29T17:11:36.540007+00:00"
-    },
-    "e43b9c97a5e7264a": {
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "fetched_at": "2026-09-29T17:11:37.149292+00:00"
-    },
-    "8e2f3c6dd71b37fa": {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "fetched_at": "2026-09-29T17:11:37.969120+00:00"
-    },
-    "81fc9a97501878ff": {
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "fetched_at": "2026-09-29T17:11:38.596780+00:00"
-    },
-    "8bec44cc46ace3b3": {
-      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-      "fetched_at": "2026-09-29T17:11:39.236964+00:00"
-    },
-    "9ba38254aed4ebbe": {
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "fetched_at": "2026-09-29T17:11:39.878439+00:00"
-    },
-    "6c5c48e5d8304b4d": {
-      "title": "基于 Termux 的 Android 手机开发服务器实操",
-      "fetched_at": "2026-09-29T17:11:40.495082+00:00"
-    },
-    "6a2cde7bd1588bb0": {
-      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-      "fetched_at": "2026-09-29T17:11:41.134820+00:00"
-    },
-    "7709ba0a5c465aaa": {
-      "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
-      "fetched_at": "2026-09-29T17:11:41.753113+00:00"
-    },
-    "72562718fa1a52b1": {
-      "title": "戴安娜弟弟出書談王室 查爾斯曾稱她「很快會被遺忘」",
-      "fetched_at": "2026-09-29T17:11:44.201302+00:00"
-    },
-    "51355c47629fdc16": {
-      "title": "The Download: climate tech companies to watch and AI's discovery problem",
-      "fetched_at": "2026-09-29T17:11:50.566245+00:00"
-    },
-    "9a2e2387341094fd": {
-      "title": "Remarkably preserved feathered dinosaur discovered in China reveals new secrets of flying predator evolution",
-      "fetched_at": "2026-09-29T17:11:51.189924+00:00"
-    },
-    "e4b9ebacb3a87e89": {
-      "title": "Discovery of radio emission from the exoplanet β Pictoris b",
-      "fetched_at": "2026-09-29T17:11:51.802117+00:00"
-    },
-    "16d2b0458991d94e": {
-      "title": "Africa's oldest known defensive wall outside Egypt discovered, and it's 4,000 years old",
-      "fetched_at": "2026-09-29T17:11:52.412212+00:00"
-    },
-    "bedf5e8f9aad773b": {
-      "title": "Historical Stock Prices API: Python, JavaScript and Curl Quickstart",
-      "fetched_at": "2026-09-29T17:11:53.055431+00:00"
-    },
-    "ee1c44655d6c2633": {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "fetched_at": "2026-09-29T21:36:56.615665+00:00"
-    },
-    "f24526f856e16056": {
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "fetched_at": "2026-09-29T21:36:57.227561+00:00"
-    },
-    "00567b26008777ce": {
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "fetched_at": "2026-09-29T21:36:57.857267+00:00"
-    },
-    "01195c49dbc107a4": {
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "fetched_at": "2026-09-29T21:36:58.508910+00:00"
-    },
-    "6fae3d6ca2aea1f9": {
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "fetched_at": "2026-09-29T21:36:59.137454+00:00"
-    },
-    "7bfb7c7e1bba918b": {
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "fetched_at": "2026-09-29T21:36:59.762978+00:00"
-    },
-    "a20352e0cd7d46db": {
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "fetched_at": "2026-09-29T21:37:00.392726+00:00"
-    },
-    "4c6b463ff0461883": {
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "fetched_at": "2026-09-29T21:37:01.002323+00:00"
-    },
-    "2c68181f4a961e29": {
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "fetched_at": "2026-09-29T21:37:01.622376+00:00"
-    },
-    "76bac0a7cf4c892a": {
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "fetched_at": "2026-09-29T21:37:02.273680+00:00"
-    },
-    "db04d65c2ca913c2": {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "fetched_at": "2026-09-29T21:37:02.896429+00:00"
-    },
-    "ca34b7266e0635e8": {
-      "title": "Protesters gather at OpenAI’s DevDay",
-      "fetched_at": "2026-09-29T21:37:03.522211+00:00"
-    },
-    "03571d2ea7619084": {
-      "title": "Discovery of a Molecular \"Memory\" That Could Make Lost Weight Come Back",
-      "fetched_at": "2026-09-29T21:37:09.190294+00:00"
-    },
-    "e3a0c0c7e53c5aae": {
-      "title": "Ancient Carving May Represent Nubian King",
-      "fetched_at": "2026-09-29T21:37:09.789769+00:00"
-    },
-    "c07c33dc0408f8bc": {
-      "title": "Sarmatian Burial Discovered in Older Burial Mound in Ukraine",
-      "fetched_at": "2026-09-29T21:37:10.400496+00:00"
-    },
-    "9bd7dc5657186d18": {
-      "title": "'We're rapidly running out of time': 7 of Earth's 9 life support systems already breached, and the situation is getting worse, report warns",
-      "fetched_at": "2026-09-29T21:37:11.013035+00:00"
-    },
-    "05bcb53f674c509e": {
-      "title": "Butchered Bones in Chile Dated to 13,000 Years Ago",
-      "fetched_at": "2026-09-29T21:37:11.639333+00:00"
-    },
     "c00d550eee397f2c": {
       "title": "Sam Altman says OpenAI won’t go public until its models are safe",
       "fetched_at": "2026-09-30T02:49:57.421637+00:00"
@@ -2323,7 +2175,159 @@
     "01f2124c0ee3bf7d": {
       "title": "'Listen, father!': 1,700-year-old tomb discovered in Egypt contains a poem in ancient Greek and spells to protect the dead",
       "fetched_at": "2026-10-07T12:15:54.085945+00:00"
+    },
+    "00500a22cad4a61f": {
+      "title": "Declass is a coding agent that keeps sensitive context on your machine",
+      "fetched_at": "2026-10-07T22:23:58.345409+00:00"
+    },
+    "8fd81f0a9b00bb1e": {
+      "title": "Lathe: AI Workspace for Hardware Design",
+      "fetched_at": "2026-10-07T22:23:58.906674+00:00"
+    },
+    "3cf11df4e3ca08a8": {
+      "title": "Man took his own life after 'sextortion' blackmail involving AI-generated woman",
+      "fetched_at": "2026-10-07T22:23:59.543625+00:00"
+    },
+    "9a23e17da62a28f0": {
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "fetched_at": "2026-10-07T22:24:00.107760+00:00"
+    },
+    "9c797d3c7fdee597": {
+      "title": "Show HN: Chloe is a TypeScript AI agent",
+      "fetched_at": "2026-10-07T22:24:00.678627+00:00"
+    },
+    "46c85e31fce33da4": {
+      "title": "Show HN: SheetRelay – Google Sheets as a back end for web pages and AI agents",
+      "fetched_at": "2026-10-07T22:24:01.239731+00:00"
+    },
+    "0e723b14a0568b78": {
+      "title": "Dave W Plummer: \"AI Cloning should be illegal\"",
+      "fetched_at": "2026-10-07T22:24:01.840089+00:00"
+    },
+    "8f4812718016227f": {
+      "title": "AI companies say rivals are distilling their models and why it's so hard to stop",
+      "fetched_at": "2026-10-07T22:24:02.400823+00:00"
+    },
+    "e6106fd34d7b8d34": {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "fetched_at": "2026-10-07T22:24:02.961131+00:00"
+    },
+    "f60defac5aba6f0c": {
+      "title": "Frontier AI Is Accelerating. Open Benchmarks Need to Keep Up",
+      "fetched_at": "2026-10-07T22:24:03.529754+00:00"
+    },
+    "ade7f57ca3f424cf": {
+      "title": "Google AI Edge Foresight – offline, private meeting transcripts",
+      "fetched_at": "2026-10-07T22:24:04.091471+00:00"
+    },
+    "ba4a8f7245df9741": {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "fetched_at": "2026-10-07T22:24:04.732933+00:00"
+    },
+    "919eb9aa267e2e69": {
+      "title": "How to turn your AI into a world-class designer",
+      "fetched_at": "2026-10-07T22:24:05.288423+00:00"
+    },
+    "4ec94cf70a4bc874": {
+      "title": "A New AI Agent Oriented Programming Language",
+      "fetched_at": "2026-10-07T22:24:05.878693+00:00"
+    },
+    "b616419d3de60648": {
+      "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
+      "fetched_at": "2026-10-07T22:24:06.437496+00:00"
+    },
+    "c17f64e8799de3fb": {
+      "title": "Claim Act drafted for AI libability discussion [pdf]",
+      "fetched_at": "2026-10-07T22:24:07.022684+00:00"
+    },
+    "1af1a24e29bb4a77": {
+      "title": "Eugenics, Silicon Valley, and AI: Ghost in the Machine [Documentary]",
+      "fetched_at": "2026-10-07T22:24:07.575796+00:00"
+    },
+    "f3d87a2c2484978d": {
+      "title": "AI has to replace the workers who were never born",
+      "fetched_at": "2026-10-07T22:24:08.131465+00:00"
+    },
+    "39a895771575959c": {
+      "title": "The Two Words the AI Industry Hates More Than Anything [video]",
+      "fetched_at": "2026-10-07T22:24:08.695704+00:00"
+    },
+    "8357b6f5d2f695d0": {
+      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+      "fetched_at": "2026-10-07T22:24:09.255209+00:00"
+    },
+    "cec604d1bae35d71": {
+      "title": "一名锡安教会被捕牧师妻子的流亡、煎熬与信仰",
+      "fetched_at": "2026-10-07T22:24:12.277119+00:00"
+    },
+    "84c1d931c488e236": {
+      "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
+      "fetched_at": "2026-10-07T22:24:12.834799+00:00"
+    },
+    "8a7604714dc36135": {
+      "title": "一对湾区夫妇被控枪杀跨性别女婿",
+      "fetched_at": "2026-10-07T22:24:13.397189+00:00"
+    },
+    "5141247776fe7c20": {
+      "title": "Scientists name ancient crocodile species",
+      "fetched_at": "2026-10-07T22:24:31.576079+00:00"
+    },
+    "308f652b545baf28": {
+      "title": "Scientists discover the genetic secrets that may have helped Jonathan the tortoise live to 194 years old",
+      "fetched_at": "2026-10-07T22:24:32.135873+00:00"
+    },
+    "fa98be8536c4f004": {
+      "title": "Coca Leaves Found in Llama Wool at Peru’s Tambo Viejo",
+      "fetched_at": "2026-10-07T22:24:32.703364+00:00"
+    },
+    "76fa5df443757862": {
+      "title": "Roman Settlement Found Near Ancient Fort in Germany",
+      "fetched_at": "2026-10-07T22:24:33.264647+00:00"
+    },
+    "155858ae3adb1b07": {
+      "title": "'It looks like a chimera' — 168 million years ago, a strange platypus-like mammal relative lived in China alongside dinosaurs",
+      "fetched_at": "2026-10-07T22:24:33.828576+00:00"
+    },
+    "26a7f11d560d973e": {
+      "title": "1,000-mile-long cloud that forms and vanishes on Mars every day obeys 'exotic physics' never seen on Earth",
+      "fetched_at": "2026-10-07T22:24:34.390520+00:00"
+    },
+    "97cf25353d451153": {
+      "title": "When Did People Arrive in the Americas?",
+      "fetched_at": "2026-10-07T22:24:34.954139+00:00"
+    },
+    "2702973a479926e5": {
+      "title": "'We stocked an RV as an emergency bugout vehicle': Readers share how prepared they are for a disaster",
+      "fetched_at": "2026-10-07T22:24:35.512775+00:00"
+    },
+    "836e4cfc1a719471": {
+      "title": "'Completely unexpected': Astronomers spy never-before-seen 'phoenix planet' rising from the ashes of a dead star",
+      "fetched_at": "2026-10-07T22:24:36.110734+00:00"
+    },
+    "4251e163a160e2b5": {
+      "title": "'Sexy Mantis,' obscene orangutan and prancing sparrowhawk feature in 2026 Nikon Comedy Wildlife Awards",
+      "fetched_at": "2026-10-07T22:24:36.689733+00:00"
+    },
+    "d5dd4a37336ae5a0": {
+      "title": "'Zombie cells' may drive aging, and scientists are devising new ways to get rid of them",
+      "fetched_at": "2026-10-07T22:24:37.251752+00:00"
+    },
+    "8bfb96d9b67b4814": {
+      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+      "fetched_at": "2026-10-07T22:24:37.851281+00:00"
+    },
+    "05cddbcbabdd1c51": {
+      "title": "Scientists changed how zoo lions eat. Their wild side came out",
+      "fetched_at": "2026-10-07T22:24:38.489927+00:00"
+    },
+    "6fe164ef4c1aa1d8": {
+      "title": "Physicists just found the ‘ghost’ of superconductivity",
+      "fetched_at": "2026-10-07T22:24:39.060881+00:00"
+    },
+    "675b9a96e78b3a8e": {
+      "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
+      "fetched_at": "2026-10-07T22:24:39.624957+00:00"
     }
   },
-  "last_updated": "2026-10-07T12:15:54.155971+00:00"
+  "last_updated": "2026-10-07T22:24:39.722931+00:00"
 }
