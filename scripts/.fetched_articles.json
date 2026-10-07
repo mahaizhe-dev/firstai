@@ -1,253 +1,5 @@
 {
   "articles": {
-    "d3f30eb6578835fd": {
-      "title": "What if automating AI R&D triggers an intelligence explosion? [pdf]",
-      "fetched_at": "2026-09-28T22:43:01.874253+00:00"
-    },
-    "429b26ea49b7b0dd": {
-      "title": "AI Almost Started a U.S.–China War – and No One Seems to Care",
-      "fetched_at": "2026-09-28T22:43:02.481949+00:00"
-    },
-    "79fa5207a983867c": {
-      "title": "10 Tokens for Your Meat Brain LLM",
-      "fetched_at": "2026-09-28T22:43:03.072560+00:00"
-    },
-    "be23df11f86ea0f2": {
-      "title": "Reliable AI automation done right (not with a model)",
-      "fetched_at": "2026-09-28T22:43:03.644137+00:00"
-    },
-    "2e28233a8a6dd9af": {
-      "title": "AI is eroding the barriers that kept biological weapons rare",
-      "fetched_at": "2026-09-28T22:43:04.219415+00:00"
-    },
-    "528d0e4af8a5be2f": {
-      "title": "SBX env: consistent and shareable AI sandbox configurations",
-      "fetched_at": "2026-09-28T22:43:04.815425+00:00"
-    },
-    "f52c1c503124d0fe": {
-      "title": "OpenAI Scraps Release of New AI Model over Safety Concerns",
-      "fetched_at": "2026-09-28T22:43:05.401695+00:00"
-    },
-    "d344831a23e1d9c1": {
-      "title": "Designing an iPhone gaming dock in an afternoon with GPT-6 Astra",
-      "fetched_at": "2026-09-28T22:43:05.993167+00:00"
-    },
-    "9fc4d4eb245e4fe6": {
-      "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
-      "fetched_at": "2026-09-28T22:43:06.586610+00:00"
-    },
-    "0201bad8f0ab23c4": {
-      "title": "Range – open a 1 TB AI model in 3 seconds without downloading it",
-      "fetched_at": "2026-09-28T22:43:07.165470+00:00"
-    },
-    "4ab32e853af733e1": {
-      "title": "Recalld – A memory layer for AI agents that returns only relevant facts",
-      "fetched_at": "2026-09-28T22:43:07.751143+00:00"
-    },
-    "b5c891d81ee346a4": {
-      "title": "Walmart promises to never use AI to charge shoppers higher prices",
-      "fetched_at": "2026-09-28T22:43:08.328039+00:00"
-    },
-    "98a9dc51d4a906cb": {
-      "title": "The AI as the New Compiler",
-      "fetched_at": "2026-09-28T22:43:08.914024+00:00"
-    },
-    "319eb60adbf4d0dc": {
-      "title": "Show HN: What a VM for your AI agent costs across 13 sandbox providers",
-      "fetched_at": "2026-09-28T22:43:09.542453+00:00"
-    },
-    "ac2fb70bee6d2ffd": {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "fetched_at": "2026-09-28T22:43:10.125165+00:00"
-    },
-    "6fe75c1516adce0d": {
-      "title": "Machine-Generated, Machine-Checked Proofs for a Verified Compiler (ICFP'26) [video]",
-      "fetched_at": "2026-09-28T22:43:10.712610+00:00"
-    },
-    "e8969594896488f5": {
-      "title": "Researchers proved AI has deleted every reason universities exist",
-      "fetched_at": "2026-09-28T22:43:11.305927+00:00"
-    },
-    "cb953f29c00ffa91": {
-      "title": "Man Says Meta's Muse AI Gave His Home Address Out to Strangers",
-      "fetched_at": "2026-09-28T22:43:11.886683+00:00"
-    },
-    "d12ad63e21f79828": {
-      "title": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
-      "fetched_at": "2026-09-28T22:43:12.552742+00:00"
-    },
-    "271a87210a71d3a7": {
-      "title": "Nvidia launches new tool to keep AI agents from going rogue",
-      "fetched_at": "2026-09-28T22:43:13.130146+00:00"
-    },
-    "01f2124c0ee3bf7d": {
-      "title": "'Listen, father!': 1,700-year-old tomb discovered in Egypt contains a poem in ancient Greek and spells to protect the dead",
-      "fetched_at": "2026-09-28T22:43:18.113341+00:00"
-    },
-    "a87ef82b678e99b1": {
-      "title": "SpaceX's Starship reaches orbit for the first time, then returns early and explodes",
-      "fetched_at": "2026-09-28T22:43:18.701375+00:00"
-    },
-    "724b85940f79392a": {
-      "title": "Clinker Ship Found in Germany’s Bay of Greifswald",
-      "fetched_at": "2026-09-28T22:43:19.283188+00:00"
-    },
-    "f360b7feecd0ecd0": {
-      "title": "Young People Were on the Move in Bronze Age Greece",
-      "fetched_at": "2026-09-28T22:43:19.899428+00:00"
-    },
-    "ec75d19cc2de8dcf": {
-      "title": "US Cold War-era spy satellite explodes above Earth — and nobody knows why",
-      "fetched_at": "2026-09-28T22:43:20.485236+00:00"
-    },
-    "75ec02c6f65b0095": {
-      "title": "'It is something we must know before we go where no man has gone before': Readers react to NASA's Roman telescope mission",
-      "fetched_at": "2026-09-28T22:43:21.064033+00:00"
-    },
-    "b46c1b6226982d3d": {
-      "title": "A 72-year-old photo is revealing new clues about 'Meretneith,' a powerful woman who may have ruled Egypt 5,000 years ago",
-      "fetched_at": "2026-09-28T22:43:21.647927+00:00"
-    },
-    "d98e60f5482c281c": {
-      "title": "Scientists just discovered what coffee really does to your gut and brain",
-      "fetched_at": "2026-09-28T22:43:22.232182+00:00"
-    },
-    "279d9f6107ec0a5a": {
-      "title": "Blood tests reveal why astronauts get constipated in space",
-      "fetched_at": "2026-09-28T22:43:22.848480+00:00"
-    },
-    "4a6c2c03ef633777": {
-      "title": "Scientists were wrong about this strange mammal for nearly 40 years",
-      "fetched_at": "2026-09-28T22:43:23.426318+00:00"
-    },
-    "4e257cd8b304e04b": {
-      "title": "James Webb reveals why planet formation is a race against time",
-      "fetched_at": "2026-09-28T22:43:24.009206+00:00"
-    },
-    "231376b3e82ab2f6": {
-      "title": "160-million-year-old proteins show surprising power against superbugs",
-      "fetched_at": "2026-09-28T22:43:24.598134+00:00"
-    },
-    "ab5c960cb54503ae": {
-      "title": "Resetting the body clock could help the brain recover after stroke",
-      "fetched_at": "2026-09-28T22:43:25.180963+00:00"
-    },
-    "d8ff106ab13ebb3f": {
-      "title": "Is the universe infinite? The answer gets weird fast",
-      "fetched_at": "2026-09-28T22:43:25.766199+00:00"
-    },
-    "31e16cdab1a2be04": {
-      "title": "Scientists found a surprising driver of Alzheimer’s outside the brain",
-      "fetched_at": "2026-09-28T22:43:26.339596+00:00"
-    },
-    "56cbc84b7d181f65": {
-      "title": "Ask HN: Is strong anti-AI sentiment psyops",
-      "fetched_at": "2026-09-29T03:07:57.637964+00:00"
-    },
-    "49b2dc70bda8a8be": {
-      "title": "AI Agents Are About to Flood the Workforce. No One's Ready for It",
-      "fetched_at": "2026-09-29T03:07:58.247297+00:00"
-    },
-    "f633ceb2028756a0": {
-      "title": "Show HN: Talktome - let your AI Agent call you",
-      "fetched_at": "2026-09-29T03:07:58.867544+00:00"
-    },
-    "ffa3293262d4ec3b": {
-      "title": "The machine layer under Nvidia OpenShell: why containment is not safety",
-      "fetched_at": "2026-09-29T03:07:59.493754+00:00"
-    },
-    "2208687cc23a84b0": {
-      "title": "AI agent memory can be poisoned – and later treated as the user's own past",
-      "fetched_at": "2026-09-29T03:08:00.109414+00:00"
-    },
-    "4de1a350c0af2342": {
-      "title": "OpenAI shelves new AI model after internal safety tests: Report",
-      "fetched_at": "2026-09-29T03:08:00.758988+00:00"
-    },
-    "8560546b307f3210": {
-      "title": "How well do you know AI?",
-      "fetched_at": "2026-09-29T03:08:01.412545+00:00"
-    },
-    "1990f3afd3d9b604": {
-      "title": "We found 24 Android vulnerabilities using our open source AI security agent",
-      "fetched_at": "2026-09-29T03:08:02.017936+00:00"
-    },
-    "0a205a359a1ad515": {
-      "title": "Show HN: Jylus – give AI systems evidence from changing data.",
-      "fetched_at": "2026-09-29T03:08:02.630534+00:00"
-    },
-    "b4420b3cf38aedde": {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "fetched_at": "2026-09-29T03:08:03.301239+00:00"
-    },
-    "dad0b412c3534640": {
-      "title": "AI Companies Are Not (Necessarily) Liable for Unintended AI Cyberattacks",
-      "fetched_at": "2026-09-29T03:08:03.943524+00:00"
-    },
-    "a3f61aa01a4746b0": {
-      "title": "What is the best LLM for turbo charging code?",
-      "fetched_at": "2026-09-29T03:08:04.585983+00:00"
-    },
-    "e3c314deea99e733": {
-      "title": "AI and the Revenge of the Non-Techies",
-      "fetched_at": "2026-09-29T03:08:05.267374+00:00"
-    },
-    "e703b7a764c4e948": {
-      "title": "AI's next training data: your dodgy gaming skills",
-      "fetched_at": "2026-09-29T03:08:05.890312+00:00"
-    },
-    "a0335fcc01860e19": {
-      "title": "GPT-6 Astra Is the Best Vision Model We Have Tested",
-      "fetched_at": "2026-09-29T03:08:06.573217+00:00"
-    },
-    "1b689e4ee945fccf": {
-      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
-      "fetched_at": "2026-09-29T03:08:07.181324+00:00"
-    },
-    "1f7aa32aa160e603": {
-      "title": "LLM makes decisions to raise its training scores, and ignore user directives",
-      "fetched_at": "2026-09-29T03:08:07.801456+00:00"
-    },
-    "f27b8acd197bb2a4": {
-      "title": "Atrocious AI-Written Tests",
-      "fetched_at": "2026-09-29T03:08:08.414197+00:00"
-    },
-    "d5d5afda64c3192d": {
-      "title": "China broadens travel curbs to encompass family of top AI talent",
-      "fetched_at": "2026-09-29T03:08:08.414325+00:00"
-    },
-    "f39c24d9a6992c77": {
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "fetched_at": "2026-09-29T03:08:09.029756+00:00"
-    },
-    "240ae1e7e162c25f": {
-      "title": "中国真的在窃取美国公司的人工智能技术吗？",
-      "fetched_at": "2026-09-29T03:08:12.073689+00:00"
-    },
-    "6ea503d911f44c7b": {
-      "title": "产能过剩背景下，中国汽车业走向并购重组时代",
-      "fetched_at": "2026-09-29T03:08:12.755745+00:00"
-    },
-    "d27616ea4e369981": {
-      "title": "中国当局为何要求中学生读《简·爱》？",
-      "fetched_at": "2026-09-29T03:08:13.426814+00:00"
-    },
-    "942c45877128c26f": {
-      "title": "美中同意互降关税，涉及商品价值600亿美元",
-      "fetched_at": "2026-09-29T03:08:14.044075+00:00"
-    },
-    "1ffef22dbe4cae0d": {
-      "title": "帶一杯冰咖啡去面試，會令你失去工作機會嗎？",
-      "fetched_at": "2026-09-29T03:08:14.643064+00:00"
-    },
-    "a2f8d0abd14dc1f2": {
-      "title": "人工智能末世論：為什麼有人相信AI是敵基督，誘騙人類崇拜撒旦",
-      "fetched_at": "2026-09-29T03:08:15.256407+00:00"
-    },
-    "9303d8ce05e685f4": {
-      "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
-      "fetched_at": "2026-09-29T03:08:15.876244+00:00"
-    },
     "1c34c34a8785a487": {
       "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
       "fetched_at": "2026-09-29T11:44:48.036935+00:00"
@@ -2615,7 +2367,23 @@
     "53d3fa26fe989dd7": {
       "title": "Tropical trees built homes for ants. Wasps are taking them over",
       "fetched_at": "2026-10-06T21:59:06.845923+00:00"
+    },
+    "e39d7249dc4909ee": {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "fetched_at": "2026-10-07T03:08:49.193467+00:00"
+    },
+    "fab4fc08d51e895f": {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "fetched_at": "2026-10-07T03:08:49.834392+00:00"
+    },
+    "17ee416bf811c690": {
+      "title": "找工作？面試中那個你不必回答的問題",
+      "fetched_at": "2026-10-07T03:08:52.444121+00:00"
+    },
+    "b9b40328dac54fc8": {
+      "title": "AI模型會成為年輕人身體形象的下一個重大威脅嗎？",
+      "fetched_at": "2026-10-07T03:08:53.139461+00:00"
     }
   },
-  "last_updated": "2026-10-06T21:59:06.901762+00:00"
+  "last_updated": "2026-10-07T03:08:55.662084+00:00"
 }
