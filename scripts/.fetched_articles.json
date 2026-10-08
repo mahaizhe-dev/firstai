@@ -1,253 +1,5 @@
 {
   "articles": {
-    "609d9d6e65b8aafe": {
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "fetched_at": "2026-09-30T17:10:56.070121+00:00"
-    },
-    "675c222a90909416": {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "fetched_at": "2026-09-30T17:10:56.832837+00:00"
-    },
-    "2327bcd5268443e4": {
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "fetched_at": "2026-09-30T17:10:57.589462+00:00"
-    },
-    "1550fd5a5441ea27": {
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "fetched_at": "2026-09-30T17:10:58.358880+00:00"
-    },
-    "88e8e89c89263c12": {
-      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-      "fetched_at": "2026-09-30T17:10:59.131752+00:00"
-    },
-    "9968858703ad990a": {
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "fetched_at": "2026-09-30T17:10:59.889827+00:00"
-    },
-    "cb48d785135882dc": {
-      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
-      "fetched_at": "2026-09-30T17:11:00.654581+00:00"
-    },
-    "664d043983b63ee1": {
-      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-      "fetched_at": "2026-09-30T17:11:01.428213+00:00"
-    },
-    "4fadad5b053df852": {
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-30T17:11:02.193019+00:00"
-    },
-    "39a9581ec5151d73": {
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "fetched_at": "2026-09-30T17:11:03.013774+00:00"
-    },
-    "17529da27d189f8e": {
-      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-      "fetched_at": "2026-09-30T17:11:03.784397+00:00"
-    },
-    "87c478bed803917a": {
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "fetched_at": "2026-09-30T17:11:04.557396+00:00"
-    },
-    "b19390da41877b65": {
-      "title": "Airbnb adds AI search, more social features",
-      "fetched_at": "2026-09-30T17:11:05.340500+00:00"
-    },
-    "770570de9d9972aa": {
-      "title": "经典任务管理软件的现代重构：新版 2Do 详解",
-      "fetched_at": "2026-09-30T17:11:06.104693+00:00"
-    },
-    "607f16af6634b4ea": {
-      "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
-      "fetched_at": "2026-09-30T17:11:14.225766+00:00"
-    },
-    "15359d0909c521b9": {
-      "title": "香港提出「人民幣支付政府開支」為何引發「去美元化」憂慮？",
-      "fetched_at": "2026-09-30T17:11:14.991604+00:00"
-    },
-    "1395cb4283234306": {
-      "title": "中國強勢下，歐洲電池工業謀求「重新充電」",
-      "fetched_at": "2026-09-30T17:11:15.743465+00:00"
-    },
-    "fa65f2b2abc5ecbb": {
-      "title": "Powerful 'Kelvin wave' triggered by super El Niño threatens to raise sea levels off the California coast for months",
-      "fetched_at": "2026-09-30T17:11:20.678501+00:00"
-    },
-    "c8ce3ab46ce229f5": {
-      "title": "Astronomers discover 'backward' planet orbiting its star in the wrong direction",
-      "fetched_at": "2026-09-30T17:11:21.435007+00:00"
-    },
-    "f326fb2bf8ff61a1": {
-      "title": "Regular exercise reshapes the immune system at a cellular level, study suggests",
-      "fetched_at": "2026-09-30T17:11:22.192308+00:00"
-    },
-    "831707d54ff0a93c": {
-      "title": "Cannabis users were twice as likely to commit violence, review finds",
-      "fetched_at": "2026-09-30T17:11:22.960364+00:00"
-    },
-    "9393526f728480a0": {
-      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
-      "fetched_at": "2026-09-30T17:11:23.725054+00:00"
-    },
-    "fae96b2d9ffb67d3": {
-      "title": "Mulberry may reshape gut bacteria and influence metabolism",
-      "fetched_at": "2026-09-30T17:11:24.499626+00:00"
-    },
-    "d745470b45648da4": {
-      "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
-      "fetched_at": "2026-09-30T17:11:25.253002+00:00"
-    },
-    "54cbff8094ec643f": {
-      "title": "Black hole jets may decide the fate of entire galaxies",
-      "fetched_at": "2026-09-30T17:11:26.006108+00:00"
-    },
-    "96148e8983ab442f": {
-      "title": "Pompeii’s 2,000-year-old eruption just gave scientists a better clock for Earth’s past",
-      "fetched_at": "2026-09-30T17:11:26.773709+00:00"
-    },
-    "e6ad39ef1344b661": {
-      "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
-      "fetched_at": "2026-09-30T17:11:27.532215+00:00"
-    },
-    "ffc6fd29bf2fee6f": {
-      "title": "Bats may have first evolved in Europe 65 million years ago",
-      "fetched_at": "2026-09-30T17:11:28.496191+00:00"
-    },
-    "e9eebbe11f794504": {
-      "title": "NASA’s Curiosity rover just hit 5,000 days on Mars and sent back this stunning view",
-      "fetched_at": "2026-09-30T17:11:29.261511+00:00"
-    },
-    "e382885c98d4f8a8": {
-      "title": "Sharks can hear nearly 250 feet away and pinpoint the source",
-      "fetched_at": "2026-09-30T17:11:30.035852+00:00"
-    },
-    "e845ec88f27bde7b": {
-      "title": "Creatine may help build muscle even without exercise, researchers find",
-      "fetched_at": "2026-09-30T17:11:30.803311+00:00"
-    },
-    "7a639abc63b8cf2c": {
-      "title": "Forget LASIK: Safer, cheaper vision correction without lasers or incisions",
-      "fetched_at": "2026-09-30T17:11:31.569844+00:00"
-    },
-    "f80bbbbda5b28d6f": {
-      "title": "Show HN: Certify you wrote it and not AI",
-      "fetched_at": "2026-09-30T21:37:31.103977+00:00"
-    },
-    "4ff7870ebf1d9b12": {
-      "title": "Watch the Rogue AI Committee Hearing",
-      "fetched_at": "2026-09-30T21:37:31.668848+00:00"
-    },
-    "010bac663f908704": {
-      "title": "The $170B lesson data center developers keep learning the hard way",
-      "fetched_at": "2026-09-30T21:37:32.236441+00:00"
-    },
-    "f9b4442739751034": {
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "fetched_at": "2026-09-30T21:37:32.802452+00:00"
-    },
-    "2ffe06cbd0682025": {
-      "title": "Strata: Run a 125B-parameter AI model on a normal gaming PC",
-      "fetched_at": "2026-09-30T21:37:33.382426+00:00"
-    },
-    "2f5ec28a1985605a": {
-      "title": "CM AI Docking Port: teaching AI agents to knock on the right door",
-      "fetched_at": "2026-09-30T21:37:33.967485+00:00"
-    },
-    "5f8b20fdc8d14ae2": {
-      "title": "Show HN: Made a digital wall for AI Agents to \"tag\"",
-      "fetched_at": "2026-09-30T21:37:34.544700+00:00"
-    },
-    "fe11b670b9890882": {
-      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-      "fetched_at": "2026-09-30T21:37:35.115882+00:00"
-    },
-    "a78ab24f9ed1de67": {
-      "title": "Vulnerability disclosures double to 10k per month as AI fuels exploitation",
-      "fetched_at": "2026-09-30T21:37:35.683404+00:00"
-    },
-    "65ba3fb7f0c96845": {
-      "title": "Numerai: Architect an AI scientist to predict the stock market",
-      "fetched_at": "2026-09-30T21:37:36.272114+00:00"
-    },
-    "0f8dc34fed1aa015": {
-      "title": "TalkScribe – On-device dictation and local LLM rewrite for macOS",
-      "fetched_at": "2026-09-30T21:37:36.887548+00:00"
-    },
-    "0bc223f8e08d3320": {
-      "title": "Would you let AI agents into production?",
-      "fetched_at": "2026-09-30T21:37:37.476764+00:00"
-    },
-    "dfbee4e62c693821": {
-      "title": "A better path for AI with Max Tegmark",
-      "fetched_at": "2026-09-30T21:37:38.262345+00:00"
-    },
-    "5b468eed14a8c997": {
-      "title": "Turn one question into a branching map of ideas with AI",
-      "fetched_at": "2026-09-30T21:37:38.825055+00:00"
-    },
-    "c6f0f04664f2591e": {
-      "title": "Factory AI vs. Cognition (Devin) board tussle",
-      "fetched_at": "2026-09-30T21:37:39.484028+00:00"
-    },
-    "b2d19b3ab0db39ad": {
-      "title": "America.gov AI Easter Egg? Type \"play minecraft\"",
-      "fetched_at": "2026-09-30T21:37:40.051623+00:00"
-    },
-    "83bf6310f955ec2f": {
-      "title": "Show HN: FGRF v3.0 – Scale-dependent structural probing of LLM weight topologies",
-      "fetched_at": "2026-09-30T21:37:40.617053+00:00"
-    },
-    "0485c0aa639c8614": {
-      "title": "A Practical Guide to Making Yourself Obsolete Through AI",
-      "fetched_at": "2026-09-30T21:37:41.212831+00:00"
-    },
-    "f08aca5286c84759": {
-      "title": "Function-preserving watermarking of AI-generated proteins",
-      "fetched_at": "2026-09-30T21:37:41.782357+00:00"
-    },
-    "72202cb34ceb783f": {
-      "title": "CS240 AI Cheating Retrospective",
-      "fetched_at": "2026-09-30T21:37:42.375896+00:00"
-    },
-    "ae09a4afaf13f5f5": {
-      "title": "「雙休購」爆紅與下架：一個網購平台如何撬動勞工權益討論",
-      "fetched_at": "2026-09-30T21:37:44.590758+00:00"
-    },
-    "1395435ae85df275": {
-      "title": "CHIME telescope unlocks new way to study the universe's bafflign expansion",
-      "fetched_at": "2026-09-30T21:37:46.772163+00:00"
-    },
-    "ef553db5a60b2468": {
-      "title": "India restores ancient water systems (stepwells)",
-      "fetched_at": "2026-09-30T21:37:47.335990+00:00"
-    },
-    "7e5083b36af7b019": {
-      "title": "Medieval Grave with Remains of Woman and Child Uncovered in Italy",
-      "fetched_at": "2026-09-30T21:37:47.905301+00:00"
-    },
-    "15ded675548d03c2": {
-      "title": "Did Early Americans Reuse Spearpoints?",
-      "fetched_at": "2026-09-30T21:37:48.468333+00:00"
-    },
-    "4075b79d6443d3e9": {
-      "title": "Historical Burdens on Physics (2022) [pdf]",
-      "fetched_at": "2026-09-30T21:37:49.030648+00:00"
-    },
-    "34ef2608559463cc": {
-      "title": "Children at risk for depression get “stuck” on sad faces",
-      "fetched_at": "2026-09-30T21:37:49.599969+00:00"
-    },
-    "80e33cfff7f2bedc": {
-      "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
-      "fetched_at": "2026-09-30T21:37:50.167468+00:00"
-    },
-    "b89600437587138f": {
-      "title": "This 245-million-year-old fossil still has its stomach and intestines",
-      "fetched_at": "2026-09-30T21:37:50.740858+00:00"
-    },
-    "cab627be2c04b766": {
-      "title": "Brain scans reveal which disorders are linked to faster brain aging",
-      "fetched_at": "2026-09-30T21:37:51.309276+00:00"
-    },
     "db3387a843c69d4e": {
       "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
       "fetched_at": "2026-10-01T02:56:21.643839+00:00"
@@ -2503,7 +2255,175 @@
     "c946ed95772ed918": {
       "title": "Jonathan the tortoise lived to 194 years old — now scientists think they know why",
       "fetched_at": "2026-10-08T12:24:44.985998+00:00"
+    },
+    "9dab90debab2888f": {
+      "title": "Female AI agents 'paid' less than males, study finds",
+      "fetched_at": "2026-10-08T22:36:56.146235+00:00"
+    },
+    "a54bf710458474f1": {
+      "title": "Build and Train a 25M Parameter LLM from Scratch on Your CPU",
+      "fetched_at": "2026-10-08T22:36:56.777959+00:00"
+    },
+    "dc22c02460ad0b88": {
+      "title": "3JSBench: A benchmark for LLM-generated 3D objects",
+      "fetched_at": "2026-10-08T22:36:57.408458+00:00"
+    },
+    "8d349241ed52de43": {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "fetched_at": "2026-10-08T22:36:58.051171+00:00"
+    },
+    "75a11d8e1417f497": {
+      "title": "The operating system for AI harnesses",
+      "fetched_at": "2026-10-08T22:36:58.679096+00:00"
+    },
+    "05c239a1457fb736": {
+      "title": "'Suno is the new auto-tune': Meet the artists using AI to go viral",
+      "fetched_at": "2026-10-08T22:36:59.306090+00:00"
+    },
+    "c37d9b03c8e765f8": {
+      "title": "Vosti: Specifying, Implementing, and Verifying Deterministic LLM Inference",
+      "fetched_at": "2026-10-08T22:36:59.963146+00:00"
+    },
+    "a215e3a08ed9e87e": {
+      "title": "Cybersecurity Imperatives Will Demand AI Math",
+      "fetched_at": "2026-10-08T22:37:00.584524+00:00"
+    },
+    "adc39bfd6fd598ec": {
+      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+      "fetched_at": "2026-10-08T22:37:01.213177+00:00"
+    },
+    "79543f6c27c0cd6b": {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "fetched_at": "2026-10-08T22:37:01.872935+00:00"
+    },
+    "8fbf310e81bc973a": {
+      "title": "Measure how engineers and teams work with AI",
+      "fetched_at": "2026-10-08T22:37:02.533694+00:00"
+    },
+    "a5ce5697785f1a0f": {
+      "title": "Show HN: Anvil, offline LLM chat and SDXL image generation on iPhone",
+      "fetched_at": "2026-10-08T22:37:03.170311+00:00"
+    },
+    "b7d0d32948cd89f9": {
+      "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
+      "fetched_at": "2026-10-08T22:37:03.803559+00:00"
+    },
+    "592764e0ef60e8dc": {
+      "title": "Is AI the End of Math as We Know It?",
+      "fetched_at": "2026-10-08T22:37:04.437840+00:00"
+    },
+    "82ae874f62a198ff": {
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "fetched_at": "2026-10-08T22:37:05.064685+00:00"
+    },
+    "da58c8c0f301e146": {
+      "title": "AI Reflections of a New Grad Engineer",
+      "fetched_at": "2026-10-08T22:37:05.686796+00:00"
+    },
+    "f9c2862cc60f23c8": {
+      "title": "AI, the peacock's tail and bullshit jobs",
+      "fetched_at": "2026-10-08T22:37:06.318552+00:00"
+    },
+    "e321c4365bfaa923": {
+      "title": "Show HN: LLM Motion Graphics Benchmark",
+      "fetched_at": "2026-10-08T22:37:06.962041+00:00"
+    },
+    "7b5438f77d1df2e9": {
+      "title": "Speed over Safety: Why China Won't Slow Down AI",
+      "fetched_at": "2026-10-08T22:37:07.583548+00:00"
+    },
+    "84753930a7f26f44": {
+      "title": "Model Collapse Isn't New, nor Is It Specific to AI",
+      "fetched_at": "2026-10-08T22:37:08.213546+00:00"
+    },
+    "53ef6e9f7d4fee42": {
+      "title": "俄羅斯鼠疫會引發一場全球疫情嗎？",
+      "fetched_at": "2026-10-08T22:37:12.018315+00:00"
+    },
+    "884235299bb684bb": {
+      "title": "貓眼如何啟發機器人的照相機技術發展",
+      "fetched_at": "2026-10-08T22:37:12.666816+00:00"
+    },
+    "b2af7330a4e76400": {
+      "title": "特朗普排除美中合作開發人工智能",
+      "fetched_at": "2026-10-08T22:37:13.279072+00:00"
+    },
+    "e56e3b15d231f571": {
+      "title": "OpenAI曾无视员工关于其人工智能安全问题的警告",
+      "fetched_at": "2026-10-08T22:37:13.938529+00:00"
+    },
+    "48fd1c168da1c943": {
+      "title": "恋爱结婚效率为上？日本单身年轻人走进婚介所",
+      "fetched_at": "2026-10-08T22:37:14.575615+00:00"
+    },
+    "29393d5901de33b0": {
+      "title": "特朗普令美国面临三重病毒威胁",
+      "fetched_at": "2026-10-08T22:37:15.195949+00:00"
+    },
+    "d02dc289f945b69c": {
+      "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
+      "fetched_at": "2026-10-08T22:37:15.831673+00:00"
+    },
+    "c9a5265f07e6c418": {
+      "title": "Big dogs age faster at an epigenetic level, new study finds",
+      "fetched_at": "2026-10-08T22:37:18.310854+00:00"
+    },
+    "a2f7ed6872b7a2e8": {
+      "title": "'Freakish' discovery of 9 million-year-old capybara tooth supports idea that Atacama wasn't always a desert",
+      "fetched_at": "2026-10-08T22:37:18.927041+00:00"
+    },
+    "ff91873ae4a3f11b": {
+      "title": "Bone Comb Unearthed at South Carolina Colonial Town",
+      "fetched_at": "2026-10-08T22:37:19.568635+00:00"
+    },
+    "a56a272cd13c0b58": {
+      "title": "James Webb telescope pinpoints the most distant 'fast radio burst' ever seen",
+      "fetched_at": "2026-10-08T22:37:20.214845+00:00"
+    },
+    "b72acfc27af87916": {
+      "title": "The Milky Way is one galaxy — but it used to be thousands, new simulations reveal",
+      "fetched_at": "2026-10-08T22:37:20.843165+00:00"
+    },
+    "3216ada78de12064": {
+      "title": "Scandinavian Domestic Burials Studied",
+      "fetched_at": "2026-10-08T22:37:21.468698+00:00"
+    },
+    "c82b2c38762acc43": {
+      "title": "Ring with Lighthouse of Alexandria Image Recovered",
+      "fetched_at": "2026-10-08T22:37:22.095524+00:00"
+    },
+    "0711753c938b0452": {
+      "title": "Would you trust AI to calculate your true 'biological age'?",
+      "fetched_at": "2026-10-08T22:37:22.760699+00:00"
+    },
+    "007ed4751c9e061a": {
+      "title": "The central Pacific Ocean just broke a temperature record. Experts say it might signal a new kind of El Niño.",
+      "fetched_at": "2026-10-08T22:37:23.385373+00:00"
+    },
+    "81cd2b8d8bcff08f": {
+      "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
+      "fetched_at": "2026-10-08T22:37:24.009013+00:00"
+    },
+    "2dc332c667039e22": {
+      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+      "fetched_at": "2026-10-08T22:37:24.638892+00:00"
+    },
+    "ddd808985a73fd70": {
+      "title": "This “golden tree” coral was too strange for any known family",
+      "fetched_at": "2026-10-08T22:37:25.280190+00:00"
+    },
+    "3f4505c5ef8e5e21": {
+      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
+      "fetched_at": "2026-10-08T22:37:26.007739+00:00"
+    },
+    "1254056f979a8521": {
+      "title": "NASA is searching for hidden caves to build its first Moon base",
+      "fetched_at": "2026-10-08T22:37:26.639742+00:00"
+    },
+    "cfda59340efcc2ab": {
+      "title": "Einstein Probe reveals a hidden phase of neutron star collisions",
+      "fetched_at": "2026-10-08T22:37:27.259928+00:00"
     }
   },
-  "last_updated": "2026-10-08T12:24:45.053314+00:00"
+  "last_updated": "2026-10-08T22:37:27.356762+00:00"
 }
