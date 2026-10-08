@@ -1,65 +1,5 @@
 {
   "articles": {
-    "c00d550eee397f2c": {
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "fetched_at": "2026-09-30T02:49:57.421637+00:00"
-    },
-    "78174f676bf57ea9": {
-      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
-      "fetched_at": "2026-09-30T02:49:58.004649+00:00"
-    },
-    "f12594b2f5fe12de": {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "fetched_at": "2026-09-30T02:49:58.580774+00:00"
-    },
-    "70b003bbf3116ef2": {
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "fetched_at": "2026-09-30T02:49:59.233994+00:00"
-    },
-    "3ca04d0192ef27d1": {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "fetched_at": "2026-09-30T02:49:59.811307+00:00"
-    },
-    "58311f35a620c805": {
-      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-      "fetched_at": "2026-09-30T02:50:00.389627+00:00"
-    },
-    "58545f2acc0dfa29": {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "fetched_at": "2026-09-30T02:50:00.957778+00:00"
-    },
-    "b586a1d0e55abe8c": {
-      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-      "fetched_at": "2026-09-30T02:50:01.593964+00:00"
-    },
-    "09832aceb307c460": {
-      "title": "康奈尔大学兄弟会强奸案调查重启：目前我们所知的",
-      "fetched_at": "2026-09-30T02:50:03.820035+00:00"
-    },
-    "8e35d792bf061530": {
-      "title": "特朗普要求人工智能巨头自我监管",
-      "fetched_at": "2026-09-30T02:50:04.414159+00:00"
-    },
-    "f2784f8215a70d84": {
-      "title": "中國人工智慧工具「教導」研究人員製造生物武器",
-      "fetched_at": "2026-09-30T02:50:04.988532+00:00"
-    },
-    "b55555c195a23ab4": {
-      "title": "“中国制造”背后的声音：在农民工文学里读懂中国",
-      "fetched_at": "2026-09-30T02:50:05.568924+00:00"
-    },
-    "30b73085607cc0c2": {
-      "title": "我付了3萬英鎊讀個「網紅」學位，這是為什麼",
-      "fetched_at": "2026-09-30T02:50:06.139454+00:00"
-    },
-    "0791b503cace7b4c": {
-      "title": "美軍撤離伊拉克：駐軍20年留下什麼遺產？接下來會發生什麼？",
-      "fetched_at": "2026-09-30T02:50:06.739159+00:00"
-    },
-    "f52d492cff4798b7": {
-      "title": "NASA just powered up Roman’s massive 300-megapixel camera",
-      "fetched_at": "2026-09-30T02:50:09.468780+00:00"
-    },
     "f98daf605569892c": {
       "title": "经典任务管理软件的现代重构： 新版 2Do 详解",
       "fetched_at": "2026-09-30T11:31:03.451366+00:00"
@@ -2327,7 +2267,155 @@
     "675b9a96e78b3a8e": {
       "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
       "fetched_at": "2026-10-07T22:24:39.624957+00:00"
+    },
+    "2c3e828706f30d67": {
+      "title": "The AI Pascal's Wager",
+      "fetched_at": "2026-10-08T03:24:44.061059+00:00"
+    },
+    "b91a2517cc0c2cac": {
+      "title": "Runtime – Your AI Agents Have a Home",
+      "fetched_at": "2026-10-08T03:24:44.688898+00:00"
+    },
+    "913049218200321a": {
+      "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+      "fetched_at": "2026-10-08T03:24:45.308518+00:00"
+    },
+    "92e2c4d46d39ec1f": {
+      "title": "Building alone, faster: a panel on what AI is doing to the product trio",
+      "fetched_at": "2026-10-08T03:24:45.922113+00:00"
+    },
+    "4d5f2e148aa83f2d": {
+      "title": "Exodus AI – Affordable face swapping tool for creators",
+      "fetched_at": "2026-10-08T03:24:46.545506+00:00"
+    },
+    "76c5b4ceca383b47": {
+      "title": "What I learned leaving a Ruth AI in charge",
+      "fetched_at": "2026-10-08T03:24:47.156933+00:00"
+    },
+    "9fe9a10fb86aad8e": {
+      "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities into Cheap Artifacts?",
+      "fetched_at": "2026-10-08T03:24:47.772915+00:00"
+    },
+    "1200a14f95e2324c": {
+      "title": "How Long Until AI Hacks Everything?",
+      "fetched_at": "2026-10-08T03:24:48.398086+00:00"
+    },
+    "e60df9636ab5dc08": {
+      "title": "Liquid AI releases Pareto-frontier, multimodal decision model for the edge",
+      "fetched_at": "2026-10-08T03:24:49.023548+00:00"
+    },
+    "fcbd112d447352c1": {
+      "title": "Someone Rebuilt Free, OSS Versions of Photoshop, Premiere, and Lightroom with AI",
+      "fetched_at": "2026-10-08T03:24:49.672769+00:00"
+    },
+    "ee20fb97af21f858": {
+      "title": "OpenAI's human rights lead: What military AI could do 'keeps me up at night'",
+      "fetched_at": "2026-10-08T03:24:50.290244+00:00"
+    },
+    "481d094a2b22bde4": {
+      "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+      "fetched_at": "2026-10-08T03:24:50.932049+00:00"
+    },
+    "1fff013f9bdc61cf": {
+      "title": "AI cluster networking reading list: RDMA, collectives, fabrics",
+      "fetched_at": "2026-10-08T03:24:51.553866+00:00"
+    },
+    "5221caab231187e5": {
+      "title": "Bold AI developer takes aim at Adobe with open source clones",
+      "fetched_at": "2026-10-08T03:24:52.215009+00:00"
+    },
+    "bdc58af538dd9106": {
+      "title": "Learning cardiac dynamics via action-conditioned JEPAs",
+      "fetched_at": "2026-10-08T03:24:52.834310+00:00"
+    },
+    "e1911e9721b22da1": {
+      "title": "What is the actual percentage of people For and Against AI?",
+      "fetched_at": "2026-10-08T03:24:53.463624+00:00"
+    },
+    "8e0047f2041a92f4": {
+      "title": "Opentunnel – public URLs for anything running on your machine",
+      "fetched_at": "2026-10-08T03:24:54.093033+00:00"
+    },
+    "2720ca787e270e10": {
+      "title": "Kelly's AI Tax Bill Struggles to Link Tech with Economic Harms",
+      "fetched_at": "2026-10-08T03:24:54.726526+00:00"
+    },
+    "4c12a5e461268da4": {
+      "title": "When and why prototyping is still needed when working with AI agents",
+      "fetched_at": "2026-10-08T03:24:55.467980+00:00"
+    },
+    "96398c26d3859426": {
+      "title": "The AI Agents Pitching Lit Mags to Stay Alive",
+      "fetched_at": "2026-10-08T03:24:56.092451+00:00"
+    },
+    "8f747cb24cf25a38": {
+      "title": "人民币疲软与出口退税：中国出口繁荣背后的两大政策",
+      "fetched_at": "2026-10-08T03:24:59.370913+00:00"
+    },
+    "c063042a6df7a690": {
+      "title": "「地球不只有一個北極」——怎麼講？",
+      "fetched_at": "2026-10-08T03:25:00.058615+00:00"
+    },
+    "c729fde1e5ef20f6": {
+      "title": "中国的“自力更生”战略正在颠覆中欧贸易格局",
+      "fetched_at": "2026-10-08T03:25:00.681448+00:00"
+    },
+    "924dd8f38771a4ce": {
+      "title": "从稀土到汽车，中欧面临一场贸易对决",
+      "fetched_at": "2026-10-08T03:25:01.334910+00:00"
+    },
+    "d415ea631a519ded": {
+      "title": "派拉蒙合併華納兄弟：可能以四種方式影響你的生活",
+      "fetched_at": "2026-10-08T03:25:01.950132+00:00"
+    },
+    "012716ad3a049dc4": {
+      "title": "美國中期選舉是甚麼？這是一份簡易指南",
+      "fetched_at": "2026-10-08T03:25:02.584575+00:00"
+    },
+    "2e78a93bcf5df4e3": {
+      "title": "加州女子被指控帮中国在美监视赖清德家人",
+      "fetched_at": "2026-10-08T03:25:03.283033+00:00"
+    },
+    "f34e3f5bf02fc5a9": {
+      "title": "Was the Human Gut Healthier in Ancient Times?",
+      "fetched_at": "2026-10-08T03:25:10.321271+00:00"
+    },
+    "0bd73ffa9193c688": {
+      "title": "Webb finds a surprising atmosphere on a scorching lava world",
+      "fetched_at": "2026-10-08T03:25:10.964200+00:00"
+    },
+    "8fcae2bba823ce10": {
+      "title": "Earth’s center is moving, and NASA just measured it",
+      "fetched_at": "2026-10-08T03:25:11.587418+00:00"
+    },
+    "3f50a0f1c910ab12": {
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "fetched_at": "2026-10-08T03:25:12.211432+00:00"
+    },
+    "09898d889ea1d87d": {
+      "title": "Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?",
+      "fetched_at": "2026-10-08T03:25:12.833307+00:00"
+    },
+    "e4144fe4ea832f99": {
+      "title": "Paramount Completes Acquisition of Warner Bros. Discovery",
+      "fetched_at": "2026-10-08T03:25:13.454469+00:00"
+    },
+    "7e839ea9f55b6831": {
+      "title": "Judge allows Paramount to close $110B takeover of Warner Bros. Discovery",
+      "fetched_at": "2026-10-08T03:25:14.082288+00:00"
+    },
+    "ba62a47d23fbbc1f": {
+      "title": "Amazon Prime Day 2026: Best stargazing deals on telescopes and binoculars",
+      "fetched_at": "2026-10-08T03:25:14.707636+00:00"
+    },
+    "9bd7dc5657186d18": {
+      "title": "'We're rapidly running out of time': 7 of Earth's 9 life support systems already breached, and the situation is getting worse, report warns",
+      "fetched_at": "2026-10-08T03:25:15.330796+00:00"
+    },
+    "dbecd7205dec6cec": {
+      "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+      "fetched_at": "2026-10-08T03:25:15.978182+00:00"
     }
   },
-  "last_updated": "2026-10-07T22:24:39.722931+00:00"
+  "last_updated": "2026-10-08T03:25:16.039478+00:00"
 }
