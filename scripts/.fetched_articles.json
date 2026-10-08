@@ -1,57 +1,5 @@
 {
   "articles": {
-    "f98daf605569892c": {
-      "title": "经典任务管理软件的现代重构： 新版 2Do 详解",
-      "fetched_at": "2026-09-30T11:31:03.451366+00:00"
-    },
-    "b984e113e1e0b440": {
-      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
-      "fetched_at": "2026-09-30T11:31:04.062608+00:00"
-    },
-    "dc21ff8e75f0da0d": {
-      "title": "印度德里毛孩競逐「最肥狗狗」頭銜",
-      "fetched_at": "2026-09-30T11:31:06.110593+00:00"
-    },
-    "9d412a4cd40e092c": {
-      "title": "韓國「習近平餐館」遭中國人跨境噴漆襲擊",
-      "fetched_at": "2026-09-30T11:31:06.898147+00:00"
-    },
-    "884235299bb684bb": {
-      "title": "貓眼如何啟發機器人的照相機技術發展",
-      "fetched_at": "2026-09-30T11:31:07.506441+00:00"
-    },
-    "b2af7330a4e76400": {
-      "title": "特朗普排除美中合作開發人工智能",
-      "fetched_at": "2026-09-30T11:31:08.175949+00:00"
-    },
-    "e56e3b15d231f571": {
-      "title": "OpenAI曾无视员工关于其人工智能安全问题的警告",
-      "fetched_at": "2026-09-30T11:31:08.789917+00:00"
-    },
-    "48fd1c168da1c943": {
-      "title": "恋爱结婚效率为上？日本单身年轻人走进婚介所",
-      "fetched_at": "2026-09-30T11:31:09.413275+00:00"
-    },
-    "29393d5901de33b0": {
-      "title": "特朗普令美国面临三重病毒威胁",
-      "fetched_at": "2026-09-30T11:31:10.020735+00:00"
-    },
-    "d02dc289f945b69c": {
-      "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
-      "fetched_at": "2026-09-30T11:31:10.712658+00:00"
-    },
-    "efff2885276bb4b9": {
-      "title": "Now is the best time to see Saturn all year — yes, even with the naked eye",
-      "fetched_at": "2026-09-30T11:31:12.682829+00:00"
-    },
-    "33952c4a7ef58b2a": {
-      "title": "Woman's 5-year struggle with balance and walking was caused by a 'one-in-a-million' disorder",
-      "fetched_at": "2026-09-30T11:31:13.296044+00:00"
-    },
-    "e75a24bb1f804762": {
-      "title": "Trump can't stop America's shift to clean energy. And we can accelerate it.",
-      "fetched_at": "2026-09-30T11:31:13.914305+00:00"
-    },
     "609d9d6e65b8aafe": {
       "title": "Meta disputes claim that Muse read a user’s private messages without permission",
       "fetched_at": "2026-09-30T17:10:56.070121+00:00"
@@ -2415,7 +2363,147 @@
     "dbecd7205dec6cec": {
       "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
       "fetched_at": "2026-10-08T03:25:15.978182+00:00"
+    },
+    "55f0c3ce9067ab14": {
+      "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+      "fetched_at": "2026-10-08T12:24:20.140854+00:00"
+    },
+    "04fd57da8d68a17b": {
+      "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
+      "fetched_at": "2026-10-08T12:24:20.719535+00:00"
+    },
+    "8e3239a4d5f4a5b3": {
+      "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
+      "fetched_at": "2026-10-08T12:24:21.299304+00:00"
+    },
+    "22f5423cf23209b1": {
+      "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+      "fetched_at": "2026-10-08T12:24:21.874994+00:00"
+    },
+    "c4c0c93b65ecbd6c": {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "fetched_at": "2026-10-08T12:24:22.453064+00:00"
+    },
+    "2914043af794735e": {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "fetched_at": "2026-10-08T12:24:23.042688+00:00"
+    },
+    "a5eed353a657fb43": {
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "fetched_at": "2026-10-08T12:24:23.648372+00:00"
+    },
+    "b5b3b36df5b3d2e0": {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "fetched_at": "2026-10-08T12:24:24.231344+00:00"
+    },
+    "13c3ac1c36e23805": {
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+      "fetched_at": "2026-10-08T12:24:24.919426+00:00"
+    },
+    "56a95dd6466cd241": {
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "fetched_at": "2026-10-08T12:24:25.521377+00:00"
+    },
+    "81317cecf565b72a": {
+      "title": "ChatGPT is getting college planning tools",
+      "fetched_at": "2026-10-08T12:24:26.107116+00:00"
+    },
+    "77091256f50be6bc": {
+      "title": "Muse launches on the iPad",
+      "fetched_at": "2026-10-08T12:24:26.703891+00:00"
+    },
+    "61591668bcfe7dad": {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "fetched_at": "2026-10-08T12:24:27.298266+00:00"
+    },
+    "8d05cb7dcb2f4c79": {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "fetched_at": "2026-10-08T12:24:27.893816+00:00"
+    },
+    "9a6388361a04b0fb": {
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "fetched_at": "2026-10-08T12:24:28.482503+00:00"
+    },
+    "2c70c41d07f6d6b9": {
+      "title": "Google experiments with an AI-powered gaming platform",
+      "fetched_at": "2026-10-08T12:24:29.152074+00:00"
+    },
+    "12eea4efd4be7322": {
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "fetched_at": "2026-10-08T12:24:29.745738+00:00"
+    },
+    "176c8b40efd6e0d2": {
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "fetched_at": "2026-10-08T12:24:30.330405+00:00"
+    },
+    "bf7af87a616fe241": {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "fetched_at": "2026-10-08T12:24:30.979346+00:00"
+    },
+    "b21bdea2435a9a5b": {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "fetched_at": "2026-10-08T12:24:31.602548+00:00"
+    },
+    "9c6db05dfc469bfa": {
+      "title": "俄羅斯鼠疫引發關注：距離一場全球疫情有多遠？",
+      "fetched_at": "2026-10-08T12:24:34.479349+00:00"
+    },
+    "e78898b6bab44fd8": {
+      "title": "以色列大選：哈馬斯襲擊三年後，以色列民眾要求追究責任",
+      "fetched_at": "2026-10-08T12:24:35.093417+00:00"
+    },
+    "d79d0c43cbf70c1f": {
+      "title": "口譯與施壓：台灣楊双子德國活動捲入政治爭議的前前後後",
+      "fetched_at": "2026-10-08T12:24:35.717619+00:00"
+    },
+    "d231f447e154dd1e": {
+      "title": "加州一對華裔夫婦被控虐待至少14名代孕子女",
+      "fetched_at": "2026-10-08T12:24:36.307637+00:00"
+    },
+    "2e5b581118e40afa": {
+      "title": "中国人之间为何彼此怨恨、互相攻击？",
+      "fetched_at": "2026-10-08T12:24:37.001405+00:00"
+    },
+    "f723ba8e4e3bdc64": {
+      "title": "俄罗斯暴发了鼠疫吗？这里是我们了解到的信息",
+      "fetched_at": "2026-10-08T12:24:37.591400+00:00"
+    },
+    "0cc7bbc2f795cf13": {
+      "title": "中国移民夫妇在加州被控虐待十余名代孕子女",
+      "fetched_at": "2026-10-08T12:24:38.189754+00:00"
+    },
+    "8e35d792bf061530": {
+      "title": "特朗普要求人工智能巨头自我监管",
+      "fetched_at": "2026-10-08T12:24:38.777191+00:00"
+    },
+    "09832aceb307c460": {
+      "title": "康奈尔大学兄弟会强奸案调查重启：目前我们所知的",
+      "fetched_at": "2026-10-08T12:24:39.396492+00:00"
+    },
+    "b55555c195a23ab4": {
+      "title": "“中国制造”背后的声音：在农民工文学里读懂中国",
+      "fetched_at": "2026-10-08T12:24:39.993362+00:00"
+    },
+    "f908f7d3277f593a": {
+      "title": "Why are dengue cases surging in Florida this year? An 'unlucky' combination of factors, experts say",
+      "fetched_at": "2026-10-08T12:24:42.638831+00:00"
+    },
+    "6483e636e8e2fd77": {
+      "title": "OpenAI claims we've entered the AGI era — has GPT-6 Astra really demonstrated general intelligence?",
+      "fetched_at": "2026-10-08T12:24:43.222148+00:00"
+    },
+    "da44981bffee67bc": {
+      "title": "Paramount Stock Declines After Merger with Warner Discovery Closes",
+      "fetched_at": "2026-10-08T12:24:43.829189+00:00"
+    },
+    "2b7e4e165ac12746": {
+      "title": "Stanford scientists turn a cancer driver into a kill switch",
+      "fetched_at": "2026-10-08T12:24:44.410679+00:00"
+    },
+    "c946ed95772ed918": {
+      "title": "Jonathan the tortoise lived to 194 years old — now scientists think they know why",
+      "fetched_at": "2026-10-08T12:24:44.985998+00:00"
     }
   },
-  "last_updated": "2026-10-08T03:25:16.039478+00:00"
+  "last_updated": "2026-10-08T12:24:45.053314+00:00"
 }
