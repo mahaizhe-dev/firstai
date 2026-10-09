@@ -1,121 +1,5 @@
 {
   "articles": {
-    "3fe66bcfe4a48a8f": {
-      "title": "Ask HN: What landmarks/lighthouses in the era of LLM/AI?",
-      "fetched_at": "2026-10-01T11:59:35.498758+00:00"
-    },
-    "7fdec0c95fb7e493": {
-      "title": "Meta is going for Enterprise AI, are the AI labs becoming tech consulting firms?",
-      "fetched_at": "2026-10-01T11:59:36.115420+00:00"
-    },
-    "f401530c71508260": {
-      "title": "An AI \"mind-reading\" tool can reconstruct what you're looking at based on a bra",
-      "fetched_at": "2026-10-01T11:59:36.738138+00:00"
-    },
-    "08a61c30935411da": {
-      "title": "Show HN: An open-source LLM guardrail powered by Jev",
-      "fetched_at": "2026-10-01T11:59:37.398674+00:00"
-    },
-    "73fe053877b5d04e": {
-      "title": "'Things may get ugly': Meta's new AI Muse is about to make the net more annoying",
-      "fetched_at": "2026-10-01T11:59:38.027703+00:00"
-    },
-    "7ac0b2384d7842a7": {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "fetched_at": "2026-10-01T11:59:38.658769+00:00"
-    },
-    "1bc6cd632295be8b": {
-      "title": "Calls to take down AI torture chamber on GitHub",
-      "fetched_at": "2026-10-01T11:59:39.269873+00:00"
-    },
-    "43c77e501d5c5d95": {
-      "title": "Report of Summit on PhD Math Education in the Age of AI [pdf]",
-      "fetched_at": "2026-10-01T11:59:39.887088+00:00"
-    },
-    "c8f23cfda471a415": {
-      "title": "Why Agentic AI Governance Can't Be Bolted On",
-      "fetched_at": "2026-10-01T11:59:40.509193+00:00"
-    },
-    "f8759e4539eff600": {
-      "title": "Error-prone AI nearly sparked world war three [Timnit Gebru and Emily M Bender]",
-      "fetched_at": "2026-10-01T11:59:41.143928+00:00"
-    },
-    "54dfbfb723fef7ac": {
-      "title": "Searchlify – Search your Mac with local AI, privately",
-      "fetched_at": "2026-10-01T11:59:41.766925+00:00"
-    },
-    "c1b3aadadd85175b": {
-      "title": "An Interview with Bill Gates on AI",
-      "fetched_at": "2026-10-01T11:59:42.386997+00:00"
-    },
-    "0205d88c36a651e1": {
-      "title": "\"You're Not Crazy\": A Case of New-Onset AI-Associated Psychosis",
-      "fetched_at": "2026-10-01T11:59:43.007971+00:00"
-    },
-    "e7788af506a5466b": {
-      "title": "'Torturing' LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-      "fetched_at": "2026-10-01T11:59:43.632047+00:00"
-    },
-    "ceabcf613f6d7844": {
-      "title": "SpeakesQuery – Splunk-style search over local Parquet, with LLM pipes",
-      "fetched_at": "2026-10-01T11:59:44.252961+00:00"
-    },
-    "c731f07d6aeead87": {
-      "title": "US Government's new AI chatbot pulls back from debunking Trump",
-      "fetched_at": "2026-10-01T11:59:44.873178+00:00"
-    },
-    "7614ea1c40fb5f1e": {
-      "title": "AI Sovereign Stack: Rewriting the EU Tech Playbook",
-      "fetched_at": "2026-10-01T11:59:45.504159+00:00"
-    },
-    "645be4289c805b76": {
-      "title": "Capitalism Can't Handle AI",
-      "fetched_at": "2026-10-01T11:59:46.129273+00:00"
-    },
-    "1ae4bd8f28706031": {
-      "title": "How Zuckerberg shaped Trump’s AI industry pledge",
-      "fetched_at": "2026-10-01T11:59:46.754963+00:00"
-    },
-    "6e5350a66672b55c": {
-      "title": "Show HN: AI workspaces for teams with human-AI interfaces",
-      "fetched_at": "2026-10-01T11:59:47.384139+00:00"
-    },
-    "b5372aad43988acc": {
-      "title": "香港國安處以「23條」拘捕網媒記者，與8.31事件相關",
-      "fetched_at": "2026-10-01T11:59:50.394116+00:00"
-    },
-    "9db0d3daefd2ef85": {
-      "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
-      "fetched_at": "2026-10-01T11:59:51.010048+00:00"
-    },
-    "68d1116796073ba4": {
-      "title": "日本收緊外國人居留條件，申請費用上調二十倍",
-      "fetched_at": "2026-10-01T11:59:51.632051+00:00"
-    },
-    "1382b6c5aec822ca": {
-      "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
-      "fetched_at": "2026-10-01T11:59:52.261116+00:00"
-    },
-    "74baba4f377bfc78": {
-      "title": "FirstDate：新加坡用諾貝爾奬演算法，為公務員配對約會對象",
-      "fetched_at": "2026-10-01T11:59:52.882364+00:00"
-    },
-    "f2e92c549a234231": {
-      "title": "外星生命會讓我們生病嗎？太空微生物帶來哪些風險",
-      "fetched_at": "2026-10-01T11:59:53.494599+00:00"
-    },
-    "680d1de22377b556": {
-      "title": "專家評中國修《國防動員法》：吸俄烏教訓實現「平戰快速轉換」",
-      "fetched_at": "2026-10-01T11:59:54.117744+00:00"
-    },
-    "78af3392d6d5939c": {
-      "title": "CHIME telescope unlocks new way to study the universe's baffling expansion",
-      "fetched_at": "2026-10-01T11:59:56.581637+00:00"
-    },
-    "ce0ba15089511232": {
-      "title": "'There was something bigger in the ground here': Metal detectorist in Germany discovers giant Roman-era hoard from time of emperor Hadrian",
-      "fetched_at": "2026-10-01T11:59:57.247549+00:00"
-    },
     "54b3046b1c391503": {
       "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
       "fetched_at": "2026-10-01T18:07:27.371551+00:00"
@@ -2523,7 +2407,139 @@
     "80e33cfff7f2bedc": {
       "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
       "fetched_at": "2026-10-09T03:31:36.815466+00:00"
+    },
+    "e6637a63727e0bfb": {
+      "title": "How AI Is Upending the World of Mathematics",
+      "fetched_at": "2026-10-09T12:13:58.712763+00:00"
+    },
+    "6c9847b202debebd": {
+      "title": "Have your AI assistant book hotels",
+      "fetched_at": "2026-10-09T12:13:59.314495+00:00"
+    },
+    "11d2cb1a55c9c64c": {
+      "title": "AI leaders game out public revolt scenarios after catastrophic events",
+      "fetched_at": "2026-10-09T12:13:59.945372+00:00"
+    },
+    "b16574c5ae8f402e": {
+      "title": "Speakoflow – Free Voice Dictation and AI Assistant for Windows, macOS, and Linux",
+      "fetched_at": "2026-10-09T12:14:00.550106+00:00"
+    },
+    "57f145262a152442": {
+      "title": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+      "fetched_at": "2026-10-09T12:14:01.150270+00:00"
+    },
+    "282cded1c2251934": {
+      "title": "A US charity plans to use AI to monitor its Gaza schools",
+      "fetched_at": "2026-10-09T12:14:01.763613+00:00"
+    },
+    "8cadf17ab122f705": {
+      "title": "I Use AI to Learn Things [video]",
+      "fetched_at": "2026-10-09T12:14:02.372752+00:00"
+    },
+    "808544f1c792d4b5": {
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "fetched_at": "2026-10-09T12:14:03.064039+00:00"
+    },
+    "641f0c7cb21fb0e6": {
+      "title": "We're putting too much faith in AI's ability to say no",
+      "fetched_at": "2026-10-09T12:14:03.689563+00:00"
+    },
+    "845126323fe21057": {
+      "title": "AI Assistants Transform Nuclear Power Plant Work",
+      "fetched_at": "2026-10-09T12:14:04.306731+00:00"
+    },
+    "2f97d7b05b6c55fc": {
+      "title": "My Space Cadet Pinball Machine Is Starting to Look Real [video]",
+      "fetched_at": "2026-10-09T12:14:04.908650+00:00"
+    },
+    "703a661081813dce": {
+      "title": "Show HN: Spectra – A drop-in optimizer that cuts LLM training VRAM by 50%",
+      "fetched_at": "2026-10-09T12:14:05.527737+00:00"
+    },
+    "c8d8f721bcf616cc": {
+      "title": "Samsung expects 780% quarterly operating profit jump on AI boom",
+      "fetched_at": "2026-10-09T12:14:06.145707+00:00"
+    },
+    "5e460a05019115e0": {
+      "title": "Docsy for AI Agents, Oh, and People Too",
+      "fetched_at": "2026-10-09T12:14:06.850314+00:00"
+    },
+    "bd9fac84ab8383d7": {
+      "title": "Stop Looking for the Best Way to Retrieve Context for AI Agents. Build a Router",
+      "fetched_at": "2026-10-09T12:14:07.455563+00:00"
+    },
+    "99742acaecf2a703": {
+      "title": "The Programmer's Job in an AI World",
+      "fetched_at": "2026-10-09T12:14:08.088973+00:00"
+    },
+    "c83e960384cd66eb": {
+      "title": "本周看什么 | 最近值得一看的 11 部作品",
+      "fetched_at": "2026-10-09T12:14:08.691735+00:00"
+    },
+    "07d313d59972e676": {
+      "title": "He Built Free, Open-Source Versions of Photoshop, Premiere, Lightroom with AI",
+      "fetched_at": "2026-10-09T12:14:09.285985+00:00"
+    },
+    "20abc8f7733e3081": {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "fetched_at": "2026-10-09T12:14:09.931022+00:00"
+    },
+    "d21c36a08ec0f177": {
+      "title": "Show HN: Long term Memory and 50M token window for LLM",
+      "fetched_at": "2026-10-09T12:14:10.536121+00:00"
+    },
+    "a4a708787aad7a17": {
+      "title": "法國學生示威：憤怒背後隱藏著什麼？",
+      "fetched_at": "2026-10-09T12:14:13.239643+00:00"
+    },
+    "42ea7ee7af114ac3": {
+      "title": "扎克伯格有形象問題，為何Meta的業務卻蒸蒸日上？",
+      "fetched_at": "2026-10-09T12:14:13.929392+00:00"
+    },
+    "87dd85930560928b": {
+      "title": "AI无处不在：中国面临过度依赖人工智能的挑战",
+      "fetched_at": "2026-10-09T12:14:14.553951+00:00"
+    },
+    "a2a0b69817c65b2f": {
+      "title": "美國要網上直播軍法槍決胡德堡基地槍擊案兇手",
+      "fetched_at": "2026-10-09T12:14:15.156960+00:00"
+    },
+    "27425066f9343e18": {
+      "title": "美政府暂停微软等科技公司绿卡项目资格",
+      "fetched_at": "2026-10-09T12:14:15.899586+00:00"
+    },
+    "04fd0c5f2493684a": {
+      "title": "Bronze ring with Lighthouse of Alexandria engraving discovered at palace on submerged island in Egypt",
+      "fetched_at": "2026-10-09T12:14:18.186861+00:00"
+    },
+    "9a87f896d1fc2b17": {
+      "title": "South Korean 'robot dog' became first to run a marathon on a single battery charge — now we know how",
+      "fetched_at": "2026-10-09T12:14:18.808872+00:00"
+    },
+    "135fb0f3bc688d00": {
+      "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+      "fetched_at": "2026-10-09T12:14:19.425424+00:00"
+    },
+    "170ef5debb5a373b": {
+      "title": "Bacteria turn a virus’ own weapon against it",
+      "fetched_at": "2026-10-09T12:14:20.065203+00:00"
+    },
+    "6273b49c0756ebd9": {
+      "title": "A 9-billion-year-old signal could help explain dark energy",
+      "fetched_at": "2026-10-09T12:14:20.688874+00:00"
+    },
+    "7ef3c2824d3a6a4b": {
+      "title": "A quantum prediction from 1931 just came to life",
+      "fetched_at": "2026-10-09T12:14:21.295203+00:00"
+    },
+    "dc9d49ae9ea8cbb4": {
+      "title": "NASA astronauts splash down after 100 million miles in space",
+      "fetched_at": "2026-10-09T12:14:21.966337+00:00"
+    },
+    "855300d5fb3e545d": {
+      "title": "October’s night sky is full of cosmic tricks and treats",
+      "fetched_at": "2026-10-09T12:14:22.559750+00:00"
     }
   },
-  "last_updated": "2026-10-09T03:31:36.911455+00:00"
+  "last_updated": "2026-10-09T12:14:22.600794+00:00"
 }
