@@ -1,53 +1,5 @@
 {
   "articles": {
-    "db3387a843c69d4e": {
-      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-      "fetched_at": "2026-10-01T02:56:21.643839+00:00"
-    },
-    "c121c6fb0c6690c2": {
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "fetched_at": "2026-10-01T02:56:22.242291+00:00"
-    },
-    "0312509e99b0598c": {
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "fetched_at": "2026-10-01T02:56:22.852321+00:00"
-    },
-    "94bd9877f9937c94": {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "fetched_at": "2026-10-01T02:56:23.458593+00:00"
-    },
-    "e1e2a3c969700e32": {
-      "title": "The AI Tamagotchis are coming",
-      "fetched_at": "2026-10-01T02:56:24.077796+00:00"
-    },
-    "d9c7d4a39c2658ae": {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "fetched_at": "2026-10-01T02:56:24.684321+00:00"
-    },
-    "11e46134bbf81bf3": {
-      "title": "The ugly economics of consumer AI",
-      "fetched_at": "2026-10-01T02:56:25.283843+00:00"
-    },
-    "375908ae6e7d8294": {
-      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
-      "fetched_at": "2026-10-01T02:56:25.892730+00:00"
-    },
-    "1579d38e8f5a330f": {
-      "title": "感情走下坡還有救嗎？伴侶治療師談修復關係的要素",
-      "fetched_at": "2026-10-01T02:56:28.646894+00:00"
-    },
-    "b40759c0fdb43abd": {
-      "title": "鈉離子電池：「美國製造」能超越中國嗎？",
-      "fetched_at": "2026-10-01T02:56:29.331360+00:00"
-    },
-    "7c843482e1f34421": {
-      "title": "Fragment of world's oldest peace treaty unearthed in Turkey",
-      "fetched_at": "2026-10-01T02:56:31.676336+00:00"
-    },
-    "cc18f88d7d60bf39": {
-      "title": "Newfound 'fire amoeba from the Cascades' sets record for the hottest temperature complex life can survive at",
-      "fetched_at": "2026-10-01T02:56:32.273471+00:00"
-    },
     "3fe66bcfe4a48a8f": {
       "title": "Ask HN: What landmarks/lighthouses in the era of LLM/AI?",
       "fetched_at": "2026-10-01T11:59:35.498758+00:00"
@@ -2423,7 +2375,155 @@
     "cfda59340efcc2ab": {
       "title": "Einstein Probe reveals a hidden phase of neutron star collisions",
       "fetched_at": "2026-10-08T22:37:27.259928+00:00"
+    },
+    "7806be85e540f32f": {
+      "title": "AI Economist, an installable agent skill for macro nowcasting",
+      "fetched_at": "2026-10-09T03:30:36.122373+00:00"
+    },
+    "081f0ba49ed026ef": {
+      "title": "Robium – Physical AI harness for coding agents",
+      "fetched_at": "2026-10-09T03:30:36.739211+00:00"
+    },
+    "7339c061356c341e": {
+      "title": "A Family Video Game as a Hands-On Lesson in Creating with AI",
+      "fetched_at": "2026-10-09T03:30:37.365616+00:00"
+    },
+    "ada734885e5666cd": {
+      "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+      "fetched_at": "2026-10-09T03:30:38.006267+00:00"
+    },
+    "7f164223eeb72932": {
+      "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+      "fetched_at": "2026-10-09T03:30:38.647271+00:00"
+    },
+    "9db12b736ac9f7d2": {
+      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY\"; The White House uses it",
+      "fetched_at": "2026-10-09T03:30:39.341949+00:00"
+    },
+    "d9b9cd5c4d11cf46": {
+      "title": "How the bad science of AI doomerism is good for big business",
+      "fetched_at": "2026-10-09T03:30:39.961039+00:00"
+    },
+    "18ba495a6c2fd5b5": {
+      "title": "Gigabyte W775-V10-L01 GB300 AI-Workstation",
+      "fetched_at": "2026-10-09T03:30:40.688078+00:00"
+    },
+    "86a573d5a042185c": {
+      "title": "Bending the Curve of Discovery: AI in Science Today and Tomorrow",
+      "fetched_at": "2026-10-09T03:30:41.300684+00:00"
+    },
+    "90c215134f3a875b": {
+      "title": "Why AI hasn't fixed software delivery yet, and what will",
+      "fetched_at": "2026-10-09T03:30:41.929242+00:00"
+    },
+    "4a5329cae44609e9": {
+      "title": "Show HN: Nace.ai Document Intelligence 1.0",
+      "fetched_at": "2026-10-09T03:30:42.553075+00:00"
+    },
+    "996529b90de967e3": {
+      "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+      "fetched_at": "2026-10-09T03:30:43.174948+00:00"
+    },
+    "e80652487c6dcb4c": {
+      "title": "Using evals to cut AI errors 7x",
+      "fetched_at": "2026-10-09T03:30:43.816888+00:00"
+    },
+    "e4bf73388b40d57f": {
+      "title": "Scale AI cut 89 tasks from SWE-Bench Pro after an audit found gaming",
+      "fetched_at": "2026-10-09T03:30:44.438071+00:00"
+    },
+    "8496fc8163f01aee": {
+      "title": "Long-Term Memory for AI:50M-Token Window,Is Faster,Cheaper Than Recompute",
+      "fetched_at": "2026-10-09T03:30:45.063734+00:00"
+    },
+    "a7fb53512e9009c7": {
+      "title": "Visa Releases Its AI-Powered Cyber Defense System to Open Source",
+      "fetched_at": "2026-10-09T03:30:45.683582+00:00"
+    },
+    "b8cd8ed8948bf87d": {
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "fetched_at": "2026-10-09T03:30:46.311976+00:00"
+    },
+    "5616aba12c1efaa7": {
+      "title": "Parenting hits different when you work in AI: SF dad letting bot read to baby",
+      "fetched_at": "2026-10-09T03:30:46.941289+00:00"
+    },
+    "8792da646d91f6f8": {
+      "title": "New site for AI math problems",
+      "fetched_at": "2026-10-09T03:30:47.571374+00:00"
+    },
+    "8fc6f66cb13fe952": {
+      "title": "AI and the Death of the Author",
+      "fetched_at": "2026-10-09T03:30:48.230849+00:00"
+    },
+    "0f07860ef53d2290": {
+      "title": "战争造成燃油短缺，俄罗斯人开始拥抱中国电动汽车",
+      "fetched_at": "2026-10-09T03:30:51.953859+00:00"
+    },
+    "e5a2684286ae61cd": {
+      "title": "中国在老挝启用新空军基地，进一步向东南亚投射军力",
+      "fetched_at": "2026-10-09T03:30:52.579922+00:00"
+    },
+    "d6242c99b7722b45": {
+      "title": "为何俄罗斯鼠疫疑云引发全世界担忧",
+      "fetched_at": "2026-10-09T03:30:53.227108+00:00"
+    },
+    "b9489e376828b3fc": {
+      "title": "报告称黑客利用中美人工智能工具攻击韩国银行",
+      "fetched_at": "2026-10-09T03:30:53.845349+00:00"
+    },
+    "6401cdeb60cac682": {
+      "title": "老撾的班根軍用機場 中國能用來做甚麼？",
+      "fetched_at": "2026-10-09T03:30:54.473719+00:00"
+    },
+    "6aba878d78209e6a": {
+      "title": "「那揮之不去的恐懼」：「宿醉焦慮」真的存在嗎？",
+      "fetched_at": "2026-10-09T03:30:55.104169+00:00"
+    },
+    "ab2c5354256e5957": {
+      "title": "中国希望从国外招募人工智能科学家，这项努力并未奏效",
+      "fetched_at": "2026-10-09T03:30:55.739875+00:00"
+    },
+    "fb9c5507b992560e": {
+      "title": "台灣AV盛極而衰：中國市場如何催生這場成人片熱潮？",
+      "fetched_at": "2026-10-09T03:30:56.363254+00:00"
+    },
+    "0e6005991776e4e8": {
+      "title": "Show HN: App discovery platform helping users to find better apps",
+      "fetched_at": "2026-10-09T03:31:31.544071+00:00"
+    },
+    "e45ff35d76d66b2e": {
+      "title": "Building on our commitment to American scientific discovery",
+      "fetched_at": "2026-10-09T03:31:32.194251+00:00"
+    },
+    "4b9bc90b9f0d3eca": {
+      "title": "Archaeology megafirm abruptly shuts down",
+      "fetched_at": "2026-10-09T03:31:32.818814+00:00"
+    },
+    "e6d68837466748fc": {
+      "title": "Just 7 days of strength training started shrinking fat cells in mice",
+      "fetched_at": "2026-10-09T03:31:33.460227+00:00"
+    },
+    "dd1b6da80eddbd4a": {
+      "title": "Jonathan the tortoise has lived to 194 years old — now scientists think they know why",
+      "fetched_at": "2026-10-09T03:31:34.085981+00:00"
+    },
+    "831707d54ff0a93c": {
+      "title": "Cannabis users were twice as likely to commit violence, review finds",
+      "fetched_at": "2026-10-09T03:31:34.846944+00:00"
+    },
+    "9393526f728480a0": {
+      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
+      "fetched_at": "2026-10-09T03:31:35.485221+00:00"
+    },
+    "e6ad39ef1344b661": {
+      "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
+      "fetched_at": "2026-10-09T03:31:36.110542+00:00"
+    },
+    "80e33cfff7f2bedc": {
+      "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
+      "fetched_at": "2026-10-09T03:31:36.815466+00:00"
     }
   },
-  "last_updated": "2026-10-08T22:37:27.356762+00:00"
+  "last_updated": "2026-10-09T03:31:36.911455+00:00"
 }
