@@ -1,77 +1,5 @@
 {
   "articles": {
-    "de90110731a8d0c9": {
-      "title": "AI music maker Suno now generates spoken words",
-      "fetched_at": "2026-10-02T11:31:21.645970+00:00"
-    },
-    "c931d899d0f105e1": {
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "fetched_at": "2026-10-02T11:31:22.211428+00:00"
-    },
-    "9b0eaf9d6ec2b9c0": {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "fetched_at": "2026-10-02T11:31:22.779311+00:00"
-    },
-    "5b946f95fee1f90d": {
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "fetched_at": "2026-10-02T11:31:23.346252+00:00"
-    },
-    "0957727db53546ee": {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "fetched_at": "2026-10-02T11:31:23.914748+00:00"
-    },
-    "62bb98e86679f8fb": {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "fetched_at": "2026-10-02T11:31:24.533564+00:00"
-    },
-    "491081db9f9b0632": {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "fetched_at": "2026-10-02T11:31:25.092250+00:00"
-    },
-    "5cc82b948853ef65": {
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "fetched_at": "2026-10-02T11:31:25.657384+00:00"
-    },
-    "a76f78f8f2ddd926": {
-      "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
-      "fetched_at": "2026-10-02T11:31:28.268819+00:00"
-    },
-    "96e99e747e618b12": {
-      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
-      "fetched_at": "2026-10-02T11:31:28.918948+00:00"
-    },
-    "0cf1cc8134b32929": {
-      "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
-      "fetched_at": "2026-10-02T11:31:29.481119+00:00"
-    },
-    "f6b2d0ca32737e3b": {
-      "title": "「你有五年規劃，我有移民計劃」：香港年輕人為何焦慮？",
-      "fetched_at": "2026-10-02T11:31:30.046735+00:00"
-    },
-    "e7943f3bd68cbd64": {
-      "title": "The ancestors of today's Indigenous people arrived in the Americas during the coldest part of the last ice age, study suggests",
-      "fetched_at": "2026-10-02T11:31:37.791187+00:00"
-    },
-    "72f49add580fd826": {
-      "title": "'A kind of Rosetta Stone': AI decodes 217-year-old secret letter ordered by Napoleon",
-      "fetched_at": "2026-10-02T11:31:38.412638+00:00"
-    },
-    "c8abfe68554475c2": {
-      "title": "'It's a portrait of their actual ancestor': Facial reconstruction of Indigenous man who lived in Ecuador 3,000 years ago shared with his descendants",
-      "fetched_at": "2026-10-02T11:31:38.976520+00:00"
-    },
-    "9efa38f37b7ee1bf": {
-      "title": "Earth's first bats didn't come from where we thought, landmark genetic study reveals",
-      "fetched_at": "2026-10-02T11:31:39.551009+00:00"
-    },
-    "f47c2dd85918f7c2": {
-      "title": "Missing Celtic fort annihilated by Julius Caesar finally found under Paris hospital",
-      "fetched_at": "2026-10-02T11:31:40.117238+00:00"
-    },
-    "75d5169c0efb7a3e": {
-      "title": "Astronomers detected radio signals coming from an exoplanet for the first time. Spoiler alert: It's not aliens.",
-      "fetched_at": "2026-10-02T11:31:40.685104+00:00"
-    },
     "8251a43e6c8a7fda": {
       "title": "Musk's AI chatbot Grok encouraged Trump to capture Venezuela's president",
       "fetched_at": "2026-10-02T16:58:42.810028+00:00"
@@ -2527,7 +2455,107 @@
     "38febece6a246ad4": {
       "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
       "fetched_at": "2026-10-10T03:10:40.312814+00:00"
+    },
+    "5250ff001910822b": {
+      "title": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
+      "fetched_at": "2026-10-10T11:31:34.188673+00:00"
+    },
+    "7d54db2bfe0e3d30": {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "fetched_at": "2026-10-10T11:31:34.786417+00:00"
+    },
+    "756bbadb76eaf318": {
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "fetched_at": "2026-10-10T11:31:35.376336+00:00"
+    },
+    "d009ce6741f79da5": {
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "fetched_at": "2026-10-10T11:31:35.973302+00:00"
+    },
+    "b624a0af9158df53": {
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "fetched_at": "2026-10-10T11:31:36.571998+00:00"
+    },
+    "b9cce8ef3b2f9ed0": {
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "fetched_at": "2026-10-10T11:31:37.164675+00:00"
+    },
+    "d2c2f833edb06b5a": {
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "fetched_at": "2026-10-10T11:31:37.754940+00:00"
+    },
+    "174076b7571737bd": {
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "fetched_at": "2026-10-10T11:31:38.355691+00:00"
+    },
+    "39fcd2e480f01d19": {
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "fetched_at": "2026-10-10T11:31:38.968566+00:00"
+    },
+    "5324d6ae8cf0072f": {
+      "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+      "fetched_at": "2026-10-10T11:31:39.570921+00:00"
+    },
+    "ba91358a20be66b1": {
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "fetched_at": "2026-10-10T11:31:40.185379+00:00"
+    },
+    "cbf4dfa482f9b053": {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "fetched_at": "2026-10-10T11:31:40.789338+00:00"
+    },
+    "b7949b921a085b68": {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "fetched_at": "2026-10-10T11:31:41.390767+00:00"
+    },
+    "4a35a631eb3c2764": {
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "fetched_at": "2026-10-10T11:31:41.977907+00:00"
+    },
+    "2614f8c4c9c31669": {
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "fetched_at": "2026-10-10T11:31:42.593693+00:00"
+    },
+    "40ba8bc264064445": {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "fetched_at": "2026-10-10T11:31:43.200249+00:00"
+    },
+    "e25aa3fc66d0e52f": {
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "fetched_at": "2026-10-10T11:31:43.847404+00:00"
+    },
+    "2295074986adf904": {
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "fetched_at": "2026-10-10T11:31:44.459469+00:00"
+    },
+    "d61fae8239e1ee03": {
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "fetched_at": "2026-10-10T11:31:45.077295+00:00"
+    },
+    "45aa093f2ea1a311": {
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "fetched_at": "2026-10-10T11:31:45.677754+00:00"
+    },
+    "31783a4e915d6816": {
+      "title": "這位丈夫15年來潛水760次，就為了「靠近」海嘯失蹤的妻子",
+      "fetched_at": "2026-10-10T11:31:48.150691+00:00"
+    },
+    "8b993170f29ef06c": {
+      "title": "賴清德雙十講話：台灣強化防衛不是放棄對話",
+      "fetched_at": "2026-10-10T11:31:48.756518+00:00"
+    },
+    "ceb985a37c213911": {
+      "title": "草原上的數據中心：中國AI雄心背後的算力前線",
+      "fetched_at": "2026-10-10T11:31:49.389707+00:00"
+    },
+    "c2aa050a2f72825b": {
+      "title": "Photojournalist Steve Winter on his iconic Hollywood puma image, the illegal tiger trade and having a black panther knock on his door",
+      "fetched_at": "2026-10-10T11:31:52.651644+00:00"
+    },
+    "75466a69cfd0a488": {
+      "title": "Does written language speed up or slow down cultural change?",
+      "fetched_at": "2026-10-10T11:31:53.237963+00:00"
     }
   },
-  "last_updated": "2026-10-10T03:10:40.365432+00:00"
+  "last_updated": "2026-10-10T11:31:53.334696+00:00"
 }
