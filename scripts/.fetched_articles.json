@@ -1,117 +1,5 @@
 {
   "articles": {
-    "8251a43e6c8a7fda": {
-      "title": "Musk's AI chatbot Grok encouraged Trump to capture Venezuela's president",
-      "fetched_at": "2026-10-02T16:58:42.810028+00:00"
-    },
-    "99a183c709f72814": {
-      "title": "Show HN: GPT-6 Astra and Claude 5.5 Opus race to create the best StarCraft bot",
-      "fetched_at": "2026-10-02T16:58:43.421041+00:00"
-    },
-    "0b1a3c70667ddb20": {
-      "title": "Show HN: One line so LLM workers share a 429 wait and keep jobs an outage stops",
-      "fetched_at": "2026-10-02T16:58:44.025535+00:00"
-    },
-    "3786380fb092f9b4": {
-      "title": "AI data centers: How much are ratepayers on the hook for?",
-      "fetched_at": "2026-10-02T16:58:44.641042+00:00"
-    },
-    "c4bf6eb2436ae37c": {
-      "title": "Show HN: Client rooms where calls and AI agents suggest edits, people approve",
-      "fetched_at": "2026-10-02T16:58:45.254091+00:00"
-    },
-    "51c10a18ad01b296": {
-      "title": "Toward a future space-based, highly scalable AI infrastructure system design",
-      "fetched_at": "2026-10-02T16:58:45.881754+00:00"
-    },
-    "c16604fb3cbf3a67": {
-      "title": "Show HN: Taskrouter – One API Learning to Choose Models per AI Task",
-      "fetched_at": "2026-10-02T16:58:46.569276+00:00"
-    },
-    "66bbb207fcac2183": {
-      "title": "How to Use AI to Write Good Code (Slowly)",
-      "fetched_at": "2026-10-02T16:58:47.178877+00:00"
-    },
-    "cb3a610b187b8275": {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "fetched_at": "2026-10-02T16:58:47.817960+00:00"
-    },
-    "105c81fd33bdfe89": {
-      "title": "AI Productivity Paradox",
-      "fetched_at": "2026-10-02T16:58:48.463187+00:00"
-    },
-    "e8669cdc3288d9d4": {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "fetched_at": "2026-10-02T16:58:49.071751+00:00"
-    },
-    "6a77bc2bde7fc239": {
-      "title": "Show HN: Outis – Fight AI spam by sending fake \"user unknown\" bounce emails",
-      "fetched_at": "2026-10-02T16:58:49.686892+00:00"
-    },
-    "6dd717689e873425": {
-      "title": "OpenAI's wandering AI agents earn it a California subpoena",
-      "fetched_at": "2026-10-02T16:58:50.298787+00:00"
-    },
-    "82a48ad3441f2b7d": {
-      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-      "fetched_at": "2026-10-02T16:58:50.905947+00:00"
-    },
-    "cb5dfc256d371b3c": {
-      "title": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
-      "fetched_at": "2026-10-02T16:58:51.518602+00:00"
-    },
-    "a86e9cdc1c1f810e": {
-      "title": "Mozilla shutting down Solo AI website creator",
-      "fetched_at": "2026-10-02T16:58:52.134075+00:00"
-    },
-    "fbb228987153361d": {
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
-      "fetched_at": "2026-10-02T16:58:52.747350+00:00"
-    },
-    "13692c8cb25ca248": {
-      "title": "Ask HN: Why do all LLM interfaces look the same?",
-      "fetched_at": "2026-10-02T16:58:53.351451+00:00"
-    },
-    "d3878740bd84c907": {
-      "title": "A functional taxonomy for LLM inference in agentic tasks",
-      "fetched_at": "2026-10-02T16:58:53.963942+00:00"
-    },
-    "4a7e6566dd99d75f": {
-      "title": "AI Makes Me Sad",
-      "fetched_at": "2026-10-02T16:58:54.850283+00:00"
-    },
-    "a03b15bc6534dee9": {
-      "title": "習近平訪美晤特朗普：中美競賽誰領先？美國民眾怎麼看",
-      "fetched_at": "2026-10-02T16:58:57.766681+00:00"
-    },
-    "68e05072a5eb7b79": {
-      "title": "How prepared are you for a disaster?",
-      "fetched_at": "2026-10-02T16:59:01.575012+00:00"
-    },
-    "88c003c91d6b480b": {
-      "title": "Discovery of a star sensitive to the spin of Sagittarius A*",
-      "fetched_at": "2026-10-02T16:59:02.187641+00:00"
-    },
-    "fcaa506dcad8c622": {
-      "title": "Limited Liability In Historical Perspective (1997) [pdf]",
-      "fetched_at": "2026-10-02T16:59:02.799782+00:00"
-    },
-    "c6d72733893ff501": {
-      "title": "Remarkably preserved feathered dinosaur discovered in China reveals new secrets of flying-predator evolution",
-      "fetched_at": "2026-10-02T16:59:02.799915+00:00"
-    },
-    "3ccf4e3fd2a99055": {
-      "title": "Could Comet 3I/ATLAS teach us about life beyond Earth? Scientists say the story's not over yet.",
-      "fetched_at": "2026-10-02T16:59:03.424553+00:00"
-    },
-    "29ec7f40e6203b4f": {
-      "title": "Japan switches on its first full-stack room-temperature quantum computer — and scientists plan to scale it up to 10,000 qubits",
-      "fetched_at": "2026-10-02T16:59:04.038858+00:00"
-    },
-    "437f814259ee0339": {
-      "title": "Hurricane Polo exploded in intensity in just 24 hours. Is the 'super' El Niño to blame?",
-      "fetched_at": "2026-10-02T16:59:04.651303+00:00"
-    },
     "7acba2d5f296235c": {
       "title": "Sean Parker is rebuilding Stability AI around music",
       "fetched_at": "2026-10-02T21:32:28.148634+00:00"
@@ -2591,7 +2479,119 @@
     "f6b2d0ca32737e3b": {
       "title": "「你有五年規劃，我有移民計劃」：香港年輕人為何焦慮？",
       "fetched_at": "2026-10-10T16:31:50.488455+00:00"
+    },
+    "f5fe73a95c33cc03": {
+      "title": "Show HN: Tutor, a self-hosted LLM tutor that teaches you your books or docs",
+      "fetched_at": "2026-10-10T20:49:50.005113+00:00"
+    },
+    "f197ae28603df7b9": {
+      "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
+      "fetched_at": "2026-10-10T20:49:50.626107+00:00"
+    },
+    "7c22c550ff8f1801": {
+      "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
+      "fetched_at": "2026-10-10T20:49:51.252439+00:00"
+    },
+    "d4b2b0edf075e4d7": {
+      "title": "Try On-Device AI with FM",
+      "fetched_at": "2026-10-10T20:49:51.870498+00:00"
+    },
+    "4b50fba40de58449": {
+      "title": "Is AI conscious? Anthropic says 'maybe'",
+      "fetched_at": "2026-10-10T20:49:52.479294+00:00"
+    },
+    "3222ca4a55c4d224": {
+      "title": "The state of AI-assisted reverse-engineering of Apple Macs",
+      "fetched_at": "2026-10-10T20:49:53.098692+00:00"
+    },
+    "e3f6821bb6871aaa": {
+      "title": "Integrated Circuits, AI, and Wallabies",
+      "fetched_at": "2026-10-10T20:49:53.728787+00:00"
+    },
+    "c9e895a5236fb0da": {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "fetched_at": "2026-10-10T20:49:54.466359+00:00"
+    },
+    "84dea87029db2323": {
+      "title": "Ask HN: What's your plan if AI takes your job?",
+      "fetched_at": "2026-10-10T20:49:55.088278+00:00"
+    },
+    "fe3e1bd364d4e9ce": {
+      "title": "I don't trust Lean code from AI",
+      "fetched_at": "2026-10-10T20:49:55.713582+00:00"
+    },
+    "fbc44c669851b43c": {
+      "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+      "fetched_at": "2026-10-10T20:49:56.335519+00:00"
+    },
+    "bd3dc643bc961488": {
+      "title": "Google AI Edge Foresight – meeting notetaker on-device",
+      "fetched_at": "2026-10-10T20:49:56.954606+00:00"
+    },
+    "951bc5e133b7a616": {
+      "title": "AI and Bottlenecks in Software Production [pdf]",
+      "fetched_at": "2026-10-10T20:49:57.577815+00:00"
+    },
+    "7ea9168d3d59638c": {
+      "title": "Is AI Killing the Value of Human Writing?",
+      "fetched_at": "2026-10-10T20:49:58.201652+00:00"
+    },
+    "678872f0f49cc589": {
+      "title": "Ask HN: Why did Microsoft invest in AI that could rewrite its apps from scratch?",
+      "fetched_at": "2026-10-10T20:49:58.914138+00:00"
+    },
+    "ea64805389f4440f": {
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "fetched_at": "2026-10-10T20:49:59.581442+00:00"
+    },
+    "1a2f127ed05db0c8": {
+      "title": "Phonebox – Cloud Android phones for AI agents",
+      "fetched_at": "2026-10-10T20:50:00.202254+00:00"
+    },
+    "dbcd989e897e0ab2": {
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "fetched_at": "2026-10-10T20:50:00.820345+00:00"
+    },
+    "b210c2f53d3dd9d7": {
+      "title": "Nvidia in talks to acquire Reflection AI (makers of Beam)",
+      "fetched_at": "2026-10-10T20:50:01.431448+00:00"
+    },
+    "0ebc02aa6f539423": {
+      "title": "Show HN: Flopper is a hardware explorer for AI infrastructure and beyond",
+      "fetched_at": "2026-10-10T20:50:02.043434+00:00"
+    },
+    "e78407808bf95b0c": {
+      "title": "Scientists Detect Record-Breaking Radio Signal from the Ancient Universe",
+      "fetched_at": "2026-10-10T20:50:09.183487+00:00"
+    },
+    "8157b4b0038dccae": {
+      "title": "Scientists may have found a shortcut to fusion energy",
+      "fetched_at": "2026-10-10T20:50:09.803818+00:00"
+    },
+    "42c0bf1aa99a5563": {
+      "title": "Loneliness may steal nearly 6 years of good health",
+      "fetched_at": "2026-10-10T20:50:10.417544+00:00"
+    },
+    "695e07c1136538a4": {
+      "title": "MIT astronomers catch a star in a feast that could last billions of years",
+      "fetched_at": "2026-10-10T20:50:11.135174+00:00"
+    },
+    "26f47176798f390a": {
+      "title": "A famous quantum effect can finally be predicted in real materials",
+      "fetched_at": "2026-10-10T20:50:11.740118+00:00"
+    },
+    "1bbc8dfad78070c7": {
+      "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
+      "fetched_at": "2026-10-10T20:50:12.353954+00:00"
+    },
+    "0c6382119cb7821a": {
+      "title": "Applying NASA's satellite-imaging trick to ancient museum objects",
+      "fetched_at": "2026-10-10T20:50:13.111689+00:00"
+    },
+    "f6cef97de9b1c64c": {
+      "title": "Hubble Space Telescope may have found a planet born after its star died",
+      "fetched_at": "2026-10-10T20:50:13.735130+00:00"
     }
   },
-  "last_updated": "2026-10-10T16:31:51.608432+00:00"
+  "last_updated": "2026-10-10T20:50:13.828698+00:00"
 }
