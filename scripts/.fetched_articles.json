@@ -1,129 +1,5 @@
 {
   "articles": {
-    "26ef57fbbe5a1814": {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "fetched_at": "2026-10-02T02:58:41.910316+00:00"
-    },
-    "9bdadee159922876": {
-      "title": "Autonomous AI Agent Security Incidents of 2026: Dataset and Monograph",
-      "fetched_at": "2026-10-02T02:58:42.522361+00:00"
-    },
-    "e1e77c8e1bc8a05d": {
-      "title": "Agent-harness – A minimal, composable Go library to build AI Agent Harnesses",
-      "fetched_at": "2026-10-02T02:58:43.135110+00:00"
-    },
-    "cbfe64fef4afb5e4": {
-      "title": "Canadian-German AI lab eyes building sovereign AI for Europe",
-      "fetched_at": "2026-10-02T02:58:43.746254+00:00"
-    },
-    "92ac9b3a8e4ed8cf": {
-      "title": "Better Call GPT – Plugin for Talking to Claude Code in Live",
-      "fetched_at": "2026-10-02T02:58:44.370304+00:00"
-    },
-    "e81c0a0ff81fe2df": {
-      "title": "Braxis: Auto-generate and track AI agent readiness (0-100 score and history)",
-      "fetched_at": "2026-10-02T02:58:45.016803+00:00"
-    },
-    "43ceb94c84485dc9": {
-      "title": "The AI industry is a complete mess [video]",
-      "fetched_at": "2026-10-02T02:58:45.640313+00:00"
-    },
-    "288982d467bbf8a1": {
-      "title": "At Work, AI Is Mandatory. After Work, It's Forbidden",
-      "fetched_at": "2026-10-02T02:58:46.301947+00:00"
-    },
-    "a64e5e2f4b35f746": {
-      "title": "Pentagon Creates 'Autowarcom' to Expand AI and Drone Capabilities",
-      "fetched_at": "2026-10-02T02:58:46.922586+00:00"
-    },
-    "2a69bff50a5bde6a": {
-      "title": "Best-of-Agent-Harnesses – Ranked list of 167 AI agent harnesses, rescored weekly",
-      "fetched_at": "2026-10-02T02:58:47.538109+00:00"
-    },
-    "4f81e576a890ec16": {
-      "title": "Someone Torturing LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI",
-      "fetched_at": "2026-10-02T02:58:48.208679+00:00"
-    },
-    "9d42114a65716984": {
-      "title": "AI decompiling and combining Games: The Skate 3 in MW2 Mod is Unbelievable [video]",
-      "fetched_at": "2026-10-02T02:58:48.832001+00:00"
-    },
-    "fe2e57dacb1d2b44": {
-      "title": "Forget 'superintelligence': error-prone AI nearly sparked world war three",
-      "fetched_at": "2026-10-02T02:58:49.448759+00:00"
-    },
-    "c58960960c7f5dca": {
-      "title": "Our AI Midwife",
-      "fetched_at": "2026-10-02T02:58:50.061685+00:00"
-    },
-    "103957e86f2a8def": {
-      "title": "AI Benchmark Scores: Why 82% is actually 57%",
-      "fetched_at": "2026-10-02T02:58:50.677753+00:00"
-    },
-    "11b99cdaf632e1d0": {
-      "title": "Senate holds a hearing on AI [video]",
-      "fetched_at": "2026-10-02T02:58:51.291981+00:00"
-    },
-    "5dd7289bdf147ab5": {
-      "title": "Superhuman AI for Stratego",
-      "fetched_at": "2026-10-02T02:58:51.920851+00:00"
-    },
-    "fa1ae1b4887545ac": {
-      "title": "Where Are the Prepared Minds? The Impact of AI on Scientific Thinking",
-      "fetched_at": "2026-10-02T02:58:52.538520+00:00"
-    },
-    "995dc1fb3b61d40b": {
-      "title": "Show HN: Soothsay - Your AI types curl | sh. soothsay checks the script first",
-      "fetched_at": "2026-10-02T02:58:53.161464+00:00"
-    },
-    "c1ae2a02eab8777f": {
-      "title": "Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing",
-      "fetched_at": "2026-10-02T02:58:53.787426+00:00"
-    },
-    "b4dfbf5d9f6dbb5e": {
-      "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
-      "fetched_at": "2026-10-02T02:58:56.200042+00:00"
-    },
-    "cf309481d6388dae": {
-      "title": "「我喜歡證明別人錯了」：這些女性拿起工具，自己做裝修和水喉工程",
-      "fetched_at": "2026-10-02T02:58:56.809264+00:00"
-    },
-    "ceb985a37c213911": {
-      "title": "草原上的數據中心：中國AI雄心背後的算力前線",
-      "fetched_at": "2026-10-02T02:58:57.422174+00:00"
-    },
-    "96376ef20d0d142c": {
-      "title": "Your voice may reveal how fast you're aging, new AI 'speech clock' suggests",
-      "fetched_at": "2026-10-02T02:59:06.434447+00:00"
-    },
-    "a8e708f8e41cd06f": {
-      "title": "This common mistake can add nearly 7 points to your blood pressure reading",
-      "fetched_at": "2026-10-02T02:59:07.050660+00:00"
-    },
-    "e2f8ebc462498ef1": {
-      "title": "Medieval Grave of Woman and Child Uncovered in Italy",
-      "fetched_at": "2026-10-02T02:59:07.700777+00:00"
-    },
-    "c8b1b355ced1d07e": {
-      "title": "'It has become very dire in a lot of places': New map reveals exactly where humans are adding and removing precious fresh water on Earth",
-      "fetched_at": "2026-10-02T02:59:08.318347+00:00"
-    },
-    "d975966317fb2510": {
-      "title": "Google DeepMind's latest AI tool promises a new era for genetics research, but experts warn to take its predictions with caution",
-      "fetched_at": "2026-10-02T02:59:08.952071+00:00"
-    },
-    "c1a1ab43351f1c1f": {
-      "title": "3,000-year-old burial of ancient Egyptian horse found — and a nearby stone carving depicts a captured prisoner",
-      "fetched_at": "2026-10-02T02:59:09.562626+00:00"
-    },
-    "948cda3fd0aceaee": {
-      "title": "Earth's crust is 'unzipping' beneath Italy — and that could explain most of the earthquakes in the region",
-      "fetched_at": "2026-10-02T02:59:10.178309+00:00"
-    },
-    "be670d3a4a129c6e": {
-      "title": "Curiosity's top 10 photos of Mars after 5,000 days of exploration",
-      "fetched_at": "2026-10-02T02:59:10.851445+00:00"
-    },
     "de90110731a8d0c9": {
       "title": "AI music maker Suno now generates spoken words",
       "fetched_at": "2026-10-02T11:31:21.645970+00:00"
@@ -2555,7 +2431,103 @@
     "87f19b3e866ea9c1": {
       "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
       "fetched_at": "2026-10-09T21:58:38.132904+00:00"
+    },
+    "01c44c0ecec14323": {
+      "title": "Antigravity Excel Engine – Dual-Core Excel Automation for AI Agents",
+      "fetched_at": "2026-10-10T03:10:24.466344+00:00"
+    },
+    "a9042e42737b6b6a": {
+      "title": "Trump Calls on AI to Speed Up Science–While Continuing to Defund It",
+      "fetched_at": "2026-10-10T03:10:25.052869+00:00"
+    },
+    "d6a6fc9906c96abb": {
+      "title": "Show HN: Spin Cycle – Tetris in a Washing Machine",
+      "fetched_at": "2026-10-10T03:10:25.632452+00:00"
+    },
+    "4c4f84d0718c32b5": {
+      "title": "Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip",
+      "fetched_at": "2026-10-10T03:10:26.233300+00:00"
+    },
+    "53e10856a7224b4b": {
+      "title": "How to connect any AI assistant to governed enterprise data with MCP",
+      "fetched_at": "2026-10-10T03:10:26.804696+00:00"
+    },
+    "9acc1e19553702a2": {
+      "title": "The Palantir Growth Machine: Visualized [video]",
+      "fetched_at": "2026-10-10T03:10:27.392245+00:00"
+    },
+    "e33792a623979f71": {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "fetched_at": "2026-10-10T03:10:28.002150+00:00"
+    },
+    "7adfc43a8c70371b": {
+      "title": "Brockovich AI Datacenter Reporting: AI Data Centers Across the United States",
+      "fetched_at": "2026-10-10T03:10:28.608859+00:00"
+    },
+    "6a645b49c18bd688": {
+      "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "fetched_at": "2026-10-10T03:10:28.608965+00:00"
+    },
+    "2a57f17cd8afda0c": {
+      "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
+      "fetched_at": "2026-10-10T03:10:29.203390+00:00"
+    },
+    "71dde5a2b2531e44": {
+      "title": "AI system submits false homicide tip to Philadelphia police",
+      "fetched_at": "2026-10-10T03:10:29.779062+00:00"
+    },
+    "f91543e73310be8a": {
+      "title": "Local LLM Inference at Scale with vLLM",
+      "fetched_at": "2026-10-10T03:10:30.378963+00:00"
+    },
+    "de91f04b660fa4a3": {
+      "title": "Boro: Nvidia's Open-Source Effort for AI-Assisted Linux Kernel Development",
+      "fetched_at": "2026-10-10T03:10:31.010268+00:00"
+    },
+    "381d5048ff429226": {
+      "title": "AI Could Allow for 3-Day Workweeks and Single-Income Households",
+      "fetched_at": "2026-10-10T03:10:31.592493+00:00"
+    },
+    "086d1b9867f700aa": {
+      "title": "Show HN: See How Your Competitors Get Customers with AI",
+      "fetched_at": "2026-10-10T03:10:32.184816+00:00"
+    },
+    "188e9714d248a648": {
+      "title": "Where're All the AI Chips?",
+      "fetched_at": "2026-10-10T03:10:32.791599+00:00"
+    },
+    "c5c4e21597086e51": {
+      "title": "Japan urges firms to boost cybersecurity as AI-driven cyberattacks surge",
+      "fetched_at": "2026-10-10T03:10:33.369531+00:00"
+    },
+    "a565e81e210fd812": {
+      "title": "Can AI automate AI R&D yet?",
+      "fetched_at": "2026-10-10T03:10:33.974647+00:00"
+    },
+    "fa63e5afba392d90": {
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "fetched_at": "2026-10-10T03:10:34.598003+00:00"
+    },
+    "cebc9b26c0110424": {
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "fetched_at": "2026-10-10T03:10:35.197011+00:00"
+    },
+    "795e42b00a527419": {
+      "title": "This giant stick insect fooled scientists for decades",
+      "fetched_at": "2026-10-10T03:10:38.501830+00:00"
+    },
+    "b9438d156d59e103": {
+      "title": "This diet may slow brain aging by 2.5 years",
+      "fetched_at": "2026-10-10T03:10:39.142950+00:00"
+    },
+    "5e8f8bb409613cb7": {
+      "title": "Could quitting ultra-processed food boost your mental health?",
+      "fetched_at": "2026-10-10T03:10:39.733432+00:00"
+    },
+    "38febece6a246ad4": {
+      "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
+      "fetched_at": "2026-10-10T03:10:40.312814+00:00"
     }
   },
-  "last_updated": "2026-10-09T21:58:38.202200+00:00"
+  "last_updated": "2026-10-10T03:10:40.365432+00:00"
 }
