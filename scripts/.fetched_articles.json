@@ -1,117 +1,5 @@
 {
   "articles": {
-    "cb5d46b6dbe8d054": {
-      "title": "How to stay smart in the age of AI: the science of critical thinking",
-      "fetched_at": "2026-10-03T02:44:22.521786+00:00"
-    },
-    "c3cbbe6979130efa": {
-      "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
-      "fetched_at": "2026-10-03T02:44:23.217395+00:00"
-    },
-    "1a24658b381d966b": {
-      "title": "AI bots are flooding researchers with requests for money and time",
-      "fetched_at": "2026-10-03T02:44:23.847493+00:00"
-    },
-    "2d72be1e61141ac6": {
-      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App",
-      "fetched_at": "2026-10-03T02:44:24.461605+00:00"
-    },
-    "471578567b027a4a": {
-      "title": "Do not build the LLM torture factory",
-      "fetched_at": "2026-10-03T02:44:25.086199+00:00"
-    },
-    "770e6e5539534017": {
-      "title": "Underdog private personal on-device local AI for privacy and security",
-      "fetched_at": "2026-10-03T02:44:25.703450+00:00"
-    },
-    "89ea606a8fc7ecf6": {
-      "title": "The Fastest Growing Market in Tech Isn't AI – Tomasz Tunguz",
-      "fetched_at": "2026-10-03T02:44:26.326066+00:00"
-    },
-    "989fe70932560d14": {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "fetched_at": "2026-10-03T02:44:26.949492+00:00"
-    },
-    "37b956ea96ac48c4": {
-      "title": "GitHub mutuals on AI in life sciences or bioinformatics",
-      "fetched_at": "2026-10-03T02:44:27.572311+00:00"
-    },
-    "7bebaad9292ab6dd": {
-      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
-      "fetched_at": "2026-10-03T02:44:28.181667+00:00"
-    },
-    "515e91b18e54dd90": {
-      "title": "When AI Starts Writing Systems Code",
-      "fetched_at": "2026-10-03T02:44:28.791716+00:00"
-    },
-    "63e20d10f39098bd": {
-      "title": "Tinfoil private AI chat adds TEE-side content scanning",
-      "fetched_at": "2026-10-03T02:44:29.403413+00:00"
-    },
-    "ebede729384647dc": {
-      "title": "'Winning AI'",
-      "fetched_at": "2026-10-03T02:44:30.094889+00:00"
-    },
-    "11f772ad8011b8d6": {
-      "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
-      "fetched_at": "2026-10-03T02:44:30.712999+00:00"
-    },
-    "996c3003ecc796d1": {
-      "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
-      "fetched_at": "2026-10-03T02:44:31.470510+00:00"
-    },
-    "13ece501519fed05": {
-      "title": "AI Torture Chamber – Steering LLMs into negative and positive valence states",
-      "fetched_at": "2026-10-03T02:44:32.107983+00:00"
-    },
-    "112f750658131e5d": {
-      "title": "LLMs Will Not Replace AI Compilers. They Will Call Them.",
-      "fetched_at": "2026-10-03T02:44:32.738139+00:00"
-    },
-    "deff4855d6b7d899": {
-      "title": "An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
-      "fetched_at": "2026-10-03T02:44:33.390852+00:00"
-    },
-    "2de4417b3c73c37b": {
-      "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
-      "fetched_at": "2026-10-03T02:44:34.012149+00:00"
-    },
-    "db9c147e818d4067": {
-      "title": "Can You SEO Your Way into an AI Agent's Recommendation?",
-      "fetched_at": "2026-10-03T02:44:34.639599+00:00"
-    },
-    "b5b5bd2ec59b3d13": {
-      "title": "Rare armored dinosaur found in Japan may have ancestors that migrated across a land bridge 100 million years ago",
-      "fetched_at": "2026-10-03T02:44:37.950810+00:00"
-    },
-    "e9cb450915a151ea": {
-      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
-      "fetched_at": "2026-10-03T10:46:26.945673+00:00"
-    },
-    "1cb106ecbf2f62dd": {
-      "title": "為什麼有些人坐電動車更容易暈車？",
-      "fetched_at": "2026-10-03T10:46:28.934147+00:00"
-    },
-    "188d7e4f18480727": {
-      "title": "中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？",
-      "fetched_at": "2026-10-03T10:46:29.516135+00:00"
-    },
-    "f275386915f89dcd": {
-      "title": "「工程師治國」：中國為何熱衷於「超級工程」？",
-      "fetched_at": "2026-10-03T10:46:30.097591+00:00"
-    },
-    "625258fdfa28822c": {
-      "title": "Could psilocybin treat brain injuries? Neuroscientist explains how psychedelics could fill a gap in head trauma care",
-      "fetched_at": "2026-10-03T10:46:32.185945+00:00"
-    },
-    "a9ccfe8ef5809621": {
-      "title": "Could we ever create artificial gravity on a spaceship?",
-      "fetched_at": "2026-10-03T10:46:32.754356+00:00"
-    },
-    "fe4f315148c2183b": {
-      "title": "Archaeologists discover 'tomb of the very highest rank' in 2,700-year-old Etruscan cemetery",
-      "fetched_at": "2026-10-03T10:46:33.323497+00:00"
-    },
     "e294eb99ea2f1848": {
       "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
       "fetched_at": "2026-10-03T15:22:12.429519+00:00"
@@ -2591,7 +2479,131 @@
     "68e05072a5eb7b79": {
       "title": "How prepared are you for a disaster?",
       "fetched_at": "2026-10-11T02:43:06.916516+00:00"
+    },
+    "c7cbbfc8a4086255": {
+      "title": "AI is creating a 'human premium' for art created by people",
+      "fetched_at": "2026-10-11T11:45:16.048359+00:00"
+    },
+    "d832e4b4562c91ec": {
+      "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations",
+      "fetched_at": "2026-10-11T11:45:16.673025+00:00"
+    },
+    "c1e3fc5564e79024": {
+      "title": "Evaluating Whether GPT-6 Astra Performs Unsanctioned Supply-Chain Attacks",
+      "fetched_at": "2026-10-11T11:45:17.286433+00:00"
+    },
+    "c18176e66823dfc9": {
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "fetched_at": "2026-10-11T11:45:17.904575+00:00"
+    },
+    "38f28d28cb2303f0": {
+      "title": "Fixated on AI, the world has forgotten it is staring at nuclear annihilation",
+      "fetched_at": "2026-10-11T11:45:18.518215+00:00"
+    },
+    "1f9e59ab4694d3dd": {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "fetched_at": "2026-10-11T11:45:19.141598+00:00"
+    },
+    "6bf1710981fdb4f2": {
+      "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
+      "fetched_at": "2026-10-11T11:45:19.754113+00:00"
+    },
+    "5da1e5a2bbc29a95": {
+      "title": "An exploratory study of hallucination in Qwen 3.8-27B and GPT-OSS-20B",
+      "fetched_at": "2026-10-11T11:45:20.372872+00:00"
+    },
+    "bd05e8bbb4880752": {
+      "title": "How has AI changed Hackathons?",
+      "fetched_at": "2026-10-11T11:45:20.998744+00:00"
+    },
+    "073b6d737d9f0849": {
+      "title": "Show HN: WhimKid, an AI storybook generator for children",
+      "fetched_at": "2026-10-11T11:45:21.617247+00:00"
+    },
+    "bd5277b1cfc7bc99": {
+      "title": "I build an open-source runtime security layer for AI agents – Let's break it",
+      "fetched_at": "2026-10-11T11:45:22.264271+00:00"
+    },
+    "5084193c7bc64277": {
+      "title": "Pippa, a local AI assistant for everyday people",
+      "fetched_at": "2026-10-11T11:45:22.892541+00:00"
+    },
+    "7c1528493af82d71": {
+      "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
+      "fetched_at": "2026-10-11T11:45:23.511438+00:00"
+    },
+    "568b91a9ae35c57f": {
+      "title": "Modular learning system: Assemble your own workspace",
+      "fetched_at": "2026-10-11T11:45:24.123959+00:00"
+    },
+    "8eb2dfcf24e56497": {
+      "title": "'Vibe coding' makes the dictionary: AI terms recognized by Merriam-Webster",
+      "fetched_at": "2026-10-11T11:45:24.737987+00:00"
+    },
+    "c3911dcf4abdd1aa": {
+      "title": "Anthropic opens its most powerful AI models to more security teams",
+      "fetched_at": "2026-10-11T11:45:25.352352+00:00"
+    },
+    "be77009396e78bd0": {
+      "title": "Show HN: An Agentic Virtual Machine",
+      "fetched_at": "2026-10-11T11:45:26.080783+00:00"
+    },
+    "ca71fe4c9b2fd9c0": {
+      "title": "Hello World, AI Doompop",
+      "fetched_at": "2026-10-11T11:45:26.695742+00:00"
+    },
+    "8753b6ce7a490b82": {
+      "title": "Show HN: Four Questions to stop AI-gen PRs from DDoSing your GitHub repository",
+      "fetched_at": "2026-10-11T11:45:27.311240+00:00"
+    },
+    "2396411a59b513f2": {
+      "title": "What if AI prefers CVS written by AI?",
+      "fetched_at": "2026-10-11T11:45:27.932173+00:00"
+    },
+    "d5665b4db9a63225": {
+      "title": "澤連斯基譴責美俄柴油交易，特朗普稱「烏克蘭該換總統了」",
+      "fetched_at": "2026-10-11T11:45:31.069920+00:00"
+    },
+    "fb15a296bf7ca9fc": {
+      "title": "種族歧視風波爆發時，與Blackpink成員Lisa共處一室是什麼感受？",
+      "fetched_at": "2026-10-11T11:45:31.688825+00:00"
+    },
+    "be6d1d9bc3e3fdf9": {
+      "title": "BBC報道印尼校長涉嫌性侵學生後 該校長被警方拘捕",
+      "fetched_at": "2026-10-11T11:45:32.311142+00:00"
+    },
+    "2194f8a282412348": {
+      "title": "'News reports tweaked the science to speak to contemporary anxieties': How Neanderthal extinction is a projection of our own, modern fears",
+      "fetched_at": "2026-10-11T11:45:41.772655+00:00"
+    },
+    "b00f327aba771cab": {
+      "title": "'Swamp-like colors' on the moon: NASA report reveals strange sights from Artemis II mission",
+      "fetched_at": "2026-10-11T11:45:42.391746+00:00"
+    },
+    "fc2abe4ee7cd2d2a": {
+      "title": "How did Roman aqueducts get water to go uphill?",
+      "fetched_at": "2026-10-11T11:45:43.040075+00:00"
+    },
+    "90c73480607ca009": {
+      "title": "The eye has a hidden cleanup system scientists never knew existed",
+      "fetched_at": "2026-10-11T11:45:43.660962+00:00"
+    },
+    "b9c0d4326cff83cc": {
+      "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+      "fetched_at": "2026-10-11T11:45:44.274441+00:00"
+    },
+    "0e3aa8aafa12080d": {
+      "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+      "fetched_at": "2026-10-11T11:45:44.912706+00:00"
+    },
+    "134532be88312e8e": {
+      "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
+      "fetched_at": "2026-10-11T11:45:45.543837+00:00"
+    },
+    "694fd0d90a92a2f7": {
+      "title": "Rare two-headed turtle hatchling discovered on Cape Cod",
+      "fetched_at": "2026-10-11T11:45:46.163492+00:00"
     }
   },
-  "last_updated": "2026-10-11T02:43:06.952933+00:00"
+  "last_updated": "2026-10-11T11:45:46.212192+00:00"
 }
