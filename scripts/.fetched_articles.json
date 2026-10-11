@@ -1,41 +1,5 @@
 {
   "articles": {
-    "6ec21f0854f850eb": {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "fetched_at": "2026-10-03T20:18:45.395077+00:00"
-    },
-    "4b1140ee2aad426e": {
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "fetched_at": "2026-10-03T20:18:46.006621+00:00"
-    },
-    "5d565e491e85a608": {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "fetched_at": "2026-10-03T20:18:46.622910+00:00"
-    },
-    "fc5bd233729a7623": {
-      "title": "1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say",
-      "fetched_at": "2026-10-03T20:18:49.733344+00:00"
-    },
-    "724c0b06ad684848": {
-      "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
-      "fetched_at": "2026-10-03T20:18:50.338297+00:00"
-    },
-    "c21b6fcdc44b8971": {
-      "title": "Electrons slow to a crawl in a strange new quantum state",
-      "fetched_at": "2026-10-03T20:18:50.955698+00:00"
-    },
-    "178380c6ea04aa89": {
-      "title": "Scientists may have found a “unifying theory” of chronic fatigue",
-      "fetched_at": "2026-10-03T20:18:51.670332+00:00"
-    },
-    "cd181b5ca752ec74": {
-      "title": "One tiny chemical difference between RNA and DNA may help explain how life began",
-      "fetched_at": "2026-10-03T20:18:52.300502+00:00"
-    },
-    "da5dfe83643981be": {
-      "title": "Author Rose George dives into the dark depths of the fishing industry",
-      "fetched_at": "2026-10-03T20:18:52.923778+00:00"
-    },
     "f1fa08e27c181a69": {
       "title": "迪拜航空劫機案：阿聯酋官員稱副駕駛用應急斧頭砍傷機長",
       "fetched_at": "2026-10-04T03:15:57.178452+00:00"
@@ -2555,7 +2519,123 @@
     "a9ccfe8ef5809621": {
       "title": "Could we ever create artificial gravity on a spaceship?",
       "fetched_at": "2026-10-11T16:56:56.755967+00:00"
+    },
+    "208f5ee6c593c47d": {
+      "title": "The Universal LLM Server",
+      "fetched_at": "2026-10-11T21:11:18.980766+00:00"
+    },
+    "0826b39bee1cd439": {
+      "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+      "fetched_at": "2026-10-11T21:11:19.559334+00:00"
+    },
+    "d9821f502e0b648d": {
+      "title": "Distorted Intelligence at the AI Frontier",
+      "fetched_at": "2026-10-11T21:11:20.138034+00:00"
+    },
+    "fca19213435eb897": {
+      "title": "The Ghost in the Pipe: Giving AI agents direct access to a live Smalltalk image",
+      "fetched_at": "2026-10-11T21:11:20.724397+00:00"
+    },
+    "62081cd5c5be53f4": {
+      "title": "Driving directions from LLM memory",
+      "fetched_at": "2026-10-11T21:11:21.345827+00:00"
+    },
+    "26f157e9c98178d8": {
+      "title": "What happens inside AI Chip when you ask a question",
+      "fetched_at": "2026-10-11T21:11:21.951276+00:00"
+    },
+    "0dc1c559333d6085": {
+      "title": "Ask HN: How do swarms of AI agents work?",
+      "fetched_at": "2026-10-11T21:11:22.526061+00:00"
+    },
+    "6f21f9706793db0d": {
+      "title": "Barnette's Conjecture proof AI explained",
+      "fetched_at": "2026-10-11T21:11:23.105030+00:00"
+    },
+    "11ddeafcd49db8f3": {
+      "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
+      "fetched_at": "2026-10-11T21:11:23.686702+00:00"
+    },
+    "8316f6bf99ae41de": {
+      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "fetched_at": "2026-10-11T21:11:24.266354+00:00"
+    },
+    "ded00156618b3f62": {
+      "title": "The Acemoglu-GANs Exchange on AI",
+      "fetched_at": "2026-10-11T21:11:24.844527+00:00"
+    },
+    "aae413bda33ba9ab": {
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "fetched_at": "2026-10-11T21:11:25.424948+00:00"
+    },
+    "5666d68321037502": {
+      "title": "Developer of AI driving instructor is spending $1k/month to keep demo running",
+      "fetched_at": "2026-10-11T21:11:26.005567+00:00"
+    },
+    "501f43cb911d2236": {
+      "title": "A global, hardwired pause of frontier AI training is feasible, says new report",
+      "fetched_at": "2026-10-11T21:11:26.696388+00:00"
+    },
+    "d495708f18d64c52": {
+      "title": "The Holy Grail in AI Marketing Will Make Everything Wonderfully Terrible",
+      "fetched_at": "2026-10-11T21:11:27.283954+00:00"
+    },
+    "9f199ae9c620ad97": {
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "fetched_at": "2026-10-11T21:11:28.034754+00:00"
+    },
+    "fd93885dd2246900": {
+      "title": "AI-Powered Plasma Cutting",
+      "fetched_at": "2026-10-11T21:11:28.697100+00:00"
+    },
+    "155f54dcf08c6a3f": {
+      "title": "Karpathy on Learning",
+      "fetched_at": "2026-10-11T21:11:29.282400+00:00"
+    },
+    "d2f75f209b7be6ef": {
+      "title": "Crawlable – We audited 50 top web apps for AI crawler readability",
+      "fetched_at": "2026-10-11T21:11:29.859635+00:00"
+    },
+    "6e22e15909d4eb64": {
+      "title": "Michael I. Jordan on AI: \"Superintelligence is science fiction\"",
+      "fetched_at": "2026-10-11T21:11:30.440671+00:00"
+    },
+    "c0807c81425a1f40": {
+      "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
+      "fetched_at": "2026-10-11T21:11:33.383318+00:00"
+    },
+    "79ac77eee5a2ca1c": {
+      "title": "Iroh Global Content Discovery",
+      "fetched_at": "2026-10-11T21:11:36.878840+00:00"
+    },
+    "4ec05e7fdc030bf2": {
+      "title": "What medieval people made of fossils before vertebrate paleontology",
+      "fetched_at": "2026-10-11T21:11:37.455340+00:00"
+    },
+    "d7374114cc395bdf": {
+      "title": "This protective enzyme could help stop fatty liver disease from getting worse",
+      "fetched_at": "2026-10-11T21:11:38.031810+00:00"
+    },
+    "312f28fb742b13e0": {
+      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+      "fetched_at": "2026-10-11T21:11:38.618160+00:00"
+    },
+    "658570b62c7139a8": {
+      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+      "fetched_at": "2026-10-11T21:11:39.203899+00:00"
+    },
+    "fe5bfa39bd3ee20e": {
+      "title": "Powerful simulations reveal how the first stars changed the universe",
+      "fetched_at": "2026-10-11T21:11:39.796500+00:00"
+    },
+    "2cc168a81bd67739": {
+      "title": "Leucine does more than build muscle. It powers up your cells",
+      "fetched_at": "2026-10-11T21:11:40.377856+00:00"
+    },
+    "04f5723f91a63cf4": {
+      "title": "NASA’s Roman telescope just opened its planet-hunting eye",
+      "fetched_at": "2026-10-11T21:11:40.966142+00:00"
     }
   },
-  "last_updated": "2026-10-11T16:56:56.854622+00:00"
+  "last_updated": "2026-10-11T21:11:41.026091+00:00"
 }
