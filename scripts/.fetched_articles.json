@@ -1,97 +1,5 @@
 {
   "articles": {
-    "7acba2d5f296235c": {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "fetched_at": "2026-10-02T21:32:28.148634+00:00"
-    },
-    "9cb56ae5f8aad7be": {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "fetched_at": "2026-10-02T21:32:28.758874+00:00"
-    },
-    "dd957bd388c51297": {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "fetched_at": "2026-10-02T21:32:29.367927+00:00"
-    },
-    "7c7fea5874506be0": {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "fetched_at": "2026-10-02T21:32:29.975506+00:00"
-    },
-    "460dc42327850686": {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "fetched_at": "2026-10-02T21:32:30.584787+00:00"
-    },
-    "4cc9380927a23b5b": {
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "fetched_at": "2026-10-02T21:32:31.203058+00:00"
-    },
-    "a8a22f15bdb3933d": {
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "fetched_at": "2026-10-02T21:32:31.809333+00:00"
-    },
-    "47fb0653cb6ab35c": {
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "fetched_at": "2026-10-02T21:32:32.499818+00:00"
-    },
-    "a76a50eecc8a5ad3": {
-      "title": "Breaking up (with Elon Musk) is hard to do",
-      "fetched_at": "2026-10-02T21:32:33.117610+00:00"
-    },
-    "ea6b04aa5661a64b": {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "fetched_at": "2026-10-02T21:32:33.735264+00:00"
-    },
-    "ad07795c86cb6d02": {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "fetched_at": "2026-10-02T21:32:34.355506+00:00"
-    },
-    "de9e4a7da0cb64ea": {
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "fetched_at": "2026-10-02T21:32:34.967747+00:00"
-    },
-    "db158ddc28aba2bd": {
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "fetched_at": "2026-10-02T21:32:35.581002+00:00"
-    },
-    "cb8ab6f9a0523822": {
-      "title": "AI hallucinations are making entitled customers even worse",
-      "fetched_at": "2026-10-02T21:32:36.186807+00:00"
-    },
-    "8d18adda5b2bc194": {
-      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-      "fetched_at": "2026-10-02T21:32:36.790458+00:00"
-    },
-    "ece7f91535e1eabe": {
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "fetched_at": "2026-10-02T21:32:37.409031+00:00"
-    },
-    "694fd0d90a92a2f7": {
-      "title": "Rare two-headed turtle hatchling discovered on Cape Cod",
-      "fetched_at": "2026-10-02T21:32:41.496621+00:00"
-    },
-    "5b04dbf1f3d84598": {
-      "title": "Colorful wildflowers bloom across Chile's Atacama Desert in wake of 'super' El Niño",
-      "fetched_at": "2026-10-02T21:32:42.105836+00:00"
-    },
-    "c2e6cc109bc5ab88": {
-      "title": "Mesolithic Lumber Recovered in Germany’s Lake Arendsee",
-      "fetched_at": "2026-10-02T21:32:42.805974+00:00"
-    },
-    "e06e35649cd08723": {
-      "title": "Animals may have evolved 200 million years earlier than previously thought, new study suggests",
-      "fetched_at": "2026-10-02T21:32:43.426330+00:00"
-    },
-    "8cef6595d96ee493": {
-      "title": "20th-Century Railroad Worker Camp Found in Iowa",
-      "fetched_at": "2026-10-02T21:32:44.034353+00:00"
-    },
-    "60856086a72bcdd5": {
-      "title": "Scottish Early Medieval Monastery Studied",
-      "fetched_at": "2026-10-02T21:32:44.730068+00:00"
-    },
-    "5daa48cde1582c33": {
-      "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
-      "fetched_at": "2026-10-02T21:32:45.343208+00:00"
-    },
     "cb5d46b6dbe8d054": {
       "title": "How to stay smart in the age of AI: the science of critical thinking",
       "fetched_at": "2026-10-03T02:44:22.521786+00:00"
@@ -2591,7 +2499,99 @@
     "f6cef97de9b1c64c": {
       "title": "Hubble Space Telescope may have found a planet born after its star died",
       "fetched_at": "2026-10-10T20:50:13.735130+00:00"
+    },
+    "417cbe74a3a0399c": {
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "fetched_at": "2026-10-11T02:42:46.306878+00:00"
+    },
+    "58e7f083d4678775": {
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "fetched_at": "2026-10-11T02:42:46.982518+00:00"
+    },
+    "258e6453beaf808f": {
+      "title": "Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]",
+      "fetched_at": "2026-10-11T02:42:47.603275+00:00"
+    },
+    "a38521c74d5e1170": {
+      "title": "GMKtec EVO-X3 Mini-PC Review Looking at a 128GB AMD Local AI Box",
+      "fetched_at": "2026-10-11T02:42:48.182601+00:00"
+    },
+    "47dcb24cf2868360": {
+      "title": "Ask HN: Resources for best practices in software development with AI?",
+      "fetched_at": "2026-10-11T02:42:48.836867+00:00"
+    },
+    "454d3b6785911e24": {
+      "title": "Why your AI agents can't reach the tools you're signed in to, and how to fix it",
+      "fetched_at": "2026-10-11T02:42:49.601147+00:00"
+    },
+    "b9f82ea5644692b4": {
+      "title": "Long-term memory for AI coding agents as a tree of plain files",
+      "fetched_at": "2026-10-11T02:42:50.254907+00:00"
+    },
+    "d0e5b8f6b9909b79": {
+      "title": "Generative AI scandal has come to one of Nikon's competitions",
+      "fetched_at": "2026-10-11T02:42:50.873918+00:00"
+    },
+    "9d86acb186101d11": {
+      "title": "LLM Pareto Frontier over time [video]",
+      "fetched_at": "2026-10-11T02:42:51.470564+00:00"
+    },
+    "170cc002b954f1d8": {
+      "title": "Microsoft CEO Nadella Calls for 'Emergency Brake' on Advanced AI",
+      "fetched_at": "2026-10-11T02:42:52.137276+00:00"
+    },
+    "2287020b31264d90": {
+      "title": "'AI slop' hides the conversations we should be having",
+      "fetched_at": "2026-10-11T02:42:52.712721+00:00"
+    },
+    "e3e97b2f7ce8a57c": {
+      "title": "PwnPad – hardware hacking platform built for practical learning",
+      "fetched_at": "2026-10-11T02:42:53.318159+00:00"
+    },
+    "f1a3dbaeb8900da3": {
+      "title": "A mountain of AI math, a few precious bytes",
+      "fetched_at": "2026-10-11T02:42:53.904805+00:00"
+    },
+    "d6a5ffb3ed922956": {
+      "title": "A Stark Warning from a Former AI Doomer",
+      "fetched_at": "2026-10-11T02:42:54.503280+00:00"
+    },
+    "e9510899e944d0ac": {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "fetched_at": "2026-10-11T02:42:55.088419+00:00"
+    },
+    "eebad0ea89b195cc": {
+      "title": "We're All Working for AI Now",
+      "fetched_at": "2026-10-11T02:42:55.679302+00:00"
+    },
+    "6ca1da25cd94ba30": {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "fetched_at": "2026-10-11T02:42:56.355640+00:00"
+    },
+    "572e43b045d29991": {
+      "title": "Arrival Mind (children's book about AI risk – narrated)",
+      "fetched_at": "2026-10-11T02:42:56.933163+00:00"
+    },
+    "117952989bf7a159": {
+      "title": "Show HN: I built a macOS screensaver that reacts to AI coding agents",
+      "fetched_at": "2026-10-11T02:42:57.515664+00:00"
+    },
+    "372df06236c3b22b": {
+      "title": "Show HN: Try Free Long-Term Memory for AI 50M-Token Window",
+      "fetched_at": "2026-10-11T02:42:58.103888+00:00"
+    },
+    "29dbb3f6667a5f29": {
+      "title": "台北選戰掀美沙冬爭議 香港逾半世紀戒毒經驗有何啟示？",
+      "fetched_at": "2026-10-11T02:43:00.674523+00:00"
+    },
+    "95024aa7537e5fe7": {
+      "title": "什麼是「微笑抑鬱」？如何察覺徵兆？",
+      "fetched_at": "2026-10-11T02:43:01.272550+00:00"
+    },
+    "68e05072a5eb7b79": {
+      "title": "How prepared are you for a disaster?",
+      "fetched_at": "2026-10-11T02:43:06.916516+00:00"
     }
   },
-  "last_updated": "2026-10-10T20:50:13.828698+00:00"
+  "last_updated": "2026-10-11T02:43:06.952933+00:00"
 }
