@@ -1,29 +1,5 @@
 {
   "articles": {
-    "f0c08c61d62c95e9": {
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "fetched_at": "2026-10-05T02:51:34.608367+00:00"
-    },
-    "1bd0d4a8ca1052ed": {
-      "title": "反恐案件後 美國從英國西南基地撤走全數轟炸機",
-      "fetched_at": "2026-10-05T02:51:37.775586+00:00"
-    },
-    "d8ebb48c771d738f": {
-      "title": "寒背又疼痛？五個保護頸部的運動",
-      "fetched_at": "2026-10-05T02:51:38.396695+00:00"
-    },
-    "f79930b888ca2b70": {
-      "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
-      "fetched_at": "2026-10-05T02:51:39.091571+00:00"
-    },
-    "13539a183c4d64ea": {
-      "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
-      "fetched_at": "2026-10-05T02:51:42.719011+00:00"
-    },
-    "7711d1ec3156c3bb": {
-      "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
-      "fetched_at": "2026-10-05T02:51:43.339695+00:00"
-    },
     "e45b80119a0caf0e": {
       "title": "AI coding agents implemented six ways to update a Matter device on real hardware",
       "fetched_at": "2026-10-05T12:55:41.139137+00:00"
@@ -2715,7 +2691,135 @@
     "21dab6cf40887f03": {
       "title": "Do animals experience schadenfreude?",
       "fetched_at": "2026-10-12T23:55:58.868197+00:00"
+    },
+    "f7caba326a6a62be": {
+      "title": "Show HN: Search for AI agents with usefulness score built in",
+      "fetched_at": "2026-10-13T04:22:37.391983+00:00"
+    },
+    "22860e97d05418cb": {
+      "title": "Show HN:we made betr Moltbook alt– thecollectives.dev social media for AI agents",
+      "fetched_at": "2026-10-13T04:22:38.067880+00:00"
+    },
+    "c4bdf93c93176e5b": {
+      "title": "Can we change an AI model's architecture without retraining it from scratch?",
+      "fetched_at": "2026-10-13T04:22:38.683464+00:00"
+    },
+    "187aba0b7e332f3d": {
+      "title": "I used an AI QA agent to test Hacker News",
+      "fetched_at": "2026-10-13T04:22:39.309643+00:00"
+    },
+    "fd36ceb1dafd93cf": {
+      "title": "Ask HN: Now that AI makes the execution easy, do ideas matter more?",
+      "fetched_at": "2026-10-13T04:22:39.937389+00:00"
+    },
+    "09457f7d30cde442": {
+      "title": "Leading Chinese mathematicians unite behind use of AI in research",
+      "fetched_at": "2026-10-13T04:22:40.560389+00:00"
+    },
+    "102a9e63b79e2cac": {
+      "title": "In 5 years, 95% of tokens used by AI agents will be for tasks humans never did",
+      "fetched_at": "2026-10-13T04:22:41.173173+00:00"
+    },
+    "da8434dc598d611f": {
+      "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
+      "fetched_at": "2026-10-13T04:22:41.807094+00:00"
+    },
+    "2f54d80655c4d9c1": {
+      "title": "Army turning to AI in its fight against biological threats",
+      "fetched_at": "2026-10-13T04:22:42.440840+00:00"
+    },
+    "3a90330d76cc8a17": {
+      "title": "Astrocytic Clock Controls Circadian PNN Remodeling, Synapse Strength, Learning",
+      "fetched_at": "2026-10-13T04:22:43.096542+00:00"
+    },
+    "fdef03bdc011ab1a": {
+      "title": "Show HN: MEF LLM Studio – Learn how LLMs generate text, token by token",
+      "fetched_at": "2026-10-13T04:22:43.721573+00:00"
+    },
+    "ec995d2244b44cc2": {
+      "title": "I gave 16 IA's control of the AI nations in Humankind",
+      "fetched_at": "2026-10-13T04:22:44.327492+00:00"
+    },
+    "7cae1d34321ebe40": {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "fetched_at": "2026-10-13T04:22:44.963038+00:00"
+    },
+    "2853461364c2b808": {
+      "title": "Examining China's AI Financing [pdf]",
+      "fetched_at": "2026-10-13T04:22:45.598099+00:00"
+    },
+    "fb90d9b3575e9cc4": {
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "fetched_at": "2026-10-13T04:22:46.245161+00:00"
+    },
+    "80b834dfe689ddae": {
+      "title": "Math community could learn from bio[med]'s to live with AI",
+      "fetched_at": "2026-10-13T04:22:46.861874+00:00"
+    },
+    "2e337eff96b2cee7": {
+      "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
+      "fetched_at": "2026-10-13T04:22:47.493272+00:00"
+    },
+    "3854565c84d95523": {
+      "title": "AI-critic – Task-aware auditing of ML models",
+      "fetched_at": "2026-10-13T04:22:48.113175+00:00"
+    },
+    "f2e57144539466cf": {
+      "title": "FrontierCode: Can AI models write code maintainers would merge?",
+      "fetched_at": "2026-10-13T04:22:48.727742+00:00"
+    },
+    "668f59b3f618bd8e": {
+      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
+      "fetched_at": "2026-10-13T04:22:49.332735+00:00"
+    },
+    "177148c39624bad9": {
+      "title": "全球首富的崛起之路：马斯克纪录片讲了些什么",
+      "fetched_at": "2026-10-13T04:22:51.777930+00:00"
+    },
+    "4b0978e7ded38b1c": {
+      "title": "为何大学校园强奸案反复重演？",
+      "fetched_at": "2026-10-13T04:22:52.435910+00:00"
+    },
+    "f722887283512fd0": {
+      "title": "欧洲为何对中国电动汽车爱恨交加",
+      "fetched_at": "2026-10-13T04:22:53.090000+00:00"
+    },
+    "d2c0042d38ec3afe": {
+      "title": "美国研发新型太阳能电池板，或挑战中国垄断地位",
+      "fetched_at": "2026-10-13T04:22:53.841132+00:00"
+    },
+    "8a3fbc1d1583ba75": {
+      "title": "廣州開發電玩遊戲「喚醒」威爾士民間傳說潛力",
+      "fetched_at": "2026-10-13T04:22:54.469819+00:00"
+    },
+    "98c9ace74d5b5c77": {
+      "title": "伊朗與烏克蘭 哪場戰爭對柴油價格影響最大？",
+      "fetched_at": "2026-10-13T04:22:55.086670+00:00"
+    },
+    "fd51b0f7a5aeda5c": {
+      "title": "Scientists recreate the universe's first moments and find something they didn't expect",
+      "fetched_at": "2026-10-13T04:23:28.773479+00:00"
+    },
+    "a5cec6e53b523a40": {
+      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+      "fetched_at": "2026-10-13T04:23:29.386668+00:00"
+    },
+    "c3af01dc5f3cfb1e": {
+      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+      "fetched_at": "2026-10-13T04:23:30.005378+00:00"
+    },
+    "668419d3ca40a794": {
+      "title": "A forgotten 30-year forest experiment just delivered a huge surprise",
+      "fetched_at": "2026-10-13T04:23:30.621643+00:00"
+    },
+    "20f06dc0740e292c": {
+      "title": "Your gut bacteria may reveal how fast your brain is aging",
+      "fetched_at": "2026-10-13T04:23:31.226369+00:00"
+    },
+    "dad24a3d64ef9a01": {
+      "title": "Diet drinks work as well as water for weight loss, major trial finds",
+      "fetched_at": "2026-10-13T04:23:31.850480+00:00"
     }
   },
-  "last_updated": "2026-10-12T23:55:58.985054+00:00"
+  "last_updated": "2026-10-13T04:23:31.951196+00:00"
 }
