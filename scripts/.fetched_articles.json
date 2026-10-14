@@ -1,117 +1,5 @@
 {
   "articles": {
-    "9a86a410b5f59c90": {
-      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
-      "fetched_at": "2026-10-05T23:26:37.467960+00:00"
-    },
-    "acbc2bc103f0ae83": {
-      "title": "LLM SEO tools in 2026: what each one tracks",
-      "fetched_at": "2026-10-05T23:26:38.116170+00:00"
-    },
-    "54c1243b9c0b2efd": {
-      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-      "fetched_at": "2026-10-05T23:26:38.743056+00:00"
-    },
-    "e6cb60b5b264fbeb": {
-      "title": "Nova Sprint. Coordinate AI sprints across multiple models and harnesses",
-      "fetched_at": "2026-10-05T23:26:39.358377+00:00"
-    },
-    "559612899207f6a2": {
-      "title": "I'm building a personal AI computer startup in Mumbai",
-      "fetched_at": "2026-10-05T23:26:39.969986+00:00"
-    },
-    "b9995018a7dd789e": {
-      "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-      "fetched_at": "2026-10-05T23:26:40.595018+00:00"
-    },
-    "8c9444950c484935": {
-      "title": "It's a Plan – issue tracker where people and AI agents ship together",
-      "fetched_at": "2026-10-05T23:26:41.229248+00:00"
-    },
-    "f8297365a976402c": {
-      "title": "Give Your AI Agent a Domain-Specific Language",
-      "fetched_at": "2026-10-05T23:26:41.838064+00:00"
-    },
-    "820f9f721f71f187": {
-      "title": "Show HN: The mainbrella effect – AI code / Agent machines",
-      "fetched_at": "2026-10-05T23:26:42.455446+00:00"
-    },
-    "f52d3c693453f8c1": {
-      "title": "Fixer, financier, spymaster: UAE's Sheikh Tahnoon setting sights on AI dominance",
-      "fetched_at": "2026-10-05T23:26:43.075381+00:00"
-    },
-    "8c19d1c1cd001fe9": {
-      "title": "Top Consumer AI Apps",
-      "fetched_at": "2026-10-05T23:26:43.701249+00:00"
-    },
-    "28cfb5538408a5a2": {
-      "title": "Testing AI on Real-World Tasks",
-      "fetched_at": "2026-10-05T23:26:44.312828+00:00"
-    },
-    "23808d319dc169d6": {
-      "title": "Agility: Build Software at AI Speed",
-      "fetched_at": "2026-10-05T23:26:44.937774+00:00"
-    },
-    "c2f3222e68a8eef8": {
-      "title": "Show HN: All local LLM(s) on all Apple Devices",
-      "fetched_at": "2026-10-05T23:26:45.557519+00:00"
-    },
-    "6c06565a661b880d": {
-      "title": "Lighthouse Legal – Voice AI for personal injury intake",
-      "fetched_at": "2026-10-05T23:26:46.180976+00:00"
-    },
-    "aaf2992b00a5b334": {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "fetched_at": "2026-10-05T23:26:46.794087+00:00"
-    },
-    "74a25ed3a37b338a": {
-      "title": "Free AI Construction Estimating in the Web",
-      "fetched_at": "2026-10-05T23:26:47.416005+00:00"
-    },
-    "8219fdb818f558f1": {
-      "title": "Give your LLM more DSLs",
-      "fetched_at": "2026-10-05T23:26:48.039284+00:00"
-    },
-    "5f1bc8c834678f34": {
-      "title": "Ask HN: Feedback regarding my AI setup",
-      "fetched_at": "2026-10-05T23:26:48.660257+00:00"
-    },
-    "4c740592d8a796ea": {
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "fetched_at": "2026-10-05T23:26:49.316290+00:00"
-    },
-    "8bbddad0a80a8852": {
-      "title": "Jupiter will disappear behind the moon in a once-in-a-decade alignment tomorrow",
-      "fetched_at": "2026-10-05T23:26:56.562492+00:00"
-    },
-    "971b3a3de9ffa443": {
-      "title": "4,000-Year-Old Gallery Grave Excavated in Norway",
-      "fetched_at": "2026-10-05T23:26:57.176629+00:00"
-    },
-    "c4aeaae151a1ee70": {
-      "title": "Face of Ancient Andean Man Reconstructed",
-      "fetched_at": "2026-10-05T23:26:57.810926+00:00"
-    },
-    "a86608c8484a97ef": {
-      "title": "Lead Venus Figurine Unearthed in Hungary",
-      "fetched_at": "2026-10-05T23:26:58.430333+00:00"
-    },
-    "5539c22392753eea": {
-      "title": "Ancient Egyptians sacrificed pharaohs' servants so they could continue to serve their king in the afterlife, new study finds",
-      "fetched_at": "2026-10-05T23:26:59.052460+00:00"
-    },
-    "e917d9ef1c516323": {
-      "title": "1,800-year-old temple to Mars and statue of Victory unearthed at Roman military fort in Germany",
-      "fetched_at": "2026-10-05T23:26:59.675087+00:00"
-    },
-    "fc20b68ccdd2cc91": {
-      "title": "Coral Reef-Like Rock Layers on Mars Reveal Ancient Climate Secrets",
-      "fetched_at": "2026-10-05T23:27:00.290976+00:00"
-    },
-    "f4bd365da3191242": {
-      "title": "Discovery and engineering of avian R2 retrotransposons for targeted DNA",
-      "fetched_at": "2026-10-05T23:27:00.902706+00:00"
-    },
     "1ddac7c2d21ec4d7": {
       "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
       "fetched_at": "2026-10-06T03:41:46.355050+00:00"
@@ -2971,7 +2859,103 @@
     "3e3245eba63f8210": {
       "title": "This mysterious hole on the Moon may open into a giant cave",
       "fetched_at": "2026-10-13T22:04:13.238885+00:00"
+    },
+    "7ad8986a26666a22": {
+      "title": "OCP 2026: Agentic AI Pushes the Data Center from Chip to Grid",
+      "fetched_at": "2026-10-14T02:33:33.177493+00:00"
+    },
+    "571a2533cc37c8be": {
+      "title": "AI Scaling vs. Human Scaling",
+      "fetched_at": "2026-10-14T02:33:33.798698+00:00"
+    },
+    "d4d4f65bf630d99d": {
+      "title": "Ask HN: What do you think will be hot in 2027 with on-device AI",
+      "fetched_at": "2026-10-14T02:33:34.411102+00:00"
+    },
+    "933098069d90b2a3": {
+      "title": "An Open Letter on AI and Cybersecurity from the Scientific Community",
+      "fetched_at": "2026-10-14T02:33:35.059931+00:00"
+    },
+    "15b7daea42ea8337": {
+      "title": "Show HN: Can AI read your mind?",
+      "fetched_at": "2026-10-14T02:33:35.686270+00:00"
+    },
+    "da565c7967ed8f3a": {
+      "title": "Show HN: AI Hub – Open Access Lesson Plans for Teaching Students about AI",
+      "fetched_at": "2026-10-14T02:33:36.305933+00:00"
+    },
+    "2326164f42baa731": {
+      "title": "Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation",
+      "fetched_at": "2026-10-14T02:33:36.933137+00:00"
+    },
+    "7086109d0bf79d48": {
+      "title": "Learning What to Investigate Next: Meta-Reasoning for Long-Horizon Agents",
+      "fetched_at": "2026-10-14T02:33:37.579522+00:00"
+    },
+    "7e294fb79d7ac6de": {
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "fetched_at": "2026-10-14T02:33:38.196302+00:00"
+    },
+    "820cd7e3dbceeb02": {
+      "title": "Character.ai files for Chapter 11 bankruptcy. Disney makes a bid",
+      "fetched_at": "2026-10-14T02:33:38.825212+00:00"
+    },
+    "9d6abd0c5732982f": {
+      "title": "Who Decided AI Gets to Have Feelings?",
+      "fetched_at": "2026-10-14T02:33:39.485582+00:00"
+    },
+    "933a2273b2e03f7b": {
+      "title": "AI, Hyperwar and End Times Fascism",
+      "fetched_at": "2026-10-14T02:33:40.137674+00:00"
+    },
+    "4094fe1a37f2f958": {
+      "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
+      "fetched_at": "2026-10-14T02:33:40.767538+00:00"
+    },
+    "74ac27e2d1baa0d9": {
+      "title": "How well does AI predict humans?",
+      "fetched_at": "2026-10-14T02:33:41.485583+00:00"
+    },
+    "d5849ac31e48ee3b": {
+      "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+      "fetched_at": "2026-10-14T02:33:42.104501+00:00"
+    },
+    "bbf2a102c2580252": {
+      "title": "AI's quiet safety gatekeepers are stepping into the spotlight",
+      "fetched_at": "2026-10-14T02:33:42.737268+00:00"
+    },
+    "0895ed92cb6765ba": {
+      "title": "Amex introduces a framework to prevent AI agents from unauthorized purchases",
+      "fetched_at": "2026-10-14T02:33:43.357001+00:00"
+    },
+    "2ae766f0b756922e": {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "fetched_at": "2026-10-14T02:33:43.984149+00:00"
+    },
+    "2c7cedc01e0095cc": {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "fetched_at": "2026-10-14T02:33:44.613284+00:00"
+    },
+    "9abcd072034453d2": {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "fetched_at": "2026-10-14T02:33:45.363972+00:00"
+    },
+    "f2bf352d9a02ac7f": {
+      "title": "人工智能推波助澜，网络攻击席卷日本",
+      "fetched_at": "2026-10-14T02:33:48.184574+00:00"
+    },
+    "c35c0b0b42d720af": {
+      "title": "FBI捣毁涉朝鲜IT诈骗网络：盗用身份获取美国工作岗位",
+      "fetched_at": "2026-10-14T02:33:48.813577+00:00"
+    },
+    "0c55c3b1e5e5dc92": {
+      "title": "「黑珍珠」瑪麗亞：表演中國川劇的塞拉利昂女子",
+      "fetched_at": "2026-10-14T02:33:49.438548+00:00"
+    },
+    "d9e60867faa09dec": {
+      "title": "人類身高的起伏變化：哪些歷史事件影響最大？",
+      "fetched_at": "2026-10-14T02:33:50.057674+00:00"
     }
   },
-  "last_updated": "2026-10-13T22:04:13.351324+00:00"
+  "last_updated": "2026-10-14T02:33:51.695718+00:00"
 }
