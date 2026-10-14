@@ -1,57 +1,5 @@
 {
   "articles": {
-    "31b48eaa78844e82": {
-      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-      "fetched_at": "2026-10-06T12:21:47.617998+00:00"
-    },
-    "cf0409dc543c3ede": {
-      "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
-      "fetched_at": "2026-10-06T12:21:48.218439+00:00"
-    },
-    "96677b00576ca222": {
-      "title": "中美AI軍事化背景下 BBC獲悉五角大樓正式停用 Anthropic 工具",
-      "fetched_at": "2026-10-06T12:21:50.732874+00:00"
-    },
-    "e85e448f39eccc3e": {
-      "title": "美軍擬槍決胡德堡基地槍擊案兇手 二戰後首例",
-      "fetched_at": "2026-10-06T12:21:51.315957+00:00"
-    },
-    "fed5def8192fbd59": {
-      "title": "美國圖書館為何正迅速下架眾多圖書？",
-      "fetched_at": "2026-10-06T12:21:51.903471+00:00"
-    },
-    "9cc6b9c4e7388e04": {
-      "title": "俄羅斯鼠疫實驗室人員死亡 美方稱「密切關注」",
-      "fetched_at": "2026-10-06T12:21:52.532121+00:00"
-    },
-    "e4d6eb73dc07105f": {
-      "title": "台北選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
-      "fetched_at": "2026-10-06T12:21:53.119893+00:00"
-    },
-    "d4a9401ff8167bba": {
-      "title": "美驻华大使：特朗普曾提议向中国出售武器",
-      "fetched_at": "2026-10-06T12:21:53.707622+00:00"
-    },
-    "c58680032a7316e0": {
-      "title": "从台海到日本，习近平试图“撬动”特朗普的亚太立场",
-      "fetched_at": "2026-10-06T12:21:54.292183+00:00"
-    },
-    "395fa609d5475997": {
-      "title": "Lost 'heart' of the Colorado River shines like a silver serpent in Utah",
-      "fetched_at": "2026-10-06T12:21:56.708079+00:00"
-    },
-    "4f79900841ea4902": {
-      "title": "'Mpox has not disappeared': Why the infectious disease is still spreading in the US and may be here to stay",
-      "fetched_at": "2026-10-06T12:21:57.311334+00:00"
-    },
-    "57af86b9e821a037": {
-      "title": "Mpox is still spreading in the US — here's what to know about vaccines, symptoms and treatment",
-      "fetched_at": "2026-10-06T12:21:57.889914+00:00"
-    },
-    "9250ab8c1c6bb6d8": {
-      "title": "The ozone layer was supposed to be healing. So why is this year's Antarctic ozone hole so big?",
-      "fetched_at": "2026-10-06T12:21:58.478530+00:00"
-    },
     "c87a8bed9b022959": {
       "title": "How AI decision models could change content moderation",
       "fetched_at": "2026-10-06T21:58:45.950062+00:00"
@@ -2959,7 +2907,135 @@
     "a4f57b5aa6c610cc": {
       "title": "210-million-year-old dinosaur discovery reveals a lost world in Africa",
       "fetched_at": "2026-10-14T10:47:53.815187+00:00"
+    },
+    "7e1479178ded733f": {
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "fetched_at": "2026-10-14T16:06:54.593077+00:00"
+    },
+    "340d74c7fb796238": {
+      "title": "Show HN: Eulix – Local code index and call graphs for large repos, LLM optional",
+      "fetched_at": "2026-10-14T16:06:55.217837+00:00"
+    },
+    "ed964b7551adec6e": {
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "fetched_at": "2026-10-14T16:06:55.828660+00:00"
+    },
+    "a9fffa9235324e23": {
+      "title": "Android is using AI to suss out scammers in Google Messages",
+      "fetched_at": "2026-10-14T16:06:56.455864+00:00"
+    },
+    "780d99257bc07537": {
+      "title": "Mathematics and AI Oracles [pdf]",
+      "fetched_at": "2026-10-14T16:06:57.081198+00:00"
+    },
+    "f9bd2ca7fcdb966a": {
+      "title": "Celestial AI Introduces Photonic Fabric [2x HBM3e and DDR5 Memory] Module (2025)",
+      "fetched_at": "2026-10-14T16:06:57.703670+00:00"
+    },
+    "9333f48af2b3ee71": {
+      "title": "The state of agentic AI in chip design tools in 2026",
+      "fetched_at": "2026-10-14T16:06:58.323144+00:00"
+    },
+    "44e6fbe33adc14f4": {
+      "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+      "fetched_at": "2026-10-14T16:06:59.016976+00:00"
+    },
+    "4b01b2d4a9120bc8": {
+      "title": "OpenAI CFO Says Firms Using Chinese AI Models Are Risking Safety",
+      "fetched_at": "2026-10-14T16:06:59.637353+00:00"
+    },
+    "d2862b36f39f52f2": {
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "fetched_at": "2026-10-14T16:07:00.263434+00:00"
+    },
+    "dbdd6c0f0f37f264": {
+      "title": "Veda: The First AI Native Hobby OS",
+      "fetched_at": "2026-10-14T16:07:00.878158+00:00"
+    },
+    "0cefbffe526e0260": {
+      "title": "Make Your Coding Assistant a 10x AI Engineer",
+      "fetched_at": "2026-10-14T16:07:01.541215+00:00"
+    },
+    "490d7ece12a2a4f4": {
+      "title": "Amazon uses AI-powered 'risk' system to track union activity globally",
+      "fetched_at": "2026-10-14T16:07:02.159812+00:00"
+    },
+    "64fbdb5325e33925": {
+      "title": "I Want More from AI Than Another Agent",
+      "fetched_at": "2026-10-14T16:07:02.789966+00:00"
+    },
+    "4dac97fc0993c5df": {
+      "title": "Anyone built something where AI computation get cryptography receipts",
+      "fetched_at": "2026-10-14T16:07:03.449514+00:00"
+    },
+    "248cead3ffe104a3": {
+      "title": "LLM AssBench",
+      "fetched_at": "2026-10-14T16:07:04.108270+00:00"
+    },
+    "a37020fae9ae92fc": {
+      "title": "Behavior-Centric AI Design",
+      "fetched_at": "2026-10-14T16:07:04.758532+00:00"
+    },
+    "5344f830d4a9ccfb": {
+      "title": "Show HN: Live release calendar for frontier AI models, from Polymarket odds",
+      "fetched_at": "2026-10-14T16:07:05.376285+00:00"
+    },
+    "5bc65f0097d6c61f": {
+      "title": "Show HN: The first short movie built using code and AI",
+      "fetched_at": "2026-10-14T16:07:06.067096+00:00"
+    },
+    "81147a0871b845e9": {
+      "title": "Deficit Loop: Closed-loop adaptive calorie targeting with per-user LLM agents [pdf]",
+      "fetched_at": "2026-10-14T16:07:06.676587+00:00"
+    },
+    "86d2fbb2f7eb6e99": {
+      "title": "薄熙來前搭檔受查：重慶政壇「不倒翁」黃奇帆是誰？",
+      "fetched_at": "2026-10-14T16:07:08.910536+00:00"
+    },
+    "568bef8121785e97": {
+      "title": "Chinese pottery discovered in Great Zimbabwe reveals medieval African empire's vast connections spanning thousands of miles",
+      "fetched_at": "2026-10-14T16:07:15.422804+00:00"
+    },
+    "0c914524bb675200": {
+      "title": "Best wildlife cameras 2026: The ultimate buying guide to every major camera brand",
+      "fetched_at": "2026-10-14T16:07:16.030963+00:00"
+    },
+    "70d68a1eb2758623": {
+      "title": "Flightless Jurassic bird was like a carnivorous pheasant with killer claws",
+      "fetched_at": "2026-10-14T16:07:16.663965+00:00"
+    },
+    "cd01cdaf81a8ed2d": {
+      "title": "BirriaSDR: 2.4/5 GHz SDR Discovery on a Mass-Produced USB3.0 Wi-Fi Dongle",
+      "fetched_at": "2026-10-14T16:07:17.275130+00:00"
+    },
+    "4a75524485a1f6d5": {
+      "title": "One of America's biggest meteor craters is 100 million years younger than we thought — and coincided with a global extinction event",
+      "fetched_at": "2026-10-14T16:07:17.891965+00:00"
+    },
+    "ab81af9a548c6214": {
+      "title": "Scientists reveal why some workout recovery tricks can backfire",
+      "fetched_at": "2026-10-14T16:07:18.501563+00:00"
+    },
+    "cdf749f72f2977cc": {
+      "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
+      "fetched_at": "2026-10-14T16:07:19.165006+00:00"
+    },
+    "3e9f5c4c9fb37071": {
+      "title": "The secret to easier exercise as an adult may start in childhood",
+      "fetched_at": "2026-10-14T16:07:19.898351+00:00"
+    },
+    "1a59ba6ac3d5d402": {
+      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+      "fetched_at": "2026-10-14T16:07:20.521087+00:00"
+    },
+    "4d3757bcdc69d3f0": {
+      "title": "Scientists may have finally solved the mystery of the Moon’s two faces",
+      "fetched_at": "2026-10-14T16:07:21.167436+00:00"
+    },
+    "4b01b8ccc4f363ed": {
+      "title": "Scientists discover how harmful “zombie cells” hide from the immune system",
+      "fetched_at": "2026-10-14T16:07:21.792108+00:00"
     }
   },
-  "last_updated": "2026-10-14T10:47:53.929288+00:00"
+  "last_updated": "2026-10-14T16:07:21.909507+00:00"
 }
