@@ -1,93 +1,5 @@
 {
   "articles": {
-    "2bcded81aa009ca6": {
-      "title": "AI could upend food delivery",
-      "fetched_at": "2026-10-07T12:14:21.213482+00:00"
-    },
-    "57480519709d32ea": {
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "fetched_at": "2026-10-07T12:14:21.783928+00:00"
-    },
-    "d0664c0828a44cf1": {
-      "title": "罗马：永恒之城，永恒于世",
-      "fetched_at": "2026-10-07T12:14:22.355425+00:00"
-    },
-    "a5bc2f49b9905c38": {
-      "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化",
-      "fetched_at": "2026-10-07T12:14:24.625295+00:00"
-    },
-    "017d9e11e8b3588b": {
-      "title": "喝多醉才算醉？康奈爾輪姦案指控揭「同意法」漏洞爭議",
-      "fetched_at": "2026-10-07T12:14:25.190354+00:00"
-    },
-    "057ff73d77033eb1": {
-      "title": "在俄羅斯無人機轟炸中，烏克蘭鐵路冒著恐懼匍匐前進",
-      "fetched_at": "2026-10-07T12:14:25.803068+00:00"
-    },
-    "a7cf4b843d2e1ef9": {
-      "title": "俄羅斯鼠疫：死者名叫希皮洛娃，已有200接觸者被觀察",
-      "fetched_at": "2026-10-07T12:14:26.388734+00:00"
-    },
-    "6ea503d911f44c7b": {
-      "title": "产能过剩背景下，中国汽车业走向并购重组时代",
-      "fetched_at": "2026-10-07T12:14:26.979211+00:00"
-    },
-    "d27616ea4e369981": {
-      "title": "中国当局为何要求中学生读《简·爱》？",
-      "fetched_at": "2026-10-07T12:14:27.558364+00:00"
-    },
-    "240ae1e7e162c25f": {
-      "title": "中国真的在窃取美国公司的人工智能技术吗？",
-      "fetched_at": "2026-10-07T12:14:28.144805+00:00"
-    },
-    "942c45877128c26f": {
-      "title": "美中同意互降关税，涉及商品价值600亿美元",
-      "fetched_at": "2026-10-07T12:14:28.720107+00:00"
-    },
-    "a2f8d0abd14dc1f2": {
-      "title": "人工智能末世論：為什麼有人相信AI是敵基督，誘騙人類崇拜撒旦",
-      "fetched_at": "2026-10-07T12:14:29.296643+00:00"
-    },
-    "9303d8ce05e685f4": {
-      "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
-      "fetched_at": "2026-10-07T12:14:29.874042+00:00"
-    },
-    "4a431e6b694c9a13": {
-      "title": "The Draconids, an unpredictable shower that can bring hundreds of meteors per minute, has begun",
-      "fetched_at": "2026-10-07T12:15:49.386470+00:00"
-    },
-    "20f0d75d7d3026f1": {
-      "title": "Woman 'saw dead people' and fired a gun at them after taking too many aspirin",
-      "fetched_at": "2026-10-07T12:15:49.964487+00:00"
-    },
-    "dcf23f9f23e6d0d8": {
-      "title": "Zombified cells may drive aging, and scientists are devising new ways to get rid of them",
-      "fetched_at": "2026-10-07T12:15:50.554128+00:00"
-    },
-    "56fb9eb0c87e88e2": {
-      "title": "Roboticists showcase tiny, frog-like robot that can hop across wet surfaces and swim",
-      "fetched_at": "2026-10-07T12:15:51.120232+00:00"
-    },
-    "3c5f642b615e3864": {
-      "title": "A new way to fight gum disease without wiping out good bacteria",
-      "fetched_at": "2026-10-07T12:15:51.688144+00:00"
-    },
-    "1791a24998d44f24": {
-      "title": "Humans may not be as hardwired for violence as we thought",
-      "fetched_at": "2026-10-07T12:15:52.288413+00:00"
-    },
-    "b504b675169fac2e": {
-      "title": "Animals may have evolved 200 million years earlier than we thought",
-      "fetched_at": "2026-10-07T12:15:52.860112+00:00"
-    },
-    "256938a8c8f17fab": {
-      "title": "What happens in the brain when cannabis makes you anxious?",
-      "fetched_at": "2026-10-07T12:15:53.441684+00:00"
-    },
-    "01f2124c0ee3bf7d": {
-      "title": "'Listen, father!': 1,700-year-old tomb discovered in Egypt contains a poem in ancient Greek and spells to protect the dead",
-      "fetched_at": "2026-10-07T12:15:54.085945+00:00"
-    },
     "00500a22cad4a61f": {
       "title": "Declass is a coding agent that keeps sensitive context on your machine",
       "fetched_at": "2026-10-07T22:23:58.345409+00:00"
@@ -3247,7 +3159,127 @@
     "34ef192edddaff15": {
       "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
       "fetched_at": "2026-10-15T10:31:18.510332+00:00"
+    },
+    "5ed93fa9e0bbfeec": {
+      "title": "Reddit Unveils AI Moderation; Old Reddit Is Restricted to Logged-In Users",
+      "fetched_at": "2026-10-15T15:54:34.551144+00:00"
+    },
+    "1e66940bf95b84c1": {
+      "title": "PRAISE (Preceptorship for AI-Accelerated Software Engineering)",
+      "fetched_at": "2026-10-15T15:54:35.172388+00:00"
+    },
+    "65f511c435b730c0": {
+      "title": "Show HN: Ghx – A caching proxy for GitHub CLI, built for AI agents",
+      "fetched_at": "2026-10-15T15:54:35.816572+00:00"
+    },
+    "21950a15245d5b0f": {
+      "title": "Catching AI Censorship in Translation",
+      "fetched_at": "2026-10-15T15:54:36.447862+00:00"
+    },
+    "5c57f23b92897b83": {
+      "title": "Altitude in Your AI Assistant",
+      "fetched_at": "2026-10-15T15:54:37.082477+00:00"
+    },
+    "979f2d7b84fa2cb4": {
+      "title": "GitHub AI Scan for pull requests is now generally available",
+      "fetched_at": "2026-10-15T15:54:37.710751+00:00"
+    },
+    "b9ed82fdf8524830": {
+      "title": "Show HN: CommonForge – Let clients' AI agents work in your codebase safely",
+      "fetched_at": "2026-10-15T15:54:38.335342+00:00"
+    },
+    "02997b1c801cf59f": {
+      "title": "Show HN: Mark – free, no-signup AI chat with quizzes, diagrams, and docs",
+      "fetched_at": "2026-10-15T15:54:38.971632+00:00"
+    },
+    "86c59020acb4b380": {
+      "title": "Ask HN: In the age of AI does your boss still ask you for time estimates?",
+      "fetched_at": "2026-10-15T15:54:39.686097+00:00"
+    },
+    "cf586f81ba6bc963": {
+      "title": "Datadog trained their own cheap SOTA SRE LLM [pdf]",
+      "fetched_at": "2026-10-15T15:54:40.327106+00:00"
+    },
+    "fd159c6208a6c446": {
+      "title": "AI agents are coming to Rivian’s cars",
+      "fetched_at": "2026-10-15T15:54:40.949993+00:00"
+    },
+    "86680d41be273426": {
+      "title": "Mr. Chatterbox-2.7B: An AI model trained on all-Victorian text",
+      "fetched_at": "2026-10-15T15:54:41.571740+00:00"
+    },
+    "557cf1ba5181b5d5": {
+      "title": "Show HN: GPT-2 124M trained from scratch – 2.48B tokens, 2.8h on 4 A40s",
+      "fetched_at": "2026-10-15T15:54:42.197443+00:00"
+    },
+    "d26748db484f6b23": {
+      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+      "fetched_at": "2026-10-15T15:54:42.815813+00:00"
+    },
+    "d64cfcc29fad5205": {
+      "title": "Nvidia Run:AI Is Now Open Source as Part of Nvidia DSX AI Factory Platform",
+      "fetched_at": "2026-10-15T15:54:43.436062+00:00"
+    },
+    "4a47bce5d7635a04": {
+      "title": "Why Your Mac Is Slow at Local AI (and It's Not the Chip) [video]",
+      "fetched_at": "2026-10-15T15:54:44.058139+00:00"
+    },
+    "fe74a81d17882d6e": {
+      "title": "LLM Addiction in Society Is Getting Out of Hand",
+      "fetched_at": "2026-10-15T15:54:44.681631+00:00"
+    },
+    "29ea453840085bb7": {
+      "title": "Using AI to reverse engineer hardware",
+      "fetched_at": "2026-10-15T15:54:45.309924+00:00"
+    },
+    "fa6d174edf9bef48": {
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "fetched_at": "2026-10-15T15:54:45.931216+00:00"
+    },
+    "fad40a91bbb9e1b5": {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "fetched_at": "2026-10-15T15:54:46.563599+00:00"
+    },
+    "5884309d4a7f2c16": {
+      "title": "新鴨綠江大橋閒置12年終開通：中朝關係回暖？",
+      "fetched_at": "2026-10-15T15:54:48.622329+00:00"
+    },
+    "9ee310d927d05bcf": {
+      "title": "中朝新鴨綠江大橋通車：北京、平壤與莫斯科的新格局",
+      "fetched_at": "2026-10-15T15:54:49.253617+00:00"
+    },
+    "ccda84fab30301e3": {
+      "title": "Mysterious hole in Neanderthal shoulder blade may have been a 'kill shot' from a wooden spear, according to archaeologists",
+      "fetched_at": "2026-10-15T15:54:52.708238+00:00"
+    },
+    "9fdca2b02ecc99d3": {
+      "title": "Show HN: Axiom, a general-purpose model for causal discovery",
+      "fetched_at": "2026-10-15T15:54:53.611492+00:00"
+    },
+    "04e11ec6c327df82": {
+      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+      "fetched_at": "2026-10-15T15:54:54.325424+00:00"
+    },
+    "af6027b99972eef5": {
+      "title": "Arctic sea ice hits another troubling low in 2026",
+      "fetched_at": "2026-10-15T15:54:54.943676+00:00"
+    },
+    "f6d0677fe5040c3e": {
+      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+      "fetched_at": "2026-10-15T15:54:55.563489+00:00"
+    },
+    "bbd79883be6838bc": {
+      "title": "Scientists discover a surprising danger in smaller cancer cells",
+      "fetched_at": "2026-10-15T15:54:56.184732+00:00"
+    },
+    "1c561ed3f8e01a90": {
+      "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
+      "fetched_at": "2026-10-15T15:54:56.815838+00:00"
+    },
+    "cf4df86f7afa6893": {
+      "title": "DuoDiscover: Scaling Autonomous Discovery Beyond the Evaluation Bottleneck",
+      "fetched_at": "2026-10-15T15:54:57.448956+00:00"
     }
   },
-  "last_updated": "2026-10-15T10:31:18.633012+00:00"
+  "last_updated": "2026-10-15T15:54:57.570245+00:00"
 }
