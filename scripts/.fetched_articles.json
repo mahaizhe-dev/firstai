@@ -1,157 +1,5 @@
 {
   "articles": {
-    "00500a22cad4a61f": {
-      "title": "Declass is a coding agent that keeps sensitive context on your machine",
-      "fetched_at": "2026-10-07T22:23:58.345409+00:00"
-    },
-    "8fd81f0a9b00bb1e": {
-      "title": "Lathe: AI Workspace for Hardware Design",
-      "fetched_at": "2026-10-07T22:23:58.906674+00:00"
-    },
-    "3cf11df4e3ca08a8": {
-      "title": "Man took his own life after 'sextortion' blackmail involving AI-generated woman",
-      "fetched_at": "2026-10-07T22:23:59.543625+00:00"
-    },
-    "9a23e17da62a28f0": {
-      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-      "fetched_at": "2026-10-07T22:24:00.107760+00:00"
-    },
-    "9c797d3c7fdee597": {
-      "title": "Show HN: Chloe is a TypeScript AI agent",
-      "fetched_at": "2026-10-07T22:24:00.678627+00:00"
-    },
-    "46c85e31fce33da4": {
-      "title": "Show HN: SheetRelay – Google Sheets as a back end for web pages and AI agents",
-      "fetched_at": "2026-10-07T22:24:01.239731+00:00"
-    },
-    "0e723b14a0568b78": {
-      "title": "Dave W Plummer: \"AI Cloning should be illegal\"",
-      "fetched_at": "2026-10-07T22:24:01.840089+00:00"
-    },
-    "8f4812718016227f": {
-      "title": "AI companies say rivals are distilling their models and why it's so hard to stop",
-      "fetched_at": "2026-10-07T22:24:02.400823+00:00"
-    },
-    "e6106fd34d7b8d34": {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "fetched_at": "2026-10-07T22:24:02.961131+00:00"
-    },
-    "f60defac5aba6f0c": {
-      "title": "Frontier AI Is Accelerating. Open Benchmarks Need to Keep Up",
-      "fetched_at": "2026-10-07T22:24:03.529754+00:00"
-    },
-    "ade7f57ca3f424cf": {
-      "title": "Google AI Edge Foresight – offline, private meeting transcripts",
-      "fetched_at": "2026-10-07T22:24:04.091471+00:00"
-    },
-    "ba4a8f7245df9741": {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "fetched_at": "2026-10-07T22:24:04.732933+00:00"
-    },
-    "919eb9aa267e2e69": {
-      "title": "How to turn your AI into a world-class designer",
-      "fetched_at": "2026-10-07T22:24:05.288423+00:00"
-    },
-    "4ec94cf70a4bc874": {
-      "title": "A New AI Agent Oriented Programming Language",
-      "fetched_at": "2026-10-07T22:24:05.878693+00:00"
-    },
-    "b616419d3de60648": {
-      "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
-      "fetched_at": "2026-10-07T22:24:06.437496+00:00"
-    },
-    "c17f64e8799de3fb": {
-      "title": "Claim Act drafted for AI libability discussion [pdf]",
-      "fetched_at": "2026-10-07T22:24:07.022684+00:00"
-    },
-    "1af1a24e29bb4a77": {
-      "title": "Eugenics, Silicon Valley, and AI: Ghost in the Machine [Documentary]",
-      "fetched_at": "2026-10-07T22:24:07.575796+00:00"
-    },
-    "f3d87a2c2484978d": {
-      "title": "AI has to replace the workers who were never born",
-      "fetched_at": "2026-10-07T22:24:08.131465+00:00"
-    },
-    "39a895771575959c": {
-      "title": "The Two Words the AI Industry Hates More Than Anything [video]",
-      "fetched_at": "2026-10-07T22:24:08.695704+00:00"
-    },
-    "8357b6f5d2f695d0": {
-      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-      "fetched_at": "2026-10-07T22:24:09.255209+00:00"
-    },
-    "cec604d1bae35d71": {
-      "title": "一名锡安教会被捕牧师妻子的流亡、煎熬与信仰",
-      "fetched_at": "2026-10-07T22:24:12.277119+00:00"
-    },
-    "84c1d931c488e236": {
-      "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
-      "fetched_at": "2026-10-07T22:24:12.834799+00:00"
-    },
-    "8a7604714dc36135": {
-      "title": "一对湾区夫妇被控枪杀跨性别女婿",
-      "fetched_at": "2026-10-07T22:24:13.397189+00:00"
-    },
-    "5141247776fe7c20": {
-      "title": "Scientists name ancient crocodile species",
-      "fetched_at": "2026-10-07T22:24:31.576079+00:00"
-    },
-    "308f652b545baf28": {
-      "title": "Scientists discover the genetic secrets that may have helped Jonathan the tortoise live to 194 years old",
-      "fetched_at": "2026-10-07T22:24:32.135873+00:00"
-    },
-    "fa98be8536c4f004": {
-      "title": "Coca Leaves Found in Llama Wool at Peru’s Tambo Viejo",
-      "fetched_at": "2026-10-07T22:24:32.703364+00:00"
-    },
-    "76fa5df443757862": {
-      "title": "Roman Settlement Found Near Ancient Fort in Germany",
-      "fetched_at": "2026-10-07T22:24:33.264647+00:00"
-    },
-    "155858ae3adb1b07": {
-      "title": "'It looks like a chimera' — 168 million years ago, a strange platypus-like mammal relative lived in China alongside dinosaurs",
-      "fetched_at": "2026-10-07T22:24:33.828576+00:00"
-    },
-    "26a7f11d560d973e": {
-      "title": "1,000-mile-long cloud that forms and vanishes on Mars every day obeys 'exotic physics' never seen on Earth",
-      "fetched_at": "2026-10-07T22:24:34.390520+00:00"
-    },
-    "97cf25353d451153": {
-      "title": "When Did People Arrive in the Americas?",
-      "fetched_at": "2026-10-07T22:24:34.954139+00:00"
-    },
-    "2702973a479926e5": {
-      "title": "'We stocked an RV as an emergency bugout vehicle': Readers share how prepared they are for a disaster",
-      "fetched_at": "2026-10-07T22:24:35.512775+00:00"
-    },
-    "836e4cfc1a719471": {
-      "title": "'Completely unexpected': Astronomers spy never-before-seen 'phoenix planet' rising from the ashes of a dead star",
-      "fetched_at": "2026-10-07T22:24:36.110734+00:00"
-    },
-    "4251e163a160e2b5": {
-      "title": "'Sexy Mantis,' obscene orangutan and prancing sparrowhawk feature in 2026 Nikon Comedy Wildlife Awards",
-      "fetched_at": "2026-10-07T22:24:36.689733+00:00"
-    },
-    "d5dd4a37336ae5a0": {
-      "title": "'Zombie cells' may drive aging, and scientists are devising new ways to get rid of them",
-      "fetched_at": "2026-10-07T22:24:37.251752+00:00"
-    },
-    "8bfb96d9b67b4814": {
-      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-      "fetched_at": "2026-10-07T22:24:37.851281+00:00"
-    },
-    "05cddbcbabdd1c51": {
-      "title": "Scientists changed how zoo lions eat. Their wild side came out",
-      "fetched_at": "2026-10-07T22:24:38.489927+00:00"
-    },
-    "6fe164ef4c1aa1d8": {
-      "title": "Physicists just found the ‘ghost’ of superconductivity",
-      "fetched_at": "2026-10-07T22:24:39.060881+00:00"
-    },
-    "675b9a96e78b3a8e": {
-      "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
-      "fetched_at": "2026-10-07T22:24:39.624957+00:00"
-    },
     "2c3e828706f30d67": {
       "title": "The AI Pascal's Wager",
       "fetched_at": "2026-10-08T03:24:44.061059+00:00"
@@ -3387,7 +3235,111 @@
     "916b0cdcc77ac0d5": {
       "title": "'We're not a competitor to fusion. We are fusion': Inside the race to harness unlimited solar power in space",
       "fetched_at": "2026-10-15T20:39:48.029540+00:00"
+    },
+    "fc48b1b508ed33dc": {
+      "title": "AI landing pages that don't look like AI. We killed AI slop. B",
+      "fetched_at": "2026-10-16T02:04:19.097916+00:00"
+    },
+    "d977d1b01c1ab3f9": {
+      "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+      "fetched_at": "2026-10-16T02:04:19.665523+00:00"
+    },
+    "59ef61f3f41c414d": {
+      "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
+      "fetched_at": "2026-10-16T02:04:20.237657+00:00"
+    },
+    "5fa0cbd64757de50": {
+      "title": "No AI. Just open a book, read it, and code whatever you want",
+      "fetched_at": "2026-10-16T02:04:20.871922+00:00"
+    },
+    "39cbf88b35f2bc31": {
+      "title": "What Nvidia's CEO thinks about the UK's AI future",
+      "fetched_at": "2026-10-16T02:04:21.439955+00:00"
+    },
+    "0827cfddfcba3916": {
+      "title": "Show HN: Sjq – Jq, but for AI Streaming",
+      "fetched_at": "2026-10-16T02:04:22.015873+00:00"
+    },
+    "33c1ef8a599c9a4b": {
+      "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+      "fetched_at": "2026-10-16T02:04:22.615932+00:00"
+    },
+    "ca90cfcbd331dbd5": {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "fetched_at": "2026-10-16T02:04:23.206438+00:00"
+    },
+    "ba11f1883b71a480": {
+      "title": "What causes AI fatigue for engineers and how to ease the strain",
+      "fetched_at": "2026-10-16T02:04:23.791182+00:00"
+    },
+    "6a47167f9571827d": {
+      "title": "Free-AI-tools – Curated list of free and low cost AI tools",
+      "fetched_at": "2026-10-16T02:04:24.370839+00:00"
+    },
+    "7bbc5c61f5be915f": {
+      "title": "GPT-Live-1.1 – New voices. Better accents. Less \"checking.\"",
+      "fetched_at": "2026-10-16T02:04:24.944610+00:00"
+    },
+    "bc1265e0a45cff12": {
+      "title": "No More Heroes – Terence Tao Talks to Numberphile About AI [video]",
+      "fetched_at": "2026-10-16T02:04:25.532798+00:00"
+    },
+    "ec0101c6e81ddaf5": {
+      "title": "A tool to compare LLM benchmarks",
+      "fetched_at": "2026-10-16T02:04:26.103867+00:00"
+    },
+    "22e88f769e5b3e15": {
+      "title": "Show HN: My AI induced mania in embedded computer graphics engineering [video]",
+      "fetched_at": "2026-10-16T02:04:26.690304+00:00"
+    },
+    "c0d65b9d7e45895d": {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "fetched_at": "2026-10-16T02:04:27.258187+00:00"
+    },
+    "28dc86064e021f70": {
+      "title": "SK Hynix Unveils Next-Generation Memory Roadmap to Address AI Bottlenecks",
+      "fetched_at": "2026-10-16T02:04:27.844627+00:00"
+    },
+    "10c7c6fb62bed3e1": {
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "fetched_at": "2026-10-16T02:04:28.416665+00:00"
+    },
+    "15320dbf20b718cf": {
+      "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+      "fetched_at": "2026-10-16T02:04:28.985522+00:00"
+    },
+    "ff6b7e25e06066b9": {
+      "title": "We're not ready for superpersistent AI",
+      "fetched_at": "2026-10-16T02:04:29.575204+00:00"
+    },
+    "8b4da5d0cc8c45e2": {
+      "title": "Will AI soon lead to double-digit growth?",
+      "fetched_at": "2026-10-16T02:04:30.138867+00:00"
+    },
+    "6dea0faab5b4d9fa": {
+      "title": "中国车企成巴黎车展焦点，加速布局欧洲市场",
+      "fetched_at": "2026-10-16T02:04:32.513932+00:00"
+    },
+    "7ca5f7bab2de18cc": {
+      "title": "新鸭绿江大桥通车，中朝贸易关系升温",
+      "fetched_at": "2026-10-16T02:04:33.082822+00:00"
+    },
+    "2e241b182f898cdc": {
+      "title": "「日子難熬」：美國人苦苦應對不斷上漲的通貨膨脹",
+      "fetched_at": "2026-10-16T02:04:33.672754+00:00"
+    },
+    "18b22e2984be6210": {
+      "title": "中國製造的玩具如何從工廠到美國？",
+      "fetched_at": "2026-10-16T02:04:34.241768+00:00"
+    },
+    "8a3aae07de1303c0": {
+      "title": "AI Research Tools – Literature Discovery, LaTeX and Reproducibility",
+      "fetched_at": "2026-10-16T02:05:13.313042+00:00"
+    },
+    "0e901cd415bf9fcd": {
+      "title": "Possible Fatal Wound Identified in Neanderthal Bone",
+      "fetched_at": "2026-10-16T02:05:13.893255+00:00"
     }
   },
-  "last_updated": "2026-10-15T20:39:48.100987+00:00"
+  "last_updated": "2026-10-16T02:05:14.024243+00:00"
 }
