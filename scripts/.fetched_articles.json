@@ -1,173 +1,5 @@
 {
   "articles": {
-    "9dab90debab2888f": {
-      "title": "Female AI agents 'paid' less than males, study finds",
-      "fetched_at": "2026-10-08T22:36:56.146235+00:00"
-    },
-    "a54bf710458474f1": {
-      "title": "Build and Train a 25M Parameter LLM from Scratch on Your CPU",
-      "fetched_at": "2026-10-08T22:36:56.777959+00:00"
-    },
-    "dc22c02460ad0b88": {
-      "title": "3JSBench: A benchmark for LLM-generated 3D objects",
-      "fetched_at": "2026-10-08T22:36:57.408458+00:00"
-    },
-    "8d349241ed52de43": {
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "fetched_at": "2026-10-08T22:36:58.051171+00:00"
-    },
-    "75a11d8e1417f497": {
-      "title": "The operating system for AI harnesses",
-      "fetched_at": "2026-10-08T22:36:58.679096+00:00"
-    },
-    "05c239a1457fb736": {
-      "title": "'Suno is the new auto-tune': Meet the artists using AI to go viral",
-      "fetched_at": "2026-10-08T22:36:59.306090+00:00"
-    },
-    "c37d9b03c8e765f8": {
-      "title": "Vosti: Specifying, Implementing, and Verifying Deterministic LLM Inference",
-      "fetched_at": "2026-10-08T22:36:59.963146+00:00"
-    },
-    "a215e3a08ed9e87e": {
-      "title": "Cybersecurity Imperatives Will Demand AI Math",
-      "fetched_at": "2026-10-08T22:37:00.584524+00:00"
-    },
-    "adc39bfd6fd598ec": {
-      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-      "fetched_at": "2026-10-08T22:37:01.213177+00:00"
-    },
-    "79543f6c27c0cd6b": {
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "fetched_at": "2026-10-08T22:37:01.872935+00:00"
-    },
-    "8fbf310e81bc973a": {
-      "title": "Measure how engineers and teams work with AI",
-      "fetched_at": "2026-10-08T22:37:02.533694+00:00"
-    },
-    "a5ce5697785f1a0f": {
-      "title": "Show HN: Anvil, offline LLM chat and SDXL image generation on iPhone",
-      "fetched_at": "2026-10-08T22:37:03.170311+00:00"
-    },
-    "b7d0d32948cd89f9": {
-      "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
-      "fetched_at": "2026-10-08T22:37:03.803559+00:00"
-    },
-    "592764e0ef60e8dc": {
-      "title": "Is AI the End of Math as We Know It?",
-      "fetched_at": "2026-10-08T22:37:04.437840+00:00"
-    },
-    "82ae874f62a198ff": {
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "fetched_at": "2026-10-08T22:37:05.064685+00:00"
-    },
-    "da58c8c0f301e146": {
-      "title": "AI Reflections of a New Grad Engineer",
-      "fetched_at": "2026-10-08T22:37:05.686796+00:00"
-    },
-    "f9c2862cc60f23c8": {
-      "title": "AI, the peacock's tail and bullshit jobs",
-      "fetched_at": "2026-10-08T22:37:06.318552+00:00"
-    },
-    "e321c4365bfaa923": {
-      "title": "Show HN: LLM Motion Graphics Benchmark",
-      "fetched_at": "2026-10-08T22:37:06.962041+00:00"
-    },
-    "7b5438f77d1df2e9": {
-      "title": "Speed over Safety: Why China Won't Slow Down AI",
-      "fetched_at": "2026-10-08T22:37:07.583548+00:00"
-    },
-    "84753930a7f26f44": {
-      "title": "Model Collapse Isn't New, nor Is It Specific to AI",
-      "fetched_at": "2026-10-08T22:37:08.213546+00:00"
-    },
-    "53ef6e9f7d4fee42": {
-      "title": "俄羅斯鼠疫會引發一場全球疫情嗎？",
-      "fetched_at": "2026-10-08T22:37:12.018315+00:00"
-    },
-    "884235299bb684bb": {
-      "title": "貓眼如何啟發機器人的照相機技術發展",
-      "fetched_at": "2026-10-08T22:37:12.666816+00:00"
-    },
-    "b2af7330a4e76400": {
-      "title": "特朗普排除美中合作開發人工智能",
-      "fetched_at": "2026-10-08T22:37:13.279072+00:00"
-    },
-    "e56e3b15d231f571": {
-      "title": "OpenAI曾无视员工关于其人工智能安全问题的警告",
-      "fetched_at": "2026-10-08T22:37:13.938529+00:00"
-    },
-    "48fd1c168da1c943": {
-      "title": "恋爱结婚效率为上？日本单身年轻人走进婚介所",
-      "fetched_at": "2026-10-08T22:37:14.575615+00:00"
-    },
-    "29393d5901de33b0": {
-      "title": "特朗普令美国面临三重病毒威胁",
-      "fetched_at": "2026-10-08T22:37:15.195949+00:00"
-    },
-    "d02dc289f945b69c": {
-      "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
-      "fetched_at": "2026-10-08T22:37:15.831673+00:00"
-    },
-    "c9a5265f07e6c418": {
-      "title": "Big dogs age faster at an epigenetic level, new study finds",
-      "fetched_at": "2026-10-08T22:37:18.310854+00:00"
-    },
-    "a2f7ed6872b7a2e8": {
-      "title": "'Freakish' discovery of 9 million-year-old capybara tooth supports idea that Atacama wasn't always a desert",
-      "fetched_at": "2026-10-08T22:37:18.927041+00:00"
-    },
-    "ff91873ae4a3f11b": {
-      "title": "Bone Comb Unearthed at South Carolina Colonial Town",
-      "fetched_at": "2026-10-08T22:37:19.568635+00:00"
-    },
-    "a56a272cd13c0b58": {
-      "title": "James Webb telescope pinpoints the most distant 'fast radio burst' ever seen",
-      "fetched_at": "2026-10-08T22:37:20.214845+00:00"
-    },
-    "b72acfc27af87916": {
-      "title": "The Milky Way is one galaxy — but it used to be thousands, new simulations reveal",
-      "fetched_at": "2026-10-08T22:37:20.843165+00:00"
-    },
-    "3216ada78de12064": {
-      "title": "Scandinavian Domestic Burials Studied",
-      "fetched_at": "2026-10-08T22:37:21.468698+00:00"
-    },
-    "c82b2c38762acc43": {
-      "title": "Ring with Lighthouse of Alexandria Image Recovered",
-      "fetched_at": "2026-10-08T22:37:22.095524+00:00"
-    },
-    "0711753c938b0452": {
-      "title": "Would you trust AI to calculate your true 'biological age'?",
-      "fetched_at": "2026-10-08T22:37:22.760699+00:00"
-    },
-    "007ed4751c9e061a": {
-      "title": "The central Pacific Ocean just broke a temperature record. Experts say it might signal a new kind of El Niño.",
-      "fetched_at": "2026-10-08T22:37:23.385373+00:00"
-    },
-    "81cd2b8d8bcff08f": {
-      "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
-      "fetched_at": "2026-10-08T22:37:24.009013+00:00"
-    },
-    "2dc332c667039e22": {
-      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-      "fetched_at": "2026-10-08T22:37:24.638892+00:00"
-    },
-    "ddd808985a73fd70": {
-      "title": "This “golden tree” coral was too strange for any known family",
-      "fetched_at": "2026-10-08T22:37:25.280190+00:00"
-    },
-    "3f4505c5ef8e5e21": {
-      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
-      "fetched_at": "2026-10-08T22:37:26.007739+00:00"
-    },
-    "1254056f979a8521": {
-      "title": "NASA is searching for hidden caves to build its first Moon base",
-      "fetched_at": "2026-10-08T22:37:26.639742+00:00"
-    },
-    "cfda59340efcc2ab": {
-      "title": "Einstein Probe reveals a hidden phase of neutron star collisions",
-      "fetched_at": "2026-10-08T22:37:27.259928+00:00"
-    },
     "7806be85e540f32f": {
       "title": "AI Economist, an installable agent skill for macro nowcasting",
       "fetched_at": "2026-10-09T03:30:36.122373+00:00"
@@ -3335,7 +3167,19 @@
     "6483e636e8e2fd77": {
       "title": "OpenAI claims we've entered the AGI era — has GPT-6 Astra really demonstrated general intelligence?",
       "fetched_at": "2026-10-16T20:11:53.388918+00:00"
+    },
+    "ae772a9902cfe35e": {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "fetched_at": "2026-10-17T01:58:33.388192+00:00"
+    },
+    "0247a35e3382f6eb": {
+      "title": "Archaeologists discover the oldest dwelling in the Western Hemisphere at a 13,800-year-old site in Alaska",
+      "fetched_at": "2026-10-17T01:58:38.444250+00:00"
+    },
+    "fdc2d798a239cb67": {
+      "title": "Physicists froze a 'necklace' of atoms — and witnessed a quantum phenomenon predicted 100 years ago",
+      "fetched_at": "2026-10-17T01:58:39.011927+00:00"
     }
   },
-  "last_updated": "2026-10-16T20:11:53.475021+00:00"
+  "last_updated": "2026-10-17T01:58:39.134613+00:00"
 }
