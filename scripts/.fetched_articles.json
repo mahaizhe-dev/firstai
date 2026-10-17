@@ -1,137 +1,5 @@
 {
   "articles": {
-    "e6637a63727e0bfb": {
-      "title": "How AI Is Upending the World of Mathematics",
-      "fetched_at": "2026-10-09T12:13:58.712763+00:00"
-    },
-    "6c9847b202debebd": {
-      "title": "Have your AI assistant book hotels",
-      "fetched_at": "2026-10-09T12:13:59.314495+00:00"
-    },
-    "11d2cb1a55c9c64c": {
-      "title": "AI leaders game out public revolt scenarios after catastrophic events",
-      "fetched_at": "2026-10-09T12:13:59.945372+00:00"
-    },
-    "b16574c5ae8f402e": {
-      "title": "Speakoflow – Free Voice Dictation and AI Assistant for Windows, macOS, and Linux",
-      "fetched_at": "2026-10-09T12:14:00.550106+00:00"
-    },
-    "57f145262a152442": {
-      "title": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
-      "fetched_at": "2026-10-09T12:14:01.150270+00:00"
-    },
-    "282cded1c2251934": {
-      "title": "A US charity plans to use AI to monitor its Gaza schools",
-      "fetched_at": "2026-10-09T12:14:01.763613+00:00"
-    },
-    "8cadf17ab122f705": {
-      "title": "I Use AI to Learn Things [video]",
-      "fetched_at": "2026-10-09T12:14:02.372752+00:00"
-    },
-    "808544f1c792d4b5": {
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-      "fetched_at": "2026-10-09T12:14:03.064039+00:00"
-    },
-    "641f0c7cb21fb0e6": {
-      "title": "We're putting too much faith in AI's ability to say no",
-      "fetched_at": "2026-10-09T12:14:03.689563+00:00"
-    },
-    "845126323fe21057": {
-      "title": "AI Assistants Transform Nuclear Power Plant Work",
-      "fetched_at": "2026-10-09T12:14:04.306731+00:00"
-    },
-    "2f97d7b05b6c55fc": {
-      "title": "My Space Cadet Pinball Machine Is Starting to Look Real [video]",
-      "fetched_at": "2026-10-09T12:14:04.908650+00:00"
-    },
-    "703a661081813dce": {
-      "title": "Show HN: Spectra – A drop-in optimizer that cuts LLM training VRAM by 50%",
-      "fetched_at": "2026-10-09T12:14:05.527737+00:00"
-    },
-    "c8d8f721bcf616cc": {
-      "title": "Samsung expects 780% quarterly operating profit jump on AI boom",
-      "fetched_at": "2026-10-09T12:14:06.145707+00:00"
-    },
-    "5e460a05019115e0": {
-      "title": "Docsy for AI Agents, Oh, and People Too",
-      "fetched_at": "2026-10-09T12:14:06.850314+00:00"
-    },
-    "bd9fac84ab8383d7": {
-      "title": "Stop Looking for the Best Way to Retrieve Context for AI Agents. Build a Router",
-      "fetched_at": "2026-10-09T12:14:07.455563+00:00"
-    },
-    "99742acaecf2a703": {
-      "title": "The Programmer's Job in an AI World",
-      "fetched_at": "2026-10-09T12:14:08.088973+00:00"
-    },
-    "c83e960384cd66eb": {
-      "title": "本周看什么 | 最近值得一看的 11 部作品",
-      "fetched_at": "2026-10-09T12:14:08.691735+00:00"
-    },
-    "07d313d59972e676": {
-      "title": "He Built Free, Open-Source Versions of Photoshop, Premiere, Lightroom with AI",
-      "fetched_at": "2026-10-09T12:14:09.285985+00:00"
-    },
-    "20abc8f7733e3081": {
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "fetched_at": "2026-10-09T12:14:09.931022+00:00"
-    },
-    "d21c36a08ec0f177": {
-      "title": "Show HN: Long term Memory and 50M token window for LLM",
-      "fetched_at": "2026-10-09T12:14:10.536121+00:00"
-    },
-    "a4a708787aad7a17": {
-      "title": "法國學生示威：憤怒背後隱藏著什麼？",
-      "fetched_at": "2026-10-09T12:14:13.239643+00:00"
-    },
-    "42ea7ee7af114ac3": {
-      "title": "扎克伯格有形象問題，為何Meta的業務卻蒸蒸日上？",
-      "fetched_at": "2026-10-09T12:14:13.929392+00:00"
-    },
-    "87dd85930560928b": {
-      "title": "AI无处不在：中国面临过度依赖人工智能的挑战",
-      "fetched_at": "2026-10-09T12:14:14.553951+00:00"
-    },
-    "a2a0b69817c65b2f": {
-      "title": "美國要網上直播軍法槍決胡德堡基地槍擊案兇手",
-      "fetched_at": "2026-10-09T12:14:15.156960+00:00"
-    },
-    "27425066f9343e18": {
-      "title": "美政府暂停微软等科技公司绿卡项目资格",
-      "fetched_at": "2026-10-09T12:14:15.899586+00:00"
-    },
-    "04fd0c5f2493684a": {
-      "title": "Bronze ring with Lighthouse of Alexandria engraving discovered at palace on submerged island in Egypt",
-      "fetched_at": "2026-10-09T12:14:18.186861+00:00"
-    },
-    "9a87f896d1fc2b17": {
-      "title": "South Korean 'robot dog' became first to run a marathon on a single battery charge — now we know how",
-      "fetched_at": "2026-10-09T12:14:18.808872+00:00"
-    },
-    "135fb0f3bc688d00": {
-      "title": "Scientists find hidden materials that could improve batteries and solar fuels",
-      "fetched_at": "2026-10-09T12:14:19.425424+00:00"
-    },
-    "170ef5debb5a373b": {
-      "title": "Bacteria turn a virus’ own weapon against it",
-      "fetched_at": "2026-10-09T12:14:20.065203+00:00"
-    },
-    "6273b49c0756ebd9": {
-      "title": "A 9-billion-year-old signal could help explain dark energy",
-      "fetched_at": "2026-10-09T12:14:20.688874+00:00"
-    },
-    "7ef3c2824d3a6a4b": {
-      "title": "A quantum prediction from 1931 just came to life",
-      "fetched_at": "2026-10-09T12:14:21.295203+00:00"
-    },
-    "dc9d49ae9ea8cbb4": {
-      "title": "NASA astronauts splash down after 100 million miles in space",
-      "fetched_at": "2026-10-09T12:14:21.966337+00:00"
-    },
-    "855300d5fb3e545d": {
-      "title": "October’s night sky is full of cosmic tricks and treats",
-      "fetched_at": "2026-10-09T12:14:22.559750+00:00"
-    },
     "c4ccb91e1c1b2542": {
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
       "fetched_at": "2026-10-09T21:58:15.830914+00:00"
@@ -3095,7 +2963,151 @@
     "1254056f979a8521": {
       "title": "NASA is searching for hidden caves to build its first Moon base",
       "fetched_at": "2026-10-17T09:51:38.278815+00:00"
+    },
+    "960c35f9e55c73d3": {
+      "title": "Ask HN: How are you all ensuring your AI code isn't slop?",
+      "fetched_at": "2026-10-17T14:34:59.215421+00:00"
+    },
+    "609c8dd6e2a8222e": {
+      "title": "\"thegentlemanpervert\" producing AI CSAM is a NJ prosecutor, say cops",
+      "fetched_at": "2026-10-17T14:34:59.798544+00:00"
+    },
+    "bc0cecb3aea4894b": {
+      "title": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
+      "fetched_at": "2026-10-17T14:35:00.388465+00:00"
+    },
+    "9454739e34e4a76b": {
+      "title": "Show HN: Roadster AI – Turn a photo of your car into a kickflip video",
+      "fetched_at": "2026-10-17T14:35:00.967529+00:00"
+    },
+    "70bc830ceb119f51": {
+      "title": "Illustrating the AI proof of the Mahler conjecture",
+      "fetched_at": "2026-10-17T14:35:01.558421+00:00"
+    },
+    "8511065799341265": {
+      "title": "Are You Sure Your LLM Is Sure?",
+      "fetched_at": "2026-10-17T14:35:02.140453+00:00"
+    },
+    "083c3d5ebf0b2933": {
+      "title": "Microsoft AI chief says the company beat OpenAI's models, using less compute",
+      "fetched_at": "2026-10-17T14:35:02.732308+00:00"
+    },
+    "b1328cac8ab664ba": {
+      "title": "Show HN: Vramkit – lossless VRAM compression for LLM inference, on a MacBook",
+      "fetched_at": "2026-10-17T14:35:03.336064+00:00"
+    },
+    "bb60c7ea7af4065d": {
+      "title": "FDE-Gym: The Last Mile of AI Delivery",
+      "fetched_at": "2026-10-17T14:35:03.937972+00:00"
+    },
+    "b0aacc1589757ce9": {
+      "title": "Rescue AI models with one click",
+      "fetched_at": "2026-10-17T14:35:04.559476+00:00"
+    },
+    "3370775fb2296367": {
+      "title": "AI Edge Foresight",
+      "fetched_at": "2026-10-17T14:35:05.139645+00:00"
+    },
+    "388e6e067d5ebb8e": {
+      "title": "Websites are closing their doors to AI agents",
+      "fetched_at": "2026-10-17T14:35:05.749821+00:00"
+    },
+    "e1f00a9ed16bcc98": {
+      "title": "Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)",
+      "fetched_at": "2026-10-17T14:35:06.356978+00:00"
+    },
+    "4a98289df3e5e847": {
+      "title": "What happens when AI can read our minds?",
+      "fetched_at": "2026-10-17T14:35:06.940855+00:00"
+    },
+    "44d2520cbb6994dc": {
+      "title": "As AI triggers a tsunami, computer science conferences impose caps",
+      "fetched_at": "2026-10-17T14:35:07.521908+00:00"
+    },
+    "0884d428392161d0": {
+      "title": "AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM",
+      "fetched_at": "2026-10-17T14:35:08.100620+00:00"
+    },
+    "a079775c8a0c4370": {
+      "title": "The AI Expectations Gap",
+      "fetched_at": "2026-10-17T14:35:08.693628+00:00"
+    },
+    "742b5d83e86701cb": {
+      "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+      "fetched_at": "2026-10-17T14:35:09.270827+00:00"
+    },
+    "501f2e4af38d5821": {
+      "title": "Amazon devices chief sees a future where AI devices replace the need to use apps",
+      "fetched_at": "2026-10-17T14:35:09.857552+00:00"
+    },
+    "79fcd020e5faff59": {
+      "title": "MAGS: Machine-checked guarantees on specified safety properties in AI code",
+      "fetched_at": "2026-10-17T14:35:10.466126+00:00"
+    },
+    "d1dfadadf76c7506": {
+      "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
+      "fetched_at": "2026-10-17T14:35:13.084375+00:00"
+    },
+    "fb9c5507b992560e": {
+      "title": "台灣AV盛極而衰：中國市場如何催生這場成人片熱潮？",
+      "fetched_at": "2026-10-17T14:35:13.674421+00:00"
+    },
+    "6b0172745e1c0dfd": {
+      "title": "California redwoods are struggling in the heat — and it's not clear how much damage is being done",
+      "fetched_at": "2026-10-17T14:35:23.319647+00:00"
+    },
+    "d9e637c95ece06ad": {
+      "title": "Is the brain actually 2 nervous systems smooshed together? A new study claims it is.",
+      "fetched_at": "2026-10-17T14:35:23.906014+00:00"
+    },
+    "8881bf0cabc64b30": {
+      "title": "Vector2Variant: Discovery of Genetic Associations Without Phenotype Engineering",
+      "fetched_at": "2026-10-17T14:35:24.500937+00:00"
+    },
+    "2f861ea6d02e631a": {
+      "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+      "fetched_at": "2026-10-17T14:35:25.087018+00:00"
+    },
+    "bfde5c5403339d34": {
+      "title": "This bird flies thousands of miles, but its wings have a catch",
+      "fetched_at": "2026-10-17T14:35:25.668104+00:00"
+    },
+    "1dc7c1701be1c1f2": {
+      "title": "Brain cells meant to protect us may be fueling cognitive decline",
+      "fetched_at": "2026-10-17T14:35:26.317598+00:00"
+    },
+    "a7de49450495081e": {
+      "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
+      "fetched_at": "2026-10-17T14:35:26.897369+00:00"
+    },
+    "c26aaf8792f94741": {
+      "title": "Claude CRISPR-like sequence may be a parallel discovery of unpublished research",
+      "fetched_at": "2026-10-17T14:35:27.486844+00:00"
+    },
+    "e6bb1ab31247dcac": {
+      "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+      "fetched_at": "2026-10-17T14:35:28.064161+00:00"
+    },
+    "87f0386878082a3f": {
+      "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
+      "fetched_at": "2026-10-17T14:35:28.649985+00:00"
+    },
+    "45cbdf1441808f33": {
+      "title": "Aspire: Agentic /Skills Discovery for Robotics",
+      "fetched_at": "2026-10-17T14:35:29.245827+00:00"
+    },
+    "8f853c37d509908b": {
+      "title": "SpaceX just delivered some very strange cargo to the International Space Station",
+      "fetched_at": "2026-10-17T14:35:29.860471+00:00"
+    },
+    "97f77c49a1418c83": {
+      "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
+      "fetched_at": "2026-10-17T14:35:30.439952+00:00"
+    },
+    "86a573d5a042185c": {
+      "title": "Bending the Curve of Discovery: AI in Science Today and Tomorrow",
+      "fetched_at": "2026-10-17T14:35:31.054611+00:00"
     }
   },
-  "last_updated": "2026-10-17T09:51:38.362186+00:00"
+  "last_updated": "2026-10-17T14:35:31.120281+00:00"
 }
