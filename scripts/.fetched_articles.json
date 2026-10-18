@@ -1,121 +1,5 @@
 {
   "articles": {
-    "c4ccb91e1c1b2542": {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "fetched_at": "2026-10-09T21:58:15.830914+00:00"
-    },
-    "22ec7ebd50a5e909": {
-      "title": "Teams too busy doing their job to experiment with AI are going to be replaced",
-      "fetched_at": "2026-10-09T21:58:16.418509+00:00"
-    },
-    "46456a32c35e0f6e": {
-      "title": "DIRU: Dendrite-inspired recurrent units for learning chaotic dynamics",
-      "fetched_at": "2026-10-09T21:58:17.003646+00:00"
-    },
-    "4c75f3b9825678c3": {
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "fetched_at": "2026-10-09T21:58:17.586878+00:00"
-    },
-    "b6dc5802288f9ab6": {
-      "title": "Autonomous AI Lamp",
-      "fetched_at": "2026-10-09T21:58:18.177516+00:00"
-    },
-    "91ca87535e32c789": {
-      "title": "AI companies plot \"the day after\"",
-      "fetched_at": "2026-10-09T21:58:18.769854+00:00"
-    },
-    "d417d31ee1b0c99a": {
-      "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi",
-      "fetched_at": "2026-10-09T21:58:19.374859+00:00"
-    },
-    "4438f20faefbe7c7": {
-      "title": "Show HN: Memdebug – See what changed in your AI agent's memory, and undo it",
-      "fetched_at": "2026-10-09T21:58:19.990376+00:00"
-    },
-    "6820a982ad69272a": {
-      "title": "Agent-history CLI – Fast OMZ/Bash cmd to jump between recent AI coding sessions",
-      "fetched_at": "2026-10-09T21:58:20.575727+00:00"
-    },
-    "260dd85a6fc718d4": {
-      "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has",
-      "fetched_at": "2026-10-09T21:58:21.152876+00:00"
-    },
-    "52b37d41156641de": {
-      "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
-      "fetched_at": "2026-10-09T21:58:21.735275+00:00"
-    },
-    "6c6c8444cddb1593": {
-      "title": "I Reverse Engineered a Popular iPad App with AI",
-      "fetched_at": "2026-10-09T21:58:22.387260+00:00"
-    },
-    "dcb1c21816511a47": {
-      "title": "An Anthropic AI model sent a false homicide tip to the police",
-      "fetched_at": "2026-10-09T21:58:22.977984+00:00"
-    },
-    "358398d074af4695": {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "fetched_at": "2026-10-09T21:58:23.558059+00:00"
-    },
-    "f74707ff0cdc4453": {
-      "title": "Agent swarms in business is AI larping",
-      "fetched_at": "2026-10-09T21:58:24.169999+00:00"
-    },
-    "a6b5a272107a3023": {
-      "title": "Show HN: Lacuna – open-source inline AI writing suggestions for your Mac",
-      "fetched_at": "2026-10-09T21:58:24.832222+00:00"
-    },
-    "cd331f8a37ae520d": {
-      "title": "Liquid AI d1: open decision models that answer in one forward pass",
-      "fetched_at": "2026-10-09T21:58:25.486207+00:00"
-    },
-    "4b893ef14828e31a": {
-      "title": "The Danger May Be AI as Dumb as Us",
-      "fetched_at": "2026-10-09T21:58:26.083447+00:00"
-    },
-    "be04b3a6c6018e9e": {
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "fetched_at": "2026-10-09T21:58:26.738420+00:00"
-    },
-    "bc77e3ab0685e279": {
-      "title": "Small Local AI Models – Can you prove them to be useful at all?",
-      "fetched_at": "2026-10-09T21:58:27.316988+00:00"
-    },
-    "3180b063adab0238": {
-      "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
-      "fetched_at": "2026-10-09T21:58:31.704317+00:00"
-    },
-    "1382b6c5aec822ca": {
-      "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
-      "fetched_at": "2026-10-09T21:58:32.285616+00:00"
-    },
-    "3c6f6e82b6cc514b": {
-      "title": "'October is the ideal time to get vaccinated': Flu season is kicking off early, experts say",
-      "fetched_at": "2026-10-09T21:58:34.523033+00:00"
-    },
-    "0c0ba864fd08ee45": {
-      "title": "Evidence for Agricultural Transition Identified in Cave Overlooking the Adriatic Sea",
-      "fetched_at": "2026-10-09T21:58:35.137085+00:00"
-    },
-    "1e0bc96c080ee4bc": {
-      "title": "More Stone Circles Uncovered at Ancient Burial Ground in Norway",
-      "fetched_at": "2026-10-09T21:58:35.788655+00:00"
-    },
-    "d74f0a6d7936bf5c": {
-      "title": "Gut Microbiome Analysis Links Populations in Africa and South America",
-      "fetched_at": "2026-10-09T21:58:36.365105+00:00"
-    },
-    "164eea8b4ee8ed9c": {
-      "title": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years.",
-      "fetched_at": "2026-10-09T21:58:36.940739+00:00"
-    },
-    "b8cfaad19240b2b2": {
-      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
-      "fetched_at": "2026-10-09T21:58:37.532318+00:00"
-    },
-    "87f19b3e866ea9c1": {
-      "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-      "fetched_at": "2026-10-09T21:58:38.132904+00:00"
-    },
     "01c44c0ecec14323": {
       "title": "Antigravity Excel Engine – Dual-Core Excel Automation for AI Agents",
       "fetched_at": "2026-10-10T03:10:24.466344+00:00"
@@ -3203,7 +3087,99 @@
     "855300d5fb3e545d": {
       "title": "October’s night sky is full of cosmic tricks and treats",
       "fetched_at": "2026-10-17T19:48:06.972540+00:00"
+    },
+    "2f0e85c4155837a0": {
+      "title": "What will AI do to our jobs and our wages? [video]",
+      "fetched_at": "2026-10-18T01:57:45.151868+00:00"
+    },
+    "479893b05ec79acc": {
+      "title": "Bookfolio: Free Books for Learning and Joyful Reading",
+      "fetched_at": "2026-10-18T01:57:45.773435+00:00"
+    },
+    "c6f3ede688ef4753": {
+      "title": "What 500 MiniMax Code Tests Revealed About AI Saying \"Done\"",
+      "fetched_at": "2026-10-18T01:57:46.394420+00:00"
+    },
+    "3b3a75e78b44cfcf": {
+      "title": "Drunken Goddess Reflux Public Demo Canceled over AI Imitation Concerns",
+      "fetched_at": "2026-10-18T01:57:47.015410+00:00"
+    },
+    "c2129503834cc2eb": {
+      "title": "Anthropic warns AI models could self-replicate across home devices",
+      "fetched_at": "2026-10-18T01:57:47.644446+00:00"
+    },
+    "a3fa5c80546262ae": {
+      "title": "Lazyagents – Lazygit for AI coding agents",
+      "fetched_at": "2026-10-18T01:57:48.267560+00:00"
+    },
+    "551a2c31b5ffff96": {
+      "title": "Blocking AI-bot can be a double-edged Sword",
+      "fetched_at": "2026-10-18T01:57:48.907298+00:00"
+    },
+    "d59a4c31231359ac": {
+      "title": "AI Reviews All-In",
+      "fetched_at": "2026-10-18T01:57:49.523717+00:00"
+    },
+    "54d421f29f5d6bf2": {
+      "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
+      "fetched_at": "2026-10-18T01:57:50.139691+00:00"
+    },
+    "09347279a034e37d": {
+      "title": "Decision Architecture: Governing Cybersecurity at Machine Speed",
+      "fetched_at": "2026-10-18T01:57:50.747552+00:00"
+    },
+    "36ce57a7717b492c": {
+      "title": "Romania names first AI minister: Bitdefender researcher Bogdan Dumitru",
+      "fetched_at": "2026-10-18T01:57:51.694006+00:00"
+    },
+    "70a37d1d04a81ba9": {
+      "title": "AI Infrastructure Index",
+      "fetched_at": "2026-10-18T01:57:52.315694+00:00"
+    },
+    "4308aa0f0eab6f6e": {
+      "title": "I run my one-person business with ~17 narrow AI agents",
+      "fetched_at": "2026-10-18T01:57:52.939799+00:00"
+    },
+    "e52cd0242fe81475": {
+      "title": "Does code quality still matter when AI writes the code?",
+      "fetched_at": "2026-10-18T01:57:53.563865+00:00"
+    },
+    "2659e6c4306203a7": {
+      "title": "Doctors, Lawyers and Engineers joining AI's $400-an-Hour gig economy",
+      "fetched_at": "2026-10-18T01:57:54.178033+00:00"
+    },
+    "da1763a5b2088749": {
+      "title": "Diogenes: AI microservices over L402, x402 and MCP (pay per call)",
+      "fetched_at": "2026-10-18T01:57:54.820777+00:00"
+    },
+    "397d470d7342ac9a": {
+      "title": "Abolish AI Manifesto",
+      "fetched_at": "2026-10-18T01:57:55.446668+00:00"
+    },
+    "cf3f72157c961714": {
+      "title": "Astrax – Open-source MCP server for Windows desktop AI control",
+      "fetched_at": "2026-10-18T01:57:56.082409+00:00"
+    },
+    "04eeadb95d340869": {
+      "title": "Gartner says only about 130 'AI agent' companies are real",
+      "fetched_at": "2026-10-18T01:57:56.712281+00:00"
+    },
+    "3e27f9d28ca53373": {
+      "title": "Measuring the exponential pace of AI-driven research",
+      "fetched_at": "2026-10-18T01:57:57.352900+00:00"
+    },
+    "a548b1616e7115dd": {
+      "title": "「我申請了200份工作」——用AI「撒網」投履歷為何容易弄巧成拙？",
+      "fetched_at": "2026-10-18T01:57:59.447285+00:00"
+    },
+    "b77fedfe523c5015": {
+      "title": "美國中國研究生涉嫌毒害越南同學：大學與受害者家屬怎麼說？",
+      "fetched_at": "2026-10-18T01:58:00.078086+00:00"
+    },
+    "25065249d1fccade": {
+      "title": "遊艇上的水上滑梯、泳池：衛星影像揭示的金正恩「夏宮」生活",
+      "fetched_at": "2026-10-18T01:58:00.707357+00:00"
     }
   },
-  "last_updated": "2026-10-17T19:48:07.090274+00:00"
+  "last_updated": "2026-10-18T01:58:22.066511+00:00"
 }
