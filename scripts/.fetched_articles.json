@@ -1,121 +1,5 @@
 {
   "articles": {
-    "208f5ee6c593c47d": {
-      "title": "The Universal LLM Server",
-      "fetched_at": "2026-10-11T21:11:18.980766+00:00"
-    },
-    "0826b39bee1cd439": {
-      "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
-      "fetched_at": "2026-10-11T21:11:19.559334+00:00"
-    },
-    "d9821f502e0b648d": {
-      "title": "Distorted Intelligence at the AI Frontier",
-      "fetched_at": "2026-10-11T21:11:20.138034+00:00"
-    },
-    "fca19213435eb897": {
-      "title": "The Ghost in the Pipe: Giving AI agents direct access to a live Smalltalk image",
-      "fetched_at": "2026-10-11T21:11:20.724397+00:00"
-    },
-    "62081cd5c5be53f4": {
-      "title": "Driving directions from LLM memory",
-      "fetched_at": "2026-10-11T21:11:21.345827+00:00"
-    },
-    "26f157e9c98178d8": {
-      "title": "What happens inside AI Chip when you ask a question",
-      "fetched_at": "2026-10-11T21:11:21.951276+00:00"
-    },
-    "0dc1c559333d6085": {
-      "title": "Ask HN: How do swarms of AI agents work?",
-      "fetched_at": "2026-10-11T21:11:22.526061+00:00"
-    },
-    "6f21f9706793db0d": {
-      "title": "Barnette's Conjecture proof AI explained",
-      "fetched_at": "2026-10-11T21:11:23.105030+00:00"
-    },
-    "11ddeafcd49db8f3": {
-      "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
-      "fetched_at": "2026-10-11T21:11:23.686702+00:00"
-    },
-    "8316f6bf99ae41de": {
-      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-      "fetched_at": "2026-10-11T21:11:24.266354+00:00"
-    },
-    "ded00156618b3f62": {
-      "title": "The Acemoglu-GANs Exchange on AI",
-      "fetched_at": "2026-10-11T21:11:24.844527+00:00"
-    },
-    "aae413bda33ba9ab": {
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "fetched_at": "2026-10-11T21:11:25.424948+00:00"
-    },
-    "5666d68321037502": {
-      "title": "Developer of AI driving instructor is spending $1k/month to keep demo running",
-      "fetched_at": "2026-10-11T21:11:26.005567+00:00"
-    },
-    "501f43cb911d2236": {
-      "title": "A global, hardwired pause of frontier AI training is feasible, says new report",
-      "fetched_at": "2026-10-11T21:11:26.696388+00:00"
-    },
-    "d495708f18d64c52": {
-      "title": "The Holy Grail in AI Marketing Will Make Everything Wonderfully Terrible",
-      "fetched_at": "2026-10-11T21:11:27.283954+00:00"
-    },
-    "9f199ae9c620ad97": {
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "fetched_at": "2026-10-11T21:11:28.034754+00:00"
-    },
-    "fd93885dd2246900": {
-      "title": "AI-Powered Plasma Cutting",
-      "fetched_at": "2026-10-11T21:11:28.697100+00:00"
-    },
-    "155f54dcf08c6a3f": {
-      "title": "Karpathy on Learning",
-      "fetched_at": "2026-10-11T21:11:29.282400+00:00"
-    },
-    "d2f75f209b7be6ef": {
-      "title": "Crawlable – We audited 50 top web apps for AI crawler readability",
-      "fetched_at": "2026-10-11T21:11:29.859635+00:00"
-    },
-    "6e22e15909d4eb64": {
-      "title": "Michael I. Jordan on AI: \"Superintelligence is science fiction\"",
-      "fetched_at": "2026-10-11T21:11:30.440671+00:00"
-    },
-    "c0807c81425a1f40": {
-      "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
-      "fetched_at": "2026-10-11T21:11:33.383318+00:00"
-    },
-    "79ac77eee5a2ca1c": {
-      "title": "Iroh Global Content Discovery",
-      "fetched_at": "2026-10-11T21:11:36.878840+00:00"
-    },
-    "4ec05e7fdc030bf2": {
-      "title": "What medieval people made of fossils before vertebrate paleontology",
-      "fetched_at": "2026-10-11T21:11:37.455340+00:00"
-    },
-    "d7374114cc395bdf": {
-      "title": "This protective enzyme could help stop fatty liver disease from getting worse",
-      "fetched_at": "2026-10-11T21:11:38.031810+00:00"
-    },
-    "312f28fb742b13e0": {
-      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
-      "fetched_at": "2026-10-11T21:11:38.618160+00:00"
-    },
-    "658570b62c7139a8": {
-      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
-      "fetched_at": "2026-10-11T21:11:39.203899+00:00"
-    },
-    "fe5bfa39bd3ee20e": {
-      "title": "Powerful simulations reveal how the first stars changed the universe",
-      "fetched_at": "2026-10-11T21:11:39.796500+00:00"
-    },
-    "2cc168a81bd67739": {
-      "title": "Leucine does more than build muscle. It powers up your cells",
-      "fetched_at": "2026-10-11T21:11:40.377856+00:00"
-    },
-    "04f5723f91a63cf4": {
-      "title": "NASA’s Roman telescope just opened its planet-hunting eye",
-      "fetched_at": "2026-10-11T21:11:40.966142+00:00"
-    },
     "536c3e316459c699": {
       "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
       "fetched_at": "2026-10-12T03:06:23.389894+00:00"
@@ -3039,7 +2923,119 @@
     "940adae6d3c398b0": {
       "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
       "fetched_at": "2026-10-19T17:55:02.021286+00:00"
+    },
+    "81a129dd0931ecb8": {
+      "title": "The fossil fuel comeback is here",
+      "fetched_at": "2026-10-19T21:49:53.025414+00:00"
+    },
+    "6d38b9bb6af3b023": {
+      "title": "Show HN: Accessibility Context for UI with AI",
+      "fetched_at": "2026-10-19T21:49:53.643073+00:00"
+    },
+    "9291a3787d6c1191": {
+      "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
+      "fetched_at": "2026-10-19T21:49:54.273225+00:00"
+    },
+    "55ce06f664ff0d29": {
+      "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
+      "fetched_at": "2026-10-19T21:49:54.881065+00:00"
+    },
+    "74de3cc566f60c7e": {
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "fetched_at": "2026-10-19T21:49:55.576701+00:00"
+    },
+    "b4a516414dbd58ab": {
+      "title": "Technocapitalist AI-Powered Blues",
+      "fetched_at": "2026-10-19T21:49:56.193462+00:00"
+    },
+    "f6d32560121d6aa4": {
+      "title": "Quizera – Create and deploy AI-assisted assessments in minutes",
+      "fetched_at": "2026-10-19T21:49:56.806522+00:00"
+    },
+    "9a78111c8f865e37": {
+      "title": "Scope: Open-source evaluation for AI coding agents",
+      "fetched_at": "2026-10-19T21:49:57.415799+00:00"
+    },
+    "670b270cee569edc": {
+      "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
+      "fetched_at": "2026-10-19T21:49:58.028677+00:00"
+    },
+    "05558963778d3a47": {
+      "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
+      "fetched_at": "2026-10-19T21:49:58.648294+00:00"
+    },
+    "c4698f1a91c697ea": {
+      "title": "Blocking the Internet Archive Will Not Stop AI",
+      "fetched_at": "2026-10-19T21:49:59.271095+00:00"
+    },
+    "4bf40df6c5696aa3": {
+      "title": "GPT Rosalind",
+      "fetched_at": "2026-10-19T21:49:59.891299+00:00"
+    },
+    "67fa73c4a7d643f8": {
+      "title": "Show HN: Taco - LLM compression that gives the same bytes on every CPU and GPU",
+      "fetched_at": "2026-10-19T21:50:00.521470+00:00"
+    },
+    "86a5a6ef61d34751": {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "fetched_at": "2026-10-19T21:50:01.135061+00:00"
+    },
+    "1566d1c0d1c5f7e5": {
+      "title": "Time to LLM Post",
+      "fetched_at": "2026-10-19T21:50:01.752400+00:00"
+    },
+    "97ced59f8d757d2a": {
+      "title": "Red Hat Engineering Director Uses AI to Tackle Linux's Undocumented Driver Woes",
+      "fetched_at": "2026-10-19T21:50:02.366308+00:00"
+    },
+    "84eb2566c5ea4901": {
+      "title": "Linus Torvalds' AI Code Improved: Performance Wins with Reworked Code",
+      "fetched_at": "2026-10-19T21:50:02.974976+00:00"
+    },
+    "7671581d7b6b1997": {
+      "title": "What is still hard to become good at as AI makes coding easier?",
+      "fetched_at": "2026-10-19T21:50:03.594290+00:00"
+    },
+    "c553852c5a00d055": {
+      "title": "Loud, Fast, and Everywhere: Anatomy of a Real AI-Driven Cloud Attack",
+      "fetched_at": "2026-10-19T21:50:04.343542+00:00"
+    },
+    "2cc355e9c5d7fa6c": {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "fetched_at": "2026-10-19T21:50:04.956626+00:00"
+    },
+    "6d699fc2c851c94f": {
+      "title": "11th-century 'pizza peel' discovered in Russia doubled as a medieval game board",
+      "fetched_at": "2026-10-19T21:50:09.790783+00:00"
+    },
+    "ec0a94faa9fbd76c": {
+      "title": "A gene variant triples the risk of getting Alzheimer's disease — fat buildup in brain cells may be to blame, study finds",
+      "fetched_at": "2026-10-19T21:50:10.407191+00:00"
+    },
+    "0d065dd0fee3b7fd": {
+      "title": "Bones of 2,000-Year-Old Lap Dog Unearthed in Eastern England",
+      "fetched_at": "2026-10-19T21:50:11.043783+00:00"
+    },
+    "18cddfaa0f4f3656": {
+      "title": "19th-Century Cemetery Excavated in Copenhagen",
+      "fetched_at": "2026-10-19T21:50:11.651272+00:00"
+    },
+    "9a0fb96665972ca4": {
+      "title": "Roads and Terraces Discovered Near Machu Picchu",
+      "fetched_at": "2026-10-19T21:50:12.263743+00:00"
+    },
+    "2194f8a282412348": {
+      "title": "'News reports tweaked the science to speak to contemporary anxieties': How Neanderthal extinction is a projection of our own, modern fears",
+      "fetched_at": "2026-10-19T21:50:12.880103+00:00"
+    },
+    "b00f327aba771cab": {
+      "title": "'Swamp-like colors' on the moon: NASA report reveals strange sights from Artemis II mission",
+      "fetched_at": "2026-10-19T21:50:13.504109+00:00"
+    },
+    "fc2abe4ee7cd2d2a": {
+      "title": "How did Roman aqueducts get water to go uphill?",
+      "fetched_at": "2026-10-19T21:50:14.130251+00:00"
     }
   },
-  "last_updated": "2026-10-19T17:55:02.145445+00:00"
+  "last_updated": "2026-10-19T21:50:14.240537+00:00"
 }
