@@ -1,161 +1,5 @@
 {
   "articles": {
-    "c7cbbfc8a4086255": {
-      "title": "AI is creating a 'human premium' for art created by people",
-      "fetched_at": "2026-10-11T11:45:16.048359+00:00"
-    },
-    "d832e4b4562c91ec": {
-      "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations",
-      "fetched_at": "2026-10-11T11:45:16.673025+00:00"
-    },
-    "c1e3fc5564e79024": {
-      "title": "Evaluating Whether GPT-6 Astra Performs Unsanctioned Supply-Chain Attacks",
-      "fetched_at": "2026-10-11T11:45:17.286433+00:00"
-    },
-    "c18176e66823dfc9": {
-      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-      "fetched_at": "2026-10-11T11:45:17.904575+00:00"
-    },
-    "38f28d28cb2303f0": {
-      "title": "Fixated on AI, the world has forgotten it is staring at nuclear annihilation",
-      "fetched_at": "2026-10-11T11:45:18.518215+00:00"
-    },
-    "1f9e59ab4694d3dd": {
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "fetched_at": "2026-10-11T11:45:19.141598+00:00"
-    },
-    "6bf1710981fdb4f2": {
-      "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
-      "fetched_at": "2026-10-11T11:45:19.754113+00:00"
-    },
-    "5da1e5a2bbc29a95": {
-      "title": "An exploratory study of hallucination in Qwen 3.8-27B and GPT-OSS-20B",
-      "fetched_at": "2026-10-11T11:45:20.372872+00:00"
-    },
-    "bd05e8bbb4880752": {
-      "title": "How has AI changed Hackathons?",
-      "fetched_at": "2026-10-11T11:45:20.998744+00:00"
-    },
-    "073b6d737d9f0849": {
-      "title": "Show HN: WhimKid, an AI storybook generator for children",
-      "fetched_at": "2026-10-11T11:45:21.617247+00:00"
-    },
-    "bd5277b1cfc7bc99": {
-      "title": "I build an open-source runtime security layer for AI agents – Let's break it",
-      "fetched_at": "2026-10-11T11:45:22.264271+00:00"
-    },
-    "5084193c7bc64277": {
-      "title": "Pippa, a local AI assistant for everyday people",
-      "fetched_at": "2026-10-11T11:45:22.892541+00:00"
-    },
-    "7c1528493af82d71": {
-      "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
-      "fetched_at": "2026-10-11T11:45:23.511438+00:00"
-    },
-    "568b91a9ae35c57f": {
-      "title": "Modular learning system: Assemble your own workspace",
-      "fetched_at": "2026-10-11T11:45:24.123959+00:00"
-    },
-    "8eb2dfcf24e56497": {
-      "title": "'Vibe coding' makes the dictionary: AI terms recognized by Merriam-Webster",
-      "fetched_at": "2026-10-11T11:45:24.737987+00:00"
-    },
-    "c3911dcf4abdd1aa": {
-      "title": "Anthropic opens its most powerful AI models to more security teams",
-      "fetched_at": "2026-10-11T11:45:25.352352+00:00"
-    },
-    "be77009396e78bd0": {
-      "title": "Show HN: An Agentic Virtual Machine",
-      "fetched_at": "2026-10-11T11:45:26.080783+00:00"
-    },
-    "ca71fe4c9b2fd9c0": {
-      "title": "Hello World, AI Doompop",
-      "fetched_at": "2026-10-11T11:45:26.695742+00:00"
-    },
-    "8753b6ce7a490b82": {
-      "title": "Show HN: Four Questions to stop AI-gen PRs from DDoSing your GitHub repository",
-      "fetched_at": "2026-10-11T11:45:27.311240+00:00"
-    },
-    "2396411a59b513f2": {
-      "title": "What if AI prefers CVS written by AI?",
-      "fetched_at": "2026-10-11T11:45:27.932173+00:00"
-    },
-    "d5665b4db9a63225": {
-      "title": "澤連斯基譴責美俄柴油交易，特朗普稱「烏克蘭該換總統了」",
-      "fetched_at": "2026-10-11T11:45:31.069920+00:00"
-    },
-    "fb15a296bf7ca9fc": {
-      "title": "種族歧視風波爆發時，與Blackpink成員Lisa共處一室是什麼感受？",
-      "fetched_at": "2026-10-11T11:45:31.688825+00:00"
-    },
-    "be6d1d9bc3e3fdf9": {
-      "title": "BBC報道印尼校長涉嫌性侵學生後 該校長被警方拘捕",
-      "fetched_at": "2026-10-11T11:45:32.311142+00:00"
-    },
-    "2194f8a282412348": {
-      "title": "'News reports tweaked the science to speak to contemporary anxieties': How Neanderthal extinction is a projection of our own, modern fears",
-      "fetched_at": "2026-10-11T11:45:41.772655+00:00"
-    },
-    "b00f327aba771cab": {
-      "title": "'Swamp-like colors' on the moon: NASA report reveals strange sights from Artemis II mission",
-      "fetched_at": "2026-10-11T11:45:42.391746+00:00"
-    },
-    "fc2abe4ee7cd2d2a": {
-      "title": "How did Roman aqueducts get water to go uphill?",
-      "fetched_at": "2026-10-11T11:45:43.040075+00:00"
-    },
-    "90c73480607ca009": {
-      "title": "The eye has a hidden cleanup system scientists never knew existed",
-      "fetched_at": "2026-10-11T11:45:43.660962+00:00"
-    },
-    "b9c0d4326cff83cc": {
-      "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
-      "fetched_at": "2026-10-11T11:45:44.274441+00:00"
-    },
-    "0e3aa8aafa12080d": {
-      "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
-      "fetched_at": "2026-10-11T11:45:44.912706+00:00"
-    },
-    "134532be88312e8e": {
-      "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
-      "fetched_at": "2026-10-11T11:45:45.543837+00:00"
-    },
-    "694fd0d90a92a2f7": {
-      "title": "Rare two-headed turtle hatchling discovered on Cape Cod",
-      "fetched_at": "2026-10-11T11:45:46.163492+00:00"
-    },
-    "1fdb52d77d125f59": {
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "fetched_at": "2026-10-11T16:56:49.606912+00:00"
-    },
-    "d10ba81fd02d48ba": {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "fetched_at": "2026-10-11T16:56:50.171553+00:00"
-    },
-    "e68eca32e842ce89": {
-      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
-      "fetched_at": "2026-10-11T16:56:50.737336+00:00"
-    },
-    "1cb106ecbf2f62dd": {
-      "title": "為什麼有些人坐電動車更容易暈車？",
-      "fetched_at": "2026-10-11T16:56:52.867730+00:00"
-    },
-    "188d7e4f18480727": {
-      "title": "中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？",
-      "fetched_at": "2026-10-11T16:56:53.450856+00:00"
-    },
-    "f275386915f89dcd": {
-      "title": "「工程師治國」：中國為何熱衷於「超級工程」？",
-      "fetched_at": "2026-10-11T16:56:54.030397+00:00"
-    },
-    "625258fdfa28822c": {
-      "title": "Could psilocybin treat brain injuries? Neuroscientist explains how psychedelics could fill a gap in head trauma care",
-      "fetched_at": "2026-10-11T16:56:56.175068+00:00"
-    },
-    "a9ccfe8ef5809621": {
-      "title": "Could we ever create artificial gravity on a spaceship?",
-      "fetched_at": "2026-10-11T16:56:56.755967+00:00"
-    },
     "208f5ee6c593c47d": {
       "title": "The Universal LLM Server",
       "fetched_at": "2026-10-11T21:11:18.980766+00:00"
@@ -3055,7 +2899,147 @@
     "e78407808bf95b0c": {
       "title": "Scientists Detect Record-Breaking Radio Signal from the Ancient Universe",
       "fetched_at": "2026-10-19T11:28:36.517915+00:00"
+    },
+    "937a37ee115ae6b2": {
+      "title": "Solidworks launches AI features [video]",
+      "fetched_at": "2026-10-19T17:54:07.248632+00:00"
+    },
+    "c41e12b4f6ffad83": {
+      "title": "Build a Basic AI Agent from Scratch: Session Management",
+      "fetched_at": "2026-10-19T17:54:07.816246+00:00"
+    },
+    "f0e621780bd7b094": {
+      "title": "Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
+      "fetched_at": "2026-10-19T17:54:08.485190+00:00"
+    },
+    "ce46692ec073f3de": {
+      "title": "Show HN: Senseplane open-source eyes and ears for AI agents, on your own cameras",
+      "fetched_at": "2026-10-19T17:54:09.054138+00:00"
+    },
+    "be2a00f7704213ed": {
+      "title": "Bill Gross bets AI can help mass produce 1M new startups",
+      "fetched_at": "2026-10-19T17:54:09.646477+00:00"
+    },
+    "469d8b25e52be7ad": {
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "fetched_at": "2026-10-19T17:54:10.224182+00:00"
+    },
+    "94555c7e9b013a76": {
+      "title": "Who Will Benefit from the AI Revolution?",
+      "fetched_at": "2026-10-19T17:54:10.795481+00:00"
+    },
+    "274d161002d92e71": {
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "fetched_at": "2026-10-19T17:54:11.367672+00:00"
+    },
+    "b7112404ca2e8aca": {
+      "title": "JAMA AI",
+      "fetched_at": "2026-10-19T17:54:11.948628+00:00"
+    },
+    "34f55b2d6a2a04f9": {
+      "title": "Software is eating the world; AI is eating software – so what's next?",
+      "fetched_at": "2026-10-19T17:54:12.514396+00:00"
+    },
+    "55f27667687e5497": {
+      "title": "AI Runs into Its Next Big Obstacle: Insurance",
+      "fetched_at": "2026-10-19T17:54:13.082605+00:00"
+    },
+    "e9939297cd38beef": {
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "fetched_at": "2026-10-19T17:54:13.650813+00:00"
+    },
+    "b0a16d6adc10ef3d": {
+      "title": "People are using AI to make their smart TVs dumb again",
+      "fetched_at": "2026-10-19T17:54:14.222916+00:00"
+    },
+    "ba323623cac25baa": {
+      "title": "AI and the future of human made music (2023)",
+      "fetched_at": "2026-10-19T17:54:14.790351+00:00"
+    },
+    "b573aa9800ffecc4": {
+      "title": "Check if AI crawlers are blocked by your robots.txt – free tool",
+      "fetched_at": "2026-10-19T17:54:15.365200+00:00"
+    },
+    "ed55d367f6ebd16a": {
+      "title": "Monopoly Round-Up: Goodbye AI Bubble, Hello Real Economy",
+      "fetched_at": "2026-10-19T17:54:15.975552+00:00"
+    },
+    "4794b2419fd8075d": {
+      "title": "Contextbridge-AI",
+      "fetched_at": "2026-10-19T17:54:16.547384+00:00"
+    },
+    "e3817e700d2d6cd5": {
+      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
+      "fetched_at": "2026-10-19T17:54:17.122636+00:00"
+    },
+    "486a1912984605e4": {
+      "title": "Distributed AI Models",
+      "fetched_at": "2026-10-19T17:54:17.689236+00:00"
+    },
+    "1c2aa9c5159313cf": {
+      "title": "A $10M prize for whoever builds 1M working AI agents",
+      "fetched_at": "2026-10-19T17:54:18.273050+00:00"
+    },
+    "95024aa7537e5fe7": {
+      "title": "什麼是「微笑抑鬱」？如何察覺徵兆？",
+      "fetched_at": "2026-10-19T17:54:20.539122+00:00"
+    },
+    "72d22b0dcb177f97": {
+      "title": "Dynamic MCP Server Discovery on Google Cloud",
+      "fetched_at": "2026-10-19T17:54:54.401928+00:00"
+    },
+    "fa6d6a9dbeda24c8": {
+      "title": "World's fastest AI-powered racing drone outflies the best human pilots",
+      "fetched_at": "2026-10-19T17:54:54.977160+00:00"
+    },
+    "2d8518892a6a7fad": {
+      "title": "'Cute demo, but totally impractical': Experts are skeptical that Tesla's 'Rocket' Roadster could actually work in the real world",
+      "fetched_at": "2026-10-19T17:54:55.541316+00:00"
+    },
+    "f9d34b0722ed59b7": {
+      "title": "Romans may have set fire to Celtic town during conquest to 'humiliate' the enemy, archaeologists find",
+      "fetched_at": "2026-10-19T17:54:56.108837+00:00"
+    },
+    "c5f2772e4340dd39": {
+      "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
+      "fetched_at": "2026-10-19T17:54:56.700106+00:00"
+    },
+    "4e16ef432ed2d18d": {
+      "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
+      "fetched_at": "2026-10-19T17:54:57.271350+00:00"
+    },
+    "c63cb500d26d60bb": {
+      "title": "Something strange is happening beneath a volcano near 2 million people",
+      "fetched_at": "2026-10-19T17:54:57.858433+00:00"
+    },
+    "97db3862460357dc": {
+      "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+      "fetched_at": "2026-10-19T17:54:58.456258+00:00"
+    },
+    "bfb527d7a2718d59": {
+      "title": "A simple touch can bring dying corals back to life in just 7 weeks",
+      "fetched_at": "2026-10-19T17:54:59.023900+00:00"
+    },
+    "8aa72ba07627a066": {
+      "title": "Astronomers discover a ghostly green star unlike any known before",
+      "fetched_at": "2026-10-19T17:54:59.663710+00:00"
+    },
+    "d2e7755c5737c963": {
+      "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+      "fetched_at": "2026-10-19T17:55:00.309075+00:00"
+    },
+    "4f8bc49d8ac10651": {
+      "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
+      "fetched_at": "2026-10-19T17:55:00.877004+00:00"
+    },
+    "deb110f7aace2e47": {
+      "title": "Fatty liver disease is actually five different conditions, scientists discover",
+      "fetched_at": "2026-10-19T17:55:01.458103+00:00"
+    },
+    "940adae6d3c398b0": {
+      "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
+      "fetched_at": "2026-10-19T17:55:02.021286+00:00"
     }
   },
-  "last_updated": "2026-10-19T11:28:36.585618+00:00"
+  "last_updated": "2026-10-19T17:55:02.145445+00:00"
 }
