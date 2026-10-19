@@ -1,117 +1,5 @@
 {
   "articles": {
-    "f5fe73a95c33cc03": {
-      "title": "Show HN: Tutor, a self-hosted LLM tutor that teaches you your books or docs",
-      "fetched_at": "2026-10-10T20:49:50.005113+00:00"
-    },
-    "f197ae28603df7b9": {
-      "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
-      "fetched_at": "2026-10-10T20:49:50.626107+00:00"
-    },
-    "7c22c550ff8f1801": {
-      "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
-      "fetched_at": "2026-10-10T20:49:51.252439+00:00"
-    },
-    "d4b2b0edf075e4d7": {
-      "title": "Try On-Device AI with FM",
-      "fetched_at": "2026-10-10T20:49:51.870498+00:00"
-    },
-    "4b50fba40de58449": {
-      "title": "Is AI conscious? Anthropic says 'maybe'",
-      "fetched_at": "2026-10-10T20:49:52.479294+00:00"
-    },
-    "3222ca4a55c4d224": {
-      "title": "The state of AI-assisted reverse-engineering of Apple Macs",
-      "fetched_at": "2026-10-10T20:49:53.098692+00:00"
-    },
-    "e3f6821bb6871aaa": {
-      "title": "Integrated Circuits, AI, and Wallabies",
-      "fetched_at": "2026-10-10T20:49:53.728787+00:00"
-    },
-    "c9e895a5236fb0da": {
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "fetched_at": "2026-10-10T20:49:54.466359+00:00"
-    },
-    "84dea87029db2323": {
-      "title": "Ask HN: What's your plan if AI takes your job?",
-      "fetched_at": "2026-10-10T20:49:55.088278+00:00"
-    },
-    "fe3e1bd364d4e9ce": {
-      "title": "I don't trust Lean code from AI",
-      "fetched_at": "2026-10-10T20:49:55.713582+00:00"
-    },
-    "fbc44c669851b43c": {
-      "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
-      "fetched_at": "2026-10-10T20:49:56.335519+00:00"
-    },
-    "bd3dc643bc961488": {
-      "title": "Google AI Edge Foresight – meeting notetaker on-device",
-      "fetched_at": "2026-10-10T20:49:56.954606+00:00"
-    },
-    "951bc5e133b7a616": {
-      "title": "AI and Bottlenecks in Software Production [pdf]",
-      "fetched_at": "2026-10-10T20:49:57.577815+00:00"
-    },
-    "7ea9168d3d59638c": {
-      "title": "Is AI Killing the Value of Human Writing?",
-      "fetched_at": "2026-10-10T20:49:58.201652+00:00"
-    },
-    "678872f0f49cc589": {
-      "title": "Ask HN: Why did Microsoft invest in AI that could rewrite its apps from scratch?",
-      "fetched_at": "2026-10-10T20:49:58.914138+00:00"
-    },
-    "ea64805389f4440f": {
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "fetched_at": "2026-10-10T20:49:59.581442+00:00"
-    },
-    "1a2f127ed05db0c8": {
-      "title": "Phonebox – Cloud Android phones for AI agents",
-      "fetched_at": "2026-10-10T20:50:00.202254+00:00"
-    },
-    "dbcd989e897e0ab2": {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "fetched_at": "2026-10-10T20:50:00.820345+00:00"
-    },
-    "b210c2f53d3dd9d7": {
-      "title": "Nvidia in talks to acquire Reflection AI (makers of Beam)",
-      "fetched_at": "2026-10-10T20:50:01.431448+00:00"
-    },
-    "0ebc02aa6f539423": {
-      "title": "Show HN: Flopper is a hardware explorer for AI infrastructure and beyond",
-      "fetched_at": "2026-10-10T20:50:02.043434+00:00"
-    },
-    "e78407808bf95b0c": {
-      "title": "Scientists Detect Record-Breaking Radio Signal from the Ancient Universe",
-      "fetched_at": "2026-10-10T20:50:09.183487+00:00"
-    },
-    "8157b4b0038dccae": {
-      "title": "Scientists may have found a shortcut to fusion energy",
-      "fetched_at": "2026-10-10T20:50:09.803818+00:00"
-    },
-    "42c0bf1aa99a5563": {
-      "title": "Loneliness may steal nearly 6 years of good health",
-      "fetched_at": "2026-10-10T20:50:10.417544+00:00"
-    },
-    "695e07c1136538a4": {
-      "title": "MIT astronomers catch a star in a feast that could last billions of years",
-      "fetched_at": "2026-10-10T20:50:11.135174+00:00"
-    },
-    "26f47176798f390a": {
-      "title": "A famous quantum effect can finally be predicted in real materials",
-      "fetched_at": "2026-10-10T20:50:11.740118+00:00"
-    },
-    "1bbc8dfad78070c7": {
-      "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
-      "fetched_at": "2026-10-10T20:50:12.353954+00:00"
-    },
-    "0c6382119cb7821a": {
-      "title": "Applying NASA's satellite-imaging trick to ancient museum objects",
-      "fetched_at": "2026-10-10T20:50:13.111689+00:00"
-    },
-    "f6cef97de9b1c64c": {
-      "title": "Hubble Space Telescope may have found a planet born after its star died",
-      "fetched_at": "2026-10-10T20:50:13.735130+00:00"
-    },
     "417cbe74a3a0399c": {
       "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
       "fetched_at": "2026-10-11T02:42:46.306878+00:00"
@@ -3087,7 +2975,31 @@
     "75466a69cfd0a488": {
       "title": "Does written language speed up or slow down cultural change?",
       "fetched_at": "2026-10-18T19:49:17.434678+00:00"
+    },
+    "a551569d9a715ac6": {
+      "title": "派早报：三季度全球手机出货量继续两位数下降",
+      "fetched_at": "2026-10-19T02:14:33.886066+00:00"
+    },
+    "bc428b396e48d7ab": {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "fetched_at": "2026-10-19T02:14:34.507615+00:00"
+    },
+    "9e9abca0a50e3c63": {
+      "title": "法国发生近年来最大规模骚乱，人们在抗议什么？",
+      "fetched_at": "2026-10-19T02:14:36.639137+00:00"
+    },
+    "da19cce1c105b445": {
+      "title": "泰国向中国电动汽车敞开大门，如今正付出代价",
+      "fetched_at": "2026-10-19T02:14:37.256524+00:00"
+    },
+    "9fae246099733e8d": {
+      "title": "矽谷這座城市垃圾太臭居民受不了 就讓科技來幫忙",
+      "fetched_at": "2026-10-19T02:14:37.876540+00:00"
+    },
+    "6577882153ef2b67": {
+      "title": "我們的廣告提到了「懷孕」 結果給 Instagram 下架了",
+      "fetched_at": "2026-10-19T02:14:38.518388+00:00"
     }
   },
-  "last_updated": "2026-10-18T19:49:17.549089+00:00"
+  "last_updated": "2026-10-19T02:14:39.567747+00:00"
 }
