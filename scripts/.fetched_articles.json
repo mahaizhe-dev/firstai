@@ -1,97 +1,5 @@
 {
   "articles": {
-    "417cbe74a3a0399c": {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "fetched_at": "2026-10-11T02:42:46.306878+00:00"
-    },
-    "58e7f083d4678775": {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "fetched_at": "2026-10-11T02:42:46.982518+00:00"
-    },
-    "258e6453beaf808f": {
-      "title": "Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]",
-      "fetched_at": "2026-10-11T02:42:47.603275+00:00"
-    },
-    "a38521c74d5e1170": {
-      "title": "GMKtec EVO-X3 Mini-PC Review Looking at a 128GB AMD Local AI Box",
-      "fetched_at": "2026-10-11T02:42:48.182601+00:00"
-    },
-    "47dcb24cf2868360": {
-      "title": "Ask HN: Resources for best practices in software development with AI?",
-      "fetched_at": "2026-10-11T02:42:48.836867+00:00"
-    },
-    "454d3b6785911e24": {
-      "title": "Why your AI agents can't reach the tools you're signed in to, and how to fix it",
-      "fetched_at": "2026-10-11T02:42:49.601147+00:00"
-    },
-    "b9f82ea5644692b4": {
-      "title": "Long-term memory for AI coding agents as a tree of plain files",
-      "fetched_at": "2026-10-11T02:42:50.254907+00:00"
-    },
-    "d0e5b8f6b9909b79": {
-      "title": "Generative AI scandal has come to one of Nikon's competitions",
-      "fetched_at": "2026-10-11T02:42:50.873918+00:00"
-    },
-    "9d86acb186101d11": {
-      "title": "LLM Pareto Frontier over time [video]",
-      "fetched_at": "2026-10-11T02:42:51.470564+00:00"
-    },
-    "170cc002b954f1d8": {
-      "title": "Microsoft CEO Nadella Calls for 'Emergency Brake' on Advanced AI",
-      "fetched_at": "2026-10-11T02:42:52.137276+00:00"
-    },
-    "2287020b31264d90": {
-      "title": "'AI slop' hides the conversations we should be having",
-      "fetched_at": "2026-10-11T02:42:52.712721+00:00"
-    },
-    "e3e97b2f7ce8a57c": {
-      "title": "PwnPad – hardware hacking platform built for practical learning",
-      "fetched_at": "2026-10-11T02:42:53.318159+00:00"
-    },
-    "f1a3dbaeb8900da3": {
-      "title": "A mountain of AI math, a few precious bytes",
-      "fetched_at": "2026-10-11T02:42:53.904805+00:00"
-    },
-    "d6a5ffb3ed922956": {
-      "title": "A Stark Warning from a Former AI Doomer",
-      "fetched_at": "2026-10-11T02:42:54.503280+00:00"
-    },
-    "e9510899e944d0ac": {
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "fetched_at": "2026-10-11T02:42:55.088419+00:00"
-    },
-    "eebad0ea89b195cc": {
-      "title": "We're All Working for AI Now",
-      "fetched_at": "2026-10-11T02:42:55.679302+00:00"
-    },
-    "6ca1da25cd94ba30": {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "fetched_at": "2026-10-11T02:42:56.355640+00:00"
-    },
-    "572e43b045d29991": {
-      "title": "Arrival Mind (children's book about AI risk – narrated)",
-      "fetched_at": "2026-10-11T02:42:56.933163+00:00"
-    },
-    "117952989bf7a159": {
-      "title": "Show HN: I built a macOS screensaver that reacts to AI coding agents",
-      "fetched_at": "2026-10-11T02:42:57.515664+00:00"
-    },
-    "372df06236c3b22b": {
-      "title": "Show HN: Try Free Long-Term Memory for AI 50M-Token Window",
-      "fetched_at": "2026-10-11T02:42:58.103888+00:00"
-    },
-    "29dbb3f6667a5f29": {
-      "title": "台北選戰掀美沙冬爭議 香港逾半世紀戒毒經驗有何啟示？",
-      "fetched_at": "2026-10-11T02:43:00.674523+00:00"
-    },
-    "95024aa7537e5fe7": {
-      "title": "什麼是「微笑抑鬱」？如何察覺徵兆？",
-      "fetched_at": "2026-10-11T02:43:01.272550+00:00"
-    },
-    "68e05072a5eb7b79": {
-      "title": "How prepared are you for a disaster?",
-      "fetched_at": "2026-10-11T02:43:06.916516+00:00"
-    },
     "c7cbbfc8a4086255": {
       "title": "AI is creating a 'human premium' for art created by people",
       "fetched_at": "2026-10-11T11:45:16.048359+00:00"
@@ -2999,7 +2907,155 @@
     "6577882153ef2b67": {
       "title": "我們的廣告提到了「懷孕」 結果給 Instagram 下架了",
       "fetched_at": "2026-10-19T02:14:38.518388+00:00"
+    },
+    "a8a9a91d6f7e4c35": {
+      "title": "Britain should reject the lure of cheap – and scary – Chinese AI",
+      "fetched_at": "2026-10-19T11:28:11.289144+00:00"
+    },
+    "a9f9cf466f4cef9f": {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "fetched_at": "2026-10-19T11:28:11.907017+00:00"
+    },
+    "a12ad26d8c0295d1": {
+      "title": "Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks",
+      "fetched_at": "2026-10-19T11:28:12.520209+00:00"
+    },
+    "9397a342357f3baf": {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to \"play.\"",
+      "fetched_at": "2026-10-19T11:28:13.138502+00:00"
+    },
+    "ad3fadafe8628b16": {
+      "title": "Top six AI spenders are spending more than the Russian govt. this year",
+      "fetched_at": "2026-10-19T11:28:13.753415+00:00"
+    },
+    "206e21eb910c04a7": {
+      "title": "Ask HN: What are the things LLM models fail at?",
+      "fetched_at": "2026-10-19T11:28:14.374725+00:00"
+    },
+    "b593f60625f90054": {
+      "title": "How AI is creating a lopsided US economy",
+      "fetched_at": "2026-10-19T11:28:15.008672+00:00"
+    },
+    "f39e510be745ec73": {
+      "title": "Show HN: CanaryGuard – A <0.1ms deterministic AI prompt firewall with $5 bounty",
+      "fetched_at": "2026-10-19T11:28:15.657471+00:00"
+    },
+    "ee476f6e6c0ca610": {
+      "title": "The Weak Points in AI Bonds Are Becoming Clearer",
+      "fetched_at": "2026-10-19T11:28:16.269634+00:00"
+    },
+    "f1a106b33870a306": {
+      "title": "Rebuilding the API edge for AI Agents",
+      "fetched_at": "2026-10-19T11:28:16.887852+00:00"
+    },
+    "9c1baf917d097d8a": {
+      "title": "Show HN: Gsearch – Real Google Search for AI Agents, via a Real Firefox (MCP)",
+      "fetched_at": "2026-10-19T11:28:17.512867+00:00"
+    },
+    "0b439802fc9c1d4e": {
+      "title": "Lend your AI wIthout giving away your keys.",
+      "fetched_at": "2026-10-19T11:28:18.139856+00:00"
+    },
+    "9374adf122aab395": {
+      "title": "派评 | 近期值得关注的 App",
+      "fetched_at": "2026-10-19T11:28:18.139954+00:00"
+    },
+    "d7a5da9d1fada530": {
+      "title": "Show HN: Free design canvas for your AI (open source)",
+      "fetched_at": "2026-10-19T11:28:18.783397+00:00"
+    },
+    "7d01edbd1e17fbb6": {
+      "title": "The Universe as a Test Harness: Meat AI and God's Admin Panel",
+      "fetched_at": "2026-10-19T11:28:19.413720+00:00"
+    },
+    "b656e155303c4c87": {
+      "title": "AI made the lean startup more important",
+      "fetched_at": "2026-10-19T11:28:20.028641+00:00"
+    },
+    "847ca349d6115a89": {
+      "title": "Show HN: Panel Font-AI Manga Translator",
+      "fetched_at": "2026-10-19T11:28:20.658118+00:00"
+    },
+    "4dc76ed0ae567823": {
+      "title": "Show HN: AI decision model plays Mortal Kombat II",
+      "fetched_at": "2026-10-19T11:28:21.339042+00:00"
+    },
+    "f950c1872a6cc12a": {
+      "title": "CacheVerifier, check if verifying LLM cache hits helps your traffic",
+      "fetched_at": "2026-10-19T11:28:21.949317+00:00"
+    },
+    "42e1e34a34c8dad7": {
+      "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
+      "fetched_at": "2026-10-19T11:28:22.560311+00:00"
+    },
+    "63b3a77230ab3796": {
+      "title": "《孤獨的美食家》：一個人吃飯，為什麼能紅遍全亞洲？",
+      "fetched_at": "2026-10-19T11:28:25.018571+00:00"
+    },
+    "c798f0df14f485e0": {
+      "title": "中國三季度增長4.5%但冷熱不均：出口暴增，樓市新開工面積暴跌",
+      "fetched_at": "2026-10-19T11:28:25.635914+00:00"
+    },
+    "a12ec22b1200bb83": {
+      "title": "BBC暫停公務員借調計劃",
+      "fetched_at": "2026-10-19T11:28:26.274604+00:00"
+    },
+    "360f7746e1af8bed": {
+      "title": "烏克蘭鋼企老闆稱：歐盟對華關稅殃及本國",
+      "fetched_at": "2026-10-19T11:28:26.904361+00:00"
+    },
+    "0bd623c0ee529fd4": {
+      "title": "中国第三季度经济增速微升：出口繁荣，消费停滞",
+      "fetched_at": "2026-10-19T11:28:27.522751+00:00"
+    },
+    "6bf5da81f7302df9": {
+      "title": "法國各地騷亂：19世紀歷史建築被焚燬 政客表態折射分歧",
+      "fetched_at": "2026-10-19T11:28:28.137740+00:00"
+    },
+    "f77c286d81e293bd": {
+      "title": "秘密线人和失踪的凶器：辛普森案尘封30年的谜团",
+      "fetched_at": "2026-10-19T11:28:28.763175+00:00"
+    },
+    "012bd6fbfbc03e91": {
+      "title": "尊界V800「煞車門」：從產品安全之爭到「恨國」論戰",
+      "fetched_at": "2026-10-19T11:28:29.386636+00:00"
+    },
+    "4247c696e8c396bc": {
+      "title": "白宫闹剧令共和党中期选举前景蒙上阴影",
+      "fetched_at": "2026-10-19T11:28:30.009431+00:00"
+    },
+    "fde5d7896d65366e": {
+      "title": "不止打击非法移民：今年年初美国合法移民数量削减一半",
+      "fetched_at": "2026-10-19T11:28:30.627727+00:00"
+    },
+    "c21733f4d46c2d04": {
+      "title": "“女版乔布斯”纪录片：硅谷惊天骗局的“真相”与现实",
+      "fetched_at": "2026-10-19T11:28:31.237355+00:00"
+    },
+    "6f7c28ce075fc67a": {
+      "title": "'Birdman' copper plate: A 700-year-old depiction of a Native American warrior that may be a woman holding a weapon and a severed head",
+      "fetched_at": "2026-10-19T11:28:33.356857+00:00"
+    },
+    "8abae08a2fe5a93a": {
+      "title": "Rising temperatures could boost pregnancy risks worldwide — here's how",
+      "fetched_at": "2026-10-19T11:28:33.990780+00:00"
+    },
+    "76d8d2b185ad8092": {
+      "title": "Show HN: Vibe coded a city builder set in ancient Rome",
+      "fetched_at": "2026-10-19T11:28:34.600058+00:00"
+    },
+    "28b666cdd4a140a2": {
+      "title": "Agentic Scientist, Orchestrator for Automated Scientific (Co-)Discovery",
+      "fetched_at": "2026-10-19T11:28:35.214151+00:00"
+    },
+    "2dcdf267cd1cce9e": {
+      "title": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
+      "fetched_at": "2026-10-19T11:28:35.839089+00:00"
+    },
+    "e78407808bf95b0c": {
+      "title": "Scientists Detect Record-Breaking Radio Signal from the Ancient Universe",
+      "fetched_at": "2026-10-19T11:28:36.517915+00:00"
     }
   },
-  "last_updated": "2026-10-19T02:14:39.567747+00:00"
+  "last_updated": "2026-10-19T11:28:36.585618+00:00"
 }
