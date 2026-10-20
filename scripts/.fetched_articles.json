@@ -1,117 +1,5 @@
 {
   "articles": {
-    "536c3e316459c699": {
-      "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
-      "fetched_at": "2026-10-12T03:06:23.389894+00:00"
-    },
-    "233ba348a177d03a": {
-      "title": "Flow state, the dinner rush and AI brain fry",
-      "fetched_at": "2026-10-12T03:06:24.024699+00:00"
-    },
-    "e8b3e2343226c28c": {
-      "title": "Website uses AI to generate northern Indigenous news 'correspondents'",
-      "fetched_at": "2026-10-12T03:06:24.649438+00:00"
-    },
-    "03060568808f5579": {
-      "title": "Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents",
-      "fetched_at": "2026-10-12T03:06:25.267283+00:00"
-    },
-    "f4022beb01675097": {
-      "title": "A local AI recording summarizer developed by Google",
-      "fetched_at": "2026-10-12T03:06:25.909384+00:00"
-    },
-    "bc53150cacff2bf8": {
-      "title": "AI coding agents generate more code, but not more software",
-      "fetched_at": "2026-10-12T03:06:26.555496+00:00"
-    },
-    "08101c779eb395ca": {
-      "title": "AI is changing how Lawyers work – and putting the billable hour under pressure",
-      "fetched_at": "2026-10-12T03:06:27.191489+00:00"
-    },
-    "9a86f86ddb4e2edb": {
-      "title": "Show HN: Drune – Personalize your AI and use it anywhere",
-      "fetched_at": "2026-10-12T03:06:27.829987+00:00"
-    },
-    "1625a2e17f01e289": {
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "fetched_at": "2026-10-12T03:06:28.460939+00:00"
-    },
-    "8f0525ec32de59bd": {
-      "title": "Ask HN: What to Build in the AI Era?",
-      "fetched_at": "2026-10-12T03:06:29.100610+00:00"
-    },
-    "8dd3a243df339a84": {
-      "title": "AI is less regulated than milk, says Microsoft president",
-      "fetched_at": "2026-10-12T03:06:29.735643+00:00"
-    },
-    "12859cb59a2bedae": {
-      "title": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
-      "fetched_at": "2026-10-12T03:06:30.381584+00:00"
-    },
-    "d965e27226151c9e": {
-      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
-      "fetched_at": "2026-10-12T03:06:31.015784+00:00"
-    },
-    "5d88aee5da0afb3a": {
-      "title": "Concrete Problems in AI Safety",
-      "fetched_at": "2026-10-12T03:06:31.651764+00:00"
-    },
-    "30f1e4a75550ab04": {
-      "title": "Show HN: Shpyrd – A new type of cloud for AI era",
-      "fetched_at": "2026-10-12T03:06:32.295239+00:00"
-    },
-    "bd7b8d4897e6eac6": {
-      "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
-      "fetched_at": "2026-10-12T03:06:32.959876+00:00"
-    },
-    "d3f723999471ce32": {
-      "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
-      "fetched_at": "2026-10-12T03:06:33.599630+00:00"
-    },
-    "8f8f80d800186d1c": {
-      "title": "HPE Unveils the First of the Next Generation of ProLiants for the AI Era",
-      "fetched_at": "2026-10-12T03:06:34.300045+00:00"
-    },
-    "8b59c42fd3766942": {
-      "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
-      "fetched_at": "2026-10-12T03:06:34.981156+00:00"
-    },
-    "2a3b800079b851a2": {
-      "title": "Jensen Huang thinks AI is going great",
-      "fetched_at": "2026-10-12T03:06:35.600494+00:00"
-    },
-    "eb90878c0e2ffe9d": {
-      "title": "一家中国小银行如何帮助俄罗斯规避制裁进入华尔街",
-      "fetched_at": "2026-10-12T03:06:37.932429+00:00"
-    },
-    "f5bb266acd9a431e": {
-      "title": "鼠疫疑云超一周，俄罗斯仍未作出官方解释",
-      "fetched_at": "2026-10-12T03:06:38.550845+00:00"
-    },
-    "0eb50ec3a27c0c0e": {
-      "title": "中欧就混动汽车贸易达成谅解，避免经贸摩擦升级",
-      "fetched_at": "2026-10-12T03:06:39.179447+00:00"
-    },
-    "e9da08c2e7c1945a": {
-      "title": "美國停止公開處決已近一個世紀，如今為何重啟？",
-      "fetched_at": "2026-10-12T03:06:39.814110+00:00"
-    },
-    "8bedbbfab905e118": {
-      "title": "緬甸年輕人的恐懼：走在街頭，隨時被「抓壯丁」賣給軍方",
-      "fetched_at": "2026-10-12T03:06:40.435866+00:00"
-    },
-    "4a3ebfb55c2f8de9": {
-      "title": "種族歧視風波爆發時，與Lisa共處一室是什麼感受？",
-      "fetched_at": "2026-10-12T03:06:41.124400+00:00"
-    },
-    "fc5bd233729a7623": {
-      "title": "1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say",
-      "fetched_at": "2026-10-12T03:06:43.469541+00:00"
-    },
-    "724c0b06ad684848": {
-      "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
-      "fetched_at": "2026-10-12T03:06:44.107448+00:00"
-    },
     "b188d879f64cee69": {
       "title": "Understanding the AI That Drives Robots",
       "fetched_at": "2026-10-12T13:48:02.969610+00:00"
@@ -3127,7 +3015,59 @@
     "c0807c81425a1f40": {
       "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
       "fetched_at": "2026-10-20T02:29:29.801340+00:00"
+    },
+    "ec4637bedfdf7ff3": {
+      "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
+      "fetched_at": "2026-10-20T10:34:19.095235+00:00"
+    },
+    "c40710666bfbb112": {
+      "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
+      "fetched_at": "2026-10-20T10:34:19.741555+00:00"
+    },
+    "28e57808a846d47c": {
+      "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+      "fetched_at": "2026-10-20T10:34:20.366180+00:00"
+    },
+    "a2942625da5b7570": {
+      "title": "緬甸軍政府：英王查爾斯贈書昂山素季",
+      "fetched_at": "2026-10-20T10:34:22.642338+00:00"
+    },
+    "75da3f47c1c7d3e1": {
+      "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
+      "fetched_at": "2026-10-20T10:34:23.260344+00:00"
+    },
+    "bc787c29df0ce218": {
+      "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
+      "fetched_at": "2026-10-20T10:34:23.885967+00:00"
+    },
+    "c96d90b623272b3b": {
+      "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們親述被性別冒犯的經歷",
+      "fetched_at": "2026-10-20T10:34:24.499294+00:00"
+    },
+    "96eb38262937e1ba": {
+      "title": "一个万亿美元的产业如何洗白“脏黄金”",
+      "fetched_at": "2026-10-20T10:34:25.126656+00:00"
+    },
+    "ec3a27db8f03ea33": {
+      "title": "泽连斯基称特朗普正试图迫使乌克兰在战争中投降",
+      "fetched_at": "2026-10-20T10:34:25.755244+00:00"
+    },
+    "c4c97d900d4749a0": {
+      "title": "澳洲國會議員遭汽車「蓄意」撞擊重傷： 我們目前所知情況",
+      "fetched_at": "2026-10-20T10:34:26.370357+00:00"
+    },
+    "adc13d97ad195658": {
+      "title": "意大利南部与北部同时爆发抗议浪潮",
+      "fetched_at": "2026-10-20T10:34:27.002332+00:00"
+    },
+    "5b4a1399b560c855": {
+      "title": "法國騷亂：巴黎局部宵禁 被劫商品現身二手平台",
+      "fetched_at": "2026-10-20T10:34:27.623679+00:00"
+    },
+    "5c001027135f9228": {
+      "title": "See pieces of Halley's Comet fall to Earth this week as the Orionid meteor shower peaks",
+      "fetched_at": "2026-10-20T10:34:29.800159+00:00"
     }
   },
-  "last_updated": "2026-10-20T02:29:32.620555+00:00"
+  "last_updated": "2026-10-20T10:34:29.886874+00:00"
 }
