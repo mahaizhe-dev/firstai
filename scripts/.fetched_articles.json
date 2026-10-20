@@ -1,161 +1,5 @@
 {
   "articles": {
-    "b188d879f64cee69": {
-      "title": "Understanding the AI That Drives Robots",
-      "fetched_at": "2026-10-12T13:48:02.969610+00:00"
-    },
-    "9207961446e7e758": {
-      "title": "Show HN: Remove AI Metadata Offline in Browser",
-      "fetched_at": "2026-10-12T13:48:03.593445+00:00"
-    },
-    "539e0eac91ef670b": {
-      "title": "Build a Basic AI Agent from Scratch: Memory",
-      "fetched_at": "2026-10-12T13:48:04.208363+00:00"
-    },
-    "1addc57b0e2542ef": {
-      "title": "The Mean Machine",
-      "fetched_at": "2026-10-12T13:48:04.867800+00:00"
-    },
-    "71a6b338076fc284": {
-      "title": "Releasing AI-Generated Software",
-      "fetched_at": "2026-10-12T13:48:05.494958+00:00"
-    },
-    "cc5129613effeead": {
-      "title": "AI Almost Solved Reverse Engineering [video]",
-      "fetched_at": "2026-10-12T13:48:06.130016+00:00"
-    },
-    "34dbf4f27ca4ca9d": {
-      "title": "Ask HN: How do you manage technical debt when coding with AI?",
-      "fetched_at": "2026-10-12T13:48:06.740387+00:00"
-    },
-    "91129c9a083df313": {
-      "title": "Hug this cuddly toy, and hear the piercing scream of real AI data centers",
-      "fetched_at": "2026-10-12T13:48:07.355114+00:00"
-    },
-    "a17bc0e25a5e4e1c": {
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "fetched_at": "2026-10-12T13:48:08.082294+00:00"
-    },
-    "12a3fc6b93d2b1d6": {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "fetched_at": "2026-10-12T13:48:08.706641+00:00"
-    },
-    "6c3ef4ca560c9b96": {
-      "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-      "fetched_at": "2026-10-12T13:48:09.329343+00:00"
-    },
-    "8b428ba921cb4a0d": {
-      "title": "When AI writes your code, DDD is more relevant",
-      "fetched_at": "2026-10-12T13:48:09.950195+00:00"
-    },
-    "b72dad53e9530f18": {
-      "title": "Interview: Drew DeVault on an AI-free version of Vim",
-      "fetched_at": "2026-10-12T13:48:10.585914+00:00"
-    },
-    "15ed05e4cabb2ce7": {
-      "title": "The Pangram Paradox: The Problem with AI \"Detecting\" Other AIs",
-      "fetched_at": "2026-10-12T13:48:11.318217+00:00"
-    },
-    "e04f545cf9635ba3": {
-      "title": "OpenStocks, a public earnings forecasting benchmark for AI agents",
-      "fetched_at": "2026-10-12T13:48:11.950610+00:00"
-    },
-    "45d05948456b2dac": {
-      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
-      "fetched_at": "2026-10-12T13:48:12.575428+00:00"
-    },
-    "ed531e6e53465564": {
-      "title": "The soul of maintaining a new machine",
-      "fetched_at": "2026-10-12T13:48:13.216127+00:00"
-    },
-    "05a293230a8b675b": {
-      "title": "Too Dumb for AI",
-      "fetched_at": "2026-10-12T13:48:13.838998+00:00"
-    },
-    "42afdd8f6c106d3a": {
-      "title": "Show HN: Ctxvitals – a vitals check for your AI agent stack (npx ctxvitals)",
-      "fetched_at": "2026-10-12T13:48:14.493052+00:00"
-    },
-    "8893fb4af0a01ac8": {
-      "title": "Dont Observe – Audit Your AI Agent",
-      "fetched_at": "2026-10-12T13:48:15.117749+00:00"
-    },
-    "50593ae86821ac74": {
-      "title": "胡塞武裝空襲對華重要窗口利雅德機場 中東衝突又一危險時刻",
-      "fetched_at": "2026-10-12T13:48:17.699278+00:00"
-    },
-    "ae7e953413259e27": {
-      "title": "貝安德：十年前英國脫歐公投俄羅斯「顯然」曾搞局",
-      "fetched_at": "2026-10-12T13:48:18.313952+00:00"
-    },
-    "48f87247bafe42a0": {
-      "title": "特朗普計劃從俄羅斯進口柴油 反對聲浪趨漲",
-      "fetched_at": "2026-10-12T13:48:18.948241+00:00"
-    },
-    "ef3f223e4c4365dd": {
-      "title": "走進印度新一輪Z世代主導的「蟑螂」抗議",
-      "fetched_at": "2026-10-12T13:48:19.563615+00:00"
-    },
-    "0dc8ba5eb17c0918": {
-      "title": "从新冠到疑似鼠疫：我们能遏制下一场大瘟疫吗？",
-      "fetched_at": "2026-10-12T13:48:20.194431+00:00"
-    },
-    "0106ab64e05469e7": {
-      "title": "俄罗斯鼠疫疑云：当局含糊表述加剧外界恐惧",
-      "fetched_at": "2026-10-12T13:48:20.804573+00:00"
-    },
-    "b354b78fae0fad1e": {
-      "title": "“草木皆兵”：一个更富裕强大的中国在害怕什么？",
-      "fetched_at": "2026-10-12T13:48:21.431597+00:00"
-    },
-    "1a1b70bcd2acbd67": {
-      "title": "Mathematics as a new Age of Discovery (and what they might find)",
-      "fetched_at": "2026-10-12T13:48:26.136322+00:00"
-    },
-    "c945d4e5481ad312": {
-      "title": "7 extraordinary Indigenous sites in the US, from Chaco Canyon to Chimney Rock",
-      "fetched_at": "2026-10-12T13:48:26.766162+00:00"
-    },
-    "279da28e1672dbd5": {
-      "title": "Inuit figurine: A 700-year-old Indigenous carving of a European made a century before Columbus",
-      "fetched_at": "2026-10-12T13:48:27.384118+00:00"
-    },
-    "6688eff1b813bd27": {
-      "title": "'It could have been a very different history': Researchers are finally starting to pin down how many Indigenous people were living in the Americas when Columbus arrived",
-      "fetched_at": "2026-10-12T13:48:27.997762+00:00"
-    },
-    "f661a695ef46dda3": {
-      "title": "Scientists discover a hidden factor that can make or break chemical reactions",
-      "fetched_at": "2026-10-12T13:48:28.618405+00:00"
-    },
-    "d29af76c1c8377af": {
-      "title": "Scientists discover vanilla’s hidden healing potential",
-      "fetched_at": "2026-10-12T13:48:29.240523+00:00"
-    },
-    "7daaa139f0f348af": {
-      "title": "Just 10 minutes of daily exercise could unlock deeper sleep",
-      "fetched_at": "2026-10-12T13:48:29.849901+00:00"
-    },
-    "bf904ddc4e41a666": {
-      "title": "Scientists discover why a 100-year-old mushroom disease won't go away",
-      "fetched_at": "2026-10-12T13:48:30.481508+00:00"
-    },
-    "6c94ec4aeb5c1d39": {
-      "title": "The hidden math of Alzheimer's could point to new treatments",
-      "fetched_at": "2026-10-12T13:48:31.086268+00:00"
-    },
-    "2b5d20eff8290aa1": {
-      "title": "Scientists make stunning discovery that could help explain why life exists",
-      "fetched_at": "2026-10-12T13:48:31.708867+00:00"
-    },
-    "1030fecd245fc2f0": {
-      "title": "NASA spots a giant patch of Moon-like rock on Earth",
-      "fetched_at": "2026-10-12T13:48:32.321529+00:00"
-    },
-    "716d3c1d894f37a7": {
-      "title": "New injection makes fat cells self-destruct",
-      "fetched_at": "2026-10-12T13:48:33.023500+00:00"
-    },
     "6c90abee1497d1fd": {
       "title": "Meta releases its first frontier model, Muse Wonder",
       "fetched_at": "2026-10-12T23:55:09.315014+00:00"
@@ -3067,7 +2911,147 @@
     "5c001027135f9228": {
       "title": "See pieces of Halley's Comet fall to Earth this week as the Orionid meteor shower peaks",
       "fetched_at": "2026-10-20T10:34:29.800159+00:00"
+    },
+    "2593bc7ee5821bd4": {
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "fetched_at": "2026-10-20T15:58:23.095686+00:00"
+    },
+    "2de7ac951a0cd9ad": {
+      "title": "AI Pricing Is About to Shock Everyone: Why the $20/Month Era Is Ending",
+      "fetched_at": "2026-10-20T15:58:23.655704+00:00"
+    },
+    "39f75240f84410c5": {
+      "title": "Show HN: TinyML AI – A New Architecture to Control Embedded Intelligence",
+      "fetched_at": "2026-10-20T15:58:24.226105+00:00"
+    },
+    "fb308ae1179d206f": {
+      "title": "Modern.ai: The Company Brain for Ecommerce",
+      "fetched_at": "2026-10-20T15:58:24.815748+00:00"
+    },
+    "00bcb14d4e381227": {
+      "title": "Localizely cut AI translation prices 3x, here's what it costs now",
+      "fetched_at": "2026-10-20T15:58:25.379807+00:00"
+    },
+    "8957a21ec4ddd73c": {
+      "title": "Women increasingly see AI for what it is: mansplaining on a global scale",
+      "fetched_at": "2026-10-20T15:58:25.952733+00:00"
+    },
+    "9c5d9e9d0431a213": {
+      "title": "Show HN: LongTerMemory, AI-RAG Study tool helping people to study everything",
+      "fetched_at": "2026-10-20T15:58:26.528984+00:00"
+    },
+    "ef6f7b051a7bb15b": {
+      "title": "Ask HN: Can LeetCode (or similar) keep critical thinking sharp in the AI era?",
+      "fetched_at": "2026-10-20T15:58:27.102873+00:00"
+    },
+    "0466fb724de570c3": {
+      "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
+      "fetched_at": "2026-10-20T15:58:27.668251+00:00"
+    },
+    "f61dcdbcccfa3bb0": {
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "fetched_at": "2026-10-20T15:58:28.243786+00:00"
+    },
+    "bc0b23ae401c630b": {
+      "title": "AI models self-replicating in smart ovens? \"These f[..]g clowns\"",
+      "fetched_at": "2026-10-20T15:58:28.799928+00:00"
+    },
+    "22290a0023fc4858": {
+      "title": "Exploring Structured Output in TanStack AI: Streaming Guide",
+      "fetched_at": "2026-10-20T15:58:29.371128+00:00"
+    },
+    "0e382952fcb2c8b2": {
+      "title": "Developers Are Using AI to Strip Ads and Tracking from Smart TVs",
+      "fetched_at": "2026-10-20T15:58:29.950093+00:00"
+    },
+    "eae2d3fae196685b": {
+      "title": "Show HN: Seclai – See what your LLM agents are doing in production",
+      "fetched_at": "2026-10-20T15:58:30.513266+00:00"
+    },
+    "9f90754be3d92d01": {
+      "title": "The Honest Raw LLM Code Review Benchmark: 21 Models, 7,980 Reviews",
+      "fetched_at": "2026-10-20T15:58:31.079055+00:00"
+    },
+    "7d54bdae6f455723": {
+      "title": "Unofficial Android app for Multica, the AI coding agent task board",
+      "fetched_at": "2026-10-20T15:58:31.648843+00:00"
+    },
+    "e603b36e85f5fb6c": {
+      "title": "AI Debutant's Flameout Stokes Fears the Boom Is Ending",
+      "fetched_at": "2026-10-20T15:58:32.220053+00:00"
+    },
+    "a01b992bd60bb6b6": {
+      "title": "FastAPI-stream-lease – Limit concurrent SSE/LLM streams instead of req/min",
+      "fetched_at": "2026-10-20T15:58:32.782055+00:00"
+    },
+    "145ba545b6e97b66": {
+      "title": "The NSAI Guide: Non-Stochastic AI Architecture and Execution",
+      "fetched_at": "2026-10-20T15:58:33.340852+00:00"
+    },
+    "b34c08a70d21f943": {
+      "title": "Ask HN: Best value/money AI coding plan bundle?",
+      "fetched_at": "2026-10-20T15:58:33.934187+00:00"
+    },
+    "298b82040d5fb71d": {
+      "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
+      "fetched_at": "2026-10-20T15:58:36.943922+00:00"
+    },
+    "69cf157890a187db": {
+      "title": "Undeciphered Voynich manuscript may have been bound out of order, study finds",
+      "fetched_at": "2026-10-20T15:58:40.053899+00:00"
+    },
+    "aae67bc3753332de": {
+      "title": "Ultrasound waves that jiggle deep brain structures may relieve delusions in schizophrenia, small trial hints",
+      "fetched_at": "2026-10-20T15:58:40.629740+00:00"
+    },
+    "5c082cda19fd749f": {
+      "title": "'It makes me feel that we can do a lot about it': ESA official shares striking satellite snap of Europe's record-breaking summer heat waves",
+      "fetched_at": "2026-10-20T15:58:41.192417+00:00"
+    },
+    "afea2cac5ca95ebf": {
+      "title": "'We used to go to the climate conferences together. We are not anymore': ESA official Simonetta Cheli tells us how the political landscape for Earth observation is changing",
+      "fetched_at": "2026-10-20T15:58:41.774552+00:00"
+    },
+    "44263ad83a341ce3": {
+      "title": "Scientists finally uncover why statins can cause muscle pain",
+      "fetched_at": "2026-10-20T15:58:42.337018+00:00"
+    },
+    "7cd5da55fe722b64": {
+      "title": "Hurricane warning maps are improving, but a dangerous problem remains",
+      "fetched_at": "2026-10-20T15:58:42.906573+00:00"
+    },
+    "9e73cca40e43d6b7": {
+      "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
+      "fetched_at": "2026-10-20T15:58:43.480172+00:00"
+    },
+    "2cc0a9e592a6bb58": {
+      "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
+      "fetched_at": "2026-10-20T15:58:44.056758+00:00"
+    },
+    "8186bd1d2b683f5f": {
+      "title": "Your aging brain may be trading memory for something more valuable",
+      "fetched_at": "2026-10-20T15:58:44.671994+00:00"
+    },
+    "89f0124d32e1e2e8": {
+      "title": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
+      "fetched_at": "2026-10-20T15:58:45.240325+00:00"
+    },
+    "8f649afcb69b21e5": {
+      "title": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
+      "fetched_at": "2026-10-20T15:58:45.800316+00:00"
+    },
+    "d3d6b7462e510286": {
+      "title": "Scientists discover a surprising link between vitamin C and cancer survival",
+      "fetched_at": "2026-10-20T15:58:46.358713+00:00"
+    },
+    "2cd2c11fa1de505e": {
+      "title": "Scientists reach the ultimate quantum limit on a surface",
+      "fetched_at": "2026-10-20T15:58:46.925128+00:00"
+    },
+    "9471fe1fe0b2c28d": {
+      "title": "NASA solves a strange mystery hidden inside asteroid Bennu’s boulders",
+      "fetched_at": "2026-10-20T15:58:47.570716+00:00"
     }
   },
-  "last_updated": "2026-10-20T10:34:29.886874+00:00"
+  "last_updated": "2026-10-20T15:58:47.698456+00:00"
 }
