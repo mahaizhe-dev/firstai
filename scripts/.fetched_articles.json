@@ -1,89 +1,5 @@
 {
   "articles": {
-    "6c90abee1497d1fd": {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "fetched_at": "2026-10-12T23:55:09.315014+00:00"
-    },
-    "573ab24ba46d7c20": {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "fetched_at": "2026-10-12T23:55:09.930556+00:00"
-    },
-    "85b7161b38830f5b": {
-      "title": "Meta has some Wonder Full new AI models",
-      "fetched_at": "2026-10-12T23:55:10.646234+00:00"
-    },
-    "52404ca413b75f1f": {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "fetched_at": "2026-10-12T23:55:11.308931+00:00"
-    },
-    "d935405710b4b7c3": {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "fetched_at": "2026-10-12T23:55:12.036904+00:00"
-    },
-    "c8c028fc2fd1fa73": {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "fetched_at": "2026-10-12T23:55:12.676274+00:00"
-    },
-    "30bfc8dcdd8c1ccb": {
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "fetched_at": "2026-10-12T23:55:13.287762+00:00"
-    },
-    "b6a484288c62c53a": {
-      "title": "派评 | 近期值得关注的 App",
-      "fetched_at": "2026-10-12T23:55:13.924558+00:00"
-    },
-    "46833115df2c2648": {
-      "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
-      "fetched_at": "2026-10-12T23:55:14.578753+00:00"
-    },
-    "7c5cc1917a3ee28f": {
-      "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
-      "fetched_at": "2026-10-12T23:55:15.249448+00:00"
-    },
-    "fed6cfe39f2bd61c": {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "fetched_at": "2026-10-12T23:55:15.874180+00:00"
-    },
-    "ef283ffaf39e67fa": {
-      "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
-      "fetched_at": "2026-10-12T23:55:15.874350+00:00"
-    },
-    "747333df100dab94": {
-      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
-      "fetched_at": "2026-10-12T23:55:18.772803+00:00"
-    },
-    "ec05244d7f1a65d9": {
-      "title": "Mathematical Model Tracks Changes in Neolithic Societies Through Pottery",
-      "fetched_at": "2026-10-12T23:55:54.444213+00:00"
-    },
-    "047e38f75f9dd929": {
-      "title": "Ancient Cypriots May Have Burned Funeral Bouquets",
-      "fetched_at": "2026-10-12T23:55:55.046772+00:00"
-    },
-    "00a39438bdb820d4": {
-      "title": "'Autonomy always begins with something a human hands it': Who's responsible when an AI agent goes rogue?",
-      "fetched_at": "2026-10-12T23:55:55.657240+00:00"
-    },
-    "3578341630b7b803": {
-      "title": "Impressions of Wooden Neanderthal Tools Found in Spain",
-      "fetched_at": "2026-10-12T23:55:56.279544+00:00"
-    },
-    "a03f7a75b8d557bb": {
-      "title": "Lanterns in the Void: Science and Discovery",
-      "fetched_at": "2026-10-12T23:55:56.928092+00:00"
-    },
-    "a44c7766a1158cb4": {
-      "title": "1,200-year-old burial in Latvia holds people who died of 'sharp force' injuries, possibly from a Viking raid",
-      "fetched_at": "2026-10-12T23:55:57.534330+00:00"
-    },
-    "cb4d5b2e40e54a11": {
-      "title": "First photos from Smile spacecraft show Earth like you've never seen it before",
-      "fetched_at": "2026-10-12T23:55:58.161899+00:00"
-    },
-    "21dab6cf40887f03": {
-      "title": "Do animals experience schadenfreude?",
-      "fetched_at": "2026-10-12T23:55:58.868197+00:00"
-    },
     "f7caba326a6a62be": {
       "title": "Show HN: Search for AI agents with usefulness score built in",
       "fetched_at": "2026-10-13T04:22:37.391983+00:00"
@@ -3151,7 +3067,115 @@
     "15f2b1fc604915c6": {
       "title": "AI Discovery Index",
       "fetched_at": "2026-10-20T20:58:41.350174+00:00"
+    },
+    "f0a4c655a3126a5c": {
+      "title": "Learning to live with Waymos",
+      "fetched_at": "2026-10-21T02:22:56.334511+00:00"
+    },
+    "0245be349c14ce4c": {
+      "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
+      "fetched_at": "2026-10-21T02:22:56.946754+00:00"
+    },
+    "50ae64b440b356d0": {
+      "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
+      "fetched_at": "2026-10-21T02:22:57.552159+00:00"
+    },
+    "a028d90c88255649": {
+      "title": "Dataville Takes the Guesswork Out of Data for AI",
+      "fetched_at": "2026-10-21T02:22:58.169028+00:00"
+    },
+    "2b5945ca28ff012f": {
+      "title": "Show HN: SchemaWright, learning database design in a gamified way",
+      "fetched_at": "2026-10-21T02:22:58.867611+00:00"
+    },
+    "f4aff12ff03e54d0": {
+      "title": "Secret trigger words could make AI-powered robots dangerous",
+      "fetched_at": "2026-10-21T02:22:59.463579+00:00"
+    },
+    "20535e90e7c904fc": {
+      "title": "SpaceX revenue soars 161% as AI business grows",
+      "fetched_at": "2026-10-21T02:23:00.110892+00:00"
+    },
+    "df923feb7bc867fb": {
+      "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble",
+      "fetched_at": "2026-10-21T02:23:00.725913+00:00"
+    },
+    "8a47ad866136e373": {
+      "title": "Writing Code vs. Shipping Code: Productivity Effects Across AI Tool Generations [pdf]",
+      "fetched_at": "2026-10-21T02:23:01.336918+00:00"
+    },
+    "3b0282d65403441e": {
+      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+      "fetched_at": "2026-10-21T02:23:01.952797+00:00"
+    },
+    "134825c84e9016a1": {
+      "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+      "fetched_at": "2026-10-21T02:23:02.583181+00:00"
+    },
+    "46545ecb8d01470a": {
+      "title": "AGI-S – an AI platform I'm building",
+      "fetched_at": "2026-10-21T02:23:03.216040+00:00"
+    },
+    "b07226e215d9eb7d": {
+      "title": "When AI agents take matters into their own hands",
+      "fetched_at": "2026-10-21T02:23:03.812722+00:00"
+    },
+    "0967d71e0b418939": {
+      "title": "Learning Without Backpopagation",
+      "fetched_at": "2026-10-21T02:23:04.413965+00:00"
+    },
+    "1070c667f3af412a": {
+      "title": "Show HN: Pace or Pause – Explore where people stand on AI development",
+      "fetched_at": "2026-10-21T02:23:05.081732+00:00"
+    },
+    "446348e78765c6c2": {
+      "title": "Revisiting Open Science in the Age of AI",
+      "fetched_at": "2026-10-21T02:23:05.700356+00:00"
+    },
+    "9cbd1790f97178eb": {
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "fetched_at": "2026-10-21T02:23:06.318102+00:00"
+    },
+    "bfd9d300c9ced52e": {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "fetched_at": "2026-10-21T02:23:06.942982+00:00"
+    },
+    "4de7ca05732c5a19": {
+      "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "fetched_at": "2026-10-21T02:23:07.549940+00:00"
+    },
+    "67b44a1373869fc4": {
+      "title": "Fleet of AI agents used httpbin to get past their sandbox",
+      "fetched_at": "2026-10-21T02:23:08.193168+00:00"
+    },
+    "273ac2dd7ece4c49": {
+      "title": "美政府机构禁用DeepSeek，北京指责华盛顿打压中国公司",
+      "fetched_at": "2026-10-21T02:23:10.363275+00:00"
+    },
+    "8fcd8161a8148f83": {
+      "title": "欧洲中间派政党为何正在失去民心",
+      "fetched_at": "2026-10-21T02:23:10.965821+00:00"
+    },
+    "bed327b6a2ae5f4a": {
+      "title": "翻看英國統計 為何從未吸煙的人也開始對電子煙上癮？",
+      "fetched_at": "2026-10-21T02:23:11.585739+00:00"
+    },
+    "7707055ce39422b9": {
+      "title": "在實體商店購物很令我心煩——為什麼我只在網上購物",
+      "fetched_at": "2026-10-21T02:23:12.200574+00:00"
+    },
+    "cf363c1ca23d3651": {
+      "title": "Case of mysterious medieval skeleton buried in Roman-era sarcophagus at Westminster Abbey finally solved",
+      "fetched_at": "2026-10-21T02:23:33.904625+00:00"
+    },
+    "5ba11a9dc1428085": {
+      "title": "Could 'body clocks' play a role in depression? Study proposes a new 'circadian' subtype",
+      "fetched_at": "2026-10-21T02:23:34.524678+00:00"
+    },
+    "ae4cc33bac845851": {
+      "title": "Will Tesla's 'flying car' ever hit the market, or is it a load of compressed air?",
+      "fetched_at": "2026-10-21T02:23:35.154059+00:00"
     }
   },
-  "last_updated": "2026-10-20T20:58:41.465803+00:00"
+  "last_updated": "2026-10-21T02:23:35.275861+00:00"
 }
