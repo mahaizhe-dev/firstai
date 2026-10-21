@@ -1,133 +1,5 @@
 {
   "articles": {
-    "f7caba326a6a62be": {
-      "title": "Show HN: Search for AI agents with usefulness score built in",
-      "fetched_at": "2026-10-13T04:22:37.391983+00:00"
-    },
-    "22860e97d05418cb": {
-      "title": "Show HN:we made betr Moltbook alt– thecollectives.dev social media for AI agents",
-      "fetched_at": "2026-10-13T04:22:38.067880+00:00"
-    },
-    "c4bdf93c93176e5b": {
-      "title": "Can we change an AI model's architecture without retraining it from scratch?",
-      "fetched_at": "2026-10-13T04:22:38.683464+00:00"
-    },
-    "187aba0b7e332f3d": {
-      "title": "I used an AI QA agent to test Hacker News",
-      "fetched_at": "2026-10-13T04:22:39.309643+00:00"
-    },
-    "fd36ceb1dafd93cf": {
-      "title": "Ask HN: Now that AI makes the execution easy, do ideas matter more?",
-      "fetched_at": "2026-10-13T04:22:39.937389+00:00"
-    },
-    "09457f7d30cde442": {
-      "title": "Leading Chinese mathematicians unite behind use of AI in research",
-      "fetched_at": "2026-10-13T04:22:40.560389+00:00"
-    },
-    "102a9e63b79e2cac": {
-      "title": "In 5 years, 95% of tokens used by AI agents will be for tasks humans never did",
-      "fetched_at": "2026-10-13T04:22:41.173173+00:00"
-    },
-    "da8434dc598d611f": {
-      "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
-      "fetched_at": "2026-10-13T04:22:41.807094+00:00"
-    },
-    "2f54d80655c4d9c1": {
-      "title": "Army turning to AI in its fight against biological threats",
-      "fetched_at": "2026-10-13T04:22:42.440840+00:00"
-    },
-    "3a90330d76cc8a17": {
-      "title": "Astrocytic Clock Controls Circadian PNN Remodeling, Synapse Strength, Learning",
-      "fetched_at": "2026-10-13T04:22:43.096542+00:00"
-    },
-    "fdef03bdc011ab1a": {
-      "title": "Show HN: MEF LLM Studio – Learn how LLMs generate text, token by token",
-      "fetched_at": "2026-10-13T04:22:43.721573+00:00"
-    },
-    "ec995d2244b44cc2": {
-      "title": "I gave 16 IA's control of the AI nations in Humankind",
-      "fetched_at": "2026-10-13T04:22:44.327492+00:00"
-    },
-    "7cae1d34321ebe40": {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "fetched_at": "2026-10-13T04:22:44.963038+00:00"
-    },
-    "2853461364c2b808": {
-      "title": "Examining China's AI Financing [pdf]",
-      "fetched_at": "2026-10-13T04:22:45.598099+00:00"
-    },
-    "fb90d9b3575e9cc4": {
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "fetched_at": "2026-10-13T04:22:46.245161+00:00"
-    },
-    "80b834dfe689ddae": {
-      "title": "Math community could learn from bio[med]'s to live with AI",
-      "fetched_at": "2026-10-13T04:22:46.861874+00:00"
-    },
-    "2e337eff96b2cee7": {
-      "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
-      "fetched_at": "2026-10-13T04:22:47.493272+00:00"
-    },
-    "3854565c84d95523": {
-      "title": "AI-critic – Task-aware auditing of ML models",
-      "fetched_at": "2026-10-13T04:22:48.113175+00:00"
-    },
-    "f2e57144539466cf": {
-      "title": "FrontierCode: Can AI models write code maintainers would merge?",
-      "fetched_at": "2026-10-13T04:22:48.727742+00:00"
-    },
-    "668f59b3f618bd8e": {
-      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
-      "fetched_at": "2026-10-13T04:22:49.332735+00:00"
-    },
-    "177148c39624bad9": {
-      "title": "全球首富的崛起之路：马斯克纪录片讲了些什么",
-      "fetched_at": "2026-10-13T04:22:51.777930+00:00"
-    },
-    "4b0978e7ded38b1c": {
-      "title": "为何大学校园强奸案反复重演？",
-      "fetched_at": "2026-10-13T04:22:52.435910+00:00"
-    },
-    "f722887283512fd0": {
-      "title": "欧洲为何对中国电动汽车爱恨交加",
-      "fetched_at": "2026-10-13T04:22:53.090000+00:00"
-    },
-    "d2c0042d38ec3afe": {
-      "title": "美国研发新型太阳能电池板，或挑战中国垄断地位",
-      "fetched_at": "2026-10-13T04:22:53.841132+00:00"
-    },
-    "8a3fbc1d1583ba75": {
-      "title": "廣州開發電玩遊戲「喚醒」威爾士民間傳說潛力",
-      "fetched_at": "2026-10-13T04:22:54.469819+00:00"
-    },
-    "98c9ace74d5b5c77": {
-      "title": "伊朗與烏克蘭 哪場戰爭對柴油價格影響最大？",
-      "fetched_at": "2026-10-13T04:22:55.086670+00:00"
-    },
-    "fd51b0f7a5aeda5c": {
-      "title": "Scientists recreate the universe's first moments and find something they didn't expect",
-      "fetched_at": "2026-10-13T04:23:28.773479+00:00"
-    },
-    "a5cec6e53b523a40": {
-      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
-      "fetched_at": "2026-10-13T04:23:29.386668+00:00"
-    },
-    "c3af01dc5f3cfb1e": {
-      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
-      "fetched_at": "2026-10-13T04:23:30.005378+00:00"
-    },
-    "668419d3ca40a794": {
-      "title": "A forgotten 30-year forest experiment just delivered a huge surprise",
-      "fetched_at": "2026-10-13T04:23:30.621643+00:00"
-    },
-    "20f06dc0740e292c": {
-      "title": "Your gut bacteria may reveal how fast your brain is aging",
-      "fetched_at": "2026-10-13T04:23:31.226369+00:00"
-    },
-    "dad24a3d64ef9a01": {
-      "title": "Diet drinks work as well as water for weight loss, major trial finds",
-      "fetched_at": "2026-10-13T04:23:31.850480+00:00"
-    },
     "4252d152853bba11": {
       "title": "Apple launches HomeView, its first smart display for the home",
       "fetched_at": "2026-10-13T13:06:25.400531+00:00"
@@ -3175,7 +3047,71 @@
     "ae4cc33bac845851": {
       "title": "Will Tesla's 'flying car' ever hit the market, or is it a load of compressed air?",
       "fetched_at": "2026-10-21T02:23:35.154059+00:00"
+    },
+    "215331b4aa7dd28d": {
+      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+      "fetched_at": "2026-10-21T10:46:13.053311+00:00"
+    },
+    "4c4148a3dd7060a7": {
+      "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+      "fetched_at": "2026-10-21T10:46:13.665257+00:00"
+    },
+    "5d7ae8296ce6b2a2": {
+      "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+      "fetched_at": "2026-10-21T10:46:14.281550+00:00"
+    },
+    "9f4c4dd0959911ea": {
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "fetched_at": "2026-10-21T10:46:14.913313+00:00"
+    },
+    "b4de5ef87c7d0bba": {
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "fetched_at": "2026-10-21T10:46:15.534959+00:00"
+    },
+    "bf94bc1f05173acb": {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "fetched_at": "2026-10-21T10:46:16.149771+00:00"
+    },
+    "22990dd0fb7d9ee8": {
+      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+      "fetched_at": "2026-10-21T10:46:16.149851+00:00"
+    },
+    "74aea2566d70bf79": {
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "fetched_at": "2026-10-21T10:46:16.767886+00:00"
+    },
+    "a2e18994a55f9eef": {
+      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+      "fetched_at": "2026-10-21T10:46:17.372850+00:00"
+    },
+    "bbc4dee0bd6bdb0a": {
+      "title": "法國暴動：各界對誰該負責與該汲取的教訓陷入分歧",
+      "fetched_at": "2026-10-21T10:46:20.519935+00:00"
+    },
+    "abe57b8a112a0612": {
+      "title": "康奈爾大學 Jane Doe 稱，校長質疑她遭多人輪姦的指控",
+      "fetched_at": "2026-10-21T10:46:21.144977+00:00"
+    },
+    "8ac57e9ae632827f": {
+      "title": "法国多地爆发骚乱，现在去巴黎旅游安全吗？",
+      "fetched_at": "2026-10-21T10:46:21.773193+00:00"
+    },
+    "41bf564e500e3d31": {
+      "title": "特朗普前律师的5000万美元薪酬与一位亿万富翁的特赦",
+      "fetched_at": "2026-10-21T10:46:22.412504+00:00"
+    },
+    "7aed4e0962559872": {
+      "title": "泽连斯基为何对特朗普展开回击？",
+      "fetched_at": "2026-10-21T10:46:23.035745+00:00"
+    },
+    "3e925040adbf8753": {
+      "title": "石油大省多数选民拒绝脱离加拿大，卡尼取得关键胜利",
+      "fetched_at": "2026-10-21T10:46:23.660339+00:00"
+    },
+    "1e6686d3953b35a4": {
+      "title": "A fighter pilot had unexplained headaches for over a year. The cause was hiding in plain sight.",
+      "fetched_at": "2026-10-21T10:46:28.867728+00:00"
     }
   },
-  "last_updated": "2026-10-21T02:23:35.275861+00:00"
+  "last_updated": "2026-10-21T10:46:28.912539+00:00"
 }
