@@ -1,201 +1,5 @@
 {
   "articles": {
-    "7ad8986a26666a22": {
-      "title": "OCP 2026: Agentic AI Pushes the Data Center from Chip to Grid",
-      "fetched_at": "2026-10-14T02:33:33.177493+00:00"
-    },
-    "571a2533cc37c8be": {
-      "title": "AI Scaling vs. Human Scaling",
-      "fetched_at": "2026-10-14T02:33:33.798698+00:00"
-    },
-    "d4d4f65bf630d99d": {
-      "title": "Ask HN: What do you think will be hot in 2027 with on-device AI",
-      "fetched_at": "2026-10-14T02:33:34.411102+00:00"
-    },
-    "933098069d90b2a3": {
-      "title": "An Open Letter on AI and Cybersecurity from the Scientific Community",
-      "fetched_at": "2026-10-14T02:33:35.059931+00:00"
-    },
-    "15b7daea42ea8337": {
-      "title": "Show HN: Can AI read your mind?",
-      "fetched_at": "2026-10-14T02:33:35.686270+00:00"
-    },
-    "da565c7967ed8f3a": {
-      "title": "Show HN: AI Hub – Open Access Lesson Plans for Teaching Students about AI",
-      "fetched_at": "2026-10-14T02:33:36.305933+00:00"
-    },
-    "2326164f42baa731": {
-      "title": "Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation",
-      "fetched_at": "2026-10-14T02:33:36.933137+00:00"
-    },
-    "7086109d0bf79d48": {
-      "title": "Learning What to Investigate Next: Meta-Reasoning for Long-Horizon Agents",
-      "fetched_at": "2026-10-14T02:33:37.579522+00:00"
-    },
-    "7e294fb79d7ac6de": {
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
-      "fetched_at": "2026-10-14T02:33:38.196302+00:00"
-    },
-    "820cd7e3dbceeb02": {
-      "title": "Character.ai files for Chapter 11 bankruptcy. Disney makes a bid",
-      "fetched_at": "2026-10-14T02:33:38.825212+00:00"
-    },
-    "9d6abd0c5732982f": {
-      "title": "Who Decided AI Gets to Have Feelings?",
-      "fetched_at": "2026-10-14T02:33:39.485582+00:00"
-    },
-    "933a2273b2e03f7b": {
-      "title": "AI, Hyperwar and End Times Fascism",
-      "fetched_at": "2026-10-14T02:33:40.137674+00:00"
-    },
-    "4094fe1a37f2f958": {
-      "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
-      "fetched_at": "2026-10-14T02:33:40.767538+00:00"
-    },
-    "74ac27e2d1baa0d9": {
-      "title": "How well does AI predict humans?",
-      "fetched_at": "2026-10-14T02:33:41.485583+00:00"
-    },
-    "d5849ac31e48ee3b": {
-      "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
-      "fetched_at": "2026-10-14T02:33:42.104501+00:00"
-    },
-    "bbf2a102c2580252": {
-      "title": "AI's quiet safety gatekeepers are stepping into the spotlight",
-      "fetched_at": "2026-10-14T02:33:42.737268+00:00"
-    },
-    "0895ed92cb6765ba": {
-      "title": "Amex introduces a framework to prevent AI agents from unauthorized purchases",
-      "fetched_at": "2026-10-14T02:33:43.357001+00:00"
-    },
-    "2ae766f0b756922e": {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "fetched_at": "2026-10-14T02:33:43.984149+00:00"
-    },
-    "2c7cedc01e0095cc": {
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "fetched_at": "2026-10-14T02:33:44.613284+00:00"
-    },
-    "9abcd072034453d2": {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "fetched_at": "2026-10-14T02:33:45.363972+00:00"
-    },
-    "f2bf352d9a02ac7f": {
-      "title": "人工智能推波助澜，网络攻击席卷日本",
-      "fetched_at": "2026-10-14T02:33:48.184574+00:00"
-    },
-    "c35c0b0b42d720af": {
-      "title": "FBI捣毁涉朝鲜IT诈骗网络：盗用身份获取美国工作岗位",
-      "fetched_at": "2026-10-14T02:33:48.813577+00:00"
-    },
-    "0c55c3b1e5e5dc92": {
-      "title": "「黑珍珠」瑪麗亞：表演中國川劇的塞拉利昂女子",
-      "fetched_at": "2026-10-14T02:33:49.438548+00:00"
-    },
-    "d9e60867faa09dec": {
-      "title": "人類身高的起伏變化：哪些歷史事件影響最大？",
-      "fetched_at": "2026-10-14T02:33:50.057674+00:00"
-    },
-    "276510d0e91267cc": {
-      "title": "认知心理学背后的播客剪辑技巧",
-      "fetched_at": "2026-10-14T10:47:28.598528+00:00"
-    },
-    "9263573fb25ad995": {
-      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "fetched_at": "2026-10-14T10:47:29.232823+00:00"
-    },
-    "c191a573e217c236": {
-      "title": "家中、这里、那里——Sonos Play 体验",
-      "fetched_at": "2026-10-14T10:47:29.920372+00:00"
-    },
-    "3e6e2b557ad755a7": {
-      "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
-      "fetched_at": "2026-10-14T10:47:30.667675+00:00"
-    },
-    "934f927f98aac49f": {
-      "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
-      "fetched_at": "2026-10-14T10:47:31.285109+00:00"
-    },
-    "286b6346896a9633": {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "fetched_at": "2026-10-14T10:47:31.916514+00:00"
-    },
-    "6231acdc8848256d": {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "fetched_at": "2026-10-14T10:47:32.552474+00:00"
-    },
-    "6af271f7829af841": {
-      "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
-      "fetched_at": "2026-10-14T10:47:33.183387+00:00"
-    },
-    "037f1f57b4c0b780": {
-      "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
-      "fetched_at": "2026-10-14T10:47:33.815156+00:00"
-    },
-    "4b68011ed0de7364": {
-      "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
-      "fetched_at": "2026-10-14T10:47:34.418222+00:00"
-    },
-    "0a4b1c078e19fa54": {
-      "title": "俄羅斯以間諜罪嫌抓捕日本駐庫頁島記者",
-      "fetched_at": "2026-10-14T10:47:38.459525+00:00"
-    },
-    "514239f20b5d0982": {
-      "title": "從今以後，不擇手段？普京新策略要讓烏克蘭全國片瓦無存",
-      "fetched_at": "2026-10-14T10:47:39.096288+00:00"
-    },
-    "8c0a020982423ab9": {
-      "title": "「我會跟電視說話」：中國這些孤獨的人付錢感受溫暖",
-      "fetched_at": "2026-10-14T10:47:39.711643+00:00"
-    },
-    "7e9f17490c5b9ea1": {
-      "title": "从特朗普“准儿媳”到被解职的美国驻希腊大使",
-      "fetched_at": "2026-10-14T10:47:40.339536+00:00"
-    },
-    "c5b63f272b610045": {
-      "title": "梵蒂岡證實教宗患上肺腺癌，但手術成功",
-      "fetched_at": "2026-10-14T10:47:40.977456+00:00"
-    },
-    "df0803ddffc0b3f6": {
-      "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
-      "fetched_at": "2026-10-14T10:47:41.634526+00:00"
-    },
-    "33ce2d9b598d16b5": {
-      "title": "比地球更适宜居住的星球？确实存在",
-      "fetched_at": "2026-10-14T10:47:42.294194+00:00"
-    },
-    "116acf90e9b53f4f": {
-      "title": "AI翻譯：還有多久會完全取代人類？",
-      "fetched_at": "2026-10-14T10:47:42.944700+00:00"
-    },
-    "a5ed05730931b3b1": {
-      "title": "拒绝4000万美元保密协议，她讲述马斯克的“真相”",
-      "fetched_at": "2026-10-14T10:47:43.561406+00:00"
-    },
-    "8a79b036ba01a73c": {
-      "title": "水产养殖业的肮脏秘密：你吃的海鲜背后不为人知的阴暗面",
-      "fetched_at": "2026-10-14T10:47:44.199535+00:00"
-    },
-    "c01364b2757f6ea0": {
-      "title": "Teenager's rare autoimmune disorder caused her to hallucinate a flying green dinosaur",
-      "fetched_at": "2026-10-14T10:47:49.786594+00:00"
-    },
-    "9c91c8030aee5714": {
-      "title": "Hundreds of whale calves have mysteriously died in Patagonia — and scientists are racing to find out why",
-      "fetched_at": "2026-10-14T10:47:50.433654+00:00"
-    },
-    "c9bd151d863b6489": {
-      "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
-      "fetched_at": "2026-10-14T10:47:51.256014+00:00"
-    },
-    "470b3f1f737254fc": {
-      "title": "AI can act exactly like a human, but we still don't think it's conscious",
-      "fetched_at": "2026-10-14T10:47:51.930602+00:00"
-    },
-    "487c4f8280b478de": {
-      "title": "A planet 320 light-years away confirms what scientists long suspected",
-      "fetched_at": "2026-10-14T10:47:52.550488+00:00"
-    },
     "e024bf76ccfcbf8a": {
       "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
       "fetched_at": "2026-10-14T10:47:53.173978+00:00"
@@ -3095,7 +2899,135 @@
     "ef5137634e11c8e0": {
       "title": "Discovery of a second-generation planet candidate accreting onto a white dwarf",
       "fetched_at": "2026-10-22T02:21:01.003767+00:00"
+    },
+    "d8ed188d6c219fd6": {
+      "title": "Show HN: Runspace: Disposable cloud sandboxes for humans and AI agents",
+      "fetched_at": "2026-10-22T10:47:28.909113+00:00"
+    },
+    "cb06ed6c0269665d": {
+      "title": "Show HN: Pith – a proxy that cuts LLM output tokens, and refuses when it can't",
+      "fetched_at": "2026-10-22T10:47:29.497748+00:00"
+    },
+    "2ab941f43387750e": {
+      "title": "Chinese stocks turn biggest losers as global AI trade stumbles",
+      "fetched_at": "2026-10-22T10:47:30.091110+00:00"
+    },
+    "4e740c498d43849f": {
+      "title": "Could Treating AI as Conscious Make It More Dangerous?",
+      "fetched_at": "2026-10-22T10:47:30.666094+00:00"
+    },
+    "e6c9a5859861f08b": {
+      "title": "Evaluating Memory Systems for AI Agents Is Harder Than It Looks",
+      "fetched_at": "2026-10-22T10:47:31.264601+00:00"
+    },
+    "86b23856abd4f769": {
+      "title": "Show HN: Continue a ChatGPT/Claude/Gemini chat in another free AI at the limit",
+      "fetched_at": "2026-10-22T10:47:31.852930+00:00"
+    },
+    "6baf0d7b4a1768f0": {
+      "title": "Palantir says it cannot shut off NATO AI systems",
+      "fetched_at": "2026-10-22T10:47:32.437180+00:00"
+    },
+    "d8d5110fecb0407a": {
+      "title": "AI-Assisted Product Discovery: How to Succeed and How to Fail",
+      "fetched_at": "2026-10-22T10:47:33.034021+00:00"
+    },
+    "8ed5885c0ab53f94": {
+      "title": "Show HN: ExplAIn, a free directory of compliance scores for AI tools",
+      "fetched_at": "2026-10-22T10:47:33.625549+00:00"
+    },
+    "4d06f0fff5f0cea6": {
+      "title": "Rules of Machine Learning (2017) [pdf]",
+      "fetched_at": "2026-10-22T10:47:34.225437+00:00"
+    },
+    "596a3247fedcb959": {
+      "title": "We built a document AI that reads but doesn't write",
+      "fetched_at": "2026-10-22T10:47:34.823041+00:00"
+    },
+    "b2aec28e1429c079": {
+      "title": "AI vs. human therapist feedback in CBT: Randomized trial with deception design",
+      "fetched_at": "2026-10-22T10:47:35.403938+00:00"
+    },
+    "6845ac298e7e9b06": {
+      "title": "Ask HN: Who owns the copyright to code generated by an AI LLM?",
+      "fetched_at": "2026-10-22T10:47:36.006342+00:00"
+    },
+    "d5abf213e11e7e07": {
+      "title": "EuroHPC AI Factories: free supercomputing access for EU AI startups – calls open",
+      "fetched_at": "2026-10-22T10:47:36.609149+00:00"
+    },
+    "880e7a1b1de5cde0": {
+      "title": "Could AI Infrastructure Growth Last Longer Than Markets Expect?",
+      "fetched_at": "2026-10-22T10:47:37.195624+00:00"
+    },
+    "f87ca5071b9bcccb": {
+      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+      "fetched_at": "2026-10-22T10:47:37.805018+00:00"
+    },
+    "ce24ddf0164c7c27": {
+      "title": "Show HN: Shay.me – Personal AI assistant to get things done",
+      "fetched_at": "2026-10-22T10:47:38.404040+00:00"
+    },
+    "ce72cbb1f0af02d1": {
+      "title": "Show HN: The Companion Lab – What 7 AI companion apps charge on bank statements",
+      "fetched_at": "2026-10-22T10:47:38.983640+00:00"
+    },
+    "1f2ab89aeee0a0bb": {
+      "title": "Ask HN: How do you sandbox your AI agent so it can't delete your files?",
+      "fetched_at": "2026-10-22T10:47:39.584245+00:00"
+    },
+    "36c235747c53d67a": {
+      "title": "Achieving AI-style reasoning without an LLM",
+      "fetched_at": "2026-10-22T10:47:40.170124+00:00"
+    },
+    "3fb64ab931b7d4a0": {
+      "title": "不點單，沒座位：星巴克中國推出新門店政策",
+      "fetched_at": "2026-10-22T10:47:42.848006+00:00"
+    },
+    "497fc1aaa3620800": {
+      "title": "暗影人物：與烏克蘭合作的俄羅斯人",
+      "fetched_at": "2026-10-22T10:47:43.461918+00:00"
+    },
+    "9746d18f67174342": {
+      "title": "特朗普收緊綠卡政策，印度科技從業者的「美國夢」面臨考驗",
+      "fetched_at": "2026-10-22T10:47:44.037246+00:00"
+    },
+    "fdf589abfc192fdf": {
+      "title": "《決勝時刻》新遊戲設想朝鮮入侵韓國，真的會發生嗎？",
+      "fetched_at": "2026-10-22T10:47:44.629984+00:00"
+    },
+    "14e063757b39e74d": {
+      "title": "Google軍事人工智能合約引發辭職潮",
+      "fetched_at": "2026-10-22T10:47:45.218747+00:00"
+    },
+    "eed8d2259db95538": {
+      "title": "当法国人将愤怒砸向奢侈品橱窗",
+      "fetched_at": "2026-10-22T10:47:45.818959+00:00"
+    },
+    "0873dc5a810ea863": {
+      "title": "民调显示，中期选举两周前特朗普支持率跌至新低",
+      "fetched_at": "2026-10-22T10:47:46.407272+00:00"
+    },
+    "78a0a8d5f6cddd6b": {
+      "title": "政治平权的台湾样本：女性凭什么赢下选举？",
+      "fetched_at": "2026-10-22T10:47:47.019235+00:00"
+    },
+    "1396fc833ed2ea69": {
+      "title": "民主倒退、中国崛起，人类命运将走向何方",
+      "fetched_at": "2026-10-22T10:47:47.619915+00:00"
+    },
+    "1ed4da08c8d24ffb": {
+      "title": "DeepSeek被美國政府系統禁用：中美AI競爭繼續升溫",
+      "fetched_at": "2026-10-22T10:47:48.200220+00:00"
+    },
+    "01167f5baccdb172": {
+      "title": "Climate change is literally altering the shape of our planet",
+      "fetched_at": "2026-10-22T10:47:51.926800+00:00"
+    },
+    "46d2b2f0867051d5": {
+      "title": "Surprising new pattern of groundwater loss may signal a turning point for the Colorado River Basin",
+      "fetched_at": "2026-10-22T10:47:52.564670+00:00"
     }
   },
-  "last_updated": "2026-10-22T02:21:01.048760+00:00"
+  "last_updated": "2026-10-22T10:47:52.617992+00:00"
 }
