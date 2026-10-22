@@ -1,125 +1,5 @@
 {
   "articles": {
-    "b2b7cd0a3fe83381": {
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "fetched_at": "2026-10-13T22:03:51.417667+00:00"
-    },
-    "ecef72470447c023": {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "fetched_at": "2026-10-13T22:03:52.044477+00:00"
-    },
-    "92231706f83b4363": {
-      "title": "Shopify opens its catalog up to more AI agents",
-      "fetched_at": "2026-10-13T22:03:52.683251+00:00"
-    },
-    "7e5c7371e6618d4e": {
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "fetched_at": "2026-10-13T22:03:53.303772+00:00"
-    },
-    "526ba8a63192676c": {
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "fetched_at": "2026-10-13T22:03:53.921530+00:00"
-    },
-    "36557329787c9fbb": {
-      "title": "Facebook is giving users more control over their algorithm",
-      "fetched_at": "2026-10-13T22:03:54.541139+00:00"
-    },
-    "386194c77c50db05": {
-      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-      "fetched_at": "2026-10-13T22:03:55.234036+00:00"
-    },
-    "3579b94f214c35bb": {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "fetched_at": "2026-10-13T22:03:55.856291+00:00"
-    },
-    "c05de80edd2fb552": {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "fetched_at": "2026-10-13T22:03:56.500024+00:00"
-    },
-    "6b35475d85a1272f": {
-      "title": "Facebook will let you customize your feed algorithm using AI",
-      "fetched_at": "2026-10-13T22:03:57.125791+00:00"
-    },
-    "245f4491c02e3a46": {
-      "title": "Google makes it easier to launch your vibe-coded apps",
-      "fetched_at": "2026-10-13T22:03:57.747318+00:00"
-    },
-    "85bcd9fad8c2aa18": {
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "fetched_at": "2026-10-13T22:03:58.378172+00:00"
-    },
-    "54bc8893d355912c": {
-      "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
-      "fetched_at": "2026-10-13T22:03:58.995505+00:00"
-    },
-    "2513f9f7087ebd49": {
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "fetched_at": "2026-10-13T22:03:59.613010+00:00"
-    },
-    "269f63cce7867a1a": {
-      "title": "Google finally releases Gemini 4 Argon",
-      "fetched_at": "2026-10-13T22:04:00.232092+00:00"
-    },
-    "fe2adb93d82b2f54": {
-      "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
-      "fetched_at": "2026-10-13T22:04:00.853539+00:00"
-    },
-    "937b6c3d101231af": {
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "fetched_at": "2026-10-13T22:04:01.477061+00:00"
-    },
-    "03446c99d7a9331a": {
-      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-      "fetched_at": "2026-10-13T22:04:02.092324+00:00"
-    },
-    "92e8874d28306d01": {
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "fetched_at": "2026-10-13T22:04:02.712466+00:00"
-    },
-    "692885dd4addac86": {
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "fetched_at": "2026-10-13T22:04:03.405276+00:00"
-    },
-    "1e2b8dfbe0dd3dd7": {
-      "title": "「他們叫他爸爸」：震驚韓國的殘障院舍住戶性侵案",
-      "fetched_at": "2026-10-13T22:04:05.593914+00:00"
-    },
-    "a502d65553db58e7": {
-      "title": "2,000-year-old burial found in Russia near a human sacrifice and a cup to ward off magical threats",
-      "fetched_at": "2026-10-13T22:04:08.126747+00:00"
-    },
-    "1388a6fa8419b662": {
-      "title": "'I won't trust AI': Readers share mixed reaction to AI tools that calculate people's biological ages",
-      "fetched_at": "2026-10-13T22:04:08.736951+00:00"
-    },
-    "30229fced173632b": {
-      "title": "Roman Window Grille Uncovered in Switzerland",
-      "fetched_at": "2026-10-13T22:04:09.364809+00:00"
-    },
-    "15a3df0428e09761": {
-      "title": "Early Anchor Found Off Norwegian Coast",
-      "fetched_at": "2026-10-13T22:04:09.993123+00:00"
-    },
-    "48f90c0aeefb63e8": {
-      "title": "Flu season is kicking off early — are you getting a vaccine?",
-      "fetched_at": "2026-10-13T22:04:10.615535+00:00"
-    },
-    "290332af207f3133": {
-      "title": "Scientists find a surprising genetic twist behind octopus intelligence",
-      "fetched_at": "2026-10-13T22:04:11.233569+00:00"
-    },
-    "d4bae9c27016f83e": {
-      "title": "Vagus Nerve Stimulation Could Help New Skills Stick",
-      "fetched_at": "2026-10-13T22:04:11.895104+00:00"
-    },
-    "b34e63cb1a666b70": {
-      "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
-      "fetched_at": "2026-10-13T22:04:12.520694+00:00"
-    },
-    "3e3245eba63f8210": {
-      "title": "This mysterious hole on the Moon may open into a giant cave",
-      "fetched_at": "2026-10-13T22:04:13.238885+00:00"
-    },
     "7ad8986a26666a22": {
       "title": "OCP 2026: Agentic AI Pushes the Data Center from Chip to Grid",
       "fetched_at": "2026-10-14T02:33:33.177493+00:00"
@@ -3091,7 +2971,131 @@
     "ba46b7231c8e50ba": {
       "title": "Uranium from World War II reveals how close the Nazis were to an atomic bomb",
       "fetched_at": "2026-10-21T20:59:20.401170+00:00"
+    },
+    "5057204a5d4e6570": {
+      "title": "LLM Agents Play Pokemon Showdown",
+      "fetched_at": "2026-10-22T02:18:20.981536+00:00"
+    },
+    "5d5761b1e2cb91e9": {
+      "title": "Can AI generate reliable product demos directly from source code?",
+      "fetched_at": "2026-10-22T02:18:21.608159+00:00"
+    },
+    "712d3ca828310555": {
+      "title": "AI Overlay that Lives on your Desktop",
+      "fetched_at": "2026-10-22T02:18:22.222280+00:00"
+    },
+    "544193e367fc7cca": {
+      "title": "Amazon warns new cyber flaws detected using AI are being 'broadly exploited'",
+      "fetched_at": "2026-10-22T02:18:22.858475+00:00"
+    },
+    "09d25621f25eaa46": {
+      "title": "Can a malicious webpage hijack an AI agent?",
+      "fetched_at": "2026-10-22T02:18:23.469476+00:00"
+    },
+    "de634b8bb6f080b3": {
+      "title": "Databricks launches AI Runtime for managed GPU training on enterprise data",
+      "fetched_at": "2026-10-22T02:18:24.094219+00:00"
+    },
+    "4e0cb82ff72a5067": {
+      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+      "fetched_at": "2026-10-22T02:18:24.741727+00:00"
+    },
+    "5eb25457f6342830": {
+      "title": "Deckle, a morning newspaper for your Kindle, built on your own machine",
+      "fetched_at": "2026-10-22T02:18:25.382340+00:00"
+    },
+    "1e5b53813a0d06fc": {
+      "title": "Unsupervised AI agent reportedly deletes TV show's edit before release",
+      "fetched_at": "2026-10-22T02:18:26.014511+00:00"
+    },
+    "d8c590d66cbd88b1": {
+      "title": "Russia cracks down on AI bears as real attacks spread fear",
+      "fetched_at": "2026-10-22T02:18:26.647317+00:00"
+    },
+    "7a2fe373e1ba04f6": {
+      "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+      "fetched_at": "2026-10-22T02:18:27.266455+00:00"
+    },
+    "78bcc34b01dce6dd": {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "fetched_at": "2026-10-22T02:18:27.885980+00:00"
+    },
+    "5b43689daa70f2bc": {
+      "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+      "fetched_at": "2026-10-22T02:18:28.510281+00:00"
+    },
+    "b4f0e346c2818f7d": {
+      "title": "Data centers could erase decades of air quality gains",
+      "fetched_at": "2026-10-22T02:18:29.132994+00:00"
+    },
+    "f1993784227a3272": {
+      "title": "Dense Sand – Sovereign BYOA AI SoC Platform for AWS",
+      "fetched_at": "2026-10-22T02:18:29.766280+00:00"
+    },
+    "dfdac3debc3250db": {
+      "title": "Firmenza – An AI assistant for SAM.gov registration and federal contracts",
+      "fetched_at": "2026-10-22T02:18:30.398070+00:00"
+    },
+    "afc3b257d03bb083": {
+      "title": "Agency: Open-source platform for debugging, profiling, and analyzing AI agents",
+      "fetched_at": "2026-10-22T02:18:31.011870+00:00"
+    },
+    "3f426328cf957551": {
+      "title": "Obsession with AI May Be Starving the Research Fields It Needs to Survive",
+      "fetched_at": "2026-10-22T02:18:31.630963+00:00"
+    },
+    "ebec343406d986c1": {
+      "title": "Meta to create a new class of shares to fund AI push",
+      "fetched_at": "2026-10-22T02:18:32.246462+00:00"
+    },
+    "d83749bac100b6fc": {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "fetched_at": "2026-10-22T02:18:32.899722+00:00"
+    },
+    "069e16fbb2b2f1cb": {
+      "title": "中国拟出台新规，加强对先进人工智能模型出口管控",
+      "fetched_at": "2026-10-22T02:18:36.632349+00:00"
+    },
+    "3e485d6478f421ee": {
+      "title": "吃什麼能保持年輕肌膚？",
+      "fetched_at": "2026-10-22T02:18:37.300568+00:00"
+    },
+    "34c49e4c23218bb7": {
+      "title": "為甚麼馬斯克要策劃 SpaceX 與特斯拉的超大型合併？",
+      "fetched_at": "2026-10-22T02:18:37.917120+00:00"
+    },
+    "62024078126c75e5": {
+      "title": "特朗普治下，美國經濟的真實表現如何？",
+      "fetched_at": "2026-10-22T02:18:38.539663+00:00"
+    },
+    "83dca3e5fb645218": {
+      "title": "James Webb telescope discovers surprising trove of metals around the Milky Way's supermassive black hole",
+      "fetched_at": "2026-10-22T02:20:57.295844+00:00"
+    },
+    "b310360a44764b32": {
+      "title": "Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand'",
+      "fetched_at": "2026-10-22T02:20:57.918595+00:00"
+    },
+    "623428f0e2d8af8a": {
+      "title": "Quasi-Riemann, Biologic Discovery, and Swanson's \"Undiscovered Public Knowledge\"",
+      "fetched_at": "2026-10-22T02:20:58.543575+00:00"
+    },
+    "31d0190e364461c8": {
+      "title": "How were letters delivered in the ancient world before street addresses?",
+      "fetched_at": "2026-10-22T02:20:59.165240+00:00"
+    },
+    "a8b1e6be2833700d": {
+      "title": "Large-scale predictive modeling in drug discovery: flow-based programming (2016)",
+      "fetched_at": "2026-10-22T02:20:59.768492+00:00"
+    },
+    "2a297e6525fa9e47": {
+      "title": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
+      "fetched_at": "2026-10-22T02:21:00.379610+00:00"
+    },
+    "ef5137634e11c8e0": {
+      "title": "Discovery of a second-generation planet candidate accreting onto a white dwarf",
+      "fetched_at": "2026-10-22T02:21:01.003767+00:00"
     }
   },
-  "last_updated": "2026-10-21T20:59:20.520486+00:00"
+  "last_updated": "2026-10-22T02:21:01.048760+00:00"
 }
