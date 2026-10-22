@@ -1,141 +1,5 @@
 {
   "articles": {
-    "e024bf76ccfcbf8a": {
-      "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
-      "fetched_at": "2026-10-14T10:47:53.173978+00:00"
-    },
-    "a4f57b5aa6c610cc": {
-      "title": "210-million-year-old dinosaur discovery reveals a lost world in Africa",
-      "fetched_at": "2026-10-14T10:47:53.815187+00:00"
-    },
-    "7e1479178ded733f": {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "fetched_at": "2026-10-14T16:06:54.593077+00:00"
-    },
-    "340d74c7fb796238": {
-      "title": "Show HN: Eulix – Local code index and call graphs for large repos, LLM optional",
-      "fetched_at": "2026-10-14T16:06:55.217837+00:00"
-    },
-    "ed964b7551adec6e": {
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "fetched_at": "2026-10-14T16:06:55.828660+00:00"
-    },
-    "a9fffa9235324e23": {
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "fetched_at": "2026-10-14T16:06:56.455864+00:00"
-    },
-    "780d99257bc07537": {
-      "title": "Mathematics and AI Oracles [pdf]",
-      "fetched_at": "2026-10-14T16:06:57.081198+00:00"
-    },
-    "f9bd2ca7fcdb966a": {
-      "title": "Celestial AI Introduces Photonic Fabric [2x HBM3e and DDR5 Memory] Module (2025)",
-      "fetched_at": "2026-10-14T16:06:57.703670+00:00"
-    },
-    "9333f48af2b3ee71": {
-      "title": "The state of agentic AI in chip design tools in 2026",
-      "fetched_at": "2026-10-14T16:06:58.323144+00:00"
-    },
-    "44e6fbe33adc14f4": {
-      "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
-      "fetched_at": "2026-10-14T16:06:59.016976+00:00"
-    },
-    "4b01b2d4a9120bc8": {
-      "title": "OpenAI CFO Says Firms Using Chinese AI Models Are Risking Safety",
-      "fetched_at": "2026-10-14T16:06:59.637353+00:00"
-    },
-    "d2862b36f39f52f2": {
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "fetched_at": "2026-10-14T16:07:00.263434+00:00"
-    },
-    "dbdd6c0f0f37f264": {
-      "title": "Veda: The First AI Native Hobby OS",
-      "fetched_at": "2026-10-14T16:07:00.878158+00:00"
-    },
-    "0cefbffe526e0260": {
-      "title": "Make Your Coding Assistant a 10x AI Engineer",
-      "fetched_at": "2026-10-14T16:07:01.541215+00:00"
-    },
-    "490d7ece12a2a4f4": {
-      "title": "Amazon uses AI-powered 'risk' system to track union activity globally",
-      "fetched_at": "2026-10-14T16:07:02.159812+00:00"
-    },
-    "64fbdb5325e33925": {
-      "title": "I Want More from AI Than Another Agent",
-      "fetched_at": "2026-10-14T16:07:02.789966+00:00"
-    },
-    "4dac97fc0993c5df": {
-      "title": "Anyone built something where AI computation get cryptography receipts",
-      "fetched_at": "2026-10-14T16:07:03.449514+00:00"
-    },
-    "248cead3ffe104a3": {
-      "title": "LLM AssBench",
-      "fetched_at": "2026-10-14T16:07:04.108270+00:00"
-    },
-    "a37020fae9ae92fc": {
-      "title": "Behavior-Centric AI Design",
-      "fetched_at": "2026-10-14T16:07:04.758532+00:00"
-    },
-    "5344f830d4a9ccfb": {
-      "title": "Show HN: Live release calendar for frontier AI models, from Polymarket odds",
-      "fetched_at": "2026-10-14T16:07:05.376285+00:00"
-    },
-    "5bc65f0097d6c61f": {
-      "title": "Show HN: The first short movie built using code and AI",
-      "fetched_at": "2026-10-14T16:07:06.067096+00:00"
-    },
-    "81147a0871b845e9": {
-      "title": "Deficit Loop: Closed-loop adaptive calorie targeting with per-user LLM agents [pdf]",
-      "fetched_at": "2026-10-14T16:07:06.676587+00:00"
-    },
-    "86d2fbb2f7eb6e99": {
-      "title": "薄熙來前搭檔受查：重慶政壇「不倒翁」黃奇帆是誰？",
-      "fetched_at": "2026-10-14T16:07:08.910536+00:00"
-    },
-    "568bef8121785e97": {
-      "title": "Chinese pottery discovered in Great Zimbabwe reveals medieval African empire's vast connections spanning thousands of miles",
-      "fetched_at": "2026-10-14T16:07:15.422804+00:00"
-    },
-    "0c914524bb675200": {
-      "title": "Best wildlife cameras 2026: The ultimate buying guide to every major camera brand",
-      "fetched_at": "2026-10-14T16:07:16.030963+00:00"
-    },
-    "70d68a1eb2758623": {
-      "title": "Flightless Jurassic bird was like a carnivorous pheasant with killer claws",
-      "fetched_at": "2026-10-14T16:07:16.663965+00:00"
-    },
-    "cd01cdaf81a8ed2d": {
-      "title": "BirriaSDR: 2.4/5 GHz SDR Discovery on a Mass-Produced USB3.0 Wi-Fi Dongle",
-      "fetched_at": "2026-10-14T16:07:17.275130+00:00"
-    },
-    "4a75524485a1f6d5": {
-      "title": "One of America's biggest meteor craters is 100 million years younger than we thought — and coincided with a global extinction event",
-      "fetched_at": "2026-10-14T16:07:17.891965+00:00"
-    },
-    "ab81af9a548c6214": {
-      "title": "Scientists reveal why some workout recovery tricks can backfire",
-      "fetched_at": "2026-10-14T16:07:18.501563+00:00"
-    },
-    "cdf749f72f2977cc": {
-      "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
-      "fetched_at": "2026-10-14T16:07:19.165006+00:00"
-    },
-    "3e9f5c4c9fb37071": {
-      "title": "The secret to easier exercise as an adult may start in childhood",
-      "fetched_at": "2026-10-14T16:07:19.898351+00:00"
-    },
-    "1a59ba6ac3d5d402": {
-      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
-      "fetched_at": "2026-10-14T16:07:20.521087+00:00"
-    },
-    "4d3757bcdc69d3f0": {
-      "title": "Scientists may have finally solved the mystery of the Moon’s two faces",
-      "fetched_at": "2026-10-14T16:07:21.167436+00:00"
-    },
-    "4b01b8ccc4f363ed": {
-      "title": "Scientists discover how harmful “zombie cells” hide from the immune system",
-      "fetched_at": "2026-10-14T16:07:21.792108+00:00"
-    },
     "0d3db56b6d4a4f33": {
       "title": "Veda – An AI-Native Operating System Built from the Ground Up",
       "fetched_at": "2026-10-14T21:04:16.910318+00:00"
@@ -3027,7 +2891,139 @@
     "46d2b2f0867051d5": {
       "title": "Surprising new pattern of groundwater loss may signal a turning point for the Colorado River Basin",
       "fetched_at": "2026-10-22T10:47:52.564670+00:00"
+    },
+    "162356449a62e88e": {
+      "title": "Chiron Changes AI Incident Investigation on Orca-Bench",
+      "fetched_at": "2026-10-22T16:13:46.473573+00:00"
+    },
+    "8a567ae69c02b388": {
+      "title": "An interactive simulator for securing autonomous AI agents in AWS",
+      "fetched_at": "2026-10-22T16:13:47.103743+00:00"
+    },
+    "cadf7837506cad48": {
+      "title": "AI Use in Publishing",
+      "fetched_at": "2026-10-22T16:13:47.695332+00:00"
+    },
+    "189c90e4b45d83ea": {
+      "title": "Do we have a moral obligation to improve software with AI?",
+      "fetched_at": "2026-10-22T16:13:48.304863+00:00"
+    },
+    "27377d15b43e212b": {
+      "title": "The AI Product Operating System: Why Knowing What to Build Is the Only Moat Left",
+      "fetched_at": "2026-10-22T16:13:48.887581+00:00"
+    },
+    "367507fdf9dfd4df": {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "fetched_at": "2026-10-22T16:13:49.468712+00:00"
+    },
+    "48f2ce6af4a46668": {
+      "title": "Show HN: Dedoomify – AI news, minus the doom",
+      "fetched_at": "2026-10-22T16:13:50.058858+00:00"
+    },
+    "6992fab835a270e4": {
+      "title": "AI #191: The Hackening Begins",
+      "fetched_at": "2026-10-22T16:13:50.633894+00:00"
+    },
+    "1bd79be079f40148": {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "fetched_at": "2026-10-22T16:13:51.241390+00:00"
+    },
+    "bcd9e47816c2d91f": {
+      "title": "Grok Bot: The cycle of productivity tools repeats itself in AI",
+      "fetched_at": "2026-10-22T16:13:51.826824+00:00"
+    },
+    "c5cf40a9dadb5437": {
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "fetched_at": "2026-10-22T16:13:52.409123+00:00"
+    },
+    "a8ccb40677fcc845": {
+      "title": "The Wish Machine: Who Does AI Obey? [video]",
+      "fetched_at": "2026-10-22T16:13:53.043463+00:00"
+    },
+    "277d3160d4814bda": {
+      "title": "Show HN: I made a cute game for learning loop invariants",
+      "fetched_at": "2026-10-22T16:13:53.629825+00:00"
+    },
+    "45b91d224502e63a": {
+      "title": "Ask HN: Which AI Security tool do you use and why for your repositories?",
+      "fetched_at": "2026-10-22T16:13:54.210859+00:00"
+    },
+    "d86a874a1207db2a": {
+      "title": "Show HN: Aven-stops AI coding tools from breaking yours project's rules",
+      "fetched_at": "2026-10-22T16:13:54.842933+00:00"
+    },
+    "7c22aa313baf1559": {
+      "title": "Show HN: Airlock, which sandboxes AI agents, is available on the Mac App Store",
+      "fetched_at": "2026-10-22T16:13:55.464542+00:00"
+    },
+    "95b4c456c52c1ff4": {
+      "title": "A Generalized Response to the AI Layoff Trap",
+      "fetched_at": "2026-10-22T16:13:56.081401+00:00"
+    },
+    "a5d870cf3f048539": {
+      "title": "Show HN: Linden – a rule based verification layer for AI agents",
+      "fetched_at": "2026-10-22T16:13:56.660861+00:00"
+    },
+    "6b4404f389ecb620": {
+      "title": "Important updates to AI use on Etsy",
+      "fetched_at": "2026-10-22T16:13:57.250086+00:00"
+    },
+    "7b90f56aa541c066": {
+      "title": "PHP: The three little letters wreaking havoc across the web",
+      "fetched_at": "2026-10-22T16:13:57.834558+00:00"
+    },
+    "d9e60867faa09dec": {
+      "title": "人類身高的起伏變化：哪些歷史事件影響最大？",
+      "fetched_at": "2026-10-22T16:14:00.983616+00:00"
+    },
+    "df0803ddffc0b3f6": {
+      "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
+      "fetched_at": "2026-10-22T16:14:01.591918+00:00"
+    },
+    "4505f712f9c8e2a9": {
+      "title": "Will plants survive climate change? The 'Great Dying' reveals clues about their resilience.",
+      "fetched_at": "2026-10-22T16:14:04.923446+00:00"
+    },
+    "d961e2f8a5d713c6": {
+      "title": "What Ancient Latin Sounded Like, and How We Know It",
+      "fetched_at": "2026-10-22T16:14:05.511063+00:00"
+    },
+    "8ed3dc7dec5fbb19": {
+      "title": "The space shuttle Discovery, the S in Discovery is upside down",
+      "fetched_at": "2026-10-22T16:14:06.085492+00:00"
+    },
+    "321fe8b030ceb1ab": {
+      "title": "Birds are more afraid of women than men. Scientists have no idea why",
+      "fetched_at": "2026-10-22T16:14:06.672349+00:00"
+    },
+    "c56b451fc8fb7dde": {
+      "title": "Oxford scientists discover how viruses build themselves without a blueprint",
+      "fetched_at": "2026-10-22T16:14:07.252612+00:00"
+    },
+    "f5fa38d44e76972c": {
+      "title": "A revolutionary new microscope could reveal the hidden machinery of life",
+      "fetched_at": "2026-10-22T16:14:07.844479+00:00"
+    },
+    "c5fa5b73d6028a64": {
+      "title": "Honey bees are bullying other bees, scientists discover",
+      "fetched_at": "2026-10-22T16:14:08.462039+00:00"
+    },
+    "1320dac58fe18531": {
+      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
+      "fetched_at": "2026-10-22T16:14:09.040988+00:00"
+    },
+    "0d63ea09b559ab55": {
+      "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
+      "fetched_at": "2026-10-22T16:14:09.624004+00:00"
+    },
+    "06fe5282ae5d9dfe": {
+      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+      "fetched_at": "2026-10-22T16:14:10.232732+00:00"
+    },
+    "29c7220152cd00e6": {
+      "title": "A rock plunged 90 kilometers into Earth and revealed something unexpected",
+      "fetched_at": "2026-10-22T16:14:10.814954+00:00"
     }
   },
-  "last_updated": "2026-10-22T10:47:52.617992+00:00"
+  "last_updated": "2026-10-22T16:14:10.909757+00:00"
 }
