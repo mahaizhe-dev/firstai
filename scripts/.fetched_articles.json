@@ -1,221 +1,5 @@
 {
   "articles": {
-    "0d3db56b6d4a4f33": {
-      "title": "Veda – An AI-Native Operating System Built from the Ground Up",
-      "fetched_at": "2026-10-14T21:04:16.910318+00:00"
-    },
-    "a70d2ebdb5c71ac8": {
-      "title": "The AI labor apocalypse is on hold (for now)",
-      "fetched_at": "2026-10-14T21:04:17.502146+00:00"
-    },
-    "aa24a2ea6552de1d": {
-      "title": "We're Learning to Live with Waymos. It's Going Weird",
-      "fetched_at": "2026-10-14T21:04:18.100013+00:00"
-    },
-    "086fe8ebbeca842c": {
-      "title": "Making 3D Model with Meta Oakley AI Glasses and Digital Tape Measure [video]",
-      "fetched_at": "2026-10-14T21:04:18.690758+00:00"
-    },
-    "7641dffe94299fd8": {
-      "title": "AI systems are improving rapidly at Slay the Spire and its sequel",
-      "fetched_at": "2026-10-14T21:04:19.275093+00:00"
-    },
-    "811989fffec589f0": {
-      "title": "Digital Signatures Using Machine Learning-Based Encoding",
-      "fetched_at": "2026-10-14T21:04:19.865061+00:00"
-    },
-    "9d0563675723d2a6": {
-      "title": "LLM vs. Decision models like Jev and use-cases",
-      "fetched_at": "2026-10-14T21:04:20.498292+00:00"
-    },
-    "4144108ccd54ffa7": {
-      "title": "We should reject AI in academia",
-      "fetched_at": "2026-10-14T21:04:21.092330+00:00"
-    },
-    "124297deed5d2901": {
-      "title": "Show HN: Checkobot – Detect Deepfakes and AI Images",
-      "fetched_at": "2026-10-14T21:04:21.687170+00:00"
-    },
-    "bb2c345a560fac82": {
-      "title": "Show HN: OSS AI engineering telemetry without collecting prompts or code",
-      "fetched_at": "2026-10-14T21:04:22.286126+00:00"
-    },
-    "02172308a2f1f9b4": {
-      "title": "AI agents overstate their results and remain far from autonomous",
-      "fetched_at": "2026-10-14T21:04:22.911704+00:00"
-    },
-    "9a27418c4502fdca": {
-      "title": "Show HN: AI Interview Index – which companies allow AI in coding interviews",
-      "fetched_at": "2026-10-14T21:04:23.509826+00:00"
-    },
-    "7819af11e36c8bfd": {
-      "title": "AI safety money floods into politics",
-      "fetched_at": "2026-10-14T21:04:24.225536+00:00"
-    },
-    "e6e5948428ed6d02": {
-      "title": "Why Does AI Write Like Yoda?",
-      "fetched_at": "2026-10-14T21:04:24.822452+00:00"
-    },
-    "ddf823a328497ca1": {
-      "title": "AI sector wipeout risks global financial contagion, IMF report warns",
-      "fetched_at": "2026-10-14T21:04:25.415933+00:00"
-    },
-    "a3e87ae246ac8429": {
-      "title": "Show HN: Run AI-generated logic safely inside your app",
-      "fetched_at": "2026-10-14T21:04:26.000566+00:00"
-    },
-    "096db25202576fe0": {
-      "title": "The AI race is back on",
-      "fetched_at": "2026-10-14T21:04:26.574796+00:00"
-    },
-    "f0539e04733b5c3e": {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-      "fetched_at": "2026-10-14T21:04:27.170047+00:00"
-    },
-    "7210df17b628cd33": {
-      "title": "Researchers cig-nal their faith in AI by taking up smoking",
-      "fetched_at": "2026-10-14T21:04:27.795305+00:00"
-    },
-    "c73264589763f8a1": {
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "fetched_at": "2026-10-14T21:04:28.379101+00:00"
-    },
-    "d4f79c8082ae4f01": {
-      "title": "Chronic back pain may activate an unexpected brain network, study finds",
-      "fetched_at": "2026-10-14T21:04:32.408609+00:00"
-    },
-    "c6b1346d30a40b05": {
-      "title": "DNA from centuries-old skeletons buried in Montreal reveals no genetic mixing between Indigenous people and French colonists",
-      "fetched_at": "2026-10-14T21:04:33.024439+00:00"
-    },
-    "a2e7d0568bdb85d2": {
-      "title": "Tapeworm drug could help treat endometriosis, mouse study hints",
-      "fetched_at": "2026-10-14T21:04:33.642185+00:00"
-    },
-    "8d0065bed390c3c1": {
-      "title": "Australia Returns Prehistoric Sculpture Fragment to Jordan",
-      "fetched_at": "2026-10-14T21:04:34.292647+00:00"
-    },
-    "3789da44e6933863": {
-      "title": "Ancient Indigenous people in New Mexico lived through extreme climate change 23,000 years ago, study suggests",
-      "fetched_at": "2026-10-14T21:04:34.875366+00:00"
-    },
-    "9d6cec93a5542fdf": {
-      "title": "“Harvie’s Dyke” Discovered in Scotland",
-      "fetched_at": "2026-10-14T21:04:35.463281+00:00"
-    },
-    "821696c4ec5b7f58": {
-      "title": "Giant Steel Ball Unearthed at North Carolina Mill Site",
-      "fetched_at": "2026-10-14T21:04:36.039739+00:00"
-    },
-    "18764f04723184ff": {
-      "title": "Tooth Enamel Records Rise of Medieval England’s Lead Industry",
-      "fetched_at": "2026-10-14T21:04:36.615657+00:00"
-    },
-    "9f722f778a3b9e49": {
-      "title": "Physicists claim they can predict when AI will turn dangerous",
-      "fetched_at": "2026-10-14T21:04:37.203013+00:00"
-    },
-    "2470b3ea9300a6b1": {
-      "title": "'They cannot compete with the prices that fish factories will pay': How demand for fish meal takes priority over feeding people",
-      "fetched_at": "2026-10-14T21:04:37.790690+00:00"
-    },
-    "df2608435adca24a": {
-      "title": "State attorneys general seize on AI as Washington stalls",
-      "fetched_at": "2026-10-15T02:14:20.273753+00:00"
-    },
-    "f669a5c545a2260f": {
-      "title": "Lgit: Source Control for the AI Era",
-      "fetched_at": "2026-10-15T02:14:20.882131+00:00"
-    },
-    "fd8a27d80a9238ae": {
-      "title": "Linux kernel devs drop obligatory confession of AI tool usage",
-      "fetched_at": "2026-10-15T02:14:21.503246+00:00"
-    },
-    "7e7167fe4ae5a390": {
-      "title": "Call for stories: human–AI collaboration in recent mathematics",
-      "fetched_at": "2026-10-15T02:14:22.103471+00:00"
-    },
-    "80c8ef09ab0e42a9": {
-      "title": "AI Safety Is Not a Corporate Plot",
-      "fetched_at": "2026-10-15T02:14:22.714345+00:00"
-    },
-    "2cbdcc7cb19a1aa6": {
-      "title": "Ricursive Intelligence bets on AI-designed chips to solve the compute crisis",
-      "fetched_at": "2026-10-15T02:14:23.401775+00:00"
-    },
-    "f2fd5e374e947e40": {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "fetched_at": "2026-10-15T02:14:23.998213+00:00"
-    },
-    "2d113ffee3473b73": {
-      "title": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
-      "fetched_at": "2026-10-15T02:14:24.612517+00:00"
-    },
-    "83bf28fa370222a2": {
-      "title": "Open-source LLM trading bots vs. the government bond, on paper money",
-      "fetched_at": "2026-10-15T02:14:25.224710+00:00"
-    },
-    "7bec6642606c5753": {
-      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
-      "fetched_at": "2026-10-15T02:14:25.833302+00:00"
-    },
-    "d630d133247b7c56": {
-      "title": "The AI boom is threatened by an epidemic of unreliable numbers",
-      "fetched_at": "2026-10-15T02:14:26.482796+00:00"
-    },
-    "ec45f478f1d9f5c2": {
-      "title": "GPT-4-0613 returns zero bytes to \"Be the null.\" GPT-3.5-turbo-1106 returns text",
-      "fetched_at": "2026-10-15T02:14:27.101514+00:00"
-    },
-    "755f36e3d761af6d": {
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "fetched_at": "2026-10-15T02:14:27.699662+00:00"
-    },
-    "4179096018c2c337": {
-      "title": "Chaos ensues when AI interviewer meets AI interviewee",
-      "fetched_at": "2026-10-15T02:14:28.306672+00:00"
-    },
-    "b9fa090103165099": {
-      "title": "Ben Affleck Sold His AI Company for $587M [video]",
-      "fetched_at": "2026-10-15T02:14:29.019921+00:00"
-    },
-    "827c991fa2b23453": {
-      "title": "Bank of America added 1k contractors to patch AI-exposed software flaws",
-      "fetched_at": "2026-10-15T02:14:29.625809+00:00"
-    },
-    "7e876fd1ef7f88dd": {
-      "title": "Local Model Guide – Find what LLMs fit on your machine",
-      "fetched_at": "2026-10-15T02:14:30.227263+00:00"
-    },
-    "dd9c64c9b49adf52": {
-      "title": "TezGrid: AI inference on idle computers",
-      "fetched_at": "2026-10-15T02:14:30.976769+00:00"
-    },
-    "74d49444cebdb898": {
-      "title": "Things we wish we'd known before building an AI chat agent",
-      "fetched_at": "2026-10-15T02:14:31.587886+00:00"
-    },
-    "a86a2a0f89ca22e0": {
-      "title": "ICE Wants to Use AI to Monitor Detainee Calls and Movements",
-      "fetched_at": "2026-10-15T02:14:32.197159+00:00"
-    },
-    "c85b2355a8aaa206": {
-      "title": "中国出口激增，年度贸易顺差有望再次刷新纪录",
-      "fetched_at": "2026-10-15T02:14:34.719704+00:00"
-    },
-    "3c93898d0a6cd45a": {
-      "title": "美國中期選舉2026：贏會贏在哪裏，輸會輸在哪裏？",
-      "fetched_at": "2026-10-15T02:14:35.337260+00:00"
-    },
-    "a4641f58c28e27fc": {
-      "title": "令人窒息的有毒霧霾蔓延東南亞，誰之過？",
-      "fetched_at": "2026-10-15T02:14:35.943598+00:00"
-    },
-    "5d588edf1f59ed5d": {
-      "title": "教宗良十四世證實患癌再掀健康透明度擔憂",
-      "fetched_at": "2026-10-15T02:14:36.551294+00:00"
-    },
     "6ba94782c74b69e0": {
       "title": "How Researchers Made Contact with a Chinese AI Agent Fleet",
       "fetched_at": "2026-10-15T10:30:55.557944+00:00"
@@ -3143,7 +2927,63 @@
     "2da081234ee92efb": {
       "title": "Japan launches world's first round-trip mission to Mars.",
       "fetched_at": "2026-10-22T20:57:23.379962+00:00"
+    },
+    "c39f76ad8096a289": {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "fetched_at": "2026-10-23T02:23:59.364862+00:00"
+    },
+    "4084a73829960259": {
+      "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+      "fetched_at": "2026-10-23T02:24:00.007093+00:00"
+    },
+    "1f7eb67c411416d6": {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "fetched_at": "2026-10-23T02:24:00.644161+00:00"
+    },
+    "d8a3f926528580e7": {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "fetched_at": "2026-10-23T02:24:01.274714+00:00"
+    },
+    "35610fd4a54aa714": {
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "fetched_at": "2026-10-23T02:24:01.915848+00:00"
+    },
+    "c2508c6776bffbe9": {
+      "title": "Meta turns Muse sharing back on",
+      "fetched_at": "2026-10-23T02:24:02.558824+00:00"
+    },
+    "7f4e10fa623bec46": {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "fetched_at": "2026-10-23T02:24:03.187578+00:00"
+    },
+    "5825f9e1ed2ccb80": {
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "fetched_at": "2026-10-23T02:24:03.851966+00:00"
+    },
+    "911ab84badf77289": {
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "fetched_at": "2026-10-23T02:24:04.494258+00:00"
+    },
+    "b8274789248c4f6e": {
+      "title": "颱風薔琵逼近 台灣大部分縣市停班停課",
+      "fetched_at": "2026-10-23T02:24:07.358072+00:00"
+    },
+    "1d084e144bd077ce": {
+      "title": "西藏發生7級強烈地震，據報至少16死、數十人受傷",
+      "fetched_at": "2026-10-23T02:24:07.974425+00:00"
+    },
+    "6d179b98a9e02633": {
+      "title": "特朗普訴BBC誹謗案：法官下令總統須宣誓並答問作證",
+      "fetched_at": "2026-10-23T02:24:08.754916+00:00"
+    },
+    "2456528705799556": {
+      "title": "在台湾，台风不仅是自然灾害，还可能决定政治人物的命运",
+      "fetched_at": "2026-10-23T02:24:09.401931+00:00"
+    },
+    "ccc80b965a7ec4c2": {
+      "title": "中共五中全會前瞻：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
+      "fetched_at": "2026-10-23T02:24:10.056792+00:00"
     }
   },
-  "last_updated": "2026-10-22T20:57:23.460631+00:00"
+  "last_updated": "2026-10-23T02:24:11.559143+00:00"
 }
