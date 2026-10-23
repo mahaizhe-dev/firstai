@@ -1,133 +1,5 @@
 {
   "articles": {
-    "6ba94782c74b69e0": {
-      "title": "How Researchers Made Contact with a Chinese AI Agent Fleet",
-      "fetched_at": "2026-10-15T10:30:55.557944+00:00"
-    },
-    "c0c505f3b6105aff": {
-      "title": "How are you centralising AI for development at your company?",
-      "fetched_at": "2026-10-15T10:30:56.182449+00:00"
-    },
-    "2205ef295cb6deff": {
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "fetched_at": "2026-10-15T10:30:56.803424+00:00"
-    },
-    "3dbf1da5ae194292": {
-      "title": "Costs of Switching AI Models",
-      "fetched_at": "2026-10-15T10:30:57.428476+00:00"
-    },
-    "e8fdbf035e01ff70": {
-      "title": "Show HN: I built a rogue AI game, then let five AI models play it",
-      "fetched_at": "2026-10-15T10:30:58.079771+00:00"
-    },
-    "52779e3834627ee2": {
-      "title": "AI has changed my engineering leadership role",
-      "fetched_at": "2026-10-15T10:30:58.716157+00:00"
-    },
-    "35cf2746c291ff99": {
-      "title": "Even Without AI, the Risk of a Biological Attack Is Terrifying",
-      "fetched_at": "2026-10-15T10:30:59.346569+00:00"
-    },
-    "e558938f36248989": {
-      "title": "Show HN: Reproducible failure drills for AI coding agents",
-      "fetched_at": "2026-10-15T10:30:59.980291+00:00"
-    },
-    "97f767da2cfc0fa1": {
-      "title": "新玩意 253｜少数派的编辑们最近买了啥？",
-      "fetched_at": "2026-10-15T10:31:00.603567+00:00"
-    },
-    "0c716d11f591dc00": {
-      "title": "WSP MCP – Free WordPress MCP for Connecting AI Coding Agents",
-      "fetched_at": "2026-10-15T10:31:01.228906+00:00"
-    },
-    "7171258a46d52477": {
-      "title": "Kerno 1.0 – AI Back End Runtime QA Engineer",
-      "fetched_at": "2026-10-15T10:31:01.853652+00:00"
-    },
-    "98ed983b7463e06a": {
-      "title": "REA – I tested AI agent reverse engineering",
-      "fetched_at": "2026-10-15T10:31:02.510344+00:00"
-    },
-    "c80e57726bdee4e5": {
-      "title": "AI was great until it was not",
-      "fetched_at": "2026-10-15T10:31:03.226008+00:00"
-    },
-    "090d0f82c0504a6f": {
-      "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
-      "fetched_at": "2026-10-15T10:31:03.858723+00:00"
-    },
-    "a3a4b973489e2bc2": {
-      "title": "Forensic Analysis of RL/RLHF-Induced Privilege Escalation in AI Agents",
-      "fetched_at": "2026-10-15T10:31:04.481499+00:00"
-    },
-    "510b14ca3dec3a5f": {
-      "title": "Show HN: Working on Plug and play AI memory that works across AI agents",
-      "fetched_at": "2026-10-15T10:31:05.200800+00:00"
-    },
-    "ee87490ac09e43a1": {
-      "title": "LLM-gauze fixes LLM errors",
-      "fetched_at": "2026-10-15T10:31:05.832681+00:00"
-    },
-    "805e398ad66cb227": {
-      "title": "VeerAI: An AI agent inside our hosting dashboard",
-      "fetched_at": "2026-10-15T10:31:06.449343+00:00"
-    },
-    "8d04a1f07b01a785": {
-      "title": "Show HN: Hotel Lobby AI – 9:16 vertical COLORS show rap videos with Wan 3.0",
-      "fetched_at": "2026-10-15T10:31:07.075308+00:00"
-    },
-    "ab25367c989366c4": {
-      "title": "Bloomberg Doubles Down on Conversational AI",
-      "fetched_at": "2026-10-15T10:31:07.685923+00:00"
-    },
-    "b43436861d6ea4ff": {
-      "title": "減肥針「微劑量」用藥漸成風潮：注射少量真的安全嗎？",
-      "fetched_at": "2026-10-15T10:31:10.019644+00:00"
-    },
-    "da3fec9590305cf3": {
-      "title": "中國和印度不算老友，尼泊爾想團結他們應對氣候威脅",
-      "fetched_at": "2026-10-15T10:31:10.646649+00:00"
-    },
-    "7f8109e92b6f093b": {
-      "title": "新任白宫新闻秘书在中国做过律师吗？我们进行了事实核查",
-      "fetched_at": "2026-10-15T10:31:11.307592+00:00"
-    },
-    "572ce69e8fd85d9c": {
-      "title": "康奈爾大學因性侵案禁止兄弟會派對",
-      "fetched_at": "2026-10-15T10:31:11.926714+00:00"
-    },
-    "710a0377290fafbb": {
-      "title": "阴谋、疑团和争议：朴正熙暗杀事件电影加剧韩国文化战争",
-      "fetched_at": "2026-10-15T10:31:12.543913+00:00"
-    },
-    "8565155fc8bc164c": {
-      "title": "那些从特朗普内阁中“消失”的女性",
-      "fetched_at": "2026-10-15T10:31:13.159481+00:00"
-    },
-    "32408a375fe4cdc3": {
-      "title": "中国人工智能加入“失控”大军：腾讯AI被指越界操作",
-      "fetched_at": "2026-10-15T10:31:13.777588+00:00"
-    },
-    "80250715f47e29f8": {
-      "title": "星盾使用受限、俄方袭击升级：乌克兰“腹背受敌”",
-      "fetched_at": "2026-10-15T10:31:14.401271+00:00"
-    },
-    "1c5eef2fc8fd7d93": {
-      "title": "老龄化的欧洲，愤怒的年轻人",
-      "fetched_at": "2026-10-15T10:31:15.061448+00:00"
-    },
-    "5c35a110f4401821": {
-      "title": "Testosterone for menopause: The treatment is rising in popularity, but does it work?",
-      "fetched_at": "2026-10-15T10:31:17.169718+00:00"
-    },
-    "a55e8c87f77445bb": {
-      "title": "Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years",
-      "fetched_at": "2026-10-15T10:31:17.869143+00:00"
-    },
-    "34ef192edddaff15": {
-      "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
-      "fetched_at": "2026-10-15T10:31:18.510332+00:00"
-    },
     "5ed93fa9e0bbfeec": {
       "title": "Reddit Unveils AI Moderation; Old Reddit Is Restricted to Logged-In Users",
       "fetched_at": "2026-10-15T15:54:34.551144+00:00"
@@ -2983,7 +2855,87 @@
     "ccc80b965a7ec4c2": {
       "title": "中共五中全會前瞻：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
       "fetched_at": "2026-10-23T02:24:10.056792+00:00"
+    },
+    "f7f00ed208af5b44": {
+      "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+      "fetched_at": "2026-10-23T10:39:33.057101+00:00"
+    },
+    "25bfefb437e2eb32": {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "fetched_at": "2026-10-23T10:39:33.641464+00:00"
+    },
+    "400623aabdec88a9": {
+      "title": "破与立：设计视角下的 iPhone Duo",
+      "fetched_at": "2026-10-23T10:39:34.234122+00:00"
+    },
+    "e58aebc07cfea1db": {
+      "title": "颱風薔琵：台灣釀1死171傷，大部分縣市停班停課",
+      "fetched_at": "2026-10-23T10:39:37.156761+00:00"
+    },
+    "f8bc5d0d757d033a": {
+      "title": "台灣地方選舉倒數一個月：「颱風假」牽動選情？",
+      "fetched_at": "2026-10-23T10:39:37.736897+00:00"
+    },
+    "b5f6e1b61f7168fc": {
+      "title": "巴黎騷亂中的三位華人：「激烈的地方激烈，安靜的地方安靜」",
+      "fetched_at": "2026-10-23T10:39:39.085977+00:00"
+    },
+    "5572adbb391030f9": {
+      "title": "PHP是什麼？為何它引發全球網絡安全危機？",
+      "fetched_at": "2026-10-23T10:39:39.679523+00:00"
+    },
+    "e91c3f467b5c6dd6": {
+      "title": "西藏那曲7級地震16死54傷，當局派翼龍無人機進行災情偵察",
+      "fetched_at": "2026-10-23T10:39:40.258589+00:00"
+    },
+    "932e59eaba95fce6": {
+      "title": "李翊云新作：“小有名气”者的宿命与悲欢",
+      "fetched_at": "2026-10-23T10:39:40.845524+00:00"
+    },
+    "273b79117a940b77": {
+      "title": "西藏那曲发生7.0级地震，十余人死亡",
+      "fetched_at": "2026-10-23T10:39:41.446335+00:00"
+    },
+    "b2ecbf719dbf5ea9": {
+      "title": "普京的“棋局”：重塑美俄关系而无需作出任何让步",
+      "fetched_at": "2026-10-23T10:39:42.024234+00:00"
+    },
+    "9dbaab2155d1ba5d": {
+      "title": "AI识别PHP重大漏洞，多国政府和企业网站临时关停",
+      "fetched_at": "2026-10-23T10:39:42.633669+00:00"
+    },
+    "2fb15f1816c593c3": {
+      "title": "The Greatest Psychedelic Discovery You've Never Heard of [video]",
+      "fetched_at": "2026-10-23T10:40:23.660560+00:00"
+    },
+    "1bfd32aa850032ea": {
+      "title": "Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation. But will it really work?",
+      "fetched_at": "2026-10-23T10:40:24.310227+00:00"
+    },
+    "ced5c0c09220866b": {
+      "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
+      "fetched_at": "2026-10-23T10:40:24.915078+00:00"
+    },
+    "e6012f597ee138c4": {
+      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+      "fetched_at": "2026-10-23T10:40:25.506460+00:00"
+    },
+    "95bfcf6d3202c6c1": {
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "fetched_at": "2026-10-23T10:40:26.108970+00:00"
+    },
+    "586d5c34f3d699e5": {
+      "title": "Millions take fish oil for brain health. A two-year study found no benefit",
+      "fetched_at": "2026-10-23T10:40:26.696286+00:00"
+    },
+    "d4f79c8082ae4f01": {
+      "title": "Chronic back pain may activate an unexpected brain network, study finds",
+      "fetched_at": "2026-10-23T10:40:27.317736+00:00"
+    },
+    "c6b1346d30a40b05": {
+      "title": "DNA from centuries-old skeletons buried in Montreal reveals no genetic mixing between Indigenous people and French colonists",
+      "fetched_at": "2026-10-23T10:40:27.897259+00:00"
     }
   },
-  "last_updated": "2026-10-23T02:24:11.559143+00:00"
+  "last_updated": "2026-10-23T10:40:27.961789+00:00"
 }
