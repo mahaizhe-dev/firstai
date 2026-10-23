@@ -1,125 +1,5 @@
 {
   "articles": {
-    "5ed93fa9e0bbfeec": {
-      "title": "Reddit Unveils AI Moderation; Old Reddit Is Restricted to Logged-In Users",
-      "fetched_at": "2026-10-15T15:54:34.551144+00:00"
-    },
-    "1e66940bf95b84c1": {
-      "title": "PRAISE (Preceptorship for AI-Accelerated Software Engineering)",
-      "fetched_at": "2026-10-15T15:54:35.172388+00:00"
-    },
-    "65f511c435b730c0": {
-      "title": "Show HN: Ghx – A caching proxy for GitHub CLI, built for AI agents",
-      "fetched_at": "2026-10-15T15:54:35.816572+00:00"
-    },
-    "21950a15245d5b0f": {
-      "title": "Catching AI Censorship in Translation",
-      "fetched_at": "2026-10-15T15:54:36.447862+00:00"
-    },
-    "5c57f23b92897b83": {
-      "title": "Altitude in Your AI Assistant",
-      "fetched_at": "2026-10-15T15:54:37.082477+00:00"
-    },
-    "979f2d7b84fa2cb4": {
-      "title": "GitHub AI Scan for pull requests is now generally available",
-      "fetched_at": "2026-10-15T15:54:37.710751+00:00"
-    },
-    "b9ed82fdf8524830": {
-      "title": "Show HN: CommonForge – Let clients' AI agents work in your codebase safely",
-      "fetched_at": "2026-10-15T15:54:38.335342+00:00"
-    },
-    "02997b1c801cf59f": {
-      "title": "Show HN: Mark – free, no-signup AI chat with quizzes, diagrams, and docs",
-      "fetched_at": "2026-10-15T15:54:38.971632+00:00"
-    },
-    "86c59020acb4b380": {
-      "title": "Ask HN: In the age of AI does your boss still ask you for time estimates?",
-      "fetched_at": "2026-10-15T15:54:39.686097+00:00"
-    },
-    "cf586f81ba6bc963": {
-      "title": "Datadog trained their own cheap SOTA SRE LLM [pdf]",
-      "fetched_at": "2026-10-15T15:54:40.327106+00:00"
-    },
-    "fd159c6208a6c446": {
-      "title": "AI agents are coming to Rivian’s cars",
-      "fetched_at": "2026-10-15T15:54:40.949993+00:00"
-    },
-    "86680d41be273426": {
-      "title": "Mr. Chatterbox-2.7B: An AI model trained on all-Victorian text",
-      "fetched_at": "2026-10-15T15:54:41.571740+00:00"
-    },
-    "557cf1ba5181b5d5": {
-      "title": "Show HN: GPT-2 124M trained from scratch – 2.48B tokens, 2.8h on 4 A40s",
-      "fetched_at": "2026-10-15T15:54:42.197443+00:00"
-    },
-    "d26748db484f6b23": {
-      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-      "fetched_at": "2026-10-15T15:54:42.815813+00:00"
-    },
-    "d64cfcc29fad5205": {
-      "title": "Nvidia Run:AI Is Now Open Source as Part of Nvidia DSX AI Factory Platform",
-      "fetched_at": "2026-10-15T15:54:43.436062+00:00"
-    },
-    "4a47bce5d7635a04": {
-      "title": "Why Your Mac Is Slow at Local AI (and It's Not the Chip) [video]",
-      "fetched_at": "2026-10-15T15:54:44.058139+00:00"
-    },
-    "fe74a81d17882d6e": {
-      "title": "LLM Addiction in Society Is Getting Out of Hand",
-      "fetched_at": "2026-10-15T15:54:44.681631+00:00"
-    },
-    "29ea453840085bb7": {
-      "title": "Using AI to reverse engineer hardware",
-      "fetched_at": "2026-10-15T15:54:45.309924+00:00"
-    },
-    "fa6d174edf9bef48": {
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "fetched_at": "2026-10-15T15:54:45.931216+00:00"
-    },
-    "fad40a91bbb9e1b5": {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "fetched_at": "2026-10-15T15:54:46.563599+00:00"
-    },
-    "5884309d4a7f2c16": {
-      "title": "新鴨綠江大橋閒置12年終開通：中朝關係回暖？",
-      "fetched_at": "2026-10-15T15:54:48.622329+00:00"
-    },
-    "9ee310d927d05bcf": {
-      "title": "中朝新鴨綠江大橋通車：北京、平壤與莫斯科的新格局",
-      "fetched_at": "2026-10-15T15:54:49.253617+00:00"
-    },
-    "ccda84fab30301e3": {
-      "title": "Mysterious hole in Neanderthal shoulder blade may have been a 'kill shot' from a wooden spear, according to archaeologists",
-      "fetched_at": "2026-10-15T15:54:52.708238+00:00"
-    },
-    "9fdca2b02ecc99d3": {
-      "title": "Show HN: Axiom, a general-purpose model for causal discovery",
-      "fetched_at": "2026-10-15T15:54:53.611492+00:00"
-    },
-    "04e11ec6c327df82": {
-      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
-      "fetched_at": "2026-10-15T15:54:54.325424+00:00"
-    },
-    "af6027b99972eef5": {
-      "title": "Arctic sea ice hits another troubling low in 2026",
-      "fetched_at": "2026-10-15T15:54:54.943676+00:00"
-    },
-    "f6d0677fe5040c3e": {
-      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
-      "fetched_at": "2026-10-15T15:54:55.563489+00:00"
-    },
-    "bbd79883be6838bc": {
-      "title": "Scientists discover a surprising danger in smaller cancer cells",
-      "fetched_at": "2026-10-15T15:54:56.184732+00:00"
-    },
-    "1c561ed3f8e01a90": {
-      "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
-      "fetched_at": "2026-10-15T15:54:56.815838+00:00"
-    },
-    "cf4df86f7afa6893": {
-      "title": "DuoDiscover: Scaling Autonomous Discovery Beyond the Evaluation Bottleneck",
-      "fetched_at": "2026-10-15T15:54:57.448956+00:00"
-    },
     "2fd2dc1718b78930": {
       "title": "Meta launches an open-weight AI model that runs on Macs",
       "fetched_at": "2026-10-15T20:39:24.922218+00:00"
@@ -2935,7 +2815,115 @@
     "c6b1346d30a40b05": {
       "title": "DNA from centuries-old skeletons buried in Montreal reveals no genetic mixing between Indigenous people and French colonists",
       "fetched_at": "2026-10-23T10:40:27.897259+00:00"
+    },
+    "deedaab4609382d3": {
+      "title": "We gave an AI $100k to trade on leverage. Here's what it did",
+      "fetched_at": "2026-10-23T16:03:13.521840+00:00"
+    },
+    "452ae2c7a3686c5d": {
+      "title": "Ask HN: How do you get AI loops to converge?",
+      "fetched_at": "2026-10-23T16:03:14.149869+00:00"
+    },
+    "6eef3894582d0d58": {
+      "title": "Local AI Is Not as Private as You Think [video]",
+      "fetched_at": "2026-10-23T16:03:14.968959+00:00"
+    },
+    "135280ce36392a56": {
+      "title": "Who Cares Whether Academics Use AI to Write?",
+      "fetched_at": "2026-10-23T16:03:15.580040+00:00"
+    },
+    "3514388b8e3bf51b": {
+      "title": "Elon Musk and AI rivals pledge to give away nearly $300B",
+      "fetched_at": "2026-10-23T16:03:16.192502+00:00"
+    },
+    "cf7ae18000914243": {
+      "title": "AI Isn't Sovereign Because You Host It Yourself",
+      "fetched_at": "2026-10-23T16:03:16.801169+00:00"
+    },
+    "924dae26fcb83fef": {
+      "title": "Retro gaming is being overrun with AI",
+      "fetched_at": "2026-10-23T16:03:17.433715+00:00"
+    },
+    "e26d14db89faf86e": {
+      "title": "Show HN: Gsearch – Real Google Search for AI Agents(MCP)",
+      "fetched_at": "2026-10-23T16:03:18.049079+00:00"
+    },
+    "f22498aa9ced18d6": {
+      "title": "Google Ads AI Automation is a team of 41 AI agents",
+      "fetched_at": "2026-10-23T16:03:18.658967+00:00"
+    },
+    "cc43e85a21141947": {
+      "title": "Why Training AI to Have a Self Makes Governance Harder (audio)",
+      "fetched_at": "2026-10-23T16:03:19.291903+00:00"
+    },
+    "f8813cdf249fef74": {
+      "title": "Machine Gods – the official podcast of the singularity",
+      "fetched_at": "2026-10-23T16:03:19.898283+00:00"
+    },
+    "561bacd0de5d9893": {
+      "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
+      "fetched_at": "2026-10-23T16:03:20.519694+00:00"
+    },
+    "51e46d1972d6223c": {
+      "title": "Ask HN: How can I grow as an engineer in the AI era",
+      "fetched_at": "2026-10-23T16:03:21.143218+00:00"
+    },
+    "2c1a02fb5065c75b": {
+      "title": "Ask HN: Secure minimalistic web front-ends to Local LLM's?",
+      "fetched_at": "2026-10-23T16:03:21.762209+00:00"
+    },
+    "98c71b6ef169b392": {
+      "title": "Nvidia Sentry: Secure AI Agents at Runtime",
+      "fetched_at": "2026-10-23T16:03:22.384603+00:00"
+    },
+    "249ef79670f98f0a": {
+      "title": "AI Article Reviews Dominate Human Peer Reviews at Their Best [pdf]",
+      "fetched_at": "2026-10-23T16:03:22.993582+00:00"
+    },
+    "2d031597f2f0ce66": {
+      "title": "I Built an AI Bot to Fact-Check the Midterms. Here's What I've Learned",
+      "fetched_at": "2026-10-23T16:03:23.611255+00:00"
+    },
+    "60782a943e164e31": {
+      "title": "Ask HN: Is the downside of investing in AI real?",
+      "fetched_at": "2026-10-23T16:03:24.246633+00:00"
+    },
+    "11609de93258ef3c": {
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "fetched_at": "2026-10-23T16:03:24.856339+00:00"
+    },
+    "32b57e2aab2a57b0": {
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "fetched_at": "2026-10-23T16:03:25.494647+00:00"
+    },
+    "c943b0a1b50e1d34": {
+      "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+      "fetched_at": "2026-10-23T16:03:30.275951+00:00"
+    },
+    "b7f256c8a12ea295": {
+      "title": "Dental implants can hijack your immune system, scientists discover",
+      "fetched_at": "2026-10-23T16:03:30.895026+00:00"
+    },
+    "06672adbd8d52217": {
+      "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+      "fetched_at": "2026-10-23T16:03:31.519860+00:00"
+    },
+    "be3be3ae5893d2a0": {
+      "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+      "fetched_at": "2026-10-23T16:03:32.145398+00:00"
+    },
+    "8b36047927194127": {
+      "title": "Scientists discover a hidden messaging system deep inside the brain",
+      "fetched_at": "2026-10-23T16:03:32.763789+00:00"
+    },
+    "ebbd232878d47d28": {
+      "title": "Japan launches world's first round-trip mission to Mars",
+      "fetched_at": "2026-10-23T16:03:32.763869+00:00"
+    },
+    "5c35a110f4401821": {
+      "title": "Testosterone for menopause: The treatment is rising in popularity, but does it work?",
+      "fetched_at": "2026-10-23T16:03:33.375526+00:00"
     }
   },
-  "last_updated": "2026-10-23T10:40:27.961789+00:00"
+  "last_updated": "2026-10-23T16:03:33.426814+00:00"
 }
