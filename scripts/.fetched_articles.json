@@ -1,113 +1,5 @@
 {
   "articles": {
-    "2fd2dc1718b78930": {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "fetched_at": "2026-10-15T20:39:24.922218+00:00"
-    },
-    "6bb709a3c7e323d6": {
-      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-      "fetched_at": "2026-10-15T20:39:25.536389+00:00"
-    },
-    "015fc1285e8c0622": {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "fetched_at": "2026-10-15T20:39:26.179585+00:00"
-    },
-    "26ede0e68ab07156": {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "fetched_at": "2026-10-15T20:39:26.798981+00:00"
-    },
-    "2d0524df56af5ede": {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "fetched_at": "2026-10-15T20:39:27.427178+00:00"
-    },
-    "a2da4c583365ff32": {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "fetched_at": "2026-10-15T20:39:28.043546+00:00"
-    },
-    "ef5f0509d119dadb": {
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "fetched_at": "2026-10-15T20:39:28.660626+00:00"
-    },
-    "3109c95a42afa7dd": {
-      "title": "Friends don&#8217;t let friends feed their data to AI agents",
-      "fetched_at": "2026-10-15T20:39:29.291806+00:00"
-    },
-    "51800876b1faccfc": {
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "fetched_at": "2026-10-15T20:39:29.907771+00:00"
-    },
-    "76d101fb442df153": {
-      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-      "fetched_at": "2026-10-15T20:39:30.533960+00:00"
-    },
-    "c20fb33e59bc51a3": {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "fetched_at": "2026-10-15T20:39:31.161534+00:00"
-    },
-    "3747af94244a337e": {
-      "title": "Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
-      "fetched_at": "2026-10-15T20:39:31.788731+00:00"
-    },
-    "885346bfbe07d2d5": {
-      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-      "fetched_at": "2026-10-15T20:39:32.411280+00:00"
-    },
-    "2278761c316d74a6": {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "fetched_at": "2026-10-15T20:39:33.050513+00:00"
-    },
-    "7cd241549dd3f6fb": {
-      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "fetched_at": "2026-10-15T20:39:33.689922+00:00"
-    },
-    "aa20e307116b1181": {
-      "title": "学得会的快捷指令，零基础入门苹果效率魔法",
-      "fetched_at": "2026-10-15T20:39:34.397362+00:00"
-    },
-    "46720040b91c168e": {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "fetched_at": "2026-10-15T20:39:35.023175+00:00"
-    },
-    "c76f23293aa09bee": {
-      "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
-      "fetched_at": "2026-10-15T20:39:35.644670+00:00"
-    },
-    "6e53af0b2450346d": {
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "fetched_at": "2026-10-15T20:39:36.262714+00:00"
-    },
-    "cc8c84adbd1d417d": {
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "fetched_at": "2026-10-15T20:39:36.889956+00:00"
-    },
-    "c03818cb9843c0cb": {
-      "title": "特朗普叫停網上直播處決胡德堡槍擊案槍手",
-      "fetched_at": "2026-10-15T20:39:40.323191+00:00"
-    },
-    "095f703c46a8ce22": {
-      "title": "2 giant Ramesses II statues, one wearing a double crown, discovered by man in Egypt",
-      "fetched_at": "2026-10-15T20:39:44.889058+00:00"
-    },
-    "c3a1bfc461cac2af": {
-      "title": "Scaling Discovery Requires Forgetting",
-      "fetched_at": "2026-10-15T20:39:45.536515+00:00"
-    },
-    "90785e6884e066e6": {
-      "title": "Frontier Tavern Site Excavated in Ohio",
-      "fetched_at": "2026-10-15T20:39:46.161587+00:00"
-    },
-    "459d86b82839ddd8": {
-      "title": "World's Oldest Shipwreck Discovered in the Mediterranean",
-      "fetched_at": "2026-10-15T20:39:46.775403+00:00"
-    },
-    "3c21211bd0f90103": {
-      "title": "Hole in Neanderthal shoulder bone linked to ancient wooden spear",
-      "fetched_at": "2026-10-15T20:39:47.402477+00:00"
-    },
-    "916b0cdcc77ac0d5": {
-      "title": "'We're not a competitor to fusion. We are fusion': Inside the race to harness unlimited solar power in space",
-      "fetched_at": "2026-10-15T20:39:48.029540+00:00"
-    },
     "fc48b1b508ed33dc": {
       "title": "AI landing pages that don't look like AI. We killed AI slop. B",
       "fetched_at": "2026-10-16T02:04:19.097916+00:00"
@@ -2923,7 +2815,115 @@
     "5c35a110f4401821": {
       "title": "Testosterone for menopause: The treatment is rising in popularity, but does it work?",
       "fetched_at": "2026-10-23T16:03:33.375526+00:00"
+    },
+    "a8c3d6ec81b7398a": {
+      "title": "The one time we break the LLM cache on purpose",
+      "fetched_at": "2026-10-23T20:44:54.310316+00:00"
+    },
+    "044ff0e8bc5f9047": {
+      "title": "What are some free AI education platforms to learn AI? [video]",
+      "fetched_at": "2026-10-23T20:44:54.889239+00:00"
+    },
+    "8856ddf93d79a020": {
+      "title": "Kimi K3.1 Pro puts open-source AI a month behind the best",
+      "fetched_at": "2026-10-23T20:44:55.457239+00:00"
+    },
+    "975b362092097442": {
+      "title": "AI Coding Agent Security Benchmark",
+      "fetched_at": "2026-10-23T20:44:56.027760+00:00"
+    },
+    "ef625c62e81a0073": {
+      "title": "Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?",
+      "fetched_at": "2026-10-23T20:44:56.625138+00:00"
+    },
+    "33b93c1102e2a908": {
+      "title": "The \"AI-Last\" Methodology",
+      "fetched_at": "2026-10-23T20:44:57.229811+00:00"
+    },
+    "fd163966997ef732": {
+      "title": "Show HN: Build a wonky machine, a pixel-art physics puzzle",
+      "fetched_at": "2026-10-23T20:44:57.805394+00:00"
+    },
+    "46ab01dc0b5db7f5": {
+      "title": "Show HN: Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm",
+      "fetched_at": "2026-10-23T20:44:58.367587+00:00"
+    },
+    "17d1dd7a9c2b2f82": {
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "fetched_at": "2026-10-23T20:44:58.938982+00:00"
+    },
+    "69818c3e9ee69343": {
+      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+      "fetched_at": "2026-10-23T20:44:59.511745+00:00"
+    },
+    "e567c12b2fa97a5c": {
+      "title": "LLM-d v1.0.0 is out",
+      "fetched_at": "2026-10-23T20:45:00.090128+00:00"
+    },
+    "777e6962f7886430": {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "fetched_at": "2026-10-23T20:45:00.662423+00:00"
+    },
+    "85c6924d08d96138": {
+      "title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
+      "fetched_at": "2026-10-23T20:45:01.232720+00:00"
+    },
+    "dd1bc3b670eb16f2": {
+      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
+      "fetched_at": "2026-10-23T20:45:01.798982+00:00"
+    },
+    "6490a3c7f7e77005": {
+      "title": "Show HN: UPA – An explicit organizational model for humans and AI",
+      "fetched_at": "2026-10-23T20:45:02.364748+00:00"
+    },
+    "1d2569caffe3b3c4": {
+      "title": "Writing Code vs. Shipping Code: Productivity Across Generations of AI Code Tools",
+      "fetched_at": "2026-10-23T20:45:02.950265+00:00"
+    },
+    "a37020fae9ae92fc": {
+      "title": "Behavior-Centric AI Design",
+      "fetched_at": "2026-10-23T20:45:03.526512+00:00"
+    },
+    "942ec1e4b2e59d39": {
+      "title": "AI models think humans are a bunch of amoral sheep",
+      "fetched_at": "2026-10-23T20:45:04.105671+00:00"
+    },
+    "7a2897ce76e90360": {
+      "title": "Show HN: AI Heat Map powered by over 120 data feeds",
+      "fetched_at": "2026-10-23T20:45:04.674925+00:00"
+    },
+    "ce56d0f8ee0b635b": {
+      "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
+      "fetched_at": "2026-10-23T20:45:05.247822+00:00"
+    },
+    "5884309d4a7f2c16": {
+      "title": "新鴨綠江大橋閒置12年終開通：中朝關係回暖？",
+      "fetched_at": "2026-10-23T20:45:07.624708+00:00"
+    },
+    "12919d498426d360": {
+      "title": "9,000-Year-Old Workshop Uncovered in Turkey",
+      "fetched_at": "2026-10-23T20:45:11.113796+00:00"
+    },
+    "911d050cf35bfeb8": {
+      "title": "Roman Sarcophagus at Westminster Abbey Likely Held Remains of Medieval Monk",
+      "fetched_at": "2026-10-23T20:45:11.698629+00:00"
+    },
+    "a63541fd05b725f9": {
+      "title": "Unusual Objects Unearthed at Troy",
+      "fetched_at": "2026-10-23T20:45:12.283441+00:00"
+    },
+    "38cbeb55357f510e": {
+      "title": "Who Crafted China’s Terracotta Army?",
+      "fetched_at": "2026-10-23T20:45:12.852641+00:00"
+    },
+    "0c978e59397f8ed1": {
+      "title": "'Most people can't handle driving in 2 dimensions let alone 3': Readers respond to our poll about flying cars",
+      "fetched_at": "2026-10-23T20:45:13.445145+00:00"
+    },
+    "ccda84fab30301e3": {
+      "title": "Mysterious hole in Neanderthal shoulder blade may have been a 'kill shot' from a wooden spear, according to archaeologists",
+      "fetched_at": "2026-10-23T20:45:14.021687+00:00"
     }
   },
-  "last_updated": "2026-10-23T16:03:33.426814+00:00"
+  "last_updated": "2026-10-23T20:45:14.127940+00:00"
 }
