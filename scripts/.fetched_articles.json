@@ -1,133 +1,5 @@
 {
   "articles": {
-    "b1e53332c63e85b8": {
-      "title": "Building AI Products, Feature Factory at 10 – Food for Agile Thought 566",
-      "fetched_at": "2026-10-16T15:42:57.842689+00:00"
-    },
-    "1369f0982cd42ddf": {
-      "title": "Show HN: Termexo – one AI operating your other coding agents, on Windows",
-      "fetched_at": "2026-10-16T15:42:58.514965+00:00"
-    },
-    "6e4fff519cda6eed": {
-      "title": "Pry, a browser agent that redacts private data before anything reaches AI model",
-      "fetched_at": "2026-10-16T15:42:59.094497+00:00"
-    },
-    "57e7c86a078d4214": {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "fetched_at": "2026-10-16T15:42:59.682339+00:00"
-    },
-    "2b4c51a05ea542dd": {
-      "title": "Build offline-first apps to earn trust in AI SaaS slop era",
-      "fetched_at": "2026-10-16T15:43:00.261788+00:00"
-    },
-    "681ba5ba4d957561": {
-      "title": "Nvidia RTX Spark: AI Platform, Laptop Chip and DLSS 5",
-      "fetched_at": "2026-10-16T15:43:00.854818+00:00"
-    },
-    "9e79942d025b0f75": {
-      "title": "The EU wants an AI revolution. But on whose terms?",
-      "fetched_at": "2026-10-16T15:43:01.443473+00:00"
-    },
-    "124cac471ac7ab53": {
-      "title": "It took an octillion calculations to train GPT 6 Astra",
-      "fetched_at": "2026-10-16T15:43:02.024586+00:00"
-    },
-    "b6d8976b5d6d3e23": {
-      "title": "Architect of Project Ario Decentralized AI inference amp systemic transparency",
-      "fetched_at": "2026-10-16T15:43:02.611773+00:00"
-    },
-    "f1cd671479e9dc14": {
-      "title": "Show HN: Busabase – an open-source system of record for AI agent work",
-      "fetched_at": "2026-10-16T15:43:03.344854+00:00"
-    },
-    "78e8719f2fc957e2": {
-      "title": "I'm Gonna Write About AI So I Can Process What Is Going On",
-      "fetched_at": "2026-10-16T15:43:03.936181+00:00"
-    },
-    "da3530dd871f342b": {
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "fetched_at": "2026-10-16T15:43:04.639382+00:00"
-    },
-    "e255bfa96264ff88": {
-      "title": "Overalls: An AI-first developer platform that you own",
-      "fetched_at": "2026-10-16T15:43:05.220333+00:00"
-    },
-    "a2cc94b6a7e82a6a": {
-      "title": "Booking Holdings unveils AI travel startup Vayo",
-      "fetched_at": "2026-10-16T15:43:05.830465+00:00"
-    },
-    "7de37012ac542a72": {
-      "title": "The Most Influential Podcaster in Silicon Valley. We're Getting AI Wrong",
-      "fetched_at": "2026-10-16T15:43:06.411949+00:00"
-    },
-    "9612744f9c0138fc": {
-      "title": "Warning signs are flashing on the AI trade",
-      "fetched_at": "2026-10-16T15:43:06.997413+00:00"
-    },
-    "913d8280c02194fb": {
-      "title": "I Got My Muse AI Agent to Sext Me–and Meta Says That's Fine",
-      "fetched_at": "2026-10-16T15:43:07.623735+00:00"
-    },
-    "84799fbb1c745324": {
-      "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "fetched_at": "2026-10-16T15:43:08.212179+00:00"
-    },
-    "d29aa4867fcc623a": {
-      "title": "Do people prefer stories written by AI?",
-      "fetched_at": "2026-10-16T15:43:08.836082+00:00"
-    },
-    "a1b820382bf8b6cf": {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "fetched_at": "2026-10-16T15:43:09.411415+00:00"
-    },
-    "012716ad3a049dc4": {
-      "title": "美國中期選舉是甚麼？這是一份簡易指南",
-      "fetched_at": "2026-10-16T15:43:11.958519+00:00"
-    },
-    "5019f15423a90d6e": {
-      "title": "Fossil of 'unconquered female warrior' dinosaur with long claws found in UK museum drawer after 100 years",
-      "fetched_at": "2026-10-16T15:43:14.154397+00:00"
-    },
-    "49e00f9c83825a2c": {
-      "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
-      "fetched_at": "2026-10-16T15:43:14.748548+00:00"
-    },
-    "b5193cbcd39db1f3": {
-      "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
-      "fetched_at": "2026-10-16T15:43:15.344676+00:00"
-    },
-    "fded72d473460be3": {
-      "title": "Yale scientists discover how stress changes the brain to make memories stronger",
-      "fetched_at": "2026-10-16T15:43:15.944032+00:00"
-    },
-    "cfe05e072eec1ea1": {
-      "title": "Astronomers discover a strange universal rule behind black hole eruptions",
-      "fetched_at": "2026-10-16T15:43:16.568267+00:00"
-    },
-    "30c2f62be1689920": {
-      "title": "Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret",
-      "fetched_at": "2026-10-16T15:43:17.160747+00:00"
-    },
-    "0fcda9516520c3ae": {
-      "title": "NASA captures strange waves high above Hurricane Simon",
-      "fetched_at": "2026-10-16T15:43:17.780320+00:00"
-    },
-    "5bc059b7e5156e65": {
-      "title": "A protein that fuels cancer could also be the key to fighting it",
-      "fetched_at": "2026-10-16T15:43:18.368697+00:00"
-    },
-    "096b2cec85b870df": {
-      "title": "A quantum highway just one atom high could transform superconductors",
-      "fetched_at": "2026-10-16T15:43:18.961729+00:00"
-    },
-    "1aaea162ae1ea376": {
-      "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
-      "fetched_at": "2026-10-16T15:43:19.559080+00:00"
-    },
-    "52c7bb6cb912807b": {
-      "title": "Antarctica’s sea ice has undergone a stunning reversal",
-      "fetched_at": "2026-10-16T15:43:20.147277+00:00"
-    },
     "1e7c5e241316c917": {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "fetched_at": "2026-10-16T20:11:43.081505+00:00"
@@ -2887,7 +2759,39 @@
     "50139d2e115f2bf9": {
       "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
       "fetched_at": "2026-10-24T15:01:20.842044+00:00"
+    },
+    "fe55e197dff29f87": {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "fetched_at": "2026-10-24T19:58:44.631685+00:00"
+    },
+    "5ec3f85b386a3e39": {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "fetched_at": "2026-10-24T19:58:45.250978+00:00"
+    },
+    "335974c2c30ceb19": {
+      "title": "Block’s new voice model sounds eerily human",
+      "fetched_at": "2026-10-24T19:58:45.873914+00:00"
+    },
+    "70f40af3da9ea58a": {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "fetched_at": "2026-10-24T19:58:46.508758+00:00"
+    },
+    "7d8e13a1684c3fd0": {
+      "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
+      "fetched_at": "2026-10-24T19:58:49.982864+00:00"
+    },
+    "9e79b192d24d12e1": {
+      "title": "「我今年12歲，該嘗試蛋白粉嗎？」",
+      "fetched_at": "2026-10-24T19:58:50.629166+00:00"
+    },
+    "8504a1713f530660": {
+      "title": "美沙冬是毒還是藥？從香港經驗看台灣選戰戒毒爭議",
+      "fetched_at": "2026-10-24T19:58:51.268737+00:00"
+    },
+    "3c1a5fb5fb2c2a84": {
+      "title": "Astronomers discover the first-ever green star, plus the reddest 'white dwarf' ever seen",
+      "fetched_at": "2026-10-24T19:58:53.469227+00:00"
     }
   },
-  "last_updated": "2026-10-24T15:01:20.954365+00:00"
+  "last_updated": "2026-10-24T19:58:53.579930+00:00"
 }
