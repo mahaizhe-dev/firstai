@@ -1,109 +1,5 @@
 {
   "articles": {
-    "fc48b1b508ed33dc": {
-      "title": "AI landing pages that don't look like AI. We killed AI slop. B",
-      "fetched_at": "2026-10-16T02:04:19.097916+00:00"
-    },
-    "d977d1b01c1ab3f9": {
-      "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
-      "fetched_at": "2026-10-16T02:04:19.665523+00:00"
-    },
-    "59ef61f3f41c414d": {
-      "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
-      "fetched_at": "2026-10-16T02:04:20.237657+00:00"
-    },
-    "5fa0cbd64757de50": {
-      "title": "No AI. Just open a book, read it, and code whatever you want",
-      "fetched_at": "2026-10-16T02:04:20.871922+00:00"
-    },
-    "39cbf88b35f2bc31": {
-      "title": "What Nvidia's CEO thinks about the UK's AI future",
-      "fetched_at": "2026-10-16T02:04:21.439955+00:00"
-    },
-    "0827cfddfcba3916": {
-      "title": "Show HN: Sjq – Jq, but for AI Streaming",
-      "fetched_at": "2026-10-16T02:04:22.015873+00:00"
-    },
-    "33c1ef8a599c9a4b": {
-      "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-      "fetched_at": "2026-10-16T02:04:22.615932+00:00"
-    },
-    "ca90cfcbd331dbd5": {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "fetched_at": "2026-10-16T02:04:23.206438+00:00"
-    },
-    "ba11f1883b71a480": {
-      "title": "What causes AI fatigue for engineers and how to ease the strain",
-      "fetched_at": "2026-10-16T02:04:23.791182+00:00"
-    },
-    "6a47167f9571827d": {
-      "title": "Free-AI-tools – Curated list of free and low cost AI tools",
-      "fetched_at": "2026-10-16T02:04:24.370839+00:00"
-    },
-    "7bbc5c61f5be915f": {
-      "title": "GPT-Live-1.1 – New voices. Better accents. Less \"checking.\"",
-      "fetched_at": "2026-10-16T02:04:24.944610+00:00"
-    },
-    "bc1265e0a45cff12": {
-      "title": "No More Heroes – Terence Tao Talks to Numberphile About AI [video]",
-      "fetched_at": "2026-10-16T02:04:25.532798+00:00"
-    },
-    "ec0101c6e81ddaf5": {
-      "title": "A tool to compare LLM benchmarks",
-      "fetched_at": "2026-10-16T02:04:26.103867+00:00"
-    },
-    "22e88f769e5b3e15": {
-      "title": "Show HN: My AI induced mania in embedded computer graphics engineering [video]",
-      "fetched_at": "2026-10-16T02:04:26.690304+00:00"
-    },
-    "c0d65b9d7e45895d": {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "fetched_at": "2026-10-16T02:04:27.258187+00:00"
-    },
-    "28dc86064e021f70": {
-      "title": "SK Hynix Unveils Next-Generation Memory Roadmap to Address AI Bottlenecks",
-      "fetched_at": "2026-10-16T02:04:27.844627+00:00"
-    },
-    "10c7c6fb62bed3e1": {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "fetched_at": "2026-10-16T02:04:28.416665+00:00"
-    },
-    "15320dbf20b718cf": {
-      "title": "Linus Torvalds is using AI to develop Linux kernel code now",
-      "fetched_at": "2026-10-16T02:04:28.985522+00:00"
-    },
-    "ff6b7e25e06066b9": {
-      "title": "We're not ready for superpersistent AI",
-      "fetched_at": "2026-10-16T02:04:29.575204+00:00"
-    },
-    "8b4da5d0cc8c45e2": {
-      "title": "Will AI soon lead to double-digit growth?",
-      "fetched_at": "2026-10-16T02:04:30.138867+00:00"
-    },
-    "6dea0faab5b4d9fa": {
-      "title": "中国车企成巴黎车展焦点，加速布局欧洲市场",
-      "fetched_at": "2026-10-16T02:04:32.513932+00:00"
-    },
-    "7ca5f7bab2de18cc": {
-      "title": "新鸭绿江大桥通车，中朝贸易关系升温",
-      "fetched_at": "2026-10-16T02:04:33.082822+00:00"
-    },
-    "2e241b182f898cdc": {
-      "title": "「日子難熬」：美國人苦苦應對不斷上漲的通貨膨脹",
-      "fetched_at": "2026-10-16T02:04:33.672754+00:00"
-    },
-    "18b22e2984be6210": {
-      "title": "中國製造的玩具如何從工廠到美國？",
-      "fetched_at": "2026-10-16T02:04:34.241768+00:00"
-    },
-    "8a3aae07de1303c0": {
-      "title": "AI Research Tools – Literature Discovery, LaTeX and Reproducibility",
-      "fetched_at": "2026-10-16T02:05:13.313042+00:00"
-    },
-    "0e901cd415bf9fcd": {
-      "title": "Possible Fatal Wound Identified in Neanderthal Bone",
-      "fetched_at": "2026-10-16T02:05:13.893255+00:00"
-    },
     "3a3c09bcfa0ebc3b": {
       "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
       "fetched_at": "2026-10-16T10:17:25.495642+00:00"
@@ -2923,7 +2819,47 @@
     "ccda84fab30301e3": {
       "title": "Mysterious hole in Neanderthal shoulder blade may have been a 'kill shot' from a wooden spear, according to archaeologists",
       "fetched_at": "2026-10-23T20:45:14.021687+00:00"
+    },
+    "1c3f57dcb0dfa113": {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "fetched_at": "2026-10-24T02:21:40.210459+00:00"
+    },
+    "9b7a903bb4f0d382": {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "fetched_at": "2026-10-24T02:21:40.836680+00:00"
+    },
+    "5a10d02335ffc1c7": {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "fetched_at": "2026-10-24T02:21:41.488249+00:00"
+    },
+    "c7f939ef1efbac27": {
+      "title": "The iPhone Duo should have been an iPad",
+      "fetched_at": "2026-10-24T02:21:42.116494+00:00"
+    },
+    "baf961953c6188c0": {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "fetched_at": "2026-10-24T02:21:42.736720+00:00"
+    },
+    "871bb20c77a2c122": {
+      "title": "本周看什么 | 最近值得一看的 12 部作品",
+      "fetched_at": "2026-10-24T02:21:43.367822+00:00"
+    },
+    "c13e0e4676fa5e39": {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "fetched_at": "2026-10-24T02:21:43.367974+00:00"
+    },
+    "cd1cec88c3a8f83e": {
+      "title": "Christina Applegate misdiagnosis: Why can MS be difficult to diagnose?",
+      "fetched_at": "2026-10-24T02:21:47.114587+00:00"
+    },
+    "095f703c46a8ce22": {
+      "title": "2 giant Ramesses II statues, one wearing a double crown, discovered by man in Egypt",
+      "fetched_at": "2026-10-24T02:21:47.778261+00:00"
+    },
+    "916b0cdcc77ac0d5": {
+      "title": "'We're not a competitor to fusion. We are fusion': Inside the race to harness unlimited solar power in space",
+      "fetched_at": "2026-10-24T02:21:48.394668+00:00"
     }
   },
-  "last_updated": "2026-10-23T20:45:14.127940+00:00"
+  "last_updated": "2026-10-24T02:21:48.498856+00:00"
 }
