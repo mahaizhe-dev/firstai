@@ -1,101 +1,5 @@
 {
   "articles": {
-    "dd6a8bd5e54cd348": {
-      "title": "Eight and One Predictions for AI in 2030",
-      "fetched_at": "2026-10-17T19:47:49.008024+00:00"
-    },
-    "d35c4d4d3c4f816e": {
-      "title": "Three LLM judges couldn't tell an AI agent's real memory from a counterfeit one",
-      "fetched_at": "2026-10-17T19:47:49.635070+00:00"
-    },
-    "c80b761f632bfa6d": {
-      "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
-      "fetched_at": "2026-10-17T19:47:50.265374+00:00"
-    },
-    "9f68e9b3d09071e7": {
-      "title": "Apple releases RSI-Inference: evaluating agents for self-improving LLM inference",
-      "fetched_at": "2026-10-17T19:47:50.900623+00:00"
-    },
-    "0f4ba0afd89a0f1f": {
-      "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
-      "fetched_at": "2026-10-17T19:47:51.532221+00:00"
-    },
-    "70aaa36992ff3c0a": {
-      "title": "Anthropic pitches its own AI safety bill to lawmakers",
-      "fetched_at": "2026-10-17T19:47:52.173662+00:00"
-    },
-    "18af6225522ad6c0": {
-      "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
-      "fetched_at": "2026-10-17T19:47:52.843173+00:00"
-    },
-    "2bd3f74c05979c6d": {
-      "title": "Selfhosting my AI chats: more privacy and sovereignty",
-      "fetched_at": "2026-10-17T19:47:53.468433+00:00"
-    },
-    "cc33046562f62337": {
-      "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
-      "fetched_at": "2026-10-17T19:47:54.094752+00:00"
-    },
-    "3d00baeef9fbe0e3": {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "fetched_at": "2026-10-17T19:47:54.094882+00:00"
-    },
-    "b6c0a3abfcf14206": {
-      "title": "AI Can Write the Code. Who Verifies It?",
-      "fetched_at": "2026-10-17T19:47:54.735132+00:00"
-    },
-    "74f7890d47f041c3": {
-      "title": "Local-first AI proxy with keys in your OS vault",
-      "fetched_at": "2026-10-17T19:47:55.371139+00:00"
-    },
-    "c736ceb9ef2a5d3c": {
-      "title": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
-      "fetched_at": "2026-10-17T19:47:55.997294+00:00"
-    },
-    "8726a15e37edfb19": {
-      "title": "Torvalds calls AI disclosure rules 'utterly stupid' as Linux drops its tag",
-      "fetched_at": "2026-10-17T19:47:56.625418+00:00"
-    },
-    "c03ddc214eb74254": {
-      "title": "Pareto frontier lines for AI are great but where are the Pareto planes?",
-      "fetched_at": "2026-10-17T19:47:57.254870+00:00"
-    },
-    "ddb744e883f45a22": {
-      "title": "Show HN: TezGrid – Experimenting with AI inference on idle computers and Macs",
-      "fetched_at": "2026-10-17T19:47:57.887235+00:00"
-    },
-    "3a5c21203ae8ec8a": {
-      "title": "Anthropic says its AI model submitted a false case tip to Philadelphia police",
-      "fetched_at": "2026-10-17T19:47:58.510792+00:00"
-    },
-    "dcb5a572231b21da": {
-      "title": "Show HN: Bitty – Turn AI coding wait time into brain breaks",
-      "fetched_at": "2026-10-17T19:47:59.229183+00:00"
-    },
-    "0bec67f409336516": {
-      "title": "Show HN: GoRoute – Ultra-Lightweight LLM Gateway in Go (<15MB RAM)",
-      "fetched_at": "2026-10-17T19:47:59.881684+00:00"
-    },
-    "cb69f82fcab51c57": {
-      "title": "Show HN: Would You Merge It? – 24 bugs AI assistants write, as fix-it katas",
-      "fetched_at": "2026-10-17T19:48:00.518016+00:00"
-    },
-    "04fd0c5f2493684a": {
-      "title": "Bronze ring with Lighthouse of Alexandria engraving discovered at palace on submerged island in Egypt",
-      "fetched_at": "2026-10-17T19:48:05.072171+00:00"
-    },
-    "9a87f896d1fc2b17": {
-      "title": "South Korean 'robot dog' became first to run a marathon on a single battery charge — now we know how",
-      "fetched_at": "2026-10-17T19:48:05.698883+00:00"
-    },
-    "dc9d49ae9ea8cbb4": {
-      "title": "NASA astronauts splash down after 100 million miles in space",
-      "fetched_at": "2026-10-17T19:48:06.334941+00:00"
-    },
-    "855300d5fb3e545d": {
-      "title": "October’s night sky is full of cosmic tricks and treats",
-      "fetched_at": "2026-10-17T19:48:06.972540+00:00"
-    },
     "2f0e85c4155837a0": {
       "title": "What will AI do to our jobs and our wages? [video]",
       "fetched_at": "2026-10-18T01:57:45.151868+00:00"
@@ -2791,7 +2695,31 @@
     "c3d8814ff993a55d": {
       "title": "New 4,300-mile-long internet cable will shuttle data along the ocean floor at 1 million gigabits per second",
       "fetched_at": "2026-10-25T15:12:33.062052+00:00"
+    },
+    "080ee9b59ce4c850": {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "fetched_at": "2026-10-25T20:06:30.804483+00:00"
+    },
+    "d1dfadadf76c7506": {
+      "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
+      "fetched_at": "2026-10-25T20:06:33.803637+00:00"
+    },
+    "fb9c5507b992560e": {
+      "title": "台灣AV盛極而衰：中國市場如何催生這場成人片熱潮？",
+      "fetched_at": "2026-10-25T20:06:34.502189+00:00"
+    },
+    "6b0172745e1c0dfd": {
+      "title": "California redwoods are struggling in the heat — and it's not clear how much damage is being done",
+      "fetched_at": "2026-10-25T20:06:56.976680+00:00"
+    },
+    "d9e637c95ece06ad": {
+      "title": "Is the brain actually 2 nervous systems smooshed together? A new study claims it is.",
+      "fetched_at": "2026-10-25T20:06:57.626891+00:00"
+    },
+    "a64e3dd9089ea8b0": {
+      "title": "Has there ever been a mountain taller than Everest?",
+      "fetched_at": "2026-10-25T20:06:58.243362+00:00"
     }
   },
-  "last_updated": "2026-10-25T15:12:33.169273+00:00"
+  "last_updated": "2026-10-25T20:06:58.342874+00:00"
 }
