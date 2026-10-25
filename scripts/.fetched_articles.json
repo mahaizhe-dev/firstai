@@ -1,149 +1,5 @@
 {
   "articles": {
-    "960c35f9e55c73d3": {
-      "title": "Ask HN: How are you all ensuring your AI code isn't slop?",
-      "fetched_at": "2026-10-17T14:34:59.215421+00:00"
-    },
-    "609c8dd6e2a8222e": {
-      "title": "\"thegentlemanpervert\" producing AI CSAM is a NJ prosecutor, say cops",
-      "fetched_at": "2026-10-17T14:34:59.798544+00:00"
-    },
-    "bc0cecb3aea4894b": {
-      "title": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
-      "fetched_at": "2026-10-17T14:35:00.388465+00:00"
-    },
-    "9454739e34e4a76b": {
-      "title": "Show HN: Roadster AI – Turn a photo of your car into a kickflip video",
-      "fetched_at": "2026-10-17T14:35:00.967529+00:00"
-    },
-    "70bc830ceb119f51": {
-      "title": "Illustrating the AI proof of the Mahler conjecture",
-      "fetched_at": "2026-10-17T14:35:01.558421+00:00"
-    },
-    "8511065799341265": {
-      "title": "Are You Sure Your LLM Is Sure?",
-      "fetched_at": "2026-10-17T14:35:02.140453+00:00"
-    },
-    "083c3d5ebf0b2933": {
-      "title": "Microsoft AI chief says the company beat OpenAI's models, using less compute",
-      "fetched_at": "2026-10-17T14:35:02.732308+00:00"
-    },
-    "b1328cac8ab664ba": {
-      "title": "Show HN: Vramkit – lossless VRAM compression for LLM inference, on a MacBook",
-      "fetched_at": "2026-10-17T14:35:03.336064+00:00"
-    },
-    "bb60c7ea7af4065d": {
-      "title": "FDE-Gym: The Last Mile of AI Delivery",
-      "fetched_at": "2026-10-17T14:35:03.937972+00:00"
-    },
-    "b0aacc1589757ce9": {
-      "title": "Rescue AI models with one click",
-      "fetched_at": "2026-10-17T14:35:04.559476+00:00"
-    },
-    "3370775fb2296367": {
-      "title": "AI Edge Foresight",
-      "fetched_at": "2026-10-17T14:35:05.139645+00:00"
-    },
-    "388e6e067d5ebb8e": {
-      "title": "Websites are closing their doors to AI agents",
-      "fetched_at": "2026-10-17T14:35:05.749821+00:00"
-    },
-    "e1f00a9ed16bcc98": {
-      "title": "Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)",
-      "fetched_at": "2026-10-17T14:35:06.356978+00:00"
-    },
-    "4a98289df3e5e847": {
-      "title": "What happens when AI can read our minds?",
-      "fetched_at": "2026-10-17T14:35:06.940855+00:00"
-    },
-    "44d2520cbb6994dc": {
-      "title": "As AI triggers a tsunami, computer science conferences impose caps",
-      "fetched_at": "2026-10-17T14:35:07.521908+00:00"
-    },
-    "0884d428392161d0": {
-      "title": "AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM",
-      "fetched_at": "2026-10-17T14:35:08.100620+00:00"
-    },
-    "a079775c8a0c4370": {
-      "title": "The AI Expectations Gap",
-      "fetched_at": "2026-10-17T14:35:08.693628+00:00"
-    },
-    "742b5d83e86701cb": {
-      "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
-      "fetched_at": "2026-10-17T14:35:09.270827+00:00"
-    },
-    "501f2e4af38d5821": {
-      "title": "Amazon devices chief sees a future where AI devices replace the need to use apps",
-      "fetched_at": "2026-10-17T14:35:09.857552+00:00"
-    },
-    "79fcd020e5faff59": {
-      "title": "MAGS: Machine-checked guarantees on specified safety properties in AI code",
-      "fetched_at": "2026-10-17T14:35:10.466126+00:00"
-    },
-    "d1dfadadf76c7506": {
-      "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
-      "fetched_at": "2026-10-17T14:35:13.084375+00:00"
-    },
-    "fb9c5507b992560e": {
-      "title": "台灣AV盛極而衰：中國市場如何催生這場成人片熱潮？",
-      "fetched_at": "2026-10-17T14:35:13.674421+00:00"
-    },
-    "6b0172745e1c0dfd": {
-      "title": "California redwoods are struggling in the heat — and it's not clear how much damage is being done",
-      "fetched_at": "2026-10-17T14:35:23.319647+00:00"
-    },
-    "d9e637c95ece06ad": {
-      "title": "Is the brain actually 2 nervous systems smooshed together? A new study claims it is.",
-      "fetched_at": "2026-10-17T14:35:23.906014+00:00"
-    },
-    "8881bf0cabc64b30": {
-      "title": "Vector2Variant: Discovery of Genetic Associations Without Phenotype Engineering",
-      "fetched_at": "2026-10-17T14:35:24.500937+00:00"
-    },
-    "2f861ea6d02e631a": {
-      "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
-      "fetched_at": "2026-10-17T14:35:25.087018+00:00"
-    },
-    "bfde5c5403339d34": {
-      "title": "This bird flies thousands of miles, but its wings have a catch",
-      "fetched_at": "2026-10-17T14:35:25.668104+00:00"
-    },
-    "1dc7c1701be1c1f2": {
-      "title": "Brain cells meant to protect us may be fueling cognitive decline",
-      "fetched_at": "2026-10-17T14:35:26.317598+00:00"
-    },
-    "a7de49450495081e": {
-      "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
-      "fetched_at": "2026-10-17T14:35:26.897369+00:00"
-    },
-    "c26aaf8792f94741": {
-      "title": "Claude CRISPR-like sequence may be a parallel discovery of unpublished research",
-      "fetched_at": "2026-10-17T14:35:27.486844+00:00"
-    },
-    "e6bb1ab31247dcac": {
-      "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
-      "fetched_at": "2026-10-17T14:35:28.064161+00:00"
-    },
-    "87f0386878082a3f": {
-      "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
-      "fetched_at": "2026-10-17T14:35:28.649985+00:00"
-    },
-    "45cbdf1441808f33": {
-      "title": "Aspire: Agentic /Skills Discovery for Robotics",
-      "fetched_at": "2026-10-17T14:35:29.245827+00:00"
-    },
-    "8f853c37d509908b": {
-      "title": "SpaceX just delivered some very strange cargo to the International Space Station",
-      "fetched_at": "2026-10-17T14:35:29.860471+00:00"
-    },
-    "97f77c49a1418c83": {
-      "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
-      "fetched_at": "2026-10-17T14:35:30.439952+00:00"
-    },
-    "86a573d5a042185c": {
-      "title": "Bending the Curve of Discovery: AI in Science Today and Tomorrow",
-      "fetched_at": "2026-10-17T14:35:31.054611+00:00"
-    },
     "dd6a8bd5e54cd348": {
       "title": "Eight and One Predictions for AI in 2030",
       "fetched_at": "2026-10-17T19:47:49.008024+00:00"
@@ -2787,7 +2643,155 @@
     "fdc2d798a239cb67": {
       "title": "Physicists froze a 'necklace' of atoms — and witnessed a quantum phenomenon predicted 100 years ago",
       "fetched_at": "2026-10-25T10:19:46.045339+00:00"
+    },
+    "ac3a6f5d1d1b769f": {
+      "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
+      "fetched_at": "2026-10-25T15:12:01.438419+00:00"
+    },
+    "618e857f6180907f": {
+      "title": "Can AI Make Us So Productive That It Destroys the Economy?",
+      "fetched_at": "2026-10-25T15:12:02.060655+00:00"
+    },
+    "fecacff35812b9c3": {
+      "title": "Skyl – One Go interface for 400 AI models",
+      "fetched_at": "2026-10-25T15:12:02.716136+00:00"
+    },
+    "008cd1a65ad980c2": {
+      "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
+      "fetched_at": "2026-10-25T15:12:03.329733+00:00"
+    },
+    "9f7f353bf31d4932": {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "fetched_at": "2026-10-25T15:12:03.958192+00:00"
+    },
+    "9413bf7bb76e242a": {
+      "title": "r/open source just banned AI, non-English speakers and more",
+      "fetched_at": "2026-10-25T15:12:04.630142+00:00"
+    },
+    "1bebc5c11c2201aa": {
+      "title": "Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents",
+      "fetched_at": "2026-10-25T15:12:05.248830+00:00"
+    },
+    "101dc7e51fc8c1fe": {
+      "title": "Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech",
+      "fetched_at": "2026-10-25T15:12:05.868429+00:00"
+    },
+    "f7147d34d1a32d11": {
+      "title": "Show HN: Kolo – share your AI coding sessions with anyone",
+      "fetched_at": "2026-10-25T15:12:06.574607+00:00"
+    },
+    "6b9064a7e7bd3bb4": {
+      "title": "Empires of AI: The Rise and Fall of a New Global Order",
+      "fetched_at": "2026-10-25T15:12:07.248237+00:00"
+    },
+    "34ed2de42303e67b": {
+      "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+      "fetched_at": "2026-10-25T15:12:07.890708+00:00"
+    },
+    "752b0f1ab22a410b": {
+      "title": "To make AI morally good, tech companies are turning to religion",
+      "fetched_at": "2026-10-25T15:12:08.523024+00:00"
+    },
+    "aa9169690766a1c7": {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "fetched_at": "2026-10-25T15:12:09.163949+00:00"
+    },
+    "f9f6ad052cfd7296": {
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+      "fetched_at": "2026-10-25T15:12:09.164081+00:00"
+    },
+    "241286c5ec90fd3b": {
+      "title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
+      "fetched_at": "2026-10-25T15:12:09.812626+00:00"
+    },
+    "7ddaff6d34bfc5cd": {
+      "title": "We Have Built the Matrix. Now AI Is Learning to Control It",
+      "fetched_at": "2026-10-25T15:12:10.479850+00:00"
+    },
+    "422771ee589ad22d": {
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "fetched_at": "2026-10-25T15:12:11.107464+00:00"
+    },
+    "57e35b2310ef3e98": {
+      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
+      "fetched_at": "2026-10-25T15:12:11.736584+00:00"
+    },
+    "b205150c125fdf19": {
+      "title": "Report on alpha school, AI-based education",
+      "fetched_at": "2026-10-25T15:12:12.437430+00:00"
+    },
+    "5be742dc488fb7ab": {
+      "title": "Google’s AI search changes upended online publishing",
+      "fetched_at": "2026-10-25T15:12:13.049806+00:00"
+    },
+    "531c0968cb7bf1b4": {
+      "title": "法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
+      "fetched_at": "2026-10-25T15:12:16.054624+00:00"
+    },
+    "d02dc289f945b69c": {
+      "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
+      "fetched_at": "2026-10-25T15:12:16.693452+00:00"
+    },
+    "b30d52f12e9603fe": {
+      "title": "Historical Telecommunications",
+      "fetched_at": "2026-10-25T15:12:24.460185+00:00"
+    },
+    "33a60544270cbec4": {
+      "title": "Three giant black holes discovered in a galaxy from the dawn of time",
+      "fetched_at": "2026-10-25T15:12:25.075264+00:00"
+    },
+    "16c1de78d69d0656": {
+      "title": "New evidence suggests spinosaurus spent most of its life underwater",
+      "fetched_at": "2026-10-25T15:12:25.693110+00:00"
+    },
+    "577e8f8617726ba2": {
+      "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+      "fetched_at": "2026-10-25T15:12:26.304867+00:00"
+    },
+    "97c27e56b0e5d95f": {
+      "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+      "fetched_at": "2026-10-25T15:12:26.905856+00:00"
+    },
+    "dbe7f1223ae47be8": {
+      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
+      "fetched_at": "2026-10-25T15:12:27.510709+00:00"
+    },
+    "57100c89a4ab0548": {
+      "title": "Backd / Discovery",
+      "fetched_at": "2026-10-25T15:12:28.145942+00:00"
+    },
+    "63a45794210bdfcb": {
+      "title": "This mysterious mushroom makes people see hundreds of tiny humans",
+      "fetched_at": "2026-10-25T15:12:28.751774+00:00"
+    },
+    "e8a2db027a37b491": {
+      "title": "Astronomers may have discovered the first moon beyond our Solar System",
+      "fetched_at": "2026-10-25T15:12:29.375963+00:00"
+    },
+    "da71287325c0ceeb": {
+      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+      "fetched_at": "2026-10-25T15:12:30.002451+00:00"
+    },
+    "02d10586851376e9": {
+      "title": "An Ancient Virus Explains Why the Human Brain Is Special",
+      "fetched_at": "2026-10-25T15:12:30.609872+00:00"
+    },
+    "ccee1eb8d9d22622": {
+      "title": "An ancient virus in chimpanzee DNA switches off a gene that is active in humans",
+      "fetched_at": "2026-10-25T15:12:31.221006+00:00"
+    },
+    "f873178d7f4abef5": {
+      "title": "Ancient virus in chimpanzee DNA switches off a gene that is active in humans",
+      "fetched_at": "2026-10-25T15:12:31.832778+00:00"
+    },
+    "936faa5bbc2aa3bb": {
+      "title": "Elon Musk Invests $1B in Skydance (New Paramount/Warner Bros Discovery)",
+      "fetched_at": "2026-10-25T15:12:32.451201+00:00"
+    },
+    "c3d8814ff993a55d": {
+      "title": "New 4,300-mile-long internet cable will shuttle data along the ocean floor at 1 million gigabits per second",
+      "fetched_at": "2026-10-25T15:12:33.062052+00:00"
     }
   },
-  "last_updated": "2026-10-25T10:19:46.088294+00:00"
+  "last_updated": "2026-10-25T15:12:33.169273+00:00"
 }
