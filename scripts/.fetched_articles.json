@@ -1,69 +1,5 @@
 {
   "articles": {
-    "beedcc3e2d659975": {
-      "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
-      "fetched_at": "2026-10-17T09:51:24.589511+00:00"
-    },
-    "9769f84274dc6e88": {
-      "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
-      "fetched_at": "2026-10-17T09:51:27.602840+00:00"
-    },
-    "b2af7330a4e76400": {
-      "title": "特朗普排除美中合作開發人工智能",
-      "fetched_at": "2026-10-17T09:51:28.221819+00:00"
-    },
-    "d02dc289f945b69c": {
-      "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
-      "fetched_at": "2026-10-17T09:51:28.847306+00:00"
-    },
-    "c3d8814ff993a55d": {
-      "title": "New 4,300-mile-long internet cable will shuttle data along the ocean floor at 1 million gigabits per second",
-      "fetched_at": "2026-10-17T09:51:31.240690+00:00"
-    },
-    "a64e3dd9089ea8b0": {
-      "title": "Has there ever been a mountain taller than Everest?",
-      "fetched_at": "2026-10-17T09:51:31.868940+00:00"
-    },
-    "c9a5265f07e6c418": {
-      "title": "Big dogs age faster at an epigenetic level, new study finds",
-      "fetched_at": "2026-10-17T09:51:32.488554+00:00"
-    },
-    "a2f7ed6872b7a2e8": {
-      "title": "'Freakish' discovery of 9 million-year-old capybara tooth supports idea that Atacama wasn't always a desert",
-      "fetched_at": "2026-10-17T09:51:33.116365+00:00"
-    },
-    "a56a272cd13c0b58": {
-      "title": "James Webb telescope pinpoints the most distant 'fast radio burst' ever seen",
-      "fetched_at": "2026-10-17T09:51:33.740110+00:00"
-    },
-    "b72acfc27af87916": {
-      "title": "The Milky Way is one galaxy — but it used to be thousands, new simulations reveal",
-      "fetched_at": "2026-10-17T09:51:34.371387+00:00"
-    },
-    "0711753c938b0452": {
-      "title": "Would you trust AI to calculate your true 'biological age'?",
-      "fetched_at": "2026-10-17T09:51:34.989438+00:00"
-    },
-    "007ed4751c9e061a": {
-      "title": "The central Pacific Ocean just broke a temperature record. Experts say it might signal a new kind of El Niño.",
-      "fetched_at": "2026-10-17T09:51:35.699185+00:00"
-    },
-    "2dc332c667039e22": {
-      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-      "fetched_at": "2026-10-17T09:51:36.331167+00:00"
-    },
-    "ddd808985a73fd70": {
-      "title": "This “golden tree” coral was too strange for any known family",
-      "fetched_at": "2026-10-17T09:51:36.966314+00:00"
-    },
-    "3f4505c5ef8e5e21": {
-      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
-      "fetched_at": "2026-10-17T09:51:37.620684+00:00"
-    },
-    "1254056f979a8521": {
-      "title": "NASA is searching for hidden caves to build its first Moon base",
-      "fetched_at": "2026-10-17T09:51:38.278815+00:00"
-    },
     "960c35f9e55c73d3": {
       "title": "Ask HN: How are you all ensuring your AI code isn't slop?",
       "fetched_at": "2026-10-17T14:34:59.215421+00:00"
@@ -2819,7 +2755,39 @@
     "5019f15423a90d6e": {
       "title": "Fossil of 'unconquered female warrior' dinosaur with long claws found in UK museum drawer after 100 years",
       "fetched_at": "2026-10-25T02:09:08.579375+00:00"
+    },
+    "2afff2b1a61b444c": {
+      "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
+      "fetched_at": "2026-10-25T10:19:37.721248+00:00"
+    },
+    "4b4761163caeba48": {
+      "title": "觀鳥如何重塑大腦，延緩認知衰退？",
+      "fetched_at": "2026-10-25T10:19:40.816010+00:00"
+    },
+    "07992f1fae3de1b7": {
+      "title": "法國再爆大規模示威近千人被捕 當局力阻重演上週暴亂",
+      "fetched_at": "2026-10-25T10:19:41.438783+00:00"
+    },
+    "0809b44fb60667b4": {
+      "title": "Cosmic 'seagull' locks eyes with the Vera C. Rubin Observatory in long-awaited test image",
+      "fetched_at": "2026-10-25T10:19:43.538967+00:00"
+    },
+    "d2f0179291c24074": {
+      "title": "How purported tales of consuming vampire blood and organs spread in the 18th century",
+      "fetched_at": "2026-10-25T10:19:44.162319+00:00"
+    },
+    "8f109872ac9c33ff": {
+      "title": "What happened when humans encountered Gigantopithecus?",
+      "fetched_at": "2026-10-25T10:19:44.781629+00:00"
+    },
+    "0247a35e3382f6eb": {
+      "title": "Archaeologists discover the oldest dwelling in the Western Hemisphere at a 13,800-year-old site in Alaska",
+      "fetched_at": "2026-10-25T10:19:45.406783+00:00"
+    },
+    "fdc2d798a239cb67": {
+      "title": "Physicists froze a 'necklace' of atoms — and witnessed a quantum phenomenon predicted 100 years ago",
+      "fetched_at": "2026-10-25T10:19:46.045339+00:00"
     }
   },
-  "last_updated": "2026-10-25T02:09:08.630363+00:00"
+  "last_updated": "2026-10-25T10:19:46.088294+00:00"
 }
