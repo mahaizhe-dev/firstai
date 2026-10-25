@@ -1,69 +1,5 @@
 {
   "articles": {
-    "1e7c5e241316c917": {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "fetched_at": "2026-10-16T20:11:43.081505+00:00"
-    },
-    "65c49b252bcd6b9d": {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "fetched_at": "2026-10-16T20:11:43.676403+00:00"
-    },
-    "d51cd29695ae5de2": {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "fetched_at": "2026-10-16T20:11:44.267313+00:00"
-    },
-    "264f461ced6a44aa": {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "fetched_at": "2026-10-16T20:11:44.869634+00:00"
-    },
-    "945f8cc67822537e": {
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "fetched_at": "2026-10-16T20:11:45.485353+00:00"
-    },
-    "12b1b5a5f7936698": {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "fetched_at": "2026-10-16T20:11:46.090960+00:00"
-    },
-    "2426c8bbc607088e": {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "fetched_at": "2026-10-16T20:11:46.705279+00:00"
-    },
-    "8eecd82186771fea": {
-      "title": "本周看什么 | 最近值得一看的 13 部作品",
-      "fetched_at": "2026-10-16T20:11:47.406624+00:00"
-    },
-    "f4c0c8d871aefd0a": {
-      "title": "Study Suggests Etruscan Statue’s Black Coating May Be Original",
-      "fetched_at": "2026-10-16T20:11:50.961355+00:00"
-    },
-    "881f7d6d7c889bb1": {
-      "title": "Submerged Sites Identified Off Australia’s Northwestern Coastline",
-      "fetched_at": "2026-10-16T20:11:51.558620+00:00"
-    },
-    "bd20faed0859b571": {
-      "title": "Fragments of Colossal Statues Uncovered in Northern Egypt",
-      "fetched_at": "2026-10-16T20:11:52.187174+00:00"
-    },
-    "f908f7d3277f593a": {
-      "title": "Why are dengue cases surging in Florida this year? An 'unlucky' combination of factors, experts say",
-      "fetched_at": "2026-10-16T20:11:52.778763+00:00"
-    },
-    "6483e636e8e2fd77": {
-      "title": "OpenAI claims we've entered the AGI era — has GPT-6 Astra really demonstrated general intelligence?",
-      "fetched_at": "2026-10-16T20:11:53.388918+00:00"
-    },
-    "ae772a9902cfe35e": {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "fetched_at": "2026-10-17T01:58:33.388192+00:00"
-    },
-    "0247a35e3382f6eb": {
-      "title": "Archaeologists discover the oldest dwelling in the Western Hemisphere at a 13,800-year-old site in Alaska",
-      "fetched_at": "2026-10-17T01:58:38.444250+00:00"
-    },
-    "fdc2d798a239cb67": {
-      "title": "Physicists froze a 'necklace' of atoms — and witnessed a quantum phenomenon predicted 100 years ago",
-      "fetched_at": "2026-10-17T01:58:39.011927+00:00"
-    },
     "beedcc3e2d659975": {
       "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
       "fetched_at": "2026-10-17T09:51:24.589511+00:00"
@@ -2791,7 +2727,99 @@
     "3c1a5fb5fb2c2a84": {
       "title": "Astronomers discover the first-ever green star, plus the reddest 'white dwarf' ever seen",
       "fetched_at": "2026-10-24T19:58:53.469227+00:00"
+    },
+    "9b9eecb1b1a4d403": {
+      "title": "AI Performance in the Security Theater",
+      "fetched_at": "2026-10-25T02:08:50.489801+00:00"
+    },
+    "234467119b448900": {
+      "title": "OneMemory – self-hosted shared memory for AI agents over MCP",
+      "fetched_at": "2026-10-25T02:08:51.121935+00:00"
+    },
+    "a80d05eabb9d8204": {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "fetched_at": "2026-10-25T02:08:51.729737+00:00"
+    },
+    "145eabdaf402d164": {
+      "title": "Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21",
+      "fetched_at": "2026-10-25T02:08:52.364548+00:00"
+    },
+    "2646e6e7a9f5b9f6": {
+      "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
+      "fetched_at": "2026-10-25T02:08:52.364634+00:00"
+    },
+    "84fcbb9d4c7eea78": {
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "fetched_at": "2026-10-25T02:08:52.973706+00:00"
+    },
+    "c91cd44ad2da0ccf": {
+      "title": "Rin Chat – An Easy to Use AI Roleplay App",
+      "fetched_at": "2026-10-25T02:08:53.595932+00:00"
+    },
+    "b945399a926330a7": {
+      "title": "Your tokens aren't valuable: No more AI",
+      "fetched_at": "2026-10-25T02:08:54.214804+00:00"
+    },
+    "f8af8f1d806a80e8": {
+      "title": "Show HN: Omni Verify, my AI agent can't post until Kane checks every promise",
+      "fetched_at": "2026-10-25T02:08:54.842227+00:00"
+    },
+    "69a17be37c2979da": {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "fetched_at": "2026-10-25T02:08:55.541079+00:00"
+    },
+    "0d844e2e21bb81c5": {
+      "title": "What we learned making 12 apps usable by AI agents with WebMCP",
+      "fetched_at": "2026-10-25T02:08:56.170206+00:00"
+    },
+    "0447790b82995582": {
+      "title": "AI Generated launch videos are starting to get insane",
+      "fetched_at": "2026-10-25T02:08:56.805590+00:00"
+    },
+    "c006566596ad40c8": {
+      "title": "AI Is Planning to Kill You",
+      "fetched_at": "2026-10-25T02:08:57.461686+00:00"
+    },
+    "4a6f82eb2e82aa9a": {
+      "title": "Kevlar = MCP Firewall for LLM's",
+      "fetched_at": "2026-10-25T02:08:58.094539+00:00"
+    },
+    "1687ce58ee5a28fb": {
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "fetched_at": "2026-10-25T02:08:58.704941+00:00"
+    },
+    "47f464561e96b2aa": {
+      "title": "OpenAI says it will no longer train its AI models on the live internet",
+      "fetched_at": "2026-10-25T02:08:58.705043+00:00"
+    },
+    "6505c8039875d10e": {
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "fetched_at": "2026-10-25T02:08:59.336052+00:00"
+    },
+    "b6ef8a45a897f412": {
+      "title": "Ask HN: Any real cases where AI slop ruined a codebase and forced a rewrite?",
+      "fetched_at": "2026-10-25T02:09:00.014952+00:00"
+    },
+    "6435e3435f472a79": {
+      "title": "Making My Blog Readable by AI Agents",
+      "fetched_at": "2026-10-25T02:09:00.657415+00:00"
+    },
+    "91ae79e5ad3e5c42": {
+      "title": "Sevenbox, find what an AI agent's wrong decision affected",
+      "fetched_at": "2026-10-25T02:09:01.272906+00:00"
+    },
+    "67448449bf47cbb3": {
+      "title": "日本以舉辦世界級活動聞名，但名古屋亞運卻是一片混亂",
+      "fetched_at": "2026-10-25T02:09:04.763357+00:00"
+    },
+    "72d3e87e75e74075": {
+      "title": "住着一群代孕孩子，美國加州的豪宅如何變成「恐怖之家」？",
+      "fetched_at": "2026-10-25T02:09:05.377456+00:00"
+    },
+    "5019f15423a90d6e": {
+      "title": "Fossil of 'unconquered female warrior' dinosaur with long claws found in UK museum drawer after 100 years",
+      "fetched_at": "2026-10-25T02:09:08.579375+00:00"
     }
   },
-  "last_updated": "2026-10-24T19:58:53.579930+00:00"
+  "last_updated": "2026-10-25T02:09:08.630363+00:00"
 }
