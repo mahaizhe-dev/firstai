@@ -1,69 +1,5 @@
 {
   "articles": {
-    "319397442a11a26f": {
-      "title": "法國多地抗議變暴力衝突 巴黎街頭滿是焚毀汽車和碎玻璃",
-      "fetched_at": "2026-10-18T15:02:33.123568+00:00"
-    },
-    "99e4386170f2543c": {
-      "title": "'A uniquely direct route that might cause damage': Scientists uncover link between air pollution and eye diseases like glaucoma",
-      "fetched_at": "2026-10-18T15:02:39.458864+00:00"
-    },
-    "6bcdab0dbdd0e0cd": {
-      "title": "Black Death had dramatic effect on species diversity as humans abandoned farmland, study finds",
-      "fetched_at": "2026-10-18T15:02:40.080165+00:00"
-    },
-    "a58d21a04a631221": {
-      "title": "This 850-year-old 'firework' supernova is full of mysterious knots",
-      "fetched_at": "2026-10-18T15:02:40.707562+00:00"
-    },
-    "3422e24bdddbddbd": {
-      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-      "fetched_at": "2026-10-18T15:02:41.417160+00:00"
-    },
-    "f9147781e6ae7b30": {
-      "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-      "fetched_at": "2026-10-18T15:02:42.047448+00:00"
-    },
-    "485a2f129bba87aa": {
-      "title": "Eating blueberries every day may have a surprising effect on your mood",
-      "fetched_at": "2026-10-18T15:02:42.691895+00:00"
-    },
-    "06c6ce914a67f69e": {
-      "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
-      "fetched_at": "2026-10-18T15:02:43.306925+00:00"
-    },
-    "b63f5d3785304fe4": {
-      "title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
-      "fetched_at": "2026-10-18T15:02:43.932693+00:00"
-    },
-    "3f0298a5ad19f752": {
-      "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
-      "fetched_at": "2026-10-18T15:02:44.561812+00:00"
-    },
-    "4de6adb612ad4395": {
-      "title": "Two monster black holes could collide in just 100 years",
-      "fetched_at": "2026-10-18T15:02:45.215045+00:00"
-    },
-    "9fdf2f57187fcfe4": {
-      "title": "Scientists discover that male and female skin play by different rules",
-      "fetched_at": "2026-10-18T15:02:45.830804+00:00"
-    },
-    "0fe97f1ada84162b": {
-      "title": "Scientists who discovered a third form of magnetism win major physics prize",
-      "fetched_at": "2026-10-18T15:02:46.456202+00:00"
-    },
-    "8b5c6b26687f2448": {
-      "title": "Scientists find a youth protein that helps aging brain cells act young again",
-      "fetched_at": "2026-10-18T15:02:47.090465+00:00"
-    },
-    "8010c9ee73632997": {
-      "title": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
-      "fetched_at": "2026-10-18T15:02:47.719184+00:00"
-    },
-    "fda2a27b0c68df45": {
-      "title": "Archaeologists discover 1,200-year-old mummified hairless dog in Peru",
-      "fetched_at": "2026-10-18T15:02:48.421459+00:00"
-    },
     "14ccb22b55b75f7c": {
       "title": "A woman was arrested in Philly for blocking a delivery robot",
       "fetched_at": "2026-10-18T19:49:04.417255+00:00"
@@ -2811,7 +2747,95 @@
     "9f3cb21f6c5482d7": {
       "title": "Archaeologists may have just found the world's oldest shipwreck",
       "fetched_at": "2026-10-26T11:47:25.888930+00:00"
+    },
+    "ca2e22ef4959c1a3": {
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "fetched_at": "2026-10-26T17:49:17.540714+00:00"
+    },
+    "b4da0f5a176fdc18": {
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "fetched_at": "2026-10-26T17:49:18.167856+00:00"
+    },
+    "7f0058640691a167": {
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "fetched_at": "2026-10-26T17:49:18.797701+00:00"
+    },
+    "9f95844a160160dc": {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "fetched_at": "2026-10-26T17:49:19.528236+00:00"
+    },
+    "43212d9ac2f906a7": {
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "fetched_at": "2026-10-26T17:49:20.157561+00:00"
+    },
+    "ec32845e72abd8f6": {
+      "title": "Anthropic officially files for its public debut",
+      "fetched_at": "2026-10-26T17:49:20.782822+00:00"
+    },
+    "5ac536bf8b2dad1d": {
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "fetched_at": "2026-10-26T17:49:21.402911+00:00"
+    },
+    "a95be5f1c4b30920": {
+      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+      "fetched_at": "2026-10-26T17:49:22.045937+00:00"
+    },
+    "f3e7e87436eae627": {
+      "title": "Can AI help solve the COBOL code crisis?",
+      "fetched_at": "2026-10-26T17:49:22.683921+00:00"
+    },
+    "5c4a68373eec38c0": {
+      "title": "秋冬换季护肤买什么，双 11 选购推荐",
+      "fetched_at": "2026-10-26T17:49:23.321852+00:00"
+    },
+    "821e556a33284dca": {
+      "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
+      "fetched_at": "2026-10-26T17:49:23.952959+00:00"
+    },
+    "b097c5352bb0222a": {
+      "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
+      "fetched_at": "2026-10-26T17:49:24.590450+00:00"
+    },
+    "7521e21e511646f9": {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
+      "fetched_at": "2026-10-26T17:49:24.590575+00:00"
+    },
+    "e55c2c5a2c107461": {
+      "title": "福田康夫逝世享年90歲 長期親華的「短暫」日本首相",
+      "fetched_at": "2026-10-26T17:49:28.192368+00:00"
+    },
+    "edc7644a352733ea": {
+      "title": "60,000-Year-Old Animal Proteins Mixed With Ocher Identified in South Africa",
+      "fetched_at": "2026-10-26T17:49:33.816987+00:00"
+    },
+    "38445caa63792099": {
+      "title": "Possible Praetorium Found at Roman Fortress in Bulgaria",
+      "fetched_at": "2026-10-26T17:49:34.429536+00:00"
+    },
+    "d81a6e13df661296": {
+      "title": "Why slow fields may determine the pace of discovery",
+      "fetched_at": "2026-10-26T17:49:35.045169+00:00"
+    },
+    "c8db258646e24f7e": {
+      "title": "Humanity Top 10K: Ranking historical figures through 1.24M comparisons of deeds",
+      "fetched_at": "2026-10-26T17:49:35.663772+00:00"
+    },
+    "57cc965231f695f7": {
+      "title": "'A potential glimpse into the future': Climate change has triggered 'permafrost landslides' with house-size blocks of ice in Canada",
+      "fetched_at": "2026-10-26T17:49:36.289427+00:00"
+    },
+    "388a4b18c11d408f": {
+      "title": "Colorectal cancer cases in kids have risen sixfold over past 2 decades ‪—‬ researchers are racing to understand why",
+      "fetched_at": "2026-10-26T17:49:36.936979+00:00"
+    },
+    "901fe25c615a90a9": {
+      "title": "Closing the Sea: Lessons from Ancient Mediterranean Blockades",
+      "fetched_at": "2026-10-26T17:49:37.551030+00:00"
+    },
+    "e26152a32cd5c568": {
+      "title": "Can cuttlefish hypnotize their prey?",
+      "fetched_at": "2026-10-26T17:49:38.172665+00:00"
     }
   },
-  "last_updated": "2026-10-26T11:47:26.002117+00:00"
+  "last_updated": "2026-10-26T17:49:38.259485+00:00"
 }
