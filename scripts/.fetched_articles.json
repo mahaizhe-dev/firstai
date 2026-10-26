@@ -1,97 +1,5 @@
 {
   "articles": {
-    "2f0e85c4155837a0": {
-      "title": "What will AI do to our jobs and our wages? [video]",
-      "fetched_at": "2026-10-18T01:57:45.151868+00:00"
-    },
-    "479893b05ec79acc": {
-      "title": "Bookfolio: Free Books for Learning and Joyful Reading",
-      "fetched_at": "2026-10-18T01:57:45.773435+00:00"
-    },
-    "c6f3ede688ef4753": {
-      "title": "What 500 MiniMax Code Tests Revealed About AI Saying \"Done\"",
-      "fetched_at": "2026-10-18T01:57:46.394420+00:00"
-    },
-    "3b3a75e78b44cfcf": {
-      "title": "Drunken Goddess Reflux Public Demo Canceled over AI Imitation Concerns",
-      "fetched_at": "2026-10-18T01:57:47.015410+00:00"
-    },
-    "c2129503834cc2eb": {
-      "title": "Anthropic warns AI models could self-replicate across home devices",
-      "fetched_at": "2026-10-18T01:57:47.644446+00:00"
-    },
-    "a3fa5c80546262ae": {
-      "title": "Lazyagents – Lazygit for AI coding agents",
-      "fetched_at": "2026-10-18T01:57:48.267560+00:00"
-    },
-    "551a2c31b5ffff96": {
-      "title": "Blocking AI-bot can be a double-edged Sword",
-      "fetched_at": "2026-10-18T01:57:48.907298+00:00"
-    },
-    "d59a4c31231359ac": {
-      "title": "AI Reviews All-In",
-      "fetched_at": "2026-10-18T01:57:49.523717+00:00"
-    },
-    "54d421f29f5d6bf2": {
-      "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
-      "fetched_at": "2026-10-18T01:57:50.139691+00:00"
-    },
-    "09347279a034e37d": {
-      "title": "Decision Architecture: Governing Cybersecurity at Machine Speed",
-      "fetched_at": "2026-10-18T01:57:50.747552+00:00"
-    },
-    "36ce57a7717b492c": {
-      "title": "Romania names first AI minister: Bitdefender researcher Bogdan Dumitru",
-      "fetched_at": "2026-10-18T01:57:51.694006+00:00"
-    },
-    "70a37d1d04a81ba9": {
-      "title": "AI Infrastructure Index",
-      "fetched_at": "2026-10-18T01:57:52.315694+00:00"
-    },
-    "4308aa0f0eab6f6e": {
-      "title": "I run my one-person business with ~17 narrow AI agents",
-      "fetched_at": "2026-10-18T01:57:52.939799+00:00"
-    },
-    "e52cd0242fe81475": {
-      "title": "Does code quality still matter when AI writes the code?",
-      "fetched_at": "2026-10-18T01:57:53.563865+00:00"
-    },
-    "2659e6c4306203a7": {
-      "title": "Doctors, Lawyers and Engineers joining AI's $400-an-Hour gig economy",
-      "fetched_at": "2026-10-18T01:57:54.178033+00:00"
-    },
-    "da1763a5b2088749": {
-      "title": "Diogenes: AI microservices over L402, x402 and MCP (pay per call)",
-      "fetched_at": "2026-10-18T01:57:54.820777+00:00"
-    },
-    "397d470d7342ac9a": {
-      "title": "Abolish AI Manifesto",
-      "fetched_at": "2026-10-18T01:57:55.446668+00:00"
-    },
-    "cf3f72157c961714": {
-      "title": "Astrax – Open-source MCP server for Windows desktop AI control",
-      "fetched_at": "2026-10-18T01:57:56.082409+00:00"
-    },
-    "04eeadb95d340869": {
-      "title": "Gartner says only about 130 'AI agent' companies are real",
-      "fetched_at": "2026-10-18T01:57:56.712281+00:00"
-    },
-    "3e27f9d28ca53373": {
-      "title": "Measuring the exponential pace of AI-driven research",
-      "fetched_at": "2026-10-18T01:57:57.352900+00:00"
-    },
-    "a548b1616e7115dd": {
-      "title": "「我申請了200份工作」——用AI「撒網」投履歷為何容易弄巧成拙？",
-      "fetched_at": "2026-10-18T01:57:59.447285+00:00"
-    },
-    "b77fedfe523c5015": {
-      "title": "美國中國研究生涉嫌毒害越南同學：大學與受害者家屬怎麼說？",
-      "fetched_at": "2026-10-18T01:58:00.078086+00:00"
-    },
-    "25065249d1fccade": {
-      "title": "遊艇上的水上滑梯、泳池：衛星影像揭示的金正恩「夏宮」生活",
-      "fetched_at": "2026-10-18T01:58:00.707357+00:00"
-    },
     "09927e8d3387464e": {
       "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
       "fetched_at": "2026-10-18T10:02:46.404338+00:00"
@@ -2719,7 +2627,99 @@
     "a64e3dd9089ea8b0": {
       "title": "Has there ever been a mountain taller than Everest?",
       "fetched_at": "2026-10-25T20:06:58.243362+00:00"
+    },
+    "e1cd248af60a7161": {
+      "title": "Show HN: Depono – Chat with many AI models at cost and 10%, files kept in Git",
+      "fetched_at": "2026-10-26T02:09:18.382792+00:00"
+    },
+    "7880155cad187ca3": {
+      "title": "Learning to Ride Your Brain",
+      "fetched_at": "2026-10-26T02:09:19.002153+00:00"
+    },
+    "3d6458c472a63d43": {
+      "title": "One gateway for your AI agents, APIs and MCP servers",
+      "fetched_at": "2026-10-26T02:09:19.642258+00:00"
+    },
+    "3ec9bdeafbcb194e": {
+      "title": "I Think My AI Company Needs HR",
+      "fetched_at": "2026-10-26T02:09:20.282702+00:00"
+    },
+    "85266697a4b29955": {
+      "title": "Bend: A fast language that blocks AI mistakes via proof",
+      "fetched_at": "2026-10-26T02:09:20.900901+00:00"
+    },
+    "865bae345010a451": {
+      "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+      "fetched_at": "2026-10-26T02:09:21.548764+00:00"
+    },
+    "9bd1fa9574d09a59": {
+      "title": "AI is getting good at math, here's why",
+      "fetched_at": "2026-10-26T02:09:22.260420+00:00"
+    },
+    "7bbfd70a54602fb1": {
+      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "fetched_at": "2026-10-26T02:09:22.877320+00:00"
+    },
+    "bcc0f7ed32c67fa9": {
+      "title": "Surprising gender biases in GPT (2024)",
+      "fetched_at": "2026-10-26T02:09:23.494163+00:00"
+    },
+    "6eecba3e728080ed": {
+      "title": "You don't have to build the model to compete in AI",
+      "fetched_at": "2026-10-26T02:09:24.149146+00:00"
+    },
+    "bf6311758d0369b7": {
+      "title": "Show HN: Glitchrupt: Glitch your desktop when your AI agent needs your attention",
+      "fetched_at": "2026-10-26T02:09:24.768047+00:00"
+    },
+    "e980a5e4ce7aee6a": {
+      "title": "Germany's Idle Nuclear Plants Eye New Life as AI Data Centers",
+      "fetched_at": "2026-10-26T02:09:25.424429+00:00"
+    },
+    "0c24e2baccff67e0": {
+      "title": "Disadvantages of Designating Mathematicians for AI Output Releases",
+      "fetched_at": "2026-10-26T02:09:26.051144+00:00"
+    },
+    "b7898f91555a482a": {
+      "title": "Nvidia eyes converting old nuclear plants into AI data centers",
+      "fetched_at": "2026-10-26T02:09:26.682525+00:00"
+    },
+    "b1cd385b87600ce2": {
+      "title": "Show HN: I built an AI agent to find customers on Telegram while I sleep",
+      "fetched_at": "2026-10-26T02:09:27.301486+00:00"
+    },
+    "b1737427da386a28": {
+      "title": "China increasingly depends on copying American AI",
+      "fetched_at": "2026-10-26T02:09:27.923352+00:00"
+    },
+    "596afd3f4aadd820": {
+      "title": "Report says 'circular financing' shows AI bubble 'primed to pop'",
+      "fetched_at": "2026-10-26T02:09:28.550390+00:00"
+    },
+    "2c7ddafeb699e17d": {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "fetched_at": "2026-10-26T02:09:29.178020+00:00"
+    },
+    "04418811addb4b19": {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "fetched_at": "2026-10-26T02:09:29.806564+00:00"
+    },
+    "cf5cfa0b7ec088a5": {
+      "title": "Crawlerpeek – check which AI crawlers your site lets in (CLI, MCP)",
+      "fetched_at": "2026-10-26T02:09:30.435601+00:00"
+    },
+    "5e32c9ddd555d6fc": {
+      "title": "中共五中全會：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
+      "fetched_at": "2026-10-26T02:09:33.582575+00:00"
+    },
+    "be753ebacc348725": {
+      "title": "金正恩取道新鸭绿江大桥突访丹东，与王沪宁会晤",
+      "fetched_at": "2026-10-26T02:09:34.204733+00:00"
+    },
+    "f619743a15baae31": {
+      "title": "中國市場放緩，英國傳統精英私立學校紛紛進軍印度",
+      "fetched_at": "2026-10-26T02:09:34.815438+00:00"
     }
   },
-  "last_updated": "2026-10-25T20:06:58.342874+00:00"
+  "last_updated": "2026-10-26T02:09:42.206586+00:00"
 }
