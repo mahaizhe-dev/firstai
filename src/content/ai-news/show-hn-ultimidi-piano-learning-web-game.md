@@ -1,0 +1,10 @@
+---
+title: 'Show HN: Ultimidi – piano learning web game'
+description: 'Hi HN,10 years ago, as my BsC final project I had the idea to make a quick game that used neural nets to detect notes played on a guitar, and I made a small mini-game to make use of that. I always wan'
+pubDate: 2026-10-26T10:58:23
+source: 'Hacker News'
+sourceUrl: 'https://game.ultimidi.com/'
+tags: []
+---
+
+Hi HN,10 years ago, as my BsC final project I had the idea to make a quick game that used neural nets to detect notes played on a guitar, and I made a small mini-game to make use of that. I always wanted to improve on that idea, so last year I started making my own piano-learning game.You know how in most games you learn complex key combinations and sequences (i.e. Mortal Kombat fatalities), but those don't have much use outside of the game.My idea was to make a game that can be played with the piano, so you you learn notes, chords, scales simply by playing.While making it and prototyping many versions, I realised that that idea didn't work as well as I wanted, because it is hard to focus on reading notes, playing and some other gameplay logic.In the end I settled on a combination of basic beat-based notes playing and a few minigames that use the piano as input. My goal now is to add even more such minigames, for learning different sheet reading, music theory and piano playing techniques.For art, I am unfortunately not a designer and have no budget for hiring one, so I decided to go with some simple shaped art generated in bulk using AI rendering SVGs. Hopefully this is just a placeholder until I find someone to do the art for the game.You can try it out for free, it does have some extra content in the Pro version, but a lotof content is free, including the ability to directly play full songs in scrolling or sheet mode here: https://game.ultimidi.com/songsHappy to hear any feedback, especially if the MIDI connection/notes detection didn't work or something doesn't feel good.Thank you! Comments URL: https://news.ycombinator.com/item?id=50241822 Points: 1 # Comments: 1

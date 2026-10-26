@@ -1,61 +1,5 @@
 {
   "articles": {
-    "09927e8d3387464e": {
-      "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
-      "fetched_at": "2026-10-18T10:02:46.404338+00:00"
-    },
-    "1ec7ad3a78929f51": {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "fetched_at": "2026-10-18T10:02:47.028028+00:00"
-    },
-    "bb807df9958966a9": {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "fetched_at": "2026-10-18T10:02:47.700808+00:00"
-    },
-    "0a5d59845baf6fd6": {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "fetched_at": "2026-10-18T10:02:48.320972+00:00"
-    },
-    "dec78db19063ac66": {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "fetched_at": "2026-10-18T10:02:48.951966+00:00"
-    },
-    "64e306b57c0a4cbf": {
-      "title": "在這極速超越高鐵的賽車運動裏，女性車手盡展鋒芒",
-      "fetched_at": "2026-10-18T10:02:51.338264+00:00"
-    },
-    "a553fe05f873d8fe": {
-      "title": "法國抗議爆發暴力衝突、搶劫、建築物起火，逾千人被捕",
-      "fetched_at": "2026-10-18T10:02:51.973082+00:00"
-    },
-    "9244327bb4a03b75": {
-      "title": "「我申請了200份工作」——用AI「撒網」求職為何易弄巧成拙？",
-      "fetched_at": "2026-10-18T10:02:52.600234+00:00"
-    },
-    "aeb28c77c901fd41": {
-      "title": "在美中國研究生涉毒害越南同學：大學與家屬怎麼說？",
-      "fetched_at": "2026-10-18T10:02:53.236336+00:00"
-    },
-    "e26152a32cd5c568": {
-      "title": "Can cuttlefish hypnotize their prey?",
-      "fetched_at": "2026-10-18T10:03:12.916724+00:00"
-    },
-    "3c6f6e82b6cc514b": {
-      "title": "'October is the ideal time to get vaccinated': Flu season is kicking off early, experts say",
-      "fetched_at": "2026-10-18T10:03:13.574601+00:00"
-    },
-    "164eea8b4ee8ed9c": {
-      "title": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years.",
-      "fetched_at": "2026-10-18T10:03:14.202307+00:00"
-    },
-    "b8cfaad19240b2b2": {
-      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
-      "fetched_at": "2026-10-18T10:03:14.819367+00:00"
-    },
-    "87f19b3e866ea9c1": {
-      "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-      "fetched_at": "2026-10-18T10:03:15.447457+00:00"
-    },
     "319397442a11a26f": {
       "title": "法國多地抗議變暴力衝突 巴黎街頭滿是焚毀汽車和碎玻璃",
       "fetched_at": "2026-10-18T15:02:33.123568+00:00"
@@ -2719,7 +2663,155 @@
     "f619743a15baae31": {
       "title": "中國市場放緩，英國傳統精英私立學校紛紛進軍印度",
       "fetched_at": "2026-10-26T02:09:34.815438+00:00"
+    },
+    "8a92ff389783df8e": {
+      "title": "AI Scope Creep and Productivity",
+      "fetched_at": "2026-10-26T11:46:59.437598+00:00"
+    },
+    "15c6a8d1ad8b80f5": {
+      "title": "Show HN: Ankita v2.7.1 – desktop AI companion with undo",
+      "fetched_at": "2026-10-26T11:47:00.058687+00:00"
+    },
+    "c81c4b7894fcd24b": {
+      "title": "AI Is Making Verification the Bottleneck for Companies",
+      "fetched_at": "2026-10-26T11:47:00.715332+00:00"
+    },
+    "315bb70bbd302843": {
+      "title": "Build your first AI agent from scratch in Python: a web research agent",
+      "fetched_at": "2026-10-26T11:47:01.328658+00:00"
+    },
+    "13a18e14e3805241": {
+      "title": "Show HN: Retro AI Concept",
+      "fetched_at": "2026-10-26T11:47:01.968151+00:00"
+    },
+    "6f0944125abc2bac": {
+      "title": "Cleanyourtv.ai",
+      "fetched_at": "2026-10-26T11:47:02.584900+00:00"
+    },
+    "8cda2b6800e02e24": {
+      "title": "Show HN: Ultimidi – piano learning web game",
+      "fetched_at": "2026-10-26T11:47:03.232261+00:00"
+    },
+    "7cde052af58f540c": {
+      "title": "The higher self: why the AI copy of your way of working should be yours",
+      "fetched_at": "2026-10-26T11:47:03.867199+00:00"
+    },
+    "35b00659af37825f": {
+      "title": "Agentic Project Kit – A control harness for LLM-assisted coding via repo-state",
+      "fetched_at": "2026-10-26T11:47:04.480242+00:00"
+    },
+    "03b89ac52c9b0742": {
+      "title": "Show HN: Mob programming with AI agents, built on OpenSpec and OpenCode",
+      "fetched_at": "2026-10-26T11:47:05.108306+00:00"
+    },
+    "d287cdad39b944c6": {
+      "title": "Young Creators Who Cannot Draw Are Making Their First Comics with AI",
+      "fetched_at": "2026-10-26T11:47:05.730936+00:00"
+    },
+    "3ce81dbba59fe074": {
+      "title": "AMD Ryzen AI Halo",
+      "fetched_at": "2026-10-26T11:47:06.359190+00:00"
+    },
+    "757dc39846510e2f": {
+      "title": "派评 | 近期值得关注的 App",
+      "fetched_at": "2026-10-26T11:47:07.015340+00:00"
+    },
+    "bbc9f9ff921e5fd9": {
+      "title": "Top Open Source LLM Gateways",
+      "fetched_at": "2026-10-26T11:47:07.648211+00:00"
+    },
+    "6d402095858fce49": {
+      "title": "AI cloud computing firms face 'guppy-level death', Elon Musk warns",
+      "fetched_at": "2026-10-26T11:47:08.254776+00:00"
+    },
+    "a903e1c170bb2aad": {
+      "title": "MCP-warden local credential broker so AI agents never see your secrets",
+      "fetched_at": "2026-10-26T11:47:08.856405+00:00"
+    },
+    "031854fe6f5740e8": {
+      "title": "Who Is AI Native Foundation (AINF)?",
+      "fetched_at": "2026-10-26T11:47:09.481983+00:00"
+    },
+    "67c56de0eb3d55bc": {
+      "title": "Aivs – The AI Video Studio",
+      "fetched_at": "2026-10-26T11:47:10.137234+00:00"
+    },
+    "f5817036cac5f3e0": {
+      "title": "A Brave New World (Of AI)",
+      "fetched_at": "2026-10-26T11:47:10.752789+00:00"
+    },
+    "041dc783e1b13c50": {
+      "title": "Two AI Chipmakers Make Up 34% of America's Earnings Boom",
+      "fetched_at": "2026-10-26T11:47:11.379015+00:00"
+    },
+    "4e3c99f7813a5c31": {
+      "title": "巴西總統盧拉：北京在美國後院的「老朋友」第四次贏得大選",
+      "fetched_at": "2026-10-26T11:47:14.451207+00:00"
+    },
+    "4c3ffa71b14161ea": {
+      "title": "蔡康永稱「沒支持過台獨」後出席蔣萬安造勢 兩岸輿論未息",
+      "fetched_at": "2026-10-26T11:47:15.084084+00:00"
+    },
+    "84fbd2f4d6f14587": {
+      "title": "中共五中全會開幕：十三年反腐後，如何繼續「從嚴治黨」？",
+      "fetched_at": "2026-10-26T11:47:15.711122+00:00"
+    },
+    "46fa47324bc6fa98": {
+      "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
+      "fetched_at": "2026-10-26T11:47:16.328009+00:00"
+    },
+    "be08768a351156ce": {
+      "title": "探访加密货币大佬赵长鹏：亿万富翁天堂里的前罪犯",
+      "fetched_at": "2026-10-26T11:47:16.998850+00:00"
+    },
+    "fbf2cec21c086a24": {
+      "title": "人类已经引发了第二次宇宙大爆炸",
+      "fetched_at": "2026-10-26T11:47:17.649257+00:00"
+    },
+    "42253c60af84326a": {
+      "title": "“自我革命”、持续清洗：习近平为下一任期铺路",
+      "fetched_at": "2026-10-26T11:47:18.291556+00:00"
+    },
+    "6237f3764207c5d7": {
+      "title": "中期选举集会，奥巴马特朗普针锋相对",
+      "fetched_at": "2026-10-26T11:47:18.925016+00:00"
+    },
+    "25065249d1fccade": {
+      "title": "遊艇上的水上滑梯、泳池：衛星影像揭示的金正恩「夏宮」生活",
+      "fetched_at": "2026-10-26T11:47:19.541603+00:00"
+    },
+    "8144d39779aa0e55": {
+      "title": "Rare burial of elite toddler from pre-Inca culture discovered in Peru",
+      "fetched_at": "2026-10-26T11:47:21.596494+00:00"
+    },
+    "1ef6321f73aa238c": {
+      "title": "Mold gold cape: A 3,900-year-old accessory that's one of the finest examples of prehistoric goldwork ever found",
+      "fetched_at": "2026-10-26T11:47:22.220926+00:00"
+    },
+    "814791832608b778": {
+      "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows",
+      "fetched_at": "2026-10-26T11:47:22.837409+00:00"
+    },
+    "5893e808d9e9f879": {
+      "title": "Exercise doesn't just strengthen your heart. It rewires it",
+      "fetched_at": "2026-10-26T11:47:23.450049+00:00"
+    },
+    "1343ae027eb82a6d": {
+      "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+      "fetched_at": "2026-10-26T11:47:24.050143+00:00"
+    },
+    "3835845cf92ea44c": {
+      "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
+      "fetched_at": "2026-10-26T11:47:24.656531+00:00"
+    },
+    "0fe5968d32fafafe": {
+      "title": "Tiny magnetic vortices could help computers work more like your brain",
+      "fetched_at": "2026-10-26T11:47:25.281059+00:00"
+    },
+    "9f3cb21f6c5482d7": {
+      "title": "Archaeologists may have just found the world's oldest shipwreck",
+      "fetched_at": "2026-10-26T11:47:25.888930+00:00"
     }
   },
-  "last_updated": "2026-10-26T02:09:42.206586+00:00"
+  "last_updated": "2026-10-26T11:47:26.002117+00:00"
 }

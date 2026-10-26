@@ -1,0 +1,10 @@
+---
+title: 'Archaeologists may have just found the world''s oldest shipwreck'
+description: 'A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its '
+pubDate: 2026-10-26T05:51:15
+source: 'Science Daily'
+sourceUrl: 'https://www.sciencedaily.com/releases/2026/10/261025073036.htm'
+tags: []
+---
+
+A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its surviving pottery cargo reveals clues about an ancient trading network that may have connected distant Mediterranean civilizations. Researchers believe the ship may have crashed against rocks during a storm while transporting valuable goods such as oil, wine, or tree resin.
