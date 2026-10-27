@@ -1,0 +1,10 @@
+---
+title: 'Scientists discover a surprising clue to why some brains resist Alzheimer’s'
+description: 'Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature b'
+pubDate: 2026-10-27T00:02:26
+source: 'Science Daily'
+sourceUrl: 'https://www.sciencedaily.com/releases/2026/10/261025222538.htm'
+tags: []
+---
+
+Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that these cells remain present even in people over 80, but their behavior differs dramatically between those who develop dementia and those who remain cognitively healthy.
