@@ -1,29 +1,5 @@
 {
   "articles": {
-    "a551569d9a715ac6": {
-      "title": "派早报：三季度全球手机出货量继续两位数下降",
-      "fetched_at": "2026-10-19T02:14:33.886066+00:00"
-    },
-    "bc428b396e48d7ab": {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "fetched_at": "2026-10-19T02:14:34.507615+00:00"
-    },
-    "9e9abca0a50e3c63": {
-      "title": "法国发生近年来最大规模骚乱，人们在抗议什么？",
-      "fetched_at": "2026-10-19T02:14:36.639137+00:00"
-    },
-    "da19cce1c105b445": {
-      "title": "泰国向中国电动汽车敞开大门，如今正付出代价",
-      "fetched_at": "2026-10-19T02:14:37.256524+00:00"
-    },
-    "9fae246099733e8d": {
-      "title": "矽谷這座城市垃圾太臭居民受不了 就讓科技來幫忙",
-      "fetched_at": "2026-10-19T02:14:37.876540+00:00"
-    },
-    "6577882153ef2b67": {
-      "title": "我們的廣告提到了「懷孕」 結果給 Instagram 下架了",
-      "fetched_at": "2026-10-19T02:14:38.518388+00:00"
-    },
     "a8a9a91d6f7e4c35": {
       "title": "Britain should reject the lure of cheap – and scary – Chinese AI",
       "fetched_at": "2026-10-19T11:28:11.289144+00:00"
@@ -2847,7 +2823,107 @@
     "a58d21a04a631221": {
       "title": "This 850-year-old 'firework' supernova is full of mysterious knots",
       "fetched_at": "2026-10-26T22:01:44.804782+00:00"
+    },
+    "5baa08bdaba27612": {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "fetched_at": "2026-10-27T02:46:13.936056+00:00"
+    },
+    "0fc52b6b5c64fd52": {
+      "title": "AI and the Rise of Cognitive Overload",
+      "fetched_at": "2026-10-27T02:46:14.494598+00:00"
+    },
+    "3f5c9a05ea8e89c1": {
+      "title": "AI Science vs. Human Science",
+      "fetched_at": "2026-10-27T02:46:15.062855+00:00"
+    },
+    "9ca52381f5590608": {
+      "title": "What to do if you discover AI models trained using your copywrighted book?",
+      "fetched_at": "2026-10-27T02:46:15.666600+00:00"
+    },
+    "a007c6c07a8307e8": {
+      "title": "Do you want to keep your job? Stop feeding AI models",
+      "fetched_at": "2026-10-27T02:46:16.226803+00:00"
+    },
+    "4869850d04d4ec18": {
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "fetched_at": "2026-10-27T02:46:16.827585+00:00"
+    },
+    "d3a2a622e6011d23": {
+      "title": "AI wasn't overhyped. Almost everyone underestimated it",
+      "fetched_at": "2026-10-27T02:46:17.404982+00:00"
+    },
+    "c6ec3c885245059e": {
+      "title": "The \"let-it-rip\" camp is wrong on AI",
+      "fetched_at": "2026-10-27T02:46:17.983969+00:00"
+    },
+    "e3bc62569a9f2879": {
+      "title": "Show HN: Marlow – Build full-stack apps with AI and own your code",
+      "fetched_at": "2026-10-27T02:46:18.557325+00:00"
+    },
+    "44f17e57ec20449e": {
+      "title": "Request for Immediate Release of Yang–Mills AI Output",
+      "fetched_at": "2026-10-27T02:46:19.140032+00:00"
+    },
+    "c6ccb367565991f2": {
+      "title": "Why using AI saves doctors time but won't fix physician burnout",
+      "fetched_at": "2026-10-27T02:46:19.742699+00:00"
+    },
+    "dc9b0f9ef0e3d7bd": {
+      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis and Complexity Theory [video]",
+      "fetched_at": "2026-10-27T02:46:20.305668+00:00"
+    },
+    "6f4f72d996166997": {
+      "title": "Mistrial – Re run your LLM judge and see how often it flips",
+      "fetched_at": "2026-10-27T02:46:20.876040+00:00"
+    },
+    "1bdb74994ec44427": {
+      "title": "Meaning After an AI Eucatastrophe",
+      "fetched_at": "2026-10-27T02:46:21.440550+00:00"
+    },
+    "dcfaeb55c31cbcee": {
+      "title": "In China, the AI bubble has already burst",
+      "fetched_at": "2026-10-27T02:46:22.029786+00:00"
+    },
+    "c1340a929b4b8645": {
+      "title": "Goldman Sachs puts $500M into small-business AI with four AI labs",
+      "fetched_at": "2026-10-27T02:46:22.631936+00:00"
+    },
+    "fdd2c77a8b6fe60d": {
+      "title": "Show HN: Aroha – signed, shrinking permissions for AI agents, checked offline",
+      "fetched_at": "2026-10-27T02:46:23.211044+00:00"
+    },
+    "3fb4d0820f73587b": {
+      "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+      "fetched_at": "2026-10-27T02:46:23.773347+00:00"
+    },
+    "a095fda1d130eb9e": {
+      "title": "Some cybersecurity x AI dichotomies",
+      "fetched_at": "2026-10-27T02:46:24.337662+00:00"
+    },
+    "f38015069451fb8a": {
+      "title": "AI talk has nearly doubled outside tech. Proof of payoff is still rare",
+      "fetched_at": "2026-10-27T02:46:24.989985+00:00"
+    },
+    "00a274dfa138c6ad": {
+      "title": "塞尔维亚大选暴露右翼民粹潮流新弱点",
+      "fetched_at": "2026-10-27T02:46:28.784448+00:00"
+    },
+    "e0d692cd9e4c5890": {
+      "title": "卢拉逆转赢得巴西总统大选，打击拉美右翼浪潮",
+      "fetched_at": "2026-10-27T02:46:29.392168+00:00"
+    },
+    "0a2d80553ad1380d": {
+      "title": "「鐵蛋白臉」真的存在嗎？從外表能否判斷缺鐵？",
+      "fetched_at": "2026-10-27T02:46:29.962493+00:00"
+    },
+    "69c8b92cceb8fd5e": {
+      "title": "澳洲囚犯爭取吃Vegemite醬敗訴，為何獄中禁止「國民食物」？",
+      "fetched_at": "2026-10-27T02:46:30.528651+00:00"
+    },
+    "a6590180692c8688": {
+      "title": "特朗普重返白宮後，如何從五方面改變美國移民政策？",
+      "fetched_at": "2026-10-27T02:46:31.095180+00:00"
     }
   },
-  "last_updated": "2026-10-26T22:01:44.842976+00:00"
+  "last_updated": "2026-10-27T02:46:32.966817+00:00"
 }
