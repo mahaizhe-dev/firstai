@@ -1,145 +1,5 @@
 {
   "articles": {
-    "937a37ee115ae6b2": {
-      "title": "Solidworks launches AI features [video]",
-      "fetched_at": "2026-10-19T17:54:07.248632+00:00"
-    },
-    "c41e12b4f6ffad83": {
-      "title": "Build a Basic AI Agent from Scratch: Session Management",
-      "fetched_at": "2026-10-19T17:54:07.816246+00:00"
-    },
-    "f0e621780bd7b094": {
-      "title": "Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
-      "fetched_at": "2026-10-19T17:54:08.485190+00:00"
-    },
-    "ce46692ec073f3de": {
-      "title": "Show HN: Senseplane open-source eyes and ears for AI agents, on your own cameras",
-      "fetched_at": "2026-10-19T17:54:09.054138+00:00"
-    },
-    "be2a00f7704213ed": {
-      "title": "Bill Gross bets AI can help mass produce 1M new startups",
-      "fetched_at": "2026-10-19T17:54:09.646477+00:00"
-    },
-    "469d8b25e52be7ad": {
-      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-      "fetched_at": "2026-10-19T17:54:10.224182+00:00"
-    },
-    "94555c7e9b013a76": {
-      "title": "Who Will Benefit from the AI Revolution?",
-      "fetched_at": "2026-10-19T17:54:10.795481+00:00"
-    },
-    "274d161002d92e71": {
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "fetched_at": "2026-10-19T17:54:11.367672+00:00"
-    },
-    "b7112404ca2e8aca": {
-      "title": "JAMA AI",
-      "fetched_at": "2026-10-19T17:54:11.948628+00:00"
-    },
-    "34f55b2d6a2a04f9": {
-      "title": "Software is eating the world; AI is eating software – so what's next?",
-      "fetched_at": "2026-10-19T17:54:12.514396+00:00"
-    },
-    "55f27667687e5497": {
-      "title": "AI Runs into Its Next Big Obstacle: Insurance",
-      "fetched_at": "2026-10-19T17:54:13.082605+00:00"
-    },
-    "e9939297cd38beef": {
-      "title": "Microsoft pulls out of UK's largest AI data centre",
-      "fetched_at": "2026-10-19T17:54:13.650813+00:00"
-    },
-    "b0a16d6adc10ef3d": {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "fetched_at": "2026-10-19T17:54:14.222916+00:00"
-    },
-    "ba323623cac25baa": {
-      "title": "AI and the future of human made music (2023)",
-      "fetched_at": "2026-10-19T17:54:14.790351+00:00"
-    },
-    "b573aa9800ffecc4": {
-      "title": "Check if AI crawlers are blocked by your robots.txt – free tool",
-      "fetched_at": "2026-10-19T17:54:15.365200+00:00"
-    },
-    "ed55d367f6ebd16a": {
-      "title": "Monopoly Round-Up: Goodbye AI Bubble, Hello Real Economy",
-      "fetched_at": "2026-10-19T17:54:15.975552+00:00"
-    },
-    "4794b2419fd8075d": {
-      "title": "Contextbridge-AI",
-      "fetched_at": "2026-10-19T17:54:16.547384+00:00"
-    },
-    "e3817e700d2d6cd5": {
-      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
-      "fetched_at": "2026-10-19T17:54:17.122636+00:00"
-    },
-    "486a1912984605e4": {
-      "title": "Distributed AI Models",
-      "fetched_at": "2026-10-19T17:54:17.689236+00:00"
-    },
-    "1c2aa9c5159313cf": {
-      "title": "A $10M prize for whoever builds 1M working AI agents",
-      "fetched_at": "2026-10-19T17:54:18.273050+00:00"
-    },
-    "95024aa7537e5fe7": {
-      "title": "什麼是「微笑抑鬱」？如何察覺徵兆？",
-      "fetched_at": "2026-10-19T17:54:20.539122+00:00"
-    },
-    "72d22b0dcb177f97": {
-      "title": "Dynamic MCP Server Discovery on Google Cloud",
-      "fetched_at": "2026-10-19T17:54:54.401928+00:00"
-    },
-    "fa6d6a9dbeda24c8": {
-      "title": "World's fastest AI-powered racing drone outflies the best human pilots",
-      "fetched_at": "2026-10-19T17:54:54.977160+00:00"
-    },
-    "2d8518892a6a7fad": {
-      "title": "'Cute demo, but totally impractical': Experts are skeptical that Tesla's 'Rocket' Roadster could actually work in the real world",
-      "fetched_at": "2026-10-19T17:54:55.541316+00:00"
-    },
-    "f9d34b0722ed59b7": {
-      "title": "Romans may have set fire to Celtic town during conquest to 'humiliate' the enemy, archaeologists find",
-      "fetched_at": "2026-10-19T17:54:56.108837+00:00"
-    },
-    "c5f2772e4340dd39": {
-      "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
-      "fetched_at": "2026-10-19T17:54:56.700106+00:00"
-    },
-    "4e16ef432ed2d18d": {
-      "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
-      "fetched_at": "2026-10-19T17:54:57.271350+00:00"
-    },
-    "c63cb500d26d60bb": {
-      "title": "Something strange is happening beneath a volcano near 2 million people",
-      "fetched_at": "2026-10-19T17:54:57.858433+00:00"
-    },
-    "97db3862460357dc": {
-      "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
-      "fetched_at": "2026-10-19T17:54:58.456258+00:00"
-    },
-    "bfb527d7a2718d59": {
-      "title": "A simple touch can bring dying corals back to life in just 7 weeks",
-      "fetched_at": "2026-10-19T17:54:59.023900+00:00"
-    },
-    "8aa72ba07627a066": {
-      "title": "Astronomers discover a ghostly green star unlike any known before",
-      "fetched_at": "2026-10-19T17:54:59.663710+00:00"
-    },
-    "d2e7755c5737c963": {
-      "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
-      "fetched_at": "2026-10-19T17:55:00.309075+00:00"
-    },
-    "4f8bc49d8ac10651": {
-      "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
-      "fetched_at": "2026-10-19T17:55:00.877004+00:00"
-    },
-    "deb110f7aace2e47": {
-      "title": "Fatty liver disease is actually five different conditions, scientists discover",
-      "fetched_at": "2026-10-19T17:55:01.458103+00:00"
-    },
-    "940adae6d3c398b0": {
-      "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
-      "fetched_at": "2026-10-19T17:55:02.021286+00:00"
-    },
     "81a129dd0931ecb8": {
       "title": "The fossil fuel comeback is here",
       "fetched_at": "2026-10-19T21:49:53.025414+00:00"
@@ -2999,7 +2859,115 @@
     "109e655234fb7f31": {
       "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
       "fetched_at": "2026-10-27T16:58:52.075202+00:00"
+    },
+    "b9a2170b68900f10": {
+      "title": "The doorman fallacy in the age of AI",
+      "fetched_at": "2026-10-27T21:33:09.236058+00:00"
+    },
+    "7222f9a8107bb79f": {
+      "title": "Head of ADL claims they are \"cleaning up\" AI and Wikipedia",
+      "fetched_at": "2026-10-27T21:33:09.856293+00:00"
+    },
+    "0a0120fa3512cb3f": {
+      "title": "Meta launches plan for $95B stock offering to fund AI expansion",
+      "fetched_at": "2026-10-27T21:33:10.477337+00:00"
+    },
+    "d0c339652c2a47b5": {
+      "title": "I put an AI in the Garden of Eden. Then I introduced the serpent",
+      "fetched_at": "2026-10-27T21:33:11.142239+00:00"
+    },
+    "e7ba24f55fb06a88": {
+      "title": "In China, the AI bubble has burst",
+      "fetched_at": "2026-10-27T21:33:11.806275+00:00"
+    },
+    "30fd70aa1181f820": {
+      "title": "The US AI Labs, Part 2: The Suppliers Are Financing Their Own Customers",
+      "fetched_at": "2026-10-27T21:33:12.434860+00:00"
+    },
+    "ec4dbf7048c984ff": {
+      "title": "Ask HN: How will HN transition to allowing AI writing when society accepts it?",
+      "fetched_at": "2026-10-27T21:33:13.053822+00:00"
+    },
+    "77be70e3bf472814": {
+      "title": "Can maths survive AI? Fields medallist Terence Tao calls for a 'Maths 2.0' world",
+      "fetched_at": "2026-10-27T21:33:13.683703+00:00"
+    },
+    "83d201882e0e83ae": {
+      "title": "AI-Generated Motion Graphics and the Prompts Behind Them?",
+      "fetched_at": "2026-10-27T21:33:14.319767+00:00"
+    },
+    "9eeec01fb3af14c3": {
+      "title": "Trump isn't happy people are ignoring his new name for AI",
+      "fetched_at": "2026-10-27T21:33:15.002449+00:00"
+    },
+    "5e3bda083045da9b": {
+      "title": "MathMixup: Boosting LLM Mathematical Reasoning via Curriculum and Decomposition",
+      "fetched_at": "2026-10-27T21:33:15.624379+00:00"
+    },
+    "25afd89ff1d19fa7": {
+      "title": "Anthropic Ships the #1 LLM in the World with Katelyn Lesse and Angela Jiang [video]",
+      "fetched_at": "2026-10-27T21:33:16.249524+00:00"
+    },
+    "18300e0a6486186f": {
+      "title": "Vibe coded a point-and-click game to learn about the Drupal AI Ecosystem",
+      "fetched_at": "2026-10-27T21:33:16.890624+00:00"
+    },
+    "615d988ce4bc6700": {
+      "title": "Anthropic IPO might kick off tech reset if the AI stock underperforms",
+      "fetched_at": "2026-10-27T21:33:17.521216+00:00"
+    },
+    "6e575c259ec2ef89": {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "fetched_at": "2026-10-27T21:33:18.134911+00:00"
+    },
+    "f8141a285c8c3f20": {
+      "title": "Meta plans $95B stock offering to bankroll AI expansion",
+      "fetched_at": "2026-10-27T21:33:18.758858+00:00"
+    },
+    "9c9251dec15c4c33": {
+      "title": "Show HN: Autosomal.ai Free AI-Based Age, Gender, and Ethnicity Guesser",
+      "fetched_at": "2026-10-27T21:33:19.462319+00:00"
+    },
+    "60ceac5befc04a74": {
+      "title": "AI refutes 30-year-old mathematical assumption in computer science",
+      "fetched_at": "2026-10-27T21:33:20.088033+00:00"
+    },
+    "0d09318640c1545f": {
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "fetched_at": "2026-10-27T21:33:20.708684+00:00"
+    },
+    "b9c3a31ba6566eee": {
+      "title": "Working with AI: Lessons from software's head start",
+      "fetched_at": "2026-10-27T21:33:21.336312+00:00"
+    },
+    "63b3a77230ab3796": {
+      "title": "《孤獨的美食家》：一個人吃飯，為什麼能紅遍全亞洲？",
+      "fetched_at": "2026-10-27T21:33:24.360303+00:00"
+    },
+    "dfb0b10bec8faf55": {
+      "title": "Is AI making you lazier?",
+      "fetched_at": "2026-10-27T21:33:31.424033+00:00"
+    },
+    "801930a01e7d0bd8": {
+      "title": "Rare tiger behaviors captured on camera show 'we really know nothing about them'",
+      "fetched_at": "2026-10-27T21:33:32.038882+00:00"
+    },
+    "48fa62648047bb48": {
+      "title": "30,000-year-old bone found in French cave reveals vast genetic connections between people of Eastern and Western Europe during the Stone Age",
+      "fetched_at": "2026-10-27T21:33:32.639338+00:00"
+    },
+    "a4a475240c688f06": {
+      "title": "Denisovan Fossils Identified",
+      "fetched_at": "2026-10-27T21:33:33.266719+00:00"
+    },
+    "900843c5dc05aa7f": {
+      "title": "Hepatitis B could surge, infecting millions more in childhood, under proposed CDC guidance",
+      "fetched_at": "2026-10-27T21:33:33.879161+00:00"
+    },
+    "961b2fcdec4e6c6d": {
+      "title": "Rare Roman Glass Re-created",
+      "fetched_at": "2026-10-27T21:33:34.500986+00:00"
     }
   },
-  "last_updated": "2026-10-27T16:58:52.139059+00:00"
+  "last_updated": "2026-10-27T21:33:34.555365+00:00"
 }
