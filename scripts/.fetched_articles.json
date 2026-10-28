@@ -1,105 +1,5 @@
 {
   "articles": {
-    "e3808d8055d41167": {
-      "title": "SpaceX’s AI business is beating expectations",
-      "fetched_at": "2026-10-20T20:58:22.109166+00:00"
-    },
-    "9f2b7b369b272e50": {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "fetched_at": "2026-10-20T20:58:22.724142+00:00"
-    },
-    "ecd7086100b67c2b": {
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "fetched_at": "2026-10-20T20:58:23.340822+00:00"
-    },
-    "7a8811b87bf5fadb": {
-      "title": "ChatGPT now lets you lock your chats",
-      "fetched_at": "2026-10-20T20:58:23.971236+00:00"
-    },
-    "3a40cc57cd4e47d0": {
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "fetched_at": "2026-10-20T20:58:24.592497+00:00"
-    },
-    "50bb83136d4568f1": {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "fetched_at": "2026-10-20T20:58:25.206552+00:00"
-    },
-    "141b7ff0a0af7667": {
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "fetched_at": "2026-10-20T20:58:25.824809+00:00"
-    },
-    "11079de8f4ceb598": {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "fetched_at": "2026-10-20T20:58:26.444751+00:00"
-    },
-    "c07071381dd2580f": {
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-      "fetched_at": "2026-10-20T20:58:27.074538+00:00"
-    },
-    "e8b03106bfd3dab8": {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "fetched_at": "2026-10-20T20:58:27.788641+00:00"
-    },
-    "77b70c8ef719db06": {
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "fetched_at": "2026-10-20T20:58:28.412094+00:00"
-    },
-    "7e170857eeb1d646": {
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "fetched_at": "2026-10-20T20:58:29.019291+00:00"
-    },
-    "24ae669dc15c20e8": {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "fetched_at": "2026-10-20T20:58:29.647372+00:00"
-    },
-    "b4512910f80e33ec": {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "fetched_at": "2026-10-20T20:58:30.261178+00:00"
-    },
-    "4e58caa2ab391ed1": {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "fetched_at": "2026-10-20T20:58:30.934882+00:00"
-    },
-    "b3e44ec312c54cef": {
-      "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
-      "fetched_at": "2026-10-20T20:58:31.558694+00:00"
-    },
-    "5e5959fd7bf6c962": {
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "fetched_at": "2026-10-20T20:58:36.363375+00:00"
-    },
-    "d448cacee36826b1": {
-      "title": "Devastating 2025 Myanmar earthquake sheds light on how the 'Big One' could play out in California",
-      "fetched_at": "2026-10-20T20:58:36.997262+00:00"
-    },
-    "234f568154f1f2dd": {
-      "title": "Project Discovery (Security Suite)",
-      "fetched_at": "2026-10-20T20:58:37.619217+00:00"
-    },
-    "c51d7fc21d53216b": {
-      "title": "Elite Infant’s Burial Discovered at Moche Temple",
-      "fetched_at": "2026-10-20T20:58:38.237919+00:00"
-    },
-    "b10d69b3a964cbd7": {
-      "title": "Faience Workshop Found in Ancient Nubia",
-      "fetched_at": "2026-10-20T20:58:38.864674+00:00"
-    },
-    "8670ad8ae790b0d5": {
-      "title": "Cultural Connection Identified Between Prehistoric Sites in Alaska and Russia",
-      "fetched_at": "2026-10-20T20:58:39.477517+00:00"
-    },
-    "4b67adbc6ee8d8d6": {
-      "title": "The James Webb telescope is watching one of the earliest supernovas in the universe unfold",
-      "fetched_at": "2026-10-20T20:58:40.100866+00:00"
-    },
-    "0668d1b417ad571a": {
-      "title": "Ancient DNA discovery adjusts timeline of first North American humans: new study",
-      "fetched_at": "2026-10-20T20:58:40.723723+00:00"
-    },
-    "15f2b1fc604915c6": {
-      "title": "AI Discovery Index",
-      "fetched_at": "2026-10-20T20:58:41.350174+00:00"
-    },
     "f0a4c655a3126a5c": {
       "title": "Learning to live with Waymos",
       "fetched_at": "2026-10-21T02:22:56.334511+00:00"
@@ -2827,7 +2727,107 @@
     "783b4dcd9b08323c": {
       "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
       "fetched_at": "2026-10-28T17:35:14.197292+00:00"
+    },
+    "b27b80d82df5c9bd": {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "fetched_at": "2026-10-28T21:58:55.052557+00:00"
+    },
+    "e3bcd8e116893d3a": {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "fetched_at": "2026-10-28T21:58:55.683025+00:00"
+    },
+    "41c3107ec5f448e5": {
+      "title": "Ask HN: We tax labour, why not tax AI?",
+      "fetched_at": "2026-10-28T21:58:56.309204+00:00"
+    },
+    "747ef9c885fd064e": {
+      "title": "AI agent skills for better second-hand decisions",
+      "fetched_at": "2026-10-28T21:58:56.941593+00:00"
+    },
+    "f093ac907465864c": {
+      "title": "Run Claude and GPT on Exe.dev Without API Keys",
+      "fetched_at": "2026-10-28T21:58:57.565680+00:00"
+    },
+    "487206bed8e1c2ac": {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "fetched_at": "2026-10-28T21:58:58.264661+00:00"
+    },
+    "418696d91a893bf9": {
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "fetched_at": "2026-10-28T21:58:58.890156+00:00"
+    },
+    "77bdb249ba7d73ce": {
+      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+      "fetched_at": "2026-10-28T21:58:59.519166+00:00"
+    },
+    "107ebb08d2514d64": {
+      "title": "AI training platform Outlier illegally surveils European platform workers",
+      "fetched_at": "2026-10-28T21:59:00.145201+00:00"
+    },
+    "bc6a4c5047f6b9bd": {
+      "title": "The cultish behavior of top AI figures (2024)",
+      "fetched_at": "2026-10-28T21:59:00.759508+00:00"
+    },
+    "6c4b9f9e05c13256": {
+      "title": "How to Outrun the AI Hackers",
+      "fetched_at": "2026-10-28T21:59:01.378540+00:00"
+    },
+    "161556f605bbf812": {
+      "title": "When AI Does the Work, What Will Humans Do?",
+      "fetched_at": "2026-10-28T21:59:02.008785+00:00"
+    },
+    "7d288e2195112669": {
+      "title": "AI Startups Are Getting an Inch and Taking a Mile",
+      "fetched_at": "2026-10-28T21:59:02.627070+00:00"
+    },
+    "1229289757d3e024": {
+      "title": "Jacquard Machine",
+      "fetched_at": "2026-10-28T21:59:03.247197+00:00"
+    },
+    "ed914488e8c437b9": {
+      "title": "Getting good at AI takes time and practice",
+      "fetched_at": "2026-10-28T21:59:03.907590+00:00"
+    },
+    "1b6fe79a973002ed": {
+      "title": "Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp",
+      "fetched_at": "2026-10-28T21:59:04.599824+00:00"
+    },
+    "3239746dfcfe8a2c": {
+      "title": "AI for Science expands to foundations and institutions",
+      "fetched_at": "2026-10-28T21:59:05.224538+00:00"
+    },
+    "6561f71b55bc3690": {
+      "title": "Show HN: Race Radar – HYROX ticket alerts, run day to day by an AI CEO",
+      "fetched_at": "2026-10-28T21:59:05.859403+00:00"
+    },
+    "9eab847cea509cff": {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "fetched_at": "2026-10-28T21:59:06.476498+00:00"
+    },
+    "c229ba73f52ef275": {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "fetched_at": "2026-10-28T21:59:07.102381+00:00"
+    },
+    "b1e026e3f61a014b": {
+      "title": "Bronze Age sword discovered in an Italian lake is still sharp after 3,300 years",
+      "fetched_at": "2026-10-28T21:59:15.398507+00:00"
+    },
+    "17cea20a722dada6": {
+      "title": "First clear image of China's mysterious 'divine dragon' space plane revealed in US government report",
+      "fetched_at": "2026-10-28T21:59:16.027087+00:00"
+    },
+    "7fb68d31295a115f": {
+      "title": "5,000-Year-Old Burials Uncovered in Oman",
+      "fetched_at": "2026-10-28T21:59:16.652942+00:00"
+    },
+    "f023c1ceec02fe96": {
+      "title": "Stenciled Rock Art Found in South Africa",
+      "fetched_at": "2026-10-28T21:59:17.350968+00:00"
+    },
+    "44263ad83a341ce3": {
+      "title": "Scientists finally uncover why statins can cause muscle pain",
+      "fetched_at": "2026-10-28T21:59:17.981803+00:00"
     }
   },
-  "last_updated": "2026-10-28T17:35:14.273504+00:00"
+  "last_updated": "2026-10-28T21:59:18.070069+00:00"
 }
