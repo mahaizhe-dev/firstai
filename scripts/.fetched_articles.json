@@ -1,105 +1,5 @@
 {
   "articles": {
-    "26280b5c040b026b": {
-      "title": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
-      "fetched_at": "2026-10-21T20:59:01.759089+00:00"
-    },
-    "5537853992878adb": {
-      "title": "AI Is Anti-Punk",
-      "fetched_at": "2026-10-21T20:59:02.381184+00:00"
-    },
-    "dbe3bb96bb92d050": {
-      "title": "France's OVHcloud plans frontier AI models to become Europe's second LLM player",
-      "fetched_at": "2026-10-21T20:59:03.005239+00:00"
-    },
-    "815dfc90d52365b8": {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "fetched_at": "2026-10-21T20:59:03.624733+00:00"
-    },
-    "1d20bc2cca30548f": {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "fetched_at": "2026-10-21T20:59:04.250239+00:00"
-    },
-    "06b27b1af544a76d": {
-      "title": "Proof – Making AI Easier",
-      "fetched_at": "2026-10-21T20:59:04.868003+00:00"
-    },
-    "502bd38f71eba6be": {
-      "title": "Indiana Jones and the Fate of Atlantis (2026) – Fan Film Live-Action AI Concept [video]",
-      "fetched_at": "2026-10-21T20:59:05.495941+00:00"
-    },
-    "1805bd0d82421ec2": {
-      "title": "Show HN: I made a free Mac app to annotate screen for AI agents",
-      "fetched_at": "2026-10-21T20:59:06.122389+00:00"
-    },
-    "1a6fe5e86393a032": {
-      "title": "Who's Winning AI, a live scoreboard for the AI race",
-      "fetched_at": "2026-10-21T20:59:06.743138+00:00"
-    },
-    "1a7e587d2d692f1d": {
-      "title": "AI Early adopters share their views on AI status",
-      "fetched_at": "2026-10-21T20:59:07.360499+00:00"
-    },
-    "85a5a7339ee37433": {
-      "title": "AI Portability in 2026: Breaking Up Is Hard to Do",
-      "fetched_at": "2026-10-21T20:59:07.985396+00:00"
-    },
-    "4481df7ed5c425f5": {
-      "title": "The AI-Hacking Apocalypse Began Last Night",
-      "fetched_at": "2026-10-21T20:59:08.632762+00:00"
-    },
-    "fa6c471451769378": {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "fetched_at": "2026-10-21T20:59:09.334035+00:00"
-    },
-    "b01d49873f376779": {
-      "title": "Ask HN: How do you handle AI security for automated vulnerability management?",
-      "fetched_at": "2026-10-21T20:59:09.964230+00:00"
-    },
-    "f83f9d0833e8b848": {
-      "title": "Ask HN: How will programming language design change as more code comes from AI?",
-      "fetched_at": "2026-10-21T20:59:10.582657+00:00"
-    },
-    "34da2f30a5f107da": {
-      "title": "LLM-D 1.0 Takes Open-Source Kubernetes AI Inference into Production",
-      "fetched_at": "2026-10-21T20:59:11.203113+00:00"
-    },
-    "c03778e696649a62": {
-      "title": "Walmart is inviting AI agents to shop for you",
-      "fetched_at": "2026-10-21T20:59:11.820264+00:00"
-    },
-    "217aa63955057ab6": {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "fetched_at": "2026-10-21T20:59:12.456278+00:00"
-    },
-    "17c34ac7c93d139c": {
-      "title": "The $15B 'viral' AI startup changing how American doctors treat patients",
-      "fetched_at": "2026-10-21T20:59:13.073268+00:00"
-    },
-    "ec4be121d7e57197": {
-      "title": "Ask HN: What AI tools help me understand a MR?",
-      "fetched_at": "2026-10-21T20:59:13.687608+00:00"
-    },
-    "f79930b888ca2b70": {
-      "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
-      "fetched_at": "2026-10-21T20:59:16.336449+00:00"
-    },
-    "1f26be61e52d49f7": {
-      "title": "Mosaic Flooring Uncovered at Kultepe-Kanesh in Central Anatolia",
-      "fetched_at": "2026-10-21T20:59:18.464969+00:00"
-    },
-    "4b8ae472b555450c": {
-      "title": "Search for Amelia Earhart’s Plane Continues",
-      "fetched_at": "2026-10-21T20:59:19.114011+00:00"
-    },
-    "5b796b8bd901cd00": {
-      "title": "Drone Survey Identifies Rock Art Sites in Australia",
-      "fetched_at": "2026-10-21T20:59:19.781654+00:00"
-    },
-    "ba46b7231c8e50ba": {
-      "title": "Uranium from World War II reveals how close the Nazis were to an atomic bomb",
-      "fetched_at": "2026-10-21T20:59:20.401170+00:00"
-    },
     "5057204a5d4e6570": {
       "title": "LLM Agents Play Pokemon Showdown",
       "fetched_at": "2026-10-22T02:18:20.981536+00:00"
@@ -2995,7 +2895,123 @@
     "1e6686d3953b35a4": {
       "title": "A fighter pilot had unexplained headaches for over a year. The cause was hiding in plain sight.",
       "fetched_at": "2026-10-29T17:45:13.002582+00:00"
+    },
+    "5fc1963311f7d6db": {
+      "title": "Nanbeige4.3-33B – Flagship teacher LLM",
+      "fetched_at": "2026-10-29T22:10:19.400027+00:00"
+    },
+    "8a6adf728ece3686": {
+      "title": "Building an AI-native engineering org",
+      "fetched_at": "2026-10-29T22:10:19.967026+00:00"
+    },
+    "0514ed38741cd270": {
+      "title": "\"Human Emacs\": Proposal for an Emacs Fork Without LLM Contributions",
+      "fetched_at": "2026-10-29T22:10:20.526677+00:00"
+    },
+    "8cf12271dc877604": {
+      "title": "Why Is AI Bad at Writing?",
+      "fetched_at": "2026-10-29T22:10:21.091774+00:00"
+    },
+    "622063faaccb7ed1": {
+      "title": "Reddit will force users to log in as AI is killing search traffic",
+      "fetched_at": "2026-10-29T22:10:21.650540+00:00"
+    },
+    "ef852bdd11095074": {
+      "title": "Organizing a kidnap using Apple's personal knowledge graph (and an LLM)",
+      "fetched_at": "2026-10-29T22:10:22.216428+00:00"
+    },
+    "161b500421e71ac5": {
+      "title": "AI often makes writing worse. (Even if it makes it better)",
+      "fetched_at": "2026-10-29T22:10:22.771926+00:00"
+    },
+    "215a0399080d0f36": {
+      "title": "Proton goes all in on using AI",
+      "fetched_at": "2026-10-29T22:10:23.334678+00:00"
+    },
+    "eccf0364ab22a784": {
+      "title": "AI Writing Has Entered Its Post-Shame Era",
+      "fetched_at": "2026-10-29T22:10:23.898824+00:00"
+    },
+    "e1a40334fefe5863": {
+      "title": "LessWrong Sans AI",
+      "fetched_at": "2026-10-29T22:10:24.461699+00:00"
+    },
+    "a13cee718df08286": {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "fetched_at": "2026-10-29T22:10:25.019240+00:00"
+    },
+    "cdbe92798e5c1f5a": {
+      "title": "Cross-Model LLM Pricing API",
+      "fetched_at": "2026-10-29T22:10:25.582196+00:00"
+    },
+    "356ce6d5daae8347": {
+      "title": "The Wayback Machine Labs",
+      "fetched_at": "2026-10-29T22:10:26.138993+00:00"
+    },
+    "f15a582c7c11e120": {
+      "title": "Show HN: AI Knows Us – see who ChatGPT and Perplexity recommend instead of you",
+      "fetched_at": "2026-10-29T22:10:26.698183+00:00"
+    },
+    "bccdfc79028b1be5": {
+      "title": "Apple bullied flash memory suppliers, and why AI datacenters changed the game",
+      "fetched_at": "2026-10-29T22:10:27.261216+00:00"
+    },
+    "51a2388f486d4144": {
+      "title": "AI microdrama edit of Neighbours worries actors and crew",
+      "fetched_at": "2026-10-29T22:10:27.905975+00:00"
+    },
+    "68b9b6b6dcfab47d": {
+      "title": "The AI bubble is about to pop [video]",
+      "fetched_at": "2026-10-29T22:10:28.467628+00:00"
+    },
+    "f8a47099d552b127": {
+      "title": "Comments on any web page that your AI agent can read and reply to",
+      "fetched_at": "2026-10-29T22:10:29.037011+00:00"
+    },
+    "f3f65267b1c6430a": {
+      "title": "Cross-species representation learning aligns mouse and human neural dynamics",
+      "fetched_at": "2026-10-29T22:10:29.790877+00:00"
+    },
+    "938dca8e1653324b": {
+      "title": "Squishling 0.5.0 – hybrid LLM/Ruby code classes",
+      "fetched_at": "2026-10-29T22:10:30.380074+00:00"
+    },
+    "66e38b0d08d224aa": {
+      "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
+      "fetched_at": "2026-10-29T22:10:33.586088+00:00"
+    },
+    "707de574e01095b3": {
+      "title": "Bright object beyond Pluto may be the solar system's sixth dwarf planet",
+      "fetched_at": "2026-10-29T22:10:35.827056+00:00"
+    },
+    "387fd97eebae34bc": {
+      "title": "'This is so crazy!' Virginia college student looking for shark teeth finds rare Native American spearpoint",
+      "fetched_at": "2026-10-29T22:10:36.385033+00:00"
+    },
+    "f705c1c67b9bee92": {
+      "title": "Decapitated man buried near fort in Roman-era Scotland gets a new virtual face",
+      "fetched_at": "2026-10-29T22:10:36.941392+00:00"
+    },
+    "a526c5313e898ddc": {
+      "title": "Child’s Sarcophagus Discovered in Romania",
+      "fetched_at": "2026-10-29T22:10:37.508543+00:00"
+    },
+    "d42007d6af6636fd": {
+      "title": "Texas Rock Shelter Yields More Than 3,000 Artifacts",
+      "fetched_at": "2026-10-29T22:10:38.071237+00:00"
+    },
+    "e0f56c6c901333d1": {
+      "title": "A Typography Geek Pointed Out Something About the Space Shuttle Discovery",
+      "fetched_at": "2026-10-29T22:10:38.630984+00:00"
+    },
+    "f0c4ddebcd7b7a48": {
+      "title": "'The Russians were the problem in the end': Sailor Matt Rutherford on being intercepted by the FSB while attempting to circumnavigate the Arctic Ocean solo",
+      "fetched_at": "2026-10-29T22:10:39.190975+00:00"
+    },
+    "c5c5e4426a73d7b4": {
+      "title": "Lightest known pair of neutron stars proves Einstein right yet again",
+      "fetched_at": "2026-10-29T22:10:39.749375+00:00"
     }
   },
-  "last_updated": "2026-10-29T17:45:13.088180+00:00"
+  "last_updated": "2026-10-29T22:10:39.793403+00:00"
 }
