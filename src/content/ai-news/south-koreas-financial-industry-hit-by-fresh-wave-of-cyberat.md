@@ -1,0 +1,10 @@
+---
+title: 'South Korea’s financial industry hit by fresh wave of cyberattacks'
+description: 'South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.'
+pubDate: 2026-10-28T15:41:18
+source: 'TechCrunch AI'
+sourceUrl: 'https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/'
+tags: []
+---
+
+South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.

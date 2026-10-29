@@ -1,69 +1,5 @@
 {
   "articles": {
-    "215331b4aa7dd28d": {
-      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
-      "fetched_at": "2026-10-21T10:46:13.053311+00:00"
-    },
-    "4c4148a3dd7060a7": {
-      "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
-      "fetched_at": "2026-10-21T10:46:13.665257+00:00"
-    },
-    "5d7ae8296ce6b2a2": {
-      "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
-      "fetched_at": "2026-10-21T10:46:14.281550+00:00"
-    },
-    "9f4c4dd0959911ea": {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "fetched_at": "2026-10-21T10:46:14.913313+00:00"
-    },
-    "b4de5ef87c7d0bba": {
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "fetched_at": "2026-10-21T10:46:15.534959+00:00"
-    },
-    "bf94bc1f05173acb": {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "fetched_at": "2026-10-21T10:46:16.149771+00:00"
-    },
-    "22990dd0fb7d9ee8": {
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "fetched_at": "2026-10-21T10:46:16.149851+00:00"
-    },
-    "74aea2566d70bf79": {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-      "fetched_at": "2026-10-21T10:46:16.767886+00:00"
-    },
-    "a2e18994a55f9eef": {
-      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-      "fetched_at": "2026-10-21T10:46:17.372850+00:00"
-    },
-    "bbc4dee0bd6bdb0a": {
-      "title": "法國暴動：各界對誰該負責與該汲取的教訓陷入分歧",
-      "fetched_at": "2026-10-21T10:46:20.519935+00:00"
-    },
-    "abe57b8a112a0612": {
-      "title": "康奈爾大學 Jane Doe 稱，校長質疑她遭多人輪姦的指控",
-      "fetched_at": "2026-10-21T10:46:21.144977+00:00"
-    },
-    "8ac57e9ae632827f": {
-      "title": "法国多地爆发骚乱，现在去巴黎旅游安全吗？",
-      "fetched_at": "2026-10-21T10:46:21.773193+00:00"
-    },
-    "41bf564e500e3d31": {
-      "title": "特朗普前律师的5000万美元薪酬与一位亿万富翁的特赦",
-      "fetched_at": "2026-10-21T10:46:22.412504+00:00"
-    },
-    "7aed4e0962559872": {
-      "title": "泽连斯基为何对特朗普展开回击？",
-      "fetched_at": "2026-10-21T10:46:23.035745+00:00"
-    },
-    "3e925040adbf8753": {
-      "title": "石油大省多数选民拒绝脱离加拿大，卡尼取得关键胜利",
-      "fetched_at": "2026-10-21T10:46:23.660339+00:00"
-    },
-    "1e6686d3953b35a4": {
-      "title": "A fighter pilot had unexplained headaches for over a year. The cause was hiding in plain sight.",
-      "fetched_at": "2026-10-21T10:46:28.867728+00:00"
-    },
     "12d487c06af1a714": {
       "title": "Conversational Gemini navigation comes to Apple CarPlay",
       "fetched_at": "2026-10-21T16:15:57.145888+00:00"
@@ -2851,7 +2787,139 @@
     "4b67adbc6ee8d8d6": {
       "title": "The James Webb telescope is watching one of the earliest supernovas in the universe unfold",
       "fetched_at": "2026-10-29T03:19:54.398563+00:00"
+    },
+    "206f7c427abaefcc": {
+      "title": "AI has come for Arizona’s water",
+      "fetched_at": "2026-10-29T11:54:51.087646+00:00"
+    },
+    "327910df50229536": {
+      "title": "新玩意 254｜少数派的编辑们最近买了啥？",
+      "fetched_at": "2026-10-29T11:54:51.705493+00:00"
+    },
+    "10bcc46b4064d287": {
+      "title": "如何成为不吃压力的「大心脏」？",
+      "fetched_at": "2026-10-29T11:54:52.336213+00:00"
+    },
+    "ac5ad69970655937": {
+      "title": "让 Agent 读懂你的身体：数据处理篇",
+      "fetched_at": "2026-10-29T11:54:53.302688+00:00"
+    },
+    "e4b7e6e8b8664369": {
+      "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+      "fetched_at": "2026-10-29T11:54:53.946840+00:00"
+    },
+    "01ed39226bc488d2": {
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "fetched_at": "2026-10-29T11:54:53.946947+00:00"
+    },
+    "355b6e391fcb0982": {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "fetched_at": "2026-10-29T11:54:54.581720+00:00"
+    },
+    "4f94822c0f951079": {
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "fetched_at": "2026-10-29T11:54:55.200579+00:00"
+    },
+    "55914d1ac25e500b": {
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "fetched_at": "2026-10-29T11:54:55.836735+00:00"
+    },
+    "ef0ae283f13fe981": {
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "fetched_at": "2026-10-29T11:54:56.467842+00:00"
+    },
+    "bb2bb4c90a8becee": {
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "fetched_at": "2026-10-29T11:54:57.075576+00:00"
+    },
+    "2e5158cfb919cebf": {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "fetched_at": "2026-10-29T11:54:57.697408+00:00"
+    },
+    "e2e140a63d287e11": {
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "fetched_at": "2026-10-29T11:54:58.355627+00:00"
+    },
+    "167284a1da8fd07b": {
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "fetched_at": "2026-10-29T11:54:59.059034+00:00"
+    },
+    "694ca7a353e04d72": {
+      "title": "Voters in Texas agree: They hate data centers",
+      "fetched_at": "2026-10-29T11:54:59.687998+00:00"
+    },
+    "257cd659b6e37af4": {
+      "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
+      "fetched_at": "2026-10-29T11:55:02.961798+00:00"
+    },
+    "262ecc3a174cdf09": {
+      "title": "以色列大選結束，內塔尼亞胡能否執政為何依然懸而未決？",
+      "fetched_at": "2026-10-29T11:55:03.580961+00:00"
+    },
+    "555ee7fda738d53c": {
+      "title": "博索纳罗败选后逃往美国，宣称自己为巴西合法领导人",
+      "fetched_at": "2026-10-29T11:55:04.253556+00:00"
+    },
+    "32a68e0fc399f985": {
+      "title": "奥巴马特朗普“口水战”中的芝乐坊",
+      "fetched_at": "2026-10-29T11:55:04.880705+00:00"
+    },
+    "3a820075781cbff2": {
+      "title": "人员动荡、派系对立：中期选举前的白宫阴霾密布",
+      "fetched_at": "2026-10-29T11:55:05.503359+00:00"
+    },
+    "24856420ae4f1150": {
+      "title": "一场“无人获胜”的选举：以色列大选的四个初步结论",
+      "fetched_at": "2026-10-29T11:55:06.143459+00:00"
+    },
+    "bed327b6a2ae5f4a": {
+      "title": "翻看英國統計 為何從未吸煙的人也開始對電子煙上癮？",
+      "fetched_at": "2026-10-29T11:55:06.761244+00:00"
+    },
+    "7707055ce39422b9": {
+      "title": "在實體商店購物很令我心煩——為什麼我只在網上購物",
+      "fetched_at": "2026-10-29T11:55:07.386967+00:00"
+    },
+    "41593ee980bd1b1c": {
+      "title": "Python SDK for historical and real-time stock data",
+      "fetched_at": "2026-10-29T11:55:14.324142+00:00"
+    },
+    "9bd39fe8457c78aa": {
+      "title": "New simulation shows the first 2 billion years of the universe's history play out in stunning detail",
+      "fetched_at": "2026-10-29T11:55:14.954035+00:00"
+    },
+    "af5bfccb46bb4a5f": {
+      "title": "Study reveals new clues to why colorectal cancer in young people is so deadly",
+      "fetched_at": "2026-10-29T11:55:15.581310+00:00"
+    },
+    "d12d2560c87251da": {
+      "title": "Your blood pressure could be dangerous even when your numbers look normal",
+      "fetched_at": "2026-10-29T11:55:16.199479+00:00"
+    },
+    "48d47514d744c5e6": {
+      "title": "Scientists just broke a textbook rule of physics",
+      "fetched_at": "2026-10-29T11:55:16.831433+00:00"
+    },
+    "f25d2d3e5a12079c": {
+      "title": "Meteors don't just burn up. What really happens is far more violent",
+      "fetched_at": "2026-10-29T11:55:17.469602+00:00"
+    },
+    "a547145b4f3be751": {
+      "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+      "fetched_at": "2026-10-29T11:55:18.095021+00:00"
+    },
+    "cf363c1ca23d3651": {
+      "title": "Case of mysterious medieval skeleton buried in Roman-era sarcophagus at Westminster Abbey finally solved",
+      "fetched_at": "2026-10-29T11:55:18.762810+00:00"
+    },
+    "5ba11a9dc1428085": {
+      "title": "Could 'body clocks' play a role in depression? Study proposes a new 'circadian' subtype",
+      "fetched_at": "2026-10-29T11:55:19.473873+00:00"
+    },
+    "ae4cc33bac845851": {
+      "title": "Will Tesla's 'flying car' ever hit the market, or is it a load of compressed air?",
+      "fetched_at": "2026-10-29T11:55:20.106483+00:00"
     }
   },
-  "last_updated": "2026-10-29T03:19:54.504884+00:00"
+  "last_updated": "2026-10-29T11:55:20.177162+00:00"
 }
