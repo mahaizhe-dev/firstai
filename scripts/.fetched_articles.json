@@ -1,113 +1,5 @@
 {
   "articles": {
-    "f0a4c655a3126a5c": {
-      "title": "Learning to live with Waymos",
-      "fetched_at": "2026-10-21T02:22:56.334511+00:00"
-    },
-    "0245be349c14ce4c": {
-      "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
-      "fetched_at": "2026-10-21T02:22:56.946754+00:00"
-    },
-    "50ae64b440b356d0": {
-      "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
-      "fetched_at": "2026-10-21T02:22:57.552159+00:00"
-    },
-    "a028d90c88255649": {
-      "title": "Dataville Takes the Guesswork Out of Data for AI",
-      "fetched_at": "2026-10-21T02:22:58.169028+00:00"
-    },
-    "2b5945ca28ff012f": {
-      "title": "Show HN: SchemaWright, learning database design in a gamified way",
-      "fetched_at": "2026-10-21T02:22:58.867611+00:00"
-    },
-    "f4aff12ff03e54d0": {
-      "title": "Secret trigger words could make AI-powered robots dangerous",
-      "fetched_at": "2026-10-21T02:22:59.463579+00:00"
-    },
-    "20535e90e7c904fc": {
-      "title": "SpaceX revenue soars 161% as AI business grows",
-      "fetched_at": "2026-10-21T02:23:00.110892+00:00"
-    },
-    "df923feb7bc867fb": {
-      "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble",
-      "fetched_at": "2026-10-21T02:23:00.725913+00:00"
-    },
-    "8a47ad866136e373": {
-      "title": "Writing Code vs. Shipping Code: Productivity Effects Across AI Tool Generations [pdf]",
-      "fetched_at": "2026-10-21T02:23:01.336918+00:00"
-    },
-    "3b0282d65403441e": {
-      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
-      "fetched_at": "2026-10-21T02:23:01.952797+00:00"
-    },
-    "134825c84e9016a1": {
-      "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
-      "fetched_at": "2026-10-21T02:23:02.583181+00:00"
-    },
-    "46545ecb8d01470a": {
-      "title": "AGI-S – an AI platform I'm building",
-      "fetched_at": "2026-10-21T02:23:03.216040+00:00"
-    },
-    "b07226e215d9eb7d": {
-      "title": "When AI agents take matters into their own hands",
-      "fetched_at": "2026-10-21T02:23:03.812722+00:00"
-    },
-    "0967d71e0b418939": {
-      "title": "Learning Without Backpopagation",
-      "fetched_at": "2026-10-21T02:23:04.413965+00:00"
-    },
-    "1070c667f3af412a": {
-      "title": "Show HN: Pace or Pause – Explore where people stand on AI development",
-      "fetched_at": "2026-10-21T02:23:05.081732+00:00"
-    },
-    "446348e78765c6c2": {
-      "title": "Revisiting Open Science in the Age of AI",
-      "fetched_at": "2026-10-21T02:23:05.700356+00:00"
-    },
-    "9cbd1790f97178eb": {
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "fetched_at": "2026-10-21T02:23:06.318102+00:00"
-    },
-    "bfd9d300c9ced52e": {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "fetched_at": "2026-10-21T02:23:06.942982+00:00"
-    },
-    "4de7ca05732c5a19": {
-      "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
-      "fetched_at": "2026-10-21T02:23:07.549940+00:00"
-    },
-    "67b44a1373869fc4": {
-      "title": "Fleet of AI agents used httpbin to get past their sandbox",
-      "fetched_at": "2026-10-21T02:23:08.193168+00:00"
-    },
-    "273ac2dd7ece4c49": {
-      "title": "美政府机构禁用DeepSeek，北京指责华盛顿打压中国公司",
-      "fetched_at": "2026-10-21T02:23:10.363275+00:00"
-    },
-    "8fcd8161a8148f83": {
-      "title": "欧洲中间派政党为何正在失去民心",
-      "fetched_at": "2026-10-21T02:23:10.965821+00:00"
-    },
-    "bed327b6a2ae5f4a": {
-      "title": "翻看英國統計 為何從未吸煙的人也開始對電子煙上癮？",
-      "fetched_at": "2026-10-21T02:23:11.585739+00:00"
-    },
-    "7707055ce39422b9": {
-      "title": "在實體商店購物很令我心煩——為什麼我只在網上購物",
-      "fetched_at": "2026-10-21T02:23:12.200574+00:00"
-    },
-    "cf363c1ca23d3651": {
-      "title": "Case of mysterious medieval skeleton buried in Roman-era sarcophagus at Westminster Abbey finally solved",
-      "fetched_at": "2026-10-21T02:23:33.904625+00:00"
-    },
-    "5ba11a9dc1428085": {
-      "title": "Could 'body clocks' play a role in depression? Study proposes a new 'circadian' subtype",
-      "fetched_at": "2026-10-21T02:23:34.524678+00:00"
-    },
-    "ae4cc33bac845851": {
-      "title": "Will Tesla's 'flying car' ever hit the market, or is it a load of compressed air?",
-      "fetched_at": "2026-10-21T02:23:35.154059+00:00"
-    },
     "215331b4aa7dd28d": {
       "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
       "fetched_at": "2026-10-21T10:46:13.053311+00:00"
@@ -2827,7 +2719,139 @@
     "44263ad83a341ce3": {
       "title": "Scientists finally uncover why statins can cause muscle pain",
       "fetched_at": "2026-10-28T21:59:17.981803+00:00"
+    },
+    "8f3b4ce378d6ca1f": {
+      "title": "Tools, 17 with write access: How AI platforms bound agent authority",
+      "fetched_at": "2026-10-29T03:19:27.715409+00:00"
+    },
+    "88f98c2c8d87140a": {
+      "title": "AI startup hacked Anthropic, gains access to employee details, internal messages",
+      "fetched_at": "2026-10-29T03:19:28.330979+00:00"
+    },
+    "7a4d5f373da919b9": {
+      "title": "Come Back and Back AI",
+      "fetched_at": "2026-10-29T03:19:28.976952+00:00"
+    },
+    "28cec4ea5410c1b1": {
+      "title": "The Quiet Part – a lesson on AI and jobs, built and narrated by AI",
+      "fetched_at": "2026-10-29T03:19:29.594136+00:00"
+    },
+    "dc4a4aaf726e8b3d": {
+      "title": "Deep Learning Alchemy – Stanford CS 312",
+      "fetched_at": "2026-10-29T03:19:30.203964+00:00"
+    },
+    "d03d6aa2309604e3": {
+      "title": "Agentic CI/CD with Azure Cosmos DB: Isolated Envs for a Swarm of AI Agents",
+      "fetched_at": "2026-10-29T03:19:30.828463+00:00"
+    },
+    "1c58d67082f7dd3d": {
+      "title": "I built a Chrome extension that shows you a web page the way AI crawlers see it",
+      "fetched_at": "2026-10-29T03:19:31.523948+00:00"
+    },
+    "1b83cd01143a9d02": {
+      "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
+      "fetched_at": "2026-10-29T03:19:32.160166+00:00"
+    },
+    "d746f3130a438c7b": {
+      "title": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
+      "fetched_at": "2026-10-29T03:19:32.808847+00:00"
+    },
+    "c71202ed06242656": {
+      "title": "Opera adds local AI to its browsers",
+      "fetched_at": "2026-10-29T03:19:33.437780+00:00"
+    },
+    "e18e67fc56633c8f": {
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "fetched_at": "2026-10-29T03:19:34.093492+00:00"
+    },
+    "9dd3444d40805777": {
+      "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+      "fetched_at": "2026-10-29T03:19:34.715518+00:00"
+    },
+    "008fd7f26204bce2": {
+      "title": "Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)",
+      "fetched_at": "2026-10-29T03:19:35.334690+00:00"
+    },
+    "492e237ace055abe": {
+      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "fetched_at": "2026-10-29T03:19:35.969630+00:00"
+    },
+    "99a681b67cd4ab4d": {
+      "title": "Victory You Can Now Exclude Apps from Siri AI",
+      "fetched_at": "2026-10-29T03:19:36.577985+00:00"
+    },
+    "57020ab14d35d73f": {
+      "title": "Daily AI Stock Scanner",
+      "fetched_at": "2026-10-29T03:19:37.196919+00:00"
+    },
+    "296a6ccec391d916": {
+      "title": "Show HN: Open-source AI workspace with shared procedural memory",
+      "fetched_at": "2026-10-29T03:19:38.039148+00:00"
+    },
+    "e1d2c6c9d5f210f3": {
+      "title": "Google AI Search Refuses to Say Who Won the 2020 Election",
+      "fetched_at": "2026-10-29T03:19:38.650443+00:00"
+    },
+    "75a1dedc2d42fb97": {
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "fetched_at": "2026-10-29T03:19:39.282941+00:00"
+    },
+    "9be36fb84570d8cd": {
+      "title": "Our AI Agent Executed the Same Successful SQL Query 254 Times",
+      "fetched_at": "2026-10-29T03:19:39.911526+00:00"
+    },
+    "42cb2b1c50a51721": {
+      "title": "“被困在扭曲的金属和残骸中”：西班牙致命列车事故现场",
+      "fetched_at": "2026-10-29T03:19:43.936984+00:00"
+    },
+    "85a7e61cd0a17f58": {
+      "title": "美国将中国基因组学公司华大列入贸易黑名单",
+      "fetched_at": "2026-10-29T03:19:44.562832+00:00"
+    },
+    "d217f04064002856": {
+      "title": "西班牙港口城市热情拥抱中国投资，经济机遇背后暗藏隐忧",
+      "fetched_at": "2026-10-29T03:19:45.215818+00:00"
+    },
+    "2ed2a7436049ea8e": {
+      "title": "燃油危機之下，中國電動機車風行南亞",
+      "fetched_at": "2026-10-29T03:19:45.857269+00:00"
+    },
+    "3c3ba9564a974aa8": {
+      "title": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷",
+      "fetched_at": "2026-10-29T03:19:46.495787+00:00"
+    },
+    "ad51a214d93fd1e4": {
+      "title": "A historical timeline of Show HN",
+      "fetched_at": "2026-10-29T03:19:50.010043+00:00"
+    },
+    "1d61470ca4523544": {
+      "title": "Show HN: Galaxy Movies – Streaming Discovery App",
+      "fetched_at": "2026-10-29T03:19:50.630948+00:00"
+    },
+    "2994316a972b3e0b": {
+      "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+      "fetched_at": "2026-10-29T03:19:51.267658+00:00"
+    },
+    "f6e280c4ed0a67a3": {
+      "title": "Historical Scientific Instruments",
+      "fetched_at": "2026-10-29T03:19:51.883288+00:00"
+    },
+    "cd619aa5f3fb8e57": {
+      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "fetched_at": "2026-10-29T03:19:52.498214+00:00"
+    },
+    "050a3565c3d6727e": {
+      "title": "Prose and Thorns – romantasy book discovery with AI-synthesized quality scores",
+      "fetched_at": "2026-10-29T03:19:53.112023+00:00"
+    },
+    "d448cacee36826b1": {
+      "title": "Devastating 2025 Myanmar earthquake sheds light on how the 'Big One' could play out in California",
+      "fetched_at": "2026-10-29T03:19:53.757919+00:00"
+    },
+    "4b67adbc6ee8d8d6": {
+      "title": "The James Webb telescope is watching one of the earliest supernovas in the universe unfold",
+      "fetched_at": "2026-10-29T03:19:54.398563+00:00"
     }
   },
-  "last_updated": "2026-10-28T21:59:18.070069+00:00"
+  "last_updated": "2026-10-29T03:19:54.504884+00:00"
 }
