@@ -1,129 +1,5 @@
 {
   "articles": {
-    "5057204a5d4e6570": {
-      "title": "LLM Agents Play Pokemon Showdown",
-      "fetched_at": "2026-10-22T02:18:20.981536+00:00"
-    },
-    "5d5761b1e2cb91e9": {
-      "title": "Can AI generate reliable product demos directly from source code?",
-      "fetched_at": "2026-10-22T02:18:21.608159+00:00"
-    },
-    "712d3ca828310555": {
-      "title": "AI Overlay that Lives on your Desktop",
-      "fetched_at": "2026-10-22T02:18:22.222280+00:00"
-    },
-    "544193e367fc7cca": {
-      "title": "Amazon warns new cyber flaws detected using AI are being 'broadly exploited'",
-      "fetched_at": "2026-10-22T02:18:22.858475+00:00"
-    },
-    "09d25621f25eaa46": {
-      "title": "Can a malicious webpage hijack an AI agent?",
-      "fetched_at": "2026-10-22T02:18:23.469476+00:00"
-    },
-    "de634b8bb6f080b3": {
-      "title": "Databricks launches AI Runtime for managed GPU training on enterprise data",
-      "fetched_at": "2026-10-22T02:18:24.094219+00:00"
-    },
-    "4e0cb82ff72a5067": {
-      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
-      "fetched_at": "2026-10-22T02:18:24.741727+00:00"
-    },
-    "5eb25457f6342830": {
-      "title": "Deckle, a morning newspaper for your Kindle, built on your own machine",
-      "fetched_at": "2026-10-22T02:18:25.382340+00:00"
-    },
-    "1e5b53813a0d06fc": {
-      "title": "Unsupervised AI agent reportedly deletes TV show's edit before release",
-      "fetched_at": "2026-10-22T02:18:26.014511+00:00"
-    },
-    "d8c590d66cbd88b1": {
-      "title": "Russia cracks down on AI bears as real attacks spread fear",
-      "fetched_at": "2026-10-22T02:18:26.647317+00:00"
-    },
-    "7a2fe373e1ba04f6": {
-      "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
-      "fetched_at": "2026-10-22T02:18:27.266455+00:00"
-    },
-    "78bcc34b01dce6dd": {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "fetched_at": "2026-10-22T02:18:27.885980+00:00"
-    },
-    "5b43689daa70f2bc": {
-      "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
-      "fetched_at": "2026-10-22T02:18:28.510281+00:00"
-    },
-    "b4f0e346c2818f7d": {
-      "title": "Data centers could erase decades of air quality gains",
-      "fetched_at": "2026-10-22T02:18:29.132994+00:00"
-    },
-    "f1993784227a3272": {
-      "title": "Dense Sand – Sovereign BYOA AI SoC Platform for AWS",
-      "fetched_at": "2026-10-22T02:18:29.766280+00:00"
-    },
-    "dfdac3debc3250db": {
-      "title": "Firmenza – An AI assistant for SAM.gov registration and federal contracts",
-      "fetched_at": "2026-10-22T02:18:30.398070+00:00"
-    },
-    "afc3b257d03bb083": {
-      "title": "Agency: Open-source platform for debugging, profiling, and analyzing AI agents",
-      "fetched_at": "2026-10-22T02:18:31.011870+00:00"
-    },
-    "3f426328cf957551": {
-      "title": "Obsession with AI May Be Starving the Research Fields It Needs to Survive",
-      "fetched_at": "2026-10-22T02:18:31.630963+00:00"
-    },
-    "ebec343406d986c1": {
-      "title": "Meta to create a new class of shares to fund AI push",
-      "fetched_at": "2026-10-22T02:18:32.246462+00:00"
-    },
-    "d83749bac100b6fc": {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "fetched_at": "2026-10-22T02:18:32.899722+00:00"
-    },
-    "069e16fbb2b2f1cb": {
-      "title": "中国拟出台新规，加强对先进人工智能模型出口管控",
-      "fetched_at": "2026-10-22T02:18:36.632349+00:00"
-    },
-    "3e485d6478f421ee": {
-      "title": "吃什麼能保持年輕肌膚？",
-      "fetched_at": "2026-10-22T02:18:37.300568+00:00"
-    },
-    "34c49e4c23218bb7": {
-      "title": "為甚麼馬斯克要策劃 SpaceX 與特斯拉的超大型合併？",
-      "fetched_at": "2026-10-22T02:18:37.917120+00:00"
-    },
-    "62024078126c75e5": {
-      "title": "特朗普治下，美國經濟的真實表現如何？",
-      "fetched_at": "2026-10-22T02:18:38.539663+00:00"
-    },
-    "83dca3e5fb645218": {
-      "title": "James Webb telescope discovers surprising trove of metals around the Milky Way's supermassive black hole",
-      "fetched_at": "2026-10-22T02:20:57.295844+00:00"
-    },
-    "b310360a44764b32": {
-      "title": "Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand'",
-      "fetched_at": "2026-10-22T02:20:57.918595+00:00"
-    },
-    "623428f0e2d8af8a": {
-      "title": "Quasi-Riemann, Biologic Discovery, and Swanson's \"Undiscovered Public Knowledge\"",
-      "fetched_at": "2026-10-22T02:20:58.543575+00:00"
-    },
-    "31d0190e364461c8": {
-      "title": "How were letters delivered in the ancient world before street addresses?",
-      "fetched_at": "2026-10-22T02:20:59.165240+00:00"
-    },
-    "a8b1e6be2833700d": {
-      "title": "Large-scale predictive modeling in drug discovery: flow-based programming (2016)",
-      "fetched_at": "2026-10-22T02:20:59.768492+00:00"
-    },
-    "2a297e6525fa9e47": {
-      "title": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
-      "fetched_at": "2026-10-22T02:21:00.379610+00:00"
-    },
-    "ef5137634e11c8e0": {
-      "title": "Discovery of a second-generation planet candidate accreting onto a white dwarf",
-      "fetched_at": "2026-10-22T02:21:01.003767+00:00"
-    },
     "d8ed188d6c219fd6": {
       "title": "Show HN: Runspace: Disposable cloud sandboxes for humans and AI agents",
       "fetched_at": "2026-10-22T10:47:28.909113+00:00"
@@ -3011,7 +2887,119 @@
     "c5c5e4426a73d7b4": {
       "title": "Lightest known pair of neutron stars proves Einstein right yet again",
       "fetched_at": "2026-10-29T22:10:39.749375+00:00"
+    },
+    "f25959dfe5386721": {
+      "title": "Ambition in the Age of AI",
+      "fetched_at": "2026-10-30T03:21:27.780091+00:00"
+    },
+    "89a35e24002278a8": {
+      "title": "Claim – Humanity vs. the Machine",
+      "fetched_at": "2026-10-30T03:21:28.349824+00:00"
+    },
+    "ca6e678caf117006": {
+      "title": "The hard problem of AI therapy",
+      "fetched_at": "2026-10-30T03:21:28.926839+00:00"
+    },
+    "cd0c8a00f5f96acb": {
+      "title": "How I Built the Most AI-Pilled Company in the World",
+      "fetched_at": "2026-10-30T03:21:29.494659+00:00"
+    },
+    "24a8b43ae85a8f94": {
+      "title": "Google eng is sure AI will destroy humanity he's stopped saving for retirement",
+      "fetched_at": "2026-10-30T03:21:30.091841+00:00"
+    },
+    "1fb5651abcac8564": {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "fetched_at": "2026-10-30T03:21:30.683937+00:00"
+    },
+    "5c8a122375fd8c6e": {
+      "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
+      "fetched_at": "2026-10-30T03:21:31.247941+00:00"
+    },
+    "829dd6d715a80e7e": {
+      "title": "How to Ace Interviews and Meetings with AI Assistance",
+      "fetched_at": "2026-10-30T03:21:31.839258+00:00"
+    },
+    "d587d73c0dfa6729": {
+      "title": "Deep Learning Made Difficult",
+      "fetched_at": "2026-10-30T03:21:32.444763+00:00"
+    },
+    "6f6f322f23595d9d": {
+      "title": "GitHub trending projects with bilingual AI reviews and MCP access",
+      "fetched_at": "2026-10-30T03:21:33.021159+00:00"
+    },
+    "6d0feffb12a17729": {
+      "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
+      "fetched_at": "2026-10-30T03:21:33.588605+00:00"
+    },
+    "9527e71cc4cf11e9": {
+      "title": "Rich Hickey: \"AI\" is not a tool",
+      "fetched_at": "2026-10-30T03:21:34.182679+00:00"
+    },
+    "d036454202a2078c": {
+      "title": "LLM Programming and Theory Building",
+      "fetched_at": "2026-10-30T03:21:34.766845+00:00"
+    },
+    "91698e056928d486": {
+      "title": "A Diary Has a Creditor: What Character.ai's Bankruptcy Hits Freedom of Thought",
+      "fetched_at": "2026-10-30T03:21:35.375454+00:00"
+    },
+    "fb55f297ac269706": {
+      "title": "Deterministic AI: Why LLMs Aren't, and How to Build Products That Are Anyway",
+      "fetched_at": "2026-10-30T03:21:35.942394+00:00"
+    },
+    "f4bce215ee406340": {
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "fetched_at": "2026-10-30T03:21:36.543190+00:00"
+    },
+    "2b93ed35e5c1b5db": {
+      "title": "AI, Mathematics, Education, and a public goods problem",
+      "fetched_at": "2026-10-30T03:21:37.119228+00:00"
+    },
+    "a2a7ea8e6d834632": {
+      "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+      "fetched_at": "2026-10-30T03:21:37.699617+00:00"
+    },
+    "6e086e7a8e94d0c2": {
+      "title": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
+      "fetched_at": "2026-10-30T03:21:38.285266+00:00"
+    },
+    "b16c3c35ab3340b9": {
+      "title": "Are we in an AI Bubble? Lessons from 1873 and 2000",
+      "fetched_at": "2026-10-30T03:21:38.875056+00:00"
+    },
+    "38eb0906b4bb2582": {
+      "title": "特朗普帮助博索纳罗逃离巴西前往美国",
+      "fetched_at": "2026-10-30T03:21:41.477041+00:00"
+    },
+    "77a60cb9dcf658f3": {
+      "title": "习近平清洗行动继续：中共宣布33名高官被开除党籍",
+      "fetched_at": "2026-10-30T03:21:42.051134+00:00"
+    },
+    "cd42d528aa46db54": {
+      "title": "黄仁勋被认为是中国间谍行动的目标",
+      "fetched_at": "2026-10-30T03:21:42.641374+00:00"
+    },
+    "5034cac9da162fd6": {
+      "title": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
+      "fetched_at": "2026-10-30T03:21:43.223373+00:00"
+    },
+    "fb260951450534f5": {
+      "title": "如何不刻意鍛煉，也能增加活動量？",
+      "fetched_at": "2026-10-30T03:21:43.806135+00:00"
+    },
+    "f79930b888ca2b70": {
+      "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
+      "fetched_at": "2026-10-30T03:21:44.406796+00:00"
+    },
+    "0c527d11d77b4d71": {
+      "title": "How ancient DNA is rewriting the story of human origins",
+      "fetched_at": "2026-10-30T03:21:46.640007+00:00"
+    },
+    "ba46b7231c8e50ba": {
+      "title": "Uranium from World War II reveals how close the Nazis were to an atomic bomb",
+      "fetched_at": "2026-10-30T03:21:47.215160+00:00"
     }
   },
-  "last_updated": "2026-10-29T22:10:39.793403+00:00"
+  "last_updated": "2026-10-30T03:21:47.319470+00:00"
 }
