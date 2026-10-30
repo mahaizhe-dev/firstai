@@ -1,137 +1,5 @@
 {
   "articles": {
-    "162356449a62e88e": {
-      "title": "Chiron Changes AI Incident Investigation on Orca-Bench",
-      "fetched_at": "2026-10-22T16:13:46.473573+00:00"
-    },
-    "8a567ae69c02b388": {
-      "title": "An interactive simulator for securing autonomous AI agents in AWS",
-      "fetched_at": "2026-10-22T16:13:47.103743+00:00"
-    },
-    "cadf7837506cad48": {
-      "title": "AI Use in Publishing",
-      "fetched_at": "2026-10-22T16:13:47.695332+00:00"
-    },
-    "189c90e4b45d83ea": {
-      "title": "Do we have a moral obligation to improve software with AI?",
-      "fetched_at": "2026-10-22T16:13:48.304863+00:00"
-    },
-    "27377d15b43e212b": {
-      "title": "The AI Product Operating System: Why Knowing What to Build Is the Only Moat Left",
-      "fetched_at": "2026-10-22T16:13:48.887581+00:00"
-    },
-    "367507fdf9dfd4df": {
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "fetched_at": "2026-10-22T16:13:49.468712+00:00"
-    },
-    "48f2ce6af4a46668": {
-      "title": "Show HN: Dedoomify – AI news, minus the doom",
-      "fetched_at": "2026-10-22T16:13:50.058858+00:00"
-    },
-    "6992fab835a270e4": {
-      "title": "AI #191: The Hackening Begins",
-      "fetched_at": "2026-10-22T16:13:50.633894+00:00"
-    },
-    "1bd79be079f40148": {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "fetched_at": "2026-10-22T16:13:51.241390+00:00"
-    },
-    "bcd9e47816c2d91f": {
-      "title": "Grok Bot: The cycle of productivity tools repeats itself in AI",
-      "fetched_at": "2026-10-22T16:13:51.826824+00:00"
-    },
-    "c5cf40a9dadb5437": {
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "fetched_at": "2026-10-22T16:13:52.409123+00:00"
-    },
-    "a8ccb40677fcc845": {
-      "title": "The Wish Machine: Who Does AI Obey? [video]",
-      "fetched_at": "2026-10-22T16:13:53.043463+00:00"
-    },
-    "277d3160d4814bda": {
-      "title": "Show HN: I made a cute game for learning loop invariants",
-      "fetched_at": "2026-10-22T16:13:53.629825+00:00"
-    },
-    "45b91d224502e63a": {
-      "title": "Ask HN: Which AI Security tool do you use and why for your repositories?",
-      "fetched_at": "2026-10-22T16:13:54.210859+00:00"
-    },
-    "d86a874a1207db2a": {
-      "title": "Show HN: Aven-stops AI coding tools from breaking yours project's rules",
-      "fetched_at": "2026-10-22T16:13:54.842933+00:00"
-    },
-    "7c22aa313baf1559": {
-      "title": "Show HN: Airlock, which sandboxes AI agents, is available on the Mac App Store",
-      "fetched_at": "2026-10-22T16:13:55.464542+00:00"
-    },
-    "95b4c456c52c1ff4": {
-      "title": "A Generalized Response to the AI Layoff Trap",
-      "fetched_at": "2026-10-22T16:13:56.081401+00:00"
-    },
-    "a5d870cf3f048539": {
-      "title": "Show HN: Linden – a rule based verification layer for AI agents",
-      "fetched_at": "2026-10-22T16:13:56.660861+00:00"
-    },
-    "6b4404f389ecb620": {
-      "title": "Important updates to AI use on Etsy",
-      "fetched_at": "2026-10-22T16:13:57.250086+00:00"
-    },
-    "7b90f56aa541c066": {
-      "title": "PHP: The three little letters wreaking havoc across the web",
-      "fetched_at": "2026-10-22T16:13:57.834558+00:00"
-    },
-    "d9e60867faa09dec": {
-      "title": "人類身高的起伏變化：哪些歷史事件影響最大？",
-      "fetched_at": "2026-10-22T16:14:00.983616+00:00"
-    },
-    "df0803ddffc0b3f6": {
-      "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
-      "fetched_at": "2026-10-22T16:14:01.591918+00:00"
-    },
-    "4505f712f9c8e2a9": {
-      "title": "Will plants survive climate change? The 'Great Dying' reveals clues about their resilience.",
-      "fetched_at": "2026-10-22T16:14:04.923446+00:00"
-    },
-    "d961e2f8a5d713c6": {
-      "title": "What Ancient Latin Sounded Like, and How We Know It",
-      "fetched_at": "2026-10-22T16:14:05.511063+00:00"
-    },
-    "8ed3dc7dec5fbb19": {
-      "title": "The space shuttle Discovery, the S in Discovery is upside down",
-      "fetched_at": "2026-10-22T16:14:06.085492+00:00"
-    },
-    "321fe8b030ceb1ab": {
-      "title": "Birds are more afraid of women than men. Scientists have no idea why",
-      "fetched_at": "2026-10-22T16:14:06.672349+00:00"
-    },
-    "c56b451fc8fb7dde": {
-      "title": "Oxford scientists discover how viruses build themselves without a blueprint",
-      "fetched_at": "2026-10-22T16:14:07.252612+00:00"
-    },
-    "f5fa38d44e76972c": {
-      "title": "A revolutionary new microscope could reveal the hidden machinery of life",
-      "fetched_at": "2026-10-22T16:14:07.844479+00:00"
-    },
-    "c5fa5b73d6028a64": {
-      "title": "Honey bees are bullying other bees, scientists discover",
-      "fetched_at": "2026-10-22T16:14:08.462039+00:00"
-    },
-    "1320dac58fe18531": {
-      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
-      "fetched_at": "2026-10-22T16:14:09.040988+00:00"
-    },
-    "0d63ea09b559ab55": {
-      "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
-      "fetched_at": "2026-10-22T16:14:09.624004+00:00"
-    },
-    "06fe5282ae5d9dfe": {
-      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
-      "fetched_at": "2026-10-22T16:14:10.232732+00:00"
-    },
-    "29c7220152cd00e6": {
-      "title": "A rock plunged 90 kilometers into Earth and revealed something unexpected",
-      "fetched_at": "2026-10-22T16:14:10.814954+00:00"
-    },
     "6e0ffecdda1792e1": {
       "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
       "fetched_at": "2026-10-22T20:57:01.836516+00:00"
@@ -2999,7 +2867,159 @@
     "b310360a44764b32": {
       "title": "Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand'",
       "fetched_at": "2026-10-30T11:49:47.836773+00:00"
+    },
+    "8c70ace090e98325": {
+      "title": "Reddit CEO admits Google's AI Mode is choking off its search traffic",
+      "fetched_at": "2026-10-30T17:24:07.021627+00:00"
+    },
+    "668826c494cd094c": {
+      "title": "Open Rock – An open-source AI chat interface",
+      "fetched_at": "2026-10-30T17:24:07.688045+00:00"
+    },
+    "76dc6a86d0132bff": {
+      "title": "Ask HN: Are you putting off hardware upgrades because of AI coding tools?",
+      "fetched_at": "2026-10-30T17:24:08.319946+00:00"
+    },
+    "b21dc16e0f3a63f3": {
+      "title": "ASRock Industrial AI Box-A395 Review: Taking Strix Halo to Work – ServeTheHome",
+      "fetched_at": "2026-10-30T17:24:08.914738+00:00"
+    },
+    "9bc40649737f90f2": {
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "fetched_at": "2026-10-30T17:24:09.510826+00:00"
+    },
+    "b72b594215506f8a": {
+      "title": "Signet: Cryptographic Enforcement of LLM Transitions",
+      "fetched_at": "2026-10-30T17:24:10.100673+00:00"
+    },
+    "3e7b99b26f4788f3": {
+      "title": "What happens when cloud coding agents are as fast as your local machine?",
+      "fetched_at": "2026-10-30T17:24:10.681277+00:00"
+    },
+    "7e421bf5f9b69b9f": {
+      "title": "The $200M Machine that Prints Microchips [video]",
+      "fetched_at": "2026-10-30T17:24:11.271558+00:00"
+    },
+    "bdf16f994e48f8aa": {
+      "title": "Show HN: NKTg AI – An LLM that decodes text before generating",
+      "fetched_at": "2026-10-30T17:24:11.874717+00:00"
+    },
+    "7203857982278907": {
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "fetched_at": "2026-10-30T17:24:11.874818+00:00"
+    },
+    "22ead7d85dc0a977": {
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "fetched_at": "2026-10-30T17:24:12.460084+00:00"
+    },
+    "87fb493df7db6280": {
+      "title": "One Company's AI Mistake",
+      "fetched_at": "2026-10-30T17:24:13.047767+00:00"
+    },
+    "3c65caf2e35a6069": {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "fetched_at": "2026-10-30T17:24:13.636065+00:00"
+    },
+    "d3b90822c1741a4a": {
+      "title": "Some Thing is Happening A note from the AI companies",
+      "fetched_at": "2026-10-30T17:24:14.228761+00:00"
+    },
+    "576254d7f249ff60": {
+      "title": "ANSI 16-bit Art Design Studio with AI integration",
+      "fetched_at": "2026-10-30T17:24:14.821013+00:00"
+    },
+    "03ed9ce36ec7a84e": {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "fetched_at": "2026-10-30T17:24:15.407460+00:00"
+    },
+    "1efee600387c6820": {
+      "title": "Data Centers, Debt and the Risks of AI's Finances Ed Zitron Jon Stewart [video]",
+      "fetched_at": "2026-10-30T17:24:15.996931+00:00"
+    },
+    "d2785b7156e8518c": {
+      "title": "Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "fetched_at": "2026-10-30T17:24:16.590236+00:00"
+    },
+    "0618d90935eb4877": {
+      "title": "There are several ways your AI chat conversations can be made public",
+      "fetched_at": "2026-10-30T17:24:17.180819+00:00"
+    },
+    "b023a815fea68069": {
+      "title": "AI being great at math makes human mathematicians more valuable, not less",
+      "fetched_at": "2026-10-30T17:24:17.790831+00:00"
+    },
+    "06735a5a95c47e99": {
+      "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變中國官場？",
+      "fetched_at": "2026-10-30T17:24:20.833455+00:00"
+    },
+    "497fc1aaa3620800": {
+      "title": "暗影人物：與烏克蘭合作的俄羅斯人",
+      "fetched_at": "2026-10-30T17:24:21.424160+00:00"
+    },
+    "1ed4da08c8d24ffb": {
+      "title": "DeepSeek被美國政府系統禁用：中美AI競爭繼續升溫",
+      "fetched_at": "2026-10-30T17:24:22.036188+00:00"
+    },
+    "cb2e9e9a627cefdf": {
+      "title": "Historical www-talk archives made complete",
+      "fetched_at": "2026-10-30T17:24:24.562966+00:00"
+    },
+    "1e5b7baadd81a514": {
+      "title": "Jupiter, Saturn, Uranus and Neptune could destroy each other sooner than we thought, simulations hint",
+      "fetched_at": "2026-10-30T17:24:25.151311+00:00"
+    },
+    "9b889f0dd29890b3": {
+      "title": "'It isn't under control at all': Live Science readers respond to whether AI is making them lazy",
+      "fetched_at": "2026-10-30T17:24:25.749314+00:00"
+    },
+    "701f2952b385b6d9": {
+      "title": "Optimize Product Discovery for Time to First Dollar",
+      "fetched_at": "2026-10-30T17:24:26.345934+00:00"
+    },
+    "eb2017cc8bbd5d65": {
+      "title": "Nearly 30% of US adults admit to lying about or exaggerating their symptoms to get antibiotics from doctors, survey finds",
+      "fetched_at": "2026-10-30T17:24:26.949188+00:00"
+    },
+    "ddb90c91f5a0ee75": {
+      "title": "Physicists created a tiny universe and watched time emerge without a clock",
+      "fetched_at": "2026-10-30T17:24:27.541647+00:00"
+    },
+    "542affa8c1215a8a": {
+      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+      "fetched_at": "2026-10-30T17:24:28.122000+00:00"
+    },
+    "17b8835a739b5d35": {
+      "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+      "fetched_at": "2026-10-30T17:24:28.712983+00:00"
+    },
+    "815d4bd08b3d1eac": {
+      "title": "Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year",
+      "fetched_at": "2026-10-30T17:24:29.307927+00:00"
+    },
+    "46dacfa47937d114": {
+      "title": "Astronauts just gave the International Space Station a powerful upgrade",
+      "fetched_at": "2026-10-30T17:24:29.906803+00:00"
+    },
+    "6e2b686e24a46d13": {
+      "title": "Scientists confirm global warming is accelerating faster than ever recorded",
+      "fetched_at": "2026-10-30T17:24:30.495328+00:00"
+    },
+    "d3f2345d25cc4093": {
+      "title": "A mysterious star system just 16 light-years away may be hiding habitable planets",
+      "fetched_at": "2026-10-30T17:24:31.100812+00:00"
+    },
+    "7e22cb6a7b6669ca": {
+      "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
+      "fetched_at": "2026-10-30T17:24:31.689255+00:00"
+    },
+    "5c762498b3266c91": {
+      "title": "Scientists discover why chronic back pain feels so personal",
+      "fetched_at": "2026-10-30T17:24:32.271531+00:00"
+    },
+    "b3adb20a1c6b590b": {
+      "title": "'This is so crazy!': Virginia college student looking for shark teeth finds rare Native American spearpoint",
+      "fetched_at": "2026-10-30T17:24:32.271654+00:00"
     }
   },
-  "last_updated": "2026-10-30T11:49:47.918044+00:00"
+  "last_updated": "2026-10-30T17:24:32.338865+00:00"
 }
