@@ -1,61 +1,5 @@
 {
   "articles": {
-    "c39f76ad8096a289": {
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "fetched_at": "2026-10-23T02:23:59.364862+00:00"
-    },
-    "4084a73829960259": {
-      "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
-      "fetched_at": "2026-10-23T02:24:00.007093+00:00"
-    },
-    "1f7eb67c411416d6": {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "fetched_at": "2026-10-23T02:24:00.644161+00:00"
-    },
-    "d8a3f926528580e7": {
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "fetched_at": "2026-10-23T02:24:01.274714+00:00"
-    },
-    "35610fd4a54aa714": {
-      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-      "fetched_at": "2026-10-23T02:24:01.915848+00:00"
-    },
-    "c2508c6776bffbe9": {
-      "title": "Meta turns Muse sharing back on",
-      "fetched_at": "2026-10-23T02:24:02.558824+00:00"
-    },
-    "7f4e10fa623bec46": {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "fetched_at": "2026-10-23T02:24:03.187578+00:00"
-    },
-    "5825f9e1ed2ccb80": {
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "fetched_at": "2026-10-23T02:24:03.851966+00:00"
-    },
-    "911ab84badf77289": {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "fetched_at": "2026-10-23T02:24:04.494258+00:00"
-    },
-    "b8274789248c4f6e": {
-      "title": "颱風薔琵逼近 台灣大部分縣市停班停課",
-      "fetched_at": "2026-10-23T02:24:07.358072+00:00"
-    },
-    "1d084e144bd077ce": {
-      "title": "西藏發生7級強烈地震，據報至少16死、數十人受傷",
-      "fetched_at": "2026-10-23T02:24:07.974425+00:00"
-    },
-    "6d179b98a9e02633": {
-      "title": "特朗普訴BBC誹謗案：法官下令總統須宣誓並答問作證",
-      "fetched_at": "2026-10-23T02:24:08.754916+00:00"
-    },
-    "2456528705799556": {
-      "title": "在台湾，台风不仅是自然灾害，还可能决定政治人物的命运",
-      "fetched_at": "2026-10-23T02:24:09.401931+00:00"
-    },
-    "ccc80b965a7ec4c2": {
-      "title": "中共五中全會前瞻：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
-      "fetched_at": "2026-10-23T02:24:10.056792+00:00"
-    },
     "f7f00ed208af5b44": {
       "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
       "fetched_at": "2026-10-23T10:39:33.057101+00:00"
@@ -3019,7 +2963,103 @@
     "46d2b2f0867051d5": {
       "title": "Surprising new pattern of groundwater loss may signal a turning point for the Colorado River Basin",
       "fetched_at": "2026-10-30T21:46:16.060663+00:00"
+    },
+    "3312f44cc2976a9d": {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "fetched_at": "2026-10-31T03:05:26.410920+00:00"
+    },
+    "1aea1983b67f1e90": {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "fetched_at": "2026-10-31T03:05:27.067841+00:00"
+    },
+    "4b870eb106d0bf8b": {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "fetched_at": "2026-10-31T03:05:27.735271+00:00"
+    },
+    "91b177bcde18d312": {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "fetched_at": "2026-10-31T03:05:28.391114+00:00"
+    },
+    "53796b1e7db6d8f0": {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "fetched_at": "2026-10-31T03:05:29.037170+00:00"
+    },
+    "3b4a34d327db9c72": {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "fetched_at": "2026-10-31T03:05:29.682577+00:00"
+    },
+    "1f8fbc69af01c0fc": {
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "fetched_at": "2026-10-31T03:05:30.315337+00:00"
+    },
+    "4cbbcf948c23588a": {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "fetched_at": "2026-10-31T03:05:30.959022+00:00"
+    },
+    "82c0828d96dbbfd1": {
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "fetched_at": "2026-10-31T03:05:31.667798+00:00"
+    },
+    "5a9eebbe260487ee": {
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "fetched_at": "2026-10-31T03:05:32.293117+00:00"
+    },
+    "385a5153b4501fdc": {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "fetched_at": "2026-10-31T03:05:32.913747+00:00"
+    },
+    "824295f7646bdb5e": {
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "fetched_at": "2026-10-31T03:05:33.552439+00:00"
+    },
+    "7e49d0aea30dc756": {
+      "title": "Silicon Valley wants you to invest in miracles",
+      "fetched_at": "2026-10-31T03:05:34.184613+00:00"
+    },
+    "ff04b73afcc141eb": {
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "fetched_at": "2026-10-31T03:05:34.816523+00:00"
+    },
+    "ca4d11e3f117a10c": {
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "fetched_at": "2026-10-31T03:05:35.447907+00:00"
+    },
+    "335a1b191a9126d7": {
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "fetched_at": "2026-10-31T03:05:36.069759+00:00"
+    },
+    "485722807c61637d": {
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "fetched_at": "2026-10-31T03:05:36.710021+00:00"
+    },
+    "dd54a436d4cc7c54": {
+      "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
+      "fetched_at": "2026-10-31T03:05:37.346957+00:00"
+    },
+    "bc6b0f89c53ac3af": {
+      "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+      "fetched_at": "2026-10-31T03:05:38.723801+00:00"
+    },
+    "0121cecc211766f5": {
+      "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+      "fetched_at": "2026-10-31T03:05:39.362476+00:00"
+    },
+    "b3547b83c1240823": {
+      "title": "'We're never going to come home': Artemis II commander recalls the most terrifying moment of his 10-day trip around the moon",
+      "fetched_at": "2026-10-31T03:05:46.364556+00:00"
+    },
+    "7e0097b594ea04b7": {
+      "title": "Crows may make lightning-fast decisions, sometimes twice as fast as humans, study hints",
+      "fetched_at": "2026-10-31T03:05:47.006478+00:00"
+    },
+    "ccb32b92d5dded7c": {
+      "title": "Brain scans reveal 'number line' that's used to mentally compare values",
+      "fetched_at": "2026-10-31T03:05:47.635587+00:00"
+    },
+    "f10baae9d88d9e84": {
+      "title": "Watch bizarre snake 'cartwheel' away from danger at more than 12 feet per second",
+      "fetched_at": "2026-10-31T03:05:48.269619+00:00"
     }
   },
-  "last_updated": "2026-10-30T21:46:16.153551+00:00"
+  "last_updated": "2026-10-31T03:05:48.374573+00:00"
 }
