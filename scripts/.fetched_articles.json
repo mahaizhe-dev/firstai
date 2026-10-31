@@ -1,113 +1,5 @@
 {
   "articles": {
-    "a8c3d6ec81b7398a": {
-      "title": "The one time we break the LLM cache on purpose",
-      "fetched_at": "2026-10-23T20:44:54.310316+00:00"
-    },
-    "044ff0e8bc5f9047": {
-      "title": "What are some free AI education platforms to learn AI? [video]",
-      "fetched_at": "2026-10-23T20:44:54.889239+00:00"
-    },
-    "8856ddf93d79a020": {
-      "title": "Kimi K3.1 Pro puts open-source AI a month behind the best",
-      "fetched_at": "2026-10-23T20:44:55.457239+00:00"
-    },
-    "975b362092097442": {
-      "title": "AI Coding Agent Security Benchmark",
-      "fetched_at": "2026-10-23T20:44:56.027760+00:00"
-    },
-    "ef625c62e81a0073": {
-      "title": "Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?",
-      "fetched_at": "2026-10-23T20:44:56.625138+00:00"
-    },
-    "33b93c1102e2a908": {
-      "title": "The \"AI-Last\" Methodology",
-      "fetched_at": "2026-10-23T20:44:57.229811+00:00"
-    },
-    "fd163966997ef732": {
-      "title": "Show HN: Build a wonky machine, a pixel-art physics puzzle",
-      "fetched_at": "2026-10-23T20:44:57.805394+00:00"
-    },
-    "46ab01dc0b5db7f5": {
-      "title": "Show HN: Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm",
-      "fetched_at": "2026-10-23T20:44:58.367587+00:00"
-    },
-    "17d1dd7a9c2b2f82": {
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "fetched_at": "2026-10-23T20:44:58.938982+00:00"
-    },
-    "69818c3e9ee69343": {
-      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-      "fetched_at": "2026-10-23T20:44:59.511745+00:00"
-    },
-    "e567c12b2fa97a5c": {
-      "title": "LLM-d v1.0.0 is out",
-      "fetched_at": "2026-10-23T20:45:00.090128+00:00"
-    },
-    "777e6962f7886430": {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "fetched_at": "2026-10-23T20:45:00.662423+00:00"
-    },
-    "85c6924d08d96138": {
-      "title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
-      "fetched_at": "2026-10-23T20:45:01.232720+00:00"
-    },
-    "dd1bc3b670eb16f2": {
-      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
-      "fetched_at": "2026-10-23T20:45:01.798982+00:00"
-    },
-    "6490a3c7f7e77005": {
-      "title": "Show HN: UPA – An explicit organizational model for humans and AI",
-      "fetched_at": "2026-10-23T20:45:02.364748+00:00"
-    },
-    "1d2569caffe3b3c4": {
-      "title": "Writing Code vs. Shipping Code: Productivity Across Generations of AI Code Tools",
-      "fetched_at": "2026-10-23T20:45:02.950265+00:00"
-    },
-    "a37020fae9ae92fc": {
-      "title": "Behavior-Centric AI Design",
-      "fetched_at": "2026-10-23T20:45:03.526512+00:00"
-    },
-    "942ec1e4b2e59d39": {
-      "title": "AI models think humans are a bunch of amoral sheep",
-      "fetched_at": "2026-10-23T20:45:04.105671+00:00"
-    },
-    "7a2897ce76e90360": {
-      "title": "Show HN: AI Heat Map powered by over 120 data feeds",
-      "fetched_at": "2026-10-23T20:45:04.674925+00:00"
-    },
-    "ce56d0f8ee0b635b": {
-      "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
-      "fetched_at": "2026-10-23T20:45:05.247822+00:00"
-    },
-    "5884309d4a7f2c16": {
-      "title": "新鴨綠江大橋閒置12年終開通：中朝關係回暖？",
-      "fetched_at": "2026-10-23T20:45:07.624708+00:00"
-    },
-    "12919d498426d360": {
-      "title": "9,000-Year-Old Workshop Uncovered in Turkey",
-      "fetched_at": "2026-10-23T20:45:11.113796+00:00"
-    },
-    "911d050cf35bfeb8": {
-      "title": "Roman Sarcophagus at Westminster Abbey Likely Held Remains of Medieval Monk",
-      "fetched_at": "2026-10-23T20:45:11.698629+00:00"
-    },
-    "a63541fd05b725f9": {
-      "title": "Unusual Objects Unearthed at Troy",
-      "fetched_at": "2026-10-23T20:45:12.283441+00:00"
-    },
-    "38cbeb55357f510e": {
-      "title": "Who Crafted China’s Terracotta Army?",
-      "fetched_at": "2026-10-23T20:45:12.852641+00:00"
-    },
-    "0c978e59397f8ed1": {
-      "title": "'Most people can't handle driving in 2 dimensions let alone 3': Readers respond to our poll about flying cars",
-      "fetched_at": "2026-10-23T20:45:13.445145+00:00"
-    },
-    "ccda84fab30301e3": {
-      "title": "Mysterious hole in Neanderthal shoulder blade may have been a 'kill shot' from a wooden spear, according to archaeologists",
-      "fetched_at": "2026-10-23T20:45:14.021687+00:00"
-    },
     "1c3f57dcb0dfa113": {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "fetched_at": "2026-10-24T02:21:40.210459+00:00"
@@ -3107,7 +2999,87 @@
     "1bfd32aa850032ea": {
       "title": "Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation. But will it really work?",
       "fetched_at": "2026-10-31T16:28:47.703842+00:00"
+    },
+    "21853ea9865dc910": {
+      "title": "People are the hard part of AI",
+      "fetched_at": "2026-10-31T20:45:22.984201+00:00"
+    },
+    "580d1a3caa2c0129": {
+      "title": "Free AI",
+      "fetched_at": "2026-10-31T20:45:23.579446+00:00"
+    },
+    "2f440bb9ab407e86": {
+      "title": "GPT-6.1 Terra",
+      "fetched_at": "2026-10-31T20:45:24.166119+00:00"
+    },
+    "6b845399e12634fa": {
+      "title": "Reddit shares plunge as Google's AI search squeezes traffic",
+      "fetched_at": "2026-10-31T20:45:24.787361+00:00"
+    },
+    "b5d37bba3b1e5f6b": {
+      "title": "Show HN: Read your Character.AI data export in the browser, nothing uploaded",
+      "fetched_at": "2026-10-31T20:45:25.384014+00:00"
+    },
+    "b9add5a2b9380379": {
+      "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
+      "fetched_at": "2026-10-31T20:45:25.995790+00:00"
+    },
+    "571cc7fc9210a4a9": {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite company's legacy code",
+      "fetched_at": "2026-10-31T20:45:26.576630+00:00"
+    },
+    "7e6c191e4a246385": {
+      "title": "The Limits of AI as an Economic Weapon",
+      "fetched_at": "2026-10-31T20:45:27.157279+00:00"
+    },
+    "fd2bab1a8def486e": {
+      "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
+      "fetched_at": "2026-10-31T20:45:27.829228+00:00"
+    },
+    "01aaf1b4019d2f7f": {
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "fetched_at": "2026-10-31T20:45:28.404552+00:00"
+    },
+    "b9611dd821cf7516": {
+      "title": "Ask HN: Has Google started cleaning their search results from AI slop?",
+      "fetched_at": "2026-10-31T20:45:29.370758+00:00"
+    },
+    "a658de9acb248730": {
+      "title": "Google's AI satellite sends a expensive haiku to Earth",
+      "fetched_at": "2026-10-31T20:45:29.951186+00:00"
+    },
+    "0702d4bfd34f9161": {
+      "title": "Software is Eating AI (2017)",
+      "fetched_at": "2026-10-31T20:45:30.538272+00:00"
+    },
+    "04f12441d9d499ca": {
+      "title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
+      "fetched_at": "2026-10-31T20:45:31.119007+00:00"
+    },
+    "ac31a5873d961d6b": {
+      "title": "Show HN: Hey Spark – open-source voice assistant for your laptop, any LLM brain",
+      "fetched_at": "2026-10-31T20:45:31.700025+00:00"
+    },
+    "3cd02ad9846199d2": {
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "fetched_at": "2026-10-31T20:45:32.279769+00:00"
+    },
+    "20ef754148e1ec18": {
+      "title": "Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android",
+      "fetched_at": "2026-10-31T20:45:32.859878+00:00"
+    },
+    "862339d20ee7258d": {
+      "title": "Show HN: Publishub. An AI copilot for video creators and editors.",
+      "fetched_at": "2026-10-31T20:45:33.566559+00:00"
+    },
+    "6d72db96a07f0fe2": {
+      "title": "NichiHab Android app blocker with Gemini AI task verification",
+      "fetched_at": "2026-10-31T20:45:34.174150+00:00"
+    },
+    "a4bd8001b7ba672a": {
+      "title": "AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030",
+      "fetched_at": "2026-10-31T20:45:34.756276+00:00"
     }
   },
-  "last_updated": "2026-10-31T16:28:47.828977+00:00"
+  "last_updated": "2026-10-31T20:45:42.677279+00:00"
 }
