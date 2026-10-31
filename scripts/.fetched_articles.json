@@ -1,113 +1,5 @@
 {
   "articles": {
-    "deedaab4609382d3": {
-      "title": "We gave an AI $100k to trade on leverage. Here's what it did",
-      "fetched_at": "2026-10-23T16:03:13.521840+00:00"
-    },
-    "452ae2c7a3686c5d": {
-      "title": "Ask HN: How do you get AI loops to converge?",
-      "fetched_at": "2026-10-23T16:03:14.149869+00:00"
-    },
-    "6eef3894582d0d58": {
-      "title": "Local AI Is Not as Private as You Think [video]",
-      "fetched_at": "2026-10-23T16:03:14.968959+00:00"
-    },
-    "135280ce36392a56": {
-      "title": "Who Cares Whether Academics Use AI to Write?",
-      "fetched_at": "2026-10-23T16:03:15.580040+00:00"
-    },
-    "3514388b8e3bf51b": {
-      "title": "Elon Musk and AI rivals pledge to give away nearly $300B",
-      "fetched_at": "2026-10-23T16:03:16.192502+00:00"
-    },
-    "cf7ae18000914243": {
-      "title": "AI Isn't Sovereign Because You Host It Yourself",
-      "fetched_at": "2026-10-23T16:03:16.801169+00:00"
-    },
-    "924dae26fcb83fef": {
-      "title": "Retro gaming is being overrun with AI",
-      "fetched_at": "2026-10-23T16:03:17.433715+00:00"
-    },
-    "e26d14db89faf86e": {
-      "title": "Show HN: Gsearch – Real Google Search for AI Agents(MCP)",
-      "fetched_at": "2026-10-23T16:03:18.049079+00:00"
-    },
-    "f22498aa9ced18d6": {
-      "title": "Google Ads AI Automation is a team of 41 AI agents",
-      "fetched_at": "2026-10-23T16:03:18.658967+00:00"
-    },
-    "cc43e85a21141947": {
-      "title": "Why Training AI to Have a Self Makes Governance Harder (audio)",
-      "fetched_at": "2026-10-23T16:03:19.291903+00:00"
-    },
-    "f8813cdf249fef74": {
-      "title": "Machine Gods – the official podcast of the singularity",
-      "fetched_at": "2026-10-23T16:03:19.898283+00:00"
-    },
-    "561bacd0de5d9893": {
-      "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
-      "fetched_at": "2026-10-23T16:03:20.519694+00:00"
-    },
-    "51e46d1972d6223c": {
-      "title": "Ask HN: How can I grow as an engineer in the AI era",
-      "fetched_at": "2026-10-23T16:03:21.143218+00:00"
-    },
-    "2c1a02fb5065c75b": {
-      "title": "Ask HN: Secure minimalistic web front-ends to Local LLM's?",
-      "fetched_at": "2026-10-23T16:03:21.762209+00:00"
-    },
-    "98c71b6ef169b392": {
-      "title": "Nvidia Sentry: Secure AI Agents at Runtime",
-      "fetched_at": "2026-10-23T16:03:22.384603+00:00"
-    },
-    "249ef79670f98f0a": {
-      "title": "AI Article Reviews Dominate Human Peer Reviews at Their Best [pdf]",
-      "fetched_at": "2026-10-23T16:03:22.993582+00:00"
-    },
-    "2d031597f2f0ce66": {
-      "title": "I Built an AI Bot to Fact-Check the Midterms. Here's What I've Learned",
-      "fetched_at": "2026-10-23T16:03:23.611255+00:00"
-    },
-    "60782a943e164e31": {
-      "title": "Ask HN: Is the downside of investing in AI real?",
-      "fetched_at": "2026-10-23T16:03:24.246633+00:00"
-    },
-    "11609de93258ef3c": {
-      "title": "Postgres 19 is late, and it's AI's fault",
-      "fetched_at": "2026-10-23T16:03:24.856339+00:00"
-    },
-    "32b57e2aab2a57b0": {
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "fetched_at": "2026-10-23T16:03:25.494647+00:00"
-    },
-    "c943b0a1b50e1d34": {
-      "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
-      "fetched_at": "2026-10-23T16:03:30.275951+00:00"
-    },
-    "b7f256c8a12ea295": {
-      "title": "Dental implants can hijack your immune system, scientists discover",
-      "fetched_at": "2026-10-23T16:03:30.895026+00:00"
-    },
-    "06672adbd8d52217": {
-      "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
-      "fetched_at": "2026-10-23T16:03:31.519860+00:00"
-    },
-    "be3be3ae5893d2a0": {
-      "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
-      "fetched_at": "2026-10-23T16:03:32.145398+00:00"
-    },
-    "8b36047927194127": {
-      "title": "Scientists discover a hidden messaging system deep inside the brain",
-      "fetched_at": "2026-10-23T16:03:32.763789+00:00"
-    },
-    "ebbd232878d47d28": {
-      "title": "Japan launches world's first round-trip mission to Mars",
-      "fetched_at": "2026-10-23T16:03:32.763869+00:00"
-    },
-    "5c35a110f4401821": {
-      "title": "Testosterone for menopause: The treatment is rising in popularity, but does it work?",
-      "fetched_at": "2026-10-23T16:03:33.375526+00:00"
-    },
     "a8c3d6ec81b7398a": {
       "title": "The one time we break the LLM cache on purpose",
       "fetched_at": "2026-10-23T20:44:54.310316+00:00"
@@ -3087,7 +2979,135 @@
     "b84c3d146952cbcf": {
       "title": "Rare meteorite from Mars gives us a view into its ancient crust",
       "fetched_at": "2026-10-31T11:22:49.077369+00:00"
+    },
+    "a549175641aa6bff": {
+      "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+      "fetched_at": "2026-10-31T16:28:07.264306+00:00"
+    },
+    "b37e64d1af39fb13": {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "fetched_at": "2026-10-31T16:28:07.896882+00:00"
+    },
+    "b9a72f4ca19b8cb8": {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "fetched_at": "2026-10-31T16:28:08.531308+00:00"
+    },
+    "5d90760b06c6fdb0": {
+      "title": "Ask HN: Are you using AI to do election choices like Mayor, Special Measures",
+      "fetched_at": "2026-10-31T16:28:09.160232+00:00"
+    },
+    "3a4bc844b38f5a07": {
+      "title": "How this AI Agent ended +$517.61 in profits during a 10% market sell-off",
+      "fetched_at": "2026-10-31T16:28:09.784894+00:00"
+    },
+    "b17d50874940c97f": {
+      "title": "Anthropic hacked by AI startup in less than 12hrs",
+      "fetched_at": "2026-10-31T16:28:10.410497+00:00"
+    },
+    "763f5607b68fb64a": {
+      "title": "Hans Moravec was right about AI. Is he right about the fate of humanity?",
+      "fetched_at": "2026-10-31T16:28:11.072412+00:00"
+    },
+    "8cde8d2729ddb298": {
+      "title": "Photo Studios Are Closing as the Fashion Industry Embraces Generative AI",
+      "fetched_at": "2026-10-31T16:28:11.700329+00:00"
+    },
+    "1b42b2f8e8d6ee8d": {
+      "title": "Ask HN: How are the other sciences using AI?",
+      "fetched_at": "2026-10-31T16:28:12.333499+00:00"
+    },
+    "696943b3964965e7": {
+      "title": "GAAC: Lossless KV Cache Compression for Faster LLM Inference",
+      "fetched_at": "2026-10-31T16:28:12.975189+00:00"
+    },
+    "45edd76ccd7c1144": {
+      "title": "Gandalf: Extending SSD Lifespan for LLM KV Cache Offloading",
+      "fetched_at": "2026-10-31T16:28:13.675341+00:00"
+    },
+    "19800fe77ed2a998": {
+      "title": "mobile-agent: faster mobile app iteration for AI coding agents",
+      "fetched_at": "2026-10-31T16:28:14.315355+00:00"
+    },
+    "fe2310ee9fdecd94": {
+      "title": "SBoM creator and Vulnerability scanner (Threatclaw.ai)",
+      "fetched_at": "2026-10-31T16:28:14.958692+00:00"
+    },
+    "3c6d12477cab574e": {
+      "title": "Goldman says AI layoffs are leaving 'long-lasting' scar, like the last 40 years",
+      "fetched_at": "2026-10-31T16:28:15.589776+00:00"
+    },
+    "d4400eb37fc32b3f": {
+      "title": "The mathematical sciences in an AI-enabled world",
+      "fetched_at": "2026-10-31T16:28:16.206757+00:00"
+    },
+    "8e7e12b28a13dbfd": {
+      "title": "AI Is a Coup by the Tasteless",
+      "fetched_at": "2026-10-31T16:28:16.843115+00:00"
+    },
+    "80ac7e785b3e0cb2": {
+      "title": "NatWest announces 1k more jobs cut after AI efficiency drive",
+      "fetched_at": "2026-10-31T16:28:17.474337+00:00"
+    },
+    "0f4ba0afd89a0f1f": {
+      "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
+      "fetched_at": "2026-10-31T16:28:18.110191+00:00"
+    },
+    "2bc0358d8c188a6a": {
+      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
+      "fetched_at": "2026-10-31T16:28:18.750604+00:00"
+    },
+    "d73e24d059730a63": {
+      "title": "Anthropic orders AI tool Claude to stop remaking video games",
+      "fetched_at": "2026-10-31T16:28:19.395593+00:00"
+    },
+    "094619f5ef65c5c6": {
+      "title": "蔣萬安、沈伯洋台北市長選舉辯論會交鋒",
+      "fetched_at": "2026-10-31T16:28:22.754264+00:00"
+    },
+    "b5f6e1b61f7168fc": {
+      "title": "巴黎騷亂中的三位華人：「激烈的地方激烈，安靜的地方安靜」",
+      "fetched_at": "2026-10-31T16:28:23.465562+00:00"
+    },
+    "a22ecb7f536ce698": {
+      "title": "Astronomers may have been wrong about what ended the 'Cosmic Dark Age'",
+      "fetched_at": "2026-10-31T16:28:41.859240+00:00"
+    },
+    "59ea78eb6bd0fd1e": {
+      "title": "Ghostly statue of 'shrine maiden' discovered at 1,500-year-old burial mound in Japan",
+      "fetched_at": "2026-10-31T16:28:42.496119+00:00"
+    },
+    "679f5c6ddd6515e0": {
+      "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+      "fetched_at": "2026-10-31T16:28:43.210343+00:00"
+    },
+    "889f483dff38f701": {
+      "title": "Scientists discover metals that defy the deep freeze at -424°F",
+      "fetched_at": "2026-10-31T16:28:43.855917+00:00"
+    },
+    "d46fe3577838b85c": {
+      "title": "75,000-year-old Neanderthal may have been killed by a spear aimed at the heart",
+      "fetched_at": "2026-10-31T16:28:44.506161+00:00"
+    },
+    "57cadb49a3f0ff79": {
+      "title": "Scientists discover a bacterial defense so strange they thought it was broken",
+      "fetched_at": "2026-10-31T16:28:45.141060+00:00"
+    },
+    "1c53e5c25b6f4f0a": {
+      "title": "A surprising vitamin A discovery is changing what scientists know about vision",
+      "fetched_at": "2026-10-31T16:28:45.787617+00:00"
+    },
+    "6bf216fbe75128d3": {
+      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+      "fetched_at": "2026-10-31T16:28:46.408496+00:00"
+    },
+    "6943540b8a2e31ff": {
+      "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+      "fetched_at": "2026-10-31T16:28:47.048547+00:00"
+    },
+    "1bfd32aa850032ea": {
+      "title": "Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation. But will it really work?",
+      "fetched_at": "2026-10-31T16:28:47.703842+00:00"
     }
   },
-  "last_updated": "2026-10-31T11:22:49.122096+00:00"
+  "last_updated": "2026-10-31T16:28:47.828977+00:00"
 }
