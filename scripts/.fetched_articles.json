@@ -1,13 +1,5 @@
 {
   "articles": {
-    "e7bc68dfb11cd8e1": {
-      "title": "在硅谷，遇见个人计算机历史",
-      "fetched_at": "2026-10-24T09:56:52.619879+00:00"
-    },
-    "e92e48dc3c181143": {
-      "title": "Why were the Nazca Lines built?",
-      "fetched_at": "2026-10-24T09:56:57.654415+00:00"
-    },
     "46a6027f14c11718": {
       "title": "AI Assistance Reduces Persistence and Hurts Independent Performance",
       "fetched_at": "2026-10-24T15:00:57.217797+00:00"
@@ -3147,7 +3139,119 @@
     "0c978e59397f8ed1": {
       "title": "'Most people can't handle driving in 2 dimensions let alone 3': Readers respond to our poll about flying cars",
       "fetched_at": "2026-11-01T03:01:19.056322+00:00"
+    },
+    "a1a5855d34c0921d": {
+      "title": "Context Mode – An Open-Source MCP Server That Reduces AI Coding Context Usage",
+      "fetched_at": "2026-11-01T12:14:02.086668+00:00"
+    },
+    "f7edaff1deb5717e": {
+      "title": "When AI Writes the Code, Show Your Judgment",
+      "fetched_at": "2026-11-01T12:14:02.725835+00:00"
+    },
+    "9b4c6cd62d1017b0": {
+      "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
+      "fetched_at": "2026-11-01T12:14:03.362549+00:00"
+    },
+    "f47d82f11b1fab0a": {
+      "title": "Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
+      "fetched_at": "2026-11-01T12:14:03.973424+00:00"
+    },
+    "43aae611860a1b25": {
+      "title": "Democracy Has a Learning Problem – The Long Listen",
+      "fetched_at": "2026-11-01T12:14:04.599363+00:00"
+    },
+    "8e3d00a83aaa21cf": {
+      "title": "AI Warning for Steam – Increases Visibility of AI Generated Content Disclosures",
+      "fetched_at": "2026-11-01T12:14:05.246050+00:00"
+    },
+    "7a92e71a2ab3803b": {
+      "title": "QwenPU: An LLM running inside another LLM's weights",
+      "fetched_at": "2026-11-01T12:14:05.880994+00:00"
+    },
+    "e451b35301ec92ad": {
+      "title": "Fruth – A semantic state inference engine for AI",
+      "fetched_at": "2026-11-01T12:14:06.497257+00:00"
+    },
+    "a86902fa4390bf81": {
+      "title": "Show HN: Rust crawler for SEO and content audits, with optional LLM review",
+      "fetched_at": "2026-11-01T12:14:07.142404+00:00"
+    },
+    "3182ad15d09d8805": {
+      "title": "What factors shapes the future of UX learning?",
+      "fetched_at": "2026-11-01T12:14:07.774452+00:00"
+    },
+    "8c00f91b088632b5": {
+      "title": "FreeGent: Free Agentic AI for Everyone",
+      "fetched_at": "2026-11-01T12:14:08.394266+00:00"
+    },
+    "f757fa5dff5cd57d": {
+      "title": "AI-driven layoffs are creating a new class of boomerang employees",
+      "fetched_at": "2026-11-01T12:14:09.054186+00:00"
+    },
+    "bbd0deeb6bbd4cdc": {
+      "title": "What operational task would you hand to a 7-day custom AI tool?",
+      "fetched_at": "2026-11-01T12:14:09.699137+00:00"
+    },
+    "c9e66c804fc1bf74": {
+      "title": "Early Career Researcher Responses to AI in Math",
+      "fetched_at": "2026-11-01T12:14:10.320544+00:00"
+    },
+    "ed2ba7f9fee5c794": {
+      "title": "Is AI Cheap Enough to Replace Developers?",
+      "fetched_at": "2026-11-01T12:14:10.937312+00:00"
+    },
+    "40a61bbe5a6916c8": {
+      "title": "Ghost in the machine: how AI is haunting the search for the supernatural",
+      "fetched_at": "2026-11-01T12:14:11.558576+00:00"
+    },
+    "dc2609f8f97769ec": {
+      "title": "Bubbuild/republic: A Python library for AI providers",
+      "fetched_at": "2026-11-01T12:14:12.186831+00:00"
+    },
+    "8ae2ee5578a6e9ea": {
+      "title": "Show HN: AnchorGit – Hardware-signed Git decision ledger for AI code",
+      "fetched_at": "2026-11-01T12:14:12.803900+00:00"
+    },
+    "01c423325edba84d": {
+      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "fetched_at": "2026-11-01T12:14:13.481641+00:00"
+    },
+    "363af8bf11a471ee": {
+      "title": "How to Live with AI",
+      "fetched_at": "2026-11-01T12:14:14.115710+00:00"
+    },
+    "b3fe7fd9799e4d82": {
+      "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
+      "fetched_at": "2026-11-01T12:14:16.801499+00:00"
+    },
+    "2ef9fd5240c3adb5": {
+      "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
+      "fetched_at": "2026-11-01T12:14:17.422397+00:00"
+    },
+    "3c93898d0a6cd45a": {
+      "title": "美國中期選舉2026：贏會贏在哪裏，輸會輸在哪裏？",
+      "fetched_at": "2026-11-01T12:14:18.064852+00:00"
+    },
+    "2a5f6d6ff4bb8901": {
+      "title": "Hubble and Webb spot something ghostly happening in the Cat's Head Nebula",
+      "fetched_at": "2026-11-01T12:14:19.897223+00:00"
+    },
+    "942dba4b7f354752": {
+      "title": "How do summers differ between Earth's hemispheres?",
+      "fetched_at": "2026-11-01T12:14:20.521866+00:00"
+    },
+    "c1ea5704dbdf5698": {
+      "title": "Scientists say a forgotten particle may explain why the universe exists",
+      "fetched_at": "2026-11-01T12:14:21.150355+00:00"
+    },
+    "5a729b8b7e0275f8": {
+      "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+      "fetched_at": "2026-11-01T12:14:21.787008+00:00"
+    },
+    "cd1cec88c3a8f83e": {
+      "title": "Christina Applegate misdiagnosis: Why can MS be difficult to diagnose?",
+      "fetched_at": "2026-11-01T12:14:22.443805+00:00"
     }
   },
-  "last_updated": "2026-11-01T03:01:19.102798+00:00"
+  "last_updated": "2026-11-01T12:14:22.560527+00:00"
 }
