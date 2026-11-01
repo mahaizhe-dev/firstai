@@ -1,161 +1,5 @@
 {
   "articles": {
-    "46a6027f14c11718": {
-      "title": "AI Assistance Reduces Persistence and Hurts Independent Performance",
-      "fetched_at": "2026-10-24T15:00:57.217797+00:00"
-    },
-    "27306c91453475fc": {
-      "title": "How AI Saved My Company From a 2-Year Litigation Nightmare",
-      "fetched_at": "2026-10-24T15:00:57.822280+00:00"
-    },
-    "ae8247135909567e": {
-      "title": "UX Research for AI Products: The AI-Native Research Lifecycle",
-      "fetched_at": "2026-10-24T15:00:58.423061+00:00"
-    },
-    "e6c8284703398085": {
-      "title": "With recent eMudra case, learning Cryptography well is more important that",
-      "fetched_at": "2026-10-24T15:00:58.991430+00:00"
-    },
-    "d57bf45b30076955": {
-      "title": "Show HN: TenseMem – deterministic memory for AI agents",
-      "fetched_at": "2026-10-24T15:00:59.562804+00:00"
-    },
-    "0bd250f24a17eaef": {
-      "title": "AegisKernel – Zero-Trust OS Syscall and Shell Defense for AI Agents",
-      "fetched_at": "2026-10-24T15:01:00.127541+00:00"
-    },
-    "e808c1121df13379": {
-      "title": "Show HN: Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)",
-      "fetched_at": "2026-10-24T15:01:00.715819+00:00"
-    },
-    "d658189b937713c1": {
-      "title": "AI gets about 10x cheaper every year",
-      "fetched_at": "2026-10-24T15:01:01.303076+00:00"
-    },
-    "64710cec39780fc1": {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "fetched_at": "2026-10-24T15:01:01.877324+00:00"
-    },
-    "0fcddbc2bfa1ddc0": {
-      "title": "US Air Force wants AI to assist aerial refueling",
-      "fetched_at": "2026-10-24T15:01:02.468153+00:00"
-    },
-    "2320bdeeeace1310": {
-      "title": "Is AI just another get rich quick scheme?",
-      "fetched_at": "2026-10-24T15:01:03.053772+00:00"
-    },
-    "a901350662e8524e": {
-      "title": "Regulate the deployment, not just the model: a who-does-what plan for AI safety",
-      "fetched_at": "2026-10-24T15:01:03.620939+00:00"
-    },
-    "9e1c35722b3a3ce8": {
-      "title": "Show HN: Mantid, a Mac app that lets non-ML people train their own AI models",
-      "fetched_at": "2026-10-24T15:01:04.198310+00:00"
-    },
-    "41594e4c534bba5e": {
-      "title": "AI gets more diagnoses right than generalist doctors in medical challenge",
-      "fetched_at": "2026-10-24T15:01:04.794129+00:00"
-    },
-    "e7679af9f1542cfe": {
-      "title": "What's Wrong with AI?",
-      "fetched_at": "2026-10-24T15:01:05.358317+00:00"
-    },
-    "a27d3c5db4b0da78": {
-      "title": "Minimum lot sizes, Boeing's next 737 MAX, Fervo short sellers, Figure AI's data",
-      "fetched_at": "2026-10-24T15:01:05.941326+00:00"
-    },
-    "744faead1e5bfd7f": {
-      "title": "Shigeru Miyamoto on Gen AI",
-      "fetched_at": "2026-10-24T15:01:06.515769+00:00"
-    },
-    "ef3b494cf5b6b16d": {
-      "title": "Draggy: A Windows desktop app for local and cloud AI chat and coding",
-      "fetched_at": "2026-10-24T15:01:07.082870+00:00"
-    },
-    "224eee15df3bc683": {
-      "title": "Show HN: AI text detector that never sees your text (runs 100% in-browser)",
-      "fetched_at": "2026-10-24T15:01:07.652688+00:00"
-    },
-    "b3ddc198a2ea6cfa": {
-      "title": "Is This Machine Playing?",
-      "fetched_at": "2026-10-24T15:01:08.234166+00:00"
-    },
-    "21c90466338c297b": {
-      "title": "AI giants are one big mistake away from catastrophe. They could learn a lot from the nuclear industry.",
-      "fetched_at": "2026-10-24T15:01:15.070941+00:00"
-    },
-    "9243d156c749d70d": {
-      "title": "Watch the full 'Hunter's Moon' rise next to Saturn this weekend",
-      "fetched_at": "2026-10-24T15:01:15.644165+00:00"
-    },
-    "019708693f9de08a": {
-      "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
-      "fetched_at": "2026-10-24T15:01:16.220223+00:00"
-    },
-    "ef920756395f312e": {
-      "title": "A hidden bias in human language challenges 70 years of science",
-      "fetched_at": "2026-10-24T15:01:16.801705+00:00"
-    },
-    "02372efece732115": {
-      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-      "fetched_at": "2026-10-24T15:01:17.375050+00:00"
-    },
-    "7475011deddfa670": {
-      "title": "Scientists propose a way to detect dangerous “mirror life” before it exists",
-      "fetched_at": "2026-10-24T15:01:17.956817+00:00"
-    },
-    "c5ade46ae7e3351b": {
-      "title": "Astronomers uncover a mysterious magnetic web above the Sun",
-      "fetched_at": "2026-10-24T15:01:18.530943+00:00"
-    },
-    "e134cfc224830e1e": {
-      "title": "These tiny snakes roll four times faster than they slither",
-      "fetched_at": "2026-10-24T15:01:19.099575+00:00"
-    },
-    "c7b44a5817b3db96": {
-      "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
-      "fetched_at": "2026-10-24T15:01:19.683800+00:00"
-    },
-    "8772574a81dec12f": {
-      "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
-      "fetched_at": "2026-10-24T15:01:20.258193+00:00"
-    },
-    "50139d2e115f2bf9": {
-      "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
-      "fetched_at": "2026-10-24T15:01:20.842044+00:00"
-    },
-    "fe55e197dff29f87": {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "fetched_at": "2026-10-24T19:58:44.631685+00:00"
-    },
-    "5ec3f85b386a3e39": {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "fetched_at": "2026-10-24T19:58:45.250978+00:00"
-    },
-    "335974c2c30ceb19": {
-      "title": "Block’s new voice model sounds eerily human",
-      "fetched_at": "2026-10-24T19:58:45.873914+00:00"
-    },
-    "70f40af3da9ea58a": {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "fetched_at": "2026-10-24T19:58:46.508758+00:00"
-    },
-    "7d8e13a1684c3fd0": {
-      "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
-      "fetched_at": "2026-10-24T19:58:49.982864+00:00"
-    },
-    "9e79b192d24d12e1": {
-      "title": "「我今年12歲，該嘗試蛋白粉嗎？」",
-      "fetched_at": "2026-10-24T19:58:50.629166+00:00"
-    },
-    "8504a1713f530660": {
-      "title": "美沙冬是毒還是藥？從香港經驗看台灣選戰戒毒爭議",
-      "fetched_at": "2026-10-24T19:58:51.268737+00:00"
-    },
-    "3c1a5fb5fb2c2a84": {
-      "title": "Astronomers discover the first-ever green star, plus the reddest 'white dwarf' ever seen",
-      "fetched_at": "2026-10-24T19:58:53.469227+00:00"
-    },
     "9b9eecb1b1a4d403": {
       "title": "AI Performance in the Security Theater",
       "fetched_at": "2026-10-25T02:08:50.489801+00:00"
@@ -3251,7 +3095,115 @@
     "cd1cec88c3a8f83e": {
       "title": "Christina Applegate misdiagnosis: Why can MS be difficult to diagnose?",
       "fetched_at": "2026-11-01T12:14:22.443805+00:00"
+    },
+    "930ae30bc9e372ff": {
+      "title": "Commodore 64 AI Image Generator",
+      "fetched_at": "2026-11-01T21:27:49.822697+00:00"
+    },
+    "2d104a26e3c861a9": {
+      "title": "About Platform Engineering and AI",
+      "fetched_at": "2026-11-01T21:27:50.445497+00:00"
+    },
+    "ac888cf84c87df8a": {
+      "title": "Gnosh.ai for \"Functional AI\"; functional context management, no compaction",
+      "fetched_at": "2026-11-01T21:27:51.064327+00:00"
+    },
+    "4138c64c56ede622": {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "fetched_at": "2026-11-01T21:27:51.690454+00:00"
+    },
+    "cb29abe84f960802": {
+      "title": "Turn Superlogical's Rex into an AI Harness",
+      "fetched_at": "2026-11-01T21:27:52.323042+00:00"
+    },
+    "b4cce11169d21568": {
+      "title": "Show HN: Castov – A local-first desktop automation engine using local AI",
+      "fetched_at": "2026-11-01T21:27:52.966821+00:00"
+    },
+    "a7affc639133d91b": {
+      "title": "Writing Is Magic; Machine Writing Is Ash",
+      "fetched_at": "2026-11-01T21:27:53.595755+00:00"
+    },
+    "a87ac43124cca872": {
+      "title": "Slop Code Monitor – scanned 2.6B of code to quantify AI cognitive debt",
+      "fetched_at": "2026-11-01T21:27:54.219931+00:00"
+    },
+    "edd184d737714794": {
+      "title": "Ask HN: What mistakes did AI make in your codebase?",
+      "fetched_at": "2026-11-01T21:27:54.837894+00:00"
+    },
+    "15aa41ce038df127": {
+      "title": "\"AI for everyone would cost a tenth of a kettle a day",
+      "fetched_at": "2026-11-01T21:27:55.465531+00:00"
+    },
+    "8e53e6e661f632a5": {
+      "title": "Versuscraft: Fact-checked AI comparison posts for dev tools",
+      "fetched_at": "2026-11-01T21:27:56.113629+00:00"
+    },
+    "36f7cc9eb2203eab": {
+      "title": "It wasn't AI that flipped Proton's charge",
+      "fetched_at": "2026-11-01T21:27:56.742813+00:00"
+    },
+    "40e72d17ec8953e5": {
+      "title": "VisionQuest is what happens when AI goes rogue",
+      "fetched_at": "2026-11-01T21:27:57.359081+00:00"
+    },
+    "d18fc84f87c4d8b6": {
+      "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
+      "fetched_at": "2026-11-01T21:27:57.973774+00:00"
+    },
+    "55f1f82cce8da334": {
+      "title": "Making it easier for websites to express AI training preferences",
+      "fetched_at": "2026-11-01T21:27:58.594301+00:00"
+    },
+    "18fb3215045c9a9d": {
+      "title": "I didn't hand my NPM updates to an AI",
+      "fetched_at": "2026-11-01T21:27:59.224308+00:00"
+    },
+    "81428d0030094477": {
+      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+      "fetched_at": "2026-11-01T21:27:59.869242+00:00"
+    },
+    "5df33ab73df68caf": {
+      "title": "Hot take: AI skills getting obsolete after months",
+      "fetched_at": "2026-11-01T21:28:00.494543+00:00"
+    },
+    "08c5d1881a6077d1": {
+      "title": "一图流 | 一张图看懂中国版 Apple 智能",
+      "fetched_at": "2026-11-01T21:28:01.125349+00:00"
+    },
+    "6ae6c5d2157d95b5": {
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "fetched_at": "2026-11-01T21:28:01.125487+00:00"
+    },
+    "2b5d4dd5ea362d23": {
+      "title": "德國生活成本抗議演變成暴力事件 商店遭洗劫",
+      "fetched_at": "2026-11-01T21:28:04.392456+00:00"
+    },
+    "97ebea063974b8e1": {
+      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "fetched_at": "2026-11-01T21:30:31.868640+00:00"
+    },
+    "8b307e465b5f491f": {
+      "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+      "fetched_at": "2026-11-01T21:30:32.481970+00:00"
+    },
+    "84165d22a7b2007f": {
+      "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
+      "fetched_at": "2026-11-01T21:30:33.110953+00:00"
+    },
+    "0abeab5b0a79f849": {
+      "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+      "fetched_at": "2026-11-01T21:30:33.732110+00:00"
+    },
+    "b80f126e0b55f3a0": {
+      "title": "Astronomers make startling discovery of a possible dwarf planet beyond Pluto",
+      "fetched_at": "2026-11-01T21:30:34.380194+00:00"
+    },
+    "e92e48dc3c181143": {
+      "title": "Why were the Nazca Lines built?",
+      "fetched_at": "2026-11-01T21:30:35.002927+00:00"
     }
   },
-  "last_updated": "2026-11-01T12:14:22.560527+00:00"
+  "last_updated": "2026-11-01T21:30:35.121414+00:00"
 }
