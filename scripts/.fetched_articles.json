@@ -1,97 +1,5 @@
 {
   "articles": {
-    "9b9eecb1b1a4d403": {
-      "title": "AI Performance in the Security Theater",
-      "fetched_at": "2026-10-25T02:08:50.489801+00:00"
-    },
-    "234467119b448900": {
-      "title": "OneMemory – self-hosted shared memory for AI agents over MCP",
-      "fetched_at": "2026-10-25T02:08:51.121935+00:00"
-    },
-    "a80d05eabb9d8204": {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "fetched_at": "2026-10-25T02:08:51.729737+00:00"
-    },
-    "145eabdaf402d164": {
-      "title": "Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21",
-      "fetched_at": "2026-10-25T02:08:52.364548+00:00"
-    },
-    "2646e6e7a9f5b9f6": {
-      "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
-      "fetched_at": "2026-10-25T02:08:52.364634+00:00"
-    },
-    "84fcbb9d4c7eea78": {
-      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-      "fetched_at": "2026-10-25T02:08:52.973706+00:00"
-    },
-    "c91cd44ad2da0ccf": {
-      "title": "Rin Chat – An Easy to Use AI Roleplay App",
-      "fetched_at": "2026-10-25T02:08:53.595932+00:00"
-    },
-    "b945399a926330a7": {
-      "title": "Your tokens aren't valuable: No more AI",
-      "fetched_at": "2026-10-25T02:08:54.214804+00:00"
-    },
-    "f8af8f1d806a80e8": {
-      "title": "Show HN: Omni Verify, my AI agent can't post until Kane checks every promise",
-      "fetched_at": "2026-10-25T02:08:54.842227+00:00"
-    },
-    "69a17be37c2979da": {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "fetched_at": "2026-10-25T02:08:55.541079+00:00"
-    },
-    "0d844e2e21bb81c5": {
-      "title": "What we learned making 12 apps usable by AI agents with WebMCP",
-      "fetched_at": "2026-10-25T02:08:56.170206+00:00"
-    },
-    "0447790b82995582": {
-      "title": "AI Generated launch videos are starting to get insane",
-      "fetched_at": "2026-10-25T02:08:56.805590+00:00"
-    },
-    "c006566596ad40c8": {
-      "title": "AI Is Planning to Kill You",
-      "fetched_at": "2026-10-25T02:08:57.461686+00:00"
-    },
-    "4a6f82eb2e82aa9a": {
-      "title": "Kevlar = MCP Firewall for LLM's",
-      "fetched_at": "2026-10-25T02:08:58.094539+00:00"
-    },
-    "1687ce58ee5a28fb": {
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "fetched_at": "2026-10-25T02:08:58.704941+00:00"
-    },
-    "47f464561e96b2aa": {
-      "title": "OpenAI says it will no longer train its AI models on the live internet",
-      "fetched_at": "2026-10-25T02:08:58.705043+00:00"
-    },
-    "6505c8039875d10e": {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "fetched_at": "2026-10-25T02:08:59.336052+00:00"
-    },
-    "b6ef8a45a897f412": {
-      "title": "Ask HN: Any real cases where AI slop ruined a codebase and forced a rewrite?",
-      "fetched_at": "2026-10-25T02:09:00.014952+00:00"
-    },
-    "6435e3435f472a79": {
-      "title": "Making My Blog Readable by AI Agents",
-      "fetched_at": "2026-10-25T02:09:00.657415+00:00"
-    },
-    "91ae79e5ad3e5c42": {
-      "title": "Sevenbox, find what an AI agent's wrong decision affected",
-      "fetched_at": "2026-10-25T02:09:01.272906+00:00"
-    },
-    "67448449bf47cbb3": {
-      "title": "日本以舉辦世界級活動聞名，但名古屋亞運卻是一片混亂",
-      "fetched_at": "2026-10-25T02:09:04.763357+00:00"
-    },
-    "72d3e87e75e74075": {
-      "title": "住着一群代孕孩子，美國加州的豪宅如何變成「恐怖之家」？",
-      "fetched_at": "2026-10-25T02:09:05.377456+00:00"
-    },
-    "5019f15423a90d6e": {
-      "title": "Fossil of 'unconquered female warrior' dinosaur with long claws found in UK museum drawer after 100 years",
-      "fetched_at": "2026-10-25T02:09:08.579375+00:00"
-    },
     "2afff2b1a61b444c": {
       "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
       "fetched_at": "2026-10-25T10:19:37.721248+00:00"
@@ -3203,7 +3111,123 @@
     "e92e48dc3c181143": {
       "title": "Why were the Nazca Lines built?",
       "fetched_at": "2026-11-01T21:30:35.002927+00:00"
+    },
+    "d723acfc30d93bc3": {
+      "title": "Reason you should still learn Machine Learning/Deep Learning, etc.",
+      "fetched_at": "2026-11-02T03:10:58.905156+00:00"
+    },
+    "6f09ad5613bf5345": {
+      "title": "New AI-driven malware feeds stolen data to Claude to rank victims' assets",
+      "fetched_at": "2026-11-02T03:10:59.527627+00:00"
+    },
+    "5f0c65324436ff41": {
+      "title": "How to Model \"Taarof\" with AI [video]",
+      "fetched_at": "2026-11-02T03:11:00.185065+00:00"
+    },
+    "8cb3de8e2a93368c": {
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "fetched_at": "2026-11-02T03:11:00.809102+00:00"
+    },
+    "27a7a39479170e69": {
+      "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+      "fetched_at": "2026-11-02T03:11:01.510572+00:00"
+    },
+    "4d31870040e92ed8": {
+      "title": "Zhipu AI: China's Enterprise AI Champion [video]",
+      "fetched_at": "2026-11-02T03:11:02.160797+00:00"
+    },
+    "aa4818205b4efc90": {
+      "title": "Show HN: Skep – live cross-device sessions for AI coding agents",
+      "fetched_at": "2026-11-02T03:11:02.799295+00:00"
+    },
+    "456556cb1664759d": {
+      "title": "Competition in Generative AI: Evidence from Consumer Demand (NBER)",
+      "fetched_at": "2026-11-02T03:11:03.467660+00:00"
+    },
+    "8158e84f4be861c0": {
+      "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
+      "fetched_at": "2026-11-02T03:11:04.099505+00:00"
+    },
+    "5ccada933a0ac676": {
+      "title": "How Small Can We Slice an AI Model?",
+      "fetched_at": "2026-11-02T03:11:04.714461+00:00"
+    },
+    "f9f54a7639a3db6e": {
+      "title": "In LLM era, can software startup survive?",
+      "fetched_at": "2026-11-02T03:11:05.335089+00:00"
+    },
+    "791df271c66a4c0f": {
+      "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+      "fetched_at": "2026-11-02T03:11:05.964913+00:00"
+    },
+    "73b015a44a648e96": {
+      "title": "AI Nerfs: Are Claude, ChatGPT, and Gemini Nerfed Today?",
+      "fetched_at": "2026-11-02T03:11:06.616195+00:00"
+    },
+    "dad392917e502e0d": {
+      "title": "Empires of AI – By Eric Schmidt and Niall Ferguson",
+      "fetched_at": "2026-11-02T03:11:07.247682+00:00"
+    },
+    "cc96f81b0206b2e1": {
+      "title": "An AI runs a tiny web studio with a year to earn its existence",
+      "fetched_at": "2026-11-02T03:11:07.877424+00:00"
+    },
+    "736b688b9862fb7d": {
+      "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
+      "fetched_at": "2026-11-02T03:11:08.499524+00:00"
+    },
+    "8894f4639a4f10ac": {
+      "title": "OpenEaNasir: Public-domain machine translations of the famous copper complaint",
+      "fetched_at": "2026-11-02T03:11:09.129236+00:00"
+    },
+    "390083dd264b2fb1": {
+      "title": "Hackers could poison AI models by tampering with core infrastructure",
+      "fetched_at": "2026-11-02T03:11:09.761584+00:00"
+    },
+    "132d8bd569b5fcf7": {
+      "title": "Argentina most exposed to AI impact in Latin America",
+      "fetched_at": "2026-11-02T03:11:10.389837+00:00"
+    },
+    "3f3733d6562d1e97": {
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "fetched_at": "2026-11-02T03:11:11.012794+00:00"
+    },
+    "d370dda02b3ce653": {
+      "title": "中国前副总理刘延东去世：跻身共产党高层的少数女性之一",
+      "fetched_at": "2026-11-02T03:11:14.255083+00:00"
+    },
+    "e024665d919ba629": {
+      "title": "中国企业推出人工智能灭蚊设备",
+      "fetched_at": "2026-11-02T03:11:14.870946+00:00"
+    },
+    "a6f3ac89977e87dd": {
+      "title": "日剧《Vivant》被指“辱华”，三丽鸥取消联名合作",
+      "fetched_at": "2026-11-02T03:11:15.483040+00:00"
+    },
+    "891ab77f893071f6": {
+      "title": "人工智能泡沫將爆破？這群「新雲端」公司正加劇市場擔憂",
+      "fetched_at": "2026-11-02T03:11:16.106575+00:00"
+    },
+    "4658a744445151cc": {
+      "title": "不得要求房客清潔——Airbnb的新守則如何引發分歧",
+      "fetched_at": "2026-11-02T03:11:16.802287+00:00"
+    },
+    "8504a1713f530660": {
+      "title": "美沙冬是毒還是藥？從香港經驗看台灣選戰戒毒爭議",
+      "fetched_at": "2026-11-02T03:11:17.444792+00:00"
+    },
+    "21c90466338c297b": {
+      "title": "AI giants are one big mistake away from catastrophe. They could learn a lot from the nuclear industry.",
+      "fetched_at": "2026-11-02T03:11:19.425735+00:00"
+    },
+    "9243d156c749d70d": {
+      "title": "Watch the full 'Hunter's Moon' rise next to Saturn this weekend",
+      "fetched_at": "2026-11-02T03:11:20.080340+00:00"
+    },
+    "ef920756395f312e": {
+      "title": "A hidden bias in human language challenges 70 years of science",
+      "fetched_at": "2026-11-02T03:11:20.700009+00:00"
     }
   },
-  "last_updated": "2026-11-01T21:30:35.121414+00:00"
+  "last_updated": "2026-11-02T03:11:20.750372+00:00"
 }
