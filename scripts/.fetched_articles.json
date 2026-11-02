@@ -1,37 +1,5 @@
 {
   "articles": {
-    "2afff2b1a61b444c": {
-      "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
-      "fetched_at": "2026-10-25T10:19:37.721248+00:00"
-    },
-    "4b4761163caeba48": {
-      "title": "觀鳥如何重塑大腦，延緩認知衰退？",
-      "fetched_at": "2026-10-25T10:19:40.816010+00:00"
-    },
-    "07992f1fae3de1b7": {
-      "title": "法國再爆大規模示威近千人被捕 當局力阻重演上週暴亂",
-      "fetched_at": "2026-10-25T10:19:41.438783+00:00"
-    },
-    "0809b44fb60667b4": {
-      "title": "Cosmic 'seagull' locks eyes with the Vera C. Rubin Observatory in long-awaited test image",
-      "fetched_at": "2026-10-25T10:19:43.538967+00:00"
-    },
-    "d2f0179291c24074": {
-      "title": "How purported tales of consuming vampire blood and organs spread in the 18th century",
-      "fetched_at": "2026-10-25T10:19:44.162319+00:00"
-    },
-    "8f109872ac9c33ff": {
-      "title": "What happened when humans encountered Gigantopithecus?",
-      "fetched_at": "2026-10-25T10:19:44.781629+00:00"
-    },
-    "0247a35e3382f6eb": {
-      "title": "Archaeologists discover the oldest dwelling in the Western Hemisphere at a 13,800-year-old site in Alaska",
-      "fetched_at": "2026-10-25T10:19:45.406783+00:00"
-    },
-    "fdc2d798a239cb67": {
-      "title": "Physicists froze a 'necklace' of atoms — and witnessed a quantum phenomenon predicted 100 years ago",
-      "fetched_at": "2026-10-25T10:19:46.045339+00:00"
-    },
     "ac3a6f5d1d1b769f": {
       "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
       "fetched_at": "2026-10-25T15:12:01.438419+00:00"
@@ -3227,7 +3195,151 @@
     "ef920756395f312e": {
       "title": "A hidden bias in human language challenges 70 years of science",
       "fetched_at": "2026-11-02T03:11:20.700009+00:00"
+    },
+    "68af90541d6a6ca3": {
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "fetched_at": "2026-11-02T14:03:55.587075+00:00"
+    },
+    "1725d984677019ac": {
+      "title": "Show HN: Maat – AI agents that can diagnose Ubuntu but can't change it",
+      "fetched_at": "2026-11-02T14:03:56.219695+00:00"
+    },
+    "88460637e31fa698": {
+      "title": "Why I'm experimenting with 25 small AI tools instead of building another SaaS",
+      "fetched_at": "2026-11-02T14:03:56.829931+00:00"
+    },
+    "557b5b47220191eb": {
+      "title": "AI solution for reshooting video. edit a transcript and the video matches",
+      "fetched_at": "2026-11-02T14:03:57.492247+00:00"
+    },
+    "35db9f6650e74a55": {
+      "title": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
+      "fetched_at": "2026-11-02T14:03:58.102208+00:00"
+    },
+    "baf20d7ca39330b2": {
+      "title": "Improve AI Visibility",
+      "fetched_at": "2026-11-02T14:03:58.718957+00:00"
+    },
+    "1bb798291899631b": {
+      "title": "23andMe Plans to Use AI to Fight Disease [video]",
+      "fetched_at": "2026-11-02T14:03:59.381159+00:00"
+    },
+    "722ddb16d8aff841": {
+      "title": "The $1.8B Bet on AI and Biology [video]",
+      "fetched_at": "2026-11-02T14:03:59.991601+00:00"
+    },
+    "eed1f9ff92b43f1c": {
+      "title": "Vending machine has terms and conditions you must accept before using [video]",
+      "fetched_at": "2026-11-02T14:04:00.605004+00:00"
+    },
+    "7497643876bb5a13": {
+      "title": "Pure HTML just works and beats AI Slop (YouTube) (Hayyoth)",
+      "fetched_at": "2026-11-02T14:04:01.240180+00:00"
+    },
+    "217203b404974e89": {
+      "title": "What a Swedish Mammography Trial Shows About Medical AI",
+      "fetched_at": "2026-11-02T14:04:01.850964+00:00"
+    },
+    "35246acec7579958": {
+      "title": "HelpPuff – AI site chat your coding agent deploys to your Cloudflare",
+      "fetched_at": "2026-11-02T14:04:02.441722+00:00"
+    },
+    "5132c82b66e48eca": {
+      "title": "Taghash launches AI assistant Brain for investment funds",
+      "fetched_at": "2026-11-02T14:04:03.067908+00:00"
+    },
+    "4100b349cc32ab3a": {
+      "title": "Last night an AI agent performed brain surgery on a mouse",
+      "fetched_at": "2026-11-02T14:04:03.678030+00:00"
+    },
+    "2447ff278f38db01": {
+      "title": "The AI Agent Memory Stack: Building Blocks, Patterns, and Frameworks",
+      "fetched_at": "2026-11-02T14:04:04.289233+00:00"
+    },
+    "5207ab1f8c61310d": {
+      "title": "MCP-warden AI agents use your API keys without seeing them",
+      "fetched_at": "2026-11-02T14:04:04.890169+00:00"
+    },
+    "b532ed0571d19d38": {
+      "title": "Ask HN: What is your backup plan when AI companies rug pull their prices?",
+      "fetched_at": "2026-11-02T14:04:05.486597+00:00"
+    },
+    "0c255e08be34131a": {
+      "title": "Conveyor-Belt Diffusion LLM: 96-slot future content planning and grammar filling",
+      "fetched_at": "2026-11-02T14:04:06.134232+00:00"
+    },
+    "4e0c5e349da5ae07": {
+      "title": "Show Your ID to Use ChatGPT? How New York's New AI Law Ends Online Anonymity",
+      "fetched_at": "2026-11-02T14:04:06.739805+00:00"
+    },
+    "cd51c2b145db8ac2": {
+      "title": "AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
+      "fetched_at": "2026-11-02T14:04:07.375865+00:00"
+    },
+    "98f15a7a321f6e09": {
+      "title": "美國對以色列的支持如何成為選舉爭議焦點",
+      "fetched_at": "2026-11-02T14:04:09.951067+00:00"
+    },
+    "ca895dbc2e1683bc": {
+      "title": "姆巴佩的中國「烏龍」：毛澤東玩笑為何讓網民震怒？",
+      "fetched_at": "2026-11-02T14:04:10.597248+00:00"
+    },
+    "db3e04fec2e558a4": {
+      "title": "美國中期選舉：民調顯示民主黨將取得勝利，但預測還準確嗎？",
+      "fetched_at": "2026-11-02T14:04:11.227879+00:00"
+    },
+    "12cc6eb3c623c35d": {
+      "title": "台灣地方選舉：四成「陸配」參選遭剔除，「法理死結」如何困住參政之路？",
+      "fetched_at": "2026-11-02T14:04:11.850552+00:00"
+    },
+    "6c74e296244c0765": {
+      "title": "币安63亿美元黑客攻击事件始末",
+      "fetched_at": "2026-11-02T14:04:12.477282+00:00"
+    },
+    "146f387702336fb0": {
+      "title": "在天安门屠杀现场，我目睹了中国人民非凡的勇气",
+      "fetched_at": "2026-11-02T14:04:13.076501+00:00"
+    },
+    "ccb3642a29525de7": {
+      "title": "失言、发怒、关注“屁股”：特朗普的言论变得更粗俗",
+      "fetched_at": "2026-11-02T14:04:13.700093+00:00"
+    },
+    "72d3e87e75e74075": {
+      "title": "住着一群代孕孩子，美國加州的豪宅如何變成「恐怖之家」？",
+      "fetched_at": "2026-11-02T14:04:14.300907+00:00"
+    },
+    "f5b9f26e9749614a": {
+      "title": "'Now you actually have a blood test': Psychiatry's bible, the DSM, is getting upgraded to include biological markers. A psychiatrist explains what that means for mental health.",
+      "fetched_at": "2026-11-02T14:04:19.466208+00:00"
+    },
+    "0af9788816948fe0": {
+      "title": "Lycurgus Cup: A Roman glass goblet made with ancient color-changing nanotechnology",
+      "fetched_at": "2026-11-02T14:04:20.091629+00:00"
+    },
+    "ccc7cb1726d8c0ad": {
+      "title": "Blue whales have gone missing off the Galápagos. Scientists think El Niño could be why.",
+      "fetched_at": "2026-11-02T14:04:20.692318+00:00"
+    },
+    "f649113f34dd8457": {
+      "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+      "fetched_at": "2026-11-02T14:04:21.305172+00:00"
+    },
+    "1ef8e381dc4845e4": {
+      "title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
+      "fetched_at": "2026-11-02T14:04:21.918408+00:00"
+    },
+    "6dc2c80e1f54b198": {
+      "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
+      "fetched_at": "2026-11-02T14:04:22.515745+00:00"
+    },
+    "73763428916d83c4": {
+      "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
+      "fetched_at": "2026-11-02T14:04:23.143032+00:00"
+    },
+    "340f9c06a2878d29": {
+      "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
+      "fetched_at": "2026-11-02T14:04:23.738704+00:00"
     }
   },
-  "last_updated": "2026-11-02T03:11:20.750372+00:00"
+  "last_updated": "2026-11-02T14:04:23.835537+00:00"
 }
