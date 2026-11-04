@@ -1,125 +1,5 @@
 {
   "articles": {
-    "c1f161504f125c32": {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "fetched_at": "2026-10-27T11:12:39.703437+00:00"
-    },
-    "a94863afe938e892": {
-      "title": "AI promised less work. I've never worked more",
-      "fetched_at": "2026-10-27T11:12:40.339409+00:00"
-    },
-    "3672ed87afcdc97a": {
-      "title": "Meet The AI Agents Trying to Be Real-Life Journalists",
-      "fetched_at": "2026-10-27T11:12:40.955186+00:00"
-    },
-    "b9974508aa13153b": {
-      "title": "Highlighting What Changed: A Go Diff-Mask for AI Agent Screenshots",
-      "fetched_at": "2026-10-27T11:12:41.582461+00:00"
-    },
-    "303fd6383e4ae0a6": {
-      "title": "Show HN: HypeSeoul – AI-painted isometric map of Seoul that runs on Seoul time",
-      "fetched_at": "2026-10-27T11:12:42.214887+00:00"
-    },
-    "53cb23dcecf508b2": {
-      "title": "MCP-warden local credential broker so AI agents never see your secrets",
-      "fetched_at": "2026-10-27T11:12:42.214979+00:00"
-    },
-    "320e054c7a66a15e": {
-      "title": "GDPR change lets companies train AI on Europeans' personal data without consent",
-      "fetched_at": "2026-10-27T11:12:42.835683+00:00"
-    },
-    "42c5f49e3141c17b": {
-      "title": "Keeping API keys out of our AI agent's sandbox, and what that doesn't solve",
-      "fetched_at": "2026-10-27T11:12:43.456558+00:00"
-    },
-    "42c939eff4bf9df7": {
-      "title": "Data center backlash is uniting America",
-      "fetched_at": "2026-10-27T11:12:44.098020+00:00"
-    },
-    "1aee092efed65c9c": {
-      "title": "Show HN: Imp, an LLM Server for RTX 50 GPUs, Written by Claude Code",
-      "fetched_at": "2026-10-27T11:12:44.723574+00:00"
-    },
-    "9b34d8d5452eac3d": {
-      "title": "1 in 8B – An AI-Powered Life Simulator",
-      "fetched_at": "2026-10-27T11:12:45.362595+00:00"
-    },
-    "fd0d8da68e24201e": {
-      "title": "I tested 12 small AI models on 2,500 design-system questions",
-      "fetched_at": "2026-10-27T11:12:45.985046+00:00"
-    },
-    "799f6b80f09855da": {
-      "title": "RFC AI Tooling: 40x fewer tokens while reading the RFC corpus",
-      "fetched_at": "2026-10-27T11:12:46.612423+00:00"
-    },
-    "7d45130079a95511": {
-      "title": "Putting the Cart Before the AI",
-      "fetched_at": "2026-10-27T11:12:47.233854+00:00"
-    },
-    "e85b1df306ac18aa": {
-      "title": "Ask HN: Can we do something about this impending AI dystopia",
-      "fetched_at": "2026-10-27T11:12:47.855310+00:00"
-    },
-    "a9f0a7b231ad0469": {
-      "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
-      "fetched_at": "2026-10-27T11:12:48.479573+00:00"
-    },
-    "f927655ddd7fdadb": {
-      "title": "Offcut, design furniture by chatting with AI",
-      "fetched_at": "2026-10-27T11:12:49.184444+00:00"
-    },
-    "13e7bfcdc53f57f2": {
-      "title": "Just Eat apologises for AI food mistakes",
-      "fetched_at": "2026-10-27T11:12:49.800012+00:00"
-    },
-    "66b5cc9f936d59c4": {
-      "title": "AI is ruining haunted houses",
-      "fetched_at": "2026-10-27T11:12:50.438467+00:00"
-    },
-    "2b26bbcce95a4325": {
-      "title": "Police Pulling People over Because AI Deems Their Driving Patterns Suspicious",
-      "fetched_at": "2026-10-27T11:12:51.069914+00:00"
-    },
-    "03a739214ec0bc39": {
-      "title": "姆巴佩陷入「中國獨裁者」迷因風波：品牌解約、央視停播",
-      "fetched_at": "2026-10-27T11:12:53.568098+00:00"
-    },
-    "0a4698d3382c5d4d": {
-      "title": "武契奇14年執政落幕，中塞「鐵桿友誼」何去何從？",
-      "fetched_at": "2026-10-27T11:12:54.202835+00:00"
-    },
-    "47d9048cf524c4e5": {
-      "title": "「盧拉軍團」的WhatsApp聊天群如何扭轉巴西選情",
-      "fetched_at": "2026-10-27T11:12:54.811124+00:00"
-    },
-    "4e4b4f9fdd327960": {
-      "title": "英國人會改變對梅根的看法嗎？",
-      "fetched_at": "2026-10-27T11:12:55.470027+00:00"
-    },
-    "9d8f2d3e0cf6e677": {
-      "title": "Anthropic上市关乎什么？几乎所有一切",
-      "fetched_at": "2026-10-27T11:12:56.105980+00:00"
-    },
-    "930cc9940a71a5ba": {
-      "title": "可能拯救美国制造业的台积电工厂",
-      "fetched_at": "2026-10-27T11:12:56.739704+00:00"
-    },
-    "d45b70e64d204997": {
-      "title": "关乎美国国运的一次中期选举",
-      "fetched_at": "2026-10-27T11:12:57.348276+00:00"
-    },
-    "d93c728aa129a0e6": {
-      "title": "Ten Times I Bowed to the Genius of Ancient Indian Gurus (and Still Counting)",
-      "fetched_at": "2026-10-27T11:13:08.814351+00:00"
-    },
-    "606efb5597cffc1d": {
-      "title": "A psychologist explains his theory for why orcas are attacking boats",
-      "fetched_at": "2026-10-27T11:13:09.505586+00:00"
-    },
-    "2bda72e2083462df": {
-      "title": "Solving an ancient cold case: Roman was brutally murdered",
-      "fetched_at": "2026-10-27T11:13:10.128916+00:00"
-    },
     "96a6f530740fde27": {
       "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
       "fetched_at": "2026-10-27T16:58:27.190386+00:00"
@@ -3287,7 +3167,167 @@
     "388a4b18c11d408f": {
       "title": "Colorectal cancer cases in kids have risen sixfold over past 2 decades ‪—‬ researchers are racing to understand why",
       "fetched_at": "2026-11-04T03:46:56.689385+00:00"
+    },
+    "786c76e7d2a950e6": {
+      "title": "I got banned from Lobsters for writing like an LLM",
+      "fetched_at": "2026-11-04T13:26:02.153616+00:00"
+    },
+    "a64a474adcc8b39e": {
+      "title": "Block training, keep answers? What 13,938 sites ask of AI bots",
+      "fetched_at": "2026-11-04T13:26:02.855664+00:00"
+    },
+    "c357ba170e38d5de": {
+      "title": "Show HN: Gradevibes-Is your AI-written app finished?",
+      "fetched_at": "2026-11-04T13:26:03.486450+00:00"
+    },
+    "051f24875502af27": {
+      "title": "EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI",
+      "fetched_at": "2026-11-04T13:26:04.111324+00:00"
+    },
+    "113ba1aaba53d159": {
+      "title": "Disaster is still better than AI",
+      "fetched_at": "2026-11-04T13:26:04.832399+00:00"
+    },
+    "c3d3fb7c968490a7": {
+      "title": "An example of LLM overengineering in the wild",
+      "fetched_at": "2026-11-04T13:26:05.447781+00:00"
+    },
+    "67fe2dba32bbb447": {
+      "title": "Show HN: Shield KYA – Open-source audit trail and gate for AI agent tool calls",
+      "fetched_at": "2026-11-04T13:26:06.062070+00:00"
+    },
+    "7b9de7b33b8d0671": {
+      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+      "fetched_at": "2026-11-04T13:26:06.683302+00:00"
+    },
+    "7f3690c41bd0546c": {
+      "title": "Spec-driven AI development for insurance claims rule changes [video]",
+      "fetched_at": "2026-11-04T13:26:07.310101+00:00"
+    },
+    "568bd6639d8f8aa5": {
+      "title": "Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+      "fetched_at": "2026-11-04T13:26:08.007983+00:00"
+    },
+    "0bfbb18c84662b92": {
+      "title": "Show HN: Rivermark, a superfast AI graphic design canvas",
+      "fetched_at": "2026-11-04T13:26:08.644051+00:00"
+    },
+    "edc4a39d558f9dfb": {
+      "title": "Can Advertising Fund Free AI? Evidence from ChatGPT's Advertising Rollout",
+      "fetched_at": "2026-11-04T13:26:09.267804+00:00"
+    },
+    "1e4f81b5627f43f8": {
+      "title": "Why the Term \"Smart City Surveillance\" Needs an Update in the Era of AI and 5G",
+      "fetched_at": "2026-11-04T13:26:09.884688+00:00"
+    },
+    "0b3d7aa8b71e2462": {
+      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+      "fetched_at": "2026-11-04T13:26:10.528779+00:00"
+    },
+    "a5634708189a82c3": {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "fetched_at": "2026-11-04T13:26:11.146080+00:00"
+    },
+    "fc8551be8d65ff09": {
+      "title": "AI Slop Threatens Trust in Science",
+      "fetched_at": "2026-11-04T13:26:11.763764+00:00"
+    },
+    "6083872e529800ab": {
+      "title": "iOS Simulator MCP benchmark: eight tools for AI agents",
+      "fetched_at": "2026-11-04T13:26:12.402193+00:00"
+    },
+    "137b380deae0ed36": {
+      "title": "Audio Enhancer – Free Online AI Audio Enhancer and Noise Remover",
+      "fetched_at": "2026-11-04T13:26:13.021062+00:00"
+    },
+    "b799a5e060af99b4": {
+      "title": "AI-Generated Content on Nexus Mods",
+      "fetched_at": "2026-11-04T13:26:13.641205+00:00"
+    },
+    "ce09c5cdcd3f927b": {
+      "title": "Automated grounding verification of AI statements about chest radiographs",
+      "fetched_at": "2026-11-04T13:26:14.280573+00:00"
+    },
+    "c35800879440ac59": {
+      "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
+      "fetched_at": "2026-11-04T13:26:17.297313+00:00"
+    },
+    "c566d14e233c329f": {
+      "title": "「我在橫店當王妃」：中國興起短劇體驗遊",
+      "fetched_at": "2026-11-04T13:26:17.911187+00:00"
+    },
+    "13fd581706801327": {
+      "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
+      "fetched_at": "2026-11-04T13:26:18.525706+00:00"
+    },
+    "2952aec70767ded6": {
+      "title": "德州翻藍：民主黨時隔38年首奪聯邦參議員席次",
+      "fetched_at": "2026-11-04T13:26:19.149267+00:00"
+    },
+    "1cecc56b4622ea1f": {
+      "title": "英王演說稱奴隸貿易是英國歷史「可恥的一章」",
+      "fetched_at": "2026-11-04T13:26:19.768325+00:00"
+    },
+    "6093d7ac8de0e081": {
+      "title": "2026年美國中期選舉結果實時更新",
+      "fetched_at": "2026-11-04T13:26:20.389452+00:00"
+    },
+    "67f480cada96c50e": {
+      "title": "美國中期選舉民調：選民最關心經濟與民主現況",
+      "fetched_at": "2026-11-04T13:26:21.012357+00:00"
+    },
+    "79170bc8add73798": {
+      "title": "捕蛇但不杀蛇：曼谷头号捕蛇人的难题",
+      "fetched_at": "2026-11-04T13:26:21.645807+00:00"
+    },
+    "2e442ee6434f295c": {
+      "title": "越来越多伊朗人呼吁发展核武器对抗美国",
+      "fetched_at": "2026-11-04T13:26:22.334923+00:00"
+    },
+    "1b11f3366c5ffde5": {
+      "title": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
+      "fetched_at": "2026-11-04T13:26:23.031318+00:00"
+    },
+    "c4486388765eb6b0": {
+      "title": "愤怒的选民开启特朗普时代终结的序幕",
+      "fetched_at": "2026-11-04T13:26:23.652805+00:00"
+    },
+    "1eb74f995941a08c": {
+      "title": "美国中期选举：民主党赢得两院控制权，选民否决特朗普",
+      "fetched_at": "2026-11-04T13:26:24.290333+00:00"
+    },
+    "e632a0eeb28c5a87": {
+      "title": "特朗普：将接受选举结果，准备与民主党合作",
+      "fetched_at": "2026-11-04T13:26:24.923352+00:00"
+    },
+    "18c9be1c265b06d6": {
+      "title": "Southern Taurid meteor shower could bring fireballs ‪this week —‬ when and where to look",
+      "fetched_at": "2026-11-04T13:26:27.432843+00:00"
+    },
+    "cff389d0cc0115aa": {
+      "title": "When dinosaurs are sold to the highest bidder, we all lose",
+      "fetched_at": "2026-11-04T13:26:28.092210+00:00"
+    },
+    "70d6940c7e3bfd9b": {
+      "title": "Mom experienced 'extreme unhappiness' only when she breastfed",
+      "fetched_at": "2026-11-04T13:26:28.707625+00:00"
+    },
+    "5fdcbad8ce1a270d": {
+      "title": "Gene editing could replace a lifetime of medication, but there's a catch",
+      "fetched_at": "2026-11-04T13:26:29.329611+00:00"
+    },
+    "fe65dc4110537466": {
+      "title": "Scientists trick cancer cells into making the drugs that kill them",
+      "fetched_at": "2026-11-04T13:26:29.949893+00:00"
+    },
+    "fcaa28c8b759dfbd": {
+      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+      "fetched_at": "2026-11-04T13:26:30.566085+00:00"
+    },
+    "24ca4777015365fe": {
+      "title": "Kids who eat more ultra-processed foods show a troubling brain response",
+      "fetched_at": "2026-11-04T13:26:31.189347+00:00"
     }
   },
-  "last_updated": "2026-11-04T03:46:56.806935+00:00"
+  "last_updated": "2026-11-04T13:26:31.310304+00:00"
 }
