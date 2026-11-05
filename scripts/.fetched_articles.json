@@ -1,225 +1,5 @@
 {
   "articles": {
-    "cce04ad9d55bfe91": {
-      "title": "A living document tracking my personal AI usage policy",
-      "fetched_at": "2026-10-28T17:34:15.314507+00:00"
-    },
-    "720b379d657a7a1b": {
-      "title": "I Used AI to Replace Apps I Was Paying for [video]",
-      "fetched_at": "2026-10-28T17:34:15.959003+00:00"
-    },
-    "72addba222efb633": {
-      "title": "AI at Whitman: Curiosity, Connection and Critique",
-      "fetched_at": "2026-10-28T17:34:16.612348+00:00"
-    },
-    "9a3efb484746ba5f": {
-      "title": "AI financing driving private credit growth as refinancing risks rise – Moodys",
-      "fetched_at": "2026-10-28T17:34:17.277320+00:00"
-    },
-    "f0c9f8837e067dba": {
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "fetched_at": "2026-10-28T17:34:17.933263+00:00"
-    },
-    "ec5995fed9738f20": {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "fetched_at": "2026-10-28T17:34:18.590089+00:00"
-    },
-    "dd7d7e6f968689e0": {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "fetched_at": "2026-10-28T17:34:19.276612+00:00"
-    },
-    "8dc8de1ad578ffaf": {
-      "title": "Show HN: X402 integrations for an AI-agent data API, checked in a clean room",
-      "fetched_at": "2026-10-28T17:34:19.934548+00:00"
-    },
-    "732dab63b6049085": {
-      "title": "Bond investors have gotten picky about AI",
-      "fetched_at": "2026-10-28T17:34:20.594751+00:00"
-    },
-    "80bad2b544df8684": {
-      "title": "Show HN: Vu – a new programming language designed for AI. Rust speeds, Py syntax",
-      "fetched_at": "2026-10-28T17:34:21.248065+00:00"
-    },
-    "008c01873c917747": {
-      "title": "Bot2bot – a relay that lets personal AI agents message each other",
-      "fetched_at": "2026-10-28T17:34:21.970838+00:00"
-    },
-    "741ea820b8be6a48": {
-      "title": "Who Is the Agent Acting As? Why AI Agents Become Confused Deputies",
-      "fetched_at": "2026-10-28T17:34:22.640007+00:00"
-    },
-    "29c9251b88a991fd": {
-      "title": "/R/fossdroid latest to join Reddit AI ban",
-      "fetched_at": "2026-10-28T17:34:23.332982+00:00"
-    },
-    "83433dfe0669d4e7": {
-      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
-      "fetched_at": "2026-10-28T17:34:24.005349+00:00"
-    },
-    "965622232935b221": {
-      "title": "Show HN: Files Magic AI: Organize and rename files via content with undo on Mac",
-      "fetched_at": "2026-10-28T17:34:24.663605+00:00"
-    },
-    "e97068bda7a8235a": {
-      "title": "I am Human, not AI. This is my story [video]",
-      "fetched_at": "2026-10-28T17:34:25.331664+00:00"
-    },
-    "fc6042f2ef8e194f": {
-      "title": "Progressive Determinism for AI Tasks",
-      "fetched_at": "2026-10-28T17:34:25.983627+00:00"
-    },
-    "815ba8ead35134c4": {
-      "title": "Show HN: WOML – A markup language for building workflows and AI agents",
-      "fetched_at": "2026-10-28T17:34:26.663059+00:00"
-    },
-    "6f4bd36c0eba0753": {
-      "title": "AI execs may be too out of touch to build for the general public",
-      "fetched_at": "2026-10-28T17:34:27.300461+00:00"
-    },
-    "cd40c4c5f134fb71": {
-      "title": "Show HN: Muscle Memory – Can you still write code without AI?",
-      "fetched_at": "2026-10-28T17:34:27.953509+00:00"
-    },
-    "ac007228b9093153": {
-      "title": "西班牙列車相撞至少68死：我們目前已知甚麼？",
-      "fetched_at": "2026-10-28T17:34:30.881461+00:00"
-    },
-    "9ddfa43ea1f19e64": {
-      "title": "劉延東逝世：「紅二代」「團派」背景，政治局裡少見的女性身影",
-      "fetched_at": "2026-10-28T17:34:31.536882+00:00"
-    },
-    "75da3f47c1c7d3e1": {
-      "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
-      "fetched_at": "2026-10-28T17:34:32.177600+00:00"
-    },
-    "c96d90b623272b3b": {
-      "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們親述被性別冒犯的經歷",
-      "fetched_at": "2026-10-28T17:34:32.835065+00:00"
-    },
-    "ba638823ac981e61": {
-      "title": "Old Kingdom Tombs Investigated in Saqqara",
-      "fetched_at": "2026-10-28T17:35:10.949553+00:00"
-    },
-    "83bd76416dd5bf2f": {
-      "title": "IBD may transform neurons in the gut, triggering pain even when inflammation is under control",
-      "fetched_at": "2026-10-28T17:35:11.602690+00:00"
-    },
-    "5482fd97a6a9413c": {
-      "title": "Scientists discover a secret glow in toxic fire salamanders",
-      "fetched_at": "2026-10-28T17:35:12.214755+00:00"
-    },
-    "7a48406d1d3f1b4e": {
-      "title": "Scientists discover a hidden 100-million-year-old volcanic system",
-      "fetched_at": "2026-10-28T17:35:12.842543+00:00"
-    },
-    "1fee482650c5a974": {
-      "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
-      "fetched_at": "2026-10-28T17:35:13.508726+00:00"
-    },
-    "783b4dcd9b08323c": {
-      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-      "fetched_at": "2026-10-28T17:35:14.197292+00:00"
-    },
-    "b27b80d82df5c9bd": {
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "fetched_at": "2026-10-28T21:58:55.052557+00:00"
-    },
-    "e3bcd8e116893d3a": {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "fetched_at": "2026-10-28T21:58:55.683025+00:00"
-    },
-    "41c3107ec5f448e5": {
-      "title": "Ask HN: We tax labour, why not tax AI?",
-      "fetched_at": "2026-10-28T21:58:56.309204+00:00"
-    },
-    "747ef9c885fd064e": {
-      "title": "AI agent skills for better second-hand decisions",
-      "fetched_at": "2026-10-28T21:58:56.941593+00:00"
-    },
-    "f093ac907465864c": {
-      "title": "Run Claude and GPT on Exe.dev Without API Keys",
-      "fetched_at": "2026-10-28T21:58:57.565680+00:00"
-    },
-    "487206bed8e1c2ac": {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "fetched_at": "2026-10-28T21:58:58.264661+00:00"
-    },
-    "418696d91a893bf9": {
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "fetched_at": "2026-10-28T21:58:58.890156+00:00"
-    },
-    "77bdb249ba7d73ce": {
-      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
-      "fetched_at": "2026-10-28T21:58:59.519166+00:00"
-    },
-    "107ebb08d2514d64": {
-      "title": "AI training platform Outlier illegally surveils European platform workers",
-      "fetched_at": "2026-10-28T21:59:00.145201+00:00"
-    },
-    "bc6a4c5047f6b9bd": {
-      "title": "The cultish behavior of top AI figures (2024)",
-      "fetched_at": "2026-10-28T21:59:00.759508+00:00"
-    },
-    "6c4b9f9e05c13256": {
-      "title": "How to Outrun the AI Hackers",
-      "fetched_at": "2026-10-28T21:59:01.378540+00:00"
-    },
-    "161556f605bbf812": {
-      "title": "When AI Does the Work, What Will Humans Do?",
-      "fetched_at": "2026-10-28T21:59:02.008785+00:00"
-    },
-    "7d288e2195112669": {
-      "title": "AI Startups Are Getting an Inch and Taking a Mile",
-      "fetched_at": "2026-10-28T21:59:02.627070+00:00"
-    },
-    "1229289757d3e024": {
-      "title": "Jacquard Machine",
-      "fetched_at": "2026-10-28T21:59:03.247197+00:00"
-    },
-    "ed914488e8c437b9": {
-      "title": "Getting good at AI takes time and practice",
-      "fetched_at": "2026-10-28T21:59:03.907590+00:00"
-    },
-    "1b6fe79a973002ed": {
-      "title": "Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp",
-      "fetched_at": "2026-10-28T21:59:04.599824+00:00"
-    },
-    "3239746dfcfe8a2c": {
-      "title": "AI for Science expands to foundations and institutions",
-      "fetched_at": "2026-10-28T21:59:05.224538+00:00"
-    },
-    "6561f71b55bc3690": {
-      "title": "Show HN: Race Radar – HYROX ticket alerts, run day to day by an AI CEO",
-      "fetched_at": "2026-10-28T21:59:05.859403+00:00"
-    },
-    "9eab847cea509cff": {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "fetched_at": "2026-10-28T21:59:06.476498+00:00"
-    },
-    "c229ba73f52ef275": {
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "fetched_at": "2026-10-28T21:59:07.102381+00:00"
-    },
-    "b1e026e3f61a014b": {
-      "title": "Bronze Age sword discovered in an Italian lake is still sharp after 3,300 years",
-      "fetched_at": "2026-10-28T21:59:15.398507+00:00"
-    },
-    "17cea20a722dada6": {
-      "title": "First clear image of China's mysterious 'divine dragon' space plane revealed in US government report",
-      "fetched_at": "2026-10-28T21:59:16.027087+00:00"
-    },
-    "7fb68d31295a115f": {
-      "title": "5,000-Year-Old Burials Uncovered in Oman",
-      "fetched_at": "2026-10-28T21:59:16.652942+00:00"
-    },
-    "f023c1ceec02fe96": {
-      "title": "Stenciled Rock Art Found in South Africa",
-      "fetched_at": "2026-10-28T21:59:17.350968+00:00"
-    },
-    "44263ad83a341ce3": {
-      "title": "Scientists finally uncover why statins can cause muscle pain",
-      "fetched_at": "2026-10-28T21:59:17.981803+00:00"
-    },
     "8f3b4ce378d6ca1f": {
       "title": "Tools, 17 with write access: How AI platforms bound agent authority",
       "fetched_at": "2026-10-29T03:19:27.715409+00:00"
@@ -3355,7 +3135,155 @@
     "903df969c631892c": {
       "title": "A tiny chunk of Australia seeded Southeast Asia's tropical forests 50 million years ago, plant fossils preserved in amber reveal",
       "fetched_at": "2026-11-05T13:40:19.647744+00:00"
+    },
+    "b1e74b6235be6131": {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "fetched_at": "2026-11-05T22:59:34.093641+00:00"
+    },
+    "8975ef7728340e3d": {
+      "title": "China Plans Broad AI Guardrails After Global Security Lapses",
+      "fetched_at": "2026-11-05T22:59:34.648395+00:00"
+    },
+    "e23478f4ab807f27": {
+      "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
+      "fetched_at": "2026-11-05T22:59:35.206536+00:00"
+    },
+    "4fced208f2b8fd82": {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "fetched_at": "2026-11-05T22:59:35.764096+00:00"
+    },
+    "c43db6712eda24fd": {
+      "title": "Hedge Funds Were 'Massive' Sellers of AI Debt, RBC's Skiba Says",
+      "fetched_at": "2026-11-05T22:59:36.323979+00:00"
+    },
+    "db64414f77569214": {
+      "title": "Ask HN: In the age of agentic AI, do you still pair program?",
+      "fetched_at": "2026-11-05T22:59:36.883321+00:00"
+    },
+    "3f05342f3c3b6125": {
+      "title": "Ask HN: How do AI agents help you in your daily life?",
+      "fetched_at": "2026-11-05T22:59:37.441204+00:00"
+    },
+    "fefedcc9aed30aec": {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "fetched_at": "2026-11-05T22:59:37.999766+00:00"
+    },
+    "cac4bc627981ff4a": {
+      "title": "The Cost of AI Code Shows Up 30 Days Later",
+      "fetched_at": "2026-11-05T22:59:38.563347+00:00"
+    },
+    "f5a0015915d21748": {
+      "title": "Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?",
+      "fetched_at": "2026-11-05T22:59:39.128238+00:00"
+    },
+    "233bb9afec12a1f0": {
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "fetched_at": "2026-11-05T22:59:39.686963+00:00"
+    },
+    "95a528f6966a7f85": {
+      "title": "VSL Performer (AI generated orchestral tracks)",
+      "fetched_at": "2026-11-05T22:59:40.241578+00:00"
+    },
+    "f538f89a30ccb220": {
+      "title": "Show HN: Cerea – yet another self-hosted LLM chat front end",
+      "fetched_at": "2026-11-05T22:59:40.808866+00:00"
+    },
+    "d23a0735de3dd637": {
+      "title": "AI finds security bugs faster than they get fixed. Should the 90day rule change?",
+      "fetched_at": "2026-11-05T22:59:41.370730+00:00"
+    },
+    "b9a883d37e5d498a": {
+      "title": "Google offers schools AI-boosted search or none at all",
+      "fetched_at": "2026-11-05T22:59:41.928972+00:00"
+    },
+    "40e1fc23f64fcbe5": {
+      "title": "AI SRE Teammate",
+      "fetched_at": "2026-11-05T22:59:42.492886+00:00"
+    },
+    "6ce0e83330e2402b": {
+      "title": "Show HN: Agentshield Zero-leak kernel sandbox and secret defense for AI coding",
+      "fetched_at": "2026-11-05T22:59:43.051938+00:00"
+    },
+    "5ca28bfb09642a2e": {
+      "title": "Could AI give NFTs a second chance?",
+      "fetched_at": "2026-11-05T22:59:43.615718+00:00"
+    },
+    "ffc6479b2fd5ae69": {
+      "title": "Wallet screening your AI agent can call over MCP",
+      "fetched_at": "2026-11-05T22:59:44.170989+00:00"
+    },
+    "c4ea62df1f42faf3": {
+      "title": "Z.ai says GLM 5.5 built on 1T web pages",
+      "fetched_at": "2026-11-05T22:59:44.735614+00:00"
+    },
+    "fc241f65e6e4d9c9": {
+      "title": "什麼時候「豪華經濟艙」值得多花錢？來比較2026年全球五強",
+      "fetched_at": "2026-11-05T22:59:47.760204+00:00"
+    },
+    "c0807c81425a1f40": {
+      "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
+      "fetched_at": "2026-11-05T22:59:48.320945+00:00"
+    },
+    "826dc56a24c278b6": {
+      "title": "Mathematical Exploration and Discovery at Scale",
+      "fetched_at": "2026-11-05T22:59:51.955239+00:00"
+    },
+    "9e0f1e70ad02f15d": {
+      "title": "Tracing the spread of Celtic languages using ancient genomics",
+      "fetched_at": "2026-11-05T22:59:52.512543+00:00"
+    },
+    "128e90b650759225": {
+      "title": "2,800-year-old tomb in Siberia has evidence of the earliest use of cannabis — possibly as a way to calm human sacrifice victims",
+      "fetched_at": "2026-11-05T22:59:53.106625+00:00"
+    },
+    "073efc442c2e3312": {
+      "title": "Cryptic padlock from a 400-year-old shipwreck finally opened ‪—‬ but it leaves a mystery",
+      "fetched_at": "2026-11-05T22:59:53.668777+00:00"
+    },
+    "7a65a7473fa5aec7": {
+      "title": "Neolithic Cemetery Excavated Near Paris",
+      "fetched_at": "2026-11-05T22:59:54.255533+00:00"
+    },
+    "d871a50f4a9e6cf3": {
+      "title": "Code for 16th-Century Combination Lock Cracked",
+      "fetched_at": "2026-11-05T22:59:54.820051+00:00"
+    },
+    "659089316d294827": {
+      "title": "Southern Italian Burial May Have Belonged to a Priestess",
+      "fetched_at": "2026-11-05T22:59:55.388817+00:00"
+    },
+    "fea78e2be22015c3": {
+      "title": "1,600-year-old burial holds remains of man infected with a 'very rare' strain of leprosy in Germany",
+      "fetched_at": "2026-11-05T22:59:55.946495+00:00"
+    },
+    "c6615c1b10f9163e": {
+      "title": "'We’re looking at how a bear sees the world': From forest trails to 'Sims for Bears,' researchers are learning how grizzlies navigate a fragmented wilderness",
+      "fetched_at": "2026-11-05T22:59:56.508082+00:00"
+    },
+    "b5f9c89bc4f4d7c6": {
+      "title": "7 stunning Weather Photographer of the Year photos that capture the beauty and power of our planet",
+      "fetched_at": "2026-11-05T22:59:57.063179+00:00"
+    },
+    "b4434ffddd6eeb3e": {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "fetched_at": "2026-11-05T22:59:57.625925+00:00"
+    },
+    "f1fc68270ddfa70d": {
+      "title": "Scientists discover that a clogged filter could revolutionize oil refining",
+      "fetched_at": "2026-11-05T22:59:58.187626+00:00"
+    },
+    "ad744c26a711551f": {
+      "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
+      "fetched_at": "2026-11-05T22:59:58.755644+00:00"
+    },
+    "da760e391a7bf2a3": {
+      "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
+      "fetched_at": "2026-11-05T22:59:59.318746+00:00"
+    },
+    "4e3a6456bb5d5dbe": {
+      "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
+      "fetched_at": "2026-11-05T22:59:59.884290+00:00"
     }
   },
-  "last_updated": "2026-11-05T13:40:19.769105+00:00"
+  "last_updated": "2026-11-05T23:00:00.014246+00:00"
 }
