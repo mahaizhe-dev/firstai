@@ -1,69 +1,5 @@
 {
   "articles": {
-    "0c330d7207afe4ab": {
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "fetched_at": "2026-10-28T02:55:37.787713+00:00"
-    },
-    "f40899113bd7341b": {
-      "title": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
-      "fetched_at": "2026-10-28T02:55:38.510445+00:00"
-    },
-    "2a5efab0c43753ac": {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "fetched_at": "2026-10-28T02:55:39.148235+00:00"
-    },
-    "a265e93cc2171cb6": {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "fetched_at": "2026-10-28T02:55:39.800388+00:00"
-    },
-    "4fa0f0faf2649603": {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "fetched_at": "2026-10-28T02:55:40.448837+00:00"
-    },
-    "749ccf1c9cac8d62": {
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "fetched_at": "2026-10-28T02:55:41.068907+00:00"
-    },
-    "930c3d25e08059fb": {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "fetched_at": "2026-10-28T02:55:41.714101+00:00"
-    },
-    "bf7acfbed7d987a5": {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "fetched_at": "2026-10-28T02:55:42.335298+00:00"
-    },
-    "515484f4b3354437": {
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "fetched_at": "2026-10-28T02:55:42.992743+00:00"
-    },
-    "9b338f53acd44fd3": {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "fetched_at": "2026-10-28T02:55:43.626918+00:00"
-    },
-    "3d2cc98a4f9e438e": {
-      "title": "台灣「九合一」選舉五大看點：「洋流」能否撼動台北？誰在卡位2028大選？",
-      "fetched_at": "2026-10-28T02:55:46.937397+00:00"
-    },
-    "cdd126816c7b8fcb": {
-      "title": "“国家队”救市不灵了？中国股市颓势折射经济困境",
-      "fetched_at": "2026-10-28T02:55:47.571899+00:00"
-    },
-    "9746fb85196ba608": {
-      "title": "「鞠躬不僅僅是一種問候」：日本肢體語言中不言而喻的規則",
-      "fetched_at": "2026-10-28T02:55:48.227698+00:00"
-    },
-    "31b0a4ea2aff9d39": {
-      "title": "Anthropic 重磅上市——目前我們知道的五件驚人信息",
-      "fetched_at": "2026-10-28T02:55:48.853905+00:00"
-    },
-    "f0734bd09c2f4f0e": {
-      "title": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析",
-      "fetched_at": "2026-10-28T02:55:49.536782+00:00"
-    },
-    "600bc3869ecf426b": {
-      "title": "“机器人健身房”：欧洲在机器人领域追赶中国",
-      "fetched_at": "2026-10-28T02:55:50.182985+00:00"
-    },
     "d7bc7bcb9cd7af7c": {
       "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
       "fetched_at": "2026-10-28T11:47:05.999968+00:00"
@@ -3267,7 +3203,159 @@
     "95a39b1c67821eb9": {
       "title": "SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for SpecDec",
       "fetched_at": "2026-11-04T22:59:00.307930+00:00"
+    },
+    "3be90ca1a08a3177": {
+      "title": "What's the worst bug an AI coding agent silently introduced into your code?",
+      "fetched_at": "2026-11-05T04:03:16.317138+00:00"
+    },
+    "7b9e11091e5c92aa": {
+      "title": "Septaro, an AI-powered weekly reset to help you pursue your goals",
+      "fetched_at": "2026-11-05T04:03:16.966751+00:00"
+    },
+    "19a36e64e0ee0fd4": {
+      "title": "The $18B Contingent Workforce Machine",
+      "fetched_at": "2026-11-05T04:03:17.586723+00:00"
+    },
+    "50d055e4b8e2eb73": {
+      "title": "Flims and TV shows created using AI have now reached a high level of quality",
+      "fetched_at": "2026-11-05T04:03:18.193205+00:00"
+    },
+    "d089afc891c61409": {
+      "title": "Apple 官网排版细节鉴赏",
+      "fetched_at": "2026-11-05T04:03:18.823547+00:00"
+    },
+    "0cdbfbf8b4ead87e": {
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "fetched_at": "2026-11-05T04:03:19.454888+00:00"
+    },
+    "bc1592ee0f193977": {
+      "title": "Ask HN: AI Coding Preference",
+      "fetched_at": "2026-11-05T04:03:20.055077+00:00"
+    },
+    "b6da364cefec0217": {
+      "title": "2026: The State of Enterprise AI",
+      "fetched_at": "2026-11-05T04:03:20.658273+00:00"
+    },
+    "a1e30e53f613838a": {
+      "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
+      "fetched_at": "2026-11-05T04:03:21.368135+00:00"
+    },
+    "f19c7e928edc8dcd": {
+      "title": "Bansat – Make your AI agent write the blueprint before the code",
+      "fetched_at": "2026-11-05T04:03:21.982196+00:00"
+    },
+    "95a1f712c52fac8e": {
+      "title": "Siri AI is now open to all developers",
+      "fetched_at": "2026-11-05T04:03:22.610492+00:00"
+    },
+    "ad999e1917c399b9": {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "fetched_at": "2026-11-05T04:03:23.336240+00:00"
+    },
+    "ec4332bd81458cc2": {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "fetched_at": "2026-11-05T04:03:23.952965+00:00"
+    },
+    "1fe2e892eeb1b44f": {
+      "title": "The anatomy of language model inference and reinforcement learning",
+      "fetched_at": "2026-11-05T04:03:24.559316+00:00"
+    },
+    "c5b457905b57c010": {
+      "title": "Harvey AI Is Proud to Sponsor the HBO Original Series, War",
+      "fetched_at": "2026-11-05T04:03:25.171154+00:00"
+    },
+    "8353b630ce189c50": {
+      "title": "American Voters Overwhelmingly Reject AI Data Centers",
+      "fetched_at": "2026-11-05T04:03:25.780642+00:00"
+    },
+    "eebd56f200605d43": {
+      "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+      "fetched_at": "2026-11-05T04:03:26.686932+00:00"
+    },
+    "b7d8f1ad0d587455": {
+      "title": "Show HN: Cinnamon – safer AI agent for household, private and shared context",
+      "fetched_at": "2026-11-05T04:03:27.370341+00:00"
+    },
+    "a2276fb18f378c42": {
+      "title": "Ask HN: Have you changed your setup in the age of AI and mass vulnerabilities?",
+      "fetched_at": "2026-11-05T04:03:27.980499+00:00"
+    },
+    "46412e325e0f3ae4": {
+      "title": "CodeRabbit – Automated review, triage, and security for AI-generated PRs",
+      "fetched_at": "2026-11-05T04:03:28.598561+00:00"
+    },
+    "6d8d300ee9f85e00": {
+      "title": "民主黨重掌美國國會：能做什麼、不能做什麼？",
+      "fetched_at": "2026-11-05T04:03:31.853028+00:00"
+    },
+    "e2e95f12ca5778bc": {
+      "title": "黃之鋒勾結罪國安案判囚10年",
+      "fetched_at": "2026-11-05T04:03:32.470095+00:00"
+    },
+    "f940848615fbb601": {
+      "title": "美国选民为何拒绝特朗普的共和党",
+      "fetched_at": "2026-11-05T04:03:33.112201+00:00"
+    },
+    "5eb5828ce2d890ce": {
+      "title": "共和党惨败之夜：美国中期选举结果八大要点",
+      "fetched_at": "2026-11-05T04:03:33.735404+00:00"
+    },
+    "13878c4f19448604": {
+      "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
+      "fetched_at": "2026-11-05T04:03:34.363102+00:00"
+    },
+    "0703e864aab07dc1": {
+      "title": "“特朗普全面惨败”上热搜，世界如何看待美国中期选举？",
+      "fetched_at": "2026-11-05T04:03:34.980140+00:00"
+    },
+    "e6360bc193ad8119": {
+      "title": "NASA is racing against time to save the Hubble Space Telescope",
+      "fetched_at": "2026-11-05T04:03:38.054282+00:00"
+    },
+    "4253e96a963eb6b3": {
+      "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+      "fetched_at": "2026-11-05T04:03:38.657881+00:00"
+    },
+    "731a047b4f2a9c26": {
+      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+      "fetched_at": "2026-11-05T04:03:39.272552+00:00"
+    },
+    "cdf809e3a0c283f8": {
+      "title": "A 3,200-pound NASA spacecraft could fall to Earth any minute now",
+      "fetched_at": "2026-11-05T04:03:39.891185+00:00"
+    },
+    "dfb0b10bec8faf55": {
+      "title": "Is AI making you lazier?",
+      "fetched_at": "2026-11-05T04:03:40.524045+00:00"
+    },
+    "801930a01e7d0bd8": {
+      "title": "Rare tiger behaviors captured on camera show 'we really know nothing about them'",
+      "fetched_at": "2026-11-05T04:03:41.133146+00:00"
+    },
+    "48fa62648047bb48": {
+      "title": "30,000-year-old bone found in French cave reveals vast genetic connections between people of Eastern and Western Europe during the Stone Age",
+      "fetched_at": "2026-11-05T04:03:41.731414+00:00"
+    },
+    "900843c5dc05aa7f": {
+      "title": "Hepatitis B could surge, infecting millions more in childhood, under proposed CDC guidance",
+      "fetched_at": "2026-11-05T04:03:42.377491+00:00"
+    },
+    "d8450af4c7bd5090": {
+      "title": "Native Hawaiians and Easter Islanders came from same 'ultravoyager' group",
+      "fetched_at": "2026-11-05T04:03:42.994933+00:00"
+    },
+    "b52c7e31227ca390": {
+      "title": "James Webb telescope discovers rare ring galaxy and 'intruder' 2 billion years after the Big Bang",
+      "fetched_at": "2026-11-05T04:03:43.608426+00:00"
+    },
+    "d3b82ff816cc115c": {
+      "title": "Scientists invent implant that can transform sugar in the blood to treat type 2 diabetes",
+      "fetched_at": "2026-11-05T04:03:44.228248+00:00"
+    },
+    "0360993731f6d818": {
+      "title": "Twin hurricanes stare out to space as they barrel toward Hawaii",
+      "fetched_at": "2026-11-05T04:03:44.863670+00:00"
     }
   },
-  "last_updated": "2026-11-04T22:59:00.371632+00:00"
+  "last_updated": "2026-11-05T04:03:44.916926+00:00"
 }
