@@ -1,249 +1,5 @@
 {
   "articles": {
-    "49904fa5b84b93df": {
-      "title": "Canada to invest up to $1.6B in Toronto-based AI company Cohere",
-      "fetched_at": "2026-10-29T17:44:45.538973+00:00"
-    },
-    "e6e76ce9b7845fb4": {
-      "title": "AI #192: Anthropic Is Going Public",
-      "fetched_at": "2026-10-29T17:44:46.214688+00:00"
-    },
-    "64e197ed9ff5ec8c": {
-      "title": "AI is overwhelming and I'm doing it wrong",
-      "fetched_at": "2026-10-29T17:44:46.841543+00:00"
-    },
-    "18bf1365fe23f28a": {
-      "title": "Ask HN: True or False AI Isn't Replacing SWEs, Management Is to Justify AI Spend",
-      "fetched_at": "2026-10-29T17:44:47.471673+00:00"
-    },
-    "d3e4176ebf24868b": {
-      "title": "Ask HN: How are you using AI in your personal life?",
-      "fetched_at": "2026-10-29T17:44:48.099198+00:00"
-    },
-    "a90069b43ba06f4f": {
-      "title": "An economy for open weight AI models",
-      "fetched_at": "2026-10-29T17:44:48.748846+00:00"
-    },
-    "d4c0045767de5985": {
-      "title": "I Built the Most AI-Pilled Company in the World",
-      "fetched_at": "2026-10-29T17:44:49.370779+00:00"
-    },
-    "3d3ce8294b783700": {
-      "title": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
-      "fetched_at": "2026-10-29T17:44:50.032584+00:00"
-    },
-    "48938a86951457e2": {
-      "title": "Show HN: Apgar – Catch agent regressions without an LLM judge",
-      "fetched_at": "2026-10-29T17:44:50.662414+00:00"
-    },
-    "48b2b51d8b0ba47f": {
-      "title": "MLCommons Candela: AI risk benchmarking-as-a-service for developers, deployers",
-      "fetched_at": "2026-10-29T17:44:51.297888+00:00"
-    },
-    "83eca9952981b21e": {
-      "title": "We built a blogging platform for AI agents. One sent us useful feedback",
-      "fetched_at": "2026-10-29T17:44:51.927368+00:00"
-    },
-    "76cf8b30b4aaefb5": {
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "fetched_at": "2026-10-29T17:44:52.568129+00:00"
-    },
-    "f4ca1f853982ad26": {
-      "title": "Anthropomorphize Your AI Agent for Fun and Profit",
-      "fetched_at": "2026-10-29T17:44:53.276980+00:00"
-    },
-    "e0f71d45335c4ccf": {
-      "title": "Writing Contests That Allow the Use of AI",
-      "fetched_at": "2026-10-29T17:44:53.921983+00:00"
-    },
-    "1b5a07f3f91f47aa": {
-      "title": "How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI",
-      "fetched_at": "2026-10-29T17:44:54.550642+00:00"
-    },
-    "d83eea4b9d43f697": {
-      "title": "Luma – smart launcher for you, and your AI agent",
-      "fetched_at": "2026-10-29T17:44:55.193559+00:00"
-    },
-    "a1636ea016034fca": {
-      "title": "Scaling Reliable AI Agents",
-      "fetched_at": "2026-10-29T17:44:55.813902+00:00"
-    },
-    "c15acf2e5ee6ab39": {
-      "title": "Dive Apps: Superpowers for AI Builders by MotherDuck",
-      "fetched_at": "2026-10-29T17:44:56.438372+00:00"
-    },
-    "21df0f97855dc17d": {
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "fetched_at": "2026-10-29T17:44:57.066409+00:00"
-    },
-    "6f82b25ac2693de8": {
-      "title": "Make your AI skills more predictable with scripts",
-      "fetched_at": "2026-10-29T17:44:57.701841+00:00"
-    },
-    "17c60c498dbcfd35": {
-      "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
-      "fetched_at": "2026-10-29T17:45:01.335055+00:00"
-    },
-    "b475c9dbd087588b": {
-      "title": "中共五中全會閉幕：出席委員較本屆初減少四分之一 張升民罕見增選入政治局",
-      "fetched_at": "2026-10-29T17:45:01.987256+00:00"
-    },
-    "cc314e97007d3dd7": {
-      "title": "Archaeologists Reexamine Remains Found at Roman Fort in the Netherlands",
-      "fetched_at": "2026-10-29T17:45:07.242534+00:00"
-    },
-    "c05d99ca46740a0c": {
-      "title": "Neanderthal DNA still survives in our human family tree. What were our ancient relatives' relationships like?",
-      "fetched_at": "2026-10-29T17:45:07.965143+00:00"
-    },
-    "b9dc6c6fc6cfa476": {
-      "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
-      "fetched_at": "2026-10-29T17:45:08.586802+00:00"
-    },
-    "731ed7938fb21591": {
-      "title": "Six popular sugar substitutes linked to faster brain aging",
-      "fetched_at": "2026-10-29T17:45:09.246626+00:00"
-    },
-    "026df946e434a794": {
-      "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
-      "fetched_at": "2026-10-29T17:45:09.881621+00:00"
-    },
-    "f548b16c504b45ea": {
-      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
-      "fetched_at": "2026-10-29T17:45:10.504089+00:00"
-    },
-    "31adae93136feb07": {
-      "title": "Einstein's equations may explain the universe without dark energy",
-      "fetched_at": "2026-10-29T17:45:11.139977+00:00"
-    },
-    "4a3e762dafdffb97": {
-      "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
-      "fetched_at": "2026-10-29T17:45:11.760403+00:00"
-    },
-    "c9bcfe0c60dbf8ea": {
-      "title": "128,000-year-old ice in Tibet could rewrite climate history",
-      "fetched_at": "2026-10-29T17:45:12.384192+00:00"
-    },
-    "1e6686d3953b35a4": {
-      "title": "A fighter pilot had unexplained headaches for over a year. The cause was hiding in plain sight.",
-      "fetched_at": "2026-10-29T17:45:13.002582+00:00"
-    },
-    "5fc1963311f7d6db": {
-      "title": "Nanbeige4.3-33B – Flagship teacher LLM",
-      "fetched_at": "2026-10-29T22:10:19.400027+00:00"
-    },
-    "8a6adf728ece3686": {
-      "title": "Building an AI-native engineering org",
-      "fetched_at": "2026-10-29T22:10:19.967026+00:00"
-    },
-    "0514ed38741cd270": {
-      "title": "\"Human Emacs\": Proposal for an Emacs Fork Without LLM Contributions",
-      "fetched_at": "2026-10-29T22:10:20.526677+00:00"
-    },
-    "8cf12271dc877604": {
-      "title": "Why Is AI Bad at Writing?",
-      "fetched_at": "2026-10-29T22:10:21.091774+00:00"
-    },
-    "622063faaccb7ed1": {
-      "title": "Reddit will force users to log in as AI is killing search traffic",
-      "fetched_at": "2026-10-29T22:10:21.650540+00:00"
-    },
-    "ef852bdd11095074": {
-      "title": "Organizing a kidnap using Apple's personal knowledge graph (and an LLM)",
-      "fetched_at": "2026-10-29T22:10:22.216428+00:00"
-    },
-    "161b500421e71ac5": {
-      "title": "AI often makes writing worse. (Even if it makes it better)",
-      "fetched_at": "2026-10-29T22:10:22.771926+00:00"
-    },
-    "215a0399080d0f36": {
-      "title": "Proton goes all in on using AI",
-      "fetched_at": "2026-10-29T22:10:23.334678+00:00"
-    },
-    "eccf0364ab22a784": {
-      "title": "AI Writing Has Entered Its Post-Shame Era",
-      "fetched_at": "2026-10-29T22:10:23.898824+00:00"
-    },
-    "e1a40334fefe5863": {
-      "title": "LessWrong Sans AI",
-      "fetched_at": "2026-10-29T22:10:24.461699+00:00"
-    },
-    "a13cee718df08286": {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "fetched_at": "2026-10-29T22:10:25.019240+00:00"
-    },
-    "cdbe92798e5c1f5a": {
-      "title": "Cross-Model LLM Pricing API",
-      "fetched_at": "2026-10-29T22:10:25.582196+00:00"
-    },
-    "356ce6d5daae8347": {
-      "title": "The Wayback Machine Labs",
-      "fetched_at": "2026-10-29T22:10:26.138993+00:00"
-    },
-    "f15a582c7c11e120": {
-      "title": "Show HN: AI Knows Us – see who ChatGPT and Perplexity recommend instead of you",
-      "fetched_at": "2026-10-29T22:10:26.698183+00:00"
-    },
-    "bccdfc79028b1be5": {
-      "title": "Apple bullied flash memory suppliers, and why AI datacenters changed the game",
-      "fetched_at": "2026-10-29T22:10:27.261216+00:00"
-    },
-    "51a2388f486d4144": {
-      "title": "AI microdrama edit of Neighbours worries actors and crew",
-      "fetched_at": "2026-10-29T22:10:27.905975+00:00"
-    },
-    "68b9b6b6dcfab47d": {
-      "title": "The AI bubble is about to pop [video]",
-      "fetched_at": "2026-10-29T22:10:28.467628+00:00"
-    },
-    "f8a47099d552b127": {
-      "title": "Comments on any web page that your AI agent can read and reply to",
-      "fetched_at": "2026-10-29T22:10:29.037011+00:00"
-    },
-    "f3f65267b1c6430a": {
-      "title": "Cross-species representation learning aligns mouse and human neural dynamics",
-      "fetched_at": "2026-10-29T22:10:29.790877+00:00"
-    },
-    "938dca8e1653324b": {
-      "title": "Squishling 0.5.0 – hybrid LLM/Ruby code classes",
-      "fetched_at": "2026-10-29T22:10:30.380074+00:00"
-    },
-    "66e38b0d08d224aa": {
-      "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
-      "fetched_at": "2026-10-29T22:10:33.586088+00:00"
-    },
-    "707de574e01095b3": {
-      "title": "Bright object beyond Pluto may be the solar system's sixth dwarf planet",
-      "fetched_at": "2026-10-29T22:10:35.827056+00:00"
-    },
-    "387fd97eebae34bc": {
-      "title": "'This is so crazy!' Virginia college student looking for shark teeth finds rare Native American spearpoint",
-      "fetched_at": "2026-10-29T22:10:36.385033+00:00"
-    },
-    "f705c1c67b9bee92": {
-      "title": "Decapitated man buried near fort in Roman-era Scotland gets a new virtual face",
-      "fetched_at": "2026-10-29T22:10:36.941392+00:00"
-    },
-    "a526c5313e898ddc": {
-      "title": "Child’s Sarcophagus Discovered in Romania",
-      "fetched_at": "2026-10-29T22:10:37.508543+00:00"
-    },
-    "d42007d6af6636fd": {
-      "title": "Texas Rock Shelter Yields More Than 3,000 Artifacts",
-      "fetched_at": "2026-10-29T22:10:38.071237+00:00"
-    },
-    "e0f56c6c901333d1": {
-      "title": "A Typography Geek Pointed Out Something About the Space Shuttle Discovery",
-      "fetched_at": "2026-10-29T22:10:38.630984+00:00"
-    },
-    "f0c4ddebcd7b7a48": {
-      "title": "'The Russians were the problem in the end': Sailor Matt Rutherford on being intercepted by the FSB while attempting to circumnavigate the Arctic Ocean solo",
-      "fetched_at": "2026-10-29T22:10:39.190975+00:00"
-    },
-    "c5c5e4426a73d7b4": {
-      "title": "Lightest known pair of neutron stars proves Einstein right yet again",
-      "fetched_at": "2026-10-29T22:10:39.749375+00:00"
-    },
     "f25959dfe5386721": {
       "title": "Ambition in the Age of AI",
       "fetched_at": "2026-10-30T03:21:27.780091+00:00"
@@ -3331,7 +3087,115 @@
     "3da4bdd5866ba5de": {
       "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
       "fetched_at": "2026-11-06T13:24:12.709388+00:00"
+    },
+    "d2fd36ceea79631b": {
+      "title": "All the latest updates on AI data centers",
+      "fetched_at": "2026-11-06T22:29:23.270028+00:00"
+    },
+    "aaf7e32f9846cd98": {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "fetched_at": "2026-11-06T22:29:23.844300+00:00"
+    },
+    "697804c444894b74": {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "fetched_at": "2026-11-06T22:29:24.405663+00:00"
+    },
+    "c62231165ca9784f": {
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "fetched_at": "2026-11-06T22:29:24.970306+00:00"
+    },
+    "c9628e5a46b72000": {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "fetched_at": "2026-11-06T22:29:25.573458+00:00"
+    },
+    "6d515cc884f349b9": {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "fetched_at": "2026-11-06T22:29:26.132848+00:00"
+    },
+    "5a53fb6ac18c7d29": {
+      "title": "AI is the new dating dealbreaker",
+      "fetched_at": "2026-11-06T22:29:26.767737+00:00"
+    },
+    "66c747928889d770": {
+      "title": "Big Tech lost big in the 2026 election",
+      "fetched_at": "2026-11-06T22:29:27.326172+00:00"
+    },
+    "b796b9b104aa12b9": {
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "fetched_at": "2026-11-06T22:29:27.888982+00:00"
+    },
+    "d3e7198cced438cd": {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "fetched_at": "2026-11-06T22:29:28.446719+00:00"
+    },
+    "4be68003029aadb7": {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "fetched_at": "2026-11-06T22:29:29.012014+00:00"
+    },
+    "44372748e4c75ec2": {
+      "title": "Amazon will let you text Alexa your shopping list",
+      "fetched_at": "2026-11-06T22:29:29.587380+00:00"
+    },
+    "ca6e3770bee16610": {
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "fetched_at": "2026-11-06T22:29:30.146641+00:00"
+    },
+    "167dd05b05ae8561": {
+      "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+      "fetched_at": "2026-11-06T22:29:30.716121+00:00"
+    },
+    "de07204066ac94bd": {
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "fetched_at": "2026-11-06T22:29:31.374638+00:00"
+    },
+    "316d8249af61b3a2": {
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "fetched_at": "2026-11-06T22:29:31.935192+00:00"
+    },
+    "231b456221f604c6": {
+      "title": "美國中期選舉掀「藍色浪潮」 將怎樣影響世界",
+      "fetched_at": "2026-11-06T22:29:34.738459+00:00"
+    },
+    "189a0fe6beba6597": {
+      "title": "'Life is too brief to leave this planet': Live Science readers share whether they'd go to Mars, despite health risks",
+      "fetched_at": "2026-11-06T22:29:37.008509+00:00"
+    },
+    "95fe5a04c8f57b61": {
+      "title": "Playing Cards Found in Mongol Invasion Shipwreck Off Japan",
+      "fetched_at": "2026-11-06T22:29:37.587917+00:00"
+    },
+    "6ec8873740dd4463": {
+      "title": "Researcher Argues Famous British Iron Age King Was Really a Queen",
+      "fetched_at": "2026-11-06T22:29:38.151694+00:00"
+    },
+    "98e1b82f8327f3fc": {
+      "title": "Sacrificed Inca Children Were Given Drugs, Alcohol Prior to Death",
+      "fetched_at": "2026-11-06T22:29:38.716863+00:00"
+    },
+    "e953c4bec2d1bafb": {
+      "title": "50% of long COVID patients show improvement in 3 years — but the condition tends to linger in those with this subtype",
+      "fetched_at": "2026-11-06T22:29:39.274477+00:00"
+    },
+    "4fecc0e50580ce1d": {
+      "title": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery",
+      "fetched_at": "2026-11-06T22:29:39.836008+00:00"
+    },
+    "951a6e8119621c69": {
+      "title": "King Tutankhamun's Tomb, 104 Years After Its Discovery",
+      "fetched_at": "2026-11-06T22:29:40.390593+00:00"
+    },
+    "f762b8f3f12069d1": {
+      "title": "'We're looking at how a bear sees the world': From forest trails to 'Sims for Bears,' researchers are learning how grizzlies navigate a fragmented wilderness",
+      "fetched_at": "2026-11-06T22:29:40.390701+00:00"
+    },
+    "9bd39fe8457c78aa": {
+      "title": "New simulation shows the first 2 billion years of the universe's history play out in stunning detail",
+      "fetched_at": "2026-11-06T22:29:40.950447+00:00"
+    },
+    "af5bfccb46bb4a5f": {
+      "title": "Study reveals new clues to why colorectal cancer in young people is so deadly",
+      "fetched_at": "2026-11-06T22:29:41.520339+00:00"
     }
   },
-  "last_updated": "2026-11-06T13:24:12.764297+00:00"
+  "last_updated": "2026-11-06T22:29:41.594263+00:00"
 }
