@@ -1,137 +1,5 @@
 {
   "articles": {
-    "8f3b4ce378d6ca1f": {
-      "title": "Tools, 17 with write access: How AI platforms bound agent authority",
-      "fetched_at": "2026-10-29T03:19:27.715409+00:00"
-    },
-    "88f98c2c8d87140a": {
-      "title": "AI startup hacked Anthropic, gains access to employee details, internal messages",
-      "fetched_at": "2026-10-29T03:19:28.330979+00:00"
-    },
-    "7a4d5f373da919b9": {
-      "title": "Come Back and Back AI",
-      "fetched_at": "2026-10-29T03:19:28.976952+00:00"
-    },
-    "28cec4ea5410c1b1": {
-      "title": "The Quiet Part – a lesson on AI and jobs, built and narrated by AI",
-      "fetched_at": "2026-10-29T03:19:29.594136+00:00"
-    },
-    "dc4a4aaf726e8b3d": {
-      "title": "Deep Learning Alchemy – Stanford CS 312",
-      "fetched_at": "2026-10-29T03:19:30.203964+00:00"
-    },
-    "d03d6aa2309604e3": {
-      "title": "Agentic CI/CD with Azure Cosmos DB: Isolated Envs for a Swarm of AI Agents",
-      "fetched_at": "2026-10-29T03:19:30.828463+00:00"
-    },
-    "1c58d67082f7dd3d": {
-      "title": "I built a Chrome extension that shows you a web page the way AI crawlers see it",
-      "fetched_at": "2026-10-29T03:19:31.523948+00:00"
-    },
-    "1b83cd01143a9d02": {
-      "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
-      "fetched_at": "2026-10-29T03:19:32.160166+00:00"
-    },
-    "d746f3130a438c7b": {
-      "title": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
-      "fetched_at": "2026-10-29T03:19:32.808847+00:00"
-    },
-    "c71202ed06242656": {
-      "title": "Opera adds local AI to its browsers",
-      "fetched_at": "2026-10-29T03:19:33.437780+00:00"
-    },
-    "e18e67fc56633c8f": {
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "fetched_at": "2026-10-29T03:19:34.093492+00:00"
-    },
-    "9dd3444d40805777": {
-      "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
-      "fetched_at": "2026-10-29T03:19:34.715518+00:00"
-    },
-    "008fd7f26204bce2": {
-      "title": "Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)",
-      "fetched_at": "2026-10-29T03:19:35.334690+00:00"
-    },
-    "492e237ace055abe": {
-      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "fetched_at": "2026-10-29T03:19:35.969630+00:00"
-    },
-    "99a681b67cd4ab4d": {
-      "title": "Victory You Can Now Exclude Apps from Siri AI",
-      "fetched_at": "2026-10-29T03:19:36.577985+00:00"
-    },
-    "57020ab14d35d73f": {
-      "title": "Daily AI Stock Scanner",
-      "fetched_at": "2026-10-29T03:19:37.196919+00:00"
-    },
-    "296a6ccec391d916": {
-      "title": "Show HN: Open-source AI workspace with shared procedural memory",
-      "fetched_at": "2026-10-29T03:19:38.039148+00:00"
-    },
-    "e1d2c6c9d5f210f3": {
-      "title": "Google AI Search Refuses to Say Who Won the 2020 Election",
-      "fetched_at": "2026-10-29T03:19:38.650443+00:00"
-    },
-    "75a1dedc2d42fb97": {
-      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "fetched_at": "2026-10-29T03:19:39.282941+00:00"
-    },
-    "9be36fb84570d8cd": {
-      "title": "Our AI Agent Executed the Same Successful SQL Query 254 Times",
-      "fetched_at": "2026-10-29T03:19:39.911526+00:00"
-    },
-    "42cb2b1c50a51721": {
-      "title": "“被困在扭曲的金属和残骸中”：西班牙致命列车事故现场",
-      "fetched_at": "2026-10-29T03:19:43.936984+00:00"
-    },
-    "85a7e61cd0a17f58": {
-      "title": "美国将中国基因组学公司华大列入贸易黑名单",
-      "fetched_at": "2026-10-29T03:19:44.562832+00:00"
-    },
-    "d217f04064002856": {
-      "title": "西班牙港口城市热情拥抱中国投资，经济机遇背后暗藏隐忧",
-      "fetched_at": "2026-10-29T03:19:45.215818+00:00"
-    },
-    "2ed2a7436049ea8e": {
-      "title": "燃油危機之下，中國電動機車風行南亞",
-      "fetched_at": "2026-10-29T03:19:45.857269+00:00"
-    },
-    "3c3ba9564a974aa8": {
-      "title": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷",
-      "fetched_at": "2026-10-29T03:19:46.495787+00:00"
-    },
-    "ad51a214d93fd1e4": {
-      "title": "A historical timeline of Show HN",
-      "fetched_at": "2026-10-29T03:19:50.010043+00:00"
-    },
-    "1d61470ca4523544": {
-      "title": "Show HN: Galaxy Movies – Streaming Discovery App",
-      "fetched_at": "2026-10-29T03:19:50.630948+00:00"
-    },
-    "2994316a972b3e0b": {
-      "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
-      "fetched_at": "2026-10-29T03:19:51.267658+00:00"
-    },
-    "f6e280c4ed0a67a3": {
-      "title": "Historical Scientific Instruments",
-      "fetched_at": "2026-10-29T03:19:51.883288+00:00"
-    },
-    "cd619aa5f3fb8e57": {
-      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
-      "fetched_at": "2026-10-29T03:19:52.498214+00:00"
-    },
-    "050a3565c3d6727e": {
-      "title": "Prose and Thorns – romantasy book discovery with AI-synthesized quality scores",
-      "fetched_at": "2026-10-29T03:19:53.112023+00:00"
-    },
-    "d448cacee36826b1": {
-      "title": "Devastating 2025 Myanmar earthquake sheds light on how the 'Big One' could play out in California",
-      "fetched_at": "2026-10-29T03:19:53.757919+00:00"
-    },
-    "4b67adbc6ee8d8d6": {
-      "title": "The James Webb telescope is watching one of the earliest supernovas in the universe unfold",
-      "fetched_at": "2026-10-29T03:19:54.398563+00:00"
-    },
     "206f7c427abaefcc": {
       "title": "AI has come for Arizona’s water",
       "fetched_at": "2026-10-29T11:54:51.087646+00:00"
@@ -3283,7 +3151,151 @@
     "4e3a6456bb5d5dbe": {
       "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
       "fetched_at": "2026-11-05T22:59:59.884290+00:00"
+    },
+    "926b7fcf54277c2e": {
+      "title": "AI and the Future of the Product Role",
+      "fetched_at": "2026-11-06T04:01:07.555816+00:00"
+    },
+    "82fba54ca7e14038": {
+      "title": "Are We Cooked? CMU Faculty on AI, Careers and Learning [video]",
+      "fetched_at": "2026-11-06T04:01:08.187430+00:00"
+    },
+    "3030dc72b2a78c93": {
+      "title": "Meta Warns Midterm Backlash Threatens AI Data Centers",
+      "fetched_at": "2026-11-06T04:01:08.813951+00:00"
+    },
+    "b6c8655ea6dedef3": {
+      "title": "Open AI Cellular: Open platform for prototyping and testing AI based 6G",
+      "fetched_at": "2026-11-06T04:01:09.429775+00:00"
+    },
+    "f9b1b2eb7465be70": {
+      "title": "You Had Me at \"Hello\": A Chinese‑Language Framework Targeting AI Infrastructure",
+      "fetched_at": "2026-11-06T04:01:10.053330+00:00"
+    },
+    "1a3928d42b7d554d": {
+      "title": "The $200M Machine That Prints Microchips: The EUV Photolithography System [video]",
+      "fetched_at": "2026-11-06T04:01:10.655464+00:00"
+    },
+    "95a76d58959f6b44": {
+      "title": "Closed AI models dominate the price-performance frontier",
+      "fetched_at": "2026-11-06T04:01:11.256265+00:00"
+    },
+    "a90aee78d9698424": {
+      "title": "Somebody made an AI clone of Mark Brown's indie game [video]",
+      "fetched_at": "2026-11-06T04:01:11.867201+00:00"
+    },
+    "9788798a28c1fd17": {
+      "title": "The Dangerous Illusion of the \"Two-Week AI Expert\"",
+      "fetched_at": "2026-11-06T04:01:12.507193+00:00"
+    },
+    "954e2f22d8fe2ff4": {
+      "title": "Scarce Positions of Economic Power Gain from Increasingly Capable AI",
+      "fetched_at": "2026-11-06T04:01:13.113755+00:00"
+    },
+    "6a0c9ed8800e5689": {
+      "title": "Habla – I built a free Spanish-learning app for iOS",
+      "fetched_at": "2026-11-06T04:01:13.716019+00:00"
+    },
+    "855bee2276b80d69": {
+      "title": "Supermicro Super AI Station Review: The AI Server That Doubles as a Workstation",
+      "fetched_at": "2026-11-06T04:01:14.301144+00:00"
+    },
+    "6bf25d85bf7779dd": {
+      "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
+      "fetched_at": "2026-11-06T04:01:14.911431+00:00"
+    },
+    "0f2825f79e7f8b03": {
+      "title": "Axiom – blocks AI agents from inventing limits your code never defined",
+      "fetched_at": "2026-11-06T04:01:15.529097+00:00"
+    },
+    "033c9fb830e98b46": {
+      "title": "Paper: Nubank cuts AI agent update cycles from 3 weeks to under 5 days",
+      "fetched_at": "2026-11-06T04:01:16.125630+00:00"
+    },
+    "e1a18117ee4e41c9": {
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "fetched_at": "2026-11-06T04:01:16.734988+00:00"
+    },
+    "2b778b760d35bf44": {
+      "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+      "fetched_at": "2026-11-06T04:01:17.327023+00:00"
+    },
+    "371a45bbe86340cc": {
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "fetched_at": "2026-11-06T04:01:17.915984+00:00"
+    },
+    "50b24ed650025481": {
+      "title": "Airbnb is working on an AI travel agent",
+      "fetched_at": "2026-11-06T04:01:18.537978+00:00"
+    },
+    "bec88b0e70ccd6a6": {
+      "title": "Show HN: Lab Canary – Rating AI labs on whether their staff can speak up",
+      "fetched_at": "2026-11-06T04:01:19.156400+00:00"
+    },
+    "a533070b86c63520": {
+      "title": "美國期中選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷",
+      "fetched_at": "2026-11-06T04:01:21.938944+00:00"
+    },
+    "1d7fcff9451a5515": {
+      "title": "中期选举结果引发对人工智能监管焦虑，美股暴跌",
+      "fetched_at": "2026-11-06T04:01:22.557009+00:00"
+    },
+    "916c816342af209f": {
+      "title": "「短睡眠基因」：為何有人只需睡四小時？",
+      "fetched_at": "2026-11-06T04:01:23.148348+00:00"
+    },
+    "9405245705a70f62": {
+      "title": "黃之鋒涉「勾結外國勢力」被重判10年 出獄或已40歲",
+      "fetched_at": "2026-11-06T04:01:23.739193+00:00"
+    },
+    "b6bc25480e4f0d29": {
+      "title": "众议院领导人要求黄仁勋出席简报会，说明与中国高管往来",
+      "fetched_at": "2026-11-06T04:01:24.364798+00:00"
+    },
+    "eaff90489545ddae": {
+      "title": "中国阻止软银以54亿美元收购ABB机器人业务",
+      "fetched_at": "2026-11-06T04:01:24.961674+00:00"
+    },
+    "fc72be7ad66380fb": {
+      "title": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
+      "fetched_at": "2026-11-06T04:01:25.572492+00:00"
+    },
+    "75da3f47c1c7d3e1": {
+      "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
+      "fetched_at": "2026-11-06T04:01:26.175281+00:00"
+    },
+    "b0da6bf2930452f2": {
+      "title": "Scientists turn viruses into weapons against deadly superbugs",
+      "fetched_at": "2026-11-06T04:01:27.851263+00:00"
+    },
+    "b1e026e3f61a014b": {
+      "title": "Bronze Age sword discovered in an Italian lake is still sharp after 3,300 years",
+      "fetched_at": "2026-11-06T04:01:28.470733+00:00"
+    },
+    "17cea20a722dada6": {
+      "title": "First clear image of China's mysterious 'divine dragon' space plane revealed in US government report",
+      "fetched_at": "2026-11-06T04:01:29.064473+00:00"
+    },
+    "83bd76416dd5bf2f": {
+      "title": "IBD may transform neurons in the gut, triggering pain even when inflammation is under control",
+      "fetched_at": "2026-11-06T04:01:29.654797+00:00"
+    },
+    "771881de9c16523a": {
+      "title": "Our extinct cousins the Denisovans had a 'distinctive' appearance, new analysis reveals",
+      "fetched_at": "2026-11-06T04:01:30.275815+00:00"
+    },
+    "a46df7d17219fe12": {
+      "title": "A woman carried a 'stone baby' in her abdomen for 3 years",
+      "fetched_at": "2026-11-06T04:01:30.885129+00:00"
+    },
+    "47afb6ec4f7c4d9b": {
+      "title": "Universities should not be adopting AI to automate their own absurdities",
+      "fetched_at": "2026-11-06T04:01:31.505610+00:00"
+    },
+    "6e220acc371ea054": {
+      "title": "The autistic brain processes faces differently than scientists thought",
+      "fetched_at": "2026-11-06T04:01:32.112800+00:00"
     }
   },
-  "last_updated": "2026-11-05T23:00:00.014246+00:00"
+  "last_updated": "2026-11-06T04:01:32.188042+00:00"
 }
