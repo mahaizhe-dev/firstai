@@ -1,157 +1,5 @@
 {
   "articles": {
-    "8c70ace090e98325": {
-      "title": "Reddit CEO admits Google's AI Mode is choking off its search traffic",
-      "fetched_at": "2026-10-30T17:24:07.021627+00:00"
-    },
-    "668826c494cd094c": {
-      "title": "Open Rock – An open-source AI chat interface",
-      "fetched_at": "2026-10-30T17:24:07.688045+00:00"
-    },
-    "76dc6a86d0132bff": {
-      "title": "Ask HN: Are you putting off hardware upgrades because of AI coding tools?",
-      "fetched_at": "2026-10-30T17:24:08.319946+00:00"
-    },
-    "b21dc16e0f3a63f3": {
-      "title": "ASRock Industrial AI Box-A395 Review: Taking Strix Halo to Work – ServeTheHome",
-      "fetched_at": "2026-10-30T17:24:08.914738+00:00"
-    },
-    "9bc40649737f90f2": {
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "fetched_at": "2026-10-30T17:24:09.510826+00:00"
-    },
-    "b72b594215506f8a": {
-      "title": "Signet: Cryptographic Enforcement of LLM Transitions",
-      "fetched_at": "2026-10-30T17:24:10.100673+00:00"
-    },
-    "3e7b99b26f4788f3": {
-      "title": "What happens when cloud coding agents are as fast as your local machine?",
-      "fetched_at": "2026-10-30T17:24:10.681277+00:00"
-    },
-    "7e421bf5f9b69b9f": {
-      "title": "The $200M Machine that Prints Microchips [video]",
-      "fetched_at": "2026-10-30T17:24:11.271558+00:00"
-    },
-    "bdf16f994e48f8aa": {
-      "title": "Show HN: NKTg AI – An LLM that decodes text before generating",
-      "fetched_at": "2026-10-30T17:24:11.874717+00:00"
-    },
-    "7203857982278907": {
-      "title": "Postgres 19 is late, and it's AI's fault",
-      "fetched_at": "2026-10-30T17:24:11.874818+00:00"
-    },
-    "22ead7d85dc0a977": {
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "fetched_at": "2026-10-30T17:24:12.460084+00:00"
-    },
-    "87fb493df7db6280": {
-      "title": "One Company's AI Mistake",
-      "fetched_at": "2026-10-30T17:24:13.047767+00:00"
-    },
-    "3c65caf2e35a6069": {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "fetched_at": "2026-10-30T17:24:13.636065+00:00"
-    },
-    "d3b90822c1741a4a": {
-      "title": "Some Thing is Happening A note from the AI companies",
-      "fetched_at": "2026-10-30T17:24:14.228761+00:00"
-    },
-    "576254d7f249ff60": {
-      "title": "ANSI 16-bit Art Design Studio with AI integration",
-      "fetched_at": "2026-10-30T17:24:14.821013+00:00"
-    },
-    "03ed9ce36ec7a84e": {
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "fetched_at": "2026-10-30T17:24:15.407460+00:00"
-    },
-    "1efee600387c6820": {
-      "title": "Data Centers, Debt and the Risks of AI's Finances Ed Zitron Jon Stewart [video]",
-      "fetched_at": "2026-10-30T17:24:15.996931+00:00"
-    },
-    "d2785b7156e8518c": {
-      "title": "Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "fetched_at": "2026-10-30T17:24:16.590236+00:00"
-    },
-    "0618d90935eb4877": {
-      "title": "There are several ways your AI chat conversations can be made public",
-      "fetched_at": "2026-10-30T17:24:17.180819+00:00"
-    },
-    "b023a815fea68069": {
-      "title": "AI being great at math makes human mathematicians more valuable, not less",
-      "fetched_at": "2026-10-30T17:24:17.790831+00:00"
-    },
-    "06735a5a95c47e99": {
-      "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變中國官場？",
-      "fetched_at": "2026-10-30T17:24:20.833455+00:00"
-    },
-    "497fc1aaa3620800": {
-      "title": "暗影人物：與烏克蘭合作的俄羅斯人",
-      "fetched_at": "2026-10-30T17:24:21.424160+00:00"
-    },
-    "1ed4da08c8d24ffb": {
-      "title": "DeepSeek被美國政府系統禁用：中美AI競爭繼續升溫",
-      "fetched_at": "2026-10-30T17:24:22.036188+00:00"
-    },
-    "cb2e9e9a627cefdf": {
-      "title": "Historical www-talk archives made complete",
-      "fetched_at": "2026-10-30T17:24:24.562966+00:00"
-    },
-    "1e5b7baadd81a514": {
-      "title": "Jupiter, Saturn, Uranus and Neptune could destroy each other sooner than we thought, simulations hint",
-      "fetched_at": "2026-10-30T17:24:25.151311+00:00"
-    },
-    "9b889f0dd29890b3": {
-      "title": "'It isn't under control at all': Live Science readers respond to whether AI is making them lazy",
-      "fetched_at": "2026-10-30T17:24:25.749314+00:00"
-    },
-    "701f2952b385b6d9": {
-      "title": "Optimize Product Discovery for Time to First Dollar",
-      "fetched_at": "2026-10-30T17:24:26.345934+00:00"
-    },
-    "eb2017cc8bbd5d65": {
-      "title": "Nearly 30% of US adults admit to lying about or exaggerating their symptoms to get antibiotics from doctors, survey finds",
-      "fetched_at": "2026-10-30T17:24:26.949188+00:00"
-    },
-    "ddb90c91f5a0ee75": {
-      "title": "Physicists created a tiny universe and watched time emerge without a clock",
-      "fetched_at": "2026-10-30T17:24:27.541647+00:00"
-    },
-    "542affa8c1215a8a": {
-      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-      "fetched_at": "2026-10-30T17:24:28.122000+00:00"
-    },
-    "17b8835a739b5d35": {
-      "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-      "fetched_at": "2026-10-30T17:24:28.712983+00:00"
-    },
-    "815d4bd08b3d1eac": {
-      "title": "Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year",
-      "fetched_at": "2026-10-30T17:24:29.307927+00:00"
-    },
-    "46dacfa47937d114": {
-      "title": "Astronauts just gave the International Space Station a powerful upgrade",
-      "fetched_at": "2026-10-30T17:24:29.906803+00:00"
-    },
-    "6e2b686e24a46d13": {
-      "title": "Scientists confirm global warming is accelerating faster than ever recorded",
-      "fetched_at": "2026-10-30T17:24:30.495328+00:00"
-    },
-    "d3f2345d25cc4093": {
-      "title": "A mysterious star system just 16 light-years away may be hiding habitable planets",
-      "fetched_at": "2026-10-30T17:24:31.100812+00:00"
-    },
-    "7e22cb6a7b6669ca": {
-      "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
-      "fetched_at": "2026-10-30T17:24:31.689255+00:00"
-    },
-    "5c762498b3266c91": {
-      "title": "Scientists discover why chronic back pain feels so personal",
-      "fetched_at": "2026-10-30T17:24:32.271531+00:00"
-    },
-    "b3adb20a1c6b590b": {
-      "title": "'This is so crazy!': Virginia college student looking for shark teeth finds rare Native American spearpoint",
-      "fetched_at": "2026-10-30T17:24:32.271654+00:00"
-    },
     "3099bc9c3272fe97": {
       "title": "How much of an environmental menace is AI?",
       "fetched_at": "2026-10-30T21:45:46.823393+00:00"
@@ -3175,7 +3023,111 @@
     "6dd8f3d41b99e6b3": {
       "title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
       "fetched_at": "2026-11-07T12:02:00.799319+00:00"
+    },
+    "3f9b833a48867dba": {
+      "title": "HP and Asus shift some PC making back to China due to AI-driven cost hikes",
+      "fetched_at": "2026-11-07T21:11:17.445884+00:00"
+    },
+    "467a9acde1036ae4": {
+      "title": "GenDB-V: AI-generated, formally verified database engines",
+      "fetched_at": "2026-11-07T21:11:18.054172+00:00"
+    },
+    "2efb99346552af55": {
+      "title": "HERV AI – Spatial intelligence platform",
+      "fetched_at": "2026-11-07T21:11:18.663576+00:00"
+    },
+    "3af4995566a3a459": {
+      "title": "GM Aims to Bring 'Eyes-Off' Driving to AI-Powered Cars Within 2 Years",
+      "fetched_at": "2026-11-07T21:11:19.273682+00:00"
+    },
+    "3fed806ede3eb36c": {
+      "title": "AI agents enter the 'wet lab'",
+      "fetched_at": "2026-11-07T21:11:19.881960+00:00"
+    },
+    "fb6eeeaa568f10e5": {
+      "title": "Read this before you build another AI wrapper",
+      "fetched_at": "2026-11-07T21:11:20.490739+00:00"
+    },
+    "6d8efda1cee1b64f": {
+      "title": "AI Layoffs Backfire as Companies Start Rehiring Workers",
+      "fetched_at": "2026-11-07T21:11:21.118091+00:00"
+    },
+    "0e19acc053aa226c": {
+      "title": "Exponential time hypothesis refuted by AI",
+      "fetched_at": "2026-11-07T21:11:21.729152+00:00"
+    },
+    "a6b112083c09bf3d": {
+      "title": "Driver AI in Stunt Car Racer, Commodore 64",
+      "fetched_at": "2026-11-07T21:11:22.341380+00:00"
+    },
+    "8994d34598447d24": {
+      "title": "Why the Best AI Clouds Don't Run on Flash Alone",
+      "fetched_at": "2026-11-07T21:11:22.949632+00:00"
+    },
+    "98891288605bf22a": {
+      "title": "RigHaven – Self-hosted execution harness for AI agents",
+      "fetched_at": "2026-11-07T21:11:23.560240+00:00"
+    },
+    "83be73be7bf99ebf": {
+      "title": "Context compaction recovery for AI coding agents: six checks, not a summary",
+      "fetched_at": "2026-11-07T21:11:24.170666+00:00"
+    },
+    "d055b198bc20fd84": {
+      "title": "Why AI Will Not End Scholarly Publishing (and the Publish-or-Perish Institution)",
+      "fetched_at": "2026-11-07T21:11:24.782610+00:00"
+    },
+    "ed0bc158c896ae82": {
+      "title": "Day AI: Context Graph and Agent Control Plane for GTM",
+      "fetched_at": "2026-11-07T21:11:25.386517+00:00"
+    },
+    "db8861a7db4f374f": {
+      "title": "Some thoughts on AI, scientific papers, and peer review",
+      "fetched_at": "2026-11-07T21:11:26.000899+00:00"
+    },
+    "988c1a9491a0cfab": {
+      "title": "AI Promoted Everybody. Architecture as Truth (AAT) Is the New Job",
+      "fetched_at": "2026-11-07T21:11:26.622361+00:00"
+    },
+    "c0615ea0565c0243": {
+      "title": "Gradual disempowerment model organism: Frontier AI labs",
+      "fetched_at": "2026-11-07T21:11:27.247007+00:00"
+    },
+    "7f9b0ac913d575c5": {
+      "title": "Chatty – Open-source autonomous AI chat agent with tool calling",
+      "fetched_at": "2026-11-07T21:11:27.874453+00:00"
+    },
+    "46eb7ea8c7a537c0": {
+      "title": "Show HN: Laplace's Scissors – A tool for directly editing LLM weights",
+      "fetched_at": "2026-11-07T21:11:28.480411+00:00"
+    },
+    "11790f42479fd6e6": {
+      "title": "TokiRecur – llama.cpp LLM launcher with KV-cache recycling",
+      "fetched_at": "2026-11-07T21:11:29.089035+00:00"
+    },
+    "8463b7efbea74bfe": {
+      "title": "為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂",
+      "fetched_at": "2026-11-07T21:11:31.961962+00:00"
+    },
+    "203e39f8d7c6bc37": {
+      "title": "The Maya used so much red paint that they poisoned their water with mercury, mud sediments reveal",
+      "fetched_at": "2026-11-07T21:11:49.757018+00:00"
+    },
+    "fff3569e73cff1f0": {
+      "title": "Tectonic forces near Japan helped fuel the formation of the Grand Canyon",
+      "fetched_at": "2026-11-07T21:11:50.368426+00:00"
+    },
+    "2bb1b93c48f25bcb": {
+      "title": "Women often get cold more easily than men — a mouse study offers hints why",
+      "fetched_at": "2026-11-07T21:11:50.979560+00:00"
+    },
+    "0764325df6a634fb": {
+      "title": "Show HN: Budget Friendly City Discovery",
+      "fetched_at": "2026-11-07T21:11:51.587938+00:00"
+    },
+    "2c7eea3f4db524be": {
+      "title": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans.'",
+      "fetched_at": "2026-11-07T21:11:52.215561+00:00"
     }
   },
-  "last_updated": "2026-11-07T12:02:00.846877+00:00"
+  "last_updated": "2026-11-07T21:11:52.333649+00:00"
 }
