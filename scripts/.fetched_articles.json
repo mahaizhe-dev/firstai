@@ -1,117 +1,5 @@
 {
   "articles": {
-    "f25959dfe5386721": {
-      "title": "Ambition in the Age of AI",
-      "fetched_at": "2026-10-30T03:21:27.780091+00:00"
-    },
-    "89a35e24002278a8": {
-      "title": "Claim – Humanity vs. the Machine",
-      "fetched_at": "2026-10-30T03:21:28.349824+00:00"
-    },
-    "ca6e678caf117006": {
-      "title": "The hard problem of AI therapy",
-      "fetched_at": "2026-10-30T03:21:28.926839+00:00"
-    },
-    "cd0c8a00f5f96acb": {
-      "title": "How I Built the Most AI-Pilled Company in the World",
-      "fetched_at": "2026-10-30T03:21:29.494659+00:00"
-    },
-    "24a8b43ae85a8f94": {
-      "title": "Google eng is sure AI will destroy humanity he's stopped saving for retirement",
-      "fetched_at": "2026-10-30T03:21:30.091841+00:00"
-    },
-    "1fb5651abcac8564": {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "fetched_at": "2026-10-30T03:21:30.683937+00:00"
-    },
-    "5c8a122375fd8c6e": {
-      "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
-      "fetched_at": "2026-10-30T03:21:31.247941+00:00"
-    },
-    "829dd6d715a80e7e": {
-      "title": "How to Ace Interviews and Meetings with AI Assistance",
-      "fetched_at": "2026-10-30T03:21:31.839258+00:00"
-    },
-    "d587d73c0dfa6729": {
-      "title": "Deep Learning Made Difficult",
-      "fetched_at": "2026-10-30T03:21:32.444763+00:00"
-    },
-    "6f6f322f23595d9d": {
-      "title": "GitHub trending projects with bilingual AI reviews and MCP access",
-      "fetched_at": "2026-10-30T03:21:33.021159+00:00"
-    },
-    "6d0feffb12a17729": {
-      "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
-      "fetched_at": "2026-10-30T03:21:33.588605+00:00"
-    },
-    "9527e71cc4cf11e9": {
-      "title": "Rich Hickey: \"AI\" is not a tool",
-      "fetched_at": "2026-10-30T03:21:34.182679+00:00"
-    },
-    "d036454202a2078c": {
-      "title": "LLM Programming and Theory Building",
-      "fetched_at": "2026-10-30T03:21:34.766845+00:00"
-    },
-    "91698e056928d486": {
-      "title": "A Diary Has a Creditor: What Character.ai's Bankruptcy Hits Freedom of Thought",
-      "fetched_at": "2026-10-30T03:21:35.375454+00:00"
-    },
-    "fb55f297ac269706": {
-      "title": "Deterministic AI: Why LLMs Aren't, and How to Build Products That Are Anyway",
-      "fetched_at": "2026-10-30T03:21:35.942394+00:00"
-    },
-    "f4bce215ee406340": {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "fetched_at": "2026-10-30T03:21:36.543190+00:00"
-    },
-    "2b93ed35e5c1b5db": {
-      "title": "AI, Mathematics, Education, and a public goods problem",
-      "fetched_at": "2026-10-30T03:21:37.119228+00:00"
-    },
-    "a2a7ea8e6d834632": {
-      "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
-      "fetched_at": "2026-10-30T03:21:37.699617+00:00"
-    },
-    "6e086e7a8e94d0c2": {
-      "title": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
-      "fetched_at": "2026-10-30T03:21:38.285266+00:00"
-    },
-    "b16c3c35ab3340b9": {
-      "title": "Are we in an AI Bubble? Lessons from 1873 and 2000",
-      "fetched_at": "2026-10-30T03:21:38.875056+00:00"
-    },
-    "38eb0906b4bb2582": {
-      "title": "特朗普帮助博索纳罗逃离巴西前往美国",
-      "fetched_at": "2026-10-30T03:21:41.477041+00:00"
-    },
-    "77a60cb9dcf658f3": {
-      "title": "习近平清洗行动继续：中共宣布33名高官被开除党籍",
-      "fetched_at": "2026-10-30T03:21:42.051134+00:00"
-    },
-    "cd42d528aa46db54": {
-      "title": "黄仁勋被认为是中国间谍行动的目标",
-      "fetched_at": "2026-10-30T03:21:42.641374+00:00"
-    },
-    "5034cac9da162fd6": {
-      "title": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
-      "fetched_at": "2026-10-30T03:21:43.223373+00:00"
-    },
-    "fb260951450534f5": {
-      "title": "如何不刻意鍛煉，也能增加活動量？",
-      "fetched_at": "2026-10-30T03:21:43.806135+00:00"
-    },
-    "f79930b888ca2b70": {
-      "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
-      "fetched_at": "2026-10-30T03:21:44.406796+00:00"
-    },
-    "0c527d11d77b4d71": {
-      "title": "How ancient DNA is rewriting the story of human origins",
-      "fetched_at": "2026-10-30T03:21:46.640007+00:00"
-    },
-    "ba46b7231c8e50ba": {
-      "title": "Uranium from World War II reveals how close the Nazis were to an atomic bomb",
-      "fetched_at": "2026-10-30T03:21:47.215160+00:00"
-    },
     "f213595b581e7f75": {
       "title": "Google Faces Criminal Probe over 816 Acres Cleared for Finnish AI Data Center",
       "fetched_at": "2026-10-30T11:48:53.994459+00:00"
@@ -3195,7 +3083,119 @@
     "af5bfccb46bb4a5f": {
       "title": "Study reveals new clues to why colorectal cancer in young people is so deadly",
       "fetched_at": "2026-11-06T22:29:41.520339+00:00"
+    },
+    "3423d8e620366f23": {
+      "title": "YC Backed Bron AI Accused of Using LeBron's Name and Likeness",
+      "fetched_at": "2026-11-07T03:37:10.250999+00:00"
+    },
+    "5c23e9d75813ad96": {
+      "title": "DeepMind AI agents find two weaknesses in legacy 1024-bit RSA cryptosystems",
+      "fetched_at": "2026-11-07T03:37:10.868612+00:00"
+    },
+    "280c32b1a9cdfefc": {
+      "title": "Brave Sells Its Search Index to AI, and Your Website Is Probably in It",
+      "fetched_at": "2026-11-07T03:37:11.476407+00:00"
+    },
+    "b172ab31a68062fb": {
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "fetched_at": "2026-11-07T03:37:12.110690+00:00"
+    },
+    "4a868ca07dc39703": {
+      "title": "Coding agents ranked for builders shipping AI software",
+      "fetched_at": "2026-11-07T03:37:12.700315+00:00"
+    },
+    "fdd6dad6a137780f": {
+      "title": "Show HN: I built an AI photo editor powered by GPT-Image-2.6",
+      "fetched_at": "2026-11-07T03:37:13.280003+00:00"
+    },
+    "d96ad9c93263d361": {
+      "title": "Show HN: Select – AI agents that earn autonomy through verified work",
+      "fetched_at": "2026-11-07T03:37:13.863495+00:00"
+    },
+    "7c1f8059fa238a13": {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "fetched_at": "2026-11-07T03:37:14.449578+00:00"
+    },
+    "7570c9f24d544d54": {
+      "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+      "fetched_at": "2026-11-07T03:37:15.029364+00:00"
+    },
+    "bff5317c021381e0": {
+      "title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
+      "fetched_at": "2026-11-07T03:37:15.619694+00:00"
+    },
+    "cb61ec254158dee9": {
+      "title": "Implementing GPT-2 in CSS",
+      "fetched_at": "2026-11-07T03:37:16.227126+00:00"
+    },
+    "39c44e97abb83413": {
+      "title": "A woman possibly using AI to help murder her husband – a play",
+      "fetched_at": "2026-11-07T03:37:16.809909+00:00"
+    },
+    "1d301cf8ffc6cdcd": {
+      "title": "Show HN: SlopSlot – a slot machine inside Claude Code",
+      "fetched_at": "2026-11-07T03:37:17.387842+00:00"
+    },
+    "3781f7a622b3dc3c": {
+      "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
+      "fetched_at": "2026-11-07T03:37:17.964606+00:00"
+    },
+    "076bfd5bddfa9026": {
+      "title": "The Slop Index: Which AI Model Writes the Least Like AI?",
+      "fetched_at": "2026-11-07T03:37:18.555912+00:00"
+    },
+    "a491e026c5d7d465": {
+      "title": "Terra Tempora: we shouldn't entrust our understanding of history to AI",
+      "fetched_at": "2026-11-07T03:37:19.150583+00:00"
+    },
+    "5874e3bc9006e5fb": {
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "fetched_at": "2026-11-07T03:37:19.737787+00:00"
+    },
+    "ce6dbcd9802b7d56": {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "fetched_at": "2026-11-07T03:37:20.381494+00:00"
+    },
+    "f39779ac60dc5b7d": {
+      "title": "Show HN: Cinnamon – a household AI agent with shared context and memories",
+      "fetched_at": "2026-11-07T03:37:20.962025+00:00"
+    },
+    "1e663dee903655ca": {
+      "title": "ECB considers review of bank data center lending on AI risk",
+      "fetched_at": "2026-11-07T03:37:21.550928+00:00"
+    },
+    "17c60c498dbcfd35": {
+      "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
+      "fetched_at": "2026-11-07T03:37:24.788404+00:00"
+    },
+    "707de574e01095b3": {
+      "title": "Bright object beyond Pluto may be the solar system's sixth dwarf planet",
+      "fetched_at": "2026-11-07T03:37:26.709011+00:00"
+    },
+    "f705c1c67b9bee92": {
+      "title": "Decapitated man buried near fort in Roman-era Scotland gets a new virtual face",
+      "fetched_at": "2026-11-07T03:37:27.287557+00:00"
+    },
+    "c05d99ca46740a0c": {
+      "title": "Neanderthal DNA still survives in our human family tree. What were our ancient relatives' relationships like?",
+      "fetched_at": "2026-11-07T03:37:27.866283+00:00"
+    },
+    "731ed7938fb21591": {
+      "title": "Six popular sugar substitutes linked to faster brain aging",
+      "fetched_at": "2026-11-07T03:37:28.450293+00:00"
+    },
+    "f548b16c504b45ea": {
+      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
+      "fetched_at": "2026-11-07T03:37:29.053416+00:00"
+    },
+    "31adae93136feb07": {
+      "title": "Einstein's equations may explain the universe without dark energy",
+      "fetched_at": "2026-11-07T03:37:29.631944+00:00"
+    },
+    "c9bcfe0c60dbf8ea": {
+      "title": "128,000-year-old ice in Tibet could rewrite climate history",
+      "fetched_at": "2026-11-07T03:37:30.210202+00:00"
     }
   },
-  "last_updated": "2026-11-06T22:29:41.594263+00:00"
+  "last_updated": "2026-11-07T03:37:30.271662+00:00"
 }
