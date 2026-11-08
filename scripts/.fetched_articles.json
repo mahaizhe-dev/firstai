@@ -1,113 +1,5 @@
 {
   "articles": {
-    "e078f767f4458919": {
-      "title": "Entire Insurance industry could be overwhelmed by catastrophic AI event",
-      "fetched_at": "2026-10-31T11:22:27.348645+00:00"
-    },
-    "2c05b09e2bf9c37e": {
-      "title": "Show HN: Free OCR Cost Calculator – Estimate multi-provider LLM token costs",
-      "fetched_at": "2026-10-31T11:22:27.970681+00:00"
-    },
-    "6cf74b8eb23d1ecd": {
-      "title": "The supercomputer powering Greece's AI ambitions",
-      "fetched_at": "2026-10-31T11:22:28.591124+00:00"
-    },
-    "ee109ae2a1dff8e5": {
-      "title": "Show HN: JJ Suna AI – Open 5B Flow-Matching DiT for 48 KHz Music Synthesis",
-      "fetched_at": "2026-10-31T11:22:29.203520+00:00"
-    },
-    "895faa051cd00019": {
-      "title": "Are There Problems Beyond the Reach of AI [video]",
-      "fetched_at": "2026-10-31T11:22:29.832629+00:00"
-    },
-    "cad2eaf3d3b5a973": {
-      "title": "Show HN: I benchmarked a voice AI against real people. It scored at chance",
-      "fetched_at": "2026-10-31T11:22:30.451055+00:00"
-    },
-    "954dd63ae49c7de0": {
-      "title": "Ask HN: Books about AI Revolution happening now",
-      "fetched_at": "2026-10-31T11:22:31.073955+00:00"
-    },
-    "393f0323ba473b41": {
-      "title": "An AI agent read a Shift_JIS page as 208,953 replacement characters",
-      "fetched_at": "2026-10-31T11:22:31.710731+00:00"
-    },
-    "d3803f3444b378fe": {
-      "title": "Real-time zero-knowledge LLM identification from physical telemetry",
-      "fetched_at": "2026-10-31T11:22:32.348044+00:00"
-    },
-    "168b09f6a0cbcdc2": {
-      "title": "Open-weight AI models can exploit the patch gap",
-      "fetched_at": "2026-10-31T11:22:32.971618+00:00"
-    },
-    "a01cdedf586dfaf0": {
-      "title": "Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools",
-      "fetched_at": "2026-10-31T11:22:33.591254+00:00"
-    },
-    "f5a6381bf38ac980": {
-      "title": "State of the Prompt: What People Ask AI",
-      "fetched_at": "2026-10-31T11:22:34.207149+00:00"
-    },
-    "a76aa62181d7cc7a": {
-      "title": "Non-autoregressive NC LLM spits tokens 21x faster than text diffusion",
-      "fetched_at": "2026-10-31T11:22:34.809484+00:00"
-    },
-    "e20ac7453585350d": {
-      "title": "Ask HN: Is anyone else struggling with AI wealth FOMO?",
-      "fetched_at": "2026-10-31T11:22:35.435053+00:00"
-    },
-    "d068409165df28e9": {
-      "title": "Google Adopts New AI Training Control",
-      "fetched_at": "2026-10-31T11:22:36.139983+00:00"
-    },
-    "e9b52e1e3743fb5e": {
-      "title": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
-      "fetched_at": "2026-10-31T11:22:36.782030+00:00"
-    },
-    "da64b4b576c7b87f": {
-      "title": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
-      "fetched_at": "2026-10-31T11:22:37.421291+00:00"
-    },
-    "e0946259c067f142": {
-      "title": "本月玩什么｜影之刃零、战争机器：事变日等",
-      "fetched_at": "2026-10-31T11:22:38.047303+00:00"
-    },
-    "25751990267a142b": {
-      "title": "Show HN:AI gave me the skills. It didn't give me people",
-      "fetched_at": "2026-10-31T11:22:38.656071+00:00"
-    },
-    "dabe3c26141b8576": {
-      "title": "InstanStore – AI drafts products and sales pages for a creator store",
-      "fetched_at": "2026-10-31T11:22:39.265834+00:00"
-    },
-    "6c3cdfb1d2031676": {
-      "title": "裝扮成哈利波特，公開質疑泰國王室——他如今面臨34年監禁",
-      "fetched_at": "2026-10-31T11:22:42.482448+00:00"
-    },
-    "1b65e2934bbfee01": {
-      "title": "朝鮮「精英」黑客組織是誰？為何成為幣安63億美元盜竊案的頭號嫌疑者？",
-      "fetched_at": "2026-10-31T11:22:43.128970+00:00"
-    },
-    "e948ff8326dabc6b": {
-      "title": "How to watch 'Blue Planet III' online: Stream David Attenborough's spectacular new series",
-      "fetched_at": "2026-10-31T11:22:46.421324+00:00"
-    },
-    "c3a1007044f85512": {
-      "title": "Can animals lie? This sneaky bird might be proof.",
-      "fetched_at": "2026-10-31T11:22:47.116198+00:00"
-    },
-    "6d6bc807caa98a52": {
-      "title": "'You start painting pictures of squirrels twirling their mustaches': A biologist on whether animals can lie",
-      "fetched_at": "2026-10-31T11:22:47.812569+00:00"
-    },
-    "d63e49471c18c021": {
-      "title": "Are sharks really older than trees?",
-      "fetched_at": "2026-10-31T11:22:48.432272+00:00"
-    },
-    "b84c3d146952cbcf": {
-      "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-      "fetched_at": "2026-10-31T11:22:49.077369+00:00"
-    },
     "a549175641aa6bff": {
       "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
       "fetched_at": "2026-10-31T16:28:07.264306+00:00"
@@ -2983,7 +2875,71 @@
     "b3adb20a1c6b590b": {
       "title": "'This is so crazy!': Virginia college student looking for shark teeth finds rare Native American spearpoint",
       "fetched_at": "2026-11-08T03:08:16.925493+00:00"
+    },
+    "e448854ec21b5f8b": {
+      "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+      "fetched_at": "2026-11-08T12:22:49.219175+00:00"
+    },
+    "88adc87c262cf857": {
+      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
+      "fetched_at": "2026-11-08T12:22:52.596309+00:00"
+    },
+    "8c8a391fe1fcd1fc": {
+      "title": "原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」",
+      "fetched_at": "2026-11-08T12:22:53.209573+00:00"
+    },
+    "f9dfdd504091a4e5": {
+      "title": "銷量急挫，Labubu熱潮正在退燒嗎？",
+      "fetched_at": "2026-11-08T12:22:53.841432+00:00"
+    },
+    "5706c5e9fb809f1e": {
+      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡",
+      "fetched_at": "2026-11-08T12:22:54.456080+00:00"
+    },
+    "d8bb7d3cd0f020bd": {
+      "title": "從蔡康永、《VIVANT》到姆巴佩，北京為何區別處理「辱華」？",
+      "fetched_at": "2026-11-08T12:22:55.065605+00:00"
+    },
+    "bf0b16ce94905013": {
+      "title": "NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda",
+      "fetched_at": "2026-11-08T12:22:57.139915+00:00"
+    },
+    "9cfc0b4ad28a5112": {
+      "title": "How frequently did Viking women fight in battle?",
+      "fetched_at": "2026-11-08T12:22:57.750749+00:00"
+    },
+    "33e000921be7ac90": {
+      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+      "fetched_at": "2026-11-08T12:22:58.393138+00:00"
+    },
+    "4f4ec9da0f026541": {
+      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+      "fetched_at": "2026-11-08T12:22:59.009263+00:00"
+    },
+    "c8124920d2c4c0ad": {
+      "title": "Scientists discover hidden brain changes linked to common sleep disorders",
+      "fetched_at": "2026-11-08T12:22:59.629301+00:00"
+    },
+    "6f2ad2112dadab83": {
+      "title": "Scientists squeeze record-breaking X-ray power into an incredibly tiny spot",
+      "fetched_at": "2026-11-08T12:23:00.246414+00:00"
+    },
+    "933a11c77e996d9b": {
+      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+      "fetched_at": "2026-11-08T12:23:00.851441+00:00"
+    },
+    "c77d098e84b2ee89": {
+      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+      "fetched_at": "2026-11-08T12:23:01.477117+00:00"
+    },
+    "733f172355cb8551": {
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "fetched_at": "2026-11-08T12:23:02.107693+00:00"
+    },
+    "074721466d8301a4": {
+      "title": "Neuroscientists reveal method to train people to have lucid dreams — and it involves virtual reality and meditation",
+      "fetched_at": "2026-11-08T12:23:02.731589+00:00"
     }
   },
-  "last_updated": "2026-11-08T03:08:17.009582+00:00"
+  "last_updated": "2026-11-08T12:23:02.801227+00:00"
 }
