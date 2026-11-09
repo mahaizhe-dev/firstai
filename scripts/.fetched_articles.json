@@ -1,117 +1,5 @@
 {
   "articles": {
-    "a1a5855d34c0921d": {
-      "title": "Context Mode – An Open-Source MCP Server That Reduces AI Coding Context Usage",
-      "fetched_at": "2026-11-01T12:14:02.086668+00:00"
-    },
-    "f7edaff1deb5717e": {
-      "title": "When AI Writes the Code, Show Your Judgment",
-      "fetched_at": "2026-11-01T12:14:02.725835+00:00"
-    },
-    "9b4c6cd62d1017b0": {
-      "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
-      "fetched_at": "2026-11-01T12:14:03.362549+00:00"
-    },
-    "f47d82f11b1fab0a": {
-      "title": "Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
-      "fetched_at": "2026-11-01T12:14:03.973424+00:00"
-    },
-    "43aae611860a1b25": {
-      "title": "Democracy Has a Learning Problem – The Long Listen",
-      "fetched_at": "2026-11-01T12:14:04.599363+00:00"
-    },
-    "8e3d00a83aaa21cf": {
-      "title": "AI Warning for Steam – Increases Visibility of AI Generated Content Disclosures",
-      "fetched_at": "2026-11-01T12:14:05.246050+00:00"
-    },
-    "7a92e71a2ab3803b": {
-      "title": "QwenPU: An LLM running inside another LLM's weights",
-      "fetched_at": "2026-11-01T12:14:05.880994+00:00"
-    },
-    "e451b35301ec92ad": {
-      "title": "Fruth – A semantic state inference engine for AI",
-      "fetched_at": "2026-11-01T12:14:06.497257+00:00"
-    },
-    "a86902fa4390bf81": {
-      "title": "Show HN: Rust crawler for SEO and content audits, with optional LLM review",
-      "fetched_at": "2026-11-01T12:14:07.142404+00:00"
-    },
-    "3182ad15d09d8805": {
-      "title": "What factors shapes the future of UX learning?",
-      "fetched_at": "2026-11-01T12:14:07.774452+00:00"
-    },
-    "8c00f91b088632b5": {
-      "title": "FreeGent: Free Agentic AI for Everyone",
-      "fetched_at": "2026-11-01T12:14:08.394266+00:00"
-    },
-    "f757fa5dff5cd57d": {
-      "title": "AI-driven layoffs are creating a new class of boomerang employees",
-      "fetched_at": "2026-11-01T12:14:09.054186+00:00"
-    },
-    "bbd0deeb6bbd4cdc": {
-      "title": "What operational task would you hand to a 7-day custom AI tool?",
-      "fetched_at": "2026-11-01T12:14:09.699137+00:00"
-    },
-    "c9e66c804fc1bf74": {
-      "title": "Early Career Researcher Responses to AI in Math",
-      "fetched_at": "2026-11-01T12:14:10.320544+00:00"
-    },
-    "ed2ba7f9fee5c794": {
-      "title": "Is AI Cheap Enough to Replace Developers?",
-      "fetched_at": "2026-11-01T12:14:10.937312+00:00"
-    },
-    "40a61bbe5a6916c8": {
-      "title": "Ghost in the machine: how AI is haunting the search for the supernatural",
-      "fetched_at": "2026-11-01T12:14:11.558576+00:00"
-    },
-    "dc2609f8f97769ec": {
-      "title": "Bubbuild/republic: A Python library for AI providers",
-      "fetched_at": "2026-11-01T12:14:12.186831+00:00"
-    },
-    "8ae2ee5578a6e9ea": {
-      "title": "Show HN: AnchorGit – Hardware-signed Git decision ledger for AI code",
-      "fetched_at": "2026-11-01T12:14:12.803900+00:00"
-    },
-    "01c423325edba84d": {
-      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "fetched_at": "2026-11-01T12:14:13.481641+00:00"
-    },
-    "363af8bf11a471ee": {
-      "title": "How to Live with AI",
-      "fetched_at": "2026-11-01T12:14:14.115710+00:00"
-    },
-    "b3fe7fd9799e4d82": {
-      "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
-      "fetched_at": "2026-11-01T12:14:16.801499+00:00"
-    },
-    "2ef9fd5240c3adb5": {
-      "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
-      "fetched_at": "2026-11-01T12:14:17.422397+00:00"
-    },
-    "3c93898d0a6cd45a": {
-      "title": "美國中期選舉2026：贏會贏在哪裏，輸會輸在哪裏？",
-      "fetched_at": "2026-11-01T12:14:18.064852+00:00"
-    },
-    "2a5f6d6ff4bb8901": {
-      "title": "Hubble and Webb spot something ghostly happening in the Cat's Head Nebula",
-      "fetched_at": "2026-11-01T12:14:19.897223+00:00"
-    },
-    "942dba4b7f354752": {
-      "title": "How do summers differ between Earth's hemispheres?",
-      "fetched_at": "2026-11-01T12:14:20.521866+00:00"
-    },
-    "c1ea5704dbdf5698": {
-      "title": "Scientists say a forgotten particle may explain why the universe exists",
-      "fetched_at": "2026-11-01T12:14:21.150355+00:00"
-    },
-    "5a729b8b7e0275f8": {
-      "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
-      "fetched_at": "2026-11-01T12:14:21.787008+00:00"
-    },
-    "cd1cec88c3a8f83e": {
-      "title": "Christina Applegate misdiagnosis: Why can MS be difficult to diagnose?",
-      "fetched_at": "2026-11-01T12:14:22.443805+00:00"
-    },
     "930ae30bc9e372ff": {
       "title": "Commodore 64 AI Image Generator",
       "fetched_at": "2026-11-01T21:27:49.822697+00:00"
@@ -2803,7 +2691,151 @@
     "6bf216fbe75128d3": {
       "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
       "fetched_at": "2026-11-09T03:30:02.600815+00:00"
+    },
+    "0c151e73d09d1fc6": {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "fetched_at": "2026-11-09T14:37:01.152074+00:00"
+    },
+    "bd3e2b69a5075988": {
+      "title": "Jonathan Kanter is using AI to take on Big Tech",
+      "fetched_at": "2026-11-09T14:37:01.775929+00:00"
+    },
+    "da62ceee3e067faa": {
+      "title": "Show HN: TraderWAI – MCP server for AI agents to backtest/trade on your broker",
+      "fetched_at": "2026-11-09T14:37:02.400115+00:00"
+    },
+    "dca018911bdb1ff3": {
+      "title": "Ask HN: How do you evaluate the skills your AI agents use?",
+      "fetched_at": "2026-11-09T14:37:03.020094+00:00"
+    },
+    "c50ed441c3822c0c": {
+      "title": "Aaronson-Ambainis Conjecture proved (By AI, of course)",
+      "fetched_at": "2026-11-09T14:37:03.725695+00:00"
+    },
+    "2eb2a2208a52c758": {
+      "title": "The Race to Build a \"Find My\" for AI Chips",
+      "fetched_at": "2026-11-09T14:37:04.357876+00:00"
+    },
+    "dc0f9e8b41b5834c": {
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "fetched_at": "2026-11-09T14:37:04.982593+00:00"
+    },
+    "b65c884ad6efc919": {
+      "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+      "fetched_at": "2026-11-09T14:37:05.618655+00:00"
+    },
+    "d71f815c40564beb": {
+      "title": "Show HN: Askaboard – A canvas your AI agent can draw on",
+      "fetched_at": "2026-11-09T14:37:06.238962+00:00"
+    },
+    "0cf2703dc8961163": {
+      "title": "Human feedback guides AI approach that automates about 84% of decisions",
+      "fetched_at": "2026-11-09T14:37:06.868922+00:00"
+    },
+    "e549c5cc9be863db": {
+      "title": "AI 'slop' is a social judgement",
+      "fetched_at": "2026-11-09T14:37:07.519979+00:00"
+    },
+    "d61b8015a186d917": {
+      "title": "LLM APIs ranked for teams building AI agents",
+      "fetched_at": "2026-11-09T14:37:08.209840+00:00"
+    },
+    "648c80d3c6d7459d": {
+      "title": "AI, Californians, 'translators': Vancouver council went off the rails this week",
+      "fetched_at": "2026-11-09T14:37:08.917795+00:00"
+    },
+    "b3956dc19360ca81": {
+      "title": "RAM-Altman reports unused RAM on your machine, one email a day",
+      "fetched_at": "2026-11-09T14:37:09.535868+00:00"
+    },
+    "659f27bffb14fe83": {
+      "title": "Datacenters, Elon Musk, and AI are all on chopping block once Congress changes",
+      "fetched_at": "2026-11-09T14:37:10.152701+00:00"
+    },
+    "112edfd7c8feb99f": {
+      "title": "AI Slop FM radio experiment puts machines on trial, one dodgy tune at a time",
+      "fetched_at": "2026-11-09T14:37:10.816215+00:00"
+    },
+    "54af28b6ae535380": {
+      "title": "Private LLM copies can agree on a secret key over a public channel",
+      "fetched_at": "2026-11-09T14:37:11.445958+00:00"
+    },
+    "360d1847d9042313": {
+      "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+      "fetched_at": "2026-11-09T14:37:12.066557+00:00"
+    },
+    "26b159d6ea888a97": {
+      "title": "Consider the Agent: Pity, persuasion and selection in an emerging AI ecology",
+      "fetched_at": "2026-11-09T14:37:12.678246+00:00"
+    },
+    "3a02b25abb076712": {
+      "title": "Ernie Evolve: automated research system for improving AI training and inference",
+      "fetched_at": "2026-11-09T14:37:13.311008+00:00"
+    },
+    "fefcc9ba7d452efb": {
+      "title": "黃仁勳婚外情掀起國安風暴：拆解五大看點",
+      "fetched_at": "2026-11-09T14:37:16.108090+00:00"
+    },
+    "5c03647d8318ff8b": {
+      "title": "黃仁勳涉與中國間諜外遇：為何婚外情升溫至國安爭議？",
+      "fetched_at": "2026-11-09T14:37:16.742247+00:00"
+    },
+    "a3040b1ecbffbc7c": {
+      "title": "《巴黎協定》：為什麼將全球升溫控制在1.5攝氏度內如此重要？",
+      "fetched_at": "2026-11-09T14:37:17.386475+00:00"
+    },
+    "8e02c1e6fae68651": {
+      "title": "《薩爾達傳說：時之笛》重製版能否重現原作的魔力？",
+      "fetched_at": "2026-11-09T14:37:18.019746+00:00"
+    },
+    "aa10c44b3b60450c": {
+      "title": "接近黄仁勋的女间谍由中国国安部招募",
+      "fetched_at": "2026-11-09T14:37:18.646333+00:00"
+    },
+    "c68436a6ab4d1cea": {
+      "title": "黄仁勋承认出轨，英伟达调查其与疑似中国间谍的关系",
+      "fetched_at": "2026-11-09T14:37:19.279186+00:00"
+    },
+    "edb7eb9fab8cb20f": {
+      "title": "为什么泰国医生“害怕”肯德基",
+      "fetched_at": "2026-11-09T14:37:19.918148+00:00"
+    },
+    "65aa3c42cf74ae0a": {
+      "title": "英伟达先进芯片流向中国“空壳”公司",
+      "fetched_at": "2026-11-09T14:37:20.554820+00:00"
+    },
+    "301cefb11a63129a": {
+      "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？",
+      "fetched_at": "2026-11-09T14:37:21.174511+00:00"
+    },
+    "5160ee1879fd8bdb": {
+      "title": "新北市長選戰：「政二代」還是「專業副手」能拿下關鍵一城？",
+      "fetched_at": "2026-11-09T14:37:21.807695+00:00"
+    },
+    "2c7361e357d9412b": {
+      "title": "Terracotta cockerel vase: A 2,600-year-old Etruscan inkwell featuring 26 letters of the undeciphered ancient language",
+      "fetched_at": "2026-11-09T14:37:24.864923+00:00"
+    },
+    "c0587d57d6e74849": {
+      "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
+      "fetched_at": "2026-11-09T14:37:25.497082+00:00"
+    },
+    "0350389b29f558d1": {
+      "title": "Scientists discover a surprising link between acorns and lyme disease",
+      "fetched_at": "2026-11-09T14:37:26.145531+00:00"
+    },
+    "9f0e22c28dc3157c": {
+      "title": "A simple supplement may help clear brain fog after cancer",
+      "fetched_at": "2026-11-09T14:37:26.784094+00:00"
+    },
+    "7546e80c9555cd70": {
+      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+      "fetched_at": "2026-11-09T14:37:27.464803+00:00"
+    },
+    "8647f02188b7225f": {
+      "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
+      "fetched_at": "2026-11-09T14:37:28.098141+00:00"
     }
   },
-  "last_updated": "2026-11-09T03:30:02.701857+00:00"
+  "last_updated": "2026-11-09T14:37:28.204940+00:00"
 }
