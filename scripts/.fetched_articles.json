@@ -1,113 +1,5 @@
 {
   "articles": {
-    "5e667b2dcd9e4783": {
-      "title": "AI Made Me Homeless",
-      "fetched_at": "2026-11-01T03:00:59.376392+00:00"
-    },
-    "8d1838626fd68fff": {
-      "title": "James Mickens' Talk: A Sober Analysis of AI Impact (LABScon '26)",
-      "fetched_at": "2026-11-01T03:01:00.017102+00:00"
-    },
-    "a02e20ef905ca1e6": {
-      "title": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
-      "fetched_at": "2026-11-01T03:01:00.643279+00:00"
-    },
-    "a4574ea58b187cf3": {
-      "title": "The Soft Machine (1961)",
-      "fetched_at": "2026-11-01T03:01:01.267080+00:00"
-    },
-    "ae581941ce5a11bf": {
-      "title": "How AI may drive union-resistant tech workers to the bargaining table",
-      "fetched_at": "2026-11-01T03:01:01.903913+00:00"
-    },
-    "b2171cac454ed92d": {
-      "title": "The Elephant-Goldfish Model plugin for spec-driven AI development",
-      "fetched_at": "2026-11-01T03:01:02.514378+00:00"
-    },
-    "7763811058dcd8e3": {
-      "title": "Wikimedia Foundation Tries to Save Itself by Brokering AI Copyright Deal",
-      "fetched_at": "2026-11-01T03:01:03.117781+00:00"
-    },
-    "6370f8255b6a7cf2": {
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "fetched_at": "2026-11-01T03:01:03.796974+00:00"
-    },
-    "eec376ce0270981f": {
-      "title": "Honest Government Ad – AI Data Centres [video]",
-      "fetched_at": "2026-11-01T03:01:04.404531+00:00"
-    },
-    "93ddedd0ddf503ad": {
-      "title": "Writing was flagged as AI. What does that mean?",
-      "fetched_at": "2026-11-01T03:01:05.040400+00:00"
-    },
-    "8052c651161d26c7": {
-      "title": "When AI writes almost all code, what happens to software engineering?",
-      "fetched_at": "2026-11-01T03:01:05.649021+00:00"
-    },
-    "2c3ce98cb702ecb2": {
-      "title": "Yours.ai- a Studio for Interesting Ideas",
-      "fetched_at": "2026-11-01T03:01:06.264838+00:00"
-    },
-    "a462d74a73f54b73": {
-      "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
-      "fetched_at": "2026-11-01T03:01:06.870874+00:00"
-    },
-    "bb986fef47a42a19": {
-      "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
-      "fetched_at": "2026-11-01T03:01:07.519413+00:00"
-    },
-    "7ab1b6bf96487cea": {
-      "title": "Proton senior management prioritizes AI over security",
-      "fetched_at": "2026-11-01T03:01:08.127708+00:00"
-    },
-    "4fa6d19ba89092e9": {
-      "title": "AI text watermarking and quality loss",
-      "fetched_at": "2026-11-01T03:01:08.735423+00:00"
-    },
-    "a199d1f3de278c82": {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "fetched_at": "2026-11-01T03:01:09.367139+00:00"
-    },
-    "0f49aeab56fb64fc": {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "fetched_at": "2026-11-01T03:01:09.967555+00:00"
-    },
-    "b5fb03c815e2145f": {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "fetched_at": "2026-11-01T03:01:10.578211+00:00"
-    },
-    "ebc25b500475c7e5": {
-      "title": "Will AI take your job? You have more agency than you think",
-      "fetched_at": "2026-11-01T03:01:11.184743+00:00"
-    },
-    "0709f0468548d249": {
-      "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
-      "fetched_at": "2026-11-01T03:01:14.064707+00:00"
-    },
-    "a8fd81b45373f962": {
-      "title": "朝鮮「精英」黑客為何成為幣安63億美元盜竊案的頭號嫌犯？",
-      "fetched_at": "2026-11-01T03:01:14.693730+00:00"
-    },
-    "301cefb11a63129a": {
-      "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？",
-      "fetched_at": "2026-11-01T03:01:15.300661+00:00"
-    },
-    "5160ee1879fd8bdb": {
-      "title": "新北市長選戰：「政二代」還是「專業副手」能拿下關鍵一城？",
-      "fetched_at": "2026-11-01T03:01:15.922970+00:00"
-    },
-    "b17cdcba13055de8": {
-      "title": "「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手",
-      "fetched_at": "2026-11-01T03:01:16.547298+00:00"
-    },
-    "6b538d3e1ddda8d9": {
-      "title": "中共五中全會：出席委員減少四分之一 張升民罕見增選入政治局",
-      "fetched_at": "2026-11-01T03:01:17.177658+00:00"
-    },
-    "0c978e59397f8ed1": {
-      "title": "'Most people can't handle driving in 2 dimensions let alone 3': Readers respond to our poll about flying cars",
-      "fetched_at": "2026-11-01T03:01:19.056322+00:00"
-    },
     "a1a5855d34c0921d": {
       "title": "Context Mode – An Open-Source MCP Server That Reduces AI Coding Context Usage",
       "fetched_at": "2026-11-01T12:14:02.086668+00:00"
@@ -2843,7 +2735,75 @@
     "d63e49471c18c021": {
       "title": "Are sharks really older than trees?",
       "fetched_at": "2026-11-08T21:27:27.768636+00:00"
+    },
+    "9ecf0e8aa2ffbf98": {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "fetched_at": "2026-11-09T03:29:49.483529+00:00"
+    },
+    "82b3ee9bb4ce7e3d": {
+      "title": "派早报：特斯拉将停产 Cybertruck",
+      "fetched_at": "2026-11-09T03:29:50.062005+00:00"
+    },
+    "dd74dd252ecd53d3": {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "fetched_at": "2026-11-09T03:29:50.647103+00:00"
+    },
+    "73ddcface506095d": {
+      "title": "黄仁勋与中国间谍发生婚外情，英伟达展开调查",
+      "fetched_at": "2026-11-09T03:29:52.983717+00:00"
+    },
+    "2928b8579f3db03d": {
+      "title": "鲁比奥曾对黄仁勋与中国间谍的关系提出警告",
+      "fetched_at": "2026-11-09T03:29:53.573050+00:00"
+    },
+    "4e621e97f33c7b28": {
+      "title": "Nvidia就黃仁勳與疑似中國間諜有婚外情展開調查",
+      "fetched_at": "2026-11-09T03:29:54.161982+00:00"
+    },
+    "b86ede3989c4b62f": {
+      "title": "美、中、俄三国首脑在深圳会晤？习近平的雄心与顾虑",
+      "fetched_at": "2026-11-09T03:29:54.745595+00:00"
+    },
+    "ec82b9024cb670d3": {
+      "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
+      "fetched_at": "2026-11-09T03:29:55.315956+00:00"
+    },
+    "4b5322424be53492": {
+      "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+      "fetched_at": "2026-11-09T03:29:57.820870+00:00"
+    },
+    "0b502a90e152c15a": {
+      "title": "Scientists discover stunning new Amazon fish that may already be endangered",
+      "fetched_at": "2026-11-09T03:29:58.391420+00:00"
+    },
+    "8fae2c04a4f69445": {
+      "title": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+      "fetched_at": "2026-11-09T03:29:59.039038+00:00"
+    },
+    "781c9ff5d1c18651": {
+      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "fetched_at": "2026-11-09T03:29:59.646520+00:00"
+    },
+    "369d04ad1282fd3c": {
+      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+      "fetched_at": "2026-11-09T03:30:00.234076+00:00"
+    },
+    "a22ecb7f536ce698": {
+      "title": "Astronomers may have been wrong about what ended the 'Cosmic Dark Age'",
+      "fetched_at": "2026-11-09T03:30:00.838115+00:00"
+    },
+    "59ea78eb6bd0fd1e": {
+      "title": "Ghostly statue of 'shrine maiden' discovered at 1,500-year-old burial mound in Japan",
+      "fetched_at": "2026-11-09T03:30:01.447609+00:00"
+    },
+    "679f5c6ddd6515e0": {
+      "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+      "fetched_at": "2026-11-09T03:30:02.030813+00:00"
+    },
+    "6bf216fbe75128d3": {
+      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+      "fetched_at": "2026-11-09T03:30:02.600815+00:00"
     }
   },
-  "last_updated": "2026-11-08T21:27:27.811524+00:00"
+  "last_updated": "2026-11-09T03:30:02.701857+00:00"
 }
