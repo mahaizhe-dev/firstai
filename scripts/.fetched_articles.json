@@ -1,121 +1,5 @@
 {
   "articles": {
-    "d723acfc30d93bc3": {
-      "title": "Reason you should still learn Machine Learning/Deep Learning, etc.",
-      "fetched_at": "2026-11-02T03:10:58.905156+00:00"
-    },
-    "6f09ad5613bf5345": {
-      "title": "New AI-driven malware feeds stolen data to Claude to rank victims' assets",
-      "fetched_at": "2026-11-02T03:10:59.527627+00:00"
-    },
-    "5f0c65324436ff41": {
-      "title": "How to Model \"Taarof\" with AI [video]",
-      "fetched_at": "2026-11-02T03:11:00.185065+00:00"
-    },
-    "8cb3de8e2a93368c": {
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "fetched_at": "2026-11-02T03:11:00.809102+00:00"
-    },
-    "27a7a39479170e69": {
-      "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
-      "fetched_at": "2026-11-02T03:11:01.510572+00:00"
-    },
-    "4d31870040e92ed8": {
-      "title": "Zhipu AI: China's Enterprise AI Champion [video]",
-      "fetched_at": "2026-11-02T03:11:02.160797+00:00"
-    },
-    "aa4818205b4efc90": {
-      "title": "Show HN: Skep – live cross-device sessions for AI coding agents",
-      "fetched_at": "2026-11-02T03:11:02.799295+00:00"
-    },
-    "456556cb1664759d": {
-      "title": "Competition in Generative AI: Evidence from Consumer Demand (NBER)",
-      "fetched_at": "2026-11-02T03:11:03.467660+00:00"
-    },
-    "8158e84f4be861c0": {
-      "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
-      "fetched_at": "2026-11-02T03:11:04.099505+00:00"
-    },
-    "5ccada933a0ac676": {
-      "title": "How Small Can We Slice an AI Model?",
-      "fetched_at": "2026-11-02T03:11:04.714461+00:00"
-    },
-    "f9f54a7639a3db6e": {
-      "title": "In LLM era, can software startup survive?",
-      "fetched_at": "2026-11-02T03:11:05.335089+00:00"
-    },
-    "791df271c66a4c0f": {
-      "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
-      "fetched_at": "2026-11-02T03:11:05.964913+00:00"
-    },
-    "73b015a44a648e96": {
-      "title": "AI Nerfs: Are Claude, ChatGPT, and Gemini Nerfed Today?",
-      "fetched_at": "2026-11-02T03:11:06.616195+00:00"
-    },
-    "dad392917e502e0d": {
-      "title": "Empires of AI – By Eric Schmidt and Niall Ferguson",
-      "fetched_at": "2026-11-02T03:11:07.247682+00:00"
-    },
-    "cc96f81b0206b2e1": {
-      "title": "An AI runs a tiny web studio with a year to earn its existence",
-      "fetched_at": "2026-11-02T03:11:07.877424+00:00"
-    },
-    "736b688b9862fb7d": {
-      "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
-      "fetched_at": "2026-11-02T03:11:08.499524+00:00"
-    },
-    "8894f4639a4f10ac": {
-      "title": "OpenEaNasir: Public-domain machine translations of the famous copper complaint",
-      "fetched_at": "2026-11-02T03:11:09.129236+00:00"
-    },
-    "390083dd264b2fb1": {
-      "title": "Hackers could poison AI models by tampering with core infrastructure",
-      "fetched_at": "2026-11-02T03:11:09.761584+00:00"
-    },
-    "132d8bd569b5fcf7": {
-      "title": "Argentina most exposed to AI impact in Latin America",
-      "fetched_at": "2026-11-02T03:11:10.389837+00:00"
-    },
-    "3f3733d6562d1e97": {
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "fetched_at": "2026-11-02T03:11:11.012794+00:00"
-    },
-    "d370dda02b3ce653": {
-      "title": "中国前副总理刘延东去世：跻身共产党高层的少数女性之一",
-      "fetched_at": "2026-11-02T03:11:14.255083+00:00"
-    },
-    "e024665d919ba629": {
-      "title": "中国企业推出人工智能灭蚊设备",
-      "fetched_at": "2026-11-02T03:11:14.870946+00:00"
-    },
-    "a6f3ac89977e87dd": {
-      "title": "日剧《Vivant》被指“辱华”，三丽鸥取消联名合作",
-      "fetched_at": "2026-11-02T03:11:15.483040+00:00"
-    },
-    "891ab77f893071f6": {
-      "title": "人工智能泡沫將爆破？這群「新雲端」公司正加劇市場擔憂",
-      "fetched_at": "2026-11-02T03:11:16.106575+00:00"
-    },
-    "4658a744445151cc": {
-      "title": "不得要求房客清潔——Airbnb的新守則如何引發分歧",
-      "fetched_at": "2026-11-02T03:11:16.802287+00:00"
-    },
-    "8504a1713f530660": {
-      "title": "美沙冬是毒還是藥？從香港經驗看台灣選戰戒毒爭議",
-      "fetched_at": "2026-11-02T03:11:17.444792+00:00"
-    },
-    "21c90466338c297b": {
-      "title": "AI giants are one big mistake away from catastrophe. They could learn a lot from the nuclear industry.",
-      "fetched_at": "2026-11-02T03:11:19.425735+00:00"
-    },
-    "9243d156c749d70d": {
-      "title": "Watch the full 'Hunter's Moon' rise next to Saturn this weekend",
-      "fetched_at": "2026-11-02T03:11:20.080340+00:00"
-    },
-    "ef920756395f312e": {
-      "title": "A hidden bias in human language challenges 70 years of science",
-      "fetched_at": "2026-11-02T03:11:20.700009+00:00"
-    },
     "68af90541d6a6ca3": {
       "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
       "fetched_at": "2026-11-02T14:03:55.587075+00:00"
@@ -2855,7 +2739,183 @@
     "c1ea5704dbdf5698": {
       "title": "Scientists say a forgotten particle may explain why the universe exists",
       "fetched_at": "2026-11-10T00:58:13.463792+00:00"
+    },
+    "34e0644b33f2c71f": {
+      "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+      "fetched_at": "2026-11-10T13:54:37.369349+00:00"
+    },
+    "b723ec1af59efb23": {
+      "title": "Sydney researchers uncover a hidden limit to AI predictability",
+      "fetched_at": "2026-11-10T13:54:37.985054+00:00"
+    },
+    "6468248dece16f9a": {
+      "title": "Show HN: pvewarden – let an AI agent patch Proxmox VMs without giving it a shell",
+      "fetched_at": "2026-11-10T13:54:38.667670+00:00"
+    },
+    "2ae6e5cbb2ca33f7": {
+      "title": "Show HN: TeamOnly, free hosting for AI-built apps behind your company login",
+      "fetched_at": "2026-11-10T13:54:39.299954+00:00"
+    },
+    "423fb330ab4590d5": {
+      "title": "Memory and RAG tools for AI agents, scored",
+      "fetched_at": "2026-11-10T13:54:39.942967+00:00"
+    },
+    "9cfb3cd4805ab6a7": {
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "fetched_at": "2026-11-10T13:54:40.598270+00:00"
+    },
+    "bb5feebc507832f4": {
+      "title": "A Read-Only AI Reviewer for Forgejo Pull Requests",
+      "fetched_at": "2026-11-10T13:54:41.223652+00:00"
+    },
+    "aad02397432ba3a6": {
+      "title": "AI Users have workdays up to 90 min longer than non-users",
+      "fetched_at": "2026-11-10T13:54:41.844336+00:00"
+    },
+    "1f247f8b5b2aa790": {
+      "title": "AI Is Looking More and More Like a Normal Technology",
+      "fetched_at": "2026-11-10T13:54:42.471351+00:00"
+    },
+    "4f5d6c095b5998cf": {
+      "title": "Quantinuum and Riken Expand Quantum-AI Supercomputing Partnership",
+      "fetched_at": "2026-11-10T13:54:43.088013+00:00"
+    },
+    "29758067c1ace1c4": {
+      "title": "Show HN: AI Vision Index, private tests of how well 36 AI models see",
+      "fetched_at": "2026-11-10T13:54:43.719773+00:00"
+    },
+    "c4fad8662a89fc75": {
+      "title": "Behind AI's Flywheel Powering Materials Discovery at Sandia Labs",
+      "fetched_at": "2026-11-10T13:54:44.389856+00:00"
+    },
+    "366c6fe8f30138f6": {
+      "title": "Ask HN: How do you keep secrets out of your AI agents' context?",
+      "fetched_at": "2026-11-10T13:54:45.034697+00:00"
+    },
+    "4986a18bb1cd96a4": {
+      "title": "Software selection is now hard, because of AI flood of projects",
+      "fetched_at": "2026-11-10T13:54:45.656915+00:00"
+    },
+    "a1dcd881225c9b37": {
+      "title": "'AI slop' papers published under prominent academics' names",
+      "fetched_at": "2026-11-10T13:54:46.276212+00:00"
+    },
+    "eaa3fc3fb7b399b6": {
+      "title": "Beyond FLOP/s: comparing AI hardware for inference by memory and communication",
+      "fetched_at": "2026-11-10T13:54:46.896864+00:00"
+    },
+    "926889f511fb7ea7": {
+      "title": "Show HN: VoxaDub – Open-source AI video dubbing with speaker-aware voices",
+      "fetched_at": "2026-11-10T13:54:47.521415+00:00"
+    },
+    "7739852efea05267": {
+      "title": "Show HN: Cosh – An open-source AI agent orchestrator",
+      "fetched_at": "2026-11-10T13:54:48.139960+00:00"
+    },
+    "e56530249f65b828": {
+      "title": "Show HN: AI Hustle Team – an AI on its own computer that does your daily work",
+      "fetched_at": "2026-11-10T13:54:48.779174+00:00"
+    },
+    "5954938f7f7cf921": {
+      "title": "Show HN: Eigin. Local-first and no-shell personal AI for iOS",
+      "fetched_at": "2026-11-10T13:54:49.426762+00:00"
+    },
+    "4cd84de06a193f3f": {
+      "title": "英國笑匠布蘭德強姦案判刑 為何BBC和貝安德均作表態？",
+      "fetched_at": "2026-11-10T13:54:52.684645+00:00"
+    },
+    "b0918b41a1ff6e7e": {
+      "title": "全球最大排放國的拐點：中國煤電佔比跌破五成，碳排放幾乎停滯",
+      "fetched_at": "2026-11-10T13:54:53.301227+00:00"
+    },
+    "9719271db9ac2092": {
+      "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
+      "fetched_at": "2026-11-10T13:54:53.947534+00:00"
+    },
+    "a951503c3faaa2b8": {
+      "title": "父母選擇「雙人安樂死」，留下我獨自承受喪親之痛",
+      "fetched_at": "2026-11-10T13:54:54.623772+00:00"
+    },
+    "9e1f17e2265df0c8": {
+      "title": "中国前10个月贸易顺差突破1万亿美元",
+      "fetched_at": "2026-11-10T13:54:55.235618+00:00"
+    },
+    "71be55f96c85d488": {
+      "title": "黃仁勳婚外情風波將在全球引發連鎖反應",
+      "fetched_at": "2026-11-10T13:54:55.862825+00:00"
+    },
+    "333e659e981ee2f7": {
+      "title": "美国防长海格塞斯面临弹劾动议，这里是需要了解的信息",
+      "fetched_at": "2026-11-10T13:54:56.601099+00:00"
+    },
+    "6b4f12f1fe49ca56": {
+      "title": "黄仁勋对英伟达的全面控制是否意味着他难以被惩罚",
+      "fetched_at": "2026-11-10T13:54:57.225195+00:00"
+    },
+    "fadbdcbe7adcf5b1": {
+      "title": "美国商务部就芯片展开的调查在英伟达介入后中止",
+      "fetched_at": "2026-11-10T13:54:57.861818+00:00"
+    },
+    "f3e43c1c60e04479": {
+      "title": "黄仁勋对特朗普称自己不知婚外情对象疑似中国间谍",
+      "fetched_at": "2026-11-10T13:54:58.483689+00:00"
+    },
+    "b1091632ad93e267": {
+      "title": "黄仁勋何以成为硅谷的“摇滚明星”",
+      "fetched_at": "2026-11-10T13:54:59.100694+00:00"
+    },
+    "c25952f216710daf": {
+      "title": "四成「陸配」參選遭剔除，身分「法理死結」如何困住參政之路？",
+      "fetched_at": "2026-11-10T13:54:59.718924+00:00"
+    },
+    "a8fd81b45373f962": {
+      "title": "朝鮮「精英」黑客為何成為幣安63億美元盜竊案的頭號嫌犯？",
+      "fetched_at": "2026-11-10T13:55:00.364111+00:00"
+    },
+    "8299780cb33519b0": {
+      "title": "「政二代」蘇巧慧對決「專業副手」李四川，誰能拿下新北？",
+      "fetched_at": "2026-11-10T13:55:01.065269+00:00"
+    },
+    "a485b750dd895028": {
+      "title": "「九合一」五大看點：「洋流」能否撼動台北？誰在卡位2028？",
+      "fetched_at": "2026-11-10T13:55:01.713774+00:00"
+    },
+    "74c171289ec23ce5": {
+      "title": "台灣「北藍南綠」的政治版圖是否「鐵板一塊」？",
+      "fetched_at": "2026-11-10T13:55:02.330648+00:00"
+    },
+    "27821d28303c492e": {
+      "title": "Show HN: Deep Cuts – music discovery via credits instead of algorithms",
+      "fetched_at": "2026-11-10T13:55:08.589793+00:00"
+    },
+    "9a28cc0b5eb09a01": {
+      "title": "'The first species we might be able to communicate with, interact with vocally, might be a bird': An animal researcher explains how she decoded birdsong",
+      "fetched_at": "2026-11-10T13:55:09.208220+00:00"
+    },
+    "c97fe3007bc6d84f": {
+      "title": "Highly active Russian volcano plays peek-a-boo with an astronaut",
+      "fetched_at": "2026-11-10T13:55:09.816905+00:00"
+    },
+    "a3c09180ad0eb637": {
+      "title": "How a mathematical discovery changed the rules of chess",
+      "fetched_at": "2026-11-10T13:55:10.443282+00:00"
+    },
+    "1eff6aa60408f772": {
+      "title": "Iran war helps fuel global drop in fossil fuel emissions — but there’s a catch",
+      "fetched_at": "2026-11-10T13:55:11.078444+00:00"
+    },
+    "c72a53f435b6640d": {
+      "title": "Alzheimer’s may have early warning signs outside the brain",
+      "fetched_at": "2026-11-10T13:55:11.698904+00:00"
+    },
+    "c19638ef63843553": {
+      "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+      "fetched_at": "2026-11-10T13:55:12.292379+00:00"
+    },
+    "62e56e99a961bfd4": {
+      "title": "Scientists finally discover why we learn to love bitter coffee",
+      "fetched_at": "2026-11-10T13:55:12.912159+00:00"
     }
   },
-  "last_updated": "2026-11-10T00:58:13.532153+00:00"
+  "last_updated": "2026-11-10T13:55:12.963501+00:00"
 }
