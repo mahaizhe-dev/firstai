@@ -1,113 +1,5 @@
 {
   "articles": {
-    "930ae30bc9e372ff": {
-      "title": "Commodore 64 AI Image Generator",
-      "fetched_at": "2026-11-01T21:27:49.822697+00:00"
-    },
-    "2d104a26e3c861a9": {
-      "title": "About Platform Engineering and AI",
-      "fetched_at": "2026-11-01T21:27:50.445497+00:00"
-    },
-    "ac888cf84c87df8a": {
-      "title": "Gnosh.ai for \"Functional AI\"; functional context management, no compaction",
-      "fetched_at": "2026-11-01T21:27:51.064327+00:00"
-    },
-    "4138c64c56ede622": {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "fetched_at": "2026-11-01T21:27:51.690454+00:00"
-    },
-    "cb29abe84f960802": {
-      "title": "Turn Superlogical's Rex into an AI Harness",
-      "fetched_at": "2026-11-01T21:27:52.323042+00:00"
-    },
-    "b4cce11169d21568": {
-      "title": "Show HN: Castov – A local-first desktop automation engine using local AI",
-      "fetched_at": "2026-11-01T21:27:52.966821+00:00"
-    },
-    "a7affc639133d91b": {
-      "title": "Writing Is Magic; Machine Writing Is Ash",
-      "fetched_at": "2026-11-01T21:27:53.595755+00:00"
-    },
-    "a87ac43124cca872": {
-      "title": "Slop Code Monitor – scanned 2.6B of code to quantify AI cognitive debt",
-      "fetched_at": "2026-11-01T21:27:54.219931+00:00"
-    },
-    "edd184d737714794": {
-      "title": "Ask HN: What mistakes did AI make in your codebase?",
-      "fetched_at": "2026-11-01T21:27:54.837894+00:00"
-    },
-    "15aa41ce038df127": {
-      "title": "\"AI for everyone would cost a tenth of a kettle a day",
-      "fetched_at": "2026-11-01T21:27:55.465531+00:00"
-    },
-    "8e53e6e661f632a5": {
-      "title": "Versuscraft: Fact-checked AI comparison posts for dev tools",
-      "fetched_at": "2026-11-01T21:27:56.113629+00:00"
-    },
-    "36f7cc9eb2203eab": {
-      "title": "It wasn't AI that flipped Proton's charge",
-      "fetched_at": "2026-11-01T21:27:56.742813+00:00"
-    },
-    "40e72d17ec8953e5": {
-      "title": "VisionQuest is what happens when AI goes rogue",
-      "fetched_at": "2026-11-01T21:27:57.359081+00:00"
-    },
-    "d18fc84f87c4d8b6": {
-      "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
-      "fetched_at": "2026-11-01T21:27:57.973774+00:00"
-    },
-    "55f1f82cce8da334": {
-      "title": "Making it easier for websites to express AI training preferences",
-      "fetched_at": "2026-11-01T21:27:58.594301+00:00"
-    },
-    "18fb3215045c9a9d": {
-      "title": "I didn't hand my NPM updates to an AI",
-      "fetched_at": "2026-11-01T21:27:59.224308+00:00"
-    },
-    "81428d0030094477": {
-      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-      "fetched_at": "2026-11-01T21:27:59.869242+00:00"
-    },
-    "5df33ab73df68caf": {
-      "title": "Hot take: AI skills getting obsolete after months",
-      "fetched_at": "2026-11-01T21:28:00.494543+00:00"
-    },
-    "08c5d1881a6077d1": {
-      "title": "一图流 | 一张图看懂中国版 Apple 智能",
-      "fetched_at": "2026-11-01T21:28:01.125349+00:00"
-    },
-    "6ae6c5d2157d95b5": {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "fetched_at": "2026-11-01T21:28:01.125487+00:00"
-    },
-    "2b5d4dd5ea362d23": {
-      "title": "德國生活成本抗議演變成暴力事件 商店遭洗劫",
-      "fetched_at": "2026-11-01T21:28:04.392456+00:00"
-    },
-    "97ebea063974b8e1": {
-      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-      "fetched_at": "2026-11-01T21:30:31.868640+00:00"
-    },
-    "8b307e465b5f491f": {
-      "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
-      "fetched_at": "2026-11-01T21:30:32.481970+00:00"
-    },
-    "84165d22a7b2007f": {
-      "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
-      "fetched_at": "2026-11-01T21:30:33.110953+00:00"
-    },
-    "0abeab5b0a79f849": {
-      "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
-      "fetched_at": "2026-11-01T21:30:33.732110+00:00"
-    },
-    "b80f126e0b55f3a0": {
-      "title": "Astronomers make startling discovery of a possible dwarf planet beyond Pluto",
-      "fetched_at": "2026-11-01T21:30:34.380194+00:00"
-    },
-    "e92e48dc3c181143": {
-      "title": "Why were the Nazca Lines built?",
-      "fetched_at": "2026-11-01T21:30:35.002927+00:00"
-    },
     "d723acfc30d93bc3": {
       "title": "Reason you should still learn Machine Learning/Deep Learning, etc.",
       "fetched_at": "2026-11-02T03:10:58.905156+00:00"
@@ -2835,7 +2727,135 @@
     "8647f02188b7225f": {
       "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
       "fetched_at": "2026-11-09T14:37:28.098141+00:00"
+    },
+    "3221e26022129ea9": {
+      "title": "Why is AI slop so frustrating to read?",
+      "fetched_at": "2026-11-10T00:57:20.739001+00:00"
+    },
+    "10dad197bd339864": {
+      "title": "OpenRing – self-hosted voice AI agents with a Vapi-compatible API",
+      "fetched_at": "2026-11-10T00:57:21.315015+00:00"
+    },
+    "618210203e00ff3f": {
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "fetched_at": "2026-11-10T00:57:21.876770+00:00"
+    },
+    "329e1319b70c1760": {
+      "title": "Learning Abstractions: The Next Frontier for AI",
+      "fetched_at": "2026-11-10T00:57:22.437433+00:00"
+    },
+    "1a145fcbb5398398": {
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "fetched_at": "2026-11-10T00:57:23.009544+00:00"
+    },
+    "f609b9982d677842": {
+      "title": "What could China get from Jensen Huang?",
+      "fetched_at": "2026-11-10T00:57:23.590366+00:00"
+    },
+    "27eea84abb0b1475": {
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "fetched_at": "2026-11-10T00:57:24.150790+00:00"
+    },
+    "14e9bd2f9fa1bf28": {
+      "title": "The New York Times Doesn't Understand AI's Role in Suppressing Wages",
+      "fetched_at": "2026-11-10T00:57:24.719536+00:00"
+    },
+    "9ecbbe432fe48b7e": {
+      "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
+      "fetched_at": "2026-11-10T00:57:25.278375+00:00"
+    },
+    "4f69344550260a38": {
+      "title": "JoesProxy – The free network workbench for your AI agent",
+      "fetched_at": "2026-11-10T00:57:25.839730+00:00"
+    },
+    "7e06d60007bd966f": {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "fetched_at": "2026-11-10T00:57:26.400090+00:00"
+    },
+    "0febb3033b0dc5a2": {
+      "title": "Why Is AI Slop So Frustrating to Read?",
+      "fetched_at": "2026-11-10T00:57:26.400190+00:00"
+    },
+    "40462586b831cdec": {
+      "title": "Building a full ASIC chip (no AI)",
+      "fetched_at": "2026-11-10T00:57:26.959705+00:00"
+    },
+    "e4a42e2da37b4253": {
+      "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
+      "fetched_at": "2026-11-10T00:57:27.591850+00:00"
+    },
+    "2792b548e1aca824": {
+      "title": "AI Bubble Tracker",
+      "fetched_at": "2026-11-10T00:57:28.153632+00:00"
+    },
+    "1f565b1280257cae": {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "fetched_at": "2026-11-10T00:57:28.711194+00:00"
+    },
+    "5f8bdadc21a358c9": {
+      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
+      "fetched_at": "2026-11-10T00:57:29.273142+00:00"
+    },
+    "e37841576fcca877": {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "fetched_at": "2026-11-10T00:57:29.838021+00:00"
+    },
+    "a70c69e968c438ae": {
+      "title": "The race is on to sue Nvidia",
+      "fetched_at": "2026-11-10T00:57:30.403399+00:00"
+    },
+    "0fc515619b1d6321": {
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "fetched_at": "2026-11-10T00:57:30.963586+00:00"
+    },
+    "b533b3284ad2e4a4": {
+      "title": "北京否认与黄仁勋有亲密关系的女性为中国间谍",
+      "fetched_at": "2026-11-10T00:57:34.177855+00:00"
+    },
+    "5da577742c8af334": {
+      "title": "黃仁勳與疑似中國間諜婚外情風波：特朗普稱FBI已介入調查",
+      "fetched_at": "2026-11-10T00:57:34.734694+00:00"
+    },
+    "d751693f6de1a6b5": {
+      "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
+      "fetched_at": "2026-11-10T00:57:35.297001+00:00"
+    },
+    "2a01c38ec039b41d": {
+      "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
+      "fetched_at": "2026-11-10T00:57:35.863383+00:00"
+    },
+    "b3fe7fd9799e4d82": {
+      "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
+      "fetched_at": "2026-11-10T00:57:36.422137+00:00"
+    },
+    "f12cba8003f61854": {
+      "title": "Nazca infant had rare, fatal birth defect that left her with one central eye 1,600 years ago",
+      "fetched_at": "2026-11-10T00:58:10.081446+00:00"
+    },
+    "c2c3ef4bbfc84777": {
+      "title": "Did human sacrifice help lower violence? New research in Peru leaves intriguing question",
+      "fetched_at": "2026-11-10T00:58:10.634602+00:00"
+    },
+    "584e036c345cce06": {
+      "title": "Inscribed Blocks Record Egyptian Official’s Biography",
+      "fetched_at": "2026-11-10T00:58:11.194451+00:00"
+    },
+    "01fea041c905d6e7": {
+      "title": "The Deep History Behind Rob Roy’s Tombstone",
+      "fetched_at": "2026-11-10T00:58:11.756358+00:00"
+    },
+    "ceff8123c8978bf2": {
+      "title": "Archaeologists Uncover Original Floor of Nubia’s Largest Medieval Cathedral",
+      "fetched_at": "2026-11-10T00:58:12.318145+00:00"
+    },
+    "942dba4b7f354752": {
+      "title": "How do summers differ between Earth's hemispheres?",
+      "fetched_at": "2026-11-10T00:58:12.898676+00:00"
+    },
+    "c1ea5704dbdf5698": {
+      "title": "Scientists say a forgotten particle may explain why the universe exists",
+      "fetched_at": "2026-11-10T00:58:13.463792+00:00"
     }
   },
-  "last_updated": "2026-11-09T14:37:28.204940+00:00"
+  "last_updated": "2026-11-10T00:58:13.532153+00:00"
 }
