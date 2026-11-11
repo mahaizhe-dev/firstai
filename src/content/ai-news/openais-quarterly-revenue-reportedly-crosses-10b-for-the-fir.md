@@ -1,0 +1,10 @@
+---
+title: 'OpenAI’s quarterly revenue reportedly crosses $10B for the first time'
+description: 'Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.'
+pubDate: 2026-11-11T16:14:44
+source: 'TechCrunch AI'
+sourceUrl: 'https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/'
+tags: []
+---
+
+Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.
