@@ -1,137 +1,5 @@
 {
   "articles": {
-    "dc41df2ba79022bd": {
-      "title": "Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting",
-      "fetched_at": "2026-11-03T00:09:01.523235+00:00"
-    },
-    "4ea25c6f684a0055": {
-      "title": "Developers are downgrading their AI on purpose – and it's working",
-      "fetched_at": "2026-11-03T00:09:02.158238+00:00"
-    },
-    "873ab8b4f801918c": {
-      "title": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
-      "fetched_at": "2026-11-03T00:09:02.776102+00:00"
-    },
-    "39a083926b0b1981": {
-      "title": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
-      "fetched_at": "2026-11-03T00:09:03.401470+00:00"
-    },
-    "7ea8cb5d0aadb46f": {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "fetched_at": "2026-11-03T00:09:04.010206+00:00"
-    },
-    "6ae8c7bf3888bffa": {
-      "title": "CloudOpsBench: AI benchmark shows FAI models struggling with cloud infra",
-      "fetched_at": "2026-11-03T00:09:04.710001+00:00"
-    },
-    "63d954ee0a29a86d": {
-      "title": "Alphabet in talks to acquire assistant startup Howie AI",
-      "fetched_at": "2026-11-03T00:09:05.332491+00:00"
-    },
-    "33b8b14944d7de95": {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "fetched_at": "2026-11-03T00:09:05.981245+00:00"
-    },
-    "5391ff25e3943391": {
-      "title": "On Learning and LLMs",
-      "fetched_at": "2026-11-03T00:09:06.613037+00:00"
-    },
-    "79927b31881572e2": {
-      "title": "AI Voice Translator",
-      "fetched_at": "2026-11-03T00:09:07.247957+00:00"
-    },
-    "2acd36d0e6e7cdd9": {
-      "title": "Will AI Replace Engineers? I Ran the Experiment [video]",
-      "fetched_at": "2026-11-03T00:09:07.882751+00:00"
-    },
-    "360dea6bde776a12": {
-      "title": "AI and Incidents with Sylvain Kalache [video]",
-      "fetched_at": "2026-11-03T00:09:08.501430+00:00"
-    },
-    "d4305e76e62a4f40": {
-      "title": "AI models may not be so opaque after all",
-      "fetched_at": "2026-11-03T00:09:09.114177+00:00"
-    },
-    "097f4a2949d3991e": {
-      "title": "AI × Hiring",
-      "fetched_at": "2026-11-03T00:09:09.728882+00:00"
-    },
-    "6f5549d82d8199cc": {
-      "title": "Lyngvi – A Hardened Sandbox for AI",
-      "fetched_at": "2026-11-03T00:09:10.350808+00:00"
-    },
-    "da48775d3995fce7": {
-      "title": "Measuring Taste – Reinforcement Learning with Neural Feedback",
-      "fetched_at": "2026-11-03T00:09:10.993079+00:00"
-    },
-    "70356a8118cbb21a": {
-      "title": "Oracle taps investors for $20B to finance AI expansion",
-      "fetched_at": "2026-11-03T00:09:11.604913+00:00"
-    },
-    "172f990dd1fb639c": {
-      "title": "Speeding up [building] planning decisions with AI",
-      "fetched_at": "2026-11-03T00:09:12.227839+00:00"
-    },
-    "26161f65ef456c0f": {
-      "title": "LifeVal: Measuring AI progress on the tasks that matter in everyday life",
-      "fetched_at": "2026-11-03T00:09:12.864473+00:00"
-    },
-    "5c5c7a44f7443b1a": {
-      "title": "Hercules Founder Brendan Falk on the AI Opportunity",
-      "fetched_at": "2026-11-03T00:09:13.569462+00:00"
-    },
-    "fd274d7e1efe460b": {
-      "title": "人工智能时代，美中关系将迎来重大变革",
-      "fetched_at": "2026-11-03T00:09:17.010265+00:00"
-    },
-    "1c65a4056d584a00": {
-      "title": "酒吧風波後，台北同志遊行在爭取什麼？",
-      "fetched_at": "2026-11-03T00:09:17.613516+00:00"
-    },
-    "7d771ddd55134adc": {
-      "title": "「英國政府對華政策摸著石頭過河」——國會報告",
-      "fetched_at": "2026-11-03T00:09:18.272952+00:00"
-    },
-    "4b4761163caeba48": {
-      "title": "觀鳥如何重塑大腦，延緩認知衰退？",
-      "fetched_at": "2026-11-03T00:09:18.882453+00:00"
-    },
-    "248e79f66df34617": {
-      "title": "Traces of ancient blood found in 115 million-year-old dinosaur fossil, new study claims",
-      "fetched_at": "2026-11-03T00:09:20.901541+00:00"
-    },
-    "83d943ab1b1d8559": {
-      "title": "Paw Prints Found in Bricks From Anatolian Bronze Age Building",
-      "fetched_at": "2026-11-03T00:09:21.502452+00:00"
-    },
-    "07a3ac2a59948a4b": {
-      "title": "Genetic Study Tracks the First Hawaiians",
-      "fetched_at": "2026-11-03T00:09:22.121614+00:00"
-    },
-    "e96a0fc0ad0317ee": {
-      "title": "Sword Recovered From Italy’s Lake Mezzano",
-      "fetched_at": "2026-11-03T00:09:22.755434+00:00"
-    },
-    "bd474724349426e8": {
-      "title": "Buried for 2,600 years beneath Nile mud, a massive ancient Egyptian complex was just found — from space",
-      "fetched_at": "2026-11-03T00:09:23.374552+00:00"
-    },
-    "6d04e2d306907d79": {
-      "title": "Webb and Hubble discover new details in one of our galaxy's spookiest objects",
-      "fetched_at": "2026-11-03T00:09:24.001097+00:00"
-    },
-    "0809b44fb60667b4": {
-      "title": "Cosmic 'seagull' locks eyes with the Vera C. Rubin Observatory in long-awaited test image",
-      "fetched_at": "2026-11-03T00:09:24.683977+00:00"
-    },
-    "d2f0179291c24074": {
-      "title": "How purported tales of consuming vampire blood and organs spread in the 18th century",
-      "fetched_at": "2026-11-03T00:09:25.306293+00:00"
-    },
-    "8f109872ac9c33ff": {
-      "title": "What happened when humans encountered Gigantopithecus?",
-      "fetched_at": "2026-11-03T00:09:25.932158+00:00"
-    },
     "53359134da5c7769": {
       "title": "Common Ground:AI agent that plans one night two different tastes will both enjoy",
       "fetched_at": "2026-11-03T13:10:59.307744+00:00"
@@ -2883,7 +2751,167 @@
     "0f49c46a068a7aa0": {
       "title": "ZWO Seestar S30 Plus review",
       "fetched_at": "2026-11-10T22:38:46.735080+00:00"
+    },
+    "bc346ab0599b2f1e": {
+      "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+      "fetched_at": "2026-11-11T03:37:31.014721+00:00"
+    },
+    "8a5635a789be2b71": {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "fetched_at": "2026-11-11T03:37:31.650784+00:00"
+    },
+    "8e007ebf68662674": {
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "fetched_at": "2026-11-11T03:37:32.289652+00:00"
+    },
+    "2041e484da537031": {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "fetched_at": "2026-11-11T03:37:32.907405+00:00"
+    },
+    "d0bacf4920650042": {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "fetched_at": "2026-11-11T03:37:33.551347+00:00"
+    },
+    "55782c6ab9ffabed": {
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "fetched_at": "2026-11-11T03:37:34.172809+00:00"
+    },
+    "035a88748715b224": {
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "fetched_at": "2026-11-11T03:37:34.798512+00:00"
+    },
+    "8a97a0a8b649cb7a": {
+      "title": "Anthropic has its own AI-powered office suite now",
+      "fetched_at": "2026-11-11T03:37:35.420328+00:00"
+    },
+    "ede52991cd735c48": {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "fetched_at": "2026-11-11T03:37:36.042403+00:00"
+    },
+    "1c26a01e08e8153a": {
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "fetched_at": "2026-11-11T03:37:36.658146+00:00"
+    },
+    "d7c7fedd2685bf68": {
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "fetched_at": "2026-11-11T03:37:37.374899+00:00"
+    },
+    "ad425c114396ca8f": {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "fetched_at": "2026-11-11T03:37:37.995448+00:00"
+    },
+    "19b3ddb877554569": {
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "fetched_at": "2026-11-11T03:37:38.615722+00:00"
+    },
+    "52c4d2091ea2972d": {
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "fetched_at": "2026-11-11T03:37:39.283672+00:00"
+    },
+    "e4250c2c8bcd3db2": {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "fetched_at": "2026-11-11T03:37:39.906370+00:00"
+    },
+    "37efc2149ab5bcc3": {
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "fetched_at": "2026-11-11T03:37:40.524970+00:00"
+    },
+    "c4cfb3cfa19861e8": {
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "fetched_at": "2026-11-11T03:37:41.143132+00:00"
+    },
+    "33762064e01ced10": {
+      "title": "Adobe is going all in on agentic AI",
+      "fetched_at": "2026-11-11T03:37:41.772483+00:00"
+    },
+    "b6bac4b16167b485": {
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "fetched_at": "2026-11-11T03:37:42.390885+00:00"
+    },
+    "9e5feb7a773f23e3": {
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "fetched_at": "2026-11-11T03:37:43.021302+00:00"
+    },
+    "752a2a52bb5565a5": {
+      "title": "黄仁勋事件中的“女主角”黄乐是谁？",
+      "fetched_at": "2026-11-11T03:37:45.800682+00:00"
+    },
+    "76821f446d5ddcd6": {
+      "title": "英國美軍在用基地反恐案件：華府稱三伊朗關聯者策劃",
+      "fetched_at": "2026-11-11T03:37:46.444008+00:00"
+    },
+    "47121c6f3515c11b": {
+      "title": "特朗普至少两次被告知黄仁勋事件，仍邀其陪同访华",
+      "fetched_at": "2026-11-11T03:37:47.050765+00:00"
+    },
+    "8c4f8959c947ee46": {
+      "title": "黃仁勳曾告訴我，那些關於中國與國家安全的問題",
+      "fetched_at": "2026-11-11T03:37:47.668369+00:00"
+    },
+    "26b66067dc190053": {
+      "title": "從局長下台到議會「沉默」 宏福苑大火後的政治問責與維穩邏輯",
+      "fetched_at": "2026-11-11T03:37:48.300288+00:00"
+    },
+    "020e9082809b5eef": {
+      "title": "顺从的董事会：黄仁勋危机考验英伟达公司治理",
+      "fetched_at": "2026-11-11T03:37:48.918964+00:00"
+    },
+    "9d091f74aad35605": {
+      "title": "為何晚上睡前總是想吃零食？可以怎麼辦？",
+      "fetched_at": "2026-11-11T03:37:49.547832+00:00"
+    },
+    "63b26ee835bc780d": {
+      "title": "一名公務員如何長期瞞天過海，身兼五職？",
+      "fetched_at": "2026-11-11T03:37:50.182491+00:00"
+    },
+    "3cf6901295eb926c": {
+      "title": "Scientists discover why some mosquitoes love you and others don't",
+      "fetched_at": "2026-11-11T03:37:52.197731+00:00"
+    },
+    "342e589274b46b2f": {
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "fetched_at": "2026-11-11T03:37:52.808920+00:00"
+    },
+    "cc7a186624419c83": {
+      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+      "fetched_at": "2026-11-11T03:37:53.427062+00:00"
+    },
+    "fc24fd97e65833e2": {
+      "title": "Astronomers discover hidden alien planet in James Webb images",
+      "fetched_at": "2026-11-11T03:37:54.050796+00:00"
+    },
+    "c96d42951a32f84a": {
+      "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
+      "fetched_at": "2026-11-11T03:37:54.687279+00:00"
+    },
+    "32798900840f91a3": {
+      "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue",
+      "fetched_at": "2026-11-11T03:37:55.331191+00:00"
+    },
+    "13d39b69c6571138": {
+      "title": "Comets may have destroyed life's ingredients instead of delivering them to Earth",
+      "fetched_at": "2026-11-11T03:37:55.946897+00:00"
+    },
+    "3c3f0dea0ad8d9a6": {
+      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+      "fetched_at": "2026-11-11T03:37:56.592625+00:00"
+    },
+    "3876fea35b6c71a1": {
+      "title": "Why heart attacks can still happen even when bad cholesterol is low",
+      "fetched_at": "2026-11-11T03:37:57.222844+00:00"
+    },
+    "0af9788816948fe0": {
+      "title": "Lycurgus Cup: A Roman glass goblet made with ancient color-changing nanotechnology",
+      "fetched_at": "2026-11-11T03:37:57.965278+00:00"
+    },
+    "ccc7cb1726d8c0ad": {
+      "title": "Blue whales have gone missing off the Galápagos. Scientists think El Niño could be why.",
+      "fetched_at": "2026-11-11T03:37:58.583840+00:00"
+    },
+    "f5b9f26e9749614a": {
+      "title": "'Now you actually have a blood test': Psychiatry's bible, the DSM, is getting upgraded to include biological markers. A psychiatrist explains what that means for mental health.",
+      "fetched_at": "2026-11-11T03:37:59.223932+00:00"
     }
   },
-  "last_updated": "2026-11-10T22:38:46.842724+00:00"
+  "last_updated": "2026-11-11T03:37:59.285854+00:00"
 }

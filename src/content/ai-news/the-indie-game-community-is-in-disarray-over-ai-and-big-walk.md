@@ -1,0 +1,10 @@
+---
+title: 'The indie game community is in disarray over AI and Big Walk'
+description: 'Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in "any capacity." Soon after, the developer of indie hit Big W'
+pubDate: 2026-11-10T12:32:47
+source: 'The Verge AI'
+sourceUrl: 'https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai'
+tags: []
+---
+
+Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in "any capacity." Soon after, the developer of indie hit Big Walk has published a statement saying it "sparingly" used AI in the "final stretch" of the game's development to "help work through difficult [&#8230;]
