@@ -1,0 +1,10 @@
+---
+title: 'Show HN: Lynx – open-source fully-customizable AI workspace'
+description: 'I was finding that managing multiple agent threads with walls of text was getting tiring and inefficient for me and that I wanted a more visual way to interact with my agents, so I built Lynx.Lynx let'
+pubDate: 2026-11-12T01:26:11
+source: 'Hacker News'
+sourceUrl: 'https://github.com/yakkomajuri/lynx'
+tags: []
+---
+
+I was finding that managing multiple agent threads with walls of text was getting tiring and inefficient for me and that I wanted a more visual way to interact with my agents, so I built Lynx.Lynx lets you quickly build fully custom interfaces connected to your data sources (e.g. via MCP or API) and trigger agents running on your machine from them (e.g. with Claude Code or Codex).I built it as an experiment but have found myself doing 80-90% of my work from inside Lynx. I have my own Conductor-like workspace for coding, a Mail client, a workspace for my writing, and various others for dashboards and explorations.A few things are really cool about it:- Adding buttons to a UI that trigger a Claude Code agent running on my machine (e.g. to review a PR, get started on a task from Linear, or look for typos in my text)- Iterating on the interfaces is really easy, particularly because of a point tool that let's you select what you want changed and an agent will update it live- Switching between workspaces takes a fraction of a second (much faster than e.g. switching between websites)- It's all local :)Harnesses have been moving towards native support for artifacts and MCP-UI which kind of go in this direction but I think the current models add to context fragmentation rather than actually help it, so I flipped the model on its head and built an AI workspace / harness where interactive interfaces are at the core.Calling this an AI workspace for now but honestly unsure what the proper term should be. Is this a visual harness? A hub for personal software?Keen to hear feedback about the conceptual model and what others have done that might be similar! Comments URL: https://news.ycombinator.com/item?id=50461775 Points: 1 # Comments: 0
