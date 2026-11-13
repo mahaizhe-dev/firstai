@@ -1,157 +1,5 @@
 {
   "articles": {
-    "3be90ca1a08a3177": {
-      "title": "What's the worst bug an AI coding agent silently introduced into your code?",
-      "fetched_at": "2026-11-05T04:03:16.317138+00:00"
-    },
-    "7b9e11091e5c92aa": {
-      "title": "Septaro, an AI-powered weekly reset to help you pursue your goals",
-      "fetched_at": "2026-11-05T04:03:16.966751+00:00"
-    },
-    "19a36e64e0ee0fd4": {
-      "title": "The $18B Contingent Workforce Machine",
-      "fetched_at": "2026-11-05T04:03:17.586723+00:00"
-    },
-    "50d055e4b8e2eb73": {
-      "title": "Flims and TV shows created using AI have now reached a high level of quality",
-      "fetched_at": "2026-11-05T04:03:18.193205+00:00"
-    },
-    "d089afc891c61409": {
-      "title": "Apple 官网排版细节鉴赏",
-      "fetched_at": "2026-11-05T04:03:18.823547+00:00"
-    },
-    "0cdbfbf8b4ead87e": {
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "fetched_at": "2026-11-05T04:03:19.454888+00:00"
-    },
-    "bc1592ee0f193977": {
-      "title": "Ask HN: AI Coding Preference",
-      "fetched_at": "2026-11-05T04:03:20.055077+00:00"
-    },
-    "b6da364cefec0217": {
-      "title": "2026: The State of Enterprise AI",
-      "fetched_at": "2026-11-05T04:03:20.658273+00:00"
-    },
-    "a1e30e53f613838a": {
-      "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
-      "fetched_at": "2026-11-05T04:03:21.368135+00:00"
-    },
-    "f19c7e928edc8dcd": {
-      "title": "Bansat – Make your AI agent write the blueprint before the code",
-      "fetched_at": "2026-11-05T04:03:21.982196+00:00"
-    },
-    "95a1f712c52fac8e": {
-      "title": "Siri AI is now open to all developers",
-      "fetched_at": "2026-11-05T04:03:22.610492+00:00"
-    },
-    "ad999e1917c399b9": {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "fetched_at": "2026-11-05T04:03:23.336240+00:00"
-    },
-    "ec4332bd81458cc2": {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "fetched_at": "2026-11-05T04:03:23.952965+00:00"
-    },
-    "1fe2e892eeb1b44f": {
-      "title": "The anatomy of language model inference and reinforcement learning",
-      "fetched_at": "2026-11-05T04:03:24.559316+00:00"
-    },
-    "c5b457905b57c010": {
-      "title": "Harvey AI Is Proud to Sponsor the HBO Original Series, War",
-      "fetched_at": "2026-11-05T04:03:25.171154+00:00"
-    },
-    "8353b630ce189c50": {
-      "title": "American Voters Overwhelmingly Reject AI Data Centers",
-      "fetched_at": "2026-11-05T04:03:25.780642+00:00"
-    },
-    "eebd56f200605d43": {
-      "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
-      "fetched_at": "2026-11-05T04:03:26.686932+00:00"
-    },
-    "b7d8f1ad0d587455": {
-      "title": "Show HN: Cinnamon – safer AI agent for household, private and shared context",
-      "fetched_at": "2026-11-05T04:03:27.370341+00:00"
-    },
-    "a2276fb18f378c42": {
-      "title": "Ask HN: Have you changed your setup in the age of AI and mass vulnerabilities?",
-      "fetched_at": "2026-11-05T04:03:27.980499+00:00"
-    },
-    "46412e325e0f3ae4": {
-      "title": "CodeRabbit – Automated review, triage, and security for AI-generated PRs",
-      "fetched_at": "2026-11-05T04:03:28.598561+00:00"
-    },
-    "6d8d300ee9f85e00": {
-      "title": "民主黨重掌美國國會：能做什麼、不能做什麼？",
-      "fetched_at": "2026-11-05T04:03:31.853028+00:00"
-    },
-    "e2e95f12ca5778bc": {
-      "title": "黃之鋒勾結罪國安案判囚10年",
-      "fetched_at": "2026-11-05T04:03:32.470095+00:00"
-    },
-    "f940848615fbb601": {
-      "title": "美国选民为何拒绝特朗普的共和党",
-      "fetched_at": "2026-11-05T04:03:33.112201+00:00"
-    },
-    "5eb5828ce2d890ce": {
-      "title": "共和党惨败之夜：美国中期选举结果八大要点",
-      "fetched_at": "2026-11-05T04:03:33.735404+00:00"
-    },
-    "13878c4f19448604": {
-      "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
-      "fetched_at": "2026-11-05T04:03:34.363102+00:00"
-    },
-    "0703e864aab07dc1": {
-      "title": "“特朗普全面惨败”上热搜，世界如何看待美国中期选举？",
-      "fetched_at": "2026-11-05T04:03:34.980140+00:00"
-    },
-    "e6360bc193ad8119": {
-      "title": "NASA is racing against time to save the Hubble Space Telescope",
-      "fetched_at": "2026-11-05T04:03:38.054282+00:00"
-    },
-    "4253e96a963eb6b3": {
-      "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-      "fetched_at": "2026-11-05T04:03:38.657881+00:00"
-    },
-    "731a047b4f2a9c26": {
-      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
-      "fetched_at": "2026-11-05T04:03:39.272552+00:00"
-    },
-    "cdf809e3a0c283f8": {
-      "title": "A 3,200-pound NASA spacecraft could fall to Earth any minute now",
-      "fetched_at": "2026-11-05T04:03:39.891185+00:00"
-    },
-    "dfb0b10bec8faf55": {
-      "title": "Is AI making you lazier?",
-      "fetched_at": "2026-11-05T04:03:40.524045+00:00"
-    },
-    "801930a01e7d0bd8": {
-      "title": "Rare tiger behaviors captured on camera show 'we really know nothing about them'",
-      "fetched_at": "2026-11-05T04:03:41.133146+00:00"
-    },
-    "48fa62648047bb48": {
-      "title": "30,000-year-old bone found in French cave reveals vast genetic connections between people of Eastern and Western Europe during the Stone Age",
-      "fetched_at": "2026-11-05T04:03:41.731414+00:00"
-    },
-    "900843c5dc05aa7f": {
-      "title": "Hepatitis B could surge, infecting millions more in childhood, under proposed CDC guidance",
-      "fetched_at": "2026-11-05T04:03:42.377491+00:00"
-    },
-    "d8450af4c7bd5090": {
-      "title": "Native Hawaiians and Easter Islanders came from same 'ultravoyager' group",
-      "fetched_at": "2026-11-05T04:03:42.994933+00:00"
-    },
-    "b52c7e31227ca390": {
-      "title": "James Webb telescope discovers rare ring galaxy and 'intruder' 2 billion years after the Big Bang",
-      "fetched_at": "2026-11-05T04:03:43.608426+00:00"
-    },
-    "d3b82ff816cc115c": {
-      "title": "Scientists invent implant that can transform sugar in the blood to treat type 2 diabetes",
-      "fetched_at": "2026-11-05T04:03:44.228248+00:00"
-    },
-    "0360993731f6d818": {
-      "title": "Twin hurricanes stare out to space as they barrel toward Hawaii",
-      "fetched_at": "2026-11-05T04:03:44.863670+00:00"
-    },
     "aa87af059fb9d630": {
       "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
       "fetched_at": "2026-11-05T13:40:05.184112+00:00"
@@ -2923,7 +2771,167 @@
     "3e9890ddcc35b288": {
       "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
       "fetched_at": "2026-11-13T03:58:11.438847+00:00"
+    },
+    "5fcc143ed3980417": {
+      "title": "How to Build Reliable Agentic AI Systems for Vertical AI Companies",
+      "fetched_at": "2026-11-13T13:34:41.686911+00:00"
+    },
+    "ae165597457e3f30": {
+      "title": "Never Twice dont let the AI agent do mistake again",
+      "fetched_at": "2026-11-13T13:34:42.246617+00:00"
+    },
+    "0d2802ac2076b98d": {
+      "title": "Show HN: CloudHike – A backend your AI coding agent can set up over MCP",
+      "fetched_at": "2026-11-13T13:34:42.809845+00:00"
+    },
+    "c65fcd9b56bfa784": {
+      "title": "Tentative Advice on Building with AI",
+      "fetched_at": "2026-11-13T13:34:43.367302+00:00"
+    },
+    "4b018833dc5d9a28": {
+      "title": "AI Mixing and Mastering Services Compared",
+      "fetched_at": "2026-11-13T13:34:43.961726+00:00"
+    },
+    "18174cdec609a958": {
+      "title": "How Strata Fits a 125B AI Model into Consumer Hardware",
+      "fetched_at": "2026-11-13T13:34:44.524419+00:00"
+    },
+    "7699062ec9811bd7": {
+      "title": "Tech Job Market 2026, Where Is AI's VisiCalc? – Food for Agile Thought #570",
+      "fetched_at": "2026-11-13T13:34:45.109454+00:00"
+    },
+    "e37bcf9de4572f82": {
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "fetched_at": "2026-11-13T13:34:45.663002+00:00"
+    },
+    "9bb90334014ce150": {
+      "title": "A DrRacket style editor for Clojure with some Lisp Machine inspired features",
+      "fetched_at": "2026-11-13T13:34:46.220033+00:00"
+    },
+    "55a41fca6e8e8925": {
+      "title": "Tests as data: Ensuring AI-generated code does what we want",
+      "fetched_at": "2026-11-13T13:34:46.826292+00:00"
+    },
+    "90f4363216c8c68b": {
+      "title": "AI agents have a big problem: Nobody wants to let them in",
+      "fetched_at": "2026-11-13T13:34:47.394780+00:00"
+    },
+    "4b6baf9cbe389255": {
+      "title": "AI Room Design from Your Photo – 2 Free Designs",
+      "fetched_at": "2026-11-13T13:34:47.963568+00:00"
+    },
+    "d3ebef63755bb121": {
+      "title": "Image to Image AI: Transform Any Photo with a Prompt",
+      "fetched_at": "2026-11-13T13:34:48.535927+00:00"
+    },
+    "8776cccf2764d05a": {
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "fetched_at": "2026-11-13T13:34:49.099096+00:00"
+    },
+    "6163c93ee290f416": {
+      "title": "Show HN: AI News Agg – Know what's trending in AI news",
+      "fetched_at": "2026-11-13T13:34:49.656209+00:00"
+    },
+    "fad7c1db635f5c3b": {
+      "title": "AI has proved that a theory underpinning fundamental physics is trustworthy",
+      "fetched_at": "2026-11-13T13:34:50.220121+00:00"
+    },
+    "8b89c2d7de7d3c23": {
+      "title": "An open character, made by AI",
+      "fetched_at": "2026-11-13T13:34:50.788862+00:00"
+    },
+    "b90a6ede1731c30c": {
+      "title": "Finding Critical Infrastructure Bugs with Off-the-Shelf AI",
+      "fetched_at": "2026-11-13T13:34:51.361858+00:00"
+    },
+    "5ba61ca9dacb78d8": {
+      "title": "The Complete Guide to LLM Evaluation",
+      "fetched_at": "2026-11-13T13:34:51.929258+00:00"
+    },
+    "3fdb410f8b055597": {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "fetched_at": "2026-11-13T13:34:52.495262+00:00"
+    },
+    "3552416cc81143c4": {
+      "title": "後黃仁勳時代：誰是Nvidia下任掌門人？晶片競賽走向何方",
+      "fetched_at": "2026-11-13T13:34:55.148834+00:00"
+    },
+    "ae95ef8170e4cd9c": {
+      "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
+      "fetched_at": "2026-11-13T13:34:55.706421+00:00"
+    },
+    "34a08c7e747b3112": {
+      "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動台灣產業、政治與社會？",
+      "fetched_at": "2026-11-13T13:34:56.271258+00:00"
+    },
+    "4d3213528b8bcf7d": {
+      "title": "黃仁勳辭職餘波：中國輿論場上的「間諜」迷因、選舉猜想與股價「黑天鵝」",
+      "fetched_at": "2026-11-13T13:34:56.833661+00:00"
+    },
+    "4714389e0fcd6ff4": {
+      "title": "BBC調查揭英國「全球人才簽證」造假產業：中介助移民冒充藝術家及科技專才",
+      "fetched_at": "2026-11-13T13:34:57.481278+00:00"
+    },
+    "21ee685f2dd9e4fb": {
+      "title": "深陷醜聞的黃仁勳辭職，AI芯片巨頭Nvidia陷入動盪",
+      "fetched_at": "2026-11-13T13:34:58.047196+00:00"
+    },
+    "82dd2ca33b732029": {
+      "title": "黃仁勳辭職：這位AI遠見者，如何栽在自己的錯誤決定上",
+      "fetched_at": "2026-11-13T13:34:58.617618+00:00"
+    },
+    "ee6250ba359b8513": {
+      "title": "美國人如何背棄特朗普——2026中期大選結果覆盤",
+      "fetched_at": "2026-11-13T13:34:59.198137+00:00"
+    },
+    "d5dad08aab878a90": {
+      "title": "黄仁勋因何跌落神坛？傲慢与自负",
+      "fetched_at": "2026-11-13T13:34:59.788929+00:00"
+    },
+    "fb033e4015aff14c": {
+      "title": "黄仁勋丑闻引发人工智能“玩梗”热潮",
+      "fetched_at": "2026-11-13T13:35:00.390341+00:00"
+    },
+    "0a4698d3382c5d4d": {
+      "title": "武契奇14年執政落幕，中塞「鐵桿友誼」何去何從？",
+      "fetched_at": "2026-11-13T13:35:00.960294+00:00"
+    },
+    "73b253b57af16714": {
+      "title": "Romans carefully dismantled statue of emperor when they withdrew from Scotland 1,800 years ago, leaving only his foot behind",
+      "fetched_at": "2026-11-13T13:35:03.594225+00:00"
+    },
+    "105c6c29c46631b5": {
+      "title": "Astronomers confirm a tiny new moon is orbiting Earth, and it'll stick around for the holidays",
+      "fetched_at": "2026-11-13T13:35:04.170854+00:00"
+    },
+    "80063ee36b7713a2": {
+      "title": "This AI finds patterns in visual brain activity and turns them into pictures",
+      "fetched_at": "2026-11-13T13:35:04.738916+00:00"
+    },
+    "64c77f89fad1a2b0": {
+      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+      "fetched_at": "2026-11-13T13:35:05.310338+00:00"
+    },
+    "3cac1b6a1ebc5a0b": {
+      "title": "Superheated magma could fuel towering lava fountains",
+      "fetched_at": "2026-11-13T13:35:05.871138+00:00"
+    },
+    "0224390f129dace5": {
+      "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+      "fetched_at": "2026-11-13T13:35:06.456268+00:00"
+    },
+    "504bbc28f614583b": {
+      "title": "The Sun unleashed a monster storm. Earth may have made it worse",
+      "fetched_at": "2026-11-13T13:35:07.021505+00:00"
+    },
+    "27e3d63676f6c257": {
+      "title": "Swift has fallen: NASA's 22-year-old space telescope burns up over Sumatra",
+      "fetched_at": "2026-11-13T13:35:07.601696+00:00"
+    },
+    "c615460090167979": {
+      "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+      "fetched_at": "2026-11-13T13:35:08.166568+00:00"
     }
   },
-  "last_updated": "2026-11-13T03:58:11.504312+00:00"
+  "last_updated": "2026-11-13T13:35:08.228636+00:00"
 }
