@@ -1,77 +1,5 @@
 {
   "articles": {
-    "aa87af059fb9d630": {
-      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-      "fetched_at": "2026-11-05T13:40:05.184112+00:00"
-    },
-    "09de30948ccd7b5c": {
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "fetched_at": "2026-11-05T13:40:05.844919+00:00"
-    },
-    "fa9005e75e9b07dc": {
-      "title": "Big Tech’s big AI buildout will not end until someone stops it",
-      "fetched_at": "2026-11-05T13:40:06.458362+00:00"
-    },
-    "ca2dbe19068e4edd": {
-      "title": "新玩意 255｜少数派的编辑们最近买了啥？",
-      "fetched_at": "2026-11-05T13:40:07.067447+00:00"
-    },
-    "c6ad29c4f5f6b114": {
-      "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
-      "fetched_at": "2026-11-05T13:40:07.675290+00:00"
-    },
-    "88e6c2c6f31fb363": {
-      "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
-      "fetched_at": "2026-11-05T13:40:08.286142+00:00"
-    },
-    "254f66b0a35fbab0": {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "fetched_at": "2026-11-05T13:40:08.911454+00:00"
-    },
-    "422bba441fa8269b": {
-      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
-      "fetched_at": "2026-11-05T13:40:09.541234+00:00"
-    },
-    "106f55a2e4394158": {
-      "title": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
-      "fetched_at": "2026-11-05T13:40:13.030580+00:00"
-    },
-    "86de35755834277b": {
-      "title": "前央視節目主講人程萬軍在台尋求庇護未果 被送返泰國",
-      "fetched_at": "2026-11-05T13:40:13.656184+00:00"
-    },
-    "4f7b3ccc03b9ef6e": {
-      "title": "他們在等西西弗斯：黃之鋒身後，那些寫信和探監的前戰友",
-      "fetched_at": "2026-11-05T13:40:14.267112+00:00"
-    },
-    "117b6bc4243a0641": {
-      "title": "特朗普的新身份：跛脚鸭总统",
-      "fetched_at": "2026-11-05T13:40:14.888954+00:00"
-    },
-    "a1c44de5fd1dd7f1": {
-      "title": "特朗普如何将“一手好牌打得稀烂”",
-      "fetched_at": "2026-11-05T13:40:15.515549+00:00"
-    },
-    "7183cfdbbd03983a": {
-      "title": "“一夜爆红”能否拯救她妈妈的中餐馆？",
-      "fetched_at": "2026-11-05T13:40:16.174590+00:00"
-    },
-    "bc3f6a0e2f860def": {
-      "title": "黄之锋因“勾结外国势力”被判10年监禁",
-      "fetched_at": "2026-11-05T13:40:16.788224+00:00"
-    },
-    "ad48437ec8301287": {
-      "title": "One-third of babies diagnosed with peanut allergy don't actually have one, study hints",
-      "fetched_at": "2026-11-05T13:40:18.418720+00:00"
-    },
-    "301e7fd61b72069d": {
-      "title": "Physicists sank a telescope 1.5 miles under the sea to put Einstein's relativity to the test",
-      "fetched_at": "2026-11-05T13:40:19.036052+00:00"
-    },
-    "903df969c631892c": {
-      "title": "A tiny chunk of Australia seeded Southeast Asia's tropical forests 50 million years ago, plant fossils preserved in amber reveal",
-      "fetched_at": "2026-11-05T13:40:19.647744+00:00"
-    },
     "b1e74b6235be6131": {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "fetched_at": "2026-11-05T22:59:34.093641+00:00"
@@ -2931,7 +2859,119 @@
     "c615460090167979": {
       "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
       "fetched_at": "2026-11-13T13:35:08.166568+00:00"
+    },
+    "ccef03a91c9bce1f": {
+      "title": "QuAIA: An open-source team of AI agents that handles the whole test process",
+      "fetched_at": "2026-11-13T22:58:59.525748+00:00"
+    },
+    "a09650a353f5b063": {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "fetched_at": "2026-11-13T22:59:00.149745+00:00"
+    },
+    "9e96583f72db6ff8": {
+      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+      "fetched_at": "2026-11-13T22:59:00.788553+00:00"
+    },
+    "4f477a6ef621b13d": {
+      "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
+      "fetched_at": "2026-11-13T22:59:01.407897+00:00"
+    },
+    "ada49cf759184773": {
+      "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
+      "fetched_at": "2026-11-13T22:59:01.408025+00:00"
+    },
+    "6772ca35cdd9530b": {
+      "title": "My first two months with AI agents: some confident assertions",
+      "fetched_at": "2026-11-13T22:59:02.028334+00:00"
+    },
+    "fa5253ee72259cad": {
+      "title": "DSPy vs. LangGraph: AI Agent Frameworks Explained – Stanford CS329Z [video]",
+      "fetched_at": "2026-11-13T22:59:02.657833+00:00"
+    },
+    "dfe1d4d7dab459f2": {
+      "title": "Warning of interruptions as AI models by Anthropic, OpenAI and others evolve",
+      "fetched_at": "2026-11-13T22:59:03.289318+00:00"
+    },
+    "85574aa7ebf4d0c6": {
+      "title": "Skills that stop AI coding agents from touching production",
+      "fetched_at": "2026-11-13T22:59:03.915711+00:00"
+    },
+    "ab1d20ad1acb9a92": {
+      "title": "FAA Rolls Out AI Air Traffic Tool (2026-11-12)",
+      "fetched_at": "2026-11-13T22:59:04.538018+00:00"
+    },
+    "4f2da0b84dafa3c6": {
+      "title": "Evidence Chinese AI labs built their newest models on Nvidia's Blackwell chips",
+      "fetched_at": "2026-11-13T22:59:05.214890+00:00"
+    },
+    "a995b339b9cebbbf": {
+      "title": "Rainshare: Mutual aid for AI coding plans and usage limits",
+      "fetched_at": "2026-11-13T22:59:05.860086+00:00"
+    },
+    "c44c77b387ccf78f": {
+      "title": "Show HN: Free AI Image Gallery",
+      "fetched_at": "2026-11-13T22:59:06.488534+00:00"
+    },
+    "3a512336d2cfd5d3": {
+      "title": "Cooperation Between Autonomous LLM Agents in the Prisoner's Dilemma",
+      "fetched_at": "2026-11-13T22:59:07.129045+00:00"
+    },
+    "b70993510db19a04": {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "fetched_at": "2026-11-13T22:59:07.751777+00:00"
+    },
+    "bf6380d289821b8c": {
+      "title": "The Chinese city powering the country's AI ambitions with data farms",
+      "fetched_at": "2026-11-13T22:59:08.369501+00:00"
+    },
+    "6cfd6ff13392da60": {
+      "title": "AI Company Employees Should Unionize",
+      "fetched_at": "2026-11-13T22:59:09.001134+00:00"
+    },
+    "dc68ce2590e70a61": {
+      "title": "DeepMind opens the datasets behind its AI weather models",
+      "fetched_at": "2026-11-13T22:59:09.631408+00:00"
+    },
+    "7c691b1f2a39e9f3": {
+      "title": "A board game where you play an AI lab CEO racing to AGI [video]",
+      "fetched_at": "2026-11-13T22:59:10.247652+00:00"
+    },
+    "d1441b1fb207a39a": {
+      "title": "How the U.S.'s biggest news union is fighting an AI onslaught",
+      "fetched_at": "2026-11-13T22:59:10.890844+00:00"
+    },
+    "a9b8d737ad91b1a7": {
+      "title": "Study Suggests Ancient Peruvians Adapted to Environmental Stressors",
+      "fetched_at": "2026-11-13T22:59:16.090168+00:00"
+    },
+    "7a25137ecb6a1cb9": {
+      "title": "Scientists discover two adorable species of howler monkey in the Amazon — and they're already endangered",
+      "fetched_at": "2026-11-13T22:59:16.711332+00:00"
+    },
+    "12436925c5642c1d": {
+      "title": "Health of Mummified Egyptian Cats Evaluated",
+      "fetched_at": "2026-11-13T22:59:17.358427+00:00"
+    },
+    "945e8c832a047421": {
+      "title": "Who Constructed the Megalithic Tombs on Spain’s Cape Trafalgar?",
+      "fetched_at": "2026-11-13T22:59:17.976738+00:00"
+    },
+    "d4ab377ec719f5d9": {
+      "title": "'Godless' founder of utilitarianism had severe dental problems and was in 'excruciating pain,' CT scans of his severed head reveal",
+      "fetched_at": "2026-11-13T22:59:18.593458+00:00"
+    },
+    "e6360bc193ad8119": {
+      "title": "NASA is racing against time to save the Hubble Space Telescope",
+      "fetched_at": "2026-11-13T22:59:19.211148+00:00"
+    },
+    "4253e96a963eb6b3": {
+      "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+      "fetched_at": "2026-11-13T22:59:19.835374+00:00"
+    },
+    "731a047b4f2a9c26": {
+      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+      "fetched_at": "2026-11-13T22:59:20.473932+00:00"
     }
   },
-  "last_updated": "2026-11-13T13:35:08.228636+00:00"
+  "last_updated": "2026-11-13T22:59:20.579856+00:00"
 }
