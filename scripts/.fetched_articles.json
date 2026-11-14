@@ -1,153 +1,5 @@
 {
   "articles": {
-    "b1e74b6235be6131": {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "fetched_at": "2026-11-05T22:59:34.093641+00:00"
-    },
-    "8975ef7728340e3d": {
-      "title": "China Plans Broad AI Guardrails After Global Security Lapses",
-      "fetched_at": "2026-11-05T22:59:34.648395+00:00"
-    },
-    "e23478f4ab807f27": {
-      "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
-      "fetched_at": "2026-11-05T22:59:35.206536+00:00"
-    },
-    "4fced208f2b8fd82": {
-      "title": "Perplexity launches its own take on AI agents for work",
-      "fetched_at": "2026-11-05T22:59:35.764096+00:00"
-    },
-    "c43db6712eda24fd": {
-      "title": "Hedge Funds Were 'Massive' Sellers of AI Debt, RBC's Skiba Says",
-      "fetched_at": "2026-11-05T22:59:36.323979+00:00"
-    },
-    "db64414f77569214": {
-      "title": "Ask HN: In the age of agentic AI, do you still pair program?",
-      "fetched_at": "2026-11-05T22:59:36.883321+00:00"
-    },
-    "3f05342f3c3b6125": {
-      "title": "Ask HN: How do AI agents help you in your daily life?",
-      "fetched_at": "2026-11-05T22:59:37.441204+00:00"
-    },
-    "fefedcc9aed30aec": {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "fetched_at": "2026-11-05T22:59:37.999766+00:00"
-    },
-    "cac4bc627981ff4a": {
-      "title": "The Cost of AI Code Shows Up 30 Days Later",
-      "fetched_at": "2026-11-05T22:59:38.563347+00:00"
-    },
-    "f5a0015915d21748": {
-      "title": "Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?",
-      "fetched_at": "2026-11-05T22:59:39.128238+00:00"
-    },
-    "233bb9afec12a1f0": {
-      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-      "fetched_at": "2026-11-05T22:59:39.686963+00:00"
-    },
-    "95a528f6966a7f85": {
-      "title": "VSL Performer (AI generated orchestral tracks)",
-      "fetched_at": "2026-11-05T22:59:40.241578+00:00"
-    },
-    "f538f89a30ccb220": {
-      "title": "Show HN: Cerea – yet another self-hosted LLM chat front end",
-      "fetched_at": "2026-11-05T22:59:40.808866+00:00"
-    },
-    "d23a0735de3dd637": {
-      "title": "AI finds security bugs faster than they get fixed. Should the 90day rule change?",
-      "fetched_at": "2026-11-05T22:59:41.370730+00:00"
-    },
-    "b9a883d37e5d498a": {
-      "title": "Google offers schools AI-boosted search or none at all",
-      "fetched_at": "2026-11-05T22:59:41.928972+00:00"
-    },
-    "40e1fc23f64fcbe5": {
-      "title": "AI SRE Teammate",
-      "fetched_at": "2026-11-05T22:59:42.492886+00:00"
-    },
-    "6ce0e83330e2402b": {
-      "title": "Show HN: Agentshield Zero-leak kernel sandbox and secret defense for AI coding",
-      "fetched_at": "2026-11-05T22:59:43.051938+00:00"
-    },
-    "5ca28bfb09642a2e": {
-      "title": "Could AI give NFTs a second chance?",
-      "fetched_at": "2026-11-05T22:59:43.615718+00:00"
-    },
-    "ffc6479b2fd5ae69": {
-      "title": "Wallet screening your AI agent can call over MCP",
-      "fetched_at": "2026-11-05T22:59:44.170989+00:00"
-    },
-    "c4ea62df1f42faf3": {
-      "title": "Z.ai says GLM 5.5 built on 1T web pages",
-      "fetched_at": "2026-11-05T22:59:44.735614+00:00"
-    },
-    "fc241f65e6e4d9c9": {
-      "title": "什麼時候「豪華經濟艙」值得多花錢？來比較2026年全球五強",
-      "fetched_at": "2026-11-05T22:59:47.760204+00:00"
-    },
-    "c0807c81425a1f40": {
-      "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
-      "fetched_at": "2026-11-05T22:59:48.320945+00:00"
-    },
-    "826dc56a24c278b6": {
-      "title": "Mathematical Exploration and Discovery at Scale",
-      "fetched_at": "2026-11-05T22:59:51.955239+00:00"
-    },
-    "9e0f1e70ad02f15d": {
-      "title": "Tracing the spread of Celtic languages using ancient genomics",
-      "fetched_at": "2026-11-05T22:59:52.512543+00:00"
-    },
-    "128e90b650759225": {
-      "title": "2,800-year-old tomb in Siberia has evidence of the earliest use of cannabis — possibly as a way to calm human sacrifice victims",
-      "fetched_at": "2026-11-05T22:59:53.106625+00:00"
-    },
-    "073efc442c2e3312": {
-      "title": "Cryptic padlock from a 400-year-old shipwreck finally opened ‪—‬ but it leaves a mystery",
-      "fetched_at": "2026-11-05T22:59:53.668777+00:00"
-    },
-    "7a65a7473fa5aec7": {
-      "title": "Neolithic Cemetery Excavated Near Paris",
-      "fetched_at": "2026-11-05T22:59:54.255533+00:00"
-    },
-    "d871a50f4a9e6cf3": {
-      "title": "Code for 16th-Century Combination Lock Cracked",
-      "fetched_at": "2026-11-05T22:59:54.820051+00:00"
-    },
-    "659089316d294827": {
-      "title": "Southern Italian Burial May Have Belonged to a Priestess",
-      "fetched_at": "2026-11-05T22:59:55.388817+00:00"
-    },
-    "fea78e2be22015c3": {
-      "title": "1,600-year-old burial holds remains of man infected with a 'very rare' strain of leprosy in Germany",
-      "fetched_at": "2026-11-05T22:59:55.946495+00:00"
-    },
-    "c6615c1b10f9163e": {
-      "title": "'We’re looking at how a bear sees the world': From forest trails to 'Sims for Bears,' researchers are learning how grizzlies navigate a fragmented wilderness",
-      "fetched_at": "2026-11-05T22:59:56.508082+00:00"
-    },
-    "b5f9c89bc4f4d7c6": {
-      "title": "7 stunning Weather Photographer of the Year photos that capture the beauty and power of our planet",
-      "fetched_at": "2026-11-05T22:59:57.063179+00:00"
-    },
-    "b4434ffddd6eeb3e": {
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "fetched_at": "2026-11-05T22:59:57.625925+00:00"
-    },
-    "f1fc68270ddfa70d": {
-      "title": "Scientists discover that a clogged filter could revolutionize oil refining",
-      "fetched_at": "2026-11-05T22:59:58.187626+00:00"
-    },
-    "ad744c26a711551f": {
-      "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
-      "fetched_at": "2026-11-05T22:59:58.755644+00:00"
-    },
-    "da760e391a7bf2a3": {
-      "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
-      "fetched_at": "2026-11-05T22:59:59.318746+00:00"
-    },
-    "4e3a6456bb5d5dbe": {
-      "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
-      "fetched_at": "2026-11-05T22:59:59.884290+00:00"
-    },
     "926b7fcf54277c2e": {
       "title": "AI and the Future of the Product Role",
       "fetched_at": "2026-11-06T04:01:07.555816+00:00"
@@ -2971,7 +2823,99 @@
     "731a047b4f2a9c26": {
       "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
       "fetched_at": "2026-11-13T22:59:20.473932+00:00"
+    },
+    "ca1f0ae4bc212626": {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "fetched_at": "2026-11-14T03:55:35.368022+00:00"
+    },
+    "c61eed79a51d220f": {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "fetched_at": "2026-11-14T03:55:35.995167+00:00"
+    },
+    "a0833d0835b9d7cb": {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "fetched_at": "2026-11-14T03:55:36.622719+00:00"
+    },
+    "42d62dabe46491f3": {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "fetched_at": "2026-11-14T03:55:37.240142+00:00"
+    },
+    "a4d64382049ae16f": {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "fetched_at": "2026-11-14T03:55:37.240231+00:00"
+    },
+    "14540bbdc422e83b": {
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "fetched_at": "2026-11-14T03:55:37.875503+00:00"
+    },
+    "d6b06a982f3fa9d9": {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "fetched_at": "2026-11-14T03:55:38.493394+00:00"
+    },
+    "aee07df147f42305": {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "fetched_at": "2026-11-14T03:55:39.193874+00:00"
+    },
+    "46caf2581d974dc8": {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "fetched_at": "2026-11-14T03:55:39.819096+00:00"
+    },
+    "f54ac924d0248e94": {
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+      "fetched_at": "2026-11-14T03:55:40.450254+00:00"
+    },
+    "4f9af804ed661ce1": {
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "fetched_at": "2026-11-14T03:55:41.076395+00:00"
+    },
+    "3013d8573fa4054a": {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "fetched_at": "2026-11-14T03:55:41.076470+00:00"
+    },
+    "7f27f52e7af52767": {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "fetched_at": "2026-11-14T03:55:41.699329+00:00"
+    },
+    "cfdffa8e4626d00e": {
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "fetched_at": "2026-11-14T03:55:42.325155+00:00"
+    },
+    "95fcb1aee2434814": {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "fetched_at": "2026-11-14T03:55:42.950319+00:00"
+    },
+    "02e518ef2b534b6a": {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "fetched_at": "2026-11-14T03:55:43.586815+00:00"
+    },
+    "6329566384a084ff": {
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "fetched_at": "2026-11-14T03:55:44.220420+00:00"
+    },
+    "c8828082a16de65d": {
+      "title": "The Jensen Huang scandal is hardly over",
+      "fetched_at": "2026-11-14T03:55:44.828408+00:00"
+    },
+    "5bd93ad0bd8af57a": {
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "fetched_at": "2026-11-14T03:55:45.464308+00:00"
+    },
+    "e8522b00273f7bec": {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "fetched_at": "2026-11-14T03:55:46.081075+00:00"
+    },
+    "4f7b3ccc03b9ef6e": {
+      "title": "他們在等西西弗斯：黃之鋒身後，那些寫信和探監的前戰友",
+      "fetched_at": "2026-11-14T03:55:49.593334+00:00"
+    },
+    "ad48437ec8301287": {
+      "title": "One-third of babies diagnosed with peanut allergy don't actually have one, study hints",
+      "fetched_at": "2026-11-14T03:55:51.452255+00:00"
+    },
+    "301e7fd61b72069d": {
+      "title": "Physicists sank a telescope 1.5 miles under the sea to put Einstein's relativity to the test",
+      "fetched_at": "2026-11-14T03:55:52.088343+00:00"
     }
   },
-  "last_updated": "2026-11-13T22:59:20.579856+00:00"
+  "last_updated": "2026-11-14T03:55:52.130477+00:00"
 }
