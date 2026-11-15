@@ -1,113 +1,5 @@
 {
   "articles": {
-    "60457d430566b2e6": {
-      "title": "Nordic AI Health Map",
-      "fetched_at": "2026-11-07T12:01:42.358646+00:00"
-    },
-    "794a0251bf141581": {
-      "title": "The Pentagon wants to know who checks code when AI writes it",
-      "fetched_at": "2026-11-07T12:01:42.950048+00:00"
-    },
-    "d509759b772408de": {
-      "title": "Trace – Crash-safe durable Sagas for autonomous AI agents",
-      "fetched_at": "2026-11-07T12:01:43.538314+00:00"
-    },
-    "9827441af34c0560": {
-      "title": "OMLX: Use a second Mac to speed up local LLM prefill 2.9x",
-      "fetched_at": "2026-11-07T12:01:44.114226+00:00"
-    },
-    "c274486965eec898": {
-      "title": "一个 05 后的个人数码编年史",
-      "fetched_at": "2026-11-07T12:01:44.698754+00:00"
-    },
-    "4d4dfac2855fac01": {
-      "title": "Show HN: Service for the parallel execution of AI agent tasks on remote devices",
-      "fetched_at": "2026-11-07T12:01:45.301698+00:00"
-    },
-    "fab4d33504e3863d": {
-      "title": "AI Source Code Analysis Detection Evasion Techniques",
-      "fetched_at": "2026-11-07T12:01:45.889114+00:00"
-    },
-    "a8861f07144ca9ee": {
-      "title": "APM – A dependency manager for AI agents",
-      "fetched_at": "2026-11-07T12:01:46.464188+00:00"
-    },
-    "68a403df3954c9f1": {
-      "title": "An internet radio station run by AI",
-      "fetched_at": "2026-11-07T12:01:47.082290+00:00"
-    },
-    "9d88f45800cf95ec": {
-      "title": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
-      "fetched_at": "2026-11-07T12:01:47.667425+00:00"
-    },
-    "0faebd96d7a3af3a": {
-      "title": "Church quits role at AI startup claims 'sleazy' behavior stole credit",
-      "fetched_at": "2026-11-07T12:01:48.259989+00:00"
-    },
-    "0aa191885d022fe6": {
-      "title": "Show HN:A tool your AI uses just changed. Would you know?",
-      "fetched_at": "2026-11-07T12:01:48.840931+00:00"
-    },
-    "c4f7c155f34b41c4": {
-      "title": "Code Matters: Reflections on Rust in the LLM Age – Bryan Cantrill – Rust NYC [video]",
-      "fetched_at": "2026-11-07T12:01:49.416844+00:00"
-    },
-    "905142423e3e8caa": {
-      "title": "Show HN: Help me pick a logo animation for my in-browser AI creature game",
-      "fetched_at": "2026-11-07T12:01:49.989691+00:00"
-    },
-    "0440a4713d54fe94": {
-      "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It",
-      "fetched_at": "2026-11-07T12:01:50.588819+00:00"
-    },
-    "410370e7b27ccbf2": {
-      "title": "The AI Business Model Just Collapsed",
-      "fetched_at": "2026-11-07T12:01:51.168183+00:00"
-    },
-    "2083cf9a0d8f4796": {
-      "title": "Show HN: Backwords – Let AI teach you how to speak in reverse",
-      "fetched_at": "2026-11-07T12:01:51.743084+00:00"
-    },
-    "f1e0f1b8a13c72c6": {
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "fetched_at": "2026-11-07T12:01:52.322707+00:00"
-    },
-    "2a45ee7ef31b0a26": {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "fetched_at": "2026-11-07T12:01:52.911799+00:00"
-    },
-    "f79930b888ca2b70": {
-      "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
-      "fetched_at": "2026-11-07T12:01:55.336593+00:00"
-    },
-    "dd63f8395feeb8c9": {
-      "title": "I almost died from flu. My life didn't go back to normal after.",
-      "fetched_at": "2026-11-07T12:01:57.320798+00:00"
-    },
-    "e8803ce9ae720677": {
-      "title": "Why do most cats hate it when you touch their belly, feet or tail?",
-      "fetched_at": "2026-11-07T12:01:57.898625+00:00"
-    },
-    "4413a5847b1e8cd9": {
-      "title": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
-      "fetched_at": "2026-11-07T12:01:58.487000+00:00"
-    },
-    "7b0a717128d719fd": {
-      "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
-      "fetched_at": "2026-11-07T12:01:59.062058+00:00"
-    },
-    "68f7a7b7844131bc": {
-      "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
-      "fetched_at": "2026-11-07T12:01:59.643492+00:00"
-    },
-    "ae7d18c2d7755f7f": {
-      "title": "A dead star's mysterious rings reveal what could happen when our Sun dies",
-      "fetched_at": "2026-11-07T12:02:00.224273+00:00"
-    },
-    "6dd8f3d41b99e6b3": {
-      "title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
-      "fetched_at": "2026-11-07T12:02:00.799319+00:00"
-    },
     "3f9b833a48867dba": {
       "title": "HP and Asus shift some PC making back to China due to AI-driven cost hikes",
       "fetched_at": "2026-11-07T21:11:17.445884+00:00"
@@ -2695,7 +2587,155 @@
     "3da4bdd5866ba5de": {
       "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
       "fetched_at": "2026-11-15T03:39:49.018480+00:00"
+    },
+    "6a163d29635bdf28": {
+      "title": "An overview of Jensen Huang’s messy days",
+      "fetched_at": "2026-11-15T13:05:40.599043+00:00"
+    },
+    "3f294444a29f8a67": {
+      "title": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
+      "fetched_at": "2026-11-15T13:05:41.203183+00:00"
+    },
+    "f400cdb6e70d9bb2": {
+      "title": "Five Layers of the AI Cake [pdf]",
+      "fetched_at": "2026-11-15T13:05:41.820231+00:00"
+    },
+    "1efe7a2635522b1a": {
+      "title": "The Backdoor Route That Keeps Beijing in the AI Race",
+      "fetched_at": "2026-11-15T13:05:42.444184+00:00"
+    },
+    "55afff46cc4c6659": {
+      "title": "Skills for Real Scientists – Steer Away AI Slop",
+      "fetched_at": "2026-11-15T13:05:43.096514+00:00"
+    },
+    "a4308807d95ce27e": {
+      "title": "Sandlock: Confining AI Agent Code with Unprivileged Linux Primitives",
+      "fetched_at": "2026-11-15T13:05:43.708572+00:00"
+    },
+    "7fb739ed28804cee": {
+      "title": "Machine vision model automatically removes shadows to reveal true colors",
+      "fetched_at": "2026-11-15T13:05:44.329634+00:00"
+    },
+    "1a27479613254ae8": {
+      "title": "Misaligned AI behaviors that indicate loss-of-control risk",
+      "fetched_at": "2026-11-15T13:05:44.961524+00:00"
+    },
+    "3f48caeabcaf0b94": {
+      "title": "Show HN: Aurora GeoXAI – Sovereign geospatial AI built out of frustration",
+      "fetched_at": "2026-11-15T13:05:45.583457+00:00"
+    },
+    "fd82b6f7ad674f38": {
+      "title": "Show HN: Aurora GeoXAI – Sovereign geospatial AI built out of frustration",
+      "fetched_at": "2026-11-15T13:05:45.583588+00:00"
+    },
+    "d11b5e45720b65bb": {
+      "title": "We Need Guidelines for Learning and AI",
+      "fetched_at": "2026-11-15T13:05:46.194256+00:00"
+    },
+    "539189c78bff1676": {
+      "title": "AI Slop Papers Published Under Prominent Academics Names",
+      "fetched_at": "2026-11-15T13:05:46.194397+00:00"
+    },
+    "8aba5d8daaf47a11": {
+      "title": "Taking AI Seriously",
+      "fetched_at": "2026-11-15T13:05:46.817304+00:00"
+    },
+    "35de416860edafa3": {
+      "title": "Most of AI moats are just fuel",
+      "fetched_at": "2026-11-15T13:05:47.432257+00:00"
+    },
+    "694827e92dddc502": {
+      "title": "Show HN: Vantage-V-AI – 2-bit ternary KV-cache with attention sinks",
+      "fetched_at": "2026-11-15T13:05:48.057506+00:00"
+    },
+    "bd0ada39e8ba3827": {
+      "title": "Korea's top tax accountant exam scorer confesses to cheating with AI",
+      "fetched_at": "2026-11-15T13:05:48.712019+00:00"
+    },
+    "dcbc02525068325e": {
+      "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
+      "fetched_at": "2026-11-15T13:05:49.346619+00:00"
+    },
+    "9cfd9e3c1a7702e4": {
+      "title": "Baltimore County schools phase out AI reading program",
+      "fetched_at": "2026-11-15T13:05:50.001522+00:00"
+    },
+    "727cffc38816b036": {
+      "title": "I tested an AI dance edit on five seconds of footage, then tried the whole clip",
+      "fetched_at": "2026-11-15T13:05:50.630456+00:00"
+    },
+    "9f6b76e7cac10dc9": {
+      "title": "Show HN: ShadowDiff – Shadow testing and SQL diffing for AI-migrated back ends",
+      "fetched_at": "2026-11-15T13:05:51.290570+00:00"
+    },
+    "787bc59bc854128f": {
+      "title": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證",
+      "fetched_at": "2026-11-15T13:05:54.091948+00:00"
+    },
+    "eac0fca99b171fbb": {
+      "title": "澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約",
+      "fetched_at": "2026-11-15T13:05:54.705301+00:00"
+    },
+    "f5c1553b72577f93": {
+      "title": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼",
+      "fetched_at": "2026-11-15T13:05:55.317885+00:00"
+    },
+    "c9460fe0b713c7f8": {
+      "title": "白宮確認特朗普、習近平和普京將在深圳APEC期間舉行歷史性三方會晤",
+      "fetched_at": "2026-11-15T13:05:55.957413+00:00"
+    },
+    "231b456221f604c6": {
+      "title": "美國中期選舉掀「藍色浪潮」 將怎樣影響世界",
+      "fetched_at": "2026-11-15T13:05:56.565339+00:00"
+    },
+    "8a222f0e2f0b78f6": {
+      "title": "NASA's Voyager 1 mission forever changed our view of Jupiter",
+      "fetched_at": "2026-11-15T13:06:01.919983+00:00"
+    },
+    "289a2035680d9553": {
+      "title": "How did Cleopatra really die?",
+      "fetched_at": "2026-11-15T13:06:02.544074+00:00"
+    },
+    "96cbe413d1969d4d": {
+      "title": "Discovery Feed for Agents",
+      "fetched_at": "2026-11-15T13:06:03.165373+00:00"
+    },
+    "f142ea3e5c248442": {
+      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "fetched_at": "2026-11-15T13:06:03.781161+00:00"
+    },
+    "13eb9f44f682fd6a": {
+      "title": "Scientists discover a bizarre paradox among endangered penguins",
+      "fetched_at": "2026-11-15T13:06:04.407523+00:00"
+    },
+    "dce3ff0e008aacf8": {
+      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+      "fetched_at": "2026-11-15T13:06:05.065982+00:00"
+    },
+    "cbecc6b561f1456d": {
+      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "fetched_at": "2026-11-15T13:06:05.680997+00:00"
+    },
+    "d0871d161083c6c4": {
+      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+      "fetched_at": "2026-11-15T13:06:06.314547+00:00"
+    },
+    "189a0fe6beba6597": {
+      "title": "'Life is too brief to leave this planet': Live Science readers share whether they'd go to Mars, despite health risks",
+      "fetched_at": "2026-11-15T13:06:06.928594+00:00"
+    },
+    "4fecc0e50580ce1d": {
+      "title": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery",
+      "fetched_at": "2026-11-15T13:06:07.549964+00:00"
+    },
+    "e953c4bec2d1bafb": {
+      "title": "50% of long COVID patients show improvement in 3 years — but the condition tends to linger in those with this subtype",
+      "fetched_at": "2026-11-15T13:06:08.174822+00:00"
+    },
+    "951a6e8119621c69": {
+      "title": "King Tutankhamun's Tomb, 104 Years After Its Discovery",
+      "fetched_at": "2026-11-15T13:06:08.848837+00:00"
     }
   },
-  "last_updated": "2026-11-15T03:39:49.086193+00:00"
+  "last_updated": "2026-11-15T13:06:08.948827+00:00"
 }
