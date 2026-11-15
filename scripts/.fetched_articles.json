@@ -1,225 +1,5 @@
 {
   "articles": {
-    "d2fd36ceea79631b": {
-      "title": "All the latest updates on AI data centers",
-      "fetched_at": "2026-11-06T22:29:23.270028+00:00"
-    },
-    "aaf7e32f9846cd98": {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "fetched_at": "2026-11-06T22:29:23.844300+00:00"
-    },
-    "697804c444894b74": {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "fetched_at": "2026-11-06T22:29:24.405663+00:00"
-    },
-    "c62231165ca9784f": {
-      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "fetched_at": "2026-11-06T22:29:24.970306+00:00"
-    },
-    "c9628e5a46b72000": {
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "fetched_at": "2026-11-06T22:29:25.573458+00:00"
-    },
-    "6d515cc884f349b9": {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "fetched_at": "2026-11-06T22:29:26.132848+00:00"
-    },
-    "5a53fb6ac18c7d29": {
-      "title": "AI is the new dating dealbreaker",
-      "fetched_at": "2026-11-06T22:29:26.767737+00:00"
-    },
-    "66c747928889d770": {
-      "title": "Big Tech lost big in the 2026 election",
-      "fetched_at": "2026-11-06T22:29:27.326172+00:00"
-    },
-    "b796b9b104aa12b9": {
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "fetched_at": "2026-11-06T22:29:27.888982+00:00"
-    },
-    "d3e7198cced438cd": {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "fetched_at": "2026-11-06T22:29:28.446719+00:00"
-    },
-    "4be68003029aadb7": {
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "fetched_at": "2026-11-06T22:29:29.012014+00:00"
-    },
-    "44372748e4c75ec2": {
-      "title": "Amazon will let you text Alexa your shopping list",
-      "fetched_at": "2026-11-06T22:29:29.587380+00:00"
-    },
-    "ca6e3770bee16610": {
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "fetched_at": "2026-11-06T22:29:30.146641+00:00"
-    },
-    "167dd05b05ae8561": {
-      "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
-      "fetched_at": "2026-11-06T22:29:30.716121+00:00"
-    },
-    "de07204066ac94bd": {
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "fetched_at": "2026-11-06T22:29:31.374638+00:00"
-    },
-    "316d8249af61b3a2": {
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "fetched_at": "2026-11-06T22:29:31.935192+00:00"
-    },
-    "231b456221f604c6": {
-      "title": "美國中期選舉掀「藍色浪潮」 將怎樣影響世界",
-      "fetched_at": "2026-11-06T22:29:34.738459+00:00"
-    },
-    "189a0fe6beba6597": {
-      "title": "'Life is too brief to leave this planet': Live Science readers share whether they'd go to Mars, despite health risks",
-      "fetched_at": "2026-11-06T22:29:37.008509+00:00"
-    },
-    "95fe5a04c8f57b61": {
-      "title": "Playing Cards Found in Mongol Invasion Shipwreck Off Japan",
-      "fetched_at": "2026-11-06T22:29:37.587917+00:00"
-    },
-    "6ec8873740dd4463": {
-      "title": "Researcher Argues Famous British Iron Age King Was Really a Queen",
-      "fetched_at": "2026-11-06T22:29:38.151694+00:00"
-    },
-    "98e1b82f8327f3fc": {
-      "title": "Sacrificed Inca Children Were Given Drugs, Alcohol Prior to Death",
-      "fetched_at": "2026-11-06T22:29:38.716863+00:00"
-    },
-    "e953c4bec2d1bafb": {
-      "title": "50% of long COVID patients show improvement in 3 years — but the condition tends to linger in those with this subtype",
-      "fetched_at": "2026-11-06T22:29:39.274477+00:00"
-    },
-    "4fecc0e50580ce1d": {
-      "title": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery",
-      "fetched_at": "2026-11-06T22:29:39.836008+00:00"
-    },
-    "951a6e8119621c69": {
-      "title": "King Tutankhamun's Tomb, 104 Years After Its Discovery",
-      "fetched_at": "2026-11-06T22:29:40.390593+00:00"
-    },
-    "f762b8f3f12069d1": {
-      "title": "'We're looking at how a bear sees the world': From forest trails to 'Sims for Bears,' researchers are learning how grizzlies navigate a fragmented wilderness",
-      "fetched_at": "2026-11-06T22:29:40.390701+00:00"
-    },
-    "9bd39fe8457c78aa": {
-      "title": "New simulation shows the first 2 billion years of the universe's history play out in stunning detail",
-      "fetched_at": "2026-11-06T22:29:40.950447+00:00"
-    },
-    "af5bfccb46bb4a5f": {
-      "title": "Study reveals new clues to why colorectal cancer in young people is so deadly",
-      "fetched_at": "2026-11-06T22:29:41.520339+00:00"
-    },
-    "3423d8e620366f23": {
-      "title": "YC Backed Bron AI Accused of Using LeBron's Name and Likeness",
-      "fetched_at": "2026-11-07T03:37:10.250999+00:00"
-    },
-    "5c23e9d75813ad96": {
-      "title": "DeepMind AI agents find two weaknesses in legacy 1024-bit RSA cryptosystems",
-      "fetched_at": "2026-11-07T03:37:10.868612+00:00"
-    },
-    "280c32b1a9cdfefc": {
-      "title": "Brave Sells Its Search Index to AI, and Your Website Is Probably in It",
-      "fetched_at": "2026-11-07T03:37:11.476407+00:00"
-    },
-    "b172ab31a68062fb": {
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "fetched_at": "2026-11-07T03:37:12.110690+00:00"
-    },
-    "4a868ca07dc39703": {
-      "title": "Coding agents ranked for builders shipping AI software",
-      "fetched_at": "2026-11-07T03:37:12.700315+00:00"
-    },
-    "fdd6dad6a137780f": {
-      "title": "Show HN: I built an AI photo editor powered by GPT-Image-2.6",
-      "fetched_at": "2026-11-07T03:37:13.280003+00:00"
-    },
-    "d96ad9c93263d361": {
-      "title": "Show HN: Select – AI agents that earn autonomy through verified work",
-      "fetched_at": "2026-11-07T03:37:13.863495+00:00"
-    },
-    "7c1f8059fa238a13": {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "fetched_at": "2026-11-07T03:37:14.449578+00:00"
-    },
-    "7570c9f24d544d54": {
-      "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
-      "fetched_at": "2026-11-07T03:37:15.029364+00:00"
-    },
-    "bff5317c021381e0": {
-      "title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
-      "fetched_at": "2026-11-07T03:37:15.619694+00:00"
-    },
-    "cb61ec254158dee9": {
-      "title": "Implementing GPT-2 in CSS",
-      "fetched_at": "2026-11-07T03:37:16.227126+00:00"
-    },
-    "39c44e97abb83413": {
-      "title": "A woman possibly using AI to help murder her husband – a play",
-      "fetched_at": "2026-11-07T03:37:16.809909+00:00"
-    },
-    "1d301cf8ffc6cdcd": {
-      "title": "Show HN: SlopSlot – a slot machine inside Claude Code",
-      "fetched_at": "2026-11-07T03:37:17.387842+00:00"
-    },
-    "3781f7a622b3dc3c": {
-      "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
-      "fetched_at": "2026-11-07T03:37:17.964606+00:00"
-    },
-    "076bfd5bddfa9026": {
-      "title": "The Slop Index: Which AI Model Writes the Least Like AI?",
-      "fetched_at": "2026-11-07T03:37:18.555912+00:00"
-    },
-    "a491e026c5d7d465": {
-      "title": "Terra Tempora: we shouldn't entrust our understanding of history to AI",
-      "fetched_at": "2026-11-07T03:37:19.150583+00:00"
-    },
-    "5874e3bc9006e5fb": {
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "fetched_at": "2026-11-07T03:37:19.737787+00:00"
-    },
-    "ce6dbcd9802b7d56": {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "fetched_at": "2026-11-07T03:37:20.381494+00:00"
-    },
-    "f39779ac60dc5b7d": {
-      "title": "Show HN: Cinnamon – a household AI agent with shared context and memories",
-      "fetched_at": "2026-11-07T03:37:20.962025+00:00"
-    },
-    "1e663dee903655ca": {
-      "title": "ECB considers review of bank data center lending on AI risk",
-      "fetched_at": "2026-11-07T03:37:21.550928+00:00"
-    },
-    "17c60c498dbcfd35": {
-      "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
-      "fetched_at": "2026-11-07T03:37:24.788404+00:00"
-    },
-    "707de574e01095b3": {
-      "title": "Bright object beyond Pluto may be the solar system's sixth dwarf planet",
-      "fetched_at": "2026-11-07T03:37:26.709011+00:00"
-    },
-    "f705c1c67b9bee92": {
-      "title": "Decapitated man buried near fort in Roman-era Scotland gets a new virtual face",
-      "fetched_at": "2026-11-07T03:37:27.287557+00:00"
-    },
-    "c05d99ca46740a0c": {
-      "title": "Neanderthal DNA still survives in our human family tree. What were our ancient relatives' relationships like?",
-      "fetched_at": "2026-11-07T03:37:27.866283+00:00"
-    },
-    "731ed7938fb21591": {
-      "title": "Six popular sugar substitutes linked to faster brain aging",
-      "fetched_at": "2026-11-07T03:37:28.450293+00:00"
-    },
-    "f548b16c504b45ea": {
-      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
-      "fetched_at": "2026-11-07T03:37:29.053416+00:00"
-    },
-    "31adae93136feb07": {
-      "title": "Einstein's equations may explain the universe without dark energy",
-      "fetched_at": "2026-11-07T03:37:29.631944+00:00"
-    },
-    "c9bcfe0c60dbf8ea": {
-      "title": "128,000-year-old ice in Tibet could rewrite climate history",
-      "fetched_at": "2026-11-07T03:37:30.210202+00:00"
-    },
     "60457d430566b2e6": {
       "title": "Nordic AI Health Map",
       "fetched_at": "2026-11-07T12:01:42.358646+00:00"
@@ -2795,7 +2575,127 @@
     "fea78e2be22015c3": {
       "title": "1,600-year-old burial holds remains of man infected with a 'very rare' strain of leprosy in Germany",
       "fetched_at": "2026-11-14T21:46:35.293988+00:00"
+    },
+    "003233eb1f44a1de": {
+      "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
+      "fetched_at": "2026-11-15T03:39:11.340755+00:00"
+    },
+    "f958cb9d29047f3a": {
+      "title": "Medicare's AI Experiment",
+      "fetched_at": "2026-11-15T03:39:11.972205+00:00"
+    },
+    "72e17aef8601bec3": {
+      "title": "Multi-agent AI (LangGraph) to audit AI papers for reproducibility",
+      "fetched_at": "2026-11-15T03:39:12.611168+00:00"
+    },
+    "de1bf49eb7abf132": {
+      "title": "AI in the Search for Extraterrestrial Life",
+      "fetched_at": "2026-11-15T03:39:13.237907+00:00"
+    },
+    "2406548fe1fc1bce": {
+      "title": "Korea Tax Accountant Top Scorer Confesses AI Cheating",
+      "fetched_at": "2026-11-15T03:39:13.868742+00:00"
+    },
+    "6ec4ed684097c683": {
+      "title": "The First AI Music Awards",
+      "fetched_at": "2026-11-15T03:39:14.504313+00:00"
+    },
+    "30b22c1738ac17aa": {
+      "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
+      "fetched_at": "2026-11-15T03:39:15.136372+00:00"
+    },
+    "779dadcc992cc621": {
+      "title": "Data Science and Machine Learning Projects for Your Portfolio, by Role",
+      "fetched_at": "2026-11-15T03:39:15.771523+00:00"
+    },
+    "1f1fabf64abfed65": {
+      "title": "Microsoft patent describes using idle gaming GPUs into paid AI training hardware",
+      "fetched_at": "2026-11-15T03:39:16.395584+00:00"
+    },
+    "1c0ad28c6d861727": {
+      "title": "The AI revolution is leaving younger tech workers behind",
+      "fetched_at": "2026-11-15T03:39:17.030231+00:00"
+    },
+    "9e9802d58499c6c6": {
+      "title": "Where was Nvidia’s security team?",
+      "fetched_at": "2026-11-15T03:39:17.673435+00:00"
+    },
+    "aa86ce99ee563f92": {
+      "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+      "fetched_at": "2026-11-15T03:39:18.317369+00:00"
+    },
+    "0a9b198b3078c236": {
+      "title": "Ask HN: Is post-training make AI models dumber?",
+      "fetched_at": "2026-11-15T03:39:19.018910+00:00"
+    },
+    "ede920c79356ce0e": {
+      "title": "Bing is the anti-AI search engine you should be using",
+      "fetched_at": "2026-11-15T03:39:19.642657+00:00"
+    },
+    "bf12622392776a8d": {
+      "title": "Microsoft Patent Tips Using Idle Gaming PCs to Train AI in Exchange for Rewards",
+      "fetched_at": "2026-11-15T03:39:20.277148+00:00"
+    },
+    "0fd00727656fc959": {
+      "title": "AI submissions cause end of game coding contest",
+      "fetched_at": "2026-11-15T03:39:20.954188+00:00"
+    },
+    "8c1e63c7eb59401a": {
+      "title": "Show HN: Daily puzzles to keep AI users sharp",
+      "fetched_at": "2026-11-15T03:39:21.617510+00:00"
+    },
+    "b6308420d70ab0c1": {
+      "title": "Toward a future space-based, highly scalable AI infrastructure system design",
+      "fetched_at": "2026-11-15T03:39:22.236367+00:00"
+    },
+    "b8dee063025b56d6": {
+      "title": "The AI graveyard: A running list of projects and startups that didn't make it",
+      "fetched_at": "2026-11-15T03:39:22.236492+00:00"
+    },
+    "59713b109128e833": {
+      "title": "AI Quest – Interactive sandboxes for agentic web apps",
+      "fetched_at": "2026-11-15T03:39:22.862460+00:00"
+    },
+    "009afe5297c66055": {
+      "title": "Scientists removed the glare from a James Webb telescope image — and unmasked a hidden planet",
+      "fetched_at": "2026-11-15T03:39:43.283535+00:00"
+    },
+    "6d41608bc9aeda92": {
+      "title": "Gigantic chasm on Mars is still tectonically active",
+      "fetched_at": "2026-11-15T03:39:43.901922+00:00"
+    },
+    "1157e020c20e6b4d": {
+      "title": "I made a game that unlocks real PubMed literature discovery",
+      "fetched_at": "2026-11-15T03:39:44.521988+00:00"
+    },
+    "ed887fc29a73050d": {
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "fetched_at": "2026-11-15T03:39:45.141038+00:00"
+    },
+    "0298545eba2aa67e": {
+      "title": "Scientists just found dinosaur blood that survived 115 million years",
+      "fetched_at": "2026-11-15T03:39:45.769611+00:00"
+    },
+    "4e74e3c194350665": {
+      "title": "Historical Airspace Map (1930-today)",
+      "fetched_at": "2026-11-15T03:39:46.398309+00:00"
+    },
+    "5e557cc525767c39": {
+      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+      "fetched_at": "2026-11-15T03:39:47.036545+00:00"
+    },
+    "330cbbd06593bc24": {
+      "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
+      "fetched_at": "2026-11-15T03:39:47.676049+00:00"
+    },
+    "d714e0d1b83d9684": {
+      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+      "fetched_at": "2026-11-15T03:39:48.310720+00:00"
+    },
+    "3da4bdd5866ba5de": {
+      "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+      "fetched_at": "2026-11-15T03:39:49.018480+00:00"
     }
   },
-  "last_updated": "2026-11-14T21:46:35.400494+00:00"
+  "last_updated": "2026-11-15T03:39:49.086193+00:00"
 }
