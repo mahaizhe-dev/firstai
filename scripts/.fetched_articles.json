@@ -1,109 +1,5 @@
 {
   "articles": {
-    "3f9b833a48867dba": {
-      "title": "HP and Asus shift some PC making back to China due to AI-driven cost hikes",
-      "fetched_at": "2026-11-07T21:11:17.445884+00:00"
-    },
-    "467a9acde1036ae4": {
-      "title": "GenDB-V: AI-generated, formally verified database engines",
-      "fetched_at": "2026-11-07T21:11:18.054172+00:00"
-    },
-    "2efb99346552af55": {
-      "title": "HERV AI – Spatial intelligence platform",
-      "fetched_at": "2026-11-07T21:11:18.663576+00:00"
-    },
-    "3af4995566a3a459": {
-      "title": "GM Aims to Bring 'Eyes-Off' Driving to AI-Powered Cars Within 2 Years",
-      "fetched_at": "2026-11-07T21:11:19.273682+00:00"
-    },
-    "3fed806ede3eb36c": {
-      "title": "AI agents enter the 'wet lab'",
-      "fetched_at": "2026-11-07T21:11:19.881960+00:00"
-    },
-    "fb6eeeaa568f10e5": {
-      "title": "Read this before you build another AI wrapper",
-      "fetched_at": "2026-11-07T21:11:20.490739+00:00"
-    },
-    "6d8efda1cee1b64f": {
-      "title": "AI Layoffs Backfire as Companies Start Rehiring Workers",
-      "fetched_at": "2026-11-07T21:11:21.118091+00:00"
-    },
-    "0e19acc053aa226c": {
-      "title": "Exponential time hypothesis refuted by AI",
-      "fetched_at": "2026-11-07T21:11:21.729152+00:00"
-    },
-    "a6b112083c09bf3d": {
-      "title": "Driver AI in Stunt Car Racer, Commodore 64",
-      "fetched_at": "2026-11-07T21:11:22.341380+00:00"
-    },
-    "8994d34598447d24": {
-      "title": "Why the Best AI Clouds Don't Run on Flash Alone",
-      "fetched_at": "2026-11-07T21:11:22.949632+00:00"
-    },
-    "98891288605bf22a": {
-      "title": "RigHaven – Self-hosted execution harness for AI agents",
-      "fetched_at": "2026-11-07T21:11:23.560240+00:00"
-    },
-    "83be73be7bf99ebf": {
-      "title": "Context compaction recovery for AI coding agents: six checks, not a summary",
-      "fetched_at": "2026-11-07T21:11:24.170666+00:00"
-    },
-    "d055b198bc20fd84": {
-      "title": "Why AI Will Not End Scholarly Publishing (and the Publish-or-Perish Institution)",
-      "fetched_at": "2026-11-07T21:11:24.782610+00:00"
-    },
-    "ed0bc158c896ae82": {
-      "title": "Day AI: Context Graph and Agent Control Plane for GTM",
-      "fetched_at": "2026-11-07T21:11:25.386517+00:00"
-    },
-    "db8861a7db4f374f": {
-      "title": "Some thoughts on AI, scientific papers, and peer review",
-      "fetched_at": "2026-11-07T21:11:26.000899+00:00"
-    },
-    "988c1a9491a0cfab": {
-      "title": "AI Promoted Everybody. Architecture as Truth (AAT) Is the New Job",
-      "fetched_at": "2026-11-07T21:11:26.622361+00:00"
-    },
-    "c0615ea0565c0243": {
-      "title": "Gradual disempowerment model organism: Frontier AI labs",
-      "fetched_at": "2026-11-07T21:11:27.247007+00:00"
-    },
-    "7f9b0ac913d575c5": {
-      "title": "Chatty – Open-source autonomous AI chat agent with tool calling",
-      "fetched_at": "2026-11-07T21:11:27.874453+00:00"
-    },
-    "46eb7ea8c7a537c0": {
-      "title": "Show HN: Laplace's Scissors – A tool for directly editing LLM weights",
-      "fetched_at": "2026-11-07T21:11:28.480411+00:00"
-    },
-    "11790f42479fd6e6": {
-      "title": "TokiRecur – llama.cpp LLM launcher with KV-cache recycling",
-      "fetched_at": "2026-11-07T21:11:29.089035+00:00"
-    },
-    "8463b7efbea74bfe": {
-      "title": "為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂",
-      "fetched_at": "2026-11-07T21:11:31.961962+00:00"
-    },
-    "203e39f8d7c6bc37": {
-      "title": "The Maya used so much red paint that they poisoned their water with mercury, mud sediments reveal",
-      "fetched_at": "2026-11-07T21:11:49.757018+00:00"
-    },
-    "fff3569e73cff1f0": {
-      "title": "Tectonic forces near Japan helped fuel the formation of the Grand Canyon",
-      "fetched_at": "2026-11-07T21:11:50.368426+00:00"
-    },
-    "2bb1b93c48f25bcb": {
-      "title": "Women often get cold more easily than men — a mouse study offers hints why",
-      "fetched_at": "2026-11-07T21:11:50.979560+00:00"
-    },
-    "0764325df6a634fb": {
-      "title": "Show HN: Budget Friendly City Discovery",
-      "fetched_at": "2026-11-07T21:11:51.587938+00:00"
-    },
-    "2c7eea3f4db524be": {
-      "title": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans.'",
-      "fetched_at": "2026-11-07T21:11:52.215561+00:00"
-    },
     "7595db883edf9e3a": {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "fetched_at": "2026-11-08T03:08:01.997007+00:00"
@@ -2735,7 +2631,131 @@
     "951a6e8119621c69": {
       "title": "King Tutankhamun's Tomb, 104 Years After Its Discovery",
       "fetched_at": "2026-11-15T13:06:08.848837+00:00"
+    },
+    "438a2e7eb4e41c41": {
+      "title": "Delaware considers AI-managed companies",
+      "fetched_at": "2026-11-15T22:14:34.476202+00:00"
+    },
+    "1f448f698568ae28": {
+      "title": "Sandboxes for AI Agents",
+      "fetched_at": "2026-11-15T22:14:35.166608+00:00"
+    },
+    "c8c854be5c0b5143": {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "fetched_at": "2026-11-15T22:14:35.793791+00:00"
+    },
+    "9afa99f4ed555d33": {
+      "title": "The AI-Box Experiment (2002)",
+      "fetched_at": "2026-11-15T22:14:36.413837+00:00"
+    },
+    "999250536a66e489": {
+      "title": "Current human speed versus AI speed [video]",
+      "fetched_at": "2026-11-15T22:14:37.043614+00:00"
+    },
+    "ef1429a0fd17f414": {
+      "title": "LLM Releases, Token Limits, and Pricing Since GPT 3.5",
+      "fetched_at": "2026-11-15T22:14:37.663720+00:00"
+    },
+    "3079ab25dcce8817": {
+      "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+      "fetched_at": "2026-11-15T22:14:38.280783+00:00"
+    },
+    "359996918ac5a22a": {
+      "title": "Ask HN: What do coding interviews look like in the age of AI?",
+      "fetched_at": "2026-11-15T22:14:38.912812+00:00"
+    },
+    "145ff338d868d363": {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "fetched_at": "2026-11-15T22:14:39.523192+00:00"
+    },
+    "748e7946621fd4c5": {
+      "title": "Inference Gateway Desktop, an AI client for any model provider",
+      "fetched_at": "2026-11-15T22:14:40.145697+00:00"
+    },
+    "9b95a54ba8d060b5": {
+      "title": "A browser API for choosing and running local AI models",
+      "fetched_at": "2026-11-15T22:14:40.790075+00:00"
+    },
+    "5866ff4a5800c7b0": {
+      "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+      "fetched_at": "2026-11-15T22:14:41.433916+00:00"
+    },
+    "bcec3e10ff2a7715": {
+      "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+      "fetched_at": "2026-11-15T22:14:42.063491+00:00"
+    },
+    "49824785313cccde": {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "fetched_at": "2026-11-15T22:14:42.692229+00:00"
+    },
+    "22473a4ddc4248bd": {
+      "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+      "fetched_at": "2026-11-15T22:14:43.302756+00:00"
+    },
+    "995dde84e25d96d4": {
+      "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+      "fetched_at": "2026-11-15T22:14:43.929442+00:00"
+    },
+    "107bd5cfd438d112": {
+      "title": "OBR: Britain faces 'painful' job losses from AI",
+      "fetched_at": "2026-11-15T22:14:44.551905+00:00"
+    },
+    "491c097d88064c63": {
+      "title": "Show HN: Perfectclone – Yoink the source code of any website, not an AI clone",
+      "fetched_at": "2026-11-15T22:14:45.180311+00:00"
+    },
+    "086a774ffaa30099": {
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "fetched_at": "2026-11-15T22:14:45.793256+00:00"
+    },
+    "873e066ae3c98c15": {
+      "title": "First pre-2020 long-form writing detected as 100% AI by Pangram",
+      "fetched_at": "2026-11-15T22:14:46.411140+00:00"
+    },
+    "0740a9d41a2f3a0f": {
+      "title": "無法複製的奇蹟？深圳如何從改革開放樣板變為「中國矽谷」",
+      "fetched_at": "2026-11-15T22:14:49.006978+00:00"
+    },
+    "f79930b888ca2b70": {
+      "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
+      "fetched_at": "2026-11-15T22:14:49.630789+00:00"
+    },
+    "7bd7fb66a8f90424": {
+      "title": "'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future",
+      "fetched_at": "2026-11-15T22:14:51.700101+00:00"
+    },
+    "83e42a35eeb2af30": {
+      "title": "Which animal would you most want to talk to, if you could?",
+      "fetched_at": "2026-11-15T22:14:52.325758+00:00"
+    },
+    "1927328882465b58": {
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "fetched_at": "2026-11-15T22:14:52.958200+00:00"
+    },
+    "d504c4feb6fb331c": {
+      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+      "fetched_at": "2026-11-15T22:14:53.576171+00:00"
+    },
+    "905404a453efe19f": {
+      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+      "fetched_at": "2026-11-15T22:14:54.191748+00:00"
+    },
+    "0f6af33a03c99c70": {
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "fetched_at": "2026-11-15T22:14:54.842802+00:00"
+    },
+    "bb7cd16c0440d842": {
+      "title": "A simple supplement could help your immune system fight cancer and viral infections",
+      "fetched_at": "2026-11-15T22:14:55.470448+00:00"
+    },
+    "dd63f8395feeb8c9": {
+      "title": "I almost died from flu. My life didn't go back to normal after.",
+      "fetched_at": "2026-11-15T22:14:56.080660+00:00"
+    },
+    "e8803ce9ae720677": {
+      "title": "Why do most cats hate it when you touch their belly, feet or tail?",
+      "fetched_at": "2026-11-15T22:14:56.695527+00:00"
     }
   },
-  "last_updated": "2026-11-15T13:06:08.948827+00:00"
+  "last_updated": "2026-11-15T22:14:56.808454+00:00"
 }
