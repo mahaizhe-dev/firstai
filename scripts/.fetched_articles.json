@@ -1,141 +1,5 @@
 {
   "articles": {
-    "7595db883edf9e3a": {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "fetched_at": "2026-11-08T03:08:01.997007+00:00"
-    },
-    "d7a0f8d95a5fc6a2": {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "fetched_at": "2026-11-08T03:08:02.628107+00:00"
-    },
-    "6b9c1b24b82a7c47": {
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "fetched_at": "2026-11-08T03:08:03.235998+00:00"
-    },
-    "5ac984078f1738ed": {
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "fetched_at": "2026-11-08T03:08:03.858200+00:00"
-    },
-    "c59b27490308c55b": {
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "fetched_at": "2026-11-08T03:08:04.472736+00:00"
-    },
-    "2277c808e7070c0d": {
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "fetched_at": "2026-11-08T03:08:05.106104+00:00"
-    },
-    "9881ce868ddeae67": {
-      "title": "法國血庫冷藏設備遭駭客攻擊 幕後黑手眾說紛紜",
-      "fetched_at": "2026-11-08T03:08:08.472005+00:00"
-    },
-    "1ed4da08c8d24ffb": {
-      "title": "DeepSeek被美國政府系統禁用：中美AI競爭繼續升溫",
-      "fetched_at": "2026-11-08T03:08:09.106458+00:00"
-    },
-    "1e5b7baadd81a514": {
-      "title": "Jupiter, Saturn, Uranus and Neptune could destroy each other sooner than we thought, simulations hint",
-      "fetched_at": "2026-11-08T03:08:11.290128+00:00"
-    },
-    "9b889f0dd29890b3": {
-      "title": "'It isn't under control at all': Live Science readers respond to whether AI is making them lazy",
-      "fetched_at": "2026-11-08T03:08:11.906461+00:00"
-    },
-    "eb2017cc8bbd5d65": {
-      "title": "Nearly 30% of US adults admit to lying about or exaggerating their symptoms to get antibiotics from doctors, survey finds",
-      "fetched_at": "2026-11-08T03:08:12.532484+00:00"
-    },
-    "ddb90c91f5a0ee75": {
-      "title": "Physicists created a tiny universe and watched time emerge without a clock",
-      "fetched_at": "2026-11-08T03:08:13.151520+00:00"
-    },
-    "542affa8c1215a8a": {
-      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-      "fetched_at": "2026-11-08T03:08:13.767263+00:00"
-    },
-    "17b8835a739b5d35": {
-      "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-      "fetched_at": "2026-11-08T03:08:14.363426+00:00"
-    },
-    "815d4bd08b3d1eac": {
-      "title": "Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year",
-      "fetched_at": "2026-11-08T03:08:15.058003+00:00"
-    },
-    "46dacfa47937d114": {
-      "title": "Astronauts just gave the International Space Station a powerful upgrade",
-      "fetched_at": "2026-11-08T03:08:15.672699+00:00"
-    },
-    "7e22cb6a7b6669ca": {
-      "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
-      "fetched_at": "2026-11-08T03:08:16.309412+00:00"
-    },
-    "b3adb20a1c6b590b": {
-      "title": "'This is so crazy!': Virginia college student looking for shark teeth finds rare Native American spearpoint",
-      "fetched_at": "2026-11-08T03:08:16.925493+00:00"
-    },
-    "e448854ec21b5f8b": {
-      "title": "苹果产品那些不够颠覆，却值得被学习的细节",
-      "fetched_at": "2026-11-08T12:22:49.219175+00:00"
-    },
-    "88adc87c262cf857": {
-      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
-      "fetched_at": "2026-11-08T12:22:52.596309+00:00"
-    },
-    "8c8a391fe1fcd1fc": {
-      "title": "原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」",
-      "fetched_at": "2026-11-08T12:22:53.209573+00:00"
-    },
-    "f9dfdd504091a4e5": {
-      "title": "銷量急挫，Labubu熱潮正在退燒嗎？",
-      "fetched_at": "2026-11-08T12:22:53.841432+00:00"
-    },
-    "5706c5e9fb809f1e": {
-      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡",
-      "fetched_at": "2026-11-08T12:22:54.456080+00:00"
-    },
-    "d8bb7d3cd0f020bd": {
-      "title": "從蔡康永、《VIVANT》到姆巴佩，北京為何區別處理「辱華」？",
-      "fetched_at": "2026-11-08T12:22:55.065605+00:00"
-    },
-    "bf0b16ce94905013": {
-      "title": "NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda",
-      "fetched_at": "2026-11-08T12:22:57.139915+00:00"
-    },
-    "9cfc0b4ad28a5112": {
-      "title": "How frequently did Viking women fight in battle?",
-      "fetched_at": "2026-11-08T12:22:57.750749+00:00"
-    },
-    "33e000921be7ac90": {
-      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-      "fetched_at": "2026-11-08T12:22:58.393138+00:00"
-    },
-    "4f4ec9da0f026541": {
-      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-      "fetched_at": "2026-11-08T12:22:59.009263+00:00"
-    },
-    "c8124920d2c4c0ad": {
-      "title": "Scientists discover hidden brain changes linked to common sleep disorders",
-      "fetched_at": "2026-11-08T12:22:59.629301+00:00"
-    },
-    "6f2ad2112dadab83": {
-      "title": "Scientists squeeze record-breaking X-ray power into an incredibly tiny spot",
-      "fetched_at": "2026-11-08T12:23:00.246414+00:00"
-    },
-    "933a11c77e996d9b": {
-      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
-      "fetched_at": "2026-11-08T12:23:00.851441+00:00"
-    },
-    "c77d098e84b2ee89": {
-      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
-      "fetched_at": "2026-11-08T12:23:01.477117+00:00"
-    },
-    "733f172355cb8551": {
-      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-      "fetched_at": "2026-11-08T12:23:02.107693+00:00"
-    },
-    "074721466d8301a4": {
-      "title": "Neuroscientists reveal method to train people to have lucid dreams — and it involves virtual reality and meditation",
-      "fetched_at": "2026-11-08T12:23:02.731589+00:00"
-    },
     "d6c0b22125bafc89": {
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "fetched_at": "2026-11-08T21:26:50.029442+00:00"
@@ -2755,7 +2619,195 @@
     "e8803ce9ae720677": {
       "title": "Why do most cats hate it when you touch their belly, feet or tail?",
       "fetched_at": "2026-11-15T22:14:56.695527+00:00"
+    },
+    "54029a9fbe36813c": {
+      "title": "Challenges for human oversight in detecting AI-assisted medical diagnostics",
+      "fetched_at": "2026-11-16T14:12:03.646523+00:00"
+    },
+    "fd54a1786db22c43": {
+      "title": "AI-driven scientific progress threatened by an obsession",
+      "fetched_at": "2026-11-16T14:12:04.281257+00:00"
+    },
+    "fea589bfd41675bf": {
+      "title": "Google Maps can now create trip itineraries for you",
+      "fetched_at": "2026-11-16T14:12:04.947119+00:00"
+    },
+    "077ef8295aa17b17": {
+      "title": "Apple Seeks 200k People for AI Health Study",
+      "fetched_at": "2026-11-16T14:12:05.571340+00:00"
+    },
+    "30a3dcf5fc048ba4": {
+      "title": "US Moves to Limit Remote Access to Advanced AI Chips",
+      "fetched_at": "2026-11-16T14:12:06.188308+00:00"
+    },
+    "2c078aa2238094d9": {
+      "title": "RagNext Writer – AI novel drafting studio with a bridge to visual novel game dev",
+      "fetched_at": "2026-11-16T14:12:06.845362+00:00"
+    },
+    "bbc35be61eda0840": {
+      "title": "Tencent launches Hy4 flash, cutting AI task costs by 95% in internal tests",
+      "fetched_at": "2026-11-16T14:12:07.461834+00:00"
+    },
+    "ad5bf9c1970af7b5": {
+      "title": "Can the AI boom make enough money to sustain itself?",
+      "fetched_at": "2026-11-16T14:12:08.090773+00:00"
+    },
+    "7b309bb9fbd52d43": {
+      "title": "Show HN: LGTM – A Reigns-style swipe game about surviving your AI coworker",
+      "fetched_at": "2026-11-16T14:12:08.705646+00:00"
+    },
+    "d52c75fdd439d393": {
+      "title": "It's Time to Reinvent Software Tickets for the AI Era",
+      "fetched_at": "2026-11-16T14:12:09.350696+00:00"
+    },
+    "2d878355b0f6bb38": {
+      "title": "Show HN: Prettywhale.ai – Generate data pipelines from data samples",
+      "fetched_at": "2026-11-16T14:12:09.983253+00:00"
+    },
+    "87d8b39350ab87d9": {
+      "title": "Moloch, AI and Capitalism: The System Eating Itself [video]",
+      "fetched_at": "2026-11-16T14:12:10.732102+00:00"
+    },
+    "c17bdf89e584ac3d": {
+      "title": "Show HN: Cinnamon AI – an agent I built for friends and family",
+      "fetched_at": "2026-11-16T14:12:11.365679+00:00"
+    },
+    "1811bb5dec0a15d1": {
+      "title": "Show HN: Furnish – AI-powered home design with editable 2D plans and 3D views",
+      "fetched_at": "2026-11-16T14:12:11.993507+00:00"
+    },
+    "1d05d29f54c6dd05": {
+      "title": "The Nvidia scandal isn’t slowing down",
+      "fetched_at": "2026-11-16T14:12:12.611492+00:00"
+    },
+    "6d09be3ab963ed83": {
+      "title": "HN: Guru – an uncensored, privacy focused open-source self-evolving AI Framework",
+      "fetched_at": "2026-11-16T14:12:13.226329+00:00"
+    },
+    "84c4b69c48d7a727": {
+      "title": "Linux Foundation – Agent Name Service Bringing Verifiable Identity to AI Agents",
+      "fetched_at": "2026-11-16T14:12:13.888968+00:00"
+    },
+    "ae4e58a752c32fa9": {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "fetched_at": "2026-11-16T14:12:14.556494+00:00"
+    },
+    "8f7c44009ea8a75b": {
+      "title": "AI Killed the MVP – Long Live the IUP",
+      "fetched_at": "2026-11-16T14:12:15.260169+00:00"
+    },
+    "7e8926ac6ed55eb2": {
+      "title": "US to designate AI \"national champions\"",
+      "fetched_at": "2026-11-16T14:12:15.882784+00:00"
+    },
+    "e911f3822059ab90": {
+      "title": "里長赴中旅遊：台灣《反滲透法》為何「查辦多、定罪少」？",
+      "fetched_at": "2026-11-16T14:12:48.990819+00:00"
+    },
+    "8a081a5114d88bba": {
+      "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
+      "fetched_at": "2026-11-16T14:12:49.611010+00:00"
+    },
+    "7c772d84f3b68dfa": {
+      "title": "美國全國停飛兩天後仍有數千航班延誤或取消，原因為銅線升級光纖工程",
+      "fetched_at": "2026-11-16T14:12:50.229233+00:00"
+    },
+    "a538976c06130d31": {
+      "title": "據報黃仁勳商討重返Nvidia，Megaspeed稱黃樂去年已離職",
+      "fetched_at": "2026-11-16T14:12:50.866918+00:00"
+    },
+    "fc21ee30c5f2d318": {
+      "title": "习近平持续清洗军方、张升民崛起：利好台湾？",
+      "fetched_at": "2026-11-16T14:12:51.520683+00:00"
+    },
+    "a28f22f1f0b06f6c": {
+      "title": "黄仁勋事件为本周“习特会”蒙上阴影",
+      "fetched_at": "2026-11-16T14:12:52.139436+00:00"
+    },
+    "928654b76fdad87a": {
+      "title": "英伟达丑闻引发讨论：究竟怎样才算间谍？",
+      "fetched_at": "2026-11-16T14:12:52.796553+00:00"
+    },
+    "2150bc54c6e6355b": {
+      "title": "APEC深圳峰會前瞻：中方確認美中俄會晤，日方盼習近平按慣例與高市握手",
+      "fetched_at": "2026-11-16T14:12:53.414650+00:00"
+    },
+    "59843a62a69725a3": {
+      "title": "Megaspeed称黄乐已于去年8月离职",
+      "fetched_at": "2026-11-16T14:12:54.050415+00:00"
+    },
+    "464efcbfe706f374": {
+      "title": "法國總統大選：五屆奧運柔道冠軍意外參選，攪動選情",
+      "fetched_at": "2026-11-16T14:12:54.690814+00:00"
+    },
+    "4bef2df169d12e29": {
+      "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
+      "fetched_at": "2026-11-16T14:12:55.322380+00:00"
+    },
+    "98f839d461619de2": {
+      "title": "特朗普、习近平和普京将在中国举行三方会晤",
+      "fetched_at": "2026-11-16T14:12:55.977953+00:00"
+    },
+    "5613e80cb26e4a72": {
+      "title": "台湾民众如何看待“国民爸爸”黄仁勋丑闻",
+      "fetched_at": "2026-11-16T14:12:56.597890+00:00"
+    },
+    "8d4d2a35a09b1610": {
+      "title": "黄仁勋的婚外情秘密是如何泄露到公众视野的",
+      "fetched_at": "2026-11-16T14:12:57.228861+00:00"
+    },
+    "47b4f60eb0c979eb": {
+      "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動產業、政治與社會？",
+      "fetched_at": "2026-11-16T14:12:57.857554+00:00"
+    },
+    "8463b7efbea74bfe": {
+      "title": "為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂",
+      "fetched_at": "2026-11-16T14:12:58.486291+00:00"
+    },
+    "17a46511647bc812": {
+      "title": "Making Talent Discovery Easier",
+      "fetched_at": "2026-11-16T14:13:16.086688+00:00"
+    },
+    "6dffb7bb968adb92": {
+      "title": "Thinkers of Cernavodă: Mysterious Stone Age figurines discovered in a 7,000-year-old grave in Romania",
+      "fetched_at": "2026-11-16T14:13:16.748388+00:00"
+    },
+    "c61174e9f9abef1b": {
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "fetched_at": "2026-11-16T14:13:17.396160+00:00"
+    },
+    "b2fbe867d7b99dd9": {
+      "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
+      "fetched_at": "2026-11-16T14:13:18.018557+00:00"
+    },
+    "f6c5d664094c7fa3": {
+      "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+      "fetched_at": "2026-11-16T14:13:18.644538+00:00"
+    },
+    "2034e68326470a9f": {
+      "title": "An ancient virus may help explain what makes the human brain different",
+      "fetched_at": "2026-11-16T14:13:19.272879+00:00"
+    },
+    "bfe9cef554bed212": {
+      "title": "Witches, vampires, ancient aliens–you'll find them all in Malta",
+      "fetched_at": "2026-11-16T14:13:19.892033+00:00"
+    },
+    "203e39f8d7c6bc37": {
+      "title": "The Maya used so much red paint that they poisoned their water with mercury, mud sediments reveal",
+      "fetched_at": "2026-11-16T14:13:20.528929+00:00"
+    },
+    "fff3569e73cff1f0": {
+      "title": "Tectonic forces near Japan helped fuel the formation of the Grand Canyon",
+      "fetched_at": "2026-11-16T14:13:21.170711+00:00"
+    },
+    "2bb1b93c48f25bcb": {
+      "title": "Women often get cold more easily than men — a mouse study offers hints why",
+      "fetched_at": "2026-11-16T14:13:21.782591+00:00"
+    },
+    "0764325df6a634fb": {
+      "title": "Show HN: Budget Friendly City Discovery",
+      "fetched_at": "2026-11-16T14:13:22.408700+00:00"
     }
   },
-  "last_updated": "2026-11-15T22:14:56.808454+00:00"
+  "last_updated": "2026-11-16T14:13:22.477079+00:00"
 }
