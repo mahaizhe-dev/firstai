@@ -1,117 +1,5 @@
 {
   "articles": {
-    "d6c0b22125bafc89": {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "fetched_at": "2026-11-08T21:26:50.029442+00:00"
-    },
-    "4edb48f9036e89bf": {
-      "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
-      "fetched_at": "2026-11-08T21:26:50.604761+00:00"
-    },
-    "99ec209f72285cb8": {
-      "title": "AI skill to provide IPA and English translations from uploaded sheet music",
-      "fetched_at": "2026-11-08T21:26:51.176774+00:00"
-    },
-    "9094dfec24c126dd": {
-      "title": "Not another AI note taker",
-      "fetched_at": "2026-11-08T21:26:51.753727+00:00"
-    },
-    "73e3a061f7ef84dd": {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "fetched_at": "2026-11-08T21:26:52.343377+00:00"
-    },
-    "ef35493828c7a649": {
-      "title": "Show HN: APC Playground – Stop AI agents from modifying your API tool calls",
-      "fetched_at": "2026-11-08T21:26:52.922549+00:00"
-    },
-    "d475d7e3bfafd496": {
-      "title": "Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code",
-      "fetched_at": "2026-11-08T21:26:53.500094+00:00"
-    },
-    "95f4af3ebd988d04": {
-      "title": "Show HN: Vynyo – AI creative studio for hairstyle, image and video",
-      "fetched_at": "2026-11-08T21:26:54.073832+00:00"
-    },
-    "9bdbbd0ed9de1c8b": {
-      "title": "How I Fight AI Brain Fry",
-      "fetched_at": "2026-11-08T21:26:54.669425+00:00"
-    },
-    "d01139c572d78d79": {
-      "title": "AI detection trap: When machines put human creativity on trial",
-      "fetched_at": "2026-11-08T21:26:55.242351+00:00"
-    },
-    "864180f2f645da4a": {
-      "title": "Apple is racing to make Siri more agentic",
-      "fetched_at": "2026-11-08T21:26:55.818542+00:00"
-    },
-    "c6686a8dec3b44f2": {
-      "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-      "fetched_at": "2026-11-08T21:26:56.397041+00:00"
-    },
-    "033fdd17d7aa4ad1": {
-      "title": "Ask HN- Will AI agents behave differently in a swarm?",
-      "fetched_at": "2026-11-08T21:26:56.968345+00:00"
-    },
-    "3fd9b3ae4fcd983f": {
-      "title": "Canada's AI translation tool keeps making hilarious mistakes",
-      "fetched_at": "2026-11-08T21:26:57.543789+00:00"
-    },
-    "447b9ac25b80f6ed": {
-      "title": "For learning self help content, deciding what to believe is most important",
-      "fetched_at": "2026-11-08T21:26:58.123491+00:00"
-    },
-    "43276ad835b95c30": {
-      "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
-      "fetched_at": "2026-11-08T21:26:58.706369+00:00"
-    },
-    "b387ed5c03f7b752": {
-      "title": "Show HN: LLM-cost-watch – Ask Claude why your LLM bill jumped",
-      "fetched_at": "2026-11-08T21:26:59.283207+00:00"
-    },
-    "af7a7d89bcf22842": {
-      "title": "Show HN: Is your product AI slop?",
-      "fetched_at": "2026-11-08T21:26:59.864821+00:00"
-    },
-    "6baed7e43a9ec9d8": {
-      "title": "Rethinking Virtual Machine Monitors for Better Security in Clouds [pdf]",
-      "fetched_at": "2026-11-08T21:27:00.466776+00:00"
-    },
-    "095ed4cf27f952bc": {
-      "title": "Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training",
-      "fetched_at": "2026-11-08T21:27:01.041183+00:00"
-    },
-    "7a0d27d25cffeb2a": {
-      "title": "間諜、線人與秘密警察：匈牙利公開共產統治時期檔案",
-      "fetched_at": "2026-11-08T21:27:04.630836+00:00"
-    },
-    "c7a0cc05cbc138b3": {
-      "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
-      "fetched_at": "2026-11-08T21:27:24.273911+00:00"
-    },
-    "20c8e4091b23baf7": {
-      "title": "Would you learn to lucid dream if you could?",
-      "fetched_at": "2026-11-08T21:27:24.850958+00:00"
-    },
-    "89ad7092f24da50e": {
-      "title": "Rare fifth-century burials of Germanic chieftains with dazzling weapons and warhorses discovered in France",
-      "fetched_at": "2026-11-08T21:27:25.433250+00:00"
-    },
-    "e948ff8326dabc6b": {
-      "title": "How to watch 'Blue Planet III' online: Stream David Attenborough's spectacular new series",
-      "fetched_at": "2026-11-08T21:27:26.016574+00:00"
-    },
-    "c3a1007044f85512": {
-      "title": "Can animals lie? This sneaky bird might be proof.",
-      "fetched_at": "2026-11-08T21:27:26.594625+00:00"
-    },
-    "6d6bc807caa98a52": {
-      "title": "'You start painting pictures of squirrels twirling their mustaches': A biologist on whether animals can lie",
-      "fetched_at": "2026-11-08T21:27:27.192878+00:00"
-    },
-    "d63e49471c18c021": {
-      "title": "Are sharks really older than trees?",
-      "fetched_at": "2026-11-08T21:27:27.768636+00:00"
-    },
     "9ecf0e8aa2ffbf98": {
       "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
       "fetched_at": "2026-11-09T03:29:49.483529+00:00"
@@ -2807,7 +2695,171 @@
     "0764325df6a634fb": {
       "title": "Show HN: Budget Friendly City Discovery",
       "fetched_at": "2026-11-16T14:13:22.408700+00:00"
+    },
+    "8f58b39af57e5365": {
+      "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+      "fetched_at": "2026-11-17T01:14:09.482697+00:00"
+    },
+    "9794deb2735ed487": {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "fetched_at": "2026-11-17T01:14:10.112058+00:00"
+    },
+    "0470e9ca9c050e7f": {
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "fetched_at": "2026-11-17T01:14:10.735863+00:00"
+    },
+    "0097a01f7519fbdc": {
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "fetched_at": "2026-11-17T01:14:11.336458+00:00"
+    },
+    "eb0c3b3aca9f6495": {
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "fetched_at": "2026-11-17T01:14:11.957119+00:00"
+    },
+    "2a27d102806684d1": {
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "fetched_at": "2026-11-17T01:14:12.587772+00:00"
+    },
+    "eb669bcb7e085af1": {
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "fetched_at": "2026-11-17T01:14:13.316173+00:00"
+    },
+    "286f866ff9302377": {
+      "title": "US data centers now burn more electricity than a midsized country",
+      "fetched_at": "2026-11-17T01:14:13.925222+00:00"
+    },
+    "99694bb8ad872f34": {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "fetched_at": "2026-11-17T01:14:14.541175+00:00"
+    },
+    "92e93b176826722d": {
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "fetched_at": "2026-11-17T01:14:15.152729+00:00"
+    },
+    "5f8c2aa05723f4e0": {
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "fetched_at": "2026-11-17T01:14:15.753723+00:00"
+    },
+    "fd5695f478c917fc": {
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "fetched_at": "2026-11-17T01:14:16.393608+00:00"
+    },
+    "420b36e5c8cbc423": {
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "fetched_at": "2026-11-17T01:14:17.027337+00:00"
+    },
+    "66c366242530c283": {
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "fetched_at": "2026-11-17T01:14:17.645294+00:00"
+    },
+    "33f05fdc09d29cdb": {
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "fetched_at": "2026-11-17T01:14:18.266091+00:00"
+    },
+    "0b2845e6eaa20e11": {
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "fetched_at": "2026-11-17T01:14:18.891529+00:00"
+    },
+    "9eabd2a26402e5e3": {
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "fetched_at": "2026-11-17T01:14:19.531180+00:00"
+    },
+    "23a71fbaf147a587": {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "fetched_at": "2026-11-17T01:14:20.136286+00:00"
+    },
+    "c7b54c75b4d53b37": {
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "fetched_at": "2026-11-17T01:14:20.737864+00:00"
+    },
+    "de2c4e3dba990234": {
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "fetched_at": "2026-11-17T01:14:21.332639+00:00"
+    },
+    "dfba80314bb6846a": {
+      "title": "黄仁勋骤然离场，亚洲失去驻美“AI大使”",
+      "fetched_at": "2026-11-17T01:14:24.735687+00:00"
+    },
+    "eb100995bc372a7c": {
+      "title": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
+      "fetched_at": "2026-11-17T01:14:25.347683+00:00"
+    },
+    "0cd72b6c7ddac5b2": {
+      "title": "美國全國停飛兩天後仍有數千航班受阻，原因為銅線升級光纖工程",
+      "fetched_at": "2026-11-17T01:14:25.988215+00:00"
+    },
+    "3e181de53d8c97c3": {
+      "title": "APEC深圳峰會：中方確認美中俄會晤，日方盼習近平與高市握手",
+      "fetched_at": "2026-11-17T01:14:26.598927+00:00"
+    },
+    "d8bb7d3cd0f020bd": {
+      "title": "從蔡康永、《VIVANT》到姆巴佩，北京為何區別處理「辱華」？",
+      "fetched_at": "2026-11-17T01:14:27.260450+00:00"
+    },
+    "1ed4da08c8d24ffb": {
+      "title": "DeepSeek被美國政府系統禁用：中美AI競爭繼續升溫",
+      "fetched_at": "2026-11-17T01:14:27.891192+00:00"
+    },
+    "14c49821373f0cfc": {
+      "title": "The Leonid meteor shower peaks tonight: How to see more than a dozen 'shooting stars' per hour",
+      "fetched_at": "2026-11-17T01:15:03.489844+00:00"
+    },
+    "ca3fd959e7330cd9": {
+      "title": "Turkey's ancient underground city has lessons for escaping extreme heat and cold",
+      "fetched_at": "2026-11-17T01:15:04.130065+00:00"
+    },
+    "ce95704e4176bf09": {
+      "title": "Rich in Hindsight (grow v$100 in 1970 using historical stock prices)",
+      "fetched_at": "2026-11-17T01:15:04.755463+00:00"
+    },
+    "1f812cba010f59e0": {
+      "title": "Souvenir Collection May Have Begun 500,000 Years Ago",
+      "fetched_at": "2026-11-17T01:15:05.365179+00:00"
+    },
+    "f172a889bcb3f48b": {
+      "title": "Natufian Clay Figurines Dated to 15,000 Years Ago",
+      "fetched_at": "2026-11-17T01:15:05.973935+00:00"
+    },
+    "30a2655317ca28f6": {
+      "title": "Did Paleolithic Arabians Poison Their Weapons?",
+      "fetched_at": "2026-11-17T01:15:06.598478+00:00"
+    },
+    "5bf51199812442d3": {
+      "title": "Tiny robots can tumble through blood vessels to help dissolve blood clots, early test shows",
+      "fetched_at": "2026-11-17T01:15:07.202727+00:00"
+    },
+    "a3f7eb19c3278447": {
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "fetched_at": "2026-11-17T01:15:07.840529+00:00"
+    },
+    "0ee4a7276976ee7c": {
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "fetched_at": "2026-11-17T01:15:08.435064+00:00"
+    },
+    "35befd9a763a42b6": {
+      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+      "fetched_at": "2026-11-17T01:15:09.042792+00:00"
+    },
+    "db2c84467dabfc31": {
+      "title": "Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
+      "fetched_at": "2026-11-17T01:15:09.660023+00:00"
+    },
+    "593431a951715fea": {
+      "title": "'Flames soon engulfed us': Artemis II astronaut describes the historic mission's riskiest moment",
+      "fetched_at": "2026-11-17T01:15:10.276828+00:00"
+    },
+    "bf0b16ce94905013": {
+      "title": "NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda",
+      "fetched_at": "2026-11-17T01:15:10.882532+00:00"
+    },
+    "9cfc0b4ad28a5112": {
+      "title": "How frequently did Viking women fight in battle?",
+      "fetched_at": "2026-11-17T01:15:11.490928+00:00"
+    },
+    "33e000921be7ac90": {
+      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+      "fetched_at": "2026-11-17T01:15:12.120452+00:00"
     }
   },
-  "last_updated": "2026-11-16T14:13:22.477079+00:00"
+  "last_updated": "2026-11-17T01:15:12.174965+00:00"
 }
