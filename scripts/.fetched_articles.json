@@ -1,309 +1,5 @@
 {
   "articles": {
-    "3221e26022129ea9": {
-      "title": "Why is AI slop so frustrating to read?",
-      "fetched_at": "2026-11-10T00:57:20.739001+00:00"
-    },
-    "10dad197bd339864": {
-      "title": "OpenRing – self-hosted voice AI agents with a Vapi-compatible API",
-      "fetched_at": "2026-11-10T00:57:21.315015+00:00"
-    },
-    "618210203e00ff3f": {
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "fetched_at": "2026-11-10T00:57:21.876770+00:00"
-    },
-    "329e1319b70c1760": {
-      "title": "Learning Abstractions: The Next Frontier for AI",
-      "fetched_at": "2026-11-10T00:57:22.437433+00:00"
-    },
-    "1a145fcbb5398398": {
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "fetched_at": "2026-11-10T00:57:23.009544+00:00"
-    },
-    "f609b9982d677842": {
-      "title": "What could China get from Jensen Huang?",
-      "fetched_at": "2026-11-10T00:57:23.590366+00:00"
-    },
-    "27eea84abb0b1475": {
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "fetched_at": "2026-11-10T00:57:24.150790+00:00"
-    },
-    "14e9bd2f9fa1bf28": {
-      "title": "The New York Times Doesn't Understand AI's Role in Suppressing Wages",
-      "fetched_at": "2026-11-10T00:57:24.719536+00:00"
-    },
-    "9ecbbe432fe48b7e": {
-      "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
-      "fetched_at": "2026-11-10T00:57:25.278375+00:00"
-    },
-    "4f69344550260a38": {
-      "title": "JoesProxy – The free network workbench for your AI agent",
-      "fetched_at": "2026-11-10T00:57:25.839730+00:00"
-    },
-    "7e06d60007bd966f": {
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "fetched_at": "2026-11-10T00:57:26.400090+00:00"
-    },
-    "0febb3033b0dc5a2": {
-      "title": "Why Is AI Slop So Frustrating to Read?",
-      "fetched_at": "2026-11-10T00:57:26.400190+00:00"
-    },
-    "40462586b831cdec": {
-      "title": "Building a full ASIC chip (no AI)",
-      "fetched_at": "2026-11-10T00:57:26.959705+00:00"
-    },
-    "e4a42e2da37b4253": {
-      "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
-      "fetched_at": "2026-11-10T00:57:27.591850+00:00"
-    },
-    "2792b548e1aca824": {
-      "title": "AI Bubble Tracker",
-      "fetched_at": "2026-11-10T00:57:28.153632+00:00"
-    },
-    "1f565b1280257cae": {
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "fetched_at": "2026-11-10T00:57:28.711194+00:00"
-    },
-    "5f8bdadc21a358c9": {
-      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
-      "fetched_at": "2026-11-10T00:57:29.273142+00:00"
-    },
-    "e37841576fcca877": {
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "fetched_at": "2026-11-10T00:57:29.838021+00:00"
-    },
-    "a70c69e968c438ae": {
-      "title": "The race is on to sue Nvidia",
-      "fetched_at": "2026-11-10T00:57:30.403399+00:00"
-    },
-    "0fc515619b1d6321": {
-      "title": "A year after the 100% AI mandate nobody understands our code",
-      "fetched_at": "2026-11-10T00:57:30.963586+00:00"
-    },
-    "b533b3284ad2e4a4": {
-      "title": "北京否认与黄仁勋有亲密关系的女性为中国间谍",
-      "fetched_at": "2026-11-10T00:57:34.177855+00:00"
-    },
-    "5da577742c8af334": {
-      "title": "黃仁勳與疑似中國間諜婚外情風波：特朗普稱FBI已介入調查",
-      "fetched_at": "2026-11-10T00:57:34.734694+00:00"
-    },
-    "d751693f6de1a6b5": {
-      "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
-      "fetched_at": "2026-11-10T00:57:35.297001+00:00"
-    },
-    "2a01c38ec039b41d": {
-      "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
-      "fetched_at": "2026-11-10T00:57:35.863383+00:00"
-    },
-    "b3fe7fd9799e4d82": {
-      "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
-      "fetched_at": "2026-11-10T00:57:36.422137+00:00"
-    },
-    "f12cba8003f61854": {
-      "title": "Nazca infant had rare, fatal birth defect that left her with one central eye 1,600 years ago",
-      "fetched_at": "2026-11-10T00:58:10.081446+00:00"
-    },
-    "c2c3ef4bbfc84777": {
-      "title": "Did human sacrifice help lower violence? New research in Peru leaves intriguing question",
-      "fetched_at": "2026-11-10T00:58:10.634602+00:00"
-    },
-    "584e036c345cce06": {
-      "title": "Inscribed Blocks Record Egyptian Official’s Biography",
-      "fetched_at": "2026-11-10T00:58:11.194451+00:00"
-    },
-    "01fea041c905d6e7": {
-      "title": "The Deep History Behind Rob Roy’s Tombstone",
-      "fetched_at": "2026-11-10T00:58:11.756358+00:00"
-    },
-    "ceff8123c8978bf2": {
-      "title": "Archaeologists Uncover Original Floor of Nubia’s Largest Medieval Cathedral",
-      "fetched_at": "2026-11-10T00:58:12.318145+00:00"
-    },
-    "942dba4b7f354752": {
-      "title": "How do summers differ between Earth's hemispheres?",
-      "fetched_at": "2026-11-10T00:58:12.898676+00:00"
-    },
-    "c1ea5704dbdf5698": {
-      "title": "Scientists say a forgotten particle may explain why the universe exists",
-      "fetched_at": "2026-11-10T00:58:13.463792+00:00"
-    },
-    "34e0644b33f2c71f": {
-      "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-      "fetched_at": "2026-11-10T13:54:37.369349+00:00"
-    },
-    "b723ec1af59efb23": {
-      "title": "Sydney researchers uncover a hidden limit to AI predictability",
-      "fetched_at": "2026-11-10T13:54:37.985054+00:00"
-    },
-    "6468248dece16f9a": {
-      "title": "Show HN: pvewarden – let an AI agent patch Proxmox VMs without giving it a shell",
-      "fetched_at": "2026-11-10T13:54:38.667670+00:00"
-    },
-    "2ae6e5cbb2ca33f7": {
-      "title": "Show HN: TeamOnly, free hosting for AI-built apps behind your company login",
-      "fetched_at": "2026-11-10T13:54:39.299954+00:00"
-    },
-    "423fb330ab4590d5": {
-      "title": "Memory and RAG tools for AI agents, scored",
-      "fetched_at": "2026-11-10T13:54:39.942967+00:00"
-    },
-    "9cfb3cd4805ab6a7": {
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-      "fetched_at": "2026-11-10T13:54:40.598270+00:00"
-    },
-    "bb5feebc507832f4": {
-      "title": "A Read-Only AI Reviewer for Forgejo Pull Requests",
-      "fetched_at": "2026-11-10T13:54:41.223652+00:00"
-    },
-    "aad02397432ba3a6": {
-      "title": "AI Users have workdays up to 90 min longer than non-users",
-      "fetched_at": "2026-11-10T13:54:41.844336+00:00"
-    },
-    "1f247f8b5b2aa790": {
-      "title": "AI Is Looking More and More Like a Normal Technology",
-      "fetched_at": "2026-11-10T13:54:42.471351+00:00"
-    },
-    "4f5d6c095b5998cf": {
-      "title": "Quantinuum and Riken Expand Quantum-AI Supercomputing Partnership",
-      "fetched_at": "2026-11-10T13:54:43.088013+00:00"
-    },
-    "29758067c1ace1c4": {
-      "title": "Show HN: AI Vision Index, private tests of how well 36 AI models see",
-      "fetched_at": "2026-11-10T13:54:43.719773+00:00"
-    },
-    "c4fad8662a89fc75": {
-      "title": "Behind AI's Flywheel Powering Materials Discovery at Sandia Labs",
-      "fetched_at": "2026-11-10T13:54:44.389856+00:00"
-    },
-    "366c6fe8f30138f6": {
-      "title": "Ask HN: How do you keep secrets out of your AI agents' context?",
-      "fetched_at": "2026-11-10T13:54:45.034697+00:00"
-    },
-    "4986a18bb1cd96a4": {
-      "title": "Software selection is now hard, because of AI flood of projects",
-      "fetched_at": "2026-11-10T13:54:45.656915+00:00"
-    },
-    "a1dcd881225c9b37": {
-      "title": "'AI slop' papers published under prominent academics' names",
-      "fetched_at": "2026-11-10T13:54:46.276212+00:00"
-    },
-    "eaa3fc3fb7b399b6": {
-      "title": "Beyond FLOP/s: comparing AI hardware for inference by memory and communication",
-      "fetched_at": "2026-11-10T13:54:46.896864+00:00"
-    },
-    "926889f511fb7ea7": {
-      "title": "Show HN: VoxaDub – Open-source AI video dubbing with speaker-aware voices",
-      "fetched_at": "2026-11-10T13:54:47.521415+00:00"
-    },
-    "7739852efea05267": {
-      "title": "Show HN: Cosh – An open-source AI agent orchestrator",
-      "fetched_at": "2026-11-10T13:54:48.139960+00:00"
-    },
-    "e56530249f65b828": {
-      "title": "Show HN: AI Hustle Team – an AI on its own computer that does your daily work",
-      "fetched_at": "2026-11-10T13:54:48.779174+00:00"
-    },
-    "5954938f7f7cf921": {
-      "title": "Show HN: Eigin. Local-first and no-shell personal AI for iOS",
-      "fetched_at": "2026-11-10T13:54:49.426762+00:00"
-    },
-    "4cd84de06a193f3f": {
-      "title": "英國笑匠布蘭德強姦案判刑 為何BBC和貝安德均作表態？",
-      "fetched_at": "2026-11-10T13:54:52.684645+00:00"
-    },
-    "b0918b41a1ff6e7e": {
-      "title": "全球最大排放國的拐點：中國煤電佔比跌破五成，碳排放幾乎停滯",
-      "fetched_at": "2026-11-10T13:54:53.301227+00:00"
-    },
-    "9719271db9ac2092": {
-      "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
-      "fetched_at": "2026-11-10T13:54:53.947534+00:00"
-    },
-    "a951503c3faaa2b8": {
-      "title": "父母選擇「雙人安樂死」，留下我獨自承受喪親之痛",
-      "fetched_at": "2026-11-10T13:54:54.623772+00:00"
-    },
-    "9e1f17e2265df0c8": {
-      "title": "中国前10个月贸易顺差突破1万亿美元",
-      "fetched_at": "2026-11-10T13:54:55.235618+00:00"
-    },
-    "71be55f96c85d488": {
-      "title": "黃仁勳婚外情風波將在全球引發連鎖反應",
-      "fetched_at": "2026-11-10T13:54:55.862825+00:00"
-    },
-    "333e659e981ee2f7": {
-      "title": "美国防长海格塞斯面临弹劾动议，这里是需要了解的信息",
-      "fetched_at": "2026-11-10T13:54:56.601099+00:00"
-    },
-    "6b4f12f1fe49ca56": {
-      "title": "黄仁勋对英伟达的全面控制是否意味着他难以被惩罚",
-      "fetched_at": "2026-11-10T13:54:57.225195+00:00"
-    },
-    "fadbdcbe7adcf5b1": {
-      "title": "美国商务部就芯片展开的调查在英伟达介入后中止",
-      "fetched_at": "2026-11-10T13:54:57.861818+00:00"
-    },
-    "f3e43c1c60e04479": {
-      "title": "黄仁勋对特朗普称自己不知婚外情对象疑似中国间谍",
-      "fetched_at": "2026-11-10T13:54:58.483689+00:00"
-    },
-    "b1091632ad93e267": {
-      "title": "黄仁勋何以成为硅谷的“摇滚明星”",
-      "fetched_at": "2026-11-10T13:54:59.100694+00:00"
-    },
-    "c25952f216710daf": {
-      "title": "四成「陸配」參選遭剔除，身分「法理死結」如何困住參政之路？",
-      "fetched_at": "2026-11-10T13:54:59.718924+00:00"
-    },
-    "a8fd81b45373f962": {
-      "title": "朝鮮「精英」黑客為何成為幣安63億美元盜竊案的頭號嫌犯？",
-      "fetched_at": "2026-11-10T13:55:00.364111+00:00"
-    },
-    "8299780cb33519b0": {
-      "title": "「政二代」蘇巧慧對決「專業副手」李四川，誰能拿下新北？",
-      "fetched_at": "2026-11-10T13:55:01.065269+00:00"
-    },
-    "a485b750dd895028": {
-      "title": "「九合一」五大看點：「洋流」能否撼動台北？誰在卡位2028？",
-      "fetched_at": "2026-11-10T13:55:01.713774+00:00"
-    },
-    "74c171289ec23ce5": {
-      "title": "台灣「北藍南綠」的政治版圖是否「鐵板一塊」？",
-      "fetched_at": "2026-11-10T13:55:02.330648+00:00"
-    },
-    "27821d28303c492e": {
-      "title": "Show HN: Deep Cuts – music discovery via credits instead of algorithms",
-      "fetched_at": "2026-11-10T13:55:08.589793+00:00"
-    },
-    "9a28cc0b5eb09a01": {
-      "title": "'The first species we might be able to communicate with, interact with vocally, might be a bird': An animal researcher explains how she decoded birdsong",
-      "fetched_at": "2026-11-10T13:55:09.208220+00:00"
-    },
-    "c97fe3007bc6d84f": {
-      "title": "Highly active Russian volcano plays peek-a-boo with an astronaut",
-      "fetched_at": "2026-11-10T13:55:09.816905+00:00"
-    },
-    "a3c09180ad0eb637": {
-      "title": "How a mathematical discovery changed the rules of chess",
-      "fetched_at": "2026-11-10T13:55:10.443282+00:00"
-    },
-    "1eff6aa60408f772": {
-      "title": "Iran war helps fuel global drop in fossil fuel emissions — but there’s a catch",
-      "fetched_at": "2026-11-10T13:55:11.078444+00:00"
-    },
-    "c72a53f435b6640d": {
-      "title": "Alzheimer’s may have early warning signs outside the brain",
-      "fetched_at": "2026-11-10T13:55:11.698904+00:00"
-    },
-    "c19638ef63843553": {
-      "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-      "fetched_at": "2026-11-10T13:55:12.292379+00:00"
-    },
-    "62e56e99a961bfd4": {
-      "title": "Scientists finally discover why we learn to love bitter coffee",
-      "fetched_at": "2026-11-10T13:55:12.912159+00:00"
-    },
     "cf7f0b4b84875522": {
       "title": "Show HN: SketchUp compatible modeler with AI capabilities",
       "fetched_at": "2026-11-10T22:37:53.105210+00:00"
@@ -2939,7 +2635,159 @@
     "781c9ff5d1c18651": {
       "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
       "fetched_at": "2026-11-18T00:09:21.350700+00:00"
+    },
+    "fc9e02040d2f8bf4": {
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "fetched_at": "2026-11-18T14:44:22.329674+00:00"
+    },
+    "2f63debdbc6af35c": {
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "fetched_at": "2026-11-18T14:44:22.893502+00:00"
+    },
+    "8f5a1c7369913df0": {
+      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "fetched_at": "2026-11-18T14:44:23.458819+00:00"
+    },
+    "435daf0827679dd9": {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "fetched_at": "2026-11-18T14:44:24.017866+00:00"
+    },
+    "3f6593575f660a6c": {
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "fetched_at": "2026-11-18T14:44:24.593827+00:00"
+    },
+    "153f053dbfe0db93": {
+      "title": "Suno now lets you make AI videos for your AI music",
+      "fetched_at": "2026-11-18T14:44:25.159092+00:00"
+    },
+    "a4a76f3f6e575f32": {
+      "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+      "fetched_at": "2026-11-18T14:44:25.724655+00:00"
+    },
+    "420dd0ea4467920a": {
+      "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+      "fetched_at": "2026-11-18T14:44:26.285110+00:00"
+    },
+    "f1c10317f08d5337": {
+      "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+      "fetched_at": "2026-11-18T14:44:26.844815+00:00"
+    },
+    "7644771f462e16fd": {
+      "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+      "fetched_at": "2026-11-18T14:44:27.422014+00:00"
+    },
+    "4e891c14d991e183": {
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "fetched_at": "2026-11-18T14:44:27.984120+00:00"
+    },
+    "a443c4e00988104e": {
+      "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+      "fetched_at": "2026-11-18T14:44:28.544608+00:00"
+    },
+    "8385ad53475fee6a": {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "fetched_at": "2026-11-18T14:44:29.106053+00:00"
+    },
+    "0914d902da66cccc": {
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "fetched_at": "2026-11-18T14:44:29.661151+00:00"
+    },
+    "bc89be5f12de94b8": {
+      "title": "APEC深圳峰會：習近平親赴機場迎接特朗普，46年來首次中國元首接機",
+      "fetched_at": "2026-11-18T14:44:32.376001+00:00"
+    },
+    "0c6e28fd5a310c9f": {
+      "title": "黃仁勳婚外情掀「中國間諜」迷因：幽默與偏見之間，亞裔女性如何自處？",
+      "fetched_at": "2026-11-18T14:44:32.938094+00:00"
+    },
+    "ea869fcbe8d00488": {
+      "title": "美國今年已10人死於麻疹 26年後失去「麻疹消除狀態」",
+      "fetched_at": "2026-11-18T14:44:33.536271+00:00"
+    },
+    "262b4e5e006cbf5d": {
+      "title": "美中俄峰會：為何選在深圳麒麟山莊？習仲勳、金正日都曾下榻",
+      "fetched_at": "2026-11-18T14:44:34.094624+00:00"
+    },
+    "c52f5f79db83e84e": {
+      "title": "英伟达丑闻加深特朗普政府内部裂痕",
+      "fetched_at": "2026-11-18T14:44:34.674044+00:00"
+    },
+    "501e2090542e723b": {
+      "title": "中加达成贸易协议进一步削减关税，两国关系升温",
+      "fetched_at": "2026-11-18T14:44:35.230005+00:00"
+    },
+    "b450a72d40836d69": {
+      "title": "身體最常受傷、卻很少人會刻意鍛鍊的部位：腳踝",
+      "fetched_at": "2026-11-18T14:44:35.802930+00:00"
+    },
+    "5020b6d0eac0279f": {
+      "title": "间谍丑闻、贸易失衡：习近平的APEC“高光”会否蒙尘？",
+      "fetched_at": "2026-11-18T14:44:36.370172+00:00"
+    },
+    "a6fa16cf1375cfa5": {
+      "title": "习近平与特朗普“友谊”表象下，中美经济裂痕扩大",
+      "fetched_at": "2026-11-18T14:44:36.931003+00:00"
+    },
+    "34cbd06ee8963baf": {
+      "title": "间谍指控、安全担忧：中美围绕人工智能的紧张局势加剧",
+      "fetched_at": "2026-11-18T14:44:37.496327+00:00"
+    },
+    "be9dd0a0c7e2813d": {
+      "title": "特朗普向习近平和普京献媚不会有好结果",
+      "fetched_at": "2026-11-18T14:44:38.054724+00:00"
+    },
+    "14c6b8aa6b9a30bf": {
+      "title": "特朗普短暂出席东盟峰会，淡化国内外担忧",
+      "fetched_at": "2026-11-18T14:44:38.640713+00:00"
+    },
+    "c370c3d1b8e57a85": {
+      "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
+      "fetched_at": "2026-11-18T14:44:39.206799+00:00"
+    },
+    "ca635ea04114f1f8": {
+      "title": "2,000-year-old tomb of an elite nomad in Mongolia contained a Roman glass cup and Han-dynasty-inspired jade decorations",
+      "fetched_at": "2026-11-18T14:44:42.458913+00:00"
+    },
+    "7788922c9f658595": {
+      "title": "Man's 'silly experiment' at work led to a fatal 'rectal explosion'",
+      "fetched_at": "2026-11-18T14:44:43.017031+00:00"
+    },
+    "02aea6af03ab1950": {
+      "title": "For centuries, we drew the pregnant body without a head. Now we need to fill in what we left blank.",
+      "fetched_at": "2026-11-18T14:44:43.621383+00:00"
+    },
+    "f80e71ca84b2d939": {
+      "title": "Eagles hunt baboons weighing up to 60 pounds, raising questions about whether birds of prey hunted ancient humans",
+      "fetched_at": "2026-11-18T14:44:44.184097+00:00"
+    },
+    "8239043e88d3df6d": {
+      "title": "New discovery reveals what may be holding back room-temperature superconductors",
+      "fetched_at": "2026-11-18T14:44:44.756859+00:00"
+    },
+    "4d4f2d5583169df1": {
+      "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
+      "fetched_at": "2026-11-18T14:44:45.393858+00:00"
+    },
+    "09cbafb70204af57": {
+      "title": "A little-known protein could be a powerful weapon against Alzheimer’s",
+      "fetched_at": "2026-11-18T14:44:45.956129+00:00"
+    },
+    "ff450759e4393a71": {
+      "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
+      "fetched_at": "2026-11-18T14:44:46.531766+00:00"
+    },
+    "46fd78460276411e": {
+      "title": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
+      "fetched_at": "2026-11-18T14:44:47.117661+00:00"
+    },
+    "e17db86b24818056": {
+      "title": "125,000 years ago, hippos roamed what is now the vast Arabian Desert",
+      "fetched_at": "2026-11-18T14:44:47.687524+00:00"
+    },
+    "b8ea12cf8501153b": {
+      "title": "Autistic brains look surprisingly similar on average. Then scientists looked closer.",
+      "fetched_at": "2026-11-18T14:44:48.255554+00:00"
     }
   },
-  "last_updated": "2026-11-18T00:09:21.398200+00:00"
+  "last_updated": "2026-11-18T14:44:48.325290+00:00"
 }
