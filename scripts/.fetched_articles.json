@@ -1,129 +1,5 @@
 {
   "articles": {
-    "c9ae847013585228": {
-      "title": "Show HN: Komrad – an AI agent that does NOT work for you",
-      "fetched_at": "2026-11-11T13:07:31.119635+00:00"
-    },
-    "ba7b32ad452e7f21": {
-      "title": "Key LLM Inference Metrics Explained in 5 Minutes",
-      "fetched_at": "2026-11-11T13:07:31.755395+00:00"
-    },
-    "8db9737bf19ce948": {
-      "title": "Modernizing NetHack's C engine with .NET MAUI, Avalonia and a 31-tool AI advisor",
-      "fetched_at": "2026-11-11T13:07:32.365674+00:00"
-    },
-    "396f6824205c419b": {
-      "title": "Show HN: Outlier, AI without the data center, private and offline on your Mac",
-      "fetched_at": "2026-11-11T13:07:32.979195+00:00"
-    },
-    "7c0b820ba84ec046": {
-      "title": "TSMC Approves $1B AI Investment",
-      "fetched_at": "2026-11-11T13:07:33.592684+00:00"
-    },
-    "47a8ef18a08d21b9": {
-      "title": "Show HN: Kodelyth ECC – 71 AI agents and MCP and 55% token cuts for Claude Code",
-      "fetched_at": "2026-11-11T13:07:34.210343+00:00"
-    },
-    "493ee3b80f136782": {
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "fetched_at": "2026-11-11T13:07:34.822223+00:00"
-    },
-    "633e8f7e9beda3ac": {
-      "title": "We need more science in the judgment of AI",
-      "fetched_at": "2026-11-11T13:07:35.465318+00:00"
-    },
-    "9fa67ebf99cb0ef0": {
-      "title": "Show HN: Agent Buddies – Swappable animated characters for AI agents",
-      "fetched_at": "2026-11-11T13:07:36.074372+00:00"
-    },
-    "d4238d90dfba595f": {
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "fetched_at": "2026-11-11T13:07:36.721931+00:00"
-    },
-    "78f9d8a25515704e": {
-      "title": "Model Desk – A local-first multi-provider AI workspaceShared via URL-sharer",
-      "fetched_at": "2026-11-11T13:07:37.409085+00:00"
-    },
-    "c58fd2207bc20870": {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "fetched_at": "2026-11-11T13:07:38.026410+00:00"
-    },
-    "16b132a250c88267": {
-      "title": "Show HN: Allow individuals to sell traces to AI labs",
-      "fetched_at": "2026-11-11T13:07:38.640686+00:00"
-    },
-    "bf8d6c533a64ce8d": {
-      "title": "Robo-Fuckers – An LLM Bromance",
-      "fetched_at": "2026-11-11T13:07:39.287271+00:00"
-    },
-    "2f397f912459b570": {
-      "title": "Ask HN: Why didn't The Bible warn/tell us about AI?",
-      "fetched_at": "2026-11-11T13:07:39.917213+00:00"
-    },
-    "aa1c34be78e1055f": {
-      "title": "AI Agents in Multicultural Teams: Will We Need a Global ID?",
-      "fetched_at": "2026-11-11T13:07:40.625756+00:00"
-    },
-    "7817e6940840cf2e": {
-      "title": "Lokey – A native Android keyboard with local AI for prediction, autocorrection",
-      "fetched_at": "2026-11-11T13:07:41.243517+00:00"
-    },
-    "1b16693214673c4d": {
-      "title": "LDSBot, an AI LDS Chatbot",
-      "fetched_at": "2026-11-11T13:07:41.860147+00:00"
-    },
-    "27ccab2a2d4d8b38": {
-      "title": "Show HN: Halyard – Mac and iPhone app for AI agents in tmux, nothing to install",
-      "fetched_at": "2026-11-11T13:07:42.499815+00:00"
-    },
-    "d3505084fa1d980c": {
-      "title": "The Jevons Paradox Explains Why AI Will Create More Software",
-      "fetched_at": "2026-11-11T13:07:43.111491+00:00"
-    },
-    "85a516f3f997ec08": {
-      "title": "認識史蒂芬妮·凱斯——首位在南極洲跑完100英里的女性",
-      "fetched_at": "2026-11-11T13:07:46.299630+00:00"
-    },
-    "4f9c7bb6ca7677da": {
-      "title": "英伟达将与Anthropic深度绑定，计划投资百亿美元",
-      "fetched_at": "2026-11-11T13:07:46.911624+00:00"
-    },
-    "f55311e16fcc342a": {
-      "title": "「台灣之光」形象重挫？民眾如何看黃仁勳婚外情風波",
-      "fetched_at": "2026-11-11T13:07:47.523688+00:00"
-    },
-    "de7aa3ef6dbe365c": {
-      "title": "富人越来越富，也越来越坏",
-      "fetched_at": "2026-11-11T13:07:48.135009+00:00"
-    },
-    "5b1757509aa03037": {
-      "title": "特朗普应对失败的“经典”方式：制造混乱",
-      "fetched_at": "2026-11-11T13:07:48.764276+00:00"
-    },
-    "28507cb036e142f8": {
-      "title": "A man swallowed a bone, and‬ 15 years later, doctors found it in his appendix",
-      "fetched_at": "2026-11-11T13:08:03.286833+00:00"
-    },
-    "b0aaaeeacdbc1754": {
-      "title": "'No one dared question his results': How thermodynamics sparked a heated debate about Earth's age in the 19th century",
-      "fetched_at": "2026-11-11T13:08:04.028311+00:00"
-    },
-    "0b0fb40c851899bf": {
-      "title": "Huawei unveils 'SuperCluster' architecture designed to make 1 million AI chips work as a single computer",
-      "fetched_at": "2026-11-11T13:08:04.667399+00:00"
-    },
-    "af8814afb021c28f": {
-      "title": "Discovery of doughnut-like topology at tipping points breaks physics convention",
-      "fetched_at": "2026-11-11T13:08:05.302355+00:00"
-    },
-    "248e79f66df34617": {
-      "title": "Traces of ancient blood found in 115 million-year-old dinosaur fossil, new study claims",
-      "fetched_at": "2026-11-11T13:08:05.923121+00:00"
-    },
-    "bd474724349426e8": {
-      "title": "Buried for 2,600 years beneath Nile mud, a massive ancient Egyptian complex was just found — from space",
-      "fetched_at": "2026-11-11T13:08:06.541216+00:00"
-    },
     "d1df2815548fa078": {
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
       "fetched_at": "2026-11-11T23:48:01.297835+00:00"
@@ -2795,7 +2671,147 @@
     "0f49c46a068a7aa0": {
       "title": "ZWO Seestar S30 Plus review",
       "fetched_at": "2026-11-19T04:54:44.332854+00:00"
+    },
+    "1d6c35c88bf77485": {
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "fetched_at": "2026-11-19T14:51:39.901909+00:00"
+    },
+    "beeeb326dbd8433c": {
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "fetched_at": "2026-11-19T14:51:40.459407+00:00"
+    },
+    "4e726f477de2ad4d": {
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "fetched_at": "2026-11-19T14:51:41.023701+00:00"
+    },
+    "efdd4688feaa5599": {
+      "title": "Canva adds an AI ‘off’ button",
+      "fetched_at": "2026-11-19T14:51:41.619581+00:00"
+    },
+    "bb098da5620df7cd": {
+      "title": "给 Apple 的 2026 年打分，请你一起参与",
+      "fetched_at": "2026-11-19T14:51:42.183267+00:00"
+    },
+    "e3e9f289bf9fec4a": {
+      "title": "新玩意 256｜少数派的编辑们最近买了啥？",
+      "fetched_at": "2026-11-19T14:51:42.746055+00:00"
+    },
+    "8af24bd9f2211e84": {
+      "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
+      "fetched_at": "2026-11-19T14:51:43.348965+00:00"
+    },
+    "45c859b00d5396ec": {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "fetched_at": "2026-11-19T14:51:43.913846+00:00"
+    },
+    "2578e64b50d478d7": {
+      "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+      "fetched_at": "2026-11-19T14:51:44.506896+00:00"
+    },
+    "48416a1a1ee09747": {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "fetched_at": "2026-11-19T14:51:45.074637+00:00"
+    },
+    "debe35c3ca54ee68": {
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "fetched_at": "2026-11-19T14:51:45.638274+00:00"
+    },
+    "c64b8bc7a37acc37": {
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "fetched_at": "2026-11-19T14:51:45.638369+00:00"
+    },
+    "777968f95e49f48c": {
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "fetched_at": "2026-11-19T14:51:45.638419+00:00"
+    },
+    "57989dca6e9ffb0c": {
+      "title": "假裝身在紐西蘭、提前請假、搶購遊戲主機：粉絲為《GTA 6》發佈做足準備",
+      "fetched_at": "2026-11-19T14:51:47.780638+00:00"
+    },
+    "5ee1b7bf06940395": {
+      "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
+      "fetched_at": "2026-11-19T14:51:48.342642+00:00"
+    },
+    "d83008ded9fccaef": {
+      "title": "從領導人合照到場邊會談：高市早苗的APEC外交觀察",
+      "fetched_at": "2026-11-19T14:51:48.910118+00:00"
+    },
+    "ad2e225320c1c95a": {
+      "title": "AI是做精神導師，發佈教法裁決？穆斯林對此意見不一",
+      "fetched_at": "2026-11-19T14:51:49.484503+00:00"
+    },
+    "7d48adac164f6e2a": {
+      "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
+      "fetched_at": "2026-11-19T14:51:50.050763+00:00"
+    },
+    "ffba425d55ba8646": {
+      "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
+      "fetched_at": "2026-11-19T14:51:50.610581+00:00"
+    },
+    "c1c1ca723eebe640": {
+      "title": "APEC峰会期间，深圳变“空城”",
+      "fetched_at": "2026-11-19T14:51:51.274903+00:00"
+    },
+    "079d053205690074": {
+      "title": "如何解读特朗普与习近平的拥抱",
+      "fetched_at": "2026-11-19T14:51:51.857131+00:00"
+    },
+    "dd8ddf0a7017caf6": {
+      "title": "中国军方对英伟达芯片触手可及？阿里巴巴扮演重要角色",
+      "fetched_at": "2026-11-19T14:51:52.412791+00:00"
+    },
+    "8c4f8959c947ee46": {
+      "title": "黃仁勳曾告訴我，那些關於中國與國家安全的問題",
+      "fetched_at": "2026-11-19T14:51:53.009748+00:00"
+    },
+    "26b66067dc190053": {
+      "title": "從局長下台到議會「沉默」 宏福苑大火後的政治問責與維穩邏輯",
+      "fetched_at": "2026-11-19T14:51:53.600137+00:00"
+    },
+    "e29e940811246b2e": {
+      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+      "fetched_at": "2026-11-19T14:52:55.678084+00:00"
+    },
+    "7d96931c69e61188": {
+      "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
+      "fetched_at": "2026-11-19T14:52:56.237665+00:00"
+    },
+    "767089fdd48f94f2": {
+      "title": "Something strange is living beneath the skin of deep-sea pigs",
+      "fetched_at": "2026-11-19T14:52:56.789771+00:00"
+    },
+    "9b77d2c687f2e77c": {
+      "title": "Why hydrogen flames can glow orange, then turn nearly invisible",
+      "fetched_at": "2026-11-19T14:52:57.395076+00:00"
+    },
+    "5e5980325a672751": {
+      "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
+      "fetched_at": "2026-11-19T14:52:57.956170+00:00"
+    },
+    "039dfaac18ae6e23": {
+      "title": "Is free will an illusion? New brain research reveals a surprising twist",
+      "fetched_at": "2026-11-19T14:52:58.514641+00:00"
+    },
+    "6e8556b549a0d94d": {
+      "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
+      "fetched_at": "2026-11-19T14:52:59.074920+00:00"
+    },
+    "303c20cd35123326": {
+      "title": "Too much exercise could leave your brain stuck in overdrive",
+      "fetched_at": "2026-11-19T14:52:59.648191+00:00"
+    },
+    "9d10a78bb06a41ab": {
+      "title": "Why do farts smell so bad? The secret is brewing in your gut",
+      "fetched_at": "2026-11-19T14:53:00.207634+00:00"
+    },
+    "342e589274b46b2f": {
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "fetched_at": "2026-11-19T14:53:00.838230+00:00"
+    },
+    "3876fea35b6c71a1": {
+      "title": "Why heart attacks can still happen even when bad cholesterol is low",
+      "fetched_at": "2026-11-19T14:53:01.402981+00:00"
     }
   },
-  "last_updated": "2026-11-19T04:54:44.435562+00:00"
+  "last_updated": "2026-11-19T14:53:01.453088+00:00"
 }
