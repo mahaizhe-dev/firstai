@@ -1,165 +1,5 @@
 {
   "articles": {
-    "bc346ab0599b2f1e": {
-      "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
-      "fetched_at": "2026-11-11T03:37:31.014721+00:00"
-    },
-    "8a5635a789be2b71": {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "fetched_at": "2026-11-11T03:37:31.650784+00:00"
-    },
-    "8e007ebf68662674": {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "fetched_at": "2026-11-11T03:37:32.289652+00:00"
-    },
-    "2041e484da537031": {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "fetched_at": "2026-11-11T03:37:32.907405+00:00"
-    },
-    "d0bacf4920650042": {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "fetched_at": "2026-11-11T03:37:33.551347+00:00"
-    },
-    "55782c6ab9ffabed": {
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "fetched_at": "2026-11-11T03:37:34.172809+00:00"
-    },
-    "035a88748715b224": {
-      "title": "The indie game community is in disarray over AI and Big Walk",
-      "fetched_at": "2026-11-11T03:37:34.798512+00:00"
-    },
-    "8a97a0a8b649cb7a": {
-      "title": "Anthropic has its own AI-powered office suite now",
-      "fetched_at": "2026-11-11T03:37:35.420328+00:00"
-    },
-    "ede52991cd735c48": {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "fetched_at": "2026-11-11T03:37:36.042403+00:00"
-    },
-    "1c26a01e08e8153a": {
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "fetched_at": "2026-11-11T03:37:36.658146+00:00"
-    },
-    "d7c7fedd2685bf68": {
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "fetched_at": "2026-11-11T03:37:37.374899+00:00"
-    },
-    "ad425c114396ca8f": {
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "fetched_at": "2026-11-11T03:37:37.995448+00:00"
-    },
-    "19b3ddb877554569": {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "fetched_at": "2026-11-11T03:37:38.615722+00:00"
-    },
-    "52c4d2091ea2972d": {
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "fetched_at": "2026-11-11T03:37:39.283672+00:00"
-    },
-    "e4250c2c8bcd3db2": {
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "fetched_at": "2026-11-11T03:37:39.906370+00:00"
-    },
-    "37efc2149ab5bcc3": {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "fetched_at": "2026-11-11T03:37:40.524970+00:00"
-    },
-    "c4cfb3cfa19861e8": {
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "fetched_at": "2026-11-11T03:37:41.143132+00:00"
-    },
-    "33762064e01ced10": {
-      "title": "Adobe is going all in on agentic AI",
-      "fetched_at": "2026-11-11T03:37:41.772483+00:00"
-    },
-    "b6bac4b16167b485": {
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "fetched_at": "2026-11-11T03:37:42.390885+00:00"
-    },
-    "9e5feb7a773f23e3": {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "fetched_at": "2026-11-11T03:37:43.021302+00:00"
-    },
-    "752a2a52bb5565a5": {
-      "title": "黄仁勋事件中的“女主角”黄乐是谁？",
-      "fetched_at": "2026-11-11T03:37:45.800682+00:00"
-    },
-    "76821f446d5ddcd6": {
-      "title": "英國美軍在用基地反恐案件：華府稱三伊朗關聯者策劃",
-      "fetched_at": "2026-11-11T03:37:46.444008+00:00"
-    },
-    "47121c6f3515c11b": {
-      "title": "特朗普至少两次被告知黄仁勋事件，仍邀其陪同访华",
-      "fetched_at": "2026-11-11T03:37:47.050765+00:00"
-    },
-    "8c4f8959c947ee46": {
-      "title": "黃仁勳曾告訴我，那些關於中國與國家安全的問題",
-      "fetched_at": "2026-11-11T03:37:47.668369+00:00"
-    },
-    "26b66067dc190053": {
-      "title": "從局長下台到議會「沉默」 宏福苑大火後的政治問責與維穩邏輯",
-      "fetched_at": "2026-11-11T03:37:48.300288+00:00"
-    },
-    "020e9082809b5eef": {
-      "title": "顺从的董事会：黄仁勋危机考验英伟达公司治理",
-      "fetched_at": "2026-11-11T03:37:48.918964+00:00"
-    },
-    "9d091f74aad35605": {
-      "title": "為何晚上睡前總是想吃零食？可以怎麼辦？",
-      "fetched_at": "2026-11-11T03:37:49.547832+00:00"
-    },
-    "63b26ee835bc780d": {
-      "title": "一名公務員如何長期瞞天過海，身兼五職？",
-      "fetched_at": "2026-11-11T03:37:50.182491+00:00"
-    },
-    "3cf6901295eb926c": {
-      "title": "Scientists discover why some mosquitoes love you and others don't",
-      "fetched_at": "2026-11-11T03:37:52.197731+00:00"
-    },
-    "342e589274b46b2f": {
-      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-      "fetched_at": "2026-11-11T03:37:52.808920+00:00"
-    },
-    "cc7a186624419c83": {
-      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-      "fetched_at": "2026-11-11T03:37:53.427062+00:00"
-    },
-    "fc24fd97e65833e2": {
-      "title": "Astronomers discover hidden alien planet in James Webb images",
-      "fetched_at": "2026-11-11T03:37:54.050796+00:00"
-    },
-    "c96d42951a32f84a": {
-      "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
-      "fetched_at": "2026-11-11T03:37:54.687279+00:00"
-    },
-    "32798900840f91a3": {
-      "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue",
-      "fetched_at": "2026-11-11T03:37:55.331191+00:00"
-    },
-    "13d39b69c6571138": {
-      "title": "Comets may have destroyed life's ingredients instead of delivering them to Earth",
-      "fetched_at": "2026-11-11T03:37:55.946897+00:00"
-    },
-    "3c3f0dea0ad8d9a6": {
-      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
-      "fetched_at": "2026-11-11T03:37:56.592625+00:00"
-    },
-    "3876fea35b6c71a1": {
-      "title": "Why heart attacks can still happen even when bad cholesterol is low",
-      "fetched_at": "2026-11-11T03:37:57.222844+00:00"
-    },
-    "0af9788816948fe0": {
-      "title": "Lycurgus Cup: A Roman glass goblet made with ancient color-changing nanotechnology",
-      "fetched_at": "2026-11-11T03:37:57.965278+00:00"
-    },
-    "ccc7cb1726d8c0ad": {
-      "title": "Blue whales have gone missing off the Galápagos. Scientists think El Niño could be why.",
-      "fetched_at": "2026-11-11T03:37:58.583840+00:00"
-    },
-    "f5b9f26e9749614a": {
-      "title": "'Now you actually have a blood test': Psychiatry's bible, the DSM, is getting upgraded to include biological markers. A psychiatrist explains what that means for mental health.",
-      "fetched_at": "2026-11-11T03:37:59.223932+00:00"
-    },
     "c9ae847013585228": {
       "title": "Show HN: Komrad – an AI agent that does NOT work for you",
       "fetched_at": "2026-11-11T13:07:31.119635+00:00"
@@ -2823,7 +2663,139 @@
     "62e56e99a961bfd4": {
       "title": "Scientists finally discover why we learn to love bitter coffee",
       "fetched_at": "2026-11-18T23:40:54.993043+00:00"
+    },
+    "fa0470d1387e0847": {
+      "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
+      "fetched_at": "2026-11-19T04:54:19.914004+00:00"
+    },
+    "b34a4173b3e15fc8": {
+      "title": "Madras School System and AI Learning Share Similarity",
+      "fetched_at": "2026-11-19T04:54:20.542942+00:00"
+    },
+    "142e1acab1271d8a": {
+      "title": "Ask HN: What positive impact has AI had in the past 5 years?",
+      "fetched_at": "2026-11-19T04:54:21.186029+00:00"
+    },
+    "7eaa47998b74d295": {
+      "title": "Stickers on Buttons: Why South Korea's Suneung AI cheating patch won't hold",
+      "fetched_at": "2026-11-19T04:54:21.810117+00:00"
+    },
+    "80c780133753e8b9": {
+      "title": "Turning one photo into a Goodbye GTA 5 AI video",
+      "fetched_at": "2026-11-19T04:54:22.445482+00:00"
+    },
+    "1c549507a1b57eec": {
+      "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
+      "fetched_at": "2026-11-19T04:54:23.080406+00:00"
+    },
+    "bd52abac07009fc3": {
+      "title": "Verifiable Identity for AI Agents · Agent Name Service",
+      "fetched_at": "2026-11-19T04:54:23.726778+00:00"
+    },
+    "19c4a7dc267d233c": {
+      "title": "AI asked better questions than KPMG accountants in audit",
+      "fetched_at": "2026-11-19T04:54:24.368260+00:00"
+    },
+    "674054c46f6145fd": {
+      "title": "KPMG pressed its auditor to pass on AI cost savings",
+      "fetched_at": "2026-11-19T04:54:24.993325+00:00"
+    },
+    "245c55895d612d3f": {
+      "title": "Show HN: Disposable – Share small AI-made tools so others can rebuild them",
+      "fetched_at": "2026-11-19T04:54:25.619772+00:00"
+    },
+    "3a45bfe8c059bd96": {
+      "title": "Pond: A New Community of Human–Machine Symbiosis",
+      "fetched_at": "2026-11-19T04:54:26.235253+00:00"
+    },
+    "900313611cc53a8b": {
+      "title": "Itsfree.ai – Every model you can use for free",
+      "fetched_at": "2026-11-19T04:54:26.867950+00:00"
+    },
+    "213d031e4e5686bd": {
+      "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+      "fetched_at": "2026-11-19T04:54:27.506823+00:00"
+    },
+    "d007bc7ed197a01c": {
+      "title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
+      "fetched_at": "2026-11-19T04:54:28.138120+00:00"
+    },
+    "d71c2505efcb0fc2": {
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "fetched_at": "2026-11-19T04:54:28.789329+00:00"
+    },
+    "29cbfa61d43118ad": {
+      "title": "AI will not make you rich (2025)",
+      "fetched_at": "2026-11-19T04:54:29.420949+00:00"
+    },
+    "21a1e676d41ca140": {
+      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "fetched_at": "2026-11-19T04:54:30.057272+00:00"
+    },
+    "b288f8e956f4eada": {
+      "title": "AI in the Courtroom",
+      "fetched_at": "2026-11-19T04:54:30.687871+00:00"
+    },
+    "f6c48f6ce979275a": {
+      "title": "Becerra faces a $2B budget deficit as potential AI bust looms",
+      "fetched_at": "2026-11-19T04:54:31.315758+00:00"
+    },
+    "6c2b9cd3e45b7919": {
+      "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
+      "fetched_at": "2026-11-19T04:54:31.947596+00:00"
+    },
+    "b24a5734be899715": {
+      "title": "中美俄元首会晤不会成为另一个雅尔塔会议",
+      "fetched_at": "2026-11-19T04:54:35.221000+00:00"
+    },
+    "f90ce2f34b87bedc": {
+      "title": "习近平与高市早苗简短会面，中日关系无解冻迹象",
+      "fetched_at": "2026-11-19T04:54:35.850275+00:00"
+    },
+    "6b9887e75da3bba1": {
+      "title": "特朗普抵达深圳：展示友好关系，无视间谍丑闻",
+      "fetched_at": "2026-11-19T04:54:36.468673+00:00"
+    },
+    "c874aa330e482cd5": {
+      "title": "APE峰会期间，深圳变“空城”",
+      "fetched_at": "2026-11-19T04:54:37.091277+00:00"
+    },
+    "8cc647308ee4d600": {
+      "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
+      "fetched_at": "2026-11-19T04:54:37.722016+00:00"
+    },
+    "352c1858ca0d5323": {
+      "title": "习近平罕见前往机场迎接特朗普",
+      "fetched_at": "2026-11-19T04:54:38.426808+00:00"
+    },
+    "0a353482de64587e": {
+      "title": "New Historical Guest-Star Candidates from Reassessed Chinese Records",
+      "fetched_at": "2026-11-19T04:54:40.572809+00:00"
+    },
+    "fdbd53880e15d234": {
+      "title": "Historical sociology of neural network research (1991)",
+      "fetched_at": "2026-11-19T04:54:41.188410+00:00"
+    },
+    "0b3fe47c35cf6442": {
+      "title": "Show HN: Distributed Algorithms of Ancient Greece",
+      "fetched_at": "2026-11-19T04:54:41.809815+00:00"
+    },
+    "aea52f8d271a72c3": {
+      "title": "The end of feature discovery as we know it",
+      "fetched_at": "2026-11-19T04:54:42.432028+00:00"
+    },
+    "23b969a9bb4107d4": {
+      "title": "Attempts to improve skill discovery in Claude Code",
+      "fetched_at": "2026-11-19T04:54:43.052542+00:00"
+    },
+    "71488e726c40b854": {
+      "title": "Gravity can reconnect like the sun's magnetic field, a fresh look at Einstein's equations reveals",
+      "fetched_at": "2026-11-19T04:54:43.690312+00:00"
+    },
+    "0f49c46a068a7aa0": {
+      "title": "ZWO Seestar S30 Plus review",
+      "fetched_at": "2026-11-19T04:54:44.332854+00:00"
     }
   },
-  "last_updated": "2026-11-18T23:40:55.074701+00:00"
+  "last_updated": "2026-11-19T04:54:44.435562+00:00"
 }
