@@ -1,73 +1,5 @@
 {
   "articles": {
-    "5393806fc57f2bd7": {
-      "title": "I reviewed the Apple HomeView, ask me anything",
-      "fetched_at": "2026-11-12T14:10:22.336515+00:00"
-    },
-    "be33dce35cb38895": {
-      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-      "fetched_at": "2026-11-12T14:10:22.972218+00:00"
-    },
-    "29f5ea7ce76ccd34": {
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "fetched_at": "2026-11-12T14:10:23.597137+00:00"
-    },
-    "a23b47a8c8569343": {
-      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
-      "fetched_at": "2026-11-12T14:10:24.222974+00:00"
-    },
-    "2930de4d640dccea": {
-      "title": "Mac 选购指南 2026 冬季版",
-      "fetched_at": "2026-11-12T14:10:24.875610+00:00"
-    },
-    "39c2bd759817a7ad": {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "fetched_at": "2026-11-12T14:10:25.496292+00:00"
-    },
-    "98701d3654dd006a": {
-      "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
-      "fetched_at": "2026-11-12T14:10:26.141322+00:00"
-    },
-    "07f5f908ce3ae1ac": {
-      "title": "社区速递 165 | 透明工牌与派友十月购物清单",
-      "fetched_at": "2026-11-12T14:10:26.761037+00:00"
-    },
-    "52442fedb7a7aad3": {
-      "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
-      "fetched_at": "2026-11-12T14:10:27.384596+00:00"
-    },
-    "857f8edb37da1bcd": {
-      "title": "黃仁勳疑涉第二宗婚外情，Nvidia董事會傳擬撤換執行長",
-      "fetched_at": "2026-11-12T14:10:29.801600+00:00"
-    },
-    "c5bb7759bb1e7a23": {
-      "title": "黃仁勳婚外情：黃樂據稱身在北京，台灣廢止其入境許可證",
-      "fetched_at": "2026-11-12T14:10:30.431390+00:00"
-    },
-    "cc9b856566f75cfa": {
-      "title": "「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？",
-      "fetched_at": "2026-11-12T14:10:31.148432+00:00"
-    },
-    "c5f140911de00c15": {
-      "title": "英伟达董事会召开会议，讨论黄仁勋去留",
-      "fetched_at": "2026-11-12T14:10:31.764367+00:00"
-    },
-    "b7a936201eedada0": {
-      "title": "黄仁勋令皮夹克爱好者蒙羞",
-      "fetched_at": "2026-11-12T14:10:32.390764+00:00"
-    },
-    "febcf78a2d149c57": {
-      "title": "黄仁勋事件折射中美外交背后的激烈情报战",
-      "fetched_at": "2026-11-12T14:10:33.036999+00:00"
-    },
-    "2844d9ce51b31772": {
-      "title": "'Slave payments' and 'expensive and exclusive shoe' discovered on 17th-century Danish ship that sank after deadly mutiny",
-      "fetched_at": "2026-11-12T14:10:34.710895+00:00"
-    },
-    "b3a3693ba8c8ba9c": {
-      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
-      "fetched_at": "2026-11-12T14:10:35.342264+00:00"
-    },
     "7831ce620c9fc049": {
       "title": "Show HN: Bugsy – AI automation which runs my company",
       "fetched_at": "2026-11-12T22:56:42.051131+00:00"
@@ -2835,7 +2767,127 @@
     "b8218f68d223cc41": {
       "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
       "fetched_at": "2026-11-20T05:53:56.808058+00:00"
+    },
+    "44fe3e13c3c7dccc": {
+      "title": "Show HN: Agent Guard – limit what an AI agent can do when it gets tricked",
+      "fetched_at": "2026-11-20T14:32:50.182946+00:00"
+    },
+    "7bfdde7ae8525b3a": {
+      "title": "Show HN: TheGeoPot – AI scanner for minerals, coins, plants and crops",
+      "fetched_at": "2026-11-20T14:32:50.819267+00:00"
+    },
+    "d2d34eb43a7345d8": {
+      "title": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "fetched_at": "2026-11-20T14:32:51.438202+00:00"
+    },
+    "4f660f237e722d46": {
+      "title": "Cursor considering phasing out Chinese AI models",
+      "fetched_at": "2026-11-20T14:32:52.076649+00:00"
+    },
+    "5e1a859229077364": {
+      "title": "US Commerce approved sales of more than 879,000 AI chips to Chinese companies",
+      "fetched_at": "2026-11-20T14:32:52.707572+00:00"
+    },
+    "721397b4376f6414": {
+      "title": "AI Gateway: Manage your company's AI from one place",
+      "fetched_at": "2026-11-20T14:32:53.339483+00:00"
+    },
+    "93be5b6b9f7c22bf": {
+      "title": "The week everything fell apart",
+      "fetched_at": "2026-11-20T14:32:53.959223+00:00"
+    },
+    "9f7fbf17c09ba837": {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "fetched_at": "2026-11-20T14:32:54.575981+00:00"
+    },
+    "270e3c186b90fb69": {
+      "title": "A Man and His Muse AI Agent Sue Meta",
+      "fetched_at": "2026-11-20T14:32:55.189271+00:00"
+    },
+    "da1b6954b72bf0e9": {
+      "title": "Be Kind to AI (?)",
+      "fetched_at": "2026-11-20T14:32:55.814423+00:00"
+    },
+    "c50012b7b89d573b": {
+      "title": "AI Search Analytics Confirm Higher Ed's LLM Winners Are Large Publics/Nonprofits",
+      "fetched_at": "2026-11-20T14:32:56.476117+00:00"
+    },
+    "31da74482ac98173": {
+      "title": "SoduWork – AI agents must show evidence before a task passes",
+      "fetched_at": "2026-11-20T14:32:57.094094+00:00"
+    },
+    "095c2f2e23a94567": {
+      "title": "Jonathan Swift vs. AI",
+      "fetched_at": "2026-11-20T14:32:57.749438+00:00"
+    },
+    "54da4c7fd0e5bdfc": {
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "fetched_at": "2026-11-20T14:32:58.366178+00:00"
+    },
+    "80d76826a523996e": {
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "fetched_at": "2026-11-20T14:32:58.992555+00:00"
+    },
+    "4077a25c624310ed": {
+      "title": "AI Token Fraud, Disposable Software, Lean Luddites – Food for Agile Thought 571",
+      "fetched_at": "2026-11-20T14:32:59.643766+00:00"
+    },
+    "148190e176d5d57e": {
+      "title": "Canary Token Test Exposes AI Provider Breaches",
+      "fetched_at": "2026-11-20T14:33:00.277194+00:00"
+    },
+    "c5d9e78f25fe8f00": {
+      "title": "The Lipogram AI Model Test",
+      "fetched_at": "2026-11-20T14:33:00.907193+00:00"
+    },
+    "5ec258d17cd7ad0c": {
+      "title": "OutcomeOps: Context Engineering for AI-Assisted Development OSS GitHub Repo",
+      "fetched_at": "2026-11-20T14:33:01.528263+00:00"
+    },
+    "e37eed22a392c8da": {
+      "title": "Apple Working on Own AI Agent to Rival OAI and Ant",
+      "fetched_at": "2026-11-20T14:33:02.162828+00:00"
+    },
+    "decb10ad67f537ef": {
+      "title": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
+      "fetched_at": "2026-11-20T14:33:04.906321+00:00"
+    },
+    "3567004e38608917": {
+      "title": "緬甸種族滅絕裁決影響深遠的歷史意義",
+      "fetched_at": "2026-11-20T14:33:05.567463+00:00"
+    },
+    "0963cc6590c381eb": {
+      "title": "Anthropic 破紀錄IPO能否阻止AI泡沫破裂？",
+      "fetched_at": "2026-11-20T14:33:06.196233+00:00"
+    },
+    "80453fc9392a32a2": {
+      "title": "中美能源大戰如何影響你的帳單？",
+      "fetched_at": "2026-11-20T14:33:06.818242+00:00"
+    },
+    "08143aa531dccee1": {
+      "title": "Ghostly 'sand body' double burial unearthed at Sutton Hoo",
+      "fetched_at": "2026-11-20T14:33:11.135750+00:00"
+    },
+    "446e6d613600dbfa": {
+      "title": "Quantum entanglement could thwart hackers and scammers, physicists reveal",
+      "fetched_at": "2026-11-20T14:33:11.776522+00:00"
+    },
+    "dd4691985d8f9f81": {
+      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+      "fetched_at": "2026-11-20T14:33:12.406606+00:00"
+    },
+    "514381ec28347c61": {
+      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+      "fetched_at": "2026-11-20T14:33:13.025648+00:00"
+    },
+    "0a861731d8d48d94": {
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "fetched_at": "2026-11-20T14:33:13.650735+00:00"
+    },
+    "4d0fff21127c724f": {
+      "title": "A 3-million-year-old child just made human evolution far more complicated",
+      "fetched_at": "2026-11-20T14:33:14.287711+00:00"
     }
   },
-  "last_updated": "2026-11-20T05:53:56.857726+00:00"
+  "last_updated": "2026-11-20T14:33:14.395459+00:00"
 }
