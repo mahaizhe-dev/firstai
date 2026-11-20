@@ -1,145 +1,5 @@
 {
   "articles": {
-    "7831ce620c9fc049": {
-      "title": "Show HN: Bugsy – AI automation which runs my company",
-      "fetched_at": "2026-11-12T22:56:42.051131+00:00"
-    },
-    "f4ef99a4f3ab3b49": {
-      "title": "AI Can Help You Appeal Health Insurance Denials",
-      "fetched_at": "2026-11-12T22:56:42.610599+00:00"
-    },
-    "36df7086af7a57c0": {
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "fetched_at": "2026-11-12T22:56:43.171968+00:00"
-    },
-    "2261ce91fd349e93": {
-      "title": "IBM details progress toward its 2029 fault-tolerant Quantum Starling machine",
-      "fetched_at": "2026-11-12T22:56:43.733286+00:00"
-    },
-    "5264c004a0003256": {
-      "title": "Muse can now place calls to U.S. businesses — if you pay",
-      "fetched_at": "2026-11-12T22:56:44.292995+00:00"
-    },
-    "f4abbc698d247249": {
-      "title": "What end-to-end AI systems mean for the future of automated driving",
-      "fetched_at": "2026-11-12T22:56:44.850865+00:00"
-    },
-    "cf57a6d283bfe1cb": {
-      "title": "Inception.ai winding down their Mercury API service",
-      "fetched_at": "2026-11-12T22:56:45.409773+00:00"
-    },
-    "74e3da5bbc2e88df": {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "fetched_at": "2026-11-12T22:56:45.971957+00:00"
-    },
-    "18dbc0e02dc7312c": {
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "fetched_at": "2026-11-12T22:56:46.532285+00:00"
-    },
-    "b1c60e0108a56642": {
-      "title": "Nvidia Faced Pressure to Boost Its AI Backstop Before Huang Exit",
-      "fetched_at": "2026-11-12T22:56:47.092911+00:00"
-    },
-    "11cbe8c70907ef47": {
-      "title": "Top Chinese AI labs built their newest models on Nvidia's Blackwell chips",
-      "fetched_at": "2026-11-12T22:56:47.653416+00:00"
-    },
-    "ec3e74bd8ec7ff37": {
-      "title": "Learning Continually from Inference Compute",
-      "fetched_at": "2026-11-12T22:56:48.223495+00:00"
-    },
-    "cade306e10660dad": {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "fetched_at": "2026-11-12T22:56:48.223610+00:00"
-    },
-    "5f179580f93edeff": {
-      "title": "Show HN: Buildout, Harmonies-based game to build AI Lab",
-      "fetched_at": "2026-11-12T22:56:48.788327+00:00"
-    },
-    "caffcbb9063f0f59": {
-      "title": "Can AI chair a multilateral negotiation?",
-      "fetched_at": "2026-11-12T22:56:49.345916+00:00"
-    },
-    "f5c7d55d8ef1e763": {
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "fetched_at": "2026-11-12T22:56:49.905626+00:00"
-    },
-    "63d1ce650e3e445a": {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "fetched_at": "2026-11-12T22:56:50.468221+00:00"
-    },
-    "548123904c91fafe": {
-      "title": "Dougan Leak Exposes Concerted Effort to Infect AI",
-      "fetched_at": "2026-11-12T22:56:51.026119+00:00"
-    },
-    "d228be2ed8f40240": {
-      "title": "Ask HN: Has AI coding changed who builds your internal tools?",
-      "fetched_at": "2026-11-12T22:56:51.591033+00:00"
-    },
-    "38fdb643688f7ad4": {
-      "title": "Ask HN: What % of HN is now AI-generated?",
-      "fetched_at": "2026-11-12T22:56:52.175104+00:00"
-    },
-    "6e497a0cd33cc6c2": {
-      "title": "黄仁勋辞任英伟达CEO，公司首席财务官克雷斯临时接任",
-      "fetched_at": "2026-11-12T22:56:54.890212+00:00"
-    },
-    "5dcf9f4e57b5db9e": {
-      "title": "從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？",
-      "fetched_at": "2026-11-12T22:56:55.443494+00:00"
-    },
-    "b17dd5ec3b787aa5": {
-      "title": "黃仁勳辭職：暫時接掌Nvidia的克雷斯是誰？還有哪些正式接班人選？",
-      "fetched_at": "2026-11-12T22:56:56.020974+00:00"
-    },
-    "83c7c1e226dd2f1b": {
-      "title": "Nvidia董事會宣佈黃仁勳辭任執行長",
-      "fetched_at": "2026-11-12T22:56:56.592443+00:00"
-    },
-    "1b11f3366c5ffde5": {
-      "title": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
-      "fetched_at": "2026-11-12T22:56:57.150562+00:00"
-    },
-    "4c2244456ad3f510": {
-      "title": "'Like writing and directing your own movie': Live Science readers share whether they'd learn to lucid dream if they could",
-      "fetched_at": "2026-11-12T22:56:59.340328+00:00"
-    },
-    "bae517a6aae15374": {
-      "title": "Chinese scientists cool atoms to near absolute zero in record-breaking experiment",
-      "fetched_at": "2026-11-12T22:56:59.986295+00:00"
-    },
-    "a8cebcf4569ebeb8": {
-      "title": "Fired Clay Fragments Offer Hints to Development of Near Eastern Pottery",
-      "fetched_at": "2026-11-12T22:57:00.566868+00:00"
-    },
-    "ba004c1c4af45910": {
-      "title": "A widely used antibiotic for acne and infections is linked to risk of pregnancy loss, new study finds",
-      "fetched_at": "2026-11-12T22:57:01.124577+00:00"
-    },
-    "8ed03df328088486": {
-      "title": "125,000-year-old poisoned stone points discovered on shore of ancient lake in Saudi Arabia",
-      "fetched_at": "2026-11-12T22:57:01.681448+00:00"
-    },
-    "793e567d70739760": {
-      "title": "Remains of Two Infant Girls Found in Peruvian Nazca Cemetery",
-      "fetched_at": "2026-11-12T22:57:02.269055+00:00"
-    },
-    "85259fd356a101a6": {
-      "title": "Monumental Mongolian Tomb Excavated",
-      "fetched_at": "2026-11-12T22:57:02.868669+00:00"
-    },
-    "9f6702a27c6bbd8d": {
-      "title": "When a battery dies, you replace it — how jumpstarting cells with fresh mitochondria could revolutionize medicine",
-      "fetched_at": "2026-11-12T22:57:03.437429+00:00"
-    },
-    "2a678c8351e1eca0": {
-      "title": "Euclid space telescope unveils first major data release, including map of 900 million galaxies",
-      "fetched_at": "2026-11-12T22:57:03.993488+00:00"
-    },
-    "fcaa28c8b759dfbd": {
-      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
-      "fetched_at": "2026-11-12T22:57:04.554974+00:00"
-    },
     "d1d31f5899ee9db8": {
       "title": "AI Security Wiki",
       "fetched_at": "2026-11-13T03:57:49.557366+00:00"
@@ -2887,7 +2747,143 @@
     "4d0fff21127c724f": {
       "title": "A 3-million-year-old child just made human evolution far more complicated",
       "fetched_at": "2026-11-20T14:33:14.287711+00:00"
+    },
+    "a8eeb6e34a750058": {
+      "title": "Tor Books Removes Book Cover Generated with AI",
+      "fetched_at": "2026-11-20T23:28:11.906597+00:00"
+    },
+    "1ddcdca786062132": {
+      "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
+      "fetched_at": "2026-11-20T23:28:12.517445+00:00"
+    },
+    "2dcfe0ce82ce7b6b": {
+      "title": "AI may have solved the most important problem in mathematics",
+      "fetched_at": "2026-11-20T23:28:13.162314+00:00"
+    },
+    "d8124921218d5a92": {
+      "title": "Libreboot Abandons Anti-AI Policy After One Month",
+      "fetched_at": "2026-11-20T23:28:13.784792+00:00"
+    },
+    "5e5fac2f4d98b910": {
+      "title": "Written Agent Authorizations: 25 Instruments, Dissected for AI-Agent Design",
+      "fetched_at": "2026-11-20T23:28:14.415240+00:00"
+    },
+    "16c0b3d3f8bfa836": {
+      "title": "Antseed – brings people's computers together to serve AI",
+      "fetched_at": "2026-11-20T23:28:15.037264+00:00"
+    },
+    "64ff5a485c43ec1f": {
+      "title": "Jsonbit – Reduce token usage when AI reads logs",
+      "fetched_at": "2026-11-20T23:28:15.644730+00:00"
+    },
+    "e5ad4855a2bcd089": {
+      "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+      "fetched_at": "2026-11-20T23:28:16.270877+00:00"
+    },
+    "8ad91440ed1f6e70": {
+      "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+      "fetched_at": "2026-11-20T23:28:16.932533+00:00"
+    },
+    "4db7068df58603b7": {
+      "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+      "fetched_at": "2026-11-20T23:28:17.545385+00:00"
+    },
+    "03ad132b979f3fe8": {
+      "title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
+      "fetched_at": "2026-11-20T23:28:18.161522+00:00"
+    },
+    "d19443e81721c680": {
+      "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+      "fetched_at": "2026-11-20T23:28:18.778604+00:00"
+    },
+    "76dd2c68380fe044": {
+      "title": "AI Trade Fears, Anthropic IPO Aftermath Prompts Tech Selloff",
+      "fetched_at": "2026-11-20T23:28:19.398530+00:00"
+    },
+    "bf4ba5463d7c0b81": {
+      "title": "AI is building me a web browser",
+      "fetched_at": "2026-11-20T23:28:20.042089+00:00"
+    },
+    "09a3a0332c288f1f": {
+      "title": "LegisComply – Mask sensitive details in AI prompts",
+      "fetched_at": "2026-11-20T23:28:20.684652+00:00"
+    },
+    "d48ca89c69ee7374": {
+      "title": "Second Brain and Agent Maintenance Thoughts on AI Usage?",
+      "fetched_at": "2026-11-20T23:28:21.295087+00:00"
+    },
+    "5a18439fb8122d3b": {
+      "title": "Who Should Make Medical-Necessity Decisions: AI, Insurers, or Physicians?",
+      "fetched_at": "2026-11-20T23:28:21.910274+00:00"
+    },
+    "85432927878795b8": {
+      "title": "LLM Token-Limit Demos?",
+      "fetched_at": "2026-11-20T23:28:22.524321+00:00"
+    },
+    "a42772938db88dfb": {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "fetched_at": "2026-11-20T23:28:23.141880+00:00"
+    },
+    "4cf3ff12edb4a210": {
+      "title": "Monkeys, Libraries, and AI",
+      "fetched_at": "2026-11-20T23:28:23.755483+00:00"
+    },
+    "4845ee89cab24fd1": {
+      "title": "中美俄「三巨頭」會晤的台前幕後",
+      "fetched_at": "2026-11-20T23:28:26.473423+00:00"
+    },
+    "d205e4ddcc1e3307": {
+      "title": "台灣「九合一」選舉：有哪些看點？藍綠勝負如何影響2028大選佈局？",
+      "fetched_at": "2026-11-20T23:28:27.094699+00:00"
+    },
+    "cc9b856566f75cfa": {
+      "title": "「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？",
+      "fetched_at": "2026-11-20T23:28:27.732752+00:00"
+    },
+    "6bfac9bf81bc00e8": {
+      "title": "Brains of people with PTSD have unique epigenetic marks, study finds",
+      "fetched_at": "2026-11-20T23:28:38.813439+00:00"
+    },
+    "389666e727c3883e": {
+      "title": "Waterfall of fog spills over Mallorca cliffs in stunning winning image for Weather Photographer of the Year 2026",
+      "fetched_at": "2026-11-20T23:28:39.492635+00:00"
+    },
+    "8e8c3df8083f857d": {
+      "title": "Possible Ancient Tavern Investigated Near Baghdad",
+      "fetched_at": "2026-11-20T23:28:40.122626+00:00"
+    },
+    "1183f3f72e495664": {
+      "title": "Students Recover Roman Military Artifacts in Northern England",
+      "fetched_at": "2026-11-20T23:28:40.752823+00:00"
+    },
+    "afc1f964421f658d": {
+      "title": "Protein Analysis Used to Test Ideas About Children’s Grave Goods in Estonia",
+      "fetched_at": "2026-11-20T23:28:41.381838+00:00"
+    },
+    "380a0e4f3b5cf37b": {
+      "title": "Well-Preserved Murals Uncovered at Roman Residence in Spain",
+      "fetched_at": "2026-11-20T23:28:42.005783+00:00"
+    },
+    "7e0bb238156ab65e": {
+      "title": "James Webb telescope spots giant star swallowing its companion in first-ever observations of a stellar merger",
+      "fetched_at": "2026-11-20T23:28:42.624300+00:00"
+    },
+    "76dafccb9193a2b6": {
+      "title": "An Anthropic mathematician claims to have proven the Riemann hypothesis. We have to rethink how we reward expertise.",
+      "fetched_at": "2026-11-20T23:28:43.242580+00:00"
+    },
+    "6090310cfb030783": {
+      "title": "What if space and time don't exist? Physicists are chasing hints that our reality emerges from something deeper",
+      "fetched_at": "2026-11-20T23:28:43.242665+00:00"
+    },
+    "2844d9ce51b31772": {
+      "title": "'Slave payments' and 'expensive and exclusive shoe' discovered on 17th-century Danish ship that sank after deadly mutiny",
+      "fetched_at": "2026-11-20T23:28:43.879865+00:00"
+    },
+    "b3a3693ba8c8ba9c": {
+      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+      "fetched_at": "2026-11-20T23:28:44.521036+00:00"
     }
   },
-  "last_updated": "2026-11-20T14:33:14.395459+00:00"
+  "last_updated": "2026-11-20T23:28:44.569070+00:00"
 }
