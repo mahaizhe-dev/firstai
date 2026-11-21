@@ -1,133 +1,5 @@
 {
   "articles": {
-    "d1d31f5899ee9db8": {
-      "title": "AI Security Wiki",
-      "fetched_at": "2026-11-13T03:57:49.557366+00:00"
-    },
-    "bf023a36fe56da01": {
-      "title": "Loose Ends: A check for unused code AI wrote or forgot to remove",
-      "fetched_at": "2026-11-13T03:57:50.145374+00:00"
-    },
-    "74c37257438f8315": {
-      "title": "Show HN: Zipzi – Open-source Live2D Editor alternative with AI-assisted editing",
-      "fetched_at": "2026-11-13T03:57:50.717578+00:00"
-    },
-    "eafc84335fabd282": {
-      "title": "Doubling LLM token rates in ComfyUI",
-      "fetched_at": "2026-11-13T03:57:51.285486+00:00"
-    },
-    "7f3d3e4c3b755f07": {
-      "title": "Notion AI chat transcripts exposed in Fireworks AI breach",
-      "fetched_at": "2026-11-13T03:57:51.982409+00:00"
-    },
-    "1093f3979394a19c": {
-      "title": "Show HN: Grow any hobby (skills for humans not AI)",
-      "fetched_at": "2026-11-13T03:57:52.566990+00:00"
-    },
-    "e3560ddedf8dd394": {
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "fetched_at": "2026-11-13T03:57:53.137837+00:00"
-    },
-    "e3c26f25ffa800ee": {
-      "title": "Agent harness for learning difficult things",
-      "fetched_at": "2026-11-13T03:57:53.728838+00:00"
-    },
-    "bf82eb7de068e6b8": {
-      "title": "I Love AI",
-      "fetched_at": "2026-11-13T03:57:54.293410+00:00"
-    },
-    "ed73d22d1e348854": {
-      "title": "Turning Teacher Expertise into AI-Generated Educational Simulations",
-      "fetched_at": "2026-11-13T03:57:54.859210+00:00"
-    },
-    "3b3b66bbe92d8c3f": {
-      "title": "Schelling Atlas: AI agents know where to find each other on the web",
-      "fetched_at": "2026-11-13T03:57:55.442027+00:00"
-    },
-    "b4b3fe2a0b8b11fb": {
-      "title": "Show HN: AgentLeak – open-source privacy testing for multi-agent LLM systems",
-      "fetched_at": "2026-11-13T03:57:56.046440+00:00"
-    },
-    "dfebb58bb3c4a5b0": {
-      "title": "Show HN: AI Math Kit – Open Problems. Explore Honestly",
-      "fetched_at": "2026-11-13T03:57:56.634566+00:00"
-    },
-    "55e2f83cfd866a0b": {
-      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
-      "fetched_at": "2026-11-13T03:57:57.236659+00:00"
-    },
-    "40b8b23f35793b7d": {
-      "title": "Daybranch – A visual workspace for organizing AI-assisted work",
-      "fetched_at": "2026-11-13T03:57:57.794536+00:00"
-    },
-    "c11210724dcc5c8d": {
-      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-      "fetched_at": "2026-11-13T03:57:58.358320+00:00"
-    },
-    "639472e0670c73ef": {
-      "title": "The Nvidia AI GPU Black Market (2025)",
-      "fetched_at": "2026-11-13T03:57:58.925795+00:00"
-    },
-    "aaceb698959f2282": {
-      "title": "AI Bubble: 'Circular financing is over' – Ed Zitron [video]",
-      "fetched_at": "2026-11-13T03:57:59.522305+00:00"
-    },
-    "87dd3d8ef3e646dc": {
-      "title": "Show HN: SayStreet – Voice shopping for blind users; the LLM never touches money",
-      "fetched_at": "2026-11-13T03:58:00.086999+00:00"
-    },
-    "8c6d731c58198aae": {
-      "title": "Adaptive Routing: Learning which model to trust",
-      "fetched_at": "2026-11-13T03:58:00.657825+00:00"
-    },
-    "bfbb2671c7acd0db": {
-      "title": "微軟系統全球癱瘓：Outlook、Teams、Copilot受影響",
-      "fetched_at": "2026-11-13T03:58:03.566925+00:00"
-    },
-    "6adf21cf86f1ae56": {
-      "title": "特朗普曾敦促黄仁勋为保住英伟达CEO职位而战",
-      "fetched_at": "2026-11-13T03:58:04.125725+00:00"
-    },
-    "b4a4ce011e7967f9": {
-      "title": "谁能接替黄仁勋？英伟达可以考虑这些人",
-      "fetched_at": "2026-11-13T03:58:04.687753+00:00"
-    },
-    "6f1c3df80f92fcc4": {
-      "title": "关于英伟达临时CEO克雷斯，我们知道些什么",
-      "fetched_at": "2026-11-13T03:58:05.269351+00:00"
-    },
-    "fee4695c74db9f0c": {
-      "title": "黄仁勋下台会成为人工智能泡沫破裂的开端吗",
-      "fetched_at": "2026-11-13T03:58:05.829669+00:00"
-    },
-    "91581adbb80935c2": {
-      "title": "新加坡政府：在调查黄乐公司时美国几乎未予协助",
-      "fetched_at": "2026-11-13T03:58:06.488009+00:00"
-    },
-    "b9567cc18794b53e": {
-      "title": "“美人计”：中国间谍机构如何利用亲密关系套取情报",
-      "fetched_at": "2026-11-13T03:58:07.049583+00:00"
-    },
-    "833607d41c97d9d2": {
-      "title": "Crows can make decisions twice as fast as humans, scientists discover",
-      "fetched_at": "2026-11-13T03:58:09.150572+00:00"
-    },
-    "de55100789449e01": {
-      "title": "AI-powered bionic eye breakthrough could help the blind see again",
-      "fetched_at": "2026-11-13T03:58:09.720236+00:00"
-    },
-    "067f4fdf05f372b7": {
-      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
-      "fetched_at": "2026-11-13T03:58:10.299357+00:00"
-    },
-    "62ae3631f440138b": {
-      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-      "fetched_at": "2026-11-13T03:58:10.875150+00:00"
-    },
-    "3e9890ddcc35b288": {
-      "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
-      "fetched_at": "2026-11-13T03:58:11.438847+00:00"
-    },
     "5fcc143ed3980417": {
       "title": "How to Build Reliable Agentic AI Systems for Vertical AI Companies",
       "fetched_at": "2026-11-13T13:34:41.686911+00:00"
@@ -2883,7 +2755,123 @@
     "b3a3693ba8c8ba9c": {
       "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
       "fetched_at": "2026-11-20T23:28:44.521036+00:00"
+    },
+    "69e56e292e829b01": {
+      "title": "Show HN: Bootstrapping a compiler with AI run on to ARM64, WASM, SPIR-V",
+      "fetched_at": "2026-11-21T04:39:57.414847+00:00"
+    },
+    "502a206514c95660": {
+      "title": "Legit use cases for uncensored AI models",
+      "fetched_at": "2026-11-21T04:39:58.033252+00:00"
+    },
+    "b71fc75f74bd7899": {
+      "title": "When an LLM Refuses to Answer",
+      "fetched_at": "2026-11-21T04:39:58.649354+00:00"
+    },
+    "874105ca93cf0729": {
+      "title": "The Dangers of AI 'Handoverism'",
+      "fetched_at": "2026-11-21T04:39:59.257760+00:00"
+    },
+    "ec3069cc2bb4d346": {
+      "title": "The Most Important Charts in AI Are Wrong",
+      "fetched_at": "2026-11-21T04:39:59.875926+00:00"
+    },
+    "754259ad0c5c40b4": {
+      "title": "Images of Canada's most wanted are AI-generated",
+      "fetched_at": "2026-11-21T04:40:00.518766+00:00"
+    },
+    "5f7b2e78ec30315b": {
+      "title": "Experts warn: Everyone in AI is susceptible to a honey-trap scheme",
+      "fetched_at": "2026-11-21T04:40:01.164551+00:00"
+    },
+    "3ed1c8a6927d907a": {
+      "title": "Show HN: Find and serve fast LLM config for your GPU",
+      "fetched_at": "2026-11-21T04:40:01.781808+00:00"
+    },
+    "9ed753675e59b6dd": {
+      "title": "AI R&D-relevant model capabilities are improving rapidly",
+      "fetched_at": "2026-11-21T04:40:02.406246+00:00"
+    },
+    "fd450f602abd4cfe": {
+      "title": "Things I learned coding with AI for a year",
+      "fetched_at": "2026-11-21T04:40:03.038351+00:00"
+    },
+    "199d1301654ed9c0": {
+      "title": "Detecting AI Agents in Next.js with Vouched KYA",
+      "fetched_at": "2026-11-21T04:40:03.655226+00:00"
+    },
+    "d43080b0a245b5fe": {
+      "title": "House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models",
+      "fetched_at": "2026-11-21T04:40:04.344096+00:00"
+    },
+    "89155035594fb8be": {
+      "title": "A push for a treaty to not allow AI total control over nukes",
+      "fetched_at": "2026-11-21T04:40:04.977743+00:00"
+    },
+    "692370ef793314de": {
+      "title": "If AI found better drugs for every disease, what would it cost to prove it?",
+      "fetched_at": "2026-11-21T04:40:05.585865+00:00"
+    },
+    "be2414055cbdf0f4": {
+      "title": "Is Ssense Pivoting to AI Slop?",
+      "fetched_at": "2026-11-21T04:40:06.191797+00:00"
+    },
+    "d50dabffbadd8cd5": {
+      "title": "AI models change their answers when they are monitored",
+      "fetched_at": "2026-11-21T04:40:06.829062+00:00"
+    },
+    "50ef25ad821b822e": {
+      "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
+      "fetched_at": "2026-11-21T04:40:07.444531+00:00"
+    },
+    "00153aa9d789e05f": {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "fetched_at": "2026-11-21T04:40:08.151842+00:00"
+    },
+    "a76a178cd990300b": {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "fetched_at": "2026-11-21T04:40:08.775993+00:00"
+    },
+    "f3beeba1369a2c1a": {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "fetched_at": "2026-11-21T04:40:09.451941+00:00"
+    },
+    "5dcf9f4e57b5db9e": {
+      "title": "從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？",
+      "fetched_at": "2026-11-21T04:40:11.218417+00:00"
+    },
+    "fcc9a168d7c8584e": {
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "fetched_at": "2026-11-21T04:40:16.788585+00:00"
+    },
+    "527c7f64298292a7": {
+      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "fetched_at": "2026-11-21T04:40:17.400285+00:00"
+    },
+    "4c2244456ad3f510": {
+      "title": "'Like writing and directing your own movie': Live Science readers share whether they'd learn to lucid dream if they could",
+      "fetched_at": "2026-11-21T04:40:18.022784+00:00"
+    },
+    "bae517a6aae15374": {
+      "title": "Chinese scientists cool atoms to near absolute zero in record-breaking experiment",
+      "fetched_at": "2026-11-21T04:40:18.650850+00:00"
+    },
+    "ba004c1c4af45910": {
+      "title": "A widely used antibiotic for acne and infections is linked to risk of pregnancy loss, new study finds",
+      "fetched_at": "2026-11-21T04:40:19.276678+00:00"
+    },
+    "8ed03df328088486": {
+      "title": "125,000-year-old poisoned stone points discovered on shore of ancient lake in Saudi Arabia",
+      "fetched_at": "2026-11-21T04:40:19.909084+00:00"
+    },
+    "9f6702a27c6bbd8d": {
+      "title": "When a battery dies, you replace it — how jumpstarting cells with fresh mitochondria could revolutionize medicine",
+      "fetched_at": "2026-11-21T04:40:20.536722+00:00"
+    },
+    "2a678c8351e1eca0": {
+      "title": "Euclid space telescope unveils first major data release, including map of 900 million galaxies",
+      "fetched_at": "2026-11-21T04:40:21.162456+00:00"
     }
   },
-  "last_updated": "2026-11-20T23:28:44.569070+00:00"
+  "last_updated": "2026-11-21T04:40:21.209542+00:00"
 }
