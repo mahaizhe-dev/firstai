@@ -1,49 +1,5 @@
 {
   "articles": {
-    "d8ea112517f499ad": {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "fetched_at": "2026-11-14T21:46:25.214814+00:00"
-    },
-    "8feba5fd0197673e": {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "fetched_at": "2026-11-14T21:46:25.820527+00:00"
-    },
-    "aab2f0c4a0aaff51": {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "fetched_at": "2026-11-14T21:46:26.441088+00:00"
-    },
-    "59a2c85acffbdff6": {
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "fetched_at": "2026-11-14T21:46:27.104918+00:00"
-    },
-    "916c816342af209f": {
-      "title": "「短睡眠基因」：為何有人只需睡四小時？",
-      "fetched_at": "2026-11-14T21:46:29.936945+00:00"
-    },
-    "9405245705a70f62": {
-      "title": "黃之鋒涉「勾結外國勢力」被重判10年 出獄或已40歲",
-      "fetched_at": "2026-11-14T21:46:30.561253+00:00"
-    },
-    "75da3f47c1c7d3e1": {
-      "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
-      "fetched_at": "2026-11-14T21:46:31.195441+00:00"
-    },
-    "7d568b4f89993033": {
-      "title": "Scientists find a simple daily routine linked to less pain and depression",
-      "fetched_at": "2026-11-14T21:46:33.425778+00:00"
-    },
-    "e10d86de152e5c36": {
-      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-      "fetched_at": "2026-11-14T21:46:34.040308+00:00"
-    },
-    "f4e1905c7e6a0370": {
-      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
-      "fetched_at": "2026-11-14T21:46:34.647447+00:00"
-    },
-    "fea78e2be22015c3": {
-      "title": "1,600-year-old burial holds remains of man infected with a 'very rare' strain of leprosy in Germany",
-      "fetched_at": "2026-11-14T21:46:35.293988+00:00"
-    },
     "003233eb1f44a1de": {
       "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
       "fetched_at": "2026-11-15T03:39:11.340755+00:00"
@@ -2823,7 +2779,127 @@
     "d4ab377ec719f5d9": {
       "title": "'Godless' founder of utilitarianism had severe dental problems and was in 'excruciating pain,' CT scans of his severed head reveal",
       "fetched_at": "2026-11-22T13:44:16.960915+00:00"
+    },
+    "b3c4b29a584e8704": {
+      "title": "We haven’t seen the last of the major tech outages",
+      "fetched_at": "2026-11-22T22:55:40.030991+00:00"
+    },
+    "7d8679c210045d20": {
+      "title": "Art, AI and the Problem That Never Was",
+      "fetched_at": "2026-11-22T22:55:40.663086+00:00"
+    },
+    "cbff9311d18294f7": {
+      "title": "We trained Machine Learning agents and tested them on 50k+ bets. The result",
+      "fetched_at": "2026-11-22T22:55:41.287829+00:00"
+    },
+    "677502f9ec6aaed3": {
+      "title": "Tactical Team Changes from AI",
+      "fetched_at": "2026-11-22T22:55:41.902704+00:00"
+    },
+    "a39f96197e6de43a": {
+      "title": "GTA 6's fictional porn studio \"Booty Bang\" now has a real AI parody site",
+      "fetched_at": "2026-11-22T22:55:42.517101+00:00"
+    },
+    "f4e280ecffc61aff": {
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme",
+      "fetched_at": "2026-11-22T22:55:43.145628+00:00"
+    },
+    "e96bf5da94b9a527": {
+      "title": "Free AI app that improves framerate of videos",
+      "fetched_at": "2026-11-22T22:55:43.754067+00:00"
+    },
+    "2422a0e8bf7793b7": {
+      "title": "The MIT Processor Database brings decades of chip history into the AI era",
+      "fetched_at": "2026-11-22T22:55:44.372196+00:00"
+    },
+    "0b55731a7081190d": {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "fetched_at": "2026-11-22T22:55:44.996054+00:00"
+    },
+    "3d5a8ebe002cf08c": {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "fetched_at": "2026-11-22T22:55:45.619510+00:00"
+    },
+    "e4dc92bdbe4869a0": {
+      "title": "Many Etsy Sellers Close Up Shop over Site's New AI Policy",
+      "fetched_at": "2026-11-22T22:55:46.236659+00:00"
+    },
+    "d00fa1f12e0e5c68": {
+      "title": "A new tool from Pieter Levels lets anyone block 3,728 X accounts post AI replies",
+      "fetched_at": "2026-11-22T22:55:46.853161+00:00"
+    },
+    "a70ec8a22d315690": {
+      "title": "The Crazy AI People Are Directionally Correct",
+      "fetched_at": "2026-11-22T22:55:47.472357+00:00"
+    },
+    "3dd9af4d3e85a9a8": {
+      "title": "Free FLEY AI-Voice AI Assistant",
+      "fetched_at": "2026-11-22T22:55:48.082191+00:00"
+    },
+    "1e5138b281f58e91": {
+      "title": "AI Rebounding: Why Companies Are Rehiring the Workers They Cut",
+      "fetched_at": "2026-11-22T22:55:48.698247+00:00"
+    },
+    "d98f243838057b3b": {
+      "title": "What Happened in Fall 2026: AI and P vs. NP",
+      "fetched_at": "2026-11-22T22:55:49.332360+00:00"
+    },
+    "e95b579576523a4e": {
+      "title": "AI Privacy Cloak",
+      "fetched_at": "2026-11-22T22:55:49.941579+00:00"
+    },
+    "338f943867fe2aba": {
+      "title": "First Java AI Agent/Harness capable of mutating its own bytecode at runtime",
+      "fetched_at": "2026-11-22T22:55:50.560813+00:00"
+    },
+    "81ae642996779c5c": {
+      "title": "\"Prosaic AI alignment\": 10 years later",
+      "fetched_at": "2026-11-22T22:55:51.181284+00:00"
+    },
+    "f68df0edb5a7c196": {
+      "title": "Make your own Meta Muse / AI charm keychain",
+      "fetched_at": "2026-11-22T22:55:51.830750+00:00"
+    },
+    "5b8a9328dd68e71c": {
+      "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+      "fetched_at": "2026-11-22T22:55:57.896176+00:00"
+    },
+    "fc42dd3394b624ca": {
+      "title": "Beaver Moon 2026: When to see a full 'supermoon' rise this week, and another on Christmas Eve",
+      "fetched_at": "2026-11-22T22:55:58.516135+00:00"
+    },
+    "7ef05fd645d02f1b": {
+      "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+      "fetched_at": "2026-11-22T22:55:59.128801+00:00"
+    },
+    "f665709ea09fc1c9": {
+      "title": "A mysterious gap hints at black holes born from stars that never exploded",
+      "fetched_at": "2026-11-22T22:55:59.769607+00:00"
+    },
+    "d7a978076f722530": {
+      "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+      "fetched_at": "2026-11-22T22:56:00.390542+00:00"
+    },
+    "477f99e87f17e5d7": {
+      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+      "fetched_at": "2026-11-22T22:56:00.997979+00:00"
+    },
+    "4846dcb9f46b554d": {
+      "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
+      "fetched_at": "2026-11-22T22:56:01.620683+00:00"
+    },
+    "8cba12f76af6c212": {
+      "title": "Which animal farts the most?",
+      "fetched_at": "2026-11-22T22:56:02.232828+00:00"
+    },
+    "21355c3261f2d454": {
+      "title": "'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family",
+      "fetched_at": "2026-11-22T22:56:02.854188+00:00"
+    },
+    "2005f0f953046726": {
+      "title": "Measles is back in the United States, WHO authorities say",
+      "fetched_at": "2026-11-22T22:56:03.451259+00:00"
     }
   },
-  "last_updated": "2026-11-22T13:44:17.008067+00:00"
+  "last_updated": "2026-11-22T22:56:03.517437+00:00"
 }
