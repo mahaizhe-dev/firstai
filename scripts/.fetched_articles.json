@@ -1,245 +1,5 @@
 {
   "articles": {
-    "ca1f0ae4bc212626": {
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "fetched_at": "2026-11-14T03:55:35.368022+00:00"
-    },
-    "c61eed79a51d220f": {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "fetched_at": "2026-11-14T03:55:35.995167+00:00"
-    },
-    "a0833d0835b9d7cb": {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "fetched_at": "2026-11-14T03:55:36.622719+00:00"
-    },
-    "42d62dabe46491f3": {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "fetched_at": "2026-11-14T03:55:37.240142+00:00"
-    },
-    "a4d64382049ae16f": {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "fetched_at": "2026-11-14T03:55:37.240231+00:00"
-    },
-    "14540bbdc422e83b": {
-      "title": "What&#8217;s really at stake in the Jensen Huang saga",
-      "fetched_at": "2026-11-14T03:55:37.875503+00:00"
-    },
-    "d6b06a982f3fa9d9": {
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "fetched_at": "2026-11-14T03:55:38.493394+00:00"
-    },
-    "aee07df147f42305": {
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "fetched_at": "2026-11-14T03:55:39.193874+00:00"
-    },
-    "46caf2581d974dc8": {
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "fetched_at": "2026-11-14T03:55:39.819096+00:00"
-    },
-    "f54ac924d0248e94": {
-      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
-      "fetched_at": "2026-11-14T03:55:40.450254+00:00"
-    },
-    "4f9af804ed661ce1": {
-      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
-      "fetched_at": "2026-11-14T03:55:41.076395+00:00"
-    },
-    "3013d8573fa4054a": {
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "fetched_at": "2026-11-14T03:55:41.076470+00:00"
-    },
-    "7f27f52e7af52767": {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "fetched_at": "2026-11-14T03:55:41.699329+00:00"
-    },
-    "cfdffa8e4626d00e": {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "fetched_at": "2026-11-14T03:55:42.325155+00:00"
-    },
-    "95fcb1aee2434814": {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "fetched_at": "2026-11-14T03:55:42.950319+00:00"
-    },
-    "02e518ef2b534b6a": {
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "fetched_at": "2026-11-14T03:55:43.586815+00:00"
-    },
-    "6329566384a084ff": {
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "fetched_at": "2026-11-14T03:55:44.220420+00:00"
-    },
-    "c8828082a16de65d": {
-      "title": "The Jensen Huang scandal is hardly over",
-      "fetched_at": "2026-11-14T03:55:44.828408+00:00"
-    },
-    "5bd93ad0bd8af57a": {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "fetched_at": "2026-11-14T03:55:45.464308+00:00"
-    },
-    "e8522b00273f7bec": {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "fetched_at": "2026-11-14T03:55:46.081075+00:00"
-    },
-    "4f7b3ccc03b9ef6e": {
-      "title": "他們在等西西弗斯：黃之鋒身後，那些寫信和探監的前戰友",
-      "fetched_at": "2026-11-14T03:55:49.593334+00:00"
-    },
-    "ad48437ec8301287": {
-      "title": "One-third of babies diagnosed with peanut allergy don't actually have one, study hints",
-      "fetched_at": "2026-11-14T03:55:51.452255+00:00"
-    },
-    "301e7fd61b72069d": {
-      "title": "Physicists sank a telescope 1.5 miles under the sea to put Einstein's relativity to the test",
-      "fetched_at": "2026-11-14T03:55:52.088343+00:00"
-    },
-    "976cc2cfd314c62a": {
-      "title": "Why platform teams fail (and AI makes it worse)",
-      "fetched_at": "2026-11-14T12:40:02.544049+00:00"
-    },
-    "0c30c893847fb4cb": {
-      "title": "Build Your Own AI Coding Agent Harness",
-      "fetched_at": "2026-11-14T12:40:03.121330+00:00"
-    },
-    "27c65d6c110b9229": {
-      "title": "Amazon's plan to own the product data and fight AI shopping agents",
-      "fetched_at": "2026-11-14T12:40:03.698904+00:00"
-    },
-    "6763d81785b6aec5": {
-      "title": "App like GitHub for your conversations with AI",
-      "fetched_at": "2026-11-14T12:40:04.275230+00:00"
-    },
-    "27b40a2c8ac2b45b": {
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "fetched_at": "2026-11-14T12:40:04.838999+00:00"
-    },
-    "beba5cfe2fc33646": {
-      "title": "So Far, AI Pessimism Is Observationally Equivalent to AI Optimism",
-      "fetched_at": "2026-11-14T12:40:05.415338+00:00"
-    },
-    "9c031774589f03e5": {
-      "title": "Real: Reported Engagement with AI Level Framework",
-      "fetched_at": "2026-11-14T12:40:05.992485+00:00"
-    },
-    "60c6952eea7d78a4": {
-      "title": "Ask HN: My product makes money, AI does the coding, and I feel useless",
-      "fetched_at": "2026-11-14T12:40:06.560630+00:00"
-    },
-    "038409bf75cfe498": {
-      "title": "Anti-Turing for AI: Presumption as a Form of Thought",
-      "fetched_at": "2026-11-14T12:40:07.169229+00:00"
-    },
-    "7dc631058620dbf6": {
-      "title": "The FAA Rolled Out AI Air Traffic Tool a Few Days Ago?",
-      "fetched_at": "2026-11-14T12:40:07.753040+00:00"
-    },
-    "7702dfd3735c7237": {
-      "title": "Show HN: Orty – AI lead qualification for freelancers",
-      "fetched_at": "2026-11-14T12:40:08.400709+00:00"
-    },
-    "f11c1a47a06da855": {
-      "title": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine",
-      "fetched_at": "2026-11-14T12:40:08.999282+00:00"
-    },
-    "8aeb539f3a6017de": {
-      "title": "Show HN: Autoeditor – AI for retention video editing",
-      "fetched_at": "2026-11-14T12:40:09.589331+00:00"
-    },
-    "fd1903866a85fe0f": {
-      "title": "Backdooring LLMs – Do you trust your AI provider?",
-      "fetched_at": "2026-11-14T12:40:10.160034+00:00"
-    },
-    "ce400c79aae199af": {
-      "title": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
-      "fetched_at": "2026-11-14T12:40:10.749423+00:00"
-    },
-    "83be1da2397497f7": {
-      "title": "WhatsTask – An AI project manager for teams of people and agents",
-      "fetched_at": "2026-11-14T12:40:11.320400+00:00"
-    },
-    "794e61e46252badc": {
-      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
-      "fetched_at": "2026-11-14T12:40:11.893291+00:00"
-    },
-    "7940865597cb3c82": {
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "fetched_at": "2026-11-14T12:40:12.464611+00:00"
-    },
-    "1e38af16f2452aa7": {
-      "title": "Not Everything Needs an LLM",
-      "fetched_at": "2026-11-14T12:40:13.036413+00:00"
-    },
-    "437d5bf481284096": {
-      "title": "AI Productivity Gains Mainly Benefit People at the Top",
-      "fetched_at": "2026-11-14T12:40:13.596999+00:00"
-    },
-    "5ef8a673d44928c8": {
-      "title": "台灣村里長：最基層的民選公職，如何牽動選舉動員與兩岸關係？",
-      "fetched_at": "2026-11-14T12:40:15.515224+00:00"
-    },
-    "39cfa37cd2aff308": {
-      "title": "黃仁勳辭職風波：從「中國間諜」熱議到資本市場「冷熱分化」",
-      "fetched_at": "2026-11-14T12:40:16.090040+00:00"
-    },
-    "35f97493a355c88b": {
-      "title": "'Flames soon engulfed us': Artemis II astronaut Jeremy Hansen describes his mission's riskiest moment",
-      "fetched_at": "2026-11-14T12:40:33.225923+00:00"
-    },
-    "8cba12f76af6c212": {
-      "title": "Which animal farts the most?",
-      "fetched_at": "2026-11-14T12:40:33.828905+00:00"
-    },
-    "21355c3261f2d454": {
-      "title": "'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family",
-      "fetched_at": "2026-11-14T12:40:34.416437+00:00"
-    },
-    "2005f0f953046726": {
-      "title": "Measles is back in the United States, WHO authorities say",
-      "fetched_at": "2026-11-14T12:40:34.986630+00:00"
-    },
-    "94abaffff41c8e0c": {
-      "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
-      "fetched_at": "2026-11-14T12:40:35.571051+00:00"
-    },
-    "3ddacc0debe4de98": {
-      "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-      "fetched_at": "2026-11-14T12:40:36.135236+00:00"
-    },
-    "f8dfb5cb23a48188": {
-      "title": "Ancient Egyptians revered dogs–can this street dog return to that former glory?",
-      "fetched_at": "2026-11-14T12:40:36.754586+00:00"
-    },
-    "2dabf1097849d579": {
-      "title": "Simulations of historical figures based on historical records",
-      "fetched_at": "2026-11-14T12:40:37.930002+00:00"
-    },
-    "e779afaba228a1bc": {
-      "title": "Shopify's Generative Discovery Model",
-      "fetched_at": "2026-11-14T12:40:38.508344+00:00"
-    },
-    "519e6c4749edd713": {
-      "title": "AI Meeting Assistants Raise Eavesdropping Concerns and Discovery Headaches",
-      "fetched_at": "2026-11-14T12:40:39.082583+00:00"
-    },
-    "814075fb7f3aeda6": {
-      "title": "Despite human sacrifice after El Niño, ancient societies generally peaceful",
-      "fetched_at": "2026-11-14T12:40:39.652616+00:00"
-    },
-    "7c08739f46270304": {
-      "title": "Show HN: Assemblage – make collages from 250k public domain historical images",
-      "fetched_at": "2026-11-14T12:40:40.234620+00:00"
-    },
-    "b4434ffddd6eeb3e": {
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "fetched_at": "2026-11-14T12:40:40.810505+00:00"
-    },
-    "128e90b650759225": {
-      "title": "2,800-year-old tomb in Siberia has evidence of the earliest use of cannabis — possibly as a way to calm human sacrifice victims",
-      "fetched_at": "2026-11-14T12:40:41.390079+00:00"
-    },
-    "073efc442c2e3312": {
-      "title": "Cryptic padlock from a 400-year-old shipwreck finally opened ‪—‬ but it leaves a mystery",
-      "fetched_at": "2026-11-14T12:40:41.966637+00:00"
-    },
     "d8ea112517f499ad": {
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "fetched_at": "2026-11-14T21:46:25.214814+00:00"
@@ -2947,7 +2707,123 @@
     "9b40f9ea04473b96": {
       "title": "地球迎來新的「迷你月亮」——它並不孤單",
       "fetched_at": "2026-11-22T03:54:20.076260+00:00"
+    },
+    "3bef6b25785bd8c3": {
+      "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+      "fetched_at": "2026-11-22T13:43:56.415636+00:00"
+    },
+    "71dd250be9909686": {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "fetched_at": "2026-11-22T13:43:57.007259+00:00"
+    },
+    "435d43a3c8389f9b": {
+      "title": "AI Explorables: Big Ideas in Machine Learning (People and AI Research (Pair))",
+      "fetched_at": "2026-11-22T13:43:57.602075+00:00"
+    },
+    "47de5170f14b6fcc": {
+      "title": "I won't leave mathematics, despite AI solving centuries-old problems",
+      "fetched_at": "2026-11-22T13:43:58.190413+00:00"
+    },
+    "63f855ec47c0d30d": {
+      "title": "I know who's popping the AI bubble now [video]",
+      "fetched_at": "2026-11-22T13:43:58.776185+00:00"
+    },
+    "1072bf3edf4a9fe8": {
+      "title": "Linux Time Machine – A trip through Linux history in the browser",
+      "fetched_at": "2026-11-22T13:43:59.392706+00:00"
+    },
+    "6f2e8535110a368e": {
+      "title": "16-year-old awarded $500k by Y Combinator for AI-guided-missile startup",
+      "fetched_at": "2026-11-22T13:44:00.035877+00:00"
+    },
+    "ea833910dca1c405": {
+      "title": "Show HN: Codeint – Measure duplication and complexity drift in AI-written code",
+      "fetched_at": "2026-11-22T13:44:00.622867+00:00"
+    },
+    "e51bf80be22ba8b7": {
+      "title": "Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80",
+      "fetched_at": "2026-11-22T13:44:01.201607+00:00"
+    },
+    "f16db15ae4c74625": {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "fetched_at": "2026-11-22T13:44:01.787177+00:00"
+    },
+    "16daea0c468bb0c4": {
+      "title": "Zero Trust for AI Agents",
+      "fetched_at": "2026-11-22T13:44:02.370274+00:00"
+    },
+    "673692db3dbdd4ce": {
+      "title": "Confident predictions and verdicts about AI, and what happened next [video]",
+      "fetched_at": "2026-11-22T13:44:02.965210+00:00"
+    },
+    "8cf61df3e4f92e5c": {
+      "title": "AI People Are Extremely Rich",
+      "fetched_at": "2026-11-22T13:44:03.583211+00:00"
+    },
+    "f3a2cdb90a8c9a33": {
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "fetched_at": "2026-11-22T13:44:04.194843+00:00"
+    },
+    "c19b2e7e29d97a46": {
+      "title": "AI Slop as a Service: Why Microsoft Won But the Soviets Lost",
+      "fetched_at": "2026-11-22T13:44:04.784398+00:00"
+    },
+    "6765a47792882479": {
+      "title": "TI Embedded AI",
+      "fetched_at": "2026-11-22T13:44:05.378405+00:00"
+    },
+    "e8f4c415e1de41cf": {
+      "title": "Is AI plagiarizing human research?",
+      "fetched_at": "2026-11-22T13:44:05.976422+00:00"
+    },
+    "fe0dd8b6c778fe2a": {
+      "title": "The day the Riemann hypothesis fell to AI, I took my son for a walk",
+      "fetched_at": "2026-11-22T13:44:06.553823+00:00"
+    },
+    "cc588eab618156f9": {
+      "title": "AI Riemann hypothesis proof is true, independent mathematicians confirm",
+      "fetched_at": "2026-11-22T13:44:07.152735+00:00"
+    },
+    "5b29456df4c1214e": {
+      "title": "Three-way translation merge: keeping translated pages in sync with an LLM",
+      "fetched_at": "2026-11-22T13:44:07.753549+00:00"
+    },
+    "3dec8fe3f2051683": {
+      "title": "菲律賓寵物火葬場醜聞：死去貓狗本應火化，但屍體卻出現在直播畫面中",
+      "fetched_at": "2026-11-22T13:44:10.897587+00:00"
+    },
+    "175a75cee51ff97b": {
+      "title": "凱特王妃在BBC紀錄片《療癒》中談癌症如何改變了她",
+      "fetched_at": "2026-11-22T13:44:11.548446+00:00"
+    },
+    "3c821cff653b3b6c": {
+      "title": "以毒攻毒？道路安全研究人員找 《GTA》幫忙",
+      "fetched_at": "2026-11-22T13:44:12.136301+00:00"
+    },
+    "17658c8ae03022a9": {
+      "title": "2,200-year-old Celtic silver coin hoard unearthed at construction site in Hungary",
+      "fetched_at": "2026-11-22T13:44:13.974521+00:00"
+    },
+    "6ac14f164847e47f": {
+      "title": "Black holes can split apart 'like pants' if they spin too fast, study hints",
+      "fetched_at": "2026-11-22T13:44:14.629626+00:00"
+    },
+    "0dafee6b41729ed2": {
+      "title": "Scientists investigate 2 'peculiar' galaxies pulling each other apart",
+      "fetched_at": "2026-11-22T13:44:15.205369+00:00"
+    },
+    "1054b50bf19d05b0": {
+      "title": "Which came first: black holes or galaxies?",
+      "fetched_at": "2026-11-22T13:44:15.798809+00:00"
+    },
+    "7a25137ecb6a1cb9": {
+      "title": "Scientists discover two adorable species of howler monkey in the Amazon — and they're already endangered",
+      "fetched_at": "2026-11-22T13:44:16.380432+00:00"
+    },
+    "d4ab377ec719f5d9": {
+      "title": "'Godless' founder of utilitarianism had severe dental problems and was in 'excruciating pain,' CT scans of his severed head reveal",
+      "fetched_at": "2026-11-22T13:44:16.960915+00:00"
     }
   },
-  "last_updated": "2026-11-22T03:54:22.768859+00:00"
+  "last_updated": "2026-11-22T13:44:17.008067+00:00"
 }
