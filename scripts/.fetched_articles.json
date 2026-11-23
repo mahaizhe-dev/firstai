@@ -1,125 +1,5 @@
 {
   "articles": {
-    "003233eb1f44a1de": {
-      "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
-      "fetched_at": "2026-11-15T03:39:11.340755+00:00"
-    },
-    "f958cb9d29047f3a": {
-      "title": "Medicare's AI Experiment",
-      "fetched_at": "2026-11-15T03:39:11.972205+00:00"
-    },
-    "72e17aef8601bec3": {
-      "title": "Multi-agent AI (LangGraph) to audit AI papers for reproducibility",
-      "fetched_at": "2026-11-15T03:39:12.611168+00:00"
-    },
-    "de1bf49eb7abf132": {
-      "title": "AI in the Search for Extraterrestrial Life",
-      "fetched_at": "2026-11-15T03:39:13.237907+00:00"
-    },
-    "2406548fe1fc1bce": {
-      "title": "Korea Tax Accountant Top Scorer Confesses AI Cheating",
-      "fetched_at": "2026-11-15T03:39:13.868742+00:00"
-    },
-    "6ec4ed684097c683": {
-      "title": "The First AI Music Awards",
-      "fetched_at": "2026-11-15T03:39:14.504313+00:00"
-    },
-    "30b22c1738ac17aa": {
-      "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
-      "fetched_at": "2026-11-15T03:39:15.136372+00:00"
-    },
-    "779dadcc992cc621": {
-      "title": "Data Science and Machine Learning Projects for Your Portfolio, by Role",
-      "fetched_at": "2026-11-15T03:39:15.771523+00:00"
-    },
-    "1f1fabf64abfed65": {
-      "title": "Microsoft patent describes using idle gaming GPUs into paid AI training hardware",
-      "fetched_at": "2026-11-15T03:39:16.395584+00:00"
-    },
-    "1c0ad28c6d861727": {
-      "title": "The AI revolution is leaving younger tech workers behind",
-      "fetched_at": "2026-11-15T03:39:17.030231+00:00"
-    },
-    "9e9802d58499c6c6": {
-      "title": "Where was Nvidia’s security team?",
-      "fetched_at": "2026-11-15T03:39:17.673435+00:00"
-    },
-    "aa86ce99ee563f92": {
-      "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
-      "fetched_at": "2026-11-15T03:39:18.317369+00:00"
-    },
-    "0a9b198b3078c236": {
-      "title": "Ask HN: Is post-training make AI models dumber?",
-      "fetched_at": "2026-11-15T03:39:19.018910+00:00"
-    },
-    "ede920c79356ce0e": {
-      "title": "Bing is the anti-AI search engine you should be using",
-      "fetched_at": "2026-11-15T03:39:19.642657+00:00"
-    },
-    "bf12622392776a8d": {
-      "title": "Microsoft Patent Tips Using Idle Gaming PCs to Train AI in Exchange for Rewards",
-      "fetched_at": "2026-11-15T03:39:20.277148+00:00"
-    },
-    "0fd00727656fc959": {
-      "title": "AI submissions cause end of game coding contest",
-      "fetched_at": "2026-11-15T03:39:20.954188+00:00"
-    },
-    "8c1e63c7eb59401a": {
-      "title": "Show HN: Daily puzzles to keep AI users sharp",
-      "fetched_at": "2026-11-15T03:39:21.617510+00:00"
-    },
-    "b6308420d70ab0c1": {
-      "title": "Toward a future space-based, highly scalable AI infrastructure system design",
-      "fetched_at": "2026-11-15T03:39:22.236367+00:00"
-    },
-    "b8dee063025b56d6": {
-      "title": "The AI graveyard: A running list of projects and startups that didn't make it",
-      "fetched_at": "2026-11-15T03:39:22.236492+00:00"
-    },
-    "59713b109128e833": {
-      "title": "AI Quest – Interactive sandboxes for agentic web apps",
-      "fetched_at": "2026-11-15T03:39:22.862460+00:00"
-    },
-    "009afe5297c66055": {
-      "title": "Scientists removed the glare from a James Webb telescope image — and unmasked a hidden planet",
-      "fetched_at": "2026-11-15T03:39:43.283535+00:00"
-    },
-    "6d41608bc9aeda92": {
-      "title": "Gigantic chasm on Mars is still tectonically active",
-      "fetched_at": "2026-11-15T03:39:43.901922+00:00"
-    },
-    "1157e020c20e6b4d": {
-      "title": "I made a game that unlocks real PubMed literature discovery",
-      "fetched_at": "2026-11-15T03:39:44.521988+00:00"
-    },
-    "ed887fc29a73050d": {
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "fetched_at": "2026-11-15T03:39:45.141038+00:00"
-    },
-    "0298545eba2aa67e": {
-      "title": "Scientists just found dinosaur blood that survived 115 million years",
-      "fetched_at": "2026-11-15T03:39:45.769611+00:00"
-    },
-    "4e74e3c194350665": {
-      "title": "Historical Airspace Map (1930-today)",
-      "fetched_at": "2026-11-15T03:39:46.398309+00:00"
-    },
-    "5e557cc525767c39": {
-      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
-      "fetched_at": "2026-11-15T03:39:47.036545+00:00"
-    },
-    "330cbbd06593bc24": {
-      "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
-      "fetched_at": "2026-11-15T03:39:47.676049+00:00"
-    },
-    "d714e0d1b83d9684": {
-      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
-      "fetched_at": "2026-11-15T03:39:48.310720+00:00"
-    },
-    "3da4bdd5866ba5de": {
-      "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-      "fetched_at": "2026-11-15T03:39:49.018480+00:00"
-    },
     "6a163d29635bdf28": {
       "title": "An overview of Jensen Huang’s messy days",
       "fetched_at": "2026-11-15T13:05:40.599043+00:00"
@@ -2899,7 +2779,87 @@
     "2005f0f953046726": {
       "title": "Measles is back in the United States, WHO authorities say",
       "fetched_at": "2026-11-22T22:56:03.451259+00:00"
+    },
+    "4680e906c4f3ea5b": {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "fetched_at": "2026-11-23T04:33:53.800205+00:00"
+    },
+    "c210a6a56aea14b7": {
+      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+      "fetched_at": "2026-11-23T04:33:54.426904+00:00"
+    },
+    "e8598b96a5474ac8": {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "fetched_at": "2026-11-23T04:33:55.074620+00:00"
+    },
+    "5acda2504fa5b75b": {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "fetched_at": "2026-11-23T04:33:55.689347+00:00"
+    },
+    "88425ac9c4435031": {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "fetched_at": "2026-11-23T04:33:56.339668+00:00"
+    },
+    "c7316ee16c9913dd": {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "fetched_at": "2026-11-23T04:33:57.074266+00:00"
+    },
+    "b00b8753b9550c27": {
+      "title": "Can Anthropic afford to put safety first?",
+      "fetched_at": "2026-11-23T04:33:57.786982+00:00"
+    },
+    "9f8c01a204c6989d": {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "fetched_at": "2026-11-23T04:33:58.413979+00:00"
+    },
+    "ef1d5a752889eb05": {
+      "title": "穷人交社保、富人补税：中国“盯上”所有人的钱包",
+      "fetched_at": "2026-11-23T04:34:01.114825+00:00"
+    },
+    "0f2a6c3da80875f8": {
+      "title": "英伟达丑闻爆发数年前，中国情报机构已将目光瞄准AI芯片",
+      "fetched_at": "2026-11-23T04:34:01.733774+00:00"
+    },
+    "9a3883565cc85032": {
+      "title": "黄乐亲属及商业伙伴与中国军工承包商有广泛联系",
+      "fetched_at": "2026-11-23T04:34:02.375558+00:00"
+    },
+    "5734e1dadeed3d49": {
+      "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
+      "fetched_at": "2026-11-23T04:34:02.976209+00:00"
+    },
+    "0535896e1914bcea": {
+      "title": "你的孩子會說謊嗎？這或許並非壞事",
+      "fetched_at": "2026-11-23T04:34:03.600357+00:00"
+    },
+    "53f60c1dd0735641": {
+      "title": "說唱歌手出身尼泊爾新總理首訪印度：如何平衡對華關係",
+      "fetched_at": "2026-11-23T04:34:04.225579+00:00"
+    },
+    "7669a55683dca60b": {
+      "title": "菲律賓寵物火葬場醜聞：死去貓狗屍體出現在直播畫面中",
+      "fetched_at": "2026-11-23T04:34:04.850326+00:00"
+    },
+    "fd14867393aaf095": {
+      "title": "APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利",
+      "fetched_at": "2026-11-23T04:34:05.466221+00:00"
+    },
+    "916c816342af209f": {
+      "title": "「短睡眠基因」：為何有人只需睡四小時？",
+      "fetched_at": "2026-11-23T04:34:06.073909+00:00"
+    },
+    "7d568b4f89993033": {
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "fetched_at": "2026-11-23T04:34:08.099569+00:00"
+    },
+    "e10d86de152e5c36": {
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "fetched_at": "2026-11-23T04:34:08.718367+00:00"
+    },
+    "f4e1905c7e6a0370": {
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "fetched_at": "2026-11-23T04:34:09.348568+00:00"
     }
   },
-  "last_updated": "2026-11-22T22:56:03.517437+00:00"
+  "last_updated": "2026-11-23T04:34:09.405353+00:00"
 }
