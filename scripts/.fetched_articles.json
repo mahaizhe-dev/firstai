@@ -1,153 +1,5 @@
 {
   "articles": {
-    "6a163d29635bdf28": {
-      "title": "An overview of Jensen Huang’s messy days",
-      "fetched_at": "2026-11-15T13:05:40.599043+00:00"
-    },
-    "3f294444a29f8a67": {
-      "title": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
-      "fetched_at": "2026-11-15T13:05:41.203183+00:00"
-    },
-    "f400cdb6e70d9bb2": {
-      "title": "Five Layers of the AI Cake [pdf]",
-      "fetched_at": "2026-11-15T13:05:41.820231+00:00"
-    },
-    "1efe7a2635522b1a": {
-      "title": "The Backdoor Route That Keeps Beijing in the AI Race",
-      "fetched_at": "2026-11-15T13:05:42.444184+00:00"
-    },
-    "55afff46cc4c6659": {
-      "title": "Skills for Real Scientists – Steer Away AI Slop",
-      "fetched_at": "2026-11-15T13:05:43.096514+00:00"
-    },
-    "a4308807d95ce27e": {
-      "title": "Sandlock: Confining AI Agent Code with Unprivileged Linux Primitives",
-      "fetched_at": "2026-11-15T13:05:43.708572+00:00"
-    },
-    "7fb739ed28804cee": {
-      "title": "Machine vision model automatically removes shadows to reveal true colors",
-      "fetched_at": "2026-11-15T13:05:44.329634+00:00"
-    },
-    "1a27479613254ae8": {
-      "title": "Misaligned AI behaviors that indicate loss-of-control risk",
-      "fetched_at": "2026-11-15T13:05:44.961524+00:00"
-    },
-    "3f48caeabcaf0b94": {
-      "title": "Show HN: Aurora GeoXAI – Sovereign geospatial AI built out of frustration",
-      "fetched_at": "2026-11-15T13:05:45.583457+00:00"
-    },
-    "fd82b6f7ad674f38": {
-      "title": "Show HN: Aurora GeoXAI – Sovereign geospatial AI built out of frustration",
-      "fetched_at": "2026-11-15T13:05:45.583588+00:00"
-    },
-    "d11b5e45720b65bb": {
-      "title": "We Need Guidelines for Learning and AI",
-      "fetched_at": "2026-11-15T13:05:46.194256+00:00"
-    },
-    "539189c78bff1676": {
-      "title": "AI Slop Papers Published Under Prominent Academics Names",
-      "fetched_at": "2026-11-15T13:05:46.194397+00:00"
-    },
-    "8aba5d8daaf47a11": {
-      "title": "Taking AI Seriously",
-      "fetched_at": "2026-11-15T13:05:46.817304+00:00"
-    },
-    "35de416860edafa3": {
-      "title": "Most of AI moats are just fuel",
-      "fetched_at": "2026-11-15T13:05:47.432257+00:00"
-    },
-    "694827e92dddc502": {
-      "title": "Show HN: Vantage-V-AI – 2-bit ternary KV-cache with attention sinks",
-      "fetched_at": "2026-11-15T13:05:48.057506+00:00"
-    },
-    "bd0ada39e8ba3827": {
-      "title": "Korea's top tax accountant exam scorer confesses to cheating with AI",
-      "fetched_at": "2026-11-15T13:05:48.712019+00:00"
-    },
-    "dcbc02525068325e": {
-      "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
-      "fetched_at": "2026-11-15T13:05:49.346619+00:00"
-    },
-    "9cfd9e3c1a7702e4": {
-      "title": "Baltimore County schools phase out AI reading program",
-      "fetched_at": "2026-11-15T13:05:50.001522+00:00"
-    },
-    "727cffc38816b036": {
-      "title": "I tested an AI dance edit on five seconds of footage, then tried the whole clip",
-      "fetched_at": "2026-11-15T13:05:50.630456+00:00"
-    },
-    "9f6b76e7cac10dc9": {
-      "title": "Show HN: ShadowDiff – Shadow testing and SQL diffing for AI-migrated back ends",
-      "fetched_at": "2026-11-15T13:05:51.290570+00:00"
-    },
-    "787bc59bc854128f": {
-      "title": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證",
-      "fetched_at": "2026-11-15T13:05:54.091948+00:00"
-    },
-    "eac0fca99b171fbb": {
-      "title": "澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約",
-      "fetched_at": "2026-11-15T13:05:54.705301+00:00"
-    },
-    "f5c1553b72577f93": {
-      "title": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼",
-      "fetched_at": "2026-11-15T13:05:55.317885+00:00"
-    },
-    "c9460fe0b713c7f8": {
-      "title": "白宮確認特朗普、習近平和普京將在深圳APEC期間舉行歷史性三方會晤",
-      "fetched_at": "2026-11-15T13:05:55.957413+00:00"
-    },
-    "231b456221f604c6": {
-      "title": "美國中期選舉掀「藍色浪潮」 將怎樣影響世界",
-      "fetched_at": "2026-11-15T13:05:56.565339+00:00"
-    },
-    "8a222f0e2f0b78f6": {
-      "title": "NASA's Voyager 1 mission forever changed our view of Jupiter",
-      "fetched_at": "2026-11-15T13:06:01.919983+00:00"
-    },
-    "289a2035680d9553": {
-      "title": "How did Cleopatra really die?",
-      "fetched_at": "2026-11-15T13:06:02.544074+00:00"
-    },
-    "96cbe413d1969d4d": {
-      "title": "Discovery Feed for Agents",
-      "fetched_at": "2026-11-15T13:06:03.165373+00:00"
-    },
-    "f142ea3e5c248442": {
-      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-      "fetched_at": "2026-11-15T13:06:03.781161+00:00"
-    },
-    "13eb9f44f682fd6a": {
-      "title": "Scientists discover a bizarre paradox among endangered penguins",
-      "fetched_at": "2026-11-15T13:06:04.407523+00:00"
-    },
-    "dce3ff0e008aacf8": {
-      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
-      "fetched_at": "2026-11-15T13:06:05.065982+00:00"
-    },
-    "cbecc6b561f1456d": {
-      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
-      "fetched_at": "2026-11-15T13:06:05.680997+00:00"
-    },
-    "d0871d161083c6c4": {
-      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
-      "fetched_at": "2026-11-15T13:06:06.314547+00:00"
-    },
-    "189a0fe6beba6597": {
-      "title": "'Life is too brief to leave this planet': Live Science readers share whether they'd go to Mars, despite health risks",
-      "fetched_at": "2026-11-15T13:06:06.928594+00:00"
-    },
-    "4fecc0e50580ce1d": {
-      "title": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery",
-      "fetched_at": "2026-11-15T13:06:07.549964+00:00"
-    },
-    "e953c4bec2d1bafb": {
-      "title": "50% of long COVID patients show improvement in 3 years — but the condition tends to linger in those with this subtype",
-      "fetched_at": "2026-11-15T13:06:08.174822+00:00"
-    },
-    "951a6e8119621c69": {
-      "title": "King Tutankhamun's Tomb, 104 Years After Its Discovery",
-      "fetched_at": "2026-11-15T13:06:08.848837+00:00"
-    },
     "438a2e7eb4e41c41": {
       "title": "Delaware considers AI-managed companies",
       "fetched_at": "2026-11-15T22:14:34.476202+00:00"
@@ -2859,7 +2711,163 @@
     "f4e1905c7e6a0370": {
       "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
       "fetched_at": "2026-11-23T04:34:09.348568+00:00"
+    },
+    "13ccb809cd36fd41": {
+      "title": "Applied Digital signs $5.4B AI data center lease with hyperscaler",
+      "fetched_at": "2026-11-23T16:45:03.878096+00:00"
+    },
+    "4f0dc72c724b7344": {
+      "title": "$1 of GPT-5.1 tokens finds new ways around China's Great Firewall",
+      "fetched_at": "2026-11-23T16:45:04.498707+00:00"
+    },
+    "0be7474ad4dafb1c": {
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "fetched_at": "2026-11-23T16:45:05.137814+00:00"
+    },
+    "f95ab5aa490c9f81": {
+      "title": "We went from browser AI to a cloud for agents",
+      "fetched_at": "2026-11-23T16:45:05.766883+00:00"
+    },
+    "dabce93e4f4033c5": {
+      "title": "Show HN: A free creative suite, built in Rust, for AI collaboration",
+      "fetched_at": "2026-11-23T16:45:06.396180+00:00"
+    },
+    "8576391d73154ce6": {
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "fetched_at": "2026-11-23T16:45:07.004129+00:00"
+    },
+    "8ef2609e12c84adc": {
+      "title": "My AI coding agents spend most of their time waiting",
+      "fetched_at": "2026-11-23T16:45:07.615413+00:00"
+    },
+    "ecbabccfc4a9eee2": {
+      "title": "Show HN: Clai – AI multitool for terminal powerusers",
+      "fetched_at": "2026-11-23T16:45:08.242199+00:00"
+    },
+    "3e047e76dab89717": {
+      "title": "'The Code Is Copied Everywhere': The AI Hacking Tool Causing Havoc",
+      "fetched_at": "2026-11-23T16:45:08.911738+00:00"
+    },
+    "b0e1d857c3305db2": {
+      "title": "AI Goes Mainstream [pdf]",
+      "fetched_at": "2026-11-23T16:45:09.523897+00:00"
+    },
+    "10288c292b4f3bfa": {
+      "title": "I built a spa for AI agents",
+      "fetched_at": "2026-11-23T16:45:10.135201+00:00"
+    },
+    "e2b551bfc05a6241": {
+      "title": "Buckle Up the AI Bubble Is Popping",
+      "fetched_at": "2026-11-23T16:45:10.754660+00:00"
+    },
+    "1e50aafb838e91ca": {
+      "title": "Detecting AI agent loops without sending raw payloads",
+      "fetched_at": "2026-11-23T16:45:11.375399+00:00"
+    },
+    "0dd3e21c9087d21e": {
+      "title": "Show HN: Wyrd (OSS) – Real-time verification for AI systems",
+      "fetched_at": "2026-11-23T16:45:11.992006+00:00"
+    },
+    "320804512343104b": {
+      "title": "42% of business leaders less likely to promote someone sending AI-generated work [pdf]",
+      "fetched_at": "2026-11-23T16:45:12.603019+00:00"
+    },
+    "a7fb1da771b8d63b": {
+      "title": "The AI Code Review Report 2026",
+      "fetched_at": "2026-11-23T16:45:13.214984+00:00"
+    },
+    "3391c55f0dc10444": {
+      "title": "We created AI and found ourselves back in Eden",
+      "fetched_at": "2026-11-23T16:45:13.828502+00:00"
+    },
+    "d036454202a2078c": {
+      "title": "LLM Programming and Theory Building",
+      "fetched_at": "2026-11-23T16:45:14.457415+00:00"
+    },
+    "ea0b44fa385a8ac0": {
+      "title": "Is This the New King of Local AI Coding (Inkling 2 Mini)",
+      "fetched_at": "2026-11-23T16:45:15.069221+00:00"
+    },
+    "e3c5bbbe8a2e7a09": {
+      "title": "Amazon signs $7.5B deal for Israeli AI startup Decart",
+      "fetched_at": "2026-11-23T16:45:15.685618+00:00"
+    },
+    "a1d6aebfe5098d84": {
+      "title": "黃仁勳辭職11天後重掌Nvidia：白宮背書下上演大逆轉，盤前股價漲超30%",
+      "fetched_at": "2026-11-23T16:45:18.526046+00:00"
+    },
+    "d47f9e27ad487abb": {
+      "title": "胰臟癌治療現突破，新藥試驗顯示部分患者腫瘤消失",
+      "fetched_at": "2026-11-23T16:45:19.162168+00:00"
+    },
+    "8e2c187098116d65": {
+      "title": "COP31氣候談判破裂，各國為何未能達成共識？",
+      "fetched_at": "2026-11-23T16:45:19.782457+00:00"
+    },
+    "167a6fec855a9ec1": {
+      "title": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
+      "fetched_at": "2026-11-23T16:45:20.417082+00:00"
+    },
+    "22e3021547ec923d": {
+      "title": "斥责、威胁、精神折磨：黄仁勋如何把羞辱变成管理日常",
+      "fetched_at": "2026-11-23T16:45:21.037838+00:00"
+    },
+    "58aded9de4a17b59": {
+      "title": "穷人交社保、富人交税：中国“盯上”所有人的钱包",
+      "fetched_at": "2026-11-23T16:45:21.669868+00:00"
+    },
+    "43b76fd33a30aa62": {
+      "title": "情报披露黄乐与中国国安部接触时间线",
+      "fetched_at": "2026-11-23T16:45:22.287798+00:00"
+    },
+    "b6501bfbcc1f9eee": {
+      "title": "Show HN: Sticks & Stones – 4,600yrs of historical conflict on an interactive map",
+      "fetched_at": "2026-11-23T16:46:03.195603+00:00"
+    },
+    "d9f8f74c47b026c1": {
+      "title": "Live Science crossword puzzle #70: The 'A' in AC/DC — 10 across",
+      "fetched_at": "2026-11-23T16:46:03.796361+00:00"
+    },
+    "a0f731126a17f745": {
+      "title": "Hoxne ‘Empress’ pepper pot: A 1,600-year-old silver and gold pepper shaker that a UK farmer unearthed while looking for his hammer",
+      "fetched_at": "2026-11-23T16:46:04.408127+00:00"
+    },
+    "4852e60456292ab5": {
+      "title": "A galactic shock wave could rewrite the map of the Milky Way",
+      "fetched_at": "2026-11-23T16:46:05.014639+00:00"
+    },
+    "99014049c0fa5ef8": {
+      "title": "Two monster black holes from the dawn of time defy explanation",
+      "fetched_at": "2026-11-23T16:46:05.623960+00:00"
+    },
+    "84c95100b5525284": {
+      "title": "Mysterious new viruses reveal a missing link in evolution",
+      "fetched_at": "2026-11-23T16:46:06.229156+00:00"
+    },
+    "86bb461498c86e1c": {
+      "title": "Impossible volcanic eruption spotted in deepest part of the ocean, perplexing scientists",
+      "fetched_at": "2026-11-23T16:46:06.827048+00:00"
+    },
+    "885d51c03051943d": {
+      "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
+      "fetched_at": "2026-11-23T16:46:07.430794+00:00"
+    },
+    "048d2f7b32f090ff": {
+      "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
+      "fetched_at": "2026-11-23T16:46:08.026109+00:00"
+    },
+    "33dd73ff4126dc74": {
+      "title": "Liberal license for ancient Unix sources (2002)",
+      "fetched_at": "2026-11-23T16:46:08.647876+00:00"
+    },
+    "1885f8e85c711785": {
+      "title": "Black holes can spin so fast they rip in half 'like pants', study finds",
+      "fetched_at": "2026-11-23T16:46:09.288732+00:00"
+    },
+    "d0e55b4a0eb5acb4": {
+      "title": "Scientists find 2 'peculiar' spiral galaxies pulling each other apart",
+      "fetched_at": "2026-11-23T16:46:09.909626+00:00"
     }
   },
-  "last_updated": "2026-11-23T04:34:09.405353+00:00"
+  "last_updated": "2026-11-23T16:46:09.987186+00:00"
 }
