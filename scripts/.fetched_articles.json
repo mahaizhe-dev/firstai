@@ -1,193 +1,5 @@
 {
   "articles": {
-    "54029a9fbe36813c": {
-      "title": "Challenges for human oversight in detecting AI-assisted medical diagnostics",
-      "fetched_at": "2026-11-16T14:12:03.646523+00:00"
-    },
-    "fd54a1786db22c43": {
-      "title": "AI-driven scientific progress threatened by an obsession",
-      "fetched_at": "2026-11-16T14:12:04.281257+00:00"
-    },
-    "fea589bfd41675bf": {
-      "title": "Google Maps can now create trip itineraries for you",
-      "fetched_at": "2026-11-16T14:12:04.947119+00:00"
-    },
-    "077ef8295aa17b17": {
-      "title": "Apple Seeks 200k People for AI Health Study",
-      "fetched_at": "2026-11-16T14:12:05.571340+00:00"
-    },
-    "30a3dcf5fc048ba4": {
-      "title": "US Moves to Limit Remote Access to Advanced AI Chips",
-      "fetched_at": "2026-11-16T14:12:06.188308+00:00"
-    },
-    "2c078aa2238094d9": {
-      "title": "RagNext Writer – AI novel drafting studio with a bridge to visual novel game dev",
-      "fetched_at": "2026-11-16T14:12:06.845362+00:00"
-    },
-    "bbc35be61eda0840": {
-      "title": "Tencent launches Hy4 flash, cutting AI task costs by 95% in internal tests",
-      "fetched_at": "2026-11-16T14:12:07.461834+00:00"
-    },
-    "ad5bf9c1970af7b5": {
-      "title": "Can the AI boom make enough money to sustain itself?",
-      "fetched_at": "2026-11-16T14:12:08.090773+00:00"
-    },
-    "7b309bb9fbd52d43": {
-      "title": "Show HN: LGTM – A Reigns-style swipe game about surviving your AI coworker",
-      "fetched_at": "2026-11-16T14:12:08.705646+00:00"
-    },
-    "d52c75fdd439d393": {
-      "title": "It's Time to Reinvent Software Tickets for the AI Era",
-      "fetched_at": "2026-11-16T14:12:09.350696+00:00"
-    },
-    "2d878355b0f6bb38": {
-      "title": "Show HN: Prettywhale.ai – Generate data pipelines from data samples",
-      "fetched_at": "2026-11-16T14:12:09.983253+00:00"
-    },
-    "87d8b39350ab87d9": {
-      "title": "Moloch, AI and Capitalism: The System Eating Itself [video]",
-      "fetched_at": "2026-11-16T14:12:10.732102+00:00"
-    },
-    "c17bdf89e584ac3d": {
-      "title": "Show HN: Cinnamon AI – an agent I built for friends and family",
-      "fetched_at": "2026-11-16T14:12:11.365679+00:00"
-    },
-    "1811bb5dec0a15d1": {
-      "title": "Show HN: Furnish – AI-powered home design with editable 2D plans and 3D views",
-      "fetched_at": "2026-11-16T14:12:11.993507+00:00"
-    },
-    "1d05d29f54c6dd05": {
-      "title": "The Nvidia scandal isn’t slowing down",
-      "fetched_at": "2026-11-16T14:12:12.611492+00:00"
-    },
-    "6d09be3ab963ed83": {
-      "title": "HN: Guru – an uncensored, privacy focused open-source self-evolving AI Framework",
-      "fetched_at": "2026-11-16T14:12:13.226329+00:00"
-    },
-    "84c4b69c48d7a727": {
-      "title": "Linux Foundation – Agent Name Service Bringing Verifiable Identity to AI Agents",
-      "fetched_at": "2026-11-16T14:12:13.888968+00:00"
-    },
-    "ae4e58a752c32fa9": {
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "fetched_at": "2026-11-16T14:12:14.556494+00:00"
-    },
-    "8f7c44009ea8a75b": {
-      "title": "AI Killed the MVP – Long Live the IUP",
-      "fetched_at": "2026-11-16T14:12:15.260169+00:00"
-    },
-    "7e8926ac6ed55eb2": {
-      "title": "US to designate AI \"national champions\"",
-      "fetched_at": "2026-11-16T14:12:15.882784+00:00"
-    },
-    "e911f3822059ab90": {
-      "title": "里長赴中旅遊：台灣《反滲透法》為何「查辦多、定罪少」？",
-      "fetched_at": "2026-11-16T14:12:48.990819+00:00"
-    },
-    "8a081a5114d88bba": {
-      "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
-      "fetched_at": "2026-11-16T14:12:49.611010+00:00"
-    },
-    "7c772d84f3b68dfa": {
-      "title": "美國全國停飛兩天後仍有數千航班延誤或取消，原因為銅線升級光纖工程",
-      "fetched_at": "2026-11-16T14:12:50.229233+00:00"
-    },
-    "a538976c06130d31": {
-      "title": "據報黃仁勳商討重返Nvidia，Megaspeed稱黃樂去年已離職",
-      "fetched_at": "2026-11-16T14:12:50.866918+00:00"
-    },
-    "fc21ee30c5f2d318": {
-      "title": "习近平持续清洗军方、张升民崛起：利好台湾？",
-      "fetched_at": "2026-11-16T14:12:51.520683+00:00"
-    },
-    "a28f22f1f0b06f6c": {
-      "title": "黄仁勋事件为本周“习特会”蒙上阴影",
-      "fetched_at": "2026-11-16T14:12:52.139436+00:00"
-    },
-    "928654b76fdad87a": {
-      "title": "英伟达丑闻引发讨论：究竟怎样才算间谍？",
-      "fetched_at": "2026-11-16T14:12:52.796553+00:00"
-    },
-    "2150bc54c6e6355b": {
-      "title": "APEC深圳峰會前瞻：中方確認美中俄會晤，日方盼習近平按慣例與高市握手",
-      "fetched_at": "2026-11-16T14:12:53.414650+00:00"
-    },
-    "59843a62a69725a3": {
-      "title": "Megaspeed称黄乐已于去年8月离职",
-      "fetched_at": "2026-11-16T14:12:54.050415+00:00"
-    },
-    "464efcbfe706f374": {
-      "title": "法國總統大選：五屆奧運柔道冠軍意外參選，攪動選情",
-      "fetched_at": "2026-11-16T14:12:54.690814+00:00"
-    },
-    "4bef2df169d12e29": {
-      "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
-      "fetched_at": "2026-11-16T14:12:55.322380+00:00"
-    },
-    "98f839d461619de2": {
-      "title": "特朗普、习近平和普京将在中国举行三方会晤",
-      "fetched_at": "2026-11-16T14:12:55.977953+00:00"
-    },
-    "5613e80cb26e4a72": {
-      "title": "台湾民众如何看待“国民爸爸”黄仁勋丑闻",
-      "fetched_at": "2026-11-16T14:12:56.597890+00:00"
-    },
-    "8d4d2a35a09b1610": {
-      "title": "黄仁勋的婚外情秘密是如何泄露到公众视野的",
-      "fetched_at": "2026-11-16T14:12:57.228861+00:00"
-    },
-    "47b4f60eb0c979eb": {
-      "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動產業、政治與社會？",
-      "fetched_at": "2026-11-16T14:12:57.857554+00:00"
-    },
-    "8463b7efbea74bfe": {
-      "title": "為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂",
-      "fetched_at": "2026-11-16T14:12:58.486291+00:00"
-    },
-    "17a46511647bc812": {
-      "title": "Making Talent Discovery Easier",
-      "fetched_at": "2026-11-16T14:13:16.086688+00:00"
-    },
-    "6dffb7bb968adb92": {
-      "title": "Thinkers of Cernavodă: Mysterious Stone Age figurines discovered in a 7,000-year-old grave in Romania",
-      "fetched_at": "2026-11-16T14:13:16.748388+00:00"
-    },
-    "c61174e9f9abef1b": {
-      "title": "The secret to building Moon bases may be hiding in emergency blankets",
-      "fetched_at": "2026-11-16T14:13:17.396160+00:00"
-    },
-    "b2fbe867d7b99dd9": {
-      "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
-      "fetched_at": "2026-11-16T14:13:18.018557+00:00"
-    },
-    "f6c5d664094c7fa3": {
-      "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
-      "fetched_at": "2026-11-16T14:13:18.644538+00:00"
-    },
-    "2034e68326470a9f": {
-      "title": "An ancient virus may help explain what makes the human brain different",
-      "fetched_at": "2026-11-16T14:13:19.272879+00:00"
-    },
-    "bfe9cef554bed212": {
-      "title": "Witches, vampires, ancient aliens–you'll find them all in Malta",
-      "fetched_at": "2026-11-16T14:13:19.892033+00:00"
-    },
-    "203e39f8d7c6bc37": {
-      "title": "The Maya used so much red paint that they poisoned their water with mercury, mud sediments reveal",
-      "fetched_at": "2026-11-16T14:13:20.528929+00:00"
-    },
-    "fff3569e73cff1f0": {
-      "title": "Tectonic forces near Japan helped fuel the formation of the Grand Canyon",
-      "fetched_at": "2026-11-16T14:13:21.170711+00:00"
-    },
-    "2bb1b93c48f25bcb": {
-      "title": "Women often get cold more easily than men — a mouse study offers hints why",
-      "fetched_at": "2026-11-16T14:13:21.782591+00:00"
-    },
-    "0764325df6a634fb": {
-      "title": "Show HN: Budget Friendly City Discovery",
-      "fetched_at": "2026-11-16T14:13:22.408700+00:00"
-    },
     "8f58b39af57e5365": {
       "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
       "fetched_at": "2026-11-17T01:14:09.482697+00:00"
@@ -2911,7 +2723,171 @@
     "d0871d161083c6c4": {
       "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
       "fetched_at": "2026-11-24T03:35:02.719897+00:00"
+    },
+    "df282db73c937312": {
+      "title": "Hackathon: Build an iOS app in 1 hour, $1k in AI credits",
+      "fetched_at": "2026-11-24T16:39:49.612494+00:00"
+    },
+    "6e07cea1227a21ab": {
+      "title": "Show HN: Control the remote machine like it's 90s",
+      "fetched_at": "2026-11-24T16:39:50.238417+00:00"
+    },
+    "a34ba29a258dd72b": {
+      "title": "Show HN: Agentbadge – Lighthouse for AI coding agents (0-100 readiness score)",
+      "fetched_at": "2026-11-24T16:39:50.887924+00:00"
+    },
+    "bee08968d1d5e4e7": {
+      "title": "Show HN: Fit large JSON tool results into an LLM's context without losing data",
+      "fetched_at": "2026-11-24T16:39:51.521561+00:00"
+    },
+    "7943322c08327a8f": {
+      "title": "Tidal Bans AI-Generated Music",
+      "fetched_at": "2026-11-24T16:39:52.155787+00:00"
+    },
+    "92b59cb19581ecf5": {
+      "title": "Show HN: PII Guard – local Chrome extension that redacts PII before AI chats",
+      "fetched_at": "2026-11-24T16:39:52.789158+00:00"
+    },
+    "247d8e1363424d3e": {
+      "title": "Guidelines for AI-Assisted Contributions to the Wimse WG",
+      "fetched_at": "2026-11-24T16:39:53.418114+00:00"
+    },
+    "f8d7f1e1e7debc9e": {
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "fetched_at": "2026-11-24T16:39:54.023682+00:00"
+    },
+    "2c3b9b1aef7cd7ab": {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "fetched_at": "2026-11-24T16:39:54.657850+00:00"
+    },
+    "f803c66d05c903fb": {
+      "title": "Show HN: LLM API cost and carbon calculator for your own token mix",
+      "fetched_at": "2026-11-24T16:39:55.274045+00:00"
+    },
+    "8454ccc74396638e": {
+      "title": "Fraud Arena, a benchmark for AI on financial fraud",
+      "fetched_at": "2026-11-24T16:39:55.899067+00:00"
+    },
+    "9fba6abffc77429d": {
+      "title": "Show HN: VibeVigil – scan AI-built apps for leaked keys and open tables",
+      "fetched_at": "2026-11-24T16:39:56.528156+00:00"
+    },
+    "877f814ee9d98085": {
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "fetched_at": "2026-11-24T16:39:57.153181+00:00"
+    },
+    "0fdab8e8afa54e33": {
+      "title": "What workers want to hand to AI, and what they want to keep",
+      "fetched_at": "2026-11-24T16:39:57.786045+00:00"
+    },
+    "c426cb38521b98b2": {
+      "title": "Should your AI agent confirm who is asking before it moves money?",
+      "fetched_at": "2026-11-24T16:39:58.402572+00:00"
+    },
+    "bc0b806c96d5b13d": {
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "fetched_at": "2026-11-24T16:39:59.096453+00:00"
+    },
+    "21301cc9409ca8c6": {
+      "title": "AI inference needs its kilowatt-hour: bill by ZSTD-compressed output, not tokens",
+      "fetched_at": "2026-11-24T16:39:59.731974+00:00"
+    },
+    "b32cba0846b888ec": {
+      "title": "ai is so dumb [video]",
+      "fetched_at": "2026-11-24T16:40:00.361034+00:00"
+    },
+    "51b880835c2c7d9e": {
+      "title": "Living computers forge a 'hive mind' and work together to outsmart AI",
+      "fetched_at": "2026-11-24T16:40:01.011561+00:00"
+    },
+    "240754eb47d435f0": {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "fetched_at": "2026-11-24T16:40:01.631548+00:00"
+    },
+    "4f7f2753eaf3d3b2": {
+      "title": "黃仁勳重掌Nvidia：習近平從特朗普身上看到了什麼？",
+      "fetched_at": "2026-11-24T16:40:04.560815+00:00"
+    },
+    "e226801eb5870b6b": {
+      "title": "陳吉寧被調查：「清華系」失勢、「上海跳板」失靈與政治局委員落馬創紀錄",
+      "fetched_at": "2026-11-24T16:40:05.184369+00:00"
+    },
+    "2027e49807ac0461": {
+      "title": "「不能沒有你」：黃仁勳回歸，台灣股市的狂歡與半導體「 黑天鵝」風險",
+      "fetched_at": "2026-11-24T16:40:05.791906+00:00"
+    },
+    "6e25bec2d64ddb9a": {
+      "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
+      "fetched_at": "2026-11-24T16:40:06.421457+00:00"
+    },
+    "d42d75f5a6a064c8": {
+      "title": "黃仁勳回歸輝達 特朗普稱曾出手斡旋",
+      "fetched_at": "2026-11-24T16:40:07.050830+00:00"
+    },
+    "f0f8d0d6c91b8a1a": {
+      "title": "Nvidia醜聞：美國將Megaspeed列入黑名單",
+      "fetched_at": "2026-11-24T16:40:07.684936+00:00"
+    },
+    "60aa1564db760a04": {
+      "title": "对特朗普来说，科技股价比中国间谍风险更重要",
+      "fetched_at": "2026-11-24T16:40:08.314244+00:00"
+    },
+    "4d4846b85da270a3": {
+      "title": "特朗普出手干预黄仁勋事件，无视国家安全担忧",
+      "fetched_at": "2026-11-24T16:40:08.949500+00:00"
+    },
+    "cb6178062d2e26e3": {
+      "title": "'A new record in quantum error correction': Scientists say breakthrough brings powerful, fault-tolerant quantum computers closer to reality",
+      "fetched_at": "2026-11-24T16:41:10.673551+00:00"
+    },
+    "bf4f93b32aa42120": {
+      "title": "2,900-year-old sanctuary discovered on Greek mountaintop may have been a destination for Artemis worship",
+      "fetched_at": "2026-11-24T16:41:11.297914+00:00"
+    },
+    "b6bffc2262d625af": {
+      "title": "Growing lava dome oozes 'like toothpaste' from superactive snow-covered volcano in Russia",
+      "fetched_at": "2026-11-24T16:41:11.923181+00:00"
+    },
+    "e1ecdfa97fb775ba": {
+      "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+      "fetched_at": "2026-11-24T16:41:12.538367+00:00"
+    },
+    "9fb095a952c24488": {
+      "title": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past",
+      "fetched_at": "2026-11-24T16:41:13.160943+00:00"
+    },
+    "fb2dae0d844fd998": {
+      "title": "Earth's next ice age may have already begun. Global warming stopped it",
+      "fetched_at": "2026-11-24T16:41:13.784446+00:00"
+    },
+    "049175ab05470acb": {
+      "title": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
+      "fetched_at": "2026-11-24T16:41:14.400962+00:00"
+    },
+    "76eda47a98b367bc": {
+      "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+      "fetched_at": "2026-11-24T16:41:15.109512+00:00"
+    },
+    "7bd7fb66a8f90424": {
+      "title": "'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future",
+      "fetched_at": "2026-11-24T16:41:15.739784+00:00"
+    },
+    "83e42a35eeb2af30": {
+      "title": "Which animal would you most want to talk to, if you could?",
+      "fetched_at": "2026-11-24T16:41:16.375347+00:00"
+    },
+    "1927328882465b58": {
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "fetched_at": "2026-11-24T16:41:16.997479+00:00"
+    },
+    "905404a453efe19f": {
+      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+      "fetched_at": "2026-11-24T16:41:17.627367+00:00"
+    },
+    "0f6af33a03c99c70": {
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "fetched_at": "2026-11-24T16:41:18.251133+00:00"
     }
   },
-  "last_updated": "2026-11-24T03:35:02.783750+00:00"
+  "last_updated": "2026-11-24T16:41:18.361298+00:00"
 }
