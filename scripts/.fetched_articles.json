@@ -1,129 +1,5 @@
 {
   "articles": {
-    "438a2e7eb4e41c41": {
-      "title": "Delaware considers AI-managed companies",
-      "fetched_at": "2026-11-15T22:14:34.476202+00:00"
-    },
-    "1f448f698568ae28": {
-      "title": "Sandboxes for AI Agents",
-      "fetched_at": "2026-11-15T22:14:35.166608+00:00"
-    },
-    "c8c854be5c0b5143": {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "fetched_at": "2026-11-15T22:14:35.793791+00:00"
-    },
-    "9afa99f4ed555d33": {
-      "title": "The AI-Box Experiment (2002)",
-      "fetched_at": "2026-11-15T22:14:36.413837+00:00"
-    },
-    "999250536a66e489": {
-      "title": "Current human speed versus AI speed [video]",
-      "fetched_at": "2026-11-15T22:14:37.043614+00:00"
-    },
-    "ef1429a0fd17f414": {
-      "title": "LLM Releases, Token Limits, and Pricing Since GPT 3.5",
-      "fetched_at": "2026-11-15T22:14:37.663720+00:00"
-    },
-    "3079ab25dcce8817": {
-      "title": "AI rivals tackle one of physics' deepest mathematical challenges",
-      "fetched_at": "2026-11-15T22:14:38.280783+00:00"
-    },
-    "359996918ac5a22a": {
-      "title": "Ask HN: What do coding interviews look like in the age of AI?",
-      "fetched_at": "2026-11-15T22:14:38.912812+00:00"
-    },
-    "145ff338d868d363": {
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "fetched_at": "2026-11-15T22:14:39.523192+00:00"
-    },
-    "748e7946621fd4c5": {
-      "title": "Inference Gateway Desktop, an AI client for any model provider",
-      "fetched_at": "2026-11-15T22:14:40.145697+00:00"
-    },
-    "9b95a54ba8d060b5": {
-      "title": "A browser API for choosing and running local AI models",
-      "fetched_at": "2026-11-15T22:14:40.790075+00:00"
-    },
-    "5866ff4a5800c7b0": {
-      "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
-      "fetched_at": "2026-11-15T22:14:41.433916+00:00"
-    },
-    "bcec3e10ff2a7715": {
-      "title": "AXI Framework: The Cure for the Cost Crisis in AI",
-      "fetched_at": "2026-11-15T22:14:42.063491+00:00"
-    },
-    "49824785313cccde": {
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "fetched_at": "2026-11-15T22:14:42.692229+00:00"
-    },
-    "22473a4ddc4248bd": {
-      "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
-      "fetched_at": "2026-11-15T22:14:43.302756+00:00"
-    },
-    "995dde84e25d96d4": {
-      "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
-      "fetched_at": "2026-11-15T22:14:43.929442+00:00"
-    },
-    "107bd5cfd438d112": {
-      "title": "OBR: Britain faces 'painful' job losses from AI",
-      "fetched_at": "2026-11-15T22:14:44.551905+00:00"
-    },
-    "491c097d88064c63": {
-      "title": "Show HN: Perfectclone – Yoink the source code of any website, not an AI clone",
-      "fetched_at": "2026-11-15T22:14:45.180311+00:00"
-    },
-    "086a774ffaa30099": {
-      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "fetched_at": "2026-11-15T22:14:45.793256+00:00"
-    },
-    "873e066ae3c98c15": {
-      "title": "First pre-2020 long-form writing detected as 100% AI by Pangram",
-      "fetched_at": "2026-11-15T22:14:46.411140+00:00"
-    },
-    "0740a9d41a2f3a0f": {
-      "title": "無法複製的奇蹟？深圳如何從改革開放樣板變為「中國矽谷」",
-      "fetched_at": "2026-11-15T22:14:49.006978+00:00"
-    },
-    "f79930b888ca2b70": {
-      "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
-      "fetched_at": "2026-11-15T22:14:49.630789+00:00"
-    },
-    "7bd7fb66a8f90424": {
-      "title": "'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future",
-      "fetched_at": "2026-11-15T22:14:51.700101+00:00"
-    },
-    "83e42a35eeb2af30": {
-      "title": "Which animal would you most want to talk to, if you could?",
-      "fetched_at": "2026-11-15T22:14:52.325758+00:00"
-    },
-    "1927328882465b58": {
-      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-      "fetched_at": "2026-11-15T22:14:52.958200+00:00"
-    },
-    "d504c4feb6fb331c": {
-      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-      "fetched_at": "2026-11-15T22:14:53.576171+00:00"
-    },
-    "905404a453efe19f": {
-      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-      "fetched_at": "2026-11-15T22:14:54.191748+00:00"
-    },
-    "0f6af33a03c99c70": {
-      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-      "fetched_at": "2026-11-15T22:14:54.842802+00:00"
-    },
-    "bb7cd16c0440d842": {
-      "title": "A simple supplement could help your immune system fight cancer and viral infections",
-      "fetched_at": "2026-11-15T22:14:55.470448+00:00"
-    },
-    "dd63f8395feeb8c9": {
-      "title": "I almost died from flu. My life didn't go back to normal after.",
-      "fetched_at": "2026-11-15T22:14:56.080660+00:00"
-    },
-    "e8803ce9ae720677": {
-      "title": "Why do most cats hate it when you touch their belly, feet or tail?",
-      "fetched_at": "2026-11-15T22:14:56.695527+00:00"
-    },
     "54029a9fbe36813c": {
       "title": "Challenges for human oversight in detecting AI-assisted medical diagnostics",
       "fetched_at": "2026-11-16T14:12:03.646523+00:00"
@@ -2867,7 +2743,175 @@
     "d0e55b4a0eb5acb4": {
       "title": "Scientists find 2 'peculiar' spiral galaxies pulling each other apart",
       "fetched_at": "2026-11-23T16:46:09.909626+00:00"
+    },
+    "610a742fb9c80625": {
+      "title": "r/RedditEngin: We Let AI Approve PRs at Reddit. Here's What Happened",
+      "fetched_at": "2026-11-24T03:34:28.983252+00:00"
+    },
+    "ad878104565aa65e": {
+      "title": "Apple Releases New AI Health App",
+      "fetched_at": "2026-11-24T03:34:29.643379+00:00"
+    },
+    "580b27b4228bb682": {
+      "title": "Declare is a UI language for you and your AI",
+      "fetched_at": "2026-11-24T03:34:30.209787+00:00"
+    },
+    "9ba15c45a2677972": {
+      "title": "Trump Posts AI Meme of Jensen Huang Holding Up a Bra",
+      "fetched_at": "2026-11-24T03:34:30.776656+00:00"
+    },
+    "fa6128fbbb643f0a": {
+      "title": "AI is massively speeding up AI research",
+      "fetched_at": "2026-11-24T03:34:31.346380+00:00"
+    },
+    "b4dc9ff1b773e6d7": {
+      "title": "Incognide, the AI-native IDE for research and development, reaches 500 gh stars",
+      "fetched_at": "2026-11-24T03:34:32.017489+00:00"
+    },
+    "c9a5eb5c6e52bfcc": {
+      "title": "Fewer Rungs, New Bridges: How AI is realigning the career ladder",
+      "fetched_at": "2026-11-24T03:34:32.607803+00:00"
+    },
+    "c4d289e61ca3fa8d": {
+      "title": "I've never hunted for a software vulnerability. AI helped me find one in 6 hrs",
+      "fetched_at": "2026-11-24T03:34:33.182223+00:00"
+    },
+    "32aa84e4bbf4c334": {
+      "title": "NeuralOps Nexus – self-hosted AI teammates that ask before they act",
+      "fetched_at": "2026-11-24T03:34:33.788067+00:00"
+    },
+    "bc37027fa35d96be": {
+      "title": "Sentry: An external self-improving failure management layer for LLM agents",
+      "fetched_at": "2026-11-24T03:34:34.351243+00:00"
+    },
+    "d9d37ee7b1721693": {
+      "title": "What AI Is Bad At?",
+      "fetched_at": "2026-11-24T03:34:34.923193+00:00"
+    },
+    "ab40aa5ea8e6c10b": {
+      "title": "The Invisible Puzzle Box: What a Verified AI System Proves",
+      "fetched_at": "2026-11-24T03:34:35.486243+00:00"
+    },
+    "ac1e6a38a84e2a34": {
+      "title": "What Google's Classroom AI Sees",
+      "fetched_at": "2026-11-24T03:34:36.134379+00:00"
+    },
+    "a0ac6c49425ae93a": {
+      "title": "Last Week in AI Topic Deep Dive: The Geopolitics of AI (I.e. The China Episode)",
+      "fetched_at": "2026-11-24T03:34:36.728749+00:00"
+    },
+    "de61070206a4a8cf": {
+      "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+      "fetched_at": "2026-11-24T03:34:37.342485+00:00"
+    },
+    "1dec87f32efa3157": {
+      "title": "AI conquered chess. What happened next should give us hope",
+      "fetched_at": "2026-11-24T03:34:37.917725+00:00"
+    },
+    "ed113434e0b187aa": {
+      "title": "The Institutional Laundering of AI Safety",
+      "fetched_at": "2026-11-24T03:34:38.556444+00:00"
+    },
+    "afa5363a81f8b2db": {
+      "title": "The AI bubble is deflating and that's good news",
+      "fetched_at": "2026-11-24T03:34:39.149868+00:00"
+    },
+    "401976a6d46d6243": {
+      "title": "The AI bubble hasn't burst, but it has significantly deflated",
+      "fetched_at": "2026-11-24T03:34:39.712602+00:00"
+    },
+    "5d5b9409aa0a5d78": {
+      "title": "Securing AI agents against intent hijacking with Semantic governance policies",
+      "fetched_at": "2026-11-24T03:34:40.281607+00:00"
+    },
+    "10ed909a4046b028": {
+      "title": "美国将Megaspeed列入贸易黑名单",
+      "fetched_at": "2026-11-24T03:34:42.501775+00:00"
+    },
+    "c4292698a0323a71": {
+      "title": "黄仁勋复职凸显特朗普不惜代价力保人工智能发展",
+      "fetched_at": "2026-11-24T03:34:43.083685+00:00"
+    },
+    "638be2f9b7f4e995": {
+      "title": "中国的另一种人工智能焦虑：担忧美国在核竞争中占得先机",
+      "fetched_at": "2026-11-24T03:34:43.644836+00:00"
+    },
+    "eb024f22b0008bc3": {
+      "title": "特朗普促成黄仁勋复职：派万斯斡旋，提供关键保证",
+      "fetched_at": "2026-11-24T03:34:44.237721+00:00"
+    },
+    "c748f851a4f9f6e6": {
+      "title": "伊朗女歌手演出不戴頭巾「已遭執行74鞭笞刑」",
+      "fetched_at": "2026-11-24T03:34:44.807158+00:00"
+    },
+    "b2738930933d173a": {
+      "title": "黄仁勋复职重掌英伟达，美股大涨但两党批评声不断",
+      "fetched_at": "2026-11-24T03:34:45.393478+00:00"
+    },
+    "a33dcfe0c5e5d21a": {
+      "title": "我們如何知道疫苗安全？它們是如何經過測試？",
+      "fetched_at": "2026-11-24T03:34:46.044526+00:00"
+    },
+    "081b6c193a4866e4": {
+      "title": "美國六成AI風投資金湧入舊金山，但崩盤憂慮日益加深",
+      "fetched_at": "2026-11-24T03:34:46.607837+00:00"
+    },
+    "15f99f4745c74ebe": {
+      "title": "Nvidia和黃仁勳對美國經濟有多重要？",
+      "fetched_at": "2026-11-24T03:34:47.205388+00:00"
+    },
+    "eaaa1cb4f7b51753": {
+      "title": "為何黃仁勳大到不能被解僱？",
+      "fetched_at": "2026-11-24T03:34:47.859161+00:00"
+    },
+    "d6c51e598f88c1e1": {
+      "title": "黃仁勳的崛起、殞落與東山再起",
+      "fetched_at": "2026-11-24T03:34:48.431718+00:00"
+    },
+    "a96ad9d539fb0ce8": {
+      "title": "黃仁勳辭職11天後重掌Nvidia：大逆轉下盤前股價漲超30%",
+      "fetched_at": "2026-11-24T03:34:49.010406+00:00"
+    },
+    "0b3b63338ba6c509": {
+      "title": "BepiColombo ends 8-year interplanetary journey to Mercury. What's next for the ambitious spacecraft?",
+      "fetched_at": "2026-11-24T03:34:58.019577+00:00"
+    },
+    "7fd1951ed54d02e8": {
+      "title": "Gold, weapons or a 'Rosetta stone': Which archaeological treasure would you most like to discover?",
+      "fetched_at": "2026-11-24T03:34:58.607308+00:00"
+    },
+    "a49316ae4e93e519": {
+      "title": "Study Suggests People Traveled Long Distances to Roman Britain’s First Capital",
+      "fetched_at": "2026-11-24T03:34:59.183938+00:00"
+    },
+    "25624ad47c057157": {
+      "title": "Cars Unearthed at WWII Airfield in the Netherlands",
+      "fetched_at": "2026-11-24T03:34:59.777442+00:00"
+    },
+    "1a93a49f5223c728": {
+      "title": "Early Bronze Age Jewelry Discovered in Switzerland",
+      "fetched_at": "2026-11-24T03:35:00.347982+00:00"
+    },
+    "69e6ba8b36b2fb9e": {
+      "title": "Hoxne 'Empress' pepper pot: A 1,600-year-old silver and gold pepper shaker that a UK farmer unearthed while looking for his hammer",
+      "fetched_at": "2026-11-24T03:35:00.348083+00:00"
+    },
+    "8a222f0e2f0b78f6": {
+      "title": "NASA's Voyager 1 mission forever changed our view of Jupiter",
+      "fetched_at": "2026-11-24T03:35:01.009192+00:00"
+    },
+    "289a2035680d9553": {
+      "title": "How did Cleopatra really die?",
+      "fetched_at": "2026-11-24T03:35:01.572065+00:00"
+    },
+    "f142ea3e5c248442": {
+      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "fetched_at": "2026-11-24T03:35:02.150265+00:00"
+    },
+    "d0871d161083c6c4": {
+      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+      "fetched_at": "2026-11-24T03:35:02.719897+00:00"
     }
   },
-  "last_updated": "2026-11-23T16:46:09.987186+00:00"
+  "last_updated": "2026-11-24T03:35:02.783750+00:00"
 }
