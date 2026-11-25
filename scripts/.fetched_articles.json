@@ -1,169 +1,5 @@
 {
   "articles": {
-    "07253fd0ef41bc22": {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "fetched_at": "2026-11-17T15:04:52.288225+00:00"
-    },
-    "a7c70beab23c415b": {
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "fetched_at": "2026-11-17T15:04:52.932669+00:00"
-    },
-    "b95194bb83e1e708": {
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "fetched_at": "2026-11-17T15:04:53.547973+00:00"
-    },
-    "ee2afeefcdc9c59c": {
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "fetched_at": "2026-11-17T15:04:54.167411+00:00"
-    },
-    "09625f0773264df5": {
-      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-      "fetched_at": "2026-11-17T15:04:54.796997+00:00"
-    },
-    "c20ea39d9156dcf1": {
-      "title": "TDS REVIEW｜Bose 有线消噪耳塞体验",
-      "fetched_at": "2026-11-17T15:04:55.418076+00:00"
-    },
-    "4d78b29534b258f6": {
-      "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
-      "fetched_at": "2026-11-17T15:04:56.051956+00:00"
-    },
-    "b4ed133184b79d0a": {
-      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "fetched_at": "2026-11-17T15:04:56.674440+00:00"
-    },
-    "92926844463e346f": {
-      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-      "fetched_at": "2026-11-17T15:04:57.338167+00:00"
-    },
-    "8680e5e66acdf727": {
-      "title": "派评 | 近期值得关注的 App",
-      "fetched_at": "2026-11-17T15:04:57.983952+00:00"
-    },
-    "d906066914b6c83a": {
-      "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
-      "fetched_at": "2026-11-17T15:04:58.624805+00:00"
-    },
-    "998001abfe0026d7": {
-      "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
-      "fetched_at": "2026-11-17T15:04:59.251220+00:00"
-    },
-    "df97439efe18b2e3": {
-      "title": "Apple launches new app to study how people use AI for health",
-      "fetched_at": "2026-11-17T15:04:59.878118+00:00"
-    },
-    "09e68c8db7bc5578": {
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "fetched_at": "2026-11-17T15:05:00.510396+00:00"
-    },
-    "3b9c11b6ec0825a4": {
-      "title": "派早报：逾十万人次联署要求黄仁勋复职",
-      "fetched_at": "2026-11-17T15:05:01.140964+00:00"
-    },
-    "3550a3c9f3fe2de0": {
-      "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
-      "fetched_at": "2026-11-17T15:05:05.173559+00:00"
-    },
-    "0c8a4d7700349135": {
-      "title": "特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」",
-      "fetched_at": "2026-11-17T15:05:05.819152+00:00"
-    },
-    "9096f9054f9e1f2f": {
-      "title": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
-      "fetched_at": "2026-11-17T15:05:06.454970+00:00"
-    },
-    "72adf4e11e588e7b": {
-      "title": "中國AI之都：「夢想之城」深圳背後的兩個世界",
-      "fetched_at": "2026-11-17T15:05:07.112417+00:00"
-    },
-    "9a4b48b54b07e629": {
-      "title": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
-      "fetched_at": "2026-11-17T15:05:07.733161+00:00"
-    },
-    "3a539e927728b028": {
-      "title": "歐盟峰會前夕 貝安德稱英國脫歐「得不償失」",
-      "fetched_at": "2026-11-17T15:05:08.463863+00:00"
-    },
-    "66634b525f36c10e": {
-      "title": "「讓黃仁勳回歸」運動：輝達駁斥、特朗普支持恢復其CEO職位",
-      "fetched_at": "2026-11-17T15:05:09.090357+00:00"
-    },
-    "e2dde2cf5e9edf3d": {
-      "title": "卡尼再次访华，中国会是加拿大摆脱美国依赖的答案吗？",
-      "fetched_at": "2026-11-17T15:05:09.713466+00:00"
-    },
-    "f7598afe904d92b3": {
-      "title": "白宫内部对华政策分歧公开化，贝森特日趋鹰派",
-      "fetched_at": "2026-11-17T15:05:10.418557+00:00"
-    },
-    "cfb6da7ea5a83e91": {
-      "title": "关于特朗普访华及中美俄首脑会晤，你应该了解的",
-      "fetched_at": "2026-11-17T15:05:11.047015+00:00"
-    },
-    "b721b725d0da96da": {
-      "title": "羅伯·派汀森：《暮光之城》男主角如何成為007",
-      "fetched_at": "2026-11-17T15:05:11.671268+00:00"
-    },
-    "4d8048049b2e84cb": {
-      "title": "特朗普访华前，美国推进新规封堵芯片出口漏洞",
-      "fetched_at": "2026-11-17T15:05:12.326634+00:00"
-    },
-    "b70df6d5d11b4bad": {
-      "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
-      "fetched_at": "2026-11-17T15:05:12.956927+00:00"
-    },
-    "5b500eb3eb1efbf2": {
-      "title": "黄仁勋女儿留任引发担忧：脾气暴躁，曾导致多名高管离职",
-      "fetched_at": "2026-11-17T15:05:13.601949+00:00"
-    },
-    "b7912ab23844b7a4": {
-      "title": "特朗普的对华豪赌正适得其反",
-      "fetched_at": "2026-11-17T15:05:14.227177+00:00"
-    },
-    "d2172acae1e837b9": {
-      "title": "10个数字，让你更了解亚洲",
-      "fetched_at": "2026-11-17T15:05:14.856121+00:00"
-    },
-    "33dcf9e75c1a9fec": {
-      "title": "Grizzlies could thrive in California — so why aren’t we reintroducing them?",
-      "fetched_at": "2026-11-17T15:05:17.271162+00:00"
-    },
-    "573bb6381e53f7a6": {
-      "title": "Giant cloud of fish sperm glows green along Canadian island’s coast",
-      "fetched_at": "2026-11-17T15:05:17.927545+00:00"
-    },
-    "013320d6efc78d72": {
-      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
-      "fetched_at": "2026-11-17T15:05:18.571000+00:00"
-    },
-    "91f820b3cae3b3b2": {
-      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
-      "fetched_at": "2026-11-17T15:05:19.196420+00:00"
-    },
-    "85b6752ce43aaf1f": {
-      "title": "The hidden language of psychopathy is not what scientists expected",
-      "fetched_at": "2026-11-17T15:05:19.843913+00:00"
-    },
-    "675847e9d67684ad": {
-      "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
-      "fetched_at": "2026-11-17T15:05:20.555176+00:00"
-    },
-    "5d66940717986574": {
-      "title": "A material just one atom thick reveals a strange quantum secret",
-      "fetched_at": "2026-11-17T15:05:21.187372+00:00"
-    },
-    "20c8e4091b23baf7": {
-      "title": "Would you learn to lucid dream if you could?",
-      "fetched_at": "2026-11-17T15:05:21.833931+00:00"
-    },
-    "89ad7092f24da50e": {
-      "title": "Rare fifth-century burials of Germanic chieftains with dazzling weapons and warhorses discovered in France",
-      "fetched_at": "2026-11-17T15:05:22.462455+00:00"
-    },
-    "733f172355cb8551": {
-      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-      "fetched_at": "2026-11-17T15:05:23.099064+00:00"
-    },
     "fc6f6442d09c0e9a": {
       "title": "Satya Nadella says he’s AGI-pilled now",
       "fetched_at": "2026-11-18T00:08:47.686386+00:00"
@@ -2879,7 +2715,179 @@
     "2034e68326470a9f": {
       "title": "An ancient virus may help explain what makes the human brain different",
       "fetched_at": "2026-11-25T01:43:45.537720+00:00"
+    },
+    "bebad6d502c33c6b": {
+      "title": "Secure AI agents with hazmat suits, not self-defense classes",
+      "fetched_at": "2026-11-25T16:23:27.730702+00:00"
+    },
+    "0b2ca1c035725e0b": {
+      "title": "AI leaders clash over surrendering human free will",
+      "fetched_at": "2026-11-25T16:23:28.342448+00:00"
+    },
+    "29338d11e23bf2b1": {
+      "title": "Ask HN: Where are all the amazing AI-generated software?",
+      "fetched_at": "2026-11-25T16:23:28.956787+00:00"
+    },
+    "ab1d5ac0011c2c31": {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "fetched_at": "2026-11-25T16:23:29.559221+00:00"
+    },
+    "19202d0225320bf5": {
+      "title": "Show HN: Animama – Open-source AI desktop companion with 3D avatars",
+      "fetched_at": "2026-11-25T16:23:30.163614+00:00"
+    },
+    "564ff7c6834d6fc6": {
+      "title": "Show HN: AIgarchy – A satirical AI datacenter tycoon in vanilla JavaScript",
+      "fetched_at": "2026-11-25T16:23:30.785485+00:00"
+    },
+    "c8195f312b556cd4": {
+      "title": "Show HN: Apargon – Open-Source Claude \"Install as App\" for Any AI",
+      "fetched_at": "2026-11-25T16:23:31.470256+00:00"
+    },
+    "53ba070774845cdd": {
+      "title": "Show HN: AI Video Editing Skills",
+      "fetched_at": "2026-11-25T16:23:32.075817+00:00"
+    },
+    "6296f99d9f5fcbc5": {
+      "title": "AIL: An open format for links that start an AI conversation",
+      "fetched_at": "2026-11-25T16:23:32.679579+00:00"
+    },
+    "b68dcdb4a5703386": {
+      "title": "Meta insiders say AI content moderation struggles with nuance and appeals",
+      "fetched_at": "2026-11-25T16:23:33.283195+00:00"
+    },
+    "2f93cdb1b291adae": {
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "fetched_at": "2026-11-25T16:23:33.888832+00:00"
+    },
+    "bd150122a286899b": {
+      "title": "Ask HN: If you had no limitations what would you build in AI?",
+      "fetched_at": "2026-11-25T16:23:34.518451+00:00"
+    },
+    "abab922edbddf3f2": {
+      "title": "App Map: your AI coding agent draws clickable UML of your mobile app",
+      "fetched_at": "2026-11-25T16:23:35.138627+00:00"
+    },
+    "007c59c38d318466": {
+      "title": "Show HN: Proofable, AI that knows you, only does what you allow, and proves it",
+      "fetched_at": "2026-11-25T16:23:35.868917+00:00"
+    },
+    "0d0c3d4c3288a75e": {
+      "title": "Show HN: ClothesMorph – Multi-garment AI virtual try-on in the browser",
+      "fetched_at": "2026-11-25T16:23:36.487523+00:00"
+    },
+    "4c1a8acb4be11664": {
+      "title": "AI does not solve security. That's our job",
+      "fetched_at": "2026-11-25T16:23:37.100364+00:00"
+    },
+    "a06ddc37ecddd650": {
+      "title": "AI Cheating Scandal: S Korea's New Restrictions x Grueling College Entrance Exam",
+      "fetched_at": "2026-11-25T16:23:37.720592+00:00"
+    },
+    "e2895b129d581250": {
+      "title": "Eustella: Europe's AI Agent",
+      "fetched_at": "2026-11-25T16:23:38.333724+00:00"
+    },
+    "79c09e9cc66bc68e": {
+      "title": "Claude and GPT's high-protein diet",
+      "fetched_at": "2026-11-25T16:23:38.929757+00:00"
+    },
+    "b622036ef6f1bcb2": {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "fetched_at": "2026-11-25T16:23:39.530119+00:00"
+    },
+    "6b62d263865e2d66": {
+      "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
+      "fetched_at": "2026-11-25T16:23:42.952114+00:00"
+    },
+    "61ed46e7c380a069": {
+      "title": "BBC事實查核：與中國有關帳號用AI生成影攻擊台灣選舉候選人",
+      "fetched_at": "2026-11-25T16:23:43.555772+00:00"
+    },
+    "1786e256223bb8f7": {
+      "title": "上海市委書記陳吉寧被查 中共高層明日之星意外隕落",
+      "fetched_at": "2026-11-25T16:23:44.177140+00:00"
+    },
+    "8c7f9687ec157cac": {
+      "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
+      "fetched_at": "2026-11-25T16:23:44.762002+00:00"
+    },
+    "604564506950992c": {
+      "title": "黄仁勋重返英伟达，北京喜忧参半",
+      "fetched_at": "2026-11-25T16:23:45.365319+00:00"
+    },
+    "dffc205501c34d4b": {
+      "title": "“我犯了一些可怕的错误”：黄仁勋向英伟达员工致歉",
+      "fetched_at": "2026-11-25T16:23:45.972449+00:00"
+    },
+    "9868e813cd80b386": {
+      "title": "宏福苑大火一週年：「這條刺永遠都在」，遺屬在傷痛中尋找答案",
+      "fetched_at": "2026-11-25T16:23:46.578230+00:00"
+    },
+    "1062aa00a394bbfd": {
+      "title": "从兵工厂小镇到英伟达核心圈：黄乐的人生轨迹与间谍疑云",
+      "fetched_at": "2026-11-25T16:23:47.186190+00:00"
+    },
+    "f481235310f8c13f": {
+      "title": "为什么黄仁勋不可撼动",
+      "fetched_at": "2026-11-25T16:23:47.822398+00:00"
+    },
+    "2d79cdc6cd7cf112": {
+      "title": "华为在美被判窃取商业机密等罪名成立",
+      "fetched_at": "2026-11-25T16:23:48.430228+00:00"
+    },
+    "d8bb7d3cd0f020bd": {
+      "title": "從蔡康永、《VIVANT》到姆巴佩，北京為何區別處理「辱華」？",
+      "fetched_at": "2026-11-25T16:23:49.023920+00:00"
+    },
+    "1ed4da08c8d24ffb": {
+      "title": "DeepSeek被美國政府系統禁用：中美AI競爭繼續升溫",
+      "fetched_at": "2026-11-25T16:23:49.638992+00:00"
+    },
+    "1d0e8caca9a148d5": {
+      "title": "Scientists may have discovered new branch on the human family tree, 100,000-year-old tooth in China suggests",
+      "fetched_at": "2026-11-25T16:23:51.341399+00:00"
+    },
+    "96e061d9cdc34136": {
+      "title": "A woman gulped ice-cold drinks and ended up with torn arteries",
+      "fetched_at": "2026-11-25T16:23:51.948639+00:00"
+    },
+    "de1f83ae4a35266f": {
+      "title": "This winter's El Niño is a crystal ball for the future. We must use it as a test.",
+      "fetched_at": "2026-11-25T16:23:52.558813+00:00"
+    },
+    "434bc9d0eb06af8a": {
+      "title": "A space telescope hunting for dark matter just discovered something unexpected",
+      "fetched_at": "2026-11-25T16:23:53.159497+00:00"
+    },
+    "3015752c7d0333e7": {
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "fetched_at": "2026-11-25T16:23:53.770311+00:00"
+    },
+    "dc8cc87e5b7584ba": {
+      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+      "fetched_at": "2026-11-25T16:23:54.360789+00:00"
+    },
+    "e4fdd99d62a5f7b1": {
+      "title": "Physicists just sent an unblockable message through a brick wall using gravity",
+      "fetched_at": "2026-11-25T16:23:54.950571+00:00"
+    },
+    "f1dd453da01ced41": {
+      "title": "Einstein’s 120-year-old theory may be missing something big about the Big Bang",
+      "fetched_at": "2026-11-25T16:23:55.539039+00:00"
+    },
+    "a3f7eb19c3278447": {
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "fetched_at": "2026-11-25T16:23:56.164450+00:00"
+    },
+    "0ee4a7276976ee7c": {
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "fetched_at": "2026-11-25T16:23:56.774468+00:00"
+    },
+    "35befd9a763a42b6": {
+      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+      "fetched_at": "2026-11-25T16:23:57.385910+00:00"
     }
   },
-  "last_updated": "2026-11-25T01:43:45.585238+00:00"
+  "last_updated": "2026-11-25T16:23:57.434454+00:00"
 }
