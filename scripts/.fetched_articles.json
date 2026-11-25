@@ -1,169 +1,5 @@
 {
   "articles": {
-    "8f58b39af57e5365": {
-      "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
-      "fetched_at": "2026-11-17T01:14:09.482697+00:00"
-    },
-    "9794deb2735ed487": {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "fetched_at": "2026-11-17T01:14:10.112058+00:00"
-    },
-    "0470e9ca9c050e7f": {
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "fetched_at": "2026-11-17T01:14:10.735863+00:00"
-    },
-    "0097a01f7519fbdc": {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "fetched_at": "2026-11-17T01:14:11.336458+00:00"
-    },
-    "eb0c3b3aca9f6495": {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "fetched_at": "2026-11-17T01:14:11.957119+00:00"
-    },
-    "2a27d102806684d1": {
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "fetched_at": "2026-11-17T01:14:12.587772+00:00"
-    },
-    "eb669bcb7e085af1": {
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "fetched_at": "2026-11-17T01:14:13.316173+00:00"
-    },
-    "286f866ff9302377": {
-      "title": "US data centers now burn more electricity than a midsized country",
-      "fetched_at": "2026-11-17T01:14:13.925222+00:00"
-    },
-    "99694bb8ad872f34": {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "fetched_at": "2026-11-17T01:14:14.541175+00:00"
-    },
-    "92e93b176826722d": {
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "fetched_at": "2026-11-17T01:14:15.152729+00:00"
-    },
-    "5f8c2aa05723f4e0": {
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "fetched_at": "2026-11-17T01:14:15.753723+00:00"
-    },
-    "fd5695f478c917fc": {
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "fetched_at": "2026-11-17T01:14:16.393608+00:00"
-    },
-    "420b36e5c8cbc423": {
-      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-      "fetched_at": "2026-11-17T01:14:17.027337+00:00"
-    },
-    "66c366242530c283": {
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "fetched_at": "2026-11-17T01:14:17.645294+00:00"
-    },
-    "33f05fdc09d29cdb": {
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "fetched_at": "2026-11-17T01:14:18.266091+00:00"
-    },
-    "0b2845e6eaa20e11": {
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "fetched_at": "2026-11-17T01:14:18.891529+00:00"
-    },
-    "9eabd2a26402e5e3": {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "fetched_at": "2026-11-17T01:14:19.531180+00:00"
-    },
-    "23a71fbaf147a587": {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "fetched_at": "2026-11-17T01:14:20.136286+00:00"
-    },
-    "c7b54c75b4d53b37": {
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "fetched_at": "2026-11-17T01:14:20.737864+00:00"
-    },
-    "de2c4e3dba990234": {
-      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "fetched_at": "2026-11-17T01:14:21.332639+00:00"
-    },
-    "dfba80314bb6846a": {
-      "title": "黄仁勋骤然离场，亚洲失去驻美“AI大使”",
-      "fetched_at": "2026-11-17T01:14:24.735687+00:00"
-    },
-    "eb100995bc372a7c": {
-      "title": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
-      "fetched_at": "2026-11-17T01:14:25.347683+00:00"
-    },
-    "0cd72b6c7ddac5b2": {
-      "title": "美國全國停飛兩天後仍有數千航班受阻，原因為銅線升級光纖工程",
-      "fetched_at": "2026-11-17T01:14:25.988215+00:00"
-    },
-    "3e181de53d8c97c3": {
-      "title": "APEC深圳峰會：中方確認美中俄會晤，日方盼習近平與高市握手",
-      "fetched_at": "2026-11-17T01:14:26.598927+00:00"
-    },
-    "d8bb7d3cd0f020bd": {
-      "title": "從蔡康永、《VIVANT》到姆巴佩，北京為何區別處理「辱華」？",
-      "fetched_at": "2026-11-17T01:14:27.260450+00:00"
-    },
-    "1ed4da08c8d24ffb": {
-      "title": "DeepSeek被美國政府系統禁用：中美AI競爭繼續升溫",
-      "fetched_at": "2026-11-17T01:14:27.891192+00:00"
-    },
-    "14c49821373f0cfc": {
-      "title": "The Leonid meteor shower peaks tonight: How to see more than a dozen 'shooting stars' per hour",
-      "fetched_at": "2026-11-17T01:15:03.489844+00:00"
-    },
-    "ca3fd959e7330cd9": {
-      "title": "Turkey's ancient underground city has lessons for escaping extreme heat and cold",
-      "fetched_at": "2026-11-17T01:15:04.130065+00:00"
-    },
-    "ce95704e4176bf09": {
-      "title": "Rich in Hindsight (grow v$100 in 1970 using historical stock prices)",
-      "fetched_at": "2026-11-17T01:15:04.755463+00:00"
-    },
-    "1f812cba010f59e0": {
-      "title": "Souvenir Collection May Have Begun 500,000 Years Ago",
-      "fetched_at": "2026-11-17T01:15:05.365179+00:00"
-    },
-    "f172a889bcb3f48b": {
-      "title": "Natufian Clay Figurines Dated to 15,000 Years Ago",
-      "fetched_at": "2026-11-17T01:15:05.973935+00:00"
-    },
-    "30a2655317ca28f6": {
-      "title": "Did Paleolithic Arabians Poison Their Weapons?",
-      "fetched_at": "2026-11-17T01:15:06.598478+00:00"
-    },
-    "5bf51199812442d3": {
-      "title": "Tiny robots can tumble through blood vessels to help dissolve blood clots, early test shows",
-      "fetched_at": "2026-11-17T01:15:07.202727+00:00"
-    },
-    "a3f7eb19c3278447": {
-      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
-      "fetched_at": "2026-11-17T01:15:07.840529+00:00"
-    },
-    "0ee4a7276976ee7c": {
-      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
-      "fetched_at": "2026-11-17T01:15:08.435064+00:00"
-    },
-    "35befd9a763a42b6": {
-      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
-      "fetched_at": "2026-11-17T01:15:09.042792+00:00"
-    },
-    "db2c84467dabfc31": {
-      "title": "Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
-      "fetched_at": "2026-11-17T01:15:09.660023+00:00"
-    },
-    "593431a951715fea": {
-      "title": "'Flames soon engulfed us': Artemis II astronaut describes the historic mission's riskiest moment",
-      "fetched_at": "2026-11-17T01:15:10.276828+00:00"
-    },
-    "bf0b16ce94905013": {
-      "title": "NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda",
-      "fetched_at": "2026-11-17T01:15:10.882532+00:00"
-    },
-    "9cfc0b4ad28a5112": {
-      "title": "How frequently did Viking women fight in battle?",
-      "fetched_at": "2026-11-17T01:15:11.490928+00:00"
-    },
-    "33e000921be7ac90": {
-      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-      "fetched_at": "2026-11-17T01:15:12.120452+00:00"
-    },
     "07253fd0ef41bc22": {
       "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
       "fetched_at": "2026-11-17T15:04:52.288225+00:00"
@@ -2887,7 +2723,163 @@
     "0f6af33a03c99c70": {
       "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
       "fetched_at": "2026-11-24T16:41:18.251133+00:00"
+    },
+    "f23ca61571443467": {
+      "title": "RL Infrastructure at Microsoft AI",
+      "fetched_at": "2026-11-25T01:43:18.412382+00:00"
+    },
+    "82f51872faf3f543": {
+      "title": "AI employees sound alarm: models too powerful to ever release",
+      "fetched_at": "2026-11-25T01:43:19.046290+00:00"
+    },
+    "b5048a925002e53c": {
+      "title": "Show HN: Social network with open moderation funded by 1-cent votes. AI filter",
+      "fetched_at": "2026-11-25T01:43:19.661186+00:00"
+    },
+    "90bc393080509c98": {
+      "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+      "fetched_at": "2026-11-25T01:43:20.285374+00:00"
+    },
+    "45a0c5e452c08a0f": {
+      "title": "Towards Fair Resource Sharing in Agentic LLM Serving",
+      "fetched_at": "2026-11-25T01:43:20.929771+00:00"
+    },
+    "ac88e4fe913bd855": {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "fetched_at": "2026-11-25T01:43:21.540022+00:00"
+    },
+    "466d6f843caeb83d": {
+      "title": "Koi: Evidence-Guided, Self-Calibrating Planning for Multi-Cloud LLM Inference",
+      "fetched_at": "2026-11-25T01:43:22.182361+00:00"
+    },
+    "15f4e72682d0294e": {
+      "title": "Bodybench: Testing Adversarial Image Defenses Against AI Nudification Inpainting",
+      "fetched_at": "2026-11-25T01:43:22.806893+00:00"
+    },
+    "3308aaf653c0c115": {
+      "title": "The Chinese AI app Talkie engineered to hook kids and mine their data",
+      "fetched_at": "2026-11-25T01:43:23.411276+00:00"
+    },
+    "072a20d0a4678278": {
+      "title": "Show HN: End User, a game about smuggling AI chips past export controls",
+      "fetched_at": "2026-11-25T01:43:24.024394+00:00"
+    },
+    "51c39e894fc1b157": {
+      "title": "Compare AI Model Intelligence Levels",
+      "fetched_at": "2026-11-25T01:43:24.644473+00:00"
+    },
+    "269d8fbe1139a897": {
+      "title": "Why supervision does not scale with the AI coding agents",
+      "fetched_at": "2026-11-25T01:43:25.263373+00:00"
+    },
+    "be5c095c4babf638": {
+      "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "fetched_at": "2026-11-25T01:43:25.876990+00:00"
+    },
+    "9c0a3a4ca8820a8d": {
+      "title": "Three LLM inflection points in twelve months",
+      "fetched_at": "2026-11-25T01:43:26.508130+00:00"
+    },
+    "0dbc43c3ea2b96a0": {
+      "title": "Using AI Without Losing Your Humanity",
+      "fetched_at": "2026-11-25T01:43:27.122343+00:00"
+    },
+    "0fe4fba714d971b8": {
+      "title": "AI is moving way too fast (Nate Silver)",
+      "fetched_at": "2026-11-25T01:43:27.782250+00:00"
+    },
+    "c860ef2d14441ff0": {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "fetched_at": "2026-11-25T01:43:28.386811+00:00"
+    },
+    "b6326bb37245e913": {
+      "title": "Dell's AI server backlog hits $132.3B as AI orders reach $60.2B",
+      "fetched_at": "2026-11-25T01:43:29.017560+00:00"
+    },
+    "2517b2ccba07b1a0": {
+      "title": "Show HN: Zarvie AI OS. Guess built in which language?",
+      "fetched_at": "2026-11-25T01:43:29.657908+00:00"
+    },
+    "e9309808599312de": {
+      "title": "Dimensional – Load testing for AI features that measures answer quality",
+      "fetched_at": "2026-11-25T01:43:30.270572+00:00"
+    },
+    "27775d54e1ba92ce": {
+      "title": "我每月花250英鎊請人幫我處理生活雜務，而這很值得",
+      "fetched_at": "2026-11-25T01:43:32.950709+00:00"
+    },
+    "d7340c6376f953b0": {
+      "title": "香港宏福苑大火一週年：災後餘生，家在何方？",
+      "fetched_at": "2026-11-25T01:43:33.586696+00:00"
+    },
+    "3f6d0dc1b85546ea": {
+      "title": "上海市委书记陈吉宁被调查",
+      "fetched_at": "2026-11-25T01:43:34.214700+00:00"
+    },
+    "e911f3822059ab90": {
+      "title": "里長赴中旅遊：台灣《反滲透法》為何「查辦多、定罪少」？",
+      "fetched_at": "2026-11-25T01:43:34.910611+00:00"
+    },
+    "8a081a5114d88bba": {
+      "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
+      "fetched_at": "2026-11-25T01:43:35.541525+00:00"
+    },
+    "47b4f60eb0c979eb": {
+      "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動產業、政治與社會？",
+      "fetched_at": "2026-11-25T01:43:36.181059+00:00"
+    },
+    "e3a7ce689a83326f": {
+      "title": "Medieval chain mail discovered during underwater excavation of 15th-century 'floating castle' that sank off Sweden",
+      "fetched_at": "2026-11-25T01:43:37.993315+00:00"
+    },
+    "8c16a36dc53600b9": {
+      "title": "What Did Children in a Greek Colony Eat 2,500 Years Ago?",
+      "fetched_at": "2026-11-25T01:43:38.622577+00:00"
+    },
+    "89c29ce7f31714e2": {
+      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "fetched_at": "2026-11-25T01:43:39.266551+00:00"
+    },
+    "ca9037c1df449d3c": {
+      "title": "Tunnels Underneath Hagia Sophia Excavated",
+      "fetched_at": "2026-11-25T01:43:39.878321+00:00"
+    },
+    "59edd0aeb93be5f0": {
+      "title": "Why Nobel physics prize winner Francis Halzen staked his career on an 'almost non-existent piece of reality'",
+      "fetched_at": "2026-11-25T01:43:40.504408+00:00"
+    },
+    "20a8246a53ea2070": {
+      "title": "It's time to look at Uranus: How to see the solar system's strangest planet at its best this week",
+      "fetched_at": "2026-11-25T01:43:41.130767+00:00"
+    },
+    "c13674d36c9a230c": {
+      "title": "Bison Jump Site Identified in Texas",
+      "fetched_at": "2026-11-25T01:43:41.776571+00:00"
+    },
+    "060659bce07433fa": {
+      "title": "A black hole the size of an atom could destroy an entire star",
+      "fetched_at": "2026-11-25T01:43:42.395687+00:00"
+    },
+    "ec1afec3624f3afc": {
+      "title": "Beaver Moon 2026: See a bright, full 'supermoon' rise tonight, and another on Christmas Eve",
+      "fetched_at": "2026-11-25T01:43:43.020684+00:00"
+    },
+    "6dffb7bb968adb92": {
+      "title": "Thinkers of Cernavodă: Mysterious Stone Age figurines discovered in a 7,000-year-old grave in Romania",
+      "fetched_at": "2026-11-25T01:43:43.662081+00:00"
+    },
+    "c61174e9f9abef1b": {
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "fetched_at": "2026-11-25T01:43:44.286682+00:00"
+    },
+    "f6c5d664094c7fa3": {
+      "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+      "fetched_at": "2026-11-25T01:43:44.916840+00:00"
+    },
+    "2034e68326470a9f": {
+      "title": "An ancient virus may help explain what makes the human brain different",
+      "fetched_at": "2026-11-25T01:43:45.537720+00:00"
     }
   },
-  "last_updated": "2026-11-24T16:41:18.361298+00:00"
+  "last_updated": "2026-11-25T01:43:45.585238+00:00"
 }
