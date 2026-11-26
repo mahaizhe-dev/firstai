@@ -1,133 +1,5 @@
 {
   "articles": {
-    "fc6f6442d09c0e9a": {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "fetched_at": "2026-11-18T00:08:47.686386+00:00"
-    },
-    "750797e7a10d6baf": {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "fetched_at": "2026-11-18T00:08:48.309516+00:00"
-    },
-    "e4b0089fa0aea382": {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "fetched_at": "2026-11-18T00:08:48.943996+00:00"
-    },
-    "b61ea14696f42741": {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "fetched_at": "2026-11-18T00:08:49.546091+00:00"
-    },
-    "0c6a4cffa80e138d": {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "fetched_at": "2026-11-18T00:08:50.172054+00:00"
-    },
-    "38a41d75a9baeb1c": {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "fetched_at": "2026-11-18T00:08:50.795569+00:00"
-    },
-    "cfd6bfbe5c0df858": {
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "fetched_at": "2026-11-18T00:08:51.402493+00:00"
-    },
-    "27250c035b49380a": {
-      "title": "Google joins the tech outage trend by announcing it’s not having one",
-      "fetched_at": "2026-11-18T00:08:52.050520+00:00"
-    },
-    "b9c54233f7edf759": {
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "fetched_at": "2026-11-18T00:08:52.684262+00:00"
-    },
-    "d96c6c7eb7e59ba7": {
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "fetched_at": "2026-11-18T00:08:53.306793+00:00"
-    },
-    "47f2995af0c18faf": {
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "fetched_at": "2026-11-18T00:08:53.914625+00:00"
-    },
-    "ca06122cfc3593b9": {
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "fetched_at": "2026-11-18T00:08:54.543039+00:00"
-    },
-    "3a58024ba4e22f66": {
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "fetched_at": "2026-11-18T00:08:55.176332+00:00"
-    },
-    "469d97ad9156cdc8": {
-      "title": "As decision model use skyrockets, is customization the next frontier?",
-      "fetched_at": "2026-11-18T00:08:55.789859+00:00"
-    },
-    "16eaefbe59979e8d": {
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "fetched_at": "2026-11-18T00:08:56.412549+00:00"
-    },
-    "f3187c886b571b6d": {
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "fetched_at": "2026-11-18T00:08:57.039403+00:00"
-    },
-    "66347156ecb8bea1": {
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "fetched_at": "2026-11-18T00:08:57.640979+00:00"
-    },
-    "b48c2dc6aa2aaf36": {
-      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "fetched_at": "2026-11-18T00:08:58.296493+00:00"
-    },
-    "baa74a676a673f24": {
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "fetched_at": "2026-11-18T00:08:58.927529+00:00"
-    },
-    "adf58bce91b959ce": {
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "fetched_at": "2026-11-18T00:08:59.544224+00:00"
-    },
-    "e6468939ef5f3f92": {
-      "title": "台灣高雄市選戰：「知識藍」柯志恩對決「新潮流」賴瑞隆，國民黨有可能複製「韓流」嗎？",
-      "fetched_at": "2026-11-18T00:09:02.809678+00:00"
-    },
-    "aa518199f1fc72cb": {
-      "title": "19th-Century Philosopher’s Head Examined",
-      "fetched_at": "2026-11-18T00:09:15.162686+00:00"
-    },
-    "265c9c13d81abce3": {
-      "title": "Mesopotamian Chronology Refined with Tree Rings and Ice Cores",
-      "fetched_at": "2026-11-18T00:09:15.771159+00:00"
-    },
-    "f7dfb90a6c38dd7f": {
-      "title": "Taking Time Out of Toctou: From Race Reproduction to Security Discovery",
-      "fetched_at": "2026-11-18T00:09:16.383558+00:00"
-    },
-    "4ee5077b174dc36b": {
-      "title": "CERN physicists measure the universe at the smallest scale ever: enter the 'zeptoverse'",
-      "fetched_at": "2026-11-18T00:09:17.014578+00:00"
-    },
-    "fea11812abb254ac": {
-      "title": "New Analysis of Hunter-Gatherer Remains Recovered on Danish Island",
-      "fetched_at": "2026-11-18T00:09:17.636010+00:00"
-    },
-    "b5b9b6c47807f730": {
-      "title": "Distributed Algorithms of Ancient Greece",
-      "fetched_at": "2026-11-18T00:09:18.263483+00:00"
-    },
-    "93aea250824a92d7": {
-      "title": "Ancient Technology Makes These Water Bells Sing [video]",
-      "fetched_at": "2026-11-18T00:09:18.876911+00:00"
-    },
-    "2c7361e357d9412b": {
-      "title": "Terracotta cockerel vase: A 2,600-year-old Etruscan inkwell featuring 26 letters of the undeciphered ancient language",
-      "fetched_at": "2026-11-18T00:09:19.505882+00:00"
-    },
-    "7546e80c9555cd70": {
-      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
-      "fetched_at": "2026-11-18T00:09:20.116510+00:00"
-    },
-    "8647f02188b7225f": {
-      "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
-      "fetched_at": "2026-11-18T00:09:20.724485+00:00"
-    },
-    "781c9ff5d1c18651": {
-      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-      "fetched_at": "2026-11-18T00:09:21.350700+00:00"
-    },
     "fc9e02040d2f8bf4": {
       "title": "Will Wright’s next game uses AI to map your memories",
       "fetched_at": "2026-11-18T14:44:22.329674+00:00"
@@ -2887,7 +2759,151 @@
     "35befd9a763a42b6": {
       "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
       "fetched_at": "2026-11-25T16:23:57.385910+00:00"
+    },
+    "86b605e2e0612a7d": {
+      "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+      "fetched_at": "2026-11-26T01:16:26.917050+00:00"
+    },
+    "c6f2b127a8b1c741": {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "fetched_at": "2026-11-26T01:16:27.485838+00:00"
+    },
+    "35f5cc8e977c381b": {
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "fetched_at": "2026-11-26T01:16:28.068331+00:00"
+    },
+    "30ff1ed684f1208d": {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "fetched_at": "2026-11-26T01:16:28.633802+00:00"
+    },
+    "8f03f25de2bf2f1b": {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "fetched_at": "2026-11-26T01:16:29.205331+00:00"
+    },
+    "dbbcd3d9d538d93c": {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "fetched_at": "2026-11-26T01:16:29.787305+00:00"
+    },
+    "edfc527ef36f22b8": {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "fetched_at": "2026-11-26T01:16:30.356293+00:00"
+    },
+    "542af825f6f65531": {
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "fetched_at": "2026-11-26T01:16:30.926863+00:00"
+    },
+    "68fe57067ba13888": {
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "fetched_at": "2026-11-26T01:16:31.503015+00:00"
+    },
+    "b522f2a7bdbc1ba1": {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "fetched_at": "2026-11-26T01:16:32.077684+00:00"
+    },
+    "9cfc49d85f355020": {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "fetched_at": "2026-11-26T01:16:32.678689+00:00"
+    },
+    "4bd1ccd09348ed56": {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "fetched_at": "2026-11-26T01:16:33.247432+00:00"
+    },
+    "f61f8e00be23500e": {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "fetched_at": "2026-11-26T01:16:33.818984+00:00"
+    },
+    "77a074d1eb225c2a": {
+      "title": "翻开 2027， 值得入手的新年日历推荐",
+      "fetched_at": "2026-11-26T01:16:34.403177+00:00"
+    },
+    "1ed2c88f24d195ac": {
+      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+      "fetched_at": "2026-11-26T01:16:34.973317+00:00"
+    },
+    "a3c859adcd5006f8": {
+      "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+      "fetched_at": "2026-11-26T01:16:35.577035+00:00"
+    },
+    "ddea8503a37dd6a3": {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "fetched_at": "2026-11-26T01:16:35.577166+00:00"
+    },
+    "ce38368f97e73e69": {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "fetched_at": "2026-11-26T01:16:36.142376+00:00"
+    },
+    "fbe9b33b14b92dfc": {
+      "title": "Even the best AI agents struggle with everyday life",
+      "fetched_at": "2026-11-26T01:16:36.714866+00:00"
+    },
+    "bec3524056edb5ba": {
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "fetched_at": "2026-11-26T01:16:37.315569+00:00"
+    },
+    "7c8bad23561b3244": {
+      "title": "白紙運動四年之後，上海青年公共空間去哪兒了？",
+      "fetched_at": "2026-11-26T01:16:39.181158+00:00"
+    },
+    "9096f9054f9e1f2f": {
+      "title": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
+      "fetched_at": "2026-11-26T01:16:39.744010+00:00"
+    },
+    "b721b725d0da96da": {
+      "title": "羅伯·派汀森：《暮光之城》男主角如何成為007",
+      "fetched_at": "2026-11-26T01:16:40.313347+00:00"
+    },
+    "e6b73dfa0ba1a95b": {
+      "title": "Your risk of heart attack and stroke could be forecasted 30 years in advance, study suggests",
+      "fetched_at": "2026-11-26T01:16:42.067876+00:00"
+    },
+    "c4e242987a3b435d": {
+      "title": "James Webb and Euclid telescopes discover record-breaking black hole at the edge of the universe",
+      "fetched_at": "2026-11-26T01:16:42.637617+00:00"
+    },
+    "cca0c0607a6214fa": {
+      "title": "Ancient 'supermountains' under Antarctica supercharged complex life on Earth, study claims ‪—‬ but not everyone agrees",
+      "fetched_at": "2026-11-26T01:16:43.213681+00:00"
+    },
+    "999c113ab8ee1847": {
+      "title": "Acheulean Hand Axes Found in Kalahari Desert",
+      "fetched_at": "2026-11-26T01:16:43.775763+00:00"
+    },
+    "c329e1c13c72fe2c": {
+      "title": "'Like designing a new key to open a defective lock': AI-designed protein tricks defective insulin receptors into working",
+      "fetched_at": "2026-11-26T01:16:44.425526+00:00"
+    },
+    "31021fc294e9a2b6": {
+      "title": "Ptolemaic Foundation Unearthed in Alexandria",
+      "fetched_at": "2026-11-26T01:16:45.001499+00:00"
+    },
+    "3baaf54e08cce293": {
+      "title": "Researchers Evaluate Variety in Diet of Australia’s First Nations",
+      "fetched_at": "2026-11-26T01:16:45.567721+00:00"
+    },
+    "923d5d3180db079c": {
+      "title": "California braces for triple flooding threat as 'king tides' overlap with 'super' El Niño",
+      "fetched_at": "2026-11-26T01:16:46.156138+00:00"
+    },
+    "013320d6efc78d72": {
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "fetched_at": "2026-11-26T01:16:46.737357+00:00"
+    },
+    "91f820b3cae3b3b2": {
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "fetched_at": "2026-11-26T01:16:47.304773+00:00"
+    },
+    "85b6752ce43aaf1f": {
+      "title": "The hidden language of psychopathy is not what scientists expected",
+      "fetched_at": "2026-11-26T01:16:47.889437+00:00"
+    },
+    "675847e9d67684ad": {
+      "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
+      "fetched_at": "2026-11-26T01:16:48.484908+00:00"
+    },
+    "5d66940717986574": {
+      "title": "A material just one atom thick reveals a strange quantum secret",
+      "fetched_at": "2026-11-26T01:16:49.050477+00:00"
     }
   },
-  "last_updated": "2026-11-25T16:23:57.434454+00:00"
+  "last_updated": "2026-11-26T01:16:49.157575+00:00"
 }

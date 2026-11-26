@@ -1,0 +1,10 @@
+---
+title: 'Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future'
+description: 'Last year, Google filed a patent for a system called My Channel that''s designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows '
+pubDate: 2026-11-25T16:51:26
+source: 'The Verge AI'
+sourceUrl: 'https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent'
+tags: []
+---
+
+Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#8230;]
