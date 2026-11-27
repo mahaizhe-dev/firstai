@@ -1,277 +1,5 @@
 {
   "articles": {
-    "fa0470d1387e0847": {
-      "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
-      "fetched_at": "2026-11-19T04:54:19.914004+00:00"
-    },
-    "b34a4173b3e15fc8": {
-      "title": "Madras School System and AI Learning Share Similarity",
-      "fetched_at": "2026-11-19T04:54:20.542942+00:00"
-    },
-    "142e1acab1271d8a": {
-      "title": "Ask HN: What positive impact has AI had in the past 5 years?",
-      "fetched_at": "2026-11-19T04:54:21.186029+00:00"
-    },
-    "7eaa47998b74d295": {
-      "title": "Stickers on Buttons: Why South Korea's Suneung AI cheating patch won't hold",
-      "fetched_at": "2026-11-19T04:54:21.810117+00:00"
-    },
-    "80c780133753e8b9": {
-      "title": "Turning one photo into a Goodbye GTA 5 AI video",
-      "fetched_at": "2026-11-19T04:54:22.445482+00:00"
-    },
-    "1c549507a1b57eec": {
-      "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
-      "fetched_at": "2026-11-19T04:54:23.080406+00:00"
-    },
-    "bd52abac07009fc3": {
-      "title": "Verifiable Identity for AI Agents · Agent Name Service",
-      "fetched_at": "2026-11-19T04:54:23.726778+00:00"
-    },
-    "19c4a7dc267d233c": {
-      "title": "AI asked better questions than KPMG accountants in audit",
-      "fetched_at": "2026-11-19T04:54:24.368260+00:00"
-    },
-    "674054c46f6145fd": {
-      "title": "KPMG pressed its auditor to pass on AI cost savings",
-      "fetched_at": "2026-11-19T04:54:24.993325+00:00"
-    },
-    "245c55895d612d3f": {
-      "title": "Show HN: Disposable – Share small AI-made tools so others can rebuild them",
-      "fetched_at": "2026-11-19T04:54:25.619772+00:00"
-    },
-    "3a45bfe8c059bd96": {
-      "title": "Pond: A New Community of Human–Machine Symbiosis",
-      "fetched_at": "2026-11-19T04:54:26.235253+00:00"
-    },
-    "900313611cc53a8b": {
-      "title": "Itsfree.ai – Every model you can use for free",
-      "fetched_at": "2026-11-19T04:54:26.867950+00:00"
-    },
-    "213d031e4e5686bd": {
-      "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
-      "fetched_at": "2026-11-19T04:54:27.506823+00:00"
-    },
-    "d007bc7ed197a01c": {
-      "title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
-      "fetched_at": "2026-11-19T04:54:28.138120+00:00"
-    },
-    "d71c2505efcb0fc2": {
-      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
-      "fetched_at": "2026-11-19T04:54:28.789329+00:00"
-    },
-    "29cbfa61d43118ad": {
-      "title": "AI will not make you rich (2025)",
-      "fetched_at": "2026-11-19T04:54:29.420949+00:00"
-    },
-    "21a1e676d41ca140": {
-      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-      "fetched_at": "2026-11-19T04:54:30.057272+00:00"
-    },
-    "b288f8e956f4eada": {
-      "title": "AI in the Courtroom",
-      "fetched_at": "2026-11-19T04:54:30.687871+00:00"
-    },
-    "f6c48f6ce979275a": {
-      "title": "Becerra faces a $2B budget deficit as potential AI bust looms",
-      "fetched_at": "2026-11-19T04:54:31.315758+00:00"
-    },
-    "6c2b9cd3e45b7919": {
-      "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
-      "fetched_at": "2026-11-19T04:54:31.947596+00:00"
-    },
-    "b24a5734be899715": {
-      "title": "中美俄元首会晤不会成为另一个雅尔塔会议",
-      "fetched_at": "2026-11-19T04:54:35.221000+00:00"
-    },
-    "f90ce2f34b87bedc": {
-      "title": "习近平与高市早苗简短会面，中日关系无解冻迹象",
-      "fetched_at": "2026-11-19T04:54:35.850275+00:00"
-    },
-    "6b9887e75da3bba1": {
-      "title": "特朗普抵达深圳：展示友好关系，无视间谍丑闻",
-      "fetched_at": "2026-11-19T04:54:36.468673+00:00"
-    },
-    "c874aa330e482cd5": {
-      "title": "APE峰会期间，深圳变“空城”",
-      "fetched_at": "2026-11-19T04:54:37.091277+00:00"
-    },
-    "8cc647308ee4d600": {
-      "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
-      "fetched_at": "2026-11-19T04:54:37.722016+00:00"
-    },
-    "352c1858ca0d5323": {
-      "title": "习近平罕见前往机场迎接特朗普",
-      "fetched_at": "2026-11-19T04:54:38.426808+00:00"
-    },
-    "0a353482de64587e": {
-      "title": "New Historical Guest-Star Candidates from Reassessed Chinese Records",
-      "fetched_at": "2026-11-19T04:54:40.572809+00:00"
-    },
-    "fdbd53880e15d234": {
-      "title": "Historical sociology of neural network research (1991)",
-      "fetched_at": "2026-11-19T04:54:41.188410+00:00"
-    },
-    "0b3fe47c35cf6442": {
-      "title": "Show HN: Distributed Algorithms of Ancient Greece",
-      "fetched_at": "2026-11-19T04:54:41.809815+00:00"
-    },
-    "aea52f8d271a72c3": {
-      "title": "The end of feature discovery as we know it",
-      "fetched_at": "2026-11-19T04:54:42.432028+00:00"
-    },
-    "23b969a9bb4107d4": {
-      "title": "Attempts to improve skill discovery in Claude Code",
-      "fetched_at": "2026-11-19T04:54:43.052542+00:00"
-    },
-    "71488e726c40b854": {
-      "title": "Gravity can reconnect like the sun's magnetic field, a fresh look at Einstein's equations reveals",
-      "fetched_at": "2026-11-19T04:54:43.690312+00:00"
-    },
-    "0f49c46a068a7aa0": {
-      "title": "ZWO Seestar S30 Plus review",
-      "fetched_at": "2026-11-19T04:54:44.332854+00:00"
-    },
-    "1d6c35c88bf77485": {
-      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-      "fetched_at": "2026-11-19T14:51:39.901909+00:00"
-    },
-    "beeeb326dbd8433c": {
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "fetched_at": "2026-11-19T14:51:40.459407+00:00"
-    },
-    "4e726f477de2ad4d": {
-      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-      "fetched_at": "2026-11-19T14:51:41.023701+00:00"
-    },
-    "efdd4688feaa5599": {
-      "title": "Canva adds an AI ‘off’ button",
-      "fetched_at": "2026-11-19T14:51:41.619581+00:00"
-    },
-    "bb098da5620df7cd": {
-      "title": "给 Apple 的 2026 年打分，请你一起参与",
-      "fetched_at": "2026-11-19T14:51:42.183267+00:00"
-    },
-    "e3e9f289bf9fec4a": {
-      "title": "新玩意 256｜少数派的编辑们最近买了啥？",
-      "fetched_at": "2026-11-19T14:51:42.746055+00:00"
-    },
-    "8af24bd9f2211e84": {
-      "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
-      "fetched_at": "2026-11-19T14:51:43.348965+00:00"
-    },
-    "45c859b00d5396ec": {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "fetched_at": "2026-11-19T14:51:43.913846+00:00"
-    },
-    "2578e64b50d478d7": {
-      "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
-      "fetched_at": "2026-11-19T14:51:44.506896+00:00"
-    },
-    "48416a1a1ee09747": {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "fetched_at": "2026-11-19T14:51:45.074637+00:00"
-    },
-    "debe35c3ca54ee68": {
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "fetched_at": "2026-11-19T14:51:45.638274+00:00"
-    },
-    "c64b8bc7a37acc37": {
-      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-      "fetched_at": "2026-11-19T14:51:45.638369+00:00"
-    },
-    "777968f95e49f48c": {
-      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "fetched_at": "2026-11-19T14:51:45.638419+00:00"
-    },
-    "57989dca6e9ffb0c": {
-      "title": "假裝身在紐西蘭、提前請假、搶購遊戲主機：粉絲為《GTA 6》發佈做足準備",
-      "fetched_at": "2026-11-19T14:51:47.780638+00:00"
-    },
-    "5ee1b7bf06940395": {
-      "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
-      "fetched_at": "2026-11-19T14:51:48.342642+00:00"
-    },
-    "d83008ded9fccaef": {
-      "title": "從領導人合照到場邊會談：高市早苗的APEC外交觀察",
-      "fetched_at": "2026-11-19T14:51:48.910118+00:00"
-    },
-    "ad2e225320c1c95a": {
-      "title": "AI是做精神導師，發佈教法裁決？穆斯林對此意見不一",
-      "fetched_at": "2026-11-19T14:51:49.484503+00:00"
-    },
-    "7d48adac164f6e2a": {
-      "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
-      "fetched_at": "2026-11-19T14:51:50.050763+00:00"
-    },
-    "ffba425d55ba8646": {
-      "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
-      "fetched_at": "2026-11-19T14:51:50.610581+00:00"
-    },
-    "c1c1ca723eebe640": {
-      "title": "APEC峰会期间，深圳变“空城”",
-      "fetched_at": "2026-11-19T14:51:51.274903+00:00"
-    },
-    "079d053205690074": {
-      "title": "如何解读特朗普与习近平的拥抱",
-      "fetched_at": "2026-11-19T14:51:51.857131+00:00"
-    },
-    "dd8ddf0a7017caf6": {
-      "title": "中国军方对英伟达芯片触手可及？阿里巴巴扮演重要角色",
-      "fetched_at": "2026-11-19T14:51:52.412791+00:00"
-    },
-    "8c4f8959c947ee46": {
-      "title": "黃仁勳曾告訴我，那些關於中國與國家安全的問題",
-      "fetched_at": "2026-11-19T14:51:53.009748+00:00"
-    },
-    "26b66067dc190053": {
-      "title": "從局長下台到議會「沉默」 宏福苑大火後的政治問責與維穩邏輯",
-      "fetched_at": "2026-11-19T14:51:53.600137+00:00"
-    },
-    "e29e940811246b2e": {
-      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-      "fetched_at": "2026-11-19T14:52:55.678084+00:00"
-    },
-    "7d96931c69e61188": {
-      "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-      "fetched_at": "2026-11-19T14:52:56.237665+00:00"
-    },
-    "767089fdd48f94f2": {
-      "title": "Something strange is living beneath the skin of deep-sea pigs",
-      "fetched_at": "2026-11-19T14:52:56.789771+00:00"
-    },
-    "9b77d2c687f2e77c": {
-      "title": "Why hydrogen flames can glow orange, then turn nearly invisible",
-      "fetched_at": "2026-11-19T14:52:57.395076+00:00"
-    },
-    "5e5980325a672751": {
-      "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
-      "fetched_at": "2026-11-19T14:52:57.956170+00:00"
-    },
-    "039dfaac18ae6e23": {
-      "title": "Is free will an illusion? New brain research reveals a surprising twist",
-      "fetched_at": "2026-11-19T14:52:58.514641+00:00"
-    },
-    "6e8556b549a0d94d": {
-      "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
-      "fetched_at": "2026-11-19T14:52:59.074920+00:00"
-    },
-    "303c20cd35123326": {
-      "title": "Too much exercise could leave your brain stuck in overdrive",
-      "fetched_at": "2026-11-19T14:52:59.648191+00:00"
-    },
-    "9d10a78bb06a41ab": {
-      "title": "Why do farts smell so bad? The secret is brewing in your gut",
-      "fetched_at": "2026-11-19T14:53:00.207634+00:00"
-    },
-    "342e589274b46b2f": {
-      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-      "fetched_at": "2026-11-19T14:53:00.838230+00:00"
-    },
-    "3876fea35b6c71a1": {
-      "title": "Why heart attacks can still happen even when bad cholesterol is low",
-      "fetched_at": "2026-11-19T14:53:01.402981+00:00"
-    },
     "432f34763a76d471": {
       "title": "EU targeted by cyber attack using AI: 'No one is immune'",
       "fetched_at": "2026-11-19T23:59:08.123088+00:00"
@@ -2811,7 +2539,175 @@
     "b8ea12cf8501153b": {
       "title": "Autistic brains look surprisingly similar on average. Then scientists looked closer.",
       "fetched_at": "2026-11-27T01:16:08.687141+00:00"
+    },
+    "8b1601c81279d984": {
+      "title": "Locally: Azure and Entra [emulators] on your machine",
+      "fetched_at": "2026-11-27T15:45:57.297663+00:00"
+    },
+    "e382367ae6e9b76c": {
+      "title": "Show HN: Open-source ESP32 desk body for a local AI assistant",
+      "fetched_at": "2026-11-27T15:45:57.913030+00:00"
+    },
+    "d00893fe9ba507a6": {
+      "title": "I Built IQ-Stream: Streaming LLM Tokens to the Browser Without the Workarounds",
+      "fetched_at": "2026-11-27T15:45:58.526625+00:00"
+    },
+    "e6c7e64d2ae1512e": {
+      "title": "Show HN: AI agents can now call you",
+      "fetched_at": "2026-11-27T15:45:59.157597+00:00"
+    },
+    "3dc9e8566ea1fdf3": {
+      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+      "fetched_at": "2026-11-27T15:45:59.798876+00:00"
+    },
+    "56c4a0eaf7cd6960": {
+      "title": "Retail Self-Checkouts Targeted in Fight to Shield Jobs from AI",
+      "fetched_at": "2026-11-27T15:46:00.415752+00:00"
+    },
+    "9f8a4de2a816694b": {
+      "title": "Show HN: CoDesignFlo – Keep Figma in sync with the code your AI agents ship",
+      "fetched_at": "2026-11-27T15:46:01.051563+00:00"
+    },
+    "a55502be49b1c0bb": {
+      "title": "Show HN: I made a FREE note-taking app that connects to your AI",
+      "fetched_at": "2026-11-27T15:46:01.752524+00:00"
+    },
+    "5faa9e5075ee2e0e": {
+      "title": "OpenAI offering up to $8k a month to teach small businesses AI",
+      "fetched_at": "2026-11-27T15:46:02.380325+00:00"
+    },
+    "5e42d36e9adc8a1e": {
+      "title": "Our AI QA agent on Momentic's open QA Bench, with every run and verdict",
+      "fetched_at": "2026-11-27T15:46:03.017665+00:00"
+    },
+    "b82fc8bfcdddd213": {
+      "title": "AI is straining America's open records systems",
+      "fetched_at": "2026-11-27T15:46:03.632492+00:00"
+    },
+    "89eb47603dab4aeb": {
+      "title": "AI Success Factors – Food for Agile Thought 572",
+      "fetched_at": "2026-11-27T15:46:04.255790+00:00"
+    },
+    "63e1662b72c3704f": {
+      "title": "Show HN: Place AI and math breakthroughs on a timeline vs. Scott Aaronson",
+      "fetched_at": "2026-11-27T15:46:04.893080+00:00"
+    },
+    "91a97c1649f439e7": {
+      "title": "What defenders need to know about agentic AI framework ARTEX threat actors abuse",
+      "fetched_at": "2026-11-27T15:46:05.519044+00:00"
+    },
+    "d140152b0b450211": {
+      "title": "What ten years as a retail investor taught me, and how AI helped me test it",
+      "fetched_at": "2026-11-27T15:46:06.147561+00:00"
+    },
+    "ec78b84bf30394d9": {
+      "title": "AI Hacking Incidents",
+      "fetched_at": "2026-11-27T15:46:06.790138+00:00"
+    },
+    "e191211c41b2c7e7": {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "fetched_at": "2026-11-27T15:46:07.418141+00:00"
+    },
+    "77d561ac8ad00b18": {
+      "title": "Carpool – cut LLM costs by batching tasks and compiling repeated calls into code",
+      "fetched_at": "2026-11-27T15:46:08.051084+00:00"
+    },
+    "dfa4d53abe68c15c": {
+      "title": "Winning in the AI Age",
+      "fetched_at": "2026-11-27T15:46:08.676217+00:00"
+    },
+    "9c7fb0e881fb313e": {
+      "title": "Superhuman Pokemon AI Is Here",
+      "fetched_at": "2026-11-27T15:46:09.324590+00:00"
+    },
+    "71f5512dd93b7707": {
+      "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
+      "fetched_at": "2026-11-27T15:46:12.436363+00:00"
+    },
+    "6dfaf011e9438081": {
+      "title": "小行星撞地球有解嗎？科學家揭示首次行星防禦實驗成果",
+      "fetched_at": "2026-11-27T15:46:13.065996+00:00"
+    },
+    "8d4d6d886669d1ff": {
+      "title": "台中市選戰：江啟臣對決何欣純，盧秀燕問鼎總統前哨戰",
+      "fetched_at": "2026-11-27T15:46:13.713944+00:00"
+    },
+    "df10cb63ca3dfb5f": {
+      "title": "為何特朗普新一輪關稅的威脅不如以往？",
+      "fetched_at": "2026-11-27T15:46:14.330397+00:00"
+    },
+    "b09fa6daa16340f3": {
+      "title": "失去伊朗石油供應，中國小型煉油廠如何應對？",
+      "fetched_at": "2026-11-27T15:46:14.987505+00:00"
+    },
+    "af860d0012f49ab1": {
+      "title": "特朗普新关税再将矛头指向北京，旨在削弱中国供应链优势",
+      "fetched_at": "2026-11-27T15:46:15.607906+00:00"
+    },
+    "671b8669297c575d": {
+      "title": "英伟达暂停向东南亚销售部分芯片，回应政府对华限制措施",
+      "fetched_at": "2026-11-27T15:46:16.220401+00:00"
+    },
+    "8dd26dd0e2ff28ae": {
+      "title": "宏福苑大火一周年：民众纪念逝者，北京警告“以灾乱港”",
+      "fetched_at": "2026-11-27T15:46:16.839001+00:00"
+    },
+    "d102e386ef072889": {
+      "title": "在中国，“女凝”正在推动一场新的娱乐消费热潮",
+      "fetched_at": "2026-11-27T15:46:17.466280+00:00"
+    },
+    "3cee3920b316ceb5": {
+      "title": "华为：从被美国制裁到成为中国人工智能战略的核心",
+      "fetched_at": "2026-11-27T15:46:18.106245+00:00"
+    },
+    "1d04abb30578a9c5": {
+      "title": "台湾喜剧演员黄逸豪：“习近平是我的缪斯”",
+      "fetched_at": "2026-11-27T15:46:18.737488+00:00"
+    },
+    "cd37ce464b986e5b": {
+      "title": "台灣時隔一年再「核電公投」：這次投什麼？通過門檻為何？",
+      "fetched_at": "2026-11-27T15:46:19.373401+00:00"
+    },
+    "747333df100dab94": {
+      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
+      "fetched_at": "2026-11-27T15:46:20.010832+00:00"
+    },
+    "867afb8f7b458559": {
+      "title": "James Webb telescope discovers mysterious red object just 450 million years after the Big Bang — and it could be a baby black hole",
+      "fetched_at": "2026-11-27T15:46:23.917147+00:00"
+    },
+    "7ad37a387f443682": {
+      "title": "DARPA is assessing Microsoft's controversial quantum computing technology. What will happen if the Majorana 2 platform is vindicated?",
+      "fetched_at": "2026-11-27T15:46:24.532677+00:00"
+    },
+    "2751c9b465ba64af": {
+      "title": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+      "fetched_at": "2026-11-27T15:46:25.145557+00:00"
+    },
+    "0fd0d0de910ac7e1": {
+      "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+      "fetched_at": "2026-11-27T15:46:25.782034+00:00"
+    },
+    "148e731cd50623e0": {
+      "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+      "fetched_at": "2026-11-27T15:46:26.409275+00:00"
+    },
+    "f76320fa39b395eb": {
+      "title": "Scientists discover signs of a hidden extinction crisis deep beneath the ocean",
+      "fetched_at": "2026-11-27T15:46:27.027468+00:00"
+    },
+    "f68afd4ca1f87aa6": {
+      "title": "These bizarre prehistoric mammals may have been misunderstood for 150 years",
+      "fetched_at": "2026-11-27T15:46:27.657878+00:00"
+    },
+    "b4fdfe5d940f254e": {
+      "title": "For decades, scientists may have misunderstood how brain cells work",
+      "fetched_at": "2026-11-27T15:46:28.287072+00:00"
+    },
+    "dadb39edfb51e797": {
+      "title": "Stars in your eyes? These are the best Black Friday telescope, smart telescope, binoculars and star projector deals we've found to raise your skywatching game",
+      "fetched_at": "2026-11-27T15:46:28.287239+00:00"
     }
   },
-  "last_updated": "2026-11-27T01:16:08.797776+00:00"
+  "last_updated": "2026-11-27T15:46:28.392385+00:00"
 }
