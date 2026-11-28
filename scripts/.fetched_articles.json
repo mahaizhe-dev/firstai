@@ -1,141 +1,5 @@
 {
   "articles": {
-    "432f34763a76d471": {
-      "title": "EU targeted by cyber attack using AI: 'No one is immune'",
-      "fetched_at": "2026-11-19T23:59:08.123088+00:00"
-    },
-    "87c3d8c815f96cc7": {
-      "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
-      "fetched_at": "2026-11-19T23:59:08.776320+00:00"
-    },
-    "1cbaad93217c66d5": {
-      "title": "Hakeem Jeffries Staffer Built an AI Program for Surveillance and Advice",
-      "fetched_at": "2026-11-19T23:59:09.416273+00:00"
-    },
-    "c290737e1e000539": {
-      "title": "Google Search homepage gets AI-heavy redesign with Gemini",
-      "fetched_at": "2026-11-19T23:59:10.062923+00:00"
-    },
-    "b0ebfe422c2b9722": {
-      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "fetched_at": "2026-11-19T23:59:10.797868+00:00"
-    },
-    "68ec682301581a34": {
-      "title": "AI Agentic harness with explicit risk analysis",
-      "fetched_at": "2026-11-19T23:59:11.531211+00:00"
-    },
-    "7969403a389c4858": {
-      "title": "Show HN: Wellness Tracker for AI Usage",
-      "fetched_at": "2026-11-19T23:59:12.180361+00:00"
-    },
-    "792d3a5aee820007": {
-      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies",
-      "fetched_at": "2026-11-19T23:59:12.893977+00:00"
-    },
-    "8e082b995156058e": {
-      "title": "Wolf at the Door: Apple Rethinking Mac Permissions in the Age of AI",
-      "fetched_at": "2026-11-19T23:59:13.590952+00:00"
-    },
-    "6ceef76c4c29fb38": {
-      "title": "A New Era of Deterministic AI Begins: OLMapp Emerges from Stealth",
-      "fetched_at": "2026-11-19T23:59:14.228287+00:00"
-    },
-    "f1240bd26fcafd2c": {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "fetched_at": "2026-11-19T23:59:14.860452+00:00"
-    },
-    "762174a4600bbc83": {
-      "title": "C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Proof",
-      "fetched_at": "2026-11-19T23:59:15.487228+00:00"
-    },
-    "4f413e5990b105b4": {
-      "title": "A Novel AI-Native GPU Kernel Programming Language for Autonomous Kernel Tuning",
-      "fetched_at": "2026-11-19T23:59:16.122433+00:00"
-    },
-    "2e4dfde975ffac80": {
-      "title": "Show HN: A deterministic agent memory engine in Rust with no LLM",
-      "fetched_at": "2026-11-19T23:59:16.752724+00:00"
-    },
-    "f24e8e2c73bb8548": {
-      "title": "Learning to Compress a Billion Bytes of Wikipedia",
-      "fetched_at": "2026-11-19T23:59:17.418937+00:00"
-    },
-    "16f37ddc4565e3ad": {
-      "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
-      "fetched_at": "2026-11-19T23:59:18.070724+00:00"
-    },
-    "6fd7b44945ed54f4": {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "fetched_at": "2026-11-19T23:59:18.727210+00:00"
-    },
-    "3bd622d0a5eb84ee": {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "fetched_at": "2026-11-19T23:59:19.376834+00:00"
-    },
-    "75dc6a28d273e15b": {
-      "title": "Replit Datacat – their self-hosted observability is AI slop and it doesn't work",
-      "fetched_at": "2026-11-19T23:59:20.026856+00:00"
-    },
-    "af47d6480e7321c8": {
-      "title": "AI Agent Authorization That Limits the Damage of Prompt Injection",
-      "fetched_at": "2026-11-19T23:59:20.656651+00:00"
-    },
-    "aa99b154a91d37b4": {
-      "title": "中美俄元首歷史性會晤 普京獲得外交勝利嗎？",
-      "fetched_at": "2026-11-19T23:59:23.878486+00:00"
-    },
-    "dc24b4ff73cf5a64": {
-      "title": "'I would want to know my horse's backstory': Live Science readers share which animals they'd want to speak with",
-      "fetched_at": "2026-11-19T23:59:25.875004+00:00"
-    },
-    "1de30c96e19a4ff5": {
-      "title": "Computer glitch prevents Voyager 1 from sharing science data on its light-day milestone",
-      "fetched_at": "2026-11-19T23:59:26.508844+00:00"
-    },
-    "b631f246351a033d": {
-      "title": "New study rewrites the role of a major speech hub in the brain",
-      "fetched_at": "2026-11-19T23:59:27.137715+00:00"
-    },
-    "c28482b63be10fb3": {
-      "title": "The immune system 'remembers' germs by tweaking its epigenetics, study shows",
-      "fetched_at": "2026-11-19T23:59:27.788270+00:00"
-    },
-    "5c2fd30cb0722b44": {
-      "title": "Watch fascinating science documentaries on Paramount+ for just $2.99 a month thanks to this early Black Friday deal",
-      "fetched_at": "2026-11-19T23:59:28.418243+00:00"
-    },
-    "b07edd933674601b": {
-      "title": "Study Pushes Back Cultivation of Millet in Bronze Age Poland",
-      "fetched_at": "2026-11-19T23:59:29.055586+00:00"
-    },
-    "9a47772b74beef6d": {
-      "title": "Ancient Cemetery Discovered in Northern Egypt",
-      "fetched_at": "2026-11-19T23:59:29.717940+00:00"
-    },
-    "07aa09c05bd44aa0": {
-      "title": "Rare swarm of asteroids from the solar system’s youth found trailing Neptune around the sun",
-      "fetched_at": "2026-11-19T23:59:30.371679+00:00"
-    },
-    "e0f16bf5b8b671ed": {
-      "title": "Homo Erectus Survived in Southern China’s Tropical Rainforests",
-      "fetched_at": "2026-11-19T23:59:31.026703+00:00"
-    },
-    "c2cf068f7d05a55a": {
-      "title": "Dinosaur quiz: Can you name these 12 dinosaurs?",
-      "fetched_at": "2026-11-19T23:59:31.668147+00:00"
-    },
-    "c8ab626206abff10": {
-      "title": "What if space and time don’t exist? Physicists are chasing hints that our reality emerges from something deeper",
-      "fetched_at": "2026-11-19T23:59:32.319092+00:00"
-    },
-    "28507cb036e142f8": {
-      "title": "A man swallowed a bone, and‬ 15 years later, doctors found it in his appendix",
-      "fetched_at": "2026-11-19T23:59:32.967035+00:00"
-    },
-    "b0aaaeeacdbc1754": {
-      "title": "'No one dared question his results': How thermodynamics sparked a heated debate about Earth's age in the 19th century",
-      "fetched_at": "2026-11-19T23:59:33.606526+00:00"
-    },
     "b1b1dfe6b5a8044a": {
       "title": "Show HN: SoundBench – AI vocal remover and audio tools that run in the browser",
       "fetched_at": "2026-11-20T05:53:16.472397+00:00"
@@ -2707,7 +2571,159 @@
     "dadb39edfb51e797": {
       "title": "Stars in your eyes? These are the best Black Friday telescope, smart telescope, binoculars and star projector deals we've found to raise your skywatching game",
       "fetched_at": "2026-11-27T15:46:28.287239+00:00"
+    },
+    "a17303960de5a9fa": {
+      "title": "Game-Changing Move Just Gave America the Edge over China in AI",
+      "fetched_at": "2026-11-28T00:47:43.246059+00:00"
+    },
+    "1b150935adac0fb7": {
+      "title": "Google DeepMind's AI safety researcher: \"I'm not optimistic\"",
+      "fetched_at": "2026-11-28T00:47:43.804988+00:00"
+    },
+    "aa6d461b3845850c": {
+      "title": "Show HN: OpenMessageBoard: a message board spec for people and AI agents",
+      "fetched_at": "2026-11-28T00:47:44.365192+00:00"
+    },
+    "513991e3a3c3ac29": {
+      "title": "AI Detectors Like Pangram Are Changing Human Writing",
+      "fetched_at": "2026-11-28T00:47:44.938079+00:00"
+    },
+    "3b43fa7ce34b902c": {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "fetched_at": "2026-11-28T00:47:45.527496+00:00"
+    },
+    "a1698cb527ff4e73": {
+      "title": "I was hired by an AI agent",
+      "fetched_at": "2026-11-28T00:47:46.083748+00:00"
+    },
+    "67b5e909b9c62d3c": {
+      "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+      "fetched_at": "2026-11-28T00:47:46.651010+00:00"
+    },
+    "e64949f37984905b": {
+      "title": "Which AI Would You Trust to Build a Bridge? [video]",
+      "fetched_at": "2026-11-28T00:47:47.212561+00:00"
+    },
+    "d30a41d8430e8db0": {
+      "title": "Show HN: A CLI that measures whether AI answers cite your site",
+      "fetched_at": "2026-11-28T00:47:47.766793+00:00"
+    },
+    "0c446023b6cf4604": {
+      "title": "First time AI employee presents PPTX on call [video]",
+      "fetched_at": "2026-11-28T00:47:48.322746+00:00"
+    },
+    "35721351c0d2ce28": {
+      "title": "Show HN: I ran an LLM written in F# on a Commodore 64 [video]",
+      "fetched_at": "2026-11-28T00:47:48.885907+00:00"
+    },
+    "f115a9db307d1f34": {
+      "title": "Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "fetched_at": "2026-11-28T00:47:49.468664+00:00"
+    },
+    "cf78067467e2850d": {
+      "title": "Recovering data from a dead website via the Wayback Machine",
+      "fetched_at": "2026-11-28T00:47:50.055015+00:00"
+    },
+    "a803cf41af62dd6f": {
+      "title": "AI Security Engineers",
+      "fetched_at": "2026-11-28T00:47:50.618933+00:00"
+    },
+    "80b92d6305d979f5": {
+      "title": "Meta defends AI glasses in court as Dutch groups demand ban",
+      "fetched_at": "2026-11-28T00:47:51.182502+00:00"
+    },
+    "d182b396eaaf44e6": {
+      "title": "Jack Clark – Machine Hermeneutics (2033)",
+      "fetched_at": "2026-11-28T00:47:51.787773+00:00"
+    },
+    "3b7b491c7d0c610f": {
+      "title": "AI Trader Agent show up and trade live publicly everyday, win 8/9 past sessions",
+      "fetched_at": "2026-11-28T00:47:52.600997+00:00"
+    },
+    "3b304a8a0cb26eb5": {
+      "title": "Banks look to dump AI debt",
+      "fetched_at": "2026-11-28T00:47:53.183413+00:00"
+    },
+    "6a10b0a64a34c29b": {
+      "title": "Is Lisp Still Relevant in the New Age of AI? [video]",
+      "fetched_at": "2026-11-28T00:47:53.750259+00:00"
+    },
+    "b8dc9c23b6760bb7": {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "fetched_at": "2026-11-28T00:47:54.311141+00:00"
+    },
+    "56f11b992646fb26": {
+      "title": "台灣「九合一」選舉開始投票 核電政策公投同步舉行",
+      "fetched_at": "2026-11-28T00:47:58.848963+00:00"
+    },
+    "8cc647308ee4d600": {
+      "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
+      "fetched_at": "2026-11-28T00:47:59.409647+00:00"
+    },
+    "8c4f8959c947ee46": {
+      "title": "黃仁勳曾告訴我，那些關於中國與國家安全的問題",
+      "fetched_at": "2026-11-28T00:47:59.979006+00:00"
+    },
+    "bfd358cc12bc10b3": {
+      "title": "Discovery of a quasar at z = 8.13 hosting a 360M-solar-mass black hole",
+      "fetched_at": "2026-11-28T00:48:29.964356+00:00"
+    },
+    "018cd9f4dd68297a": {
+      "title": "Open Historical Map",
+      "fetched_at": "2026-11-28T00:48:30.542576+00:00"
+    },
+    "6668950f0ad92b36": {
+      "title": "Why are we the last humans standing? What interbreeding with Neanderthals reveals about the differences between us.",
+      "fetched_at": "2026-11-28T00:48:31.104797+00:00"
+    },
+    "a0d0aabefaae3739": {
+      "title": "Safe, automated bug discovery and fixing with Prospero",
+      "fetched_at": "2026-11-28T00:48:31.699984+00:00"
+    },
+    "888edc4db0f2e410": {
+      "title": "Linux Observability: Historical Operating System State",
+      "fetched_at": "2026-11-28T00:48:32.262180+00:00"
+    },
+    "9fe4ecb37441eba4": {
+      "title": "Will the next big discovery using LLM's solve Fusion Energy?",
+      "fetched_at": "2026-11-28T00:48:32.826706+00:00"
+    },
+    "41d36ef87dcc658c": {
+      "title": "Daily Resonance – Converse with historical mentors",
+      "fetched_at": "2026-11-28T00:48:33.394573+00:00"
+    },
+    "735f5e9bf3fcd7be": {
+      "title": "Switzerland's off grid valley of ancient stone shelters",
+      "fetched_at": "2026-11-28T00:48:33.954222+00:00"
+    },
+    "bb2360b5685ed1ad": {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "fetched_at": "2026-11-28T00:48:34.509839+00:00"
+    },
+    "202a749b7e7b6d0f": {
+      "title": "Contentious Geometry: Ancient Greek Arguments on the Validity of Proofs [video]",
+      "fetched_at": "2026-11-28T00:48:35.089170+00:00"
+    },
+    "b5ce646784531a9d": {
+      "title": "In GTA VI, every stolen car is a music discovery machine",
+      "fetched_at": "2026-11-28T00:48:35.647252+00:00"
+    },
+    "860c7960781b196f": {
+      "title": "Most Ancient Cases of Trolling",
+      "fetched_at": "2026-11-28T00:48:36.209829+00:00"
+    },
+    "db0ff3ba7ba0bc30": {
+      "title": "Project Discovery: Security context for every CVE",
+      "fetched_at": "2026-11-28T00:48:36.768966+00:00"
+    },
+    "cf161bd7db56945e": {
+      "title": "Phytochemical and genetic analyses of ancient cannabis from Central Asia (2008) [pdf]",
+      "fetched_at": "2026-11-28T00:48:37.328776+00:00"
+    },
+    "c43c7963fa5d083e": {
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "fetched_at": "2026-11-28T00:48:37.893549+00:00"
     }
   },
-  "last_updated": "2026-11-27T15:46:28.392385+00:00"
+  "last_updated": "2026-11-28T00:48:37.958064+00:00"
 }
